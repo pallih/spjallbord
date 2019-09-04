@@ -1,0 +1,77 @@
+{
+    "forum_title": "Flug",
+    "user": "geir94",
+    "user_id": "69753",
+    "date": "2009-07-15 18:45:46",
+    "title": "Klifra upp í hæð?",
+    "text": "Sæl verið þið,\nMálið er það að í hvert sinn sem ég fer til útlanda eða innanlands með vél að þá tekur það fyrir þær enga stund að klifra upp í 25.000 fetin eða 35.000 fet (Miðað við Flugfélag íslands sem nota fokker og fara upp í CA: 25.000 fet og Icelandair sem fara frá 35.000 - 40.000) við erum að tala um 10-15-20 min? en í fsx tekur það miklu meiri tíma!!!!!!!!!!!!!! ég hef vélina alltaf í botni en samt hægist á henni niður í 150 hnúta!! og þá þarf ég að rétta hana af og láta hana klifra aftur! og svo eftir 20 og eithvað min að þá er ég loks komin upp í “normal” flughæð? er eithvað sem ég er að gera rangt eða? og svo þegar ég lendi! það er líka einn annar handleggurinn! ég fleug til dk um daginn og upp í 35.000 fetum og ég tók tíman þegar ég lennti á bikf og það tók 10 min! sem er ekki neitt en hjá mér í fsx þarf ég gera það í 15-20 min annars fer vélin of hratt!¨ég verð að fá að vita hvort þið lendið í svipuðu? ef ekki að þá er ég að gera vitlaust og segið mér skref fyrir skref hvernig á að gera þetta?\nAfsakið villurnar er að flýta mérXD takk takk……..",
+    "url": "https://www.hugi.is/flug/korkar/664738/klifra-upp-i-haed/",
+    "url_id": "664738",
+    "id": "6786910",
+    "replies": [
+        {
+            "user": "Dashinn",
+            "user_id": "66123",
+            "date": "2009-07-15 19:32:11",
+            "id": "6786968",
+            "reply_to_id": "6786910",
+            "text": "Ef þú skoðar t.d. Checklista eða Manual fyrir einhverja vél, t.d. B757 hefur Vy (Besti klifurhraði) 250KIAS og hafðu VSI (Klifur- og fallmælir) á 3500-4000fet/p.min., yfir 10.000ft, uppi 280KIAS og minnka niður i 2500-3000ft.\nÞetta er svona c.a. ef þú skoðar síðan einhverja lendingarhraða verðuru að miða við þyngd á farangri og eldsnneyti t.d. B757 lendir þétt setin og með hálfa tanka á c.a. 150KIAS en tóm og lítið bensín á 115-120KIAS.\nFokkerinn fer ekki í nema 12000', nema aðeins hærra til Grænlands og ekki í nema 7000' til Vestmannaeyja :D"
+        },
+        {
+            "user": "geir94",
+            "user_id": "69753",
+            "date": "2009-07-15 21:01:56",
+            "id": "6787136",
+            "reply_to_id": "6786968",
+            "text": "Takk;) flýgur fokkerinn virkilega svo lágt? í flugtímaritinu hjá flugfélagi íslands (ský) stendur 25.000 fet?"
+        },
+        {
+            "user": "Dashinn",
+            "user_id": "66123",
+            "date": "2009-07-15 23:40:38",
+            "id": "6787392",
+            "reply_to_id": "6787136",
+            "text": "Það var sagt við mig þegar ég fór uppi turn að Fokkerinn flýgi svo lágt.\nFokkerinn er með hæstumögulegu flughæð 25.000fet"
+        },
+        {
+            "user": "DaQuai",
+            "user_id": "28090",
+            "date": "2009-07-16 18:42:43",
+            "id": "6788410",
+            "reply_to_id": "6786968",
+            "text": "Fokker flýgur venjulega í svona 18þúsund fetum."
+        },
+        {
+            "user": "Dashinn",
+            "user_id": "66123",
+            "date": "2009-07-16 19:11:56",
+            "id": "6788469",
+            "reply_to_id": "6788410",
+            "text": "Þekki það ekki nógu vel enn spurði og sá uppi í turninum ræmurnar sem þeir fara eftir að þá var 7000' til eyja, 12000' á Akureyri, þetta stóð þar…..:S:S"
+        },
+        {
+            "user": "DaQuai",
+            "user_id": "28090",
+            "date": "2009-07-17 09:20:03",
+            "id": "6789389",
+            "reply_to_id": "6788469",
+            "text": "Jájá, auðvitað fer þetta eftir veðri. Á góðviðrisdögum þarf nú ekki að vera að fara uppí einhverjar hæðir en á svona venjulegum degi er flogið í ca. plús/mínus 18þúsund fetum."
+        },
+        {
+            "user": "geir94",
+            "user_id": "69753",
+            "date": "2009-07-15 22:34:28",
+            "id": "6787275",
+            "reply_to_id": "6786910",
+            "text": "Fer allt eftir þyngd. Það er best að nota Vnav til að láta vélina fljúga rétt miðað við hraða. Þá klifrar hún upp í flughæð á sem stiðstum og haghvæmasta hraða og fer reyndar líka eftir því hvað eldsneytið kostar getur stillt það í FMC (Cost index) frá 0 uppí 200. Ef talan er lág þá kostar eldsneytið mikið og ef hún er há þá er það ódýrt (Þetta er í kring um 30-35 þessa dagana. Síðan ef vélin er mjög þung (ZFW mikið og mikið eldsneyti) Þá geturu einfaldlega ekki flogið eins hátt. Þú getur séð á PROG síðu 1 bæði hámarks flughæð og hagkvæmustu flughæð.\nÍ sambandi við fokker þá held ég að þeir fljúgi yfirleitt í 16-19000 fetum ;)"
+        },
+        {
+            "user": "geir94",
+            "user_id": "69753",
+            "date": "2009-07-16 22:31:57",
+            "id": "6788822",
+            "reply_to_id": "6787275",
+            "text": "takk fyrir allir;)"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "forum_title": "Windows",
+    "user": "ebrithil",
+    "user_id": "66651",
+    "date": "2009-06-06 11:50:29",
+    "title": "Vantar smá hjálp.",
+    "text": "Sælir hugarar.\nÞannig er mál með vexti að talvan mín var orðin svolítið uppfull af drasli og leiðindum um daginn þannig ég ætlaði bara að skella mér í að reformata hana.\nSmellti windows xp disknum í drifið og bootaði hana af disknum og byrjaði Setupið.\nÍ um 15% af setup progressinum stoppar hinsvegar talvan og ég fæ Error skilaboð sem meðal annars inniheldur eftirfarandi kóða:\nDRIVER_IRQL_NOT_LESS_OR_EQUAL\nTechnical information:\n***   STOP: 0X000000D1 (0X006C0F18, 0X00000002, 0X00000000, 0XF76C86EF)\n*** ATAPI.SYS - Adress F76C86EF base at F76BF000, Datestamp 41107B4D\nÞetta er það sem kemur upp og núna stend ég uppi með tölvu sem er ónothæf þar sem ég hef ekkert stýrikerfi á tölvunni.\nVar að vonast til að einhver gæti sagt mér hvað er líklegt að sé að eða ráðlagt mér hvert væri best að fara með tölvuna.\nBtw. Hef reynt fleiri en einn Windows Xp disk þannig að það er væntanlega ekki diskurinn sem er ónýtur.",
+    "url": "https://www.hugi.is/windows/korkar/659660/vantar-sma-hjalp/",
+    "url_id": "659660",
+    "id": "6724530",
+    "replies": [
+        {
+            "user": "freki",
+            "user_id": "1682",
+            "date": "2009-06-06 17:56:18",
+            "id": "6724951",
+            "reply_to_id": "6724530",
+            "text": "Búin að prufa eitt.\nÁður en þú setur install í gang að formatta diskinn ?\nÞannig að hann er alveg hreinn ?\nHvða er þetta gamall diskur,  gæti verið að hann sé að gefa sig ??\nHér er góðar leiðbeiningar að setja upp hana aftur:\nhttp://www.hugi.is/windows/providers.php?page=view&contentId=1922990\nGagni þér vel."
+        },
+        {
+            "user": "ebrithil",
+            "user_id": "66651",
+            "date": "2009-06-08 23:57:54",
+            "id": "6728652",
+            "reply_to_id": "6724951",
+            "text": "Búinn að hreinsa allt af harðadisknum í setupinu. OG talvan er svona 4ra ára…svona smá lúin.\ntakk samt fyrir hjálpina"
+        },
+        {
+            "user": "smeppi",
+            "user_id": "717",
+            "date": "2009-06-07 14:32:51",
+            "id": "6725871",
+            "reply_to_id": "6724530",
+            "text": "Hvernig diskar eru þetta? Ertu með þá “í láni” ef þú fattar hvað ég á við? ;)\nÞað er einhver driver að malfúnkera (ATAPI.SYS), líklega af diskunum.\nEf þetta eru genuine diskar (keyptir útí búð), þá ættirðu bara að fara með þá þangað sem þú fékkst þá og heimta nýja, þessir eru greinilega bara gallaðir. Kannski ekki greinilega, en þá færðu alveg nýja sem þú getur prófað.\nEf þeir eru ekki genuine (í láni frá internetinu), þá ættirðu að prófa að fá aðra tegund lánaða, ég er þó ekki viss hvort það megi tala um það hérna..\nBætt við 7. júní 2009 -  14:39\nPS Það væri náttúrulega\nlangbest\nað sækja bara linux og nota það :D"
+        },
+        {
+            "user": "ebrithil",
+            "user_id": "66651",
+            "date": "2009-06-08 23:59:29",
+            "id": "6728659",
+            "reply_to_id": "6725871",
+            "text": "Þetta er meðal annars repair diskurinn sem fylgdi með tölvunni og síðan windows diskur sem systir mín keypti fyrir tölvuna sína…kemur sami errorinn á báðum þannig held ekki að það séu geisladiskarnir sem eru málið.\nTakk samt : )"
+        },
+        {
+            "user": "Selshamur",
+            "user_id": "19356",
+            "date": "2009-06-08 00:20:32",
+            "id": "6726865",
+            "reply_to_id": "6724530",
+            "text": "Mig dettur í hug hugsanlega einhverja BIOS stillingu.\nKannski AHCI sem er að drulla í þér.\nNotaðu Native IDE."
+        }
+    ]
+}

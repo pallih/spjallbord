@@ -1,0 +1,61 @@
+{
+    "forum_title": "Windows",
+    "user": "gunnaro",
+    "user_id": "7530",
+    "date": "2010-11-28 17:21:34",
+    "title": "32 bit vs 64 bit",
+    "text": "Þetta ku vera heimskuleg spurning í augum sumra, en ég er ekki að ná að Googla þetta (er þó með takmarkaða google leitarhæfileika)\nEr með 64 bit Windows 7. Allt í góðu. Býður upp að setja upp forrit á bæði 32 og 64 bita formi.\nSpurningin er: Er ég að græða eitthvað á að setja upp 64 bita forrit/leiki í stað 32 bita fyrst Windows 7 styður bæði? Hver er munurinn?\nEf þið nennið ekki að svara en vitið um einhverja linka að síðu sem útskýra þetta, þá væri það líka fínt :)",
+    "url": "https://www.hugi.is/windows/korkar/715850/32-bit-vs-64-bit/",
+    "url_id": "715850",
+    "id": "7277924",
+    "replies": [
+        {
+            "user": "gunnaro",
+            "user_id": "7530",
+            "date": "2010-11-28 20:49:10",
+            "id": "7278012",
+            "reply_to_id": "7277924",
+            "text": "Ef þú ert með 4gb eða meira af vinsluminni þá færð þú þér 64 bita."
+        },
+        {
+            "user": "gunnaro",
+            "user_id": "7530",
+            "date": "2010-11-29 20:05:28",
+            "id": "7278577",
+            "reply_to_id": "7278012",
+            "text": "Ekki það sem ég er að meina. Ef þú ert með 4 GB eða meira, þá er það 64 bita stýrikerfi sem þú færð þér.\nEn það sem ég er að meina: Nú er ég með 64bita Win7 sem installar og keyrir 32 bita forrit eðlilega (setur þau í Program Files(x86) möppuna). Hver er þá munurinn þegar ég er að hlaða niður forritum/leikjum, á þeim möguleika að hlaða niður 32bit eða 64bit á sama forriti?\nSem dæmi, nú síðast ætlaði ég að ná í ScummVM sem lítið forrit sem hjálpar að keyra klassíska adventure leiki. Þar er boðið upp á 32/64 bita installers. Ég fór bara að pæla í muninum fyrst að ég veit að Win7 getur keyrt bæði útgáfurnar án vandræða."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2010-11-30 14:55:37",
+            "id": "7279064",
+            "reply_to_id": "7278577",
+            "text": "64 bita forrit performa betur á 64 örgjafa svo ég myndi fá mér 64 bita forrit."
+        },
+        {
+            "user": "Suffice",
+            "user_id": "51491",
+            "date": "2010-12-03 01:17:34",
+            "id": "7280662",
+            "reply_to_id": "7278577",
+            "text": "Almennt séð skilst mér að 64 bita stýrikerfi eiga í erfiðleikum með að spila gamla tölvuleiki(worms world party til dæmis(sem var gefinn út 2001)). Og getur notað meira en 3gb af vinnsluminni. Semsagt, ef þú ert með 4gb vinnsluminni og 32bita kerfi uppsett notaru ekki nema ~3gb. Sem er sóun ef þú ert að fara að nota forrit sem eru þung í keyrslu.\nLinkurinn sem einhver postaði er frekar hjálpsamur ef þú ert að velja hvor stýrikerfið þú vilt, en þar sem þú ert kominn með það.. tja .. þú að minnsta kosti veist þetta núna.\nAnyways, mér skilst að þú eigir alltaf að ná í það sem er fyrir þitt stýrikerfi, 64 fyrir 64 og 32 fyrir 32. Það er ekkert alltaf víst að forritin virki ef þú notar 32 á 64, þó að prósentan sem virkar sé gríðarlega há."
+        },
+        {
+            "user": "sinalco00",
+            "user_id": "54463",
+            "date": "2010-11-30 14:29:43",
+            "id": "7279053",
+            "reply_to_id": "7277924",
+            "text": "ef þú ert með 64 bit örgjörva með 64 bit stýrikerfi þá ertu að nýta örran mikið betur.\nef þú vilt skoða þetta eithvað frekar geturðu skoðað þetta :\nhttp://blog.tune-up.com/windows-insights/32-bit-vs-64-bit-more-bit-more-performance/\nog já windows 7 64 bit á víst líka að vera örrugara."
+        },
+        {
+            "user": "gunnaro",
+            "user_id": "7530",
+            "date": "2010-11-30 15:34:51",
+            "id": "7279094",
+            "reply_to_id": "7279053",
+            "text": "Takk fyrir, þessi grein hjálpaði mikið."
+        }
+    ]
+}

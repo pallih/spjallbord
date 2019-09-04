@@ -1,0 +1,85 @@
+{
+    "forum_title": "Windows",
+    "user": "milkme",
+    "user_id": "49845",
+    "date": "2009-03-15 23:26:38",
+    "title": "ekkert hljóð",
+    "text": "hæ.. það heyrist ekkert hljóð í tölvuni .. þaðhun segir að hljóðkortið og allt það virki en driverinn sé ekkki i gangi .. er með realtek ac97 hljóðkort og er búinn að reyna að ná í drivera á síðunni en ekkert virkar.. einhver ??:D",
+    "url": "https://www.hugi.is/windows/korkar/647520/ekkert-hljod/",
+    "url_id": "647520",
+    "id": "6567892",
+    "replies": [
+        {
+            "user": "karason",
+            "user_id": "23642",
+            "date": "2009-03-16 00:16:50",
+            "id": "6567987",
+            "reply_to_id": "6567892",
+            "text": "hvernig móðurborð ertu með ???????"
+        },
+        {
+            "user": "milkme",
+            "user_id": "49845",
+            "date": "2009-03-16 18:13:43",
+            "id": "6569248",
+            "reply_to_id": "6567987",
+            "text": "veit ekki .. msi eikvað held ég"
+        },
+        {
+            "user": "milkme",
+            "user_id": "49845",
+            "date": "2009-03-20 00:19:10",
+            "id": "6576577",
+            "reply_to_id": "6567987",
+            "text": "msi ms-6728"
+        },
+        {
+            "user": "karason",
+            "user_id": "23642",
+            "date": "2009-03-20 01:20:11",
+            "id": "6576648",
+            "reply_to_id": "6576577",
+            "text": "Er þetta móðurborðið ?\nhttp://global.msi.com.tw/index.php?func=proddesc&maincat_no=1&prod_no=147"
+        },
+        {
+            "user": "milkme",
+            "user_id": "49845",
+            "date": "2009-03-20 14:20:38",
+            "id": "6577097",
+            "reply_to_id": "6576648",
+            "text": "ja :)"
+        },
+        {
+            "user": "karason",
+            "user_id": "23642",
+            "date": "2009-03-20 15:18:17",
+            "id": "6577198",
+            "reply_to_id": "6577097",
+            "text": "Prófaðu að installa “Intel INF Drivers” og restarta og svo\n“C-Media CMI9739A/9761 Software Audio Drivers” ."
+        },
+        {
+            "user": "milkme",
+            "user_id": "49845",
+            "date": "2009-03-20 17:38:10",
+            "id": "6577550",
+            "reply_to_id": "6577198",
+            "text": "var búinn að reyna CMI9761_71 virkaði ekki. og fatta ekki hvað hitt er :)"
+        },
+        {
+            "user": "karason",
+            "user_id": "23642",
+            "date": "2009-03-20 17:48:36",
+            "id": "6577570",
+            "reply_to_id": "6577550",
+            "text": "Hitt er stýring fyrir kubbasettið sem er á móðurborðinu. Það er ekki til staðar þá veit windosið ekki hvað er mikið pláss/raufar sem hægt er að tengja spjöld í eins og t.d. annað netkort.\nChipset\n• Intel® 865G Chipset\n- Supports FSB 800/533/400(Northwood only)MHz.\n- Integrated graphic controller.\n- Supports AGP 8X interface.\n- Supports Dual Channel DDR 400/333/266 memory interface.\n• Intel® ICH5 Chipset\n- Hi-Speed USB (USB2.0) controller, 480Mb/sec, 8 ports.\n- 2 Serial ATA/150 ports.\n- 2 channel Ultra ATA 100 bus Master IDE controller.\n- PCI Master v2.3.\n- Supports both ACPI and legacy APM power management"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2009-03-16 00:30:41",
+            "id": "6568020",
+            "reply_to_id": "6567892",
+            "text": "Svari eytt af stjórnanda"
+        }
+    ]
+}

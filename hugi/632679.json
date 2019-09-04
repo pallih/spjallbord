@@ -1,0 +1,53 @@
+{
+    "forum_title": "Windows",
+    "user": "Obafemi",
+    "user_id": "45021",
+    "date": "2008-12-17 23:48:37",
+    "title": "Eitt pirrandi við Vista",
+    "text": "Alltaf þegar ég ætla að færa skrá yfir í aðra möppu, update-a einhverju og svo framvegis þá kemur alltaf eitthver gluggi upp sem segir:\nYou need permission from the administrator to continue\nSemsagt maður þarf að ýta á continue(stundum tvisvar!) til þess að geta haldið áfram. Þetta er frekar pirrandi hvernig get ég tekið þetta í burtu?",
+    "url": "https://www.hugi.is/windows/korkar/632679/eitt-pirrandi-vid-vista/",
+    "url_id": "632679",
+    "id": "6386514",
+    "replies": [
+        {
+            "user": "HomoLuminous",
+            "user_id": "34866",
+            "date": "2008-12-17 23:50:52",
+            "id": "6386521",
+            "reply_to_id": "6386514",
+            "text": "www.letmegooglethatforyou.com/?q=removing+user+access+control+on+vista\nBætt við 17. desember 2008 -  23:56\nhttp://www.letmegooglethatforyou.com/?q=removing+user+access+control+on+vista"
+        },
+        {
+            "user": "Swooper",
+            "user_id": "50432",
+            "date": "2008-12-18 01:44:37",
+            "id": "6386816",
+            "reply_to_id": "6386521",
+            "text": "Ert þú IceDane undir nýju nafni eða stalstu bara undirskriftinni hans?"
+        },
+        {
+            "user": "HomoLuminous",
+            "user_id": "34866",
+            "date": "2008-12-18 12:14:53",
+            "id": "6387372",
+            "reply_to_id": "6386816",
+            "text": "Ég er sá."
+        },
+        {
+            "user": "Selshamur",
+            "user_id": "19356",
+            "date": "2008-12-18 20:52:42",
+            "id": "6388640",
+            "reply_to_id": "6386514",
+            "text": "Control Panel>Users.\nDisable UAC (User Account Control)"
+        },
+        {
+            "user": "intenz",
+            "user_id": "127",
+            "date": "2008-12-19 18:14:59",
+            "id": "6391009",
+            "reply_to_id": "6386514",
+            "text": "Bara eitt?"
+        }
+    ]
+}

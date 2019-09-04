@@ -1,0 +1,53 @@
+{
+    "forum_title": "Linux",
+    "user": "geirfaxi",
+    "user_id": "15337",
+    "date": "2008-11-12 09:51:53",
+    "title": "Vefhýsing í Linux eða unix",
+    "text": "Hæ,\nég er að leita að vefhýsingu í Linux á Íslandi, mig vantar líka vefþjón sem er með stuðning við\nApache 1.3.x eða nýrra\nPHP 4.4.x eða nýrra\nPHP með cURL stuðningi\nPHP með GD stuðningi\nMySQL 4.x eða nýrra\neinn MySQL gagnagrunnur.\nionCube Stuðningur\nÉg hef ekki mikla reynslu í vefhýsingu, svo ég þekki ekki hlutina á listanum bara að ég þarf að hafa þá og lén.",
+    "url": "https://www.hugi.is/linux/korkar/625465/vefhysing-i-linux-eda-unix/",
+    "url_id": "625465",
+    "id": "6288997",
+    "replies": [
+        {
+            "user": "geirfaxi",
+            "user_id": "15337",
+            "date": "2008-11-12 19:04:43",
+            "id": "6290267",
+            "reply_to_id": "6288997",
+            "text": "Apache er komið í 2.2.8 kannski ofar!\nPHP er komið í 5.2.4 kannski ofar!\nMySQL er komið í 5.1.29 / 6.0.7 Alpha!\nÉg held að það sé ólíklegt að það sé til hýsing hér á Linux.\nPrófaðu bara að hýsa heima og transferra lén á IP töluna þína, eða bara fá sér útlenska hýsingu."
+        },
+        {
+            "user": "geirfaxi",
+            "user_id": "15337",
+            "date": "2008-11-12 21:18:22",
+            "id": "6290768",
+            "reply_to_id": "6290267",
+            "text": "okei, getur maður lært einhvern veginn hvernig á að hýsa sjálfur. Eru til einhverjar góðar bækur eða vefsíður um vefhýsingu?"
+        },
+        {
+            "user": "halldor89",
+            "user_id": "28057",
+            "date": "2008-11-13 21:53:15",
+            "id": "6293745",
+            "reply_to_id": "6288997",
+            "text": "Það er fullt fullt af Linux hýsingum til hérna… T.d. er 1984.is með þetta, veit reyndar ekki með cURL og GD en held að það gæti alveg verið…\nSvo þetta ionCube hef ég ekki hugmynd um hvað er, sendu þeim bara fyrirspurn."
+        },
+        {
+            "user": "geirfaxi",
+            "user_id": "15337",
+            "date": "2008-11-15 15:07:11",
+            "id": "6297502",
+            "reply_to_id": "6293745",
+            "text": "takk, geri það.Veistu hvort þeir eru með .com eða .net lén?"
+        },
+        {
+            "user": "NickRivers",
+            "user_id": "43186",
+            "date": "2008-11-15 17:08:38",
+            "id": "6297784",
+            "reply_to_id": "6297502",
+            "text": "Lénin eru keypt sérstaklega, þannig að þú ræður hvað þú kaupi"
+        }
+    ]
+}

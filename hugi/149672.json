@@ -1,0 +1,173 @@
+{
+    "forum_title": "Vefsíðugerð",
+    "user": "Selena",
+    "user_id": "29486",
+    "date": "2003-06-15 19:17:13",
+    "title": "Hugi",
+    "text": "Mig langaði bara hrósa þeim sem hönnuðu, útfærðu og settu upp heimasíðu huga.\nHún er fyrst og fremst bara mjög skemmtileg og það sýnir sig bara helst hversu virk hún er.\nÍ öðru lagi gengur allt bara svo auðveldlega upp og allt mjög aðgengilegt.\nHönnunin er líka þannig að maður verður ekkert þreyttur á útlitinu sem getur verið mjög erfitt að uppfylla.\nÞessi síða er algjör snild.\nÞað eina sem ég myndi vilja sjá er hvernig þessi stig hérna inni eru að virka, því ég er ekkert að skilja út á hvað þau ganga.\nAnnars frábær síða og þeir sem komu henni upp og halda utan um hana eiga hrós skilið;)",
+    "url": "https://www.hugi.is/vefsidugerd/greinar/149672/hugi/",
+    "url_id": "149672",
+    "id": "1135175",
+    "replies": [
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2003-06-17 21:36:09",
+            "id": "1135176",
+            "reply_to_id": "1135175",
+            "text": "Hún á líka til með að koma með mysql villur, enda hostað á redhat.\nÞað hefur margoft verið sagt að mysqlið í því sé sorp, simnet hvernig væri að skipta um distro?"
+        },
+        {
+            "user": "illmenni2",
+            "user_id": "25218",
+            "date": "2003-06-18 03:25:55",
+            "id": "1135177",
+            "reply_to_id": "1135175",
+            "text": "ég myndi segja að hugi sé besta heimsíðan á íslandi, en ekki er hún fullkomin. mysql villurnar mættu fara og síðan double post vandamálið líka soddans bögg. aðalega þar sem það er ekki það mikið mál að redda því."
+        },
+        {
+            "user": "Skaiburz",
+            "user_id": "25411",
+            "date": "2003-06-27 22:14:20",
+            "id": "1135178",
+            "reply_to_id": "1135177",
+            "text": "hugi.is er ágæt nema ég næ ekki að fara inn á síðuna mína til að bæta og laga hana og aðrir komast ekki heldur á hana :("
+        },
+        {
+            "user": "Skaiburz",
+            "user_id": "25411",
+            "date": "2003-07-17 22:15:04",
+            "id": "1135179",
+            "reply_to_id": "1135178",
+            "text": "dopplingur, ég kemst alveg inná síðuna þína!"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2003-07-17 22:15:54",
+            "id": "1135180",
+            "reply_to_id": "1135179",
+            "text": "gaman"
+        },
+        {
+            "user": "intenz",
+            "user_id": "127",
+            "date": "2003-06-18 04:31:00",
+            "id": "1135181",
+            "reply_to_id": "1135175",
+            "text": "Ég hata Huga :)\nAðal ástæðan afhverju ég hata Huga er að www.hugi.is/vefsidugerd dregur alla athygli frá www.gaui.is :\\"
+        },
+        {
+            "user": "margreteva",
+            "user_id": "39748",
+            "date": "2003-06-20 20:30:59",
+            "id": "1135182",
+            "reply_to_id": "1135181",
+            "text": "eg vill segja þer að þetta var illa satt og það á hugi.is.\nmer finnst þetta ekki satt og endilega dragðu þetta til baka strax :@"
+        },
+        {
+            "user": "intenz",
+            "user_id": "127",
+            "date": "2003-06-18 04:39:17",
+            "id": "1135183",
+            "reply_to_id": "1135175",
+            "text": "AlmarD,\nnú ætla ég að fleima þig fyrir þessa heimskulegu athugasemd þína.\n“Hún á líka til með að koma með mysql villur, enda hostað á redhat”\n* Fyrst og fremst, er þetta sama MySQL'ið og allstaðar annarstaðar; MySQL 3.23.\nMySQL villurnar koma ekki útaf því þetta er á RedHat, þær koma aðalega útaf réttindum eða einhverri villu í PHP kóðanum.\nSvo er þetta compiluð útgáfa af MySQL, ekki RPM.\n“Það hefur margoft verið sagt að mysqlið í því sé sorp, simnet hvernig væri að skipta um distro?”\n* Þótt ég hafi litla þekkingu á MySQL í RedHat (RPM), veit ég allavega að þetta er ekki RedHat að kenna.\nCuriosity killed the cat."
+        },
+        {
+            "user": "Kjarrval",
+            "user_id": "3269",
+            "date": "2003-06-20 07:22:56",
+            "id": "1135184",
+            "reply_to_id": "1135183",
+            "text": "Mér var sagt af litlum fugli sem hefur aðgang að huga að þetta sé MySQL útgáfan sem fylgdi með RedHat og að henni hafi bara verið troðið inn í RedHat útgáfuna á seinustu stundu og það sé ástæðan fyrir óstöðugleikanum. Hvernig væri að hýsa huga á Unix ? :P"
+        },
+        {
+            "user": "arnihr",
+            "user_id": "61",
+            "date": "2003-06-20 11:53:31",
+            "id": "1135185",
+            "reply_to_id": "1135184",
+            "text": "Tja, síðast þegar ég vissi var Hugi að keyra compilaða útgáfu af MySQL :-)\nApache og PHP var líka compilað :-)\nSvo ætla ég að leyfa mér að efast um að þetta vandamál, sem ég hef sjálfur aldrei lent í, hafi eitthvað með Redhat að gera. Við hvaða skilyrði koma MySQL villurnar?"
+        },
+        {
+            "user": "Avatar",
+            "user_id": "157",
+            "date": "2003-06-24 00:38:23",
+            "id": "1135186",
+            "reply_to_id": "1135184",
+            "text": "Hvernig væri að breyta huga í ASP.NET og hýsa hann á Windows 2003 Server á IIS 6.0 með SQL Server 2000. Það hljómar miklu betur fyrir mér :P"
+        },
+        {
+            "user": "Revenant",
+            "user_id": "8812",
+            "date": "2003-06-24 14:09:49",
+            "id": "1135187",
+            "reply_to_id": "1135186",
+            "text": "Avatar:\nÞá þurfa þeir að borga notendaleyfi fyrir Windows.  Linux er ókeypis :)"
+        },
+        {
+            "user": "Aquatopia",
+            "user_id": "9",
+            "date": "2003-07-01 12:25:19",
+            "id": "1135188",
+            "reply_to_id": "1135183",
+            "text": "Þetta er jú RedHat að kenna, líklegast. :) Versionið af RedHat sem við notum er með hinum margfræga gcc 2.96 sem virkar afar illa með MySQL. Ef þú lest t.d. það sem mysql.com segir um þessa blöndu: þá á þetta til að valda random krössum á töflum og bölvuðu rugli.\nVið erum núna að keyra á MySQL 4.0.12 binary build frá mysql.com en samt á þetta til að gerast. Ég held það sé vegna þess að allt annað á vélinni, keyrir á dóti sem var gert með gcc 2.96."
+        },
+        {
+            "user": "Aquatopia",
+            "user_id": "9",
+            "date": "2003-07-17 18:32:32",
+            "id": "1135189",
+            "reply_to_id": "1135188",
+            "text": "Jahá, ég ætla að prófa Debian/Gentoo á routerinn/serverinn minn."
+        },
+        {
+            "user": "Aquatopia",
+            "user_id": "9",
+            "date": "2003-07-17 18:34:07",
+            "id": "1135190",
+            "reply_to_id": "1135189",
+            "text": "Mæli með Gentoo, nota það bæði á routernum mínum og laptopnum."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2003-07-17 18:49:13",
+            "id": "1135191",
+            "reply_to_id": "1135190",
+            "text": "Ég prófa það :)"
+        },
+        {
+            "user": "Revenant",
+            "user_id": "8812",
+            "date": "2003-06-23 18:26:05",
+            "id": "1135192",
+            "reply_to_id": "1135175",
+            "text": "Hugi er frábær en það mætti laga er þegar maður er að færa kubba upp eða niður.  Þeir fara aldrei einn upp heldur alveg upp(eða niður) :\\\nMeð villurnar þá hefur myndataflan verið til vandræða á cartman.hugi.is en það gæti kannski útskýrt eitthvað af þessum vandræðum."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2003-06-25 19:14:39",
+            "id": "1135193",
+            "reply_to_id": "1135175",
+            "text": "jebb… frábær síða… ein af mínum uppáhalds :D"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2003-06-30 20:16:05",
+            "id": "1135194",
+            "reply_to_id": "1135175",
+            "text": "Jamm hugi er góð síða en ég er búin að lenda í því tvisvar að notendanafnið mitt sé orðið óvirkt og það er mjög pirrandi að þurfa alltaf að gera allt upp á nýtt, fyrir utan það hef ég ekki lent í neinum vandræðum með huga og finnst hann bara vera góðu"
+        },
+        {
+            "user": "seljas",
+            "user_id": "37583",
+            "date": "2003-07-30 18:25:20",
+            "id": "1135195",
+            "reply_to_id": "1135175",
+            "text": "sko ég er með síðu á huga og ég get bara sett svona 3 síður inn á hana en ef að étg set fleiri þá koma svona 10 síðu"
+        }
+    ]
+}

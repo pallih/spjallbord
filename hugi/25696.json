@@ -1,0 +1,117 @@
+{
+    "forum_title": "Linux",
+    "user": "add1",
+    "user_id": "1011",
+    "date": "2001-05-04 00:21:55",
+    "title": "Núna er gaman að keyra apache",
+    "text": "Fyrst að það er ekki komið “Anti-Microsoft” áhugamál hérna á huga, þá smelli ég þessu bara hér :)\n___________________________________________________\nJæja, lítur út fyrir það að Microsoft hafi farið illa út úr að vera að hann vefþjóna. (enn einu sinni).\nÞví nýjasti IIS (internet information server) þ.e.a.s útgáfa 5.0 er haldin afar slæmum galla sem gefur hvaða manni sem er, “root” aðgang að Windows 2000 kerfinu sem vefþjónninn keyrir á.\nSkiptir engu máli hvort vanilla útgáfa af windows 2000 eða með Service pack 1.\nNúna er gott að keyra Apache á linux vél ekki satt ? :) *h0h0h0*\nTil gamans má geta hefur ekki fundist 1 remote root galli í apache.\nÉg vill bara minna á að á svipuðum tíma í fyrra fannst sams konar galli einmitt í IIS 4.0 og gaman var að sjá hvað þeir eru ekki að vakna! :)\nlinux rox",
+    "url": "https://www.hugi.is/linux/greinar/25696/nuna-er-gaman-ad-keyra-apache/",
+    "url_id": "25696",
+    "id": "170470",
+    "replies": [
+        {
+            "user": "add1",
+            "user_id": "1011",
+            "date": "2001-05-04 01:08:55",
+            "id": "170471",
+            "reply_to_id": "170470",
+            "text": "Sökum þrýstings frá ákveðnum aðilum *hóst* JR *hóst* neyddist ég til að eyða sourcekóðanum af tölvunni minni\nHinsvegar getiði nálgast hann af heimasíðu eEye og lesið betur um gallann:\nhttp://www.eeye.com/html/Research/Advisories/AD20010501.html\nYfirlýsing Microsoft & patch:\nhttp://www.microsoft.com/technet/security/bulletin/MS01-023.asp\nNúna ætti að vera jafnt með liðunum."
+        },
+        {
+            "user": "nataz",
+            "user_id": "6120",
+            "date": "2001-05-04 01:13:16",
+            "id": "170472",
+            "reply_to_id": "170470",
+            "text": "Humm…\nhttp://anti.security.is\nhttp://web.ranum.com/usenix/blackhat-2000-keynote.pdf\nog\nhttp://web.ranum.com/usenix/blackhat-2000-keynote.mp3\n….\nEinsog einhver sagði… “… þetta er svipað og dreyfa byssum sko.”"
+        },
+        {
+            "user": "add1",
+            "user_id": "1011",
+            "date": "2001-05-04 01:17:15",
+            "id": "170473",
+            "reply_to_id": "170472",
+            "text": "hehe, ef þú villt líkja þessu við að dreyfa byssum, þá væri þetta frekar eins og að dreyfa teikningu að byssu.\nFólk þarf sjálft að setja byssuna saman (compæla) og þarf þar af leidd verkfæri (t.d gcc) til þess.\nÞannig ég er bara að dreyfa blueprinti af byssu."
+        },
+        {
+            "user": "add1",
+            "user_id": "1011",
+            "date": "2001-05-04 01:28:49",
+            "id": "170474",
+            "reply_to_id": "170473",
+            "text": "Og anti.security.is er mesta fake ever.\nog ég quote'a:\n“How would you feel if blueprints to nuclear explosives would be disclosed everydaym along with guidelines fot those who haven't attacked with them before?”\nBara SAY WHAT!\nÉg er ekki script-kiddie og styð ekki það líferni baun eins og ég tók fram áðan, ég hef ekki notað þetta sploit og mun ekki gera það, ef aðrir vilja það er það þeirra mál.\nAð líkja þessu við kjarnorkusprengju … bara lol :)\nEf hann væri að líkja þessu rétt saman, væri þetta ef galli FYNDIST í kjarnorkusprengju og mér fynnst galli í t.d. IIS ekki jafngilda því að kjarnorkusprengja springi “óvart” vegna þess að galli fannst í henni og einhver ákvað að notfæra sér hann.\nFyndið líka hvað strákarnir hjá security.is hafa fljótt breytt um stefnu og hafa engann skilning á þeim sem eru að script kiddie'ast.\nFace'um það bara, þetta er tímabil sem gengur yfir, líkt og gelgjuskeiðið. Ég, án efa þú, og most pottþétt strákarnir hjá security.is\nDigit, portal og icelord:\nHÖFUNDAR af tugum af remote root exploitum fyrir linux.\nMeiri að segja til remote root exploit að lpd með RedHat 7.0 sem er eftir DiGiT.\nOg p0rTaL átti nú nónokkrar exploita á qpop.\nÞið eruð ekkert skárri.\nLeifið þessu að ganga yfir hjá þeim sem eru að byrja í þessu.\nMeina … Þetta var gaman og spennandi meðan þetta gekk yfir :)"
+        },
+        {
+            "user": "nataz",
+            "user_id": "6120",
+            "date": "2001-05-04 01:38:06",
+            "id": "170475",
+            "reply_to_id": "170474",
+            "text": "Svona svona….\nÉg bara rann inná anti.security.is síðuna fyrir tilviljun… og þó svo að textinn og líkarnar hjá þeim sé svoldið langt gengið, þá skiluru konseptið.\nWell, úttttlensku síðurnar koma þessu mun betur á framfæri… og þetta er mjög áhugavert fyrirbæri, og eitthvað sem ber að skoða en ekki spýta á umleið og þú sérð þetta…"
+        },
+        {
+            "user": "nataz",
+            "user_id": "6120",
+            "date": "2001-05-04 01:40:27",
+            "id": "170476",
+            "reply_to_id": "170475",
+            "text": "Kannski þess virði að nefna það… að þetta var meira ætlað sem lestrarefni fyrir ykkur.\nEn ekki þarmeð sagt að ég sé 100% fylgjandi sko…"
+        },
+        {
+            "user": "tran",
+            "user_id": "59",
+            "date": "2001-05-04 01:44:51",
+            "id": "170477",
+            "reply_to_id": "170473",
+            "text": "hehh.. það á svona 1% af þeim sem reyna að compila fælinn eftir að takast það :)\n(allaveganna miðað við reynslu mína á #linux og thursar sem koma þangað inn og spurja hvernig maður á að compila smurf.c :)"
+        },
+        {
+            "user": "add1",
+            "user_id": "1011",
+            "date": "2001-05-04 02:00:02",
+            "id": "170478",
+            "reply_to_id": "170477",
+            "text": "Nataz:\nReyndi að lesa pdf skjalið með opnum huga, en þeir sem semja þetta er alltof þröngsýnir. & þegar þeir fóru að tala um hvað væri betra að hafa þetts closed-source þá bara okeyyyy … File-Quit\nMeð open-source útilokum við backdoors, um leið og sú hætta er til staðar, þá FYRST fer allt í fuck."
+        },
+        {
+            "user": "nataz",
+            "user_id": "6120",
+            "date": "2001-05-04 02:12:09",
+            "id": "170479",
+            "reply_to_id": "170478",
+            "text": "pdf skjalið fylgir mp3 filenum…. slidið sem hann notar við ræðuna.\nÉg ætla ekki að fara að réttlæta þetta á neinn veg hérna, bara gott að leyfa fólki að sjá fleiri hliðar á málunum… :)\nAllt hefur sína kosti og galla"
+        },
+        {
+            "user": "add1",
+            "user_id": "1011",
+            "date": "2001-05-04 11:48:49",
+            "id": "170480",
+            "reply_to_id": "170479",
+            "text": "Vitiði hvað mér finnst?\nMér finnst fólk geta fokkast til að nota eitthvað annað en IIS, sem er búinn að margsanna sig fyrir að vera fucked up óöruggur. :) Ég man eftir þessu í 4.0, líka.\nÉg vorkenni ekki mönnum sem læra ekki af svona mörgum, stórum mistökum. Og ég er ekkert hræddur við script kiddya… þeir skemma sjaldan eitthvað.\nOg í guðanna bænum, ætlið þið að hanga í liði með fólki sem heldur utan um mikilvæg gögn á IIS?\nLengi lifi Open-Source, það hefur marg, margsannað sig. :)"
+        },
+        {
+            "user": "add1",
+            "user_id": "1011",
+            "date": "2001-05-05 19:33:14",
+            "id": "170481",
+            "reply_to_id": "170480",
+            "text": "wahahaha\nwww.ejs.is var tekið niður í dag (laugardag) sökum IIS gallans og eru þeir núna búnnir að bæta eftirfarandi frétt inn á vef sinn:\nWindows 2000 Server - ÖRYGGISLAGFÆRING!!!\nMikilvæg öryggislagfæring fyrir Windows 2000 Server!\nVið viljum vekja athygli þína á því að Microsoft var að setja mjög mikilvæga öryggislagfæringu (hotfix) á vefinn fyrir Internet Information Server 5.0 sem er að finna í Windows 2000 Server…\ntíhíhíhíh :)\nSko, þarna sjáiði, fólk lagfærir ekki fyrr en það er tekið niður … so sad\n(ég gerð þetta ekki btw!)"
+        },
+        {
+            "user": "WaterFall",
+            "user_id": "5840",
+            "date": "2001-05-06 05:00:46",
+            "id": "170482",
+            "reply_to_id": "170481",
+            "text": "Ég efast um að þeir muni nokkuð læra á þessu; og efast um að þeir séu búnir\nað patcha kerfið með öllum M$ hotfixum.\nApache er málið.\n– WF"
+        },
+        {
+            "user": "cyrez",
+            "user_id": "6397",
+            "date": "2001-05-26 20:56:28",
+            "id": "170483",
+            "reply_to_id": "170482",
+            "text": "þetta er bara hippahreyfing hjá security.is"
+        }
+    ]
+}

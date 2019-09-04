@@ -1,0 +1,141 @@
+{
+    "forum_title": "Vísindi",
+    "user": "Crook",
+    "user_id": "76086",
+    "date": "2011-03-23 18:39:29",
+    "title": "Ókei, þremill, tími",
+    "text": "Var að velta fyrir mér einu um daginn.\nTíminn hlýtur að líða áfram með endalausri nákvæmni, er ekki svo?\nSegjum að sekúndurnar sem hafa liðið síðan ég skrifaði orðið “segjum” sé 4.2222222222222222… sekúndur. Þetta nær endalaust niður. Hvernig líður tíminn eiginlega, ef það er endalaus nákvæmni í mælingunni?\nEf við hefðum klukku sem hefði endalausa nákvæmni, hvernig mundi klukkan ná að 1 sekúndu? Mundi hún ekki vera föst í 0,111111111… ? Af hverju er því ekki sömuleiðis farið með tímann?",
+    "url": "https://www.hugi.is/visindi/korkar/722750/okei-thremill-timi/",
+    "url_id": "722750",
+    "id": "7324520",
+    "replies": [
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2011-03-23 22:46:57",
+            "id": "7324629",
+            "reply_to_id": "7324520",
+            "text": "Mér finnst tími ekki vera til."
+        },
+        {
+            "user": "phi",
+            "user_id": "21587",
+            "date": "2011-03-24 15:33:08",
+            "id": "7324808",
+            "reply_to_id": "7324520",
+            "text": "Klukkan gæti ekki talið tímann með endalausri nákvæmni vegna þess hún þyrfti endalausan tíma til þess, sem væri þá augljóslega gagnslaus klukka.\nMenn hugsa sér tímann sem samfelldan, þ.e. hann tekur enginn stökk, en það kemur ekki í veg fyrir að hann líði frekar en að sú staðreynd að þú getur ferðast.  Segjum að þú ætlir að ganga í gegnum hurð, og þú farir fyrst hálfa vegalengdina, síðan ferðu einn fjórða af því sem eftir er, síðan einn áttunda, o.s.frv.  Getur þú komist að hurðinni?  Áttu ekki alltaf einhvern 1/n^2 hluta eftir?\nhttp://en.wikipedia.org/wiki/Zeno\n's_paradoxes#The_Paradoxes_of_Motion\nhttp://en.wikipedia.org/wiki/Limit_(mathematics)"
+        },
+        {
+            "user": "Crook",
+            "user_id": "76086",
+            "date": "2011-03-24 15:35:40",
+            "id": "7324811",
+            "reply_to_id": "7324808",
+            "text": "Ég rakst á sönnun fyrir stuttu sem útskýrði þetta fyrir mér.\nx = 0.999…\n10x = 9,999…\n10x-x=9,999…-0,999…\n9x=9\nx=1\nSvo að 0.111… eða 1/endalaust verður að núlli."
+        },
+        {
+            "user": "phi",
+            "user_id": "21587",
+            "date": "2011-03-24 15:46:32",
+            "id": "7324813",
+            "reply_to_id": "7324811",
+            "text": "1/n verður minni eftir því sem n stækkar.  Það er augljóst að 1/3 er minni en 1/2 er það ekki?  Stærðfræðingar tala um að 1/n stefni á núll þegar að n stefnir á óendanlegt.  0.111… verður ekki að núlli, því þetta er bara tala, sú tala jafngildir 1/9 og er langt frá því að vera núll. :)"
+        },
+        {
+            "user": "Crook",
+            "user_id": "76086",
+            "date": "2011-03-24 15:47:22",
+            "id": "7324814",
+            "reply_to_id": "7324813",
+            "text": "Nei já ég á við það, 1/n verður að núlli þegar n er óendanlegt. Eða er ég að bulla?"
+        },
+        {
+            "user": "phi",
+            "user_id": "21587",
+            "date": "2011-03-24 16:07:47",
+            "id": "7324820",
+            "reply_to_id": "7324814",
+            "text": "Nei, þú ert bara að reyna skilja frekar flókið stærðfræðilegt hugtak sem heitir markgildi (limit).  1/n verður að núlli þegar n er að verða óendanlegt.  Þetta er táknað 1/n -> 0 þegar n -> óendanlegt, örinn er lesin “stefnir á”.  Óendanleikin er ekki tala, svo það er frekar furðulegt að segjast vera deila með óendanleika, maður hugsar sér bara að talan n sé að “stefna á óendanleikan” eða að n sé gerð eins stór og hugsanlegt er (og kannski pínu stærri :).  Málið er að þegar þú hugsar um til dæmis náttúrlegu tölurnar (1,2,3,4,…), þá skiptir ekki máli hversu stóra náttúrlega tölu þú hugsar þér ég get alltaf fundið stærri tölu með því að leggja einn við þína tölu.  Á einhverjum tímapunkti verða tölurnar bara svo stórar að ef þú deilir þeim upp í einn þá færðu einhverja svo agnarsmáa tölu að munurinn svipar til þess að 0.999… = 1, þ.e. að það er svo lítill munur að hann fer að nálgast það að vera enginn."
+        },
+        {
+            "user": "Crook",
+            "user_id": "76086",
+            "date": "2011-03-24 17:06:29",
+            "id": "7324840",
+            "reply_to_id": "7324820",
+            "text": "En hvað er 0.999…? Hvernig næ ég 1/n þannig að n verði öll þau 9 sem eru í 0.999…?"
+        },
+        {
+            "user": "phi",
+            "user_id": "21587",
+            "date": "2011-03-24 20:29:01",
+            "id": "7324909",
+            "reply_to_id": "7324840",
+            "text": "Þá myndi ég tákna þetta sem röð.  9/10 er 0.9, 9/100 er 0.99 o.s.frv. ef þú leggur þetta allt saman færðu 0.999…\nHægt er að sýna að slík röð stefnir á 1 ef menn kunna skil á hugtakinu markgildi.  Þetta er sértilfelli af svokallaðri geómetrískri röð.  Til þess að skilja almennilega af hverju þarf að hafa tök á ákveðnu táknmáli, en þú sérð væntanlega hvers vegna ef þú prufar að leggja saman 9/10 og 9/100 o.s.frv.  Fyrst færðu 99/100, svo 999/1000, og þá sérðu hvernig ofan við strik talan stefnir á óendanlegt og fyrir neðan á óendanlegt einnig, þ.e. álíka stórar tölur  deildar hvor með annarri, sem nálgast þá væntanlega einn! :)"
+        },
+        {
+            "user": "smeppi",
+            "user_id": "717",
+            "date": "2011-03-30 18:46:25",
+            "id": "7326362",
+            "reply_to_id": "7324520",
+            "text": "Tími er ekki það sama og klukka. Tíminn er þetta sem hver einstaklingur skynjar, kann ekki alveg hvernig á að útskýra það..\nKlukka er hinsvegar lítið meira en mælitæki á stjörnurnar sem eru næst okkur og hefur lítið að gera með tímann, ekki frekar en hver annar hlutur.\nÞú ættir að geta mælt hversu margar sekúndur hafa liðið síðan þú skrifaðir þessi orð. En til að fá nákvæmustu niðurstöðurnar væri líklega betra að tala um hversu langt sólin færði sig á þessum tíma, eða eitthvað í þá áttina.\nTíma höfum við hins vegar aldrei getað mælt og eigum í einhverjum erfiðleikum með að átta okkur á honum."
+        },
+        {
+            "user": "Crook",
+            "user_id": "76086",
+            "date": "2011-03-30 21:12:43",
+            "id": "7326409",
+            "reply_to_id": "7326362",
+            "text": "Við veljum samt þann unit sem tíminn líður á sem sekúndur ekki satt? Og klukka mælir sekúndur.\nHvað áttu við með að klukkan sé mælitæki á stjörnurnar sem eru næstar okkur?"
+        },
+        {
+            "user": "smeppi",
+            "user_id": "717",
+            "date": "2011-03-30 22:16:31",
+            "id": "7326428",
+            "reply_to_id": "7326409",
+            "text": "Tíminn, sem vinsælt er að setja upp sem 4ðu víddina, er ekki mældur í neinu svo ég viti til.\nÞetta sem klukkan mælir, er kallað tími, en er alls ekki sama hugtakið og þetta sem er stundum kallað 4ða víddin. Klukkan er einfaldlega þetta tæki sem segir okkur hvað það er langt í næstu nótt, næsta mánuð, næsta ár etc. Mestallt (ef ekki hreinlega allt) reiknað út frá því hvenig sólin og jörðin fúnkera saman. 1 ár = jörðin snýst kringum sólina, 1 dagur = jörðin snýst kringum sjálfa sig (you know the rest..)\nKlukkutíminn líður alltaf jafnhratt vegna þess að sólin og jörðin hreyfa sig alltaf jafnhratt. En það veit hvert mannsbarn að tíminn sjálfur líður alls ekki alltaf jafnhratt."
+        },
+        {
+            "user": "Crook",
+            "user_id": "76086",
+            "date": "2011-03-31 16:40:02",
+            "id": "7326635",
+            "reply_to_id": "7326428",
+            "text": "…svo hvað er tími þá?"
+        },
+        {
+            "user": "smeppi",
+            "user_id": "717",
+            "date": "2011-03-31 17:17:53",
+            "id": "7326655",
+            "reply_to_id": "7326635",
+            "text": "Æ dónt nó. Hvað er rúm?"
+        },
+        {
+            "user": "Crook",
+            "user_id": "76086",
+            "date": "2011-03-31 17:53:40",
+            "id": "7326667",
+            "reply_to_id": "7326655",
+            "text": "Ég fer að hallast að því að tíminn sé bara alls ekki til.\nÉg hef hvort eð er aldrei upplifað fortíðina né framtíðina, þetta er allt ímyndað concept í huga mér. Svo hvers vegna að gera ráð fyrir að tími sé til yfir höfuð?\nSvo ætla ég ekki einu sinni að reyna að svara þér hvað rúm er :P"
+        },
+        {
+            "user": "smeppi",
+            "user_id": "717",
+            "date": "2011-03-31 19:04:53",
+            "id": "7326690",
+            "reply_to_id": "7326667",
+            "text": "Við gætum farið út fyrir vísindalegu hliðina og sagt að það sé enginn tími, bara minningar, núið og vonir og draumar um framtíðina! En það er nú ekki mjög vísindalegt.."
+        },
+        {
+            "user": "BenziJunior",
+            "user_id": "69330",
+            "date": "2011-03-31 19:51:23",
+            "id": "7326714",
+            "reply_to_id": "7324520",
+            "text": "tíminn líður með endalausri nákvæmni, er ekki svo?\nNei, í skammtafræði er komin fram sú kenning að tímarúmið sé skammtað þ.e. það sé ekki mælanlegt með fullkominni nákvæmni heldur sé það hólfað niður í örsmá hólf.\nAuk þess svipar þessi pælig mjög til þversagnar Xenos sem sýndi fram á að hreifing væri ómöguleg"
+        }
+    ]
+}

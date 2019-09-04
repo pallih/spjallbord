@@ -1,0 +1,45 @@
+{
+    "forum_title": "Grafísk hönnun",
+    "user": "hafdis",
+    "user_id": "34876",
+    "date": "2005-05-19 00:20:13",
+    "title": "Tutorial: Toxic effect (texti)",
+    "text": "Búðu til nýtt skjal. Ég hafði mitt 600x300.\nSkrifaðu einhvern texta sem þú vilt hafa.\nÝttu á CTRL og ýttu á texta layerinn.\nFarðu í Select - Save Selection\nStillingar:\n» Channel: New\n» Name: Bara það sem þú vilt\n» Ok.\nÝttu á CTRL+D.\nFarðu í Layer - Resterize - Type.\nFarðu í Filter - Distort - Polar Coordinates\nStillingar:\n» Hakaðu í Rectangular to Polar\n» Ok.\nÝttu á CTRL+I.\nFarðu í Filter - Stylize - Wind\nStillingar:\n» Method: Wind\n» Direction: From the right\n» Ok.\nFarðu í Filter - Stylize - Wind\nStillingar:\n» Method: Wind\n» Direction: From the left\n» Ok.\nÝttu á CTRL+I.\nFarðu í Filter - Distort - Polar Coordinates\nStillingar:\n» Hakaðu í Polar to Rectangular\n» Ok.\nFarðu í Select - Load Selection\nStillingar:\n» Channel - Það sem þú lest það heita áðan\n» Ok.\nFarðu í Filter - Artistic - Neon Glow\nStillingar:\n» Glow Size: -24\n» Glow Brightness: 40\n» Glow Color: #FFFFFF\n» Ok.\nÝttu á CTRL+D.\nFarðu í Layer - Dublicate Layer - Ok.\nÝttu á CTRL+U og hakaðu í Colorize og veldu þann lit sem þú vilt hafa..!\nÉg hafði\nHue - 184\nSaturation - 100\nLigthness - -(mínus)14\nBlending mode: Multiply.\nÝttu tvisvar á CTRL+E.\nÞýddi þetta af www.good-tutorials.com\nMyndin er of stór svo ég set hana í Myndir inn á Grafík.. Hún er undir heitinu Toxic Effect",
+    "url": "https://www.hugi.is/grafik/greinar/297669/tutorial-toxic-effect-texti/",
+    "url_id": "297669",
+    "id": "2170992",
+    "replies": [
+        {
+            "user": "Bara19",
+            "user_id": "34465",
+            "date": "2005-05-19 14:41:48",
+            "id": "2172391",
+            "reply_to_id": "2170992",
+            "text": "BARA FLOTT!!!!!!!!!!!!!!!!!!!!!!!!!!"
+        },
+        {
+            "user": "drakesdevil",
+            "user_id": "36754",
+            "date": "2005-05-19 17:26:21",
+            "id": "2172860",
+            "reply_to_id": "2172391",
+            "text": "flott :D:D:D:D:D:D"
+        },
+        {
+            "user": "Bara19",
+            "user_id": "34465",
+            "date": "2005-05-19 18:48:59",
+            "id": "2173108",
+            "reply_to_id": "2172860",
+            "text": "ekki svara mér heldur henni hafdisi"
+        },
+        {
+            "user": "drakesdevil",
+            "user_id": "36754",
+            "date": "2005-05-26 18:58:02",
+            "id": "2190787",
+            "reply_to_id": "2170992",
+            "text": "ja upps"
+        }
+    ]
+}

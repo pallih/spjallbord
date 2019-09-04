@@ -1,0 +1,109 @@
+{
+    "forum_title": "Vefsíðugerð",
+    "user": "Jolly",
+    "user_id": "2156",
+    "date": "2001-06-24 15:56:07",
+    "title": "PHP-MySQL. Já, enn önnur grein",
+    "text": "PHP/MySQL hefur tröllriðið netheiminum undanfarið. Nýjar database síður sem hafa sprottið upp nýlega nota nánast allar þetta frábæra tvíeiki tækninýjunga php og mysql. Sjálfur er ég að byrja í þessu, og þetta er virkilega einfalt að læra með smá þolinmæði. En þessi grein er ekki bara um að lofa php.\nÉg vill einnig skora á einhvern og útskíra fyrir mér hvað það er sem ekki er hægt að gera með php-mysql, sem væri hægt að gera með einhverju öðru máli. Svo kannski sanna ég fyri ykkur að PHP-mysql er fullkomið fyrir heimasíður í dag.\nÉg veit að javascript er öflugara í að gera texta sem fylgir músinni og allt það sem er ekki cool. Ok.",
+    "url": "https://www.hugi.is/vefsidugerd/greinar/32307/php-mysql-ja-enn-onnur-grein/",
+    "url_id": "32307",
+    "id": "217125",
+    "replies": [
+        {
+            "user": "Smegma",
+            "user_id": "33",
+            "date": "2001-06-24 18:36:43",
+            "id": "217126",
+            "reply_to_id": "217125",
+            "text": "Samanburður á server- og client side scripting er ekki sniðugur :) (php keyrir á vefþjóninum, Javascript keyrir í browsernum hjá þér)\nVissulega hefur php sínar takmarkanir, en líttu bara á Hugi.is - nokk öflugt fyrirbæri :)"
+        },
+        {
+            "user": "Jolly",
+            "user_id": "2156",
+            "date": "2001-06-24 20:24:00",
+            "id": "217127",
+            "reply_to_id": "217126",
+            "text": "nnnnnn nákvæmlega það sem ég var að reyna að segja með server side dæmið."
+        },
+        {
+            "user": "mac2",
+            "user_id": "7487",
+            "date": "2001-06-25 00:51:07",
+            "id": "217128",
+            "reply_to_id": "217125",
+            "text": "Hvað með t.d irc-ið og kasmir tólið.\nEkki er það php.\nEn korkar, greinar, kannanir, skilaboð o.fl náttla php."
+        },
+        {
+            "user": "Giraffi",
+            "user_id": "1304",
+            "date": "2001-06-25 00:56:33",
+            "id": "217129",
+            "reply_to_id": "217128",
+            "text": "Það eru engin takmörk fyrir því hvað php getur.\nLook at me… ég bjó til reiknivél sem gat þáttað margliðlur með php…\nvá, þetta hljómað njarðarlega… satt samt!"
+        },
+        {
+            "user": "valligu",
+            "user_id": "1221",
+            "date": "2001-06-25 18:34:05",
+            "id": "217130",
+            "reply_to_id": "217129",
+            "text": "var það ekki eitthvað fleigboga dæmi eitthvað…??"
+        },
+        {
+            "user": "Jolly",
+            "user_id": "2156",
+            "date": "2001-06-25 08:45:15",
+            "id": "217131",
+            "reply_to_id": "217128",
+            "text": "IRCið er ekki beint hluti af PHP en það er enhverskonar gátt í PHP til að tengjast ircstöðvum í PHP. Getur einhver frætt okkur um ircið á PHP?"
+        },
+        {
+            "user": "arnorg",
+            "user_id": "459",
+            "date": "2001-06-25 16:50:02",
+            "id": "217132",
+            "reply_to_id": "217131",
+            "text": "Þú getur alveg náð þér í heimasíðuirc byggt á Java…\nÞetta er bara java applet sem að byrjar á því að vera:\n&lt;applet archive=\"\nhttp://static.hugi.is/chat/java/cr.zip\n“ codebase=”\nhttp://static.hugi.is/chat/java/\n“ code=”ConferenceRoom.class“ name=”cr“ width=580\theight=300>\nþarna er scriptið sótt…. og klasarnir líka\n&lt;param name=”fg“ value=”000000“>\n&lt;param name=”showcolorpanel“ value=”true“>&nbsp;\n&lt;param name=”ssp“ value=”/params/def.prm“>\n&lt;param name=”channel“ value=”#hugi.is“>\n&lt;param name=”nick“ value=”arnorg“>\n&lt;param name=”server“ value=”cartman.hugi.is“>\n&lt;param name=”port“ value=”23123“>\n&lt;param name=”pass“ value=”9bf0a785524fb58fc16e4075ed6a3ac6“>\n&lt;/applet>&nbsp;\nþarna er hægt að benda meðal annars á að irc serverinn er cartmann.hugi.is(irc.simnet.is relayer) og portið 23123  og rásin #hugi.is\nþetta geturu gert líka með í MIRC með því að gera /server irc.hugi.is 23123 password….\nþar sem að name=”pass“ value=”9bf0a785524fb58fc16e4075ed6a3ac6 er ekkert annað en passwordið þitt sem að er búið að dulkóða svo að engin geti séð það með þvi að skoða source codann ef að þú ert kannski innskráður…\nnei þetta er ekki búið til í PHP en PHP er einhver hluti að þessu, ef að PHP væri ekki til staðar þá þyrftiru sjálfur að tilgreina notendanafnið þitt passwordið þitt, irc serverinn, irc rásina, portið á irc þjóninum…. þetta mundiru þurfa að gera ef að PHP væri ekki til staðar…"
+        },
+        {
+            "user": "cre",
+            "user_id": "6534",
+            "date": "2001-06-26 18:46:15",
+            "id": "217133",
+            "reply_to_id": "217131",
+            "text": "tékkaðu á phpirc:\nhttp://www.phpwizard.net/projects/phpIRC/\nþetta er sennilega það sem er notað hér á huga."
+        },
+        {
+            "user": "intenz",
+            "user_id": "127",
+            "date": "2001-06-26 21:54:57",
+            "id": "217134",
+            "reply_to_id": "217125",
+            "text": "“Ég veit að javascript er öflugara í að gera texta sem fylgir músinni -og allt það sem er ekki cool-”. Hvað meinaru?! Bíddu er PHP cool? Notar maður bara PHP því það er cool? Ok, víst svo er, er ég þá að misskilja eitthvað?"
+        },
+        {
+            "user": "intenz",
+            "user_id": "127",
+            "date": "2001-06-26 22:05:45",
+            "id": "217135",
+            "reply_to_id": "217125",
+            "text": "Það hljómar eins og þú sért að meina, “ég nota php því það er cool en ég nota ekki javascript, því það er ekki cool”."
+        },
+        {
+            "user": "arnorg",
+            "user_id": "459",
+            "date": "2001-06-27 00:13:11",
+            "id": "217136",
+            "reply_to_id": "217135",
+            "text": "nei þetta er ekki PHPIRC, þú myndir vita það hefðir þú lesið fyrra svarið mitt hérna það sem að ég skýrir út hvernig þetta irc virkar hérna!"
+        },
+        {
+            "user": "GorGo",
+            "user_id": "5694",
+            "date": "2001-06-27 18:35:13",
+            "id": "217137",
+            "reply_to_id": "217125",
+            "text": "Stóra vandamálið í þessu tvíeyki er ekki PHP .. Það er MySql ..\nÞað er jú frír “Gagnagrunnur” en .. hann er ekki venslaður ..\nSemsagt það eru ekki teingsl á milli taflna í grunninum sem bann þér að skrá í töflu A sé hún vensluð í B .. Það er ekkert sem stoppar þig við að skrá hvaða krapp sem er.\nSvo supportar MySql ekki nestaðar select skipanir, ekki stoerd procedures, triggera og  ekki view. Það gera hinsvegar flestallir aðrir grunnar þar á meðal Acess.\nEf þú ert með fréttir og smá spjallborð virkar þetta fínt en ef þú ættlar að gera almennilegt kerfi fer þetta fljót að há þér ..\nÉg er ekki að segja að þetta sé ónothæft en þetta er MAJOR BÖGGAR ..\nÞetta stendur til bóta þegar mysql kemur með nýja útgáfu og eru nestaðar select skipanir þar ofarlega á blaði. En þangað til er MySql Veikur hlekkur allavega við að gera flottari og flóknari hluti ..\nOg ekki fara að væla yfir að ég sé að gagnrýna MySql, ég er sjálfur að nota þetta kerfi, það er bara staðreynd ef þú hefur prófa önnur kerfi þá er þetta veikleiki.\nPHP er einnig smá galli að það er ekki hægt að búa til úr því COM hluti en það er annað mál og ef þú ert opensorce maður þá er það ekki vandamál.\nEinnig mætti PHP vera meira O.O. og það væri frábært að geta yfirskrifa föll og svoleiðs sniðuga hluti en það er nú ekkert alvarlegt.\nSvo hvet ég menn sem notaþetta af einhverju ráði að styrkja bæði apache, php, og sérstaklega MySql fjárhagslega (þarf ekki að vera mikið) því annars verður lítil sem eingin framþróunn í þessu.\nKveðja\nGorGo\nPS: Passið þið ykkur á Nullpointernum."
+        }
+    ]
+}

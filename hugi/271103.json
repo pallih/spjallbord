@@ -1,0 +1,277 @@
+{
+    "forum_title": "Heimspeki",
+    "user": "Kreoli",
+    "user_id": "22696",
+    "date": "2005-01-20 20:42:22",
+    "title": "Óendanleikinn er ófullkominn",
+    "text": "ó = óendnaleiki\n0,999…ó = x\n9,999…ó = 10x\n10x - x = 9x = 9\nx=1",
+    "url": "https://www.hugi.is/heimspeki/korkar/271103/oendanleikinn-er-ofullkominn/",
+    "url_id": "271103",
+    "id": "1914449",
+    "replies": [
+        {
+            "user": "Popcorn",
+            "user_id": "8387",
+            "date": "2005-01-22 19:10:47",
+            "id": "1918315",
+            "reply_to_id": "1914449",
+            "text": "Af hverju er “óendanleikinn” þá “ófullkominn”?\nÞað er sjálfsagt mál að 0.9999….. = 1.\nÞetta er stærðin 9*10^-1 + 9*10^-2 + …\nsem hefur markgildið 1.\nÞetta hefur ekkert með ófullkomleika að gera."
+        },
+        {
+            "user": "Kreoli",
+            "user_id": "22696",
+            "date": "2005-01-23 02:10:44",
+            "id": "1919357",
+            "reply_to_id": "1918315",
+            "text": "Því óendanleikinn endar þarna sem stærð sem stækkar þessa tölu 0.9999… í 1"
+        },
+        {
+            "user": "Popcorn",
+            "user_id": "8387",
+            "date": "2005-01-23 12:17:53",
+            "id": "1919629",
+            "reply_to_id": "1919357",
+            "text": "En það er ekki sjálfgefið að það gerist.\nÞað eru til stærðir sem stækka endalaust.\nMyndi það þá vera “fullkominn” óendaleiki.\nAthugaðu líka að 0.9999…. (eða 9*10^-1 + …)\nnær aldrei að verða 1, hún nálgast 1 bara óendanlega.\nÞað er ekkert skref sem gerir þessa stærð að 1.\n1 er akkúrat minnsta talan sem 0.9999… mun aldrei\nfara yfir.  Þess vegna segjum við að 0.9999…. = 1."
+        },
+        {
+            "user": "Joakimk",
+            "user_id": "43781",
+            "date": "2005-01-23 20:40:41",
+            "id": "1921068",
+            "reply_to_id": "1914449",
+            "text": "Mig langar svo að segja “Já ég skil” og geta meint það en því miður get ég það ekki"
+        },
+        {
+            "user": "Noproblem",
+            "user_id": "23636",
+            "date": "2005-01-24 23:25:34",
+            "id": "1924488",
+            "reply_to_id": "1914449",
+            "text": "Þetta er rangt.\nEf þú dregur óræða tölu frá annari óræðri (óræð á þann hátt að þú veist ekki hversu löng hún er, þannig að þú veist ekki gildi hennar) þá verður niðurstaðan ekki ‘rétt’.\n10x - x verða ekki 9x, heldur einhver önnur óræð tala. (9 + 0,óendanlegamörgnúll og 1)\nEða er ég í ruglinu?\nAllavega sér hver maður að þetta gengur ekki upp. :)"
+        },
+        {
+            "user": "Noproblem",
+            "user_id": "23636",
+            "date": "2005-01-24 23:31:13",
+            "id": "1924501",
+            "reply_to_id": "1924488",
+            "text": "Ef þú sleppir því t.d. að segja x í staðinn fyrir töluna, þá ættirðu alveg að sjá að útkoman er ekki 1\nÞetta er hinsvegar mjög góð nálgun að 1\n'Óendanlega' góð nálgun, en ekki 1 :)"
+        },
+        {
+            "user": "Draupnir",
+            "user_id": "23276",
+            "date": "2005-01-26 16:02:55",
+            "id": "1928051",
+            "reply_to_id": "1924501",
+            "text": "Það er ekki hægt að reikna þetta án x, allavegana mjög erfitt að skilja hvernig það er gert.\nOg þessi jafna stenst alveg. Spurði eitt sinn stærðfræðikennarann minn (í menntaskóla, ekki grunnskóla) um þetta og hann sagði að þetta stæðist. Það eru jú alveg nákvæmlega sömu aukastafir í báðum liðum."
+        },
+        {
+            "user": "Noproblem",
+            "user_id": "23636",
+            "date": "2005-01-26 22:14:02",
+            "id": "1929124",
+            "reply_to_id": "1928051",
+            "text": "“Það eru jú alveg nákvæmlega sömu aukastafir í báðum liðum.”\nÞarna ertu nefnilega að gefa þér eitthvað sem ég er ekki alveg viss um.\nVið sjáum alveg að þetta gengur ekki upp, þannig að það hlýtur að vera villa í þessu.\nSérðu einhvern möguleika á villu, annan en þennan ?\nÞeas. að aukastafirnir séu ekki nákvæmlega þeir sömu.\nEf við værum t.d. með 0,9999 og myndum margfalda með 10, þá fengjum við 9,9990 og mismunur þeirra er 0,0009.\nSpurning hvernig þú ætlar að draga mismun af 2 óræðum tölum?"
+        },
+        {
+            "user": "Draupnir",
+            "user_id": "23276",
+            "date": "2005-01-27 14:51:33",
+            "id": "1930131",
+            "reply_to_id": "1929124",
+            "text": "Ég held að það fengist ekki 0,999….9990 því þetta er óendanlega tala."
+        },
+        {
+            "user": "Noproblem",
+            "user_id": "23636",
+            "date": "2005-01-27 15:03:25",
+            "id": "1930165",
+            "reply_to_id": "1930131",
+            "text": "Nákvæmlega! þetta er óendanleg tala.\nÞú þekkir ekki raungildi hennar og þarafleiðandi geturu ekki dregið hana frá annari tölu og fengið rétta niðurstöðu.\nTala nú ekki um ef báðar tölurnar eru óræðar."
+        },
+        {
+            "user": "Draupnir",
+            "user_id": "23276",
+            "date": "2005-01-27 16:44:15",
+            "id": "1930453",
+            "reply_to_id": "1930165",
+            "text": "Ja, ég held að það sé hægt að reikna þetta svona. Ég get ekkert sannað það um leið og þú getur ekkert afsannað það :)"
+        },
+        {
+            "user": "Noproblem",
+            "user_id": "23636",
+            "date": "2005-01-27 17:00:49",
+            "id": "1930506",
+            "reply_to_id": "1930453",
+            "text": "Sönnunarbyrðin er þín megin. :)\nEn þar sem við sjáum að þetta gengur ekki upp.\nX er nálgun að 1, en ekki 1."
+        },
+        {
+            "user": "Draupnir",
+            "user_id": "23276",
+            "date": "2005-01-27 18:40:59",
+            "id": "1930797",
+            "reply_to_id": "1930506",
+            "text": "Ég held að þetta gangi upp og líka stærðfræðikennarinn minn. Ég hef lært um svona í stærðfræði. Ég skal sýna þér eitt.\nx = 3,47613613613… (þ.e. hefur lotuna 613)\n100000x = 347613,613613…\n100x = 347,613613613\n100000x - 100x = 347613,613613… - 347,613613613…\n<=>99900x = 347266 [613613… dettur út því þetta\ner\nóendanlegt í báðum tilvikum]\nÞá er x = 347266/99900 = 173633/49950\nog því er talan 3,47613613613… ræð\n.\nEinnig geturðu ekki sannað að x sé ekki 1 í fyrra tilvikinu (0,999…). Geturðu sannað að a*0 = 0 þar sem a er stak í\nR\nsem er mengi rauntalna. (bara að tékka á þér ;))"
+        },
+        {
+            "user": "Noproblem",
+            "user_id": "23636",
+            "date": "2005-01-27 18:53:00",
+            "id": "1930822",
+            "reply_to_id": "1930797",
+            "text": "Hvernig er hægt að halda því fram að þetta gangi upp, þegar þú segir fyrst að x sé nálgun að 1, en segir svo að x sé einn ?\nÉg er sammála þér í því að þessir útreikningar virka sannfærandi, en það sé hver maður að þetta gengur ekki upp þar sem x er bara nálgun að 1, og þú getur ekki dregið óendanlega langa tölu frá annari óendanlega langri.\nÉg held samt að vandinn liggi í því hvort “síðasti” tölustafurinn í tölunni verði 0 þegar þú margfaldar með 10, en það er náttúrulega útí hött þarsem það er enginn “síðasti” bókstafur í endalausri tölu.\n“Geturðu sannað að a*0 = 0 þar sem a er stak í R sem er mengi rauntalna.”\nÉg kann ekki mikið í stærðfræði. :)\nEn ég held að það sjái hver maður að þú getur margfaldað hvaða tölu sem er með 0, útkoman verður alltaf 0.\nHvort þetta sé axiom eða útleiðsla man ég ekki.\nEn þegar þú talar um að 3,47613613613… sé ræð, meinaru þá að þú getir táknað hana sem hlutfall tveggja heilla talna?\nGeturðu gert það með 0,9999…ó ?"
+        },
+        {
+            "user": "Draupnir",
+            "user_id": "23276",
+            "date": "2005-01-27 20:08:20",
+            "id": "1931061",
+            "reply_to_id": "1930822",
+            "text": "“þegar þú segir fyrst að x sé nálgun að 1, en segir svo að x sé einn ?”\nÉg sagði aldrei að það væri nálgun, það varst þú sem sagðir það.\n“þú getur ekki dregið óendanlega langa tölu frá annari óendanlega langri.”\nÞú veist ekki hvort það sé hægt, né veit ég það. Þetta er einungis “kenning” ef svo má að orði komast.\n“En ég held að það sjái hver maður að þú getur margfaldað hvaða tölu sem er með 0, útkoman verður alltaf 0.”\nÞú verður að sanna það fyrst. Ég skal sanna það.\nUm sérhvert a í\nR\ngildir: a*0 = 0\nSönnun:\nGefum okkur að a sé stak í mengi\nR\n(það er notast við feitletrað err) sem er mengi allra rauntalna. Þá fæst:\na*1 = a\n–(skv. frumreglunni um hlutleysu, þ.e. “a + 0 = a og a*1 = a”)\n=> a*(1 + 0) = a\n(skv. hlutleysureglunni)\n=> a*1 + a*0 = a\n(skv. dreifireglu, þ.e. a(b+c) = ab + ac)\n=> a + a*0 = a\n(skv. hlutleysureglu)\n=> a*0 = a - a\n(skv. sannaðri reglu: “a + b =c => a = c - b”, nenni ekki að sanna þá reglu)\na*0 = 0\n(skv. andhverfureglu, þ.e. “x + a = 0 sem hefur lausnina -a: (-a) + a = 0”)\nQuod erat demonstrandum\n(það sem sanna átti).\nÉg vil benda á að flestar reglurnar sem eru innan sviga eru frumreglur og eru því ekki sannaðar, heldur hafa menn komið sér saman um að þær séu réttar."
+        },
+        {
+            "user": "Noproblem",
+            "user_id": "23636",
+            "date": "2005-01-27 20:25:34",
+            "id": "1931125",
+            "reply_to_id": "1931061",
+            "text": "“Ég sagði aldrei að það væri nálgun, það varst þú sem sagðir það.”\nÞetta _ER_ nálgun. :)\nÓendanlega nálæg nálgun, ef svo má að orði komast.\nÞú segir það þegar þú skrifar “0,9999…ó = x”\nOg þetta varðandi að draga óendanlega langa tölu frá annari óendanlega langri: eflaust svipað og að draga z frá y án þess að vita gildi þeirra.\nÞú veist ekki raunverulegt gildi tölunar sem þú ert að vinna með og getur þarafleiðandi ekki fengið “rétta” niðurstöðu.\nEnda færðu ekki rétta niðurstöðu, sérð fyrst að þú skilgreinir x sem 0,999…ó en færð svo út að það sé 1 … :)\nSkemmtileg sönnun hjá þér.\nOg já, ég kannast við mengið R og “frumreglur” (“axiom” á grísku eða eitthvað, eins og ég nefndi áðan)\nEn ég er ekki hérna til að metast við þig í stærðfræði, enda er ég nokkuð viss um að ég yrði undir í því.\nÉg er bara að benda þér á að þetta dæmi þarna gengur ekki upp, og mér finnst fyndið að þú skulir kalla heiminn ófullkominn þegar þú færð ranga niðurstöðu útafþví að þú notaðir rangar reikniaðferðir. :)\n—— Hitt svarið þitt :)\n“Það er hugsanlegt að 0,999… sé ræð, það er 9/9 sem er jú einn en þar með getum við sagt að 1 sé jafnt og 0,999…”\n1 er nefnilega ekki = 0,999…ó og þessi útleiðsla sem korkurinn er um er einfaldlega ekki rétt."
+        },
+        {
+            "user": "Draupnir",
+            "user_id": "23276",
+            "date": "2005-01-27 22:51:03",
+            "id": "1931534",
+            "reply_to_id": "1931125",
+            "text": "Hversu oft þarf ég að segja það. Þetta eru sömu aukastafir því þetta er jú óendanlegt, þannig að þetta virkar. Það tel ég allavegana.\n“Ég er bara að benda þér á að þetta dæmi þarna gengur ekki upp, og mér finnst fyndið að þú skulir kalla heiminn ófullkominn þegar þú færð ranga niðurstöðu útafþví að þú notaðir rangar reikniaðferðir. :)”\nÉg sagði ekkert um neinn ófullkomleika, það var höfundur póstsins.\nHvernig geturðu sagt að þetta sé rangt? Þú kemur með enga röksemdalega færslu fyrir því. Við vitum ekki, en við\ngetum\ngert okkur það í hugarlund að þó þú margfaldir 10 við 0,999… fáirðu samt út “jafn marga aukastafi sem eru allir þeir sömu” því þetta er óendanlegt.\nÞú getur heldur ekki sagt að þetta sé röng reikniaðferð, því þú eins og ég sýndi í dæminu áðan (3,761761… eða eitthvað, man ekki alveg lotuna) þá virðist þetta mjög líklega virka, en við vitum það ekki.\nVið skulum hætta núna, vil ekki að þetta fari út í rifrildi."
+        },
+        {
+            "user": "Noproblem",
+            "user_id": "23636",
+            "date": "2005-01-27 23:08:58",
+            "id": "1931572",
+            "reply_to_id": "1931534",
+            "text": "Já. :)\nÞetta er skemmtileg pæling.\nAnnars finnst mér ég geta sagt að hún virkar ekki þar sem það er öllum ljóst að það er um mismunandi niðurstöður að ræða.\nFyrst er x nálgun að 1, svo er það 1.\nÁ meðan ég vil meina að það sé alltaf nálgun.\nGaman að svona, mér finnst líka mjög gaman að ræða um svona og persónulega sé ég ekki ástæðu til að fara útí rifrildi þó við höfum bara verið að berjast við þrjóskuna í hvor öðrum. ;) (og kannski sjálfum okkur líka, smá)\nGaman að spjalla við þig. :)"
+        },
+        {
+            "user": "Draupnir",
+            "user_id": "23276",
+            "date": "2005-01-27 23:17:48",
+            "id": "1931591",
+            "reply_to_id": "1931572",
+            "text": "Sömuleiðis :)"
+        },
+        {
+            "user": "Popcorn",
+            "user_id": "8387",
+            "date": "2005-01-28 21:36:36",
+            "id": "1933550",
+            "reply_to_id": "1931572",
+            "text": "Af hverju gerið þið ráð fyrir að 0.99999….\nsé ekki 1?\nAðferðin er rétt.  Svarið er það líka.\nEf hægt er að ljá tákninu 0.9999… merkingu og\ngæta samræmis við önnur brot af sömu gerð er\nútkoman 1, þ.e. 0.999… = 1.\nTalan 0.99 er ekki 1 og 0.999 er það ekki heldur.\n0.9 + 0.09 + … + 0.9*10^(-n) er ekki 1 fyrir\nnein endanleg n.  En með því að rita 0.999…\nerum við að gera ráð fyrir því að n sé óendanlegt,\neða að 0.9 + 0.09 + … + 0.9*10^(-n) HAFI NÁÐ\ntölunni sem hún er að nálgast.\n0.9999… ÞÝÐIR 1 því 0.999… ÞÝÐIR \"markgildið\nsem fæst þegar sífellt fleiri 9 er bætt við enda-\nlaust.  Það er ekkert óendanlegt við þesa tölu,\nþví hún fer aldrei yfir 1.\nÓræðar tölur koma ekker nálægt þessu.  Þær eru\nmun flóknari."
+        },
+        {
+            "user": "Noproblem",
+            "user_id": "23636",
+            "date": "2005-01-29 03:37:37",
+            "id": "1934412",
+            "reply_to_id": "1933550",
+            "text": "Sama hversu mörg negatív tugveldi 9 er í, það verður aldrei einn.\nÞetta er nálgun að einum, og markgildi tölunnar er 1, en hún er ekki einn."
+        },
+        {
+            "user": "Popcorn",
+            "user_id": "8387",
+            "date": "2005-01-29 22:21:41",
+            "id": "1936150",
+            "reply_to_id": "1934412",
+            "text": "Táknið 0.999… merkir einmitt markgildið.\nÞað er rétt hjá þér að fyrir endanlega margar\nníur er talan aldrei jöfn einum.\nÞegar við spyrjum hvert gildið er fyrir óendan-\nlega margar níur erum við í raun að spyrja\n“hvert stefnir talan þegar sífellt fleiri níum er\nbætt við?”.  Og svarið er einn.\nOg það er það sem 0.999… merkir.\nÍ raunveruleikanum gætum við að sjálfsögðu aldrei\nritað óendanlega margar níur, en við getum samt\nsvarað spurningunni um hvert gildið væri, ef við\ngætum það, vegna þess að hún er jafngild\nspurningunni um það hvert gildið stefnir þegar\nsífellt fleiri níum er bætt við.\nVið erum í raun að gera ráð fyrir 0.999… HAFI\nNÁÐ markgildi sínu.  Þess vegna er hún 1."
+        },
+        {
+            "user": "Popcorn",
+            "user_id": "8387",
+            "date": "2005-01-29 22:27:19",
+            "id": "1936165",
+            "reply_to_id": "1936150",
+            "text": "Ég vona að ég sé ekki að endurtaka mig.\nÉg vona líka að þið skiljið þetta.  Þetta er mjög\nrökrétt þrátt fyrir að það líti kannski út fyrir\nað vera kjaftæði. :)\nStærðfræðin hefur mjög jarðbundnar útskýringar á\nflestum fyrirbærum sínum, þótt svo virðist ekki\nalltaf vera."
+        },
+        {
+            "user": "Draupnir",
+            "user_id": "23276",
+            "date": "2005-01-27 20:12:02",
+            "id": "1931077",
+            "reply_to_id": "1930822",
+            "text": "Já og þegar ég sagði að talan 3,47613613613… sé ræð þá er hægt að skrifa hana sem almennt brot (eða eins og þú sagðir “hlutfall tveggja heilla talna”).\nÞað er hugsanlegt að 0,999… sé ræð, það er 9/9 sem er jú einn en þar með getum við sagt að 1 sé jafnt og 0,999…"
+        },
+        {
+            "user": "Popcorn",
+            "user_id": "8387",
+            "date": "2005-01-28 21:45:19",
+            "id": "1933575",
+            "reply_to_id": "1931077",
+            "text": "Það er rétt hjá þér.\nÍ hvert sinn sem þú deilir fullstyttu broti þar\nsem nefnarinn er margfeldi af öðrum frumtölum en\n2 og fimm (í tíundakerfi) færðu óendanlegt brot.\nef 157/999 = 0.157157157157157157….. hlýtur\neins að fást:\n0.157157157157157157157….= 157/999\n0g :\n1/9 = 0.111111111….,\n9 * 0.1111111111…. 9*(1/9)= 0.999999….. = 1.\nÞetta er að vissu leiti galli á talnakerfinu\nokkar.\nEn þetta er líka mjög fróðlegt þegar kemur að\nmarkgildum."
+        },
+        {
+            "user": "Draupnir",
+            "user_id": "23276",
+            "date": "2005-01-28 22:57:55",
+            "id": "1933745",
+            "reply_to_id": "1933575",
+            "text": "Já en eins og ég er búinn að segja þá er voðalega erfitt að reikna með óendanlegum tölum þar sem þær eru ekki þekktar til fulls."
+        },
+        {
+            "user": "Popcorn",
+            "user_id": "8387",
+            "date": "2005-01-29 22:10:42",
+            "id": "1936117",
+            "reply_to_id": "1933745",
+            "text": "Ég er ekki sammála því.  Markgildi eru vel þekkt\nog óendanlegar tölur eru vel þekktar og\nskilgreindar.\n0.999… = 1 er vel þekkt staðreynd, allar\nreiknireglur sem leiða af eða að því eru þekktar,\nog auk þess vel skilgreindar, svo ef einhvern\nlangar að vita hvað þetta þýðir allt saman er\nþað líka mögulegt.\nSkilningurinn á þessu er þó ekki endilega sjálf-\nsagður.  Hann þarf hver og einn að meta við\nsjálfan sig"
+        },
+        {
+            "user": "Popcorn",
+            "user_id": "8387",
+            "date": "2005-01-29 22:29:28",
+            "id": "1936170",
+            "reply_to_id": "1936117",
+            "text": "Ég vona að ég hljómi ekki hrokafullur. Ég er það\nnefnilega ekki.  Ég er bara mjög viss um þetta\natriði."
+        },
+        {
+            "user": "Draupnir",
+            "user_id": "23276",
+            "date": "2005-01-27 14:54:45",
+            "id": "1930145",
+            "reply_to_id": "1929124",
+            "text": "Við gefum okkur að það séu nákv. sömu aukastafir fyrir aftan kommu fyrst þetta er óendanlegt og fyrst sama talan er fyrir aftan kommuna fæst út að mismunur þeirra er núll. Annars er voðalega erfitt að gera sér í hugarlund einhverjar óendanlegar tölur, það sem þær eru ekki þekktar til fulls."
+        },
+        {
+            "user": "Kreoli",
+            "user_id": "22696",
+            "date": "2005-01-26 20:02:00",
+            "id": "1928745",
+            "reply_to_id": "1924501",
+            "text": "Já það sér hver maður að þetta stenst ekki, þess vegna sagði ég að óendanleikinn væri ófullkominn. Hann býr til endalaust nýtt magn af tölum og serðir allt upp."
+        },
+        {
+            "user": "Noproblem",
+            "user_id": "23636",
+            "date": "2005-01-26 22:10:27",
+            "id": "1929111",
+            "reply_to_id": "1928745",
+            "text": "Nei reyndar er það ekki óendanleikinn sem er ófullkominn, heldur reikningsaðferðin. :)"
+        },
+        {
+            "user": "Popcorn",
+            "user_id": "8387",
+            "date": "2005-01-28 21:49:18",
+            "id": "1933585",
+            "reply_to_id": "1929111",
+            "text": "Nei, hvorki reikningsaðferðin né óendanleikinn\neru ófullkominn.  “ófullkomið” hefur reyndar\nenga stærðfræðilega merkingu svo ég legg til að\nþið hættið að nota það orð.\nÞað þarf bara góða skilgreiningu á því að eitthvað sé “óendanlegt”.\nOg slík skilgreining er möguleg.  Samkvæmt henni\ner 0.99999 = 1, og það er ekkert óeðlilegt við\nþað."
+        },
+        {
+            "user": "Mikkjel",
+            "user_id": "31070",
+            "date": "2005-03-30 18:49:34",
+            "id": "2054292",
+            "reply_to_id": "1914449",
+            "text": "Hér er smá “sönnun” úr bókinni „Stærðfræði handa 3. bekk MR“ þar sem svipuð aðferð er notuð. Potaði þessu hingað inn bara í flippi:)\nSýnum að talan 3.47613613613… = 3.47\n613\nsé ræð.\nLausn:\nNefnum töluna x, þ.e. x = 3.47613. Þá fæst:\n100000x = 347613.613\nog   100x =    347.613\nÞá gefur frádrátturinn: 99900x = 347266. En þá er x = 347266/99900 = 173633/49950 sem er vitaskuld ræð tala."
+        }
+    ]
+}

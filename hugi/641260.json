@@ -1,0 +1,173 @@
+{
+    "forum_title": "Windows",
+    "user": "Swooper",
+    "user_id": "50432",
+    "date": "2009-02-05 14:46:18",
+    "title": "Windows 7: Gallar?",
+    "text": "Jæja, nú eru komnar einhverjar vikur síðan Windows 7 betan kom, svo það er komin smá reynsla á það. Hvaða galla, bögga eða compatibility issues eruð þið búin að finna?\nÉg hef uppgötvað eftirfarandi:\n*Þegar nýr spjallgluggi opnast í MSN kemur fyrir að hann verður “glær” og ekki hægt að sjá hann.\n*Lenti í því einu sinni að í staðinn fyrir að opna vefsíður þá fór Firefox að hlaða niður .html og .php skrám. Veit ekki hvort þetta var compatibility vandamál eða hvað í ósköpunum gerðist, ég hef amk ekki lent í þessu nema í Win 7.\n*Ég nota CoreTemp til að fylgjast með hitanum á örgjörvunum. Í fyrsta lagi fæ ég það ekki til að starta sjálfkrafa þegar ég kveiki á tölvunni, þarf að kveikja á því sjálfur (og gefa authorization samþykki líka, bah!). Í öðru lagi: Það setur tvö icon í system tray, eitt fyrir hvorn örgjörva. Annað þeirra fer alltaf í Hidden, þarf að færa það niður á barinn í hvert skipti. CoreTemp virkar fínt á hinni vélinni minni sem er með Vista, og virkaði vel á þessari áður en ég fór í Win 7.\nHvað fleira vitið þið um?",
+    "url": "https://www.hugi.is/windows/korkar/641260/windows-7-gallar/",
+    "url_id": "641260",
+    "id": "6494656",
+    "replies": [
+        {
+            "user": "karason",
+            "user_id": "23642",
+            "date": "2009-02-05 16:01:11",
+            "id": "6494849",
+            "reply_to_id": "6494656",
+            "text": "Allar þær villur sem hafa fylgt allt frá því windows 95 , 98 , ME , 2000 og XP eru allar til staðar enn í dag !\nVillur á borð við , þú setur gluggan í einhverja ákveðna stærð. Flott EN næst þegar þú opnar þennan gluggar er stærðin bara þessi venjulega stærð sem þú baðst ekki um ?\nAnnars finnst mér þetta vera sama uppskriftin nema þessi er komin í annan búning með fleirum útlitsmöguleikum.\nSjálfur hef ég búið til ekta XP útgáfu sem tekur frá 800mb til 1,6 gb pláss sem fer reyndar eftir frá hverjum móðurborðið er. Hef engan áhuga að eyða plássi í eitthvað sem maður notar ALDREI !"
+        },
+        {
+            "user": "Swooper",
+            "user_id": "50432",
+            "date": "2009-02-05 16:25:24",
+            "id": "6494911",
+            "reply_to_id": "6494849",
+            "text": "Meh, þetta er ekki þráður til að rífast yfir Win7 vs. eldri windows. Getur notað Windows 7 greinina eftir intenz til þess. Þetta er þráður til að safna saman lista af Win7 specific böggum."
+        },
+        {
+            "user": "HomoLuminous",
+            "user_id": "34866",
+            "date": "2009-02-12 21:11:47",
+            "id": "6509672",
+            "reply_to_id": "6494849",
+            "text": "En og aftur sýnir þú hve lítið þú veist um þá hluti sem þú skítur samt yfir.\nÞað kemur stýrikerfinu EKKERT við hvernig gluggarnir haga sér. Ef gluggi hagar sér asnalega er það vesen með hugbúnaðinn á bakvið gluggann, og reyndar er þetta vandamál sem þú nefnir þekkt hindrun í vegi forritara þegar þeir eru að reyna að hanna notendavæn viðmót fyrir forrit. Þetta er örugglega mest í eldri forritum sem nota C, þar sem viðmótsforritun í því tungumáli fyrir windows með windows forritunarviðmótinu er algjört helvíti.\nEkki skíta stýrikerfi þegar það eru villur í hugbúnaðinum."
+        },
+        {
+            "user": "karason",
+            "user_id": "23642",
+            "date": "2009-02-13 18:34:42",
+            "id": "6511344",
+            "reply_to_id": "6509672",
+            "text": "HALLó , Ég var að tala um gluggana í windosinu. Önnur forrit stjórna EKKI hvernig gluggar í windosinu opnast.\nvitfirringur  Þú ættir að kynna þér betur hvernig windosið vinnur og eitt enn Ég hef meiri áhuga að hjálpa öðrum í vanda og nenni því ekki að hlusta á bullið í þér.\nÉg vona að þú getir haft sóma í að hjálpa öðrum en að koma með skýtkast á mig án þess að rökstyðja það sem þú ert að benda á.\nKveðja."
+        },
+        {
+            "user": "HomoLuminous",
+            "user_id": "34866",
+            "date": "2009-02-14 04:06:02",
+            "id": "6512254",
+            "reply_to_id": "6511344",
+            "text": "Gluggar í windowsinu? Hvaða vitleysu ert þú að tala um?\nEf þú ert að meina bara venjulega folder, þá er varla hægt að kalla það galla í windowsinu. Þá er það explorer.exe, sem er ekkert meira en gluggaviðmótið fyrir stýrikerfið. Enn og aftur, enginn stór galli þar á ferð."
+        },
+        {
+            "user": "karason",
+            "user_id": "23642",
+            "date": "2009-02-14 15:18:14",
+            "id": "6512679",
+            "reply_to_id": "6512254",
+            "text": "Jú mikið rétt. Gluggar í windowsinu. Þetta var mikið rætt á sínum tíma !\nÞetta vandamál pirrar þig kanski ekki en mér finnst það ömurlegt að þurfa alltaf að vera laga gluggan , stækka glugga. Hvað erum við að gera við 21 tommu skjá ef glugginn er alltaf lítill ?"
+        },
+        {
+            "user": "Swooper",
+            "user_id": "50432",
+            "date": "2009-02-05 17:06:15",
+            "id": "6495018",
+            "reply_to_id": "6494656",
+            "text": "Hmm, ég hef ekki fengið neina af þessum. Þegar gluggar verða glærir er bara þegar þú ferð í overview af glugganum.\nÉg hef eiginlega aldrei lent í því að gluggin sé alltaf default stærð heldur er hann eins og ég vill næst þegar ég opna.\nÞegar þú færð icon í System tray alltaf í hidden taktu þá bara hidden af í þarna customize.\nEina vandamálið sem ég hef fengið er að stundum deyr skjáborðið og engin mynd sést svo ég verð að velja mynd aftur eða endurræsa Explorer."
+        },
+        {
+            "user": "Swooper",
+            "user_id": "50432",
+            "date": "2009-02-05 18:18:52",
+            "id": "6495219",
+            "reply_to_id": "6495018",
+            "text": "Þegar þú færð icon í System tray alltaf í hidden taktu þá bara hidden af í þarna customize.\nEn ég vil hafa sum icon hidden, icon sem ég þarf ekki að vita af eins og vírusvörnin (sem poppar upp ef e-ð merkilegt gerist hvort eð er), Dell Quickset dæmið og fleira. Ég þoli ekki Hidden System Tray Icons fídusinn í fyrri windows útgáfum, þar sem maður hefur ekki stjórn yfir honum. Hann er snilld í Win7 hins vegar - fyrir utan þetta litla smáatriði…"
+        },
+        {
+            "user": "uffi",
+            "user_id": "3595",
+            "date": "2009-02-06 18:56:45",
+            "id": "6497517",
+            "reply_to_id": "6494656",
+            "text": "Ég get ekki tengt mig við netið er búin að prófa þrjú lan kort plús það sem er á móðurborðinu og tvö þráðlaus en Windows vill ekki finna driverana og og þegar ég set inn cd diska með driverunum kemur alltaf  að þetta séu ekki driverar fyrir þetta stýrirkerfi.\nEn það er bara að prófa meira af lan kortum"
+        },
+        {
+            "user": "RapeHills",
+            "user_id": "70221",
+            "date": "2009-02-06 21:24:19",
+            "id": "6497815",
+            "reply_to_id": "6494656",
+            "text": "Þegar ég er í skólanum og ætla að fara á netið þarf ég oftast að troubleshoota nettenginguna til að fá internet access en ekki bara local.\nÞegar ég var með Vista var það samt oft þannig að internet access var niðri, þannig að ég veit nú ekki alveg hvort þetta er Windows eða nettengingunni í skólanum að kenna."
+        },
+        {
+            "user": "Swooper",
+            "user_id": "50432",
+            "date": "2009-02-07 16:09:43",
+            "id": "6498902",
+            "reply_to_id": "6497815",
+            "text": "Ég hef ekki átt í neinum vandræðum með það, hvorki heima hjá mér né í skólanum. Myndi veðja á að þetta sé þráðlausa netinu í skólanum þínum að kenna."
+        },
+        {
+            "user": "HomoLuminous",
+            "user_id": "34866",
+            "date": "2009-02-12 21:13:43",
+            "id": "6509676",
+            "reply_to_id": "6494656",
+            "text": "Af hverju eruði að skrifa þráð um villur í stýrikerfinu sem eru svo ekkert villur í stýrikerfinu? Hvernig getið þið tekið hugbúnað sem er ekki smíðaður fyrir það stýrikerfi, sett hann inn, og kvartað svo að hann virki ekki?\nEf þið hafið í alvöru fengið hugbúnað sem kveðst styðja windows 7, gjöriði svo vel að kvarta, en annars getið þið ekki sagt neitt."
+        },
+        {
+            "user": "Swooper",
+            "user_id": "50432",
+            "date": "2009-02-12 22:01:18",
+            "id": "6509812",
+            "reply_to_id": "6509676",
+            "text": "compatibility issues"
+        },
+        {
+            "user": "HomoLuminous",
+            "user_id": "34866",
+            "date": "2009-02-13 14:40:12",
+            "id": "6510879",
+            "reply_to_id": "6509812",
+            "text": "Það getur vel verið að það standi þarna, en það breytir því samt ekki að það er algjörlega út í hött að vera eitthvað að nefna compatibility issues á milli forrita og stýrikerfisins, þegar stýrikerfið er í beta og forritin ekki hönnuð fyrir stýrikerfið."
+        },
+        {
+            "user": "Swooper",
+            "user_id": "50432",
+            "date": "2009-02-13 15:40:15",
+            "id": "6510981",
+            "reply_to_id": "6510879",
+            "text": "Stýrikerfið gefur sig út fyrir að vera 100% backwards compatible við Vista, þ.e. allt sem virkar í Vista á að virka í Windows 7. Það er það greinilega ekki, miðað við þau issue sem hafa verið nefnd í þessum þræði."
+        },
+        {
+            "user": "HomoLuminous",
+            "user_id": "34866",
+            "date": "2009-02-14 04:13:44",
+            "id": "6512259",
+            "reply_to_id": "6510981",
+            "text": "Þú ert ekki að keyra windows 7. Þú ert að keyra beta útgáfu af windows 7.\nÉg skal lýsa þessu fyrir þér eins og þetta kemur fram fyrir einhverju með viti.\n* Microsoft gefur út nýtt stýrikerfi\n* Allir skíta á stýrikerfið í smá tíma\n* Allir nota stýrikerfið\n* Næsta kemur út\n* Allir skíta á það\n* Margir nota það\n* MS Gefur út betu fyrir næsta stýrikerfi áður en hitt fær að ná almennilegum markaðshluta\n* Allir eru jákvæðir vegna þess að þeim fannst hið fyrra vera vesen\n* Allir prófa betuna og þykjast vera rosalegir beta testarar og installa öllum andskotanum af hugbúnaði\n* Allir kvarta yfir því að BETA stýrikerfið, sem á að vera backwards compatible við hið fyrra, sé gallað að mörgu leiti.\nEf þið viljið ekki fá stýrikerfi sem er mögulega gallað sum staðar, af hverju í andskotanum eruði að installa beta útgáfu? Hver póstur hérna er hinum heimskari og þetta ekkert nema kjaftæði. Þetta er beta, og þó svo þetta eigi eftir að vera 100% backwards compatible, eru hundrað aðrir hlutir sem gætu verið öðruvísi sem eru á bakvið tjöldin. T.d. taskbarinn, hann er gjörbreyttur. Býst þú við því að beta útgáfa af stýrikerfinu innihaldi kóða sem er nógu backwards compatible til þess að notandinn geti verið viss um að kóði sem var skrifaður fyrir vista sem fiktaði við taskbarinn virki eins og hann eigi að virka í Windows 7, sem er með allt öðruvísi taskbar?\nÉg ætla ekkert að fullyrða, en mig grunar að enginn hérna hafi nokkurra reynslu af forritun, hvað þá á windows af einhverju viti. Þú lest varla bækur um geimeðlisfræði og dæmir þær þegar þú hefur ekki hugmynd um hvað þær snúast?"
+        },
+        {
+            "user": "Swooper",
+            "user_id": "50432",
+            "date": "2009-02-14 14:17:43",
+            "id": "6512594",
+            "reply_to_id": "6512259",
+            "text": "Þér að segja er ég tölvunarfræðinemi, svo jú, ég hef eitthvað vit á forritun.\nÞú veist hver tilgangurinn er með opnu beta-testi, er það ekki? Að finna bögga. Þessi þráður er ekki “ohh ég hélt að windows 7 væri svo fullkomið en það eru böggar/compatibility issues í því!!! D:”. Hugmyndin var að forvitnast um hvaða vandamálum aðrir betatesterar hafa lent í."
+        },
+        {
+            "user": "HomoLuminous",
+            "user_id": "34866",
+            "date": "2009-02-14 14:52:47",
+            "id": "6512642",
+            "reply_to_id": "6512594",
+            "text": "Það getur vel verið að þú hugsir svoleiðis, en það eina sem ég sé hérna er vagnahopparar sem skíta á Windows af því að þeir halda að það sé eitthvað sem maður gerir ef maður veit eitthvað um tölvur."
+        },
+        {
+            "user": "Swooper",
+            "user_id": "50432",
+            "date": "2009-02-14 15:19:58",
+            "id": "6512682",
+            "reply_to_id": "6512642",
+            "text": "Ég sé engan annan en karason sem var með e-ð skítkast, og ég svaraði honum á sínum tíma og bað hann um að fara annað með skítkastið."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2009-02-22 21:33:47",
+            "id": "6528249",
+            "reply_to_id": "6494656",
+            "text": "gallin hja mér er það að ég næ ekki að instala driverana fyrir skjákortið mitt og móðurborðið. veitt ekkver lausn á því ?"
+        }
+    ]
+}

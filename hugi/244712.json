@@ -1,0 +1,253 @@
+{
+    "forum_title": "Half-Life",
+    "user": "OBhave",
+    "user_id": "3496",
+    "date": "2004-09-05 16:21:31",
+    "title": "NS 3.0 BETA 5 komin!",
+    "text": "Sælt veri fólkið. Nú er NS 3.0 Beta 5 loksins komin og mikið er um breytingar og viðbætur.\nÞessi útgáfa er komin á íslenska NS serverinn: 194.105.226.116:27015 .\nATH til að setja hana upp þarf EKKI neina fyrri betu sem grunn, eins og áður þurfti. Það þarf bara að vera með virkandi Steam Half-Life og svo bara keyra NS 3.0 Beta 5 fælinn og voila þú ert kominn með NS Betu 5.\nÞannig að hugi.is/hl admins, þegar þið uppfærið download linkana á forsíðunni vinsamlegast fjarlægið beta 1, beta 4 og beta 4a linkana þegar þið setjið Beta 5 linkinn upp. Það ætti að hindra misskilning hjá fólki sem er að byrja. Takk.\nJæja, en helstu breytingar í nýju betunni myndi ég segja að væru:\n**Yfirhöfuð minnkað knockback frá alien árásum, sérstaklega hjá skulk (gott að mínu mati, “bráðin”\nskýst ekki frá manni við fyrsta bit)\n**Knockback hefur ekki lengur nein áhrif á friendly players, né “blast effect” hlutir eins og Xenocide.\n**Jetpack hefur nú betri hreyfigetu, og jetpackers eru að auki orðnir *ÓNÆMIR* fyrir stomp.\n**Alien resource towers gefa ekki frá sér “slurp” hljóðið fyrr en að mínúta er liðin af leiknum.\nÞetta hindrar commanderinn í að heyra í hvaða hive aliens byrjuðu.\n**Heal Spray er öflugra á players núna, bæði í healing, og damage á óvini >) það vinnur nú með\nfasta tölu + PRÓSENTU af max lífi “viðtakandans”, í staðinn fyrir bara fasta tölu eins og áður.\nSem sagt það tekur eins langan tíma að heal-a Onos  og áður, þó að skulk sé ennþá fljótari.\n**Onos armor gerir núna tvöfalt meira gagn (hefur samt sama magn af armor og áður)\n**Grenade Launcher kostaður lækkaður úr 20 í 15.\n**Handsprengjur bættar á ýmsan hátt, og nú er hægt að kasta þeim laust með því að vera crouch-andi þegar maður hendir.\n—————————————–\nBreytingar á combat eru líka þónokkrar:\n**Aliens spawna alltaf sem skulk núna, og þú færð punktana þína “endurgreidda” til að eyða í sama\nlifeform, eða annað, þegar þú deyrð. ATH samt að eftir að þú ferð úr skulk í eitthvað annað þá ertu þannig þangað til þú deyrð.\n**Nú er hægt að fara úr skulk í hvaða lifeform sem er, án milliliða.\n—- Gorge kostar 1 level\n—- Lerk 2\n—- Fade 3\n—- Onos 4\n**Að breyta sér í annað lifeform er nú ennþá hraðara í combat.\n**WAVE SPAWNING… HALELLUJA! Því fleiri sem spawna í einu því lengur er\nbylgjan á leiðinni. Max í einni bylgju er 5 players. Fyrir forvitna þá er\nskv. formúlunni einn player 5 sek að spawna, og fimm manns eru 23 sek að spawna.\nSem sagt liðið þarf samt að passa sig að deyja ekki allir í einu, en þetta leysir\nþó small-group spawncamp vandamálið. (ef virkilega margir komast í spawncamp\nstöðu heitir það að sjálfsögðu ekki lengur spawncamp… bara unninn leikur).\n** “Resolved issues with the Phase Gate headroom checking routine.” Ég held að þetta\nþýði minna telefragging með PG, en ég hef auðvitað ekki prófað nýju betuna ennþá.\nAð auki eru svo 2 ný möpp komin:\nns_altair by KungFuDiscoMonkey\nco_sava by Mendasp\nPlús HELLINGUR af updates og breytingum á núverandi möppum.\nAllt changeloggið með smáatriðum og minni breytingum paste-a ég hér fyrir neðan.\nTakk fyrir mig og sjáumst í NS!\n-Reynir “OBhave”\n+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+\nNS v3.0 beta 5 changelog\nFriday, September 3rd, 2004\nGameplay changes:\nO Players who issue the ‘kill’ command in console cannot restart the timer by issuing ‘kill’ again\nO Commander can now click on switches to activate a door or elevator.\nO “slowresearch” cheat now slows down recycling of buildings.\nO Alien attacks apply a reduced knock-back effect. If a player is in the air and receives knockback damage the effect is 50% of what it was in beta 4a, if the player is in Heavy Armor (HA) the knockback is reduced an additional 50%.\nO Changed knockback of Skulk Bite from 300 to 225.\nO Increased jetpack maneuverability, jetpackers are now immune to stomp, and carried items/ammo affect lift less\nO Knockback never affects friendly players.\nO Parasite and Xenocide now get damage boosts from primal scream.\nO Weapons reload exploit fixed.\nO Marines are prevented from putting anything but Resource Towers on Resource nozzles.\nO Reduced time it takes to throw hand-grenades (thanks BrigadierWolf!)\nO Changed hand grenade so it is thrown gently when crouched.\nO Movement chamber range increased from 400 to 500.\nO Alien resource nodes don't play gurgling sounds until a minute into the game. (prevents commander from listening for starting hive)\nO Movement chamber energy bonus increased from 10% to 25%.\nO Changed healing spray effectiveness vs. players: changed from 16 to 13 + 4% of target max health. (both for healing friendly players and attacking enemy players)\nO Increased Gorge armor from 40 to 50.\nO Increased Onos carapace armor bonus from 150 to 350. (makes it closer 50% like all the other aliens)\nO Changed hand grenade physics to make them more effective at attacking indirectly.\nO Increased redemption chance from 35% per second to 45% per second. (still happens when at or below 40% health)\nO Increased spit damage from 25 to 30.\nO Grenade launcher cost lowered from 20 to 15.\nO Ammo packs now drop when a weapons is dropped (intentionally or upon death)\nCombat-specific Gameplay changes:\nO Aliens always respawn as skulk, even if they were previously a higher lifeform.\nO Dying with a larger lifeform gives you back the points spent on it.\nO Unchained alien lifeforms, like regular NS:\n- Gorge costs 1 level\n- Lerk costs 2 levels\n- Fade costs 3 levels\n- Onos costs 4 levels\nO Lifeform evolution times set to a smaller percentage of those in regular NS.\nO Aliens can now only choose a lifeform once per life in Combat.\nO Players spawn in waves, with a maximum wave size of 5 players\nO A wave starts when there is no wave in progress and a player dies\nO The wave finishes when 5 seconds + (number of dead players - 1)*4.5 seconds have elapsed.\nGame mechanics changes:\nO In NS:Combat, all weapon and armor upgrades will now be correctly assigned to the user who upgraded for them.\nO When devolving from a higher alien lifeform to a lower lifeform it was possible to have 0 health but still be “alive”. This has been corrected so you start with the correct health/armor for that class .\nO Aliens no longer take negative damage (gain the damage back as health) when they have 4 or more hives.\nO Parasite flag is now removed from players when they die instead of when they spawn.\nO Aliens who are healing while evolving will emerge healed to the correct percentage. (Also goes for damage while evolving)\nO Fixed flashlight so it’s no longer possible to run out of energy.\nO Players can no longer enter a Comm Chair while it's recycling.\nO Aliens can now evolve on slopes without having to jump.\nO Fixed problem with alien regeneration, where aliens could sometimes get more health than they were supposed to.\nO Alien players should now be able to always evolve provided there is enough room.\nO Blast effect from Onos gore and Xenocide no longer affect teammates.\nO Build circle restrictions no longer remain for mapper placed buildings that are destroyed.\nO Fixed the bug with the ‘startbuilt’ flag for mapper placed offense chambers, they will now be fully functional when the round starts.\nO Motion tracking blips no longer show on minimap when there are no more observatories.\nO Fixed bug where players dropping straight into water are invulnerable.\nO Turrets now track and fire at underwater aliens.\nO OCs will no longer fire at digesting players.\nO Walking aliens no longer uncloak while strafing or if they have upgraded to celerity.\nO Resolved issues with the Phase Gate headroom checking routine.\nO Multiple buildings can no longer be placed on the same physical ground-level location.\nO All non-standard weapons (including LMG) dropped upon death.\nO Tweaked the way gestation space checking works.\nO Improved the way deployment of Phase Gates is handled (code-side).\nO Issue with grenades being selected when you drop your other weapons resolved.\nCosmetic changes:\nO The sound when an alien building is placed only plays if the building is successfully placed.\nO Visual reference of a parasite will now be removed when a mapper placed building is destroyed.\nO Known issue resolved where ‘needs health’ message was being spammed due to variable inconsistencies.\nO Added new shotshell.mdl for shotgun ejection\nO Aliens will no longer show up on motion tracking if they are dead.\nO Use key has been disabled for commanders. (prevents phantom use sounds playing)\no Added new jetpack sounds\nO Fixed bug where the hive take-damage animation interrupted itself\nO Added new NSGuide icon (from amarc)\nO lastinv no longer plays sound when used.\nO Welder redone, its now possible to tell when you're not welding, welding or finished welding, just by listening to the sound.\nO Alerts now play when a ‘friendly’ gorge attacks a building with FF on.\nO Silence upgrade now prevents the primal scream response from players if they have silence.\nO Added an offset shotgun crosshair, which correctly represents the center of the damage field for the current shotgun.\nO Digesting sounds are now affected by the silence upgrades.\nO It is no longer possible to place/keep a waypoint on a cloaked alien.\nO Fixed a bug that stopped the sound that normally plays when an aliens spends points from playing.\nO Hand Grenade no longer plays the same sound for different actions.\nO Tweaked hand grenade sounds from MaDMaXX.\nO New hand grenade model from BrigadierWolf.\nO Motion tracking blips no longer appear on aliens that you can directly see.\nO Digesting players no longer show up on SoF or Parasite.\nO Digesting a jetpacker removes their ability to “fly” so trails won’t be seen.\nO Phantom Phase Gate sounds will no longer play.\nO Long server names will be truncated gracefully as opposed to abruptly on the scoreboard.\nO Correct arm models will now be displayed when exiting the command chair as HA.\nO Improved animation for hand grenade, including synching up grenade creation with throw.\nO Aliens now display the correct amount of res they actually have. It was being shown (24/99) even though you had 25/100.\nO Score is now calculated correctly for weighted kills.\nO Lowered chat text visually on-screen.\nO New ammo pack models\nServer Changes:\nO Game directory changed from “nsp” back to “ns”, now that nearly everyone has moved to the beta\nO STEAMIDs now appear on all applicable log messages.\nO Updated method of locking cvars to be more efficient.\nO Added missing newline character in log message.\nO Fixed log messages for “Game reset started” and “Game reset complete” from sometimes having weird characters.\nO Locked r_detailedtextures to 0 to prevent exploits.\nO Changed mp_limitteams default from 2 to 1 (in server.cfg and listenserver.cfg)\nO Added some sprites to mp_consistency precache.\nO Numents and entityinfo commands now work with sv_cheats set to 1.\nO Changed Linux development platform to gcc-3.2.\nClient Changes (non-gameplay related):\nO Removed ex_interp from cvar locks.\nO Added lightgamma to locked cvars. Value cannot be set below 2.0.\nChanges for those who Mod NS:\nO Code for Chat box now sends strings as a single argument rather than multiple arguments.\nSpectator changes:\nO Spectators should be able to see cloaked alien buildings when spectating in first person.\nMap Changes:\nO Added ns_altair by KungFuDiscoMonkey\nO Added co_sava by Mendasp\nO Updated ns_nancy from Lazer\n- New route to Mother Interface. It's experimental right now and will probably changed around later.\n- Some corridor spacing issues resolved (example: Onos can not leave Mother without ducking)\n- Double door bug FIXED\nO Updated ns_metal\n- More infestation/Tweaks\n- Optimized surface access\n- Fixed 3 build exploits\n- Removed weldable pipe (shortcut)\n- Added bulges in vents to allow passing\n- Lowered cieling in MS\n- Ladder weldable moved to Storage D promenade\n- Added resource node to Surface Access\n- Moved heating room resource to north end of room\nO Updated ns_agora\n- Added two missing sounds\nO Updated ns_bast\n- Reduced size of the vent on top of feedwater so marines have to crouch\n- Fixed button on the Engine Door\n- Fixed a lot of areas where the comm shouldn't build (this includes all the weird feedwater spots)\n- Raised Feedwater hive to avoid exploits and making the access to the vent easier\n- Moved the Feedwater resource a bit so you can get behind it\n- Moved engine and added a second exit to the hive\n- Moved the res outside of Refinery to Water treatment\n- Made the revolving door unusable (like the one on the other side)\n- Lowered Marine Spawn closer to the cargo level and removed the elevator\n- Added new area between the Marine Spawn and the Engine corridor\n- Moved the new res on the bottom of the main aft lift closer to Tram Tunnel.\n- Reduced excessive brightness in some areas (lights over the nodes, feedwater, marine spawn)\n- Added vent between Feedwater and Tram Tunnel\n- Tweaked the Tram so the Onos can fit without crouching\n- Fixed strange clipping holes and errors (this includes some stuck issues too)\n- Added lights to the underwater tunnel\n- Added vent in Refinery\nO Updated ns_hera\n- Added missing titles\n- Added a resource node in north-west corner of the map, by the weld to the rock cavity.\n- Removed a node from Holoroom\n- Removed ground path from Cargo to Holoroom\n- Added in a balcony overlooking the Holoroom, accessible from the upper level of Cargo.\n- Moved the node in Cargo back to it's original place - down in the pit beneath the door.\n- Re-routed Maintenance Access' Cargo exit to beside the cargo life next to MS. (Just so the exit doesn't come out at the resource node)\n- Enlarged the general area around the CC, as well as fixed the getting stuck problem around it.\n- Fixed being able to see into the vent hive as commander with no marines around.\n- Added a vent between Archiving hive and North Corridor (heralocation_ncorridor).\n- Added a vent from broken security door to Cargo lift.\nO Updated co_core\n- Enlarged marine start\n- Fixed small clipping\\clipnode errors\n- Decreased water in hive room\n- Reduced overall elevation changes\n- Broke up line of sight in south hive exit\n- Enlarged hive room slightly\n- Decreased line-of-sight to hive from northeast hallway\n- Several minor geometry changes and fixes\nO Updated co_ulysses\n- Fixed bug in Hive ramp\n- Changed and added detail at Cargo Bay, Marine Spawn and Hive.\n- Added a new window to space at Cargo Hive.\n- Modified some lights along the map to make it more atmospheric\nO Updated co_daimos\n- fixed stuck issue in Lower Sewer (bug #0000590)\n- grates can now be shot through (bug #0000692)\n- added a vent from Hive Area to Upper Tram to allow Alien to fall into the Marines' back there.\n- added a vent from Hive Area to Exactly above the PG welding point.\nO Updated ns_lost\n- Fixed crashing problems\n- Marine start redesigned to eliminate the CC pit\n- “Closet” resource node removed\n- Several weldable vents added\n- Window to siege room in Equilibrium now breakable\n- Los Paranoias resource node removed\n- Added a resource node on Beta Deck\n- Reworked weldable into Alpha Continuum hive\n- Fixed anomalous flooring outside Eternal Requiem\n- Fixed several exploit build areas",
+    "url": "https://www.hugi.is/hl/greinar/244712/ns-30-beta-5-komin/",
+    "url_id": "244712",
+    "id": "1707776",
+    "replies": [
+        {
+            "user": "slate",
+            "user_id": "1150",
+            "date": "2004-09-05 16:41:50",
+            "id": "1708508",
+            "reply_to_id": "1707776",
+            "text": "yay ns beta 5 loksins kominn an mig sínist á changeloginu að það sé ekki búið að laga hitbox bugginn"
+        },
+        {
+            "user": "Aokiji",
+            "user_id": "24283",
+            "date": "2004-09-05 16:47:03",
+            "id": "1708515",
+            "reply_to_id": "1708508",
+            "text": "Hitbox buggið var lagað hjá valve, það var galli í half-life vélinni.\nAnnars nýungarnar í beta 5 eru mjög góðar, og það kom nýtt command “mp_blockscrip” sem blockar scrip ;)\nHvet sem flesta að prufa þetta smá."
+        },
+        {
+            "user": "OBhave",
+            "user_id": "3496",
+            "date": "2004-09-05 18:05:52",
+            "id": "1708581",
+            "reply_to_id": "1708515",
+            "text": "Amm, Slayer, ég vona líka að það verði haft mp_scriptblock á íslenska servernum."
+        },
+        {
+            "user": "smil3y",
+            "user_id": "1345",
+            "date": "2004-10-09 15:53:17",
+            "id": "1741395",
+            "reply_to_id": "1708581",
+            "text": "fallega sucky dæmið"
+        },
+        {
+            "user": "SIR",
+            "user_id": "26642",
+            "date": "2004-09-05 16:42:24",
+            "id": "1708509",
+            "reply_to_id": "1707776",
+            "text": "good stuff.\nnú byrja vonandi margir aftur, og enn fleiri nýjir."
+        },
+        {
+            "user": "dadiorn",
+            "user_id": "23389",
+            "date": "2004-09-05 16:49:10",
+            "id": "1708517",
+            "reply_to_id": "1708509",
+            "text": "YES ER HÚN LOKSINS KOMIN ?? er hún til í BT ?\nokey vá farinn að kaupa hana!\ncyao"
+        },
+        {
+            "user": "OBhave",
+            "user_id": "3496",
+            "date": "2004-09-05 18:36:28",
+            "id": "1708610",
+            "reply_to_id": "1708517",
+            "text": "Bara láta fólk vita sem gæti verið í vandræðum með að komast á server… ekki nota “utanáliggjandi” Steam browserinn. Ég lenti allavega í vandræðum með hann því hann virðist ekki vera að ná að þekkja Beta 4a og Beta 5 í sundur þegar maður reynir að joina server með honum…\nMál með vexti er nefninlega að Beta 4a eyðist ekki þegar þú setur upp Beta 5. Þeir létu nefninlega möppuna heita annað með Betu 5 þannig að eftir að Beta 5 install fællinn hefur verið keyrður þá eru tvær NS möppur í HL möppunni: ein sem heitir “nsp” (sem er beta 4a eða fyrri útgáfur af 3.0 betunni) og önnur sem heitir “ns” (sem er beta 5).\nSem sagt til að keyra Betu 5 (og joina íslenska serverinn) er best að fara opna Steam, fara í Play Games og velja Beta 5 þar úr listanum. Server browserinn inní í leiknum á svo að sýna þér serverana og hleypa þér inn án vandræða."
+        },
+        {
+            "user": "DesigN",
+            "user_id": "44894",
+            "date": "2004-09-05 17:34:42",
+            "id": "1708546",
+            "reply_to_id": "1707776",
+            "text": "nice :D"
+        },
+        {
+            "user": "Nemesis",
+            "user_id": "22078",
+            "date": "2004-09-05 17:45:33",
+            "id": "1708559",
+            "reply_to_id": "1708546",
+            "text": "ótrúleg vinna lögð í þetta .. leiðinlegt að þetta sé ekki vinsælara en það er :8"
+        },
+        {
+            "user": "Nemesis",
+            "user_id": "22078",
+            "date": "2004-09-05 18:25:35",
+            "id": "1708600",
+            "reply_to_id": "1708559",
+            "text": "vinsælla* ;l"
+        },
+        {
+            "user": "OBhave",
+            "user_id": "3496",
+            "date": "2004-09-05 18:46:02",
+            "id": "1708620",
+            "reply_to_id": "1708559",
+            "text": "Tjah, vinsældirnar eru nú alveg *nóg*, svo sem. Þetta kom þeim á kortið, veitti þeim stuðning gegnum framlög og fjárfestingar og nú eru þeir búnir að stofna Unknown Worlds Entertainment… sem er vonandi að framleiða NS2 sem retail leik :)\nEn vinsældir skipta náttúrulega ekki öllu. Bestu meistarastykkin gera oft of miklar kröfur til notandans að ná mjög miklum vinsældum, þetta á líka við um bækur og kvikmyndir."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2004-09-05 18:22:17",
+            "id": "1708596",
+            "reply_to_id": "1707776",
+            "text": "vá, það er aldeilis..\nsamt sem áður alveg satt hjá zm1, synd að svona mikil vinna sé ekki metin á meira"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2004-09-05 18:47:50",
+            "id": "1708622",
+            "reply_to_id": "1708596",
+            "text": "Þessi leikur er næst mest spilaður af öllum á HL vélinni (Held að hann hafi náð einhverri prósentu yfir dod í síðustu könnun)\nSvo hann er nokkuð vel metinn, bara ekki hér á íslandi :)"
+        },
+        {
+            "user": "hlynur4",
+            "user_id": "25573",
+            "date": "2004-09-05 18:54:54",
+            "id": "1708631",
+            "reply_to_id": "1707776",
+            "text": "Gegt."
+        },
+        {
+            "user": "mexican",
+            "user_id": "17546",
+            "date": "2004-09-05 19:37:07",
+            "id": "1708662",
+            "reply_to_id": "1707776",
+            "text": "HELVÍTIS JÁ? :D? :D? :D? :D? :D?"
+        },
+        {
+            "user": "GarFielD",
+            "user_id": "1460",
+            "date": "2004-09-05 20:14:10",
+            "id": "1708695",
+            "reply_to_id": "1707776",
+            "text": "awesome! Ég er allveg að fíla NS :)"
+        },
+        {
+            "user": "OBhave",
+            "user_id": "3496",
+            "date": "2004-09-06 00:26:28",
+            "id": "1708873",
+            "reply_to_id": "1707776",
+            "text": "bleh, villa í greininni… á að standa “tekur EKKI eins langan tíma að heala onos og áður”…"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2004-09-06 14:58:12",
+            "id": "1709130",
+            "reply_to_id": "1708873",
+            "text": "Hvar dl'a ég ?? :l"
+        },
+        {
+            "user": "OBhave",
+            "user_id": "3496",
+            "date": "2004-09-06 15:37:27",
+            "id": "1709150",
+            "reply_to_id": "1707776",
+            "text": "Loksins er líf mitt fullkomið! GO NS IT'S YOUR BIRTHDAY"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2004-09-06 23:17:42",
+            "id": "1709542",
+            "reply_to_id": "1709150",
+            "text": "“Loksins er líf mitt fullkomið!” – Váá lífð þitt flýtur að vera sad =]\nAnnars Ns rockar .. samt ekki meira en cs"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2004-09-07 16:06:02",
+            "id": "1709898",
+            "reply_to_id": "1709542",
+            "text": "HENCE\nTHE\nSARCASM\nPLEASE"
+        },
+        {
+            "user": "OBhave",
+            "user_id": "3496",
+            "date": "2004-09-08 19:07:53",
+            "id": "1710945",
+            "reply_to_id": "1709150",
+            "text": "“One who does not know sarcasm, does not know a rhyno from a cute kitten… ouch”\n-Fornt kínverskt máltæki"
+        },
+        {
+            "user": "slate",
+            "user_id": "1150",
+            "date": "2004-09-08 21:04:19",
+            "id": "1711049",
+            "reply_to_id": "1710945",
+            "text": "I have a kitten, voilate me."
+        },
+        {
+            "user": "slate",
+            "user_id": "1150",
+            "date": "2004-09-10 12:13:09",
+            "id": "1712153",
+            "reply_to_id": "1711049",
+            "text": "right!!!!!!"
+        },
+        {
+            "user": "Sblender",
+            "user_id": "1767",
+            "date": "2004-09-13 19:21:07",
+            "id": "1714948",
+            "reply_to_id": "1707776",
+            "text": "Spurning hvort maður fari að spila NS aftur :)"
+        },
+        {
+            "user": "OBhave",
+            "user_id": "3496",
+            "date": "2004-09-15 02:33:02",
+            "id": "1716171",
+            "reply_to_id": "1714948",
+            "text": "Minnir að síðast þegar að ég skoðaði gamespy player rankings var Half-life e-ð svona :\nCS: 75.000 manns\nDOD: 8.000\nNS : 3.000\netc."
+        },
+        {
+            "user": "OBhave",
+            "user_id": "3496",
+            "date": "2004-09-16 08:53:33",
+            "id": "1717051",
+            "reply_to_id": "1716171",
+            "text": "Hljómar loðið… annaðhvort úrelt eða á bara við um þá sem nota Gamespy Arcade forritið"
+        },
+        {
+            "user": "OBhave",
+            "user_id": "3496",
+            "date": "2004-09-16 08:54:22",
+            "id": "1717052",
+            "reply_to_id": "1716171",
+            "text": "Og já btw, er ekki besta leiðin til að mæla svona bara að scanna einfaldlega með All-Seeing Eye ;)   þá sér maður alla servera og players worldwide"
+        },
+        {
+            "user": "OBhave",
+            "user_id": "3496",
+            "date": "2004-11-17 13:10:27",
+            "id": "1795560",
+            "reply_to_id": "1707776",
+            "text": "Ég fék mér hanna fyrir viku hún er ágæt en ég spila mest Cs á netinu Bráðum Cs sorce eða Hl2 mod á netinu Svona deathmatch mod það ætti að kom mjög fæjótlega það verður gaman?\nég Heiti pork í cs"
+        },
+        {
+            "user": "OBhave",
+            "user_id": "3496",
+            "date": "2004-11-17 17:10:04",
+            "id": "1795983",
+            "reply_to_id": "1795560",
+            "text": "DM mod fyrir HL2 segirðu? Heh væri cool ef það verður hægt að henda þungum og/eða oddhvössum hlutum í fólk með gravity gun :D"
+        }
+    ]
+}

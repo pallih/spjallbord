@@ -1,0 +1,117 @@
+{
+    "forum_title": "Vefsíðugerð",
+    "user": "NoFear",
+    "user_id": "44821",
+    "date": "2007-10-11 21:43:44",
+    "title": "Niðurhals tenglar",
+    "text": "Kvöldið.\nÉg var að pæla hvort eitthver gæti bent mér á script þannig að þú smellir bara á link og það kemur upp gluggi sem spyr þig hvort þú viljir sækja skránna, hef verið að reyna þetta, en skráin birtist bara. sæki hana tæknilega ekki.\nannað.\nHvort þið vissum um script sem er þannig, þú ert sendur á síðu og auto byrjaru á sækja, eða glugginn kemur upp og spyr þig hvort þú viljir sækja.",
+    "url": "https://www.hugi.is/vefsidugerd/korkar/548355/nidurhals-tenglar/",
+    "url_id": "548355",
+    "id": "5303422",
+    "replies": [
+        {
+            "user": "NoFear",
+            "user_id": "44821",
+            "date": "2007-10-12 00:21:46",
+            "id": "5303771",
+            "reply_to_id": "5303422",
+            "text": "prufaðu google annars kann ég ekkert á html-a"
+        },
+        {
+            "user": "NoFear",
+            "user_id": "44821",
+            "date": "2007-10-12 06:49:00",
+            "id": "5303963",
+            "reply_to_id": "5303771",
+            "text": "Ég var nú búin að prófa google,, erfitt að útskýra þetta.\nAnnars, var ég að pæla með PHP en ekki html"
+        },
+        {
+            "user": "frantic89",
+            "user_id": "6497",
+            "date": "2007-10-12 12:13:23",
+            "id": "5304212",
+            "reply_to_id": "5303963",
+            "text": "Ok en það er alltaf gaman að læra hver er munur PHP or html?"
+        },
+        {
+            "user": "frantic89",
+            "user_id": "6497",
+            "date": "2007-10-12 12:35:19",
+            "id": "5304251",
+            "reply_to_id": "5304212",
+            "text": "http://www.sharpened.net/helpcenter/answer.php?75"
+        },
+        {
+            "user": "frantic89",
+            "user_id": "6497",
+            "date": "2007-10-12 12:34:45",
+            "id": "5304250",
+            "reply_to_id": "5303963",
+            "text": "Php er frekar gagnslaust án html, en það er alveg möguleiki, bara mjög heimskulegur möguleiki."
+        },
+        {
+            "user": "Whoi",
+            "user_id": "26863",
+            "date": "2007-10-13 15:56:26",
+            "id": "5306953",
+            "reply_to_id": "5303422",
+            "text": "<?php\nfunction dl_file($file){\n    //First, see if the file exists\n    if (!is_file($file)) { die(\"<b>404 File not found!</b>\"); }\n    //Gather relevent info about file\n    $len = filesize($file);\n    $filename = basename($file);\n    $file_extension = strtolower(substr(strrchr($filename,\".\"),1));\n    //This will set the Content-Type to the appropriate setting for the file\n    switch( $file_extension ) {\n          case \"pdf\": $ctype=\"application/pdf\"; break;\n      case \"exe\": $ctype=\"application/octet-stream\"; break;\n      case \"zip\": $ctype=\"application/zip\"; break;\n      case \"doc\": $ctype=\"application/msword\"; break;\n      case \"xls\": $ctype=\"application/vnd.ms-excel\"; break;\n      case \"ppt\": $ctype=\"application/vnd.ms-powerpoint\"; break;\n      case \"gif\": $ctype=\"image/gif\"; break;\n      case \"png\": $ctype=\"image/png\"; break;\n      case \"jpeg\":\n      case \"jpg\": $ctype=\"image/jpg\"; break;\n      case \"mp3\": $ctype=\"audio/mpeg\"; break;\n      case \"wav\": $ctype=\"audio/x-wav\"; break;\n      case \"mpeg\":\n      case \"mpg\":\n      case \"mpe\": $ctype=\"video/mpeg\"; break;\n      case \"mov\": $ctype=\"video/quicktime\"; break;\n      case \"avi\": $ctype=\"video/x-msvideo\"; break;\n      //The following are for extensions that shouldn't be downloaded (sensitive stuff, like php files)\n      case \"php\":\n      case \"htm\":\n      case \"html\":\n      case \"txt\": die(\"<b>Cannot be used for \". $file_extension .\" files!</b>\"); break;\n      default: $ctype=\"application/force-download\";\n    }\n    //Begin writing headers\n    header(\"Pragma: public\");\n    header(\"Expires: 0\");\n    header(\"Cache-Control: must-revalidate, post-check=0, pre-check=0\");\n    header(\"Cache-Control: public\");\n    header(\"Content-Description: File Transfer\");\n   \n    //Use the switch-generated Content-Type\n    header(\"Content-Type: $ctype\");\n    //Force the download\n    $header=\"Content-Disposition: attachment; filename=\".$filename.\";\";\n    header($header );\n    header(\"Content-Transfer-Encoding: binary\");\n    header(\"Content-Length: \".$len);\n    @readfile($file);\n    exit;\n}\n?>\nNotar þetta til að þvinga firefox(eða ie) til að downloada skránum, ekki skoða hana."
+        },
+        {
+            "user": "NoFear",
+            "user_id": "44821",
+            "date": "2007-10-13 18:50:56",
+            "id": "5307454",
+            "reply_to_id": "5306953",
+            "text": "Gæturu sagt mér hvar ég vel hvaða fæl hún á að hlaða inn?\nÉg er ekki besti PHP maðurinn :/"
+        },
+        {
+            "user": "Whoi",
+            "user_id": "26863",
+            "date": "2007-10-14 04:50:40",
+            "id": "5308519",
+            "reply_to_id": "5307454",
+            "text": "Þetta er nú bara function:\n<?php dl_file('D:\\\\skra.mp3');?>\nAuðvitað þarftu að hafa fyrri kóðann með í dæminu ;)"
+        },
+        {
+            "user": "Stefanb27",
+            "user_id": "70173",
+            "date": "2007-11-02 08:59:20",
+            "id": "5357920",
+            "reply_to_id": "5308519",
+            "text": "í html er nú bara gert: <a href=“slodádl”>skrifar heitir hér\"</a"
+        },
+        {
+            "user": "intenz",
+            "user_id": "127",
+            "date": "2007-11-02 11:00:47",
+            "id": "5358089",
+            "reply_to_id": "5357920",
+            "text": "Þú misskilur."
+        },
+        {
+            "user": "halldor89",
+            "user_id": "28057",
+            "date": "2007-11-02 15:09:01",
+            "id": "5358650",
+            "reply_to_id": "5357920",
+            "text": "Það er verið að tala um að þvinga vafrann til að hala skránni niður.\nÞannig að þó þetta sé eitthvað sem vafrinn myndi venjulega opna sjálfur, eins og html síða eða ljósmynd. Þá lætur hann þig vista hana á harða diskinn á stað sem þú skilgreinir. Skilurðu? Svona eins og ef þú myndir hægrismella og velja ‘Save as’."
+        },
+        {
+            "user": "Stefanb27",
+            "user_id": "70173",
+            "date": "2007-11-02 16:15:39",
+            "id": "5358794",
+            "reply_to_id": "5358650",
+            "text": "Ahh ég fatta :P"
+        },
+        {
+            "user": "NoFear",
+            "user_id": "44821",
+            "date": "2007-11-09 16:46:01",
+            "id": "5378323",
+            "reply_to_id": "5358650",
+            "text": "Þokkalega góð lýsing marr :D"
+        }
+    ]
+}

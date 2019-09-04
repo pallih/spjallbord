@@ -1,0 +1,1709 @@
+{
+    "forum_title": "Bílar",
+    "user": "ih8",
+    "user_id": "13956",
+    "date": "2002-05-05 00:17:48",
+    "title": "Stöðugleiki bíla",
+    "text": "Ég var að spá í stöðugleika bíla og ætla aðeins að reyna að skýra hann út frá beinni eðlisfræði.\nHugsum okkur bíl með massa m, hæð í massamiðju H og bil(breidd) milli hjóla D. Sést vonandi á lélegu myndinni sem ég teiknaði í paint.\nTil að finna þann hraða sem bíllinn þolir án þess að velta þurfum við að skoða fyrst hvaða kraftar verka á bílinn:\n1. Fyrst ber að nefna þyngdarkraft mg sem vísar niður um massamiðju.\n2. Móti mg verka tveir kraftar sem koma frá veginum upp um sitthvora dekkjahlið, köllum þá N1 og N2.\n3. Síðan verkar á hlið miðsóknarkraftur(miðflóttaafl) mvv/r (vv þíðir v í 2.veldi) sem núningskraftar f1 og f2 veita með mótstöðu dekkja við veg.\nNú þegar allir kraftar eru ljósir þá getum við sundurliðað krafta á hlið(x-ás) og í gegnum(y-ás) og loks kraftvægi um massamiðju:\nFx:        f1 + f2 = mvv/r                  (i)\nFy:        N1 + N2 = mg                     (ii)\nKraftvægi: (f1 + f2)H + (N1 - N2)D/2 = 0    (iii)\nEf við leysum (ii) þ.a. N2 = mg - N1 og setjum inn í (iii) ásamt því að setja (i) inn í (iii) fæst:\n(mvv/r)H + (2N1 - mg) = 0 og\nN1 = mg/2 - vvmH/rD\nÞar sem N1 = 0 þegar dekkið snertir veginn ekki lengur þá eru mörkin við N1 = 0. Því fæst:\n0 = mg/2 - vvmH/rD og þá\nv = sqrt(grD/2H)     (sqrt = kvaðratrót)\nVið sjáum því að stöðugleikinn(hærri hámarkshraði fyrir veltu) er betri eftir því sem massamiðjan er lægri og bil(breidd) milli dekkja lengra.  Einnig sést að hann er ekki háður massa sem styttist út.\nBara svona smá eðlisfræðipæling um bíla.",
+    "url": "https://www.hugi.is/bilar/greinar/75692/stodugleiki-bila/",
+    "url_id": "75692",
+    "id": "533547",
+    "replies": [
+        {
+            "user": "gdawg",
+            "user_id": "3976",
+            "date": "2002-05-05 14:12:45",
+            "id": "533548",
+            "reply_to_id": "533547",
+            "text": "Eðlisfræði er skemmtileg :) Annars vantar alveg möguleikann á að skrifa jöfnur almennilega á netinu, það er mjög erfitt að rýna í á þennan hátt og ef menn hafa ekki aðgang að þessu í eðlisfræðibókunum sínum þá mæli ég með að þeir sem vilja skoða þetta betur skrifi þetta upp á blað til að átta sig betur á hlutunum."
+        },
+        {
+            "user": "ih8",
+            "user_id": "13956",
+            "date": "2002-05-05 14:22:51",
+            "id": "533644",
+            "reply_to_id": "533548",
+            "text": "Já það er erfitt að skýra þetta út þegar það er ekki hægt að skrifa jöfnurnar almennilega.\nSíðan vantar þætti eins og fjöðrun inn í þetta sem hefur jú mikið að segja er varðar stöðugleika og handling. Þetta sýnir kannski að jeppar sem búið er að hækka mikið er ekki mjög stöðugir í beygjum."
+        },
+        {
+            "user": "Partytruck",
+            "user_id": "16082",
+            "date": "2002-05-05 16:40:32",
+            "id": "533549",
+            "reply_to_id": "533548",
+            "text": "Það væri eflaust hægt að skrifa þetta með MathML"
+        },
+        {
+            "user": "Partytruck",
+            "user_id": "16082",
+            "date": "2002-05-05 16:42:20",
+            "id": "533550",
+            "reply_to_id": "533549",
+            "text": "http://www.w3.org/TR/REC-MathML/"
+        },
+        {
+            "user": "Partytruck",
+            "user_id": "16082",
+            "date": "2002-05-05 17:18:10",
+            "id": "533551",
+            "reply_to_id": "533550",
+            "text": "Smá innskot hérna af því að það er verið að tala um jeppa.  Mikið hækkaðir jeppar eru hækkaðir á tvo vegu: Boddýhækkun og undirvagnshækkun.\nBílar sem eru eingöngu hækkaðir á boddý eru ekki sérstaklega verri í beygjum á mikilli ferð en óbreyttur bíll þar sem megnið af þunga bílsins er enþá á sama stað þ.e.a.s. Vél, gírkassi, millikassi, eldsneytistankur og annað sem er fest í grindina.\nBílar sem eru meira hækkaðir á fjöðrun eru aftur á móti mun svagari en óbreyttir þar sem er búið að hækka allan bílinn frá hásingum og hjólum.\nLangaði bara að skjóta þessu inn áður en Snikkarinn fer að moka einhverjum athugasemdum inn yfir jeppa sem keyrðu á skódann hans."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-08 00:50:14",
+            "id": "533552",
+            "reply_to_id": "533551",
+            "text": "HAHA Miðsóknarkraftur og Miðflóttarafl er EKKI, EKKI það sama.\nÉg skal lýsa þessu fyrir þér. Ef að strákur heldur á bandi með stein í endan og sveiflar því í kringum sig þá er það Miðsóknarkraftur svo þegar að hann sleppir bandinu þá leitast steinnin við að fara sem beinustu leið í burtu og það er Miðflóttarafl.\npuntum basta."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-08 01:01:33",
+            "id": "533553",
+            "reply_to_id": "533552",
+            "text": "Partýtruck: það er nú bara svoleiðis að öll hækkun bíla hefur áhrif á miðflóttarafl.\nÞessvegna eru sportbílar lágir frá vegi og lágir frá botn uppí topp.\nJeppar eru drápstól og ætti að taka af öllum sem líta á þá sem stöðutákn eða reyna að réttlæta það fyrir sér hvað jeppinn sinn kostaði að þá hlýtur hann að “liggja” jafnvel í beygju. Sannleikurinn er jeppinn liggur mjög vel eftir beygju. “útí vegkanti á hliðinni”\nNefnum eitt dæmi með þessa jeppamenn. Ég tek upp byssu inní banka og miða henni á alla en hún er tóm. Víkingasveitin er kominn ég beittur ofbeldi settur í járn og í steininn og get fengið tveggja ára fangelsi. Hinsvegar get ég verið á jeppa og ógnað öllum með vítaverum akstri á drápstóli og ég verð í mestalagi ef ég næst sviptur í 6 mánuði."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-08 01:14:06",
+            "id": "533554",
+            "reply_to_id": "533553",
+            "text": "Þetta er nú líka bara stigahóruskapur því að öll formúlan er tekin uppúr bók og fullt að upplýsingum vantar. Ég efa það að sá sem að lætur svona útskýringar frá sér viti mikið um efnið, heldur hefur aflað þessara upplýsinga til þess að sinna, sinni græðgi (Stig). Eða að vera með sleikjuskap yfir hvað hann er klár og gleymir þar af leiðandi fullt af upplýsingum um liði til að leysa jöfnuna. T.d. kemur hvergi fram hvað “r” eigi að vera, en getum gert ráð fyrir því að það tákni radíus."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-08 01:26:32",
+            "id": "533555",
+            "reply_to_id": "533554",
+            "text": "Það vantar líka inní utanaðkomandi þætti t.d. veghalla, gerð vega því að grunnverð vega er 6 - 7 milljónir fyrir utan malbik. Malbik=parket miða við fermeter. Það sem að ég er að segja er að þú getur fengið mismunandi endingargóð eða gripmikil vatnshrindandi og dýr malbik. Stærð dekkja og hönnun bíls miða við vind. T.d. Sá þáttur sem kemur fram að bílar fjúka ekki af veginum heldur sogast, þetta virkar með veghalla, hönnun bíls, hraða, grip dekkja, fjöðrunarbúnaðar.  Vindurinn myndar sog hinumegin við bílinn og soga hann af."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-08 09:25:25",
+            "id": "533556",
+            "reply_to_id": "533555",
+            "text": "Fyrir mitt leiti þá er mér skítsama um einhverjar jöfnur. Ég gleymi þessu um leið, en á meðan ég finn fyrir árangri af góðri hönnun þá er ég glaður.\nOg fyrir stakka, þá þýðir ekki að vera að reikna óvissuþætti inn í jöfnur - “in theory” virkar ekki þannig og því er þetta síðasta komment frekar eins og þú hafir farið öfugu megin fram úr í morgun."
+        },
+        {
+            "user": "ih8",
+            "user_id": "13956",
+            "date": "2002-05-08 12:39:00",
+            "id": "533557",
+            "reply_to_id": "533554",
+            "text": "Are we grumpy to day or what?\nÉg skal viðurkenna það að ég kynnti mér efnið og vann greinina upp úr eðlisfræðibókum (fleirtala). Mæli með t.d. University Phisics eftir Harris Benson. Ekki get ég farið að búa til nýjar formúlur bara til að vera frumlegur sem segja svo tóma vitleysu.\nMér er svo skít sama um öll stig, segja þessi stig eitthvað annað en að maður hefur ekkert líf og hengur alla daga á huga eða er stjórnandi.\nHvað varðar míðsóknarkraft þá veldur hann því að hlutir haldast á hringhreyfingu en það er ekkert til sem heitir miðflóttaafl. Ég setti það bara inn svo fólk vissi hvað ég ætti við með að bíllinn leitaði út úr beygju því hann vill í eðli sínu halda hraðanum í eina átt, ekki í snúning. Það sem heldur bílnum í begjunni er núningskraftur dekkja við veg.\nTilgangur þess að ég sendi inn greinina var að sýna til hvers menn breikka og lækka bíla. Ég veit ekkert mjög mikið um eðlisfræði en ég veit þó eitt: eitthvað ógnar þess grein þér fyrst þú stekkur upp eins og óður hundur og fárast út í allt."
+        },
+        {
+            "user": "Moen",
+            "user_id": "17218",
+            "date": "2002-05-08 14:41:29",
+            "id": "533558",
+            "reply_to_id": "533557",
+            "text": "ég vil benta ykkur á að Eðlisfræðin er ekki óskeikul.\nSamkvæmt Eðlisfræðinni eiga húsflugur ekki að geta flogið vegna of mikillar þyngdar. En eins og við vitum flest þá fljúga þær og því virðast húsflugur ekkert vita af eðlisfræðinni.\nmoen"
+        },
+        {
+            "user": "JHG",
+            "user_id": "17371",
+            "date": "2002-05-08 17:13:34",
+            "id": "533559",
+            "reply_to_id": "533558",
+            "text": "Þarf ekki einhver að segja þeim frá því?  Þær eiga ekkert með að brjóta lögmál ;)\nJHG"
+        },
+        {
+            "user": "Partytruck",
+            "user_id": "16082",
+            "date": "2002-05-08 18:25:47",
+            "id": "533560",
+            "reply_to_id": "533559",
+            "text": "Grumpy ol' bastard bara mættur á svæðið.\nHvernig geturðu kallað jeppa “drápstól”, fólksbílar drepa líka og hafa eflaust drepið fleiri á Íslandi en jeppar.  Þessi skrif þín segja mér það að þú veist ekkert hvað þú ert að tala um og trúir því þá sjálfsagt að húsflugur geti ekki flogið.\nDæmi:\nLC 90 á 35“ dekkjum, vinsæll jeppi í dag.\nBíllinn er mjög lítð hækkaður, fær mun breiðari dekk og útstæðari felgur og ekkert er átt við fjöðrunarbúnað.\nNúna ættir þú að fara að prófa svona óbreyttan bíl og svo breyttan bíl og dæmdu svo sjálfur um hvorn er betra að keyra og reyndu að finna eitthvað sem gerir hann að óstöðugu ”drápstóli\". Það er nefnilega ekki nóg að troða hausnum ofaní einhverja bók og halda að maður viti allt, stundum þarf að reyna hlutina sjálfur og miða ekki alla jeppa við td. einhvern gamlann bronco haug með allt ónýtt í undirvagni."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-08 18:36:36",
+            "id": "533561",
+            "reply_to_id": "533560",
+            "text": "Ég hef prófað nokkra krúsera alveg upp í 38\". Mér finnst hann nú áberandi bestur standard, eða skástur. Ég er ekki mikið fyrir jeppa nema til að nota þá í ferðalög, ekki sem spíttkerrur."
+        },
+        {
+            "user": "ih8",
+            "user_id": "13956",
+            "date": "2002-05-08 23:37:59",
+            "id": "533562",
+            "reply_to_id": "533560",
+            "text": "Einhver sagði mér það að löggan kallaði LC 90 “Roll-On” því þeir væru alltaf að velta, en ég ætla ekki að selja það dýrara en ég stal því.\nÉg keyrði Nissan Patrol,´94 módel mynnir mig, fyrir og eftir 35\" breytingu og hann varð mikið stöðugri við breytinguna því hann breikkaði og þyngdarpunkturinn lækkaði. Því eru ekki allir jeppar verri eftir breytingu.\nÉg efa að eðlisfræðin geti ekki skýrt hvernig vissar flugur fljúga því flug byggist á þrýstimun fyrir ofan og neðan væng sökum mismunar á vegalengd sem loftið þarf að fara. Stærri flugur hafa stærri vængi og yfirvinnur þyngdina en þær hreyfa vængina aðeins til að bera sig áfram.\nEr annars rétt að tala um flug og flugur á huga.is/bílar…:)"
+        },
+        {
+            "user": "Partytruck",
+            "user_id": "16082",
+            "date": "2002-05-09 15:42:16",
+            "id": "533563",
+            "reply_to_id": "533562",
+            "text": "Ég veit ekki hvaða mörgæs kom með þessa kenningu en ég veit það að ég er löngu hættur að hlusta á löggur, nema Þær sem ég þekki vel og þá tek ég allt sem þær segja um bíla með fyrirvara. Að ganga í lögguna breytir hugarfari 99% einstaklinga og verða flestir þeirra besservisserar í sambandi við bíla á eingöngu því sem þeir kynnast í gegnum starfið. Ég var að vinna innan um löggur í 4 ár og allt saman tengt bílum og VEIT það að ég hef RÉTT fyrir mér.\nÞað er líka hægt að eyðileggja jeppa með því að breyta þeim á “einu kvöldi” eins og menn vilja oft monta sig af með því að boddýhækka um 100mm og rífa balansstengur undan og setja svo óbalanceruð 7 ára gömul gatslitin dekk undir sem hafa kanski staðið úti í garði í 2 ár.\nÞetta er mjög leiðinlegt sem að stakka gerir hérna á síðunni og það er að stimpla alla jeppa sem “drápstól” og hafa ekkert fyrir sér í því.  En ég get verið sammála honum í einu og það er það að það þarf að fara að fækka þessum “stöðutáknum” í umferðinni og koma gömlu köllunum af Landcruisernum og yfir á 700 bimma eða benz.\nGAMLIR KALLAR Á “STÖÐUTÁKNS-JEPPUM” DREPA EKKI VIÐ SEM NOTUM ÞÁ TIL AÐ FERÐAST Á."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-09 22:48:13",
+            "id": "533564",
+            "reply_to_id": "533563",
+            "text": "Þetta er sú argasta heimska sem ég hef heyrt. Þú heldur því líkast til fram að jeppar hafi álíka hemlunarvegalengd og fólksbílar. Já já trailerar eru líka mjög stöðugir en ef að eitthvað bregður útá þá eru þetta erfið tæki að stjórna.\nMér þætti gaman að sjá hvernig þú myndir bregðast við ef að þú værir á cruiser á 38 á 110 og það myndi hvellsprynga hjá þér vinstra framhjólið.\nMeðhöndlun fólksbíls er mun betri en á jeppa.\nÞað sem hefur áhrif á hemlunarvegalengd er þyngd, bremsur, dekk og fjöðrunarkerfi.\nOg ef þú værir á fólksbíl á 15“ 205 dekkjum þá hefðirðu alla þessa þætti yfir jeppa á 38”.\nÞetta er bara dæmi.\nMiðflóttarafl er til það er sá kraftur sem togar í massamiðjubíls í beygjum og vill viðhalda eðli sínu.\nÉg hef séð landcruiser 100 taka nýjubrúnna í mjódd á leið í Breiðholt og mér persónulega hefði ekki liðið vel. Þar sem að húsið á þessum bíl ætlaði nánast af bílnum.\nÞegar að upphækkaðir bílar eru að taka beygjur þá kemur sá þáttur inn að miðsóknarkraftur minnkar. Sem leiðir að því að miðflóttarafl stækkar og því mun meiri líkur á að bíllinn velti. Til þess að miðflóttarafl fái virkni er hæð bíls, hraði, beygja. Svo koma inn þættir eins og dekk, lögun bíls og fjöðrun.\nOg þið skulið ekki reyna að segja mér það að jeppar séu eitthver farartæki til að geta stundað ofsaakstur á götum. Þetta er mesta argasta vitleysa sem ég hef heyrt. Þá styð ég það að trailerar og vörubílar geri þetta líka og vil ég þá benda á að þeir eru mjög stöðugir á götunni útaf því hvað þyngdarpunktur bílsins er lár og hvað þeir eru á mörgum dekkjum. 10 hjóla kranabíll hlýtur að vera afspyrnu gott tæki til að taka beygjur á. Og eiginþyngd hans er 23 tonn þannig að möguleikarnir á að hann velti í beygju eru sáralitlir. Aholes."
+        },
+        {
+            "user": "JHG",
+            "user_id": "17371",
+            "date": "2002-05-09 22:54:16",
+            "id": "533565",
+            "reply_to_id": "533564",
+            "text": "Ertu í heilögu stríði gegn jeppum?  Þú (og sumir hér) getur ekki skrifað texta án þess að í honum komi áróður á móti jeppum.\nHvernig væri að leifa okkur að hafa okkar sport í friði?\nJHG\nP.s. það á ekki að stunda ofsaakstur á götunum, hvorki á fólksbíl né jeppa!"
+        },
+        {
+            "user": "Mal3",
+            "user_id": "5739",
+            "date": "2002-05-10 00:29:34",
+            "id": "533566",
+            "reply_to_id": "533565",
+            "text": "Mig langar til að svara því sem JHG skrifar með að lýsa aðeins mínum skoðunum.\nEr mér illa við jeppa? Já, í rauninni er ég mjög pirraður á jeppum. Ástæðan kemur hinsvegar jeppunum sjálfum í rauninni lítið við heldur tveimur aðalþáttum.\nAnnarsvegar sá þáttur að jeppar eru fyrir marga (ekki alla!) malbikskrúsandi stöðutákn sem er asnaleg notkun á slíku tæki (mín skoðun) þótt að fólk megi að sjálfsögðu eiga jeppa til þess eins að skjótast í Hagkaup og taka rúntinn. Leiðinleg hliðarverkun er sú að mikill hluti af dýrari bílum á götunum eru jeppar sem setur mark sitt á hinn íslenska bílamarkað, sportbíladellukalli eins og mér til mikils ama.\nHinn þátturinn er sá að það fer verulega í taugarnar á mér að sjá jeppaökumenn sem aka eins og þeir séu ódrepandi og almáttugir. Enn og aftur er þetta aðeins hluti af jeppamönnum. Þetta fer sérstaklega í mig fyrir þá ástæðu að árekstur jeppa við fólksbíl er að öllum líkindum mun alvarlegri fyrir þá sem í fólksbílnum eru en ef annar fólksbíll myndi rekast á hann.\nÉg ætla alls ekki að gera lítið þar með úr hættunni sem stafar af þeim hluta ökumanna sem hagar sér eins og bjánar á sportbílum eða bara fólksbílum! Allir bíleigendur þurfa að gera sér grein fyrir þeirri miklu ábyrgð sem þeir bera en kannski þurfa sumir að átta sig á henni betur en aðrir og kannski má beina þeim orðum sérstaklega til ökumanna jeppa og sportbíla svo dæmi séu nefnd.\nAð lokum vill ég segja við þá jeppaeigendur sem nota jeppana sín eins og við á með slíkt tæki og stunda sport sitt af öryggi og ábyrgð: Respect! Við erum ábyrgir bíladellukalar, bara með mismunandi áherslum."
+        },
+        {
+            "user": "Mal3",
+            "user_id": "5739",
+            "date": "2002-05-10 00:16:04",
+            "id": "533567",
+            "reply_to_id": "533564",
+            "text": "Það er allt gott og blessað að geta fært rök fyrir máli sínu en eru þeir sem annaðhvort eru ekki sammála eða hafa ekki meðtekið rökin sjálfkrafa “heimskir” og “aholes”?\nStakka: ég held að fólk myndi öllu frekar leggja við hlustir ef þú myndir leggja mál þitt fram án dónaskapar. Það nenna fæstir að lesa skrif manns sem þarf að “krydda” mál sitt með fúkyrðum í garð þeirra sem verið er að svara eða lesenda."
+        },
+        {
+            "user": "Partytruck",
+            "user_id": "16082",
+            "date": "2002-05-10 00:36:09",
+            "id": "533568",
+            "reply_to_id": "533567",
+            "text": "Svo er eitt að lesa og annað að reyna.  Það er ýmislegt til í því sem þú hefur verið að skrifa hérna en það réttlætir ekki að kalla jeppa “drápstól”.  Það á enginn að stunda ofsaakstur á götum bæjarins hvort sem hann er á fólksbíl á 205x60x15 eða á jeppa á 38x15,5x15.\nMokaðu hausnum á þér uppúr bókunum og reyndu þetta sjálfur, það þarf óhemju tilburði og mikinn hraða til að velta jeppa þó svo að fólksbíll þurfi meira."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-10 03:24:58",
+            "id": "533569",
+            "reply_to_id": "533568",
+            "text": "Það er ekkert sport að vera á jeppa og nota hann svo bara á malbik. Jeppar eiga að vera notaðir utanvegar og það nær eingöngu. Ef fólk er að velja sér bíl þá væri það viturlegast að velja bíl eftir því í hvað það ætli að nota hann í. Ef fólk fer ekkert af malbiki þá ætti það að kjósa fólksbíl en ef að fólk er að leika sér á þessu og nota þá sem sport. Sem mikill minnihluti jeppaeigenda gerir. Þess má geta og ég skil þau vel að vilja ekki rústa nýja 8 milljónakróna jeppanum sínum sem Glitnir á í raun.\nÞað er sorglegt að fólk skuli vera að borga fleiri milljónir fyrir eitthvað sem það kemur lítið til með að nota og allt sem fer í þetta er kostnaður. Það er ekki eins og meginhluti jeppamanna starfi að útgerð á þessum tækjum og hljóti fé í staðinn. Nei þvert á móti þetta er hérna blússandi um göturnar eyðileggjandi malbikið. Leikandi sér í brekkum innanbæjar og tæta grasið upp. Það er fátt ljótara og sorglegra en að einhver jeppi sem hefur fundið hól innanbæjar og ákveðið að fara í jeppaleik, svo sjást eftir hann hjólför í brekkunni. Þessi jeppamaður er sorglegur og ætti helst að gera sér þann greiða að losa sig við bílprófið og taka strætó. Því að hvað er sportið við það að stunda jeppamennsku innanbæjar. Og hvaða virðingu hlýtur sá jeppamaður sem ÞORIR ekki að nota hann á fjöllum í þeim aðstæðum þar sem að aðrir bílar komast ekki.\nMér finnst það fáránlegt að kaupa svona “jeppa” útá Lúxusinn einn saman og borga fyrir það morðfjár. Nær væri frekar að fá sér lúxusbíl eða fallegan sportara fyrir þennan pening."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-10 03:34:27",
+            "id": "533570",
+            "reply_to_id": "533569",
+            "text": "Partytruck:\nJeppi getur aldrei náð sama eðli fólksbíls með stöðugleika á malbiki þar sem að jeppinn er gerður fyrir akstur utanvega. Þetta er alveg eins og að láta fólksbíl á fjöll og reyna að nota hann sem jeppa.\nWillys er jeppi, allt hitt er eftirlíking."
+        },
+        {
+            "user": "JHG",
+            "user_id": "17371",
+            "date": "2002-05-10 09:21:04",
+            "id": "533571",
+            "reply_to_id": "533570",
+            "text": "Yfirleitt gildir það að jeppi er verri í beygjum en fólksbíll vegna staðsetningu þyngdarpunkts.  Þetta er samt ekki algillt.  Trukkurinn minn er mjög breiður (2,30) og er merkilega góður í beygjum (samt ekkert hjá Transaminum).\nÓdýr japanskur fólksbíll er í flestum tilfellum (allavegana þeir sem ég hef prófað) verri í beygjum.\nÉg held að flestir þeir jeppamenn sem eru hér á huga séu alvöru jeppamenn.  Partytruck er á gamalli Toyotu og ég á gömlum Blazer (hvorugur kostar 8 millur).  Við vinnum í bílunum okkar sjálfir og notum jeppana sem jeppa.  Það er ekki þar með sagt að við notum þá eingöngu sem jeppa enda væri það fáránlegt.  Ég tími ekki að nota Transaminn yfir háveturinn og nota þá Blazerinn dagsdaglega.\nOg nei, Glitnir (eða aðrir lánadrottnar) eiga ekki krónu í mínum bílum og hafa aldrei átt!\nÞað væri ekki viturlegt að banna jeppa af götunum og skylda menn til að nota þá eingöngu á fjöllum.  Með því myndum við koma í veg fyrir alla nýliðun og þeir einir sem hefðu efni á því að eiga jeppa og fólksbíl keyptu sér jeppa.  Það er hætt við að sportið myndi fljótt leggjast af eða yrði aðeins á færi pabbadrengja eða þeirra sem búnir eru með sitt nám.  Ég hefði örugglega ekki tengst þessu sporti nema af því að ég smitaðist sem unglingur og byrjaði að stunda fjallaferðir/ófærðarferðir mjög ungur.\nÞað sem mér finnst einkennilegt er að það er næstum því sama hvað menn ræða um hér á huga, alltaf þarf að dissa jeppa, og við erum alltaf að ræða sama hlutinn.  Það er greinilegt að menn eru ekki sammála, það er búið að ræða þetta endalaust og hefur ekkert upp á sig að halda því áfram.\nJeppi er ekki eingöngu ætlaður til aksturs utan vega, jeppi er samgöngutæki sem hefur sannað sig við erfiðar aðstæður.  Þetta er eins og að segja að BMW sem kemst á 250 km/klst sé hraðbrautarbíll og eigi þar með eingöngu að vera notaður á hraðbrautum.\nHvað málfræðina varðar (ég hélt að við værum að tala um bíla?) þá er það málvenja á Íslandi að kalla þessa tegund farartækja jeppa.  Auðvitað var fyrsti jeppinn Jeep, og var kallaður jeppi.  Svo komu fleiri tæki sem höfðu sömu eiginleika (t.d. Land Rover) og menn kölluðu jeppa.  Þessi “villa” sem varð þarna til er nú málvenja og þar af leiðandi kominn inn í íslenskt mál.  Því telst þetta vera rétt málnotkun.\nJHG\nP.s. Ekki er ég að dissa menn þó ég sé ekki sammála þeim, t.d. um gagnsemi tveggja púströra á 4cyl Lancer :D"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-10 09:44:07",
+            "id": "533572",
+            "reply_to_id": "533571",
+            "text": "LOL :)"
+        },
+        {
+            "user": "JHG",
+            "user_id": "17371",
+            "date": "2002-05-10 10:18:34",
+            "id": "533573",
+            "reply_to_id": "533571",
+            "text": "Svona fyrir forvitnis sakir þá væri ég til í að fá skýringar á notagildi þessa púströrs á Lancernum. En þar fyrir utan, respect til alvöru jeppamann (kannski verð ég einn af þeim, myndi þá fá mér gamlan Benz Gelandewagen) og disrespect til hinna sem vilja bara sitja ofar en aðrir í umferðinni."
+        },
+        {
+            "user": "JHG",
+            "user_id": "17371",
+            "date": "2002-05-10 11:31:52",
+            "id": "533574",
+            "reply_to_id": "533573",
+            "text": "Ég held að það sé stöðutákn ;)\nSvo þurfum við öll hin að hlusta á fretið í bílnum (hljóðmengun).\nJHG"
+        },
+        {
+            "user": "JHG",
+            "user_id": "17371",
+            "date": "2002-05-10 11:43:09",
+            "id": "533575",
+            "reply_to_id": "533574",
+            "text": "Ég vona að stakka taki þetta nú ekki ílla, en hann má nú eiga von á smá skotum miðað við textann sem hann skrifar."
+        },
+        {
+            "user": "JHG",
+            "user_id": "17371",
+            "date": "2002-05-10 11:52:44",
+            "id": "533576",
+            "reply_to_id": "533575",
+            "text": "Ég bara stóðst ekki mátið :)\nJHG"
+        },
+        {
+            "user": "Mal3",
+            "user_id": "5739",
+            "date": "2002-05-10 11:44:27",
+            "id": "533577",
+            "reply_to_id": "533569",
+            "text": "Hvað hafa margir fólksbílaeigendur notað grasbala til að leggja á einhverntíman innanbæjar? Örugglega ófáir og það eru mun meiri líkur á því að fólksbíllinn skilji eftir sig slóð en jeppi enda er þyngd jeppans dreyft á mun stærri dekk, a.m.k. ef um breyttan jeppa er að ræða.\nHvað varðar það að spæna upp göturnar á stórum jeppm þá er rétt að þeir gera meira af því pr. bíl en fólksbílar en þeir borga líka meiri skatta af tækjunum sínum."
+        },
+        {
+            "user": "JHG",
+            "user_id": "17371",
+            "date": "2002-05-10 11:58:35",
+            "id": "533578",
+            "reply_to_id": "533577",
+            "text": "Ég ætla nú ekki einu sinni að byrja á nagladekkjaumræðunni, ég verð svoooo reiður:)\nMér datt í hug í gær þar sem við stóðum fyrir utan stærsta reðurtákn landsins, hve margir keyptu sér bíla til að upphefja sjálfa sig. Það eru örugglega nokkuð margir, en gallinn er bara sá að menn sem eru enthusiasts og menn sem eru með reðuröfund geta ekið um á eins bílum án þess að við vitum um hvor sé hvað."
+        },
+        {
+            "user": "JHG",
+            "user_id": "17371",
+            "date": "2002-05-10 12:49:07",
+            "id": "533579",
+            "reply_to_id": "533578",
+            "text": "Það má alveg eins segja að þeir sem hefja keyra á flottum bílum séu að kaupa sér reðurtákn.  Getur ekki BMW alveg eins verið reðurtákn eins og upphækkaður Patról?\nMargir pirra sig á jeppum, alveg eins og margir pirra sig á sportbílum.  Ég verð t.d. oft fyrir áreiti í umferðinni (að ég tel) vegna þess að ég keyri um á sportbíl.\nFólk telur líklegast að ég telji mig vera eitthvað merkilegri en hinir af því að ég keyri ekki um á Toyotu.\nÞað að keyra um á BMW bendir til að þú sættir þig ekki við normið, þú sættir þig ekki við að keyra um á Toyotu og ert þar með að setja þig á háan stall. Þessvegna þola aðrir bílstjóra þig illa.\nÉg tek fram að ég er ekki á þessari skoðun en það má færa sömu rök fyrir þessu og með jeppana.\nÖfundarmenn kalla þetta svo reðurtákn, gráa fiðringinn og ég veit ekki hvað.\nMálið er að við erum áhugamenn um bíla/jeppa.  Við fáum eitthvað út úr því að keyra góðan bíl/jeppa og borgum fyrir það.  Við tékkum örugglega oftar á olíunni og bónum bílana okkar oftar en venjulegur ökumaður og sættum okkur ekki við að vita ekki upp á hár hvernig bíllinn okkar virkar.\nÞetta er náttúrulega geðveiki en ég held að við séum allir haldnir þessum sjúkdóm (annars værum við ekki hér að rökræða um þetta).\nEf menn vilja kalla það reðurtákn þá mega þeir það en ég áskil mér á móti rétt til að kalla þá öfundsjúka.\nJHG"
+        },
+        {
+            "user": "Mal3",
+            "user_id": "5739",
+            "date": "2002-05-10 12:56:09",
+            "id": "533580",
+            "reply_to_id": "533579",
+            "text": "Tjah… ég vill keyra góða bíla og Jói út í bæ vill horfa á enska boltann…\nÉg held að “alvöru” bíladellukallar kaupi bíl fyrir sjálfan sig en ekki aðra. Þeir sem kaupa bíla til að upphefja sig koma mér bara í rauninni ekki við. Bíladellufélagar eru hinsvegar fólk sem er oft gaman að skeggræða við."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-10 13:06:04",
+            "id": "533581",
+            "reply_to_id": "533579",
+            "text": "Það er nákvæmlega það sem ég átti við með þessum texta “Mér datt í hug í gær þar sem við stóðum fyrir utan stærsta reðurtákn landsins, hve margir keyptu sér bíla til að upphefja sjálfa sig. Það eru örugglega nokkuð margir, en gallinn er bara sá að menn sem eru enthusiasts og menn sem eru með reðuröfund geta ekið um á eins bílum án þess að við vitum um hvor sé hvað.” Maður veit ekki hvort maðurinn er enthusiast eða með reðuröfund í flestum tilfellum….. Og þá átti ég ekki bara við jeppa heldur alla bíla sem menn kaupa mögulega til að upphefja sjálfan sig.\nÞetta er bara mjög algengt held ég. Þetta er sennilega mest áberandi í Grandlooser jeppum og pussujálkum frá Benz."
+        },
+        {
+            "user": "Moen",
+            "user_id": "17218",
+            "date": "2002-05-10 13:13:20",
+            "id": "533582",
+            "reply_to_id": "533579",
+            "text": "Sælir ég ek um á nýjum BMW og ef þið viljið kalla BMW-inn minn reðurtákn þá megið þið það alveg. Ég hinsvegar elska reðurtáknið mitt. Ég smyr og þríf hann reglulega alveg eins og hann væri sjálfur félaginn.\nAnnars fór ég á námskeið B&L og ég varð alveg hissa að ég skildi ekki velta bílnum þegar ég  var að undirstýra honum. Ég er nokkuð viss um að til að velta bíl eins og BMW þá þurfi talsvert meira en ég myndi nokkurntíma þora að gera. Bæ the way þá prófaði ég minn bíl á þurru málbiki og sama þar ekki valt hann.\np.s. Ég fór eitt sinn í tjónaskoðun sjóvá og þar voru nokkrir smájeppar sem allir höfðu farið smá hring."
+        },
+        {
+            "user": "JHG",
+            "user_id": "17371",
+            "date": "2002-05-10 13:22:49",
+            "id": "533587",
+            "reply_to_id": "533582",
+            "text": "Svo velta fólksbílar líka :(\nAuðvitað geri ég ekki sama stunt á Blazernum og Transaminum, það kallast almenn skynsemi (sem maður á kannski ekki alltaf nóg af :)\nJHG"
+        },
+        {
+            "user": "Mal3",
+            "user_id": "5739",
+            "date": "2002-05-10 13:49:46",
+            "id": "533588",
+            "reply_to_id": "533587",
+            "text": "Common sense isn't ;)"
+        },
+        {
+            "user": "Moen",
+            "user_id": "17218",
+            "date": "2002-05-10 15:34:54",
+            "id": "533589",
+            "reply_to_id": "533588",
+            "text": "Jæja… nú er bimminn spyrnufær, búið að skipta um spyrnugúmmí. Og vil ég af því tilefni láta vita af því að þjónustan hjá Tækniþjónusta bifreiða hefur enn einu sinni verið frábær.\nEinni vil ég mæla með að menn láti Dyno mæla hjá sér bílana, það kostar ekki nema 6 þús og finnst mér það nokkuð sanngjarnt."
+        },
+        {
+            "user": "Moen",
+            "user_id": "17218",
+            "date": "2002-05-10 15:36:37",
+            "id": "533590",
+            "reply_to_id": "533589",
+            "text": "Hvað er að Dynomæla?"
+        },
+        {
+            "user": "Partytruck",
+            "user_id": "16082",
+            "date": "2002-05-10 16:02:33",
+            "id": "533591",
+            "reply_to_id": "533590",
+            "text": "Þá á ég við hestaflamælingu á þar til gerðum bekk. Þetta kostar 6 þús og segir manni ýmislegt um bílana. Þó held ég að flestir verði fyrir miklum vonbrigðum þar sem að MJÖG fáir bílar eru að ná þeim tölum sem framleiðendur gefa upp, nema þeir séu nýjir.\nÍ því sambandi má nefna að Honda Vtec fari úr 160 hestöflum í raunveruleg 136 hestöfl og M5 t.d. úr 315 í 270.\nEf menn ætla sér eitthvað fyrir með breytingar á vél, þá er þetta náttúrulega eini mælikvarðinn, þá er þetta gert á undan og á eftir. Kostar talsvert meira."
+        },
+        {
+            "user": "Partytruck",
+            "user_id": "16082",
+            "date": "2002-05-10 17:15:13",
+            "id": "533592",
+            "reply_to_id": "533591",
+            "text": "Það er gott að umræðan er að komast á skynsamlegra plan og dónaskapurinn að minka.  Mig langar samt að minnast aftur á jeppana og þá af eigin raun.\nÉg er búinn að eiga 8 jeppa um ævina og hef aldrei velt einum þeirra. Heppinn? Nei þegar ég fer útaf veginum í þeim tilgangi að leika mér á jeppanum þá má segja það að öll almenn skynsemi sé skilin eftir í kantinum og set ég vanalega jeppana mína í það mikinn hliðarhalla að flestir af þeim sem ekki hafa stundað jeppasport myndu svitna og hjartað tæki aukaslag. Einn reyndi að opna hurðina og hoppa út.  En ALDREI velt.  Og það sem ég hef verið að reyna að segja hérna er það að þó svo að jeppi sé valtari en fólksbíll (sem segir sig sjálft) er hann ekki það valtur að þú þurfir að hafa áhyggjur og passa þig í beygjum.\nHvernig væri að fá skilgreiningu á bíltegundinni “Grandlooser”. Allir sem hafa sagt þetta við mig vita ekkert um hvað er átt en finnst þetta bara fyndið.\nGrand Cherokee eða Landcruiser……..Hvort er það?"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-10 21:46:38",
+            "id": "533593",
+            "reply_to_id": "533592",
+            "text": "Grandlooser=Landcruiser… rímar fullkomlega.\nGrandlooser með skuldahala er Landcruiser með fellihýsi;)"
+        },
+        {
+            "user": "gdawg",
+            "user_id": "3976",
+            "date": "2002-05-10 18:48:28",
+            "id": "533594",
+            "reply_to_id": "533591",
+            "text": "Eitt sem vert er að nefna varðandi dyno mælingar er að þær eru ekki endilega mjög nákvæmar. Það eru mjög margir þættir sem spila þar inní og til dæmis úti í UK þar sem er dynobekkur á öðru hverju verkstæði eru menn að fá mjög misjafnar tölur frá hinum og þessum bekkjum, ég heyrði af manni sem fékk venjulega um 90 hö út í hjól á 1430cc mini fór svo annað og fékk 75 að mig minnir.\nEini verulega góði mælikvarðinn er að halda dyno shoot out, þar sem allir mæta sama daginn og þá er hægt að prófa bílana við nokkurn veginn sömu aðstæður."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-10 21:25:33",
+            "id": "533595",
+            "reply_to_id": "533594",
+            "text": "Það sem ég hef verið að segja er að jeppar eiga auðveldara með að velta og mun standa við það. Hinsvegar var ég búinn að minnast á lögun bíls og þar kemur inní hvað hann er breiður. Ég hef ekkert á móti jeppum nema þá hvað þeir eru ógeðslega margir og mikið af þessum 38\" sífellt á götunum og þá eru konurnar mjög oft á þeim. Og eru alltaf fyrir.\nVarðandi grasbalana þá minntist ég á þetta útaf því að ég er búinn að sjá þónokkuð af þessum hjólförum og þau eru of breið til að vera eftir fólksbíl.\nVarðandi willys þá vildi ég bara athuga hvort að ég gæti espað menn upp. En þess má geta að landcruiser væri ekki það sem hann er í dag ef að fyrsti bíllinn hefði ekki verið byggður á willys grind. Landrover var einnig hannaður útfrá willys en þeir voru hinsvegar ekki eins grófir og Toyota.\nÉg hef tekið í landcruiser 90 og finnst hann frekar vélarvana einnig hrár að innan. Landcruiser 90 heitir víst 4runner í bandaríkjunum. Mussoinn er líka eitt það hræðilegasta sem ég veit um þeir eru vélarvana og einnig ótrúlegt veghljóð. Það væri mun skárra ef að þeir sem eru að fá sér jeppa og keyra nær eingöngu innanbæjar fái sér M-CLASS.\nÉg held því samt fram að allir fólksbílar séu betri en jeppar á malbiki. Þið gætuð fundið undantekningar en ég gæti komið með 3 jeppa á móti einum fólksbíl varðandi veltu."
+        },
+        {
+            "user": "Partytruck",
+            "user_id": "16082",
+            "date": "2002-05-10 22:39:28",
+            "id": "533596",
+            "reply_to_id": "533595",
+            "text": "“Það sem ég hef verið að segja er að jeppar eiga auðveldara með að velta og mun standa við það.”  Það hefur enginn efast um það.\nLandcruiser FJ20 var ekki á willy's grind og ekki veit ég hvaðan þú hefur þær upplýsingar.\nLandcruiser 90 heitir ekki 4-Runner í USA heldur er eini bíllinn sem líkist honum þar er Toyota Sequola\nhttp://www.toyota.com/html/shop/vehicles/sequoia/index.html\nOg  ef þér finnst LC90 vélarvana og hrár að innan þá er hávaðinn í 2falda pústinu í Lancernum búinn að skemma þig eitthvað.\n163/3400        Hö/Rpm\n343/1600-3200   Nm/Rpm\nHvað er lancerinn?"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-10 23:00:23",
+            "id": "533597",
+            "reply_to_id": "533596",
+            "text": "Hávaðinn í pústinu tekur cruiser 90.\nMér finnst terrano2 mun betri kostur en þessi tvö hrúgöld sem ég var að nefna áðan."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-10 23:41:22",
+            "id": "533598",
+            "reply_to_id": "533597",
+            "text": "Ég hef þær upplýsingar þegar að pabbi var að gera upp sinn willys þá bauðst honum landcruisergrind sem þurfti lítið að sníða til, til að hún myndi passa undir willys boddíið. En þú veist náttúrulega betur en frændi minn sem er búinn að gera upp 3 willyssa"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-11 00:47:11",
+            "id": "533599",
+            "reply_to_id": "533598",
+            "text": "My Swarch is bigger than yours!"
+        },
+        {
+            "user": "Partytruck",
+            "user_id": "16082",
+            "date": "2002-05-11 00:50:28",
+            "id": "533600",
+            "reply_to_id": "533598",
+            "text": "Það þarf líka lítið að breyta hilux grind til að láta izuzu trooper boddý ofaná hana. Er þá hilux á Izuzu grind eða öfugt?\nÞú ert að tala um bíla sem voru báðir hannaðir fyrir bandaríska herinn á svipuðum tíma og þá má nú eitthvað vera líkt með þeim.\nJeep willy's er fyrirmynd af mörgum jeppum sem fylgdu á eftir en það gerir hann samt ekki að fyrsta jeppanum eða besta jeppanum.  Ég tæki frekar HJ40 Landcruiser og myndi yfirborga hann frekar en að taka willy's af því að hann er mun sterkbyggðari.\nÞó svo að frændi þinn sé búinn að gera upp 3 willy's jeppa þá gerir það hann ekki að einhverjum “jepppaguð” í mínum augum, hann veit eflaust meira um willy's en veit hann meira um landcruiser og toyotu jeppa en ég?"
+        },
+        {
+            "user": "Partytruck",
+            "user_id": "16082",
+            "date": "2002-05-11 00:53:10",
+            "id": "533601",
+            "reply_to_id": "533600",
+            "text": "My Swarch is WAY bigger than yours"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-11 03:04:20",
+            "id": "533602",
+            "reply_to_id": "533601",
+            "text": "Þú ættir að kynna þér sögu jeppans betur því að willynn var fyrsti jeppinn.\nvarðandi besta jeppann þá hefur willynn alltaf verið kosinn fram yfir aðra í breytinguna fyrir Íslensku torfæruna. Það segir eitthvað kannski bara að það er svo gott að breyta honum og að grindin sé ódýr. En mér finnst það skrítið að það skuli ekki einum landcruiser hafa verið breytt fyrir Íslensku torfæruna. Og að hann skuli ekki vera fyrsti kostur fyrir slysavarnafélögin til að breyta og betrumbæta. Málið er að það er mjög óhentugt vegna þyngdar hans verð á honum og verð á aukahlutum.\nÞessvegna kjósa slysavarnafélögin frekar Patrolinn. Málið er að nýju jepparnir eru ekki jeppar í þeim skilningi sem að þeim var í upphafi ætlað á markað. Eiginleikar eins og kraftur, meðhöndlun og kraftur hafa að miklu leiti vikið fyrir þægindum. Og það leiðir af sér eitt stóra fólksbíla.\nLeyf mér að spyrja þig að einu. Myndir þú fara á þínum landcruiser V8 uppá fjöll í alvöru torfæru?.\nÉg er viss um að svar þitt er nei, vegna þess að bíllinn er of dýr og of flottur til að vera að stunda sport á honum. Sem leiðir til þess að þetta er ógeðslega dýr innanbæjar slyddujeppi.\nHinsvegar að ef þú værir á breyttum Willys, Bronco, Landrover, Scout eða á gamla cruisernum. Þá þorir maður að leika sér á þeim og það sem að ég hef svo gaman af er þegar að þessir litlu jeppar eru uppá jökli og eru að styngu nýju jeppanna af. Vegna silagangs í þeim, af því að þeir eru of þungir."
+        },
+        {
+            "user": "ih8",
+            "user_id": "13956",
+            "date": "2002-05-11 10:03:43",
+            "id": "533603",
+            "reply_to_id": "533602",
+            "text": "Ég þekki mann sem átti Econline á 44\" og hann var dreginn upp úr sandpytt af óbreyttum Pajero. Talandi um niðurlægingu…"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-11 10:19:47",
+            "id": "533604",
+            "reply_to_id": "533603",
+            "text": "Ég skal segja þér frá niðurlægingu. Ég var að keyra á willanum hans pabba sem er ´55 módel og nánast óbreyttur. Ég var að keyra breiðholtsbrautina í átt að suðurlandsvegi og þá sá ég bláan landcruiser 90 sem var búinn að festa sig á túninu í víðidalnum ég spurði gaukinn hvort hann þurfti drátt og hann neitaði þannig að ég beið bara til að athuga hvort hann kæmist þetta ekki. En nei hann komst ekki (var á bílnum ólæstum) Ég spyr hann aftur og hann jánkar þannig að ég læt keðjur að aftan. (willysinn er á gömlum nælondekkjum). Ég læsi kagganum mínum og dreg helvítið alla leið uppá götu. Þessi jeppi var á 35“ dekkjum en willynn á 16” :)"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-11 10:20:56",
+            "id": "533605",
+            "reply_to_id": "533604",
+            "text": "Og athugaðu eitt willynn er skráður 16 hestöfl. Já þetta er rétt skrifað sextán hestöfl. ;)"
+        },
+        {
+            "user": "ih8",
+            "user_id": "13956",
+            "date": "2002-05-11 11:25:17",
+            "id": "533606",
+            "reply_to_id": "533605",
+            "text": "Síðan er töluvert af fólki sem lætur setja rosa blöðrur undir jeppana en hækkar þá ekki jafn mikið eða breytir vél eða drifi. Það er t.d. hvítur Hilux á 38“ á götunni sem er hækkaður fyrir 35” og ekki með læsingar eða annað til að auka drifgetu sína. Ég held að eigandinn hafi einu sinni farið út af malbikinu, til að keyra Kjöl í júlí!\nHann festi sig einmitt í vetur í skafli því hann ætlaði aðeins að jeppast í borginni…"
+        },
+        {
+            "user": "JHG",
+            "user_id": "17371",
+            "date": "2002-05-11 19:51:29",
+            "id": "533607",
+            "reply_to_id": "533605",
+            "text": "Ég held ég sé búinn að finna út galdurinn með tvöfallda pústið á lancernum, er það ekki til að færa þyngdarpúnktinn neðar svo bíllinn velti ekki í beygjum ;)\nJHG"
+        },
+        {
+            "user": "ih8",
+            "user_id": "13956",
+            "date": "2002-05-11 20:32:58",
+            "id": "533608",
+            "reply_to_id": "533607",
+            "text": "Ég held að tvöfalda pústið sé til að fá jeppa-hljóð í lancerinn svo hann geti rúntað, án þess að velta í beygjum (n.b.), og verið svona cool jepparúntari :)"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-12 02:48:43",
+            "id": "533609",
+            "reply_to_id": "533608",
+            "text": "Já telur þú að spykerinn hafi verið fyrsti jeppinn ég tel að bílarnir þurfi að standast ákveðnar kröfur til að geta kallast jeppar. Spykerinn getur ekki hafa verið meira en 7-8 hestöfl auk þess hlýtur hann að hafa litið út eins og hestakerra.\nÉg myndi frekar vilja að eiga willys og fara yfir krossá þegar að það er mikið í henni frekar en að eiga landcruiser 100 og fara yfir krossá Einfaldlega af því að ég myndi ekki tíma því.\nAnnars er hægt að finna willa við hæfi jeepster á 38“ ætti að komast léttilega yfir þetta. Og já patrolinn er vélarvana en ég hef það frá björgunarsveitarmanni að þeir geti keypt tvo patróla miða við einn cruiser 100 með breytingu.\nOg myndi ég vera sammála þeim að það er viturlegra að eiga fleiri bíla en færri. Ef við tökum inn í reikninginn slit og viðhald. Þær eru nú ekki margar sveitirnar sem eiga cruisera vegna þess að það bara borgar sig ekki og þær sem eiga þá munun líklega ekki fá sér þá aftur.\nÉg lét tvöfalt undir lancann bara af því að mig langaði til þess og hann getur boðið uppá það að hafa sitthvorn kútinn í sitthvoru horninu og ég þurfti að endurnýja nær allt draslið undir bílnum. Einnig vildi ég fá aukinn balance í bílinn, enda liggur hann mun betur ;)\nÞað er samt ótrúlegt hvað það hafa margir gert þetta við sína bíla eftir að ég kom með þetta.\nþað eru komnir 2 aðrir með þetta og allavega 2 ”rollur\"."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-12 03:49:46",
+            "id": "533610",
+            "reply_to_id": "533609",
+            "text": "Heyrðu ég er með þetta á svörtu og hvítu fyrir þig. Bara frá þeim sem veit allt.\nhttp://4wd.sofcom.com/A/History.html\nAllt það sem þú ert búinn að segja og meta við eru Trukkar (bílar til að fara með farm á milli staða) og fólksbíla með fjórhjóladrif.\nEf að þér finnst jeppi ekkert merkilegri en Citroen 2CV Sahara 4x4 öðru nafni “Braggi” þá geturðu bara haft þessa sögu jeppans útaf fyrir þig.\nHérna kemur sannleikurinn sem þú getur einnig lesið af linknum sem ég sendi hér að ofan.\n1940: Jeep specification issued.\n1940-1941: Bantam build 2700 light 4x4s, early “Jeeps”.\n1941-1945: Ford and Willys-Overland build 700,000 General Purpose vehicles for WWII (GP becomes Jeep).\nTaktu eftir 1940: Þar er minnst á staðla á jeppum.\nsama ár eða 1940-1941 Býr svo Ford og Willys overland til jeppann.\nWillys er jeppi, allt hitt er eftirlíking."
+        },
+        {
+            "user": "Partytruck",
+            "user_id": "16082",
+            "date": "2002-05-12 17:23:24",
+            "id": "533611",
+            "reply_to_id": "533610",
+            "text": "Þar kemur enn og aftur að einni stærstu málfræðivillum á síðustu öld.  “JEEP” er nafnið á þessari bíltegund og þegar er talað um “Jeep specification issued” þá er átt við það að herinn gaf út lýsingu á því hvað þeir þurftu í ökutæki árið 1940.  Það var ekki verið að skrifa út einhvern alþjóðastaðal á jeppa.\nGamli rússinn er þá væntanlega ekki jeppi samkvæmt því sem þú segir af því hann var smíðaður fyrir “alþjóðastaðalinn”.\nÉg sagði að Spyker væri fyrsti 4x4 BÍLLINN og ef hann er eins og hestakerra þá ættirðu kanski að skoða hann sjálfur:\nhttp://4wd.sofcom.com/ClassicCars/Spyker.html\n8.7L  6cyl vél er eflaust 6 - 7 hestöfl.\nOg þetta eru þá eflaust ekki heldur jeppar:\nhttp://4x4abc.com/G-Class/history.html\nNú ert þú búinn að brjóta niður heim jeppamanna á íslandi með því að upplýsa það að það eru engir jeppar á skerinu nema að vera með JEEP þrykt í grillið, við hljótum þá að vera á stórum fólksbílum sem segir mér það að þú sért einn þessum helvítis vitleysingum með reðuröfund sem kunna ekki að keyra og drepur allt sem þú keyrir á af því að þú notar JEPPANN hans pabba þíns á stóru 16\" dekkjunum."
+        },
+        {
+            "user": "JHG",
+            "user_id": "17371",
+            "date": "2002-05-12 22:16:49",
+            "id": "533612",
+            "reply_to_id": "533609",
+            "text": "Stakka:\n“Ég myndi frekar vilja að eiga willys og fara yfir krossá þegar að það er mikið í henni frekar en að eiga landcruiser 100 og fara yfir krossá Einfaldlega af því að ég myndi ekki tíma því.”\nOk, ef aðstæður væru slæmar, þú þyrftir að fara yfir straumharða á með þína fjölskyldu (upp á líf og dauða) myndir þú þá tíma að nota Krúser upp á 8 milljónir (svo maður sé nú með sömu tölu og þú) og yfir tvö tonn eða Willys upp á hálfa milljón og 1,5 tonn?  Er fjölskylda þín meira virði en 8 milljónir?\nÉg þekki það af eigin raun að þegar mikið er í þessum vatnsföllum þá velur þú stærri bíla fram yfir þá minni.  Ég hef lent í því að vera rekinn fram fyrir hóp jeppa (sem var mér ekkert tengdur, var bara aftastur í röðinni) því það var mesta vitið að láta stærsta og þyngsta bílinn prófa (nema ég hafi skipt þá minnstu máli og þessvegna var ég sendur ;).\nOg þegar þú ert kominn út í þá ert þú ekki að hugsa um peningamál, það er annað sem skiptir máli.\nÉg er ekki að dissa Willys (segi það enn og aftur, snilldar jeppar) en það er ekki alltaf sama tegund af jeppa sem virkar best við allar aðstæður.\nÁstæða þess að ég fékk mér þyngri bíl var að hann er miklu betri ferðabíll (að mínu mati).  Willys er skemmtilegra leiktæki en að ferðast í CJ5 á 38\" dekkjum langa vegalengd er ekki fyrir mitt bak.\nFrekar kýs ég að sitja í mínum Captain stólum með endalaust pláss í kringum mig og pláss fyrir allan þann farangur sem ég vil (og ég hef líka tekið farangur fyrir félaga minn á Willys).\nAnnars ætla ég ekki að fara í umræðu um hvað er jeppi og hvað ekki (ég fór yfir málfræðina fyrr í þessum þræði), Blazerinn er Trukkur!\nÉg held við ættum að færa þessa jeppaumræðu yfir á hugi/jeppar (og hluta yfir í hugi/malfraedi ef það er til), menn þar hafa örugglega meiri áhuga á því.  Fjallaði þessi þráður ekki annars  um stöðugleika bíla?\nJHG\nP.s. þar sem að þú hefur gaman að hafa eftir björgunarsveitamönnum, þá máttu hafa þetta eftir mér (veldu bara úr), ég var í björgunarsveit í allnokkur ár :)"
+        },
+        {
+            "user": "Mal3",
+            "user_id": "5739",
+            "date": "2002-05-12 22:54:21",
+            "id": "533613",
+            "reply_to_id": "533612",
+            "text": "Word up! Beint á jeppaáhugamálið! :D"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-13 08:13:50",
+            "id": "533614",
+            "reply_to_id": "533613",
+            "text": "Grunt: Hugtakið miðflóttarafl er til og viðurkennt í eðlisfræði. Það er hinsvegar ekki raunkraftur heldur hugtak sem skilgreinir að hlutur leitast til að halda stefnu sinni og hraða."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-13 08:25:04",
+            "id": "533615",
+            "reply_to_id": "533614",
+            "text": "Þar sem að ég mun ekki kaupa mér jeppa uppá 8 milljónir króna og þar af leiðandi mun ég ekki komast í þessar aðstæður en ég. Hinsvegar ef ég ætti jeppa þá ætti ég Willys, Jeepster eða Suburban.\nMálið er bara að þeir sem að eru að lenda í þessum aðstæðum eru jeppafólk.\nJHG: Ég efast ekki um að þú hafir rétt fyrir þér en persónulega myndi ég vilja að eyða mínum peningum í annað.\nSvo vorum við líka að tala um þessa 8 milljónakróna jeppa og þá sem að hefðu not fyrir þá en væru ekki bara að sleðast fyrir í höfuðborginni og nágreni. Það er heldur ekkert vit í því.\nTrukkar eru ofnotað hugtak en eiga sér upphaflega skýringu að vera stórir bílar sem ferma hluti á milli staða, eins og trailerar núna.\nTruck = Vörubíll\nÞetta á líka við um hugtakið sportbíll, því að hvað er sportbíll. Er Yaris á 16\" með kitti sportbíll eða er corolla T-sport sportbíll eða Camaro?"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-13 08:44:34",
+            "id": "533616",
+            "reply_to_id": "533615",
+            "text": "Samkvæmt ströngustu skilgreiningu er afturhjóladrifinn blæjubíll sportbíll… ansi þröngt hmmmm!"
+        },
+        {
+            "user": "JHG",
+            "user_id": "17371",
+            "date": "2002-05-13 09:04:59",
+            "id": "533617",
+            "reply_to_id": "533615",
+            "text": "Samkvæmt skilgreiningu í USA er Blazer K5 Full size truck.  Í skráningu hjá GM er umræddur Blazer K5 skráður Light truck.  Trukkur hefur að öllum líkindum komið af orðinu truck.\nVerðum við ekki að gera ráð fyrir að það megi kalla hann trukk þar sem að hann er skilgreindur þannig af framleiðanda (fellur undir þann flokk)?\nSambærileg farartæki falla einnig undir sama flokk þannig að það er ekki bundið við þennan framleiðanda eða heiti (ekki nóg að kalla bíl Sport til að hann sé sportbíll).\nEf ég má ekki kalla Blazerinn jeppa af því að það á bara við um Jeep og ekki trukk þar sem að það á bara við um vörubíla, hvað má ég þá kalla þetta farartæki?\nSpurningin um hvað er sportbíll er erfitt að svara.  Ég vil meina að hann verði að vera með afturdrif eða fjórhjóladrif (en það eru ekki allir sammála mér), hann verður að vera hannaður sem sportbíll (en ekki sport útgáfa af frúarbíl) og nokkuð aflmikill (samt eru ekki allir aflmiklir bílar sportbílar).  Sumir halda því fram að þeir verði að vera tveggja sæta og blæjubílar.  Camaro, Firebird og Mustang eru ýmist kallaðir Ponycars eða Musclecars í USA, við eigum ekkert gott orð fyrir það á íslensku og höfum því kallað þá sportbíla.  Kannski á það ekki vel við.  Hinsvegar er það ekki spurning að hvorki Yaris né Corolla geta talist sportbílar.\nJHG"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-13 09:19:49",
+            "id": "533618",
+            "reply_to_id": "533617",
+            "text": "Þú mátt alvega kalla hann trukk en mín skilgreining á trukk er vörubíll og þar sem að vörubílar í bandaríkjunum eru trucks þá mun blazer ekki vera truck hjá mér. Ég mun kalla hann jeppa."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-13 09:30:22",
+            "id": "533619",
+            "reply_to_id": "533618",
+            "text": "My swarch is still bigger than yours:)"
+        },
+        {
+            "user": "JHG",
+            "user_id": "17371",
+            "date": "2002-05-13 09:35:26",
+            "id": "533620",
+            "reply_to_id": "533618",
+            "text": "Stakka: “Ég mun kalla hann jeppa.”\nNú ertu alveg búinn að rugla mig, ég hélt að ég mætti ekki kalla hann jeppa nema hann héti Jeep.\nJHG"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-13 11:15:21",
+            "id": "533621",
+            "reply_to_id": "533620",
+            "text": "Ég sagði það aldrei. Ég sagði að willys væri jeppi allt annað er eftirlíking. Það þýðir það samt ekki að það megi ekki kalla hina jeppa þó svo þeir séu truck í skráningarskírteininu, en notagildið af þessum bíl er jeppi. Trucks samkvæmt skilgreiningu fornra tíma er vörubíll og fyrir mínu leiti er trukkur vörubíll en það segir samt ekki að aðrir megi ekki kalla hann trukk því að ég er ekki almættið."
+        },
+        {
+            "user": "JHG",
+            "user_id": "17371",
+            "date": "2002-05-13 11:48:43",
+            "id": "533622",
+            "reply_to_id": "533621",
+            "text": "“Ég sagði að willys væri jeppi allt annað er eftirlíking”\nEn Blazer er svo langt frá því að vera eins og gamli Willysinn, hvernig getur hann þá verið eftirlíking?\nJú, hann er með fjögur hjól (það var Ford T líka með, jafnvel hestvagnar), hann er með fjórhjóladrif (það var komið á undan Willys).\nÉg get ekki séð að hann sé á nokkur hátt eftirlíking.\n“Trucks samkvæmt skilgreiningu fornra tíma er vörubíll”\nVoru Trucks á fornum tímum?  Ég er nú ekki fornleifafræðingur en ég hélt að hún ætti við eitthvað eldra ;)\nBróðir minn á Chevy pickup (skráður vörubíll í skráningarskírteini), er hann trukkur?  Hann er að mestu leiti eins og Blazerinn fyrir utan að Blazerinn er með húsi.\nEf ég tek plasthúsið aftanaf og rið burtu aftursætinu (ca. klukkutíma vinna) er hann þá trukkur?\n“en það segir samt ekki að aðrir megi ekki kalla hann trukk því að ég er ekki almættið.”\nTakk fyrir, ég var einmitt farinn að hafa áhyggjur af því ;)\nJHG"
+        },
+        {
+            "user": "Mal3",
+            "user_id": "5739",
+            "date": "2002-05-13 11:50:49",
+            "id": "533623",
+            "reply_to_id": "533621",
+            "text": "Er það bara mín skoðun eða er þessi umræða búin að slá öll hringavitleysumet sem sést hafa á þessu, þó oft ruglaða, áhugamáli???"
+        },
+        {
+            "user": "JHG",
+            "user_id": "17371",
+            "date": "2002-05-13 11:56:12",
+            "id": "533624",
+            "reply_to_id": "533623",
+            "text": "Sammála, það getur samt verið gaman að hræra aðeins í fólki ;)\nJHG"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-14 13:59:40",
+            "id": "533625",
+            "reply_to_id": "533623",
+            "text": "“Er það bara mín skoðun eða er þessi umræða búin að slá öll hringavitleysumet sem sést hafa á þessu, þó oft ruglaða, áhugamáli??? ”\nFrá Mal3.\nNei, það er mín skoðun líka, en nú er þetta farið að snúast um “closure”, líka gaman að vita hvað við komumst langt með umræðuna."
+        },
+        {
+            "user": "gdawg",
+            "user_id": "3976",
+            "date": "2002-05-13 12:08:56",
+            "id": "533626",
+            "reply_to_id": "533621",
+            "text": "Ameríkanar kölluðu stóra jeppa yfirleitt “trucks” annars eru þeir komnir með mjög “posh” heiti núna sem er SUV eða sports-utility-vehicle"
+        },
+        {
+            "user": "Mal3",
+            "user_id": "5739",
+            "date": "2002-05-13 12:12:11",
+            "id": "533627",
+            "reply_to_id": "533626",
+            "text": "SUV = Slow Ugly Vehicle :)"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-13 13:47:55",
+            "id": "533628",
+            "reply_to_id": "533627",
+            "text": "Já fjórhjóladrfið var komið en jeppinn var það ekki. Fjórhjóladrof var komið í fólksbíla og flutningabíla. Þú ferð nú ekki að kalla subaru jeppa hvað þá scaniu 580. Því að þetta eru ekki bílar til þess að stunda ófærur fólksbíllinn og lar og flutningabíllinn of þungur. Einnig er það spurning hvort að millikassinn hafi verið kominn allavega var fyrsti fólksbíllinn spyker ekki með millikassa.\nJá allir jeppar eiga það sameiginlegt við willis að þeir eru gerðir sem tól til að koma mönnum á milli staða yfir ófærur.\nBara til gamans.\nVörubíll 3500 eða meira í heildarþyngd.\nleigubíll farþegafjöldi uppí 7 á gjaldskrá.\nRúta 8 farþegar eða meira. Þetta skiptist einnig í undir 5000 í heildarþyngd og yfir 5000 í heildaþyngd en þetta er fyrir þungaskattinn.\nSvo er það náttúrulega breyttir jeppar sem vega meira en 3500kg.\nfólksbílar í víðri merkingu er undir 3500kg."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-13 13:55:11",
+            "id": "533629",
+            "reply_to_id": "533628",
+            "text": "Það besta við þetta er að nú þarf meirapróf til að keyra þunga jeppa. Þannig að stóru tíkurnar fara að hverfa af götunum í takt við gamla fólkið. En það tekur samt tíma.\nMig minnir að þetta hafi komið í lög 22 október 1996. Og er ekki afturvirkt, hinsvegar krakkarnir sem fá prófið eftir þennan tíma mega ekki keyra jeppa þyngri en 3500kg.\n:))))\nÉg er nánast búinn með meiraprófið en þetta nýtist mér ekkert þar sem að ég fékk mitt ökustkírteini fyrir 22 okt."
+        },
+        {
+            "user": "JHG",
+            "user_id": "17371",
+            "date": "2002-05-13 15:03:02",
+            "id": "533630",
+            "reply_to_id": "533629",
+            "text": "Skiptir ekki máli fyrir mig, tók meiraprófið fyrir ca 10 árum síðan.\nÞetta hefur nú bara áhrif á Econoline, Blazer og Subbi ætti báðir að sleppa :)\nJHG"
+        },
+        {
+            "user": "Mal3",
+            "user_id": "5739",
+            "date": "2002-05-13 11:46:53",
+            "id": "533631",
+            "reply_to_id": "533615",
+            "text": "Bandaríkjamenn kalla allan andskotann trukka. Pick-up = truck…"
+        },
+        {
+            "user": "Partytruck",
+            "user_id": "16082",
+            "date": "2002-05-11 14:48:01",
+            "id": "533632",
+            "reply_to_id": "533602",
+            "text": "Til þín stakka sem allt veist.\nWilly's fyrst pantaður af bandaríska hernum 1941\nM. Benz G102 í framleiðslu 1926\nFyrsti fjórhjóladrifni bíllinn: Spyker 1902\nWilly's var ekki fyrsti jeppinn og hann VAR mikið notaður af því að þetta lá eins og hráviður út um allt og fékst fyrir lítið, en það eins og allt annað hefur breyst í dag.\nÞað á stór hluti björgunarsveita einn eða fleiri Landcruisera og skilja þeir Patrolinn eftir hvar sem er hvenær sem er því að patrolinn er “vélarvana” hliðina á LC80.  Og stóru jepparnir verða ekkert eftir uppi á jökli því að þeir hafa vanalega mun meiri orku að spila úr og þyngd er ekkert endilega slæmur hlutur þegar er verið að keyra í snjó. T.d. Suzuki fox í ákveðnu færi er það léttur að hann nær ekki að þjappa snjóinn undir sér og situr bara í spóli."
+        },
+        {
+            "user": "JHG",
+            "user_id": "17371",
+            "date": "2002-05-11 19:23:33",
+            "id": "533633",
+            "reply_to_id": "533632",
+            "text": "Jamm, oft duga léttir bílar vel við góðar aðstæður en þungu trukkarnir betur við erfiðari aðstæður (ég þekki hvortveggja, var á Súkku (langri) en ég held þið vitið hvað ég er núna með :)\nSvo ég tali nú ekki um árnar, það er töluvert þægilegri tilfinning að fara út í straumharða á á 2,3 tonna bíl (örugglega nálægt 3t með farþegum og kakói) en 1,2 tonna súkku (ekki pláss fyrir eins mikið kakó).\nHvort ætli stakka myndi velja að sitja í Blazer K5 eða Willys yfir Krossá þegar vel er í henni?\nJHG\nP.s. ég er ekki að dissa Willys, snilldar bílar, það fer bara eftir aðstæðum hvað er best."
+        },
+        {
+            "user": "Mal3",
+            "user_id": "5739",
+            "date": "2002-05-11 19:43:42",
+            "id": "533634",
+            "reply_to_id": "533633",
+            "text": "Djöfful drekkurðu mikið kakó! Áttu Swiss Miss umboðið? ;D"
+        },
+        {
+            "user": "JHG",
+            "user_id": "17371",
+            "date": "2002-05-11 19:48:50",
+            "id": "533635",
+            "reply_to_id": "533634",
+            "text": "Það veitir ekki af að hafa nóg af kakói í löngum ferðum :)\nJHG\nP.s. ekkert erlent kakó, veljum íslenskt :)"
+        },
+        {
+            "user": "Mal3",
+            "user_id": "5739",
+            "date": "2002-05-11 19:54:59",
+            "id": "533636",
+            "reply_to_id": "533635",
+            "text": "“Buying american is un-american” - unknown ;)"
+        },
+        {
+            "user": "JHG",
+            "user_id": "17371",
+            "date": "2002-05-11 20:01:06",
+            "id": "533637",
+            "reply_to_id": "533636",
+            "text": "Drag racers go straight to the finishline. The others guys drive in circles looking for it. ;)"
+        },
+        {
+            "user": "sportbill",
+            "user_id": "17615",
+            "date": "2002-05-10 21:06:45",
+            "id": "533638",
+            "reply_to_id": "533591",
+            "text": "Hvar er hægt að láta mæla bílinn sinn svona?"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-10 21:49:44",
+            "id": "533639",
+            "reply_to_id": "533638",
+            "text": "Tækniþjónusta Bifreiða sportbill, það væri tilvalið fyrir þig að fara með Porsche 911 bílinn þangað, ég veit að þeir fengju vatn í munnin af að mæla hann!\nJú, rétt er það að þessar mælingar geta verið mjög mismunandi, en það eru bílvélarnar líka eftir umhverfi og aðstæðum. En ef menn vilja samanburð þá er fínt að notast við TB en þeir eru þeir einu sem ég veit um að geri svona mælingar, við njótum því í þessu tilfelli góðs af smæðinni."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-10 21:56:13",
+            "id": "533640",
+            "reply_to_id": "533639",
+            "text": "Ég veit um einn mann sem átti nýjan breyttan Patrol og þegar að ég var að segja við hann hvað hann liti vel út þá sagði hann. Þetta helvítisdrasl. Ég spurði ertu ekki ánægður með hann. Og hann sagði jú fyrstu þrjár vikurnar, núna sé ég bara 90 þúskall á mánuði.\nÞetta segir mjög mikið eins og þegar að bílabúð benna ætlaði að halda Musso ferðalag og bjóða öllum þeim sem ættu musso og það mættu tveir. Glitnir og lýsing áttu hina."
+        },
+        {
+            "user": "Moen",
+            "user_id": "17218",
+            "date": "2002-05-10 13:24:20",
+            "id": "533583",
+            "reply_to_id": "533582",
+            "text": "Ég er á BMW líka, en reðurtákn er nú allt annað, ég var að tala um reðuröfund.\nOg það er nú heila málið, þegar ég er úti að keyra, hvort ætli fólk haldi að ég sé með ólæknandi bíladellu eða reðuröfund? Og það er eins með jeppana……. Maður veit það sjaldnast.\nNema maður sjái spikk og span Grandlooser upphækkaðan á 35\" og ekki með dráttarkrók eða neinar breytingar sem gæti flokkast undir fjallabreytingar."
+        },
+        {
+            "user": "Moen",
+            "user_id": "17218",
+            "date": "2002-05-10 13:26:06",
+            "id": "533584",
+            "reply_to_id": "533583",
+            "text": "Það þarf mikið til að velta bíl á góðum vegi, en ef maður veit hvernig á að gera þetta þá er það ekki endilega sérlega mikið mál að velta bíl. En auðvitað velta jeppar miklu oftar hlutfallslega en fólksbílar.\nEn fólksbílar festast eflaust miklu oftar í snjó t.d. en jeppar:)"
+        },
+        {
+            "user": "Moen",
+            "user_id": "17218",
+            "date": "2002-05-10 13:37:33",
+            "id": "533585",
+            "reply_to_id": "533584",
+            "text": "Ég hef ekker á móti stórum jeppum þó að ég skilji ekki alveg æðið.\nÉg er miklu hrifari af sleeperum eins og bílnum þínum bebecar (M5) og eru þar ákveðin atriði eins og stórar álfelgur, stórir bremsudiskar, groddaralegt bodykit og almennt útlit sem segir backoff.\nJeppar gera þetta engann vegin fyrir mig en ég skil notagildi þeirra í snjó og í ófærum. Einnig verða ég að segja að þeir vinna þarft verk á veturna t.d. að hjálpa fólksbílum í neyð (fastir í snjó)sem ég held að margir alvöru jeppakallar hafi bara gaman af að gera og öðrulagi að þjappa snjóinn á leiðinni í skíðasvæðin í kringum höfuðborgarsvæðið."
+        },
+        {
+            "user": "JHG",
+            "user_id": "17371",
+            "date": "2002-05-10 15:45:24",
+            "id": "533586",
+            "reply_to_id": "533583",
+            "text": "Ég vil svo taka það fram að trukkurinn er kominn í sumarfrí, tók númerin af honum um daginn.  Það er samt aldrei að vita nema maður skelli honum á númer seinna í sumar til að ná svo sem einum merkurtúr eða einhverju svoleiðis :)\nJHG"
+        },
+        {
+            "user": "Grunt",
+            "user_id": "13153",
+            "date": "2002-05-12 13:01:56",
+            "id": "533641",
+            "reply_to_id": "533564",
+            "text": "Það er ekkert til sem heitir “miðflóttaafl” í eðlisfræði, eingöngu varðveisla skriðþunga, sem segir að sérhver hlutur leitast við að halda sínum hraða og stefnu óbreyttum. Til að hlutur breyti um stefnu þarf að beita orku. Mjög einföld leið til að komast að þessu á bílnum þínum er að láta hann fríhjóla á góðu plani og beyja, það mun hægja mjög hratt á bílnum.\nVinsamlegast ekki tala um miðflóttaafl, það er beinlínis rangt hugtak."
+        },
+        {
+            "user": "Mal3",
+            "user_id": "5739",
+            "date": "2002-05-12 18:12:25",
+            "id": "533642",
+            "reply_to_id": "533641",
+            "text": "Að halda skriðþunga = tregða?"
+        },
+        {
+            "user": "Mal3",
+            "user_id": "5739",
+            "date": "2002-05-08 18:25:36",
+            "id": "533643",
+            "reply_to_id": "533558",
+            "text": "Öh, á þetta ekki við um hunangsflugur en ekki húsflugur en hunangsflugur eru mjög þungar (afstætt vissulega!) og óstraumlínulagaðar…?"
+        },
+        {
+            "user": "ih8",
+            "user_id": "13956",
+            "date": "2002-05-13 16:00:16",
+            "id": "533645",
+            "reply_to_id": "533547",
+            "text": "Ég held að þessi umræða sé komin tómt rugl…"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-13 17:22:20",
+            "id": "533646",
+            "reply_to_id": "533645",
+            "text": "Lokaniðurstaðan er sem sagt sú að Jeppar drepa undantekningarlaust.\nJeppar=handsprengja sem er búið að taka pinnan úr og býður eftir að drepa saklaust fólk sem verður í vegi þess."
+        },
+        {
+            "user": "Partytruck",
+            "user_id": "16082",
+            "date": "2002-05-13 20:30:12",
+            "id": "533647",
+            "reply_to_id": "533646",
+            "text": "Sem betur fer eru ekki nema 3.006 drápstól skráð samkvæmt skráningarstofunni þannig að ég get ekið um á ofvaxna fólksbílnum mínu sem er skráður í bandaríkjunum Light Pick-up Truck óhræddur.  Og vitandi það að ef ég keyri á Hræwoo Matiz á Miklubrautinni þá drep ég engann afþví að ég er ekki á “jeppa”. :) :)\nP.s.\nWilly's eru fín leiktæki ef það er 304 og uppúr í húddinu\nP.p.s.\n98 svör!!! þetta hlýtur að vera heitasta hringavitleisan á Huga"
+        },
+        {
+            "user": "JHG",
+            "user_id": "17371",
+            "date": "2002-05-13 22:00:25",
+            "id": "533648",
+            "reply_to_id": "533647",
+            "text": "Við getum nú ekki verið þekktir fyrir að hætta svona nálægt hundrað ;)\nJHG"
+        },
+        {
+            "user": "Partytruck",
+            "user_id": "16082",
+            "date": "2002-05-13 22:30:04",
+            "id": "533649",
+            "reply_to_id": "533647",
+            "text": "My swarch is bigger than yours. Ég veit eiginlega ekki hvað á að segja annað!\nStakka, þú ert þverari en ég veit ekki hvað.\nMér er skítsama hvort willys var fyrsti jeppinn eða ekki, ég reyndar stórefast um það.\nMiðað við þína skilgreiningu á jeppa þá er Willys ekki fyrsti jeppinn þó hann sé fyrsti bíllin sem bar nafnið JEEP, sem er skammstöfun fyrir General Purpose (Vehicle) eða GP borið fram Jeep á endanum.\nÉg get fundið allavega einn jeppa sem er óumræðanlega á undan JEEP sem er GAZ 61 sem fór í framleiðslu 1938 eða tveimur árum á undan JEEP.\nÞað ætti engin að velkjast í vafa um að GAZ 61 sé ekki jeppi í öllum skilgreiningum þess hugtaks þar sem hann er að öllu leiti sambærilegur við JEEP.\nHér er linkur á hann.\nhttp://www.4wdonline.com/Mil/GAZ/GAZ.html"
+        },
+        {
+            "user": "Partytruck",
+            "user_id": "16082",
+            "date": "2002-05-13 22:32:46",
+            "id": "533650",
+            "reply_to_id": "533649",
+            "text": "Erum við ekki komnir yfir hundrað núna? ;) Kannski ég hafi náð að hleypa lífi í umræðuna aftur með smá “gazi”."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-13 22:34:46",
+            "id": "533651",
+            "reply_to_id": "533650",
+            "text": "Og hér er svo mynd af bílnum.\nhttp://www.autogallery.org.ru/gaz61.htm"
+        },
+        {
+            "user": "Partytruck",
+            "user_id": "16082",
+            "date": "2002-05-13 22:36:11",
+            "id": "533652",
+            "reply_to_id": "533650",
+            "text": "Þetta er jafnvel eldra:\nhttp://4x4abc.com/G-Class/history.html"
+        },
+        {
+            "user": "Partytruck",
+            "user_id": "16082",
+            "date": "2002-05-13 23:19:02",
+            "id": "533653",
+            "reply_to_id": "533652",
+            "text": "Eða þessi.\nhttp://4x4abc.com/G-Class/g5.html"
+        },
+        {
+            "user": "Partytruck",
+            "user_id": "16082",
+            "date": "2002-05-13 23:49:35",
+            "id": "533654",
+            "reply_to_id": "533653",
+            "text": "“Einheits-Pkw mit Allradantrieb” , a Uniform Passenger Car with 4WD\nEr það ekki það sem bandaríski herinn bað um 7 árum seinna og fékk jeep(GP).\nEr stakka búinn að játa sig sigraðan? Eða ætlar hann að ná sér í 5-6 ár í þroska áður en hann byrjar aftur. :) :)"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 08:37:32",
+            "id": "533655",
+            "reply_to_id": "533654",
+            "text": "Jæja þetta náðist. Mig langaði bara að fá svör frammyfir hundrað.\nEn þið getið ekki unnið þetta varðandi Jeep því að lögin um staðalbúnað í jeep komu 1940 og bíllinn var smíðaður 1940, þannig að það er hinn eini sanni jeppi.\nÞið hljótið að sjá þetta sjálfir dæmi: árið er 1940 og ég er forseti bandaríkjana ég ákveð að láta lög um lágmarkskröfur um hönnun á jeppa. Sama ár kemur jeppinn og það er willys.\nEkki þrefast þetta er bara svona."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 08:44:03",
+            "id": "533656",
+            "reply_to_id": "533655",
+            "text": "Ef ég myndi eldast um 5 til 6 ár í þroska þá væri ég Guð.\nEn það er hinsvegar ótrúlegt með ykkur að reyna að kreista eitthvað framm með jeppa og koma með fólksbíla og vörubíla til að rökstyðja ykkar grun og reyna að þrefa og kannski mögulega leita að einhverri sannfæringu frá mér til að upphefja ykkur.\nDREAM ON!!\nFlugvél getur ekki verið til á teikningar af flugvél. fólksbíll getur ekki verið til á teikningar af fólksbíl. Jeppi getur ekki verið til án teikningar af jeppa og þessi teikning kom 1940 og jeppinn það sama ár.\nTHE FACT, YOU CANT BEAT ME!!!"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 08:50:10",
+            "id": "533657",
+            "reply_to_id": "533656",
+            "text": "Mercedes-Benz G5 four wheel drive vehicle\nfeaturing full time 4WD, four wheel steering, three differential lockers, independent supension front and rear\nÞetta er tekið af síðunni af þessum benz. Ef þið lesið línuna að ofan þá stendur þar fjórhjóladrifs farartæki svo stendur Full time 4wd sem er það sama og súbaró er með. Ef þú hækkar súbaró upp er hann þá orðinn jeppi.\nAnnars er það svoleiðis að fyrir 1940 var jeppi ekki til af því að hugtakið jeppi “JEEP” var ekki til."
+        },
+        {
+            "user": "JHG",
+            "user_id": "17371",
+            "date": "2002-05-14 09:00:01",
+            "id": "533658",
+            "reply_to_id": "533657",
+            "text": "Við verðum bara að sætta okkur við að Stakka er búinn að gefa út nýja orðabók miðað við það sem honum finnst og hann er of þrjóskur til að sættast á rök annara (munið þið eftir P4A ;).\nJHG\nP.s. að líkja Stakka við P4A er kannski ekki sanngjarnt :)"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 09:20:36",
+            "id": "533659",
+            "reply_to_id": "533658",
+            "text": "Heyrðu góði :( URRR\nNei málið er það sem þið eruð ekki að fatta er að willys var fyrsti jeppinn og það sem að hann var með var það sem jepparnir á eftir tileinkuðu sér. Hann markaði tímamót í jeppum og þar sem að hugtakið jeppi var ekki komið þá var hann fyrsti jeppinn með aukabúnað sem lét hann skara frammúr hinum fjórhjóladrifsbílunum.\nSem sagt þeir bílar sem voru á undan voru bara nokkurskonar prufubílar fyrir jeppann en voru í raun fólksbílar með fjórhjóladrif.\nÞað er ekki nóg að vera með fjórhjóladrif og upphækkaður til að geta verið jeppi."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 09:30:39",
+            "id": "533660",
+            "reply_to_id": "533659",
+            "text": "Saga Willys.\nThe Bantam Car Company won the opening round of the contest to satisfy the US army's 1940 specification for a light four wheel drive but Willys Overland won the battle and, some would say, the war. To ensure supply in war-time the Army decided on a second supplier - Ford. Between 1941 and 1945 Willys and Ford built about 700,000 of the vehicle.\nWillys Overland Jeep MB : Specifications.\nsoft-top, 2+2 seats, what doors?\nloa: 132“, width: 62”, height: 52“ (steering wheel) - 72” (soft top), weight: 2400 (unladen)\nGVM: 3200lbs nominally\n2199cc petrol 4-cyls, 2 valves/cyl, side-valve\nbore: 79.4mm, stroke: 111mm, c.r.: 6.48:1\ntransmission: 3-speed, 2-speed transfer case, part-time 4WD\nsuspension: beam-leaf/beam-leaf, brakes: drum/drum\ntyres: 6.00x16\nsérðu þarna að ofan hann er með millikassa. Háa og lága drifið. Annað en það sem þið eruð alltaf að sýna “all wheel drive” “always 4WD” og eitthvað svoleiðis bull."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 09:26:27",
+            "id": "533661",
+            "reply_to_id": "533657",
+            "text": "Þú ert ótrúlega lengi að ná þessu. Það að hugtakið JEEP, sem ég útskýrði fyrir þér hér rétt á undan, skuli upprunalega hafa verið notað fyrir Willys segir ekki neitt.\nEins og þú bendir á þá fór forseti Bandaríkjanna fram á að framleiddur yrði bíll sem uppfyllti þessar lágmarkskröfur. Þú virðist svo halda að bara vegna þess að einhverjir bílar sem komu fyrir þann tíma hafi uppfyllt þessar kröfur betur, þá séu þeir ekki jeppar.\nÞað má eflaust velta því fyrir sér að hér sé um málvillu að ræða. En þá ert það þú sem ekki áttar þig á málnotkuninni. Jeppi hér heima er notað yfir allt frá Vitara til Patrol (alvöru japanskir jeppar) og jeppi hér heima er ekki það sama og Jeep er í USA. Ef þú skilur það þá ertu búin að eyða allri þinni fyrri rökleysu.\nÞú ert semsagt að rugla tilkomu nafnsins á bíltegundina Willys við tilkomu nafnsins á bílaflokkinn Jeppar.\nWillys war svokallaður General Purpose (Vehicle) skammstafað GP og úr því var til heitið JEEP, eða “JEE PEE” í framburði. Það að þetta heiti hafi svo orðið að nafni bílsins þýðir ekki að aðrir bílar séu ekki jeppar. Það þýðir einfaldlega að JEEP stendur fyrir GP sem er General Purpose Vehicle, þú hefur því gjörsamlega misskilið tilurð heitisins og ástæður á bakvið það. Af þeirri ástæðu er það eina rétta sem þú hefur sagt að WYLLIS er eini bíllinn sem hefur beinlínis borið nafnið JEEP á grillinu. Jeep þýðir það sama og GP og þú munt varla bera á móti því að kanar framleiði t.d. enga aðra General Purpose bíla???\n5-6 ára þroski hjálpar kannski ekki, en smávægileg söguþekking gerir það:)\nÞað er heldur ekki allskostar rétt hjá þér að hugtakið JEEP hafi ekki verið til fyrir 1940. Hugtakið GP var til, það var ekki fyrr en síðar að Jeep nafnið festist við heitið.\nOG þar við bætist að þú þráast við að segja að Wyllis sé eini alvöru jeppinn, en það er ekki einu sinni rétt í því tilliti að það sé eini bíllinn sem beri þetta nafn, því að Grand Cherokee er t.d. líka JEEP, og því alveg jafn mikill jeppi miðað við það sem þú hefur sagt. Það leiðir svo aftur til þess að sambærilegir bílar hljóta þá að teljast jeppar líka samkvæmt okkar íslensku málvenju og í það minnsta GP bílar samkvæmt þeirri bandarísku og auðvitað eru þeir Jeeps líka, eins og sést á þriðju myndinni á þessari síðu hér:\nhttp://members.aol.com/albrightmj/jeeps.html\n“our  Jeeps” stendur þar, og ekki eru bara Willys bílar eða Wrangler þar á myndinni.\nLöngu eftir stríð kom svo CJ bílarnir frá JEEP, það stendur fyrir “CJ's - Civilian Jeeps ” það yrði því í raun CGP þar sem J stendur fyrir Jeep sem stendur svo aftur fyrir GP.\nTil að bíta svo höfuðið úr skömminni þá læt ég eftirfarandi síðu fylgja með þar sem JEEP var kallaður “1/4 ton 4x4 Reconaissance Truck”. ALLT er því unnið fyrir gíg með þessari þvermóðsku.\nOg hér er svo setningin sem skýrir í rauninni það sem við höfum verið að segja allan tímann “Usually, the word jeep without an uppercased j refers specifically to the WW2 jeep and post-war jeeps whilst the term Jeep® with a capital J is a trademark of Chrysler Corporation.”\nWillys er því ekki miðað við það sem fram hefur komið fyrsti jeppin, né hinn eini sanni jeppi, og það ennþá síður í viðurkenndri merkingu þessa orðs.\nVerjandi hefur lokið málflutningi sínum;)"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 09:27:06",
+            "id": "533662",
+            "reply_to_id": "533661",
+            "text": "Gleymdi að láta síðuna fylgja:(\nhttp://phaedra.apana.org.au/ww2jeep.html"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 09:33:28",
+            "id": "533663",
+            "reply_to_id": "533662",
+            "text": "Og þar sem stendur wyllis á að sjálfsögðu að standa willys!"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 09:45:22",
+            "id": "533664",
+            "reply_to_id": "533663",
+            "text": "Earliest printed usage of the word ‘jeep’:\nAccording to [1] p.43 (quoted v.):\nA feature story written by Katherine Hillyer and published on 16 March 1941 in the Washington Daily News called the 1/4 ton 4x4 a jeep. It was never called anything else thereafter.\nTHIS POPEYE COMIC STRIP, PUBLISHED APRIL 22, 1940, was introduced in evidence at hearing to determine the origin of the word, “JEEP,” as applied to military vehicles. A Minneapolis army sergeant testified the strip inspired him to first coin the word. Popeye is a regular Daily Times feature.\nDAILY TIMES COMIC STRIP ANIMAL INSPIRED SOLDIER TO USE OF ‘JEEP’\nThe versatility of a roguish imp in the Daily Times comic strip, “Popeye,” four years ago inspired a Minneapolis army sergeant to apply the appellation “JEEP” to the army's 7,500-pound tractor trucks until then known as prime movers, Sergeant James T. O'Brien, 1207 W. Broadway, testified before the federal trade commission here.\nJ. Earl Cox, commission trial examiner, conducted a one day hearing to weigh claims of the Willys-Overland Co., Minneapolis-Moline Power Co., and the American Bantam Automobile Co., to use of the name “Jeep,” to identify postwar farm trucks they contemplate manufacturing.\nIt was during a twilight bivouac on the south shore of Mille Lacs lake during maneuvers at Camp Ripley in July and August of 1940 the name “Jeep” to identify army trucks was born, O'Brien related. He had pulled a bundle of old newspapers from under a seat and was catching up on the antics of his favorite characters when the jeep in the Popeye strip “hit me between the eyes,” O'Brien said.\nO'Brien said he painted the name on his vehicle, drivers of other jeeps at the camp caught the spirit of the thing and when he returned from maneuvers three weeks later he learned the word had become commonplace.\nO'Brien and Sergeant Sam Love, chief mechanic of the Minnesota military department, testified the vehicles on maneuvers at Camp Ripley were the first of their type either had seen and they were built by the Minneapolis- Moline Co.\nThe Willys company will start its defense in the case later this summer in New York."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-14 09:49:28",
+            "id": "533665",
+            "reply_to_id": "533664",
+            "text": "OG? Ertu ekki að skjóta þig aðeins í fótinn núna?"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 09:50:15",
+            "id": "533666",
+            "reply_to_id": "533664",
+            "text": "Hvað ætlið þið að þrjóskast lengi??\nÁ þetta að fara uppí 200 svör?\nMálið er að ég er meira segja ekki að flagga öllu því sem ég hef sem haldbærar sannanir og þið eruð örugglega að skoða allt netið niður til mergjar og finnið ekkert.\nGjörið svo vel. Ég get beðið."
+        },
+        {
+            "user": "JHG",
+            "user_id": "17371",
+            "date": "2002-05-14 09:59:41",
+            "id": "533667",
+            "reply_to_id": "533666",
+            "text": "Þessar langlokur breyta ekki þeirri staðreynd að í íslensku máli er orðið jeppi notað fyrir ákveðna tegund farartækja óháð tegundarheiti (eins og orðið bíll).\nFjórhjóladrifs farartæki eru ekki almennt ekki kölluð jeep, en jeppar í þeim skilningi sem við leggjum í það orð (þ.e. eins og málvenjan er í íslensku máli) urðu til fyrir daga Willys jeppans.\nSamkvæmt þinni skilgreiningu geta jeppar aðeins verið frá þessu eina fyrirtæki en það stríðir á móti málvenju í íslensku máli og telst því rangt.\nJHG"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 10:01:29",
+            "id": "533668",
+            "reply_to_id": "533667",
+            "text": "Fyrir utan það að fyrirtækið framleiðir fleiri jeppa en þennan “eina sanna” Jeep! Með því móti falla þau rök þín líka stakka."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-14 10:11:39",
+            "id": "533669",
+            "reply_to_id": "533668",
+            "text": "Heyrðu Stakka, hafðu þetta bara eins og þú vilt, það var gaman að þræta við þig samt.\nEf þú getur súmmerað rök þín saman þá svara ég þér. En ég get ekki verið skýrari en þetta.\nÞetta er sami vitleysan og sumir blaðamenn fara með þegar þeir tala um “fylki” í Bandaríkjunum, það er einfaldlega ekki rétt og mjög auðvelt að benda á þau rök, en þeir nota það bara samt, þeir geta ekki einu sinni varið sig með því að þetta sé málvenja.\nÉg er búin að þræta við það fólk í 10 ár."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 10:17:16",
+            "id": "533670",
+            "reply_to_id": "533668",
+            "text": "Já Willys var fyrstur til að framleiða Jeep. Já eiginleikar Willys mörkuðu nær öll þau tímamót sem jeppar urðu fyrir. Willys var brautriðjandinn af þessu öllu saman um eiginleika jeppans. Hann gerði hluti sem enginn annar bíll gat. Hann var frummynd jeppans.\n1940: Jeep specification issued."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 10:24:12",
+            "id": "533671",
+            "reply_to_id": "533670",
+            "text": "Leiðrétting á vilteysunni í ykkur.\nThe name jeep may have come from an attempt to pronounce the letters GP, but GP NEVER stood for “General Purpose” as so many sources state. In the Ford Parts Numbering System, G always referred only to a unit built for the Government and P referred only to an 80 inch wheelbase reconnaissance car. The “General Purpose” idea refuses to die in spite of proof positive to the contrary.\nOn page 44 of [3] the following is given:\n…other names were given to small quarter-ton 4x4 vehicles like “Bug”, “Midget”, “Peep”, “blitz Buggy”, “Quad” etc.\nThe frst prototype to be called a Jeep was built by Willys. Irving Hausmann the test driver of the Toledo company who drove the prototype to Holabird tells this story.\n“Soon after I arrived, Ford also sent their prototype to be tested so we had to distinguish between our vehicle and the Ford bacause I was not keen on having any confusion between the two models. I therefore, launched the name Jeep among the soldiers who were there at every opportunity I emphasiz- ed the name, which soon got around.”"
+        },
+        {
+            "user": "JHG",
+            "user_id": "17371",
+            "date": "2002-05-14 10:50:35",
+            "id": "533672",
+            "reply_to_id": "533671",
+            "text": "Leiðrétting á vitleysunni í þér!\n\"On page 44 of [3] the following is given:\n…other names were given to small quarter-ton 4x4 vehicles like “Bug”, “Midget”, “Peep”, “blitz Buggy”, “Quad” etc.\nThe frst prototype to be called a Jeep was built by Willys. Irving Hausmann the test driver of the Toledo company who drove the prototype to Holabird tells this story.\n“Soon after I arrived, Ford also sent their prototype to be tested so we had to distinguish between our vehicle and the Ford bacause I was not keen on having any confusion between the two models. I therefore, launched the name Jeep among the soldiers who were there at every opportunity I emphasiz- ed the name, which soon got around.”“\nÞetta er þveröfugt miðað við póstinn sem þú komst með áðan, þar sem POPEYE var eignuð nafngiftin. Hvort er rétt af þessum tveimur svörum hjá þér????\n”The name jeep may have come from an attempt to pronounce the letters GP, but GP NEVER stood for “General Purpose” as so many sources state. In the Ford Parts Numbering System, G always referred only to a unit built for the Government and P referred only to an 80 inch wheelbase reconnaissance car. The “General Purpose” idea refuses to die in spite of proof positive to the contrary. “\nEflaust eru skiptar skoðanir um þetta. En ÞÚ sjálfur ert margsinnis búin að tyggja að forsetinn hafi gefið út JEEP specification, var hann þá ekki bara að biðja um Government 80 tommu bíl? Eru þá allir bílar sem ekki eru með 80” wheelbase ekki jeppar? Þetta er líka þvert á það sem þú hefur áður sent inn. Þvert á meðal annars Jeep specification.\nGet you facts straight.\nGeneral Purpose var allavega líka notað yfir þessa bíla, það er staðreynd. Faðir minn er búin að vinna á vellinum síðan 1952. Þar var General Purpose notað um jeppa, jeppa sem voru allt í senn, skotpallar, flutningabílar, fólksbílar, sjúkrabílar o.s.frv = GP!"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-14 10:56:22",
+            "id": "533673",
+            "reply_to_id": "533672",
+            "text": "“1940: Jeep specification issued. sjáið\n1940-1941: Bantam build 2700 light 4x4s, early ”Jeeps“. sjáið\n1941-1945: Ford and Willys-Overland build 700,000 sjáið.\nÞetta útskyrir allt. Hvað ætlið þið að segja á móti þessu. ”\n1940 Jeep specification passar ekki, þar sem orðið varð ekki til fyrr en 1941 eins og þú bendir réttilega á sjálfur. SJÁÐU!\n“Bantam build 2700 light 4x4s, early ”Jeeps“” Þetta eru Jeppar líka er það ekki? SJÁÐU!\n“Ford and Willys-Overland build 700,000 sjáið.\n” Bæði Ford og Overland gerðu jeppa…. SJÁÐU!\nJeep framleiðir í dag þrjár gerðir af jeppum, er bara wranglerinn jeppi eða er hann kannski ekki lengur jeppi vegna þess að hann er ekki með 80\" wheelbase???\nÞú þarft að minna mig á hvað þú ert að reyna að sanna. Ég minnist þess að það hafi verið sú staðhæfing að Willys væri fyrsti og eini alvöru jeppinn, ekki satt?"
+        },
+        {
+            "user": "JHG",
+            "user_id": "17371",
+            "date": "2002-05-14 10:58:58",
+            "id": "533674",
+            "reply_to_id": "533672",
+            "text": "Vísa á fyrra svar, þetta hefur engin áhrif á noktun íslenska orðsins Jeppi.\nJHG"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 11:10:38",
+            "id": "533675",
+            "reply_to_id": "533672",
+            "text": "ojjojj Ertu sár að GP skuli ekki standa fyrir general pupose heldur sé þetta bara slangur.\nEkki fara að grenja.\nEn málið er bara svona eins og ég er búinn að sýna frammá og allir vita nema ÞÚ. Og samt þrjóskastu áfram er eins og ég er búinn að rökstyðja. Margar tegundir voru í gangi en aðeins ein tegund breytti heiminum. Reyndar var sagt í heimildum að hún hefði unnið heiminn (stríðið).\nEftir að þetta bíll reyndist svona vel þá var hann seldur útum allan heim og reyndist gríðarlega vel. Willys á sér stóran part í bílasögunni á Íslandi, bara sem dæmi. Og kannski ekkert síður en Ford T bíllinn. Samgöngurnar bættust til muna. Og það er nú bara svoleiðis að hinir hæfustu lifa.\nAnnars nenni ég ekki að vera að rökræða við órökræðuhæfa einstaklinga sem reyna einungis að véffengja sannanir í staðinn fyrir að koma með þær sjálfir.\nSvona einstaklingar eru fyrir í samfélaginu og reyna að finna einhverjar rökvillur og fléttur í öllum staðreyndum. Það er ekki hægt að fullorðinslega við svona fólk þar sem að það er alltaf fúllt á móti.\nNei glasið er ekki hálffullt það er hálftómt."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-14 11:23:56",
+            "id": "533676",
+            "reply_to_id": "533675",
+            "text": "“ojjojj Ertu sár að GP skuli ekki standa fyrir general pupose heldur sé þetta bara slangur.”\nÉg er ekki sár og hef enga ástæðu til þess, ég er kurteis og málefnalegur og hef bent þér á staðreyndir sem þú hefur ekki getað hrakið. Ég hef sömuleiðis sundurliðað þínar fullyrðingar og hrakið þær lið fyrir lið hér á undan. “ojjojj” bendir frekar til þess að þú sért sár:)\nÍ ORÐABÓK stendur að GP þýði General Purpose, sástu það kannski ekki? Það stendur svo sömuleiðis að “hugsanlega” sé átt við að notkun tækisins sem var hannað fyrir stjórnina með 80 tommu hjólhafi.\n“Ekki fara að grenja.”\nEr ekki alveg í lagi með þig?????\n“En málið er bara svona eins og ég er búinn að sýna frammá og allir vita nema ÞÚ.” (og JHG og reyndar flestir aðrir held ég sem kommentuðu hér).\n“ Og samt þrjóskastu áfram er eins og ég er búinn að rökstyðja.” (ég skil ekki þessa setningu)\n“ Margar tegundir voru í gangi en aðeins ein tegund breytti heiminum. Reyndar var sagt í heimildum að hún hefði unnið heiminn (stríðið).” Það var engin að deila um þetta var það? Allir vita að jeppinn átti stóran þátt í sigrinum á Þjóðverjum, Japönum og Ítölum. Það voru samt fleiri jeppar en Willys notaðir í stríðinu, meðal annars af andstæðingum þeirra.\n“Eftir að þetta bíll reyndist svona vel þá var hann seldur útum allan heim og reyndist gríðarlega vel. Willys á sér stóran part í bílasögunni á Íslandi, bara sem dæmi. Og kannski ekkert síður en Ford T bíllinn. Samgöngurnar bættust til muna. Og það er nú bara svoleiðis að hinir hæfustu lifa. ” Já það er rétt, þessvegna er ennþá til svona mikið af gömlum Landrover bílum!\n“Annars nenni ég ekki að vera að rökræða við órökræðuhæfa einstaklinga sem reyna einungis að véffengja sannanir í staðinn fyrir að koma með þær sjálfir. ” Ég er búin að sundurliða hérna á undan rök þín og svara þeim öllum! Þú hefur ekki gert það sama heldur ertu mjög misvísandi í tilvísunum. Ég hafði nú bara gaman af þræta við þig, en ég skal hætta ef þú vilt. Ég ætlaði ekki að særa þig neitt og bið þig því afsökunar ef þetta fór eitthvað fyrir brjóstið á þér.\n“Svona einstaklingar eru fyrir í samfélaginu og reyna að finna einhverjar rökvillur og fléttur í öllum staðreyndum. Það er ekki hægt að fullorðinslega við svona fólk þar sem að það er alltaf fúllt á móti. ” Það ert þú sem ert fúll;)\nNei glasið er ekki hálffullt það er hálftómt. (Hálffullt og hálftómt er það sama)."
+        },
+        {
+            "user": "JHG",
+            "user_id": "17371",
+            "date": "2002-05-14 11:25:26",
+            "id": "533677",
+            "reply_to_id": "533675",
+            "text": "“ojjojj Ertu sár…”\n“Ekki fara að grenja.”\n“Annars nenni ég ekki að vera að rökræða við órökræðuhæfa einstaklinga…”\n“Svona einstaklingar eru fyrir í samfélaginu…”\nÉg held að svona ummæli dæmi sig sjálf.\nJHG"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 10:42:20",
+            "id": "533678",
+            "reply_to_id": "533670",
+            "text": "“Já Willys var fyrstur til að framleiða Jeep. Já eiginleikar Willys mörkuðu nær öll þau tímamót sem jeppar urðu fyrir. Willys var brautriðjandinn af þessu öllu saman um eiginleika jeppans. Hann gerði hluti sem enginn annar bíll gat. Hann var frummynd jeppans.\n1940: Jeep specification issued.\n”\nEkki rétt. Willys voru ekki fyrstir til að framleiða jeppa eins og við höfum sýnt þér með bæði Benz og Gaz og hægt er að finna fleiri bíla.\nRétt. Willys voru fyrstir til að nota Jeep nafnið.\nJeep Specification issued getur ekki verið orðalag sem var notað 1940 þar sem þú lýstir því áðan að það hefði orðið til 1941. Orðalagið sem var notað var General Purpose Vehicle = GP. Það voru fleiri bílar en “Jeep” sem voru General Purpose Vehicles.\nÞetta eru þrjár leiðréttignar sem þú getur ekki hrakið."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 10:49:01",
+            "id": "533679",
+            "reply_to_id": "533678",
+            "text": "Vitleysa í þér GP stendur ekki fyrir General pupose.\nBenz var með all wheel drive. Alltaf sama og spykerinn og gerir það hann að jeppa. Hvort heldurðu að eiginleikar bensans hafi verið notaðir í jeppaþróun eða Willysinn.\nSendu mér linkinn af Daz bílnum"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 11:02:31",
+            "id": "533680",
+            "reply_to_id": "533679",
+            "text": "“Vitleysa í þér GP stendur ekki fyrir General pupose. ”\nJeep í enskri orðabók stendur fyrir eftirfarandi;\nJeep   Pronunciation Key  (jp)\nA trademark used for a civilian motor vehicle.\nOG\njeep   Pronunciation Key  (jp)\nn.\nA small, durable, general-purpose motor vehicle with four-wheel drive and a quarter-ton capacity, used by the U.S. Army during and after World War II.\n——————————————————————————–\n[Probably  pronunciation of the letters GP, designation for this vehicle in the manufacturer's parts numbering system  : G(overnment) + P, designator for 80-inch wheelbase reconnaissance car.]\nOG\njeep\nn : a car suitable for traveling over rough terrain [syn: landrover]\n(taktu eftir að syn: er Landrover (það er jeppi er það ekki?))\nÞað er miskilningur að GP hafi eingöngu staðið fyrir Government og 80\" wheelbase."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 11:13:26",
+            "id": "533681",
+            "reply_to_id": "533680",
+            "text": "“a car suitable for traveling over rough terrain”\nþetta er semsagt það sem jeep þýðir. Þetta er úr enskri orðabók og miðað við þetta eru allir þeir bílar sem við höfum bent á, Benz, Gaz og Spyker t.d. jeppar, sömuleiðis Land Rover og þetta er ekki á nokkurn hátt hægt að deila um."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 11:22:05",
+            "id": "533682",
+            "reply_to_id": "533681",
+            "text": "Já þú hættir ekki. Ford T hlýtur þá að vera jeppi líka. Og líka lancerinn minn þegar að ég fer ekkert mjög góðan veg. Því að hver skilgreinir sitt Rough á sinn hátt.\nFarðu undir feld og pældu í þínum jeppum fyrir Willys og þínum jeppum eftir willys.\nÞví að ég nenni ekki að rífast við grjót.\nZIBIT!"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 11:28:27",
+            "id": "533683",
+            "reply_to_id": "533682",
+            "text": "Bara svo að þú vitir það var GAZ vörubíll þangað til 1943. Þegar að þeir minnkuðu loks bílinn og gerðu hann að jeppa."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 11:35:55",
+            "id": "533684",
+            "reply_to_id": "533683",
+            "text": "Ef menn lesa svarið þitt þarna þegar að þú varst volandi með GP = general purpose sem reyndist svo ekki vera það sem GP stæði fyrir heldur væri slangur. Seinna vitnar þú svo í enskaorðabók sem segir bara að þetta slangur hafi verið notað svo mikið að þeir urðu að láta það í orðabók. En það stóð ekki fyrir general purpose.\nP.s. Ég er bara að stríða þér til að æsa þig enn meira upp svo að þú getur látið meiri vitleysu koma útúr þér."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 11:41:03",
+            "id": "533685",
+            "reply_to_id": "533684",
+            "text": "“P.s. Ég er bara að stríða þér til að æsa þig enn meira upp svo að þú getur látið meiri vitleysu koma útúr þér.”\nÞað virðist ekki vera að virka hjá þér er það?\nÞú hefur tekið allan tilfinningaskalann hérna…. þú hefur ekki fengið neitt öðruvísi viðbrögð frá mér.\nGP= stendur fyrir General Purpose vehicle, það er staðreynd. Eins og hefur marg komð fram.\nSvo má líka bara benda á eins og þú sagðir að þetta hér er fyrsti jeppinn miðað við þína skilgreiningu;\nhttp://ourworld.compuserve.com/homepages/jeep_man/bantam.htm\nWillys  er því ekki einu sinni fyrsti jeppin, þar sem Bantam er sá fyrsti.\nOg bentu nú mér á einhverja vitleysu sem ég hef sagt."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 11:46:37",
+            "id": "533686",
+            "reply_to_id": "533685",
+            "text": "Þú ert nú þvílíkt búin að mála þig út í horn stakka og málningin er ennþá blaut (þornar sennilega ekki fyrr en þú viðurkennir að Willys hafi ekki verið fyrsti jeppinn, og að Willys sé ekki hinn eini sanni jeppi)\n“Despite over 50 years having passed, many people are still able to recognise a WW2 jeep, most referring to it simply as a ‘Willys’. It is likely that they therefore also believe that the ubiquitous jeep with its unmistakable grille must have been conceived, designed and built by Willys Overland but the reality is somewhat different. It actually owes its existence to the American Bantam Car Company and the genius of Karl K Probst. The story goes like this:”\nÖll sagan er hér:\nREAD all about it!\nhttp://ourworld.compuserve.com/homepages/jeep_man/bantam.htm\nOg  hér er smá skemmtileg tilvitnun úr greininni.\n“Trials continued into the Winter of 1940 and should have resulted in an outright winner. The Bantam GPV (General Purpose Vehicle) had been delivered on time and met the specification in most respects. It performed well bearing in mind the nature of prototypes and minor defects were soon corrected. It also had many recognisable features of the later standardised jeep”"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-14 11:51:49",
+            "id": "533687",
+            "reply_to_id": "533686",
+            "text": "Willys fékk hönnunina semsagt gefins og stálu grillinu frá FORD, ég er eiginlega búin að missa álitið á Willys (fyrirtækinu) ekki tækinu sjálfu samt."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 11:56:16",
+            "id": "533688",
+            "reply_to_id": "533686",
+            "text": "Hvað er ég búinn að vera að reyna að segja og þú ert núna loksins að taka eftir þessu. Willys og bantam eru eini og sami bíllinn endurbættur.\nOg þú þykist vera alveg feiknarlega gáfaður er það ekki???\nMamma þín verður svo stollt af þér.\nNúna ertu búinn að fara af spyker af bens af gaz og kominn á Willys!\nHvert ætlarðu næst?? landcruiser. ??"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 11:59:21",
+            "id": "533689",
+            "reply_to_id": "533688",
+            "text": "Bantam er fyrirrennari Willys. Það er ekki sami bíllin duh!\nÉg stend við fyrr tillögur um eldri jeppa, ég var bara að benda þér á að fullyrðing þín um að willys væri fyrsti alvöru jeppin stæðist ekki. O svo tók ég það SÉRSTAKLEGA fram að miðað við ÞÍNA skilgreininga (ekki mína) þá væri bantam fyrsti alvöru jeppinn, ekki willys. Ég er allavega nógu gáfaður til að skilja það sem ég les."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 12:05:06",
+            "id": "533690",
+            "reply_to_id": "533689",
+            "text": "Það eru þín orð ekki mín, ég efast stórleg um það.\nVegna þess að ég er með sannanir fyrir framan mig kannski ætti maður að láta þær núna fram eða leyfa þér að lifa í voninni.\nHvað á ég að gera??"
+        },
+        {
+            "user": "Mal3",
+            "user_id": "5739",
+            "date": "2002-05-14 12:25:25",
+            "id": "533691",
+            "reply_to_id": "533690",
+            "text": "Move in for the kill!"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-14 12:31:31",
+            "id": "533692",
+            "reply_to_id": "533691",
+            "text": "Þessi sem er þriðju neðstu myndinni er frá 1939, og hann er óumdeilanlega jeppi.\nhttp://ourworld.compuserve.com/homepages/Jeep_Man/hotchkis.htm"
+        },
+        {
+            "user": "Mal3",
+            "user_id": "5739",
+            "date": "2002-05-14 13:26:55",
+            "id": "533693",
+            "reply_to_id": "533691",
+            "text": "Ég er ekki alveg viss hvað stakka er að rífast um lengur. Byrjaði það á því að Jeep væri eini alvöru jeppinn en færðist í það að bíla líkir Jeep væru einu alvöru jepparnir? Svo byrjaði það á því að Willys Jeep (Gp whatever) væri fyrsti jeppinn en er víst ekki lengur heldur annar bíll sem keppti um sama samning en Wyllis notaðu sem undirstöðu fyrir sinn bíl?\nFascinating all. Ég hafði alltaf haldið að Willys væri fyrsti jeppinn. En þá kemur bara í ljós að hann er fyrsta tækið sem populariserar hugmyndina.\nÞað væri kannski hægt að líkja þessu við sjálfvirkar skammbyssur; Mauser C96 var ekki sú fyrsta en nógu góð og praktísk hönnun til að hugmyndin yrði viðtekin…"
+        },
+        {
+            "user": "JHG",
+            "user_id": "17371",
+            "date": "2002-05-14 14:03:55",
+            "id": "533694",
+            "reply_to_id": "533693",
+            "text": "Mér skilst að Blazerinn sé ekki jeppi (í besta falli eftirlíking), ekki er hann trukkur (þar sem að hann er ekki vörubíll og nær ekki ca. 4 tonnum) og verð ég því að álykta að þetta 2,3 tonna farartæki sem þannig háttar um að er með fjórhjóladrif (á öllum fjórum) og á 38\" dekkjum sé að öllum líkindum fólksbifreið.  :)\nÉg þarf því ekki að taka það til mín ef það er verið að röfla um notkun á jeppum á götum Reykjavíkur, það á aðeins við um Willys.  Þar af leiðandi er Willys eina drápstækið svo ég noti hugtak sem hefur komið hér fram þar sem að jeppar eru drápstæki (að mati stakka).\nÉg skil nú samt ekki hvað menn eru þá alltaf að kvarta yfir þessum jeppum, það eru nú ekki það margir Willysar eftir að menn þurfi að vera að kvarta yfir þeim ;)\nJHG"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-14 14:07:51",
+            "id": "533695",
+            "reply_to_id": "533694",
+            "text": "Hehehehe. Já.\nÞessir 14 jeppakallar á landinu koma óorði á okkur hina á 38\" fólksbílunum.\nÉg nenní nú ekki að vera að þræta bara til að ná 200 svörum. Ef það er eitthvað point í því þá held ég áfram."
+        },
+        {
+            "user": "Mal3",
+            "user_id": "5739",
+            "date": "2002-05-14 14:17:36",
+            "id": "533696",
+            "reply_to_id": "533694",
+            "text": "LOL!\nJæja, hvað var nú fyrsti sportbíllinn? :D"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 14:20:02",
+            "id": "533697",
+            "reply_to_id": "533696",
+            "text": "Tomsenbíllinn!!!"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 14:24:10",
+            "id": "533698",
+            "reply_to_id": "533697",
+            "text": "En það er hinsvegar eitt sem ég græddi á þessu og sé ekki eftir því. Man ekki hver kom fyrst með Spykerinn, en þið munið ekki sjá eftir þessari síðu:\nhttp://www.spykercars.nl/home.htm\nUrrrr lotus elise hvað. Má ég fá mér einn svona!!!"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 14:33:45",
+            "id": "533699",
+            "reply_to_id": "533698",
+            "text": "Bebe: þú hefur sko ekkert sundurliðað og svarað mínum rökum með málefnanlegum svörum. Þú notar fléttur ekkert ósvipað og Sókrates gerði. Og það eru alls ekki skýr og skilmerkileg svör.\nNei þetta kallast víst málaflækjur.\n(verð  að ná þessu í 200)"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-14 14:43:27",
+            "id": "533700",
+            "reply_to_id": "533699",
+            "text": "WHAT???\nÞú þekkir ekki nógu vel til heimspekinnar.\nÉg er að reyna að vera eins skýr í orðavali og hægt er.\nHvað er að þessu nákvæmlega, og hverjar eru flækjurnar?"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-14 14:56:16",
+            "id": "533701",
+            "reply_to_id": "533700",
+            "text": "Þú gætir t.d. tekið svörin mín við svörunum þínum og sagt mér leiðrétt Sókratísku aðferðina mína…."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 14:47:07",
+            "id": "533702",
+            "reply_to_id": "533699",
+            "text": "Ég vil líka meina að Willys hafi haft mikið fyrir suma framleiðendur að segja. T.d. er þessi landrover ekkert ósvipaður\nhttp://4wd.sofcom.com/LandRover/Series/S1.html\ngettu hvað ég fann í textanum fyrir ofan myndina :). The first prototype Land-Rovers (1947) were actually built on Jeep chassis. The bodywork was made of an aluminium alloy called Birmabright [1,2].\nAhamm rétt hjá mér.\nhérna er svo toyotan hún er mjög líka upphaflega Willys\nhttp://www.toyotalandcruisers.com/info/cruisers/1951.html"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 15:00:13",
+            "id": "533703",
+            "reply_to_id": "533702",
+            "text": "Og Jeep grindin var upprunalega byggð á tækningum frá Bantam!\nFrumgerðin var byggð á Jeep chassis, það stendur ekki að framleiðslugerðin hafi verið byggð á þeirri grind."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 15:03:51",
+            "id": "533704",
+            "reply_to_id": "533703",
+            "text": "Ohhh þú ert erfiður."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 15:05:39",
+            "id": "533705",
+            "reply_to_id": "533704",
+            "text": "Sömuleiðis!\nÞetta var kompliment;)"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 15:16:13",
+            "id": "533706",
+            "reply_to_id": "533705",
+            "text": "En hefur þú heyrt brandarann um muninn á Landrover og Landcruiser.\nÞað var þannig að Landrovermenn voru að skoða nýja Landcruiserinn og voru að dást að honum hvað hann væri vel þéttur. Jæja þeir mútuðu einum yfirmanni Toyotu. Hvernig lokaprófið færi fram. Toyotu maðurinn sagði þeim það að þeir létu kött vera yfir nótt í bílnum og ef hann væri dauður daginn eftir þá væri bíllinn nógu þéttur. Landrovermenn prófuðu þetta og þegar að þeir komu dagii eftir að athuga köttinn. Þá var kötturinn farinn.\nWillys er allavega betur þéttur en gamli Landroverinn. ;)"
+        },
+        {
+            "user": "ih8",
+            "user_id": "13956",
+            "date": "2002-05-14 15:20:14",
+            "id": "533707",
+            "reply_to_id": "533706",
+            "text": "hehehehe, þessi var nokkuð góður!\nErum við sammála þá um að vera ósammála?\nEigum við kannski að snúa okkur að fyrsta sportbílnum;)"
+        },
+        {
+            "user": "ih8",
+            "user_id": "13956",
+            "date": "2002-05-14 15:27:48",
+            "id": "533708",
+            "reply_to_id": "533707",
+            "text": "181 down and 19 to go…\nHvað eruð þið orðnir þreittir?"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 15:27:57",
+            "id": "533709",
+            "reply_to_id": "533707",
+            "text": "Já ég segji að það sé spyker."
+        },
+        {
+            "user": "JHG",
+            "user_id": "17371",
+            "date": "2002-05-14 15:52:04",
+            "id": "533710",
+            "reply_to_id": "533709",
+            "text": "Algjörlega ósammála (við erum alveg að ná 200 ;)\nJHG"
+        },
+        {
+            "user": "JHG",
+            "user_id": "17371",
+            "date": "2002-05-14 15:58:08",
+            "id": "533711",
+            "reply_to_id": "533710",
+            "text": "Ég hef nú engar áhyggjur á að við náum ekki 200! ;)\nOK, hvað er fyrsti SPORTJEPPINN???"
+        },
+        {
+            "user": "JHG",
+            "user_id": "17371",
+            "date": "2002-05-14 16:05:07",
+            "id": "533712",
+            "reply_to_id": "533711",
+            "text": "Lada Sport :)"
+        },
+        {
+            "user": "JHG",
+            "user_id": "17371",
+            "date": "2002-05-14 16:06:31",
+            "id": "533713",
+            "reply_to_id": "533712",
+            "text": "hehehe, það liggur kannski í nafninu.\nHvað með Wrangler?"
+        },
+        {
+            "user": "JHG",
+            "user_id": "17371",
+            "date": "2002-05-14 16:24:20",
+            "id": "533714",
+            "reply_to_id": "533713",
+            "text": "Það er eins og mig rámi í að Willys (milli 60-70)með Buick vél hafir verið presenteraður sem sportjeppi í USA.\nMér var sagt frá þessum bíl fyrir fjölda ára en hef ekki kynnt mér hvort þetta sé rétt eða ekki.\nJHG"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 17:23:18",
+            "id": "533715",
+            "reply_to_id": "533714",
+            "text": "Svartur Willys ´55 á krómfelgun og veltigrind úr krómi, svört leðursæti og krómstuðara og V8. AAAAAGGGWWW. *SLEF*"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 17:26:40",
+            "id": "533716",
+            "reply_to_id": "533715",
+            "text": "HAHAHAHA Ég náði þér loksins bebecar.\nhttp://detnews.com/joyrides/2001/jeep/\nVÚHÚ!!!!!\nÚjé ég vissi það og nú þarf ég ekki að kyngja neinu."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 17:29:04",
+            "id": "533717",
+            "reply_to_id": "533716",
+            "text": "Hey haldiði bara ekki að ég hafi slegið tvær flugur í einu höggi með þessu. Neðar á síðunni er svo fyrsti sport jeppinn.\nAð ég held, reynið að finna eldri jeppa."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 18:29:45",
+            "id": "533718",
+            "reply_to_id": "533717",
+            "text": "Hello?\nhello * hello * hello *\n*bergmál*"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 18:32:14",
+            "id": "533719",
+            "reply_to_id": "533718",
+            "text": "Já helvíti tók ég bebe núna í gegn. Willys rúlar hann var fyrstur og bestur í öllu.\njæja þá er bara að ná þessu í 200.\nallt undir mér komið."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 18:34:23",
+            "id": "533720",
+            "reply_to_id": "533719",
+            "text": "Já já og síðan bara tók willys þetta í gegn stóð sig vel þarna í lokin. Og hélt sæmd sinni og virðingu."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 18:35:02",
+            "id": "533721",
+            "reply_to_id": "533720",
+            "text": "6"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 18:35:37",
+            "id": "533722",
+            "reply_to_id": "533721",
+            "text": "5"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 18:36:12",
+            "id": "533723",
+            "reply_to_id": "533722",
+            "text": "4"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 18:36:45",
+            "id": "533724",
+            "reply_to_id": "533723",
+            "text": "3"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 18:37:22",
+            "id": "533725",
+            "reply_to_id": "533724",
+            "text": "2"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 18:38:28",
+            "id": "533726",
+            "reply_to_id": "533725",
+            "text": "1\nvúhú 200 ég náði þessu víííí\nWillys RÚLAR!! ;)"
+        },
+        {
+            "user": "ih8",
+            "user_id": "13956",
+            "date": "2002-05-14 19:06:51",
+            "id": "533727",
+            "reply_to_id": "533726",
+            "text": "Til hamingju með áfangann stakka!\nAnnars myndi ég halda að Willys sé frekar valtur bíll, miðað við hæð, breidd og mjúka fjöðrun…soddan dauðagræja…"
+        },
+        {
+            "user": "ih8",
+            "user_id": "13956",
+            "date": "2002-05-14 21:44:01",
+            "id": "533728",
+            "reply_to_id": "533716",
+            "text": "Þú náðir ekki neinu, við vissum þetta fyrir, Jeep bar sigurorð af Bantam, en notaði þeirra hönnun. nafnið er greinilega General purpose miðað við þetta. Þú þarft að kyngja öllu marr!"
+        },
+        {
+            "user": "ih8",
+            "user_id": "13956",
+            "date": "2002-05-14 21:46:03",
+            "id": "533729",
+            "reply_to_id": "533728",
+            "text": "Og þú hefðir aldrei komist í 200 nema vegna þess að ég er svo þver;)"
+        },
+        {
+            "user": "ih8",
+            "user_id": "13956",
+            "date": "2002-05-14 23:35:57",
+            "id": "533730",
+            "reply_to_id": "533729",
+            "text": "Guð forði nokkrum manni frá því að loada þessu á módemi;)"
+        },
+        {
+            "user": "JHG",
+            "user_id": "17371",
+            "date": "2002-05-15 08:07:04",
+            "id": "533731",
+            "reply_to_id": "533730",
+            "text": "Er ekki stefnan sett á 300 ;)\nJHG"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-15 08:09:13",
+            "id": "533732",
+            "reply_to_id": "533730",
+            "text": "Willys með mjúka fjöðrun það hef ég nú ekki séð.\nEina fjöðrunin í Willys er í stætunum. Ef maður fer yfir mishæðir þá er maður hoppandi og skoppandi í gormasætunum. Þú getur meira að segja staðið á stuðaranum sem er reyndar grindin líka og hoppað á henni og bíllinn haggast ekki. Þannig að þessi mjúka fjöðrun er ekki til. Allavega ekki í 1955 módelinu hjá pabba."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-15 08:10:34",
+            "id": "533733",
+            "reply_to_id": "533732",
+            "text": "Nei ég tapaði ekki. Seinasti bíllinn bjargaði mér. :)"
+        },
+        {
+            "user": "Partytruck",
+            "user_id": "16082",
+            "date": "2002-05-16 00:36:25",
+            "id": "533734",
+            "reply_to_id": "533733",
+            "text": "Eigiði ekkert líf!!!!\nEf þú ætlar að standa á bakvið þessa hringavitleisu þína stakka þá verður niðurstaðan sú að það eina sem verður staðfest fyrst hérna er heilinn þér sem fyrsti algjörlega ÓNOTAÐI heilinn.\nÞú ert búinn að skjóta þig svo oft í kúplingsfótinn að þú þarft að setja sjálfskiptingu í lancerinn og þriðja pústið til að fá kraft á móti því sem að skiptingin stelur.\nHættu þessu bulli það eru 4 á móti þér sem eru búin að koma með haldbær rök á móti vitleisuni í þér sem er orðið nokkuð ljóst á þínu eigin orðum að þú getur talað endalaust um hluti sem þú veist ekkert um og lætur það líta út fyrir að þú hafir vit á þeim.\nLegg til að við komum með nýjan þráð sem heitir “2-falt púst í I-4 vél….What's the fucking point”"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-16 09:27:05",
+            "id": "533735",
+            "reply_to_id": "533734",
+            "text": "Farðu aftur í stafsetningarkennslu. Talar þú um whats the point. Sama segji ég upp jeppaeign.\nJá fjórir á móti einum og þið voruð ekki að ná mér eini maðurinn sem gat svarað mér að viti var Bebecar. Og á hann hrós skilið en t.d. þú gerðir ekkert og færð því ekkert af þessum heiðri.\nÞað þýðir lítið að horfa á húsið byggjast og segjast svo hafa byggt það."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-16 10:23:44",
+            "id": "533736",
+            "reply_to_id": "533735",
+            "text": "JHG kom einnig sterkur inn en skrifaði ekki eins mikið af svörum og Bebecar.\nHinsvegar allt sem að þú komst með náði ég að hrekja í burtu eins og með spykerinn sem er fólksbíll með aldrif. Og svo líka Bensinn sem er með 4x4 sídrif. Gaz bíllinn sem var vörubíll.\nEini bíllinn sem var vafamál var Bantam. En við skulum segja að hann hafi unnið orustuna en Willys vann stríðið. Sumt af Willys var byggt á Bantam. Og þú sérð það að Bantam bíllinn kom bara einu ári á undan Willys samkvæmt\nhttp://4wd.sofcom.com/A/History.html\nen samkvæmt öðrum heimildum er þessi bíll fyrsti herjeppinn og hann kom út 1940 hérna er linkur til að sanna það mál\nhttp://detnews.com/joyrides/2001/jeep/.\nÞá semsagt er bæði dregið í efa hvort Bantaminn sé fyrsti jeppinn útaf því að þessir tveir bílar komu út sama árið og einnig er þetta fyrsti herjeppinn sem dregur þá það líka í efa að Bantaminn hafi verið fyrsti herjeppinn.\nJámm þetta er vafamál."
+        },
+        {
+            "user": "Partytruck",
+            "user_id": "16082",
+            "date": "2002-05-16 11:05:38",
+            "id": "533737",
+            "reply_to_id": "533736",
+            "text": "not again!!!!!! :)"
+        },
+        {
+            "user": "Partytruck",
+            "user_id": "16082",
+            "date": "2002-05-20 23:07:58",
+            "id": "533738",
+            "reply_to_id": "533737",
+            "text": "Skilgreindu orðið “jeppi”"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-14 15:52:32",
+            "id": "533739",
+            "reply_to_id": "533709",
+            "text": "Ég hef ekki hugmynd um hver fyrsti sportbíllinn er, ekki einu sinni í víðtækastu merkingu þess orðs. Ég myndi þó sennilega giska á Morgan, eða Bentley eða eitthvað í þessum dúr, Fiat jafnvel."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-14 14:39:32",
+            "id": "533740",
+            "reply_to_id": "533698",
+            "text": "Verulega flottir þessir nýju spyker bílar….. stakka játaðu þig sigraðan og skrifaðu grein um spyker, þennan sem framleiddi fyrsta jeppann og svo mesta ofursportbílinn;)"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-14 12:45:06",
+            "id": "533741",
+            "reply_to_id": "533690",
+            "text": "vera aðeins kurteisari stakka, það tekur enginn mark á bullinu í þér þegar þú ert alltaf svona heiftrækinn og dónalegur.\nFarðu bara og bættu við þriðja pústinu undir Lancerinn þinn…."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-14 12:56:41",
+            "id": "533742",
+            "reply_to_id": "533741",
+            "text": "Hér er Gaz 61 síðan 1939.\nhttp://www.angelfire.com/games/russmodel/jeepi\nmages/g61openres.jpg"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-14 11:30:43",
+            "id": "533743",
+            "reply_to_id": "533682",
+            "text": "Vertu ekki svona fúll. Við erum bara diskútera! Ég skal hætta ef þú vilt, ekki málið. Ég var nú bara að þessu vegna þess að mér þótti gaman að þessu, en þetta er óþarfi ef ég reiti þig til reiði. Þú mátt halda það sem þú vilt. Fyrirgefðu!"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 10:25:44",
+            "id": "533744",
+            "reply_to_id": "533668",
+            "text": "Já Willys var fyrstur til að framleiða Jeep. Já eiginleikar Willys mörkuðu nær öll þau tímamót sem jeppar urðu fyrir. Willys var brautriðjandinn af þessu öllu saman um eiginleika jeppans. Hann gerði hluti sem enginn annar bíll gat. Hann var frummynd jeppans.\n1940: Jeep specification issued. sjáið\n1940-1941: Bantam build 2700 light 4x4s, early “Jeeps”. sjáið\n1941-1945: Ford and Willys-Overland build 700,000 sjáið.\nÞetta útskyrir allt. Hvað ætlið þið að segja á móti þessu.\nEarliest printed usage of the word ‘jeep’:\nAccording to [1] p.43 (quoted v.):\nA feature story written by Katherine Hillyer and published on 16 March 1941 in the Washington Daily News called the 1/4 ton 4x4 a jeep. It was never called anything else thereafter.\nTakið eftir árinu sem þessi grein kemur út 1941. Þá var prototýpan að hverfa og Willys að koma.\nMálið með prótótýpuna var að hún reyndist illa og Willys og Overland tóku við og breyttu hönnuninni sérstaklega gert fyrir herinn til að standast mjög strangar kröfur sem herinn ætlaðist til af þeim."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 10:35:43",
+            "id": "533745",
+            "reply_to_id": "533744",
+            "text": "Jæja þið þegið bara. ÞEGIÐI ÞÁ!!!\n:)))"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-14 10:00:05",
+            "id": "533746",
+            "reply_to_id": "533666",
+            "text": "Þú ert bara búin að gleyma hvað þú sagðir. Þú sagðir að Willys væri eini alvöru jeppinn. Allar staðreyndir og þínar eigin meira að segja líka segja að svo sé ekki.\nJeep er skrásett vörumerki, jeep er hinsvega notað um margskonar bíla. Þú reynir ekki að hrekja það sem ég hef sagt heldur kemur bara með tilvitnanir úr greinum sem segja það sama og ég sagði. Ég útskýrði upprunalega fyrir þér tilurð orðsins sem þú hafðir greinilega ekki hugmynd um, þó svo að þú hafi fundið út að þetta sé komið frá Popeye teiknimyndaseríunni þá staðfestir það bara mál mitt, þar sem ég sagði að þessi orðnotkun hefði ekki komið til fyrr en eftir 1940, ekki við tilskipun forsetans um hönnum á GP.\nHvað ertu að reyna að segja annars?"
+        },
+        {
+            "user": "Mal3",
+            "user_id": "5739",
+            "date": "2002-05-14 13:03:36",
+            "id": "533747",
+            "reply_to_id": "533661",
+            "text": "Brilliant, djöfull var ég búinn að bíða eftir einhverju í þessa áttina.\nEkki að ég nenni að fara út í ræða þessa vitleysu ;)"
+        },
+        {
+            "user": "Mal3",
+            "user_id": "5739",
+            "date": "2002-05-14 13:22:37",
+            "id": "533748",
+            "reply_to_id": "533747",
+            "text": "Einhverju í hvaða átt?\nMér finnst alveg stórgaman að þessari vitleysu. Jeppar eru nú bílar líka;) eða hvað?????"
+        },
+        {
+            "user": "Mal3",
+            "user_id": "5739",
+            "date": "2002-05-14 13:28:58",
+            "id": "533749",
+            "reply_to_id": "533748",
+            "text": "Farðu í fyrra álit sem svarið er við og þá útskýrist þetta allt."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 13:44:38",
+            "id": "533750",
+            "reply_to_id": "533747",
+            "text": "The Bantam Car Company won the opening round of the contest to satisfy the US army's 1940 specification for a light four wheel drive but Willys Overland won the battle and, some would say, the war. To ensure supply in war-time the Army decided on a second supplier - Ford. Between 1941 and 1945 Willys and Ford built about 700,000 of the vehicle.\nBecause of the powerful engine and the enourmus handlingability. The Willys was concidered the jeep. Because of this the Bantam is nearly forgotten. And because the people loved it to death. Because of the jokes they made of the car.\nFollowing these deliveries the Army had an ‘all or nothing’ shoot out. Since the weight limits had been raised so dramatically the Ford now appeared underpowered and the Willys larger engine which had prevented it from success in the past, now became an asset. Hell, everyone loves horsepower, and if you ask a GI not responsible for logistics and gas consumption etc. of course they will go for the hot rod, which they did. Willys got the nod for the whole 16,000. As noted, by now the specs had ballooned to 2400-lbs, putting the Bantam at a horsepower disadvantage having been designed to the original spec's (although there is nothing on the record saying the Bantam was underpowered). Understandably the Army wanted Jeeps with interchangeable parts, hence the all or nothing contract (which was of course changed once Bantam was boiled out of the equation - all of a sudden it became desirable to have two producers - Ford, ignominiously had to use Willys engines (hence the W on the GPW). After another small order of 1500 or so BRC's for the Russians (who BTW chose the Bantam having looked at all three), Bantam got shut out completely.\nBecause of the Willys the bantam lost their title to the jeep and were mainly called peep.\nThe lend to lease program made the Willys the jeep of the world reaching from Britain to Africa, Russia then Asia. Many companies saw the success of the jeep and made their own jeeps after the Willys. Britain made Landrover 1948, Japan made their Landcruiser 1951.\nThe Effect that Willys made on the world made the Willys the true jeep.\nWell, all's well that ends well - assuming your army has unlimited supplies of gasoline and the logistical ability to get it there the Willys went on to become the Jeep we all know and love, and more importantly, was one of the decisive weapons in the war."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-14 13:54:01",
+            "id": "533751",
+            "reply_to_id": "533750",
+            "text": "Mitt fyrsta innlegg var nú bara “my swarch is bigger than yours”.\nEn stakka fer bara um víðan völl.\nHvar eru þessar sannanir sem þú ætlaðir að koma með stakka? Eru þetta þær?\nÞessi síðasta grein er nú líka mjög lituð af einhverjum Willys aðdáanda.\nÞetta sannar ekkert með að willys hafi verið fyrsti jeppinn, bara að hann hafi náð fótfestu.\nMinntu mig á hvað við erum að þræta um stakka, ég er nefnilega ekki viss um að þú munir það lengur."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 13:57:04",
+            "id": "533752",
+            "reply_to_id": "533750",
+            "text": "jæja þá er það komið."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 13:58:32",
+            "id": "533753",
+            "reply_to_id": "533752",
+            "text": "það þýðir greinilega ekkert að ræða við blindan mann ;)\nviðurkenndu það bara."
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 14:00:20",
+            "id": "533754",
+            "reply_to_id": "533753",
+            "text": "Heyrðu eigum við að þræta uppí 200??\n:))"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 14:02:25",
+            "id": "533755",
+            "reply_to_id": "533754",
+            "text": "Við verðum að gera þetta að heitustu umræðunni!!!\nÞað er auglýsing fyrir bíla ;)"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 14:03:23",
+            "id": "533756",
+            "reply_to_id": "533753",
+            "text": "1. Staðreynd. Ég hef sundurliðað þín rök og svarað þeim, aftur og aftur.\n2. Þú hefur ekki svarað mínum rökum efnislega.\n3. Ergo, þú ert blindur.\n4. Ég er búin að gefa þér mörg tækifæri á að sundurliða mín rök og hrekja þau, þú hefur hinsvegar ekki gert það, eða ekki getað það.\nÞað er allt í lagi að viðurkenna að maður hafi rangt fyrir sér, og það hef ég gert hér á huga þegar ég hef farið með einhverja vitleysu. Svo er ekki núna, nema þú getir bennt mér á rangfærslur eða vitleysur.\nGefðu mér dæmi;)"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 14:14:41",
+            "id": "533757",
+            "reply_to_id": "533756",
+            "text": "Ok\nA: spyker er ekki jeppi, heldur 4wd keppnisbíll.\nB: DAZ er flutningarbíll, útaf því að hann er með pall og yfirbyggðum dúk sem einmitt flutningsbílar voru með.\nC: Benzinn er ekki með millikassa.\nD: Bantam var lélegur lítill jeppi og kraftlaus.\nE: Ég sagði aldrei að Landrover væri ekki jeppi.\nF: GP þýddi ekki upphaflega General Purpose og ég er búinn að sanna það. Þetta er slangur.\nG: Willis hefur haft mest að segja um þróun jeppa í heiminum.\nH: Það er ekki til franskur jeppi þannig að hotchcroft fellur bara um sjálfan sig. Einnig er þetta falsað, vegna þess að mínar heimildir staðfesta þetta ekki.\nI: Ég hef aldrei vitlaust fyrir mér, hinsvegar legg ég fram kenningar sem hljóma réttar en reynast svo vera rangar.\nEn upphaflega var ég bara að djóka með að Willys væri fyrsti jeppinn en það er samt ótrúlegt hvað maður veit mikið um hluti sem maður veit ekki um. ;)"
+        },
+        {
+            "user": "stakka",
+            "user_id": "1280",
+            "date": "2002-05-14 14:17:10",
+            "id": "533758",
+            "reply_to_id": "533757",
+            "text": "Ég var að meina að ég væri að grínast með þegar að ég sagði að Willys væri jeppi hitt væri allt eftirlíkingar.\nÞetta var mest til að espa upp jeppafólk. En samt furðurétt hjá mér. “eiginlega var þetta gert fyrir partytruck.”\nSammála?"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-14 14:31:53",
+            "id": "533759",
+            "reply_to_id": "533757",
+            "text": "Jæja, ef þú varst að grínast þá ertu nú furðu góður leikari í tilsvörum þar sem þú nærð kjafthættinum vel í örvæntingarsvörunum! Gott grín BTW:)\nA: spyker er ekki jeppi, heldur 4wd keppnisbíll. Spyker var líka með 4x4 jeppa.\nB: DAZ er flutningarbíll, útaf því að hann er með pall og yfirbyggðum dúk sem einmitt flutningsbílar voru með.\nHann heitir GAZ, ekki Daz, og hann var ekki flutningabíll, jeppi með húsi og alles. Finn bara ekki myndina af honum núna, en ég sendi hana um leið og ég finn hana.\nC: Benzinn er ekki með millikassa.\nWillys var ekki einu sinni alltaf fjórhjóladrifinn!\nD: Bantam var lélegur lítill jeppi og kraftlaus.\nSamt jeppi, ekki satt?\nE: Ég sagði aldrei að Landrover væri ekki jeppi.\nNei, þú sagðir bara að Willys væri eini jeppinn, ég dró því þá ályktun að þú teldir Landrover ekki vera jeppa.\nF: GP þýddi ekki upphaflega General Purpose og ég er búinn að sanna það. Þetta er slangur.\nÞú ert ekki búin að sanna það, þvert á móti. ÉG benti á það að í þessu tilfelli hefði “líklega” verið átt við Government og svo P fyrir 80\" wheelbase. Það breytir því ekki að áður en þetta orðalag kom til var General Purpose notað um samskonar bíla og þessvegna er það í orðabókinni undir þýðingu á jeep (með litlum stöfum). Þú misskildir þetta.\nG: Willis hefur haft mest að segja um þróun jeppa í heiminum.\nÞetta er ekki heldur rétt, því það er í raun Bantam sem hefur þá haft mest að segja í þróun jeppa í heiminum. Ég vil nú reyndar heldur meina að Landrover hafi haft meira að segja með þróun jeppa, t.d. er Range Rover byltingarkenndur bíll.\nH: Það er ekki til franskur jeppi þannig að hotchcroft fellur bara um sjálfan sig. Einnig er þetta falsað, vegna þess að mínar heimildir staðfesta þetta ekki.\nNú veit ég ekki hvað þú ert að vitna í hér… útskýrðu nánar.\nI: Ég hef aldrei vitlaust fyrir mér, hinsvegar legg ég fram kenningar sem hljóma réttar en reynast svo vera rangar.\nÞú hefur kannski ekki vitlaust fyrir þér, en gætir hugsanlega haft RANGT fyrir þér.\nHugsanlega getum við verið sammála um að Willys hafi verð fyrsti þekkti jeppinn. Hann hafði þó ekki sérstaklega mikil áhrif á aðra framleiðendur."
+        }
+    ]
+}

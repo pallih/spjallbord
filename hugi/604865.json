@@ -1,0 +1,85 @@
+{
+    "forum_title": "Linux",
+    "user": "silent1",
+    "user_id": "53952",
+    "date": "2008-07-28 03:47:52",
+    "title": "hjálp - get ekki tengst þráðlausu neti",
+    "text": "Ég er með mandriva og er að lenda í smá vanda með að tengjast þráðlaust á tölvunni. Núna er ég með kapal í tölvunni, en þar sem það er þráðlaust-netkort í tölvunni vildi ég nota það. Það virðist svo sum ekkert vera að, tölvan finnur alveg tenginguna, svo set ég inn wep lykilinn, svo læt ég hana tengjast, en ekkert gerist, ég fæ engin villu boð, og hún tengist ekki netinu. Ég er nokkuð viss um að það sé ekkert að netinu sjálfu, þar sem ég var með windows á tölvunni og var að tengjast þráðlaust, og aðrir í húsinu ná að tengjast þráðlaust.\nBætt við 29. júlí 2008 -  02:09\nStaðan er þessi: tölvan sér netkortið, það heytir wlan0. Ég get séð þráðlaus net á svæðinu. Ég get breytt stillingum fyrir þráðlaus net, s.s. setja inn wep lykil orð. En þegar ég ýti á “connect” hnappinn gerist ekkert.",
+    "url": "https://www.hugi.is/linux/korkar/604865/hjalp-get-ekki-tengst-thradlausu-neti/",
+    "url_id": "604865",
+    "id": "6018062",
+    "replies": [
+        {
+            "user": "silent1",
+            "user_id": "53952",
+            "date": "2008-07-28 13:13:10",
+            "id": "6018516",
+            "reply_to_id": "6018062",
+            "text": "Bíddu, sér linuxinn alveg þráðlausa kortið hjá þér? Ertu með firmware fyrir kortinu? Náðiru í firmware í gegnum “Restricted Drivers Manager” (forritið sem finnur firmware fyrir fullt að þráðlausum kortum)? Hvað segir\nifconfig\nog\niwconfig\n? Eru hinir í húsinu með Linux líka og geta tengst þráðlaust?\nÉg gæti hjálpað ef ég fengi góða vitneskju um hvað er að :)"
+        },
+        {
+            "user": "silent1",
+            "user_id": "53952",
+            "date": "2008-07-29 02:02:00",
+            "id": "6020222",
+            "reply_to_id": "6018516",
+            "text": "sko, staðan er sú að ég er einn með linux í húsinu. Tölvan finnur netkortið og það er kallað wlan0. Tölvan finnur þráðlaus net, ég get breytt stillingum fyrir þráðlaus net s.s. setja inn wep. En þegar ég ýti á “connect” hnappinn gerist ekkert."
+        },
+        {
+            "user": "dorg",
+            "user_id": "28480",
+            "date": "2008-07-28 13:16:04",
+            "id": "6018526",
+            "reply_to_id": "6018062",
+            "text": "opna terminal.\nskoðaðu\n/sbin/iwconfig\nskoðaðu\n/sbin/ifconfig\nEn sennilega er þetta bara að þú færð ekki dhcp úthlutun á þráðlausa netinu.\nPrófaðu\nsem superuser\ndhclient + nafnið á device sem kemur í iwconfig"
+        },
+        {
+            "user": "smeppi",
+            "user_id": "717",
+            "date": "2008-07-28 23:24:52",
+            "id": "6019918",
+            "reply_to_id": "6018062",
+            "text": "Veit ekki með Mandriva, en í Debian based gæti virkað:\nsudo ifconfig wlan0 up\nsudo iwconfig wlan0 set essid \"*NAFN-Á-ROUTER*\"\nsudo iwconfig wlan0 set key *WEP-LYKILL*\n[b]sudo dhclient wlan0[/b]\nGefið að wlan0 sé þráðlausa kortið. Ættir að fá upplýsingar um það með iwconfig skipuninni."
+        },
+        {
+            "user": "smeppi",
+            "user_id": "717",
+            "date": "2008-07-29 03:42:49",
+            "id": "6020291",
+            "reply_to_id": "6019918",
+            "text": "Kannski betra að gera bara sudo su- á undan öllu og sleppa sudo. Eða eitthvað, ég kann bara á ubuntu :p"
+        },
+        {
+            "user": "webbsterion",
+            "user_id": "56906",
+            "date": "2008-08-02 00:52:47",
+            "id": "6028073",
+            "reply_to_id": "6018062",
+            "text": "það er möguleiki að það sé routernum að kenna, ég er með þannig router að hann leyfir engum að tengjast nema mac addressan sé skráð inní hann. það koma engin villuskilaboð eða neitt, bara ekki hægt að tengjast….svo þegar maður er búinn að setja inn mac addressuna í routerinn þá virkar allt fínt."
+        },
+        {
+            "user": "Galdrakall",
+            "user_id": "41959",
+            "date": "2008-08-06 19:58:19",
+            "id": "6036841",
+            "reply_to_id": "6028073",
+            "text": "herðu, er með sama vandamál í ubuntu, fór í routerinn og fann þar mac filter og þar stendur active: no. þýðir það ekki að vandamálið er eitthvað annað?\nBætt við 6. ágúst 2008 -  21:27\nnevermind, þetta virkaði bara allt í einu stuttu eftir að ég sendi svarið… :S"
+        },
+        {
+            "user": "smeppi",
+            "user_id": "717",
+            "date": "2008-08-02 02:46:45",
+            "id": "6028265",
+            "reply_to_id": "6018062",
+            "text": "Þú ættir að prófa eitthvað annað forrit til þess að tengjast netinu, jafnvel text-based forrit í gegnum terminal eða eitthvað slíkt.\nHeld þú ættir að geta fundið tól sem heitir wireless-tools og jafnvel líka linux-wlan-ng í gegnum rpmdrake. Slærð bara inn rpmdrake í terminal, gætir þurft að vera root, eða finnur það einhversstaðar í menu.\nErt örugglega með driver sem virkar fyrst þú ert kominn með wlan0 :p"
+        },
+        {
+            "user": "Fosfatus",
+            "user_id": "49868",
+            "date": "2008-08-11 12:37:07",
+            "id": "6046481",
+            "reply_to_id": "6018062",
+            "text": "Er með sama vandamál á nýlegri toshiba tölvu  ég er als ekki tölvuglöggur en finst ubuntu mikið skiljanlegra en windows mitt þráðlausa netkort er:05:07.0 Ethernet controller: Realtek Semiconductor Co., Ltd. RTL-8139/8139C/8139 geðheilsa mín fer versnandi eftir endalausar tilraunir til að fá það til að virka lumar einhver á einfaldri lausn? gæti einhver snillingurinn bjargað þessu fyrir mig gegn greiðslu?"
+        }
+    ]
+}

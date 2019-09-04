@@ -1,0 +1,45 @@
+{
+    "forum_title": "Vefsíðugerð",
+    "user": "oddur",
+    "user_id": "150",
+    "date": "2001-03-01 00:57:23",
+    "title": "Vefviðmót á MSSQL, vantar beta testera ...",
+    "text": "MySql hefur phpMyAdmin sem vefviðmót á mig og lengi hef ég leitað að svipuðu kerfi fyrir mssql, en ekki fundið það, svo undanfarið hef ég verið að skrifa vefviðmót á Microsoft SQL server, og er kominn það langt að mig vantar orðið beta-testera á kerfið.\nKerfið er byggt upp á .asp skjölum þannig að það þarf IIS til að keyra, og svo auðvitað sql server, annað hvort á sömu vél eða ekki.\nMig vantar því 2-4 aðila sem hafa góða kunnáttu á asp og sql server til að prufa keyra kerfið með mér, og jafnvel hjálpa til við forritun. Áætlunin er að gefa svo kóðan opin, gegn GNU leyfi.\nKerfið, sem ekki hefur hlotið nafn ennþá, keyrir alveg sjálfstæt, þarf engar stored procedures eða sér töflur í grunni, og á að installast eingöngu með því að cópera þetta í vefrótina og keyra. allavega, ef þið hafið áhuga eða einhverjar spurningar, sendið mér póst á oddur@nulleinn.is.",
+    "url": "https://www.hugi.is/vefsidugerd/greinar/18153/vefvidmot-a-mssql-vantar-beta-testera/",
+    "url_id": "18153",
+    "id": "115872",
+    "replies": [
+        {
+            "user": "kjwise",
+            "user_id": "993",
+            "date": "2001-03-01 10:37:16",
+            "id": "115873",
+            "reply_to_id": "115872",
+            "text": "Lýst vel á þetta!"
+        },
+        {
+            "user": "svg",
+            "user_id": "330",
+            "date": "2001-03-01 13:04:08",
+            "id": "115874",
+            "reply_to_id": "115872",
+            "text": "Flottur!!!\nNú ætti maður kannski að fara að huga að því að henda upp SQL server hjá sér.\nLeyfðu okkur að fylgjast með hvernig gengur með prófanir.\nEinhver heimasíða í gangi hjá þér með þessu?"
+        },
+        {
+            "user": "Moose",
+            "user_id": "4615",
+            "date": "2001-03-01 14:11:50",
+            "id": "115875",
+            "reply_to_id": "115872",
+            "text": "Saell\nJa thad vaeri gaman ef thu gaetir gefid okkur meiri uppl. og maski vef thar sem vid getum leikid okkur :)\nAnnars hefdi verid gaman ad vera beta testari, en eg er thvi midur ekki med SQL server installed, nema bara i vinnunni.\nGangi ther vel\nMoose"
+        },
+        {
+            "user": "Titan",
+            "user_id": "7585",
+            "date": "2001-03-02 23:39:10",
+            "id": "115876",
+            "reply_to_id": "115872",
+            "text": "Geturðu hent upp vefsíðu um þettta :)"
+        }
+    ]
+}

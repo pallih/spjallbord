@@ -1,0 +1,101 @@
+{
+    "forum_title": "Windows",
+    "user": "Nugnar",
+    "user_id": "40949",
+    "date": "2009-04-25 10:17:35",
+    "title": "audiodg.exe að nota fáránlegt memory",
+    "text": "Ég keypti [urlhttp://www.tolvutek.is/product_info.php?cPath=103_106_110&products_id=19970] þessa tölvu [clickie] í gær, setti hana upp og allt gekk smooth. Svo um 12 leitið fór hún að vinna fáránlega mikið, ég tékkaði á task manager og sá að audiodg.exe var að nota 500.000K í memory. Ég restartaði tölvunni og þá fór þetta niður í einhver 20 og stable þar.\nNúna í morgun kveikti ég á henni, og tölvan gekk ágætlega. Svo eftir smá tíma fann ég að hún var farin að vinna mikið aftur. Tékkaði task managerinn og þá var audiodg.exe aftur efst, með 90.000K. Það var fyrir háfltíma sem ég tékkaði, núna erþ etta búið að vaxa uppí 170.000K.\nHvað er þetta, hvað get ég gert?\nBætt við 25. apríl 2009 -  10:23\nohhh, fail link.\nhttp://www.tolvutek.is/product_info.php?cPath=103_106_110&products_id=19970",
+    "url": "https://www.hugi.is/windows/korkar/653672/audiodgexe-ad-nota-faranlegt-memory/",
+    "url_id": "653672",
+    "id": "6641001",
+    "replies": [
+        {
+            "user": "Nugnar",
+            "user_id": "40949",
+            "date": "2009-04-25 10:19:59",
+            "id": "6641003",
+            "reply_to_id": "6641001",
+            "text": "ég er btw ekki með neitt opið nema msn og firefox."
+        },
+        {
+            "user": "Crymo",
+            "user_id": "76595",
+            "date": "2009-04-25 13:26:52",
+            "id": "6641197",
+            "reply_to_id": "6641001",
+            "text": "Success! Unchecking “Enable Audio enhancements” within the device properties has solved it completely. Seems it a bit pointless having an X Fi it all is does is output the sound and I can't control it at all, but still, atleast I can use the computer now.\nThankyou all for your help. One last bit, can someone explain why Xtreme Music is no longer listed on the Creative Website for driver downloads. Which one should I use, nearest I guess is the X Fi Platinum.\nlæra á google :)"
+        },
+        {
+            "user": "Myndarlegur",
+            "user_id": "34366",
+            "date": "2009-04-27 20:23:04",
+            "id": "6645914",
+            "reply_to_id": "6641001",
+            "text": "Hvernig væri að hringja í fyrirtækið sem þú keyptir tölvuna hjá? Ótrúlegt…"
+        },
+        {
+            "user": "Selshamur",
+            "user_id": "19356",
+            "date": "2009-04-28 18:49:25",
+            "id": "6647794",
+            "reply_to_id": "6645914",
+            "text": "Fyrirtækið tekur enga ábyrgð á hugbúnað, svo að þeir þurfa svosem ekkert að gera."
+        },
+        {
+            "user": "Myndarlegur",
+            "user_id": "34366",
+            "date": "2009-04-28 19:29:46",
+            "id": "6647894",
+            "reply_to_id": "6647794",
+            "text": "Ef eitthvað fyrirtæki myndi segja þetta við mig myndi ég láta þá heyra það, og væntanlega aldrei koma þangað aftur.\nFyrirtæki vilja viðskiptavini…"
+        },
+        {
+            "user": "Selshamur",
+            "user_id": "19356",
+            "date": "2009-04-28 22:31:27",
+            "id": "6648474",
+            "reply_to_id": "6647894",
+            "text": "Þú veist vel að þetta er hugbúnaðarvilla, þetta er ekki eitthvað sem kemur svona frá fyrirtækinu, eiga þeir að laga eitthvað fyrir þig að kostnaðarlausu sem átti sér uppdrög eftir kaup hlutsins."
+        },
+        {
+            "user": "Myndarlegur",
+            "user_id": "34366",
+            "date": "2009-04-28 23:15:40",
+            "id": "6648586",
+            "reply_to_id": "6648474",
+            "text": "Það skiptir ekki máli hvers vegna þetta er. Alltaf þegar ég er nýbúinn að kaupa tölvu og mér finnst hún hegða sér óeðlilega fer ég með hana beint aftur í viðgerð, og þeir laga það sem er að. Annars skila ég tölvunni."
+        },
+        {
+            "user": "Selshamur",
+            "user_id": "19356",
+            "date": "2009-04-29 00:34:16",
+            "id": "6648776",
+            "reply_to_id": "6648586",
+            "text": "Ok, flott\nUm að gera að kaupa sér tölvu og byrja á því eins og leðurtófa að setja upp allan andskotann sem þér lystir, þér gæti ekki verið meira sama hvernig þú ferð með tölvuna ef þú hugsar svona. Þetta er eins og að kaupa bíl og fara síðan með hann eins og kraftbaka útí drullu, koma síðan aftur með hann í bílaumboð og heimtar að þeir sem seldu þér bílinn hreinsi hann duglega fyrir þig.\nHættu að vera svona mikil þyrnirós.\nBætt við 29. apríl 2009 -  00:40\nAð sjálfsögðu myndu þeir laga tölvuna þeir sem seldu þér hana, en ekki að kostnaðarlausu kallinn nema að um vélbúnaðarbilun sé að ræða."
+        },
+        {
+            "user": "Myndarlegur",
+            "user_id": "34366",
+            "date": "2009-04-29 01:02:17",
+            "id": "6648819",
+            "reply_to_id": "6648776",
+            "text": "Ef þetta er vesen með hljóðdriver, jú."
+        },
+        {
+            "user": "Selshamur",
+            "user_id": "19356",
+            "date": "2009-04-29 16:08:47",
+            "id": "6649549",
+            "reply_to_id": "6648819",
+            "text": "Og ert þú formaður neytendasamtaka?"
+        },
+        {
+            "user": "Myndarlegur",
+            "user_id": "34366",
+            "date": "2009-04-29 16:52:31",
+            "id": "6649644",
+            "reply_to_id": "6649549",
+            "text": "Nei"
+        }
+    ]
+}

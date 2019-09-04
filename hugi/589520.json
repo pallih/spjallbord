@@ -1,0 +1,133 @@
+{
+    "forum_title": "Windows",
+    "user": null,
+    "user_id": null,
+    "date": "2008-05-05 23:21:56",
+    "title": "Recycle Bin",
+    "text": "Þegar ég deleta hlutum, þá fer það í recycle bin, svo ef ég deleta þeim líka úr ruslakörfunni, er þetta þá algjör permanent deletion eða eru einhverjar tölur eftir, eitthvað sem CSI gæti rakið?",
+    "url": "https://www.hugi.is/windows/korkar/589520/recycle-bin/",
+    "url_id": "589520",
+    "id": "5828502",
+    "replies": [
+        {
+            "user": "Zuul",
+            "user_id": "58217",
+            "date": "2008-05-05 23:28:24",
+            "id": "5828530",
+            "reply_to_id": "5828502",
+            "text": "Ég er ekki viss, ég hef heyrt um að það sé hægt að ná einhverju til baka, en ég veit sosem ekki hversu alvarlega maður á að taka þær upplýsingar…"
+        },
+        {
+            "user": "01101101",
+            "user_id": "69210",
+            "date": "2008-05-05 23:36:39",
+            "id": "5828592",
+            "reply_to_id": "5828502",
+            "text": "Ég held, bara held, að þangað til að þú ert búinn að fylla harðadiskinn aftur og skrifa þar með yfir þetta er hægt að sjá þetta. HELD."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2008-05-07 22:36:01",
+            "id": "5835679",
+            "reply_to_id": "5828592",
+            "text": "M, ekki halda það því þetta er ábyggilega rétt. Zero-Filling googlar það :)"
+        },
+        {
+            "user": "ofurhetja",
+            "user_id": "30975",
+            "date": "2008-05-06 20:48:17",
+            "id": "5831393",
+            "reply_to_id": "5828502",
+            "text": "system restore…"
+        },
+        {
+            "user": "ofurhetja",
+            "user_id": "30975",
+            "date": "2008-05-06 20:49:24",
+            "id": "5831398",
+            "reply_to_id": "5831393",
+            "text": "Já vá þú meinar.. en ég nenni ekki að fylla harða diskinn eins og hinn gaurinn sagði mér að gera.. what the w?"
+        },
+        {
+            "user": "ofurhetja",
+            "user_id": "30975",
+            "date": "2008-05-06 20:53:27",
+            "id": "5831429",
+            "reply_to_id": "5831398",
+            "text": "Ég er samt nokkuð viss um að eina leiðinn til þess að\nALVEG\nlosna við öll gögn er að formata hdd-ana"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2008-05-06 20:57:04",
+            "id": "5831457",
+            "reply_to_id": "5831429",
+            "text": "okei"
+        },
+        {
+            "user": "Aronx",
+            "user_id": "58923",
+            "date": "2008-05-06 23:34:24",
+            "id": "5832263",
+            "reply_to_id": "5828502",
+            "text": "Það getur næstum hvaða un-deleter náð skrám sem hefur verið hent nema, eins og 01101101 sagði, að þú fyllir upp í blockina sem skráin var í. Það virkar best að formata diskana en það er þó heldur ekki skotheld lausn. Skotheldasta lausnin væri það sem kallast zero-filling. Googlaðu það bara."
+        },
+        {
+            "user": "csmoat",
+            "user_id": "18520",
+            "date": "2008-05-08 06:57:34",
+            "id": "5836591",
+            "reply_to_id": "5828502",
+            "text": "Ertu loksins búinn að leysa þig við barnaklámið eftir að ég sigaði lögguni á þig fíflið þitt?"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2008-05-08 15:00:53",
+            "id": "5837413",
+            "reply_to_id": "5836591",
+            "text": "Hahhahahah\nu made my day"
+        },
+        {
+            "user": "HomoLuminous",
+            "user_id": "34866",
+            "date": "2008-05-08 22:14:07",
+            "id": "5838715",
+            "reply_to_id": "5828502",
+            "text": "Harðadiskar virka með segulkröftum, í grófum dráttum. Það er hægt að finna svo kallað “magnetic residue” og þar með fá gögn aftur af harðadisknum þínum, en ein leið til þess að vera nokkuð viss um að gögnin séu týnd þá er hægt að skrifa aftur og aftur og aftur yfir gögnin - oftast skrifa forrit sem gera þetta bara random junk.\nÞetta virkar örugglega ágætlega:\nhttp://www.fileshredder.org/"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2008-05-09 14:05:06",
+            "id": "5840064",
+            "reply_to_id": "5838715",
+            "text": "kei tX"
+        },
+        {
+            "user": "NightCrow",
+            "user_id": "56368",
+            "date": "2008-05-11 11:21:03",
+            "id": "5844607",
+            "reply_to_id": "5828502",
+            "text": "Öruggasta leiðin til þess að eyða öllum gögnum af hörðum diski væri að leggja tvo stóra segla við hann og láta þá vinna í smá tíma (veltur á styrkleika seglana hversu lengi minnir mig).  Verst að þá myndi diskurinn verða ónothæfur á eftir en gögnin yrðu allavega farin fyrir fullt og allt.\n/NightCrow"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2008-05-11 13:38:48",
+            "id": "5844900",
+            "reply_to_id": "5844607",
+            "text": "Mkei.\nVar reyndar ekki í áætluninni að eyðileggja diskinn. :P\nEn, takk samt. :D"
+        },
+        {
+            "user": "Aronx",
+            "user_id": "58923",
+            "date": "2008-05-13 01:32:01",
+            "id": "5849867",
+            "reply_to_id": "5844607",
+            "text": "Er ekki fljótlegra að stinga honum í örbylgjuofninn í svona 2mín?"
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "forum_title": "Windows",
+    "user": "Nainsi",
+    "user_id": "45345",
+    "date": "2008-10-01 17:39:52",
+    "title": "Windowsið farið og tölvan ónýt?",
+    "text": "Ég hef átt Medion fartölvu í þrjú ár núna sem hefur aldrei bilað.\nÉg keypti mér nýverið nýja og tölvu og þurfti þess vegna ekki á þessari gömlu að halda lengur svo ég lánaði bróður mínum hana. Viti menn, þegar ég fæ hana til baka er eitthvað stórmikið að henni.\nÞegar ég kveiki á henni kemur þetta:\nWindows could not start because the following file is missing or corrupt:\n\\windows\\system32\\confic\\system\nYou can attempt to repair this file by starting Windows Setup using the original Setup CD-ROM.\nSelect  “ r “ at the first screen to start repair.\nÞegar ég síðan reyni að boota af disknum þá fæ ég þetta:\nA problem has been detected and windows has been shut down to prevent damage to your computer.\nIf this is the first time you've seen this Stop error screen, restart your computer. If this screen appears again, follow these steps:\nCheck to be sure you have adequate disk space. If a driver is identified in the Stop message, disable the driver or check with the manufacturer for driver updates. Try chaging video adapters.\nCheck with your hardware vendor for any BIOS updates. Disable BIOS memory options such as caching or shadowing. If you need to use Safe Mode to remove or disable components, restart your computer, press F8 to select Advanced Startup Options, and then select Safe Mode.\nTechnical Information:\n*** STOP: 0x00000050 (0XBB34819A, 0x00000001, 0x809904F2, 0x00000002)\nÉg kemst ekki í Safe Mode, þegar ég ýti á F8 gerist ekkert.\nÉg man ekki eftir að hafa breytt neinu eða sett neitt inn rétt áður en ég lánaði hana, hann segist ekkert hafa fiktað í henni.\nHvað veldur og hvernig get ég lagað þetta?",
+    "url": "https://www.hugi.is/windows/korkar/617015/windowsid-farid-og-tolvan-onyt/",
+    "url_id": "617015",
+    "id": "6175449",
+    "replies": [
+        {
+            "user": "daviid",
+            "user_id": "30827",
+            "date": "2008-10-01 17:46:01",
+            "id": "6175469",
+            "reply_to_id": "6175449",
+            "text": "Strauja vélina og setja windows upp aftu"
+        },
+        {
+            "user": "Nainsi",
+            "user_id": "45345",
+            "date": "2008-10-01 17:56:23",
+            "id": "6175489",
+            "reply_to_id": "6175469",
+            "text": "Ég myndi vilja gera það já.\nHvernig strauja ég tölvuna?"
+        },
+        {
+            "user": "daviid",
+            "user_id": "30827",
+            "date": "2008-10-01 18:10:27",
+            "id": "6175546",
+            "reply_to_id": "6175489",
+            "text": "Þú ættir að sjá hvítan reit efst á skjánum núna þar sem stendur einhver vefslóð í.\nFarðu með músarbendilinn á hvíta reitinn og ýttu einu sinni á reitinn.\nReiturinn ætti núna að vera orðinn blár. (Ef ekki sjá #1)\n#1. Farðu með músarbendilinn hægra megin við textann, haltu músartakka númer eitt inni og dragðu til vinstri þangað til að allur textinn í reitnum er blár.\nDuglegur.\nNúna, ýttu á “stroka út takkann” og skrifaðu á lyklaborðinu þínu (án gæsalappa) “www.google.com”"
+        },
+        {
+            "user": "Nainsi",
+            "user_id": "45345",
+            "date": "2008-10-01 18:15:18",
+            "id": "6175571",
+            "reply_to_id": "6175546",
+            "text": "Æi plís ekki þetta kjaftæði, heldurðu virkilega að ég sé ekki búinn að leita á google?\nEf þú kynnir þetta og gætir leiðbeint mér í fáeinum orðum þá er það skárra en ég ég eyði mörgum klukkustundum í að leita að einhverju sem ég veit ekki endilega hvað er…\nEn fyrst þú ert of upptekinn gleymdu þessu þá"
+        },
+        {
+            "user": "daviid",
+            "user_id": "30827",
+            "date": "2008-10-01 18:27:47",
+            "id": "6175631",
+            "reply_to_id": "6175571",
+            "text": "Setur windows diskinn í bootar tölvunni ýtir á f8 og formattar tölvuna með disknum"
+        },
+        {
+            "user": "Nainsi",
+            "user_id": "45345",
+            "date": "2008-10-01 18:43:11",
+            "id": "6175701",
+            "reply_to_id": "6175631",
+            "text": "Það er það sem ég var að gera í dágóðan tíma, gekk bara ekki upp.\nÞað komu alltaf upp villuboðin sem segja að system32 skráin sé týnd eða spillt.\nÉg er hins vegar búinn að finna aðra lausn, notaði diskinn sem fylgdi nýju Dell tölvunni minni og bootaði af honum og það virðist hafa gert gæfumuninn.\nTakk annars fyrir hjálpina :)"
+        },
+        {
+            "user": "freki",
+            "user_id": "1682",
+            "date": "2008-10-01 17:47:00",
+            "id": "6175470",
+            "reply_to_id": "6175449",
+            "text": "En þegar hún ræsir sig, kemstu inn í BIOS á henni ?\nPrufaðu það og sjáðu hvort þú getir breytt þannig að hún booti-i frá cd-drifi.\nog svo\nfara í repair."
+        },
+        {
+            "user": "Nainsi",
+            "user_id": "45345",
+            "date": "2008-10-01 17:58:37",
+            "id": "6175494",
+            "reply_to_id": "6175470",
+            "text": "Nei ég fæ bara villuboð"
+        },
+        {
+            "user": "Frimbo",
+            "user_id": "68022",
+            "date": "2008-10-05 15:08:28",
+            "id": "6184558",
+            "reply_to_id": "6175449",
+            "text": "búinn að ná að laga þetta eða?\nannars þá gerðist þetta hja mer lika einusinni þegar það slo út rafmagnið á húsinu þegar talvan var i gangi.\nfekk s.s þetta “Windows could not start because the following file is missing or corrupt:\n\\windows\\system32\\confic\\system”\neg bara tók harðadiskin úr og setti i aðra tölvu for svo inna diskinn og for i backup i windows og copy/paste-aði system sem er þar í config möppuna og allt var i góðu! fekk allt einsog það var en ja gl :)"
+        },
+        {
+            "user": "Nainsi",
+            "user_id": "45345",
+            "date": "2008-10-08 19:16:15",
+            "id": "6195142",
+            "reply_to_id": "6184558",
+            "text": "Heyrðu ég náði að laga þetta.\nÉg prufaði að keyra Windowsið af disk sem fylgdi nýju tölvunni minni og viti menn þá gekk þetta.\nTakk annars fyrir hjálpina :)"
+        }
+    ]
+}

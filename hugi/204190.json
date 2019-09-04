@@ -1,0 +1,381 @@
+{
+    "forum_title": "Windows",
+    "user": "Kjarrval",
+    "user_id": "3269",
+    "date": "2004-05-01 20:00:33",
+    "title": "Sasser ormurinn [uppfært]",
+    "text": "Uppfært 02.05.2004 - Bætt við spurningunni “Er komið eitthvað tól sem eyðir út orminum?”. Gert ráð fyrir B útgáfunni af orminum í texta.\nNýr ormur hefur litið dagsins ljós og kallast hann Sasser. Tilgangur greinarinnar er að reyna að minnka útbreiðslu ormsins og hjálpa notendum að losna við hann ef þeir hafa nú þegar fengið hann.\nEf bil kemur í tenglana í þessari grein, þá skal fjarlægja þau áður en farið er á slóðina, annars virkar hún ekki. Reynt verður að hafa samstarf við yfirstjórnendur hugi.is um að uppfæra greinina um leið og bæta þarf inn nýjum upplýsingum eða leiðrétta.\nÖll helstu hugtök sem koma hér fram eru útskýrð neðst í greininni. Hvet alla til að lesa greinarsvör ef það skyldu koma fram nánari upplýsingar um orminn eða leiðréttingar frá mér.\nHvað gerir Sasser ormurinn?\nSasser ormurinn dreifir sér áfram til annarra tölvu og hægir verulega á þeim tölvum sem hann er að nota til að dreifa sér áfram. Ormurinn þarf ekki á hjálp að halda frá notanda tölvunnar svo að dreifingin er nokkuð hröð. Hann kemur í veg fyrir að notandinn geti slökkt á tölvunni út frá venjulegum skipunum í kerfinu.\nHvenær á að athuga tölvurnar eftir orminum?\nEinstaklingar sem eru með nettengdar tölvur ættu að athuga hvort ormurinn sé inn í tölvunni, hvort sem eldveggur er á milli tölvunnar og internetsins eða ekki. Ormurinn sýkir eingöngu tölvur með Windows 2000, Windows Server 2003 og Windows XP en hefur líka áhrif tölvur sem hafa NetMeeting í gangi.\nHver eru einkenni ormsins?\nNokkuð öruggt merki um að ormurinn sé í vélinni er sú ef forrit sem kallast LSASS.EXE er að hrynja reglulega eða ef að gluggi kemur upp og segir að tölvan muni slökkva á sér og telur niður í heila mínútu áður en sjálfvirk endurræsing á sér stað. Vefsíður virka ekki vel eða alls ekkert.\nHvernig er hægt að vernda margar tölvur?\nHægt er að koma í veg fyrir dreyfingu frá internetinu með því að koma í veg fyrir tengingar inn á TCP port 445, 5554 og 9996.\nWindows er að koma með glugga sem telur niður og síðan endurræsist tölvan.\nFarðu í Start og síðan í “Run…” (eða Windows takki og r) og skrifaðu inn skipunina “shutdown -a” (án gæsalappa). Þetta ætti að koma í veg fyrir að tölvan slökkvi á sér.\nEr komið eitthvað tól sem eyðir út orminum?\nSymantec og líka Microsoft hafa gefið út tól sem leitar að bæði Sasser orminum og B útgáfunni af honum. Ráðlagt er að keyra bæði tólin hvort fyrir sig til að vera örugg(ur) um að það hafi virkar. Hægt er að ná í þau á\nhttp://windows.stuff.is/worms/W32.Sasser.Worm/.\nTólin uppfæra ekki tölvuna sjálfkrafa með vörnum til þess að koma í veg fyrir frekari smit. Farðu eftir lið 3 og 4 í spurningunni “Hvað geri ég ef ég er með orminn?” einu sinni áður en þú keyrir tólin.\nHvað ef ég er ekki með orminn?\nÞrátt fyrir að þú sért ekki með orminn, þá gæti það enn þá gerst að hann komist inn á tölvuna þína. Mælt er með því að þú setjir inn plástur fyrir orminn (sjá spurningu fyrir neðan, lið 4).\nHvað geri ég ef ég er með orminn?\nÞar sem höfundur greinarinn hefur ekki fengið orminn, þá hefur hann ekki prófað þessa aðferð.\n1. Athugaðu hvort þú sért með forrit sem heitir AVSERVE.EXE eða AVSERVE2.EXE og forrit þar sem nafnið samanstendur af 4 eða 5 tölustöfum og “_up.exe” að aftan. Þetta er hægt að athuga með því að halda inni tökkunum Control, Alt og Delete á sama tíma og þá færðu upp annað hvort glugga sem hefur Windows merkið á eða ferð beint í “Task Manager”, ef þú færð fyrrnefnda gluggann, þá áttu að ýta á Task Manager, en annars heldurðu bara áfram. Ýttu síðan á flipa sem kallast “Processes” ef hann er ekki þegar valinn. Ýttu síðan á flokkaheitið “Image Name” og þá færðu allt í stafrófsröð. Athugaðu þá hvort að þú hefur forrit sem bera fyrrgreind nöfn.\n2. Hægri-klikkaðu með músinni á bæði forritin sem eru nefnd í lið 1 og gerðu “End Process”. Núna hafa forritin verið stoppuð, en þau geta samt ræst aftur þegar þú gangsetur tölvuna eða skráir þig inn í hana næst. Þess vegna er mikilvægt að halda áfram að fara eftir þessum leiðbeiningum.\n3. Áður en haldið er áfram, þá skal slökkva á System Restore. Leiðbeiningar fyrir það má finna á\nhttp://service1.symantec.com/SUPPORT/tsgeninfo.nsf/docid/2001111912274039?OpenDocument&src=sec_doc_nam.\nÞað má kveikja á System Restore eftir að búið er að fara í gegnum leiðbeiningarnar.\n4. Náðu í plástra gegn orminum. Hægt er að finna þá á slóðinni\nhttp://windows.stuff.is/worms/W32.Sasser.Worm/\n(innlent niðurhal) og ná í plásturinn sem að hentar viðkomandi kerfi. Skráarnöfnin lýsa viðkomandi kerfi og hve marga bita þau eru. Ef þið eruð í vafa hvort þau eru 32bit eða 64bit, náið fyrst í 32bit útgáfuna og athugið hvort hún virki. Opnaðu plásturinn sem þú náðir í og fylgdu leiðbeiningum sem birtast og plásturinn gæti heimtað að þú endurræsir tölvuna eftir á svo hann virki. Ef þú vilt ekki ná í plásturinn af fyrrgreindri slóð, þá er hægt að fara á vefslóðina www.windowsupdate.com og uppfæra þaðan.\n5. Það fyrsta sem skal gera er að uppfæra vírusvörnina sem þú hefur. Ef þú hefur endurræst tölvuna, þá ætti þér að vera óhætt gegn því að ormurinn smiti tölvuna aftur af netinu, eftir að þú hefur fjarlægt orminn. Endurtaktu nú lið 1 og 2 ef þú endurræstir tölvuna og ekki hafa hana tengda internetinu. Ef þú hefur ekki vírusvörn, þá er hægt að sækja reynsluútgáfu af einhverri sem þú finnur á netinu. Ef þú vilt ekki nota vírusvörnina eða getur það ekki, þá ætti að vera hægt að fara í Windows möppuna og eyða forritinu avserve.exe eða avserve2.exe og síðan forritinu með 4-5 tölustöfum og endingunni “_up.exe” í möppunni System32 sem hægt er að finna undir Windows möppunni. Windows mappan er oftast staðsett á C-drifinu í My Computer.\n6. Taktu forritin úr Registry. Þessi liður er ekki nauðsynlegur þar sem forritið er þegar farið úr tölvunni. Ef þú kannt ekki á Registry, þá borgar sig ekki að fara eftir þessum lið nema með hjálp einstaklings sem hefur reynslu á Windows stýrikerfið. Ýttu á Start takkann og farðu í “Run…” (Líka hægt að halda inni Windows takka og r til að fá sömu niðurstöðu). Sláðu inn “regedt32.exe” inn í kassann við hliðina á “Open:” og ýttu á “OK”. Í Regedit skaltu vera efst í glugganum til vinstri og láta “My Computer” vera valið og halda síðan niðri Control takkanum og F til að fá upp “Find” gluggann. Í kassann við hliðina á “Find what:” skaltu skrifa inn avserve og ýta á “Find Next” takkann. Það gæti tekið smá stund að leita. Ef eitthvað finnst, þá á að hægri-klikka á færsluna sem hefur gildið “avserve.exe”=“%Windir%\\avserve.exe” eða “avserve2.exe”=“%Windir%\\avserve2.exe”. Eftir það er þér frjálst að loka forritinu.\n—\nÞeir sem vilja fræðast meira um orminn mega lesa áfram en þeir sem vilja bara fjarlægja hann þurfa ekki að lesa áfram.\nHvernig virkar ormurinn?\n[Þessi hluti er að mestu þýddur frá Symantec.]\n1. Þegar ormurinn er kominn inn í vélina, þá býr hann til vinnslusvæði sem kallast Jobaka3l en hættir síðan ef það mistekst. Það mistekst eingöngu ef kerfið sjálft neitar að búa vinnslusvæðið til eða ef það er þegar til og tryggir það að eingöngu eitt eintak af orminum er í vélinni á sama tíma.\n2. Afritar sjálfan sig á Windows möppuna undir nafninu avserve.exe eða avserve2.exe.\n3. Bætir við færslu sem hefur gildið “avserve.exe”=“%Windir%\\avserve.exe” (eða “avserve2.exe”=“%Windir%\\avserve2.exe” ef það er B útgáfan af orminum) undir HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run í Registry. Ormurinn tryggir að hann ræsist alltaf þegar Windows ræsist.\n4. Kemur í veg fyrir að hægt sé að slökkva á eða endurræsa tölvuna út frá Windows.\n5. Ræsir FTP þjón á TCP porti 5554 sem hefur eintak af sjálfum sér.\n6. Ræsir 128 þræði til að reyna að hafa samband við tilviljunarkennda IP tölu á TCP porti 445. Þessi aðgerð orsakar það hægist verulega á tölvunni. Ef tölva svarar á tilviljunarkenndu IP tölunni, þá notar hann öryggisbrest í kerfinu til að opna TCP port 9996 og gefur kerfinu skipanir í gegnum það. Í þessu tilfelli lætur hann tölvuna hafa samband við FTP þjóninn sem var búinn til og lætur hana fá eintak af sjálfum sér. Tölvan hefur sýkst og byrjar þetta sama ferli þar.\nVefsíðan á\nhttp://windows.stuff.is/worms/W32.Sasser.Worm/\nverður uppfærð þegar ný tól koma fram á sjónarsviðið sem hjálpa til við að eyða orminum. Ég bið annars fólk um að spyrja mig ekki um persónulega hjálp í gegnum hugaskilaboð, irkið, MSN og svo framvegis, ég mun líklegast ekki hafa tíma til að anna því. Spyrjið frekar með því að svara greininni og athuga reglulega hvort að greinin hefur verið uppfærð.\nNokkur hugtök sem notuð voru í greininni: (mestallt fengið úr eldri grein eftir mig)\n32bit - Windows útgáfur sem hannaðar eru fyrir 32bit örgjörva, þessi tegund örgjörva er sú algengasta á markaðnum í dag.\n64bit - Sérstök Windows útgáfa sem notfærir sér 64bit örgjörva betur. 64bit útgáfur af stýrikerfinu geta ekki verið settur upp á örgjörvum sem eru 32bit.\nEldveggur - Íslensk þýðing á enska orðinu Firewall sem er forrit sem hægt er að ná í að internetinu eða innbyggt í búnað. Eldveggur er til þess að verjast gegn þeim aðgangi sem að hann er stilltur fyrir eða hleypa eingöngu þeirri internetumferð sem að hann er stilltur til að hleypa í gegn. Eldveggir geta verið vitlaust stilltir svo að ekki treysta þeim of vel.\nIP tala - Til að internetið virki þarf að auðkenna tölvurnar sem hafa aðgang að internetinu með IP tölum svo að hægt sé að vita hvert að samskipti á milli tölva eiga að fara.\nOrmur - Ákveðin tegund af vírusum sem krefst ekki líkamlegra viðbragða notenda til þess að senda sig áfram eins og til dæmis með opnun viðhengja í tölvupósti. Ormar geta samt verið forritaðir til þess að byrja að dreifast út frá forritum sem að viðkomandi opnar.\nPort - Port geta verið númerið frá 1 og upp í 65535 og eru þau notuð til þess að auðvelda forritum til þess að hafa samskipti við forrit á öðrum tölvum. Ákveðnar tegundir af þjónustum og ákveðin forrit geta látið skráð rétt sinn til þess til þess að nota ákveðin port til þess að auðveldara sé að hafa samskipti við þau.\nRegistry - Windows stýrikerfið geymir stillingar í Registry og flettir þeim síðan upp þegar það þarf á þeim að halda.\nService Pack - Ákveðnir þjónustupakkar sem að fyrirtæki gefur út sem inniheldur margar viðbætur við stýrikerfið í einu svo að notendur þurfi ekki að leita uppi hverja og einustu viðbót og setja inn sérstaklega.\nSystem Restore - Möguleiki sem fylgir með Windows ME og Windows XP og er gert til þess að flytja kerfið í það ástand sem það var í þegar afrit var gert, sérstaklega notað ef kerfið hrynur illilega.\nTask Manager - Forrit sem fylgir með Windows NT kerfunum og er hægt að nota til ýmissa verka. Hægt er að sjá um ýmsa hluta kerfisins út frá þessu forriti.\nTCP - Samskiptamáti á portum þar sem samband á milli véla á að haldast og krefst þess að tölvurnar sem hafa samskipti haldi sambandi við hvor aðra. Vélin sem á að taka á móti sendingunni verður að svara um að hún hafi móttekið pakkann, annars verður hann endursendur í ákveðin mörg skipti áður en sambandið slitnar.\nWindows NT - Sérstök lína Windows stýrikerfa sem var upprunalega hönnuð til þess að þjóna notendum á staðarneti og keyra þjónustur. Kerfið var hannað til að vera öruggara og stöðugra en hin lína Windows stýrikerfanna. Stýrikerfislínan bar merkið NT þangað til Windows 2000 var gert og átti það að sameina Windows 9x línuna við NT línuna til að gera hana notandavænni. Windows XP og Windows 2003 eru líka afkomendur þessa samruna.\n—\nHöfundar greinarinnar tengist á engan hátt Microsoft, Symantec, öðrum vírusvarnarfyrirtækjum né höfundi Sasser ormsins. Höfundur ber ekki ábyrgð á neinum tjóni sem gæti orsakast vegna lesturs eða aðferða sem nefnd eru í greininni.",
+    "url": "https://www.hugi.is/windows/greinar/204190/sasser-ormurinn-uppfaert/",
+    "url_id": "204190",
+    "id": "1571227",
+    "replies": [
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2004-05-01 20:11:07",
+            "id": "1571228",
+            "reply_to_id": "1571227",
+            "text": "Frábær tímasetning á greininni."
+        },
+        {
+            "user": "Equilibrium",
+            "user_id": "1131",
+            "date": "2004-05-01 20:40:15",
+            "id": "1571229",
+            "reply_to_id": "1571227",
+            "text": "Fékk umræddann orm í nótt, og er enþá að berjast við hann, nasty bastarður."
+        },
+        {
+            "user": "Minuz1",
+            "user_id": "2274",
+            "date": "2004-05-03 00:16:17",
+            "id": "1571230",
+            "reply_to_id": "1571229",
+            "text": "Er einhver hérna til í að senda mér vírussinn?…..minuz@simnet.is eða minuz1@whatthefuck.com\nplís!!!!!\nP.S þetta er ekki grín…ég vil fá vírusinn…"
+        },
+        {
+            "user": "Chameleon",
+            "user_id": "26978",
+            "date": "2004-05-03 16:41:13",
+            "id": "1571231",
+            "reply_to_id": "1571230",
+            "text": "“Ormurinn þarf ekki á hjálp að halda frá notanda tölvunnar svo að dreifingin er nokkuð hröð.”\nHann dreyfir sér sjálfur..\nOg af hverju að vilja þennan fjanda???\nOg eitt en, ef að einhver séi að geyma þennan vírus.. bara heimska að geyma þetta."
+        },
+        {
+            "user": "DarkKnight",
+            "user_id": "17967",
+            "date": "2004-05-03 19:35:50",
+            "id": "1571232",
+            "reply_to_id": "1571231",
+            "text": "Chameleon: Hvernig helduru að það séu fundnar upp varnir gegn vírusum?\nSama og með eitur úr slöngum og öðrum þannig dýrum.\nÞað verður að taka sjálfan vírusinn og tékka hann svo hægt sé að finna “móteitur” .. mótsvar við honum. Það er þó nokkuð af fólki sem stundar þetta, þeir fá vírusinn og gera vörn við og annað því um líkt.\nHefur aldrei komið upp hjá þér þegar þú færð vírus, og vírusvarnarforritið bíður uppá að senda tilteknu fyrirtæki vírusinn? Það er útaf þessum forsendum.\nEndilega bæta við ef ég er að fara með fleypur.\nKv. Alli"
+        },
+        {
+            "user": "Chameleon",
+            "user_id": "26978",
+            "date": "2004-05-03 20:14:36",
+            "id": "1571233",
+            "reply_to_id": "1571232",
+            "text": "Hef í gegnum tíðina fengið svo örfáa vírusa, aldrei lent í neinum of nýjum….\nOg já, væri gáfulegt að finna móteitur við snákabiti sem er búiða að finna móteitur við….?\nÉg sé ekki betur en það séi búið að finna “móteitur” við þessum vírus, væri þá ekki best að taka nýja vírusa?"
+        },
+        {
+            "user": "OBhave",
+            "user_id": "3496",
+            "date": "2004-05-01 20:45:44",
+            "id": "1571234",
+            "reply_to_id": "1571227",
+            "text": "..ekki veit ég nú hvort ég er með þennan orm en ég er í algjörum vandræðum með 2 trójuhesta “Revop.D” og “Downloader.Keenval.D”. Ekki veit ég hvort það er þeim að kenna eða hvort ég er með browser hijacker, en ég kemst ekki inn á www.symantec.com til að ná í fix\nÉg þarf sem sagt að ná í fix því þó að vírusvörnin mín (AVG) sjái þá báða þá getur hún ekki fjarlægt þá og ég get ekki manually eytt þeim."
+        },
+        {
+            "user": "Mutter",
+            "user_id": "13004",
+            "date": "2004-05-01 21:17:22",
+            "id": "1571235",
+            "reply_to_id": "1571227",
+            "text": "JÁ ÓTRÚLEGA ER FÓLK SAD SEM GERIR SVONA ORMA HEIMSKA FÓLK.\nÞAÐ ÆTTI AÐ VERA SÉR TEAM TIL AÐ UPPRÆTA HACKERS OG GAURA SEM GERA SVONA “TACTICAL ANIT-HACKER TEAM” R SUM )(w$&%(/e$w% hata svona fucking rugl !"
+        },
+        {
+            "user": "ShiskeBob",
+            "user_id": "42371",
+            "date": "2004-05-01 21:35:47",
+            "id": "1571236",
+            "reply_to_id": "1571227",
+            "text": "ég var að komast á netið eftir að hafa fengið vírusinn. gat loggað mig á netið, fékk gilt ping í command prompt á allar heimasíður sem mér datt í hug, en alltaf þegar ég reyndi að fara inná einhverja síðu fékk ég errorinn “connection closed by remote server”, í FlashFXP kom “not enough buffer quota” og í DC++ “unknown error”. Var vægast sagt í tómu tjóni og þegar ég heyrði í fréttum að nýr ormur væri í gangi vissi ég um leið að þetta var hann. skrýtið að ég skuli samt ekki hafa heyrt af neinum sem hefur fengið svipaðar villumeldingar og ég."
+        },
+        {
+            "user": "optimusprime",
+            "user_id": "360",
+            "date": "2004-05-01 22:25:16",
+            "id": "1571237",
+            "reply_to_id": "1571236",
+            "text": "það vantar sjónvarpstöð sem fjallar um helstu vírusa dagsins hvers dags, og forrit sem nær í fix fyrir þá"
+        },
+        {
+            "user": "IngvarL",
+            "user_id": "50417",
+            "date": "2004-05-01 23:08:55",
+            "id": "1571238",
+            "reply_to_id": "1571237",
+            "text": "kannski fulllangt gengið, bara að fólk viti hvert á að kíkja regluega til að fylgjast með þessu. Meðan Fragman stendur vaktina ætti okkur að vera óhullt :)"
+        },
+        {
+            "user": "RoyalFool",
+            "user_id": "5820",
+            "date": "2004-05-02 00:11:21",
+            "id": "1571239",
+            "reply_to_id": "1571238",
+            "text": "Ég held ég sé með eitthvað isass.exe hybrid af honum eða eitthvað, það er allavega forritið sem framkallar alltaf þetta critical error.\nSvo er eitthvað win32.exe stundum í gangi í task manager sem étur upp 50% af CPU time. Þetta win32.exe virðist ansi útsmogið, þegar ég var með það í gangi þá slökkti það alltaf á McAfee vírusvörninni og þegar mér tókst að kveikja á því þá vildi virus scan ekki fara í gang, kom alltaf disabled. Það var ekki fyrr en ég eyddi þessu process sem að McAfee vildi loks scanna diskana. Er að láta hann scanna núna, ekkert alltof vongóður um að forritið finni vírusinn og ef það gengur ekki verð ég að reyna að patcha þetta."
+        },
+        {
+            "user": "RoyalFool",
+            "user_id": "5820",
+            "date": "2004-05-02 00:13:07",
+            "id": "1571240",
+            "reply_to_id": "1571239",
+            "text": "Já, og ormurinn leyfir mér ekki heldur að fara á helstu vírusvarnaheimasíðurnar eins og t.d. f-secure.com og mcafee.com, ansi útsmoginn."
+        },
+        {
+            "user": "CendenZ",
+            "user_id": "795",
+            "date": "2004-05-02 03:47:35",
+            "id": "1571241",
+            "reply_to_id": "1571236",
+            "text": "þetta gerðist fyrir mig á miðvikudag í síðustu viku, ég hringdi nirrí simnet og fleira maður, var í símanum í 3 korter .. .)"
+        },
+        {
+            "user": "xDarkLordx",
+            "user_id": "35180",
+            "date": "2004-05-02 00:11:51",
+            "id": "1571242",
+            "reply_to_id": "1571227",
+            "text": "hmm… það er lsass.exe í gangi hjá mér. Það segir að system sé að nota það, er þetta ormurinn?"
+        },
+        {
+            "user": "Kjarrval",
+            "user_id": "3269",
+            "date": "2004-05-02 00:29:18",
+            "id": "1571243",
+            "reply_to_id": "1571242",
+            "text": "lsass.exe er ekki ormurinn. avserve.exe er það."
+        },
+        {
+            "user": "Dusty",
+            "user_id": "1996",
+            "date": "2004-05-02 01:17:40",
+            "id": "1571244",
+            "reply_to_id": "1571243",
+            "text": "http://www.answersthatwork.com/Tasklist_pages/tasklist.\nhtm\nÞessi síða segir manni frá öllum services og ég skoða hana reglulega þegar ég sé eitthvað service í gangi sem ég kannast ekki við."
+        },
+        {
+            "user": "RoyalFool",
+            "user_id": "5820",
+            "date": "2004-05-02 02:08:12",
+            "id": "1571245",
+            "reply_to_id": "1571243",
+            "text": "Þetta var vitleysa í mér, ég er bara með lsass.exe eins og allir aðrir. Það er einungis eitt hybrid komið af þessum ormi og það hefur nánast öll sömu einkenni og þessi.\nÉg finn reyndar ekkert avserve.exe eða avserve2.exe, svo ég í svolitlum vandræðum."
+        },
+        {
+            "user": "Nobody",
+            "user_id": "17530",
+            "date": "2004-05-02 14:43:15",
+            "id": "1571246",
+            "reply_to_id": "1571245",
+            "text": "Ég skil ekki.. Er semsagt eitthvað að ef maður er með þetta lsass.exe ?"
+        },
+        {
+            "user": "Dusty",
+            "user_id": "1996",
+            "date": "2004-05-02 14:53:28",
+            "id": "1571247",
+            "reply_to_id": "1571246",
+            "text": "Það eru greinilega voðalega fáir sem fóru á slóðina sem ég setti inn hérna áður. Farið á þessa síðu sem ég bendi á og þar getiði séð allt services dótið. Isass.exe og milljón önnur.\nhttp://www.answersthatwork.com/Tasklist_pages\n/tasklist.htm"
+        },
+        {
+            "user": "clean",
+            "user_id": "44950",
+            "date": "2004-05-02 01:44:31",
+            "id": "1571248",
+            "reply_to_id": "1571227",
+            "text": "Formatt það eina rétta"
+        },
+        {
+            "user": "Mutter",
+            "user_id": "13004",
+            "date": "2004-05-02 01:50:59",
+            "id": "1571249",
+            "reply_to_id": "1571227",
+            "text": "hvað gerir:\nccEvtMgr.exe\nccSetMgr.exe\ncsrss.exe\nlsass. exe\nmdm.exe\nSMSS.exe\nþetta er allt í einu komiði í gang hérna >:/"
+        },
+        {
+            "user": "FeSt3r",
+            "user_id": "4805",
+            "date": "2004-05-02 02:43:06",
+            "id": "1571250",
+            "reply_to_id": "1571227",
+            "text": "ég er með þennan  vírus en ég sé ekki AVSERV.EXE og _up.exe í task manage"
+        },
+        {
+            "user": "Ulvur",
+            "user_id": "8059",
+            "date": "2004-05-02 03:10:06",
+            "id": "1571251",
+            "reply_to_id": "1571227",
+            "text": "http://securityresponse.symantec.com/avcenter/venc/data\n/w32.sasser.b.worm.html\nget ekki skoðað þessa síðu einhverja hluta vegna\neða neina aðra síðu á www.symantec.com\nsama hjá ykkur?"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2004-05-02 11:29:04",
+            "id": "1571252",
+            "reply_to_id": "1571227",
+            "text": "FIREWALL! ekki mikið mál :|"
+        },
+        {
+            "user": "Xiao",
+            "user_id": "21793",
+            "date": "2004-05-02 15:02:41",
+            "id": "1571253",
+            "reply_to_id": "1571227",
+            "text": "Ég lét fyrst ovart in patchinn a undan þvi að slökkva á System restore, svo eg slökkti a system restore og lét aftur inn patchinn.\nSvo kveikti ég á System restore aftur.\nSíðan kikti ég í regedit og fann “avserv2.exe” þar og deletaði því…ætti þetta ekki bara að duga ?\neða eitthvað sem eg þarf að bæta við"
+        },
+        {
+            "user": "LulliB",
+            "user_id": "5781",
+            "date": "2004-05-02 17:57:34",
+            "id": "1571254",
+            "reply_to_id": "1571227",
+            "text": "Hérna er hægt að láta Microsoft skanna hvort þú sért með þennan vírus.\nhttp://www.microsoft.com/security/incident/sasser.asp\nEndilega tjekkið á þessu, en þið verðið að dl pathcin og installa honum fyrst."
+        },
+        {
+            "user": "GLXRBLT",
+            "user_id": "42678",
+            "date": "2004-05-02 18:27:00",
+            "id": "1571255",
+            "reply_to_id": "1571227",
+            "text": "Takk… Gott að vita af þessum andskota mar vá!"
+        },
+        {
+            "user": "mix",
+            "user_id": "44518",
+            "date": "2004-05-02 20:14:17",
+            "id": "1571256",
+            "reply_to_id": "1571227",
+            "text": "Vá..þú veist ekki hvað þú bjargaðir mér ógeðslega mikið!!!!!!!!!!:)"
+        },
+        {
+            "user": "RoyalFool",
+            "user_id": "5820",
+            "date": "2004-05-02 21:58:33",
+            "id": "1571257",
+            "reply_to_id": "1571227",
+            "text": "Þetta er fáránlegt. Ég finn ekki þetta avserve.exe forrit, hvorki í task manager né í Windows möppunni. Aftur á móti finn ég 25160_up.exe með dagsetninguna 1.5.2004 00:30. Það er ekki í gangi sem process en er samt í system32 möppunni. Ég fann heldur ekkert með “avserve” í registry.\nÉg get ekki updeitað virus definitions fyrir nein vírusvarnarforrit því ég get ekki tengst síðum eins og mcafee.com eða symantec.com, sennilega út af vírusnum. Ég get ekki heldur notað þessi eyðingarforrit sem Symantec og Microsoft hafa gefið út; forritið frá Symantec segist ekkert finna og Microsoft forritið hefur engin sýnileg áhrif á neitt. Ég er búinn að slökkva á System Restore og keyra upp þennan plástur frá Microsoft fyrir gallanum en það gerði ekkert gagn, hvorki fyrir né eftir allt hitt.\nÉg er alveg ráðalaus. Þessar leiðbeiningar gera ekki neitt gagn…"
+        },
+        {
+            "user": "Revenant",
+            "user_id": "8812",
+            "date": "2004-05-02 22:21:12",
+            "id": "1571258",
+            "reply_to_id": "1571257",
+            "text": "RoyalFool:\nEditaðu síðan “hosts” (engin ending) skránna til að geta acessað symantec o.fl síðurnar. Ath að síðan gæti verið hidden.\nSíðan er annað forrit sem gæti hjálpað:\nhttp://www.spychecker.com/download/download_h\nijackthis.html"
+        },
+        {
+            "user": "Revenant",
+            "user_id": "8812",
+            "date": "2004-05-02 22:23:32",
+            "id": "1571259",
+            "reply_to_id": "1571258",
+            "text": "síðan á að vera skráin, var að hugsa um annað þegar ég skrifaði þetta :)"
+        },
+        {
+            "user": "skizzo",
+            "user_id": "38874",
+            "date": "2004-05-02 22:53:13",
+            "id": "1571260",
+            "reply_to_id": "1571257",
+            "text": "Ég á við nákvæmlega sama vanda að stríða, hvað sem ég reyni virðist ekkert ganga upp!!"
+        },
+        {
+            "user": "thib",
+            "user_id": "24172",
+            "date": "2004-05-04 10:20:52",
+            "id": "1571261",
+            "reply_to_id": "1571227",
+            "text": "Nota bara alvöru stýrikerfi. ;>\nFreeBSD, The power to serve!"
+        },
+        {
+            "user": "longbow",
+            "user_id": "25468",
+            "date": "2004-05-04 16:17:02",
+            "id": "1571262",
+            "reply_to_id": "1571227",
+            "text": "[ Eytt af stjórnanda ]"
+        },
+        {
+            "user": "optimusprime",
+            "user_id": "360",
+            "date": "2004-05-04 17:15:31",
+            "id": "1571263",
+            "reply_to_id": "1571262",
+            "text": "það er komið út nýtt afbrigði af orminum, hann leyfir mér ekki að slökkva á sér með Task manige"
+        },
+        {
+            "user": "Kate",
+            "user_id": "45807",
+            "date": "2004-05-04 21:09:47",
+            "id": "1571264",
+            "reply_to_id": "1571227",
+            "text": "okey .. vá ég fékk þetta helv.. og ég kann ekkert að ná þessu út .. ertu til í að segja í stuttu máli hvernig maður tekur þetta út af tölvuni .. er neflilega lesblind get ekki lesið svona langan texta ..\nég gerði eitt .. breytti dagsetningunni hjá mer þannig hun segir að hun slökkvi sér eftir 3000 daga eða álika .. en hvernig losnar maður við hann ??"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2004-05-04 22:21:45",
+            "id": "1571265",
+            "reply_to_id": "1571264",
+            "text": "er “AVGSERV.exe” allt í lagi ????"
+        },
+        {
+            "user": "Kate",
+            "user_id": "45807",
+            "date": "2004-05-04 23:18:06",
+            "id": "1571266",
+            "reply_to_id": "1571227",
+            "text": "hey okey það eru 3 gerðir að ganga ekki rétt.. ?? og ein þeirra heitir sasser önnur gaobot hvað heitir þá þriðja..? og hvernig losnar maður við hana ??"
+        },
+        {
+            "user": "Seemann",
+            "user_id": "17721",
+            "date": "2004-05-05 14:41:28",
+            "id": "1571267",
+            "reply_to_id": "1571227",
+            "text": "Ég er ekki viss um hvort ég er með hann…allavega þá gerist það við mig að tölvan restarti sig bara allt í einu, en það kemur engin niðurtalning eða neitt þannig. Þetta er bara helv*** pirrandi!! Gerist bara allt í einu, allavega kemur ekkert grunsamlegt upp hjá mér í Task Managerinum svo að ég veit ekkert hvað ég get gert :S"
+        },
+        {
+            "user": "Exxer",
+            "user_id": "23230",
+            "date": "2004-05-06 01:05:57",
+            "id": "1571268",
+            "reply_to_id": "1571227",
+            "text": "Flott grein, hefur greinilega sett þinn tíma í þetta.\nMjög gott framtak :)\nBTW. ég mæli með firewall. (www.zonealarm.com)"
+        },
+        {
+            "user": "Exxer",
+            "user_id": "23230",
+            "date": "2004-05-06 14:12:03",
+            "id": "1571269",
+            "reply_to_id": "1571268",
+            "text": "Veit einhver hvað evntsvc.exe gerir..\nþetta er alltaf að nota um 90% eða meira hjá mér."
+        },
+        {
+            "user": "Kruzio",
+            "user_id": "33774",
+            "date": "2004-05-08 11:20:42",
+            "id": "1571270",
+            "reply_to_id": "1571269",
+            "text": "eg er/var med thennan orm… en getur verid ad hann fari bara?\nen annars e buid ad finna gaurinn sem kom thessu af stad,tad var 18 ara thjodverji…"
+        },
+        {
+            "user": "steinistud",
+            "user_id": "47687",
+            "date": "2004-05-10 21:35:22",
+            "id": "1571271",
+            "reply_to_id": "1571270",
+            "text": "Maður er eiginlega hættur að nenna að fylgjast með þessu\nþað er alltaf eitthvað drasl sem er að berast um netið\nmaður þarf bara að passa sig á hverju maður er að downloada og hvaða drasl maður\ner að heimsækja ég er nú búinn að skipta yfir í Linux vegna\nþess að það er minna af vírusum í það stýrikerfi! Gangi ykkur vel\nWindowsarar að berjast gegn þessu drasli!!! Ég stið ykkur!"
+        },
+        {
+            "user": "Lotnir",
+            "user_id": "39873",
+            "date": "2004-05-11 16:03:43",
+            "id": "1571272",
+            "reply_to_id": "1571227",
+            "text": "Ég er alltaf að fá viðvörun um að ég sé með þennann orm en þegar ég opna task manager þá er þetta ekki þar…ég er samt alltaf að fá einhverja viðvörun um að ég sé með þennann orm…þá kemur skjárinn alveg blár og get valið “OK” eða “CANCEL” ég vel alltaf “CANCEL” og þá er þetta búið…gerist ekkert meira…"
+        },
+        {
+            "user": "Dickinson",
+            "user_id": "50483",
+            "date": "2004-06-12 13:52:04",
+            "id": "1571273",
+            "reply_to_id": "1571227",
+            "text": "Ég var með þennan vírus, vissi ekkert af því. Þó fékk ég ekki öll þessi einkenni sem eru nefnd þarna. Ég var með avserve.exe í processes, oft 20 í einu og tölvan var að skíta á sig.\nÉg fann ekkert fyrir honum fyrr en netið bilaði algerlega, sendi tölvuna í við gerð, gaurinn gat ekki delete-að vírusnum, tölvan frosnaði bara þannig hann varð að formata:(\nSvo fór um sjóferð þá."
+        }
+    ]
+}

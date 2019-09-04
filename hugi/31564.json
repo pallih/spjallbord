@@ -1,0 +1,117 @@
+{
+    "forum_title": "Linux",
+    "user": "add1",
+    "user_id": "1011",
+    "date": "2001-06-18 13:53:13",
+    "title": "GCC 3.0",
+    "text": "Jæja, eftir NÍU! ára bið birtist loksins major release af GCC, þ.e.a.s GCC 3.0\nEfast að þið getið notað gcc.gnu.org til að downloada þegar þetta er skrifað þar sem gcc.gnu.org verður /.'að eftir nokkarar mínútur.\nGetið nálgast lista yfir nýja hluti hér:\nhttp://gcc.gnu.org/gcc-3.0/features.html\nog lista yfir mirrora fyrur gcc.gnu.org hér:\nhttp://gcc.gnu.org/mirrors.html\ngl",
+    "url": "https://www.hugi.is/linux/greinar/31564/gcc-30/",
+    "url_id": "31564",
+    "id": "210907",
+    "replies": [
+        {
+            "user": "add1",
+            "user_id": "1011",
+            "date": "2001-06-18 18:24:04",
+            "id": "210908",
+            "reply_to_id": "210907",
+            "text": "[addi@kung.foo.is /root]# gcc –version\n3.0\n[addi@kung.foo.is /root]#\nr0xx :)"
+        },
+        {
+            "user": "q38f",
+            "user_id": "7341",
+            "date": "2001-06-19 18:21:03",
+            "id": "210909",
+            "reply_to_id": "210907",
+            "text": "Hvernig setur maður það upp í gegnum skel?"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2001-06-19 19:29:38",
+            "id": "210910",
+            "reply_to_id": "210909",
+            "text": "Humm, RTFM. ;)"
+        },
+        {
+            "user": "add1",
+            "user_id": "1011",
+            "date": "2001-06-19 21:32:23",
+            "id": "210911",
+            "reply_to_id": "210909",
+            "text": "ATH!\nVerður að hafa binutils 2.11 (getur fundið binutils á freshmeat.net)\n– gcc-3.0 howto:\n# wget\nhttp://kung.foo.is/gcc-3.0.tar.bz2\n# tar xvfj gcc-3.0.tar.bz2\n# mkdir objdir && cd objdir\n# ../gcc-3.0/configure –prefix=/usr\n# make bootstrap\n# make install\n–"
+        },
+        {
+            "user": "add1",
+            "user_id": "1011",
+            "date": "2001-06-19 23:25:50",
+            "id": "210912",
+            "reply_to_id": "210911",
+            "text": "EN!!\ngcc-3.0 vistýður ekki linux 2.4.5\nmun mjög líklega vistþýða 2.4.6\nbara til að vara ykkur við :)"
+        },
+        {
+            "user": "add1",
+            "user_id": "1011",
+            "date": "2001-06-20 05:27:41",
+            "id": "210913",
+            "reply_to_id": "210912",
+            "text": "Alan Cox strax búinn að reiða fram patch :)\ngetið fundið það hér:\nhttp://www.kernel.org/pub/linux/kernel/people/alan/2.4/patch-2.4.5-ac15.bz2"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2001-06-20 11:56:34",
+            "id": "210914",
+            "reply_to_id": "210913",
+            "text": "???????????"
+        },
+        {
+            "user": "add1",
+            "user_id": "1011",
+            "date": "2001-06-20 15:36:10",
+            "id": "210915",
+            "reply_to_id": "210913",
+            "text": "patchið er til að geta compile'að linux kernel 2.4.5"
+        },
+        {
+            "user": "add1",
+            "user_id": "1011",
+            "date": "2001-06-21 02:09:59",
+            "id": "210916",
+            "reply_to_id": "210907",
+            "text": "En geturðu bent mér á ástæðu til þess að uppfæra upp í 3.0? Frábært að það sé komið nýtt release, en þegar 2.95 eða 2.97 (eða whatever) er búið að vera svona lengi í gangi og virðist alveg fínt… hví að uppfæra? :) Ég spyr af forvitni."
+        },
+        {
+            "user": "add1",
+            "user_id": "1011",
+            "date": "2001-06-21 18:51:07",
+            "id": "210917",
+            "reply_to_id": "210916",
+            "text": "To live on the BLEEEEEEEEEEDING EDGE :))\n'bleeeeeeeed baby :)"
+        },
+        {
+            "user": "Sblender",
+            "user_id": "1767",
+            "date": "2001-06-21 19:10:40",
+            "id": "210918",
+            "reply_to_id": "210917",
+            "text": "En… spurningin er: hvað er GCC 3.0?"
+        },
+        {
+            "user": "add1",
+            "user_id": "1011",
+            "date": "2001-06-22 14:01:22",
+            "id": "210919",
+            "reply_to_id": "210918",
+            "text": "GCC er Gnu C Compiler.\nEf þú vilt compile'a (visþýða) eitthvað þá þarftui að hafa gcc"
+        },
+        {
+            "user": "Sblender",
+            "user_id": "1767",
+            "date": "2001-06-25 19:29:52",
+            "id": "210920",
+            "reply_to_id": "210919",
+            "text": "Hmmm… Er bara til einn C compiler fyrir Linux?"
+        }
+    ]
+}

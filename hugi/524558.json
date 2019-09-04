@@ -1,0 +1,341 @@
+{
+    "forum_title": "Ljósmyndun",
+    "user": "YNWA",
+    "user_id": "64669",
+    "date": "2007-06-13 19:51:51",
+    "title": "HDR",
+    "text": "Já ég ætla að reyna að útskýra eftir minni bestu getu, hvernig maður á að gera HDR mynd.\nJæja við skulum byrja á stóru köllunum með SLR hlunkana.\nÞið þurfið þrífót í verkefnið, stillið vélina þannig litla prikið er á 0 og takið mynd af viðfangsefninu, næst skulið þið hreyfa við hraðanum (EKKI LJÓSOPINU) þannig prikið fari á +2, og síðan stillið þið hraðan þannig prikið er farið á -2, alltaf hafa sama ljósop.\nSíðan má auðvitað taka mynd á öllum stoppum -1 -2 0 +1 +2 og jafnvel fara lengra.\nSvo er til ódýrari leið ef þið eruð ekki með þrífót, það er að taka bara eina mynd í 0, og ég myndi taka myndirnar í RAW, síðan opnið þið myndina í Photoshop, og breytið exposure þar.\nJá það er líka hægt að nota litlu flottu point and shoot vélarnar í þetta.\nTakið bara eina mynd, opnið hana í photoshop – farið í Image > Adjustments > Exposure og breytið í +2 og save-ið myndina, farið sömu leið og gerið -2 núna, eða bara hvað sem þið viljið.\nSíðan bjó einhver snillingur til forrit sem heitir Photomatix Pro, ég veit ekki hvort það séu til önnur forrit en þetta er það sem ég nota. Forritið gerir allt fyrir ykkur, þið þurfið bara að Generate-a myndirnar og síðan Tone mapping. Veit samt ekki betur en að þið verðið að vera ólögleg og downloada því einhver staðar.\nVona að þetta hafi komið að gagni.\nSíðan ef það eru einhverjar spurningar bara spurja.",
+    "url": "https://www.hugi.is/ljosmyndun/greinar/524558/hdr/",
+    "url_id": "524558",
+    "id": "4992810",
+    "replies": [
+        {
+            "user": "steini21",
+            "user_id": "31936",
+            "date": "2007-06-13 19:59:30",
+            "id": "4993479",
+            "reply_to_id": "4992810",
+            "text": "Veit samt ekki betur en að þið verðið að vera ólögleg og downloada því einhver staðar.\nNú eða bara versla það, kostar ekki mikið. Svona fyrir utan það að það er hægt að fá trial en þá fær maður merkingu á myndirnar, en það ætti að vera ok meðan fólk er að sjá hvort það fýli þetta."
+        },
+        {
+            "user": "chromosome",
+            "user_id": "39511",
+            "date": "2007-06-13 20:58:01",
+            "id": "4993707",
+            "reply_to_id": "4993479",
+            "text": "Æji þessi merking fer rosalega í taugarnar á mér, stendur alltaf stórum stöfum þversum yfir myndina: PHOTOMATIX…"
+        },
+        {
+            "user": "steini21",
+            "user_id": "31936",
+            "date": "2007-06-13 21:19:32",
+            "id": "4993788",
+            "reply_to_id": "4993707",
+            "text": "meðan fólk er að sjá hvort það fýli þetta."
+        },
+        {
+            "user": "YNWA",
+            "user_id": "64669",
+            "date": "2007-06-13 22:31:36",
+            "id": "4994022",
+            "reply_to_id": "4993479",
+            "text": "Jájá, vissi bara ekki að þetta væri til á Íslandi."
+        },
+        {
+            "user": "Tiddis",
+            "user_id": "64350",
+            "date": "2007-06-13 22:27:30",
+            "id": "4994004",
+            "reply_to_id": "4992810",
+            "text": "Hvaða prik ertu að tala um?"
+        },
+        {
+            "user": "YNWA",
+            "user_id": "64669",
+            "date": "2007-06-13 22:31:20",
+            "id": "4994020",
+            "reply_to_id": "4994004",
+            "text": "Þú veist það ef þú átt SLR vél."
+        },
+        {
+            "user": "Tiddis",
+            "user_id": "64350",
+            "date": "2007-06-13 23:35:46",
+            "id": "4994329",
+            "reply_to_id": "4994020",
+            "text": "Ég vill samt vita hvað þetta prik hvort sem ég á SLR vél eður ei!"
+        },
+        {
+            "user": "Noproblem",
+            "user_id": "23636",
+            "date": "2007-06-14 02:19:28",
+            "id": "4994721",
+            "reply_to_id": "4994329",
+            "text": "Það heitir eitthvað ‘exposure bracket’, og er einfaldlega kvarði sem sýnir þér hve vel lýst myndin verður m.v. núverandi stillingar."
+        },
+        {
+            "user": "Tiddis",
+            "user_id": "64350",
+            "date": "2007-06-14 15:43:44",
+            "id": "4995612",
+            "reply_to_id": "4994721",
+            "text": "þakka þé"
+        },
+        {
+            "user": "Jagla",
+            "user_id": "62022",
+            "date": "2007-06-20 22:39:59",
+            "id": "5013155",
+            "reply_to_id": "4994721",
+            "text": "og er einfaldlega kvarði sem sýnir þér hve vel lýst myndin verður m.v. núverandi stillingar.\nGallinn við þetta exposure bracket er að það er ekki nógu oft trúverðugt, þess vegna nota ég M. T.d., í ferðinni minni núna síðustu tvær vikur þá notaði ég fyrir 95% myndanna M (hin 5% Tv) og bracketið var alltaf vel undir eða smá yfir 0-inu, alveg sama hvort það var, myndirnar voru næstum alltaf spot-on í lýsingu (sögðu histogram-ið og skjárinn).\nEn, þetta bracket nýtist mörgum mjög vel, bara mín skoðun á þessu. Það væri samt gott fyrir flesta að læra á M-ið, indælisstilling. :-)"
+        },
+        {
+            "user": "YNWA",
+            "user_id": "64669",
+            "date": "2007-06-21 19:11:55",
+            "id": "5015003",
+            "reply_to_id": "4994329",
+            "text": "http://www.dpreview.com/reviews/CanonEOS400D/Images/Changes/TV2006083115211800.gif"
+        },
+        {
+            "user": "fkndabbi",
+            "user_id": "9677",
+            "date": "2007-08-08 16:17:00",
+            "id": "5130682",
+            "reply_to_id": "4994020",
+            "text": "engin svona prik á minni :)\nD80"
+        },
+        {
+            "user": "sgo",
+            "user_id": "35463",
+            "date": "2007-08-25 19:38:52",
+            "id": "5177151",
+            "reply_to_id": "5130682",
+            "text": "Hmm, hvernig er þetta með D80 er ekki hægt að stilla hraðann eitthvað og taka svona myndir:\nhttp://www.hugi.is/ljosmyndun/images.php?page=view&contentId=4803361\nhttp://www.hugi.is/ljosmyndun/images.php?page=view&contentId=4803340\n?\ner nebbnilega að spá í D80 :)"
+        },
+        {
+            "user": "fkndabbi",
+            "user_id": "9677",
+            "date": "2007-08-26 19:14:51",
+            "id": "5179290",
+            "reply_to_id": "5177151",
+            "text": "jú frá 1/2000 eða eitthvað álíka uppí 30 sekúndur eða handvirkt."
+        },
+        {
+            "user": "Zorix",
+            "user_id": "65589",
+            "date": "2007-06-14 09:23:04",
+            "id": "4994912",
+            "reply_to_id": "4992810",
+            "text": "næst skulið þið hreyfa við hraðanum (EKKI LJÓSOPINU)\nAf hverju ekki breyta ljósopinu ?"
+        },
+        {
+            "user": "Noproblem",
+            "user_id": "23636",
+            "date": "2007-06-14 19:19:29",
+            "id": "4996494",
+            "reply_to_id": "4994912",
+            "text": "Vegna þess að breytt ljósop hefur fleiri áhrif en bara breytta lýsingu.\nT.d. verða ljósglampar öðruvísi, en helsta ástæðan er líklega sú að DOFið breytist."
+        },
+        {
+            "user": "Richter",
+            "user_id": "64259",
+            "date": "2007-06-14 14:55:07",
+            "id": "4995497",
+            "reply_to_id": "4992810",
+            "text": "Takið bara eina mynd, opnið hana í photoshop – farið í Image > Adjustments > Exposure\ngetur verið að þetta geti heitið einhvað annað því að þegar ég fer í Image < Adjustments þá finn ég hvergi Exposure"
+        },
+        {
+            "user": "YNWA",
+            "user_id": "64669",
+            "date": "2007-06-14 14:59:01",
+            "id": "4995508",
+            "reply_to_id": "4995497",
+            "text": "Neibb, það er þarna. Það á að vera beint fyrir neðan Shadow/Highlight, soldið neðarlega."
+        },
+        {
+            "user": "Richter",
+            "user_id": "64259",
+            "date": "2007-06-14 15:17:55",
+            "id": "4995567",
+            "reply_to_id": "4995508",
+            "text": "ég er reyndar með photoshop7.0 ef það breytir einhverju því ég finn þetta hvergi. ég er búinn að leita í öllu  en ég finn ekki einusinni Shadow/Highlight."
+        },
+        {
+            "user": "YNWA",
+            "user_id": "64669",
+            "date": "2007-06-14 15:59:14",
+            "id": "4995644",
+            "reply_to_id": "4995567",
+            "text": "Jaaaáá, nei þetta er ekki þar. Redda sér bara nýrra :)"
+        },
+        {
+            "user": "Richter",
+            "user_id": "64259",
+            "date": "2007-06-14 17:55:11",
+            "id": "4996079",
+            "reply_to_id": "4995644",
+            "text": "darn, en veistu hvar maður getur fengið photmatix?"
+        },
+        {
+            "user": "YNWA",
+            "user_id": "64669",
+            "date": "2007-06-14 18:06:49",
+            "id": "4996141",
+            "reply_to_id": "4996079",
+            "text": "Bara google."
+        },
+        {
+            "user": "Richter",
+            "user_id": "64259",
+            "date": "2007-06-14 18:09:53",
+            "id": "4996157",
+            "reply_to_id": "4996141",
+            "text": "ok"
+        },
+        {
+            "user": "gummicool",
+            "user_id": "23499",
+            "date": "2007-07-06 12:59:54",
+            "id": "5052835",
+            "reply_to_id": "4992810",
+            "text": "Er ekki betra að gera þetta með því að taka þrjár myndir með mismunandi exposure stillingar heldur en að fiffa þetta í photoshop?\nÉg hef t.d. sjálfur séð nokkrar HDR myndir þar sem foss virðist vera silki eða e-ð álíka vegna þess að það voru teknar þrjár myndir, það myndi ekki virka með photoshop nema maður editi myndina.\nVar samt að spá hvort að maður geti sett upp einhverja macro í myndavélina þ.a. hún taki þrjár eða fleiri myndir í einu og breyti exposure stillingum um leið?\nEf einhver veit um þannig myndi ég glaður þiggja þannig upplýsingar :)"
+        },
+        {
+            "user": "Marketwatch",
+            "user_id": "22466",
+            "date": "2007-07-22 20:01:14",
+            "id": "5092340",
+            "reply_to_id": "4992810",
+            "text": "Þú kannt ekkert á hdr. Þú overkillar allar myndir og gerir þær að einhverju rugli bara. Þú munt skilja það seinna þegar þú verður betri.\nHérna er dæmi um fallega hdr mynd:\nhttp://www.flickr.com/photos/mikont/860879958/\nHérna er dæmi um eina af þínum:\nhttp://images.hugi.is/ljosmyndun/118730.jpg"
+        },
+        {
+            "user": "YNWA",
+            "user_id": "64669",
+            "date": "2007-07-22 20:05:09",
+            "id": "5092349",
+            "reply_to_id": "5092340",
+            "text": "Kann ég ekkert á HDR? mér finnst kannski myndin mín flott en ekki þér, sættu þig við það."
+        },
+        {
+            "user": "Marketwatch",
+            "user_id": "22466",
+            "date": "2007-07-29 01:34:25",
+            "id": "5108348",
+            "reply_to_id": "5092349",
+            "text": "Skoðaðiru myndirnar. Þú ofnotar HDR, fact.\nBætt við 29. júlí 2007 -  01:38\nAfsakaðu hörð comment. Allaveganna prufaðu að slaka aðeins á og ekki vinna hdr myndirnar svona mikið."
+        },
+        {
+            "user": "YNWA",
+            "user_id": "64669",
+            "date": "2007-07-29 01:46:16",
+            "id": "5108362",
+            "reply_to_id": "5108348",
+            "text": "Þú ert að ná pointinu, maður þarf að ofvinna þær svo þær líti ekki út eins og “ofunnar hdr myndir”,\nhérna er hdr\nfrá mér, sem ég þurfti virkilega að vinna mikið í tone mapping, og photoshop eftir á til að hún myndi ekki líta út eins og hinar…\nBætt við 29. júlí 2007 -  01:48\nþú ert EKKI að ná pointinu… átti þetta nú að vera"
+        },
+        {
+            "user": "Marketwatch",
+            "user_id": "22466",
+            "date": "2007-07-29 01:50:52",
+            "id": "5108365",
+            "reply_to_id": "5108362",
+            "text": "Já afhverju ertu þá að skila þeim hálfkláruðum?\nÞað er bara fáránlegt.\nBætt við 29. júlí 2007 -  01:53\nMyndin er mikið skárri en samt ótrúlega grainy."
+        },
+        {
+            "user": "YNWA",
+            "user_id": "64669",
+            "date": "2007-07-29 01:52:34",
+            "id": "5108367",
+            "reply_to_id": "5108365",
+            "text": "Ég er ekkert að skila þeim hálfkláruðum, mér fannst þetta bara nokkuð flott á þessum tímapunkti, en málið er að allir eru að segja að þetta sé ofunnið sem er rangt.\nallavega eftir að ég skoða þessa braggamynd mína og þessar 2 sem ég sendi inn, þá hefði ég átt að leggja meiri tíma í vinnsluna."
+        },
+        {
+            "user": "Marketwatch",
+            "user_id": "22466",
+            "date": "2007-07-29 01:55:19",
+            "id": "5108371",
+            "reply_to_id": "5108367",
+            "text": "Illa unnið hdr er þá betra orð. En já þú ert þá á réttri leið."
+        },
+        {
+            "user": "turambar",
+            "user_id": "27379",
+            "date": "2007-08-14 14:14:53",
+            "id": "5145255",
+            "reply_to_id": "4992810",
+            "text": "ókei,\nvel getur verið að ég sé vitlaus og skilji ekki neitt, og svo getur líka verið að ég hafi bara ekki lesið nógu vel til að fatta þetta, en maður semsagt byrjar að taka allavega 3 myndir á mismunandi xp stillingum.  Hvað gerir maður svo við þær?  Ég býst við að maður þurfi að henda þeim inn í photoshop og setji hverja mynd á mismunandi layer, velja svo einhverja sérstaka blending options…  eða hvað?\nHvernig klárar maður dæmið? ;)\ntakk fyrir…\n-mummi"
+        },
+        {
+            "user": "YNWA",
+            "user_id": "64669",
+            "date": "2007-08-14 14:17:13",
+            "id": "5145260",
+            "reply_to_id": "5145255",
+            "text": "Klárar dæmið í Photomatix Pro.\nTekur 3myndir eða fleiri, opnar photomatix pro, og svo bara gerir forritið allt fyrir þig."
+        },
+        {
+            "user": "turambar",
+            "user_id": "27379",
+            "date": "2007-08-14 14:19:41",
+            "id": "5145265",
+            "reply_to_id": "5145260",
+            "text": "er ekki hægt að gera svona í photoshop?"
+        },
+        {
+            "user": "YNWA",
+            "user_id": "64669",
+            "date": "2007-08-14 14:23:26",
+            "id": "5145275",
+            "reply_to_id": "5145265",
+            "text": "Nei held ekki. Má vel vera en ég kann það ekki."
+        },
+        {
+            "user": "turambar",
+            "user_id": "27379",
+            "date": "2007-08-14 14:28:42",
+            "id": "5145283",
+            "reply_to_id": "5145275",
+            "text": "ókeibb, þá nær maður sér bara í þetta forrit,\ntakk kærlega fyrir upplýsingarnar! ;)\ngóð grein!\n-mummi"
+        },
+        {
+            "user": "Addni",
+            "user_id": "8004",
+            "date": "2007-09-02 19:05:08",
+            "id": "5197311",
+            "reply_to_id": "4992810",
+            "text": "hehe, ég nenni ekki að brasa í þessu ef það er ekki hægt í photoshop (sem það er þó pottþétt) :P"
+        },
+        {
+            "user": "YNWA",
+            "user_id": "64669",
+            "date": "2007-09-02 19:11:32",
+            "id": "5197339",
+            "reply_to_id": "5197311",
+            "text": "Jú, ég kann núna aðferðina í photoshop, en hún er muuuuuuuun erfiðari og flóknari."
+        },
+        {
+            "user": "Euroflight",
+            "user_id": "71358",
+            "date": "2007-12-27 02:43:56",
+            "id": "5513222",
+            "reply_to_id": "4992810",
+            "text": "Takk fyrir leiðbeiningarnar, ég er með “point and shoot” vél og hélt að þetta væri ekki mögulegt með þannig myndavél en þetta tók mig um það bil 10 min eftir að ég las þessa grein   :D\nTakk fyri"
+        },
+        {
+            "user": "Euroflight",
+            "user_id": "71358",
+            "date": "2007-12-27 12:28:56",
+            "id": "5513556",
+            "reply_to_id": "4992810",
+            "text": "Hvernig finnst ykkur þessi, tek það fram að hún var gerð í flýti.  Vill bara vita hvort ég sé á réttri leið með þetta?\nhttp://s193.photobucket.com/albums/z98/benninn/?action=view&current=HDR.jpg"
+        },
+        {
+            "user": "Hawk4",
+            "user_id": "39101",
+            "date": "2008-01-21 23:11:31",
+            "id": "5582318",
+            "reply_to_id": "5513556",
+            "text": "þú ert á fínni leið, mættir vinna hana aðeins meira samt :)"
+        }
+    ]
+}

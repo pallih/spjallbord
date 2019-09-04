@@ -1,0 +1,61 @@
+{
+    "forum_title": "Linux",
+    "user": "add1",
+    "user_id": "1011",
+    "date": "2002-05-08 17:34:35",
+    "title": "Rauðhetta 7.3",
+    "text": "Jæja .. þá er rauðhettan skoppuð upp í útgáfu 7.3 og heitir sú útgáfa því ofursvala nafni: “Valhalla” *hrollur* ;)\ngetið náð í iso myndirnar af geisladiskunum sem eru orðnir 3 .. hvorki meira né minna :) hérlendis hjá öðlingunum hjá RHNet\nftp.rhnet.is/pub/redhat/linux/7.3/en/iso/i386/\nNýtt  í þessari útgáfu fyrir vinnustöðvarnar er t.d\nKDE-3, Gnome-1.4, Evolution, nýtt glibc, XFree86 4.2.0, kjarni 2.4.18 o.m.fl\nþannig fín uppfærsla fyrir flesta …\nhave fun :)",
+    "url": "https://www.hugi.is/linux/greinar/76230/raudhetta-73/",
+    "url_id": "76230",
+    "id": "538303",
+    "replies": [
+        {
+            "user": "kiddisig",
+            "user_id": "4183",
+            "date": "2002-05-08 20:38:23",
+            "id": "538304",
+            "reply_to_id": "538303",
+            "text": "Frábært! Ximian Gnome virkar ekki með þessari útgáfu nema þú fiktir eitthvað í kóðanum (uppsetningarkóðanum held ég). Mér var reyndar bara sagt þetta svo ég hef ekki prufað þetta sjálfur."
+        },
+        {
+            "user": "Titan",
+            "user_id": "7585",
+            "date": "2002-05-09 01:45:44",
+            "id": "538305",
+            "reply_to_id": "538304",
+            "text": "ximian gnome er líka djöfulinn :)"
+        },
+        {
+            "user": "lambi",
+            "user_id": "12494",
+            "date": "2002-05-10 19:10:20",
+            "id": "538306",
+            "reply_to_id": "538303",
+            "text": "hmm…. lifi slackware? :)"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-10 19:57:01",
+            "id": "538307",
+            "reply_to_id": "538306",
+            "text": "Bíða bara eftir slackware 8.1 :)"
+        },
+        {
+            "user": "teknique",
+            "user_id": "1626",
+            "date": "2002-05-15 20:53:30",
+            "id": "538308",
+            "reply_to_id": "538303",
+            "text": "Jibbí, Deadrat coders (eru það ekki marketing fólk eitthvað?) koma með enn einn pakkann af buggy beta software og kernel pötchum sem gera john doe útí bæ ekkert nema ógagn. Í hvert skipti sem það kemur nýtt version af redhat, þá kemur fram nýr hneikslanlegur böggur. Í 7.0 var ónothæft glibc, var ekki gcc 2.96 (þessi ónýti þarna) í 7.1 og 7.2? Ég veit um marga sem fengu BSOD í Redhat 7.1 install :D (X server startaði, blár bakgrunnur og fraus svo). Og svo voru þeir með 7.2 í freeze á ftp mirrorum hvað lengi áður en þeir leyfðu fólki að downloada? (Hneikslanlegt þar sem að kerfið var að verða úrelt þegar fólk mátti downloada því :P)\nEn svona aftur til nútímans, þarf maður orðið 3 helvítis geisladiska til að setja upp basic install af redhat dótinu þarna? Kræst! What a waste of media.\nBaldur\nThe moral of the story: Redhat sýgur, ef þú hefur annað álit, sendu mér þá hugboð en EKKI huga.is boð."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2003-02-15 11:51:44",
+            "id": "538309",
+            "reply_to_id": "538303",
+            "text": "Gömul grein en vá ekki rauðhetta heldur rauphattur :)"
+        }
+    ]
+}

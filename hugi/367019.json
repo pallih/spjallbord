@@ -1,0 +1,77 @@
+{
+    "forum_title": "Vefsíðugerð",
+    "user": "Brainiac",
+    "user_id": "28711",
+    "date": "2006-01-13 12:30:19",
+    "title": "Askur á leiðinni í loftið",
+    "text": "Askur er nokkuð nýtt vefumsjónarkerfi.  Það sér sem sagt um allan kóða hlutann á vefsíðunni. Askur var forritaður af Atla Axfjörð undir harðri hendi minni. Ég hef líka séð um skipulagningu og því sem tengist viðmótinu.\nAskur er nokkuð vel á veg kominn og er notaður til að keyra www.gunnar.stuff.is, www.jokull.is, www.gramann.is og væntanlega nýja síðu\nnff.is\n.  Það er hins vegar margt sem má bæta þó Askur virki nokkuð vel í dag. Kerfið hefur staðnað upp á síðkastið og þá höfum við gripið til þess ráðs að gera kerfið Open Source og reyna þannig að láta það lifa sínu eigin lífi.\nÞað eru nokkrir hlutir sem þurfa að gera áður en kerfið fer í mjög almenna dreifingu:\n1. Gera kerfið open source.  Ég veit ekkert hvort það sé eitthvað mál en ef þú hefur eitthvað vit á þessu, endilega svarðu.\n2. Endurskipuleggja notendaviðmótið og gera allt sem því tengist, þá meina ég að gera það skilvirkara og þægilegra að vafra um það. Hér á ég ekki við að gera allt upp á nýtt heldur bara endurskipulagningu. Til þess þarf einhvern góðan í CSS, og einhvern sem hefur áhuga og þekkir til vefstaðla og aðgengileika.\n3. Kíkja yfir kóðann. Hann er nokkuð gamall miðað við forritarann sem gerði mest alla vinnuna og ber því nokkur merki þess. Hann er enn fremur kaótíoskur og þarf að skipuleggja betur.\n4. Síðan er spurning hvort ekki mætti endurhanna notendaviðmótið frá grunni.  Það var ekki búið til fyrir Ask, heldur síðuna mína og það er spurning hvort ekki sé hægt að gera þægilegra viðmót með endurhönnun. Það er kannski ekki eins mikilvægt og hitt en þarf sennilega að gera það fyrr eða síðar, og helst fyrr (nema að allir verði sáttir við það sem er núna uppi)\nÞeir sem hafa minnsta áhuga á að taka þátt eða vilja skoða kerfið, endilega\nhafið samband\nÞetta er tekið af www.askur.stuff.is en þar sem kerið er ekki komið upp ennþá þá sendi ég þetta hingað inn til að fá umræður.",
+    "url": "https://www.hugi.is/vefsidugerd/greinar/367019/askur-a-leidinni-i-loftid/",
+    "url_id": "367019",
+    "id": "2954705",
+    "replies": [
+        {
+            "user": "bluntman",
+            "user_id": "49532",
+            "date": "2006-01-13 12:52:29",
+            "id": "2955373",
+            "reply_to_id": "2954705",
+            "text": "Askur var forritaður af Atla Axfjörð undir harðri hendi minni.\nVoðalega er þetta ansaleg setning eitthvað :)\nSamt good stuff og gangi þér vel :)"
+        },
+        {
+            "user": "phi",
+            "user_id": "21587",
+            "date": "2006-01-13 14:22:54",
+            "id": "2955810",
+            "reply_to_id": "2954705",
+            "text": "http://www.fsf.org/licensing/licenses/fdl.html\n– Lestu það sem stendur neðst.\nLeyfið þarf alltaf að fylgja forritinu svo að fólki viti að það er frjáls kóði sem það má dreyfa áfram og breyta að vild."
+        },
+        {
+            "user": "phi",
+            "user_id": "21587",
+            "date": "2006-01-13 14:26:34",
+            "id": "2955841",
+            "reply_to_id": "2955810",
+            "text": "Andskotinn, ég ætlaði að láta þig sjá þetta:\nhttp://www.gnu.org/licenses/gpl.html"
+        },
+        {
+            "user": "JonGretar",
+            "user_id": "7636",
+            "date": "2006-01-13 17:29:45",
+            "id": "2956872",
+            "reply_to_id": "2955841",
+            "text": "Hahh… Mæli þið bara með einu…..\nhttp://www.opensource.org/licenses/\nVelja þann sem að þér þykir bestur.  GPL er ekkert alltaf það mest hentuga. Ekki það að nokkur hafi lesið þetta í 14 ár."
+        },
+        {
+            "user": "phi",
+            "user_id": "21587",
+            "date": "2006-01-13 19:14:33",
+            "id": "2957526",
+            "reply_to_id": "2956872",
+            "text": "It is the ONE!"
+        },
+        {
+            "user": "BessiB",
+            "user_id": "3098",
+            "date": "2006-01-13 20:09:46",
+            "id": "2957856",
+            "reply_to_id": "2954705",
+            "text": "1) Hvað svo sem þú gerir verður þú nú að nota alvöru frjálst license á þetta eins og t.d. zlib eða mit licensið (getur lesið um þetta á linknum sme JonGretar sendi)."
+        },
+        {
+            "user": "Brainiac",
+            "user_id": "28711",
+            "date": "2006-01-14 23:49:44",
+            "id": "2962478",
+            "reply_to_id": "2954705",
+            "text": "Ég er að fá eina eða tvær MySQL villur á þesum síðum..\n52 á gunnar.stuff.is ;"
+        },
+        {
+            "user": "Brainiac",
+            "user_id": "28711",
+            "date": "2006-01-15 03:41:50",
+            "id": "2963240",
+            "reply_to_id": "2962478",
+            "text": "Ég veit, uppfærsla á MySql servernum mistókst og hann er niðri sem stendur, þetta er ótengt aski :)"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "forum_title": "Vefsíðugerð",
+    "user": "allipalli",
+    "user_id": "287",
+    "date": "2001-10-29 16:15:42",
+    "title": "Breyta stærð myndar með aðstoð PHP og GD",
+    "text": "Hér á eftir kemur klasi sem ég nota til að resiza   myndir með gd\nAthugið að gd styður ekki gif myndir\nKlasinn er upprunalega ekki eftir mig en ég breytti honum lítilega\nUpprunalegi kóði:\nImage thumbnail0r (with an “0” :])\nmike[@]filespanker.com\nKlasinn:\nclass Imageresize {\nfunction percent($p, $w)\n{\nreturn (real)(100 * ($p / $w));\n}\nfunction unpercent($percent, $whole)\n{\nreturn (real)(($percent * $whole) / 100);\n}\nfunction resize($img, $w, $h)\n{\n// Resize it\n$ow  = imagesx ($img);    // Original image width\n;     $oh  = imagesy ($img);    // Original image height\n// Viðhalda hlutföllunum\n// Ef upprunalega breiddin er stærri en upprunalega hæðin\n// Þá notum við breiddina sem send var inn og minkum hæðina í\n// í réttum hlutföllum\nif ($ow > $oh)\n{\n$nw  = $w;\n$nh = $this->unpercent($this->percent($nw, $ow), $oh);\n}\n// Og öfugt ef hæðin er stærri\nelse if ($oh > $ow)\n{\n$nh = $h;\n$nw =\t$this->unpercent($this->percent($nh, $oh), $ow);\n}\nelse\n{\n$nh = $h;\n$oh = $w;\n}\n//  Búum til nýja   mynd með nýju stærðunum og copyerum upprunalegu\n// myndina yfir í hana\n$out = imagecreate($nw, $nh);\nimagecopyresized($out, $img, 0, 0, 0, 0, $nw, $nh, $ow, $oh);\nimagedestroy($img);\n//  Skilum út resize-uðu   myndinni\nreturn $out;\n}\n}\n?>\nTil a&eth; upploada skr&aacute; &aacute; vefserverinn   &thorn;&aacute; &thorn;arf a&eth; b&uacute;a til form me&eth; enctype=&quot;multipart/form-data&quot;   og file inputi\nD&aelig;mi: <form action=&quot;image.php&quot; method=&quot;post&quot; enctype=&quot;multipart/form-data&quot;>\n<input name=&quot;img&quot; type=&quot;file&quot;>\n<input type=&quot;submit&quot; value=&quot;Senda&quot;>\n</form>Muni&eth; bara a&eth; enctype ver&eth;ur a&eth; vera multipart/form-data   annars virkar &thorn;etta ekki.\nEf allt gengur a&eth; &oacute;skum &thorn;&aacute; geymir php sj&aacute;lfkrafa   skr&aacute;nna &iacute; temp skr&aacute;, h&uacute;n f&aelig;r sama nafn og   file input-i&eth; &iacute; forminu, img &iacute; &thorn;essu tilfelli. H&aelig;gt   er &thorn;&aacute; a&eth; n&aacute;lgast hana &iacute; gegnum breytuna $img.   Einnig ver&eth;a til breyturnar:\n$img_name = upprunalega nafn e&eth;a sl&oacute;&eth; &iacute; skr&aacute;nna   &aacute; v&eacute;linni sem uploada&eth; var fr&aacute;\n$img_size = st&aelig;r&eth; skr&aacute;arinnar\n$img_type = mime t&yacute;pa skr&aacute;arinnar\nH&eacute;r er d&aelig;mi um notkun &aacute; klasanum.\n&THORN;essi forritsb&uacute;tur athugar hvort myndin s&eacute; of st&oacute;r   mi&eth;a&eth; vi&eth; &aacute;kve&eth;na breidd og h&aelig;&eth; og ef svo er   &thorn;&aacute; er h&uacute;n minnku&eth; &iacute; r&eacute;tta st&aelig;r&eth;.\n&Eacute;g eftirl&aelig;t ykkur sj&aacute;lfum a&eth; b&uacute;a til skr&aacute;arn&ouml;fn   &aacute; myndirnar, &thorn;a&eth; g&aelig;ti td. veri&eth; id &iacute; gagnagrunni.\n<?\n//\tgeri\tráð\tfyrir\tað\trezise\tclasinn\tsé\tí\tskrá\tsem\theitir\n//\tclass.imageresize.php\ninclude\t(“class.imageresize.php”);\n//\tbúum\ttil\tnýjan\thlut\n$resize\t=\tnew\tImageresize;\n//\tÁkvörðum\thámarks\tleyfilega\tstærð\tá\tmyndinni\n$width\t=\t60;\n$height\t=\t60;\n//\tPökkunin\tá\tjgp\tmyndinni\t(1-100)\n$quality\t=\t75;\n//\tnáum\tá\tstærðina\tá\tmyndinni\tsem\tupploadað\tvar\n$size\t=\tGetImageSize\t($img);\n//\tAthugum\thvort\tmyndin\tsé\tekki\törugglega\tjpeg\nif\t(eregi\t(“jpeg”,\t$img_type))\t{\n//\tAthugum\thvort\thæðin\teða\tbreidd\tsé\tstærri\ten\tleyfilegt\ter\n//\tog\tef\tsvo\ter\tminnkum\tvið\thana\nif\t(($size[0]\t>\t$width)\t||\t($size[1]\t>\t$height))\t{\n$imgr\t=\t$resize->resize(ImageCreateFromJPEG($img),\t$width,\t$height);\nimagejpeg\t($imgr\t,\t“/slod/a/myndasafn/nafnmyndar.jpg”\t,\t$quality);\n}\n//\tEf\tmyndin\ter\tekki\tof\tstór\tþá\tfærum\tvið\tbara\torginal\tmyndina\nelse\t{\nmove_uploaded_file\t($img,\t“/slod/a/myndasafn/nafnmyndar.jpg”);\n}\n}\n?>\nEndilega bauni&eth; bara &aacute; mig ef &thorn;i&eth;   skilji&eth; ekki eitthva&eth;",
+    "url": "https://www.hugi.is/vefsidugerd/pistlar/48919/breyta-staerd-myndar-med-adstod-php-og-gd/",
+    "url_id": "48919",
+    "id": "319627",
+    "replies": [
+        {
+            "user": "arnihr",
+            "user_id": "61",
+            "date": "2004-08-23 10:07:52",
+            "id": "319631",
+            "reply_to_id": "319627",
+            "text": "“Athugið að gd styður ekki gif myndir”\n- Best að leiðrétta þetta. Með nýrri útgáfum af GD styður ekki GIF. Eldri útgáfur gera það hins vegar, maður þarf bara að finna þann .dll sem er með stuðning fyrir gif hafi maður þörf fyrir að resiza gif myndir.\nBendi ég á\nhttp://www.rhyme.com.au/gd/\nþar sem fást eldri útgáfur og patchar fyrir nýrri útgáfur.(verð að benda á, að ég hafi ekki reynt á útgáfurnar á þessari síðu, svo það þýðir lítið að spurja mig til baka um þetta)"
+        },
+        {
+            "user": "cane",
+            "user_id": "788",
+            "date": "2004-08-23 10:07:52",
+            "id": "319632",
+            "reply_to_id": "319631",
+            "text": "GD-inn skrifar út jpeg myndir með skelfilegum gæðum.  Þeir sem eru mikið að hugsa um að viðhalda gæðum í myndunum sínum ættu frekar að nota NETPBM reklana … til að rezisa myndir.\nBara svona smá info"
+        },
+        {
+            "user": "grugli",
+            "user_id": "9479",
+            "date": "2004-08-23 10:07:52",
+            "id": "319633",
+            "reply_to_id": "319632",
+            "text": "Ef maður notar imagecreatetruecolor() í staðinn fyrir imagecreate() þá fær maður betri gæði á myndirnar."
+        },
+        {
+            "user": "haukur",
+            "user_id": "1226",
+            "date": "2004-08-23 10:07:52",
+            "id": "319634",
+            "reply_to_id": "319633",
+            "text": "Getur einhver sagt mér hvað ég þarf að gera til að fá GD til að virka með PHP í Linux?  Ég er búinn að installa gd-1.8.4 vantar bara að koma þessu inn í php, þarf líklega að gera einhverjar breytingar á php.ini skránni veit bara ekki hverju ég á að breyta.\nallipalli: Góð grein!!\nKv.\nHauku"
+        },
+        {
+            "user": "arnorg",
+            "user_id": "459",
+            "date": "2004-08-23 10:07:52",
+            "id": "319628",
+            "reply_to_id": "319627",
+            "text": "Það mætti jafnvel setja inn leiðbeiningar um hvað þarf að gera til þess að prófa þetta í fyrsta skipti?\nT.d.\nBreyta stillingum fyrir slóðinni að myndamöppunni og eftilvill bæta við upload boxi?\nHeld að margir hafi klórað sér í hausnum yfir svona myndar-endur-stækkun fyrir kannski fréttakerfi þó að ég telji að enhverjir haldi áfram að klóra sér í hausnum :/"
+        },
+        {
+            "user": "allipalli",
+            "user_id": "287",
+            "date": "2004-08-23 10:07:52",
+            "id": "319629",
+            "reply_to_id": "319628",
+            "text": "Var kannski að gera ráð fyrir of mikilli kunnáttu.\nAllavega .. búinn að bæta við greinina, vona að þetta hjálpi mönnum betur."
+        },
+        {
+            "user": "arnorg",
+            "user_id": "459",
+            "date": "2004-08-23 10:07:52",
+            "id": "319630",
+            "reply_to_id": "319629",
+            "text": "Þetta er orðið mun notendavænna :)\nEitt mjög mikilvægt:\nÉg hef sjálfur lent í vandræðum með að fá libba til að virka fyrir php og þar á meðal libGD.\nÞó að php_gd.dll sé í php>extension möppunni og stilltur inná í php.ini þá þarf það ekkert endilega að vera að hann virki?\nEkki spyrja mig!!!!!!!!! :)\nÞannig að ef þetta virkar ekki hjá ykkur þá er málið að prófa að lóda honum bara dærectlí með því að setja ofarlega í skjalið:\ndl(&quot;php_gd.dll&quot;);\nHann verður auðvitað að vera til í php möppunni en honum er hægt að downloada á\nhttp://www.boutell.com/gd"
+        }
+    ]
+}

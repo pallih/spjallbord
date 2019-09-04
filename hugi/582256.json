@@ -1,0 +1,133 @@
+{
+    "forum_title": "Linux",
+    "user": "jlaxdal",
+    "user_id": "3240",
+    "date": "2008-03-28 22:12:20",
+    "title": "top 10 skipanir sem rót",
+    "text": "Rakst á skemmtilegt blogg þar sem var talað um top 10 skipanir á Linux, datt í hug að fá eitthvað svona frá fleirum.\nHérna eru mínar top10 á 3 af mínum vélum:\nÁ borðvélinni minni:\n31 yum\n15 ls\n14 cd\n12 vim\n11 exit\n9 mkdir\n6 rpm\n6 man\n5 ./vpn_install\n5 rm\nÁ webservernum\n130 ls\n98 cd\n58 vim\n22 atq\n21 iptables\n11 rm\n11 /etc/init.d/apache2\n11 chown\n10 wget\n10 mv\ná fileservernum\n298 ls\n226 cd\n59 vim\n36 ll\n33 rm\n25 mv\n23 service\n23 du\n21 chmod\n19 exit\nKóðinn til að fá outputtið\nhistory | awk '{print $2}' | awk 'BEGIN {FS=\"|\"} {print $1}'|sort|uniq -c | sort -n | tail | sort -nr",
+    "url": "https://www.hugi.is/linux/korkar/582256/top-10-skipanir-sem-rot/",
+    "url_id": "582256",
+    "id": "5740081",
+    "replies": [
+        {
+            "user": "sith",
+            "user_id": "812",
+            "date": "2008-03-28 22:42:48",
+            "id": "5740139",
+            "reply_to_id": "5740081",
+            "text": "Ferðavélin\n66 cd\n60 ls\n36 yum\n24 ll\n19 ssh\n16 vpnc\n15 ifconfig\n14 rpm\n13 rm\n9 /etc/init.d/vboxdrv\nVinnuvélin\n59 cd\n54 ls\n46 yum\n34 ssh\n23 vi\n20 ping\n14 rpm\n13 mount.cifs\n12 history\n10 ll\nEinn af vefþjónunum\n150 ls\n141 cd\n55 ll\n38 vi\n37 mkdir\n26 rm\n23 du\n19 “censored”\n19 df\n15 grep"
+        },
+        {
+            "user": "halldor89",
+            "user_id": "28057",
+            "date": "2008-03-29 01:27:11",
+            "id": "5740436",
+            "reply_to_id": "5740081",
+            "text": "Töff! Ég nenni ekki að fara inn á fleiri vélar. En…\nBorðvélin (mjög nýlega uppsett):\n79 sudo\n47 python\n34 ls\n27 cd\n13 cdemu\n13 apt-cache\n11 wine\n9 django-admin\n7 iwlist\n5 man\nOg svo er leiktækið mitt, vefþjónn sem hefur ekkert hlutverk annað en að skemmta mér og vera ssh tunnel :P\n42 ls\n40 cd\n38 sudo\n19 tar\n19 ssh\n18 exit\n11 wget\n10 ./configure\n8 git\n7 su"
+        },
+        {
+            "user": "opi",
+            "user_id": "29163",
+            "date": "2008-03-29 03:03:29",
+            "id": "5740554",
+            "reply_to_id": "5740081",
+            "text": "84 ls\n51 cd\n42 sudo\n32 ssh\n23 echo\n22 cat\n15 apt-get\n12 emacs\n10 chmod\n9 man\nég er reyndar ekki alveg sammála þessu, en jæjja, varla lýgur “HISTORY” að manni.\nBætt við 29. mars 2008 -  03:07\nVeit ekki alveg hvernig línubilin brengluðust svona… :S"
+        },
+        {
+            "user": "HomoLuminous",
+            "user_id": "34866",
+            "date": "2008-03-29 17:27:31",
+            "id": "5741357",
+            "reply_to_id": "5740081",
+            "text": "113 sudo\n102 clear\n38 gcc\n25 ls\n25 cd\n16 ./pe13\n13 ./soe\n13 man\n12 ./configure\n11 tar\nkUbuntu, þannig sudo kemur ekki á óvart. Ég forrita einnig mikið, þannig gcc er hátt."
+        },
+        {
+            "user": "sith",
+            "user_id": "812",
+            "date": "2008-03-30 02:41:22",
+            "id": "5742485",
+            "reply_to_id": "5741357",
+            "text": "Sé að Clear er ofarlega hjá þér . . . sjálfsagt veistu af því en ef ekki . . .ctrl-l gerir það sama :)"
+        },
+        {
+            "user": "HomoLuminous",
+            "user_id": "34866",
+            "date": "2008-03-30 14:24:58",
+            "id": "5743034",
+            "reply_to_id": "5742485",
+            "text": "Nei :O - Vissi reyndar ekki af því.\nÉg þakka.\nEn já, ég er ansi mikill perfectionisti, þarf að hafa öll mín forrit og allt mitt tölvudrasl stílhreint og snyrtilegt, meðan ég stafla pepsidósum  í pýramída á skrifborðinu mínu, hehe."
+        },
+        {
+            "user": "egth",
+            "user_id": "31699",
+            "date": "2008-03-30 12:17:59",
+            "id": "5742772",
+            "reply_to_id": "5740081",
+            "text": "top10 á vefservernum mínum;\n161 ls\n155 cd\n59 nano\n21 rm\n17 sh\n13 perl\n10 mv\n6 iptables\n5 mkdir\n5 chmod"
+        },
+        {
+            "user": "smeppi",
+            "user_id": "717",
+            "date": "2008-03-31 08:23:14",
+            "id": "5744965",
+            "reply_to_id": "5740081",
+            "text": "289 sudo\n64 cd\n56 ls\n7 ping\n6 wine\n6 mkdir\n4 tar\n4 firefox\n4 ccsm\n3 unzip\nEr ekki hægt að sjá hvaða skipun er vinsælust á eftir sudo?"
+        },
+        {
+            "user": "jlaxdal",
+            "user_id": "3240",
+            "date": "2008-03-31 11:09:55",
+            "id": "5745118",
+            "reply_to_id": "5744965",
+            "text": "Það er “cd” hjá þér,  þetta er koll af kolli.\nvinsælasta skipunin er efst, næstvinsælasta þar á eftir og svo koll af kolli þangað til top 10 vinsælustu skipanirnar eru komnar."
+        },
+        {
+            "user": "smeppi",
+            "user_id": "717",
+            "date": "2008-03-31 16:21:56",
+            "id": "5745652",
+            "reply_to_id": "5745118",
+            "text": "ja ég legg það nú ekki í vana minn að gera sudo cd, þó það hafi komið fyrir :p\nEr að meina skipun sem kemur á eftir sudo, sem er í raun ekki skipun, ekki þannig. Eða þú veist.."
+        },
+        {
+            "user": "opi",
+            "user_id": "29163",
+            "date": "2008-04-01 07:28:59",
+            "id": "5747311",
+            "reply_to_id": "5744965",
+            "text": "Prufaðu þetta til að fá það sem er vinslælast eftir sudo\nhistory | grep -o \"sudo.*\" | awk '{print $2}' | sort | uniq -c | sort -nr | head"
+        },
+        {
+            "user": "opi",
+            "user_id": "29163",
+            "date": "2008-04-01 08:16:02",
+            "id": "5747344",
+            "reply_to_id": "5747311",
+            "text": "Eða þessi:\nhistory | grep -o \"[0-9]\\+ *sudo.*\" | awk '{print $3}' | sort | uniq -c | sort -nr | head\nÆtli hann sé ekki betri."
+        },
+        {
+            "user": "smeppi",
+            "user_id": "717",
+            "date": "2008-04-10 00:58:46",
+            "id": "5767958",
+            "reply_to_id": "5747344",
+            "text": "Aha, þetta er allt annað :p\n95 iwconfig\n51 dhclient\n50 ntfs-3g\n45 aptitude\n19 sh\n5 iwlist\n5 gedit\n2 /usr/share/doc/libdvdread3/install-css.sh\n2 .startup.sh\n2 regionset"
+        },
+        {
+            "user": "dagr",
+            "user_id": "378",
+            "date": "2008-03-31 18:01:37",
+            "id": "5745922",
+            "reply_to_id": "5740081",
+            "text": "Lítill server:\n85 ls\n80 cd\n56 sudo\n45 rm\n32 exit\n23 ssh\n22 ps\n20 mv\n15 df\n12 par2repair\nBorðtölva:\n115 cd\n94 ls\n62 sudo\n38 gvim\n24 python\n22 vim\n17 svn\n14 exit\n8 meld\n8 grep"
+        },
+        {
+            "user": "Polarina",
+            "user_id": "64228",
+            "date": "2008-04-23 15:10:00",
+            "id": "5797252",
+            "reply_to_id": "5740081",
+            "text": "[b]Username: polarina[/b]\n    120 svn\n     58 ls\n     55 cd\n     36 cat\n     32 lua\n     28 7z\n     26 clear\n     25 nvidia-settings\n     21 sudo\n     14 wine\n[b]Username: root[/b]\n     74 ls\n     73 cd\n     50 cat\n     25 emerge\n     24 nano\n     23 ebuild\n     20 diff\n     17 cp\n      9 exit\n      8 modprobe"
+        }
+    ]
+}

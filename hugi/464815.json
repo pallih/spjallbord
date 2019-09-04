@@ -1,0 +1,221 @@
+{
+    "forum_title": "Forritun",
+    "user": "HomoLuminous",
+    "user_id": "34866",
+    "date": "2006-11-14 16:58:02",
+    "title": "Forritunar áskorun #2: Mersenne Twister",
+    "text": "Eftir að hafa sent inn Forritunar Áskorun #1, þá var ég þar með að segja að ég myndi senda inn fleiri enn eina áskorun inn.\nÉg hef verið aðeins of upptekinn upp á síðkastið og ekki haft tíma til að finna eitthvað efni sem hægt væri að senda inn, en ég rakst hins vegar á eina helvíti skemmtilega áskorun á netinu um daginn og ákvað að deila henni með ykkur.\nHún er töluvert skref upp á við miðað við Glaðar/Leiðar tölur, en þetta er ekkert rosalegt, þannig engar áhyggjur.\nÞýtt frá ensku, fengið frá osix.net(Enginn höfundarréttur sem ég gat séð þarna):\nMersenne Twister(Héðan í frá MT) er svokallaður “pseudo-random number generator.” Þetta er aðeins “psuedo-random” af því að tölvan getur ekki hugsað sjálf, og tekur alltaf við skipunum og þess vegna er ekki hægt að framleiða 100% random tölur með töluforritum eins og er. Reyndar er þetta mun flókanara, en ég ætla mér ekki að skrifa ritgerð um þetta, þannig kíkið á\nhttp://en.wikipedia.org/wiki/Pseudo-random_number_generator\nef þið viljið fræðast meira um þetta.\nÁskorunin virkar svona:\nTala er tekin og henni er hent í MT fallið, þar sem henni hún er lamin um aðeins. Eftir það er tölunni skilað, tekið mod 6 af henni(þeas. afgangurinn þegar það er deilt með 6.. 13/6 = 2, 1 í afgang) og sú tala geymd. Svo er tölunni hent aftur í og þetta endurtekið 13 sinnum þannig að þú ert með 13 tölur á milli 0 og 6. Ekki henda afgangnum í fallið, heldur tölunni sjálfri.\nVerkefnið er að finna þá tölu sem gefur af sér talnarununa 6, 4, 5, 2, 3, 3, 1, 5, 1, 5, 1, 6, 3.\nTil að framkvæma þetta þurfið þið MT fallið.\ns1 = seed;\ns1 ^= (s1 >> 11);\ns1 ^= (s1 << 7) & 0x9d2c5680U;\ns1 ^= (s1 << 15) & 0xefc60000U;\ns1 ^= (s1 >> 18);\nreturn s1;\nÞað er fleiri en ein tala sem getur framleitt þessa runu.\nÁskorunin er séð sem framkvæmd þegar þið sýnið kóða sem mun framleiða allar mögulegar tölur sem framleiða rununa(Ekki hærri en 2^32-1) og svo tölurnar sem þið fenguð úr forritinu ykkar.\nEf enginn kemur með lausn fyrir enda vikunnar mun ég sýna mína lausn.\n“Brute-force away!”",
+    "url": "https://www.hugi.is/forritun/greinar/464815/forritunar-askorun-2-mersenne-twister/",
+    "url_id": "464815",
+    "id": "4211135",
+    "replies": [
+        {
+            "user": "Orkamjas",
+            "user_id": "55230",
+            "date": "2006-11-14 17:48:52",
+            "id": "4217099",
+            "reply_to_id": "4211135",
+            "text": "Wtf?"
+        },
+        {
+            "user": "Orkamjas",
+            "user_id": "55230",
+            "date": "2006-11-14 19:51:56",
+            "id": "4217889",
+            "reply_to_id": "4217099",
+            "text": "eg gæti sagst hafa skilið eitthvað í þessu..\nen það væri lygi /:"
+        },
+        {
+            "user": "Orkamjas",
+            "user_id": "55230",
+            "date": "2006-11-14 19:58:14",
+            "id": "4217935",
+            "reply_to_id": "4217889",
+            "text": "Eigum við að vera n00bar saman?:)"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2006-11-14 20:32:23",
+            "id": "4218131",
+            "reply_to_id": "4217935",
+            "text": "Hahaha jaa endilega :D"
+        },
+        {
+            "user": "killy",
+            "user_id": "42987",
+            "date": "2006-11-14 20:27:37",
+            "id": "4218100",
+            "reply_to_id": "4211135",
+            "text": "Þetta er flókið:/\nÉg átti í erfiðleikum í dag því ég á að búa til Black Jack spil á Java."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2006-11-14 20:35:35",
+            "id": "4218152",
+            "reply_to_id": "4211135",
+            "text": "Skoo..\nErhm…\nTss.."
+        },
+        {
+            "user": "allisnilli",
+            "user_id": "43916",
+            "date": "2006-11-14 21:02:03",
+            "id": "4218280",
+            "reply_to_id": "4211135",
+            "text": "Ég skil ekki alveg fyrirmælin í endann, hvað eigum við að gera, forrit sem finnur hvaða tala framkallar rununa 1, 2, 3…?\nBætt við 14. nóvember 2006 -  21:02\nOk, missti af smá bút, fatta þetta núna, ætla að reyna að gera lausn."
+        },
+        {
+            "user": "allisnilli",
+            "user_id": "43916",
+            "date": "2006-11-14 21:07:24",
+            "id": "4218304",
+            "reply_to_id": "4211135",
+            "text": "Nei bíddu nú við, þetta er ekki hægt, röðin er 6, 4, 5, 2, 3, 3, 1, 5, 1, 5, 1, 6, 3. En þú getur ekki fengið sex út sem afgang af deilingu með sex, mest fimm, á að bæta einum við, því ég sé að það er ekkert núll. Eða á að breyta 0 í sex?"
+        },
+        {
+            "user": "davido",
+            "user_id": "27961",
+            "date": "2006-11-15 09:56:33",
+            "id": "4219785",
+            "reply_to_id": "4218304",
+            "text": "Það á að bæta 1 við módúlusinn. Fann þetta á osix síðunni, undir Bonus levels."
+        },
+        {
+            "user": "budingur",
+            "user_id": "39775",
+            "date": "2006-11-15 03:22:57",
+            "id": "4219577",
+            "reply_to_id": "4211135",
+            "text": "s1 = seed;\ns1 ^= (s1 >> 11);\ns1 ^= (s1 << 7) & 0x9d2c5680U;\ns1 ^= (s1 << 15) & 0xefc60000U;\ns1 ^= (s1 >> 18);\nreturn s1;\nEr það rétt skilið hjá mér að s1 ^= (s1 >> 11);\nSé í raun:\ns1 = s1 XOR (s1 >> 11);\n?\nÉg skil ekki svona high level skammstafanir/tákn.\nEr etta partur af C ?"
+        },
+        {
+            "user": "davido",
+            "user_id": "27961",
+            "date": "2006-11-15 07:42:18",
+            "id": "4219639",
+            "reply_to_id": "4219577",
+            "text": "Það er rétt skilið hjá þér og já, þetta er t.d. notað svona í C/C++.\n^  - Bitwise XOR\n<< - Left shift\n>> - Right shift\n&  - Bitwise AND\n|  - Bitwise OR"
+        },
+        {
+            "user": "budingur",
+            "user_id": "39775",
+            "date": "2006-11-15 15:00:41",
+            "id": "4220712",
+            "reply_to_id": "4219639",
+            "text": "Þetta er svo mikil vitleysa, afhverju nota þeir sem hönnuðu málið bara XOR, AND,OR,SHL,SHR, ROL og ROR ?\nMiklu einfaldara, ekki nein svona “cryptic” tákn.\nKanski er ég að spyrja rangan mann ?"
+        },
+        {
+            "user": "davido",
+            "user_id": "27961",
+            "date": "2006-11-15 15:31:08",
+            "id": "4220907",
+            "reply_to_id": "4220712",
+            "text": "Hehe, ég náttúrulega hannaði ekki málið sjálfur :)\nEn C var upphaflega hugsað sem “minimaliskt” mál, þ.e. mál sem þú getur forritað í án þess að skrifa mikinn texta. Það er líklega helsta skýringin á því hvers vegna þessi “cryptisku” tákn eru notuð, en annars er þetta frekar einfalt þegar þú ert búinn að læra það :)"
+        },
+        {
+            "user": "davido",
+            "user_id": "27961",
+            "date": "2006-11-15 11:09:58",
+            "id": "4219909",
+            "reply_to_id": "4211135",
+            "text": "Ég gerði þetta sem windows forrit og safnaði upp í List box :Þ En þetta virðist virka (osix gaf mér rétt allavega :) )\nForritið einfaldlega prófar allar tölur frá 1 til 0xFFFFFFFF og safnar í listboxið þeim sem gefa umbeðna röð. Samkvæmt forritinu eru þær tvær - en þar sem ég var búinn að loka því, þá nenni ég ekki að keyra það aftur til að pósta þeim hér :/\nint ipSeq[13] = {6, 4, 5, 2, 3, 3, 1, 5, 1, 5, 1, 6, 3};\n  unsigned int iSeed;\n  short k;\n  short iFound = 0;\n  for( unsigned int i = 1; i > 0; i++ ) {\n    iSeed  = i;\n    iFound = 0;\n    k      = 0;\n    while( !iFound && ((iSeed = MT(iSeed)) % 6 + 1) == ipSeq[k++] ) {\n      if( k == 13 )\n        iFound = 1;\n    }\n    if( iFound )\n      ListBox1->Items->Add(i);\n    if( i % 1000000 == 0 ) {\n      Label1->Caption = i;\n      Application->HandleMessage();\n    }\n  }\nBætt við 15. nóvember 2006 -  13:22\nÆji, það var kannski óþarfi að pósta lausninni svona strax :( Biðst afsökunar á þessu frumhlaupi mínu. Við verðum bara að ætla áhugasömum að skoða ekki kódann fyrr en eftir að þeir eru búnir að leysa þetta sjálfi"
+        },
+        {
+            "user": "HomoLuminous",
+            "user_id": "34866",
+            "date": "2006-11-15 21:25:42",
+            "id": "4223074",
+            "reply_to_id": "4219909",
+            "text": "Hve langann tíma tók að keyra í gegnum allt?\nÞar sem þú virðist ekki hafa time-að það, ekki málið að skella timer inn og keyra einu sinni en? :p"
+        },
+        {
+            "user": "davido",
+            "user_id": "27961",
+            "date": "2006-11-15 23:17:54",
+            "id": "4223744",
+            "reply_to_id": "4223074",
+            "text": "Ég breytti þessu í Console forrit til að reyna að minnka keyrslutímann eitthvað og þetta er niðurstaðan - ég pósta forritinu bara aftur í nýrri útgáfu, þó það sé reyndar nánast eins.\n1747419921 - tala 1\n3785695235 - tala 2\n4:18       - keyrslutími (4 mínútur og 18 sekúndur).\n#include <iostream.h>\n#include <time.h>\n#include <conio.h>\nint MT(unsigned int);\n#pragma argsused\nint main() {\n  int ipSeq[13] = {6, 4, 5, 2, 3, 3, 1, 5, 1, 5, 1, 6, 3};\n  unsigned int iSeed;\n  short k;\n  short iFound = 0;\n  time_t T;\n  T = time(NULL);\n  for( unsigned int i = 1; i > 0; i++ ) {\n    iSeed  = i;\n    iFound = 0;\n    k      = 0;\n    while( !iFound && ((iSeed = MT(iSeed)) % 6 + 1) == ipSeq[k++] ) {\n      if( k == 13 )\n        iFound = 1;\n    }\n    if( iFound )\n      cout << i << endl;\n  }\n  T = time(NULL) - T;\n  cout << T/60 << \":\" << T%60 << endl;\n  getch();\n  return 0;\n}\nint MT(unsigned int iSeed) {\n  iSeed ^= (iSeed >> 11);\n  iSeed ^= (iSeed << 7) & 0x9D2C5680U;\n  iSeed ^= (iSeed << 15) & 0xEFC60000U;\n  iSeed ^= (iSeed >> 18);\n  return iSeed;\n}"
+        },
+        {
+            "user": "kjerulf",
+            "user_id": "12099",
+            "date": "2006-11-17 19:24:07",
+            "id": "4231232",
+            "reply_to_id": "4223744",
+            "text": "while( !iFound && ((iSeed = MT(iSeed)) % 6 + 1) == ipSeq[k++] )\nklarlega minn kappi"
+        },
+        {
+            "user": "HomoLuminous",
+            "user_id": "34866",
+            "date": "2006-11-15 16:09:12",
+            "id": "4221098",
+            "reply_to_id": "4211135",
+            "text": "Já afsakið innilega..\nBæta verður 1 við modúlusinn til að geta fengið réttu rununa..\nFannst ég einmitt vera að gleyma einhverju.\nBætt við 15. nóvember 2006 -  16:15\nEinnig eitt:\nKudos er fyrir harðvirkasta forritið.\nJava menn verða líklega ekki þeir sem fá það kudos, en bara útúr forvitni, endilega postið tímanum ykkar..\nFyrir C/C++ menn þá er það leyft að nota optimization flags fyrir gcc/g++ eða hvaða compiler þið notið. Póstið bara flöggunum og það væri líka gott að fá tölvu speccin ykkar.."
+        },
+        {
+            "user": "budingur",
+            "user_id": "39775",
+            "date": "2006-11-16 04:02:12",
+            "id": "4224308",
+            "reply_to_id": "4221098",
+            "text": "hvað um lausn í assembly ?"
+        },
+        {
+            "user": "HomoLuminous",
+            "user_id": "34866",
+            "date": "2006-11-16 12:34:21",
+            "id": "4224903",
+            "reply_to_id": "4224308",
+            "text": "Jájá, auðvitað. Öll tungumál leyfð. Væri gaman að sjá eina í assembly."
+        },
+        {
+            "user": "Popcorn",
+            "user_id": "8387",
+            "date": "2007-01-10 16:12:28",
+            "id": "4457632",
+            "reply_to_id": "4211135",
+            "text": "Med vissum rokstudningi ma tho segja ad hardware-\nrandom se fullkomlega random. En thad er lika,\neins og alltaf, orlitid floknara."
+        },
+        {
+            "user": "HomoLuminous",
+            "user_id": "34866",
+            "date": "2007-01-11 13:30:22",
+            "id": "4461239",
+            "reply_to_id": "4457632",
+            "text": "Já, það er satt.. Það eru til tæki sem notast við eðlisfræðileg fyrirbæri, eins og geislavirkni í andrúmsloftinu og eitthvað álíka, sem framleiða sannar random tölur.\nEn það sem ég sagði var að tölvur, bara tölvurnar sjálfar, gætu ekki framleitt truly random tölur."
+        },
+        {
+            "user": "SuprDewd",
+            "user_id": "68810",
+            "date": "2010-11-17 17:28:34",
+            "id": "7272493",
+            "reply_to_id": "4211135",
+            "text": "Hér kemur mín lausn.\nHeld hún sé í hægari kantinum.\nstatic void D2()\n        {\n            var nums = from i in 1L.To(0xFFFFFFFF)\n                       where IsCorrectNumber(i)\n                       select i;\n            long time = Utils.ExecutionTime(() =>\n                {\n                    nums.ForEach(n => Console.WriteLine(n));\n                });\n            Console.WriteLine(\"Time: \" + time);\n        }\n        static int[] Sequence = new int[] { 6, 4, 5, 2, 3, 3, 1, 5, 1, 5, 1, 6, 3 }.Select(i => i - 1).ToArray();\n        static bool IsCorrectNumber(long n)\n        {\n            long lastNum = MT(n);\n            int seqLength = Sequence.Length;\n            for (int i = 0; i < seqLength; i++)\n            {\n                if ((lastNum % 6) != Sequence[i]) return false;\n                lastNum = MT(lastNum);\n            }\n            return true;\n        }"
+        },
+        {
+            "user": "HomoLuminous",
+            "user_id": "34866",
+            "date": "2010-11-17 17:35:35",
+            "id": "7272495",
+            "reply_to_id": "7272493",
+            "text": "Flott þetta. Var alveg búinn að gleyma þessum greinum. Gæti verið að ég taki í þetta með Haskell upp á gamnið."
+        },
+        {
+            "user": "SuprDewd",
+            "user_id": "68810",
+            "date": "2010-11-17 17:40:51",
+            "id": "7272498",
+            "reply_to_id": "7272495",
+            "text": "Bara vandamál með verkefni 3 og 4.\nÍ 3 er myndin horfin og í 4 þarf maður að vera með Linux eða XP SP1 eða eldra."
+        },
+        {
+            "user": "HomoLuminous",
+            "user_id": "34866",
+            "date": "2010-11-17 17:49:33",
+            "id": "7272500",
+            "reply_to_id": "7272498",
+            "text": "Ég svaraði þér í PM, en í sambandi við #4: Í raun ekki.\nÞað er rétt að það er búið að bæta við alls kyns göldrum í ný Windows stýrikerfi til þess að koma í veg fyrir einföldustu exploitin, en þar sem þar er vandamál er lausn(allavega í þessu tilfelli), en það er töluvert meira en þessi áskorun býst við.\nFYI; allir linux kjarnar síðan 2.4.x(held ég) hafa ASLR líka, en munurinn er bara sá að það að taka það af til þess að fikta er ekki meira en ein sysctl skipun. Svo er gcc > 3.4.x með fleiri göldrum eins og stack cookies og annað, en það er hægt að slökkva á því þegar maður þýðir kóðann."
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "forum_title": "Apple",
+    "user": null,
+    "user_id": null,
+    "date": "2010-08-28 16:31:29",
+    "title": "Flakkari fyrir Mac og PC?",
+    "text": "Smá pæling, er hægt að nota sama flakkarann fyrir Mac og PC? Var að fá MacBook Pro fyrir skólann og langar að færa nokkrar kvikmyndir, lög etc úr PC tölvunni yfir á Macann, virkar það?\nLas eithverstaðar að það gæti verið vandamál.",
+    "url": "https://www.hugi.is/apple/korkar/709071/flakkari-fyrir-mac-og-pc/",
+    "url_id": "709071",
+    "id": "7228137",
+    "replies": [
+        {
+            "user": "Loki",
+            "user_id": "32054",
+            "date": "2010-08-28 16:43:51",
+            "id": "7228146",
+            "reply_to_id": "7228137",
+            "text": "Þarft bara að hafa flakkarann á NTFS formati. Til þess að maccinn lesi NTFS þarftu að installa Paragon NTFS (sem þú finnur á piratebay), þá er þetta eins og draumur."
+        },
+        {
+            "user": "Loki",
+            "user_id": "32054",
+            "date": "2010-08-28 17:06:54",
+            "id": "7228167",
+            "reply_to_id": "7228146",
+            "text": "Og get ég ennþá notað flakkarann með Windows?"
+        },
+        {
+            "user": "Loki",
+            "user_id": "32054",
+            "date": "2010-08-28 19:17:52",
+            "id": "7228224",
+            "reply_to_id": "7228167",
+            "text": "Já, NTFS er mest notaða format á flökkurum sem eru tengdar við windows tölvur."
+        },
+        {
+            "user": "tonnatak",
+            "user_id": "60608",
+            "date": "2010-09-05 01:47:40",
+            "id": "7231956",
+            "reply_to_id": "7228137",
+            "text": "ööö flestir flakkarar, ekkert mál að formatta flakkara fyrir mac, þarft ekki einu sinni forrit í það, breyta honum í fat32 sem bæði windows og mac lesa."
+        },
+        {
+            "user": "akarnid",
+            "user_id": "6152",
+            "date": "2010-09-08 20:25:22",
+            "id": "7234434",
+            "reply_to_id": "7231956",
+            "text": "Bara að passa að ef þú formatar í FAT32 þá geturu ekki kóperað skrár sem eru stærri en 4 Gb á diskinn."
+        },
+        {
+            "user": "tonnatak",
+            "user_id": "60608",
+            "date": "2010-09-09 08:29:09",
+            "id": "7234677",
+            "reply_to_id": "7234434",
+            "text": "ef þú gerir það í windows já, en í mac er það ótakmarkað"
+        },
+        {
+            "user": "Addni",
+            "user_id": "8004",
+            "date": "2010-09-23 21:14:54",
+            "id": "7243281",
+            "reply_to_id": "7234677",
+            "text": "Það er bara ekki rétt, Fat32 file formatið býður bara ekki uppá skrár sem eru stærri en 4 gíg, óháð því með hvaða stýrikerfi þú formattaðir diskinn."
+        },
+        {
+            "user": "tonnatak",
+            "user_id": "60608",
+            "date": "2010-09-24 16:21:45",
+            "id": "7243797",
+            "reply_to_id": "7243281",
+            "text": "ertu viss? ég sver ég er með stærri fæla á mínum fat32 flakkara"
+        }
+    ]
+}

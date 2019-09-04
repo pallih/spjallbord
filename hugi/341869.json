@@ -1,0 +1,37 @@
+{
+    "forum_title": "Grafísk hönnun",
+    "user": "Dorno",
+    "user_id": "56944",
+    "date": "2005-10-31 18:29:16",
+    "title": "Tutorial: Einfalt en mjög flott",
+    "text": "Jæja hér kemur enn eitt Tutorialið af www.good-tutorials.com  Sem ég, eins og venjulega breytti eftir mínu höfði þar til mér fannst útkoman flottari.\n1. Gerið nýtt skjal 400x400 með svörtum background\n2. Filter->Artistic->Plastic Wrap\nStillingar:\nHighlight Strenght: 20\nDetail:             15\nSmootness:          15\n3. Filter->Distort->Wave\nStillingar:\nNumber of Generators:  5\nWavelengt:             10   120\nAmplitude:             5    35\nScale:                 100  100\nType: Sine\nUndefined Areas: Repeat Edge Pixels\n4. Ctrl-U\nStillingar:\nHue:        211\nSaturation: 25\nLightness:  0\n5. Tvöfaldið nú Layerinn, skýrið hann Layer 1 (ef hann heitir það ekki) og setjið síðan Plastic Wrap á upprunalega Layerinn með sömu stillingar og áðan\n6. Veljið Layer 1 og farið svo í Edit->Transform->Rotate 90 CW og setjið Blending Mode í Linear Dodge\n7. Tvöfaldið nú upprunalega Layerinn, skýrið hann Layer 2 og hafið hann á milli Bakgrounds og Layer 1 og setjið Blending Mode í Hard Light\n8. Veljið Layer 2 og ýtið á Ctrl-U\nStillingar:\nHue:        243\nSaturation: 25\nLightness:  0\n9. Veljið nú upprunalega Layerinn og ýtið á Ctrl-U\nstillingar:\nHue:         263\nSaturation:  100\nLightness:   0\nog þá held ég að þetta sé komið. Því miður sendist greinin mín ekki inn i gær og núna virkar ekki síðan þar sem ég fann þetta.\nEn ég held að þetta hafi verið nokkuð rétt og\nHér er mín útkoma\nMín er reyndar öðruvísi þar sem ég bætti örlítið við hana og nú vil ég að þið gerið ykkar eigin tilraunir og sýnið mé",
+    "url": "https://www.hugi.is/grafik/greinar/341869/tutorial-einfalt-en-mjog-flott/",
+    "url_id": "341869",
+    "id": "2640045",
+    "replies": [
+        {
+            "user": "Emlinn",
+            "user_id": "60050",
+            "date": "2005-10-31 20:18:03",
+            "id": "2641373",
+            "reply_to_id": "2640045",
+            "text": "Ágætt svo sem. Ekkert sem heillar mig upp úr skónum. En já gott tutorial fyrir byrjendur og vel upp sett ;)Gott að greinarnar á þessu áhugamáli fljúga inn :P"
+        },
+        {
+            "user": "sarot",
+            "user_id": "17985",
+            "date": "2005-10-31 21:43:29",
+            "id": "2641780",
+            "reply_to_id": "2640045",
+            "text": "Tók hitt og þetta úr þessu tutorial og fór svo mínar leiðir…bullaði eitthvað og jámm, sendi svo ruglið í “myndir”. Ætti að birtast bráðum þar :P\nAnnars flottir effektar. :)"
+        },
+        {
+            "user": "TorOla",
+            "user_id": "29409",
+            "date": "2005-11-01 10:28:44",
+            "id": "2642827",
+            "reply_to_id": "2640045",
+            "text": "Einfalt og töff tutorial.\nEftir smá auka-fikt og svona þá endaði mitt í einhverju\nsvona"
+        }
+    ]
+}

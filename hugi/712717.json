@@ -1,0 +1,53 @@
+{
+    "forum_title": "Forritun",
+    "user": "Paze",
+    "user_id": "43258",
+    "date": "2010-10-15 16:15:44",
+    "title": "PHP..HTML..MYSQL??",
+    "text": "Sælinú..\nÉg var að velta því fyrir mér af hverju maður þarf að kunna HTML til þess að byrja að forrita í PHP.. Og hvar kemur Mysql inn í myndina?\nÉg er að leika mér bara og ætlaði að byrja en ég finn engar svona COMPLETE beginners guide hvernig maður setur enviromentið upp.. Stendur bara: ‘Install an apache server and mysql and test it’ eða álíka…En þegar ég installa þessum hlutum fæ ég bara einhver forrit sem ég veit EKKERT hvernig ég testa..\nÖll hjálp þegin :) takk fyrir.\nBætt við 15. október 2010 -  16:18\nOg hvaða Mysql þarf ég eiginlega?\nhttp://dev.mysql.com/downloads/\nNóg að velja um :)",
+    "url": "https://www.hugi.is/forritun/korkar/712717/phphtmlmysql/",
+    "url_id": "712717",
+    "id": "7255967",
+    "replies": [
+        {
+            "user": "orrit",
+            "user_id": "26330",
+            "date": "2010-10-15 17:33:35",
+            "id": "7256018",
+            "reply_to_id": "7255967",
+            "text": "Maður þarf ekkert að kunna html til að forrita í php.\nHinsvegar er mjög vinsælt að nota php í vefsíðuforritun og þá er nauðsynlegt að kunna allavega eitthvað í html.\nÞað er heldur ekki eins og það sé mjög erfitt að læra html.\nmysql er gagnagrunnskerfi.\nMaður notar það til að geyma og sýsla með gögn.\nhttp://www.w3schools.com/sql/sql_intro.asp\nÞú getur byrjað á því að læra bara html og php og síðan bætt við mysql.\nÞú þarft ekki mysql til að byrja að nota php. Mysql er bara öflugt tól sem er vinsælt að nota með php í vefforritun.\nÉg mæli með að þú gerir þetta í litlum skrefum:\n1. Lærðu html\nhttp://www.w3schools.com/html/html_intro.asp\n2. Lærðu php\n3. Lærðu mysql\nEf þú ert ekki að fara gera eitthvað risa stórt (allavega ekki strax) gætirðu notað sqlite í staðin. Það er annað SQL kerfi sem er minna og einfaldara í sniðum og að mörgu leiti miklu þægilegra í uppsetningu og notkun.\nEf þú ert í vandræðum með eitthvað þá getur goole oftast hjálpað þér.\nÞú getur t.d. slegið inn “install apache” eða eitthvað í þá áttina í google ef þú ert í vandræðum með að installa apache (sem er vefþjónn)."
+        },
+        {
+            "user": "Paze",
+            "user_id": "43258",
+            "date": "2010-10-15 18:09:01",
+            "id": "7256039",
+            "reply_to_id": "7256018",
+            "text": "Ég er að reyna installa apache server, því þeir tala um að ég þurfi það.. Og það biður mig um að setja inn nafn heimasíðunnar minnar og ports og svona..?\nEn ég er ekki með neina heimasíðu. Mig langar bara að fikta við þetta :)\nBætt við 15. október 2010 -  18:11\nS.s. er að downloada héðan:\nhttp://www.apache.org/dist/httpd/binaries/win32/\nTók bara: httpd-2.2.16-win32-x86-no_ssl.msi"
+        },
+        {
+            "user": "orrit",
+            "user_id": "26330",
+            "date": "2010-10-15 18:44:50",
+            "id": "7256058",
+            "reply_to_id": "7256039",
+            "text": "Þú getur örugglega fundið svarið við þessum spurningum með hjálp google.\nhttp://www.ampsoft.net/webdesign-l/how-to-install-apache-php-mysql.html\nhttp://httpd.apache.org/docs/2.2/platform/windows.html\nhttp://httpd.apache.org/docs/2.2/\nMaður notar yfirleitt port 80 fyrir vefþjóna.\nEf það er upptekið eða virkar ekki, er algengt að nota 8080 eða 8088 en maður getur þannig notað hvað sem er, ef það er ekki upptekið.\nMér finnst mjög ólíklegt að þú þurfir aðsetja inn nafn heimasíðu (enda getur einn vefþjónn hýst margar margar vefsíður).\nÉg hef grun um að þú sért að tala um nafn á vefþjóninum en þú getur valið hvað sem þú vilt (og notað það nafn innanhús).\nSama hvaða nafn þú velur þá geturðu notað localhost eða 127.0.0.1 til að nota vefþjóninn á tölvunni sem þú ert í, þannig að þú þarft ekki að nota nafnið sem þú velur.\nAnnars mæli ég með því að þú lærir fyrst html áður en þú setur upp Apache ef þú kannt ekki html (þú þarft ekki Apache til að byrja að læra html)"
+        },
+        {
+            "user": "imbakassi",
+            "user_id": "59115",
+            "date": "2010-10-16 01:12:26",
+            "id": "7256251",
+            "reply_to_id": "7256039",
+            "text": "Installa xampp, það er lang einfaldast\nwww.apachefriends.org"
+        },
+        {
+            "user": "gerald",
+            "user_id": "32756",
+            "date": "2010-11-20 14:12:04",
+            "id": "7273848",
+            "reply_to_id": "7255967",
+            "text": "http://www.appservnetwork.com/"
+        }
+    ]
+}

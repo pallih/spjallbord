@@ -1,0 +1,61 @@
+{
+    "forum_title": "Netið",
+    "user": "Arkaik",
+    "user_id": "67986",
+    "date": "2009-11-23 19:56:34",
+    "title": "Snúrur",
+    "text": "Af því að ég fæ frítt net frá Icelandair vegna þess að pabbi er flugmaður þá þýðir það að vinnutölvan hans pabba er sú eina sem getur tengst þráðlaust. Svo segir hann að netið sé alveg þvílíkt varið og svona.\nNiðri í herberginu mínu er samt ekki svona intrnet innstunga heldur símainnstunga, get ég eitthvernvegin tengst netinu með snúru og þessari innstungu?\nsemsagt er til snúra sem er með neti öðrummegin og símainnstungu hinum megin eða eitthvað í þá áttina?",
+    "url": "https://www.hugi.is/netid/korkar/680983/snurur/",
+    "url_id": "680983",
+    "id": "6968191",
+    "replies": [
+        {
+            "user": "Crymo",
+            "user_id": "76595",
+            "date": "2009-11-23 21:17:54",
+            "id": "6968300",
+            "reply_to_id": "6968191",
+            "text": "Well, það fer eftir því hvert þessi snúra leiðir. Ef þetta er sama lína og pabbi þinn er að nota þá gæti þetta gengið.\nEn þú þyrftir þá að fá router til að tengja í símalínuna og svo netsnúru til að tengja í kapalinn þaðan og í tölvuna.\nAnnars mæli ég bara með því að þú talir við pabba þinn um að fá að nota netið hjá honum."
+        },
+        {
+            "user": "Arkaik",
+            "user_id": "67986",
+            "date": "2009-11-23 21:29:26",
+            "id": "6968326",
+            "reply_to_id": "6968300",
+            "text": "Ég veit ég er mað router en get ég þá ekki fundið svona netinnstungu í vegg og tengst þannig?"
+        },
+        {
+            "user": "kindineinar",
+            "user_id": "61833",
+            "date": "2009-11-23 22:07:22",
+            "id": "6968414",
+            "reply_to_id": "6968326",
+            "text": "mæli með því að kaupa 25metra snúru bara og þræða hana eftir loftinu rsum ef þú ert langt frá routernum, ég gerði það og þurfti rétta að bora 2 holur til að make-a það frá neðri hæðinni og upp á efri, svona til að sleppa við það að loka á snúruna og svoleiðis."
+        },
+        {
+            "user": "Hadrianus",
+            "user_id": "3208",
+            "date": "2009-11-23 22:08:38",
+            "id": "6968415",
+            "reply_to_id": "6968326",
+            "text": "Það er hægt að fá tengi sem tengist úr router yfir í rafmagn, og svo er móttengið sett í aðra rafmagns innstungu sem er svo tengt í tölvuna.\ns.s rafmagnið í húsinu er notað sem kapallinn um íbúðina.\nFinn þetta ekki í augnablikinu, ég sendi þér skilaboð ef ég man hvað þetta stykki heitir.\nBætt við 23. nóvember 2009 -  22:32\nfann það\nhttps://vefverslun.siminn.is/internet/rlaust-heimatengi/index.html#onclick\nen það er ekki gefins."
+        },
+        {
+            "user": "Hadrianus",
+            "user_id": "3208",
+            "date": "2009-11-23 22:20:10",
+            "id": "6968452",
+            "reply_to_id": "6968191",
+            "text": "Ég hefði kannski átt að bæta við þegar ég las þetta betur\nSíma snúrur eru rj-11 tengi en netsnúrur eru rj-45, það er ágætlega auðvelt að breyta tengi úr rj11 yfir í rj-45 með því að endurtengja fjóra grunnvíra. þurfti að gera það heima þegar ég flutti inn því það voru bara lan tengi í húsinu í staðin fyrir símatengi, en það er víst nýji staðallinn.\nEn kannski ég ætti að spyrja:\nertu að reyna að tengja þig inn á routerinn sem faðir þinn er með. ef já, sjá hitt svarið mitt.\nef nei þá:\nEr meiningin að hafa eigin nettengingu."
+        },
+        {
+            "user": "Arkaik",
+            "user_id": "67986",
+            "date": "2009-11-23 22:52:04",
+            "id": "6968538",
+            "reply_to_id": "6968452",
+            "text": "ég skoða þetta þráðlausa heimilstæki, og ég þarf bara að komast netið sem routerinn sem ég er í núna er í, þessvegna gæti heimilisgræjan komið sér vel."
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "forum_title": "Linux",
+    "user": "add1",
+    "user_id": "1011",
+    "date": "2001-01-05 12:26:03",
+    "title": "gtk runnar á framebuffer",
+    "text": "Þetta er SNILLD og ekkert annað.\nGTK þarf núna ekki lengur X til að keyra, það getur keyrt á framebuffer einum saman! *brill* :)\nÞetta er að sjálfsögðu ekki stable, var að byrtast í nótt á CVS servernum, en þetta er samnt drullukúl :)\nscreenshots:\nhttp://www.lysator.liu.se/~alla/files/testgtk.png\nhttp://www.lysator.liu.se/~alla/files/testtext.png\nhttp://www.lysator.liu.se/~alla/files/gtktetris.png",
+    "url": "https://www.hugi.is/linux/greinar/12952/gtk-runnar-a-framebuffer/",
+    "url_id": "12952",
+    "id": "80342",
+    "replies": [
+        {
+            "user": "add1",
+            "user_id": "1011",
+            "date": "2001-01-10 17:45:13",
+            "id": "80343",
+            "reply_to_id": "80342",
+            "text": "Ég verð að spyrja, er einhver tilgangur með þessu? :)\nNú spyr ég ekki til að gagnrýna, heldur virkilega af forvitni. Er þetta léttara í keyrslu en Gtk+ ofan á X Windows, eða… hvað? :)"
+        },
+        {
+            "user": "add1",
+            "user_id": "1011",
+            "date": "2001-01-10 20:18:25",
+            "id": "80344",
+            "reply_to_id": "80343",
+            "text": "núna þarftu ekki fleirrihundruð megabæta install af xfree86, for once :)\nen eins og eg sagði, þá er þetta _heavy_ developmental stuff :)\nwelcome back armon :))"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2001-01-12 08:56:08",
+            "id": "80345",
+            "reply_to_id": "80344",
+            "text": ";) Heh heh. Takk."
+        }
+    ]
+}

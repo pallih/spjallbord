@@ -1,0 +1,93 @@
+{
+    "forum_title": "Linux",
+    "user": "heirdu",
+    "user_id": "42184",
+    "date": "2008-07-07 20:44:26",
+    "title": "Spurning",
+    "text": "Er hér með vél sem mér langar að setja upp sem download“server” þar að segja langar að geta verið í lappanum og hægri klikkað or sum á torrent file og serverinn birjar að downloada, er einhvað til sem þjónar þessum tilgang? er með smá þekkingu á linux ef menn eru að pæla útí það.",
+    "url": "https://www.hugi.is/linux/korkar/601212/spurning/",
+    "url_id": "601212",
+    "id": "5975717",
+    "replies": [
+        {
+            "user": "Feanor",
+            "user_id": "6499",
+            "date": "2008-07-07 21:47:47",
+            "id": "5975860",
+            "reply_to_id": "5975717",
+            "text": "stillir torrent forritið að það visti automatískt á einhvern stað, s.s. engir popups\nssh inná server'inn\nwget .torrent skjal\nkeyrir torrent forritið í gegnum ssh\ngætir svo sem gert einhverja scriptu sem gerir þetta fyrir þig, en að ssh'a bara inná ætti að vera no pro"
+        },
+        {
+            "user": "heirdu",
+            "user_id": "42184",
+            "date": "2008-07-08 00:23:21",
+            "id": "5976320",
+            "reply_to_id": "5975860",
+            "text": "wait WHAT? fatta main pointið en endilega útskíra að eins betur… :P"
+        },
+        {
+            "user": "Finisboy",
+            "user_id": "6088",
+            "date": "2008-07-08 08:36:52",
+            "id": "5976625",
+            "reply_to_id": "5976320",
+            "text": "1. Þú nærð þér í einhvern text-based torrent forrit eins og rtorrent eða btdownloadcurses –\nhttp://en.wikipedia.org/wiki/RTorrent\n2. loggar þig inn á download vélina þína með SSH –\nhttp://en.wikipedia.org/wiki/Secure_Shell\n3. Opnar screen inná vélinni þinni –\nhttp://en.wikipedia.org/wiki/GNU_Screen\n4. Nærð í .torrent skrána þína með wget –\nhttp://en.wikipedia.org/wiki/Wget\n5. Keyrir torrent forritið í gegnum SSH, eftir það geturðu lokað screen og loggað þig út af vélinni og screen mallar bara í background, svo lengi sem kveikt er á vélinni.\nÉg vona að þú hafir skilið hvað ég er að reyna að koma útúr mér. Ef þú skilur ekki hvað rtorrent, ssh, screen eða wget er, eða hvernig það virkar, þá er bara að googla það."
+        },
+        {
+            "user": "opi",
+            "user_id": "29163",
+            "date": "2008-07-08 14:59:53",
+            "id": "5976987",
+            "reply_to_id": "5976625",
+            "text": "Jafnvel betra, þú býrð til mjög einfalt bash script sem tekur öll “.torrent” skjöl í ákveðinni möppu, svo læturu Cron keyra scriptuna á, segjum, klukkutíma fresti. Notar svo NFS milli vélanna (eða Samba) og hleður bara “.torrent” skjölum í þessa möppu, og á klukkutíma fresti er öllum “.torrent” skjölunum smalað saman, downoadað, og eytt.\nBætt við 8. júlí 2008 -  15:11\nOg enþá, enþá betra, rtorrent er víst með þennann möguleika innbyggðann (hef aldrei notað það) en í rtorrent.rc skjalinu geturu stillt möppu sem rtorrent “fylgist með” og downloadar öllum torrentum í þeirri möppu.\n# Watch a directory for new torrents, and stop those that have been\n# deleted.\n#schedule = watch_directory,5,5,load_start=./watch/*.torrent\n#schedule = untied_directory,5,5,stop_untied=\nÞannig að þarna geutur látið rtorrent taka við öllu í þessari möppu, mjög einfalt, svo geturu notað wget, samba, NFS eða hvað sem þú vilt og sett “.torrent” skjölin í “watch” möppuna."
+        },
+        {
+            "user": "Finisboy",
+            "user_id": "6088",
+            "date": "2008-07-08 15:50:02",
+            "id": "5977070",
+            "reply_to_id": "5976987",
+            "text": "Já.. Hehe.. þvílík snilld. En maður þarf samt alltaf að ná í .torrent skrárnar eftir sem áður ;)"
+        },
+        {
+            "user": "opi",
+            "user_id": "29163",
+            "date": "2008-07-08 20:49:46",
+            "id": "5977821",
+            "reply_to_id": "5977070",
+            "text": "Eða toppa þetta alltsaman með bash script sem nær í allar .torrent skrár af t.d. thepiratebay.org :P En það er soldið overkill. Hehehe :)"
+        },
+        {
+            "user": "heirdu",
+            "user_id": "42184",
+            "date": "2008-07-08 17:53:55",
+            "id": "5977274",
+            "reply_to_id": "5976625",
+            "text": "Finisboy\n1. Þú nærð þér í einhvern text-based torrent forrit eins og rtorrent eða btdownloadcurses –\nhttp://en.wikipedia.org/wiki/RTorrent\n2. loggar þig inn á download vélina þína með SSH –\nhttp://en.wikipedia.org/wiki/Secure_Shell\n3. Opnar screen inná vélinni þinni –\nhttp://en.wikipedia.org/wiki/GNU_Screen\n4. Nærð í .torrent skrána þína með wget –\nhttp://en.wikipedia.org/wiki/Wget\n5. Keyrir torrent forritið í gegnum SSH, eftir það geturðu lokað screen og loggað þig út af vélinni og screen mallar bara í background, svo lengi sem kveikt er á vélinni.\nÉg vona að þú hafir skilið hvað ég er að reyna að koma útúr mér. Ef þú skilur ekki hvað rtorrent, ssh, screen eða wget er, eða hvernig það virkar, þá er bara að googla það.\nþakka þér fyrir !! :D skil þetta núna! en ef fleiri vita af einhverju sem virkar svipað endilega segja frá!"
+        },
+        {
+            "user": "opi",
+            "user_id": "29163",
+            "date": "2008-07-08 20:51:30",
+            "id": "5977827",
+            "reply_to_id": "5977274",
+            "text": "Getur skoðað commentið mitt við hans hérna fyrir ofan. Þar lýsi ég annarri leið með rtorrent til að gera þetta enþá “sjálfvirkara.”"
+        },
+        {
+            "user": "noiZe",
+            "user_id": "23190",
+            "date": "2008-07-09 22:49:04",
+            "id": "5979965",
+            "reply_to_id": "5975717",
+            "text": "Notaðu\nTransmission\ntil að dl á servernum og stýrðu með\nClutch\ní gegnum vafra. Ætti að virka svipað og WebUI fyrir µTorrent.\nAnnar valmöguleiki er að nota bara µTorrent með vefviðmótinu gegnum Wine, en það er ekki jafnkúl."
+        },
+        {
+            "user": "battletoad",
+            "user_id": "38949",
+            "date": "2008-07-13 21:26:36",
+            "id": "5988252",
+            "reply_to_id": "5975717",
+            "text": "Mig langar."
+        }
+    ]
+}

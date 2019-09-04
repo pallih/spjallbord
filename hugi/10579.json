@@ -1,0 +1,61 @@
+{
+    "forum_title": "Vefsíðugerð",
+    "user": "havh",
+    "user_id": "497",
+    "date": "2000-12-03 13:09:34",
+    "title": "Varðandi áhugaverða skoðannakönnun(fyrri grein ;)",
+    "text": "Fyrst ætla ég að nefna að ég var ekki með neina óvild gagnvart Informix gagnagrunninum.  Enda sagði ég neðar að ég hefði ekki kynnt mér hann til hlýtar, úr greininni:\n'Informix, Hef ekki þekkingu á honum til að vera fær um að dæma hann en hann hefur löngum kept við Oracle.'\nÞá var ég ekki að tala um Oracle á minni vélum.  Ég vona að ég hafi svarað hérna commentum frá root & Armon.  Ég biðst afsökunar hér.\nÞá kemur svar til Moose, um komment frá mér að DB2 væri lítt þekktur gagnagrunnur.  Þá var ég að meina að hann er lítt þekktur fyrir utan gagnagrunnsgeiran, þ.e. almennur notandi, og mjög oft forritarar, hafa aldrei heyrt um þennan gullmola.  Hvað þú sagðir síðan varðandi verðið á grunninum, gerirðu þér grein fyrir hvert   verðið og þjónustugjöldin eru á Oracle?  Húmorinn við DB2 er að þetta er tiltölulega ódýr grunnur.\nphantom: sorry, hafði aldrei heyrt um hann.  Að vísu er mjög mikið úrval af góðum low-range gagnagrunnum þarna úti.\nAccess.\nÞað sem kom mér mest á óvart það var að kommentin mín varðandi Access voru ‘dissuð’.  Í fyrsta lagi finnst mér móðgun við hugtakið gagnagrunna að nefna orðin ‘Access’ og ‘gagnagrunnur’ í sömu setningu.  Access er ekki gagnagrunnur!  Hægt er jú að tala við Access mdb í gegnun ODBC og jú það er allt í lagi að þróa forritin (þó ég hati það, hef ‘þróað’ ofaná Access sjálfur og er að tala af reynslu) með ODBC sem undirlag, en það sem gleymist hérna er að það er líka hægt að tala við EXCEL með ODBC(og já, ég hef skrifað ODBC á móti Excel), textaskrár er hægt að tala við og ég man ekki hvað meira.  Ætlar einhver hérna að taka um hanskan fyrir EXCEL og segja víst, hann er gagnagrunnur!\nAccess er truly ‘fucked up’ þegar fleiri en ein tenging er inná honum í einu (þessi blessaða mdb skrá) og svo ég tali nú ekki um sorpið þegar hann stækkar > 100mb.  Access er fyrirspurnartól, og í raun alveg ágætt sem slíkt, nothæft til að taka út ákveðið magn af upplýsingum úr ‘alvöru’ grunnum, vinna með gögnin, og hugsanlega troða útkomunni aftur í ‘alvöru’ grunnana.\nMargir nota þennan ‘blessaða’ grunn til að vera með ‘gagnagrunnstengdar’ heimasíður.  Eina ástæðan fyrir því, og þá meina ég eina, er að ISP-ar eru ekki með gagnagrunna keyrandi hjá sér fyrir kúnna.  Ef þeir væru með grunna uppi með SQL access í þá þá væri þetta ekki vandamál. (Ég byðist innilegrar fyrirgefningar til þeirra ISP-a sem bjóða uppá þessa þjónustu, en taki þeir þetta til sín sem eiga það)\nJæja, hér er ég búinn að hella úr skálum reiðinnar vegna Access.  Ég vona að ég hafi svarað flestum kommentum varðandi fyrri grein og byðst afsökunar á að hafa ekki svarað þeim fyrr.\nKveðja\nhavh/Is-",
+    "url": "https://www.hugi.is/vefsidugerd/greinar/10579/vardandi-ahugaverda-skodannakonnunfyrri-grein/",
+    "url_id": "10579",
+    "id": "62479",
+    "replies": [
+        {
+            "user": "Hrabby",
+            "user_id": "5648",
+            "date": "2000-12-03 21:17:19",
+            "id": "62480",
+            "reply_to_id": "62479",
+            "text": "Sonur minn er bara þriggja ára, hann er mjög lítill miðað við pabba sinn sem er yfir þrítugu, Þeir eru samt báðir karlkyns.  Það sama gildir um Access og svo gagnagrunna eins og Oracle.  Access er bara pínu lítill og getur ekki mikið, hann er samt gagnagrunnur.  Hann verður kanski aldrei stór, en ef ég þarf bara pínu lítinn gagnagrunn, hvað hef ég þá að gera við Oracle.\nHrabby"
+        },
+        {
+            "user": "arnorg",
+            "user_id": "459",
+            "date": "2000-12-03 23:53:07",
+            "id": "62481",
+            "reply_to_id": "62480",
+            "text": "Ef þú þarft bara pínulítinn gagnagrunn, þá þarftu bara MySQL. Þannig að núna getiði feðgar sofið rótt, því að þið þurfið ekki lengur á Access að halda. :)"
+        },
+        {
+            "user": "arnorg",
+            "user_id": "459",
+            "date": "2000-12-04 02:38:34",
+            "id": "62482",
+            "reply_to_id": "62481",
+            "text": "hhmmm…. ég help því miður að gagnagrunnur sé í víðara skilningi hvernig teningar við gagnagrunna gegnum odbc eða sql,informix eða þvíumlíkt þó að, platformin eru eins og orðið “gagnagrunnur” á við í meiri skilningi, ég á um 1200 mp3 lög á tölvunni þau eru gögn og ég er með þau á einum stað, ég hef samband við þennan “stað” með því að “tengja” winamp eða sonique við þá. Þá er ég að tala um að ég er með playlista gluggan opin og hleð inn möppunni sem að inniheldur öll þessi lög.\nAf hverju er ég að taka svona dæmi, nú ég virðist hafa stóran gagnagrunn í tölvunni minni, þessi tilteknu gögn eru mp3 skrár….\nEr einhver úti sem að er á móti því að ég sé að kalla þetta “plattform” gagnagrunn eða gagnagrunnsteningu, ef þá hver eru rök þín á móti!!!\nÞví er ekki hægt að þrengja þetta hugtak með þvi að tala eingögnu um þessi sem að þú ert að tala um og þetta orð er nýyrði þannig að það á eftir að mótast og komast í fastari merkingu. Access er gagnagrunnstenging við gagnagrunn sem er í formi *.mbd skráa."
+        },
+        {
+            "user": "Hrabby",
+            "user_id": "5648",
+            "date": "2000-12-05 16:52:49",
+            "id": "62483",
+            "reply_to_id": "62482",
+            "text": "Æ elskurnar mínar.\nEins og kennarinn minn sagði í dag… “Bréfaklemma er gagnagrunnur” (hann kennir í Tölvunarfræðinni í Háskóla Íslands).  Það er ekki spurning um stærð eða gæði, heldur tilveru.  Access er gagnagrunnur :o)\nHrabby"
+        },
+        {
+            "user": "jongunnar",
+            "user_id": "10",
+            "date": "2000-12-18 05:31:20",
+            "id": "62484",
+            "reply_to_id": "62481",
+            "text": "má maðurinn ekki nota það sem hentar honum? er sniðugt að skipt um grunn bara til að skipa?"
+        },
+        {
+            "user": "havh",
+            "user_id": "497",
+            "date": "2000-12-04 10:10:59",
+            "id": "62485",
+            "reply_to_id": "62480",
+            "text": "Bíddu eftir að mdb file-in skemmist.  Það virðist alltaf taka 1 skipti til að fólk sjái að sér að þetta er verkfæri en ekki gagnagrunnur (recovery manager whut?) og tapi þar með gögnum.\nKv\nhavh/Is-"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "forum_title": "Vefsíðugerð",
+    "user": "Vanheftur",
+    "user_id": "53825",
+    "date": "2010-11-17 00:20:41",
+    "title": "Hættir þegar er búinn að sækja header...",
+    "text": "<?php \nrequire('inc/settings.php');\nif ($_SESSION['loggedin']==1){ header('Location: '.$dir_home.''); }\n?>\n<?php include($dir_templates.'home/header.php'); ?>\nHann sækir í header.php og prentar hann út, síðann les hann ekki afganginn af index skjalinu sem botnar ekki í.\nHeader skjalið.\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n<link rel=\"StyleSheet\" href=\"<?php echo $dir_templates; ?>css/home.css\" type=\"text/css\"> \n<title><?php echo $game_name; ?></title>\n</head>\n<body>\n<div id=\"container\">\nSíðan restinn af index eru meira og minna div kóðar og einhverjir php.\nÞettta virkar fínt þegar hef allann kóðann í einu skjali, án include.",
+    "url": "https://www.hugi.is/vefsidugerd/korkar/715086/haettir-thegar-er-buinn-ad-saekja-header/",
+    "url_id": "715086",
+    "id": "7272152",
+    "replies": [
+        {
+            "user": "Vanheftur",
+            "user_id": "53825",
+            "date": "2010-11-17 00:35:57",
+            "id": "7272162",
+            "reply_to_id": "7272152",
+            "text": "Ég var logged in sem leiddi mig á aðra slóð sem var bara með headerinn.\nS.s. ekki heldur hægt að include-a fulla slóð ?"
+        },
+        {
+            "user": "egth",
+            "user_id": "31699",
+            "date": "2010-11-19 11:27:23",
+            "id": "7273339",
+            "reply_to_id": "7272152",
+            "text": "Ég sé ekkert að þessu í fljótu bragði.\nSettu eftirfarandi efst í aðal skjalið þitt:\nerror_reporting(-1);\nÞá *ættir* þú að fá einhverja villumeldingu."
+        }
+    ]
+}

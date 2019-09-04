@@ -1,0 +1,61 @@
+{
+    "forum_title": "Windows",
+    "user": "jovi132",
+    "user_id": "77547",
+    "date": "2009-10-07 15:55:06",
+    "title": "trojan og annar skítur.",
+    "text": "það fyrsta sem ég sá þegar ég kveikti á tölvunni minni í dag var það að half life launcherinn væri trojan.\nFirefox virkar ekki.\ntalvan var að scanna í 14 klukkutíma yfir nóttina.\n1. Ætti ég að ignora þetta?\n2. WADDAFOKK?\n3. þetta er ekki eðlilegt er það?\nhttp://i36.tinypic.com/33ff595.png\nBætt við 7. október 2009 -  16:15\num leið og ég postaði þetta tók ég eftir því að það stendur ‘detected on open’ eins og ég sagði er þetta warning það fyrsta sem kom upp. mig grunar að ég ætti ekki að ignora þetta.\nástæðan fyrir því að ég vill ekki deleta þessu sem er bara launcher er að þá þarf ég að reinstalla í kringum 5 leikjum D:",
+    "url": "https://www.hugi.is/windows/korkar/675391/trojan-og-annar-skitur/",
+    "url_id": "675391",
+    "id": "6905050",
+    "replies": [
+        {
+            "user": "Grimsi92",
+            "user_id": "37040",
+            "date": "2009-10-07 16:01:11",
+            "id": "6905058",
+            "reply_to_id": "6905050",
+            "text": "er með þetta líka….."
+        },
+        {
+            "user": "jovi132",
+            "user_id": "77547",
+            "date": "2009-10-07 16:15:09",
+            "id": "6905072",
+            "reply_to_id": "6905050",
+            "text": "mig langar líka að troða hingað inn að ég á dell xps 420 sem er líklega með disabled mic input."
+        },
+        {
+            "user": "karason",
+            "user_id": "23642",
+            "date": "2009-10-07 17:59:46",
+            "id": "6905204",
+            "reply_to_id": "6905050",
+            "text": "14 tíma ! Og þú varst ekki sofandi :)\nSkrifaðu cdkeyið niður og unistallaðu þessu forriti .\nÉg mæli hiklaust með eftirfarandi :\n1.\nAvira\nhttp://www.filehippo.com/download_antivir/\n2.\nWebroot® AntiVirus with Spy Sweeper\nhttp://www.webroot.com/En_US/consumer-products-antivirus.html?WRSID=6baaa4a45e4aa47fda9387e658a86e3c\nsmellir á   Run Free Scan .\nStillir bæði forritin í topp og lætur þau uppfæra sig og restartar tölvunni og skannar með Spy Sweeper .\nEitt langar mig að vita ! Hvernig vélbúnað ertu með ?????\nKveðja."
+        },
+        {
+            "user": "jovi132",
+            "user_id": "77547",
+            "date": "2009-10-07 20:21:30",
+            "id": "6905445",
+            "reply_to_id": "6905204",
+            "text": "þakka þér.\nbara copy/paste;\nOperating System: Windows Vista™ Home Premium (6.0, Build 6002) Service Pack 2 (6002.lh_sp2rtm.090410-1830)\nSystem Manufacturer: Dell Inc.\nSystem Model: Dell XPS420\nBIOS: Phoenix ROM BIOS PLUS Version 1.10 A06\nProcessor: Intel(R) Core(TM)2 Duo CPU     E6550  @ 2.33GHz (2 CPUs), ~2.3GHz\nMemory: 3326MB RAM\nDescription: Speakers (High Definition Audio Device)\nDefault Sound Playback: Yes\nDefault Voice Playback: Yes\nHardware ID: HDAUDIO\\FUNC_01&VEN_8384&DEV_7618&SUBSYS_10280215&REV_1002\nManufacturer ID: 1\nProduct ID: 100\nType: WDM\nDriver Name: HdAudio.sys\nDriver Version: 6.00.6002.18005 (English)\nDriver Attributes: Final Retail\nWHQL Logo'd: Yes\nDate and Size: 4/11/2009 04:43:02, 236544 bytes\nOther Files:\nDriver Provider: Microsoft\nHW Accel Level: Basic\nmig grunar að eitthvað þarna lætur mig líta út eins og retard og ég veit að slatti af þessu er tilgangslaus."
+        },
+        {
+            "user": "karason",
+            "user_id": "23642",
+            "date": "2009-10-08 01:10:33",
+            "id": "6905999",
+            "reply_to_id": "6905445",
+            "text": "Þetta er ekki slæmur vélbúnaður sem segir okkur hvað AVG er lélegur ?"
+        },
+        {
+            "user": "jovi132",
+            "user_id": "77547",
+            "date": "2009-10-08 21:31:03",
+            "id": "6907039",
+            "reply_to_id": "6905999",
+            "text": "yup, fékk mér norton og hann kláraði þetta strax. og ég náði að laga inputið. notaði driver genius. en ég var búinn að skipta flestum driverum út."
+        }
+    ]
+}

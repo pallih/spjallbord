@@ -1,0 +1,21 @@
+{
+    "forum_title": "Windows",
+    "user": "kristoingi",
+    "user_id": "32431",
+    "date": "2009-09-24 22:13:46",
+    "title": "Password",
+    "text": "Thannig er tad ad eg let password a tolvuna um daginn og eg gleymdi tvi nuna i dag…. get runad a safe mode… en er haegt ad endurheimta passwordid eda eitthvad ?\ner a windows xp\n-Krissi",
+    "url": "https://www.hugi.is/windows/korkar/673784/password/",
+    "url_id": "673784",
+    "id": "6886073",
+    "replies": [
+        {
+            "user": "InfectedSmiley",
+            "user_id": "57213",
+            "date": "2009-09-25 00:01:36",
+            "id": "6886258",
+            "reply_to_id": "6886073",
+            "text": "net user <user name> * /domain\nsvo biður það þig um nýtt pw"
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "forum_title": "Vefsíðugerð",
+    "user": "thella",
+    "user_id": "21149",
+    "date": "2008-11-18 19:00:54",
+    "title": "Vefsíða í notepad, vil ekki að textinn nái út í enda",
+    "text": "Ég er að gera síðu í notepad. En ég pínulítið týnd. Mig langar að hafa síðuna þannig að textinn fari ekki alveg út í endana. Ég er með hann miðjujafnaðann, en hann er svo langur að hann nær alveg út í þá.\nHvernig get ég látið síðuna skipta sér þannig að það verði 2 “ósýnilegir” tja dálkar kannski sem að ég nota ekki þannig að miðjan yrði stærri og textinn myndi bara ná að dálkunum?\n(ég veit ekki einu sinni hvort að rétta orðið sé dálkar…)",
+    "url": "https://www.hugi.is/vefsidugerd/korkar/626859/vefsida-i-notepad-vil-ekki-ad-textinn-nai-ut-i-enda/",
+    "url_id": "626859",
+    "id": "6305331",
+    "replies": [
+        {
+            "user": "freki",
+            "user_id": "1682",
+            "date": "2008-11-18 19:19:48",
+            "id": "6305394",
+            "reply_to_id": "6305331",
+            "text": "Gerut notað\n<p> Það er greinaskil :)<p"
+        },
+        {
+            "user": "thella",
+            "user_id": "21149",
+            "date": "2008-11-18 20:23:18",
+            "id": "6305618",
+            "reply_to_id": "6305394",
+            "text": ":)\nTakk fyrir\nÉg er samt með greinaskil. Ég er vonlaus í að reyna að koma þessu frá mér.\nVil semsagt hafa bil hægra og vinstra megin á síðunni, alla leið niður.\nEf að þetta væri síðan:\n!\tFYRIRSÖGN   \t!\n!\t\t   \t!\n!     textitextibla\t!\n!     textitextibla\t!\n!\t\t   \t!\n!     textitextibla\t!\n!     textitextibla\t!\n!\t\t\t!\n!     textitextibla\t!\nGet ég fengið svona auðar spássíur til hliðanna einhvernveginn?\nÞetta lítur núna einhvernveginn svona út\n!\tFYRIRSÖGN   \t!\n!\t\t   \t!\n!     textitextibla\t!\n!textitextiblatextitexk\t!\n!\t\t   \t!\n!     textitextibla\t!\n!textitextiblatextitexk !\n!\t\t\t!\n!     textitextibla\t!"
+        },
+        {
+            "user": "thella",
+            "user_id": "21149",
+            "date": "2008-11-18 20:23:40",
+            "id": "6305620",
+            "reply_to_id": "6305618",
+            "text": "ohh þetta virkaði ekki."
+        },
+        {
+            "user": "thella",
+            "user_id": "21149",
+            "date": "2008-11-22 12:35:21",
+            "id": "6314749",
+            "reply_to_id": "6305394",
+            "text": "Takk fyrir hjálpina :)\njá ég held að ég sé að nota eitthvað “div” (ég er mjög léleg í þessu sko)\nEinhver sagði mér að ég gæti notað ósýnilegan ramma utan um textann, ég finn samt ekki kóða fyrir það."
+        },
+        {
+            "user": "thella",
+            "user_id": "21149",
+            "date": "2008-11-22 22:17:31",
+            "id": "6316058",
+            "reply_to_id": "6305394",
+            "text": "En hérna, ég er orðin svo þreytt á þessu. Er búin að prófa margskonar skipanir en það gerist eiginlega ekki.\nÉg er komin á þá niðurstöðu að ég vil bara hafa þetta allt í ramma.\nÉg er búin að gera hellings texta og linka\n“linkur”\ntexti blablablabla\n“linkur”\ntexti blablablabla\nNú vil ég setja þetta allt í ramma :) Hvað hérna á ég þá að gera ? (Ég er svo innilega vonlaus í þessu)"
+        },
+        {
+            "user": "egth",
+            "user_id": "31699",
+            "date": "2008-11-18 22:35:25",
+            "id": "6306141",
+            "reply_to_id": "6305331",
+            "text": "Þú getur annars vegar notað töflu og haft auða dálka sitt hvoru megin við dálkinn með textanum í, eða þá notað css til að búa til bil sitthvoru megin.\ncssið væri eitthvað í þessa áttina:\n<style type='text/css'>\n.innihald {\n  padding-left: 150px;\n  padding-right: 150px;\n}\n</style>\nsvo í htmlinu værir þú með eitthvað í þessa áttina:\n<div class='innihald'>texti</div>"
+        },
+        {
+            "user": "Brainiac",
+            "user_id": "28711",
+            "date": "2008-11-20 02:53:04",
+            "id": "6309642",
+            "reply_to_id": "6306141",
+            "text": "Ég held samt að hún sé frekar að leita að\nwidth\nen padding.\n<style type='text/css'>\n.innihald {\n width: 500px;\n}\n</style>\nEr sem sagt kóðinn sem þarf :)"
+        },
+        {
+            "user": "egth",
+            "user_id": "31699",
+            "date": "2008-11-20 03:32:30",
+            "id": "6309648",
+            "reply_to_id": "6309642",
+            "text": "amm, góður punktur :)\nfannst hún orða þetta eins og padding ^^"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2008-12-09 21:02:59",
+            "id": "6363817",
+            "reply_to_id": "6309642",
+            "text": "Langar samt að benda á að ég mæli með því að hafa sér CSS Style skrá heldur en að útlitsmóta með HTML :) Svolítið mun þægilegra að henda öllu upp í sér skrá finnst mér og vísa í skránna í “head”\nEins og ef þú ert með ID, þá gerirðu #(nafnið á ID), en ef class þá er það .(nafnið á Class) :P\nLangar bara að benda á það, finnst þægilegra að vinna með útlit í sérskrá og síðuna sjálfa í HTML :P"
+        },
+        {
+            "user": "davida",
+            "user_id": "57177",
+            "date": "2008-11-18 23:19:30",
+            "id": "6306325",
+            "reply_to_id": "6305331",
+            "text": "<div style=\"padding:0px 15px 0px 15px;\">\n<p> Texti </p>\n<br />\n<p> Texti 2 </p>\n</div>\nkemur þá svona þar sem | stendur fyrir mörk boxsins:\n|   texti    |\n|                 |\n|  texti 2 |"
+        },
+        {
+            "user": "davido",
+            "user_id": "27961",
+            "date": "2008-11-20 18:44:28",
+            "id": "6311020",
+            "reply_to_id": "6305331",
+            "text": "Ef þú ert bara með þetta einfalt html-body-texti, þá geturðu bara bætt við body tagið: style=“padding-right: 2em; padding-left: 2em;” (svo bara finnur þú út hvað hentar þér best).\nAnnars ertu væntanlega með eitthvað div, sem þú getur annaðhvort sett width á og miðjusett, eða sett padding á það."
+        },
+        {
+            "user": "Rusty",
+            "user_id": "39411",
+            "date": "2008-11-21 19:53:36",
+            "id": "6313573",
+            "reply_to_id": "6305331",
+            "text": "Ef þú skilur ekki hvað fólk hér er að tala um þá mæli ég með\nhttp://www.w3schools.com/css/\nMjög góður og einfaldur kennsluvefur."
+        },
+        {
+            "user": "thella",
+            "user_id": "21149",
+            "date": "2008-11-22 12:44:35",
+            "id": "6314767",
+            "reply_to_id": "6313573",
+            "text": "Ég á að nota html, er CSS ekki eitthvað annað? :)"
+        },
+        {
+            "user": "freki",
+            "user_id": "1682",
+            "date": "2008-11-22 14:15:54",
+            "id": "6314972",
+            "reply_to_id": "6314767",
+            "text": "Cascading Style Sheets (CSS) eru sérstök snið sem notuð eru til að skilgreina umbrot og útlit stiklutexta á borð við SGML og XHTML. Stílsnið henta vel til aðskilnaðar innihalds og útlits þar sem innihaldi XML skjals eru gerð útlitstengd skil. Aðskilnaður innihalds og útlits var boðaður af W3C með XHTML staðlinum.\nÞannig að þú ert t.d með stóran vef.  Þá skilgr. hann og hann verður eins á öllum síðum."
+        },
+        {
+            "user": "Rusty",
+            "user_id": "39411",
+            "date": "2008-11-22 20:12:32",
+            "id": "6315765",
+            "reply_to_id": "6314767",
+            "text": "freki, já sæll!\nCSS er notað til að breyta útlitinu á HTML, þ.e.a.s. HTML og CSS vinna saman við það að fá fram útlit á vefsíðu."
+        }
+    ]
+}

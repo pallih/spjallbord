@@ -1,0 +1,93 @@
+{
+    "forum_title": "Grafísk hönnun",
+    "user": "Kverkatak",
+    "user_id": "2354",
+    "date": "2005-04-04 19:07:55",
+    "title": "Tutorial: steinveggur/bakgrunnur",
+    "text": "Ég held að flestir Photoshopparar kunni þetta en ef einhver hefur gaman af þessu þá er það frábært.\nBúið til nýtt skjal og veljið þá stærð sem ykkur sýnist.. því stærra því betra. Ég notaði 1024x768.\nVeljið svartan bakgrunnslit og svo einhvern brúnleitan í forgrunn.\nSmellið svo á\nFilter/Render/Clouds\nBuið næst til Alpha Channel og gerið þetta við rásina\nFilter/Render/Difference Clouds\nenturtakið þar til svarti liturinn er orðinn áberandi.\nBætið svo líka smá\nFilter/Noise/Add Noise\ná Alpha Channel -> hafið þar hakað við Gaussian og Monichromatic og pikkið inn 3% og svo OK.\nVeljið svo aftur RGB rásina og farið í\nFilter/Render/Lighting Effects\nHafið Intensity í 35, Focus í 100, Gloss í 35, Material í -25, Exposure og Ambience í núlli.\nVeljið í Texture Channel: Alpha 1, og svo í Height sem er neðsti valmöguleikinn veljiði 35 og smellið að lokum á OK.\nSvo er hægt að leika sér endalaust með liti og aðrar stillingar í þessu.\nAð lokum vona ég svo að einhver hafi gagn og gaman af.",
+    "url": "https://www.hugi.is/grafik/greinar/286860/tutorial-steinveggurbakgrunnur/",
+    "url_id": "286860",
+    "id": "2065089",
+    "replies": [
+        {
+            "user": "Ferjumadur",
+            "user_id": "39228",
+            "date": "2005-04-04 19:24:07",
+            "id": "2065200",
+            "reply_to_id": "2065089",
+            "text": "ágætt hja þer :)"
+        },
+        {
+            "user": "dirabbdei123",
+            "user_id": "32336",
+            "date": "2005-04-04 19:28:56",
+            "id": "2065216",
+            "reply_to_id": "2065089",
+            "text": "wtf er Alpha Channel  ??\ngera allmenilegan tutoruial.. það eru ekki ps nördar hénra"
+        },
+        {
+            "user": "ASS",
+            "user_id": "13287",
+            "date": "2005-04-04 19:29:59",
+            "id": "2065222",
+            "reply_to_id": "2065089",
+            "text": "af Photoshopcafé?"
+        },
+        {
+            "user": "Kverkatak",
+            "user_id": "2354",
+            "date": "2005-04-05 16:45:44",
+            "id": "2066959",
+            "reply_to_id": "2065222",
+            "text": "Nei, lærði þetta í eldgamalli photoshop biblíu. Photoshop 3 minnir mig :)"
+        },
+        {
+            "user": "MafuZa",
+            "user_id": "57401",
+            "date": "2005-04-04 19:38:44",
+            "id": "2065264",
+            "reply_to_id": "2065089",
+            "text": "búa til alpha channel, wtf? og svo þegar maður gerir difference clouds verður einhver layer með lit að vera valinn"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2005-04-04 20:34:30",
+            "id": "2065410",
+            "reply_to_id": "2065089",
+            "text": "nenniði að útskýra þetta betur photoshop nördar:D"
+        },
+        {
+            "user": "Lotnir",
+            "user_id": "39873",
+            "date": "2005-04-05 07:02:01",
+            "id": "2066084",
+            "reply_to_id": "2065089",
+            "text": "Ætla að segja það sama og hinir…hvernig gerir maður Alpha Channel?"
+        },
+        {
+            "user": "Kverkatak",
+            "user_id": "2354",
+            "date": "2005-04-05 16:43:35",
+            "id": "2066956",
+            "reply_to_id": "2065089",
+            "text": "Afakið að ég skyldi gleyma að minnast á hvernig á að búa til Alpha Channel, ég bara hélt allir kynnu það :) En ég skal reyna að segja frá hvernig maður býr svoleiðis til, vonandi verður þetta skiljanlegt.\nHjá mér er defaultið þannig að maður finnur Channels í sama verkfæraglugga og Layers. Ef ekki þá er að smella á Window listann sem er efst á skjánum og haka við Channels.\nÍ Channel glugganum eru eftirfarandi rásir RGB - Red - Green og Blue.\nAlpha channel\ngetum við búið til með því að smella einu sinni á Íkonið við hliðina á ruslafötunni (neðst á Channels verkfæraglugganum) og þá ertu kominn með nýja rás sem heitir\nAlpha 1"
+        },
+        {
+            "user": "Bijou",
+            "user_id": "34464",
+            "date": "2005-04-09 10:07:55",
+            "id": "2074779",
+            "reply_to_id": "2065089",
+            "text": "Gæti einhver laumað inn svo sem einni mynd eða svo?"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2005-04-11 19:56:46",
+            "id": "2079771",
+            "reply_to_id": "2065089",
+            "text": "beint upp úr Phong.com!"
+        }
+    ]
+}

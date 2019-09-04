@@ -1,0 +1,197 @@
+{
+    "forum_title": "Battlefield",
+    "user": "frossinn",
+    "user_id": "59512",
+    "date": "2005-07-23 14:20:51",
+    "title": "Punkbuster vandmal",
+    "text": "Það hafa nokkuð margir lennt i vandræðum með punkbuster svo ég ætla koma með nokkur ráð.\nÞað firsta sem Þú at að gera ef þu lendir i einnhverju veseni með punkbuster er að dl þessari skrá hérna\nhttp://www.evenbalance.com/downloads/pbweb.exe\nhun þar svo að fara i punkbuster möpuna sem er i instaldir/pb *. þegar hun er kominn þangað þá skaltu keyra hanna þaðan athugið að oft þarf að keyra skrana nokkrum sinnum til að updatetið klárist alveg\nsvo er mjog gott console comand sem er\npb_security 0\nmæli samt ekki með þvi að þetta sé notað á ordum serverum en btnet simnet og þar sem þú veist að getur treist umsjónar mönnum serversins þar sem þetta gerir óvirkt örigið i pb gagnvart servunum\nsvo er það þessar skemtilegu villur\nInsufficient O/S Privileges (ekki nægjaleg stýrikerfis réttinti\nBlocked O/S Privileges (hindruð stýrikerfis réttindi)\nþegar þessar villur koma skalltu first athuga hvort þu ser með admin rettindi á usernum sem þú ert að nota ef þu ert með rettindin þá myndi byrja á því að gera disable á virus vörnini ef það virkar ekki ertu mjög liklega með annað hvort virus eða njósnahugbúnað á velinni og mæli með að taka viðeingadi ráðstafnir\nEmpty Win32 Module list update pb með pb wep lækka gæða stillingar og virus/njósnahugbúnaðar hreinsa\nserver runnig old verssion skrifa pb_security 0 í console (takkin fyrir neðan esc)\nef þetta hjálpaði ekki\nwww.evenbalance.com (heimasiða punkbuster)\nhttp://forums.totalbf2.com/forumdisplay.php?f=73\nkorkar totalbf2 um tæknileg vandmál í bf2\n*ef þu hefur ekki hugmynd um hvad eg er tala og ýttir bara á next.next i instalinu a bf2 þá er það\nC:\\Program Files\\EA GAMES\\Battlefield 2\\p",
+    "url": "https://www.hugi.is/bf/greinar/314433/punkbuster-vandmal/",
+    "url_id": "314433",
+    "id": "2333202",
+    "replies": [
+        {
+            "user": "CendenZ",
+            "user_id": "795",
+            "date": "2005-07-23 15:31:25",
+            "id": "2333418",
+            "reply_to_id": "2333202",
+            "text": "þetta punkbustervesen tengist svartíma client.\nlas á forumi að þegar pb sendir request á álagstíma spilara þá getur orðið seinkunn á svar frá pb client til pb server og þá sendir pb server aftur request til pb client og kolli af kolli laggast pb og manni er kickað.\nÞarf pb ? :)"
+        },
+        {
+            "user": "frantic89",
+            "user_id": "6497",
+            "date": "2005-07-23 15:41:53",
+            "id": "2333427",
+            "reply_to_id": "2333202",
+            "text": "Þakka þér kærlega fyrir þessa grein. Bjargaði daginum."
+        },
+        {
+            "user": "LoLcopter",
+            "user_id": "46907",
+            "date": "2005-07-24 08:28:34",
+            "id": "2334801",
+            "reply_to_id": "2333202",
+            "text": "Pb hefur alltaf verið mesta drasl eve"
+        },
+        {
+            "user": "frossinn",
+            "user_id": "59512",
+            "date": "2005-07-25 01:16:53",
+            "id": "2336510",
+            "reply_to_id": "2333202",
+            "text": "Ertu lesblindur?"
+        },
+        {
+            "user": "frossinn",
+            "user_id": "59512",
+            "date": "2005-07-25 01:32:53",
+            "id": "2336555",
+            "reply_to_id": "2336510",
+            "text": "ja"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2005-07-25 01:34:10",
+            "id": "2336558",
+            "reply_to_id": "2336555",
+            "text": "Kay. Þér er fyrirgefið…"
+        },
+        {
+            "user": "DEADMAN",
+            "user_id": "27827",
+            "date": "2005-07-25 11:38:41",
+            "id": "2336857",
+            "reply_to_id": "2333202",
+            "text": "Gott að hafa þessar leiðbeiningar, en í guðanna bænum, notaðu punkta og/eða kommur næst. :) Þetta er nánast óskiljanlegt. Eina leiðin til að skilja upp eða niður í svona skrifum er að lesa löturhægt og vægast sagt ruglandi. Sérstaklega þar sem þú skrifar “ef” þegar þú ert að byrja nýjar setningar; maður heldur alltaf að það sé fyrri setningin að halda áfram, þannig að maður þarf að lesa dótið 2-3 sinnum.\n“Empty Win32 Module list update pb með pb wep lækka gæða stillingar og virus/njósnahugbúnaðar hreinsa\nserver runnig old verssion skrifa pb_security 0 í console (takkin fyrir neðan esc)\nef þetta hjálpaði ekki ”\nÁ maður virkilega að skilja þetta? ;)"
+        },
+        {
+            "user": "DEADMAN",
+            "user_id": "27827",
+            "date": "2005-07-25 15:25:04",
+            "id": "2337139",
+            "reply_to_id": "2336857",
+            "text": "Ég tek undir orð félaga Tryggva “JÁ” !"
+        },
+        {
+            "user": "krissi1111",
+            "user_id": "55174",
+            "date": "2005-07-27 13:38:26",
+            "id": "2341105",
+            "reply_to_id": "2333202",
+            "text": "omfg ég gerði þetta og núna kemur bar svartur skjár þegar ég fer í leikinn og síðan fer hann og ekkert gerist"
+        },
+        {
+            "user": "Kalashnikov",
+            "user_id": "53318",
+            "date": "2005-07-29 19:16:40",
+            "id": "2346177",
+            "reply_to_id": "2333202",
+            "text": "Váá, ég er búinn að keyra þetta mörgum sinnum en samt helst ég ekki inná serverum! Af hverju?"
+        },
+        {
+            "user": "allisnilli",
+            "user_id": "43916",
+            "date": "2005-07-30 17:39:34",
+            "id": "2347213",
+            "reply_to_id": "2346177",
+            "text": "Hvaða skilaboð koma þegar þú dettur út? ef það er ekki eitthvað með punkbuster er eðlilegt að þetta hjálpi þér ekki"
+        },
+        {
+            "user": "Kalashnikov",
+            "user_id": "53318",
+            "date": "2005-07-31 01:45:14",
+            "id": "2347711",
+            "reply_to_id": "2347213",
+            "text": "Það er eitthvað “you have bin kickad blablabla via punbuster blablabla”."
+        },
+        {
+            "user": "allisnilli",
+            "user_id": "43916",
+            "date": "2005-07-31 12:45:40",
+            "id": "2347925",
+            "reply_to_id": "2347711",
+            "text": "prófaðu að skrifa pb_security 0 í console"
+        },
+        {
+            "user": "Kalashnikov",
+            "user_id": "53318",
+            "date": "2005-07-31 18:36:30",
+            "id": "2348357",
+            "reply_to_id": "2347925",
+            "text": "Er það ekki í lagi á BTnet?"
+        },
+        {
+            "user": "allisnilli",
+            "user_id": "43916",
+            "date": "2005-07-31 23:15:33",
+            "id": "2348732",
+            "reply_to_id": "2348357",
+            "text": "jú, ég þurfti það líka þa"
+        },
+        {
+            "user": "Kalashnikov",
+            "user_id": "53318",
+            "date": "2005-08-01 01:48:06",
+            "id": "2348949",
+            "reply_to_id": "2348732",
+            "text": "Prófa það."
+        },
+        {
+            "user": "masali",
+            "user_id": "27819",
+            "date": "2005-08-08 10:43:54",
+            "id": "2365974",
+            "reply_to_id": "2333202",
+            "text": "hvar fæ eg nya punkbuster???"
+        },
+        {
+            "user": "masali",
+            "user_id": "27819",
+            "date": "2005-08-08 10:59:08",
+            "id": "2365999",
+            "reply_to_id": "2333202",
+            "text": "þa ðkemmur alltaf Error.\nYou have bin disconnected by Punkbuster. The reson following Englis bellow.\nsvo\nPunkbuster Error Message.\nyou have been kicked via punkbuster (for 0.minutes)…\nthis Pb server requires (A1310 c1.110) - Error loding pbag hvaða rugl er þetta"
+        },
+        {
+            "user": "jongges",
+            "user_id": "59436",
+            "date": "2005-08-09 09:56:08",
+            "id": "2368584",
+            "reply_to_id": "2365999",
+            "text": "Farðu í console(vona að þú vitir hvað það er, annars geturu farið í options og tékkað hvaða takki er fyrir consolið)\nÞegar consolið opnast þá skrifaru “pb_security =0”\nSvona þarf ég allavega alltaf að skrifa það.\nPassaðu að hafa bil(space) á milli security og = merkisins."
+        },
+        {
+            "user": "Metroid",
+            "user_id": "38630",
+            "date": "2005-08-10 18:09:39",
+            "id": "2372669",
+            "reply_to_id": "2333202",
+            "text": "Empty Win32 Module list update pb með pb wep lækka gæða stillingar og virus/njósnahugbúnaðar hreinsa\nþetta pbweb er ekki að virka hjá mér.."
+        },
+        {
+            "user": "Fjarki",
+            "user_id": "40193",
+            "date": "2005-08-18 20:51:47",
+            "id": "2395054",
+            "reply_to_id": "2372669",
+            "text": "Er í smá vandræðum, búinn að egra eins og þú segir,  en þá kemur :  Mac edetion not needed for this game pbclnew.dll copied to pbslsnew.dll.\nSegir að ég sé að runna old verson af punkbuste"
+        },
+        {
+            "user": "Smokkfiskur",
+            "user_id": "21042",
+            "date": "2005-09-06 18:06:57",
+            "id": "2453975",
+            "reply_to_id": "2333202",
+            "text": "ég er með pb enn hann virkar ekki það kémur bara\npbweb must be launched from the home og svo bla bla\n**ERROR No punkbuster files found at path c:\\program files\\EA GAMES\\batefiled 2"
+        },
+        {
+            "user": "Smokkfiskur",
+            "user_id": "21042",
+            "date": "2005-09-06 21:40:09",
+            "id": "2455219",
+            "reply_to_id": "2453975",
+            "text": "Pabbi reddaði þessu fyrir mig ;) Hann er algjör snilli……………."
+        }
+    ]
+}

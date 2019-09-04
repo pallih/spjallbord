@@ -1,0 +1,37 @@
+{
+    "forum_title": "Windows",
+    "user": "piTTbuLL",
+    "user_id": "21407",
+    "date": "2009-09-09 15:33:57",
+    "title": "Alveg að verða brjálaður",
+    "text": "Er að verða helvíti brjálaður á þessu windows vista: home permium. Getur eitthver hjálpað mér með þetta.\nþað á að vera gott að automatic update tölvuni en ne í staðinn þá fer alltaf kerfið í fokk og ég get ekki startað upp windosinu útaf hún fer í state:\nconfiguring updates: Stage X of X 100% complete\ndo not turn of your computer.\nsvo þegar það er búið þá restrartar hún og þá gerist þetta\nWindows boot manager\nwindow failed to start. A recent hardware or software change might be the cause. To fix the problem:\n1.insert your window installation disc and restart your computer\n2.Choose your language settings, and then click “Next”\n3.Click “Repair you computer.”\nIf you do not have this disc, contact your system administrator or computer manufacturer for assistance\nFile: ntoskrn1.exe\nstatus: 0xc0000098\ninfo: windows failed to load because a required file is missing, or corrupt.\nokey í fyrsta lagi er ég búin að gera þetta svona 3svar að repair hana. EN NEI hún þarf að byrja að installa update þannig að ég kemst ekkert inní tölvuna mína! svo núna er þetta orðinn víta hringur !\neitthvað sem ég get gert ?",
+    "url": "https://www.hugi.is/windows/korkar/671776/alveg-ad-verda-brjaladur/",
+    "url_id": "671776",
+    "id": "6863459",
+    "replies": [
+        {
+            "user": "Crook",
+            "user_id": "76086",
+            "date": "2009-09-09 16:01:30",
+            "id": "6863501",
+            "reply_to_id": "6863459",
+            "text": "Svari eytt af stjórnanda"
+        },
+        {
+            "user": "karason",
+            "user_id": "23642",
+            "date": "2009-09-09 17:32:15",
+            "id": "6863651",
+            "reply_to_id": "6863459",
+            "text": "Hæ.\nPrófaðu þetta !\nKveðja.\nMBR - Master Boot Record\nHere is a manual fix from Microsoft -\nhttp://support.microsoft.com/kb/927392/en-us\nPossible add'l info:\nhttp://support.microsoft.com/kb/934540/en-us"
+        },
+        {
+            "user": "Selshamur",
+            "user_id": "19356",
+            "date": "2009-09-09 21:43:02",
+            "id": "6863997",
+            "reply_to_id": "6863459",
+            "text": "Slekk alltaf á Automatic Updates."
+        }
+    ]
+}

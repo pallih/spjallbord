@@ -1,0 +1,101 @@
+{
+    "forum_title": "Vefsíðugerð",
+    "user": "Cinemeccanica",
+    "user_id": "29977",
+    "date": "2010-09-09 15:33:57",
+    "title": "Loka á skoðun á undirmöppu",
+    "text": "Ég er að spá, mjög einföld spurning hjá mér. Er að setja upp myndaalbúm á heimasíðunni minni.\nhvernig loka ég á að það sé hægt að skoða rótina af viðkomandi myndamöppu.\nsegjum að myndirnar séu hér www.nafnlens.is/album/mynd1.jpg\nÉg vil að þessi mynd1.jpg sjáist á vefnum hjá mér og ég kann það alveg en ég vil ekki að það sé hægt að fara beint á www.nafnlens.is/album og skoða allt sem er í möppunni.\nÞið skiljið hvað ég er að tala um :)",
+    "url": "https://www.hugi.is/vefsidugerd/korkar/709962/loka-a-skodun-a-undirmoppu/",
+    "url_id": "709962",
+    "id": "7234839",
+    "replies": [
+        {
+            "user": "Vanheftur",
+            "user_id": "53825",
+            "date": "2010-09-09 16:58:11",
+            "id": "7234903",
+            "reply_to_id": "7234839",
+            "text": "setur bara tómst index.html skjal í hverja möppu.\nheld sé líka hægt að stilla með .htmaccess eða cpanel þá."
+        },
+        {
+            "user": "Whoi",
+            "user_id": "26863",
+            "date": "2010-09-17 09:51:18",
+            "id": "7239182",
+            "reply_to_id": "7234839",
+            "text": "index.php\n<?php\nheader('Location: /');\n“/” er rootið á hostinum, getur haft þetta t.d. “/404” ef þú ert með eitthvað fansí 404 layout."
+        },
+        {
+            "user": "egth",
+            "user_id": "31699",
+            "date": "2010-09-26 12:36:59",
+            "id": "7244865",
+            "reply_to_id": "7234839",
+            "text": "Það ætti að duga að gera .htaccess skjal, setja það inní album möppuna og láta eitthvað í þessa áttina standa þar inní.\n<Directory /var/www/penis.is/>\n                Options -Indexes FollowSymLinks MultiViews\n                AllowOverride None\n                Order allow,deny\n                allow from all\n        </Directory>"
+        },
+        {
+            "user": "Vanheftur",
+            "user_id": "53825",
+            "date": "2010-09-26 14:51:35",
+            "id": "7244956",
+            "reply_to_id": "7234839",
+            "text": "eða já index.php <?php define ‘Penis’ or die ('Aðgangur ekki heimilaður'); ?"
+        },
+        {
+            "user": "egth",
+            "user_id": "31699",
+            "date": "2010-09-27 12:28:03",
+            "id": "7245625",
+            "reply_to_id": "7244956",
+            "text": "Hver í ósköpunum er tilgangurinn með þessarri línu? >.<\nDugar fínt að hafa autt index skjal, eða texta inní því, algjör óþarfi að vera með eitthvað sull php."
+        },
+        {
+            "user": "Vanheftur",
+            "user_id": "53825",
+            "date": "2010-09-28 18:36:44",
+            "id": "7246621",
+            "reply_to_id": "7245625",
+            "text": "Mikið og oft notað í CMS og öðrum kerfum, ekki hugmynd afhverju, en þannig fyrsta svarið mitt er jafn mikið vit og að hafa tómt index.php\nHans val."
+        },
+        {
+            "user": "egth",
+            "user_id": "31699",
+            "date": "2010-09-29 13:06:07",
+            "id": "7247009",
+            "reply_to_id": "7246621",
+            "text": "Nei, það er _ekkert_ vit í því að hafa þessa línu. Hún gerir nákvæmlega það sama og autt skjal eða skjal með texta inní myndi gera."
+        },
+        {
+            "user": "Vanheftur",
+            "user_id": "53825",
+            "date": "2010-09-29 14:48:34",
+            "id": "7247070",
+            "reply_to_id": "7247009",
+            "text": "Sagði aldrei væri eitthvað vit í þessari línu."
+        },
+        {
+            "user": "egth",
+            "user_id": "31699",
+            "date": "2010-09-29 16:52:38",
+            "id": "7247202",
+            "reply_to_id": "7247070",
+            "text": "en þannig fyrsta svarið mitt er jafn mikið vit og að hafa tómt index.php\nÞetta er algjör steypa, að nota php kóða þegar cleartext er skilvirkara er bara kjánalegt."
+        },
+        {
+            "user": "Vanheftur",
+            "user_id": "53825",
+            "date": "2010-09-29 18:19:13",
+            "id": "7247269",
+            "reply_to_id": "7247202",
+            "text": "Vanheftur 9. september 2010 - 16:58\nsetur bara tómst index.html skjal í hverja möppu."
+        },
+        {
+            "user": "egth",
+            "user_id": "31699",
+            "date": "2010-09-29 19:01:24",
+            "id": "7247314",
+            "reply_to_id": "7247269",
+            "text": "Til hamingju, þú ert ekki alvitlaus!"
+        }
+    ]
+}

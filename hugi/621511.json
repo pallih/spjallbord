@@ -1,0 +1,93 @@
+{
+    "forum_title": "Linux",
+    "user": "Maxwell",
+    "user_id": "56524",
+    "date": "2008-10-24 02:25:52",
+    "title": "Ubuntu vandræði með flakkara o.fl.",
+    "text": "Ég er svona, nýbúinn að komast að því að Linux er ekki með sama skráarkerfi og Windows, þar sem ég get tengt flakkara beint í tölvuna og keyrt hana strax, eða annað fyrirbæri sem gengur með USB.\nMálið er að ég er að reyna að tengja flakkarann minn í Ubuntu sem ég er nýbúinn að setja í hinni tölvunni, en ég get það ekki, né mús sem ég alveg ómögulegur ef ég hef hana ekki..\nHjálp? E-r?",
+    "url": "https://www.hugi.is/linux/korkar/621511/ubuntu-vandraedi-med-flakkara-ofl/",
+    "url_id": "621511",
+    "id": "6236196",
+    "replies": [
+        {
+            "user": "drpepper",
+            "user_id": "57658",
+            "date": "2008-10-24 09:28:13",
+            "id": "6236363",
+            "reply_to_id": "6236196",
+            "text": "hmm meinaru þá að ubuntu dectecti ekki músina?"
+        },
+        {
+            "user": "Maxwell",
+            "user_id": "56524",
+            "date": "2008-10-24 11:52:55",
+            "id": "6236582",
+            "reply_to_id": "6236363",
+            "text": "Já kannski..\nOg líka bara með flakkarann, þegar ég tengi hann við windowsinn þá kemur ljós á hann og hann fer í gang með hávaða og læti en þegar ég tengi hann við ubuntu þá er hann alveg gjörsamlega dauður!"
+        },
+        {
+            "user": "smeppi",
+            "user_id": "717",
+            "date": "2008-10-24 14:37:26",
+            "id": "6236997",
+            "reply_to_id": "6236196",
+            "text": "Eru allir USB gaurarnir svona?\nPrófaðu að skella inn outputinu úr lsusb hingað (með eitthvað í sambandi)."
+        },
+        {
+            "user": "ElGorilla",
+            "user_id": "20068",
+            "date": "2008-10-25 03:54:21",
+            "id": "6239025",
+            "reply_to_id": "6236196",
+            "text": "Það fylgir ekki stuðningur fyri NTFS partition með linux settu þetta inn í terminal til þess að fá NTFS stuðning.\nsudo apt-get install ntfs-config"
+        },
+        {
+            "user": "Maxwell",
+            "user_id": "56524",
+            "date": "2008-10-26 23:32:04",
+            "id": "6243745",
+            "reply_to_id": "6239025",
+            "text": "Já ok, og hvar finn ég það? :$\nBætt við 26. október 2008 -  23:44\nFann það kjeldinn mar :D"
+        },
+        {
+            "user": "Maxwell",
+            "user_id": "56524",
+            "date": "2008-10-26 23:46:19",
+            "id": "6243802",
+            "reply_to_id": "6239025",
+            "text": "Ok ég gerði þetta sem þú sagðir mér og hún gerði e-ð voða gúrúdæmi..unpacking þetta og hitt og kláraði þetta bara. En músin virkar ekki enþá (A)\nÉg fór svo bara í e-ð update í Update Manager að leikja mér e-ð..gaman víí..þeas ef það skiptir e-u máli."
+        },
+        {
+            "user": "ElGorilla",
+            "user_id": "20068",
+            "date": "2008-10-27 00:43:19",
+            "id": "6244042",
+            "reply_to_id": "6243802",
+            "text": "Svar mitt tengist aðeins fyrri spurningunni í sambandi við skráarkerfið fyrir flakkarann, virkar hann sem sagt núna?\nÞað myndi segja meira ef þú segðir hvernig tölvu og mús þú ert með.\nBætt við 27. október 2008 -  00:47\nLíka hvaða útgáfu af ubuntu þú ert að nota."
+        },
+        {
+            "user": "Maxwell",
+            "user_id": "56524",
+            "date": "2008-10-27 01:39:13",
+            "id": "6244197",
+            "reply_to_id": "6244042",
+            "text": "Hvernig Ubuntu er ég með veit ég ekki, nýjasta býst ég við. Ég er með Fujitsu Siemens  Amilo með Intel Celeron gjörva.\nÉg er með e-rskonar Logitech þráðlausa mús, ég fór á Google sem ég gat ómögulega fattað áður en ég bjó til þennann þráð og fékk músina til að virka en hún\nlaggar\nmjög mikið.."
+        },
+        {
+            "user": "ElGorilla",
+            "user_id": "20068",
+            "date": "2008-10-27 02:14:16",
+            "id": "6244271",
+            "reply_to_id": "6244197",
+            "text": "En flakkarinn virkar?"
+        },
+        {
+            "user": "Maxwell",
+            "user_id": "56524",
+            "date": "2008-10-27 02:16:53",
+            "id": "6244275",
+            "reply_to_id": "6244271",
+            "text": "Ég held ekki, hvar nálgast þá í hann? Verður hann þá bara fyrir neðan ‘filesystem’? ..ég þarf ábyggilega að hafann tengdann við tölvuna eftir að ég skrifi þetta í term. :P\nÉg er svo noob á linux :C"
+        }
+    ]
+}

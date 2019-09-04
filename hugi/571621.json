@@ -1,0 +1,53 @@
+{
+    "forum_title": "Grafísk hönnun",
+    "user": "Sleipnir",
+    "user_id": "6698",
+    "date": "2008-02-02 15:17:55",
+    "title": "Smá hjálp í photoshop?",
+    "text": "Hæ, ég kann voða lítið á photoshop en langar að vita hvernig ég get skipt mynd niður í ca 12-16 jafna kössótta parta, svona eins og púsluspil?\nEr einhver sem getur leiðbeint mér með það?",
+    "url": "https://www.hugi.is/grafik/korkar/571621/sma-hjalp-i-photoshop/",
+    "url_id": "571621",
+    "id": "5608885",
+    "replies": [
+        {
+            "user": "Blasti",
+            "user_id": "63978",
+            "date": "2008-02-02 16:40:31",
+            "id": "5608999",
+            "reply_to_id": "5608885",
+            "text": "http://www.flash-gear.com/puzzle/\ngetur notað þetta"
+        },
+        {
+            "user": "Sleipnir",
+            "user_id": "6698",
+            "date": "2008-02-02 16:46:45",
+            "id": "5609010",
+            "reply_to_id": "5608999",
+            "text": "Nei sko ég þarf að fá alveg ferkantaða hluta, ég er ekki að búa til púsl heldur sagði ég að þetta væri líkt og púsl til skýringar… en það mistókst.\nÞað sem ég þarf að gera er að skipta mynd niður í þetta 12-16 nákvæmlega jafnstóra og einslaga (ferkantaða) hluta til þess að geta síðan klippt þá í sundur og búið til sér mynd úr hverjum."
+        },
+        {
+            "user": "Blasti",
+            "user_id": "63978",
+            "date": "2008-02-02 21:43:34",
+            "id": "5609546",
+            "reply_to_id": "5609010",
+            "text": "opnaðu myndina í photoshop, hakaðu við View>Rulers\nHægriklikkaðu þá á reglustikuna sem birtist og veldu percent.\nÞá getur þú vinstriklikkað á reglustikuna og haldið takkanum inni til að draga línu yfir myndina, ath þetta eru bara leiðbeinandi línur. láttu línur á 25% 50% og 75% upp og niður þá ertu kominn með 16 nákvæmnlega jafnstóra ferninga.\nVeldu þá Rectangular Marquee tool og notaðu línurnar sem þú gerðir til þess að hjálpa þér að velja nákvæmnt. Ef þú heldur ctrl inni á meðan þú ert að velja þá fer hann meira eftir línunum\nÞú verður svo bara að klippa hvern kassa út fyrir sig með ctrl-x og getur síðan límt beint yfir í nýjann layer með ctrl-j\nÞegar þú ert búinn að setja hvern kassa fyrir sig inní nýjan layer, velur þú einn þeirra og ferð í Image>Trim\nGerðu svo vel"
+        },
+        {
+            "user": "Sleipnir",
+            "user_id": "6698",
+            "date": "2008-02-03 14:23:28",
+            "id": "5610639",
+            "reply_to_id": "5609546",
+            "text": "Heyrðu ég náði að redda þessu, og á mjög professional hátt, notaði bara gömlu góðu reglustikuna, cut og paste hehe.\nTakk fyrir upplýsingarnar samt :)"
+        },
+        {
+            "user": "Amon",
+            "user_id": "20748",
+            "date": "2008-02-03 02:16:55",
+            "id": "5610082",
+            "reply_to_id": "5608885",
+            "text": "Í staðin fyrir að þú sért að nota rulers og e-ð vesen mæli ég með því að þú farir í image size, sjáir stærðina, farir svo í select tool thingy-ið, fixed size, stærðin/4 í height og width"
+        }
+    ]
+}

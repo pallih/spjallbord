@@ -1,0 +1,101 @@
+{
+    "forum_title": "Manager leikir",
+    "user": "Sammz",
+    "user_id": "58060",
+    "date": "2007-01-02 16:58:35",
+    "title": "Leiðbeiningar fyrir network game.",
+    "text": "Góðan daginn. Ég veit að það hefur komið grein um að spila network game en ég held að ekkert allir hafi náð að fara eftir þeim leiðbeiningum. Í þessum leiðbeiningum þarftu ekki að opna port eins og flestir eru í erfileikum með. Það er til forrit (hamachi) sem tengir tölvurnar saman og þannig er léttara að spila network game.\nFyrsta sem þú gerir er að ná í hamachi.\nhttp://www.hamachi.cc/download/list.php\n. Þegar þið eruð báðir búnir að ná í það og setja það upp sjáið þið 3 valmöguleika þarna neðst.. Þið ítið á þann sem er í miðjunni .Þá koma upp 3 valmöguleikar. Annar ykkar ítir á Create a new network. Þegar hann er búinn að því ítir hinn á Join an existing network og setur network name og network password sem hinn gerði áðan. Þá ættu þið að sjá hvor annan í þessu. Svo þegar þið farið í network game verðið alltaf að vera með kveikt á hamachi.\nNæsta sem þið gerið er að annar startar save-i í FM. Þegar hann er búinn að því ítir hann á options og preferences og þá sér hann network sem er lengst til vinstri. Þegar hann er búinn að því lætur hann hak í run as server. Og getur skírt serverinn af einhverju nafni og látið password. Eftir það ítir hann á confirm.\nÞá fer hinn sem hann ættlar að vera með honum í network í main menu sem er í byrjun þegar þú opnar leikinn. Þar ætti hann að sjá nafnið á servernum sem hinn gerði. Svo klikkar hann á nafnið á servernum og þá ætti hann að vera kominn inn.\nEf hann sér ekki serverinn getur hinn sagt honum ip tölunna á servernum með því að fara í options > game status. Þar sér hann 2 langar tölur og hinn getur prófað að setja þær í join other server. Þá ætti hann að vera kominn inn.\nÞetta er bara ein leiðin til að spila network game og mér finnst þetta vera léttasta leiðin.\nTakk fyrir mig",
+    "url": "https://www.hugi.is/manager/greinar/481342/leidbeiningar-fyrir-network-game/",
+    "url_id": "481342",
+    "id": "4424146",
+    "replies": [
+        {
+            "user": "CruiZer",
+            "user_id": "52141",
+            "date": "2007-01-02 19:27:15",
+            "id": "4425296",
+            "reply_to_id": "4424146",
+            "text": "ég og félagi minn erum að lenda í vandræðum með það að sá sem hostar ekki hann er svoldið lengi að loada   upp leikmönnum en sá sem hostar er bara með sama hraða og í single player, er einhver ástæða fyrir þessu??"
+        },
+        {
+            "user": "delonge",
+            "user_id": "22183",
+            "date": "2007-01-02 19:33:37",
+            "id": "4425343",
+            "reply_to_id": "4424146",
+            "text": "Sammi ertu ekki að grínast c/p þessa grein af mér á www.fotboltabullir.com :S"
+        },
+        {
+            "user": "Sammz",
+            "user_id": "58060",
+            "date": "2007-01-02 19:56:11",
+            "id": "4425462",
+            "reply_to_id": "4425343",
+            "text": "Rólegur var að gera þetta áðan"
+        },
+        {
+            "user": "gurka",
+            "user_id": "13219",
+            "date": "2007-01-03 09:38:05",
+            "id": "4427478",
+            "reply_to_id": "4425462",
+            "text": "eg var akkurat að leita af þessu bara í gær svo þakka ykkur fyri"
+        },
+        {
+            "user": "Aitor",
+            "user_id": "63344",
+            "date": "2007-01-05 19:35:17",
+            "id": "4438073",
+            "reply_to_id": "4424146",
+            "text": "Góð grein :)"
+        },
+        {
+            "user": "clarkson",
+            "user_id": "42675",
+            "date": "2007-01-07 16:11:54",
+            "id": "4445217",
+            "reply_to_id": "4424146",
+            "text": "Í gærkvöldi spiluðum ég og vinur minn á netinu. Og í dag þegar við ætltuðum að byrja aftur þá er bara eins og það er enginn manager hjá mér en það sést allt hjá honum. :/\np.s þegar við byrjuðum fyrst þá gat ég ekki gert manager og ég var búinn að reyna lengi ákvað ég að fara út úr leiknum og aftur inn og þá vikarði það. Og síðan ætlaði annar vinur minn að joina en hann gat ekki gert Manager. Hann fór út úr leiknum og aftur í hann en samt gerðist ekkert….:/\nBætt við 7. janúar 2007 -  16:19\nég er í leiknum að reyna að finna út hvað er að. Ég fór í All Clubs og þá eru enginn félög :/"
+        },
+        {
+            "user": "Aitor",
+            "user_id": "63344",
+            "date": "2007-02-02 13:36:49",
+            "id": "4548807",
+            "reply_to_id": "4445217",
+            "text": "Ég veit ekki hvort ég hafi skilið þetta rétt, en þegar þú ert kominn í leikinn og ætla að byrja aftur í network þá ýtiru á ‘not connected’ á glugganum sem kemur upp og þá er þetta komið."
+        },
+        {
+            "user": "fnr",
+            "user_id": "60009",
+            "date": "2007-01-09 18:14:42",
+            "id": "4453993",
+            "reply_to_id": "4424146",
+            "text": "Eitthvað grín ?\nÉg installaði þessu forriti að það overwriteaði yfir fyrri nettengingu!!!\nþað sem hét Local Area Connection heitir nú Hamachi!!\nRoostaði semsamgt netinu ítölvunni minni ( er ekki þar nuna )\n??????????"
+        },
+        {
+            "user": "Sammz",
+            "user_id": "58060",
+            "date": "2007-01-10 00:18:58",
+            "id": "4455984",
+            "reply_to_id": "4453993",
+            "text": "Kannt þá ekkert á þetta!"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2007-02-02 15:57:25",
+            "id": "4549374",
+            "reply_to_id": "4424146",
+            "text": "[quote=\"Grein frá mér í september]\n1.1.: Þá ferðu að fara inná\nhttp://www.portforward.com/english/applications/port_forwarding/FBMan2006/FBMan2006index.htm ath. þetta er samt bara fyrir FM 2006, ef þú vilt e-n annan leik ferðu hingað í staðin og finnur svo routerinn\nþarna er listi af routerum, finndu routerinn þinn í þessum lista, ef þú\nert ekki viss hvernig router þú ert með þá stendur það á routernum sjálfum\nundir eða ofaná eða hvar sem er á honum, ég veit það ekki alveg. Það eru\nsitthvorar tölurnar sem þú átt að stimpla inn í address uppi eftir\nrouterum, á leiðbeiningunum á routernum þínum stendur talan í 1. skrefi,\nfarðu upp í address og skrifaðu hana niður og ýttu á Enter.\n1.2.: Þá poppar upp kassi þar sem þú loggar þig inná routerinn þinn,\nstimplaðu inn aðgangsorð og notandanafn (Mjög algengt er að notandanafnið\nsé admin en að vísu er það ekkert alltaf admin)\nSvo veit ég ekki meir þar sem ég veit ekki hvernig router þið eruð með en\nþær upplýsingar færðu á síðunni sem ég benti ykkur á áðan\n2.1.: Static IP: Ég geri ráð fyrir að flestir hér séu við tölvu sem notast við Windows XP svo að ég skrifa upplýsingar um hvernig á að gera þetta á XP tölvum.\nOpnaðu start hnappinn og ýttu á run. Skrifaðu í reitinn\ncommand. Þar poppar upp svartur gluggi og í hann áttu að skrifa\nipconfig/all þá koma upplýsingar, þetta notaru ekki strax en geymdu þennan\nglugga, ekki x-a hann. Farðu núna í Control Panel, þar næst smelliru á\nnetwork connections, þarna koma einhverjar mögulegar nettengingar, finndu\ntenginguna sem þú notar til að komast á netið, ef þú ert ekki viss,\nprófaðu að hægri smella á einhverja þeirra og ýta á disable og kíkja á\nnetið, ef engin síða birtist þá er þetta tengingin sem þú ætlar að nota,\nhægri klikkaðu aftur og enable. Svo hægri klikkaru á þessa tengingu og\nýtir á properties, ef svona skjár birtist:\nþá áttu að ýta á\nproperties. Svo er þar neðarlega líklega eitthvað sem heitir Internet\nProtocol og ýtir þar á properties, þar kemur svona gluggi upp: nema ekki með þessum\nnúmerum, þetta er líklega autt. Þarna opnaru upp hinn gluggan sem ég sagði\nykkur að opna áðan, þar standa upplýsingarnar sem þið eigið að skrifa í þessa\nreiti.\n3.1.: Þú startar FM, s.s. sá sem opnaði portin.. Og loadar upp leiknum, svo ýtiru á options og preferences og hakar í run as server. Þar næst ýtiru á confirm, þá sérðu í Options + Game Status, IP töluna þína, sá sem á að koma í leikinn á að fá hana senda til sín í gegnum MSN, Yahoo eða bara hvernig sem er, skiptir ekki öllu, aðalatriðið að hann fái þessa IP tölu. Hann loadar upp FM og þar stendur á forsíðunni \"network\" og svo ýtir hann á \"join other server\" og slær inn IP töluna og þá ætti viðkomandi að vera kominn inn..... :)\n[/quote]"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2007-02-02 15:58:26",
+            "id": "4549378",
+            "reply_to_id": "4549374",
+            "text": "Úps, þetta átti að fara í þráðinn sem gaur var að biðja um aðstoð við online play"
+        }
+    ]
+}

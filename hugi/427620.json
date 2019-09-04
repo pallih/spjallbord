@@ -1,0 +1,101 @@
+{
+    "forum_title": "Linux",
+    "user": "dorg",
+    "user_id": "28480",
+    "date": "2006-07-17 15:27:03",
+    "title": "Samba prentun",
+    "text": "Ég veit að þið getið flest gúgglað hinsvegar er ágætt að fá ábendingar um hluti sem manni dettur ekki endilega í hug að séu til svona ef maður er að byrja á þessu.\nÞessi grein á að fjalla um samba.\nSamba er lenging á smb sem er skammstöfun á System messages block sem varð til í árdaga hjá IBM og Microsoft meðan þau voru vinir og í góðri samvinnu.\nEn svo maður haldi sér við efnið.\nÞað er einfalt að fá prentun til að virka í samba\nÉg ætla að miða við Fedora/RedHat stillingar í þessari grein af því að ég er með þannig uppsetningu.\nSkráin /etc/samba/smb.conf inniheldur skilgreiningar fyrir samba sem er sem sagt ef einhver veit það ekki kerfið sem notað er til að deila diskum og prenturum milli M$ Linux og ef vill Mac véla a la network neigborhood.\nsmb.conf skráin minnir helst á ini skrá í windows þar sem hver kafli afmarkast af hornklofi texti hornklofi lokast [Printer] sem dæmi\nTil að print share virki á einföldu staðarneti þar sem ekki er domain controller er nægilegt að stilla þessu upp svona.\n[global]\nworkgroup = WORKGROUP\nserver string = Samba Server\nsecurity = share\nload printers = yes\nprinting = cups\ncups options = raw\nprintcap name = cups\n[printers]\ncomment = All Printers\nbrowseable = yes\npath = /tmp\nprintable = yes\npublic = yes\nwritable = yes\ncreate mode = 0777\nÞetta er í sjálfu sér nóg en þá þurfa menn á windows vélunum að hafa fyrir því að finna hvaða prentari þetta er\nBæta við Printer sharinu\n[print$]\ncomment = Printer Drivers\npath = /var/printers\nbrowseable = yes\nread only = no\nguest ok = no\ncreate mask = 0664\ndirectory mask = 0775\nwrite list = root,notandi,@ntadmin\nÞarna er verið að bæta við hverjir geta skrifað í print sharið og þannig bætt við prentardriverum\n@ntadmin er unix grúppa og ef viðkomandi tilheyrir grúppunni getur hann sett inn prentaradriver.\nTrixið er svo að setja inn prentardriverinn til þess er annaðhvort hægt að nota rpcclient forritið  eða gefa tilsvarandi windows skipanir.\nÞetta eru leiðbeiningar sem ég hafði til hliðsjónar\nhttp://us3.samba.org/samba/docs/man/Samba-HOWTO-Collection/classicalprinting.html\nWindows skipun til að setja upp prentara\nrunas /netonly /user:root rundll32 printui.dll,PrintUIEntry /p /t0 /n \\\\SAMBA-SERVER\\printersharename\nOg svo eru menn að kvarta undan flókunum unix skipunum :-)",
+    "url": "https://www.hugi.is/linux/greinar/427620/samba-prentun/",
+    "url_id": "427620",
+    "id": "3749317",
+    "replies": [
+        {
+            "user": "Myndarlegur",
+            "user_id": "34366",
+            "date": "2006-07-17 16:23:34",
+            "id": "3759703",
+            "reply_to_id": "3749317",
+            "text": "Jeb…"
+        },
+        {
+            "user": "Whoi",
+            "user_id": "26863",
+            "date": "2006-07-21 08:12:26",
+            "id": "3774759",
+            "reply_to_id": "3749317",
+            "text": "Massa grein, fannst sam vanta betri útskýringu á hvernig á að útfæra þetta ef prentarinn er tengdur við mac."
+        },
+        {
+            "user": "dorg",
+            "user_id": "28480",
+            "date": "2006-07-21 15:38:14",
+            "id": "3775844",
+            "reply_to_id": "3774759",
+            "text": "Með Mac tengdan prentara þá er spurningin hvernig macinn deilir prentaranum.  Ef hann er að nota CUPS (Common Unix Print System) þá gildir þessi uppsetning líka.  Smávægileg breyting fyrir ef prentarinn er LPR tengudur og gildir einnig ef þetta  er JetDirect prentari.\nLPR þá er printsystem lpd að mig minnir an í grundvallaratriðunum er að ef þú getur prentað frá linux vélinni þá getur þú líka notað hann sem prentþjón fyrir þann prentara."
+        },
+        {
+            "user": "emil",
+            "user_id": "155",
+            "date": "2006-07-29 13:39:01",
+            "id": "3808159",
+            "reply_to_id": "3749317",
+            "text": "værirðu til í að setja inn leiðbeiningar líka um hvernig á að setja upp samba ?"
+        },
+        {
+            "user": "dorg",
+            "user_id": "28480",
+            "date": "2006-07-29 15:18:44",
+            "id": "3808470",
+            "reply_to_id": "3808159",
+            "text": "Samba er bara pakki í flestum kerfum mörg setja hann upp sjálfgefið.\nannars á það bara að vera yum install samba\nÞað sem tilheyrir samba á vélinni minni er t.d\nsamba-3.0.21b-2\nsamba-common-3.0.21b-2\nsamba-client-3.0.21b-2\nÞetta er Fedora sem uppsetningin miðaðist við\nLeiðbeiningarnar sem voru hér í byrjum fjölluðu um\nhverning maður breytir skránni\n/etc/samba/smb.conf þar sem sharin eru skilgreind.\nSvo er bara að keyra\ntestparm til að prófa hvort maður sé að gera einhverja vitleysu…"
+        },
+        {
+            "user": "sjons",
+            "user_id": "64821",
+            "date": "2006-08-04 21:04:39",
+            "id": "3831527",
+            "reply_to_id": "3749317",
+            "text": "Mig langar að nota swat (pakkinn inni) til að einfalda málið en fæ það ekki upp í browser:\nE-r hugmyndir?\nUnable to connect\nFirefox can't establish a connection to the server at localhost:901.\n*   The site could be temporarily unavailable or too busy. Try again in a few\nmoments.\n*   If you are unable to load any pages, check your computer's network\nconnection.\n*   If your computer or network is protected by a firewall or proxy, make sure\nthat Firefox is permitted to access the Web."
+        },
+        {
+            "user": "dorg",
+            "user_id": "28480",
+            "date": "2006-08-07 18:10:36",
+            "id": "3838110",
+            "reply_to_id": "3831527",
+            "text": "Ertu viss um að swat þjónustan sé í gangi?"
+        },
+        {
+            "user": "sjons",
+            "user_id": "64821",
+            "date": "2006-08-07 19:51:22",
+            "id": "3838440",
+            "reply_to_id": "3838110",
+            "text": "Nei hvernig finn ég það út?"
+        },
+        {
+            "user": "dorg",
+            "user_id": "28480",
+            "date": "2006-08-07 21:22:39",
+            "id": "3838781",
+            "reply_to_id": "3838440",
+            "text": "Opnar skel\nkeyrir\nchkconfig –list\nathugar hvort swat sé merkt virkt\nef ekki þá keyrir þú\nchkconfig swat on\nOg því næst\nservice xinetd restart\nEf þú ætlar hinsvegar að læra eitthvað á þetta skaltu ekki nota swat heldur fara yfir smb.conf skrána í editor."
+        },
+        {
+            "user": "kjerulf",
+            "user_id": "12099",
+            "date": "2006-08-10 00:00:26",
+            "id": "3846194",
+            "reply_to_id": "3749317",
+            "text": "Ég hef vanið mig á að nota bara skeljarskipnair til að prenta.\nFlestir prentarar styðja PostScript upload, ég er því með þetta í ~/bin/prenta :\n#!/bin/bash\nncftpput uppahalds.prentarinn.stofnun.is / $1\nMuna að gera chmod +x\nATH, þetta virkar t.d. á Novell systemum þar sem þarf að kaupa prentkvóta, því miður þá fer þetta fram hjá kvótakerfinu og leyfir því ókeypis prentun. ncftpput kemur með ncftp sem er console ftp client.\nÖll forrit sem ég nota á linux bjóða upp á að prenta beint í PS skrá sem síðan er hægt að uploada beint á prentarann.\nPrentar kóða með syntax highlighting, 2 síður á hverja prentaða síðu (mjög þægilegt!):\n$ a2ps code.pl > code.pl.ps && print code.pl.ps\nÞessi skripa prentar LaTeX skrár tilbúnar til útgáfu:\n#!/bin/sh\nlatex $1 && dvips `basename $1 .tex` -o `basename $1 .ps` && prenta  `basename $1 .ps`\nTelnet virkar líka á mörgum prenturum, smá dæmi (~/bin/telnetprint):\n#!/bin/bash\na2ps $1 | telnet $2 9100 ;\nNotkun:\n$ telnetprint forrit.pl my.printer.lan\nHave fun printing!"
+        },
+        {
+            "user": "dorg",
+            "user_id": "28480",
+            "date": "2006-08-10 19:48:11",
+            "id": "3849003",
+            "reply_to_id": "3749317",
+            "text": "Af hverju stillir þú ekki bara beint á ip töluna á prentaranum með týpunni jetdirect í cups?\nþá þarftu ekkert að hugsa um þetta.  Getur svo sharað þeim prentara gegn vægu gjaldi :-)"
+        }
+    ]
+}

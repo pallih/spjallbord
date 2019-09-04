@@ -1,0 +1,125 @@
+{
+    "forum_title": "Netið",
+    "user": "Smegma",
+    "user_id": "33",
+    "date": "2001-05-17 18:29:11",
+    "title": "Nýr spjallþjónn Símans Internets",
+    "text": "Síminn Internet hefur nú tekið í notkun splunkunýjan spjallþjón, irc.simnet.is. Vélin er tengd IRCNet, einu allra stærsta ircneti veraldar. Undir Vélarhlíf HP LP 1000r vélarinnar er ekki vélbúnaður af verri endanum:\n-Intel Pentium 3 866 MHz örgjörvi\n-512 MB minni\n-SCSI Raid controller + 2x18 GB harðir diskar, hotswappable\n-2 Netkort\nSpjallþjónninn er kominn í fulla þjónustu, þótt enn sé hann í prófun. Nú fyrir 10 mínútum voru um 100 notendur tengdir þjóninum, sem verður að teljast afbragðsviðtökur á þeim sex klukkustundum sem hann hefur verið opinn.\n/server irc.simnet.is :)",
+    "url": "https://www.hugi.is/netid/greinar/27571/nyr-spjallthjonn-simans-internets/",
+    "url_id": "27571",
+    "id": "183936",
+    "replies": [
+        {
+            "user": "ram",
+            "user_id": "89",
+            "date": "2001-05-17 18:39:29",
+            "id": "183937",
+            "reply_to_id": "183936",
+            "text": "/server irc.ircnet.is ;P"
+        },
+        {
+            "user": "Kjarrval",
+            "user_id": "3269",
+            "date": "2001-05-17 18:44:10",
+            "id": "183938",
+            "reply_to_id": "183936",
+            "text": "Serverinn virkar ekki hjá mér.  Kemur alltaf “connection attempt timed out” hjá mér.  Ég er hjá símnet og allt.  Ég ætla að prófa að hringja í þjónustudeildina…"
+        },
+        {
+            "user": "Smegma",
+            "user_id": "33",
+            "date": "2001-05-17 18:48:43",
+            "id": "183939",
+            "reply_to_id": "183938",
+            "text": "Prófaðu að kíkja í file - options - connect - options, og hækka töluna á eftir “if not connected within X secs” upp í svona 90. Þetta miðast við mirc 5.7 og nýrra."
+        },
+        {
+            "user": "Kjarrval",
+            "user_id": "3269",
+            "date": "2001-05-17 18:56:48",
+            "id": "183940",
+            "reply_to_id": "183939",
+            "text": "Jibbí, þetta virkaði.  Takk smegma!"
+        },
+        {
+            "user": "Smegma",
+            "user_id": "33",
+            "date": "2001-05-17 18:57:56",
+            "id": "183941",
+            "reply_to_id": "183940",
+            "text": "np  :)"
+        },
+        {
+            "user": "JBravo",
+            "user_id": "3228",
+            "date": "2001-05-17 19:00:38",
+            "id": "183942",
+            "reply_to_id": "183936",
+            "text": "768 MB minni, drengur minn ;)"
+        },
+        {
+            "user": "Throstur",
+            "user_id": "160",
+            "date": "2001-05-17 19:03:30",
+            "id": "183943",
+            "reply_to_id": "183936",
+            "text": "ekkert sérstagt að vera á server sem er restricted á meðan þannig er held ég mig við irc.ircnet.is"
+        },
+        {
+            "user": "Throstur",
+            "user_id": "160",
+            "date": "2001-05-17 21:31:38",
+            "id": "183944",
+            "reply_to_id": "183943",
+            "text": "sammála! restricted, yay! whats the point? ég er meiraðsegja slímnet notandi"
+        },
+        {
+            "user": "Smegma",
+            "user_id": "33",
+            "date": "2001-05-17 22:02:41",
+            "id": "183945",
+            "reply_to_id": "183944",
+            "text": "Sértu sá Throstur sem ég tel þig vera ættirðu að sækja um aðgang fyrir lénið/hostinn þinn með að senda tölvupóst á ircadm@simnet.is.\nÓskráð erlend domain falla á sk. i-línu, jafnvel þótt þau séu frá þekktum íslenskum IP-tölum. Þetta gerir fleirum kleift að spjalla, því restricted spjall er jú öllu betra en ekkert spjall :)"
+        },
+        {
+            "user": "Throstur",
+            "user_id": "160",
+            "date": "2001-05-17 22:46:10",
+            "id": "183946",
+            "reply_to_id": "183945",
+            "text": "Mikið rétt, en hví ekki að leyfa ótakmarkaðan aðgang frá ykkar eigin ip-tölum?\nAnnars er e-mail á leiðinni, þakkir fyrir uppl."
+        },
+        {
+            "user": "FarmerJon",
+            "user_id": "3219",
+            "date": "2001-05-18 10:07:40",
+            "id": "183947",
+            "reply_to_id": "183946",
+            "text": "jæja, þá er bara að bíða eftir á irc.simnet.is KRASHI! mwaha, þá getur maður farið aftur á isnet :)"
+        },
+        {
+            "user": "JBravo",
+            "user_id": "3228",
+            "date": "2001-05-18 15:56:12",
+            "id": "183948",
+            "reply_to_id": "183947",
+            "text": "LOL :)    Ef þér líður betur á server sem er ekki til (hann heitir irc.IRCNET.is) þá skaltu bara nota hann :)\nÞér er frjálst að nota þá spjallþjóna sem þú villt (hafir þú ekki verið bannaður)."
+        },
+        {
+            "user": "kiddisig",
+            "user_id": "4183",
+            "date": "2001-11-25 18:27:58",
+            "id": "183949",
+            "reply_to_id": "183948",
+            "text": "Rosalega finnst mér fólk alltaf vera frekt! Þetta er frí þjónusta og irc.simnet.is er snilldar server! Reyndar er hann orðinn “ágætlega” gamall núna þegar ég skrifa þetta en samt á fólk nú að sýna aðeins meiri þakklæti en þetta!"
+        },
+        {
+            "user": "sindrit",
+            "user_id": "3719",
+            "date": "2001-05-18 14:31:57",
+            "id": "183950",
+            "reply_to_id": "183936",
+            "text": "Þegar ég reyni að tengjast þessum server fæ ég villuna:\nNo Route to Host\n:P"
+        }
+    ]
+}

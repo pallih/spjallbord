@@ -1,0 +1,125 @@
+{
+    "forum_title": "Linux",
+    "user": null,
+    "user_id": null,
+    "date": "2010-12-24 18:10:35",
+    "title": "Setja Chromium sem default browser.",
+    "text": "Gleðileg jól allir en ég ætlaði að henda á ykkur einni spurningu sem þig getið vellt fyrir ykkur yfir hamborgarahryggnum.\nÉg er að reyna að setja Chromium sem default browser á Ubuntu og það er enganvegin að virka, sama hvað ég geri þá er Firefox alltaf á default, þósvo að ég eyði honum út þá verður enginn browser á default.",
+    "url": "https://www.hugi.is/linux/korkar/717684/setja-chromium-sem-default-browser/",
+    "url_id": "717684",
+    "id": "7292324",
+    "replies": [
+        {
+            "user": "optimusprime",
+            "user_id": "360",
+            "date": "2010-12-24 21:19:24",
+            "id": "7292368",
+            "reply_to_id": "7292324",
+            "text": "en ef þú opnar chromium, ferð í skiptilykilinn, options, basics og make chrome my default browse"
+        },
+        {
+            "user": "optimusprime",
+            "user_id": "360",
+            "date": "2010-12-24 21:47:12",
+            "id": "7292382",
+            "reply_to_id": "7292368",
+            "text": "Það stendur fyrir ofan að Chromium sé ekki minn default browser og ef ég ýti á make ‘Chromium My Default Browser’ gerist ekki neitt, ennþá sömu skilaboð fyrir ofan."
+        },
+        {
+            "user": "optimusprime",
+            "user_id": "360",
+            "date": "2010-12-25 00:22:43",
+            "id": "7292473",
+            "reply_to_id": "7292382",
+            "text": "prufaðu að gera sudo chromium og ýta á takkann, muna bara að loka svo og starta aftur svo þú sért ekki að keyra hann í sudo"
+        },
+        {
+            "user": "optimusprime",
+            "user_id": "360",
+            "date": "2010-12-25 14:22:56",
+            "id": "7292650",
+            "reply_to_id": "7292473",
+            "text": "Þá verður bara takkinn grár og fyrir ofan stendur ‘Chromium cannot determine or set the default browser’\nVirkilega skrítið."
+        },
+        {
+            "user": "optimusprime",
+            "user_id": "360",
+            "date": "2010-12-25 16:04:01",
+            "id": "7292683",
+            "reply_to_id": "7292650",
+            "text": "hmm, ég er í debian based system að nafni jolicloud og þar er eitthvað sem heitir preferred applications"
+        },
+        {
+            "user": "optimusprime",
+            "user_id": "360",
+            "date": "2010-12-25 19:48:38",
+            "id": "7292756",
+            "reply_to_id": "7292683",
+            "text": "Óguð, svo silly! Að sjálfsögðu virkaði þetta, takk æðislega!"
+        },
+        {
+            "user": "optimusprime",
+            "user_id": "360",
+            "date": "2010-12-25 19:51:51",
+            "id": "7292758",
+            "reply_to_id": "7292756",
+            "text": "haha stundum er betra að prufa aðrar leiði"
+        },
+        {
+            "user": "optimusprime",
+            "user_id": "360",
+            "date": "2010-12-25 23:31:54",
+            "id": "7292815",
+            "reply_to_id": "7292758",
+            "text": "Haha nákvæmlega, er búinn að vera að strögglast í þessu í marga klukkutíma, fiktandi í gegnum terminal og hvað eina.\nStundum er einfaldasta leiðin einfaldlega best!"
+        },
+        {
+            "user": "optimusprime",
+            "user_id": "360",
+            "date": "2010-12-26 04:10:50",
+            "id": "7292908",
+            "reply_to_id": "7292815",
+            "text": "af hverju ertu samt að nota ubuntu ?"
+        },
+        {
+            "user": "kristjanga",
+            "user_id": "67139",
+            "date": "2010-12-26 14:16:13",
+            "id": "7293009",
+            "reply_to_id": "7292908",
+            "text": "hmm..\nafhverju á maður ekki að nota ubuntu?\nég hélt að ubuntu væri málið"
+        },
+        {
+            "user": "smeppi",
+            "user_id": "717",
+            "date": "2010-12-26 17:11:43",
+            "id": "7293075",
+            "reply_to_id": "7293009",
+            "text": "Ubuntu er klárlega málið!\nVið optimus vorum að ræða þetta um daginn og komumst að þeirri niðurstöðu að það væri roosalega mikið af drasli í Ubuntu sem fæstir nota. Ég hugsa samt að það sé þannig með flestu stóru distróin, Fedora Core t.d. Þá í þeim tilgangi að geta höfðað flestum notendum.\nÆtli það séu síðan ekki til svona 17 þúsund minni distró, til dæmis þar sem búið er að taka Ubuntu, strippa það niður og gera það meira\ntöff\no.fl. Eins og crunchbang eða jolicloud. Þetta eru mjög sniðug og góð kerfi, en ég myndi ekki benda byrjendum á að fara beint í svona. Samt alls ekkert slæm hugmynd!"
+        },
+        {
+            "user": "optimusprime",
+            "user_id": "360",
+            "date": "2010-12-26 18:13:00",
+            "id": "7293094",
+            "reply_to_id": "7293075",
+            "text": "jú maður, lærir langmest af því"
+        },
+        {
+            "user": "optimusprime",
+            "user_id": "360",
+            "date": "2010-12-26 18:38:12",
+            "id": "7293109",
+            "reply_to_id": "7292908",
+            "text": "Tjah, þetta er víst fyrsta sinn sem ég set upp linux og ég ákvað að kýla bara á ubuntu, mér finnst það svona ágætlega notendavænt.\nEr það eitthvað annað sem þú hefur í huga ?"
+        },
+        {
+            "user": "optimusprime",
+            "user_id": "360",
+            "date": "2010-12-26 19:24:16",
+            "id": "7293120",
+            "reply_to_id": "7293109",
+            "text": "hmm, sko, ég mæli með að halda sig við debian pakkakerfið (sama og er notað í ubuntu) svo margir pakkar sem er hægt að ná í\nannars prufaði ég að setja upp jolicloud, það er þægilegt að því leitinu til að það er stílað inná cloud computing, þannig að það er ekkert svaka mikið í því, svo þú þarft að installera þeim forritum sem þú vilt hafa sjálf/ur\nég diseableaði gluggakerfið í því, setti upp gnome do og setti inn í það source á folderinn sem inniheldur forritin /usr/share minnir mig og nota það í staðin fyrir “venjulegt desktop”\nsvo náði ég mér í besta forrit sem ég hef fundið í mörg ár! það heitir guake, og er dropdown terminal, svipað og í quake, shortcut ctrl space (shortcuttið á do er ctrl alt space) og terminal er komið\nég mæli með því að þú setjir upp í gegnum terminal þau forrit sem þú vilt, lærir meira af því, terminal er besti vinur þinn"
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "forum_title": "Kvikmyndagerð",
+    "user": "Arkaik",
+    "user_id": "67986",
+    "date": "2009-12-22 22:53:57",
+    "title": "3d model í video, hvernig geri ég skugga?",
+    "text": "Ég er að fara að gera stuttmynd þar sem ég set 3d model sem ég gerði í blender 3d útá götu og svoleiðis og klippi með final cut, þar sem final cut er ekki svindl forrit eins og AE þá kemur auðvitað bara modelið en enginn skuggi eða neitt.\nÞannig spurningin er: Hvernig bý ég til skugga af hlutum?\ntakktakk :).",
+    "url": "https://www.hugi.is/kvikmyndagerd/korkar/684513/3d-model-i-video-hvernig-geri-eg-skugga/",
+    "url_id": "684513",
+    "id": "7007773",
+    "replies": [
+        {
+            "user": "Arkaik",
+            "user_id": "67986",
+            "date": "2009-12-22 23:17:41",
+            "id": "7007806",
+            "reply_to_id": "7007773",
+            "text": "Svari eytt"
+        },
+        {
+            "user": "Arkaik",
+            "user_id": "67986",
+            "date": "2009-12-22 23:37:54",
+            "id": "7007845",
+            "reply_to_id": "7007806",
+            "text": "Held ég viti hvernig ég get farið að þessu.. Það er drop shadow effet í fcp sem ég get kannski notað á modelin, þar að segja ef skugginn kemur ekki af heildarklippuni í staðin fyrir bara modelin =/..\nTakk samt :D"
+        },
+        {
+            "user": "Arkaik",
+            "user_id": "67986",
+            "date": "2009-12-22 23:45:58",
+            "id": "7007858",
+            "reply_to_id": "7007845",
+            "text": "Svari eytt"
+        },
+        {
+            "user": "Arkaik",
+            "user_id": "67986",
+            "date": "2009-12-23 00:25:13",
+            "id": "7007933",
+            "reply_to_id": "7007858",
+            "text": "já var einmitt að fatta langdregna en góða aðferð..\nEf ég tek snapshot af því sem skugginn á að vera og nota það sem texture og flöt fyrir neðan stafina í blender og læt ljósið á réttann stað og set þetta síðann á réttann stað í final cut þá gæti það virkað.. En það hlýtur að vera til einfaldari leið :P.\nÉg hlýt að finna þetta út einhvernvegin :P"
+        },
+        {
+            "user": "Arkaik",
+            "user_id": "67986",
+            "date": "2009-12-23 00:32:08",
+            "id": "7007939",
+            "reply_to_id": "7007933",
+            "text": "Svari eytt"
+        },
+        {
+            "user": "Arkaik",
+            "user_id": "67986",
+            "date": "2009-12-23 11:06:51",
+            "id": "7008479",
+            "reply_to_id": "7007939",
+            "text": "já ég hef lært það að maður lærir mikið á því að fikta :P.\nEn ég er ekki viss hvort þetta fari á youtube, ég er að gera þetta fyrir vinkonu mína og hún ræður alveg hversu margir mega sjá þetta, en ég fæ hana vonandi til að leyfa mér að setja þetta á youtube (:."
+        },
+        {
+            "user": "Skatman",
+            "user_id": "29466",
+            "date": "2009-12-23 21:07:38",
+            "id": "7009080",
+            "reply_to_id": "7007773",
+            "text": "Ég er ekki alveg klár á 3D verkefnum, en gætiru ekki tekið annan layer af 3D modelinu sem þú ætlar að nota, gera hann svartan og staðsetja hann eins og skugga? (ef þú skilur mig?)"
+        },
+        {
+            "user": "Arkaik",
+            "user_id": "67986",
+            "date": "2009-12-23 21:27:29",
+            "id": "7009109",
+            "reply_to_id": "7009080",
+            "text": "já ég var að reyna það um daginn en ég fann ekkert nógu gott til að spegla modelið :/"
+        },
+        {
+            "user": "Hadrianus",
+            "user_id": "3208",
+            "date": "2009-12-24 15:23:53",
+            "id": "7009991",
+            "reply_to_id": "7007773",
+            "text": "venjulega renderar maður skuggan út sérstaklega úr 3d forritinu og setur það svo inn í með.\ns.s setja upp rétt ljós í 3d forriti, rendera myndina, (oftast fyrir hvert ljós fyrir sig ef maður vil gera það eftir almennum aðferðum.) síðan rendera skuggan sérstaklega með alphalayerum og henda inn."
+        },
+        {
+            "user": "Galdrakall",
+            "user_id": "41959",
+            "date": "2009-12-27 20:22:52",
+            "id": "7013903",
+            "reply_to_id": "7007773",
+            "text": "af hverju segiru að After Effects sé svindl forrit? :S"
+        },
+        {
+            "user": "Arkaik",
+            "user_id": "67986",
+            "date": "2009-12-28 00:14:52",
+            "id": "7014194",
+            "reply_to_id": "7013903",
+            "text": "Allt svo einfalt þar, eins og motion track, velur nokkra punkta og textinn/formið/whatever fylgir fullkomnlega, svo ef maður hefur action essentials er ekkert mál að rústa reykjavík.."
+        },
+        {
+            "user": "Galdrakall",
+            "user_id": "41959",
+            "date": "2009-12-28 16:35:54",
+            "id": "7014830",
+            "reply_to_id": "7014194",
+            "text": "að hafa hlutina aðgengilega og fljótlega í vinnslu gerir það ekki að svindlforriti :S það er bara góður motion tracker + með 3rd party pakka (sem virkar btw fyrir öll klippiforrit, nema kannski mestu low-end) er hægt að gera raunverulegar rústir = svindl forrit. Haha don't think so :P og miðað við það að þú vitir um action essentials býst ég við því að þú hafir eitthvað skoðað videocopilot.net og það sem andrew kramer hefur verið að gera, hann fer nú bara í smá brot af því sem er hægt að gera með after effects."
+        },
+        {
+            "user": "Arkaik",
+            "user_id": "67986",
+            "date": "2009-12-28 17:40:22",
+            "id": "7014949",
+            "reply_to_id": "7014830",
+            "text": "Bara miðað við að ég hef eytt mörgum klukkutímum í að keyfreima allt ramma fyrir ramma eða reynt að nota 8-point garbage matte til að kötta hluti, svo kem ég í after effects og motion tracker gerir allt fyrir mann, penni til að klippa endalausa punkta og skrilljónir af aukapökkum og plugins sem gerir þetta ópersónulegt og auðvelt. Og já ég skoðaði videocopilot.net.\nAnnars hef ég ekkert á móti Ae bara fer í taugarnar á mér hvað allt er létt þar. enda er fáránlegur verðmunur á fcp og ae, og ef maður tekur sér tíma er hægt að gera allt það sama."
+        },
+        {
+            "user": "Galdrakall",
+            "user_id": "41959",
+            "date": "2009-12-28 18:41:05",
+            "id": "7015067",
+            "reply_to_id": "7014949",
+            "text": "það er nú markmiðið hjá flestum hugbúnaðarframleiðendum í dag að gera hlutina sem mest aðgengilega og fljótlega (time is money). Annars eru þessir pluginar sem fylgja með AE ekkert allir svo góðir, betra að fá sér 3rd party plugins (sem eitthver annar en adobe framleiðir) sem oftar en ekki er til líka fyrir final cut (og flest stærstu forritin)."
+        },
+        {
+            "user": "Hadrianus",
+            "user_id": "3208",
+            "date": "2010-01-01 04:33:01",
+            "id": "7019983",
+            "reply_to_id": "7014949",
+            "text": "Svo er náttúrulega Final Cut klippiforrit, ég nota það ekki fyrir neitt annað en klippi vinnuna og stundum lita leiðréttingu. Allt annað fara í gegnum forrit sem eru gerð fyrir það sem ég þarf að gera. Eftirvinnsla er AE, Color fyrir litaleiðréttingu."
+        },
+        {
+            "user": "Arkaik",
+            "user_id": "67986",
+            "date": "2010-01-01 12:59:14",
+            "id": "7020128",
+            "reply_to_id": "7019983",
+            "text": "Það er samt hægt að finna nokkur frí plugins og ef maður lærir rétt á final cut þá er alveg hægt að vinna eftirvinnslu eins og í ae, bara kannski ekki eins vel :P"
+        }
+    ]
+}

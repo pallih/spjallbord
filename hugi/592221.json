@@ -1,0 +1,93 @@
+{
+    "forum_title": "Vefsíðugerð",
+    "user": "1Xtra",
+    "user_id": "25810",
+    "date": "2008-05-18 20:42:37",
+    "title": "Útlitshönnun",
+    "text": "Sælir\nGetur einhver bent manni á góðar síður sem innihalda góða tutorials í útlitshönnun?\nÉg tel mig nú þónokkuð færan í forrituninni sjálfri en er alveg GLATAÐUR í útlitshönnun. DIV tags floata yfir hvert annað og maður breytir smáatriði og textinn er kominn einhvert út í rassgat og svo framvegis. :)",
+    "url": "https://www.hugi.is/vefsidugerd/korkar/592221/utlitshonnun/",
+    "url_id": "592221",
+    "id": "5863563",
+    "replies": [
+        {
+            "user": "m4mbz",
+            "user_id": "66266",
+            "date": "2008-05-19 09:31:40",
+            "id": "5864475",
+            "reply_to_id": "5863563",
+            "text": "Það er mjög auðvelt að gera Template-ið ef þú kannt eitthvað á CSS. Það að textinn fari útum allt og öll layers séu eins og í sundlaug gæti þýtt að þú þarft að læra smá á að nota CSS fyrir Template stillingarnar.\nEn, eins og hann þá er ég líka glataður í að búa til Layout fyrir síður en góður í kóðanum. Getur einhver hjálpað okkur að finna flott Layout, sérstaklega bloggsíðu layout for me???"
+        },
+        {
+            "user": "m4mbz",
+            "user_id": "66266",
+            "date": "2008-05-19 12:12:05",
+            "id": "5864613",
+            "reply_to_id": "5864475",
+            "text": "Google þarf ekki að segja meira…"
+        },
+        {
+            "user": "m4mbz",
+            "user_id": "66266",
+            "date": "2008-05-19 12:33:24",
+            "id": "5864663",
+            "reply_to_id": "5864613",
+            "text": "Veistu, ég hef googlað þúsundir sinnum af allavega sniðum fyrir vefsíður og allt sem ég hef fundið er bara því miður ekki easy access. Ég hef bara fundið eitt layout sem er mjög auðvelt fyrir alla og er það hans\nChris Pirillo\nnema ég hef ekki enn fengið svar hjá honum hvort ég megi nota það Layout á wordpress-lausri síðu :) Þú skilur það er ekki alltaf eins auðvelt og þú heldur að finna eitthvað sér við hæfi.\nBætt við 19. maí 2008 -  12:38\nbtw Ég googla alltaf áður en ég leita hjálpar og google er mjög góður vinur og hefur hjálpað mér með margt"
+        },
+        {
+            "user": "m4mbz",
+            "user_id": "66266",
+            "date": "2008-05-19 14:07:50",
+            "id": "5864851",
+            "reply_to_id": "5864663",
+            "text": "Notaði google og skrifaði free css templates:\n1.\nhttp://www.freecsstemplates.org/\n2.\nhttp://www.free-css-templates.com/\nsvo var slatti að fleira dóti."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2008-05-19 18:13:08",
+            "id": "5865446",
+            "reply_to_id": "5864851",
+            "text": "Ég hef skoðað þessar síður og ég get sagt þér að þetta eru ekki mjög einföld útlit. Þau eru flest öll Fixed Width og fleira. Þú bara leitar ekki svona af útlitum fyrir blogg síður. Ég vill professional útlit sem er þegar mjög einfalt og að auðvelt sé að skoða síðuna án þess að lenda í einhverju basli á einhvern máta.\nÞað eru einfaldlega bara WordPress útlitin sem hafa gert mér til geðs þessa dagana og hef ég milli marga útlita að velja á því sviði en eins og ég sagði þá líkar mér útlitið hans\nChris Pirillo\nbest af öllum WordPress útlitum sem ég hef séð :)\nEn eins og alltaf, þá hafa engir tveir sama smekk :)"
+        },
+        {
+            "user": "1Xtra",
+            "user_id": "25810",
+            "date": "2008-05-19 17:59:24",
+            "id": "5865391",
+            "reply_to_id": "5864475",
+            "text": "Sæll og takk fyrir svarið.\nÉg ýkti nú kannski aðeins, þ.e.a.s. að DIV tögginn floati yfir hvort annað og svona, maður er nú búinn að ráða fram úr því. :)\nÞað sem maður vildi læra væri kannski hvernig er best að t.d. hanna útlit í PS og henda því svo yfir á vef.\nEn, eins og hann þá er ég líka glataður í að búa til Layout fyrir síður en góður í kóðanum. Getur einhver hjálpað okkur að finna flott Layout, sérstaklega bloggsíðu layout for me???\nVið erum þá bara n00bs saman. :D"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2008-05-19 18:02:27",
+            "id": "5865406",
+            "reply_to_id": "5865391",
+            "text": "Nei newbies. Ég vill ekki láta kalla mig noob ég á það ekki skilið. Ég er newbie í útlitshönnun og ég hef áhuga á að læra á útlitshönnun en ekki öfugt."
+        },
+        {
+            "user": "Rusty",
+            "user_id": "39411",
+            "date": "2008-05-22 00:14:06",
+            "id": "5871270",
+            "reply_to_id": "5863563",
+            "text": "CSS er svo meingallað að þetta er spurning um að fikta og komast að því hvað virkar. Mæli með www.w3schools.com/css/ sem reference lista.\nVertu þó bara viss um að prófa allt í bæði Firefox og Internet Explorer jafn óðum. Ef þú vinnur allt fyrir Explorer finnst þér Firefox gallaður og öfugt, en ef þú prófar báða vafrana jafn óðum þá finnurðu gullnu línuna sem virkar á báðum."
+        },
+        {
+            "user": "Brainiac",
+            "user_id": "28711",
+            "date": "2008-05-24 03:48:59",
+            "id": "5876522",
+            "reply_to_id": "5871270",
+            "text": "CSS er ekki meingallað heldur IE.. En það er rétta að það er oft mikill mismunur á IE og Firefox þannig að það er best að skoða síðuna í sem flestum browserum :)"
+        },
+        {
+            "user": "Rusty",
+            "user_id": "39411",
+            "date": "2008-05-30 20:26:18",
+            "id": "5891169",
+            "reply_to_id": "5876522",
+            "text": "IE er alveg jafn meingallað og Firefox. Þetta er bara spurning um hvaða vafra þú skoðar síðuna í. Þegar ég hanna útlit á síðu athuga ég síðuna samstundis í bæði IE og Firefox. Ég prófa eina breytu og hluturinn er réttur í IE en ekki Firefox. Ég prófa aðra breytu og ég fæ öfuga niðurstöðu. Svo prófa ég þriðju breytuna eða blanda öðrum tvem breytum saman og báðir vafrar virka. Þetta er bara spurning um að prófa sig áfram í öllum vöfrum og sjá hvað þeir styðja eins. Þá ertu óstöðvandi CSS hönnuður.\nBætt við 30. maí 2008 -  20:30\nÚff ég er svo þreyttur að ég nennti ekki að lesa allt svarið þitt. Las bara fyrstu orðin og smellti á Svara. Afsakaðu að ég skuli vera að tvítaka þig að einhverju leiti."
+        }
+    ]
+}

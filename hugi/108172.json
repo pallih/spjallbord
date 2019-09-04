@@ -1,0 +1,12 @@
+{
+    "forum_title": "Battlefield",
+    "user": "Smegma",
+    "user_id": "33",
+    "date": "2002-12-05 18:12:18",
+    "title": "Simnet 1.2 þjónn og All-Seeing Eye",
+    "text": "Nokkuð hefur borið á því að Simnet BF1942 1.2 þjónninn sjáist ekki í All-Seeing Eye. Þessu veldur server-böggur sem tengist sjálfvirkum endurræsingum og tilraunum með admin passwords. Athugið að þjónninn er þó svo til _alltaf_ uppi, og áfram unnt að tengjast honum gengum leikinn sjálfan.\nÞeir sem vilja, geta sett eftirfarandi í tools - aliases í mIRC, og tengst svo beint gengum IRC:\n/bf1942 run -p c:\\fullt\\path\\á\\bf1942.exe +restart 1 +joinServer $1\nBreytið c:\\fullt\\path dótinu í rétta slóð á bf1942.exe, og tengist svo með /bf1942 skjalfti7.simnet.is:14567\nKveðja,\nSmegma",
+    "url": "https://www.hugi.is/bf/tilkynningar/108172/simnet-12-thjonn-og-all-seeing-eye/",
+    "url_id": "108172",
+    "id": "793216",
+    "replies": []
+}

@@ -1,0 +1,101 @@
+{
+    "forum_title": "Vefsíðugerð",
+    "user": "EndlessRecords",
+    "user_id": "48177",
+    "date": "2008-01-15 16:55:37",
+    "title": "Að Uploada Skrám",
+    "text": "Ég er hérna með skemmtilegan kóða til þess að uploada skrám á vefsíðuna td. ef þér vantar að geta uploadað skrám í eitthverja möppu þá er það hægt með þessari lausn en hér er hún:\nFyrst þarftu að setja þennan kóða i bodyið í þeirri skrá sem þú ætlar að hafa formið til að uploada\n<form enctype=\"multipart/form-data\" action=\"innsending.php\" method=\"POST\">\n                      <span class=\"style2\">Veldu Skr&aacute;:</span> \n  <input name=\"uploaded\" type=\"file\" /><br />\n<input type=\"submit\" value=\"Senda Inn\" />\n</form>\nSvo býrðu til skrá sem heitir innsending.php og þetta er kóðin fyrir hana:\n<?php\n$target = \"skrar/\";\n$target = $target . basename( $_FILES['uploaded']['name']) ;\n$ok=1;\n//Hérna er Hvað hámarks stærð af skrá má senda inn\nif ($uploaded_size > 350000)\n{\necho \"Skráin þín er of stór.<br>\";\n$ok=0;\n}\n//Hérna leitar að hann villum\nif ($ok==0)\n{\nEcho \"Skráin hefur ekki verið send inn\";\n}\n//Allt ætti að vera í lagi her\nelse\n{\nif(move_uploaded_file($_FILES['uploaded']['tmp_name'], $target))\n{\necho \"Skráin \".\nbasename( $_FILES['uploadedfile']['name']). \" Hefur verið sent inn\";\n}\nelse\n{\necho \"Villa.Það er vandarmál með skránna þína.\";\n}\n}\n?>\n$target = “skrar/”; táknar hvað mappan heitir sem þú ætlar að uploada skránum þinum þú getur alveg breytt þessu en þú þarft þá að breyta þessu i sirka svona $target = “þittnafn/”; og þá þarftu líka að búa til möppu sem heitir þittnafn.\nKv.\nÁrni “MatroX” Andrésson",
+    "url": "https://www.hugi.is/vefsidugerd/greinar/568093/ad-uploada-skram/",
+    "url_id": "568093",
+    "id": "5564315",
+    "replies": [
+        {
+            "user": "rannU",
+            "user_id": "17629",
+            "date": "2008-01-15 17:06:56",
+            "id": "5565274",
+            "reply_to_id": "5564315",
+            "text": "takk fyri"
+        },
+        {
+            "user": "intenz",
+            "user_id": "127",
+            "date": "2008-01-15 20:48:43",
+            "id": "5566037",
+            "reply_to_id": "5564315",
+            "text": "$uploaded_size er ekki skilgreind. Mæli með $_FILES['uploaded']['size']"
+        },
+        {
+            "user": "EndlessRecords",
+            "user_id": "48177",
+            "date": "2008-01-16 14:15:37",
+            "id": "5567439",
+            "reply_to_id": "5566037",
+            "text": "Þú gætir það náttúrulega líka."
+        },
+        {
+            "user": "frantic89",
+            "user_id": "6497",
+            "date": "2008-01-28 18:38:34",
+            "id": "5597927",
+            "reply_to_id": "5564315",
+            "text": "Mér finnst soldið áhugavert að þetta er bara þýðing á öðrum kóða…\nhttp://www.experts-exchange.com/Web_Development/Web_Languages-Standards/PHP/PHP_Databases/Q_22495718.html\nTakk fyrir…"
+        },
+        {
+            "user": "EndlessRecords",
+            "user_id": "48177",
+            "date": "2008-01-28 22:44:59",
+            "id": "5598597",
+            "reply_to_id": "5597927",
+            "text": "hahaha nei alls ekki ég vissi ekkert af þessum link þarna mér var bara kennt þetta svona."
+        },
+        {
+            "user": "frantic89",
+            "user_id": "6497",
+            "date": "2008-01-29 01:26:08",
+            "id": "5598958",
+            "reply_to_id": "5598597",
+            "text": "Þannig þessi kóði kemur frá öðrum en þér.\nKannski fínt að taka það fram…"
+        },
+        {
+            "user": "EndlessRecords",
+            "user_id": "48177",
+            "date": "2008-01-29 17:36:52",
+            "id": "5599965",
+            "reply_to_id": "5598958",
+            "text": "nei hann kemur ekki frá öðrum en mér\ner erfitt að skilja mer var kennt þetta svona."
+        },
+        {
+            "user": "EndlessRecords",
+            "user_id": "48177",
+            "date": "2008-01-29 17:38:10",
+            "id": "5599969",
+            "reply_to_id": "5599965",
+            "text": "svo var þetta allt öðrvísi kóði sem er í linknum frá þér."
+        },
+        {
+            "user": "frantic89",
+            "user_id": "6497",
+            "date": "2008-01-30 01:24:52",
+            "id": "5601319",
+            "reply_to_id": "5599969",
+            "text": "Niii það var bara aðeins kuttað til og íslenskað.\nSést alveg langar leiðir að þetta er næstum sami kóðinn.\nEn fuck it, I dont give a crap :)"
+        },
+        {
+            "user": "halldor89",
+            "user_id": "28057",
+            "date": "2008-02-03 02:12:21",
+            "id": "5610078",
+            "reply_to_id": "5599969",
+            "text": "Æi, vá… Þetta lúkkar svolítið mikið þannig. Ég myndi reyndar frekar vilja að þetta væri tekið nánast beint þar sem þetta er ekki rosalega fallegur kóði (ekki taka þessu illa)."
+        },
+        {
+            "user": "python",
+            "user_id": "77645",
+            "date": "2010-02-01 15:02:51",
+            "id": "7058241",
+            "reply_to_id": "5564315",
+            "text": "Ætti þetta ekki að vera PUT, en ekki POST?\nÞið unga fólkið ofnotið POST alveg hrikalega…\n(gömul grein, ég veit)"
+        }
+    ]
+}

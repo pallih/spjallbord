@@ -1,0 +1,29 @@
+{
+    "forum_title": "Windows",
+    "user": "Johann88",
+    "user_id": "30390",
+    "date": "2010-12-20 21:55:45",
+    "title": "Tölvan mín er í ruglinu.",
+    "text": "Góða kvöldið, jæja þá vantar mig hjálp.\nMálið er að ég er með Windows XP og tölvan mín finnur ekki geisladrifin í tölvunni og svo er ég með Daemon Tools líka og hún finnur það ekki heldur, þannig ég get ekki spilað leiki í gegnum Daemon Tools, ég er búinn að prófa að fara í Device Manager og gera updates á driverana en það er svona gult upphrópunarmerki á ÖLLUM drifunum, meira að segja líka ISO “drifinu” mínu. Hefur einhver lent í þessu og veit hvað er að? Ég er búinn að opna tölvuna og tjekka á drifinu og það er fullkomlega rétt tengt og allt.\nKær kveðja, Jóhann Ingi.",
+    "url": "https://www.hugi.is/windows/korkar/717458/tolvan-min-er-i-ruglinu/",
+    "url_id": "717458",
+    "id": "7290405",
+    "replies": [
+        {
+            "user": "Copperfield",
+            "user_id": "58490",
+            "date": "2010-12-20 23:45:33",
+            "id": "7290482",
+            "reply_to_id": "7290405",
+            "text": "prufaðu að gera system restore, það er besta leiðin til að finna út hvort þetta sé í hugbúnaðinum, þ.e.a.s. ef System Restore virkar ekki eru sterkar líkur á því að þetta sé eitthvað inní tölvunni sjálfri."
+        },
+        {
+            "user": "Johann88",
+            "user_id": "30390",
+            "date": "2010-12-21 14:11:28",
+            "id": "7290668",
+            "reply_to_id": "7290482",
+            "text": "Búinn að redda þessu :) Var svolítið flókið en þetta reddaðist."
+        }
+    ]
+}

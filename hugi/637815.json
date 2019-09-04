@@ -1,0 +1,37 @@
+{
+    "forum_title": "Vélbúnaður",
+    "user": "Paze",
+    "user_id": "43258",
+    "date": "2009-01-16 06:02:02",
+    "title": "Get ekki bootað, ekkert post beep.",
+    "text": "Ég skrifaði þetta á ensku fyrir aðrar síður og copy peista bara :)\nHi, this is my first and hopefully not last thread.\nI have come across a problem that I can't seem to fix and I need help with it.\nI was cleaning my computer yesterday for dust since it was getting very dusty and what I did was:\nRemoved the CPU fan (Putting it back together is HELL, takes about 1.5 hours), blew in the cooler-thingy, don't know the English word and removed all additional dust with a small screwdriver.\nI then picked out dust from the fan that run in the back of my PC with the same screwdriver.\nI then removed the cover on my Radeon 19500XT and sorted the dust and put it back on.\nI then tried booting my computer, but the fans just run at high speed like always right before the post beep, except now I get no post beep and it just keeps running at high speed for eternity.\nI figured I'd open the box again and check what was wrong, and found out I had forgot to plug power to my video card.\nI did that, but still, I have the same problem.\nWhat I've tried is:\nUnplugging and plugging RAM back, also tried booting with NO ram but I get beeps telling me that it's WRONG.. Or something.\nChecked all power cables and reinserted them.\nI'm really out of ideas now..",
+    "url": "https://www.hugi.is/velbunadur/korkar/637815/get-ekki-bootad-ekkert-post-beep/",
+    "url_id": "637815",
+    "id": "6453107",
+    "replies": [
+        {
+            "user": "egth",
+            "user_id": "31699",
+            "date": "2009-01-16 06:14:18",
+            "id": "6453110",
+            "reply_to_id": "6453107",
+            "text": "Ehm, ég átta mig á því að eitthvað virkar ekki hjá þér en hvað það er nákvæmlega að hjá þér gat ég ekki séð eftir að hafa lesið þennan þráð.\nHvaða villumeldingu færðu? Færðu yfir höfuð mynd á skjáinn?"
+        },
+        {
+            "user": "Paze",
+            "user_id": "43258",
+            "date": "2009-01-16 06:55:08",
+            "id": "6453130",
+            "reply_to_id": "6453110",
+            "text": "Neibb.\nFiggeraði þetta sjálfur.\nTók allt út og setti aftur inn, það hefur verið eitthvað sem hefur verið laust eða eitthvað.\nHinsvegar fékk ég ‘'No boot device detected’' villuna eftir að ég fékk tölvuna í gang, og þá prófaði ég að setja 3 aðra diska í og setti svo loksins bara sama diskinn aftur og þá virkaði það.\nSkrítin tölva."
+        },
+        {
+            "user": "optimusprime",
+            "user_id": "360",
+            "date": "2009-01-16 08:09:17",
+            "id": "6453176",
+            "reply_to_id": "6453130",
+            "text": "They have a mind of its own"
+        }
+    ]
+}

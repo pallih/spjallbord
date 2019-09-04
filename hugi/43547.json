@@ -1,0 +1,53 @@
+{
+    "forum_title": "Linux",
+    "user": "JReykdal",
+    "user_id": "77",
+    "date": "2001-09-23 10:22:20",
+    "title": "Return to castle Wolfenstein fyrir linux",
+    "text": "Það eru nú ekki það margir leikir sem koma út fyrir Linux á ári að það telst enn til stórviðburða þegar það gerist.\n<a href=\"\nhttp://www.activision.com/games/wolfenstein/\n“>Return To Castle Wolfenstein</a> er framhald af hinum fornfræga leik Wolfenstein 3D sem margir kannast við frá því fyrir áratug eða svo.\nÞar sem að leikurinn er byggður á Quake 3 grafíkvélinni er auðvelt að koma honum yfir á Linux og hefur nú komið út tilraunaútgáfa af leiknum fyrir linux.\n<a href=”\nhttp://static.hugi.is/games/wolfenstein/wolfmptest-0.7.16-1.x86.run\n\">Hérna</a> má nálgast hina 65MB stóru útgáfu af tilrauninni, sem þarf OpengGL/Mesa þrívíddarhröðun.",
+    "url": "https://www.hugi.is/linux/greinar/43547/return-to-castle-wolfenstein-fyrir-linux/",
+    "url_id": "43547",
+    "id": "286053",
+    "replies": [
+        {
+            "user": "arnihr",
+            "user_id": "61",
+            "date": "2001-09-23 19:27:55",
+            "id": "286054",
+            "reply_to_id": "286053",
+            "text": "Ég veit ekki með aðra lesendur huga en ég væri til í að fá smá leiðbeiningar um hvernig eigi að setja þetta upp."
+        },
+        {
+            "user": "nifgraup",
+            "user_id": "9298",
+            "date": "2001-09-23 23:30:36",
+            "id": "286055",
+            "reply_to_id": "286054",
+            "text": "sh wolfmptest-0.7.16-1.x86.run"
+        },
+        {
+            "user": "Kwai",
+            "user_id": "31",
+            "date": "2001-10-07 13:42:22",
+            "id": "286056",
+            "reply_to_id": "286055",
+            "text": "þarf ekki einhverja drivera eða OpenGL ?"
+        },
+        {
+            "user": "JReykdal",
+            "user_id": "77",
+            "date": "2001-10-09 03:27:22",
+            "id": "286057",
+            "reply_to_id": "286056",
+            "text": "Mesa eða OpenGL jú."
+        },
+        {
+            "user": "source",
+            "user_id": "950",
+            "date": "2001-10-17 21:57:28",
+            "id": "286058",
+            "reply_to_id": "286057",
+            "text": "http://www.nvidia.com/view.asp?PAGE=linux\nnvidia drivers for da linux"
+        }
+    ]
+}

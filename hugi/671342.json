@@ -1,0 +1,93 @@
+{
+    "forum_title": "Windows",
+    "user": "mygltomatur",
+    "user_id": "63247",
+    "date": "2009-09-06 13:11:36",
+    "title": "veeeeseen!",
+    "text": "Í glr þá var ég í tölvunni og allt í einu slekkur hún bara a sér og byrjar að gefa frá sér eitthvað píp. Ég gat þó kveikt alveg á henni aftur en daginn eftir þá var slökknað á henni og ef ég reyndi að kveikja þá rétt svo heyrði maður hana fara í gang í svona 2 sek og slökkna svo og gefa frá sér píp.\nGetur einhver sagt mér hvað í aandskotanum er í gangi?\nTakk fyri",
+    "url": "https://www.hugi.is/windows/korkar/671342/veeeeseen/",
+    "url_id": "671342",
+    "id": "6858841",
+    "replies": [
+        {
+            "user": "Sapien",
+            "user_id": "76852",
+            "date": "2009-09-06 13:16:26",
+            "id": "6858848",
+            "reply_to_id": "6858841",
+            "text": "Svari eytt af stjórnanda"
+        },
+        {
+            "user": "mygltomatur",
+            "user_id": "63247",
+            "date": "2009-09-06 13:21:32",
+            "id": "6858856",
+            "reply_to_id": "6858848",
+            "text": "Svari eytt af stjórnanda"
+        },
+        {
+            "user": "karason",
+            "user_id": "23642",
+            "date": "2009-09-06 14:22:07",
+            "id": "6858929",
+            "reply_to_id": "6858841",
+            "text": "Sennilega bilaður vélbúnaður ?\nÍ biosinum er stilling sem skynjar bilaðan vélbúnað.\nÍ sumum útgáfum heitir þetta “Hlt On (all errors)” og til að virkja þetta þá er það gert með því að hafa “NO ERRORS”.\nEn ef þú hefur verið að fikta í öðrum stillingum og manst ekki hverju þú breyttir , þá er default stilling sem framleiðandi móðurborðsins hefur ákveðið “ LOAD BIOS DEFAULTS ” .\nKveðja."
+        },
+        {
+            "user": "mygltomatur",
+            "user_id": "63247",
+            "date": "2009-09-06 15:31:49",
+            "id": "6859036",
+            "reply_to_id": "6858929",
+            "text": "ok, ég hef svosem ekki verið að breyta neinu svo að ég muni..veistu eitthvað hvað ég gæti gert í þessu?"
+        },
+        {
+            "user": "karason",
+            "user_id": "23642",
+            "date": "2009-09-06 15:51:54",
+            "id": "6859064",
+            "reply_to_id": "6859036",
+            "text": "1. Þú getur farið í biosinn tékkað hvort þetta sem ég var búinn að skrifa sé til staðar.\nSkoðað hvort biosinn gefi upp hitastig. ( nú veit ég ekkert hvaða móðurborð þú ert með ? )\n2. þú getur opnað tölvikassann og tékkað hvort viftan á örgjörfanum sé með skýt ( ló ) á kælielimentinu. Ekki snerta neitt nema þú vitir hvað stöðurafmagn er !\n3. farið bara með tölvuna á verkstæði !"
+        },
+        {
+            "user": "mygltomatur",
+            "user_id": "63247",
+            "date": "2009-09-06 15:59:09",
+            "id": "6859079",
+            "reply_to_id": "6859064",
+            "text": "okok snilld, en þar sem ég er frekar grænn í svona málum, geturðu sagt mér hvar biosinn er?"
+        },
+        {
+            "user": "karason",
+            "user_id": "23642",
+            "date": "2009-09-06 16:05:59",
+            "id": "6859087",
+            "reply_to_id": "6859079",
+            "text": "Þú ýtir á DEL takkann þegar þú kveikir á tölvunni.Þú getur hamast á takkanum þar til hún pípar þegur þú ýtir á del takkann. Þá er hún búinn að taka við þeirri skipun sem þú baðst um.\nÞegar þú kveikir á tölvunni byrjar tölvan á að lesa biosinn og tékka hvað sé tengt við móðurborðið t.d. harði diskurinn , mús og fleira. Ef músin bilar getur biosinn sagt þér að músina vanti og þá stoppar ræsingin á tölvunni nema þú viljir halda áfram án músarinnar."
+        },
+        {
+            "user": "mygltomatur",
+            "user_id": "63247",
+            "date": "2009-09-06 16:23:14",
+            "id": "6859125",
+            "reply_to_id": "6859087",
+            "text": "aaa ok þakka þé"
+        },
+        {
+            "user": "karason",
+            "user_id": "23642",
+            "date": "2009-09-06 16:28:58",
+            "id": "6859133",
+            "reply_to_id": "6859125",
+            "text": "Svo geturu náð þér í þetta litla forrit (CPU-Z 1.52.2) , en það getur sagt þér hvað móðurborðið þitt heitir.\nhttp://www.filehippo.com/download_cpuz/"
+        },
+        {
+            "user": "mygltomatur",
+            "user_id": "63247",
+            "date": "2009-09-06 16:31:47",
+            "id": "6859140",
+            "reply_to_id": "6859133",
+            "text": "málið er bara að ég næ ekki að kveikja á tölvunni nema ísvona tvær sek svo failar hún, fer að pípa og sýnir blikkandi rautt ljós þar sem ljósið er vanarlega grænt. það kemur ekki einusinni neitt á skjáinn áður en hún slekkur á sér:S"
+        }
+    ]
+}

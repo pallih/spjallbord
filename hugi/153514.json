@@ -1,0 +1,293 @@
+{
+    "forum_title": "Manager leikir",
+    "user": "doddi",
+    "user_id": "1219",
+    "date": "2003-07-04 20:49:35",
+    "title": "Íslenska deildin í CM4 (óopinber)",
+    "text": "Þetta er reyndar alls ekki sú sem vænta átti sem mun verða gefin út með patchi(eða í næstu útgáfu af CM) heldur er þetta bara eitt sem ég gerði eftir nýjum fídusum sem EP4 hefur boðið upp á. Ég hef áður vitað af SWAP_TEAMS fyrir .edt skrár sem gat skipt lið út fyrir önnur en svo eru þeir komnir með nýtt skráarheiti sem hægt er að nota sem er .ddt og er sú skipun sem ég segi frá nú RETAIN_PLAYERS sem gerir kleipt að leikmenn í ákveðnu liði sem þetta er notað á munu alltaf hlaðast með inn í leik þegar maður byrjar á nýjum leik, þ.e.a.s. nýju save-i.\nÉg ákvað að nota þessa tvo fídusa til að koma saman íslenskri deild, setti íslensk lið inn í stað þeirra norður-írsku en þar sem það eru 12 lið í efstu deild þar og 8 í þeirri fyrstu hafði ég þetta þannig að tvö efstu liðin úr fyrstu deildinni á íslandi sem eru nú Keflavík og Víkingur þá eru þau í efstu deild þarna.\nÞað sem þarf til að gera þetta er EP4, ef þú ert ekki með hann skaltu downloada honum hér á þessu áhugamáli. Til að gera þetta skaltu opna notepad, kópera inn það sem stendur fyrir neðan sér fyrir sem dæmi iceland.edt og iceland.ddt - skiptir í raun og veru engu máli hvað skráin heitir, bara að það endi sem .edt og .ddt. Skránnar skulu vera í CM4 möppunni ykkar og þar svo í möppu sem heitir ‘data’. Dæmi: C:\\Program Files\\Eidos Interactive\\CM4\\data\n—– ÞETTA Á AÐ FARA Í iceland.edt —–\n// Efsta deild + tvö efstu liðin í fyrstu deild\n“SWAP_TEAMS” “Ards” “Fimleikafélag Hafnarfjarðar”\n“SWAP_TEAMS” “Cliftonville” “Fram”\n“SWAP_TEAMS” “Coleraine” “Fylkir”\n“SWAP_TEAMS” “Crusaders” “Grindavík”\n“SWAP_TEAMS” “Glenavon” “Íþróttabandalag Vestmannaeyja”\n“SWAP_TEAMS” “Glentoran” “Íþróttafélag Akraness”\n“SWAP_TEAMS” “Institute” “Knattspyrnufélag Akureyrar”\n“SWAP_TEAMS” “Linfield” “Knattspyrnufélag Reykjavíkur”\n“SWAP_TEAMS” “Lisburn Distillery” “Valur”\n“SWAP_TEAMS” “Newry Town” “Þróttur Reykjavík”\n“SWAP_TEAMS” “Omagh Town” “Keflavík”\n“SWAP_TEAMS” “Portadown” “Víkingur”\n// Restin af fyrstu deild\n“SWAP_TEAMS” “Armagh City” “Afturelding”\n“SWAP_TEAMS” “Ballyclare Comrades” “Breiðablik”\n“SWAP_TEAMS” “Ballymena United” “Haukar”\n“SWAP_TEAMS” “Bangor” “HK”\n“SWAP_TEAMS” “Carrick Rangers” “Leiftur/Dalvík”\n“SWAP_TEAMS” “Dungannon Swifts” “Njarðvík”\n“SWAP_TEAMS” “Larne” “Stjarnan”\n“SWAP_TEAMS” “Limavady United” “Þór Akureyri”\n// Neðrideildarliðin\n“SWAP_TEAMS” “Abbey Villa” “Fjölnir”\n“SWAP_TEAMS” “Benmore” “Íþróttafélag Reykjavíkur”\n“SWAP_TEAMS” “Brantwood” “Knattspyrnudeild Vals og Austra”\n“SWAP_TEAMS” “Crewe United” “Knattspyrnufélag Siglufjarðar”\n“SWAP_TEAMS” “Donegal Celtic” “Leiknir Reykjavík”\n“SWAP_TEAMS” “Downshire” “Léttir”\n“SWAP_TEAMS” “Grove United” “Reynir Sandgerði”\n“SWAP_TEAMS” “Hanover” “Selfoss”\n“SWAP_TEAMS” “Holywood” “Sindri”\n“SWAP_TEAMS” “Kilmore Rec” “Skallagrímur”\n“SWAP_TEAMS” “Lisburn Rangers” “Smástund”\n“SWAP_TEAMS” “PSNI” “Tindastóll”\n“SWAP_TEAMS” “Rosario YC” “Víðir Garði”\n“SWAP_TEAMS” “Warren YM” “Völsungur”\n—– ÞETTA Á AÐ FARA Í iceland.ddt —–\n// Hlaðið inn leikmenn fyrir íslensku liðin\n“RETAIN_PLAYERS” “Fimleikafélag Hafnarfjarðar”\n“RETAIN_PLAYERS” “Fram”\n“RETAIN_PLAYERS” “Fylkir”\n“RETAIN_PLAYERS” “Grindavík”\n“RETAIN_PLAYERS” “Íþróttabandalag Vestmannaeyja”\n“RETAIN_PLAYERS” “Íþróttafélag Akraness”\n“RETAIN_PLAYERS” “Knattspyrnufélag Akureyrar”\n“RETAIN_PLAYERS” “Knattspyrnufélag Reykjavíkur”\n“RETAIN_PLAYERS” “Valur”\n“RETAIN_PLAYERS” “Þróttur Reykjavík”\n“RETAIN_PLAYERS” “Keflavík”\n“RETAIN_PLAYERS” “Víkingur”\n“RETAIN_PLAYERS” “Afturelding”\n“RETAIN_PLAYERS” “Breiðablik”\n“RETAIN_PLAYERS” “Haukar”\n“RETAIN_PLAYERS” “HK”\n“RETAIN_PLAYERS” “Leiftur/Dalvík”\n“RETAIN_PLAYERS” “Njarðvík”\n“RETAIN_PLAYERS” “Stjarnan”\n“RETAIN_PLAYERS” “Þór Akureyri”\n“RETAIN_PLAYERS” “Fjölnir”\n“RETAIN_PLAYERS” “Íþróttafélag Reykjavíkur”\n“RETAIN_PLAYERS” “Knattspyrnudeild Vals og Austra”\n“RETAIN_PLAYERS” “Knattspyrnufélag Siglufjarðar”\n“RETAIN_PLAYERS” “Leiknir Reykjavík”\n“RETAIN_PLAYERS” “Léttir”\n“RETAIN_PLAYERS” “Reynir Sandgerði”\n“RETAIN_PLAYERS” “Selfoss”\n“RETAIN_PLAYERS” “Sindri”\n“RETAIN_PLAYERS” “Skallagrímur”\n“RETAIN_PLAYERS” “Smástund”\n“RETAIN_PLAYERS” “Tindastóll”\n“RETAIN_PLAYERS” “Víðir Garði”\n“RETAIN_PLAYERS” “Völsungur”\nÞað er eins og er mjög greinilegt að um félagsskipti hafa verið um að ræða síðan leikurinn var gefinn út svo ég mæli með að menn fari sjálfir inn á <a href=\"\nhttp://www.nygreen.net\n\">www.nygreen.net</a> og downloadi CM4 pregame editornum þar og reyni að laga til þær leikmannafærslur sem þeir nenna að lagfæra og jafnvel bæta við mönnum í þau lið sem vantar.\nÞessi lausn sem ég er að koma með er til þess að geta byrjað að spila eitthvað með íslensku liðin áður en við fáum endanlega að spila íslensku deildina sjálfa í leiknum sem ekki er vitað hvenær verður.\nOg já, til að spila deildina á að byrja nýjum leik og velja Norður-Írsku deildina.",
+    "url": "https://www.hugi.is/manager/greinar/153514/islenska-deildin-i-cm4-oopinber/",
+    "url_id": "153514",
+    "id": "1164925",
+    "replies": [
+        {
+            "user": "BruskR",
+            "user_id": "9155",
+            "date": "2003-07-04 23:37:28",
+            "id": "1164926",
+            "reply_to_id": "1164925",
+            "text": "Góður !"
+        },
+        {
+            "user": "BruskR",
+            "user_id": "9155",
+            "date": "2003-07-04 23:38:14",
+            "id": "1164927",
+            "reply_to_id": "1164925",
+            "text": "Gleymdi að spurja að einu….er hægt að spila með 1. deild ?"
+        },
+        {
+            "user": "doddi",
+            "user_id": "1219",
+            "date": "2003-07-05 01:18:20",
+            "id": "1164928",
+            "reply_to_id": "1164927",
+            "text": "Já það er hægt, tvær efstu deildirnar eru spilanlegar fyrir Norður-Írland."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2003-07-05 01:53:23",
+            "id": "1164929",
+            "reply_to_id": "1164928",
+            "text": "djöf, skil ég þetta eigi."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2003-07-05 12:02:47",
+            "id": "1164930",
+            "reply_to_id": "1164929",
+            "text": "Sama hvað ég geri þá virkar þetta ekki hjá mér…:@"
+        },
+        {
+            "user": "Gallo",
+            "user_id": "38315",
+            "date": "2003-07-04 23:38:38",
+            "id": "1164931",
+            "reply_to_id": "1164925",
+            "text": "góður..\nég prufa og sé hvort allir meiðist hjá KR í CM líka ;-)"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2003-07-05 00:06:05",
+            "id": "1164932",
+            "reply_to_id": "1164925",
+            "text": "Það er til forrit fyrir CM(man ekki hvort það sé bara fyrir 3) sem skiptir liðum…..\nÞú verður að hafa liðin rétt. Portadown var norður-írskur meistari 02-03 og ef þú myndir nota þetta swap teams dæmi þá myndi víkingur fara í meistaradeildina….rétt væri að swappa portadown við KR og Fylki við Linfield…."
+        },
+        {
+            "user": "doddi",
+            "user_id": "1219",
+            "date": "2003-07-05 15:33:31",
+            "id": "1164933",
+            "reply_to_id": "1164925",
+            "text": "Ég tók eftir að með Norður-Írsku deildina “crashaði” leikurinn ef maður reyndi að skoða góðgerðarskjöldin og svo einnig þegar nokkrir mánuðir höfðu liðið crashaði leikurinn hjá manni svo ég prófaði að nota þetta við svissnesku deildina frekar. Það er mikið skárra í rauninni því þá eru leikmannanúmer með og þá verða 7 menn á varamannabekknum í stað 3. Þannig að eftirfarandi fyrir neðan skal láta í iceland.edt.\n// Efsta deild + tvö efstu liðin í fyrstu deild\n“SWAP_TEAMS” “BSC Young Boys” “Fimleikafélag Hafnarfjarðar”\n“SWAP_TEAMS” “FC Aarau” “Fram”\n“SWAP_TEAMS” “FC Basel” “Fylkir”\n“SWAP_TEAMS” “FC Luzern” “Grindavík”\n“SWAP_TEAMS” “FC St. Gallen” “Íþróttabandalag Vestmannaeyja”\n“SWAP_TEAMS” “FC Thun” “Íþróttafélag Akraness”\n“SWAP_TEAMS” “FC Wil 1900” “Knattspyrnufélag Akureyrar”\n“SWAP_TEAMS” “FC Zürich” “Knattspyrnufélag Reykjavíkur”\n“SWAP_TEAMS” “Grasshopper-Club Zürich” “Valur”\n“SWAP_TEAMS” “Neuchâtel Xamax FC” “Þróttur Reykjavík”\n“SWAP_TEAMS” “Servette FC” “Keflavík”\n“SWAP_TEAMS” “SR Delémont” “Víkingur”\n// Restin af fyrstu deild + fjögur efstu liðin í annari deild\n“SWAP_TEAMS” “AC Bellinzona” “Afturelding”\n“SWAP_TEAMS” “FC Baden” “Breiðablik”\n“SWAP_TEAMS” “FC Concordia Basel” “Haukar”\n“SWAP_TEAMS” “FC Lugano” “HK”\n“SWAP_TEAMS” “FC Schaffhausen” “Leiftur/Dalvík”\n“SWAP_TEAMS” “FC Sion” “Njarðvík”\n“SWAP_TEAMS” “FC Vaduz” “Stjarnan”\n“SWAP_TEAMS” “FC Winterthur” “Þór Akureyri”\n“SWAP_TEAMS” “FC Wohlen” “Völsungur”\n“SWAP_TEAMS” “Lausanne-Sports” “Fjölnir”\n“SWAP_TEAMS” “SC Kriens” “Selfoss”\n“SWAP_TEAMS” “Yverdon-Sports FC” “Íþróttafélag Reykjavíkur”\n// Neðrideildarliðin\n“SWAP_TEAMS” “FC Bex” “Knattspyrnudeild Vals og Austra”\n“SWAP_TEAMS” “FC Fribourg” “Knattspyrnufélag Siglufjarðar”\n“SWAP_TEAMS” “FC Meyrin” “Leiknir Reykjavík”\n“SWAP_TEAMS” “FC Naters” “Léttir”\n“SWAP_TEAMS” “FC Bienne” “Reynir Sandgerði”\n“SWAP_TEAMS” “FC Solothurn” “Sindri”\n“SWAP_TEAMS” “SC Zofingen” “Skallagrímur”\n“SWAP_TEAMS” “Chur 97” “Smástund”\n“SWAP_TEAMS” “FC Locarno” “Tindastóll”\n“SWAP_TEAMS” “FC Schötz” “Víðir Garði”"
+        },
+        {
+            "user": "Shevchenko",
+            "user_id": "18519",
+            "date": "2003-07-05 18:32:45",
+            "id": "1164934",
+            "reply_to_id": "1164933",
+            "text": "Doddi þú ert algjör snilli"
+        },
+        {
+            "user": "CharlieGeorge",
+            "user_id": "40285",
+            "date": "2003-07-06 01:22:09",
+            "id": "1164935",
+            "reply_to_id": "1164934",
+            "text": "Er þetta búið að virka hjá einhverjum?"
+        },
+        {
+            "user": "CharlieGeorge",
+            "user_id": "40285",
+            "date": "2003-07-06 13:05:36",
+            "id": "1164936",
+            "reply_to_id": "1164933",
+            "text": "Ég er ekki alveg að skilja þetta!!!\nÁ ég að búa til folder sem heitir iceland.edt og ddt og kópera það sem er í notepadinu í folderið?\nPlease hjálpið mér ég verð að spila íslensku deildina.\nKannski að doddi gæti útskýrt betur fyrir þá sem eru ekki alveg nógu góðir í tölvumálunum."
+        },
+        {
+            "user": "doddi",
+            "user_id": "1219",
+            "date": "2003-07-06 15:54:33",
+            "id": "1164937",
+            "reply_to_id": "1164936",
+            "text": "Nú reyni ég að útskýra þetta eins vel og ég get. Þú opnar notepad, kóperar það sem á að fara í iceland.edt þar inn, ferð í save as og setur skránna í data folderið sem er í CM4 möppunni og velur í save as “all files” og skýrir skránna iceland.edt. Síðan geriru það sama með iceland.ddt, hefur þetta allt á sama stað."
+        },
+        {
+            "user": "Finisboy",
+            "user_id": "6088",
+            "date": "2003-07-07 16:30:32",
+            "id": "1164938",
+            "reply_to_id": "1164937",
+            "text": "Það skakl einnig taka fram að Knattspyrnufélag Vals og Austra heitir núna Fjarðarbyggð.\nEn er ekki hægt að spila 2. deildina?"
+        },
+        {
+            "user": "sorowin",
+            "user_id": "20898",
+            "date": "2003-07-07 23:39:02",
+            "id": "1164939",
+            "reply_to_id": "1164938",
+            "text": "Hei…. þetta er ekki alveg að virka hjá mér.\nÉg ákvað að nota Svissnesku deildina eins og þú mæltir með.\nÉg er búinn að ná í EP4. (C:\\Program Files\\Eidos Interactive\\CM4\\data)\nÉg setti iceland.edt og iceland.ddt notepad möppurnar í data möppuna sjálfa.\niceland.ddt lítur svona út:\n“RETAIN_PLAYERS” “Fimleikafélag Hafnarfjarðar”\n“RETAIN_PLAYERS” “Fram”\n“RETAIN_PLAYERS” “Knattspyrnufélag Akureyrar”\n“RETAIN_PLAYERS” “Grindavík”\n“RETAIN_PLAYERS” “Íþróttabandalag Vestmannaeyja”\n“RETAIN_PLAYERS” “Íþróttafélag Akraness”\n“RETAIN_PLAYERS” “Fylkir”\n“RETAIN_PLAYERS” “Knattspyrnufélag Reykjavíkur”\n“RETAIN_PLAYERS” “Valur”\n“RETAIN_PLAYERS” “Þróttur Reykjavík”\n“RETAIN_PLAYERS” “Keflavík”\n“RETAIN_PLAYERS” “Víkingur”\n“RETAIN_PLAYERS” “Afturelding”\n“RETAIN_PLAYERS” “Breiðablik”\n“RETAIN_PLAYERS” “Haukar”\n“RETAIN_PLAYERS” “HK”\n“RETAIN_PLAYERS” “Leiftur/Dalvík”\n“RETAIN_PLAYERS” “Njarðvík”\n“RETAIN_PLAYERS” “Stjarnan”\n“RETAIN_PLAYERS” “Þór Akureyri”\n“RETAIN_PLAYERS” “Fjölnir”\n“RETAIN_PLAYERS” “Íþróttafélag Reykjavíkur”\n“RETAIN_PLAYERS” “Knattspyrnudeild Vals og Austra”\n“RETAIN_PLAYERS” “Knattspyrnufélag Siglufjarðar”\n“RETAIN_PLAYERS” “Leiknir Reykjavík”\n“RETAIN_PLAYERS” “Léttir”\n“RETAIN_PLAYERS” “Reynir Sandgerði”\n“RETAIN_PLAYERS” “Selfoss”\n“RETAIN_PLAYERS” “Sindri”\n“RETAIN_PLAYERS” “Skallagrímur”\n“RETAIN_PLAYERS” “Smástund”\n“RETAIN_PLAYERS” “Tindastóll”\n“RETAIN_PLAYERS” “Víðir Garði”\n“RETAIN_PLAYERS” “Völsungur”\nog iceland.edt svona:\n“SWAP_TEAMS” “BSC Young Boys” “Fimleikafélag Hafnarfjarðar”\n“SWAP_TEAMS” “FC Aarau” “Fram”\n“SWAP_TEAMS” “FC Basel” “Fylkir”\n“SWAP_TEAMS” “FC Luzern” “Grindavík”\n“SWAP_TEAMS” “FC St. Gallen” “Íþróttabandalag Vestmannaeyja”\n“SWAP_TEAMS” “FC Thun” “Íþróttafélag Akraness”\n“SWAP_TEAMS” “FC Wil 1900” “Knattspyrnufélag Akureyrar”\n“SWAP_TEAMS” “FC Zürich” “Knattspyrnufélag Reykjavíkur”\n“SWAP_TEAMS” “Grasshopper-Club Zürich” “Valur”\n“SWAP_TEAMS” “Neuchâtel Xamax FC” “Þróttur Reykjavík”\n“SWAP_TEAMS” “Servette FC” “Keflavík”\n“SWAP_TEAMS” “SR Delémont” “Víkingur”\n“SWAP_TEAMS” “AC Bellinzona” “Afturelding”\n“SWAP_TEAMS” “FC Baden” “Breiðablik”\n“SWAP_TEAMS” “FC Concordia Basel” “Haukar”\n“SWAP_TEAMS” “FC Lugano” “HK”\n“SWAP_TEAMS” “FC Schaffhausen” “Leiftur/Dalvík”\n“SWAP_TEAMS” “FC Sion” “Njarðvík”\n“SWAP_TEAMS” “FC Vaduz” “Stjarnan”\n“SWAP_TEAMS” “FC Winterthur” “Þór Akureyri”\n“SWAP_TEAMS” “FC Wohlen” “Völsungur”\n“SWAP_TEAMS” “Lausanne-Sports” “Fjölnir”\n“SWAP_TEAMS” “SC Kriens” “Selfoss”\n“SWAP_TEAMS” “Yverdon-Sports FC” “Íþróttafélag Reykjavíkur”\n“SWAP_TEAMS” “FC Bex” “Knattspyrnudeild Vals og Austra”\n“SWAP_TEAMS” “FC Fribourg” “Knattspyrnufélag Siglufjarðar”\n“SWAP_TEAMS” “FC Meyrin” “Leiknir Reykjavík”\n“SWAP_TEAMS” “FC Naters” “Léttir”\n“SWAP_TEAMS” “FC Bienne” “Reynir Sandgerði”\n“SWAP_TEAMS” “FC Solothurn” “Sindri”\n“SWAP_TEAMS” “SC Zofingen” “Skallagrímur”\n“SWAP_TEAMS” “Chur 97” “Smástund”\n“SWAP_TEAMS” “FC Locarno” “Tindastóll”\n“SWAP_TEAMS” “FC Schötz” “Víðir Garði”\nEIGA að vera bil á milli deildana?\nÁ ekki alveg örugglega að vera hægt að stjórna íslensku liðunum þegar maður fer í Add manager þá eiga að koma Íslensku liðin upp, er það ekki rétt skilið hjá mér?\nHvernig á að save-a notepad file-ana(sem text documents og hvaða ENCODING stilling á að vera ANSI, Unicode, Unicode big endian eða UTF-8?\nÉg er með file-ana sem text documents og síðan ANSI stillingu (sama og kemur bara alltaf upp hjá mér).\nÉg tók síðan eftir því að í data möppunni er dálítið mikið af file-um sem eru Microsoft Access Add-in Data. Notepad skjölin eiga ekkert að vera þannig er það nokkuð?\nÉg vona að þú getir hjálpað mér e-ð.\nMeð fyrirfram þökk um aðstoð."
+        },
+        {
+            "user": "ingamin",
+            "user_id": "32449",
+            "date": "2003-07-06 21:03:55",
+            "id": "1164940",
+            "reply_to_id": "1164925",
+            "text": "ég skil ekki alveg Doddi….nú er ég búinn að copera þetta inní note pad en hvert á ég að setja þetta……þegar ég opna data möppuna koma nokkrar fleirri möppur í hvaða möppu á þetta að fara þar!!!"
+        },
+        {
+            "user": "nufc",
+            "user_id": "9119",
+            "date": "2003-07-09 19:35:10",
+            "id": "1164941",
+            "reply_to_id": "1164925",
+            "text": "ég gerði þetta með skosku deildina en þá eru efsta deildin og alveg niður í 3 deild. en það eru ekki nógu mörg íslensk lið í leiknum þannig að ég notaði 4 færeysk neðrideildarlið í 3 deildina"
+        },
+        {
+            "user": "sorowin",
+            "user_id": "20898",
+            "date": "2003-07-10 15:32:01",
+            "id": "1164942",
+            "reply_to_id": "1164941",
+            "text": "Doodi: væriru nokkuð til í að reyna að hjálpa mér. Þetta er bara ekki að virka. Hérna að ofan geturu séð hvað ég gerði.\nMig langar nefnilega mjög að prófa íslensku deildina."
+        },
+        {
+            "user": "doddi",
+            "user_id": "1219",
+            "date": "2003-07-10 18:21:53",
+            "id": "1164943",
+            "reply_to_id": "1164942",
+            "text": "Ákvað að setja þetta bara á vefsvæðið hjá mér.\niceland.edt\niceland.ddt\nMunið að setja þetta svo í data folderið á CM4."
+        },
+        {
+            "user": "doddi",
+            "user_id": "1219",
+            "date": "2003-07-10 18:30:51",
+            "id": "1164944",
+            "reply_to_id": "1164943",
+            "text": "ok þetta hefur klikkað smá… HTML vill ekki virka á huga :)\nhttp://www.simnet.is/doddi/iceland.edt\n- iceland.edt\nhttp://www.simnet.is/doddi/iceland.ddt\n- iceland.ddt\nNáið í og gerið það sem ég sagði að ofan ;)"
+        },
+        {
+            "user": "snusman",
+            "user_id": "24344",
+            "date": "2003-07-12 00:37:09",
+            "id": "1164945",
+            "reply_to_id": "1164944",
+            "text": "Þetta er mjög vel gert meðan við að þú gerðir þetta sjálfur og spila ég þetta mikið og er Íslndsmeistri með FH á 1 tímabili. Heirði þær sögusagnir að Íslenska deildin komi út á patchi eftir rúma viku á sigamis.com"
+        },
+        {
+            "user": "doddi",
+            "user_id": "1219",
+            "date": "2003-07-12 10:37:51",
+            "id": "1164946",
+            "reply_to_id": "1164945",
+            "text": "Ég persónulega myndi ekki trúa á neinar svona sögusagnir því ef þeir hjá SIgames hafa ekki gefið út hvenær eitthvað er gert veit það enginn. Svo er frekar stutt síðan þeir gáfu EP4 út og mun EP5 koma út næst sem ég trúi ekki að verði eftir viku því SI hafa ekki gefið út margar tilkynningar varðandi það eins og stendur en ég hinsvegar gæti trúað að þeir myndu bæta við deildum og hver veit ef íslenska yrði :)\nÉg sjálfur er orðinn leiður á að spila íslensku deildina í öðru landi vegna þess að það er leiðinlegt að sjá öll íslensku liðin kaupa kauða í liðið frá viðkomandi landi, eins og þegar ég var með þetta í Sviss þá voru alltaf svisslendingar keyptir í íslensku liðin og íslenskir leikmenn urðu seldir í svissnesku liðin sem út voru skipt fyrir þau íslensku."
+        },
+        {
+            "user": "Damus7",
+            "user_id": "20228",
+            "date": "2003-07-12 10:50:17",
+            "id": "1164947",
+            "reply_to_id": "1164946",
+            "text": "Ég fæ aldrei alla Íslendsku leikmennina.\nDatabaseið hjá mér er í large.\nHvernig get ég stillt þetta þannig að ég fái alla íslensku kallana( fínt væri að nota minni datebase ef það væri hægt)."
+        },
+        {
+            "user": "doddi",
+            "user_id": "1219",
+            "date": "2003-07-12 15:50:03",
+            "id": "1164948",
+            "reply_to_id": "1164947",
+            "text": "Það stendur fyrir ofan í RETAIN_PLAYERS sem fer í iceland.ddt. Það mun þá alveg vera í lagi þar eftir að keyra database á small. Þetta mun einnig gera það virkt að stjórna íslenska landsliðinu."
+        },
+        {
+            "user": "ruglubulli",
+            "user_id": "6042",
+            "date": "2003-07-15 23:59:02",
+            "id": "1164949",
+            "reply_to_id": "1164925",
+            "text": "úff, þetta virkar ekki hjá mér…Ég tek þennan texta og set hann í Text documents sem enda á .edt og .ddt og vista þær í data sem all files, en alltaf þegar ég byrja á leik og vel svissnesku deildina, þá koma alltaf svissnesku liðin fram og engir leikmenn koma aukalega í íslensku liðin. Ég tek hinsvegar eftir því að alltaf þegar ég opna þessar skrár aftur og fer í save as, þá býðst mér fyrst sá möguleiki að vista þær sem text files, sama þótt ég hafi vistað þær sem all files, gæti þetta þýtt eitthvað eða er þetta bara bull í mér? Einhverjar hugmyndir um hvað ég gæti verið að gera vitlaust?"
+        },
+        {
+            "user": "doddi",
+            "user_id": "1219",
+            "date": "2003-07-16 12:14:35",
+            "id": "1164950",
+            "reply_to_id": "1164949",
+            "text": "Notaðu notepad við þetta frekar, það sem þú ert að klikka á er ddt skráin. Hún lætur mennina inn í liðin."
+        },
+        {
+            "user": "ruglubulli",
+            "user_id": "6042",
+            "date": "2003-07-17 11:57:43",
+            "id": "1164951",
+            "reply_to_id": "1164950",
+            "text": "Ég nota notepad og ég geri .ddt skrána alveg eins og .edt skrána…samt virkar þetta ekki.."
+        },
+        {
+            "user": "Damus7",
+            "user_id": "20228",
+            "date": "2003-07-17 18:30:31",
+            "id": "1164952",
+            "reply_to_id": "1164951",
+            "text": "Málið með að fáir sem og enginn leikmenn úr Íslensku deildinni koma í leikinn er sú að það þarf að uppfæra service pakkan (EP4) fyrir leikinn.\nÉg hélt að ég væri með nýjasta en svo var ekki, það vantaði retain player dæmið.\nEftir að ég setti það inn þá koma allir leikmennirnir.\nPS: fékk á láni leikmenn frá Barcelona til að spila með KR."
+        },
+        {
+            "user": "doddi",
+            "user_id": "1219",
+            "date": "2003-07-17 18:37:36",
+            "id": "1164953",
+            "reply_to_id": "1164952",
+            "text": "Það er alveg rétt hjá þér og stendur það einmitt í greininni sjálfri sem ég skrifaði, leiðinlegt að þetta hafi þurft að fara framhjá nokkrum.\nGóð regla, reynið að lesa nákvæmlega hvað stendur áður en þið spyrjið um hjálp, hef verið mikið að endurtaka sömu hlutina hér aftur og aftur."
+        },
+        {
+            "user": "ruglubulli",
+            "user_id": "6042",
+            "date": "2003-07-19 01:49:25",
+            "id": "1164954",
+            "reply_to_id": "1164953",
+            "text": "En hvað ef þú ert með ep4 og þetta virkar samt ekki? :)\nÉg biðst afsökunar á því að ég sé alltaf að spurja aftur og aftur…mig bara langar rosalega til þess að prófa þetta og get ekki beðið eftir því að íslenska deildin komi, ef hún kemur þá…;)"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2003-07-22 03:05:12",
+            "id": "1164955",
+            "reply_to_id": "1164954",
+            "text": "Hvar er Grótta?"
+        },
+        {
+            "user": "charly",
+            "user_id": "41354",
+            "date": "2003-07-16 20:12:24",
+            "id": "1164956",
+            "reply_to_id": "1164925",
+            "text": "Hvað koma margir leikmenn inn í liðin, allavega hjá mér koma einhverjir þrír eða álíka. hvað á ég að gera……….."
+        },
+        {
+            "user": "doddi",
+            "user_id": "1219",
+            "date": "2003-07-22 23:07:25",
+            "id": "1164957",
+            "reply_to_id": "1164925",
+            "text": "Ef maður gerir þetta eru þá menn eins og sævar þór og haukur ingi í leiknum?\nOg hvar nær maður i þetta ep4 eða eitthvað."
+        },
+        {
+            "user": "doddi",
+            "user_id": "1219",
+            "date": "2003-07-22 23:47:34",
+            "id": "1164958",
+            "reply_to_id": "1164957",
+            "text": "http://www.hi.is/~dadi/hugi/407_enhance_nodata.exe\nOg já, það eru ALLIR sem eru að spila með íslensku liðunum þá sem hlaðast inn í leikinn þegar þú byrjar þetta."
+        },
+        {
+            "user": "hannesd",
+            "user_id": "30584",
+            "date": "2003-07-23 13:54:53",
+            "id": "1164959",
+            "reply_to_id": "1164925",
+            "text": "hvar næ ég í þetta?????????"
+        },
+        {
+            "user": "hannesd",
+            "user_id": "30584",
+            "date": "2003-09-19 17:54:56",
+            "id": "1164960",
+            "reply_to_id": "1164925",
+            "text": "hvenig náiði að setja þetta í data-ið?"
+        }
+    ]
+}

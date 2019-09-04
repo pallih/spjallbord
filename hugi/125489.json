@@ -1,0 +1,165 @@
+{
+    "forum_title": "Forritun",
+    "user": "sandri",
+    "user_id": "24443",
+    "date": "2003-02-24 02:48:58",
+    "title": "Forritunarvandræði",
+    "text": "Hæ þið.\nÉg er nú að skrifa forrit og ég á í mestu makindum með að ákveða mig í hvaða máli ég á að skrifa það. Mestu vandræði mín eru í raun þau að ég get ekki gert upp við mig hvort ég eigi að skrifa þetta í vefviðmóti (ASP, JSP og so on) eða í gluggakerfi (C++ VB JAVA).\nMálið er að ég þarf að búa til alhliða bókhalds og upplýsingakerfi fyrir fyrirtæki, það á að fræða starfsmenn um innri málefni fyrirtækisins, réttindi þeirra og skyldur. Það á líka að vera gott bókhaldskerfi þar sem pantanir, reikningar og fleira er búið til.\nEf um væri að ræða upplýsingakerfi eingöngu væri ég ekki í nokkrum vafa um að vefviðmót væri best, en þar sem bókhaldskerfi á að vera samofið líka þá er það spurning hvað ég geri.\nHvort sem álit ykkar verður á vefviðmóti eða gluggakerfi þá þætti mér vænt um að fá að vita í hvaða máli ég ætti að skrifa þetta.\nOg einnig……. getiði bent mér í framhaldinu á góða kennslusíðu í því máli sem þið mælið með?",
+    "url": "https://www.hugi.is/forritun/greinar/125489/forritunarvandraedi/",
+    "url_id": "125489",
+    "id": "934483",
+    "replies": [
+        {
+            "user": "dnxcoded",
+            "user_id": "14311",
+            "date": "2003-02-25 09:59:42",
+            "id": "934484",
+            "reply_to_id": "934483",
+            "text": "Mér fyndist best að gera bókhaldskerfi í VB, þar sem auðvelt er að tengja það við Access töflur, senda út prentun í Execel og Word.  VB er svona !´easy going´ til bókhalds.  Annars gætirðu líka notað bara Access, þar eru margir fídusar til að sérsniða Access kerfið..\nHér er hjálpar síða\nog\nönnur hér\nþessi\nlíka\nAllavegana VB seigji ég\nkveðja"
+        },
+        {
+            "user": "dnxcoded",
+            "user_id": "14311",
+            "date": "2003-02-25 10:02:02",
+            "id": "934485",
+            "reply_to_id": "934484",
+            "text": "..sorry gleymdi að linkarnir virka ekki nema á korkunum !\nwww.vbcity.com/forums\nwww.tek-tips.com\nwww.w3schoo ls.com"
+        },
+        {
+            "user": "diddins",
+            "user_id": "10796",
+            "date": "2003-02-25 10:00:02",
+            "id": "934486",
+            "reply_to_id": "934483",
+            "text": "C# .Net, tvímælalaust. Hafðu líka nóg af vefþjónustum þannig þú getur nálgast uppl. úr kerfinu annaðhv. úr browser eða mobile…"
+        },
+        {
+            "user": "arnig",
+            "user_id": "28231",
+            "date": "2003-02-25 12:45:10",
+            "id": "934487",
+            "reply_to_id": "934483",
+            "text": "Ég myndi mæla með ASP.NET, og þá annaðhvort C# .NET eða Visual Basic .NET, eftir því hvort þú hefur betri tök á.\nGóð síða í ASP.NET er www.asp.net\nGangi þér vel !!"
+        },
+        {
+            "user": "abh",
+            "user_id": "539",
+            "date": "2003-02-25 12:54:01",
+            "id": "934488",
+            "reply_to_id": "934483",
+            "text": "Ég mæli allavega með að nota .NET, skiptir ekki máli hvaða mál þú notar (Visual Basic.NET, c#, etc). Það er að segja ef alvöru forritunarmál er nauðsynlegt. Þú veist vonandi að einföld bókhaldskerfi og upplýsingakerfi ýmiskonar er hægt að gera í MS Access, Outlook og Exchange og fleira því líkt. (Reyndar finnst mér spennandi að skoða star office í slíku samhengi)\nMeð góðri hönnun þá myndi virkni forritsins og viðmót verða algjörlega aðskilið þannig að ekkert mál yrði fyrir þig að gera bæði vefviðmót og win32 app.\nÉg hallast frekar að vefviðmóti í forritum í dag, tel það vera núið og framtíðin. Samt til þess að gera gott viðmót sem líkist win32 app þarf oft að binda notendur við Internet Explorer, það þarf ekkert endilega að vera slæmt, menn þurfa bara að hafa þetta í huga. Þó er kannski auðveldara að gera win32 app í byrjun og útbúa svo vefviðmót eftir það þegar forritið er tilbúið (þá er líka kannski hægt að selja vefviðmótið aukalega :)\nSíður tengdar .NET\nhttp://msdn.microsoft.com/\nÞetta er biblían.\nhttp://www.4guysfromrolla.com/\nFrábær síða sem fjallar um ASP.NET.\nhttp://www.csharphelp.com/\nÞarna er að finna mikið af kóðadæmum og þó nokkuð af leiðbeiningum.\nhttp://www.dotnetjunkies.com/\nFullt af tutorials og fréttum tengdum .NET\nhttp://www.codeproject.com/\nFullt af greinum um .NET og endalaust af Componentum og kóðadæmum, yfirleitt fyrsti staðurinn sem ég kíki á eftir msdn.\nhttp://www.gotdotnet.com/\nEinnig mikið af greinum og kóðadæmum. Mjög góðar byrjendaleiðbeiningar.\nhttp://www.asp.net/Default.as\npx?tabindex=0&tabid=1\nÝmislegt um ASP.NET, nota þessa síðu reyndar ekki mikið en það er hægt að fá þarna ágætis dev umhverfi fyrir ASP.NET sem er ókeypis, heitir Web Matrix."
+        },
+        {
+            "user": "JonGretar",
+            "user_id": "7636",
+            "date": "2003-02-25 15:39:11",
+            "id": "934489",
+            "reply_to_id": "934483",
+            "text": "Þetta fer allt eftir aðstæðum hjá þér.\nGluggaumhverfi er náttúrulega alltaf hraðast og best. En þá þarftu alltaf að vera að vesenast með installation og tech supporti. Og ég mæli ekki með því ef þú ert með margar tegundir af stýrikerfum hjá þér. Ef allar vélar eru á XP eða 2000 þá geturu alveg eins notað VB.net til að gera þetta. Mæli samt ekki með C# vegna þess að það er ekki nógu mikið af helps ofl. sem þú mundir þurfa. Svo er alltaf gott að leyfa svona nýjum forritunarmálum að þróast áður en maður fer að nota þau í svona rosalega mikilvæga hluti.\nEn ef þú ert með mixað umhverfi og mikið af NT4 og 9x vélum þá er ekkert annað en C++ í stöðunni. Að setja in .net frameworkið á þessar gömlu vélar efur ekki reynst vél hjá mér amk.\nAð nota vefumhverfi er náttúrulega framtíðin. En vandamálið er að þá þarftu að fá þér deticated vél. Notaðu endilega VBscript ef að fyrirtækið samþykkir að kaupa IIS server þar sem að ég sé að það er það sem þú þekkir best.  Ef þeir tíma því ekki þá mæli ég með að læra á PHP sem mér finns þægilegra. Það tekur þig ekki nokkra stund að læra á það ef þú kannt önnur vefforritunarmál. Munurinn á hvað maður notar sem vefforritunarmál er ekki nokkur. Maður á bara að nota það sem manni finnst þægilegast. Þau geta öll gert það sama.\nÉg vil by the way hrósa þér fyrir að halda opnum huga(.is tíhí) með það hvað þú notar. Þetta er bara orðið allt of mikið religion milli forritunarmála. En hlutir eru bara mishentugir fyrir hvert verkefni. C getur kanski mest og er hraðast. En maður forritar hægar í því. Java er langeinfaldast en er hægt í keyrslu. VB og C# er súpereinfalt. En getur hinsvegar ekki gert jafn detailed hluti og C. Java er ótrúlega gott kennslumál en síðan ekki jafn hentugt in the real world.\nForritunarmál eru hlutir sem eiga að markast af tegund verkefnis. Ekki af trúarbrögðum forritarans."
+        },
+        {
+            "user": "arnig",
+            "user_id": "28231",
+            "date": "2003-02-25 18:16:48",
+            "id": "934490",
+            "reply_to_id": "934489",
+            "text": "Alveg hjartanlega sammála þér JonGretar. Sumir forritarar virðast ekki vilja smíða forrit nema í einu forritunarmáli.\nÉg til dæmis, sem mikill Visual C++ maður, var mjög tregur til þess að fara að nota ASP.NET, en núna sé ég að það er einfaldlega frábært !! - Þótt að mér finnist jú ennþá vænst um C++, ef manni getur þótt vænt um forritunarmál :-)"
+        },
+        {
+            "user": "abh",
+            "user_id": "539",
+            "date": "2003-02-25 18:42:20",
+            "id": "934491",
+            "reply_to_id": "934489",
+            "text": "[Gluggaumhverfi er náttúrulega alltaf hraðast og best]\nÉg skil ekki einu sinni þessa fullyrðingu. Gluggaumhverfi hentar stundum, og stundum ekki. Það er ekki neitt ALLTAF til í þessu samhengi.\n[Mæli samt ekki með C# vegna þess að það er ekki nógu mikið af helps ofl. sem þú mundir þurfa]\nÍ fyrsta lagi er þetta málið sem Microsoft er með primary focus á í .NET umhverfinu, öll hjálp sem er til er til fyrir C#. Ég hef aldrei lent í vandræðum með að finna eitthvað fyrir c#, og svo skiptir í raun ekki máli hvort ég finni kóða fyrir vb.net eða c#, það er svo létt að heimfæra þetta á hvort annað.\n[er alltaf gott að leyfa svona nýjum forritunarmálum að þróast]\nÞetta mál er til, búið að þróa það, getur vel verið að það komi fleiri útgáfur, en þetta er mál sem er orðið ansi þroskað og er þegar notað í mörgum risavöxnum verkefnum.\n[ekkert annað en C++ í stöðunni]\nÞað er nú líka til Delphi, Visual Basic, Java, MS Access (sem gæti líklega dugað fyrir þetta verkefni) og eflaust miklu fleiri mál og tól.\n[kaupa IIS server]\nIIS server fylgir með Windows þannig þú þarft ekki að kaupa hann neitt sérstaklega. En þú þarft vitanlega að eiga leyfi fyrir windowsinu sem mun keyra hann. Ég veit, ég er smámunasamur :)\nTegund verkefnis hefur vitanlega alltaf áhrif á val á forritunarmálum. En þetta er að minnka þó nokkuð mikið. Ef aðalmálið var að sækja úr einni sql töflu og birta eina skýrslu, þá notuðu menn vitanlega Visal Basic, en þegar forritað var stórt verkefni eins og launakerfi, sölukerfi, birgðabókhald, þá var notað c++. Í dag notar maður .NET í bæði, og færð kosti beggja kerfa í einu. Sama með Java, þeir sem nota Java, nota það í nánast hvað sem er, því það er ótrúlega öflugt og nokkuð þægilegt að nota.\nÞeir hlutir sem ekki er hægt (af einhverjum ástæðum) að gera í c# eða java þá er notað c++ til að leysa þann hluta, en ekki allt forritið.\nÍ dag er liklega hægt að segja að stefna fyrirtækisins sem hannar kerfið sé það sem ákveði forritunarmálið. Þau fyrirtæki sem aðhyllast Microsoft lausnum, nota .NET, þau fyrirtæki sem ákveða að fylgja ekki Microsoft nota Java, Delphi eða eitthvað annað.\nSvo er annað í þessu, forritari sem kann c++ mjög vel getur verið mikið fljótari að gera einfalt forrit í því heldur en að vera að strögglast við að skipta um umhverfi og mál og reyna að gera forrit þar. Þannig að það mál sem þú ert færastur í er yfirleitt það mál sem hentar best í það verkefni sem þú ert að gera."
+        },
+        {
+            "user": "NonniG",
+            "user_id": "28754",
+            "date": "2003-02-25 19:14:07",
+            "id": "934492",
+            "reply_to_id": "934491",
+            "text": "Góð grein og góð svör.\nMig langar samt að benda á að ef að hugsað er um afköst(hraða) vill fólk sleppa öllum “VM” svo sem Java og .Net. Því er einhver native kóði hentugur. Hann er samt oft mikið bákn og ill “portanlegur”. þ.e.a.s. erfitt að flytja frá PC yfir á MAC o.s.frv. Í þeim tilvikum gæti verið betra að nota VM.\nHins vegar ef að þú villt vera sem sneggstur að koma vöruni í verk (implementa) er sennilega best að nota tilbúnar lausnir, eða Visual forritunarmál þar sem nánast ekkert þarf að kóða svo sem Delphi eða VB.\nÞað er því best að velja verkfæri sem hentar verkinu.. fer sem sagt eftir því hvernig þú villt útfæra þetta."
+        },
+        {
+            "user": "JonGretar",
+            "user_id": "7636",
+            "date": "2003-02-25 21:17:18",
+            "id": "934493",
+            "reply_to_id": "934491",
+            "text": "[Ég skil ekki einu sinni þessa fullyrðingu. Gluggaumhverfi hentar stundum, og stundum ekki. Það er ekki neitt ALLTAF til í þessu samhengi.]\nAuðvitað er ekkert ALLTAF til. En gluggaumhverfi er hraðar vegna nokkura ástæðna. Fyrsta lagi með vefserver þá eru fullt af milliliðum sem þú losnar við. Í vefumhverfi er langt ferli. Browser til TCP/IP undirkerfis til vefserver til skráarkerfi servers til compilers til gagnagrunns til vefservers til browsers tilbaka. Og browserinn tekur svo smástund að rendera HTMLið. Þetta er bara að taka smástund. En þetta er náttúrulega ekkert rosalegt ferli.\nGluggaumhverfi er bara með hraðara vinnsluumhverfi vegna þess að allt forritið er í minni og hefur bara samband við gagnagrunn.\nMeð C# þá stend ég við það sem ég segi. Ég vil gefa því ár. En ég er aðallega ekki að nota það vegna þess að það er bara ekkert nýtt í því. Þetta er bara gamla VB með nýjum synthax (horft langt frá því þeas. Er auðvitað munur en þið skiljið. Hann kemur ekki með neitt nýtt)\nHin commentin hjá þér eru náttúrulega rétt. Ég var bara að alhæfa smá. En ég stend við að þetta hafi verið rétt hjá mér í the bigger picture.\nEn að spurningu hans Sandra þá mundi ég gera þetta á einn hátt sem mér finnst mjóg skemmtilegur og er farinn að nota slatta.\nGera C++ eða VB forrit. forritið nær í gögnin af vefserver með SOAP köllum eða öðrum aðferðum. Sjálft area'ð sem birtir gögnin er í raun og veru í HTML sem að clientinn sjálfur createar. Þetta hefur actually reynst ótrúlega hraðvirkt hjá mér þegar ég hef gert þetta og leyfir gluggaumhverfis forriti að vera rosalega modular. Þannig gætiru til dæmis gert viðbætur við forritið á servernum án þess að þurfa updeita clientinn en samt haldið þeim einfaldleika  sem gluggaclient leyfir.\nSem dæmi sem notar svipaða lausn er snilldarforrit sem ég nota mikið sem heitir DBManager(\nhttp://www.dbtools.com.br/EN/dbmanager.php)"
+        },
+        {
+            "user": "abh",
+            "user_id": "539",
+            "date": "2003-02-25 22:09:26",
+            "id": "934494",
+            "reply_to_id": "934493",
+            "text": "Gaman að þessu, vil samt benda á örlítið í viðbót.\nÍ fyrsta lagi er líka helling af layer-um sem flest glugga forrit fara í gegnum til að vinna vinnuna sína og svo eru serverar yfirleitt líka talsvert öflugri vélar en þær sem eru notaðar fyrir útstöðvar.\nEn vissulega er það rétt hjá þér að gluggaforrit response fyrr við aðgerðum notanda, en vinnsla gagna er ekkert hraðari fyrir það.\nÍ langflestum tilvikum þá er hagkvæmara að nýta sér þessa tækni, enda ekki að ástæðulausu að thin client lausnir séu að vera sífellt algengari.\nEn með þessu erum við auðvitað að tala um kerfi þar sem margir notendur eru að vinna samtímis í, og þurfa að sjá breytingar frá öðrum sem og aðrir sjá breytingar frá þeim.\nÞú mátt hafa þínar skoðanir á c#, en ég vil benda þér á að Visual Basic.NET er ekkert nýrra mál, það kemur undan Visual Basic líkt og c# kemur undan c++.\nSvo að lokum, þessi aðferð sem þú bendir á í lokin er vissulega flott aðferð, enda ein þeirra aðferða sem menn eru að notast meira og meira við. En hvað er betra við að smíða sín eigin host utan um WebBrowser controlinn (sem er IE) og láta hann svo sækja upplýsingar af vefserver (eða sækja upplýsingarnar sjálfur þaðan og setja í objectinn) heldur en að sleppa því að búa til win32 forritið og láta notandann bara ræsa upp IE?\nAllavega er ljóst að umfram hraðinn sem þú færð með glugga umhverfi er horfinn, þar sem þetta glugga umhverfi þarf að sækja gögnin sín af vefserver og þar af leiðandi sé ég ekki að þetta sé betri lausn en bara gamli góði IE. Eða hta sem er ansi flott líka (Bendi á MS Commerce Server 2000).\nÍ rauninni skiptir það mig engu máli, því að við erum að fá það sama í gegn, nema við felum það fyrir notandanum að IE sjái um viðmótið."
+        },
+        {
+            "user": "JonGretar",
+            "user_id": "7636",
+            "date": "2003-02-27 14:11:32",
+            "id": "934495",
+            "reply_to_id": "934494",
+            "text": "[En hvað er betra við að smíða sín eigin host utan um WebBrowser controlinn]\nEf þú skoðar td. forritið sem ég benti á þá sérðu hvað það er fljótara að vinna með þetta heldur en pure html. Innsetning ganga etc. er gert með dialogs ofl. á meðan sljálf birting er meira í HTML.\nÞetta tekur dáltið best of both worlds. Þú ert bara með HTML templates á clientnum. Það gerir minor auto-update á forritinu gífurlega auðvelt. Þetta þarf ekki að vera HTML sérstaklega. Getur verið bara Rich Text eða word og excel eða þitt eigið format þessvegna. HTML er bara það sem allir þekkja.\n[Allavega er ljóst að umfram hraðinn sem þú færð með glugga umhverfi er horfinn]\nHluta til já. En fullt fleira kom í staðinn.\nEr alls ekki að segja þetta hina fullkomnu aðferð.\nHún hefur bara reynst mér í svona tilfellum ágætlega.\ndúmmarúmm…"
+        },
+        {
+            "user": "abh",
+            "user_id": "539",
+            "date": "2003-02-27 15:29:59",
+            "id": "934496",
+            "reply_to_id": "934495",
+            "text": "Líst vel á þessa aðferð. Ég ætla allavega að gera nokkrar tilraunir með hana."
+        },
+        {
+            "user": "ojb",
+            "user_id": "1502",
+            "date": "2003-02-26 12:51:37",
+            "id": "934497",
+            "reply_to_id": "934493",
+            "text": "Vefurinn henntar líklega best fyrir ( thin client  ) upplýsingakerfi sem aðalega eru notuð til uppflettingar, með lítilli logic innbyggðri í viðmót og stóran notendahóp.+\n- þarft ekki að setja forritið upp.\n- allar breytingar virka strax hjá öllum.\nVelja svo bara það forritunarmál sem bæði getur leyst verkið og til er góð þekking á.\nBókhaldskerfi myndi að mínu mati ekki falla undir þessa skilgreiningu. Bókhaldskerfið geturðu skrifað í hvaða FORRITUNAR máli sem er. Með því að nota gagnagrunn geturðu svo búið til upplýsingakerfi við hlið þess, sem gæti hugsanlega notað hluta af sama kóða.\nTil að velja kerfi myndi ég hugsa um eftirfarandi:\n- hvað kanntu?\n- hversu mikinn hraða þarftu?\n- Á hvaða vélbúnaði á kerfið að keyra.\n- hver á líftími kerfisins að vera? (Sum forritnarmál eiga ekki svo bjarta framtíð fyrir sér. )\n- hversu góður er stuðningur við forritunarmálið.\nog eflaust fleiri atriði sem ég man ekki núna."
+        },
+        {
+            "user": "Massi",
+            "user_id": "6581",
+            "date": "2003-02-26 22:07:55",
+            "id": "934498",
+            "reply_to_id": "934497",
+            "text": "Ég tek undir með ojb að þú verður að skoða verkefnið vel utanfrá og skilgreina áherslur og getu.\nÞar sem svo margir mæla með M$ lausnum verð ég að taka upp hanskann fyrir java.\nMiðað við þær upplýsingar sem þú gefur sýnist mér java henta ágætlega í verkið (ekki það að fleiri lausir séu ekki til), samnýting kóða leyfir þér að blanda saman vefviðmótslausnum og gluggakerfi á einfaldan hátt og notkun margra stýrikerfa verður ekki vandamál.\nÞú getur sparað þér mikla vinnu í vefviðmótinu með því að nota struts (\nhttp://jakarta.apache.org/struts/)\nog struts-layout (\nhttp://struts.application-servers.com/)\nsem bæði eru frí og mörg java IDE eru á markaðnum, sum frí, önnur kosta mikinn pening.\nVerkefnið hljómar það viðamikið að þú ættir verulega að skoða möguleikann á að skilja að upplýsingakerfið og bókhaldskerfið svo að hvor eining verði viðráðanlegri.\ngl & hf\nmassi"
+        },
+        {
+            "user": "Skarsnik",
+            "user_id": "213",
+            "date": "2003-03-04 01:50:49",
+            "id": "934499",
+            "reply_to_id": "934493",
+            "text": "JonGretar ég myndi nú mæla með að þú kynnir þér hlutina aðeins betur áður en þú ferð að staðhæfa svona :)  abh er þegar búinn að svara nokkrum punktum en ég ætla að bæta nokkrum við.\n“Mæli samt ekki með C# vegna þess að það er ekki nógu mikið af helps ofl. sem þú mundir þurfa.”\nÞað er FULLT af hjálp fyrir C#, ég hef aldrei lent í veseni með skjölun á einhverju.  Bæði er MSDN Library TROÐFULLT af upplýsingum og svo er alveg aragrúi af síðum á netinu og var bent á nokkrar mjög fínar í svari hér ofar í þessari grein.\n“Svo er alltaf gott að leyfa svona nýjum forritunarmálum að þróast áður en maður fer að nota þau í svona rosalega mikilvæga hluti.”\nEhhh? veistu hversu margar “mikilvægar” stofnanir eru farnar að nota .NET í allt sitt? þetta er útum allan heim og líka á Íslandi! t.d. vinn ég hjá banka hérlendis og þar er *ÖLL* ný hugbúnaðarþróun í .NET/C# !\nÞað er búið að þróa .NET mjög lengi og jújú það eru böggar í Frameworkinu en það er alveg ótrúlegt hvað þetta er stabílt og gott platform.\n“Með C# þá stend ég við það sem ég segi. Ég vil gefa því ár.”\nHeh.. það er þegar komið rúmlega ár! Visual Studio.NET kom út í febrúar í fyrra.\n“En ég er aðallega ekki að nota það vegna þess að það er bara ekkert nýtt í því. Þetta er bara gamla VB með nýjum synthax”\nFyrirgefðu en .. ROFL.. hehehe.. hef heyrt fátt eins fyndið í langan tíma :)  C# bíður uppá flesta fítusana af öllum .NET forritunarmálunum og CLRið gerir því kleyft að koma með margar nýjungar sem hafa aldrei sést áður í neinum forritunarmálum!\nVarðandi VB samanburðinn.. spurðu EINHVERN VB forritara sem hefur kynnt sér VB.NET vel hvort honum finnist VB.NET vera líkt VB.. það er það sko ekki!  Öll .NET mál eiga það sameiginlegt að nota .NET Framework og keyra á CLR, en frameworkið er það sem maður þarf í raun að læra á.. forritunarmálið sjálft er orðið meira “túlkunarmál” en þau supportera jú mismikið af því sem CLRið bíður uppá, til að mynda bíður C# uppá fítusa sem VB.NET hefur ekki og VB.NET hermir eftir nokkrum fítusum úr gamla VB með þýðandanum.\nEn nóg um það.. ég mæli með að fólk lesi kynni sér hlutina áður en það dæmi þá."
+        },
+        {
+            "user": "Freysi",
+            "user_id": "31454",
+            "date": "2003-02-26 02:24:24",
+            "id": "934500",
+            "reply_to_id": "934483",
+            "text": "Ég var að vinna eitt sumar í eitt af stærstu tölvufyrirtækjum landsins og þeir notuðu vefviðmót skrifað í ASP.NET sem notendalag og það talaði við Navision undir.  Þetta hefur reynst þeim mjög vel.  Þeir gerðu tilraun til að nota Outlook sem bæði viðmót og grunn, með Exchange serverinn.  Hins vegar var hætt við það verkefni, ekki út af því að það reyndist slæmur kostur, heldur út af tíma og peningaleysi.  Ég hvet þig til að skoða þessa tvo kosti."
+        },
+        {
+            "user": "vignirm",
+            "user_id": "30640",
+            "date": "2003-03-01 16:26:00",
+            "id": "934501",
+            "reply_to_id": "934483",
+            "text": "Ég mæli eindreigið með Visual Basic .NET\nÞað er góð hjálp í Visual Studio .NET fyrir C++, C#, Java, VB og fleira. Það eru svo til fullt af bókum í Bóksölu Stútenta.\nVB er málið!"
+        },
+        {
+            "user": "maggias",
+            "user_id": "6673",
+            "date": "2003-03-13 19:25:36",
+            "id": "934502",
+            "reply_to_id": "934483",
+            "text": "Sæll,\nÉg myndi segja að þetta fari náttúrulega fyrst og fremst eftir færni þinni í hverju máli fyrir sig.\nEn síðan er ekkert sem segir að þú þurfir að einskorða þig við eitt ákveðið mál, best held ég að nota kosti hvers kerfis fyrir sig og keyra síðan allt saman.\nEingin ástæða að hafa annaðhvort glugga eða vefviðmót. Mjög vel hægt blanda þessu einhvernvegin saman.\nÍ gluggaviðmótinu væri líka allveg hægt að blanda saman C og VB, VB hentar mjög vel í að keyra gluggakerfið en C hentar betur í allskonar vinnslu með gögnin sjálf, þar sem hraði skiptir máli."
+        }
+    ]
+}

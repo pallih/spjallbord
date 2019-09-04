@@ -1,0 +1,37 @@
+{
+    "forum_title": "Vefsíðugerð",
+    "user": "bugsbunny",
+    "user_id": "69391",
+    "date": "2008-08-21 22:37:11",
+    "title": "Bold HTML í lit?",
+    "text": "Hvernig geri ég\nBold\nHTML í lit?\n<a href=\"\nhttp://overkill.xippy.org\n\">HTML</a",
+    "url": "https://www.hugi.is/vefsidugerd/korkar/609132/bold-html-i-lit/",
+    "url_id": "609132",
+    "id": "6072608",
+    "replies": [
+        {
+            "user": "Jozy",
+            "user_id": "58569",
+            "date": "2008-08-21 23:44:13",
+            "id": "6072827",
+            "reply_to_id": "6072608",
+            "text": "<a href=\"\nhttp://overkill.xippy.org\n\"><b>HTML</a"
+        },
+        {
+            "user": "halldor89",
+            "user_id": "28057",
+            "date": "2008-08-22 13:45:28",
+            "id": "6073687",
+            "reply_to_id": "6072608",
+            "text": "Ef þú vilt gera lit gerirðu það með “style” attributeinu, sbr:\n<b style=\"color: blue\">Ég er feitletraður og í lit!</b>"
+        },
+        {
+            "user": "bugsbunny",
+            "user_id": "69391",
+            "date": "2008-08-22 13:46:17",
+            "id": "6073689",
+            "reply_to_id": "6072608",
+            "text": "Takk fyrir skjot svör :)"
+        }
+    ]
+}

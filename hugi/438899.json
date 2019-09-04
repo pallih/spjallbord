@@ -1,0 +1,45 @@
+{
+    "forum_title": "Linux",
+    "user": "dorg",
+    "user_id": "28480",
+    "date": "2006-08-21 11:26:20",
+    "title": "Um dependency í RPM kerfum",
+    "text": "Svolítið um dependency í Fedora.\nMargir sem eru að nota RedHat eða Fedora eða önnur kerfi sem byggja á rpm\nhafa lent í því að það virðist ekki vera hægt að setja inn pakka þar sem\nhann er háður því að annar pakki sem fyrir er sé einnig uppfærður eða\nað þá þurfi að henda út pakka sem leiðir til þess að menn byrja að svindla.\nAð svindla er að nota rpm –nodep til að setja inn pakka þetta er nokkuð\nsem ég get ekki mælt með vegna þess að það skemmir gagnagrunninn því þá eru komnir inn árekstrar.\nMargir nota yum sem passar upp á þetta og bíður upp á að setja inn alla pakka sem eru\nforsenda fyrir því að pakki sem verið er að setja inn virki.  Einnig bíður yum upp á að nota\nfleiri en eitt repository en repository eru pakkasöfn sem eiga að halda innbirðis venslum um\nhvað er háð hverju.\nMín uppáhalds repository eru AtRpm og livna auk þeirra sem eru á fedora.is.\nÞað kemur hinsvegar fyrir að það verður árekstrur milli t.d. AtRpm og livna þannig að vandamálið\ngetur verið hvaðan er best að taka pakka og hvernig er hægt að gera það með sem minnstri fyrirhöfn?\nÞegar heildaruppfærsla er keyrð er ágætt að byrja á því að setja\nenabled=0 á livna og atrpm í repo skrárnar fyrir atrpm og livna (/etc/yum.repo.d/livna.repo)\nKeyra svo uppfærslu með yum update.\nEf allt gengur þá er það bara gott en ef ekki heldur kemur melding um að eitthvað sé ekki til\nþá virkið atrpm og livna keyra svo\nyum update pakki-conflict\nDæmi xine hjá mér var með dependency á eitthvað sem var bara til hjá livna en\nnotaði library sem voru komin með update á extra.is\nÞá var nóg að keyra inn yum update xine með allt virkt.\nAnnað dæmi ipw2200 firmware var í conflict milli livna og atrpm báðir áttu pakka sem tilheyrðu þessu\nþannig að byrja á að gera livna óvirkt keyra svo yum update ipw2200-firmware\nÁstæðan fyrir því að ég vil ekki uppfæra frá livna og atrpm grunnkerfið er að þó þeir séu stundum\nfljótari með nýja pakka þá fer kerfið hreinlega í rugl með tímanum ef teknir eru pakkar úr þessari\nog hinni áttinni í meira magni en þarf t.d. að vera að taka kjarna þaðan finnst mér ekki sniðugt.\nskipunin\nrpm -qa\ngefur lista yfir alla pakka sem eru installaðir á vélina hjá manni.\nEf maður vill finna hvaða pakkar eru frá livna þá eru þeir með lvn í endingunni\natrpm pakkar eru með atfc endingu fyrir fedora.\nÞannig að það er til að gera auðvelt að finna þessa pakka.\nÞannig gefur\nrpm -qa | grep “\\.lvn”\nfaac-1.24-4.lvn5\nxine-lib-1.1.2-4.lvn5\nlibdvdread-0.9.4-4.lvn5\nfaad2-2.0-8.lvn5\nvcdimager-0.7.23-2.lvn5\na52dec-0.7.4-9.lvn5\nlibdvbpsi-0.1.5-2.lvn5\nvlc-0.8.4a-1.lvn5\nxine-0.99.4-7.lvn5\nkino-0.8.0-2.lvn5\nxorg-x11-drv-fglrx-8.27.10-3.lvn5\ngsm-1.0.10-10.lvn5\nlibdvdnav-0.1.10-2.lvn5\nHjá mér og þá veit ég hvað ég ætti að reyna að uppfæra frá livna.",
+    "url": "https://www.hugi.is/linux/greinar/438899/um-dependency-i-rpm-kerfum/",
+    "url_id": "438899",
+    "id": "3885130",
+    "replies": [
+        {
+            "user": "thrstn",
+            "user_id": "126",
+            "date": "2006-08-21 12:28:49",
+            "id": "3889446",
+            "reply_to_id": "3885130",
+            "text": "mér finnst alltaf best að nota bara\nemerge -atv\n:D"
+        },
+        {
+            "user": "JonGretar",
+            "user_id": "7636",
+            "date": "2006-08-22 12:02:13",
+            "id": "3894036",
+            "reply_to_id": "3889446",
+            "text": "Ég nota ports mest þessa daganna. :)"
+        },
+        {
+            "user": "Spa",
+            "user_id": "5037",
+            "date": "2006-09-04 13:49:20",
+            "id": "3944204",
+            "reply_to_id": "3889446",
+            "text": "Soun a CPU cycles.. ;-)"
+        },
+        {
+            "user": "LowProfile",
+            "user_id": "5402",
+            "date": "2006-09-24 12:33:48",
+            "id": "4020652",
+            "reply_to_id": "3885130",
+            "text": "mæli með að fólk sem er að nota yum í X umhverfinu nái sér í pakka sem heitir Yum Extender (hann er í standard fedora repo-unum, bara skrifa “yum install yumex” og hann bunar inn). Þetta er grafískur framendi á yum og getur komið sér vel þegar verið er að ná í marga pakka í einu eða vinna mikið í yum, því þetta gefur mjög góða yfirsýn yfir pakkana sem í boði eru."
+        }
+    ]
+}

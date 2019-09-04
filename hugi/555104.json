@@ -1,0 +1,69 @@
+{
+    "forum_title": "Vefsíðugerð",
+    "user": "NoFear",
+    "user_id": "44821",
+    "date": "2007-11-13 23:03:27",
+    "title": "PHP problem?",
+    "text": "Já. ég er með smá php vandamál. ég þarf að fá eitthvern sem er mjööööög góður í php.ini fælnum :)\nég get ekki notað log in fyrir php t.d.\nagust@tenging.com\nmsn : gusti@hetjurnar.com\nog svo skilaboð hér á huga :)",
+    "url": "https://www.hugi.is/vefsidugerd/korkar/555104/php-problem/",
+    "url_id": "555104",
+    "id": "5390492",
+    "replies": [
+        {
+            "user": "intenz",
+            "user_id": "127",
+            "date": "2007-11-14 11:37:15",
+            "id": "5391282",
+            "reply_to_id": "5390492",
+            "text": "Login hvað?"
+        },
+        {
+            "user": "bludgeon",
+            "user_id": "12828",
+            "date": "2007-11-15 16:46:36",
+            "id": "5395058",
+            "reply_to_id": "5390492",
+            "text": "Afhverju ekki reyna að útskýra hérna hvað er að?"
+        },
+        {
+            "user": "NoFear",
+            "user_id": "44821",
+            "date": "2007-11-15 17:30:31",
+            "id": "5395210",
+            "reply_to_id": "5395058",
+            "text": "Málið er bara að ég veit ekki hvað er að.\nveit bara að php er ekki að virka rétt."
+        },
+        {
+            "user": "frantic89",
+            "user_id": "6497",
+            "date": "2007-11-16 11:44:07",
+            "id": "5396913",
+            "reply_to_id": "5390492",
+            "text": "haha já góð útskýring…\nErtu þá að nota sessions í login kerfinu eða?"
+        },
+        {
+            "user": "NoFear",
+            "user_id": "44821",
+            "date": "2007-11-16 14:18:08",
+            "id": "5397271",
+            "reply_to_id": "5396913",
+            "text": "skom, ég bara veit það ekki. ég er bara með netþjón sem ég rek, og einn hönnuður sagði að það væri eitthvað að vefþjóninum, virkar ekki login sem virkaði á öðrum.\nþað er bara eitthvað að php stuðninginum á servernum,"
+        },
+        {
+            "user": "halldor89",
+            "user_id": "28057",
+            "date": "2007-11-16 15:38:23",
+            "id": "5397541",
+            "reply_to_id": "5397271",
+            "text": "Gætir prufað að búa til síðu með php_info() fyrir okkur svo að við gætum séð hvort eitthvað sé öðruvísi hjá þér en það á að vera?"
+        },
+        {
+            "user": "intenz",
+            "user_id": "127",
+            "date": "2007-11-16 18:09:45",
+            "id": "5397966",
+            "reply_to_id": "5390492",
+            "text": "Sendi ég þér ekki einkaskilaboð?"
+        }
+    ]
+}

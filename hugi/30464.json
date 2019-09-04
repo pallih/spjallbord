@@ -1,0 +1,61 @@
+{
+    "forum_title": "Vefsíðugerð",
+    "user": "arnorg",
+    "user_id": "459",
+    "date": "2001-06-07 03:46:24",
+    "title": "Grein um grein! Mysql - PHP",
+    "text": "Mig langaði bara að hripa niður nokkur orð um eina bestu grein sem að ég hef nokkurntímann lesið um PHP og MYSQL.\nHöfundurinn er Kevin Yank og tók hann 3 mán að fullgera alla þessa grein, eða ritgerð eins og mætti kalla þetta frekar. Í niðurlagi þessarar greinar segist hann hafa farið gagngert til Ástralíu til þess að vinna að henni og þakkar vinkonu sinni fyrir að leyfa honum að gista hjá sér og einnig systur hennar fyrir að hafa leyft honum að vinna á tölvunni hennar á meðan á dvöl stóð.\nEn allaveganna þá tekur hann allt fyrir, hvernig á að setja upp PHP og Mysql á windows eða Linux (bæða tekið fyrir), og MYSQL og svo fer hann í grunnatriði MYSQL hvernig á að gefa hverri hillu í töflu merkingu, hvernig á að setja í og taka úr MYSQL.\nÍ PHP fer hann í hvernig á að nota vefviðmót við að höndla gögn inn og úr gagnagrunni, notar þar á meðal INSERT, SELECT, UPDATE, DELETE o.fl.\nHann fer meirað segja í að útskýra hvernig þessi löngu url (index.php?nafn=21&nummer=345435&=dæmi séu eiginlega til, fer í hvernig þú getur forðast þau og einnig hvernig þú getur stytt þau, hann fer í hvernig á að búa til síðu sem að inniheldur marga flokka og hvernig á að búa til ADMIN viðmót á síðunni til að vinna með gögnin, hvernig á að búa til usera og fleir og fleira.\nSvo fer hann betur í mysql, hvernig að að gera backup og hvernig á að aðgangstýra notendum með þvi að vista password og user nafn í grunni.\nHann fer síðan í lokin í “advanced PHP” og þá fer hann í hvernig á að brjóta um langan kóða og einfalda hann (t.d. með include=sida.inc) og hvernig á að uppfæra skrá á server með PHP og fleira og fleira.\nMæli með hvort sem að þeir séu algerir byrjendur eða lengra komnir að kíkja á þetta þó að þeir séu með þetta allt á hreinu því hann útfærir hlutina mjög skemmtilega og sýnir hvernig á að temja sér betri vinnubrögð við vinnslu vefjar.\nP.S. Það er hægt að hoppa um greinina með því að fara í svona fellivalblað en það sýnir aðeins hvern flokk ekki síðu þannig að það geta verið allt að 10 síður sem að tilheyra undir hverjum “chapter” og er ekki hægt að sjá yfirlit yfir þær, maður verður alltaf að ýta á “next page”\nGreinin er hægt að sjá <a href=\"\nhttp://www.webmasterbase.com/article.php?aid=228&pid=0\n“>hérna</a>.\nÉg coperaði hana alla í word (ýtti á ”print article\") og þá sýndi word mér að þetta væru alls 115 blaðsíður af A4 þannig að endilega takiði ykkur góðan tíma í þetta :)",
+    "url": "https://www.hugi.is/vefsidugerd/greinar/30464/grein-um-grein-mysql-php/",
+    "url_id": "30464",
+    "id": "203563",
+    "replies": [
+        {
+            "user": "Czar",
+            "user_id": "1110",
+            "date": "2001-06-07 10:21:22",
+            "id": "203564",
+            "reply_to_id": "203563",
+            "text": "Ég prentaði þetta út í IE og þetta kom sem 99 síða, ansi nett, vona að þetta sé eitthvað gagnlegt :)"
+        },
+        {
+            "user": "Senninha",
+            "user_id": "5955",
+            "date": "2001-06-07 11:15:11",
+            "id": "203565",
+            "reply_to_id": "203563",
+            "text": "Þetta er frábær grein! Ein sú besta sem ég hef séð í þessu. Þarna er allt. Þetta er hreinlega spurning um að skipta greininni niður í 2-3 síður á mann og snara þessu yfir á íslensku!\nEr það ekki?"
+        },
+        {
+            "user": "arnorg",
+            "user_id": "459",
+            "date": "2001-06-07 15:05:54",
+            "id": "203566",
+            "reply_to_id": "203565",
+            "text": "jú ég var virkilega að spá í að þýða content mangement hlutann yfir á íslensku"
+        },
+        {
+            "user": "ask",
+            "user_id": "5847",
+            "date": "2001-06-07 16:05:02",
+            "id": "203567",
+            "reply_to_id": "203563",
+            "text": "ok maður er greinilega að fara cancela öllu um helgina ;) Þetta er alveg eitt stórt helgarverkefni."
+        },
+        {
+            "user": "arnorg",
+            "user_id": "459",
+            "date": "2001-06-07 22:37:56",
+            "id": "203568",
+            "reply_to_id": "203567",
+            "text": "Ég trúi því ekki að ég hafi aldrei heyrt um þessa síðu áður, ég sem er búinn að sanka að mér svona 100 síður sem að snerta allar mysql eða php, það eru fullt af greinum þarna sem að ég ætla að taka mér næstu daga í að lesa.\nKíkið endilega á Php og mysql umræðusvæðið, þegar fólki er svarað um eitthvað vandamál þá er því oftast bent spes á einhverjar greinar sem að fyrirfinnast á einhverjum síðum út í heimi sem að er miklu öflugri en greinarnar á devshed og weberdev og sollis síðu.\nSvo vita gaurarnir hvað þeir eru að tala um í þessum umræðum þannig að maður getur bara leitað af topici sem maður er sjálfur búinn að vandkvæðast með og lesið lausnirnar sem viðkomandi notanda er gefið."
+        },
+        {
+            "user": "mac2",
+            "user_id": "7487",
+            "date": "2001-06-09 15:34:58",
+            "id": "203569",
+            "reply_to_id": "203563",
+            "text": "Ég var byrjaður að lesa greinina hans áður en ég las þessa.  Ég vona að ég læri eitthvað á þessu."
+        }
+    ]
+}

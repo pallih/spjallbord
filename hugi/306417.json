@@ -1,0 +1,53 @@
+{
+    "forum_title": "Grafísk hönnun",
+    "user": "Dorno",
+    "user_id": "56944",
+    "date": "2005-07-01 00:57:26",
+    "title": "Tutorial, nokkurs konar auga. Einfalt",
+    "text": "Hérna er einfalt Tutorial sem ég skáldaði upp þegar ég var að leika mér í photoshop.\n1. gerið nýtt skjal og notiði hvítan og svartan sem liti. Þarf ekki að gera neinn background color ég hafði það 1024x768 s.s. resolutionið á skjanum minum\n2. Filter->render->clouds\n3. Filter->Blur->radial blur með þessar stillingar\nammount: 100\nBlur Method: Spin\nQuality: Best\n4. Filter->Distort->Twirl og þessar stillingar\n100% og Angle: 296°\n5. Ctrl-j\n6. Ef layerinn er læstur veljið þá nýja layerinn og þar sem fyrir ofan hann í neðra hægra horninu stendur: Lock, ýtið þá á hnapp sem eru örvar í allar höfuð áttir.\n7. Edit->Transform->Flip horizontal og setjið Blending Mode í Lighten\n8. Veljið liti fyrir sitthvorn layerinn með ctrl-u\nÞá er þetta komið. Ekki neitt meistara verk en ég er byrjandi. Endilega prófið þetta, þetta er mjög einfalt og næstum því alveg aulahelt. Og segið mér svo hvað ykkur finnst.",
+    "url": "https://www.hugi.is/grafik/greinar/306417/tutorial-nokkurs-konar-auga-einfalt/",
+    "url_id": "306417",
+    "id": "2255738",
+    "replies": [
+        {
+            "user": "Hlynkinn",
+            "user_id": "57800",
+            "date": "2005-07-01 12:49:43",
+            "id": "2282584",
+            "reply_to_id": "2255738",
+            "text": "Kjúl Tutorial Hérna er mín\nhttp://img137.imageshack.us/my.php?image=tutorialmynd1xe.jpg\nNotaði aðra litunar aðferð og einn effect ofan á…\nOg svo ætlar þú að senda annað tutorial í næstuviki"
+        },
+        {
+            "user": "Dorno",
+            "user_id": "56944",
+            "date": "2005-07-01 21:37:45",
+            "id": "2283922",
+            "reply_to_id": "2282584",
+            "text": "þessi mynd þín virkar ekki :( sést bara rétt efst af henni en mætti ég fá að vita hvaða effect þú notaðir?"
+        },
+        {
+            "user": "Myndarlegur",
+            "user_id": "34366",
+            "date": "2005-07-03 19:17:35",
+            "id": "2288065",
+            "reply_to_id": "2283922",
+            "text": "ég sé hana :S"
+        },
+        {
+            "user": "gourcuff",
+            "user_id": "39263",
+            "date": "2005-07-03 14:59:48",
+            "id": "2287375",
+            "reply_to_id": "2255738",
+            "text": "neii heyrðu MikeTee byrjaður að accepta greinar ? ;D"
+        },
+        {
+            "user": "Arthorn",
+            "user_id": "53242",
+            "date": "2007-02-10 21:01:09",
+            "id": "4577936",
+            "reply_to_id": "2255738",
+            "text": "en ég get ekki valið lit fyrir Background layerinn (upprunalega layerinn) því hann er læstur :S hvernig tek ég lásinn af?\nBætt við 10. febrúar 2007 -  21:04\nþetta er allt í lagi..:)"
+        }
+    ]
+}

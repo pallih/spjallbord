@@ -1,0 +1,37 @@
+{
+    "forum_title": "Windows",
+    "user": "stromp",
+    "user_id": "73589",
+    "date": "2010-12-21 06:53:54",
+    "title": "Vandamál með format...",
+    "text": "Ég er semsagt að fara að gera clean instal af windows 7 64bit á C: drifið mitt en fyrst ætlaði ég að formata 2 harða diska sem ég er einnig með. Einn þeirra er flakkari en hinn er inn í tölvunni. Vandamál kom upp þegar ég ætlaði að formata H: drifið (sem er diskurinn inn í tölvunni) með Disk manager og fékk ég messagið “Windows cannot format the system partition on this disk” þrátt fyrir að þetta er ekki diskurinn sem windows 7 kerfið er að keyra á akkurat núna. þennan disk nota ég eingöngu til að instala leikjum og forritum.\nÉg prufaði að googla smá en fann mjög takmarkaðar upplýsingar en reyndi þó sem ég fann en ákvað að spurja hér ef einhvern gæti vitað um mögulega lausn. Einnig vill ég benda á að mér fannst skrítið að H: drifið í Disk management er í disk “0” meðan C: er disk “1”, ætti það ekki að vera öfugt?\nFyrirgefið þennan “wall of text” en ég vona að þetta leysist fljótlega.\nBætt við 21. desember 2010 -  07:24\nTÓK SCREEN ENDILEGA KÍKJA\nhttp://img841.imageshack.us/f/sdawew.jpg/\nhttp://img151.imageshack.us/i/asdsof.jpg/\nFannst svoldið skritið þegar ég las betur að H: drifið sýnir “System” þegar windowsið er instalað á C: drifið?\nEr orðinn alveg ruglaður svo afsakið ef ég er að fara út í eitthvað rugl",
+    "url": "https://www.hugi.is/windows/korkar/717474/vandamal-med-format/",
+    "url_id": "717474",
+    "id": "7290607",
+    "replies": [
+        {
+            "user": "karason",
+            "user_id": "23642",
+            "date": "2010-12-21 10:39:04",
+            "id": "7290624",
+            "reply_to_id": "7290607",
+            "text": "Hæ.\nÞetta er svona í raun.\nH drifið og C drifið er sami harði diskurinn. Það er búið að víxla disksneiðunum. H drifið geymir skrárnar sem windosið notast til að strata windosinu og C drifið geymir windos skrárnar.\nTil að laga þetta þarftu að fara á\nhttp://www.bootdisk.com/bootdisk.htm\nog ná þér í t.d. Non-Windows Based Image Files og búa til startup disk og nota fdisk til að eyða disksneiðunum .\nÞú getur líka gert þetta með windows-disknum .\nKveðja."
+        },
+        {
+            "user": "stromp",
+            "user_id": "73589",
+            "date": "2010-12-21 11:19:32",
+            "id": "7290626",
+            "reply_to_id": "7290624",
+            "text": "Daginn og takk fyrir svarið :)\nEn það getur varla passað að H og C séu sami diskurinn þar sem ég er með 3 diska í tölvunni og einn utanáliggjandi sem þýðir að H er sér diskur og C er sér disku :/ En annars er þetta með formatið komið í lag, en er enn að velta þessu fyrir mér með diskana :)\nTakk"
+        },
+        {
+            "user": "karason",
+            "user_id": "23642",
+            "date": "2010-12-21 13:21:48",
+            "id": "7290655",
+            "reply_to_id": "7290626",
+            "text": "Það getur líka verið að þú hafir verið með windosið á drifinu sem er núna skráð sem H drif og að þú hafir sett windosið upp á disk númer 2 eða 3.\nÞar sem windosið er staðsett þá er sá diskur alltaf C .\nÉg myndi í þínum sporum aftengja diskana 2 sem þú notar undir gögn eða annað og setja svo windosið upp á þann disk sem er tengdur."
+        }
+    ]
+}

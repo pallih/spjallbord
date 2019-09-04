@@ -1,0 +1,45 @@
+{
+    "forum_title": "Quake og Doom",
+    "user": "Smegma",
+    "user_id": "33",
+    "date": "2001-07-13 20:29:26",
+    "title": "Urban terror 2.2 patch kominn - Skjálfti plástaður",
+    "text": "Gaman, gaman. :)\nUrban Terror útgáfa 2.2 er komin út, enda nokkrir leiðindaböggar í 2.1. Gaman er að sjá hve snöggt Silicon-Ice brugðust við í þetta skipti.\nÚrbætur:\n- Invisible player bug\n- Spawning without knife bug\n- Team DM spawns further apart now\n- cg_sfxVisibleItems no longer hides your own laser or silencer or medkits\n- Fixed bug that would cause pressing reload to not work sometimes\n- Shooting cancels out your respawn protection so make your first shot count\n- cg_autoRadio now functions as originally designed\n- Extra ammo now gives 3 more shells to the hk69\n- Safety measure added to ensure kills, deaths, and times are cleared after a survivor map change\n- sv_fps now properly capped to prevent crashes at startup\nSkrárnar eru svo hér:\n<a href=\"\nhttp://static.hugi.is/games/quake3/mods/ut/q3ut2_patch20to22.zip\n“>Þessi</a> uppfærir 2.0 í 2.2\n<a href=”\nhttp://static.hugi.is/games/quake3/mods/ut/q3ut2_patch21to22.zip\n\">Þessi</a> uppfærir 2.1 í 2.2\nAthugið að taka aðeins þá skrá sem þið þurfið, og unzippið í q3ut2 möppuna hjá ykkur.\nBúið er að uppfæra Skjalfti3.simnet.is:27965 í 2.2.",
+    "url": "https://www.hugi.is/id/greinar/34252/urban-terror-22-patch-kominn-skjalfti-plastadur/",
+    "url_id": "34252",
+    "id": "230959",
+    "replies": [
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2001-07-13 20:31:10",
+            "id": "230960",
+            "reply_to_id": "230959",
+            "text": "Gogo, silicon ice!!!\nkv,\nZyruZ"
+        },
+        {
+            "user": "PhDISitH",
+            "user_id": "7755",
+            "date": "2001-07-14 13:57:19",
+            "id": "230961",
+            "reply_to_id": "230959",
+            "text": "Gott Mál"
+        },
+        {
+            "user": "source",
+            "user_id": "950",
+            "date": "2001-07-16 18:21:32",
+            "id": "230962",
+            "reply_to_id": "230961",
+            "text": "hvar fær mar full útgáfuna"
+        },
+        {
+            "user": "Smegma",
+            "user_id": "33",
+            "date": "2001-07-17 15:25:37",
+            "id": "230963",
+            "reply_to_id": "230962",
+            "text": "2.0 full:\nhttp://static.hugi.is/games/quake3/mods/ut/q3ut2_win32.zip\nPatchar 2.0 í 2.2:\nhttp://static.hugi.is/games/quake3/mods/ut/q3ut2_patch20to22.zip\nPatchar 2.1 í 2.2:\nhttp://static.hugi.is/games/quake3/mods/ut/q3ut2_patch21to22.zip"
+        }
+    ]
+}

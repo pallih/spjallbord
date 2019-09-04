@@ -1,0 +1,77 @@
+{
+    "forum_title": "Linux",
+    "user": "Munkur",
+    "user_id": "923",
+    "date": "2002-09-10 09:56:29",
+    "title": "Asnalegheit!",
+    "text": "Eg vil byrja ad afsaka fyrir erlenda lyklabordid en eg er staddur i Svithjod nuna… Eg er med tvo vandamal sem eg aetladi ad athuga hvort einhver gaeti adstodad mig vid.\n1. Eg hef verid ad reyna ad installa SuSE Linux 7.2 sidustu daga, er med allan pakkann (7 diskar, source code og laeti)… Vandamalid er hins vegar ad eg er ad reyna ad keyra thetta sem dual boot, sem er ekki alveg ad takast, er lausnin ad installa LiLo? Windows heldur bara afram ad loadast strax i byrjun og skippar bara hinu partitioninu.\n2. Jaeja, hitt vandamalid er svo ad eg var ad skipta tolvunni minni ur Pentium yfir i AMD K7 og aetladi ad prufa ad installa Linux thar… somu vandraedi og i #1. en aftur a moti nuna vill SuSE allt i einu ekki thekkja skjainn minn, eg get valid hann ur lista en thegar thad kemur ad thvi ad testa tha gerist ekki neitt. Getur vandamalid verid ad eg er med inbyggt Geforce2 DDR kort sem skjakort?\nVinsamlegast hjalpid mer, thad er fremur mikilvaegt fyrir mig ad geta keyrt upp eitthvad Unix kerfi heima hja mer, og best vaeri ad keyra upp SuSE linux, eg veit ad thad er komid nyrra, en eg kann ekki ad downloada okeypis fra sidunni theirra (fataekur namsmadur) og nadi ad redda mer thessu a diskum.\nEn talandi um Unix styrikerfi, kannski ekki retti stadurinn til ad spyrja ad thessu, en hefur einhver herna prufad Solaris styrikerfid og lent i vandraedum med ad stundum getur madur ekki skrifad neitt i neinum vefvafra?\nMed fyrirfram thokkum\n-Munkur-",
+    "url": "https://www.hugi.is/linux/greinar/91624/asnalegheit/",
+    "url_id": "91624",
+    "id": "658460",
+    "replies": [
+        {
+            "user": "nifgraup",
+            "user_id": "9298",
+            "date": "2002-09-13 16:15:40",
+            "id": "658461",
+            "reply_to_id": "658460",
+            "text": "1. Já, málið er að setja inn lilo. Ef þú átt í vandræðum að komast inn í stýrikerfið eftir uppsetninguna er gott að búa til boot disk (hægt að gera í setup-inu í allflestum útgáfum), keyra upp linux og stilla þar lilo. Athugaðu líka hvort hægt sé að stilla lilo í installer-num.\n2. Ég er ekki alveg klár á þessu. Skjá stillingar skipta oft liltu máli, þú getur alveg eins valið einhverja basic stillingu og breytt síðar (/etc/X11/XF86Config-4).\nGangi þér vel með framhaldið"
+        },
+        {
+            "user": "Munkur",
+            "user_id": "923",
+            "date": "2002-09-14 12:02:25",
+            "id": "658462",
+            "reply_to_id": "658461",
+            "text": "Þakka þér kærlega fyrir, ég er reyndar að stefna á það að installa SuSE 8.0 núna. Þannig að það ætti að leysa nokkur vandamál. Ég var farinn að vera smeykur um að enginn gæti aðstoðað mig."
+        },
+        {
+            "user": "Hlynzi",
+            "user_id": "21838",
+            "date": "2002-09-15 17:42:19",
+            "id": "658463",
+            "reply_to_id": "658460",
+            "text": "Til að hindra það að windows loadist , skalltu halda báðum ctrl tökkunum niðri, þá færðu upp windows 98, startup menu. veldu bara dosið og skrifaðu boot locationið fyrir Linux ræsinn, (t.d. D:\\Lilo) og sjáðu hvort að það ræsist ekki þá annars er boot skráin fyrir windows =\nwin.com"
+        },
+        {
+            "user": "Spa",
+            "user_id": "5037",
+            "date": "2002-09-28 00:28:15",
+            "id": "658464",
+            "reply_to_id": "658460",
+            "text": "Ég held að solaris virki bara með sun vélbúnaði..  Annars er ég ekki viss, veit að það er hægt kerfi.  Hef samt enga reynslu af því.  Og talandi um Unix kerfi.  Þá mæli ég með Gentoo Linux(www.gentoo.org).  Alger snilld!"
+        },
+        {
+            "user": "karik",
+            "user_id": "23125",
+            "date": "2002-10-02 00:32:29",
+            "id": "658465",
+            "reply_to_id": "658460",
+            "text": "Ég þekki lítið til Solaris en þær vélar sem ég hef komist í tæri við eru jafn stabílar og skjaldbaka í eyðimörk. ég var á Ejs ráðstefnu á Loftleiðum þar sem Solarisvélar voru tengdar smartcarddokkum, þú hafir þitt kort og á því var allt, viðmótið var netsótt þegar vélin fékk kortið. jafnvel örin var á sínum stað. þetta væri frábært í stóru fyrirtæki, þú þarft ekki að logga þig út,bara að rífa kortið úr. svo daginn eftir eða ári seinna þá setur þú kortið í og “ BLING ” sníðmótið er alveg eins og þú skildir við það. Nasa og Allt goverment dæmið notar Sun og Solaris\nAnnars fynst mér Ejs ekki alveg vera að standa sig, en menn einsog Helgi Kristjáns og Syndri hjá ejs eru gull af mönnum."
+        },
+        {
+            "user": "Serbinn",
+            "user_id": "26568",
+            "date": "2002-10-15 21:00:57",
+            "id": "658466",
+            "reply_to_id": "658460",
+            "text": "Sæll. Varðandi Solaris kerfið, hvaða útgáfu ertu að nota? Ertu að nota þetta á x86 eða á SPARC?\nÞað eru yfirleitt svona “buggar” sem lagast við Patch'ana frá Sun á\nhttp://sunsolve.sun.com.\nReyndu að finna eithvað sem tengist OpenWindows.\nSemsagt patcha fyrir Openwindows á Solaris útgáfunni þinni. Hvaða keyboard layout ertu með á vélinni? Ef þig vantar Íslenska keyboard layout fyrir Solaris, þá hef ég það til boða.\nÞú hóar í mig.\nKv,\nSerbinn.\nserbinn@serbinn.com"
+        },
+        {
+            "user": "skaarjking",
+            "user_id": "26378",
+            "date": "2002-11-23 08:34:03",
+            "id": "658467",
+            "reply_to_id": "658460",
+            "text": "Password á hvert partition, afrit af partition svo mar getur fiktað eins og mar vill í stýrikerfinu án þess að þurfa að setja það upp aftur ef það hrynur, getur formatað nær öll skráarkerfi, góður stuðningur við nær öll linux og windows\nhttp://www.acronis.com/\ngetur fengið hann í Klikk ehf Síðumúla"
+        },
+        {
+            "user": "NonniG",
+            "user_id": "28754",
+            "date": "2002-12-01 18:41:11",
+            "id": "658468",
+            "reply_to_id": "658460",
+            "text": "Það er reyndar hægt að starta vélinni upp með bootdisk sem þú býrð til við uppsetningu á Linux. Þá áttu að geta mountað windows sneiðina þína og afritað hluta af ræsigeira linux sneiðarinnar þinnar sem skrá í rót C:\\. Þetta er bölvað vesen, gerði þetta og stuttu seinna spilltist skráin og þá setti ég bara upp grub. Hann virkar mjög vel en samt mæli ég með Lilo sem Bootloader því hann getur ræst Win mjög þægilega."
+        }
+    ]
+}

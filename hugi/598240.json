@@ -1,0 +1,69 @@
+{
+    "forum_title": "Vefsíðugerð",
+    "user": "intenz",
+    "user_id": "127",
+    "date": "2008-06-21 16:30:37",
+    "title": "PHP: Stytta URL/slóð",
+    "text": "Mér fannst svo pirrandi þegar fólk sendi inn slóðir sem voru gífurlega langar, þannig ég ákvað að búa til script sem stytti þær. Þetta er nú eflaust ekki besta leiðin til að gera þetta, en ég gerði þetta í flýti kl 2 um nótt, og þar sem þetta áhugamál er nú ekki það virkasta þá ákvað ég að senda þetta hingað inn.\n<?php\n# Sérútbúið fall sem styttir URL/slóðir\nfunction createURL( $aUrl )\n{\n\t$url = $aUrl[1];\n\t# Ef / er á endanum á slóðinni, fjarlægjum við það\n\tif( substr( $url, -1 ) == '/' )\n\t\t$url = substr( $url, 0, -1 );\n\t\n\t# Ef URL er yfir 50 stafi\n\tif( strlen( $url ) > 50 )\n\t{\n\t\t# Bútum URL niður\n\t\t$array_url = parse_url( $url );\n\t\t\n\t\t# Athugum hvort PATH í bútunum sé með fleiri en eitt skástrik (ein eða fleiri möppur)\n\t\tif( substr_count( $array_url['path'], '/' ) > 1 )\n\t\t{\n\t\t\t# Náum í skráarheitið úr PATH\n\t\t\t$array_url['file'] = substr( $array_url['path'], strrpos( $array_url['path'], '/' ) + 1 );\n\t\t\t# Fjarlægjum skráarheitið úr PATH\n\t\t\t$array_url['path'] = substr( $array_url['path'], 0, strrpos( $array_url['path'], '/' ) + 1 );\n\t\t\t# Fjarlægjum PATH úr slóðinni og setjum þrjá punkta í staðinn\n\t\t\t$new_url = str_replace( $array_url['path'], '/.../', $url );\n\t\t}\n\t\t# PATH er bara með eitt skástrik (engar möppur)\n\t\telse\n\t\t\t# Athugum hvort skráarheitið sé lengra en 5 stafir, annars setjum við þrjá punkta\n\t\t\t$new_url = str_replace( $array_url['path'], substr( $array_url['path'], 0, ( strlen( $array_url['path'] ) >= 6 ) ? 6 : 1 ) . '...', $url );\n\t}\n\t# Skilum breytta URL út\n\treturn '<a href=\"' . $url . '\">' . $new_url . '</a>';\n}\n# Prufum þetta...\n$foo = 'Einhverjar slóðir hérna með [ url ] og [ /url ] utan um';\n# Perl Regular Expression sem athugar allt sem er innan [url] og [/url] og afhendir það createURL() fallinu hér fyrir ofan\n$string = preg_replace_callback( '#\\[url\\](.+?)\\[/url\\]#i', 'createURL', $foo );\n# Prentum slóðirnar út\necho $string;\n?>",
+    "url": "https://www.hugi.is/vefsidugerd/greinar/598240/php-stytta-urlslod/",
+    "url_id": "598240",
+    "id": "5938251",
+    "replies": [
+        {
+            "user": "kotturitre",
+            "user_id": "70257",
+            "date": "2008-06-21 17:09:46",
+            "id": "5939711",
+            "reply_to_id": "5938251",
+            "text": "http://url.is\neða\nhttp://tinyurl.com\n;) gera þetta líka á einstaklega þægilegann máta."
+        },
+        {
+            "user": "intenz",
+            "user_id": "127",
+            "date": "2008-06-21 19:26:22",
+            "id": "5940033",
+            "reply_to_id": "5939711",
+            "text": "Já já, en þetta er til að setja á síðuna sína, þannig að þegar fólk commentar og setur geðveikt langa slóð með styttist hún og nær ekki yfir alla DIV layera á síðunni. :)"
+        },
+        {
+            "user": "kotturitre",
+            "user_id": "70257",
+            "date": "2008-06-21 19:31:41",
+            "id": "5940043",
+            "reply_to_id": "5940033",
+            "text": "Þá kemur þetta að góðum notum.\n#my_div {\n   overflow: auto;\n}\nBætt við 21. júní 2008 -  19:35\nSkil samt hvað þú ert að fara hehe…"
+        },
+        {
+            "user": "egth",
+            "user_id": "31699",
+            "date": "2010-11-20 00:51:35",
+            "id": "7273711",
+            "reply_to_id": "5940043",
+            "text": "Já, ég er eftirá en ég varð að svara þessu.\nNEI NEI NEI NEI NEI, ÞÚ NOTAR EKKI CSS TIL AÐ FELA CONTENT VILJANDI\nNotar að sjálfsögðu php til að stytta slóðir áður en þær eru birtar í viewinu. Svo ef það kemur upp að eitthvað af content er óvart of stórt fyrir elementið þá kemur overflow; að notum."
+        },
+        {
+            "user": "intenz",
+            "user_id": "127",
+            "date": "2008-06-21 20:15:30",
+            "id": "5940117",
+            "reply_to_id": "5938251",
+            "text": "Ég sé eina rosalega villu í þessu.\nSetja fyrir ofan\nif( strlen( $url ) > 50 )\nþetta…\n$new_url = $url;\nAnnars ef $url er ekki yfir 50 stafi, skilast út auður linkur. En við fyrirbyggjum það með því að skilgreina $new_url á undan IF klausunni."
+        },
+        {
+            "user": "BiGBeeR",
+            "user_id": "3738",
+            "date": "2008-08-17 19:33:12",
+            "id": "6062109",
+            "reply_to_id": "5938251",
+            "text": "<?php\n$url = \"http://www.hugi.is/vefsidugerd/articles.php?page=reply&parentId=5938251\";\nif (strlen($url) > 35) {\n    $url = substr_replace($url, \"...\", 20, -15);\n}\necho $url; // http://www.hugi.is/v...arentId=5938251"
+        },
+        {
+            "user": "intenz",
+            "user_id": "127",
+            "date": "2008-08-18 03:26:16",
+            "id": "6063190",
+            "reply_to_id": "6062109",
+            "text": "Sniðugt fall. :)"
+        }
+    ]
+}

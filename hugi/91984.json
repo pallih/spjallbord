@@ -1,0 +1,125 @@
+{
+    "forum_title": "Vélbúnaður",
+    "user": "Fart",
+    "user_id": "10599",
+    "date": "2002-09-12 09:44:49",
+    "title": "NV28 og NV30 ekki væntanlegir fyrr en á Q1 2003",
+    "text": "Mikið hefur verið spáð og spekúlerað í því hvenær Nvidia kemur út með nýjustu skjáraðlana sína, þ.e. NV28 og NV30 (GF4 TI er NV25).\nÁður var Nvidia búið að lofa þeim á markað fyrir Jólavertíðina, en það mun væntanlega ekki nást.  Hvort Nvida er ekki tilbúið með kubbinn, eða hvort aðrir framleiðsluþættir tefja fyrir framleiðslu NV30 skal látið liggja á milli hluta.  Hinsvega bíða allir spenntir eftir þessum nýju GPU´s, en á meðan selst GF4 TI og ATI 9700pro ágætlega.\nEinnig verður spennandi að sjá hvort margir leikjaframleiðendur munu taka nýja Cg “forritunarkerfinu” sem Nvidia hefur hannað.\nÞað verður mjög spennandi síðan að sjá hvernig NV30 kemur út í samanburði við ATI 9700 Pro, og hvernig ATI kemur til með að standa sig í Driveramálum.\nHér kemur enska útgáfan slatta stytt.\n“In a research note on Wednesday, Credit Suisse First Boston said it expects Taiwan Semiconductor Manufacturing Co. Ltd. (Taiwan:2330.TW - News) to ramp shipments of Nvidia's new NV28 and NV30 chips in the first quarter.”\nFart\nÉg er mikill Nvidia maður en er samt búin að panta ATI 9700 pro….",
+    "url": "https://www.hugi.is/velbunadur/greinar/91984/nv28-og-nv30-ekki-vaentanlegir-fyrr-en-a-q1-2003/",
+    "url_id": "91984",
+    "id": "661307",
+    "replies": [
+        {
+            "user": "VirUzzz",
+            "user_id": "4285",
+            "date": "2002-09-12 13:03:49",
+            "id": "661308",
+            "reply_to_id": "661307",
+            "text": "Er hægt að kaupa ATI á Íslandi ?\nKveðja JeZas"
+        },
+        {
+            "user": "Fart",
+            "user_id": "10599",
+            "date": "2002-09-12 13:15:36",
+            "id": "661309",
+            "reply_to_id": "661308",
+            "text": "Ég held barasta ekki.. ekki enn allavega.\nÉg kaupi mitt úti, en væri helst til í að versla allt mitt dót í Hugveri útaf þjónustinni."
+        },
+        {
+            "user": "Castrate",
+            "user_id": "12936",
+            "date": "2002-09-12 14:25:42",
+            "id": "661310",
+            "reply_to_id": "661309",
+            "text": "Veit eikkur hvað NV30 kortið á að heita? Er það kannski bara Geforce 5 eða koma þeir með eikkað nýtt nafn?"
+        },
+        {
+            "user": "Czar",
+            "user_id": "1110",
+            "date": "2002-09-12 15:00:21",
+            "id": "661311",
+            "reply_to_id": "661310",
+            "text": "það mun heita eitthvað annað því það byggir á öðrum grunni en geforce línan."
+        },
+        {
+            "user": "Fart",
+            "user_id": "10599",
+            "date": "2002-09-12 15:12:14",
+            "id": "661312",
+            "reply_to_id": "661311",
+            "text": "G-Power var hugmynd sem ég las einhverstaðar, finnst hún jafnvel betri en GF5 sem er soldið lame (en í línu við fyrri framleiðslu).\nÉg held að þeir haldi sig við Geforce nafnið, enda er það bara alveg ágætt.. það er síðan spurning um hverjir aukastafirnir verða.\nTI 8000?\nTI 9000?\nTI 10000?\nGeforce 4 er basically NV25 þannig að NV30 gæti alveg haldið GF nafninu."
+        },
+        {
+            "user": "Czar",
+            "user_id": "1110",
+            "date": "2002-09-12 16:00:15",
+            "id": "661313",
+            "reply_to_id": "661312",
+            "text": "Geforce4 byggir á grunni sem var byrjað með í TNT 1, og hefur bara verið endurbættur mjög mikið síðan þá.\nNV30 er aftur á móti kort sem var byggt upp frá grunni og þessvegna verður því gefið nýtt nafn, þetta hefur nvidia sagt sjálft."
+        },
+        {
+            "user": "demonz",
+            "user_id": "3238",
+            "date": "2002-09-17 00:36:22",
+            "id": "661314",
+            "reply_to_id": "661312",
+            "text": "Gay-Power you say…sounds good! ;)"
+        },
+        {
+            "user": "DanniV8",
+            "user_id": "15685",
+            "date": "2002-09-12 14:54:38",
+            "id": "661315",
+            "reply_to_id": "661307",
+            "text": "Hvað þýðir þetta ?? GeForce 5 ??? uber góð kort ?? kannski 512 mb ?? Eða bara alveg það sama og GF4 bara nýrra, með annað nafn og dýrara ?\nBara smá forvitni :)"
+        },
+        {
+            "user": "Avatar",
+            "user_id": "157",
+            "date": "2002-09-12 15:06:07",
+            "id": "661316",
+            "reply_to_id": "661315",
+            "text": "Það verður ekkert í líkingu við Geforce 4. Þetta er alveg splunkunýtt, ný tækni og alles.. líklegast er að það komi til með að heita eitthvað tengt CineFX sem er nýji kjarninn hjá þeim. Cg sem er nýja HLSL (High Level Shading Language) er í raun einföldun á forritun fyrir pixel og vertex shadera. Per pixel shading eru t.d effectarnir sem komu almennilega með Geforce 3 og 4 Ti kortunum, og eru t.d notaðir í að gera speglanir á vatnið í Morrowind (þeir sem eiga G3 eða G4 Ti vita hvað ég á við). Cg verður mjög líklega málið sem verður notað sem HLSL í OpenGL 2.0 og verðar þá hluti af OpenGL staðlinum einnig sem það kemur eitthvað við sögu í DirectX 9.0, og vitað er að Pixel Shaderar verða notaðir grimmt í nánustu framtíð til að gera alla grafík geggjaða.\nGott mál hjá NVIDIA og vona ég svo innilega að ATI geri sína útgáfu af Cg compilernum til að einfalda og flýta fyrir þróun."
+        },
+        {
+            "user": "Hlynzi",
+            "user_id": "21838",
+            "date": "2002-09-12 16:57:10",
+            "id": "661317",
+            "reply_to_id": "661315",
+            "text": "Kláraðu að lesa greinina NV30 er ekki komið, bestu kortin í dag eru 128 md (ddr-ram) , sem heita geforce 4 Ti4600."
+        },
+        {
+            "user": "Czar",
+            "user_id": "1110",
+            "date": "2002-09-12 17:12:45",
+            "id": "661318",
+            "reply_to_id": "661317",
+            "text": "nei hvar hefur þú verið?\nbestu kortin í dag heita Radeon 9700 Pro"
+        },
+        {
+            "user": "Hlynzi",
+            "user_id": "21838",
+            "date": "2002-09-12 19:21:31",
+            "id": "661319",
+            "reply_to_id": "661318",
+            "text": "Smá vandamál heima hjá mér með server og tilheyrandi, og síðan hef ég verið að bardúsast í hátalarasmíði á flötum hátalara."
+        },
+        {
+            "user": "Sorcerer1",
+            "user_id": "16535",
+            "date": "2002-09-12 20:05:01",
+            "id": "661320",
+            "reply_to_id": "661307",
+            "text": "hvað haldiði að svona skrímsli kosti þegar það kemur út?"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-09-24 19:31:15",
+            "id": "661321",
+            "reply_to_id": "661307",
+            "text": "Hvernig væri nú ef þeir myndu nú koma með eitthvað gott og frumlegt. Ekki eitthvað G-Force MegaUltra SuperTitanium 2000000.\nEins og Matrox til dæmis. Parhelia er helvíti flott nafn. (Þó svo að Millennium sé það ekki)"
+        }
+    ]
+}

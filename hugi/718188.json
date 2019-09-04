@@ -1,0 +1,93 @@
+{
+    "forum_title": "Forritun",
+    "user": "SuprDewd",
+    "user_id": "68810",
+    "date": "2011-01-03 17:49:42",
+    "title": "Hjálp við forritunardæmi",
+    "text": "Er að reyna að leysa smá dæmi:\nQuestion :\nSuperstition holds Friday the 13th (a Friday that occurs on the 13th of a month) to be a day of good or bad luck . Find out the months in which Friday the 13th occurs in the year 34567 A.D ?\nAnswer the month(s) in order without any blankspaces.\nSemsagt hvaða mánuðir á árinu -34567 hafa föstudaginn þrettánda?\nÉg var kominn með forrit sem skilaði mánuðunum 9 og 12 en það var ekki rétt.\nForritið.\nSjáið þið eitthverja villu í mínu forriti eða getið þið komið með lausn sem virkar?",
+    "url": "https://www.hugi.is/forritun/korkar/718188/hjalp-vid-forritunardaemi/",
+    "url_id": "718188",
+    "id": "7296420",
+    "replies": [
+        {
+            "user": "SuprDewd",
+            "user_id": "68810",
+            "date": "2011-01-03 18:00:38",
+            "id": "7296428",
+            "reply_to_id": "7296420",
+            "text": "Fattaði að A.D. er ekki sama og B.C.\nÆtla að laga það og prufa aftur."
+        },
+        {
+            "user": "SuprDewd",
+            "user_id": "68810",
+            "date": "2011-01-03 18:17:16",
+            "id": "7296439",
+            "reply_to_id": "7296420",
+            "text": "Búinn að laga þetta en fæ samt vitlaust svar.\nRéttara forrit."
+        },
+        {
+            "user": "SuprDewd",
+            "user_id": "68810",
+            "date": "2011-01-03 18:23:22",
+            "id": "7296441",
+            "reply_to_id": "7296420",
+            "text": "Fann\nþetta á Yahoo answers\nog samkvæmt því er forritið rétt.\nPhuck…"
+        },
+        {
+            "user": "SuprDewd",
+            "user_id": "68810",
+            "date": "2011-01-03 18:25:42",
+            "id": "7296445",
+            "reply_to_id": "7296420",
+            "text": "FOTT THE WHUCK!?!?!\nForritið var rétt allan tímann.\nÉg svaraði 2311 en rétta svarið var: “februarymarchnovember”.\nAsnalegt…"
+        },
+        {
+            "user": "orrit",
+            "user_id": "26330",
+            "date": "2011-01-06 01:18:32",
+            "id": "7297566",
+            "reply_to_id": "7296420",
+            "text": "Það er ekkert voðalega pent að renna svona í gegnum öll ár í while lykkju.\nþú getur fundið fyrsta vikudaginn í ári svona (java kóði):\nprivate static int FirstDayOfYear(int year)\n{\n\t  int offset = 0; // initial conditions\n\t  int leapyears = (year/4 - year/100 + year/400 ); // number of previous leap years\n\t  if (IsLeapYear(year)) leapyears--; //subtract current year's leap day\n\t  int weekday = (year + leapyears + offset) % 7;\n\t  return weekday;\n}\nAf kóðanum þínum að dæma virðistu vita að ef tiltekinn mánaðardagur er á mánudegi ár x, þá er hann á þriðjudegi ár x+1, o.s.fr, nema hlaupaársdagur komi þarna á milli.\nMaður getur þá einfaldlega reiknað út fjölda hlaupársdaga og bætt þeim við\n.\n(offset breytan er í raun óþörf en ég hef hana með því að það þarf að taka með í reikninginn offsetið á vikudögunum í dagatalinu, (líka ef maður skilgreinir mánudag sem dag 0 frekar en Sunnudag þá þarf offset breytan annað gildi)).\nAnnað sem maður getur gert er að reikna út númer hvað dagurinn í árinu er.\npublic static final short[] monthdays = {0, 31, 59, 90, 120, 151, 181, 212, 243, 273, 304, 334};\nprivate static int NumberOfDayInYear(int month, int day, boolean leap)\n{\n\t  int daynumber = monthdays[month] + day;\n\t  if (leap && month > 1)\n\t\tdaynumber++;\n \t return daynumber;\n}\nþarna nota ég array með föstum þar sem ég er búinn að leggja saman fjölda daga í mánuðum sem koma á undan. Þá sleppur maður við að vera með stórar switch-case segðir.\nMeð þessum föllum er síðan frekar einfalt að finna vikudag dagsetningar:\nprivate static int FindWeekday(int year, int month, int day)\n{\n\t int first_day = FirstDayOfYear(year);\n\t int day_number = NumberOfDayInYear(month, day, IsLeapYear(year));\n\t return ((day_number-1) + first_day) % 7; \n}\n(ég tel mánuði frá 0 (janúar) upp í 11 (desember))."
+        },
+        {
+            "user": "SuprDewd",
+            "user_id": "68810",
+            "date": "2011-01-07 22:21:27",
+            "id": "7298364",
+            "reply_to_id": "7297566",
+            "text": "Ég var búinn að ná þessu :)"
+        },
+        {
+            "user": "orrit",
+            "user_id": "26330",
+            "date": "2011-01-09 02:09:52",
+            "id": "7298853",
+            "reply_to_id": "7298364",
+            "text": "Ég sá það.\nMér datt samt í hug að þetta þér eða öðrum þætti þetta hugsanlega fróðlegt engu að síður.\nMaður hefur oft meiri áhuga á aðferð sem er notuð til að finna svar, heldur en svarinu sjálfu.\nÞú hafðir notað aðferð sem tók O(n), meðan ég gat sýnt aðferð sem tók O(1) og forritarar eru oft mjög áhugasamir um að nota O(1) aðferðir frekar en O(n) aðferðir."
+        },
+        {
+            "user": "flang3r",
+            "user_id": "16647",
+            "date": "2011-01-26 14:06:54",
+            "id": "7305964",
+            "reply_to_id": "7298853",
+            "text": "Geturðu sagt mér hvernig þú reiknar hvað aðferðin tekur langan tíma ?"
+        },
+        {
+            "user": "orrit",
+            "user_id": "26330",
+            "date": "2011-02-08 00:28:16",
+            "id": "7310774",
+            "reply_to_id": "7305964",
+            "text": "Ég var eiginlega ekki að reikna hvað aðferð tekur langan tíma heldur að finna flækjustigið.\nMaður finnur oftast flækjustig bara með því að rýna í kóðann.\nfyrri kóðinn var með for (eða while, ég nenni ekki að fletta því upp) lykkju sem taldi í gegnum alla dagana en kóðinn sem ég sýndi var ekki með það, eða neitt sambærilegt.\nÞannig sá ég að fyrri kóðinn myndi taka tíma sem væri í hlutfallslegu samhengi við fjölda daga sem þurfti að telja og var því það kallast flækjustigið O(n) þar sem n er fjöldi daga sem þarf að telja í gegnum (það er misjafnt hvað\nn\ner, en oftast hefur það eitthvað með stærðina á inntakinu að gera), en kóðinn sem ég sýndi var ekki með neina lykkju og myndi því taka fastan tima að keyra og var því það sem kallast O(1). (sem þýðir að kóðinn er (svo gott sem) alltaf jafn lengi að keyra og keyrslutíminn óháður stærðinni á inntakinu).\nÍ stuttu og einfölduðu máli er maður eiginlega bara að kasta tölu á hversu oft þarf að fara í gegnum lykkjur (stundum er það misjafnt, og þá gefur maður stundum upp versta tilvik og besta tilvik eða meðal tilvik eða dæmigert tilvik).\nÞessi grein er frekar einföld og með ágætis dæmum:\nhttp://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/"
+        },
+        {
+            "user": "SuprDewd",
+            "user_id": "68810",
+            "date": "2011-02-05 23:46:39",
+            "id": "7310079",
+            "reply_to_id": "7298853",
+            "text": "Ég tók áskoruninni og notaði Doomsday algorithmann hans John Conways (sá sem bjó til The Game Of Life).\nÞá lítur þetta svona út:\nconst int year = 34567;\n            int c = year / 100 + 1,\n                y = year - (year / 100) * 100,\n                a = (((5 * c + ((c - 1) / 4)) % 7) + 4) % 7,\n                d = (((y / 12) + (y % 12) + ((y % 12) / 4)) + a) % 7,\n                i = 0;\n            var m = new[] { \"january\",   \"february\", \"march\",    \"april\",\n                            \"may\",       \"june\",     \"july\",     \"august\",\n                            \"september\", \"october\",  \"november\", \"december\" };\n            bool l = year % 400 == 0 || (year % 100 != 0 && year % 4 == 0);\n            var ds = new[] { l ? 4 : 3, l ? 29 : 28, 7, 4, 9, 6, 11, 8, 5, 10, 7, 12 };\n            Console.WriteLine(m.Aggregate(\"\", (ac, n) => ac + ((ds[i++] - d + 13) % 7 == 0 ? n : \"\")));"
+        }
+    ]
+}

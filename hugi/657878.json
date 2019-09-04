@@ -1,0 +1,29 @@
+{
+    "forum_title": "Forritun",
+    "user": "HomoLuminous",
+    "user_id": "34866",
+    "date": "2009-05-24 14:09:04",
+    "title": "Open Source IRC Bot - femtobot - Áhuga?",
+    "text": "Ég og allavega einn annar erum að fara að byrja okkar fyrsta open source project, sem verður IRC botti forritaður í C fyrir GNU/Linux/Unix sem mun styðja “modules” eða “plugins”.\nÉg hef forritað C í nokkur ár sem hobby, og hinn hefur gert það í einhvern tíma allavega, og við ætlum að nýta þetta til þess að fá meiri þekkingu í bæði linux forritun og bara open source verkefnum yfir höfuð. Læra á svn, bug tracking og allt þetta.\nAllir eru velkomnir, svo lengi sem þið hafið aðgang að Linux kerfi og kunnið C upp að því marki þar sem þið skiljið hugtökin: network programming, multi-threaded programming, shared libraries.\nSíðan er\nhttp://femtobot.googlecode.com.\nÉg er að skrifa upprunalegu specifications fyrir bottan eins og er, þannig ef þið farið inn á þetta strax verður ekkert nema forsíðan og drasl kóði sem var aðallega prótótýpa. Þegar ég hef skrifað wiki-ið og séð hvort einhverjir fleiri nenni að vera með byrjum við að forrita, þaes. ef það er ekkert fleira að ræða í sambandi við hönnunina.",
+    "url": "https://www.hugi.is/forritun/korkar/657878/open-source-irc-bot-femtobot-ahuga/",
+    "url_id": "657878",
+    "id": "6701045",
+    "replies": [
+        {
+            "user": "Polarina",
+            "user_id": "64228",
+            "date": "2009-05-27 00:01:29",
+            "id": "6706377",
+            "reply_to_id": "6701045",
+            "text": "Ég myndi hafa áhuga á að aðstoða ykkur."
+        },
+        {
+            "user": "HomoLuminous",
+            "user_id": "34866",
+            "date": "2009-05-27 00:40:10",
+            "id": "6706441",
+            "reply_to_id": "6706377",
+            "text": "Frábært mál. Við erum hins vegar orðnir ca. 5 nú þegar sem ‘vilja’ vinna við þetta (Þeir eru frá öllum heimshornum, og þetta verður þess vegna allt á ensku).\nÉg sit og vinn að bottanum eins og er, en þú getur bara smellt þér á mailing listann og þegar það er komið aðeins meiri kóði mun ég byrja að posta alls konar “Issues” á issue trackerinn, skráð undir “Type-Enhancement”, þar sem ég mun lýsa því sem vantar að bæta við.\nEins og er þá er þetta allt of lítill kóði til þess að deila upp, en þetta stækkar ört. Ca. 400 línur eins og er."
+        }
+    ]
+}

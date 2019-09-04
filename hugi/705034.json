@@ -1,0 +1,85 @@
+{
+    "forum_title": "Hljóðvinnsla",
+    "user": "asgeirthorr",
+    "user_id": "62347",
+    "date": "2010-07-05 12:15:44",
+    "title": "pro tools vandræði",
+    "text": "ég lendi altaf í því  þegar eg er að taka upp að eg heiri hljoðið eftir að eg spila það..semsagt spila einhvað\na gitar og ég heiri það hálfri secundu eftir að eg spila það.\njá oog eg er með pro tools 8  á windows",
+    "url": "https://www.hugi.is/hljodvinnsla/korkar/705034/pro-tools-vandraedi/",
+    "url_id": "705034",
+    "id": "7196278",
+    "replies": [
+        {
+            "user": "vanir",
+            "user_id": "37078",
+            "date": "2010-07-05 13:32:47",
+            "id": "7196314",
+            "reply_to_id": "7196278",
+            "text": "lagar þetta með þvi að velja Options -> Low latancy monitoring eða e-ð álíka :)"
+        },
+        {
+            "user": "asgeirthorr",
+            "user_id": "62347",
+            "date": "2010-07-05 14:42:41",
+            "id": "7196348",
+            "reply_to_id": "7196314",
+            "text": "finn ekkert i options sem heitir það  :S:/"
+        },
+        {
+            "user": "vanir",
+            "user_id": "37078",
+            "date": "2010-07-05 14:54:00",
+            "id": "7196358",
+            "reply_to_id": "7196348",
+            "text": "options menuið…"
+        },
+        {
+            "user": "asgeirthorr",
+            "user_id": "62347",
+            "date": "2010-07-05 15:09:04",
+            "id": "7196366",
+            "reply_to_id": "7196358",
+            "text": "okei er eekkki að finna það sem þú ert að tala um og eijinlega ekki að fata það kann ekekrt á pro tools:/ .. hvað fer eg i og hvar er það  ?:D"
+        },
+        {
+            "user": "mergur",
+            "user_id": "40577",
+            "date": "2010-07-10 23:53:03",
+            "id": "7199215",
+            "reply_to_id": "7196366",
+            "text": "ertu með usb hljóðkort/M-box?"
+        },
+        {
+            "user": "asgeirthorr",
+            "user_id": "62347",
+            "date": "2010-07-11 00:46:50",
+            "id": "7199251",
+            "reply_to_id": "7199215",
+            "text": "er með mbox 2 mini"
+        },
+        {
+            "user": "LesPaulStd91",
+            "user_id": "76538",
+            "date": "2010-07-13 09:32:28",
+            "id": "7200503",
+            "reply_to_id": "7199251",
+            "text": "Þú verður að “mute”-a rásina sem þú ert að taka uppá og svo með Mix-takkanum framan á Mboxinu geturðu stillt balansinn (mixið) á milli þess sem kemur frá ProTools og þess sem þú ert að spila.\nGallinn við þetta er að þú heyrir sándið alveg dry, þannig að ég þú ert með magnara í ProTools heyrirðu ekki sándið fyrr en í playbakki.  Þetta er gallinn við USB-interface-in.\nÉg þú ert hinsvegar með mjög spræka tölvu ættirðu að geta náð Buffernum niðrí 64 sömpl án þess að afspilunin fari að hökta og þá ætti þetta latency að vera þolanlegt (þ.e. nokkrar millisec, ekki hálf sekúnda)\nkv\nLPS91"
+        },
+        {
+            "user": "asgeirthorr",
+            "user_id": "62347",
+            "date": "2010-07-13 12:07:37",
+            "id": "7200544",
+            "reply_to_id": "7200503",
+            "text": "takk :D:D"
+        },
+        {
+            "user": "surfer45",
+            "user_id": "57315",
+            "date": "2010-07-13 12:34:41",
+            "id": "7200551",
+            "reply_to_id": "7200544",
+            "text": "Farðu líka í setup->playback engine-> og lækkaðu H/W bufferinn niður í 128 á meðan þú tekur upp."
+        }
+    ]
+}

@@ -1,0 +1,1013 @@
+{
+    "forum_title": "Linux",
+    "user": "skaarjking",
+    "user_id": "26378",
+    "date": "2003-03-09 22:38:16",
+    "title": "Linux vs Windows - NÁKVÆMAR",
+    "text": "Með þessum greinaskrifum ætla ég ekki að móðga neinn, bara að segja staðreyndir.\n- Allir sem hafa ekki prófað nýjustu vörur Microsoft og allir sem hafa ekki prófað linux síðan 1999 eða eitthvað álíka skulu algjörlega\ndraga sig úr umræðunni þar sem þið þurfið að vita eitthvað um þær vörur sem þið gagnrínið.\nDæmi um menn eins og ykkur væri  ( Tengist ekki greininni ) : Það er búið að vera að byggja sundlaug  í 1 ár og þið gerið ekkert\nannað en að bölva verkamönnunum, síðan farið þið í burtu í sumarfrí og byggingin er kláruð. Þegar þið komið heim þá kíkið þið ekki\ná sundlaugina heldur farið beint til bæjarstjórans að kvarta yfir því að þeir klári ekki byggingu sem þeir í raun eru búnnir að byggja svo\nhaldið öllu rugli í burtu.\nAllt .net og Windows Server 2003 rúlar enda er þetta stærsta verkefni sögunnar í þessum málum hvað fjölda forritara varðar.\nVissulega er Linux gott í dag fyrir server markaðinn en með þessari þróun munu þeir standa einir eftir nokkur ár þar sem commercial\nhugbúnaður þróast mun hraðar. Ef þið viljið sjá stöðugan server kíkið á microsoft.com hann keyrir á server 2003 sem er ekki\neinusinni fullkláraður.\n- Reynsla mín af Linux sem heimiliskerfi\nUppsettningin af RedHat 8 og Mandrake 9.1 er mjög einföld, að vissu marki þó maður þurfi að skipta endalaust um CD.\nFáranlega mikið er um óþarfa partition í LINUX og þau eiga að vera svo advanced, bara fáranlegt því með of mörgum partition þá\nnýtist diskurinn þinn mjög illa þar sem forritin geta ekki skipst yfir á laus partition né heldur skiptir myndin sem þú ert með sér á öll\nlaus partition. Afhverju öll þessi partiton? Til að veita aukið security já að hluta en að mestu leiti eru þetta bara leifar af fortíðinni og\nmeð þessu er mjög erfitt að fylgjast með öllu efni sem geymt er á tölvunni.\nÞegar maður ræsir svo kerfið þá tekur heila eilífð að ræsa það samanborið við winXP. Og linux ekki mjög mikið plug&play enþá og\nþegar maður setur upp nýja drivers þá er ekkert sjálfvirkt eins og í WinXP heldur minnir þetta á tíma Win98, jafnvel verra.\nÁ enþá eftir að prófa Lindows en það er orðið eitt það mest notaða af linux í dag og mjög einfalt.\n- Nýjasta Gnome voru tóm vondbrigði, annað en KDE sem hefur tekið miklum jákvæðum breytingum undanfarið. Samt má sjá þess\nskýr merki að öll þessi forrit eru gerð af mismunandi persónum og sömu hlutirnir ekki alltaf eins, mun verra í Gnome ( Ég tala bara\num Gnome og KDE þar sem engin af hinum enviroments hentar heimilis/skrifstofu notendum. ) Það er vegna þess að þetta er gert af\náhugamönnum en ekki mönnum sem fá borgað fyrir að gera hlutina rétt, það er mesti gallinn við GPL því engin er raunverulega við\nstjórn svo allt verður nokkuð sjálfstætt auk þess sem mér finnst fáranlegt að það sé verið að vinna að Gnome og KDE sér í stað þess\nað forritararnir sameinist og reyni að vera samkeppnishæfir við M$. Vissulega er þetta gott fyrir ókeypis hugbúnað en ókeypis er\nsjaldnast eins gott og það sem er selt. Nánast allur hugbúnaður sem þú getur downloadað fyrir Linux geturðu keypt betri fyrir\nWindows, ef þú átt smá pening þá viltu frekar góð gæði. Margur hugbúnaðurinn sem fylgir Linux er óstöðugri en samskonar Win32\nhugbúnaður. afhverju? á ekki linux að vera það stöðugasta í heimi?\n- Vélbúnaður fyrir Linux\nÞó linux notendur segi oft að einhver vélbúnaður virki með því þá fer það oftast eftir því hvað þið kallið “virkar” T.d. er fólk með SB\nAudigy frá CreativeLabs, það er kanski hægt að fá það til að framkalla hljóð en það nýtir ekki kortið til fulls þar sem hugbúnaðurinn er\nstór hluti af vélbúnaðnum, t.d getur mar ekki breytt með einum smelli í linux hvernig tónlistin hljómar, breytt um pitch, látið hljóma\neins og í hljómleikahöll osfv en það er hluti af eiginleikum vélbúnaðarins. Þetta er ekki eini vélbúnaðurinn sem þetta á við svo þið\nskulið vel hugsa áður en þið kaupið “linux samhæfðan” vélbúnað. Margt af því sem er plug&play fyrir WinXP þarf að restarta linux til\nað finna, það er staðreynd og með WinXP er komin margur vélbúnaður sem þarfnast ekki einusinni að restarta tölvunni til þess að\nhann virki.\n- Ég er með 1800XP og 512DDR og samt fann ég verulegan mun á Linux með Gnome og KDE á móti WinXP, það er bara allt\nhægara með linux.\nTalandi um stöðugleika þá í RedHat8 virkaði DeviceManagerinn ekki einusinni, það drapst alltaf á honum, þó var það skárra með\nmandrake, harddrake virkaði allavega hjá mér. Wine er stöðugt að frjósa með RedHat og Mandrake svo mar þorir varla að prófa að\nkeyra Win32 hugbúnað á Linux.\n- Netið\nÞegar sett er upp heima net í WinXP og internet connection sharing, þá getur hver sem er gert það, jafnvel á milli WinXP og Win98,\nþökk sé network setup wizard. Ekki segja að þetta sé verra, afhverju að gera hluti sem aðrir geta gert? Að setja connection í share í\nlinux er aðeins leiðinlegra, hvað þá á milli Linux og Win98.\nMeð öllum þeim verkfærum sem til eru fyrir windows þá er mun þægilegra að gramsa á netinu en með Linux, og jafnvel betra en með\nnýja net skoðaranum frá apple. svo auðvitað að gera back and forward með tökkum á músinni sparar smá tíma.\nAuk þess fyrir þá sem búa í USA og UK þá hafa þeir kost á MSN8 sem er mesta snilld á netinu, þjónustan er til fyrir Windows og\nOSX en ekki fyrir Linux, auðvitað bíður windows útgáfan uppá mestu valmöguleikana. MSN 8 er meira en einn hlutur og vonandi\nfáum við þá þjónustu einhverntíman hér á landi þar sem þetta er bara snilld þó það þurfi að borga mánaðargjald.\n- Eldveggir\nSá sem fylgir með WinXP er ekki mjög öruggur, mæli auðvitað með að þið sækið aðra eldveggi, ókeypis eða helst keypta því þeir eru\nmun öruggari og bjóða uppá mun meiri möguleika, einnig downloadanlegir eldveggir fyrir windows betri en fyrir Linux þar sem það er\nhægt að fá keypta eldveggi. Mæli ekki með að nota vélbúnað sem eldvegg þar sem það er slæmt fyrir leiki osfv.\n- Öryggi og dulkóðun.\nLinux er alveg eins viðkvæmt og Windows varðandi vírusa, ástæða þess að vírusarnir eru aðalega að ráðast á windows er einfaldlega\nað langflestir nota windows, með aukinni notkun linux hefur vírusum þar fjölgað, svo ef þú heldur að þú sért öruggur á linux þá\nhefurðu rangt fyrir þér. Auk þess fær maður ekki vírusa nema mar fari af óvarkárni. Maður fær ekki vírusa ef maður fer varlega.\nAnnars eru til fjöldi vírusavarna sem gera Windows mjög örugt.\nOf ýktar fréttir um öryggisglufur í Microsotf vörum eru orðum auknar. Og ef þú ert með efni inná disknum þínum sem engin má þá\ngeturðu auðveldlega dulkóðað það þannig að engin getur lesið það nema að vita hvernig það var gert og hvaða lykilorð þarf.\n- Shell. Það eru ekki bara til mismunandi enviroment í Linux, þau eru líka til í windows, sem dæmi eru NEXT Start, Talisman,\nDesktopX, object bar osfv. þó þau skipti ekki út öllu nema grunn umhverfinu og hvernig þú kveikir á forritum þá  geturðu fengið forrit\ntil að skipta út þeim sem fylgja, t.d. eru til file managers fyrir windows sem eru mun öflugri en fylgja með windows og eru mun öflugri\nen þeir sem til eru fyrir linux. Windows er ekki eins lokað og fólk lætur. og ekkert mál er með “hacker” forritum t.d. að breyta nær\nöllu í windows, staðsetningum, myndum og texta. ekkert mál er að þíða WinXP yfir í íslensku ef einhver nennir því þó það sé víst\nólöglegt. Þó er ekki besta lausnin að skipta um shell heldur er best að bæta umhverfið með viðbótum eins og\nhttp://www.truelaunchbar.com/\n- Ég get komið með endalaust af lausnum fyrir Windows notendur og ég mun gera það seinna ef einhver fer fram á það. Ég get komið\nmeð ráð fyrir ykkur hvernig best er að flokka allt í tölvunni, raða upp tölvunni eftir aðstæðum, búa til alvöru skemmtanamiðstaðir og\nhvernig er hægt að gera Windows eins og það á að vera bara ef einhver eftirspurn er eftir því þá mun ég gera vefsíðu með\nmismunandi lausnum sem henta mismunandi fólki, bæði við skrifstofu, leik og margmiðlun. Einnig hvaða forrit er gott að hafa til að ná\nhámarks afköstum í netskoðun.\n- Engin skal keyra linux sem heimilistölvu nema hann sé lítið efnaður. Linux skal eingöngu vera notað af servers og hackers.\nSend Error report eiginleikinn í windows XP er alveg sjálfvirkur og ef þið notið hann þá getið þið oft fengið lausnir á vandanum\nsjálfkrafa, fer það sjálfkrafa inná síðu sem sýnir lýsingu á vandanum eða hvaða DLL varð valdur að honum og þá sér maður hvað\nmaður þyrfti að uppfæra. Hverjum er ekki sama þó microsoft skanni um leið hvaða hugbúnað þú notar, það skaðar þig ekki, þeir geta\ngert betra stöðugra stýrikerfi og þeir hringja ekki í þig útaf því að þeir sjá að þú hefur verið á klámsíðum.\nBlablabal ég get blaðrað endalaust, á enþá eftir að tala um OSX og hvernig það er líka betra en linux þó overall windows sé\nfjölhæfast. Nenni ekki að lesa þetta yfir aftur, pottþétt mikið af villum í þessu, það mun hvort sem er engin nenna að lesa þetta allt :)",
+    "url": "https://www.hugi.is/linux/greinar/128272/linux-vs-windows-nakvaemar/",
+    "url_id": "128272",
+    "id": "957272",
+    "replies": [
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2003-03-10 03:57:48",
+            "id": "957273",
+            "reply_to_id": "957272",
+            "text": "ég setti að ganni um windows advanced server. ég er með fasta ip tölu og prófaði að setja upp www server á windows þjóninum. vélin hafði verið í sambandi við netið í um hálftíma og þá smitaðist hún af einhverjum vírus sem klínir sig á M$ www þjóna,\nég er með redhat vél sem ég nota sem router og server, og ég hef ALDREI orðið var við vírusa í henni, og það er www server á henni sem tekur alla M$ www servera í nefið.\nþað er miklu meira um innbrot og öryggisholur í M$ serverum, og mikið meira um vírusa sem eru ætlaðir til árásar á M$ servera, þannig að ef ég vildi vera öruggur þá myndi ég nota linux eða Redhat sem server. og mig dauð langar að algerlega skipta yfir í linux og gera Redhat eða suse 8 að workstation til að vinna í.\nég held bara að allir sem kynnist linux og komist inn í kerfið séu sammála um að það er miklu fullkomnara og sniðugra kerfi en Windows.   :)"
+        },
+        {
+            "user": "add1",
+            "user_id": "1011",
+            "date": "2003-03-10 03:58:25",
+            "id": "957274",
+            "reply_to_id": "957272",
+            "text": "Þessi grein er með þeim vitlausari sem ég hef séð hérna á huga, enda er ég ekki að samþykkja þessa grein á þeim forsendum að hún sé vel skrifuð, eða hafi snefil af heimildum eða réttum upplýsingum.\nÞessi grein var samþykkt til að leyfa fólki að sjá hvað Windows notendur upp til hópa (já ég er að tala um þig) eru oft á köflum hrikalega vitlausir og gjarnir á að deila þessari þekkingu (lesist vankunnáttu) til annara.\nNú get ég ekki giskað á að þú sért eldri heldur en 13 ára gamall og vona með þeim svörum sem þú munt fá hér að neðan að þú munir ekki senda aftur grein á þetta áhugamál aftur .. aldrei.\nÞað var svo rosalega mikið sem ég vildi commenta á að ég set upprunalegu setningarnar í — kassa:\nEnjoy\n—\nEf þið viljið sjá stöðugan server kíkið á microsoft.com hann keyrir á server 2003 sem er ekki\neinusinni fullkláraður.\n—\nÞetta sannar ekkert um getu server 2003, þetta hinsvegar sannar mikla heimsku af hálfu microsoft að vera með hálf-kláraðar útgáfur af stýrikerfum sínum á vefþjóninum.\n—\nFáranlega mikið er um óþarfa partition í LINUX og þau eiga að vera svo advanced\n—\nÞetta gefur þér kost á að setja mismunandi mount flögg á mismunandi partition t.d. /tmp directory'ið þannig að suid forrit geta ekki keyrt þaðan.\nOg nodev flögg á /home partitionið .. svona mætti lengi telja.\n—\nÞegar maður ræsir svo kerfið þá tekur heila eilífð að ræsa það samanborið við winXP.\n—\nEnda þegar þú ert búinn að ræsa linux ertu með gríðarlega mikið af þjónustum sem þú ert ekki með í Windows kerfum.\nÞú getur slökkt á þeim þjónustum sem þú notar ekki og stytt startup tímann gríðarlega.\n—\nOg linux ekki mjög mikið plug&play enþá og\nþegar maður setur upp nýja drivers þá er ekkert sjálfvirkt eins og í WinXP heldur minnir þetta á tíma Win98, jafnvel verra.\n—\nÉg myndi nú segja að það vandamál lægi hjá hardware-vendorum að vera ekki aktívari að hleypa linux kóðurum í teikningar af græjunum þeirra.\n—\nÁ enþá eftir að prófa Lindows en það er orðið eitt það mest notaða af linux í dag og mjög einfalt.–\n—\nErtu eitthvað skrítinn ?\nLindows er með AFSKAPLEGA litla markaðhlutdeild í linux heiminum .. RedHat er hinsvegar með ráðandi stöðu.\n—\nMargt af því sem er plug&play fyrir WinXP þarf að restarta linux til að finna\n—\nÞú ert eiginlega bara að gera þig að asna með að setja fram svona fullyrðingar .. þar sem hún er að sjálfsögðu algjört kjaftæði.\n—\nÞegar sett er upp heima net í WinXP og internet connection sharing, þá getur hver sem er gert það, jafnvel á milli WinXP og Win98,\nþökk sé network setup wizard. Ekki segja að þetta sé verra, afhverju að gera hluti sem aðrir geta gert? Að setja connection í share í linux er aðeins leiðinlegra, hvað þá á milli Linux og Win98.\n—\niptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE\n.. komið.\nNúna virkar linux vélin þín sem router, og það eina sem þú þarft að gera á öllum hinum client vélunum er að setja ip tölu linux tölvunnar í gateway.\nEkki einu sinni reyna að segja mér að WindowsXP geti gert þetta fljótar .. ég var 8 sek. að skrifa ofangreinda iptables skipun.\n—\nMeð öllum þeim verkfærum sem til eru fyrir windows þá er mun þægilegra að gramsa á netinu en með Linux,\n—\nÞú hefur valmögulega um 3 -major- netskoðara í linux:\nmozilla, konqueror eða opera.\nEkki ætlar þú að segja mér að þeir séu allir verri en internet explorer ?\n—\neinnig downloadanlegir eldveggir fyrir windows betri en fyrir Linux þar sem það er hægt að fá keypta eldveggi. Mæli ekki með að nota vélbúnað sem eldvegg þar sem það er slæmt fyrir leiki osfv.\n—\nÞarnar aftur ertu allveg hreint að broadcasta heimsku þinni í þessum málum þegar þú reynir að segja að einhverjir commercial eldveggir fyrir windows séu með betri eldveggskóða en netfilter (linux 2.4).\nOg ekki nota vélbúnað sem eldvegg þar sem það er slæmt fyrir leiki ?\nEf þú tekur þægindi í leikjum fram yfir almennt netöryggi þá skil ég vel að þú keyrir eitthvað gatasigti sem eldvegg (windows)\n—\nLinux er alveg eins viðkvæmt og Windows varðandi vírusa, ástæða þess að vírusarnir eru aðalega að ráðast á windows er einfaldlega að langflestir nota windows, með aukinni notkun linux hefur vírusum þar fjölgað, svo ef þú heldur að þú sért öruggur á linux þá hefurðu rangt fyrir þér.\n—\nNei minn kæri .. þarna hefur þú rangt fyrir þér .. (aftur ? .. hmmm eitthvað mynstur að myndast hér) ástæðan fyrir því að Linux er næstum því ónæmt fyrir vírusum er að ef þú færð vírus í linux (það eru til held ég 2 eða 3) þá getur hann ekki gert neinn skaða utan heimasvæðis þíns þar sem hann getur ekki skrifað í skrár sem t.d. root á. (nema þú notir root sem almennan notanda sem er auðvitað helbert hálvitaskapur)\n—\nAuk þess fær maður ekki vírusa nema mar fari af óvarkárni. Maður fær ekki vírusa ef maður fer varlega.\nAnnars eru til fjöldi vírusavarna sem gera Windows mjög örugt.\n—\nEn hinn almenni tölvunotandi .. helduru að hann fari varlega, ónei.\nOg vírusvarnir eru ekki gefins, til að mynda kostar nýjasta útgáfa Norton Antivirus um 9000 kr.\n—\nOf ýktar fréttir um öryggisglufur í Microsotf vörum eru orðum auknar. Og ef þú ert með efni inná disknum þínum sem engin má þá\ngeturðu auðveldlega dulkóðað það þannig að engin getur lesið það nema að vita hvernig það var gert og hvaða lykilorð þarf.\n—\nAuðvitað gæti ég encryptað allt draslið mitt nema þegar ég þarf að nota það .. en það er bæði tímafrek og heimskulegt .. af hverju var ég annars að logga mig inn í tölvuna með mínu notendanafni og lykilorði ef ég þarf að decrypta allar þær skrár sem ég vill nota hverju sinni.\nÞetta kallast: “Security through Obscurity” og er concept sem hefur aldrei og mun aldrei virka!\n—\nÞað eru ekki bara til mismunandi enviroment í Linux, þau eru líka til í windows, sem dæmi eru NEXT Start, Talisman,\nDesktopX, object bar osfv.\n—\nNei, það eru ekki til MISMUNANDI enviroment í Windows.\nÞú getur fengið einhverja theme pakka og viðbætur.\nEn þú getur ekki skipt út umhverfinu í heild sinni eins og GNOME og KDE gera.\n—\nekkert mál er að þíða WinXP yfir í íslensku ef einhver nennir því þó það sé víst ólögleg\n—\nÁáiii vond stafsetningarvilla! (þíða vs. þýða)\nÞað er mjög(!) mikið mál að þýða Windows XP yfir á önnur tungumál (eins og t.d. íslensku)\nEn hinsvegar er þegar búið að þýða KDE alfarið yfir á íslensku og er afskaplega auðvelt að þýða forrit í Linux.\n—\nEngin skal keyra linux sem heimilistölvu nema hann sé lítið efnaður. Linux skal eingöngu vera notað af servers og hackers.\n—\n? Guð minn góður … þessi klausa eiginlega dæmir sig sjálf.\n—\nmaður þyrfti að uppfæra. Hverjum er ekki sama þó microsoft skanni um leið hvaða hugbúnað þú notar, það skaðar þig ekki, þeir geta gert betra stöðugra stýrikerfi og þeir hringja ekki í þig útaf því að þeir sjá að þú hefur verið á klámsíðum.\n—\nÖhhh .. mér er EKKI! sama að eitthvað fyrirtæki sé að skanna hvaða hugbúnað (og hver segir að það stoppi þar) ég er að nota.\nÞetta snýr að persónuvernd og ég er GRÍÐARLEGUR fylgjandi hennar.\n—\ná enþá eftir að tala um OSX og hvernig það er líka betra en linux þó overall windows sé fjölhæfast.\n—\nGuð nei, hlífðu okkur við þessari hrikalegur vankunnáttu sem þú telur þig hafa í tölvumálum og haltu þeirri grein fyrir þig sjálfan.\n—\nNenni ekki að lesa þetta yfir aftur, pottþétt mikið af villum í þessu\n—\nDamn straight!"
+        },
+        {
+            "user": "ojb",
+            "user_id": "1502",
+            "date": "2003-03-10 09:39:09",
+            "id": "957275",
+            "reply_to_id": "957274",
+            "text": "Tek undir þessi svör.\nFinnst helst vannta að greinarhöfundur bæti við skilyrði að hann verði að vita hvað hann er að tala um því það er augljóst að hann hefur ekki hundsvit á því hvað hann er að tala um.\nMicrosoft er kommst að því um daginn að svona FUD virkar ekki. Þú greinarhöfundur hlýtur að trúa þeim ;-)"
+        },
+        {
+            "user": "IcEEyE",
+            "user_id": "2285",
+            "date": "2003-03-10 09:52:31",
+            "id": "957276",
+            "reply_to_id": "957274",
+            "text": "Fyrst varðandi vírusa…\n——————————————– —–\nNei minn kæri .. þarna hefur þú rangt fyrir þér .. (aftur ? .. hmmm eitthvað mynstur að myndast hér) ástæðan fyrir því að Linux er næstum því ónæmt fyrir vírusum er að ef þú færð vírus í linux (það eru til held ég 2 eða 3) þá getur hann ekki gert neinn skaða utan heimasvæðis þíns þar sem hann getur ekki skrifað í skrár sem t.d. root á. (nema þú notir root sem almennan notanda sem er auðvitað helbert hálvitaskapur)\n————————————— ———-\nFyrst skulum við átta okkur á að flokka má vírusa í tvo flokka.\nA) Vírusa sem notandinn þarf að ræsa sjálfur.\nVírusum sem notandinn þarf að ræsa sjálfur getur framkvæmt allar þær aðgerðir sem notandinn getur framkvæmt sjálfur og ef notandinn hefur t.d. rótar réttindi í Línux getur vírusinn gert það sem honum dettur í hug líkt og vírus sem ræstur er af notanda með Admin réttindi í Windows.  Þetta er nákvæmlega sami pakkinn og enginn munur á Linux og windows einungis spurning um réttindi notandans sem ræsir vírusinn.\nB) Öryggisholur.\nFlestar þær öryggis holur sem hafa fundist í M$ hugbúnaðinum og eru taldar hvað alvarlegastar eru svokallaðar bufferoverrun villur.  Þessar villur hafa fundist í t.d. IE, IIS, Media Player og DOM-XML-Parsernum.  Þessar villur virka þannig að ef þessum forritum eru sendar rangar upplýsingar má hengja forrits bút í upplýsingarnar sem forritin keyra svo óvart.  Jú það er rétt að mun fleiri svona villur hafa fundist í M$ hugbúnaði en slíkar villur hafa líka fundist í t.d. APACHE og hafa menn geta nýtt sér þær til að fá root-access.\n————————————\ni ptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE\n————————————\nHa já tók 8 sek að hamra þetta inn en hvað tók langan tíma að dreyma upp þessa línu :)  Álíka langan tíma og það tók mig að fata að ýta á “Share my internet connection with other computers” :)"
+        },
+        {
+            "user": "fleppir",
+            "user_id": "22284",
+            "date": "2003-03-10 10:41:01",
+            "id": "957277",
+            "reply_to_id": "957276",
+            "text": "En þó það taki langan tíma að átta sig á þessu, þá VEISTU að minnsta kosti hvað þú ert að gera.  Hvað ertu að gera með því að opna Internet Connection Sharing í Windows?\nDæmi:\nDefault Share í Windows er $C.\nÞað opnar harða diskinn þinn út á netið fyrir öll script kiddies sem hafa smá vit í kollinum."
+        },
+        {
+            "user": "Drengurinn",
+            "user_id": "50114",
+            "date": "2003-03-10 18:24:49",
+            "id": "957278",
+            "reply_to_id": "957277",
+            "text": "Það er C$ ekki $C"
+        },
+        {
+            "user": "ahs",
+            "user_id": "18317",
+            "date": "2003-03-10 12:11:29",
+            "id": "957279",
+            "reply_to_id": "957276",
+            "text": "“Share my internet connection with other computers”\nÞetta hefur aldrey virkað, ekki einu sinni ég hef hjálpað vinum mínum að setja upp LAN mörgu sinnum (cs nerds :) en sko þetta virkar aldrei í alvöru, það er alltaf eitthvað vandamál, það er staðreynd, þetta var auðvelt í win98 en sko alltaf ef .aður share'ar úr XP eða win2k er alltaf vandamál, ein XP talvan sem ég lenti í um daginn setti sjálfkrafa einhverja ´faránlega IP tölu í staðinn fyrir (192.168.0.1) og allt fór í klessu, þetta lagaðist ekki fyrir en servicepack 1 var settur inn. Veit ekki hvað það var en af allri minni lögu reynslu þá hefur þetta aldrey tekist, það er best að gera þetta manual og það tekur lengir tíma í windows en Linux."
+        },
+        {
+            "user": "ahs",
+            "user_id": "18317",
+            "date": "2003-03-10 13:23:18",
+            "id": "957280",
+            "reply_to_id": "957279",
+            "text": "mig langar að byrja á að taka það fram að ég er með öllu sammála flestum linux-fylgjandi skrifunum og finnst þessi “grein” vera RUGL!\nen ég hef sett upp windows staðarnet fyrir marga kunningja og fleiri aðila og Internet Connection Sharing hefur alltaf virkað. Það er líka einfalt og þægilegt fyrir fólk sem kann ekkert á tölvur.\nVirkar meira að segja á Win98 se, þó það sé ekki þægilegt"
+        },
+        {
+            "user": "ahs",
+            "user_id": "18317",
+            "date": "2003-03-10 16:01:48",
+            "id": "957281",
+            "reply_to_id": "957280",
+            "text": "Furðulegt ;D\nÉg hef bara vanist því að gera þetta manual setja bara inn IP tölurnar og gateway, ég nenni ekki að brasa þetta lengur.\n;D;D"
+        },
+        {
+            "user": "ahs",
+            "user_id": "18317",
+            "date": "2003-03-10 18:59:53",
+            "id": "957282",
+            "reply_to_id": "957281",
+            "text": ":) það virkar stundum… 2 netkort"
+        },
+        {
+            "user": "ojb",
+            "user_id": "1502",
+            "date": "2003-03-10 19:32:21",
+            "id": "957283",
+            "reply_to_id": "957276",
+            "text": "Fyrstu 2 punktar þessa svars voru bara nokkuð góðir og góðir og lausir við fordóma.\nÞeir sýna nefnilega hvar yfirburður Linux liggur. Flokkur B er mun alvarlegri en flokkur A. Þar sem öryggisholurnar geta oft notað hvaða notenda sem er til að fá root access á vélinni þinni. Þetta gildir jafnt um Windows og Linux en þar sem kóði Linux er opin geta miklu fleiri rýnt kóðan og stoppað upp í öryggisholur. Í lokuðum hugbúnaði eins og Windows er það aðeins aðeins eigandi sourcekóðans sem getur stoppað í holuna. Fyrirtæki er mun líklegra til að láta nettó kostnað við að laga holuna ráða því hvort þeir geri það strax eða seinna á meðan Linux menn gera það við fyrsta tækifæri ef þeim er annt um kerfi sín."
+        },
+        {
+            "user": "Topas",
+            "user_id": "54152",
+            "date": "2003-03-11 00:40:31",
+            "id": "957284",
+            "reply_to_id": "957274",
+            "text": "hahahahahaha..\nég hef heyrt “brennt barn forðast eldinn” notað við aðstæður svipaðar þessum… en í þessu tilfelli þá hentuðið molotov kokteil í gaurinn, hentuð svo inn í gryll og sprengduð gaskút..\nheld að hann láti ekki sjá sig oftar á þessu áhugamáli :)"
+        },
+        {
+            "user": "Paddington",
+            "user_id": "8681",
+            "date": "2003-03-11 00:52:58",
+            "id": "957285",
+            "reply_to_id": "957284",
+            "text": "jæja.. ég viðurkenni fáfræði mína varðandi linux en ég verð að segja topas að Brennt barn forðast eldinn á ekki við núna, ef hann hefði svarað og verið flame-aður niður í jörðina og ekki komið aftur mundi það passa betur.\nP.S GRILL"
+        },
+        {
+            "user": "gunnare",
+            "user_id": "496",
+            "date": "2003-03-11 02:34:27",
+            "id": "957286",
+            "reply_to_id": "957274",
+            "text": "ég held að þessari grein hafi verið póstað á vitlausan stað.. huxa að hún myndi fá betri undirtektir á windows áhugamálinu…\nég er ekki að segja það þetta sé góð grein og rétt en sjiiiiittt hvað þið linux drengir eruð miklir sækóar.\nkemur hérna ein grein um að þetta sé betra en hitt og þið farið allir í vörn..\nviðurkennið það bara: þið eruð verri en kjartan galdrakall í strumpunum í þessum linux galdraþulum ykkar: mount ble hda blulbu mombojumbo\nneinei, þið eruð eflaust ágætir.."
+        },
+        {
+            "user": "add1",
+            "user_id": "1011",
+            "date": "2003-03-11 03:42:33",
+            "id": "957287",
+            "reply_to_id": "957286",
+            "text": "skoh .. þetta snýst ekkert um trúarbrögð .. þetta tengist því að gaurinn setur einhvern disclaimer í byrjun greinarinnar og biður fólk sem hefur ekki vit á þessum málum að halda sig fjarri .. þegar í raun og veru er það greinarhöfundurinn sjálfur sem veit ekkert í sinn haus í sambandi við þessi málefni.\nEf þetta hefði verið grein hefði svo mikið sem -snefil- af sannleikskornum eða heimildum/dæmum þá hefði þetta orðið “umræða” .. en þar sem þessi gaur er með eitthvað rugl eins og t.d:\n—\n- Engin skal keyra linux sem heimilistölvu nema hann sé lítið efnaður. Linux skal eingöngu vera notað af servers og hackers.\n—\nÞá hlýtur það að snerta taugarnar hjá einhverjum (þar með talið mér) og því tel ég þessa meðferð sem hann fær frá þeim sem stunda þetta áhugamál verðskuldaða af sinni eigin heimsku.\nÉg efast ekki að hann fengi svipuð viðbrögð á hugi/windows áhugamálinu þar sem flestir heilvita menn sjá að þetta er “grein” skrifuð af einhverju barni sem ég efast að hafi náð 13 ára aldri."
+        },
+        {
+            "user": "ojb",
+            "user_id": "1502",
+            "date": "2003-03-11 08:23:20",
+            "id": "957288",
+            "reply_to_id": "957274",
+            "text": "Þessi grein var skrifuð útaf þessari miklu umfjöllun um greininna út mbl. Augljóslega hefur þetta snert viðkvæma strengi hjá\nsumum og þið komið með ýmsar gagnrínir áður en þið hafið kynnt ykkur windows, það er staðreynd að þið eruð að gera jafnmargar\nvillur og ég í svörum ykkar og ég í greininni en til þess eru greinar gerðar eins og þessar, koma með rök þar til báðir aðilar geta haldið\nkja. þar sem mar er alltaf að heyra þessar umræður hjá Linux mönnum að Linux sé orðið mikið betra fyrir heimilis notendur. Ég er\nekki að skrifa þetta til að segjast hafa rétt fyrir mér, heldur til að við getum komið með rök fyrir afhverju hlutirnir eru betri.\nÉg var aðalega að tala um heimilis tölvur, linux er betri sem server í dag það er rétt, sennilegast ekki eftir Server2003 þegar það verður\nkomin sp1 eða eitthvað fyrir hann. en ég var aðalega að tala um heimilis tölvur og yfirburði windows á því sviði, winXP og OSX eru\nmun betri á því sviði) les ég daglega allt á\nhttp://www.dailyrotation.com\nen það er tengill fyrir öll stýrikerfi og tækni tengdar fréttir. Þar\nhafa OFT komið greinar um Linux vs Windows sem heimilistölvur og hafa þær flestar verið Windows í hag, humm og það segja\njafnvel síður sem eru merktar með mörgæsum útum allt. Auðvitað les ég fleiri tækni tengdar síður en flestar eru þær auðvitað\nwindows tengdar, þessvegna eigið þið að leiðrétta eitthvað ef það er vitlaust.\nWindows XP MediaCenter Edition - nafnið segir allt sem segja þarf, það er ekki hægt að hafa neitt líkt þessu með Linux.\nTablet PC eru framtíðin af fartölvum en styðja bara Tablet frá Microsoft.\nSmart Display eru þráðlausir LCD skjáir sem keyra WinCE eða PocketPC og er mjög hröð þróun á þeim, Microsoft hefur alla stjórn\ná þeim.\nLinux er ekki samkeppnishæft varðandi skemmtun og margmiðlun, reynið að koma með rök fyrir öðru.\nEf þú ert ekki fátækur námsmaður þá notarðu ekki linux í þessa hluti.\nTölvan mín er t.d. nær algjörlega sjálfvirk og ég get fjarstýrt öllu eins og mér sýnist, þökk sé forritanlegum fjarstýringum, svo er ég\nbara í rúminu og vel hvaða tónlist ég ætla að hlusta á eða hvaða mynd á að horfa á án þess að nota lyklaborð eða mús og kemur\nnokkuð flott GUI þegar ég geri það. (kemur gegnsætt á sjónvarpið eða tölvuskjáinn og sýnir allar breytingar á spiluninni eins og kemur\nmeð nafn á lögum þegar það er skipt og staðsetninu ef spólað er áfram, þetta eru upplýsingarnar sem koma fyrir ofan allt. t.d. ef ég er\ní tölvuleik og einhver er að horfa á video eða hlusta á tónlist þá kemur það bara rétt á skjáinn hjá báðum aðilum, mjög þægilegt.\nFullyrðingar þínar um enviroment, það er ekki hægt að skipta algjörlega út windows umhverfinu með einu handtaki eins og með\nGnome, KDE og fleiri í linux en það er ekkert mál að skipta um shell sem er venjulega explorer.exe - það er sá hlutur sem ræsir öll\nforrit og velur á milli glugga. Síðan er vel hægt að fá góða FileManagers ókeypis eða fyrir lítinn pening (Sjálfur vel ég Directory Opus)\nÞú getur fengið Opera 7 fyrir Win en 6.11 er sú nýjasta fyrir Linux. hvað ertu með annað en annað enviroment þegar þú ert búin að\nskipta út gjörsamlega öllum microsoft vörum? Auðvitað keyrir það enþá á windows en þú snertir ekki windows og það er ekkert mál\nað takmarka allan aðgang eins og manni sýnist, flest með ókeypis hugbúnaði en einnig er hægt er að fá mun betri gegn gjaldi. = Þú\ngetur keyrt 100% öruggt netkaffi jafnvel með windows ef þú setur það upp rétt. Þá t.d. á leikjalönum er eingöngu hægt að spila\ntölvuleiki nema maður hafi rétt aðgangsorð og ctrl+alt+del er ekkert mál að gera óvirkt svo hvað það varðar er hægt að hafa Windows\n100% öruggt og það alveg eins uppsett og þú vilt án þess að þurfa einusinni að forrita.\nÞið töluðuð um að maður yrði kærður fyrir smá breytingar á windows þá eru það tröllasögur. sumir virðast meiga selja helling af\nforritum sem eru sér hönnuð til að breyta windows í hvað sem manni sýnist og Microsoft er alveg sama um það. Það er hægt að gera\nán þess að breyta kerfisskrám með því að gera þær óvirkar, þá er það ekki ólöglegt frá Microsoft séð en ef þú ferð að breyta\nApplication Extensions og þannig eins og sumir gera þá er það ólöglegt ( Samt virðast sumir komast upp með smávægilegar\nbreytingar eins og að láta allt virðast vera OSX þar sem mar getur skipt út kerfisskrám með breyttum skrám.)\nSjálfur er ég mest fyrir endalaust af extensions.\n—Addi1 :\nÞað er mjög(!) mikið mál að þýða Windows XP yfir á önnur tungumál (eins og t.d. íslensku)\nEn hinsvegar er þegar búið að þýða KDE alfarið yfir á íslensku og er afskaplega auðvelt að þýða forrit í Linux.\n—Svar: Það er ekkert mál með réttum forritum, þú getur opnað flestar kerfisskrár með sér forritum og breytt öllum texta og\nstaðsetningum á hlutum í dialogs. Þá klikkaru bara á það sem þú vilt þýða og skrifar íslenska merkingu. ferð í save. Ef þú ert ekki\nánægður með staðsetninguna á takkanum þá dreguru hann til og þarf enga kunnáttu í það. svo er hægt að losa öll objects frá þó þau\nséu hluti af öðrum forritum, eins og desktoppið hjá mér er fljótandi bara í ganni. (draganlegt) Ef ég klikka á klukkuna þá kemur upp\nalveg eins dagatal og í linux, og hægt er að gera allar breytingar drag&drop á öllu GUI hjá mér. svo velur mar bara lock þá festist allt\nþar sem maður setur það.\nAð gramsa á netinu.\nFyrst af öllu þá hef ég ekki getað notað back and forward á músartökkunum í Linux í neinum browser, hvað þá aðra sérákveðna\ntakka. Flestir eru komnir með 5 eða fleiri takka á mýsnar sínar og vilja kanski nota þá og það vill svo til að allar mýs geta breytt sér\nsjálfkrafa eftir því í hvaða forriti þær eru að vinna og þú ræður hvaða aðgerðir þær gera en bara í win. Favorites eru stórt dæmi um\nþað sem er ekki hægt að hafa rétt í linux enþá en ég er með öll favorites flokkuð með titlum, svo eru seperators og læti hjá mér en það\nþarf reyndar að downloda forriti fyrir þetta. Svo get ég klikkað á eitt tákn og þá eru öll favorites komin í pakka fyrir removable\nstorage eða þá komið á vefsíðu. Svo getur maður fengið allar upplýsingar sjálfkrafa með sér forritum, þá eru það heitustu fréttirnar\nosfv. svo er ekkert mál að setja veður upplýsingar þar sem manni sýnist, sjálfsagt hægt á linux en varla með að gera new\nweathermonitor sem reyndar má nota í ýmsa aðra hluti. Þeir sem eru það heppnir að vera með MSN 8 geta fengið alla þá þjónustu\nsem þeir vilja, þegar það koma heitar fréttir  ( Sem þú hefur valið ) Þá birtast þær á skjánum um leið. Allar upplýsingar í MSN eru\ngeymdar á netinu svo þú getur farið í tölvuna hjá vini þínum og loggað þig inn með þínu nafni þá ertu komin með allt fyrir framan þig,\nþín favorites, þína contacts, þitt dagatal, alfræði orðabók með myndböndum, 200mb geymslupláss fyrir myndaalbúm sem ekkert mál\ner að sýna ættingjum og vinum. Fjármálaforrit sem býður uppá sjálfvirkar borganir og hægt er að telja endalaust.\nSvo eru auðvitað Microsoft að gera GreenWich, alvöru samskiptaforrit fyrir alvöru viðskiptamenn.\nMicrosoft eiga núna VirtualPC en það gerir mömmum mögulegt að keyra eins mörg PC kerfi og manni sýnist. Auðvitað líka hægt í\nlinux en nú er þetta orðið eiga MS þá mun þetta verða svo fullkomið fyrir windows. BTW þá er VirtualPC lausn fyrir ykkur sem eruð\nað bölva hættulegum gestum því það er hægt að læsa þeim inni í öðru stýrikerfi sem er með sýndardisk sem ekkert mál er að afrita\nsvo allir eru 100% öruggir.\nOg þið voruð að bölva því að þurfa að setja inn lélegan hugbúnað með vélbúnaði sem þið kaupið. Það sýnir bara að þið kunnið\nekkert á win og þá verð ég að leiðrétta ykkur eins og þið eigið að leiðrétta mig. Ef þú ert með PS/2 eða USB mús þá þarftu enga\ndrævera og scroll takkar og þannig virka sjálfkrafa ef þeir eru til staðar í flestum tilfellum. En hugbúnaður sem fylgir gerir oft meira\ngagn en virðist í fyrstu- Eins og ég lýsti hér ofar. Dæmi um vélbúnað sem virkar ekki með Linux er besta hljóðkort í heimi fyrir\nheimilisnotendur, tekur upp og spilar 24bit hljóð, er 6.1 DTS THX samþykkt, analog error correction, flytur líka analog yfir í góðu\ndolby digital heimabíó hátalara þína og með einum smelli geturðu breytt umhverfisáhrifum.\nVélbúnaðurinn\n—Grein:\nlinux ekki mjög mikið plug&play enþá og\nþegar maður setur upp nýja drivers þá er ekkert sjálfvirkt eins og í WinXP heldur minnir þetta á tíma Win98, jafnvel verra.\n—Addi1 sagði:\nÉg myndi nú segja að það vandamál lægi hjá hardware-vendorum að vera ekki aktívari að hleypa linux kóðurum í teikningar af\ngræjunum þeirra.\n—Svar: Meðan það er ekki gert þá er þetta enþá vandi, það er ekki afsökun að það gæti verið, þannig afsakanir gæti maður komið\nmeð um allan heiminn.\n—grein:\nMargt af því sem er plug&play fyrir WinXP þarf að restarta linux til að finna\n—add1:\nÞú ert eiginlega bara að gera þig að asna með að setja fram svona fullyrðingar .. þar sem hún er að sjálfsögðu algjört kjaftæði.\n—Svar: afhverju getur mar ekki bara stungið hlutunum í samband í Linux og hún finnur strax já þetta er þessi vélbúnaður hvaðan viltu\nsækja dræverana og án þess að restarta þá virkar það. þannig er með flest í WinXP.\nEldveggirnir\nÉg sagði aldrei að þeir væru betri á windows, sagði bara að sá sem fylgir WinXP er lélegur til að þið væruð ekki að rakka hann niður\nað ástæðulausu, aðrir eldveggir eru meira en nógu góðir og geta hindrað alla nema alvöru hackers.\nVírusarnir\nVið munum öll eftir því þegar ein af stóru Linux síðunum var hökkuð og þeir hefðu getað látið alla downloadað vírusum án þess að\nþeir hefðu vitað af því. Ekki var linux síðan að keyra á Win2k :) Svona er þetta þegar þið talið um fullkomna servers.\nHlutfall vírusa á Apple vélum og Linux hefur aukist meðan þeim er smátt og smátt að fækka fyrir Win alveg í hlutfalli við notendurna.\nOg reyndar eru margar vírusavarnir gefins, ef ekki þá bara downloada demo af einni ef grunur er um vírus.\nÞegar þú settir security settings á low þá hefðiru átt að skilja betur hvað þú varst að gera, með því þá leyfiru öllu java script að keyrast\ná tölvunni þinni og það er bara heimska, og það linux notandi að gera það. Síðan er 9000kr. ekkert fyrir það sem norton getur\n(innifalið er auðvitað LiveUpdate ), jafnvel þó maður þurfi ekkert á honum að halda en hann getur varað við í hvert skipti sem líklegur\nvírus er að koma og jafnvel hindrað hættuleg java script ef mar hefur security á low eins og félagi okkar.\nMín útgáfa af internet explorer kom vel útúr\nhttp://www.ethereal.com/\nsvo ég hef ekkert útá öryggi að setja.\nLinux er ekki eins viðkvæmt fyrir þeim en það er komið svo mikið af vörnum fyrir windows að það er ekki hægt að vera annað en\nöruggur.\nbara svona af gamni.\nTekið af OS NEWS\n“ Why Linux Binaries are not as Easy to Handle?\nSo, why can't we install and distribute programs in Linux with the same ease as we do in other operating systems? The answer lies in\nthe Unix filesystem layout, which Linux distros follow so strictly for the sake of compatibility. This layout is and was always aimed at\nmulti-user environments, and to save and distribute resources evenly across the system (or even shared across a LAN). But with\ntoday's technology and with the arrival of desktop computers, many of these ideas dont make much sense in that context. ”\nIt may offend die-hard computer geeks, but the future of Linux probably rests with corporations and other large organisations, where\nthe heftiest spending and staffing decisions are made and the fate of computer IT is often decided.\nVarðandi OSX þá ekki segja mér að þú segir að linux henti betur handa venjulegu fólki, OSX er það auðvelt í notkun að ömmur geta\nnotað það án aðstoðar. OSX er að mörgu leiti þróaðasta stýrikerfið, eina ástæða þess að ég nota það ekki er að það er ekki nógu\nfjölhæft og lítið úrval af vélbúnaði.\nÉg get talað endalaust. sama hvað þú segir þá færðu mig ekki frá þeirri staðreynd að windows er enþá besta entertainmetn kerfið. Því það er að."
+        },
+        {
+            "user": "ojb",
+            "user_id": "1502",
+            "date": "2003-03-11 09:49:47",
+            "id": "957289",
+            "reply_to_id": "957288",
+            "text": "here we go again ;-)"
+        },
+        {
+            "user": "ojb",
+            "user_id": "1502",
+            "date": "2003-03-11 12:25:07",
+            "id": "957290",
+            "reply_to_id": "957289",
+            "text": "“I will bite your leg off”"
+        },
+        {
+            "user": "Spa",
+            "user_id": "5037",
+            "date": "2003-03-11 12:05:48",
+            "id": "957291",
+            "reply_to_id": "957288",
+            "text": "Og þú heldur því s.s. fram að þú sért að nota “windows” sem slíkt?  Guð minn almáttugur, þú hefðir bara átt að þegja.  Mig hlakkar til að sjá hvað “hinir” segja. :)"
+        },
+        {
+            "user": "JReykdal",
+            "user_id": "77",
+            "date": "2003-03-11 12:35:19",
+            "id": "957292",
+            "reply_to_id": "957288",
+            "text": "Nr.1 þú ert fullur af sk**.\nNr. 2 Hvaða “aðal linux síða” var “hökkuð” (sem er rangt orðalag en þú veist greinilega ekki betur)."
+        },
+        {
+            "user": "okay",
+            "user_id": "621",
+            "date": "2003-03-11 13:47:25",
+            "id": "957293",
+            "reply_to_id": "957288",
+            "text": "Here we go again svo sannarlega…\nJæja kæri , ég ætla að reyna að leiðrétta þá villu sem þú ert kominn í.\n–\nÉg var aðalega að tala um heimilis tölvur, linux er betri sem server í dag það er rétt, sennilegast ekki eftir Server2003 þegar það verður\nkomin sp1 eða eitthvað fyrir hann.\n–\nLítum á hlutina frá HTTP sjónarhorninu shall we? Eins og allt sem komið hefur frá M$ í sambandi við netservera mun Server 2003 án nokkurs vera fullt af villum. Ég ætla einnig að leiðrétta part í grein þinni þar sem þú heldur því fram að fleiri hafi unnið að Server 2003 en samskonar OSS hugbúnaði. Staðreyndin er sú að þetta er rangt þar sem hundruðir þúsinda manna hafa unnið að opnum serverum líkt og Apache og stór hluti þeirra tekið þátt í því verkefni að fækka villum. Enginn hubúnaður er fullkominn, hvorki fyrir *NIX né fyrir Windows heiminn. Staðreyndirnar tala sínu máli. *NIX serverar líkt og Apache eru keyrðir á flestum vefserverum  í heiminum (þó, undarlega, ekki á Íslandi). Flestar klámsíður netsins (sem jú eru undir sífeldum árásum hakkara og gríðarlega mikil traffík á þær) eru keyrðar á Apache serverum á *NIX based kerfi. Segðu mér af hverju svona gríðarlega stór professional fólks taki lélegri hugbúnað fram yfir þann betri..það væri mjög áhugavert. Fyrirtæki sem er svo virt líkt og M$ á ekki að senda frá sér svona gallaðan hugbúnað, skiptir litlu máli þó þeir komi með einhverjar uppfærslur enda innihalda þær bara einhverjar nýjar villur. Það er eðli M$ hugbúnaðar.\n–\nen ég var aðalega að tala um heimilis tölvur og yfirburði windows á því sviði, winXP og OSX eru\nmun betri á því sviði) les ég daglega allt á\nhttp://www.dailyrotation.com\nen það er tengill fyrir öll stýrikerfi og tækni tengdar fréttir. Þar\nhafa OFT komið greinar um Linux vs Windows sem heimilistölvur og hafa þær flestar verið Windows í hag, humm og það segja\njafnvel síður sem eru merktar með mörgæsum útum allt.\n–\nAh, einkatölvumarkaðurinn. Það hefur ekki lengi verið markmið fyrirtækja á borð við Red Hat, SuSE og annara distróa að koma sér inn á þann markað, það er tilturulega nýlegt og má t.d. líta á RH8 í því tilviki, en það var sett á markað sem samkeppni við Windows gluggakerfið og einnig sem server. Þetta er því tilturulega nýlegt og mun lagast.\n–\nWindows XP MediaCenter Edition - nafnið segir allt sem segja þarf, það er ekki hægt að hafa neitt líkt þessu með Linux.\n–\nÉg þarf ekki að vera með einhverja sérstaka útgáfu á Linux til þess að fá mikinn hraða þegar ég horfi á DVD myndir, vinn heima etc. Og það eru til look á Linux sem eru sérhönnuð fyrir sjónvarp og það er hægt ða stjórna þeim með fjarstýringu.\n–\nSmart Display eru þráðlausir LCD skjáir sem keyra WinCE eða PocketPC og er mjög hröð þróun á þeim, Microsoft hefur alla stjórn\ná þeim.\n–\nhttp://zdnet.com.com/2100-1107-976174.html\n—\nLinux er ekki samkeppnishæft varðandi skemmtun og margmiðlun, reynið að koma með rök fyrir öðru.\nEf þú ert ekki fátækur námsmaður þá notarðu ekki linux í þessa hluti.\n–\nNúna eru í gangi mörg verkefni sem miðla að því að láta Linux henta fyrir sjónvarpsskjáinn, og þá er ég til þess að kynna hluti í kvikmyndahúsum og þessháttar. Það er frábær stuðningur við DVD í Linux, frábær stuðningur við öll þau kódök sem þú þafrt að nota, öll þau audio lib sem þig vantar, etc..etc..etc.. Og síðast en ekki síst .. oftar en ekki er hægt að nota TV-out ef kortið styður það\n–\nTölvan mín er t.d. nær algjörlega sjálfvirk og ég get fjarstýrt öllu eins og mér sýnist, þökk sé forritanlegum fjarstýringum, svo er ég\nbara í rúminu og vel hvaða tónlist ég ætla að hlusta á eða hvaða mynd á að horfa á án þess að nota lyklaborð eða mús og kemur\nnokkuð flott GUI þegar ég geri það. (kemur gegnsætt á sjónvarpið eða tölvuskjáinn og sýnir allar breytingar á spiluninni eins og kemur\nmeð nafn á lögum þegar það er skipt og staðsetninu ef spólað er áfram, þetta eru upplýsingarnar sem koma fyrir ofan allt. t.d. ef ég er\ní tölvuleik og einhver er að horfa á video eða hlusta á tónlist þá kemur það bara rétt á skjáinn hjá báðum aðilum, mjög þægilegt.\n–\nÓtrúlegt, ég get einmitt látið XINE gera það sama. Eina málið er, ég á ekki fjarstýringu.\n–\nflest með ókeypis hugbúnaði en einnig er hægt er að fá mun betri gegn gjaldi.\n–\nVeistu, þetta er bara rangt:\nApache, ProFTPd, xine etc..etc..etc..\n–\nÞú getur keyrt 100% öruggt netkaffi jafnvel með windows ef þú setur það upp rétt. Þá t.d. á leikjalönum er eingöngu hægt að spila\ntölvuleiki nema maður hafi rétt aðgangsorð og ctrl+alt+del er ekkert mál að gera óvirkt svo hvað það varðar er hægt að hafa Windows\n100% öruggt og það alveg eins uppsett og þú vilt án þess að þurfa einusinni að forrita.\n–\nWrong again. Ég hef orðið vitni að manni á netkaffihúsi í London (einu af þessum stóru þarna) drepa á þessu dóti og enn og aftur kominn inn í óvarið kerfið. Það eru öryggisholur á þessu öllu ef þú veist hvar þú átt ða leita.\n–\nÞið töluðuð um að maður yrði kærður fyrir smá breytingar á windows þá eru það tröllasögur. sumir virðast meiga selja helling af\nforritum sem eru sér hönnuð til að breyta windows í hvað sem manni sýnist og Microsoft er alveg sama um það. Það er hægt að gera\nán þess að breyta kerfisskrám með því að gera þær óvirkar, þá er það ekki ólöglegt frá Microsoft séð en ef þú ferð að breyta\nApplication Extensions og þannig eins og sumir gera þá er það ólöglegt.\n–\nÞað er ólöglegt að eiga við hugbúnaðinn samhvæmt EULA.\n–\nÞað er ekkert mál með réttum forritum, þú getur opnað flestar kerfisskrár með sér forritum og breytt öllum texta og\nstaðsetningum á hlutum í dialogs. Þá klikkaru bara á það sem þú vilt þýða og skrifar íslenska merkingu. ferð í save. Ef þú ert ekki\nánægður með staðsetninguna á takkanum þá dreguru hann til og þarf enga kunnáttu í það. svo er hægt að losa öll objects frá þó þau\nséu hluti af öðrum forritum, eins og desktoppið hjá mér er fljótandi bara í ganni. (draganlegt)\n–\nÞað er ólöglegt að breyta forritunum nema með leifi höfunda þeirra, sem þú ert örugglega ekki með.\n–\nAð gramsa á netinu.\nFyrst af öllu þá hef ég ekki getað notað back and forward á músartökkunum í Linux í neinum browser, hvað þá aðra sérákveðna\ntakka. Flestir eru komnir með 5 eða fleiri takka á mýsnar sínar og vilja kanski nota þá og það vill svo til að allar mýs geta breytt sér\nsjálfkrafa eftir því í hvaða forriti þær eru að vinna og þú ræður hvaða aðgerðir þær gera en bara í win. Favorites eru stórt dæmi um\nþað sem er ekki hægt að hafa rétt í linux enþá en ég er með öll favorites flokkuð með titlum, svo eru seperators og læti hjá mér en það\nþarf reyndar að downloda forriti fyrir þetta.\n–\nWell, það eru nú bara tveir takkar á minni mús þó, enda hef ég ekkert að gera við fimm takka á henni, það eina sem ég nota hana í er að smella. Góður stuðningur er við lang flestar mýs í XFree86, og ég þori að veðja að ef þú veist hvaða drivera þú átt að nota, þá virka þessi fimm takkar þarna..\nFavorites (er það ekki þarna gamla bookmarks?) er til í Mozilla og Pheonix. Ég hef reyndar ekki heyrt um svona tól til þess að færa þau yfir á diskettur eða eitthvað, en það er hægt þar sem þetta er allt geymt í einni XML skrá.\n–\nOg þið voruð að bölva því að þurfa að setja inn lélegan hugbúnað með vélbúnaði sem þið kaupið. Það sýnir bara að þið kunnið\nekkert á win og þá verð ég að leiðrétta ykkur eins og þið eigið að leiðrétta mig. Ef þú ert með PS/2 eða USB mús þá þarftu enga\ndrævera og scroll takkar og þannig virka sjálfkrafa ef þeir eru til staðar í flestum tilfellum.\n–\nEkki helur í Linux. Allur basic stuðningur við mýs eru inni.\n–\nDæmi um vélbúnað sem virkar ekki með Linux er besta hljóðkort í heimi fyrir\nheimilisnotendur, tekur upp og spilar 24bit hljóð, er 6.1 DTS THX samþykkt, analog error correction, flytur líka analog yfir í góðu\ndolby digital heimabíó hátalara þína og með einum smelli geturðu breytt umhverfisáhrifum.\n–\nSvo hvað, er það ástæðan fyrir því að Linux sækir inn á hljóðvinnslumarkaðinn? Það er hægt að fá þessi hljóðkort til að virka, hvernig veit ég ekki.\n–\nVélbúnaðurinn\n—Grein:\nlinux ekki mjög mikið plug&play enþá og\nþegar maður setur upp nýja drivers þá er ekkert sjálfvirkt eins og í WinXP heldur minnir þetta á tíma Win98, jafnvel verra.\n—Addi1 sagði:\nÉg myndi nú segja að það vandamál lægi hjá hardware-vendorum að vera ekki aktívari að hleypa linux kóðurum í teikningar af\ngræjunum þeirra.\n—Svar: Meðan það er ekki gert þá er þetta enþá vandi, það er ekki afsökun að það gæti verið, þannig afsakanir gæti maður komið\nmeð um allan heiminn.\n—add1:\nÞú ert eiginlega bara að gera þig að asna með að setja fram svona fullyrðingar .. þar sem hún er að sjálfsögðu algjört kjaftæði.\n—Svar: afhverju getur mar ekki bara stungið hlutunum í samband í Linux og hún finnur strax já þetta er þessi vélbúnaður hvaðan viltu\nsækja dræverana og án þess að restarta þá virkar það. þannig er með flest í WinXP.\n–\nÉg geri ráð fyrir því að þú talir um USB dót hérna. USB stuðningur er góður í Linux. Ef þú ert með modulurnar inni er hægt að láta demon setja þær sjálfkrafa í gagnið þegar kerfið finnur hverju hefur verið stungið í samband, og það ótrúlega er, það er ekkert mál.\n–\nVírusarnir\nVið munum öll eftir því þegar ein af stóru Linux síðunum var hökkuð og þeir hefðu getað látið alla downloadað vírusum án þess að\nþeir hefðu vitað af því. Ekki var linux síðan að keyra á Win2k :) Svona er þetta þegar þið talið um fullkomna servers.\n–\nEnginn hélt því fram að það væri ekki hægt að hakka Linux based kerfi. Málið er hreinlega það að það er mun minna um það þó að Linux/*NIX eigi stærri hlutdeild í HTTP vefserverum í heiminum í dag. Þær hafa jú oft verið hakkaðar, enda kemur það fyrir að villur finnast í serverum. Oftast eru þó komin bugfix fyrir þessar villur nokkrum klukkutímum eftir að  þær fundust, svo sá sem sá um þennan server hefur ekki alveg verið að vinna vinnuna sína..\n–\nHlutfall vírusa á Apple vélum og Linux hefur aukist meðan þeim er smátt og smátt að fækka fyrir Win alveg í hlutfalli við notendurna.\n–\nAllir þessir vírusar þurfa að vera keyrðir sem root sem þeir hafi einhver stór áhrif á kerfið. Notendum Windows er annars ekkert að fækka. Þessi lína er í rauninni óttarlega heimskuleg og sannar að vissu leiti fáfræði þína.\n–\nbara svona af gamni.\nTekið af OS NEWS\n“ Why Linux Binaries are not as Easy to Handle?\nSo, why can't we install and distribute programs in Linux with the same ease as we do in other operating systems? The answer lies in\nthe Unix filesystem layout, which Linux distros follow so strictly for the sake of compatibility. This layout is and was always aimed at\nmulti-user environments, and to save and distribute resources evenly across the system (or even shared across a LAN). But with\ntoday's technology and with the arrival of desktop computers, many of these ideas dont make much sense in that context. ”\nIt may offend die-hard computer geeks, but the future of Linux probably rests with corporations and other large organisations, where\nthe heftiest spending and staffing decisions are made and the fate of computer IT is often decided.\n–\nHver sem skrifaði þetta hlýtur að vera hálf ruglaður. Núna er gefinn út fullt af hugbúnaði fyrir Linux í formi binaria. Dæmi um það er hugbúnaður frá CrossOver, þeir leikir sem Loki gaf út meðan það var á lífi, StarOffice 6, Nvidia driverarnir og fleira.\n–\nBúja!\nKveðja,\nÓmar K.\nCassini"
+        },
+        {
+            "user": "halldojo",
+            "user_id": "34839",
+            "date": "2003-03-11 14:26:19",
+            "id": "957294",
+            "reply_to_id": "957288",
+            "text": "“”en ég var aðalega að tala um heimilis tölvur og yfirburði windows á því sviði, winXP og OSX eru\nmun betri á því sviði) les ég daglega allt á\nhttp://www.dailyrotation.com\n“”\nSemsagt það skiptir þig engu máli hvaða þú lest einhverstaðar á netinu, það er bara orðinn heilagur sannleikur hjá þér bara því einhver Jón úti í útlöndum ákvað einn daginn að svona væri þetta?"
+        },
+        {
+            "user": "saint",
+            "user_id": "1078",
+            "date": "2003-03-11 14:45:32",
+            "id": "957295",
+            "reply_to_id": "957294",
+            "text": "Ég verð bara að koma með einn punkt. Oracle sem er einn besti gagnagrunnur sem til er í dag. Setti auglýsingu á baksíðu The Economist.\n“MAKE LINUX UNBREAKEBLE”\nÞetta er bara einn punktur. Ekki sjáum við “Make Windows Unbreakable” ? Er það nokkuð. Það vita allir sem að hafa notað bæði kerfin að Nix kerfin eru betri sem serverar. Það fer bara ekkert á milli mála. Ekki er Orace að koma með svona staðhæfingu útaf að linux er svo mikið dral!\nBara einn punktur í tilveruna."
+        },
+        {
+            "user": "IcEEyE",
+            "user_id": "2285",
+            "date": "2003-03-11 21:55:07",
+            "id": "957296",
+            "reply_to_id": "957295",
+            "text": "——–\nEkki er Orace að koma með svona staðhæfingu útaf að linux er svo mikið dral!\n——–\nÞú verður að muna að Larry Ellison aðaleigandi Oracle hatar Windows."
+        },
+        {
+            "user": "ojb",
+            "user_id": "1502",
+            "date": "2003-03-11 22:08:49",
+            "id": "957297",
+            "reply_to_id": "957296",
+            "text": "Held að hann hafi bara áttað sig á því að ef hann fer ekki í stríð við Windows núna mun ekki vera neitt Oracle eftir nokkur ár. Hann er bara að gæta hagsmuna síns fyrirtækis."
+        },
+        {
+            "user": "add1",
+            "user_id": "1011",
+            "date": "2003-03-11 16:17:09",
+            "id": "957298",
+            "reply_to_id": "957288",
+            "text": "—\nþið komið með ýmsar gagnrínir áður en þið hafið kynnt ykkur windows\n—\n*argh* viltu lesa yfir þessa helv. pósta þína áður en þú sendir þá .. mér bókstaflega -svíður- í augun við að lesa svona villur .. (gagnríni vs. gagnrýni)\nannars tel ég nokk öruggt að all flestir sem nota linux í dag hafa kynnt sér windows það vel að þeir hafa gefist upp á því.\n—\nþað er staðreynd að þið eruð að gera jafnmargar\nvillur og ég í svörum ykkar og ég í greininni\n—\nSorry, nei .. sýnist villurnar liggja þín megin .. bæði í “greininnni” og þessari frekar slöppu tilraun til að reyna að koma með eitthvað comeback á okkur\n—\nles ég daglega allt á\nhttp://www.dailyrotation.com\nen það er tengill fyrir öll stýrikerfi og tækni tengdar fréttir.\n—\nÞannig þú lest .. gaman ..\nAwareness does not equal knowledge\n—\nTölvan mín er t.d. nær algjörlega sjálfvirk og ég get fjarstýrt öllu eins og mér sýnist\n—\nTölvan þín er varla algjörlega sjálfvirk ef þú þarft að fjarstýra henni ?\nOg hvað flokkar þú undir -algjörlega sjálfvirk- .. ekki nema þú lumir á SKYNet tölvunni heima hjá þér er þessi fullyrðing bull\n—\nEf þú ert með PS/2 eða USB mús þá þarftu enga\ndrævera og scroll takkar og þannig virka sjálfkrafa ef þeir eru til staðar í flestum tilfellum.\n—\nÉg held ekki að neinn hafi verið að andmæla þessu, þetta er hægt með öllum stýrikerfum.\n—\nÞað er ekkert mál [að þýðða XP] með réttum forritum, þú getur opnað flestar kerfisskrár með sér forritum og breytt öllum texta og\nstaðsetningum á hlutum í dialogs. Þá klikkaru bara á það sem þú vilt þýða og skrifar íslenska merkingu. ferð í save.\n—\nÞetta kallast ekki lausn, þetta kallast á góðu tölvumáli “hax” -lausn- væri að notast við .po skrár eins og í linux.\n—\nSíðan er vel hægt að fá góða FileManagers ókeypis eða fyrir lítinn pening (Sjálfur vel ég Directory Opus)\n—\nNúna hef ég ekki sjálfur notað Directory Opus en samkvæmt þessum skjáskotum þá er þetta er rootless file manager.\nhttp://www.gpsoft.com.au/preview/preview_17.h\ntml\ns.s býður ekki uppá “desktop”\n—\nafhverju getur mar ekki bara stungið hlutunum í samband í Linux og hún finnur strax já þetta er þessi vélbúnaður hvaðan viltu sækja dræverana og án þess að restarta þá virkar það. þannig er með flest í WinXP.\n—\núúúhhh\nStingur t.d. flashkortalesara í samband, insmod [réttur-modjúll-fyrir-lesarann] og mount /dev/sda1 /mnt/flash\n—\ngríííííðarlega erfitt ekki satt ?\nFólk sem er orðið svo rosalega háð því að stýrikerfið eigi SJÁLFT að segja þér hvaða tæki ÞÚ    varst að kaupa og er fyrir vikið orðið -heimskt- en HELDUR að það sé ótrúlega klárt því að sjálfsögðu tókst ÞVÍ SJÁLFU að setja upp græjuna með að ýta á next.\nÞú minn kæri fellur undir þennan hóp.\n—\nÉg sagði aldrei að þeir væru betri á windows, sagði bara að sá sem fylgir WinXP er lélegur til að þið væruð ekki að rakka hann niður\nað ástæðulausu, aðrir eldveggir eru meira en nógu góðir og geta hindrað alla nema alvöru hackers.\n—\nÉg veit ekki með þig, en tilgangurinn með mínum eldveggjum er að halda -allvöru- hökkurum úti.\nHelda þá windows eldveggir -gerfi- hökkurum úti ?\n—\nVið munum öll eftir því þegar ein af stóru Linux síðunum var hökkuð og þeir hefðu getað látið alla downloadað vírusum án þess að\nþeir hefðu vitað af því\n—\nNei, þessu bara man ég ekki eftir, refresh me memory ?\n—\nSíðan er 9000kr. ekkert fyrir það sem norton getur\n(innifalið er auðvitað LiveUpdate )\n—\n9000 kr. er sko HELLINGS peningur þakka þér fyrir\n—\nVarðandi OSX þá ekki segja mér að þú segir að linux henti betur handa venjulegu fólki, OSX er það auðvelt í notkun að ömmur geta\nnotað það án aðstoðar\n—\nMóðir mín er 43 ára gömul, og á heimilstölvunni hennar (500mhz vél) keyrir KDE 3.1 og hún á ekki í MINNSTU erfiðleikum í almennri vinnslu."
+        },
+        {
+            "user": "Rhesuz",
+            "user_id": "34228",
+            "date": "2003-03-12 01:38:31",
+            "id": "957299",
+            "reply_to_id": "957298",
+            "text": "bara svona af því að add1 um adda frá adda til adda er gagnrýninn á stafsetningu/málfar\n'Við munum öll eftir því þegar ein af stóru Linux síðunum var hökkuð og þeir hefðu getað látið alla downloadað vírusum án þess að\nþeir hefðu vitað af því\n—\nNei, þessu bara man ég ekki eftir, refresh me memory ?'\nhmm á þetta ekki að vera ‘refresh my memory??’\nen burtséð frá því þá finnst mér menn hér tala ansi fjálglega um heimsku annara í öllum mögulegum og ómögulegum hlutum, fer það ekki eftir kringumstæðunum hvort þú ert heimskur??? eflaust er ég heimskur við hliðina á þér í linux en það er ekki þar með sagt að ég geti ekki jarðað þig í öðru, t.d. að veri betri manneskja en þú??? , og svp kemur pointið þið litlu börnin hér eruð að bera saman epli og appelsínur, frekar erfitt en á einhvern óskiljanlegan hátt tókst ykkur það, við ákveðnar aðstæður virkar Linux betur(no contest here), en í annann stað þá eru til aðstæður þar sem windows er mun skynsamlegri kostur, og það er greinilegt að fáir ykkar hafið þroska til að greina þar á milli. en gefum ykkur nokkur ár þá kemur þetta hugsa ég."
+        },
+        {
+            "user": "skaarjking",
+            "user_id": "26378",
+            "date": "2003-03-12 03:48:08",
+            "id": "957300",
+            "reply_to_id": "957299",
+            "text": "HALLÓ varðandi netkaffin þá eruð þið að sýna algjöra vanþekkingu á þeim, það er þá þeim sem er með þetta netkaffi að kenna að allt fór í rugl. ef þú ert læstur inni í shell sem er ekki explorer.exe og leifir þér bara að gera takmarkaða hluti og slekkur á öllum system shortcuts á lyklaborðinu. hvernig er það þá óöruggt? Það er ekkert hægt að ná stjórn ef þú hefur engan aðgang að öðru en öruggum hlutum. hvernig ferðu að því með að öskra á tölvuna? :) Þú getur ekki forritað neitt eða sótt hættulegt efni í lokaðri tölvu og ekki keyrt upp efni af floppy eða CD hvernig eru það þá óöruggt?\nHvað er að því að ég noti directory opus sem file manager? hann er allavega meira advanced en nautilius og conq. Nota hann þó aðalega til að taka til í tölvunni minni.\nEnn og aftur sanniði að þið vitið ekkert hvað þið eruð að tala um varðandi windows tengt heimilistölvum og allir góðir hlutir sem ég tala um windows bara einhvernvegin gleymast hjá ykkur og þið hunsið þá. Það sannar bara að þið eruð eins og öfga múslimar og viljið gera jihad útaf öllu. :) Verðið árásagjarnir og sama hversu oft ég minnist á að ég sé AÐALEGA að tala um heimilistölvur þá fariði alltaf að tala um servers. Engin ykkar hefur hundsvit á því hvað MediaCenter er og þið getið ekki látið linux vera þannig nema eyða löngum tíma í að forrita og engin hefur gert það enþá, þegar er í vinnslu MediaCenter 2 og á það að vera með stuðning við allan “smart” vélbúnaðinn sem microsoft hefur í huga. en já Bill Gates er loksins farinn að miða windows meira við ríka manninn en það er að sjálfsögðu ríki maðurinn sem kaupir hlutina, þeir sem segja að 9000kr sé mikið eins og einn hér fyrir ofan eiga ekki að vera að leika sér með tölvur, allavega ekki til skemmtanna. Það er fólk sem hefur leiki og tölvutengdar skemmtanir og elskar vélbúnað, það er það fólk sem eyðir mestu í tölvur og Linux hentar þeim bara EKKI. Hvernig er þá microsoft langt á eftir öllum? Afhverju gera NVIDIA og allir stóru skjákorts framleiðendur sýnir tækni sína eftir DirectX? Svo fara aðrir að herma eftir því með DirectX eftirhermum.\nTablet henntar mun betur á fartölvur en nokkurt annað stýrikerfi, einnig tekst ykkur að hunsa það alveg. hvernig getur þá microsoft verið á eftir í þeim málum? Microsoft er ekki langt aftur í málunum með MSN 8+ enda er það besta og þróaðasta þjónustan á því sviði og þið hunsið það. þið hunsið allt slæmt sem maður kemur með um linux og hamrið alltaf á því sama um windows.\nÞið hunsuðuð líka GreenWich, microsoft lengi búnnir að vera með beta í gangi af P2P innbyggðu í winxp.\nÞað tengist ekkert heimski að vilja láta gera hlutina fyrir sig, annar væri enþá bara command promt en þið linux kallarnir elskið þau, að skrifa löng skilaboð í stað þess að slappa á og horfa á TV meðan maður gerir það og vera með aðra hendina frjálsa á meðan.\nLinux getur ekki henntað best fyrir entertainment útaf…\nFramleiðendunm leikja.\nFramleiðendum vélbúnaðar.\nFramleiðendum hugbúnaðar.\nAllt tengt entertainmetn þú færð betri lausnir í windows hvað er erfitt að skilja það. Media Center er t.d. ekki bara til að horfa á DVD, þið sínið bara vanþekkingu ykkar á windows. samt kallið þið mann heimskan, það er hámark heimskunnar því þá eruð þið að kalla ykkur heimskari.\nStrax farnir að gagnrína að ég hafi sagt favorites, þetta er ekki favorites eins og í internet explorer, maður breytir ekkert um nafn þótt tæknin breytist, þetta eru enþá favorite web pages halló! Alltaf strax með gagnrínistónin áður en þið vitið hvað þið eruð að tala um, ég var að segja að ég er með alla links að vefsíðum hjá mér flokkaða og Safari frá apple kemst ekki nálægt því að getað flokkað eins vel og hjá mér.\nDaily Rotation er ekki einhver einn maður það er stærsta samansafn tölvutengdra fréttasíðna sem ég hef séð.\nBara til að krydda aðeins uppá þetta með fáranlegum dæmum til að sýna ykkur hvað þetta er fáranlegt hjá ykkur. :) Það er eins og þú segir við einhvern: Þú ert boginn í baki og hann svarar þú ert allur bólugrafinn og það vantar á þig hendina. þá myndiru aftur segja : þú ert boginn í baki. (og það væri eina sem þú hefðir að segja )\nBTW\nhvernig getiði verið svona óánægðir og taka allt svona persónulega? Þið eruð að segja að það eigi ekki að taka þessu eins og trúarbrögðum en svo eruð þið verri en verstu öfga múslimar.\nÉg minntist ekki á lite step því það er hræðilega gamaldags, ófullkomið og ekki hægt að gera það eins og manni sýnist.\nÞað þíðir ekkert að segja við ykkur þar sem þið sjáið allt sem trúarbrögð. BTW þá er það alveg eins með Mac menn, 100% sömu viðbrögð frá þeim.\nSamt talið þið illa um mac menn, það sýnir bara að það er ekki hægt að rökræða við ykkur.\nLinux menn sem segja að Linux hennti betur en OSX og WinXP sem heimilistölvur ættu bara að draga sig í hlé. Það er endalaust hægt að koma með eitthvað niður í ykkur sem sannar styrk stýrikerfa fávitanna eins og þið viljið orða það.\nÉg sé ekki hvernig fólk getur verið heimskt ef það vill ekki þurfa að eyða verðmætum tíma í bull eins og linux fyrir heimilistölvur, með nægilegar varnir í windows þá ættiru að hafa meiri áhyggjur af því að það væri stolið tölvunni þinni, það eru margfallt meiri líkur á því, afhverju eruð þið þá ekki öll búin að fara út í búð og kaupa þjófa varnir eða smíða ykkur sjálf með GPL :) slappið af.\n———————————————-\nSkemmtilegar sögur. Man ekki eftir því hvaða stóra linux síða það var sem var hökkuð en svona minniháttar fyrir neðan. Bara að segja að linux hefur verið hackað oftar en einusinni og það er mikið miðað við hvað fáir nota linux samanborðið við win.\nI had my server hacked on Friday. Someone got root access, possibly\nthrough VNC, and deleted all the files on the server, taking down four\nwebsites. Usually you might expect someone to take the “credit” for\nthis, but not a peep.\nFrank Hilliard\nhttp://frankhilliard.com/"
+        },
+        {
+            "user": "nphobic",
+            "user_id": "902",
+            "date": "2003-03-12 09:20:13",
+            "id": "957301",
+            "reply_to_id": "957300",
+            "text": "Litestep er alveg ágætt, getur krukkað ansi mikið í því og mér allavega fannst fljótara heldur en explorer.exe þó að það virtist ekki taka mikið minna minni (17k mb á móti 20k mb hjá explorer.exe).\nÉg nota windows xp, hef notað windows síðan ég fékk mína fyrstu tölvu. Og ég mun halda áfram að nota windows því það er þægilegra að keyra leiki á því. En ég hef fullan hug á að prófa linux, það er fjandi mikið að stýrikerfismappan taki 1,8 gb, næstum því 1/5 af því plássi sem ég hef á harða disknum(og nei, ég er ekki það heimskur að þetta sé risastór temporary files)\nNei, þessu bara man ég ekki eftir, refresh me memory ?'\nhmm á þetta ekki að vera ‘refresh my memory??’\n—\nGetur verið me memory, ekki málfræðilega rétt í talmáli en tíðkast meðal breta að segja me í staðinn fyrir my í talmáli :)\nafhverju getur mar ekki bara stungið hlutunum í samband í Linux og hún finnur strax já þetta er þessi vélbúnaður hvaðan viltu sækja dræverana og án þess að restarta þá virkar það. þannig er með flest í WinXP.\n—-\nWell, ég skal viðurkenna að ef ég ætlaði að setja windows xp aftur upp þá myndi ég ekki þurfa að setja mikið inn sjálfur. En t.d. þá fékk lánaðan geisladiskbrennara hjá systur minni, hp e8200+ og þrátt fyrir ég hafi uppfært biosið, sótt nýja rekla og alles fyrir þetta tæki þá vill windows ekki skilja að þetta er skrifari, EKKI geisladrif. Get svo sem notað HP record now en ansi mörg skrifaraforrit styðjast við windows til vita hvort það er skrifari í tölvunni og þar af leiðandi vita ekki að það er skrifari festur við tölvuna\nI had my server hacked on Friday. Someone got root access, possibly\nthrough VNC, and deleted all the files on the server, taking down four\nwebsites. Usually you might expect someone to take the “credit” for\nthis, but not a peep.\nFrank Hilliard\nhttp://frankhilliard.com/\n—\nHmm, í fyrsta lagi virkar þessi síða ekki, í öðru lagi fer það eftir þeim sem setur serverinn upp hvort hann er öruggur eða ekki, er alveg örugglega hægt að setja linux upp þannig að það verði jafn “örrugt” og windows 95a"
+        },
+        {
+            "user": "nphobic",
+            "user_id": "902",
+            "date": "2003-03-12 09:27:02",
+            "id": "957302",
+            "reply_to_id": "957301",
+            "text": "Gleymdi einu, þegar ég var að athuga með að setja linux upp á fartölvunni minni(IBM R31) þá fann ég ég fjórar góðar greinar um þau vandamál sem gætu komið upp í uppsetningu á redhat á þessari tölvu ásamt lausnum á þeim. Mjög svo gott :)"
+        },
+        {
+            "user": "ojb",
+            "user_id": "1502",
+            "date": "2003-03-12 09:32:51",
+            "id": "957303",
+            "reply_to_id": "957300",
+            "text": "Hef ekkert á móti OSX, gæti vel hugsað mér að fá mér eins slíka næst."
+        },
+        {
+            "user": "Bake",
+            "user_id": "5588",
+            "date": "2003-03-12 09:52:07",
+            "id": "957304",
+            "reply_to_id": "957300",
+            "text": "Vissir þú að CTRL-ALT-DEL er ekki hluti af explorer.exe?\nVissir þú að CTRL-ALT-DEL er hluti af stýrikerfiskalli SEM ER EKKI HÆGT AÐ BLOKKERA eins og þú þykist halda?\nVissir þú að þú getur ræst Task Manager úr CTRL-ALT-DEL?\nVissir þú að úr Task Manager get ég keyrt, nokkurn veginn það sem mér dettur í hug, svo fremi sem ég hef directory access að því?\nÞessa setningu með nVidia og aðra skjákortaframleiðendur og tengsl þeirra við DirectX skyldi ég einfaldlega ekki. Ég giska þó á að þú hafir verið að gefa í skyn að OpenGL sé eftirherma af DirectX. Fyrst svo er hef ég þetta að segja: þér eruð fífl. Síðast er ég athugaði var  það ekki heiglum hent að herma eftir einhverju sem ekki hefur verið fundið upp. OpenGL 1.0 kom út 1992, sem er þónokkrum árum áður en Microsoft vissi hvað 3D var. Þér til fróðleiks er OpenGL upprunnið hjá SGI (Silicon Graphics) en þaðan hefur einungis ein Windows vél komið, hún floppaði, enda Windows ekki fínt platform fyrir heavy duty myndvinnslu.\nÞú segir að Windows sé farið að miða meira og meira við ríka tölvuáhugamanninn sem eyðir miklum pening í vélbúnað og finnst ekkert tiltökumál að eyða 9000 kr. í Norton AV. Ég hef tvær athugasemdir við þetta.\n1) Ég er kannski einhver gúbbífiskur með gúbbífiskaminni, en sagðiru ekki að það væri nóg að fara bara varlega í tölvunotkun til að losna við vírusa?\n2) Tölvuáhugamenn sem eyða miklum pening í vélbúnað og hafa gaman af eru að öllum líkindum ekkert alltof hressir með að henda 10þúsund kalli í hugbúnað sem, gerir sitt besta til að eyða minni og gera tölvuna hægvirka.\nÞú segir að Media Center 2 sé ekki bara til að spila DVD heldur sé það svo miklu miklu meira ( © Síminn). Þannig að það getur spilað DivX myndir, spilað MP3, tekið upp vídjó af sjónvarpskorti og/eða grabber korti? M.ö.o. er það eins og Media Player fyrir X-Box, fyrir utan upptökuna sem er nú bara eins og Tivo (sem er n.b. Linux based vara). Sami Media Player og er gefinn út sem frír og frjáls hugbúnaður undir GPL leyfi? Sama leyfi og er notað fyrir undirstöðuhugbúnað í Tivo (stýrikerfið þ.e.).\nÉg endurtek fyrri yfirlýsingu: þér eruð fífl.\nÞú segir að Tablet henti betur fyrir fartölvur, þá spyr ég einfaldlega, af hverju?\nTablet XP er ekkert annað en Windows XP með stuðningi fyrir svona pennagræjur og snertiskjái. Microsoft segir það meira að segja sjálft, þannig að þú getur ekki einu sinni sakað mig um að ljúga í þeim efnum!\nVarðandi Favorites/Bookmarks/{insert familiar phrase}, þá spyr ég bara hvernig þú getur raðað þeim svona vel upp eins og þú segir? Ég var sjálfur að prófa að kveikja á IE og varð ekki var við þá röðunarmöguleika sem ég finn í Phoenix/Mozilla, hvergi gat ég raðað eftir titli, urli, lýsingu, lykilorðum (keywords), því hvenær ég bætti við þessu bookmarki, hvenær ég heimsótti þetta bookmark, hvenær ég _breytti_ þessu bookmarki síðast. Ég gat ekki einu sinni fengið að ráða því hvort það raðaðist upp eða niður á við (A-Z eða Z-A). Eina sem ég gat gert í IE sem ég gat gert í Phoenix (þó ekki Mozilla) var að smella á bookmark og færa það til.\nJei, ég gat fært bookmark til, vill einhver gefa mér köku fyrir að vera duglegur?\nVarðandi þennan Frank Hilliard gaur og servera hans, þá stendur þarna fyrir ofan að hann það hafi að öllum líkindum verið í gegnum VNC. Ég segi bara: leiðinlegt. Hvað í ósköpunum var hann að gera með VNC opið á vefþjón. Til að komast í gegnum VNC þarf bara pass, ekki username og pass. Hvað sem hver segir, þá er lykilorðaöryggi jafn mikið óöryggi hvort sem maður er á Linux eða Windows.\nÞér finnst við sem svörum þér bregðast fullharkalega við gagnrýninni. Við bregðumst vel við góðri gagnrýni, bregðumst hins vegar illa við gagnrýni sem á ekki fót fyrir sér. Það að líkja okkur við herskáa múslima er bara vitleysa. Betri samanburður væri ósköp venjulegur og friðsamur múslimi sem bregst við því að einhver rugludallur segir alla múslima vera vonda menn sem hrella gamalmenni og borða börn.\nEnn og aftur, hver í fjandanum ert þú að segja mér fyrir um hvað er hentugt og hvað ekki á minni heimilistölvu. Og að segja að Windows sé bara gott og blessað stýrikerfi á hinu stórhættulega Interneti eftir að maður er búinn að setja upp nægilegar varnir er svosem rétt, en það er samt bara rugl.\nTrabant getur svosem verið ágætis bíll ef maður setur í hann ágætis vél til að gera hann kraftmeiri, og setur svo sterkar og góðar hurðir og öryggisbelti upp á öryggið. Það breytir hins vegar ekki því grundvallaratriði að þetta sé Trabant og skv. skilgreiningunni algjört brak."
+        },
+        {
+            "user": "Titan",
+            "user_id": "7585",
+            "date": "2003-03-12 11:30:05",
+            "id": "957305",
+            "reply_to_id": "957304",
+            "text": "Bake þann 12. mars - 09:52\n————–\nVissir þú að CTRL-ALT-DEL er ekki hluti af explorer.exe?\nVissir þú að CTRL-ALT-DEL er hluti af stýrikerfiskalli SEM ER EKKI HÆGT AÐ BLOKKERA eins og þú þykist halda?\nVissir þú að þú getur ræst Task Manager úr CTRL-ALT-DEL?\nVissir þú að úr Task Manager get ég keyrt, nokkurn veginn það sem mér dettur í hug, svo fremi sem ég hef directory access að því?\n———————–\nEn vissir þú að það er hægt að loka fyrir Task manager ???. Það er t.d. gert í versló."
+        },
+        {
+            "user": "Titan",
+            "user_id": "7585",
+            "date": "2003-03-12 11:37:58",
+            "id": "957306",
+            "reply_to_id": "957305",
+            "text": "tengist ekki beint, enn ég verð að spyrja .. hvað má í verlzó??.. mætti halda að allt væri bannað að gera þar nema opna word og prenta út…"
+        },
+        {
+            "user": "okay",
+            "user_id": "621",
+            "date": "2003-03-12 13:37:42",
+            "id": "957307",
+            "reply_to_id": "957300",
+            "text": "Jæja skaarjking.\nFyrst ætla ég að koma því á framfæri að markið Linux er ekki að verða eins og Windows og ef eitthvað er að verða andstæðan..\nÍ nýjustu greininni þinni ertu eiginlega ekki að bera rök fyrir máli þínu heldur einungis að vera með skítkast sem mér og öðrum hérna er illa við. Ég játa það að ég hef s.s. kallað þíg eitthvað hérna, en engin grein frá mér hefur einungis innihaldið skítkast líkt og þessi. Fyrst hef ég áhuga á því að þú hættir þessum fjárans fíflaskap eins og síðasta greinin þín einkenndist af, og næst ætla ég að svara því sem mér finnst vert að svara.\nMér finnst óþægilegt að nota GUI filemanangera. Ekki vegna þess að það er svo 1337, eða 31337, heldur einfaldlega vegna þess að ég vinn ekkert hraðar á þeim. Hvort sem ég prufa Gentoo, Konq eða eitthvað annað, þeir passa ekki við mig. Samt eru til margir mjög góðir. Dæmi um einn er einmitt Gentoo, frábær advanced GUI filemananger.\nMediaCenter já, jú, það eru í gangi project sem eiga að herma eftir þeim. Hæpið að þau eigi að verða jafn fullkominn enda segi ég, hvað hefur einhver að gera við svona? Við höfum komist án þeirra hingað til. Ef þú hefur einungis áhuga á að horfa á bíómyndir og leika leiki í tölvunni þinni, fáðu þér PlayStation.\nDirectX já. SDL er ávalt að auka hlutdeild sína í nýjum leikjum. Hægt og bítandi. Ástæðan fyrir því að NVidia og aðrir hardware framleiðendur sem framleiða sín tól aðalega fyrir leikjafólk miða sitt dót ekki við DirectX. Þeir hanna þetta eftir einhverjum stöðlum sem DirectX er svo hannað með tilliti til. SDL, eins og áður kom fram, er þó alltaf að verða stærra enda vita leikjaframleiðendur það að það er meira vit í að smíða leiki sem virka á fleiri en einu stýrikerfi.\nÞað eru til tól sem stilla fyrir þig router sjálfkrafa (líkt og “Connection Sharing”) og veistu, þá geturðu haft hina hendina fría. Dæmi um það er YaST2.\nÉg veit ekkert um MSN8+, en hversu sniðugt sem þú telur það vera þá færi ég ekki að nota það, ástæðan er ekki sú að þetta sé frá M$, heldur einfaldlega sú að ég vill vita hvað er gert við þær upplýsingar sem ég læt M$ í hendur um mig. Annað er að ég hef ekkert að gera við tól sem geymir eitthvað svona drasl fyrir mig á server einhverstaðar úti í heimi. Fyrir spjall milli einstaklinga (IM) notast ég við Jabber. Með Jabber get ég svo nota einskonar Transports til að tengja mig yfir á MSN, AOL, YIM, ICQ og fleiri þjónustur. Það finnst mér sniðugra.\nTekið af microsoft.com:\n“Windows XP Media Center Edition provides all the benefits of Windows XP Professional and more. Browse the Internet; communicate with friends and family; enjoy your music and video collections; watch DVDs; work from home; and much more. See how people like you are using Windows XP Media Center Edition.”\nAha, ég get gert þetta hérna. Svo skilst mér að þetta snúist líka um að tengja tölvuna við sjónvarpsloftnet og þessháttar, ég get gert það undir Linux líka og ég get stjórnað því með fjarstýringu. Örugglega ekki jafn þróað og þetta MediaCenter dæmi enda, eins og marg oft hefur komið fram er Linux ekki um það að verða eins og Windows og snýst eiginlega um andstöðuna eins og áður kom fram.\nSvo ætla ég að benda á það að enginn hélt því fram að Linux væri óhakkanlegt, ekkert stýrikerfi er það. Aftur á móti er mismunandi létt að hakka stýrikerfi..og ég les slashdot.org.\nEnn og aftur ætla ég að biðja þig um að dæma ekki alla þá sem kjósa að nota Linux á vinnustöðvar heimska, þetta lýsir þinni hæfni að rökræða best.\nMeð von um skjót svör (sem ég mun að öllum líkindum fá),\nÓmar K.\nCassini"
+        },
+        {
+            "user": "Noproblem",
+            "user_id": "23636",
+            "date": "2003-03-12 14:26:28",
+            "id": "957308",
+            "reply_to_id": "957307",
+            "text": "mikið rosalega eru allir leiðinlegir vði hvorn annann hérna ? :l\nég veit ekkert um linux en langaði að spurja hvort það sé hægt að vera með t.d RedHat 8 og WinXP á sama HD og reboota til að skipta á milli ?\n:)\nbtw. skaarjking hvernig nenniru að skrifa sona langt mar ? :E"
+        },
+        {
+            "user": "halldojo",
+            "user_id": "34839",
+            "date": "2003-03-12 14:37:23",
+            "id": "957309",
+            "reply_to_id": "957308",
+            "text": "Jamms Duff það er hægt."
+        },
+        {
+            "user": "Spa",
+            "user_id": "5037",
+            "date": "2003-03-12 16:01:07",
+            "id": "957310",
+            "reply_to_id": "957300",
+            "text": "“Hvernig er þá microsoft langt á eftir öllum? Afhverju gera NVIDIA og allir stóru skjákorts framleiðendur sýnir tækni sína eftir DirectX? Svo fara aðrir að herma eftir því með DirectX eftirhermum.” - Ertu að djóka?  Ertu að gera gys að okkur eða?\nDX er hannað TIL ÞESS AÐ WINDOWS GETI NÝTT KOSTI KORTANA!  DirectX er rugl, til hvers að nota hálfgert software rendering þegar þú getur notað OpenGL t.d.  Sem er jú beint á kortinu.  Geturu svarað því?\nOg svo talar þú eins og allir þeir sem vaði ekki í peningum eigi bara alls ekkert að nota tölvur.\nOg þú talar um að það sé ekki hægt að rökræða við okkur, ertu að segja mér að ÞÚ vitir hvað rökræður eru í raun?\n“I had my server hacked on Friday. Someone got root access, possibly\nthrough VNC, and deleted all the files on the server, taking down four\nwebsites. Usually you might expect someone to take the ”credit“ for\nthis, but not a peep.”  - Það er enginn að halda því fram að linux sé “óhakkanlegt”, en á ég að segja þér frá svolitlu sem er í windows?  Það heitir NetBIOS og gefur öllum þeim sem áhuga hafa á að komast inn á hörðu diskana í tölvunni þinni.  Þetta er hlutur sem kom í win95(held ég) og hefur verið þar síðan.  Svo talaru um að linux vélar séu meira hakkaðar en windows, það gæti barasta vel verið!  Þarsem Unix kerfi á Apache eru um 60% vefservera á netinu, meðan Windows er með 25-30%.  Komdu með rök fyrir því sem þú segir áður en þú hraunar yfir linux.  Þú veist bara ekkert, þú ert búinn að sanna það þrisvar."
+        },
+        {
+            "user": "IcEEyE",
+            "user_id": "2285",
+            "date": "2003-03-13 00:13:42",
+            "id": "957311",
+            "reply_to_id": "957310",
+            "text": "——————————–\nDX er hannað TIL ÞESS AÐ WINDOWS GETI NÝTT KOSTI KORTANA! DirectX er rugl, til hvers að nota hálfgert software rendering þegar þú getur notað OpenGL t.d. Sem er jú beint á kortinu. Geturu svarað því?\n——————————–\nMá ég spyrja.  Veist þú eitthvað um DirectX og OpenGL?  Mér sýnist ekki.  Í upphafi var DirectX native API á nVidia kortum og þar mað var DirectX miklu hraðvirkara en OpenGL.  Nú skiptir litlu máli fyrir kortin hvort þú notar DirectX eða OpenGL því ný kort styðja það nýjasta í DirectX og OpenGL."
+        },
+        {
+            "user": "teknique",
+            "user_id": "1626",
+            "date": "2003-03-13 03:10:34",
+            "id": "957312",
+            "reply_to_id": "957311",
+            "text": "DirectX hefur alltaf verið þekkt fyrir að vera slow."
+        },
+        {
+            "user": "nonni2",
+            "user_id": "5379",
+            "date": "2003-03-14 22:32:07",
+            "id": "957313",
+            "reply_to_id": "957274",
+            "text": "halelúja linux er flóknara windows er tilbúnara. ég prufaði mandrake um dagin í tölvunni minni sem er 700mhz og það er helviti flott umhverfi lítur vel út og massa mikið af forritum maður þarf ekkert annað enda seti ég það up full install. bara leikirnir t.d tennis leikurinn (sem fylgdi mandrake) laggar til helvítis mér sýndist ekki vanta drivera linux setti alla drivera um sjálft meirin seiga sjónvarpskortið. maður þarf að seta bara um linux og windows bæði upp bara hvernig er farið að því. að hafa bæði á sama disk."
+        },
+        {
+            "user": "ojb",
+            "user_id": "1502",
+            "date": "2003-03-14 23:24:25",
+            "id": "957314",
+            "reply_to_id": "957313",
+            "text": "Síðast þegar ég gerði þetta byrjaði ég á að hreinsa partition töfluna ( eyða öllu). Búa svo til Windows partion ( skilja eftir autt pláss fyrir linux ). Setti upp Windows. Bætti við linux partionum og setti upp linux. ( passa að formatta ekki windows partitionina )\nEkki setja Linux upp fyrst því þá eyðir Windows því út."
+        },
+        {
+            "user": "demonz",
+            "user_id": "3238",
+            "date": "2003-03-15 16:30:05",
+            "id": "957315",
+            "reply_to_id": "957314",
+            "text": "Ekkert endilega ojb…fer aðallega eftir því hvað er primary partition og hvað ekki…\nWindows vill hafa sinn boot.ini fæl á primary og getur ekki installast án þess…\nSíðan ættu allir að passa sig á Partition Magic varðandi linux partition…\nPM merkti linux partitionið mitt sem BAD og lét sem það væri eitthvað skemmt…\nÉg lét þá PM “laga” það og það gat það ekki nema með þeim snilldarhátt að eyða því bara…jeeeyy…"
+        },
+        {
+            "user": "Spa",
+            "user_id": "5037",
+            "date": "2003-03-15 15:32:16",
+            "id": "957316",
+            "reply_to_id": "957313",
+            "text": "Nonni2, það er alveg eðlilegt, því að mandrake setur aðeins upp “basic” drivera fyrir skjákort, til dæmis.  Prufaðu að fara á www.nvidia.com(ég býst við því að þú sért með gforce kort.) og ná í drivera fyrir kortið þitt.\nÞá hættir laggið :)"
+        },
+        {
+            "user": "okay",
+            "user_id": "621",
+            "date": "2003-03-10 08:11:30",
+            "id": "957317",
+            "reply_to_id": "957272",
+            "text": "Þessi grein þín, kæri skaarjking var helvíti áhugaverð lesning og er þá lítið sagt. Ég ætla ekki að rekja alla greinina í gegn líkt og add1 gerði, heldur fara í nokkur atriði sem gripu athygli mína.\nÍ fyrsta lagi…\nSambandi við partition. Þú þarft ekki nauðsynlega að skipta upp disknum þínum til að keyra Linux stýrikerfið og það er lítið mál að keyra kerfið allt á einni partition þó að það sé auðvitað ekkert annað en snarklikkað. Mun betra, ef þú þaft að gefa einstaka forritum til að skrifa á partitionur að mounta þær með þeim parameterum. Annars er þetta bæði sniðugt og fer alls ekki illa með diskinn. Og að það sé flókið að fylgjast með innihaldi disksins, ég mæli stórlega með því að þú lærir aðeins á kerfið sem þú ert að gagnrýna hérna..\nNæst..\nAh, já..í sambandi við ræsitíma. Eins og add1 talar um hérna í svarinu að framan er hægt að stilla hversu margar þjónustur eru ræstar með Linux. Í kerfum líkt og Red Hat og Mandrake er það líklegast hægt með einhverjum tólum. Þetta er þó allt stillingaratriði og tengist Linux s.s. lítið. Mörg af þeim tólum sem ræst í default uppsetningu þessara kerfa þurfa ekki að vera á heimilistölvu og því skal aftengja þau.\nOg Plug&Play stuðningur. Linux styður plug&play.\nPunktur.\nVélbúnaðarstuðningur fyrir Linux er góður en auðvitað má bæta hann. Ástæðan fyrir því að oftar en ekki er ekki til stuðningur fyrir Linux er ekki Linux eða þróendum þess að kenna, heldur einfaldlega vegna þess að vélbúnaðarframleiðendum er illa við að hleypa fólki í kóðan og virðast hafa eitthvað á móti því að skrifa stuðning fyrir Linux. Samt í eru í gangi óteljandi verkefni sem snúast um það fyrst og fremst að koma stuðningi við hin ýmsustu hljóðkort og annað inn í Linux kerfið.\nEn núna þarf ég að skreppa, klára þetta á eftir..\nKveðja,\nÓmar K.\nCassini"
+        },
+        {
+            "user": "okay",
+            "user_id": "621",
+            "date": "2003-03-10 08:31:04",
+            "id": "957318",
+            "reply_to_id": "957272",
+            "text": "Jæja, ég var kominn að umræðu þinni um gluggaumhverfi fyrir Linux. Sjálfur nota ég hvorki KDE né Gnome þar sem þessi umhverfi henda mér ekki og mér hefur aldrei fundist neitt sérstaklega þægilegt að nota þau en eitt veit ég. Vinnan við þessi umhverfi er gríðarleg og þó að þau séu gefin út undir GPL samþykktini dregur það ekki úr gæðum þeirra og ef eitthvað er eykur þau. Vegna þess að þetta er opinn hugbúnaður eru villur í honum fyrr lagaðar en í lokuðum hugbúnaði þar sem mun fleiri forritarar vinna að KDE en að umhverfi Windows stýrikerfana (og já, ég get sagt þetta án þess að koma fram með neina heimild, þetta er nefnilega staðreynd.). Trúðu mér, að skrifa forrit sem fylgja KDE eða Gnome pakkanum er ekki þannig að forritarinn hafi 100% frjálsar hendur heldur er hann bundin einhverjum takmörkunum sem eru settar til þess jú að samhæfa útlit og notkunarmögulega forrita. Þetta sést bersýnilega þegar kíkt er á KDE3 en samhæfni milli hina mismunandi KDE tóla er gríðarleg. Auðvitað má svo hver sem er forrita tól sem notast við þau library KDE byggir en mundu, það er þá ekki KDE tól.\nOg já, það er hugbúnaðurinn sem hrynur, ekki Linux. Ástæðurnar fyrir því að hugbúnaður hrynur geta verið margar. Geta verið léleg uppsetning á stýrikerfinu geta jafnvel verið léleg forritun á forritinu og ég get lengi talið..\nUppseting routers (“Connection sharing”) er ekki neitt mál með Linux og það skemmtilegasta er að þú þarft ekkert að hugsa um á hvaða stýrikerfi þú ert að routa, það virkar á þau flest. Þetta komment hjá þér gerir ekkert annað en að endurspeigla ruglið sem kemur út úr þér. Notendur Linux hafa þrjá aðalvalmöguleika til að skoða vefsíður, Gecko(Mozilla, Phoenix..), Opera og Konqueror. Þessi forrit eru ekki verri en IE og ef eitthvað er betri.\nEkki REYNA að halda því fram að einhverjir keyptir eldveggir fyrir Windows svo mikið sem komist með tærnar þar sem netfilter (Linux 2.4) er með hælana. Það er ekki einusinni hægt að bera þetta saman..\nVitna í svarið hans add4 (á ég ekki að beygja það svona ;) um það að Linux alveg jafn viðkvæmt fyrir vírusum. Vírusinn í Linux myndi keyra í vernduðu umhverfi og ekki komast neitt annað en í home möppuna og það skiptir (amk á að skipta..) litlu máli hvort hann skemmir eitthvað þar fyrir stöðuleika kerfisins.\nFréttirnar um öryggisglufur í Windows eru ekki ýktar. Það eru óteljandi öryggisholur í Windows sem við vitum af, og líklega enn fleiri sem við vitum ekki af. Það hefur komið á daginn að Microsoft heldur upplýsingum um villur frá augum almenningsins en gerir þó ekki við þær..\nOg að lokum:\n- Engin skal keyra linux sem heimilistölvu nema hann sé lítið efnaður. Linux skal eingöngu vera notað af servers og hackers.\nVeistu, það á að slá þig fast.\nKveðja,\nÓmar K.\nCassini"
+        },
+        {
+            "user": "HinrikSig",
+            "user_id": "14816",
+            "date": "2003-03-10 08:46:33",
+            "id": "957319",
+            "reply_to_id": "957272",
+            "text": "Jahá, það er nokkuð erfitt að finna eitthvað sem meikar sense í þessari grein.\nVarðandi GPL. Maður þarf ekki að fá borgað fyrir að forrita til að gera það vel. Ég meina, ef þeir gera þetta af sínum vilja, þá er allavega TRYGGT að það sé einhver metnaður í vinnu þeirra. Síðan eru gallar ekki lengi að sýna sig(og lagaður af hverjum sem tekur sig til með að gera það) ef allur heimurinn er með source kóðan."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2003-03-10 08:53:33",
+            "id": "957320",
+            "reply_to_id": "957272",
+            "text": "Gaur ég vel LINUX. Margar ástæður fyrir því ég er með tvær tölvur önnur keyrði win2000 og hin Linux Red Hat. Linuxinn er á hægari tölvu nánast helmingi hægari(1-3 mhz til eða frá) bara samanburður á þessum tveim vélum er nóg fyrir mig.\nAnnars tapaði ég allri trú á windows þegar ég las að þeir hefðu sett viljandi galla í MSN (eða eitthvað þanneig) eingöngu til að hæga á Opera browsernum. Ég er á móti svona alskonar yfirgengilegri vitleysu, þegar windows er farið að gera villur í eiginn vöru til að eyðileggja fyrir öðrum er manni nóg boðið og hvað segir það okkur, windows er farið að vera hrætt um sig, þeir vissu að Opera hefði allt fram fyrir IE og þess vegna verða þeir hræddir. Ég væri ekki hissa ef þeir fáu vírusar sem lenda á Linux séu gerðir af windowsmönnum :D .  En gaur í alvöru ef þú gefur þér smá tíma til að læra á Linux þá getur gert allt svo mikið betra í Linux.\nÖnnur staðreynd sem mér finnst bara verða koma hérna, Volvo keyrir Linux ;D og er Volvo mara ekki svölustu bílarnir.\nÉg tala bara svona án allra tæknivitleysu ;D hana þarf ekki hérna því þeir fáu útvöldu sem hafa uppgötvað Linux eru þá bara heppnir, en það er pláss fyrir fleiri.\nÆji svo eitt en varðandi þarna uppfærslur og villur, ég fæ póst nánast daglega um allskonar villur, uppfærslur og leiðir til að laga til RH.  Windows gefur út ein service pack á 6 mánaðafresti sem innhalda svo fleiri villur, að vísu er hægt að fá svona littla Q packa einhverja en vinur minn sem updateaði WinXp hjá sér þurfti að hringja í mig því hann var alveg totaly lost, því eftir að tölvan hafði náð sljálfkrafa í þetta (án þess að hann vissi) þá setti hún þetta upp og restartaði svo vildi hún bara ekkert keyra OSið upp heldur fór bara í klessu.\nNú er ég búinn að tala nóg held ég kv,\nAlf(þetta Ne hef ég aldrey fattað)"
+        },
+        {
+            "user": "Aquatopia",
+            "user_id": "9",
+            "date": "2003-03-10 08:56:41",
+            "id": "957321",
+            "reply_to_id": "957272",
+            "text": "Ég hef með tímanum algjörlega gefist upp á windows, og fært mig meira og meira yfir á linux. Í dag fer ég einstaka sinnum yfir í windows ef ég þarf að gera eitthvað voðalega fínt og sætt skólaverkefni í word/excel.\nReynsla úr windows:\n1. Ég var í mínu sakleysi að browse'a eitthvað með IE 6 og hvað gerist… ég fæ vírus í gegnum browserinn. Ég fékk enga spurningu um hvort ég vildi leyfa einhverju dóti að keyra eða ekki. Og það að segja að ég eigi að vera með security settings á low er bara rugl. Maður Á ekki að fá vírus í gegnum browser nema maður hafi downloadað einhverju kjána forriti.\n2. Þetta er eitt mesta áreiti sem ég verð fyrir yfir daginn, þe. ef ég nota windows, þetta er alltaf blikkandi, alltaf eitthvað að poppa upp, alltaf eitthvað að gerast sem ég er ekkert að biðja um, maður gæti alveg sleppt að fara í bíó til að sjá e-ð spennandi, bara fylgjast með windows og sjá hvað það tekur upp á :)\nNokkur svör við greininni:\nVírusar, það að segja að linux sé jafn óöruggt gagnvart þeim og windows er tómt rugl. Þetta veit hver sá maður sem actually veit e-ð um hvernig linux virkar eða hvernig á að keyra það. Þegar ég er á linux, þá keyri ég enga vírusvörn, og afhverju, því ég er fullkomlega handviss um það að ég fái ekki vírusa þar.\nÞarf að restarta linux til að fá inn hardware, jæja væni. Lestu þig til um insmod, lsmod, rmmod og slík tól :)\nFullyrðing þín með eldveggina er algjört djók :) iptables pakkinn á linux er eflaust margfalt öflugri en flest þessi _ódýru_ tól þín á windows.\nÆh, þetta er kjánaleg grein, leyfa henni að grafa sig sjálf.\nkv,\nAquatopia"
+        },
+        {
+            "user": "fleppir",
+            "user_id": "22284",
+            "date": "2003-03-10 09:32:41",
+            "id": "957322",
+            "reply_to_id": "957321",
+            "text": "Vandamálið er að fyrir Windows fólk þá svarar hún sér EKKI sjálf.  Það þarf að svara svona bulli málefnalega og helst með eins mikilli ‘ground-up’ aðferð og mögulegt er.\nFUD fær bara að virka ef því er ekki svarað."
+        },
+        {
+            "user": "vor",
+            "user_id": "50550",
+            "date": "2003-03-11 21:49:15",
+            "id": "957323",
+            "reply_to_id": "957321",
+            "text": "Ég hef verið með Windows síðan ég byrjaði í tölvumálum fyrir utan smá tíma með macintosh vél.\n(fyrsta reynsla mín var þegar ég var um 6-7 ára.)\nÉg var að prufa Linux Redhat 7,0 um daginn. Held ég fari bara að færa mig alveg yfir á linux á þeirri vél (Netþjóninum mínum).\nkv. ^Schafer^"
+        },
+        {
+            "user": "Bake",
+            "user_id": "5588",
+            "date": "2003-03-10 09:53:40",
+            "id": "957324",
+            "reply_to_id": "957272",
+            "text": "Er ég sá eini sem hlær sig máttlausan af fyrstu málsgreininni, svona þegar litið er á greinina sjálfa? Þeir sem vara fólk við að kasta steinum úr glerhúsum ættu sjálfir að athuga hvort þeirra eigin hús séu ekki gerð úr gleri áður en þeir kasta sjálfir steinum.\nEn, snúum okkur að “greininni”.\nÞað að eitthvað hugbúnaðarverkefni sé það stærsta í sögunni er að mínu mati enginn sérstakur gæðastimpill. Það veit hver sem hefur komið að hugbúnaðargerð lengur en í 4 mínútur að því stærra sem verkefnið er, þeim mun flóknara verður það og þ.a.l. meiri hætta á villum.\nPartitionskiptingin í Linux er arfleifð frá gamla Unix heiminum, tilgangur hennar er að sjá til þess að þú getir notað kerfið þó eitthvert gáfnaljósið sé búið að fylla partition. Vissir þú að Windows er ónothæft nema það séu lausir a.m.k. einhverjir tugir megabæta? Þó /home sé orðið yfirfullt og jafnvel meira en það, þá hættir vélin ekkert að hegða sér neitt skringilega. Prófaðu að fylla diskinn hjá þér í Windows og segðu mér svo hvernig tölvan hagar sér.\nFyrst þú segir að Gnome/KDE sé stjórnlaust, þá spyr ég þig bara hver ætli það sé sem ákveði hvaða nýju fídusar skuli fara í næstu útgáfu, hvenær sé best að áætla að næsta útgáfa komi út, o.þ.h.? Fyrst þessar upplýsingar liggja fyrir hljóta það að vera einhverjir sem stjórna þessum verkefnum, það var að minnsta kosti ekki helvítis tannálfurinn sem réði þessu.\nHvað driveravesen snertir finnst mér oft vera meira driveravesen í kringum Windows, framleiðendur vélbúnaðar virðast alltaf vera með þessa grillu í kollinum að ég hafi einhvern sérstakan áhuga á því að fá uppsettan illa skrifaðan hugbúnað sem gerir ekkert annað en að þvælast fyrir mér við það eitt að setja upp nýja rekla fyrir þennan tiltekna vélbúnað. Í þessu sambandi er ég ekki einu sinni að tala um eitthvað noname fyrirtæki, þetta gera t.d. fyrirtæki á borð við Logitech. Halló! Þetta er fokkíngs mús sem ég geri ekki meiri kröfur til um virkni en að bendillinn hreyfist þegar ég hreyfi músina, og að það gerist eitthvað sem ég á von á þegar ég smelli á takkana á henni.\nVarðandi connection sharing, hvers vegna er það eiginlega bundið við Windows? Mér skilst það svona hálfpartinn af því hvernig þú talar um það. Ekki eins og TCP/UDP/ICMP pakkar séu svona rosalega fjölbreytilegir eftir stýrikerfum, það að forwarda þá er nú ekkert sérlega flókið heldur.\nVarðandi það að keyptir eldveggir séu öruggari en eldveggjastuðningurinn í Linux, þá segi ég bara “kjaftæði” við því. Það þarf hrikalega voðalega ofsalega mikið til að aðkeypt 3rd party viðbótarplástur vinni betur en hlutur sem er innbyggður frá grunni.\nÖryggi og dulkóðun. Linux er ekki nándar eins viðkvæmt við vírusum og Windows. Eins og gluggaumhverfi og skeljaumhverfi eru hönnuð fyrir Linux, þá þarf mannshöndin alltaf að koma að málum til að keyra script sem send eru t.d. með pósti, eða forrit. Lengi vel hefur það verið t.d. í þeim póstforritum sem fylgja með Windows að hægt var að senda VBScript skrá sem viðhengi sem gerði það að verkum að hún var keyrð, og það án þess að spyrja kóng né prest! Þú talar um að varkárni verndi þig við vírusum. Þú bara fyrirgefur, sú afsökun hætti að virka í öllum málaflokkum í lok 8. áratugs síðustu aldar, löngu áður en þú fæddist. Það sorglega við fréttir af öryggisglufum í Microsoft vörum er nú einmitt það að þær eru því miður ekki ýktar. Ég hlæ nú ekki að þeim þar sem mér finnst það hreinlega sorglegt að upp blossi á fárra mánaða fresti ormafaraldrar sem gjörsamlega lama oft sjálft Internetið.\nOg talandi um internetið, þá skil ég ekki pointið með því að setja upp einhver forrit til að ná hámarks afköstum í netskoðun eins og þú segir. Hvers konar forrit skyldir þú eiga við þar? Forrit til að drepa popup glugga kannski? Viðbætur eins og Crazybrowser fyrir IE sem gera þér kleift að hafa fleiri en eina síðu opna í hverjum IE glugga? Svo ég vísi aftur á komment mitt að ofan um að 3rd party addon við eitthvað pródúkt sem til er fyrir getur aldrei orðið jafn gott og virkni sem til er og gert hefur verið ráð fyrir frá frumhönnun.\n“Engin skal keyra linux sem heimilistölvu nema hann sé lítið efnaður. Linux skal eingöngu vera notað af servers og hackers.”\nHvaðan í ósköpunum kom þessi setning? Ennfremur, hver í fjandanum ert þú að segja til um hvað hver keyrir sem heimilistölvu.\nSend Error report valmöguleikinn í XP er nú ekki alveg sjálfvirkur, svona fyrir það fyrsta hefur hann þó þá lágmarkskurteisi að spyrja mig hvort ég vilji senda errorreport eða ekki. Undanfarna daga hefur svolítið verið að stríða mér, þannig er mál með vexti að oft frýs IE hjá mér, þá helst ef ég er að skoða síður með embedded vídjóum fyrir Media Player, eins og sjá má t.d. á Háhraða hér á Huga. Þetta gerist nær undantekningalaust. Ég hef send errorreport hægri/vinstri út af þessu en hef ekki heyrt tangur né tetur af einhverju sem ég get gert til að laga þetta; ég fæ ekki einu sinni upp þessa síðu sem þú talar um!\nEinkunn fyrir greinaskrif:\n5/10\nÞar af eru 4 heilir fyrir að láta mig hlæja."
+        },
+        {
+            "user": "fleppir",
+            "user_id": "22284",
+            "date": "2003-03-10 10:47:50",
+            "id": "957325",
+            "reply_to_id": "957324",
+            "text": "Ég er ekki algerlega viss, en ég held að þetta Send Error Report þíngí komi í veg fyrir að maður geti sent Talkback Error Report ef maður er með Netscape/Mozilla/Phoenix á WinXP.\nEf svo er, enn eitt dæmið um hvernig M$ notar einokunina til að kyrkja keppinautinn."
+        },
+        {
+            "user": "gummalina",
+            "user_id": "6224",
+            "date": "2003-03-10 10:27:03",
+            "id": "957326",
+            "reply_to_id": "957272",
+            "text": "Ja… það er nú gott að menn séu uhm… vel að sér í þessum heimi og allt það en ÆLA ÆLA ÆLA ÆLA ÆLA ÆLA ÆLA ÆLA ÆLA ÆLA ÆLA ÆLA ÆLA ÆLA ÆLA ÆLA ÆLA ! ! !\ntakk fyrir."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2003-03-10 12:16:18",
+            "id": "957327",
+            "reply_to_id": "957326",
+            "text": "Hvað meinaru??!"
+        },
+        {
+            "user": "Paddington",
+            "user_id": "8681",
+            "date": "2003-03-10 12:16:20",
+            "id": "957328",
+            "reply_to_id": "957326",
+            "text": "Hvað meinaru??!"
+        },
+        {
+            "user": "Paddington",
+            "user_id": "8681",
+            "date": "2003-03-10 12:54:57",
+            "id": "957329",
+            "reply_to_id": "957328",
+            "text": "jæja.. kannski taka linux karlarnir þessu svona persónulega afþví það er verið að gagnrýna vinnu vina þeirra en allt frá microsoft er gert af stórum ljótum kapítalistum, en ég vill taka aðeins upp hanskann fyrir þá..\nÍ fysta lagi er þessi hraða tölvuþróun sem við erum að sjá í dag (Hardware ekki soft) að stóru leiti að þakka gríðarlegu fjármagni sem leikja fíklar dæla inní iðnaðinn og ég mundi segja að þeir (við) værum ansi stór hluti af markaðnum fyrir jah, bara allt sem tengist tölvum. Ég hef allavega ekki enþá fundið það linux sem nennir að höndla minn CS, Q3 eða Warcraft 3 (ekki koma með koment um Freekraft *hrollur*).\nÉg fyrir minn part mun halda áfram að vera með mitt stöðuga XP meðan það keyrir leiki betur en Linux.\nKannski er það bara ímyndun í mér en ég treysti betur hugbúnaði sem var hannaður/kóðaður af fólki sem er rekið ef það vinnur sína vinnu ekki nógu vel, en ekki einhverjum hollending sem gerði forritin mín í kaffitímanum sínum í kexverksmiðju. (hahaha…)\nog smá svona koment frá ykkur:\n“Hvaðan í ósköpunum kom þessi setning? Ennfremur, hver í fjandanum ert þú að segja til um hvað hver keyrir sem heimilistölvu.”\nÞetta fannst mér mjög fyndin setning þarsem í flestum umræðum/rökræðum/rifrildum mínum við linux fólk hefur það oftast otað því að mér að ég ÆTTI að nota linux og að ég ÆTTI að skipta yfir strax í dag.\n“Ef þú tekur þægindi í leikjum fram yfir almennt netöryggi þá skil ég vel að þú keyrir eitthvað gatasigti sem eldvegg (windows)”\nÞetta geri ég alveg 100%. Ég keypti mína tölvu ekki til að vera örrugur um að enginn brytist inní hana! Ég keypti hana til að spila leiki í milljón skrilljón litum og litadýpt með tugi eða hundruðu ramma á sekúndu, stór hluti af minni tilveru (þegar ég er ekki í skólanum eða að vinna) er að drepa allt það sem fyrir mér verður í leikjum á netinu. Þannig að þangað til að linux kemst þar sem Windows hefur hælana í leikjum og leikjaumhverfi held ég mig í mínu illa kapítalíska gallaða hættulega kerfi."
+        },
+        {
+            "user": "teknique",
+            "user_id": "1626",
+            "date": "2003-03-10 13:15:16",
+            "id": "957330",
+            "reply_to_id": "957329",
+            "text": "Nei, þú misskilur.\nÞessi öra þróun er vegna þess að Intel er með menn í vinnu við að láta næstnýjustu örgjörvana sína líta út eins og trabantar. Svo þeir geti selt öllum nýja örgjörva aftur og aftur. Sama með Windowsið, nema að þar á sér ekki stað nein alvöru þróun. Þú kaupir sama draslið aftur og aftur og aftur (Windows 95, Windows 98, Windows ME er til dæmis allt sama draslið) Windows XP er basically bara Windows 2000 með ghey notendaviðmóti."
+        },
+        {
+            "user": "add1",
+            "user_id": "1011",
+            "date": "2003-03-10 13:21:22",
+            "id": "957331",
+            "reply_to_id": "957330",
+            "text": "og fyrir ykkur sem viljið beygja nickið mitt ..\nhér er add1\num adda\nfrá adda\ntil adda\n—\naight ? :)"
+        },
+        {
+            "user": "OBhave",
+            "user_id": "3496",
+            "date": "2003-03-12 15:41:29",
+            "id": "957332",
+            "reply_to_id": "957331",
+            "text": "bíddu ég ætla að vera viss um að ég hafi náð þessu rétt:\nHér er add1\nUm add4\nFrá addz0r\nTil addm0d3uz\nok, fínt"
+        },
+        {
+            "user": "Hoddi",
+            "user_id": "58",
+            "date": "2003-03-10 13:30:34",
+            "id": "957333",
+            "reply_to_id": "957329",
+            "text": "Veistu, ég hef spilað alla þessa þrjá leiki sem þú nefndir, og ekki varð ég var við neina annmarka."
+        },
+        {
+            "user": "ojb",
+            "user_id": "1502",
+            "date": "2003-03-10 14:19:38",
+            "id": "957334",
+            "reply_to_id": "957329",
+            "text": "ID leikir eru flestir spilaðir neitíft á Linux þökk sé JC og framerate í Linux er betra ef eitthvað.\nSvo fer leikurinn þinn ekki í klessu þegar þú rekst í Windows takkan ;-)"
+        },
+        {
+            "user": "Spa",
+            "user_id": "5037",
+            "date": "2003-03-10 14:42:42",
+            "id": "957335",
+            "reply_to_id": "957329",
+            "text": "Skemmtilegt að ég fæ mun betra performance í öllum þessum leikjum sem þú nefndir, á default RH8 installi en á w2k eða wxp.  CS og WC3 reyndar gegnum WineX, sem framkallar sömu API köllin og windows notar, irony?"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2003-03-10 15:53:12",
+            "id": "957336",
+            "reply_to_id": "957329",
+            "text": "Flestir CS serverar eru keyrðir á Unix eða Linux kerfi. Ég skil ekki hvað þú ert að rugla.\nEf þú vilt tala um hraða þróun LINUX.\nKannski er málið að kunna á Linux til að fá það til að virka."
+        },
+        {
+            "user": "okay",
+            "user_id": "621",
+            "date": "2003-03-10 18:21:47",
+            "id": "957337",
+            "reply_to_id": "957329",
+            "text": "En það er ekkert ætlun Linux að verða eins og Windows. Það er ekki upphafleg (né bara núna) ætlunin að gera þetta að kerfi sem getur keyrt alla Windows leikina og þannig .."
+        },
+        {
+            "user": "neonljos",
+            "user_id": "11762",
+            "date": "2003-03-10 12:34:34",
+            "id": "957338",
+            "reply_to_id": "957272",
+            "text": "SHIT“!#=I$! þegar ég las svarið hans ”add1\" beyb(btw go trance.is!) ;D þá drapst ég úr hlátri.. vá hvað maðurinn gjörsamlega tók og kaffærði manninn í eigin heimsku. En já þessi grein er rugl og ég sé eftir þessum 5 mínutum sem ég tók mér í að lesa hana vandlega yfir."
+        },
+        {
+            "user": "Spa",
+            "user_id": "5037",
+            "date": "2003-03-10 12:55:31",
+            "id": "957339",
+            "reply_to_id": "957272",
+            "text": "“Það er búið að vera að byggja sundlaug í 1 ár og þið gerið ekkert\nannað en að bölva verkamönnunum, síðan farið þið í burtu í sumarfrí og byggingin er kláruð. Þegar þið komið heim þá kíkið þið ekki\ná sundlaugina heldur farið beint til bæjarstjórans að kvarta yfir því að þeir klári ekki byggingu sem þeir í raun eru búnnir að byggja svo\nhaldið öllu rugli í burtu.” - Þarna skaustu þig feitt í fótinn.  Því þú veist bersýnilega EKKERT um hvað þú ert að tala."
+        },
+        {
+            "user": "teknique",
+            "user_id": "1626",
+            "date": "2003-03-10 13:31:38",
+            "id": "957340",
+            "reply_to_id": "957339",
+            "text": "Sko þegar þú kaupir Windows þá er það sundlaug í pakka sem á að vera tilbúin til notkunar, og þú borgar fyrir það.\nSvo þegar þú ert búinn að taka sundlaugina úr umbúðunum, setja hana upp og ætlar að stinga þér í hana þá kemstu að því að það er ekki búið að setja botninn í hana, og hann fylgdi ekki með. Vandamál: sundlaugin heldur ekki vatni, þetta verður lagað í næstu útgáfu sem verður þá vonandi komin með botn og kemur út eftir 3 ár, þú þarft þá að kaupa hana á fullu verði því Microsoft hefur ekki hugsað sér að gefa úr MS Botn[TM] fyrir Sundlaug 1.0"
+        },
+        {
+            "user": "izelord",
+            "user_id": "1143",
+            "date": "2003-03-10 16:07:32",
+            "id": "957341",
+            "reply_to_id": "957340",
+            "text": ";D góðu"
+        },
+        {
+            "user": "izelord",
+            "user_id": "1143",
+            "date": "2003-03-10 16:33:55",
+            "id": "957342",
+            "reply_to_id": "957341",
+            "text": "NeAlf, ertu haldinn geðklofa?\nBTw. Frábær grein, fékk mig til að hlæja… en er því miður kolröng.\nTeknique, add1, cassini, aqua og hoddi, you go girls!"
+        },
+        {
+            "user": "teknique",
+            "user_id": "1626",
+            "date": "2003-03-10 13:03:17",
+            "id": "957343",
+            "reply_to_id": "957272",
+            "text": "Sko, þú biður þá sem vita ekki neitt um windows að halda sig fjarri, en þarna upplýsiru vanþekkingu þína á UNIX umhverfinu og fræðum sem tengjast þessu öllu saman. Fáviti.\n“Allt .net og Windows Server 2003 rúlar enda er þetta stærsta verkefni sögunnar í þessum málum hvað fjölda forritara varðar.”\nHefur þú einhverja hugmynd um hvað hafa komið margir forritarar að open source kerfunum í dag?\nÞeir eru að minnsta kosti 100x fleiri en munu nokkurntímann fokka í .NET.\n“Vissulega er Linux gott í dag fyrir server markaðinn en með þessari þróun munu þeir standa einir eftir nokkur ár þar sem commercial\nhugbúnaður þróast mun hraðar.”\nHefurðu einhverja hugmynd um hvað Microsoft eru lengi að bregðast við böggum sem finnast? Það tekur þá margar vikur að senda út böggfix á meðan það getur tekið nokkra klukkutíma að senda út böggfix fyrir open source hugbúnað, þetta er staðreynd.\n“Linux er alveg eins viðkvæmt og Windows varðandi vírusa”\nSko þú hefur augljóslega ekki séð hvernig unix kerfi eru með uid og permissions.\nÞað er ekki fræðilegur möguleiki á að unix vél geti fengið vírus sem dreifir sér með fælum, vegna uppbyggingarinnar, og þá sér í lagi vegna þess að í open source umhverfi er lítil traffík af forritabænaríum á milli manna. Notandi á unix vél hefur bara sitt heimasvæði og getur ekki fokkað í drasli annarra notenda undir eðlilegum kringumstæðum, og þar með er engin dreifingarleið fyrir vírusa þar.\nÍ Windows keyrir allt með 100% permissions og hægt að fokka í öllu.\n“Auk þess fær maður ekki vírusa nema mar fari af óvarkárni”\nEinmitt ekki, í unix þarf maður að vera alger hálfviti eða undarlegur snillingur til þess að ná að vírussmita tölvuna sína. Í Windows flæðir þetta inn um öll göt á kerfinu barasta, sér í lagi með böggum í internet explorer og microsoft outlook. Hver einasti internet explorer notandi hefur orðið fyrir barðinu á alls kyns óþverra sem installast sjálfkrafa gegnum öryggisholur í MSIE, því geta líka fylgt vírusar.\n“downloadanlegir eldveggir fyrir windows betri en fyrir Linux þar sem það er\nhægt að fá keypta eldveggi. Mæli ekki með að nota vélbúnað sem eldvegg þar sem það er slæmt fyrir leiki osfv.”\nBíddu nú hægur, þú mælir með handónýtum, óstillanlegum PAT implementation í Windows, en mælir svo gegn því að menn fái sér alvöru eldveggi. Open your eyes sko, þessir Windows “quote eldveggir unqouote” hamla notkunargildi netsins mun meira en almennilega uppsettir alvöru eldveggir.\n“Windows er ekki eins lokað og fólk lætur. og ekkert mál er með ”hacker“ forritum t.d. að breyta nær\nöllu í windows, staðsetningum, myndum og texta.”\nOg þarna áttu hættu á lögsókn skv DMCA sem bannar þér algerlega að hræra í innvolsi hugbúnaðar/vélbúnaðar sem þú hefur borgað stórar fúlgur fyrir. Þú verður handtekinn næst þegar þú kemur til bandaríkjanna vinur, menn hafa verið kærðir fyrir minna.\n“Margt af því sem er plug&play fyrir WinXP þarf að restarta linux til\nað finna, það er staðreynd og með WinXP er komin margur vélbúnaður sem þarfnast ekki einusinni að restarta tölvunni til þess að\nhann virki.”\nUndirstrika ég aftur…\nÞÚ KANNT EKKERT Á *NIX!\nLokaorð: Steinhaltu kjafti.\nVirðingarfyllst,\nTekniQue"
+        },
+        {
+            "user": "kev",
+            "user_id": "47",
+            "date": "2003-03-10 13:11:21",
+            "id": "957344",
+            "reply_to_id": "957343",
+            "text": "ó, paddington… þar sem þú minnntist á q3, þá langar mig að benda þér á að hann er 100% supported í linux.\nBless\np.s.\nAsnaleg grein, frá gaur sem veit ei mikið.\nskál."
+        },
+        {
+            "user": "Hoddi",
+            "user_id": "58",
+            "date": "2003-03-10 13:28:49",
+            "id": "957345",
+            "reply_to_id": "957272",
+            "text": "Ég kenni þig við tröll.  Farðu heim."
+        },
+        {
+            "user": "Hoddi",
+            "user_id": "58",
+            "date": "2003-03-10 13:33:25",
+            "id": "957346",
+            "reply_to_id": "957345",
+            "text": "Já, mig langaði líka að benda á það að fyrirtæki eins og Sun, IBM, HP, Red Hat og SuSe eru með menn í vinnu sem taka virkan þátt í þróun á flestum mestumverðu hugbúnaðarpökkunum."
+        },
+        {
+            "user": "Hlynzi",
+            "user_id": "21838",
+            "date": "2003-03-10 16:13:25",
+            "id": "957347",
+            "reply_to_id": "957272",
+            "text": "Mér finnst ótrúlegt ef þú ætlar að fara að gagnrýna okkur. Þú virðist ekki hafa vit á þessu sjálfur."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2003-03-15 22:16:46",
+            "id": "957348",
+            "reply_to_id": "957347",
+            "text": "Akkúrat, ég hef meira vit á þessu! *Bíííííb* og *bííííííb* en þú *bííííííb*. Ehh.. þú ættir að gera eitthvað, þú ert kominn með yfir 100 neikvæðar athugasemdir, ég myndi hætta á áhugamálinu, alllavega í bili."
+        },
+        {
+            "user": "axiler",
+            "user_id": "9262",
+            "date": "2003-03-10 20:27:09",
+            "id": "957349",
+            "reply_to_id": "957272",
+            "text": "Það er ekki oft sem að ég yfirhöfuð skrái mig hingað  inn, og hvað þá svara greinum, en ég bara varð að tjá mig núna :)\nÉg hef sjaldan séð nokkurn mann skjóta sig svona hressilega í löppina og þennan greinahöfund. Viðkomandi ætti að fá medalíu fyrir ótrúlega og framúrstandandi heimsku."
+        },
+        {
+            "user": "Bersi",
+            "user_id": "6461",
+            "date": "2003-03-10 20:27:54",
+            "id": "957350",
+            "reply_to_id": "957272",
+            "text": "Ég á ekki orð yfir þessari grein. En ég hef eina vel gilda spurningu:\nVinnuru nokkuð fyrir microsoft á íslandi? (www.microsoft.is??)\nMig grunar að þú sért gaurinn sem var að tala illa um linux í mogganum um daginn."
+        },
+        {
+            "user": "Jeedo",
+            "user_id": "17190",
+            "date": "2003-03-10 20:47:33",
+            "id": "957351",
+            "reply_to_id": "957272",
+            "text": "Well, every village must have an idiot.. og er ekki hugi.is samfélag á netinu?"
+        },
+        {
+            "user": "halldojo",
+            "user_id": "34839",
+            "date": "2003-03-10 22:00:58",
+            "id": "957352",
+            "reply_to_id": "957272",
+            "text": "Ég myndi halda að ef þú kynnir jafn mikið á linux og þú kannt á windows þá myndirðu ekki vera sammála þér akkúrat núna hehe."
+        },
+        {
+            "user": "Waffinn",
+            "user_id": "24836",
+            "date": "2003-03-10 22:08:03",
+            "id": "957353",
+            "reply_to_id": "957352",
+            "text": "Eitt finnst mér skrýtið að þessi maður hafi ekki\nkomið og varið þessi rök sín sem eru út í hött að mínu mati"
+        },
+        {
+            "user": "RedFox",
+            "user_id": "23988",
+            "date": "2003-03-11 12:34:36",
+            "id": "957354",
+            "reply_to_id": "957272",
+            "text": "Það fyndnasta var að þú útilokaðir sjálfan þig frá því að taka þátt í þeirri umræðu sem þú sjálfur stofnaðir til.. einfaldlega með þessu hérna\n“Allir sem hafa ekki prófað nýjustu vörur Microsoft og allir sem hafa ekki prófað linux síðan 1999 eða eitthvað álíka skulu algjörlega\ndraga sig úr umræðunni þar sem þið þurfið að vita eitthvað um þær vörur sem þið gagnrínið.”\n1. Microsoft og Linux keppa á tveimur mörkuðum, SERVER og DESKTOP. Um hvorn markaðinn ert þú að tala? Þú byrjar á að prumpa eitthvað um að Win2003 sé svo góður en samt ókláraður svo ferðu beint í það að rakka niður Plug&Play í Redhat og Mandrake?\nHvaða server þarf Plug&Play ? þarna skeistu á þig og ættirðu að ákveða hvort þú ætlar að fjalla um Microsoft vs Linux í desktop geiranum eða server geiranum.\nÞað er almennt viðurkennt að Microsoft er enþá með yfirburði í Desktop geiranum en á sama tíma eru þeir aftastir á merinni varðandi server tækni.\nÞetta blaður þitt um að .NET sé stærsta hugbúnaðarverkefni sögunnar er steypa en skiptir hvort eð er litlu máli og hljómar eins og beint úr munni Hitlers eða Stalín."
+        },
+        {
+            "user": "ojb",
+            "user_id": "1502",
+            "date": "2003-03-11 14:59:28",
+            "id": "957355",
+            "reply_to_id": "957272",
+            "text": "Kallaðu það fordóma ef þú vilt, en ég segi það aftur. ;) Microsoft er með stærsta markaðinn og þegar þeir finna upp hjólið, þá fyrst taka menn eftir því. Það að gera einhverjar geggjaðar lausnir á hugbúnaðarvandamálum Microsofts væri ekki til mikils í Linux… þar sem þau vandamál eru ekki til að byrja með!\nÞeir eru yfirleitt áratug eftirá í öllu, hvort sem það heitir öryggi, fítusar eða hvað.\nWindows 95 kom út. Ég hugsaði, “Hmm, kannski eitthvað sem kemst nálægt MacOS.” En nei.\nWindows 98 kom út. Ég hugsaði, “Ah, núna eru þeir aldeilis komnir á rétt skrið.” En nei.\nÉg byrjaði að nota Windows NT, og hugsaði, “Ah, núna eru þeir aldeilis komnir á rétt skrið.” En nei.\nÉg byrjaði að nota Windows 2000, og hugsaði, “Ah, núna eru þeir aldeilis komnir á rétt skrið.” En nei.\nJújú, þeir SKÁNA, smátt og smátt. Auðvitað! Í dag eru þeir kannski bara 5 árum eftirá frekar en 10.\nEN!\nBurtséð frá þessu, you're missing the point. GNOME og KDE eru ekki einu desktopin fyrir Linux. THAT'S THE BLOODY POINT! ;) Þú hefur VAL í Unix-based kerfum. Og já, til þess að nýta þetta val, þarftu auðvitað að kunna á vélina.\nVið erum eflaust sammála um það, að hinn almenna hálfvita beri frekar að setja á Windows eða Mac OS heldur en Linux. Reyndar finnst mér frekar pirrandi þegar menn fara að reyna að mála Linux sem einhvern Windows-staðgengil á öllum sviðum. Linux er ekki hannað til þess, og það er nákvæmlega engin forsenda fyrir því, önnur en að segja “tölvan mín er betri en tölvan þín, nanana!” sem mér þykir ekkert voðalega háleitt markmið.\n:)"
+        },
+        {
+            "user": "ojb",
+            "user_id": "1502",
+            "date": "2003-03-11 20:24:28",
+            "id": "957356",
+            "reply_to_id": "957355",
+            "text": "Þú meinar þegar þeir finna hjólið og kaupa það ( ef það er hægt )"
+        },
+        {
+            "user": "Spa",
+            "user_id": "5037",
+            "date": "2003-03-11 18:04:25",
+            "id": "957357",
+            "reply_to_id": "957272",
+            "text": "“- Engin skal keyra linux sem heimilistölvu nema hann sé lítið efnaður. Linux skal eingöngu vera notað af servers og hackers.” - Þetta, vinur minn, er KJAFTÆÐI.\nNú skal ég koma með fullyrðingu sem sæmir betur:\n“Enginn skal keyra Windows sem server nema hann sé fáviti.  Windows skal einungis notað af fólki sem veit ekki betur og lætur bjóða sér allt.”"
+        },
+        {
+            "user": "Avatar",
+            "user_id": "157",
+            "date": "2003-03-11 18:55:12",
+            "id": "957358",
+            "reply_to_id": "957272",
+            "text": "http://msdn.microsoft.com/library/default.asp?url=/libr\nary/en-us/dnnetsec/html/openhack.asp\nÞarf að segja meira :)"
+        },
+        {
+            "user": "MonkeyNinj",
+            "user_id": "718",
+            "date": "2003-03-11 18:56:58",
+            "id": "957359",
+            "reply_to_id": "957272",
+            "text": "skaarjking: ég bætti þér á people to throw pie at fyrir að gleyma að minnast á LiteStep fyrir windows.\nEins óþolandi og Windows er nú þá getur maður nefnilega smíðað theme fyrir LiteStep sem er bara óskup líkt WindowMaker :D\nÞannig að þegar maður er nývaknaður og sest við tölvuna þá líður manni ekki eins illa að vera staddur í windowlandi."
+        },
+        {
+            "user": "Th3D3viL",
+            "user_id": "6309",
+            "date": "2003-03-11 20:37:55",
+            "id": "957360",
+            "reply_to_id": "957272",
+            "text": "Mér þykir miður að finnast ég þurfa að kommenta á þennan texta.\nog vill taka það fram að ég nota bæði stýrikerfin\n(Windows aðalega)\nMálið er að Windows er ágætis stýrikerfi og einstaklega þægilegt fyrir “hinn almenna notana”\nLinux er snilldar stýrikerfi vel hannað og alger snilld\nnema hingað til hefur það suckað við að hjálpa greyjum eins og skaarjking að tileinka sér það.\nEn þetta fer að breytast því ég heyrði (ekki kála mér þó ég fari ekki alveg með rétt mál)\nað kjarni 2.6 sé alveg virkilegt stökk í bætingu á linux\nOg ég heyrði að það sé verið að taka X windows í GEGN (kominn tími til)\nog KDE 3.2 Sé snilld\nÞað eru bjartir tímar framundan hjá linux..\nsérstaklega er þetta gaman því bráðlega mun “hinn almenni” notandi eiga séns í að nota linux svipað og windows notendur gera :)\nAllavegana bjart framundan og skaarjking haltu windows virkar betur en linux á windows áhugamálinu\nþangað til þú hefur þetta linux alveg á hreinu"
+        },
+        {
+            "user": "izelord",
+            "user_id": "1143",
+            "date": "2003-03-12 15:40:59",
+            "id": "957361",
+            "reply_to_id": "957272",
+            "text": "Skaarjking, þetta virðist einfaldlega vera ein stór MONT grein hjá þér.\nHérna ert þú alltaf að segja hitt og þetta um hvað ÞÚ getur gert, og hversu yndislegan vélbúnað ÞÚ ert með.\nHættu að monta þig og komdu með ALVÖRU facts sem eiga fót fyrir sér."
+        },
+        {
+            "user": "delphi",
+            "user_id": "487",
+            "date": "2003-03-12 16:10:42",
+            "id": "957362",
+            "reply_to_id": "957272",
+            "text": "Ég veit ekki alveg hvort mér þykir fyndnara.\nÞekkingarleysi höfundar á kostum Linux eða á göllum Windowss. ;)\nÞetta með vírusana er nú bara alveg frábært! ;) Að eina ástæðan fyrir vírusasvaðinu í Windows séu vinsældir Windows…\n…jájá, ég er viss um að þessar óendanlega mörgu óendanlega heimskulegu aðferðir til að skrifa “heimasíður” og “tölvupóst” og skoða með IE og Outlook hafi neitt með þetta að gera!\nMinnistu þess að hafa orðið var við HEIMASÍÐUvírus í gegnum annað en IE, eða TÖLVUPÓSTSvírus í gegnum annað en Outlook?\nBara FOR CRYING OUT LOUD! HVERSU HEIMSKT GETUR EITT HUGBÚNAÐARFYRIRTÆKI VERIÐ?\nAnnars… herramenn. Hvers vegna erum við að svara honum? :) Mér þykir þetta engu þroskaðara athæfi að vappa hingað inn og nöldra yfir því hvað hann er klár að nota Windows, heldur en ef við færum inn á Windows-áhugamálið og værum þar að drulla yfir hina.\nÞó það gerist eflaust, I just don't see the point."
+        },
+        {
+            "user": "delphi",
+            "user_id": "487",
+            "date": "2003-03-12 22:08:45",
+            "id": "957363",
+            "reply_to_id": "957362",
+            "text": "Ég vil reyndar byrja á því að lýsa yfir skít á hugbúnaðarstefnu Microsoft. Ekki nóg með að hún er út úr korti heimskuleg og blind af græðgi heldur er hún svo flókinn að það liggur við að maður þurfi að kalla til leyfismála sérfræðing til að uppfæra Office hjá fyrirtækjum.\nÞað er mest fyndið að þarna er maður með enga sérstaka þekkingu á Windows að hrauna yfir allt Linux samfélagið og Linux menn hafa ekkert til að halda sér í en gamlar tröllasögur um óöryggi Windows. Sumir hérna ættu að tjilla á skítnum út í Microsoft og kynna sér málin áður en menn tala skít t.d. með CTRL+ALT+DEL talandi um að skjóta sig í fótinn.\nWindows kemur default upp allt opið en guð minn góður hvað það er auðvelt að læsa Windows, það tekur 5 mínútur.\nMicrosoft er að gera stórátak í að gera kerfið sitt öruggara, samanber að þeir tóku einhverja mánuði á síðasta ári til að stórbæta öryggi í núverandi kóða og með Service pakka 1 fyrir XP þar sem er stigið stórt skref varðandi skráaöryggi. Næstu kerfi frá MS verða talsvert skárri í þessum default stillingamálum.\nEn getur einhver bennt mér á Linux lausn sem tæki við af Active Directory í fyrirtækinu hjá mér ef ég myndi ákveða að skipta öllu út. Veit einhver hvort Novel styðji Linux?"
+        },
+        {
+            "user": "ojb",
+            "user_id": "1502",
+            "date": "2003-03-12 22:46:45",
+            "id": "957364",
+            "reply_to_id": "957363",
+            "text": "Hvað notarðu Active Directory í? Eflaust til lausn sem henntar þér en fer eftir hvert markmiðið er."
+        },
+        {
+            "user": "delphi",
+            "user_id": "487",
+            "date": "2003-03-12 23:49:25",
+            "id": "957365",
+            "reply_to_id": "957364",
+            "text": "Ég nenni ekki að blanda mér í þetta einkatölvu-stýrikerfa dæmi því það er endalaust rifrildi sem aldrei fæst neinn botn í fyrr en það verður slegist Linux vs Windows sem við vinnum á fjöldanum :)\nÉg nenni ekki að skrifa ritgerð um AD en ef það eru ekki algjör helgispjöll þá er hérna linkur á stutt overview yfir helstu AD fítusa (allra hörðustu Linux fylgismenn gætu þurft að taka content filterinn “Microsoft.com” úr firewallnum sínum til að sjá síðuna)\nhttp://www.microsoft.com/windows2000/server/evaluat\nion/features/adlist.asp\nÉg er að spá í fyrirtækja netkerfi og hvaða lausnir Linux býður uppá í þeim efnum t.d. aðgangsstýringu að gögnum, printer access aðferðir til að skoða logga á útstöðvum og monitora útstöðvar, roaming profiles og software distribution.\nÞetta er náttúrulega bara hægt að leysa með thin clients út um allt en Microsoft ákvað af einhverjum ástæðum að hafa full blown forrit og allt á útstöðvunum og ég var að spá hvort eitthvað svona væri til í Linux.\nHvað fynnst ykkur um thin clients vs vélar sem eru með öll forrit keyrandi locally (thick clients?) gefur kannski aukið redundancy en er slatti meira viðhald í staðinn.\nÉg er harður Windows aðdáandi en ég sé líka mjög marga góða kosti við Linux mér fynnst það snilld í t.d webserver, DNS server og Proxy að ég tali ekki um stórar vélar sem gera ekkert annað en reikna og bera saman hluti samanber ÍE og fleiri hluti sem maður setur í gang og vill ekki þurfa að hafa meiri áhyggjur af því Linux bara mallar í góðum fíling án nokkura vandræða. En þangað til að ég kynnist lausn sem er sambærileg við Active Directory þá hef ég ekki trú á að of mörg fyrirtæki séu reiðurbúin að skipta.\nOg hvernig væri að láta af þessum barnalegu rifrildum um hvort sé betra. Þessi kerfi eru mjög mismunandi í allri gerð og með mjög mismunandi framtíðarsýn að því að ég best veit þannig að þetta er varla samanburðarhæft. Bæði kerfi hafa mjög góða kosti og slatta af göllum."
+        },
+        {
+            "user": "ojb",
+            "user_id": "1502",
+            "date": "2003-03-13 09:45:06",
+            "id": "957366",
+            "reply_to_id": "957365",
+            "text": "Las þetta og fleira áður en ég svaraði þér. Það er ekki til lausn sem gerir nákvæmlega það sama vegna þess að Active Directory er að leysa Windows vandamál. ( er einfaldlega ekki til staðar í Linux )\nÞað eru til margar lausnir á þessu. Ein er að nota Xserver ( X er server ) á öllum vélum og keyra svo sama umhverfi á öllum vélum gegnum xdm. ( forritin keyra á server en grafíkin er höndluð á local vél )\nGetur líka mountað directory yfir netið á allar vélarnar til þess að veita aðgang að sömu forritum á þeim öllum.\nÞú getur búið til groupur sem eiga directory og mountað þau á öllum vélum til að stýra aðgangi. ( notandi þarf ekki einu sinni að vera var við á hvaða “drifi” hann er )\nÞað er ekki alltaf til “drop in replacement” í Linux fyrir Windows tækni þar sem kerfin eru ekki eins uppbyggð.\nLinux var þróað á netinu og er því mjög sterkt á því sviði. Desktop er hins vegar eitthvað sem Linux er enn eftirbátur Windows.\nWindows var hannað í upphafi sem einmenningsstýrikerfi og það er það sem flestir þekkja það sem. Microsoft er hins vegar að reyna breyta kerfinu þannig að það virki líka sem server, Active Directory er hluti af því."
+        },
+        {
+            "user": "OctoiD",
+            "user_id": "2899",
+            "date": "2003-03-13 01:01:39",
+            "id": "957367",
+            "reply_to_id": "957272",
+            "text": "Síðan eru auðvitað fyrirtæki sem nota ekki BARA linux, eða BARA windows á serverana, fyrirtæki sem ég vann hjá var með mismunandi kerfi á serverunum sínum, einsog database serverinn var windows, því að það keyrði Fjölni, mail serverinn var HP-UX og Linux fyrir prentarana (minnir mig).\nAllavega eru þetta þrír af 8 serverum sem voru þarna, og 250+ tölvur í fyrirtækinu :)"
+        },
+        {
+            "user": "skaarjking",
+            "user_id": "26378",
+            "date": "2003-03-13 04:08:07",
+            "id": "957368",
+            "reply_to_id": "957367",
+            "text": "Afhverju náðuð þið ekki þessu að þetta með Frank var bara fáranleg saga sem ég sagði til að róa ykkur niður, ég sagði það mas áður\nen ég skrifaði það halló! ég var bara að segja með því að það er líka hægt að hakka sig inní linux vélar.\nDirect X\ner ekki það sama og þú heldur, direct X sér um ALLT í leikjum og ekki bara leikjum, þú ert einnig oft að ruglast á Direct3D og\nDirectX, DirectX segir líka tölvunni þinni hvernig á að keyra openGl og hljóð svo hvað veist þú um DirectX? Afhverju er alltaf talað\num að skjákort sem eru í framleiðslu muni styðja nýja DirectX eiginleika? mas nVidia sjálfir tala svona, nýja skjákortið okkar mun\nstyðja nýjustu shaders í DirectX 9 osfv. Það að þetta styðju þessa nýju shaders þá á það bæði við í Direct3D og OpenGL Það sem\nmicrosoft gera með Direct X er að þau búa til nýtt software til að gera raunverulegri grafík, svo gera framleiðendurnir kortin eftir þeirri\ntækni til að það sé hægt með hardware. Direct 3D er að verða betra en OpenGl, þú sérð það bara á performance vs detail og svo eru\nstórir framleiðendur farnir að hætta stuðning við openGl, einnig þar sem microsoft hefur líst yfir að það ætli að miða enþá meira að\nDirect3D heldur en OpenGl enda hentar það mun betur í leiki. Gott dæmi er UT2003 vélin en hún hefur verið notuð í marga tölvuleiki,\nhann virkar betur á direct3D en í open GL, samt er mar að fá flottari grafík og betri myndgæði í D3D. OpenGL er ekki kortið D3D\nekki heldur svo sá sem sagði þetta vinsamlega hemja sig.\nað segja að það sé ekki hægt að slökkva á Ctrl+alt+del HALLO eg sagði það áður að það er ekkert mál að slökkva á því og öllum\nöðrum aðgerðum eins og log off með lyklaborðinu og það tengist ekkert explorer.exe\nOg já þið reynið alltaf að snúa öllu við, ég byrjaði á að segja að eitthvað væri þægilegra á win, þá sögðuð þið en það þarf ekki að vera\nsvo auðvelt, þá sagði ég að það sparaði tíma og þá sögðuð þið að ég ætti ekki að kalla alla þá sem velja linux sem vinnustöðvar\nheimska.\nOg varðandi Internet explorer ef þú hefur ekki fattar það þá býður hann uppá það að bæta við forritum, einnig windows explorer og\ntaskbar, gæti verið sama forritið þar sem þetta byggir allt á sömu tækni, ég nota ekki favorites þar sem stendur favorites heldur á\nmínum toolbar sem er algjörlega flokkaður og með collapsable menus, drag & drop, styður filters og auðvitað raðað eftir stafrófsröð\nog hvenær síðast var notað síðuna, hot keys osfv. hættið að gagnrína þetta ég get ekki hugsað mér þetta þægilegra þar sem þetta\nþyrfti að lesa hugsanir mínar til þess.\nTablet og MediaCenter eru öll byggð á WindowsXP Pro, ég sagði aldrei neitt annað en Linux styður ekkert af þessum tölvum, eins og\ntablet. síðan er ekki bara snertiskjár og snertihugbúnaður í tablet heldur einnig ýmislegt raddstýringa dót, svipað og í nýlegri útgáfu af\nOSX nema það er auðvitað engin book frá apple sem er eins uppbyggð og tablet, tablet ætti að vera val #1 hjá öllum enda get ég ekki\nskilið hvernig einhver sættir sig við gamaldags fartölvur þegar það er komið tablet.\nMediaCenter er venjulega tengt við sjónvarp og tölvu, þú getur stjórnað öllu með fjarstýringu, kveikt á slideshows, horft á DVD með\nupplýsingum á skjánum sem er sókt sjálfkrafa af netinu allt með flottu GUI, svo velurðu þér play list með þessu fyrir video á tölvunni\neða tónlist, svo siturðu í sófanum og gerir ekkert nema njóta þín fyrir framan sjónvarpið, svo ef þú þarft að fara frá þá tekur\nsjónvarpið upp allt fyrir þig ef þí ýtir á pause og þegar þú ýtir aftur á play þegar þú kemur aftur þá spilast það áfram þar sem þú fórst\nfrá því, einnig sem þetta býður uppá sjálfvirka upptöku af sjónvarpinu ( nettengt svo þú tekur upp þó tímarnir breytast ) svo ef þú ert\nað vinna á tölvuskjánum þá geturu haft sjónvarpið í litlum glugga í horninu. Þetta er ekki MediaCenter 2 heldur 1, ég sagði að\nmediaCenter 2 er í vinnslu en það á að vera með stuðning við ýmis “smart” raftæki, bill gates vill nefnilega að þegar fólk keyrir heim í\nbílskúrinn þá verði heimilið sjálfkrafa tilbúið fyrir mann osfv ok þeir eru langt á EFTIR sinni samtíð eins og þið sögðuð :)\nMiðað við hræðslu ykkar allraf við netið þá er engu líkara en að þið séuð allir hryðjuverkamenn sem eruð stöðugt að undirbúa árásir á\nforsetan eða eruð þið allir glæpamenn? afhverju finnst ykkur það svona alvarlegt ef einhver kemst í ómerkilegar upplýsingar frá ykkur?\nhættið að kalla netið “hættulegt” þið hljómið eins og gamlar kellingar, en það er sama fólk sem segir að það sé hættulegt að vera á\nnetinu og vill helst að maður sé alla daga inni hjá sér með læsta hurð og sofi með lokaða glugga, helst með stál rimla\nÞAÐ HEFUR ENGIN ÁHUGA ‘A ÓMERKILEGUM UPPL’YSINGUM UM 'ISLENDINGA ÞIÐ ERUÐ EKKI HERVELDI, eina\nsem er hættulegt eru kortanúmerinn sem maður verslar með á netinu, en það skiptir engu hvaða stýrikerfi þið keyrið á heldur hve\nöruggur serverinn er, sama hvaða OS hann er með.\nApplications built using the .NET Framework help provide reliability and security\nÞetta er bara snilld og hættið að halda að þetta sé sama og Server2003 þó hann hafi verið kallaður .net.\n——\nDirectX is a set of low-level Application Programming Interfaces (APIs) that provides Windows programs with high-performance\nhardware-accelerated multimedia support.\nThe Microsoft Direct3D API (Direct3D) provides an interface to the 3-D rendering functions built into most new video adapters.\nDirect3D is a low-level 3-D API that provides a device-independent way for software programs to communicate with accelerator\nhardware efficiently and powerfully. Direct3D includes support for specialized CPU instructions sets, providing additional\nacceleration on newer computers."
+        },
+        {
+            "user": "gunnzi1",
+            "user_id": "12414",
+            "date": "2003-03-13 08:35:20",
+            "id": "957369",
+            "reply_to_id": "957368",
+            "text": "rólegur á ENTERinn"
+        },
+        {
+            "user": "Avatar",
+            "user_id": "157",
+            "date": "2003-03-13 10:57:37",
+            "id": "957370",
+            "reply_to_id": "957368",
+            "text": "Vitlaust vitlaust vitlaust!!!\nDirectX kemur OpenGL nákvæmlega EKKERT við. OpenGL er ALVEG sér á bátí ogþví þarf ekkert DirectX til aðkeyra OpenGL forrit. DirectX er ekkert annað en safn af forritaköllum til að sjá um hljóð (DirectSound) , netvinnslu (DirectPlay), þrívíddarvinnslu (Direct3D), myndvinnslu (DirectShow og DirectDraw, orðin úreld) og síðast en ekki síst allt inpu eins og stýripinna, force feedback og lyklaborð og mús (DirectInput)\nOg jú… DirectX og skjákortin fylgja hvort öðru í þróun. Microsoft setti fram speccana fyrir DirectX9 fyrir löngu síðan (u.þ.b 1 oghálft ár síðan) og Microsoft og Ati þurftu svo að implementa speccana í kortin sín (GeforceFX og Radeon 9700) til að þau væri DirectX9 compatible. NVidia og Ati komu meira að segja sjálfir að staðlinum í samvinnu við Microsoft.\nVarðandi það að Direct3D sé betra en OpenGL þá er það bull. OpenGL eru yfirleitt langt á undann Direct3D í að koma nýjum featurum á framfæri (með extensionum). Þau geta bæði gert nákvæmlega sömu hlutina og er OpenGL vs. Direct3D því löngu úrelt umræða. Eini munurinn á þeim (frá Windows séð) er syntaxinn við forritunina og ekkert annað. OpenGL er reyndar cross-platform en það kiemur þessu ekki við.\nOg hananú!"
+        },
+        {
+            "user": "Spa",
+            "user_id": "5037",
+            "date": "2003-03-13 14:51:02",
+            "id": "957371",
+            "reply_to_id": "957368",
+            "text": "Netið ekki hættulegt?  Hmm..  Hefurðu lent í því að harði diskurinn þinn hafi verið hreinsaður gegnum net(win2k)?"
+        },
+        {
+            "user": "JReykdal",
+            "user_id": "77",
+            "date": "2003-03-13 17:46:53",
+            "id": "957372",
+            "reply_to_id": "957368",
+            "text": "Ég mæli með því að þú hættir að ræða þetta mál. Þú gætir nefnilega farið að renna á öllum þessum skít sem vellur úr þér.\nTrust me…ég er búinn að nota tölvur lengur en þú hefur ónáðað mannkynið."
+        },
+        {
+            "user": "okay",
+            "user_id": "621",
+            "date": "2003-03-13 19:06:38",
+            "id": "957373",
+            "reply_to_id": "957368",
+            "text": "Owell, ég þegi héðan í frá. Hættur að hlusta á svona endalaust bull.. ;)\nKveðja,\nÓmar K.\nCassini"
+        },
+        {
+            "user": "izelord",
+            "user_id": "1143",
+            "date": "2003-03-14 11:14:29",
+            "id": "957374",
+            "reply_to_id": "957368",
+            "text": "Netið ekki hættulegt?\nÞetta er ekki aðeins spurning um persónulegar upplýsingar og fyrirtækjaleyndarmál. Nóg er nú af þessum helv. andsk. scriptkiddiots sem gera ekkert annað en að dosa mann og reyna að komast inn til að SKEMMA.\nVæri nú gaman ef einhver færi inn á þessa afarfallegu windowstölvu þína (eins og þú nú lýsir henni) og myndi eyða öllu. Væri ekki alveg yndislegt að ná í öll þessi addons, setja upp osfrv.\nÉg nota windows, windows er fínt ( Í WORKSTATION!)\nÉg nota fbsd, fbsd er fínt ( Í SEEEEEERVER!)\nReyndar get ég notað fbsd í bæði… sem gefur því þar með yfirhönd.\nPS. D3D er hluti af DX"
+        },
+        {
+            "user": "halldojo",
+            "user_id": "34839",
+            "date": "2003-03-13 16:06:01",
+            "id": "957375",
+            "reply_to_id": "957272",
+            "text": "Vá þetta mun vera 95 álitið……"
+        },
+        {
+            "user": "demonz",
+            "user_id": "3238",
+            "date": "2003-03-14 03:33:39",
+            "id": "957376",
+            "reply_to_id": "957272",
+            "text": "Linuxmenn tala mikið hér um að skaarjking fari með rangt mál.\nÞað er rétt að sumu leyti en einnig eru þið oft sjálfir að vernda linuxinn það mikið að má bera við trúarbrögð.\nÞað leiðir af sér mjög leiðinlega einstaklinga sem taka þátt í tískunni og segja Microsoft suckar en veit ekkert af hverju!!\nJújú…ég veit svosem að MS suckar á marga vegu því ég hef kynnt mér málin…en Windows virkar vel fyrir mína notkun á tölvunni minni. Og það þarf enginn að segja mér neitt annað!\nSíðan virðast sömu rök ekki meiga gilda á linux og windows hjá ykkur.\nEins og þegar er sagt að eitthverjum hafi tekist að hacka sig inn á linux server…þá er það pottþétt gaurnum sem sá um serverinn að kenna og bara allt hræðilega illa uppsett!\nJÆJA…ekki mættu windows menn koma með svona útskýringu á windows failum!\nEn ég ætla ekki mikið að kommenta á security því að linux er með það góða stöðu í þeim málum að það þarf ekki að ræða það!\nHinsvegar þá geta firewalls fyrir windows dugað á móti “gerfi hökkurum” eins og eitthver komst að orði og þið spurjið kannski: “en hvað með ALVÖRU-hackers?”\nWell alvöru hakkarar hafa engan áhuga á að komast inn á mína litlu og ljótu tölvu því það er ekkert almennilegt challange!\nscript kiddies hinsvegar hafa mjög gaman af því að fokka upp almenna notendanum.\nSíðan töluðu þið um hve auðvelt er að share-a internet tengingunni í winxp á móti linux.\nWell…dæmið er svona…eitthver með ensku kunnáttu getur fattað út (ef hann þorir að fikta, sem fæstir gera sem kunna lítið) hvernig hann myndi share-a internetinu í winXP wizardinu.\nSjálfur þá hef ég þó lent í fáranlegum vandræðum ef ég nota wizardið…og í seinni tíð hef ég bara sleppt við öll wizards sem ég get og gert þetta frekar sjálfur…bara stillt á ip og gateway og fl. No problems there…\nLinux…heh…ég sé svo ekki fyrir mér að mamma mín færi að nota Red Hat (notendavænasta viðmótið so besta dæmið) og finna iptables og bara hey…ég adda bara þessu í command line-ið og já blablabla…yeah sure!\nIt's easy when you know it…og oftast eru linux menn reyndir windows menn þannig að þetta er lítið mál fyrir þá…en ekki reyna að segja mér að þetta sé auðvelt fyrir alla…\nEn þessi umræða er kannski fremur fáranleg…þetta vita allir right?\nLinux er ekki ennþá neitt voðalega notendahæft ef maður vill setja eitthvað inn að viti (önnur forrit en fylgja distróinu).\nAnnars finnst mér ágætt að reyna að vera inní báðum stýrikerfunum eitthvað til að sjá hvernig gengur báðum megin…ég hef nú ekki langa reynslu af linux en mér gekk nú betur með RH 8 en marga sem ég hef talað við.\nÉg náði t.d. að komast klakklaust með að spila UT2003, Q3, Wolfenstein og fullt af open source litlum 3d leikjum…\nÞannig að linuxinn hafði ýmislegt að bjóða þótti mér í entertainment…sérstaklega þegar maður notar Mplayer…þvílík snilld…allir features svo miklu þægilegri en í Media Playernum í WinXP.\nEn af hverju er ég þá bara ekki á linux…well…það verður pirrandi til lengdar að þurfa að lesa how to til að installa einu forriti or so…alltaf eitthver sér kommand fyrir þetta eða hitt og þó að console-ið sé að sjálfsögðu frábært miðað við þau console sem ég hafði notað áður (dos that is) þá er það ekki þægilegt ef maður er vanur GUI."
+        },
+        {
+            "user": "deus",
+            "user_id": "295",
+            "date": "2003-03-14 13:52:09",
+            "id": "957377",
+            "reply_to_id": "957376",
+            "text": "ég er í tækniháskóla í Vín þar sem allir nota Linux/KDE og eru mjög sáttir, sama hvort þeir eru að læra arkitektur eða tölvunarfræði.\nÉg er ekkert ýkja hrifinn af “share this connection” í xp, ég var að reyna klóna netkortið mitt, gefa því tvær ip-tölur og routera á milli neta með einu netkorti í WinXP.. og eftir að hafa reynt í 4 tíma, þá setti ég bara upp linux til að gera það, allt komið upp á innan við 2 tímum, þótt ég hefði aldrei notað Linux nema til að gera start og stopp á þjónustur á vefserverum :)\nLinux er ekkert það hrikalega flókið, og gluggaviðmótin eru alltaf að verða betri og betri. Miðað við framfarir Linux síðasta árið, og þá staðreynd að báðar WinXP velarnar mínar eru búnar að hrinja á þessu ári af mismunandi óskiljanlegum orsökum, þá held ég að Linux verði komið á desktoppið mitt fyrir sumarið. Þori því bara ekki alveg strax, þar sem ég þarf að klára skólaverkefnin mín fyrst í umvherfi sem ég þekki :)\nÞað eina sem Microsoft hefur frammyfir Linux er markaðshlutdeildin, þannig að allur hugbúnaður kemur út fyrir windows. Reyndar hafa þeir nú líka ógeðslega gott þróunarumhverfi (.NET) sem mun vonandi verða þess valdandi að ég mun aldrei sjá MFC C++ kóða hack helvítið aftur!\nÉg veit ekki hvernig það er að skrifa fyrir KDE / Gnome, en ég trúi ekki öðru en að þeir sjái sömu tækifærin í því og m$ að vera með gott umhverfi fyrir þá sem vilja þróa hugbúnað fyrir gluggaumhverfið þeirra.\nÉg segi áfram Linux !"
+        },
+        {
+            "user": "demonz",
+            "user_id": "3238",
+            "date": "2003-03-14 13:58:25",
+            "id": "957378",
+            "reply_to_id": "957377",
+            "text": "Heh…já þetta í rauninni hjálpar mínu sjónarmiði…\nÞví að þú ert í tækniháskóla…þannig að þú ert náttúrulega ekki bara basic notand right?\nEn já ég er sammála því að helsti ókosturinn við að nota linux er að windows er með markaðinn…það væri gaman að sjá hvernig linux myndi ganga ef allt væri gert með það í huga líka!"
+        },
+        {
+            "user": "deus",
+            "user_id": "295",
+            "date": "2003-03-14 14:10:41",
+            "id": "957379",
+            "reply_to_id": "957378",
+            "text": "þvímiður hjálpar þetta sjónarmiðinu þínu lítið, því það eru 16þús nemendur í þessum skóla, fæstir þeirra í tölvunarfræði.\nMálið er bara að fólk kann aðeins á Windows, ekki útaf því að það er einfaldara heldur útaf því að þaðhefur þurft að læra á það. Í skólanum mínum þurfa allir að nota Linux/KDE og það er almenn ánægja með það! Það er alveg jafn einfalt að nota það og Windows, alveg jafn flókið að læra á það, utan við það að í Linux er bara hægt að gera svo miklu miklu meira og þessvegna getur það verið dáltið mikið til að taka inn, en aðeins ef maður ætlar að gera eitthvað meira en hinn venjulegi notandi.\nÞað vonda er ekkert endilega bara það að allir búa til stóru forritin sín fyrir Windows, heldur það að Windows passa að það sé ekki hægt að gera neitt þannig að það virki á öllum stýrikerfum (t.d. einsog hvernig IE renderar vitlaust, XMLið í Office 2003 er svo fúbar að ekkert skilur það nema m$ vörur, vilja ekki hava Java syndarvelina með windows, þjarma að viðskiptafélögum að hætta þróun fyrir önnu stýrikerfi).\nMér er ekkert ílla við Windows sem stýrikerfi, ég er búinn að nota það síðan það varð til :).. mér fannst það þó vera fyrir mér þegar ég setti upp win95 fyrst, en vissi þvímiður ekki hvað Linux var þá. Nú hinsvegar ætla ég mér að taka virkann þátt í því að Linuxvæða landið, byrja á sjálfum mér og taka síðan stefnuna á menntastofnanir!, því mér finsnt útí hött að íslenska ríkið sé að dæla peningum í Microsoft þegar það er til frítt öflugt vel viðunandi stýrikerfi á íslensku sem hægt væri að nota, og auðveldara að halda við af manni með kunnáttu."
+        },
+        {
+            "user": "demonz",
+            "user_id": "3238",
+            "date": "2003-03-14 14:30:32",
+            "id": "957380",
+            "reply_to_id": "957379",
+            "text": "LOL…kannski voru allir búnir að sjá þetta en :\nhttp://uptime.netcraft.com/up/graph/?host=www.micr\nosoft.is\nsemsagt microsoft.is runnað á unix…"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2003-03-14 15:07:25",
+            "id": "957381",
+            "reply_to_id": "957380",
+            "text": "Ég veit ekki hversu langt það er síðan microsoft.is keyrði apache, en ég er alveg viss um að það gerir það ekki lengur. Fyrir nokkrum mánuðum kom bara apache fjöðrin og “Powered by apache” þegar maður fór inn á þessa síðu. Síðan komst microsoft að þessu og þá…"
+        },
+        {
+            "user": "BudIcer",
+            "user_id": "18832",
+            "date": "2003-03-14 15:14:45",
+            "id": "957382",
+            "reply_to_id": "957380",
+            "text": "Jamm, sá þetta á batman.is. Hellvíti magnað ekki satt?"
+        },
+        {
+            "user": "Spa",
+            "user_id": "5037",
+            "date": "2003-03-15 15:26:27",
+            "id": "957383",
+            "reply_to_id": "957379",
+            "text": "Í hvaða skóla ertu? :)"
+        },
+        {
+            "user": "kattamat",
+            "user_id": "5019",
+            "date": "2003-03-14 17:58:08",
+            "id": "957384",
+            "reply_to_id": "957272",
+            "text": "Ég væri til í að sjá einhvern samanburð á OSX og Linux. Ég hef altaf fílað makka, en hef samt alltaf verið windows notandi aðalega vegna þess að forritin og leikinir sem ég hef gaman af eru ekki studd á mökkum.\nÉg las grein á zdnet ekki fyrir svo löngu um framtíðar möguleika OSX sem unix kerfi og var verið að tala um það að nokkuð margir Linux og Unix notendur væru að flytja sig yfir á OSX. Aðal ástæðan fyrir því er einfaldlega vegna þess að apple hefur verið að vinna við það á fullu að bæta við tólum og tækjum sem efla unix hlutan af kerfinu.\nAnywho, ef einhver hefur góða reynslu af báðum kerfunum þá er það um að gera að senda inn grein um það. Að mínu mati er OSX eina Unix based kerfið sem ég veit um sem hefur tekist að búa til NOTHÆFT gluggakerfi."
+        },
+        {
+            "user": "ojb",
+            "user_id": "1502",
+            "date": "2003-03-16 15:34:02",
+            "id": "957385",
+            "reply_to_id": "957272",
+            "text": "Snilldargrein!\nÉg er fullkomlega sammála greinarhöfundi. Windows rokkar feitt og Linux sökkar talsvert mikið meira!\nÁfram Bill Gates! Þú ert að gera góða hluti!\nÉg kveð í bili,\nEvklíð, sonur Naukratesar."
+        },
+        {
+            "user": "ojb",
+            "user_id": "1502",
+            "date": "2003-03-16 17:21:11",
+            "id": "957386",
+            "reply_to_id": "957385",
+            "text": ";-)"
+        },
+        {
+            "user": "xGnarRx",
+            "user_id": "914",
+            "date": "2003-03-17 15:41:09",
+            "id": "957387",
+            "reply_to_id": "957386",
+            "text": "bara sona að minnast á það að quake var hannaður og forritaður í Linux. Quake I var bara til fyrir Linux meiraðsegja þegar hann varð fyrst til og ég held að Q2 hafi líka bara verið á linux fyrst… skemmtilegt comment hj´aþér… HAHAHAHHA!"
+        },
+        {
+            "user": "Avatar",
+            "user_id": "157",
+            "date": "2003-03-17 16:23:44",
+            "id": "957388",
+            "reply_to_id": "957387",
+            "text": "Öhh… næstum rétt en ekki alveg!\nQuake 1 var forritaður á NeXTStep en gefinn út á DOS fyrst (Quake Technology demoið þ.e.a.s sem hét QuakeTest minnir mig. Það var nefnilega ekkert Windows 95 og NT komið þá :).\nQuake 2, 3 og Doom III eru forritaðir á Windows NT"
+        },
+        {
+            "user": "player",
+            "user_id": "26579",
+            "date": "2003-03-17 16:27:52",
+            "id": "957389",
+            "reply_to_id": "957272",
+            "text": "eftir að hafa lesið þessa grein fyrir alvöru hef ég komist að því að þú my friend ert hálfvit."
+        },
+        {
+            "user": "imeet",
+            "user_id": "1343",
+            "date": "2003-03-24 21:54:22",
+            "id": "957390",
+            "reply_to_id": "957272",
+            "text": "Jæja, tók það tók TÍMA að lesa greinina og svo öll svörin, en mér fannst það eiginlega vera þess virði. Vegna þess að mér fannst það hálf skemmtilegt. Vil ég líka segja að ég er ekki samála öllum hérna.\nEn mest er ég ósamála honum skaarjking, enda hefur hann farið soldið í mig hérna á huga.is, fyrst þegar hann byrjaði að dissa Makka.\nEf ég man rétt á drengurinn eithvað þvílíkt media center, og ef ég man rétt eru engir kaplar vegna þess að þetta er allt þráðlaust og hann er með 2x 21“ LCD skjái, en langaði soldið í 23” Apple Cinema en þeir voru ekki samhæfir við PC og líka að þeir voru of dýrir.\nÞessi gaur er líklegast einn af þessum ríku gaurum sem að Microsoft er að stefna á að fá í sinn hóp.\nMér finnst líka helst sem vantar í þessa umræðu að fólk talar soldið um Linux sem eitt stýrikerfi, þó það sé að það að vissu leyti eru til það margar útgáfur sem eru jafn mimsmunandi og þær eru margar. Eins og ef byrjandi myndi spyrja mig hvar hann ætti að byrja, ég myndi eflaust segja, farðu og fáðu þér Mandrake Linux, vegna þess að besta kynning sem byrjandi getur fengið af Linux er Mandrake Linux, ég veit að einhverjir verða fúlir útaf þessu, og ég nota sjálfur Debian Linux. En Mandrake Linux er svo ógeðslega notendanvænt að hvaða Windows auli ætti að geta orðið mjög sáttur við að keyra Mandrake, og þar þarf mamma ykkar ekki að fara í command shell til að byrja routa, það er ef eithvað er auðveldara en í Windows.\nMamma mín til dæmis var núna að stofna fyrirtæki, og jafnvel þó hún hafi keypt mjög fína tölvu frá DELL, þá lét ég hana sleppa Windows crapinu, ( ég var reyndar soldið að reyna henda henni á Macca, en hún vildi ekki fara svo langt ) og hún keyrir núna Mandrake Linux og Hansa verslunarkerfi og virkar mjög vel, og hún sem hefur aldrei notað annað en Fjölni, Windows og Outlook á ævi sinni getur notað þetta, nema í dag notar hún Hansa, Mandrake og Evolution, sem b.t.w er frekar gott póstforrit.\nMér finnst líka pinnku lítið eins og fólk hafi aldrei heyrt um Freshmeat ( b.t.w slóðin er\nhttp://freshmeat.net\n) alltaf þegar mig vantar eithvað fyrir Linuxuinn minn, drivera eða eithvað þá bara smelli ég mér á Freshmeat og í svona 99% tilfella finn ég það.\nVerð nú reyndar að játa það, að ég sem er núna að fara taka við vef Skólafélags Menntaskólans við Sunds sem keyrir í dag á Windows 2003 Server - RC2. Ég verð að segja að þetta er ekkert sérstakt sem við þurfum til þess að keyra okkar, annars litla net. Þjónar nokkrum vélum sem fileserver, printserver og svo sem vefþjón. Ég verð fljótur núna í vor að henda honum á Debian Linux.\nÞað helsta sem ég sakna í Linuxinn, sem er ástæðan fyrir því að ég nota ekki eingöngu Linux er sú að það vantar öll þessi dásamlegu Adobe forrit. Mig langar að sjá Photoshop ( mér finnst GIMP engan vegin nógu gott ) InDesign, og auðvita Premiere og AfterEffects á Linux, það yrði illa sweet heimur ef þessi forrit yrðu til fyrir Linux. Þá myndu allir skipta frá þessu Windows rusli.\nSvo er það hvað skaarjking er að segja, sem var b.t.w að dissa Makka heiminn ekki fyrir löngu og er núna soldið að hrósa honum að mér finnst.\nÞar sem það fyrsta af mörgu fáranlegu er umræðan um Tablet, þar sem hann er að fjalla um hvernig hann skilur ekki afhverju allir kaupa sér ekki TabletPC í staðinn fyrir Laptop, í fyrsta lagi ef ég væri að kaupa mér Laptop í dag myndi ég pottþétt kaupa mér Powerbook G4, vegna þess að Mac OS X er UNIX based, hún er geðveikt flott og að hún er frekar öflug.\nSvo skulum við líka muna það, að TabletPC hendar ALLS EKKI öllum, sjáið þið ykkur ekki fyrir ykkur hann skaarjking með TabletPC í CS eða AQ sem er örugglega það eina sem hann gerir á tölvunni sinni, sem b.t.w ég skil ekki afhverju hann er á 1800XP og á þessa geðveiku skjái og allt heima hjá honum er þráðlaust og ALLT ER SVO fullkomið.\nEn við skulum halda áfram með TabletPC sem ég efa að skaarjking hafi einu sinni séð með eigin augum, ég tek hér þessa sem hefur verið markaðsett hvað helst Compaq/HP TablePC hún er allavega með 10,4“ tommu skjá, og ykkur fannst 12” lítil, en þá segir skaarjking að það er hægt að snúa henni við, hú er með Transmeta Cursoe 5800 örgjörva sem er 1 Ghz, það hefur sannast að þessir Transmeta örgjörvar eru ekkert æðislegir, en eiga þann kost víst að þeir eyða minna rafmagn og gefur frá sér minni hita, samt í prófunum PC World, kom hann ekkert æðislega út. 256 MB RAM og 30 GB hörðum diski. Þetta kostar svo $1699\nMér finnst verst hvað mikla steypu maður þarf að skrifa til að svara þér, svo ég held að ég svari þér seinna restinni :)."
+        },
+        {
+            "user": "Hlynzi",
+            "user_id": "21838",
+            "date": "2003-04-13 11:18:21",
+            "id": "957392",
+            "reply_to_id": "957272",
+            "text": "Jæja, ég er búinn að renna yfir hluta af þessum 118 svörum sem eru örugglega 90% af þeim held ég að séu leiðréttingar á mistökum þessa manns.\nEn hvernig er t.d. MacOS X server að standa sig í server málum ?\n(ég sendi inn kork um gamlan makka á mac áhugamálinu fyrir viku ca. og hef ekkert svar ennþá fengið, en menn á apple.is og mac.is voru mun almennilegri og svöruðu mér innan 24 klst."
+        },
+        {
+            "user": "jonfr",
+            "user_id": "5868",
+            "date": "2003-04-17 13:33:29",
+            "id": "957391",
+            "reply_to_id": "957272",
+            "text": "held að þú hafir meira en lítið vitlaust fyrir þér, ég sem hef verið mikill windows notandi, og hef oft talið að windows væri betra, en það eru farnar að renna á mig tvær grímur með það, windows er ekki betra. Jú, vissulega hefur windows betri vélbúnaðarstuðning og það virkar allt í windows, og það kemur útaf notkunni, þar sem framleiðendur leggja ekki í það farmleiða drivera fyrir mörg stýrkerfi, sumir framleiða jafnvel ekki drivera fyrir MacOS X, halda sig helst bara við windows. Einnig talar þú um að windows sé öruggt, ef ég man rétt, það er rangt hjá þér, eins og uppsettningin á windows er núna, þá er windows eitt af óöruggustu kerfunum sem maður getur fengið í dag, og ég er ekki að grínast með það, það eru fullt af portum sem eru opin í windows, og mikið af þeim þarf ekki að vera opið, einnig er gott að minnast á það að windows XP, 2003 server munu öll innihalda WPA, þ.e þú þarft að “ræsa” vélina hjá M$, eða einfaldlega senda ákveðið ID til M$ til að fá að nota kerfið sem þú varst að “kaupa” (samkvæmt eula, þá er veitt leyfi, kerfið er ekki keypt, tékkaðu á því), annars er það bara lok og læs eftir 30 daga. Einnig er gaman að segja frá því að linux ER sneggra en windows, rh8 er miklu hraðari hjá mér en windows nokkurntímann og það er yfirleitt ekki að nota allt minnið í vélinni, og svona í endann, þá er MacOS X byggt á FreeBSD sem er Unix kerfi, sem linux er líka byggt á, þannig að windows er í raun (held ég, er ekki 100% viss) eina kerfið í dag sem er ekki byggt á Unix á einhvern hátt.."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2003-04-25 15:13:06",
+            "id": "957393",
+            "reply_to_id": "957272",
+            "text": "ég verð nú að segja að mér finnst allt hraðara í linux en win\nHérna eru þau stýrikerfi sem mér finnst best:\n1. Mac OS X\n2. Red hat 8 (eina distroið sem ég hef testað)\n3. Gömlu mac osin\n4. Windows 3.1\n5. Windows 2000\n6. Windows XP\n7. Windows 9x"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2003-05-12 23:10:07",
+            "id": "957394",
+            "reply_to_id": "957393",
+            "text": "Mér finnst Mac OS X fáránlegt kerfi, er með þannig í vinnuni. Win ME (2000, XP, allt sama klabbið) er betra en það getur líka verið vegna þess að ég er vanari því…"
+        },
+        {
+            "user": "Mikkjel",
+            "user_id": "31070",
+            "date": "2003-05-05 23:40:32",
+            "id": "957395",
+            "reply_to_id": "957272",
+            "text": "Pabbi minn kann miklu meira á Linux en þið allir til samans! Hann er kerfisstjóri hjá háskólanum og kom líka upp fyrsta netþjóninum hér á landi!"
+        },
+        {
+            "user": "jlaxdal",
+            "user_id": "3240",
+            "date": "2003-05-26 02:26:57",
+            "id": "957396",
+            "reply_to_id": "957272",
+            "text": "svoldið seint að vera að böggast í þessari grein en betra er seint en aldrei.\nWindows vs Linux,\nmy choice :Linux\nég hef verið hard-core Windows maður síðan ég snerti mús fyrst,  fyrsti windowsinn: Windows 2.11. mikil framför þegar Windows 3.1 kom,   svo ennþá meira stökk yfir í win95,   og meira stabílla og user-friendly kerfi þegar win98 kom,  fínt leikjasystem og allt þannig, svo kom windows 2000,  sem hefur festst við mig síðan það kom á markað.  svo kom Windows XP,  whoo, váá, svaka stýrikerfi,  ég gat verið með WinXP í 2 mánuði,  then back to Win2k.  en ég var orðinn svoldið leiður á hversu “stabíll” hann var að verða,  og ekki segja mér að þetta er bara stillingar atriði og blablabla,  en windows re-install á 2 mánaða fresti.\nen svo,  fyrir 5 vikum síðan,  þá fékk ég þá dellu í hausinn að setja upp Linux,  fékk ráðleggingar hjá vini mínum um hvaða Distró ég ætti að prufa.  og hann ráðlagði mér að setja Mandrake 9.1 upp.  og ég gerði það. og það tók mig aðeins 17min að setja Mandrake upp þannig að ég gat loggað mig inn og byrjað að nota hann. en úúúú,  Linux er 1.5x hægari en WinXP að starta sér,   hverjum er ekki skítsama,   þegar þú startar Linux,  ertu að starta honum til að hafa kveikt á honum,  annað en Windows,  “your mouse has moved, windows must be restarted for the changes to take effect”,  ég hef verið með Linuxinn í gangi í 24-36klst og finn engann performance mun, annað en Windows, 3-4klst og performancið dettur niður.\nnúna eftir 5 vikur í Linux; Mandrake, þá hef ég fundið samsvörun fyrir öll forrit í Windows,  ég er með Ritvinnslu, Graphicvinnslu, ég er með slatta af forritum til að horfa á myndir,  Xine, Noatun og “my personal favorite” : MPlayer (og þetta er EKKI WMPlayer fyrir Linux).  en eini hængurinn á Linux notkun minni er sá að framleiðendurnir sem framleiddu ADSL mótaldið mitt eru hættir að styðja nýju Linux Kernelana,  en það breytir ekki miklu fyrir mig því ég er með Router, sem keyrir Windows 2000 Advanced Server og forwardar öllum portum yfir á vélina mína,   þannig að ég þarf ekki mikið að pæla í internetinu.\nsvo fékk ´eg þá grillu í hausinn að prófa að rippa DVD mynd,   ég skoðaði mig um og fann bara “dvd ripping tools” fyrir windows,  og djöfulsinns vesen það er..  svo benti einhver mér á Mencoder. sem fylgir með Mplayer.  og með einni skipun þá get ég rippað DVD mynd, beint á Harðadiskinn af DVD drifinu ÁN ÞESS að skemma DVD drifið (on-the-fly mode, sem aðeins er hægt að gera í Windows með Caution) og meðan ég er að rippa þessa DVD mynd, þá laggar tölvan mín ekki neitt, ég get verið að vinna í henni einsog ekkert hafi í skorist,  þótt CPU usage sé 95%,  þá finn ég ekkert fyrir því.\ntil samanburðar á CPU notkun í Linux og Windows þá get ég bent á MP3 afspilun.\ní Windows notaði ég alltaf WinAmp,  sem er eiginlega eini “starfhæfi” mp3 spilarinn fyrir windows, sem notar um allt CPU power sem er available,  og meðan hann var í gangi “on-top” þá fann ég verulegan performance drainage (minnkun í performance)\ní Linux,  nota ég xmms,  sem notar á bilinu 0.5% til 1.5% CPU Power, ég finn ekki neinn mun á performancinu.\nPartitions í Linux,  hver sagði að maður þyrfti margar partition til að setja Linux upp,  ég er með 3 partitions,  eina fyrir Swap, eina fyrir / (rótina) svo er ég með eina sem er mountuð í /usr/.   svo ef maður pælir í hvernig partitions eru notuð í Linux er ekki verið að tala um drif einsog í Windows,  heldur nokkursskona foldera.\neftir 5 vikur í Linux þá er það eina sem ég sé sem Windows hefur yfir Linux, er Leikjastuðningurinn.  sem brátt lítið vandamál fyrir mig því ég fer að fá WineX bráðum,  en það er svona dæmi til að spila Windows Leiki á Linux,  það er ekki með stuðning fyrir alla leiki, en samt slatta.\nLinux vs Windows\nMitsubishi Lancer Evolution 8 vs Subaru Impreza\ntight,  but in the end, the LanEvo is better =D"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2004-09-10 13:04:03",
+            "id": "1712195",
+            "reply_to_id": "957272",
+            "text": "Ég man ekki til þess að hafa lesið jafn ítarlegt samansafn af ranghugmyndum og vitleysu um Linux.\nÞað eina sem er af viti í þessari grein eru upphafsorðin. Síðan heldurðu áfram að hella út úr þér vitleysu. Ég nenni ekki einu sinni að svara þessu öllu, það er þegar búið að því."
+        }
+    ]
+}

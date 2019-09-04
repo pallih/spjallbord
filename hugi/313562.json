@@ -1,0 +1,101 @@
+{
+    "forum_title": "Grafísk hönnun",
+    "user": "krissa4",
+    "user_id": "56451",
+    "date": "2005-07-19 12:30:16",
+    "title": "Tutorial: Electric Liquid",
+    "text": "Ég þýddi þetta tutorial af síðunni\nhttp://www.good-tutorials.com/track/9574\n1) Opnaðu nýtt skjal og notaðu stærðina 500x500.\n2) Fylltu skjalið með svörtu\n3) Filter > Render > Lens Flare og hafðu venjulegu stillingarnar. Hafðu lens flareið í efra vinstra horninu á myndinni og ýttu á ok\n4) Filter > Sketch > Chrome\nStillingar:\nDetail: 10\nSmoothness: 0\n5) Breyttu Blending modeinu í lighten.\n6) Ýttu á Ctrl+J 6 sinnum\n7) Filter > Distort > Wave. Notaðu venjulegu stillingarnar og ýttu á  “Randomize” Nokkrum sinnum. Gerðu þetta við 3 efstu layerana.\n8) Klikkaðu á næst síðasta layerinn og farðu í Filter > Distort > Twirl.\nStillingar:\nAngle: 150\n9) Klikkaðu á síðasta layerinn og farðu í Filter > Distort > Twirl.\nStillingar:\nAngle: -150\n10) Layer > Merge visible (Ctrl+Shift+E)\n11) Ctrl+U og mundu að haka við Colourize boxið.\nStillingar:\nHue: 205\nSaturation: 45\nLightness: 0\n12) Go Filter > Blur > Gaussian Blur\nStillingar:\nRadius: 3.0\n13) Farði í  Edit > Fade Gaussian Blur (Shift+Ctrl+f).\nStillingar:\nOpacity: 100\nMode: Overlay\nTadamm!\nHérna er það sem ég fékk út\nMynd",
+    "url": "https://www.hugi.is/grafik/greinar/313562/tutorial-electric-liquid/",
+    "url_id": "313562",
+    "id": "2324109",
+    "replies": [
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2005-07-19 13:05:41",
+            "id": "2324319",
+            "reply_to_id": "2324109",
+            "text": "Kom ekki eins út hjá mér =/ samt flott þín mynd… reyni aftur seinna :)"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2005-07-19 14:29:52",
+            "id": "2324424",
+            "reply_to_id": "2324109",
+            "text": "núhj ætla að gera þetta þegar ég kem heim úr vinnu :O Geðveikt ;) Gj"
+        },
+        {
+            "user": "Bijou",
+            "user_id": "34464",
+            "date": "2005-07-19 16:19:33",
+            "id": "2324658",
+            "reply_to_id": "2324109",
+            "text": "Þetta er bara flott :P :P :P"
+        },
+        {
+            "user": "Rusty",
+            "user_id": "39411",
+            "date": "2005-07-20 16:31:06",
+            "id": "2327284",
+            "reply_to_id": "2324109",
+            "text": "Fannst þetta þó ótrúlega mikið flottara hjá þeim sem gerði þetta upprunalega."
+        },
+        {
+            "user": "UrG",
+            "user_id": "3072",
+            "date": "2005-07-24 11:49:07",
+            "id": "2334911",
+            "reply_to_id": "2324109",
+            "text": "http://img333.imageshack.us/img333/5425/test8um.jpg\nþetta er það sem ég fékk.\nhttp://img304.imageshack.us/img304/8407/test24lx.jpg\nþað sem er innan hringja lítur út eins og selur og svo geimvera."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2005-08-17 23:13:47",
+            "id": "2392097",
+            "reply_to_id": "2334911",
+            "text": "lol og rofl!!"
+        },
+        {
+            "user": "Marwin",
+            "user_id": "48010",
+            "date": "2005-07-25 23:47:20",
+            "id": "2338276",
+            "reply_to_id": "2324109",
+            "text": "addið ljæosi í hægra neðra honn, of cool gef þessu 4 nonna af 5"
+        },
+        {
+            "user": "BirtaR",
+            "user_id": "34454",
+            "date": "2005-07-26 20:10:48",
+            "id": "2339696",
+            "reply_to_id": "2324109",
+            "text": "Mín var (eiginlega) alveg eins :D"
+        },
+        {
+            "user": "tonnatak",
+            "user_id": "60608",
+            "date": "2006-11-12 14:51:36",
+            "id": "4207228",
+            "reply_to_id": "2339696",
+            "text": "'Hvernig finn ég blending mode?"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2005-09-21 21:48:50",
+            "id": "2506794",
+            "reply_to_id": "2324109",
+            "text": "Sonna út\nHjá mér!"
+        },
+        {
+            "user": "tonnatak",
+            "user_id": "60608",
+            "date": "2006-11-12 14:39:05",
+            "id": "4207189",
+            "reply_to_id": "2324109",
+            "text": "Hvar er lighten og blending mode? þarna í númer 5?"
+        }
+    ]
+}

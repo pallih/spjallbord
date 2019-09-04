@@ -1,0 +1,37 @@
+{
+    "forum_title": "Forritun",
+    "user": "FreeFly",
+    "user_id": "9270",
+    "date": "2009-08-06 14:09:09",
+    "title": "D3 leitar að forriturum",
+    "text": "using System;\nusing System.Collections.Generic;\nusing System.Text;\nnamespace D3.Programming\n{\n   class Umsokn\n   {\n      //The person that reads this\n      private Person Umsaekjandi = \"You\";\n      //Skills\n      if ((Umsaekjandi.Programmingskills.C#) || (Umsaekjandi.Programmingskills.OtherSimilar))\n      { //Independent && Likeable\n         if ((Umsaekjandi == Person.Independent) && (Umsaekjandi == Person.Likable))\n         { //Interested ?\n            if (Umsaekjandi.Interested)\n            { //Contact D3\n               Umsaekjandi.Goto(\"[b]www.d3.is[/b]\"(D3));\n            }\n         }\n      }\n   }\n}\nhttp://www.d3.is/pages/news/news_d3atvforritari.html",
+    "url": "https://www.hugi.is/forritun/korkar/667442/d3-leitar-ad-forriturum/",
+    "url_id": "667442",
+    "id": "6817021",
+    "replies": [
+        {
+            "user": "kristjanmik",
+            "user_id": "72275",
+            "date": "2009-08-07 22:58:34",
+            "id": "6819139",
+            "reply_to_id": "6817021",
+            "text": "Haha, flott atvinnuauglýsing, þið sjáið sko til að réttu mennirnir komi til ykkar því að hinir skilja ekki baun"
+        },
+        {
+            "user": "wolfy",
+            "user_id": "16961",
+            "date": "2009-08-12 19:45:18",
+            "id": "6825494",
+            "reply_to_id": "6817021",
+            "text": "<Persónusmekkur>\nÉg hefði ekki notað Generics, þar sem enginn þörf er fyrir því. Einnig hefði ég látið kóðann vera lesanlegri með því að hafa && og || línurnar í sér línu.\nDæmi:\nif ( ( Umsaekjandi.Programmingskills.C# ) || ( Umsaekjandi.Programmingskills.OtherSimilar ) )\n{\n}\nNota:\nif ( ( Umsaekjandi.Programmingskills.C# ) \n      || ( Umsaekjandi.Programmingskills.OtherSimilar ) )\n{\n}\nSvo hefði verið flott að hafa þetta í smið, í stað þess að láta þetta liggja í klasanum.\nprivate Person Umsaekjandi;\npublic void Umsokn( Person _person ) \n{ \n    Umsaekjandi = _person; \n}\npublic void Umsokn( ) \n    : base( new Person(\"You\") ) \n{ /* Rest of code*/ }\nUmsaekjandi.Programmingskills.C#\nværi flott sem\nUmsaekjandi.Codingskills == CodingSkills.CSHARP\nþar sem Skills væri enumerator.\nAuðvitað var þetta allt bara mín skoðun á flottari auglýsingu, en þetta var mjög skemmtileg og frumleg auglýsing. Takk fyrir hana :)\n</Persónusmekku"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2009-09-28 17:36:32",
+            "id": "6891185",
+            "reply_to_id": "6825494",
+            "text": "you're perfect for the job!"
+        }
+    ]
+}

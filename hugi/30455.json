@@ -1,0 +1,149 @@
+{
+    "forum_title": "Farsímar",
+    "user": "Merkur",
+    "user_id": "2800",
+    "date": "2001-06-06 21:40:02",
+    "title": "Leynikóðar fyrir SMS",
+    "text": "Ef þú vilt vita um afdrif SMS skeytis getur þú set *nm# í byrjun skeytisins og sent það eins og venjulega.\nEftir skamma stund færð þú SMS tilbaka sem segir þér hvort skeytið hafi verið móttekið eða hvort það hafi verið geymt (Buffered).\nÞá er slökkt á síma viðtakandans eða hann er utan þjónustusvæðis og skeytið mun bíða þangað til kveikt er á honum.\nÞú getur stillt hversu lengi SMS skeytið bíður í SMS stöðinni með því að fara inn í \"Messages - Message Settings - og finna þar Message Validity. Ég mæli með að hafa þann tíma ekki lengri en 1 dag. Annars er hætt við því að SMS skeytið verði úrelt þegar það kemst á leiðarenda.",
+    "url": "https://www.hugi.is/farsimar/pistlar/30455/leynikodar-fyrir-sms/",
+    "url_id": "30455",
+    "id": "203460",
+    "replies": [
+        {
+            "user": "nataz",
+            "user_id": "6120",
+            "date": "2004-08-23 09:48:35",
+            "id": "203476",
+            "reply_to_id": "203460",
+            "text": "Eins og fólk hefur verið að benda á, ekki beint “leynikóði”.\nEn jú, þú byrjar skeytið á *nm# og svo kemur textinn, og þá færðu delivery report, sem er þó ekki eins og venjulegt delivery report, færð texta á ísl með og svona.\nAnnað, margir nota ekki delivery reports, líka illa við það, þetta er þægileg leið til að fá report bara fyrir eitt sms sem maður sendir.\nAnnar góður kostur við þetta er að þú getur gert:\n*nm 8888888# smsmsmsmsm\n(*nm # smsm)\nÞá geturu sent delivery report í annan síma.\nSem er þægilegt að því leitinu til að ef þú sendir sms úr síma öðrum en þínum, þá geturu fengið delivery reportið í þinn síma til að vita hvenær þetta kemst til skila.\nÞað eru fullt af fleiri kóðum til, til að gera ýmislegt sniðugt.\nÞað er samt ekki mikið af þessu sem er “virkt” í kerfinu hérna."
+        },
+        {
+            "user": "Macinnis",
+            "user_id": "28464",
+            "date": "2004-08-23 09:48:35",
+            "id": "203477",
+            "reply_to_id": "203476",
+            "text": "snild þetta var gerta arið 2001 alveg magnað"
+        },
+        {
+            "user": "glitter",
+            "user_id": "26499",
+            "date": "2004-08-23 09:48:35",
+            "id": "203475",
+            "reply_to_id": "203460",
+            "text": "mér finnst þetta kúl og ég meina ef ég skil þetta rétt þá er þetta ekki það sama og report…!"
+        },
+        {
+            "user": "Jasmin91",
+            "user_id": "19454",
+            "date": "2004-08-23 09:48:35",
+            "id": "203473",
+            "reply_to_id": "203460",
+            "text": "flott að kunna þetta…=)\nhehe.."
+        },
+        {
+            "user": "Jasmin91",
+            "user_id": "19454",
+            "date": "2004-08-23 09:48:35",
+            "id": "203474",
+            "reply_to_id": "203473",
+            "text": "Til hvers er þetta eiginlega ég er ekki alveg að fatta það!!!!!!!!!!!!!!!"
+        },
+        {
+            "user": "Maos",
+            "user_id": "763",
+            "date": "2004-08-23 09:48:35",
+            "id": "203470",
+            "reply_to_id": "203460",
+            "text": "Já, þetta er enginn leynikóði, þú bara stilir á delivery report á nokia símum, og það kostar ekkert að fá þær hjá Tal. Allavegana er ég búin að hafa þetta svona stillt í mjög langan tíma og hef ekki borgað fyrir það, og þeir segja það líka hjá 1414 að mar borgi ekki(þó þeir segi ekki alltaf sannleikann!)"
+        },
+        {
+            "user": "kaffibaunin",
+            "user_id": "23820",
+            "date": "2004-08-23 09:48:35",
+            "id": "203471",
+            "reply_to_id": "203470",
+            "text": "þetta með reportin kostar ekki shitt.. þetta er innbyggt í símanum!!"
+        },
+        {
+            "user": "Snakeman",
+            "user_id": "10103",
+            "date": "2004-08-23 09:48:35",
+            "id": "203472",
+            "reply_to_id": "203471",
+            "text": "crazygirl  ertu stupid or sum ??? “þetta með reportin kostar ekki shitt.. þetta er innbyggt í símanum!!” þú sagði etta og þess vegna spyr ég aftur  ertu stupid or sum ???  etta Delivery reports…það er ekkert nema request um að fá þessa tilteknu þjónustu hjá símafyrirtækinu sem þú ert hjá sem felst í því að þeir senda þér tilkynningu um stöðu skeytisins(SMS á gsm máli) sem þú sendir !!!!   etta er ekki bara innbyggt í símanum. GET REAL marr !!!"
+        },
+        {
+            "user": "Seoman",
+            "user_id": "4981",
+            "date": "2004-08-23 09:48:35",
+            "id": "203467",
+            "reply_to_id": "203460",
+            "text": "Síðast þegar ég vissi var þetta nú einfaldlega gert með því að fara í stillingarnar á skilaboðum og biðja um delivery report og þá færðu að vita allt um þetta. Ath. það kostar 1kr að fá svona svar allavega gerði það það hjá símanum síðast þegar ég vissi\nSeoman"
+        },
+        {
+            "user": "Cleopatra",
+            "user_id": "8973",
+            "date": "2004-08-23 09:48:35",
+            "id": "203468",
+            "reply_to_id": "203467",
+            "text": "Það þarf að gera NM með stórum stöfum, og þetta er enginn “leynikóði”, heldur geturðu fengið upplýsingar um þetta hjá símanum. Þetta kostar 1 kr. (fyrir hvert skipti)"
+        },
+        {
+            "user": "Andres18",
+            "user_id": "4577",
+            "date": "2004-08-23 09:48:35",
+            "id": "203469",
+            "reply_to_id": "203468",
+            "text": "Er Tal lika með þetta?"
+        },
+        {
+            "user": "Zeron",
+            "user_id": "2624",
+            "date": "2004-08-23 09:48:35",
+            "id": "203463",
+            "reply_to_id": "203460",
+            "text": "eða bara stillt reaport!!!"
+        },
+        {
+            "user": "jonpetur",
+            "user_id": "7295",
+            "date": "2004-08-23 09:48:35",
+            "id": "203466",
+            "reply_to_id": "203463",
+            "text": "jepp stilla bara reaport milu minna  vesen ;)"
+        },
+        {
+            "user": "Merkur",
+            "user_id": "2800",
+            "date": "2004-08-23 09:48:35",
+            "id": "203464",
+            "reply_to_id": "203463",
+            "text": "Jamm. En þá færðu líka kvittun fyrir hverju einu og einasta SMS skeyti sem þú sendir!"
+        },
+        {
+            "user": "fatBastard",
+            "user_id": "7012",
+            "date": "2004-08-23 09:48:35",
+            "id": "203465",
+            "reply_to_id": "203464",
+            "text": "Hey þegar eg geri detta *nm# gerist ekkert degar eg er buinn at senda sms. urrrr eg er med nokia"
+        },
+        {
+            "user": "mergur",
+            "user_id": "40577",
+            "date": "2004-08-23 09:48:35",
+            "id": "203462",
+            "reply_to_id": "203460",
+            "text": "you suck, you stink"
+        },
+        {
+            "user": "honey",
+            "user_id": "4744",
+            "date": "2004-08-23 09:48:35",
+            "id": "203461",
+            "reply_to_id": "203460",
+            "text": "cool\""
+        }
+    ]
+}

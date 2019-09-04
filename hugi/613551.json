@@ -1,0 +1,61 @@
+{
+    "forum_title": "Hljóðvinnsla",
+    "user": "wem",
+    "user_id": "7596",
+    "date": "2008-09-14 12:43:26",
+    "title": "Endalaus Pro Tools vandræði",
+    "text": "Ég keypti mér nýlega utanáliggjandi harðan disk og hann hefur ekkert gert nemað skapað vandræði.\nPro Tools frís og ég fæ þessi skilaboð:\nLost communication with the audio interface. Please try increasing “H/W Buffer Size” or remocing some plug-ins, and make sure you have a vaild clock source. Press Ok to reset device. (-6097)\nÞrátt fyrir að ég sé ekki með búinn að gera nett, engir trakkar né plug-inn.\nHefur einhver lent í þessu áður?\nÉg er með MacBook Pro og Digi 002 hljóðkort. Keyri Pro Tools 7.4.2.\nBætt við 14. september 2008 -  16:36\nFæ líka error-a eins og\nDAE error -6087 was encountered\n. Mikið bögg",
+    "url": "https://www.hugi.is/hljodvinnsla/korkar/613551/endalaus-pro-tools-vandraedi/",
+    "url_id": "613551",
+    "id": "6129804",
+    "replies": [
+        {
+            "user": "surfer45",
+            "user_id": "57315",
+            "date": "2008-09-15 09:32:28",
+            "id": "6132213",
+            "reply_to_id": "6129804",
+            "text": "Ertu að nota e-h annað ljósleiðahljóðkort(optical)með digi002 eða bara 002?\nFarðu í Setup->Hardware og ath hvort að source-inn sé ekki stilltur á Internal nema að þú sért með annað hljóðkort þá viltu líklega hafa þetta á Adat.\nHvernig er diskurinn tengdur ertu með FireWire? Er hann að nota sama FW port og digi002 ef svo er hvort er diskurinn eða hljóðkortið á undan?\nByrjaði þetta ekki fyrr en þú keyptir þennan disk?\nBætt við 15. september 2008 -  09:40\nEf þú ert að nota usb disk prófaðu þá annað usb port helst e-h langt frá fyrra. Veit ekki hvernig tölvan þín er en ef það er usb port hægra og vinstra megin á tölvunni prófaðu þá að færa það frá hægri til vinstri eða öfugt eftir því hvernig það er tengt núna."
+        },
+        {
+            "user": "wem",
+            "user_id": "7596",
+            "date": "2008-09-15 11:17:42",
+            "id": "6132305",
+            "reply_to_id": "6132213",
+            "text": "Þetta byrjaði bara um leið og ég keypti diskinn. Reyndar voru alltaf að koma einhverjir error gluggar um að H/W Buffer eitthvað(sem er bara vegna þess að ég að keyra hljóðið af harða disknum í tölvunni.\nDiskurinn er tengdur með Firewire 400 í Digi-ið og digið tengt beint í tölvuna.\nUSB diskur virkar held ég örugglega ekki með Pro Tools…."
+        },
+        {
+            "user": "surfer45",
+            "user_id": "57315",
+            "date": "2008-09-15 11:35:05",
+            "id": "6132327",
+            "reply_to_id": "6132305",
+            "text": "Jújú usb virkar alveg. Ég er að keyra mjög stór session með usb og það virkar fínt.\nErtu að fá þessa error-a áður en þú opnar session?\nPrófaðu að búa til nýtt session á nýja disknum. Farðu svo í setup->playback engine og fiktaðu í buffer stillingunum.\nÉg nota 128(ekkert lagg en meira álag á tölvuna) þegar ég er að taka upp og svo 1024 þegar ég er að mixa\nBætt við 15. september 2008 -  11:40\nEf að diskurinn býður upp á usb. Prófaðu það líka þó þú hafir ekki mikla trú á því :)"
+        },
+        {
+            "user": "wem",
+            "user_id": "7596",
+            "date": "2008-09-15 14:49:28",
+            "id": "6132688",
+            "reply_to_id": "6132327",
+            "text": "Ókei, ég prófa það.\nTakk kærlega fyrir að hjálpa mér."
+        },
+        {
+            "user": "surfer45",
+            "user_id": "57315",
+            "date": "2008-09-18 22:30:09",
+            "id": "6142603",
+            "reply_to_id": "6132688",
+            "text": "Ekkert mál. Gekk þetta eða er þetta allt í rugli enþá?"
+        },
+        {
+            "user": "wem",
+            "user_id": "7596",
+            "date": "2008-09-19 07:31:59",
+            "id": "6143130",
+            "reply_to_id": "6142603",
+            "text": "Þetta er enþá eitthvað að stríða mér, hef verið að fikta mikið í þessu."
+        }
+    ]
+}

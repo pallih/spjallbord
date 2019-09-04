@@ -1,0 +1,29 @@
+{
+    "forum_title": "Vefsíðugerð",
+    "user": "Siggi2k",
+    "user_id": "36052",
+    "date": "2010-09-17 23:52:43",
+    "title": "lightbox & MySQL?",
+    "text": "Ég er að lenda í smá veseni, ég er að reyna að setja upp síðu þar sem mig langar að nota eitthvert flott lightbox eða eitthvað álíka fyrir myndir.\nÉg er með MySQL gagnagrunn þar sem mig langar til að geta hlaðið bara myndum inn (eða bara í eitthverja sérstaka möppu í rótinni) og vantar þá eiginlega leiðbeiningar hvernig ég get bara gert repeat region á allar myndir sem eru þar (eða í gagnagrunninum).\nPælingin á bakvið þetta hjá mér er að gera gallery sem lítur vel út en er auðvelt að bæta við myndum.\nEf eitthver önnur lausn er betri þá væri ég mjög þakklátur fyrir góð ráð.",
+    "url": "https://www.hugi.is/vefsidugerd/korkar/710630/lightbox-mysql/",
+    "url_id": "710630",
+    "id": "7239704",
+    "replies": [
+        {
+            "user": "egth",
+            "user_id": "31699",
+            "date": "2010-09-26 12:43:50",
+            "id": "7244872",
+            "reply_to_id": "7239704",
+            "text": "<?php\n$db = mysqli(stuff);\n$query = \"SELECT caption, path FROM picz\";\n$result = $db->query($query);\nwhile ( $row = $result->fetch_assoc() )\n{\n    echo \"<a rel=\\\"lightbox\\\" title=\\\"\" . $row['caption'] . \"\\\" href=\\\"\" . $row['path'] . \"\\\">thumbnail or some shit</a>\";\n}\nEitthvað í þessa áttina, myndir hafa allar thumbnails í sömu stærð, gætir notað GD til að gera thumbs sjálfkrafa þegar þú uploadar nýrri mynd."
+        },
+        {
+            "user": "Siggi2k",
+            "user_id": "36052",
+            "date": "2010-09-28 22:27:16",
+            "id": "7246786",
+            "reply_to_id": "7244872",
+            "text": "takk fyrir það :)"
+        }
+    ]
+}

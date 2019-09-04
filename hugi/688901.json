@@ -1,0 +1,85 @@
+{
+    "forum_title": "Vefsíðugerð",
+    "user": null,
+    "user_id": null,
+    "date": "2010-01-25 13:58:36",
+    "title": "Vefsíðukóðun fyrir byrjanda",
+    "text": "Ég kann nákvæmnlega ekki neitt í vefsíðugerð en langar mjög mikið að kunna og setja upp vefsíðu. Hvað er það helsta sem ég þarf að læra? Hvar á ég að byrja?",
+    "url": "https://www.hugi.is/vefsidugerd/korkar/688901/vefsidukodun-fyrir-byrjanda/",
+    "url_id": "688901",
+    "id": "7049811",
+    "replies": [
+        {
+            "user": "wolfy",
+            "user_id": "16961",
+            "date": "2010-01-25 14:15:49",
+            "id": "7049830",
+            "reply_to_id": "7049811",
+            "text": "Ok, best er að byrja að læra á HTML. Fara á Google og leita af “HTML Tutorials”, þú gætir notað Notepad til að skrifa HTML kóðann eða önnur forrit eins og Scite.\nÞegar HTML er orðið þægilegt, þá geturðu farið að íhuga að læra vef-forritun, þ.e. læra á PHP eða ASP.NET ef þú vilt fara út í að hanna vefkerfi sem hefur aðganga o.sfv.\nVona að þetta komi a.m.k. að einhverju gagni."
+        },
+        {
+            "user": "0li",
+            "user_id": "68525",
+            "date": "2010-01-25 17:29:44",
+            "id": "7050046",
+            "reply_to_id": "7049811",
+            "text": "http://www.w3schools.com/"
+        },
+        {
+            "user": "egth",
+            "user_id": "31699",
+            "date": "2010-01-27 15:21:13",
+            "id": "7052226",
+            "reply_to_id": "7050046",
+            "text": "Nei, nei, nei, nei, nei.\nw3schools er með fullt af villum og er yfir höfuð ekki nógu góð vefsíða.\nhttp://htmldog.com/\ner sú síða sem ég nota þegar ég þarf að fletta einhverju upp, annars mæli ég með að lesa bækur um html."
+        },
+        {
+            "user": "Siggi2k",
+            "user_id": "36052",
+            "date": "2010-05-08 10:34:40",
+            "id": "7156845",
+            "reply_to_id": "7052226",
+            "text": "uhm ég er ekki frá því að w3 samtökin ráði því hvað er rétt og hvað er rangt í heimi vefsíðugerða þessa dagana, en annars er ég aðeins búinn að vera að fikta (html og css mest) og finnst w3schools bara oft á tíðum gagnleg síða."
+        },
+        {
+            "user": "egth",
+            "user_id": "31699",
+            "date": "2010-05-08 14:31:12",
+            "id": "7156973",
+            "reply_to_id": "7156845",
+            "text": "Útskýrðu fyrir mér á hvaða hátt www.w3schools.com og www.w3c.org tengjast.\nen annars er ég aðeins búinn að vera að fikta (html og css mest) og finnst w3schools bara oft á tíðum gagnleg síða.\nÞað er ýmislegt rétt á þeirri vefsíðu en heilmargt rangt að sama skapi.\nuhm ég er ekki frá því að w3 samtökin ráði því hvað er rétt og hvað er rangt í heimi vefsíðugerða þessa dagana\nÞeir setja staðla, svo ákveður fólk hvort það vilji fylgja þeim stöðlum eða ekki."
+        },
+        {
+            "user": "Siggi2k",
+            "user_id": "36052",
+            "date": "2010-05-08 18:13:38",
+            "id": "7157163",
+            "reply_to_id": "7156973",
+            "text": "ég reyndar hélt að w3schools væri á vegum WWWC, ég er reyndar ekkert búinn að kynna mér þetta neitt af viti en w3c er semsagt skammstöfun fyrir World Wide Web Consortium, og ég held að það væru örugglega eikkver copyright issues á milli þessara síðna ef þær tilheyrðu ekki sama batterýinu..\nEn eins og ég segi þá er þetta bara það sem ég held og þér er alveg velkomið að leiðrétta mig ef ég hef rangt fyrir mér :)\nBætt við 8. maí 2010 -  18:15\nþarf reyndar ekkert að vera, var að fatta að það er ekkert c í w3schools.com svo ég er örugglega bara að bulla eikkvað :P"
+        },
+        {
+            "user": "Lindal",
+            "user_id": "74065",
+            "date": "2010-07-22 08:40:57",
+            "id": "7206354",
+            "reply_to_id": "7049811",
+            "text": "Fyrir byrjendur mæli ég með:\n1.\nWeebly:\nmjög einfalt drag&drop kerfi. Það er einfalt & þægilegt.\n2.\nWix:\neinfalt kerfi sem býr til flash heimasíður. Mér finnst satt að segja samt leiðinlegt að vinna í því.\n3a.\nJoomla:\nfree source kerfi sem þú þarft að setja upp á allann hátt sjálfur en þarft bara að prófa þig áfram í því.\n3b.\nWordpress:\ner þægilegt kerfi en er ætlað sem bloggkerfi en getur hinsvega alveg gert það að lítilli heimasíðu."
+        },
+        {
+            "user": "Contemplative",
+            "user_id": "62939",
+            "date": "2011-01-09 16:44:01",
+            "id": "7299021",
+            "reply_to_id": "7206354",
+            "text": "Þetta er ekki kóðun fyrir fimmm aura :)"
+        },
+        {
+            "user": "Lindal",
+            "user_id": "74065",
+            "date": "2011-01-09 17:07:12",
+            "id": "7299032",
+            "reply_to_id": "7299021",
+            "text": "Samt einafalt til að byrja með…þannig komst ég af stað!"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "forum_title": "Vélbúnaður",
+    "user": "andrabakki",
+    "user_id": "63551",
+    "date": "2009-01-25 13:26:04",
+    "title": "harður diskur",
+    "text": "hæ er er að fá mér 1Terabite harðan disk og ég get valið\n16 mb og 32 mb er ekker munur a því",
+    "url": "https://www.hugi.is/velbunadur/korkar/639336/hardur-diskur/",
+    "url_id": "639336",
+    "id": "6471865",
+    "replies": [
+        {
+            "user": "Matti21",
+            "user_id": "42058",
+            "date": "2009-01-25 13:46:31",
+            "id": "6471892",
+            "reply_to_id": "6471865",
+            "text": "í svona stórum disk þá já. Taktu 32mb."
+        },
+        {
+            "user": "andrabakki",
+            "user_id": "63551",
+            "date": "2009-01-26 08:40:14",
+            "id": "6473576",
+            "reply_to_id": "6471892",
+            "text": "oki ætlaði að taka munar bara 1000kr en vera viss ja og takk"
+        },
+        {
+            "user": "Selshamur",
+            "user_id": "19356",
+            "date": "2009-01-27 09:03:03",
+            "id": "6475659",
+            "reply_to_id": "6471865",
+            "text": "Í rauninni enginn munur, flestir sem keyra vélarnar Native IDE nýta ekki nema 8mb."
+        },
+        {
+            "user": "andrabakki",
+            "user_id": "63551",
+            "date": "2009-01-27 19:05:17",
+            "id": "6476605",
+            "reply_to_id": "6475659",
+            "text": "oki takk"
+        },
+        {
+            "user": "optimusprime",
+            "user_id": "360",
+            "date": "2009-02-19 07:25:19",
+            "id": "6521448",
+            "reply_to_id": "6475659",
+            "text": "hvað með sata ?"
+        },
+        {
+            "user": "Selshamur",
+            "user_id": "19356",
+            "date": "2009-02-19 18:12:05",
+            "id": "6522291",
+            "reply_to_id": "6521448",
+            "text": "Keyra sata jú í Native IDE staðinn fyrir AHCI.\nAnnars veit ég ekki hvað þú meinar."
+        },
+        {
+            "user": "optimusprime",
+            "user_id": "360",
+            "date": "2009-02-20 06:54:33",
+            "id": "6523439",
+            "reply_to_id": "6522291",
+            "text": "Eru sata ekki yfirleitt keyrðir í ahci"
+        },
+        {
+            "user": "Selshamur",
+            "user_id": "19356",
+            "date": "2009-02-20 19:34:16",
+            "id": "6524270",
+            "reply_to_id": "6523439",
+            "text": "Í þær flestar vélar sem ég hef kíkt hjá vinafólkim á verkstæðum og öðrum eru diskarnir alltaf annaðhvort í Native IDE eða Legacy."
+        }
+    ]
+}

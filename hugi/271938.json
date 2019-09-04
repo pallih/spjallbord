@@ -1,0 +1,205 @@
+{
+    "forum_title": "Windows",
+    "user": "izelord",
+    "user_id": "1143",
+    "date": "2003-06-20 20:45:12",
+    "title": "Harðir diskar verða ekki stærri en 130 GB í windows?",
+    "text": "Núna er öldin sú að harðir diskar eru orðnir frekar stórir, og talið venjulegt að kaupa sér 120GB diska.\nSumir fara þó yfir þessa stærð og lenda því í vandamálum.\nMikið hefur verið um þessi vandamál undanfarið, og þurfti ég meðal annars að glíma við þetta.\nMálið er svona:\nHarðir diskar sem eru stærri en 137GB (128GB binary) þurfa 48-bita LBA support. Þetta verður að vera í lagi:\n* Windows XP kerfi eldri en 2002 verða að vera með service pack 1 uppsettann.\n* Windows 2000 kerfi verða að vera með service pack 3 uppsettann.\n* BIOSinn verður að styðja þessa stærð (BIOS update).\n* Verður að setja upp stuðninginn í registry\nWindows 2000 menn verða að setja upp service pack 3.\nwin2k upplýsingar hér: <a href=\"\nhttp://support.microsoft.com/default.aspx?scid=kb;en-us;305098\n\">\nhttp://support.microsoft.com/default.aspx?scid=kb;en-us;305098</a\n>\nWindows XP menn verða að setja upp service pack 1.\nwinXP upplýsingar hér: <a href=\"\nhttp://support.microsoft.com/default.aspx?scid=kb;en-us;303013\n\">\nhttp://support.microsoft.com/default.aspx?scid=kb;en-us;303013</a\n>\nÞið þurfið að breyta registry eins og lýst er á síðum Microsoft.",
+    "url": "https://www.hugi.is/windows/pistlar/271938/hardir-diskar-verda-ekki-staerri-en-130-gb-i-windows/",
+    "url_id": "271938",
+    "id": "1922841",
+    "replies": [
+        {
+            "user": "JoeyBoy",
+            "user_id": "30771",
+            "date": "2003-06-20 21:38:07",
+            "id": "1922842",
+            "reply_to_id": "1922841",
+            "text": "úff… þetta finnst mér lélegt!!\nSvonalöguðu eiga ekki Microsoft að klúðra!! ég hef ekki heyrt um þetta eða lent í þessu en get vel trúað þessu uppá þá!!\nLinux er málið!! Reyndar er Linux vont fyrir þá sem eru að leika sér en fyrir þá sem ekki leika sér sé ég fulla ástæðu til að skipta yfir!\nTakk fyrir izelord!!\nÞessar upplýsingar eru örugglega nothæfar fyrir marga"
+        },
+        {
+            "user": "izelord",
+            "user_id": "1143",
+            "date": "2003-06-20 22:10:25",
+            "id": "1922843",
+            "reply_to_id": "1922842",
+            "text": "Linux er reyndar frábært fyrir þá sem eru að leika sér, enda geta þeir gert hvað sem er á því :)\nMun meira limit á windows.\nNema þú sért að tala um leiki….\nÞó er hægt að spila allra vinsælustu leikina á linux, t.d. half-life(og öll mod), q3 engine leiki og marga aðra."
+        },
+        {
+            "user": "Xtrimer",
+            "user_id": "2298",
+            "date": "2003-06-20 23:13:49",
+            "id": "1922844",
+            "reply_to_id": "1922841",
+            "text": "er 111.79 gb rétt stærð fyrir 120gb disk?"
+        },
+        {
+            "user": "izelord",
+            "user_id": "1143",
+            "date": "2003-06-21 00:36:37",
+            "id": "1922845",
+            "reply_to_id": "1922844",
+            "text": "Já.\nTaktu 120 og og margfaldaðu með 0,9313. Þá færðu ca stærðina.\nÞað er munur á logical og primary stærðunum, þeas, hvernig þeir nýta harðadiskinn.\nSá munur er samt mjööög lítill og skeikar aðeins nokkrum MB.\nBtw, þessi tala að ofan var fengin með eftirfarandi formúlu:\n(1000*1000*1000) / (1024*1024*1024)\nFyrri talan er giga (1000 milljón), seinni talan er 2^10 uppá binary muninn. :)\nGott að muna þessa tölu þegar verið er að kaupa sér harða diska.\n0,9313 :"
+        },
+        {
+            "user": "Xtrimer",
+            "user_id": "2298",
+            "date": "2003-06-21 16:23:48",
+            "id": "1922846",
+            "reply_to_id": "1922845",
+            "text": "ok, thx\nAnnars er þetta snilld hvernig þú finnur öll þessi nauðsinlegu fix&trix:)!!!"
+        },
+        {
+            "user": "toti24",
+            "user_id": "27614",
+            "date": "2003-10-03 15:45:27",
+            "id": "1922847",
+            "reply_to_id": "1922845",
+            "text": "Gildir þetta um alla harða diska þá?\nSkiptir einhverju frá hvaða fyrirtæki þeir eru frá?"
+        },
+        {
+            "user": "Deathrock",
+            "user_id": "30603",
+            "date": "2003-06-21 17:04:12",
+            "id": "1922848",
+            "reply_to_id": "1922841",
+            "text": "Ég er einmitt að spá í að fá mér Harðan disk, þar sem plássið á þeim sem ég er með núna er að vera búið. Hægt er að fá 120 gígabæta á 14000 hjá Tölvulistanum. Í Expert er 120 gígabæta á svona 16000 og hjá BT svona 17000, hver er munurinn hjá þessum þrem aðilum. Nokkuð eru diskarnir hjá BT eitthvað betri heldur en hjá Tölvulistanum því að það er 3000 kr munur hjá Tölvulistanum og BT en 2000 kr munur hjá Tölvulistanum og Expert. Hvað af þessu myndið þið ráðleggja mér að taka."
+        },
+        {
+            "user": "zxc8ert",
+            "user_id": "34679",
+            "date": "2003-06-21 20:35:35",
+            "id": "1922849",
+            "reply_to_id": "1922848",
+            "text": "þetta eru allir sömu HDD-arnir það er bara verð álagningin hja þessum fyrir tækjum sem er misjöfn þannig að tagtu bara þann ódýrasta (samt er tölvulistin skita svika búlla) ég bendi þér á að téka á Http://www.vaktin.is :)"
+        },
+        {
+            "user": "Drengurinn",
+            "user_id": "50114",
+            "date": "2003-08-08 12:23:23",
+            "id": "1922850",
+            "reply_to_id": "1922849",
+            "text": "þetta er ekki nærri því allt það sama því að ef þú tekur t.d. Seagate og síðan Samsung þá er seagate margfalt betri og svo er ekki bara stærðin sem skiptir það er líka rpm og bufferinn"
+        },
+        {
+            "user": "add1",
+            "user_id": "1011",
+            "date": "2003-07-21 17:53:57",
+            "id": "1922851",
+            "reply_to_id": "1922848",
+            "text": "bt er reyndar að selja western digital 120gb diskinn með 8mb buffer á 14.999, og er búið að vera að gera það í nokkra daga núna :)"
+        },
+        {
+            "user": "vatr",
+            "user_id": "13826",
+            "date": "2003-07-22 10:09:41",
+            "id": "1922852",
+            "reply_to_id": "1922848",
+            "text": "Í Tölvuvirkni er hann á 13.274Kr staðgreitt.\nwww.tolvuvirkni.net"
+        },
+        {
+            "user": "jonfr",
+            "user_id": "5868",
+            "date": "2003-06-22 15:22:08",
+            "id": "1922853",
+            "reply_to_id": "1922841",
+            "text": "ja, kemur mér ekki á óvart að M$ skuli hafa klúðrað þessu, spunrning hvernig fer með 250Gb diskana núna…þeir segjast ráða við 2Tb en það er líklega bara rugl.."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2003-06-23 00:08:43",
+            "id": "1922854",
+            "reply_to_id": "1922841",
+            "text": "Hvað verður úr 200 GB disk?"
+        },
+        {
+            "user": "striker88",
+            "user_id": "33184",
+            "date": "2003-06-23 00:10:03",
+            "id": "1922855",
+            "reply_to_id": "1922841",
+            "text": "Hvað verður 200gb diskur sirka stór?"
+        },
+        {
+            "user": "striker88",
+            "user_id": "33184",
+            "date": "2003-06-23 02:32:19",
+            "id": "1922856",
+            "reply_to_id": "1922855",
+            "text": "200*0,9313= og reiknaðu nú…"
+        },
+        {
+            "user": "izelord",
+            "user_id": "1143",
+            "date": "2003-06-23 18:24:18",
+            "id": "1922857",
+            "reply_to_id": "1922855",
+            "text": "186,26"
+        },
+        {
+            "user": "durti",
+            "user_id": "17763",
+            "date": "2003-08-06 00:14:48",
+            "id": "1922858",
+            "reply_to_id": "1922841",
+            "text": "af hverju meiga tölvuverslanir auglýsa 111GB diska sem 120GB?\ní raunini eru þeir 120.000.000.000bæti en bara 111GB.. ruglingurinn verður vegna þess að það eru 1024 gildi í einu bæti þe 1111^2\nþetta þýðir að diskurinn er ekki 120GB heldur 111GB"
+        },
+        {
+            "user": "xGnarRx",
+            "user_id": "914",
+            "date": "2003-08-21 16:21:12",
+            "id": "1922859",
+            "reply_to_id": "1922841",
+            "text": "hvða ræður 48-bit lba við stóra diska? erum við að tala um 21.474.836.48Gb eða?"
+        },
+        {
+            "user": "Diamond",
+            "user_id": "5482",
+            "date": "2003-10-22 21:08:45",
+            "id": "1922860",
+            "reply_to_id": "1922841",
+            "text": "þegar þu talar um að þeir seu ekki stærri en 137 i windows.\neg er með einn 200gb og hann er ekki stærri en 131 gb og lika i dos þegar eg er að gera partition. myndu þessar leiðbeiningar sem þú komst með laga þetta ?"
+        },
+        {
+            "user": "nammi",
+            "user_id": "9134",
+            "date": "2005-05-21 16:05:26",
+            "id": "2177196",
+            "reply_to_id": "1922841",
+            "text": "Diskurinn minn er 200gb, en hann varð ekki stærri en 128gb. Ég fann einfalda lausn á þessu.\nMaður þarf að hafa windows xp sp2 til að geta gert þetta.\nhægrismella á my computer>manage>Storage>Disk management>þar stóða að einhver 58gb væru ónotuð, ég hægrismellti á það og smellti á make partition as active, þá kom eins og einhver setup wizard, og ég fékk nýja partition með plássinu sem vantaði…\n…frekar einfalt ;)"
+        },
+        {
+            "user": "krissi1111",
+            "user_id": "55174",
+            "date": "2005-10-16 23:16:54",
+            "id": "2585469",
+            "reply_to_id": "2177196",
+            "text": "þessi korkur er sko frá 2003"
+        },
+        {
+            "user": "nammi",
+            "user_id": "9134",
+            "date": "2005-10-27 10:34:34",
+            "id": "2624615",
+            "reply_to_id": "2585469",
+            "text": "já, en er ekki alltaf gott að bæta við nýjum ráðum fyrir þá sem enn kunna að lenda í vandræðum með þetta? ^^"
+        },
+        {
+            "user": "Squinchy",
+            "user_id": "48861",
+            "date": "2006-11-11 21:37:00",
+            "id": "4205267",
+            "reply_to_id": "2177196",
+            "text": "Vá ég var einmitt að berjast við þetta sama og þetta var ekkert að ganga með Servers pack ruglið þannig að ég gerði þetta bara eins og þú :D\nSnilldar hugmynd hjá þér :)"
+        },
+        {
+            "user": "Dalamard",
+            "user_id": "57202",
+            "date": "2007-01-25 14:23:15",
+            "id": "4518097",
+            "reply_to_id": "1922841",
+            "text": "Ég vissi ekki af þessu vandamáli… og ég hef sett up margar tölvur."
+        }
+    ]
+}

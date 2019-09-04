@@ -1,0 +1,109 @@
+{
+    "forum_title": "Apple",
+    "user": "JamonKilleR",
+    "user_id": "76994",
+    "date": "2009-05-03 23:43:54",
+    "title": "Er hægt að spila PC leiki í Mac??",
+    "text": "Ég er í smá vanda því gamla tölvan mín eyðilagðist og hún var PC tölva og ég á þá auðvitað bara PC leiki en nýja tölvan sem ég fékk er Mac svo ég var að pæla hvort það sé hægt að spila PC leiki í Mac tölvu?? :S",
+    "url": "https://www.hugi.is/apple/korkar/654898/er-haegt-ad-spila-pc-leiki-i-mac/",
+    "url_id": "654898",
+    "id": "6657357",
+    "replies": [
+        {
+            "user": "saedis88",
+            "user_id": "54628",
+            "date": "2009-05-04 00:16:08",
+            "id": "6657443",
+            "reply_to_id": "6657357",
+            "text": "örfáir diskar eru fyrir bæði stýrikerfin."
+        },
+        {
+            "user": "optimusprime",
+            "user_id": "360",
+            "date": "2009-05-04 20:08:51",
+            "id": "6659008",
+            "reply_to_id": "6657443",
+            "text": "nahh, þeir eru alveg nokkri"
+        },
+        {
+            "user": "bjagni",
+            "user_id": "12867",
+            "date": "2009-05-04 02:01:10",
+            "id": "6657607",
+            "reply_to_id": "6657357",
+            "text": "Já, ef þú notar BootCamp"
+        },
+        {
+            "user": "JamonKilleR",
+            "user_id": "76994",
+            "date": "2009-05-04 10:11:45",
+            "id": "6657799",
+            "reply_to_id": "6657607",
+            "text": "Ég er búin að setja upp bootcamp en það virðist ekki vera að gera neitt :S"
+        },
+        {
+            "user": "Zorix",
+            "user_id": "65589",
+            "date": "2009-05-04 07:57:36",
+            "id": "6657726",
+            "reply_to_id": "6657357",
+            "text": "Ef þú setur upp Windows, í annað hvort bootcamp eða simulation, þá geturu spilað alla leiki."
+        },
+        {
+            "user": "JamonKilleR",
+            "user_id": "76994",
+            "date": "2009-05-04 10:12:10",
+            "id": "6657801",
+            "reply_to_id": "6657726",
+            "text": "Þarf ég ekki að kaupa þetta Windows forrit eða?"
+        },
+        {
+            "user": "Loki",
+            "user_id": "32054",
+            "date": "2009-05-04 10:38:26",
+            "id": "6657828",
+            "reply_to_id": "6657801",
+            "text": "Windows er stýrikerfi, ekki forrit.\nTil að geta spilað leiki sem eru búnir til á windows stýrikerfið þarftu að keyra forritið á því stýrike (Mac OS X og Windows) á sama tíma ef þú notar BootCamp, en þá þarftu líka að vera búin að kaupa Windows og setja það upp."
+        },
+        {
+            "user": "Crook",
+            "user_id": "76086",
+            "date": "2009-05-04 22:54:33",
+            "id": "6659497",
+            "reply_to_id": "6657828",
+            "text": "Hvaddapæla maður, auðvitað er Windows forrit."
+        },
+        {
+            "user": "venom",
+            "user_id": "43669",
+            "date": "2009-05-04 15:34:59",
+            "id": "6658274",
+            "reply_to_id": "6657357",
+            "text": "það er til forrit sem keyrir windows forrit og leiki á linux og mac. Það heitir WINE og keyrir alveg slatta af leikjum, kíkir bara á síðuna þeirra og sérð hvort þínir leikir virka. Ég er að nota þetta forrit í linux og get spilað alla mína leiki, warcraft 3, diablo2 og call of duty 4.\nsíðan er til annað forrit sem heitir að mig minnir mac fusion en ég hef enga reynslu af því, sá bara call of duty 4 keyra mjög smooth á Imac með þessu forriti.\nBætt við 4. maí 2009 -  15:40\ngetur skoðað hvaða leiki wine keyrir á www.winehq.org"
+        },
+        {
+            "user": "JamonKilleR",
+            "user_id": "76994",
+            "date": "2009-05-04 16:25:12",
+            "id": "6658384",
+            "reply_to_id": "6658274",
+            "text": "Okai, takk en kosta þessi forrit ekki neitt eða er hægt að downloada þeim frítt?? :S"
+        },
+        {
+            "user": "venom",
+            "user_id": "43669",
+            "date": "2009-05-05 00:01:13",
+            "id": "6659730",
+            "reply_to_id": "6658384",
+            "text": "ég veit ekki með þetta fusion dót en Wine er open source þannig það er frítt.\nef þú ert tilbúinn að borga þá er til forrit sem heitir crossover og er bara “betri” útgáfa af Wine, ég hef enga reynslu af því forriti sammt.\nhttp://www.codeweavers.com/products/cxmac/"
+        },
+        {
+            "user": "JamonKilleR",
+            "user_id": "76994",
+            "date": "2009-05-05 14:48:02",
+            "id": "6660591",
+            "reply_to_id": "6659730",
+            "text": "Okai, takk ;D"
+        }
+    ]
+}

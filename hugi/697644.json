@@ -1,0 +1,53 @@
+{
+    "forum_title": "Netið",
+    "user": "intenz",
+    "user_id": "127",
+    "date": "2010-04-13 12:11:10",
+    "title": "Lokað net",
+    "text": "Hvernig færi maður að því að vafra frjálst þegar maður er á lokuðu neti?",
+    "url": "https://www.hugi.is/netid/korkar/697644/lokad-net/",
+    "url_id": "697644",
+    "id": "7132185",
+    "replies": [
+        {
+            "user": "heilsukex",
+            "user_id": "39769",
+            "date": "2010-04-13 14:11:14",
+            "id": "7132273",
+            "reply_to_id": "7132185",
+            "text": "Hvernig leysti öndin þrautina?\nLokað net á router? Ertu tengdur við netið? Hvað er að hindra þig frá því, hvað kemur upp í vafranum?"
+        },
+        {
+            "user": "intenz",
+            "user_id": "127",
+            "date": "2010-04-14 12:07:39",
+            "id": "7133177",
+            "reply_to_id": "7132273",
+            "text": "Vinnan mín lokar fyrir ákveðnar síður. Ég kemst inn á hugi.is og einhverjar fleiri síður en annars er allt lokað. Það sem kemur upp er:\nFortiGuard Web Filter\nÞú hefur reynt að komast inná síðu sem þú hefur ekki heimild til að skoða á netkerfi Húsasmiðjunnar.\nURL: mbl.is\nFlokkur: Óþekktur"
+        },
+        {
+            "user": "Swooper",
+            "user_id": "50432",
+            "date": "2010-04-20 13:52:20",
+            "id": "7139817",
+            "reply_to_id": "7133177",
+            "text": "…Seriously? Blokka þeir mbl.is? Sjitt, þetta var mun skárra þegar ég vann þar 2006… þá var allt galopið, gat meira að segja verið á pandora.com og hlustað á tónlist þaðan. :/\nAnnars, já, hidemyass eða svipaðar proxy síður ættu að virka. Gæti virkað líka að nota t.d. google myndaleitina eða joongel og reyna að finna síðuna sem þú vilt með leitarstreng - þá ertu í raun að tengjast síðunni í gegnum leitarsíðuna, sem er nákvæmlega það sem proxy síður gera.\nEf þessi filter er vel hannaður mun þetta ekki virka samt. Sakar ekki að prófa."
+        },
+        {
+            "user": "intenz",
+            "user_id": "127",
+            "date": "2010-05-06 20:20:25",
+            "id": "7155635",
+            "reply_to_id": "7139817",
+            "text": "Það er allt lokað nema heimabankinn, ja.is og husa.is"
+        },
+        {
+            "user": "Totoro",
+            "user_id": "77767",
+            "date": "2010-04-19 18:12:22",
+            "id": "7138912",
+            "reply_to_id": "7132185",
+            "text": "www.hidemyass.com er ein síða sem hægt er að notast við að minnsta kosti… :)"
+        }
+    ]
+}

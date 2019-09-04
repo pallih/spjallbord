@@ -1,0 +1,61 @@
+{
+    "forum_title": "Vefsíðugerð",
+    "user": "Skoleon",
+    "user_id": "15410",
+    "date": "2007-11-29 21:10:34",
+    "title": "CSS og mynda albúm",
+    "text": "Daginn,\nÉg er að basla við myndaalbúm.\nÉg er með kóða\nhér\nog hann virkar og allt en ég er að leita af.\nSama tegund af hover - þú ferð yfir myndina með músinni og hún stækkar en ég vill að hún stækki í öðrum ramma sem ég skilgreini sjálfur hver er.\neruð þið með kóða sem hægt er að leysa með þessu ?.",
+    "url": "https://www.hugi.is/vefsidugerd/korkar/558396/css-og-mynda-album/",
+    "url_id": "558396",
+    "id": "5435157",
+    "replies": [
+        {
+            "user": "Skoleon",
+            "user_id": "15410",
+            "date": "2007-11-29 22:04:42",
+            "id": "5435333",
+            "reply_to_id": "5435157",
+            "text": "Fann annan einfaldari sem gerir það saman, en ég fatta ekki hvernig skal setja hover myndina í sérstaka töflu sem ég staðsetji. þótt ég viti að það sé hægt að færa hover myndina.\nCSS:\n.gallerygeymsla\n{\nposition: relative;\n/*Add a height attribute and set to largest image's height to prevent overlaying*/\n}\n.thumalnogl img\n{\nborder: 1px solid white;\nmargin: 0 5px 5px 0;\n}\n.thumalnogl:hover\n{\nbackground-color: transparent;\n}\n.thumalnogl:hover img\n{\nborder: 1px #FF9900;\n}\n.thumalnogl span{ /*CSS for enlarged image*/\nposition: absolute;\nbackground-color: #FF9900;\npadding: 5px;\nleft: -1000px;\nborder: 1px yellow;\nvisibility: hidden;\ncolor: black;\ntext-decoration: none;\n}\n.thumalnogl span img{ /*CSS for enlarged image*/\nborder-width: 0;\npadding: 2px;\n}\n.thumalnogl:hover span{ /*CSS for enlarged image*/\nvisibility: visible;\ntop: 200px;\nleft: 430px; /*position where enlarged image should offset horizontally */\nz-index: 50;\n}\nHTML:\n<div class=“gallerygeymsla”>\n<a class=“thumalnogl” href=“#tumall”>\n<img src=“myndir/spoi.jpg” width=“50px” hspace=“10” vspace=“10” border=“0” />\n<span><img src=“myndir/spoi.jpg” />\n<br>Spói</span></a>\n</div>\n.thumalnogl:hover\n{\nbackground-color: transparent;\n}\n.thumalnogl:hover img\n{\nborder: 1px #FF9900;\n}\n.thumalnogl span{ /*CSS for enlarged image*/\nposition: absolute;\nbackground-color: #FF9900;\npadding: 5px;\nleft: -1000px;\nborder: 1px yellow;\nvisibility: hidden;\ncolor: black;\ntext-decoration: none;\n}\n.thumalnogl span img{ /*CSS for enlarged image*/\nborder-width: 0;\npadding: 2px;\n}\n.thumalnogl:hover span{ /*CSS for enlarged image*/\nvisibility: visible;\ntop: 200px;\nleft: 430px; /*position where enlarged image should offset horizontally */\nz-index: 50;\n}"
+        },
+        {
+            "user": "halldor89",
+            "user_id": "28057",
+            "date": "2007-11-29 22:52:07",
+            "id": "5435503",
+            "reply_to_id": "5435157",
+            "text": "Sko… Þú þarft að gera þetta með öðru en CSS. Það sem þetta dæmi gerir er að stækka myndina uppí 200x200px þegar þú hoverar yfir hana.\nÞað sem þú ert að leita að er javascript sem setur stóra mynd í eitthvað hólf. Svosem ekkert gríðarlegt mál.\nEn það þarf javascript í það."
+        },
+        {
+            "user": "Skoleon",
+            "user_id": "15410",
+            "date": "2007-11-29 23:10:09",
+            "id": "5435600",
+            "reply_to_id": "5435503",
+            "text": "dem, er ekki kominn með nógu mikla þekkingu í það.\nþá er best að lesa :D"
+        },
+        {
+            "user": "halldor89",
+            "user_id": "28057",
+            "date": "2007-11-29 23:54:32",
+            "id": "5435770",
+            "reply_to_id": "5435600",
+            "text": "Á ekki að þurfa að vera svo mikið mál. Held að þú getir bara gert eitthvað eins og…\n<img src=\"mynd.jpg\" onMouseOver=\"getElementById('mynd_sem_er_skipt_út').src=this.src\" />\nVeit samt ekki, en það gæti virkað…"
+        },
+        {
+            "user": "halldor89",
+            "user_id": "28057",
+            "date": "2007-11-30 00:16:59",
+            "id": "5435848",
+            "reply_to_id": "5435600",
+            "text": "Ég er latur, ég veit það… Svo ekki nigga yfir mig fyrir að nenna ekki að útfæra þetta flott fyrir þig.\nEn hérna gefur að líta mjög einfalda útfærslu á einhverju svipuðu og því sem þú ert að tala um. Það sem þú verður samt að hafa í huga er að hér ertu að nota html attributes til að stilla hæð og breidd myndar. Það er ekki góð aðferð ef þú hefur performance í huga.\nÉg mæli með að henda einhverju inn… T.d. full_image=“url_á_stóra_mynd” inní img taggið þar sem það á held ég ekki að ógilda það skv. xhtml1 staðlinum, ef ekki geturðu líka hent því inní alt attributeið.\nEn já…\n<html>\n\t<head>\n\t\t<title>Prufa</title>\n\t</head>\n\t<body>\n\t\t<div id=\"myndakassi\">\n\t\t\t<img id=\"mynd\" src=\"default.jpg\" height=\"240\" width=\"320\" alt=\"ble?\" />\n\t\t</div>\n\t\t<ul>\n\t\t\t<li><img src=\"mynd1.jpg\" height=\"120\" width=\"160\" alt=\"blelli...\" onMouseOver=\"document.getElementById('mynd').src = this.src\" /></li>\n\t\t\t<li><img src=\"mynd2.jpg\" height=\"120\" width=\"160\" alt=\"blelli...\" onMouseOver=\"document.getElementById('mynd').src = this.src\" /></li>\n\t\t</ul>\n\t</body>\n</html"
+        },
+        {
+            "user": "Skoleon",
+            "user_id": "15410",
+            "date": "2007-11-30 14:10:29",
+            "id": "5436797",
+            "reply_to_id": "5435848",
+            "text": "nice takk, ég er kominn ágætlega með þetta, notaði w3schools.\nÞetta er flott takk."
+        }
+    ]
+}

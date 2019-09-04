@@ -1,0 +1,165 @@
+{
+    "forum_title": "Danstónlist",
+    "user": "StebbZor",
+    "user_id": "22228",
+    "date": "2006-11-23 12:55:48",
+    "title": "tengja keyboard við fl studio",
+    "text": "Er með m-audio keystation 49e usb keyboard og er með það tengt við tölvuna og það er innstallað og allt í góðu en fl studio virðist ekki fatta það..hvernig get ég notað það í fl studio?",
+    "url": "https://www.hugi.is/danstonlist/korkar/468339/tengja-keyboard-vid-fl-studio/",
+    "url_id": "468339",
+    "id": "4256368",
+    "replies": [
+        {
+            "user": "Otcho",
+            "user_id": "62154",
+            "date": "2006-11-23 13:05:07",
+            "id": "4256397",
+            "reply_to_id": "4256368",
+            "text": "virkaði ekki heldur hjá mér :/\nvar í klukkutíma í búðinni með allt instellarað og ekkert virkaði\nég fékk allt endurgreitt =)\nmun sennilega aldrei fá mér midi aftu"
+        },
+        {
+            "user": "ElGorilla",
+            "user_id": "20068",
+            "date": "2006-11-23 16:35:32",
+            "id": "4257257",
+            "reply_to_id": "4256397",
+            "text": "Synd að þetta skuli ekki virka. En var þetta prófað á þinni tölvu í búðinni?"
+        },
+        {
+            "user": "Otcho",
+            "user_id": "62154",
+            "date": "2006-11-23 16:36:26",
+            "id": "4257263",
+            "reply_to_id": "4257257",
+            "text": "það virkaði í tölvuni hjá þeim en ekki hjá mér :/"
+        },
+        {
+            "user": "ElGorilla",
+            "user_id": "20068",
+            "date": "2006-11-23 16:38:59",
+            "id": "4257284",
+            "reply_to_id": "4257263",
+            "text": "Hvaða forrit varstu að reyna að nota? Og notaðiru sama forrit og þeir í búðinni ?"
+        },
+        {
+            "user": "Otcho",
+            "user_id": "62154",
+            "date": "2006-11-23 16:40:02",
+            "id": "4257292",
+            "reply_to_id": "4257284",
+            "text": "notaði fruit loops og prófaði “live” eða eithvað svoleiðis og guitarpro :/"
+        },
+        {
+            "user": "ElGorilla",
+            "user_id": "20068",
+            "date": "2006-11-23 16:59:35",
+            "id": "4257408",
+            "reply_to_id": "4257292",
+            "text": "Ég lennti einu sinni í því að ég keypti netkort sem vildi ekki virka. Fór með það aftur í búðina og þeir sögðu það virka en ég var ekki á sama máli þangað til að ég sá að það voru ekki réttir driverar sem höfði fylgt með netkortinu.\nGæti tölvan í búðinni ekki hafa verið þegar rétt stillt fyrir þennan controler?"
+        },
+        {
+            "user": "Otcho",
+            "user_id": "62154",
+            "date": "2006-11-23 17:00:59",
+            "id": "4257414",
+            "reply_to_id": "4257408",
+            "text": "veit ekki :/\nnenni ekki að spá í þessu"
+        },
+        {
+            "user": "StebbZor",
+            "user_id": "22228",
+            "date": "2006-11-23 16:40:47",
+            "id": "4257302",
+            "reply_to_id": "4256397",
+            "text": "þetta er us"
+        },
+        {
+            "user": "Otcho",
+            "user_id": "62154",
+            "date": "2006-11-23 16:41:53",
+            "id": "4257313",
+            "reply_to_id": "4257302",
+            "text": "samt midi"
+        },
+        {
+            "user": "ElGorilla",
+            "user_id": "20068",
+            "date": "2006-11-23 16:37:16",
+            "id": "4257268",
+            "reply_to_id": "4256368",
+            "text": "Búinn að prófa að velja midi dæmið í Midi settings?"
+        },
+        {
+            "user": "StebbZor",
+            "user_id": "22228",
+            "date": "2006-11-23 16:40:32",
+            "id": "4257298",
+            "reply_to_id": "4257268",
+            "text": "þetta er tengt með usb.."
+        },
+        {
+            "user": "ElGorilla",
+            "user_id": "20068",
+            "date": "2006-11-23 16:43:57",
+            "id": "4257319",
+            "reply_to_id": "4257298",
+            "text": "Já, þú átt að geta valið midi source í midi settings."
+        },
+        {
+            "user": "StebbZor",
+            "user_id": "22228",
+            "date": "2006-11-23 16:54:41",
+            "id": "4257375",
+            "reply_to_id": "4257319",
+            "text": "í input er svona eins og ég geti valið eitthvað en það eru engir stafir í því..og svo stendur generic controller fyrir neðan"
+        },
+        {
+            "user": "ElGorilla",
+            "user_id": "20068",
+            "date": "2006-11-23 16:57:05",
+            "id": "4257395",
+            "reply_to_id": "4257375",
+            "text": "Og ertu búinn að prófa það?"
+        },
+        {
+            "user": "StebbZor",
+            "user_id": "22228",
+            "date": "2006-11-23 18:18:49",
+            "id": "4257769",
+            "reply_to_id": "4257395",
+            "text": "jáb..gerist ekkert"
+        },
+        {
+            "user": "ElGorilla",
+            "user_id": "20068",
+            "date": "2006-11-23 19:14:48",
+            "id": "4258016",
+            "reply_to_id": "4257769",
+            "text": "Og þú ert með stillta á rétta midi rás?"
+        },
+        {
+            "user": "StebbZor",
+            "user_id": "22228",
+            "date": "2006-11-24 00:13:01",
+            "id": "4259641",
+            "reply_to_id": "4258016",
+            "text": "ekki hugmynd"
+        },
+        {
+            "user": "LowProfile",
+            "user_id": "5402",
+            "date": "2006-11-23 21:35:27",
+            "id": "4258799",
+            "reply_to_id": "4256368",
+            "text": "1. tékkaðu að driverarnir séu rétt installaðir\nhægri smelltu á my computer og veldu manage, farðu í Device Manager. Opnaðu fallimyndina undir “Sound, video and game controllers”, athugaðu hvort að driverinn sjáist þar og vertu viss um að það sé ekki svona gult upphrópunarmerki merkt við hann.\nEf þú sérð nafnið á drivernum þarna (væntanlega M-Audio Keystation… eitthvað) þá ætti driverinn að vera að virka\n2. stilla FL Studio rétt\nÍ Fruity, farðu í options->Midi Settings, þar ættirðu að sjá tvo glugga, einn merktann output og annan neðar, merktann input. Í input glugganum, athugaðu hvort þú finnur ekki M-Audio eitthvað þar, veldu það og veldu enable. Ef þú finnur þetta ekki í listanum er eitthvað að… (ath ég er að nota nýjustu útgáfu af FL, ef þú ert með eldri þá er þetta eitthvað öðruvísi).\nEf þú gast valið midi inputtið, prófaðu að spila einhverjar nótur á hljómborðið. Þú ættir þá að heyra hljóð eða amk. sjá Midi activity-ljósið blikka (við hliðina á master-volume slidernum)\nOg mundu: Þú verður að kveikja á midi borðinu ÁÐUR en þú keyrir forritið, annars þekkir forritið ekki hljómborðið (þetta ætti að vera nokkuð augljóst)\nef ekkert af þessu virkar, þá er hugsanlegt að það sé eitthvað bilað… :("
+        },
+        {
+            "user": "StebbZor",
+            "user_id": "22228",
+            "date": "2006-11-24 00:12:31",
+            "id": "4259638",
+            "reply_to_id": "4258799",
+            "text": "takk, prufa þetta. En borðið er tengt með usb breytir það engu?\nBætt við 24. nóvember 2006 -  00:47\næi þetta er eitthvað gallað.. kemur svona eins og ég geti valið eitthvað en samt enginn texti í því (þar ætti væntanlega að standa m-audio keystation) og þar fyrir neðan þar sem hægt er að velja eihverjar gerðir af keyboardum stendur (generic keyboard)"
+        }
+    ]
+}

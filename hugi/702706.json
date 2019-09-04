@@ -1,0 +1,37 @@
+{
+    "forum_title": "Kvikmyndagerð",
+    "user": "helgihermadur",
+    "user_id": "76946",
+    "date": "2010-06-06 16:34:13",
+    "title": "Gæði?",
+    "text": "Sælir, ég hef verið að leika mér að gera stuttmyndir undanfarið, en ég er með eina pælingu:  Hvernig í fjandanum getur maður haft stuttmyndir í góðum gæðum, en samt ekki í fáránlega stórum file?\nTil dæmis gerði ég 6 mínútna stuttmynd fyrir ekki löngu síðan, sem ég exportaði í ágætum gæðum.  Útkoman varð 2,13 GB file, á meðan ég á bíómyndir á tölvunni minni í mun betri gæðum og mun meiri lengd, en samt er file-inn ekki stærri en 1 GB.  Ég skil þetta ekki!  Getur einhver útskýrt þetta fyrir mér??\nP.S.Ég exportaði myndbandinu úr Final Cut Express á .mov formati, og það var tekið upp á JVC digital upptökuvél.\nAARRRG!\nBætt við 8. júní 2010 -  18:29\nÓkei, takk fyrir öll ráðin :D",
+    "url": "https://www.hugi.is/kvikmyndagerd/korkar/702706/gaedi/",
+    "url_id": "702706",
+    "id": "7178388",
+    "replies": [
+        {
+            "user": "Gunnarbg",
+            "user_id": "25844",
+            "date": "2010-06-06 21:50:42",
+            "id": "7178633",
+            "reply_to_id": "7178388",
+            "text": "Þetta er útaf þjöppunar málum…\nfællinn sem þú exportaðir úr final cut er lossless…semsagt í fullum mögulegum gæðum miðað við efnið sem þú varst að vinna með\nÞetta er kallaður MASTER, það er gott að eiga hann á einhverjum góðum stað\nen taktu svo MASTERINN og settu hann í gott þjöppunar forrit eins og til dæmis compressor og finndu þér einhverja góða þjöppunar stillingar og prófaðu þig áfram…"
+        },
+        {
+            "user": "Arkaik",
+            "user_id": "67986",
+            "date": "2010-06-06 22:02:37",
+            "id": "7178639",
+            "reply_to_id": "7178388",
+            "text": "Ekki nota bara “export”, notaðu “export as quicktime conversion” eða ehv svoleiðis, sem er þarna beint fyrir neðan export.\nFarðu í það og veldu stillingarnar sem cameran þín tekur upp í, þótt það sé möguleiki uppá HD með 200 fps þá átt þú ekki að velja það."
+        },
+        {
+            "user": "Pottlok",
+            "user_id": "13598",
+            "date": "2010-06-08 02:11:51",
+            "id": "7179450",
+            "reply_to_id": "7178388",
+            "text": "Hér er gamall tutorial sem ég gerði um þjöppun í FCP:\nhttp://users.hugi.is/pottlok/tutorials/fcp_export/index.html\nÞú getur prófað að leika þér eitthvað með stillingar þarna en þar er samt hægt að ná betri gæðum vs stærð með compressor og h.264 codecinu."
+        }
+    ]
+}

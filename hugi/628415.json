@@ -1,0 +1,29 @@
+{
+    "forum_title": "Apple",
+    "user": null,
+    "user_id": null,
+    "date": "2008-11-26 19:42:41",
+    "title": "Bootcamp",
+    "text": "Svo er mál með vexti að ég var eitt sinn með windows installað á tölvuna hjá mér.\nen er það ekki lengur, þannig að ég er með tvö disk partition á þessum eina disk sem ég er með í macbook pro 15\"\nnúna langar mig hinsvegar að installa windows aftur og svona, og ég bara get ekki notað bootcamp simple as that núna af því að startup diskurinn má ekki vera partitionaður áður.\nsjálfur á ég ekki leopard diskinn en mig vantar hann held ég, eða eitt leyfi ef einhver vill selja mér.\nhvernig á ég að fara að málum? hefur einhver lent í því sama og ég?",
+    "url": "https://www.hugi.is/apple/korkar/628415/bootcamp/",
+    "url_id": "628415",
+    "id": "6326075",
+    "replies": [
+        {
+            "user": "LightsOut",
+            "user_id": "35849",
+            "date": "2008-11-28 17:26:27",
+            "id": "6330882",
+            "reply_to_id": "6326075",
+            "text": "Þarft Leopard diskinn, þá getur þú endurpartionað diskinn. Getur líka notar SuperDuper eða CarbonCopyCloner til að afrita allt af disknum og svo formatta bara. Notar svo Migration Assistant til að fá gögnin aftur á tölvuna."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2008-11-28 23:27:14",
+            "id": "6331880",
+            "reply_to_id": "6330882",
+            "text": "þakka fyrir svarið!"
+        }
+    ]
+}

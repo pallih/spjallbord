@@ -1,0 +1,77 @@
+{
+    "forum_title": "Forritun",
+    "user": "DelphiPascal",
+    "user_id": "43312",
+    "date": "2003-09-11 23:37:26",
+    "title": "Modulus er mikið notaður..",
+    "text": "Sælir forritarar..\nNota MODulus deilingu mikið. Leyfin getur gefið okkur hinar ýmsustu upplýsingar. T.d. við að finna út vikudag. Vitum að dagur nr.1 er mánudagur, hvaða vikudag ber dagur nr. 211 upp á?\nJú 211 mod 7 gefur okkur 1 þar sem 7 * 30 = 210. 211-210=1 sem er leyfin.\nen hvað? Jú 1 mod 7 gefur okkur 1, ==> dagur nr. 211 er mánudagur.\nEf við hefðum fengið leyfina 2, þá er það þriðjudagur osfv. Ath! leyf 0 = sunnudagur!\nNú önnur tilfelli þar sem ég hef notað MOD er t.d. þegar þarf að reikna línunr og í buffer sem er kaflaður upp í blaðsíður.\nKanna kennitölur með kt-tékki.\nAllskonar innlestrarútínur með buffers, dæmi með buffer upp á 4096 bytes og er að lesa skrá. Skráin er X stór, hvar verður síðasti stafurinn í síðasta bufferlestri osfv.\nTil að reikna út miðjun á gluggum í skjá. Og mikið mikið meira.\nEins nota ég bitvise operatora mjög mikið. Sérstaklega þegar ég þarf hraðvirkar og minnissparandi rútínur.\nKveðja\nDelphi & Pascal maðurinn",
+    "url": "https://www.hugi.is/forritun/greinar/165543/modulus-er-mikid-notadur/",
+    "url_id": "165543",
+    "id": "1263553",
+    "replies": [
+        {
+            "user": "davido",
+            "user_id": "27961",
+            "date": "2003-09-13 15:25:38",
+            "id": "1263554",
+            "reply_to_id": "1263553",
+            "text": "DelphiPascal: “Til að reikna út miðjun á gluggum í skjá.”\nHvernig notarðu modulus í þetta?  Er það ekki bara “Left = (iBreiddSkjas - iBreiddGlugga) div 2” ?\nAnnars allt í lagi grein held ég (sagði mér svo sem ekkert nýtt, en hey ég veit líka allt ;) - allavega gott að sjá eitthvað líf hérna :D"
+        },
+        {
+            "user": "DelphiPascal",
+            "user_id": "43312",
+            "date": "2003-09-15 01:56:30",
+            "id": "1263555",
+            "reply_to_id": "1263554",
+            "text": "Sæll Davido\nVissulega þegar um er að ræða einn glugga ofan grunnglugga.\nNotaði grep í einu directory sem hafði að geyma gamlar pascal skrár sem ég skrifaði hérna fyrir 10-12árum. Þar fann ég m.a. í skjáúttaki MOD skipunina.\nVar smástund að fatta kóðan, enda 10ára gamall, en í DOS er skjárinn 80*25 stafir eða 2000 stafir, reyndar 2000 í viðbót sem geymir attribute's.  Ég er að lesa inn skjámyndir í buffer, þ.e. 4000 bytes, sem ég síðan er að skanna, leita að strengjum. Finn kannski streng í staki nr. x og þarf að miðja það í viðkomandi línu í bufferinum.\nÞraut fyrir ykkur:\nLesið inn skjámyndina í buffer, finnið strenginn ‘HALLÓ’ og miðjið í viðkomandi línu í buffer.\nkv. Delphiman!"
+        },
+        {
+            "user": "davido",
+            "user_id": "27961",
+            "date": "2003-09-15 09:27:26",
+            "id": "1263556",
+            "reply_to_id": "1263555",
+            "text": "ahh… DOS… the good old days :D\nÞá skil ég þetta líka mun betur :) - tók þetta bara sem eitthvað Windows-Delphi dæmi (eitthvað með nafnið kannski eða eitthvað ;)"
+        },
+        {
+            "user": "xeeder",
+            "user_id": "452",
+            "date": "2003-09-25 17:45:44",
+            "id": "1263557",
+            "reply_to_id": "1263553",
+            "text": "Og hér má sjá hvernig modulus er notaður til þess að reykna út 8bit binary streng, yfir í integer.\n#include\nusing std::cout;\nusing std::cin;\nusing std::endl;\n#include\nint main() {\nint tala1 = 0;\nint tala2 = 0;\nint tala3 = 0;\ncout > tala1;\nfor (int x = 1; x  (pow(10 , x)) );\ntala2 = tala2 / (pow(10,x)/10);\ntala3 += tala2 * pow(2,x);\n}\ncout"
+        },
+        {
+            "user": "xeeder",
+            "user_id": "452",
+            "date": "2003-09-25 17:47:24",
+            "id": "1263558",
+            "reply_to_id": "1263557",
+            "text": "Svo virðist vera að kóðinn hafi ekki komið rétt hér inn á huga, þökk sér einhverju helvítis scriping option sem ekki er hægt að slökkva á.\nRéttan kóða má finna á\nhttp://www.germy.net/bin-dec.txt"
+        },
+        {
+            "user": "skobbih",
+            "user_id": "45990",
+            "date": "2003-11-01 20:37:16",
+            "id": "1263559",
+            "reply_to_id": "1263553",
+            "text": "AHA UHUM ÉG ER SAMÁLA UM ÞETTA NEM ÞAÐ AÐ 87(\"77=55) 432SMM EKKI NÓGU MIKIÐ UMFJALLAÐ HÉR Á HUGA EN ÞETTA ER MJÖG GÓÐ HUGMYND HJÁ ÞÉR  SAMT EN 8$ = 877% AF AFIRNARFORITINU SVO ÞETTA ER ALGJÖR ÞVÆLA ÞVÍ 67/444 STENST EINGANVEGIN SAMAN VIÐ 157% AF AKÓSÝUNAR REGLUNNI. SJÁUMST SÍÐAR"
+        },
+        {
+            "user": "Iwmwar",
+            "user_id": "38594",
+            "date": "2004-01-06 14:07:55",
+            "id": "1263560",
+            "reply_to_id": "1263553",
+            "text": "Hvernig tékkar maður kennitölur með kt-tékki?"
+        },
+        {
+            "user": "DelphiPascal",
+            "user_id": "43312",
+            "date": "2004-02-22 21:34:16",
+            "id": "1263561",
+            "reply_to_id": "1263560",
+            "text": "For i := 1 TO 7 DO\nSumma := Summa + (ORD(Kennitolu_Arr[10 - i]) * i);\nSumma := Summa + (ORD(Kennitolu_Arr[2]) * 2);\nSumma := Summa + (ORD(Kennitolu_Arr[1]) * 3);\nIF ((Summa MOD 11) = 0) AND ((Kennitolu_Arr[10] IN ['0','8','9'])) THEN\nLeyfileg_Kennitala := TRUE\nELSE\nLeyfileg_Kennitala := FALSE;"
+        }
+    ]
+}

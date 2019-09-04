@@ -1,0 +1,45 @@
+{
+    "forum_title": "Apple",
+    "user": "czix",
+    "user_id": "54666",
+    "date": "2009-02-19 18:28:34",
+    "title": "viftu vesen",
+    "text": "mig vantar smá hjálp.\nviftan mín er á fullu…..\ntölvan er ekkert að hitna neitt og viftan er samt á fullu.\nég átti í vandræðum með að slökkva á tölvunni, svo þegar ég kveikti á henni þá fór viftan á fullt.\nþess ber að geta að ég var með smcfancontrol og stillt í ca 2200rpm en viftan er á svona 5000rpm…\neinhverjar hugmyndir ?",
+    "url": "https://www.hugi.is/apple/korkar/643575/viftu-vesen/",
+    "url_id": "643575",
+    "id": "6522320",
+    "replies": [
+        {
+            "user": "saedis88",
+            "user_id": "54628",
+            "date": "2009-02-19 18:46:26",
+            "id": "6522362",
+            "reply_to_id": "6522320",
+            "text": "er þeta bara ekki stillt á highest?"
+        },
+        {
+            "user": "czix",
+            "user_id": "54666",
+            "date": "2009-02-19 20:00:27",
+            "id": "6522531",
+            "reply_to_id": "6522362",
+            "text": "neii, hérna þetta forrit var síðan farið að sýna 0° á 0rpm þannig að ég henti því bara út :S\nspurning með að setja það aftur upp."
+        },
+        {
+            "user": "Zorix",
+            "user_id": "65589",
+            "date": "2009-02-19 22:54:43",
+            "id": "6523017",
+            "reply_to_id": "6522320",
+            "text": "Búin/n að prófa að restarta ?\nAnnars myndi ég installa SMCfancontrole aftur og sjá hvort þú getir ekki sett á default styllinguna þar aftur."
+        },
+        {
+            "user": "Addni",
+            "user_id": "8004",
+            "date": "2009-02-25 17:12:32",
+            "id": "6534075",
+            "reply_to_id": "6522320",
+            "text": "Þú veist samt að SMC stillir bara lágmarks snúningshraðann. þeas. ef þú ert með stillt á 4000rpm þá fer snúningshraðinn aldrei undir 4000rpm, en hækkar þó ef að tölvan þarf meiri kælingu.\nGetur nokkuð verið að þú ert með tölvuna þannig að þú ert að blocka inntakið með einhvejru (t.d. ef þú ert uppi í rúmi og sængin fer fyrir loftinntakið)"
+        }
+    ]
+}

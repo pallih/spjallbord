@@ -1,0 +1,85 @@
+{
+    "forum_title": "Forritun",
+    "user": "Swooper",
+    "user_id": "50432",
+    "date": "2008-11-25 13:54:12",
+    "title": "Öflugur (C++/C#) editor fyrir Linux?",
+    "text": "Ég er að velta fyrir mér möguleikanum á því að hreinsa lappann minn og setja upp Kubuntu 8.10 í staðinn fyrir Windows Vista. Helsti gallinn sem ég sé við það er að ég er í tölvunarfræðinámi og þarf helst að hafa Visual Studio 2008. Mér skilst að það apparat og annað .NET dót virki illa eða ekki í gegnum Wine. Getur einhver bent mér á öflugan editor fyrir Debian based linux stýrikerfi, eitthvað með helstu fídusum sem maður vill hafa, code completion, innbyggðum compiler og því öllu, fyrir amk. C++ og C#, helst líka Java og fleiri mál?",
+    "url": "https://www.hugi.is/forritun/korkar/628154/oflugur-cc-editor-fyrir-linux/",
+    "url_id": "628154",
+    "id": "6322390",
+    "replies": [
+        {
+            "user": "ElGorilla",
+            "user_id": "20068",
+            "date": "2008-11-25 14:01:08",
+            "id": "6322407",
+            "reply_to_id": "6322390",
+            "text": "http://en.wikipedia.org/wiki/Eclipse_(software)"
+        },
+        {
+            "user": "Polarina",
+            "user_id": "64228",
+            "date": "2008-11-25 21:08:03",
+            "id": "6323555",
+            "reply_to_id": "6322390",
+            "text": "Visual Studio í Wine?\nBætt við 25. nóvember 2008 -  21:16\nHver annars þarfnast code-completion? Ef þú ætlar að gerast “álvöru” forritaru þarftu að læra að sleppa öllu code-completion.\nÉg nota bara gedit með colour-syntax-highlighting og nokkurn slatta af “man” síðun."
+        },
+        {
+            "user": "Swooper",
+            "user_id": "50432",
+            "date": "2008-11-25 22:03:56",
+            "id": "6323736",
+            "reply_to_id": "6323555",
+            "text": "Ég treysti nú alls ekkert á það, en það getur flýtt fyrir manni að þurfa t.d. ekki að fletta upp stafsetningunni á einhverju falli.\nHef annars heyrt, eins og ég tók fram í topic-póstinum, að Visual Studio og önnur .NET forrit virki mjög illa eða alls ekki gegnum Wine."
+        },
+        {
+            "user": "VeryMuch",
+            "user_id": "10074",
+            "date": "2008-11-25 21:29:40",
+            "id": "6323624",
+            "reply_to_id": "6322390",
+            "text": "Þú getur líka alltaf gripið í oldschool editora eins og emacs eða vim.\nMér er ekki kunnugt um að þeir séu með auto completion en þeir lita lykilorð fyrir þig og inndraga línur og allt það.\nSvo ferðu bara í console til að compæla.\nVisualStudio er hinsvegar mjög þægilegt, með debugger og allt það. Getur verið dýrmætt að nota stepthrough fídusa í debuggernum, þar sem þú munt án efa eyða slatta tíma í að kemba kóða eftir villum. ;)\nBætt við 25. nóvember 2008 -  21:35\nGNU debuggerinn heitir “gdb”."
+        },
+        {
+            "user": "Swooper",
+            "user_id": "50432",
+            "date": "2008-11-25 22:06:45",
+            "id": "6323749",
+            "reply_to_id": "6323624",
+            "text": "Ég er einmitt alls ekkert fyrir svona oldschool editora, notaði held ég ed fyrst þegar ég var að læra á Java í menntaskóla, fannst hann óþolandi og hafði lítið gaman af að kóða fyrr en ég kynntist BlueJ í HÍ.\nEn já, Debuggerinn var eitt af því sem ég átti við með “osfrv”. Þægilegt apparat."
+        },
+        {
+            "user": "VeryMuch",
+            "user_id": "10074",
+            "date": "2008-11-26 12:20:48",
+            "id": "6324702",
+            "reply_to_id": "6323749",
+            "text": "Ég myndi þrátt fyrir þetta, þar sem þú ætlar þér að vinna við þetta, gera þér far um að læra á þessa editora þeir leyna mikið á sér. En þar sem þú hefur líkast til ekki tíma til að læra inn á þá núna þá mæli ég með því að þú notir bara VS."
+        },
+        {
+            "user": "halldor89",
+            "user_id": "28057",
+            "date": "2008-11-26 15:11:06",
+            "id": "6325075",
+            "reply_to_id": "6323749",
+            "text": "Ed er náttúrulega bara… vitleysa? A.m.k. tímaskekkja…\nEn já, Monodevelop ef þú vilt IDE fyrir .NET annars vi/emacs (ég er meira fyrir vi)."
+        },
+        {
+            "user": "orrit",
+            "user_id": "26330",
+            "date": "2009-01-19 00:28:16",
+            "id": "6458455",
+            "reply_to_id": "6323749",
+            "text": "Ég held að eclipse sé mögulega það sem þú ert að leita að.\nAnnars gætiru líka tékkað kdevelop.\nef VS hagar sér illa í wine ætttiru kannski að prófa vmware.\nemacs er samt rosalega öflugt tól ef maður nennir að læra á hann."
+        },
+        {
+            "user": "halldor89",
+            "user_id": "28057",
+            "date": "2008-11-26 03:53:30",
+            "id": "6324320",
+            "reply_to_id": "6322390",
+            "text": "Monodevelop er fínn editor fyrir .NET (mono) mál á linux.\nhttp://monodevelop.com/Main_Page"
+        }
+    ]
+}

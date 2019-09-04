@@ -1,0 +1,133 @@
+{
+    "forum_title": "Vefsíðugerð",
+    "user": "ingig",
+    "user_id": "1188",
+    "date": "2003-03-04 11:46:39",
+    "title": "Staðlaður teljari líkt og SV",
+    "text": "Ég hef verið að velta fyrir mér hvort ekki væri sniðugt að gera staðlaðann teljara sem gæti orðið viðurkendur í netheiminum svipað og samræmdu vefmælingarnar(SV) hjá teljari.is.\nHugsunin væri bara sú að maður mundi sjálfur hýsa hann, og því kostar hann ekkert, hann væri bara einfaldur, Gestir, Heimsóknir, Fléttingar, eins og SV er.\nÞannig mundum við koma okkur saman um staðal hvernig teljarinn virkar, og kóði fyrir asp, aspx, php, jsp, osfrv. væri til á einhverjum stað ásamt nauðsynlegum sql scriptum fyrir mismunandi gagnagrunna. Þannig gæti sá sem vildi vera með “viðurkenndan” teljara sótt kóðan og sett hann upp hjá sér og hann mundi vita hvaða heimsóknafjölda hann væri með gagnvart öðrum síðum.\nÞetta er svona smá hugmynd sem ég er með í kollinum og held að væri sniðugt að útfæra, ég væri til að skella saman kóða fyrir asp, aspx og jsp ef áhugi er fyrir hendi og þið séuð til í að ræða hugmyndir um hvernig kóðinn ætti að vera, hvaða reglum hann ætti að fara eftir og annað slíkt.\nEin hugmynd um uppsetningu\n<b>Gagnagrunstafla</b>\n<i>std_Counter</ i>\n==============\nGuests (int)\nVisits (int)\nHits (int)\nCreated (datetime)\nSauðakóði\n==========\nint @guest = 0\nint @visit = 0\nif (not cookie(“HefurHeimsóttÍÞessariViku”)) then\n@guest = 1\nend if\nif (not session(“HefurMerkturSemHeimsókn”)) then\n@visit = 1\nend if\nUPDATE std_Counter SET Guest=Guest+@guest, Visit=Visit+@visit, Guest=Guest+1 WHERE Create=CurrentDate()\nEitthvað í þessum dúr.\nSegið hvað ykkur finnst\nkv.\ningig",
+    "url": "https://www.hugi.is/vefsidugerd/greinar/127162/stadladur-teljari-likt-og-sv/",
+    "url_id": "127162",
+    "id": "948459",
+    "replies": [
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2003-03-04 19:25:36",
+            "id": "948460",
+            "reply_to_id": "948459",
+            "text": "Þetta er mjög góð hugmynd… ég mydi vilja svona en málið er að ég kann ekkert að búa til teljara ;("
+        },
+        {
+            "user": "HKarl",
+            "user_id": "6735",
+            "date": "2003-03-04 20:03:05",
+            "id": "948461",
+            "reply_to_id": "948459",
+            "text": "Ekki galið…\nþó er alltaf spurning um hversu viðurkennt þetta yrði ef maður hýsir sja´lfur, þá hefur maður alltaf þann kostinn að fikta í kóðanum, like\npsudocode (sauðakóði:)\nUPDATE std_Counter SET Guest=Guest+@guest, Visit=Visit+@visit, Guest=Guest+2 WHERE Create=CurrentDate()\nen svo datt mér nú líka í hug að ef þetta yrði að veruleika þá væri hægt að vera með teljaran þannig að, t.d. vikulega mundi hann senda inn uppls. á miðlægan grunn sem mundi útlista mest sóttu vefjunum þannig að til væru upplýsingar geymdar á einum stað"
+        },
+        {
+            "user": "ingig",
+            "user_id": "1188",
+            "date": "2003-03-04 22:30:09",
+            "id": "948462",
+            "reply_to_id": "948461",
+            "text": "Já það er auðvitað hætta á því að einhver fikti í kóðanum. Það væri kannski hægt að hafa teljarann sem .class í java, .dll í asp og í aspx. Þannig gætu þeir ekki svindlað sem ekki kunna að decompila hlutina. Er til einhver svona hlutur í php?\nÞá væri hægt að hafa ströng viðurlög ef það kemst upp um svindl, t.d. tekin útaf listanum og færð ekki koma aftur inná hann. En ég held einmitt að þetta yrði aldrei fullkomlega viðurkennt, bara svona semi-viðurkennt.\nHeld að það væri mjög sniðugt að geyma niðurstöðurnar eftir vikuna á einhverjum einum miðlægum stað þar sem hægt er að fara yfir allar tölurnar. Það ætti ekki að vera erfitt.\n(átti víst að vera Hits=Hits+1 í stað Guest=Guest+1 hjá mér)"
+        },
+        {
+            "user": "ahs",
+            "user_id": "18317",
+            "date": "2003-03-05 03:00:26",
+            "id": "948463",
+            "reply_to_id": "948462",
+            "text": "gæti notað COM í PHP… annars þá er líka hægt að útbúa sitt eigið extension en þá þyrfti að compile-a php með því extension, og varla er hægt að biðja alla admina á íslandi að gera það… :D"
+        },
+        {
+            "user": "ahs",
+            "user_id": "18317",
+            "date": "2003-03-05 03:02:47",
+            "id": "948464",
+            "reply_to_id": "948463",
+            "text": "ég vil samt ekki vera neikvæði gaurinn eða neitt… en ég held þetta mundi ekki ganga upp. það þarf að vera 3. óháði aðilinn sem sér um þetta..\nen hér er pæling… ætli mbl.is sé með puttana í teljari.is ? smá mútur í gangi? hver fer eiginlega á mbl.is, ef maður spáir í því?\n..ekki taka of alvarlega, hef slæma reynslu af að fólk fatti ekki kaldhæðnina mína :/\nhttp://www.hugi.is/linux/greinar.php?grein_id=67474\n#991561"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2003-03-05 17:11:24",
+            "id": "948465",
+            "reply_to_id": "948464",
+            "text": "mbl.is er mjög vinsæl síða og ég efast um að þar sé e-ð fiff í gangi.\nÞað er örugglega ekkert mál að fá enhvern aðila til að stjórna þessu, það væri tildæmis hægt að hafa td &lt;img src=\"\nhttp://enhver.is/certified.xxx?userid=123\n\"&gt; og þessi mynd væri einfaldasti teljari ever, sem telur bara hitta eða e-ð, þetta væri hýst hjá sama aðila sem tekur við skýrslunum og ber þær einfaldlega saman, ef það stemmir ekki (+/-xx) þá er bara lokað á þessa mynd og viðkomandi getur ekki sýnt frammá að hann sé með cert teljara.\nEf enhver sputnik hýsingaraðili fær tilbúinn kóða og er beðin um að hýsa svona þá er viðkomandi örugglega til í það, auglýsir sjálfan sig í leiðinni, en allur kóðinn verður að sjálfsögðu að vera open source svo engin geti eignað sér hann"
+        },
+        {
+            "user": "ingig",
+            "user_id": "1188",
+            "date": "2003-03-07 09:55:59",
+            "id": "948466",
+            "reply_to_id": "948459",
+            "text": "Það er ekki bara Modernus (teljari.is) sem er óháður vefsetrunum sem þeir mæla heldur er það einnig Verslunarráð Íslands sem hefur eftirlit með talningunni, líkt og þeir hafa gert með blöð og tímarit í fleirri ár.\nSamræmd vefmæling er góð og gild, en það sem mikilvægast við svona mælingar eru ekki bara hits, heldur verður að rekja umferðina um vefinn, tímamælingar, endurkomur og fleirra slíkt.\nMun áhugaverðara væri að fá tölur um fjölda einstakra heimsókna, það er ekki flettingar heldur fjölda einstaklinga sem heimsækja vefina.\nÞá er einnig mikilvægt að nota vefmælingar til að kanna hugbúnað þeirra sem nota vefinn, hvað er mest notað, litadýpt, skjástærðir, flash acrobat og fleirra.\nEn það verður líka að hafa þetta einfalt og létt.  Teljari.is er t.d. lélegur kóði og alltof þungur miðað við hvað hann ætti að vera.\nMeð dínamískum vefsetrum væri hægt að létta kóðann frá fyrstu heimsókn þar sem væri náð í frekari upplýsingar og svo væri auðvitað hægt að enurtaka það með vissu millibili til að kanna hvað notandinn sé búinn að uppfæra hugbúnaðinn sinn.\nÞá væri líka áhugavert að rekja ferðir milli vefsetra, en það er ekki ethical að mínu mati.\nSvo þori ég varla að nefna verðið t.d. fyrir fyrirtækin.  Ef einhver liggur á vefplássi, mysql og php og er tilbúinn að bjóða uppá teljarann frítt til góðs fyrir almenning og fyrirtæki þá skrifaði ég nú ágætis teljara fyrir nokkrum árum sem væri kannski spurning með að uppfæra, eitt af fyrstu PHP verkefnunum mínum.\nKveðja,\nHreinn Beck"
+        },
+        {
+            "user": "ingig",
+            "user_id": "1188",
+            "date": "2003-03-07 18:51:46",
+            "id": "948467",
+            "reply_to_id": "948466",
+            "text": "Eins og þú ert að lýsa þessu þá er það töluvert langt frá því sem ég var að tala um. extremetracking.com er að gera þetta frítt ásamt fullt að öðrum vefsetrum sjálfsagt með mikið þessum fítusum sem þú ert að lýsa(ekki alla þó).\nEinnig held ég að hafa miðlægan server kosti óhemju peninga, ekki bara að það koma eftilvill yfir 1.000 hitt á hverri mínútu þá verður gagnagrunnurinn gríðarlega stór og backup er dýrt. Þannig að ég efast um að nokkuð fyrirtæki eða aðili sé til í að gera svona hlut án verðs en það finnst mér vera tilgangurinn með þessum litla teljara, ókeypis.\nÞað sem átti að vera helsta pointið í greininni hjá mér var að aðeins væri birtir gestir, heimsóknir og flettingar. Lítið, nett og ein sem maður þarf til að bera sig við aðra vefi. Meira en það yrði hver að útfæra fyrir sig.\nÉg er samt alls ekki á móti svona teljara og tel að hann mundi gera virkilega góða hluti, hann er bara soldið mikið Hulk miðað við það sem ég var að ímynda mér."
+        },
+        {
+            "user": "an13810",
+            "user_id": "1716",
+            "date": "2003-03-09 17:10:53",
+            "id": "948468",
+            "reply_to_id": "948459",
+            "text": "Mér sjálfum finst mjög asnalegt að vera með teljara á síðum, þarsem þeir gera ekkert annað en að hægja á síðunni, skapa meira load á serverinn og ef síðan er mikið skoðuð á getur database fyrir þannig orðið gríðalega stórt og þá hægist enn meira á.\nÖrugglega flest allir web serverar skrifa út einhverskonar logg sem seigir þér allt sem þú þarft að vita og miklu meira. Og ef maður vill fá status yfir þá sem koma á síðuna þá á maður að nota þá. Gerir þér eitthvað script sem keyrir með vissi millibili ( realtime á svona er bara load fyrir ekkert )\nEn vandamálið við að nota logga og sama vandamál væri ef þú værir með þetta í database hjá þér, er að það er ekkert HÆGT að “viðurkenna” þetta vega þess að það er ekki þriðji aðili (sem hefur engra hagsmuna að gæta í þessu) sem sér um að halda utan um þetta."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2003-03-24 06:21:16",
+            "id": "948469",
+            "reply_to_id": "948468",
+            "text": "An13810 … meina load og ekki load … Fólk finnur ekki fyrir þannig ef þú gerir yfirhöfuð léttar síður, þá meina ég létt útlit og bara létta vinnslu þó það sé nú ekki alltaf hægt … En mér finnst nú einum of þegar verið er að logga upplausnina hjá fólki og hvaða flash það er með og þaðan af óþarfa.\nÞað sem mér myndi finnst fínt að logga er:\n1) Flettingar\n2) Seinast heimsótt (fer eftir ip)\n3) Heimsóknir miðað við ip\n4) Browser (óþarfi en gagnlegt)\n5) OS (óþarfi en getur verið gagnlegt)\nÞetta ætti ekkert að mynda neitt svakalegt load og hvað þá ef maður hannar létta síðu.\nEn já þetta með að hafa miðlægan gagnagrunn og þaðan af þá held ég að það falli bara um sjálfan sig eins og hefur verið sagt hérna að ofan eins og t.d. með vélbúnað og teningu og annað."
+        },
+        {
+            "user": "kcg",
+            "user_id": "10962",
+            "date": "2003-03-12 18:40:13",
+            "id": "948470",
+            "reply_to_id": "948459",
+            "text": "Líst mjög vel á þetta, þ.e. að gera staðlaðan teljara, ég er búinn að vera að vandræðast að búa til teljara fyrir sjálfan mig (og alla þá vefi sem ég hýsi og bý til).\nÞað væri auðvitað snilld að fólk sem er með eigin servera geti notað teljaran og einhver gagnagrunnur fylgdist með og birti tölur um samræmda vefmælingu.\nHafðu samband ef við eigum að gera þetta af einhverri alvöru.  Ef ég þekki þig rétt ertu langt kominn með einn svona.\nkveðja,\nKristján Carlsson"
+        },
+        {
+            "user": "ArnarG",
+            "user_id": "29583",
+            "date": "2003-03-13 12:33:38",
+            "id": "948471",
+            "reply_to_id": "948459",
+            "text": "Já það væri ansi cool. þá væri líka flott að hafa einhverja síðu þar sem maður setir inn hostinn á síðunni og þeir sem eru með sinn eiginn host á síðuni geta skoðað stöður hjá öðrum síðum og borið það saman við sínar."
+        },
+        {
+            "user": "Slay",
+            "user_id": "258",
+            "date": "2003-03-14 15:46:02",
+            "id": "948472",
+            "reply_to_id": "948471",
+            "text": "Bara svona fyrir þá sem hafa ekkert séð af SV nema vikulega birtingarlistana: Það er miklu, miklu, miklu meira info bakvið það heldur en bara gesta, flettinga og heimsókna tölur."
+        },
+        {
+            "user": "usli",
+            "user_id": "17291",
+            "date": "2003-03-22 22:20:53",
+            "id": "948473",
+            "reply_to_id": "948459",
+            "text": "ágæt hugmynd en hvernig ferðu að láta hann virka meeð öllu hinu draslinu þú þarft þá að búa til sér frame fyrir hann"
+        },
+        {
+            "user": "pitsuetir",
+            "user_id": "35859",
+            "date": "2003-03-26 22:15:18",
+            "id": "948474",
+            "reply_to_id": "948459",
+            "text": "hey jó\ningig flingi pjé\nhvað heitir mamma þín? kasnki solla ?\nef svo er segðu henni þá að hringja í mig\nbæ"
+        }
+    ]
+}

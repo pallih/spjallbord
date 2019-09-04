@@ -1,0 +1,149 @@
+{
+    "forum_title": "Battlefield",
+    "user": "armrdwlf",
+    "user_id": "29825",
+    "date": "2003-07-23 20:46:15",
+    "title": "Smá heilræði varðandi \"Kosninga-systemið\".",
+    "text": "Oft kemur upp á að meirihluti spilara nennir ekki að spila eitthvað ákveðið map, eða þá að einhver fáráðlingur er að gera spilurum á public lífið leitt, og enginn er með rcon til að sjá til þess að sá spilari fá makleg málagjöld. Það er ein af þeim ástæðum sem DICE menn höfðu fyrir því að hafa (og nú í 1.4, betur um bæta) voting system í leiknum. Gallinn er nú bara sá að aðeins brotabrot af spilurum kann á, og nýtir sér þetta voting system, hversu svo sem einfalt er að nota það. Hér á eftir ætla ég aðeins að útlista hvernig á að vote-kicka player og hvernig á að vote-a nýtt map.\nByrjað er á því að fara í console (litli takkinn með kúlunni og punktunum fyrir ofan “tab” og fyrir neðan “Escape”).\nSíðan ýtir maður á “Backspace” til þess að losna við að fá litlu “kúluna” á undan næsta staf sem maður skrifar.\nNæst slær maður inn annað hvort þessara tveggja:\n-Sé ætlunin að vote-kicka player skrifar maður einfaldlega “kick #” þar sem “#” er númerið á spilaranum sem kicka á (ath. að í patch 1.4 stendur númer spilarans fyrir aftan nafnið hans á stigatöflunni).\nDæmi: Kick 3 (Ef ég vil kicka spilara númer 3).\n-Sé ætlunin að velja nýtt map þarf einfaldlega að skrifa “votemap #” þar sem “#” er númerið á mappinu sem velja á. Númerin á kortunum fara eftir því númer hvað í röðinni kortin eru í rotation á simnet, þar sem Aberdeen er fyrst o.s.frv.\nDæmi: Votemap 2 (Ef þú vilt velja map númer 2, sem nú er Battle of Britain).\nATH. Engin þörf er fyrir að skrifa “game.votemap #” eða “game.kickplayer #”, það er einfaldlega til þess að flækja málin.\nVona ég innilega að einhverjir ykkar hafi lært eitthvað nýtt og að þessi grein verði til þess að spilun á public verði allt í allt ánægjulegri.\n[I'm]Jolinn",
+    "url": "https://www.hugi.is/bf/greinar/156839/sma-heilraedi-vardandi-kosninga-systemid/",
+    "url_id": "156839",
+    "id": "1192528",
+    "replies": [
+        {
+            "user": "dirabbdei123",
+            "user_id": "32336",
+            "date": "2003-07-23 21:25:19",
+            "id": "1192529",
+            "reply_to_id": "1192528",
+            "text": "ollei!"
+        },
+        {
+            "user": "Rikki",
+            "user_id": "5508",
+            "date": "2003-07-23 21:29:27",
+            "id": "1192530",
+            "reply_to_id": "1192528",
+            "text": "Ef eitthvað spilara-vandamál kemur upp.. sem er of mikið fyrir vote, þá er #bf1942.is yfirleitt með nokkra rcona vakandi (þó ekki allir oppar)\nRikki og DvS^ (ég) á irc og ég veit að það eru fleiri, man þá ekki í augnablikinu."
+        },
+        {
+            "user": "Rikki",
+            "user_id": "5508",
+            "date": "2003-07-24 07:47:54",
+            "id": "1192531",
+            "reply_to_id": "1192530",
+            "text": "Ahoy! :)"
+        },
+        {
+            "user": "DcBoZo",
+            "user_id": "29813",
+            "date": "2003-07-23 22:04:42",
+            "id": "1192532",
+            "reply_to_id": "1192528",
+            "text": "Þú gleymdir að nefna að maður þarf að skrifa listmaps til að fá lista með númerunum á möppunum."
+        },
+        {
+            "user": "armrdwlf",
+            "user_id": "29825",
+            "date": "2003-07-23 22:46:36",
+            "id": "1192533",
+            "reply_to_id": "1192532",
+            "text": "…og svo þarf maður að skrifa listmaps til að fá lista með númerum á möppunum."
+        },
+        {
+            "user": "Friendly",
+            "user_id": "6406",
+            "date": "2003-07-23 22:34:17",
+            "id": "1192534",
+            "reply_to_id": "1192528",
+            "text": "Glæsilegt, takk fyrir !"
+        },
+        {
+            "user": "hakonice",
+            "user_id": "6341",
+            "date": "2003-07-23 22:46:44",
+            "id": "1192535",
+            "reply_to_id": "1192534",
+            "text": "já ég er t.d. rcon\nirc: hakonice\nBF: [EASY-COL]Frosti"
+        },
+        {
+            "user": "kvikindi",
+            "user_id": "9068",
+            "date": "2003-07-24 09:03:19",
+            "id": "1192536",
+            "reply_to_id": "1192535",
+            "text": "..ha? Ertu ekki Hákon?\nhehe"
+        },
+        {
+            "user": "odestra",
+            "user_id": "25527",
+            "date": "2003-07-28 12:58:44",
+            "id": "1192537",
+            "reply_to_id": "1192536",
+            "text": "lol evil!"
+        },
+        {
+            "user": "hrimo",
+            "user_id": "2143",
+            "date": "2003-07-23 23:27:48",
+            "id": "1192538",
+            "reply_to_id": "1192528",
+            "text": "frábært"
+        },
+        {
+            "user": "egud",
+            "user_id": "28740",
+            "date": "2003-07-23 23:39:34",
+            "id": "1192539",
+            "reply_to_id": "1192528",
+            "text": "Svo getur maður notað up arrow í console til að fá aftur upp það sem maður skrifaði síðast."
+        },
+        {
+            "user": "KittyB",
+            "user_id": "39751",
+            "date": "2003-07-24 14:52:22",
+            "id": "1192540",
+            "reply_to_id": "1192528",
+            "text": "Frábært að fá þetta loksins á hreint hvernig á að standa að því að kjósa.  Það hefur verið frekar svekkjandi að vilja gjarnan skipta um mapp eða kicka einhverjum en geta það ekki vegna þess að maður kann ekki að kjósa þegar tækifærið kemur.\nJollinn hafðu bestu þakkir fyrir.\nKitty B"
+        },
+        {
+            "user": "Laruz",
+            "user_id": "39768",
+            "date": "2003-07-24 18:58:59",
+            "id": "1192541",
+            "reply_to_id": "1192528",
+            "text": "takk"
+        },
+        {
+            "user": "hakonice",
+            "user_id": "6341",
+            "date": "2003-07-24 21:35:15",
+            "id": "1192542",
+            "reply_to_id": "1192541",
+            "text": "nei… það er allt á misskilningi byggt… ég heitir rcon"
+        },
+        {
+            "user": "Kreoli",
+            "user_id": "22696",
+            "date": "2003-07-25 03:23:25",
+            "id": "1192543",
+            "reply_to_id": "1192528",
+            "text": "Loksins fær maður að vita þetta. :D\nTakk"
+        },
+        {
+            "user": "ZueS",
+            "user_id": "31220",
+            "date": "2003-07-25 08:29:39",
+            "id": "1192544",
+            "reply_to_id": "1192528",
+            "text": "Góð grein en þú gleymdir að bæta við að það þyrfti að skrifa listmaps til að fá númmerin á möpunum (ég vissi þetta nú samt áður en greinin þín kom)\nKveðja [The Lost]Col.“Silent” Kille"
+        },
+        {
+            "user": "armrdwlf",
+            "user_id": "29825",
+            "date": "2003-07-25 09:02:55",
+            "id": "1192545",
+            "reply_to_id": "1192544",
+            "text": "Neinei… kíktu bara á reply nr. 5 ;)"
+        }
+    ]
+}

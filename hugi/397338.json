@@ -1,0 +1,133 @@
+{
+    "forum_title": "Netið",
+    "user": "bjorgvin16",
+    "user_id": "63559",
+    "date": "2006-04-15 23:14:33",
+    "title": "Sérviska Yahoo",
+    "text": "Góðan dag.\nÉg var að fá fréttabréf rétt í þessu, sem meðal annars fjallar um leiðir til að komast á Yahoo leitarvélina. Yahoo er sérlega dintótt leitarvél og þar komast færri að en vilja sem kunnugt er.\nYahoo er ein af fáum leitarvélum sem enn nota handfærð registur og eru allir vefir skoðaðir af fólki áður en þeim er bætt á vélina. Leit.is gerir þetta ennþá líka, en álagið á þeim er jú aðeins brotabrot af Yahoo.\nVenjulega leiðin hefur verið að senda Yahoo slóð með “Site Submit” og bíða svo í 6 - 12 vikur eftir niðurstöðu. Nú hafa þeir létt sér vinnuna með því að krefja vefstjóra um slóðalista, “urllist” sem köngulóin þeirra síðan les. Slóðalistinn er einfaldlega textaskjal sem inniheldur slóð hverrar einustu síðu á viðkomandi vef.\nBesta leiðin til að gera þetta er að gera slóðalista í Wordpad, skýra hann /urllist.txt og hlaða honum upp á rótina á viðkomandi vefsvæði.\nSem dæmi myndi slóðalisti fyrir Hugverk Vef hafa slóðina www.hugverk.com/urllist.txt og sitja á rót www.hugverk.com Þetta ætti að tryggja hraðari uppfærslu á Yahoo, en vel að merkja er engu að treysta á þeim bæ.\nGuð gefi ykkur góðar stundir og falleg páskaegg\nkveðja\nBjörgvin\nwww.hugverk.com",
+    "url": "https://www.hugi.is/netid/greinar/397338/serviska-yahoo/",
+    "url_id": "397338",
+    "id": "3348226",
+    "replies": [
+        {
+            "user": "TekinMedHervaldi",
+            "user_id": "62772",
+            "date": "2006-04-16 10:43:21",
+            "id": "3352214",
+            "reply_to_id": "3348226",
+            "text": "Guð gaf mér engin páskaegg X'("
+        },
+        {
+            "user": "ojb",
+            "user_id": "1502",
+            "date": "2006-04-16 14:45:12",
+            "id": "3352952",
+            "reply_to_id": "3352214",
+            "text": "hvað kemur Guð páskaeggjum við?"
+        },
+        {
+            "user": "TekinMedHervaldi",
+            "user_id": "62772",
+            "date": "2006-04-16 14:47:25",
+            "id": "3352963",
+            "reply_to_id": "3352952",
+            "text": "Guð gefi ykkur góðar stundir og falleg páskaegg"
+        },
+        {
+            "user": "ojb",
+            "user_id": "1502",
+            "date": "2006-04-16 14:48:41",
+            "id": "3352967",
+            "reply_to_id": "3352963",
+            "text": "eru ekki páskaegg heiðin siður?"
+        },
+        {
+            "user": "TekinMedHervaldi",
+            "user_id": "62772",
+            "date": "2006-04-16 14:49:53",
+            "id": "3352974",
+            "reply_to_id": "3352967",
+            "text": "ókei vá, ekki taka öllu svona bókstaflega, hann sagði þetta…ábyggilega sem flotta kveðju, þegiðu nú."
+        },
+        {
+            "user": "ojb",
+            "user_id": "1502",
+            "date": "2006-04-16 14:52:29",
+            "id": "3352984",
+            "reply_to_id": "3352974",
+            "text": ":-p"
+        },
+        {
+            "user": "Amon",
+            "user_id": "20748",
+            "date": "2006-04-19 15:45:52",
+            "id": "3366100",
+            "reply_to_id": "3352967",
+            "text": "páskaegg eiga nú víst að tákna upprisu jesú, en það tel ég nú mjög líklegt að kristnin hafi ekki fundið upp á páskaeggjunum… ég meina það var komið stuff um fæðingu eggs í trú forn-egypta, en páskaeggin eru þó víst kristin, þeas þetta er ekki siður sem við framkvæmum af heiðnum ástæðum (þó það sé nú ekki mikið tengt kristnu trúnni nútildags heldur)"
+        },
+        {
+            "user": "eZtro",
+            "user_id": "7617",
+            "date": "2006-04-16 14:08:58",
+            "id": "3352815",
+            "reply_to_id": "3348226",
+            "text": "Þetta blessaða kerfi á ekki eftir að gera gagnvirkum vefsíðum mikinn greiða.  Jafnvel síður með\nmod_rewrite\n(kerfishluti til að endurskrifa slóðir úr\nsnilldar.net/blah.php?flokkur=utilif&sida=3\ní\nsnilldar.net/blah/utilif/3\n) eiga eftir að eiga í nokkru basli með þetta fyrirkomulag.  Ég held að þessi leið muni heldur ekki draga stórlega úr líkunum á auglýsingabúum þar sem þau sýna bara aðra síðu fyrir allar IP tölur sem koma frá Yahoo! stofnuninni."
+        },
+        {
+            "user": "bjorgvin16",
+            "user_id": "63559",
+            "date": "2006-04-16 14:45:09",
+            "id": "3352951",
+            "reply_to_id": "3348226",
+            "text": "Það er rétt, gagnvirkar vefsíður sem framleiddar eru “on the fly” á server eiga ekki möguleika á að vera gripnar upp af leitarvélum.  Vefstjórnarkerfi sem sífellt búa til nýjar, en varanlegar síður utan um hverja einingu, grein eða frétt, eiga mun meiri möguleika. Hinsvegar skapast vandamál varðandi leitarorð á slíkum síðum og reynslan sýnir að MSN og Google skrá eitthvert brot þeirra en sú leit verður oftast mjög þokukennd."
+        },
+        {
+            "user": "hannson",
+            "user_id": "4089",
+            "date": "2006-04-18 14:43:10",
+            "id": "3361520",
+            "reply_to_id": "3352951",
+            "text": "ha? nenniru að segja þetta aftur :P"
+        },
+        {
+            "user": "phi",
+            "user_id": "21587",
+            "date": "2006-04-16 15:31:03",
+            "id": "3353138",
+            "reply_to_id": "3348226",
+            "text": "Kjánalegt, ég skil ekki hvernig þeir ætla að reyna halda í við Google með þessu móti."
+        },
+        {
+            "user": "eZtro",
+            "user_id": "7617",
+            "date": "2006-04-16 15:41:30",
+            "id": "3353172",
+            "reply_to_id": "3353138",
+            "text": "Áætlun þeirra virðist vera að búa til nákvæmari niðurstöður, en miðað við stækkun veraldarvefsins þurfa þeir líklega óviðráðanlegt magn starfskrafta til að halda þessu uppi.  Og samt er mjög auðvelt að blekkja Yahoo! ef maður vill það."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2006-04-16 17:48:18",
+            "id": "3353814",
+            "reply_to_id": "3348226",
+            "text": "Google 4 Life"
+        },
+        {
+            "user": "Rusty",
+            "user_id": "39411",
+            "date": "2006-04-17 03:14:11",
+            "id": "3356137",
+            "reply_to_id": "3348226",
+            "text": "Minnir að google hafi svipað kerfi, nema eitthvað automatískt sem þú setur upp á serverinn."
+        },
+        {
+            "user": "Contemplative",
+            "user_id": "62939",
+            "date": "2006-06-10 07:37:10",
+            "id": "3597838",
+            "reply_to_id": "3348226",
+            "text": "Jamm, ef maður vill fá einhverjar almennilegar síður þá bara googlar maður því bara upp."
+        }
+    ]
+}

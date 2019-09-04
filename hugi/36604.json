@@ -1,0 +1,29 @@
+{
+    "forum_title": "Linux",
+    "user": "JReykdal",
+    "user_id": "77",
+    "date": "2001-08-02 17:28:14",
+    "title": "Port Forwarding með IPtables",
+    "text": "Nokkuð hefur borið á þvi að fólk hefur verið að hafa samband við mig á irc (sem ég þoli ekki btw.) og óska eftir upplýsingum um Port Forwarding. P.F. nýtist m.a. til að hleypa áfram innkomandi tengingum inn á innranetið, t.d. til að vera með ftp þjóna á windows vélinni (hversu greindarlegt það kann að vera) :)<br>\nEn nóg um húmorinn, skellum okkur aðeins í skyndinámskeið um Port Forwarding.<br>\nBest er að lesa sér til um þetta í <a href=\"\nhttp://netfilter.samba.org/unreliable-guides/\n“>handbókunum</a> um Iptables og þá sérstaklega <a href=”\nhttp://netfilter.samba.org/unreliable-guides/NAT-HOWTO/NAT-HOWTO.linuxdoc-6.html#ss6.2\n\">þennan kafla</a> í Nat howto.<br>\nEn fyrir þá sem eru ósjálfbjarga ætti eftirfarandi lína að duga.<br>\niptables -t nat -A PREROUTING -i ppp0 -p tcp –destination-port XX -j DNAT –to XXX.XXX.XXX.XXX\n<p>\nÞetta kallast Destionation Network Address Translation (DNAT), sem í stuttu máli breytir ákvörðunarstöðum pakkana eftir því sem reglurnar segja.<p>\n<hr>\nLínan brotin niður og útskýrð\n<br>\niptables -t nat\n<br>\nþarna er iptables sagt að nota NAT<br>\n-A PREROUTING\n<br>\nÞarna er verið að bæta við keðjuna PREROUTING.<br>\n-i ppp0\nReglan tekur bara til pakka sem koma inn (-i þýðir það, incoming) um ppp0.<br>\n-p tcp\nReglan tekur til TCP pakka eingöngu<br>\n–destination-port XX\n<br>\nOg bara til pakka sem beint er að porti XX (fer eftir því hvaða þjónustu á að beina að).<br>\n-j DNAT\nHérna kemur svo skipunin um að það eigi að beita DNAT á pakkana.<br>\n–to XXX.XXX.XXX.XXX\n<br>\nog að lokum á hvaða ip adressu á að senda pakkana.<br>\nOg að lokum minni ég á að þessi lína þarf að koma fremst í vegginn, á undan öllum lokunarreglum til að virka.\n<hr>\nEins og áður tek ég fram að þetta er allt á ykkar eigin ábyrgð og vinsamlegast lesið allt sem þið getið fundið um þetta áður en að ykkur dettur í hug að bögga mig. :)",
+    "url": "https://www.hugi.is/linux/pistlar/36604/port-forwarding-med-iptables/",
+    "url_id": "36604",
+    "id": "247418",
+    "replies": [
+        {
+            "user": "tran",
+            "user_id": "59",
+            "date": "2004-08-23 09:55:59",
+            "id": "247419",
+            "reply_to_id": "247418",
+            "text": "ef þið ætlið að nota ftp forwarding þa mæli eg með ftpbounce, virkar mikið betur en iptables forwarding\nhttp://www.et.put.poznan.pl/~pbaranow/linux/ftpbounce/ftpbounce_v0.262.ta"
+        },
+        {
+            "user": "teddi",
+            "user_id": "1266",
+            "date": "2004-08-23 09:55:59",
+            "id": "247420",
+            "reply_to_id": "247419",
+            "text": "og afhverju ætti það að virka betur? :)"
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "forum_title": "Forritun",
+    "user": "Massi",
+    "user_id": "6581",
+    "date": "2003-09-20 22:13:03",
+    "title": "Best Practices 2 - Hraðari lykkjur",
+    "text": "Bestum lykkjurnar!\nForrit eyða mestum vinnslutíma sínum inní lykkjum.  Því er mikilvægt að besta (optimize) þær, mikill sparnaður vinnst á því og hér eru nokkur einföld ráð til að hraða á vinnslu þeirra.\n1.\tForðist að nota kall á föll sem útgangspunkt lykkja.\nLykkjur sem nota frumbreytu eins og integer sem útgangspunkt lykkju vinnur að meðaltali 100-150% hraðar en sama lykkja sem notar útkomu úr falli sem útgangspunkt (í java).\nHér eru 2 dæmi sem sýna hvað ég á við:\nDæmi 1:  Léleg forritun – Hér er útkoma falls notuð sem útgangspunktur.\nfor(int i=0; i<str.length(); i++) {\n//  Kóði sem ekki breytir lengd strengsins str.\n}\nDæmi 2:  Betri forritun – Hér er integer breyta notuð sem útgangspunktur.\nint lengd = str.length();\nfor(int i=0; i<lengd; i++) {\n// Kóði sem ekki breytir lengd str.\n}\nÍ dæmi nr. 2 er svo hægt að ná fram enn betri hagræðingu í java þar sem Java sýndarvélin (JVM) er tjúnnuð til að bera hraðar saman heiltölur frá -1 til +5, er hægt að ná fram enn meiri hraða með því að snúa lykkjunni við og telja niður í núll. Gott væri að fá komment á þetta frá einhverjum c++ gúrú eða úr öðrum forritunarmálum.\nFor-lykkjan í dæmi 2 liti þá svona út:\nFor( int i=lengd-1; i>=0; i–)\nÍ hverri umferð er breytan i borin saman við 0 sem er hraðari samanburður en að bera i saman við breytuna lengd.\n2.\tNotið staðbundnar breytur (local) í stað tilviksbreyta (instance) í lykkjum.\nÞað að nota breytur sem eru búnar til inní fallinu á undan lykkjunni kosta minni vinnslu en að nota breytu sem tilheyrir einhverjum öðrum hlut (Object eða klasa), því þá sleppur sýndarvélin við það að leita að gildi út fyrir sitt scope (íslenska, einhver?).  Tilviksbreytur tilheyra hlutum og því þarf sýndarvélin (í Java) að fletta upp gildinu, fara út fyrir scope fallsins, sem getur verið dýrt.\nDæmi:  Ef klasi hefur integer tilviksbreytu sem þarf að setja sem sem index á ákveðið gildi í lista, er gott ráð að skilgreina staðbundna (local) breytu áður en lykkjan er byrjuð.  Staðbundna breytan er svo notuð í lykkjunni, samanburður er gerður á fylkinu þar til rétt gildi er fundið, þá er hætt í lykkjunni og staðbundna breytan inniheldur indexinn sem leytað var að.  Síðan er tilviksbreytunni gefið gildi staðbundnu breytunnar og verkinu er lokið á mun skemmri tíma.\nÍ sumum tilfellum, þegar listinn sem skoða á er partur af hlutnum (og því tilviksbreyta), er hraðvirkara að búa til staðbundið afrit af listanum og nota það í lykkjunni til að finna indexinn.\n3.\tNotið break til að enda lykkju ef hægt er.\nEf markmiðum lykkjunnar er náð, notið þá break skipun til að hætta í lykkjunni frekar en að láta hana klára keyrslu fram að útgangspunkti, sú keyrsla er ekki til neins ef markmiðum lykkjunnar er þegar náð, bara tímaeyðsla.\n————————————–\nAthugið líka að allt annað sem við gerum til að bæta og hraða á forritunum okkar, margfaldast þegar komið er í lykkjur, og ferillinn er sennilega ekki línulegur!\nVið verðum alltaf að taka smá tíma extra til að besta lykkjur því það borgar sig ansi hratt upp.\nMeira síðar.\nmassi",
+    "url": "https://www.hugi.is/forritun/greinar/167265/best-practices-2-hradari-lykkjur/",
+    "url_id": "167265",
+    "id": "1277229",
+    "replies": [
+        {
+            "user": "bbf3",
+            "user_id": "8179",
+            "date": "2003-09-21 13:33:17",
+            "id": "1277230",
+            "reply_to_id": "1277229",
+            "text": "góðir punktar, svo er líka hægt að fara út í dýpri Big O pælingar ef maður vill :P\nEn það eru margir sem líta á break sem staðgengil djöfulsins og sjá bara að break == goto. Ég er reyndar ósammála þessu og finnst break vera góð og gild skipun."
+        },
+        {
+            "user": "Sushanta",
+            "user_id": "43933",
+            "date": "2003-09-25 12:28:18",
+            "id": "1277231",
+            "reply_to_id": "1277230",
+            "text": "Já brake er fín skipun, þeir sem hafa forritað í smalamálum vita að forritin brjóta lykkjur frekar en að stökkva eina ferð til baka."
+        },
+        {
+            "user": "ojb",
+            "user_id": "1502",
+            "date": "2003-09-26 12:44:39",
+            "id": "1277232",
+            "reply_to_id": "1277231",
+            "text": "goto er ekki evil ef hún er notuð eins og break í nested loops."
+        },
+        {
+            "user": "abh",
+            "user_id": "539",
+            "date": "2003-09-28 02:04:22",
+            "id": "1277233",
+            "reply_to_id": "1277232",
+            "text": "Hvað er svo sem while og slíkar lúppur annað en goto ?"
+        },
+        {
+            "user": "ojb",
+            "user_id": "1502",
+            "date": "2003-10-01 20:58:01",
+            "id": "1277234",
+            "reply_to_id": "1277233",
+            "text": "á vélarmálsleveli er þetta náttúrlega sami hluturinn en vandamálið með goto er að lélegir forrirar fóru að stunda það að nota hana til að hoppa fram og aftur í kóða svo það var nánast ómögulegt að debuga hann. Goto hefur ekki inndráttarreglur svo að það er miklu erfiðara að debuga goto loopur en while.\nnú notar maður while eða for fyrir lykkjur, break innan þeirra og functions fyrir aðra notkun.\nGallinn við while/for break er hins vegar að þegar þú ert kominn með nested while/for loopur  vanntar skipun til að hoppa úr innstu lykkjunni alveg út, þá getur verið skýrara að nota goto í stað if setninga í lok hverrar lykkju."
+        },
+        {
+            "user": "skobbih",
+            "user_id": "45990",
+            "date": "2003-11-01 20:52:59",
+            "id": "1277235",
+            "reply_to_id": "1277231",
+            "text": "ÞETTA ERU LITLAR STÖKMÝS Á HJÓLI SEM STÖKVA ÚR ÞVÍ EINA FERÐ TIL BAKA"
+        },
+        {
+            "user": "Pikasin",
+            "user_id": "42439",
+            "date": "2003-09-21 16:42:13",
+            "id": "1277236",
+            "reply_to_id": "1277229",
+            "text": "scope = gildissvið"
+        },
+        {
+            "user": "Massi",
+            "user_id": "6581",
+            "date": "2003-09-21 17:38:55",
+            "id": "1277237",
+            "reply_to_id": "1277236",
+            "text": "Góður, hef reyndar ekki heyrt þetta áður, en gott orð :)\nmassi"
+        },
+        {
+            "user": "Pittur",
+            "user_id": "12581",
+            "date": "2003-10-24 15:47:37",
+            "id": "1277238",
+            "reply_to_id": "1277237",
+            "text": "Gildissvið var notað fyrir scope í háskólanum."
+        },
+        {
+            "user": "Pittur",
+            "user_id": "12581",
+            "date": "2003-10-24 15:49:19",
+            "id": "1277239",
+            "reply_to_id": "1277238",
+            "text": "Er notað meina ég :p en annars góð grein hjá þér!"
+        },
+        {
+            "user": "skobbih",
+            "user_id": "45990",
+            "date": "2003-11-01 20:50:56",
+            "id": "1277240",
+            "reply_to_id": "1277229",
+            "text": "BEST Practices 2 ER EKKERT MEÐ HRAÐARI LYKJUM ÞVÍ EF ÞÚ DEILIR´ATOMÍSÍNUARTÖLUNNI MEÐ 4623 ÞÁ FÆR MAÐUR 12(462%) AF 290“” OG  56 ** Í STAÐINN FYRIR 49219)/ 81308***298=89$%)_ö2990Æ SEM ÞEIR SEGJA AÐ MAÐUR EIGI AÐ FÁ"
+        },
+        {
+            "user": "xeeder",
+            "user_id": "452",
+            "date": "2003-11-26 10:02:52",
+            "id": "1277241",
+            "reply_to_id": "1277229",
+            "text": "Endurskrifaðu þessa grein á ensku.\nHún er ekki marktæk á íslensku, þar sem ég hef ekki hugmynd um hvað þessi þýddu orð merkja."
+        },
+        {
+            "user": "Massi",
+            "user_id": "6581",
+            "date": "2003-11-27 10:12:14",
+            "id": "1277242",
+            "reply_to_id": "1277241",
+            "text": "Vel marktæk á íslensku, þú þarft bara að fletta orðunum upp, það væri góð æfing fyrir þig að þýða þeta yfir á ensku :)\nBreytingarnar (eða bilunin) á Huga hefur samt eytt út meirihluta greinarinnar, ég vona að stjórnendur geti endurheimt, annars ðá sennilega enginn eftir að fletta þessu upp hér eftir….\nmassi"
+        },
+        {
+            "user": "Iwmwar",
+            "user_id": "38594",
+            "date": "2004-01-06 10:41:03",
+            "id": "1277243",
+            "reply_to_id": "1277229",
+            "text": "Það vantar endan á greininni þinni (þ.e. dæmin). Sennilega huga vandamál?\nEn ég held að þú hafir verið að tala um að nota:\nint l = length ( A );\nfor ( int n = 0; n < l; n++ )\n{\n…\n}\nÍ stað\nfor ( int n = 0; n < length ( A ); n++ )\n{\n…\n}\nÉg var einhverntíman að spá í þessum hlutum í C/C++ og þá hvort þýðandinn mundi optimiza seinna dæmið ( sem er nátturulega minni kóðun ) sjálfur. Sendi einhverntímann inn grein á C group á yahoo. Þar voru nokkuð mismunandi skoðanir á því hvort þýðandinn mundi optimiza þetta ef length ( A ) mundi alltaf skila sömu tölunni í lykkjunni. En ég held reyndar að það sé ekki nokkur vegur fyrir þýðandann að vita hvað fallið skylar og þá hvenar hann ætti að optimiza þetta tilfelli.\nSjálfur nota ég alltaf fyrrir aðferðina til að vera viss."
+        },
+        {
+            "user": "Massi",
+            "user_id": "6581",
+            "date": "2004-01-06 13:22:05",
+            "id": "1277244",
+            "reply_to_id": "1277243",
+            "text": "Hugi að klikka, þetta er búið að vera í lagi í nokkra mánuði :o\nÞað er rétt hjá þér þótt ég færi skrefinu lengra og skrifa þessa lykkju þannig:\nfor(int n=(length(A)-1); n>=0; n–) {…}\nÞetta geri ég allavega í java því samanburður í java er bestaður út frá samanburði við 0 til 5 og því verður lykkjan örlítið hraðari og getur munað miklu í stóru mengi.\nKveðja\nmassi"
+        },
+        {
+            "user": "HinrikSig",
+            "user_id": "14816",
+            "date": "2004-01-21 14:01:27",
+            "id": "1277245",
+            "reply_to_id": "1277244",
+            "text": "Gætiru skrifað greinina upp aftur? Eða allavega það sem vantar."
+        }
+    ]
+}

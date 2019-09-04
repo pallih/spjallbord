@@ -1,0 +1,29 @@
+{
+    "forum_title": "Vefsíðugerð",
+    "user": "grutur",
+    "user_id": "55286",
+    "date": "2008-06-23 18:46:26",
+    "title": "Comment html",
+    "text": "Búinn að prófa google finn ekkert sem hentar mér\nVantar Html kjóða sem ég get notað til að fá comment fyrir neðan blogg og annað sem ég er að skrifa inn á heimasíðuna mína ef eitthver sem getur bennt mér á kjóða á netinu endilega setjið þá url fyrir neðan. Eða skrifið kjóða hér :P\nMeð þökk Grétar :P",
+    "url": "https://www.hugi.is/vefsidugerd/korkar/598715/comment-html/",
+    "url_id": "598715",
+    "id": "5944425",
+    "replies": [
+        {
+            "user": "intenz",
+            "user_id": "127",
+            "date": "2008-06-23 22:43:04",
+            "id": "5945129",
+            "reply_to_id": "5944425",
+            "text": "http://www.haloscan.com"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2008-07-01 14:38:28",
+            "id": "5961787",
+            "reply_to_id": "5944425",
+            "text": "Að adda comment á síður þarfnast server-side kóða sem serverinn aðhafnast. Þessi kóði er PHP kóði og fæst mikið af blog eða comment kóðum frítt á netinu. Mjög gott er fyrir byrjendur að nota\nWordPress\neða þú getur leitað að svona á netinu eða einhver hér á huga getur gefið þér sýn í þetta :)"
+        }
+    ]
+}

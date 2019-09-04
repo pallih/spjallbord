@@ -1,0 +1,69 @@
+{
+    "forum_title": "Linux",
+    "user": "Spa",
+    "user_id": "5037",
+    "date": "2008-07-04 16:33:38",
+    "title": "3G dongull Símans á Fedora 9",
+    "text": "Sælir!\nEftirfarandi eru leiðbeiningar um það hvernig skal setja upp Huawai E220 USB dongle á Fedora 9, sem er einmitt 3G dongle Símans.\nÞar sem að þetta er bara usb serial módem þá er þetta písofkeik.\nÞessi grein er byggð á config skrám sem var að finna í\nhttp://oozie.fm.interia.pl/pro/huawei-e220/\nÉg veit ekki hvort þetta virkar með dongla frá öðrum símafyrirtækjum, endilega prófið ef þið eigið þannig.\nAnywho, here's the jist:\nÍ fyrsta lagi, þá þarftu að vera viss um að þú sért með kjarna nýrri en 2.6.20.  Uppfært Fedora er með hann. Þú getur fengið þetta til að virka með því að framkvæma einhverja udev galdra, sjá link að ofan.\nÍ öðru lagi, þá þarftu að hafa pakkann ‘wvdial’ uppsettann.\nÉg er að nota ‘wvdial-1.60-5.fc9.x86_64’ með góðum árangri.\nEf þig vantar pakkann, þá reddar ‘yum install wvdial’ því.\nÞú þarft að búa til og eiga við fjórar skrár.\nÍ  /etc/ppp/peers/huawei-e220 eftirfarandi.\nÞetta er PPP scriptan fyrir módemið.\n/dev/ttyUSB0\n3600000\nnoipdefault\ndefaultroute\npersist\nnoauth\nnodetach\nusepeerdns\nconnect \"/usr/sbin/chat -vf /etc/chatscripts/huawei-e220.chat\nOg svo /etc/chatscripts/huawei-e220.chat (búðu til /etc/chatscripts ef hún er ekki til.)\nwvdial notar svokallaðar chatscriptur til þess að spjalla við módemið.\nTIMEOUT 3\nABORT BUSY\nABORT 'NO CARRIER'\nABORT VOICE\nABORT 'NO DIALTONE'\nABORT 'NO DIAL TONE'\nABORT 'NO ANSWER'\nABORT DELAYED\n\"\" ATZ\nOK ATQ0V1E1S0=0&C1&D2\nOK ATDT*99#\nCONNECT \"\"\nOg að lokum /etc/wvdial.conf, þetta er config skráin fyrir wvdial.\nUsername og password fieldið þarf bara að innihalda eitthvað.\nGæti þessvegna alveg innihaldið ‘asdf’, ‘foo’ eða ‘bar’.\n[Dialer Defaults]\nModem = /dev/ttyUSB0\nBaud = 3600000\nInit1 = ATZ\nInit2 = ATQ0 V1 E1 S0=0 &C1 &D2\nInit3 =\nArea Code =\nPhone = *99#\nUsername = ppp\nPassword = ppp\nAsk Password = 0\nDial Command = ATDT\nStupid Mode = 1\nCompuserve = 0\nForce Address =\nIdle Seconds = 0\nDialMessage1 =\nDialMessage2 =\nISDN = 0\nAuto DNS = 1\nNúna getum við prófað þetta, opnaðu terminal glugga og keyrðu sem root:\nwvdial\nSlítur aftur með því að ýta á Ctrl-C\nÞá færðu eftirfarandi output:\n--> WvDial: Internet dialer version 1.60\n--> Cannot get information for serial port.\n--> Initializing modem.\n--> Sending: ATZ\nATZ\nOK\n--> Sending: ATQ0 V1 E1 S0=0 &C1 &D2\nATQ0 V1 E1 S0=0 &C1 &D2\nOK\n--> Modem initialized.\n--> Sending: ATDT*99#\n--> Waiting for carrier.\nATDT*99#\nCONNECT\n--> Carrier detected.  Starting PPP immediately.\n--> Starting pppd at Thu Jul  3 21:46:22 2008\n--> Pid of pppd: 4982\n--> pppd: 0\n--> Using interface ppp0\n--> pppd: 0\n--> pppd: 0\n--> pppd: 0\n--> pppd: 0\n--> pppd: 0\n--> local  IP address 10.64.170.16\n--> pppd: 0\n--> remote IP address 10.64.64.64\n--> pppd: 0\n--> primary   DNS address 212.30.200.199\n--> pppd: 0\n--> secondary DNS address 212.30.200.200\n--> pppd: 0\nMundu að bæta nafnaþjónunum sem hún gefur þér þarna upp í /etc/resolv.conf.\nFedora bætir þeim ekki sjálfkrafa við þar sem það er ekki til ifup-* og ifcfg-* scripta fyrir þetta.\nÞú mátt vera fyrstur til að skrifa eina :)\nOg voila!  Þú ert nettengdur.\nÞú getur skoðað ip töluna sem þú færð og rútuna sem verður til út með:\n/sbin/ifconfig ppp0\n/sbin/netstat -nr\nÞetta er skrifað yfir 3G samband Símans á Fedora 9 vél :)\nmbk.  Sölvi Páll Á.",
+    "url": "https://www.hugi.is/linux/greinar/600551/3g-dongull-simans-a-fedora-9/",
+    "url_id": "600551",
+    "id": "5967667",
+    "replies": [
+        {
+            "user": "kaemka",
+            "user_id": "32854",
+            "date": "2008-07-04 17:44:26",
+            "id": "5969423",
+            "reply_to_id": "5967667",
+            "text": "Ubuntu 8.04, stinga í samband og það virkar?"
+        },
+        {
+            "user": "LightsOut",
+            "user_id": "35849",
+            "date": "2008-07-05 11:52:27",
+            "id": "5971087",
+            "reply_to_id": "5969423",
+            "text": "Hvar er gamanið í því ;)"
+        },
+        {
+            "user": "Solid",
+            "user_id": "56227",
+            "date": "2008-07-05 15:41:38",
+            "id": "5971478",
+            "reply_to_id": "5969423",
+            "text": "til hamingju, þú hefur gert þessa grein officially useless … :O"
+        },
+        {
+            "user": "kaemka",
+            "user_id": "32854",
+            "date": "2008-07-06 20:58:33",
+            "id": "5973686",
+            "reply_to_id": "5971478",
+            "text": "Nei ekki misskilja ég hef aldrei prófað þetta. Bara hingað til hefur alltaf allt virkað við það að setja það bara í samband hjá mér á ubuntu vélinni."
+        },
+        {
+            "user": "Opes",
+            "user_id": "67807",
+            "date": "2008-07-07 23:17:27",
+            "id": "5976120",
+            "reply_to_id": "5967667",
+            "text": "Ætti að virka með Punginn frá Nova, held að þetta sé sama tækið :) ."
+        },
+        {
+            "user": "benediktkr",
+            "user_id": "43228",
+            "date": "2008-09-08 22:51:19",
+            "id": "6116370",
+            "reply_to_id": "5967667",
+            "text": "Þú þarft ekki að bæta við þessari DNS í resolv.conf ef þú hefur þar þegar færslu fyrir DNS server (svo lengi sem hann sé ekki á private adressu)"
+        },
+        {
+            "user": "Muni",
+            "user_id": "36642",
+            "date": "2010-03-31 22:04:53",
+            "id": "7120505",
+            "reply_to_id": "5967667",
+            "text": "Hefur einnhver prófað að setja þetta upp fyrir dongul frá Nova\nEr reyndar með Huawei E169 og Acus Eee tölvu"
+        }
+    ]
+}

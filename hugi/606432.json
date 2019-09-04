@@ -1,0 +1,93 @@
+{
+    "forum_title": "Linux",
+    "user": "Swooper",
+    "user_id": "50432",
+    "date": "2008-08-07 08:49:53",
+    "title": "Linux handa byrjanda",
+    "text": "Daginn,\nég er við það að fjárfesta í nýrri vél og langar að prófa að setja e-ð Linux kerfi á hana, dual bootað með Windows. Gallinn er sá að ég hef sama og ekkert notað Linux og hef ekki hugmynd um hvaða útfærslu ég ætti að taka. Ég hef séð fullt af nöfnum sem ég veit ekkert hvað eru: Ubuntu, Kubuntu, Debian, Red Hat, Gentoo, KDE, Gnome, Mandrake/Mandriva (það er sami hluturinn, right?) o.s.frv. Er einhver góðhjartaður þarna úti sem getur útskýrt fyrir mér muninn á þessu öllu saman og mögulega mælt með einhverju fyrir algjöran byrjanda sem er ekki vanur neinu nema Windows?\nOg svona í leiðinni - getið þið útskýrt hvaða kosti Linux kerfi hafa fram yfir Windows? Léttari í keyrslu hef ég heyrt, gefa notandanum öflugri tól en hvernig þá og hvað fleira?\nAnnað - hvernig er það þegar ég dualboota vél - hef ég aðgang að fælum og forritum sem eru “hinum megin”?",
+    "url": "https://www.hugi.is/linux/korkar/606432/linux-handa-byrjanda/",
+    "url_id": "606432",
+    "id": "6037846",
+    "replies": [
+        {
+            "user": "Noproblem",
+            "user_id": "23636",
+            "date": "2008-08-07 09:04:05",
+            "id": "6037851",
+            "reply_to_id": "6037846",
+            "text": "http://xkcd.com/456/"
+        },
+        {
+            "user": "Swooper",
+            "user_id": "50432",
+            "date": "2008-08-07 09:52:54",
+            "id": "6037883",
+            "reply_to_id": "6037851",
+            "text": "Hehehe já, ég les XKCD sjálfur svo ég hef séð þetta áður :p Hef samt litlar áhyggjur af að ég verði eitthvað obsessed með þetta.."
+        },
+        {
+            "user": "dorg",
+            "user_id": "28480",
+            "date": "2008-08-07 21:09:00",
+            "id": "6039428",
+            "reply_to_id": "6037846",
+            "text": "Vinsælustu dreifingarnar eru:\nUbuntu - Mjög gott user support og margir sem geta leiðbeint ef eitthvað er af.  Bara velja Restricted drivers og restin gengur vel. (Ubuntu er af Debian ættinni)\nFedora - Góður vélbúnaðarstuðningur einföld í uppsetningu til að fá hluti til að virka svipað og með Restricted drivers í ubuntu setja inn rpm.livna.org sem repository.\n(Fedora er RedHat ættinni)\nOpen Suse frá Novel hefur besta stuðninginn við Windows samhæfni notar RedHat package manager eins og Fedora.\nÞekki ekki mikið til Suse en þeir eru með Gui viðhald á pökkum.  Þýsk dreifing í grunninn.\nMandriva/Mandrake - Desktop dreifingar RPM baseraðar minnir mig.  Gert í að hafa hlutina einfalda en hafa farið frekar halloka fyrir ubuntu á síðari árum.\nSlackware - Amman í hópnum lélegt pakkakerfi en styður allt.\nhentar vel á lélegar vélar.\nSvo eru það eins CD dreifingar:\nUppáhaldið:\nVector linux - Slackware based leifturhratt\nPardus - Eigið pakkakerfi, allar skriftur endurskrifaðar í python og það er sett saman í Tyrklandi.  Þeir hafa aldrei heyrt talað um höfundarrétt og eru stórhrifnir af P2P og þess vegna koma öll þess háttar forrit uppsett.  Mjög áhugaverð dreifing.\nSvo eru nokkarar til viðbótar:\nCentOS clone af RedHat Enterprize sem er hentugt fyrir servera.\nGentoo fyrir þá sem vilja vita hvernig kerfið virkar alveg frá grunni og eru þolinmóðir.\nEn svo er ágætt að líta á síður eins og distrowatch til að sjá hvað er í gangi."
+        },
+        {
+            "user": "Swooper",
+            "user_id": "50432",
+            "date": "2008-08-08 00:38:20",
+            "id": "6040249",
+            "reply_to_id": "6039428",
+            "text": "Takk fyrir þetta, gott að fá svona almennilegt svar. Eitthvað af þessu var búið að segja mér fyrir reyndar (póstaði þessu líka á vaktinni), einhverju var ég búinn að komast að sjálfur á Wikipedia þegar mér leiddist í vinnunni í dag, en það er þó slatti þarna sem ég vissi ekki :)\nGentoo hljómar alveg einstaklega hardcore… Maður sækir víst bara source kóða fyrir forrit sem maður ætlar að installa, og hefur möguleika á að breyta honum áður en maður compilar honum sjálfur! Ef það er ekki full stjórn þá veit ég ekki hvað :p Annars eru engar líkur á að maður fari í þannig pakka strax, byrja örugglega í Ubuntu bara.\nSegðu mér eitt (eða einhver sem veit það), væri eitthvað mál að setja upp KDE á Ubuntu og geta skipt á milli þess og Gnome? Aðallega til að prófa bæði og sjá hvort mér líkar betur við."
+        },
+        {
+            "user": "opi",
+            "user_id": "29163",
+            "date": "2008-08-08 00:54:39",
+            "id": "6040319",
+            "reply_to_id": "6040249",
+            "text": "Kubuntu er Ubuntu með kde uppsett. Enginn munur á þessu tvennu fyrir utan það."
+        },
+        {
+            "user": "Swooper",
+            "user_id": "50432",
+            "date": "2008-08-08 01:11:02",
+            "id": "6040359",
+            "reply_to_id": "6040319",
+            "text": "Ég veit, var bara að spá hvort það væri hægt að hafa bæði uppsett og skipta á milli án vandræða."
+        },
+        {
+            "user": "opi",
+            "user_id": "29163",
+            "date": "2008-08-08 01:20:13",
+            "id": "6040371",
+            "reply_to_id": "6040359",
+            "text": "Já, það er líka hægt.\nsudo apt-get install kubuntu-desktop\neða\nsudo apt-get install ubuntu-desktop\nReyndar ekki í Ubuntu vél, en mig minnir að þetta installi annarsvega kde á ubuntu og hinsvega gnome á kubuntu."
+        },
+        {
+            "user": "Galdrakall",
+            "user_id": "41959",
+            "date": "2008-08-07 23:50:57",
+            "id": "6040064",
+            "reply_to_id": "6037846",
+            "text": "ég hef ekki mikla reynslu af Linux, en hef prófað Fedora og Ubuntu. Mæli klárlega með Ubuntu, var að setja það upp á lappanum og þetta supportaði allan hardware sem ég er með."
+        },
+        {
+            "user": "Swooper",
+            "user_id": "50432",
+            "date": "2008-08-08 00:39:31",
+            "id": "6040257",
+            "reply_to_id": "6040064",
+            "text": "Já, hef heyrt að Ubuntu sé þægilegast fyrir byrjendur, tek það örugglega fyrst. Það eða Linux Mint."
+        },
+        {
+            "user": "opi",
+            "user_id": "29163",
+            "date": "2008-08-08 00:53:41",
+            "id": "6040311",
+            "reply_to_id": "6037846",
+            "text": "Það sem ég hef prufað og mín reynsla:\nUbuntu: Hörku flott kerfi og gott framlag, fólk getur notað þetta eins og windows án þess að hafa neina hugmynd um virkni kerfisins og *allt* bara einfaldlega virkar. Hinsvegar hafa sumir átt vandamál með Hardy að hann virðist frjósa algjörlega án skýringar nokkuð oft, líkt og hjá mér. Ef það gerist ekki hjá þér (ég fór ekkert nánar útí það, heldur einfaldlega skipti því út, veit því ekki af hverju þetta stafaði en það eru víst fleiri sem eiga við þetta vandamál að stríða) þá mæli ég endregið með því. Byggt á debian og notar eitt besta pakkakerfi sem hefur verið gert (apt).\nDebian: Gamallt og stöðugt, ekkert sem kemur á óvart, svakalegt pakka kerfi og allt gott hér. Aðeins flóknara að koma upp heldur en ubuntu, þá sérstaklega á ferðatölvu, ég hef allavega alltaf þurft að setja upp “frequency scale-er” og compile-a kernelinn aftur með debian vegna þess að vélinn var alltaf á fullum hraða. Einnig smá mál að koma nvidia drivernum inn. En að því loknu þá malar það eins og köttur.  Ef þú vilt að tölvan þín virki eftir uppsetningu (en ert til í að leggja soldið á þig til þess að koma því upp) þá er debian gott, öll möguleg forrit, apt-get náttúrulega snilld. Einn galli (einnig kostur), þróun er mjög hæg, allt gerist rosalega hægt og þeir taka góðann tíma í að debugga allt áður en það kemst í gegn, enda skiptir ekki máli hvað þú gerir við það, það er og helst stöðugt. Fyrir server hugsa ég mig ekki tvisvar um.\nGentoo: Ahh, gentoo, frábært kerfi en ég mæli ekki með því fyrir þann sem er 1) algjör byrjandi 2) nennir ekki að “viðhalda” kerfinu. Kerfi sem maður getur legið yfir í fikti dögum saman, þetta kerfi er útá fyrir sig heilt áhugamál. (ps, þetta svar er skrifað í gentoo). Notar portage pakka kerfið, nær í kóðann fyrir forritin af netinu og compile-ar á þína tölvu, rosalega svegjanlegt og gífurlega hratt, en getur endanlega brotnað, þá er auðveldara að setja það bara aftur upp. Uppsetningin er soldið mál og getur tekið verulegann tíma, allavega í fyrsta skiptið.\nSlackware: Kerfið sem gefur þér alla stjórn í formi “.conf”. Ef þú ert “gamaldags” eða vilt einfaldlega geta gert hvað sem þú vilt, hvenær sem þú vilt í kerfinu þá er slack málið. Pakkakerfið er ekki lélegt eins og einhver sagði, heldur frekar gott… Það er bara smá öðruvísi. Tekur engastund að setja upp, bara skellir því í og ferð í gegnum installerinn. Hraðinn er mjög góður og jafnast alveg ágætlega á við gentoo.\nPCLinuxOS, Mandriva eiga víst að vera mjög góð fyrir byrjendur, en ég get ekki sagt til um þau, þar sem ég hef ekki notað þau af neinu viti.\nKDE og Gnome eru tvö mismunandi viðbót, sumir fýla KDE aðrir fýla Gnome, eiginlega bara smekksatriði, ég persónulega fýla gnome betur en nota oftast fluxbox.\nÓlíkt windows er grafíska viðmótið ekki partur af stýrikerfinu, þú getur unnið við kerfið án þess að nokkurntímann sjá “grafískt viðmót”, Xorg er X server sem í stuttu máli getur keyrt mörg grafísk viðmót, gnome og kde er eitt þeirra, á meðal þeirra eru xfce, ede, fluxbox, openbox, blackbox og margt, margt fleira.\nÉg las fyrir stuttu alveg frábæra grein, hann útskýrir í greininni hversvegna Unix kerfi (m.a. linux) eru betri en windows\nhttp://www.over-yonder.net/~fullermd/rants/winstupid/winstupid1.php\nÉg held að þetta sé orðið gott, gaf reyndar ekkert mikið af tæknilegum upplýsingum en ef þú vilt vita um eitthvað ákveðið kerfi betur get ég örugglega sagt þér betur um það. Hvaða kerfi þú ættir að kjósa fer eiginlega eftir því hvað þú vilt útúr því."
+        }
+    ]
+}

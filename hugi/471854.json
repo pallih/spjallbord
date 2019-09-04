@@ -1,0 +1,93 @@
+{
+    "forum_title": "Danstónlist",
+    "user": "GussiD",
+    "user_id": "50749",
+    "date": "2006-12-04 17:34:14",
+    "title": "Nintedno Forrit",
+    "text": "Veit einhver um forrit sem maður getur búið til nintendo tónlist?",
+    "url": "https://www.hugi.is/danstonlist/korkar/471854/nintedno-forrit/",
+    "url_id": "471854",
+    "id": "4302767",
+    "replies": [
+        {
+            "user": "TomasP",
+            "user_id": "15117",
+            "date": "2006-12-05 01:45:57",
+            "id": "4305236",
+            "reply_to_id": "4302767",
+            "text": "getur notað hvaða forrit sem er til að búa til chip tunes…"
+        },
+        {
+            "user": "LowProfile",
+            "user_id": "5402",
+            "date": "2006-12-05 11:53:30",
+            "id": "4305830",
+            "reply_to_id": "4302767",
+            "text": "Ef þú ert að leita að forriti til þess að keyra á Nintendo-systemi, þá eru nokkrir valkostir:\nhttp://www.nanoloop.de/\n- Gameboy (flestallar týpur, líka þessi gömlu :)\nhttp://www.littlesounddj.com/lsd/\n- Svipað og Nanoloop, fyrir Gameboy\nhttp://www.wayfar.net/0xf00000_overview.php\n- Það verður ekki meira G33ky R3tr0 en þetta :D\nEf þú ert að leita að einhverju til að emulate-a nintendo hljóð á PC-tölvu, þá er hægt að nota flesta syntha í það (bara prógramma þá rétt), en svo eru til einhver forrit sem eru spes í svona chip-tune dót:\nVST plugin:\nhttp://www.jackdark.net/syntendo.html\n(NES emulator)\nhttp://www.refx.net/?page=PlastiCZ\n(Svipar til Casio CZ phase distortion synthanna)\nhttp://www.refx.net/?page=quadraSID\n(SID emulator (hugsaðu “Commodore 64”), ég elska þetta plugin :)"
+        },
+        {
+            "user": "ElGorilla",
+            "user_id": "20068",
+            "date": "2006-12-05 12:34:01",
+            "id": "4305944",
+            "reply_to_id": "4302767",
+            "text": "Ég náði ágætis árangri með að nota þríhyrningsbylgju og bandpass filter. Virkar á öllum subtractive synthum."
+        },
+        {
+            "user": "LowProfile",
+            "user_id": "5402",
+            "date": "2006-12-05 18:54:27",
+            "id": "4307964",
+            "reply_to_id": "4305944",
+            "text": "já, en svo þarf maður líka að ná þessu infamous Noise hljóði :)\nVar það ekki 2-bita Pseudo-Random noise?? :) gætir hugsanlega gert eitthvað svipað með bitcrusher og bandpass-filte"
+        },
+        {
+            "user": "ElGorilla",
+            "user_id": "20068",
+            "date": "2006-12-05 19:48:22",
+            "id": "4308269",
+            "reply_to_id": "4307964",
+            "text": "NES er náttúrulega 8 bit, Alesis framleiðir pedal sem minnkar bit og líka finna plugin á netinu."
+        },
+        {
+            "user": "GussiD",
+            "user_id": "50749",
+            "date": "2006-12-05 20:08:07",
+            "id": "4308379",
+            "reply_to_id": "4308269",
+            "text": "er ekki til bara svona forrit á netinu sem er hægt að downloada sem maður getur búið til sín eigin nintendo lög?"
+        },
+        {
+            "user": "LowProfile",
+            "user_id": "5402",
+            "date": "2006-12-06 12:30:13",
+            "id": "4310822",
+            "reply_to_id": "4308379",
+            "text": "held að ég geti fullyrt að ekkert slíkt er til.\nSyntendo kemst næst því, getur notað það með einhverjum VST sequencer, t.d. Buzz (ókeypis)…"
+        },
+        {
+            "user": "GussiD",
+            "user_id": "50749",
+            "date": "2006-12-09 19:48:42",
+            "id": "4328168",
+            "reply_to_id": "4310822",
+            "text": "jú heyrðu ég fann forrit…ekkert eikkað geðveikt en alveg nóg fyrir mig…"
+        },
+        {
+            "user": "dabbi123",
+            "user_id": "25759",
+            "date": "2006-12-07 15:51:41",
+            "id": "4317232",
+            "reply_to_id": "4302767",
+            "text": "MCK/MML\nhttp://www.nullsleep.com/treasure/mck_guide/\ngetur notað þetta til að búa til alvöru NSF fæla.\nen samt frekar flókið, ekkert eiginlegt user interface, notar bara notepad. mætti líkja þessu við forritun."
+        },
+        {
+            "user": "tonik",
+            "user_id": "21598",
+            "date": "2006-12-18 13:55:19",
+            "id": "4366495",
+            "reply_to_id": "4317232",
+            "text": "mæli með þessu, þarft bara að passa hvaða nsf plugin þú notar í winamp þegar þú exportar í wav"
+        }
+    ]
+}

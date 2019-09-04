@@ -1,0 +1,93 @@
+{
+    "forum_title": "Grafísk hönnun",
+    "user": "2469",
+    "user_id": "57683",
+    "date": "2005-05-02 19:08:43",
+    "title": "Tutorial: ruðir stafir með gylltu í kring.",
+    "text": "Ég lofaði víst að senda inn tutorial þannig að hérna er einn. Ég fattaði upp á þessum sjálfur þannig að segjið mér álit ykkar.\n1. Opnaðu nýtt skjal ég hafði það 500X400 pixels.\n2. Litaðu bakgruninn svartan.\n3. Skrifaðu eitthvað á það með stórum rauðum stöfum. T.d. í litnum F40C17\n4. Farðu í layer>layer style> blending options og settu á þessar stillingar.\nInner shadow.\nBlend mode: Multiply\nLitur: E40F0F\nOpacity: 100\nAngle: 120\nDistance: 60\nChoke: 0\nSize: 0\nNoise: 0\nOuter glow.\nBlend mode: Screen\nOpacity: 75\nNoise: 0\nLitur: F0CF34\nTechnique: Softer\nSpread: 0\nSize: 4\nRange: 50\nJitter: 0\nBevel and emboss.\nStyle: Inner bevel\nTechnique: Smooth\nDepth: 760\nDirection: Up\nSize: 10\nSoften: 10\nAngle: 120\nUse global light: Það á að vera hak þar\nAltitude: 40\nHighlight mode: Screen\nLitur: 000000\nOpacity: 100\nShadow mode: Multiply\nLitur: 4C4D5F\nOpacity: 100\nPúff",
+    "url": "https://www.hugi.is/grafik/greinar/293160/tutorial-rudir-stafir-med-gylltu-i-kring/",
+    "url_id": "293160",
+    "id": "2125393",
+    "replies": [
+        {
+            "user": "2469",
+            "user_id": "57683",
+            "date": "2005-05-02 19:20:05",
+            "id": "2125825",
+            "reply_to_id": "2125393",
+            "text": "Rauðir stafir á þetta að vera *roðn*"
+        },
+        {
+            "user": "Svafnir",
+            "user_id": "8098",
+            "date": "2005-05-02 21:48:31",
+            "id": "2126328",
+            "reply_to_id": "2125393",
+            "text": "Hvernig væri nú að henda inn myndum með þessu ?\nSvo maður gæti séð hvernig þetta ætti að vera etc.etc."
+        },
+        {
+            "user": "2469",
+            "user_id": "57683",
+            "date": "2005-05-02 21:52:07",
+            "id": "2126346",
+            "reply_to_id": "2126328",
+            "text": "Það er eitthvað að tölvunni myndirnar koma aldrei með."
+        },
+        {
+            "user": "Svafnir",
+            "user_id": "8098",
+            "date": "2005-05-02 21:53:42",
+            "id": "2126354",
+            "reply_to_id": "2126346",
+            "text": "??\nPhotobucket , imageshark og fleiri síður bjóða upp á myndageymslu.\nSetur svo bara link á þær síður ;)"
+        },
+        {
+            "user": "Pooky",
+            "user_id": "6684",
+            "date": "2005-05-03 00:40:59",
+            "id": "2126837",
+            "reply_to_id": "2126354",
+            "text": "Eða barað skella þessu í myndasafnið hérna á áhugamálinu."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2005-05-03 15:14:45",
+            "id": "2127490",
+            "reply_to_id": "2126346",
+            "text": "undirskriftin þín er bara stolin hugmynd frá mér…"
+        },
+        {
+            "user": "kpn",
+            "user_id": "41355",
+            "date": "2005-05-02 22:46:57",
+            "id": "2126540",
+            "reply_to_id": "2126328",
+            "text": "Þetta er nú ekki það erfitt…"
+        },
+        {
+            "user": "Svafnir",
+            "user_id": "8098",
+            "date": "2005-05-02 23:07:13",
+            "id": "2126617",
+            "reply_to_id": "2126540",
+            "text": "nei , örugglega ekki en það væri skemmtilegt að sjá hvað maður fær út áður en maður kveikir á photoshop sem tekur helvíti langan tíma að kveikja á."
+        },
+        {
+            "user": "jonr",
+            "user_id": "3773",
+            "date": "2005-05-03 10:47:27",
+            "id": "2127068",
+            "reply_to_id": "2125393",
+            "text": "Og hvar er svo gyltan?"
+        },
+        {
+            "user": "Rusty",
+            "user_id": "39411",
+            "date": "2005-05-03 14:35:02",
+            "id": "2127416",
+            "reply_to_id": "2125393",
+            "text": "Myndin kom ekki. Senda hana inn?"
+        }
+    ]
+}

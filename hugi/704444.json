@@ -1,0 +1,21 @@
+{
+    "forum_title": "Apple",
+    "user": "SinSin",
+    "user_id": "58293",
+    "date": "2010-06-29 17:48:52",
+    "title": "iPod vesen",
+    "text": "Í stuttu máli þá neitar hann að restorast. Hann byrjar, stoppar og síðan kemur “unkwown error 1429”\nEr eitthvað hægt að gera í þessu?",
+    "url": "https://www.hugi.is/apple/korkar/704444/ipod-vesen/",
+    "url_id": "704444",
+    "id": "7192994",
+    "replies": [
+        {
+            "user": "Manimal",
+            "user_id": "44579",
+            "date": "2010-07-06 06:20:18",
+            "id": "7196799",
+            "reply_to_id": "7192994",
+            "text": "Symptoms\nWhen restoring or updating an iPod in iTunes, you may see a dialog reporting “An unknown error has occurred” followed by the error number 1415, 1417, 1418, 1428, 1429, 1430, 1436 or 1439.\nProducts Affected\niTunes 7 for Mac, iTunes 7 for Windows, iPod nano, iPod shuffle, iPod mini, iPod, iTunes 9, iTunes 8 for Windows, iTunes 8 for Mac\nResolution\nIf you are experiencing these errors, begin by updating to the latest version of iTunes. When you have the current version of iTunes, try the following:\n* Disconnect and reconnect your iPod and then attempt to restore.\n* Restart your computer and then attempt to restore your iPod.\n* Disable or Enable Disk Use on your iPod and then attempt to restore.\n* Try connecting your iPod to a different USB port and then attempt to restore.\n* Remove any third-party USB devices you have connected to your computer (it is not necessary to remove your keyboard or mouse).\n* If you use Windows, re-register .dll files as described in article iTunes displays -50 error message when syncing iPod on Windows XP\n* For Windows users, update or reinstall your Windows USB drivers.\nAdditional Information\nNote: If you have an iPod shuffle you may need to use the iPod Reset Utility to restore the iPod. If you are not sure which iPod you have, see Apple Support document Identifying iPod models.\nIf you are using an iPod touch, or iPhone please refer to this article.\nhttp://support.apple.com/kb/ts1372"
+        }
+    ]
+}

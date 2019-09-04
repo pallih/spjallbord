@@ -1,0 +1,77 @@
+{
+    "forum_title": "Quake og Doom",
+    "user": "JReykdal",
+    "user_id": "77",
+    "date": "2000-12-15 02:26:25",
+    "title": "Meira um plásturinn",
+    "text": "Hérna er listi af breytingunum í <a href=\"\nhttp://www.hugi.is/files/games/quake3/pr/Q3PointRelease_127g.exe\n“>1.27g</a>, stolið samviskulaust af <a href=”\nhttp://www.stomped.com\n“>Stomped</a>. :)\nHelstu atriði eru að ”Fýsíkin“ (physicks) eru eins og í 1.17, ekki er lengur leitað að geisladisk við spilun og helsti böggurinn sem hefur fundist er að það virkar ekki að spila demó úr valmyndinni (þarf að hringla í console).\nAnnars lesið bara listann hérna fyrir neðan:\nFixes and Additions\n- fixed several predictable player event problems\n- made entity events more reliable\n- fixed sv_minping\n- fixed setting ”sv_maxclients 0“ causes crash upon match restart when the server is full with clients\n- print gametype name when voting for a new game type\n- fixed sometimes getting spawned into others in tournament mode\n- fixed ”sudden death“ and ”5 minute warning“ sounds overlapping on server entry\n- optimized file system memory usage, can now easily load 100+ pk3 files\n- fixed icon heads when loading a map in teamplay\n- fixed several zone memory leaks causing Z_MALOC failure\n- fixed auto weapon switch when picking up the weapon held before a map restart\n- fixed falling off map due to old movement after map_restart\n- fixed chatting from dedicated server console\n- added better error handling to auto-downloading\n- added ”noglobalsound“ option for items\n- improved bot AI\n- fixed bots taking same path through enemy base in CTF\n- fixed bot gauntlet usage\n- cg_forceModel works without vid_restart\n- CD keys no longer overwritten\n- Typing % in chat text causes the client to be disconnected with an illegible server message\n- Removed Global Rankings support. We are currently investigating the best approach to properly integrate Global Rankings into Quake III Arena and Quake III: Team Arena\n- Various speed tweaks\n- VM Optimazation to bring vm speed closer to DLL speed\n- Cinematic support available to mod developers\nKnown Issues\n- Launching demos from the user interface does not work. To play a demo back, go to the console and type ”demo demofilename\" without the quotes. This is a bug that cropped up when we changed the extension for demos so they include the protocol number so demos show up properly in menus. This will be addressed in a later patch.",
+    "url": "https://www.hugi.is/id/greinar/11578/meira-um-plasturinn/",
+    "url_id": "11578",
+    "id": "70074",
+    "replies": [
+        {
+            "user": "Manhattan",
+            "user_id": "421",
+            "date": "2000-12-15 02:38:30",
+            "id": "70075",
+            "reply_to_id": "70074",
+            "text": "ég legg til að islenski quake “heimurinn” gefi þessu góðan séns . við spiluðum quake án dmg gegnum floors og það er allveg augljost að þetta er ekki það mikilvægt."
+        },
+        {
+            "user": "Iberniser",
+            "user_id": "405",
+            "date": "2000-12-15 02:51:41",
+            "id": "70076",
+            "reply_to_id": "70075",
+            "text": "well.. ég vill damage thru floors.. án þess er t4 algjörlega gelt, og jdm8a.. well.. dettur mikill fílingur útúr því\nen í núverandi osp-um er hægt að stilla thrufloors on eða off.. vonandi að rhea geri það líka fyrir þetta version :)"
+        },
+        {
+            "user": "Manhattan",
+            "user_id": "421",
+            "date": "2000-12-15 15:12:50",
+            "id": "70077",
+            "reply_to_id": "70076",
+            "text": "fast sky er svart með gf1 ístað gul hvíta draslsins.  demo spilun virðist hinsvegar ekkert virka svo eg gat ekki athugad fps odruvisi en með cg_drawsfps 1, og fannst mer tad hugsanlega vera adeins stödugra en ekkert major."
+        },
+        {
+            "user": "Travis",
+            "user_id": "1571",
+            "date": "2000-12-15 11:26:35",
+            "id": "70078",
+            "reply_to_id": "70074",
+            "text": "jæja félagar Smegma og JReykdal. er þá ekki spurning um að fara að gera sig klára í að downloada öllum nýju MODunum sem eru að fara að koma út nuna og mirrora. til dæmis var að koma út nýtt Rocket Arena áðan.\nendilega mirrorið svo að við cheap ass adsl notendur getum downloadað :)"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2000-12-15 14:29:33",
+            "id": "70079",
+            "reply_to_id": "70078",
+            "text": "meinarðu ekki frekar notendur fasista dsl landsímans? Var ekki annars verið að kæra ls fyrir fasistaskap í rukkun á bandbreidd? Hvað 500kall á 100mb, er það nú dónaskapur í þeim. SVEI!"
+        },
+        {
+            "user": "Travis",
+            "user_id": "1571",
+            "date": "2000-12-15 20:01:22",
+            "id": "70080",
+            "reply_to_id": "70078",
+            "text": "RA er bara 600k\nég mundi bara fara og DL þvi sjalfur=)"
+        },
+        {
+            "user": "Iberniser",
+            "user_id": "405",
+            "date": "2000-12-15 19:29:11",
+            "id": "70081",
+            "reply_to_id": "70074",
+            "text": "án splash dmg er þetta pr algjörlega glatað"
+        },
+        {
+            "user": "Butch",
+            "user_id": "464",
+            "date": "2000-12-17 22:15:19",
+            "id": "70082",
+            "reply_to_id": "70074",
+            "text": "Þessi nýi PR er snilld. Lítið annað hef ég að segja að svo stöddu máli. Þetta með damage thru floors, well.. þá legg ég til að t4 verði bara tekið út, ég mun ekki sakna þess rassgat, hefur verið og er skítamap og er ekki að neinu leyti mótshæft kort. Nýja movementið er svalt og legg ég eindregið til að skella þessu á servera strax og linux support kemur. (Eða ef það er komið skella því inn strax.)"
+        }
+    ]
+}

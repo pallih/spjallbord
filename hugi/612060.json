@@ -1,0 +1,61 @@
+{
+    "forum_title": "Apple",
+    "user": "SubFocus",
+    "user_id": "7385",
+    "date": "2008-09-06 15:03:12",
+    "title": "Vodafone hotspot og transmission",
+    "text": "Ég er nýlega búinn að fá mér macbook tölvu en hef fram að þessu notað windows. Þar sem ég leigji húsnæði hef ég aðgang að þráðlausu neti frá Vodafone. Ég hef verið að reyna að koma transmission í gang en mér hefur ekki tekist að downloada neinu. Trúlega er lokað fyrir port í routernum sem ég hef aðgang að.\nÞví spyr ég: Hvernig finn ég ip addressuna á routernum? (vanur að nota ipconfig /all í win en kann ekkert á mac). Hvernig get ég séð hvort lokað sé fyrir ákveðin port?  Ef öll port eru lokuð, er einhver leið til þess að komast framhjá því?\nGet ég með einhverju móti notað transmission þrátt fyrir að vera á bakvið eldvegg?",
+    "url": "https://www.hugi.is/apple/korkar/612060/vodafone-hotspot-og-transmission/",
+    "url_id": "612060",
+    "id": "6109880",
+    "replies": [
+        {
+            "user": "Zorix",
+            "user_id": "65589",
+            "date": "2008-09-06 16:01:16",
+            "id": "6109979",
+            "reply_to_id": "6109880",
+            "text": "Þú getur séð allar upplysingar um netið í System Preferences > Network.\nEn mér finnst mjög líklegt að það sé enginn möguleika að torrentast á þessu neti…"
+        },
+        {
+            "user": "drib",
+            "user_id": "61644",
+            "date": "2008-09-06 16:58:13",
+            "id": "6110077",
+            "reply_to_id": "6109880",
+            "text": "Transmission > Preferences > Network."
+        },
+        {
+            "user": "SubFocus",
+            "user_id": "7385",
+            "date": "2008-09-06 18:58:05",
+            "id": "6110314",
+            "reply_to_id": "6110077",
+            "text": "Ég geri lítið í network stillingunum ef ég get ekki látið routerinn forwarda porti á mig.."
+        },
+        {
+            "user": "drib",
+            "user_id": "61644",
+            "date": "2008-09-06 20:04:33",
+            "id": "6110450",
+            "reply_to_id": "6110314",
+            "text": "Ég var að svara því hvernig þú gætir séð hvort port sé opið/lokað."
+        },
+        {
+            "user": "SubFocus",
+            "user_id": "7385",
+            "date": "2008-09-06 23:34:33",
+            "id": "6110881",
+            "reply_to_id": "6110450",
+            "text": "Já ókei.. sorry og takk ;)"
+        },
+        {
+            "user": "Zorix",
+            "user_id": "65589",
+            "date": "2008-09-07 23:21:45",
+            "id": "6113467",
+            "reply_to_id": "6110314",
+            "text": "portforward.com"
+        }
+    ]
+}

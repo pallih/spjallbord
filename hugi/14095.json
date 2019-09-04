@@ -1,0 +1,29 @@
+{
+    "forum_title": "Vélbúnaður",
+    "user": "Czar",
+    "user_id": "1110",
+    "date": "2001-01-16 16:28:12",
+    "title": "NV20, alvöru info",
+    "text": "Engar getgátur lengur\nNV20 specification\nTechnology: 0.15 micron\nGraphics core frequency: 200+ MHz (later “Ultra” and “Pro” variants are possible, e.g. at 250 MHz)\nRendering pixel pipelines: 4\n4 textures per pixel\nMemory interface: 128 bit\nSupported memory as DDR SDRAM/SGRAM\nAt the time of release the first NV20 based cards will be equipped with the memory working at 250 (500) MHz\nPeak bandwidth of the memory bus at 250 MHz: 8 GBytes/sec\nSupported local memory size: up to 128 MBytes (the first cards, as our sample, will have 64 MBytes)\nRAMDAC: 350 MHz\nMax resolution: 2048x1536@75 Hz\nIntegrated TMDS transmitter allows connecting digital monitors and supports resolution up to 1600x1200\nExternal bus interface: full support of AGP x2/x4 (including SBA, DME and Fast Writes) and PCI 2.2 (including Bus mastering).\nHardware T&L: effective performance around 40+ million triangles per second (our sample has a bit lower than 40 million triangles per second at a special synthetical test)\nFull hardware support for all MS DirectX 8.0 and OpenGL 1.2 possibilities\nFull support for hardware VertexShaders DX8, 1.1 version\nFull support for hardware PixelShaders DX8, 1.0 version\nSupport for volume textures\nSupport for Cube environment mapping\nSupport for projective textures\nSupport for hardware tesselation of smooth surfaces (rectangular and triangular patches)\nHardware support for relief texturing of the following types: Embosing, Dot Product3 and EMBM (at last!)\nSupport for S3TC and all 5 DXTC texture compression methods\nSupport for primitive clipping in arbitrary set planes\nSupport for FSAA\nSupport for textures up to 4096x4096 @ 32 bit",
+    "url": "https://www.hugi.is/velbunadur/greinar/14095/nv20-alvoru-info/",
+    "url_id": "14095",
+    "id": "89217",
+    "replies": [
+        {
+            "user": "Gauos",
+            "user_id": "297",
+            "date": "2001-01-16 16:36:53",
+            "id": "89218",
+            "reply_to_id": "89217",
+            "text": "Mjög svo áhugavert ;)"
+        },
+        {
+            "user": "Skarsnik",
+            "user_id": "213",
+            "date": "2001-01-16 17:11:39",
+            "id": "89219",
+            "reply_to_id": "89217",
+            "text": "Þetta lítur mjög vel út, en ef þú tókst þetta info útaf Digit-Life (sem mér sýnist) þá skulum við taka þessu með fyrirvara.. það voru jú Digit-Life sem sögðust hafa pottþétt info um að Creative ætlaði að hætta að búa til grafík kort :)\nAnnars er hérna URLið á allan pakkan:\nhttp://www.digit-life.com/articles/nv20/index.html"
+        }
+    ]
+}

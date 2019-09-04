@@ -1,0 +1,85 @@
+{
+    "forum_title": "Vefsíðugerð",
+    "user": "Moose",
+    "user_id": "4615",
+    "date": "2000-11-24 17:58:06",
+    "title": "MySQL vesen",
+    "text": "Saelt veri folkid.\nEg var ad spa i ad thar sem ad MS SQL server 7 er a einhverjar $2000 og Oracle stripada typan a um $10.000 ad hvort ad thad se ekki alveg eins gott ad runna a MySQL?\nEg er med utgafu fyrir Windows og webserver a cable modem (512kb) og vildi ekki vera med neitt Warez dot.\nHinsvegar finnst mer erfitt ad finna tutorials a MySQL fyrir windows, thetta er allt fyrir Unix/Linux vesen, t.d. er allt gert a prompt.  Veit einhver um einhverja tutorials fyrir MySQL og Windows? adalega hvernig a ad gera tables, en ekki SQL-id sjalft thar sem ad thad er nu alltaf eins.\nKvedja\nMoose",
+    "url": "https://www.hugi.is/vefsidugerd/greinar/9582/mysql-vesen/",
+    "url_id": "9582",
+    "id": "55055",
+    "replies": [
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2000-11-24 14:11:20",
+            "id": "55057",
+            "reply_to_id": "55055",
+            "text": "Ég mæli ekki með því keyra MySQL í Windows, reyndar mæli ég ekki með því að keyra nokkurn gagnagrunn í windows.  En eins og fram hefur komið er til fínt “tól” sem heitir phpMyAdmin. Það er fínt documentation á www.mysql.com en einnig eru til bækur, meðal annars frá O'Reilly um þetta efni.  Líttu við á Amazon.com eða bóksölu stúdenta og athugaðu hvort þú finnir ekki eitthvað sniðugt."
+        },
+        {
+            "user": "Gulag",
+            "user_id": "48",
+            "date": "2000-11-24 16:29:19",
+            "id": "55058",
+            "reply_to_id": "55055",
+            "text": "Hlustaðu ekki á þessa Linux fíra…:)…\nkíktu á\nhttp://msdn.microsoft.com/sqlserver/\nþar er hægt að fá allskyns upplýsingar um SQL..\nþað eru mun fleiri að nota SQL/ASP í dag en þetta PHP drasl..(nú verða einhverjir nuts).. og staðreyndin er að ef þú lærir á SQL færðu vinnu víða,, en lærðu á PHP og farðu að vinna hjá Símnet..hehe…just stick with what works…"
+        },
+        {
+            "user": "arnihr",
+            "user_id": "61",
+            "date": "2000-11-24 18:13:50",
+            "id": "55056",
+            "reply_to_id": "55055",
+            "text": "Í fyrsta lagi þá er alls ekki allt gert á prompti á linux/unix… Það er til php “forrit” sem heitir phpMyAdmin og er sækist hann hérna:\nhttp://www.phpwizard.net/projects/phpMyAdmin/\nEn það gerir manni kleyft að hafa útlit á það sem þú ert að gera, en samt sem áður verðuru að kunna basic skipanir. MySQL er hreint og beint listaverk að mínu mati, einfalt, hraðvirkt og ókeypis… Hvað svona tutorials varðar… lestu manualinn, skoðaðu síður eins og www.phpbuilder.com sem er php síða en php tutorialin innihalda alveg frábær mySQL tuts.\n“Hinsvegar finnst mer erfitt ad finna tutorials a MySQL fyrir windows”"
+        },
+        {
+            "user": "oddur",
+            "user_id": "150",
+            "date": "2000-11-24 20:22:46",
+            "id": "55059",
+            "reply_to_id": "55055",
+            "text": "Svo við byrjum á að bera saman mysql, msssql og oracle. MsSql og Oracle er málið ef þú ert að keyra eihverja risa grunna, en ef þú ert bara að keyra gögn inn í einhver html mát er mysql alveg jafngott ef ekki betra því mssql og oracle eru þá með fullt af fídusum sem flækjast bara fyrir þér. Oracle er nátturulega kóngurinn og tekur alla aðra grunna í nefið þegar kemur að stórum og flóknum grunnum með fullt af Relations. En eins og þú sagðir kostar hann fullt af hellings af peningum.\nÉg hef að vísu ekki keyrt mysql með ASP, nota ávallt mssql, en það á samt ekki að vera neitt mál að nota mysql því ADO er blackbox módel.\nKíktu á\nhttp://www.4guysfromrolla.com/webtech/092200-1.shtml\n, þarna er kennt að nota mysql með asp á winvél.\n-oddu"
+        },
+        {
+            "user": "Moose",
+            "user_id": "4615",
+            "date": "2000-11-24 22:46:46",
+            "id": "55060",
+            "reply_to_id": "55059",
+            "text": "eg verd nu ad segja ad Oracle sygur feitt og allur utatadur i boggum, serstaklega LOV dotid.  Ef eg fer med rett, ad tha er bara haegt ad hafa einn grunn med morgum toflum? sem er nottulega uti hott. MS SQL server er milljon sinnum betri og odyrari lika, og virkar flott med ASP, enda baedi Mircrosoft products :)\nMySQL er gott fyrir littlar og einfaldar toflur, og vid verdum ad atta okkur a thvi a 99% vefa eru adalega littlar toflur."
+        },
+        {
+            "user": "thom",
+            "user_id": "5176",
+            "date": "2000-11-25 16:01:48",
+            "id": "55061",
+            "reply_to_id": "55060",
+            "text": "Mér finnst langöflugasti gagnagrunnurinn vera að gleymast(mbl.is og visir.is eru keyrðir á þessu, og þið megið geta hver hann er).\nEn sá sem var í vandræðum hérna til að byrja með:\nEndilega fáðu þér mySQL það er mest notað á minni síðum og er ekkert allt of flókið svo er náttúrulega málið að keyra þetta undir php.\nAnnars er hægt að finna ágætis tutoriala undir einhverjum þræði á korknum: php, asp og sql.\nSvo fann ég líka ágætis svona sql managing tool á winfiles.com sem heitir Mascon og er það nokkuð þægilegt. Með þessu tooli kemstu hjá því að gera allt á prompt."
+        },
+        {
+            "user": "ask",
+            "user_id": "5847",
+            "date": "2000-11-25 15:55:34",
+            "id": "55062",
+            "reply_to_id": "55055",
+            "text": "Webmonkey.com er með ágætis grein hvernig hægt er að nota MySQL og PHP. Þar geturu hvernig þú getur sett inn MySQL á windows.\nKíktu á Webmonkey greinina"
+        },
+        {
+            "user": "ask",
+            "user_id": "5847",
+            "date": "2000-11-25 15:56:52",
+            "id": "55063",
+            "reply_to_id": "55062",
+            "text": "Er ekki hæt að setja inn linka. ég prófa aftur.\nWebmonkey greinin\nEf þetta virkar ekki er slóðin\nhttp://hotwired.lycos.com/webmonkey/programming/php/tutorials/tutorial4.html"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2000-11-26 16:06:44",
+            "id": "55064",
+            "reply_to_id": "55055",
+            "text": "Þú ert bara á 512Kb tengingu þannig að það er verulega ólíklegt að þú þurfir nokkurn tíma meira en MySQL. Ég las einu sinni úttekt á MySQL og PostgreSQL (sem hvort tveggja er opensource), og MySQL sigrar í hraða, en PostgreSQL í stöðugleika.\nMálið er hinsvegar að MySQL er ekkert farið að klikka fyrr en í verulegu álagi. Hugi.is hefur t.d. alltaf verið keyrður á MySQL, og það stendur ekkert til að breyta því í bráð, enda hinn mesti óþarfi. Reyndar væri það eiginlega bara vitleysa á meðan MySQL er að standa sig, vegna þess að MySQL *er* mjög hraður, þó að hann sé það auðvitað af ástæðu (það vantar sumt sem er í öðru).\nPostgreSQL ferðu varla að nota á Windows. MySQL geturðu það, og þú getur það alveg nákvæmlega eins og að keyra það á Linux/UNIX. Þetta eru prompt tól, en öll Windows eru með prompt líka og það eru nákvæmlega sömu tól í gangi þar og á UNIX.\nSvo minni ég á phpMyAdmin. Check it out.\nÉg sá einhvern hérna pósta um það að fleiri notuðu ASP heldur en PHP… en svona í fyrsta lagi finnst mér það ólíklegt, í öðru lagi benti hann ekki á neitt því til rökstuðnings, og í þriðja lagi skiptir það nákvæmlega ekki einu einasta máli.\nEf þú þarft ASP til að keyra á MS-SQL, þá segir það sig auðvitað sjálft að þú ert ekki að fara að nota MS-SQL, þó það væri ekki nema til þess að GETA notað annað. Það er reyndar misjafnt út í hversu þurrt menn fíla að láta Microsoft taka sig í boruna, fyrir utan það að ég veit ekki til þess að það þurfi ASP til að keyra á MS-SQL… ég nota ekki þetta dót.\nEn bottom line… hvort sem það er fyrir Windows eða UNIX, þetta er nákvæmlega sami skíturinn. Notaðu prompt, þú finnur þessi forrit einhvers staðar á Windowsinu þínu."
+        }
+    ]
+}

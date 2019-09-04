@@ -1,0 +1,117 @@
+{
+    "forum_title": "Quake og Doom",
+    "user": "Smegma",
+    "user_id": "33",
+    "date": "2001-05-31 05:12:58",
+    "title": "OSP 0.99u1 komið á alla Q3A þjónana",
+    "text": "Búið er að uppfæra alla Q3A þjónana á Skjálfta, og keyra þeir nú OSP 0.99u1. Lista yfir breytingar frá fyrri útgáfum má finna <a href=\"\nhttp://www.hugi.is/files/games/quake3/osp/099u1/docs/osp-q3-History.txt\n“ target=”new“>hér</a>, en helst ber að nefna:\n-pmove_fixed 1 ætti nú minni undarlegheitum að valda á öflugri vélum\n-cg_truelightning er ekki lengur toggle, og getur tekið gildi frá 0 til 1. Fiktið! :)\n-cg_altgrenades 1 - CPM-style grensur. Flott!\n-hægt er að vota map meðan scoreboard er uppi að leik loknum\n-cg_oversampleMouse 0/1 - CPM fítus, breytir músarfeel ef notað\nÞessi útgáfa OSP verður að öllum líkindum notuð á komandi móti, en moddið í heild má nálgast <a href=”\nhttp://www.hugi.is/files/games/quake3/osp/099u1/osp-quake3-0.99u1.zip\n“ target=”new“>hér</a>.\nLeikmenn þurfa þó einungis að sækja þessar 3 skrár, og setja í OSP möppurnar hjá sér:\n<a href=”\nhttp://www.hugi.is/files/games/quake3/osp/099u1/z-osp-cgame099u1.pk3\n“>z-osp-cgame099u1.pk3</a>\n<a href=”\nhttp://www.hugi.is/files/games/quake3/osp/099u1/z-osp-extra099u.pk3\n“>z-osp-extra099u.pk3</a>\n<a href=”\nhttp://www.hugi.is/files/games/quake3/osp/099u1/z-osp-players-099u.pk3\n\">z-osp-players-099u.pk3</a>\nAllar skrárnar eru vistaðar á Huga, svo um innlent download er að ræða. Vert er að benda á að nóg er að tengjast Skjálftaþjóni eftir að skrifa /cl_allowdownload 1 í console, en með því móti sækir Quake 3 skrárnar sjálfur (tekur þó lengri tíma).",
+    "url": "https://www.hugi.is/id/greinar/29673/osp-099u1-komid-a-alla-q3a-thjonana/",
+    "url_id": "29673",
+    "id": "198300",
+    "replies": [
+        {
+            "user": "Dusty",
+            "user_id": "1996",
+            "date": "2001-05-31 08:05:17",
+            "id": "198301",
+            "reply_to_id": "198300",
+            "text": "Jæja þá er bara að sjá hvort að þetta osp rústi fps hjá mér eins og hið fyrra osp"
+        },
+        {
+            "user": "Manhattan",
+            "user_id": "421",
+            "date": "2001-05-31 08:35:26",
+            "id": "198302",
+            "reply_to_id": "198301",
+            "text": "virkaði flott hjá mé"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2001-05-31 09:55:43",
+            "id": "198303",
+            "reply_to_id": "198300",
+            "text": "ekki gleyma að það er komið nomip skipun fyrir öll vopnin nuna. svona fyrir þá sem spila í picmip 5."
+        },
+        {
+            "user": "KoRn",
+            "user_id": "1137",
+            "date": "2001-05-31 09:59:32",
+            "id": "198304",
+            "reply_to_id": "198300",
+            "text": "Kælir, þetta alt_grfx er alveg að owna. q2 old skool grensur :)"
+        },
+        {
+            "user": "Iberniser",
+            "user_id": "405",
+            "date": "2001-05-31 12:04:19",
+            "id": "198305",
+            "reply_to_id": "198300",
+            "text": "great job smegma :)"
+        },
+        {
+            "user": "Iberniser",
+            "user_id": "405",
+            "date": "2001-05-31 13:23:16",
+            "id": "198306",
+            "reply_to_id": "198305",
+            "text": "en svei, pmove böggið er ennþá til staðar :/\nþetta gerir þetta þó aðeins skárra, rekst ekki lengur útí veggi og rykkir verða aðeins skárri."
+        },
+        {
+            "user": "Maxium",
+            "user_id": "432",
+            "date": "2001-05-31 14:28:36",
+            "id": "198307",
+            "reply_to_id": "198306",
+            "text": "iber fiber."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2001-05-31 16:56:17",
+            "id": "198308",
+            "reply_to_id": "198306",
+            "text": "Iber: fáðu þér bara betri sjá silly. =)"
+        },
+        {
+            "user": "primo",
+            "user_id": "234",
+            "date": "2001-05-31 21:56:38",
+            "id": "198309",
+            "reply_to_id": "198300",
+            "text": "ég vil sjá fítus sem er þannig að þegar maður hefur lokið leik eða quitar þá sé maður spurður hvort maður vilji savea demoið og væri þá hægt að hafa þetta sem on/off option.\nhver hefur ekki bölva því að hafa ekki náð demo af einhverju m4dmidairrocketdauðansfráhelvíti ? :)"
+        },
+        {
+            "user": "Iberniser",
+            "user_id": "405",
+            "date": "2001-05-31 22:16:38",
+            "id": "198310",
+            "reply_to_id": "198309",
+            "text": "true true :)"
+        },
+        {
+            "user": "otur",
+            "user_id": "337",
+            "date": "2001-06-01 09:00:58",
+            "id": "198311",
+            "reply_to_id": "198300",
+            "text": "Eitt mjög pirrandi við þetta osp; ég spila með cg_drawrewards 0, og hef hingað til ekki heyrt þessi pirrandi hljóð (“impressive”, “excellent” o.s.frv), en nú eru þau allt í einu farinn að heyrast hjá mér. Veit einhver um e-a nýja skipun til að slökkva á þessu, eða er ég dæmdur til að hlusta á þessi leiðindi um ókomna framtíð? =)"
+        },
+        {
+            "user": "Booger",
+            "user_id": "1132",
+            "date": "2001-06-01 12:17:11",
+            "id": "198312",
+            "reply_to_id": "198311",
+            "text": "hey það er bara kewl að heyra “gauntlet” :)"
+        },
+        {
+            "user": "KoRn",
+            "user_id": "1137",
+            "date": "2001-06-01 16:26:26",
+            "id": "198313",
+            "reply_to_id": "198311",
+            "text": "Hva? otur getur þú náð impressive?? :D"
+        }
+    ]
+}

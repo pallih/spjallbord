@@ -1,0 +1,389 @@
+{
+    "forum_title": "Vélbúnaður",
+    "user": null,
+    "user_id": null,
+    "date": "2002-05-12 23:14:45",
+    "title": "Hvernig örgjafar virka... AMD Yfirklukkun",
+    "text": "Mér datt bara í hug að koma með smá grein um hvernig örgjafar og yfirklukkun virka og hvað er best að gera til að fá öfluga tölvu fyrir mikinn og lítinn pening…\nÖrgjafi (CPU):\nAmd og Intel eru aðal framleiðsluaðilar örgjafa í dag eins og flestir vita… Amd eru mikið ódýrari en hafa hærri bilanatíðni.\nIntel eru hinsvegar mun dýrari og endingarlengri. AMD skýrir örgjafana sína (MP&XP Athlonana) Eftir getu þeirra samanborið við Intel örgjafana t.d Amd Athlon 1500XP+ gengur á 1320mhz Hraða.\nMargir segja að AMD hafi vanmetið Athlon XP örgjafana og t.d 1500XP+ gengur stundum hraðar en 1600mhz intel Pentium 4.\nMóðurborð:\nHérna koma ASUS og ABIT best inn, fyrir yfirklukkun allavega, annars eru MSI móðurborð góð og AOpen einnig.\nMinni:\nÞú velur þér eina af þrem tegundum af mynni SDRAM 133PC, DDR 266-400PC og RDRAM 533-1200PC. SDRAM er það sem flestir  venjulegir notendur eru með, þetta gamla góða..Ég mæli líka með því fyrir yfirklukkun því það hitnar mikið minna en DDR minni. DDR stendur fyrir Double Data Rate.. sem segjir okkur að það er helmingi hraðara en SDRAM, ddr er dýrara en SDRAM. RDRAM (RAMBUS, RIMM) Þetta er það fljótasta á markaðnum í dag, þetta styður aðeins Intel örgjafa og er meira en helmingi dýrara en hin tvö. Yfirklukkari notar ALDREI minna en 265 innra mynni, ég nota sjálfur 512 en er að hugsa um að fá mér 1024 =)\nSkjákort:\nÞetta skiptir ekkert of miklu máli þegar yfirklukkun á sér stað, auðvitað er hægt að yfirklukka skjákortið en gerir það eithvað gagn? =)\nÓdýr skjákort eru GeForce 2 kortin og þá mæli ég með GeForce 2 GTS 32mb sem kostar 5-10 þús, annars eru til GeForce 4 Ti4000-4600 sem eru á 40.000 til 60.000 þúsund.\nOrkugjafi (Power Supply):\nÞegar yfirklukkun á sér stað er best að vera með sem öflugastan orkugjafa, ef örgjörfinn fær ekki næga orku getur hann skemmst.\nNúna, að yfirklukkuninni sjálfri, það sem þú þarft er allt þetta+góð kæling..ég sjálfur er búinn að panta freonkældann kassa sem kælið örgjafann niður í um mínus 10-20 gráður C°. Annars mæli ég með dragon eða cooler master kössunum sem eru mjög heppilegir til að setja auka viftur í.\nMunið:\n!!HITINN ER ÓVINURINN!!\nÞessvegna skiptir öllu máli að vera með kallt loft sem streymir inn í kassann þinn og heitt loft sem fer útúr honum alltaf. Þetta er gert með því að bæta við viftum. Sjálfur er ég búinn að bora fyrir viftugötum í hliðina á mínum kassa til að fá loft kallt loft inní hann. síðan eru göt ofarlega á honumm til að ýta heita loftinu út (hitinn leitar upp)\nÖrgjafinn ykkar virkar á þennann hátt:\nÍ örgjafanum er svonefndur MULTIPLIER og annað sem nefnist FBS (frontside busspeed) þessir tveir hlutir sinnumaðir ákvarða hraðann á örgjafanum þínum. semsagt multipler x FBS= hraðinn á örranum… Ég er að nota amd athlon 1800xp+ sem er með multiplier 11.5 og FBS er 140, 11.5x140=1610 .venjulega gengi hann á 11.5x133=1530 , en ég hækkaði FBS uppí 140 til að gera hann hraðari\nþetta heitir að overbussa, við þetta fór líka hitinn á örgjafanum frá 20C° uppí 25C°. Þegar ég ætlaði að hækka það meira kom\nvandamál. Með venjulegri kælingu vill FBS hraðinn ekki fara upp um meira en 140 og á ekki að gera það, windowsið startaðist ekki og ég þurfti að lækka FBS aftur frá 145 í 140. Ég veit ekki nákvæmlega skýringuna á þessu en ég á eftir að komast að því seinna. Þannig núna var ég fastur í 1610 mhz með 1.8 AMDinn minn\n(1610 er hraðinn á 1.9 AMD btw:). Þarna kom vandamál sem ég varð að laga, því auðvitað vildi ég overclocka meira, ég fer og reyni að hækka Multiplierinn frá 11.5 uppí 12 með því að ýta á litla takka á móðurborðinu. Ekkert gerist og ég skil ekkert í neinu.\nÞað sem ég komst að er það að Multiplierinn er neflilega aðeins jafn hár og L brýrnar (bridges) á örgjafanum, á mínum örra eru 11 og hálf L brír..þú sérð L brírnar með því að lesa örsmáu stafina á örgjafanum sjálfum (L1,L2,L3…). Hérna kemur að því erfiða við að yfirklukka AMD örgjafa þú þarft að breyta L1 brúnni og þá er þetta komið, þetta er mjög flókið ferli og hver sem gerir þetta gerir það á SÍNA EIGIN ÁBYRGÐ, ÁBYRGÐIN Á ÖRGJAFANUM TAPAST VIÐ AÐ GERA ÞETTA OG ÉG NÉ HUGI.IS TÖKUM ENGA ÁBYRGÐ Á ÞVÍ:\nLeiðbeyningar er að fynna hérna:\nþetta er mjög skýrt og vel gert myndband sem sem er búið til af mönnum á\nhttp://www6.tomshardware.com\n(já það er\nhttp://www6.)\nEf þú ert að hugsa um að overclocka mæli ég með þessum síðum:\nhttp://www.overclockers.com\nhttp://www.ocshoot.com\nKassinn  sem ég er að nota er freonkældur og fæst hér\nhttp://www.vapochill.com\neða hér\nhttp://www.asetek.com\nEndilega Spurja mig um eithvað =)\nVona að þetta hafi hjálpað einhverjum.\nTakk Fyri",
+    "url": "https://www.hugi.is/velbunadur/greinar/76862/hvernig-orgjafar-virka-amd-yfirklukkun/",
+    "url_id": "76862",
+    "id": "543175",
+    "replies": [
+        {
+            "user": "izelord",
+            "user_id": "1143",
+            "date": "2002-05-13 10:12:33",
+            "id": "543176",
+            "reply_to_id": "543175",
+            "text": "áður en ég les þetta langar mér að vera fyrstur að benda þér á ÖRGJÖRVA"
+        },
+        {
+            "user": "izelord",
+            "user_id": "1143",
+            "date": "2002-05-13 10:17:27",
+            "id": "543177",
+            "reply_to_id": "543175",
+            "text": "Ok, og núna er mar búnað lesa þetta. Þetta er ágæt grein hjá þér. Ég myndi þí vilja nota DDR ram sem er TVÖFALT hraðara (ég hata þegar notað er “helmingi hraðara”).\nSvo langar mig að ráða fólki frá því að yfirklukka skjákortin sín nema það fái sér nógu góða kælingu. Kælingin sem fylgir með skjákortunum er frekar léleg og oft undir standardi. Þeir eru hálfvitar sem overklokka skjákort sem eru án viftu."
+        },
+        {
+            "user": "Beerbelly",
+            "user_id": "18028",
+            "date": "2002-05-13 10:34:49",
+            "id": "543178",
+            "reply_to_id": "543177",
+            "text": "Helmingi þýðir 50% meira!! tvöfalt meira þýðir 100% meira!! sumir fatta þetta bara ekki!!! :)\nkv Beerbelly"
+        },
+        {
+            "user": "izelord",
+            "user_id": "1143",
+            "date": "2002-05-13 10:57:06",
+            "id": "543179",
+            "reply_to_id": "543178",
+            "text": "beerbelly, my point exactly :)"
+        },
+        {
+            "user": "Rx7",
+            "user_id": "2726",
+            "date": "2002-05-13 11:24:42",
+            "id": "543180",
+            "reply_to_id": "543179",
+            "text": "sorrí, en ég er bara búna vera að lesa greinar hérna þar sem fólk segjir örgjafi í staðin fyrir örgjörfa, líka stittra að skrifa það ;)\nég gleymdi að setja inn linkinn fyrir myndbandið,\nþetta er hann :\nhttp://www6.tomshardware.com/column/01q4/011124/video2_ocingxp-03.html\nsíðan  er ég líka að auglýsa eftir eikkuru sem hefur unlockað örrann sinn eða er að fara að gera það, ég að fara að gera það við 1.7 xpinn minn til að æfa mig og svo við 1.8 þann sem ég nota"
+        },
+        {
+            "user": "Rx7",
+            "user_id": "2726",
+            "date": "2002-05-13 13:14:34",
+            "id": "543181",
+            "reply_to_id": "543180",
+            "text": "Fyrir utan þetta klúðraða nafn á greininni (hata þegar fólk segir örgjafi, fer meira í taugarnar á mér en þegar fólk segir talva) þá er það FSB ekki FBS, FrontSide Bus en ekki Frontside BusSpeed.\nSvo er SDRAM EKKI gott til yfirklukkunar því að þá ertu að gera yfirklukkið þitt að engu útaf flöskuhálsinum sem myndast.\nSvo þarftu sérvaldar minniseiningar til að þola 140mhz FSB, CL2 minni (sem eru mestar líkur á að þoli þetta) kostar miklu meira en venjulegt minni.\nFyrir utan það þá er tilgangslaust að vera að hækka FSB þegar þú ert búinn að opna lásinn á örranum því að þá geturu stillt multiplierinn í BIOSnum (á öllum nýjum móbóum amk).\nSvo talarðu ekkert um Vcore (voltage á örranum sjálfum) en það þarf líka að hækka til að þú getir nauðgað örranum eikkað upp.\nLoftkælin dugar ekki lengur þegar þú ert farinn að overclocka AMD XP því að þeir hitna alveg nógu mikið venjulega (menn hafa til dæmis spælt egg á 1500XP). Í stað loftkælingar þarf vatnskælingu, sem kostar eitthvað á bilinu 15.000kr til 30.000kr. Svo ert þú að tala um freonkælda kassa… já það er athyglisvert því vapochill td kostar í danmörku 5689Dkr sem yrði uþb 80.000kr komið hingað plús sendingar kostnaður.\nÁður en þú skrifar næstu grein lestu þig aðeins betur til og farðu á námskeið í íslenskri stafsetningu.\nRx7"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-13 15:52:42",
+            "id": "543182",
+            "reply_to_id": "543181",
+            "text": "reyndar er það Frontside BusSpeed"
+        },
+        {
+            "user": "UglyKidJoe",
+            "user_id": "21332",
+            "date": "2002-05-13 21:08:40",
+            "id": "543183",
+            "reply_to_id": "543181",
+            "text": "Rx7.\nÉg var með FSB 146 á cheap ass venjulega minni úr tölvulistanum. Ég þurfti ekki að kaupa mér CL2 minni til þess.\nÞað er ekki tilgangslaust að hækka fsb þegar þú ert með aflæstan multiplier. Þú getur ekki farið hærra en 12 (12.5 sum borð) á multiplier á amd örgjörvum.\nLofkælingin dugar alveg ef þú veist hvað þú ert að gera.\nÁður en þú skrifar næsta svar lest ÞÚ þér aðeins betur til!"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-14 10:43:57",
+            "id": "543184",
+            "reply_to_id": "543183",
+            "text": ""
+        },
+        {
+            "user": "UglyKidJoe",
+            "user_id": "21332",
+            "date": "2002-05-14 10:47:22",
+            "id": "543185",
+            "reply_to_id": "543183",
+            "text": "takk fyrir commentin, þetta er fyrsta greinin sem ég skrifa EVER (érr 14 ára) á huga og nokkurstaðar, það er FSB sorry  en síðast þegar ég las það á eikkuru forumi sá ég það skrifað FBS og fór eftir því. Ég er að fara að kaupa DDR mynni annars staðar og nenni ekki að panta frá útlöndum. Eikkurar hugmyndir hvar þetta er ódýrast?? Hvaða aðferð notaðiru við að unlocka og hvaða örra unlockaðiru? Notaðiru aðferðina sem er í myndbandinu?"
+        },
+        {
+            "user": "UglyKidJoe",
+            "user_id": "21332",
+            "date": "2002-05-14 11:43:37",
+            "id": "543186",
+            "reply_to_id": "543185",
+            "text": "Ég get ekki séð annað en að tolvuvirkni.net sé ódýrastur í DDR minni,\nÉg er búinn að skoða alla helstu staði.\nbye."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-14 15:39:10",
+            "id": "543187",
+            "reply_to_id": "543185",
+            "text": "Chase:\nAðferðin sem ég notaði til þess að aflæsa multiplierinn er sú sem gefin er upp í myndbandinu á tomshardware.\nÞú getur fengið leiðandi silfur lakk í Íhlutum (þeirri yndislegu verslun:)\nÞarft bara að passa að vera vandvirkur og þolinmóður. Þá gengur þetta allt saman upp á endanum.\nOg já, ég var með 1700xp örgjörva."
+        },
+        {
+            "user": "Rx7",
+            "user_id": "2726",
+            "date": "2002-05-14 15:27:01",
+            "id": "543188",
+            "reply_to_id": "543183",
+            "text": "Vectro\nJá Loftkæling dugar fínt ef þú veist hvað þú ert að gera… ef þú ert sáttur við að tölvan hljómi eins og þota í flugtaki.\nÞað er reyndar rétt hjá þér með hvað minnið þolir ég var að hugsa um annað.\nHinsvegar er EKKI rétt hjá þér að það sé ekki hægt að fara hærra en 12 (12.5) í multiplier, ég veit ekki hvers konar móbó þú ert búinn að vera að fikta í en ef þú kíkir hingað:\nhttp://www4.tomshardware.com/howto/01q4/011112/athlonxp2000oc-07.html\nþá sérðu screenshot af BIOS sem fer allt uppí 15 multiplier og 15*133=1995 sem er plentí til að grilla hvaða AMD örgjörfa sem er þannig að þú sérð að FSB hækkun er óþörf.\nÉg les mér til, en þú?\nRx7"
+        },
+        {
+            "user": "Rx7",
+            "user_id": "2726",
+            "date": "2002-05-14 15:27:04",
+            "id": "543189",
+            "reply_to_id": "543183",
+            "text": "Vectro\nJá Loftkæling dugar fínt ef þú veist hvað þú ert að gera… ef þú ert sáttur við að tölvan hljómi eins og þota í flugtaki.\nÞað er reyndar rétt hjá þér með hvað minnið þolir ég var að hugsa um annað.\nHinsvegar er EKKI rétt hjá þér að það sé ekki hægt að fara hærra en 12 (12.5) í multiplier, ég veit ekki hvers konar móbó þú ert búinn að vera að fikta í en ef þú kíkir hingað:\nhttp://www4.tomshardware.com/howto/01q4/011112/athlonxp2000oc-07.html\nþá sérðu screenshot af BIOS sem fer allt uppí 15 multiplier og 15*133=1995 sem er plentí til að grilla hvaða AMD örgjörfa sem er þannig að þú sérð að FSB hækkun er óþörf.\nÉg les mér til, en þú?\nRx7"
+        },
+        {
+            "user": "Rx7",
+            "user_id": "2726",
+            "date": "2002-05-14 15:36:46",
+            "id": "543190",
+            "reply_to_id": "543189",
+            "text": "Rx7 : Mikið rétt hjá þér. Valmöguleikarnir fyrir alveg upp í 15 multiplier eru til staðar eins og er. EN. Engin xp örgjörvi styður hærri en 12.5 (13) á multipliernum. Á síðunni sem þú bentir mér á , sem ég hef btw lesið oft og mörgum sinnum, þar kemur einfaldlega ekki neitt fram sem kallast 15*133=1995, heldur aðeins 12.5x133=1670,45mhz.\nMóðurborðið mitt styður til dæmis multiplier upp í 15, en það er bara ekki hægt að nota þá sem stendur.\nÉg les mér til já. Lest þú þér betur til :)"
+        },
+        {
+            "user": "Rx7",
+            "user_id": "2726",
+            "date": "2002-05-14 15:52:59",
+            "id": "543191",
+            "reply_to_id": "543190",
+            "text": "Ok, tekinn.\nÞað er rétt hjá þér, eina leiðin til að ná XP upp fyrir 1670 er að tjakka upp FSB.\nDamn! Hata að hafa rangt fyrir mér.\nTHG náði XP uppí 1912,23 með því að setja FSB í 152,98.\nOf fljótur á mér.\nRx7"
+        },
+        {
+            "user": "kjwise",
+            "user_id": "993",
+            "date": "2002-05-14 16:14:54",
+            "id": "543192",
+            "reply_to_id": "543191",
+            "text": "Hvað kostar svona lakk?"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-14 16:34:57",
+            "id": "543193",
+            "reply_to_id": "543192",
+            "text": "Chase: 2 eða 3 grömm! af þessu lakki kosta minnir mig 990kr."
+        },
+        {
+            "user": "kjwise",
+            "user_id": "993",
+            "date": "2002-05-14 16:35:48",
+            "id": "543194",
+            "reply_to_id": "543192",
+            "text": "Alpha 8065 heatsinkinn minn loftkælir örrann bara allveg ágætilega ásamt artic silver 2 og panaflo viftu sem ekkert heyrist í.\nAftur á móti er maður alltaf á leiðinni að smíða kassa með tvöföldu hljóðeinangrandi froðulagi en eitthverja hluta vegna kemur maður sér aldrei til þess ;)\nOg í sambandi við loftkælingu, þá verður kassinn að vera vel þéttur og lokaður nema þar sem að loftinntak á sér stað, og loftúttak verður að vera nógu gott til þess að loftflæði sé sem best, auk þess sem passa verður upp á staðsetningu kapla og rafvíra inn í kassanum þannig að þeir séu ekki að hindra loftflæði.\nÓdýr lausn til þess að minka ide-kapla er að bretta upp á þá tvöfalt langsum og nota tape."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-14 16:34:06",
+            "id": "543195",
+            "reply_to_id": "543191",
+            "text": "rx7: Jamms. og þá vitum við það. Allir sáttir yes?\nHefði svosem ekkert á móti 1912.23 mhz amd örgjörva :)"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-13 21:04:35",
+            "id": "543196",
+            "reply_to_id": "543180",
+            "text": "Chase: ég hef aflæst örgjörvanum. það er svosem ekkert mál ef þú vandar þig bara."
+        },
+        {
+            "user": "Toturus",
+            "user_id": "10131",
+            "date": "2002-05-13 12:36:20",
+            "id": "543197",
+            "reply_to_id": "543175",
+            "text": "Flott grein!  Ætla ekki að vera að bögga þig út af stafsetningarvillum og dæmi eins og SUMIR :Þ\nEn það eru nokkrar spurningar hérna frá mér:\nHeyrist eitthvað meira í þessum “freonkælda” kassa, hvað kostaði hann?  Er hann eitthvap meira hljóðeinangraður?\nEr einhver tilgangur í svona kassa nema fyrir overclock?  Þeas.  svo að íhlutirnir ofhitni ekki.\n3) SDRAM vs. DDR  Ég veit um muninn…en er þetta eitthvað sem maður tekur rosalega eftir?  Er þetta þess virði að vera að eyða meiri pening í?"
+        },
+        {
+            "user": "krilli",
+            "user_id": "6640",
+            "date": "2002-05-13 16:03:30",
+            "id": "543198",
+            "reply_to_id": "543197",
+            "text": "Heyrist eitthvað meira í þessum “freonkælda” kassa, hvað kostaði hann? Er hann eitthvap meira hljóðeinangraður?\nþað heirist nánast ekkert í honum nema það er ein 3000rpm vifta, auðvitað á ég eftir að adda viftum =)\nEr einhver tilgangur í svona kassa nema fyrir overclock? Neipp\nSDRAM vs. DDR Ég veit um muninn…en er þetta eitthvað sem maður tekur rosalega eftir? Jamm, DDR er mun fljótara og það er það sem ég mun nota bráðlega, ég hef lesið að ddr mynnið geti hitnað of mikið en ég er að fá ramkæliviftur sem kippa því í liðinn.\nVapoChill kostar 80 þús íslenskar venjulega en ég er að fá það+socket A kit á 45 þús+400w Power supply á 45-50 þús. ^^"
+        },
+        {
+            "user": "krilli",
+            "user_id": "6640",
+            "date": "2002-05-13 16:45:04",
+            "id": "543199",
+            "reply_to_id": "543198",
+            "text": "reyndar er það FSB og hefur alltaf verið FSB\nmín spá: eftir nokkra mánuði áttu eftir að sjá að fjörtíu-fimmtíuþúsundkallinn sem þú ert að eyða í þennan fína kassa var ekkert sérstaklega góð fjárfesting því þú ert ekki búinn að kynna þér þessi mál nægilega vel."
+        },
+        {
+            "user": "gunniwho",
+            "user_id": "7592",
+            "date": "2002-05-13 17:04:30",
+            "id": "543200",
+            "reply_to_id": "543199",
+            "text": "Ég er alveg sammála krilla.\nÍ fyrsta lagi ekki varpa einhverju fram sem þú veist greinilega ekki alveg nógu mikið um; það er FSB.\nÍ öðru lagi (og aftur er ég sammála síðasta ræðumanni) þá held ég að þú eigir eftir að átta þig á því að það að kaupa kassa fyrir 45000 kall er ekki góð fjárfesting, og þar að auki mengar hann! ;)\n-Gunni Who"
+        },
+        {
+            "user": "krilli",
+            "user_id": "6640",
+            "date": "2002-05-13 12:51:05",
+            "id": "543201",
+            "reply_to_id": "543175",
+            "text": "sko\nminni er orðinn það mikill flöskuháls í tölvum í dag að þú þarft að yfirklukka meira en lítið ef þú ert nota SDRAM til að ná upp í sömu afkastagetu og eins örgjörvi óyfirklukkaður með DDR minni\nþannig að þetta með að nota SDRAM er vond ráðlegging, örgjörvahraði er alls alls ekki það eina sem skiptir máli: ef þú sveltir örgjörvann á upplýsingum gerir hann voðalega lítið fyrir þig.\nreyndar er rambus minni víst að lækka í verði núna … eitthvað lengi að því hérna á klakanum sýnist mér en það er þess virði að tékka á því hvað það kostar næst þegar menn eru að kaupa tölvu\nsvo er annað sem skiptir miklu máli: hversu GOTT minni maður er með … þ.e. hversu “hratt” minnið er, svokallað “latency” … tölvan þarf að bíða X mörg klukkutif eftir að geta sótt upplýsingar í minnið (voða flókið samt en þetta er beisiklí málið) … með SDRAM í gamla daga var þetta skrifað sirka svona: 2-2-2 eða 3-3-3 eða whatever … og semsagt 2-2-2 minni er hraðara því 3-3-3 minnið þarf eitt auka cycle í biðtíma … þýðir u.þ.b. 3-5% afkastaaukningu - sem er VEL finnanlegt\nþannig að: alltaf að kaupa sér dýrasta minnið :)\nþað fer líka upp í hærri mhz ef maður er að hækka bus-inn (og enn hærra ef 2-2-2 minni er notað á 3-3-3 … fattiði)\nog: skjákortayfirklukkun borgar sig. innbyrðis munur á t.d. geforce 3 kortum annar en minnisstærð og -hraði er nær eingöngu klukkuhraði á bæði minninu og örgjörvanum á kortinu … en jáms, eins og einhver sagði þarf að kæla skjákort vel, ekki gaman að steika sextíu þúsund króna geforce fjögur-ið sitt\nþess má líka geta að AMD örgjörvar eru almennt séð sterkari en intel örgjörvar í floating point vinnslu, þannig að ef fólk er að spuglera í hljóðvinnslu ku AMD vera góð kaup\nhmm … það er örugglega eitthvað sem ég er að gleyma en well … bah nennigi meir :D"
+        },
+        {
+            "user": "krilli",
+            "user_id": "6640",
+            "date": "2002-05-13 12:52:29",
+            "id": "543202",
+            "reply_to_id": "543201",
+            "text": "eh ég ætla að útskýra þetta betur\nALDREI ALDREI KAUPA SDRAM\nDDR er orðið ÓDÝRARA í sumum tilvikum - sjá hugver.is\nsdram er DRASL, sdram er ÚRELT og sdram mun vera FLÖSKUHÁLS á tölvunni þinni. aæt?"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-13 13:08:55",
+            "id": "543203",
+            "reply_to_id": "543175",
+            "text": "ég myndi milu frekar nota DDR-ram eins og ég geri\nen ég hef farið yfir á neyna yfirklukkun á mínum AMD 1400 MHz(Ekki XP), getiði gefið mér einhvert\ninfo um yfirklukkun á þessum örgjörva og hversu mikið græði ég á því."
+        },
+        {
+            "user": "UglyKidJoe",
+            "user_id": "21332",
+            "date": "2002-05-13 17:57:22",
+            "id": "543204",
+            "reply_to_id": "543175",
+            "text": "Þegar ég las þessa grein fyrst þá fannst mér hún ferlega flott, en þegar ég les meira þá hugsa ég: hver er tilgangurinn? jú að fá meira afl út úr örgjörfanum…. en með öllu þessu tilstandi er það þá þess virði ? spyr sá sem ekki veit er ekki bara hægt að kaupa sér öflugri örgjörva eða myndirðu þá þurfa að “klukka” hann líka? þetta er enginn smá kostnaður til að reyna að kreista meira út úr örranum en hann er gerður fyrir freon kassi og bla bla bla … Ég er með 1800+ örra geforce 4 og þetta er að virka alveg drulluvel hvað myndi td. ég  fá út úr því að yfirklukka örrann og skjákortið ?"
+        },
+        {
+            "user": "zion",
+            "user_id": "11315",
+            "date": "2002-05-13 18:00:49",
+            "id": "543205",
+            "reply_to_id": "543175",
+            "text": "Það skiptir engu máli hvað þú kælir örgjörvann mikið niður. Ástæðan fyrir því að þú nærð FSB'inum ekki hærra er móðurborðið þitt. Vönduð móðurborð styðja hærri FSB en óvönduð. 140 held ég að sé samt nokkuð gott. Að vera með SDRAM við XP örra er hins vegar ekki gott.\nEinhversstaðar sá ég á netinu þar sem náungi hafði kælt örgjörvann sinn niður í -50°C minnir mig, með því að nota fljótandi nitur og þurrís. Örgjörvinn virkaði ekki eðlilega við það hitastig.\nÞað eru ýmis atriði sem þú gleymdir að minnast á. Til dæmis það að hægja á PCI og AGP raufunum þegar þú hraðar FSB'inum. Hvað þú ert með mikið minni kemur yfirklukkuninni ekkert við. Magn minnis er almennt lágmark 256Mb í dag, amsk. ef maður keyrir WinXP og gerir annað en bara að vafra um netið."
+        },
+        {
+            "user": "tran",
+            "user_id": "59",
+            "date": "2002-05-13 21:03:41",
+            "id": "543206",
+            "reply_to_id": "543175",
+            "text": "Ok. Sorry. En þúst.. Halló. Ég tók minn 1700xp upp í 2200xp (1456 = 1752)mhz. Ég þurfti engan helvítis freonkældan kassa né vatnskælingu. Ég notaði.. Loftkælingu. Já. Loftælingu við 16 gráður örgjörvi og 12 gráður kassi.\n146fsb x 12 multiplier = 1752 mhz. (aflæstur muliplier)\nMinnið var ósköp eðlilegt úr tölvulistanum sem ég setti í cas 2 í biosnum. Vcore fór í það hæsta sem hann þurfti að vera og minnis voltage hækkaði líka um .1 eða svo."
+        },
+        {
+            "user": "tran",
+            "user_id": "59",
+            "date": "2002-05-14 22:09:22",
+            "id": "543207",
+            "reply_to_id": "543206",
+            "text": "Ok. Sorry. En þúst.. Halló. Ég tók minn 1700xp upp í 2200xp (1456 = 1752)mhz. Ég þurfti engan helvítis freonkældan kassa né vatnskælingu. Ég notaði.. Loftkælingu. Já. Loftælingu við 16 gráður örgjörvi og 12 gráður kassi.\n———————————\njahá.. 12 gráður kassi?\nertu í snjógalla inni hjá þér?\nvenjulegur herbergishiti er um 22°c, og þú kemur kassanum ekki niður fyrir það, hvað þá örgjörvanum..\nláttu athuga hitamælana á móðurborðinu þínu :P\nps, ég hætti að nenna þessu yfirklukkunardrasli en ég náði atlhon 1400mhz(ekki xp) örgjörvanum mínum í 1650 mhz, 165mhz FSB * 10 með abit kg7-raid, crucial DDR cl2 minni og thermaltake SK-6 með delta viftu ef einhver hefur áhuga..\nfyrir mánuði snappaði ég og brjálaðist á hljóðinu, resettaði biosinn og reif 3 viftur úr tölvunni og setti sunon viftu á örgjörvan..\nég fann engann mun =)\nwhat a waste of money"
+        },
+        {
+            "user": "tran",
+            "user_id": "59",
+            "date": "2002-05-14 23:45:25",
+            "id": "543208",
+            "reply_to_id": "543207",
+            "text": "Snjógalli nei. Finndu kork sem heitir : Hver þarf vatnskælingu, þú getur lesið betur um það þar hvernig ég fer að þessu.\nathlon 1400/1650. ok . Hvaða vcore stillingu varstu með, voltage á minni, hitastig á örgjörva fyrir og eftir klukkun, virkuðu semsagt öll pci kort við þennan klukkuhraða? ef svo er, hvaða pci kort ertu þá með, þó aðallega hljóðkort og netkort. Einnig hvers konar skjákort. Einnig hvaða stillingar varstu með á minninu sjálfu?"
+        },
+        {
+            "user": "tran",
+            "user_id": "59",
+            "date": "2002-05-15 00:43:44",
+            "id": "543209",
+            "reply_to_id": "543208",
+            "text": "veistu það er svo langt síðan ég var að vesenast í þessu að ég bara man ekki allt þetta =)\nskal reyna að koma með það sem ég man..\nvcore: 2.85(hæðsta)\ni/o voltage: 3.65(minnir mig, allavega það hæðsta sem ég gat stillt á)\nDDR voltage(straumurinn á minninu): 2.92(minnir mig, ekki 100%)..\nminnir að örgjörvinn hafi verið á um 50°c undir 100% load eftir 12 tíma stress test keyrslu(3dmark 2001 loopað og prime95 í stress test mode ásamt seti@home)..\njá, pci kort virkuðu, er með 3com 3c905b 100mb netkort, sblive 5.1 platinum og MSI geforce 2 pro 64mb…\nég man ekki hvaða stillingar ég var með á minninu nema það var stillt á cl 2.. ég átti einhverstaðar PDF skrá sem var með stillingarnar sem ég fór eftir.. eitthvað KG-7 tweak guide..\n*leitaáharðadisknum*\nfann ekki.. :P\ntake 2:\nhttp://www.overclockers.co.uk/files/OcUK_ABIT_KG7_Guide.pdf\nnotaði  þetta"
+        },
+        {
+            "user": "galldur",
+            "user_id": "8965",
+            "date": "2002-05-14 18:05:17",
+            "id": "543210",
+            "reply_to_id": "543175",
+            "text": "Hvernig örgjafar virka… AMD Yfirklukkun eftir chase\nþví miður stendur ekki baun um hvernig þeir virka bara hvernig á að skemma þá"
+        },
+        {
+            "user": "mephesto",
+            "user_id": "21559",
+            "date": "2002-05-15 13:49:06",
+            "id": "543211",
+            "reply_to_id": "543175",
+            "text": "Þetta er snilldar hugmynd hjá þér, en ertu ekki hræddur um að bræða rásirnar í örgjafanum. Bara spurði?"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-15 18:17:35",
+            "id": "543212",
+            "reply_to_id": "543211",
+            "text": "Mephesto: Ég hef svosem ekki stórar áhyggjur af því að bræða rásirnar í örgjörvanum. Hef reyndar stútað einum 1700xp vegna forvitni.. :p\nvissuð þið að 1700xp örgjörvi án heatsink og viftu byrjar að rjúka tveimur sekúndum eftir að þið kveikjið á vélini :) Mæli ekki með því."
+        },
+        {
+            "user": "CorFlame",
+            "user_id": "1184",
+            "date": "2002-05-15 14:04:38",
+            "id": "543213",
+            "reply_to_id": "543175",
+            "text": "Gott framtak hjá þér, en nokkur atriði sem ég er ekki sáttur við:\n> Örgjafi (CPU):\nAmd og Intel eru aðal framleiðsluaðilar örgjafa í dag eins og flestir vita… Amd eru mikið ódýrari en hafa hærri bilanatíðni.\nHvað hefur þú fyrir þér í því að AMD bili meira? Hljómar eins og Intel FUD í mínum eyrum. A.m.k. að rökstyðja.\n> Orkugjafi (Power Supply):\nÞegar yfirklukkun á sér stað er best að vera með sem öflugastan orkugjafa, ef örgjörfinn fær ekki næga orku getur hann skemmst.\nÞetta er í fyrsta skipti sem ég heyri það að hann “skemmist”. Málið er að örgjörvinn skemmist ekki, hann bara virkar ekki sem skyldi ef hann fær ekki nægan straum. (einu tilfellin þar sem hann getur skemmst er ef verið er að hækka vcore uppúr öllu valdi).\nAllt annað athugavert við þessa grein er nú þegar búið að koma fram.\nLangar líka til að benda á það að það svarar ekki kostnaði að yfirklukka nú orðið, með öllum þeim aukakælingum og dóti sem því fylgir þá geturðu venjulega keypt hraðvirkari CPU fyrir sömu eða lægri upphæð…"
+        },
+        {
+            "user": "tran",
+            "user_id": "59",
+            "date": "2002-05-15 14:25:40",
+            "id": "543214",
+            "reply_to_id": "543213",
+            "text": "úff hvað ég er sammála corflame í öllum atriðum, sérstaklega með bilanatíðnina..\nmenn eiga það til að sletta því að amd sé með hærri bilanatíðni..\nnumbers please?"
+        },
+        {
+            "user": "cornelius",
+            "user_id": "170",
+            "date": "2002-07-04 14:33:21",
+            "id": "543215",
+            "reply_to_id": "543214",
+            "text": "amd lagga"
+        },
+        {
+            "user": "Mercier",
+            "user_id": "737",
+            "date": "2002-07-05 12:23:19",
+            "id": "543216",
+            "reply_to_id": "543215",
+            "text": "Eitt sem ég er ekki alveg að skilja\nef takmarkinu er náð að koma 1800xp\nupp í 1900xp af hverju þá ekki að kaupa\nhann bara strax það munar eihverjum\n3-4000 kalli.\nþú getur örugglega sparar þér heilmikinn\npening og farið og fengið þér nýtt skjákort..\neða er það kannski þannig að ég er að\nmissa pointið af þessu brölti….\nMercier(mAIm)"
+        },
+        {
+            "user": "UglyKidJoe",
+            "user_id": "21332",
+            "date": "2002-05-16 16:53:02",
+            "id": "543217",
+            "reply_to_id": "543213",
+            "text": "Einmitt það sem ég hélt\nog var að reyna að fá svar við\nTil hvers að vera að þessu?\nSvarar ekki kostnaði."
+        },
+        {
+            "user": "Kahuz",
+            "user_id": "1164",
+            "date": "2002-05-16 19:56:54",
+            "id": "543218",
+            "reply_to_id": "543175",
+            "text": "hér er of mikið að hlutum sem eru vitlausir/illa komið frá ser….. og ég nenni ekki að nefna…\nágætiss grein..\n…out"
+        },
+        {
+            "user": "ttcmp",
+            "user_id": "17003",
+            "date": "2002-05-17 21:34:08",
+            "id": "543219",
+            "reply_to_id": "543175",
+            "text": "Fín grein (fyrir utan stafsetnyngarvillur hjá mörgum sem að henni komu)\n…stafsetningarvillur meinti ég.. hehe :)"
+        },
+        {
+            "user": "dfender",
+            "user_id": "2550",
+            "date": "2002-06-11 19:53:44",
+            "id": "543220",
+            "reply_to_id": "543175",
+            "text": "híhí´pabbi er að smíða Freon kælingu á örgjörvann (AMD Athlon 1400 Mhz sem er overclockaður í 1466MHz just for the fun of it) :D og við ætlum að reyna að koma örgjörvanum uppí 2Ghz :D"
+        },
+        {
+            "user": "Vanvitinn",
+            "user_id": "4323",
+            "date": "2002-07-01 20:46:37",
+            "id": "543221",
+            "reply_to_id": "543175",
+            "text": "http://www.computer.is/nupplysingar.asp?id=1502\ner eitthvað vit í þessu??????\nsegjast kæla kassann um 85%\nog losar ú heita loftið…"
+        },
+        {
+            "user": "lars",
+            "user_id": "15123",
+            "date": "2002-07-10 19:54:53",
+            "id": "543222",
+            "reply_to_id": "543175",
+            "text": "AMD er rusl sem er ekki að virka..\nef viftan hættir að kæla í minna en 1 sec þá bræðir AMD úr sér og móðurborðinu\nen Pentium frís eða hægir á sér\n= skemmir ekki neitt"
+        }
+    ]
+}

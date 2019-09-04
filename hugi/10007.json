@@ -1,0 +1,93 @@
+{
+    "forum_title": "Vefsíðugerð",
+    "user": "havh",
+    "user_id": "497",
+    "date": "2000-11-28 09:58:27",
+    "title": "Áhugaverð skoðanakönnun.",
+    "text": "Margt mjög áhugavert þegar fólk er að velja sér gagnagrunna.  Hvað er hið eina rétta.  Fannst að vísu grátlega að ekki var gagnagrunnurinn DB2 þarna inni en svona er lífið.\nHverjum datt í hug að segja að Access sé gagnagrunnur?  Þetta er fyrirspurnartól!\nVal á gagnagrunnum er mjög misjafnt, en best er að flokka gagnagrunna eftir stærð gagna og véla sem þeir keyra á.\nHér ætla ég að segja nokkra flokka út frá minni skoðun.\nMid-range:\nOracle, keyrir á unix.\nDB2, Lítt þekktur grunnur frá IBM, samt sá eini sem þolir einhverja samkeppni við Oracle.  keyrir á unix, as400.\nEkki spurning þessir 2 gagnagrunnar eru þeir einu sem þola svona stórar vélar.  Oft þarf að vera með hundruði notenda loggaða inn í einu.  (og SQL-Server keyrir ekki á stórum vélum (unix/as400), nema þær séu clusteraðar og þá ertu hvort eð er kominn með höfuðverk.\nLitlir serverar:\nOracle Personal\nDB2\nMySql\nSql-Server\nInformix\nHérna verður samkeppnin öllu harðari.  Ótvíræður kostur Oracle & DB2 samt er að þeir keyra á öllum vinsælum platformum (unix, linux, nt) og því lítið mál að flytja á milli gögn á milli.  Einnig er mjög lítið mál að vera með bæði DB2 og Oracle þar sem compatibility á milli þeirra er mjög gott(tengingar á milli grunna).\nMySql nálgast þessa grunna meir og meir.\nSíðast þegar ég notaði Sql-Server þá var það útgáfa 6.5, hef heyrt að 7-an sé orðin stabílli (ekki veitti af) og að það geri hann að góðum grunn loksins.\nInformix,  Hef ekki þekkingu á honum til að vera fær um að dæma hann en hann hefur löngum kept við Oracle.\nHelstu kostir gagnagrunna, þar sem ekkert nýtt hefur komið í relational gagnagrunnum síðustu 10 ár (þá er ég ekki að tala um build upon fídusa) er portability, og þar einfaldlega finnst mér Oracle & DB2 standa uppúr.\nKveðja\nhavh/Is",
+    "url": "https://www.hugi.is/vefsidugerd/greinar/10007/ahugaverd-skodanakonnun/",
+    "url_id": "10007",
+    "id": "58397",
+    "replies": [
+        {
+            "user": "Moose",
+            "user_id": "4615",
+            "date": "2000-11-28 13:36:16",
+            "id": "58398",
+            "reply_to_id": "58397",
+            "text": "blessar\nYou said:\nFannst að vísu grátlega að ekki var gagnagrunnurinn DB2\nog svo:\nDB2, Lítt þekktur grunnur frá IBM\naugljost fannst mer ad folk her a huga mundi 1) ekki vita hvad DB2 se 2) ad thad mundi enginn nota DB2 3) Thad hefdi enginn efni a thvi\neg hafdi access thanna inni vegna thess ad thad er notad a vefsidum ekki satt? og sennilega flestir sem eru eitthvad ad brasa i ASP nota Access, allavega til ad byrja med, og svo er audvelt ad upgrade-a access til SQL server."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2000-11-28 15:04:06",
+            "id": "58399",
+            "reply_to_id": "58397",
+            "text": "Informix gæti nú alveg setið við hlið Oracle og DB2 á listanum fyrir Mid-range."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2000-11-28 16:08:03",
+            "id": "58400",
+            "reply_to_id": "58397",
+            "text": "Hvað um Informix, ha?"
+        },
+        {
+            "user": "oddur",
+            "user_id": "150",
+            "date": "2000-11-28 16:15:05",
+            "id": "58401",
+            "reply_to_id": "58397",
+            "text": "Ég er einn af þessum hálvitum sem nota access og það er einfaldlega vegna þess að ég er byrjandi í öllu flóknara en HTML og hann er nothæfur og ég er með hann á tölvunni."
+        },
+        {
+            "user": "oddur",
+            "user_id": "150",
+            "date": "2000-11-28 19:34:47",
+            "id": "58402",
+            "reply_to_id": "58401",
+            "text": "Access er góður grunnur fyrir fólk sem er að byrja að prófa sig áfram með relational grunna, það er ekkert dót sem er að flækja málin fyrir manni og auðvelt að búa til töflur og prufa sig áfram.\nEn Access er ekki góður í margt annað, þið þurfið fljótt að upgreida upp í eitthvað betra."
+        },
+        {
+            "user": "Moose",
+            "user_id": "4615",
+            "date": "2000-11-28 20:13:34",
+            "id": "58403",
+            "reply_to_id": "58402",
+            "text": "99% af okkur er nu ad gera eitthvad sem er ekkert svaka flokid.  Thad er ekki eins og vid seum oll ad vinna a visir.is :)\nThad goda vid access er ad med einu musarklikki er haegt ad upgreita i SQL serve"
+        },
+        {
+            "user": "Hrabby",
+            "user_id": "5648",
+            "date": "2000-11-29 16:55:31",
+            "id": "58404",
+            "reply_to_id": "58401",
+            "text": "Ég er líka einn af þessum háfvitum sem byrjuðu að nota Access til að læra (í Háskólanum), núna er ég að læra á Oracle (í Háskólanum) og finnst ágætt að hafa lært á Access grunninn.\nHrabby"
+        },
+        {
+            "user": "Phantom",
+            "user_id": "15974",
+            "date": "2000-11-28 17:02:11",
+            "id": "58405",
+            "reply_to_id": "58397",
+            "text": "hmmm sá heldur ekki aðalkeppinaut mySQL á linux, nefnilega postgreSQL."
+        },
+        {
+            "user": "Skarsnik",
+            "user_id": "213",
+            "date": "2000-11-29 12:10:37",
+            "id": "58406",
+            "reply_to_id": "58397",
+            "text": "Það er víst hægt að segja að Access sé gagnagrunnur.  Þú getur t.d. notað Access .mdb skrár í ASP (í gegnum OLEDB eða ODBC)"
+        },
+        {
+            "user": "source",
+            "user_id": "950",
+            "date": "2000-11-29 16:18:44",
+            "id": "58407",
+            "reply_to_id": "58406",
+            "text": "fæ ég stig?"
+        }
+    ]
+}

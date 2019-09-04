@@ -1,0 +1,37 @@
+{
+    "forum_title": "Vélbúnaður",
+    "user": "staypaid",
+    "user_id": "68596",
+    "date": "2009-04-29 07:31:11",
+    "title": "Hjálp - var að formata.",
+    "text": "Hæhæ,\nÉg er ný búinn að formata tölvuna mína og setja upp windows xp. En málið er .. ég kemst ekki inn á netið.\nÉg er að nota snúru. En það er líka annað vandamál í device manager þá eru ? hjá:\nMultimedia controller.\nMultimedia video controller.\nOther PCI bridge device.\nPCI device.\nSM bus controller.\nVideo controller. (vga compatible)\nVideo controller. (vga compatible)\nGetur einhver hjálpað mér með þetta. Takk!\nBætt við 29. apríl 2009 -  07:36\nÉg er frekar lélegur með svona tölvu dót :",
+    "url": "https://www.hugi.is/velbunadur/korkar/654260/hjalp-var-ad-formata/",
+    "url_id": "654260",
+    "id": "6648946",
+    "replies": [
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2009-04-29 07:50:22",
+            "id": "6648950",
+            "reply_to_id": "6648946",
+            "text": "Ef að það fylgdi einhver diskur með tölvunni þinni/þrívíddarkortinu/netkortinu eða hvað sem er tengt tölvunni settu þá í og installaðu driverunum, það er það fyrsta sem maður á að gera eftir format..\nEf þú átt ekki neina þannig diska verðuru einhvernveginn að finna út hvað netkortið þitt heitir og redda þér driverum."
+        },
+        {
+            "user": "Swooper",
+            "user_id": "50432",
+            "date": "2009-04-29 09:12:34",
+            "id": "6649000",
+            "reply_to_id": "6648946",
+            "text": "Vantar örugglega bara wi-fi driverinn."
+        },
+        {
+            "user": "SynGates",
+            "user_id": "73623",
+            "date": "2009-04-29 12:53:16",
+            "id": "6649209",
+            "reply_to_id": "6648946",
+            "text": "Getur hægriklikkað á það sem er með gulan þríhyrning fyrir framan og gert update driver.\nAnnars support.framleiðandi.com eða álíka til að finna drivera"
+        }
+    ]
+}

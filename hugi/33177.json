@@ -1,0 +1,69 @@
+{
+    "forum_title": "Linux",
+    "user": "add1",
+    "user_id": "1011",
+    "date": "2001-07-03 04:04:50",
+    "title": "Nmap, alhliða öryggis-skanninn",
+    "text": "Ég veit ekki hversu mörg ykkar þekkja nmap, ég vona hinsvega flest :)\nÞetta er alhliða portscannari, sem getur identify'að hvaða stýrikerfi hostinn sem er scannaður keyrir, hvaða port eru opin, hvaða port eru filteruð (firewall'uð) og hvaða port eru einfaldlega lokuð :)\nStyður allan fjandann af scan-types, þar á meðal:\ntcp connect() scan, tcp syn scan, stealth fin scan, xmas tree scan og null scan.\nþetta veltur allt á hvaða flögg nmap setur í tcp headerinn til að forðast portscan detectora.\neinnig geturu látið  nmap skanna udp.\nSkemmtilega við þetta er að þú síðan sett “time policy” sem ákvarðar hversu nmap er aggresíft við að skanna, allt frá paranoid og til insane :)\nÞetta er alhliða öryggistól sem ég mæi með að allir kerfisstjórar, hvort sem þeir eru að stjórna sínu eigin linux-boxi eða big-time isp adminar, þetta á heima allstaðar\nNothæft í linux, allri BSD fjölskyldunni og solaris að ég held líka :)\nGetið nálgast nmap á heimasíðunni: www.insecure.org/nmap/",
+    "url": "https://www.hugi.is/linux/greinar/33177/nmap-alhlida-oryggis-skanninn/",
+    "url_id": "33177",
+    "id": "223423",
+    "replies": [
+        {
+            "user": "srjong",
+            "user_id": "5824",
+            "date": "2001-07-03 09:10:15",
+            "id": "223424",
+            "reply_to_id": "223423",
+            "text": "TAKK KÆRLEGA!!\nÞú hefur bent öllum wannab335 311337 cr4c3rs á hvar þeir geta fundið verkfærin til þess!"
+        },
+        {
+            "user": "Bake",
+            "user_id": "5588",
+            "date": "2001-07-03 10:42:58",
+            "id": "223425",
+            "reply_to_id": "223424",
+            "text": "Ha?\nEr ég að missa af einhverju eða er allt í einu orðið slæmt að framkvæma öryggistékk á sínum vélum?\nNmap er ætlað í slíkt"
+        },
+        {
+            "user": "Smegma",
+            "user_id": "33",
+            "date": "2001-07-03 11:31:01",
+            "id": "223426",
+            "reply_to_id": "223425",
+            "text": "Hehe, og ótrúlegt að einhverjum detti í hug að script-kiddies þurfi einhverja aðstoð við að verða sér úti um svona tól."
+        },
+        {
+            "user": "oddur",
+            "user_id": "150",
+            "date": "2001-07-03 13:23:25",
+            "id": "223427",
+            "reply_to_id": "223426",
+            "text": "þetta er nauðsynlegt örrygistól, ég meina auðvitað mappar maður sínar eigin vélar til að áhvarða hvaða port eu opin."
+        },
+        {
+            "user": "add1",
+            "user_id": "1011",
+            "date": "2001-07-03 21:12:52",
+            "id": "223428",
+            "reply_to_id": "223424",
+            "text": "srjong: Þetta á heima í verkfæra-tösku allra system admina.\nég meina …\nætlaru bara að _vona_ að port x sé lokað.\nNei, þú VERÐUR að vera viss.\nEins er þetta sniðugt til að stilla portscan detectora."
+        },
+        {
+            "user": "source",
+            "user_id": "950",
+            "date": "2001-07-16 18:18:32",
+            "id": "223429",
+            "reply_to_id": "223428",
+            "text": "nmap er dauðans!"
+        },
+        {
+            "user": "WaterFall",
+            "user_id": "5840",
+            "date": "2001-08-14 23:46:13",
+            "id": "223430",
+            "reply_to_id": "223424",
+            "text": "Ábending: Skráðu þig á bugtraq, eða security-basics, í hverri viku berst póstur þar sem eitthvað er talað um nmap.\nSecurity through obsecurity er ekki lausnin, allir eiga að vita það.\n– WF"
+        }
+    ]
+}

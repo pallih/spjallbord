@@ -1,0 +1,325 @@
+{
+    "forum_title": "Grafísk hönnun",
+    "user": "Delirium",
+    "user_id": "19072",
+    "date": "2005-09-11 17:18:47",
+    "title": "Tutorial - Hreyfimyndir ( image ready )",
+    "text": "Tutorial - Hreyfimyndir ( image ready )\nÞar sem að margir hafa verið að spurja mig undanfarið hvernig ég geri svona hreyfimyndir.\nEða hvað sem ég á að kalla það\nHef ég ákveðið að senda inn bara smá tutorial hvernig á að gera þetta alltsaman =D\nVinsamlegast taka tillit til þess að þetta er fyrsta tutorialið mitt og ég er ekkert svaðalega góð í því … held ég =D\n1. Opnaðu Adobe Image Ready\n2. Fyndu 2 myndir sem þú vilt hafa (eða fleiri). Helst *.bmp ( Image Ready hjá mér vill allavegana ekki save-a *.jpg og fleiri tegundir af myndum! )\n3. Neðst niðri ætti að vera svona animation bar. Ef þú veist ekki hvað það er, þá eru á því svona eins og 3 blaðsíður eða hvað sem ég á að kalla það, sem stendur á “Animation” – “Image Map” og svo á þriðja “Slice”. Ef þetta animation bar er ekki, farðu þá í Window og hakaðu við Animation þá ætti það að birtast!\n4. Neðst á animation kassanum, lengst til hægri er mynd af ruslafötu, þar við hliðina er mynd af einhverju svona blaði sem er eins og það sé brotið upp á, smelltu á það, og þá kemur nýr layer í animation\n5. Þú ert með 2 myndir, kóperaðu aðra inn á hina, þannig að hún sé á öðrum layer\n6. Í fyrsta layernum í Animation ertu með myndina af bakgrunninum, ef ekki, hakaðu þá við þá mynd sem þú vilt að birstist fyrst og það ætti að birtast þarna\n7. Klikkaðu svo á layer 2 í animation og hakaðu við þá mynd sem að þú villt að komi næst í animationinu\n8. Taktu eftir því að þegar þú ert búin að haka við mynd nr. 2, þá verður það líka mynd númer 1 í animationinu, þá einfaldlega klikkaru á layer 1 og þá sérðu að það er automaticly búið að haka við mynd númer 2, taktu hakann bara úr.\nÞá verður layer 2 tómur, og þá smelliru aftur á hann og hakar við mynd númer 2.\n9. fyrir neðan layerana í animationinu stendur væntanlega 0.1, þú getur smellt á það og breytt því, það er bara hvað myndin endist lengi, þannig að eftir 0.1 sekúndu birtist næsta mynd. Þar fyrir neðan stendur “forever” getur líka breytt því, svo það ræður hvort að myndin “spilast” áfram að eilífu eða bara einusinni eða hvað sem þú villt!\n10. Ef þú vilt hafa fleiri myndir. Haltu þá bara svona áfram, ekki flókið ;)\nÞetta ætti þá að vera komið.\nÆtti ekki að vera flókið, vona að ég hafi ekki flækt það of mikið.\nHvað get ég sagt, ég er með áráttu, verð alltaf að útskýra allt allveg til hins ýtrasta\nCall me a perfectionist.\nSeems to be in style these days ^-^\nMyndi meta það mikils ef fólk myndi síðan ekki drulla allveg yfir frumraun mína til að gera svona tutorial =D\n(vonað myndin sem ég sendi inn með virki o.O\nBara rosalega einföld svona mynd sem sýnishorn)",
+    "url": "https://www.hugi.is/grafik/greinar/327003/tutorial-hreyfimyndir-image-ready/",
+    "url_id": "327003",
+    "id": "2469214",
+    "replies": [
+        {
+            "user": "bjagni",
+            "user_id": "12867",
+            "date": "2005-09-11 17:38:56",
+            "id": "2470698",
+            "reply_to_id": "2469214",
+            "text": "Ég fatta ekki eitt. Þegar ég bý til nýjan ramma og ætla að setja inn nýja mynd, þá verður fyrsti ramminn alltaf sá sami og rammi nr. tvö :/"
+        },
+        {
+            "user": "Delirium",
+            "user_id": "19072",
+            "date": "2005-09-11 17:53:47",
+            "id": "2470759",
+            "reply_to_id": "2470698",
+            "text": "8. Taktu eftir því að þegar þú ert búin að haka við mynd nr. 2, þá verður það líka mynd númer 1 í animationinu, þá einfaldlega klikkaru á layer 1 og þá sérðu að það er automaticly búið að haka við mynd númer 2, taktu hakann bara úr.\nÞá verður layer 2 tómur, og þá smelliru aftur á hann og hakar við mynd númer 2.\nfattaru ekki?\nSemsagt rammi 1 verður sami og rammi 2.\nþá hakaru ÚR mynd 2,\nþá verður rammi 2 tómur, og ÞÁ hakaru við mynd 2…\nget it? o.O"
+        },
+        {
+            "user": "Ljomalindin",
+            "user_id": "15558",
+            "date": "2005-09-11 18:02:12",
+            "id": "2470797",
+            "reply_to_id": "2470759",
+            "text": "Haka hvar? Hvað?"
+        },
+        {
+            "user": "Delirium",
+            "user_id": "19072",
+            "date": "2005-09-11 21:16:58",
+            "id": "2471630",
+            "reply_to_id": "2470797",
+            "text": "haha,\nvið myndina sem þú vilt að birtist??\nTil hægri, í layers…\nþar er hægt að haka við svona hvaða layer þú vilt að sé að sjást og svona?\nunderstand?"
+        },
+        {
+            "user": "Ljomalindin",
+            "user_id": "15558",
+            "date": "2005-09-11 21:25:32",
+            "id": "2471664",
+            "reply_to_id": "2471630",
+            "text": "Nei það er ekkert hægt að haka neins staðar o_O"
+        },
+        {
+            "user": "Delirium",
+            "user_id": "19072",
+            "date": "2005-09-11 21:52:19",
+            "id": "2471792",
+            "reply_to_id": "2471664",
+            "text": "jú gæskan =)\ní layers, þar sem að stendur “background” og bakgrunnsmyndin?\nright?\nþar eru svona 2 litlir kassar til vinstri, við hliðina á “background” í öðrum er mynd af svona pensli einhverjum er það ekki?\nog við hliðina er mynd af svona auga, right?\nhægt að smella á augað og þá sést myndin ekki lengur…\nmeinti það með því að “haka við/úr”\nskiluru? =)"
+        },
+        {
+            "user": "Ljomalindin",
+            "user_id": "15558",
+            "date": "2005-09-11 21:58:41",
+            "id": "2471825",
+            "reply_to_id": "2471792",
+            "text": "Jááá.. þú meintir það. Skil. Þetta virkar samt ekki, en langaði bara að fatta þetta höku dæmi."
+        },
+        {
+            "user": "bjagni",
+            "user_id": "12867",
+            "date": "2005-09-11 18:14:22",
+            "id": "2470851",
+            "reply_to_id": "2470759",
+            "text": "Hvaða version af Image Ready ertu að nota? CS2 eða?"
+        },
+        {
+            "user": "Marserus",
+            "user_id": "53017",
+            "date": "2005-09-11 19:14:59",
+            "id": "2471132",
+            "reply_to_id": "2470851",
+            "text": "vó! Feis!"
+        },
+        {
+            "user": "Delirium",
+            "user_id": "19072",
+            "date": "2005-09-11 21:17:42",
+            "id": "2471637",
+            "reply_to_id": "2470851",
+            "text": "bara 7\nfer að fá CS væntanlega samt =)\n7 er að virka vel fyrir mig samt"
+        },
+        {
+            "user": "bjagni",
+            "user_id": "12867",
+            "date": "2005-09-11 21:37:51",
+            "id": "2471711",
+            "reply_to_id": "2471637",
+            "text": "Já, en það leiðbendingarnar sem þú skrifaðir virka fyrir IR 7 en ekki IR CS2 :/"
+        },
+        {
+            "user": "Delirium",
+            "user_id": "19072",
+            "date": "2005-09-11 21:55:44",
+            "id": "2471813",
+            "reply_to_id": "2471711",
+            "text": "ég er líka með 7 ??\nen eiga að virka fyrir CS líka, var með cS einusinni og það var nklega eins, en hef aldrey verið með CS2 ?"
+        },
+        {
+            "user": "bjagni",
+            "user_id": "12867",
+            "date": "2005-09-11 21:57:00",
+            "id": "2471816",
+            "reply_to_id": "2471813",
+            "text": "Ég er með CS2 og það virðist vera sem það sé ekki eins og 7…\nÓver end át!"
+        },
+        {
+            "user": "moliminn",
+            "user_id": "48024",
+            "date": "2005-09-11 22:10:25",
+            "id": "2471900",
+            "reply_to_id": "2470698",
+            "text": "ég kann þetta alveg sjálfur nananananana"
+        },
+        {
+            "user": "bjagni",
+            "user_id": "12867",
+            "date": "2005-09-11 22:13:08",
+            "id": "2471918",
+            "reply_to_id": "2471900",
+            "text": "Og afhverju að segja mér það?"
+        },
+        {
+            "user": "Cheng",
+            "user_id": "6790",
+            "date": "2005-09-11 18:46:33",
+            "id": "2470961",
+            "reply_to_id": "2469214",
+            "text": "Ég er alveg lost í þessu, ég næ ekki að copera aðra myndina yfir á hitt layer..! Það gerist ekkert ;l get ekki fært yfir eða neitt."
+        },
+        {
+            "user": "Delirium",
+            "user_id": "19072",
+            "date": "2005-09-11 21:18:33",
+            "id": "2471642",
+            "reply_to_id": "2470961",
+            "text": "til að kopera eina mynd, yfir á aðra, verður þú fyrst að draga utanum myndina ?\nBúinn að prófa það?"
+        },
+        {
+            "user": "Zikki",
+            "user_id": "52811",
+            "date": "2005-09-11 20:22:02",
+            "id": "2471463",
+            "reply_to_id": "2469214",
+            "text": "flott, en ég get ekki gert góðar Hreyfimyndir klúðrast alltaf :("
+        },
+        {
+            "user": "Dystopia",
+            "user_id": "26940",
+            "date": "2005-09-11 21:02:51",
+            "id": "2471578",
+            "reply_to_id": "2469214",
+            "text": "þetta virkar ekki hjá mér :( þegar ég bæti mynd í nýja layernum þá kemur sama myndin í öllum layerunum og það er hvergi neitt gluggi með “animation - image map - slice” í… og í Animation glugganum þá er bara “animation” og ekkert annað :S help me please! :("
+        },
+        {
+            "user": "Delirium",
+            "user_id": "19072",
+            "date": "2005-09-11 21:22:29",
+            "id": "2471657",
+            "reply_to_id": "2471578",
+            "text": "STendur allt um þetta í greininni ;)\nEf þetta animation bar er ekki, farðu þá í Window og hakaðu við Animation þá ætti það að birtast!\n8. Taktu eftir því að þegar þú ert búin að haka við mynd nr. 2, þá verður það líka mynd númer 1 í animationinu, þá einfaldlega\nklikkaru á layer 1 og þá sérðu að það er automaticly búið að haka við mynd númer 2, taktu hakann bara úr.\nÞá verður layer 2 tómur, og þá smelliru aftur á hann og hakar við mynd númer 2.\nmmkay?\nallt í gúddí núna?"
+        },
+        {
+            "user": "Dystopia",
+            "user_id": "26940",
+            "date": "2005-09-11 21:59:37",
+            "id": "2471832",
+            "reply_to_id": "2471657",
+            "text": "já sko ég las þetta allt.. og er með animation gluggann opnann.. en það er bara animation inní honum :S enn það er sama myndin í öllum layerana þegar ég paste-a myndina inná einum layer :S"
+        },
+        {
+            "user": "Delirium",
+            "user_id": "19072",
+            "date": "2005-09-11 22:20:34",
+            "id": "2471958",
+            "reply_to_id": "2471832",
+            "text": "lestu svarið hérna fyrir ofan svarið þitt…\n? okay?"
+        },
+        {
+            "user": "Sturladur",
+            "user_id": "56859",
+            "date": "2005-09-12 19:35:28",
+            "id": "2474931",
+            "reply_to_id": "2469214",
+            "text": "Fáránlegt að D-ið í dream verður lítið."
+        },
+        {
+            "user": "Delirium",
+            "user_id": "19072",
+            "date": "2005-09-12 20:05:04",
+            "id": "2475070",
+            "reply_to_id": "2474931",
+            "text": "takk…\nbara smá fljótfærnisvilla.\nVeit það, og er meira að segja að laga það núna…\nGerði þessa mynd bara á rosalega stuttum tíma svo ég hefði eitthvað til að sýna með!\nSmámunasemin í fólkinu hérna maður =D"
+        },
+        {
+            "user": "Sturladur",
+            "user_id": "56859",
+            "date": "2005-09-12 20:14:16",
+            "id": "2475116",
+            "reply_to_id": "2475070",
+            "text": ";)"
+        },
+        {
+            "user": "Delirium",
+            "user_id": "19072",
+            "date": "2005-09-24 16:44:26",
+            "id": "2515843",
+            "reply_to_id": "2469214",
+            "text": "hmmmm….. freaker lúðaleg spurning en hvernig save-a ég þeta þannig að þetta verði hreyfimynd??"
+        },
+        {
+            "user": "Delirium",
+            "user_id": "19072",
+            "date": "2005-09-24 18:18:17",
+            "id": "2516127",
+            "reply_to_id": "2515843",
+            "text": "neinei alls ekki lúðaleg spurning,\nfattaði það um daginn að ´ge gleymdi að setja það inn, og það er soltið stór hluti af þessu =S\nen þú ferð í export picture as\neða import. man þetta ekki nklega þegar ég er ekki með þetta fyrir framan mig og er ekki með photoshop í þessari tölvu =P\nMinnir samt Export picture as, og velur *.gif\nMuna það að það virkar ekki ef myndirnar sem eru semsagt í hreyfimindinni sjálfri, eru  jpg!\nþú mátt semsagt ekki nota jpg myndir í þetta!! ( stendur reyndar í greininni, en ég virðist þurfa að segja fólki þetta nokkrum sinnum =P )"
+        },
+        {
+            "user": "tudra",
+            "user_id": "54670",
+            "date": "2005-09-24 21:51:31",
+            "id": "2516853",
+            "reply_to_id": "2469214",
+            "text": "þarna í 5. hvernig kóperar maður myndina in á hina ?… er bara að byrja að læra á þetta og alltaf þegar ég er að fara eftir svona leiðbeiningum er ég stopp á þessu :S…"
+        },
+        {
+            "user": "Delirium",
+            "user_id": "19072",
+            "date": "2005-09-25 02:24:52",
+            "id": "2517628",
+            "reply_to_id": "2516853",
+            "text": "ömm, dregur utanum myndina.\nog ýtir á ctrl c\nog svo ctrl V til að “líma”\no.O ??"
+        },
+        {
+            "user": "trailertrash",
+            "user_id": "58596",
+            "date": "2005-09-24 23:09:13",
+            "id": "2517086",
+            "reply_to_id": "2469214",
+            "text": "Hvernig save-aru myndina,,ég save-a þetta sem gif okei,,en samt get ég ekki sýnt öðrum myndina eða sent hana,eða hostað á www.tinypic.com hvernig save-aru myndin? er hægt að save-a hana sem jpg og láta hana hreyfast,,er ekki alveg að fatta :/\nEn góð leiðbeining;)"
+        },
+        {
+            "user": "Delirium",
+            "user_id": "19072",
+            "date": "2005-09-25 02:25:25",
+            "id": "2517629",
+            "reply_to_id": "2517086",
+            "text": "fattaði það um daginn að ´ge gleymdi að setja það inn, og það er soltið stór hluti af þessu =S\nen þú ferð í export picture as\neða import. man þetta ekki nklega þegar ég er ekki með þetta fyrir framan mig og er ekki með photoshop í þessari tölvu =P\nMinnir samt Export picture as, og velur *.gif\nMuna það að það virkar ekki ef myndirnar sem eru semsagt í hreyfimindinni sjálfri, eru jpg!\nþú mátt semsagt ekki nota jpg myndir í þetta!! ( stendur reyndar í greininni, en ég virðist þurfa að segja fólki þetta nokkrum sinnum =P )\nSorrí smá mistök hjá mér að gleyma þessu =/"
+        },
+        {
+            "user": "trailertrash",
+            "user_id": "58596",
+            "date": "2005-09-25 09:48:16",
+            "id": "2517803",
+            "reply_to_id": "2469214",
+            "text": "Okeij;) Sá ekki þarna þar sem þú útskýrðir jpg og allt það :$\n1. Opnaðu Adobe Image Ready\n2. Fyndu 2 myndir sem þú vilt hafa (eða fleiri). Helst *.bmp ( Image Ready hjá mér vill allavegana ekki save-a *.jpg og fleiri tegundir af myndum! )\nEn geðveik leiðbeining hef aldrei séð þetta útskýrt svona vel áður :)"
+        },
+        {
+            "user": "Delirium",
+            "user_id": "19072",
+            "date": "2005-09-29 18:23:41",
+            "id": "2533426",
+            "reply_to_id": "2469214",
+            "text": "Nenniru að gera þetta einhvern neginn öðvísa og ég skil bara alls ekki neitt!"
+        },
+        {
+            "user": "Delirium",
+            "user_id": "19072",
+            "date": "2005-09-29 20:12:06",
+            "id": "2534109",
+            "reply_to_id": "2533426",
+            "text": "ertu virkilega að segja að þú skiljir þetta ekki O.O\nþetta eru ýkt nákvæm fyrirmæli? =S\nEn já allavegana þá er ég akkúrat núna að vinna í að gera svona myndatutorial uppúr þessu bara, þannig að þá geturu SÉÐ hvað á að gera á myndinni.\nBíddu bara eftir því ;) Sendi öggla link á það eða eitthvað, just keep your eyes open then! =)"
+        },
+        {
+            "user": "trailertrash",
+            "user_id": "58596",
+            "date": "2005-10-01 23:00:01",
+            "id": "2541982",
+            "reply_to_id": "2469214",
+            "text": "Ef þú vildi vera svo væn að skoða þetta og láta mig vita á hvað ég á að ýta á þá yrði það ææði:D\nhttp://tinypic.com/e700v4.jpg\nhttp://tinypic.com/e7017r.jpg\nSorry ef þér finnst þetta vera frekja :$"
+        },
+        {
+            "user": "Delirium",
+            "user_id": "19072",
+            "date": "2005-10-01 23:03:10",
+            "id": "2542002",
+            "reply_to_id": "2541982",
+            "text": "já hey sorry, ég bara gleymdi að setja þetta inn, og neinei engin frekja sko ;) ekkert mál.\nen já ég avr ekki með photoshop fyrir framan mig þegar ég sagði að ég héldi að það væri import/export\nþað er “save optimized as”\nsorry, smá mistök hérna =D"
+        },
+        {
+            "user": "pazzini",
+            "user_id": "56621",
+            "date": "2007-06-10 16:55:35",
+            "id": "4983824",
+            "reply_to_id": "2469214",
+            "text": "Heyrðu, ég er greinilega með eitthvað allt annað Image Ready, ég get ekki valið tvær mismunandi myndir í Animation. :S\nPlís svara mér þótt þú veist ekkert hvað ég á að gera, þarf að tjekka hvort þú sért ennþá að nota huga, þetta er nefnilega svo gamalt Tutorial. :)"
+        },
+        {
+            "user": "Delirium",
+            "user_id": "19072",
+            "date": "2007-07-20 19:42:53",
+            "id": "5088272",
+            "reply_to_id": "4983824",
+            "text": "vaaaá sorry ég bara fer alveg hreint hrikalega sjaldan inná huga, en ég skil ekki alveg hvað þú ert að meina?? =/ heh. geturu reynt að útskýra aðeins betur og ég skal lofa þér því að ég skal vera duglegri við að kíkka inná huga svo ég sjái þegar þú svarar mér :P\nþ.e.a.s. ef þú ert ekki búinn að leysa vandamálið!"
+        },
+        {
+            "user": "pazzini",
+            "user_id": "56621",
+            "date": "2007-07-22 14:43:38",
+            "id": "5091711",
+            "reply_to_id": "5088272",
+            "text": "Hehe, er búinn að leysa vandamálið, notaði bara annað forrit. :)"
+        }
+    ]
+}

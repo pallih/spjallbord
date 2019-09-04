@@ -1,0 +1,37 @@
+{
+    "forum_title": "Windows",
+    "user": "Envy",
+    "user_id": "4397",
+    "date": "2010-02-05 19:32:59",
+    "title": "Windows 7 internet sharing",
+    "text": "Sælir.\nÞað sem ég er að reyna gera er að láta aðra PC tölvu með windows xp, fara á netið í gegnum aðra tölvu sem er með Windows 7. Er með ljósleiðarabox og tengdi því úr boxinu yfir í switch. Tengdi svo báðar tölvurnar í switchinn.\nW7 tölvan er komin með netið í gang og allt og nú vantar mig bara að vita hvernig ég á að láta XP vélina tengjast henni þannig að hún komist á netið í gegnum hana.\nEr búinn að vera vesenast í þessu núna í nokkra klukkutíma, búinn að googla og leita mér að einhverjum nytsamlegum tutorials en so far hefur ekkert gengið.\nEinhver sem hefur reynt þetta hjá sér?\n- Envy",
+    "url": "https://www.hugi.is/windows/korkar/690356/windows-7-internet-sharing/",
+    "url_id": "690356",
+    "id": "7063300",
+    "replies": [
+        {
+            "user": "teygjupungur",
+            "user_id": "58621",
+            "date": "2010-02-05 22:42:37",
+            "id": "7063497",
+            "reply_to_id": "7063300",
+            "text": "Hví þarftu internet sharing þegar þú getur pluggað báðum vélunum í switchinn ?"
+        },
+        {
+            "user": "Envy",
+            "user_id": "4397",
+            "date": "2010-02-06 00:56:54",
+            "id": "7063596",
+            "reply_to_id": "7063497",
+            "text": "Bara leyft að nota 3 mac addressur á boxinu. Ætla að nota mac addressuna á W7 tölvunni og láta aðrar vélar tengjast inná netið í gegnum hana.\nHélt að það ætti að vera hægt að gera þetta. Kannski þarf ég einhver forrit til þess.\nJá vill getað nota file sharing líka með þessu. Í raun væri þetta svoleiðis og W7 tölvan væri bara host fyrir internetið og aðrar tölvur á heimilinu myndu tengjast inná hana."
+        },
+        {
+            "user": "heilsukex",
+            "user_id": "39769",
+            "date": "2010-02-05 23:28:29",
+            "id": "7063535",
+            "reply_to_id": "7063300",
+            "text": "Ertu að tala um að shara hlutum yfir heimanetið?"
+        }
+    ]
+}

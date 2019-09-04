@@ -1,0 +1,117 @@
+{
+    "forum_title": "Apple",
+    "user": "NuJack",
+    "user_id": "5644",
+    "date": "2002-05-01 14:09:45",
+    "title": "Developer tól",
+    "text": "Ég hef verið að fikta [mikið] í developer tólunum sem fylgja Mac OS X og langar að sýna hversu auðvelt þetta er.\nÞú þarft að hafa Mac OS X _og_ hönnunartólin. Til að athuga hvort þú sért með þau inni getur þú opnað /Applications/Utilities/Terminal og skrifað “make”. Ef þú færð skilaboðin “make: *** No targets specified and no makefile found. Stop.” þá ertu með hönnunartólin.\nEf þú færð önnur skilaboð þartu að sækja tólin. Til að sækja tólin þarft þú að:\n1. Fara á\nhttp://developer.apple.com/\n2. Smella á “Join Now” undir “Partner with Apple” og fylgja leiðbeiningunum.\n3. Þegar þú færð staðfestingu skráir þú þig inn og sækir tólin.\n–\nÞegar þú ert kominn með tólin skaltu prófa þau. Ég ætla að taka dæmi af því að sækja og setja upp ftp forrit.\n1. Opnaðu Terminal (/Applications/Utilities/Terminal).\nTaktu eftir að Tab takkinn klárar fyrir þig línur. Ef þú slærð inn “cd D<tab>” birtist “Desktop/   Documents/   Downloads/”, skelin reynir að giska á hvað þú ert að reyna að slá inn.\nEf þú skrifar “cd Do<tab>” birtist “Documents/   Downloads/” og ef þú skrifar “cd Doc<tab>” klárar hún að slá inn “Documents” fyrir þig þar sem það er eini möguleikinn. Með þessarri aðferð sem hægt er að kalla auto-complete getur þú flakkað um tölvuna þína í skelinni.\n2. Skrifaðu “ncftp<enter>”.\nÞú ættir að fá upp “NcFTP 2.4.3 (March 19, 1998), by Mike Gleason…”\nÞetta er greinilega mjög gömul útgáfa. Við skulum sækja nýjustu útgáfuna..\n3. Skrifaðu “o ftp.ncftp.com<enter>”\n4. Skrifaðu “cd ncftp<enter>”\n5. Skrifaðu “dir<enter>”\nÞegar þetta er skrifað er nýjasta útgáfan af forritinu útgáfa 3.1.3. Við skulum sækja “Source” útgáfuna, frumeintak forritsins.\n6. Skrifaðu “get ncftp-3.1.3-src.tar.gz<enter>”. Taktu eftir að að forritið getur ekki “auto-completeað”\n7. Smelltu á “Finder” með músinni og opnaðu “Home”. Þar ætti núna að vera StuffIt skjal sem heitir “ncftp-3.1.3-src.tar.gz”. Tvísmelltu á það til að afþjappa því. Eftir ætti að sitja mappa sem  heitir “ncft-3.1.3”.\n8. Farðu aftur i Terminal og skrifaðu “quit<enter>” til að hætta í ftp forritinu.\n9. Skrifaðu “cd nc<tab>” og ýttu á enter.\nNcFTP sourcekóðinn þekkir Mac OS X mjög vel, veit hvar hann á að setja stuðningsskrár ofl. þannig að við þurfum ekki að gera neitt sérstak við configure skránna. Þetta á þó ekki við um öll forrit.\n10. Skrifaðu “./configure<enter>” ‘./’ þýðir að maður vilji keyra forrit sem er i möppunni sem maður er staddur í, en ekki forrit sem maður er búinn að installa.\nVið þetta fer fullt af texta fljúgandi um skjáinn á meðan scriptið configure athugar hvernig vél við séum að keyra á og hvernig sé best að setja forritið upp.\n11. Að þessu loknu skrifar þú “make<enter>” og býrð til sjálft forritið. Þetta getur tekið dagóða stund.\n12. Að lokum skrifar þú “sudo make install<enter>” og slærð inn lykilorðið þitt.\nNæst þegar þú opnar Terminal glugga er nýjasta útgáfan af NcFTP komin inn. Þessi nýja útgáfa er mun betri en sú sem fylgir með kerfinu, getur t.d. auto-completeað.\nGangi þér vel,",
+    "url": "https://www.hugi.is/apple/greinar/75069/developer-tol/",
+    "url_id": "75069",
+    "id": "528629",
+    "replies": [
+        {
+            "user": "polyester",
+            "user_id": "10055",
+            "date": "2002-05-05 02:46:09",
+            "id": "528630",
+            "reply_to_id": "528629",
+            "text": "“og langar að sýna hversu auðvelt þetta er”.  Hefur ekki einhver línux nördinn villst inn í Apple umhverfið?  Er ekki ein af grundvallarhugmyndum Apple einfaldleikinn í notkun vélarinnar?  Ef staðan er orðin sú að þú þarft að þýða (compæla) forrit sem þú ætlar að nota er þá ekki betra að kaupa sér ódýrari tölvu (lesist PC) og innsetja Linux á hana.  Þú færð stýrikerfið ókeypis og í kaubæti geturðu þýtt öll þau forrit sem þú villt nota.  Bara slá inn “make” og forritið er tilbúið (þ.e. ef make script er til staðar)"
+        },
+        {
+            "user": "Hansi",
+            "user_id": "8352",
+            "date": "2002-05-05 17:36:30",
+            "id": "528631",
+            "reply_to_id": "528630",
+            "text": "Málið er að öll terminal forrit er best að nota source install hvort sem það er gert með makefile eða bara configure fæl. En í sjálfu sér er þetta MJÖG auðvelt ef þú ert eitthvað búinn að pæla í unix.\nEinnig er nauðsinlegt að ná í fink tools, sem er snildar terminal forrit sem hjálpar við insettningu og að halda utan um ýmis Debian port að unix forritum og x11 glugga kerfis innsetningu."
+        },
+        {
+            "user": "MonkeyNinj",
+            "user_id": "718",
+            "date": "2002-05-08 01:35:29",
+            "id": "528632",
+            "reply_to_id": "528630",
+            "text": "Dagurinn sem Adobe portar Photoshop og AfterFX yfir á línúx er þegar kölski mætir í vinnuna með vetlinga og húfu, þessvegna er gaman að geta notað þessi forrit á stýrikerfi sem hefur skel og læti :)\nVerst að mar getur ekkert verið að tweeka kernelinn í osx með því að recompila.\n(þetta er skrifað af fyrverandi hardcore Makkamanni sem er harðákveðinn á því að fá sér Makka aftur bara vegna OSX)"
+        },
+        {
+            "user": "NuJack",
+            "user_id": "5644",
+            "date": "2002-05-08 16:29:53",
+            "id": "528633",
+            "reply_to_id": "528632",
+            "text": "Tja, þú getur tweakað kernelinn í Darwin, ef þú virkilega villt, en þú keyrir að vísu ekki MacOS X ofan á því :P"
+        },
+        {
+            "user": "DJGunni86",
+            "user_id": "8378",
+            "date": "2002-05-11 13:15:13",
+            "id": "528634",
+            "reply_to_id": "528629",
+            "text": "Eg er med Darwin installadan a ser partition og var ad paela i nokkrum hlutum.\n1.Get eg fengid liti i LS skipunina mina?\n2.Get eg installad CpMac inna Darwin?\nTakk fyrir lysinguna a einfaldleikanum :) en er ekki einhver console browser til lika?"
+        },
+        {
+            "user": "Hansi",
+            "user_id": "8352",
+            "date": "2002-05-12 17:10:49",
+            "id": "528635",
+            "reply_to_id": "528634",
+            "text": "Þú ættir að geta fundið compile fyrir liti á LS annað hvort á www.macosxhacks.com eða bara á sourceforge.net (þar ætti CpMac líka að vera enn ég veit ekki með að installa því)"
+        },
+        {
+            "user": "DJGunni86",
+            "user_id": "8378",
+            "date": "2002-05-11 13:21:43",
+            "id": "528636",
+            "reply_to_id": "528629",
+            "text": "Eitt annad hvernig configura eg netid i Darwin.\nEins og username, password, proxy, innhringinumer, mail server? og alles tengt dvi. Einnig hvada mail forrit er haegt ad nota i Darwin.\nOK eg skil vel ef du nennir ekki ad svara dessu ollu en geturdu allavegana bent mer i retta att. Eg a mjog erfitt ad finna upplysingar um detta i Darwin og a apple og nenni helst ekki ad eyda pening i baekur dvi eg er ekkert voda hardcore unix ahugamadur. Anyways… takk fyrir alla hjalp sem du getur veitt."
+        },
+        {
+            "user": "NuJack",
+            "user_id": "5644",
+            "date": "2002-05-29 09:29:00",
+            "id": "528637",
+            "reply_to_id": "528636",
+            "text": "www.freebsd.org og www.darwin.org"
+        },
+        {
+            "user": "cyrax",
+            "user_id": "20569",
+            "date": "2002-05-15 23:07:25",
+            "id": "528638",
+            "reply_to_id": "528629",
+            "text": "Um hvað er þetta alltsaman?\nWill you fill me in?"
+        },
+        {
+            "user": "Hansi",
+            "user_id": "8352",
+            "date": "2002-05-18 10:01:27",
+            "id": "528639",
+            "reply_to_id": "528638",
+            "text": "Ef þú veist ekki hvað þetta er mæli ég með að þú forðist þetta í bili, en þú getur fengið meiri upplýsingar á apple.com undir developers."
+        },
+        {
+            "user": "Hansi",
+            "user_id": "8352",
+            "date": "2002-05-24 16:16:49",
+            "id": "528640",
+            "reply_to_id": "528629",
+            "text": "Uuuuu… um hvað, nákvæmlega, er þessi grein? :)\nÉg hélt að hún væri um þróunartólin. Þú segir ekki einu sinni frá því hvað þau heita. ;) Greinin er nánast að öllu leyti um innsetningu á NcFTP sem kemur þróun ekkert meira við heldur en neitt annað. :)"
+        },
+        {
+            "user": "Hansi",
+            "user_id": "8352",
+            "date": "2002-05-25 23:27:19",
+            "id": "528641",
+            "reply_to_id": "528640",
+            "text": "Armon: Hann er bara að tala um almenna notkun Þróunar tólana sem fylgja með Mac OS X Retail."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2002-05-31 09:47:59",
+            "id": "528642",
+            "reply_to_id": "528641",
+            "text": "Hansi: Já, og enn og aftur, ég sé ekki hvernig þetta kemur þróun á nokkurn skapaðan hátt við. :) Greinin fjallar að mestu um NcFTP, þannig reyndar frábær FTP biðlara, en hvernig tengist þetta þróun?\nHalda menn kannski að um leið og maður komist í skel sé maður farinn að þróa hluti? ;)"
+        }
+    ]
+}

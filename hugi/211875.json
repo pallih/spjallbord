@@ -1,0 +1,101 @@
+{
+    "forum_title": "Eve og Dust",
+    "user": null,
+    "user_id": null,
+    "date": "2004-06-30 12:03:46",
+    "title": "Electronic Warfare and the works.",
+    "text": "Hér kemur nánast allt sem þarf að vita varðandi ECM, eða Electric Counter Measures og önnur Electronic Warfare items.\nÉg ætla að gera lista yfir öll item sem tengjast Electronic Warfare sem eru í leiknum eins og er.\n[aoa] = Act of aggression -> Ólöglegt.\nRemote Sensor Damper [aoa]\nStasis Webifier [aoa]\nWarp Scrambler [aoa]\nWarp Disruptor [aoa]\nWarp Core Stabilizer\nTracking Disruptor [aoa]\nECM - White Noise Generator [aoa]\nECM - Spatial Destabilizer [aoa]\nECM - Phase Inverter [aoa]\nECM - Ion Field Projector [aoa]\nECM - Multispectral Jammer [aoa]\nECM Burst [aoa ef það fer í einhvern]\nRemote Sensor Damper:\nÞegar þetta tryllitól er “skotið” á einhvern þá minnkar locking range'ið hjá viðkomandi um helming og Scan Resolutionið hans minnkar líka um helming sem þýðir það að það tekur hann helmingi lengur að locka á þig og hann þarf að vera helmingi nær til að ná locki. [aoa]\nStasis Webifier:\nÞegar þessu er skotið á viðkomandi þá hægir þetta á honum verulega, eða 75%. Dæmi: Skip er að svífa um á 1000m/s og það er “Webbað”(það er notað Stasis webifier á það) þá fer það niður í 250m/s. [aoa]\nWarp Disruptor:\nÞegar þetta er notað á einhvern aðila þá getur hann ekki warpað í burtu þar til það er slökkt á þessu. Þetta er nauðsin þar sem að ef þú ætlar að drepa/ræna einhvern verður þú að halda honum, því annars fer hann bara burt. Warp Disruptor drífur 20km. (Það er undantekning á þessu, sjá Warp Core Stabilizer.) [aoa]\nWarp Scrambler:\nGerir það sama og Warp Disruptor nema drífur aðeins 7,5km, eyðir minna Capicator, tekur minna Powergrid og CPU pláss og er með tvöfaldan kraft. (Getur slegið eitt Warp Core Stabilizer.) [aoa]\nWarp Core Stabilizer:\nÞetta tæki gerir manni kleyft að sleppa frá Warp Disrupt'i, s.s. ef einhver hefur þig Warp Disruptaðann og þú ert með þetta á skipinu getur þú warpað í burtu. Skýring: Til að sleppa frá 1x Warp Disruptor þarftu 1x Warp Core Stabilizer.\nTil að sleppa frá 2x Warp Disrupterum þarftu 2x Warp Core Stabilizer.\nTil að sleppa frá 1x Warp Scrambler þarftu 2x Warp Core Stabilizer.\nTil að sleppa frá 2x Warp Scramblerum þarftu 4x Warp Core Stabilizer'a.\nTil að sleppa frá 1x Warp Scrambler og 1x Warp Disrupter þarftu 3x Warp Core Stabilizer. Og svo framvegis og framvegis..\nTracking Disruptor:\nÞegar þessu tæki er “skotið” á einstakling hægir það á snúning byssum/turretum hans um helming, svo að hann á erfiðara með að hitta hluti sem hreyfast. Ásamt því minnkar það hversu langt byssurnar drífa um 10%. [aoa]\nHér kemur smá um ECM og hvernig það virkar:\nEcm er electric counter measures og öll ECM tólin eru notuð til þess að hinn óheppni óvinurinn getur ekki lockað á neitt. Í EVE eru öll skip með viss hátt stig af locking kerfi sem er þá skipt í 4 flokka, hvert race á sinn eigin flokk. Flokkarnir eru eftirfarandi: Magnetometric, Gravimetric, Radar og Ladar. Gallante er með Magnetometric stig á skipum sínum, Caldari eru með Gravimetric, Amarr eru með Radar og Minmatar eru með Ladar. Til að koma með dæmi er Battleship'ið Scorpion er með besta locking kerfið, sem er þá 16 stig í Gravimetric; Nokkur dæmi:\n:: Scorpion Battleship (Caldari) ::\n0 Magnetometric stig\n16 Gravimetric stig\n0 Radar stig\n0 Ladar stig\n:: Thorax Cruiser (Gallante) ::\n11 Magnetometric stig\n0 Gravimetric stig\n0 Radar stig\n0 Ladar stig\n:: Punisher Frigate (Amarr) ::\n0 Magnetometric stig\n0 Gravimetric stig\n7 Radar stig\n0 Ladar stig\n:: Mammoth Industrial (Minmatar) ::\n0 Magnetometric stig\n0 Gravimetric stig\n0 Radar stig\n5 Ladar stig\nEf skip fer niður í 0 stig í öllum flokkum þá getur það ekki targetað/lockað neinn og getur því ekki barist mikið.\nECCM hinsvegar gerir það að verkum að það hækkar targeting stigin á skipinu þínu og þannig minnka líkurnar á að einhver nái að ECM'a þig.\nHér kemur um ECM hlutina:\n:: ECM - Ion Field Projector ::\n(Anti-Gallante Skip) [aoa]\n-6 Magnetometric\n-2 Gravimetric\n-2 Radar\n-2 Ladar\n:: ECM - Spatial Destabilizer ::\n(Anti-Caldari Skip) [aoa]\n-2 Magnetometric\n-6 Gravimetric\n-2 Radar\n-2 Ladar\n:: ECM - White Noise Generator ::\n(Anti-Amarr skip) [aoa]\n-2 Magnetometric\n-2 Gravimetric\n-6 Radar\n-2 Ladar\n:: ECM - Phase Inverter ::\n(Anti-Minmatar Skip) [aoa]\n-2 Magnetometric\n-2 Gravimetric\n-2 Radar\n-6 Ladar\n:: ECM - Multispectral Jammer ::\n(Anti-All Skip- Eyðir meira capicator) [aoa]\n-4 Magnetometric\n-4 Gravimetric\n-4 Radar\n-4 Ladar\n:: ECM Burst ::\n(Anti-All Skip - Drífur aðeins 5km) [aoa]\n-8 Magnetometric\n-8 Gravimetric\n-8 Radar\n-8 Ladar\nÞá er þessu lokið en ef þetta er ekki enn komið á hreynt þá er dæmi hér að neðan.\nMaður A er á Blackbird með 2x ECM - Phase Inverter og 1x ECM - White Noise Generator fittað á skipið sitt\nMaður B er á Rupture að mina í rólegheitunum.\nMaður A lockar á mann B og notar 1x ECM - Phase Inverter og 1x ECM - White Noise Generator á mann B.\nMaður A er s.s. að gera:\nPhase inverter lagt við White Noise Gen. = Ekki nóg á Rupture.\n-2 Magnetometric. + -2 Magnetometric…. = -4 Magnetometric\n-2 Gravimetric… + -2 Gravimetric…… = -4 Gravimetric\n-2 Radar……… + -6 Radar………… = -8 Radar\n-6 Ladar……… + -2 Ladar………… = -8 Ladar\nMaður A mistekst að Jamma Rupturinn því hann hefur\n:: Rupture Cruiser (Minmatar) ::\n0 Magnetometric stig\n0 Gravimetric stig\n0 Radar stig\n11 Ladar stig\nog til þess að Rupturinn nái ekki að locka þarf hann að hafa 0 í öllum targeting flokkum(Gravimetric, Magnetometric, Radar og Ladar). Sönnun:\n0 Magnetometric. + -4 Magnetometric. = -4 Magnetometric\n0 Gravimetric… + -4 Gravimetric… = -4 Gravimetric\n0 Radar……… + -8 Radar……… = -8 Radar\n11 Ladar…….. + -8 Ladar……… = 3 Ladar <- útaf þessum 3 stigum getur hann enn lockað.\nMaður A sér hvað hann er að gera rangt og ákveður að slökkva á ECM - White Noise Generatorinum sýnum og kveikja rekar á 2x ECM - Phase Inverter og gerir þá:\nPhase inverter lagt við Phase inverter = Nóg á Rupture.\n-2 Magnetometric. + -2 Magnetometric.. = -4 Magnetometric\n-2 Gravimetric… + -2 Gravimetric…. = -4 Gravimetric\n-2 Radar……… + -2 Radar………. = -4 Radar\n-6 Ladar……… + -6 Ladar………. = -12 Ladar\n..og þar með slekkur hann á targeting kerfum Rupture'sins.\nSönnun:\n0 Magnetometric. + -4 Magnetometric. = -4 Magnetometric\n0 Gravimetric… + -4 Gravimetric… = -4 Gravimetric\n0 Radar……… + -4 Radar……… = -4 Radar\n11 Ladar…….. + -12 Ladar…….. = -1 Ladar\nEf allir targeting flokkar skips fara í 0 eða minna þá getur það ekki targetað.\nÞetta er gott tækifæri fyrir Mann A að Warp Disrupta Mann B og segja honum að borga sér pening eða hann eyðileggi hann. Þetta kallast að “Ransoma” eða á ensku “to ransom”. Þetta er ein af mörgum leiðum til að græða pening sem Pirate/Ræningi. Við í corpinu “Warmongers” gerum þetta af og til ef okkur vantar pening og ef ykkur langar að vera með í corpinu spjallið við mig í EVE eða á IRC. Nickið mitt í EVE er “Jane Vladmir” og á IRC “Sw|zcaR”. Við tökum inn alla íslendinga sem eru ekki á trial og komnir með að minnsta kosti 200 Skill Points.\n___________________\nJane Vladmir a.k.a.\nzcar :)",
+    "url": "https://www.hugi.is/ccp/greinar/211875/electronic-warfare-and-the-works/",
+    "url_id": "211875",
+    "id": "1630301",
+    "replies": [
+        {
+            "user": "pgss",
+            "user_id": "34523",
+            "date": "2004-06-30 14:12:57",
+            "id": "1630302",
+            "reply_to_id": "1630301",
+            "text": "cool grein ma"
+        },
+        {
+            "user": "Terminator",
+            "user_id": "4765",
+            "date": "2004-06-30 14:20:23",
+            "id": "1630303",
+            "reply_to_id": "1630301",
+            "text": "“Ef skip fer niður í 0 stig í öllum flokkum þá getur það ekki targetað/lockað neinn og getur því ekki barist mikið.”\nEf skip fer niður í 0 stig í SÍNUM flokki… það eru sum item sem gefa aukið sensor str. (gleymdir að minnast á þau), eða fleiri svona “stig”. Tökum sem dæmi Gravimetric Backup Array II. Það gefur +4 Gravimetric stig. Sé því fittað á scorp er það þar af leiðandi komið í 20 sensor str. En sé því fittað á t.d. rupture hefur það engin áhrif. Þetta item virkar einungis á Caldari skip."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2004-06-30 15:42:11",
+            "id": "1630304",
+            "reply_to_id": "1630303",
+            "text": "Það er eitthvað í þessu sem þú segir en annað sem er rangt.\nÞað er satt að það eru items í leiknum sem gefa þér auka “stig” en til þess að ná að ECM jamma einhvern verður þú að ná ÖLLUM “sthigunum” niður í 0 eða minna. Það þýðir að þessir hlutir VIRKA á aðra hluti, þó þeir geri það ekki jafn vel. Getur hinsvegar komið á óvart ef þú VEIST að viðkomandi ætlar að ECM'a þig.\nDæmi:\nRupture + 3x Gravimetric Backup Array II\nvs\n3x Phase Inverter\nRupture + 3x Gravimetric Backup Array II = 12Gravimetric + 11 Ladar.\n0 Magnetometric stig. + 0 Magnetometric stig. = 0 Magnetometric stig\n0 Gravimetric stig…… + 12 Gravimetric stig…… = 12 Gravimetric stig\n0 Radar stig………… + 0 Radar stig………… = 0 Radar stig\n11 Ladar stig……….. + 0 Ladar stig……….. = 11 Ladar stig\nOg svo þetta -VS- 3x Phase Inverter:\n0 Magnetometric stig. + -6 Magnetometric stig. = -6 Magnetometric stig\n12 Gravimetric stig….. + -6 Gravimetric stig….. = 6 Gravimetric stig (Þetta heldur locki)\n0 Radar stig………… + -6 Radar stig………… = -6 Radar stig\n11 Ladar stig……….. + -18 Ladar stig……….. = -7 Ladar stig\nSem þýðir það að vegna þessa 6 Gravimetric stiga nær Rupture'inn að halda locki. S.s. ef þetta er fittað á Rupture HEFUR það áhrif og þar með sannast það að þetta VIRKAR á öll skip, bara mis vel."
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2004-06-30 15:43:54",
+            "id": "1630305",
+            "reply_to_id": "1630301",
+            "text": "Hér kemur það sem komst ekki inn með greininni, endirinn (Greinin var of löng):\n..og til þess að Rupturinn nái ekki að locka þarf hann að hafa 0 í öllum targeting flokkum(Gravimetric, Magnetometric, Radar og Ladar). Sönnun:\n0 Magnetometric. + -4 Magnetometric. = -4 Magnetometric\n0 Gravimetric… + -4 Gravimetric… = -4 Gravimetric\n0 Radar……… + -8 Radar……… = -8 Radar\n11 Ladar…….. + -8 Ladar……… = 3 Lada"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2004-06-30 15:44:55",
+            "id": "1630306",
+            "reply_to_id": "1630305",
+            "text": "..og til þess að Rupturinn nái ekki að locka þarf hann að hafa 0 í öllum targeting flokkum(Gravimetric, Magnetometric, Radar og Ladar). Sönnun:\n0 Magnetometric. + -4 Magnetometric. = -4 Magnetometric\n0 Gravimetric… + -4 Gravimetric… = -4 Gravimetric\n0 Radar……… + -8 Radar……… = -8 Radar\n11 Ladar…….. + -8 Ladar……… = 3 Ladar - útaf þessum 3 stigum getur hann enn lockað.\nMaður A sér hvað hann er að gera rangt og ákveður að slökkva á ECM - White Noise Generatorinum sýnum og kveikja rekar á 2x ECM - Phase Inverter og gerir þá:\nPhase inverter lagt við Phase inverter = Nóg á Rupture.\n-2 Magnetometric. + -2 Magnetometric.. = -4 Magnetometric\n-2 Gravimetric… + -2 Gravimetric…. = -4 Gravimetric\n-2 Radar……… + -2 Radar………. = -4 Radar\n-6 Ladar……… + -6 Ladar………. = -12 Ladar\n..og þar með slekkur hann á targeting kerfum Rupture'sins.\nSönnun:\n0 Magnetometric. + -4 Magnetometric. = -4 Magnetometric\n0 Gravimetric… + -4 Gravimetric… = -4 Gravimetric\n0 Radar……… + -4 Radar……… = -4 Radar\n11 Ladar…….. + -12 Ladar…….. = -1 Ladar\nEf allir targeting flokkar skips fara í 0 eða minna þá getur það ekki targetað.\nÞetta er gott tækifæri fyrir Mann A að Warp Disrupta Mann B og segja honum að borga sér pening eða hann eyðileggi hann. Þetta kallast að “Ransoma” eða á ensku “to ransom”. Þetta er ein af mörgum leiðum til að græða pening sem Pirate/Ræningi. Við í corpinu “Warmongers” gerum þetta af og til ef okkur vantar pening og ef ykkur langar að vera með í corpinu spjallið við mig í EVE eða á IRC. Nickið mitt í EVE er “Jane Vladmir” og á IRC “Sw|zcaR”. Við tökum inn alla íslendinga sem eru ekki á trial og komnir með að minnsta kosti 200 Skill Points.\n___________________\nJane Vladmir a.k.a.\nzcar :)"
+        },
+        {
+            "user": "smeppi",
+            "user_id": "717",
+            "date": "2004-06-30 16:10:52",
+            "id": "1630307",
+            "reply_to_id": "1630301",
+            "text": "soldið bjánalegt að target jamma skip sem er að mæna, en jæja :)\nog já, þetta er alveg rétt hjá þér, ef ég er td á mega þá get ég alveg fittað slatta af grav dæmi á og fengið kannski 20 í grav, þá gerir gallente jammer ekki mikið :)"
+        },
+        {
+            "user": "Terminator",
+            "user_id": "4765",
+            "date": "2004-06-30 18:14:12",
+            "id": "1630308",
+            "reply_to_id": "1630301",
+            "text": "GRAVIMETRIC, RADAR OG MAGNOMETRIC UPPERS VIRKA EKKI Á MINMATAR SKIP. SKIP GETA BARA HAFT SENSORS ÚR SÍNU RACE.\nAnnars væru race-specific jammers useles… maður myndi bara setja á nokkra radar thingy á öll minmatar skip og þar með er race specific dæmið useless"
+        },
+        {
+            "user": "Rumms",
+            "user_id": "30459",
+            "date": "2004-06-30 20:50:00",
+            "id": "1630309",
+            "reply_to_id": "1630301",
+            "text": "Nice grein, en ein spurning um EW samt,\nef einhver er búinn að locka á mig og ég nota ECM stuff á hann missir hann þá lockið?\nhef bara leikið mér með þetta á móti NPCs og þeir virðast hafa mig ennþá locked\nþó ég fari niður í -16 Magnometric á thorax"
+        },
+        {
+            "user": "smeppi",
+            "user_id": "717",
+            "date": "2004-06-30 21:24:44",
+            "id": "1630310",
+            "reply_to_id": "1630309",
+            "text": "Þú sérð að það er rauður kassi kringum þá sem locka á þig. Þegar einhver er jammaður fer þessi rauði kassi þar sem hann er ekki lengur með lock á þér.\nNPC Pirates eru með -r-o-s-a-l-e-g-a- gott resistance vs ECM.\nEkki jamma pirates, það einfaldlega borgar sig ekki.\nP.S. Terminator, vissi það ekki afsakaðu. d:-O"
+        },
+        {
+            "user": "smeppi",
+            "user_id": "717",
+            "date": "2004-06-30 21:28:49",
+            "id": "1630311",
+            "reply_to_id": "1630310",
+            "text": "það borgar sig stundum, td á móti bs spawns, þeas ef þú ert með nógu mörg med slots ;)"
+        },
+        {
+            "user": "Terminator",
+            "user_id": "4765",
+            "date": "2004-07-01 13:23:51",
+            "id": "1630312",
+            "reply_to_id": "1630309",
+            "text": "LADAR Sensor Strength\t        15 points\nMagnetometric Sensor Strength\t15 points\nRADAR Sensor Strength\t        15 points\nGravimetric Sensor Strength\t15 points\nÞetta eru statsarnir á held ég öllum pirates ingame. Semsagt þú þarft 4x multispectrals til að jamma þá. Þeir eru einu skipin sem geta haft mörg sensor str."
+        }
+    ]
+}

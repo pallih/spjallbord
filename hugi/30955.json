@@ -1,0 +1,125 @@
+{
+    "forum_title": "Forritun",
+    "user": "thexion",
+    "user_id": "5135",
+    "date": "2001-06-12 20:11:07",
+    "title": "meira um .bat skrár og M$",
+    "text": "Well, hvað er hægt að segja?\nætli það sé ekki best að byrja á byrjuninni.\nbat=batch\nþetta myndi því útleggjast á okkar ylhýra eitthvað í áttina við runukeyrsluskrá og þýðir skrá sem keyrir margar skipanir í einni röð. ekki ósvipað og script í linux og unix.\nsmá upprifjun í sögu einmenningstölvunnar.\ndos var í upphafi tilraun til að smíða einmennings stýrikerfi fyrir tölvur. því var ætlað að vera allt sem unix var fyrir fjölnotendatölvur og át því ýmislegt upp eftir því.\ntil að byrja með var dos algert drasl, punktur. samansuða úr unix og basic forritunarmálinu, en seinna er ekki hægt að segja annað en að dos hafi verið orðið frekar flott einmenning stýrikerfi og ansi stöðugt. síðan gerast undur í tölvuheiminum, apple setti lísu á innleiddi grafískt notendaviðmót í bransann. M$ elti náttúrulega og setti windows á markaðinn. mikið flopp til að byrja með en vegna fáránlegrar stefnu apple manna sem meinaði oðrum tölvuframleiðendum að framleiða vélbúnað sem studdi stýrikerfi þeirra náðu M$ að sigla hægt fram úr í stríðinu um grafíska viðmótið. en með 32 bita væðingu PC heimsins ákvað M$ að greiða MacOS náðarhöggið og yfirgefa dosið algerlega og skipta yfir í 32 bita grafískt umhverfi sem ætlað var að taka heiminn í einum stormsveip (þess má geta að apple menn voru þá þegar farnir að keyra allt sitt á 32 bitum). windows 95 kom á markaðinn. þessar áætlanir tókust nú ekki alveg hjá þeim því að þeir neyddust til að skilja smá dos kettling eftir í nýja kerfinu. mín skoðun er sú að þeir hefðu betur vandað sig aðeins meira og leift dosinu að halda sér alveg sem hluta af kerfinu, þá væri það sennilegra stöðugra í dag.\nhvað varðar fullyrðingar um að win95/98/Me séu einu stýrikerfin sem hrynji niður í command prompt þá er það ekki rétt. ég hef sjálfur þann heiður að hafa crashað NT og w2k niður í command prompt, og hvað varðar linux & unix, þá þarf nú fyrst að fá upp grafískt viðmót þar og hefur ýmsum reynst það erfiðara vegna slaks vélbúnaðarstuðnings.",
+    "url": "https://www.hugi.is/forritun/greinar/30955/meira-um-bat-skrar-og-m/",
+    "url_id": "30955",
+    "id": "206693",
+    "replies": [
+        {
+            "user": "Sblender",
+            "user_id": "1767",
+            "date": "2001-06-13 18:40:39",
+            "id": "206694",
+            "reply_to_id": "206693",
+            "text": "Ég er ekki sammála. Allt Dos like stýrikerfi verða að fara. Þegar þú horfir á svona gamlar sci-fi myndir og sérð tölvur með grænum fontum, alveg ógeðslegt, þú bendir á sjónvarpsskjáinn og hlærð:“hahaha, þessa risaeðlur, ég mynd svipta mig lífi ef ég þyrfti að nota þessa tölvu.” Sama með Kernelin í unix. Þótt ég viti ekki mikið um -ix kerfin finnst mér það allt, ALLT, of flókið. Mér finnst að þeir ættu að setja þetta í grafískt mode svo þetta sé auðveldara fyrir notendur.\nTakk f00rzo"
+        },
+        {
+            "user": "Bake",
+            "user_id": "5588",
+            "date": "2001-06-14 11:07:16",
+            "id": "206695",
+            "reply_to_id": "206694",
+            "text": "Viltu þá ekki smella hjálpardekkjum á eitthvað 1100 kúbika racer hjól, eða henda sjálfskiptingu í Ferrari línuna? Svona til að gera þetta ögn auðveldara fyrir þá sem nota þetta.\nGaur, þú velur tólið eftir verkefninu. Bara skemmtilegt hvað *nix er öflugt multipurpose-tól þegar maður er búinn að læra á það =)."
+        },
+        {
+            "user": "Sblender",
+            "user_id": "1767",
+            "date": "2001-06-21 07:06:04",
+            "id": "206696",
+            "reply_to_id": "206695",
+            "text": "Bahh… Það væri “NOTALEGT” að afmarka grafíska módið við 0101010 etc. Afhverju ekki? Ahverju vera með allt etta bull þegar það væri, og er hægt, að breyta öllu nema maskínukódanum í grafískt viðmót? Og ég er ekki að tala um fuckings tengingar eins og þesso #$!\"#$ var að tala um…"
+        },
+        {
+            "user": "Popcorn",
+            "user_id": "8387",
+            "date": "2001-06-23 02:37:19",
+            "id": "206697",
+            "reply_to_id": "206696",
+            "text": "Ég er ósammála!\nég hef tamið mér að nota console í linux nokkuð mikið. Og að geta gert stafina græna er ógeðslega cool, sem ég og alltaf geri. :)"
+        },
+        {
+            "user": "JonGretar",
+            "user_id": "7636",
+            "date": "2001-06-23 19:45:23",
+            "id": "206698",
+            "reply_to_id": "206696",
+            "text": "Að gera stýrikerfi alveg grafískt væri helvíti á jörðu. Það mundi hægja á tölvunum allt of mikið þar sem að erfiðara væri að customiza styrikerfið að þínum þörfum. Og svo er það hraðinn á þér sem mundi fara hríðlækkandi. Þú ert bara mun hraðari að vinna þegar þú getur verið með console við hliðina á þér og hefur alla tölvuna tilbúna til að gera það sem þú villt í örfáum pikkum frekar en að vera vesenast með að browsa gegnum hvern gluggan á fætur öðrum. Það er bara fact að þú vinnur hraðar því meira sem þú nærð að venja þig af þessu steinaldarfyrirbæri sem músin er.\nÉg keyri linux og nota mikið af hinum og þessum X forritum. En ég ræsi þau öll upp gegnum console þar sem það tekur bara mun lengri tíma að fletta gegnum hina og þessa menua og leita að Netscape iconinu frekar en að pikka bara inn “netscape &” og íta á enter.\nOg þetta með að NT og WIN2K crashi niður í console er ekki alveg eins. Win98 crashar niður í dos. En NT crashar kanski niður í textamode en það er samt NT ekki dos. Bara án grafíkarinnar sem er allt annað mál. Öll grafík vinnur sem texti. Það er bara skárinn sjálfur sem hugsar í grafík en sjálft grafíkviðmótið hugsar samt i textaformi.\nOg þetta er athyglisverðasta .bat umræða sem ég hef lent í ;)"
+        },
+        {
+            "user": "JonGretar",
+            "user_id": "7636",
+            "date": "2001-06-26 11:57:03",
+            "id": "206699",
+            "reply_to_id": "206698",
+            "text": "“Textinn” er reyndar ekkert annað en grafískt viðmót, fljótlegra viðmót heldur en gluggarnir en ekki jafn notendavænt (gott fyrir byrjendur en styður ekki nógu vel áframhaldandi notkun).\nÖrgjörvinn, minnið, sjákortið o.s.frv. les ekki texta til að birta réttu hlutina á skjánum :) .. það erum við sem skrifum forritin/gluggana sem texta sem síðan er þýddur yfir á vélamál.\nKv. thatman"
+        },
+        {
+            "user": "JonGretar",
+            "user_id": "7636",
+            "date": "2001-06-26 14:48:45",
+            "id": "206700",
+            "reply_to_id": "206699",
+            "text": "Ef við viljum fara það djúpt já ;)"
+        },
+        {
+            "user": "intenz",
+            "user_id": "127",
+            "date": "2001-06-26 22:36:41",
+            "id": "206701",
+            "reply_to_id": "206700",
+            "text": "hehe :D"
+        },
+        {
+            "user": "q38f",
+            "user_id": "7341",
+            "date": "2001-06-19 18:03:19",
+            "id": "206702",
+            "reply_to_id": "206694",
+            "text": "Sblender!!!\nHvernig vinnur þú í öðrum tölvum í gegnum netið?\nÍ grafísku viðmóti bara pure gui?\nErtu kannski einhver milli?\nBara með T3 upp að dyrum?\nÞað skiptir engu máli í bili hvernig tölvurnar eru\nMeð tengingu sem þessa við erum að tala um 36 Kb módem til ja 1  Mb link fyrir almenna notendur(fyrir sunnan!!!). Ja kannski fynnst þér grænu stafirnir ömurlegt en þeir voru grænir með ástæðu.\nEf þetta yrði pure black&wite Hvernig yrðirðu í augunum eftir 8 klst vinnu?"
+        },
+        {
+            "user": "arnorg",
+            "user_id": "459",
+            "date": "2001-06-20 02:46:51",
+            "id": "206703",
+            "reply_to_id": "206702",
+            "text": "ég sé ekki alveg Bat skráar hlutann í þessu…"
+        },
+        {
+            "user": "Moose",
+            "user_id": "4615",
+            "date": "2001-06-20 03:05:18",
+            "id": "206704",
+            "reply_to_id": "206703",
+            "text": "HEHE godur :)"
+        },
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2001-06-13 23:32:22",
+            "id": "206705",
+            "reply_to_id": "206693",
+            "text": "Uh…\nHefurðu heyrt um X?"
+        },
+        {
+            "user": "Gauos",
+            "user_id": "297",
+            "date": "2001-06-19 11:24:00",
+            "id": "206706",
+            "reply_to_id": "206693",
+            "text": "Ég var að horfa á Alien og sá að tölvurnar þar eins og í flestum framtíðarmyndum eru ekkert nema pure stafir, það er ekkert VGUI =Þ"
+        },
+        {
+            "user": "Zealot",
+            "user_id": "6298",
+            "date": "2001-09-06 19:53:39",
+            "id": "206707",
+            "reply_to_id": "206693",
+            "text": "Fáið ykkur Jónu"
+        }
+    ]
+}

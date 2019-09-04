@@ -1,0 +1,37 @@
+{
+    "forum_title": "Windows",
+    "user": "shine",
+    "user_id": "11309",
+    "date": "2008-10-04 15:22:50",
+    "title": "Skjá vandamál :/",
+    "text": "Lenti í svolitlu afar böggandi áðan..\nVar í tölvunni minni og ekkert mál, skjárinn minn seme r 19\" CRT skjár var eitthvað með leiðinlegan lit á einni hliðinni svo ég tók hann smá úr sambandi við tölvuna og ákvað líka að taka auka tengið á milli, veit ekki hvað það heitir en eþtta er svona lítill auka tengill til að tengja gamalt tengi í svona nýrri týpu sem er alltaf á skjákortum núna..\nÞegar ég tek það úr sambandi heyrist svona eins og þegar þú aftengir usb tengi eða álíka í hátölurum, okay tengi skjáinn aftur og það gerist ekkert, er bara svartur..\nNú ég restarta og skjárinn virkar meðan þú ert á leiðinni inní windows, sýnir þér allt þarna sem kemur í startup en sov þegar þú kemur í Windows sjálft þá hættir hann að virka..\nÉg prófa safe mode og kemst þá inní windows en finn svo sem ekkert til að laga þetta, kemur ekkert message..\nÉg er að spá hvað ég get hafa gert við tölvuna með að aftengja þetta plug og skjárinn virkar bara ekki inní windows .. :/ samt er windows gangandi því ég heyri hljóð og svona shit …\nEr einhver með galdra ráð ?",
+    "url": "https://www.hugi.is/windows/korkar/617563/skja-vandamal/",
+    "url_id": "617563",
+    "id": "6182578",
+    "replies": [
+        {
+            "user": "Stoggr",
+            "user_id": "50833",
+            "date": "2008-10-04 16:02:06",
+            "id": "6182633",
+            "reply_to_id": "6182578",
+            "text": "System Restore !"
+        },
+        {
+            "user": "shine",
+            "user_id": "11309",
+            "date": "2008-10-04 19:01:31",
+            "id": "6183006",
+            "reply_to_id": "6182633",
+            "text": "Virkaði, takk"
+        },
+        {
+            "user": "Stoggr",
+            "user_id": "50833",
+            "date": "2008-10-04 19:02:18",
+            "id": "6183008",
+            "reply_to_id": "6183006",
+            "text": "Ekki málið"
+        }
+    ]
+}

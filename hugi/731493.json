@@ -1,0 +1,45 @@
+{
+    "forum_title": "Skóli",
+    "user": null,
+    "user_id": null,
+    "date": "2011-12-04 13:32:42",
+    "title": "STÆ303",
+    "text": "Ef eitthver getur hjálpað mér aðeins hér þá væri það frábært!\n1. Gefið er að tan(v)=2/7 og cos(v)<0. Finnið nákvæmt gildi á cos(v)\n2. Um hornin u og v gildir:\nsin(u)=1/3 og cos(u)<0\ncos(v)=-1/9 og tan(v)>0\nReiknið nákvæm gildi á cos(u+v) og sin(u-v)\n3. Gefið er að cos(v)=-9/41 og að v er í öðrum fjórðungi. Reiknið nákvæm gildi á sin(2v) og tan(2v) án þess að reikna hornið v eða 2v.\nMeð fyrirfram þökk því ég á erfitt með að skilja þessar bölvuðu netglósur hvernig ég á að gera þetta :(",
+    "url": "https://www.hugi.is/skoli/korkar/731493/stae303/",
+    "url_id": "731493",
+    "id": "7368409",
+    "replies": [
+        {
+            "user": "Loki",
+            "user_id": "32054",
+            "date": "2011-12-04 19:27:28",
+            "id": "7368457",
+            "reply_to_id": "7368409",
+            "text": "1. Athugum fyrst að sin(v)^2 + cos(v)^2 = 1 eða sin(v) = +- sqrt( 1 - cos(v)^2 ) (plús-mínus kvaðratrót af …)\nNú er tan(v) = sin(v)/cos(v) = +- sqrt( 1 - cos(v)^2 )/cos(v) = 2/7\nSíðan er leyst fyrir cos(v) og valin sú lausn sem er neikvæð (gæti þurft að skipta upp í tilfelli).\n2. er leyst eins, ásamt því að cos(x+y) = cos(x)cos(y)+sin(x)sin(y) (eða eitthvað álíka, man það ekki alveg), og skrifar svo allar óþekkta sínusa eins og í lið 1. (og alla óþekkta kósínusa á sambærilegan hátt).\n3. Alltaf sama sagan, nema að nú þarftu að nota reglur um tvöföld horn, td. að sin(2v) = 2sin(v)cos(v), og skrifa síðan óþekkta sínusa eins og í lið 1. og 2."
+        },
+        {
+            "user": "Loki",
+            "user_id": "32054",
+            "date": "2011-12-05 10:35:25",
+            "id": "7368513",
+            "reply_to_id": "7368457",
+            "text": "Ég þakka fyrir ágætis svar en ég er enn svolítið strand með fyrsta dæmið, hvernig ég næ að finna út cos(v) án þess að vera með sin(v). :\\\nEn reglan var cos(u+v) = cos(u)cos(v)-sin(u)sin(v) :)"
+        },
+        {
+            "user": "Loki",
+            "user_id": "32054",
+            "date": "2011-12-06 08:00:20",
+            "id": "7368640",
+            "reply_to_id": "7368513",
+            "text": "cos(v) er gefið sem -1/9, eins og dæmið er skrifað upp hérna."
+        },
+        {
+            "user": "Moonwalking",
+            "user_id": "76760",
+            "date": "2011-12-06 03:19:22",
+            "id": "7368632",
+            "reply_to_id": "7368409",
+            "text": "http://vefir.mh.is/stae/stae_303/6_hornafallareglur.pdf\nlestu lærðu og náðu"
+        }
+    ]
+}

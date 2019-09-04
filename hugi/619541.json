@@ -1,0 +1,69 @@
+{
+    "forum_title": "Windows",
+    "user": "Cockness",
+    "user_id": "40497",
+    "date": "2008-10-14 00:30:35",
+    "title": "Windows Audio Error",
+    "text": "Sælir, ég var að uppfæra vinnsluminnið á XP inu mínu en var að hækka það uppí 4gig (64 bit blablabla) þegar ég smellti í kortunum tveim og ætlaði að fara að hlusta á tónlist þá  neitaði að spila hjá mér. Þegar ég fer og ætla að velja hvaða device ég vill í control panel þá er einfaldlega “grey-ed out” valmöguleikinn.\nÉg er með hljóðkort sem fylgdi með Móðurborðinu.\nSS. Windows finnur ekki sound device og ég get ekki reinstallað drivers eða neitt.\nVona að þetta sé skiljanlegt hjá mér.",
+    "url": "https://www.hugi.is/windows/korkar/619541/windows-audio-error/",
+    "url_id": "619541",
+    "id": "6209384",
+    "replies": [
+        {
+            "user": "THX",
+            "user_id": "55682",
+            "date": "2008-10-14 15:07:24",
+            "id": "6210171",
+            "reply_to_id": "6209384",
+            "text": "Farðu í start- run og skrifaðu dxdiag og farðu í sound flipann og segðu mér hvað stendur í driver."
+        },
+        {
+            "user": "Cockness",
+            "user_id": "40497",
+            "date": "2008-10-14 15:40:24",
+            "id": "6210265",
+            "reply_to_id": "6210171",
+            "text": "No sound card was found.  If one is expected, you should install a sound driver provided by the hardware manufacturer.\nÖll fields eru tóm"
+        },
+        {
+            "user": "THX",
+            "user_id": "55682",
+            "date": "2008-10-14 18:00:14",
+            "id": "6210684",
+            "reply_to_id": "6210265",
+            "text": "Ok, en hliðiá í devices?"
+        },
+        {
+            "user": "Cockness",
+            "user_id": "40497",
+            "date": "2008-10-14 23:42:03",
+            "id": "6212085",
+            "reply_to_id": "6210684",
+            "text": "Ekki neitt.\nÖll\nfields alveg tóm, getur vel verið að ég hafi eyðilagt þetta þegar ég var að setja vinnsluminnið í."
+        },
+        {
+            "user": "THX",
+            "user_id": "55682",
+            "date": "2008-10-14 23:48:39",
+            "id": "6212100",
+            "reply_to_id": "6212085",
+            "text": "Neeee, hvernig móðurborð ertu með?"
+        },
+        {
+            "user": "Cockness",
+            "user_id": "40497",
+            "date": "2008-10-15 00:54:23",
+            "id": "6212248",
+            "reply_to_id": "6212100",
+            "text": "Hvar get ég séð það?"
+        },
+        {
+            "user": "FRATLUND",
+            "user_id": "74536",
+            "date": "2008-10-16 09:37:25",
+            "id": "6215487",
+            "reply_to_id": "6209384",
+            "text": "Þú verður nú að setja þau í rétta rauf."
+        }
+    ]
+}

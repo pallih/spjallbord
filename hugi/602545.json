@@ -1,0 +1,29 @@
+{
+    "forum_title": "Vélbúnaður",
+    "user": "freki",
+    "user_id": "1682",
+    "date": "2008-07-15 12:58:09",
+    "title": "Smá hjálp.",
+    "text": "Sælt veri fólkið.\nNú er ég að reyna koma upp vél og þegar ég ræsti hana fyrst þá kom uppl. um BIOS og svona. Start up screen, og BIOS fann harða diskinn, og er búin að stilla þanngi að ræst sé á DVD. En svo endurræsti  og þá kemur bara upp á skjáin mynd sem segir hvaða móðurborð ég er með og ég get valið Del til að komas í SEtup.\nÉg kemst í setup og þá kemur hann ekki fram þar.\nNú ert ég búin að ath alla kapla svo það er ekki það.\nEr harðidiskurinn ónýtur eða ???\nEr með þetta tengt þannig að DVD er master og HDD er slave.\nGetur verið að DVD sé eitthvað að stríða mér ?\nMeð von um góð svör.",
+    "url": "https://www.hugi.is/velbunadur/korkar/602545/sma-hjalp/",
+    "url_id": "602545",
+    "id": "5991872",
+    "replies": [
+        {
+            "user": "ir15156",
+            "user_id": "43045",
+            "date": "2008-07-15 14:35:55",
+            "id": "5992004",
+            "reply_to_id": "5991872",
+            "text": "Þú ert með HDD sem slave. Það er vandamálið.  Ef þú ert með 2 HDD þá er annar master og hinn slave. Ef þú ert með 1 HDD þá verður hann að vera master. Þú getur líka haft DVD master. Þetta er ekki sami hluturinn. 2 hdd er sami hluturinn, ekki dvd og hdd."
+        },
+        {
+            "user": "freki",
+            "user_id": "1682",
+            "date": "2008-07-15 17:08:44",
+            "id": "5992351",
+            "reply_to_id": "5992004",
+            "text": "Takk fyrir þetta.\nKíki á þetta í kvöld. :)"
+        }
+    ]
+}

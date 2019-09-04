@@ -1,0 +1,21 @@
+{
+    "forum_title": "Grafísk hönnun",
+    "user": "Pieman",
+    "user_id": "39694",
+    "date": "2007-03-02 23:54:03",
+    "title": "Hjálp með reskin",
+    "text": "Þannig er mál með vexti að ég hef verið að fikta við að breyta textures í TES4: Oblivion.\nÞetta hefur verið frekar seingert því jafnvel þó að ég sé bara að breyta lit á sumum “surfaces” með Hue/Saturation þarf ég alltaf að basla heilu klukkutímana við að plokka þetta frá texture-unum í kring á UV mapinu.\nhttp://www.box.net/public/2330z4xm7l\nHérna er tengill á UV mappið. Það sem ég hafði í huga var ekkert svakalegt, bara að taka þessa neongrænu fleti og gera þá öðruvísi á litin með Hue/Saturation, nema það sé til auðveldari leið.\nSvo, er einhver leið til að velja grænu fletina fljótlega? Þetta flokkast örugglega undir græningjaspurningu og vonandi er einhver lauflétt lausn við þessu en ég er búinn að reyna allt sem ég kann. :",
+    "url": "https://www.hugi.is/grafik/korkar/498943/hjalp-med-reskin/",
+    "url_id": "498943",
+    "id": "4644342",
+    "replies": [
+        {
+            "user": "roygbiv",
+            "user_id": "28853",
+            "date": "2007-03-05 16:10:49",
+            "id": "4652645",
+            "reply_to_id": "4644342",
+            "text": "Þú getur prófað að gera select>>color range eða hvað það heitir. Það kemur samt ekkert alltaf vel út, virkar náttúrulega best að klippa þetta bara út. Þú getur líka reynt að nota magic wand."
+        }
+    ]
+}

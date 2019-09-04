@@ -1,0 +1,53 @@
+{
+    "forum_title": "Kvikmyndagerð",
+    "user": "Galdrakall",
+    "user_id": "41959",
+    "date": "2008-10-13 15:27:50",
+    "title": "Capture í Premiere Pro CS3",
+    "text": "Þegar ég capture-a widescreen (16:9) video í Premiere Pro CS3 þá kemur það alltaf út sem 4:3. Er með Widescreen Project file þannig það er ekki málið og videoið kemur sem widescreen þegar ég edita það en ef ég opna raw file-inn í VLC td bara þá kemur það sem 4:3. Ég þarf að fá raw videoið til að vera widescreen því ég er að matchmove-a (3D tracking) og þarf að koma þessu í png sequence en það verður alltaf 4:3. Kannast eitthver við þetta?\nBætt við 13. október 2008 -  17:30\nvona að það sé hægt að skilja það sem ég sagði :P",
+    "url": "https://www.hugi.is/kvikmyndagerd/korkar/619389/capture-i-premiere-pro-cs3/",
+    "url_id": "619389",
+    "id": "6207332",
+    "replies": [
+        {
+            "user": null,
+            "user_id": null,
+            "date": "2008-10-13 19:13:00",
+            "id": "6208217",
+            "reply_to_id": "6207332",
+            "text": "Þarft að passa að þegar þú exportar þessu þá sé ekkert sem breytir löguninni"
+        },
+        {
+            "user": "Pottlok",
+            "user_id": "13598",
+            "date": "2008-10-14 00:19:28",
+            "id": "6209342",
+            "reply_to_id": "6207332",
+            "text": "Eins og Skur sagði þá er örugglega eitthvað í export rútínuni sem þú gerir vitlaust.\nGæti ekki verið að þú sért bara að exporta í 4:3 en ekki 16:9 ?"
+        },
+        {
+            "user": "Hadrianus",
+            "user_id": "3208",
+            "date": "2008-10-14 14:47:06",
+            "id": "6210101",
+            "reply_to_id": "6207332",
+            "text": "ástæðan fyrir þessu er að þú ert að exporta þessu í 16:9 með pixel aspect ratio upp á 1.78 ef ég mann rétt. En allar stillingar eru réttar hjá þér, eini munurinn er að video forrit geta skilið þessar stillingar.\nTil að komast framhjá þessu (geri ráð fyrir að þú sért að vinna í pal anamorphic) er að exporta þessu, stilla það á square pixel aspect ratio og setja stærðina í 1024x576 sem er upplausnin fyrir widescreen pal ef það er square pixel aspect ratio.\nvona að þú skiljir hvað ég eigi við.\nláttu mig vita ef þetta gengur ekki…. eða ef þetta gengur :D"
+        },
+        {
+            "user": "Hadrianus",
+            "user_id": "3208",
+            "date": "2008-10-14 15:50:50",
+            "id": "6210294",
+            "reply_to_id": "6207332",
+            "text": "ég ætti kannski að bæta við að raw file-ar í 4:3 eru 720x576 með pixel aspect ratio upp á 1.07 en raw file-ar í 16:9 eru 720x576 með pixel aspect ratio upp á 1.45 (ekki 1.78 eins og ég sagði áðan)\nég hef bara reynt að venja mig á það að hugsa sem flest í square pixels sem er raun víddir video_filesins, en aðalega vegna þess að ég er mest í eftirvinnslu og klippingu og þarf að hafa þetta allt á hreinu þegar ég er að keyra þetta á milli forrita.\nen Pal 4:3 er þá 768x576 en widescreen eða 16:9 er 1024x576\nþannig að þetta eru sömu víddirnar í pixlum talið fyrir hið almenna video forrit. en klippiforrit breyta þessu svo eftir henti semi þegar byrjað er að klippa. svo framalega sem forritið er stillt á réttan staðal.\ntil að átta sig betur á þessu má googla “pixel aspect ratio” og er ágætist grein á wiki um grunnin á þessu og slatti af öðrum útskýringar greinum.\nég ætla svo sannarlega að vona að þetta sé skiljanlegt svona hratt tekið fyrir, ef ekki get ég komið með betri dæmi,"
+        },
+        {
+            "user": "Harib0",
+            "user_id": "68184",
+            "date": "2008-10-22 21:08:28",
+            "id": "6232482",
+            "reply_to_id": "6207332",
+            "text": "Er hugsanlegt að þetta sé ekki bara stilling í myndavélinni?\nAllavega í minni get ég stillt hvernig ég set myndefnið út, t.d. breytt úr HD yfir í venjulegt DV os.frv."
+        }
+    ]
+}
