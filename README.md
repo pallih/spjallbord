@@ -96,7 +96,7 @@ Hver þráður hefst á upphafsinnleggi sem hefur `id`. Þar er slóð á þrá�
 
 ## Live2cruize
 
-Live2cruize, eða Live2cruize.com, er í möppunni `live2ruize`.
+Live2cruize, eða Live2cruize.com, er í möppunni `live2cruize`.
 
 ### Dæmi
 
@@ -212,7 +212,7 @@ Live2cruize, eða Live2cruize.com, er í möppunni `live2ruize`.
 
 ## Athugasemdir
 
-Hver þráður hefst á upphafsinnleggi sem hefur `id`. Þar er slóð á þráðinn, hvaða umræðuborði hann tilheyrir og dagsetning tilgreind. Einnig er texti innleggsins (`text`) og titill (`title`) þess tilgreint. Innlegg eru í fylkinu `posts`. Texti innleggs/svars er í `text`.  Hvert innlegg hefur `post_id`eigindi þar sem það fyrsta fær 1 og það næsta 2 og svo koll af kolli.
+Hver þráður hefst á upphafsinnleggi sem hefur `id`. Þar er slóð á þráðinn, hvaða umræðuborði hann tilheyrir og dagsetning tilgreind. Innlegg eru í fylkinu `posts`. Texti innleggs/svars er í `text`.  Hvert innlegg hefur `post_id`eigindi þar sem það fyrsta fær 1 og það næsta 2 og svo koll af kolli.
 
 Í texta hvers innleggs hefur tjáknum verið skipt út fyrir streng sem hefst á `<<<`, þar næst heiti skráarinnar sem tjáknið vísar í og svo endar strengurinn á `>>>`.
 
