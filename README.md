@@ -1,4 +1,4 @@
-# Þrjú spjallborð
+# Fjögur spjallborð
 
 Þessi mappa inniheldur 40.000 þræði af fjórum íslenskum spjallborðum. Fjöldi frá hverju spjallorði er 10.000. Aldur textanna er á árabilinu 2000-2019 en þar sem um slembiúrtak úr stærra safn er að ræða er óvíst að textar frá öllum árum séu til staðar.
 
