@@ -1,0 +1,310 @@
+{
+    "forum_title": "Almennt spjall",
+    "id": "27818",
+    "title": "Úrhleypibúnaður",
+    "url": "http://www.jeppaspjall.is/viewtopic.php?f=2&t=27818",
+    "posts": [
+        {
+            "user_name": "bjorgvinr",
+            "text": "Ég er að vinna að skólaverkefni þar sem ég er að fást við hönnun og smíði á sjálfstýringu fyrir úrhleypibúnað. Mig langar að heyra hvaða skoðanir þið hafið á kröfum fyrir svona kerfi, þá aðalega stýrihlutann óháð því hvernig tengt er útí hjól.\nÞetta eru þau atriði sem ég er að spá í\n1) Hvert þarf þrýstingssvið tækisins að vera ?\n2) Hvaða hitastigs svið þarf tækið að þola ?\n3) Stærðar takmarkanir á notandaviðmóti inní bíl ?\n4) Hvernig á kerfið að bregðast við leka í dekki ? Ætti kerfið að tilkynna leka sérstaklega ?\n5) Hver þarf nákæmni þrýstinema að vera ? Nákvæmni er gefin upp í hámarks fráviki frá réttu gildi. Sem dæmi getur nákæmni verið gefin upp í ±0,1 psi.\n6) Hver þarf upplausn óskgildis að vera, annars vegar á lágum þrýsting (t.d. < 5 psi) og hins vegar hærri þrýsting ? Þegar átt er við upplausn er átt við á hvaða þrýstings gildum er hoppað, hálfu pundi / heilu pundi ?\n7) Hversu mikilvægt er að kerfið sé stöðugt í grófum akstri ? að kerfið sé ekki að reyna leiðrétta þýstingingstruflanir sem eru eingöngu af völdum aksturs.\n8) Er nóg að vera með eitt óskgildi fyrir öll dekk eða er nauðsynlegt að geta valið mismunandi þrýsting fyrir hvert og eitt dekkin ?\n9) Væri heppilegt að hafa þrýstireglun á kút innbyggða í svona tæki ?\nBjörgvin Rúnar",
+            "date": "2014-11-25 11:43:00",
+            "post_id": "147641",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "ivar",
+            "text": "Þetta er örugglega mjög breytilegt eftir notendum :)\nSvona myndi ég svara þessu fyrir sjálfan mig:\n1) Hvert þarf þrýstingssvið tækisins að vera ?\n 0-30psi en ef þetta ætti að vera nýtt á sumrin þá 0-70psi\n2) Hvaða hitastigs svið þarf tækið að þola ?\n -30 til +30\n3) Stærðar takmarkanir á notandaviðmóti inní bíl ? \nÉg vil varla sjá þetta svo 5cm*5cm rofaborð væri max stærð fyrir mig.\n4) Hvernig á kerfið að bregðast við leka í dekki ? Ætti kerfið að tilkynna leka sérstaklega ? \nÞetta er svona nice to have en ljós eða ýla er ekkert vont apparat. Loka fyrir dekk svo það hafi ekki áhrif á hin væri líka kostur\n5) Hver þarf nákæmni þrýstinema að vera ? Nákvæmni er gefin upp í hámarks fráviki frá réttu gildi. Sem dæmi getur nákæmni verið gefin upp í ±0,1 psi.\n Á lágum þrýsting þarf nákvæmnin að vera +-0,1psi en á hærri þrýsting dugar alveg +-1psi\n6) Hver þarf upplausn óskgildis að vera, annars vegar á lágum þrýsting (t.d. < 5 psi) og hins vegar hærri þrýsting ? Þegar átt er við upplausn er átt við á hvaða þrýstings gildum er hoppað, hálfu pundi / heilu pundi ?\n 0.5psi uppí 5, 1psi þar fyrir ofan. einfaldleikans vegna hefði ég haft þetta á 0,5psi hoppum \n7) Hversu mikilvægt er að kerfið sé stöðugt í grófum akstri ? að kerfið sé ekki að reyna leiðrétta þýstingingstruflanir sem eru eingöngu af völdum aksturs. \nFinnst þetta eigi ekki að vera að leiðrétta sig svo mikið. Ætti kannski að nota meðaltalsgildi síðustu 20 mín til að stilla sig eftir t.d.\n8) Er nóg að vera með eitt óskgildi fyrir öll dekk eða er nauðsynlegt að geta valið mismunandi þrýsting fyrir hvert og eitt dekkin ? \nFram og aftur væri gott en mér dugar alveg eitt gildi s.s.\n9) Væri heppilegt að hafa þrýstireglun á kút innbyggða í svona tæki ?\n Ekkert frekar, nota það bara beint á dælu",
+            "date": "2014-11-25 12:12:00",
+            "post_id": "147642",
+            "reply_to_id": "147641"
+        },
+        {
+            "user_name": "elliofur",
+            "text": "Og ekki síst þarf flæði að vera gott. Það eru rosalega margir lítrar af lofti í hverju 46\" dekki, tala nú ekki um stærri dekk og svo eru þau náttúrulega amk 4 (stundum 6)",
+            "date": "2014-11-25 13:00:00",
+            "post_id": "147646",
+            "reply_to_id": "147642"
+        },
+        {
+            "user_name": "Stebbi",
+            "text": "Svar við númer 7 er að láta kerfið ekki regla sig eftir að óskgildi er náð.  Stillir þann þrýsting sem þú vilt og svo þegar búnaðurinn telur sig vera búin að afgreiða það mál þá er lokað fyrir.  \nVarðandi þrýstireglunina á kútnum þá er best að hafa það sem einfaldast í venjulegu pressustati en láta búnaðinn sýna þrýstinginn á kútnum og jafnvel hvort að dælan sé í gangi.",
+            "date": "2014-11-25 13:06:00",
+            "post_id": "147648",
+            "reply_to_id": "147646"
+        },
+        {
+            "user_name": "Kiddi",
+            "text": "Fyrir mitt leiti þá þyrfti að vera hægt að stilla þrýsting á bilinu 0-1 psi með 0,1 psi nákvæmni. 1-5 psi síðan með 0,5 psi nákvæmni og 1 psi þar fyrir ofan.\nÞeir sem á annað borð vilja hleypa niður fyrir 1 psi vilja að ég held getað stjórnað þessu svona nákvæmlega.",
+            "date": "2014-11-25 13:10:00",
+            "post_id": "147649",
+            "reply_to_id": "147648"
+        },
+        {
+            "user_name": "scweppes",
+            "text": "Var ekki einhver búinn að græja svona stýringu með snjallsíma?",
+            "date": "2014-11-25 16:32:00",
+            "post_id": "147655",
+            "reply_to_id": "147649"
+        },
+        {
+            "user_name": "Magni",
+            "text": "0-1 pund með 0,1 í nákvæmni. 1-3 pund með 0.25 í nákvæmni og þar fyrir ofan með 0,5 pund.",
+            "date": "2014-11-25 17:23:00",
+            "post_id": "147659",
+            "reply_to_id": "147655"
+        },
+        {
+            "user_name": "kjartanbj",
+            "text": "eru menn samt að þurfa svona nakvæmni? ég hleypi bara úr þangað til bíllinn drífur , mælirinn er bara svona viðmið :)",
+            "date": "2014-11-25 17:37:00",
+            "post_id": "147660",
+            "reply_to_id": "147659"
+        },
+        {
+            "user_name": "Kiddi",
+            "text": "Þessi nákvæmni og það að geta hleypt meira úr áhyggjulaust væri einn aðaltilgangurinn hjá mér með úrhleypibúnaði. Það er ekki komin krumpa í DC 44\" hjá mér þegar venjulegur mælir sýnir 0 en það er heilmikill munur á drifgetu þegar krumpan er komin. Það er bara nokkuð þreytandi að vera sífellt að fylgjast með þessu þannig að já... til hvers að búa til svona búnað sem er ekki með þessari nákvæmni?",
+            "date": "2014-11-25 18:10:00",
+            "post_id": "147664",
+            "reply_to_id": "147660"
+        },
+        {
+            "user_name": "bjorgvinr",
+            "text": "Ég þakka svörin.\nJú, Sölvi Oddsson græjaði svona tæki sem stýrt er þráðlaust með snjallsíma í samstarfi við Arctic Trucks. Ekki veit ég um meiri upplýsigar um það tæki en hann er með það uppsett í bílnum hjá sér einsog er. Það væri gaman að vita meira um þá lausn en hún er ekki til sölu neinstaðar svo ég viti til.\nSvo má ekki gleyma iðntölvulausninni hans Tryggva sem hefur verið í prófunum í 2 ár og hefur reynst vel. Nú í október kom hún í almenna sölu einsog sjá má hér  \nhttps://www.facebook.com/pages/St%C3%BD ... 4280806913\nSvo veit ég um einn sem eru að spá það sama og ég, að smíða sjálfstýringu og notandaviðmót frá grunni, byggt á microcontroller einsog Arduino. Kostir gætu verið að auðvelt er að smíða lítið og nett notandaviðmót ólíkt iðntölvunni.\nEru einhverjir fleiri að fikta við aðrar lausnir ?",
+            "date": "2014-11-25 21:37:00",
+            "post_id": "147692",
+            "reply_to_id": "147664"
+        },
+        {
+            "user_name": "Izan",
+            "text": "Sæll\nÉg er búinn að velta þessu svolítið fyrir mér og mér sýnist á öllu að þú sért á fínni leið með þessa pælingu.  Ég er svolítið frosinn í þrýstinemanum sjálfum og nákvæmni vs möguleika á skemmdum.\nÉg veit ekki hvernig tölvu þú ert að hugsa um en flestar eru með 10 bita aflestur af analog inngöngum og það setur þér skorður.  Ég sá fyrir mér nema sem væri 0-20 psi en vandamálið við hann er að hann þolir ekki kerfisþrýstinginn.  Auðleyst þannig með loka sem lokar hann inni þegar maður pumpar í.  20 Psi nemi á 10 bita inngangi gefur þér lágmarks skref 0,02 psi auk skekkju en ef þú ætlar að nota t.d. 0-70 eða 0-100 (sem myndi þola kerfisþrýstinginn) eru lágmarksskref 0.07psi.\nÞað að nota sama kerfið til að stjórna loftkerfinu er alveg hreint prýðilegt, stjórna HI og LO þrýsting, lágmarksþrýsting fyrir loftlæsingar (geta jafnvel minnkað diffrensinn á pressunni) til að minnka pendl í pressunni.  Þar er vandamálið að góðir þrýstinemar eru dýrir.\nÞað er líka hægt að fá nema sem mæla frá algeru vaccumi og þeir myndu sennilega vera miklu nákvæmari á notkunarþrýstingi heldur en þeir sem mæla frá andrúmsloftþrýstingi.  Þá þyrfti hinsvegar að mæla andrúmsloftþrýsting líka til að draga hann frá til að búnaðurinn skekkist ekki við hæðarmun.\nBara svona mínar pælingar so far, \nkv Jón Garðar",
+            "date": "2014-11-25 21:47:00",
+            "post_id": "147697",
+            "reply_to_id": "147692"
+        },
+        {
+            "user_name": "bjorgvinr",
+            "text": "Til að leysa vandamálið að fá of mikinn þrýsting inná mælana þegar pumpað er í þá er notaður þrýstijafnari inná kistuna stilltur á t.d. 30 psi. Þannig færðu líka öryggi því ef(þegar) stýringin klikkar þá fer í versta falli 30 psi inná dekkin.\nAð mínu mati er 10 bita AD-breyta ekki vandamál. Upplausn uppá 0,02 psi er miklu meira en þú þarft. Hinsvegar er nákvæmnin (accuracy) vandamál. \nSem dæmi hefur ódýr þrýstinemi einsog þessi hér \nhttp://cache.freescale.com/files/sensor ... PX4250.pdf\n nákvæmni uppá ±1,4% sem gefur ±0,5 psi. Þennan nema er mjög auðvelt að nota með microcontroller og er mjög ódýr.\nTil samanburðar er ECT2.5A sem hægt er að nota með iðntölvum og hefur nákvæmni uppá 0,18 psi(við bestu aðstæður, 25°C) yfir þrýstisviðið 0 - 36,3 psi . \nhttp://www.practicalcontrol.com.au/pdf_ ... T_8472.pdf\n Hann kostar hinsvegar um 10 sinni meira en sá fyrri. \nAð mæla þrýsting á kút væri hægt að gera með þessum hér \nhttp://cache.freescale.com/files/sensor ... PX5700.pdf\n Hann er 0 - 101,5 psi en hefur nákvæmni uppá ±2,5 psi sem ætti að duga vel fyrir tankreglun þar sem 2,5 psi til eða frá skipta ekki máli.",
+            "date": "2014-11-25 22:19:00",
+            "post_id": "147699",
+            "reply_to_id": "147697"
+        },
+        {
+            "user_name": "elliofur",
+            "text": "Aftur kem ég að flæði. Nú hef ég ekki verið með úrhleypibúnað í bíl hjá mér, en að vera með 30psi inná kistu, tekur ekki óratíma að hækka um, segjum 5psi, ef maður ætlar frá 3 uppí 8psi á milli skafla, að ég tali nú ekki um að stífpumpa? Eins þegar hleypt er úr, þá þarf flæði að vera gott. Hvað ertu að hugsa um að hafa lokana svera?\nÉg er að sjálfsögðu að tala um fulla stærð af dekkjum, 44-46tommu+. Hvað er margir lítrar í einu 46\" dekki við 20psi?",
+            "date": "2014-11-25 23:37:00",
+            "post_id": "147702",
+            "reply_to_id": "147699"
+        },
+        {
+            "user_name": "bjorgvinr",
+            "text": "jú, vissulega mun þetta alltaf takmarka flæðið. Einhverja hluta vegna er þetta samt notað hér heima. Veit um eina útgáfu sem er handstýrð en er samt með þrýstijafnara stilltan á 25 psi. Svo þegar full pumpa á í dekkin er bara opnað inná öll dekk og kerfið sé um rest. \nAnnað sem mér var bent á um daginn að í Hummer H1 er þrýstijafnari staðalbúnaður til þess að sprengja ekki pakkdósir í nafinu. Geri ráð fyrir að það sé þá svipað fyrir Unimok hásingar. \nVæri gaman að heyra frá þeim sem eru með úrheypibúnað hvort þeir séu að nota þrýstijafnara.",
+            "date": "2014-11-26 09:32:00",
+            "post_id": "147708",
+            "reply_to_id": "147702"
+        },
+        {
+            "user_name": "Ýktur",
+            "text": "Flæðið þarf ekki að vera svo svakalega mikið þegar kerfið er sjálfvirkt.  Þú þarft almennt ekki að stoppa og bíða meðan hleypt er úr eða pumpað í heldur gerir þetta á ferð.  Kerfið sér líka um að halda sömu krumpu á dekkinu við miklar hæðabreytingar.  Þú losnar líka við freistinguna að hleypa aðeins of mikið úr við jökuljaðarinn til að sleppa kannski við eitt stopp á leiðinni upp og endar ekki á felgunni á leiðinni niður.",
+            "date": "2014-11-26 09:58:00",
+            "post_id": "147709",
+            "reply_to_id": "147708"
+        },
+        {
+            "user_name": "alvegsama",
+            "text": "Sælir\nÉg er búinn að setja saman svona búnað með farsíma sem stýringu.\nþetta er að fara í annan bíl núna næstu daga til að misþyrma þessu almennilega því maður er víst ekki dómari á eigin verk.\ní grófum dráttum búnaðurinn á þessa leið:\n-Fyrir 1-4 hásingar (max 8 dekk) bara að fjölga lokum og þrýstiskynjurum.\n-Nákvæmni 0,1psi eða minna ef einhver nennir því. Errorgildið er stillanlegt, kemur í ljós hvort þetta sé eitthvað sem skiptir máli.\n-Fullur kerfisþrýsingur inn á dekk.  Flöskuhálsinn er dælan......... nemarnir þola skotið frá fullum þrýstingi.\n-2 lokar á hvert hjól svo hægt sé að pumpa eða hleypa úr óháð næsta dekki.\n-20psi í 5psi tekur ca 5min. með 38\" dekkjum mv. litlu lokana frá Landvélum.\n-kerfið er kvarðað fyrir hvern bíl fyrir sig eða dekkjagang svo það er ekki að þreifa oft á þrýstingi heldur veit uþb tímann sem breytingin sem óskað er eftir tekur, og nær óskgildi í fáum skotum.\n-Hægt að stilla þrýsing í hverju dekki fyrir sig, hverri hásingu fyrir sig eða í öllum í einu með tveimur tökkum sem heldur þá hlutfallinu á milli dekkja ef það er t.d. minna í að aftan.  Stökkin eru stillanleg frá 0-????  hvað sem hverjum dettur í hug.  Ég er með þetta á 0,25psi í bili.\n-Ég er t.d. með prófíl sem setur 25psi í öll dekk sem heitir \"Heim\" og svo annan sem er með 5psi að framan og 4psi að aftan sem er hægt að kalla \"Snjór\"\n- Kerfið keyrir á Android og það er hægt að fá síma á ca 15þús sem ræður vel við forritið.\n-kassinn sem þetta kemur í er ca 19x25x10cm og þarf bara að tengja 6 loftslöngur og 12V í hann.  Síminn í dokku á mælaborðið og þráðlaust á milli.\nkv\ns",
+            "date": "2014-11-26 10:09:00",
+            "post_id": "147710",
+            "reply_to_id": "147709"
+        },
+        {
+            "user_name": "karig",
+            "text": "þetta er nú orðið gríðarlega tæknilegt hjá þér Sölvi......áttu nokkuð mynd af þessu bixi komnu í Hilux? kv, Kári.",
+            "date": "2014-11-26 12:20:00",
+            "post_id": "147714",
+            "reply_to_id": "147710"
+        },
+        {
+            "user_name": "scweppes",
+            "text": "Ótrúlega töff Sölvi, vona að ég verði með svona í mínum bíl þegar ég verð stór.",
+            "date": "2014-11-26 13:46:00",
+            "post_id": "147720",
+            "reply_to_id": "147714"
+        },
+        {
+            "user_name": "alvegsama",
+            "text": "það er nú ekki fögur sjón.  liggur hálf munaðarlaust bakvið sætið.  ég skal smella myndum af þegar við setjum þetta í næsta bíl almennilega.",
+            "date": "2014-11-26 21:07:00",
+            "post_id": "147745",
+            "reply_to_id": "147720"
+        },
+        {
+            "user_name": "E.Har",
+            "text": "qEr ekki tímabært fyrir haustið að velja þennan þræð aftur :-)\nEr eitthver að kaupa hné af netinu?\nEða mæla og nema?\nEr sturivélakystan mun betri en þessi úr Landvélum?\nKostir og gallar?",
+            "date": "2015-10-10 22:38:00",
+            "post_id": "162542",
+            "reply_to_id": "147745"
+        },
+        {
+            "user_name": "E.Har",
+            "text": "Ja og vegna flæðis hvað leggja menn svert að þessu",
+            "date": "2015-10-12 22:58:00",
+            "post_id": "162635",
+            "reply_to_id": "162542"
+        },
+        {
+            "user_name": "eirikuringi",
+            "text": "Eru hnéin ekki alltaf flöskuháls hvað varðar sverleika á kerfinu?",
+            "date": "2015-10-13 00:02:00",
+            "post_id": "162641",
+            "reply_to_id": "162635"
+        },
+        {
+            "user_name": "E.Har",
+            "text": "weHnén eða ventlar í felgunum.\nSvo eru menn að nota mismunandi hné",
+            "date": "2015-10-13 12:53:00",
+            "post_id": "162646",
+            "reply_to_id": "162641"
+        },
+        {
+            "user_name": "eirikuringi",
+            "text": "Nú er ég ekki það mikið að mér í svona dótaríi, en ég var eitthvað að skoða Aliexpress og sá þetta unit, \nhttp://www.aliexpress.com/item/4V210-08-AC-220V-Quadruple-Solenoid-Valve-Mufflers-8mm-Quick-Fittings-Base-Set/2026591457.html?spm=2114.01020208.3.111.49UrOf&ws_ab_test=searchweb201556_2_71_72_73_74_75,searchweb201527_5,searchweb201560_9\nMyndi svona mögulega virka sem kista?",
+            "date": "2015-10-29 02:39:00",
+            "post_id": "163111",
+            "reply_to_id": "162646"
+        },
+        {
+            "user_name": "Gummi Ola",
+            "text": "Sverleiki á lögnunum hjá mér út í hjól er 8mm. Er með 10 að kistu og 12 frá kistunni.\nMeð góð hné þá skiptir tíminn sem tekur að pumpa í minna máli en áður þar sem maður getur keyrt og pumpað í samtímis. Slöngurnar eru svo bara teknar úr við tækifæri.",
+            "date": "2015-10-29 07:55:00",
+            "post_id": "163113",
+            "reply_to_id": "163111"
+        },
+        {
+            "user_name": "jongud",
+            "text": "þetta er 220-volta kista",
+            "date": "2015-10-29 08:14:00",
+            "post_id": "163115",
+            "reply_to_id": "163113"
+        },
+        {
+            "user_name": "alvegsama",
+            "text": "ég er búinn að vera fikta við svona kerfi talsvert upp á síðkastið og hef fundið ýmislegt út sem gæti komið að góðum notum fyrir þá sem eru að spá í úrhleypikerfi.\nþað fyrsta er að ef maður er með sjálfvirkt kerfi skiptir ekki alveg höfuð máli hvort notaðir eru sveru lokarnir eða þeir grönnu, því það er í sjálfu ser ekki verið að bíða eftir kerfinu eins og þegar verið er að nota handvirka loka.\nTil að byrja með notaði ég minnstu lokana frá Landvélum á 44\" kerfi og það var að koma prýðilega út.  Eina sem fór í mig varðandi þá (minnir að það sé 1mm gat í þeim) er að ef maður passaði sig ekki verulega á að allt væri hreint þegar var verið að setja slöngurnar á gat smá snjókorn stíflað lokann. \nTími á 44\" dekki frá ca 25psi í 3psi var ca 12 min eða þar um bil með litlu lokana.  Ég er núna farinn að nota aðra loka sem opna mun meira og er tíminn á 44\" dekki kominn í ca 3-3:30 min frá 25 psi í 3 psi.  Og þessir lokar stíflast ekki.\n8mm slöngur eru nóg í flestum tilfellum í allar lagnir. Ég hef notað 10mm út í hjól, eins og á 8x8 Langjökulstrukkunum hjá Into the Glacier, þar sem þær þola meira án þess að snúist upp á þær og hnéin eru sterkari.\nÞað er sýnishorn í Arctic Trucks uppsett svo það er hægt að skoða og fikta. Þetta eintak er með litlu lokunum og í gegnum venjulega ventla svo það er mun hægara en með alvöru lokum.  Þeir geta sett kerfið í fyrir þá sem ekki treysta sér til þess sjálfir.\nkv\ns",
+            "date": "2015-10-29 09:38:00",
+            "post_id": "163117",
+            "reply_to_id": "163115"
+        },
+        {
+            "user_name": "alvegsama",
+            "text": "þessi kista gengur ekki þó hún væri 12v.  þeas hún er annaðhvort að pumpa eða hleypa úr.  það vantar þriðju stöðuna á hana sem gerir ekki neitt.....",
+            "date": "2015-10-29 09:42:00",
+            "post_id": "163118",
+            "reply_to_id": "163117"
+        },
+        {
+            "user_name": "eirikuringi",
+            "text": "Sælir og takk fyrir góð svör, en ég vissi svosem að þetta væri ekki 12v og því ekki endilega AKKÚRAT rétta stykkið, en það sem ég var að fiska eftir var einmitt hvort þetta myndi ganga ef þetta væri 12v. En fyrst þetta er ekki með 3 virknir þá gengur það ekki.\nHér er þetta svosem fyrir 12v\nhttp://www.aliexpress.com/item/4V210-08-AC-220V-Quadruple-Solenoid-Valve-Mufflers-8mm-Quick-Fittings-Base-Set/2026665923.html?spm=2114.01020208.3.173.yvEYq1&ws_ab_test=searchweb201556_2_71_72_73_74_75,searchweb201527_5,searchweb201560_9\nNú hef ég verið að skoða fittings á fullu og er það rétt sem ég skil að ér ætti frekar að skoða 10mm frekar en 8mm \"kerfi\".",
+            "date": "2015-10-30 01:32:00",
+            "post_id": "163144",
+            "reply_to_id": "163118"
+        },
+        {
+            "user_name": "E.Har",
+            "text": "Við erum nokkrir saman í þessum pælingum.  Munum koma up prufu uniti á næstu vikum.\nKystan verður að vera með 6-7 útganga. Segulloka.\nSá fyrsti er inn á kystunan. síðan 4 1 á hvert dekk og síðan  sá 6 í afhleypigu.\nEinhverstaðar verðurðu svo að koma þrýstimæli við þetta.\nHugmyndin er að notast við Iðntölvu og snertiskjái.\nÞar eru kostirnir að þurfa minna að fylgjast með þessu.\nSvo eru auðvitað nokkur kerfi í gangi mis töff :-)\nGæjalegast er sennilega kerfi frá Sölva sem styrt er af andrioid sima eða spjaldtölvu.\nStyrivélakerfið er líka flott, en fjandi dyrt.\nlandvélar sennilega einfaldast, mekan´sikt kerfi sem svona er traust og ekki mjög dýrt.\nLof og raf hafa verið að bjóða upp á eitthvað en skrýtin kysta.\nReikna með að sammakerfið verði æði.\nKemur í vetur.",
+            "date": "2015-10-30 11:01:00",
+            "post_id": "163152",
+            "reply_to_id": "163144"
+        },
+        {
+            "user_name": "alvegsama",
+            "text": "8mm gerir allt sem þarf nema þú sért með mjög afbrigðilega stór dekk......",
+            "date": "2015-10-30 22:40:00",
+            "post_id": "163172",
+            "reply_to_id": "163152"
+        },
+        {
+            "user_name": "eirikuringi",
+            "text": "Þetta er fyrir 46\" dekk",
+            "date": "2015-10-31 01:50:00",
+            "post_id": "163178",
+            "reply_to_id": "163172"
+        },
+        {
+            "user_name": "alvegsama",
+            "text": "8mm er nóg en það er gott að vera með 10mm út í hjól.  og svo sem ekkert að því að nota bara 10mm",
+            "date": "2015-10-31 17:16:00",
+            "post_id": "163195",
+            "reply_to_id": "163178"
+        },
+        {
+            "user_name": "eirikuringi",
+            "text": "Takk fyrir ráðleggingarnar Sölvi :)",
+            "date": "2015-10-31 17:23:00",
+            "post_id": "163197",
+            "reply_to_id": "163195"
+        },
+        {
+            "user_name": "gislisveri",
+            "text": "Ég var að ljúka við að tengja Sölvabúnað í bílinn hjá mér og það er skemmst frá því að segja að þetta er snilld. Ótrúlega fljótlegt að koma þessu fyrir, tengja slöngur, 12V og í gang. \nEr með Fini, 8mm alla leið frá dælu út í hjól (pressustat og kútur á milli auðvitað). Það tekur enga stund að hleypa úr, ég get ekki kvartað yfir ípumpun heldur en það væri fróðlegt að stækka í 10mm frá dælu og sjá hvort það breytir einhverju. \nBúinn að vera að prófa þetta í akstri í nokkra daga en geri alvöru test um helgina. Næsta mál er svo spjaldtölva með split-screen svo hægt sé að hafa bæði kortið og Sölvann á skjánum í einu.\nBkv.\nGísli",
+            "date": "2015-12-31 13:43:00",
+            "post_id": "165211",
+            "reply_to_id": "163197"
+        },
+        {
+            "user_name": "Þorsteinn",
+            "text": "Hvað er svona kerfi að kosta ?",
+            "date": "2015-12-31 14:14:00",
+            "post_id": "165213",
+            "reply_to_id": "165211"
+        },
+        {
+            "user_name": "Brjotur",
+            "text": "Einfaldleikinn er bestur og bilanaminnstur , ég persónulega þoli ekki rafmans og  loftstýringar t.d í lógíra millikassa og svona dót sem alltaf klikkar þegar maður þarf helst að nota það , og ég hef sagt það áður að varðandi þennan úrhleypibúnað að eru menn alveg orðnir húðlatir ? Farsíamastjórnun og fartölvustjórnun ?  maður er nú alltaf að reyna að minnka tækin en ekki stækka , og  hvað varð um andann að stoppa og spjalla og virða fyrir sér það sem fyrir augun ber ?",
+            "date": "2015-12-31 18:35:00",
+            "post_id": "165223",
+            "reply_to_id": "165213"
+        },
+        {
+            "user_name": "gislisveri",
+            "text": "Málið er bara að mér leiðist náttúrufegurð og ferðafélagarnir eru drepleiðinlegir. En ég stoppa þó alltaf þegar ég sé fallega stíflu. \nEn hvað er málið með öll þessi helvítis risastóru dekk? Er ekki nóg að vera bara á 33\"? Þau eru ódýr og maður getur bara notað reiðhjólapumpu, einfalt og gott. Hvað varð um að festa sig á undan öllum öðrum og eyða heilu helgunum í að moka sig upp í ágætis færi? Nennir enginn neinu? Og lækkuð hlutföll, þau brotna bara, oj.\nFlugeldakveðja, \nGísli.",
+            "date": "2015-12-31 20:42:00",
+            "post_id": "165225",
+            "reply_to_id": "165223"
+        },
+        {
+            "user_name": "eyberg",
+            "text": "Er ekki hægt að koma með myndir og verð af þessum búnaið.\nEða er það eithvað leinarmál hér :-)",
+            "date": "2016-01-01 10:23:00",
+            "post_id": "165230",
+            "reply_to_id": "165225"
+        },
+        {
+            "user_name": "alvegsama",
+            "text": "Gleðilegt ár.\nAllt upp á borðinu hér.  ég er bara svo lélegur sölumaður og þegar ég er búinn að leysa vesenið byrjar maður bara á næsta í stað þess að koma þessu í alla bíla á landinu ;).\nÞað sem er á myndinn er:\n\"Kassinn\" x 1stk  þeas loftlokar og stýring. \nmá setja hér og þar í bílinn en best að hafa hann inni, betra samband (bluetooth) og honum líður betur í tempruðu umhverfi eins og öðrum rafmagnsbúnaði. og svo finnst mér alltaf gott að geta hlustað á búnaðinn vinna.  \nlokarnir eru 5/3 lokar sem hleypa úr 44\" dekki, 25 psi í  4 psi á ca 3:30 min.  Festist síður í þeim drasl ef kemur eitthvað inn þegar verið er að tengja slöngur.\n4 stk snúningshné frá Landvélum, 8mm.\n4 stk gegnumtök fyrir brettakanta.\n8 stk plasttappar til að loka gegnumtökum og snúningshnjám þegar ekki í notkun.\n25m 8mm loftlagnaefni sem dugar í flesta bíla.\nÞað sem vantar:\nStýritækið (Android af ekki alveg ódýrustu tegund). Hægt að nota spjaldtölvur og síma.\nFelguslá og spottinn frá snúningshné og í ventilinn, þar sem þetta er ekki alveg staðlað...\nHef verið að miða verðið við 220þús. Og þá er innifalin aðstoð við að kvarða búnaðinn þegar hann er kominn í bílinn og kennsla.\nkv\nSölvi\nalvegsama@gmail.com\n8400567",
+            "date": "2016-01-01 11:28:00",
+            "post_id": "165231",
+            "reply_to_id": "165230"
+        },
+        {
+            "user_name": "alvegsama",
+            "text": "Ef einhver er í vandræðum með stýritæki get ég útvegað ónotuð úrelt tæki, sem nýtast prýðilega í þetta verkefni, á mjög fínu verði. Bæði spjöld og síma.",
+            "date": "2016-01-01 11:48:00",
+            "post_id": "165232",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Kalli",
+            "text": "Mjög einfalt kerfi :) og ódýrt, fæst í Barka.\n[attachment=0]Úrhleypi.jpg[/attachment]\nkv. Kalli",
+            "date": "2016-01-03 14:53:00",
+            "post_id": "165306",
+            "reply_to_id": "165232"
+        },
+        {
+            "user_name": "alvegsama",
+            "text": "Ef þú hefur innbyggðan styrigaur, sem eg hef ekki.\nGet ekki notað þetta..... búinn að prófa.",
+            "date": "2016-01-03 19:54:00",
+            "post_id": "165311",
+            "reply_to_id": "165306"
+        }
+    ],
+    "date": "2016-01-01 11:48:00"
+}

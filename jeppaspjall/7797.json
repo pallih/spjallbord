@@ -1,0 +1,212 @@
+{
+    "forum_title": "Breytingar, viðhald og viðgerðir",
+    "id": "7797",
+    "title": "tenging glóðarkerta i tractornum",
+    "url": "http://www.jeppaspjall.is/viewtopic.php?f=5&t=7797",
+    "posts": [
+        {
+            "user_name": "LFS",
+            "text": "sælir eg er með inní skúr gamlan nalla sem eg nota við snjomokstur og varð eg orðinn .þreyttur á að nota startgasið á hann svo eg keypti i hana ny glóðarkerti nema hvað að rafmagnið er i drasli svo eg ætla að utbua einhvað skit einfalt bara tengja inna takka eða einhvað slikt hvernig er best að utbua þettað ??",
+            "date": "2011-12-13 22:12:00",
+            "post_id": "37731",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Freyr",
+            "text": "Relay, flauturofi, vírar, öryggi.\nTengir sveran vír frá geymi gegnum öryggi inn á pinna 30 á relayinu. Síðan sveran vír út frá pinna 87 inn á kertin. Svo tekurðu grannan vír aftan við öryggið inn á flauturofa (rofi sem festist ekki á \"on\" heldur er bara \"on\" meðan þrýst er á hann) og þaðan inn á pinna 85 og tengir grannan vír frá 86 til jarðar. \nSíðan lærir þú bara hvað þarf margar sek til að setja hann í gang, athugaðu að langur hitunartími brennir kertin og passaðu að nota kerti sem passa við spennuna sem er á geyminum á traktornum.\nkv. Freyr",
+            "date": "2011-12-13 22:40:00",
+            "post_id": "37735",
+            "reply_to_id": "37731"
+        },
+        {
+            "user_name": "StefánDal",
+            "text": "Það dugar ekkert venjulegt relay í þetta. Ég hef notað startpung í þetta og tengt eins og hér að ofan.",
+            "date": "2011-12-13 23:38:00",
+            "post_id": "37740",
+            "reply_to_id": "37735"
+        },
+        {
+            "user_name": "LFS",
+            "text": "snilld akkurat einsog eg hafði hugsam mer þettað takk fyrir svörin !",
+            "date": "2011-12-14 08:25:00",
+            "post_id": "37760",
+            "reply_to_id": "37740"
+        },
+        {
+            "user_name": "olei",
+            "text": "Er hann með kerti inn á strokka, eða með 1-2 inn á soggreinina?\nSpurning hvað þetta tekur af straum, en það er ólíklegt að venjulegt 30A relay dugi, þarft startrelay eða hitareylay úr einhverjum diesel kláf.\nÞú getur fundið c.a tímann á kertunum með því að smella á þau straum áður en þú setur þau í til að sjá hvað þau eru lengi að hitna á 12v.",
+            "date": "2011-12-14 09:03:00",
+            "post_id": "37761",
+            "reply_to_id": "37760"
+        },
+        {
+            "user_name": "LFS",
+            "text": "ja eg a startpung ur patrol sem eg get notað en kertin fara inna hvern cylinder 4 stk",
+            "date": "2011-12-14 09:33:00",
+            "post_id": "37764",
+            "reply_to_id": "37761"
+        },
+        {
+            "user_name": "birgiring",
+            "text": "Ef kertin eiga að endast þarftu viðnám (Glóðarauga) á lögnina. Það kemur bara í mælaborðið og þá sérðu hvenær\nkertin eru orðin heit.",
+            "date": "2011-12-14 15:32:00",
+            "post_id": "37791",
+            "reply_to_id": "37764"
+        },
+        {
+            "user_name": "LFS",
+            "text": "ja eg er með það i mælaborðinu spurning hvort það se ekki i lagi vírinn er allavegana heill !",
+            "date": "2011-12-14 16:51:00",
+            "post_id": "37798",
+            "reply_to_id": "37791"
+        },
+        {
+            "user_name": "birgiring",
+            "text": "Hvað heitir traktorinn?",
+            "date": "2011-12-14 17:05:00",
+            "post_id": "37799",
+            "reply_to_id": "37798"
+        },
+        {
+            "user_name": "Freyr",
+            "text": "Já, hefði mátt láta fljóta með að nota öflugt relay. Hef notast við 80 A forhitunarrelay úr 2,8 patrol í svona, veit samt að t.d. Trooper tekur 80 A í hitun svo þar þyrfti enn stærra relay.",
+            "date": "2011-12-14 17:11:00",
+            "post_id": "37800",
+            "reply_to_id": "37799"
+        },
+        {
+            "user_name": "LFS",
+            "text": "þettað er international 434  en eg er svolitið hissa hvar fer svert ur svissinum i glóðaraugað svo tyni eg logninni og rek eg mig að kertunum og þar er einhver ræfill sem tengist i þau sjalfsagt einhvað mix þvi su logn er örgrönn.",
+            "date": "2011-12-14 19:17:00",
+            "post_id": "37816",
+            "reply_to_id": "37800"
+        },
+        {
+            "user_name": "birgiring",
+            "text": "Leiðslan frá glóðarauganu á að liggja í lítið stykki framan á skilrúminu aftan við mótorinn.Á því stykki er lítil viðnámsslaufa á milli tenginganna. Frá þessu stykki á að liggja leiðsla í aftasta glóðarkertið.Kertin eru síðan raðtengd og jörðin tengist undir bolta framan við olíuverkið. Ef eitt kerti brennur þá hitar vélin ekki,en auðvelt er að kanna með prufuljósi eða mæli hvort rásin sé heil. Þá aftengir maður leiðsluna sem kemur inn á aftasta kertið og byrja að prófa þar.Ef þar er samband þá eru öll kertin heil en annars færir maður sig fram þar til kemur samband.ATH. Samböndin milli kertanna geta einangrast á kertunum og getur þurft að hreinsa þau upp.",
+            "date": "2011-12-14 19:40:00",
+            "post_id": "37820",
+            "reply_to_id": "37816"
+        },
+        {
+            "user_name": "LFS",
+            "text": "ja þettað skyrir ymislegt þettað viðnám var brunnið i sundur en enginn kertana hitnar eg setti rafmagn á hvert og eitt þeirra og ekkert gerðist en eg á von a nyjum kertum fra uk i næstu viku svo það reddast !",
+            "date": "2011-12-14 20:59:00",
+            "post_id": "37832",
+            "reply_to_id": "37820"
+        },
+        {
+            "user_name": "birgiring",
+            "text": "Ef þú setur 12v. straum á hvert og eitt þá eyðileggur þú kertið eins og flassperu. Ég man ekki fyrir hvaða spennu kertin eru en þar sem þau eru raðtengd þá er hvert varla nema 3v. +eða - eitthvað smá.Þessi kerti þarf að prufa með lampa eða mæli.",
+            "date": "2011-12-14 21:17:00",
+            "post_id": "37835",
+            "reply_to_id": "37832"
+        },
+        {
+            "user_name": "LFS",
+            "text": "já það er gott að vita svo eg brenni ekki nyju kertin !",
+            "date": "2011-12-14 21:20:00",
+            "post_id": "37837",
+            "reply_to_id": "37835"
+        },
+        {
+            "user_name": "birgiring",
+            "text": "Ekki prófa að setja straum á nema gegn um glóðarmótstöðuna.",
+            "date": "2011-12-14 21:25:00",
+            "post_id": "37838",
+            "reply_to_id": "37837"
+        },
+        {
+            "user_name": "LFS",
+            "text": "klárt ;) og takk fyrir svörin :)",
+            "date": "2011-12-14 21:32:00",
+            "post_id": "37839",
+            "reply_to_id": "37838"
+        },
+        {
+            "user_name": "Valdi 27",
+            "text": "Er svo ekki málið að koma með myndir eða myndband af græjunni vera að moka planið ;)",
+            "date": "2011-12-14 21:41:00",
+            "post_id": "37842",
+            "reply_to_id": "37839"
+        },
+        {
+            "user_name": "LFS",
+            "text": "ju eg græja myndir en hun er ljot greyið en hun gerir það sem hun er beðin um hun var buin að standa i 3 ár þegar eg fekk hana það var bara helt á hana oliu og dregið i gang og hun hefur ekki slegið feilpust þessi 4 ár sem eg hef átt hana og þratt fyrir að hafa mixað á hana turbinu þa lifir hun enn eg ákvað að fara gera einhvað fyrir hana aður en það færi allt i drasl asamt þvi þa tok eg af henni amoksturstækinn og smiðaði tvivirkan bunað fyrir tönnina !",
+            "date": "2011-12-14 21:53:00",
+            "post_id": "37846",
+            "reply_to_id": "37842"
+        },
+        {
+            "user_name": "StefánDal",
+            "text": "Ég er ekki alveg sammála Birgi. Ég hef einmitt notað 3v. Kerti og skotið 12v. Beint á þau með góðum árangri. Prufaði 11v. Kerti en þá þurfti lengri tíma.",
+            "date": "2011-12-14 22:25:00",
+            "post_id": "37853",
+            "reply_to_id": "37846"
+        },
+        {
+            "user_name": "Valdi 27",
+            "text": "Shítt með þó það sé aðeins farið að sjá á henni, maður kemst jú ekki langt á fegurðinni einusaman",
+            "date": "2011-12-14 22:56:00",
+            "post_id": "37860",
+            "reply_to_id": "37853"
+        },
+        {
+            "user_name": "birgiring",
+            "text": "Þessi kerti eru viðkvæm og dýr og lítil ástæða að taka óþarfa áhættu.Ég veit um B-275 árg.1964, notuð á hverju ári og ég held að sé kannske  búið að skipta einu sinni um glóðarkerti.",
+            "date": "2011-12-14 23:06:00",
+            "post_id": "37864",
+            "reply_to_id": "37860"
+        },
+        {
+            "user_name": "LFS",
+            "text": "svona var hun með einvirk amoksturstæki \nsvo er hun svona i dag verið að skipta um gloðarkerti og vatndælu asamt þvi að smiða nyja bunað fyrir tonnina !\nsvo eru her aðrar velar i minni eigu \ndeutz 5505\nfarmall cub \nferguson\neg seldi svo þessa b-275",
+            "date": "2011-12-15 14:28:00",
+            "post_id": "37927",
+            "reply_to_id": "37864"
+        },
+        {
+            "user_name": "Valdi 27",
+            "text": "Mikið rosalega eru þetta fallegar vélar, annað enn þetta nýmóðins rusl sem er til í dag:P Er einmitt til ein svona í sveitinni eins og þú ert með í snjómoksturinn, bara með húsi og húddi:)",
+            "date": "2011-12-15 20:45:00",
+            "post_id": "37955",
+            "reply_to_id": "37927"
+        },
+        {
+            "user_name": "LFS",
+            "text": "ja það er gaman að þessu en það stendur til að smiða hus á hana þegar nennirinn er fyrir hendi :)",
+            "date": "2011-12-16 20:46:00",
+            "post_id": "38060",
+            "reply_to_id": "37955"
+        },
+        {
+            "user_name": "fordson",
+            "text": "Hvaða árgerð er þessi DEUTZ? ég á einn 4005 árg 67´ með tækjum",
+            "date": "2011-12-17 11:39:00",
+            "post_id": "38125",
+            "reply_to_id": "38060"
+        },
+        {
+            "user_name": "LFS",
+            "text": "mig minnir að þettað se 68 model ! 4yl 3.4l skemmtileg vél en litið til af þeim og erfitt að finna  varahluti  !",
+            "date": "2011-12-17 17:54:00",
+            "post_id": "38166",
+            "reply_to_id": "38125"
+        },
+        {
+            "user_name": "LFS",
+            "text": "hvar fæ eg þessa viðnámsslaufu get eg notað hana ur einhverju öðru ?",
+            "date": "2012-01-10 14:15:00",
+            "post_id": "40789",
+            "reply_to_id": "38166"
+        },
+        {
+            "user_name": "birgiring",
+            "text": "Ath Framtak-Blossi s.535 5800",
+            "date": "2012-01-10 15:13:00",
+            "post_id": "40806",
+            "reply_to_id": "40789"
+        }
+    ],
+    "date": "2011-12-13 22:12:00"
+}

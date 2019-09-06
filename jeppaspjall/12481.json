@@ -1,0 +1,128 @@
+{
+    "forum_title": "Almennt spjall",
+    "id": "12481",
+    "title": "breyta 3gja fasa í einfasa",
+    "url": "http://www.jeppaspjall.is/viewtopic.php?f=2&t=12481",
+    "posts": [
+        {
+            "user_name": "LFS",
+            "text": "eg er með 380v rafmagnsmotor sem hægt er að breyta i 220v eg er buin að breyta tengjunum i motornum eftir teiknungum sem á honum eru spurninginn er hvernig tengjast þessir 4 virar i eina kló hvaða vir er slept ?",
+            "date": "2012-09-01 18:01:00",
+            "post_id": "64730",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "nobrks",
+            "text": ".",
+            "date": "2012-09-01 19:26:00",
+            "post_id": "64738",
+            "reply_to_id": "64730"
+        },
+        {
+            "user_name": "helgiaxel",
+            "text": "Það þarf 2 þétta til að breyta 3ja fasa í einfasa, 2 af fösunum tengjast þéttunum en 3ji fasinn og nullið fara í tengilinn. Afl 3ja fasa mótors minkar um deilingu af kvaðratrórina af þremur  (1,73) við það að ganga sem einfasa mótor,",
+            "date": "2012-09-01 19:31:00",
+            "post_id": "64739",
+            "reply_to_id": "64738"
+        },
+        {
+            "user_name": "LFS",
+            "text": "mer skyldist á félaga minum að maður þyrfti einn þettir og 2 fasar færu saman i hann... en hvar fær maður þétta i þetta",
+            "date": "2012-09-01 19:40:00",
+            "post_id": "64741",
+            "reply_to_id": "64739"
+        },
+        {
+            "user_name": "olihelga",
+            "text": "Einmitt. Þegar þú breytir 3fasa 400v mótor í 230v mótor með skinnunum ertu raunverulega að breyta honum í 3x230v ekki 1x230 og því þarft þú þétti til að þetta gangi upp í einfasa tengil. Stærð þéttis ræðst aðallega af afli mótors.\nKveðja Óli",
+            "date": "2012-09-01 19:41:00",
+            "post_id": "64742",
+            "reply_to_id": "64741"
+        },
+        {
+            "user_name": "olihelga",
+            "text": "Gætir þurft 2 ef mótorinn er stór eða þungur í gang þ.e. einn fyrir start og svo einn gangþétti en annars dugar einn.\nKveðja Óli",
+            "date": "2012-09-01 19:43:00",
+            "post_id": "64743",
+            "reply_to_id": "64742"
+        },
+        {
+            "user_name": "LFS",
+            "text": "ja eg er buin að tengja tengibrettið eftir þessari teikningu þa vantar bara þétti og þa ætti þettað að vera klárt",
+            "date": "2012-09-01 20:00:00",
+            "post_id": "64747",
+            "reply_to_id": "64743"
+        },
+        {
+            "user_name": "Startarinn",
+            "text": "nei, þú þarft að tengja allt öðruvísi með þéttunum, þetta er til að tengja mótorinn við þriggja fasa rafmagn sem er 220v",
+            "date": "2012-09-01 20:05:00",
+            "post_id": "64749",
+            "reply_to_id": "64747"
+        },
+        {
+            "user_name": "LFS",
+            "text": "O MY LORD ! eg hringi i rafvirkjan hehe",
+            "date": "2012-09-01 20:13:00",
+            "post_id": "64753",
+            "reply_to_id": "64749"
+        },
+        {
+            "user_name": "Fetzer",
+            "text": "hefuru profað að youtube-a þetta :)\nthree phase to single phase eða eitthvað álíka :)",
+            "date": "2012-09-01 22:34:00",
+            "post_id": "64766",
+            "reply_to_id": "64753"
+        },
+        {
+            "user_name": "olihelga",
+            "text": "Þetta er það stór mótor að það verður mjög erfitt að koma honum í gang á 1fasa 16A öryggi. Myndi skoða að setja við þetta hraðabreyti 1x230 inn 3x230 út, þá geturðu líka stýrt tímanum sem mótorinn er að keyra upp og kemst trúlega upp með að nota 16A öryggi á þetta hjá þér.\nKv, Óli",
+            "date": "2012-09-01 23:21:00",
+            "post_id": "64769",
+            "reply_to_id": "64766"
+        },
+        {
+            "user_name": "helgiaxel",
+            "text": "Þetta er nú ekki mjög stór mótor, 1,5kW 3ja fasa miðað við 400V  í stjörnu eða 230V í þríhyrning,   \nca. 1kw á 230V ef þú breytir honum í eins fasa,        \nlíklega er aflstuðullinn 0,8   I=1000/(0,8*230)=5,4Amper     \nRæsistraumur skamhlaupsmótors er nálægt 3faldur málstraumurinn    \nRæsistraumur= 5,4*3=16,3 amp  \nÆttir að geta ræst hann með hægu 16A öryggi (C) eða hreinlega fara í 20ampera öryggi, en þá væri ráð að leggja 2,5q víra frá öryggi að tengli. Tíðnibreytir 230>400V kostar um 100þús, ódýrara að kaupa þétti og svera upp greinana ef þér dugir það afl sem þú færð útúr honum á einum fasa.\nKv\nHelgi axel",
+            "date": "2012-09-02 01:55:00",
+            "post_id": "64781",
+            "reply_to_id": "64769"
+        },
+        {
+            "user_name": "LFS",
+            "text": "eg er með hann á 16c amp öryggi en ætla i 20 amp þvi rafsuðan slær af og til ut á 16 amperunum svo það verður litið mal þar sem að eg var buin að leggja 2.5q vir",
+            "date": "2012-09-02 08:15:00",
+            "post_id": "64784",
+            "reply_to_id": "64781"
+        },
+        {
+            "user_name": "halendingurinn",
+            "text": "Þetta er nú bara eitt og hálft kw  minna en elu veltisög en ég er smiður svo að þetta er ekki alveg mitt fag. Hvað kostar einfasa mótor td. í Fálkanum því oft er ódýrara og betra að fara í nýtt til langframa.",
+            "date": "2012-09-02 08:42:00",
+            "post_id": "64786",
+            "reply_to_id": "64784"
+        },
+        {
+            "user_name": "olihelga",
+            "text": "Ok þá er ekkert annað en að prufa. Þumalputtareglan er 15uF á hestafl, þú er með 2 hestöfl þannig að þú þarft 30uF þétti.Tengir mótorinn í trekant og F og N inn á vaf 1 og 2 tengir svo þéttin yfir t.d. 2 og 3. Vona að þetta skyljist. Eins og komið hefur fram þá tapar þú talsvert af afli sumstaðar miða menn við alt að 66% afltap þannig gæti þessi 2hp mótor orðið 0.66hp. Þetta helgast af því að í 3fasa kerfi er um 120° á milli strauma en með þétti verður hornið 180° og eðlilega er mótorinn hannaður með tilliti til 3fasa kerfisins :). Líst reyndar ekkert ílla á að þú myndir skoða hvort þú færð 1fasa mótor sem passar á festingar sem þú ert með, það myndi einfalda dæmið talsvert hjá þér en eins og hraðabreitauppástungan kostar hún meira en þéttar.\nKveðja Óli",
+            "date": "2012-09-02 09:33:00",
+            "post_id": "64794",
+            "reply_to_id": "64786"
+        },
+        {
+            "user_name": "Izan",
+            "text": "Sælir\nÞessi aðferð er til og tölvert notuð sérstaklega á viftur og annað þar sem ekki þarf mikið ræsivægi og álagið er stöðugt.\nBókin mín segir 70uF pr. kílówatt og þú mátt ekki leggja nema 75% álag á mótorinn.  Startvægið verður ekki nema 30%.  \nÞetta er aðferð sem ég hef ekki fiktað mikið við, bara prófað eina og eina tengingu í skóla og svosum tengt inn á mótor hér og þar, svona tilbúið dót eitthvað en ég gæti miklu frekað trúað að þú fáir úr þessu u.þ.b. 12-14A straum við 70% álag og þá eitthvað vel á þriðja tug ampera í ræsingu.  \nFarðu bara í Fálkann og keyptu þér þetti og prófaðu.  Hafðu bara hjálm og gleraugu þegar þú prófar ÚTI.  Ég held að þetta geti alveg virkað hjá þér en mótorinn verður máttlaus.\nTíðnibreytir fyrir þetta þarf ekki að vera svona dýr.  Litlu aularnir frá Ískraft kosta rúmann 50.000 kall minnir mig og ættu alveg að höndla þetta leikandi.  Gætir meira að segja haft breytinn í kassa með kló og tengli og haft mótorinn klárann fyrir 3 fasa 220 volt ef þú ferð með sögina í vesturbæjinn.\nTengingin hjá Óla er rétt s.s. skinnar U1-W2, V1/U2 og W1-V2 og tengir fasa inn á U1 núll á V1 og þéttinn milli V1 og W1 og ef hann snýst öfugt færirðu núllið frá V1 á W1 en heldur þéttinum óbreyttum.\nKv, Jón Garðar\nP.s. Kíktu í bændablaðið eftir einfasa mótor því að það er verið að leggja 3 fasa rafmagn víða í sveitir og menn að skipta í óðaönn t.d. kælamótorum og allskonar færibandadóti.",
+            "date": "2012-09-02 12:08:00",
+            "post_id": "64802",
+            "reply_to_id": "64794"
+        },
+        {
+            "user_name": "Stebbi",
+            "text": "Ég hef verið að kaupa svona litla tíðnibreyta á rúmlega 25þús fyrir skatt, það er að vísu með afslætti.  Það er miklu gáfulegra en að fara að standa í einhverjum þétta æfingum og enda með skítmáttlausan mótor.\nSíðast keypti ég í Reykjafelli á þessum verðum.",
+            "date": "2012-09-02 18:55:00",
+            "post_id": "64824",
+            "reply_to_id": "64802"
+        }
+    ],
+    "date": "2012-09-01 18:01:00"
+}

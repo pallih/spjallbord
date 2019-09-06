@@ -1,0 +1,51 @@
+{
+    "forum_title": "Almennt spjall",
+    "id": "19103",
+    "title": "gps sérfræðingar óskast !!",
+    "url": "http://www.jeppaspjall.is/viewtopic.php?f=2&t=19103",
+    "posts": [
+        {
+            "user_name": "actros",
+            "text": "sko þannig er mál með vexti að ég er með gps tæki í bílnum (Garmin 162) og svo er ég líka með fartölvu..\nmig langar alveg ofboðslega til að hafa þetta bara allt saman í tölvunni, getur eitthver sagt mér á mannamáli hvernig ég á að snúa mér í þessu ? hvað ég þarf og allt þar frameftir götunum :)",
+            "date": "2013-07-18 17:42:00",
+            "post_id": "106097",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Izan",
+            "text": "Sæll\nÞetta tæki er trúlega með serial samskiptamöguleika sem er ekkert mjög flókið að tengja þannig.  Ef þetta er rétt hjá mér eru einhverjur 7 eða 8 vírar í straumkaplinum og þú þarft að nota nokkra þeirra.\nSamskiptavírarnir heita TX og RX (TX = transmitt og RX = recive) og það ætti að standa í leiðbeiningunum með tækinu hvaða vírar þetta eru.  \nÞú þarft að kaupa Serial tengi sem er 9 pinna og með því að gúggla serialconnector pinout færðu gommu og glás af myndum og hvaðeina til að styðjast við.  Mig minnir að þú þurfir allavega að tengja RX, TX og - man ekki hvort + var nauðsynlegur.\nTransmitt er sending og það þarf að tengjast við recive í tölvunni sem er móttaka og öfugt.  Þetta er lykilatriði.\nEf þú ert ekki með serial tengi á tölvunni þarftu breyti serial/USB og þeir fást t.d. hjá Íhlutum (þeir eru með góða svoleiðis breyta).  \nNúna ættirðu að vera kominn í samband við tölvuna og velur NMEA samskiptamáta minnir mig í GPS tækinu.  Þá er athugandi að nota MapSourse til að kanna hvort samskipti eru til staðar og í lagi. \nTil að fullkomna pakkann þarftu að fá kortaforritið frá Garmin og koma kennitölu GPS tækisins í notkun við það með einhverjum hundakúnstum og þá ættirðu að vera í góðum málum.\nS.s. ekkert mál!!!\nKv Jón Garðar",
+            "date": "2013-07-18 22:44:00",
+            "post_id": "106136",
+            "reply_to_id": "106097"
+        },
+        {
+            "user_name": "AgnarBen",
+            "text": "Ef ég skil þig rétt þá viltu losna við GPS tækið og nota bara tölvuna ?\nÞú nærð því ekki alveg með venjulegum fartölvum, þe þær eru ekki með innbyggt GPS þannig að þú þarft alltaf að lágmarki að notast við amk GPS pung til að ná í staðsetninguna þína eða bara nota 162 tækið áfram til að ná í merkið.  Þegar þú ert búinn að tengja GPS tækið/punginn við tölvuna þá þarftu kortaforrit.  Jón Garðar nefnir MapSource en það eru önnur forrit í gangi líka sem eru ódýrari en notast við undirliggjandi skönnuð kort frá LMÍ.  Ég nota sjálfur OziExplorer (\nwww.oziexplorer.com\n).",
+            "date": "2013-07-18 23:55:00",
+            "post_id": "106141",
+            "reply_to_id": "106136"
+        },
+        {
+            "user_name": "jongud",
+            "text": "Hérna; \nhttp://www.gpsdiscount.com/products/index.html?a=122\neru einhverjir sem selja kapalinn fyrir þetta tæki\nAnnars er brúnn = NMEA inn\n                blár = NMEA út\nMan ekki hvort það þarf að tengja jörðina inn á serial kapalin líka",
+            "date": "2013-07-19 13:50:00",
+            "post_id": "106165",
+            "reply_to_id": "106141"
+        },
+        {
+            "user_name": "Izan",
+            "text": "Sælir\n- vírinn er algerlega bráðnausynlegur í serialkapli.\nKv Jón Garðar",
+            "date": "2013-07-19 14:44:00",
+            "post_id": "106172",
+            "reply_to_id": "106165"
+        },
+        {
+            "user_name": "actros",
+            "text": "semsagt kaupa þennan kapal, og ná í eitthvað af þessum forritum og ég er good til go ?",
+            "date": "2013-07-19 16:45:00",
+            "post_id": "106176",
+            "reply_to_id": "106172"
+        }
+    ],
+    "date": "2013-07-18 17:42:00"
+}

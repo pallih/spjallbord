@@ -1,0 +1,100 @@
+{
+    "forum_title": "Breytingar, viðhald og viðgerðir",
+    "id": "27810",
+    "title": "Að tengja kastara - og aðrar spurningar varðandi bílarafmagn",
+    "url": "http://www.jeppaspjall.is/viewtopic.php?f=5&t=27810",
+    "posts": [
+        {
+            "user_name": "Bolti",
+            "text": "1. \nÉg ætla að setja tvo kastara aftan á pallhúsið hjá mér á Nissan Double cab. Þetta eru nettir LED kastarar sem taka lítinn straum og ég er að spá í að hafa þann möguleika að geta kveikt á kösturunum þegar bíllinn er ekki í gangi, hvaðan (nákvæmlega) er best fyrir mig að taka straum upp á það ? (er þetta mögulegt ef ég ætla að nota relay?)\n2. \nÍ sambandi við ljós og aðra 12V aukahluti í bíl( t.d. kastara, relay og annað) er nóg að tengja jörð á þessum tækjum við boddí eða þarf það í einhverjum tilvikum að fara í mínus pól á rafgeymir ?\n3. \nHvenær er watta talan orðin það há á búnaði að ég þarf að nota relay ?\n4. Þarf ég að setja öryggi á fleiri staði en á snúru sem kemur beint úr  + pól á rafgeymi (eða líka við hvern aukahlut sem ég tengi?)\n4.\n Get ég tengt afturkastarana þannig að það kviknar á þeim þegar ég set í bakkgír, get kveikt/slökkt á þeim sjálfvirkt inn í mælaborði og einnig get kveikt á þeim aftur í pallhúsi með takka þar líkt og innan úr mælaborði ? (Ég veit að tvennt fyrsta er hægt með 2 relay eða 3 way switch, en er þetta þrennt mögulegt ?     -     Ef ekki þarf ég væntanlega að ákveða hvort ég ætla að hafa takkann í mælaborðinu eða í pallhúsinu og nota þessa teikningu hér að neðan til hliðsjónar (á ég að treysta henni?)",
+            "date": "2014-11-24 20:01:00",
+            "post_id": "147606",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "H D McKinstry",
+            "text": "1. Ef þú vilt geta kveikt án þess að hafa \"svissað\" á bílinn þarftu að ná þér í órofna spennu fyrir stýrisstrauminn. Á rafgeymi eða í öryggjabox t.d.\n2. Yfitleitt tekur maður sem flesta hluti saman í eina sameiginlega jörð. T.d. eina festingu við body að aftan og eina að framan. Yfirleitt setur maður stærri notendur eins og spil beint á geymi.\n3. Góð regla er að taka sem minnstann straum uppí mælaborð og helst bara stýrisstraum, hvort sem hann stýrir relay eða transistor.\n4. Öruggast er að vera með stofnöryggi, hvort sem það er við geyminn eða öryggjaboxið, og svo viðeigandi öryggi fyrir hvern notanda.\n4. Það er allt hægt með rafmagni. Svo einfalt er það.\nÁ þessarri teikningu myndi ég sleppa öðru relayinu og nota frekar díóðu.\nGætir t.d. tengt kastarana svona. En það er spurning hvort megi kvikna á kösturum með bakkljósum?",
+            "date": "2014-11-24 22:39:00",
+            "post_id": "147626",
+            "reply_to_id": "147606"
+        },
+        {
+            "user_name": "Stebbi",
+            "text": "Ef að þú ætlar að stýra relayinu með bakkrofa þá verðuru í flestum tilfellum að stýra því með jörð, sem þýðir að þú þarft að hafa lifandi straum á relayinu allan tíman og taka jarðsamband í gegnum takkana.",
+            "date": "2014-11-25 13:01:00",
+            "post_id": "147647",
+            "reply_to_id": "147626"
+        },
+        {
+            "user_name": "Bolti",
+            "text": "Sælir og takk fyrir upplýsingarnar sem komnar eru og sérstakar þakkir fyrir teikninguna Hörður! Ég kem líklega til með að nota hana á endanum. \nHvernig díóðu nákvæmlega kaupi ég í þetta verkefni ? (veit lítið um díóður en ætti að hafa kunnáttu til að lóða hana eða splæsa inn hvar sem ég þarf svo lengi sem ég er með rétta díóðu í höndunum)\nÉg tók eftir þessu bakkljósa-kastara-dæmi fyrir utan Bónus einn daginn, þar bakkaði upp að mér Hilux með þrem kösturum að aftan, sá í miðjunni kveikti á sér þegar bifreiðinni var bakkað en hvort það er löglegt veit ég ekki... Mér fannst þetta bara sniðugt :)\nHvernig finn ég út hvað ég þarf sterkt öryggi fyrir hvern notanda án þess að prufa mig áfram og sprengja nokkur þangað til ég rampa á nógu sterkt?\nEn relay svarið frá Stebba skildi ég ekki, tengist það teikningunni hans Harðar ?",
+            "date": "2014-11-25 18:12:00",
+            "post_id": "147665",
+            "reply_to_id": "147647"
+        },
+        {
+            "user_name": "svarti sambo",
+            "text": "Minnir að þetta sé svona:  Straumur= Wött/spennu",
+            "date": "2014-11-25 18:39:00",
+            "post_id": "147668",
+            "reply_to_id": "147665"
+        },
+        {
+            "user_name": "H D McKinstry",
+            "text": "Ef þú ferð í Íhluti og verslar íhluti þar ráðleggja þeir þér hvernig og hvað stóra díóðu þú þarft. Segir þeim bara í hvað þú ætlar að nota hana. Ef þú ert ekki klár á því hvernig hún á að snúa skaltu biðja þá um að sýna þér það líka.\nStærð öryggis finnuru með því að deila wöttum í spennu eins og svarti sambo sagði. 24w á 12v er þá 2 amper. Gott er að nota aðeins stærra öryggi en útreiknaður straumur segir til um, flestir notendur nota aðeins meira en uppgefin wött segja til um fyrstu sekúndubrotin eftir að hluturinn er virkjaður.\nStebbi er að tala um að í flestum bílum er bakkljósarofinn mínus megin við relay. Sem er líklega rétt en er samt ekki vandamál ef þú tengir stýringuna fyrir aukarelayið inná lögnina frá relay að original bakkljósunum. Þannig að Bakkljósarofi á teikningunni minni verður bakkljósarelay. Eða tengir nýju ljósin svo þá verði líka mínustýrð. Eins og ég sagði er allt hægt með rafmagni og hægt að gera þetta á þúsundir vegu.\nÞað skemmtilega við rafmagn er að möguleikarnir takmarkast við ímyndunarafl okkar.",
+            "date": "2014-11-25 19:05:00",
+            "post_id": "147670",
+            "reply_to_id": "147668"
+        },
+        {
+            "user_name": "Stebbi",
+            "text": "Flestir jeppar eru með bakkljósin tengd beint í gegnum bakkrofan þannig að þú þarft að stýra þessu nýja relayi með jarðsambandinu",
+            "date": "2014-11-27 01:20:00",
+            "post_id": "147775",
+            "reply_to_id": "147670"
+        },
+        {
+            "user_name": "svarti sambo",
+            "text": "Hef reyndar aldrei prufað að nota bakkljósarofann sem stýristraum inná reley, fyrir t.d. kastara, en má ekki bara seríutengja stýrisstraum releyins inná vírinn frá bakkljósarofanum. sem sagt, taka þann vír í sundur og tengja í 85 og 86 á releyinu. Krafturinn fer svo inná 30 og svo 87 til kastara. Síðan tengist bara annar vír inná vírinn frá 87, og hann fer í gegnum rofa. Notar svo sama öryggið fyrir báða kraftana, bæði fyrir releyið og rofann. Þá virkjar bakkljósarofinn annars vegar reley fyrir kastara og kveikir á bakkljósunum líka, ásamt því að vera laus við díóðuna og blanda saman notendum. Vera svo bara með annað reley fyrir rofa út um allann bíl, sem tengist inná 87 á bakkljósareleyinu.\nNennti ekki að teikna þetta í tölvu, en svona er hugsunin.\nVona að þið skiljið hvert ég er að fara. Og ef þú vilt geta kveikt á þessu með svissað af, þá tekurðu kraftinn fyrir rofana (inní bíl og aftur á palli) beint frá geymir og setur öryggi fyrir þá.",
+            "date": "2014-11-27 02:06:00",
+            "post_id": "147776",
+            "reply_to_id": "147775"
+        },
+        {
+            "user_name": "villi58",
+            "text": "Til að hafa vinnuljós með bakkljósunum þá er hægt að fara inn á strauminn í bakkljósin og setja led perur í bakkljósin. Þá þurfa vinnuljósin að vera led ljós og ekki of mörg Wött.\nÞá þarf að vera svissað á.",
+            "date": "2014-11-27 07:32:00",
+            "post_id": "147779",
+            "reply_to_id": "147776"
+        },
+        {
+            "user_name": "Lindemann",
+            "text": "Það má líka bara fara inná strauminn sem fer í bakkljósinn og nota hann sem stýringu á relayið sem kveikir á vinnuljósunum. Það er miklu einfaldara en að nota bakkljósarofann og vera þar með að láta sumt stýrast af jörð og annað stýrast af plús.\nÞað er misjafnt eftir bílum en í flestum tilfellum kemur straumurinn í bakkljósin hvort eð er frá öryggjaboxi framí svo það er lítið mál að fara þar inná.",
+            "date": "2014-11-27 18:48:00",
+            "post_id": "147809",
+            "reply_to_id": "147779"
+        },
+        {
+            "user_name": "Stebbi",
+            "text": "Þetta er mjög einfalt, ef þú vilt nota bakkljósarofann þá tengirðu það relay þannig að það fer með 85 í svissstraum og  svo jörð frá bakkrofa og ef þú vilt kveikja ljósin sjálfur þá tekurðu jörð í gegnum rofa í relayið líka.  Getur verið með það í 3gja stöðu rofa til að velja á milli gírstangar, off og svo alltaf á.",
+            "date": "2014-11-28 07:33:00",
+            "post_id": "147831",
+            "reply_to_id": "147809"
+        },
+        {
+            "user_name": "Bolti",
+            "text": "Ég er eiginlega kominn á það að bæta bara við þriðja kastaranum að aftan fyrir miðju sem kveiknar eingöngu þegar ég set í bakkgír, finna bara eitthvað lítið LED bar, veit ekki hvort það mundi eitthvað gagnast að hafa þann möguleika að kveikja á því handvirkt en sé til. \nGet þá notað hina tvo kastarana að aftan þegar ekki er svissað á bílinn, og haft rofa fyrir þá í mælaborði og pallhúsi.\nÞað er auðveldast fyrir mín rafmagns-skills :)",
+            "date": "2014-11-28 20:40:00",
+            "post_id": "147879",
+            "reply_to_id": "147831"
+        },
+        {
+            "user_name": "Izan",
+            "text": "Sæll.  \nÉg sé þetta svona fyrir mér s.s. samrofi bíll-skott og kveikt með bakkljósum með rofa og gaumljósi.  Ég er ekki viss um að skoðunarmenn séu ánægðir ef þú kveikir einvher ósköp af ljósum aftan á bílnum við að setja í bakk.\nKv Jón Garðar.\nP.s. kraftrásin er einföld bara öryggi-snerta í relayi og þaðan í ljós, bara nota amk 2,5q víra í kraftrásina.",
+            "date": "2014-11-29 10:23:00",
+            "post_id": "147902",
+            "reply_to_id": "147879"
+        }
+    ],
+    "date": "2014-11-24 20:01:00"
+}

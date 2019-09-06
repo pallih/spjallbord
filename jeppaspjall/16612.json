@@ -1,0 +1,79 @@
+{
+    "forum_title": "Breytingar, viðhald og viðgerðir",
+    "id": "16612",
+    "title": "Smá pæling í sambandi við túrbínu.",
+    "url": "http://www.jeppaspjall.is/viewtopic.php?f=5&t=16612",
+    "posts": [
+        {
+            "user_name": "Grásleppa",
+            "text": "Sælir félagar. Vildi bara spyrja, var að fá túrbínu úr upptekt. Finnst armurinn í EGR lokann (heitir þetta ekki það?) Vera rosalega stífur í sætið sitt, þarf að toga hann á réttan stað með wise ef gott á heita. Þarf að stilla hann eitthvað eða er þetta eðlilegt? Kv, Jóhann",
+            "date": "2013-03-04 11:28:00",
+            "post_id": "90956",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "villi58",
+            "text": "Getur verið eðlilegt, kemur í ljós ef þú ert með Boost mæli, hvort sé eðlilegur þrýstingur.",
+            "date": "2013-03-04 11:59:00",
+            "post_id": "90960",
+            "reply_to_id": "90956"
+        },
+        {
+            "user_name": "Navigatoramadeus",
+            "text": "armurinn er mjög stífur (þú ert að draga saman gorm) það stemmir enda er membra/þind inní húsinu sem hann gengur úr og talsvert flatarmál þar sem þrýstingur frá túrbínu vinnur á F=A*p\nF = kraftur (N)\nA = flatarmál (m2)\np = þrýstingur (Pascal eða N/m2)\nþetta er framhjáhlaupsventill, (bypass valve), hleypir umframþrýstingi (sem er stilltur í húsinu, gormkraftur vs loftþrýsting á membruna) svo vélin fái ekki meira loft og þar með þrýsting en henni er hollt.\ní Muzzo er 0,6bar (9psi) mælt hjá mér.",
+            "date": "2013-03-04 12:01:00",
+            "post_id": "90962",
+            "reply_to_id": "90960"
+        },
+        {
+            "user_name": "villi58",
+            "text": "Ert þú eitthvað skildur Hr. Cummings ?",
+            "date": "2013-03-04 12:06:00",
+            "post_id": "90963",
+            "reply_to_id": "90962"
+        },
+        {
+            "user_name": "Navigatoramadeus",
+            "text": "svona í gríni þá væri átakið mv 0,6bar opnunarþrýsting og þvermálið á membrunni 6cm =\nF = A*p\nA = d2*pí/4\nA = 0,06 (í öðru veldi) * pí/4\nA= 0,00283m2\n0,6bar = 60.000Pascal (N/m2)\nF = 0,00283*60.000\nF = 170N\nca 17kg kraftur sem þú þarft að toga með mv \"slumputölur\", gæti það passað ?",
+            "date": "2013-03-04 12:11:00",
+            "post_id": "90964",
+            "reply_to_id": "90963"
+        },
+        {
+            "user_name": "villi58",
+            "text": "Takk fyrir, gott að eiga svona útreikning.",
+            "date": "2013-03-04 12:15:00",
+            "post_id": "90965",
+            "reply_to_id": "90964"
+        },
+        {
+            "user_name": "Grásleppa",
+            "text": "Já, sýnist þetta stemma. Þá get ég andað léttar og farið að raða saman þegar helv... pakkningarnar á bakvið pústgreinina skila sér frá ástralíu! Takk kærlega fyrir fljót og góð svör :)",
+            "date": "2013-03-04 14:29:00",
+            "post_id": "90985",
+            "reply_to_id": "90965"
+        },
+        {
+            "user_name": "Stebbi",
+            "text": "Svo til að hafa allt rétt þá er þetta kallað eða 'wastegate actuator' en á einfaldri sveitamanns- íslensku taðventilsmembra.",
+            "date": "2013-03-04 21:10:00",
+            "post_id": "91055",
+            "reply_to_id": "90985"
+        },
+        {
+            "user_name": "Grásleppa",
+            "text": "Taðventilsmembra skal helvítið heita :)",
+            "date": "2013-03-04 21:58:00",
+            "post_id": "91067",
+            "reply_to_id": "91055"
+        },
+        {
+            "user_name": "Navigatoramadeus",
+            "text": "wastegate er klárlega réttheiti, takk fyrir það !\ngóð lesning;\nhttp://www.turbodynamics.co.uk/technica ... bocharger/",
+            "date": "2013-03-05 09:47:00",
+            "post_id": "91099",
+            "reply_to_id": "91067"
+        }
+    ],
+    "date": "2013-03-04 11:28:00"
+}

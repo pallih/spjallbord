@@ -1,0 +1,163 @@
+{
+    "forum_title": "Ferlar og fjarskipti",
+    "id": "32408",
+    "title": "AIS , GPS og spjaldtölvur",
+    "url": "http://www.jeppaspjall.is/viewtopic.php?f=37&t=32408",
+    "posts": [
+        {
+            "user_name": "Finnur",
+            "text": "Sælir\nEr einhver hér sem þekkir vel til AIS búnaðar í bátum og hvort hægt sé að nota hann á fjöllum. AIS gengur í raun út á að bátar og skip gefa upp staðsetningu sýna. Eftir því sem ég best veit er GPS og VHF notað til að senda út upplýsingar um bátinn. \nhttp://fmis.is/selja-hja-fmis/ais-stadsetningar\nNú geta bátar notað spjaldtölvur og AIS búnað saman til þess að senda út staðsetningu og fá upplýsingar til baka fyrir alla báta í nágreninu. \nMínar vangaveltur eru hvort hægt sé með litlum tilkostnaði að yfirfæra þessa tækni yfir í jeppa. Í slæmum verðum gæti komið sér mjög vel að sjá staðsetningu allra í hópnum á kortinu hjá sér. \nEinhverjir eru með þetta en þá held ég að tetra stöðvar séu notaðar, þekki það ekki nægilega vel.\nHér er búnaður sem ætti að ganga með Windows spjöldum.\nhttp://www.ebay.co.uk/itm/Marine-ship-AIS-navigation-system-kit-includes-receiver-Antenna-GPS-dongle-/201527994582?hash=item2eec0128d6:g:oDIAAOSw4UtWTQVr\nEr einhver hér sem þekkir þetta vel og getur varpað ljósi á þennan búnað og hvort hægt sé að nota þetta í jeppa.\nkv\nKFS",
+            "date": "2016-02-24 22:12:00",
+            "post_id": "167274",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "svarti sambo",
+            "text": "Það gengur ekki að setja AIS í jeppa, svo ég viti, þar sem að þetta vinnur með tilkynningarskyldunni. Skoðaði þetta í fyrra og fékk þá þessi svör. En ég fann annan búnað sem vinnur eins og er mikið notaður erlendis, er bara búinn að tína linknum á þeim búnaði. Held að sá búnaður gæti virkað hjá neyðarlínunni. Setti þetta á hold í bili.",
+            "date": "2016-02-24 22:39:00",
+            "post_id": "167276",
+            "reply_to_id": "167274"
+        },
+        {
+            "user_name": "kaos",
+            "text": "AIS notar MMSI númer (Maritime Mobile Service Identity) sem auðkenni, og þau eru aðeins gefin út á skip og báta, svo nei, það er ekki hægt að nota þetta kerfi til að senda staðsetningu á jeppum. Það er auðvitað hægt að setja AIS \nmóttakara\n upp í jeppa (hlekkurinn er á þannig búnað), en það gefur þér bara staðsetningu á bátum sem eru í VHF færi, en sendir ekki út þína eigin staðsetningu.\nTetra stöðvar bjóða upp á tracking möguleika, og er notað af björgunarsveitum, lögreglu o.fl. Það kerfi útheimtir hins vegar netaðgang til að geta skoðað staðsetningar; stöðvarnar sjálfar senda staðsetningu út á kerfið, en taka ekki á móti þeim. Eins held ég að Tetra leyfi séu illfáanleg fyrir einstaklinga. Kerfið er ætlað fyrir viðbragðsaðila, veitustofnanir, vegagerð o.þ.h.\nMig rámar hins vegar í einhverja umræðu, gott ef ekki hérna á spjallinu, um hliðstætt kerfi fyrir radíóamatöra. Útheimtir amatörleyfi, en það er þó möguleiki.\nEftir smá gúggl: Kerfið (ég held allavega að það sé þetta kerfi sem var verið að ræða um) notar APRS (Automatic Packet Reporting Service) sem er samskiptastaðall sem amatörar nota. Þetta staðsetningarkerfi er bara viðauki við það. Hér er síða sem ég fann um þetta \nhttp://www.arrl.org/position-reporting-with-aprs\n, hér er dæmi um tilbúið tæki \nhttp://www.crosscountrywireless.net/aprs_tnc.htm\n.\n-- \nKveðja, Kári.",
+            "date": "2016-02-24 22:58:00",
+            "post_id": "167278",
+            "reply_to_id": "167276"
+        },
+        {
+            "user_name": "svarti sambo",
+            "text": "Þetta gæti verið sniðugur viðbótarbúnaður. Veit ekki hvort að þetta virki hér á landi.\nhttp://www.gpscompared.net/spot-gen-3-s ... messenger/\nhttp://www.gandermountain.com/modperl/p ... 458&r=view\nhttp://www.findmespot.com/en/index.php?cid=101\nÞeir bjóða allavega uppá tvö númer á neyðarhnapp. 911 USA og 112 EUROPE.",
+            "date": "2016-02-24 23:45:00",
+            "post_id": "167281",
+            "reply_to_id": "167278"
+        },
+        {
+            "user_name": "jongud",
+            "text": "Prófið að leita að APRS hérna á síðunni. Það var nokkur umræða um þetta í fyrra.",
+            "date": "2016-02-25 08:23:00",
+            "post_id": "167290",
+            "reply_to_id": "167281"
+        },
+        {
+            "user_name": "Magni",
+            "text": "viewtopic.php?f=37&t=27313",
+            "date": "2016-02-25 11:51:00",
+            "post_id": "167295",
+            "reply_to_id": "167290"
+        },
+        {
+            "user_name": "eidur",
+            "text": "Sælir\nÉG rakst á þetta túristamyndband:\nÞar er sýnt tæki sem kallast Kannad Safelink Solo PLB. \nFann það síðan á síðu Sónar:\nhttp://www.sonar.is/default.asp?Sid_Id= ... &VKV=18905\nÞað er spurning hvort þetta kæmi í staðinn fyrir spot tæki, en árgjaldið þar er yfir 20þkr.",
+            "date": "2016-02-26 08:18:00",
+            "post_id": "167321",
+            "reply_to_id": "167295"
+        },
+        {
+            "user_name": "Boxer",
+            "text": "Ég er nýlega búinn að endurnýja áskriftina mína hjá SPOT og hún nær ekki 20.000 eins og sagt er hér að ofan. \nHér fyrir neðan má sjá sundurliðun á reikningum mínum sem ég borgaði núna 10 febrúar 2016.\nTransaction Summary:\nSPOT Basic Service \t  \t             88,62 EUR = 13.011 ISK (Grunnþjónustan sem þeir bjóða upp á)\nTrack Progress \t  \t\t             31,70 EUR =  4.654 ISK (Aukafídus þar sem tækið trakkar leið mína á 10 min fresti)\nSMS Bundle 200 Messages \t               0.00\nTotal Taxes \t  \t\t               0.00\nGrand Total \t  \t\t            120,32\nAmount Charged \t  \t            120,32\nSamtals eru þetta 120,32 EUR sem gerðu 17.665 ISK á vísakortinu mínu.\nGrunnþjónustan er því á 13.011 ISK og með henni getur þú tékkað þig inn handvirkt (sem er ekki hægt á Kannad) og auðvitað sent neyðarboð.\nEf maður skoðar þetta í stóra samhenginu miðað við allt annað í þessu útivistarsporti sem fer í t.d. gistigjöld, eldsneyti og svo ekki sé minnst á söngölíu þá sé ég alls ekki eftir þessum pening. \nÞað væri nú samt gaman að vita hvað þetta Kannad tæki kostar, en ég er hrifnastur af trakking fídusnum hjá SPOT sem Kannad hefur ekki.",
+            "date": "2016-02-26 11:29:00",
+            "post_id": "167328",
+            "reply_to_id": "167321"
+        },
+        {
+            "user_name": "mrgard",
+            "text": "Hello,\nI was just checking out on tracking/emergency devices and found this thread. Does anyone have experience with \nDelorme InReach\n here on Iceland? \n- InReach is based on Iridium satellites, and has 2-way text message possibility. \nhttp://www.inreachdelorme.com/\n- SPOT is based on Globalstar satelittes, and has only 1-way text message (send).\nhttp://www.findmespot.eu/en/\nBased on some reviews it seems like SPOT message delivery is more unreliable than INREACH. But I have never tested any of this myself. However I spoke to a Norwegian motorbike dude, he had used SPOT for several years, but had now switched to INREACH since it was much easier to calm down family at home with the 2-way communication. Good point!\nINREACH is a bit more expensive, but you can split subscription into monthly program, so if you don't do trips every month, you can reduce the total cost, and maybe even get it cheaper than SPOT!\nHere is an article in Morgunbladid mentioning INREACH:\nhttp://www.mbl.is/frettir/innlent/2015/02/23/hvernig_virkar_thetta_spot_taeki/\nAnd some comparisons:\nhttp://www.dualsportbc.com/forums/showthread.php?13865-inReach-vs-SPOT-Field-Testing\nhttp://www.cloudbasemayhem.com/delorme-vs-spot-when-your-life-depends-on-it/\nhttps://www.wildsnow.com/8245/spot-inreach-satphone-review-delorme/\nhttp://www.johnnestler.com/blog/2015/11/choosing-a-satellite-device-delorme-inreach-se-vs-spot-gen3\nhttp://www.outdoorgearlab.com/Personal-Locator-Beacon-Reviews",
+            "date": "2016-10-02 00:39:00",
+            "post_id": "171352",
+            "reply_to_id": "167328"
+        },
+        {
+            "user_name": "ulfr",
+            "text": "Ég datt um þennan þráð fyrir tilviljun, og það vill svo til að ég held úti APRS kerfinu á Íslandi.\nEf einhverjir hér hafa áhuga á tilraunum á opnu VHF tíðnisviði þar sem ekki þarf amatörréttindi þá er ég meira en vel til í slíkar æfingar.",
+            "date": "2016-10-19 23:34:00",
+            "post_id": "171649",
+            "reply_to_id": "171352"
+        },
+        {
+            "user_name": "eidur",
+            "text": "Ég hef áhuga á slíkum æfingum, en er einhver búnaður sem styður og/eða er leyfður á opnu tíðnisviði fyrir APRS eða álíka þjónustur?\nÞað sem mér þætti sérstaklega áhugavert er að koma þessu inn í t.d. oruxmaps og geta þá séð hvar ferðafélagarnir eru staddir.\n/E",
+            "date": "2016-10-20 14:35:00",
+            "post_id": "171658",
+            "reply_to_id": "171649"
+        },
+        {
+            "user_name": "Magni",
+            "text": "Ég væri mögulega til :) \nMagni@iav.is",
+            "date": "2016-10-20 15:51:00",
+            "post_id": "171659",
+            "reply_to_id": "171658"
+        },
+        {
+            "user_name": "Járni",
+            "text": "Spennandi mission, hvað er nsæta skref?",
+            "date": "2016-10-20 17:34:00",
+            "post_id": "171662",
+            "reply_to_id": "171659"
+        },
+        {
+            "user_name": "ulfr",
+            "text": "Það er ekkert sem stoppar menn í að nota APRS á hvaða kerfi sem er, þar sem prótókóllinn sem slíkur er opinn. Hinsvegar er opinbera tíðnin á APRS hjá radíóamatörum innan radíóamatörstíðnisviðsins 144,800MHz.\nAuðvitað, væri lang best ef þeir sem hafa áhuga á að koma upp APRS yrðu sér út um slíkt leyfi þar sem það eru nú þegar APRS móttakarar í gangi á þeirri tíðni, og hugmyndin er að fjölga þeim.\nAPRS búnaður í grunninn er:\nGPS (t.d. Garmin með serial tengi eða GPS pungur.) sem tengist við APRS módem (T.d. TinyTrak4) sem síðan tengist við VHF stöð í gegnum speaker útganginn og inná Mic inngang. Fyrir prófanir myndi ég mæla með handstöð. Kosturinn við það að vera með handstöð í þetta er einnig það að þá er maður með varastöð sem er virk í bílnum.\nÍ 4runnernum hjá mér var ég með Garmin GPSmap276C sem var tengt við TT4 módem, það síðan tengdist við aðra VHF stöð sem ég var með í bílnum. Þannig gat ég séð aðra aðila í kringum mig og sent út mína eigin staðsetningu. Ég prófaði síðan að tengja forrit við allt heila klabbið og þar með gat ég sent skilaboð í gegnum APRS kerfið hvert sem er í heiminum svo lengi sem viðtakandi var með APRS tæki sem studdi skilaboð.\nÞetta virkaði alveg þolanlega á HF og ég náði nokkrum sinnum að senda skilaboð sem fóru í gegnum móttakara í evrópu.\nVarðandi það að tengjast við OruxMaps (eða OziExplorer) þá þarf að skrifa plugin fyrir það. Hefði ég endalausan tíma myndi ég standa í því en því miður er svo ekki. En það var alltaf draumurinn að fá þetta upp í Ozi.",
+            "date": "2016-10-20 20:19:00",
+            "post_id": "171665",
+            "reply_to_id": "171662"
+        },
+        {
+            "user_name": "AgnarBen",
+            "text": "Þetta plug-in \nhttp://www.radio-active.net.au/web3/APRS/OziAPRS\n var farið að virka hjá mönnum árið 2004 \nhttp://www.4wdtrips.net/forum/showthread.php?2222-GPS-gt-Computer-OziExplorer-gt-APRS-2m/page2\n ..... spurning hvort það sé ennþá nothæft :)",
+            "date": "2016-10-24 21:53:00",
+            "post_id": "171712",
+            "reply_to_id": "171665"
+        },
+        {
+            "user_name": "biturk",
+            "text": "Af hverju ekki aæ nota bara 112 appið?",
+            "date": "2016-10-25 19:45:00",
+            "post_id": "171726",
+            "reply_to_id": "171712"
+        },
+        {
+            "user_name": "xenon",
+            "text": "Það virkar ekkert nema það sé GSM samband",
+            "date": "2016-10-25 20:47:00",
+            "post_id": "171730",
+            "reply_to_id": "171726"
+        },
+        {
+            "user_name": "biturk",
+            "text": "Gengur það ekki a gps?",
+            "date": "2016-10-26 10:04:00",
+            "post_id": "171741",
+            "reply_to_id": "171730"
+        },
+        {
+            "user_name": "xenon",
+            "text": "Staðsetningin kemur frá GPS en ef eitthvað er að og þú vilt senda frá þér neyðarboð þá fara þau í gegnum símkerfið,",
+            "date": "2016-10-27 20:46:00",
+            "post_id": "171767",
+            "reply_to_id": "171741"
+        },
+        {
+            "user_name": "jongud",
+            "text": "Sumar amatör VHF stöðvar eru með innbyggðu APRS eins og t.d. Yaesu FTM-100DR\nhttp://yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=106&encProdID=3F8B6B6AF1EC22B82F01E68C1E0F0BA6&DivisionID=65&isArchived=0",
+            "date": "2016-10-31 14:44:00",
+            "post_id": "171801",
+            "reply_to_id": "171767"
+        },
+        {
+            "user_name": "ulfr",
+            "text": "Fékk þetta aldrei til að virka af ýmsum ástæðum. :(",
+            "date": "2016-11-02 20:09:00",
+            "post_id": "171833",
+            "reply_to_id": "171801"
+        },
+        {
+            "user_name": "jongud",
+            "text": "Prófið að slá inn \"APRS vhf\" á Ebay.\nÞað er hægt að fá \"tracker\" með innbyggðum GPS móttakara og VHF sendi á 79$ og \"gateway\" á 90$",
+            "date": "2016-11-03 11:25:00",
+            "post_id": "171841",
+            "reply_to_id": "171833"
+        }
+    ],
+    "date": "2016-02-24 22:12:00"
+}

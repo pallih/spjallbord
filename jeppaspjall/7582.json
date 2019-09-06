@@ -1,0 +1,86 @@
+{
+    "forum_title": "Almennt spjall",
+    "id": "7582",
+    "title": "Rafmagns pælingar",
+    "url": "http://www.jeppaspjall.is/viewtopic.php?f=2&t=7582",
+    "posts": [
+        {
+            "user_name": "arni87",
+            "text": "Nú er ég að fara að endurnýa aukarafkerfið í bílnum hjá mér.\nÞá þarf að leggja nýtt fyrir kastara, loftpressur og annað.\nPælingin hjá mér er hvað þarf ég svera kapla??\nEru þessir kaplar nóu sverir, of sverir eða hvað: \nhttp://www.summitracing.com/parts/HFM-PW18-RED/\neða þarf ég að kaupa extream eins og þessa: \nhttp://www.summitracing.com/parts/PRF-70858/",
+            "date": "2011-12-03 16:36:00",
+            "post_id": "36483",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Logi",
+            "text": "það er til formúla yfir þetta sem ég man því miður ekki hvernig er.",
+            "date": "2011-12-03 16:49:00",
+            "post_id": "36484",
+            "reply_to_id": "36483"
+        },
+        {
+            "user_name": "Stebbi",
+            "text": "Bæði þessi sett á Summit eru jafn sver, 18 gauge eða 1q á íslensku.  Það er ekkert extreme við það.  Ef þú ætlar að vera með þokkalega öfluga halogen kastara þá ertu pottþéttur með 2,5q vír.",
+            "date": "2011-12-03 21:01:00",
+            "post_id": "36514",
+            "reply_to_id": "36484"
+        },
+        {
+            "user_name": "Stebbi",
+            "text": "2.5q vír er alveg nóg fyrir 20A DC í stuttum vegalengdum eins og frá geymi að kösturum.  5q vír er ekki til, þú átt örugglega við 4 eða 6q.",
+            "date": "2011-12-03 21:45:00",
+            "post_id": "36518",
+            "reply_to_id": "36514"
+        },
+        {
+            "user_name": "IL2",
+            "text": "http://www.powerstream.com/Wire_Size.htm",
+            "date": "2011-12-03 23:15:00",
+            "post_id": "36529",
+            "reply_to_id": "36518"
+        },
+        {
+            "user_name": "Izan",
+            "text": "Sæll\nÞað er langur vegur frá því að þú getir valið þér einn vír til að setja upp aukarafkerfi í bíl.  Ég hef reyndar aldrei heyrt  um að menn tali um gauge þegar talað er um þverskurðarflatarmál á vír.  \nÞað er tvennt sem þú þarft að hafa í huga og það er hversu stórt öryggið er fyrir framan hlutinn því að það þarf að fara áður en vírinn brennur ef eitthvað gerist.  Síðan þarftu að hugsa út í spennufall í vírnum sem er þónokkurt vandamál þegar þú hefur bara 12V til afnota.  \nKastarapar s.s. 2x100W halogen kastarar eru = 200W.  Þá reiknast manni til að þeir taki (200/12)= 16A.  Þetta gengur á 14V og þá verður straumurinn svolítið hærri.  \nÞetta er hin sívinsæla formúla sem nefnd hefur verið Ohms-lögmálið U=RxI.\nU stendur fyrir spennu í voltum, R er viðnámið í hringrásinni og I er heildarstraumuirnn.  Þetta er reyndar ekki alveg rétt hjá mér því að formúlan sem ég notaði er náfrænka ohmslögmálinu en ég bara man ekki hvað hún heitir en hún er P=UxI þar sem P er heildaraflið í wöttum.\nFasta breytan í þessari formúlu er viðnámið, það er s.s. það sem ræður hversu mikinn straum peran tekur m.v. spennuna sem hún fær.  \nEf við miðum við að peran taki 18A á 14V (ég nenni ekki að reikna það út) getum við notað aðra formúlu til að reikna spennufallið sem verður yfir vírinn.  Við þurfum að gefa okkur eitthvað t.d. hvað vírinn er langur.  \nSegjum að það séu 6 m vír frá öryggjaboxi, þar sem við erum pottþétt með 14V, að ljósi.  Þá getum við reiknað út mótstöðuna í vírnum með því að segja (0,018*12)/1,5.  0,018 er eðlisviðnám kopars s.s. raunviðnám í 1m af 1q af efninu, 12 þvi að það eru 6 m í ljósið og það þarf 2 víra + og - og 1,5 sem er fyrsta tillaga af vír s.s. 1.5q.\nÚr þessu fáum við 0,144 ohm og getum notað það í ohmslögmálið með 18 amperunum og fengið 2,59V.  Það þýðir að ef það eru pottþétt 14 V í kassanum fáum við 11,41V á perurnar framan á bílnum.  \nÞetta er kannski viðunandi en af því að þú ert með 20A öryggi þarftu að nota sverari vír, 2.5 eða jafnvel 4q.  \nÞá ertu kominn með ljósin og stærsta þrautin eftir sem er loftpressan.  Hún getur tekið mikið og fær sér vel í startinu til að komast af stað.  Þú getur notað nákvæmlega sömu formúlur og áðan en farðu alltaf amk einn sverleika ofar þegar þú ert að tengja svona mótora.\nGagnast þetta þér eitthvað?\nKv Jón Garðar",
+            "date": "2011-12-04 14:18:00",
+            "post_id": "36557",
+            "reply_to_id": "36529"
+        },
+        {
+            "user_name": "Stebbi",
+            "text": "Hérna er ágætis þumalputtaregla en hún er aðeins til viðmiðunar og ekki fyrir vegalengdir mikið yfir 2m.\n1q     -   10A\n1.5q  -   15A\n2.5q  -   20A\n4q     -   25A\n6q     -   30A\n10q   -   40-50A\n16q   -   50-60A\nEf að það á að tengja Fini dælu í húddi sem tekur um og yfir 60A þá veitir ekkert af 16q vír og hann má ekki vera langur, ef það þarf að fara yfir húddið með lagnir þá myndi ég fara í 25q vír.  Sumum finnst þetta sjálfsagt vera taugaveiklun og overkill en það er það ekki.  Þeir sem víruðu Fini dælurnar upp á sínum tíma þegar þetta var sem mest selt settu á þær 2m langa 10q víra og klemmur, þetta volgnar í 10 stiga frosti þegar er verið að pumpa í og veldur því að dælurnar fá ekki næga spennu til að ganga á fullum krafti, það á endanum drepur mótorinn í dæluni.  Ef allt er rétt gert þá á þetta ekki að hitna og dælan á að geta gengið á fullum afköstum.\n2x100w kastarar sem eru tengdir með 2.5q vír svelta aldrei rafmagn og skila meira ljósi en þeir sem eru tengdir með 0.75q lampasnúru sem var til í bílskúrnum.",
+            "date": "2011-12-04 21:15:00",
+            "post_id": "36614",
+            "reply_to_id": "36557"
+        },
+        {
+            "user_name": "Stebbi",
+            "text": "Það er yfirleitt aldrei talað um þvermál víra heldur þverskurðarflatarmál í mm.  25q vír er 25mm2 í þverskurðarflatarmál, en samkvæmt töfluni sem var póstuð aðeins ofar þá er það umþb 5mm í þvermál.",
+            "date": "2011-12-04 21:30:00",
+            "post_id": "36618",
+            "reply_to_id": "36614"
+        },
+        {
+            "user_name": "Turbo Bronco",
+            "text": "í bátabransanum notum við einfalda þumalputtareglu deildu með 3 í strauminn (A) það er að segja 50W kastari notar 50/12=4,16A  þá er 4,16/3=1,05mm vír en það er ágæt regla að hækka upp þannig að 1,5mm hefði orðið mitt val. reglan gildir fyrir 3m og veldur því að spennufall verður mímimalt en gæði vírs spilla líka inní þetta. Ísskápur, bensín eða diesel hitari, loftdæla og annar búnaður með háan startstraum þurfa sverari lögn.\nkveðja frá Noregi\nBubbi",
+            "date": "2011-12-13 18:21:00",
+            "post_id": "37691",
+            "reply_to_id": "36618"
+        },
+        {
+            "user_name": "stjani39",
+            "text": "Þessar töflur eru réttar \ná þessari vefsíðu er líka hægt að reikna þetta út en þá þarf EXEL\nhttp://www.securitypower.com/WireLossCalculator.html\n 12V TABLE\n POWER                                                               WIRE GAUGE\nW(VA)/Amps   8awg 10awg  12awg  14awg   16awg  18awg  20awg  22awg  24awg   26awg\n3W/.25A     3,733 2,396  1,508    947    595    376    234    146    93      59\n4W/.33A     2,828 1,815  1,142    717    451    285    177    111    70      44\n5W/.42A     2,222 1,426    898    564    354    224    139     87    55      35\n10W/.83A    1,124   722    454    285    179    113     71     44    28      18\n20W/1.67A     559   359    226    142     89     56     35     22    14       9\n30W/2.50A     373   240    151     95     60     38     23     15    N/A     N/A\n40W/3.33A     280   180    113     71     45     28     18     11    N/A     N/A\n50W/4.17A     224   144     90     57     36     23     14     N/A   N/A     N/A\n60W/5.00A     187   120     75     47     30     19     12     N/A   N/A     N/A\n70W/5.83A     160   103     65     41     26     16     10     N/A   N/A     N/A\n80W/6.67A     140    90     57     35     22     14     N/A    N/A   N/A     N/A\n90W/7.50A     124    80     50     32     20     13     N/A    N/A   N/A     N/A\n100W/8.33A    112    72     45     28     18     11     N/A    N/A   N/A     N/A\n110W/9.17A    102    65     41     26     16     10     N/A    N/A   N/A     N/A\n120W/10.00A    93    60     38     24     15     N/A    N/A    N/A   N/A     N/A\n24V TABLE\n POWER                                                                 WIRE GAUGE\nW(VA)/Amps   8awg 10awg  12awg  14awg   16awg  18awg  20awg  22awg  24awg   26awg\n3W/.13A    14,417 9,253  5,823  3,656   2,299  1,451    905    565    358    226\n4W/.17A    11,025 7,076  4,453  2,796   1,758  1,110    692    432    274    173\n5W/.21A     8,925 5,728  3,605  2,263   1,423    898    560    350    222    140\n10W/.42A    4,463 2,864  1,803  1,132     712    449    280    175    111     70\n20W/.83A    2,258 1,449    912    573     360    227    142     89     56     35\n30W/1.25A   1,499   962    606    380     239    151     94     59     37     24\n40W/1.67A   1,122   720    453    285     179    113     70     44     28     18\n50W/2.08A     901   578    364    229     144     91     57     35     22     14\n60W/2.50A     750   481    303    190     120     75     47     29     19     12\n70W/2.92A     642   412    259    163     102     65     40     25     16     10\n80W/3.33A     563   361    227    143      90     57     35     22     14      9\n90W/3.75A     500   321    202    127      80     50     31     20     12      8\n100W/4.17A    449   288    182    114      72     45     28     18     11      7\n110W/4.58A    409   263    165    104      65     41     26     16     10      6\n120W/5.00A    375   241    151     95      60     38     24     15      9      6\n130W/5.42A    346   222    140     88      55     35     22     14      9      5\n140W/5.83     321   206    130     82      51     32     20     13      8      5\n150W/6.25A    300   192    121     76      48     30     19     12      7      5\n160W/6.67A    281   180    114     71      45     28     18     11      7      4\n170W/7.08A    265   170    107     67      42     27     17     10      7      4\n180W/7.50A    250   160    101     63      40     25     16     10      6      4\n190W/7.92A    237   152     96     60      38     24     15      9      6      4\n200W/8.33A    225   144     91     57      36     23     14      9      6      4",
+            "date": "2011-12-13 23:47:00",
+            "post_id": "37743",
+            "reply_to_id": "37691"
+        },
+        {
+            "user_name": "Stebbi",
+            "text": "Hugmyndin á bakvið Gauge og Kvaðrat er nokkurnvegin sú sama nema að mæling í Gauge er öfug miðað við Kvaðrat, s.s þeim hærri sem Gauge talan er þeim grennri er vírinn, alveg eins og með hlaupvídd á haglabyssum.  Kvaðrat er fermillimetramál á þverskurði vírsins en td. er 18 gauge 1/18 af 1 Gauge og þá þarf maður að vita hvað það er til að koma því í nútímalegt samhengi.",
+            "date": "2011-12-14 00:52:00",
+            "post_id": "37750",
+            "reply_to_id": "37743"
+        }
+    ],
+    "date": "2011-12-03 16:36:00"
+}

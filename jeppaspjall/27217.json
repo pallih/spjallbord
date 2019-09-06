@@ -1,0 +1,44 @@
+{
+    "forum_title": "Breytingar, viðhald og viðgerðir",
+    "id": "27217",
+    "title": "Alternator",
+    "url": "http://www.jeppaspjall.is/viewtopic.php?f=5&t=27217",
+    "posts": [
+        {
+            "user_name": "Navigatoramadeus",
+            "text": "sælir félagar,\nég var að skipta um alternator í gær í toyotu (Yaris), fékk uppgerðan af verkstæði og spennumæling sýndi 14,2V þegar bíllinn var ræstur, ég ákvað að taka smá rúnt því ég var að gera við fleira í bílnum uppi á lyftu og allt í fína.\nNema eftir ca 5 mínútur þá kviknaði hleðsluljósið í mælaborðinu og spennumæling sýndi bara geymaspennuna, einsog alternatorinn hefði bara hætt að hlaða.\nMér var sagt að þetta væri því að nú hefði alternatorinn verið að rembast við að hlaða tóman geymi (45Ah) því mér láðist að hlaða hann meðan bíllinn var uppá lyftunni og því væru kolin brunnin í honum.\nstemmir að alternator ráði ekki við að hlaða tóman geymi þrátt fyrir að vera af þeirri stærð sem framleiðandi gefur upp ?\nspyr sá sem ekki veit nema hvað hans eigin bíll hefur orðið straumlaus nokkrum sinnum (hóst hóst) og ekki hefur neitt brunnið þar þó alternatorinn hafi þurft að hlaða miklu stærri geymi (100Ah).\nog í leiðinni, er rétt að hleðslustraumur á (blý) geymi sé aðeins um 5% af rýmd hans ? (þeas að 100Ah geymi skuli hlaða með ca 5A straum ?).  ef svo er er þessu einhvern vegin stýrt, að spennuskynjunin á alternatornum hleypi aðeins t.d. 1V hærri spennu út af alternator heldur en er á geymi ?\nmkb. Jón Ingi",
+            "date": "2014-10-16 11:50:00",
+            "post_id": "145019",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "olei",
+            "text": "Kolin í alternator gegna því hlutverki að veita straum inn á ankerið. Spennustýringin ræður því hversu mikill straumur fer í gegnum það. ATH að hleðslustraumurinn fer alls ekki í gegnum það og einhverskonar yfirálag brennir því ekki kolin. Alternatorar með bilað spennustilli sem framleiða á fullu hvað sem tautar og raular grilla vafningana í belgnum og/eða afriðilinn.\nNei, alternatorar eru hannaðir fyrir að hlaða á fullum afköstum. Það er einungis ef spennustilli eða tengingar við það bila sem þeir fara í yfirhleðslu og þá geta þeir sannarlega ofhitnað og hleypt út reyknum.\nHleðslustraumur inn á rafgeyma frá alternator er miklu meiri en 5%, maður hefur séð ampermæla sýna 50+A skömmu eftir gangsetningu þó að engir notendur séu í gangi. Varir í örfáar mínútur og fjarar svo út þegar geymirinn er fullhlaðinn.\nSértu hinsvegar með tóman rafgeymi getur verið að 5% hleðslustraumur sé heppilegur til að hlaða hann upp. \nhttps://en.wikipedia.org/wiki/Lead%E2%80%93acid_battery",
+            "date": "2014-10-16 13:42:00",
+            "post_id": "145027",
+            "reply_to_id": "145019"
+        },
+        {
+            "user_name": "elliofur",
+            "text": "Alltaf jafn dásamleg svör hjá þér Ólafur. Þú gerir jeppaspjallið betra :)\nJón Ingi ég held að þú ættir að fara að banka í hausinn á þeim sem gerði upp alternatorinn hjá þér. Þeir eru sennilega ekki með allar staðreyndir á hreinu.",
+            "date": "2014-10-16 14:51:00",
+            "post_id": "145030",
+            "reply_to_id": "145027"
+        },
+        {
+            "user_name": "Navigatoramadeus",
+            "text": "olei, þakka þér frábær svör :)\ngeymirinn var settur í hleðslu yfir nótt og næsta morgun var einsog ekkert hefði gerst, hleðsluljósið horfið, spennumæling sýndi 14,2V, verkstæðisdraugurinn hefur staðið vaktina.\nsmá spekúlering;\nvar að versla multimeter fyrir rafmagn sem getur lesið \"in-rush\" straumtöku og geymt hæsta gildi.\nsetti hann á Golf diesel og startaði; 382A total, setti á startarann og 280A.\nþetta er nú bara 1,9tdi inni á 20°C verkstæðisgólfi svo einhver hlýtur straumtakan að vera á stærri vélum í miklum kulda.\nmbk. Jón Ingi",
+            "date": "2014-10-18 09:44:00",
+            "post_id": "145121",
+            "reply_to_id": "145030"
+        },
+        {
+            "user_name": "olei",
+            "text": "Ánægjulegt að þetta leystist farsællega.\nJá startstraumur í stærri tækjum getur verið ansi mikill. Þau eru reyndar gjarnan 24v svo að það er helmingi meira afl á hvert amper. Hef séð 600A á vörubíl inni á verkstæði, þeir fara vafalaust talsvert hærra en það í frosti.\nMeð sveiflusjá tengda við ampertöng er hægt að sjá sitthvað skemmtilegt í starti, eins og t.d að gera óbeina þjöppumælingu. Kannski skrifa ég upp smá tæknipistil um það efni við tækifæri.",
+            "date": "2014-10-18 11:03:00",
+            "post_id": "145127",
+            "reply_to_id": "145121"
+        }
+    ],
+    "date": "2014-10-16 11:50:00"
+}

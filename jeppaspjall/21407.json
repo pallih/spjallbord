@@ -1,0 +1,72 @@
+{
+    "forum_title": "Breytingar, viðhald og viðgerðir",
+    "id": "21407",
+    "title": "pælingar varðandi inverter",
+    "url": "http://www.jeppaspjall.is/viewtopic.php?f=5&t=21407",
+    "posts": [
+        {
+            "user_name": "makker",
+            "text": "Heilir og sælir eg var að grafa upp inverter i skurnum hja mer og eg var að pæla hvað ma teingja inna svona eg man ekki hvað hann er i aflmykill en hafa menn eithvað prufað að teingja venjulega bilskurs loftpressu inna svona væri gaman að fa reinslusogu fra einhverjum",
+            "date": "2013-11-17 20:30:00",
+            "post_id": "117228",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "ivar",
+            "text": "svona 4-6kw inverter gæti ráðið við þetta.\nKemur svo mikið stramálag í startinu. Svo stór inverter er mjög umfangsmikill og með mjög svera kapla inn.",
+            "date": "2013-11-17 21:34:00",
+            "post_id": "117239",
+            "reply_to_id": "117228"
+        },
+        {
+            "user_name": "makker",
+            "text": "hér eru nokkrar myndir af þessu getur einhver frætt mig um þetta ég er ekki mjög rafmagnaður einstæklingur",
+            "date": "2013-11-19 21:01:00",
+            "post_id": "117578",
+            "reply_to_id": "117239"
+        },
+        {
+            "user_name": "Svopni",
+            "text": "Gengur ekki. Pressan er 1,1 kw en inverterinn 600w.",
+            "date": "2013-11-19 21:07:00",
+            "post_id": "117579",
+            "reply_to_id": "117578"
+        },
+        {
+            "user_name": "makker",
+            "text": "jæja þá er það úr leik",
+            "date": "2013-11-19 21:09:00",
+            "post_id": "117580",
+            "reply_to_id": "117579"
+        },
+        {
+            "user_name": "siggisigþórs",
+            "text": "1,1 kw eru 1100 vott  svo þetta mun seint ganga",
+            "date": "2013-11-19 21:18:00",
+            "post_id": "117582",
+            "reply_to_id": "117580"
+        },
+        {
+            "user_name": "baldur",
+            "text": "Svo þarf að athuga að AC mótor upp á 1,1kW dregur líka launafl, svo að straumtakan frá inverternum er hærri en sem nemur þessu 1,1kW. Mátt reikna með að straumtakan sé kannski 20% meiri en raunaflið gefur til kynna.",
+            "date": "2013-11-22 20:33:00",
+            "post_id": "118074",
+            "reply_to_id": "117582"
+        },
+        {
+            "user_name": "Izan",
+            "text": "Þetta er alveg borin von.  Rafmótor tekur ca 7faldann straum í startinu og loftdæla sem er stimpluð 1.1 kw er að taka meira af netinu því að 1.1kw er útgangsaflið á mótornum óháð töpum o.s.frv.\nÞað er rétt að mótorinn hefur ákveðið fasvik og allavega mínum inverter er djöfullega við það, emjar og vælir.  T.d. drullar hann tæplega 200w höggborvél í gang nema maður auki hægt við borvélina þrátt fyrir að inverterinn er stimplaður 600w/peek1200w s.s. á að gefa 600w út og tvöfalt afl í örskamma stund.  Hann er reyndar engin hágæðavara.  \nÞað er líka allt í lagi að skoða aðeins rafmagnsfræðina á bak við þetta dæmi því að ef þú ætlar að ná t.d. 1000W út af inverter þá þurfa að minnsta kosti 1050W inn.  1000W á 230 voltum eru 4,35Amper en á 12V hliðinni eru 1000W 83,3Amper.  Reglan fyrir afl í wöttum eru P=UxI.  P er afl í wöttum, U er spenna í voltum og I er straumur í amperum.  Afl í riðstrtaumsræásum er orðið apeins flóknara fyrirbæri og engin ástæða að fara út í það hér en dæmið verður bara óhagstæðara.\nKv Jón Garðar",
+            "date": "2013-11-22 21:20:00",
+            "post_id": "118078",
+            "reply_to_id": "118074"
+        },
+        {
+            "user_name": "Stebbi",
+            "text": "Svo má líka bæta við að langfæstir inverterar gefa út hreina sínusbylgju sem gerir mótorkeyrslu enþá óhagstæðari.  Skelltu bara 5kw rafstöð í kvikindið og vertu flottastur á fjöllum með samlokugrill og expressovél.  :)",
+            "date": "2013-11-22 21:27:00",
+            "post_id": "118080",
+            "reply_to_id": "118078"
+        }
+    ],
+    "date": "2013-11-17 20:30:00"
+}

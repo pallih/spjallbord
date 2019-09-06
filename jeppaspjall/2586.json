@@ -1,0 +1,142 @@
+{
+    "forum_title": "Ferlar og fjarskipti",
+    "id": "2586",
+    "title": "internet á fjöllum",
+    "url": "http://www.jeppaspjall.is/viewtopic.php?f=37&t=2586",
+    "posts": [
+        {
+            "user_name": "arntor",
+            "text": "hvad segja menn um tad? hvad draga tessir netpungar sem eru er haegt ad fá t.d hjá nova? ég er utanad landi og hef prófad tetta í bílnum, dregur um mestallt sudurland, og lengst inneftir skaftártungu. hefur einhver prófad tetta inná fjöllum eda uppá jöklum, mýrdals og vatna?",
+            "date": "2010-11-24 20:18:00",
+            "post_id": "11306",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AgnarBen",
+            "text": "Ef þú ert að tala um 3G þá drífur það ekki neitt.  Best er bara að fá sér internet áskrift í venjulegan gsm síma og nota hann sem router fyrir tölvuna.",
+            "date": "2010-11-24 20:55:00",
+            "post_id": "11310",
+            "reply_to_id": "11306"
+        },
+        {
+            "user_name": "ofursuzuki",
+            "text": "Þú getur notað netpung hvar sem GSM samband er en að vísu ekki á sama hraða og þar sem 3G er, þeir nota þá\nEDGE tengingu sem er töluvert hægari en vel nothæf og er sama tenging og þú værir að nota á GSM síma utan 3G.\nTil að gera hlutina enn betri þá færðu þér 3G router (vinnur líka á EDGE) og útiloftnet og getur þá plöggað tölvunni og venjulegum síma við hann og einnig notað hann sem þráðlausan router fyrir aðra til að tengjast. Með útiloftneti ertu búinn að auka langdrægnina töluvert og tel ég nokkuð víst að svona uppsetning muni koma að nokkrum hluta í stað \ngamla NMT kerfisins.",
+            "date": "2010-11-24 23:27:00",
+            "post_id": "11320",
+            "reply_to_id": "11310"
+        },
+        {
+            "user_name": "arntor",
+            "text": "hvar fae ég graejurnar í thetta, 3g router og loftnet? í naestu símabúd?",
+            "date": "2010-11-28 09:29:00",
+            "post_id": "11453",
+            "reply_to_id": "11320"
+        },
+        {
+            "user_name": "Izan",
+            "text": "Sælir\nMálum er þannig háttað í dag að GSM kerfið er að yfirtaka NMT kerfið, illu heilli að mér finnst.  Gsm kerfið er ágætt til síns brúks og sjálfsagt á það minna skilið af mótlæti en það hefur fengið.  \nVandamálið er í mínum huga þannig að á fjöllum þurfum við fjarskiptakerfi sem við getum treyst til að ná sambandi til byggða ef illa fer.  Slíkt kerfi er í raun neyðarkerfi fjallafarans.  Í dag beinist öll þróununarvinna fjarskiptatækja í þá átt að kerfin verði fullkomnari en ekki öruggari.  Við erum að fá netsamband nokkurnvegin þar sem gsm samband á annað borð er tilstaðar en á sama tíma er dauðu blettunum lítið að fækka.  \nMér finnst vitlaust að hugsa um netsamband á einum stað á meðan ekki er símasamband/neyðarsamband á öðrum.  Svo það sé samt á hreinu þá er ég ekki að tala illa um eða til notenda heldur þeirra sem skipuleggja kerfin og reka.  \nÞú ættir að vera í þokkalegu netsambandi með svona netpung til fjalla.  Loftnetið í pungnum er lítið og lélegt en það eru sendar hist og her um hálendið til að nýta.  Þú skalt ekki eiga von á að vera á hraðri tengingu því að 3G sendavæðingin er ekki beint til hálendisin ennþá allavega heldur til sjávar.  Á hálendinu máttu eiga von á að tengjast með GPRS tengingu sem er lítið hraðari en ISDN tenging í heimahúsi.  \nVandamálið er að þessir sendar bera bara ákveðna umferð og hálendissendarnir eru ekki að bera mikla umferð, þeir einfaldlega þurfa þess ekki.  Ef einhver er kominn á netið á slíkum sendi er hann búinn að dekka stórann hluta sendisins og er þannig að dekka öryggisfaktorinn í kringum sendinn.  \nÉg er enginn spesíalisti í GSM kerfinu enda er erfitt að fylgjast með því sem er að gerast á þessum vettvangi nema vera í innsta hring, bæði er þróunin hröð, breytingarnar miklar sem verða og ekki alltaf sannleikurinn sagður í auglýsingum og yfirlýsingum, allavega ekki allur.\nÉg þykist vita að þessi langdrægu 3G sjósendar hafi komið þokkalega út og framtíðaruppbygging verður beint til hálendisins.  þar er hraður gagnaflutningur á kerfi sem gengur á 900MHz sem er lægsta GSM tíðni sem völ er á.  Búnaðurinn er nokkuð dýr en býður upp á útiloftnetstengingu sem er fínt.  \nMenn geta samt ekki gleymt sér og haldið fram að útiloftnet leysi allan vanda.  Það er 2 meginþættir sem hafa áhrif á fjarskiptasamband og það er fjarlægð frá sendi og hvernig bylgjan flæðir um mishæðótt land.  Fjarlægð frá sendi er ekki unnt að hafa áhrif á með hvaða tæki sem er, það er tímafaktor sem segir til um hversu langur tími má líða frá því að sendir sendir gögn og þangar til hann vill fá svar.  Í heimi sem er að öðru leyti fullkominn ertu allsstaðar í sambandi innan þessa fjarlægðar.  \nHitt sem hefur áhrif er tíðnin en hún er 900MHz og þá er hægt að reikna út bylgjulengdina ef maður veit ferðahraðann á bylgjunni.  Skv þeirri góðu bók \"Jeppar á fjöllum\" er bylgjulengd 900Mhz gsm bylgju um 33cm og ef ég vitna beint í bókina \"Gróf regla er að bylgjurnar geta beygt fyrir brúnir sem eru nægjanlega hvassar til að komast fyrir í einni bylgjulegnd\".  (Jeppar á fjöllum, Ormstuna, 9.kafli, bls 380)\nÞetta þýðir að útiloftnet hefur ekki afgerandi áhrif á samskiptin en óneitanlega hjálpar að hafa loftnetið hátt uppi.  Sömuleiðis getur það hjálpað ef merkið er veikt sökum fjalllendis að koma merki frá símanum því að samband gengur bæði út á að geta fengið samband frá sendi og þá er síminn móttakari og senda til sendisins og þá er síminn sendir. \nKv Jón Garðar",
+            "date": "2010-11-28 11:30:00",
+            "post_id": "11457",
+            "reply_to_id": "11453"
+        },
+        {
+            "user_name": "ofursuzuki",
+            "text": "Ég get að flestu ef ekki öllu leiti verið sammála þér Jón með að svona búnaður kemur aldrei til með að \nverða sú lausn sem NMT var á sínum tíma nema aukin verði uppbygging og langdrægni þessara GSM kerfa.\nSú tíðni sem verið er að nota í þessum kerfum býður ekki upp á mikla dreifingu eins og þú bendir á.\nÉg veit að verði er að beina mönnum í þessa lausn þar sem símafyrirtækin hafa ekkert skárra\nupp á að bjóða. Til dæmis er verið að beina björgunarsveitunum í þetta kerfi og reikna ég með að þá\nkomi fljótlega í ljós þeir vankantar sem eru á þessu með aukinni notkun. Það er varla að maður trúi \nþví að verið sé að beina notendum í þetta kerfi ef ekki á að byggja það meira upp fyrir hálendið en\nþað er svo sem öllu trúandi í þeim efnum. Hef sagt það áður og segi það aftur að við eigum að taka \naftur upp SSB HF stöðvarnar, það hefur orðið mikil þróun í þessum stöðvum og eru þetta ekki sömu\nhlunkarnir og þær voru en gallinn er að þær stöðvar sem ég hef skoðað erlendis eru mjög dýrar.",
+            "date": "2010-11-28 21:27:00",
+            "post_id": "11477",
+            "reply_to_id": "11457"
+        },
+        {
+            "user_name": "Sævar Örn",
+            "text": "ætli maður prufi ekki svona pung kvikindi eftir áramót, verst að maður er skuldbundinn til hálfs árs, allavega hjá vodafón, hverjir aðrir bjóða upp á punga?",
+            "date": "2010-11-29 00:05:00",
+            "post_id": "11484",
+            "reply_to_id": "11477"
+        },
+        {
+            "user_name": "ofursuzuki",
+            "text": "Nova og Síminn eru líka með svona punga, veit ekki með TAl og Alterna. Ég keypti minn hjá Nova á sínum tíma\nog er búinn að nota hann mikið bæði á láglendi og til fjalla. Man að í fyrsta skipti sem ég notaði hann á fjöllum\nvar ég staddur í Sigurðarskála í Kverkfjöllum og var að kíkja á veðrið og fréttir, virkaði ágætlega þó hraðinn\nværi ekki mikill en hraðvirkara en gömlu módemtengingarnar.",
+            "date": "2010-11-29 09:00:00",
+            "post_id": "11490",
+            "reply_to_id": "11484"
+        },
+        {
+            "user_name": "spazmo",
+            "text": "svo er reyndar líka sniðugt að fá sér tölvu með innbygðu 3g netkorti og sínu eigin sim korti.\nhttp://www.lg.com/levant_en/computer-pr ... 0-Pink.jsp\nég er með sovna tölvu, og þetta virkar þar sem er gsm samband, en verður alveg skelfilega hægt þegar er ekki 3g samband, en virkar.",
+            "date": "2010-11-29 20:35:00",
+            "post_id": "11529",
+            "reply_to_id": "11490"
+        },
+        {
+            "user_name": "Sævar Örn",
+            "text": "Var inni í laugum síðustu helgi í fullu 3g sambandi inn á milli fjallanna í laugum og MSNið lokaðist aldrei...\n1590kr á mán hjá Símanum. Pínulítill kubbur. Sagði mér að jeppamenn væru að setja framlengingarsnúrur á kubbinn og færa hann á efsta punkt í framrúðunni og það skipti sköpum en ég tel mig nú ekki þurfa þess m.v. þessa reynslu.",
+            "date": "2011-01-15 18:17:00",
+            "post_id": "13897",
+            "reply_to_id": "11529"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Sælir.\nÞað er nú ekki alveg að marka þó að það sé 3G samband í Landmannalaugum.  Sendirinn er nánast í seilingarfjarlægð uppi á Snjóöldu.  Svo er næsti sendir á Hörðubreiðarhálsi og er ég nú hræddur um að þessir tveir sendar dekki ekki allt nyrðra Fjallabakið þó svo vissulega hafi verið unnið vel í að bæta sambandið á þessu svæði.  Þriðji sendirinn, á Laufafelli, dekkar líka mjög stórt svæði.\nÉg er sammála ykkur hér að það er eftirsjá í NMT kerfinu.  Mér fannst fínt að vita af því að maður gæti, með lítilli fyrirhöfn, látið vita af sér ef eitthvað kæmi uppá en mikið djöfull var gott að vera laus við þetta hversdags símablaður og tölvurugl.  Ég lenti í að GSM sambandið varð til þess að fólk misnotaði það í sumar og þykir mér það miður.",
+            "date": "2011-02-01 01:24:00",
+            "post_id": "14704",
+            "reply_to_id": "13897"
+        },
+        {
+            "user_name": "Slayer",
+            "text": "ég á svona LG tölvu með innbyggðu 3G og það virkar mjög vel þar sem er GSM samband, 3G úr LG tölvunni er líka hraðara en svona pungur ;p",
+            "date": "2011-02-08 15:01:00",
+            "post_id": "15232",
+            "reply_to_id": "14704"
+        },
+        {
+            "user_name": "D.Sigurdsson",
+            "text": "3G routear eins og t.d. B260 frá Huawai eru með loftnetstengi þannig að hægt er að setja external loftnet við þá og þ.a.l. framlengja mögulegu sambandi.\nAð vera með síma eða 3G router inni í bíl gefur deyfingu upp á ca 20dB (misjafnt milli bíla auðvitað)\nÞess má geta að við hver 3dB töpuð þá tapast helmingur af merki, sama skapi við hver aukin 3dB þá tvöfaldaru merkis styrkinn.\nÞau loftnet sem við höfum verið að setja upp og selja eru 5.5dB bílanet (segulfótir) 50cm fiberstöng (man ekki mögnun) og 120cm fiberstöng (7dB á 900MHz, 11dB á 2100MHz)\nÞetta hefur verið mikið sett í vinnubíla hjá verktökum, björgunarsveitir og auðvitað venjulega jeppa hjá þeim sem finnst gaman að halda til fjalla.",
+            "date": "2011-02-21 19:02:00",
+            "post_id": "16220",
+            "reply_to_id": "15232"
+        },
+        {
+            "user_name": "DABBI SIG",
+            "text": "Þessi loftnet sem þú nefnir eru þetta loftnet sem eru tengd við hefðbundna farsíma, bæði GSM og 3G síma eða einungis svona 3g routera? Hvar er hægt að nálgast svona loftnet og hvaða prís er sirka á þessu?",
+            "date": "2011-02-21 23:09:00",
+            "post_id": "16251",
+            "reply_to_id": "16220"
+        },
+        {
+            "user_name": "D.Sigurdsson",
+            "text": "Þau eru hugsuð bara fyrir 3G routera þar sem þeir eru með sér loftnets tengi fyrir auka loftnet, margir nýjir símar eru ekki með þann möguleika að tengja loftnet við þá, ef svo framarlega sem að síminn hvort sem það er hand-gsm sími eða hand-3g eða 3g router, sé með loftnets tengi þá er hægt að nota þessi net við þá.\nÞar sem ég er bara api og set þetta upp þá man ég ekki prísinn, en getur bjallað í 511-1010 milli 0900-1600 og spurt um verðin.",
+            "date": "2011-02-21 23:22:00",
+            "post_id": "16256",
+            "reply_to_id": "16251"
+        },
+        {
+            "user_name": "E.Har",
+            "text": "Er ekki týmabært að vekja þennan þráð aftur.  Eru menn komnir með routera og hvað er að virka?",
+            "date": "2015-09-25 21:50:00",
+            "post_id": "162061",
+            "reply_to_id": "16256"
+        },
+        {
+            "user_name": "xenon",
+            "text": "Það hafa orðið smá breytingar síðan þessi þráður var stofnaður. Ég fjárfesti í \"4G hnetu\" hjá símanum við hana er hækt að tengja loftnet, loftnetið fékk ég hjá Sónar í hafnarfirði. þetta er alveg að virka hvort sem það er venjulega gsm samband, 3G eða 4G samband hraðin bara missjafn, hef ekki prufað á miðhálendinu en hef ferðast með þetta um land allt og virkar flott. (hækt að tengja allt að 10 tæki við hentuna WiFi ef menn vilja missa sig í ruglinu)\nKv Snorri",
+            "date": "2015-09-26 03:19:00",
+            "post_id": "162067",
+            "reply_to_id": "162061"
+        },
+        {
+            "user_name": "E.Har",
+            "text": "Hvað kostar svona hneta, og er svo bara klassisk sim kort.\nAnnað þær eru til líka með símtöli, þá er hægt að skypa beint. \nNærð lengra en með gsm",
+            "date": "2015-09-26 13:05:00",
+            "post_id": "162077",
+            "reply_to_id": "162067"
+        },
+        {
+            "user_name": "xenon",
+            "text": "Hnetan kostaði rétt innan við 20.000 kr en loftnetið er þó nokkuð dýrara þetta er svona hvít skipaloftnet eins og margir eru komnir með sem VHF sver hvít stöng.\nhttps://vefverslun.siminn.is/vorur/buna ... %20b5577s/\nVodafone er líka með svona en einhverjar típur af þessu eru ekki með tengi fyrir loftnet\nKv Snorri",
+            "date": "2015-09-26 23:34:00",
+            "post_id": "162094",
+            "reply_to_id": "162077"
+        }
+    ],
+    "date": "2010-11-24 20:18:00"
+}

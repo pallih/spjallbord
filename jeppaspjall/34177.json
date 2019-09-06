@@ -1,0 +1,58 @@
+{
+    "forum_title": "Breytingar, viðhald og viðgerðir",
+    "id": "34177",
+    "title": "Algjörlega dauður Terrano",
+    "url": "http://www.jeppaspjall.is/viewtopic.php?f=5&t=34177",
+    "posts": [
+        {
+            "user_name": "GTrausta",
+            "text": "Sælir,\nTerrano II, 3l disel.\nSonurinn hringdi í gær. Bíllinn sem hafði staðið fyrir utan vinnuna hans algjörlega dauður. Virðist með öllu rafmagnslaus, t.d. virkaði ekki central-læsingin og þegar reynt er að starta þá heyrist í einhverju relay-i smella en ekkert annað. Koma m.a. engin ljós á mælaborðið.\nBúnir að reyna að gefa start og rafgeymirinn (sem er 18 mánaða) virðist hafa straum. Fannst hann hitna reyndar frekar mikið við að vera tengdur með köpplum...\nBúin að athuga öryggi - bæði undir húddinu og við ökumannssætið og er ekki að sjá neitt ónýtt.\nVæri alls ekki verra að hafa einhverjar hugmyndir áður en ég legg af stað - þótt ekki væri nema til að vita hvaða verkfæri ég tek með og ekki síður hvar ég byrja að leita!",
+            "date": "2017-04-23 12:55:00",
+            "post_id": "174478",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "sukkaturbo",
+            "text": "Sæll aftengdu geymirinn í bílnum og prufaðu að gefa straum þannig með köpplum.Skoðaðu rafgeymaskóna hvort vírinn sé að mestu eða einhverju leiti kominn í sundur í þeim eða sprunga í þeim þannig að þeir ná ekki að klemma utan um pólana á rafgeyminum,.Þetta er svona ódýrasta skoðuninn.Það gæti líka verið stórt öryggi farið.",
+            "date": "2017-04-23 13:20:00",
+            "post_id": "174479",
+            "reply_to_id": "174478"
+        },
+        {
+            "user_name": "GTrausta",
+            "text": "Takk fyrir þetta. Þetta voru einmitt fyrstu skrefin sem ég ætlaði að prófa.\nÞað er eitt stórt 100 ampera öryggi sem er það fyrsta í boxinu undir húddinu. Sýndist það vera í lagi en ætla að skella mælir á það á eftir.\nBót í máli að þetta var fyrir utan Domino's. Get gripið eina og eina brauðstöng milli tilrauna.",
+            "date": "2017-04-23 13:39:00",
+            "post_id": "174480",
+            "reply_to_id": "174479"
+        },
+        {
+            "user_name": "svarti sambo",
+            "text": "Ef að geymirinn er að hitna við að fá kapla á sig, þá er hann örugglega ónýtur, gæti verið vegna ofhleðslu. og þá myndi hann sennilega mælast ca: 10,5 - 11V",
+            "date": "2017-04-23 23:52:00",
+            "post_id": "174487",
+            "reply_to_id": "174480"
+        },
+        {
+            "user_name": "GTrausta",
+            "text": "Náði að fá rafmagn á kvikindið með því að setja annan startkapalinn frá mínus á gjafageyminum í vélina á bilaða (ekki í svarta á geyminum). Náði þó ekki að starta. Það er alveg jafn-dautt. En það kom rafmagn á mælaborðið, ljós og annað eins. \nSkildi rafgeyminn eftir í hleðslu. Hef samt grun um að hann sé ónýtur og ætla að prófa að tengja annan á morgun.",
+            "date": "2017-04-24 22:33:00",
+            "post_id": "174501",
+            "reply_to_id": "174487"
+        },
+        {
+            "user_name": "svarti sambo",
+            "text": "Það bendir nú til þess að jarðsambandið sé ekki í lagi.\nEru ekki tveir geymar í honum.",
+            "date": "2017-04-25 01:04:00",
+            "post_id": "174503",
+            "reply_to_id": "174501"
+        },
+        {
+            "user_name": "GTrausta",
+            "text": "Loksins kominn í gang. Mér fróðari maður skoðaði hann fyrir mig. Byrjaði eins og ég á að mæla öryggin. Eins og ég þá fékk hann m.a. mælingu á höfuðörygginu (continuity), enda töldum við það í lagi þar sem við fengum ljós á bílinn (en engin önnur viðbrögð). \nEftir að hafa rakið kerfið fram og aftur kom hann alltaf aftur að höfuðörygginu og losaði það því úr (smá fyrirhöfn – þarf að losa junction-boxið). Enn og aftur benti mæling á að öryggið væri í lagi.\nNema… þegar hann þrysti aðeins á tenglana sá hann sprungu í vírnum sem er sýnilegur undir glæra plastlokinu á örygginu. Sprungan var ekki sýnileg nema að þrysta tenglunum aðeins saman. Höldum að sprungan sá til að við fengjum falsmælingu (enda leiddi öryggið rafmagn) en hafi jafnframt komið í veg fyrir að það gæti borið nægjanlegan straum. Skelltum nýju höfuðöryggi í og bíllinn eins og nýr…\nLærdómur? Yfirleitt er það augljósa það sem er að. Jafnvel þótt það sé ekki augljóst hversvegna.",
+            "date": "2017-05-31 11:34:00",
+            "post_id": "174833",
+            "reply_to_id": "174503"
+        }
+    ],
+    "date": "2017-04-23 12:55:00"
+}

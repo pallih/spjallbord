@@ -1,0 +1,44 @@
+{
+    "forum_title": "Ferlar og fjarskipti",
+    "id": "17166",
+    "title": "Í kjölfar Stórferðar - nokkur orð um GPS staðsetningar",
+    "url": "http://www.jeppaspjall.is/viewtopic.php?f=37&t=17166",
+    "posts": [
+        {
+            "user_name": "AgnarBen",
+            "text": "Í kjölfar stórferðar F4x4 fór af stað talsverð umræða á heimasíðu F4x4 um framsetningu (format) á GPS staðsetningum og notkun GPS tækja.  Ég held að þessi umræða sé mjög þörf þar sem aðgengi og notkun á GPS tækjum er orðinn mjög almenn en að sama skapi þá held ég að fólk kynni sér almennt ekki fræðin á bak við notkun þeirra á fullnægjandi hátt.  Ég ákvað því að taka saman nokkur orð á \"mannamáli\" um nokkur grundvallaratriði varðandi format á GPS staðsetningum og birti hana bæði hér og á F4x4, bæði til rifja þetta upp fyrir sjálfum mér og með þeirri von að þetta sé öðrum til gagns og gaman. \nHvernig getur gráða [deg°] sýnt staðsetningu upp á hálendi ?\nEins og 97,6% Íslendinga vita þá er heimurinn kúla en kúlu má, eins og hring, skipta upp í 360 hluta (gráður) eftir miðbaug jarðar.  Þannig höfum við komið okkur saman um að að skipta jörðinni niður í 360 lengdarbauga (gráður) með 0° í gegnum Greenwich í Englandi.  Gráðurnar eru þó ekki lagðar út í heilann hring í kringum jörðina upp í 360 heldur var ákveðið að telja í báðar áttir frá Greenwich, þe 180° gráður í vestur og 180° í austur (og mætast í 180 gráðu austast í Rússlandi).  Breiddargráðurnar eru aftur á móti lagðar út frá miðbaug jarðar með jöfnu millibili og telja bara 90° í norður og 90° í suður.  Innan þessa hnitakerfis er síðan hægt að staðsetja sig hvar sem er í heiminum á einfaldan hátt, td er Reykjavík ca staðsett á 64°N og 21°W. \nMismunandi framsetning á staðsetningu (gráðum) \nÍ allri umræðu um framsetningu (format) á GPS staðsetningu er mikilvægt að hafa í huga að ekkert format er í raun rétthærra en annað, hér er bara um mismunandi framsetningu að ræða á sama hlutnum.  Það breytir því þó ekki að við getum reynt að sammælast um hvað af þeim við ættum öll að nota.  Þrjú algengustu formötin eru: \nddd.dddd° (deg)\nHérna eru gráðurnar túlkaðar með mörgum aukastöfum en þetta format er líklega helst notað í hugbúnaði þar sem unnið er með landmælingagögn og er þá W og N merkingunum oft sleppt en í staðinn er notaður + og -.  \nStaðsetningin á Setrinu í þessu formati er 64,6153°N og 19,0198°W.\nddd°mm.mmm´ (deg,min)\nÍ þessu formati er gráðunum ekki skipt niður í gráðubrot með mörgum aukastöfum heldur hefur verið ákveðið að skipta hverri gráðu niður í svokallaðar „mínútur“, táknaðar með ´.  Hverri gráðu er þannig skipt niður í 60 mínútur og mínúturnar eru síðan brotnar niður í mínútubrot með allt að fjórum aukastöfum í flestum GPS hugbúnaði sem er þó óþarflega nákvæmt.  Þetta er mjög þægileg og meðfærileg framsetning á staðsetningu og er algengt að sjá merkingar á lengdar/breiddar línum á gömlu LMÍ kortunum á þessu formati.  \nStaðsetningin á Setrinu á þessu formati er 64°36,9200´ N og 19°01,1900´ W.\nddd°mm´ss.s\" (deg,min,sec)\nÍ þessu formati er gengið enn lengra og gráðunum skipt enn frekar niður í mínútur og svo sekúndur, táknaðar með \".  Ein gráða er þá eins og áður skipt niður í 60 mínútur en mínútunum síðan skipt enn frekar niður í 60 sekúndur sem gefur okkur að það séu 3600 sekúndur í einni gráðu.  Sekúndurnar eru síðan settar fram sem sekúndubrot með allt að fjórum aukastöfum.  Þetta format er líklega hvað leiðinlegast og seinvirkast að vinna með og er í raun óþarflega nákvæmt fyrir okkar notkun.  \nStaðsetningin á Setrinu á þessu formati er 64°36´55,1988“ N og 19°01´11,3988“ W.\nHvaða format á að nota\nLíklega eru nú flestir að nota [deg, mín] formatið hérna á Íslandi enda er það format hvað einfaldast að nota og líklega það format sem allir hljóta að vera sammála um að sé best að nota.  Þetta þýðir þó ekki endilega að allir VERÐI að nota þetta format svo lengi sem þeir geri sér grein fyrir muninum.  Það er ekkert mál að taka á móti staðsetningu á forminu [deg,mín,sek] þótt þú sért að nota [deg,mín] að staðaldri.  Þú einfaldlega stillir tækið á það format sem staðsetningin er fyrir og stimplar hana svo inn, síðan ferðu bara aftur í stillingarnar og breytir yfir á [deg,mín] og hugbúnaðurinn mun aðlaga staðsetninguna í samræmi við það.  \nVonandi hefur einhverjum fundist þetta gagnleg umfjöllun og endilega kommenta inn á ef þið hafið einhverjar athugasemdir ef ég hef farið með rangt mál.  \nMeð GPS kveðu,",
+            "date": "2013-03-29 13:44:00",
+            "post_id": "94730",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Doror",
+            "text": "Mjög skiljanlegt og gagnlegt, takk fyrir þetta.",
+            "date": "2013-03-29 14:46:00",
+            "post_id": "94737",
+            "reply_to_id": "94730"
+        },
+        {
+            "user_name": "gislisveri",
+            "text": "Takk Agnar, þetta er mjög fróðlegt og skiljanlegt, til fyrirmyndar. \nKv.\nGísli.",
+            "date": "2013-03-29 18:56:00",
+            "post_id": "94765",
+            "reply_to_id": "94737"
+        },
+        {
+            "user_name": "Járni",
+            "text": "Þetta er vandað og uppbyggilegt innlegg. \nEf ég ætti páskaegg myndi ég amk deila því með þér.",
+            "date": "2013-03-29 21:18:00",
+            "post_id": "94787",
+            "reply_to_id": "94765"
+        },
+        {
+            "user_name": "birgthor",
+            "text": "Flott framtak.\nÉg held að ég fari með rétt mál þegar ég segji að Landsbjargarfólk tileinki sér notkun á ddd°mm.mmm formi. Við í minni sveit gerum það að minnsta kosti.\nÞað má líka taka fram að ef fólk þarf að hafa samband við neyðarlínuna vegna aðstoðar er gott að taka fram hvaða kerfi er verið að nota. T.d. ef þú hringir í 1-1-2 er best að taka fram hvað er á milli talnana, 64(gráður)45(komma)133(mínútur) eða 64(gráður)45(mínútur)5.62(sekúndur)\nMiklu máli skiptir að neyðavörður fái upplýsingar um hvaða kerfi er verið að notað við staðsettningu þar sem miklum vegalengdum getur munað ef slegið er t.d. ddd°mm.mmm tölum inní ddd°mm'ss.s'' o.s.f.",
+            "date": "2013-03-29 23:49:00",
+            "post_id": "94804",
+            "reply_to_id": "94787"
+        }
+    ],
+    "date": "2013-03-29 13:44:00"
+}

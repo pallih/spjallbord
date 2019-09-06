@@ -1,0 +1,93 @@
+{
+    "forum_title": "Almennt spjall",
+    "id": "32869",
+    "title": "Vesen með obd2 lesara í 250 ford",
+    "url": "http://www.jeppaspjall.is/viewtopic.php?f=2&t=32869",
+    "posts": [
+        {
+            "user_name": "villi",
+            "text": "Keypti mér obd2 kubb til að framkvæma buzz testið á spíssunum í Ford F250 árg 2001 en hann vill ómögulega framkvæma það og dettur út þegar ég reyni . Eins þegar ég ætla að villuleita, þá bara rífur hann sambandið en virkar að öðru leiti. \nHefur einhver verið að fikta við þetta og það virkað?",
+            "date": "2016-05-06 22:04:00",
+            "post_id": "169043",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "jwolf",
+            "text": "Það þarf yfirleitt sérlicence til að gera þetta í Ford.",
+            "date": "2016-05-06 22:16:00",
+            "post_id": "169044",
+            "reply_to_id": "169043"
+        },
+        {
+            "user_name": "villi",
+            "text": "Þeir virðast allavega geta gert þetta í ameríkuhreppi með hræódýrum 2000 kr obd kubb og cargauge pro appinu",
+            "date": "2016-05-06 22:32:00",
+            "post_id": "169045",
+            "reply_to_id": "169044"
+        },
+        {
+            "user_name": "svarti sambo",
+            "text": "Það er möguleiki að það sé eitthvert sambandsleysi í öryggjaboxinu. Það eru minnir mig einhver tvö öryggi sem koma til greina. Man ekki númerin á þeim. Skoðaðu það vel.",
+            "date": "2016-05-06 23:46:00",
+            "post_id": "169048",
+            "reply_to_id": "169045"
+        },
+        {
+            "user_name": "Heddportun",
+            "text": "Hvaða kubb ertu með?\nÞað er smá vesen að frá þá til að virka,þarf að fara rétta leið í appinu\nÞú þarft að velja buzz testið manual ekki sjálfvirkt",
+            "date": "2016-05-08 21:01:00",
+            "post_id": "169083",
+            "reply_to_id": "169048"
+        },
+        {
+            "user_name": "villi",
+            "text": "Sæll. Ég man nú ekki nafnið á honum en þetta er bara 20 dollara kubbur af ebay. En ég fékk meldingu um daginn þegar ég var að fikta við þetta um að ég þyrfti Obdlink MX. Þetta er eitthvað vesen í mínum bíl held ég þar sem að ég get villulesið aðra bíla og slökkt vélarljós en um leið og ég reyni það í mínum þá dettur sambandið við kubbin út eða hann segist ekki geta tengst við tölvuna í bílnum",
+            "date": "2016-05-09 11:39:00",
+            "post_id": "169096",
+            "reply_to_id": "169083"
+        },
+        {
+            "user_name": "svarti sambo",
+            "text": "Veit ekki hvaða öryggjabox þú ert með, en það væri ráð að renna yfir þennan lista og sjá hvort að þetta hjálpi þér. Mig minnir að Ingimar hafi lent í þessu veseni hjá sér, og það var eitthvert öryggi sem náði ekki sambandi.\nFuse/Relay\nLocation\nFuse Amp\nRating\nPassenger Compartment\nFuse Panel Description\n1 20A Turn/Hazard Lamps\n2 10A Airbag Module\n3 20A Cigar Lighter, Data Link Connector\n4 10A Glove Box Lamp, Map Lamps, Power\nMirrors, Underhood Lamp\n5 — Not Used\n6 — Not Used\n7 5A Power Window/Lock Switch Illumination\n8 5A Radio, Headlamp Switch Illumination\n9 — Not Used\n10 15A Dual Fuel Tanks\n11 30A Wiper Motor, Wiper Run/Park Relay Coil,\nWiper Hi/LO Relay Coil, Washer Pump\nRelay Coil\n12 15A Horn\n13 20A Stop Lamps, Center High-mount Stop\nLamp, Trailer Tow Stop Lamp, Speed\nControl\n14 10A Dome Lamp, Cargo Lamp, Courtesy Lamps,\nRunning Board Lamps\n15 5A Stop Lamp Switch (Logic): Generic\nElectronic Module (GEM), Powertrain\nControl Module (PCM), Four Wheel\nAnti-lock Brake System (4WABS) Module,\nBrake Shift Interlock, Cluster and PCM\nKeep Alive Memory\n16 15A Instrument Cluster, Hi-beam Headlamps\n17 — Not Used\n18 — Not Used\n150\nFuse/Relay\nLocation\nFuse Amp\nRating\nPassenger Compartment\nFuse Panel Description\n19 10A Auxiliary Powertrain Control Module\n(APCM) (Diesel only), Instrument Cluster,\nGEM Module, Overdrive Cancel Switch, Idle\nValidation Switch (Diesel only), Overhead\nConsole, Diesel PCM via Clutch\n20 15A Starter Motor Relay Coil, Clutch Switch\n21 — Not Used\n22 10A Air Bag Module, Passenger Air Bag\nActivation/Deactivation Switch, Blower\nMotor Relay Coil\n23 — Not Used\n24 10A A/C Clutch, Blend Door Actuator, Trailer\nTow Battery Charge Relay Coil, Four Wheel\nAnti-Lock Brake System (4WABS), Turn\nSignal\n25 — Not Used\n26 — Not Used\n27 10A Ignition Run Power Feed (Customer Access)\n28 10A Brake Shift Interlock, DRL Relay Coil,\nSpeed Control Module, Backup Lamps,\nTrailer Tow Backup Lamp Relay Coil,\nElectronic Shift On The Fly Hub Lock\nSolenoid, Vacuum Pump Motor\n29 5A Instrument Cluster (Charge and Airbag\nWarning Lamps)\n30 30A PCM Relay Coil, Ignition Coil (Gasoline\nonly), Fuel Heater (Diesel only), Wastegate\nSolenoid (Diesel only), Injector Driver\nModule Relay Coil (Diesel only)\n31 — Not Used\nRelay 1 — Interior Lamp Relay\nRelay 2 — Not Used\nRelay 3 — Horn\nRelay 4 — Power Window One Touch Down Relay\nRelay 5 — Accessory Delay Relay\nFuse/Relay\nLocation\nFuse Amp\nRating\nPower Distribution Box Description\n1 7.5A * Trailer Tow Left Stop/Turn Lamp\n2 10A* Washer Pump\n3 7.5A* Trailer Tow Right Stop/Turn Lamp\n4 20A* Trailer Tow Backup Lamps, Trailer Tow\nPark Lamps\n5 20A* (Gasoline\nonly)\n5A* (Diesel only)\nGasoline only-PCM, Fuel Pump Relay Coil,\nMass Air Flow Sensor, Fuel Injectors\nDiesel only-Dual Alternator A Field\n6 10A* Gasoline only-A/C (CASS)\nDiesel only-Single or Dual Alternator\nA Field, Regulator\n7 20A* (Gasoline\nonly)\n5A* (Diesel only)\nGasoline only-Vapor Management Valve,\nHEGO Sensors, Intake Manifold\nCommunication Control, EVR Solenoid,\nPCM, Canister Vent Solenoid\nDiesel only-Dual Alternator A Field\n8 15A* Trailer Tow Electronic Brake\nIllumination, Park Lamps, Trailer Tow\nPark Lamp Relay Coil\n9 10A* Left Headlamp (Low Beam)\n10 20A* Power Point\n11 10A* Right Headlamp (Low Beam)\n12 15A* Daytime Running Lamps (DRL)\nResistor\n13 30A** Multi-function Switch, Headlamps\n14 60A** Anti-Lock Brake System\n15 — Not Used\n16 30A** Trailer Tow Battery Charge\n17 30A** Electronic Shift On The Fly Relay,\nTransfer Case Shift Motor\n18 30A** Power Seat\n19 20A** Fuel Pump Motor, PCM\n20 50A** Ignition Switch (B4 & B5)\n153\nFuse/Relay\nLocation\nFuse Amp\nRating\nPower Distribution Box Description\n21 50A** Ignition Switch (B1 & B3)\n22 50A** Junction Box Battery Feed\n23 40A** Blower Motor\n24 30A**\n(Gasoline only)\n20A**\n(Diesel only)\nPCM Power\n25 30A*** Power Windows\n26 20A** If equipped with Remote Keyless\nEntry-Driver Door Unlock Relay Coil,\nAll Door Unlock Relay Coil, All Door\nLock Relay Coil, Park Lamp Flash\nRelay, If not equipped with Remote\nKeyless Entry-Power Door Lock Motors\n27 - (Gasoline only)\n30A**\n(Diesel only)\nGasoline only-Not Used\nDiesel only-Injector Driver Module\n28 30A** Trailer Tow Electronic Brake Controller\n29 20A** Radio\n30 -- PCM Power Relay\n31 -- Blower Motor Relay\n32 -- A/C CASS (Gasoline only), Injector Driver\nModule Power Relay (Diesel only)\n33 -- Washer Pump Relay\n34 -- Windshield Wiper Park/Run Relay\n35 -- Windshield Wiper HI/LO Relay\n36 -- A/C Clutch Diode\n37 -- PCM Diode\n38 -- Trailer Tow Backup Lamp Relay\n39 -- Trailer Tow Battery Charge Relay\n40 -- Electronic Shift On The Fly Relay #1\n41 — Electronic Shift On The Fly Relay #2\nGood luck.",
+            "date": "2016-05-09 13:53:00",
+            "post_id": "169098",
+            "reply_to_id": "169096"
+        },
+        {
+            "user_name": "villi",
+            "text": "Takk fyrir þetta. Búinn að ath öll öryggi og þau eru öll heil",
+            "date": "2016-05-09 14:21:00",
+            "post_id": "169099",
+            "reply_to_id": "169098"
+        },
+        {
+            "user_name": "villi",
+            "text": "Eru einhverju obd kubbar betri í þetta en aðrir?",
+            "date": "2016-05-09 21:00:00",
+            "post_id": "169108",
+            "reply_to_id": "169099"
+        },
+        {
+            "user_name": "svarti sambo",
+            "text": "Hér er eitthvað um þetta. Svo eru loftverkfæri.is með eitthvað.\nhttps://www.youtube.com/watch?v=KyQyzZFBMqg",
+            "date": "2016-05-09 22:58:00",
+            "post_id": "169110",
+            "reply_to_id": "169108"
+        },
+        {
+            "user_name": "raggos",
+            "text": "ef þú vilt prófa annan kubb þá er ég með kubb eins og þennan sem þykir nokkuð vandaður. Þér er velkomið að fá hann lánaðan en ég er reyndar í Rvk.\nhttp://www.obdlink.com/mxbt/",
+            "date": "2016-05-10 09:53:00",
+            "post_id": "169114",
+            "reply_to_id": "169110"
+        },
+        {
+            "user_name": "villi",
+            "text": "Sæll og takk fyrir þetta boð. Ég mætti kannski bara vera í bandi við þig þegar ég á leið suður næst. En þetta er einmitt kubbur sem ég hef verið að pæla í að kaupa\nKv Villi",
+            "date": "2016-05-10 12:31:00",
+            "post_id": "169117",
+            "reply_to_id": "169114"
+        }
+    ],
+    "date": "2016-05-06 22:04:00"
+}

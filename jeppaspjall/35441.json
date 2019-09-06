@@ -1,0 +1,51 @@
+{
+    "forum_title": "Breytingar, viðhald og viðgerðir",
+    "id": "35441",
+    "title": "Segullokar fyrir pumpusystem í bíl",
+    "url": "http://www.jeppaspjall.is/viewtopic.php?f=5&t=35441",
+    "posts": [
+        {
+            "user_name": "olei",
+            "text": "Fyrir þá sem eru að velta fyrir sér segullokum fyrir pumpusystem:\nEin fremur augljós útfærsla er þriggja stöðu loki. \n1- lokaður\n2- pumpar í dekk\n3- hleypir úr dekki\nÞriggja stöðu lokar eru algengastir með 5 portum. Þ.e.a.s. þeir eru ætlaðir til að stýra tvívirkum notanda eins og t.d. loft-tjakk. Athugið það að þessir lokar eru svokallaðir servo-lokar. Það þýðir að þegar rafstraumi er hleypt á spóluna (þær eru tvær á 5/3 loka) þá opnar nálin fyrir oggulítið gat sem hleypir lofti út inntakinu undir glíðinn í lokanum og hreyfir hann til. Með öðrum orðum, lokinn notar loftþrýsting til að skipta um stöðu. Það þýðir að hann virkar ekki nema hafa inn á sig loftþrýsting - algengt er að svona lokar virki ekki með loftþýsting undir 25 psi. \nEinhversstaðar í myrkviðum Asíu er megafabrikka sem dælir út slíkum lokum í mörgum útfærslum sem fást á Ebay og vafalaust víðar fyrir slikk. Þeir eru vel nothæfir - ég er búinn að vera með svona loka við loftpúða í mörg ár og það hefur ekki verið neitt vesen með þá þó ódýrir séu. Þeir heita AirTac.\nTýpan sem hentar fyrir ofangreindar kröfur, 5/3 loki með 1/8\" portum og lokaðri miðju heitir \n4V130C\n. Hann hentar ágætlega fyrir 8mm lagnir í bílnum. Stærri útgáfa með 1/4\" portum heitir \n4V230C\n. Til að nýta hann þarf líklega 10mm lagnir í bílinn, eða þá að splæsa saman tveimur dekkjum og nota einn svona fyrir bæði ef menn hafa áhuga á því. Mig minnir að verðið sé mjög svipað á þeim. Það er síðan hægt að kaupa stétt undir þessa loka þar sem þeir raðast snyrtilega upp. \nGætið þess að panta 12V útgáfu, þessir eru seldir með spólum fyrir 110, 230V osfv.. sem hentar fremur illa í bíl.",
+            "date": "2019-04-14 01:56:00",
+            "post_id": "179874",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "olei",
+            "text": "Portin á þessum lokum. \nP\n- Þrýstingur inn frá dælu.\nA\n- Notandi - hér fer lögnin út í hjól. Hefur þrjár stöður, hlutlausa staðan lokuð, straumur á sitthvora spóluna dælir úr og í dekkið. \nB\n- Notandi - hér ekki notuð og verður að blinda til að hleypa ekki lofti af kerfinu út þegar hleypt er úr. \nR\n- Afloftun fyrir port A. -hér kemur loftið úr dekkinu út þegar hleypt er úr. \nS\n-Afloftun fyrir port B. - ekki notað.",
+            "date": "2019-04-14 02:07:00",
+            "post_id": "179875",
+            "reply_to_id": "179874"
+        },
+        {
+            "user_name": "Jonasj",
+            "text": "Ég hef verið að nota þessa Airtac til að pumpa í með ágætis árangri. Held að þeir virki ekki vel við lágan þrýsting. Ég setti því aðra loka til að hleypa úr - þeas virka við niður í nánast núll psi.",
+            "date": "2019-04-14 22:06:00",
+            "post_id": "179881",
+            "reply_to_id": "179875"
+        },
+        {
+            "user_name": "snowflake",
+            "text": "Hvaða loka hefur þú notað til að hleypa úr? Ætli það sé ekki hægt að vinna svona þrivirkan loka sem vinnur á lægri þrýsting?\nEins er pæling hvort að svona junit gæti gengið: \nhttps://www.ebay.com/itm/NPT-Air-Ride-S ... SwveRbdc2W\nSvo er spurning hvort svona mælar virka:https://www.ebay.com/itm/Solar-LCD-Car-TPMS-SP370-Internal-Tire-Pressure-Monitoring-System-with-4-Sensors/283413644968?epid=24027840938&hash=item41fcc506a8:g:PswAAOSwj5BcSVy9",
+            "date": "2019-04-14 22:44:00",
+            "post_id": "179882",
+            "reply_to_id": "179881"
+        },
+        {
+            "user_name": "olei",
+            "text": "Hér er einhver misskilningur á ferðinni - eða eitthvað vesen sem ég hef ekki rekist á. Þrýstingurinn á notandanum (hér, dekkinu) skiptir ekki máli hvað snertir virkni lokans.\nLokarnir þurfa vinnuþrýsting inn á \"P\" portið - frá dælu til að virka. Ef þeir fá þar inn sirka 30 psi eða meira virka þeir. Þannig þarf að vera loftþrýstingur á kerfinu til að hleypa úr dekkjunum, eingöngu fyrir lokana. \n \nÞessir lokar hleypa úr dekkjum og loftpúðum niður í 0 psi og engin vandræði kringum lágan þrýsting. En það þarf að vera þrýstistýring á dælunni og loftkútur til að nota þá. Þeir eru ekki heppilegir fyrir lausar dælur án þrýstirofa.",
+            "date": "2019-04-15 01:57:00",
+            "post_id": "179884",
+            "reply_to_id": "179882"
+        },
+        {
+            "user_name": "olei",
+            "text": "Ég hafði raunar áhyggjur af því að að lokarnir færu að fíflast eitthvað þegar pumpað er í við lágan þrýsting. Þá náttúrulega fellur þrýstingurinn á kerfinu af því að dælan hefur ekki undan að dæla í öll dekkin í einu og kerfisþrýstingurinn nálgast það sem er í dekkjunum. Þó ég noti nokkuð öfluga Aircondition dælu þá fellur þrýstingurinn hjá mér niður 10 psi eða minna þegar ég er að pumpa upp úr t.d. 3 psi á dekkjunum. Þetta virðist ekki vera vandamál. Þegar ég byrja að pumpa er hærri þrýstingur á kerfinu svo að lokarnir skipta eins og vera ber. Þó svo að þrýstingurinn falli langt niður þá halda lokarnir stöðunni og dæla í dekkin án vandræða. \nÁstæðan fyrir því að mér er tíðrætt um að lokarnir þurfi 30 psi er sú að ég er með þrýstiminnkara inn á þá sem er einmitt stilltur á þann þrýsting. Það geri ég af því að ég vil ekki undir nokkrum kringumstæðum fá meira en 30-35psi inn á dekkin - t.d. í því tilviki að ég gleymi mér og skilji við kerfið á pumpun meðan ég lendi á kjaftatörn. Þetta virkar, þrýstingurinn er nægilega hár til að skipta lokunum og nægilega lár til að vernda dekkin fyrir of háum þrýstingi.",
+            "date": "2019-04-15 02:21:00",
+            "post_id": "179885",
+            "reply_to_id": "179884"
+        }
+    ],
+    "date": "2019-04-14 01:56:00"
+}

@@ -1,0 +1,44 @@
+{
+    "forum_title": "Almennt spjall",
+    "id": "8443",
+    "title": "OBD-II kóðalesarar",
+    "url": "http://www.jeppaspjall.is/viewtopic.php?f=2&t=8443",
+    "posts": [
+        {
+            "user_name": "elliofur",
+            "text": "Lengi hef ég verið að spökulera í að fá mér svona OBD-II kóðalesara til að eiga í skúrnum. Nú fyrir stuttu fór frændi minn einmitt með bílinn sinn í álestur annað og borgaði auðvitað fyrir það einhverja peninga.\nEr einhver hér til frásagnar af svona lesurum, það er hægt að fá allt frá usb tengi sem kostar um 10pund uppí svaka flotta og dýra lesara með skjá og fíneríi auðvitað. Hvað gera þeir meira en þeir ódýrari?",
+            "date": "2012-01-15 15:22:00",
+            "post_id": "41671",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "StefánDal",
+            "text": "Félagi minn er með þrjá svona ódýra af ebay. Þeir eru löngu búnir að borga sig og virka bara fínt.",
+            "date": "2012-01-15 16:38:00",
+            "post_id": "41679",
+            "reply_to_id": "41671"
+        },
+        {
+            "user_name": "dragonking",
+            "text": "nú er líka sniðugt að fá sér bluetooth sendi í obd-II tengið ef þú ert með snjallsíma.... því það er hægt að fá ókeypis forrit í þá..... þarf bara að kaupa bluetooth sendinn....\nkv.\nDavíð Freyr\nmeð N9 snjallsíma.... :)",
+            "date": "2012-01-15 17:53:00",
+            "post_id": "41692",
+            "reply_to_id": "41679"
+        },
+        {
+            "user_name": "elliofur",
+            "text": "Þrjá til að geta lesið af fleiri bílum? Það eru víst 5 týpur af plöggum..\nThe Five Flavors of OBD II\nWhile the parameters, or readings, required by OBD II regulations are uniform, the auto manufacturers had some latitude in the communications protocol they used to transmit those readings to scanners. Naturally, each felt they had the one true way, so we have five different OBD II communications protocols in use.\nThe big scanner consoles costing thousands of dollars include the decoding software and firmware for all five protocols in their units, making them universal. Less expensive units, for home or small shop use, are usually customized for a specific communications protocol. Be sure the scanner you are using suits the protocol of your car.\n( \nhttp://www.obdii.com/connector.html\n )",
+            "date": "2012-01-15 17:54:00",
+            "post_id": "41693",
+            "reply_to_id": "41692"
+        },
+        {
+            "user_name": "elliofur",
+            "text": "Svo á annari síðu stendur að það séu bara 3 tegundir...\nOn 1996 and later vehicles, you can tell which protocol is used by examining the OBD II connector:\nJ1850 VPW--The connector should have metallic contacts in pins 2, 4, 5, and 16, but not 10.\nISO 9141-2--The connector should have metallic contacts in pins 4, 5, 7, 15, and 16.\nJ1850 PWM--The connector should have metallic contacts in pins 2, 4, 5, 10, and 16.\nEn þar vantar líka allavega CAN staðalinn sem er fyrir nýjustu bílana...",
+            "date": "2012-01-15 18:06:00",
+            "post_id": "41696",
+            "reply_to_id": "41693"
+        }
+    ],
+    "date": "2012-01-15 15:22:00"
+}

@@ -1,0 +1,135 @@
+{
+    "forum_title": "Ferlar og fjarskipti",
+    "id": "23663",
+    "title": "Qlandkarte GT vantar 3D kort",
+    "url": "http://www.jeppaspjall.is/viewtopic.php?f=37&t=23663",
+    "posts": [
+        {
+            "user_name": "jongud",
+            "text": "Ég veit ekki hvort þetta er rétti staðurinn til að spyrja en...\nÉg var að fikta aðeins við Qlandkarte_GT á tölvunni minni og splittaði upp gmapsupp.img skránni frá gpsmap.is\nKortið hleðst inn og allt í lagi með það, leiðir og trökk koma líka inn frá GPX- skránum ef ég sæki þau.\nHins vegar\n Qlandkarte_GT er með 3d möguleika. og ég er að spá i hvort einhver veit um svoleiðis kort af Íslandi til að nota með því.\nEf það þarf að umbreyta einhverjum skrám þá ætti ég að geta möndlað það líka.",
+            "date": "2014-03-02 18:22:00",
+            "post_id": "129969",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Stebbi",
+            "text": "Er ekki hægt að láta Qlandkarte nota hæðarlínur til að búa til 3D módel.  Með hverju tókstu img skránna í sundur fyrir Qlandkarte, er aðeins búin að vera að fikta í þessu bara ekki haft tíma til að hella mér í það.  Bæði þetta forrit og Viking virðast vera þokkalega fín og full af möguleikum, Viking virkar notendavænna samt.",
+            "date": "2014-03-02 18:56:00",
+            "post_id": "129976",
+            "reply_to_id": "129969"
+        },
+        {
+            "user_name": "jongud",
+            "text": "Ég notaði gmaptool til að splitta því og get þá hlaðið kortinu inn.\nskipunin er \ngmt -S filename.img\nHvar er heimasíðan fyrir Viking?",
+            "date": "2014-03-03 08:13:00",
+            "post_id": "130042",
+            "reply_to_id": "129976"
+        },
+        {
+            "user_name": "Stebbi",
+            "text": "http://sourceforge.net/projects/viking/\nAnnars held ég að þetta sé komið í repository á öllu Debian ættuðu eins og Ubuntu og Mint, þá væri það '\nsudo apt-get install viking\n'\nAnnars náði ég í SRMT skrár fyrir Ísland í gærkvöldi og reyndi að búa til nokkra stóra DEM fæla fyrir QLandkarteGT án árangurs.  Og svo virðist eins og ég geti bara zoomað takmarkað áður en að kortið frá GPSmap.is fer í fokk.  Hefur þú nokkuð lennt í því.",
+            "date": "2014-03-03 17:07:00",
+            "post_id": "130079",
+            "reply_to_id": "130042"
+        },
+        {
+            "user_name": "jongud",
+            "text": "Ég fattaði þetta!\nmaður nær í SRTM mynd (shuttle radar topography map) og gefur skipunina;\n[user@Host-002 maps]$ gdalwarp -t_srs \"+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +no_defs\" -r cubic ISL_msk_alt.vrt Iceland_dem_test4.tif\nÉg notaði gögnin sem eru hér;\nhttp://www.viewfinderpanoramas.org/dem3.html\nog gögnin frá  Aleksandr Yashin. (þau eru í ISL.zip skránni)",
+            "date": "2014-03-05 18:52:00",
+            "post_id": "130326",
+            "reply_to_id": "130079"
+        },
+        {
+            "user_name": "jongud",
+            "text": "Ég þarf nú líklega að athuga þetta eitthvað betur, árnar eru margar að renna uppávið og þvert á dali. Líklega er \"rússakortið\" ónákvæmt",
+            "date": "2014-03-06 08:23:00",
+            "post_id": "130381",
+            "reply_to_id": "130326"
+        },
+        {
+            "user_name": "jongud",
+            "text": "Aðeins betra svona;\nÞarna tók ég nokkrar .hgt skrár og saumaði þær saman.\nmyndir sýnir inn Fáskrúðsfjörð",
+            "date": "2014-03-06 18:29:00",
+            "post_id": "130416",
+            "reply_to_id": "130381"
+        },
+        {
+            "user_name": "jongud",
+            "text": "Þá er ég búinn að breyta öllum .hgt skránum yfir landið yfir í geotiff og sauma þær saman.\nSkráin er hérna til frjálsra nota fyrir þá sem vilja, öll notkun á eigin ábyrgð.\nhttp://filedump.org/files/M687U1394475616.html",
+            "date": "2014-03-11 17:59:00",
+            "post_id": "130928",
+            "reply_to_id": "130416"
+        },
+        {
+            "user_name": "Stebbi",
+            "text": "\"The file you have requested does not exists.\". \n Gætirðu hent þessu inn hérna sem attachment ef þetta er ekki skrilljón terrabyte.",
+            "date": "2014-03-11 21:44:00",
+            "post_id": "130962",
+            "reply_to_id": "130928"
+        },
+        {
+            "user_name": "Stebbi",
+            "text": "Filedump virkar núna.",
+            "date": "2014-03-11 23:02:00",
+            "post_id": "130972",
+            "reply_to_id": "130962"
+        },
+        {
+            "user_name": "GPSmap.is",
+            "text": "Virkilega áhugavert Jón og takk fyrir að hafa dottið þetta í hug og fá það til að takast með kortinu mínu. :-)\nÞað væri gaman að fá nánari lýsingu á hvernig maður fær þetta allt saman til að virka í þessu forriti.\nEr nokkuð hægt að gera track, eða leita að POI/heimilisföngum?",
+            "date": "2014-03-31 21:33:00",
+            "post_id": "133096",
+            "reply_to_id": "130972"
+        },
+        {
+            "user_name": "jongud",
+            "text": "Eftir að hafa spittað kortinu upp með gmaptool opnar maður Qlandkartegt\nFile ->load map\nvelja \"mapset.tdb\"\nvelja svo \"1010_mdr.img\"\nÞað er hægt að teikna inn á kortið og breyta því í \"Route\" eða \"Track\"\nÞá notar maður valmyndina fyrir miðju vinstra megin EÐA velur \"Overlay\" efst og svo \"distance polyline\". Þegar búið er að teikna hægrismellir maður á \"Tour0\"  í valmyndinni fyrir miðju vinstra megin og velur \"track\" eða \"route\"\nÞað er til eitthvað sem heitir \"Search Map\" en ég fæ það ekki til að virka.\nAkkúrat núna þarf ég að gúggla hvernig í \nandsk.\n maður nær að fá kortið til að súmma út aftur eftir að maður hefur \"yfirsúmmað\".\nÞað er nefnilega fast þannig inni hjá mér.\nEinhver config-skrá sem þarf að eyða... \nnei, það hafðist...\nJá, og svo til að fá inn 3D \n-Hægrismella á \"Íslandskort gpsmap.is\" vinstra megin (sjá myndina) og velja \"add DEM\" \nVelja svo skránna Iceland_all_DEM.tif\nFara inn á \"Map\" efst og velja 3D map\nþá kemur upp aukaflipi, þar þarf að hægrismella og velja á milli 2D og 3D\nAnnars er langbest að setja kópíur af kortunum í einhverja \"fiktmöppu\" og fikta sig áfram...",
+            "date": "2014-04-01 18:51:00",
+            "post_id": "133186",
+            "reply_to_id": "133096"
+        },
+        {
+            "user_name": "Stebbi",
+            "text": "Ég gerði eins og þú með DEM skránna og bjó til GeoTiff úr landinu og allt það en þegar ég set 3D á þá fæ ég ekki eins flottar hæðarlínur og í myndunum sem þú póstar, það er allt mikið flatara.  Er einhver stilling eða parameter sem þú hefur rekist á til að fá þetta 'rétt'.",
+            "date": "2014-04-01 19:08:00",
+            "post_id": "133188",
+            "reply_to_id": "133186"
+        },
+        {
+            "user_name": "jongud",
+            "text": "Prófaðu að súmma út og inn,\nÞú hefur vonandi hægrismellt í 3D glugganum og valið 3D ekki satt?\nSvo er hægt að velja \"sjónhæð\" hægra megin í 3D flipanum, \nman ekki hvernig\nJá- leitarfúnksjónin getur bara leitað að merkjum á rasterkortum\nsjá hér;  \nhttp://comments.gmane.org/gmane.comp.gis.qlandkartegt.user/1111\nÞessi síða hjálpaði mér yfir mesta brattann;\nhttp://sourceforge.net/apps/mediawiki/qlandkartegt/index.php?title=QLandkarte_GT",
+            "date": "2014-04-01 19:15:00",
+            "post_id": "133191",
+            "reply_to_id": "133188"
+        },
+        {
+            "user_name": "jongud",
+            "text": "Stebbi, prófaðu þessa skrá;\nhttp://filedump.org/files/0IzTu1396380065.html\n(gamla skráin var fallin á tíma hjá filedump)\nSvo virðist líka stundum að það fari eftir því hvernig súmmað er inn á 2D kortinu hvernig hæðin kemur út á 3D kortinu.",
+            "date": "2014-04-01 19:23:00",
+            "post_id": "133192",
+            "reply_to_id": "133191"
+        },
+        {
+            "user_name": "GPSmap.is",
+            "text": "Takk fyrir leiðbeiningarnar. Mér tókst að koma þessu inn. \nKann samt mjög lítið á þetta enn sem komið er.",
+            "date": "2014-04-01 20:29:00",
+            "post_id": "133197",
+            "reply_to_id": "133192"
+        },
+        {
+            "user_name": "Stebbi",
+            "text": "Prufaði þetta aðeins betur og sá það að zoomið í 2D skiptir öllu máli upp á hæðarlínurnar þegar er farið yfir í 3D.  Ef maður zoomar of langt inn þá virkar DEM skráin frekar takmarkað og allt verður flatara en það á að vera.\nVarstu eitthvað búin að skoða Viking, það virkar finnst mér mun notendavænna en aftur á móti ekki eins fullkomið og QLandkarteGT, en kanski nógu gott.",
+            "date": "2014-04-01 23:06:00",
+            "post_id": "133215",
+            "reply_to_id": "133197"
+        },
+        {
+            "user_name": "jongud",
+            "text": "Hef ekkert skoðað Viking, enda var maður að kaupa sér jeppa, nokkuð sem er nógur hausverkur í bili...",
+            "date": "2014-04-02 12:29:00",
+            "post_id": "133252",
+            "reply_to_id": "133215"
+        }
+    ],
+    "date": "2014-03-02 18:22:00"
+}
