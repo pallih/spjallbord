@@ -1,6 +1,6 @@
 # Þrjú spjallborð
 
-Þessi mappa inniheldur 30.000 þræði af þremur íslenskum spjallborðum.  Aldur textanna er á árabilinu 2000-2019 en þar sem um slembiúrtak úr stærra safn er að ræða er óvíst að textar frá öllum árum séu til staðar.
+Þessi mappa inniheldur 40.000 þræði af fjórum íslenskum spjallborðum. Fjöldi frá hverju spjallorði er 10.000. Aldur textanna er á árabilinu 2000-2019 en þar sem um slembiúrtak úr stærra safn er að ræða er óvíst að textar frá öllum árum séu til staðar.
 
 
 ## Skipulag
@@ -210,13 +210,48 @@ Live2cruize, eða Live2cruize.com, er í möppunni `live2cruize`.
       ]
     }
 
-## Athugasemdir
+### Athugasemdir
 
 Hver þráður hefst á upphafsinnleggi sem hefur `id`. Þar er slóð á þráðinn, hvaða umræðuborði hann tilheyrir og dagsetning tilgreind. Innlegg eru í fylkinu `posts`. Texti innleggs/svars er í `text`.  Hvert innlegg hefur `post_id`eigindi þar sem það fyrsta fær 1 og það næsta 2 og svo koll af kolli.
 
 Í texta hvers innleggs hefur tjáknum verið skipt út fyrir streng sem hefst á `<<<`, þar næst heiti skráarinnar sem tjáknið vísar í og svo endar strengurinn á `>>>`.
 
 Fylkið `files`inniheldur svo upplýsingar um tjáknin. Upprunalegu gif-myndirnar eru svo í möppu nefnd `emojis`.
+
+## Jeppaspjall.is
+
+Jeppaspjall, eða jeppaspjall.is, er í möppunni `jeppaspjall`.
+
+### Dæmi
+
+    {
+        "forum_title": "Jeppar",
+        "id": "12443",
+        "title": "Land Rover Freelander jepplingur",
+        "url": "http://www.jeppaspjall.is/viewtopic.php?f=29&t=12443",
+        "posts": [
+            {
+                "user_name": "Víkingur",
+                "text": "Er með til sölu Land Rover Freelander. \n-Bíllinn kemur á götuna 12/12 2001 \n-Virkilega snyrtilegur bíll og vel með farinn. \n-Keyrður 130.000km \n-Beinskiptur \n-Fjórhjóladrifinn \n-Bensín \n-Nýr rafgeymir\n-Fjarstýrðar samlæsingar \n-Skoðaður athugasemdalaust út mars 2013 \n-Reyklaus \n-Nýir upphalarar í öllum rúðum, nýtt púst, hedd og heddpakkning yfirfarið, nýr vatnslás, nýir bremsudiskar og klossar að framan, nýir bremsuborðar að aftan. \n- Ný tímareim sett í í 129.000km \n-Ný smurður \n-Skipt var um bremsuvökva og kælivökva \n-Ekki til ryð í bílnum \n-Eyðsla um 8-10 í blönduðum akstri \n-Ekkert tjón eða óhapp skráð á bílinn \n-Virkilega skemmtilegur jepplingur sem ég neyðist til að selja vegna skólagöngu. \n-Verð: Tilboð \nFleiri upplýsingar fást í skilaboðum eða í síma 690-7170",
+                "date": "2012-08-29 16:58:00",
+                "post_id": "64499",
+                "reply_to_id": false
+            },
+            {
+                "user_name": "Viditre",
+                "text": "Goðan dag  ertu búin að selja ég er með ein hérna sem er í læi en virgar bara aftur drifið nú vrég að spá að fá mér anan og nota þenna gamal min í Varahluti uppli síngar setis á \nlaplander.russi@gmail.com\n  Kv Jónas",
+                "date": "2013-02-22 12:03:00",
+                "post_id": "89177",
+                "reply_to_id": "64499"
+            }
+        ],
+        "date": "2012-08-29 16:58:00"
+    }
+
+
+### Athugasemdir
+
+Hver þráður hefst á upphafsinnleggi sem hefur `id`. Þar er slóð á þráðinn, hvaða umræðuborði hann tilheyrir og dagsetning tilgreind. Innlegg eru í fylkinu `posts`. Texti innleggs/svars er í `text`.  Hvert innlegg hefur `post_id`eigindi.  `reply_to_id` eigindið vísar til þess innleggs sem svarað er, og með því er því hægt að endurskapa þráðinn í réttri röð.
 
 
 Páll Hilmarsson
