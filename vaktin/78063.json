@@ -1,0 +1,107 @@
+{
+    "forum_title": "Yfirklukkun, hraðaprófanir og mods",
+    "id": "78063",
+    "title": "8700k - Hitastig",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=1&t=78063",
+    "posts": [
+        {
+            "user_name": "Ragealot1",
+            "text": "Búinn að vera fikta við yfirklukka á 8700k hjá mér, þessar niðurstöður eru eftir 3-4klst leikjasession, er þetta ekki fullmikið meðað við að ég overclockaði hann ekkert það mikið, eða alveg eðlilegt fyrir þessa örgjörva? enga reynslu af þeim, ný búinn að fá hann.\nOg eruði þið með einhvejar góðar ábendingar fyrir mig hverju ég ætti að breyta? er alls ekkert að leita eftir einhverju brjáluðu OC.",
+            "date": "2018-12-19 19:16:00",
+            "post_id": "682341",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "addon",
+            "text": "ef þú ert með sæmilega kælingu er þetta kanski í hærri kanntinum... held hann sé samt svoldið heitur til að byrja með\nkíktu á youtube og sláðu inn \"how to overclock 8700k\" og þú færð svona 1000 góð myndbönd sem útskýra þetta mikið betur en í gegnum spjallborð",
+            "date": "2018-12-19 19:26:00",
+            "post_id": "682342",
+            "reply_to_id": "682341"
+        },
+        {
+            "user_name": "Geirisk8",
+            "text": "Ég er að keyra engineer sample af þessum örgjörva sem er 3.2GHz í stað 3.7GHz og ég overclockaði upp í 4.7GHz en ég næ ekki upp í þetta hitastig þó ég sé með tölvuna í heavy vinnslu. Ég fer kannski upp í 80°þegar verst fer og ég er bara með viftukælingu.",
+            "date": "2018-12-19 19:56:00",
+            "post_id": "682344",
+            "reply_to_id": "682342"
+        },
+        {
+            "user_name": "Ragealot1",
+            "text": "Já fannst þetta full mikið, setti allt default um leið og ég sá þetta, vildi bara forvitnast aðeins, finnst þetta mjög hátt með góðri Noctua kælingu.",
+            "date": "2018-12-19 20:04:00",
+            "post_id": "682345",
+            "reply_to_id": "682344"
+        },
+        {
+            "user_name": "addon",
+            "text": "já og eitt... veit ekki hvernig þú ert að overclocka en ég mæli sterklega á móti \"pre settings\" á móðurborðum... þau eru yfirleitt með brjálæðislega hátt voltage m.v. klukku... t.d. vill MB mitt keyra minn 6700k á mikið hærri voltum en þarf ef ég nota eitthvað OC mode og þá er hann 15-25° hærri en með manual overclock'i. ég er meira að segja undir voltunum sem MB setti fyrir örgjörvan stock og er með 0,3 ghz overclock.",
+            "date": "2018-12-19 21:55:00",
+            "post_id": "682350",
+            "reply_to_id": "682345"
+        },
+        {
+            "user_name": "Alfa",
+            "text": "Ef það er að marka þetta screenshot er cpu voltage að fara í 1.38v sem er í hærra lagi, líklega myndirðu ekki þurfa nema um 1.3-1.35v fyrir 4.8ghz á öllum kjörnum.  Þetta orsakar auðvitað auka hita.  90gr í leikjum bara er frekar hátt, ef þú værir að nota einhver alvöru forrit til að prufa hitann færirðu líklega yfir 100gr.\nVið vitum náttúrulega ekkert um kælingu og airflow hjá þér það er nú stór factor",
+            "date": "2018-12-20 10:43:00",
+            "post_id": "682366",
+            "reply_to_id": "682350"
+        },
+        {
+            "user_name": "worghal",
+            "text": "ertu ekki örugglega með rétt magn af kælikremi og situr kælingin örugglega rétt á örgjörfanum?",
+            "date": "2018-12-20 10:52:00",
+            "post_id": "682367",
+            "reply_to_id": "682366"
+        },
+        {
+            "user_name": "Ragealot1",
+            "text": "Kælinginn er Noctua U14S, kælikremið frá Noctua líka og kassinn er Corsair spec omega og jú ætti að vera allt rétt varðandi það, allavegana aldrei verið í neinu veseni með aðrar vélar sem ég hef byggt, enn varðandi cpu voltage þá notaði ég innbyggða asus dótið í bios til að overclocka, og var mér bent á að það gerði óþarflega hátt voltage, þannig ætla reyna kynna mér betur hvernig á að gera þetta allt manual áður enn ég prófa aftur. Ef einhver er með ábendingar þá endilega deila þeim, er að leitast eftir 4.8 á öllum.",
+            "date": "2018-12-20 15:35:00",
+            "post_id": "682384",
+            "reply_to_id": "682367"
+        },
+        {
+            "user_name": "danniornsmarason",
+            "text": "á örugglega eftir að gera allt brjálað hérna en það sem ég gerði er að nota autovoltage dæmið á moðurborðinu til að ná stable 5.0 og fór síðan í að lækka voltin eins og ég gat, endaði með það í 1,3 í stað 1.48 (það var reyndar með 8600k) byrjaði einmitt í 90°c og eftir að ég  breytti því þá varð það 70°c í stresstest",
+            "date": "2018-12-20 16:20:00",
+            "post_id": "682387",
+            "reply_to_id": "682384"
+        },
+        {
+            "user_name": "addon",
+            "text": "það er svo sem ekkert verri aðferðir en aðrar... en þetta sýnir hvað þessar autostillingar eru með alltof hátt voltage\nþetta eru í raun bara 2 stillingar sem þú vilt fikta í ... reyna að fá örgjörvan stable á þeim Ghz sem þú vilt, á sem lægsta voltage. eins og ég segi skoðaðu bara 1 - 2 myndbönd á youtube, það útsýrir þetta mjög vel\nég þurfti btw að hækka aðeins voltage þótt hann var stable í stress test þar sem tölvan chrashaði stundum í PUBG...",
+            "date": "2018-12-20 19:27:00",
+            "post_id": "682395",
+            "reply_to_id": "682387"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "delit og liquid metal eru vinir þinir hérna,",
+            "date": "2018-12-21 00:04:00",
+            "post_id": "682407",
+            "reply_to_id": "682395"
+        },
+        {
+            "user_name": "Hnykill",
+            "text": "Þess vegna fékk ég mér i5 9600K með soldered TIM frekar en i7 8700K sem er með þessa lélegu hitaleiðni :/  ..ekkert hyperthreading á i5 9600k en ég er með hann yfirklukkaðan á 5 Ghz á Noctua NH-U14S kælingu. með alla kjarna undir full load þá er ég að fá 60-62c° max  ..svo munar örfáum FPS á þessum örgjörvum í leikjaspilun.",
+            "date": "2019-01-07 01:24:00",
+            "post_id": "683092",
+            "reply_to_id": "682407"
+        },
+        {
+            "user_name": "Geirisk8",
+            "text": "Ég er búinn að keyra minn 8700k upp í 5.2GHz og ég er bara með loftkælingu, allt stöðugt og fínt.",
+            "date": "2019-01-07 11:03:00",
+            "post_id": "683099",
+            "reply_to_id": "683092"
+        },
+        {
+            "user_name": "Hnykill",
+            "text": "Kassa airflow skiptir öllu máli í þessu líka. viftur blása inn að framan, blása út að aftan og uppi.. það er alveg hellings C° á örgjörva sem minnkar við gott airflow.\nEr með 2x Noctua 140mm að blása inn að framan. 1x 120mm að aftan og eina 140mm uppi. verður að finna jafnvægi á þessu.. hvaðan kemur kalda loftið inn ?? hvar fer það út ?\nég set líka ekki lítinn dropa af hitaleiðandi kremi á miðjuna á örgjörvanum og skelli kælingunni á.. sumir alveg heimta að það sé gert.. er búinn að vera í tölvum í svona 20 ár eða svo að gera þetta.. settu þunnt lag yfir allann heatspreaderinn og smá á kælinguna sjálfa.  þetta er heatspreader sem þú ert að reyna kæla.. doppa í miðjunni er ágætt, en það er enn hiti fyrir utan þar sem er ekkert kælikrem er á ef þú notar doppu aðferðina.. settu þunnt lag yfir allan örgjörvan og skoðaðu hitatölurnar eftir það. bara svona til að prófa.",
+            "date": "2019-01-07 12:44:00",
+            "post_id": "683103",
+            "reply_to_id": "683099"
+        }
+    ],
+    "date": "2018-12-19 19:16:00"
+}

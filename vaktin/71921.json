@@ -1,0 +1,72 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "71921",
+    "title": "Kodi pælingar",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=71921",
+    "posts": [
+        {
+            "user_name": "Geronto",
+            "text": "Sælir vaktarar,\nÉg var að setja upp kodi á fire stick hjá mér, ég er kominn með einhver repos sem ég fann með því að fylgja einhverju videoi á youtube  \n \nAnnars kann ég ekkert á þetta dót, væri fínt að fá einhver tips, langar t.d. að geta horft á þessar opnu íslensku stöðvar eins og Rúv og sjónvarp símans o.s.fv.\nEinhver sem er með pointers?",
+            "date": "2017-01-19 23:01:00",
+            "post_id": "641679",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "hagur",
+            "text": "Það er víst ekki einfalt að fá strauma frá Símanum inn í Kodi, því miður.\nÞað er ekkert mál að fá RÚV rásirnar og stöð2 þegar hún er opin, í raun margar leiðir.\nEin leið er að búa til .strm skrár sem vísa beint á .m3u8 playlistana hjá þeim.  Þessar skrár þurfa svo bara að liggja í einhverju directory sem er mappað sem source í Kodi, svo þú getir browsað inná þær.  Ég setti með í viðhengi .zip skrá (ruv-ruv2-stod2-strms.zip) sem inniheldur svona .strm skrár fyrir Rúv (1080p), Rúv2 (720p) og Stöð 2 (1080p).  Stöð tvö straumurinn virkar auðvitað bara þegar hún er opin, t.d fréttir í gangi.  Unzippaðu þessari skrá inn í folder sem er aðgengilegur úr Kodi.  Svo spilarðu bara .strm skrárnar.\nÖnnur leið er að sækja viðbótina \"Sarpur\" sem er skrifuð af fellow Vaktara (Dagur).  Með henni geturðu horft á efni af ruv.is og líka live tv.\nSvo bjó ég í ganni til 3 plugin fyrir Kodi, sem gera í raun ekkert annað en að launcha þessum straumum beint.  Ástæðan fyrir því að ég ákvað að búa til plugin utanum þetta var svo ég gæti bætt hverri rás inn sem shortcut á heimaskjáinn í Kodi, sjá mynd:\nÉg set þessi plugin með líka sem viðhengi.  Til að installa seturðu þessar .zip skrár bara á stað sem er aðgengilegur úr Kodi hjá þér, ferð svo í System->Addons->Install from .Zip file og browsar á þau og velur.  Svo geturðu farið í System->Settings-Appearance->Skin Settings->Shortcuts og addað þessu inn sem Video menu shortcut (Í default Confluence skinnu a.m.k).",
+            "date": "2017-01-20 08:39:00",
+            "post_id": "641692",
+            "reply_to_id": "641679"
+        },
+        {
+            "user_name": "JReykdal",
+            "text": "Þetta er svalt hjá þér.",
+            "date": "2017-01-23 13:10:00",
+            "post_id": "641918",
+            "reply_to_id": "641692"
+        },
+        {
+            "user_name": "jardel",
+            "text": "Er ekki möguleiki að setja inn sjónvarp símans ínn og n4 líka?",
+            "date": "2017-04-10 21:10:00",
+            "post_id": "647049",
+            "reply_to_id": "641918"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Finndu HLS strauma fyrir það og þá er það ekkert mál.\nSjónvarp Símans býður ekki uppá það en N4 gæti gert það.  Hef ekki kannað það.",
+            "date": "2017-04-10 22:46:00",
+            "post_id": "647058",
+            "reply_to_id": "647049"
+        },
+        {
+            "user_name": "jardel",
+            "text": "Er ekki eina vitið að búa til addon með öllu inn í?",
+            "date": "2017-04-11 15:41:00",
+            "post_id": "647079",
+            "reply_to_id": "647058"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Ég vildi bara fá individual shortcuts í hverja stöð á home-screen-ið.  Þessvegna hafði ég þetta svona.",
+            "date": "2017-04-11 15:52:00",
+            "post_id": "647080",
+            "reply_to_id": "647079"
+        },
+        {
+            "user_name": "krissi200",
+            "text": "Hæhæ,\nGaman væri að fá Sport TV, Hringbraut og N4 inn í Kodi.",
+            "date": "2018-02-27 23:50:00",
+            "post_id": "667805",
+            "reply_to_id": "647080"
+        },
+        {
+            "user_name": "kornelius",
+            "text": "skoða þetta krissi200 - \nviewtopic.php?f=47&t=75216",
+            "date": "2018-03-01 02:16:00",
+            "post_id": "667884",
+            "reply_to_id": "667805"
+        }
+    ],
+    "date": "2017-01-19 23:01:00"
+}

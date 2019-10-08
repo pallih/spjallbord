@@ -1,0 +1,142 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "70754",
+    "title": "Get ekki bootað tölvuna",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=70754",
+    "posts": [
+        {
+            "user_name": "skirnirm",
+            "text": "Þegar ég kveiki á tölvunni slekkur hún á sér eftir 1-5 sekúndur og svo byrjar hún aftur að boota og svo heldur það þannig áfram.. Ég er búinn að prófa hellings, t.d. Taka út cmos batteryið og láta aftur í, fjarlægja ramið og láta það í annað slot og taka úr psu(taka allt ur sambandi og láta svo aftur í samband). Á einum tímapunkti gat hún bootað upp í bios en þegar ég slökkti aftur á henni og ætlaði að installa windows á hana gat hún ekki bootað upp almennilega.",
+            "date": "2016-09-26 18:35:00",
+            "post_id": "632924",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Haflidi85",
+            "text": "Miðað við lesturinn þá sýnist mér þú bara hafa 1 minniskubb, en getur prófað að taka skjákortið úr, þó mér finnist það ólíkleg lausn. Redda sér minni sem þú veist að er í lagi og boota með því.",
+            "date": "2016-09-26 19:01:00",
+            "post_id": "632927",
+            "reply_to_id": "632924"
+        },
+        {
+            "user_name": "HulKSmasH",
+            "text": "Ég er að lenda í sama, ég var með overclockaðan fx örgjörva og það var eins og það hefði komið eh uppfærsla á biosinn. Allavega kom þessi skemmtilegi valmöguleiki að haka í : \"Unlock CPU core\" allt í einu í biosinn ( að ég held ) og auðvitað varð ég að prófa og enable-aði það. Eftir það hef ég ekki komist í bios, en vélin byrjar að boota sér og allt virðist runna en gerist 0, svo drepur hún á sér eftir kannski 40 sek....Fatta ekki alveg commentið hjá þér Haflidi ( sennilega fávisku minni um að kenna ). En hvað finnst ykkur líklegt að hafi gerst ? Hvernig get ég komist inní biosinn núna eða \"flassað\" hann eða sett í upprunalegar stillingar ?",
+            "date": "2016-09-27 14:56:00",
+            "post_id": "633001",
+            "reply_to_id": "632927"
+        },
+        {
+            "user_name": "skirnirm",
+            "text": "Stundum kemst ég í gegnum bios til að installa windows en í miðju installi deyr tölvan bara og reynir aftur að boota upp. Gæti trúað því að þetta sé ramið en ég er ekki viss.",
+            "date": "2016-09-27 18:45:00",
+            "post_id": "633020",
+            "reply_to_id": "633001"
+        },
+        {
+            "user_name": "HulKSmasH",
+            "text": "Já nkl. Og ertu með 1 kubb eða fleiri ? Eða hefur það kannski ekkert að segja ? Afsakið spurningaflóðið ...",
+            "date": "2016-09-28 02:05:00",
+            "post_id": "633036",
+            "reply_to_id": "633020"
+        },
+        {
+            "user_name": "Moldvarpan",
+            "text": "Ég myndi halda að þetta væri aflgjafinn að klikka, á þessum takmörkuðu upplýsingum. Hvaða tegund er hann?",
+            "date": "2016-09-28 06:52:00",
+            "post_id": "633038",
+            "reply_to_id": "633036"
+        },
+        {
+            "user_name": "HulKSmasH",
+            "text": "Nákvæmlega reyndar það sem mér datt í hug...en aflgjafinn er að mig minnir 700W Raidmax ef mig minnir rétt, ætla að athuga það betur á eftir. Á eftir að prófa að aftengja skjákortið, en nú er ég með disable-að skjástýringuna á móbóinu í bios og ég kemst ekki inní bios, þannig að ég væntanlega sé þá ekkert þó ég aftengi skjákortið ef þetta er power supply issue. En aldrei verið nein vandamál með hana fyrr. Getur verið að þetta unlock cpu core hafi valdið svona mikilli aukningu í orkunotkun á örranum...er að reyna að átta mig á þessu. En ég ætla að ath þegar ég kem heim nkl hvaða týpa af aflgjafa þetta er. Takk fyrir innleggið.",
+            "date": "2016-09-28 10:17:00",
+            "post_id": "633048",
+            "reply_to_id": "633038"
+        },
+        {
+            "user_name": "HulKSmasH",
+            "text": "Tek það fram að ég hef aldrei fiktað neitt í voltage stillingum í BIOS fyrir örrann, kannski er örrinn bara sveltur...æj ég skoða þetta...",
+            "date": "2016-09-28 10:22:00",
+            "post_id": "633049",
+            "reply_to_id": "633048"
+        },
+        {
+            "user_name": "HulKSmasH",
+            "text": "RAIDMAX Blackstone series RX-700AC 700W Continuous Power ATX12V V2.3 / EPS12V V2. Þetta er aflgjafinn, er með 1 gtx 780 og fx 4100 quad core. Þetta PSU ætti að ráða við þetta easy right...en spurning hvort ég hafi með þessari nauðgun á örranum eitthvað valdið aukinni orkunotkun ? En komu engin vandamál upp fyrren ég ss haka í þetta \"nýja command\" í biosnum, það er \"Unlock CPU core\" og eftir það fór allt í steik",
+            "date": "2016-09-28 10:29:00",
+            "post_id": "633050",
+            "reply_to_id": "633049"
+        },
+        {
+            "user_name": "Moldvarpan",
+            "text": "Það fylgdi ekki upphafsinnlegginu að þú hafir verið að fikta í BIOS og þetta gerst í kjölfarið á því.\nMér sýnist þú ekki hafa þekkinguna í að gera þetta sjálfur, ég myndi fara með hana á verkstæði.\nEf þú ætlar að biðja um hjálp, þá þarftu að lámarki að gefa betri og réttari upplýsingar.",
+            "date": "2016-09-28 10:40:00",
+            "post_id": "633051",
+            "reply_to_id": "633050"
+        },
+        {
+            "user_name": "HulKSmasH",
+            "text": "Ég var að svara þræði frá öðrum notanda þar sem ég er að lenda í svipuðu vandamáli, þessar upplýsingar koma fram hér að ofan í innleggi frá mér, sbr. : \n\"Ég er að lenda í sama, ég var með overclockaðan fx örgjörva og það var eins og það hefði komið eh uppfærsla á biosinn. Allavega kom þessi skemmtilegi valmöguleiki að haka í : \"Unlock CPU core\" allt í einu í biosinn ( að ég held ) og auðvitað varð ég að prófa og enable-aði það. Eftir það hef ég ekki komist í bios, en vélin byrjar að boota sér og allt virðist runna en gerist 0, svo drepur hún á sér eftir kannski 40 sek....Fatta ekki alveg commentið hjá þér Haflidi ( sennilega fávisku minni um að kenna ). En hvað finnst ykkur líklegt að hafi gerst ? Hvernig get ég komist inní biosinn núna eða \"flassað\" hann eða sett í upprunalegar stillingar.\"\nSvo það er einfaldlega rangt hjá þér að það hafi ekki komið fram hjá mér. En annars þarftu ekki að missa svefn yfir þessu vandamáli mínu því ég mun ekki posta neinu meira á þessari spjallsíðu. Ætla rétt að vona að þú sért ekki einn af þeim sem ert eitthvað tengdur rekstri þessarar síðu. Allavega þá eru svörin þín mjög fráhrindandi fyrir nýja aðila sem hafa áhuga fyrir að vera virkir hérna inni, fyrir utan þá augljósu staðreynd að þú varst greinilega ekki búinn að lesa athugasemd mína. Eða hreinlega ruglaðir því saman við upprunalega innleggið sem var ekki frá mér....\nAnnars fyrir þá sem hafa actually áhuga eða eru að lenda í vandræðum, þá prófaði ég að aftengja skjákortið og tengja bara við móbóið ( og EINS OG FRAM KEMUR HÉR AÐ OFAN, þá er ég með innbyggða skjákortið disable-að í BIOS. En niðurstaðan var sú að vélin fann enga tengingu við skjástýringu og ekkert kemur á skjáinn ( sem er kannski eðlilegt ef stillingarnar eru ekki komnar á default í BIOSNUM ).\nAnnað sem ég prófaði var að aftengja batteríið á móðurborðinu til að reyna að \"tæma\" allt rafmagn úr vélinni og fá þá kannski default bios stillingar, En það virkaði ekki. Og nei, ég veit ekki allt og langt í frá. En ég hélt þetta væri einmitt staður til að geta lært eitthvað frá öðrum, en ekki fá drullu og skítkast frá aðila sem hefur ekki fyrir því að lesa athugasemdir. Svo er það lágmark, ekki lámark.",
+            "date": "2016-09-28 11:46:00",
+            "post_id": "633058",
+            "reply_to_id": "633051"
+        },
+        {
+            "user_name": "Moldvarpan",
+            "text": "Rétt er það, þreytan hefur eh gert vart við sig í dag. \nEn afhverju gerir þú ekki þráð um þitt vandamál, staðin fyrir að gott sem eyðileggja þennan hjálpar þráð hjá þessum notenda?\nÉg get ekki borið ábyrgð á þínum tilfinningum. Ég var ekki með neitt drull eða skítkast.",
+            "date": "2016-09-28 19:23:00",
+            "post_id": "633092",
+            "reply_to_id": "633058"
+        },
+        {
+            "user_name": "kizi86",
+            "text": "þú treður þér inn í þráð frá öðrum, svarar póstum sem klárlega er beint til upphafsinnleggs, svo það er ekki furða að fólk ruglist.\nsvo kemur þú með ragequit (sbr ætlar að hætta að pósta á þessu spjalli hérna becuz ur feelingz got hurt) (og já ég stafsetti hlutina svona viljandi) og segir svo svör annara vera fráhrindandi! mæli með að þú búir til nýjan þráð um þín vandamál, en ekki taka yfir þráð frá öðrum einstakling sem óskaði hjálpar, því þetta sem þú gerðir er argasti dónaskapur...",
+            "date": "2016-09-28 19:32:00",
+            "post_id": "633095",
+            "reply_to_id": "633092"
+        },
+        {
+            "user_name": "HulKSmasH",
+            "text": "Það er reyndar alveg rétt hjá þér, biðst afsökunar á þessu.:/",
+            "date": "2016-09-29 00:31:00",
+            "post_id": "633112",
+            "reply_to_id": "633095"
+        },
+        {
+            "user_name": "HulKSmasH",
+            "text": "Afsakið þetta strákar, ég hef verið eh rosalega illa upplagður og að einhverju leyti einhver misskilningur í gangi held ég...ég ætla að hætta að spamma þennan þráð og tek þetta til greina. Bæði hvað Moldvörpu og Kizi86 varðar. En varðandi upprunalega þráðinn, þá er ég nokkuð viss um að hafa lent í svipuðu áður, bæði þannig að vélin bootar sér upp aftur og aftur, eða hreinlega slekkur á sér eins og hún gerir í mínu tilviki. Held að það gæti átt við um okkur báða. Aflgjafinn klikkaði að ég held alveg 100% hjá mér á sínum tíma þegar vélin rebootaði sér svona aftur og aftur. Var hreinlega búinn að gleyma þessu. En já myndi prófa PSU-ið þitt. Ætla að gera slíkt hið sama hérna megin.",
+            "date": "2016-09-29 00:38:00",
+            "post_id": "633113",
+            "reply_to_id": "633112"
+        },
+        {
+            "user_name": "playman",
+            "text": "Bara ef að þú vissir það ekki, en þá þarftu að taka vélina úr sambandi við rafmagn, taka batterýið úr, halda powertakkanum inni í 30 sec og leifa \nhenni að standa í 10-15 mín svo setja batteríið í aftur og setja í samband, við þetta á allur straumur sem heldur inni BIOS stillingum að hverfa.\nEf ekkert breytist þá þarftu að switcha yfir á secondary BIOS sé hann í boði (ætti að vera lítill smellu takki á móðurborðinu)\nEf að það er ekki secondary BIOS þá gæti móðurborðið þitt verið \"bricked\" og þarf þá að skipta um hann á móðurborðinu sjálfu og\nekki víst að það borgi sig nema þá á high end borðum.",
+            "date": "2016-09-29 10:23:00",
+            "post_id": "633124",
+            "reply_to_id": "633113"
+        },
+        {
+            "user_name": "HulKSmasH",
+            "text": "Það vissi ég ekki, takk æðislega fyrir þetta.",
+            "date": "2016-09-29 12:48:00",
+            "post_id": "633133",
+            "reply_to_id": "633124"
+        },
+        {
+            "user_name": "HulKSmasH",
+            "text": "Það vissi ég ekki, takk æðislega fyrir þetta.",
+            "date": "2016-09-29 12:48:00",
+            "post_id": "633134",
+            "reply_to_id": "633133"
+        },
+        {
+            "user_name": "HulKSmasH",
+            "text": "Þettta virkaði, takk æsðilega !!!!!",
+            "date": "2016-09-29 12:56:00",
+            "post_id": "633135",
+            "reply_to_id": "633134"
+        }
+    ],
+    "date": "2016-09-26 18:35:00"
+}

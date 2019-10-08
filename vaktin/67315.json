@@ -1,0 +1,23 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "67315",
+    "title": "FreeNas",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=67315",
+    "posts": [
+        {
+            "user_name": "krissi24",
+            "text": "Hvernig virkar þetta FreeNas? Ég er með turn sem ég hef notað sem fileserver og hann hefur keyrt Win7 pro. Ef ég myndi setja FreeNas uppá honum myndi ég þá þurfa að formata alla aðra diska líka? Semsagt sem ég nota fyrir stafræn gögn. Svo var annað, Er hægt að nota FreeNas með Windows server 2008? Active directory.",
+            "date": "2015-10-24 19:25:00",
+            "post_id": "609313",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "nidur",
+            "text": "Þarf að formatta alla diska já.\nHérna er svo svar við active directory\nhttps://forums.freenas.org/index.php?th ... ons.20610/\nOg smá info um vélina myndi hjálpa en hérna er recommended hardware þráður\nhttps://forums.freenas.org/index.php?th ... rst.23069/",
+            "date": "2015-10-25 00:03:00",
+            "post_id": "609328",
+            "reply_to_id": "609313"
+        }
+    ],
+    "date": "2015-10-24 19:25:00"
+}

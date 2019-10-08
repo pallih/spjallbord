@@ -1,0 +1,51 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "63377",
+    "title": "Ljósnet, pfsense og sjónvarp Símans",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=63377",
+    "posts": [
+        {
+            "user_name": "Kristján Gerhard",
+            "text": "Jæja,  Var því miður að skipta úr ljósleiðara yfir í ljósnet. Var með pfsense router með ljósleiðaranum og hef fullan hug á því að nota hann áfram. Er einhver sem hefur notað VDSL routerinn sinn sem modem, brúað tenginguna yfir á annan router og látið hann sjá um PPPoE auðkenningu og IPTV strauminn?",
+            "date": "2014-11-25 16:43:00",
+            "post_id": "581226",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Afhverju brúarðu ekki bara pFsense fyrir IPTV?",
+            "date": "2014-11-25 16:59:00",
+            "post_id": "581228",
+            "reply_to_id": "581226"
+        },
+        {
+            "user_name": "Kristján Gerhard",
+            "text": "Það er það sem ég ætla að gera. Brúa net og iptv yfir á pfsense boxið og deila svo út. Var ég ekki nógu skýr?\nHefur þú gert svona?",
+            "date": "2014-11-25 18:02:00",
+            "post_id": "581234",
+            "reply_to_id": "581228"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Ég er að tala um að sleppa VDSL router  \nEf þú sendir póst á fjarskiptafyrirtækið eru þeir eflaust tilbúnir að láta þig fá þær upplýsingar sem þú þarft - þó ekki skref fyrir skref leiðbeiningar.\nhttp://www.geekzone.co.nz/forums.asp?fo ... cid=151247\nhttps://www.google.is/webhp?sourceid=ch ... sense+iptv",
+            "date": "2014-11-25 18:32:00",
+            "post_id": "581237",
+            "reply_to_id": "581234"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Þetta er hægt - en þetta er \"vesen\". Ég set vesen í gæsalappir afþví að það er auðvitað mismikið vesen eftir kunnáttu. Að sleppa því að nota VDSL router er ekki e-ð sem ég myndi mæla með þar sem ISPar eru með ákveðin skilyrði og staðla sem endabúnaður þarf að styðja. Þú getur ekki bara hent hvaða VDSL2+ módemi í vél og ætlast til þess að fá þær upplýsingar sem þú þarft, eða fá sjálfkrafa leyfi til að tengjast ISPanum með þeim búnaði. Þegar kemur að IPTV er farið ennþá frekar eftir þessum kröfum.\nÉg hef allnokkrum sinnum aðstoðað við að koma þessum upplýsingum áfram í gegnum tíðina, í öllum tilfellum held ég að málið hafi endað með því að VDSL router var notaður og brúaður þaðan yfir á e-rn 3rd party router, en IPTVið alltaf í gegnum VDSL routerinn frá ISPanum.\nAth. að ef fjarskiptafyrirtækið neitar að afhenda þessar upplýsingar þá eru PFS búnir að úrskurða að ISPum ber að útvega þessar upplýsingar, bæði hvað net og IPTV varðar, en hafa þó höfnunarrétt á tengingar á búnað sem uppfyllir ekki ákveðin skilyrði.",
+            "date": "2014-11-25 20:33:00",
+            "post_id": "581250",
+            "reply_to_id": "581237"
+        },
+        {
+            "user_name": "gardar",
+            "text": "VDSL2 kort eru vandfundin svo að ég tel líklegt að þú munir enda á að þurfa að brúa frá módemi (router).\nGræðir jafnframt lítið á því að vera með IPTV í pfsense, ég myndi bara brúa nettenginguna og taka TV beint úr routernum.",
+            "date": "2014-11-25 22:41:00",
+            "post_id": "581265",
+            "reply_to_id": "581250"
+        }
+    ],
+    "date": "2014-11-25 16:43:00"
+}

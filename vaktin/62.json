@@ -1,0 +1,107 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "62",
+    "title": "Hvaða CPU fídus er mikilvægastur?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=62",
+    "posts": [
+        {
+            "user_name": "Jakob",
+            "text": "Hvaða CPU fídus er mikilvægastur?",
+            "date": "1970-01-01 00:00:00",
+            "post_id": "249",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Atlinn",
+            "text": "þetta fer svo allveg eftir því í hvað á að nota tölvuna, verður þetta bara svona tölva sem verða spilaðir leikir þá er gott að vera með mikin hraða og að hann hitni ekki mikið, líka upp á framtíðina er gott að það sé hægt að overclocka hann.\n\nEf þessi tölva á að verða server tölva er hitavörn og stöðuleiki málið.\n\nSvo er málið með verð það er AMD XP verð og Intel Pentium verð, en er þetta ekki að verða mjög svipað, ég las um daginn að intel hefðu verið að lækka veriðið á öllum örgjörvum undir 2.8 ghz (meira að segja hér minnir mig).\n\nþetta er svo misjafnt, en ég geri ráð fyrir að þú sért að leita að örgjörva í leikjatölvu, og ég ætla að svara eftir því...\n\nLáttu vita ef staðreyndin er önnur.",
+            "date": "1970-01-01 00:00:00",
+            "post_id": "251",
+            "reply_to_id": "249"
+        },
+        {
+            "user_name": "galldur",
+            "text": "MMX",
+            "date": "1970-01-01 00:00:00",
+            "post_id": "252",
+            "reply_to_id": "251"
+        },
+        {
+            "user_name": "Buddy",
+            "text": "Ég verð að segja verð/yfirklukkunar möguleikar, ''bang per buck''.\n\n\n\nStöðugleiki er ekki fólginn í örgjörfum. Athlon, P4 og P3 örgjörfar eru tiltölulega stöðugir og þeir fáu gallar sem hafa komið fram eru yfirleitt lagaðir í microkóða í stýrikerfum og forritum (sjá t.d P3 og excel villur). Stöðuleiki er fólginn í kubbasettum móðurborðana sem örgjörfarnir eru settir á ásamt útfærslum mismunandi móðurborðs framleiðenda. \n\n\n\nHitavörnin er dæmi um þetta. Hún er t.d ekki innbyggð í Athlon örgjörfana (nema að litlu leyti) heldur treysta þeir á móðurborðs framleiðendurna að koma henni á. Öll server Athlon móðurborð hafa hitavörn á sem ver örgjörfann fyrir skemmdum og flest nýleg ''consumer'' móðurborð.",
+            "date": "1970-01-01 00:00:00",
+            "post_id": "256",
+            "reply_to_id": "252"
+        },
+        {
+            "user_name": "Atlinn",
+            "text": "Reyndar þegar AMD gaf út XP örgjöafan/örgafan (man aldrei hvort það er) þá sögðu þeir að þeir hefðu laga hitavandamálin sem er reyndar satt, ég hef ekki heyrt um neinn örgjörva sem hitnar eins mikið og AMD Athlon t-Bird 1400mhz. XP örrarnir eru ekki að hitna mikið meira en pentium 4",
+            "date": "1970-01-01 00:00:00",
+            "post_id": "259",
+            "reply_to_id": "256"
+        },
+        {
+            "user_name": "Asgeir",
+            "text": "Held að hraði og overclocking er mikilvægast þegar kemur að leikjum, annars fer þetta nátturulega mikið eftir því i hvað verið er að nota vélina.",
+            "date": "1970-01-01 00:00:00",
+            "post_id": "263",
+            "reply_to_id": "259"
+        },
+        {
+            "user_name": "Atlinn",
+            "text": "svo líka þá eru eigninlega bara tvær tegundir sem koma til grina á íslandi í dag (að mínu mati, og fyrir heima tölvur) það eru \n\nAmd Athlon XP (ódýrari, hraðari, heitari) \n\nIntel Pentiun 4 (dýrari, stabýlli, hitnar ekki eins mikið)\n\nleiðréttið mig ef ég fer með rankt mál...",
+            "date": "1970-01-01 00:00:00",
+            "post_id": "272",
+            "reply_to_id": "263"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "það eru nú bara 3 tegundir sem að koma til greina í heiminum (HELD ég)  \n\n\nAMD, Intel og Via\n\nþað er soldið villandi þar sem að þú segir að AMD sé hraðari. AMD Athlon XP 2Ghz er hraðari en Intel P4 2Ghz. sumir hefðu kannski skilið þetta þannig að AMD sé alltaf hraðari en Intel en það eru nú kannski ekki svo miklir nýliði'ar hérna  8)\n\nannars held ég að þetta sé allt rétt hjá þér, hef nú samt aldrei talið AMD óstabílan.............",
+            "date": "1970-01-01 00:00:00",
+            "post_id": "275",
+            "reply_to_id": "272"
+        },
+        {
+            "user_name": "Atlinn",
+            "text": "daddara smá mistök afsakið",
+            "date": "1970-01-01 00:00:00",
+            "post_id": "276",
+            "reply_to_id": "275"
+        },
+        {
+            "user_name": "Atlinn",
+            "text": "[quote=\"MezzUp\":1m83e8rg]það eru nú bara 3 tegundir sem að koma til greina í heiminum (HELD ég)  \n \nAMD, Intel og Via\nþað er soldið villandi þar sem að þú segir að AMD sé hraðari. AMD Athlon XP 2Ghz er hraðari en Intel P4 2Ghz. sumir hefðu kannski skilið þetta þannig að AMD sé alltaf hraðari en Intel en það eru nú kannski ekki svo miklir nýliði'ar hérna  8)\nannars held ég að þetta sé allt rétt hjá þér, hef nú samt aldrei talið AMD óstabílan.............[/quote:1m83e8rg]\n\n\n\n...Jæja samhvæmt tomshardware eru bara til 3 gerðir, en hraðasti VIA örrinn þar er bara 1,0 ghz...\n\n\n\nÞað er AMD athlon 2000XP+ (ekkert mhz þarna en hann er held ég 1.67ghz... 2200XP+ er 1.8ghz)\n\nSvo er það Intel pentium 1800mhz\n\n[url=http://www12.tomshardware.com/Tdb/cpu_show_us.html?TdbSess=7ab97e756fa189ffb8fe53f5a47a2907&country=1&x%5B%5D=285&x%5B%5D=205&show_long=Compare:1m83e8rg]Samanburður[/url:1m83e8rg]\n\nþarna sér maður að AMD-inn er með minni \"system bus\" en aftur á móti er hann með 16x meira \"L2 Cache\" sem skiptir máli. \n\nÞar segir líka að AMD-inn sé dýrari en það er eftir að Intel lækkuðu alla örgöfa undir 2,8ghz um næstum helming um daginn, þessi lækkun er ekki komin til íslands og verður örugglega smá tíma á leiðinni.\n\n\n\nÉg sagði ekki að AMD væri óstabíll, ég sagði að Intell væri stabílli en AMD",
+            "date": "1970-01-01 00:00:00",
+            "post_id": "277",
+            "reply_to_id": "276"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Ég er með tvær tölvur sem ég setti saman sjálfur, önnur er Intel P4 1.7Ghz með 512mb RAMBUS hin er AMD XP 2000+ með 512ddr333.\n\n\n\nBáðar tölvurnar eru stöðugar og góðar, hvorug hefur frosið eða krassað.\n\nAMD tölvan kostaði mig töluvert minna en Intel og þrátt fyrir það er hún að benchmarkast mun öflugri en Intel þrátt fyrir að klukkuhraðinn sé svipaður.\n\n\n\nEf ég væri að fara að setja saman nýtt system núna þá satt best að segja veit ég ekki hvort ég tæki AMD eða Intel. \n\nÞetta virkar allt mjög vel, ég myndi hugsanlega leita mér að góðu móbói og láta það síðan ráða ferðinni.\n\n\n\nAnnars verður tölva nr.3 á mínu heimili Laptop og þá kemur ekkert annað en Intel til greina.",
+            "date": "1970-01-01 00:00:00",
+            "post_id": "280",
+            "reply_to_id": "277"
+        },
+        {
+            "user_name": "kemiztry",
+            "text": "AMD 2000XP á að jafnast á við P4 2000MHz þó svo að AMDinn sé gefinn upp með færri Megahertz þá eru þau víst \"öflugari\"  \n En ég veit ekki ég hugsa að ég haldi mig við Intel enda hafa örgjörvarnir frá þeim lækkað alveg talsvert.  Hitaruglið hjá AMD er ennþá að halda mér frá þeim",
+            "date": "1970-01-01 00:00:00",
+            "post_id": "284",
+            "reply_to_id": "280"
+        },
+        {
+            "user_name": "Hades",
+            "text": "þetta með hraða mismuninn á Amd eða Intel,þá er það spurning um hvað þú ert að gera .....\n\n\n\nef þú ert að fara spila leiki eða gera grafik þá er það amd sem er málið\n\nen ef þú ætlar að gera eitthvað annað , þá er það Intel.\n\nOk ég veit að ég er að taka í svoldið stóra flokka og eflaust eru amd örrarnir betri í eitthverju fleirru en þetta er svona í stórum dráttum.\n\n\n\nFyrir mig er stöðugleikin allt og er ég því með Intel í minni vél.Ég var með Amd í vélinni minni fyrir nokkru en skipti því að mér fannst Amd ekki vera standa sig nógu vel(ég er svoldið í hlóðvinnslu)\n\nannars myndi ég fá mér Amd ef ég ætlaði að fá mér Leikjavél",
+            "date": "1970-01-01 00:00:00",
+            "post_id": "294",
+            "reply_to_id": "284"
+        },
+        {
+            "user_name": "Atlinn",
+            "text": "það eru til fleiri tegundir af örgjöfum en AMD, Intel og VIA...\n\nhttp://www.ejs.is/bunadur/vorulysing.asp?pid=345\n\n\nSun Ultra spark.. ég var að frétta að Háskóli Íslands var að kaupa sun tölvu með fjórum 750mhz örgjörvum og 8 gig í minni minnir mig\n\nþetta eru einhverjur öfur örgjöfar \n\n\n\n\n64GB innraminni!!!!!!!\nþessi er flott",
+            "date": "2002-10-07 13:00:00",
+            "post_id": "359",
+            "reply_to_id": "294"
+        }
+    ],
+    "date": "1970-01-01 00:00:00"
+}

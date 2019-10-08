@@ -1,0 +1,51 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "60542",
+    "title": "Ráðleggingar um góða routera.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=60542",
+    "posts": [
+        {
+            "user_name": "Kruder",
+            "text": "Ég er með ljósleiðara tengingu og router frá símafélaginu, alltaf þegar einhver er að torrenta þá er eins og routerinn höndli það ekki og allir aðrir sem eru tengdir við hann lagga.\nMig vantar router sem getur eftirfarandi vel:\nGóð drægni. \nÞarf að höndla að það sé verið að torrenta og aðrar tengingar verði ekki mjög hægvirkar.\nKosti undir 20.000\nMeð fyrirfram þökk.",
+            "date": "2014-04-14 23:38:00",
+            "post_id": "559291",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "hagur",
+            "text": "Hef heyrt fína hluti um TP-Link routera.  Hér er einn með ljómandi spekka: \nhttp://www.start.is/index.php?route=pro ... uct_id=493\nSvo hef ég sjálfur persónulega reynslu af Cisco E4200, hann er frábær en líklega yfir budgetti.  Spurning um að reyna að finna \"litla bróðir\" hans, E3200 eða álíka.  Hann er líklega á þínu verðbili.",
+            "date": "2014-04-15 00:26:00",
+            "post_id": "559295",
+            "reply_to_id": "559291"
+        },
+        {
+            "user_name": "robakri",
+            "text": "Þeir félagar mínir sem vinna í vodafone og símanum tala alltaf um apple airport extreme sem þvílíkt undratæki sem ljósleiðara router. Hinsvegar segja þeir allir það sama þegar það kemur að torrent, torrent fokkar routerum, það hefur ekkert að gera með hversu góður routerinn er, það hefur bara einfaldlega með hvernig allir routerar höndla tengingar.",
+            "date": "2014-04-15 11:10:00",
+            "post_id": "559314",
+            "reply_to_id": "559295"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Torrent forrit eru bara fáránlega upp sett þegar þú setur þau upp.\nÉg byrja alltaf á því að breyta stillingum í uTorrent, það ræður enginn venjulegur router við þessa fáránlegu uppsetningar.\nuTorrent er default stillt á 200 tengingar í einu, eða 50 tenginar per torrent.\nByrjaðu á því að fækka þessu í global maximum 20 og max peers per torrent 20, og athugaðu hvort það gangi ekki betur. Getur svo hækkað þetta smátt og smátt, ef þú vilt taka sénsinn.\nMaximum download rate á svo ekki að vera í 0, heldur í mesta lagi 70-80% af hæsta mögulega hraða. Ef þú ert með 100Mb ljós og er t.d. að ná 50Mb hraða í speedtest, stilltu max download rate t.d. í 3840 kB/s, sem er 30Mb.\nGoogle reiknar þetta fyrir þig: \nhttps://www.google.is/search?q=50+megabits+to+kilobytes",
+            "date": "2014-04-15 11:16:00",
+            "post_id": "559315",
+            "reply_to_id": "559314"
+        },
+        {
+            "user_name": "Opes",
+            "text": "Ég keypti mér Netgear R7000 \"Nighthawk\". Svakaleg græja! Annars er Airport Extreme líka mjög góður í ljósleiðarann. Ég myndi bara passa að kaupa dual-band græjuna, semsagt A1301 eða nýrra.",
+            "date": "2014-04-15 12:32:00",
+            "post_id": "559320",
+            "reply_to_id": "559315"
+        },
+        {
+            "user_name": "Kruder",
+            "text": "Þakka ykkur kærlega fyrir ráðleggingarnar.",
+            "date": "2014-04-21 00:05:00",
+            "post_id": "559834",
+            "reply_to_id": "559320"
+        }
+    ],
+    "date": "2014-04-14 23:38:00"
+}

@@ -1,0 +1,128 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "61091",
+    "title": "Er þetta eðlileg ljós tenging?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=61091",
+    "posts": [
+        {
+            "user_name": "playman",
+            "text": "Vorum að flytja vinnustaðinn, og það var búið að tengja ljósleiðara inní húsið, (EJS var með hérna server farm)\nÞannig að við ákváðum að nýta okkur ljósið, núna var ég að prufa tenginuna, er einn í húsinu þannig að ekkert DL á að vera í gangi.\nEigum að vera með 50Mb ljós, ætti það ekki að vera þá 50Mb í báðar áttir?\nErum á fyrirtækjaneti, en ætti það að breyta miklu?\nEr nú ekki alveg viss hjá hvaða þjónustu aðila við erum hjá  \n \nerum örugglega hjá stefnu frekar en samvirkni eða tengir eða símanum eða.....\nAllaveganna, er þetta eðlilegt eða ætti ég að hafa samband við þjónustu aðilan?",
+            "date": "2014-05-30 17:10:00",
+            "post_id": "563344",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "ISP: Siminn\nMyndi endurræsa tækin, ljós og router, prufa fleiri tölvur, prufa að beintengja. Ef ekkert skánar myndi ég hringja í Símann.",
+            "date": "2014-05-30 17:13:00",
+            "post_id": "563345",
+            "reply_to_id": "563344"
+        },
+        {
+            "user_name": "Plushy",
+            "text": "Lítur út fyrir að þú sért hjá Símanum. En nei, þetta er ekki eðlilegur hraði. Kemur líka bara 10 Mb/s til Reykjavíkur/Keflavíkur?\nGeri líka ráð fyrir að þú sért tengdur með snúru, ekki þráðlaust, og helst beint í Ljósleiðaraboxið. Ef þetta er fyrirtækjaljósleiðari þá er eflaust ekkert ljósleiðarabox á staðnum samt.",
+            "date": "2014-05-30 17:14:00",
+            "post_id": "563346",
+            "reply_to_id": "563345"
+        },
+        {
+            "user_name": "depill",
+            "text": "Ætli þú sért ekki hjá Samvirkni ( þótt það komi ISP Síminn þarna ) og þú ert væntanlega á Akureyri á dark-fiber neti Tengi.\nHafðu bara samband við Samvirkni ef þú ert að prófa þetta á kapli þar sem þetta er augljóslega ekki eðlilegt.",
+            "date": "2014-05-30 17:46:00",
+            "post_id": "563353",
+            "reply_to_id": "563346"
+        },
+        {
+            "user_name": "playman",
+            "text": "Já ég var soldið hissa á því að sjá símann sem ISP, þarf að skoða það eitthvað betur, er samt þó nokkuð viss um að við séum ekki sjá símanum.\nÉg prófaði þetta á snúru tengdri tölvu.\nÞeir voru bara að setja þetta allt upp í morgun, þannig að ég sá ekki ástæðu til þess að slökkva og kveikja á drasslinu.\nMér best vitandi þá erum við bara beintengd í ljósið, þannig að það ætti ekki að vera router, allaveganna sá hann ekki,\nþað er einn annar síma kassi sem ég kemst ekki í fyrr en eftir helgi.\nEr bara með eina vél hérna sem ég kemst í, get komist í aðrar eftir helgi.\nHérna valdi ég Reykjavík\nTorshavn\nCopenhagen\nSökkar hraðin svona virkilega eftir að maður er komin út fyrir landsteinana?\nTók mynd af tækinu, að mér síndist þá tengist ljósið beint inní þetta tæki og svo úr því í switch.",
+            "date": "2014-05-30 17:53:00",
+            "post_id": "563356",
+            "reply_to_id": "563353"
+        },
+        {
+            "user_name": "playman",
+            "text": "Já hugsanlega erum við hjá Samvirkni, prufa að heyra í þeim eftir helgi.\nHvað er Dark-fiber? einhver munur á því og ljósleiðara?",
+            "date": "2014-05-30 17:56:00",
+            "post_id": "563357",
+            "reply_to_id": "563356"
+        },
+        {
+            "user_name": "depill",
+            "text": "Nú er ég bara að tala um sambærileg dæmi á Akureyri og ekki endilega ykkar dæmi. En Tengir á mjög mikinn part af ljósleiðaranum á Akureyri og þegar fyrirtæki kaupa ólýstan ljósleiðara, kallast það dark-fiber. Þannig að ég er eingöngu að giska vegna þess að þú nefndir Samvirkni ( sem ég veit að þjónustar þó nokkur fyrirtæki þarna ) að þeir séu að leigja ljósleiðara af Tengir milli sín og ykkar og svo kaupir Samvirkni stórt samband frá Símanum til að taka alla kúnnana sína frá Akureyri.\nDark-fiber er ljósleiðari",
+            "date": "2014-05-30 18:02:00",
+            "post_id": "563358",
+            "reply_to_id": "563357"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Það er samt það fyrsta sem þeir munu biðja þig að prófa ef þú hefur samband við þá.\nÞað sem hann á við með dark-fibre er held ég að þú ert að nota ljósleiðaraaðgang sem Samvirkni leigir af Tengi sem á sjálfan ljósleiðarakapalinn og innviðin þar á bakvið.",
+            "date": "2014-05-30 18:06:00",
+            "post_id": "563360",
+            "reply_to_id": "563358"
+        },
+        {
+            "user_name": "playman",
+            "text": "Takk fyrir það depill.\nOg ég hugsa að giskið þitt sé nokkuð rétt",
+            "date": "2014-05-30 18:09:00",
+            "post_id": "563361",
+            "reply_to_id": "563360"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Djöfull er þetta illa sett upp  \nEr þetta 10m kapall sem fer 20 cm leið?",
+            "date": "2014-05-30 18:13:00",
+            "post_id": "563362",
+            "reply_to_id": "563361"
+        },
+        {
+            "user_name": "playman",
+            "text": "Er búin að taka úr sambandi og setja aftur í samband, sé eingan mun  \n \nNema að pingið er betra.\nÆtli þetta sé ekki 3m kapall, en já það er ekkert rosa spennandi að horfa inní skápinn.",
+            "date": "2014-05-30 18:19:00",
+            "post_id": "563364",
+            "reply_to_id": "563362"
+        },
+        {
+            "user_name": "conzole",
+            "text": "Dark Fiber er Fiber tenging sem tengist ekki í símstöð. T.d. ef þú myndir sjálfur leggja Fiber á milli hús hjá þér. Það er annars enginn munur. Fiber er bara Fiber. Bara lögn \nÞað getur verið margt sem orsakar þennan hraða. Líklega gæti verið policera á sambandinu. \nUpphalshraði er oft ekki policeraður eða ekki hægt að policera. Fer eftir týpum af switchum sem þú tengist í hvað er hægt að gera. Enn það getur verið að ljósleiðarinn þinn sé policeraður. \nEf þú ert beintengdur út á internet eða ert svo throttlaður niður í einhverrjari miðju. T.d. ef þú ert með ljósleiðara sem tengist útibúarsambandi, sem fer svo út á internetið í einhverri miðju. Þá fer hraðinn þinn út á internetið eftir því hversu stórt sambandið er á miðjunni hjá ykkur, eða þá hversu mikið álag er á henni. Þú gætir líka verið tengdur switch, sem hefur álag á sér og því nærðu ekki meiri hraða enn þetta. Enn ef þetta er álags tengt myndir þú fá mjög mismunandi mælingar eftir hvað klukkan er.\nÞað er mjög erfitt að segja hvað er að orsaka þennan hraða. Enn ég mæli með að tala við þann sem þú ert að kaupa sambandið af og sýna honum þessar mælingar og fá þá til að troubleshoota á móti þér.",
+            "date": "2014-05-31 00:01:00",
+            "post_id": "563409",
+            "reply_to_id": "563364"
+        },
+        {
+            "user_name": "Hect00r",
+            "text": "ég veit að Tengir á þessa ljósbreytu sem er þarna, þannig að ég myndi prófa að hringja í þá á miðvikudaginn og spyrja þá út í þetta. það eru nokkrir ráðagóðir þar innanhúss sem ég hef fulla trú á.",
+            "date": "2014-06-16 21:05:00",
+            "post_id": "564940",
+            "reply_to_id": "563409"
+        },
+        {
+            "user_name": "krat",
+            "text": "Nope..\n50mb/s = 5mb *6.25*mb upp og niður. Sýnist þið vera með 100mb/s tenging sem nær ekki alveg uploadinu sýnu.",
+            "date": "2014-06-17 12:34:00",
+            "post_id": "564977",
+            "reply_to_id": "564940"
+        },
+        {
+            "user_name": "DaRKSTaR",
+            "text": "svona lítur þetta út hjá mér.. síminn bíður ekki upp á meira en 50mb þó svo maður hafi fiber",
+            "date": "2014-06-17 13:36:00",
+            "post_id": "564986",
+            "reply_to_id": "564977"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Þetta er mesta sultu comment sem ég hef séð.\nHann spurði hvort það ættu ekki að vera 50Mb í báðar áttir á 50Mb tengingu sem það á að vera.\nÞú kemur og ætlar að leiðrétta hann í MB/s og hefur ekki einu sinni fyrir því að skrifa einingarnar réttar?\n\"50mb/s = 5mb upp og niður\" Það eru 8 bit í byte og 50Mb/s er því 6.25MB/s sem námundast í 6 en ekki 5. \nGaman að þessu.",
+            "date": "2014-06-17 13:47:00",
+            "post_id": "564987",
+            "reply_to_id": "564986"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Að gefnu tilefni minni ég á reglurnar:\nviewtopic.php?f=33&t=6900\nSérstaklega þessa:\n6. gr. \nEkki koma með fullyrðingar ef þú ert ekki viss um það sem þú ert að segja\nSegðu t.d.\"ég held að ef að þú breytir MBR þá breytist partion table ekki\" frekar heldur en\n\"ef  þú breytir MBR breytist partion table ekki\" nema þú sért fullkomlega viss.",
+            "date": "2014-06-17 14:18:00",
+            "post_id": "564990",
+            "reply_to_id": "564987"
+        }
+    ],
+    "date": "2014-05-30 17:10:00"
+}

@@ -1,0 +1,142 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "26373",
+    "title": "Triple boot",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=26373",
+    "posts": [
+        {
+            "user_name": "JohnnyX",
+            "text": "Tek það fyrst fram að ég var ekki viss hvert þetta ætti að fara.\nEn spurning mín er sú: Er vesen að setja upp triple boot með Windows, Linux og Chrome OS?",
+            "date": "2009-11-24 23:58:00",
+            "post_id": "229274",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "MrT",
+            "text": "Ekkert frekar en dual-boot.. Settu bara eitt á sitt seperate partition - hvort sem það er á sama disk eða hvert á sér.",
+            "date": "2009-11-25 00:12:00",
+            "post_id": "229277",
+            "reply_to_id": "229274"
+        },
+        {
+            "user_name": "JohnnyX",
+            "text": "okei, takk. Hélt einhverra hluta vegna að það væri öðruvísi",
+            "date": "2009-11-25 00:38:00",
+            "post_id": "229282",
+            "reply_to_id": "229277"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "nei alls ekki ef þú kannt að dual-boota sem ég reikna með. En ég mæli frekar með að keyra Chrome OS í virtual vél (frá þá annaðhvort Windows eða Ubuntu) þar sem stýrikerfið er ennþá í þróunarferli. [url=virtualbox.org]Virtualbox[/url] hefur reynst mér vel sem virtual vél og að auki er hún til fyrir Windows, Linux, Mac osfrv!",
+            "date": "2009-11-25 00:44:00",
+            "post_id": "229283",
+            "reply_to_id": "229282"
+        },
+        {
+            "user_name": "JohnnyX",
+            "text": "ég ætla að prófa fyrst að hafa þetta svona. Ef að Chrome OS gefur mér einhver vandamál þá set ég þetta á virtual vél",
+            "date": "2009-11-25 00:55:00",
+            "post_id": "229286",
+            "reply_to_id": "229283"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Hvar er hægt að niðurhala GCOS?",
+            "date": "2009-11-25 01:00:00",
+            "post_id": "229289",
+            "reply_to_id": "229286"
+        },
+        {
+            "user_name": "JohnnyX",
+            "text": "http://thepiratebay.org/torrent/5170843 ... 1.vmdk.bz2\nEDIT: getur nálgast upplýsingar frá þessari síðu --> \nhttp://tolvudoktor.is/index.php/frettir ... -til-synis",
+            "date": "2009-11-25 01:04:00",
+            "post_id": "229291",
+            "reply_to_id": "229289"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Snilld, prófa þetta með Microsoft Virtual PC.",
+            "date": "2009-11-25 01:08:00",
+            "post_id": "229292",
+            "reply_to_id": "229291"
+        },
+        {
+            "user_name": "gardar",
+            "text": "chrome os er alls ekki klárt til þess að nota nema fyrir nett fikt á virtual vél imo.",
+            "date": "2009-11-25 13:39:00",
+            "post_id": "229376",
+            "reply_to_id": "229292"
+        },
+        {
+            "user_name": "Oak",
+            "text": "Þetta er bara browser eins og þetta er núna...nánast sama og google chrome browser.  Ekki það að ég sé einhver gúrú en það er allavega mín skoðun við fyrstu skoðun",
+            "date": "2009-11-25 13:44:00",
+            "post_id": "229377",
+            "reply_to_id": "229376"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "uuunei... \nþetta er stýrikerfi en notendaviðmótið er byggt upp á sama hátt og browserinn",
+            "date": "2009-11-25 14:16:00",
+            "post_id": "229387",
+            "reply_to_id": "229377"
+        },
+        {
+            "user_name": "Oak",
+            "text": "Þetta eru bara linkar á síður þannig að þetta er nánast bara eins og browser.  Annars ætla ég ekki að farað þrasa yfir þessu.",
+            "date": "2009-11-25 14:43:00",
+            "post_id": "229403",
+            "reply_to_id": "229387"
+        },
+        {
+            "user_name": "MrT",
+            "text": "Chrome OS ER bara browser.. Það var hannað til þess að hleypa notandanum sem fyrst á netið eftir að hann startar tölvunni.\nEf einhver er enn með það misconception að hann muni skipta út sínu aðalstýrikerfi fyrir Chrome OS þá mun það ekki gerast (nema náttúrukega að hann vilji bara nota tölvuna til að browsa netið), en GCOS hefur sinn stað í dual/triple-boot og jafnvel solo í sumum minni tækjum. En, já, það munu fáir skipta út Windows, Linux eða whatever fyrir ChromeOS.",
+            "date": "2009-11-25 15:35:00",
+            "post_id": "229422",
+            "reply_to_id": "229403"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Kóði: \nVelja allt\nctrl + alt + t \n í chrome os og þá erum við fyrst að tala saman",
+            "date": "2009-11-25 15:52:00",
+            "post_id": "229428",
+            "reply_to_id": "229422"
+        },
+        {
+            "user_name": "BjarkiMTB",
+            "text": "Endilega segðu okkur ef þú nærð að boota Chrome OS! Ég var búinn að reyna en það var ekki alveg að ganga...",
+            "date": "2009-11-25 16:05:00",
+            "post_id": "229432",
+            "reply_to_id": "229428"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Varstu að reyna að setja þetta upp á vélina eða upp á virtual vél?",
+            "date": "2009-11-25 16:22:00",
+            "post_id": "229442",
+            "reply_to_id": "229432"
+        },
+        {
+            "user_name": "BjarkiMTB",
+            "text": "Vélina. Ekkert mál að setja á virtual.",
+            "date": "2009-11-25 16:24:00",
+            "post_id": "229443",
+            "reply_to_id": "229442"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "nei vinur...Chrome OS er ekki bara browser. Það er vissulega hannað fyrir þá sem eru með netbooks og vilja komast sem hraðast á netið en það er mikill misskilningur að þetta sé bara kerfi til að rápa á netinu og skoða e-mail. Þetta er vissulega fyrir \"on-the-go\" people en þú kemur til með að geta unnið eitthvað á þessu.\nEn eins og ég segi og þú bendir líka á að þá er þetta ekki kerfi sem þú setur upp sem primary OS á borðtölvunni þinni! Getur prófað það í Virtual vél og hent því síðan í dual/triple-boot þegar það er orðið þróaðra. Síðan þegar að það er orðið 100% klárað að þá skellirðu því á netbook tölvuna þína",
+            "date": "2009-11-25 16:33:00",
+            "post_id": "229445",
+            "reply_to_id": "229443"
+        },
+        {
+            "user_name": "MrT",
+            "text": "Speaking to the layman was I.  \nÞað er ekki browser at all.. Það er stýrikerfi.  Ég kallaði það browser því það getur bara unnið á netinu svo það er, in practice, eins og browser.\n\"Because only data will be stored locally -- Chrome OS's applications will be completely Web-based\"\nOg fyrir þá sem vissu það ekki þá styður Chrome OS ekki harða diska.. bara SSD.",
+            "date": "2009-11-25 16:47:00",
+            "post_id": "229451",
+            "reply_to_id": "229445"
+        }
+    ],
+    "date": "2009-11-24 23:58:00"
+}

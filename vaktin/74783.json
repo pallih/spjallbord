@@ -1,0 +1,51 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "74783",
+    "title": "Unifi USG, nat og tengjast ISP router",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=74783",
+    "posts": [
+        {
+            "user_name": "gosi",
+            "text": "Hæhæ\nVar að kaupa mér Unifi búnað um daginn, þeas USG, 60w 8 porta switch, cloud key og AC lite.\nÞað tók einstaklega langan tíma að plögga öðru neti á allar græjunrar, þe að koma þeim öllum á 10.0.0.1/24.\nNúna er ég búinn að googla alveg grimmt en ég hreinlega finn ekki hvernig ég geri þetta.\nÉg vil sem sagt tengja USG við routerinn frá ISP sem er VDSL router, bara til þess að geta fylgst með öllu sem er í gangi\nen ég vil hafa hann þannig að hann brúar eða hvað það nú heitir. USG á að fá 192.168.1.1/24 tölu og er ekki dhcp server\nheldur er það routerinn fra ISP og allir þar undir fara á það net.\nNETIÐ --- ISP ROUTER (192.168.1.1/24) --- USG (192.168.1.20/24) --- SWITCH( 192.168.1.21/24) --- Allir aðrir (192.168.1.?/24)\nVonandi skiljiði mig",
+            "date": "2017-11-24 00:05:00",
+            "post_id": "661602",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "siggi83",
+            "text": "Ég fylgdi þessum guide og allt virkar fínt.\nhttps://www.youtube.com/watch?v=HcfIpTso_Ys&index=1&list=WL",
+            "date": "2017-11-24 00:18:00",
+            "post_id": "661604",
+            "reply_to_id": "661602"
+        },
+        {
+            "user_name": "gosi",
+            "text": "Já en hann er ekki að fara yfir það sem ég er að meina.\nUSG verður partur af neti/subneti ISP routersins og öll undirtækin líka",
+            "date": "2017-11-24 19:55:00",
+            "post_id": "661661",
+            "reply_to_id": "661604"
+        },
+        {
+            "user_name": "arons4",
+            "text": "Endaru ekki með double nat eins og þú ert að reyna að gera þetta? Mikið frekar að brúa netinu af isp routernum(ss nota hann sem dsl modem) og nota unifi routerinn sem main router. Þá færðu ytri ip töluna inná wan á unifi routernum.",
+            "date": "2017-11-24 20:52:00",
+            "post_id": "661664",
+            "reply_to_id": "661661"
+        },
+        {
+            "user_name": "siggi83",
+            "text": "Ertu með zyxel routerinn frá isp-inu þínu?\nÉg breytti ip rangeinu í 10.0.0.x/24 á zyxel gaurnum.\nStillt svona hjá mér:\nNETIÐ --- ISP ROUTER (10.0.0.1/24) --- USG (192.168.1.1/24) --- SWITCH( 192.168.1.100/24)",
+            "date": "2017-11-25 11:48:00",
+            "post_id": "661693",
+            "reply_to_id": "661664"
+        },
+        {
+            "user_name": "gosi",
+            "text": "Nei ég er með Kasda KW5212 frá Hringdu.\nKannski er þetta bara vesen en ég vil ekki breyta neinum addressum,\nbara plögga USG á milli routers og switch. Kannski er þetta bara vesen.\nÞá að allir eru á 192.168.1.1/24",
+            "date": "2017-11-25 13:00:00",
+            "post_id": "661702",
+            "reply_to_id": "661693"
+        }
+    ],
+    "date": "2017-11-24 00:05:00"
+}

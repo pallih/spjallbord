@@ -1,0 +1,107 @@
+{
+    "forum_title": "Windows",
+    "id": "12436",
+    "title": "Vista x64 Nvidia GF driver?!",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=12436",
+    "posts": [
+        {
+            "user_name": "Tappi",
+            "text": "Ég er að nota Vista RTM x64 og er með gf 7800GTX skjákort. Installaði nýjasta vista x64 driver sem ég fann á nvidia.com eða v.96.85 og ég er að fá svona þrefalt minna fps í cs:source. Hef reyndar ekki prófað aðra leiki, en hefur einhver annar lent í þessu og veit einhver hvenær þeir koma með release drivera fyrir vista?\n\n\n\nps.\n\nþetta vandamál er enn óleyst:\n\nhttp://spjall.vaktin.is/viewtopic.php?t=12290",
+            "date": "2006-12-11 15:33:00",
+            "post_id": "132785",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Yank",
+            "text": "Driver support fyrir vista 32 bita er varla þolanlegt en fyrir x64 er það vonlaust.",
+            "date": "2006-12-11 15:58:00",
+            "post_id": "132787",
+            "reply_to_id": "132785"
+        },
+        {
+            "user_name": "Tappi",
+            "text": "Veit einhver hvenær Nvidia ætlar að gefa út nýja útgáfu af Vista driverum?? \n\nÞá er ég aðallega spenntur fyrir 64 bita útgáfunni",
+            "date": "2006-12-21 13:05:00",
+            "post_id": "133437",
+            "reply_to_id": "132787"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Ekki halda niðri í þér andanum,  \n Það er mjög sennilega langt í þetta.",
+            "date": "2006-12-21 13:09:00",
+            "post_id": "133438",
+            "reply_to_id": "133437"
+        },
+        {
+            "user_name": "Tappi",
+            "text": "hehe ok.",
+            "date": "2006-12-21 13:28:00",
+            "post_id": "133439",
+            "reply_to_id": "133438"
+        },
+        {
+            "user_name": "Tappi",
+            "text": "Mér finnst nú Nvidia vera að skíta uppá bak með að auglýsa sig svona \"Vista recommended\" þegar driverarnir þeirra eru drasl !\n\n\n\n\n\n\n\np.s. ég veit að þetta eru beta driverar",
+            "date": "2006-12-21 13:51:00",
+            "post_id": "133440",
+            "reply_to_id": "133439"
+        },
+        {
+            "user_name": "Stebet",
+            "text": "Vista er ekki komið opinberlega út nema í fyrirtækjaútgáfu, í þróunartilgangi og fyrir þá beta-testera sem skráðu bögga.\n\n\n\nAlmenn útgáfa á Vista er 30. janúar þannig að Nvidia/Ati/Creative og co. hafa tíma þangað til. Margir hardwareframleiðendur eru í svipuðu veseni. Beta driverar frá þeim sökka vægast sagt og langt líður milli útgáfna. Það er að hluta til MS að þakka/kenna því WHQL testin þeirra fyrir Vista eru miklu miklu strangari en þau voru fyrir XP þannig að lengra líður milli útgáfna.\n\n\n\nÁ móti kemur að driverarnir \neiga\n að vera töluvert stöðugri en þeir voru nokkurntímann á XP.",
+            "date": "2006-12-21 14:12:00",
+            "post_id": "133442",
+            "reply_to_id": "133440"
+        },
+        {
+            "user_name": "Tappi",
+            "text": "Mér finnst bara að þeir hafi haft nógu andskoti nógan tíma miðað við hvað Vista hefur lengi verið \"alveg\" að koma út. En þetta getur auðvitað legið MS megin.",
+            "date": "2006-12-21 14:35:00",
+            "post_id": "133446",
+            "reply_to_id": "133442"
+        },
+        {
+            "user_name": "Stebet",
+            "text": "Aðeins að hluta til. Creative til dæmis getur ekki kennt neinum nema sjálfum sér um ömurlegt ástand beta driveranna þeirra. Nýja audio dótið hefur verið í Vista síðan Beta 2 a.m.k þannig að Creative og aðrir hljóðkortaframleiðendur hafa hafa haft tíma síðan þá til þess að forrita sína drivera auk þess sem það er ekki nýtt hardware sem þarf að prófa rækilega í audio deildinni.\n\n\n\nÉg leyfi mér að sýna Nvidia smá slaka því þeir eru ekki bara með Vista drivera fyrir Geforce 7XXX kortin sín og niðrúr (sem virkar sæmilega) heldur eru þeir með aðra sér drivera fyrir 8800 kortin sín sem þurfa að styðja DirectX 10. Ég geri líka fastlega ráð fyrir að þeir geti verið vel böggaðir þar sem þetta ér bæði splunkunýtt API og hardware þarna á ferðinni. Það er nú einu sinni þannig að driveraforritarar vaxa ekki á trjám og ég get vel ímyndða mér að Nvidia hafi þurft að skipta driveradeildinni sinni vel niður ásamt því að reyna að ráða fleiri til þess að koma inn í þessi mál hjá sér.\n\n\n\nAti eru ekker tbetur staddir með Vista drivera en Nvidia í augnablikinu og ég geri fastlega ráð fyrir því að bæðir aðilar séu á milljón að reyna ða klára þessi mál og koma út driverum. Nvidia hafa sagt að þeir séu með Vista drivera í QA (Quality Assurance) testi en útaf ströngum reglum MS varðandi gæði drivera taka þeir einhverjar vikur að fara gegnum þau (þurfa víst að prófa á alveg ógrynni af forritum).\n\n\n\nHljóðkortaframleiðendum sýni ég hins vegar ekki sama slaka þar sem það er ekkert splunkunýtt hardware á ferðinni. Þeir geta bara drullast til þess að hafa sín driveramál á hreinu sérstaklega þar sem Það er 1.5 ár síðan Vista fór í tech-beta ferlið með Beta 1.",
+            "date": "2006-12-21 15:17:00",
+            "post_id": "133452",
+            "reply_to_id": "133446"
+        },
+        {
+            "user_name": "Tappi",
+            "text": "Ég er nú ekki sammála því! Held að þeir geri það nefnilega á Indlandi  \n\n\n\n\nEn gaman að fá þessa punkta frá þér. Þú ert greinilega mjög fróður um þessi mál.",
+            "date": "2006-12-21 15:28:00",
+            "post_id": "133453",
+            "reply_to_id": "133452"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Driver mál hjá Creative eru bara í algjöru rugli, amk. hafa driverarnir aldrei virkað almennilega á Windows XP fyrir Audigy 2 kortið mitt, og alveg ömurlegir í Windows Vista RC2.",
+            "date": "2006-12-21 20:56:00",
+            "post_id": "133470",
+            "reply_to_id": "133453"
+        },
+        {
+            "user_name": "Stebet",
+            "text": "X-Fi driverarnir hafa verið furðu góðir á XP en sömu sögu er ekki hægt að segja um Vista driverana. Enda er ég alvarlega að spá í að nota bara innbyggða HD hljóðkortið um leið og ég set upp Vista Ultimateið mitt, sem aftur verður ekki fyrr en ég fæ 8800 Vista drivera. Þetta eru einu driverarnir sem mig vantar til að fá allt hardware í gang á Vista hjá mér.",
+            "date": "2006-12-21 21:09:00",
+            "post_id": "133471",
+            "reply_to_id": "133470"
+        },
+        {
+            "user_name": "Tappi",
+            "text": "Er einhver búinn að prófa nýjustu(97.46) Nvidia driverana fyrir \nVista\n sem komu út 5.jan? Þá helst 64 bita...\n\n\n\nEf svo hvernig eru þeir að virka fyrir leiki? Er þetta sama draslið og eldri útgáfan?",
+            "date": "2007-01-12 13:00:00",
+            "post_id": "135415",
+            "reply_to_id": "133471"
+        },
+        {
+            "user_name": "Tappi",
+            "text": "Var einhver búnn að prófa þessa nýju nvidia drivera fyrir vista??",
+            "date": "2007-01-17 11:37:00",
+            "post_id": "135900",
+            "reply_to_id": "135415"
+        }
+    ],
+    "date": "2006-12-11 15:33:00"
+}

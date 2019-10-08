@@ -1,0 +1,107 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "23862",
+    "title": "Hvar fæ ég almennilega routera?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=23862",
+    "posts": [
+        {
+            "user_name": "Harvest",
+            "text": "Daginn drengir og stúlkur.\nÉg er búinn að vera í mikilli leit eftir fyrsta flokks þráðlausum routerum fyrir lítil fyrirtæki/heimili.\nÞað eina sem ég hef fundið eru þessir hér:\nhttp://tb.is/?gluggi=vara&vara=6802\nÞessi hentar þannig séð ágætlega. Þarf að hafa öflugt þráðlaust merki.\nVitiði hvort það sé hægt að stilla sjónvarp símans inná port á svona routerum?\nAllar ábendingar vel þegnar!",
+            "date": "2009-07-13 00:08:00",
+            "post_id": "211502",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "depill",
+            "text": "Nei þetta styður ekki Sjónvarp Símans. Þetta er ethernet router ( getur ekki tekið upp syncið, þarft að hafa ADSL modem auka ofan á þetta ), en vegna þess að það er ekki innbyggt modem styður það ekki point-to-multipoint tengingar.\nÉg held samt að þessi \"router\" er örugglega fínasta tæki til að nota sem access-punkt. Hins vegar er bara því miður að þessir lower-end markaður af routerum ( ST585 er eiginlega ofar á markaðinun en þessi ) sé allt sama draslið.\nÞað eru til business series frá fyrirtækjum eins og Netgear og D-Link, en mér finnst verðið á þeim vera það hátt að maður getur alveg eins dottið í Cisco routera ef maður virkilega þarf góðan router. ( Sem bæði fjarskiptafyrirtækin leigja á hóflegu verði með IP-nets tengingum sínum ).\nHins vegar er ég kannski að misskilja atriðið \"góður\" router og þú ert að hugsa um WiFi. Ef svo er, þá myndi ég bara nota routerana frá ISPunum ( ZyXEL frá Vodafone/TAL eða ST585 frá Símanum ) færð besta supportið á þeim frá ISPunum og þetta eru nú bara þokkalegir ( low-end routerar ) og miðað við lýsinguna þínu á því hvað þú ert að leita eftir ( Sjónvarp Símans o.s.frv ) þá er það örugglega fínt og svo ef það þarf að styrkja WiFi kaupa bara access-punkta sem þú getur tengt við routerinn. ( Getur líka notað ódýra routera sem access-punkta )\n( Já fyrsta flokks er að mínu mati bara Cisco routerar, það er ástæða fyrir því að þeir eru svona rosalega markaðsráðandi í high-end og backend markaðinum ).",
+            "date": "2009-07-13 00:38:00",
+            "post_id": "211504",
+            "reply_to_id": "211502"
+        },
+        {
+            "user_name": "rapport",
+            "text": "N staðallinn ....   er N-ið orðið að staðli?\nMér var sagt fyrir skemmstu að G væri það sem maður ætti að treysta á...\n802.11g virkar fyrir mig ... hraðinn á Wireless er meiri en á nettengingunni þannig að.... ekki er þráðlausa dæmið að takmarka hraðann...",
+            "date": "2009-07-13 01:20:00",
+            "post_id": "211506",
+            "reply_to_id": "211504"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Meira fyrir stöðugleikann.",
+            "date": "2009-07-13 01:26:00",
+            "post_id": "211508",
+            "reply_to_id": "211506"
+        },
+        {
+            "user_name": "starionturbo",
+            "text": "Mæli með NetGear ef þú vilt stable samband.\nSérstaklega ef þú ert með 12Mbit tengingu, ST585 ræður ekki við fullan hraða.",
+            "date": "2009-07-13 02:58:00",
+            "post_id": "211517",
+            "reply_to_id": "211508"
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "handshakeið er samt alveg jafn mikið drasl",
+            "date": "2009-07-13 09:21:00",
+            "post_id": "211521",
+            "reply_to_id": "211517"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Veit ekkert um það, enda ég ekki mikið í því að disabla og enabla netið í miðjum scrimmum, hinsvegar var ég frekar mikið í því að fá á mig höktklessur vegna packet lossa.",
+            "date": "2009-07-13 16:29:00",
+            "post_id": "211534",
+            "reply_to_id": "211521"
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "höktklessur eru útaf handshakeinu.. sömuleiðis að streama þungt vídjó gegnum wifi etc..\ndunno why þeir bjuggu til 108 Mbit staðal í staðinn fyrir að gera öflugra handshake, tildæmis er þessi N staðall fáránlega designaður.\nTilhvers að gera 600 Mbit staðal með \nsama\n handshake og er á 54 ??\nhalló, hvað er í gangi -> sama laggið og packetlossið",
+            "date": "2009-07-13 16:45:00",
+            "post_id": "211536",
+            "reply_to_id": "211534"
+        },
+        {
+            "user_name": "Harvest",
+            "text": "Þið eruð nokkurnveginn að átta ykkur á því hvað ég vil \n - sérstaklega depill\nMig vantar aðallega að fá öflugra WiFi. Ég skoðaði það að kaupa access púnkta en það var bara svipað dýrt og nýr router. Svo ég hugsaði bara hví ekki að slá 2 flugur í einu höggi...\nHvernig stilli ég samt routera til að vera access púnktar?\nVitiði um einhverjar ódýrar access púnkta græjur?",
+            "date": "2009-07-13 20:14:00",
+            "post_id": "211552",
+            "reply_to_id": "211536"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Bwöh þá er það enn ein ástæðan fyrir því að ég byrjaði með snúru  \n \nEn ég hélt að það handshakaði bara við t.d. bootup..? Alltaf lærir maður eitthvað nýtt.",
+            "date": "2009-07-14 00:33:00",
+            "post_id": "211578",
+            "reply_to_id": "211552"
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "nóbb, handshakar alveg á nokkra mínútna fresti, þess vegna er hægt að hacka þessi wifi signöl",
+            "date": "2009-07-14 02:07:00",
+            "post_id": "211583",
+            "reply_to_id": "211578"
+        },
+        {
+            "user_name": "depill",
+            "text": "Ef þú nennir ekki að hanna nýjan staðall \n Þá eru til nokkrar lausnir fyrir þessu, vegna þess að það er svo lélegt framboð af Access punktum að þá hef ég verið að nota routera til þess að framlengja wifi signalið hjá mér. Ég nota Linksys WRT160N til þess.\nADSL bróðir hans WAG160N selst á 18.990 hjá Start sé ég. Veit ekki hvað WRT160Nin kostar, best að bjalla í Opin kerfi. \nAnnars setti ég upp netkerfi af rúmlega 60 AP's síðasta sumar af \nhttp://www-is.linksys.com/servlet/Satel ... 6536109B51\n - það er N version, ( þetta er Business series og er orðinn partur af Cisco Business series ). \nEf þetta er ný pantað þá er þetta frekar dýrt ( gengið screwar með okkur )\nhttp://www.cisco.com/en/US/products/ps10051/index.html\nAlgjör snilld sem styður PoE ef þú þarft það. Ég hef allavega mjög góða reynslu af bæði Linksys og D-Link ( OK og EJS með sitthvort umboðið ). \nÉg myndi allavega tékka á WRTinum hann er góður.",
+            "date": "2009-07-14 14:06:00",
+            "post_id": "211594",
+            "reply_to_id": "211583"
+        },
+        {
+            "user_name": "Harvest",
+            "text": "depill, finnst þér þá að ég ætti að halda bara þessum SpeedTouch router og bæta þessum WAG160N við sem AP?\nAnnars er ég aðallega að hugsa þetta fyrir svona græju: \nhttp://www.computer.is/vorur/7157\n þetta styður náttúrulega bara \n802.11b/g\n svo maður hefur væntanlega lítið að gera við N staðallinn þegar uppi er staðið?",
+            "date": "2009-07-18 23:49:00",
+            "post_id": "211941",
+            "reply_to_id": "211594"
+        },
+        {
+            "user_name": "depill",
+            "text": "Sko ég myndi taka WRT160N routerinn. Ef það sé ennþá sami verðmunur, ( færð í raun AP + 3 porta swiss ( eitt portið til að tengjast við eldri router ) ), en af að WET200 sé orðinn ódýari, þá er það þrusufínn AP.",
+            "date": "2009-07-19 12:32:00",
+            "post_id": "211955",
+            "reply_to_id": "211941"
+        }
+    ],
+    "date": "2009-07-13 00:08:00"
+}

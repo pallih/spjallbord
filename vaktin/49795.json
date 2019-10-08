@@ -1,0 +1,79 @@
+{
+    "forum_title": "Windows",
+    "id": "49795",
+    "title": "2 folder sem eru Program files í Windows 7",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=49795",
+    "posts": [
+        {
+            "user_name": "frikki1974",
+            "text": "Ég hef 2 foldera sem eru Program Files en annar heitir Program files (86) en hinn bara Program Files.\nVeit einhver afhverju þetta er svona? en þetta er ekki svona í XP",
+            "date": "2012-08-19 16:49:00",
+            "post_id": "461631",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Victordp",
+            "text": "Program files mappan er 64-bit forrit, en Program files (86) eru 32-bit forrit.",
+            "date": "2012-08-19 16:54:00",
+            "post_id": "461632",
+            "reply_to_id": "461631"
+        },
+        {
+            "user_name": "frikki1974",
+            "text": "...en ég er með Windows 7 Ultimate...en af hverju er þá Program files (86) 32-bit þarna?",
+            "date": "2012-08-19 16:59:00",
+            "post_id": "461633",
+            "reply_to_id": "461632"
+        },
+        {
+            "user_name": "Orri",
+            "text": "Því ekki öll forrit eru 64 bit..",
+            "date": "2012-08-19 17:00:00",
+            "post_id": "461634",
+            "reply_to_id": "461633"
+        },
+        {
+            "user_name": "bulldog",
+            "text": "af því að windows 7 sem er 64 bita keyrir líka 32 bita forrit.",
+            "date": "2012-08-19 17:01:00",
+            "post_id": "461635",
+            "reply_to_id": "461634"
+        },
+        {
+            "user_name": "frikki1974",
+            "text": "Ok ég skil þannig að þetta er svona hjá flestum sem hafa Windows 7 64?",
+            "date": "2012-08-19 17:03:00",
+            "post_id": "461638",
+            "reply_to_id": "461635"
+        },
+        {
+            "user_name": "bAZik",
+            "text": "Nei. Öllum.",
+            "date": "2012-08-19 17:06:00",
+            "post_id": "461640",
+            "reply_to_id": "461638"
+        },
+        {
+            "user_name": "frikki1974",
+            "text": "Ok takk",
+            "date": "2012-08-19 17:07:00",
+            "post_id": "461641",
+            "reply_to_id": "461640"
+        },
+        {
+            "user_name": "rango",
+            "text": "Smá offtopic hérna...\nAvatarinn þinn er spot-on  \n \nFriður",
+            "date": "2012-08-19 17:33:00",
+            "post_id": "461657",
+            "reply_to_id": "461641"
+        },
+        {
+            "user_name": "frikki1974",
+            "text": "Suddalega flott stelpa",
+            "date": "2012-08-19 18:25:00",
+            "post_id": "461675",
+            "reply_to_id": "461657"
+        }
+    ],
+    "date": "2012-08-19 16:49:00"
+}

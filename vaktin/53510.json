@@ -1,0 +1,114 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "53510",
+    "title": "(Leist)Forrit til þess að setja gögn á 150 USB lykla?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=53510",
+    "posts": [
+        {
+            "user_name": "playman",
+            "text": "Veit einhver um forrit sem getur auðveldað mér að afrita gögn á 150 lykla?\nEr að leita mér að forriti sem að skynjar að usb lykill hefur verið settur í, afritar svo gögnin inná hann og ejectar svo\nlyklinum og bíður svo eftir næsta.\nÞað hlítur einhver hafa búið til svona forrit",
+            "date": "2013-02-20 14:59:00",
+            "post_id": "496452",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "steinarorri",
+            "text": "Eitthvað svona?\nhttp://www.osforensics.com/tools/write-usb-images.html",
+            "date": "2013-02-20 15:02:00",
+            "post_id": "496453",
+            "reply_to_id": "496452"
+        },
+        {
+            "user_name": "playman",
+            "text": "Hugsanlega gæti þetta dugað steinarorri, takk fyrir það, þyrfti bara að skoða það þegar að ég er búin að fá lyklana.\nEn ef þið vitið um fleyri forrit sem geta gert þetta, endilega komið með þau.\nEn þau þurfa að vera frí og gera það sem ég skrifaði hér að ofan, því meyra simple því betra",
+            "date": "2013-02-20 15:20:00",
+            "post_id": "496455",
+            "reply_to_id": "496453"
+        },
+        {
+            "user_name": "Televisionary",
+            "text": "Hversu mikið af gögnum ertu að skrifa í GB c.a. ? Ef þú myndir t.d. gera þetta undir Linux þá fá jaðartækin alltaf sama \"device ID\" og þú ættir að geta \"mountað\" þau sjálfkrafa eða í gegnum skrift og afritað gögnin og svo keyrt ferli sem athugar hvort að gögnin séu í lagi (md5sum t.d.).\nÉg sé þetta fyrir mér c.a. svona:\na) USB lykli stungið í.\nb) skrifta ræst og hún sér hvort að öll tækin séu á sínum stað.\nc) gögnin skrifuð og yfirfarin\nd) keyrð skipun sem \"ejectar öllum USB lyklunum\"\ne) tekur næsta bunka af lyklum og ferð aftur í a)\nÉg myndi gera þetta með 2 x powered USB höbbum eða fleiri þetta fer eftir því hversu hátt þú verðmetur tíma þinn.\nÞað er sjálfsagt hægt að gera þetta undir Windows en ég nota Windows ekki að staðaldri. En forritið sem var bent á hér á undan tekur \"image\" skrá af lyklinum þannig að ef gögnin þín væru t.d. 500 MB en USB lykilinn 4 GB þá værirðu að skrifa 4GB í hvert einasta skipti í stað 500MB. Þannig að þú værir að eyða tíma í að skrifa 3.5 GB á hvern einasta USB lykil þegar þú þyrftir þess ekki.",
+            "date": "2013-02-20 16:56:00",
+            "post_id": "496481",
+            "reply_to_id": "496455"
+        },
+        {
+            "user_name": "playman",
+            "text": "Takk fyrir þetta Televisionary.\nÞetta eru bara 3 PDF skrár sem þarf að skrifa á hvern lykil, og ættu ekki að vera svo stórar, er að giska á max 50mb per skrá.\nÉg væri alveg til í að gera þetta í linux (Ubuntu) en er bara ekki nógu fróður til þess að gera svona skriftu.\nEr það eithvað sem þú gætir gert fyrir mig?  \n skriftuna semsagt.\nOg já þegar að þu nefnir það, þá er md5 checker eiginlega nauðsin.",
+            "date": "2013-02-20 21:29:00",
+            "post_id": "496521",
+            "reply_to_id": "496481"
+        },
+        {
+            "user_name": "Haukur",
+            "text": "er þetta ekki málið  \nhttp://systembash.com/content/copy-file ... nd-easily/",
+            "date": "2013-02-21 04:05:00",
+            "post_id": "496565",
+            "reply_to_id": "496521"
+        },
+        {
+            "user_name": "playman",
+            "text": "Það virðist ekki skoða hvort að skjölin hafi afritast rétt og það ejectar heldur ekki lyklinum, því miður.\nHálfur bardaginn unninn en það sem skiptir mestu máli vantar í það.",
+            "date": "2013-02-21 09:17:00",
+            "post_id": "496573",
+            "reply_to_id": "496565"
+        },
+        {
+            "user_name": "Televisionary",
+            "text": "Ég skrifaði skriftu hérna áðan fyrir Linux, ég er ekki alveg ánægður með hana get kíkt á hana um og eftir kvöldmat ef þú vilt og klárað hana og póstað link á hana, hún býr til x margar möppur ef þær eru ekki til fyrir USB lyklana. Hún afritar allt með .pdf skjölum og tekur md5sum af skjölunum sem þú afritaðir og frumritinu og svo geturðu tekið lykilinn út og byrjað aftur.\nLáttu bara vita. Þú getur bara ræst upp af Live CD með linux og gert þetta ef þú hefur ekki Linux vél aðgengilega.",
+            "date": "2013-02-21 13:49:00",
+            "post_id": "496608",
+            "reply_to_id": "496573"
+        },
+        {
+            "user_name": "playman",
+            "text": "kærar þakkir fyrir það.\nÉg er með vél hérna sem ég hent ubuntu uppá, þannig að það er ekkert mál.\nEn ekkert stress, ég hef enþá smá tíma fyrir þetta \nen skriftan ejectar lyklunum er þaggi?\ner eitthvað loop á henni, eða þarf að ræsa hana fyrir hvern lykil/afrit?",
+            "date": "2013-02-21 14:18:00",
+            "post_id": "496611",
+            "reply_to_id": "496608"
+        },
+        {
+            "user_name": "Televisionary",
+            "text": "Skriftan er hérna: \nhttps://github.com/sillkongen/m_usb_writer\n þarna er skriftan hún virkar ég er bara með 2 USB port á ferðavélinni og þetta virkar eins og til er ætlast afritar öll PDF skjöl í þeirri möppu sem þú ert staddur í á 2 USB lykla og tekur MD5 gildi af upprunalegu gögnunum og því sem þú hefur afritað og \"ejectar\" svo lyklinum. Þetta er ekki eins snyrtilegt og ég vildi hafa þetta en þetta virkar.\nÞú ræsir skriftuna upp fyrir hvern lykil þú þarft hvort eð er að renna yfir niðurstöðuna á md5 gildinu. Ég setti í comment það sem þarf til að drepa á \"auto mount\" í udev til þess að geta mountað lyklana á /mnt/usb1 .......\nÞú getur bætt við þetta eins mörgum lyklum og þú ert að nota, þú getur séð hvaða ID þeir hafa með því að skoða /var/log/messages en það er nokkuð sjálfgefið ef fyrsti lykill er t.d. sdb þá er næst sdc o.s.frv.",
+            "date": "2013-02-21 14:29:00",
+            "post_id": "496613",
+            "reply_to_id": "496611"
+        },
+        {
+            "user_name": "Gislinn",
+            "text": "Kudos til Televisionary fyrir að skrifa þetta fyrir þig.",
+            "date": "2013-02-21 14:40:00",
+            "post_id": "496617",
+            "reply_to_id": "496613"
+        },
+        {
+            "user_name": "playman",
+            "text": "Náhvæmlega",
+            "date": "2013-02-21 14:46:00",
+            "post_id": "496619",
+            "reply_to_id": "496617"
+        },
+        {
+            "user_name": "playman",
+            "text": "Vil bara en og aftur þakka Televisionary fyrir kóðan og svo alla aðstoðina sem átti sér í PM.\nÞetta er svo sannarlega ekki eigingjarn einstaklingur, og algert gull af manni",
+            "date": "2013-02-26 15:01:00",
+            "post_id": "497461",
+            "reply_to_id": "496619"
+        },
+        {
+            "user_name": "Stuffz",
+            "text": "150 phew \nvona að þú hafir fengið lyklana á góðum prís.",
+            "date": "2013-02-26 15:19:00",
+            "post_id": "497463",
+            "reply_to_id": "497461"
+        },
+        {
+            "user_name": "playman",
+            "text": "Hehe ég er að gera þetta fyrir aðra manneskju, veit ekkert hvar hún hefur feingið þá eða á hvaða verði.\nvirðast vera þessir hérna \nhttp://www.promovement-lite.com/pfpromo ... e=1Z30439K\nannars þegar að ég googlaði þá, þá fann ég haug af síðum sem eru að selja þessa lykla\nEn það sést alveg á þeim að þeir eru \"mass produced\", þeir eru rosalega misjafnir, \"varnarhausarnir\" semsagt eru mis stífir os.f.\nen eingin lykill klikkað enþá allaveganna, er búin með um 80 lykla núna.\nSvo fór ég að spá, hvað er verið að taka fyrir svona afritun?\nHvað er sanngjarnt verð á því?",
+            "date": "2013-02-26 15:32:00",
+            "post_id": "497465",
+            "reply_to_id": "497463"
+        }
+    ],
+    "date": "2013-02-20 14:59:00"
+}

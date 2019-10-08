@@ -1,0 +1,184 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "63912",
+    "title": "örgjörva problem?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=63912",
+    "posts": [
+        {
+            "user_name": "benderinn333",
+            "text": "sællir... Er i Smá veseni.\nVar með core 2 duo e6850 \nÉg var að versla mer q6600 og ný buinn að smella honum í...\nFyrst þegar ég bootaði kom bara svartur skjár... Þannig eg clearaði cmos og endurræsti.. Fyrst var svartur skjár svo loadaði windows recovery en bara svartur skjár eftir load... \nVill ekki vera fikta of mikið vildi vera viss fyrst... Sooooo eh sem hefur lent i þessu?",
+            "date": "2015-01-07 14:14:00",
+            "post_id": "586261",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Daz",
+            "text": "Styður móðurborðið þitt Q6600?",
+            "date": "2015-01-07 14:21:00",
+            "post_id": "586262",
+            "reply_to_id": "586261"
+        },
+        {
+            "user_name": "benderinn333",
+            "text": "Ja er þó nokkuð viss um það.\nhttp://www.asrock.com/mb/NVIDIA/Penryn1600SLI-110dB/",
+            "date": "2015-01-07 14:25:00",
+            "post_id": "586263",
+            "reply_to_id": "586262"
+        },
+        {
+            "user_name": "Xovius",
+            "text": "Búinn að kíkja á pinnana? Hvaða specs eru á restinni?",
+            "date": "2015-01-07 14:26:00",
+            "post_id": "586264",
+            "reply_to_id": "586263"
+        },
+        {
+            "user_name": "benderinn333",
+            "text": "Ja leit vel ut aður en eg skellti honum i..\nGtx460 gigabyte \n2x1gb crosshair eh\n2x2gb kingston eh\n750bg wd black\n460w coolermaster",
+            "date": "2015-01-07 14:29:00",
+            "post_id": "586265",
+            "reply_to_id": "586264"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Ef þú ræsir aftur, ferðu þá alltaf aftur inn í Windows recovery eða færðu bara svartan skjá?",
+            "date": "2015-01-07 15:02:00",
+            "post_id": "586267",
+            "reply_to_id": "586265"
+        },
+        {
+            "user_name": "benderinn333",
+            "text": "nei... sá bara að það byrjaði að loada... s.s. hviti load barinn sem kemur alltaf aður en maður installar eða fer i recovery... en það loadaðist en fór svo bara i svartann skjá",
+            "date": "2015-01-07 15:16:00",
+            "post_id": "586268",
+            "reply_to_id": "586267"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Gerðist það einusinni eða gerist það alltaf þegar þú reynir að ræsa vélina með Q6600 örgjörvann í ?\nLagast þetta þegar þú setur C2D örgjörvann aftur í?",
+            "date": "2015-01-07 15:24:00",
+            "post_id": "586269",
+            "reply_to_id": "586268"
+        },
+        {
+            "user_name": "benderinn333",
+            "text": "kom minstakosti ekki nuna... ætla profa skipta aftur",
+            "date": "2015-01-07 15:42:00",
+            "post_id": "586271",
+            "reply_to_id": "586269"
+        },
+        {
+            "user_name": "benderinn333",
+            "text": "normal boot með c2d",
+            "date": "2015-01-07 15:50:00",
+            "post_id": "586273",
+            "reply_to_id": "586271"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Allar útgáfur af BIOS eiga að styðja þennan örgjörva, hann virðist vera FUBAR.\nVar kælingin nógu vel sett á, kælikrem á örgjörvanum o.þ.h. ?\nSpurning um að prófa að setja hann í aftur, gera þetta rólega og vanda sig og gá hvað gerist.\nFyrst þú komst inn í Windows recovery, þá finnst mér hann eiga smá séns.",
+            "date": "2015-01-07 17:05:00",
+            "post_id": "586277",
+            "reply_to_id": "586273"
+        },
+        {
+            "user_name": "benderinn333",
+            "text": "er buinn að skipta a milli 2-3 sinnum og vanda mig alltaf jafn vel... duno what to say... dautt chip?",
+            "date": "2015-01-07 17:29:00",
+            "post_id": "586278",
+            "reply_to_id": "586277"
+        },
+        {
+            "user_name": "monkas",
+            "text": "eg held ad ehv ad vinnslu minni tinum se onytt",
+            "date": "2015-01-07 20:39:00",
+            "post_id": "586304",
+            "reply_to_id": "586278"
+        },
+        {
+            "user_name": "benderinn333",
+            "text": "Hví segiru það?",
+            "date": "2015-01-07 22:04:00",
+            "post_id": "586317",
+            "reply_to_id": "586304"
+        },
+        {
+            "user_name": "nidur",
+            "text": "Setja gamla í ( hann er að virka?) og uppfæra bios á móðurborðinu? og prufa hinn aftur",
+            "date": "2015-01-07 22:06:00",
+            "post_id": "586318",
+            "reply_to_id": "586317"
+        },
+        {
+            "user_name": "benderinn333",
+            "text": "Eins og eg sagði her rétt fyrir ofan þá virkar gamli enþá er með nýjasta bios uppdatið installað",
+            "date": "2015-01-07 22:14:00",
+            "post_id": "586320",
+            "reply_to_id": "586318"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Það má prófa að taka alla minniskubbana úr nema einn og/eða prófa að boota af USB einhverju eins og Ultimate boot CD eða e-h linux stýrikerfi.\nEn ég veðja á að örgjörvinn sé fried.",
+            "date": "2015-01-07 23:20:00",
+            "post_id": "586329",
+            "reply_to_id": "586320"
+        },
+        {
+            "user_name": "benderinn333",
+            "text": "Rapport buinn að prófa þetta með ramið",
+            "date": "2015-01-07 23:36:00",
+            "post_id": "586334",
+            "reply_to_id": "586329"
+        },
+        {
+            "user_name": "vesley",
+            "text": "Þetta er farið að benda frekar mikið til þess að örgjörvinn sé FUBAR.  Prófaðu hinsvegar að cleara CMOS eftir að Q6600 er kominn í móðurborðið til að vera alveg 110% viss.  Getur gert það með að taka batteríið úr, er ekki viss hvort það sé Clear CMOS Jumper á þessu móðurborði.",
+            "date": "2015-01-08 03:40:00",
+            "post_id": "586340",
+            "reply_to_id": "586334"
+        },
+        {
+            "user_name": "benderinn333",
+            "text": "Læt reyna á það á eftir.... Annars bara takk fyrir hjálpina boys!!",
+            "date": "2015-01-08 11:57:00",
+            "post_id": "586383",
+            "reply_to_id": "586340"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Prófa líka linux á USB... Ef þú ert að koamst í gegnum POST með q6600 í vélinni...",
+            "date": "2015-01-08 12:08:00",
+            "post_id": "586384",
+            "reply_to_id": "586383"
+        },
+        {
+            "user_name": "benderinn333",
+            "text": "myndi ekki virka... get ekki komist i boot menu\nju kanski ef eg dissconnecta hdd?",
+            "date": "2015-01-08 12:58:00",
+            "post_id": "586393",
+            "reply_to_id": "586384"
+        },
+        {
+            "user_name": "benderinn333",
+            "text": "Fixed- takk fyrir aftur strákar",
+            "date": "2015-01-08 18:16:00",
+            "post_id": "586457",
+            "reply_to_id": "586393"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Nei, nei, nei...\nÞú verður að segja okkur hvað var málið, við verðum að fá að draga lærdóm af þessu...",
+            "date": "2015-01-08 20:56:00",
+            "post_id": "586475",
+            "reply_to_id": "586457"
+        },
+        {
+            "user_name": "benderinn333",
+            "text": "Ja haha..... Þurfti að resetta öll setting i bios með gamla svo skipta þá rauk þetta i gang",
+            "date": "2015-01-09 00:43:00",
+            "post_id": "586504",
+            "reply_to_id": "586475"
+        }
+    ],
+    "date": "2015-01-07 14:14:00"
+}

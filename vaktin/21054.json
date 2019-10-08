@@ -1,0 +1,44 @@
+{
+    "forum_title": "Windows",
+    "id": "21054",
+    "title": "Automatic updates??",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=21054",
+    "posts": [
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Hvað heitir processið sem poppar upp á 5 mín fresti og segir manni að restarta tölvunni? Langar að geta gert bara \"end process\" í Task Manager",
+            "date": "2009-01-14 19:28:00",
+            "post_id": "193882",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Vil ekkert vera að monta mig, en google er vinur minn  \n \n\"restart in 5 minutes disable\"\n\"http://www.coderetard.com/2008/12/10/how-to-disable-automatic-restart-after-windows-update/\"\nKóði: \nVelja allt\nXP Pro:\n# Click Start -> Run.\n# Type “gpedit.msc” without the quotes to open the group policy editor. Hit enter.\n# Navigate to Local Computer Policy -> Computer Configuration -> Administrative Templates -> Windows Components -> Windows Update.\n# Double click on “No auto-restart with logged on users for scheduled automatic updates installations” (it may be something similar depending on your service pack installed)\n# Select the “Enable” radio button. This disables the automatic restart after updating.\n# Click OK and close Group Policy.\nXP Home:\n1. Click on Start -> Run.\n2. Type “regedit” without the quotes. Hit enter.\n3. Navigate to HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\WindowsUpdate\\AU.\n4. Double click on the “NoAutoRebootWithLoggedOnUsers” registry key and set its DWord value to 1. If it does not exist, create it yourself by right clicking on the right window pane, selecting New -> DWORD Value. Then type in the same name and set its value data to 1.\nOg fyrir framtíðina:\nControl Panel > System > Automatic Update tab, og svo \"Blablabla but let me choose when to install them\"",
+            "date": "2009-01-14 19:54:00",
+            "post_id": "193886",
+            "reply_to_id": "193882"
+        },
+        {
+            "user_name": "viddi",
+            "text": "Fyrsta result á google\nhttp://www.codinghorror.com/blog/archives/000294.html",
+            "date": "2009-01-14 20:08:00",
+            "post_id": "193888",
+            "reply_to_id": "193886"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Takk fyrir svörin. Það var bara alveg stolið úr mér hvað ég gæti gúgglað",
+            "date": "2009-01-14 20:12:00",
+            "post_id": "193891",
+            "reply_to_id": "193888"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Ekki málið kaggl.",
+            "date": "2009-01-14 20:19:00",
+            "post_id": "193893",
+            "reply_to_id": "193891"
+        }
+    ],
+    "date": "2009-01-14 19:28:00"
+}

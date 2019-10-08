@@ -1,0 +1,51 @@
+{
+    "forum_title": "Þjónusta / Viðgerðir",
+    "id": "60891",
+    "title": "Skrítið vandamál",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=13&t=60891",
+    "posts": [
+        {
+            "user_name": "davidkef",
+            "text": "Ég ætla að lýsa þessu fyrir ykkur eins vel og eg get. Málið er að allir gluggar sem eg er með opna í tölvuni, þeir verða svona eins og eg sé búinn að ýta annarsstaðar á skjáinn og þarf að ýta aftur á þá til að virkja þá. Þetta gerist á nokkurra sek fresti. Til dæmis þegar eg er í einhverjum tölvuleik þá fer hann niður en það slökknar ekki á honum alveg þarf bara að ýta á hann aftur niðri í barnum til að fá hann upp, sem gerir það ómögulegt að spilatölvuleiki. Vonandi lýsti eg þessu nógu vel fyrir ykkur og vonandi getiði eitthvað hjálpað.\nFyrirfram þakkir. \n-Davíð",
+            "date": "2014-05-14 10:23:00",
+            "post_id": "561936",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "davidkef",
+            "text": "Vildi bara taka fram eg er búinn að prófa að restarta tölvuni og scann hana all með vírusvörn.",
+            "date": "2014-05-14 10:24:00",
+            "post_id": "561937",
+            "reply_to_id": "561936"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Opnaðu task manager og farðu yfir þau forrit sem eru í gangi. Slökktu á þeim, eitt í einu og þú munt líklega finna út hvaða forrit er að stela fókusnum.",
+            "date": "2014-05-14 10:29:00",
+            "post_id": "561939",
+            "reply_to_id": "561937"
+        },
+        {
+            "user_name": "davidkef",
+            "text": "Nú er ég búinn að prófa það sem þú sagðir en þetta er enþá svona.",
+            "date": "2014-05-14 10:56:00",
+            "post_id": "561942",
+            "reply_to_id": "561939"
+        },
+        {
+            "user_name": "davidkef",
+            "text": "Heyrðu pofaði þetta aftur og er búinn að komast að því að þetta er Wermgr.exe program sem blikkar alltaf á sama tima og vandamálið",
+            "date": "2014-05-14 23:23:00",
+            "post_id": "562033",
+            "reply_to_id": "561942"
+        },
+        {
+            "user_name": "davidkef",
+            "text": "Snilld Takk fyrir svarið AntiTrust eg er búinn að laga vandamálið. ætla að láta vita hvernig eg gerði það ef einhver lendir í þessu sjálfur.\nÉg fór í services.msc og disable-aði Windows Error Reporting Service. Og þetta lagaðist",
+            "date": "2014-05-14 23:28:00",
+            "post_id": "562034",
+            "reply_to_id": "562033"
+        }
+    ],
+    "date": "2014-05-14 10:23:00"
+}

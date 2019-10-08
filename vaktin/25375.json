@@ -1,0 +1,86 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "25375",
+    "title": "RAID spurning",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=25375",
+    "posts": [
+        {
+            "user_name": "razrosk",
+            "text": "Sælir ég er að spekúlíra hvort ég þurfi að fá mér RAID Controller ef mig langar að setja upp raid 0/1 ?\nÞað er einhvað innbyggt raid support/driver á móðurborðinu og stendur að það styður 0,1,5 og einhvað annað.\nSvo er ég að spá... ef ég þarf ekki þennan RAID Controller gæti einhver sagt hvort ég þarf að tengja hörðu diskana mína einhvernvegin öðuruvísi eða mega þeir bara vera tengdir eins og þeir eru í tölvunni núna? (Ég veit að maður þarf örugglega að fara inn í BIOSinn og breyta einhverju þar)\nEr alveg total newb þegar kemur að RAID  \nEr með 4 - 1t í vélinni.",
+            "date": "2009-10-05 12:58:00",
+            "post_id": "221415",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Notaðu bara RAID controllerinn sem er innbyggður á móðurborðinu, einfaldast. Gerir þér samt sem áður gren fyrir því að til þess að setja diska í RAID þarftu að búa til array/container, og til þess þarftu að formatta alla diskana.\nEdit : Mæli samt alls ekki með RAID 0 þar sem það er ekkert redundancy í því. Ef einn diskur hrynur í RAID-0 fara öll gögn í því array-i (allir diskarnir sem þú raidaðir saman) í fokk.\nRAID-1 er hinsvegar mikið gáfulegra, en kostnaðarsamt. Þú ert þá í rauninni bara með 2Tb pláss og svo 2Tb í redundancy/backup.\nRAID-5 finnst mér skynsamlegast - Þá má einn diskur hrynja án þess að hafa áhrif á gögnin, en til þess að fá array-ið í lag og sama hraða á data verður að setja annan disk í til þess að restora eðlilegt array.",
+            "date": "2009-10-05 13:10:00",
+            "post_id": "221416",
+            "reply_to_id": "221415"
+        },
+        {
+            "user_name": "razrosk",
+            "text": "Í RAID-1 er sama write/read performance eins og í RAID-0 eða? ég er aðalega að gera þetta til að fá hraðari write/read.\nOg er í fínu lagi að vera með RAID-5 .. mun CPU-in höndla þetta alveg ?",
+            "date": "2009-10-05 13:28:00",
+            "post_id": "221420",
+            "reply_to_id": "221416"
+        },
+        {
+            "user_name": "emmi",
+            "text": "Ef þú ert bara að hugsa um performance þá veluru RAID0, eða RAID10 ef þu tímir því.",
+            "date": "2009-10-05 13:34:00",
+            "post_id": "221421",
+            "reply_to_id": "221420"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "RAID-0 er hraðast hvað varðar read/write. RAID-1 er fínt í read en tiltölulega slow í write. RAID-5 er nokkuð hratt og í raun hraðara eftir því sem fleiri diskar eru í Array-inu, en líka lágmark að vera með 3diska í 5.\nHvað varðar CPU load á það ekki að koma málinu neitt við þar sem þú ert að notast við hardware RAID controller, ekki software.",
+            "date": "2009-10-05 13:47:00",
+            "post_id": "221424",
+            "reply_to_id": "221421"
+        },
+        {
+            "user_name": "emmi",
+            "text": "Hehe þessir móðurborðs controllerar eru sko ekki hardware RAID.",
+            "date": "2009-10-05 13:49:00",
+            "post_id": "221425",
+            "reply_to_id": "221424"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Fer það ekki eftir móðurborðum?\nEn ég hef alltaf notað standalone hardware controllera/kort, þekki lítið þessa innbyggðu.",
+            "date": "2009-10-05 14:04:00",
+            "post_id": "221426",
+            "reply_to_id": "221425"
+        },
+        {
+            "user_name": "emmi",
+            "text": "Hef ekki séð true hardware RAID í desktop móðurborðum ennþá, en þetta dugar alveg fyrir desktop vinnslu. Svo er alltaf hægt að kaupa RAID kort með innbyggðu minni og örgjörva, en það kostar líka sitt.",
+            "date": "2009-10-05 14:13:00",
+            "post_id": "221427",
+            "reply_to_id": "221426"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Allt \"alvöru\" kostar jú, \"alvöru\" pening \nEn með i7 920 skiptir þetta engu máli, overhead-ið af software RAID-i er bara eins og á venjulegu file-systemi.",
+            "date": "2009-10-05 14:14:00",
+            "post_id": "221428",
+            "reply_to_id": "221427"
+        },
+        {
+            "user_name": "razrosk",
+            "text": "Ok takk fyrir svörin :p ætla reyna græjja þetta í vikuni.\nps. hefur einhver reynslu af SSD og raid? er það nokkuð þess virði að gera það núna? ætti maður ekki að bíða þangað til að SSD koma í ~terabætum áður en maður fer að hugsa einhvað út í það '",
+            "date": "2009-10-05 15:44:00",
+            "post_id": "221437",
+            "reply_to_id": "221428"
+        },
+        {
+            "user_name": "emmi",
+            "text": "Verð á SSD er óraunhæft í dag, minnir að 120GB Colussus frá OCZ kosti í kringum 85k.",
+            "date": "2009-10-05 16:04:00",
+            "post_id": "221439",
+            "reply_to_id": "221437"
+        }
+    ],
+    "date": "2009-10-05 12:58:00"
+}

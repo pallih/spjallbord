@@ -1,0 +1,72 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "20605",
+    "title": "Private Linux Torrent Projectið *tek alla hjálp sem fæst*",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=20605",
+    "posts": [
+        {
+            "user_name": "Hyper_Pinjata",
+            "text": "Jæja...þá kom að því að maður er kominn á *ehem* Rock Bottom *ehem* í því að hanga heima,og vera í fjarnámi....svo að mig einfaldlega vantar eitthvað svona....Auka....svo að mér datt þá í hug að byrja með lítinn private (5-10 manna) torrent tracker...en hann verður á tölvu sem notast við Linux....einhverja útgáfu þá og helst einhverja sem er með svona eins og windows viðmóti....en hér koma spekkarnir á tölvunni sem mun hýsa \"trackerinn/síðuna\".\nKassi: Cheftec Dragon 3 Mini-Middle (Hvítur)...tekur ATX & µATX Móðurborð.\nAflgjafi: einhver gamall 300w úr skápnum hjá mér.\nMóðurborð: Shuttle AN35N-Ultra.\nÖrgjörvi: AMD Athlon XP (Barton) 3200+ [er ekki búinn að ákveða hvað ég ætla að láta hann vera á mörgum mhz/ghz ennþá].\nMinni: DRAM MASTER 512mb ddr400 PC3200 @ CLS 3.0.\nSkjákort: Nvidia Geforce 6600GT (til að minnið fái að \"njóta sín\").\nHarður Diskur: Western Digital Caviar (Special Edition) 80GB **IDE Diskur**.\nGeisladrif: \"eitthvað\" Writemaster dvd-drif.\n---------------------------------------------------------\nLinux sem tölvan á að nota: ekki ákveðið,komið með hugmyndir....*verður að hafa eitthvað svona \"viðmót\" eins og Windows*.\nForrit fyrir serverinn: ekki hugmynd hvaða forrit ég ætla að nota í hann....\nTorrentTrackerinn: RivetCode eða OpenTracker.\nAnnað: neibb....held ekki...en lokaða síðan/trackerinn verður á 96kbps (ætti að duga fyrir svona fáa).",
+            "date": "2008-12-21 02:48:00",
+            "post_id": "190673",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Sydney",
+            "text": "Ubuntu 8.04 er málið myndi ég segja.",
+            "date": "2008-12-21 03:09:00",
+            "post_id": "190675",
+            "reply_to_id": "190673"
+        },
+        {
+            "user_name": "Nariur",
+            "text": "og ekki 8.10 af því að....",
+            "date": "2008-12-21 04:20:00",
+            "post_id": "190676",
+            "reply_to_id": "190675"
+        },
+        {
+            "user_name": "Dagur",
+            "text": "8.04 er með LTS sem þýðir að þú getur fengið support fyrir það töluvert lengur en 8.10 en ef þú er týpan sem uppfærir alltaf þegar það kemur ný útgáfa þá skiptir það ekki máli.\nSvo er annað, þetta er ansi öflug tölva fyrir verkið, áttu ekki einhvern gamlan jálk sem hentar betur?",
+            "date": "2008-12-21 10:24:00",
+            "post_id": "190678",
+            "reply_to_id": "190676"
+        },
+        {
+            "user_name": "Sydney",
+            "text": "Síðan er 8.04 miklu meira stable, og hentar betur í svona server-ish verk.",
+            "date": "2008-12-21 12:06:00",
+            "post_id": "190682",
+            "reply_to_id": "190678"
+        },
+        {
+            "user_name": "Zorba",
+            "text": "Ég held að DC hub virki betur fyrir svona fáa\nOg ég mæli alltaf með Debian sem server OS",
+            "date": "2008-12-21 13:56:00",
+            "post_id": "190695",
+            "reply_to_id": "190682"
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "akkúrat.\nDC + debian distróin. ubuntu þess vegna fyrir svona serveröryrkja \n \nUbuntu server er meira segja aðeins of flókinn fyrir þig, myndi bara setja upp ubuntu 8.10.",
+            "date": "2008-12-21 14:39:00",
+            "post_id": "190699",
+            "reply_to_id": "190695"
+        },
+        {
+            "user_name": "dezeGno",
+            "text": "Ubuntu 8.* server edition er bara console viðmót. Þannig að ef þú vilt hafa grafísk viðmót eins og windows þá tekuru desktop edition, en það kemur niður á performance á server af því að þá ertu a keyra upp helling af dóti sem að server þarf ekki. Einnig ef þú veluru ubuntu, þá vil ég benda á \nhttp://ubuntuforums.org/\n mjög gott support fyrir þetta os og þess vegna valdi ég einmitt það yfir önnur server os eins og freebsd.",
+            "date": "2008-12-21 16:17:00",
+            "post_id": "190708",
+            "reply_to_id": "190699"
+        },
+        {
+            "user_name": "Hyper_Pinjata",
+            "text": "Hugsanlega búinn að breyta spekkunum pínu \nAflgjafi: 350w\nmóðurborð: MSI K8N Neo4-F\nÖrri: AMD Athlon 3500+ @ 2.2ghz\nMinni: 1gb Supertalent CLS 2.0 ddr400 @ 200mhz\nSkjákort: Nvidia 7600GT PCI-E 256mb\nHarður Diskur: 120gb + hugsanlega einn 320gb með...\nég ætla ekki að gera dchubb...vill frekar gera TorrentTracker...dc++ er svo leiðinlegt eitthvað....ég stóð hinsvegar í því frá 2002 eða 2003 til 2005 og nennti því svo ekki lengur...var btw með hub sem hét Athvarfið...",
+            "date": "2008-12-29 06:08:00",
+            "post_id": "191615",
+            "reply_to_id": "190708"
+        }
+    ],
+    "date": "2008-12-21 02:48:00"
+}

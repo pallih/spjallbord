@@ -1,0 +1,177 @@
+{
+    "forum_title": "Þjónusta / Viðgerðir",
+    "id": "30302",
+    "title": "Bios update vandamál",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=13&t=30302",
+    "posts": [
+        {
+            "user_name": "birgirdavid",
+            "text": "Hæ heyrðu ég var að update-a biosinn í tölvunni minni og það failaði einhvað og svo núna þegar ég kveiki á tölvunni þá kemur ekkert og þá er ekki að tala um að það komi einhvað heldur ekki neitt svo vitiði hvað ég get gert ?",
+            "date": "2010-05-20 17:17:00",
+            "post_id": "262776",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Mjög lílkega er borðið ónýtt en ekki örvænta en gerðu samt ráð fyrir því  \n \nHvernig móðurborð er þetta, kanski er eitthvað hægt að gera?",
+            "date": "2010-05-20 17:24:00",
+            "post_id": "262778",
+            "reply_to_id": "262776"
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Hvernig tölva er þetta? Hvaða týpa? Hvernig bios (ami/award/phoenix) er þetta? Búinn að reseta CMOS?",
+            "date": "2010-05-20 17:25:00",
+            "post_id": "262779",
+            "reply_to_id": "262778"
+        },
+        {
+            "user_name": "birgirdavid",
+            "text": "ok \n  en það koma einhver ljós á móðurborðið þegar ég kveiki á henni\nþetta er Gigabyte H55M-UD2H móðurborð",
+            "date": "2010-05-20 17:28:00",
+            "post_id": "262780",
+            "reply_to_id": "262779"
+        },
+        {
+            "user_name": "birgirdavid",
+            "text": "þetta er tölvan : \nhttp://tolvutaekni.is/product_info.php? ... ts_id=1508\ner ný búinn að kaupa hana og nei ég er ekki búinn að reseta CMOS veit einu sinni ekki hvernig á að gera það :S",
+            "date": "2010-05-20 17:30:00",
+            "post_id": "262782",
+            "reply_to_id": "262780"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "ef þú kannt ekki að resetta cmos, þá ættirðu ekkert að vera að fikta við að flassa bios.\nTil þess að resetta cmos, þá tekurðu tölvuna úr sambanda og tekur batteríið úr móðurborðinu í nokkrar mínútur.\nEfast samt um að hún lagist við það. Líklega búinn að breyta móðurborðinu í bréfapressu.\nFarðu bara með vélina upp í tölvutækni og fáðu þá til að kíkja á þetta.",
+            "date": "2010-05-20 17:50:00",
+            "post_id": "262786",
+            "reply_to_id": "262782"
+        },
+        {
+            "user_name": "andribolla",
+            "text": "eithverstaðar sjá ég nú skrifað ... \nef biosin virkar...\n EKKI\n \nreyna\n að uppfæra hann.",
+            "date": "2010-05-20 17:52:00",
+            "post_id": "262787",
+            "reply_to_id": "262786"
+        },
+        {
+            "user_name": "Cikster",
+            "text": "Ef bios væri bilaður væri móðurborðið búið að ræsa af backup bios sem er á móðurborðinu.\nMóðurborðið er einfaldlega að setja myndina á onboard skjástýringuna.\nÞarft bara að tengja skjáinn við tengin sem eru á móðurborðinu og breyta stillingunum í bios þannig að sýni fyrst mynd á PCI-Express skjákortinu þínu.\nÞegar þú uppfærðir biosinn fór hann í upprunalega stillingar þannig að þú getur hætt að svitna núna.",
+            "date": "2010-05-20 17:54:00",
+            "post_id": "262789",
+            "reply_to_id": "262787"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Ertu með skjáinn tengdann í rétt tengi?\nEf svo er, er þetta eitthvað sem þú getur prufað en mæli sterklega ekki með því.\n1. Takka power kapallinn úr sambandi\n2. Taka batteríið úr\n3. Þetta er mynd af móðurborðinu þínu, gula línan er utan um CLEAR CMOS \"takkan\" \nviltu virkilega stúta ábyrgðinni ef þú gerir þetta vitlaust? Farðu með tölvuna til tölvutækni, láttu þá kippa þessu í lið fyrir þig á notime!",
+            "date": "2010-05-20 18:02:00",
+            "post_id": "262792",
+            "reply_to_id": "262789"
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Móðurborðið er með 2 physical BIOS-a þannig það ætti að vera hægt að recovera bad flash.  Ef þetta dual bios dót virkar ekki þá er etv. hægt að nota almenna bios recovery aðferð (þetta sýnist mér vera award bios sem hægt er að recoverya með floppy)",
+            "date": "2010-05-20 18:03:00",
+            "post_id": "262794",
+            "reply_to_id": "262792"
+        },
+        {
+            "user_name": "mattiisak",
+            "text": "taktu batterýið úr það lagar svona problem oft,\nannars þegar svona kemur fyrir er það yfirleitt ekki eins og fólk heldur að skjárinn eða skjákortið sé að faila, \nheldur Minnin eða aflgjafinn í flestum tilvikum. Eða bara taka batteríið úr móðurborðinu,  ef þú treystir þér ekki í það\nþá geturu prufað að taka straumkapalinn úr sambandi og halda power takkanum inni í 15-20 sec og sjá hvað skeður",
+            "date": "2010-05-20 18:13:00",
+            "post_id": "262799",
+            "reply_to_id": "262794"
+        },
+        {
+            "user_name": "mattiisak",
+            "text": "eða hlusta á þenna gaur",
+            "date": "2010-05-20 18:18:00",
+            "post_id": "262800",
+            "reply_to_id": "262799"
+        },
+        {
+            "user_name": "mercury",
+            "text": "Notaðir þú ekki Q-flash ? ég lenti einhvern tíman í því að það virkaði ekki að updatea bios þar en það gerðist svosem ekkert. komst svo að því að ég var ekki með bios fyrir rétta týpu af borðinu. ég var að reyna að updatea með bios fyrir rev 1.0 en ég var með 1.6 borð. getur tékkað á þessu.",
+            "date": "2010-05-20 18:18:00",
+            "post_id": "262801",
+            "reply_to_id": "262800"
+        },
+        {
+            "user_name": "birgirdavid",
+            "text": "nei ég notaði einhvað forrit sem var á cd diski sem fylgdi tölvunni og gæti þetta verið útaf því að þegar að ég var að update-a biosinn og nefninlega rafmagnið fór út hjá mér og þetta var komið upp í 35 prósent gæti þetta verið útaf því ?",
+            "date": "2010-05-20 18:29:00",
+            "post_id": "262806",
+            "reply_to_id": "262801"
+        },
+        {
+            "user_name": "Cikster",
+            "text": "Ef rafmagn fer af meðan þú ert að uppfæra bios þá einmitt nær hún ekki að klára að uppfæra hann. Backup biosinn hefði annars átt að vera búinn að taka yfir og laga kubbinn sem mistókst að flasha.\nÞað sem ég mundi prófa er að kveikja á henni og hafa hana í gangi í 5-10 mínútur (vona að backup biosinn lagi þennan bilaða)\nEf það er ekki nóg mundi ég prófa \"resetta cmos\" (allar upplýsingar í bæklingnum sem fylgdi móðurborðinu og einnig fáanlegt á heimasíðu gigabyte).\nEf þetta er enn ekki farið að virka taktu þá annan minniskubbinn úr (gæti virkað). Ef þetta virkar þá þarf sennilega stilla voltin á minninu.\nEf svo ólíklega vill til að er ennþá ekki að kveikja á sér taktu þá skákortið úr og athugaðu hvort onboard virkar þá.",
+            "date": "2010-05-20 18:36:00",
+            "post_id": "262808",
+            "reply_to_id": "262806"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Ef þú resetar Cmos þá missiru upplýsingar um recovery bios. Gæti verið að búnaðurinn sem á að skynja bilaðan bios sé eitthvað að klikka.",
+            "date": "2010-05-20 18:54:00",
+            "post_id": "262811",
+            "reply_to_id": "262808"
+        },
+        {
+            "user_name": "birgirdavid",
+            "text": "ok ég tók samt bara batterýið úr og setti það aftur í",
+            "date": "2010-05-20 18:59:00",
+            "post_id": "262812",
+            "reply_to_id": "262811"
+        },
+        {
+            "user_name": "mattiisak",
+            "text": "prufaðu allavegana að hringja og segðu þeim að rafmagnið hafi farið af þegar þú varst að uppfæra bios og sjáðu hvað þeir segja",
+            "date": "2010-05-20 19:01:00",
+            "post_id": "262813",
+            "reply_to_id": "262812"
+        },
+        {
+            "user_name": "birgirdavid",
+            "text": "ok heyrðu takk fyrir öll svörin en ég held að ég fari bara með hana í viðgerð staðin fyrir að ég sé að gera þetta og klúðra einhverju ennþá meira",
+            "date": "2010-05-21 08:13:00",
+            "post_id": "262929",
+            "reply_to_id": "262813"
+        },
+        {
+            "user_name": "birgirdavid",
+            "text": "heyrðu ég hringdi í þá í dag og þeir sögðu að ég þyrfti bara að kaupa nýtt móðurborð :S",
+            "date": "2010-05-22 01:54:00",
+            "post_id": "263070",
+            "reply_to_id": "262929"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Kemur það á óvart? \nNema BIOS update-ið sjálft (ROM-ið) hafi verið gallað frá framleiðanda ertu ekki í neinum rétti. Þetta er ástæðan fyrir tugunum af warning gluggunum sem koma áður en þú flashar, og einn af þeim segir \"Ertu alveg viss um hvað þú ert að gera?\"\nEkki gera neitt ef maður getur ekki svarað þeirri spurningu játandi.",
+            "date": "2010-05-22 12:21:00",
+            "post_id": "263095",
+            "reply_to_id": "263070"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Blessaður,\nég talaði við þig í símann í gær og því miður þá er líklegast miðað við það sem þú varst búinn að prófa að þú þyrftir að skipta út móðurborðinu.  Bauð þér samt að koma með það til okkar og að við myndum líta á það og sjá hvort eitthvað væri hægt að gera en vildi samt ekki vera að gefa þér falskar vonir, því það eru ágætis líkur á að móðurborðsskipti séu lokaniðurstaðan.\nSvo eins og ég nefndi við þig í símann gætum við skoðað með afslátt á nýja borðinu þar sem þetta er auðvitað hundleiðinlegt mál \nÞú verður í sambandi og við reynum að tækla þetta á einhvern góðan máta \nBeztu kveðjur og óskir um góða helgi,\nKlemmi\nTölvutækni",
+            "date": "2010-05-22 12:24:00",
+            "post_id": "263096",
+            "reply_to_id": "263095"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Virkar þetta Dual-BIOS þá ekkert eða?",
+            "date": "2010-05-22 14:17:00",
+            "post_id": "263105",
+            "reply_to_id": "263096"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Í sumum tilfellum skynjar recovery BIOSinn ekki að hinn sé bilaður og fer því ekki að vinna í því að rétta hann.  Hins vegar eru mun meiri líkur á að ná að lagfæra bilaðan BIOS á borðum sem eru með dual-bios heldur en þeim sem hafa aðeins stakan, en þú ert aldrei 100% öruggur um að geta lagfært misheppnaða BIOS uppfærslu \nÞað er möguleiki á að við náum að lagfæra þetta en ég vil aldrei gefa viðskiptavinum of háar vonir þar sem maður getur fengið það í hausinn.  Frekar útskýrir maður worst case scenario en lætur samt vita að þetta geti gengið betur en það.  Þá er viðskiptavinurinn undirbúinn en verður bara ánægður ef maður sleppur með betri lausn",
+            "date": "2010-05-22 15:41:00",
+            "post_id": "263111",
+            "reply_to_id": "263105"
+        }
+    ],
+    "date": "2010-05-20 17:17:00"
+}

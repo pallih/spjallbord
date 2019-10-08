@@ -1,0 +1,114 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "9247",
+    "title": "Dual gigabit lan, af hverju?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=9247",
+    "posts": [
+        {
+            "user_name": "Stutturdreki",
+            "text": "Tengja tölvuna á tvö mismunandi net?",
+            "date": "2005-12-09 09:16:00",
+            "post_id": "99784",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gnarr",
+            "text": "láta  mikilvægann server fá tvöfaldabandvídd við gigabit net?",
+            "date": "2005-12-09 09:30:00",
+            "post_id": "99788",
+            "reply_to_id": "99784"
+        },
+        {
+            "user_name": "tms",
+            "text": "because they could!",
+            "date": "2005-12-09 11:08:00",
+            "post_id": "99794",
+            "reply_to_id": "99788"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Fer eftir því hvað þú ert að láta serverinn gera, rétt?\n\n\n\nÞú getur tengst sérstaklega inn á sitthvort interfaceið og látið það gera sitthvoran hlutinn á fullum hraða.\n\n\n\nEf þú værit td. að kópera 100GB ská milli tveggja servera sem væru báðir tengdir með tveim 1Gb lan tenginum þá myndirðu bara nota aðra tenginuna til þess.\n\n\n\nÞað er náttúrulega fyrir utan þetta smá vandamál að hardwareið í servernum getur ekki dælt út úr sér 1Gb á sekúndu..",
+            "date": "2005-12-09 13:39:00",
+            "post_id": "99801",
+            "reply_to_id": "99794"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "það er ekkert mál að dæla vel rúmlega 1Gbps af ramdrifi",
+            "date": "2005-12-09 14:03:00",
+            "post_id": "99803",
+            "reply_to_id": "99801"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "já.. ramdrive er bara \"fake\" harðurdiskur í vinsluminninu.",
+            "date": "2005-12-09 14:07:00",
+            "post_id": "99805",
+            "reply_to_id": "99803"
+        },
+        {
+            "user_name": "hilmar_jonsson",
+            "text": "Svo ég komi mér inn í þetta.\n\n\n\nhttp://www.tomshardware.com/2005/12/05/hyperos_dram_hard_drive_on_the_block/",
+            "date": "2005-12-09 14:14:00",
+            "post_id": "99807",
+            "reply_to_id": "99805"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Ég las reyndar einhverja grein eftir Mastersnema í MIT sem voru að skoða hvort 1Gb network væri raunhæft og þeir komust að því að bottleneckið væri businn í tölvuni.",
+            "date": "2005-12-09 14:56:00",
+            "post_id": "99809",
+            "reply_to_id": "99807"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "hvað eru margar tölvur á netinu þínu?  Ef þú ert bara með eina tölvu tengda við adsl módem/router þarftu í mestalagi að hafa 10Mb tenginu \n.. Kannski 100Mb ef þú skyldir vera með 12Mb adsl tenginu..",
+            "date": "2005-12-09 15:34:00",
+            "post_id": "99813",
+            "reply_to_id": "99809"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "ekki ef maður er að fara að streama DVD eða færa fleiri GB af gögnum milli tölvna..\n\n\n\nþú mátt ekki gleyma því að 10MBps er bara örlítið hraðara en flestar internet tengingar í dag.",
+            "date": "2005-12-09 16:08:00",
+            "post_id": "99815",
+            "reply_to_id": "99813"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Er maður alki ef maður drekkur bjór í vinnunni tvo daga í röð?",
+            "date": "2005-12-09 16:19:00",
+            "post_id": "99816",
+            "reply_to_id": "99815"
+        },
+        {
+            "user_name": "Blackened",
+            "text": "Neinei.. ekkert að því",
+            "date": "2005-12-09 16:31:00",
+            "post_id": "99819",
+            "reply_to_id": "99816"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Mbit !!",
+            "date": "2005-12-09 16:34:00",
+            "post_id": "99820",
+            "reply_to_id": "99819"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Bæði full-dublex? :O Shæt þá gæti ég verið að uploada og downloada á 2Gb hraða samtímis. :O",
+            "date": "2005-12-09 18:33:00",
+            "post_id": "99832",
+            "reply_to_id": "99820"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Þú og hvaða 2Gb internettengin?",
+            "date": "2005-12-09 22:45:00",
+            "post_id": "99848",
+            "reply_to_id": "99832"
+        }
+    ],
+    "date": "2005-12-09 09:16:00"
+}

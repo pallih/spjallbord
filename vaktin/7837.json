@@ -1,0 +1,93 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "7837",
+    "title": "Feluleikur",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=7837",
+    "posts": [
+        {
+            "user_name": "z1m",
+            "text": "Ég keypti mér um daginn WD 250 GB SATA og er ég frétti að hann hafi komið niður á pósthús dreif ég mig þangað og borgaði póstkröfuna. Er ég kom heim sveittur eftir hlaupin dreif ég mig í því að slökkva á tölvunni og tengja hann við móðurborðið og aflgjafnn, ekkert mál með það. Svo þegar ég kveiki á tölvunni og er kominn inn í Windows finn ég ekki diskinn. Hann einfaldlega vill ekki láta sjá sig. Ég hef meira að segja reynt að uppfæra drivera en ekkert gengur þetta. Þannig að ég ákvað að skrifa reynslusögu mína hérna og velta fyrir mér þeirri spurningu: \"Hvað get ég eiginlega gert?\". Ég er ekki vanur SATA þar sem allir mínir fyrrverandi harðir diskar hafa verið IDE og er nýr í þessum geira. Þannig að ég vona að ágæta fólkið hérna gæti leiðbeint mér.",
+            "date": "2005-04-02 00:33:00",
+            "post_id": "83428",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "hallihg",
+            "text": "Er þetta ekki bara þetta klassíska, windows sér ekki diska stærri en 100gb nema þú sért með sp2. En þarftu ekki líka að formatta diskinn í gegnum device manager og það allt áður en þú 'sérð' hann á þann hátt að þú getir notað hann?",
+            "date": "2005-04-02 01:05:00",
+            "post_id": "83429",
+            "reply_to_id": "83428"
+        },
+        {
+            "user_name": "z1m",
+            "text": "Það er nefnilega það, ég sé hann ekkert í disk management. En reyndar er ég ekki með SP2 heldur SP1. Ég er frekar hræddur við SP2. Slæm reynsla.",
+            "date": "2005-04-02 01:12:00",
+            "post_id": "83430",
+            "reply_to_id": "83429"
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "Athugaðu hvort að SATA sé ekki virkt í BIOSnum og athugaðu hvort að hann sé ekki örugglega rétt tengdur.\n\n\n\nEf það virkar ekki, installaðu þá SP2.",
+            "date": "2005-04-02 09:53:00",
+            "post_id": "83440",
+            "reply_to_id": "83430"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Windows á alveg að sjá diskinn þótt hann sé stærri, leyfir bara ekki að nota meira en 127 Mb af honum.. var lagað í einhverjum SP.\n\n\n\nÞað fyrsta sem þú þarft að gera er að sjá hvort diskurinn sést í BIOS.  Ef diskurinn sést ekki í BIOS hefur þetta ekkert með Windows að gera heldur er diskurinn ekki rétt tengdur eða það er eitthvað vesen á SATA hjá þér.",
+            "date": "2005-04-02 10:35:00",
+            "post_id": "83447",
+            "reply_to_id": "83440"
+        },
+        {
+            "user_name": "ponzer",
+            "text": "127gb",
+            "date": "2005-04-02 12:36:00",
+            "post_id": "83460",
+            "reply_to_id": "83447"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Það er akkurat ekkert að óttast við að setja upp sp2 hann virkar smooth.",
+            "date": "2005-04-02 13:41:00",
+            "post_id": "83469",
+            "reply_to_id": "83460"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "127\nGB\n \n\n\n\n\nAnnars sagði Stutturdreki ákkúrat það sem ég ætlaði að segja...",
+            "date": "2005-04-02 14:23:00",
+            "post_id": "83482",
+            "reply_to_id": "83469"
+        },
+        {
+            "user_name": "z1m",
+            "text": "Þakka ykkur fyrir svörin ykkar. Þetta gekk allt upp.\n\nÞökk.",
+            "date": "2005-04-02 15:40:00",
+            "post_id": "83491",
+            "reply_to_id": "83482"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "hvernig leistiru þetta?",
+            "date": "2005-04-02 19:43:00",
+            "post_id": "83512",
+            "reply_to_id": "83491"
+        },
+        {
+            "user_name": "galileo",
+            "text": "Vinur minn lenti í þessu sama en það var afþví að hann tengdi venjulegt 4 pin  aflgjafatengið í hddin en Þegar hann tengdi hann med sata aflgjafatenginu(veit eeekkert hvað þetta heitir \n ) Þá virkaði diskurinn. \n\n\n\n\np.s. sumir aflgjafar hafa ekki svona sata aflgjafa tengi (sem ég kalla það).Þá er hægt að fara og kaupa það útí task eða einhvað.",
+            "date": "2005-04-03 20:38:00",
+            "post_id": "83632",
+            "reply_to_id": "83512"
+        },
+        {
+            "user_name": "zedro",
+            "text": "Þetta var nú bara eitt mest óþarfabréf ever.",
+            "date": "2005-04-07 14:42:00",
+            "post_id": "84220",
+            "reply_to_id": "83632"
+        }
+    ],
+    "date": "2005-04-02 00:33:00"
+}

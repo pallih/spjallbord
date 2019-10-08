@@ -1,0 +1,93 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "37614",
+    "title": "Færa stýrikerfið yfir á annað drif í tölvunni",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=37614",
+    "posts": [
+        {
+            "user_name": "Danni V8",
+            "text": "Gott kvöld gott fólk.\nÉg var að setja nýtt drif í fartölvuna hans pabba, 256gb samsung SSD. Þurfti að panta nýtt bracket og tengi til að geta sett annað drif í, bara vesen!\nAllavega, það er ekki málið. Drifið er nú komið í tölvuna og allt virkar vel, en mig langar til þess að færa stýrikerfis uppsetninguna yfir á SS drifið og láta tölvuna boota af því drifi svo að allt verði nú miklu hraðskreiðara í tölvunni fyrir vikið.\nÞví kem ég hingað til ykkar, í þeirri von um að fá góða aðstoð.\nTölvan sem um ræðir er Dell Studio 1737, með 1x 500gb HDD og 1x 256gb SSD.\nSvona er staðan á diskunum núna:\n(Þakka \nKjarna.cc\n fyrir fríu myndahýsinguna!)\nGet ég fært öll stýriskerfisgögn yfir á SS drifið og stilt BIOS til að boota fyrst af því drifi, og allt virkar?\nEf ekki, hvernig yrði best að fara að þessu? Þarf ég að taka backup af öllu yfir á flakkara, tæma nóg af 500gb disknum til að það fyllir ekki meira en kemst á 256gb drifið og síðan einhvernveginn clone-a 500gb diskinn yfir á hinn?\nHvernig er best að clone-a á milli diska og hvernig fer það með partition?\nKveðja með von um góð svör,\nDanni.",
+            "date": "2011-04-05 21:59:00",
+            "post_id": "338001",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "dori",
+            "text": "Ef þú sníður fituna af boot drifinu sem þú ert með núna (þannig að það fari undir 200GB) þá gætirðu afritað það beint yfir á SSD drifið. Það var umræða um forrit fyrir slíkt fyrir nokkrum dögum, minnir að eitthvað sem var bent á heiti clonezilla.",
+            "date": "2011-04-05 22:07:00",
+            "post_id": "338007",
+            "reply_to_id": "338001"
+        },
+        {
+            "user_name": "gardar",
+            "text": "",
+            "date": "2011-04-05 22:09:00",
+            "post_id": "338008",
+            "reply_to_id": "338007"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Eftir því sem ég bezt veit býður Clonezilla ekki upp á að clone-a yfir á minna partition þrátt fyrir að used-space passi.\nAð öðru leiti er það forrit algjör unaður.\nMyndi prófa Acronis ef Clonezilla virkar ekki",
+            "date": "2011-04-05 22:41:00",
+            "post_id": "338019",
+            "reply_to_id": "338008"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Ef ég geri þetta svona, ss. clone-a boot drifið á SSD, þarf ég þá að delete-a því af gamla boot drifinu eftir það?\nAnnað, þegar ég boota síðan með SSD sem first option, kemur það sem C drifið eða F drifið áfram? Upp á registry og þannig lagað..",
+            "date": "2011-04-05 22:42:00",
+            "post_id": "338020",
+            "reply_to_id": "338019"
+        },
+        {
+            "user_name": "krukkur_dog",
+            "text": "viewtopic.php?f=27&t=37313",
+            "date": "2011-04-05 22:42:00",
+            "post_id": "338021",
+            "reply_to_id": "338020"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Væri ekki hægt að komast framhjá þessu með að fara minnka plássið sem diskurinn þarf í undir 200gb og fara síðan í disk management, hægri klikka á 450gb partitionið og velja Shrink Volume og minnka í  ca 210gb?",
+            "date": "2011-04-05 22:45:00",
+            "post_id": "338022",
+            "reply_to_id": "338021"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Það má reyna það, en persónulega er ég skíthræddur við að fikta með stýrikerfispartitionið eftir að ég prófaði að shrink-a það hjá mér í disk management, það failaði af einhverjum ástæðum og neitaði að vera bootable eftir það  \n \nHefði mögulega mátt redda því á einhvern hátt en ég var ekki með neitt mikilvægt svo ég straujaði bara og setti upp á nýtt",
+            "date": "2011-04-05 22:52:00",
+            "post_id": "338025",
+            "reply_to_id": "338022"
+        },
+        {
+            "user_name": "addi12",
+            "text": "En gæti verið að það virki að delete-a óþarfa hlutum af 450 gb disknum og búa svo til system image og save-a t.d. á flakkara,\nloada svo tölvunni upp með win7 disknum og setja image-ið upp á nýja diskinn?\nkannski er þetta of mikið vesen en þetta er allavega hugmynd",
+            "date": "2011-04-23 22:04:00",
+            "post_id": "343085",
+            "reply_to_id": "338025"
+        },
+        {
+            "user_name": "Tiger",
+            "text": "Einhver ástæða fyrir því að þú setjir ekki bara upp clean install á SSD diskinn?\nÉg prívat og persónulega myndi aldrei fara þessa leið að clona stýrikerfi af HDD yfir á SSD. Ég myndi alltaf setja clean install á SSD diskinn. Þá setur W7 þetta allt rétt um og ekkert vesen (réttar partion-in, alignment, clustera og hvað sem þetta allt heitir). Þú átt öll gögn hvort eð er á 450GB disknum.",
+            "date": "2011-04-23 22:51:00",
+            "post_id": "343117",
+            "reply_to_id": "343085"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Veit að ég er að bömpa gamlan þráð en ég er loksins að fara að vinna í þessu núna.\nEn ég hafði hugsað mér að clone-a bara stýriskerfisdiskinn yfir og boota síðan af stýriskerfisdisknum og fara í repari og þá ætti stýrikerfið að fara rétt upp fyrir SSD.\nEn ástæðan fyrir því að ég get ekki gert clean install er vegna þess að ég á bara OEM disk af stýrikerfinu og svo best sem ég veit þá er ekki hægt að gera clean install af þannig, og ef það er hægt þá get ekki activate-að stýrikerfið aftur.\nEr það kannski bara bölvuð vitleysa í mér?\nEf það er hægt að gera clean install af OEM diski og activate-a það, verður ekkert vesen með að kveikja á tölvunni, mun hún ekki alltaf gefa mér valmöguleika á tveim stýrikerfum? Því sem er á 500gb disknum og því sem eru á ssd disknum? Þó að ég delete-a Windows af 500gb disknum eftir að ég set það upp á hinum...",
+            "date": "2011-05-31 19:50:00",
+            "post_id": "352500",
+            "reply_to_id": "343117"
+        },
+        {
+            "user_name": "aevar86",
+            "text": "Ég var einmitt að skoða þetta um daginn og fann þá þessa aðferð:\nhttp://www.howtogeek.com/howto/19141/cl ... u-live-cd/\nHef ekki testað þetta sjálfur ennþá, en hef heyrt að þetta dugi vel.\nGetur þá víst gert:\ndd if=/dev/sda count=210000000 of=/dev/sdb\ntil að kópía ~210Gb af drifi a yfir á drif b.. þarft væntanlega nákvæmari tölu en þetta samt.",
+            "date": "2011-05-31 19:56:00",
+            "post_id": "352501",
+            "reply_to_id": "352500"
+        }
+    ],
+    "date": "2011-04-05 21:59:00"
+}

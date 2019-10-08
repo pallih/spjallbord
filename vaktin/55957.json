@@ -1,0 +1,93 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "55957",
+    "title": "Greasemonkey skripta fyrir elko.is :)",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=55957",
+    "posts": [
+        {
+            "user_name": "rango",
+            "text": "Þetta er Greasemonkey skripta fyrir elko.is, Og skiptir út \nKóði: \nVelja allt\n\"javascript:set_url('/hljod_og_mynd')\"\nfyrir\nKóði: \nVelja allt\n\"http://www.elko.is/hljod_og_mynd\"\nhttp://julius.fjeldsted.is/files/js/elkofix.user.js\nEf þú ert með greasemonkey þá á þessi linkur að virka.\nÞetta hefur engin áhrif á síðuna s.s. perfomance allavega ekki hjá mér.\nÉg leitaði hérna og fann ekkert, Bjóst eiginlega við því að það væri búið að þessu.\nÞetta er ósköp einfalt, regex match á alla A linka.\nKóði: \nVelja allt\nvar a, links;\n//I'm selecting everything that has content between (' and  ') OR ',\nvar pattern = \"'(.*?)'|',\";\n//I'm grabbing all a, It's only 10-20 +- give or take, And fetching individual class names and running them down is likely more expensive.\n//It's div after div after div before i get to any link.\nlinks = document.getElementsByTagName('a');\nfor (var tick = 0; tick < links.length; tick++) {\n    try\n    { \n        a = links[tick];\n        a.href = a.href.match(pattern)[1];\n    }\n    catch(err)\n    {\n        //Only errors are going to be about [1] being null, \n        //Don't judge me! You don't know the horrors.\n    }\n    \n}",
+            "date": "2013-07-09 06:28:00",
+            "post_id": "519055",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "fallen",
+            "text": "Kúl, gott að geta tab-browsað elko núna. Takk.",
+            "date": "2013-07-09 09:24:00",
+            "post_id": "519062",
+            "reply_to_id": "519055"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Kunningi minn var búinn að græja Chrome Extension sem gerir nákvæmlega þetta :-)\nhttps://chrome.google.com/webstore/deta ... eeajljfofh",
+            "date": "2013-07-09 10:04:00",
+            "post_id": "519066",
+            "reply_to_id": "519062"
+        },
+        {
+            "user_name": "fannar82",
+            "text": "Er það samt ekki smá fail að vera með eina stæðstu raftækjaverslun á íslandi og geta ekki haldið uppi netverslun sem er ekki \"broken as fuc*\"\nÞetta pirrar mig næstum því jafnmikið og \"útkommentaði javascript kóðinn sem er út um allt á vísi\"",
+            "date": "2013-07-09 10:12:00",
+            "post_id": "519067",
+            "reply_to_id": "519066"
+        },
+        {
+            "user_name": "rango",
+            "text": "Þetta er fail from the start þú skiptir ekki href linkum út fyrir window.location= wtf?",
+            "date": "2013-07-09 12:39:00",
+            "post_id": "519085",
+            "reply_to_id": "519067"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Það ætti náttúrulega að hringja í Heimsmetabók Guinnes og benda þeim á þessa síðu, enda líklega verst hannaða og kóðaða síða í manna minnum.\nHef aldrei séð aðra eins dulkóðun á eins ómerkilegum hlut og vöru á vefsíðu:\nKóði: \nVelja allt\nhttp://www.elko.is/elko/product_detail/?ew_10_p_id=120224&serial=BDVE190&ec_item_14_searchparam5=serial=BDVE190&ew_13_p_id=120224&ec_item_16_searchparam4=guid=d3cd4d6b-b382-4fa2-a4b3-45dca9b6af36&product_category_id=759&ec_item_12_searchparam1=categoryid=759",
+            "date": "2013-07-09 12:44:00",
+            "post_id": "519086",
+            "reply_to_id": "519085"
+        },
+        {
+            "user_name": "fannar82",
+            "text": "Jámm akkurat en ég átti samt meira við viðskipta fræðina bara meikar ekki sens að vera með svona verslun af þessari stærðargráðu á 21öldini og skíta svona herfilega upp á bak að það er búið að búa til tvær veflausnir til að \"redda\" síðuni þeirra.. þar sem fólk vill greinilega nógu mikið versla þarna til að gera patches\\addons sjálft svo að það er hægt að vafra síðuna þeirra\nþað er mesta failið í þessu að mínu mati \nætli maður sendi ekki bara þennan link á \nskrifstofa@elko.is\n og spyrji   WAT!",
+            "date": "2013-07-09 13:31:00",
+            "post_id": "519090",
+            "reply_to_id": "519086"
+        },
+        {
+            "user_name": "rango",
+            "text": "Don't bother, Sendi þeim mail og þeir sögðust vera að vinna í \"html5\"\nÞað er hálft ár síðan.",
+            "date": "2013-07-09 14:15:00",
+            "post_id": "519099",
+            "reply_to_id": "519090"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Það vill svo til að ég veit smá um tilurð þessarar síðu, sem er n.b. orðinn mjööööö gömul.  Ekki alveg sanngjarnt að bera vinnubrögðin þarna saman við það sem gert er í dag, en hey, hún sökkar feitt engu að síður.\nÞetta er gert af fyrirtæki sem hét ECweb (veit ekki hvort það sé til lengur) og þetta var outsourced til Indlands.  Mér skilst að forritararnir sem gerðu þetta höfðu aldrei séð eða snert á html/javascript etc. áður.  Öguð og góð vinnubrögð voru ekki í hávegum höfð þarna.\nElko er víst með nýjan vef í smíðum.",
+            "date": "2013-07-09 15:15:00",
+            "post_id": "519114",
+            "reply_to_id": "519099"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Það er enn til. \nhttp://www.ecsoftware.is/en/",
+            "date": "2013-07-09 21:05:00",
+            "post_id": "519164",
+            "reply_to_id": "519114"
+        },
+        {
+            "user_name": "Vibbi",
+            "text": "Mig langaði aðeins til að commenta á þessa umræðu þar sem ég vinn í ELKO og sé m.a. um að rekstur \nhttp://www.ELKO.is\n gangi snurðulaust fyrir sig. \nÞetta kerfi er komið til ára sinna og er stefnt að því hið fyrsta að opna nýja síðu sem er up-to-standards. Núverandi vefkerfið frá Ec Hugbúnaði er mjög gott kerfi og þá sérstaklega fyrir bakvinnslu, en því miður komið til ára sinna gagnvart neytendum. \nVið munum opna nýjan vef á þessu ári og vona ég að hann leysi þessa neikvæðu umræðu upp í jákvæða umræðu. \nAllavega gaman að sjá að það eru einhverjir sem láta sig skipta hvernig vefurinn okkar virkar.",
+            "date": "2013-07-09 22:06:00",
+            "post_id": "519176",
+            "reply_to_id": "519164"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Gaman að heyra, hlakka til að sjá nýjan elko.is",
+            "date": "2013-07-09 23:16:00",
+            "post_id": "519188",
+            "reply_to_id": "519176"
+        }
+    ],
+    "date": "2013-07-09 06:28:00"
+}

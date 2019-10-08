@@ -1,0 +1,37 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "8711",
+    "title": "Hvað er RAID?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=8711",
+    "posts": [
+        {
+            "user_name": "hringir",
+            "text": "Ég var að spá í hvað þetta er nákvæmlega. (þetta er á móðurborði sem ég var að spá í.\n\n\n\nRAID 0, or 1, 0+1, JBOD is supported\n\n\n\nþetta er móbóið\n\nhttp://www.att.is/product_info.php?cPath=41_25_51&products_id=1252&osCsid=8cfc39e5f7c52073bbccee527131d22c",
+            "date": "2005-07-07 12:59:00",
+            "post_id": "93258",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gnarr",
+            "text": "http://spjall.vaktin.is/viewtopic.php?t=1714",
+            "date": "2005-07-07 13:13:00",
+            "post_id": "93261",
+            "reply_to_id": "93258"
+        },
+        {
+            "user_name": "hringir",
+            "text": "Er þá ekki sniðugt að nota það þegar maður er eitthvað að fara að klippa til video og þessháttar, eykur það ekki hraðan töluvert ef maður er með 2 diska í RAID0.\n\nSkil ég það ekki rétt að tölvan notar þá 2 td 100 gb diska og skrifar á þá til skiptis (en samt er diskplássið bara 100 gb.)\n\n\n\nBara vangaveltur",
+            "date": "2005-07-07 23:41:00",
+            "post_id": "93319",
+            "reply_to_id": "93261"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Sniðugt og ekki sniðugt...\n\n\n\nEn RAID0 vinnur þannig að gögnum er splittað til skiptis, en skrifað er á báða diskana í einu, og gefur það hraðamuninn.\n\nÞá er t.d. fyrsta megabætið af skránni skrifað á disk A á sama tíma og annað megabætið er skrifað á disk B.\n\n\n\nEf að þú tengir tvo 100GB diska í RAID0 færðu einn hraðari 200GB disk. En athugaðu að \nef að einn diskur í RAID0 gefur sig ertu búinn að missa öll gögn\n.",
+            "date": "2005-07-07 23:56:00",
+            "post_id": "93323",
+            "reply_to_id": "93319"
+        }
+    ],
+    "date": "2005-07-07 12:59:00"
+}

@@ -1,0 +1,58 @@
+{
+    "forum_title": "Windows",
+    "id": "73439",
+    "title": "Bash on Windows - Reynslusögur",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=73439",
+    "posts": [
+        {
+            "user_name": "Hjaltiatla",
+            "text": "HóHó\nVar að prófa að setja upp Bash á Windows 10 - Lookar ansi promising.\nSé í fljótu braði að maður getur líklegast farið að hætta að nota Putty.\nIfconfig virkar vel\nDig virkar vel\nSSH virkar vel\nÁ eftir að fá reynslu á að nota Bash á Windows 10 fyrir NPM,GIT og Mysql úr skelinni.\nVæri gaman að heyra frá ykkur hvort þið hafið verið að nota BASH á Windows og hvort þið hafið verið að lenda í furðulegum böggum.",
+            "date": "2017-07-02 17:04:00",
+            "post_id": "652314",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "GIT virkar ágætlega enn sem komið er. Náði að clone-a project af Angular.io á vélina.\nInstallaði Node.js og NPM og næ að keyra Angular project-ið. Reyndar þurfti ég að opna browser handvirkt þar sem project keyrðist ekki automatically í Browser þegar ég keyrði \"Npm start\"",
+            "date": "2017-07-02 17:26:00",
+            "post_id": "652315",
+            "reply_to_id": "652314"
+        },
+        {
+            "user_name": "ElGorilla",
+            "text": "Ég byrjaði að tékka á Bash fyrir Windows en fór síðan alla leið og setti upp Ubuntu á Win10.\nhttp://www.zdnet.com/article/ubuntu-and ... indows-10/\nÉg hafði verið að nota Babun (Cygwin) en hef ekki notað það mikið síðan ég setti upp Ubuntu á Win10.",
+            "date": "2017-07-02 18:07:00",
+            "post_id": "652316",
+            "reply_to_id": "652315"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Ég skil þig , hafði heyrt af mörgum böggum fyrst um sinn en frétti að það væri búið að laga mikið af þeim í seinasta Anniversary update og ákvað að slá til í dag. Fínt að geta tengt Powershell við BASH svo maður er ekki svona takmarkaður í verndaða vinnustaðnum sem Windows er",
+            "date": "2017-07-02 18:25:00",
+            "post_id": "652318",
+            "reply_to_id": "652316"
+        },
+        {
+            "user_name": "dori",
+            "text": "Virkar ágætlega í sumt en stundum bara ekki. Þetta er náttúrulega ennþá beta og verið að vinna í allskonar við þetta. Ef ifconfig er farið að virka er þetta komið lengra en útgáfan sem er á vélinni minni \nÞetta concept lofar rosalega góðu en þeir hlutir sem eru ekki ennþá komnir langt (var að minnsta kosti networking þegar ég skoðaði þetta) gera það mjög rough. Ég lenti t.d. í vandræðum með einhver node verkefni hjá mér og gafst upp á því að reyna að nota þetta í bili.",
+            "date": "2017-07-04 14:51:00",
+            "post_id": "652417",
+            "reply_to_id": "652318"
+        },
+        {
+            "user_name": "berteh",
+            "text": "með anniversary útgáfunni var ubuntu uppfært í 16.04 og hlutir eins og ifconfig og ping eru farnir að virka \nalbert@albert-p50:~$ lsb_release -a\nNo LSB modules are available.\nDistributor ID: Ubuntu\nDescription:    Ubuntu 16.04.2 LTS\nRelease:        16.04\nCodename:       xenial\nalbert@albert-p50:~$ ping -c 1 mbl.is\nPING mbl.is (92.43.192.110) 56(84) bytes of data.\n64 bytes from neumann.mbl.is (92.43.192.110): icmp_seq=1 ttl=60 time=0.941 ms\n--- mbl.is ping statistics ---\n1 packets transmitted, 1 received, 0% packet loss, time 0ms\nrtt min/avg/max/mdev = 0.941/0.941/0.941/0.000 ms\nalbert@albert-p50:~$ trace",
+            "date": "2017-07-04 15:28:00",
+            "post_id": "652418",
+            "reply_to_id": "652417"
+        },
+        {
+            "user_name": "davida",
+            "text": "Smá off topic en ætli mbl.is haldi utan um ping traffíkina sem þeir fá á sig?",
+            "date": "2017-07-04 17:05:00",
+            "post_id": "652424",
+            "reply_to_id": "652418"
+        }
+    ],
+    "date": "2017-07-02 17:04:00"
+}

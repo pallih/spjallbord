@@ -1,0 +1,37 @@
+{
+    "forum_title": "Windows",
+    "id": "69615",
+    "title": "A Required CD/DVD Drive Device Driver Is Missing",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=69615",
+    "posts": [
+        {
+            "user_name": "Xovius",
+            "text": "Er aðað setja upp Windows 7 á tölvuna sem ég var að byggja og ég fæ alltaf upp þetta error þegar ég ýti á Install now. Hef lent í þessu áður og þá hefur virkað að færa USB lykilinn sem ég er að installa af yfir á annað USB port en það er ekki að virka núna. Veit einhver nákvæmlega hvaða Driver þetta er sem ég þarf að hafa? Næ að browsa inn á annan disk sem ég prófaði að tengja svo ég ætti að geta runnað þetta ef ég veit bara hvað ég þarf að setja inn",
+            "date": "2016-06-04 22:21:00",
+            "post_id": "624936",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Andri Þór H.",
+            "text": "Settu usb lykilinn í USB2. \nÞetta á til að koma þegar hann er í USB3",
+            "date": "2016-06-04 22:24:00",
+            "post_id": "624938",
+            "reply_to_id": "624936"
+        },
+        {
+            "user_name": "Xovius",
+            "text": "Hef lent í því áður og er búinn að prófa þetta í bæði usb 2 & usb3 tengjum",
+            "date": "2016-06-04 22:42:00",
+            "post_id": "624939",
+            "reply_to_id": "624938"
+        },
+        {
+            "user_name": "playman",
+            "text": "Er lykillin ekki FAT32 hjá þér?",
+            "date": "2016-06-06 08:40:00",
+            "post_id": "624976",
+            "reply_to_id": "624939"
+        }
+    ],
+    "date": "2016-06-04 22:21:00"
+}

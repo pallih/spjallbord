@@ -1,0 +1,51 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "55630",
+    "title": "Tengja síman minn með VPN við serverinn",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=55630",
+    "posts": [
+        {
+            "user_name": "BugsyB",
+            "text": "Sælir strákar ég er með litinn server heima og mig langar að geta accesað hann með vpn tengingu úr símanum mínum - mér er ekki að takast þetta - ég er búinn að prufa bæði L2TP/IPSec+PSK og pptp og ég er ekki að fá símann minn til að tengjast - er e-h hérna sem hefur gert þetta sem er tilbúinn að miðla af reynslunni sinni hvernig hann gerði það - það væri vel þegið\np.s. ég er ekki með router, vélinn er tengd beint í telsybox þannig að öll port eiga að vera opin",
+            "date": "2013-06-20 22:30:00",
+            "post_id": "516288",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "tdog",
+            "text": ".. Þú þarft að nota samsvarandi stillingar og eru stilltar í servernum hjá þér",
+            "date": "2013-06-20 22:34:00",
+            "post_id": "516289",
+            "reply_to_id": "516288"
+        },
+        {
+            "user_name": "BugsyB",
+            "text": "Eg hef verið að reyna það ég set upp samsvarandi vpn server á vélina mína og ég reyni að tengjast vandamálið er að ég næ ekki að tengjast \nSent from my GT-I9505 using Tapatalk 2",
+            "date": "2013-06-20 22:49:00",
+            "post_id": "516292",
+            "reply_to_id": "516289"
+        },
+        {
+            "user_name": "BugsyB",
+            "text": "bump",
+            "date": "2013-06-22 11:59:00",
+            "post_id": "516528",
+            "reply_to_id": "516292"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Hvaða IP tala er á Servernum?, þarftu ekki að NAT-a þetta ef að þú tengir beint í Telsey boxið, fær vélin þá bara  public IP töluna þína eða þarftu að stilla það af sjálfur?\nSvo er líka pæling hvort að það er firewall í gangi á server stýrikerfinu sem að blokkar incoming, hvaða Server OS ertu að keyra?",
+            "date": "2013-06-22 12:17:00",
+            "post_id": "516530",
+            "reply_to_id": "516528"
+        },
+        {
+            "user_name": "BugsyB",
+            "text": "eg er með fasta iptölu það er ekki vandamálið - ég þarf ekki að NAT-a því þetta er beint í telsyboxið -  var búinn að hleypa gegnum windows firewall og ég er bara að keyra win7 ultimate - ekkert fansy",
+            "date": "2013-06-22 16:51:00",
+            "post_id": "516575",
+            "reply_to_id": "516530"
+        }
+    ],
+    "date": "2013-06-20 22:30:00"
+}

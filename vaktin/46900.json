@@ -1,0 +1,555 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "46900",
+    "title": "Utandyra servergeymsla / Eðlisfræði/húsasmiðahjálp?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=46900",
+    "posts": [
+        {
+            "user_name": "AntiTrust",
+            "text": "Ég veit ég veit, hljómar fáránlega - En mig langar samt að fá svör frá þeim sem þekkja til.\nNúverandi staða = Ég er með ágætis geymslu inn af þvottaherberginu þar sem ég geymi serverana mína, 4 physical vélar þar eins og er, og gætu orðið fleiri og stefnan búin að vera lengi að fara í rack setup með allt saman. Vandamálið er að það eru engir gluggar á geymslunni, einungis eitt lítið ventilation gat í einu horninu, engin vifta þar. Þar sem ég er ekkert sérstaklega hrifinn af viftu- og raftækjasuði fram í hús hjá mér allan daginn er geymslan yfirleitt lokuð, sem veldur því að hitinn þarna inni fer aðeins yfir þægindamörkin hjá mér og búnaðurinn hitnar umfram \"optimal\" hitastig. Ég skipti um viftur í fileservernum hjá mér um daginn, setti 150CFM viftur í hann og hitastigið á HDD's og öðrum íhlutum droppaði umtalsvert, eða um 10°. Þessar viftur (\nhttp://kisildalur.is/?p=2&id=2006\n) eru hinsvegar um 50dBA og það má heyra vott af viftuhljóðum fram á gang þrátt fyrir að geymslan sé lokuð. Ef ég loka þvottahúsinu líka heyrist ekki múkk en það er ekki beint í boði þar sem hundarnir eru með bæli og matar/vatnsdallana sína inn í þvottahúsi.\nÞað sem ég er að pæla er hvort ég get nýtt skúrinn á pallinum hjá mér undir netþjónana. Hann er um 2-3fm og 160cm hár með stórri hurð svo aðgengi og pláss er nóg. Það eru rafmagnstengi utanhúss hjá mér og ég er búinn að sjá ágætis leið til að draga Cat streng úr húsinu, undir pallinn og í skúrinn, þeas lagnir ættu ekki að vera vandamál (nema mér sé að yfirsjást e-ð?) Ég myndi einnig vilja geta haft 1-2 UPS-a þarna inni.\nÞað sem ég er fyrst og fremst að velta fyrir mér eru hita og rakamál. Mér skilst að útiloft á veturnar hérlendis sé um 70-90% rakt og því líklega meiri mettun í heitu lofti á sumrin þar sem kalt loft er þurrara (ekki rétt?) Það er búið að einangra skúrinn að e-rju leyti að innan með e-rju sem ég get ekki betur séð en að sé þakklæðning, hversu mikið hún einangrar hef ég ekki glóru um? Hvað þyrfti ég að gera við þennan skúr til þess að fá hann ásættanlega þéttan?\nÉg sé fyrir mér að vera með e-rskonar stillanlega loftkælingu þarna inni sem myndi stjórna hitastiginu að e-rju leyti, en ég veit ekki hversu mikið gagn hún myndi gera að vetri til? Svo er líka spurning hvort ég geti náð að halda hitastiginu þarna inni nógu jöfnu/heitu á veturnar með allar viftur í lágmarki til þess að keyra HDD'ana ekki of lágt til að það komi niður á líftímanum.\nSvör frá húsasmiðum/eðlisfræðinördum/þeim sem hafa séð um netþjónaherbergi/bú mega endilega kommenta, ef þessi hugmynd er alveg útúrkú má drulla yfir þetta að vild.",
+            "date": "2012-04-01 14:28:00",
+            "post_id": "432736",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Fá sér rakamæli til að mæla. Ef það er hátt gætiru fengið þér rakaþétti og shitmixað þannig að í staðinn fyrir að safnast fyrir í dallinn þá fer vatnið beint í niðurfall.",
+            "date": "2012-04-01 14:49:00",
+            "post_id": "432740",
+            "reply_to_id": "432736"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Er viss um að ef þú myndir ráðfæra þig við Danfoss þá myndiru fá að vita nákvæmlega hvaða búnað þú þyrftir að fá þér.Topp þjónusta og fagmenn.",
+            "date": "2012-04-01 15:02:00",
+            "post_id": "432741",
+            "reply_to_id": "432740"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Já fékk ábendingu um þá frá félaga, hef líka verið að skoða vörurnar frá íshúsinu, spjalla við þá líka, þeir eru með ýmisleg kæli/og varmakerfi. Grunar bara að þetta sé í dýrari kantinum fyrir heimaserversetup.",
+            "date": "2012-04-01 15:25:00",
+            "post_id": "432745",
+            "reply_to_id": "432741"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Hugsanlega.En ef þetta er eitthvað sem þú ert að hugsa til frambúðar (eða næstu árin). Þá grunar mig að fara alla leið með þetta sé ekkert of slæm hugmynd,skil þig ágætlega að vera ekkert að spreða of miklu ef þú ætlar ekkert að vera á sama stað alltof lengi. Væri skemmtilegt að heyra hvernig þetta fer allt saman hjá þér og hvað þú ætlar að gera. Gaman að sjá svona minni setup og hvernig þau eru að fúnkera í daglegri notkun.",
+            "date": "2012-04-01 15:46:00",
+            "post_id": "432750",
+            "reply_to_id": "432745"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Já við erum nýbúin að kaupa hér, ímynda mér að við verðum hér allavega út háskólagönguna svo það eru nokkur ár.\nÉg ætla að byrja á því að smella einni HP workstation vél út í skúr og versla mér e-rn basic hita/rakastigsmælir til að fylgjast með næstu daga á mismunandi stöðum inn í skúrnum og við og inní tölvunni sjálfri. Smelli WiFi bara í vélina til að byrja með og monitora temps með Mobile PC monitor, snilldar software (þótt það sé reyndar limitað við 3 vélar í free version).",
+            "date": "2012-04-01 15:51:00",
+            "post_id": "432752",
+            "reply_to_id": "432750"
+        },
+        {
+            "user_name": "mikkidan97",
+            "text": "þú gætir fengið þér eitt eða fleiri Arduino borð með hita- og rakamæli. Svo er barasta notað borðið/n til að stilla hraðann á viftunum, hægar ef það er kalt og hraðar if otherwise. Er líka hræ-ódýrt. Googlaðu bara Arduino.",
+            "date": "2012-04-01 15:56:00",
+            "post_id": "432755",
+            "reply_to_id": "432752"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Já ég hef lesið um þessi borð í gegnum tíðina, hinsvegar grunar mig að ég þurfi að forrita þetta sjálfur og þar liggur mín veikasta hlið.",
+            "date": "2012-04-01 15:58:00",
+            "post_id": "432757",
+            "reply_to_id": "432755"
+        },
+        {
+            "user_name": "mikkidan97",
+            "text": "Þetta er frekar einfaldur kóði, bar eins og, t. d. \nKóði: \nVelja allt\nIf (hitanemi) = (under(0°C) Then\n    (hraði á viftum) = (faster)\nEndif",
+            "date": "2012-04-01 16:03:00",
+            "post_id": "432760",
+            "reply_to_id": "432757"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Já, lítur ekki flókið út reyndar. En þetta er samt líklega óþarfa flækja þar sem system vifturnar eru allar/flestartengdar við móðurborðin sem sjá sjálf um að stilla blástur eftir þörfum. Ég þyrfti líklega kæli/varmakerfis combó sem myndi sjá um að halda skúrnum köldum eða heitum eftir árstíð, og sjá til þess að loftið sem væri dælt þangað inn væri tiltölulega þurrt.",
+            "date": "2012-04-01 16:06:00",
+            "post_id": "432763",
+            "reply_to_id": "432760"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Hve stór er skúrinn í fermetrum?\nAð kaupa e-ð massa kerfi frá Danfoss eða fyrirtækjum sem sérhæfa sig í lausnum fyrir frystihús er fyrring. Elko er með rakaþéttingatæki fyrir tæpar 35 þús, gætir eflaust fundið betra tæki fyrir aðeins meiri pening. Svo ætti að vera niðurfall nálægt, og breyta vatnstankinum í tækinu til að vatnið renni beint þangað.\nVarðandi hitastig, veistu hve mikið hitinn sveiflast þarna inni á veturna? Ef að flökktið er lítið (innan 5-10°C) þá ættiru ekki að þurfa að hafa miklar áhyggjur.",
+            "date": "2012-04-01 16:09:00",
+            "post_id": "432764",
+            "reply_to_id": "432763"
+        },
+        {
+            "user_name": "mikkidan97",
+            "text": "þú getur líka fengið rakamæli og -stilli fyrir arduino. Þetta eru ótrúleg borð. Það er hægt að fá allt fyrir þau, líka viftustýringar.",
+            "date": "2012-04-01 16:17:00",
+            "post_id": "432766",
+            "reply_to_id": "432764"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Þarf ekkert að vera að það sé á endanum dýrara ,fer eftir því hvaða kröfur fólk hefur og hversu langt fram í tímann fólk er að hugsa hlutina.En þú mátt allveg meta þannig hluti sem fyrringu en FYI það eru ekki allir að hugsa hlutina á sama hátt.",
+            "date": "2012-04-01 16:23:00",
+            "post_id": "432767",
+            "reply_to_id": "432766"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Skúrinn er líklega 2-3fm, ekki með mælingar á honum við hendina.\nÉg sá nefnilega \"minni\" kerfi sem eru hugsuð fyrir tölvukælingar hjá íshúsinu, e-ð sem ég get ímyndað mér að sé í ódýrari kantinum (hver svosem hann er). En það er ekkert niðurfall nálægt, skúrinn er í enda pallsins, á móti húsinu.\nNei, ég gleymdi alveg að monitora hitastigið þarna inni á veturnar, þá var þessi hugmynd bara ennþá að fæðast. En ég get alveg ímyndað mér að það verði skítakuldi þarna inni og ég þurfi að þétta skúrinn betur, sumstaðar eru bara berir viðarbútar sem eru vel rakir núna amk.",
+            "date": "2012-04-01 16:24:00",
+            "post_id": "432768",
+            "reply_to_id": "432767"
+        },
+        {
+            "user_name": "OliA",
+            "text": "En afhverju ekki bara að kæla geymsluna sem dótið er í fyrir ?",
+            "date": "2012-04-01 16:36:00",
+            "post_id": "432770",
+            "reply_to_id": "432768"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Hann nefndi að það raftækja og viftusuð væri ekki vel séð.",
+            "date": "2012-04-01 16:47:00",
+            "post_id": "432771",
+            "reply_to_id": "432770"
+        },
+        {
+            "user_name": "OliA",
+            "text": "Já, en fyrir utan það, er eitthvað sem mælir gegn því að dótið sé inn í geymslu, ef suð/hávaði væri minnkaður úr núverandi stöðu ?",
+            "date": "2012-04-01 16:52:00",
+            "post_id": "432772",
+            "reply_to_id": "432771"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Ok ætla að vera með opinn haus fyrir því en hvernig þá?Í server herbergjum/eða gámum er oftast blásarar sem kæla tölvubúnað niður ,ert þú með betri hugmynd?",
+            "date": "2012-04-01 17:27:00",
+            "post_id": "432774",
+            "reply_to_id": "432772"
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "ég myndi nú ekki hafa miklar áhyggjur af kælingunni eins og margir hérna, frekar að halda rakanum í 40-60%\nÞað gæti verið mikið vesen trúi ég, annars bara frystihúsamálningu og gólfdúk á allt pleisið",
+            "date": "2012-04-01 17:30:00",
+            "post_id": "432775",
+            "reply_to_id": "432774"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Ok en ef fólk er með dýran búnað þá getur ábyrgð dottið úr gildi ef hitastigið er ekki í lagi (just sayin)",
+            "date": "2012-04-01 17:33:00",
+            "post_id": "432776",
+            "reply_to_id": "432775"
+        },
+        {
+            "user_name": "tdog",
+            "text": "Hann verður bara að passa að hita og rakastigið sé innan markanna sem gefið er upp í leiðbeiningunum fyrir búnaðinn.",
+            "date": "2012-04-01 17:37:00",
+            "post_id": "432777",
+            "reply_to_id": "432776"
+        },
+        {
+            "user_name": "Garri",
+            "text": "Sýnist vera harmleikur í uppsiglingu hérna.. \nNei, nei segi bara svona.. ég mundi allavega hafa kofann/geymsluna með sterkum lás. Krakkar/unglingar eiga það til að eyðileggja svona lagað og eða brjótast inn í slíkar geymslur, tala nú ekki um ef tölvudót er geymt þarna.\nRaki er víða miklu meiri en hjá okkur Íslendingum og hugsa ég að ef þú útbýrð þokkalega loftræstingu á kofann þá þarftu ekki að hafa áhyggjur af raka. Það er í raun aðeins þegar rýmið er lokað og hitastig sveiflast mikið sem raki myndast. Flestir svona kofar eru með einhverskonar \"ventulation\" og sé hún til staðar, þá get ég ekki ímyndað mér að rakastigið sé yfir mörkum.. getur skoðað hönnun á þaki og millirýminu á milli ytra og innra byrgði, menn glíma þar við gríðarlega hitamun og flæði á heitu og röku lofti upp í kalt rými en engu að síður með réttri hönnun, er rakastigið innan marka fyrir timbur allavega, lykillinn að slíkri hönnun er einföld loftræsting.\nKannski spurning með mikið frost. Í það minnsta gengur ekki að vera með tölvur þarna með vatnskælingu..",
+            "date": "2012-04-01 17:54:00",
+            "post_id": "432779",
+            "reply_to_id": "432777"
+        },
+        {
+            "user_name": "IL2",
+            "text": "Jæja 3 tilraun til að svara,\nMeð því að líta á tölvurnar sem hitablásara, þá eru ekki í vanda með 4 vélar. Með einangrun í þakinu og loftun ertu í góðum málum og með einangrum í öllum skúrnum væri frekar vandamál með hita en hitt.",
+            "date": "2012-04-01 18:09:00",
+            "post_id": "432783",
+            "reply_to_id": "432779"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Ok hann talar hugsanlega um fleiri vélar jafnvel rack setup,aðstæður gætu hugsanlega breyst ,sé ekki að þetta sé eitthver lausn sem þú ert að gefa upp.",
+            "date": "2012-04-01 18:14:00",
+            "post_id": "432785",
+            "reply_to_id": "432783"
+        },
+        {
+            "user_name": "IL2",
+            "text": "Afhverju ekki. Það kemur alltaf heitt, þurt loft frá vélunum alveg sama hvernig þær eru settar upp. Eins og Garri segir er þetta fyrst of fremst spurning um loftun. Tölvurnar sjá sjálfar um að mynda hitann.",
+            "date": "2012-04-01 18:22:00",
+            "post_id": "432789",
+            "reply_to_id": "432785"
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "Það eru aðalega þéttarnir sem eru hvað viðkæmasti, þeir tærast í miklu raka.\nEn í of litlum raka stútast svo PSU-in",
+            "date": "2012-04-01 18:25:00",
+            "post_id": "432790",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AciD_RaiN",
+            "text": "Það eru til slatti af bókum á netinu um hvernig sé best að stjórna raka í einmitt skúrum og litlum herbergjum þegar maður er með cannabis ræktanir. Það gæti kannski eitthvað hjálpað þér að skoða þann þátt í þessum ritum",
+            "date": "2012-04-01 18:48:00",
+            "post_id": "432796",
+            "reply_to_id": "432790"
+        },
+        {
+            "user_name": "appel",
+            "text": "Þessir ATX turnar eru orðnir obsolete þegar maður þarf að fara geyma þá ÚTI!",
+            "date": "2012-04-01 18:53:00",
+            "post_id": "432797",
+            "reply_to_id": "432796"
+        },
+        {
+            "user_name": "kubbur",
+            "text": "klæða vélarnar í nælonsokka og raki tilheyrir sögunni",
+            "date": "2012-04-01 19:00:00",
+            "post_id": "432798",
+            "reply_to_id": "432797"
+        },
+        {
+            "user_name": "IL2",
+            "text": "Ég gæti trúað því að of lítill raki og of mikill hiti yrði frekar vandamál.",
+            "date": "2012-04-01 19:25:00",
+            "post_id": "432804",
+            "reply_to_id": "432798"
+        },
+        {
+            "user_name": "vesley",
+            "text": "Þetta gæti verið mjög sniðug lausn  ef þú nærð stjórn á rakanum nema þá á sumrin. \nHitastigið inní svona litlum skúrum fer oft langt yfir 30°C þegar sólin er uppi og miðað við hvernig næsta sumar gæti orðið þá mun verða mjög heitt þar inni og þú þyrfti þá ágætis kælingu þar inni sem ætti ekki að vera stórmál ef hávaði er ekki stórt áhyggjuefni.   Maður hefur nú heyrt lætin í sumum af serverunum.\nEn ef sólin skín lítið á þennan skúr þá gæti þetta verið snilldar staður fyrir tölvurnar",
+            "date": "2012-04-01 20:32:00",
+            "post_id": "432814",
+            "reply_to_id": "432804"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "@OliA - Til þess að kæla geymsluna enn frekar þyrfti ég búnað sem myndi dæla meira af lofti þangað inn, og það er engin (mér sjáanleg) leið til þess þar sem geymslan er miðsvæðis í húsinu og margir veggir í næstu glugga/útveggi. Ég var með bestu mögulegu hljóðlátu vifturnar sem fengust hérna heima en þær dugðu ekki til. Fyrir utan það þá nota ég skúrinn á pallinum afar lítið og mér veitti ekkert af meira plássi inn í geymslu. Planið hefur líka lengi verið að fara í rack þjóna og þeir eru yfirleitt ekki þekktir fyrir að vera í hljóðlátari kantinum.\n@CendenZ - Hvað er frystihúsamálning?\n@Garri - Ég er voðalega paranoid með flestar mínar eigur, svo það er ekki stórt vandamál. Skúrinn er nánast hvergi sjáanlegur nema inn úr húsi hjá mér, sést ekki af götunni og ekki nema ganga framhjá útidyrahurðinni hjá mér og framhjá stofugluggum. Með því að fara þá leið er búið að ganga framhjá einni öryggismyndavél, og svo yrði önnur vél inn/við skúrinn sjálfann. Í kringum allann pallinn er 2m hár veggur og núna í vor kemur læst grindverk við eina opna innganginn inn á hann. Með öðrum orðum, þú sérð þennan skúr ekkert fyrir tilviljun. Svo hafa hundarnir séð um að fæla burt óvelséða gesti \n \nEin af aðal áhyggjunum mínum var akkúrat varðandi frostið, hvort 4-5 vélar séu nóg til að hita þetta rými upp á köldustu vetrarnóttum, HDD'arnir hafa engan vegin gott af því að fara niður fyrir 20-25°. Ég hugsa þó að hitavandamál væru líklegri fremur en kulda, e-ð sem tvískipt varmadælukerfi svipað og er notað í sumum bústöðum eða skrifstofum gæti leyst, sem geta bæði kælt og hitað - En eins og ég minntist á, mig grunar að þetta sé djöfulli dýr lausn fyrir svona hobbýverkefni.\n@Vesley - Ég er reyndar ekki búinn að búa þarna nógu lengi til að geta sagt til um það með vissu en mig grunar að sólin nái aldrei að skína beint á skúrinn, amk ekki þegar hún er hátt á lofti.",
+            "date": "2012-04-01 21:09:00",
+            "post_id": "432825",
+            "reply_to_id": "432814"
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "Málningin sem maður málar bílskúrinn með, kemur í veg fyrir örverugróður og ýtir undir uppgufun á raka sem sest annars á veggi \nSvo bara klæða gólfið með gólfdúk, það er alltaf raki þar sem rakt volgt loft kemst í snertingu við annað hvort kalt þurrt loft eða heitt þurrt loft\nÞetta ætti ekki að kosta mikið, jafnvel vera með rakamæli til að mæla þetta áður en þú ferð í einhverjar forvarnir. Kannski myndast ekkert mikill raki, kannski myndast allt of mikill raki.",
+            "date": "2012-04-01 21:49:00",
+            "post_id": "432831",
+            "reply_to_id": "432825"
+        },
+        {
+            "user_name": "tdog",
+            "text": "Þú getur tekið affallið úr ofnakerfinu eða gólfhitanum og tekið hann í tvær lykkjur í skúrnum ef þið ert hræddur við frost.",
+            "date": "2012-04-01 21:53:00",
+            "post_id": "432832",
+            "reply_to_id": "432831"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Einfaldasta lausnin er að losa sig við hundana og hafa tölvurnar í geymslunni innaf þvottahúsinu.",
+            "date": "2012-04-01 22:03:00",
+            "post_id": "432835",
+            "reply_to_id": "432832"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Þá losa ég mig fyrr við tölvurnar.",
+            "date": "2012-04-01 22:08:00",
+            "post_id": "432836",
+            "reply_to_id": "432835"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Setja hundana í kofann?",
+            "date": "2012-04-01 22:09:00",
+            "post_id": "432837",
+            "reply_to_id": "432836"
+        },
+        {
+            "user_name": "tdog",
+            "text": "Setja konuna í kofann, hundana í hjónaherbergið og tölvurnar í geymsluna og loka bara þvottahúsinu",
+            "date": "2012-04-01 22:11:00",
+            "post_id": "432838",
+            "reply_to_id": "432837"
+        },
+        {
+            "user_name": "IL2",
+            "text": "Setur hvítt einangrunarplast undir gólfið og síðan að innan.  Gengur frá rafmagni og lofttúðum og síðan byggingarplast yfir allt saman með góðum frágangi og klæðir síðan með gifsi. Það gleypir í sig rakan og lætur hann síðan aftur frá sér ef ég man rétt úr Iðnskólanum.  \nEn og aftur myndi ég ekki hafa áhygggjur í svona littlu rými að hitinn verði ekki nógur.  Hvað er heitt í rýminu þar sem þær eru núna? \nEf þú nennir gætirðu mælt hita og rakastig þar inni og svo annarstaðar í húsinu.",
+            "date": "2012-04-01 22:14:00",
+            "post_id": "432839",
+            "reply_to_id": "432838"
+        },
+        {
+            "user_name": "biturk",
+            "text": "ég myndi setja glært byggingarplast á timbrið að innan verðu, steinull þar á og klæða síðann með plasti og teipa samskeiti með sika teipi\nsetja síðann bara lofttúðu á þakið með filter svepp og málið er steindautt fyrir veggi, þarft að gera sama fyrir loftið ef sú er raunin, gifs væri líka ágætis hugmynd yfir steinullina, við megum ekki gleima að ullin þéttir jafnt hitann inni sem og kuldann úti!\nog svo svipaða lausn fyrir gólfið nema bara setja timbur plötur og síðann dúk til að þétta algerlega\nsvona ættiru að geta haldið svipuðum raka og í venjulegri íbúð",
+            "date": "2012-04-01 22:19:00",
+            "post_id": "432841",
+            "reply_to_id": "432839"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Allt farið að sigla í rétta átt hérna\nEn ef þetta plan mitt er af e-rjum ástæðum ekki framkvæmanlegt, þá er spurning hvort ég geti tengt barka við loftinntakið í geymslunni og tengt við e-rskonar viftu/AC.\n@IL2 og Biturk- Takk fyrir info-ið, hef þetta í huga. Ef ég ætti að giska myndi ég segja að það væri líklega í kringum 30° inn í serverherbergi með lokaða hurð eins og er. Þarf að mæla herbergið, bæði hita og raka til að hafa e-r viðmið, fer í að kaupa hita og rakamælir á morgun.\nEr þetta kannski e-ð sem ég ætti að skoða áður en ég fer út í stærri ventilation aðgerðir : \nhttp://www.hagblikk.is/xf100h.asp\n ? \nHvað samt sem almennt loftflæði, burtséð frá raka. Þarf ég ekki að vera með e-rskonar push/pull kerfi í gangi í svona litlu rými?",
+            "date": "2012-04-01 22:24:00",
+            "post_id": "432842",
+            "reply_to_id": "432841"
+        },
+        {
+            "user_name": "tdog",
+            "text": "Er þetta ekki svona baðherbergisvifta, sem fer í gang þegar baðkarið er farið að fyllast og móðan farin að setjast á gluggana? Varla verður rakastigið í geymslunni það mikið að þessi fari í gang.",
+            "date": "2012-04-01 22:35:00",
+            "post_id": "432845",
+            "reply_to_id": "432842"
+        },
+        {
+            "user_name": "DJOli",
+            "text": "Ég veit ekki hvort það veki áhuga, en það fyrsta sem mér datt í hug varðandi kælingu í kofanum væru kannski tvær 140-160mm viftur, mögulega fleiri til að halda góðu loftflæði, og þaðan kom sú hugmynd um að pæla í sólarpanel(um) á þakið.\nÆtti ekki að vera of mikið vandamál að verða sér úti um svoleiðis, en hinsvegar hef ég ekki hugmynd hvað sólarpanell kostar.\nPlanið væri þá að fara sólarpanelana tengda við einhverja miðstöð sem hægt væri að tölvustýra í gegnum innranet, svo að kofinn þyrfti sem minnst viðhald allan sólarhringinn, svo væri jú náttúrulega hægt að redda ódýrum vefmyndavélum ef þú ert í vafa um öryggi. Þær eru jú, ekki svo dýrar.\nSvo með þennan kóða:\nIf (hitanemi) = (under(0°C) Then\n    (hraði á viftum) = (faster)\nEndif\nÉg myndi hafa þetta svona:\n(Miðað við viftur sem ná sirka 2600rpm, minnir að minimum hraðinn á þeim sé þá annaðhvort 600 eða 800rpm)\nIf (hitanemi) = (-5°C) Then\n    (hraði á viftum) = (900rpm)\nIf (hitanemi) = (0°C) Then\n    (hraði á viftum) = (1200rpm)\nif (hitanemi) = (10°c) Then\n    (hraði á viftum) = (1600rpm)\nIf (hitanemi) = (18°C) Then\n    (hraði á viftum) = (2000rpm)\nIf (hitanemi) = (25°C) Then\n    (hraði á viftum) = (2400rpm)\nIf (hitanemi) = (28°C) Then\n    (hraði á viftum) = (2600rpm(max))\nEndif",
+            "date": "2012-04-01 22:36:00",
+            "post_id": "432846",
+            "reply_to_id": "432845"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Jú, líklega. Veit ekki hver efri og neðri mörk stillinganna á henni eru, svo ekki hugmynd hvort hún myndi nýtast e-ð.",
+            "date": "2012-04-01 22:48:00",
+            "post_id": "432848",
+            "reply_to_id": "432846"
+        },
+        {
+            "user_name": "IL2",
+            "text": "biturk, mátt ekki hafa plast yst, heldur þakpappa. Plastið heldur rakanum inni sem er ekki gott.\nÉg held að þú komir ekki til með að þurfa að hafa miklar áhyggjur af því að rakinn fari mikið yfir 40%. Ég er með tvær tölvur í herberginu, hvoruga í gangi allan sólarhringinn en yfirleitt báðar í gangi þegar ég kveiki á þeim og ég  á í stökustu vandræðum með hvað loftið er þurt. Ofninn er aldrei í gangi og rakaneminn fer aldrei upp í 40% nema með galopinn glugga í grenjandi rigningu. \nViftan sem linkurinn er á væri kanski ágætis öryggisbúnaður, en færi líklegast sjaldan í gang ef frágangurinn er í lagi á öllu.\np.s Með að tengja A/C eða viftu í geymsluna þá þarftu einhvern in eða útblástur á móti til að ná hringrás. Gleymdi einmitt að spyrja um hvar túðan væri í geymslunni og hvort eitthvað veggjunum væri útveggur?",
+            "date": "2012-04-01 22:53:00",
+            "post_id": "432851",
+            "reply_to_id": "432848"
+        },
+        {
+            "user_name": "OliA",
+            "text": "@AntiTrust\nEr vatn í serverherberginu hjá þér fyrir ? Þ.e. kalt vatn og frárennsli ?\nEf svo er þá er bara að tengja lítinn radiator inn á kaldavatnið og þá ertu kominn með kælingu á lofti sem er þarna fyrir.\nBara hugmynd ef skúrinn ef of mikið.",
+            "date": "2012-04-01 23:25:00",
+            "post_id": "432853",
+            "reply_to_id": "432851"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "En svo ég hætti að fíflast í þér með hundana, værir þú ekkert hræddur um að tölvunum yrði stolið ef þær væri í skúr út í garði?",
+            "date": "2012-04-01 23:37:00",
+            "post_id": "432854",
+            "reply_to_id": "432853"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "@IL2, nei eins og ég minntist held ég á í e-rju svarinu mínu þá er þessi geymsla voðalega miðsvæðis í húsinu og því engir gluggar né útveggir nálægt. Túðan er hinsvegar í loftinu í einu horninu, er með alla þjónanna beint þar fyrir neðan eins og er í dag.\n@OliA, nei engar vatnslagnir, væri svosem ekkert mesta mál í heimi að græja það úr þvottahúsinu en ekki endilega e-ð sem ég er spenntur fyrir.\n@GuðjónR, bæði og, en ég myndi að sjálfsögðu gera tilheyrandi ráðstafanir, myndavél með nætursjón og hreyfiskynjun tengda við e-rskonar alarm kerfi, bæði ljós og vælu. Annars er skúrinn tiltölulega falinn og ekkert sem myndi gefa til kynna að það væru e-r verðmæti þarna inní.",
+            "date": "2012-04-02 01:12:00",
+            "post_id": "432871",
+            "reply_to_id": "432854"
+        },
+        {
+            "user_name": "IL2",
+            "text": "Með því að setja viftu í túðuna myndirðu líklega strax minka hitann þarna inni. \nVar líka að velta fyrir mér að ef þú smíðaðir barka aftan á vélarnar þar sem aflgjafinn er og létir þá sameinast í einn barka sem blési beint út, þá myndi strax minka hitinn á sumrin í skúrnum.  Væri náttúrulega einfaldara með \"rack setup\"",
+            "date": "2012-04-02 01:36:00",
+            "post_id": "432876",
+            "reply_to_id": "432871"
+        },
+        {
+            "user_name": "tlord",
+            "text": "skrúfaðu bara lítinn hitaveitu ofn í loftið á herberginu og láttu kalt vatn renna rólega í gegnum hann. stutt í lagnir í þvottahúsinu væntanlega",
+            "date": "2012-04-02 12:34:00",
+            "post_id": "432938",
+            "reply_to_id": "432876"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Þetta er bara miklu meira en að segja það, og ég þooooli ekki pípulagningavesen. Fyrir utan það mér myndi ekkert líða vel með að vera með ofn inn í serverherberginu, upp á vatnshættuna. En annars er þessi pæling líka tilkomin til að losna við allt vélasuð út úr húsi og fá meira pláss í geymsluna.",
+            "date": "2012-04-02 12:53:00",
+            "post_id": "432940",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "tlord",
+            "text": "settu þá bara tölvurnar þínar í garðkofann",
+            "date": "2012-04-02 12:56:00",
+            "post_id": "432941",
+            "reply_to_id": "432940"
+        },
+        {
+            "user_name": "AciD_RaiN",
+            "text": "Ef ég væri í þínum sporum þá myndi ég ráðfæra mig við fagmenn þar sem það eru komnar svo margar góðar hugmyndir hérna sem erfitt er að velja úr",
+            "date": "2012-04-02 12:57:00",
+            "post_id": "432942",
+            "reply_to_id": "432941"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Það er planið, mér sýnist á svörunum hérna að þetta sé alls ekki ógerlegt. Er kominn með eina testvél út í skúr og byrjaður að fylgjast með raka og hitastigi.",
+            "date": "2012-04-02 12:58:00",
+            "post_id": "432943",
+            "reply_to_id": "432942"
+        },
+        {
+            "user_name": "tlord",
+            "text": "mýsnar munu elska þig í vetur..",
+            "date": "2012-04-02 13:03:00",
+            "post_id": "432945",
+            "reply_to_id": "432943"
+        },
+        {
+            "user_name": "IL2",
+            "text": "tlord, þetta gengur ekki upp með ofni þar sem vatnið þarf að renna út úr honum ofan í niðurfall. Væri frekar að gera þetta í skúrnum með einhverju utanályggjandi. \nAntiTrust, ef þér finnst rakinn of mikill, prófaðu þá strax  að setja aðra vél út.",
+            "date": "2012-04-02 13:21:00",
+            "post_id": "432950",
+            "reply_to_id": "432945"
+        },
+        {
+            "user_name": "tlord",
+            "text": "þetta eru bara 2 mjóar plastslöngur, auðvelt að mixa þetta inn á þvottavélartengingarnar, þvottavélin er auðvitað tengd við niðurfall og væntanlega kalt vatn líka..",
+            "date": "2012-04-02 13:30:00",
+            "post_id": "432953",
+            "reply_to_id": "432950"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Já, vélarnar dæla auðvitað heitu og þurru lofti frá sér? Það er amk ekki vandamál, nóg á ég af þessum P4 kössum inní geymslu sem geta farið í beta prófanir, takk fyrir ábendinguna.",
+            "date": "2012-04-02 13:30:00",
+            "post_id": "432954",
+            "reply_to_id": "432953"
+        },
+        {
+            "user_name": "tlord",
+            "text": "eyðist raki úr lofti við að fara í gegnum P4 kassa?",
+            "date": "2012-04-02 13:53:00",
+            "post_id": "432963",
+            "reply_to_id": "432954"
+        },
+        {
+            "user_name": "Garri",
+            "text": "Fyrst að hér var minnst á eðlisfræði þá vill ég benda fólki á að tölvarnar þurrka ekki loftið pr. se. \nTölvurnar hita loftið og gerir það hæfara til að gleypa í sig raka þannig. Þannig ef við erum með lokað rými og ákveðið magn af raka inn í því, sumt í lofti og sumt í pollum, þá munu tölvurnar ekki auka eða minnka rakann í þessu rými, aðeins flytja hann úr pollunum í loftið þegar þær hita loftið í rýminu.\nÞað sem hinsvegar gerist í sambandi við raka er helst það að þegar loftið kólnar, þá getur það ekki haldið í sér þessum raka lengur, lætur hann frá sér, daggar. \nNú, þá fer myndin að skýrast. Tölvurnar geta sem sagt þurrkað upp kofann ef þær geta losnað við heita og raka loftið út og tekið inn þurrara og kaldara loft inn í staðinn. \nÞetta er eina ástæða þess að rakastig minnkar þar sem hiti er. Hitinn hitar upp loftið sem gleypir raka hvar sem það getur og samfara góðri loftræstingu, þá skilar hún heita loftinu í burtu og tekur inn þurrt loft í staðinn sem hægt er að hita upp gagngert til að \"þurrka\" upp það sem blautt er.\nÞess vegna er lykilatriðið í þessu að hafa loftræstingu.\nSvo er nú það..",
+            "date": "2012-04-02 14:03:00",
+            "post_id": "432965",
+            "reply_to_id": "432963"
+        },
+        {
+            "user_name": "tlord",
+            "text": "það vantar líffræðivikilinn í þessa umræðu, er einhver með það?",
+            "date": "2012-04-02 14:10:00",
+            "post_id": "432966",
+            "reply_to_id": "432965"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Þú getur líka leyst \"rakamálið\" með svona tækjum:\nHér\n og \nhérna.\nEflaust meira til af þessum tækjum, hugsanlega hjá sm.is ... þetta var það fyrsta sem ég fann.",
+            "date": "2012-04-02 14:11:00",
+            "post_id": "432967",
+            "reply_to_id": "432966"
+        },
+        {
+            "user_name": "IL2",
+            "text": "tlord, en hvernig ætlarðu að fá hringrás? Með því að láta vatnið fara inn á ofnin, síðan inn á vélina? Þá rennur bara ef vélinn er í gangi og þegar hún tekur inn á sig.\nOg já rakinn eyðist. Ef maður lítur ekki á þetta sem tölvur heldur bara kassa sem er með mótor sem snýst. Við það að snúast myndast orka sem breytist í þessu tilviki í loft sem er heitt útaf orkunni. Nákvæmlega það sama og þetta væri hitablásari.\nÞá þornar loftið ekki satt. Að sjálfsögðu gæti myndast raki samt sem áður ef enginn loftun er.\nEða eins og Garri skýrir þetta mun betur.\nEins og ég hef áður sagt þá á rakinn ekki að vera vandamál ef frágangurinn er góður á rakaplastinu og jafnvel ekki heldur þótt ekkert sé gert ef loftunin er nógu góð þannig að loftskiptin séu nógu tíð.\na",
+            "date": "2012-04-02 14:11:00",
+            "post_id": "432968",
+            "reply_to_id": "432967"
+        },
+        {
+            "user_name": "tlord",
+            "text": "það er þrystingur á kalda vatninu (prófaðu bara að skrúfa frá vatnskrana ef þú trúir því ekki) vatnið fer svo beint í niðurfallið úr ofninum",
+            "date": "2012-04-02 14:17:00",
+            "post_id": "432970",
+            "reply_to_id": "432968"
+        },
+        {
+            "user_name": "Garri",
+            "text": "Nenni nú varla að endurtaka þetta. Þetta stendur 100% fyrir sínu. \nEf þú ert með lokað rými (eins og sumir hafa verið að mælast til hérna), þá eyðir þú ekki raka með því að hita það nema til komi loftræsting.\nÞað sem meira og verra er, við það að hita loftið og ekki loftræsa, \nþá eruð þið að auka rakann í loftinu\n, ekki minnka hann.\nÞið getið spurrt hvaða veðurfræðing sem er, \"Hvort er rakinn í loftinu sé hærri eða lægri í frumskógum Amazon en á Norðurpólnum\"",
+            "date": "2012-04-02 14:19:00",
+            "post_id": "432971",
+            "reply_to_id": "432970"
+        },
+        {
+            "user_name": "IL2",
+            "text": "tlord,já, ég skil það mjög vel. Þá með krana í retúr til að fá mótstöðu.  Ekki viss um að AntiTrust sé hrifinnaf þessu fyrirkomulagi\nGarri, fyrirgefðu ef þetta hefur komið eitthvað vitlaust frá mér. Þetta er allt rétt hjá þér og ég fyllilega samála.",
+            "date": "2012-04-02 14:26:00",
+            "post_id": "432972",
+            "reply_to_id": "432971"
+        },
+        {
+            "user_name": "tlord",
+            "text": "nei, bara venjulegan krana á túr til að stilla renslið, og vantslás á retur slöngunni til að ofnin haldist fullur af vatni",
+            "date": "2012-04-02 14:30:00",
+            "post_id": "432973",
+            "reply_to_id": "432972"
+        },
+        {
+            "user_name": "IL2",
+            "text": "Væri ekki auðveldara að stýra renslinu með krana á retúr? Þarft líklega ekki mikið rennsli reyndar til að halda honum köldum. \nHvernig myndir þú gera vatnslásinn? Búa til slaufu úr fittings?\nOg svo önnur pæling. Væri ekki betra að vera með vatnkassa með vifu. Myndi hann ekki kæla meira. Hef ekki prófað hitt, ofn, þannig að ég veit ekki hvernig það kælir.",
+            "date": "2012-04-02 14:36:00",
+            "post_id": "432974",
+            "reply_to_id": "432973"
+        },
+        {
+            "user_name": "tlord",
+            "text": "túrkrani er betri, þá er minni þrystingur á draslinu, vatnskassi úr bíl mindi klárlega virka, og vifta mindi auka virknina",
+            "date": "2012-04-02 14:43:00",
+            "post_id": "432975",
+            "reply_to_id": "432974"
+        },
+        {
+            "user_name": "tlord",
+            "text": "gera allt með mjóum plastslöngum\nslangan út úr ofninum/kassanum fer bara í slaufu sem nær upp fyrir kassan",
+            "date": "2012-04-02 14:44:00",
+            "post_id": "432976",
+            "reply_to_id": "432975"
+        },
+        {
+            "user_name": "IL2",
+            "text": "Smá vangaveltur. Er ekki alltaf sami þrýsingur (bör) á kerfinu, óháð renslinu? Kanski öðruvísi í þessu en hitaveitu með þrýstijafnara ?",
+            "date": "2012-04-02 14:46:00",
+            "post_id": "432977",
+            "reply_to_id": "432976"
+        },
+        {
+            "user_name": "IL2",
+            "text": "Eitthvað að frétta af þessu?",
+            "date": "2012-04-15 11:34:00",
+            "post_id": "435617",
+            "reply_to_id": "432977"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Það eru 2 vélar úti í skúr eins og er, engir mælar komnir út, svo djöfulli dýrir fyrir verkefni sem verður kannski ekkert af.\nVélarnar eru amk búnar að vera í gangi í 2 vikur núna án vandamála. Dual xeon vél sem keyrir yfirleitt á 35° ish með fan speed á Auto inn í lokuðu rými er að haldast í ca 12-14° á nóttunni og 18° á daginn með vifturnar á low, svo það er alveg í takt við ambient hita. Flestir íhlutir virðast vera að hanga í svipuðum tölum, CPU, MB og HDD. Það sem veldur mér áhyggjum er hversu kalt HDDinn fer niður í ekki kaldara umhverfi en þetta, þarf eiginlega að hrúga öllum þessum faulty HDD sem ég á inní kassann og sjá hversu mikið þeir geta hitað einn lokaðann kassa.\nEf e-r á hita og rakamælir sem er tilbúinn að lána mér hann í viku eða svo gegn vægu gjaldi má sá hinn sami senda mér PM.",
+            "date": "2012-04-16 19:40:00",
+            "post_id": "435910",
+            "reply_to_id": "435617"
+        },
+        {
+            "user_name": "Klaufi",
+            "text": "Ættir að geta fengið data logger sem nemur raka og hita fyrir undir 5k.\nSemsagt bara logger sem þú tekur svo frá og tengir með serial/usb við tölvu og lest af.\nMyndi byrja á að tala við þá í Samey, minnir að ég hafi keypt minn þar.\nMinn er því miður í notkun næsta árið annars væri ekkert mál að fá hann í láni \nEf þú vilt fara í aðeins dýrari/vandaðri græju þá geturðu kíkt hér: \nhttp://www.onsetcomp.com/data-logger\nHef ágætisreynslu af þessum búnaði.\nPassaðu bara að range-ið sé innan þinna marka, sumir data loggerar virka ekki nema í góðum hita og yfir(20°C+)..",
+            "date": "2012-04-16 19:53:00",
+            "post_id": "435915",
+            "reply_to_id": "435910"
+        },
+        {
+            "user_name": "Magni81",
+            "text": "Hvernig er þessu skúr uppbyggður? er hann smíðaður úr grind með klæðingu að utan? er hann einangraður(veggir,loft og golf)?? Þarf að hafa þetta á hreinu ef þú ætlar að hafa tölvu búnað þarna inni. Ef skúrinn er ekk vind og vatnsheldur þá er þetta dæmt til að eyðileggjast. Er járn á þakinu?\nEr gluggi á skúrnum? einfalt eða tvöfalt gler? er hurð á honum? hvernig er hún uppbyggð?( er hún úr einföldu timbri eða massív eins og anddyrishurðin heima hjá þér)",
+            "date": "2012-04-17 12:24:00",
+            "post_id": "436074",
+            "reply_to_id": "435915"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Eins basic og hann verður, gerður úr sama timburefni og pallurinn og fellur inn í pallinn í rauninni í einu horninu. Hann er þéttur í loftinu með e-rskonar viðarplötum og veggirnir með þakpappa sýnist mér. Hurðin er úr einföldu timbri líkt og skúrinn sjálfur, engir gluggar, engin göt eða aðrar opnanir. Svo best sem ég veit er skúrinn þokkalega vatnsheldur, það hélst amk allt þurrt þar inni í vetur. Ég er þó aldrei að fara að smella neinum mission critical vélbúnaði þarna út fyrr en ég er búinn að þétta betur að innan. Að gera hann veðurheldan er held ég minnsta vandamálið, hugsa að vandamálin verði frekar hvernig skal halda optimal hitastigi þarna inni hvort sem er um heit sumur eða skítkalda vetur með nauðsynlegu loftflæði, án þess að eyða hundruðum þúsunda í kælikerfi.",
+            "date": "2012-04-17 12:32:00",
+            "post_id": "436077",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "IL2",
+            "text": "Eitthvað að frétta af þessu?",
+            "date": "2012-09-19 22:41:00",
+            "post_id": "467682",
+            "reply_to_id": "436077"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Í rauninni ekki nei, því miður. Þetta kostar á þriðja hundrað þúsund að framkvæma með AC, mælum, lögnum, þéttingu á skúrnum og flr. smáhluti. Upphæð sem ég hef ekki týmt að eyða í side-project so far, en þetta situr á öxlinni á mér, HDDarnir farnir að keyra fullheitt eins og er.",
+            "date": "2012-09-19 23:18:00",
+            "post_id": "467696",
+            "reply_to_id": "467682"
+        }
+    ],
+    "date": "2012-04-17 12:32:00"
+}

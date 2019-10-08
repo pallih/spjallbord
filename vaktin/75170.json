@@ -1,0 +1,86 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "75170",
+    "title": "..",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=75170",
+    "posts": [
+        {
+            "user_name": "i77800k",
+            "text": ".",
+            "date": "2018-01-03 17:12:00",
+            "post_id": "664247",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "pepsico",
+            "text": "Radiatorinn í CPU_FAN og pumpuna í hvaða tengi sem er. Ert með þetta rétt tengt. \nSama hvernig þú tengir þetta mun vélin aldrei fatta að viftan sé dauð ef hún deyr (svo ég viti). \nTölvan mun bara drepa á sér við hitatölurnar í load ef kælikerfið hættir að virka að einhverju leyti.",
+            "date": "2018-01-03 18:47:00",
+            "post_id": "664262",
+            "reply_to_id": "664247"
+        },
+        {
+            "user_name": "worghal",
+            "text": "eins og ég hef alltaf lesið þetta, þá á pumpan að vera í cpu_fan",
+            "date": "2018-01-03 19:27:00",
+            "post_id": "664265",
+            "reply_to_id": "664262"
+        },
+        {
+            "user_name": "pepsico",
+            "text": "Ég held að það sé hætta á því að pumpan fái breytilegan straum (eftir örgjörvaálagi) ef maður lætur hana í CPU_FAN, allavega ef maður stillir hana þá ekki handvirkt í að vera í stanslausum fullum kraft, og það myndi skerða ævi pumpunnar að fá breytilegan straum.\nÞá missir maður líka út að radiator viftan sé að aðlaga sig að álagi sem er aðlaðandi hegðun.",
+            "date": "2018-01-03 20:39:00",
+            "post_id": "664271",
+            "reply_to_id": "664265"
+        },
+        {
+            "user_name": "worghal",
+            "text": "samt ekki, en bæklingurinn fyrir h55 segir \"Connect the pump power connector to any available 3-pin or 4-pin fan header on the motherboard.\"",
+            "date": "2018-01-04 00:37:00",
+            "post_id": "664290",
+            "reply_to_id": "664271"
+        },
+        {
+            "user_name": "DJOli",
+            "text": "Ég tel gífurlega litlar líkur á því að radiator viftan fari á fullan hraða þar sem þú ert með vökvakælingu á örgjörvanum, ef mér skjátlast ekki. Það sem þriggja pinna tengið fyrir örgjörvann gerir, er að hækka hraðann á örgjörvaviftunni þegar örgjörvinn hitnar, og þá til að reyna að halda honum köldum. En ef þú ert með svona klárlega viðeigandi kælingu, þá ætti hann ekki að hitna neitt af viti.",
+            "date": "2018-01-04 05:52:00",
+            "post_id": "664298",
+            "reply_to_id": "664290"
+        },
+        {
+            "user_name": "pepsico",
+            "text": "Með því að tengja pumpuna sjálfa í CPU_FAN tengið erum við að græða ekkert og tapa tvennu, annars vegar endingu pumpunnar og hins vegar feedbackið milli hitastigs og hávaðamyndunar. \nMeð því að tengja pumpuna í hvaða annað tengi sem er og setja viftuna á radiatornum í CPU_FAN græðum við feedbackið milli hitastigs og hávaðamyndunar en töpum engu.\nhttp://forum.corsair.com/v3/showthread.php?t=168801",
+            "date": "2018-01-04 11:38:00",
+            "post_id": "664322",
+            "reply_to_id": "664298"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "Hjá mér með Z270 Gigabyte er með óljósum hætti hægt að sjá úr manualinu að 2 headerar þola að knýja svona apparat max 2A minnir mig. Ef þú tengir þetta í standard Cpu 500-1000mA header þá geturu grillað driverinn fyrir þennan tiltekna header.",
+            "date": "2018-01-04 16:34:00",
+            "post_id": "664360",
+            "reply_to_id": "664322"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "Þú gerir þér grein fyrir að þessi móðurborð í dag geta spennustýrt viftum sem og PWM stjórnað þeim. Ég hugsa að PWM stýring dragi ekkert úr endingunni fyrr en þú nærð mjög lágu PWM sem er kannski ekki hægt á móðurborð user friendly pwm stýringu. Þar að segja segulsviðið í vindingunum nær að falla það mikið áður en nýr kassapúls kemur og er nógu lengi til að leyfa vindingum að hitna í réttri víxlverknun. \nSpennustýrð vifta nær ekki þessum skemmandi áhrifum nema eitthvað sé mikið bilað í móðurborðinu.\nÉg hugsa að legan skemmist áður, eða einhver verksmiðjugalli láti sjá sig. Annars góð pæling hjá þér, sem á kannski betur heima í stórum iðnaðar mótorum.",
+            "date": "2018-01-04 16:44:00",
+            "post_id": "664362",
+            "reply_to_id": "664360"
+        },
+        {
+            "user_name": "pepsico",
+            "text": "Ef þú opnar slóðina sem ég sendi þá er þar starfsmaður Corsair að segja að spenna undir 12V muni skerða endingu pumpunnar. \nÞ.a.l. er ekki góð ákvörðun að hafa pumpuna tengda með 3-pin tengi í tengi sem mun sjálfkrafa spennustýra henni sbr. CPU_FAN því þegar örgjörvinn er ekki við hátt hitastig mun spennan vera langt undir 12V og aldrei stöðug. \nCPU_FAN er því versta valið, og ásamt CPU_OPT í rauninni eina lélega valið, ef þú stillir það ekki handvirkt eftirá að vera alltaf í 12V. \nEf það væri 4-pin tengi á þessari pumpu þá værirðu á réttum slóðum því á 4-pinna PWM tengjum er spennan jú alltaf 12V.",
+            "date": "2018-01-04 18:03:00",
+            "post_id": "664369",
+            "reply_to_id": "664362"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "Já sæll. Ég að misskilja hèlt að þú værir að tala um vifturnar lol, skrítið að þessar pumpur noti ekki bara 4xMolex tengi.\nAnnars sniðugt að nota eitthvað 2Amper tengi ef það finnst og stilla PWM á 1/1 high.",
+            "date": "2018-01-05 00:06:00",
+            "post_id": "664384",
+            "reply_to_id": "664369"
+        }
+    ],
+    "date": "2018-01-03 17:12:00"
+}

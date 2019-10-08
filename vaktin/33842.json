@@ -1,0 +1,226 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "33842",
+    "title": "Ná í video af visir.is?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=33842",
+    "posts": [
+        {
+            "user_name": "intenz",
+            "text": "Sælir.\nÉg er að reyna að ná í video af visir.is ( \nhttp://www.visir.is/section/MEDIA99&fileid=CLP749\n )\nÉg er ekki algjör byrjandi í þessu, þannig ég byrjaði að skoða source og fann út að JW Player (flash playerinn) kallar í videoið: /CLP/749_4.mp4\nEn eftirfarandi skilar engu:\nhttp://www.visir.is/CLP/749_4.mp4\nhttp://www.visir.is/section/CLP/749_4.mp4\nhttp://www.visir.is/section/MEDIA99/CLP/749_4.mp4\nBúinn að prófa Flash Got í FireFox, virkaði ekki.\nHafið þið hugmynd?",
+            "date": "2010-11-16 21:50:00",
+            "post_id": "296061",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "svanur08",
+            "text": "prufaðu þetta, þetta er snilldar add-on á firefox ---->http://www.downloadhelper.net/",
+            "date": "2010-11-16 21:58:00",
+            "post_id": "296062",
+            "reply_to_id": "296061"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Skoðaðu í source-inn af síðunni, þar er verið að kalla í fallið displayFlash().\nSvo kíkirðu í javascript skrána þar sem þetta fall er skilgreint: \nhttp://www.visir.is/js/common.js?v=2.11\nog þar má sjá þetta:\nif(server==1){streamer = 'rtmp://klippur.visir.is/vod/_definst_/'};\nif(server==2){streamer = 'rtmp://utsending.visir.is/live/'};\nÞannig að ég hugsa að skránna sé að finna hér:\nrtmp://klippur.visir.is/vod/_definst_/CLP/749_4.mp4\nSvo er hún líka hér, m.v. það sem fallið displayHtml5Mov() er að gera:\nhttp://m3.visir.is/CLP/749_4.mp4",
+            "date": "2010-11-16 22:00:00",
+            "post_id": "296063",
+            "reply_to_id": "296062"
+        },
+        {
+            "user_name": "urban",
+            "text": "Risastórt like á Hag",
+            "date": "2010-11-16 22:18:00",
+            "post_id": "296068",
+            "reply_to_id": "296063"
+        },
+        {
+            "user_name": "dori",
+            "text": "Javascriptið á visir.is er alveg rosalegt. Best finnst mér þetta skjal: \nhttp://visir.is/js/tabs.js",
+            "date": "2010-11-16 22:30:00",
+            "post_id": "296069",
+            "reply_to_id": "296068"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Haha, já ... mætti halda að takmarkið hjá þeim sem skrifaði þetta hafi verið að gera þessa tab-virkni á sem furðulegastan hátt og með eins miklum kóða og mögulegt er.",
+            "date": "2010-11-16 22:32:00",
+            "post_id": "296070",
+            "reply_to_id": "296069"
+        },
+        {
+            "user_name": "andribolla",
+            "text": "Smá off Topic ..\nég sá um daginn að eithver var að reyna að ná mp3 skrám þarna útaf\nsemsagt útvarpsþáttum \nhttp://visir.is/section/MEDIA98&fileid= ... 98390CD54#\nhttp://m3.visir.is/SRC/VEFTVMP3/sources ... _11_12.mp3",
+            "date": "2010-11-16 22:40:00",
+            "post_id": "296072",
+            "reply_to_id": "296070"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Snilld, takk Haukur.",
+            "date": "2010-11-16 22:50:00",
+            "post_id": "296074",
+            "reply_to_id": "296072"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Where have you been all my life?\nTakk.",
+            "date": "2010-11-17 01:23:00",
+            "post_id": "296122",
+            "reply_to_id": "296074"
+        },
+        {
+            "user_name": "Opes",
+            "text": "Hvað er Logi að perrast í Erp þarna í endanum?",
+            "date": "2010-11-17 03:32:00",
+            "post_id": "296131",
+            "reply_to_id": "296122"
+        },
+        {
+            "user_name": "Zorglub",
+            "text": "Ætlaði að prófa að ná einni gamalli umfjöllun þarna og gengur eitthvað brösulega \n \nMyndi alveg þiggja aðstoð \n \nhttp://www.visir.is/section/MEDIA99&fil ... ece052e0e6",
+            "date": "2010-11-17 19:15:00",
+            "post_id": "296277",
+            "reply_to_id": "296131"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Þessi:\nhttp://m3.visir.is/CLP/SRC/VEFTVMP4/sou ... _11_03.mp4\n?",
+            "date": "2010-11-17 20:20:00",
+            "post_id": "296298",
+            "reply_to_id": "296277"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Kóði: \nVelja allt\n                    if (navigator.userAgent.toLowerCase().indexOf('ipad') >= 0  | h5){\n                            displayHtml5Mov('SRC/VEFTVMP4/sources/island_i_dag/2010_11/island_i_dag_2010_11_03.mp4',700,394,'mediaboxid','1','');\n                    }else{\n                        displayFlash('/SRC/VEFTVMP4/sources/island_i_dag/2010_11/island_i_dag_2010_11_03.mp4','true','mediaboxid',700,394,'1','SRC/VEFTVMP4M1/sources/island_i_dag/2010_11/island_i_dag_2010_11_03.mp4','SRC/VEFTVMP4M2/sources/island_i_dag/2010_11/island_i_dag_2010_11_03.mp4','');\n                    }\n            \nPrufaðu:\nhttp://m3.visir.is/SRC/VEFTVMP4/sources ... _11_03.mp4",
+            "date": "2010-11-17 20:20:00",
+            "post_id": "296299",
+            "reply_to_id": "296298"
+        },
+        {
+            "user_name": "Zorglub",
+            "text": "Það er þessi já  \n \nKærar þakkir fyrir það.",
+            "date": "2010-11-17 20:31:00",
+            "post_id": "296303",
+            "reply_to_id": "296299"
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "Þeir sem skrifa visi.is ættu að fá verðlaun. \nVerðlaun fyrir allt sem hægt er að gera illa, gátuði gert illa - og gott betur.\nNýja lookið á visi er t.d. hryllingur. - reyndar betra en það sem áður var .. en þetta mouseonhoover kjaftæði er náttúrulega bara til hrikalega óþægilegur fídus",
+            "date": "2010-11-17 20:58:00",
+            "post_id": "296313",
+            "reply_to_id": "296303"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Jæja, nýtt project?\nNá í myndbönd af MBL.is/frettir/sjonvarp (btw. afhverju í fjandanum er þetta í fréttamöppunni?)\nhttp://mbl.is/frettir/sjonvarp/52884/",
+            "date": "2010-11-18 00:14:00",
+            "post_id": "296369",
+            "reply_to_id": "296313"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Fann þetta...\nhttp://mbl.is/mblvideo/thaettir/94/52884_18084978.mp4",
+            "date": "2010-11-18 00:32:00",
+            "post_id": "296372",
+            "reply_to_id": "296369"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Nice one!\nEn sharing is caring... hvernig?\nedit:\nAh... fundið\nKóði: \nVelja allt\n$(document).ready(function(){\n  var media_info = {\"mp4\": \"thaettir/94/52884_18084978.mp4\", \"image\": \"thaettir/94/52884_18085002.jpg\", \"flv\": null};\n  if (location.hash) {\n    change_current_video(location.hash.replace('#', '').replace('/', ''), true, media_info);\n  } else {\n    change_current_video(52884, true, media_info);\n  }\n});",
+            "date": "2010-11-18 01:21:00",
+            "post_id": "296379",
+            "reply_to_id": "296372"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Já og svo var í einhverri .js skrá þetta /mblvideo/ prefix",
+            "date": "2010-11-18 01:37:00",
+            "post_id": "296381",
+            "reply_to_id": "296379"
+        },
+        {
+            "user_name": "dori",
+            "text": "Bæði mbl.is og visir.is eru \"á milli útlita\" það er búið að skilgreina eitthvað takmark en þeir eru ekki búnir að útfæra nema rosalega lítinn hluta af breytingunum. Þú sérð t.d. að þessar örvar sem eru að koma inn á mbl.is (fyrst í menuinu og svo þarna \"meira í blaðinu í dag\" borðinn) er eitthvað þema sem er bara byrjað að koma inn og lítur mjög hjákátlega út og frekar mikið úr samhengi.\nÆtli það sé ekki bara allt of mikið að gera hjá þessum mönnum, en það er samt ekkert sem afsakar þetta tabs javascript.",
+            "date": "2010-11-18 16:51:00",
+            "post_id": "296463",
+            "reply_to_id": "296381"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Jæja, veit ekki hvort þetta sé hægt... en hér er nýtt project \nhttp://filma.is/myndir/spila/246",
+            "date": "2010-12-02 13:07:00",
+            "post_id": "299877",
+            "reply_to_id": "296463"
+        },
+        {
+            "user_name": "dori",
+            "text": "Ég veit ekki hversu mikið ég nenni að elta þetta. Þeir nota rtmpe streymi (adobe protocol) og þú sérð það að fyrir þessa mynd þá sækir player.swf nokkur url:\nKóði: \nVelja allt\nhttp://filma.is/spilari/leigja/user:XXXXXXXXXXXXX/content:246/language:en\nhttp://filma.is/spilari/straumar/content:246/language:en\nhttp://filma.is/spilari/texti/content:246/user:XXXXXXXXXXXXX/language:is\nhttp://filma.is/spilari/heartbeat/user:XXXXXXXXXXXXXXX/content:246/position:XX.XXX\nFyrsti linkurinn er eitthvað sem þú notar til að leigja og skilar bara OK eða villu (held ég, hef ekki prufað það á einhverju sem ég má ekki).\nNæsti linkur er það áhugaverða, kem að því á eftir.\nÞriðji linkurinn er textaskjal (ef það þarf á því að halda).\nSvo er fjórði linkurinn eitthvað sem endurtekur sig í sífellu og lætur vefþjóninn vita að þú ert að horfa (og hvert þú ert kominn etc.).\nHérna er svo dæmi um eitthvað sem þú færð úr link #2:\nKóði: \nVelja allt\nserver = rtmpe://212.30.228.35/filma/\nbitrate_500 = mp4:movies/valiant/valiant_english_500\nbitrate_750 = mp4:movies/valiant/valiant_english_750\nbitrate_1000 = mp4:movies/valiant/valiant_english_1000\nbitrate_1500 = mp4:movies/valiant/valiant_english_1500\nÞetta myndu vera upplýsingarnar sem þú notar til að tengjast streymiþjóninum. Þannig að ef þú vilt rippa þetta þá þyrftirðu að finna þér eitthvað sem getur hlustað á rtmp straum og vistað hann. Það eru til nokkur forrit sem gera það, nenni ekki að finna það.\nHugsanlega er þetta líka aðeins erfiðara en þetta. Þú gætir þurft að taka í sundur player.swf skjalið, skoða hvað það gerir (SwfDecompiler) og herma eftir því svo að streymiþjónninn leyfi þér að tengjast.",
+            "date": "2010-12-05 13:40:00",
+            "post_id": "300765",
+            "reply_to_id": "299877"
+        },
+        {
+            "user_name": "birgirdavid",
+            "text": "Sælir, ég hef verið að ná í þætti með Audda & Sveppa og núna þegar ég prufa þetta þá virkar það allt í einu ekki \nSlóðin á þættinum : \nhttp://www.visir.is/section/MEDIA99&fileid=CLP1895\nÞannig að maður breytir þessu í : \nhttp://m3.visir.is/CLP/1895_3.mp4\nOg þegar ég fer inn á þetta þá kemur þetta alltaf, var að spá hvort að þetta sé bara hjá mér",
+            "date": "2011-02-15 01:58:00",
+            "post_id": "322690",
+            "reply_to_id": "300765"
+        },
+        {
+            "user_name": "birgirdavid",
+            "text": "ttt",
+            "date": "2011-02-15 15:52:00",
+            "post_id": "322827",
+            "reply_to_id": "322690"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Virkar gamalt dót?",
+            "date": "2011-02-15 16:07:00",
+            "post_id": "322836",
+            "reply_to_id": "322827"
+        },
+        {
+            "user_name": "dori",
+            "text": "Þeir virðast vera búnir að skipta svolítið um tækni. Þeir eru að nota Wowza media server til að streyma klippunum. Skjalið er alveg þarna en ég veit ekki hvernig er best að sækja það í einu lagi. Opnaðu bara urlið í VLC og vistaðu eitthvert annað. Hérna er allavega urlið:\nhttp://klippur.visir.is:1935/vod/_defin ... ylist.m3u8\nedit: hugsanlega eru þeir ekki búnir að breyta neinu hjá sér, þetta er allavega það sem þú munt fá þegar þú skoðar síðuna í iP(hone|ad) og ætli þetta sé ekki HTML live streymið sem Apple bjuggu til. Þeir hjá Wowza kalla þetta HTTP Cupertino. Ég nenni ekki að velta því fyrir mér hvernig er hægt að sækja þetta framhjá eða í gegnum Wowza serverinn þeirra.",
+            "date": "2011-02-15 16:08:00",
+            "post_id": "322838",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "birgirdavid",
+            "text": "Já meinar takk fyrir svarið, en samt þegar ég opna urlið í VLC þá gerist ekkert.",
+            "date": "2011-02-16 19:15:00",
+            "post_id": "323123",
+            "reply_to_id": "322838"
+        },
+        {
+            "user_name": "dori",
+            "text": "Notaðu QuickTime útgáfu 10.0 eða nýrra... Ætti að virka í því.",
+            "date": "2011-02-16 20:32:00",
+            "post_id": "323141",
+            "reply_to_id": "323123"
+        },
+        {
+            "user_name": "birgirdavid",
+            "text": "Heyrðu ég downloadaði nýjasta version og þegar ég opna QuickTime og fer í File - Open Url þá set ég \nhttp://klippur.visir.is:1935/vod/_defin ... ylist.m3u8\n og ýti á OK enn þá kemur bara Error 47: Invalid URL()",
+            "date": "2011-02-16 20:50:00",
+            "post_id": "323149",
+            "reply_to_id": "323141"
+        },
+        {
+            "user_name": "birgirdavid",
+            "text": "Er einhver hér sem kann þetta ?",
+            "date": "2011-04-30 02:18:00",
+            "post_id": "345090",
+            "reply_to_id": "323149"
+        },
+        {
+            "user_name": "Frantic",
+            "text": "Prófaðu chrome. Þetta virkar hjá mér.",
+            "date": "2011-04-30 15:45:00",
+            "post_id": "345187",
+            "reply_to_id": "345090"
+        }
+    ],
+    "date": "2011-02-15 16:08:00"
+}

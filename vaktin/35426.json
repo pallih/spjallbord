@@ -1,0 +1,114 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "35426",
+    "title": "Er að fá ssd (Aðstoð)",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=35426",
+    "posts": [
+        {
+            "user_name": "mundivalur",
+            "text": "Sælir/ar\nÉg er að fá Corsair F120 ssd og er búinn að vera spá hvernig á ég að setja hina hdd upp er með 3 WD 500,640 og 750 gb \nHvernig hafið þið SSD gaurarnir þetta hjá ykkur eða gellurnar",
+            "date": "2011-01-14 20:33:00",
+            "post_id": "312719",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "Hvað ertu eiginlega að tala um?",
+            "date": "2011-01-14 21:35:00",
+            "post_id": "312747",
+            "reply_to_id": "312719"
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "Er að fá \nhttp://www.tolvuvirkni.is/ip.php?inc=vi ... 120GB2-BRK\nEru menn með hina diskana í raid 0,1,eða 5 eða öðru ,kanski bara normal\nKanski er ég bara hugsa upphátt",
+            "date": "2011-01-14 21:47:00",
+            "post_id": "312749",
+            "reply_to_id": "312747"
+        },
+        {
+            "user_name": "B.Ingimarsson",
+            "text": "notar ssd diskinn fyrir stýrikerfið svo hina bara venjulega tengda, no big deal",
+            "date": "2011-01-14 21:51:00",
+            "post_id": "312750",
+            "reply_to_id": "312749"
+        },
+        {
+            "user_name": "nonesenze",
+            "text": "muna bara eftir að enable AHCI í bios fyrir OS install á SSD",
+            "date": "2011-01-14 22:11:00",
+            "post_id": "312754",
+            "reply_to_id": "312750"
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "SSD fyrir OS og vel valin forrit\n3x 500GB í Raid0 fyrir leiki og önnur forrit\nRest fyrir backup eða eitthvað",
+            "date": "2011-01-14 22:41:00",
+            "post_id": "312761",
+            "reply_to_id": "312754"
+        },
+        {
+            "user_name": "Haxdal",
+            "text": "Rétt að vona að þú hafir ætlað að segja Raid5 en ekki Raid0, nema þér finnist gaman að missa allt arrayið ef einn diskur failar",
+            "date": "2011-01-14 22:45:00",
+            "post_id": "312762",
+            "reply_to_id": "312761"
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "Myndi ekki skipta mig neinu máli.\nVeit þó ekki með þráðarhöfund.",
+            "date": "2011-01-14 22:47:00",
+            "post_id": "312763",
+            "reply_to_id": "312762"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Sleppa því bara að RAID-a hina diskana, ekkert sniðugt að vera að RAIDa svona misjafna og misstóra í RAID. Nota frekar bara spanned volume til að sameina þá í storage pool, og backa upp mikilvægustu hlutina.",
+            "date": "2011-01-14 23:42:00",
+            "post_id": "312774",
+            "reply_to_id": "312763"
+        },
+        {
+            "user_name": "nonesenze",
+            "text": "x2",
+            "date": "2011-01-14 23:55:00",
+            "post_id": "312777",
+            "reply_to_id": "312774"
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "Hann er semsagt ekki með 3x 500GB, 1x 640GB og 1x 750GB eins og ég hélt.",
+            "date": "2011-01-14 23:58:00",
+            "post_id": "312780",
+            "reply_to_id": "312777"
+        },
+        {
+            "user_name": "nonesenze",
+            "text": "ég tók þessu allvega sem hann væri með 3 diskar \"500, 640, 750GB\"... en hver veit",
+            "date": "2011-01-15 00:01:00",
+            "post_id": "312781",
+            "reply_to_id": "312780"
+        },
+        {
+            "user_name": "Plushy",
+            "text": "Annaðhvort þetta, eða 3 Western Digital diska, 1 stk 500, 1 stk 640 og 1 stk 750.",
+            "date": "2011-01-15 00:01:00",
+            "post_id": "312783",
+            "reply_to_id": "312781"
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "Western Digital diska, 1 stk 500, 1 stk 640 og 1 stk 750.\njá einmitt þá er það komið á hreint .\nÉg er með 500 og 640 í raid 0 ,varð að prufa \nog 750 fyrir draslið",
+            "date": "2011-01-15 00:33:00",
+            "post_id": "312790",
+            "reply_to_id": "312783"
+        },
+        {
+            "user_name": "nonesenze",
+            "text": "já og þá varð 140gb af engu... 500 og 640 eru ekki beint meint í raid... hafðu bara AHCI á í BIOS fáðu þér SSD og seldu 500 og 640 og fáðu þér annann eins 750 eða seldu 750 og fáðu þér annann 500 eða eitthvað í þá áttinna...\nhelst eins diska með sama buffer size og svona.... svo geturru spáð í hvort þú eigir að nota 128kb stripe  eða 64... eða spá í eitthverju sem skiptir máli í raid",
+            "date": "2011-01-15 00:45:00",
+            "post_id": "312792",
+            "reply_to_id": "312790"
+        }
+    ],
+    "date": "2011-01-14 20:33:00"
+}

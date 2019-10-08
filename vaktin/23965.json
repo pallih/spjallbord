@@ -1,0 +1,86 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "23965",
+    "title": "VANTAR AÐSTOÐ !!!!!!!!!!!!!!!!!!!!!!!",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=23965",
+    "posts": [
+        {
+            "user_name": "rottuhydingur",
+            "text": "heyriði ég þarf hjalp ykkar . sko þannig að mál með vexti að´ég dowloadði Folder locker inná brothersoft.com og þegar ég opnaði það kom bara upp Blár gluggi og að það hefði komið upp Error í system32 , svo komu bara tölur og það slöknaði á henni og svo þegar ég kveiki að tölvunni bara venjulega ekki í safe mode þá kemur þetta upp og þá slöknar a tölvunni sjálfkrafa , ég get bara startað henni í safe mode . ? \ngetur einhver sagt mer Hvað er að og hvað skal gera . ?",
+            "date": "2009-07-21 18:28:00",
+            "post_id": "212148",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Lallistori",
+            "text": "virðist vera vírus , formattaðu kvikindið",
+            "date": "2009-07-21 18:31:00",
+            "post_id": "212149",
+            "reply_to_id": "212148"
+        },
+        {
+            "user_name": "vesley",
+            "text": "miðað við þetta þá er búið að rugla öllu í stýrikerfinu hjá þér ..  ef þú veist hvar folderinn er savaður og getur startað í save mode án þess að crasha þá skaltu reyna að deleta þessu drasli.. ef það virkar ekki þá held ég að það eina sem virkar er að formata tölvuna",
+            "date": "2009-07-21 18:42:00",
+            "post_id": "212151",
+            "reply_to_id": "212149"
+        },
+        {
+            "user_name": "rottuhydingur",
+            "text": "jaokei - einhver fleiri ráð einhver ?",
+            "date": "2009-07-21 19:44:00",
+            "post_id": "212161",
+            "reply_to_id": "212151"
+        },
+        {
+            "user_name": "dorg",
+            "text": "System Restore má allavega reyna það",
+            "date": "2009-07-21 20:09:00",
+            "post_id": "212162",
+            "reply_to_id": "212161"
+        },
+        {
+            "user_name": "rottuhydingur",
+            "text": "sko nuna þegar ég ælla að starta í safe mode þa get ég ekkert stjórnað tölvunni og get ekki notað lyklabroðið né músina .",
+            "date": "2009-07-22 14:48:00",
+            "post_id": "212279",
+            "reply_to_id": "212162"
+        },
+        {
+            "user_name": "armann",
+            "text": "Tengja diskinn í aðra tölvu, bjarga gögnunum og strauja, tekur minni tíma.",
+            "date": "2009-07-22 14:50:00",
+            "post_id": "212280",
+            "reply_to_id": "212279"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "Einhvern Linux LiveCD eins og kannski Puppy bara og ræsa tölvuna af honum. Tengja svo flakkara eða eitthvað slíkt við og henda því sem þú vilt bjarga yfir á drifið og strauja svo tölvuna.\nÉg hef gert þetta svona 15-20 sinnum og það hefur aldrei klikkað. Nota reyndar alltaf Ubuntu LiveCD en Puppy LiveCD ætti að virka eins, síðan er hann undir 100 mb þannig að það sparar þér tíma",
+            "date": "2009-07-22 16:29:00",
+            "post_id": "212291",
+            "reply_to_id": "212280"
+        },
+        {
+            "user_name": "dorg",
+            "text": "System Rescue CD er reyndar algjör snilld í þetta.\nshare yfirleitt disk og afrita yfir netið eða nota flakkara.\nNýjasta útgáfa er með GUI þannig að þetta er ekki nokkurt mál.",
+            "date": "2009-07-22 17:44:00",
+            "post_id": "212305",
+            "reply_to_id": "212291"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Það er hægt að fá stýrikerfi sem startar sér af CD \"Knoppix\" minnir mig af vef RH-nets s.s. HÍ...\nMan að það er mörgæs í lógóinu og þetta er linux kerfi sem virkar fínt...\nÉg mundi fá þetta brennt á disk fyrir mig starta tölvunni og bjarga gögnum og svo strauja kvikindið...",
+            "date": "2009-07-22 20:24:00",
+            "post_id": "212314",
+            "reply_to_id": "212305"
+        },
+        {
+            "user_name": "armann",
+            "text": "ftp://ftp.rhnet.is/",
+            "date": "2009-07-22 21:15:00",
+            "post_id": "212326",
+            "reply_to_id": "212314"
+        }
+    ],
+    "date": "2009-07-21 18:28:00"
+}

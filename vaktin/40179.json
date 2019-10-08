@@ -1,0 +1,44 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "40179",
+    "title": "Vandræði með óskýrt letur í Mediacenter 42\" Plasma",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=40179",
+    "posts": [
+        {
+            "user_name": "einarhr",
+            "text": "Ég er í vandærðum með skjáupplausnina/Hz á Mediacenterinu sem ég setti sama fyrir bróðir minn og lýsir það sér þannig að allt letur á Sjónvarpinu er gróft/óskýrt eins og Hz séu að valda þessu. \nEr með Hp Compaq 7600 workstation með C2D örgjörva sem ég er búin að uppfæra með ATI 5450 skjákorti sem er með HDMI. Þetta virkar allt fínt í XBMC þegar er ég með upplausnina 1920x1080 en þegar ég er að surfa á sjálfu Win7 þá eru allt letur mjög óskýrt. Ég er búin að reyna að stilla þetta eftir öllum þeim kúnstum sem ég kann, breyta Hz ofl en fæ þetta enganvegin til að virka.\nHafa menn verið að lenda í svona löguðu?\nBrósi er með Pioner Plasma sem er 42\" Hd Ready og á það að upscalea í 1080i, skil ekki afhverju allt svona fínt í XBMC en í sjálfu Windows svona ömurlegt.\nSkal koma með týpuna af sjónvarpinu næst þegar ég kíki í heimsók til hans.\nÖnnur spurning þar sem ég á 3 svona tölvur og ætla að setja eina upp fyrir mig sjálfan og langar að fá álit á því að keyra XBMC með Ubuntu. Verður ekkert mál að láta skjákortið senda hljóð og mynd í gegnum HDMI ss HD5450 kort. Er drivervesen ?\nmeð fyrirfram þökk\nEinar",
+            "date": "2011-07-26 15:12:00",
+            "post_id": "366013",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "hagur",
+            "text": "Er þetta ekki alveg jafn óskýrt í XBMC, en sést bara ekki eins vel þar sem allt letur þar er talsvert stærra en þegar þú ert í Win7 ?\nAnnars er þetta alveg þekkt vandamál með sjónvörp þar sem þau reyna oft á tíðum að over/underscanna efnið og það kemur í veg fyrir að maður fái 1:1 pixel mapping.  Það veldur einmitt svona fuzzyness á smáum hlutum einsog letri.\nÉg myndi skoða hvort að sjónvarpið bjóði upp á eitthvað PC-mode eða \"Fit to panel\" eða eitthvað þessháttar, þ.e til að slökkva á over/underscan.  Eins gætirðu prófað að fikta í over/underscan (Gæti kallast scaling options) í Catalyst Control Panel.",
+            "date": "2011-07-26 15:58:00",
+            "post_id": "366019",
+            "reply_to_id": "366013"
+        },
+        {
+            "user_name": "bixer",
+            "text": "stillinginn sem hagur er að tala um heitir oft \"game mode\" r sum þar er sjónvarpið ekki að fokka í neinu",
+            "date": "2011-07-26 16:25:00",
+            "post_id": "366023",
+            "reply_to_id": "366019"
+        },
+        {
+            "user_name": "einarhr",
+            "text": "takk fyrir strákar ég kíki á þetta á morgun.",
+            "date": "2011-07-26 17:04:00",
+            "post_id": "366039",
+            "reply_to_id": "366023"
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "Mitt LG plasma er bara 1024x768 og upscale 1920x1080 flott að horfa á video en gengur ekki að vafra,þarf að lækka niður í 1366x eitthvað svo það verði skírt !\nEr það 1920x1080 hjá honum?",
+            "date": "2011-07-26 18:00:00",
+            "post_id": "366055",
+            "reply_to_id": "366039"
+        }
+    ],
+    "date": "2011-07-26 15:12:00"
+}

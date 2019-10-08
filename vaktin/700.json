@@ -1,0 +1,30 @@
+{
+    "forum_title": "Windows",
+    "id": "700",
+    "title": "NTFS -> FAT32 klessa",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=700",
+    "posts": [
+        {
+            "user_name": "halanegri",
+            "text": "Ég nota Windows mjög lítið lengur og ætlaði um daginn að geta skrifað á 90gb NTFS partition(inniheldur stöff sem ég DL með DC) í Linux. Svo ég bjó til litla disksneið, installaði WinXP og Partition Magic 8. Ég ætlaði að splitta henni í tvennt og converta síðan í FAT32, en einhvern veginn tókst mér óvart að velja að converta fyrst, splitta svo. Þegar ég kom að tölvunni nokkrum mínútum seinna, þá hafði PM convertað en kom með einhverja villu í endann(eitthvað invalid í sambandi við FAT32).\n\n\n\nEftir þetta get ég ekki lesið drifið í Explorer, Windows er 5x lengur að starta sér og bara mjög sljótt almennt, örugglega vegna þess að það er að reyna að lesa drifið. PM segir núna að drifið sé FAT32, en ég get ekki valið að converta aftur í NTFS, en ef ég vel Split, þá get ég browsað í skráarkerfinu þar sem ég vel hvað fer á hvern helming, en það kemur villa ef ég reyni að framkæma Splittið.\n\n\n\nÉg prófaði að opna Command Prompt og gera \"convert f: /fs:ntfs\" og þá byrjaði það að converta(listaði hverja skrá í leiðinni) en kom síðan með villu í endann sem sagði að drifið innihaldi skrár/möppur sem væru fráteknar í NTFS skráarkerfinu(ekki skrítið þar sem að þetta var NTFS drif). Ég prófaði líka að installa Win2k í staðinn og gera \"convert f: /fs:ntfs\" en fæ sömu villu.\n\n\n\nHafið þið einhverja hugmynd um hvernig hægt sé að bjarga þessu? Ég veit allavega að það á að vera hægt að bjarga þessu einhvern veginn því að PM gat lesið skrárnar með Split möguleikanum, og að skrárnar voru útlistaðar þegar ég gerði \"convert f: /fs:ntfs\".",
+            "date": "2003-05-03 22:30:00",
+            "post_id": "5106",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "úff, ég er ekki alveg að skilja það sem að þú ert að reyna að koma útúr þér en þú gætir prufað að setja diskinn í aðra vél og opna svo PM. Þá kemur hann stundum með villuboð og býður að laga villur ef að þær eru einhverjar á disknum.",
+            "date": "2003-05-03 23:49:00",
+            "post_id": "5110",
+            "reply_to_id": "5106"
+        },
+        {
+            "user_name": "halanegri",
+            "text": "Ég gat alveg opnað PM eftir þetta rugl, en hann bauðst ekki til að laga neinar villur. Ég ætla að prófa að fara með diskinn til vinar míns á morgun, vonandi byrjar tölvan hans ekki að lagga....",
+            "date": "2003-05-04 01:31:00",
+            "post_id": "5112",
+            "reply_to_id": "5110"
+        }
+    ],
+    "date": "2003-05-03 22:30:00"
+}

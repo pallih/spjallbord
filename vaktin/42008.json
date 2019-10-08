@@ -1,0 +1,58 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "42008",
+    "title": "Vantar hjálp við að setja upp Minecraft server",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=42008",
+    "posts": [
+        {
+            "user_name": "psteinn",
+            "text": "Ég er hjá tal með hvítann ráder ég get fundið út hvað hann heitir ef þess er óskað.\nGetur eithver sagt mér hverning ég set upp minecraft server. Ég er með windows 7,64-bit\nlinkar,öll hjálp vel þeginn.\nKv.Pétur",
+            "date": "2011-10-01 19:22:00",
+            "post_id": "384486",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "downloada mutiplayer version og setja það upp\nhttp://www.minecraft.net/download\nsvo opna fyrir port á routerinum svo aðrir geti joinað.\nþað er nr 25565\nferð svo á \nhttp://myip.is/\n og setur inn ip töluna plus port númerið.\nþá myndi það koma sirka: XX.XXX.XXX.XXX;25565",
+            "date": "2011-10-01 19:45:00",
+            "post_id": "384491",
+            "reply_to_id": "384486"
+        },
+        {
+            "user_name": "worghal",
+            "text": "best að nota Bukkit sem server samt",
+            "date": "2011-10-01 19:50:00",
+            "post_id": "384494",
+            "reply_to_id": "384491"
+        },
+        {
+            "user_name": "psteinn",
+            "text": "Takk kærlega fyrir.",
+            "date": "2011-10-02 12:04:00",
+            "post_id": "384626",
+            "reply_to_id": "384494"
+        },
+        {
+            "user_name": "psteinn",
+            "text": "Ég er bara í smá vandræðum hverning ég opna portið.",
+            "date": "2011-10-02 12:09:00",
+            "post_id": "384628",
+            "reply_to_id": "384626"
+        },
+        {
+            "user_name": "sakaxxx",
+            "text": "þú getur hringt í þjónustuverið og beðið þau um að opna port fyrir þig",
+            "date": "2011-10-02 12:59:00",
+            "post_id": "384639",
+            "reply_to_id": "384628"
+        },
+        {
+            "user_name": "psteinn",
+            "text": "Takk fyrir það.",
+            "date": "2011-10-03 19:19:00",
+            "post_id": "384987",
+            "reply_to_id": "384639"
+        }
+    ],
+    "date": "2011-10-01 19:22:00"
+}

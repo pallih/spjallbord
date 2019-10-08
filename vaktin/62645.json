@@ -1,0 +1,121 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "62645",
+    "title": "Nýtt skjákort; tölva ræsir sig ekki.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=62645",
+    "posts": [
+        {
+            "user_name": "SteiniDJ",
+            "text": "Sælir,\nVar að uppfæra GTX 470 yfir í GTX 970. Hef skipt um skjákort oft áður og fylgdi öllum settum reglum, en nú ræsir tölvan sér ekki. Þ.e., eins og það sé enginn straumur (PSU virðist virka sem skyldi) og ekkert gerist. Ég er búinn að reyna að hreinsa CMOS oftar en einusinni, með því að fjarlægja rafhlöðuna, nota skrúfjárn á jumperna skv. handbók móðurborðsins.\nBúinn að fjarlægja allan jaðarbúnað, skipta RAM á milli hólfa, setja gamla skjákortið í, tengja framhjá PWR hnappnum. Ekkert virðist hafa áhrif, tölvan jafn dauð og alltaf.\nÁtti við sambærilegt vandamál að stríða fyrir stuttu. Fjarlægði allt úr gömlum kassa og færði yfir í nýjan, stærri kassa (Fractal XL). Þá neitaði hún að fara í gang, en tók upp á því sjálf skömmu síðar og var þá allt eins og það átti að vera. Síðan þá hefur hún verið algjörlega til friðs og eru komnir tæpir 30 dagar síðan. \nEinhver ráð?\nKv, Steini\nPS. Tölvan er í sambandi.",
+            "date": "2014-09-30 16:46:00",
+            "post_id": "575382",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "MatroX",
+            "text": "það vantar alla specca um tölvuna, móðurborð, aflgjafa etc.. tengdiru ekki alveg örruglega rafmagn í kortið?",
+            "date": "2014-09-30 16:49:00",
+            "post_id": "575383",
+            "reply_to_id": "575382"
+        },
+        {
+            "user_name": "SteiniDJ",
+            "text": "Jú, tengdi 8 + 6 pin straum í kortið.\nUpplýsingar um vélina:\nMóðurborð: Gigabyte Z87-D3HP\nCPU: Intel i5 4670K\nGPU: Gigabyte GTX 970\nPSU: Zalman 770W\nKv, Steini",
+            "date": "2014-09-30 16:50:00",
+            "post_id": "575384",
+            "reply_to_id": "575383"
+        },
+        {
+            "user_name": "oskar9",
+            "text": "Ég lenti í því að vélin mín ræsti ekki eftir samsettingu, ég notaði vír til að jumpa græna og svarta vírnum í 24 pin tenginu, ég notaði of sveran vír og ég glennti sundur female tengið á græna vírnum svo hann náði ekki allveg 100% sambandi.\nSkoðaðu hvort female endar rafmagnstengjana á skjákortasnúrunum séu nokkuð útglenti",
+            "date": "2014-09-30 17:21:00",
+            "post_id": "575391",
+            "reply_to_id": "575384"
+        },
+        {
+            "user_name": "frr",
+            "text": "Það er vel mögulegt að þetta séu vírarnir í usb tengið framan á vélinni. Prófaðu að aftengja þá úr móðurborðinu. Ef það dugar ekki,  aftegndu allt annað sem  tengist framan í vélina, en on/off rofann.\nAnnar möguleiki er að festing til að skrúfa í móðurborðið, sé í kassanum og komi upp þar sem ekkert skrúfugat er á móðurborðinu.",
+            "date": "2014-09-30 17:25:00",
+            "post_id": "575392",
+            "reply_to_id": "575391"
+        },
+        {
+            "user_name": "atlifreyrcarhartt",
+            "text": "móðurborðið á að geta farið í gang hvort sem skjakortið er tengt eða ekki \n farðu yfir 24pinna tengið að gráu gaurarnir inní séu ekki i lagi",
+            "date": "2014-09-30 17:30:00",
+            "post_id": "575394",
+            "reply_to_id": "575392"
+        },
+        {
+            "user_name": "SteiniDJ",
+            "text": "Þakka svörin! \nTók USB tengin að framan úr sambandi, allt óbreytt.\n24 pin, ásamt 6 & 8 pin, virðist vera í lagi. Hér er mynd að 24 pin. Það er eins og það vanti eitt stykki, en hingað til hefur það verið í lagi:",
+            "date": "2014-09-30 17:43:00",
+            "post_id": "575395",
+            "reply_to_id": "575394"
+        },
+        {
+            "user_name": "atlifreyrcarhartt",
+            "text": "tölvan var i notkunn bara buið að skipta um gpu og þá hættir hun að virka ??",
+            "date": "2014-09-30 18:01:00",
+            "post_id": "575402",
+            "reply_to_id": "575395"
+        },
+        {
+            "user_name": "SteiniDJ",
+            "text": "Tölvan var í notkun og sýndi engin tákn um að eitthvað væri óeðlilegt. Síðan drap ég á henni, tók hana úr sambandi, setti hana á vinnuborð, opnaði og skipti um skjákort, og lokaði. Síðan ekkert.",
+            "date": "2014-09-30 18:11:00",
+            "post_id": "575404",
+            "reply_to_id": "575402"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "aflgjafinn búinn að gefa upp öndina?",
+            "date": "2014-09-30 18:17:00",
+            "post_id": "575406",
+            "reply_to_id": "575404"
+        },
+        {
+            "user_name": "SteiniDJ",
+            "text": "Jú, ætli það sé ekki málið? Hefði haldið að hann ætti að þola svona duglegt skjákort. Eru 770W ekki nóg m.v. þetta build sem ég er með?\nKaupi annars annan á morgun, þá ætti ég að sjá hvort þetta sé aflgjafinn eða ekki.",
+            "date": "2014-09-30 18:30:00",
+            "post_id": "575411",
+            "reply_to_id": "575406"
+        },
+        {
+            "user_name": "atlifreyrcarhartt",
+            "text": "Prufaðu að setja jumper a hann með ekkert annað i sambandi \n vir a milli græna og svarta",
+            "date": "2014-09-30 19:03:00",
+            "post_id": "575416",
+            "reply_to_id": "575411"
+        },
+        {
+            "user_name": "SteiniDJ",
+            "text": "Eins hlægilegt og það kann að vera, þá er ég ekki með neitt hér til að gera þetta í augnablikinu. Nýfluttur erlendis og bara það allra nauðsynlegasta til.",
+            "date": "2014-09-30 19:21:00",
+            "post_id": "575419",
+            "reply_to_id": "575416"
+        },
+        {
+            "user_name": "slapi",
+            "text": "Ertu að segja mér Steini að námsmaðurinn sé ekki með bréfaklemmu?",
+            "date": "2014-09-30 19:41:00",
+            "post_id": "575420",
+            "reply_to_id": "575419"
+        },
+        {
+            "user_name": "SteiniDJ",
+            "text": "Búinn að snúa öllu við",
+            "date": "2014-09-30 20:16:00",
+            "post_id": "575425",
+            "reply_to_id": "575420"
+        },
+        {
+            "user_name": "SteiniDJ",
+            "text": "Smá update. Fékk bréfaklemmu og aflgjafinn virkaði. En hann hagaði sér samt undarlega; virkaði bara þegar dautt var á hnappnum aftaná , og viftan snérist nánast ekkert. Setti nýjan aflgjafa í (140W aflminni \n ) og tölvan virkar nú sem skyldi. Þakka góð ráð og alla fengna aðstoð!",
+            "date": "2014-10-01 17:10:00",
+            "post_id": "575525",
+            "reply_to_id": "575425"
+        }
+    ],
+    "date": "2014-09-30 16:46:00"
+}

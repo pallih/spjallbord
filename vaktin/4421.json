@@ -1,0 +1,184 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "4421",
+    "title": "Blue screen",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=4421",
+    "posts": [
+        {
+            "user_name": "gulligu",
+            "text": "Hjálp var að fá mér Abit An7 móður morð amd 3000xp (400fsb) 1024mb minni 3200 cl2,5 og Abit 9600xt vivo skjákort og ég er búinn að setja þetta saman en það er allt í skralli blue screen og allt tilheyrandi lengsta sem eg hef komist er að rétt byrja á því að installa windows xp.",
+            "date": "2004-06-12 18:49:00",
+            "post_id": "44944",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gumol",
+            "text": "Skrifaðu niður error messageð og googalaðu því eða farðu á microsoft.com og chekkaðu á því.",
+            "date": "2004-06-12 21:59:00",
+            "post_id": "44954",
+            "reply_to_id": "44944"
+        },
+        {
+            "user_name": "Cicero",
+            "text": "Þetta orsakast oft útaf gölluðu vinnsluminni eða móðurborði.\n\nPrufaðu að hækka voltin á minninu, virkaði hjá félaga mínum.",
+            "date": "2004-06-13 02:24:00",
+            "post_id": "45000",
+            "reply_to_id": "44954"
+        },
+        {
+            "user_name": "gulligu",
+            "text": "ja ég er búinn að prufa að hækka voltin á minninu ég ætla bara með þetta niðrí tölvu búð.",
+            "date": "2004-06-13 02:33:00",
+            "post_id": "45003",
+            "reply_to_id": "45000"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "ef að vandamálið er við móðurborð/vinnsluminni þá ætti villan að koma óreglulega(og oft), en ef að villan er alltaf á sama stað, er það líklegast software/driver vandamál.\n\n\n\nHeld að hann ætti frekar að lækka volt'in, þurfti að gera það til að fá Kingston DDR333/400(manekki \n) 512MB með Shuttle AK37GTR móbóinu mínu. Hlutir eiga það til að verða óstöðugri þegar þeir eru overclockaðir",
+            "date": "2004-06-13 02:35:00",
+            "post_id": "45004",
+            "reply_to_id": "45003"
+        },
+        {
+            "user_name": "Cicero",
+            "text": "ekkert endilega",
+            "date": "2004-06-13 02:41:00",
+            "post_id": "45007",
+            "reply_to_id": "45004"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "nei, en oft......\n\nEf að driver'inn fyrir t.d. USB tengi er gallaður, myndi sana villan bara og alltaf koma þegar nota á USB tengin.\n\nEf að villan er í vinnsluminninu ætti það að vera tilviljunarkennt hvaða villa kemur(hvað stendur í BSOD) og hvenær hún kemur.\n\n\n\nendilega gerðu frekari grein fyrir svari þínu, kannski fer ég með rangt mál(hey, it could happen \n)",
+            "date": "2004-06-13 02:48:00",
+            "post_id": "45009",
+            "reply_to_id": "45007"
+        },
+        {
+            "user_name": "gulligu",
+            "text": "Það kemur eikkað í sambandi við new hardware hum það er notla allt nýtt og ekkert windows inná og síðan er einn í sambandi við að disable virus eikkað það er allt þannig í bios ég skil þetta ekki allt í hassi. þetta er yfirleitt aldrei á sama stað.",
+            "date": "2004-06-13 02:58:00",
+            "post_id": "45011",
+            "reply_to_id": "45009"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "aight, prufaðu að taka allan óþarfa úr tölvunni = hafa bara móðurborð, cpu, ram, psu og skjákort inní henni",
+            "date": "2004-06-13 14:13:00",
+            "post_id": "45028",
+            "reply_to_id": "45011"
+        },
+        {
+            "user_name": "gulligu",
+            "text": "Það var það fyrsta sem ég gerði.",
+            "date": "2004-06-13 14:40:00",
+            "post_id": "45035",
+            "reply_to_id": "45028"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "ahh, þá ég get varla hjálpað þér almennilega sona í gegnum netið.\n\ndettur í hug að þú gætir prufað að skipta út einum hlut í einu, eða google'a netið eftir svipuðu vandamáli með svipað setup",
+            "date": "2004-06-14 00:46:00",
+            "post_id": "45077",
+            "reply_to_id": "45035"
+        },
+        {
+            "user_name": "gulligu",
+            "text": "Nenni ekkert svoleiðis vesen var að kaupa þetta þannig að ég ætla bara niðri búð með þetta á mrogun einsgott að ég þurfi ekki að borga morðfjárfyrir það hum.",
+            "date": "2004-06-14 19:55:00",
+            "post_id": "45123",
+            "reply_to_id": "45077"
+        },
+        {
+            "user_name": "Hlynzi",
+            "text": "Gefðu okkur fyrst skilaboðin sem BSOD kemur með. \n\n\n\nDriver vandamál er ekki ólíklegt, ég hef fengið þannig með driver sem var ekki WHQL (gæðaeftirlit eitthvað), það var reyndar fyrirgefanlegt vegna þess að það var á módemi (drasl) \n\n\n\nOg ef þetta er ekki random villur, þá hlýtur RAM að vera í lagi.",
+            "date": "2004-06-15 21:39:00",
+            "post_id": "45187",
+            "reply_to_id": "45123"
+        },
+        {
+            "user_name": "gulligu",
+            "text": "Jey þetta er komið í lag fór niðri búð og hann fattaði strax hvað væri að þetta var minnis diveser eikkað sem er alltaf stilt á defult og hann verður að vera á 6/6 svo að þetta virki þetta þarf að gera við öll amd borð sem eru með 400fsb örgjörva",
+            "date": "2004-06-15 22:50:00",
+            "post_id": "45208",
+            "reply_to_id": "45187"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Amd er bara vesen....AMD=BLUE SCREEN OF DEATH",
+            "date": "2004-06-16 01:29:00",
+            "post_id": "45246",
+            "reply_to_id": "45208"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "j3j3",
+            "date": "2004-06-16 09:52:00",
+            "post_id": "45262",
+            "reply_to_id": "45246"
+        },
+        {
+            "user_name": "fallen",
+            "text": "Þú ert væntanlega að tala um dividerinn á minninu?\n\n\n\nOg er 6/6 ekki það sama og 1/1 eða 2/2, 3/3 o.s.frv. ?",
+            "date": "2004-06-16 14:21:00",
+            "post_id": "45281",
+            "reply_to_id": "45262"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "samkvæmt minni stærðfræðikunnáttu er þetta það sama",
+            "date": "2004-06-16 15:14:00",
+            "post_id": "45291",
+            "reply_to_id": "45281"
+        },
+        {
+            "user_name": "fallen",
+            "text": "Já, ég get valið úr öllu þessu í divider möguleikunum í bios, wierd stuff þar sem þetta er allt 1.",
+            "date": "2004-06-16 15:22:00",
+            "post_id": "45293",
+            "reply_to_id": "45291"
+        },
+        {
+            "user_name": "gulligu",
+            "text": "Og hvaða stillingur er best að hafa og væri einhver til í að skýra út hvað þessar stillingar gera?",
+            "date": "2004-06-16 18:50:00",
+            "post_id": "45302",
+            "reply_to_id": "45293"
+        },
+        {
+            "user_name": "dabb",
+            "text": "ég forðast að fara með einhvað í viðgerð, endar með að maður fær huge reiking",
+            "date": "2004-06-16 19:43:00",
+            "post_id": "45304",
+            "reply_to_id": "45302"
+        },
+        {
+            "user_name": "gulligu",
+            "text": "Þeir föttuðu þetta strax ég fór með tölvuna strax út þannig að ég borgaði ekkert þeir eru bara mokkuð góðir hjá Hugver",
+            "date": "2004-06-16 20:39:00",
+            "post_id": "45306",
+            "reply_to_id": "45304"
+        },
+        {
+            "user_name": "gulligu",
+            "text": "Minnið er reyndar stillt á 5/6 og það er bara 333mhz en ég vill keyra minnið á 400 þar sem það er 400 en þegar ég set á 6/6 þá keyrir hún ekki upp hvað er til bragðs?",
+            "date": "2004-06-17 19:51:00",
+            "post_id": "45406",
+            "reply_to_id": "45306"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "hmm, finnst þér skrítið þegar að þegar þú stillir 333 minni að keyra á 400, að það keyri ekki?",
+            "date": "2004-06-17 22:19:00",
+            "post_id": "45415",
+            "reply_to_id": "45406"
+        },
+        {
+            "user_name": "gulligu",
+            "text": "Ég er með 400mhz minni en það er bara að keyra á 333 og ég vill notla hafa það á 400.",
+            "date": "2004-06-18 01:00:00",
+            "post_id": "45426",
+            "reply_to_id": "45415"
+        }
+    ],
+    "date": "2004-06-12 18:49:00"
+}

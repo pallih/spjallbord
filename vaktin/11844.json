@@ -1,0 +1,72 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "11844",
+    "title": "Sjónvarpsflakkari",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=11844",
+    "posts": [
+        {
+            "user_name": "Prowler",
+            "text": "Góðann daginn.\n\n\n\nÉg verslaði mér þennan \nhttp://www.tolvuvirkni.net/ip?inc=view& ... Vix_M3100U\n\n\nfyrir nokkrum dögum. \n\nÉg tók bara gamla 160 samsung HDD minn úr tölvunni og setti í hann.\n\nSá diskur var ekki aðal diskur á tölvunni minni.\n\n\n\nÞegar ég tengi hann við sjónvarpið þá kemur þessi villu melding\n\n\n\nMounting on the hard disk drive was failed\n\nPlease check cable connection, partion and format settings.\n\n\n\nÉg er búinn að prufa formatta og búa til nýtt partion.\n\nVeit ekki hvað skal gera?\n\n\n\n\n\nEdit: Bætti við að diskurinn er NTFS formattaður og er nokkuð\n\n að hann sé ATA en ekki sata eins og virkar ekki með Tvix\n\nhttp://www.samsung.com/Products/HardDis ... P1614N.htm",
+            "date": "2006-09-22 14:03:00",
+            "post_id": "127981",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "ÓmarSmith",
+            "text": "Spurning hvort þú þurfir að formatta diskinn áður, myndi halda það.\n\n\n\nHvernig er hann formattaður ? FAT eða NTFS.\n\n\n\n\n\nAnnars lét ég Task sjá um þetta alveg fyrir mig þegar ég fékk mér Rapsody spilarann.",
+            "date": "2006-09-22 14:11:00",
+            "post_id": "127982",
+            "reply_to_id": "127981"
+        },
+        {
+            "user_name": "Prowler",
+            "text": "Ég formattaði hann eftir að ég setti hann í boxið.\n\nannars er þetta NTFS",
+            "date": "2006-09-22 14:29:00",
+            "post_id": "127983",
+            "reply_to_id": "127982"
+        },
+        {
+            "user_name": "Ripper",
+            "text": "Getur verið að diskurinn sé stilltur sem slave? þá býst ég við að þú þurfir að breyta í master\n\n\nÞetta er ekki Seral-ATA diskur það eru allt öðruvísi tengi á þeim. Þú gætir ekki tengt hann í samband",
+            "date": "2006-09-22 15:25:00",
+            "post_id": "127990",
+            "reply_to_id": "127983"
+        },
+        {
+            "user_name": "Hannesinn",
+            "text": "Eins og fleiri, þá myndi ég veðja á vitlausa jumperingu.  Ég þurfti að stilla boxið sem ég setti í gang um daginn á master.  Sumir diskar, eins og Western Digital, þurfa sérstaka Master/Single jumperingu.",
+            "date": "2006-09-22 15:52:00",
+            "post_id": "127996",
+            "reply_to_id": "127990"
+        },
+        {
+            "user_name": "stjanij",
+            "text": "ef þú ert ekki klár hvað er master eða slave taktu þá jumperinn úr og sjáðu hvað gerist",
+            "date": "2006-09-22 20:43:00",
+            "post_id": "128023",
+            "reply_to_id": "127996"
+        },
+        {
+            "user_name": "Prowler",
+            "text": "Hann er stilltur á master held ég.",
+            "date": "2006-09-22 23:57:00",
+            "post_id": "128048",
+            "reply_to_id": "128023"
+        },
+        {
+            "user_name": "stjanij",
+            "text": "farðu bara til þeirra sem seldu þér græjuna og biddu þá um að sýna þér hvernig þetta virkar og ekki fara, frá þeim, nema að þú sjáir dótið virka.",
+            "date": "2006-09-23 00:22:00",
+            "post_id": "128050",
+            "reply_to_id": "128048"
+        },
+        {
+            "user_name": "Prowler",
+            "text": "þetta var vitlaus jumper stilling. Takk fyrir hjálpina",
+            "date": "2006-09-24 14:16:00",
+            "post_id": "128085",
+            "reply_to_id": "128050"
+        }
+    ],
+    "date": "2006-09-22 14:03:00"
+}

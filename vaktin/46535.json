@@ -1,0 +1,44 @@
+{
+    "forum_title": "Koníakstofan",
+    "id": "46535",
+    "title": "myndbandi af ruv.is",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=9&t=46535",
+    "posts": [
+        {
+            "user_name": "Róbert",
+            "text": "Sælir,\ngetur einhver hjálpað mér að ná myndbandi af ruv.is nánar þessu\nhttp://www.ruv.is/sarpurinn/heimskautin ... zen-planet\nfyrirframþakkir.\nkv.Róbert",
+            "date": "2012-03-13 21:56:00",
+            "post_id": "428360",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AciD_RaiN",
+            "text": "Getur sótt þér camtasia recorder en það er örugglega einhver betri leið",
+            "date": "2012-03-13 21:59:00",
+            "post_id": "428361",
+            "reply_to_id": "428360"
+        },
+        {
+            "user_name": "vikingbay",
+            "text": "Stream not found: mp4:ruvvod/4621933$1.mp4\nnáðiru myndbandinu af ruv.is",
+            "date": "2012-03-13 22:22:00",
+            "post_id": "428364",
+            "reply_to_id": "428361"
+        },
+        {
+            "user_name": "ORION",
+            "text": "",
+            "date": "2012-03-13 22:24:00",
+            "post_id": "428366",
+            "reply_to_id": "428364"
+        },
+        {
+            "user_name": "Dagur",
+            "text": "Þú vilt líklega \nrtmpdump\nÞú getur prófað þessa skipun:\nKóði: \nVelja allt\n rtmpdump -r rtmp://194.144.162.38/ruvvod?key=94720 -a vod -y mp4:ruvvod/4621933$1.mp4  -o bla.mp4\nég lofa því ekki að þetta virki",
+            "date": "2012-03-14 10:20:00",
+            "post_id": "428444",
+            "reply_to_id": "428366"
+        }
+    ],
+    "date": "2012-03-13 21:56:00"
+}

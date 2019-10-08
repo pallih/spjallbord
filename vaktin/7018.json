@@ -1,0 +1,51 @@
+{
+    "forum_title": "Yfirklukkun, hraðaprófanir og mods",
+    "id": "7018",
+    "title": "Hvað get/á ég að yfirklukka ?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=1&t=7018",
+    "posts": [
+        {
+            "user_name": "bardi",
+            "text": "Ég er með 2500xp örgjörva\n\n1gb í tveimur kubbum af Kingston hyperX (333 mhz) minni\n\nGeforce 128mb 4200ti skjákort\n\n\n\nÉg er með Soyo KT400 Dragon Ultra móðurborð sem mér skilst að dugi uppí 3200xp örgjörva\n\nnýbúinn að fá mér zalman kælingu á örrann etja heatzink á móðurborðið og uppfæra kassavifturnar svo hitastig ætti ekki að verða vandamál.\n\n\n\nGogo komið með hugmyndir og hafið það eins nákvæmt og þið getið því ég kann ekki rassgat á þetta \n bara búinn að vera að lesa um þetta t.d hérna á Vaktinni og langar að prófa.",
+            "date": "2005-01-12 15:33:00",
+            "post_id": "74344",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Einfaldasta yfirklukkunin er að finna agp lock í bios.. og hækka síðan fsb í littlum skrefum og prófa stöðuleika tölvunar á milli.",
+            "date": "2005-01-12 15:48:00",
+            "post_id": "74352",
+            "reply_to_id": "74344"
+        },
+        {
+            "user_name": "Birkir",
+            "text": "Það er ekki AGP/PCI lock á þessu chipsetti.  Það ætti samt ekki að stoppa þig í að koma örranum í 3200xp hraða.  Ég er með 2400xp @ 3200xp hraða með þessu chipsetti, reyndar er ég með annað móðurborð en ég held að það skipti ekki miklu máli í þessu tilviki þar sem þetta er nú ekkert extreme overclocking.",
+            "date": "2005-01-12 15:51:00",
+            "post_id": "74354",
+            "reply_to_id": "74352"
+        },
+        {
+            "user_name": "bardi",
+            "text": "hvaða forrit keyri ég til að prófa stöðugleikann ?\n\nog hvað kallaru að hækka fsb í litlum skrefum  \n [/quote]",
+            "date": "2005-01-12 15:54:00",
+            "post_id": "74357",
+            "reply_to_id": "74354"
+        },
+        {
+            "user_name": "Birkir",
+            "text": "Þegar hann talar um að hækka fsb í litlum skrefum þá meinar hann að þú eigir að hækka t.d. fsb úr 166 upp í 170 til að byrja með, fara í OS og prófa stöðugleika og hita og annað.  Til að prófa stöðugleika þá er mjög gott að nota forrit eins og Prime95.",
+            "date": "2005-01-12 15:56:00",
+            "post_id": "74358",
+            "reply_to_id": "74357"
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "Finndu leiðbeiningar á netinu um hvernig á að overclocka, það er flóknara en að hækka bara fsb í litlum skrefum.",
+            "date": "2005-01-12 16:52:00",
+            "post_id": "74367",
+            "reply_to_id": "74358"
+        }
+    ],
+    "date": "2005-01-12 15:33:00"
+}

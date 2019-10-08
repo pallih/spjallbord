@@ -1,0 +1,23 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "60443",
+    "title": "Vantar hjálp með driver vesen!",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=60443",
+    "posts": [
+        {
+            "user_name": "SIKk",
+            "text": "Hæhæ, ég er í veseni með driver þegar ég tengi símann minn..\nÞannig er það að í augnablikinu hef ég ekkert Wi-Fi þar sem ég er, og hef þess vegna bara tengt símann minn (Samsung Galaxy Note 2) við tölvuna í gegnum USB og semsagt kveikt á USB-Tethering..\nEn í hvert skipti sem ég tengi hann þá þarf ég að gera \"Roll Back driver\" í Device Manager, því að tölvan tekur alltaf uppá því sjálfkrafa að updatea driverinn, og sá driver sem hún setur upp í staðinn er greinilega corrupt því að netið virkar ekki nema ég geri þetta..  \n \nSpurningin mín er semsagt, er einhver leið til að slökkva á þessu automatic update? \nÖll hjálp vel þegin!  \n \nTakk",
+            "date": "2014-04-07 12:05:00",
+            "post_id": "558503",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Ef Windows Update er að uppfæra þennann driver þá er lítið mál að finna Windows Update í Control Panel og taka af 'Install updates automatically'.  Mæli samt með að þú hafir stillinguna sem lætur þig vita þegar það koma ný update svo þú getir installað þeim handvirkt (en þá valið hverju þú installar).",
+            "date": "2014-04-07 12:29:00",
+            "post_id": "558505",
+            "reply_to_id": "558503"
+        }
+    ],
+    "date": "2014-04-07 12:05:00"
+}

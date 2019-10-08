@@ -1,0 +1,37 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "33038",
+    "title": "Full HD 1080P",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=33038",
+    "posts": [
+        {
+            "user_name": "svanur08",
+            "text": "Var að spá nú er ég með skjá sem er 1920x1080p og ef ég spila bluray í tölvunni með bluray drifi gegnum Cyberlink PowerDVD er ég þá ekki að fá Full HD 1080P mynd ?",
+            "date": "2010-10-08 17:31:00",
+            "post_id": "287182",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "hagur",
+            "text": "Júbb ...\nEf þú notar HDMI tengi eða DVI með HDCP þá færðu FullHD 1080p mynd.  Ef HDCP vantar í keðjuna, þá færðu líklega down-scalaða mynd, þ.e mynd í lægri gæðum.  HDCP copyright protection awesomeness",
+            "date": "2010-10-08 18:16:00",
+            "post_id": "287193",
+            "reply_to_id": "287182"
+        },
+        {
+            "user_name": "svanur08",
+            "text": "skjárinn og skjákortið eru HDCP og þetta er tengt í DVI, ef ég fer í information í powerdvd stendur resolution 1920x1080, var bara spá hvort þetta væri nokkuð 1080i það hlítur þá að vera 1080p",
+            "date": "2010-10-08 18:21:00",
+            "post_id": "287194",
+            "reply_to_id": "287193"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Jább, tölvur eru progressive, ekki interlaced",
+            "date": "2010-10-08 19:23:00",
+            "post_id": "287210",
+            "reply_to_id": "287194"
+        }
+    ],
+    "date": "2010-10-08 17:31:00"
+}

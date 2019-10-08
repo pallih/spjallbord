@@ -1,0 +1,51 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "54816",
+    "title": "\"Aftermarket\" router á ADSL + IPTV",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=54816",
+    "posts": [
+        {
+            "user_name": "Sallarólegur",
+            "text": "Sælir.\nHefur einhver hér keypt sér router út í búð og configað fyrir IPTV Voda á port 4?",
+            "date": "2013-05-03 11:07:00",
+            "post_id": "508955",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "kuwy",
+            "text": "Ég efast um að það virki því það þarf að config'a portið sjálft á sér VLAN og það er gert með command line skipun. Ég hef ekki gert þetta sjálfur en líklegast væri það hægt svo lengi sem að internet fyrirtækið þitt eru viljugir til að gefa upp þær stillingar sem vanta.",
+            "date": "2013-05-03 15:08:00",
+            "post_id": "508985",
+            "reply_to_id": "508955"
+        },
+        {
+            "user_name": "GrimurD",
+            "text": "Þetta er alveg hægt á flestum routerum, en Vodafone aðstoðar ekki með þessar stillingar. Það er líka mjög, mjög mismunandi eftir routerum hvernig þetta er stillt.",
+            "date": "2013-05-03 19:16:00",
+            "post_id": "509012",
+            "reply_to_id": "508985"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Jam, VLAN stillingarnar eru VPI 4 og VCI 44, var að spá hvort einhver hér hefði prufað þetta á custom router",
+            "date": "2013-05-04 23:10:00",
+            "post_id": "509192",
+            "reply_to_id": "509012"
+        },
+        {
+            "user_name": "kuwy",
+            "text": "Prófaðiru þetta?",
+            "date": "2013-05-08 18:55:00",
+            "post_id": "509781",
+            "reply_to_id": "509192"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Neib, er með Voda router",
+            "date": "2013-05-08 19:02:00",
+            "post_id": "509782",
+            "reply_to_id": "509781"
+        }
+    ],
+    "date": "2013-05-03 11:07:00"
+}

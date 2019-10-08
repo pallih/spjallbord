@@ -1,0 +1,30 @@
+{
+    "forum_title": "Windows",
+    "id": "28300",
+    "title": "Windows Vista + Football manager 2010",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=28300",
+    "posts": [
+        {
+            "user_name": "hallzli",
+            "text": "Komiði sæl! heyrðu það er smá prob þegar ég reyni að installa FM2010 er á Vista þá kemur alltaf \nInstaller interface mode not supported\nUnable to load and to prepare the installer in GUI mode \nvitiði hvað er að ?",
+            "date": "2010-02-13 02:10:00",
+            "post_id": "245048",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "DoofuZ",
+            "text": "Ég ætla að giska á að þetta lagist ef þú keyrir install forritið í compatibility mode, getur t.d. prófað að velja þar Windows XP. Til að gera það þá einfaldlega hægrismelliru á forritið, ferð þar í properties, velur svo Compatibility flipann, hakar þar við \"Run this program in compatibility mode for:\", velur þar Windows XP (skiptir ekki öllu máli hvert þeirra þú velur ef það eru fleiri en eitt XP í listanum) og smellir svo á OK. Eftir það ætti að virka að keyra forritið. Ef ekki þá ferðu aftur í stillingarnar og hakar við eitthvað af því sem kemur undir Settings, getur byrjað á því sem er efst þar og ef það virkar ekki þá merkiru við næsta o.s.frv.\nEf engin af þessum compatibility mode stillingum virkar og enginn annar kemur með einhverja betri lausn þá finnuru kannski lausnina frekar \nhér\n \nMeira veit ég amk. ekki",
+            "date": "2010-02-13 02:34:00",
+            "post_id": "245049",
+            "reply_to_id": "245048"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "ég fann þetta með hjálp google\nhttp://www.hauser-wenz.de/s9y/index.php ... orted.html",
+            "date": "2010-02-13 02:48:00",
+            "post_id": "245050",
+            "reply_to_id": "245049"
+        }
+    ],
+    "date": "2010-02-13 02:10:00"
+}

@@ -1,0 +1,156 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "50482",
+    "title": "Linux distro sem fangelsar",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=50482",
+    "posts": [
+        {
+            "user_name": "marijuana",
+            "text": "Mig langar að fikta smááá, og langar í \nlinux\n sem er með svipað öryggi og FreeBSD eða tekur öll app og jailar þau. \nOg síðan væri æðislegur bónus ef hann myndi síðan halda öllum forritum frá user X sér og User Y sér og svo framvegis ... \n \nIdeas ?",
+            "date": "2012-09-19 18:19:00",
+            "post_id": "467635",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "thehulk",
+            "text": "Kanntu á Linux? Hefurðu prófað einhver distro?",
+            "date": "2012-09-19 18:34:00",
+            "post_id": "467638",
+            "reply_to_id": "467635"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ertu að reyna að aðgangsstýra forritum eftir userum?",
+            "date": "2012-09-19 19:11:00",
+            "post_id": "467642",
+            "reply_to_id": "467638"
+        },
+        {
+            "user_name": "marijuana",
+            "text": "Ummm, sko, ég vill að ef ég set upp forrit sem \"Teddi\" þá geti \"Teddi\" BARA notað forritið. Síðan ef e-h annar notandi vill nota það þá þarf hann sjálf/ur að setja það upp fyrir sinn notenda .. Skiluru ? \n@thehulk \nNei, ég heeeeeeeeeef aldrei prófað linux distro \n \nnei, nei, ég hef fiktað í um 5 ár með þetta rusl.",
+            "date": "2012-09-19 23:40:00",
+            "post_id": "467703",
+            "reply_to_id": "467642"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Nota Windows - Install this program only for this user? :p",
+            "date": "2012-09-19 23:47:00",
+            "post_id": "467707",
+            "reply_to_id": "467703"
+        },
+        {
+            "user_name": "marijuana",
+            "text": "Mehe, Neee, Windows hentar klámfíkli eins og mér ekki...",
+            "date": "2012-09-19 23:51:00",
+            "post_id": "467708",
+            "reply_to_id": "467707"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Uhm, hvað kemur klám málinu við?",
+            "date": "2012-09-19 23:55:00",
+            "post_id": "467711",
+            "reply_to_id": "467708"
+        },
+        {
+            "user_name": "marijuana",
+            "text": "Veit ekki hversu oft ég hef lent í því að fá eh funky shiit í tölvuna út frá því að skoða klám á windows..   \n \nÞað eru víst ekki allar síður safe. \nTo be serious, HATA forritun (Website) á Windows. eða SSH sem ég nota verulega mikið...",
+            "date": "2012-09-19 23:59:00",
+            "post_id": "467714",
+            "reply_to_id": "467711"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Klámsíður? Ég hélt að það hefði nú bara orðið úrelt daginn sem P2P varð mainstream",
+            "date": "2012-09-20 00:00:00",
+            "post_id": "467715",
+            "reply_to_id": "467714"
+        },
+        {
+            "user_name": "marijuana",
+            "text": "Ég er spes, sem og að ég nenni aldrei að eyða efni þannig ég gæti endað með soooldið stóran pakka...",
+            "date": "2012-09-20 00:02:00",
+            "post_id": "467716",
+            "reply_to_id": "467715"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Ef þú ert hræddur um að grípa keylogger (og meira drasl) þá held ég að Sandboxie væri málið fyrir þig.",
+            "date": "2012-09-20 00:50:00",
+            "post_id": "467725",
+            "reply_to_id": "467716"
+        },
+        {
+            "user_name": "gardar",
+            "text": "chroot?\nAnnars er gentoo það sem þú kemur næst því að blanda linux og bsd",
+            "date": "2012-09-20 01:04:00",
+            "post_id": "467726",
+            "reply_to_id": "467725"
+        },
+        {
+            "user_name": "dori",
+            "text": "Þú getur auðvitað sett upp notendur með chroot þannig að þeir komist ekki út fyrir það og cherry pickað inní chrootið (eða leyft þeim jafnvel sjálfum að fylla það). Það er samt bölvað vesen ef það eina sem þú vilt er að geta sett upp forrit sem þú keyrir sjálfur.\nSetja forritið bara upp í /home/marijuana/bin, chmod u=rx,go= /home/marijuana/bin/forrit og bæta ~/bin í PATH.\nEf það er allt sem þú vilt gera þá er þeta lang auðveldast. Það er alltaf einhver sem þarf að vera fyrir utan öll jail/chroot og ef þú ætlar að gefa notanda sem lifir inní chroot aðgang að öllu eins og hann sé ekki inní því (nema með annað forritasafn) þá ertu kominn í flókinn pakka með mikilli hættu á leka. Hvort er vandamálið að þú viljir hafa sér forrit fyrir þig eða sér forrit fyrir aðra? Eru einhverjar pælingar í þessu sem þú tekur ekki fram?",
+            "date": "2012-09-20 10:35:00",
+            "post_id": "467748",
+            "reply_to_id": "467726"
+        },
+        {
+            "user_name": "marijuana",
+            "text": "Held að þetta sé bara alls ekki sniðugt fikt hjá mér þá. Nei ég tók allt fram sem ég vildi held ég. \nen þússt, er ekki að nenna að pæla í linux kerfi lengur, ætla að henda mér í PC-BSD í kvöld líklega  \n \nE-h ráðleggingar áður en ég fer útí það ?",
+            "date": "2012-09-20 12:24:00",
+            "post_id": "467769",
+            "reply_to_id": "467748"
+        },
+        {
+            "user_name": "dabb",
+            "text": "Þú vilt örugglega kíkja á þetta í staðinn fyrir jails.\nhttp://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/mac.html",
+            "date": "2012-09-20 16:20:00",
+            "post_id": "467802",
+            "reply_to_id": "467769"
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "Setur bara upp eitthvað obscure distro á virtualbox vél sem nú notar fyrir klámið.",
+            "date": "2012-09-20 16:30:00",
+            "post_id": "467804",
+            "reply_to_id": "467802"
+        },
+        {
+            "user_name": "marijuana",
+            "text": "Ég bað ekki um ráðleggingar um þetta, drullisti til að vera on-topic \n \n@dabbtech \ntakk, ætla að skoða þetta :-)",
+            "date": "2012-09-20 18:35:00",
+            "post_id": "467814",
+            "reply_to_id": "467804"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Það getur vel verið að besta lausnin á vandamálinu þínu sé allt önnur en sú sem þú ert að spyrja um, verum opin fyrir öðrum leiðum en þeim fyrstu sem koma upp í huga.",
+            "date": "2012-09-20 22:58:00",
+            "post_id": "467872",
+            "reply_to_id": "467814"
+        },
+        {
+            "user_name": "marijuana",
+            "text": "Nei, það er ekki besta lausnin og ALLT, ALLT, ALLT annað en ég bað um, ég vil að kerfið mitt geti sett upp forrit sem aðeins sá notandi getur notað, næsti notandi verður síðan að setja það upp aftur vilji hann nota það... Hvernig tengist það að setja up kerfi á virtual box ?\nAnnars er ég búinn að redda þessu bara... BSD hentar mér virðist vera.",
+            "date": "2012-09-21 12:15:00",
+            "post_id": "467926",
+            "reply_to_id": "467872"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Þú ert að reyna að leysa eitthvað með þessum afmörkunum þínum, mögulega er hægt að leysa það á annan hátt en með þessum afmörkunum. S.s. besta lausnin á vandamálinu er ekki alltaf sú sem maður finnur uppá sjálfur.\nHvort og hvað á við í þínu tillfelli skiptir í sjálfu sér litlu, ég vildi bara setja þetta inn þar sem þú varst að kvarta yfir offtopic. Það sem ég sá var bara annar vinkill á lausn á þínu mögulega vandamáli. Þar sem þú hefur í sjálfu sér ekki sagt hvað grunn \"vandinn\" er, þá vitum við ekkert hver besta lausnin er, þetta \"offtopic\" sem kom var ágætis lausn á vandamáli sem þú ert mögulega með.",
+            "date": "2012-09-21 12:54:00",
+            "post_id": "467934",
+            "reply_to_id": "467926"
+        },
+        {
+            "user_name": "marijuana",
+            "text": "Ég er víst búinn að segja \"vandamálið\" og það er síðan einnig búið að svara mér ef þú myndir íhuga að lesa önnur komment í þræðinum. (dori) \nÉg vil, eins og ég var búinn að segja -.-', að ég geti sett upp forrit á notenda A án þess að notandi B geti séð né notað þau nema setja þau sjálfur upp aftur fyrir sig. Virtual box fyrir það ? Ennnndilega segðu mér hvernig ?  \n \nOg annað, þetta var ekki og er ekki vandamál, þetta er hugmynd hvort ég geti eða ekki og mér sýnist ég ekki geta þetta með góðu móti sem kom einnig fram í svari dori .",
+            "date": "2012-09-21 17:36:00",
+            "post_id": "467974",
+            "reply_to_id": "467934"
+        }
+    ],
+    "date": "2012-09-19 18:19:00"
+}

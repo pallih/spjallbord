@@ -1,0 +1,30 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "41322",
+    "title": "HJÁLP!!!",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=41322",
+    "posts": [
+        {
+            "user_name": "Lexander",
+            "text": "Sælir.\nEr að vinna með vefsíðu (WordPress) og var að fikta í þemanu og nú kemur alltaf þessi error: Parse error: syntax error, unexpected ';', expecting ')' in /var/www/______/wp-content/themes/______/functions.php on line 13.\nHvað á ég að laga?",
+            "date": "2011-09-06 18:59:00",
+            "post_id": "377941",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Daz",
+            "text": "Paste-aðu þessu inn í code box, ekki sem mynd. Það væri skemmtileg byrjun í það minnsta",
+            "date": "2011-09-06 19:19:00",
+            "post_id": "377946",
+            "reply_to_id": "377941"
+        },
+        {
+            "user_name": "Black",
+            "text": "2. gr.\nÞað á að nota lýsandi titla á nýjum bréfum\ndæmi: Titillinn á ekki að vera \"Hjálp!\" eða \"Hvort?\" heldur frekar \n\"Vantar hjálp með fps drop í CS\" eða \"P4 3.0 GHz eða AMD64 3000+?\"\nviewtopic.php?f=33&t=6900",
+            "date": "2011-09-06 19:23:00",
+            "post_id": "377948",
+            "reply_to_id": "377946"
+        }
+    ],
+    "date": "2011-09-06 18:59:00"
+}

@@ -1,0 +1,44 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "24692",
+    "title": "munur  á kubbum p43 og p45?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=24692",
+    "posts": [
+        {
+            "user_name": "alexone",
+            "text": "Ef eg skildi þetta rett . þá eini munur er: að p43 styður bara ein pci-e 2.0 (16) slot i stað 2x pci-e 2.0 (2x8) hjá p45  og aðeins minna af usb og sata tengingum ?",
+            "date": "2009-08-31 18:59:00",
+            "post_id": "216749",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "P45 er annaðhvort með 1x 16x PCI-E eða 2x 8x PCI-E, en P43 er alltaf með 1x16x. P43 er með bæði DDR2 og DDR3 support, en bara uppað 1066mhz. P45 er með DDR3 1600mhz support.\nSvo er P45 talsvert betra til yfirklukkunar.",
+            "date": "2009-08-31 19:39:00",
+            "post_id": "216760",
+            "reply_to_id": "216749"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Samt sem áður þótt móðurboðin styðji bara upp að 1066MHz eða 1600MHz að ef þú yfirklukkar minnið í segjum 1250MHz eða hitt uppí 1800MHz að þá styðja móðurborðin það líka. Ég er að keyra mitt minni á 1020MHz en móðurboðið er bara ætlað fyrir 800MHz, keyrir samt sem áður mjög vel.",
+            "date": "2009-08-31 21:56:00",
+            "post_id": "216794",
+            "reply_to_id": "216760"
+        },
+        {
+            "user_name": "alexone",
+            "text": "þannig ef eg fer ekki i yfirklukkun þá p43 mb á duga ágætlega ?",
+            "date": "2009-08-31 22:05:00",
+            "post_id": "216797",
+            "reply_to_id": "216794"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Hvort sem þú ferð í yfirklukkun eða ekki ætti p43 að duga ágætlega.. komdu með meira spec hvað þú ætlar að hafa á þessu borði..",
+            "date": "2009-09-01 11:14:00",
+            "post_id": "216865",
+            "reply_to_id": "216797"
+        }
+    ],
+    "date": "2009-08-31 18:59:00"
+}

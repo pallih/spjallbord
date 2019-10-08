@@ -1,0 +1,58 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "49420",
+    "title": "Steam vesen",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=49420",
+    "posts": [
+        {
+            "user_name": "Don Vito",
+            "text": "Ég var að kaupa mér Dead Island og Crysis og eitthvað drasl. Nú langar mig að installa þeim úrþví erlenda niðurhalið mitt hefur \"reset\"-ast. \nEn það er ekkert endalaust pláss eftir á local disknum mínum, hvar breyti ég default install location í steam? \nEinhver?",
+            "date": "2012-08-01 20:48:00",
+            "post_id": "458028",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "marte1nn",
+            "text": "https://support.steampowered.com/kb_article.php?ref=7418-YUBN-8129",
+            "date": "2012-08-01 20:57:00",
+            "post_id": "458031",
+            "reply_to_id": "458028"
+        },
+        {
+            "user_name": "Don Vito",
+            "text": "takk, en ojj hvað ég nenni þessu veseni ekki! UGH!",
+            "date": "2012-08-01 21:23:00",
+            "post_id": "458045",
+            "reply_to_id": "458031"
+        },
+        {
+            "user_name": "Frost",
+            "text": "Exit the Steam client application.\nBrowse to the Steam installation folder for the Steam installation you would like to move (C:\\Program Files\\Steam by default).\nDelete all of the files and folders except the SteamApps folder and Steam.exe\nCut and paste the whole Steam folder to the new location, for example: D:\\Games\\Steam\\\nLaunch Steam and log into your account. \nÞetta er svo fljótgert...",
+            "date": "2012-08-01 21:56:00",
+            "post_id": "458055",
+            "reply_to_id": "458045"
+        },
+        {
+            "user_name": "Don Vito",
+            "text": "Já ok, ég rétt opnaði linkinn, var að skoða þetta í símanum mínum.\nHélt þetta væri dæmið þar sem maður þarf að uninstalla steam og öllum leikjunum og installa því öllu saman á annað location.  My bad...\nTakk fyrir drengir, geri þetta næst þegar ég sest niður við tölvuna.",
+            "date": "2012-08-02 23:24:00",
+            "post_id": "458269",
+            "reply_to_id": "458055"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Getur líka gert eins og ég er með þar sem ég nota forrit sem heitir Link Shell Extension.\nÞá geturðu valið hvaða möppu sem er og ýtt á Pick Link Source og svo geturðu farið eitthvað annað og valið Drop as junction og þá fer svona symbolic linkur þar sem þú droppaðir þessu. Getur haft möppu bara fyrir steam instöll og svo búið til junction fyrir allt draslið.\nGetur verið mjög sniðugt ef maður er með svona forrit eins og Steam og líka reyndar fyrir uTorrent og fleira þar sem maður getur fært til hluti og búið til svona symbolic links aftur á staðinn og haldið áfram að deila.",
+            "date": "2012-08-02 23:27:00",
+            "post_id": "458271",
+            "reply_to_id": "458269"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Ég lét Steam bara taka backup af leikjunum sem ég er ekki að spila reglulega og setti þau backup á annan disk og uninstallaði síðan leikjunum til að búa til pláss fyrir aðra leiki",
+            "date": "2012-08-02 23:37:00",
+            "post_id": "458273",
+            "reply_to_id": "458271"
+        }
+    ],
+    "date": "2012-08-01 20:48:00"
+}

@@ -1,0 +1,93 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "28447",
+    "title": "Flakkari og afruglari",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=28447",
+    "posts": [
+        {
+            "user_name": "kazgalor",
+            "text": "Hæhæ, ég biðst fyrirfram afsökunar fyrir lélegann titil, datt ekkert betra í hug. Svona er mál með vexti, ég er með ADSL router inni hjá mér, svo snúru frammí stofu þarsem afruglarinn er.\nHingað til hefur þetta ekki verið vandamál, en núna er ég kominn með flakkara sem er nettengdur og mér langar að hafa hann í sambandi líka. Vandamálið er að afruglarinn er í spes porti í routernum sem er einungis fyrir sjónvarp, svo ég get ekki víxlað snúrunni eða verið bara með switch og hafa afruglarann og flakkarann samtengda í stofunni. Eina sem mér dettur í hug er að hafa snúruna áfram til að þjóna afruglaranum, og kaupa svo nýtt svona lan-power dæmi fyrir flakkarann. (Er nú þegar með 2 þanning, einn hjá router og eitt inní öðru herbergi, svo það væri engin rosa fjárfesting.)\nMér langaði bara að sjá hvort þið snillingarnir væru kannski með betri lausn á þessu.(?)\nÉg tek það fram að ekki kemur til greina að flytja routerinn í stofuna, þarsem það er engin símalína þar.\n:::EDIT:::           :::EDIT:::\nÉg fann útúr þessu, maður getur keypt þráðlaust USB netkort sem virkar með flakkaranum. Takk fyrir hjálpina",
+            "date": "2010-02-21 09:10:00",
+            "post_id": "246095",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "sigurdur",
+            "text": "Þú ert nú þegar með netsnúru innan úr herbergi og fram í stofu. Getur þú ekki skipt henni út fyrir símasnúru? Eða lagt símasnúru úr herberginu inn í stofu og netsnúruna til baka inn í herbergI?",
+            "date": "2010-02-21 09:42:00",
+            "post_id": "246098",
+            "reply_to_id": "246095"
+        },
+        {
+            "user_name": "kazgalor",
+            "text": "Jah, svosem gæti ég það. En þá þyrfti ég í rauninni að vera með hana áfram til að koma interneti inn til mín. Ég er ekki viss um að konan á heimilinu verði neitt rosalega sátt með fleiri snúrur meðfram veggjum. En er enginn með frumlega hugmynd? Er ég kannski búinn að hugsa þetta alveg til enda?",
+            "date": "2010-02-21 09:43:00",
+            "post_id": "246099",
+            "reply_to_id": "246098"
+        },
+        {
+            "user_name": "Tiger",
+            "text": "Það borgar sig alls ekki að hafa langa símasnúru (max 2m) því þær eru ekki til þess gerðar og geta byrjað að missa gögn. Ég er í nákvæmlega sömu aðstæðum og byjaði að prufa svona net/rafmagnstengi en virkaði ekki í mínu húsi, en myndi samt prufa það fyrir afruglarann fyrst, Síminn er kominn með sterkari týpu af þeim. Ég endaði á að leggja aðra netsnúru bara (skiptir engu 1 eða 2 meðframvegnum) og þá er maður líka 100% öruggur um fullan gagnafluttning.",
+            "date": "2010-02-21 10:27:00",
+            "post_id": "246102",
+            "reply_to_id": "246099"
+        },
+        {
+            "user_name": "akarnid",
+            "text": "Ef þú vilt vera rosalega klár, þá geturu notað saman lan kapalinn.  Það eru tvö pör af snúrum í kaplinum ónotuð og þú gætir notað þau fyrir flakkarann.  Þá þarft að vísu crimper og smá reynslu af gerð LAN kapla,en þetta er hægt",
+            "date": "2010-02-21 11:37:00",
+            "post_id": "246106",
+            "reply_to_id": "246102"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Þú bara leggur aðra netstnúru fram í stofu, og færð þér netta kapalrennu í Bykó/Húsasmiðjunni til að fela kaplana.  Það fást grannar rennur sem taka akkúrat 1-3 CATx kapla og hægt er að líma á vegginn alveg niður við gólf/gólflista.\nMálið leyst.",
+            "date": "2010-02-21 11:38:00",
+            "post_id": "246107",
+            "reply_to_id": "246106"
+        },
+        {
+            "user_name": "gtice",
+            "text": "Daginn,\nEf þú þarft síma og 10/100 net þá er nóg að nota einn Cat5e kapal eða betri, og skipta honum upp.\nÞað má gera annað hvort með því að skipta um tengi og setja fleiri eða búa til dós með 2 tengjum, eða einfaldlega setja splitter á báða enda ..   Þetta fékkst í t.d. Íhlutum, þeir geta lóðsað þig í gegnum þetta, hvaða leið sem þú velur, svo eru allar upplýsingar á netinu.\nEf það á hinsvegar að vera gigabit samband á línunni, þá geturðu ekki skipt henni upp, þar sem sá staðall notar alla vírana.  Það má þó færa rök fyrir því að gigabit sé óþarfi í heima og útstöðvaumhverfi..",
+            "date": "2010-02-21 12:24:00",
+            "post_id": "246112",
+            "reply_to_id": "246107"
+        },
+        {
+            "user_name": "benson",
+            "text": "það sem hann sagði. Ef þú ert ekki með töng til að klemma nýja hausa á kapalinn þá er alltaf hægt að kaupa splittera og rj45 female-female plögg og föndra það þannig.\nRj45 splitter\nrj45 female to female tengi\nÞú gætir sett female to female tengin á sitthvorn endann á snúrunni. Þá geturðu plöggað splitterum á sitthvorn endann og færð þér svo stutta cat5 patch kapla. Sennilega frekar dýrt og örugglega betra að fá sér bara annan kapal.\nEn ef þú ætlar að splitta kaplinum þá geturðu fengið þér utanáliggjandi cat5 tengil í húsasmiðjunni á 1500 kall svipað og þetta:",
+            "date": "2010-02-21 12:37:00",
+            "post_id": "246115",
+            "reply_to_id": "246112"
+        },
+        {
+            "user_name": "kazgalor",
+            "text": "Mér lýst best á þessa hugmynd, aðallega vegna þess að hún er mjög einföld. Vandamálið er bara að stykkið af þessu kostar 15 þús kall. Það er svosem hægt að fá ódýrari týpur en ég er með 2 fyrir og þyrfti að kaupa af sömu tegund væntanlega",
+            "date": "2010-02-21 19:46:00",
+            "post_id": "246172",
+            "reply_to_id": "246115"
+        },
+        {
+            "user_name": "Halli25",
+            "text": "Hvernig væri að fá sér bara Switch inní stofu sem þú tengir Flakkarann og afruglarann við?\nhttp://www.att.is/product_info.php?cPat ... c9beb15621\nert þá með möguleika að tengja 2 önnur tæki við netið inní stofu hjá þér",
+            "date": "2010-02-22 13:16:00",
+            "post_id": "246288",
+            "reply_to_id": "246172"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Eftir því sem ég best veit þá er það ekki hægt, þar sem að sjónvarps-portið á routernum er spes, þ.e má ekki mixa því við venjulega nettraffík.",
+            "date": "2010-02-22 13:53:00",
+            "post_id": "246297",
+            "reply_to_id": "246288"
+        },
+        {
+            "user_name": "kazgalor",
+            "text": "Rétt. Það væri auðvitað þægilegasta lausnin ef það væri ekki fyrir þetta litla vandamál",
+            "date": "2010-02-22 14:35:00",
+            "post_id": "246306",
+            "reply_to_id": "246297"
+        }
+    ],
+    "date": "2010-02-21 09:10:00"
+}

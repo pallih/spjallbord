@@ -1,0 +1,303 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "61673",
+    "title": "Cat5 tengingar-hjálp",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=61673",
+    "posts": [
+        {
+            "user_name": "Magni81",
+            "text": "Sælir\nEr að leggja cat5 snúrur í öll herbergi í húsinu mínu. Er núna að setja upp utanáliggjandi cat5-tengibox sem ég get svo \"pluggað\" snúrunni í. \nMálið er það að það er ekki sama tengingin á milli tengisins í snúru og tengingar í boxi (sjá mynd- í boxi er að ég að nota röð B). Og þegar ég hef tengt þetta saman þá skynar tölvan einhverja tengingu en hún dettur út og inn. Er eitthvað sem er að fara framhjá mér??\nNote: ég hef prófað að tengja vírana í boxinu eins og í snúrunni en það gaf ekkert merki...",
+            "date": "2014-07-16 18:15:00",
+            "post_id": "567438",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "þú ert með þetta utanályggjandi cat5 box og liklegast með það tengt þá, appelsínugulur/hvítur, appelsínugulur, blár, blár/hvítur, grænn/hvítur, grænn, brúnn/hvítur, brúnn.\nen hvernig er það tengt hja þér á hinum endanum? þarf að vera eins tengt þar.",
+            "date": "2014-07-16 18:23:00",
+            "post_id": "567439",
+            "reply_to_id": "567438"
+        },
+        {
+            "user_name": "Magni81",
+            "text": "Ég er með netsnúru úr Elko. Hún er tengd eins og tengingin á blaðinu á myndinni sýnir.",
+            "date": "2014-07-16 18:26:00",
+            "post_id": "567440",
+            "reply_to_id": "567439"
+        },
+        {
+            "user_name": "Oak",
+            "text": "Betra ef að þú sendir okkur mynd af tengingunum þínum.\nErtu með \"punch\" til að tengja þetta inná eða ertu bara að setja þetta með höndunum niður?",
+            "date": "2014-07-16 18:36:00",
+            "post_id": "567441",
+            "reply_to_id": "567440"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Eins og þetta hljómar og lítur út þá ertu að gera hlutina rétt, B staðallinn er notaður á flestum stöðum í dag.\nFáðu lánaðan paratester einhverstaðar eða verslaðu þér slíkann. Þá sérðu fljótt og örugglega hvort það sé sambandsleysi á einhverjum vír eða einhverjir af vírunum rangt tengdir.\nÉg skýt annars á að veggtengillinn sé sökudólgurinn hjá þér, hvernig ertu að festa vírana í honum? Ertu með alvöru puncher eða ertu bara að nota skrúfjárn?",
+            "date": "2014-07-16 18:37:00",
+            "post_id": "567442",
+            "reply_to_id": "567441"
+        },
+        {
+            "user_name": "Magni81",
+            "text": "Ég þarf að fá mér puncher, er með mjög nett skrúfjárn að tengja þetta núna. \nEr það þá rétt skilið hjá mér að röðin á vírunum (snúru og veggboxi) skipti ekki máli, þ.e. að röðin skuli ekki vera sú sama.",
+            "date": "2014-07-16 18:48:00",
+            "post_id": "567443",
+            "reply_to_id": "567442"
+        },
+        {
+            "user_name": "siggik",
+            "text": "ef blaðið sem sýnir tengingarnar er frá elko og sýnir kapalinn þá tengirðu það eins í boxið \"B\", ég notaði puncher til að tengja slatta af svona en hann ýtti því ekki nóg niður þannig að ég notað örsmátt flattskrúfjárn til að þrýsta þessu niður, áður en ég gerði það þá lýsti þetta sér einsog þú talaðir um, þannig að ég giska á að þetta er ekki að ná nógum contact því þetta er ekki nógu vel \"punchað\" en þetta getur bara verið bull hjá mér",
+            "date": "2014-07-16 19:04:00",
+            "post_id": "567445",
+            "reply_to_id": "567443"
+        },
+        {
+            "user_name": "Skari",
+            "text": "Tengdu þetta eftir B staðlinum í tengiboxinu og ekki vera að rugla þig á að bera röðinina saman því að undir prentplötunni í tengiboxinu er allt lóðað þannig að þetta verði eins og í rétti röð í kaplinum.",
+            "date": "2014-07-16 19:34:00",
+            "post_id": "567448",
+            "reply_to_id": "567445"
+        },
+        {
+            "user_name": "Skari",
+            "text": "og ef þú þarft þetta akkurat NÚNA þá gætirðu afeingrað vírana og troðið því smá niður með skrúfjárni, góðar líkur á að ef þú ert ekki að nota puncher að þú sért ekki að særa kápuna.",
+            "date": "2014-07-16 19:36:00",
+            "post_id": "567449",
+            "reply_to_id": "567448"
+        },
+        {
+            "user_name": "siggik",
+            "text": "HELD að \"boxið\" sjái um það, ská settu \"járnin\" á myndinni gera það",
+            "date": "2014-07-16 20:38:00",
+            "post_id": "567459",
+            "reply_to_id": "567449"
+        },
+        {
+            "user_name": "Magni81",
+            "text": "Ég prófaði að afeinangra alla víra og setja þá í. Það breyttist ekki neitt. Þarf að skoða þetta eitthvað betur...",
+            "date": "2014-07-16 20:56:00",
+            "post_id": "567462",
+            "reply_to_id": "567459"
+        },
+        {
+            "user_name": "Skari",
+            "text": "Þú talar um að setja þetta í öll herbergi, ertu þá ekki að tengja hvern utanáliggjandi tengil í  switch ?   ekki frá 1 tengli yfir í næsta ?",
+            "date": "2014-07-16 21:28:00",
+            "post_id": "567473",
+            "reply_to_id": "567462"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "Þú þarft( LSA+) puncher á þetta tengibretti á myndinni. En líklega (\"110\") puncher fyrir veggtenglana nema þeir hafi lok sem notað er að troða vírunum niður á sinn stað .\nÞað er óþarfi að afeinangra vírana , tennurnar á tengibrettinu sjá til þess .\nGangi þér vel .",
+            "date": "2014-07-16 22:01:00",
+            "post_id": "567477",
+            "reply_to_id": "567473"
+        },
+        {
+            "user_name": "dabbivilla",
+            "text": "ef þú ert að nota pach snúru (sem er með rj-45 enda hinumeginn) þá mun þessi tengill ekki virka vel fyrir þig, þær snúrur eru margþáttungur og nær ílla sambandi á þessum tenglum. þú þarft lagnavír til að setja í þetta, og þá er ílla hægt að setja mola (rj-45) á hinn endan að sama skapi. þá ættir þú að vera með eins dós á báðum endum, og tengja eftir B staðlinum báðum meginn.",
+            "date": "2014-07-16 22:58:00",
+            "post_id": "567488",
+            "reply_to_id": "567477"
+        },
+        {
+            "user_name": "Oak",
+            "text": "Afhverju sendirðu okkur ekki mynd af tengingunum hjá þér? Gott að fá myndir þú gætir verið að víxla molanum t.d.\nekkert mál að redda þessu með skrúfjárni, þrýstir bara niður sitthvoru megin.\ndabbivilla afhverju er eitthvað verra að setja molan á \"lagnavír\" sem er bara cat5e kapall. Ef að þú ert ekki með töng í þetta að þá er það hinsvegar erfitt.",
+            "date": "2014-07-16 23:04:00",
+            "post_id": "567489",
+            "reply_to_id": "567488"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "Ertu að meina fjölþættur vír ? Þið verðið að útskýra þetta betur fyrir manninum og án þess að þykjast tjá ykkur eins og (BSc) tæknifræðingar í rafmagni .",
+            "date": "2014-07-16 23:23:00",
+            "post_id": "567494",
+            "reply_to_id": "567489"
+        },
+        {
+            "user_name": "Magni81",
+            "text": "Hehe mikið rétt.",
+            "date": "2014-07-16 23:25:00",
+            "post_id": "567496",
+            "reply_to_id": "567494"
+        },
+        {
+            "user_name": "Magni81",
+            "text": "Er með Cat5 snúru úr hverju herbergi inní geymslu þar sem routerinn er. Er ekki búinn að kaupa switch ennþá, tengdi bara þessa fyrstu snúru beint inná routerinn",
+            "date": "2014-07-16 23:26:00",
+            "post_id": "567497",
+            "reply_to_id": "567496"
+        },
+        {
+            "user_name": "Magni81",
+            "text": "Ég er bara með þessa venjulegu cat5 snúru.\nÞarf ég þá að setja þennan tengil á báða enda á snúrunni?",
+            "date": "2014-07-16 23:29:00",
+            "post_id": "567499",
+            "reply_to_id": "567497"
+        },
+        {
+            "user_name": "Magni81",
+            "text": "Molinn er rétt tengdur. Er með teikningu af netinu og snúru úr Elko til að bera saman og alvöru töng til þess að klemma á molann.",
+            "date": "2014-07-16 23:31:00",
+            "post_id": "567501",
+            "reply_to_id": "567499"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "Ekki vera pæla í uppröðun vírana á tengibrettið , það er allt annar tebolli (litaröðin)  úr tönnunum sem grípa í vírinn liggja rafrásir og liggja að cat5e plugginu hægra megin við og þar lendir þetta í réttri röð \n . Horfðu bara á litina við \"B\" þar sem þú hefur sett örina  . Fyrsti pinni er orange/hvítur 2. er orange  og 4. er blár ... restin segir sig sjálf þegar þú ert kominn í gang .\nEf þú ert bara að tengja venjulegan tölvukapal , kallaður straight through þá notastu við teikninguna sem þú settir þarna undir tengilinn til að bera saman \n \nEkki láta \"A\" línuna trufla þig , hún er bara til að sýna þér litauppröðun tengibrettisins ef þú ert að vinna við þetta í Ameríku ..",
+            "date": "2014-07-16 23:43:00",
+            "post_id": "567505",
+            "reply_to_id": "567501"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Þetta þarf reyndar ekki að vera svona flókið.\nKíktu bara á endann á snúrunni, og tengdu svo litina í sömu röð í boxinu. Þú myndir ekki fá fullt hús stiga á Cisco prófi, en þetta á samt að virka.\nÞá þarftu ekki að breyta snúrunni/redda cat5 töng.\nSjá mynd, þú ert ekki að tengja græna og bláa eins.",
+            "date": "2014-07-16 23:44:00",
+            "post_id": "567506",
+            "reply_to_id": "567505"
+        },
+        {
+            "user_name": "Oak",
+            "text": "þetta er alveg rétt tengd í tenglinum en ég er farinn að hallast að því að þú sért með RJ45 molan öfugan.\nNei sallarólegur þannig á röðin ekki að vera. nema að þú farir þá eftir númerunum.",
+            "date": "2014-07-16 23:46:00",
+            "post_id": "567507",
+            "reply_to_id": "567506"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "Get selt þér mola töng á 2þúsund \n á tvær.",
+            "date": "2014-07-16 23:51:00",
+            "post_id": "567509",
+            "reply_to_id": "567507"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Þegar ég skoða þetta betur, þá er snúran rétt - en litakóðinn á þessu boxi er vitlaus.\nTengdu boxið í sömu röð og snúran - og þú ert góður. Kannski tengdirðu þá í vitlausri röð seinast.\nMálið er, ef þú nærð einu pari rétt(tveir vírar) þá ertu með 10Mb samband um snúruna - það gæti verið ástæðan fyrir því að þú hafir verið að detta út.\nÞegar þú nærð tveimur pörum réttum, fjórum vírum ertu kominn með 100Mb samband.\nEf þú nærð svo öllum 4 pörunum réttum, þá ertu kominn með gigabit kapal(1000Mb).\nHér er til dæmis pinout af 100Mb kapli, þessi týpa fylgir ýmsum tækjum sem styðja ekki Gigabit:",
+            "date": "2014-07-16 23:51:00",
+            "post_id": "567510",
+            "reply_to_id": "567509"
+        },
+        {
+            "user_name": "Oak",
+            "text": "Nei sýndu okkur mynd af RJ45 endanum þínum. Tengillinn er alveg réttur.",
+            "date": "2014-07-16 23:54:00",
+            "post_id": "567511",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Magni81",
+            "text": "Ég á molatöng \n en áttu gaurinn til að ýta vírunum niður \n \nÉg skal kíkja á molann og taka mynd.",
+            "date": "2014-07-17 00:07:00",
+            "post_id": "567514",
+            "reply_to_id": "567511"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "Nei \n ég hef ekki átt LSA-Plus töng í 5 ár . Og fyrir utan það þá eru þær að verða úreltar ,þannig að þær eru slæm fjárfesting . Sé samt oft rafvirkja nota þær á 110 socket XD.\nÞú sérð að þetta er lsa-plus þegar tennurnar eru á ská á tengibrettinu (þitt tilfelli) . Á algengara systeminu eru þær beinar .",
+            "date": "2014-07-17 00:13:00",
+            "post_id": "567516",
+            "reply_to_id": "567514"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Skoðaðu númerin á tenglinum, þau stemma við litina. Rásirnar í tenglinum sjá væntanlega til þess að þetta komi rétt út.",
+            "date": "2014-07-17 00:24:00",
+            "post_id": "567517",
+            "reply_to_id": "567516"
+        },
+        {
+            "user_name": "Oak",
+            "text": "jonsig er reyndar ekki símsmiður en er öðru hvoru að puncha inna panil en í lang flestum tilfellum fæ ég bretti sem er fyrir LSA ég er kannski að fá þetta gamla í hendurnar í hvert skipti...",
+            "date": "2014-07-17 00:25:00",
+            "post_id": "567518",
+            "reply_to_id": "567517"
+        },
+        {
+            "user_name": "Skari",
+            "text": "Sýnist allt vera rétt hjá þér, hefði giskað á að þú snúir RJ-45 molanum vitlaust en fyrst þú segist hafa annan netkapal til samanburðar þá er það í góðu. \nTengillinn er rétt tengdur og þú getur hætt að hugsa um hann, eina sem ég ráðlegg þér þó að gera er að ganga ekki frá þessu svona, frekar kaupa sér puncher og gera þetta almennilega.\nEina sem ég gæti giskað á að sé í raun að einhver vír hafi ekki náð að klemmast nógu vel í RJ-45 molanum, það sem þú gætir gert er að halda á molanum og snúa upp á kapalinn, beygja hann til við molann og sjá hvort einhver vír dregst til baka. \nNú ef það finnst ekkert úr því þá er spurning hvort einhverjir vírarnir séu skammhleyptir, að þú hafir skorið of djúpt þegar þú varst að afeingra kápuna. \nFyrir utan þetta þá er voða lítið sem hægt er að gera meira nema hafa rétt mælitæki, gætir t.d. notað paratester og ætti hann ekki að vera svo dýr",
+            "date": "2014-07-17 05:23:00",
+            "post_id": "567538",
+            "reply_to_id": "567518"
+        },
+        {
+            "user_name": "arons4",
+            "text": "Þetta er bara rangt.\nPrentrásin á boxinu sér um að víxla röðinni þannig hún sé rétt í tenglinum(Sérð tölurnar við litina, það er röðin sem verður í tenglinum sjálfum, sem er sú sama og á blaðinu).\nBlaðið sýnir rétta röð á molanum en passaðu sammt þegar þú setur hann á að hann snúi rétt(klemman niður og koparinn upp þá er 1 vinstra megin)\nÞað er mjög mismunandi, ég nota lsa+ puncharann td töluvert meira(Hausarnir eru allstaðar og það er ennþá verið að selja þá, verkfærin eru langt frá því úrelt).\nAuk þess er hægt að fá svona töng fyrir mjög lítið og ef 2-3000kr töng sparar manni verktaka er það varla slæm fjárfesting.\nLíka hægt að fá svona sem hægt er að skipta um haus.",
+            "date": "2014-07-17 18:21:00",
+            "post_id": "567578",
+            "reply_to_id": "567538"
+        },
+        {
+            "user_name": "Magni81",
+            "text": "Takk fyrir þetta. Það klikkar ekki að fá ráð hérna inni",
+            "date": "2014-07-17 20:08:00",
+            "post_id": "567589",
+            "reply_to_id": "567578"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "Bláa töngin er \"110\" og virkar fyrir socket sem eru þvert á miðju. \nLSA plus er ávalt vinsæl þar sem rafvirkjar upp til hópa spá ekkert í hvaða verkfæri þeir nota , svo er ég ekkert svo viss með þá sem flytja þær inn.",
+            "date": "2014-07-17 20:13:00",
+            "post_id": "567590",
+            "reply_to_id": "567589"
+        },
+        {
+            "user_name": "BugsyB",
+            "text": "fáðu þér puncher - hvernig þetta er tengt í tengill er til skammar - afeinagrað og sett með skrúfjarni - það er eðlilegt að það verði vesen á því - það er ekkert mála ð skemma tenglana með skrúfjarni - reddaðu þér punser eða verslaðu þér svona gulan afeinagrara og það er hægt að nota endan á honum til að puncha, ef þú finnur ekkert út úr þessu, þá skal ég gera þetta fyrir þig ódýrt",
+            "date": "2014-07-17 23:43:00",
+            "post_id": "567606",
+            "reply_to_id": "567590"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Word á þetta.\nHef sjálfur mikla reynslu af vandamálum með IPTV myndlykla, eins og Vodafone og Síminn bjóða upp á.\nEf það eru einhver furðuleg vandamál, pixlar, myndir leigjast ekki, HD rásir flökta - þá er það yfirleitt lögnin sem veldur.\nÞeir símvirkjar sem ég hef rætt við vilja hafa HEILA snúru - alla leið frá neti(router/ljósleiðaraboxi) og beint í myndlykil. Engin box, engir tenglar, bara heila snúru, alla leið.\nBara smá 'protip' - ef einhver hérna hyggst setja upp svona box-kerfi heima hjá sér  \nÞetta sleppur með tölvur, þær geta auðveldlega misst nokkra pakka í villur, þær eru þá leiðréttar á nokkrum millísekúndum og enginn finnur fyrir neinu. Myndlyklar hinsvegar þola ekkert svona flökt á signali, því það er stanslaus 3-10Mb straumur um snúruna, eftir því í hversu góðum gæðum efnið er - það er ekki hægt að leiðrétta jafn auðveldlega - og þá eins og fyrr segir, getur myndin pixlast og hin ótrúlegustu vandamál fylgt í kjölfarið.",
+            "date": "2014-07-18 02:40:00",
+            "post_id": "567610",
+            "reply_to_id": "567606"
+        },
+        {
+            "user_name": "Skari",
+            "text": "Held það hafi aldrei verið spurning að hann hafi ætlað að puncha þetta inn eftir að flestir hafi verið búnir að benda honum á það, að þetta hafi bara verið tímabundið til að sjá hvort hann fengi samband",
+            "date": "2014-07-18 04:26:00",
+            "post_id": "567611",
+            "reply_to_id": "567610"
+        },
+        {
+            "user_name": "Magni81",
+            "text": "Mikið rétt",
+            "date": "2014-07-18 08:23:00",
+            "post_id": "567613",
+            "reply_to_id": "567611"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "Sallarólegur \nÞað er hægt að ganga bara frá kaplinum almennilega þá skiptir engu hvort þú látir kapalinn frá ljósboxi enda í tengli . Bara kjánalegt að hafa kapal dingla útúr veggdós með mola á .\nHvað er símvirki í dag ?, hélt að þeir væru horfnir af yfirborði jarðar.",
+            "date": "2014-07-18 09:50:00",
+            "post_id": "567616",
+            "reply_to_id": "567613"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Ekkert kjánalegt við það ef það er snyrtilega gengið frá því  \nPersónulega finnst mér þetta til dæmis ekkert rosalega fallegt:",
+            "date": "2014-07-18 12:31:00",
+            "post_id": "567624",
+            "reply_to_id": "567616"
+        },
+        {
+            "user_name": "Magni81",
+            "text": "Jæja allt klappað klárt núna. Fékk með puncher frá Íhlutum. Skoðaði molann og ég hafði óvart víxlað bláa og bláa/hvíta.",
+            "date": "2014-07-18 19:23:00",
+            "post_id": "567655",
+            "reply_to_id": "567624"
+        },
+        {
+            "user_name": "Skari",
+            "text": "@Sallarólegur, enda hefur þú líka fundið einhvern ljótasta tengil sem er, + það þarf ekkert loftnetstengil lengur.. ideal verður allt nettengt.   \nEinnig að það er ekkert að því að hafa þetta í tenglum, eina sem þarf að passa er að losa sem minnst af snúningnum fyrir hvert par. \n@Magni81, flott að þetta sé komið í lag !",
+            "date": "2014-07-18 19:28:00",
+            "post_id": "567658",
+            "reply_to_id": "567655"
+        }
+    ],
+    "date": "2014-07-16 23:54:00"
+}

@@ -1,0 +1,51 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "25448",
+    "title": "Að nota 2 routera",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=25448",
+    "posts": [
+        {
+            "user_name": "andrig",
+            "text": "Sælir ég er með 2x ZyXEL 660HW-D1 og ætlaði að tengja þá saman..\nsem sagt, annar routerinn er tengdur við internetið í gegnum símalínu og er notaður í internetsjónvarpið og internet brows.\nrouter nr 2, fær internetið úr lansnúru úr hinum routernum.\nmér var sagt að það væri nóg að slökkva á dchp í router 2, en það virðist ekki vera.\nhafið þið hugmynd um hvaða frekari stillingar ég þarf að gera?",
+            "date": "2009-10-09 18:06:00",
+            "post_id": "221929",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Án þess að ég viti það, þá held ég að það ætti stilla mode á \"bridge\" í staðinn fyrir \"routing\" undir WAN stillingunum í router 2\ngetur prófað það",
+            "date": "2009-10-09 18:17:00",
+            "post_id": "221930",
+            "reply_to_id": "221929"
+        },
+        {
+            "user_name": "freeky",
+            "text": "Þetta kemur Wan hlutanum ekkert við.\nÞarft að setja router nr 2 á aðra Ip tölu en router nr 1.\nferð líklega á \nhttp://192.168.1.1\n \npassword er oftast admin getur líka verið 1234\nferð undir network vinstra megin og undir LAN Breytir IP tölu á router\nFerð svo undir DHCP Velur none. Þarft líklega ekki að nota relay og apply.\nÞað er ágætt að stilla þráðlausa á sama SID og á router 1 og nota sama WEP lykil. Þá kemur router 2 sem auka accesspunktur á sama SID.\nkv.\nFreeky",
+            "date": "2009-10-09 18:32:00",
+            "post_id": "221932",
+            "reply_to_id": "221930"
+        },
+        {
+            "user_name": "andrig",
+            "text": "frábært virkar smooth takk",
+            "date": "2009-10-10 12:00:00",
+            "post_id": "221967",
+            "reply_to_id": "221932"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "Afhverju að hafa 2 routera?",
+            "date": "2009-10-14 19:35:00",
+            "post_id": "222409",
+            "reply_to_id": "221967"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Hann er nískur og splæsir ekki í switch/access punkt?\nEn router gerir það sama, svo fyrst hann er með það uppá borð hjá sér þá er náttlega enginn ástæða að kaupa auka búnað.",
+            "date": "2009-10-14 19:39:00",
+            "post_id": "222411",
+            "reply_to_id": "222409"
+        }
+    ],
+    "date": "2009-10-09 18:06:00"
+}

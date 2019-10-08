@@ -1,0 +1,79 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "6685",
+    "title": "Varðandi ADSL2+",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=6685",
+    "posts": [
+        {
+            "user_name": "traustis",
+            "text": "Mig langar að vita ýmislegt um þetta, t.d. Er hægt að nota venjulegan adsl router á þetta kerfi hjá t.d. \nhttp://www.son.is\n og \nhttp://www.btnet.is\n og eru Síminn og OgVodafone að fara að taka upp þetta kerfi",
+            "date": "2004-12-10 17:02:00",
+            "post_id": "70197",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "ParaNoiD",
+            "text": "Ef þú nennir að lesa í gegnum 14 síður af misgáfulegum umræðum um einmitt þessi efni þá er það hér \n \nhttp://spjall.vaktin.is/viewtopic.php?t=6434&start=0",
+            "date": "2004-12-10 17:58:00",
+            "post_id": "70202",
+            "reply_to_id": "70197"
+        },
+        {
+            "user_name": "emmi",
+            "text": "Þú getur notað venjulegan router á þetta en þá færðu bara venjulegt ADSL merki. Til þess að geta notað ADSL2+ þá þarftu router sem styður það.",
+            "date": "2004-12-12 19:43:00",
+            "post_id": "70478",
+            "reply_to_id": "70202"
+        },
+        {
+            "user_name": "traustis",
+            "text": "Oki þakka þér, en ef ég kaupi t.d. 8mb línu frá btnet hvað fæ ég þá ef ég nota venjulegan ADSL router ?",
+            "date": "2004-12-12 20:46:00",
+            "post_id": "70481",
+            "reply_to_id": "70478"
+        },
+        {
+            "user_name": "emmi",
+            "text": "Venjulegt ADSL ræður við allt að 8mbit þannig að þú ættir að ná því.",
+            "date": "2004-12-12 21:51:00",
+            "post_id": "70484",
+            "reply_to_id": "70481"
+        },
+        {
+            "user_name": "OrkO",
+            "text": "uhhh..... ertu að meina þetta emmi ?",
+            "date": "2004-12-14 13:58:00",
+            "post_id": "70803",
+            "reply_to_id": "70484"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Ef að þú ert að tala um hraðann, þá myndi ég halda að hann væri að meina þetta. Reyndar hef ég líka séð 9Mbps gefið upp sem max downstream fyrir ADSL.",
+            "date": "2004-12-14 14:06:00",
+            "post_id": "70806",
+            "reply_to_id": "70803"
+        },
+        {
+            "user_name": "emmi",
+            "text": "Yep, ADSL staðallinn ræður við 8 niður og 1 upp.",
+            "date": "2004-12-14 20:51:00",
+            "post_id": "70911",
+            "reply_to_id": "70806"
+        },
+        {
+            "user_name": "OrkO",
+            "text": "var svona meira að furða mig á að geta notað ADSL router með ADSL2+ þjónustu Hive.. en ekki hvað ADSL ræður við mikið",
+            "date": "2004-12-14 21:50:00",
+            "post_id": "70922",
+            "reply_to_id": "70911"
+        },
+        {
+            "user_name": "emmi",
+            "text": "Ah, jájá það er alveg hægt. Eina sem þeir þurfa að gera er að stilla portið í DSLAM hjá sér á G.dmt í staðinn fyrir Auto eða ADSL2+.",
+            "date": "2004-12-14 22:18:00",
+            "post_id": "70924",
+            "reply_to_id": "70922"
+        }
+    ],
+    "date": "2004-12-10 17:02:00"
+}

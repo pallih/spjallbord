@@ -1,0 +1,198 @@
+{
+    "forum_title": "Yfirklukkun, hraðaprófanir og mods",
+    "id": "7019",
+    "title": "oc skjákort án aukakælingar ?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=1&t=7019",
+    "posts": [
+        {
+            "user_name": "MuGGz",
+            "text": "er eitthvað vit í þessu ? \n\n\n\ner með NX6600GT skjákort og var að spjalla við ponzer og fékk upp hjá honum hvað hann hefði sett það í og mér langar hrikalega að prófa  \n\n\n\n\nenn hann var með \nSpectrum Fan Card\n\n\n\n\ner til eitthvað forrit til að ég geti fylgst með kortinu ? hitanum og svona.... ?",
+            "date": "2005-01-12 15:52:00",
+            "post_id": "74355",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "Þú getur notað SpeedFan til að sjá hitann á skjákortinu. \n\n\n\nÞú þarft ekkert endilega aukakælingu, en það er samt öruggara.",
+            "date": "2005-01-12 16:50:00",
+            "post_id": "74365",
+            "reply_to_id": "74355"
+        },
+        {
+            "user_name": "MuGGz",
+            "text": "er þetta hitinn á skjákortinu ?",
+            "date": "2005-01-12 17:14:00",
+            "post_id": "74373",
+            "reply_to_id": "74365"
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "Þú átt að geta séð það á nafninu á skynjaranum held ég, sérð hann í Configure.",
+            "date": "2005-01-12 17:22:00",
+            "post_id": "74375",
+            "reply_to_id": "74373"
+        },
+        {
+            "user_name": "hahallur",
+            "text": "Ég myndi segja að það væri betra að fylgjast með skjákortinu í rivatuner.\n\nÞar geturu líka látið viftuna var fasta í td 90% hraða eins og ég er með.",
+            "date": "2005-01-12 20:46:00",
+            "post_id": "74408",
+            "reply_to_id": "74375"
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "Af hverju ætti hann að vilja hafa viftuna í 90% hraða ef hann er að fara að  yfirklukka?",
+            "date": "2005-01-12 21:04:00",
+            "post_id": "74414",
+            "reply_to_id": "74408"
+        },
+        {
+            "user_name": "hahallur",
+            "text": "Því að það kælir meira, hann getur allveg fest það í 100% en það fer bara eftir hvernig hann fýlar hávaða.\n\n\n\nÞað heyrist ekki mikið í mínu X800 Pro í 90% en nokkuð mikið í 100%.\n\nÞetta er náttúrulega ekkert nauðsinlegt en mér finnst öruggara að hafa þetta svona.\n\n\n\nAnnars hef ég aldrei séð viftuna á mínu skjákorti fara yfir 90% hraða.\n\nÞegar ég hef það á temp. controlled er það miklu heitara.",
+            "date": "2005-01-12 21:55:00",
+            "post_id": "74425",
+            "reply_to_id": "74414"
+        },
+        {
+            "user_name": "MuGGz",
+            "text": "hvaða forrit notiði til að athuga villur ?",
+            "date": "2005-01-12 21:56:00",
+            "post_id": "74427",
+            "reply_to_id": "74425"
+        },
+        {
+            "user_name": "hahallur",
+            "text": "Artifacts eða ?",
+            "date": "2005-01-12 21:59:00",
+            "post_id": "74429",
+            "reply_to_id": "74427"
+        },
+        {
+            "user_name": "MuGGz",
+            "text": "jamm, artifacts  \n\n\n\n\nég er búinn að downloada river tuner enn ég sé bara memory clock og core clock ...\n\n\n\n\n\n\n\nenn ég sá að þú varst með hitann á skjákortinu og fleira ? hvernig bæti ég því inn ?",
+            "date": "2005-01-12 22:15:00",
+            "post_id": "74431",
+            "reply_to_id": "74429"
+        },
+        {
+            "user_name": "hahallur",
+            "text": "hmmm....\n\n\n\nKannski eru ekki mælar, þetta er svona á mörgum kortum.\n\nSkrítið sammt að það sé svona á þessu korti.\n\n\n\nÞegar þú ferð í \"low level system tweaks\" og ætlar að breyta klukkuhraðanum, á að koma eitthvað reboot eða eitthvað sem ég man ekki hvað hét.\n\nMan bara að það á að koma.\n\n\n\nKannski þarf að gera það fyrst til að fá allt, þori ekki að lofa neynu.",
+            "date": "2005-01-12 22:37:00",
+            "post_id": "74435",
+            "reply_to_id": "74431"
+        },
+        {
+            "user_name": "MuGGz",
+            "text": "hvaða forrit er best til að leita að artifacts ?",
+            "date": "2005-01-12 23:32:00",
+            "post_id": "74447",
+            "reply_to_id": "74435"
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "Ég nota Aquamark 3.",
+            "date": "2005-01-13 12:49:00",
+            "post_id": "74505",
+            "reply_to_id": "74447"
+        },
+        {
+            "user_name": "Yank",
+            "text": "þú getur notað 3Dmark2003 3Dmark05 Aquamark 3 ofl.\n\n\n\nEn málið er að þú getur keyrt þessi test endalaust án þess að verða var við artifacts en síðan ferðu í eitthvað hardcore gaming t.d. Far Cry í 2 klst. og þá færð þú allt í einu artifacts, og þarft að lækka OC til að losna við þá.\n\n\n\nThe point is: Það þarf mögulega að OC sérstaklega  fyrir hvern leik (grafíkvél) ef þú ætlar að vera að ná max út úr kortinu.",
+            "date": "2005-01-13 13:09:00",
+            "post_id": "74508",
+            "reply_to_id": "74505"
+        },
+        {
+            "user_name": "MuGGz",
+            "text": "hvernig lýsa þessi artifacts sér ?\n\n\n\nhvernig tekur maður eftir þeim? eða liggur enginn vafi á því kannski þegar þau koma",
+            "date": "2005-01-13 13:15:00",
+            "post_id": "74510",
+            "reply_to_id": "74508"
+        },
+        {
+            "user_name": "Birkir",
+            "text": "Það liggur enginn vafi á því þegar þau koma.",
+            "date": "2005-01-13 13:20:00",
+            "post_id": "74511",
+            "reply_to_id": "74510"
+        },
+        {
+            "user_name": "hahallur",
+            "text": "Ég nota ekki Auqamark því það eru svo mikið af ljósum sem gætu allveg verið artifacts.\n\n\n\nNota atitool, Doom 3 og 3D mark 05\n\n\n\nAnnars steiktist mitt kort og það sást langbest í Doom3, mæli með honum ef þú getur ekki notað atitool.\n\n\n\nAtiTool lætur kortið hittna langmest og segir allveg nákvamlega ef einn lítill depill kemur á skjáinn.",
+            "date": "2005-01-13 14:12:00",
+            "post_id": "74528",
+            "reply_to_id": "74511"
+        },
+        {
+            "user_name": "MuGGz",
+            "text": "virkar ati-tool líka fyrir geforce kort ?",
+            "date": "2005-01-13 16:01:00",
+            "post_id": "74557",
+            "reply_to_id": "74528"
+        },
+        {
+            "user_name": "MuGGz",
+            "text": "var að sækja ati-tool og það virkar alveg að leita að artifacts\n\n\n\nþá er bara að fara skella sér í að oc við tækifæri  \n\n\n\n\nhvað ætti maður að hækka core clock og memory clock mikið í einu ?",
+            "date": "2005-01-13 16:07:00",
+            "post_id": "74558",
+            "reply_to_id": "74557"
+        },
+        {
+            "user_name": "CraZy",
+            "text": "eg tek þetta upp vanalega um 5 í einu(minnir mig)",
+            "date": "2005-01-13 16:29:00",
+            "post_id": "74560",
+            "reply_to_id": "74558"
+        },
+        {
+            "user_name": "MuGGz",
+            "text": "semsagt 5 í core clock og 5 í memory clock ?\n\n\n\n\n\n\n\nsvo er ég að spá í að oc hjá mér örgjörvann\n\n\n\nhvað ætti ég að hækka fsb-ið mikið í hvert skipti ? \n\n\n\nnotiði ekki einhver forrit til að athuga með villur eða eitthvað svoleiðis ?",
+            "date": "2005-01-13 16:52:00",
+            "post_id": "74565",
+            "reply_to_id": "74560"
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "Það er best að nota prime95 stress test til að finna villur þegar þú ert að overclocka örgjörvann.\n\n\n\nEn finndu leiðbeiningar á netinu og lestu þær. Þetta er flóknara en að hækka bara klukkuhraðann lítið í einu.\n\n\n\nGetur leitað að \"overclock guide\" eða álíka á Google.",
+            "date": "2005-01-13 17:33:00",
+            "post_id": "74571",
+            "reply_to_id": "74565"
+        },
+        {
+            "user_name": "hahallur",
+            "text": "Menn setja yfirleitt memory klukkuna hærra.\n\n\n\nEf ég væri að gera þetta í myndi ég hækka core clock um 20mhz og memory clock um 40mhz og svo eftir það fara varlega.",
+            "date": "2005-01-13 19:28:00",
+            "post_id": "74595",
+            "reply_to_id": "74571"
+        },
+        {
+            "user_name": "Dingo",
+            "text": "Voðalega eruð þið að fara varlega. Ég setti skjákortið í hæsta overclock með atitool og það hefur ekki brunnið yfir, ennþá...  \n  Ég kaupi bara nýtt ef það eyðileggst, ekki yfirklukka ef þú getur ekki keypt nýja hluti í stað þessa sem þú steiktir...",
+            "date": "2005-01-17 18:35:00",
+            "post_id": "75110",
+            "reply_to_id": "74595"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "þykir þér snjórinn ekki flottur?",
+            "date": "2005-01-18 09:26:00",
+            "post_id": "75158",
+            "reply_to_id": "75110"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "ég gerði nú bara auto detect með coolbits.reg fixinu fyrir forceware driverana og hún klukkaði kortið strax ofar en ultra.",
+            "date": "2005-01-18 12:44:00",
+            "post_id": "75180",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "hahallur",
+            "text": "Maður fer nú yfirleitt varlega ef maður er óreyndur",
+            "date": "2005-01-18 14:30:00",
+            "post_id": "75198",
+            "reply_to_id": "75180"
+        }
+    ],
+    "date": "2005-01-18 12:44:00"
+}

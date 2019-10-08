@@ -1,0 +1,51 @@
+{
+    "forum_title": "Yfirklukkun, hraðaprófanir og mods",
+    "id": "79653",
+    "title": "Vega 56 bjargað úr námunum og Morpheus mod",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=1&t=79653",
+    "posts": [
+        {
+            "user_name": "Dropi",
+            "text": "Keypti mér notað Powercolor Vega 56 reference blower í Mars á þessu ári fyrir uþb 30 þús á ebay (220 GBP). Kortið var mjög skítugt, ryðgað og ógeðslegt í alla staði og var sent með pósti í skókassa með svo gott sem engu pökkunarefni. Sendingin kostaði mig ekkert og ég bý í Englandi svo að ég borgaði engin auka gjöld. \nNæsta skref var að bíða eftir að Morpheus Vega kælingin væri til á lager, og á endanum fékkst hún hjá OCUK í Apríl. Þar sem kassinn minn er mjög þröngur var ekki pláss fyrir 120x25 viftur, og þurfti því að panta 120x15mm Noctua viftur. \n- 2stk Noctua NF-A12x15 PWM - 5000kr\n- 1stk Raijintek Morpheus Vega Heatpipe VGA Cooler - 9800kr\n- GELID PWM Fan Adaptor - 750kr\n- Thermal Grizzly Kryonaut - 2500kr\nFyrst prófaði ég að nota kælingarnar fyrir VRM sem fylgdu með Morpheus kælingunni en var mjög óánægður með þær niðurstöður, kortið keyrði heitt og við 200W power draw voru VRM að hitna mikið meira en ég kæri mig um. Þetta er sennilega útaf 15mm viftunum og lélegu loftflæði í kassanum.\nEftir að lesa mig mikið ákvað ég að skera frekar úr original VRM kælingunni og nota backplate-ið líka, þá þurfti að saga út fyrir morpheus kælingunni þar sem hún var of stór, og setja thermal pads. Ég notaði 1mm á allt nema memory VRM, þar notaði ég 2mm. Næsta skref verður að sjá hvort ég komist upp með 0.5mm / 1mm en það verður sennilega í næsta mánuði. Memory VRM er of heitur í dag með 2mm thermal pad. \nEinnig notaði ég 1mm thermal pads aftan á skjákortinu til að kæla það sem gæti hitnað þar og backplateið er funheitt, stefni á að bæta loftflæði yfir backplate líka.\nNúna er kortið að sitja í uþb 78°C við 250W power draw, 1630MHz core / 1100MHz HBM2 með Vega64 bios.  VRM ennþá of heitir eða uþb 85-90°C eftir langt 250W session. Stefni á þykkari viftur, betra loftflæði og minni thermal pads til að laga það. \n (þessi mynd áður en ég moddaði fyrir backplate og vrm)\nÞessi fær að njóta sín í stærri kassa þegar ég flyt til Íslands",
+            "date": "2019-07-10 10:51:00",
+            "post_id": "690985",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Emarki",
+            "text": "Glæsilegt og vel gert.\nGaman af svona þráðum hér á vaktinni.\nKv. Einar",
+            "date": "2019-07-10 11:23:00",
+            "post_id": "690986",
+            "reply_to_id": "690985"
+        },
+        {
+            "user_name": "Dropi",
+            "text": "Takk fyrir það Einar",
+            "date": "2019-07-10 11:58:00",
+            "post_id": "690988",
+            "reply_to_id": "690986"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "",
+            "date": "2019-07-10 13:48:00",
+            "post_id": "690991",
+            "reply_to_id": "690988"
+        },
+        {
+            "user_name": "Hnykill",
+            "text": "Vel gert !",
+            "date": "2019-07-10 14:07:00",
+            "post_id": "690993",
+            "reply_to_id": "690991"
+        },
+        {
+            "user_name": "vesi",
+            "text": "Vel Gert!",
+            "date": "2019-07-10 15:17:00",
+            "post_id": "690995",
+            "reply_to_id": "690993"
+        }
+    ],
+    "date": "2019-07-10 10:51:00"
+}

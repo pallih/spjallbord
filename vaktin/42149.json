@@ -1,0 +1,79 @@
+{
+    "forum_title": "Leikjasalurinn",
+    "id": "42149",
+    "title": "er ekki að ná að tengjast í BF3",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=14&t=42149",
+    "posts": [
+        {
+            "user_name": "Halldór",
+            "text": "Ég er ekki að ná að tengjast neinum serverum þegar ég reyni að joina leik. Það gengur allt eðlilega þangað til að ég er búinn að loda leiknum og er að fara að byrja þá kemur alltaf \"you have been disconnected from the server\" og hann lokast. Veit einhver hvernig ég get lagað þetta?\nEDIT: Stundum þegar ég næ að tengjast leiknum og hann er búinn að lodast þá lokast hann og sé ég á server síðunni eithvað \"click to play\" ég ýti á það og þá stendur \"you are playing\" (eða eithvað þannig) og það gerist ekkert.",
+            "date": "2011-10-05 21:09:00",
+            "post_id": "385691",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "vesley",
+            "text": "Kemur BF3 logoið í task bar hjá þér?    Kom alltaf fyrst hjá mér svona \"pop-up\"  fyrst vegna NVIDIA drivers en ég gat ekki séð það nema að klikka á það neðst.",
+            "date": "2011-10-05 21:12:00",
+            "post_id": "385692",
+            "reply_to_id": "385691"
+        },
+        {
+            "user_name": "Halldór",
+            "text": "Það kemur upp leikurinn og studum get ég lodað honum en þegar það er búið þá slekkur hann á sér og segir \"you have been disconnected from the server\". Þegar ég fyrst náði í hann þá náði ég að spila eitt eða tvö rounds áður en þetta gerðist. og ég er búinn að updatea skjákortsdriverinn.",
+            "date": "2011-10-05 21:15:00",
+            "post_id": "385694",
+            "reply_to_id": "385692"
+        },
+        {
+            "user_name": "GullMoli",
+            "text": "Thomson router?",
+            "date": "2011-10-05 21:26:00",
+            "post_id": "385697",
+            "reply_to_id": "385694"
+        },
+        {
+            "user_name": "Halldór",
+            "text": "já",
+            "date": "2011-10-05 21:38:00",
+            "post_id": "385702",
+            "reply_to_id": "385697"
+        },
+        {
+            "user_name": "GullMoli",
+            "text": "Prufaðu að slökkva á UPnP í routernum og athugaðu hvort þetta lagist ekki bara algjörlega við það",
+            "date": "2011-10-05 21:47:00",
+            "post_id": "385705",
+            "reply_to_id": "385702"
+        },
+        {
+            "user_name": "oskar9",
+            "text": "á ég við sama vandamál að stríða, sótti betuna, spilaði nokkur round, daginn eftir gat ég ekki connectað, kemur alltaf \"your conection has timed out\" þegar hann er búinn að reyna að tengjast í smástund ?\ner með hvítan thomson router og ADSL hjá símanum, og hvernig disable-a ég þetta ?",
+            "date": "2011-10-05 21:55:00",
+            "post_id": "385706",
+            "reply_to_id": "385705"
+        },
+        {
+            "user_name": "GullMoli",
+            "text": "Þú ferð inná routerinn með user/pass: admin/admin\nSvo ferðu í \"Game & Application Sharing\" undir Toolbox, uppi í hægra horninu er svo Configure og þú ferð í það, tekur hakið úr  \"Use UPnP\" og gerir Apply. \nAthugaðu samt að sum forrit eða leikir gætu þurft að nota þetta, ef þú lendir í vandræðum með eitthvað eftir að hafa breytt þessu.",
+            "date": "2011-10-05 22:02:00",
+            "post_id": "385710",
+            "reply_to_id": "385706"
+        },
+        {
+            "user_name": "oskar9",
+            "text": "snilld takk kærlega, reyni þetta",
+            "date": "2011-10-05 22:09:00",
+            "post_id": "385714",
+            "reply_to_id": "385710"
+        },
+        {
+            "user_name": "kristinnhh",
+            "text": "Sælir \nÉg er að lenda í þessu sama dæmi að vera disconnectaður endalaust stundum get ég spilað enn oftast ekki. . Hvernig fer ég svona inná routerinn og disable þetta ? Nánari upplýsingar er ekki alveg með þetat´a hreinu",
+            "date": "2011-10-08 18:42:00",
+            "post_id": "386389",
+            "reply_to_id": "385714"
+        }
+    ],
+    "date": "2011-10-05 21:09:00"
+}

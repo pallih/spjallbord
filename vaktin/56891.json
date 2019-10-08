@@ -1,0 +1,37 @@
+{
+    "forum_title": "Windows",
+    "id": "56891",
+    "title": "Windows 8 og ssd formatt",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=56891",
+    "posts": [
+        {
+            "user_name": "Bjarni44",
+            "text": "Er að fara selja tölvuna mína og vildi helst formatta hana og setja hana upp uppá nýtt.\nMálið er að ég keypti windows 8 uppfærlsu pakkan sem margir splæstu í þegar hann var á tilboðinu, var að spá hvort að ég gæti installað þeim pakka aftur til að hafa löglegt windows á vélinni.\nSíðan uppá formattið á disknum var ég að spá hvort að þetta væri ekki best \nhttp://ocz.com/consumer/download/firmware\n og gera secure erase ?",
+            "date": "2013-08-31 22:29:00",
+            "post_id": "526488",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Til að setja upp hreina uppsetningu af Windows 8 með upgrade lykli þarftu að gera eftirfarandi eftir uppsetningu:\na.\tOpna regedit í administrative mode og breyta RetailInstall og MediaBoot úr 1 í 0, þessa lykla má finna undir: Computer\\HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Setup\\OOBE\nb.\tFara í command prompt sem administrator og keyra:\nSlmgr    –rearm\nc.\tEndurræsa tölvu\nEftir það geturðu activate-að stýrikerfið í gegnum netið.",
+            "date": "2013-09-01 00:01:00",
+            "post_id": "526499",
+            "reply_to_id": "526488"
+        },
+        {
+            "user_name": "Bjarni44",
+            "text": "Takk fyrir þetta",
+            "date": "2013-09-01 19:54:00",
+            "post_id": "526609",
+            "reply_to_id": "526499"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Ég var að formata fartölvuna mína fyrir viku með Windows 8 Upgrade, bjóst við sama veseni og Klemmi benti á en um leið og ég var búinn að gera uppsetninguna þá var tölvan Activated. Hugsnalegt að maður þurfi ekki lengur að fara í gegnum registery hackið til að setja upp hreint Windows 8 með uppfærslu lykli.",
+            "date": "2013-09-01 20:26:00",
+            "post_id": "526615",
+            "reply_to_id": "526609"
+        }
+    ],
+    "date": "2013-08-31 22:29:00"
+}

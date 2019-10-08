@@ -1,0 +1,107 @@
+{
+    "forum_title": "Yfirklukkun, hraðaprófanir og mods",
+    "id": "78527",
+    "title": "MSI GTX 1070 OC - Overclock ráðleggingar",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=1&t=78527",
+    "posts": [
+        {
+            "user_name": "ishare4u",
+            "text": "Góðan dag, \nNúna er ég alveg nýr í overclocking. Ég er með 1070 Aero OC edition. \nGræði ég mikið á að overclocka þetta kort ?\nEr einhver búinn að overclocka svona kort, hvernig kom það út ?\nOg núna er ég búinn að vera að pæla í þessu í smá tíma og reyna að kynna mér þetta, þetta er alltaf svo taboo í hausnum á manni að gera þetta. \nAllar ábendingar vel þegnar",
+            "date": "2019-02-11 10:03:00",
+            "post_id": "684932",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "addon",
+            "text": "Ætti að vera mjög safe að overclocka þetta... þessi kort eru komin með mörg \"failsafe\" sem frysta tölvuna eða drepa á henni áður en þú skemmir eitthvað. En þú færð svosem lítið út úr því, kannski 5-7% hærra framerate og tölvan gæti orðið smá óstöðug (crash í sumum leikjum en ekki öðrum). Mæli með að prófa þig bara áfram og fylgja einhverjum góðum \"how to overclock 1070\"  guide.",
+            "date": "2019-02-11 10:57:00",
+            "post_id": "684940",
+            "reply_to_id": "684932"
+        },
+        {
+            "user_name": "ishare4u",
+            "text": "Takk fyrir þessar ráðleggingar, fór líka að spá því að þetta er OC eða overclocked útgáfan af þessu korti. Hvort það væri eitthvað vit í því að overclocka ef það er nú þegar hraðara en orginal.\nMSI GTX 1070 Aero 8GB OC - \nhttps://www.msi.com/Graphics-card/GeFor ... 8G-OC.html\nMSI GTX 1070 Aero 8GB - \nhttps://www.msi.com/Graphics-card/GeFor ... RO-8G.html",
+            "date": "2019-02-11 13:21:00",
+            "post_id": "684945",
+            "reply_to_id": "684940"
+        },
+        {
+            "user_name": "Hnykill",
+            "text": "Mæli með að þú notir MSI Afterburner forritið í þetta. það er mjög gott og auðvelt að eiga við. getur googlað hvað fólk er að overclocka þessi 1070 kort mikið áður en þú byrjar, svona til að hafa einhver viðmið.",
+            "date": "2019-02-11 13:23:00",
+            "post_id": "684946",
+            "reply_to_id": "684945"
+        },
+        {
+            "user_name": "ishare4u",
+            "text": "Ok takk fyrir það, ein spurning í viðbót. Ég er bara með 60hz skjá. Eru menn bara að overclock-a ef þeir eru með hærra refresh rate eða gerir þetta líka eitthvað ef ég er bara með 60hz ?",
+            "date": "2019-02-11 13:37:00",
+            "post_id": "684947",
+            "reply_to_id": "684946"
+        },
+        {
+            "user_name": "addon",
+            "text": "persónulega fann ég hellings mun að fara úr 60 fps í kannski 90-100 þótt ég var bara með 60 hz skjá (fara kannski úr ultra í high styllingar)... fannst það einhvernveginn meira \"steady\"... en ég hef líka séð annarstaðar að það á að vera betra að hafa bara v-sinc (læsir fps í sama og hz á skjánum) og það sé mest smooth. \nen annars koma flest aftermarket kort með smá OC úr kassanum og yfirleitt hægt að ýta þeim aðeins lengra. það eina sem gæti verið varhugavert er að passa að það sé ekki að keyra mikið yfir recommended temperature (getur flett upp fyrir þitt kort á netinu) því að það gæti hugsanlega minkað líftímann aðeins á kortinu. reyndar þarftu ekki að hafa miklar áhyggjur af því vegna þess að kortið hægir bara á sér til að halda sér undir því hitastigi þótt þú sért búinn að OC það. \nég skipti um kælikrem á mínu korti og það lækkaði um 6-7 gráður sem gaf mér smá OC \"pláss\", en ég mæli svosem ekki með því nema kortið sé orðið 2 ára eða meira og dottið úr ábyrgð (þótt það sé alls ekki hættulegt). kælikremið missir hitaleiðnina með tímanum.",
+            "date": "2019-02-11 16:09:00",
+            "post_id": "684950",
+            "reply_to_id": "684947"
+        },
+        {
+            "user_name": "ishare4u",
+            "text": "Er eðlilegt að kortið hjá mér í \"idle\" er 58-60 gráður. Keyrði stress test í gang og ætlaði að fara að fikta í því en það fór nánast strax í 70-80 og fór svo upp í 90 gráður, bara við stress testið, ekki búinn að overclocka neitt. \nBase clock á þessu korti er 1531mhz og eftir 1min í stress test er það komið þangað og hangir bara þar. Ekkert boost clock\nEr reyndar nuna komið í 47 gráður, en samt , er ekki óeðlilegt að það fari bara beint í 80-90 ?",
+            "date": "2019-02-11 20:15:00",
+            "post_id": "684970",
+            "reply_to_id": "684950"
+        },
+        {
+            "user_name": "addon",
+            "text": "finnst það frekar hátt... gæti verið lélegt loftflæði í kassanum, ryk í kassa/korti...",
+            "date": "2019-02-11 20:34:00",
+            "post_id": "684977",
+            "reply_to_id": "684970"
+        },
+        {
+            "user_name": "ishare4u",
+            "text": "Myndiru mæla með að skipta um kælikrem, þetta er 3 ara kort og hef aldrei gert það ?",
+            "date": "2019-02-11 22:32:00",
+            "post_id": "684987",
+            "reply_to_id": "684977"
+        },
+        {
+            "user_name": "ishare4u",
+            "text": "Eina leiðin til að fá kortið til að fara í default boost clock 1721mhz er að vera með viftur á fullu, og kortið fer samt í 91 gráðu í stress test, þá fyrst næst það að halda 1721mhz boost clock. Er það alveg eðlilegt ?",
+            "date": "2019-02-11 23:13:00",
+            "post_id": "684992",
+            "reply_to_id": "684987"
+        },
+        {
+            "user_name": "addon",
+            "text": "Ég myndi alveg mæla með að skipta ef þú treystir þér til. en ekki búast við neinum öfgafullum niðurstöðum, kannski 4-8 gráður\nen gott loftflæði í kassanum og að rykhreinsa bæði kassa og kort myndi örugglega gefa þér svipaða niðurstöðu. \nþetta saman og þá ættiru að vera kominn í góð mál\naftur mæli með að skoða youtube myndband um hvernig þú tekur kortið í sundur... yfirleitt bara 4 skrúfur á svona aftermarket kortum",
+            "date": "2019-02-11 23:54:00",
+            "post_id": "684994",
+            "reply_to_id": "684992"
+        },
+        {
+            "user_name": "ishare4u",
+            "text": "Takk fyrir svörin, \nFinnst þetta bara svo skrítið, ef ég er í MSI afterburner þá er default tempeture max stillt á 83 gráður, og þegar ég keyri stress test í ca 1-2min er það strax komið þangað og byrjað að kappa kortið í base clock. Svo ef ég hækka tempeture max í t.d. 90 fer kortið beint þangað á örðum 1 - 2  min. Og breytir ekkert að hafa viftur á 100%\nÞetta er blower style kort, sem mér skilst að séu yfirleitt heitari. En að kortið keyri alltaf á base clock við að opna leik finnst mér pínu spes.\nÞetta er OC útgáfan af kortinu þannig væntanlega smá yfirklukkun á því.",
+            "date": "2019-02-12 14:01:00",
+            "post_id": "685009",
+            "reply_to_id": "684994"
+        },
+        {
+            "user_name": "ishare4u",
+            "text": "Jæja prufaði að skipta um kælikrem og rykhreinsa kassa og kort. \nKortið er ennþá frekar heitt, fer í 87-88 gráður. En góðu fréttirnar eru að hitinn hættir þar, áður fór það alltaf yfir 90gráður og kappaði sig niður í 1531mhz (base clock)). Nuna fer það í 87-88 og kappar sig bara ekki neitt sýnist mér, er að hanga í ca. 1690-1700mhz í stress test, boost clock er 1721mhz. Keyrði stress test í yfir 20 min og hélst stöðugt \nÍ leik er það að haldast stöðugt í rétt rúmlega 1800mhz \nÞannig þó að það sé ennþá dáldið heitt er kominn stöðuleiki á því og það skiptir mig miklu máli \nEinnig fyrsta skiptið mitt að taka í sundur skjákort, alltaf gaman að læra eitthvað nýtt.",
+            "date": "2019-02-14 11:25:00",
+            "post_id": "685112",
+            "reply_to_id": "685009"
+        },
+        {
+            "user_name": "addon",
+            "text": "gott að heyra \n gaman þegar fólk prófar sig áfram og lærir eitthvað nýtt !",
+            "date": "2019-02-14 11:57:00",
+            "post_id": "685113",
+            "reply_to_id": "685112"
+        }
+    ],
+    "date": "2019-02-11 10:03:00"
+}

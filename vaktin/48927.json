@@ -1,0 +1,51 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "48927",
+    "title": "Ný tölva - ráðleggingar",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=48927",
+    "posts": [
+        {
+            "user_name": "dave",
+            "text": "Daginn,\nHef ekki sett saman tölvu í eflaust 10 ár eða svo þannig maður er alveg dottinn úr takt við hvað eru lágmörk í dag fyrir æskilega vél.\nVaktin.is verð samanburðurinn hjálpaði mér slatta þó.\nÉg er að búa mér til HTPC sem mun keyra PleXBMC (þráðlaust í Samsung SmartTV) en ég vil að hún höndli að spila einhverja nýlega tölvuleiki einnig. Ætli ég sé ekki að horfa á 100-125þ kr. verðbilið.\nKassi: Coolermaster Sileo 500w aflgjafi\nÖrgjafi: Socket AM3+ - AMD FX-6100 Bulldozer 3.3ghz 6 kjarna\nMóðurborð: AMD - AM3+ - ASUS M5A99X EVO ATX DDR3 USB3 \nKæling: AMD Arctic Apline 64pro\nMinni: Corsair Vengeance 8gb\nSkjákort: Sapphire RAdeaon HD6850 1gb PCI-E\nHarður Diskur: 2tb Seagate Barracuda SATA\nStóra spurningin er því hvort maður sé á réttri leið. Er ekkert hlyntur AMD neitt frekar en Intel.\nEinnig las ég um möguleika á að overclocka þennan örgjörva upp nokkuð. Þá fór ég að hugsa hvort powersupplyið væri nóg. Skv. reiknivél sem ég fann á netinu þá virtist það vera það. \nÁ ofangreindu að viðbættum nokkrum snúrum og kælikremi sá ég bestu verðin hjá Tölvuvirkni.is eða samtals 127.720 kr. \nAllar ráðleggingar vel þegnar.\nkv.\nDave",
+            "date": "2012-07-11 14:29:00",
+            "post_id": "453142",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Forvitni, afhverju að keyra PleXBMC? Þeas, hvað græðiru á því þegar þú ert hvort sem er kominn með XBMC frontendið?",
+            "date": "2012-07-11 14:55:00",
+            "post_id": "453149",
+            "reply_to_id": "453142"
+        },
+        {
+            "user_name": "dave",
+            "text": "Tölvan verður staðsett í öðru herbergi en sjónvarpið. Ég hafði í raun ekki séð það út hvernig ég myndi ná að gera það ef ég væri bara með XBMC .. þ.e.a.s. keyra þetta allt wifi. Mögulega er það hægt en ég var ekki búinn að sjá það án þess að vera með AppleTV eða smb. við sjónvarpið.\nLas þessa grein og fékk ágætis trú á PleXBMC .. \nhttp://www.totalhtpc.com/plexbmc-unholy ... in-heaven/\n. Er ekki búinn að drekkja mér mikið í þetta en þetta leit vel út í fyrstu.",
+            "date": "2012-07-11 17:52:00",
+            "post_id": "453173",
+            "reply_to_id": "453149"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Hm, þú ætlar að vera með tölvuna í öðru herbergi? Held að þú sért e-ð að misskilja hvernig Plex virkar. Samsung Plex appið tekur við streymi frá Plex Media Server. PleXBMC er bara front end addon á XBMC til að taka við streymi frá Plex Media server. Svo ef ætlunin er að nota Plex GUI-ið á Samsung TVinu þá þarftu bara að vera með Plex Media Server uppsett á þeirri vél sem sér um að streyma efninu (server/HTPC). Þannig ef þú ætlar að keyra XBMC þá þarf tölvan að vera tengd phýsískt við sjónvarpið.\nEf þú ætlar að streyma proper gæðum (720p/1080p) þá myndi ég ekki treysta á þráðlausa netið til að skila hnökralausu playbacki nema tölvan sé tengd með ótrufluðu 802.11n.",
+            "date": "2012-07-11 21:13:00",
+            "post_id": "453205",
+            "reply_to_id": "453173"
+        },
+        {
+            "user_name": "dave",
+            "text": "Einmitt !  \n \nEins og ég sagði ég hafði ekki sökkt mér djúpt í lesturinn á hvernig uppsetningin yrði. \nÉg er því eflaust að horfa á að setja upp Plex Media Server og svo nota Samsung Plex appið. Ég í raun taldi mig geta sett upp PleXBMC á Samsung tækinu og notað það sem frontend. Mér hefur eflaust þá skjáltast þar? Kannski er ég bara allur í ruglinu ..\nEn ég hef þörf fyrir að hafa tölvuna í öðru herbergi og stream'a yfir Wifi. Það er ekki hægt að draga í og ekki vil ég hafa snúrur um 10 metra gegnum allan ganginn í íbúðinni. Ég er lítið að horfa á 720/1080p en hef aðrar leiðir til að gera það einnig ef þess krefst.\nTakk fyrir að benda mér samt á þetta. Fínt að hafa ekki þurft að uppgötva þetta á trial and error leiðina..\nÞað ætlar enginn samt að komment á samsetninguna?",
+            "date": "2012-07-11 23:07:00",
+            "post_id": "453244",
+            "reply_to_id": "453205"
+        },
+        {
+            "user_name": "CurlyWurly",
+            "text": "Nú lofa ég engu en það gæti verið ágætis hugmynd að bera saman i3 2120 og FX-6100. Ekki nema þú viljir pottþétt yfirklukka, annars þekki ég lítið til AMD örgjörvanna þar sem ég var búinn að ákveða að fá mér i5 áður en ég byrjaði að kynna mér móðurborð o.fl.",
+            "date": "2012-07-12 00:35:00",
+            "post_id": "453259",
+            "reply_to_id": "453244"
+        }
+    ],
+    "date": "2012-07-11 14:29:00"
+}

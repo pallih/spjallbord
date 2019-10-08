@@ -1,0 +1,149 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "51516",
+    "title": "Aðstoð við samsæriskenningu",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=51516",
+    "posts": [
+        {
+            "user_name": "izelord",
+            "text": "Sælir.\nNúna vantar mig pínu aðstoð. Málið er að undanfarna daga hef ég lent í töluverðu routerbasli og er að verða kominn með smá samsæriskenningu varðandi ISP hjá mér.\nSvona liggur landið:\nÁ tengingunni sem um ræðir er linux tölva sem er beintengd netinu (enginn router) og er hún með iptöluna 89.160.172.82. Hún er með eitt opið port, 51413.\nMálið er að ég er með aðra tengingu sem er hjá sama ISP og í gegnum sömu þjónustu sem þýðir að rútan á þar á milli er ofurstutt. Portið virðist opið ef sendur er pakki frá þeirri tengingu. Aftur á móti ef ég notast við einhverskonar hugbúnað sem kallar á pakka að utan (t.d. \nhttp://www.yougetsignal.com/tools/open-ports/\n ), þá virðist portið lokað. \nÞað sem mig vantar aðstoð við er að kanna, frá hinum ýmsu tengingum og ISP, hvort umrætt port sé opið eða lokað og hvaða rúta er yfir á þessa iptölu. Mjög einfalt. \nSkipanirnar í linux væru t.d. \nKóði: \nVelja allt\nnmap 89.160.172.82 -p 51413\ntraceroute 89.160.172.82\nBið ykkur svo um að birta niðurstöðurnar ykkar hérna.\nEf ég hef rétt fyrir mér, þá ætti þetta að verða MJÖG fróðlegt.",
+            "date": "2012-11-13 22:30:00",
+            "post_id": "477843",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "ponzer",
+            "text": "Get telnetað mig á þetta port s.s það er opið fyrir mér en skv. Ping.eu er það lokað.\nÉg er hjá Símanum.",
+            "date": "2012-11-13 22:36:00",
+            "post_id": "477844",
+            "reply_to_id": "477843"
+        },
+        {
+            "user_name": "izelord",
+            "text": "Sæll! Takk kærlega, gætiru birt traceroutið svo það sjáist hvaða routerar það eru sem pakkarnir fara um?",
+            "date": "2012-11-13 22:39:00",
+            "post_id": "477849",
+            "reply_to_id": "477844"
+        },
+        {
+            "user_name": "ponzer",
+            "text": "Ekkert mál.\nÞetta er frá Síma-tengingu:\nTracing route to 89-160-172-82.du.xdsl.is [89.160.172.82]\nover a maximum of 30 hops:\n  1    <1 ms    <1 ms    <1 ms  10.0.0.1\n  2     8 ms     9 ms     8 ms  157.157.255.100\n  3     8 ms     8 ms     8 ms  157.157.53.142\n  4     9 ms     8 ms     9 ms  193-4-248-105.static.metronet.is [193.4.248.105]\n  5     9 ms     8 ms     9 ms  te1-1-D05-Strandgata.c.is [217.151.190.170]\n  6    10 ms     9 ms     8 ms  193-4-246-251.static.metronet.is [193.4.246.251]\n  7     9 ms     9 ms     9 ms  193-4-246-241.static.metronet.is [193.4.246.241]\n  8    10 ms     9 ms     9 ms  193-4-254-182.static.metronet.is [193.4.254.182]\n  9     9 ms     9 ms     9 ms  89-160-172-82.du.xdsl.is [89.160.172.82]\nTrace complete.\nHérna er svo annað trace af ljósleiðara frá Hringdu - þetta trace lookar frekar stutt  \n \ntracert 89.160.172.82\nTracing route to 89-160-172-82.du.xdsl.is [89.160.172.82]\nover a maximum of 30 hops:\n  1     1 ms    <1 ms     1 ms  10.205.4.3\n  2    <1 ms    <1 ms    <1 ms  89-160-172-82.du.xdsl.is [89.160.172.82]\nTrace complete.\nEr þetta ljós eða dsl sem þess tenging er á ?",
+            "date": "2012-11-13 22:44:00",
+            "post_id": "477851",
+            "reply_to_id": "477849"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "Er í Bandaríkjunum en sakar ekki að henda þessu inn.\nnmap (nota -PN er betra ef mér skjátlast ekki, fæ \"host is down\" annars)\nKóði: \nVelja allt\n% nmap 89.160.172.82 -p 51413 -PN\nNmap scan report for 89-160-172-82.du.xdsl.is (89.160.172.82)\nHost is up.\nPORT      STATE    SERVICE\n51413/tcp filtered unknown\nNmap done: 1 IP address (1 host up) scanned in 2.20 seconds\ntraceroute\nKóði: \nVelja allt\n% traceroute 89.160.172.82\ntraceroute to 89.160.172.82 (89.160.172.82), 30 hops max, 60 byte packets\n 1  192.168.1.1 (192.168.1.1)  4.277 ms  4.244 ms  4.228 ms\n 2  * * *\n 3  user-24-96-153-65.knology.net (24.96.153.65)  35.160 ms  35.137 ms  35.112 ms\n 4  user-24-96-198-25.knology.net (24.96.198.25)  33.544 ms  33.564 ms  34.955 ms\n 5  user-24-96-198-229.knology.net (24.96.198.229)  34.956 ms  34.956 ms  34.945 ms\n 6  dynamic-76-73-147-205.knology.net (76.73.147.205)  40.546 ms  29.375 ms  36.984 ms\n 7  atl-bb1-link.telia.net (80.239.193.61)  35.731 ms  48.615 ms  48.594 ms\n 8  ash-bb1-link.telia.net (213.155.134.130)  33.795 ms ash-bb1-link.telia.net (80.91.246.76)  33.814 ms ash-bb1-link.telia.net (80.91.252.217)  80.522 ms\n 9  hbg-bb1-link.telia.net (213.155.131.244)  127.936 ms hbg-bb2-link.telia.net (213.155.131.250)  129.565 ms hbg-bb1-link.telia.net (213.155.131.244)  128.980 ms\n10  hbg-b1-link.telia.net (80.91.253.54)  128.982 ms hbg-b1-link.telia.net (213.155.135.89)  127.840 ms hbg-b1-link.telia.net (213.155.135.83)  129.482 ms\n11  vodafone-ic-136086-hbg-b1.c.telia.net (213.248.75.218)  139.002 ms  139.000 ms  128.469 ms\n12  92.79.215.241 (92.79.215.241)  138.105 ms  138.112 ms  132.839 ms\n13  145.253.34.6 (145.253.34.6)  158.520 ms  150.404 ms  159.328 ms\n14  te1-1-D05-Strandgata.c.is (217.151.190.170)  180.595 ms  161.094 ms  167.366 ms\n15  193-4-246-251.static.metronet.is (193.4.246.251)  180.890 ms  190.506 ms  189.084 ms\n16  * * *\n17  * * *\n18  * * *\n19  * * *\n20  * * *\n21  * * *\n22  * * *\n23  * * *\n24  * * *\n25  * * *\n26  * * *\n27  * * *\n28  * * *\n29  * * *\n30  * * *\ntelnet\nKóði: \nVelja allt\n% telnet 89.160.172.82 51413\nTrying 89.160.172.82...\ntelnet: Unable to connect to remote host: Connection timed out",
+            "date": "2012-11-13 22:49:00",
+            "post_id": "477854",
+            "reply_to_id": "477851"
+        },
+        {
+            "user_name": "hfwf",
+            "text": "root /etc/pacman.d # nmap 89.160.172.82 -p 51413\nStarting Nmap 6.01 ( \nhttp://nmap.org\n ) at 2012-11-13 23:04 GMT\nNmap scan report for 89-160-172-82.du.xdsl.is (89.160.172.82)\nHost is up (0.0017s latency).\nPORT      STATE SERVICE\n51413/tcp open  unknown\nNmap done: 1 IP address (1 host up) scanned in 0.19 seconds\ntraceroute 89.160.172.82\ntraceroute to 89.160.172.82 (89.160.172.82), 30 hops max, 60 byte packets\n 1  192.168.1.1 (192.168.1.1)  0.835 ms  1.020 ms  1.227 ms\n 2  10.203.8.2 (10.203.8.2)  5.696 ms  6.030 ms  6.070 ms\n 3  89-160-172-82.du.xdsl.is (89.160.172.82)  6.113 ms  6.150 ms  6.569 ms",
+            "date": "2012-11-13 23:07:00",
+            "post_id": "477859",
+            "reply_to_id": "477854"
+        },
+        {
+            "user_name": "intenz",
+            "text": "nmap\nKóði: \nVelja allt\ngaui@home:~$ nmap 89.160.172.82 -p 51413 -PN\nStarting Nmap 5.21 ( http://nmap.org ) at 2012-11-13 23:04 GMT\nNmap scan report for 89-160-172-82.du.xdsl.is (89.160.172.82)\nHost is up.\nPORT      STATE    SERVICE\n51413/tcp filtered unknown\nNmap done: 1 IP address (1 host up) scanned in 2.07 seconds\ntraceroute\nKóði: \nVelja allt\ngaui@home:~$ traceroute 89.160.172.82\ntraceroute to 89.160.172.82 (89.160.172.82), 30 hops max, 60 byte packets\n 1  dsldevice.lan (192.168.1.254)  94.486 ms  94.359 ms  93.580 ms\n 2  157.157.255.100 (157.157.255.100)  28.711 ms  29.437 ms  30.106 ms\n 3  157.157.53.150 (157.157.53.150)  17.092 ms  17.709 ms  17.621 ms\n 4  157-157-115-147.ipnet.simnet.is (157.157.115.147)  31.243 ms  31.161 ms  31.069 ms\n 5  te1-1-D05-Strandgata.c.is (217.151.190.170)  18.693 ms  18.607 ms  18.513 ms\n 6  193-4-246-251.static.metronet.is (193.4.246.251)  18.395 ms  16.555 ms  18.018 ms\n 7  * * *\nEr hjá Símanum",
+            "date": "2012-11-13 23:07:00",
+            "post_id": "477860",
+            "reply_to_id": "477859"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Vodafone Ljósleiðari hér ...\nGet telnet-að á þetta port.\nTracert:\nKóði: \nVelja allt\nC:\\Users\\haukur>tracert 89.160.172.82\nTracing route to 89-160-172-82.du.xdsl.is [89.160.172.82]\nover a maximum of 30 hops:\n  1    <1 ms    <1 ms    <1 ms  Cisco4200 [192.168.2.1]\n  2    <1 ms    <1 ms    <1 ms  10.205.20.3\n  3    <1 ms    <1 ms    <1 ms  89-160-172-82.du.xdsl.is [89.160.172.82]",
+            "date": "2012-11-13 23:10:00",
+            "post_id": "477863",
+            "reply_to_id": "477860"
+        },
+        {
+            "user_name": "Saber",
+            "text": "VDSL tenging frá Hringiðunni hér.\nnmap 89.160.172.82 -p 51413 -PN\nKóði: \nVelja allt\nStarting Nmap 5.21 ( http://nmap.org ) at 2012-11-13 23:09 GMT\nNmap scan report for 89-160-172-82.du.xdsl.is (89.160.172.82)\nHost is up.\nPORT      STATE    SERVICE\n51413/tcp filtered unknown\nNmap done: 1 IP address (1 host up) scanned in 2.10 seconds\ntraceroute 89.160.172.82\nKóði: \nVelja allt\ntraceroute to 89.160.172.82 (89.160.172.82), 30 hops max, 60 byte packets\n 1  dsldevice.lan (192.168.1.254)  62.389 ms  62.343 ms  62.315 ms\n 2  213.190.99.1 (213.190.99.1)  11.213 ms  11.215 ms  11.202 ms\n 3  213.190.99.5 (213.190.99.5)  11.694 ms  11.694 ms  11.681 ms\n 4  213.190.99.6 (213.190.99.6)  11.654 ms  11.649 ms  11.632 ms\n 5  rix-gw.vodafone.is (195.130.211.13)  12.923 ms  13.937 ms  13.928 ms\n 6  te1-1-D05-Strandgata.c.is (217.151.190.170)  12.860 ms  11.514 ms *\n 7  193-4-246-251.static.metronet.is (193.4.246.251)  11.483 ms * *\n 8  * * *\n 9  * * *\n10  * * *\n11  * * *\n12  * * *\n13  * * *\n14  * * *\n15  * * *\n16  * * *\n17  * * *\n18  * * *\n19  * * *\n20  * * *\n21  * * *\n22  * * *\n23  * * *\n24  * * *\n25  * * *\n26  * * *\n27  * * *\n28  * * *\n29  * * *\n30  * * *",
+            "date": "2012-11-13 23:21:00",
+            "post_id": "477871",
+            "reply_to_id": "477863"
+        },
+        {
+            "user_name": "hkr",
+            "text": "hringdu ljósleiðari:\nKóði: \nVelja allt\nnmap 89.160.172.82 -p 51413\nStarting Nmap 6.01 ( http://nmap.org ) at 2012-11-14 02:07 WET\nNmap scan report for 89-160-172-82.du.xdsl.is (89.160.172.82)\nHost is up (0.00037s latency).\nPORT      STATE SERVICE\n51413/tcp open  unknown\nNmap done: 1 IP address (1 host up) scanned in 0.06 seconds\nKóði: \nVelja allt\ntraceroute 89.160.172.82\ntraceroute to 89.160.172.82 (89.160.172.82), 30 hops max, 60 byte packets\n 1  192.168.234.2 (192.168.234.2)  0.225 ms  0.098 ms  0.096 ms\n 2  * * *\n 3  * * *\n 4  * * *\n 5  * * *\n 6  * * *\n 7  * * *\n 8  * * *\n 9  * * *\n10  * * *\n11  * * *\n12  * * *\n13  * * *\n14  * * *\n15  * * *\n16  * * *\n17  * * *\n18  * * *\n19  * * *\n20  * * *\n21  * * *\n22  * * *\n23  * * *\n24  * * *\n25  * * *\n26  * * *\n27  * * *\n28  * * *\n29  * * *\n30  * * *",
+            "date": "2012-11-14 02:18:00",
+            "post_id": "477924",
+            "reply_to_id": "477871"
+        },
+        {
+            "user_name": "einarth",
+            "text": "..getur verið að þú sért með netvörn? Spurning hvort það sé að blocka þetta port erlendis frá..\nKv, Einar.",
+            "date": "2012-11-14 10:54:00",
+            "post_id": "477950",
+            "reply_to_id": "477924"
+        },
+        {
+            "user_name": "izelord",
+            "text": "Takk kærlega fyrir frábær viðbrögð!\n\"Samsæriskenningin\" er einfaldlega sú að einhver router hjá Vodafone sé bilaður eða að eitthvað sé að hafa þau áhrif að portin hjá mér séu lokuð. Þetta fannst mér vera eina leiðin til að staðfesta þá kenningu þar sem þjónustufulltrúinn hjá Vodafone gat bara bent mér á leiðbeiningar um portforward á heimasíðu Vodafone (hversu pirrandi?). Mín fyrsta kenning var að netvörnin hjá mér væri virk og fékk ég þjónustufulltrúann til að kanna það og einnig athugaði ég það á \"mínum síðum\" en hún reyndist ekki vera virk. Um er að ræða ljósleiðaratengingu.\nMiðað við það sem ég sé hérna þá er greinilegt að fyrir sumum er portið hjá mér lokað, sumum er það filterað og sumum er það opið. Auðvitað getur verið að einhverjir séu á þannig tengingu að \"outgoing packets\" komist ekki alla leið, en mér finnst samt fjöldinn vera slíkur að ólíklegt sé að það eigi við um alla þá sem fá lokað eða filterað port.\nÞar af leiðandi smellti ég tölvupósti á Vodafone með tilvísun í þennan spjallþráð og bað þá um að kanna málið frekar sín megin.\nTölvan er ennþá í sömu stöðu heima ef menn vilja halda áfram að prófa.",
+            "date": "2012-11-14 11:02:00",
+            "post_id": "477951",
+            "reply_to_id": "477950"
+        },
+        {
+            "user_name": "ColdIce",
+            "text": "Vodafone ljós.",
+            "date": "2012-11-14 11:19:00",
+            "post_id": "477954",
+            "reply_to_id": "477951"
+        },
+        {
+            "user_name": "Haxdal",
+            "text": "VDSL hjá Símanum.\nFrá server innanlands.",
+            "date": "2012-11-14 12:13:00",
+            "post_id": "477962",
+            "reply_to_id": "477954"
+        },
+        {
+            "user_name": "Haxdal",
+            "text": "btw,  þú veist að 51413 er þekkt torrent port .. gæti vel verið að ISPinn þinn sé að filtera/loka það viljandi.\nGeturðu prófað annað port ?",
+            "date": "2012-11-14 12:17:00",
+            "post_id": "477963",
+            "reply_to_id": "477962"
+        },
+        {
+            "user_name": "izelord",
+            "text": "Já, ég var nú reyndar búinn að prófa nokkur önnur random sjálfvalin port, án árangurs. Ákvað að prófa þetta til að byrja með. Man að Síminn var með hraðafilter á DCnotkun 200x þannig að svona filter þykir ekkert ólíklegur.",
+            "date": "2012-11-14 12:20:00",
+            "post_id": "477964",
+            "reply_to_id": "477963"
+        },
+        {
+            "user_name": "einarth",
+            "text": "Sæll.\nEr búinn að skoða þetta mál aðeins.\nSvo virðist sem eitthvað hafi klikkað í samskiptum milli kerfa Vodafone og GR sem hefur þau áhrif að kerfi Vodafone telja þig ekki vera með netvörn en í kerfum GR ertu með netvörn.\nÞetta hefur þau áhrif að þú ferð í gegnum eldvegginn sem viðskiptavinir í netvörn fara í gegnum (og þar er líklega lokað á þessi port) en aðrir hlutar netvarnar (filtering á http lagi) er líklega óvirk.\nÉg hef sett mig í samband við Vodafone til að skoða þetta mál nánar og lagfæra svo þetta gerist ekki aftur.\nÉg ætla að leyfa þeim aðeins að skoða þetta mál þitt til loka dags - en ef það er ennþá óleyst get ég látið laga þetta handvirkt hérna hjá okkur.\nKv, Einar.",
+            "date": "2012-11-14 12:35:00",
+            "post_id": "477966",
+            "reply_to_id": "477964"
+        },
+        {
+            "user_name": "Plushy",
+            "text": "likelikelikelike\nkomdu með like takka guðjón",
+            "date": "2012-11-14 15:00:00",
+            "post_id": "477978",
+            "reply_to_id": "477966"
+        },
+        {
+            "user_name": "izelord",
+            "text": "Snillingur, nákvæmlega það sem mig grunaði",
+            "date": "2012-11-14 18:09:00",
+            "post_id": "478005",
+            "reply_to_id": "477978"
+        },
+        {
+            "user_name": "intenz",
+            "text": "+1",
+            "date": "2012-11-14 22:45:00",
+            "post_id": "478068",
+            "reply_to_id": "478005"
+        }
+    ],
+    "date": "2012-11-13 22:30:00"
+}

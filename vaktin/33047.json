@@ -1,0 +1,79 @@
+{
+    "forum_title": "Windows",
+    "id": "33047",
+    "title": "Media Player Classic stillingar fyrir *.mkv fæla",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=33047",
+    "posts": [
+        {
+            "user_name": "GuðjónR",
+            "text": "Jæja, þið sem eruð með media center tölvur eða notið tölvurnar til að spila *.mkv fæla hvaða stillingar eruð þið með í Media Player Classic?\nÉg gef mér að þið séuð að nota það forrit, allaveganna er það talið af flestim best fyrir HD efnið.\nSpurning hvaða Codec þið notið og hvernig þið stillið.\nÉg hendi inn snapshot af þeim stillingum sem ég er með...það væri flott ef þið mynduð nenna því líka.\nSpurning hvort maður geti stillt þetta betur.",
+            "date": "2010-10-08 22:29:00",
+            "post_id": "287255",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Hvati",
+            "text": "Það er best að sækja ffdshow og AC3filter, fara í external filter og bæta þeim þar við (ffdshow video decoder fyrir SD og ffdshow DXVA video decoder fyrir x264) og haka í prefer. En ef þú vilt besta HD video codecinn, þá er það CoreAVC sem er þó ekki freeware (nema þú viljir nota ónefndar torrent síður...). Annars er líka hægt að nota ffdshow DXVA sem notar skjákortið betur en venjulegt ffdshow.\nBtw, þá er betra að velja EVR Custom Res, Resizer: Bilinear (PS 2.0) og stilla EVR buffers á lægsta mögulegt.\nGetur fengið nýjustu útgáfur af MPC-HC og Ffdshow á \nhttp://xhmikosr.1f0.de/",
+            "date": "2010-10-09 01:41:00",
+            "post_id": "287292",
+            "reply_to_id": "287255"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Takk fyrir þessar upplýsingar. Loksins fékk maður almenninlegar leiðbeiningar \nSótti nýjustu útgáfuna af MPC. Takk fyrir linkinn.\nEr búinn að vera að fikta í þessu í morgun.\nPrófaði coreAVC veit eiginlega ekki hvort ég sé einhvern mun. Enda í 60 cm fjarlægð frá 42\" sjónvarpi, ekki alveg að marka.\nEf mig langar að prófa ffdshow hvaða fæl er best að downloda af síðunni?\nSendi snapshot af stillingunum sem ég var að prófa áðan, þú mátt leiðrétta mig ef ég er að gera einhverja vitleysu",
+            "date": "2010-10-09 13:37:00",
+            "post_id": "287324",
+            "reply_to_id": "287292"
+        },
+        {
+            "user_name": "Hvati",
+            "text": "það er best að nota ffdshow_rev3611_20101006_xhmikosr.exe\nÞað sést ekki mikill munur á gæðum með CoreAVC en ég hef séð stóran mun á CPU notkun\nþú getur líka nálgast AC3filter hér: \nhttp://ac3filter.net/projects/ac3filter/releases\nMundu bara að stilla fjölda hátalara í AC3filter undir output format. Það er einnig mjög þæginleg stilling undir Mixer sem er Voice control og Expand stereo, þæginlegt ef þú ert með 5.1 kerfi þ.e.a.s. \nÞetta eru mínar stillingar í CoreAVC",
+            "date": "2010-10-09 13:50:00",
+            "post_id": "287325",
+            "reply_to_id": "287324"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Ég prófaði þínar stillingar, mér fannst tölvan lagga aðeins þannig.\nSvona er þetta hjá mér (sjá mynd), reyndar virðist álagið á CPU vera miklu meira með CoreAVC en með default MPC codecnum.\n34-50% load með 1080 efni í stað 20-35% load.\nÉg dl og installeraði ffdshow en það birtist ekki í valmyndinni um external codecs...líklega er ég að gera eitthvað rangt.",
+            "date": "2010-10-09 19:34:00",
+            "post_id": "287366",
+            "reply_to_id": "287325"
+        },
+        {
+            "user_name": "gardar",
+            "text": "CoreAVC er þekkt fyrir það að fara vægt á örgjörvann og mælt með því fyrir menn með litla örgjörva fram yfir annað, svo að eitthvað ertu að gera vitlaust GuðjónR",
+            "date": "2010-10-09 20:34:00",
+            "post_id": "287377",
+            "reply_to_id": "287366"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Ertu að gefa eitthvað í skyn?",
+            "date": "2010-10-09 20:47:00",
+            "post_id": "287380",
+            "reply_to_id": "287377"
+        },
+        {
+            "user_name": "gardar",
+            "text": "",
+            "date": "2010-10-09 20:52:00",
+            "post_id": "287382",
+            "reply_to_id": "287380"
+        },
+        {
+            "user_name": "Hvati",
+            "text": "ef þú ert með ATI skjákort þá ættiru að afhaka Prefer CUDA acceleration",
+            "date": "2010-10-09 21:49:00",
+            "post_id": "287389",
+            "reply_to_id": "287382"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Er með \nNVIDIA GeForce 9400M\n innbyggt skjákort á þessu móbói.\nSem er Media Center tölvan",
+            "date": "2010-10-09 22:29:00",
+            "post_id": "287398",
+            "reply_to_id": "287389"
+        }
+    ],
+    "date": "2010-10-08 22:29:00"
+}

@@ -1,0 +1,72 @@
+{
+    "forum_title": "Koníakstofan",
+    "id": "54335",
+    "title": "Keypti loks SSD - Er þetta virkilega svona mikið vesen?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=9&t=54335",
+    "posts": [
+        {
+            "user_name": "Yawnk",
+            "text": "Sælir, lét loksins verða að því að kaupa mér SSD (Samsung 840) og líst bara nokkuð vel á hann, en er það bara ég, eða finnst mér vera 0% munur nema á boot hraða.. \nHvernig fer maður að því með Program files? nú má ég varla installa neinu á Program files, bjó til annað Program Files á gamla diskinn (500GB) sem er nú orðinn E: diskur, en ég er engann veginn að fíla þetta, var með allt á desktopinu, lög og slíkt, neyðist ég til þess að hafa folderana í shortcut? \nVil hafa allt 100% skipulagt, þoli ekki óreiðu, þoli þetta ekki, að þurfa að breyta path fyrir hvert forrit eða dót sem ég installa, get ég ekki gert eitthvað þannig að það fari sjálfkrafa í þann folder?\nHvernig er þetta hjá ykkur?",
+            "date": "2013-04-04 22:01:00",
+            "post_id": "503919",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Sérð oftast lítinn mun í booti, en að opna forrit og allt því tengt er svart og hvítt. Ég set öll forrit upp á SSD, set þó stundum upp leiki á HDD ef þeir eru mjög pláss frekir. Mundu svo að hafa BIOS stilltan á AHCI.",
+            "date": "2013-04-04 22:04:00",
+            "post_id": "503922",
+            "reply_to_id": "503919"
+        },
+        {
+            "user_name": "vesi",
+            "text": "getur stilt default install path í windows",
+            "date": "2013-04-04 22:05:00",
+            "post_id": "503923",
+            "reply_to_id": "503922"
+        },
+        {
+            "user_name": "Oak",
+            "text": "Getur verið vesen ef að þú ert með of lítinn disk...",
+            "date": "2013-04-04 22:11:00",
+            "post_id": "503925",
+            "reply_to_id": "503923"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Þú hefur stýrikerfið og forrit á SSD disknum... Tónlist og allt svoleiðis geymirðu á spindildiskum og hefur bara shortcut á desktopinu ef þú vilt.\nSvo er eitt sem fólk klikkar stundum á þegar það setur upp SSD er að breyta ekki úr IDE í ACHI mode í BIOS. 120 GB er alveg nóg fyrir stýrikerfið og forrit. Sniðugt er reyndar að færa Steam möppuna á annan disk þar sem leikirnir fylla fljótt upp í plássið.\nEn að vera með SSD disk er ekkert vesen og bara æði.\nTékkaðu í BIOS hvort þú sért með diskinn í IDE mode (þarft líklegast að setja stýrikerfið upp aftur samt).\nSvo var aldrei góð hugmynd að geyma allt á desktopinu hvort sem er...",
+            "date": "2013-04-04 22:19:00",
+            "post_id": "503931",
+            "reply_to_id": "503925"
+        },
+        {
+            "user_name": "Oak",
+            "text": "Getur alltaf fært desktop folderinn sjálfann. En 120 GB er alls ekki nóg fyrir mig. Langt í frá eiginlega. XBMC og Plex er að taka helvíti mikið pláss. Er með það sem portable til að redda pláss leysinu.Ef þú ert með t.d. iPod eða spjaldtölvu og tekur backup á tölvuna þá tekur það sitt pláss og ef að fólk kann ekki að færa það þá getur það verið vesen. Öppin sem fylgja taka mikið ef að þú ert að safna þeim",
+            "date": "2013-04-04 22:46:00",
+            "post_id": "503940",
+            "reply_to_id": "503931"
+        },
+        {
+            "user_name": "GullMoli",
+            "text": "Iss, er með 80 GB (74,5) SSD sem stýrikerfis disk og þar af eru 44.1 GB laus \nHjá mér er þetta svona:\n1TB disk fyrir leiki + misc.\n1TB disk fyrir þætti.\n1TB disk fyrir kvikmyndir.\n1TB disk fyrir HD efni.\n250GB fyrir tónlist.\nEr reyndar svolítil óreiða í þessu atm, þarf að kaupa mér fleiri diska :l \nSkil samt ekki hvernig skipulag getur verið = hafa allt á desktop + installa öllu bara beint í Program Files",
+            "date": "2013-04-04 23:30:00",
+            "post_id": "503949",
+            "reply_to_id": "503940"
+        },
+        {
+            "user_name": "Yawnk",
+            "text": "Til hamingju éééééég eitt þúsundasta innleggið mitt hér!! \nFuss og svei, skipulag er til í ýmsum myndum!\nÉg var t.d með smáforrit í einni möppu á desktoppinu, s.s bara shortcuts, svo leikjashortcuts, set-ups af forritum í einu, mappa fyrir vírusvarnir og hreinsiforrit og so on, hef haft þetta skipulag í mörg ár, er mjööög vanaföst manneskja.\nJá, ég væri alveg vel til í að eiga 4 1TB diska eins og þú  \n en ég hef yfirleitt bara átt einn 500GB.\n*Jæja, ætli hann sé ekki í AHCI mode myndi ég halda, náði mér í Restart time forrit, 21 sek!!  \n \nÍ stað 2-3 mín með gamla",
+            "date": "2013-04-04 23:33:00",
+            "post_id": "503951",
+            "reply_to_id": "503949"
+        },
+        {
+            "user_name": "Xovius",
+            "text": "2tb diskar eru besta 'bang for buck' í geymsludiskum í dag held ég. Ódýr svoleiðis kostar nú ekki nema svona 16-17þúsund, er með tvo sjálfur og er á góðri leið með að fylla þá báða",
+            "date": "2013-04-05 00:35:00",
+            "post_id": "503969",
+            "reply_to_id": "503951"
+        }
+    ],
+    "date": "2013-04-04 22:01:00"
+}

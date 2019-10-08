@@ -1,0 +1,51 @@
+{
+    "forum_title": "Leikjasalurinn",
+    "id": "66365",
+    "title": "Vandi með CS go.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=14&t=66365",
+    "posts": [
+        {
+            "user_name": "steinihjukki",
+            "text": "Sæl/ir spjallverjar.\nSonur minn spilar CS go (Counter strike) á steam. Vorum að uppfæra tölvuna í win 8,1 og getum ekki hlaðið niður leiknum. Upp kemur villumelding \"corrupt update\" í lokin þegar 99% er komið inn. Kannast einhver við þetta og er einhver lausn á þessu. Er að gera okkur alveg gráhærða. Reyndar var þetta líka svona áður með win 7 ultimate. \nKv,\nsteinihjukki.",
+            "date": "2015-07-29 09:58:00",
+            "post_id": "602946",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Skari",
+            "text": "getur prófað að hægri smella á leikinn -> properties -> local files  og klikka á verify intergrity of game cache\nAnnars eftir smá leit líka þá virðist þetta hafa virkað hjá sumum:\n* runna steam sem administrator\n* athuga með möppurnar hvort þær séu read only, ef svo er þá taka það burt",
+            "date": "2015-07-29 10:49:00",
+            "post_id": "602948",
+            "reply_to_id": "602946"
+        },
+        {
+            "user_name": "steinihjukki",
+            "text": "Takk fyrir svarið Skari. Reyndum þetta, fórum í möppurnar og hakað var við \"read only\". Tókum það burt þ.e. afhökuðum read only og fórum út úr möppunni en stillingin breyttist jafnóðum í read only. Óskiljanlegt vandamál sem fjöldinn allur af notendum Steam er að lenda í skv netinu en þeir eru ekkert að flýta sér að bæta úr þessu ef það er hægt á annað borð.\nEkki dugði heldur fyrri tillagan um að \"verify integrity\".\nkv steinihjukki.",
+            "date": "2015-07-31 02:06:00",
+            "post_id": "603192",
+            "reply_to_id": "602948"
+        },
+        {
+            "user_name": "agust1337",
+            "text": "Hefur þú prufað að endurinstalla steam?",
+            "date": "2015-08-04 13:58:00",
+            "post_id": "603487",
+            "reply_to_id": "603192"
+        },
+        {
+            "user_name": "steinihjukki",
+            "text": "Búinn að reyna allt sem fólk í sömu vandræðum hefur reynt og það er ansi margt. Mundi svo eftir því að rétt áður en þessi vandamál hófust keypti sonur minn 8 gb RAM í tölvuna. Tók það úr í fyrradag og \"voila\" allt virkar eins og í sögu. Drengnum langaði í meira RAM fyrir leikina í mai. Fór í Tölvutek og þar var honum tjáð að allt í lagi væri að para saman 2x4bg Mushkin steath stiletto CL8 vir sem voru fyrir, og nýju Mushkin blackline 1x8gb CL9 vir. Má para svona minni saman? Einnig grunsamlegt að mánuði eftir þessi RAM kaup fór SSD diskurinn okkar að bila!! \nkv Steinihjukki.",
+            "date": "2015-08-05 09:35:00",
+            "post_id": "603524",
+            "reply_to_id": "603487"
+        },
+        {
+            "user_name": "agust1337",
+            "text": "Þau ættu að virka saman, það gæti verið að þau séu biluð, það getur gerst, farðu í búðina þar sem þú keyptir minnin, og segðu þeim frá vandanum, það gæti verið að þeir prufi þau, og ef þeir sjá að það sé eitthvað ekki í lagi þá munu þeir sennilega gefa þér ný sem virka, en áður en þú gerir það, prufaðu að nota eitt í einu og sjáðu hvort þau virka án þess að vera saman, þá gæti verið að þau eru ekki stillt til að virka saman",
+            "date": "2015-08-06 14:39:00",
+            "post_id": "603642",
+            "reply_to_id": "603524"
+        }
+    ],
+    "date": "2015-07-29 09:58:00"
+}

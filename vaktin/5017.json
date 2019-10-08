@@ -1,0 +1,177 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "5017",
+    "title": "Var að kaupa skjákort",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=5017",
+    "posts": [
+        {
+            "user_name": "Mosi",
+            "text": "Var að fá mér nýtt skjákort, microstar radeon 9800 pro 128 mb. Oft þegar ég er í leikjum eins og far cry og doom 3 þá frýs leikurinn og allt verður svart og það er ekki hægt að gera neitt ekki einu sinni að fara aftur í windows þannig að maður þarf að restarta. Var fyrst með driverinn sem fylgdi skjákortinu og síðan catalyst 4.7 og þetta gerðist í bæði skiptin. Ég er með 2.66 ghz og 512 mb vinnsluminni. Veit einhver tölvusnillingurinn hvað er að og hvernig ég get lagað þetta",
+            "date": "2004-08-04 19:52:00",
+            "post_id": "50876",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Hörde",
+            "text": "Uninstallaðirðu drivernum sem var fyrir?  Reyndu að uninstalla bæði ATi driverum og Nvidia (ef þú varst með nvidia fyrir) og jafnvel nota driver cleaner:\n\nhttp://www.driverheaven.net/cleaner/\n\n\n\n\nPrófaðu svo að reinstalla catalyst drivernum og sjáðu hvort það virki.\n\n\n\nPs. Prófaðu fyrst að ýta á start-takkann, veldu run, skrifaðu smartgart og ýttu á enter.  Veldu þar \"retest all\".",
+            "date": "2004-08-04 20:35:00",
+            "post_id": "50889",
+            "reply_to_id": "50876"
+        },
+        {
+            "user_name": "Mosi",
+            "text": "ok. gerði allt sem þú sagðir, en þetta gerist aftur og allt slökknar en þá kemur þetta: \n\n\n\nVPU recover\n\n\n\nVPU Recover has reset your graphics accelerator as it was no longer responding to graphics driver commands\n\n\n\nPlease tell ATI Technologies about this problem\n\n\n\nThe generated error report contains only system information such as driver version, AGP settings, graphics frame buffer sizr,  etc. that will be used to analyse the problem. This report will be treated as anonymous\n\n\n\nSend error report              Don´t send\n\n\n\nVeit einhver hvað ég á að gera?",
+            "date": "2004-08-04 22:18:00",
+            "post_id": "50896",
+            "reply_to_id": "50889"
+        },
+        {
+            "user_name": "OverClocker",
+            "text": "Bilað kort.",
+            "date": "2004-08-04 23:27:00",
+            "post_id": "50902",
+            "reply_to_id": "50896"
+        },
+        {
+            "user_name": "Mosi",
+            "text": "ertu alveg viss?",
+            "date": "2004-08-04 23:42:00",
+            "post_id": "50903",
+            "reply_to_id": "50902"
+        },
+        {
+            "user_name": "ErectuZ",
+            "text": "Allt bendir til þess. Farðu og fáðu því skipt",
+            "date": "2004-08-04 23:49:00",
+            "post_id": "50905",
+            "reply_to_id": "50903"
+        },
+        {
+            "user_name": "Steini",
+            "text": "Microstar, keypt í tölvulistanum?",
+            "date": "2004-08-05 01:13:00",
+            "post_id": "50914",
+            "reply_to_id": "50905"
+        },
+        {
+            "user_name": "Mosi",
+            "text": "microstar, keypt hjá att",
+            "date": "2004-08-05 11:20:00",
+            "post_id": "50940",
+            "reply_to_id": "50914"
+        },
+        {
+            "user_name": "Mosi",
+            "text": "gæti þetta kannski verið ofhitnun á skjákortinu? Er bara með örgjörvaviftu og viftu á skjákortinu",
+            "date": "2004-08-05 23:46:00",
+            "post_id": "51027",
+            "reply_to_id": "50940"
+        },
+        {
+            "user_name": "ErectuZ",
+            "text": "Varla er þetta ofhitnun í kortinu ef þú ert að nota kælinguna sem kom með því. Nema þú sért búinn að yfirklukka það eitthvað. Þá gæti það verið ofhitnun",
+            "date": "2004-08-06 00:27:00",
+            "post_id": "51034",
+            "reply_to_id": "51027"
+        },
+        {
+            "user_name": "Hörde",
+            "text": "Gætir prófað að slökkva á VPU recover.  Ég hef heyrt að það baki vandræði fyrir suma.",
+            "date": "2004-08-06 16:17:00",
+            "post_id": "51101",
+            "reply_to_id": "51034"
+        },
+        {
+            "user_name": "Mosi",
+            "text": "Djöfull er þetta pirrandi, það virkar ekkert þetta kemur allltaf  \n\n\nSkipti kortinu eftir helgi",
+            "date": "2004-08-06 20:47:00",
+            "post_id": "51129",
+            "reply_to_id": "51101"
+        },
+        {
+            "user_name": "iStorm",
+            "text": "Þarftu bara ekki að setja inn AGP driver fyrir móbóið.",
+            "date": "2004-08-06 21:19:00",
+            "post_id": "51138",
+            "reply_to_id": "51129"
+        },
+        {
+            "user_name": "BlitZ3r",
+            "text": "það getur verið að  það vanti driver fyrir chipsetið kom fyrir hja mer og leikinir slow og asnalegir en frusu ekki þó",
+            "date": "2004-08-06 22:39:00",
+            "post_id": "51170",
+            "reply_to_id": "51138"
+        },
+        {
+            "user_name": "Mosi",
+            "text": "ok, nú er ég búinn að setja inn agp driverinn fyrir móbóið en nú kemur sami gallinn, það verður allt svart en nú kemur:\n\n\n\nout of range\n\n\n\n48.7K          255Hz\n\n\n\n\n\nveit einhver snillingurinn hvað ég á að gera?",
+            "date": "2004-08-07 12:06:00",
+            "post_id": "51201",
+            "reply_to_id": "51170"
+        },
+        {
+            "user_name": "Mosi",
+            "text": "Ég er að pæla í að skila þessu korti bara, nenni ekki þessu veseni.",
+            "date": "2004-08-07 14:17:00",
+            "post_id": "51218",
+            "reply_to_id": "51201"
+        },
+        {
+            "user_name": "Steini",
+            "text": "jamm gerðu það",
+            "date": "2004-08-07 15:26:00",
+            "post_id": "51227",
+            "reply_to_id": "51218"
+        },
+        {
+            "user_name": "ErectuZ",
+            "text": "Er ég að misskilja eitthvað eða er hann að keyra á 255Hz?",
+            "date": "2004-08-07 15:57:00",
+            "post_id": "51235",
+            "reply_to_id": "51227"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "nei, hann er að ekki-keyra á 255Hz, þ.e. hann fær sent 255Hz merki, en lokar fyrir afþví að það er \"sterkt\" fyrir hann",
+            "date": "2004-08-07 16:19:00",
+            "post_id": "51237",
+            "reply_to_id": "51235"
+        },
+        {
+            "user_name": "ErectuZ",
+            "text": "Ég er sko ekki mikið inn í þessum skjá-málum",
+            "date": "2004-08-07 16:44:00",
+            "post_id": "51239",
+            "reply_to_id": "51237"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "er ekki bara málið að hann þurfi að stilla refreshrate á skjákortinu í display properties",
+            "date": "2004-08-07 17:01:00",
+            "post_id": "51244",
+            "reply_to_id": "51239"
+        },
+        {
+            "user_name": "aRnor`",
+            "text": "Átti í nákvæmlega sama vandamáli, þetta hefur ekki en gerst hjá mér eftir að ég sett upp reforce.",
+            "date": "2004-08-07 18:59:00",
+            "post_id": "51260",
+            "reply_to_id": "51244"
+        },
+        {
+            "user_name": "Mosi",
+            "text": "ég setti upp reforce en það virkaði ekki, svo setti ég upp refresh lock, það virkaði ekki, en í því þá stóð:\n\n\n\nMake sure you are using the correct monitor drivers, not the Plug & Play ones\n\n   (the Plug & Play drivers mostly do NOT give the best frequencies).\n\n\n\nég er með plug and play driver og ég fór á heimasíðu fyrirtækis skjás míns og það voru engir driverar til fyrir skjátegundina mína.\n\nÞetta er orðið mjög pirrandi. Vonandi hefur einhver snillingurinn ráð handa mér.",
+            "date": "2004-08-07 22:12:00",
+            "post_id": "51276",
+            "reply_to_id": "51260"
+        },
+        {
+            "user_name": "Mosi",
+            "text": "ok, fann driver fyrir skjáinn, installaði honum en samt gerist þetta aftur. Ég held að ég skili bara kortinu eftir helgi nenni þessu ekki lengur",
+            "date": "2004-08-07 22:59:00",
+            "post_id": "51277",
+            "reply_to_id": "51276"
+        }
+    ],
+    "date": "2004-08-04 19:52:00"
+}

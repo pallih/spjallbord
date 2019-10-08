@@ -1,0 +1,58 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "875",
+    "title": "434 mhz minni á 400 mhz móðurborð",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=875",
+    "posts": [
+        {
+            "user_name": "odinnn",
+            "text": "veit einhver hvort það sé ekki í lagi að setja 434 mhz minni (pc3500) á móðurborð sem syður 400 mhz minni (pc3200)? steikir það borðið eða keyrir minnið bara á 400 mhz?",
+            "date": "2003-06-15 19:04:00",
+            "post_id": "6834",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "ég hugsa að það ætti að virka, en akkurru ekki að kaupa bara DDR400 minni?\n\nAnnars vill ég benda á það að DDR400 er ekki 400Mhz heldur 200Mhz með \"\nD\nual \nD\nata \nR\nate\" tækninni sem að performar 2 cycle'a á hverju Mhz'i",
+            "date": "2003-06-15 21:21:00",
+            "post_id": "6836",
+            "reply_to_id": "6834"
+        },
+        {
+            "user_name": "elv",
+            "text": "Minninn eiga getað klukkað sig niður.Er í BIOS",
+            "date": "2003-06-15 22:44:00",
+            "post_id": "6840",
+            "reply_to_id": "6836"
+        },
+        {
+            "user_name": "odinnn",
+            "text": "ég var að spurja vegna þess að búðin sem ég ætla að kaupa tölvuna mína frá selur bara Kingson HyperX 434mhz (pc3500) og móbóið mitt verður Asus A7N8X Deluxe sem styður 400mhz",
+            "date": "2003-06-16 13:15:00",
+            "post_id": "6870",
+            "reply_to_id": "6840"
+        },
+        {
+            "user_name": "Fletch",
+            "text": "ég er einmitt með HyperX PC3500 minnið, ekkert mál að niðurklukka það...\n\n\n\nástæðan að maður vill hraðvirkara minni er að geta yfirklukkað FSB meira og samt haldið minninu og FSB í sync'i, ekki nota divider á minnið (færð nefnilega minni performance að keyra minnið úr sync'i við FSB'in)\n\n\n\nFletch",
+            "date": "2003-06-17 00:17:00",
+            "post_id": "6886",
+            "reply_to_id": "6870"
+        },
+        {
+            "user_name": "Castrate",
+            "text": "ég held að vinur minn hafi verið að nota 400mhz minni á móðurborð sem studdi bara 333mhz.",
+            "date": "2003-06-18 18:24:00",
+            "post_id": "6939",
+            "reply_to_id": "6886"
+        },
+        {
+            "user_name": "Fletch",
+            "text": "Bara prófa vel hvort er að virka betur, þ.e. ef þú ert með CPU á 333 mhz FSB, prófa að hafa minnið á 333 og 400 mhz, sjá hvort gefur meiri performance....   oft betra að hafa í sync'i (333 ef cpy er 333) en mismunandi eftir chipsettum...\n\n\n\nFletch",
+            "date": "2003-06-18 19:00:00",
+            "post_id": "6941",
+            "reply_to_id": "6939"
+        }
+    ],
+    "date": "2003-06-15 19:04:00"
+}

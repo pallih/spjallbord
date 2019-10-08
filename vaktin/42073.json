@@ -1,0 +1,72 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "42073",
+    "title": "Vantar hjálp, Get ekki installað internet driver",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=42073",
+    "posts": [
+        {
+            "user_name": "vesteinn",
+            "text": "Internetið hefur virkað fínt hjá mér þangað til að ég installaði nýju skjákorti.\nEr með tölvuna tengda í rauterinn með lan snúru, hef margoft prófað að uninstalla drivernum og installa aftur,\nen alltaf segist tölvan vanta driver, er búinn að googla í drasl en finn enga lausn \nsnúran er tengd í netkortið á móðurborðinu: ASRock 880g Pro3 og skjákortið sem ég tengdi: MSI GTX 560 TFII\nöll hjálp er mjög vel þeginn\nfyrir fram þakkir, Vésteinn",
+            "date": "2011-10-03 20:10:00",
+            "post_id": "384999",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Garfield",
+            "text": "Áttu ekki eftir að setja inn lan driver fyrir móðurborðið ?\nhttp://www.asrock.com/mb/download.asp?Model=880G\n Pro3",
+            "date": "2011-10-03 20:34:00",
+            "post_id": "385005",
+            "reply_to_id": "384999"
+        },
+        {
+            "user_name": "vesteinn",
+            "text": "Virkar ekki, hef uninstallað og installað lan drivernum sem virkaði áður en ég setti skjákorið í nokkrum sinnum og ekkert gerist  \n \nen takk samt",
+            "date": "2011-10-03 21:02:00",
+            "post_id": "385012",
+            "reply_to_id": "385005"
+        },
+        {
+            "user_name": "cure",
+            "text": "Þetta er svolítið spes.. ef þú hefur prufað nánast allt þá myndi ég gera fresh OS install og vona að það lagi þetta.. ertu búinn að prufa að setja gamla skjákortið aftur í ?? (þó mér finnist ólíklegt að skjákort hafi áhrif á þetta)",
+            "date": "2011-10-03 21:15:00",
+            "post_id": "385017",
+            "reply_to_id": "385012"
+        },
+        {
+            "user_name": "vesteinn",
+            "text": "hvernig fer ég að því?",
+            "date": "2011-10-03 21:36:00",
+            "post_id": "385027",
+            "reply_to_id": "385017"
+        },
+        {
+            "user_name": "cure",
+            "text": "installar stýrikerfinu upp á nýtt ? hvaða stýrikerfi ertu að nota ? winows xp, windows 7 ?",
+            "date": "2011-10-03 21:39:00",
+            "post_id": "385028",
+            "reply_to_id": "385027"
+        },
+        {
+            "user_name": "cure",
+            "text": "http://www.sevenforums.com/tutorials/16 ... s-7-a.html\n  <--------- Windows 7\nhttp://support.microsoft.com/kb/978307\n  <---------- Windows XP",
+            "date": "2011-10-03 21:42:00",
+            "post_id": "385029",
+            "reply_to_id": "385028"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Að setja stýrikerfið upp upp á nýtt er ekki fyrsti hlutur sem maður reynir til að lagfæra vandamál, en vonandi alltaf sá síðasti  \n  . Það eru vonandi mjög litlar líkur á því að skjákortið nýja hafi haft þarna áhrif, en hefurðu tök á því að setja gamla skjákortið upp aftur? \nHefurðu prófað að fara heimasíðu framleiðanda móðurborðsins og sækja ALLA drivera fyrir móðurborðið?",
+            "date": "2011-10-03 22:54:00",
+            "post_id": "385048",
+            "reply_to_id": "385029"
+        },
+        {
+            "user_name": "cure",
+            "text": "Ég var búinn að biðja hann að setja gamla skjákortið aftur í ..... og ég ætla rétt að vona að hann hafi ekki sótt MSI drivera á ASUS móðurborð (Þar sem hann tekur það einnig skýrt fram að hann sé búinn að uninstalla og installa driverum margoft) (eða myndiru frekar ráðleggja honum að kaupa eithvað nýtt ??) þú tekur fram að það að setja stýrikerfi upp upp a nýtt sé vonandi sá seinasti kosturinn.. hveru mörgum klukkutímum mynduru eyða til að reyna að laga vandamál sem\nhægt væri að laga með nýju OS installi ???",
+            "date": "2011-10-04 07:50:00",
+            "post_id": "385102",
+            "reply_to_id": "385048"
+        }
+    ],
+    "date": "2011-10-03 20:10:00"
+}

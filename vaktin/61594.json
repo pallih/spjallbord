@@ -1,0 +1,86 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "61594",
+    "title": "Crossfire - signal aðeins af neðra korti",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=61594",
+    "posts": [
+        {
+            "user_name": "Aimar",
+            "text": "sælir.\ner með 2x gigabyte 7950 3gb \nhttp://www.gigabyte.com/products/product-page.aspx?pid=4121#ov\nég er með þetta móðurborð Gigabyte , GA-P67A-UD4-B3 (bios vers f8, nýjasti)\n2 skjáir eru tengdir (annar synir mynd) ( einn \"22 og annann \"24), báðir sýna signal ef þeir eru tengdir í neðra kortið (dvi tengið)\nég fæ aðeins signal af neðara kortinu (því sem á að vera slave.)\nbios version á kortunum.\nbios version bios 015.031.000.000.000000\nAti driver 4.16\nÉg finn bæði kortin, \npower plata tengd á milli.  \nsé crossfire í catalyst center.  \nhaka við crossfire í catalyst center.\nupls er on.\n2 skjáir eru tengdir (annar synir mynd)\nþegar ég skoða hardware í ccc , þá kemur upp að primary adapter er pci exress 2.0 x8, en linked (sá sem sendir út signal), er pci express 3.0\n(sjá mynd) \nHérna er þetta í Gpu-z\ná ekki að koma upp pci express 16x @ 3.0?????´(synir  pci express 16x @ x8 1.1)\nÉg er með 2 skjái og aðeins dvi í neðra synir signal. (buinn að prufa að tengja einn skjá og restarta, virkar alltaf bara neðgra kortið.)",
+            "date": "2014-07-10 09:16:00",
+            "post_id": "566919",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "vesley",
+            "text": "Endilega láttu mig svo vita hvað kemur úr þessu vandamáli hjá þér. \nSpenntur að sjá hvað þarf að gera til að breyta þessu",
+            "date": "2014-07-10 13:01:00",
+            "post_id": "566930",
+            "reply_to_id": "566919"
+        },
+        {
+            "user_name": "Aimar",
+            "text": "las allvegana að í gpu-z færðu upp x8 1.1 ef þú ert á desktop.  það breytist síðan í 2.0 eða 3.0 eftir korti þegar leikur ser settur í gang.\num leið og ét tók neðra kortið úr sambandi kom efra kortið inn.",
+            "date": "2014-07-10 14:25:00",
+            "post_id": "566938",
+            "reply_to_id": "566930"
+        },
+        {
+            "user_name": "Aimar",
+            "text": "Þetta er meiri vitleysan.\nég er að nota nuna neðra kortið sem aðalkort.\nþegar ég keyri leiki þá sýnir gpu-z að buss interface á efra kortinu fer í pci-e 3.0x16 ´@ 8x 2.0 , er alltaf í þeirri tölu\nog neðra kortið fer í pci-e 3.0x16 @ 3.0 í leikjakeyrslu ur @ 1.1 (desktop),\nþannig að það virðist sem neðra kortið sé mainkort og efra kortið sé slave kort... (wtf)\nég keyrði 3dmark 11 pro (performance), firestrike.  með neðra kortið sem main og fékk út 13þ + stig, sem segjir manni að crossfire er að virka.",
+            "date": "2014-07-10 23:50:00",
+            "post_id": "567008",
+            "reply_to_id": "566938"
+        },
+        {
+            "user_name": "Hj0llz",
+            "text": "Ég lenti í SLI veseni með Gigabyte móðurborð.\nAftan á kassanum af móðurborðinu var mynd af því hvaða raufar maður átti að nota til að vera með crossfire/sli.(pci raufar 1 og 4)\nReyndist vera einhver leti í gigabyte mönnum þegar þeir hönnuðu kassan utan um móðurborðinu og kom það í ljós að það voru aðrar raufar sem maður átti að nota (pci raufar 1 og 3). Notuðu upplýsingar af öður móðurborði\nMæli með að þú skoðir manualinn af móðurborðinu eða googlir það hvort að þú sért að lenda í sama brasi og ég lenti í.\nKannski ekki líklegt en þess virði að athuga.",
+            "date": "2014-07-11 04:05:00",
+            "post_id": "567014",
+            "reply_to_id": "567008"
+        },
+        {
+            "user_name": "kizi86",
+            "text": "móðurborðið þitt er bara með eitt x16 slot, hitt er x8.. og þú átt að hafa skjáina tengda við skjákortið sem er á x16 raufinni\nhttp://download.gigabyte.eu/FileList/Ma ... v1.1_e.pdf",
+            "date": "2014-07-11 08:23:00",
+            "post_id": "567016",
+            "reply_to_id": "567014"
+        },
+        {
+            "user_name": "motard2",
+            "text": "skoðaðu þessa stillingu í biosnum undir\nAdvanced BIOS Features\n \nInit Display First\n        Specifies the first initiation of the monitor display from the installed PCI graphics card or the PCI Express graphics card.\n        PCI Sets the PCI graphics card as the first display. (Default)\n        PCIE x16 Sets the PCI Express graphics card on the PCIEX16 slot as the first display.\n        PCIE x8 Sets the PCI Express graphics card on the PCIEX8 slot as the first display.",
+            "date": "2014-07-11 09:57:00",
+            "post_id": "567019",
+            "reply_to_id": "567016"
+        },
+        {
+            "user_name": "Aimar",
+            "text": "ég stillti þetta sem pcix16 slot as the first display.\nen engin breyting.   \nbuin að ná í nyja driverinn 4.17 og sama í gangi.\ngæti verið  bios vandamál á móðurborð?",
+            "date": "2014-07-12 14:35:00",
+            "post_id": "567121",
+            "reply_to_id": "567019"
+        },
+        {
+            "user_name": "Sveppz",
+            "text": "Samkvæmt gigabyte síðunni : \nSé ekki að það ætti að breyta neinu hvaða kort er slave og hvaða kort er master í þessu móðurborði.\nMyndi giska á að villan liggi hjá móðurborðinu þó.",
+            "date": "2014-07-12 15:28:00",
+            "post_id": "567126",
+            "reply_to_id": "567121"
+        },
+        {
+            "user_name": "Aimar",
+            "text": "ég setti í bios á 16x sem primary.  þá for allt i fuck.  öll benchmork sýndu shit..\nskipti aftur í 8x og þá fór allt að virka aftur .  (eða sýndi 14þ sirka íp graphics í 3dmark 11 (fire))\nég finn lika ef ég reyni að yfirklukka þá fer allt til fjandans strax.  \nbýst við að þetta sé tengt móðurborðinu.",
+            "date": "2014-07-12 20:00:00",
+            "post_id": "567153",
+            "reply_to_id": "567126"
+        },
+        {
+            "user_name": "hkr",
+            "text": "Er það ekki eðlilegt? Held að móðurborðið sem þú ert með sé aðeins með 8x/8x í SLI/CF\nhttp://www.gigabyte.com/products/produc ... id=3759#sp",
+            "date": "2014-07-12 20:07:00",
+            "post_id": "567154",
+            "reply_to_id": "567153"
+        }
+    ],
+    "date": "2014-07-10 09:16:00"
+}

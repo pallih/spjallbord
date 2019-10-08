@@ -1,0 +1,58 @@
+{
+    "forum_title": "Leikjasalurinn",
+    "id": "26140",
+    "title": "Forrit til að sjá CPU og RAM í leik",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=14&t=26140",
+    "posts": [
+        {
+            "user_name": "jamibaba",
+            "text": "Ég var að spá hvort einhver vissi um eitthvað gott og frítt forrit til að sjá hvað maður er að nota mikið af CPU og Ram-inu í leik (með svona mæli í horninu)",
+            "date": "2009-11-13 22:48:00",
+            "post_id": "227132",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "dnz",
+            "text": "Forrit? Getur googlað? Eða keypt G15",
+            "date": "2009-11-13 22:53:00",
+            "post_id": "227137",
+            "reply_to_id": "227132"
+        },
+        {
+            "user_name": "Kobbmeister",
+            "text": "hann átti G15.",
+            "date": "2009-11-13 23:15:00",
+            "post_id": "227142",
+            "reply_to_id": "227137"
+        },
+        {
+            "user_name": "Gets",
+            "text": "Svo er líka einfalt að láta Windows Task Manager bara standa opin á meðan leikurinn er keyrður í smástund \" 10 min\" slökkva á leiknum og skoða history í Performance.",
+            "date": "2009-11-13 23:41:00",
+            "post_id": "227149",
+            "reply_to_id": "227142"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Ég mæli með Core Temp.\nHún skráir niður hvað örgjörvinn fer í mikinn hita. Svo geturu bara resettað high/low tölurnar, farið í tölvuleik og hún skráir aftur niður hversu hátt hitinn fer.",
+            "date": "2009-11-14 01:27:00",
+            "post_id": "227170",
+            "reply_to_id": "227149"
+        },
+        {
+            "user_name": "Ulli",
+            "text": "sniðugt\nVcore hjá mér eðlilegt?",
+            "date": "2009-11-14 01:38:00",
+            "post_id": "227173",
+            "reply_to_id": "227170"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Þetta er stock vcore sem er sýnt þarna, ekki það sem það er í raun.",
+            "date": "2009-11-14 01:43:00",
+            "post_id": "227175",
+            "reply_to_id": "227173"
+        }
+    ],
+    "date": "2009-11-13 22:48:00"
+}

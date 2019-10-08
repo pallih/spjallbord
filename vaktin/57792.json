@@ -1,0 +1,44 @@
+{
+    "forum_title": "Windows",
+    "id": "57792",
+    "title": "setja upp nýtt win7 64 bit vesen!",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=57792",
+    "posts": [
+        {
+            "user_name": "holavegurinn",
+            "text": "Er semsagt að reyna að setja upp windows 7 í fartölvu hjá mér. \nÉg hef gert það áður með usb lykli og ekkert vesen, nota sömu fæla og sama software til að græja lykilinn.\nDiskurinn sem er í tölvunni er alveg tómur, ég næ að boota henni upp frá usb lyklinum eins og eðlilega.\nKemur upp svona install windows 7 og allt eðlilegt. \nSvo koma bara næstu skref eins og ekkert sé að þangað til að hún er búinn að setja inn alla fæla, og er hálfnuð með síðasta skrefið þá restartar hún sér og byrjar bara upp á nýtt. Kemur semsagt bara upp hvaða tungumál ég vil hafa og þers háttar. \n \nÞað er augljóslega eitthvað sem ég er að gera vitlaust en ég bara get ekki séð hvað það er! \nGrunar ykkur eitthvað?",
+            "date": "2013-10-23 18:21:00",
+            "post_id": "534603",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Garri",
+            "text": "Ef ég man rétt þá restartar Windows 7 sér allavega einu sinni upp á uppsetningarferlinu.. minnir samt að maður velji tungumál í fyrsta hlutanum.. ekki svo viss lengur.",
+            "date": "2013-10-23 18:29:00",
+            "post_id": "534605",
+            "reply_to_id": "534603"
+        },
+        {
+            "user_name": "Gislinn",
+            "text": "Þegar hún restartar sér, prufaðu þá að breyta boot order í BIOS þannig að hún byrji á HDD í stað USB.",
+            "date": "2013-10-23 18:33:00",
+            "post_id": "534606",
+            "reply_to_id": "534605"
+        },
+        {
+            "user_name": "holavegurinn",
+            "text": "já windows á að restarta sér. \nEn ég prófa að breyta boot order það gæti vel verið að rugla, takk\nEDIT: virkaði TAKK",
+            "date": "2013-10-23 18:53:00",
+            "post_id": "534609",
+            "reply_to_id": "534606"
+        },
+        {
+            "user_name": "Andri Þór H.",
+            "text": "Þú mátt taka USB kubbinn úr um leið og hún restartar sér.\nÞarft hann ekki lengur",
+            "date": "2013-10-23 19:10:00",
+            "post_id": "534613",
+            "reply_to_id": "534609"
+        }
+    ],
+    "date": "2013-10-23 18:21:00"
+}

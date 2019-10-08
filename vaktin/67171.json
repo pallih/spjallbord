@@ -1,0 +1,37 @@
+{
+    "forum_title": "Windows",
+    "id": "67171",
+    "title": "Setja windows 7 aftur á tölvu",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=67171",
+    "posts": [
+        {
+            "user_name": "stefhauk",
+            "text": "Þarf að setja Win 7 aftur á tölvu með win 10. Win 10 tölvan var uppsett með clean install og er ekki activated. Er eina leiðin að taka harðadiskinn úr tölvunni formata hann í annarri tölvu og setja hann aftur í og gera clean install á win 7 þannig ?",
+            "date": "2015-10-10 16:35:00",
+            "post_id": "608339",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Klara",
+            "text": "Er semsagt ekki hægt að láta windows strauja diskinn bara um leið og þú setur upp windows 7 á nýjan leik? \nÞú gætir sótt linux og keyrt hann á live cd og straujað diskinn þannig.",
+            "date": "2015-10-10 16:54:00",
+            "post_id": "608340",
+            "reply_to_id": "608339"
+        },
+        {
+            "user_name": "lukkuláki",
+            "text": "Velur bara að eyða út partitioninu sem win er á þegar þú ert að setja hana upp á nýtt þá byrjar hún á því að formata diskinn.",
+            "date": "2015-10-10 17:09:00",
+            "post_id": "608341",
+            "reply_to_id": "608340"
+        },
+        {
+            "user_name": "stefhauk",
+            "text": "Já ok ég lennti í basli með fartölvuna hjá mér hún vildi ekki setja Win 7 upp þrátt fyrir að hafa gert delete á diskinn við uppsetningu en setti win 10 upp á hana og ekkert mál.\nEn þetta á við um borðtölvu og að ég held er ekki hægt að nota licence sem er skráð á microsoft account hjá mér á tvær tölvur.",
+            "date": "2015-10-10 18:33:00",
+            "post_id": "608344",
+            "reply_to_id": "608341"
+        }
+    ],
+    "date": "2015-10-10 16:35:00"
+}

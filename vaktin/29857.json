@@ -1,0 +1,107 @@
+{
+    "forum_title": "Windows",
+    "id": "29857",
+    "title": "Lappi+Win 7= vandræði Hjálp!",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=29857",
+    "posts": [
+        {
+            "user_name": "ColdIce",
+            "text": "Var að setja Windows 7 ultimate 32x í Toshiba satellite P100-356(PSPAAE) og allt er rosa fínt nema það vantar hljóðið! Það virðist vera hljóðdriver á henni og hún lætur eins og hún sé að spila hljóð en ekkert heyrist! Hvað er í gangi hérna? Veit einhver hvar ég finn audio driver fyrir þetta á netinu? Toshiba síðan sýnir ekki þessa vél hjá sér :s",
+            "date": "2010-04-27 19:07:00",
+            "post_id": "258562",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "mattiisak",
+            "text": "ef að það er realtek hd audio sound í þessari tölvu þá ætti þessi driver að virka (efsti) \nhttp://www.realtek.com.tw/downloads/dow ... Down=false",
+            "date": "2010-04-27 19:11:00",
+            "post_id": "258563",
+            "reply_to_id": "258562"
+        },
+        {
+            "user_name": "Tóti",
+            "text": "http://uk.computers.toshiba-europe.com/innovation/download_drivers_bios.jsp?service=UK&mode=allMachines&action=search&teddProduct=704&selShortMod=503\nEr þetta ekki hún tékkaðu á því ?",
+            "date": "2010-04-27 20:07:00",
+            "post_id": "258573",
+            "reply_to_id": "258563"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Er nokkuð volume skruntakki  framan á tölvunni skrúfaður alveg niður, ég lenti einusinni í því á Toshiba Satellite tölvunni minni",
+            "date": "2010-04-27 20:15:00",
+            "post_id": "258575",
+            "reply_to_id": "258573"
+        },
+        {
+            "user_name": "ColdIce",
+            "text": "Búinn að prófa",
+            "date": "2010-04-27 22:38:00",
+            "post_id": "258605",
+            "reply_to_id": "258575"
+        },
+        {
+            "user_name": "ColdIce",
+            "text": "og geisladrifið er ekki í computer",
+            "date": "2010-04-27 22:44:00",
+            "post_id": "258608",
+            "reply_to_id": "258605"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "prófaðu að hægrismella á hljóðiconinu í sys tray og fara í \"playback devices\"\nPassaðu að réttur device sé valinn þar sem default. Hef lent í því mörgum sinnum að sjöan setur S/PDIF outputtið sem default device.",
+            "date": "2010-04-27 22:52:00",
+            "post_id": "258610",
+            "reply_to_id": "258608"
+        },
+        {
+            "user_name": "ColdIce",
+            "text": "svo var ekki",
+            "date": "2010-04-27 22:56:00",
+            "post_id": "258611",
+            "reply_to_id": "258610"
+        },
+        {
+            "user_name": "mattiisak",
+            "text": "þetta er mjög liklega bara drivera vesen windows 7 finnur ekkert alltaf réttu driverana",
+            "date": "2010-04-27 22:59:00",
+            "post_id": "258612",
+            "reply_to_id": "258611"
+        },
+        {
+            "user_name": "ColdIce",
+            "text": "þarf ég ekki bara að finna t.d, chipset driver?",
+            "date": "2010-04-27 23:01:00",
+            "post_id": "258615",
+            "reply_to_id": "258612"
+        },
+        {
+            "user_name": "mattiisak",
+            "text": "hann myndi ekki laga soundið sóttiru driverinn sem ég postaði áðann?/ efsta commentið",
+            "date": "2010-04-28 00:07:00",
+            "post_id": "258630",
+            "reply_to_id": "258615"
+        },
+        {
+            "user_name": "ColdIce",
+            "text": "Nei er búinn að laga þetta.",
+            "date": "2010-04-28 00:11:00",
+            "post_id": "258632",
+            "reply_to_id": "258630"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Hvað var að?",
+            "date": "2010-04-28 00:12:00",
+            "post_id": "258633",
+            "reply_to_id": "258632"
+        },
+        {
+            "user_name": "ColdIce",
+            "text": "Ekki hugmynd :s Ég skrifaði win 7 upp á nýtt og keyrði það aftur upp og þá virkaði það :p",
+            "date": "2010-04-28 08:11:00",
+            "post_id": "258637",
+            "reply_to_id": "258633"
+        }
+    ],
+    "date": "2010-04-27 19:07:00"
+}

@@ -1,0 +1,30 @@
+{
+    "forum_title": "Windows",
+    "id": "5958",
+    "title": "Hjálp uppsetning XP tvöfaldur reikningur",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=5958",
+    "posts": [
+        {
+            "user_name": "cool",
+            "text": "Sælir\n\nÉg fékk tölvuna mína úr viðgerð ekki fyrir löngu síðan, þegar ég ræst hana þá hafði xp diskurinn verið skilinn eftir í drifinu og var kominn langleiðina með uppsetningu þegar ég varð var við, ok ég lét hana bara halda áfram en þegar ferlið var á enda og tölvan búin að ræsa sig upp á nýtt og farið að kanna málin þá voru 2 windows skráð wind og wind1, tvö my document tveir admin og semsagt allt tvöfalt \n\n\nspurningin er hvernig get ég losnað við þetta á auðveldan hátt?",
+            "date": "2004-10-13 12:03:00",
+            "post_id": "60477",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gnarr",
+            "text": "velur nýju windows möppuna og gerir [shift]+[delete] og svo editaru boot.ini og tekur út línuna sem vísar á nýja installið.",
+            "date": "2004-10-13 12:47:00",
+            "post_id": "60483",
+            "reply_to_id": "60477"
+        },
+        {
+            "user_name": "cool",
+            "text": "Þakka svarið þetta virkaði",
+            "date": "2004-10-15 16:40:00",
+            "post_id": "60819",
+            "reply_to_id": "60483"
+        }
+    ],
+    "date": "2004-10-13 12:03:00"
+}

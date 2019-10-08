@@ -1,0 +1,219 @@
+{
+    "forum_title": "Vaktin.is",
+    "id": "45446",
+    "title": "Hugmynd til að losna við þessa helv. spammara/spammbotta.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=46&t=45446",
+    "posts": [
+        {
+            "user_name": "DJOli",
+            "text": "Hafið spurningu um kennitölu (við skráningu) s.s. biðjið notandann um að slá inn kennitölu sína að fullu, og hafið það að skyldu.\nÞað gerir stjórnendum síðunnar kleift að:\nSetja sjálfkrafa skráningarbann á þá sem eru með t.d. erlenda ip tölu, með skilaboðum um að hafa samband við stjórnanda ef aðilinn sem ætlaði að skrá sig sé íslendingur.\nEyða út/Neita þeim aðgangi sem selja þýfi/annað ólöglegt.\nHalda úti þeim notendum er brjóta oft af sér.\nAllir íslendingar vita hvernig kennitölur eru skrifaðar, svo að það er óþarfi að taka fram hvernig kennitala lýtur út.\nAuk þess, til að \"herða\" kennitöluskráninguna, hægt að setja takmarkið við endadag endamánuðar ársins, svo ekki sé hægt að \"svindla\" á kerfinu.",
+            "date": "2012-02-06 05:35:00",
+            "post_id": "418742",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gardar",
+            "text": "Eða bara setja upp almennilegt captcha? Eða jafnvel bara íslenska spurningu.",
+            "date": "2012-02-06 05:42:00",
+            "post_id": "418743",
+            "reply_to_id": "418742"
+        },
+        {
+            "user_name": "DJOli",
+            "text": "Íslenskar spurningar er hægt að þýða -ish á google translate.\nEn þú bara feikar ekki íslenska kennitölu, sérstaklega ef þú ert með spammbotta hannaðan af einhverjum frá bandaríkjunum.",
+            "date": "2012-02-06 05:54:00",
+            "post_id": "418744",
+            "reply_to_id": "418743"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Spambottar eru eins og nafnið gefur til kynna ekki manneskjur heldur einungis forrit sem leita að vefum til að spamma.\nBottarnir eru þannig skrifaðir að þeir virka á default phpbb skráningarformið svo að um leið og það er eitthvað óhefðbundið í skráningarferlinu þá ræður bottinn ekki við það.\nMaður hefur séð einfalda spurningu/fyrirmæli halda spam-bottum algerlega frá. T.d. \"sláðu inn nafnið guðjónr í reitinn hér að neðan\"\nÞað er enginn höfundur spambotta að fara að leggja það mikla vinnu í að spamma þetta litla ómerkilega íslenska forum að hann fari að leggja vinnu í það að fletta upp íslensku spurningunni handvirkt.",
+            "date": "2012-02-06 06:02:00",
+            "post_id": "418745",
+            "reply_to_id": "418744"
+        },
+        {
+            "user_name": "DJOli",
+            "text": "var ekki svona vörn hér á vaktinni?\nsláðu inn svarið við 5+5 eða eitthvað í þá áttina.",
+            "date": "2012-02-06 06:12:00",
+            "post_id": "418746",
+            "reply_to_id": "418745"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Neibb það er ekki svona vörn hér. Eina vörnin hérna er default captcha sem fylgir með phpbb og það er langt síðan spambottar gátu farið að lesa það.\nMín hugmynd er sú að skipta út default captcha fyrir \nrecaptcha\n eða að smella inn svona einfaldri spurningu.",
+            "date": "2012-02-06 06:19:00",
+            "post_id": "418748",
+            "reply_to_id": "418746"
+        },
+        {
+            "user_name": "Benzmann",
+            "text": "efast um að fólk vilji eitthvað vera að gefa upp kennitöluna sína",
+            "date": "2012-02-06 08:28:00",
+            "post_id": "418752",
+            "reply_to_id": "418748"
+        },
+        {
+            "user_name": "DJOli",
+            "text": "Hvað meinarðu? þetta er bara eins og hver annar hlutur, jafnvel þó svo að ekki væri farið frammá nema fyrstu 4 stafi...það væri samt fín vörn.",
+            "date": "2012-02-06 08:29:00",
+            "post_id": "418753",
+            "reply_to_id": "418752"
+        },
+        {
+            "user_name": "Benzmann",
+            "text": "nei samt ekki, fyrir spambotta, þá eru fyrstu 4 tölurnar í kennitölunni manns, alveg jafnléttar að cracka og 1234",
+            "date": "2012-02-06 08:37:00",
+            "post_id": "418755",
+            "reply_to_id": "418753"
+        },
+        {
+            "user_name": "DJOli",
+            "text": "Hvað eru margir mánuðir í ári?.\nÞeir eru allavega ekki 34.",
+            "date": "2012-02-06 08:44:00",
+            "post_id": "418756",
+            "reply_to_id": "418755"
+        },
+        {
+            "user_name": "Benzmann",
+            "text": "vá \n , ég er ekki að tala um það, er basicly að segja, að hvaða 4 töluruna sem er, er jafnlétt að cracka og hver önnur 4stafa töluruna(0000-9999) stærfræðilega séð",
+            "date": "2012-02-06 08:49:00",
+            "post_id": "418757",
+            "reply_to_id": "418756"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Ef það væri farið að biðja um kennitölu þá myndi þurfa að logga kennitölurnar til þess að passa að sama kennitalan er ekki notuð tvisvar. Það myndu ekki allir sætta sig við það. \nSíðan er í rauninni ekkert sem segir að kennitalan sem er gefin upp sé í rauninni kennitala notandans og það gæti valdið því að fyrir einhverja furðulega tilviljun þá gæti einhver lent í því að geta ekki notað sína kennitölu, þar sem að einhver annar óprúttinn einstaklingur væri búinn að nota hana.\nHvers vegna ekki bara nota reCaptcha eins og gardar benti á? Það er lausn sem er til og virkar. Óþarfi að reyna að búa til einhverjar leiðir sem virka síðan kannski ekkert svo vel.",
+            "date": "2012-02-06 09:34:00",
+            "post_id": "418760",
+            "reply_to_id": "418757"
+        },
+        {
+            "user_name": "tdog",
+            "text": "Skrá kennitöluna bara hashaða. Síðan er allt í lagi að hafa vartölucheck á kennitölunni líka.",
+            "date": "2012-02-06 11:34:00",
+            "post_id": "418782",
+            "reply_to_id": "418760"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Jú ég gerði tilraun með svona síu um daginn, gallinn við hana var sá að hún truflaði PM kerfið, þ.e. menn þurftu stundum að setja inn svar við spurningu þegar þeir ætluðu að senda PM og þegar þeir komu til baka þá var PM'ið horfið. Þetta var líka að trufla Tapatalk.\nPrófaði þá annað captcha kerfi en það var úrelt og virkaði ekki. Hef verið að prófa þetta líka á Mac hlutanum. Spurning um að skoða \nreCAPTCHA\n kerfið sem Garðar talar um.\nHundleiðinlegt að eiga við þessa botta.",
+            "date": "2012-02-06 12:05:00",
+            "post_id": "418788",
+            "reply_to_id": "418782"
+        },
+        {
+            "user_name": "Benzmann",
+            "text": "vitiði hvað ég held að sé málið bara, guðjón þarf bara að setja upp svona kerfi eins og er í heimabönkunum, og útvega hverjum notanda vaktarinnar auðkennislykil",
+            "date": "2012-02-06 13:10:00",
+            "post_id": "418794",
+            "reply_to_id": "418788"
+        },
+        {
+            "user_name": "svensven",
+            "text": "Mér finnst að Guðjón ætti bara að sjá um þetta handvirkt áfram",
+            "date": "2012-02-06 15:30:00",
+            "post_id": "418844",
+            "reply_to_id": "418794"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Þessi vörn sem þú varst með virkaði líka bara ekki fyrir nýskráningar, heldur beindist hún líka að notendum sem eru nú þegar skráðir. Það þarf að setja upp svona spurningu sem gildir bara við nýskráningu.\nKemur phpbb ekki með innbyggðum fídus þar sem þú getur sett inn custom spurningu? Mig minnir það einhvernvegin endilega.\nAnnars varðandi þessa kennitölupælingu þá þarf með henni að fá tengingu við þjóðskrá og hún kostar jú sitt. Rafræn skilríki væru möguleiki enda á að vera til einhver API fyrir þau, veit þó ekki hvort/hvað slíkt kostar...\nEn þetta yrði eflaust óvinsælt þar sem það eru náttúrulega alltaf einhverjir sem kjósa að vera ónafngreindir á internetinu og ég sé persónulega ekkert að því.",
+            "date": "2012-02-07 00:06:00",
+            "post_id": "419027",
+            "reply_to_id": "418844"
+        },
+        {
+            "user_name": "DJOli",
+            "text": "Sá þetta allavega þegar ég var að fletta í phpbb kóðanum (Ég gerði þessar þýðingar sjálfur).\nKóði: \nVelja allt\n<?php\n/**\n*\n* captcha_qa [Icelandic]\n*\n* @package language\n* @version $Id$\n* @copyright (c) 2009 phpBB Group\n* @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License 2.0\n*\n*/\n/**\n* DO NOT CHANGE\n*/\nif (!defined('IN_PHPBB'))\n{\n   exit;\n}\nif (empty($lang) || !is_array($lang))\n{\n   $lang = array();\n}\n// DEVELOPERS PLEASE NOTE\n//\n// All language files should use UTF-8 as their encoding and the files must not contain a BOM.\n//\n// Placeholders can now contain order information, e.g. instead of\n// 'Page %s of %s' you can (and should) write 'Page %1$s of %2$s', this allows\n// translators to re-order the output of data while ensuring it remains correct\n//\n// You do not need this where single placeholders are used, e.g. 'Message %d' is fine\n// equally where a string contains only two placeholders which are used to wrap text\n// in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine\n$lang = array_merge($lang, array(\n   'CAPTCHA_QA'            => 'Q&amp;A',\n   'CONFIRM_QUESTION_EXPLAIN'   => 'Spurning þessi er til þess að hindra auglýsingabotta.',\n   'CONFIRM_QUESTION_WRONG'   => 'Þú hefur gefið upp rangt svar.',\n   'QUESTION_ANSWERS'         => 'Svör',\n   'ANSWERS_EXPLAIN'         => 'Vinsamlegast sláðu inn rétt svör, eitt í hverja línu.',\n   'CONFIRM_QUESTION'         => 'Spurning',\n   'ANSWER'               => 'Svar',\n   'EDIT_QUESTION'            => 'Breyta spurningu',\n   'QUESTIONS'               => 'Spurningar',\n   'QUESTIONS_EXPLAIN'         => 'Fyrir hverja útfyllingu þar sem þú hefur gert Q&amp;viðbótina virka, verða notendurnir spurðir einna spurninganna sem hér verða tilteknar. Til að nýta viðbót þessa þarf að minnsta kosti ein spurning að vera á sjálfgefnu tungumáli. Spurningum þessum ætti að vera auðvelt að svara en á sama tíma of erfitt fyrir botta sem getur notað google™. Að skipta reglulega um spurningar gefur bestu niðurstöðu. Virktu ströngu stillinguna ef spurning þín treystir á litla eða STÓRA stafi, greinarmerki eða stafabil.',\n   'QUESTION_DELETED'         => 'Spurningu eytt',\n   'QUESTION_LANG'            => 'Tugumál',\n   'QUESTION_LANG_EXPLAIN'      => 'Tungumál þessarar spurningu og svörin eru á.',\n   'QUESTION_STRICT'         => 'Ströng athugun',\n   'QUESTION_STRICT_EXPLAIN'   => 'Gerðu virkt til að framfylgja stórum og litlum stöfum, greinarmerkjum eða stafabilum..',\n   'QUESTION_TEXT'            => 'Spurning',\n   'QUESTION_TEXT_EXPLAIN'      => 'Spurning til notandans.',\n   'QA_ERROR_MSG'            => 'Vinsamlegast fylltu í allar eyðurnar og sláðu inn að minnsta kosti eitt svar.',\n   'QA_LAST_QUESTION'         => 'Þú getur ekki eytt öllum spurningunum á meðan viðbótin er virk.',\n));\n?>",
+            "date": "2012-02-07 00:25:00",
+            "post_id": "419030",
+            "reply_to_id": "419027"
+        },
+        {
+            "user_name": "DoofuZ",
+            "text": "Eða bara í staðinn fyrir svona captcha þá gæti einhver sett saman plugin sem spyr um íslenska kennitölu og athugar síðan hvort hún sé lögleg með þeim útreikningi sem því fylgir, svo væri sleppt því að skrá kennitöluna eitthvað með í skráningunni og þá þarf ekkert að hafa áhyggjur af því að einhver noti ekki sína kennitölu. Efast um að bottarnir yrðu eitthvað aðlagaðir að þessu enda frekar erfitt að giska á 10 stafa tölu sem þarf að virka sem lögleg íslensk kennitala",
+            "date": "2012-02-08 01:06:00",
+            "post_id": "419407",
+            "reply_to_id": "419030"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "meh, ef menn ætla í þetta þá er alveg eins hægt að vera með íslenskar spurningar og mér finnst það miklu sniðugra. Óþarfi að vera með eitthvað kennitölutjékk og mér finnst það fáránlegt.",
+            "date": "2012-02-08 01:13:00",
+            "post_id": "419411",
+            "reply_to_id": "419407"
+        },
+        {
+            "user_name": "DoofuZ",
+            "text": "Þá þurfa þessar íslensku spurningar að vera aðeins flóknari en eitthvað 1+1 eða þess háttar því bottarnir geta alltaf bara þýtt spurninguna og reddað svarinu þannig.",
+            "date": "2012-02-08 02:20:00",
+            "post_id": "419420",
+            "reply_to_id": "419411"
+        },
+        {
+            "user_name": "DJOli",
+            "text": "Hvaða bær var þekktur sem Þorpið?",
+            "date": "2012-02-08 03:20:00",
+            "post_id": "419427",
+            "reply_to_id": "419420"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "Ég held að þú ofmetir stórlega þessa spambotta sem eru að herja á síðuna. Ef ég man rétt þá var þetta kerfi uppi í 2 daga og það kom enginn botti inná síðuna á þeim tíma. Þurfa ekki að vera flóknar spurningar því phpbb bottarnir búast ekki við svona spurningu. \"Hvað er einn plús einn?\" er t.d. solid spurning og \"Hvað er 1+1?\" er líka frekar örugg því bottarnir reikna ekki með þessu. Það þyrfti örugglega ekki annað en einfalda \"millisíðu\" á milli þess að maður ýtir á \"Senda\" og þangað til að maður fær e-mail (eða hvernig sem þetta er). Millisíðan væri með spurningunar \"ertu viss?\" og svo möguleika á \"já\" og \"nei\".\nhahaha ég veit nú ýmislegt en ekki veit ég þetta...",
+            "date": "2012-02-08 03:35:00",
+            "post_id": "419429",
+            "reply_to_id": "419427"
+        },
+        {
+            "user_name": "DJOli",
+            "text": "Patreksfjörður.\nAllavega, svo má nota aðrar spurningar t.d. \"hver er Syndaborg Íslands?\".",
+            "date": "2012-02-08 03:37:00",
+            "post_id": "419430",
+            "reply_to_id": "419429"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "hahaha farðu að sofa!",
+            "date": "2012-02-08 03:38:00",
+            "post_id": "419431",
+            "reply_to_id": "419430"
+        },
+        {
+            "user_name": "DJOli",
+            "text": "haha svefn?.\nSvefn er fyrir dagfara.\nÉg er náttfari.\nDjók-ish, er að vinna í vefsíðunni minni.\nKeypti fyrr í dag vps fyrir 10þús kall. Síðunni ætla ég að reyna að koma í gagnið á næstu 48klst.\nTop secret project, en þegar þetta verður allt komið í gang ætti síðan að geta reddað mér 100k+ á mán.\nMjög góður díll fyrir aðila sem er atvinnulaus og hefur ekki rétt á bótum.",
+            "date": "2012-02-08 03:50:00",
+            "post_id": "419433",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "worghal",
+            "text": "ef þú ætlar að nota google til þess þá geturu gleimt því.",
+            "date": "2012-02-08 04:34:00",
+            "post_id": "419438",
+            "reply_to_id": "419433"
+        },
+        {
+            "user_name": "DJOli",
+            "text": "Ertu viss?.\nPlanið er að á sirka 12 mánuðum muni síðan ná yfir 30 þúsund meðlimum. Og það í lágmarki.",
+            "date": "2012-02-08 05:10:00",
+            "post_id": "419440",
+            "reply_to_id": "419438"
+        },
+        {
+            "user_name": "worghal",
+            "text": "ég man ekki allveg hvort Adsense virki fyrir islendinga og til að adsense virki þá má síðan ekki vera á íslensku.\nef þessi síða mun vera video síða með youtube myndböndum þá er það ekki í boði fyrir íslendinga.",
+            "date": "2012-02-08 05:28:00",
+            "post_id": "419441",
+            "reply_to_id": "419440"
+        },
+        {
+            "user_name": "DJOli",
+            "text": "Engin youtube myndbönd.\nVefsíðan verður á ensku.",
+            "date": "2012-02-08 05:46:00",
+            "post_id": "419442",
+            "reply_to_id": "419441"
+        }
+    ],
+    "date": "2012-02-08 03:50:00"
+}

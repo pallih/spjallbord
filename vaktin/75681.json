@@ -1,0 +1,149 @@
+{
+    "forum_title": "Windows",
+    "id": "75681",
+    "title": "Blue Screen vandamál",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=75681",
+    "posts": [
+        {
+            "user_name": "karvel",
+            "text": "Er stöðugt að lenda í því að tölvan mín frýs og skjárinn verður blár. Þetta er þó ekki hefðbundinn Blue Screen þar sem upp kemur melding varðandi vandamálið t.d. BAD_POOL_HEADER heldur er skjárinn blár með óreglulegur hvítum línum (mis breiðum og löngum) skáhallt yfir skjáinn.\nSé þó lítinn bút af Taskbar og skjámyndinni í hægra horninu niðri. \nNú er ég með nýuppfært Win 10 og tel mig hafa alla nýjustu driverana þannig ég er alveg gati hvað getur verið að orsaka þetta.\nHefur einhver hér lent í viðlíka vandamáli og vill vera svo elskulegur að benda mér á leið útúr þessum ógöngum",
+            "date": "2018-02-27 21:13:00",
+            "post_id": "667789",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Skaz",
+            "text": "Lenti í þessu einu sinni og þá var þetta ónýtt vinnsluminni, prófaðu að ræsa tölvuna með bara eitt stick í tölvunni þangað til að þú lendir á því sem að er ónýtt. Eða náðu í MemTest86 og testaðu þetta þannig.\nP.S.\nEf að öll sticks eru að sýna þetta vandamál þá gæti þetta allt eins verið harði diskurinn.",
+            "date": "2018-02-27 21:23:00",
+            "post_id": "667792",
+            "reply_to_id": "667789"
+        },
+        {
+            "user_name": "karvel",
+            "text": "Keyrði TechPowerUp MemTest64 og \"No Errors Found\" þannig líklega er vandamálið ekki að finna þar",
+            "date": "2018-02-27 21:40:00",
+            "post_id": "667796",
+            "reply_to_id": "667792"
+        },
+        {
+            "user_name": "Kristján",
+            "text": "hvað ertu að gera þetta kemur fyrir?",
+            "date": "2018-02-28 16:53:00",
+            "post_id": "667841",
+            "reply_to_id": "667796"
+        },
+        {
+            "user_name": "karvel",
+            "text": "Mjög oft gerist þetta þegar ég ræsi upp tölvuna og það sérkennilega við það að þetta gerist oftar ef að ég fer ekki strax að gera eitthvað í tölvunni t.d. kveikja á vafra eða opna póstinn. Ef ég kveiki og læt handa standa óhreyfða eftir ræsingu í einhverjar mínútur kem í yfirleitt að bláum skjá.",
+            "date": "2018-03-01 01:19:00",
+            "post_id": "667875",
+            "reply_to_id": "667841"
+        },
+        {
+            "user_name": "Kristján",
+            "text": "þú ert með aldagamlann ssd sé ég í undirskriftinni\nNáði í hddscan: \nhttp://hddscan.com/\n \nKeyrðu read próf á diskinn, settu screenshot hérna.\nopnaði \"view reliability history\" hjá þér og skoðaðu dagana sem eru með rauðum \"x\" og þar fyrir neðan ættiru að sjá \"hardware error\" eða álíka og það getur sagt þér einhverjar vísbendingar.\nþú segir að þetta var ekki bluescreen en kannski skoða hvort það sé minidump folder í windows möppunni þinni.\nef það er þá ná í bluescreenview og skoða dump skrárnar\nhttps://www.nirsoft.net/utils/blue_screen_view.html\nKeyra furmark á skjákortið?\nkannski setur inn líka mynd af þessu, hvernig skjárin er.",
+            "date": "2018-03-01 01:42:00",
+            "post_id": "667879",
+            "reply_to_id": "667875"
+        },
+        {
+            "user_name": "karvel",
+            "text": "Eftir uppfærslu á NVIDIA Driver er aftur hægt að lesa meldingar á skjánum og er þetta \"KMODE_EXEPTION_NOT_HANDLED\" NTFS.sys villumelding. \nVeit einhver hvað er til ráða til að leysa þetta hvimleiða vandamál?",
+            "date": "2018-03-10 00:21:00",
+            "post_id": "668513",
+            "reply_to_id": "667879"
+        },
+        {
+            "user_name": "Kristján",
+            "text": "hvaða build er win 10 hjá þér?",
+            "date": "2018-03-10 01:07:00",
+            "post_id": "668514",
+            "reply_to_id": "668513"
+        },
+        {
+            "user_name": "karvel",
+            "text": "16299",
+            "date": "2018-03-10 13:37:00",
+            "post_id": "668524",
+            "reply_to_id": "668514"
+        },
+        {
+            "user_name": "Kristján",
+            "text": "varstu búinn að prófa diskinn?",
+            "date": "2018-03-11 03:20:00",
+            "post_id": "668549",
+            "reply_to_id": "668524"
+        },
+        {
+            "user_name": "frr",
+            "text": "Það beinast öll spjót að disknum, miðað við að villan tengist disk/skáarkerfi.\nskilar sfc /scannow villum eða fullt file system check?",
+            "date": "2018-03-12 17:08:00",
+            "post_id": "668606",
+            "reply_to_id": "668549"
+        },
+        {
+            "user_name": "karvel",
+            "text": "Búinn að splæsa í nýjan SSD en er þrátt fyrir það er ég enn að lenda í \"Blue Screen\" leiðindum.  Getur þetta verið Google vafrinn?\nMér finnst ég eingöngu fá þessa \"KMODE_EXCEPTION_NOT_HANDLED\" meldingu þegar ég er eitthvað að vafra í Google en er þó ekki alveg viss.\nHef einnig verið að fá \"SYSTEM_PTE_MISUSE\",\"PFT_LIST CORRUPT\",\"CRITICAL_PROCESS_DIED\" og \"BAD_POOL_HEADER\" meldingar en þó miklu sjaldnar.\nÉg trúi ekki öðru en einhverjir vaktarar hafi lent í einhverjum ámóta vandræðum og hafi þá leyst vandamálið með einhverjum hætti?\nEs. Hef ekki getað uppfært Windows þ.e. \"2018-04 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4093105)\" allan mánuðinn og var í sömu vandræðum með \"2018-03\" útgáfuna. Er hugsanlega einhver tenging þarna á milli?",
+            "date": "2018-04-28 22:09:00",
+            "post_id": "671344",
+            "reply_to_id": "668606"
+        },
+        {
+            "user_name": "brain",
+            "text": "Var sett upp clean Windows á nýja diskinn ?",
+            "date": "2018-04-29 11:20:00",
+            "post_id": "671370",
+            "reply_to_id": "671344"
+        },
+        {
+            "user_name": "jonfr1900",
+            "text": "Þetta er vesen í skjákortinu hjá þér. Þú ert líklega með GPU sem er að fara eða ónýtt skjáminni (veit ekki hvað það heitir).",
+            "date": "2018-04-29 12:00:00",
+            "post_id": "671373",
+            "reply_to_id": "671370"
+        },
+        {
+            "user_name": "karvel",
+            "text": "Nei, ég notaði Samsung Migration til að færa allt af gamla Intel SSD á þann nýja.\nHver er lausnin á því, nýtt skjákort?",
+            "date": "2018-04-29 12:29:00",
+            "post_id": "671378",
+            "reply_to_id": "671373"
+        },
+        {
+            "user_name": "jonfr1900",
+            "text": "Já, nýtt skjákort er það eina sem virkar í þessu. Vandamálið er að Windows kemur með handahófskennd villuskilaboð. Ég lenti í svona veseni fyrir nokkru með tölvu sem er alltaf í gangi (gerir ekki mikið) og villuskilaboðin voru úti um allt en það sem kom mér á sporið var að skjámyndin fór öll í klessu áður en BSOD átti sér stað. Þessar hvítu línur sem þú lýsir bendir sterklega til þess að skjákortið sé á sínu síðasta.",
+            "date": "2018-04-29 14:28:00",
+            "post_id": "671380",
+            "reply_to_id": "671378"
+        },
+        {
+            "user_name": "karvel",
+            "text": "Takk fyrir aðstoðina, ætli ég fari ekki að ráði þínu og skipti út skjákortinu enda er það komið til ára sinna",
+            "date": "2018-04-29 15:57:00",
+            "post_id": "671385",
+            "reply_to_id": "671380"
+        },
+        {
+            "user_name": "jonfr1900",
+            "text": "Það er eina leiðin til þess að komast að því hvað er í gangi. Þetta gæti verið móðurborðið en það er jafnvel erfiðara að komast að því hvort að það sé bilunin. Það virðist ekki vera (að mínu mati) vegna þess ef svo væri þá fengir þú líklega crc villur og villur sem væri erfiðara að greina og líklega kæmu ekki fram þessar hvítu línur á skjáinn hjá þér.",
+            "date": "2018-04-29 19:06:00",
+            "post_id": "671393",
+            "reply_to_id": "671385"
+        },
+        {
+            "user_name": "nonesenze",
+            "text": "gaur, ekki vera heimskur og gerður clean install a windows, 99% likur a þvi að þetta se software issue\neina sem kemur til greina? ekki lata manninn kaupa eitthvað sem hann þarf ekki, solid mest stupid svar sem eg hef seð og eg varð að segja eitthvað",
+            "date": "2018-04-30 00:57:00",
+            "post_id": "671412",
+            "reply_to_id": "671393"
+        },
+        {
+            "user_name": "karvel",
+            "text": "Takk fyrir strákar, setti upp \"clean\" install og er búinn að uppfæra í OS Build 17134.1 í Version 1803 í Windows 10 Pro",
+            "date": "2018-05-08 14:18:00",
+            "post_id": "671908",
+            "reply_to_id": "671412"
+        }
+    ],
+    "date": "2018-02-27 21:13:00"
+}

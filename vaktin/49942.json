@@ -1,0 +1,23 @@
+{
+    "forum_title": "Windows",
+    "id": "49942",
+    "title": "error kóði",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=49942",
+    "posts": [
+        {
+            "user_name": "hafthoringi",
+            "text": "er ekki viss hvort eg eigi ad setja thetta hingad en tolvan hja brodur minum biladi thegar hann lanadi mer hana og langadi ad reyna ad laga hana fyrir hann, buinn ad reyna ad fikta adeins en hun synir alltaf villukoda thegar madur kveikir a henni\nkodinn er svona: 0xc00000e9 \nog er sagt ad thetta gaeti verid usb diskur, hardi diskur tolvunnar eda geisladrif",
+            "date": "2012-08-25 01:36:00",
+            "post_id": "462870",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Maniax",
+            "text": "Startaðu tölvunni og ýttu á f8 veldu svo safe mode with command prompt, notaðu svo þessa skipun  \"chkdsk /r\"",
+            "date": "2012-08-25 03:21:00",
+            "post_id": "462881",
+            "reply_to_id": "462870"
+        }
+    ],
+    "date": "2012-08-25 01:36:00"
+}

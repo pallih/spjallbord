@@ -1,0 +1,65 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "34821",
+    "title": "Ætti ég að fara frá windows í Ubuntu 10.10 ?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=34821",
+    "posts": [
+        {
+            "user_name": "cocacola123",
+            "text": "Ég var að pæla hvort ég ætti að prufa að setja Ubuntu 10.10 í skóla fartölvuna og ætlaði fyrst að spyrja ykkur hvort það sé alger vitleysa í mér eða hvað \nEins og er er fartölvan með windows 7 home edition 64bits og er bara notuð í skólann (word,exel og allur sá pakkinn) Og ef ég nota hana eitthvað fyrir utan skólann þá er það bara til að kíkja í wow eða horfa á mynd eða þætti þegar ég kemst ekki í stóra turninn \nEins og ég segi langar mig bara geeðveikt til að prufa eitthvað nýtt frá windows en ég er ekki beint að þora taka stökkið útaf ég hef náttúrulega ekkert prufað linux neitt.\nEndilega koma með ykkar álit hér fyrir neðan \n-CocaCola 123",
+            "date": "2010-12-27 04:30:00",
+            "post_id": "306534",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Hargo",
+            "text": "Búðu til annað partition á disknum á fartölvunni, settu Linux inn og prófaðu það í smá tíma áður en þú hendir Windows út. Um að gera að fikta og prófa.",
+            "date": "2010-12-27 08:08:00",
+            "post_id": "306544",
+            "reply_to_id": "306534"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Skoðaðu þetta :\nhttp://www.ubuntu.com/desktop/get-ubunt ... -installer\nBasicly installar Ubuntu eins og hverju öðru application-i. Ef þér líkar illa við þetta hendiru því út í gegnum Add/Remove Programs.\nVerð samt að segja að oft þarf akkúrat stökkið til, clean start. Eyða Win út og setja upp e-ð Linux distro. Mín reynsla er sú að maður lærir aldrei/nennir aldrei að læra á linuxið nema hoppa út í djúpu laugina",
+            "date": "2010-12-27 09:55:00",
+            "post_id": "306551",
+            "reply_to_id": "306544"
+        },
+        {
+            "user_name": "B.Ingimarsson",
+            "text": "en ekki gera ubuntu sem default í windows (fer í ubuntu sjálfkrafa úr windows multibootscreen) því þá gætiru lent í veseni eins og ég:\nhttp://spjall.vaktin.is/viewtopic.php?f=17&t=32565",
+            "date": "2010-12-27 12:22:00",
+            "post_id": "306570",
+            "reply_to_id": "306551"
+        },
+        {
+            "user_name": "bjarkih",
+            "text": "Stóra vandamálið í mínum huga er náttúrulega Office pakkinn ef þú notar hann mikið.  Því miður þá er MsOffice ennþá það besta sem þú færð, kannski lagast það þegar ubuntu hættir með openoffice.  Allt annað er mjög þægilegt á Ubuntu, þarft bara að opna fyrir spilun á mp3 og ýmsu svoleiðis, þannig að ekki láta þér bregða þó það virki ekki.  Ef þú villt fara í jafnvel þægilegra dæmi en ubuntu þá ættiru að kíkja á Mint \nhttp://www.linuxmint.com/\n eða pinguy \nhttp://www.techdrivein.com/2010/12/pinguy-os-probably-best-ubuntu.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+techdrivein+%28Tech+Drive-in%29&utm_content=Google+Reader\n Í báðum er búið að græja allt fyrir mann.",
+            "date": "2010-12-27 12:39:00",
+            "post_id": "306572",
+            "reply_to_id": "306570"
+        },
+        {
+            "user_name": "aevar86",
+            "text": "Ég er alveg nokkuð sáttur með OpenOffice. Allt sem þú vilt að virki fyrir skólan virkar í OO.\nAnnars tek ég undir að Linux Mint gæti verið málið, hef sett það upp fyrir marga og allir mjög ánægðir.\nSvo Pinguy OS eitthvað mjög svipað, byggir líka á Ubuntu, en hef aldrei prufað það (síðan þeirra er: \nhttp://pinguy-os.sourceforge.net/\n )\nÉg er ekki hrifinn af að setja upp linux inní windows, þú færð þá aldrei alla reynsluna eða hraðann.\nÞá er mun betra bara að setja þetta upp hliðiná windows, ef þú startar upp á diskinum þá bíður setup-ið upp á að installa hliðiná windows.",
+            "date": "2010-12-27 14:04:00",
+            "post_id": "306585",
+            "reply_to_id": "306572"
+        },
+        {
+            "user_name": "cocacola123",
+            "text": "ókei kannski að maður taki bara sénsinn \n En ég býst við að ég fari frekar í ubuntu útaf það sem ég er búinn að skoða = awesome \n og svo önnur pæling ef ég installa ubuntu get ég haldið öllu draslinu mínu ?",
+            "date": "2010-12-27 16:31:00",
+            "post_id": "306616",
+            "reply_to_id": "306585"
+        },
+        {
+            "user_name": "aevar86",
+            "text": "Þú þarft í raun ekki nema 10gb laust á harðadiskinum fyrir ubuntu.. mæli auðvitað með meira ef þú ætlar að nýta þetta eitthvað..\nEn jú veldu bara að installa hliðiná windows og þá helduru öllu.. þú getur svo skoðað windows drifið/partitionið úr ubuntu. \nSamt alltaf best alveg sama hvað þú ert að gera að eiga afrit..",
+            "date": "2010-12-27 16:47:00",
+            "post_id": "306620",
+            "reply_to_id": "306616"
+        }
+    ],
+    "date": "2010-12-27 04:30:00"
+}

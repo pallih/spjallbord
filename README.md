@@ -1,6 +1,6 @@
 # Fjögur spjallborð
 
-Þessi mappa inniheldur 40.000 þræði af fjórum íslenskum spjallborðum. Fjöldi frá hverju spjallorði er 10.000. Aldur textanna er á árabilinu 2000-2019 en þar sem um slembiúrtak úr stærra safn er að ræða er óvíst að textar frá öllum árum séu til staðar.
+Þessi mappa inniheldur 50.000 þræði af fimm íslenskum spjallborðum. Fjöldi frá hverju spjallorði er 10.000. Aldur textanna er á árabilinu 2000-2019 en þar sem um slembiúrtak úr stærra safn er að ræða er óvíst að textar frá öllum árum séu til staðar.
 
 
 ## Skipulag
@@ -246,6 +246,42 @@ Jeppaspjall, eða jeppaspjall.is, er í möppunni `jeppaspjall`.
             }
         ],
         "date": "2012-08-29 16:58:00"
+    }
+
+
+### Athugasemdir
+
+Hver þráður hefst á upphafsinnleggi sem hefur `id`. Þar er slóð á þráðinn, hvaða umræðuborði hann tilheyrir og dagsetning tilgreind. Innlegg eru í fylkinu `posts`. Texti innleggs/svars er í `text`.  Hvert innlegg hefur `post_id`eigindi.  `reply_to_id` eigindið vísar til þess innleggs sem svarað er, og með því er því hægt að endurskapa þráðinn í réttri röð.
+
+
+## spjall.vaktin.is
+
+Vaktin, eða spjall.vaktin.is, er í möppunni `vaktin`.
+
+### Dæmi
+
+    {
+        "forum_title": "Windows",
+        "id": "24246",
+        "title": "Vandamál",
+        "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=24246",
+        "posts": [
+            {
+                "user_name": "fresh",
+                "text": "Svo er mál með vexti að ein tölva hér á heimilinu fékk bluescreen. Er ég buinn að prófa bæði vinnsluminnin og það virðist allt i goðu með þau. Þegar eg er að reyna að formatta að þá virðist sem að HD-inn sé alveg dottinn út. Hann kemur ekkert upp í boot order í bios og finnst hann hvergi. Er það ekki pottþétt að hd-inn sé einfaldlega dauður?",
+                "date": "2009-08-08 14:17:00",
+                "post_id": "213898",
+                "reply_to_id": false
+            },
+            {
+                "user_name": "Pandemic",
+                "text": "Prófaðiru minnin með memtest? ef svo er þá ættu þau að vera í lagi. Þá er bara að prófa að keyra stýrikerfi upp af öðrum hörðum disk.",
+                "date": "2009-08-08 14:28:00",
+                "post_id": "213899",
+                "reply_to_id": "213898"
+            }
+        ],
+        "date": "2009-08-08 14:17:00"
     }
 
 

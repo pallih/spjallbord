@@ -1,0 +1,30 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "55133",
+    "title": "Sækja hljóðskrár af visir.is",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=55133",
+    "posts": [
+        {
+            "user_name": "Örvar",
+            "text": "Sælir.\nMig langaði að reyna að sækja útvarpsþætti /  hljóðskrár af visir.is (t.d. \nhttp://www.visir.is/section/MEDIA98&fileid=SRCA94F57DA-EAB0-4EB9-82CB-F1C6627CA45A\n) til að geta sett inn á ipodinn og hlustað á í vinnunni en er ekki alveg að takast það.\nÞessi spurning hefur komið áður upp hér, sjá: \nhttp://www.vaktin.is/spjall/viewtopic.php?f=7&t=33842&sid=b8549f410c29fa893f51fe335f04c12c\n en það virðist sem visir.is sé búin að breyta slóðunum eða eitthverju hjá sér síðan þá en allavega tekst mér ekki að opna þær skrár sem menn virðast hafa verið að opna í gamla þræðinum, búinn að prófa að opna slóðirnar sem bent var á í chrome, firefox, vlc og quicktime. \nMér tekst þó að finna skráarheitið sjálft með því að velja \"inspect element\" í chrome.\nKann eitthver hér að nálgast þessar skrár?",
+            "date": "2013-05-21 23:17:00",
+            "post_id": "511817",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Hér svona lítur slóð út hjá þeim, sýnist þeir 'dulkóða' þetta með því að hafa 'file-id'.\nhttp://www.visir.is/section/MEDIA98&fil ... 37D4C92118\nKóði: \nVelja allt\n<param name=\"flashvars\" value=\"netstreambasepath=http%3A%2F%2Fwww.visir.is%2Fsection%2FMEDIA98%26fileid%3DSRC0F39663F-F871-4670-8140-0537D4C92118&amp;id=mediaboxid&amp;className=media&amp;autostart=true&amp;skin=%2Fjwplayer%2Fglow_49.zip&amp;image=none&amp;stretching=exactfit&amp;bufferlength=10&amp;wmode=window&amp;file=%2FSRC%2FVEFTVMP3%2Fsources%2Fsverrir__oli%2F2013_05%2Fsverrir__oli_2013_05_21.mp3&amp;streamer=rtmp%3A%2F%2Fklippur.visir.is%2Fvod%2F_definst_%2F&amp;provider=rtmp&amp;controlbar.position=bottom\">",
+            "date": "2013-05-21 23:43:00",
+            "post_id": "511824",
+            "reply_to_id": "511817"
+        },
+        {
+            "user_name": "dedd10",
+            "text": "HiDownloader virkar oftast fyrir þetta:\nhttp://www.streamingstar.com/download/hidownload.exe",
+            "date": "2013-05-22 01:22:00",
+            "post_id": "511846",
+            "reply_to_id": "511824"
+        }
+    ],
+    "date": "2013-05-21 23:17:00"
+}

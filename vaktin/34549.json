@@ -1,0 +1,149 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "34549",
+    "title": "Hvaða router mæliði með?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=34549",
+    "posts": [
+        {
+            "user_name": "capteinninn",
+            "text": "Sælir.\nEftir allskonar vesen og stæla með netið hjá mér ætla ég að athuga hvort maður eigi ekki bara að kaupa sér nýjan router og skipta speedtouch döðlunni út.\nHvaða router mæliði með? Hvað er meðalverð fyrir þessi kvikyndi? Eru mismunandi routerar fyrir ljósleiðara og fyrir venjulega adsl tengingu?",
+            "date": "2010-12-15 01:08:00",
+            "post_id": "303651",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Já, annarsvegar ADSL routerar og svo Broadband routerar (eitthvað sem að íslensku fyrirtækin kalla bara 'internet router' veit ekki hví)",
+            "date": "2010-12-15 01:14:00",
+            "post_id": "303654",
+            "reply_to_id": "303651"
+        },
+        {
+            "user_name": "rapport",
+            "text": "hvernig speedtouch ertu með?\nallir aðrir en v6 eru rusl...",
+            "date": "2010-12-15 01:15:00",
+            "post_id": "303655",
+            "reply_to_id": "303654"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Speedtouch 585v6\nÞarf samt að restarta honum á hverjum degi. Hann á það líka til að eyða tengingunni til símans. Þarf þá að endurstilla routerinn sem er frekar pirrandi. Er þetta algengt hjá öllum routerum, speedtouch eða öðrum?",
+            "date": "2010-12-15 01:31:00",
+            "post_id": "303660",
+            "reply_to_id": "303655"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Thomson TG585n ... osom!",
+            "date": "2010-12-15 21:25:00",
+            "post_id": "303825",
+            "reply_to_id": "303660"
+        },
+        {
+            "user_name": "yamms",
+            "text": "Hvar fæst hann? ég er orðinn hundleiður á speedtouch 585 routernum sem síminn skaffaði mér.",
+            "date": "2010-12-15 21:44:00",
+            "post_id": "303833",
+            "reply_to_id": "303825"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Símanum",
+            "date": "2010-12-15 21:53:00",
+            "post_id": "303838",
+            "reply_to_id": "303833"
+        },
+        {
+            "user_name": "Some0ne",
+            "text": "Eru margar tölvur heima hjá þér? og kannski á torrent líka?\nSpeedtouch 585 á það til að verða retarded mjög hratt við þessar aðstæður, Thomson 585n sem er nýji frá símanum er mun skárri með þetta.",
+            "date": "2010-12-15 22:48:00",
+            "post_id": "303853",
+            "reply_to_id": "303838"
+        },
+        {
+            "user_name": "braudrist",
+            "text": "ZyXEL NBG460n",
+            "date": "2010-12-15 23:18:00",
+            "post_id": "303861",
+            "reply_to_id": "303853"
+        },
+        {
+            "user_name": "jonrh",
+            "text": "Já. \nBeinar (e. routers) fyrir ljósleiðara hjá Gagnaveitunni eru Telsey boxin\n og þú skiptir þeim ekki út. Ef þú ert með ADSL þarftu að passa þig á að fá þér ADSL beini en ekki breiðbandsbeini (aðalega notaðir í USA). Nær allir beinar í heimahúsum í dag eru samblanda af þrem mismunandi tækjum: beini sem er brúin heiman frá þér til símafyrirtækissins, skipti (e. switch) sem sér um að senda pakka á milli tölvanna á heimilinu þínu og þráðlausum sendi.\nEf þú vilt öflugan beini mæli ég með að kíkja á \ndd-wrt.com\n.\nSmá auka fróðleikur til gamans: Telsey boxin eru með þráðlausan sendi en Gagnaveitan gerir hann óvirkann því þeir vilja ekki þjónusta einstaklinga í vandræðum. Í staðin láta þeir símafyrirtækin sjá um það; leigja græju á 500kr á mánuði (nema þú eigir sjálfur) bara svo þú getir verið með þráðlaust net.\nBreyting 1\n: \neinarth\n réttilega benti á að Telsey boxin eru ekki beinar.",
+            "date": "2010-12-16 00:14:00",
+            "post_id": "303886",
+            "reply_to_id": "303861"
+        },
+        {
+            "user_name": "oskarandri",
+            "text": "Ég var einmitt aðeins að pæla á routerum nílega... er með ST 585... veit ekkert hvort hann er v6 en allavega. Hann er svosem ágætur fyrir internetið eftir að ég stillti hann aðeins en nú er ég að gera heimanet með litlum server og eitthvað svona og þá langaði mig að vera með aðeins hraðvirkara heimanet... sumir lapparnir eru með 802,11 N sem er 300mbps eða eru ethernet tengdar með Gb netkorti... er ekki til neinn ADSL router/beinir sem er með 801,11 b/g/n og 4 porta gigabit switch? þeir virðast alltaf allir vera með 10/100 switch...\nværi möguleiki að láta speedtouch beinin sjá um nettnginguna en vera með router tengdan við hann til að deila netinu á allar hinar tölvurnar?\nKv.\nÓskar Andri",
+            "date": "2010-12-16 09:25:00",
+            "post_id": "303937",
+            "reply_to_id": "303886"
+        },
+        {
+            "user_name": "einarth",
+            "text": "Sæll.\nTelsey netaðgangstækin eru ekki í hlutverki beinis, heldur eru tengdir beinar í þau fyrir internet samband. Þeim er síðan hægt að skipta út eftir þörfum.\nKv, Einar.",
+            "date": "2010-12-16 12:22:00",
+            "post_id": "303959",
+            "reply_to_id": "303937"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "Sammála!",
+            "date": "2010-12-17 01:52:00",
+            "post_id": "304134",
+            "reply_to_id": "303959"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "Það er samt þó nokkuð mál að verða sér útum Thomson TG585n hjá Símanum :S Ég fékk minn fyrir tilviljun.",
+            "date": "2010-12-17 01:57:00",
+            "post_id": "304136",
+            "reply_to_id": "304134"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Er að spá með eitt í viðbót. Er búinn að redda thomson routernum en það er eitthvað vesen með rafmagnið í honum en það skiptir ekki máli. Ég hinsvegar er að spá því ég er með tölvu tengda með lan snúru í speedtouch routerinn og er að deila möppu á networkinu. Ekkert mál að tengjast við það úr annarri tölvu í gegnum þráðlausa en það á til að lagga sem er frekar pirrandi þegar maður er að horfa á mynd eða eitthvað. Er Thomsoninn með hraðara þráðlaust net eða hvernig get ég tengst við möppuna sem ég er að deila þannig að það laggar sem minnst og helst ekki neitt en samt án þess að þurfa að leggja lan snúrur yfir allt húsið",
+            "date": "2010-12-20 21:11:00",
+            "post_id": "305038",
+            "reply_to_id": "304136"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Nú heyrði ég í Símanum með að fá Thomson routerinn en ég get ekki fengið hann því að ég er með adsl yfir isdn línu.\nMér skilst að það sé mikið vesen að skipta um línu í húsinu er það rétt?\nEr að spá hvort ég eigi að kaupa nýjan router í staðinn fyrir speedtouch routerinn og hvaða kaup eru þá best í þeim málum.",
+            "date": "2011-01-03 17:57:00",
+            "post_id": "308982",
+            "reply_to_id": "305038"
+        },
+        {
+            "user_name": "wicket",
+            "text": "TG585n er með 80211.n sem er miklu hraðara en 80211.g sem hefur verið default staðallinn í nokkur ár. Þarft samt að hafa þráðlaust kort í vélunum sem styðja N staðallinn.\nErtu með ISDN heima hjá þér eða bara ADSL yfir ISDN ?\nEf seinni valmöguleikinn þarf Síminn bara að græja ADSL yfir POTS og málið dautt.\nEf þú ert með ISDN heima hjá þér að þá er það auðvitað meira mál. Spurning hvort að það sé tími til að leggja ISDN-inu, taka niður NT boxið og skipta bara yfir í POTS á annað borð.\nEf þú ert bara að nota ISDN sem eitthvað gamalt legacy tól og ekki að nota neina kosti ISDN (aukanúmer, innanhúskerfi, tengt við dyrasímann ofl) er lítill tilgangur svosem að halda í það.",
+            "date": "2011-01-03 18:15:00",
+            "post_id": "308988",
+            "reply_to_id": "308982"
+        },
+        {
+            "user_name": "bulldog",
+            "text": "Thomson 585n rokkar",
+            "date": "2011-01-03 18:26:00",
+            "post_id": "308992",
+            "reply_to_id": "308988"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Bý í húsi sem hýsti eitt sinn stofnun þannig að það var byggt af ríkinu. Er með ISDN en nota það ekkert.\nNetið hjá mér er ADSL yfir ISDN. Hef verið að nota Speedtouch 585i eins og ég sagði fyrr í postinum en starfsmaður í þjónustuveri símans sagði við mig að Thomson routerarnir virkuðu ekki á ISDN yfir ADSL línum.\nHversu mikill kostnaður er að breyta úr ISDN í venjulega línu? Spurning líka hvort það sé þess virði ef það mun koma ljósleiðari til mín einhvertímann á næstu mánuðum.",
+            "date": "2011-01-03 18:34:00",
+            "post_id": "308994",
+            "reply_to_id": "308992"
+        },
+        {
+            "user_name": "wicket",
+            "text": "ertu með spes ISDN heimasímtæki ?\nEf ekki að þá læturðu bara Símann breyta línunni úr ISDN í POTS (venjuleg símalína). Veit ekki hvort að þeir rukki fyrir það, best að spyrja þá að því. Ef það kostar eitthvað getur það varla verið dýrt.",
+            "date": "2011-01-03 18:36:00",
+            "post_id": "308996",
+            "reply_to_id": "308994"
+        }
+    ],
+    "date": "2010-12-15 01:08:00"
+}

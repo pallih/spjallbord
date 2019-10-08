@@ -1,0 +1,44 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "16921",
+    "title": "Support fyrir minni spurning: 667/800/1066 mhz DDR2",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=16921",
+    "posts": [
+        {
+            "user_name": "Selurinn",
+            "text": "Það er gefið alltaf upp á móðurborðum hraðan sem minnin styðja.\n\nÉg hef mjög oft yfirklukkað minni á móðurborðum sem eru einungis með support fyrir 1066 minni og klukkað þeim uppí t.d. 1200mhz frá 800mhz.\n\nSegjum sem svo að móðurborð styðji einungis 667 minni en þú skellir 800mhz minni í það, getur það engan veginn farið yfir þann hraða þrátt fyrir að þú getir klukkað þau vel uppí 1066mhz.\n\nEinhver fróður sem getur sagt mér þetta, þrátt fyrir að það sé kki support fyrir ákveðnum hraða á minnum getur það samt ekki farið yfir hraðann sem er gefið upp fyrir?\n\n\n\n\n\nKveðja.....",
+            "date": "2008-02-01 13:08:00",
+            "post_id": "165227",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Yank",
+            "text": "Ef ég skil þig rétt.\n\n\n\nÞá jú það er hægt að yfirklukka allt. Auðvitað mis mikið en minnis controler á móður borði telst þar með. Þannig ef móðurborðið styður einungis official 800MHz minni þá eru allar líkur að hægt sé að yfirklukka það meira, og það gengur væntanlega betur ef notað er t.d. minni sem þolir 1066MHz en með 800MHz minni. En ekkert er algilt þegar kemur að yfirklukkun. \n\n\n\n\n\nÍ yfirklukknar hlutanum í þessu prófi var notað Gigabyte 965 DS3 móðurborð sem styður official mest 800MHz minni, samt sem áður náðist 1092MHz mest með 800MHz minni.\n\n\n\nhttp://spjall.vaktin.is/viewtopic.php?t=14155",
+            "date": "2008-02-01 14:49:00",
+            "post_id": "165232",
+            "reply_to_id": "165227"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Þannig hugsanlega næði ég að yfirklukka minni sem er rateað 800mhz uppí þann hraða á official 667 móðurborði?",
+            "date": "2008-02-01 14:59:00",
+            "post_id": "165233",
+            "reply_to_id": "165232"
+        },
+        {
+            "user_name": "Yank",
+            "text": "Hugsanlega já, en það þarf allt að smella saman þannig að þú græðir eitthvað á því, því slíkt móðurborð væri þá ekki með memory divider sem myndi leyfa að keyra allt annað á stock en yfirklukka bara minnið.",
+            "date": "2008-02-01 15:10:00",
+            "post_id": "165234",
+            "reply_to_id": "165233"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Þetta virkaði, takk",
+            "date": "2008-02-02 00:16:00",
+            "post_id": "165267",
+            "reply_to_id": "165234"
+        }
+    ],
+    "date": "2008-02-01 13:08:00"
+}

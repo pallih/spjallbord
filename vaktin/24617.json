@@ -1,0 +1,37 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "24617",
+    "title": "Að setja inn nýtt vinnsluminni.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=24617",
+    "posts": [
+        {
+            "user_name": "toivido",
+            "text": "Þannig er mál með vexti að ég keypti mér notað vinnsluminni í gær, 2 stk Corsair 512mb DDR400. Fyrir er ég með 2 stk Samsung 512mb DDR400. Ég setti minnin í í gærkveldi og kveikti á tölvunni og allt gekk vel. Ég fór því næst í PC Wizard og sá að ég var kominn með 2048mm vinnsluminni og tölvan virkaði fínt. Þegar ég rann yfir upplýsingarnar í PC Wizard um minnin þá tók ég eftir því að t.d. eftirfarandi svæði var ekki það sama á samsung minnunum og corsair minnunum:\nCAS Latency (tCL) :\t2.5 clocks @166 MHz, 3 clocks @200 MHz \nRAS to CAS (tRCD) :\t3 clocks @166 MHz, 3 clocks @200 MHz \nRAS Precharge (tRP) :\t3 clocks @166 MHz, 3 clocks @200 MHz \nCycle Time (tRAS) :\t7 clocks @166 MHz, 8 clocks @200 MHz \nMig minnir að það hafi staðið 2,2,2,8 í Corsair minnunum. Ástæðan fyrir því að ég spyr er að áðan var ég að kveikja á tölvunni og það kom ekkert á skjáinn og ég heyrði að hún keyrði sig ekki. Ég opnaði því tölvuna og tók Corsair minnin út og þá kveiknaði á henni. \nSpurningin er því kannski: Þarf að gera einhverjar stillingar þegar ný minni eru sett saman við gömul í tölvum? Maður les oft á þessari síðu að menn eru að tala um klukkun, ég veit ekki hvað það þýðir einu sinni. \nP.s. Ég setti Ballistix vinnsluminni í gamla tölvu hjá vini mínum um daginn. Tók gömlu alveg út og henti. Það kveiknaði fínt á tölvunni og degi síðar hringdi hann í mig og þá var allt í rugli. Geta vitlaust vinnsluminni eyðilagt eitthvað út frá sér?????????????\nKv.",
+            "date": "2009-08-27 12:40:00",
+            "post_id": "216318",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "toivido",
+            "text": "Er ekki einhver sem getur veitt mér visku úr viskubrunni sínum \n ?",
+            "date": "2009-08-27 19:10:00",
+            "post_id": "216351",
+            "reply_to_id": "216318"
+        },
+        {
+            "user_name": "Arnarfreyr",
+            "text": "þarft engar stillingar til að skipta um vinnsluminni þarf bara taka tölvuna ur sambandi og hafa engan straum á og svo taka ut og láta t.d crosair minnið i raufirnar sem eru nær örgjafanum þar að segja t.d 1 raufin græn og hin blá og ef bláa er nær lætur betri minnið þar og hitt bláa slotið ef þu ert með 4raufar svo likar verðuru af hafa i huga hvort þu sert með rett minni þvi þu ert með DDR en það sem er mest notað nutildags er dd2-dd3",
+            "date": "2009-09-15 12:03:00",
+            "post_id": "218550",
+            "reply_to_id": "216351"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Gera smá dæmi fyrir þig. Ef þú ert með minni sem er að keyra á, segjum, 5-5-5-15, og setur svo annað minni í tölvuna sem er 4-4-4-12, að þá keyrir það á 5-5-5-15.. annars veit ég ekkert um afhverju tölvan var í rugli..",
+            "date": "2009-09-15 21:27:00",
+            "post_id": "218633",
+            "reply_to_id": "218550"
+        }
+    ],
+    "date": "2009-08-27 12:40:00"
+}

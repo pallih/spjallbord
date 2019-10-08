@@ -1,0 +1,51 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "20741",
+    "title": "Ljósleiðari",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=20741",
+    "posts": [
+        {
+            "user_name": "lukkuláki",
+            "text": "Sælir nördar.\nEr einhver ykkar með ljósleiðaratengingu heima ?\nHvað kostar þetta samtals ? Sá einhvernstaðar að 'bara' aðgangur að ljósleiðaranum kostaði 2390 á mánuði.\nEr einhver búinn að gera könnun á verðmun og annað varðandi allan kostnað ?\nEf einhver hefur upplýsingar um þetta þá væri gaman að fá að heyra þær.",
+            "date": "2008-12-29 09:56:00",
+            "post_id": "191623",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Sæll\nÉg m.a.\nEr að borga fyrir 50Mb ljósleiðara(nýtist ekki nema 20Mb nema að þú getir leyft þér að hafa engan router, allavega með þessum router nýtist bara 20Mb): 4690 kr. til Vodafone(40Gb pakkinn) og 2390 kr. til Gagnaveitu Reykjavíkur bæði á mánuði.\n2390 kr. gjaldið er bara fyrir aðgang að grunnetinu rsom. Depill getur svarað þér því, eða að þú getur leitað að því í póstinum hans í þræðinum um að síminn væri að taka alla í r*gatið\nÞað er mjög slappt úrval af þessum tengingum... getur skoðað þær allar \nhér\n, \nhér\n og \nhér\nSé að tal bíður ekki uppá að þú kaupir eigin router af þeim og er með 390kr tryggingagjald  \n og Hringiðan minnist ekkert á routera.",
+            "date": "2008-12-29 10:52:00",
+            "post_id": "191630",
+            "reply_to_id": "191623"
+        },
+        {
+            "user_name": "depill",
+            "text": "Það er mjög dapurt úrval þarna. Og óskiljanlegt ( og sannar að Síminn og Míla eru ekki aðskilin fyrirtæki eins og PTA vildi að þeir myndu gera ) að Síminn skuli ekki sjá sér hag í því að vera þarna inni þar sem tilkostnaðurinn fyrir þá er í algjöri lámarki þarna og Gagnaveitan er svo sannarlega ekki að hindra þá.\nGúru benti þér á ISPana þarna inni, routerinn sem Vodafone og Tal veita á ljósinu er algjört sorp og er já með 20 Mb/s throughput ( gæti verið nýja týpan, en ég man að gamla throughputaði bara 8 Mb/s og rúmlega 18 Mb/s með slökkt á eldveggi en samt NAT á ).\nHins vegar geturðu fixað það, ef þú tímir, annað hvort með Cisco, en Cisco 871 myndi ekki einu sinni ná að throughputa þessu fyrir þig með NATi, en 1841 myndi gera það, en þá erum við komin soldið vel yfir 100 þúsund kallinn.\nHins vegar framleiðir Linksys router, Linksys WRT350N, sem samkv prófunum á að geta throguhputað frá WAN til LANs 166,5 Mb/s. Þannig ef þú vilt hafa router uppá öryggið að gera og þæginleikan en samt ná að throughputa öllum hraðanum sem þú ert að kaupa. Worth a look.",
+            "date": "2008-12-29 13:09:00",
+            "post_id": "191639",
+            "reply_to_id": "191630"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Það sem að ég vil er að ég (borðtölva) geti verið á hröðu interneti (50Mb) og allir aðrir í fjölskyldunni líka á internetinu... mér var bent á að ég gæti beintengt tölvuna í telsey boxið og routerinn úr minni tölvu en það hljómar vesen.",
+            "date": "2008-12-29 13:27:00",
+            "post_id": "191640",
+            "reply_to_id": "191639"
+        },
+        {
+            "user_name": "lukkuláki",
+            "text": "já mér fannst þetta eitthvað dapurt og lélegt, ég var varla að trúa því þegar ég var að skoða þetta en það er greinilegt að það er ekki fyrir almenning að vera að fá sér ljósleiðaratengingu strax þar sem það er svo ógeðslega dýrt ef maður vill fá eitthvað almennilegt út úr þessu, ég er ekki að fíla að borga mikið en fá svo ekki tækjakost sem ræður við það sem ég er að borga fyrir. \nMér finnst líka 2390.kr. á mánuði of mikið fyrir afnot af línunni hjá OR.\nÆtli maður skoði það ekki bara að fá sér öflugri ADSL pakka frekar, \nTakk fyrir svörin drengir, mjög hjálplegt.",
+            "date": "2008-12-29 13:33:00",
+            "post_id": "191641",
+            "reply_to_id": "191640"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Looked since its worth a look:\nA.m.k 10 manns á hinum ýmsu síðum segja að connectionið droppi bara randomly frá 5-6x á dag til 5-10x klst.\nEinhver maður í \nskemmtilegu vídeói\n segist hafa farið á spjallborð og fundið fullt af fólki með sama vandamál.\nHefði sennilega bara pantað þennan á 15k ef ekki hefði verið fyrir þetta \"litla\" vandamál",
+            "date": "2008-12-29 14:02:00",
+            "post_id": "191642",
+            "reply_to_id": "191641"
+        }
+    ],
+    "date": "2008-12-29 09:56:00"
+}

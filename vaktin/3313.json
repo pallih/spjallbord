@@ -1,0 +1,184 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "3313",
+    "title": "AMD fær enn meiri stuðning",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=3313",
+    "posts": [
+        {
+            "user_name": "Bendill",
+            "text": "Jæja, þetta batnar og batnar fyrir AMD...\n\n\n\nCray fyrirtækið, sem sérhæfir sig í ofurtölvum, er að ganga frá kaupum á OctigaBay. OctigaBay er fyrirtæki sem sérhæfir sig í að framleiða fjölörgjörva tölvur byggðar á AMD Opteron örgjörvum. Með þessum kaupum er Cray að falast eftir því að lækka kostnað á sínum vörum með notum á 64 bita \"x86\" örgjörvum. Í þeim orðum eru þeir að stóla á AMD og Opteron línuna í tilraun til að framleiða sparsamar ofurtölvur sem skila samt sama afli og getu. OctigaBay, staðsett í Vancouver, er að þróa fyrirbæri sem sumir kalla \"direct link clustera\" eða fjölörgjörva tölvu sem vinnur eins og tölvumengi \"cluster\" en er með beinni tengingu á milli örgjörva og minniseininga, þess vegna koma Opteron örgjörvar best til greina vegna \"Hypertransport\" og hraðskreiðra samskipta við minni. Þessar tölvur sem fyrirtækið er með í þróun munu geta hýst allt að 144 örgjörva í einu og verður vélin byggð upp af 12 örgjörvum í rekka, sett saman í einum skáp.\n\n\n\nÞetta er stór skrautfjöður í hatt AMD því Cray er einn stærsti framleiðandi á ofurtölvum og einn sá virtasti og elsti...\n\n\n\nMeiri upplýsingar fást hér:\n\nhttp://zdnet.com.com/2100-1103-5165936.html",
+            "date": "2004-02-27 12:11:00",
+            "post_id": "33473",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "wICE_man",
+            "text": "Cray hefur verið að gæla við Opteronana lengi enda henta þeir feikilega vel í tölvuklasa, innbyggða minnisstýringin veldur því að skölunin frá 1 yfir í 2 örgjörva vélum og frá 2 yfir í 4 osfv. er mun betri en annara örgjörva þar sem minnisstýringin er á móðurborðinu.",
+            "date": "2004-02-27 12:55:00",
+            "post_id": "33478",
+            "reply_to_id": "33473"
+        },
+        {
+            "user_name": "ICM",
+            "text": "BTW þótt það hafi átt heima í hinum umræðunum. Frá og með Service Pack 2 fyrir Windows XP verða tölvur með 64bit AMD örgjörvum öruggari en tölvur með Intel ögjörvum fram að seinni hluta 2005.",
+            "date": "2004-02-27 14:32:00",
+            "post_id": "33486",
+            "reply_to_id": "33478"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Svona geturu ekki asagt án þess að útskýra nánar.",
+            "date": "2004-02-27 15:47:00",
+            "post_id": "33492",
+            "reply_to_id": "33486"
+        },
+        {
+            "user_name": "Bendill",
+            "text": "Hann er að tala um \nþetta\n...",
+            "date": "2004-02-27 15:55:00",
+            "post_id": "33494",
+            "reply_to_id": "33492"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Ok.\n\n\n\nHvað gerist seinni hluta ársins 2005? Ef þú ert að vona að tímasetningar Microsoft um \"Longhorn\" standist þá ertu mjög bjartsýnn!",
+            "date": "2004-02-27 16:10:00",
+            "post_id": "33495",
+            "reply_to_id": "33494"
+        },
+        {
+            "user_name": "ICM",
+            "text": "nei ég er að tala um intel desktop örgjörva sem styðja þennan SP2 öryggisbúnað.",
+            "date": "2004-02-27 16:17:00",
+            "post_id": "33496",
+            "reply_to_id": "33495"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Ég efast um að Intel fari að nota búnað frá AMD á sína örgjörva, ertu viss um að þeir ætli að gera það?\n\n\n\nIntel er að þróa svipaðan búnað. Þótt stuðningur við hann verðir ekki innbyggður í SP2 þá er alveg mögulegt að hann komi fyrir 2005.",
+            "date": "2004-02-27 16:25:00",
+            "post_id": "33497",
+            "reply_to_id": "33496"
+        },
+        {
+            "user_name": "ICM",
+            "text": "Efastu um það? þeir eru nú þegar að fara að nota annan búnað frá AMD á sína örgjörva. Þeir kalla það kanski annað en það er eina vitið fyrir þá að styðja þann búnað sem Microsoft hefur verið að styðja.\n\nNei ég veit ekkert hvað intel ætla að gera en þeir eru ekki búnnir að tilkynna neina desktop örgjörva á næstunni sem styðja svipaða tækni og ef þeir gera það þá er það AMD að þakka.",
+            "date": "2004-02-27 16:47:00",
+            "post_id": "33501",
+            "reply_to_id": "33497"
+        },
+        {
+            "user_name": "wICE_man",
+            "text": "Þetta er einfaldur fídus, það væri í raun fáránlegt fyrir Intel að nota ekki samskonar búnað í sínum örgjörvum eins fljótt og auðið er, þó þeir þurfi að kingja smá stolti þá eru það margir vírusar og ormar sem nota \"buffer overflow\" til að brjótast inn á tölvur að það er ekki hægt að líta bara framhjá þessu. Ólíkt 64-bita eiginleikunum þá er þetta eitthvað sem mun strax hafa áhrif.",
+            "date": "2004-02-27 16:50:00",
+            "post_id": "33504",
+            "reply_to_id": "33501"
+        },
+        {
+            "user_name": "gumol",
+            "text": "OK, semsagt ekki einhver búnaður sem AMD hefur einkaleifi á og Intel þurfa að kaupa frá þeim.\n\n\n\nÞá get ég bara sett út á dagsetninguna. \n  Ég sé ekki hvað seint árið 2005 tengist þessu.",
+            "date": "2004-02-27 16:56:00",
+            "post_id": "33505",
+            "reply_to_id": "33504"
+        },
+        {
+            "user_name": "Bendill",
+            "text": "HVAÐ VAR ÞETTA?  EINKALEIFI?  HVAÐ ÞÝÐIR ÞAÐ?\n\n\n\n\nOMG! what have I become?",
+            "date": "2004-02-27 17:02:00",
+            "post_id": "33506",
+            "reply_to_id": "33505"
+        },
+        {
+            "user_name": "ICM",
+            "text": "Seint árið 2005 tengist þessu að því leiti að intel hafa ekki tilkynnt neina örgjörva sem fara í framleiðslu og munu nota þetta á næstunni, hvað sem þeir svo gera fyrir þann tíma hafa þeir ekki tilkynnt.",
+            "date": "2004-02-27 17:04:00",
+            "post_id": "33507",
+            "reply_to_id": "33506"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Þeir hafa ekki kynnt (mundi eftir y núna \n) í smátriðum alla örgjörva sem eiga að koma næstu 18 mánuðina svo við bíðum bara og sjáum.\n\n\n\nBendill: lol, orðinn eitthvað pirraður?  \n\n\nEinkaleyfi átti þetta að vera.",
+            "date": "2004-02-27 17:22:00",
+            "post_id": "33512",
+            "reply_to_id": "33507"
+        },
+        {
+            "user_name": "Bendill",
+            "text": "Afsakið, missti stjórn á mér þarna...",
+            "date": "2004-02-27 17:35:00",
+            "post_id": "33513",
+            "reply_to_id": "33512"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "hmm.. intel er nú að vinna í nýju steppingi af prescot. það var búist við að þetta ætti að vera í prescott fra´byrjun. ætli þeir skelli þessu ekki inn í næsta stepping",
+            "date": "2004-02-27 21:17:00",
+            "post_id": "33525",
+            "reply_to_id": "33513"
+        },
+        {
+            "user_name": "dadik",
+            "text": "Þetta er nú aðeins stærri breyting en svo að hún sleppi inn í næsta stepping. Örgjövinn þarf núna að halda utan um hvaða segment eru datasegment og hver eru kóðasegment. Líklegast krefst þetta breytinga í memory managernum líka sem þýðir að núverandi chipset gætu ekki nýtt sér þennan möguleika. Spurning samt hvað kemur í næstu chipsettum frá intel.\n\n\n\nEn aftur á móti er þetta stórsniðug breyting. Sumir segja að hugmyndin sé ekki einusinni komin frá AMD heldur Microsoft. Af hverju? Jú, þetta leysir langstærstan hluta þeirra öryggisvandamála sem MS hefur verið að glíma við á einu bretti. Eftir að buffer overflow hverfa úr sögunni ætti öryggisholum í Windows að fækka verulega.\n\n\n\n- dk",
+            "date": "2004-02-28 01:05:00",
+            "post_id": "33539",
+            "reply_to_id": "33525"
+        },
+        {
+            "user_name": "wICE_man",
+            "text": "HP voru að birta samanburð á nýju Opteron proliant serverum við samskonar XEON server og þeir eru ekkert að spara lofið á Opteroninn.\n\n\n\nhttp://h18004.www1.hp.com/products/servers/benchmarks/dl145-webbench.pdf\n\n\n\n\nÞetta kemur heim og saman við aðrar afkastamælingar sem ég hef séð svo stóra fréttin er bara að HP er farinn að nota Opteron. Ég bíð bara eftir að Dell fari sömu leið.....\n\n\n\n....yeah right!",
+            "date": "2004-02-28 13:28:00",
+            "post_id": "33553",
+            "reply_to_id": "33539"
+        },
+        {
+            "user_name": "Bendill",
+            "text": "mmmm.... HP Proliant DL145 2P.... Mig langar í...",
+            "date": "2004-03-01 14:04:00",
+            "post_id": "33744",
+            "reply_to_id": "33553"
+        },
+        {
+            "user_name": "wICE_man",
+            "text": "Samkvæmt Ace's Hardware er mismunur nýja IA-32E (64-bita viðbæturnar sem intel nota AKA iAMD64) og AMD64 meðal annars sá að Intel hefur sleppt því að hafa buffer overflow vörn, ég skil ekki afhverju þeir þurftu að gera það þar sem þeir eru hvort eð er að nota megnið af AMD64 grunninum. Það eru bara fáein atriði ólík og meðal annars þetta.\n\n\n\nJæja, þeir vita meira um örgjörva en ég svo við skulum vona að þeir viti hvað þeir eru að gera.",
+            "date": "2004-03-02 15:52:00",
+            "post_id": "33871",
+            "reply_to_id": "33744"
+        },
+        {
+            "user_name": "dadik",
+            "text": "Þetta er skrítið því að öðru leyti eru AMD64 og IA-32E nákvæmlega eins. Þetta virðist vera eini fídusinn sem intel tók ekki yfir. \n\n\n\nEn mér finnst þetta skrítið því að þessi breyting hjá AMD kemur til með að loka á langflestar öryggisholur hjá Microsoft. Veit reyndar ekki hvernig staðan er með linux, en býst samt við því að kjarninn verði uppfærður til að geta nýtt sér fídusinn.\n\n\n\n- dk",
+            "date": "2004-03-02 18:29:00",
+            "post_id": "33887",
+            "reply_to_id": "33871"
+        },
+        {
+            "user_name": "Hlynzi",
+            "text": "Það verður gaman að sjá hvernig örgjörva þróun heldur áfram gegnum 64 bita arkítektúrinn. \n\n\n\nÉg segi nú, ef AMD væru ekki til, þá væru intel einhversstaðar að leika sér rétt undir gígariðinu, og framþróun væri ekki nærri því jafn mikil og hún reyndist vera.",
+            "date": "2004-03-07 11:26:00",
+            "post_id": "34125",
+            "reply_to_id": "33887"
+        },
+        {
+            "user_name": "ICM",
+            "text": "Hlynzi þá hefði fólk haft vit á því að skipta yfir á PowerPC.",
+            "date": "2004-03-07 14:37:00",
+            "post_id": "34175",
+            "reply_to_id": "34125"
+        },
+        {
+            "user_name": "wICE_man",
+            "text": "Kanski ekki, það muna flestir eftir því þegar alpha örgjörvarnir hömsuðu bestu PC örrana á öllum sviðum. Það var bara ekki nóg enda notkunin á PC-vélum svo yfirburðar mikil að fæstum dettur í hug að skipta yfir einfaldlega til að vera samhæfður við sem flesta og sem mestan aðgang að forritum.\n\n\n\nNýjustu PowerPC örrarnir eru samt að gera fína hluti, ná næstum því afköstum hröðustu P4 örranna og gætu tekið fram úr ef IBM stendur við áætlanir sínar:)",
+            "date": "2004-03-07 14:56:00",
+            "post_id": "34180",
+            "reply_to_id": "34175"
+        },
+        {
+            "user_name": "ICM",
+            "text": "Ein ástæðan fyrir því að Microsoft eru að skipta algjörlega yfir í managed code er að þá er ekkert mál fyrir þá að porta forritin sín og Longhorn yfir á PowerPC.",
+            "date": "2004-03-07 15:32:00",
+            "post_id": "34185",
+            "reply_to_id": "34180"
+        }
+    ],
+    "date": "2004-02-27 12:11:00"
+}

@@ -1,0 +1,72 @@
+{
+    "forum_title": "Windows",
+    "id": "26462",
+    "title": "Hvernig get ég fjarlægt cookies úr tölvunni?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=26462",
+    "posts": [
+        {
+            "user_name": "Mongol",
+            "text": "hmm ég er að hugsa hvernig get ég fjarlægt cookies úr tölvunni semsagt þessa cookiesa sem hægja svo svakalega á henni???",
+            "date": "2009-11-28 16:40:00",
+            "post_id": "230220",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "daremo",
+            "text": "Spurning: Hvaða browser ertu að nota?\nAthugasemd: Cookies eiga ekki að hægja á tölvunni þinni. Ef þú ert að misskilja hvað cookies eru og þú meinar spyware, prófaðu að googla 'CCleaner'.",
+            "date": "2009-11-28 19:55:00",
+            "post_id": "230253",
+            "reply_to_id": "230220"
+        },
+        {
+            "user_name": "Mongol",
+            "text": "Ég er að nota bæði google chrome og firefox why??",
+            "date": "2009-11-28 20:54:00",
+            "post_id": "230265",
+            "reply_to_id": "230253"
+        },
+        {
+            "user_name": "daremo",
+            "text": "Af því browserar geyma ekki cookies eða valmöguleika fyrir cookies á sama stað.\nÞú getur eytt út cookies hér:\nFirefox: Menu -> Tools -> Options -> Privacy -> Remove Individual Cookies = Velur Remove Cookie eða Remove All Cookies\nChrome: Spanner iconið -> Options -> Under the Hood -> Show Cookies = Veldur Remove eða Remove All",
+            "date": "2009-11-28 21:03:00",
+            "post_id": "230267",
+            "reply_to_id": "230265"
+        },
+        {
+            "user_name": "Mongol",
+            "text": "en hvað eru þessir cookies þarf ég þetta einhvað eihnvertíman??",
+            "date": "2009-11-28 21:17:00",
+            "post_id": "230271",
+            "reply_to_id": "230267"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Skrár sem að geyma hluta úr vefsíðum og hraða hve hratt þú sækir þær, með því að hlaða þær af harða diskinum í staðinn fyrir að hlaða þær frá vefþjóninum.",
+            "date": "2009-11-28 21:38:00",
+            "post_id": "230276",
+            "reply_to_id": "230271"
+        },
+        {
+            "user_name": "daremo",
+            "text": "Nei.. Það er cache.\nCookies geyma upplýsingar um það sem þú hefur gert á vefsíðum. Hvort þú tékkaðir í eitthvað ákveðið tékkbox eða þú ert búinn að heimsækja vefsíðuna áður og búinn að sjá einhver skilaboð sem þeir vilja endilega að þú skoðir, geyma cookies þær upplýsingar. \ninfo\n.",
+            "date": "2009-11-28 21:46:00",
+            "post_id": "230279",
+            "reply_to_id": "230276"
+        },
+        {
+            "user_name": "Mongol",
+            "text": "Helvíti er það fínt:P",
+            "date": "2009-11-28 23:15:00",
+            "post_id": "230285",
+            "reply_to_id": "230279"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Nánast ómissandi fyrir hönnuði vefsíða að nota cookies uppá t.d innskráningar, form submissions, alerts og annað sniðugt.",
+            "date": "2009-11-29 00:14:00",
+            "post_id": "230295",
+            "reply_to_id": "230285"
+        }
+    ],
+    "date": "2009-11-28 16:40:00"
+}

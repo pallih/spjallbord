@@ -1,0 +1,184 @@
+{
+    "forum_title": "Símar, fartölvur, myndavélar og önnur farandstæki",
+    "id": "58376",
+    "title": "Root á síma = Avoida warranty?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=26&t=58376",
+    "posts": [
+        {
+            "user_name": "Swanmark",
+            "text": "Ef að ég roota símann minn, avoida ég warranty? Keypti hjá Nova.\nSamsung Galaxy S4.",
+            "date": "2013-11-28 22:26:00",
+            "post_id": "539687",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Búið að vera mikið debate um þetta og man ekki hvernig það endaði, held að intenz sé með þetta á hreinu, bíðum eftir svari frá honum.",
+            "date": "2013-11-28 23:01:00",
+            "post_id": "539694",
+            "reply_to_id": "539687"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Já þú gerir það því miður skv. framleiðendum, en það er hægt að afroota og núllstilla flash counterinn þannig að engin ummerki finnist.\nhttps://play.google.com/store/apps/deta ... iangleaway",
+            "date": "2013-11-28 23:16:00",
+            "post_id": "539698",
+            "reply_to_id": "539694"
+        },
+        {
+            "user_name": "Oak",
+            "text": "Já nei nei triangle away er ekki hægt með nýjustu uppfærsluna í S4, allavega ekki ennþá. Reyndar gæti alveg verið að einhver hafi verið með lausn á þessu KNOX void dæmi. Ég væri alveg til í að vita af því ef svo er.",
+            "date": "2013-11-28 23:55:00",
+            "post_id": "539704",
+            "reply_to_id": "539698"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "En að skipta bara um recovery og rom?",
+            "date": "2013-11-29 00:00:00",
+            "post_id": "539707",
+            "reply_to_id": "539704"
+        },
+        {
+            "user_name": "intenz",
+            "text": "KNOX er ekki default virkt. Það er líka hægt að uninstalla því.\nAlveg möguleiki, en ef þeir skoða flash counterinn bösta þeir þig.",
+            "date": "2013-11-29 00:12:00",
+            "post_id": "539709",
+            "reply_to_id": "539707"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Þannig að flash-a yfir höfuð er einfaldlega bannað, ef ég er að skilja þetta rétt. Annars auðvita lítið mál að note TriangleAway og algjörlega þess virði eins og allt frá Chainfire.",
+            "date": "2013-11-29 00:23:00",
+            "post_id": "539711",
+            "reply_to_id": "539709"
+        },
+        {
+            "user_name": "FuriousJoe",
+            "text": "Knox er tengt bootloadernum og er með counter þar, 0x0 er official rom, 0x1 er custom, og er ómögulegt að breyta því. (seinast þegar ég vissi)\nSvo Knox er hardkóðað í tækið, en það á að vera hægt að roota ánþess að Knox sjái það, en ef þú flashar annað rom þá færðu \"Knox warranty void 0x1\"\nÞetta á við um Samsung roms 4.3",
+            "date": "2013-11-29 01:06:00",
+            "post_id": "539714",
+            "reply_to_id": "539711"
+        },
+        {
+            "user_name": "starionturbo",
+            "text": "Meðan bootloaderinn er flashable, þá er það hægt.",
+            "date": "2013-11-29 08:34:00",
+            "post_id": "539742",
+            "reply_to_id": "539714"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Það er alveg umræða og góð pæling hvort \"Knox warranty void\" sé actually beintengt við verksmiðjuábyrgð.\nÞegar þú ert búinn að voida Knox warranty þá geturu ekki notað Knox (sem er aðallega hugsað fyrir business síma í mínum skilningi) og getur ekki fengið official uppfærslur. Getur einnig ekki downgrade-að bootloaderinn og eitthvað svoleiðis dót.\nEn ég er ekki búinn að lesa um þetta nýlega. Gerði það bara þegar ég tók eftir þessu fyrst. Gæti verið að einhverjar nýjar upplýsingar séu komnar í ljós.\nEn til að svara OP: Ef þú ert með nýlega uppfærðan Galaxy síma geturu búist við því að vera með Knox bootloader svo þú getur ekki hreinsað til eftir þig ef það kemur að því að hann bilar. Fer allt eftir símanum hversu auðvelt það er að roota og unroota.",
+            "date": "2013-11-29 09:46:00",
+            "post_id": "539746",
+            "reply_to_id": "539742"
+        },
+        {
+            "user_name": "Swooper",
+            "text": "Avoid = forðast\nvoid = ógilda\nAnnars vil ég ennþá meina að root ætti ekki að brjóta þessa lögbundnu tveggja ára ábyrgð sem er á öllum raftækjum keyptum innan evrópska efnahagssvæðisins, það væri kannski hægt að fara með það til Neytendastofu ef fyrirtæki neita því.\nEdit: Fokkit, ég sendi póst til Neytendastofu. Fáum úr þessu skorið í eitt skipti fyrir öll. Býst ekki við svari fyrr en í næstu viku í fyrsta lagi, en ég skal pósta því hér um leið og það kemur.",
+            "date": "2013-11-29 15:48:00",
+            "post_id": "539774",
+            "reply_to_id": "539746"
+        },
+        {
+            "user_name": "gRIMwORLD",
+            "text": "Sá á erlendri spjallsíðu þar sem verið var að rökræða sama mál að framleiðandi getur fært fyrir því rök að rootaður sími, þeas sem er ekki að keyra ROM frá framleiðandanum, sé fallinn úr ábyrgð þar sem þeir geta ekki ábyrgst að hugbúnaðurinn keyri innan þeirra vélbúnaðartakmarkana sem fyrir eru. Ef til custom stýrikerfið höndlar power á öðruvísi hátt en framleiðandinn gerir ráð fyrir gæti tækið keyrt heitar og í lengri tíma.\nTil eru líka dæmi um brikkaða síma þar sem Samsung var að nota íhluti sem voru lítillega breyttir af þeim sem custom rom forritararnir vissu ekki af. Það varð til þess að brikka símana þar sem stýrikerfið keyrði eftir þekktum gildum en tók ekki tillit til allra breytinganna sem Samsung hafði gert á vélbúnaðinum.\nBottom line held ég að ef það sjást ummerki um að þú hafir rootað símann þinn = úr ábyrgð",
+            "date": "2013-11-29 16:11:00",
+            "post_id": "539777",
+            "reply_to_id": "539774"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Ein spurning.\nEf þeir leyfa ekki að skipt sé um stýrikerfi, bera þeir þá ábyrgð á stýrikerfinu, virkni þess, göllum og vanköntum?\nÞetta er voðalega kjánaleg nálgun...",
+            "date": "2013-11-29 16:16:00",
+            "post_id": "539778",
+            "reply_to_id": "539777"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Ég bíð bara eftir að framleiðendur fari að gera það sama.. \"Abb abb abb kallinn minn, þú settir upp Linux á Dell tölvuna sem kom með W8, engin ábyrgð á vélbúnaði eftir svona brútal sókn\"..\nÞetta er auðvita fáranlegt að þú megir ekki setja upp annað (sama, bara breytt) stýrikerfi á símann þinn.",
+            "date": "2013-11-29 16:20:00",
+            "post_id": "539779",
+            "reply_to_id": "539778"
+        },
+        {
+            "user_name": "dori",
+            "text": "Hahaha... Það væri hrikalega fyndið ef svo væri. Fá að skipta símanum eftir 23 mánuði af því að það er galli í stýrikerfinu sem framleiðandi nennir ekki að patcha.",
+            "date": "2013-11-29 16:20:00",
+            "post_id": "539780",
+            "reply_to_id": "539779"
+        },
+        {
+            "user_name": "gRIMwORLD",
+            "text": "Það er náttúrulega ekki verið að tala um hugbúnaðargalla heldur hvort vélbúnaðargalli hafi orsakast af hugbúnaði sem notandi setur upp á símann sinn. Ofhitnun og skemmdir vegna OC osfrv. Ef það gerist þegar stock stýrikerfið er uppsett þá er síminn í ábyrgð.",
+            "date": "2013-11-29 16:30:00",
+            "post_id": "539781",
+            "reply_to_id": "539780"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Og ef það er bara skipt um ROM og síminn ekki rootaður?",
+            "date": "2013-11-29 16:34:00",
+            "post_id": "539783",
+            "reply_to_id": "539781"
+        },
+        {
+            "user_name": "gRIMwORLD",
+            "text": "Segir sig sjálft að það ætti ekki að skipta máli ef ROM útgáfan kemur frá framleiðandanum. Í Evrópu er tveggja ára ábyrgð á tækjum og eitthvað sem mér skilst að sé \"no questions asked\" fyrstu 6 mánuðina. Eftir það þyrfti notandi að sanna að breytingarnar sem hann gerði hafi ekki verið orsökin á biluninni (mögulega fer ég með rangt mál).",
+            "date": "2013-11-29 16:52:00",
+            "post_id": "539785",
+            "reply_to_id": "539783"
+        },
+        {
+            "user_name": "Swooper",
+            "text": "Held að sönnunarbyrðin liggi ekki hjá notanda í svoleiðis tilvikum, frekar að ábyrgðaraðili þurfi að sanna að notandi hafi valdið biluninni með fikti.",
+            "date": "2013-11-29 19:14:00",
+            "post_id": "539799",
+            "reply_to_id": "539785"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "1. Síðan hvenær hefur það verið á höndum neytanda að sýna fram á að hann hafi \nekki\n verið valdur að biluninni?\n2. Hvað kemur það málinu við á hverju verksmiðjur taka ábyrgð á og hverju ekki? \nÞað er vandamál þeirra sem sækja ábyrgðina þangað, þ.e. áframseljenda, en \nekki\n íslenskra neytenda sem fá íslenska lögbundna neytendavernd. \n3. Hvað \"gildir\" þetta þá um skv. ykkur sem halda þessu fram? Ekki borðtölvur, fartölvur, spjaldtölvur en síma? Spjaldtölvur líka? Fartölvur líka? Borðtölvur líka?",
+            "date": "2013-11-29 19:49:00",
+            "post_id": "539804",
+            "reply_to_id": "539799"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Þú getur frekar líkt þessu við því að setja upp breytta útgáfu af BIOS/firmware á vélbúnaðinn þinn. Android er ekki alveg sambærilegt við Windows / pc vélar í þessum dúr.",
+            "date": "2013-11-29 21:21:00",
+            "post_id": "539816",
+            "reply_to_id": "539804"
+        },
+        {
+            "user_name": "Swooper",
+            "text": "Fékk svar í dag:\nSvo, basically engin niðurstaða. Ugh.",
+            "date": "2013-12-02 21:22:00",
+            "post_id": "540471",
+            "reply_to_id": "539816"
+        },
+        {
+            "user_name": "dori",
+            "text": "Klassískur lögfræðingur. Nóg af orðum en segir ekki neitt. (Samt 20 þúsund kall á tímann.)",
+            "date": "2013-12-02 23:51:00",
+            "post_id": "540485",
+            "reply_to_id": "540471"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Gaman að lesa í gegnum þetta. Tók sérstaklega eftir nokkrum málum þar sem rafhlaða í fartölvu klikkar eftir tæp tvö ár og er ábyrgð neitað en álitsbeiðandi fær nýja rafhlöðu eftir að hann fer í neytendastofu. \nEn það virðist vera sem svo, af því sem ég las, að ef þú getur fært fyrir því rök að gallinn hafi verið til staðar eða hann sé ótengdur því sem þú ert búinn að gera við símann,þá eru góðar líkur á því að þú fáir ábyrgðina í gegn.",
+            "date": "2013-12-03 00:05:00",
+            "post_id": "540490",
+            "reply_to_id": "540485"
+        },
+        {
+            "user_name": "rango",
+            "text": "Héld Það fari líka eftir því hvern þú átt viðskipti við,  þegar ég keypti nexus 7 hjá vodafhone og þurfti að skila henni eftir viku( skjárinn var laus  )\nOg það er ekkert mál enn ég þarf svo að skipta henni aftur því í hvert skipti sem hún er tekin upp heyrist all svakalegt ískur í allri bakhliðinni bara yfrir hátalaran beisically.\nÞá einmitt minnist hann á þetta með að \"roota\" tækið og ég sagði að ég vissi alveg hvað ég væri að gera og tek þá væntanlega ábyrgð á hugbúnaðinum (bricked)\nÞað var ekkert mál.\nBara að fyrirtæki geri þennan aðskilnað á 'hardware' galla og 'software' galla, \nEf þú ákveður að roota tækið og þér tekst svo að drepa OS þá á ábyrgðin ekki að bjarga þér.\nEru ekki lög um að fyrirtæki verða að geta sannað að galli meigi rekja til vanrækslu eða svona breytinga?",
+            "date": "2013-12-03 00:43:00",
+            "post_id": "540496",
+            "reply_to_id": "540490"
+        }
+    ],
+    "date": "2013-11-28 22:26:00"
+}

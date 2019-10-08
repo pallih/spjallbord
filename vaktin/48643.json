@@ -1,0 +1,65 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "48643",
+    "title": "Couch Potato",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=48643",
+    "posts": [
+        {
+            "user_name": "minuZ",
+            "text": "Sælir, ég var að setja upp Couch potato upp hjá mér og virkar fínt að ná í bíómyndir en þegar myndin er komin þá færist hún ekki sjálfkrafa. Frábært ef eitthver getur bent mér á hvað ég er að gera vitlaust. Ég er með Couch potato sett upp á C-drifinu en Sab-inn downloadar öllu efninu inn á annan disk.",
+            "date": "2012-06-27 22:09:00",
+            "post_id": "450150",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "OliA",
+            "text": "Kemur enginn error í log hjá þér ?",
+            "date": "2012-06-27 22:27:00",
+            "post_id": "450159",
+            "reply_to_id": "450150"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Soldið off topic en hvernig virkar þetta couch potato?\nDownloadar þetta fyrir mann eða setur þetta file-ana í mismunandi möppur eða hvað?\nEr að spá að setja upp eina af tölvunum sem svona server tölvu þannig að hún downloadar öllu fyrir mig og deilir því á allar tölvur í húsinu",
+            "date": "2012-06-27 22:41:00",
+            "post_id": "450166",
+            "reply_to_id": "450159"
+        },
+        {
+            "user_name": "minuZ",
+            "text": "Það kemur rosa error þegar ég adda mynd en virkar samt fínt að dl-a henni en þarf bara að færa hana handvirkt. Ég skil reyndar ekki mikið í þessum error einnig veit ég ekki afhverju Couch potato er að leita að family guy.\nÉg er að ná í Lock Stock and Two Smoking Barrels\nKóði: \nVelja allt\n21:36:30 INFO  [        app.lib.cron.yarr] Finished search.\n21:36:30 INFO  [        app.lib.cron.yarr] Searching for new downloads, for all movies.\nIMDbDataAccessError: {'url': 'http://akas.imdb.com/find?s=tt;mx=20;q=family+guy+s10e17+hdtv+xvid+2hd', 'error type': 'http_error_default', 'errcode': 503, 'headers': <httplib.HTTPMessage instance at 0x035D30F8>, 'proxy': '', 'errmsg': 'Service Temporarily Unavailable'}\n    'proxy': self.get_proxy()}\n  File \"C:/Users/server/AppData/Local/Temp/_MEI35042/library\\imdb\\parser\\http\\__init__.py\", line 237, in http_error_default\n  File \"..\\build\\pyi.win32\\CouchPotato\\outPYZ1.pyz/urllib\", line 373, in http_error\n  File \"..\\build\\pyi.win32\\CouchPotato\\outPYZ1.pyz/urllib\", line 356, in open_http\n  File \"..\\build\\pyi.win32\\CouchPotato\\outPYZ1.pyz/urllib\", line 205, in open\n    uopener = self.open(url)\n  File \"C:/Users/server/AppData/Local/Temp/_MEI35042/library\\imdb\\parser\\http\\__init__.py\", line 183, in retrieve_unicode\n    return self.urlOpener.retrieve_unicode(url, size=size)\n  File \"C:/Users/server/AppData/Local/Temp/_MEI35042/library\\imdb\\parser\\http\\__init__.py\", line 416, in _retrieve\n    cont = self._retrieve(imdbURL_find % params)\n  File \"C:/Users/server/AppData/Local/Temp/_MEI35042/library\\imdb\\parser\\http\\__init__.py\", line 430, in _get_search_content\n    cont = subXMLRefs(self._get_search_content('tt', title, results))\n  File \"C:/Users/server/AppData/Local/Temp/_MEI35042/library\\imdb\\parser\\mobile\\__init__.py\", line 189, in _search_movie\n    res = self._search_movie(title, results)\n  File \"C:/Users/server/AppData/Local/Temp/_MEI35042/library\\imdb\\__init__.py\", line 385, in search_movie\n    r = self.p.search_movie(q)\n  File \"C:/Users/server/AppData/Local/Temp/_MEI35042\\app\\lib\\provider\\movie\\sources\\imdbWrapper.py\", line 27, in find\n    result = source.find(q, limit = limit, alternative = alternative)\n  File \"C:/Users/server/AppData/Local/Temp/_MEI35042\\app\\lib\\provider\\movie\\search.py\", line 68, in find\n    result = cherrypy.config['searchers']['movie'].find(movieName + ' ' + movieYear, limit = 1)\n  File \"C:/Users/server/AppData/Local/Temp/_MEI35042\\app\\lib\\library.py\", line 338, in determineMovie\n    movie['movie'] = self.determineMovie(movie)\n  File \"C:/Users/server/AppData/Local/Temp/_MEI35042\\app\\lib\\library.py\", line 171, in getMovies\n    allMovies = self.getMovies(self.conf('download'))\n  File \"C:/Users/server/AppData/Local/Temp/_MEI35042\\app\\lib\\cron\\renamer.py\", line 93, in doRename\n    self.doRename()\n  File \"C:/Users/server/AppData/Local/Temp/_MEI35042\\app\\lib\\cron\\renamer.py\", line 61, in run\n21:36:14 ERROR [     app.lib.cron.renamer] Traceback (most recent call last):\n21:36:14 ERROR [     app.lib.cron.renamer] !!Uncought exception in renamer thread.\n21:36:14 INFO  [movie.sources.imdbWrapper] IMDB - Searching for movie: family guy s10e17 hdtv xvid 2hd\n21:36:14 INFO  [.movie.sources.theMovieDb] TheMovieDB - Found: []\n21:36:13 INFO  [.movie.sources.theMovieDb] Searching: http://api.themoviedb.org/2.1/Movie.search/en/xml/9b939aee0aaafc12a65bf448e4af9543/family+guy+s10e17+hdtv+xvid+2hd\n21:36:13 INFO  [          app.lib.library] Searching for \"Family Guy S10E17 HDTV XviD 2HD\".\n21:36:10 INFO  [           app.lib.boxcar] Boxcar notification successful.\n21:36:09 INFO  [          app.lib.sabNzbd] NZB sent to SAB successfully.\n21:36:08 INFO  [          app.lib.sabNzbd] URL: http://localhost:8080/sabnzbd/api?ma_password=558855as&apikey=04a0ab49f2d0dd9e904e1f140047875b&name=https%3A%2F%2Fapi.nzbmatrix.com%2Fv1.1%2Fdownload.php%3Fid%3D615775%26username%3Dessid%26apikey%3De40ddb428d6abec7280deca337b59ebb&cat=movies&mode=addurl&ma_username=minuZ\n21:36:08 INFO  [          app.lib.sabNzbd] Sending 'Lock Stock and Two Smoking Barrels 1998 720p BluRay DTS x264 ESiR' to SABnzbd.\n21:35:58 INFO  [.lib.provider.yarr.search] Checking if https://api.nzbmatrix.com/v1.1/download.php?id=615775&username=essid&apikey=e40ddb428d6abec7280deca337b59ebb is valid.\n21:35:48 INFO  [pp.lib.provider.yarr.base] Found but outside 1286 retention: Lock Stock and Two Smoking Barrels (1998) HDTV 720p x264 McFly\n21:35:48 INFO  [pp.lib.provider.yarr.base] Wrong: Lock Stock and Two Smoking Barrels (1998) 1080p HDTV x264 iLL, contains other quality, looking for 720P\n21:35:48 INFO  [er.yarr.sources.nzbmatrix] Found: Lock Stock and Two Smoking Barrels 720p x264 PSYCHOSOCiAL\n21:35:48 INFO  [er.yarr.sources.nzbmatrix] Found: Lock Stock and Two Smoking Barrels 1998 720p BluRay x264 CYBERMEN\n21:35:48 INFO  [pp.lib.provider.yarr.base] Wrong: Lock Stock and Two Smoking Barrels 1998 1080p BluRay x264 TiMELORDS, contains other quality, looking for 720P\n21:35:48 INFO  [pp.lib.provider.yarr.base] Wrong: Lock Stock and Two Smoking Barrels 1998 BluRay 1080p x264 DTS CtrlHD, contains other quality, looking for 720P\n21:35:48 INFO  [er.yarr.sources.nzbmatrix] Found: Lock Stock and Two Smoking Barrels 1998 720p BluRay DTS x264 ESiR\n21:35:48 INFO  [pp.lib.provider.yarr.base] Wrong: Lock Stock and Two Smoking Barrels 1998 MULTi 1080p BluRay x264 FHD, contains other quality, looking for 720P\n21:35:37 INFO  [         app.lib.cron.eta] Found ETA: {u'dvd': 936050400, u'expires': 1372002923, u'theater': 920588400, u'bluray': False}\n21:35:37 INFO  [er.yarr.sources.nzbmatrix] Searching: https://rss.nzbmatrix.com/rss.php?username=essid&term=tt0120735&apikey=e40ddb428d6abec7280deca337b59ebb&subcat=42&searchin=weblink&english=1\n21:35:28 INFO  [lib.provider.movie.search] Getting extra movie info for Lock, Stock and Two Smoking Barrels.\n21:35:27 INFO  [    app.controllers.movie] Adding movie to database: Lock, Stock and Two Smoking Barrels\n21:35:20 INFO  [.movie.sources.theMovieDb] TheMovieDB - Found: [{'year': '1998', 'imdb': 'tt0120735', 'id': 100, 'name': u'Lock, Stock and Two Smoking Barrels'}, {'year': '1998', 'imdb': 'tt0120735', 'id': 100, 'name': u'Lock Stock - Pazzi scatenati '}]\n21:35:17 INFO  [.movie.sources.theMovieDb] Searching: http://api.themoviedb.org/2.1/Movie.search/en/xml/9b939aee0aaafc12a65bf448e4af9543/lock+stock+and+two+smoking+barrels\nIMDbDataAccessError: {'url': 'http://akas.imdb.com/find?s=tt;mx=20;q=family+guy+s10e17+hdtv+xvid+2hd', 'error type': 'http_error_default', 'errcode': 503, 'headers': <httplib.HTTPMessage instance at 0x0359B3F0>, 'proxy': '', 'errmsg': 'Service Temporarily Unavailable'}\n    'proxy': self.get_proxy()}\n  File \"C:/Users/server/AppData/Local/Temp/_MEI35042/library\\imdb\\parser\\http\\__init__.py\", line 237, in http_error_default\n  File \"..\\build\\pyi.win32\\CouchPotato\\outPYZ1.pyz/urllib\", line 373, in http_error\n  File \"..\\build\\pyi.win32\\CouchPotato\\outPYZ1.pyz/urllib\", line 356, in open_http\n  File \"..\\build\\pyi.win32\\CouchPotato\\outPYZ1.pyz/urllib\", line 205, in open\n    uopener = self.open(url)\n  File \"C:/Users/server/AppData/Local/Temp/_MEI35042/library\\imdb\\parser\\http\\__init__.py\", line 183, in retrieve_unicode\n    return self.urlOpener.retrieve_unicode(url, size=size)\n  File \"C:/Users/server/AppData/Local/Temp/_MEI35042/library\\imdb\\parser\\http\\__init__.py\", line 416, in _retrieve\n    cont = self._retrieve(imdbURL_find % params)\n  File \"C:/Users/server/AppData/Local/Temp/_MEI35042/library\\imdb\\parser\\http\\__init__.py\", line 430, in _get_search_content\n    cont = subXMLRefs(self._get_search_content('tt', title, results))\n  File \"C:/Users/server/AppData/Local/Temp/_MEI35042/library\\imdb\\parser\\mobile\\__init__.py\", line 189, in _search_movie\n    res = self._search_movie(title, results)\n  File \"C:/Users/server/AppData/Local/Temp/_MEI35042/library\\imdb\\__init__.py\", line 385, in search_movie\n    r = self.p.search_movie(q)\n  File \"C:/Users/server/AppData/Local/Temp/_MEI35042\\app\\lib\\provider\\movie\\sources\\imdbWrapper.py\", line 27, in find\n    result = source.find(q, limit = limit, alternative = alternative)\n  File \"C:/Users/server/AppData/Local/Temp/_MEI35042\\app\\lib\\provider\\movie\\search.py\", line 68, in find\n    result = cherrypy.config['searchers']['movie'].find(movieName + ' ' + movieYear, limit = 1)\n  File \"C:/Users/server/AppData/Local/Temp/_MEI35042\\app\\lib\\library.py\", line 338, in determineMovie\n    movie['movie'] = self.determineMovie(movie)\n  File \"C:/Users/server/AppData/Local/Temp/_MEI35042\\app\\lib\\library.py\", line 171, in getMovies\n    allMovies = self.getMovies(self.conf('download'))\n  File \"C:/Users/server/AppData/Local/Temp/_MEI35042\\app\\lib\\cron\\renamer.py\", line 93, in doRename\n    self.doRename()\n  File \"C:/Users/server/AppData/Local/Temp/_MEI35042\\app\\lib\\cron\\renamer.py\", line 61, in run\n21:35:13 ERROR [     app.lib.cron.renamer] Traceback (most recent call last):\n21:35:13 ERROR [     app.lib.cron.renamer] !!Uncought exception in renamer thread.\n21:35:13 INFO  [movie.sources.imdbWrapper] IMDB - Searching for movie: family guy s10e17 hdtv xvid 2hd\n21:35:13 INFO  [.movie.sources.theMovieDb] TheMovieDB - Found: []\n21:35:12 INFO  [.movie.sources.theMovieDb] Searching: http://api.themoviedb.org/2.1/Movie.search/en/xml/9b939aee0aaafc12a65bf448e4af9543/family+guy+s10e17+hdtv+xvid+2hd\n21:35:12 INFO  [          app.lib.library] Searching for \"Family Guy S10E17 HDTV XviD 2HD\".\nJá þetta downloadar frá t.d \"IMDB\" og á að setja þetta á rétta stað. Prufaðu bara gúggla couch potato, sickbeard og sabnzbd",
+            "date": "2012-06-28 21:44:00",
+            "post_id": "450426",
+            "reply_to_id": "450166"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Mæli klárlega með Media Center Master í svona lagað. Sækir bæði myndir og þætti, endurnefnir, scrape-ar (sækir info, posters, fanart etc og m.a. allt fyrir XBMC), og færir í réttar möppur. Kostar erja 20usd ársleyfið eða 50usd lifetime leyfi, vel þess virði og þægilegt að hafa allt á einum stað.",
+            "date": "2012-06-28 22:38:00",
+            "post_id": "450447",
+            "reply_to_id": "450426"
+        },
+        {
+            "user_name": "OliA",
+            "text": "Er sab nokkuð að færa þetta fyrir þig?\nSabinn að gera eitthvað post process ?\nFuturama dótið kemur líklegast útaf því að þú ert ekki með movies í sér category, þ.e. að láta sab setja myndir í complete/movies. \nStillir það í sab, og í downloaders í cp minnir mig.\nMæli ekki með því að hafa CP og SB post processa úr sömu folder, því þá á CP til að grípa þátt, eða þætti ef þú ert að ná í marga og senda þá í eina folder, og þar með override-a þættina sem þú varst búinn að ná í.",
+            "date": "2012-06-28 22:44:00",
+            "post_id": "450450",
+            "reply_to_id": "450447"
+        },
+        {
+            "user_name": "OliA",
+            "text": "Windows only ?",
+            "date": "2012-06-28 22:45:00",
+            "post_id": "450451",
+            "reply_to_id": "450450"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Já.",
+            "date": "2012-06-28 23:06:00",
+            "post_id": "450458",
+            "reply_to_id": "450451"
+        }
+    ],
+    "date": "2012-06-27 22:09:00"
+}

@@ -1,0 +1,58 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "65945",
+    "title": "Setja upp pfsense fyrir ljósnet",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=65945",
+    "posts": [
+        {
+            "user_name": "minuZ",
+            "text": "Sælir, ég er að fara fá ljósnet og var að velta því fyrir mér hvort ég þarf að vera með router og síðan pfsense. Eða hvort að pfsense geti séð um allt ef ég tengi símalínuna beint inn á netkortið?",
+            "date": "2015-06-14 23:12:00",
+            "post_id": "600471",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gardar",
+            "text": "PCI/USB vdsl modem eru vandfundin svo að það er lang auðveldast að brúua router við pfsense.",
+            "date": "2015-06-15 09:38:00",
+            "post_id": "600488",
+            "reply_to_id": "600471"
+        },
+        {
+            "user_name": "minuZ",
+            "text": "Okey datt það i hug, ertu með eitthverjar hugmyndir af odýrum router dyrir þetta?",
+            "date": "2015-06-15 12:58:00",
+            "post_id": "600500",
+            "reply_to_id": "600488"
+        },
+        {
+            "user_name": "Kristján Gerhard",
+            "text": "Hvenær áttu von á þessu? Ég er með svona setup, þ.e. ég er með consumer router fyrir framan pfsense box. Það er hinsvegar verið að græja ljósleiðara í götuna hjá mér svo að ég get sleppt dollunni fyrir framan pfsense á næstunni. Hvenær myndi þig vantar router?",
+            "date": "2015-06-15 17:14:00",
+            "post_id": "600514",
+            "reply_to_id": "600500"
+        },
+        {
+            "user_name": "Andri Þór H.",
+            "text": "Ég er með svona setup eins og er.\nEr með Kasda router frá Hringdu. Nota NAT -- DMZ Host fídusinn í honum þannig að hann hleypir allri traffic í gegnum sig án þess að pæla í neinu.\nert svo bara með static ip tölu á Wan kortinu í PfSense.\nSem dæmi:\nKasda Router: 192.168.1.1 - Slökkva á DHCP\nPfSense Wan:  192.168.1.10 - Static IP\nPfSense Lan:   192.168.10.1 - Gott að hafa annað net svo það verði ekki árekstrar.",
+            "date": "2015-06-15 17:34:00",
+            "post_id": "600517",
+            "reply_to_id": "600514"
+        },
+        {
+            "user_name": "minuZ",
+            "text": "Ég er örugglega að fara setja þetta upp i júlí. Hvernig vélbúnað eru þið með fyrir pfsense? Eg er núna með gamla of tölvu en finnst hún aðeins of mikið fyrir þetta. Sá banana Pí sem er með 4 - 5 rj45 tengi, langaði skipta yfir i  hana ef einhver goða reynslu af henni.",
+            "date": "2015-06-16 15:51:00",
+            "post_id": "600554",
+            "reply_to_id": "600517"
+        },
+        {
+            "user_name": "Kristján Gerhard",
+            "text": "Ég er líka að nota Kasda router sem ég keypti af Hringdu á sínum tíma, er þó með þetta sett upp þannig að pfsense tengist um PPPoE í gengum routerinn og fær því external ip töluna á WAN portið. \nÉg reikna ekki með því að verða orðinn ljósleiðaravæddur í júlí svo ég get ekki látið þig hafa minn.\nÞað er ekki (ennþá) til ARM útgáfa af pfsense svo þú getur ekki notað Banana pi.",
+            "date": "2015-06-16 17:15:00",
+            "post_id": "600558",
+            "reply_to_id": "600554"
+        }
+    ],
+    "date": "2015-06-14 23:12:00"
+}

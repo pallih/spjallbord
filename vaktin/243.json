@@ -1,0 +1,107 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "243",
+    "title": "phpBB",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=243",
+    "posts": [
+        {
+            "user_name": "Voffinn",
+            "text": "nú langar mér svolítið að prufa að gera svona phpBB síðu eins og þetta, get ég hafa hana á heimasíðu svæðinu mínu sem er hosta' hjá isp mínum, hvað þarf ég að innstalla annað en phpbb , er þettta nokkuð rosaflóki' ? \n\n\n\n já hérna er þetta beint upp úr manualinum \"Before proceeding with installation you should ensure you have a database available. Ask your provider for details if you are unsure whether you do or not.\" ... getur einvher sagt mér hvaðð þetta database er???",
+            "date": "2003-01-08 21:51:00",
+            "post_id": "1478",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "kiddi",
+            "text": "Þú þarft að athuga hvort þjónustuaðili þinn geti boðið upp á PHP stuðning og database stuðning, og ef svo er þá þarf hann að stofna gagnagrunn handa þér, ég held að fólk þurfi vanalega að borga aukalega fyrir þessa fítusa, svo ef þú vilt keyra vefinn heima hjá þér (ef þú ert með sítengingu og fasta IP) þá geturðu gert þetta sjálfur...\n\n\n\nTölvan sem keyrir vefinn þarf að vera bæði með PHP stuðning og database stuðning. Það sem þú þarft til að keyra þetta á windows vél\n\ner tildæmis þetta:\n\n\n\nApache WWW Server\n\n(\nhttp://httpd.apache.org/\n)\n\n\n\nPHP\n\n(\nhttp://www.php.net\n)\n\n\n\nMySQL\n\n(\nhttp://www.mysql.com/\n)\n\n\n\nog svo að lokum:\n\n\n\nphpBB\n\n(\nhttp://www.phpbb.com/\n)\n\n\n\nÞað er ekki mjög auðvelt að setja þetta upp og ef þú hefur enga reynslu af þessum málum þá getur tekið þig marga daga að finna út úr þessu. =)",
+            "date": "2003-01-09 06:44:00",
+            "post_id": "1480",
+            "reply_to_id": "1478"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "já veistu , þessi hugmynd, bara datt niður dauð \n ... greinilegt alltof mikið vesen... en takk kærlega fyrir upplýsingarnar",
+            "date": "2003-01-09 15:48:00",
+            "post_id": "1492",
+            "reply_to_id": "1480"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "skiptir engu máli hvaða datebase maður notar.þ.e. hvaða týpu SQL, aksess, einhverAnnarDatabase?",
+            "date": "2003-01-09 23:08:00",
+            "post_id": "1498",
+            "reply_to_id": "1492"
+        },
+        {
+            "user_name": "kemiztry",
+            "text": "Hmmm svo lengi sem þetta er SQL þá á það að virka",
+            "date": "2003-01-09 23:29:00",
+            "post_id": "1499",
+            "reply_to_id": "1498"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "afsakið fáfræðina en notar aksess SQL?",
+            "date": "2003-01-10 18:17:00",
+            "post_id": "1515",
+            "reply_to_id": "1499"
+        },
+        {
+            "user_name": "kemiztry",
+            "text": "neibb",
+            "date": "2003-01-10 18:57:00",
+            "post_id": "1517",
+            "reply_to_id": "1515"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "k, hélt ekki. svarið þitt hljómaðu bara þannig.",
+            "date": "2003-01-10 21:22:00",
+            "post_id": "1522",
+            "reply_to_id": "1517"
+        },
+        {
+            "user_name": "ofi",
+            "text": "ekki gefast upp, þetta er einfallt.\n\nhttp://www.koddinn.com",
+            "date": "2003-02-04 12:24:00",
+            "post_id": "1860",
+            "reply_to_id": "1522"
+        },
+        {
+            "user_name": "Fox",
+            "text": "Hvaða gagnagrunn er spjall.vaktin.is að keyra?",
+            "date": "2003-12-12 22:20:00",
+            "post_id": "23706",
+            "reply_to_id": "1860"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "sql.. líklega my",
+            "date": "2003-12-12 22:23:00",
+            "post_id": "23709",
+            "reply_to_id": "23706"
+        },
+        {
+            "user_name": "Fox",
+            "text": "Hvaða version  :o",
+            "date": "2003-12-12 22:23:00",
+            "post_id": "23710",
+            "reply_to_id": "23709"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "4",
+            "date": "2003-12-12 22:28:00",
+            "post_id": "23712",
+            "reply_to_id": "23710"
+        },
+        {
+            "user_name": "Fox",
+            "text": "THX :>",
+            "date": "2003-12-12 22:31:00",
+            "post_id": "23713",
+            "reply_to_id": "23712"
+        }
+    ],
+    "date": "2003-01-08 21:51:00"
+}

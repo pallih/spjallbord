@@ -1,0 +1,86 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "833",
+    "title": "Hitinn a örranum",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=833",
+    "posts": [
+        {
+            "user_name": "comon",
+            "text": "veit einhver hvað er eðlilegt hitastig á intel pentium 2,4 (800) minn er yfirleitt á 50 gráðum og system er i kringum 30.\n\n\n\nhvad má vera mikið hitastig á þessum örgjöfum veit það einhver.",
+            "date": "2003-06-05 13:34:00",
+            "post_id": "6351",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "kemiztry",
+            "text": "þetta er eðlilegt... minn 3.06 er í 50° idle ... og svona 60° í loadi",
+            "date": "2003-06-05 16:10:00",
+            "post_id": "6356",
+            "reply_to_id": "6351"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "þessi áttáhundruð tala fyrir aftan, ekki vísar hún í fbus ?ég hélt það væri ekki fáanlegt í 800 ?",
+            "date": "2003-06-05 16:16:00",
+            "post_id": "6358",
+            "reply_to_id": "6356"
+        },
+        {
+            "user_name": "kemiztry",
+            "text": "júbb... tjékkaðu á verðvaktinni.. þar sérðu hvaða örgjörvar eru available í 800FSB",
+            "date": "2003-06-05 17:05:00",
+            "post_id": "6364",
+            "reply_to_id": "6358"
+        },
+        {
+            "user_name": "Castrate",
+            "text": "hmm Intel örgjörvar komnir með svona háa hita?",
+            "date": "2003-06-05 17:24:00",
+            "post_id": "6369",
+            "reply_to_id": "6364"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "hehe minn 450mhz amdk6-2 er oftast í 20°c í loadi en sona 14 idle",
+            "date": "2003-06-05 18:18:00",
+            "post_id": "6373",
+            "reply_to_id": "6369"
+        },
+        {
+            "user_name": "comon",
+            "text": "ég er búinn að vera að leika mér í marga klukkutíma og gráðurnar hækkuðu um 3. reyndar er kassinn opin öðrumegin",
+            "date": "2003-06-05 21:52:00",
+            "post_id": "6389",
+            "reply_to_id": "6373"
+        },
+        {
+            "user_name": "AntonSigur",
+            "text": "Hmm, ég er með 2.4, 800FSB.... \n\nHitinn er fljótur niður í 30° (örri) í idle og mb í 27°\n\nHef ekki náð honum uppfyrir 40° (örranum) mb hiti hækkar nánast ekkert  \n\n\n\n\nEr með retail viftu, sem fylgdi örranum (frá intel)\n\n\n\nEr með þrjár 80mm viftur sem snúast á tæplega hálfum hraða (5 volt) ein blæs inn, tvær út...\n\neina viftu að framan á fullum hraða, sem blæs inn á diskana (milli þeirra) og heldur þeim í frostmarki....\n\n\n\nSvo eru tvær viftur í PSU...\n\n\n\nÞetta virðist ganga upp... samt helvítis læti í þessu dóti öllu!",
+            "date": "2003-06-06 23:38:00",
+            "post_id": "6432",
+            "reply_to_id": "6389"
+        },
+        {
+            "user_name": "Gunnar Dagur",
+            "text": "Minn 2500 xp er 38 gráður í idle og 44 í load og ég bara með eina kassaviftu og en salman vga kælingu sem virkar eins og ofn",
+            "date": "2003-06-22 01:10:00",
+            "post_id": "7084",
+            "reply_to_id": "6432"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Væri þá ekki gott að taka hana úr tölvunni",
+            "date": "2003-06-22 02:26:00",
+            "post_id": "7088",
+            "reply_to_id": "7084"
+        },
+        {
+            "user_name": "Fletch",
+            "text": "guys...  það er hálf futile að bera saman hitastig milli móðurborða, og jafnvel milli mismunandi bios' útgáfa...  (þó svo það geti gefið manni hugmynd...)\n\n\n\nMálið er að það er margar leiðir til að mæla þetta, hitaskynjararnir eru á mismunandi stað, stundum notað on-die skynjarar... etc..\n\n\n\nég hef séð allt að 20°C mun bara að skipta um bios og/eða móðurborð, allir aðrir íhlutir þeir sömu.\n\n\n\nEina leiðin til að bera saman er að vera með hita probe á kæliplötuna eða alveg við örgjörvan....\n\n\n\nFletch",
+            "date": "2003-06-30 22:47:00",
+            "post_id": "7645",
+            "reply_to_id": "7088"
+        }
+    ],
+    "date": "2003-06-05 13:34:00"
+}

@@ -1,0 +1,58 @@
+{
+    "forum_title": "Windows",
+    "id": "23252",
+    "title": "Sé ekki harðandisk í win 7",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=23252",
+    "posts": [
+        {
+            "user_name": "Kobbmeister",
+            "text": "Ég var að formatta harðadiskinn minn og setti upp nýtt partition á hann fyrir stýrikerfið (windows 7)\nÉg formattði diskinn hjá vini mínum og setti nokkra hluti inná það partition sem ég ætlaði ekki að nota fyrir systemið.\nÉg sé diskinn í Disk Management en ekki í computer og það er frekar fúlt að geta ekki notað hin 426GB-in.\nso what can i do?",
+            "date": "2009-05-23 17:34:00",
+            "post_id": "207590",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Hvernig er partitionið? S.s. undir Status tabinu",
+            "date": "2009-05-23 18:09:00",
+            "post_id": "207591",
+            "reply_to_id": "207590"
+        },
+        {
+            "user_name": "Kobbmeister",
+            "text": "þetta?",
+            "date": "2009-05-23 18:13:00",
+            "post_id": "207592",
+            "reply_to_id": "207591"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Er eitthvað merkilegt inná þessu?",
+            "date": "2009-05-23 18:51:00",
+            "post_id": "207595",
+            "reply_to_id": "207592"
+        },
+        {
+            "user_name": "Kobbmeister",
+            "text": "Nei, bara nokkur innstöll af leikjum og forritum\ná ég prófa að formata aftur?\nafþví að ég nenni ekki að búa til nýjan þráð þá ætla ég að spurja hvort að það sé hægt að fá driver sem styður logitech g15? því ég prófaði að ná í af logitech síðunni og hann virkaði ekki\nég naði að redda þvi einhvernveginn",
+            "date": "2009-05-23 19:19:00",
+            "post_id": "207597",
+            "reply_to_id": "207595"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "hægriklikkaðu og farðu í \"Change Drive Letter and Paths...\"",
+            "date": "2009-05-23 22:45:00",
+            "post_id": "207612",
+            "reply_to_id": "207597"
+        },
+        {
+            "user_name": "Kobbmeister",
+            "text": "ok\ntakk þetta virkaði \n \nklaufi ég",
+            "date": "2009-05-24 00:26:00",
+            "post_id": "207617",
+            "reply_to_id": "207612"
+        }
+    ],
+    "date": "2009-05-23 17:34:00"
+}

@@ -1,0 +1,58 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "9823",
+    "title": "Skjárinn verður svartur",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=9823",
+    "posts": [
+        {
+            "user_name": "Seras",
+            "text": "Ég var að spá í hvort þið gætuð nokkuð hjálpað mér að komast að því hvað er að angra tölvuna mína.\n\n\n\nÞegar ég kveikji á tölvunni þá gengur allt eins og á að vera, reyndar er chipset viftan ekki alveg að gera sig ( fer á 50% hraða ). Þegar ég kem inn í tölvuna þá virkar allt á eðlilegum hraða en svo eftir svona 10 - 15 min þá ' slökknar ' á skjánum mínum ( Það kemur upp ' No Signal ' og svo slökknar á skjánum )  og eina leiðinn til þes að laga þetta er að slökkva á tölvunni og bíða í smá stund. Ef ég reyni að kveikja á henni strax þá kveiknar ekki aftur á skjánum. Ég hef prufað að skipta um skjákort drivera, hreinsa vifturnar ( viftan á skjákortinu virkar ) og enn lagast þetta ekki. Var að spá hvort þetta stafi af ófhitnun vegna lélegrar chipset viftu eða er bara skjákortið að gefa sig ? Öll hjálp er vel þegin.\n\n\n\nTakk fyrir.",
+            "date": "2006-01-25 22:02:00",
+            "post_id": "106383",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "zedro",
+            "text": "Búinn að prufa að einfaldlega skipta um skjá?",
+            "date": "2006-01-25 22:41:00",
+            "post_id": "106389",
+            "reply_to_id": "106383"
+        },
+        {
+            "user_name": "Seras",
+            "text": "Auðvitað, þetta er samt nýr 17\" flat skjár þannig það hefði komið mér á óvart ef hann hefði verið að bila. Gæti verið að ofhitnun á chipset dótinu gæti valdið þessu ?",
+            "date": "2006-01-25 22:53:00",
+            "post_id": "106395",
+            "reply_to_id": "106389"
+        },
+        {
+            "user_name": "mind",
+            "text": "Hmmm\n\n\n\nVera viss um að skjárinn sé tengdur við DVI-1.\n\n\n\nHvernig skjákort ertu með og hvernig móðurborð ?\n\n\n\nHver er hitinn á skjákortinu og móðurborðinu ? Ef skjákortið verður of heitt til að halda utan um það þá getur það verið hitavandamál(nema þú sért með high end skjákort). \n\nMóðurborðshitann geturðu séð í BIOS , 34° +/-10 er ekki ólíklegt á því.\n\n\n\nGæti verið orkugjafinn, eitthvað sem þú ert nýlega búinn að bæta í tölvuna ?\n\n\n\nEr mismunandi tími eftir því hvort vélin er að vinna eða ekki ?\n\nAthugaðu tímann sem hún helst uppi í IDLE og svo í fullri vinnslu.",
+            "date": "2006-01-25 23:08:00",
+            "post_id": "106402",
+            "reply_to_id": "106395"
+        },
+        {
+            "user_name": "Seras",
+            "text": "Ég er með AMD Athlon (tm) XP 2500+ og NVIDIA GeForce Ti 4200. Ég hef ekki bætt neinu nýju við í tölvuna, en þetta byrjaði að gerast eftir að ég kom heim með tölvuna ( fór með hana í flug ). Hitastigið var 39, en aftur á móti þá var chipset eða hvað sem það heitir eina sem var of heitt til þess að halda um eftir að það slökknaði á henni, það hefur oftast slökknað á henni meðan ég er í tölvuleik. Þannig að ég er byrjaður að halda að ég þurfi bara nýja viftu, vildi bara vera viss.",
+            "date": "2006-01-25 23:32:00",
+            "post_id": "106410",
+            "reply_to_id": "106402"
+        },
+        {
+            "user_name": "Amything",
+            "text": "Byrjaðu á því að opna hana og hreinsa ryk áður en þú rýkur útí búð, gæti verið nóg.",
+            "date": "2006-01-26 10:12:00",
+            "post_id": "106423",
+            "reply_to_id": "106410"
+        },
+        {
+            "user_name": "Veit Ekki",
+            "text": "Hann sagði að hann hefði hreinsað vifturnar.",
+            "date": "2006-01-26 14:27:00",
+            "post_id": "106442",
+            "reply_to_id": "106423"
+        }
+    ],
+    "date": "2006-01-25 22:02:00"
+}

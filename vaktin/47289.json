@@ -1,0 +1,114 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "47289",
+    "title": "FastScript & WebKiosk- ORION",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=47289",
+    "posts": [
+        {
+            "user_name": "ORION",
+            "text": "WebKiosk\nÞetta er sumsé \"java fullscreen web browser\"\nSmelltu á \"End\" fjórum sinnum til að loka\nHome resetar á forsíðu\nUrlið er hægt að setja í .properties skjal\nEkkert zip skjal hérna, hættið svo þessu veseni\nhttps://github.com/zenonv4/FastScript/t ... r/WebKiosk\nFastScript\nÞetta er hluti af littlu verkefni sem ég ætla að \"githuba\", Búinn að vera með þetta í kollinum svoldið lengi.\nMun heita einhvað rosa töff en þangað til ætla ég að kalla þetta FastScript. Bara einhvað noname nafn\nHugmyndin er að gefa notandanum nokkra hluti\nÞeas leið til að draga hluti til og frá \"canvas\" og exporta sem XML(FastScript)\nJavascript kóða sem er nýttur til að senda XML-RPC Skilaboð til server og fleira.\nog síðan php kóða sem sér um að búa til html útlit útfrá FastScript fæl og taka við xml-rpc beiðnum\nFastScript er bara \"custom\" xml skjal mikið eins og HTML. Sem segir til um hluti staðsetningu þeirra og hvar hluturinn tengist í javascript, #id #class eða onclick\nÞar sem þetta verður að html þá býst ég við að syntaxin verði nauðlíkur venjulegum html\nByrjaði aðeins í dag að pæla í hvernig ég ætla að hafa þetta\nKóði: \nVelja allt\n<fastscript>\n   <window name=\"Sample Container\">\n      <button posx=\"50px\" posy=\"40px\" onclick=\"alert('amen');\" postype=\"relative\">\n         Click for ... but is inside an window\n      </button>\n   </window>\n   <window name=\"Sample Container\" posx=\"50px\" posy=\"40px\" postype=\"absolute\">\n      <button posx=\"50px\" posy=\"40px\" onclick=\"alert('amen');\" postype=\"relative\" >\n         Click for ... but is inside an window\n      </button>\n      <button posx=\"50px\" posy=\"40px\" onclick=\"alert('amen');\" postype=\"relative\">\n         Click for ... but is inside an window\n      </button>\n      <input type=\"textarea\" placeholder=\"Text\" row=\"40\" col=\"40\">Text Value</input>\n   </window>\n</fastscript>\ninní möppuni verður svo líka .js og .php",
+            "date": "2012-04-18 20:08:00",
+            "post_id": "436361",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "appel",
+            "text": "Vil taka það fram að menn downloada þessu á eigin áhættu. ORION er ekki sá áreiðanlegasti til að downloada skrám frá eða skrám sem hann bendir á, sérstaklega þegar engin vefsíða er á þetta, heldur bara zip skrá sem menn svo keyra innihaldið.\nVeit sjálfur ekkert um þetta þannig að ég læt vera að taka út í augnablikinu.",
+            "date": "2012-04-18 21:03:00",
+            "post_id": "436364",
+            "reply_to_id": "436361"
+        },
+        {
+            "user_name": "dori",
+            "text": "Eftir að hafa litið yfir grunnkóðann (eins og Java Decompiler sýnir hann) lítur ekkert út fyrir að vera eitthvað fishy þarna. Bara mjög basic extension á org.eclipse.swt.browser.(Browser|Display|Shell).\nReyndar finnst mér þetta 4x Esc vera undarlega útfært. Ég myndi halda að teljarinn þar ætti að vera núllaður þegar það er ýtt á einhvern annan takka en Esc og jafnvel hafa eitthvað timeout.\nSvo mæli ég með að ef þú vilt fá traust fólks að deila svona með grunnkóðanum með. Og nota síður eins og github eða bitbucket þannig að það sé hægt að fara yfir kóðann áður en maður tekur ákvörðun um að keyra hugbúnaðinn.",
+            "date": "2012-04-18 21:20:00",
+            "post_id": "436365",
+            "reply_to_id": "436364"
+        },
+        {
+            "user_name": "ORION",
+            "text": "Er fólk orðið paranoid hérna appel? *hint hint* \nhttp://www.vb.is/frettir/16306/\nEnn já þetta á alveg rétt á sér, Ég er að reyna rústa tölvunni þinni með java og swt... *jók...*\nhttps://github.com/zenonv4/FastScript/b ... /Main.java\ndel takkin átti að reseta counterinn enn ég asnaðist til að gera +=0.... \nÆtla að uppfæra... nenni ekki að compila...\nÉg á lénið ss9.us , Og  Ég er með wildcard á *.dev.ss9.us,",
+            "date": "2012-04-18 21:37:00",
+            "post_id": "436370",
+            "reply_to_id": "436365"
+        },
+        {
+            "user_name": "ORION",
+            "text": "Mættir alveg fleygja þessu inleggi út. Óþarfi að auglýsa mína fortíð.",
+            "date": "2012-04-18 21:42:00",
+            "post_id": "436371",
+            "reply_to_id": "436370"
+        },
+        {
+            "user_name": "tdog",
+            "text": "Æjj, þú skrifar reglulega hér undir með fullu nafni, það þarf ekki annað en að gúggla þig og þá kemur það rétta í ljós. Þú ættir bara að taka afleiðingum þinna gjörða og hætta vælinu.",
+            "date": "2012-04-18 21:55:00",
+            "post_id": "436372",
+            "reply_to_id": "436371"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Enginn óþarfi að vara fólk við þinni fortíð og vara þau við því að innihald þessarar .zip skrár gætu verið skaðlegar. Þó þú sért að reyna að bæta úr þér og þínum málum þá þurrkast ferill þinn ekki út, og hvað þá bara einn, tveir og bingó.",
+            "date": "2012-04-18 21:57:00",
+            "post_id": "436373",
+            "reply_to_id": "436372"
+        },
+        {
+            "user_name": "ORION",
+            "text": "Hvaða zip lífshættulega zip skjals? Þú meinar þá zip skjalið sem innihélt 3 fæla þar af 2 jar, sem GÆTU verið skaðlegir bara afþví þetta er ég.\nÉg skal senda inn kóðan hér á eftir og ég leyfi þér að dæma um þennan \"íllan\" og skaðlega tilgang jar fælsins, Finnur kanski einhvað tengt heimsyfirráðum þar.\nBara sorry enn ég nenni ekki að trítla á tánum í kringum ykkur.\nKóði: \nVelja allt\npackage com.RMK.MonTool;\nimport java.io.FileInputStream;\nimport java.io.IOException;\nimport java.util.Properties;\nimport org.eclipse.swt.*;\nimport org.eclipse.swt.layout.*;\nimport org.eclipse.swt.widgets.*;\nimport org.eclipse.swt.browser.*;\nimport org.eclipse.swt.events.KeyAdapter;\nimport org.eclipse.swt.events.KeyEvent;\npublic class Main {\n   static Display display = new Display();\n   final static Shell shell = new Shell(display,SWT.ON_TOP | SWT.NO_TRIM | SWT.NO_SCROLL);\n   final static Browser browser = new Browser(shell, SWT.NO_SCROLL);\n   static Properties WebProps = new Properties();\n   public static void main(String[] args) throws IOException {\n      // create and load default properties\n      \n      FileInputStream in = new FileInputStream(\"Web.properties\");\n      WebProps.load(in);\n      in.close();\n      FillLayout fillLayout = new FillLayout();\n      fillLayout.type = SWT.VERTICAL;\n      shell.setLayout(fillLayout);\n      shell.setMaximized(true);\n      shell.setBounds(Display.getDefault().getPrimaryMonitor().getBounds());\n      shell.open();\n      browser.addKeyListener(new KeyAdapter() {\n         private int keynum;\n         public void keyPressed(KeyEvent e) {\n            if (e.keyCode == SWT.END)\n            {\n               keynum += 1;\n               if(keynum == 4)\n               {\n                  Main.shell.close();\n               }\n            }\n            if (e.keyCode == SWT.DEL)\n            {\n               keynum += 0;\n            }\n            if (e.keyCode == SWT.HOME)\n            {\n               Main.this.browser.setUrl(WebProps.getProperty(\"url\"));\n            }\n         }\n      });\n      browser.setUrl(WebProps.getProperty(\"url\"));\n      while (!shell.isDisposed()) {\n         if (!display.readAndDispatch())\n            display.sleep();\n      }\n      display.dispose();\n   }\n}",
+            "date": "2012-04-18 22:14:00",
+            "post_id": "436377",
+            "reply_to_id": "436373"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Ég myndi reyndar vona að það kæmi álíka viðvörun við öllum forritum sem eru send hingað inn og eru ekki í almennri dreifingu (almenn dreifing er pínulítil vörn gegn misnotkun). \nÍ sérstaklega þessu tilfelli á þessi gagnrýni vel rétt á sér, alveg sama hvað skjalið þitt inniheldur. Ég persónulega hefði frekar þegið code-hub aðgang að kóðanum þínum, sem og lýsingu á hvað hann gerði og hver ef einhver trix væru þarna á ferðinni. Annars er þetta bara \"ég fann kóða á netinu og compilaði hann\", s.s. frekar óspennandi. Hitt væri þó til að skapa umræðu og fyrir alla til að læra á.\nViðbót:\nNotaðu code tagið, plííís. eða setja þetta á github/eitthvað online repository (það er svo pró \n )",
+            "date": "2012-04-18 22:17:00",
+            "post_id": "436378",
+            "reply_to_id": "436377"
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "viewtopic.php?f=9&t=47206&st=0&sk=t&sd=a&hilit=k%C3%A6ru\n4 dagar er nú ekki það mikil fortíð.",
+            "date": "2012-04-18 22:26:00",
+            "post_id": "436380",
+            "reply_to_id": "436378"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Hvað nákvæmlega við þessa lýsingu á skránni á að láta manni líða betur? \nÞað að þetta eru \nbara \n3 fælar, ekki fleiri, og að þetta hafi \nbara \nverið .jar, sem að getur verið notað til að downloada og sækja hverju sem er laumulega?\nEkki beint mesta hughreystingin.",
+            "date": "2012-04-18 22:28:00",
+            "post_id": "436382",
+            "reply_to_id": "436380"
+        },
+        {
+            "user_name": "ORION",
+            "text": "Heyrðu ég nenni ekki að þræta þetta við þig enn og aftur þannig að já ég er sekur!\nÞetta skjal nær í \nhttp://google.com/\n og birtir hana, google er jú hinn alversti vírus og það hreinlega blæðir úr þeim sem líta á hana augun",
+            "date": "2012-04-18 22:32:00",
+            "post_id": "436386",
+            "reply_to_id": "436382"
+        },
+        {
+            "user_name": "ORION",
+            "text": "https://github.com/zenonv4/FastScript/t ... r/WebKiosk\nÞetta er komið inná github hitt var bara sett inn útaf pirring... 1.2.3.4.5.6.7.8.9.10",
+            "date": "2012-04-18 22:33:00",
+            "post_id": "436387",
+            "reply_to_id": "436386"
+        },
+        {
+            "user_name": "dori",
+            "text": "Það er náttúrulega hægt að gera allskonar með Java. T.d. gætirðu haft einhverja línu þarna sem sækir og setur upp malware á tölvunni. Gert tölvur þeirra sem keyra þetta að þrælum. Þá þyrfti þetta samt að vera eitthvað áhugaverðara forrit en kiosk vafra... En samt.",
+            "date": "2012-04-18 22:37:00",
+            "post_id": "436391",
+            "reply_to_id": "436387"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Open source er lausnin",
+            "date": "2012-04-19 01:46:00",
+            "post_id": "436424",
+            "reply_to_id": "436391"
+        }
+    ],
+    "date": "2012-04-18 20:08:00"
+}

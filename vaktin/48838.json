@@ -1,0 +1,191 @@
+{
+    "forum_title": "Leikjasalurinn",
+    "id": "48838",
+    "title": "PS3 sem media server",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=14&t=48838",
+    "posts": [
+        {
+            "user_name": "beggi90",
+            "text": "Sælir,\nEr með ps3 sem var búinn að sitja uppí hillu í langan tíma þar sem hún er með ónýtt geisladrif.\nÆtlaði að nýta hana sem media server og setja upp \nshowtime\n til að sjá um þetta en sé að ég þarf að jailbreaka vélina mína í það.\nVandamálið er að ég er með v. 4.11 og þetta virðist ekki vera hægt nema með 3.55 sem virðist vera basl að downgrade-a í.\nEr ég algjörlega fcked, önnur lausn?",
+            "date": "2012-07-06 23:05:00",
+            "post_id": "452238",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "worghal",
+            "text": "ég hef notað þetta með góðum árangri\nhttp://www.ps3mediaserver.org/\nen sumir hafa lennt í vandræðum með þetta",
+            "date": "2012-07-06 23:10:00",
+            "post_id": "452241",
+            "reply_to_id": "452238"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Tversity og PS3 media server eru báðir góðir skilst mér.\nÆttir að fá bara upp shared möppu og tversity eða ps3 media server sér um að encode-a skrárnar ef ps3 styður ekki það sem þú ert að reyna að opna",
+            "date": "2012-07-06 23:12:00",
+            "post_id": "452242",
+            "reply_to_id": "452241"
+        },
+        {
+            "user_name": "beggi90",
+            "text": "Prófa þetta, finnst samt leiðinlegt að vera læstur fyrir utan minn eigin vélbúnað.",
+            "date": "2012-07-06 23:26:00",
+            "post_id": "452243",
+            "reply_to_id": "452242"
+        },
+        {
+            "user_name": "Akumo",
+            "text": "Ps3 media server er tær snilld, hef notað það mikið .",
+            "date": "2012-07-06 23:40:00",
+            "post_id": "452244",
+            "reply_to_id": "452243"
+        },
+        {
+            "user_name": "beggi90",
+            "text": "Málið er að ég vil helst ekki keyra þetta svona ég vil helst ekki þurfa að setja ps3 media server á allar vélar sem vilja deila eitthverju þarna yfir.",
+            "date": "2012-07-06 23:46:00",
+            "post_id": "452246",
+            "reply_to_id": "452244"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Þarft hvorteðer að gera það, tölvurnar vita ekkert hvaða möppum þú ætlar að share-a á playstation.\nErt enga stund að setja þetta upp og það stillir firewall í tölvunni og fleira",
+            "date": "2012-07-06 23:50:00",
+            "post_id": "452247",
+            "reply_to_id": "452246"
+        },
+        {
+            "user_name": "dori",
+            "text": "Ekki að ég viti alveg um þetta setup en við erum samt að tala um að það er innbyggt í Windows að deila hlutum og flestir setja það upp til að deila myndum og þáttum sem þeir eru með. Að setja upp einhvern media server til að gera það hljómar svolítið mikið eins og extra skref.",
+            "date": "2012-07-07 00:11:00",
+            "post_id": "452253",
+            "reply_to_id": "452247"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Já en Windows encode-ar ekki avi file-a til að spila í Playstation tölvum eða neitt slíkt. Og windows deilir ekki möppum nema þú segir því að gera það, ekki nema hann geymi öll gögnin sín í shared möppunni í tölvunni.",
+            "date": "2012-07-07 00:30:00",
+            "post_id": "452256",
+            "reply_to_id": "452253"
+        },
+        {
+            "user_name": "dori",
+            "text": "Mér sýnist það sem hann var að biðja um einmitt vera spilari sem keyrir á PS3 tölvunni og þarf ekki einhverja aðra tölvu til að transkóða allt. Ég gæti verið að misskilja eitthvað samt.\nFrekar fyndið að tölva sem getur spilað bluray myndir þurfi að hafa aðra tölvu til að transkóða allt...",
+            "date": "2012-07-07 01:14:00",
+            "post_id": "452259",
+            "reply_to_id": "452256"
+        },
+        {
+            "user_name": "beggi90",
+            "text": "ps3media server er þá kominn á torrent/file serverinn.\nLausn sem mér finnst ekki skemmtileg en verður að duga núna.",
+            "date": "2012-07-07 02:22:00",
+            "post_id": "452265",
+            "reply_to_id": "452259"
+        },
+        {
+            "user_name": "arons4",
+            "text": "PS3 spilar ekki nærrum því öll helstu file formats, en ps3mediaserver reddar flest öllum með transkóðun, eins fullt af sniðugu dóti sem kemur með því.",
+            "date": "2012-07-07 09:03:00",
+            "post_id": "452269",
+            "reply_to_id": "452265"
+        },
+        {
+            "user_name": "krat",
+            "text": "skal kaupa ps3 vélina á 20þús",
+            "date": "2012-07-07 13:19:00",
+            "post_id": "452285",
+            "reply_to_id": "452269"
+        },
+        {
+            "user_name": "codec",
+            "text": "ps3 er ágætt sem media player og virkar fínt með ps3mediaserver.   \nEn mér finnst reyndar sárlega vanta \"play to\" fídus í PS3.   Það er að segja að þeir útfæri dlna að fullu, þar með talið renderer hlutverkið, þannig að maður gæti \"fjarstýrt\" t.d. frá tölvu, tablet eða snjallsíma.   \nEinnig vantar almennilegt youtube app í ps3 ef það á að notast sem media player.   Hreint með ólíkindum að maður fær bara einhvern afbakaðan 240p straum frá youtube á ps3 vélina sem er oftast tengd við stærsta skjáinn í húsinu \n .  Maður getur fengið HD á frakking síma í dag, og þeir meira að segja gáfu út youtube app sem ræður vi HD  á Vita handtölvuna en ekki á ps3.  Ég vill auðvitað fá youtube í 1080 á stærsta skjáinn.     Mitt mat er að það eru fávitar sem stjórna hjá Sony.\nSony virðast með allt niðri um sig þessi misserin taka frekar út fídusa en bæta við og Microsoft (xbox) er að gíra sig í að  taka þá alveg í ***** á console markaðnum  sbr. Smart Glass ofl.\nBið  ykkur að afsaka rantið en ég er frekar pirraður út í Sony og þeirra getuleysi á svo mörgum sviðum, svo sem eins og PSN klúðrið í fyrra t.d. ég verð bara  \n  og svo  \n .",
+            "date": "2012-07-07 13:53:00",
+            "post_id": "452287",
+            "reply_to_id": "452285"
+        },
+        {
+            "user_name": "worghal",
+            "text": "afsakið, en nei, microsoft \"kinect everything\" er ekki að fara að vinna þetta core gaming sem sony er búið að koma upp, og það er það sem consoles snúast um, leiki.\nþetta eru fyrst og fremst leikjatölvur með þann bónus að geta spilað bíómyndir, þætti og að getað vafrað á netinu. og einhverra hluta vegna eru microsoft að einbeita sér of mikið að þessum parti frekar en leikjunum, td. þá hefur sony tekið microsoft í þurrann afturendann á E3 á síðustu árum.\neinnig með þetta psn \"klúður\" þá var nintendo líka hakkað, steam, bethesda og fleyri. hverjum ætlaru að treysta ?\nen hinsvegar þá er youtube á ps3 mjög ábótavant, þetta er bara browserinn í einhverskonar \"m.youtube.com mode\" sem sökkar.\nen svona on topic, þá finnst mér PS3 media server alger snilld og hefur virkað í allt sem ég ætlast til af því",
+            "date": "2012-07-07 14:36:00",
+            "post_id": "452289",
+            "reply_to_id": "452287"
+        },
+        {
+            "user_name": "codec",
+            "text": "Þessi þráður fjallaði auðvitað um PS3 sem media player og því commantaði ég út frá því.  Jú allir geta lent í því að vera hakkaðir en fáir eða engir með þvíkíkum afleiðingum og PSN.  Það er ekki hægt að fegra það eitthvað, þetta var epic fokkup sem kostaði þá milljónir dollara.  Sony sjálfir meta tjónið á minnst 170milljónir dollara, en það er mat sem kom fram í maí 2011 og þá voru líklega ekki öll kurl komin til grafar.   Aðrir hafa metið tapið mun hærra og taka þá ýmislegt annað með í reikninginn s.s. eins og viðskiptavild, trúverðugleika og eitthvað þess háttar.  Líklega er ómögulegt að meta þetta nákvæmlega.   \nÉg vona innilega að Sony taki sig saman í andlitinu og hysji upp um sig því það er gott fyrir okkkur neytendur ef samkeppnin er sterk.  Vonandi tekur nýr CEO þá fram á við og geri betur en forverar sínir undanfarið.",
+            "date": "2012-07-07 15:19:00",
+            "post_id": "452293",
+            "reply_to_id": "452289"
+        },
+        {
+            "user_name": "beggi90",
+            "text": "Til að fara aftur á topic þá er ps3mediaserver uppsettur, ég er búinn að prófa að horfa á nokkra þætti og hljóðið dettur úr sync í ákveðnum þáttum sem virka fullkomlega í borðtölvunni.\nFrekar ósáttur með þetta svo ég er að leita að annari lausn.\n@ Krat\nÉg skal íhuga það.\nBara svo þú vitir það þá er þetta 40Gb fat USA útgáfan.",
+            "date": "2012-07-07 17:05:00",
+            "post_id": "452308",
+            "reply_to_id": "452293"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Prófaðu Tversity, virkar hörkuvel fyrir mig með mína Xbox og félaga minn sem á Playstation 3. Minnir meira að segja að PS3 hans hafi staðið sig betur en xboxið mitt",
+            "date": "2012-07-07 19:12:00",
+            "post_id": "452328",
+            "reply_to_id": "452308"
+        },
+        {
+            "user_name": "worghal",
+            "text": "Ertu á wifi eða vír ?",
+            "date": "2012-07-08 16:50:00",
+            "post_id": "452428",
+            "reply_to_id": "452328"
+        },
+        {
+            "user_name": "beggi90",
+            "text": "Ps3 er tengd með wifi.\nSamt alltaf sömu þættir sem hafa hegðað sér undarlega.",
+            "date": "2012-07-08 16:54:00",
+            "post_id": "452429",
+            "reply_to_id": "452428"
+        },
+        {
+            "user_name": "worghal",
+            "text": "já það er vandamálið, ég hef alltaf verið með mína á vír en heyrt frá öðrum að wifi sé ekki allveg að gera sig.",
+            "date": "2012-07-08 16:55:00",
+            "post_id": "452430",
+            "reply_to_id": "452429"
+        },
+        {
+            "user_name": "valdij",
+            "text": "Ég hef notað PS3 media server í töluverðan tíma bæði á Wi-fi og með snúru. Allt gengið mjög smurt þrátt fyrir að hafa verið að streyma 720p í gegnum Wi-Fi.\nHinsvegar finnst mér vera einn risastór galli á PS3 Media server sem er ástæðan fyrir að ég er nær alveg hættur að nota þetta: PS3 media server getur ekki lesið textaskrár. Ég er orðinn algjört texta-skráa snobb. Vil hafa enskan texta á öllum þáttum/myndum sem ég sæki. Finnst það svo miklu þægilegra, þá þarf maður ekki vera með hljóðið alltaf tiltölulega hátt stillt til að heyra.\nVonandi kemur update eða álíka sem lagar þetta. Eina sem vantar til að gera þetta að alveg frábæru apparati.",
+            "date": "2012-07-08 17:04:00",
+            "post_id": "452432",
+            "reply_to_id": "452430"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "PSM styður texta skrár.",
+            "date": "2012-07-08 19:29:00",
+            "post_id": "452455",
+            "reply_to_id": "452432"
+        },
+        {
+            "user_name": "valdij",
+            "text": "Hmm,\nGefið það er rétt rúmlega 1 ár síðan ég notaði síðast PS3 media server, en þá gat hann ekki lesið .srt skrár. Þó að nöfnin voru sú sömu, t.d. Heat.avi og svo önnur skrá sem Heat.srt\nBreyttist eitthvað á þessu ári þannig að PS media server les núna .srt skrár með myndunum? Ég er allavega nokkuð viss það gerði það allavega ekki",
+            "date": "2012-07-08 20:20:00",
+            "post_id": "452458",
+            "reply_to_id": "452455"
+        },
+        {
+            "user_name": "beggi90",
+            "text": "Srsly not cool... You guys... I'm srsly.",
+            "date": "2012-07-09 00:38:00",
+            "post_id": "452535",
+            "reply_to_id": "452458"
+        },
+        {
+            "user_name": "worghal",
+            "text": "æ fuck, gleymdi að þú ert með usa ps3  \n \ncinavia er ekki á eu ps3",
+            "date": "2012-07-09 01:00:00",
+            "post_id": "452540",
+            "reply_to_id": false
+        }
+    ],
+    "date": "2012-07-09 01:00:00"
+}

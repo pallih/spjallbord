@@ -1,0 +1,79 @@
+{
+    "forum_title": "Yfirklukkun, hraðaprófanir og mods",
+    "id": "31233",
+    "title": "Unlocked Phenom II X2 555BE í X4 B55 + H50",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=1&t=31233",
+    "posts": [
+        {
+            "user_name": "Zpand3x",
+            "text": "... Update \n \n19. september 2010\nÞar sem ég er kominn með þessa fínu H50 kælingu og fallegan plexi kassa þá á ég ekkert eftir nema að overclocka helvítið \n \nEr ekki alger overclock snillingur en er búinn að læra helvíti mikið núna um helgina. Var með core volt frekar hátt til að byrja með 1,5 -1,5250 og prófaði 3,2-3,7 mhz og tók 15 mínútna prime 95 á það.. bara til að fá tölur fyrir kælinguna. Gat samt ekki bootað nema að fail-a einusinni fara í BIOS og breyta engu og save and reboot og komst þá í OS. Fattaði svo að ég væri að gera eitthvað vitlaust.\n--ATH þetta graf sýnir hita þar sem voltin eru hærri en þau þurfa að vera .. en á móti er þetta bara prime95 í 15 mín.\n \n Var búinn að sjá að örgjörfinn var góður í alla kjarna og fór að google-a ram settings. Þetta á undann hafði allt verið auto settings á ramið og cpu-id sagði 1333 mhz 8-8-8-24-1T rsum. Byrjaði illa en endaði (er ekki hættur samt) í 1600mhz 8-7-7-24-26-1T og með CPUNB freq í 2400 mhz, CPUNB (V) í 1,2750 V, CPU í 3,6 ghz (240x15) VCPU: 1,4750 V.\nEr búinn að prófa með LinX 20 passed. \ntek Prime95 á eftir\n. \nStress prófaði með large fft í 1,5 klst ... stable í 49°C\n \nog ég boota í OS beint án vesens.\nog btw win7 expirience score farið upp í cpu 7,4 og ram 7,6.. stefni á 7,7 ram  \n---------------------------------------------------------\nOriginal post\n--------------------------------------------------------------------\nJæja .. langaði að deila með ykkur missioninu mínu, þ.e. að fá ódýra quad core ddr3 tölvu með því að unlocka 550 BE eða 555 BE. Ætla ekki að overclocka fyrr en ég fæ nýju vatnskælinguna mína þannig þetta er allt gert á stock kælingu.\nKeypti móðurborðið og örgjörfan hjá Buy.is, upphaflega átti þetta að vera 550 BE örrgjörfi en Friðjón kallinn pantaði 550 (non-blackedition) svo ég var með hann í viku og fékk 555BE í staðinn í dag. Vinnsluminnið keypti ég af daanielin hér á vaktinni \nAsus M4A79XTD EVO : 23.990 kr\nAMD Phenom II X2 555BE : 18.990 kr. (stock kæling, so far)\nGeil Ultra 2x2GB PC3-17000 2133 mhz : 22.000 kr frá daanielin (kostar víst 27.900 kr nýtt hjá kísildal \n)\nGeforce 9800 GX2 : 14.000 kr á vaktinni\nSetti nýja 555 BE í tölvuna eftir að ég var búinn að skila 550 og kveiki á tölvunni.. restarta svo og þegar niðri fyrir ofan bios message-ið stendur \n\" Press 4 to unlock quad cores\". Ég ýti á \"4\" og tölvan slekkur á sér og kveikir með no display.. ég slekk með því að halda inni powerbutton og kveiki aftur. \nBoom!! hjá bios messageinu stendur nú \"---Quad cores unlocked---\" og ég boota í windows og þar eru 4 kjarnar og ég beðinn að restarta því að new divice has been installed, \"AMD Phenom(tm) II X4 B55 Processor\" restarta og allt í gúddý \nÞökk sé nýju móðurborðunum frá Asus er NP að unlocka 550BE og 555BE \nHitamunur á 2 vs 4 cores er idle: 26 °C X2, 34 °C X4 unlocked\nÍ stess testi í prime95 þá ef  var X2 ca. 40 - 45 °C eftir 30 mín  en í X4 þá stoppaði ég þetta í 50°C eftir 5 mín.\nEr helvíti sáttur .. hlakka til að far aað overclocka í seinnihluta ágúst með Heatkiller 3.0 AM3 kælikubb, Swiftech MCR220 vatnskassa, og dangerden  Danger Den DDC Acrylic Top pumpu \nHér er windows experience  fyrir:\nEftir:\nskjákorta einkunin hækkaði þar sem ég update-aði driver",
+            "date": "2010-07-12 20:34:00",
+            "post_id": "271522",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "ZoRzEr",
+            "text": "Cool story bro! \nEn í fullri alvöru. Þetta var aðeins of auðvelt \n Verður svo að posta myndum af vantskælingunni og kassanum þegar það kemur og posta stress test hitatölum.\nTil hamingju með \"quad\" core'inn",
+            "date": "2010-07-12 20:38:00",
+            "post_id": "271523",
+            "reply_to_id": "271522"
+        },
+        {
+            "user_name": "KrissiK",
+            "text": "THUMBS UP!",
+            "date": "2010-07-12 20:43:00",
+            "post_id": "271524",
+            "reply_to_id": "271523"
+        },
+        {
+            "user_name": "Zpand3x",
+            "text": "Takk:P\nGat varla beðið eftir að posta þessu \n er búinn að bæta við windows experience fyrir og eftir",
+            "date": "2010-07-12 20:49:00",
+            "post_id": "271525",
+            "reply_to_id": "271524"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Hef keypt mér 3 x 550 bara í þeim tilgangi að unlocka og yfirklukka, allir hafa aflæsts og fór sá hæsti í 4.1 GHz og sá lægsti í 3.2GHz, samt sem áður, Quad Core á undir 20.000kr er no brainer..",
+            "date": "2010-07-12 20:58:00",
+            "post_id": "271527",
+            "reply_to_id": "271525"
+        },
+        {
+            "user_name": "Zpand3x",
+            "text": "tékka líka scorið á X4 B55 miðað við hina quad frá AMD \n hann er betri en t.d X4 955\nhttp://www.cpubenchmark.net/cpu_lookup. ... +II+X4+B55",
+            "date": "2010-07-12 21:01:00",
+            "post_id": "271528",
+            "reply_to_id": "271527"
+        },
+        {
+            "user_name": "mercury",
+            "text": "Bara snilld þetta",
+            "date": "2010-07-12 21:20:00",
+            "post_id": "271534",
+            "reply_to_id": "271528"
+        },
+        {
+            "user_name": "Zpand3x",
+            "text": "update \n stable overclock .. CPU 3,6 ghz (240x15) @1,475V, RAM 1600 mhz 8-7-7-24-1T @ 1,56V , CPUNB 2400;MHz @ 1,275V, HT 1920 MHz",
+            "date": "2010-09-19 10:11:00",
+            "post_id": "282806",
+            "reply_to_id": "271534"
+        },
+        {
+            "user_name": "Zpand3x",
+            "text": "Hafði lesið að asus borðið mitt geti ekki farið í cl 7 en það var víst eldri bios .. er með þann sem kom út eftir að x6 1090T kom, búið að fixa það.\nsetti minnið í 7-7-7-24-26 og allt í góðu \n stable",
+            "date": "2010-09-20 18:57:00",
+            "post_id": "283130",
+            "reply_to_id": "282806"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Fýletta! Væri samt til í fleiri pics af setupinu og reyndu að vinna NB aðeins meira upp, 2.6-2.8 GHz ef þú ætlar að hafa örgjörvan svona hraðan + vinnsluminnið svona hratt (mv. low timings). Að örðu leiti lúkkar þetta vel!",
+            "date": "2010-09-20 19:05:00",
+            "post_id": "283134",
+            "reply_to_id": "283130"
+        }
+    ],
+    "date": "2010-07-12 20:34:00"
+}

@@ -1,0 +1,79 @@
+{
+    "forum_title": "Koníakstofan",
+    "id": "53309",
+    "title": "Tölvupóstur frá \"Símanum\"",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=9&t=53309",
+    "posts": [
+        {
+            "user_name": "Guðni Massi",
+            "text": "Fékk tölvupóst frá \"Símanum\"\nBeindi mér inn á þennan link: \nhttp://www.foi.it/media/system/siminn.htm\n seems legit, right?",
+            "date": "2013-02-09 13:50:00",
+            "post_id": "494457",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Tiger",
+            "text": "http://www.mbl.is/frettir/innlent/2013/02/09/varad_vid_svindlposti/",
+            "date": "2013-02-09 13:59:00",
+            "post_id": "494459",
+            "reply_to_id": "494457"
+        },
+        {
+            "user_name": "rango",
+            "text": "Afar skemmtilegt mál, Póstar á zodiac.killer.php or einfalt google gefur mér hundruð svona phising á phistank sem er síða gegn þessu stutt af opendns.\nAugun í mér gráta við að lesa kóðan, T.d. \nKóði: \nVelja allt\n<input type=\"submit\" name=\"cancel\" value=\"Hætta\" alt=\"Hætta\" border=\"0\" 3dsinput=\"cancel\" 3dslabel=\"Avbryt\" class=\"cbtn\">\nOg af einhverjum ástæðum eru chrome extension scriptur í sjálfum kóðanum.\nKóði: \nVelja allt\n<script src=\"chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl/document_iterator.js\"></script>\nÞess má geta að þeir eru að linka á nokkrar myndir frá símanum, Fallegt að þeim að setja nocache parameter þarna. Getið mögulega haft uppá þeim íslendingum sem fóru á síðuna í gegnum acces.log\nKóði: \nVelja allt\nhttp://static.siminn.is/siminn/r4/i/siminn-logo.gif?040711\nHérna er google leitar niðurstaðan,\nhttps://www.google.is/search?q=zodiac.k ... shtank.com\nAð auki er þetta í hausnum.\nKóði: \nVelja allt\n<!-- saved from url=(0039)https://acs1.swedbank.se/mdpayacs/pareq -->\nOg zodiac.killer.php sendir mig á \nKóði: \nVelja allt\nhttps://internetbank.swedbank.se/idp/portal",
+            "date": "2013-02-09 21:13:00",
+            "post_id": "494529",
+            "reply_to_id": "494459"
+        },
+        {
+            "user_name": "Stuffz",
+            "text": "Hvernig ætli viðkomandi hafi fari að því að komast yfir þessar contact upplýsingar viðskiptavina Símans?\neða var þetta sent á random íslensk vefföng?",
+            "date": "2013-02-10 16:43:00",
+            "post_id": "494615",
+            "reply_to_id": "494529"
+        },
+        {
+            "user_name": "urban",
+            "text": "Allavega all nokkrir hjá öðrum símafélögu sem að hafa fengið svona email.",
+            "date": "2013-02-10 16:51:00",
+            "post_id": "494617",
+            "reply_to_id": "494615"
+        },
+        {
+            "user_name": "Stuffz",
+            "text": "nú þá er þetta meira svona random.\nhvað ef maður hefði upplýsingar um hverjir þetta væru, hvert er hægt að senda svoleiðis?\neða er nokkuð hægt að gera",
+            "date": "2013-02-10 16:57:00",
+            "post_id": "494619",
+            "reply_to_id": "494617"
+        },
+        {
+            "user_name": "rango",
+            "text": "Veistu einhvað sem við vitum ekki? \n \nSenda bara á lögregluna?\nhttp://www.logreglan.is/contact.asp?cat_id=204&emb=rls",
+            "date": "2013-02-10 17:02:00",
+            "post_id": "494620",
+            "reply_to_id": "494619"
+        },
+        {
+            "user_name": "hkr",
+            "text": "Frekar einfalt að verða sér út um script sem rennur í gegnum google, bing, linkedin o.fl. síður og leitar af email addressum sem enda á \"simnet.is\" eða hvað sem er.\nFékk rúmlega 100 emails með því að nota eitt slíkt script á \"simnet.is\".\nSvo er líka spurning hversu öruggur smtp serverinn hjá símanum, t.d. ef það sé hægt að senda query hvort að viss e-mail address sé til að þá er einfalt að bruteforca nokkru hundruð email addressur þannig.",
+            "date": "2013-02-10 18:57:00",
+            "post_id": "494634",
+            "reply_to_id": "494620"
+        },
+        {
+            "user_name": "Stuffz",
+            "text": "nei\nbara spá í ef þær upplýsingar lægu á hreinu þá hvaða meðulum er hægt að beita, eru nokkurn tímann erlendar árásir upplýstar, þessu er alltaf kennt uppá kínveska eða rússneska hackera eða eitthverja austantjalds mafíu, eru það ekki þessir klassísku eða gleymdi ég eitthverju fleirum?\nErum við hér á vesturlöndum svona mikið Ethical að enginn hérna gerir svona lagað, ég meina og vonandi er þetta rangt ályktað hjá mér en er ekki alltaf verið að klína svonalöguðu á núverandi eða fyrrverandi kommúnistaríki í okkar vesturlanda pressunni.\nNáttúrulega það segir sig sjálft að ef að Kalli vill ráðast á heimasíðuna hjá Lalla þá fer hann í gegnum eitthverjar IP erlendis og svo fakar hann eitthvað lélega íslensku og/eða eitthvern Rússneskt attitude/áróður og svo er ekkert gert afþví allir halda að gaurinn sé eitthver hinumegin á hnettinum, bara svona að spá..",
+            "date": "2013-02-10 23:28:00",
+            "post_id": "494690",
+            "reply_to_id": "494634"
+        },
+        {
+            "user_name": "rango",
+            "text": "Ég er allavega ekkert svakalega ethical og ég er á íslandi  \n . Enn ég held að vandamálið sé að þetta er of mikið s.s. all of mikið af svindlurum og ekki nærri því nóg af löggum í þessu.\nSvo er jafnvel spurning um lög og breytingar á netinu til að auðvelda lögreglu að ná þessum gaurum.\nSvona eins og ef að á morgun myndu 5000 mans byrja að brjótast inní íbúðir og ruppla og ræna.",
+            "date": "2013-02-10 23:57:00",
+            "post_id": "494693",
+            "reply_to_id": "494690"
+        }
+    ],
+    "date": "2013-02-09 13:50:00"
+}

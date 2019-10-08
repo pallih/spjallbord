@@ -1,0 +1,163 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "67457",
+    "title": "Rosalegt fps drop",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=67457",
+    "posts": [
+        {
+            "user_name": "Dabbi0303",
+            "text": "Hæhæ. \nÉg er með tölvu sem ég keypti fyrir stuttu og hún er eitthvað erfið þegar ég er að spila leiki og ég fæ massíft framedrop.  Í tildæmis counter strike þá flakkar hann á milli 300fps og alveg niður í 9fps. Var að pæla hvort þið vissuð hvað þetta væri\nFull Specs:\nTurn: \nThermaltake Chase A21\nMobo: \nGigabyte s1151 ga-z170-HD3P\nCpu: \nI5 6600k\nKæling: \nFractal Design Kelvin T12\nGpu: \nGigabyte gtx 970 oc\nRam: \n8GB ddr4 2400Mhz\nAflgjafi: \nThermaltake Berlin 630w 80 plus bronze\nÞegar ég athuga í processes þá er CPU í 12-14% og memory í 50-70% \nÁ vinnsluminnið að geta haft þessi áhrif?",
+            "date": "2015-11-07 13:46:00",
+            "post_id": "610360",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "worghal",
+            "text": "ertu með nýjustu drivera?",
+            "date": "2015-11-07 14:27:00",
+            "post_id": "610363",
+            "reply_to_id": "610360"
+        },
+        {
+            "user_name": "Dabbi0303",
+            "text": "Jubb",
+            "date": "2015-11-07 14:50:00",
+            "post_id": "610364",
+            "reply_to_id": "610363"
+        },
+        {
+            "user_name": "mercury",
+            "text": "eina sem mig dettur i hug er að hún sé að ofhnitna. cpu eða gpu og hún keyri sig niður til að ná að kæla sig. náðu í hwmonitor eða álíka forrit og fylgstu með hitanum næst þegar þú spilar.",
+            "date": "2015-11-07 14:55:00",
+            "post_id": "610365",
+            "reply_to_id": "610364"
+        },
+        {
+            "user_name": "Dabbi0303",
+            "text": "Geri það.  Takk",
+            "date": "2015-11-07 14:58:00",
+            "post_id": "610366",
+            "reply_to_id": "610365"
+        },
+        {
+            "user_name": "Dabbi0303",
+            "text": "Eftir að hafa spilað 2 deathmatch í cs þá ef CPU í 98°C\nHvað get ég gert til að fá þá tölu undir 60°C? \nEr með vökvakælingu sem slapp smá vökvi útaf en ég fyllti á hann aftur",
+            "date": "2015-11-07 22:39:00",
+            "post_id": "610398",
+            "reply_to_id": "610366"
+        },
+        {
+            "user_name": "mercury",
+            "text": "Kvernig kæling er thad?\nAnnadkvort er kælingin onyt eda situr ekki rett a cpu",
+            "date": "2015-11-07 23:03:00",
+            "post_id": "610399",
+            "reply_to_id": "610398"
+        },
+        {
+            "user_name": "Dabbi0303",
+            "text": "Fractal Design Kelvin T12. Ætla að athuga hvort þetta sé ekki örugglega rétt fest",
+            "date": "2015-11-07 23:50:00",
+            "post_id": "610400",
+            "reply_to_id": "610399"
+        },
+        {
+            "user_name": "DJOli",
+            "text": "Ég held að vökvakælingin hjá þér sé bara að feila. i5 6600k á ekki að vera yfir 70°c undir fullu álagi.",
+            "date": "2015-11-08 02:33:00",
+            "post_id": "610406",
+            "reply_to_id": "610400"
+        },
+        {
+            "user_name": "htmlrulezd000d",
+            "text": "ef þú villt ekki eyðinleggja örgjörvan þá myndi ég fara og redda kælingunni, 100 gráður er of heitt og hitinn er greinilega ekki að leiðast",
+            "date": "2015-11-08 03:19:00",
+            "post_id": "610408",
+            "reply_to_id": "610406"
+        },
+        {
+            "user_name": "Dabbi0303",
+            "text": "Einhver sérstök kæling sem þið mælið með?",
+            "date": "2015-11-08 11:28:00",
+            "post_id": "610412",
+            "reply_to_id": "610408"
+        },
+        {
+            "user_name": "FreyrGauti",
+            "text": "http://tolvutaekni.is/product_info.php? ... ts_id=2848\nVertu samt viss um að hún conflicti ekki við skjákortið hjá þér, er svoldið stór, en performar nálægt vökvalælingum.\nEr þetta samt ekki ný kæling hjá þér í ábyrgð? Ef svo þá myndi ég fara og reyna fá aðra í staðinn.",
+            "date": "2015-11-08 11:44:00",
+            "post_id": "610413",
+            "reply_to_id": "610412"
+        },
+        {
+            "user_name": "Alfa",
+            "text": "Farðu nú yfir hvort kælingin sitji rétt hjá þér.\n1. Var plast undir botninum til að vernda botninn sem þú gleymdir að taka þegar þú settir hana á.\n2. Er dælan að virka, er hún yfirleitt í sambandi þá hvort er hún tengd í molex eða Fan header á borðinu til að fá rafmagn?\n3. Situr hún alveg á örgjörvanum, hugsanlega er hún að koma við þétti og liggur skökk fyrri vikið eða eins og í mínu dæmi einu sinni þurfti ég að setja skífur undir botnplötuna því kælingin kom ekki nógu nálægt CPU.  (Corsair H100i)",
+            "date": "2015-11-08 12:02:00",
+            "post_id": "610417",
+            "reply_to_id": "610413"
+        },
+        {
+            "user_name": "Varg",
+            "text": "Er ekki öruglega thermal compound á milli kælingarinnr og örgjafans?",
+            "date": "2015-11-08 12:38:00",
+            "post_id": "610422",
+            "reply_to_id": "610417"
+        },
+        {
+            "user_name": "Dabbi0303",
+            "text": "1. Ég var búinn að taka plastið\n2. Hún var tengd í system fan tengi og ég prufaði að færa hana í CPU fan tengið en það breytti engu\n3. Held hún liggi ekki á þétti, ég tók hana af í morgun og setti hana aftur á. Athuga hvort það þurfi skífur undir botnplötuna eftir vinnu\nJújú setti það á þegar ég setti hana saman",
+            "date": "2015-11-08 18:10:00",
+            "post_id": "610444",
+            "reply_to_id": "610422"
+        },
+        {
+            "user_name": "Njall_L",
+            "text": "Nokkur atriði í viðbót.\n1. Hvernig fór smá kælivökvi úr kælingunni?\n2. Með hverju fylltiru á, venjulegu kranavatni eða því sem er hugsað í vökvakælingar?\n3. Er kælingin með nægum kælivökva?\n4. Er nokkuð of mikið thermal compound á milli örgjörva og kælingar?",
+            "date": "2015-11-08 18:32:00",
+            "post_id": "610447",
+            "reply_to_id": "610444"
+        },
+        {
+            "user_name": "Dabbi0303",
+            "text": "1. Kælingin passaði ekki inní turninn sem ég keypti fyrst þannig ég tók dæluna frá vatnakassanum og það sullaðist smá vökvi og ég svo ætlaði að mounta hann að utan en keypti svá annan turn\n2.fyllti með afjónuðu vatni (hringdi í nokkrar tolvubuðir að leita að vökva og fékk svo svar frá kísildal að ég gæti sett svoleiðis á kerfið)\n3. Það er eitthvað pínu loft inná kerfinu\n4. Setti thermal compound á stærð við baun",
+            "date": "2015-11-08 23:07:00",
+            "post_id": "610463",
+            "reply_to_id": "610447"
+        },
+        {
+            "user_name": "Alfa",
+            "text": "Ef þér finnst kælingin sitja ekki eðlilega, t.d. getur fært hana upp og niður í hornunum þá er hún ekki nógu neðarlega og þú ert alveg viss að dælan er að dæla (ættir að finna það með því að koma við hana, það ætti að vera smá hljóð eða víbríngur frá henni).\nEn ég myndi halda að loft væri nákvæmlega vandamálið, þarft að finna leið til að tappa því af.",
+            "date": "2015-11-09 00:15:00",
+            "post_id": "610469",
+            "reply_to_id": "610463"
+        },
+        {
+            "user_name": "DJOli",
+            "text": "Kælikremið á að loka tengipunktinn á milli örgjörvans og kælisökkulsins (s.s. það mega ekki vera neinir loftvasar).\nEf það myndast loftvasar þá geta þeir fyllst af heitu lofti sem veldur óskilvirkri (inefficient) kælingu.",
+            "date": "2015-11-09 01:15:00",
+            "post_id": "610476",
+            "reply_to_id": "610469"
+        },
+        {
+            "user_name": "Dabbi0303",
+            "text": "Jæja þetta er komið í lag. Þurfti pínu meiri vökva á Kælinguna. Örgjörvinn er í tæplega 40° eftir að spila Arma 3 hálftíma. \nTakk kærlega fyrir hjálpina þið eruð snillingar",
+            "date": "2015-11-09 19:55:00",
+            "post_id": "610511",
+            "reply_to_id": "610476"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Lesson to be learnt hér. Ekki vissi ég að vatnskælingar væru svona viðkvæmar fyrir smá vökvaskorti. 58°C munur á smá vökvatapi er alveg svakalegt!",
+            "date": "2015-11-10 00:43:00",
+            "post_id": "610527",
+            "reply_to_id": "610511"
+        },
+        {
+            "user_name": "Alfa",
+            "text": "Well ... það er spurning hvað fólk kallar \"smá\", ef loft kemst í staðin þá dælist ekkert !",
+            "date": "2015-11-10 00:48:00",
+            "post_id": "610528",
+            "reply_to_id": "610527"
+        }
+    ],
+    "date": "2015-11-07 13:46:00"
+}

@@ -1,0 +1,93 @@
+{
+    "forum_title": "Windows",
+    "id": "5025",
+    "title": "Vandræði eftir að rafmagn sló út",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=5025",
+    "posts": [
+        {
+            "user_name": "Andri Fannar",
+            "text": "Sælir. \n\n\n\nÉg er í stórum vandræðum , málið er að ég var ekki heima í gærkvöldi og það var kveikt á tölvunni og svo kem ég heim um miðnætti og þá er slökkt á henni og pabbi segir að það hafi slegið 2svar út á nokkra sekúndna fresti , og í seinna skiptið sló út í ræsingu á vélinni því hún kveikti sjálf á sér  \n núna þegar ég ætla að kveikja á henni þá kemst ég inn í winxp og þegar ég vel hólf og hún er að ræsa öllu ( desktop og startbar ekki komið ) þá fæ ég msiu.exe has encountered a problem og dont send error report og þþað vesen. ég komst inní hana með því að gera ctrl alt del þegar villuskilaboðin komu upp og náði að runna explorer.exe og núna koma endalaus svona villuskilaboð og alltaf nýtt og nýtt  \n \n  kemur í öllum hólfum  \n \n hvað get ég gert ?\n\n\n\nps búinn að nota safe mode ég kemst alveg inní allt þar og engin villa er get ég lagað þetta þar ? búinn að nota last known good configuration og það virkar ekki villa kemur  og núna spyr ég ykkur gúrúana hvort þið vitið hvað er að  \n  [sá að icave er kominn aftur, vonandi að hann viti þetta]",
+            "date": "2004-08-05 11:15:00",
+            "post_id": "50939",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Prófaðu að keyra memory test. Hljómar eins og minniskubburinn hafi grillast smá. \n\n\n\nHérna er neverending memory test ef þú hefur ekki eitt núþegar: \nXpector\n.",
+            "date": "2004-08-05 11:33:00",
+            "post_id": "50941",
+            "reply_to_id": "50939"
+        },
+        {
+            "user_name": "Andri Fannar",
+            "text": "k prufa það",
+            "date": "2004-08-05 11:39:00",
+            "post_id": "50942",
+            "reply_to_id": "50941"
+        },
+        {
+            "user_name": "Andri Fannar",
+            "text": "kominn uppí 100 og eikkað og fæ engar villuir , þetta er kingstone 256mb ddr  166mhz",
+            "date": "2004-08-05 11:42:00",
+            "post_id": "50943",
+            "reply_to_id": "50942"
+        },
+        {
+            "user_name": "Andri Fannar",
+            "text": "fæ engar villur kominn upp í 500 , hvað annað er að ?",
+            "date": "2004-08-05 11:46:00",
+            "post_id": "50944",
+            "reply_to_id": "50943"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "hmm, er ekki sammála því að etta sé villa í minninu.\n\n\n\nÆttir að prufa að setja upp windows uppá nýtt, og ef það virkar ekki, taka allt nema nauðsynlegan vélbúnað út, og bæta einum og einum í í einu......",
+            "date": "2004-08-05 11:57:00",
+            "post_id": "50949",
+            "reply_to_id": "50944"
+        },
+        {
+            "user_name": "Andri Fannar",
+            "text": "þetta er ekki mín vél og það eru svona 100+ mjög mikilvægir fyrirlestrat og mörg hundruð word skjala , formatta í haust , en þetta er software vesen",
+            "date": "2004-08-05 11:59:00",
+            "post_id": "50950",
+            "reply_to_id": "50949"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Opna WinXP í SafeMode og svo \"start->all programs->administrative tools->services\" og sjá hvort þú finnur þetta þar.  Ef þú finnur service sem heitir eitthvað í líkingu við msiu (\nfinn þetta td. ekki hjá mér\n) skaltu setja \"startup type\" í \"manual\".  (\nEf þú ert ekki með administrative tools sýnilegt þá geturðu líka hægri smelt á My Computer og valið \"Manage->Services and Applications->Services\".\n)  Virkar náttúrulega bara ef þetta er þjónusta (\ne: service\n).\n\n\n\nHugsanlega líka hægt (\nog einfaldast\n) að fara í Add/Remove programs (\ní SafeMode\n) og henda þessu út.. ef þú veist hvaða driver/forrit þetta er.\n\n\n\nEinnig gætirðu náð þér í tól sem heitir HijackThis sem listar meðal annars allt sem er keyrt þegar WinXP ræsir.  Ef þú sérð msiu.exe í þeim lista geturðu eytt því út.  (\nPassaðu þig bara, margt sem brirtist í HijackThis er \nnauðsynlegt fyrir WinXP\n til að virka svo ekki eyða neinu út sem þú veist ekki hvað er.. nema msiu.exe \n \n)  Þá verður þetta forrit ekki keyrt upp næst þegar WinXP ræsir..\n\n\n\nAnnars er oft fljótlegast að strauja og setja Windows upp aftur, ef það eru 'bara' skrár sem þarf að bjarga.. (og ef þú getur activatað WinXP aftur \n)",
+            "date": "2004-08-05 12:49:00",
+            "post_id": "50955",
+            "reply_to_id": "50950"
+        },
+        {
+            "user_name": "Andri Fannar",
+            "text": "jaaa takk fyrir það en þetta er buggur í windows ekki neitt forrit StutturDreki , ég býst við að þurfa að formatta nema einhver komi með annað betra",
+            "date": "2004-08-05 13:23:00",
+            "post_id": "50958",
+            "reply_to_id": "50955"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Alveg viss?  Ef Windows keyrir fínt í SafeMode er þetta einhver driver eða þjónusta sem er ekki hluti af grunn windows (\ní SafeMode er bara keyrt upp það nauðsynlegasta\n) auk þess fann ég ekkert um þetta á netinu og þessi skrá er ekki til á tölvunni hjá mér (\nWinXP Pro\n).  Ef þetta er windows-bug þá er frekar hæpið að þú sért sá eini sem hafi lent í þessu.\n\n\n\nEn eins og ég sagði er oft lang best að strauja þegar svona vesen kemur upp..",
+            "date": "2004-08-05 13:52:00",
+            "post_id": "50961",
+            "reply_to_id": "50958"
+        },
+        {
+            "user_name": "Andri Fannar",
+            "text": "k þetta er í D:/WINDOWS/PCHEALTH/ERRORREP eikkað dæmi",
+            "date": "2004-08-05 14:04:00",
+            "post_id": "50962",
+            "reply_to_id": "50961"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "Hvað með að setja winxp diskinn i og repaira? það ætti að geta laga þetta.. :/",
+            "date": "2004-08-08 20:32:00",
+            "post_id": "51327",
+            "reply_to_id": "50962"
+        }
+    ],
+    "date": "2004-08-05 11:15:00"
+}

@@ -1,0 +1,58 @@
+{
+    "forum_title": "Yfirklukkun, hraðaprófanir og mods",
+    "id": "32055",
+    "title": "e-ð að marka volt í BIOS?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=1&t=32055",
+    "posts": [
+        {
+            "user_name": "nonni95",
+            "text": "1. Langar að vera viss með tölurnar sem ég fæ í BIOS um voltin, eru þær 100% réttar og mun tölvan nota jafn mikið af voltum þegar ég er í BIOS og þegar ég er kominn í windows?\n2. Ég get ekki breytt voltunum í BIOS-num og eru því stillt á auto og hef því aðeins hækkað FSB. Þó ég hafi hækkað FSB þá hækkuðu voltin ekki neitt, er það alveg eðlilegt? er allt í lagi þó ég hafi bara auto ef ég fylgist með voltunum á örgjavanum fari ekki yfir það sem framleiðandinn segir?\nMeð von um góð svör",
+            "date": "2010-08-22 22:13:00",
+            "post_id": "277896",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Sydney",
+            "text": "CPU-Z gefur þig nákvæmustu tölurnar, voltin sem eru stillt í BIOSnum eru fyrir voltage drop. \nMeð auto hækkar voltin eftir FSBinu, hins vegar hækkar voltin yfirleitt miklu hærra en þess þurfi.",
+            "date": "2010-08-22 22:19:00",
+            "post_id": "277897",
+            "reply_to_id": "277896"
+        },
+        {
+            "user_name": "Frost",
+            "text": "1. Ég hef fengið rangar tölur í BIOS en þær eru réttar í svona 97% tilvika.\n2.Alltaf að reyna hafa voltin eins lág og hægt er. Annars ef það virkar að hafa voltin á auto ætti það ekki að vera neitt vandamál. Prófaðu að runna Prime95 og fylgstu með öllu í Core Temp og Cpu-Z. Ef það virkar ekki þá þarftu að prófa aðrar stillingar.",
+            "date": "2010-08-22 22:21:00",
+            "post_id": "277898",
+            "reply_to_id": "277897"
+        },
+        {
+            "user_name": "nonni95",
+            "text": "en þarf ég að vera eitthvað hræddur við að hafa of lítil volt, er hægt að skemma eitthvað eða e-ð svoleiðis?\nAnnars þá get ég ekki breytt voltunum :S en er ekki hægt að update-a BIOS-inn einhvern veginn svo ég geti fiktað í því?",
+            "date": "2010-08-23 20:45:00",
+            "post_id": "278037",
+            "reply_to_id": "277898"
+        },
+        {
+            "user_name": "nonni95",
+            "text": "",
+            "date": "2010-08-24 21:28:00",
+            "post_id": "278232",
+            "reply_to_id": "278037"
+        },
+        {
+            "user_name": "Sydney",
+            "text": "Geturu ekki breytt voltunum? Ertu með eitthvað old school MSI mobo?",
+            "date": "2010-08-24 21:45:00",
+            "post_id": "278245",
+            "reply_to_id": "278232"
+        },
+        {
+            "user_name": "nonni95",
+            "text": "nóbb microstar P43 NEO",
+            "date": "2010-08-24 22:10:00",
+            "post_id": "278256",
+            "reply_to_id": "278245"
+        }
+    ],
+    "date": "2010-08-22 22:13:00"
+}

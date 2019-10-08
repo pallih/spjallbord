@@ -1,0 +1,170 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "33022",
+    "title": "tölvan ræsir sig ekki eftir að sett er í hana örgjörva",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=33022",
+    "posts": [
+        {
+            "user_name": "flottur",
+            "text": "Halló\nÉg er ekki fær í þessu enn svona er þetta, ég er búin að setja AMD Sempron 3300+\nhttp://www.computer.is/vorur/6384/\n örgjöva á þetta móðurborð 760GX-M (V1.1)\nhttp://www.ecs.com.tw/ECSWebSite/Product/Product_Detail.aspx?CategoryID=1&DetailID=504&DetailName=Feature&MenuID=24&LanID=0\n þá startar hún sér ekki, það kemur vinnsluljós á tölvukassan enn ekkert meir enn það.\nEru einhverjar stillingar sem ég er að gera rangar eða á ég eftir að stilla eitthvað inn í BIOS eða passar draslið einfaldlega ekki saman? \n \nÉg er búin að gúggla enn finn ekki neitt.",
+            "date": "2010-10-07 15:35:00",
+            "post_id": "286879",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "BjarkiB",
+            "text": "Fara vifturnar á stað? \nKemur ekkert upp á skjáinn?\nÖrgjörvakælingin vel föst á örgjörvanum?",
+            "date": "2010-10-07 15:42:00",
+            "post_id": "286880",
+            "reply_to_id": "286879"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Settirðu örgjörvann rétt í? Settirðu hitaleiðandi efni milli örgjörva og kælingar? Settirðu kælingu? Virkar tölvan með þeim örgjörva sem var í áður? Er örgjörvinn örugglega studdur af móðurborðinu?",
+            "date": "2010-10-07 15:42:00",
+            "post_id": "286881",
+            "reply_to_id": "286880"
+        },
+        {
+            "user_name": "flottur",
+            "text": "Fara vifturnar á stað?já þær gera það\nKemur ekkert upp á skjáinn?Neibb það kemur ekkert á skjáin\nÖrgjörvakælingin vel föst á örgjörvanum?já og gott betur enn það.\nSettirðu örgjörvann rétt í?Já það gerði ég, getur ekki farið á milli mála hvernig hann á ða snúa\nSettirðu hitaleiðandi efni milli örgjörva og kælingar?jamm\nSettirðu kælingu? jamm\nVirkar tölvan með þeim örgjörva sem var í áður? jebb\nEr örgjörvinn örugglega studdur af móðurborðinu?miða við specs á móðurborð og örgjörva þá mun það vera jákvætt",
+            "date": "2010-10-07 15:46:00",
+            "post_id": "286883",
+            "reply_to_id": "286881"
+        },
+        {
+            "user_name": "Zpand3x",
+            "text": "prufaðu að aftengja stýrikerfis- harðadiskinn þinn og sjá hvort þú komist inn í BIOS.\nEf það virkar þá er þetta líklegast stýrikerfið sem er í fýlu og þú þarft að setja windows diskinn í og installa driver fyrir örgjorfan rsum.",
+            "date": "2010-10-07 15:57:00",
+            "post_id": "286885",
+            "reply_to_id": "286883"
+        },
+        {
+            "user_name": "flottur",
+            "text": "ok ég tékka á þessu, já ég er með win xp á leikfanginu",
+            "date": "2010-10-07 15:59:00",
+            "post_id": "286886",
+            "reply_to_id": "286885"
+        },
+        {
+            "user_name": "dori",
+            "text": "Ólíklegt þar sem það kemur ekkert á skjáinn. Þ.a.l. er tölvan væntanlega ekki að POSTa og þá kemur stýrikerfið ekkert nálægt þessu.\n@OP: góð  regla er að rífa allt úr sambandi, prufa að ræsa bara með minni og örgjörva. Ættu að koma einhver píp/ljós/viftur í gang. Setja svo allt hitt í samband eitt af einu og finna þannig hvað var að. Ef það ræsir sig ekki með bara minni og örgjörva ættirðu að ath. að setja örgjörvann í aftur og skoða hvort allt sé tengt eins og það var. Stundum er vesen ef örgjörvaviftan er ekki tengd í rétt slot etc.",
+            "date": "2010-10-07 16:02:00",
+            "post_id": "286887",
+            "reply_to_id": "286886"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Ef það gerist ekkert, ekki einu sinni píp og engin mynd á skjáinn .... þá er spurning hvort þessi CPU sé bara dauður.\nEn um að gera að reyna að útiloka annað fyrst.",
+            "date": "2010-10-07 16:04:00",
+            "post_id": "286888",
+            "reply_to_id": "286887"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Prufa að hreinsa cmos. Annaðhvort er takki aftan á móðurborðinu eða þú þarft að taka batteríið úr móðurborðinu í x margar sek.",
+            "date": "2010-10-07 16:10:00",
+            "post_id": "286889",
+            "reply_to_id": "286888"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Ertu s.s. búinn að prófa að taka nýja örgjörvann úr og setja þann gamla í aftur? Þú gætir vel hafa shockað eitthvað með stöðurafmagni í þessu fikti. Ef sá gamli virkar enþá, þá steiktirðu þann nýja, ef sá gamli virkar ekki heldur, þá er allt í steik.",
+            "date": "2010-10-07 16:13:00",
+            "post_id": "286890",
+            "reply_to_id": "286889"
+        },
+        {
+            "user_name": "flottur",
+            "text": "Búin að prófa að aftengja HD frá móðurborð....ekkert gerðist.\nVar að kaupa hann nýjan frá computer.is\nÁ eftir að prufa það.\nfinnst það ólíklegt þar sem ég ákvað fyrir lifandis löngu að taka A+ námskeið og hef líka lent í að shocka móðurborð og það var ekki skemmtilegt, hef alltaf passað mig á stöðu rafmagninu.\nVinnslu ljósið er í gangi og hitt til að sjá hvort það sé kveikt á tölvunni er í gangi, örgjöva viftan er í gangi.",
+            "date": "2010-10-07 16:29:00",
+            "post_id": "286893",
+            "reply_to_id": "286890"
+        },
+        {
+            "user_name": "flottur",
+            "text": "Búin að gera þetta og það var víst ekki málið.",
+            "date": "2010-10-07 16:43:00",
+            "post_id": "286898",
+            "reply_to_id": "286893"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Ef að þetta er AM2 örgjörvi þá er minnisstýringin í örgjörvanum og gæti verið að honum líki ekki við minninn sem að virka með gamla örgjörvanum\nEf að þú setur nýja örgjörvan í en tekur minnin úr, lætur tölvan þá alveg eins? (vifturnar fara af stað, sama ljós, etc...)",
+            "date": "2010-10-07 17:08:00",
+            "post_id": "286902",
+            "reply_to_id": "286898"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Það er hægt að kaupa gallaða hluti nýja beint úr búð  \n \nMyndi nú samt prófa að setja gamla örgjörvann í.  Ef hann virkar, þá ertu búinn að útiloka nokkuð margt.",
+            "date": "2010-10-07 17:14:00",
+            "post_id": "286904",
+            "reply_to_id": "286902"
+        },
+        {
+            "user_name": "flottur",
+            "text": "skilðig, já ég tékkað á því og hann virkar(gamli örrinn þar að segja).",
+            "date": "2010-10-07 17:35:00",
+            "post_id": "286906",
+            "reply_to_id": "286904"
+        },
+        {
+            "user_name": "BjarkiB",
+            "text": "Þá er líklegast að örgjörvin sé ekki allveg í topp. Eða eins og beatmaster sagði með minnin.",
+            "date": "2010-10-07 17:41:00",
+            "post_id": "286909",
+            "reply_to_id": "286906"
+        },
+        {
+            "user_name": "flottur",
+            "text": "ok, þetta er samt 754 örri",
+            "date": "2010-10-07 17:42:00",
+            "post_id": "286910",
+            "reply_to_id": "286909"
+        },
+        {
+            "user_name": "flottur",
+            "text": "jæja ég er búin að prufa allt sem mér dettur í hug og ykkar hugmyndir einnig og ekkert virkaði.\nÞá er það að fara bara upp í computer.is á morgun og athuga hvað hægt sæe að gera.\nÉg þakka fyrir góðan stuðning/hugmyndir frá vökturum.",
+            "date": "2010-10-07 18:21:00",
+            "post_id": "286914",
+            "reply_to_id": "286910"
+        },
+        {
+            "user_name": "Glazier",
+            "text": "Þetta kom fyrir hjá vini mínum, hann setti saman tölvu frá grunni og hún fór í gang og það kom nákvæmlega ekkert á skjáinn.\nVið nánari athugun kom í ljós að örgjörvinn var ekki allveg réttur í..",
+            "date": "2010-10-07 18:51:00",
+            "post_id": "286922",
+            "reply_to_id": "286914"
+        },
+        {
+            "user_name": "flottur",
+            "text": "Við skulum vona að það er vandamálið og þá verð ég töluvert glaðari enn ég var áðan.",
+            "date": "2010-10-07 19:28:00",
+            "post_id": "286938",
+            "reply_to_id": "286922"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Svo er alltaf spurning með aflgjafann, er hann mjög gamall, er mjög mikil orkunotkun á gamla og nýja örgjörvanum? (Það ætti að vera hægt að prófa orkunotkunina með því að taka sem mest úr sambandi, diska, drif, jafnvel taka út skjákortið er þú ert með innbyggt). Ég lenti í því einusinni að ný tölva sem ég setti saman frá grunni virkaði ekki á no-name aflgjafanum úr gamla kassanum.\nÉg er bara að skjóta út í loftið samt, ég hef ekkert A+",
+            "date": "2010-10-07 20:06:00",
+            "post_id": "286950",
+            "reply_to_id": "286938"
+        },
+        {
+            "user_name": "flottur",
+            "text": "hey það gæti verið góð pæling, ég tékka á þessu og læt í mér heyra.",
+            "date": "2010-10-08 01:29:00",
+            "post_id": "287032",
+            "reply_to_id": "286950"
+        },
+        {
+            "user_name": "Benzmann",
+            "text": "prófaðu að þrífa örgjörvann allan, bara með própanoli eða einhverju sótthreinsandi, getur verið að það hafi verið fingrafar or some á honum. \nen stundum ræsa tölvur sér ekki vegna þess að örgjörvakælingin sé ekki nóguvel sett á. kanski skrúfuð of fast eða laust.",
+            "date": "2010-10-08 12:29:00",
+            "post_id": "287090",
+            "reply_to_id": "287032"
+        }
+    ],
+    "date": "2010-10-07 15:35:00"
+}

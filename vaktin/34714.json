@@ -1,0 +1,142 @@
+{
+    "forum_title": "Símar, fartölvur, myndavélar og önnur farandstæki",
+    "id": "34714",
+    "title": "Macbook Air sem fer ekki upp í OS",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=26&t=34714",
+    "posts": [
+        {
+            "user_name": "Hargo",
+            "text": "Er ekki mikið í mökkunum en er með eina sem er til vandræða.\nMacbook Air sem fer ekki upp í stýrikerfið. Þegar ég kveiki á henni kemur hvítt á skjáinn, svo eftir nokkrar sekúndur kemur eplið upp og eins og hún sé að reyna að loada. Þetta er í gangi í cirka 3-4 mín og þá drepur hún á sér.\nEinhverjar hugmyndir um hvað þetta gæti verið? Þessi vél er dottin úr ábyrgð svo ég þigg allar tillögur. Gæti þetta verið SSD diskurinn að gefa sig? Hún er vanalega eldsnögg að boota.\nÉg er algjörlega ráðalaus hvernig ég eigi að troubleshoota þetta. Hvernig kemst maður inn í BIOS í þessum vélum? Er það á annað borð hægt? Er þetta ekki bara kallað eitthvað annað á mökkunum, EFI eða eitthvað álíka? Reyndi að ýta á Command, Alt, F og 0 eftir Google leit en það gekk ekki. Einhver leið að boota af USB lykli?",
+            "date": "2010-12-21 23:18:00",
+            "post_id": "305379",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Hargo",
+            "text": "Tókst að setja vélina í hardware self test. Maður heldur inni D takkanum í ræsingu. Hardware self test gefur HDD villu. Það er 64GB SSD í þessari vél. Þeir hjá Apple segja að þeir geti ekki selt mér þennan disk stakan, þeir verði að sjá sjálfir um að setja hann í og setja stýrikerfið aftur inn fyrir 45þús kall. Ætlaði að reyna að kaupa bara af þeim diskinn og sjá sjálfur um rest. En jæja, þá er bara að panta nýjan disk á netinu.\nÁkvað að henda inn lausninni ef einhverjir aðrir myndu lenda í svipuðu veseni. Spurning hvar sé best að finna svona diska á netinu.\nEinhver sem veit hvernig ég get sett upp stýrikerfið á nýja diskinn á löglegan hátt?",
+            "date": "2010-12-22 18:04:00",
+            "post_id": "305534",
+            "reply_to_id": "305379"
+        },
+        {
+            "user_name": "bAZik",
+            "text": "Assuming að þú sért með 2008 módelið, er þetta ekki bara venjulegur SSD diskur?",
+            "date": "2010-12-22 18:09:00",
+            "post_id": "305535",
+            "reply_to_id": "305534"
+        },
+        {
+            "user_name": "Hargo",
+            "text": "Þetta er allra fyrsta Macbook Air módelið sem kom í janúar 2008. Það er 64GB SSD 1,8\" í þessu með ZIF tengi.\nEinhverjir sem selja 1,8\" ZIF solid state diska hér á landi?",
+            "date": "2010-12-22 19:11:00",
+            "post_id": "305543",
+            "reply_to_id": "305535"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Rosalega er þetta léleg ending á SSD, var ekki talað um að þeir ættu að endast í 100 ár?",
+            "date": "2010-12-22 19:38:00",
+            "post_id": "305549",
+            "reply_to_id": "305543"
+        },
+        {
+            "user_name": "Hargo",
+            "text": "Tjah allavega lengur en tæplega 3 ár myndi ég halda, en þetta getur víst bilað eins og allt annað. Langar samt að prófa vélina einhvern veginn áður en ég kaupi nýjan disk. Einhver leið til að boota upp af USB lykli? Ég kann ekki einu sinni að breyta boot order í þessum mökkum.",
+            "date": "2010-12-22 19:41:00",
+            "post_id": "305550",
+            "reply_to_id": "305549"
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "WUT 3 ár á SSD disk ?\nÞað er afskaplega léleg nýting, sorrý en það eru engir hreyfanlegir hlutir í SSD og eiga bara engan veginn að bila sisona.\nÉg myndi grínlaust komast að því hvaða SSD disk þetta móðurborð tekur og kaupa mér nýjan. Glætan að þessir !!!!!menn geti rukkað 45 þúsund kall fyrir að skrúfa HDbayið út, skipta um disk og setja upp stýrikerfið. \nFáránleg vinnubrögð, þetta myndi aldrei tíðkast tildæmis hjá EJS! (kannski OK? \n )",
+            "date": "2010-12-22 19:58:00",
+            "post_id": "305554",
+            "reply_to_id": "305550"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Þú getur bootað upp af öllu í mac, ég er búinn að prófa að \"clona\" stýrikerfið á 2 mismunandi flakkara (usb) og keyra upp, búinn að prófa að installera macos á 16gb lykil...\nSvínvirkar....þú getur prófað að installera stýrikerfinu á flakkara...eða lykil og ræsa upp af því, þá er diskurinn í tölvunni \"aukadiskur\"...kannski sér tölvan hann og leyfir þér að bjarga gögnum....kannski er möguleiki að \"repair\" diskin...\nÞú hefur bara engu að tapa að gera tilraunir yfir jólin áður en þú hendir þessum SSD:",
+            "date": "2010-12-22 20:14:00",
+            "post_id": "305558",
+            "reply_to_id": "305554"
+        },
+        {
+            "user_name": "Hargo",
+            "text": "Tók gripinn í sundur, það er ekki SSD diskur í þessu, bara venjulegur HDD. Útskýrir margt. \nHinsvegar skil ég þá ekki verðið á þessu hjá Apple umboðinu. Eigandi tölvunnar hringdi sjálfur í Apple, þeir flettu upp tölvunni eftir kennitölu og gáfu henni upp þetta verð. 45 þús fyrir 1,8\" 80GB HDD 4200RPM ZIF ? Really?\nEn Guðjón, hvernig breyti ég boot order í Mac? Hvernig kemst ég í BIOS (eða EFI eins og þetta kallast í Mac)?",
+            "date": "2010-12-22 22:55:00",
+            "post_id": "305581",
+            "reply_to_id": "305558"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Ferð ekkert í BIOS í mac \nHaltu niðri ALT takkanum um leið og þú ræsir tölvuna, alveg þangað til valmyndin birtist.",
+            "date": "2010-12-22 23:01:00",
+            "post_id": "305585",
+            "reply_to_id": "305581"
+        },
+        {
+            "user_name": "rapport",
+            "text": "mac.vaktin.is\n -> Því við erum aðskilnaðarsinnar...\n \n \n \n \n \n \n \n \n \np.s. Aldrei mundi mér detta í hug að spyrja Mac mann (hvað þá á Mac spjalli) um Windows boot vandamál",
+            "date": "2010-12-22 23:03:00",
+            "post_id": "305586",
+            "reply_to_id": "305585"
+        },
+        {
+            "user_name": "Hargo",
+            "text": "Jæja best að gera sér þá bootable USB og reyna að boota upp tölvunni. Takk fyrir hjálpina  \n \nEn Guðjón, fyrst ég er nú byrjaður að dæla út heimskulegum spurningum - hvernig væri best fyrir mig að setja upp stýrikerfið aftur á nýjan disk í þessum vélum? Þessi vél kom upprunalega með X 10.5.1. Hvernig virka svona license mál í Mac heiminum, er þetta eitthvað svipað activation eins og hjá Microsoft?",
+            "date": "2010-12-22 23:09:00",
+            "post_id": "305588",
+            "reply_to_id": "305586"
+        },
+        {
+            "user_name": "legiz",
+            "text": "ég setti einhverntíman imac þar sem harði diskurinn hafði eyðilagst. Skipti bara um disk og setti os diskinn sem kom með vélinni í. Þurfti ekkert að setja neitt licence eða svoleiðis. Spurning að fá svona disk  og skrifa iso á usb lykil??",
+            "date": "2010-12-23 11:35:00",
+            "post_id": "305677",
+            "reply_to_id": "305588"
+        },
+        {
+            "user_name": "Hargo",
+            "text": "Það kom enginn diskur með Macbook Air vélinni þar sem það er ekkert geisladrif á henni.",
+            "date": "2010-12-23 19:01:00",
+            "post_id": "305731",
+            "reply_to_id": "305677"
+        },
+        {
+            "user_name": "biturk",
+            "text": "gerðu bara það eina sem hægt er að gera við mac vélar\nsettu upp windows og vandamálið er leist",
+            "date": "2010-12-23 19:10:00",
+            "post_id": "305733",
+            "reply_to_id": "305731"
+        },
+        {
+            "user_name": "bAZik",
+            "text": "Bitur indeed.\nÞarsem þú átt í rauninni leyfi fyrir Mac OS X, þá geturu sótt snow leopard einhversstaðar og mountað það á usb kubb og installað þaðan.",
+            "date": "2010-12-23 19:13:00",
+            "post_id": "305734",
+            "reply_to_id": "305733"
+        },
+        {
+            "user_name": "BjarniTS",
+            "text": "Skal gefa þér skýr svör hérna  , finnst menn var á villigötum.\nÞú munt aldrei lenda í leyfis-vandamálum í macOSx\n*Aðal install formið í mac er DMG , ekki iso eða neitt annað.\n*Ef að þú ert nú þegar búinn að borga fyrir eitt Mac Os X leyfi , þá myndi ég sækja kerfið hér að neðan án þess að fá samviskubit. (Sjá link neðst)\nÞað eru ótal leiðir í boði , hér skal ég útskýra þrjár þeirra , þetta fer ekki að verða neitt vesen fyrr en þú ert kominn niður í PPC vélar , og það er ekki einusinni það mikið vesen.\n1 ) Target disk mode - Með geisladisk\n  : Þarna notar þú aðra vél til að virka sem geisladrif \n \n* Connect the two Mac with a firewire cable.\n* Start the (source Mac) by holding the “T” button.\n* Insert the DVD in the source Mac\n* Start the “destination Mac” (the one you want to install Snow Leopard to) and hold down the option key (alt).\n* Then, you’ll have a menu in which you’ll be able to select the start up drive, pick the “Mac OS X Install DVD”\n2 ) Remote install - Þráðlaust með geisladisk\nÞarna er önnur vél orðin þráðlaust geisladrif , leiðbeiningarnar hér eiga við mac , en hún þarf ekki endilega að vera mac , hún getur líka  verið pc en þú getur sótt hugbúnað bara til að setja upp á pc vélinni og þá virkar þetta alveg smurt ! \n   1. You need two computers, let’s call them MacBook Air (MBA) and another Mac (Other)\n   2. On the Other: make sure the computer will not sleep!\n          * Make sure the Other is plugged in to power\n          * Click the Apple icon in the top left of your screen\n          * Click Show All\n          * Click Energy Saver\n          * Set the “Computer sleep” to “Never”\n   3. On the Other: Insert the Snow Leopard DVD\n   4. On the Other: Open the Remote Install Mac OS X app\n          * Click on the Finder\n          * Click on Applications\n          * Click on Utilities\n          * Double-click on Remote Install Mac OS X\n   5. On the Other: Click Continue. You should see the Mac OS X Install DVD.\n   6. On the Other: select your networking option\n   7. On the Other: read the “Restart the computer” message, click Continue\n   8. On the MBA: restart the computer and hold down the Option/Alt key until the choose Airport Network prompt comes up\n   9. On the MBA: enter in your AirPort (wireless, WiFi) network password\n  10. On the MBA: choose the Mac OS X install by clicking its icon then click the “up arrow” below it\n  11. On the Other: read the “Choose your AirPort network” page, click Continue\n  12. On the Other: read the “Select your startup disk” page, click Continue\n3) \nÞetta er í raun leiðin til að útbúa usbStick með Snow leopard install , en þessi leið krefst bara þess að þú komist inn í disk utility(Hefur aðgang að því í öllum mactölvum) og að þú eigir lykil sem er 8gb eða meira.\nLeiðin : \nhttp://www.maciverse.com/install-os-x-s ... drive.html\nAukaefni : \nÞetta gæti verið eitthvað sem þú gætir haft áhuga og gagn af því að skoða.\nhttp://lifehacker.com/300384/mirror-you ... rnal-drive\nhttp://thepiratebay.org/torrent/5068890\nSvo ef að þú ert heppinn þá fylgdi með usb-stick \nEn svo getur verið að eigandi vélarinnar hafi ekki geymt dótið sem kom með henni.",
+            "date": "2010-12-23 20:59:00",
+            "post_id": "305741",
+            "reply_to_id": "305734"
+        },
+        {
+            "user_name": "Hargo",
+            "text": "Takk kærlega fyrir frábært svar BjarniTS, loksins fæ ég einhverja niðurstöðu í þetta. Ég mun notast við þessar leiðbeiningar þegar nýi diskurinn berst til landsins.",
+            "date": "2010-12-24 01:21:00",
+            "post_id": "305772",
+            "reply_to_id": "305741"
+        },
+        {
+            "user_name": "Hargo",
+            "text": "Ég hef aðgang að svona USB lykli (Macbook Air reinstall drive) sem kom með annarri glænýrri Macbook Air tölvu sem var keypt í þessum mánuði. Er mér óhætt að nota hann þegar ég set upp nýja diskinn á gömlu vélinni? Ég rugla ekkert licensing dæminu með því að nota þetta frá annarri Air tölvu eða eitthvað þannig? Ég ætti alveg að geta notað hann aftur með tölvunni sem hann kom upprunalega með, eða hvað?\nAnnars var ég að nota migration utility í fyrsta skipti í Mac til að færa gögn af gamalli vél inn á nýja vél og vá, það er svo sannarlega sniðugt tól. Tekur öll forrit með, userinn, skjöl/myndir og bara allt heila klappið yfir þráðlaust net. Ég er nú ekki mikill Maccafan en þetta fannst mér einfalt og sniðugt tól.",
+            "date": "2010-12-26 00:42:00",
+            "post_id": "306188",
+            "reply_to_id": "305772"
+        }
+    ],
+    "date": "2010-12-21 23:18:00"
+}

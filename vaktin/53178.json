@@ -1,0 +1,58 @@
+{
+    "forum_title": "Windows",
+    "id": "53178",
+    "title": "Microsoft front page og pöntunarform. Hjálp yrði vel þegin.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=53178",
+    "posts": [
+        {
+            "user_name": "jardel",
+            "text": "Ég hef lengi verið að dunda mér við að gera vefsíður i microsoft frontpage og allt hefur gengið vel nema eitt atriði.\nPöntunarform, Vandamálið er það að ég get ekki sett pöntunarform á vefsíðu, \ntil að útskýra það nánar t.d er ég að gera ferðamanna síðu sem þarf að taka við pöntunum í gegnum heimasíðuna.\nGetur verið að mig vanti kóðan? Er til einhver tilbúinn ókeypis kóði til?\nEða er til einfaldara ráð?\nÉg met það mikils ef einhver hérna gæti hjálpað mér",
+            "date": "2013-02-02 01:37:00",
+            "post_id": "493307",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "worghal",
+            "text": "ekki vissi ég að front page væri enþá notað...\nbúinn að reyna Dreamweaver?",
+            "date": "2013-02-02 02:16:00",
+            "post_id": "493310",
+            "reply_to_id": "493307"
+        },
+        {
+            "user_name": "jardel",
+            "text": "Ég nota frontpage, get notað dreamwafer en finnst frontpage þæginlegra.",
+            "date": "2013-02-02 02:38:00",
+            "post_id": "493311",
+            "reply_to_id": "493310"
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "",
+            "date": "2013-02-02 02:39:00",
+            "post_id": "493312",
+            "reply_to_id": "493311"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Ég hef ekki séð frontpage síðan c.a 2002 þannig að ég man ekki hvort það sé með einhvern forma-wizard.  Þó svo væri, þá er ekki nema hálf sagan sögð.  Það er ekki nóg að búa til formið í HTML heldur þarf að forrita virknina á bakvið formið (sem formið POST-ar á) og til þess þarftu server-side mál eins og PHP, ASP, .NET, Ruby, Python/Django o.sv.frv.\nMæli með því að þú notir bara online form-generator eins og wufoo.com - þar raðar þú á einfaldan hátt upp formi, stillir hvert það sendir póst t.d og svo færðu link á formið þitt eða embed kóða til að setja það inn á síðuna þína.",
+            "date": "2013-02-02 10:09:00",
+            "post_id": "493329",
+            "reply_to_id": "493312"
+        },
+        {
+            "user_name": "jardel",
+            "text": "Ég þakka ykkur kærlega fyrir svörin hér að ofan. Ef einhver á eða getur bent mér á tilbúinn kóða í þetta væri það frábært.",
+            "date": "2013-02-03 20:47:00",
+            "post_id": "493585",
+            "reply_to_id": "493329"
+        },
+        {
+            "user_name": "rango",
+            "text": "Hérna er mín útfærsla á vandamálinu, Fljótt gert í PHP og notast við mail().\nGetur notað bæði Post og get, Ekkert input validation og 0 hugsað út í öryggi. s.s. veiðir ekki mögulegar villur fyrir þig. >:)\nGetur prufað þetta hérna.\nhttp://juliusorn.com/forms/demo.html\nGithub afrit hérna\nhttps://github.com/rangolizardy/Simple_FORM_Email\npost.php\nKóði: \nVelja allt\n<?php\n////////////////////////\n//Júlíus Örn Fjeldsted//\n////////////////////////\n//\n//Þú ert að senda pantanir etc á þetta.\n$Email_To = \"Breyta í senda á\";\n//Pantanir koma frá þessu emaili\n$Email_From = \"breyta í email hjá vefþjón\";\n//Titill á alla tölvupósta,\n$Email_Subject = \"Titill á alla tölvupósta\";\n//Hvert notandin er sendur eftir að hann sendir inn formið\n$Redir_To = \"Breyta í hvert notandin fer eftir POST, Með HTTP\";\n//Ekki breyta fyrir neðan hérna\n//Logic\nif($_SERVER['REQUEST_METHOD'] != \"POST\"){\n   $form = $_GET;\n}else{\n   $form = $_POST;\n}\nob_start();\nrequire_once(\"template.php\");//Template\n$message = ob_get_clean();\n$headers = \"From:\" . $Email_From ;\nmail($Email_To,$Email_Subject,$message,$headers);\nheader(\"location:$Redir_To \");\n?>\ntemplate.php\nKóði: \nVelja allt\n--Til hamingju þetta er pöntun--\nNafn: <?php echo $form['Name'] ?>\nHeimilisfang: <?php echo $form['Fang'] ?>\nSvo þarftu bara að búa til <form> sem sendir inputin sem þú villt.\nKóði: \nVelja allt\n<form action=\"post.php\" method=\"post\">\n   Name<input name=\"Name\" />\n   Heimilisfang<input name=\"Fang\" />\n   <input type=\"submit\" value=\"PostPost\" />\n</form>\ntil að bæta inn síma nr. þá er það bara þetta í html\nKóði: \nVelja allt\n<input name=\"Simi\" />\nog svo í template.php\nKóði: \nVelja allt\nSimi: <?php echo $form['Simi'] ?>",
+            "date": "2013-02-03 20:55:00",
+            "post_id": "493588",
+            "reply_to_id": "493585"
+        }
+    ],
+    "date": "2013-02-02 01:37:00"
+}

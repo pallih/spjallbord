@@ -1,0 +1,30 @@
+{
+    "forum_title": "Leikjasalurinn",
+    "id": "35962",
+    "title": "War 1 serverinn í css",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=14&t=35962",
+    "posts": [
+        {
+            "user_name": "SIKk",
+            "text": "hvernig get ég breytt map?",
+            "date": "2011-02-03 20:24:00",
+            "post_id": "318935",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gissur1",
+            "text": "Þarft rcon passwordið og svo skrifaru changelevel *NAFNÁMAPPI*",
+            "date": "2011-02-03 20:33:00",
+            "post_id": "318941",
+            "reply_to_id": "318935"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Ef þú ert tengdur:\n1. rcon_password RCONIÐ\n2. changelevel de_map(semdæmi)\nEf þú ert ekki tengdur:\n1. rcon_address IP TALA\n2. rcon_password RCONIÐ\n3. changelevel de_map(semdæmi)",
+            "date": "2011-02-03 21:30:00",
+            "post_id": "318974",
+            "reply_to_id": "318941"
+        }
+    ],
+    "date": "2011-02-03 20:24:00"
+}

@@ -1,0 +1,37 @@
+{
+    "forum_title": "Windows",
+    "id": "9935",
+    "title": "Peak alltaf það sama í Commit Charge(k) í Task Manager",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=9935",
+    "posts": [
+        {
+            "user_name": "Heliowin",
+            "text": "Setti inn display adapter fyrir GF6600GT og eftir það er Peak fyrir commit charge minnis alltaf það sama í Task manager, eða um 432.000\n\n\n\nÞað sama hefur verið tilfellið á annari tölvu, með öðru skjákorti og öðrum driver (Nvidia ForceWare 81.98) en alltaf sama 432.000. Á þeirri tölvu gerist það ekki með driverinn sem fylgir með WinXPSP2.\n\n\n\nBáðar tölvurnar hafa sama magn minnis, 1 GB\n\n\n\nHvað er eiginlega í gangi?",
+            "date": "2006-02-03 23:58:00",
+            "post_id": "107700",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "Peak is the highest amount that the total commit charge has reached since the computer was last rebooted.\n\n\n\n\nMjög líklegt að tölva sem er með 1GB í minni sé ekki að nota pagefileinn.\n\n\n\nEdit: Þú ert alveg ekki að skoða þessar tölur í samhengi.",
+            "date": "2006-02-04 01:41:00",
+            "post_id": "107709",
+            "reply_to_id": "107700"
+        },
+        {
+            "user_name": "axyne",
+            "text": "ég er með 466.828 í peak hjá mér og 512 Mb í minni.\n\n\n\nég held þetta sé ekkert til að hafa áhyggjur af.",
+            "date": "2006-02-04 01:47:00",
+            "post_id": "107711",
+            "reply_to_id": "107709"
+        },
+        {
+            "user_name": "Heliowin",
+            "text": "Ef ég útskýri þetta aðeins betur og leiðrétti mig, þá getur hámarkið farið yfir þessa 432000 hjá mér og ég hef farið upp í meira en 1GB. Edit:í kringum 1000000\n\n\n\nEn það sem ég hefði viljað segja var að tölurnar sem peakið gefur upp fara aldrei fyrir neðan þessar 432000 og þannig heldur sig ræsingu frá ræsingu. \n\n\n\nNúna til að mynda, var ég að koma út úr Need For Speed: Most wanted með yfir 700000. Við næstu ræsingu á tölvunni sýndi Peakið sömu 432000 en hefði átt að sýna í kringum 150000\n\n\n\nÉg varð að nota system restore á einni tölvunni og nota aftur driver í SP2 til að leiðrétta birtinguna á peakinu á þeirri tölvu.\n\n\n\nÁ þessari tölvu hef ég litla sem enga option með driver fyrir GF6600GT.\n\n\n\nMér finnst bara ágætt að hafa nokkra mynd af því í gegnum Task Manager hvað peakið hefur orðið hátt. \n\n\n\nÞetta er ekki lengur mögulegt í Task Manager á umræddri tölvu nema að ég brjóti 432000 múrinn með leikjum.",
+            "date": "2006-02-04 02:53:00",
+            "post_id": "107718",
+            "reply_to_id": "107711"
+        }
+    ],
+    "date": "2006-02-03 23:58:00"
+}

@@ -1,0 +1,415 @@
+{
+    "forum_title": "Yfirklukkun, hraðaprófanir og mods",
+    "id": "40022",
+    "title": "Overclock I7 2600K  á P8P67 standard.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=1&t=40022",
+    "posts": [
+        {
+            "user_name": "kjarribesti",
+            "text": "Jæja,  ætla að reyna að ná örgjörvanum upp í 4ghz sirka og var að pæla hvort ég sé að gera þetta rétt?\nfer í \nEFI BIOS Utlity>\nAdvanced>\nCPU Configuration>\nCPU Ratio>\nGet ég ekki breytt bara ratio-inu í t.d 40 og fer hann þá upp í 4ghz, allavega easy guide fyrir mig væri fínn, hvernig á að gera þetta .",
+            "date": "2011-07-20 12:54:00",
+            "post_id": "364521",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "bulldog",
+            "text": "matrox ætti að geta hjálpað þér með þetta.",
+            "date": "2011-07-20 12:55:00",
+            "post_id": "364522",
+            "reply_to_id": "364521"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "getur prufað þetta\nratio = multiplier\nsetur ratio á 44\nPrufar að hafa allt annað í auto\nprufar svo að runna prime95 í 1-2 tíma \nef það er en í gangi hafðu það á í gangi í minnst 12tíma\nþá ættiru að vera kominn í 4.4ghz",
+            "date": "2011-07-20 13:07:00",
+            "post_id": "364523",
+            "reply_to_id": "364522"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "er að rendera 23 mínútna myndband í 4.8ghz á u.þ.b 8 mínútum.\nÞetta er frekar flókið project með allskonar effectum, bjó bara til file sem væri erfitt að rendera.\nCPU-INN var í 65% load og hitinn svona uppundir 60°, finnst það frekar hátt en ekkert hættulegt.\nÞETTA ER SNILLD  \nog annars í prime95 small fft's þá fór hann aldrey yfir 80° sem ég tel sleppa ágætlega.",
+            "date": "2011-07-20 16:41:00",
+            "post_id": "364585",
+            "reply_to_id": "364523"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "búinn að runna prime?\ná hvaða voltum ertu?",
+            "date": "2011-07-20 16:42:00",
+            "post_id": "364586",
+            "reply_to_id": "364585"
+        },
+        {
+            "user_name": "mercury",
+            "text": "ef þú ert með hann á auto. þá myndi ég tékka hvaða volt eru í gangi. fara svo í bios og reyna að lækka það í litlum skrefum.\ngetur munað nokkrum gráðum á smá volt lækkun.",
+            "date": "2011-07-20 16:47:00",
+            "post_id": "364588",
+            "reply_to_id": "364586"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "Voltin eru á 1.425 \nog já búinn að runna Prime95 small fft's.\n4.8 ghz - 1.425 volt's\nHiti idle - 36° ca\nHiti 100% load - 79° og undir\nHiti 65% load - 60° ca\nAnnars reikna ég með því að vera með hann í 4.4 ghz þegar ég er að rendera, er ekki hrifinn af 60° hita þannig séð.\nSvo bara 3.8ghz fyrir normal day use. Semsagt eitthvað gaming og browsing. þarf ekki meira \nHvort finnst ykkur að ég egi að hafa voltin á 1.425 eða 1.415 ?",
+            "date": "2011-07-20 16:51:00",
+            "post_id": "364590",
+            "reply_to_id": "364588"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "prófaðu að setja ratio í 50 og voltin í 1.450v",
+            "date": "2011-07-20 17:22:00",
+            "post_id": "364599",
+            "reply_to_id": "364590"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "ætla ekki út í þitt overclock með air kælingu \ner nokkuð viss um hættulegar hitatölur :S",
+            "date": "2011-07-20 18:42:00",
+            "post_id": "364637",
+            "reply_to_id": "364599"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "allt undir 85°c er gott",
+            "date": "2011-07-20 18:44:00",
+            "post_id": "364638",
+            "reply_to_id": "364637"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "haha, en já er með hana í 4ghz með voltage í auto og hún er bara í 59° max í prime95.\nfinnst það nokkuð gott. er búinn að hafa hana á prime í svona hálftíma og ætla að sjá eftir klukkutíma hvernig það er.\nEf allt gengur vel í 4ghz held ég að ég muni bara keyra tölvuna í því.",
+            "date": "2011-07-20 19:10:00",
+            "post_id": "364648",
+            "reply_to_id": "364638"
+        },
+        {
+            "user_name": "mercury",
+            "text": "sama og 2500k í 4.6 hjá mér",
+            "date": "2011-07-20 19:24:00",
+            "post_id": "364655",
+            "reply_to_id": "364648"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "held að ég ætli að halda mig við manual voltage, auto er að gera eitthvað rangt sem lætur hitann fljúga svona upp.\nAnnars, þá er hún í góðu lagi í 4.8ghz @ 1.415volts\nhef hana svo á 4.8ghz í myndbandavinnslu en 3,4ghz eða 4ghz þegar ég er bara í leikjum og vafri.\nÆtla að fara út í frekara stable testing í prime95 á morgun.",
+            "date": "2011-07-20 20:09:00",
+            "post_id": "364667",
+            "reply_to_id": "364655"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "why?\nhaltu þig bara við eina ghz og ekkert rugl...\n4.8ghz í allt.",
+            "date": "2011-07-20 20:24:00",
+            "post_id": "364671",
+            "reply_to_id": "364667"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "Well er búinn að vera að gera nokkur tests.\nNúna með 4.8ghz og 1.415 í voltage þá fer hitinn ekki yfir 74° í 100% load í prime95\nHeld að það sé bara nokkuð gott, var búinn að prófa 1.400/1.405/1.410v en fékk BSOD í því öllu, það lægsta sem sleppur er 1.415v en þá er hitinn í 74° max.\nHvað finnst þér, á ég bara að runna hana alltaf á 4.8ghz ? meina verður ekki örgjörvinn þreyttur á því og skemmist fyrr ?",
+            "date": "2011-07-20 21:01:00",
+            "post_id": "364680",
+            "reply_to_id": "364671"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "nei. þú ert langt undir max safe voltum. það er mikið betra fyrir örrann alltaf í 4.8ghz heldur en að vera færa hann alltaf á milli klukka. ég myndi samt hækka voltinn í svona 1.420v til að vera 100%",
+            "date": "2011-07-20 21:04:00",
+            "post_id": "364682",
+            "reply_to_id": "364680"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "Haha fyndið, ég var sekúndu eftir að ég postaði síðasta svari hérna að fá BSOD svo ég prófaði að setja í 1.420volts núna og ætla að sjá hvernig fer. eins og er þá er hitinn í 73° í 100%load.\nhvað á ég svo að hafa Prime95 lengi í gangi til að vera viss ?",
+            "date": "2011-07-20 21:08:00",
+            "post_id": "364688",
+            "reply_to_id": "364682"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "12-36 tíma",
+            "date": "2011-07-20 21:11:00",
+            "post_id": "364690",
+            "reply_to_id": "364688"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "án gríns ?\nHef heyrt talað um 4, 8, og svo meira en flestir í svona 8 .",
+            "date": "2011-07-20 21:40:00",
+            "post_id": "364699",
+            "reply_to_id": "364690"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "8 tímar eru nokkuð veginn í lagi en ég fer alltaf 12+tíma",
+            "date": "2011-07-20 21:48:00",
+            "post_id": "364702",
+            "reply_to_id": "364699"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "andsk, hún drap á sér eftir 1,5 tíma í testi eða eitthvað svoleiðis -.-\nhvað þýðir það ?",
+            "date": "2011-07-20 22:31:00",
+            "post_id": "364714",
+            "reply_to_id": "364702"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "prufaðu að hækka vcore aðeins",
+            "date": "2011-07-20 22:35:00",
+            "post_id": "364717",
+            "reply_to_id": "364714"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "erum við að tala um þá 1.425 ?",
+            "date": "2011-07-20 22:37:00",
+            "post_id": "364720",
+            "reply_to_id": "364717"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "hvað er hann í núna?",
+            "date": "2011-07-20 22:38:00",
+            "post_id": "364721",
+            "reply_to_id": "364720"
+        },
+        {
+            "user_name": "mercury",
+            "text": "gæti ekki verið að hann þurfi að eiga við pll eða einhverjar aðrar stillingar ?",
+            "date": "2011-07-20 22:42:00",
+            "post_id": "364723",
+            "reply_to_id": "364721"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "s.s BSODAÐI síðast í 1.420 og þegar ég kveikti á henni setti ég hana í 1.425 og er að byrja prime95 núna.",
+            "date": "2011-07-20 22:43:00",
+            "post_id": "364724",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "http://hardforum.com/showthread.php?t=1578110\nfór eftir þessum þræði.\ngerði allt eins og þarna basicly nema breytti voltage-inu og er búinn að taka þrep fyrir þrep hærra voltage og er nú kominn á 1.425",
+            "date": "2011-07-20 22:44:00",
+            "post_id": "364725",
+            "reply_to_id": "364724"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "Prufaðu 1.450",
+            "date": "2011-07-20 22:45:00",
+            "post_id": "364726",
+            "reply_to_id": "364725"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "þegar 1.425 er búið (bsodar \n)\nvona að það dugi samt, fer ekki annars hitinn hrikalega upp ef þetta er í 1.450 ?",
+            "date": "2011-07-20 22:46:00",
+            "post_id": "364727",
+            "reply_to_id": "364726"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "ég hef alltaf keyrt minn á 5ghz í 1.450v. fyrst með noctua nhd-14 og svo núna vatni. ég fann aldrei fyrir miklum hita",
+            "date": "2011-07-20 22:48:00",
+            "post_id": "364729",
+            "reply_to_id": "364727"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "allt í lagi, ég prófa það næst. \nEn allavega, ég er ekkert búinn að breyta neinu með vinnsluminnin, gæti það ekki verið ástæðan fyrir bsodinu ?\nnema reyndar BSOD-ið er að koma á mismunandi tíma eftir ég breyti voltage-inu í hvert sinn.\n1.405 - BSOD á logon\n1.410 - BSOD um leið og prime fer í gang\n1.415 - BSOD eftir prime í hálftíma ca.\n1.420 - BSOD eftir prime í 1.5 klukkutíma c.a\n1.425 - Ekkert BSOD eins og er, er í testi en í 79° :S\n1.425 - Of hár hiti í 4.8ghz",
+            "date": "2011-07-20 22:57:00",
+            "post_id": "364732",
+            "reply_to_id": "364729"
+        },
+        {
+            "user_name": "mercury",
+            "text": "79° finnst mig frekar mikið hvernig kælingu ertu með ?\n*edit* sorry las ekki undirskriptina hjá þér. finnst þetta ótrúlega hár hiti",
+            "date": "2011-07-20 23:01:00",
+            "post_id": "364733",
+            "reply_to_id": "364732"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "Er nokkuð viss um að ég hafi sett kælikremið rétt á, bara PEA aðferðin sem 9/10 mæla með.\nHeld að ef eitthvað er þá séu stillingarnar í overclockinu ekki réttar ?",
+            "date": "2011-07-20 23:03:00",
+            "post_id": "364735",
+            "reply_to_id": "364733"
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "Ég er X47 á 1.42 og level 6 =1.44v Hiti er 65-75°",
+            "date": "2011-07-20 23:09:00",
+            "post_id": "364736",
+            "reply_to_id": "364735"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "Ég þori ekki að fara að sofa með hitana í 80° \ná ég að fara í 4.7 ghz frekar með 1.440voltage ?",
+            "date": "2011-07-20 23:19:00",
+            "post_id": "364739",
+            "reply_to_id": "364736"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "80°c eru í lagi en mér finnst þú aðeins vera að teygja þetta með það að vera með hann í 4.8ghz\nen prufaði 4.6ghz á 1.4v",
+            "date": "2011-07-20 23:25:00",
+            "post_id": "364740",
+            "reply_to_id": "364739"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "á ég þá að vera með phase og duty control á extreme ? \nhttp://img713.imageshack.us/img713/5969 ... 160917.png\neins og þessi mynd sýnir ?\nsvo fixed vrm frequency á 350 \nog load line calibration á Ultra High \ns.s allt sama og 4.8ghz nema breyta í 4.6ghz og 1.400 voltage.",
+            "date": "2011-07-20 23:28:00",
+            "post_id": "364741",
+            "reply_to_id": "364740"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "jamm \nvrm í 350\nog allt hitt í extreme eða ultra high",
+            "date": "2011-07-20 23:31:00",
+            "post_id": "364742",
+            "reply_to_id": "364741"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "jæja takk fyrir kærlega,\nGóða nótt, vona að hún verði í gangi þegar ég vakna klukkan 7",
+            "date": "2011-07-20 23:40:00",
+            "post_id": "364745",
+            "reply_to_id": "364742"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "Ahhm sorry en örgjörvinn er í 75° á 4.6ghz og voltage 1.400.  100% load.\nÞetta eru of háar hitatölur. hvað á ég að gera ?",
+            "date": "2011-07-21 00:04:00",
+            "post_id": "364750",
+            "reply_to_id": "364745"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "hvað er svona of hátt við þetta?\ngetur prufað 1.380v en það er ekkert að þessum hita",
+            "date": "2011-07-21 00:08:00",
+            "post_id": "364751",
+            "reply_to_id": "364750"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "lækkaði í 1.380v og núna er þetta í 70° .\nætla að treysta þessu svona. sé hvernig niðurstaðan verður í fyrramálið",
+            "date": "2011-07-21 00:21:00",
+            "post_id": "364752",
+            "reply_to_id": "364751"
+        },
+        {
+            "user_name": "mercury",
+            "text": "ég er með 2500k @ 4.6ghz í 1.36v er í lágum 60° 2 kjarnar ná 60 hinir eru í 56-58°.\nfinnst þetta frekar mikill munur þar sem 2500k er með lægri klukkuhraða orginal. Ertu kanski með ht on ?",
+            "date": "2011-07-21 01:33:00",
+            "post_id": "364761",
+            "reply_to_id": "364752"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "Þú ert náttúrulega með Haf-X og H80 það er bara 10° munur c,a",
+            "date": "2011-07-21 06:49:00",
+            "post_id": "364778",
+            "reply_to_id": "364761"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "Jæja, kominn á 4.6ghz @ 1.380v stable.\nAllt gengur vel og ekkert error í prime95 nema að hann gat ekki save-að stundum log eða eitthvað.\nannars er hún góð núna.\nTakk fyrir",
+            "date": "2011-07-21 09:27:00",
+            "post_id": "364785",
+            "reply_to_id": "364778"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "Hvernig er þetta, ef ég er með Hyper-Threading á, bætir það þá alltaf við hita ?\nÉg meina væri ég í mikið lægri hitatölum ef ég slekk á því ??",
+            "date": "2011-08-08 00:52:00",
+            "post_id": "369520",
+            "reply_to_id": "364785"
+        },
+        {
+            "user_name": "mercury",
+            "text": "er ekki með 2600k en ef ég man rétt þá hækkar ht hitann um einhverjar gráður.",
+            "date": "2011-08-08 03:16:00",
+            "post_id": "369539",
+            "reply_to_id": "369520"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "Afhverju þarf ég 1,480volt til að keyra 5ghz !\nEr þetta bara óheppni með örgjörva??\nÉg meina eru engar stillingar sem gætu látið hann þurfa minna ?",
+            "date": "2011-08-12 01:47:00",
+            "post_id": "370877",
+            "reply_to_id": "369539"
+        },
+        {
+            "user_name": "mercury",
+            "text": "bara mellow mjög margir þurfa að fara yfir 1.5v",
+            "date": "2011-08-12 06:14:00",
+            "post_id": "370918",
+            "reply_to_id": "370877"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "Ertu buinn að runna prime95. Og Intel Burn Test?",
+            "date": "2011-08-12 07:29:00",
+            "post_id": "370921",
+            "reply_to_id": "370918"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "Legg ekki í það að komast hærra en 5ghz þá er ég í hrikalegu voltage..., er bara að skemmta mér í superpi keppninni. \nnáði 5ghz stable í 75 gráðum max á 1,480v",
+            "date": "2011-08-12 13:07:00",
+            "post_id": "370976",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "MatroX",
+            "text": "alveg stable?\n20 intel burn test runs og 4-8tímar í prime?",
+            "date": "2011-08-12 14:06:00",
+            "post_id": "370999",
+            "reply_to_id": "370976"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "Ekkert 100% keyrði prime95 í 3 tíma en kælingin höndlar það ekki alveg, en eins og ég segi bara fyrir stutt bench..",
+            "date": "2011-08-12 14:23:00",
+            "post_id": "371008",
+            "reply_to_id": "370999"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "þá ertu að gera eitthvað vitlaust. ég var með vélina mína í 5.2ghz @1.48v með þessari  kælingu og hitinn fór aldrei yfir 80°c",
+            "date": "2011-08-12 14:30:00",
+            "post_id": "371015",
+            "reply_to_id": "371008"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "Eins og ég segi, var ég ekki bara óheppinn með 2600kinn minn, hann þarf meira voltage en sumir aðrir..",
+            "date": "2011-08-12 14:31:00",
+            "post_id": "371016",
+            "reply_to_id": "371015"
+        },
+        {
+            "user_name": "stjani11",
+            "text": "af hverju talar fólk um að overclocka í 4 ghz? ég meina ef þú gerir ekkert við orgjörvann þá fer turbo mode i gang sem tekur hann upp í 4.2ghz (eða allavega 2500k, veit ekki hvað 2600k fer hátt) Venjulega er venjulegi multiplierinn á 2500k stilltur á auto og fer þá á milli 16-33 og svo þegar tölvan þarf meira fer turbo mode í gang og þar er multiplierinn í 42. Ef þú setur venjulega multilplier úr auto og setur í eitthvað annað þá sýnist mér turbo mode ekki fara í gang þannig að ef þú setur multiplierinn þar bara í 40 ertu þá ekki í raun að underclocka?",
+            "date": "2011-08-12 21:25:00",
+            "post_id": "371120",
+            "reply_to_id": "371016"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "haha æji þið eruð að misskilja þetta. þið eruð ekkert óheppnir. þið fenguð bara eðlilega kubba og allt yfir 4.6ghz er bara +.",
+            "date": "2011-08-12 21:29:00",
+            "post_id": "371122",
+            "reply_to_id": "371120"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "4,8ghz var ekkert mál.",
+            "date": "2011-08-12 23:59:00",
+            "post_id": "371171",
+            "reply_to_id": "371122"
+        }
+    ],
+    "date": "2011-08-12 13:07:00"
+}

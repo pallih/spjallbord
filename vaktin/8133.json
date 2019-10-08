@@ -1,0 +1,30 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "8133",
+    "title": "PHP / HTML / Java Script - Að gera refresh á annann glugga.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=8133",
+    "posts": [
+        {
+            "user_name": "gnarr",
+            "text": "Kann einhver að gera þetta?\n\n\n\nmálið er að ég er með síðu sem að sýnir færslur úr SQL grunni. Svo getur maður klikkað á færsluna, þá poppar upp gluggi sem að biður manni upp á að eyða færslunni. Þegar maður ítir á ja, þá vill ég gera refresh á gluggann með færslunum, og að litli glugginn exiti sjálfann sig.\n\n\n\nEinhverjar hugmyndir?\n\n\n\n(ekki ósvipað og að maður getur klikkað á \"add comment\" \nhérna\n, skrifað eitthvað, ítt á svo á \"add comment\". þá bætir hún við commentinu og refreshar siðuna þar sem að það sést.)",
+            "date": "2005-05-02 09:57:00",
+            "post_id": "87016",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Kóði: \nVelja allt\nparent.opener.location.reload()",
+            "date": "2005-05-03 16:56:00",
+            "post_id": "87169",
+            "reply_to_id": "87016"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "snillingur!",
+            "date": "2005-05-03 17:52:00",
+            "post_id": "87177",
+            "reply_to_id": "87169"
+        }
+    ],
+    "date": "2005-05-02 09:57:00"
+}

@@ -1,0 +1,37 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "28707",
+    "title": "power management í ubuntu 9.10",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=28707",
+    "posts": [
+        {
+            "user_name": "bjarkih",
+            "text": "Hvað er í gangi þegar maður fær allt öðruvísi login skjá en venjulega og ubuntu vill ekki leyfa manni að logga sig inn vegna þess að power management er vitlaust innstallað?  fæ meldingu um að tala við sysadmin en það skrítna er að ég hef ekkert verið að fikta í power management að neinu tagi",
+            "date": "2010-03-04 20:45:00",
+            "post_id": "248419",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "starionturbo",
+            "text": "Láta bara package managerinn í friði ef þú veist ekki hvaða packages hann installar með.\nMig grunar að þú hafir verið að fikta með themes eða eitthvað því tengt.",
+            "date": "2010-03-04 20:55:00",
+            "post_id": "248423",
+            "reply_to_id": "248419"
+        },
+        {
+            "user_name": "bjarkih",
+            "text": "Var ekkert að fiktq með themes.  Eina sem breyttist var að kerfið update-aði sig og ég installaði ddrescue.",
+            "date": "2010-03-04 21:48:00",
+            "post_id": "248438",
+            "reply_to_id": "248423"
+        },
+        {
+            "user_name": "bjarkih",
+            "text": "Vandamálið var fullur diskur.   Þegar ég var búinn að losa pláss á disknum sem stýrikerfið er á þá virkaði allt vel",
+            "date": "2010-03-08 19:21:00",
+            "post_id": "249257",
+            "reply_to_id": "248438"
+        }
+    ],
+    "date": "2010-03-04 20:45:00"
+}

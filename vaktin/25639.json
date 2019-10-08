@@ -1,0 +1,121 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "25639",
+    "title": "Vandamál eftir Format",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=25639",
+    "posts": [
+        {
+            "user_name": "jens11",
+            "text": "Jæja nú lennti ég sko aldeilis í vandræðum.\nÞannig er málið að ég formataði OS diskinn minn og setti upp xp á henni. Eftir að ég er búinn að því komst ég að því að ég kemst ekki inn á einn aukadiskinn hjá mér. Alltaf þegar ég klikka á hann úr My computer kemur bara þetta upp\nEf eg tjekka svo á Manage þá lítur það svona út, Hann er semsagt Disk 0 þarna\nAldrei hef ég séð svona áður og hef ekki hugmynd hvað skal taka til bragðs. Þar sem ég vill alls ekki missa neitt sem er inná disknum \nDiskurinn er WD green 1tb 32mb\nVona að þið hafið einhver ráð við þessu.\nTakk",
+            "date": "2009-10-20 23:28:00",
+            "post_id": "223057",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "tolli60",
+            "text": "vá þú ert í vanda hef lent í svipuðu  þá var ég að setja inn xp minnir mig og fékk svona skilaboð af aukadiskinum mínum sem var með öll heimavídeoin mín\nþað var langur slagur",
+            "date": "2009-10-20 23:44:00",
+            "post_id": "223059",
+            "reply_to_id": "223057"
+        },
+        {
+            "user_name": "jens11",
+            "text": "ohhh tolli60 þarna settiru mig alveg a bummer. Eg var að vonast eftir quick fix en neinei ekki er lífið alltaf þannig",
+            "date": "2009-10-20 23:50:00",
+            "post_id": "223060",
+            "reply_to_id": "223059"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "prófaðu að gera \nchkdsk /R E:\n í cmd",
+            "date": "2009-10-20 23:58:00",
+            "post_id": "223062",
+            "reply_to_id": "223060"
+        },
+        {
+            "user_name": "tolli60",
+            "text": "Fyrirgefðu mér hálfbrá þegar ég sá hvað þetta er stór diskur,vonandi virkar þetta sem verið er að ráðleggja þér,ég náði af mínum disk fyrir rest en það var blóðugt,ættir að reyna allar aðrar leiðir en þá leið",
+            "date": "2009-10-21 00:19:00",
+            "post_id": "223065",
+            "reply_to_id": "223062"
+        },
+        {
+            "user_name": "Legolas",
+            "text": "Þetta er akkurat ástæðan fyrir því að ég vill ekki eiga svona stóra HD, ef það bilar eða deyr einn HD og\n \nohh.. my God Aaaarrgggg....\n \nBANG\n!! sjálfsmorð  \n.",
+            "date": "2009-10-21 01:25:00",
+            "post_id": "223073",
+            "reply_to_id": "223065"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Ég formataði um daginn óvart 2 diska sem ég átti, voru stútfullir af ljósmyndum og drasli. Fann eitthvað ultimate bootdisk og hann endurheimti ÖLL gögnin mín.",
+            "date": "2009-10-21 02:37:00",
+            "post_id": "223078",
+            "reply_to_id": "223073"
+        },
+        {
+            "user_name": "Oak",
+            "text": "Ef þú ert með pláss fyrir allt sem var á honum þá hefur Power Data Recovery virkað fínt fyrir mig.  Panikkaði alltaf hérna áður fyrr en það hefur verið ekkert mál með Power Data Recovery",
+            "date": "2009-10-21 10:20:00",
+            "post_id": "223092",
+            "reply_to_id": "223078"
+        },
+        {
+            "user_name": "jens11",
+            "text": "Það kemur:\nThe type of the file system is RAW\nCHKDSK is not available for RAW drives.\n:S",
+            "date": "2009-10-21 12:20:00",
+            "post_id": "223102",
+            "reply_to_id": "223092"
+        },
+        {
+            "user_name": "jens11",
+            "text": "Veistu hvort maður getur tekið þá dótið af disknum og sett á nokkra diska ? Eða verður maður að taka allt í einu og setja á 1 disk ?",
+            "date": "2009-10-21 16:00:00",
+            "post_id": "223135",
+            "reply_to_id": "223102"
+        },
+        {
+            "user_name": "tolli60",
+            "text": "sko ég get sagt þér hvað ég endaði á.ég notaði svona forrit eins og verið er að lysa,hvort það hét format recovery eða eitthvað annað,ekki alveg viss.\nsnnilega svipuð,en ég þurfti að fara í  create partition;og síðan quick format og nota svo,rescue files from quick formatted disk,þannig náði ég öllu en forritið bauð ekki upp á að ná frá RAW.Diskurinn virtist vera í lagi í ca mánuð eftir það,þá gaf hann endanlega upp öndina.En gögnin höfðu sum hver tapað dagsetningum og nöfnum sem var mjög slæmt.Það tók marga tíma að skanna diskinn og að flytja á milli samt var það 500gig diskur en ekki fullur.",
+            "date": "2009-10-21 18:20:00",
+            "post_id": "223156",
+            "reply_to_id": "223135"
+        },
+        {
+            "user_name": "jens11",
+            "text": "Já ég er að scanna diskinn nuna með Power Data Recovery. Ætli ég hafi ekki byrjað fyrir svona 5 klst. og það stendur að það séu 13 tímar eftir :s ... ekki veit ég hvort það sé eitthvað að gerast eða hvort þetta taki virkilega svona hrikalegan tima. En eg leyfi þessu bara að rúlla og reyni svo að koma þessu á annan disk.",
+            "date": "2009-10-21 19:04:00",
+            "post_id": "223166",
+            "reply_to_id": "223156"
+        },
+        {
+            "user_name": "Cikster",
+            "text": "Var þetta XP uppfært ... minnir að þurfi að fara allavegana í sp2 fyrir svona stóra diska.",
+            "date": "2009-10-21 19:47:00",
+            "post_id": "223172",
+            "reply_to_id": "223166"
+        },
+        {
+            "user_name": "tolli60",
+            "text": "Hehe já minnir að ég hafi verið 20tíma að skanna vildi bara ekki segja tímann til að hræða þig ekki meir.En svona til að hressa þig  máttu vera sáttur,því það er lítill tími miðað við tímann sem tekur að ná útaf disknum \n  Er það ekki uppörvandi?",
+            "date": "2009-10-21 20:25:00",
+            "post_id": "223183",
+            "reply_to_id": "223172"
+        },
+        {
+            "user_name": "jens11",
+            "text": "Haha jú og jú eg er með sp3",
+            "date": "2009-10-21 20:26:00",
+            "post_id": "223184",
+            "reply_to_id": "223183"
+        },
+        {
+            "user_name": "tolli60",
+            "text": "nei þetta var bara pilla hjá mér til að valda leiðindum \n það er bara eins og að færa á milli diska",
+            "date": "2009-10-21 20:31:00",
+            "post_id": "223187",
+            "reply_to_id": "223184"
+        }
+    ],
+    "date": "2009-10-20 23:28:00"
+}

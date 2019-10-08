@@ -1,0 +1,65 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "73104",
+    "title": "Þráðlaust net og Zhone W1 router",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=73104",
+    "posts": [
+        {
+            "user_name": "ojs",
+            "text": "Sælir vaktarar\nEr með Zhone W1 routerinn frá Vodafone og er að senda þráðlaust net þaðan. Ég þyrfti að koma þráðlaus merkinu yfir í skúr sem er 10 m frá húsinu og er ekki að ná þráðlausa merkinu frá Zhone tækinu þar. Vildi helst sleppa því að leggja kapal og datt í hug að notast við repeater, hafið þið reynslu af einhverjum repeater sem virkar vel með Zhone W1 routerum? Skilst að Unify sé ekki að virka með öllum þráðlausum merkjum, er það rétt skilið?",
+            "date": "2017-05-25 20:27:00",
+            "post_id": "649872",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "hagur",
+            "text": "Unifi er ekki repeater.  Þú býrð til nýtt WIFI network með Unifi AP búnaði og því hefur hann ekkert með existing þráðlaus merki að gera.  Ef þú ert svo með fleiri en einn Unifi AP þá virka þeir saman og búa til eitt stórt WIFI net.",
+            "date": "2017-05-25 21:33:00",
+            "post_id": "649876",
+            "reply_to_id": "649872"
+        },
+        {
+            "user_name": "ojs",
+            "text": "Ok, en getur Unifi þá virkað eins og Wifi bridge? Þ.e. tekið þráðlaust net frá router og búið til sitt nýja Wifi net út frá því? Getur Unify AC Lite gert þetta eða þarf Long Range eða Pro útgáfurnar?\nEinnig, þarf maður control hugbúnaðinn sem er talað um til að stilla hann sem bridge (ef það er þá hægt) eða er hægt að gera þetta í gegnum vefviðmót?",
+            "date": "2017-05-25 21:40:00",
+            "post_id": "649877",
+            "reply_to_id": "649876"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Nú bara veit ég ekki hvort að Unifi AP geti verið bridge fyrir existing net.  Eiginlega efast um það.\nController hugbúnaðurinn er nauðsynlegur fyrir config en svo þarf hann ekkert að vera í gangi meir, frekar en maður vill.  Hann er einmitt web-based, þ.e controllerinn keyrir vefþjón á ákveðnu porti sem maður tengist svo bara með vafra.  Það er svo líka hægt að setja upp einhverskonar cloud access, en ég hef ekki prófað það.  Svo er til app fyrir iOS/Android til að tengjast controllernum og í gegnum það er hægt að configura eitt og annað og monitora.",
+            "date": "2017-05-25 21:56:00",
+            "post_id": "649879",
+            "reply_to_id": "649877"
+        },
+        {
+            "user_name": "ojs",
+            "text": "Hmm, væri kannski TP Link AC1750 WiFi Range Extender AC betri í svona dæmi?",
+            "date": "2017-05-26 00:01:00",
+            "post_id": "649888",
+            "reply_to_id": "649879"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Afhverju viltu ekki leggja kapal? Viltu hafa lélegt net í skúrnum?\nÞað er yfirleitt minna mál en maður heldur að leggja kapla.",
+            "date": "2017-05-26 00:44:00",
+            "post_id": "649891",
+            "reply_to_id": "649888"
+        },
+        {
+            "user_name": "ojs",
+            "text": "Jú jú, það væri best og búið að reyna það. Skúrinn og húsið eru aðskilin og búið að skippta um snúru núna 2 sinnum svo það á að prófa þetta í staðin.",
+            "date": "2017-05-26 10:53:00",
+            "post_id": "649915",
+            "reply_to_id": "649891"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Það eru til sér kaplar sem eiga að geta verið úti  \n \nhttps://www.amazon.com/Outdoor-Waterpro ... B002HFEBYM\nEinhver hér sem veit um svona hér heima?",
+            "date": "2017-05-26 10:55:00",
+            "post_id": "649917",
+            "reply_to_id": "649915"
+        }
+    ],
+    "date": "2017-05-25 20:27:00"
+}

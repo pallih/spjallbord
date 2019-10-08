@@ -1,0 +1,93 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "54364",
+    "title": "Mac OS á USB/Disk á windows",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=54364",
+    "posts": [
+        {
+            "user_name": "Dúlli",
+            "text": "Góðan dag ég var svo gáfaður og keypti mér mac tölvu fyrir nokkru og lenti í því að harði diskurinn bilaði, er búin að kaupa nýjan og sitja í en nú er ég að vesenast í því að sitja stýrikerfið upp næ engan vegin að gera bootable skrá og tölvan nær ekki að lesa það :/\nÞannig ég er að vonast að eithver kann þetta hér, hef séð fólk hér tala af og til um þessar tölvur.\nBætt við :\nÞað virðist að fólk sé ekki að skilja hvað ég er að byðja þannig ætla að útskýra betur.\nEr ekki með Mac stýrikerfis disk\nEr með Mac uppsetningar skrá sem er á .dmg formi\nÞað sem ég vill er að sitja þessa .dmg skrá á usb og gera þennan usb lykill bootable",
+            "date": "2013-04-06 19:13:00",
+            "post_id": "504238",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "worghal",
+            "text": "þegar ég gerði þetta á macbook sem ég á þá var það frekar mikið plug and play bara.\nsetja disk í.\nkveikja á tölvu,\nsetja upp OSX\ndone.",
+            "date": "2013-04-06 19:15:00",
+            "post_id": "504239",
+            "reply_to_id": "504238"
+        },
+        {
+            "user_name": "Dúlli",
+            "text": "Efni: Mac OS á USB/Disk á windows\nEf þú lest betur þá er ég að berjast við að gera fyrsta skrefið hehe, á engan disk og er með windows tölva og þarf að gera bootable USB lykil eða brenna á disk.",
+            "date": "2013-04-06 19:18:00",
+            "post_id": "504240",
+            "reply_to_id": "504239"
+        },
+        {
+            "user_name": "worghal",
+            "text": "semsagt þú keyptir notaða tölvu og fékst ekki uppsetninga diskana með ?",
+            "date": "2013-04-06 19:20:00",
+            "post_id": "504241",
+            "reply_to_id": "504240"
+        },
+        {
+            "user_name": "Dúlli",
+            "text": "Mikið rétt, er samt búin að redda mér stýrikerfi og það er dmg skrá sem ég þarf að skella á disk en helst usb þar sem ég á enga diska  \n \nSmá spurning, fær maður eithvern tíma eithverja stýrikerfis diska þegar maður kaupir eithvað  \n  hef aldrei lent í því",
+            "date": "2013-04-06 19:28:00",
+            "post_id": "504244",
+            "reply_to_id": "504241"
+        },
+        {
+            "user_name": "hkr",
+            "text": "Ættir að geta fundið OS X ISO image á torrent og skellt því á bootable usb kubb.",
+            "date": "2013-04-06 19:55:00",
+            "post_id": "504245",
+            "reply_to_id": "504244"
+        },
+        {
+            "user_name": "Dúlli",
+            "text": "Það virðist að fólk sé ekki að skilja hvað ég er að byðja þannig ætla að útskýra betur.\nEr ekki með Mac stýrikerfis disk\nEr með Mac uppsetningar skrá sem er á .dmg formi\nÞað sem ég vill er að sitja þessa .dmg skrá á usb og gera þennan usb lykill bootable",
+            "date": "2013-04-06 21:32:00",
+            "post_id": "504264",
+            "reply_to_id": "504245"
+        },
+        {
+            "user_name": "akarnid",
+            "text": "Það er tvennt sem þú þarft að gera til að þetta sé hægt.  Annars vegar þarftu að geta format-að drifið sem Mac Os Extended (aka HFS+).  Það er ekki mikið um það á Windows, en \nskv þessu\n þá er hægt að nota diskutil til þess.  En svo þarftu að geta sett boot sectorinn á drifið líka auk þess að hafa breytt Mac OS install skránni úr ISO yfir í Bootable Image form (skrá sem endar á .img) Það er eitthvað tech info \num það hér\n en það virðist sem að þetta sé frekar mikið maus að ætla að gera þetta a Windows.  Þekkiru ekki einhvern sem á makka?  Það er 10-15 mín verk að gera þetta með öllum þessum Lion Bootable USB creation tólum þar.",
+            "date": "2013-04-06 22:11:00",
+            "post_id": "504270",
+            "reply_to_id": "504264"
+        },
+        {
+            "user_name": "Haxdal",
+            "text": "veit ekki hvernig þetta virkar almennilega á makka,  en þú getur breytt dmg í iso og svo bara skrifað hana eða hent á USB lykil með t.d. sardu.\nhttp://www.howtogeek.com/102983/how-to-convert-dmg-files-to-iso-files-on-windows/\nvar einmitt að gera þetta áðan því ég er að reyna koma MacOS X upp á vmware.",
+            "date": "2013-04-07 01:21:00",
+            "post_id": "504290",
+            "reply_to_id": "504270"
+        },
+        {
+            "user_name": "beggi90",
+            "text": "Náðu þér í forrit sem heitir TransMac\nHef notað það nokkrum sinnum í þetta og svínvirkar, bæði usb og að brenna á diska.",
+            "date": "2013-04-07 01:40:00",
+            "post_id": "504291",
+            "reply_to_id": "504290"
+        },
+        {
+            "user_name": "Uralnanok",
+            "text": "PowerIso breytir dmg í iso fyrir þig",
+            "date": "2013-06-09 03:49:00",
+            "post_id": "514574",
+            "reply_to_id": "504291"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "x2\nTransMac reddar þessu með nokkrum músarsmellum",
+            "date": "2013-06-09 15:30:00",
+            "post_id": "514619",
+            "reply_to_id": "514574"
+        }
+    ],
+    "date": "2013-04-06 19:13:00"
+}

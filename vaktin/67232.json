@@ -1,0 +1,44 @@
+{
+    "forum_title": "Windows",
+    "id": "67232",
+    "title": "Finnur ekki harðadisk",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=67232",
+    "posts": [
+        {
+            "user_name": "evilscrap",
+            "text": "Ég var að setja nýjann SSD disk í vélina, ég var með 2 aðra harðadiska á tölvunni sem keyrðu fullkomlega síðan tók ég gamla SSD'inn út setti nýja inn formattaði og allt í einu finnur tölvan ekki einn harðadiskinn. Computer management sér hann en fæ hann ekki upp í my computer. \nGetiði einhvað hjálpað mér ? \n \nhttp://imgur.com/DofDmuX",
+            "date": "2015-10-16 21:03:00",
+            "post_id": "608687",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "evilscrap",
+            "text": "Finnur s.s. ekki 1tb diskinn",
+            "date": "2015-10-16 21:03:00",
+            "post_id": "608688",
+            "reply_to_id": "608687"
+        },
+        {
+            "user_name": "guNr",
+            "text": "Hægrismelltu á hann í Disk Management (Á þetta bláa) og \"Change drive letters & Path\" gæti verið að það vanti bara bókstaf fyrir hann. Þarf ekkert að vera flóknara \n Láttu vita ef það virkar ekki",
+            "date": "2015-10-16 21:17:00",
+            "post_id": "608690",
+            "reply_to_id": "608688"
+        },
+        {
+            "user_name": "evilscrap",
+            "text": "haha virkaði \n takk fyrir meistari",
+            "date": "2015-10-16 21:22:00",
+            "post_id": "608691",
+            "reply_to_id": "608690"
+        },
+        {
+            "user_name": "guNr",
+            "text": "Ekkert mál",
+            "date": "2015-10-16 21:40:00",
+            "post_id": "608692",
+            "reply_to_id": "608691"
+        }
+    ],
+    "date": "2015-10-16 21:03:00"
+}

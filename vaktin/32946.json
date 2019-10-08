@@ -1,0 +1,100 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "32946",
+    "title": "Vantar Info Cisco 1601 r",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=32946",
+    "posts": [
+        {
+            "user_name": "playman",
+            "text": "Getur einhver sagt mér hvað þetta er nákvæmlega?\nhttp://www.cisco.com/en/US/products/hw/ ... 5d76.shtml\nÉg veit að þetta er router en ekki hverninn eða fyrir hvað.\nÖll skítköst og óþarfa flame er afþakkað.",
+            "date": "2010-10-04 15:15:00",
+            "post_id": "286132",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Þetta er í stuttu máli bara router, gegnir í grunninn sömu hlutverkum og aðrir routerar.\nÞetta er hinsvegar Cisco græja og þar af leiðandi býður hann upp á talsvert meira af advanced function, ósköp lítið af þeim sem gagnast til heimanota.",
+            "date": "2010-10-04 15:18:00",
+            "post_id": "286135",
+            "reply_to_id": "286132"
+        },
+        {
+            "user_name": "playman",
+            "text": "En router frá símanum VS. þessi?\nT.d. fyrir Utorrent osf.\nGallin við ciscoin er að hann er bara með eitt out port, þannig að maður þyrfti væntanlega að setja upp hub/switch með honum?",
+            "date": "2010-10-04 16:09:00",
+            "post_id": "286150",
+            "reply_to_id": "286135"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ég hef enga sérstaka þekkingu á þessum sérstaka Cisco router, en er nookkuð viss um að flest allt sem heitir Cisco rústar Speedtouch consumer línu sullinu.",
+            "date": "2010-10-04 16:11:00",
+            "post_id": "286151",
+            "reply_to_id": "286150"
+        },
+        {
+            "user_name": "playman",
+            "text": "ok kærar þakkir",
+            "date": "2010-10-04 16:31:00",
+            "post_id": "286162",
+            "reply_to_id": "286151"
+        },
+        {
+            "user_name": "natti",
+            "text": "Þessi tiltekni router er jú með alveg eitt ethernet interface... 10mb ethernet interface.\nOg þessi tiltekni router styður alveg heil 2.05 Mbps í throughput.\nOg litið til þess að þessi router hætti í sölu árið 2002, og var þá kominn á vel á aldur, þá myndi ég gekki gera ráð fyrir mikið af \"advanced\" fítusum.\nEfast um að hægt sé að finna speedtouch router sem er hægvirkari en þessi \nBottom line: ekki gera þér það að fara að nota þennan router, nema þá bara til að prufa og ef þig langar til að læra e-ð á cisco...",
+            "date": "2010-10-05 09:41:00",
+            "post_id": "286283",
+            "reply_to_id": "286162"
+        },
+        {
+            "user_name": "playman",
+            "text": "Já kærar þakkir, Þetta er einmitt það sem að ég var að leita af  \n \nÉg læt hann/þá bara fara í endurvinnslu fyrst að hann er það gamall og úreltur.",
+            "date": "2010-10-05 17:22:00",
+            "post_id": "286387",
+            "reply_to_id": "286283"
+        },
+        {
+            "user_name": "Ulli",
+            "text": "hef bara slæma reinslu af link sys routerum -_-",
+            "date": "2010-10-05 17:29:00",
+            "post_id": "286388",
+            "reply_to_id": "286387"
+        },
+        {
+            "user_name": "natti",
+            "text": "Bara ekki henda í ruslið. Alltaf einhverjum sem langar að eiga svona, t.d. til að læra á/prufa eða whatnot.\nSvo fyrir þau fyrirtæki sem eru að kaupa nýjan búnað, þá geta þau sett gamlan búnað upp í til að fá meiri afslátt.",
+            "date": "2010-10-06 09:19:00",
+            "post_id": "286549",
+            "reply_to_id": "286388"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Hah, ég hefði betur lesið spekkana á þessum router áður en ég fór að skíta yfir SpeedTouchið",
+            "date": "2010-10-06 09:33:00",
+            "post_id": "286552",
+            "reply_to_id": "286549"
+        },
+        {
+            "user_name": "playman",
+            "text": "Hmm já.... held að ég eigi 2 eða 3 1601r og eins með 680 eða hvað svosem hann hét aftur.\nEn væru þeir ekki bara að fara á einhverja hundrað kalla? spurning hvort að maður nenni að \nstanda í þeirri sölu. \n \nNema að einhver kæmi bara og vildi kaupa þá alla af mér",
+            "date": "2010-10-06 18:33:00",
+            "post_id": "286676",
+            "reply_to_id": "286552"
+        },
+        {
+            "user_name": "natti",
+            "text": "Eða þá að bjóða þá gefins gegn því að verða sóttir. \nEins og þú segir, efast um að þú getir selt þá (nema að einhverjum hér langi til að kaupa), en datt meira í hug að þeir gætu mögulega gagnast einhverjum áhugasömum.",
+            "date": "2010-10-06 22:51:00",
+            "post_id": "286773",
+            "reply_to_id": "286676"
+        },
+        {
+            "user_name": "playman",
+            "text": "Hehe, Ég fæ nokkra hundrað kalla við að setja þá í endurvinnslu ;-) (fyrir hvern router)\nEn svo veit maður sossum aldrey hvað maður gerir.",
+            "date": "2010-10-07 00:18:00",
+            "post_id": "286804",
+            "reply_to_id": "286773"
+        }
+    ],
+    "date": "2010-10-04 15:15:00"
+}

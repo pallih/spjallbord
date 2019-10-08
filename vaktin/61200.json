@@ -1,0 +1,37 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "61200",
+    "title": "GTX 770 Crash",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=61200",
+    "posts": [
+        {
+            "user_name": "dnz",
+            "text": "Jæja, ég er nýbúinn að uppfæra úr HD5870 í GTX 770 og er að lenda í því að þegar kortið fer að keyra eitthvað þungt þá er eins og tölvan slái út, aflgjafinn cuttar bara á rafmagnið. Lennti aldrei í þessu með 5870 kortið. Uppfærði minnið einnig úr 6GB Mushkin 1600Mhz í 12GB Corsair 1600Mhz.\nEr búinn að keyra prime95 og örgjörvinn heldur sér undir álagi, prófaði Furmark í smá og þá gerðist það sama og þegar ég var að reyna að keyra leiki eins og Watch Dogs og NFS Pro Street. Lennti ekki í þessu með nýja Wolfenstein í Ultra né Battlefield 4 í Ultra.\nEr með 850W Zalman aflgjafa, er reyndar orðin 5-6 ára gamall og ég er farinn að hallast að því að hann sé ástæðan fyrir þessu öllu en langar samt að fá ykkar álit á málinu, hefur einhver lennt í svipuðu þegar skjákortið var uppfært eða álíka?\nEr með i7 920 @ 2,66 sem liggur í Gigabyte EX58-UD4P móðurborði.",
+            "date": "2014-06-08 11:38:00",
+            "post_id": "564301",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "brain",
+            "text": "jamm, myndi byrja á að prófa annan aflgjafa.",
+            "date": "2014-06-08 11:55:00",
+            "post_id": "564303",
+            "reply_to_id": "564301"
+        },
+        {
+            "user_name": "Alfa",
+            "text": "TDP á GF 770 er 230W vs 188W á ATI 5870 svo það krefst meira rafmagns en það er ekki svo mikil munur ca 16 amp vs 19.  Þessi aflgjafi ætti að leika sér að þessu ef það er í lagi með hann allavega.\nErtu að nota nýjasta driverinn?  BF4 í Ultra er nú hellings aflfrekur en Watch Dogs krefst nýjasta drivers miðað við Nvidia forums.\nEf þú átt möguleika myndi ég útiloka skjákortið sjálft með því að prufað það í annarri vél.",
+            "date": "2014-06-08 21:09:00",
+            "post_id": "564341",
+            "reply_to_id": "564303"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Aflgjafinn ætti amk. að höndla kortið. Ég er að keyra samskonar kort á Corsair AX750. Er búinn að keyra Watch_Dogs og BF4 í Ultra á þessu og það með i5 4670K en er ekki að lenda í neinum vandræðum. Hef reyndar ekki spilað NFS Pro Street en hef spilað NFS Rivals og þar er ekkert vesen.. en sá leikur notar að vísu Frostbite 3 þannig það ætti ekki að vera mikill munur á honum og BF4 í vinnslu.\nEn fyrst örgjörvinn heldur sér í lagi og tölvan kúplar sig út við heavy graphic vinnslu þá myndi ég skjóta á að annað hvort er skjákortið að klikka eða þá aflgjafinn er orðinn eitthvað slappur og er ekki höndla álagið frá skjákortinu.\nEins og var sagt hér fyrir ofan myndi ég reyna að útiloka kortið með því að byrja á því að update-a drivers, ef það lagar ekki þá setja það í aðra tölvu, ef hún crashar líka þá ertu kominn með svarið. Ef hún er í lagi þá myndi ég giska á aflgjafann.",
+            "date": "2014-06-09 03:23:00",
+            "post_id": "564362",
+            "reply_to_id": "564341"
+        }
+    ],
+    "date": "2014-06-08 11:38:00"
+}

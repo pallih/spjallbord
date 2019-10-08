@@ -1,0 +1,44 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "59676",
+    "title": "Nvidia TITAN vs. GTX 780 Ti OC",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=59676",
+    "posts": [
+        {
+            "user_name": "Templar",
+            "text": "Sælir\nÉg var með TITAN (til sölu) í rigginum, er núna með GTX 780 Ti OC sem er non reference kort, auka græjur (cappar) fyrir xtreme OC og keyrir kortið á 1080MHz standard í boost en í mínu tilfelli er það að fara í 1149MHz sjálft, Titan kortið fór alltaf vel yfir 1000MHz vantskælt. Ti OC kortið er ekki vatnskælt því eldri blokk passar ekki á það en það koma blokkir núna í feb frá EK t.d. kemur kannski meira út úr sjálfvirkt við betri kælingu.\nPælingar varðandi TITAN vs. 780 Ti OC\n1. Ekki séns að \"finna\" mun á kortunum en pottþétt að hann mælist eins og sést alls staðar.\n2. Minnisnotkunin í t.d. World of Tanks er upp í 2GB og því á 780 Ti kortinu aðeins 1GB eftir, ef þú minimize-ar leikinn þá losnar strax 1GB í minni sem hleðst svo strax inn þegar þú maxar aftur, mjög dýnamísk notkun greinilega en 3Mb er bara kjaftæði, Ti hefði átt að fá 6GB eins og Titan.\n3. Ti kortið hitnar aðeins meira en Titan, er að fá svipaða temps á Ti með öflugri 3 viftu kælingu vs. stock kæling á TITAN, greinilegt að Ti yields hafa verið lægri en TITAN en Nvidia með svo góða stjórn á markaðnum að þeir geta hent út svona kubbum bara eins og hentar og lekið svo incremental uppfærslum eins og Ti til að halda specca krúnunni þegar þeir hafa safna nóg af high end yields kubbum.\n4. Ti OC notar 2x 4rása 12v vs. 3+4 rásir á Titan.\n5. Titan er mikið flottara nafn en Ti \n hefði viljað sjá 2 kjarna kort, ótrúlegt hvað t.d. 690 er enn að gera svakalega góða hluti.",
+            "date": "2014-02-09 23:13:00",
+            "post_id": "551311",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Garri",
+            "text": "Spurning að leiðrétta þetta með mb yfir í gb?",
+            "date": "2014-02-09 23:38:00",
+            "post_id": "551316",
+            "reply_to_id": "551311"
+        },
+        {
+            "user_name": "Fletch",
+            "text": "hefðir átt að fá þér reference kort, hefði blokkin þá ekki passað?\nég er með mitt Ti vatnskælt og með core á ca +300\nhæsta temp sem ég hef séð í gaming er 47°C",
+            "date": "2014-02-10 09:31:00",
+            "post_id": "551333",
+            "reply_to_id": "551316"
+        },
+        {
+            "user_name": "Templar",
+            "text": "Það er fjandi gott temp og verulega gott OC, tæplega 30% aukning á core, munar um minna!! Því miður hefði blokkin ekki passað heldur á Ti reference en nóg til að blokkum í dag á þau kort en ég bíð í voninni að EK komi með blokk handa mér seinna í þessum mánuði, munar ekkert smá svakalega að vatnskæla þetta. Hvernig vatnskælingu ertu með?",
+            "date": "2014-02-10 17:47:00",
+            "post_id": "551378",
+            "reply_to_id": "551333"
+        },
+        {
+            "user_name": "Fletch",
+            "text": "Er með xspc 780\nhttp://www.frozencpu.com/products/22286 ... 9c661s2133\nPassar á Titan / 780  / 780 Ti reference kort\nEr svo með 2×360mm rads ( cpu í sömu loop)",
+            "date": "2014-02-10 21:00:00",
+            "post_id": "551397",
+            "reply_to_id": "551378"
+        }
+    ],
+    "date": "2014-02-09 23:13:00"
+}

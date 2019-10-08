@@ -1,0 +1,107 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "47742",
+    "title": "Það er eitthvað að",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=47742",
+    "posts": [
+        {
+            "user_name": "mikkidan97",
+            "text": "Sælir vaktarar. Það vill svo æðislega til að ég var að uppfæra harðadiskinn minn, og ætla að nota 320 GB disk sem stýrikerfisdisk og þennan 500 GB aðeins sem geymsludisk. Það vildi svo æðislega til að á 500 GB disknum var uppsett Windows Vista, sem ég uppfærði í Windows 7. En hér er vandamálið: \nÍ hvert einasta skipti sem ég starta tölvunni, eftir að hafa tekið geymsludiskinn úr sambandi, þá kemur upp Missing Operating System Insert boot media.... Af hverju virkar tölvan ekki án geymsludisks og hvernig er hægt að redda þessu?",
+            "date": "2012-05-12 09:56:00",
+            "post_id": "440725",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "audiophile",
+            "text": "Eru þeir stilltir í RAID eða?",
+            "date": "2012-05-12 09:57:00",
+            "post_id": "440726",
+            "reply_to_id": "440725"
+        },
+        {
+            "user_name": "mikkidan97",
+            "text": "Neibb, þeir eru ekki stilltir í RAID",
+            "date": "2012-05-12 10:01:00",
+            "post_id": "440727",
+            "reply_to_id": "440726"
+        },
+        {
+            "user_name": "tdog",
+            "text": "Stýrikerfisdiskurinn er stilltur sem slave og geymsludiskurinn sem master, svissaðu.",
+            "date": "2012-05-12 10:09:00",
+            "post_id": "440728",
+            "reply_to_id": "440727"
+        },
+        {
+            "user_name": "mikkidan97",
+            "text": "Annar er IDE, hinn er SATA II",
+            "date": "2012-05-12 10:12:00",
+            "post_id": "440729",
+            "reply_to_id": "440728"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Það er líka ágæt regla að taka alla diska úr samabandi nema SYSTEM þegar þú installerar WIN.\nWin á það til að henda boot skrám á slave diskana, svo tekurðu slave úr sambandi og þá virkar win ekki.",
+            "date": "2012-05-12 10:13:00",
+            "post_id": "440730",
+            "reply_to_id": "440729"
+        },
+        {
+            "user_name": "mikkidan97",
+            "text": "Úff... þýðir það að ég þurfi að setja tölvuna upp á nýtt?",
+            "date": "2012-05-12 10:22:00",
+            "post_id": "440731",
+            "reply_to_id": "440730"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Mjög líklega",
+            "date": "2012-05-12 10:24:00",
+            "post_id": "440732",
+            "reply_to_id": "440731"
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "Þarft að gera þettað í bios-num skoða hvort 320diskurinn sé ekki nr 1, var windows sett upp með báða diska tengda ? stundum kemur svona rugl eins og win setup setji einhverjar skrár á auka disks/a \n  Hjá mér verður röðin að vera rétt 120ssd+640hdd+2000hdd ef ég breyti snúrum og 2tb er fyrir ofan 640gb þá vill hún ekki starta \n \nEn það er alltaf best að taka alla auka hdd úr sambandi meðan maður setur upp Windows",
+            "date": "2012-05-12 10:25:00",
+            "post_id": "440733",
+            "reply_to_id": "440732"
+        },
+        {
+            "user_name": "Tiger",
+            "text": "AMEN to that. \nVeit ekki hversu oft maður hefur lent í því að \"Boot Manager missing\".......og maður var lengi að fatta afhverju.",
+            "date": "2012-05-12 10:39:00",
+            "post_id": "440735",
+            "reply_to_id": "440733"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "hahaha já svo fann maður hann á öðrum HD  \n \nSkrítið að M$ séu ekki búnir að laga þennan bögg.",
+            "date": "2012-05-12 10:41:00",
+            "post_id": "440736",
+            "reply_to_id": "440735"
+        },
+        {
+            "user_name": "mikkidan97",
+            "text": "Úff.... Vesen.",
+            "date": "2012-05-12 11:59:00",
+            "post_id": "440747",
+            "reply_to_id": "440736"
+        },
+        {
+            "user_name": "kubbur",
+            "text": "getur verið að bootloaderinn sé á geymsludisknum ?",
+            "date": "2012-05-12 12:06:00",
+            "post_id": "440751",
+            "reply_to_id": "440747"
+        },
+        {
+            "user_name": "mikkidan97",
+            "text": "Það gæti vel verið, hvernig er hægt að tékka á því?",
+            "date": "2012-05-12 12:09:00",
+            "post_id": "440753",
+            "reply_to_id": "440751"
+        }
+    ],
+    "date": "2012-05-12 09:56:00"
+}

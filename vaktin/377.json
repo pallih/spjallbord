@@ -1,0 +1,100 @@
+{
+    "forum_title": "Leikjasalurinn",
+    "id": "377",
+    "title": "|Z|Server -Uppfærslur-",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=14&t=377",
+    "posts": [
+        {
+            "user_name": "PeZiK",
+            "text": "Ég tók eftir því um leið og serverinn fór upp að hann var ekki að skila nógu miklu til leikmanna, þ.e.a.s. ping. Samt sem áður var hann frekar smooth og menn ánægðir með útkomuna þó svo að hann var að pinga á bilinu 60 - 120 ms. Ég vissi að það væri hægt að fá miklu betra ping út úr honum þar sem við erum með mjög stóran link þ.e.a.s. 100mb/s. Eðlilegt væri að fá 25 - 40 í ping samkvæmt því. \n\n\n\nMikil tilraunastarfsemi er búin að vera í gangi núna undanfarna daga og menn hafa eflaust tekið eftir því að serverinn er búinn að vera í og úr sambandi reglulega. Ástæðan er sú að ég er búinn að vera að fara í gegnum netkóðann og taka hænuskref áfram til þess að átta mig á þessum frumskógi. í nótt 20.Febrúar tókst mér loksins að fá ping sem ég var ánægður með - 25 til 35 og fer ekki hærra en það á mínu 512 ADSL hjá Íslandssíma. Woooha  \n\n\n\nÞað væri mjög gott ef menn prufuðu hann núna og gæfu mér upp ping og hver er að hýsa ADSL-ið ykkar svo ég átti mig betur á þessu netdæmi. ATH ! þið verðið a.m.k. að vera inni í ca. 2mín til þess að sjá final ping ! \n\n\n\nDæmi : \n\n\n\nPeZiK, Íslandssími, ADSL 512, Ping 30 - 35 \n\n\n\n\n\n|Z|PeZiK",
+            "date": "2003-02-20 14:07:00",
+            "post_id": "2254",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "PeZiK",
+            "text": "Enn og aftur er búið að laga netkóðann á |Z|Server og vonandi í síðasta skipti. Hann er orðinn MegaSmooth að mínu mati og ekkert PacketLoss. Ég mæli með því að allir slökkvi á MSN þegar það er verið að spila, ég fann fyrir miklum breytingum til batnaðar þegar hann var ekki í gangi.\n\n\n\nÆskilegt er að hafa \nNetspeed 10000 \ntil að fá full performance og ef þið hafið 30 - 35 í ping eruði í mjög góðum málum. \n\n\n\nTil að athuga netspeed :\n\n\n\nýtið á F6, þá fáið þið upp Netstatus og sjáið Netspeed\n\ntil að breyta Netspeed, skrifið netspeed 10000 í UT2K3 console.\n\n\n\nNjótið vel,\n\n\n\n|Z|PeZiK",
+            "date": "2003-02-21 12:30:00",
+            "post_id": "2282",
+            "reply_to_id": "2254"
+        },
+        {
+            "user_name": "DippeR",
+            "text": "Netspeed fer \nGJÖRSAMLEGA\n eftir tengingum. Netspeed cappar líka fps. Það hæsta sem þú getur verið með í netspeed er 20000, en ég mæli ekki með því nema fyrir 1mb's+ tengingar. Ég myndi ekki segja að það væri í öllum tilfellum æskilegt að hafa 10000, heldur ætti fólk að prófa sig áfram sjálft og finna út með hvaða stillingum það fær besta fps/ping og nota þær stillingar. Einnig getur verið gott að þegar menn erum að deila tengingum td. á lönum, að minnka netspeed til þess að fá lægra ping þó á kostnað FPS. Netspeed hefur engin áhrif á hraðan á laninu sjálfur hinsvegar þar sem að LANspeed er default stillt á 20000.\n\n\n\nMeiri upplýsingar um tickrate/netspeed/fps er að finna á \nhttp://www.unrealadmin.org",
+            "date": "2003-02-21 14:00:00",
+            "post_id": "2287",
+            "reply_to_id": "2282"
+        },
+        {
+            "user_name": "PeZiK",
+            "text": "jújú mikið rétt, en málið er að server sendir aldrei meira frá sér en sá sem getur tekið við. Ef svo er þá byrjar packetloss á fullu, þ.e.a.s. ef server er að senda of mikið af upplýsingum til notandans þá fer leikurinn að sleppa út smáatriðum s.s. rocets, shock beam o.fl.\n\n\n\nSamkvæmt unrealadmin er hæsta internetclient 7000 í netspeed og fer aldrei yfir það. Ekki má rugla saman Lan og Internet.\n\n\n\nServerinn er stilltur núna á 6000 í internetclient og 32 í tickrate sem er að skila besta árangri núna til þessa.\n\n\n\nÞannig að best er að hafa Nespeed á milli 6000 og 10000 hjá notanda, prufið ykkur bara áfram. \n\n\n\nTakk fyrir þetta Dipper.\n\n\n\n|Z|PeZiK",
+            "date": "2003-02-21 14:10:00",
+            "post_id": "2289",
+            "reply_to_id": "2287"
+        },
+        {
+            "user_name": "PeZiK",
+            "text": "Epic Bonuspack : \nhttp://www.vaktin.is/unreal/\n 150mb\n\nMapvote : allar leikjatýpurnar komnar inn \"þurfti að scripta það helv... \n\"\n\nUTsecure : Svindlvörn\n\n\n\nleikir sem eru inni núna eru :\n\n\n\nDeathmatch, Team Deathmatch, Capture the Flag, Double Domination, Rocket Arena, Last Man Standing, Invation og Mutate.\n\n\n\nÞað eru yfir 100 borð komin í hringrás !\n\n\n\nNjótið vel \n\n\n\n\n|Z|PeZiK",
+            "date": "2003-03-12 10:35:00",
+            "post_id": "2676",
+            "reply_to_id": "2289"
+        },
+        {
+            "user_name": "Castrate",
+            "text": "úje. nú er bara að massa þetta.",
+            "date": "2003-03-12 10:59:00",
+            "post_id": "2677",
+            "reply_to_id": "2676"
+        },
+        {
+            "user_name": "PeZiK",
+            "text": "TTM 2003 v.1 er böggað og ég þurfti að taka það út, er að skoða nýju betuna af TTM v.2, hendi henni kannski inn við tækifæri.\n\n\n\nHva ! djö ! ertu klikk !! bíípsándin og ....\n\n\n\nMálið var að sumir hlutir hættu að birtast s.s. í MENU/INGAME  eftir að epicbonuspackone kom út. Invation vantaði RADAR og eflaust meira sem maður hefur ekki greint í hasarnum. Þannig allar leikjatýpurnar eru komnar inn aftur á |Z|Server - kannski virkar þetta skemmtilegra núna þegar allt er komið inn.\n\n\n\nSömuleiðis hef ég bætt í hópinn DeathBall v1.6 til þess að fá smá tilbreytingu frá skoteríinu. Þetta er snilldarmod sem er blanda af fótbolta, rúbbí og að berja fólk með hamri \n Þið getið náð í þetta á vaktinni \nhttp://www.vaktin.is/unreal/\n\n\n\n\nVonandi lagast MapVote með \"Prefix\" dæmið í næsta version-i,  td. í Rocket Arena :\n\n\n\nRA-Antalus í staðinn fyrir DM-Antalus osfrv. svo við sjáum hvaða leikjatýpur hafa verið valdar.\n\n\n\n\n\n|Z|PeZiK",
+            "date": "2003-03-17 03:21:00",
+            "post_id": "2881",
+            "reply_to_id": "2677"
+        },
+        {
+            "user_name": "Castrate",
+            "text": "kúl. ég er núna með v2.3b af TTM og hún er alveg að virka sko. Einnig sögðu þeir á heimásíðu TTM að 2.3b myndi líklegast vera seinasta betan fyrir v2 full",
+            "date": "2003-03-17 09:17:00",
+            "post_id": "2883",
+            "reply_to_id": "2881"
+        },
+        {
+            "user_name": "PeZiK",
+            "text": "Jæja, nú loksins koma þau borð sem maður hefur ekki af Z server á full-speed hraða beint inn í cache, það þurfti að búa til sér WWW svæði með þjöppuðum borðum, mutators, textures og static meshes \" svipað og zip og rar \" sem Z server beinir beint til.\n\n\n\n. Plug'n Play !\n\n\n\nÉg vil þakka FragMan og Castrate fyrir það að ýta á mig að klára þetta...Og sérstaklega Kidda í Vaktinni sem útbjó netkóðann fyrir mig...takk dúds \n\n\n\n\nEinnig stendur til MEGA hreinsun af borðum sem eru aldrei spiluð - hreint út sagt \"leiðinleg\". Hér eftir mun Z server einungis styðjast við Cliffy B Ownage möppin og önnur borð sem eru viðurkennd af UT2K3 menningunni. \n\n\n\nDM, TDM, CTF & RA verður það sem verður í boði hér eftir...Invation, LMS & Mutant verður drekkt í skítugri klósettskál.\n\n\n\nSömuleiðis hef samið við borgaryfirvöld til þess að setja efni út í drykkjarvatn Íslendinga sem gerir þá háða UT2K3.... :Þ\n\n\n\nLess is More !\n\n\n\n|Z|PeZiK",
+            "date": "2003-03-30 23:39:00",
+            "post_id": "3504",
+            "reply_to_id": "2883"
+        },
+        {
+            "user_name": "Castrate",
+            "text": "ekki taka lms úr. lms er frekar mikið spilað. en hitt máttu taka. Svo eru svo mörg borð sem má fjarlægja.",
+            "date": "2003-03-31 13:47:00",
+            "post_id": "3530",
+            "reply_to_id": "3504"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "þarf mar að kaupa þennan leik? \n\nég meina, er svona cdkey shit ?",
+            "date": "2003-03-31 14:37:00",
+            "post_id": "3535",
+            "reply_to_id": "3530"
+        },
+        {
+            "user_name": "DippeR",
+            "text": "jám cd key shit.. og að vísu líka disc check en það er hægt að fara framhjá því með no cd cracki. Ég vona að það komi no cd patch frá Epic fljótlega, ég býst við því að það komi í þarnæsta patchi (patchi #6)\n\n\n\nEða.. amk. vona ég það..",
+            "date": "2003-03-31 15:00:00",
+            "post_id": "3538",
+            "reply_to_id": "3535"
+        },
+        {
+            "user_name": "Castrate",
+            "text": "cdkey shit alveg nákvæmlega eins og í counter strike",
+            "date": "2003-03-31 16:09:00",
+            "post_id": "3543",
+            "reply_to_id": "3538"
+        }
+    ],
+    "date": "2003-02-20 14:07:00"
+}

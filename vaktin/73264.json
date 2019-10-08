@@ -1,0 +1,142 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "73264",
+    "title": "[FIXED] Tölvan finnur ekki skjákortið",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=73264",
+    "posts": [
+        {
+            "user_name": "GuðjónR",
+            "text": "Ég keypti 1050 skjákort í litla Fractal Design Define Nano S kassann, nema hvað ... þegar ég ræsi tölvuna þá fer windowsið upp en skjárinn er svartur. Ef ég svissa á onboard GPU (Intel 640), þá kemur desktopið upp. Í Device Manager þá er bara Intel 640 á listanum, prófaði að setja upp Nvidia driver en hann stoppaði með þeim skilaboðum að það væri ekker nvidia skjákort í tölvunni.\nPrófaði kortið í annari tölvu og þar virkaði það 100% ...\nAny thoughts?",
+            "date": "2017-06-09 22:12:00",
+            "post_id": "650970",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "loner",
+            "text": "Prufaðu að taka kortið úr og setja í aftur og að það sitji rétt.",
+            "date": "2017-06-09 22:16:00",
+            "post_id": "650971",
+            "reply_to_id": "650970"
+        },
+        {
+            "user_name": "loner",
+            "text": "Ef það dugar ekki, prufa þá  \"Add Hardware\"  í settings.\nRenna yfir BIOS stillingar, ef það dugar ekki, þá held ég að kortið sé dautt.",
+            "date": "2017-06-09 22:33:00",
+            "post_id": "650973",
+            "reply_to_id": "650971"
+        },
+        {
+            "user_name": "loner",
+            "text": "Nema ef sé straumleysi að kenna.",
+            "date": "2017-06-09 22:34:00",
+            "post_id": "650974",
+            "reply_to_id": "650973"
+        },
+        {
+            "user_name": "FreyrGauti",
+            "text": "Hvernig móðurborð er í vélinni, típuheiti þá?",
+            "date": "2017-06-10 00:38:00",
+            "post_id": "651006",
+            "reply_to_id": "650974"
+        },
+        {
+            "user_name": "loner",
+            "text": "Meðal annars, voru ekki vandræði útaf þessum kortum á sumum móbóum og þurfti að uppfæra BIOS vegna þess.",
+            "date": "2017-06-10 01:00:00",
+            "post_id": "651009",
+            "reply_to_id": "651006"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Búinn að prófa, no luck.\nVirkar ekki, en kortið er sprellifandi því það virkar í annari tölvu.\n750W PSU, ekkert rafmangstengi á sjálfu kortinu.\nFatal1ty Z270 Gaming-ITX/ac\nhttp://asrock.com/mb/Intel/Fatal1ty%20Z ... /index.asp\nÞekki það ekki, en er samt með nýjasta BIOS.",
+            "date": "2017-06-10 08:35:00",
+            "post_id": "651012",
+            "reply_to_id": "651009"
+        },
+        {
+            "user_name": "loner",
+            "text": "Virkar annað skjákort í slottinu.",
+            "date": "2017-06-10 09:41:00",
+            "post_id": "651015",
+            "reply_to_id": "651012"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Góð spurning .... hef ekki prófað annað skjákort. Ætti að prófa það við tækifæri.",
+            "date": "2017-06-10 09:45:00",
+            "post_id": "651016",
+            "reply_to_id": "651015"
+        },
+        {
+            "user_name": "loner",
+            "text": "Annað, prufa að resetta biosinn, leyfa honum að endursetja DMA og IRQ stillingar.",
+            "date": "2017-06-10 10:07:00",
+            "post_id": "651017",
+            "reply_to_id": "651016"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Það er  Clear CMOS Switch á borðinu, sakar svo sem ekki að prófa það. Ef ég ræsi beint upp í BIOS (DOS)  þá virkar kortið ekki þar heldur.",
+            "date": "2017-06-10 10:48:00",
+            "post_id": "651020",
+            "reply_to_id": "651017"
+        },
+        {
+            "user_name": "Moldvarpan",
+            "text": "Er kortið að fá örugglega nægt djús frá aflgjafanum?\nSoldið sérstakt að þetta sé að gerast allt í einu, eftir að hafa verið að virka saman áður.\nEða ertu að setja það í, í fyrsta skipti?",
+            "date": "2017-06-10 11:56:00",
+            "post_id": "651022",
+            "reply_to_id": "651020"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Í fyrsta sinn, tölvan er ný. Það er HDMI port á móðurborðinu sem styður 4k@60Hz (flest onboard eru max 30Hz).\nÍ raun þá virkar innbygða Intel 640 mjög vel, í raun miklu betur en ég hefði þorað að vona, en mig langaði að prófa steam safnið og keypti því þetta til að prófa. Það er ekkert powertengi á sjálfu kortinu, það á að fá allan strauminn í gegnum tengið sjálft.",
+            "date": "2017-06-10 12:16:00",
+            "post_id": "651023",
+            "reply_to_id": "651022"
+        },
+        {
+            "user_name": "worghal",
+            "text": "er ekki max output á pci-e 75w? og þetta kort er akkúrat að pulla aðeins of mikið? galli?\nhvaða 1050 kort er þetta nákvæmlega?",
+            "date": "2017-06-10 12:24:00",
+            "post_id": "651026",
+            "reply_to_id": "651023"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Það virkaði í annari tölvu, kortið er í review í síðasta innleginu mín og hérna:\nhttps://www.tl.is/product/geforce-gtx-1 ... ara-abyrgd",
+            "date": "2017-06-10 12:34:00",
+            "post_id": "651027",
+            "reply_to_id": "651026"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "http://www.tomshardware.co.uk/answers/i ... ples.html+\nhttp://www.tomsguide.com/answers/id-293 ... ected.html",
+            "date": "2017-06-10 12:37:00",
+            "post_id": "651030",
+            "reply_to_id": "651027"
+        },
+        {
+            "user_name": "loner",
+            "text": "Í \"Device manager\" velja þar \"View\" og \"Show hidden devices\" færðu fram viðvörunarmerki á listanum.",
+            "date": "2017-06-10 13:03:00",
+            "post_id": "651031",
+            "reply_to_id": "651030"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Það er komin lausn!\nSlökkti á tölvunni, hélt inni í 5 sec. takkanum \"CLR CMOS\", þá kveikti tölvan á sér og restartaði tvisvar, því næst bomm! Kortið fannst!\nBootaði upp í Windows og setti upp viðeigandi driver, allt 100%. Þurfti bara að resetta BIOS, veit ekki af hverju.\nTakk fyrir allar ábendingarnar.",
+            "date": "2017-06-10 15:55:00",
+            "post_id": "651049",
+            "reply_to_id": "651031"
+        },
+        {
+            "user_name": "HalistaX",
+            "text": "Frábært að þetta sé komið! \nHvernig er kortið svo að perform'a? Verður að gefa okkur update á það! \nSá á einhverjum öðrum þræði fyrir svolitlu síðan að þú ætlaðir í 4K? Það yrði gaman að heyra hvað þetta kort getur gert í þeirri deildinni..",
+            "date": "2017-06-10 16:42:00",
+            "post_id": "651056",
+            "reply_to_id": "651049"
+        }
+    ],
+    "date": "2017-06-09 22:12:00"
+}

@@ -1,0 +1,100 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "9427",
+    "title": "Vandamál að spila tölvuleiki",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=9427",
+    "posts": [
+        {
+            "user_name": "^Soldier",
+            "text": "Ég keypti mér skjákort fyrir ári síðan sem kostaði 45.000kr og er Radeon 256mb x800xt.  Það var í fína lagi með það þangað til í sumar en þá fór það að hegða sér undarlega.  Ég keypti mér battlefield2 og átti erfitt með að spila hann því hann var alltaf að frjósa og tölvan oft að restarta sér.  Ég bjóst ekki við því að það væri skjákortinu endilega að kenna.\n\n\n\nSvo núna fer þetta versnandi, oft eru að koma truflanir í leikjum sem ég er að spila á skjáinn og þeir eru oft að frjósa.  Þetta á við um alla leiki sem ég spila (þ.e.a.s þessa stóru).\n\n\n\nÉg fer t.d. í World of Warcraft, leikurinn virkar smooth og ekki vottur um lagg.  Svo eftir kannski 20 mínútur eða meira þá byrja að koma truflanir í leikinn, alltaf meira og meira, þangað til hann frýs og ég þarf að restarta tölvunni eða hún restartar sér sjálf.\n\nOft koma upp fullt af punktum á skjáinn, allskonar á litin og svartur bakrunnur (spúkí) og þá restartar maður bara vélinni.  Stundum hefur komið upp error gluggi sem stendur \"VGA Error\" að mig minnir (langt síðan ég sá hann síðast, og hef aldrei náð skjáskoti af honum).  Þá býður hún mér að senda errorinn eða bara cansela en ég hef aldrei geta sent hann.\n\n\n\nÉg tel mjög miklar líkur að þetta sé skjákortið sem er að gera mér lífið leitt.  Ég er búinn að prufa fullt af driverum, gömlum og nýjum en þetta er alltaf eins.  Einnig finnst mér ótrúlegt að það hafi hitnað of mikið því ég hef lent í því áður og það lýsti sér aðeins öðruvísi, auk þess hef ég ekkert hreyft við viftunni né boostað kortið upp á neinn hátt.\n\n\n\nBendir ekki allt til þess að þetta sé örugglega skjákortið miðað við lýsingarnar?\n\nHefur einhver lent í þessu eða einhverju svipuðu áður?\n\nEndilega komið með hugmynd um hvað þetta gæti verið, ég er opinn fyrir öllu (eða svona næstumþví).",
+            "date": "2005-12-23 21:31:00",
+            "post_id": "101824",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Truflanirnar í myndini hljóma eins og artifacts.  Er skjákortið að fá næga kælingu eða ertu að yfirklukka það eitthvað?  Geturðu checkað á hitanum á því og lofthitanum inn í kassanum?\n\n\n\nHefurðu kannski, um svipað leiti og truflanirnar byrjuðu að koma fram, bætt einhverjum orkufrekum hlut við tölvuna þína og/eða gert einhverjar breytingar á vélbúnaði?\n\n\n\nSvo er náttúrulega alltaf séns að skákortið hafi skemmst, en það á ekki að gerast ef tölvan situr kjurr á sínum stað og þú ert ekkert að fikta í yfirklukkun með volt eða svoleiðis.",
+            "date": "2005-12-23 22:59:00",
+            "post_id": "101831",
+            "reply_to_id": "101824"
+        },
+        {
+            "user_name": "^Soldier",
+            "text": "Ég hef ekkert fiktað í viftunni og ekkert fikað í yfirklukkun.  Ég er með hitamælir og hann sýnir c.a. 32° eins og er inní kassanum.  Getur vel verið að það sé fucked up.\n\n\n\nÉg hef ekki bætt neinu á hana síðan ég keypti mér þetta kort, ég er með 360W aflgjafa.\n\n\n\nÉg hef stundum farið með tölvuna í bíl, milli bæja, þar sem ég er í heimavista skóla og kem stundum heim hef ég tekið tölvuna með.  Ég hef alltaf passað að láta hana standa áður en ég kveiki á henni vegna kulda.\n\n\n\nEn hvað meinarðu með artifacts?  (smá forvitni:)\n\nOg hvernig finn ég hitan á kortinu?",
+            "date": "2005-12-24 03:36:00",
+            "post_id": "101871",
+            "reply_to_id": "101831"
+        },
+        {
+            "user_name": "ICM",
+            "text": "viftur gefa sig oft, athugaðu hvort viftan á skjákortinu sé í lagi. artifacts eru mynd truflanir, ef þú hefur fengið svoleiðis þá fer það ekki á milli mála, það eru vægast sagt funky truflanir.",
+            "date": "2005-12-24 13:22:00",
+            "post_id": "101888",
+            "reply_to_id": "101871"
+        },
+        {
+            "user_name": "Johnson 32",
+            "text": "spurning að fá sér betra power supply?",
+            "date": "2005-12-27 11:50:00",
+            "post_id": "102190",
+            "reply_to_id": "101888"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Checkaðu hvort það er mikið ryk í kassanum og á skjákortinu sjálfu gætir þurft að hreinsa það eitthvað.  CPU hitinn hjá mér var farinn að fara yfir 65°C svo ég keypti mér þrýstiloft til að þrífa heatsinkin, vifturnar og bara móðurborðið sjálft.  Núna fer hitinn ekki yfir 50°C.. þangað til allt fyllist af ryki aftur \n\n\n\n\nÉg er sjálfur með x850xt og sé hitan á því bara í Overdrive flipanum í CCC (\nCatalist Control Center\n).  Hef prófað bæði Speedfan og SensorView en þau forrit birta ekkert um hitan á skjákortinu.\n\n\n\nOg svo ef þú ert eitthvað að ferðast með tölvuna gæti verið að eitthvað hafi losnað.  Situr kortið örugglega vel í og svoleiðis?\n\n\n\nHvernig PSU ertu annars með?  Minnir að það sé gefið upp 300W lágmark fyrir þetta kort.  Svo eru náttúrulega aðrir hlutir í tölvunni sem þurfa rafmagn líka þannig að þú þarft svona +350W til að vera góður.  Myndi samt byrja á því að athuga með vifturnar og hitann, það er ódýrara heldur en að kaupa nýtt PSU sem lagar kannski ekki neitt.",
+            "date": "2005-12-27 12:15:00",
+            "post_id": "102192",
+            "reply_to_id": "102190"
+        },
+        {
+            "user_name": "^Soldier",
+            "text": "Jæja var að ryksuga kortið, tók ekki allt móðurborðið því það er svo stutt síðan ég gerði það.  Hitinn á kortinu er núna næstum 60° og fer stundum uppí 60°.  Þorði ekki að taka neitt í sundur á því til að ná betur úr því vegna ábyrgðarinnar \n\n\n\n\nÁðan fékk ég error upp á skjáinn sem gæti útskýrt margt, náði ekki að taka skjáskot af honum því ég tók skjáskot af hinum skjánum \n  En það stóð á honum að VGA væri ekki að virka eðlilega vegna þess að það næði ekki að tengjast drivernum (man ekki hvernig það var á ensku en ég held þetta sé örugglega rétt þýðing).  Þetta hefur oft komið upp en núna var ég fyrst að leggja á minnið hvað stóð á honum.\n\n\n\nKannist þið við þetta?\n\n\n\nOg já ég er með 360W PSU, sem er eflaust algjört lágmark.",
+            "date": "2005-12-28 17:36:00",
+            "post_id": "102343",
+            "reply_to_id": "102192"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Aldrei ryksuga tölvu nema að þú sért með hana á mjög litlum krafti og langt frá. Ryksugur mynda stöðurafmagn og geta einfaldlega bara sogið þétta af borðinu og þær eyðileggja viftur mjög auðveldlega. Alltaf nota þrýstiloft þegar þú hreinsar ryk eða bara hendurnar",
+            "date": "2005-12-28 19:06:00",
+            "post_id": "102365",
+            "reply_to_id": "102343"
+        },
+        {
+            "user_name": "Blackened",
+            "text": "Allt í lagi að ryksuga ef maður notar sóp framaná.. og passar að nudda þessu öllu í kassann áður en maður fer í móðurborðið og það til að útrýma stöðurafmagni..\n\n\n\nEn annars er það alveg satt.. lang best að fara bara með þrýstiloft á þetta alltsaman",
+            "date": "2005-12-28 19:23:00",
+            "post_id": "102368",
+            "reply_to_id": "102365"
+        },
+        {
+            "user_name": "HemmiR",
+            "text": "sko ef það er í ábyrgð þá myndi eg ekki hika við að tala við þá",
+            "date": "2005-12-28 20:04:00",
+            "post_id": "102373",
+            "reply_to_id": "102368"
+        },
+        {
+            "user_name": "^Soldier",
+            "text": "Já held ég geri það bara ef þetta heldur áfram.\n\nÉg þakka fyrir hjálpina.",
+            "date": "2005-12-29 04:42:00",
+            "post_id": "102401",
+            "reply_to_id": "102373"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Þú ert væntanlega búinn að prófa að installa driverum upp á nýtt?",
+            "date": "2005-12-29 08:43:00",
+            "post_id": "102405",
+            "reply_to_id": "102401"
+        },
+        {
+            "user_name": "^Soldier",
+            "text": "Jájá, búinn að prufa gamla og nýja drivera.  En ég hef nú ekki lent í þessu síðan ég ryksugaði svo þetta lítur vel út eins og er",
+            "date": "2005-12-29 22:32:00",
+            "post_id": "102449",
+            "reply_to_id": "102405"
+        }
+    ],
+    "date": "2005-12-23 21:31:00"
+}

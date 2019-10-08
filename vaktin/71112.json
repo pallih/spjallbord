@@ -1,0 +1,93 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "71112",
+    "title": "Opna port ? Vodafone Ljósleiðari",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=71112",
+    "posts": [
+        {
+            "user_name": "brain",
+            "text": "Sælir Vaktarar.\nVar hjá vini mínum að reyna að opna port.\nHann langar að hafa Teamspeak server og hosta leiki fyrir félaga.\nHann er með ljósleiðara frá Vodafone, og við gátum ómögulega fengið HG-659 routerinn til að hleypa inn tengingum.\nVodafone sagði honum að þetta sé ekki hægt á ljósleiðara.\nEinhver með lausnir eða tillögur ?",
+            "date": "2016-11-01 12:13:00",
+            "post_id": "635965",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "hagur",
+            "text": "Það er nú ekki rétt.  Þekki ekki þennan router, en ég er sjálfur með fullt af portum opnum á innri þjónustur hjá mér og er á ljósleiðara hjá Vodafone.",
+            "date": "2016-11-01 12:17:00",
+            "post_id": "635967",
+            "reply_to_id": "635965"
+        },
+        {
+            "user_name": "asgeirbjarnason",
+            "text": "Tek undir með hagi. Fullt af opnum þjónustum hjá mér, og meira að segja fleiri en ein IP tala með mismunandi þjónustum á á ljósleiðara frá Vodafone. Routerarnir frá internetveitunum eru hinsvegar nánast allir drasl, hef til dæmis lent í routerum sem bara einfaldlega frjósa þegar maður reynir að gera NAT portamöppun.",
+            "date": "2016-11-01 14:23:00",
+            "post_id": "635974",
+            "reply_to_id": "635967"
+        },
+        {
+            "user_name": "kizi86",
+            "text": "https://community.vodafone.co.nz/t5/Mod ... d-p/117724\nhér eru leiðbeiningar frá vodafone (reyndar á nýja sjálandi, en ætti að vera mjög svipað)",
+            "date": "2016-11-01 15:11:00",
+            "post_id": "635976",
+            "reply_to_id": "635974"
+        },
+        {
+            "user_name": "brain",
+            "text": "Takk fyrir innlegginn.\nMér finnst við hafa sett up portforward rétt og vorum búnir að finna á netinu ágætis upplýsingar.\nog routerinn tók þær uppsetningar sem við settum inn.\nMálir er held ég að hann er ekki með pingable IP tölu, hann er með 89.160.141.23, og hef ég reynt að pinga hana frá mínu heimaneti og líka frá vinnuni.\nOg þjónustuver Vodafone segist ekkert geta gert í því.",
+            "date": "2016-11-01 17:52:00",
+            "post_id": "635984",
+            "reply_to_id": "635976"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Er hann nokkuð með netvarann hjá Vodafone virkan?",
+            "date": "2016-11-01 18:23:00",
+            "post_id": "635986",
+            "reply_to_id": "635984"
+        },
+        {
+            "user_name": "asgeirbjarnason",
+            "text": "Spurning að prófa að tengja tölvu beint í Telsey boxið, auðkenna hana á skraning.gagnaveita.is síðunni og athuga hvort tölvan sé pinganleg utanfrá.",
+            "date": "2016-11-01 19:29:00",
+            "post_id": "635989",
+            "reply_to_id": "635986"
+        },
+        {
+            "user_name": "Geronto",
+            "text": "Í það fyrsta er ekki mjög sniðugt að deila ip tölunni sinni út á veraldarvefinn þó að það sé kannski ekki aðal málið.\nRouterinn ætti í raun ekki að vera opin út hvorki fyrir ping né neinu öðru útaf öryggisástæðum, það á hinsvegar að vera hægt að opna hann út, ég get ekki sagt þér hvað vandamálið er þar, vildi bara skjóta þessu inní",
+            "date": "2016-11-01 23:05:00",
+            "post_id": "636006",
+            "reply_to_id": "635989"
+        },
+        {
+            "user_name": "asgeirbjarnason",
+            "text": "Þetta eru ágæt ráð í sjálfu sér, en ég veit ekki hvort þau eigi við í fiktarasamfélagi eins og vaktinni. Annars er ég ósammála því að routerar eigi að loka fyrir ping. Finnst fátt leiðinlegra en þegar routerar eða eldveggir loka fyrir ping og traceroute. Cisco ASA gera þetta by default og það er óþarflega oft sem ég hef verið lengur að leysa vandamál en ég ætti vegna þess.",
+            "date": "2016-11-02 10:57:00",
+            "post_id": "636026",
+            "reply_to_id": "636006"
+        },
+        {
+            "user_name": "brain",
+            "text": "Kom berlega í ljós þarna að router var vandamálið.\nHann fékk nýjan router og allt gekk upp !¨\nTakk allir saman !",
+            "date": "2016-11-02 12:08:00",
+            "post_id": "636030",
+            "reply_to_id": "636026"
+        },
+        {
+            "user_name": "brain",
+            "text": "Neibb, góður puntur samt !",
+            "date": "2016-11-02 12:09:00",
+            "post_id": "636031",
+            "reply_to_id": "636030"
+        },
+        {
+            "user_name": "Geronto",
+            "text": "Ég var nú mest að tala um almennt þetta með ip töluna \nAnnað með þetta ping þá er það eða ætti almennt að vera lokað by default á router frá isp þar sem að það truflar Jón Jónsson útí bæ ekkert að hafa það lokað og það er opin gátt til isp-sins fyrir bilana greiningu, þetta er good practice þar sem að það er óþarfa security risk að hafa hann opin út á netið fyrir meðaljón \nHinsvegar er það alveg rétt hjá þér að þetta getur verið leiðinlegt hjá fikturum/nördum sem okkur",
+            "date": "2016-11-02 22:54:00",
+            "post_id": "636065",
+            "reply_to_id": "636031"
+        }
+    ],
+    "date": "2016-11-01 12:13:00"
+}

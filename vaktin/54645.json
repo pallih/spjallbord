@@ -1,0 +1,170 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "54645",
+    "title": "Hjálp með Windows Server 2008",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=54645",
+    "posts": [
+        {
+            "user_name": "krissi24",
+            "text": "Mig vantar smá aðstoð varðandi Windows Server 2008. Ég bjó til home folder fyrir alla aðgangana og það map-ast upp sem network drive inná áðgöngunum en hvernig fer ég að því að stilla þetta þannig að User files verði þetta map-aða drif? Semsagt mappan user files? Og að þetta verði default á öllum aðgöngunum sama hvar viðkomandi loggar sig inn?\nKv. Krissi",
+            "date": "2013-04-23 21:02:00",
+            "post_id": "507091",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Starman",
+            "text": "Þú ert að tala þá um\"folder redirection\"\nhttp://technet.microsoft.com/en-us/library/cc732275.aspx",
+            "date": "2013-04-23 21:20:00",
+            "post_id": "507095",
+            "reply_to_id": "507091"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Ertu að tala um roaming profile set-up ?",
+            "date": "2013-04-23 21:24:00",
+            "post_id": "507096",
+            "reply_to_id": "507095"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "Ég er búinn að stilla roaming profile og það virkar allt mjög vel en ég vill user files möppuna mína tildæmis: krissi´s files til að elta líka. Ég er búinn að gera home folder fyrir alla aðgangana en ég fæ þá möppu bara sem network dirve en ég vil tengja það við user files möppuna mína semsagt hafa user files möppunar miðlægar líka eins og  roaming profile.",
+            "date": "2013-04-23 21:29:00",
+            "post_id": "507097",
+            "reply_to_id": "507096"
+        },
+        {
+            "user_name": "FreyrGauti",
+            "text": "Setur slóðina í möppuna í Home Folder á notandanum í AD.",
+            "date": "2013-04-23 21:30:00",
+            "post_id": "507098",
+            "reply_to_id": "507097"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Folder redirection á UserData er kallað roaming, það sem þú ert búinn að setja upp hljómar bara eins heimasvæði á möppuðu drifi. Skoðaðu linkinn sem ég henti á þig, held það sé ágætis walkthrough. \nBest practise ráð; forðastu að hafa AppData möppuna roaming eins og þú getur, ekkert nema perfomance issues sem fylgir því.",
+            "date": "2013-04-23 21:34:00",
+            "post_id": "507099",
+            "reply_to_id": "507098"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "Á ég þá ekki að hafa hakað í connect og map-a þessu netdrifi eins og ég hef þegar gert?",
+            "date": "2013-04-23 21:40:00",
+            "post_id": "507100",
+            "reply_to_id": "507099"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ef þú vilt, en mappað network drif og roaming profiles eru alveg tveir ólíkir hlutir. Yfirleitt er mappað drif notað sem hálfgerður millivegur, svo notendur hafi aðgang að þeim skrám sem þeir vilja á milli véla en admins sleppa við vesenið sem fylgir roaming prófílum.",
+            "date": "2013-04-23 21:47:00",
+            "post_id": "507102",
+            "reply_to_id": "507100"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "Okey ég skil :p Vil helst hafa þetta hinsegin. Ástæðan er sú að konan er með lítið fyrirtæki á internetinu og það eru alltaf sömu ljósmyndirnar og skjöl útum allt á öllum tölvum og ég neni ekki alltaf að vera tuða um þetta að vista þetta á miðlægan stað þannig að ég vil stilla þetta þannig að user files mappan elti hana í þær tölvur sem hún loggar sig inná með sínu notandanafni og þannig kemst hún ekki upp með að fjölfalda þessa file-a útum allt! hehe :p",
+            "date": "2013-04-23 22:08:00",
+            "post_id": "507107",
+            "reply_to_id": "507102"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ef þetta er ljósmyndastofa sem er að vinna mikið með RAW myndir, þá myndi ég samt sem áður ekki mæla með þessu nema allt innra networkið sé á Gbit, og þá myndi ég líka huga að því að hafa almennilega diskastæðu á bakvið user share-ið, hraða platter diska eða jafnvel SSDa setta upp í RAID.\nEf þetta eru bara litlar skrár sem er verið að vinna með breytir intranet setupið ekki svo mikið, Gbit tenging á milli hjálpar þó alltaf til með media vinnslu.",
+            "date": "2013-04-23 22:21:00",
+            "post_id": "507111",
+            "reply_to_id": "507107"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "Þetta er sala á fatnaði, bæði það sem hún pantar erlendis frá og sem hún er að hanna. Hún sækir bara ljósmyndirnar af því sem hún pantar á síðu viðkomandi wholesale fyrirtækis og það sem hún hannar sjálf tekur hún myndir af sjálf og matar svo tölvuna af þeim ljósmyndum úr camerunni. Svo eru þessi skjöl bara word skjöl sem innihalda upplýsingar um sölu og annað. Þannig séð er þetta alls ekki þung umferð stafrænna gagna. Aftur á móti erum við með kvikmyndir og tónlist á Sitecom NAS og spilum kvikmyndirnar með network media player sem er tengdur við tv-ið og tónlistina í gegnum itunes í gegnum itunes server. Svo það er alveg sér. Það stóð til að hún myndi geyma tölvugögnin sín á möppuðu network drive-i af NAS-inum en það var ekki að ganga því það virðist vera óskaplega erfitt að færa dótið þangað, á miðlægan stað hehe :p",
+            "date": "2013-04-23 22:29:00",
+            "post_id": "507114",
+            "reply_to_id": "507111"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Home folder er auðvitað bara mappað drif (heimasvæði) til að geyma skrár á server miðlægt (ekki user profile-a)\nef þú setur upp Romaing profile þá færast þessar skrár á milli\nappdata (Er hidden default )\ncontacts \ndesktop \ndownloads\nfavorites\nLinks \nMy music\nMy saved games\nsearches\nÞá myndi konan geta breytt um screen saver ,background myndum og vistað eins margar  myndir eða skjöl á desktopinn hjá sér og þær myndu fylgja manneskjunni á næstu vél.\nÞetta eru skrefin til að setja upp roaming profile:\nBúa til profile folder á servernum sem á að geyma user profile-ana (ekki sama mappa og þú bjóst fyrir home folder þ.e drifið sem mappast upp þegar user loggast inn)\nvelja profile folderinn sem á að share-a og hægri smella á hann >>share with>> specific people>>og velja það sem á við (passa að hafa read write réttindi)\nFara í Active directory>>users>> velja userinn/userana>>velja profile hnappinn >> skrifa í profile path  \\\\nafnið á servernum\\nafnið á sharemöppunni\\%username%    (%username% er system breyta sem setur inn rétt usernafn fyrir notandann)\nEn sammála Antitrust að þetta gæti orðið vesen með bandwith ef verið er að vista stórar skrár á user profile-num þar sem í hvert skipti sem loggað er út þá save-ast gögn frá local vél á profile möppuna á server og einnig þegar loggað er inná aðra vél þá þarf að sækja gögnin frá profile möppu á server.\nGetur haft áhrif á Logon og logoff tíma hjá notanda  en þetta er jú auðvitað samt sem áður gögn sem eru cache-uð á þeim vélum sem hún loggar sig inná (ef þú ert að reyna spara pláss á vélum þá cache-ast þau hvort eð er á local vél notanda með þessum default roaming profile stillingum ,ekki viss um að roaming profile sé rétta lausnin fyrir þig ef tilgangurinn er að spara pláss). Hins vegar góð lausn ef tölva bilar og þess háttar og notandi getur loggað sig inná næstu lausu vél þar til vél kemur úr viðgerð.\nRoaming user profile með folder redirection er það sem mér dettur þá helst í hug.",
+            "date": "2013-04-24 05:09:00",
+            "post_id": "507145",
+            "reply_to_id": "507114"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "Ég er nú þegar með roaming profile fídusinn virkan og það gengur smurt. Getur maður ekki ráðið hvort gögnin cache-ast á client vélarnar? Í gamla daga þegar maður var í grunnskóla þá fyldi home folderinn manni hvert sem er þar sem maður loggaði sig inn, hvort sem það var innanhúss eða í öðrum stofnunum bæjarfélagsins :p Það voru reyndar client vélarnar að keyra Windows XP.",
+            "date": "2013-04-25 10:18:00",
+            "post_id": "507328",
+            "reply_to_id": "507145"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "Ef ég set þetta svona upp með Folder redirection þarf ég þá í rauninni ekki að hafa profile roaming fídusinn líka? :p",
+            "date": "2013-04-29 22:24:00",
+            "post_id": "508295",
+            "reply_to_id": "507328"
+        },
+        {
+            "user_name": "Starman",
+            "text": "Hárrétt, notaðu aðeins \"folder redirection\" , roaming profiles er bara old school WinXP lausn sem er slow, í login þarf að afrita allan profile notanda frá þjóni sem getur verið nokkur GB. En í folder redirection er ekkert þannig, nema að þú virkjir offline folders , þá ertu með afrit af skránum á local drifinu, það er sync-að í logon og logoff by default. Ef þú vilt það ekki slekkur þú á því með group policy, yfirleitt er offline folders bara virkt á ferðavélum en ekki borðvélum.",
+            "date": "2013-04-29 23:35:00",
+            "post_id": "508303",
+            "reply_to_id": "508295"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "Já okey \n Þakka þér fyrir!! Fer ég þá bara eftir leiðbeiningunum sem linkurinn sem Antitrust benti mér á segir til um?",
+            "date": "2013-04-30 09:47:00",
+            "post_id": "508332",
+            "reply_to_id": "508303"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ertu þá að vísa í linkinn sem ég sendi þér í PM?",
+            "date": "2013-04-30 09:48:00",
+            "post_id": "508333",
+            "reply_to_id": "508332"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "Já hehe :p Æi gleymdi að hann væri í PM en ekki í þræðinum sjálfum.... Starman hefur hugsanlega ekkert vitað  um hvaða link ég væri að tala um hehe \n Biðst afsökunar á því!",
+            "date": "2013-04-30 16:05:00",
+            "post_id": "508378",
+            "reply_to_id": "508333"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "Ég er loksins búinn að setja þetta upp en offline fídusinn virðist vera á. Hvernig slekk ég á honum? Er það kannski orðið of seint? :p",
+            "date": "2013-05-02 15:22:00",
+            "post_id": "508788",
+            "reply_to_id": "508378"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "Einhver sem getur hjálpað mér með þetta? :p",
+            "date": "2013-05-03 02:39:00",
+            "post_id": "508925",
+            "reply_to_id": "508788"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "?",
+            "date": "2013-05-03 15:29:00",
+            "post_id": "508989",
+            "reply_to_id": "508925"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "Nú er smá vesen aftur. Ég kemst ekki inná NAS-inn á vél sem er á domain. Það kemur alltaf error um að ég hafi ekki leyfi til að komast inná möppurnar á NAS-inum. Hvernig laga ég þetta? \nScreenshot:",
+            "date": "2013-05-20 13:11:00",
+            "post_id": "511513",
+            "reply_to_id": "508989"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "?",
+            "date": "2013-05-21 11:47:00",
+            "post_id": "511683",
+            "reply_to_id": "511513"
+        }
+    ],
+    "date": "2013-04-23 21:02:00"
+}

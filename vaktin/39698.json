@@ -1,0 +1,135 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "39698",
+    "title": "CPU vifta vill ekki snúast",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=39698",
+    "posts": [
+        {
+            "user_name": "Halldór",
+            "text": "Ég var að klára að færa tölvuna mína yfir í nýann kassa og áhvað ég að fá mér betri aflgjafa og skjákort í leiðinni. En þegar ég kveiki á henni þá vill CPU viftan ekki snúast og er eins og hún reynir að snúast en stoppi á einhverju. Ég prófaði að taka hana úr sambandi og setja hana aftur í samband en það virkaði ekki hún snérist í 30 sec og stoppaði svo og gerði það sama og áður. Þarf ég að kaupa mér nýa CPU viftu eða er hægt að laga hana og ef svo er hvernig laga ég hana? \np.s. ég tók hana ásamt heatsynkinu \nekki\n af móðurborðinu við flutninginn. Þetta er bara stock viftan sem kemur með AMD Phenom QuadCore 9600 2.3GHz",
+            "date": "2011-07-05 16:13:00",
+            "post_id": "361004",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "astro",
+            "text": "Ertu að tengja viftuna á \"CPU FAN\" slottið á móðurborðinu ? \nErtu búinn að prufa að tengja hana á öðrum stað á móðurborðinu ?",
+            "date": "2011-07-05 16:22:00",
+            "post_id": "361008",
+            "reply_to_id": "361004"
+        },
+        {
+            "user_name": "Halldór",
+            "text": "Ég tók hana aldrei úr sambandi (nema þegar ég var að kíkja hvort að það myndi laga hana) og hún er tengd í CPU fan slotið. hún tekur 4 pinna og hin system fan slotin eru bara með 3",
+            "date": "2011-07-05 16:28:00",
+            "post_id": "361009",
+            "reply_to_id": "361008"
+        },
+        {
+            "user_name": "Eiiki",
+            "text": "Ertu viss um að allar snúrur úr aflgjafanum og turnkassanum séu rétt plöggaðar í móðurborðið?",
+            "date": "2011-07-05 16:31:00",
+            "post_id": "361010",
+            "reply_to_id": "361009"
+        },
+        {
+            "user_name": "Halldór",
+            "text": "Ég tel að þær séu allar rétt plöggaðar inn og prófaði ég líka að taka hinar vifturnar úr sambandi en það lagaði ekki neitt",
+            "date": "2011-07-05 16:39:00",
+            "post_id": "361012",
+            "reply_to_id": "361010"
+        },
+        {
+            "user_name": "Eiiki",
+            "text": "Það hlítur eitthvað að hafa farið úrskeiðis við flutning yfir í nýja kassann. \nTókstu ekki CPU og CPU fan af móðurborðinu þegar þú fluttir það? Virkar ekki að plugga fan í annað fan plugg á móðurborðinu?",
+            "date": "2011-07-05 16:45:00",
+            "post_id": "361015",
+            "reply_to_id": "361012"
+        },
+        {
+            "user_name": "astro",
+            "text": "Prufaðu að tengja aðra viftu í CPU FAN slottið og sjáðu, Ef hún virkar er það líklega viftan. Samt skrítið að hún snúist í smá stund :S\nEn annars á ég OEM AMD Phenom II 1090T kælingu ef þú vilt.",
+            "date": "2011-07-05 16:46:00",
+            "post_id": "361016",
+            "reply_to_id": "361015"
+        },
+        {
+            "user_name": "Halldór",
+            "text": "ég tók CPU og fan ekki af móðurborðinu við flutning heldur var ég bara með kassanna hlið við hlið og hennti því bara beinnt yfir. Ég prófaði að setja aðra viftu í samband og finnst mér hún vera að snúast frekar hægt og passar það að þegar ég kveiki á tölvunni þá fór CPU viftan alltaf á fullt og minkaði svo hraðinn. það er 4 pin snúra sem kemur úr aflgjafanum sem gæti verið að gefa ekki frá sér nógu mikið aflþví að hún er soldið stutt. og hvernig laga ég það ef móðurborðið er ekki að fá nóg afl?\nhvað ertu til í að selja mér hana á mikið ef þessi er biluð?",
+            "date": "2011-07-05 17:02:00",
+            "post_id": "361021",
+            "reply_to_id": "361016"
+        },
+        {
+            "user_name": "Vaski",
+            "text": "Hverjar eru hitatölurnar á cpuinu þínu? Ef þetta er pwm vifta (4pinna) að þá er eðlilegt að hún sé ekki að snúast ef að hitinn er innan marka. En hún ætti að fara á fullt í 1 til 2 sek ef þú slekkur alveg á tölvunni og kveikir síðan aftur á henni (virkar ekki alltaf þegar að maður gerir reboot). \nEf hún fer á fullt og hættir síðan að snúast þegar að þú kveikir á tölvunni ertu greinilega búin að fá þér betur loftræstan kassa, þannig að til hamó með það, því viftan er að virka alveg eins og hún á að gera  \n \nTil að vera viss um að viftan sé að virka rétt ættir þú að keyra eitthvað forrit sem að reynir mikið á cpuið hjá þér og þá ætti hann að hitna og viftan að fara að snúast á hraðar (passa sig á því að fylgjast vel með hita og slökkva strax á forritinu ef að hitni fer að fara eitthvað upp án þess að viftan taki við sér).",
+            "date": "2011-07-05 17:30:00",
+            "post_id": "361035",
+            "reply_to_id": "361021"
+        },
+        {
+            "user_name": "Halldór",
+            "text": "þetta er stock viftan sem fylgdi með örgjörvanum og hún hefur aldrei gert neitt svona áður og svo þegar hún stoppar þá stoppar hún ekki alveg það er eins og hún sé að reyna að snúast en nær því ekki. Hún byrjar að reyna að snúast en stoppar svo eins og hún sé að klessa á eithvað",
+            "date": "2011-07-05 17:44:00",
+            "post_id": "361042",
+            "reply_to_id": "361035"
+        },
+        {
+            "user_name": "Vaski",
+            "text": "Hæ\nFer vifan á fullan snúning þegar þú kveikir á tölvunni? (úr shutdown en ekki reboot)",
+            "date": "2011-07-05 20:12:00",
+            "post_id": "361076",
+            "reply_to_id": "361042"
+        },
+        {
+            "user_name": "Halldór",
+            "text": "já hún gerir það ég hef sammt ekki prófað að reboota hana",
+            "date": "2011-07-05 20:35:00",
+            "post_id": "361081",
+            "reply_to_id": "361076"
+        },
+        {
+            "user_name": "Sphinx",
+            "text": "passaðu að hafa alltaf slökt á tölvunni þegar þú ert að teingja eitthvað eg hef steikt 2 móðurborð þannig",
+            "date": "2011-07-05 20:37:00",
+            "post_id": "361082",
+            "reply_to_id": "361081"
+        },
+        {
+            "user_name": "Vaski",
+            "text": "Farðu og náðu í \nspeedfan\n og set það upp, þá sérðu hitan hjá þér og getur líka stjórnað viftunni þar, t.d. sett hana á fullt. En mér finnst þetta líta út fyrir að viftan sé að virka rétt, sem sagt snýst þegar að það er kveikt á tölvunni og síðan þegar það er búið að loada bios að þá er hitin ekki nægjanlegur á örgjavanum til þess að það þurfi að notast við viftuna, og þess vegna hættir hún að snúast. Pwm viftur taka oft einhvern smá kipp alltaf öðru hvoru þegar að þær eru ekki að snúst, sérstalega þar að þær eru alveg við hitaþröskudinn sem kemur þeim af stað.\nEn aftur á móti er alltaf hrikalega gaman að fá sér nýja kælingu, þannig að það er kannski bara um að gera fyrir þig ef þú hefur einhverjar áhyggjur af þessu að skella sér á einhverja kælingu og hafa gaman af",
+            "date": "2011-07-05 22:13:00",
+            "post_id": "361113",
+            "reply_to_id": "361082"
+        },
+        {
+            "user_name": "AncientGod",
+            "text": "Ertu með windows 7 ? ef svo þá lenti ég í þessu líka andskoti pirrandi en ég lagaði þetta með því að slökkvað á hibernation mode og það lagaðist, þú veist að það er líka lang best að formata tölvu eftir svo skipti þar sem þú bætir við mitt skjákort og aflgjafa.",
+            "date": "2011-07-05 23:26:00",
+            "post_id": "361143",
+            "reply_to_id": "361113"
+        },
+        {
+            "user_name": "Halldór",
+            "text": "ég er með vista í tölvunni  \n  og mér vanntar að komast í gögnin á tölvunni og ég ætla að fara að kaupa mér windows 7",
+            "date": "2011-07-05 23:52:00",
+            "post_id": "361155",
+            "reply_to_id": "361143"
+        },
+        {
+            "user_name": "AncientGod",
+            "text": "gætir prófað að reyna að slökkva þetta í vista það ætti vera hætt, en því miður get ég ekki hjálpað meira þar sem ég man ekki hvernig ég slökti á þessu =S",
+            "date": "2011-07-05 23:54:00",
+            "post_id": "361157",
+            "reply_to_id": "361155"
+        },
+        {
+            "user_name": "Frussi",
+            "text": "Þetta virðist vera svipað og með viftuna sem ég er með á hliðinni á kassanum hjá mér. Hún snýst aðeins og höktir svo alltaf. Ég setti upp speedfan og um leið og ég breyti hraðanum á henni þar flýgur hún í gang. Mæli með því að þú prófir það",
+            "date": "2011-07-06 00:22:00",
+            "post_id": "361171",
+            "reply_to_id": "361157"
+        }
+    ],
+    "date": "2011-07-05 16:13:00"
+}

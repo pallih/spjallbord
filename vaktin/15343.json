@@ -1,0 +1,51 @@
+{
+    "forum_title": "Símar, fartölvur, myndavélar og önnur farandstæki",
+    "id": "15343",
+    "title": "Installa xp á fartölvu með VISTA",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=26&t=15343",
+    "posts": [
+        {
+            "user_name": "w.rooney",
+            "text": "Ég var  að fá símtal frá einum sem að er með acer vel sem er með VISTA stýrikerfi og hann er að lenda í veseni með forrit sem að hann þarf að nota í skolanum vegna þess að þau geta ekki keyrt á vista þannig að hann ætlaði að installa gamla goða XP  og það er eins og tölvan vilji ekki bjóða uppa möguleikann að formata með xp diskinn í , annað sem að ég var að spá lendir hann í einhverju vesen með drivera og þess háttar þegar að hann installar XP ??\n\n\n\nEr þetta bara klaufaskapur í honum eða er eitthvað mál að installa þessu  ?",
+            "date": "2007-08-29 13:59:00",
+            "post_id": "152079",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "w.rooney",
+            "text": "enginn sem að veit neitt ??",
+            "date": "2007-08-29 22:32:00",
+            "post_id": "152095",
+            "reply_to_id": "152079"
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "deleta partitioninu sem er með vista restore þvælunni.",
+            "date": "2007-08-30 12:47:00",
+            "post_id": "152110",
+            "reply_to_id": "152095"
+        },
+        {
+            "user_name": "Rodriguez",
+            "text": "Það er sata diskur í vélini og xp er ekki að finna diskinn þessvegna.\n\nÞað þarf sata driver (ýta á F6 í setup og setja inn þann driver sem þarf).",
+            "date": "2007-08-30 13:39:00",
+            "post_id": "152112",
+            "reply_to_id": "152110"
+        },
+        {
+            "user_name": "w.rooney",
+            "text": "ertu þá að tala um að ýta á F6 þegar að xp diskurinn er kominn í , en annað lendir hann í einhverju veseni með drivera og þess háttar þegar að hann installar xp eða þarf hann að fara og ná í driverana á heimasíðuna hjá hverjum og einum framleiðanda ... ?",
+            "date": "2007-08-30 21:22:00",
+            "post_id": "152132",
+            "reply_to_id": "152112"
+        },
+        {
+            "user_name": "TechHead",
+            "text": "Jæja....\n\n\n\nHérna : \nhttp://support.acer-euro.com/drivers/downloads.html\n geturu gert þér vonir um að finna XP drivera í vélina.\n\n\n\n...En þar sem þetta er líklegast \"Santa Rosa\" [M965, C2D] fartölva þá myndi ég ekki gera mér vonir um að geta keyrt XP á henni og haldið brosi. \n\n\n\n2 ástæður fyrir því:\n\n\n\n1. Það verður ekkert official support frá Acer með XP rekla á Santa Rosa lappa.\n\n\n\n2. Mjög mikið af þessum nýju fítusum í M965 kubbasettinu eins og Advanced\n\npower management á íhlutum er gert sérstaklega til að virka með Vista og\n\nhafa verið þess dæmi að þessi kubbasett séu að láta óeðlilega í XP.\n\n\n\nÉg myndi miklu frekar keyra VMWARE eða eitthvað slíkt forrit á VISTA og\n\nhafa XP í virtual machine inní VISTA til að keyra þessi \"forrit\" sem ganga ekki með Vista....\n\n\n\nHérna er XP driverinn fyrir Sata controllerinn í Acer vélinni: \nhttp://downloadcenter.intel.com/download.aspx?url=/13808/eng/f6flpy32.zip&DwnldId=13808&ProductID=2800&lang=eng\n\n\nverður nátturulega að hengja USB floppy drif við vélina ef þú ætlar að fara í djúpu laugina...\n\n\n\nMín 0.02$",
+            "date": "2007-08-31 08:25:00",
+            "post_id": "152144",
+            "reply_to_id": "152132"
+        }
+    ],
+    "date": "2007-08-29 13:59:00"
+}

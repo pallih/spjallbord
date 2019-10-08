@@ -1,0 +1,51 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "49582",
+    "title": "IP tölu vesen",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=49582",
+    "posts": [
+        {
+            "user_name": "helgag87",
+            "text": "Veit einhver hvernig stendur á að ip talan mín sé ekki íslensk, var að færa mig til Hringdu og keyptum okkar eigin router, er búin að prufa að restarta ljósleiðaranum og roudernum, en enn sama vesen, er að reyna að dl inná deildu get það ekki vegna þess að ip talan er ekki íslensk, veit eihver hvernig gæti staðið á þessu...?",
+            "date": "2012-08-09 22:36:00",
+            "post_id": "459464",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "tdog",
+            "text": "Ruglið er hjá Deildu, ekki þér. Ég lendi í því sama, er með tengingu frá Símafélaginu.",
+            "date": "2012-08-09 22:39:00",
+            "post_id": "459465",
+            "reply_to_id": "459464"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Þarf deildu ekki bara að uppfæra IP mengið hjá sér.",
+            "date": "2012-08-09 22:42:00",
+            "post_id": "459467",
+            "reply_to_id": "459465"
+        },
+        {
+            "user_name": "worghal",
+            "text": "er deildu ekki að nota síu frá kjarni.cc ?\nhttp://kjarni.cc/tools/checkforiceland/",
+            "date": "2012-08-09 22:44:00",
+            "post_id": "459468",
+            "reply_to_id": "459467"
+        },
+        {
+            "user_name": "helgag87",
+            "text": "Já ok, þarna kemur að hún sé innlend, þetta er eithvað furðulegt...",
+            "date": "2012-08-09 22:51:00",
+            "post_id": "459471",
+            "reply_to_id": "459468"
+        },
+        {
+            "user_name": "aether",
+            "text": "deildu er _EKKI_ að nota checkforiceland. (\nsource\n)\ncheckforiceland GETUR EKKI orðið outdated nema rix.is hætti með þjónustu sína (ólíklegt).\nSkoðið kóðann: \nhttps://bitbucket.org/Kjarni/checkforiceland/src\nLestu svo neðsta dótið hér: \nhttp://www.rix.is/is-as-nets.html\n það er merkt \"Uppfletting í DNS\".",
+            "date": "2012-08-12 19:17:00",
+            "post_id": "460173",
+            "reply_to_id": "459471"
+        }
+    ],
+    "date": "2012-08-09 22:36:00"
+}

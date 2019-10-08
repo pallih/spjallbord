@@ -1,0 +1,44 @@
+{
+    "forum_title": "Símar, fartölvur, myndavélar og önnur farandstæki",
+    "id": "41989",
+    "title": "KIES iTunes sync",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=26&t=41989",
+    "posts": [
+        {
+            "user_name": "Swooper",
+            "text": "Svo, ég var að vesenast með KIES í dag og uppgötvaði að það er hægt að nota það til að synca iTunes playlista yfir á símann. \"Sniðugt,\" hugsaði ég. \"Þá þarf ég ekki að treysta á third party forrit til að synca ~250 laga playlistann sem ég nota mest á símann minn!\" og ákvað að prófa það.\nVerstu mistök sem ég hef gert þennan mánuðinn. \n \nKIES fór að importa, ekki bara einum playlista, heldur öllu fjandans tæplega 60GiB iTunes libraryinu. \"Ókei, whatever, leyfi þessu bara að klárast,\" hugsaði ég þá. Vel rúmum klukkutíma síðar var KIES búið að importa um það bil 46GiB af tónlist, og krassaði með \nOut of Memory Exception\n villuskilaboðastafla. Og þá byrjaði gleðin. Ég reyndi að starta því aftur. Ekkert gerðist, KIES er venjulega svo fljótt upp, ég skildi ekki alveg hvað var í gangi. Drap það í task manager og reyndi aftur. Gaf því meiri tíma núna, og á endanum kom það upp á skjáinn hjá mér. Skoðaði task manager aftur. KIES var að taka tæplega 1.4GiB af minni. \nÉg gerði ítrekaðar tilraunir til að fikta í því í þessu ástandi, reyndi að henda tónlistinni út, ekkert gekk. Krassaði alltaf, aftur og aftur. Endaði á að reinstalla KIES. Hjálpaði það? Ekki vitund. Öll tónlistin var ennþá inni þegar ég var búinn að installa aftur. Leitaði að einhverjum library fæl í AppData möppunni og víðar, einhverju sem ég gæti eytt til að losna við alla tónlistina. Fann ekkert sem líktist library fæl. Mér tókst hins vegar eftir ítrekaðar tilraunir að ná að eyða nokkrum lögum út í einu. Ef ég klikkaði óvart á playlista sem var of stór fór risaeðlan bara á hliðina og gat ekki staðið upp sjálf.\nÁ ENDANUM tókst mér að eyða út allri tónlistinni úr KIES. Svo ég ákvað að skrifa þennan þráð til að vara ykkur hina við, svo þið gerið ekki sömu mistök og ég.",
+            "date": "2011-10-01 01:21:00",
+            "post_id": "384306",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Mjög skemmtileg lesning.",
+            "date": "2011-10-01 01:23:00",
+            "post_id": "384308",
+            "reply_to_id": "384306"
+        },
+        {
+            "user_name": "Swooper",
+            "text": "Gott að einhver gat haft gaman af þessu...",
+            "date": "2011-10-01 01:30:00",
+            "post_id": "384309",
+            "reply_to_id": "384308"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Ég átti auðvita við skemmtilegt orðalag, auðvita hundfúlt að lenda í þessu.",
+            "date": "2011-10-01 01:40:00",
+            "post_id": "384310",
+            "reply_to_id": "384309"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Hehehe, svekkjandi.\nÉg mæli með Google Music, það er snilld!",
+            "date": "2011-10-01 01:50:00",
+            "post_id": "384313",
+            "reply_to_id": "384310"
+        }
+    ],
+    "date": "2011-10-01 01:21:00"
+}

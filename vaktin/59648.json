@@ -1,0 +1,37 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "59648",
+    "title": "Airport Express",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=59648",
+    "posts": [
+        {
+            "user_name": "krissi24",
+            "text": "Hvrnig tengir maður þessa græju við Ljósleiðarabox GR? Á maður að hafa Bridge mode eða? Eyddi 3 tímum án árangurs í gær og ég er að gefast upp! :p Kann einhver?",
+            "date": "2014-02-08 00:17:00",
+            "post_id": "551062",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Farcry",
+            "text": "Þarftu ekki að vera með airport extreme\nhttp://einstein.is/2013/11/28/notadu-ai ... idarvisir/",
+            "date": "2014-02-08 00:41:00",
+            "post_id": "551065",
+            "reply_to_id": "551062"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "Er að hjálpa öðrum að setja þetta upp og hann var þegar búinn að versla þessa græju, Var búinn að reyna að flygja þessum leiðbeiningum eftir en ekkert virðist virka rétt :/, Kannski erum við ekki að fara rétt að þessu.....",
+            "date": "2014-02-09 18:52:00",
+            "post_id": "551268",
+            "reply_to_id": "551065"
+        },
+        {
+            "user_name": "hundur",
+            "text": "Prófaðu þetta:\n    Tengja netkapal úr Internet tengi á ljósleiðarabox í tengið á Airport Extreme (mynd af hnetti).\n    Opna Airport utility í Mac OSX og velja þar Airport Extreme í valmyndinni vinstra megin.\n    Þar þarf að fara inn í Network flipann\n    Síðan þarf að breyta Router Mode í „DHCP & NAT“.\n    Núna þarf að finna mac addressuna á airportinu en hún er á límmiða á botninum þar sem stendur Ethernet ID. \n    Eftir þetta þarf að endurræsa ljósleiðaraboxi og svo Airport búnaðinn' og eftir það ætti það að fá IP tölu frá ljósleiðaraboxinu.",
+            "date": "2014-02-09 19:24:00",
+            "post_id": "551275",
+            "reply_to_id": "551268"
+        }
+    ],
+    "date": "2014-02-08 00:17:00"
+}

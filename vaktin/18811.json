@@ -1,0 +1,30 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "18811",
+    "title": "Getur verið að hýsingaraðili sé að yfirselja?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=18811",
+    "posts": [
+        {
+            "user_name": "Heliowin",
+            "text": "Ég er með tvo vefi sem ég læt hýsa fyrir mig hjá sama aðila á shared server. Báðir vefirnir voru niðri rétt áðan og hafa allt í einu byrjað á því fyrst núna í júlí eftir því sem ég best veit. Ég hef fundið út að hýsingaraðilinn er að hýsa 500 vefi á vefþjóninum sem er með 4GB Ram. Þegar einn vefurinn kom upp aftur áðan þá sá ég að Available Physical Memory var 114 MB. Um daginn sá ég að það var um 20 MB. Server load var rétt í þessu 7.53.\nGetur þetta verið merki um að hýsingaraðilinn sé að yfirselja? Að það séu hreinlega of margir vefir á þjóninum.",
+            "date": "2008-07-29 13:57:00",
+            "post_id": "178942",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "emmi",
+            "text": "Þetta gera mjög margir hýsingaraðilar í útlöndum. Veit ekki hvort þetta sé stundað hér þó, en maður er alltaf að sjá díla sem bjóða uppá t.d. 400GB pláss eða álíka mikið, en svo geta þeir ekki boðið uppá að bakka þetta upp því þeir búast aldrei við að fólk noti svona mikið.",
+            "date": "2008-07-29 14:07:00",
+            "post_id": "178944",
+            "reply_to_id": "178942"
+        },
+        {
+            "user_name": "Heliowin",
+            "text": "Minn býður upp á 1,500GB pláss og 15,000GB gagnaflutning. Ég er bara búinn að nota rétt yfir 1GB gagnaflutning í júlí.\nÞegar ég hafði samband við þá um daginn til að kvarta þá var mér sagt að ég væri með custom themes, mods og plugins og jafnvel YouTube myndbönd",
+            "date": "2008-07-29 14:17:00",
+            "post_id": "178947",
+            "reply_to_id": "178944"
+        }
+    ],
+    "date": "2008-07-29 13:57:00"
+}

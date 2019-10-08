@@ -1,0 +1,30 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "25186",
+    "title": "Sjónvarp símans & ADSL-PC hraði lítill sem enginn",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=25186",
+    "posts": [
+        {
+            "user_name": "eoo",
+            "text": "Er með leið 3 hjá símanum 16 Mb/s og var að ná c. 1500 KB/sec þegar best lét.\nFékk svo sjónvarp símans með HD stuðningi og núna fæ ég max 140 KB/sec  \n  en sjónvarpið virkar alveg ágætlega.\nSamkvæmt beini er ég tengdur á 19 Mb/s tengingu hjá símanum.\nFór í hraðaprófið hjá símanum og fæ þessar niðurstöður:\nrunning 10s outbound test (client-to-server [C2S]) . . . . . 242.0kb/s\nrunning 10s inbound test (server-to-client [S2C]) . . . . . . 731.66kb/s  \nC2S throughput test: Packet queuing detected: 7.39%\nS2C throughput test: Excessive packet queuing detected: 95.93%\nThis connection is \nnetwork limited 99.83% of \nthe time. ???\nKannast einhver við svona?",
+            "date": "2009-09-26 11:23:00",
+            "post_id": "219971",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "JReykdal",
+            "text": "Ertu ekki bara kominn yfir gagnamagnið?\nGetur líka prófað að slökkva á afruglaranum og sjá hvort það hressir eitthvað tenginguna.",
+            "date": "2009-09-28 11:21:00",
+            "post_id": "220269",
+            "reply_to_id": "219971"
+        },
+        {
+            "user_name": "eoo",
+            "text": "Er langt undir gagnamagni (60%) og búinn að prufa að slökkva á afruglaranum og taka allt úr sambandi nema eina tölvu tengda með LAN.\nÞað breytir engu hvort ég er að speedtesta hérna heima eða úti. En ef maður fer yfir erlent gagnamagn þá eru .is serverar ekki cappaðir.\nSíminn er eitthvað að skoða þetta en það er fúlt að borga fyrir 16 Mbit og fá bara max 1 Mbit.",
+            "date": "2009-09-28 12:18:00",
+            "post_id": "220273",
+            "reply_to_id": "220269"
+        }
+    ],
+    "date": "2009-09-26 11:23:00"
+}

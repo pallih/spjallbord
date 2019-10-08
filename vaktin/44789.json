@@ -1,0 +1,16 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "44789",
+    "title": "Hjálp við uppsetningu Access Point",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=44789",
+    "posts": [
+        {
+            "user_name": "Geir26",
+            "text": "Sælir.\nMálið er að ég er með borðtölvu inn í herbergi sem ég get ekki tengt með snúru í routerinn. \nÉg er með usb þráðlaust netkort \nhttp://tolvutek.is/vara/trendnet-tew-64 ... sb-netkort\n \nog það nær sambandi c.a 80% en dettur alltaf út nær ekki að vera tengt við netið nema í nokkrar sek.  \nSvo ég prófaði að færa routerinn nær og þá náði ég stöðugu sambandi , en sá staður er bara út á miðju gólfi svo ég get ekki haft hann þar svo ég ákvað að lesa mig um Access Point.\nÞannig að ég fór að gróf upp gamlan 585 router og ákvað að reyna að gera hann að Access Point. \nSíðan fór ég eftir leiðbeiningum frá freeky sem ég fann herna á spjallinu\nEf þú tengir hann með lan snúru er nóg að slökkva á DHCP og breyta um ip tölu\nGetur gert það í gui. ferð inn á routerinn í browser\nferð í\nhome network\ninterfaces\nLocalnetwork\nconfigure\nhakar úr dhcp og breytir ip t.d. úr 192.168.1.254 í 192.168.1.253\nannars ef tengir ekki með snúru þarf routerinn líka að styðja WDS\nferð í\nhome network\ninterfaces\nwlan\nconfigure\nconfigure WDS\nhakar í WDS Enabled (þarf að vera enabled á báðum áður en heldur áfram)\nscan for wireless accesspoints\nvelur hinn gæjann.\nGerir sama á router undir WDS\nHafðu sama SSID á báðum og sama wep lykil.\nMálið er að fyrra virkar hjá mér en hinsvegar vill ég ekki hafa snúru milli routerana því þá gæti ég alveg eins verið bara tengdur beint í routerinn\nÉg er búinn að Enable-a WDS og scanna og finna Vox routerinn(vodafone) en hins vegar finn ég þetta ekki inná Vox routernum\nVar að pæla hvort einhver herna hafi gert þetta með Vox routerinn ? Þá væri algjör snilld ef einhver gæti hjálpað mér með þetta.\nmeð fyrirfram þökkum\nGeiR",
+            "date": "2012-01-13 17:44:00",
+            "post_id": "412308",
+            "reply_to_id": false
+        }
+    ],
+    "date": "2012-01-13 17:44:00"
+}

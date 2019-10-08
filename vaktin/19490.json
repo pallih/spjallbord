@@ -1,0 +1,79 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "19490",
+    "title": "Hvernig geri ég HDD að system?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=19490",
+    "posts": [
+        {
+            "user_name": "Allinn",
+            "text": "Hæ! ég er með vandræði að gera minn 500 Gíg disk að \"System\" svo að hann bootar frá honum þegar ég tek 320 Gíga diskinnn úr sambandi þá seigjir tölvan \"NTFS is missing\" eða eitthvað svoleiðis. ??",
+            "date": "2008-09-27 11:43:00",
+            "post_id": "183317",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "Er windows installað á þennan 500 disk eða á 320 diskinn ?\neða ertu að tala um að þú koperaðir C drifið inná 500 gíg diskinn og skilur ekkert í því afhverju það virki ekki ?",
+            "date": "2008-09-27 11:58:00",
+            "post_id": "183318",
+            "reply_to_id": "183317"
+        },
+        {
+            "user_name": "Allinn",
+            "text": "Stýrikerfið er á 500 Gíga disknum en hann vill bara boota frá 320 gíga og notar stýrirkerfið frá 500 gíga disknum.",
+            "date": "2008-09-27 12:03:00",
+            "post_id": "183320",
+            "reply_to_id": "183318"
+        },
+        {
+            "user_name": "Zorglub",
+            "text": "Ertu að meina ntldr is missing?  \nhttp://tinyempire.com/notes/ntldrismissing.htm\nhttp://www.computerhope.com/issues/ch000465.htm\nLestu þetta til að skilja um hvað málið snýst notaðu svo XP diskinn til að laga þetta, það er líka til lítið forrit sem maður hendir á floppy og lagar þetta sjálfkrafa, get reynt að grafa það upp ef þú nærð ekki að redda þessu.",
+            "date": "2008-09-27 12:45:00",
+            "post_id": "183322",
+            "reply_to_id": "183320"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "þarftu ekki að stilla 500 GB diskinn sem master orsom??",
+            "date": "2008-09-27 14:43:00",
+            "post_id": "183328",
+            "reply_to_id": "183322"
+        },
+        {
+            "user_name": "Allinn",
+            "text": "Var nú að láta jumper á hann \"Hann er í Master\" og ekkert lagaðist. Spurning að ég læt hinn í Sleave.",
+            "date": "2008-09-27 14:46:00",
+            "post_id": "183329",
+            "reply_to_id": "183328"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "þú mátt náttúrulega ekki hafa 2 diska sem master.. það er bara vitleysa",
+            "date": "2008-09-27 14:49:00",
+            "post_id": "183330",
+            "reply_to_id": "183329"
+        },
+        {
+            "user_name": "Allinn",
+            "text": "Jú, jú. Skal láta 320 Gíga diskinn í sleave.",
+            "date": "2008-09-27 14:52:00",
+            "post_id": "183331",
+            "reply_to_id": "183330"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Slave, please, kalla þetta slave. Eins og í þræll.",
+            "date": "2008-09-27 14:58:00",
+            "post_id": "183332",
+            "reply_to_id": "183331"
+        },
+        {
+            "user_name": "DoofuZ",
+            "text": "Ég er nokkuð viss um að vandamálið sé einfaldlega bara það að 320 gb diskurinn er með boot sector en 500 gb diskurinn ekki. Gætir hugsanlega lagað þetta með því að hafa 500 gb diskinn bara tengdan, keyra svo upp Windows uppsetninguna og gera repair þar (ferð í innstall og ef uppsetningin finnur að Windows er inná þessum disk þá geturu valið repair annars geturu bara sleppt þessu). Þá ætti boot sectorinn að vera lagaður á diskinum.",
+            "date": "2008-09-27 22:38:00",
+            "post_id": "183351",
+            "reply_to_id": "183332"
+        }
+    ],
+    "date": "2008-09-27 11:43:00"
+}

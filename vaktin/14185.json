@@ -1,0 +1,51 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "14185",
+    "title": "Er að reyna að ná gögnunum aftur",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=14185",
+    "posts": [
+        {
+            "user_name": "cambridge",
+            "text": "Hæbb, var að kaupa 400gb Samsung SATA hd og núna fyrir stuttu þá crashaði hann. Get ekki startað upp stýrikerfinu á honum. Kemur bara eins og windows xp sé að startast en síðan gerist ekki neitt. Búinn að vera að lesa mig til um Data recovery fyrir núbba undanfarið en hef ekki komist langt. \n\nÉg get skoðað gögnin á honum í TestDisk sem ég keyri í dos en get ekki fært þau eða neitt því ég get ekki sett þau á neinn harðan disk því þeir sjást ekki í dos eða eitthvað þvíumlíkt. Búinn að vera að reyna að fikta mig áfram í FreeDos en ég er alltaf beðinn um að formatta HD.\n\nhmmm allaveganna er með 2 aðra hd sem eru minni. langar að geta bjargað eitthvað að þessum gögnum. \n\nEf ég starta Windows xp á öðrum disk og tengi svo (bilaða) diskinn þegar ég er búinn að opna þá kemur eins og windowsið sé að installa driverum fyrir harða diskinn og þá fæ ég blue screen. \n\nÞetta er á dell dimension 8400 tölvu. Fór í eitthvað dell diagnoses dæmi í dos og fékk error 0F00:0244 bla bla hvað sem það þýðir. \n\n\n\nTakk fyrir að nenna að lesa þetta en já, get ég copyað allaveganna einhver gögn af honum. Nokkrar ljósmyndir þarna sem ég vill alls ekki missa. Ef það er hægt að gera þetta í dos, með hvaða forriti og hvernig þá?",
+            "date": "2007-05-06 04:07:00",
+            "post_id": "145723",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "tommiáddna",
+            "text": "Hef lent í þessu þegar ég hef sett NTFS disk í Linux vél, þegar ég flyt diskinn aftur yfir í Winadósina þá segir kerfið af diskurinn sé RAW. Þá er MBR skráin gölluð og lítið annað í stöðunni en að nota einhver forrit sem skanna diskinn eftir skrám t.d ZAR, en það tekur svona 2 klukkutíma á per 100GB.\n\n\n\nE.s: Ef einhver hefur lausn á þessu, endilega svara \n\n\n\n\n\n\nTommi Áddna",
+            "date": "2007-06-09 10:23:00",
+            "post_id": "148399",
+            "reply_to_id": "145723"
+        },
+        {
+            "user_name": "TechHead",
+            "text": "Partition Table Doctor 3.5\n\n\n\n\nHefur reddað mér oftar en einu sinni",
+            "date": "2007-06-09 13:07:00",
+            "post_id": "148411",
+            "reply_to_id": "148399"
+        },
+        {
+            "user_name": "Taxi",
+            "text": "Er gott forrit,en það virkar ekki nema að borga fyrir leyfi.",
+            "date": "2007-06-09 20:07:00",
+            "post_id": "148431",
+            "reply_to_id": "148411"
+        },
+        {
+            "user_name": "DoRi-",
+            "text": "ef að MBR er bilað þá er ekkert mál að redda því,,\n\nboota af windows disknum, fara í recovery console og skrifa fixmbr\n\n\n\nmálið leyst..",
+            "date": "2007-06-09 20:16:00",
+            "post_id": "148432",
+            "reply_to_id": "148431"
+        },
+        {
+            "user_name": "tommiáddna",
+            "text": "virkar ekki á þessum disk sem ég talaði um áðan, tók hann útúr fataskápnum þar sem ég geymi hann og er að prófa að nota ZAR 8.2 á hann",
+            "date": "2007-06-09 20:28:00",
+            "post_id": "148434",
+            "reply_to_id": "148432"
+        }
+    ],
+    "date": "2007-05-06 04:07:00"
+}

@@ -1,0 +1,30 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "68447",
+    "title": "pfsense á vdsl \"vigrun\"",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=68447",
+    "posts": [
+        {
+            "user_name": "vesi",
+            "text": "Sælir Vaktarar.\nEr að spá í pfsense (router tölvu). En þar sem ég er með \"vigrað\" vdsl 100/25 veit ég ekki hvort ég þurfi sérstak módem til að halda hraðanum. \nÞetta er meira svona lærdóms\"fykkt\" heldur en einhver þörf, en mig hefur allveg langað til að prufa. Er með router frá isp sem virkar fínnt og lítið út á hann að setja enn sem komið er. \nsvo ég spyr. \n1.er þetta hægt. \n2.kostar þetta handlegg. (heyrði einhverstaðar að vdsl modem væri dýrt). \n3.er þetta meira vesen heldur en kostur. \n4.er þetta fyrir einhvern sem er svona sem-pro, (ekki með CCNA stimpil, en grunnin að því).\nÖll ráð mjög vel þegin,,\nBeztu kv. \nVesi.\nEdit: \nEftir að hafa leitað smá yfir þræði hér þá sýnist mér að vdsl2 usb kort er illa aðgengilegt, svo ég væntanlega brúa bara frá router í pfsense.",
+            "date": "2016-02-04 19:02:00",
+            "post_id": "617286",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "arons4",
+            "text": "Vanalega þegar menn setja upp pfsense á dsl línum halda þeir routerunum og brúa á milli. Ekki nema þú þá finnir einhverstaðar vdsl modem fyrir tölvur(hef satt best að segja aldrei séð svoleiðis nema fyrir 56k).\nÁ ekkert að vera neitt rosalegt vesen en kostar þó auka tölvu og það er til alveg heill hellingur af leiðbeiningum á netinu.",
+            "date": "2016-02-04 20:05:00",
+            "post_id": "617291",
+            "reply_to_id": "617286"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Þetta var töluvert einfaldara en ég bjóst við. Í báðum tilvikum þar sem ég hef sett upp pfsense, þá hef ég brúað frá ISP router og virkar mjög vel. Ef þú ferð þá leið, þá þarf vélin að hafa tvö netkort og annað verður sett upp sem WAN interface (tengt við ISP router) og hitt er LAN (tengt í switch fyrir heimilistölvurnar). Getur svo bætt við WIFI korti, en ég hef alltaf bara notast við access point og þá er það jafn einfalt og að tengja AP við hvaða annann router.  \nÍ sambandi við kostnað, þá er minn pfsense að keyra á eldgömlum Pentium 4 og 1GB DDR og meira að segja það er algjört overkill. Þannig kostnaðurinn er gott sem enginn ef þú átt gamla tölvu í geymslunni.",
+            "date": "2016-02-04 20:07:00",
+            "post_id": "617292",
+            "reply_to_id": "617291"
+        }
+    ],
+    "date": "2016-02-04 19:02:00"
+}

@@ -1,0 +1,86 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "27632",
+    "title": "USB sjónvarpskort - vesen í áframhaldi.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=27632",
+    "posts": [
+        {
+            "user_name": "Daz",
+            "text": "Mig vantar svona kort til að glápa á sjónvarpið í gegnum fartölvu. Hefur einhver reynslu af einhverju svona korti? Ég gat ekki fundið nein áreiðanlega review um þau kort sem eru seld hérna heima. \n(Eina sem vantar er að það séu ásættanleg myndgæði og að allar opnu stöðvarnar (... rúv) finnist.)",
+            "date": "2010-01-17 11:00:00",
+            "post_id": "240041",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gardar",
+            "text": "Hvernig útsendingu ætlarðu að ná? Digital eða analog? Og hvernig loftnet ætlarðu að nota með kortinu?\nLitla loftnetið sem fylgir með sjónvarpskortinu? Örbylgjuloftnet? Breiðbandið?\nÞarft að passa þig á að taka kort sem styður það sem þú hyggst nota það í, Breiðbandið er t.d. DVB-C en örbylgjuloftnetin á DVB-T...\nÉg klikkaði einmitt á þessu sjálfur og fékk mér vitlaust kort sem gekk ekki með breiðbandinu. Er annars á leiðinni að kaupa mér \nsvona\n gæja sem styður dvb-c, dvb-t og analog.",
+            "date": "2010-01-17 11:44:00",
+            "post_id": "240050",
+            "reply_to_id": "240041"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Ég hafði nú bara hugsað mér analog (og nota líklega meðfylgjandi loftnetið), veit ekki til þess að það náist neitt fleiri rásir á öðrum kerfum, nema maður sé með afruglara?",
+            "date": "2010-01-17 12:37:00",
+            "post_id": "240062",
+            "reply_to_id": "240050"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Getur allt eins fengið þér digital kort og notað loftnetið sem fylgir með, mun meiri gæði á digital en analog og svo nærðu plús stöðvunum í gegnum digital.\nAnnars er það alveg rétt held ég, færð ekkert fleiri opnar stöðvar á breiðbandinu en með örbylgjuloftneti, bara spurning hvort það sé loftnet á húsinu þínu osfrv. (hjá mér er t.d. ekkert loftnet heldur bara breiðband)\nÉg hugsa að þetta kort sé einna sniðugast fyrir þig, það er hybrid og tekur því bæði við analog og digital útsendingum \n \nhttp://www.tolvuvirkni.is/ip.php?inc=vi ... JO_USB_900",
+            "date": "2010-01-17 12:46:00",
+            "post_id": "240064",
+            "reply_to_id": "240062"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "Ég á svona kort og eftir að ég týndi diskinum sem var með kortinu þá hef ég ekki getað notað það \n koma aldrei stöðvar er bara að reyna að fá digital ísland (CH 33) en hún kemur bara ekki inn \n þú mátt endilega kenna mér á þetta \n td hvaða forrit ég á að downloada (setja link hér) og segja mér hvernig þetta á að vera stillt áður en maður byrjar að láta það leita og svo var líka annað, ætlaði að fara að afrita VHS spólurnar og það er svona AV input á kortinu, gulur,rauður,hvítur en ég þarf hjálp við að stilla það inn líka",
+            "date": "2010-01-17 13:17:00",
+            "post_id": "240072",
+            "reply_to_id": "240064"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Nú er ég ekki windows maður en þú ættir allavega að geta skoðað digital útsendingarnar með forritinu dvbviewer og mediaportal á víst að vera fínt líka \nhttp://www.team-mediaportal.com/\nÞetta hauppauge forrit sem fylgir með er víst eitthvað bölvað drasl, svo að það ætti ekki að skipta neinu máli þótt þú hafir týnt diskinum",
+            "date": "2010-01-17 13:28:00",
+            "post_id": "240074",
+            "reply_to_id": "240072"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "En þarf ekki einhverja driver-a fyrir kortið samt? Er að nota win 7 ultimate",
+            "date": "2010-01-17 15:18:00",
+            "post_id": "240091",
+            "reply_to_id": "240074"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Jú væntanlega, bjóst bara við því að þú værir með driver uppsettan.\nÆttir að geta fundið þá á síðunni þeirra:\nhttp://www.hauppauge.com/site/support/support_usb2.html\nhttp://www.hauppauge.com/pages/support/vista.html",
+            "date": "2010-01-17 15:57:00",
+            "post_id": "240097",
+            "reply_to_id": "240091"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Keypti gigabyte u8000 kort, sem virðist virka mjög fínt, nema að forritið sem fylgdi með krassar eftir nokkrar sek af full screen digital playback. Eitthvað grunar mig að þetta gæti verið einhver driver issue en þar sem það er ekkert installað nema Vlc og power DVD hef ég ekki hugmynd um hvað það gæti verið. \nEru ekki til einhverjir freeware spilarar fyrir svona sjónvarpskort? Ég finn MythTV, en það er linux only.",
+            "date": "2010-02-07 18:11:00",
+            "post_id": "244029",
+            "reply_to_id": "240097"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Mediaportal?",
+            "date": "2010-02-07 18:17:00",
+            "post_id": "244033",
+            "reply_to_id": "244029"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Gætir líka prófað Kastor TV (einnig þekkt sem K!TV).",
+            "date": "2010-02-07 18:35:00",
+            "post_id": "244037",
+            "reply_to_id": "244033"
+        }
+    ],
+    "date": "2010-01-17 11:00:00"
+}

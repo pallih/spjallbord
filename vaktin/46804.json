@@ -1,0 +1,86 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "46804",
+    "title": "Hægir harðir diskar (wtf? hjálp)",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=46804",
+    "posts": [
+        {
+            "user_name": "DJOli",
+            "text": "Hörðu diskarnir hjá mér eru einhvernveginn frekar hægir.\nSeek tíminn eða bufferinn, veit ekki hvort, annað þeirra virðist vera frekar fucked up.\nSem dæmi vel ég eitthvað random lag í tölvunni, mp3 eða wav, breytir engu, en ef ég ýti oft á play takkann þá byrjar lagið næstum því strax 2-3 skiptið svo hægist það og hægist og hægist þartil tölvan lockast tímabundið.\nEinhverjar tillögur?\nDiskarnir (Uppl úr HDTune Pro 5.00):\nSeagate (something) Sata2 250gb (Access time: 14.2 ms/Read speed sirka 60MB/s max/Burst rate: 149.2 MB/s) [Keyptur nýr í byrjun árs 2008]\nWestern Digital Blue Sata2 640gb (Access time: 17.2 ms/Read speed 113.4MB/s max/Burst rate: 152.7 MB/s) [keyptur nýr einhverntíma 2009]\nSamsung (something) Sata2 1TB (Access time: 14.1 ms Read speed 139.6MB/s max/Burst rate: 163.5 MB/s) [Næst Nýjastur, Ágúst 2010]\nWestern Digital Blue Sata3 1TB (Access time: 15.4ms/Read speed 127.6MB/s max/Burst rate: 156.3MB/s)  [Nýjastur, Desember 2011]",
+            "date": "2012-03-28 05:28:00",
+            "post_id": "431727",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "Er windows á 250gb diskmum? Allarvegna er hann einni sem er með lélega read tölu  !\nHard Disk Sentinel þetta forrit er ágætt til að sjá hita,hraða,líftíma og flr.",
+            "date": "2012-03-28 09:45:00",
+            "post_id": "431740",
+            "reply_to_id": "431727"
+        },
+        {
+            "user_name": "DJOli",
+            "text": "var með hard disk sentinel, en það er ekki með þetta bench test sem ég fékk í hinu forritinu.\nAuðvitað er stýrikerfið ekki á elsta diskinum, það er á þessum nýjasta (partitioni af honum).",
+            "date": "2012-03-28 14:04:00",
+            "post_id": "431790",
+            "reply_to_id": "431740"
+        },
+        {
+            "user_name": "DJOli",
+            "text": "bump",
+            "date": "2012-03-29 14:05:00",
+            "post_id": "432019",
+            "reply_to_id": "431790"
+        },
+        {
+            "user_name": "axyne",
+            "text": "Mig grunar að diskarnir eru að slökkva á sér og tölvan verður no responsive þegar harður diskur er að keyra sig upp.\nprufaði að fara í power Options og breytti því að þeir slökkvi ekki á sér.\nannars fínar tölur úr þessu testi hjá þér.",
+            "date": "2012-03-29 16:08:00",
+            "post_id": "432036",
+            "reply_to_id": "432019"
+        },
+        {
+            "user_name": "DJOli",
+            "text": "löngu búinn að breyta því úr að diskarnir slökkvi á sér í \"always on\".\nLíklegast með fyrstu hlutunum sem ég geri þegar ég set upp windows.\nEn ég er opinn fyrir öllum tillögum, en þetta virðist gerast þegar ég er að gera eitthvað í tölvunni.",
+            "date": "2012-03-29 17:55:00",
+            "post_id": "432063",
+            "reply_to_id": "432036"
+        },
+        {
+            "user_name": "DJOli",
+            "text": "Bump plús smá meira \"info\".\nÞetta getur varla talist eðlilegt á þriggja mánaða SATA3 diski, er það?",
+            "date": "2012-04-03 10:02:00",
+            "post_id": "433158",
+            "reply_to_id": "432063"
+        },
+        {
+            "user_name": "dori",
+            "text": "Það á ekki að taka neina stund að færa hlut milli staða á sama drifi (þar sem það þarf bara að breyta metadata, ekki að afrita gögnin sjálf) sem gerir þetta svolítið spes. Er diskurinn mjög fullur eða fragmentaður hjá þér?",
+            "date": "2012-04-03 12:41:00",
+            "post_id": "433180",
+            "reply_to_id": "433158"
+        },
+        {
+            "user_name": "urban",
+            "text": "hann er að copya þetta, ekki cutta",
+            "date": "2012-04-03 12:48:00",
+            "post_id": "433182",
+            "reply_to_id": "433180"
+        },
+        {
+            "user_name": "axyne",
+            "text": "Ég er að fá svipaðann hraða (37MB/s) með að copy pasta á sama disknum hjá mér (1.5TB diskur), Ekki vandamál.\nErtu viss um að þetta sé tengd hörðu diskunum hjá þér en ekki einhverju öðru ?\nGerist þetta vandamál bara þegar þú ert að spila einhver lög ? \nhvaða player ertu að nota? \nBúinn að prufa annan player ?",
+            "date": "2012-04-03 12:57:00",
+            "post_id": "433184",
+            "reply_to_id": "433182"
+        },
+        {
+            "user_name": "DJOli",
+            "text": "Svona sést þetta basicly.\nhttp://youtu.be/oZ6GBCBn3wE\nAfsakið gæðin, en þetta var tekið upp á skítgamlan Sony Ericsson síma.",
+            "date": "2012-04-03 13:32:00",
+            "post_id": "433191",
+            "reply_to_id": "433184"
+        }
+    ],
+    "date": "2012-03-28 05:28:00"
+}

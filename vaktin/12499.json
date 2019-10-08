@@ -1,0 +1,100 @@
+{
+    "forum_title": "Yfirklukkun, hraðaprófanir og mods",
+    "id": "12499",
+    "title": "Vandræði!",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=1&t=12499",
+    "posts": [
+        {
+            "user_name": "Harvest",
+            "text": "Jæja..\n\n\n\nÞá er maður búinn að klúðra fyrstu yfirklukkun og er í sjálfheldu hérna.\n\n\n\nÞannig er mál með vexti að ég var að reyna að yfirklukka tölvuna mína (CPU) en ekki vildi betur til að núna fæ ég enga mynd á skjáinn hjá mér.\n\n\n\nMig grunar að ég hafi hækkað voltin á kortinu of mikið, sem hefur leitt til þess að ég fái ekkert signal á skjáinn. Allavega væru ráð vel þegin og ég get reynt að gefa fleiri upplýsingar um þetta óhapp mitt.\n\n\n\nHvað á maður að gera til að \"afturkalla\" overklock? eða er það hægt ? : /",
+            "date": "2006-12-19 20:38:00",
+            "post_id": "133328",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gnarr",
+            "text": "Þú gerir bara \"Clear cmos\" . skoðaðu móðurborðs bæklinginn þinn til að athuga hvað þú gerðir vitlaust.\n\n\n\nBTW. Ekki fikta neitt í spennunni ef þú ert að overclocka í fyrsta skipti. Geymdu það þangað til í næsta skrefi.",
+            "date": "2006-12-19 21:24:00",
+            "post_id": "133334",
+            "reply_to_id": "133328"
+        },
+        {
+            "user_name": "Harvest",
+            "text": "Þetta er í svona 3ja sinn. Mundi samt tiltla mig sem frekar mikinn byrjanda, en þekki þó flestu hugtökin osf.\n\n\n\nMér tókst að laga þetta, allavega þannig að ég gat breytt stillingunum til baka. Það sem ég þurfti að gera var að fjarlægja batterýið úr móðurborðinu.\n\n\n\nÉg er með nýlegt Asus borð og x2 4400 örgjörfa og ég bara finn ekki stillingurna, hvernig sem ég leita til að hækka mhz á borðinu. Þessvegna get ég bara hækkað multiplyanna en alltaf þegar ég geri það þá næ ég ekki að starta.\n\n\n\nAnnars er ég búinn að yfirklukka minnið svolítið (kann samt ekki að gera þarna clocks dæmið, bara frequency) og það hefur gengið ágætlega.\n\n\n\nEitthverjar hugmyndir samt með hitt? og er til eitthver önnur leið til þess að overclocka cpu en í gegnum BIOS?",
+            "date": "2006-12-19 21:33:00",
+            "post_id": "133335",
+            "reply_to_id": "133334"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "að fjarlægja batteríið gerir það sama og \"clear cmos\" jumperinn, nema hvað að það er margfalt auðveldara aðnota jumperinn.",
+            "date": "2006-12-19 21:39:00",
+            "post_id": "133339",
+            "reply_to_id": "133335"
+        },
+        {
+            "user_name": "Harvest",
+            "text": "hvað er og hvað gerir PCIE Frequency?",
+            "date": "2006-12-19 22:06:00",
+            "post_id": "133341",
+            "reply_to_id": "133339"
+        },
+        {
+            "user_name": "Yank",
+            "text": "Þú lætur það vera",
+            "date": "2006-12-19 23:19:00",
+            "post_id": "133344",
+            "reply_to_id": "133341"
+        },
+        {
+            "user_name": "Harvest",
+            "text": "hehe ok. ég skil",
+            "date": "2006-12-19 23:58:00",
+            "post_id": "133348",
+            "reply_to_id": "133344"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "það stjórnar tíðninni á PCIe kortum. Semsagt skjákortum og öðrum expansion kortum sem fara í PCIe raufar. SATA Harðdisksstýringar geta verið á PCIe líka, svo að ef þú ert að overclocka PCIe bussinn, þá geturu á hættu að tapa gögnum af hörðum diskum.",
+            "date": "2006-12-20 01:19:00",
+            "post_id": "133357",
+            "reply_to_id": "133348"
+        },
+        {
+            "user_name": "Harvest",
+            "text": "Hækkaði þetta lítið. Úr 100 í 105. Las eitthversaðar að maður gæti fuckað upp e-ð ef að maður hækkaði meira en 110.\n\n\n\nÁ ég að lækka þetta aftur?\n\n\n\nOg annað. Ég finn ekki til að hækka voltin á CPU inu mínu, og þess vegna hef ég bara náð að hækka hann um 55mhz. Var að fikta aðeins í þessu í gær og fattaði hvernig átti að hækka um mhz, en voltin eru ekki nógu há eða eitthvað.\n\n\n\nHvað getur þetta heitið ss. voltstillingin? Vcore eða eitthvað?",
+            "date": "2006-12-20 12:44:00",
+            "post_id": "133376",
+            "reply_to_id": "133357"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "yfirleitt er það \"CPU Voltage\", \"VCore\", \"Core Voltage\" eða álíka.",
+            "date": "2006-12-20 13:31:00",
+            "post_id": "133380",
+            "reply_to_id": "133376"
+        },
+        {
+            "user_name": "Yank",
+            "text": "Áttu ekki eftir að setja divider á minnið?",
+            "date": "2006-12-20 14:54:00",
+            "post_id": "133386",
+            "reply_to_id": "133380"
+        },
+        {
+            "user_name": "stjanij",
+            "text": "ekki opna gæti verið vírus",
+            "date": "2007-05-14 09:28:00",
+            "post_id": "146370",
+            "reply_to_id": "133386"
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "http://www.google.com\n - \"Athlon 64 Overclock Guide\"",
+            "date": "2007-05-14 11:28:00",
+            "post_id": "146375",
+            "reply_to_id": "146370"
+        }
+    ],
+    "date": "2006-12-19 20:38:00"
+}

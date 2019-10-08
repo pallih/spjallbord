@@ -1,0 +1,44 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "65975",
+    "title": "Bandarískur aflgjafi á Íslandi",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=65975",
+    "posts": [
+        {
+            "user_name": "mirnos",
+            "text": "Sælir góðir rafvirkjar og aðrir snillingar,\nÉg ferðast mikið til BNA og mun líklega kaupa hluti fyrir nýja vél þarna úti í haust, og kassan hérna heima. En ég er að spá í með aflgjafann... Ég hef skoðað t.d. þennan: \nhttp://www.evga.com/Products/Product.as ... B1-0600-KR\nUndir details stendur: \nAC Input: 100-240 AC\n. Eins og ég skil raftæknina þá þýðir það að ég gæti jafnvel verið með einfalt millistykki og notað aflgjafan á evrópskum innstungum án vanda. En kannski væri betra að vera með íslenska snúru fyrir innstunguna...\n- Eru einhver vandamál sem geta komið upp með bandarískan aflgjafa hér?\n- Er það rétt að allir aflgjafar nota sömu tengingu fyrir innstungusnúru? Get ég keypt íslenska rafmagnssnúru fyrir aflgjafann?",
+            "date": "2015-06-18 10:38:00",
+            "post_id": "600646",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Squinchy",
+            "text": "Skipta bara úm snúru og þú ert good to go, kaninn notar 110V kerfi á meðan við 230V og þar sem hann getur nýtt orku innan 100-240V þá getur þú stungið honum í samband hvar sem er",
+            "date": "2015-06-18 10:54:00",
+            "post_id": "600649",
+            "reply_to_id": "600646"
+        },
+        {
+            "user_name": "playman",
+            "text": "Ef það stendur \"AC Input: 100-240 AC\" þá ertu í raun good to go, flest allir aflgjafar í dag eru framleiddir \"AC Input: 100-240 AC\"\nOg mér vitandi þá er bara ein snúrutegund notuð, svo kallaða C13 sem er max 10A svo eru líka plug sem \nheita C15 og eru notuð bara í tölvur sem þurfa meira afl en venjuleg heimilis tölva t.d. í servera sem eru að taka um 16A.(þau líta mjög svipað út)\nhttps://en.wikipedia.org/wiki/IEC_60320\nÞannig að þú getur notað þessa sem við öll þekkjum með \"íslenskri\" kló, ef þú átt hana ekki til þá notarðu bara\nþessa sem að fylgdi aflgjafanum og setur \"Íslenska\" kló.\nEn double checkaðu og triple checkaðu hvort að aflgjafin sé ekki örugglega stiltur á 240v en ekki 100v annars slærðu út og\nstútar aflgjafanum með tilheyrandi látum og reyk, hann mun pottþétt vera stiltur á 100v ef þú kaupir hann úti.",
+            "date": "2015-06-18 11:04:00",
+            "post_id": "600650",
+            "reply_to_id": "600649"
+        },
+        {
+            "user_name": "mirnos",
+            "text": "Takk fyrir góð og fljót svör. \nSnilld, þetta er nákvæmlega það sem ég var að leita að. Það hlaut að vera eitthvað sem ég þarf að passa mig á! Hvernig get ég stillt voltið á honum, er það bara rofi eða eitthvað þannig?",
+            "date": "2015-06-18 11:14:00",
+            "post_id": "600653",
+            "reply_to_id": "600650"
+        },
+        {
+            "user_name": "playman",
+            "text": "Það á að vera svona rofi aftan á honum.\nEn ef ekki þá ætti hann að vera auto switchable, best er að spyrja söluaðilan samt af því.",
+            "date": "2015-06-18 11:19:00",
+            "post_id": "600654",
+            "reply_to_id": "600653"
+        }
+    ],
+    "date": "2015-06-18 10:38:00"
+}

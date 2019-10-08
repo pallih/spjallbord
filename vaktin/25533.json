@@ -1,0 +1,93 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "25533",
+    "title": "HitaVandamál Með Core2 Duo",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=25533",
+    "posts": [
+        {
+            "user_name": "KrissiK",
+            "text": "er með hérna slæmt vandamál með örgjörvann minn sem ég er búinn að eiga i eh 2 ár.. málið er að þegar ég spila tölvuleiki eins og t.d. Call Of Duty 4 .. þá FPS droppa ég rosarlega mikið samt er ég með hann stilltann á lægstu gæði sem hægt er .. en áður fyrr þegar ég var nýbúinn að fá skjákortið mitt sem er MSI Geforce GTS 250 þá gat ég runnað leikinn í hæðstu gæðum og upplausn án þess að FPS Droppa ... hitinn hjá mér á örgjörvanum er 70 - 85C .. er með Stock Intel Kælingu.. , en nú spyr ég ykkur.\nHvort ætti ég að fá mér Quad örgjörva á næstuni og betri kælingu ... eða fá mér bara nýja kælingu .. því að þessi örgjörvi er orðinn 2 ára gamall og er E4500..?\nTakk Fyrir Mig",
+            "date": "2009-10-14 19:31:00",
+            "post_id": "222406",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "vesley",
+            "text": "prufað að athuga hvort kælingin sé vel fest á ? .   opnaðu kassan og ýttu aðeins í kælinguna og athugað hvort hún sé eitthvað laus.",
+            "date": "2009-10-14 19:34:00",
+            "post_id": "222407",
+            "reply_to_id": "222406"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Lítur þannig út að örgjövinn sé að valda usla, 85°C er of mikið fyrir þetta módel. Í loadi á þessum örgjörva á að vera sirka 65-70°C\nÞú ert ekkert að fara sjá neinn gífurlegan mun á því að skipta út örgjörva uppá FPSið.\nTaktu kælinguna af, hreinsaðu hana vel og settu hana \"rétt\" á aftur með kremi og öllu. (mjög lítið af kremi)\nVandamálið úr sögunni.\nEf ekkert batnar, þá er þetta eitthvað annað en örrinn. Líklega OS vandamál.",
+            "date": "2009-10-14 19:34:00",
+            "post_id": "222408",
+            "reply_to_id": "222407"
+        },
+        {
+            "user_name": "KrissiK",
+            "text": "hérna er þetta í SpeedFan",
+            "date": "2009-10-14 19:40:00",
+            "post_id": "222412",
+            "reply_to_id": "222408"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Notaðu CoreTemp\nhttp://www.alcpu.com/CoreTemp/\nAnnars endurtek ég aftur það sem ég sagði.....",
+            "date": "2009-10-14 19:42:00",
+            "post_id": "222413",
+            "reply_to_id": "222412"
+        },
+        {
+            "user_name": "KrissiK",
+            "text": "gæti verið að vandamálið sé að ég þurfi að setja aftur kælikrem á... er mjög lítið eftir af kælikremi þannig að það nái ekkert að leiða á milli örgjörvans og kæliplötunar..",
+            "date": "2009-10-14 21:11:00",
+            "post_id": "222433",
+            "reply_to_id": "222413"
+        },
+        {
+            "user_name": "vesley",
+            "text": "hefuru áður tekið kælinguna af og ekki hreinsað kælikremið sem var á fyrir af ?    s.s. bara skellt honum á  aftur án þess að skipta um ?    þá er líklegast ástæðan að kælikremið sé rofið ..",
+            "date": "2009-10-14 21:15:00",
+            "post_id": "222435",
+            "reply_to_id": "222433"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Mjög líklegt, \"kennaratyggjóið\" sem er á stock kælingum virkar bara einu sinni, það harnar með tímanum.\nSvo gæti kælingin líka bara verið stútfull af ryki og ekkert loftflæði í kassanum\nHvernig kassa ertu með og hvernig er hann kældur?",
+            "date": "2009-10-14 21:22:00",
+            "post_id": "222437",
+            "reply_to_id": "222435"
+        },
+        {
+            "user_name": "Nothing",
+            "text": "Rykhreinsa og skipta um kælikrem eins fljótt og þú getur þetta er alltof hár hiti..\nHérna sérðu minn hita idle:\nCore 2 Duo E6300 og GeForce 9600GT\nHækkar hjá mér um svona 5-10°C í CS:S með allt í gangi.",
+            "date": "2009-10-15 00:25:00",
+            "post_id": "222443",
+            "reply_to_id": "222437"
+        },
+        {
+            "user_name": "KrissiK",
+            "text": "með Eh Spire svartan drasl kassa.. með Eina örgjörva viftu og 1turnviftu .. já.. það þarf að kaupa nýtt kælikrem og nei .. tölvan er ekki stútfull af ryki.. ég þarf bara að fá mér nýtt kælikrem og nýjann kassa",
+            "date": "2009-10-15 04:00:00",
+            "post_id": "222454",
+            "reply_to_id": "222443"
+        },
+        {
+            "user_name": "littli-Jake",
+            "text": "http://www.kisildalur.is/?p=2&id=562\n plús \nhttp://www.kisildalur.is/?p=2&id=1090\n og þú ert góður. Mættir líka alveg bæta við eins og 1 viftu í kassan hjá þér",
+            "date": "2009-10-15 17:17:00",
+            "post_id": "222493",
+            "reply_to_id": "222454"
+        },
+        {
+            "user_name": "KrissiK",
+            "text": "takk fyrir .. en bróðir minn er að fara til rvk í næstu viku og ætlar líklegast að kaupa kælikrem handa mér ... þannig að mér vantar bara betri örgjörva kælingu.. og svo bara seinna meir að þá ætla ég að fá mér nýjann Turn",
+            "date": "2009-10-17 22:22:00",
+            "post_id": "222702",
+            "reply_to_id": "222493"
+        }
+    ],
+    "date": "2009-10-14 19:31:00"
+}

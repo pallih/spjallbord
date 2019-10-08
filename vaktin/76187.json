@@ -1,0 +1,107 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "76187",
+    "title": "Vantar @ merkið í Lubuntu",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=76187",
+    "posts": [
+        {
+            "user_name": "trausti164",
+            "text": "Ég var að setja upp Lubuntu á gamalli macbook(2006 módel held ég) en ég get ekki fundið @ merkið neinstaðar.\nEftir því sem ég best veit er ég á venjulegu íslensku layouti þannig að ég skil hvorki upp né niður í þessu og ég finn engar hjálplegar upplýsingar eða lausnir á google. \nAny ideas?",
+            "date": "2018-05-01 00:13:00",
+            "post_id": "671462",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "worghal",
+            "text": "virkar ekki shift + 2 ?",
+            "date": "2018-05-01 01:11:00",
+            "post_id": "671467",
+            "reply_to_id": "671462"
+        },
+        {
+            "user_name": "trausti164",
+            "text": "Nope, íslenskt layout. Ætti að vera ctrl+alt+q eða alt+q hélt ég. Virkilega böggandi.",
+            "date": "2018-05-01 01:26:00",
+            "post_id": "671468",
+            "reply_to_id": "671467"
+        },
+        {
+            "user_name": "worghal",
+            "text": "búinn að prufa ascii kóðana?\nALT+64\nALT+064",
+            "date": "2018-05-01 01:29:00",
+            "post_id": "671469",
+            "reply_to_id": "671468"
+        },
+        {
+            "user_name": "trausti164",
+            "text": "ctrl+shift+u+40 virkaði í ascii, frekar tedious samt \nTakk fyrir hjálpina.",
+            "date": "2018-05-01 01:32:00",
+            "post_id": "671470",
+            "reply_to_id": "671469"
+        },
+        {
+            "user_name": "worghal",
+            "text": "já shit, þetta er rosalegt combo",
+            "date": "2018-05-01 01:35:00",
+            "post_id": "671471",
+            "reply_to_id": "671470"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "FYI: Er búinn að setja nokkrar bragðtegundir af Ubuntu 18.04  á mismunandi vélum og Kubuntu er að koma best út að mínu mati hvað varðar stability og þess háttar. Var til að mynda með eina samsetta pc vél sem var með einhver furðulegheit á login screen (vantaði \"N\" og \"C\" character labelið í username og password) þegar ég var með uppsett Ubuntu 18.04 sem hvarf við að skipta yfir í Kubuntu 18.04 .",
+            "date": "2018-05-01 15:34:00",
+            "post_id": "671493",
+            "reply_to_id": "671471"
+        },
+        {
+            "user_name": "ElGorilla",
+            "text": "Ég er með Xubuntu 18.04 og ég nota alltaf \"AltGr takkann + q\".",
+            "date": "2018-05-01 16:22:00",
+            "post_id": "671495",
+            "reply_to_id": "671493"
+        },
+        {
+            "user_name": "trausti164",
+            "text": "Eins mikið og ég fýla KDE þá held ég einfaldlega að þessi tölva höndli það ekki. Lubuntu er nánast of mikið ef satt skal segja\nEf að tölvan væri ekki svona helvíti gömul hefði ég líklega farið í Debian eða Gentoo en Ubuntu er því miður eina kerfið sem styður wifi kortið í henni.",
+            "date": "2018-05-01 19:16:00",
+            "post_id": "671504",
+            "reply_to_id": "671495"
+        },
+        {
+            "user_name": "Zorba",
+            "text": "altgr+q",
+            "date": "2018-05-01 19:28:00",
+            "post_id": "671505",
+            "reply_to_id": "671504"
+        },
+        {
+            "user_name": "trausti164",
+            "text": "Það er enginn altgr takki á macbook lyklaborðum, maður myndi halda að alt takkinn væri sami hluturinn en alt+q virkar ekki.",
+            "date": "2018-05-01 20:04:00",
+            "post_id": "671507",
+            "reply_to_id": "671505"
+        },
+        {
+            "user_name": "reyniraron",
+            "text": "Yfirleitt virkar hægri option (alt) takkinn sem AltGr þegar önnur stýrikerfi en macOS eru notuð.",
+            "date": "2018-05-01 20:11:00",
+            "post_id": "671508",
+            "reply_to_id": "671507"
+        },
+        {
+            "user_name": "trausti164",
+            "text": "Það hélt ég líka, en samt virkar ekki alt+q.",
+            "date": "2018-05-01 20:12:00",
+            "post_id": "671509",
+            "reply_to_id": "671508"
+        },
+        {
+            "user_name": "Rabcor",
+            "text": "já, verður að nota altgr á linux fyrir @ merkið og án efa fleira shit, þú getur notað eitthvað script til að rebinda einhvern takka til að virka sem altgr, einsog rshift eða menu eða eitthvað (er ekki alt takki hægra megin? just change that one). Man ekki hvaða forrit þú mundir in general nota fyrir það; það eru nokkur options.\nhttps://askubuntu.com/questions/1011663 ... le_rich_qa\nEdit: Lestu þetta, sama scenario \nhttps://www.linuxquestions.org/question ... 175588515/",
+            "date": "2018-05-09 20:53:00",
+            "post_id": "671960",
+            "reply_to_id": "671509"
+        }
+    ],
+    "date": "2018-05-01 00:13:00"
+}

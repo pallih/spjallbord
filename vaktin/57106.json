@@ -1,0 +1,170 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "57106",
+    "title": "Endurskoðun á heimaneti, serverum og VPNi",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=57106",
+    "posts": [
+        {
+            "user_name": "Kristján Gerhard",
+            "text": "Jæja snillingar\nEins og staðan er í dag er ég með 100mbit ljós, pfsense router og managed 10/100 sviss, eina HTPC vél og einn ubuntu server 12.04LTS. Serverinn keyrir PMS og fleyri þjónustur. 2 access pointar er á netinu, annar VLAN capable. pfsense er VPN server inná lanið og openVPN client. \nNú er Plex serverinn minn orðinn overloaded og kominn tími á breytingar. Þetta er gróft það sem ég er að hugsa:\n1. Skipta hlutverki ubuntu vélarinnar á tvær vélar. PMS vél og NAS vél.\n2. Færa PMS yfir á Win 7 (Silverlight fyrir Netflix á Plex)\n3. Velja NAS (FreeNAS, NAS4free, unraid, flexraid,...)\n4. Vélbúnaður:\n            NAS:P4S775/2GB ram\n            Plex:E8400/4 GB ram\n5. Configga VPN routing Þetta er kannski eini liðurinn sem er ekki alveg trivielt að gera. Hér myndi ég vilja get stjórnað því hvaða traffík fer yfir VPNið. Eins og staðan er í dag er ég að senda alla traffík frá einstaka vélum yfir VPNið. \nÞað sem ég myndi vilja fá feedback á er aðalega liður 3. og 5. Hvaða NAS myndu vaktarar velja og afhverju. Mér finnst freeNAS lúkka solid og ekki skemmir ZFS. Ég held þó að vélbúnaðurinn sem er eirnamerktur fyrir NAS boxið sé tæplega nógu öflugur. Minni er allavega way off. Unraid hefur skemmtilega eiginleika varðandi að mixa og matcha diska.\nEr einhver sleipur í pfsense/openvpn/routing? Draumurinn væri að geta stillt það þannig að öll Netflix og NNTP traffík myndir fara yfir VPN tenginguna.\nEr ég way off að ætla að reyna að nota þetta hardware. Væri möguleiki að fara í 4ja kjarna örgjörva fyrir plex vélina, ætti að hjálpa við transcoding.",
+            "date": "2013-09-12 10:58:00",
+            "post_id": "528259",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ég er búinn að skoða og prufa í VM umhverfi bæði FreeNAS og unRAID og ég myndi persónulega taka unRAID upp á mix&match möguleikana á diskunum. Aðeins minna um hardware specific kröfur á unRAID en ætti svosem ekki að vera vandamál, ekki standard RAID heldur svo þú tapar ekki öllum gögnunum þótt það feili fleiri diskar en þú ert að nota undir parity, ef þú kýst að vera með parity drive á annað borð. \nEn, FreeNAS býður upp á hefðbundnara RAID og ZFS (stórt pro) en stærsti gallinn við ZFS/UFS er að það leyfir ekki expansion á array-inu. Fannst það vera punkturinn sem olli því að ég ákvað að fara frekar í unRAID, þegar að því kemur, og finnst það vera svona turning point hjá flestum. \nVélbúnaðar-wise fyrir PMS vélina þá ertu rétt að slefa yfir kröfurnar fyrir 1080p transcoding, gætir lent í vandræðum með 1080p+DTSHD skrár en grunar þó að þetta sé nóg þar til þú ferð að streyma fleiri en einum transcoding sessions samtímis.",
+            "date": "2013-09-12 11:39:00",
+            "post_id": "528262",
+            "reply_to_id": "528259"
+        },
+        {
+            "user_name": "mind",
+            "text": "ZFS leyfir bæði grow(skipta út öllum diskum einn í einu) og að bæta við pools (3+ diskum) til að auka plássið, ef maður er ekki tilbúinn í þá fjárfestingu fyrir alla plúsana sem ZFS býður uppá er líklegt að annað hvort sé ekki skilningur á því hverjir þeir eru eða þörfin fyrir þá ekki til staðar.\nEn fyrir OP.\nÞessi NAS vél þín er frekar aum fyrir Freenas/Nas4Free(ZFS), þú þarft allavega 4GB minni bara til að fá prefetch. En Dual core 1,5Ghz + og 4GB minni ætti að duga.\nFinndu bara IP tölurnar á Netflix þjónunum og NNTP traffíkinni og divertaðu henni yfir VPN, algjör óþarfi vera flækja hlutina.",
+            "date": "2013-09-12 12:51:00",
+            "post_id": "528267",
+            "reply_to_id": "528262"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Hmm, þá hef ég e-ð misskilið forum posts í gegnum tíðina, eða er að misskilja þig. Ég hélt að þegar þú expandaðir ZFS pool væriru í raun bara að búa til stripe, RAIDZ1 verður RAIDZ+0, og RAIDZ2 verður bara RAIDZ2+0. Er ég að misskilja e-ð? Er það þá ekki rétt skilið hjá mér að það eru sífellt fleiri diskar að tapast í parity?\nÉg hef svosem ekki kynnt mér kostina á ZFS niðrí míkródetails, en ég veit að þetta er \nthe\n file system fyrir data integrity, mér hefur bara aldrei fundist media storage þess mikilvæg, en fyrir backups etc er það annað mál.",
+            "date": "2013-09-12 14:04:00",
+            "post_id": "528273",
+            "reply_to_id": "528267"
+        },
+        {
+            "user_name": "mind",
+            "text": "Kannski er þetta bara eftir skilninginum manns á expand, ef maður hugsar um það sem að bæta stökum diskum við, þá já geturðu það ekki í ZFS nema fá bara auka parity eða hot swap.\nEn ef maður hugsar um þetta sem pools (samansafn af 3+ diskum), þá ef ég er með 4x 2TB ZFS pool, má ég koma með nýtt 3x 2TB ZFS pool og bæta við og fá þar auka 4TB (ef raidz).\nMálið er að ég fæ ekki eina 7x 2TB stæðu, heldur 4x 2TB(5,6TB eða svo) + 3x 2TB (3,7TB eða svo) og missi einn af nýju diskunum í nýtt parity, en hvað stýrikerfið varðar lítur þetta út sem ein heildarstæða og zfs dreifir gögnunum á alla diskana.\nHinn valmöguleikinn er að skipta út diskunum fyrir stærri einn í einu og resilvera, en maður getur ekki expandað stæðuna um gagnamismuninni fyrr en maður hefur gert það fyrir alla diskana.",
+            "date": "2013-09-12 15:16:00",
+            "post_id": "528282",
+            "reply_to_id": "528273"
+        },
+        {
+            "user_name": "benediktkr",
+            "text": "Þú ættir að geta notað routing töflur í pfsense græjuni til að ráða hvaða traffík eigi að fara yfir VPN. Ef þú villt filtera based á innlent/erlent, þá viðheldur RIX parsanlegum listum fyrir íslensk net.",
+            "date": "2013-09-12 15:17:00",
+            "post_id": "528283",
+            "reply_to_id": "528282"
+        },
+        {
+            "user_name": "BugsyB",
+            "text": "það eru svona þræðir sem fá mig til að átta mig á því hversu heimskur ég er í rauninni í tölvum - takk strákar fyrir að minna mig á það.,",
+            "date": "2013-09-12 16:45:00",
+            "post_id": "528294",
+            "reply_to_id": "528283"
+        },
+        {
+            "user_name": "Farcry",
+            "text": "x2",
+            "date": "2013-09-12 17:03:00",
+            "post_id": "528299",
+            "reply_to_id": "528294"
+        },
+        {
+            "user_name": "mind",
+            "text": "Þetta er nú bara spursmál um þekkingu og hvar hún liggur, hefur lítið með heimsku að gera.\nHeimska er meira að vera atvinnuljónaklappari.",
+            "date": "2013-09-12 17:40:00",
+            "post_id": "528307",
+            "reply_to_id": "528299"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Skilst nú að þú sért djöfulli fær símvirki, það er nú eitthvað.\nÞekking manna liggur á mismunandi sviðum, sem betur fer.",
+            "date": "2013-09-12 19:11:00",
+            "post_id": "528325",
+            "reply_to_id": "528307"
+        },
+        {
+            "user_name": "BugsyB",
+            "text": "það eru svona þræðir sem fá mig til að átta mig á því hversu \nheimskur ég er í rauninni í tölvum\n - takk strákar fyrir að minna mig á það.\nÞað er allveg tekið fram hvar heimskan liggur en já min þekking liggur í síma og tölvulögnum",
+            "date": "2013-09-12 19:17:00",
+            "post_id": "528327",
+            "reply_to_id": "528325"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ég akkúrat heng markvisst á forums, t.d. á hardforum, servethehome, /r/sysadmin og /r/homelab til þess að upplifa þessa tilfinningu. Það eina sem pirrar mig meira en að það sé ekki til mjólk, er að upplifa algjört skilningarleysi - sem keyrir mig svo í það að læra og fikta meira. Hálfgerð mental sjálfskapar kvöl, afþví að því meira sem maður lærir, því meira fattar maður hvað maður veit lítið.\n/sorry OT",
+            "date": "2013-09-12 19:29:00",
+            "post_id": "528329",
+            "reply_to_id": "528327"
+        },
+        {
+            "user_name": "BugsyB",
+            "text": "algerlega sammála",
+            "date": "2013-09-12 19:36:00",
+            "post_id": "528330",
+            "reply_to_id": "528329"
+        },
+        {
+            "user_name": "odinnn",
+            "text": "Var að keyra í gang minn fyrsta NAS server í dag, valdi OMV (OpenMediaVault) sem stýrikerfi. Ekki mikill official stuðningur þegar kemur að \"öppum\" en notendur eru duglegir að sníða það sem þeir vilja að kerfinu og hjálpa öðrum að fá þetta til að virka. OMV hefur það sem ég var að leita að, plex, dlna, myCloud, vpn, ftp, http, rsync og online volume expansion fyrir geymsluplássið. Þegar ég var að velja stýrikerfi þá var OMV eina stýrikerfið sem hafði möguleika á að stækka raid stæðuna eftir að hún var búin til á þann hátt sem mér fannst álitlegur. OMV notar mdadm (innbyggt) til að fyrir software raid og er einfalt í notkun þegar maður notar eins diska og maður getur stækkað að vild án vandræða og notað ZFS filesystemið. Ef maður vill nota allskonar diska þá held ég að menn séu að nota LVM2 pluggin/appið sem virkar eins og unRaid ef ég skil það rétt. Er bara rétt byrjaður að prófa þetta og er sáttur eftir uppsettninguna, létt og skilvirkt, raidið tók nokkra tíma að \"sync-a\" en var stillt á nokkrum mín. Núna er ég byrjaður að henda gögnum yfir á NAS-inn og var með 95-105MB/s yfir Gbit/s lanið mitt\nÞannig að mér sýnist allt stefna í að ég mæli með OMV. Hlakkar til að fylgjast með þessum þræði,  hef verið að spá í að búa til svipaðan þráð í þónokkurn tíma.",
+            "date": "2013-09-14 23:56:00",
+            "post_id": "528613",
+            "reply_to_id": "528330"
+        },
+        {
+            "user_name": "Kristján Gerhard",
+            "text": "Heimska != kunnáttuleysi. \nKunnáttuleysi má laga með þjálfun, kennslu og æfingum. Heimska er að jafnaði genatískt vandamál sem ómögulegt er að laga. Ég er ekki tölvunar- eða kerfisfræðingur en hef mikinn áhuga á netmálum.\nVarðandi Netflix og VPN mál þá configgaði ég rútur í OpenVPN configginu. Þá keyrir hann upp og niður rúturnar með tengingunni. Þetta er álitlegra en að vera með fastar rútur ef vpn tengingin hverfur að þá er verið að vísa á eitthvað sem er ekki til. Gallinn er hinsvegar sá að Netflix keyrir á Amazon AWS og ég þurfti að rúta stórum hluta af AWS yfir vpn tenginguna til að fá þetta til að virka. Ég veit ekki hvort þetta komi til með að hafa áhfrif á annað sem hugsanlega keyrir á AWS en það kemur í ljós.\nSetti upp Win7+PMS á \"nýju\" vélina og finna mun á því hversu hratt menjúar og vídeó lódast. Væri gaman að vera með þetta á enn öflugri vél. Transkóding hikstar mun minna. Þá er að fara að skoða NAS málin.",
+            "date": "2013-09-17 11:31:00",
+            "post_id": "528891",
+            "reply_to_id": "528613"
+        },
+        {
+            "user_name": "depill",
+            "text": "Þar sem þú ert aðallega að nota HTPC vélina fyrir Netflix. Geturðu ekki bara gert source based routing ( sem mér skylst að í pfsense sé gert í advanced outbound nat ) þannig að þú gætir hreinlega látið allt sem fer frá HTPC vélinni yfir OpenVPN en látið annað óhreyft. Eða viltu að allar vélar nái frá Netflix í gegnum VPNið ?\nAnnars hef ég alveg tekið eftir því að \"straumurinn\" sjálfur kemur mjög oft frá Netflix ASNinu, á móti því að allt check virðist vera fara inní AWS.\nhttp://bgp.he.net/AS2906#_prefixes",
+            "date": "2013-09-17 12:14:00",
+            "post_id": "528892",
+            "reply_to_id": "528891"
+        },
+        {
+            "user_name": "Kristján Gerhard",
+            "text": "Var með svona sýstem. þ.e. gerði þetta fyrir gamla serverinn minn. Að senda _alla_ traffík yfir vpn'ið veldur vandræðum með myplex of fleira. Þarna er það í raun plex serverinn sem á að sjá um að fara inná netflix svo þetta væri hægt, en ég vil samt sem áður að allar vélar á netinu geti farið inná netflix.",
+            "date": "2013-09-17 12:56:00",
+            "post_id": "528895",
+            "reply_to_id": "528892"
+        },
+        {
+            "user_name": "Kristján Gerhard",
+            "text": "@antitrust Sá forum post frá þér á forums.plexapp.com þar sem að netflix pluginnið hjá þér virkaði ekki. Pósturinn var reyndar síðan í mars á þessu ári. Leystist þetta? virkar netflix plugin'ið?",
+            "date": "2013-09-18 22:12:00",
+            "post_id": "529149",
+            "reply_to_id": "528895"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Fékk þetta til að virka í 1 viku í sumar, svo kom update á PMSinn og hefur ekki virkað síðan þá. Er plexpass user svo ég er alltaf með nýjasta beta af PMS, og þar virkar Netflix eiginlega aldrei.",
+            "date": "2013-09-18 22:49:00",
+            "post_id": "529157",
+            "reply_to_id": "529149"
+        },
+        {
+            "user_name": "BugsyB",
+            "text": "Þarft að restart plexinu með að eyða út tveim möppum,  hef þurft að gera þetta nokkrum sinnum einmitt út af þessu.",
+            "date": "2013-10-06 16:29:00",
+            "post_id": "532182",
+            "reply_to_id": "529157"
+        },
+        {
+            "user_name": "Kristján Gerhard",
+            "text": "Til að fá netflix til að virka?",
+            "date": "2013-10-06 18:22:00",
+            "post_id": "532189",
+            "reply_to_id": "532182"
+        },
+        {
+            "user_name": "BugsyB",
+            "text": "já öll addon - þetta er e-g vesen á PMS - ég man samt ekki hvaða möppur það eru en google veit það - just use it",
+            "date": "2013-10-06 19:05:00",
+            "post_id": "532195",
+            "reply_to_id": "532189"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ég er búinn að prufa clean install á PMS á clean virtual vél, endar alltaf með sama error. Fæ channelið upp, set in login information, geri save og þar stoppar þetta. Fæ enga flokka upp.\nAnnars er ég líka í veseni með þetta hjá mér þar sem ég er á domaini. Ef ég breyti DNS á virtual vélinni til að geta notað Netflix þá dettur út LDAP auðkenningin og þar með aðgangurinn að file servernum, svo ég gafst bara upp á þessu og nota þetta fantafína Netflix app í GoogleTVinu hjá mér.",
+            "date": "2013-10-06 20:40:00",
+            "post_id": "532217",
+            "reply_to_id": "532195"
+        }
+    ],
+    "date": "2013-09-12 10:58:00"
+}

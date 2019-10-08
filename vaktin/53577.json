@@ -1,0 +1,86 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "53577",
+    "title": "Setja Ubuntu á USB lykill í MacosX",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=53577",
+    "posts": [
+        {
+            "user_name": "GuðjónR",
+            "text": "Smá vesen á mér hérna, er með MacBookPro og æltaði að uppfæra Firmware á Chronos SSD, gallinn er bara sá að það er hægt í Windows eða Linux, ekki MacosX.\nGet farið fjallabaksleið og tekið diskinn úr, plöggað í TV tölvuna og uppfært. Ætlaði að fara \"einföldu\" leiðina og setja Ubuntu á USB stick og boota frá honum.\nSama hvernig ég reyni þá tekst mér ekki að setja Ubuntu á USB. (í macos).\nFer ítarlega eftir þessum leiðbeiningum:\nhttps://help.ubuntu.com/community/How%2 ... SB%20Stick\nEn fæ í restina alltaf error, sjá mynd.",
+            "date": "2013-02-24 13:55:00",
+            "post_id": "497102",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Geturu ekki einfaldlega notað Disk Utility í þetta? Ef þú ert með .img eða .dmg þá geturðu dregið það inn á lykilinn í Disk Utility. Hef gert það með Mac OS image alla vega.",
+            "date": "2013-02-24 14:34:00",
+            "post_id": "497113",
+            "reply_to_id": "497102"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Það virkar ekki, svínvirkar með Macos en ekki með þetta...\nMjög skrítið að það skuli ekki vera support fyrir þetta dót í OSX, meira að segja fíni Intel 520 diskurinn er ekki supportaður í OSX.\nÆtli ég endi ekki bara með því að taka hann úr og smella í win7 tölvu...",
+            "date": "2013-02-24 14:42:00",
+            "post_id": "497116",
+            "reply_to_id": "497113"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Eða búa bootable lykilinn til í windows tölvu.",
+            "date": "2013-02-24 14:51:00",
+            "post_id": "497123",
+            "reply_to_id": "497116"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Ég gerði það fyrst en þá virkaði hann ekki í Mac.",
+            "date": "2013-02-24 14:55:00",
+            "post_id": "497127",
+            "reply_to_id": "497123"
+        },
+        {
+            "user_name": "Televisionary",
+            "text": "Er ekki hægt að gera þetta beint af live CD?\n- Ræsir upp af Live CD Ubuntu (Ef ég man rétt er þetta einn og sami diskurinn í dag)\n- Hefur firmware partinn á USB og keyrir þetta svo af /tmp t.d.",
+            "date": "2013-02-24 19:24:00",
+            "post_id": "497180",
+            "reply_to_id": "497127"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Jújú, vandamálið hjá Guðjóni er að hann nær ekki að búa til Ubuntu Live CD í Mac OS.",
+            "date": "2013-02-24 20:34:00",
+            "post_id": "497192",
+            "reply_to_id": "497180"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Well...ég var að reyna það, þ.e. Live USB þ.e. er ekki með Optical drif í tölvunni og hef ekki átt CD-ROM í mörg ár enda úrelt.",
+            "date": "2013-02-24 20:54:00",
+            "post_id": "497197",
+            "reply_to_id": "497192"
+        },
+        {
+            "user_name": "Televisionary",
+            "text": "Makkinn getur verið hundleiðinlegur með þetta, til að fá Macbook Air til að virka sem skildi þá varð ég að nota gptsync, þá ræsti hann upp og þá var hægt að sjá grub valmyndina (gptsync /dev/diskid). Án þess þá ræsti vélin bara alls ekki hjá mér.\nÉg keypti slatta af HP Envy vélum 15\" og ég hafði rænu á því að hanga á einu USB DVD drifi til að geta bjargað mér þegar USB boot virkar ekki. Drifið var betra en vélarnar.",
+            "date": "2013-02-24 22:13:00",
+            "post_id": "497204",
+            "reply_to_id": "497197"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "unetbootin\n hefur alltaf virkað fyrir mig.",
+            "date": "2013-02-25 09:48:00",
+            "post_id": "497268",
+            "reply_to_id": "497204"
+        },
+        {
+            "user_name": "kusi",
+            "text": "Ég hefði haldið að það væri eðlilegt að þú fengir þessa villu í lokin.\nVillan væri til merkis um það að nú værir þú búinn að \"brenna\" image skránna á usb lykilinn. Usb lykillinn væri þar með kominn með ext4 skráarkerfi, sem ég geri ráð fyrir að macos lesi ekki, og þar af leiðandi kæmi þessi villa.\nHvað gerist ef þú bootar af þessum minnislykli?",
+            "date": "2013-03-08 10:21:00",
+            "post_id": "499133",
+            "reply_to_id": "497268"
+        }
+    ],
+    "date": "2013-02-24 13:55:00"
+}

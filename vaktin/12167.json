@@ -1,0 +1,44 @@
+{
+    "forum_title": "Vaktin.is",
+    "id": "12167",
+    "title": "Hugmynd varðandi breytingu á póstglugganum",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=46&t=12167",
+    "posts": [
+        {
+            "user_name": "Mazi!",
+            "text": "Sælir Vaktarar. \n\n\n\nhef svolítið verið að pirra mig á því hvað glugginn sem maður skrifar póstana í er lítill!  \n... var að spá hvort það væri ekki hægt að stækka hann aðeins? eins og myndin hér að neðan?\n\n\n\nhef séð þetta box stærra á mörgum öðrum spjöllum?",
+            "date": "2006-11-05 22:41:00",
+            "post_id": "130523",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "DoRi-",
+            "text": "þessi gluggi er eftir PHPBB standardinum , en ég veit ekki hvort það sé hægt að breyta stærðinni",
+            "date": "2006-11-05 23:04:00",
+            "post_id": "130524",
+            "reply_to_id": "130523"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "Það er alveg hægt að breyta honum en ég efast um að einhver af stjórninni nenni að standa í því.",
+            "date": "2006-11-06 00:28:00",
+            "post_id": "130532",
+            "reply_to_id": "130524"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "talaðu frekar við þá sem að hanna phpbb",
+            "date": "2006-11-06 00:37:00",
+            "post_id": "130533",
+            "reply_to_id": "130532"
+        },
+        {
+            "user_name": "Dagur",
+            "text": "Þetta er fljótgert þegar rétta skráin er fundin\n\n\n\nKóði: \nVelja allt\n$ grep -aRH  --include=*.php \"<textarea name=\\\"message\\\"\" *\n\n\n\n\nþetta tekur enga stund",
+            "date": "2006-11-06 09:13:00",
+            "post_id": "130540",
+            "reply_to_id": "130533"
+        }
+    ],
+    "date": "2006-11-05 22:41:00"
+}

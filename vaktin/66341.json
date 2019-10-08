@@ -1,0 +1,30 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "66341",
+    "title": "Dynamic IP vs Static IP fyrir Extender",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=66341",
+    "posts": [
+        {
+            "user_name": "krissi24",
+            "text": "Ég er með TL-WA730RE Range extender og langar að spyrja að einu varðandi Dynamic IP og Static IP. Hvort á ég að stilla græjuna á? Ég er með Windows server 2008 sem er settur meðal annars upp sem DHCP server, router sér ekki um að úthluta ip tölum.",
+            "date": "2015-07-27 03:59:00",
+            "post_id": "602815",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "krissi24",
+            "text": "Veit enginn?",
+            "date": "2015-07-27 17:40:00",
+            "post_id": "602841",
+            "reply_to_id": "602815"
+        },
+        {
+            "user_name": "Hargo",
+            "text": "Static ip = föst ip tala sem breytist ekki. Þarft að velja töluna og stilla hana inn manual.\nDynamic ip = IP tala sem tækið fær úthlutað frá DHCP. Í þínu tilfelli frá Windows 2008 servernum. Getur alveg sett græjuna á það og farið svo í DHCP-inn á servernum og gert reservation á töluna þar ef þú vilt ekki að hún breytist. Annars ætti nú ekki að breyta neinu þó græjan taki sér bara nýja IP tölu ef þetta er bara wifi extender.",
+            "date": "2015-07-27 19:52:00",
+            "post_id": "602852",
+            "reply_to_id": "602841"
+        }
+    ],
+    "date": "2015-07-27 03:59:00"
+}

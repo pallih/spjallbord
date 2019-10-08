@@ -1,0 +1,254 @@
+{
+    "forum_title": "Yfirklukkun, hraðaprófanir og mods",
+    "id": "42724",
+    "title": "Q6600 Overclock 3.2ghz vantar gott guide",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=1&t=42724",
+    "posts": [
+        {
+            "user_name": "Black",
+            "text": "Ég er að fara Overclocka örgjörvann minn, sem er Q6600 b0 g stepping, ég er með msi p6n móðurborð og 4gb muskhin 800mhz minni, ég er búinn að skoða öll videoinn á youtube um overclock á þessum örgjörva og þau eru öll með alllt öðruvísi bios en ég er með.. s.s flestir með mb intelligent tweaker,Hvar get ég séð gott overclock guide að þessum örgjörva? hlítur einhver að vera búinn að overclocka þetta áður.. Mbk Black",
+            "date": "2011-10-27 18:37:00",
+            "post_id": "391717",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "Eina sem ég þurfti að gera til að henda E6400 í 3.2 Ghz var að henda FSB í 400 og finna rétt volt. Ætti varla að vera mikið flóknara með Q6600.",
+            "date": "2011-10-27 18:40:00",
+            "post_id": "391719",
+            "reply_to_id": "391717"
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "fínt að byrja í 8*400 voltin ca.1.38+- ,stilla minnin á 1:1 minnir mig annars bara nálægt 800+- til að byrja á og stilla voltin á minnum í 2.1 eða hvað sem stendur á þeim! ,north bridge og south b. upp um ca 0,10 bæði \n \nprufa eitthvað svoleiðis \nedit og disable allt TM og það drasl man ekki hvað það heitir",
+            "date": "2011-10-27 19:17:00",
+            "post_id": "391732",
+            "reply_to_id": "391719"
+        },
+        {
+            "user_name": "Black",
+            "text": "jæa ég er búinn að vera fikta aðeins, matrox hjálpaði mér og núna bara er svartur skjár og tölvan startar sér ekki, og já matrox farinn einhvað annað þannig ég veit ekki alveg hvað er best fyrir mig að gera, Reset cmos ?",
+            "date": "2011-10-27 20:12:00",
+            "post_id": "391742",
+            "reply_to_id": "391732"
+        },
+        {
+            "user_name": "Kristján",
+            "text": "jam\nbyrjaðu svo aftur bara meira volt eða minni klukkun.\nmjög gott að gera profile í bios þannig að þú safear settings áður en þú F10 og exitar.",
+            "date": "2011-10-27 20:22:00",
+            "post_id": "391748",
+            "reply_to_id": "391742"
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "ég bræddi úr mínu MSI platinum móðurborði þegar ég var að reyna ná 3.8ghz hehe",
+            "date": "2011-10-27 20:29:00",
+            "post_id": "391749",
+            "reply_to_id": "391748"
+        },
+        {
+            "user_name": "Black",
+            "text": "http://imageshack.us/photo/my-images/269/dsc09150x.jpg/\nsvona lítur bios út hjá mér ég veit ekkert hvað ég á að stilla voltinn á :I",
+            "date": "2011-10-27 20:33:00",
+            "post_id": "391750",
+            "reply_to_id": "391749"
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "NB 1.45\ncpu 1.38\nMinnir að disable spred spec.",
+            "date": "2011-10-27 20:38:00",
+            "post_id": "391752",
+            "reply_to_id": "391750"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "hentu voltunum í 1,4 volt og örgjörvan í 400*9 og runnaðu stress test. þá ertu með rétt ratio. ef hann fer yfir 71°c(max hiti samkvæmt intel) en bsod-ar ekki þá lækkaru volti aðeins(0,05 í einu svo 0,01). \nef hann bsod-ar eða hitnar of mikið þá þarftu að fá þér betri kælingu eða kubburinn nær ekki þessum hraða.\nintel gefur upp max volt 1,5\nhvernig kælingu ertu annars með?\ndisable-ar allt energy save drasl og allt sem hindrar að örgjörvin fái hreina orku allan tímann.",
+            "date": "2011-10-27 21:25:00",
+            "post_id": "391761",
+            "reply_to_id": "391752"
+        },
+        {
+            "user_name": "Black",
+            "text": "ég er í msn sambandi við \"mundihvalur\" og við erum að reyna finna einhvað útúr þessu en eins og staðan er atm \nDOT control disabled\nintel eist disabled\nSystem clock manual\nfsb clock 400\nmemory clock 800 \ncpu ratio 8\nDram auto \nCPU voltage ég get bara valið, 0.00V - 0.3875V ég er með það í 0.1375v\nMemory Voltage auto \nNB voltage 1.45 V\nSB voltage 1.50\nFsb VTT voltage 16% \nSpread Spectrum Disabled \nég er með zalman blóm, í 2.4ghz ekkert overclock þá er tölvan idle í 30° \nannars er þetta leiðindar móðurborð, p6n diamond 680i sli",
+            "date": "2011-10-27 21:40:00",
+            "post_id": "391771",
+            "reply_to_id": "391761"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "já skil þá ertu aldrei að fara ná 3,6Ghz. var með minn akkurat í 3,2Ghz á þessari kælingu. man því miður ekki voltin á því. það var samt eitthvað skuggalega lítið. 1,32V eða svo.",
+            "date": "2011-10-27 21:55:00",
+            "post_id": "391779",
+            "reply_to_id": "391771"
+        },
+        {
+            "user_name": "Black",
+            "text": "jæa Mundivalur er búinn að vera hjálpa mér í gegnum msn í allt kvöld \n hættum í 3ghz sem er alveg nóg  \n hitinn idle er í 45° á eftir að runna prime, þá kemur þetta frekar í ljós..",
+            "date": "2011-10-27 23:10:00",
+            "post_id": "391814",
+            "reply_to_id": "391779"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Idle hiti er ekki nærri því jafn spennandi og Full Load hiti.",
+            "date": "2011-10-28 00:15:00",
+            "post_id": "391833",
+            "reply_to_id": "391814"
+        },
+        {
+            "user_name": "Black",
+            "text": "fer í 59° í í full load",
+            "date": "2011-10-28 00:19:00",
+            "post_id": "391834",
+            "reply_to_id": "391833"
+        },
+        {
+            "user_name": "Kristján",
+            "text": "hvernig kælingur ertu með?",
+            "date": "2011-10-28 00:40:00",
+            "post_id": "391847",
+            "reply_to_id": "391834"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "á þessum hita nærðu að klukka hærra. mynd hætta þegar hitinn í prime er 70°c. tölvan mun líklega aldrei vera á þannig keyrslu.",
+            "date": "2011-10-28 00:42:00",
+            "post_id": "391849",
+            "reply_to_id": "391847"
+        },
+        {
+            "user_name": "Black",
+            "text": "Er núna að gera prime test á honum, hann fer í 63° og það er óvenjukalt í herberginu hjá mér núna.. er annars með já Zalman blóm, í litlum kassa, með 4x 120mm viftum í, fynnst þetta dáldill hiti",
+            "date": "2011-10-28 03:15:00",
+            "post_id": "391863",
+            "reply_to_id": "391849"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "Eitt ráð black. Ef þú veist lítið sem ekkert hvernig á að overclocka, ekki gera það þá!\nÞú átt að lesa þér MIKIÐ til og þá sérstaklega um voltin þegar þú ert farinn að skilja allt hitt. Annars er það léleg klukkun eða mjög lélegur Q6600 sem fer bara í 3GHz, þeir eiga að fara leikandi í 3,2!",
+            "date": "2011-10-28 08:12:00",
+            "post_id": "391873",
+            "reply_to_id": "391863"
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "það er í góðu þó hitinn fari yfir 60° í prime,þú gætir prufað að setja núna FBS 1333 ratio 9 með sömu volt og sjá hvort það gangi",
+            "date": "2011-10-28 10:52:00",
+            "post_id": "391890",
+            "reply_to_id": "391873"
+        },
+        {
+            "user_name": "Black",
+            "text": "Er búinn að vera undirbúa þetta overclock í hálft ár.. enda maður lærir af reynslunni og þetta er ekki það dýrt setup að maður sé að verða fyrir mature tjóni  \n \nÉg var að klára 9klukkutíma prime test, hitinn fór mest í 65° en örgjörvinn er stable",
+            "date": "2011-10-28 12:21:00",
+            "post_id": "391905",
+            "reply_to_id": "391890"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "Ef þú værir búinn að undirbúa þetta af alvöru þá værirði ekki að vesenast með voltin. Það eru líka fullt af overlclock guides sem fjalla bara um Q6600!\nEn jújú maður lærir af reynslunni en samt óþarfi að skemma Q6600 sem er enn þann dag í dag helvíti öflugur!",
+            "date": "2011-10-28 12:49:00",
+            "post_id": "391908",
+            "reply_to_id": "391905"
+        },
+        {
+            "user_name": "rapport",
+            "text": "B0 - Stepping?\nÞú meinar G0 eða B3\nÞað borgar sig yfirleitt ekki að OC B3 því að þeir þola það illa...\nG0 er aftur á móti ekkert mal að OC (er með minn á 3,0Ghz) bara með því að stilla FSB, öll volt o.þ.h. bara á \"Auto\"",
+            "date": "2011-10-28 12:53:00",
+            "post_id": "391911",
+            "reply_to_id": "391908"
+        },
+        {
+            "user_name": "Black",
+            "text": "já málið er að þetta móðurborð er svo þroskaheft sem ég er með, erfitt að overclocka það :I \nég er með B G0",
+            "date": "2011-10-28 13:16:00",
+            "post_id": "391920",
+            "reply_to_id": "391911"
+        },
+        {
+            "user_name": "corflame",
+            "text": "Ég notaði bara leiðbeiningar hér:\nhttp://www.tech.is/spjall/viewtopic.php?f=15&t=397\n, er alveg ágætis guide.\nStillingar hjá mér fyrir q6600 (multiplier x8, voltage o.þ.h.) \nhttp://www.tech.is/spjall/viewtopic.php?f=15&t=802&start=45#p5778",
+            "date": "2011-10-28 13:41:00",
+            "post_id": "391929",
+            "reply_to_id": "391920"
+        },
+        {
+            "user_name": "Black",
+            "text": "er að prufa 3.2ghz atm er með 400*8 vcore- 1352v  fsb er í 16% er að spá nb er default 1.25v á ég að hækka það í 1.5 sama og sb ?",
+            "date": "2011-10-28 19:19:00",
+            "post_id": "391999",
+            "reply_to_id": "391929"
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "það voru flestir með NB í 1.45v @3.2ghz",
+            "date": "2011-10-28 19:37:00",
+            "post_id": "392005",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Black",
+            "text": "hmm mér gengur einhvað erfilega að koma honum í 3.2 næ mest í 3.1 og þá er hann unstable :I en ég var að fikta meira er núna með hann í 3.0ghz og hitinn er 56° mest í prime95 \n sem er mjög gott myndi ég segja",
+            "date": "2011-10-29 01:23:00",
+            "post_id": "392084",
+            "reply_to_id": "392005"
+        },
+        {
+            "user_name": "gunni91",
+            "text": "er með sama móðurborð og þetta er ömurlegasta og handónýtasta móðurborð sem finnst á þessari jörðu... enda var stór hluti af þessum borðum endurkallaður til msi.... þessi þröskuldur með 3 ghz er held ég ekki örgjörvinn hjá þér heldur borðið.. \nÉg er með  B3 e6600 @ 3 ghz stable á zalman 9500 blóminu....\nfer max uppí 60 °C og viftan er í 50 %.... með orthos og RealTemp\nEf ég fer uppí 3,1 ghz fer allt í steik.. búinn að uppfæra bios, fikta í öllu sem hægt er að fikta í og komst að þeirri niðurstöðu að þetta borð er bara alls ekki hannað til þess að overclocka á..",
+            "date": "2011-12-23 02:05:00",
+            "post_id": "406443",
+            "reply_to_id": "392084"
+        },
+        {
+            "user_name": "Eiiki",
+            "text": "Fá sér ASUS móðurborð, þau voru og eru góð í yfirklukkun fyrir 775. Asus P5ND eða P5K Deluxe eða eitthvað í svipuðum gír og þú ættir að vera vel settur, menn eru búnir að vera að selj svoleiðis móðurborð hér á vaktinni þónokkuð undanfarið",
+            "date": "2011-12-23 03:02:00",
+            "post_id": "406449",
+            "reply_to_id": "406443"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "svo er móðurborðið mitt allveg vel að gera sig í að yfirklukka þennan örgjörva.",
+            "date": "2011-12-23 23:08:00",
+            "post_id": "406713",
+            "reply_to_id": "406449"
+        },
+        {
+            "user_name": "Eiiki",
+            "text": "yub, kalla það mjög gott að ná 3.6GHz á 1.4 voltum á þennan örgjörva",
+            "date": "2011-12-23 23:17:00",
+            "post_id": "406717",
+            "reply_to_id": "406713"
+        },
+        {
+            "user_name": "siggi200",
+            "text": "Ég keypti svona  móðurborð á útsölu hjá tölvulistanum á 10 þús hélt að ég væri að gera svaka kaup en þvílik martröð   sama hvað maður reyndi náði Q6600 GO aldrei yfir 3.GHZ. Gunnar er örgjörvinn stöðugur hjá þér á þessum voltum, ég fór með minn yfir 1,5 V og  og hann varð aldrei stöðugur á 3,6 GHZ.",
+            "date": "2011-12-24 00:03:00",
+            "post_id": "406740",
+            "reply_to_id": "406717"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "Jebb hvad sem eg geri þá slær hun aldrei feilpúst. Nema eg held ad voltin i undirskiptinni se vitlaus. Held ad voltin seu i 1.45",
+            "date": "2011-12-24 01:24:00",
+            "post_id": "406787",
+            "reply_to_id": "406740"
+        },
+        {
+            "user_name": "Black",
+            "text": "ég er búinn að ná honum í 3.2 var bara ekki stable, og missti þolinmæðina,annars nenni ég ekki að spá í þessu meira, fer bara í einhvað nýrra næst þegar kemur að oc",
+            "date": "2011-12-24 02:37:00",
+            "post_id": "406796",
+            "reply_to_id": "406787"
+        },
+        {
+            "user_name": "gunni91",
+            "text": "komst að því hvað var að hrekkja móðurborðið..... ótrúlegt en satt þá dugði að hækka voltin á raminu pinku og þá kemst ég mikið hærra... er núna að runna e6600 @3,2 ghz stable",
+            "date": "2011-12-30 20:57:00",
+            "post_id": "408630",
+            "reply_to_id": "406796"
+        }
+    ],
+    "date": "2011-10-28 19:37:00"
+}

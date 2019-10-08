@@ -1,0 +1,86 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "36911",
+    "title": "FTP Storage Server - Tillögur?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=36911",
+    "posts": [
+        {
+            "user_name": "andribolla",
+            "text": "Sælir.\nÉg sá hérna eithverntíman talað um að tveir félagar væru með FTP sín á milli og sendu gögn (ljósmyndir og önnur gögn) sem þeir vildu ekki glata.\nþeir voru með eithvað forrit sem Synk-aðið Gagna möppuna sína yfir til félaga síns.\nÉg var semsagt að spá í að setja saman eithverja tölvu sem væri svona \nFTP Storage Server\n sem væri svo geymdur Tildæmis heima hjá bróðir mínum eða Pabba gamla.\nFídusar sem ég væri til í að hafa í þessu setupi :\n \n - \n var að spá í að hafa 1 disk fyrir hvern user, og þegar engin hreifing væri í gangi myndi diskurinn fara í sleep eða spindown ..\n - \n 3-4 Client-ar  (3-4 Hdd) (Mac, WinXp og Win7)\n - \n Vil keira á Windows kerfi\n - \n þarf ég eithvern auka eldvegg með FTP forritum, \n - \n get ég stilt eithverstaðar umferðina inn með ip Filter ?\n - \n Sync-a saman foldera á Client og Server vélum\nþannig ég var að spá hvaða forrit er best að nota í þetta verkefni ?\n + \nOperating system : \nWindows Home Server\n + \nFile Transfer Protocol (FTP) : \nFileZilla\n \nhttp://filezilla-project.org/download.php?type=client\n + \nFirewall :\n + \nIPFilter :\n + \nHdd Spin Down :\n + \nFolder Synchronization : \nSyncback",
+            "date": "2011-03-09 22:54:00",
+            "post_id": "329997",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gardar",
+            "text": "Vesen að þú viljir nota windows... \nEf þú vildir nota linux væri ekkert mál að koma með haug af tillögum varðandi þetta mál",
+            "date": "2011-03-09 23:09:00",
+            "post_id": "330002",
+            "reply_to_id": "329997"
+        },
+        {
+            "user_name": "andribolla",
+            "text": "Já ég er bara ekki nógu vel að mér í þessum linux kerfum til þess að græja þetta",
+            "date": "2011-03-09 23:16:00",
+            "post_id": "330006",
+            "reply_to_id": "330002"
+        },
+        {
+            "user_name": "BugsyB",
+            "text": "noip.com sem domain - held að það sé einhverskonat ip filter er ekki mjög vel að mér í þessum málum",
+            "date": "2011-03-09 23:19:00",
+            "post_id": "330008",
+            "reply_to_id": "330006"
+        },
+        {
+            "user_name": "beggi90",
+            "text": "Verður það aldrei með þessu hugarfari...",
+            "date": "2011-03-09 23:22:00",
+            "post_id": "330011",
+            "reply_to_id": "330008"
+        },
+        {
+            "user_name": "andribolla",
+            "text": "Er þetta ekki svipuð síða og þessi hér \nhttp://www.dyndns.com/\n held samt að þetta sé ekki ipfilter heldur svona ip forvard",
+            "date": "2011-03-09 23:26:00",
+            "post_id": "330017",
+            "reply_to_id": "330011"
+        },
+        {
+            "user_name": "dori",
+            "text": "Þú þarft ekkert domain ef þú ert bara að þessu fyrir nokkra aðila. Dyndns er ekki að fara að gera neitt fyrir þig.\nEru ekki bara power stillingar í stýrikerfinu sem spinna niður diskana þegar þeir eru ekki í notkun?",
+            "date": "2011-03-09 23:34:00",
+            "post_id": "330022",
+            "reply_to_id": "330017"
+        },
+        {
+            "user_name": "andribolla",
+            "text": "ég held það sé samt bara option í W7 en ekki Xp eða Wserver2003",
+            "date": "2011-03-09 23:37:00",
+            "post_id": "330023",
+            "reply_to_id": "330022"
+        },
+        {
+            "user_name": "Lezer",
+            "text": "Þú ferð væntanlega í power options og ættir að geta stillt hvort að diskarnir slökkvi á sér ef þeir eru ekki í notkun.",
+            "date": "2011-03-10 00:20:00",
+            "post_id": "330035",
+            "reply_to_id": "330023"
+        },
+        {
+            "user_name": "Kristján Gerhard",
+            "text": "Crashplan\n er forrit/þjónusta sem getur gert þetta fyrir þig.\nEr cross platform (Win, MacOS, linux) og býður uppá að bakka upp:\na) á utanályggjandi disk\nb) á aðra vél með crashplan uppsett (local eða remote)\nc) inná geymslupláss hjá þeim\nþað væri b liðurinn sem þú gætir nýtt, hugbúnaðurinn er frír en greiða þarf fyrir c liðinn.  hef ekki prófað þetta sjálfur en \nætla í svipaðar, nema local, pælingar með sumrinu.",
+            "date": "2011-03-10 10:35:00",
+            "post_id": "330092",
+            "reply_to_id": "330035"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ég er með 7-8 Win vélar, 2 Mac's og nokkrar Linux heima og þær eru allar að synca yfir á WS2008R2 DPM serverinn með CrashPlan, þeas centralized backup. Svo erum við félagi minn að fara að henda mikilvægustu gögnum á milli okkar í gegnum CrashPlanið yfir á serverinn hjá hvor öðrum. Ég er nú þegar að synca ákveðin gögn á milli Makkanna hjá kærustunni með CrashPlaninu og það gengur fínt, hvort sem hún er innan eða utan húss.\nHvað varðar FTP-ið eru alveg endalausar lausnir, en þú ert sýnist mér með basic guidelines. IP filter, SSL/SFTP og líklega myndi ég stilla e-rskonar bandvíddarlimiteringu í FileZillanu eða þeim client/server app sem ákveður að nota. Ef aðili er á DSLi og er að uploada á max hraða þá drepur hann alveg download hraðann.",
+            "date": "2011-03-10 11:26:00",
+            "post_id": "330101",
+            "reply_to_id": "330092"
+        }
+    ],
+    "date": "2011-03-09 22:54:00"
+}

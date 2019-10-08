@@ -1,0 +1,30 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "17844",
+    "title": "Opna port - firewall vesen",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=17844",
+    "posts": [
+        {
+            "user_name": "coldcut",
+            "text": "Sælir\ner ekki alveg viss hvort ég á að setja þetta hér eða í Hugbúnaðar- og Forritunarstofan en anyways...\nþannig er mál með vexti að ég er í veseni með að opna port fyrir uTorrent á routernum mínum.  Ég fó alveg eftir leiðbeiningunum á \nhttp://www.iplausnir.is/public/585_ports.pdf\n en vandamálið er að ég fæ alltaf rauðan \"upphrópunarhring\" neðst í uTorrent glugganum þar sem stendur:  \nKóði: \nVelja allt\nNot Connectable.  A firewall/router is limiting your network traffic.  You need to open a port so others can connect to you.\nég er að nota Kaspersky Internet Security (7.0.1.325) og er búinn að vera að fikta eitthvað í honum til að reyna að opna portið líka þar en það virðist bara ekki takast!  Einhver sem hefur lent í því sama eða einhver sem kann að gera þetta?  Er búinn að leita á netinu en það sem ég finn þar er mjög lítið og virðist ekki virka!\nsíðan þegar ég prófa í utorrent hvort að portið sé opið þá kemur bara\nKóði: \nVelja allt\nWelcome to the µTorrent Port Checker.\nA test will be performed on your computer to check if the specified port is opened.\nChecking port 3690 on 157.157.126.79...\nError! Port 3690 does not appear to be open.\nPlease see www.portforward.com for more information about how to map a port.\nPlease make absolutely sure that PeerGuardian2 or Protowall is allowing utorrent.com (72.20.34.145) in either of those programs. Those of you using ipfilter.dat should make sure the list does not include the website's IP. After making sure of this, re-run this test by refreshing the page (F5).",
+            "date": "2008-04-22 11:33:00",
+            "post_id": "172915",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "mind",
+            "text": "Byrja á því að skipta yfir í port sem er ekki official\n[3690/tcp,udp \tSubversion version control system \tOfficial]\nBættu bara við 0 aftast. 36900 er í lagi.\nGetur prufað að drepa á vírusvörninni og öllum eldveggjum til að vera viss um að þetta sé ekki tölvan þín.(ekki gera það til lengri tíma samt)\nuTorrent er svolítið heimskt stundum og sýnir þennan glugga stundum þó svo þú sért búinn að laga þetta, gefðu því örlitinn tíma.\nVirka önnur forrit sem þarfnast gata í eldvegg ? Svosem að senda skjöl með MSN eða SKYPE ?",
+            "date": "2008-04-22 12:13:00",
+            "post_id": "172916",
+            "reply_to_id": "172915"
+        },
+        {
+            "user_name": "bingo",
+            "text": "Ég hef verið að reyna að opna port fyrir uTorrent en hef enganveginn tekist það \n \nÉg prufaði hvort þetta virkaði á \nhttp://connect.majestyc.net/\n og þetta kemur alltaf:\nFailed to connect on TCP 2412\nConnected on UDP 2412\nEr búinn að gera allt eins og á \nhttp://www.internet.is/radox\nEr með SpeedTouch 585 router\nGetur einhver hjálpað mér?",
+            "date": "2008-05-02 21:44:00",
+            "post_id": "173565",
+            "reply_to_id": "172916"
+        }
+    ],
+    "date": "2008-04-22 11:33:00"
+}

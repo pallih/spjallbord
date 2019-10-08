@@ -1,0 +1,79 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "37692",
+    "title": "Forrit til að streama t.d stöð 2 yfir internetið",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=37692",
+    "posts": [
+        {
+            "user_name": "krissi24",
+            "text": "Mig vantar forrit til að streama tildæmis stöð 2 yfir internetið, Er með sjónvarpskort og með IPTV myndlykil frá Símanum og ég er að fara norður um páskana og langar að geta horft á Stöð 2 þar. Hef heyrt um leiðir til að streama sjónvarpsrásum yfir internetið og á móttökustaðnum getur maður horft á stöðvarnar í gegnum tildæmis vafra. Einhvar sem veit um forrit til að gera svona?",
+            "date": "2011-04-08 21:27:00",
+            "post_id": "338814",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "hagur",
+            "text": "Orb.com er akkúrat það sem þig vantar.  Er líka til client fyrir síma, t.d iphone.  Þá geturðu horft á tv í símanum.  Svo gætirðu auðvitað fengið þér Slingbox ;-)",
+            "date": "2011-04-08 22:03:00",
+            "post_id": "338825",
+            "reply_to_id": "338814"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "Slingbox væri æði en ég vil frekar hafa þetta í gegnum tölvuna til að byrja með, En ég fæ ekki stöðvarnar inn í Orb, það kemur alltaf an error occured while opening your TV tuner please check that is not being used by another application og ég er ekki með neitt annað forrit í gangi sem tengist TV kortinu. Ég tengi það við tölvuna í gegnum Composite.",
+            "date": "2011-04-08 23:58:00",
+            "post_id": "338844",
+            "reply_to_id": "338825"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Slingboxið er fyrir tölvur ... þú installar Slingplayer á tölvuna til að tengjast Slingboxinu yfir netið og spila  \n \nEn varðandi Orb, hvernig sjónvarpskort ertu með?",
+            "date": "2011-04-09 00:00:00",
+            "post_id": "338845",
+            "reply_to_id": "338844"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "hauppauge WinTV HVR 900H USB Stick",
+            "date": "2011-04-09 00:03:00",
+            "post_id": "338847",
+            "reply_to_id": "338845"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Ok,\nSpurning hvort að Orb styðji þetta kort, er ekki viss.  Hélt reyndar að þeir styddu flest Hauppauge kort, það eru jú ein bestu sjónvarpskortin ef eitthvað er að marka það sem maður hefur lesið og upplifað.\nÉg er sjálfur með WinTV PVR150 MCE kort, innbyggt (PCI).  Hef prófað Orb og það virkaði ágætlega.\nSvo er reyndar líka til forrit sem heitir SageTV.  Ég er sjálfur að nota það.  Það er reyndar ekki ókeypis, en þú ættir að geta prófað trial.  Þú installar SageTV server á tölvuna sem er með sjónvarpskortinu og svo geturðu sett upp SageTV client á aðrar tölvur til að streama yfir LAN.  Svo er til SageTV Placeshifter sem er ætlaður til að streama yfir Internetið.  Ég nota þetta mjög mikið, algjör snilld.\nCheckaðu á sagetv.com hvort þú getir ekki sótt trial.",
+            "date": "2011-04-09 00:09:00",
+            "post_id": "338849",
+            "reply_to_id": "338847"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "Á crackaða útgáfu af því en hef aldrei náð að stilla það rétt \n Semsagt fyrir stream over internet.",
+            "date": "2011-04-09 00:11:00",
+            "post_id": "338851",
+            "reply_to_id": "338849"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Það er ekkert mál, þarft bara að opna og forwarda porti í router.  Held að þetta eigi að geta gert það sjálfkrafa með upnp.",
+            "date": "2011-04-09 11:32:00",
+            "post_id": "338899",
+            "reply_to_id": "338851"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "Held að þetta sé komið, hvað þarf að hafa á móttökustaðnum? Til að geta horft á? líka SageTV eða?",
+            "date": "2011-04-09 17:48:00",
+            "post_id": "338983",
+            "reply_to_id": "338899"
+        },
+        {
+            "user_name": "hagur",
+            "text": "SageTV Placeshifter ;-)",
+            "date": "2011-04-09 18:38:00",
+            "post_id": "338993",
+            "reply_to_id": "338983"
+        }
+    ],
+    "date": "2011-04-08 21:27:00"
+}

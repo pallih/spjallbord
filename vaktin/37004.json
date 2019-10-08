@@ -1,0 +1,100 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "37004",
+    "title": "S.M.A.R.T aflestur með SpeedFan",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=37004",
+    "posts": [
+        {
+            "user_name": "GuðjónR",
+            "text": "Ég var aðeins að nördast með \nSpeedFan\n mældi diskana í TV tölvunni en hún er með 2 stk. 2.5 diska.\nSvo mældi ég flakkarana tvo. Þ.e. er með IOMEGA 2.5 flakkara og svo stakan 1TB disk sem ég smelli í tengibrú.\nVeit svo sem ekki hvað maður á að taka mikið mark á svona testum, en ég horfi aðalega á Power on hours og Power cycle count.\nKannski á maður frekar að horfa á eitthvað annað? \nEndilega ef þið hafið tíma og nennið, sendið inn aflestur af ykkar diskum. \n1TB Toshiba 2.5\" (TV tölva)\n500GB Samsung 2.5\" (TV tölva)\n1TB Samsung 3.5\" (flakkari)\n160GB Seagate 2.5\" (flakkari)",
+            "date": "2011-03-13 18:38:00",
+            "post_id": "330933",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gardar",
+            "text": "Myndi horfa á sector töluna líka, ekki það að neitt sé athugavert við hana hjá þér.\nen ef hún fer að hækka þá fer að koma tími á að skipta diskinum út",
+            "date": "2011-03-13 18:42:00",
+            "post_id": "330934",
+            "reply_to_id": "330933"
+        },
+        {
+            "user_name": "Dazy crazy",
+            "text": "Speedfan finnur ekki hörðu diskana mína",
+            "date": "2011-03-13 19:59:00",
+            "post_id": "330957",
+            "reply_to_id": "330934"
+        },
+        {
+            "user_name": "hauksinick",
+            "text": "sama hér",
+            "date": "2011-03-13 20:07:00",
+            "post_id": "330959",
+            "reply_to_id": "330957"
+        },
+        {
+            "user_name": "Skaribj",
+            "text": "Það þarf að taka þessum upplýsingum með fyrirvara. \nÉg setti tvo nýja 1,5TB Samsung  og einn 1TB Seagate disk í vélina mína formataði þá og athugaði síðan hvað SMART í Speedfan segði um þá. \nÉg gerði svokallað in-depth online analysis á þeim. Niðurstaðan var að overall fitness fyrir Samsung diskana báða var 91% og performance 90%. Nokkrir þættir í testinu gáfu einnig til kynna að ég þyrfti að fylgjast vel með diskunum. Seagate diskurinn kom svipaður út úr testinu.\nÞetta voru semsagt niðurstöður sem maður mátti eiga von á ef um væri að ræða nokkurra ára gamla diska en ekki nýja og ónotaða.\nKv. Skari",
+            "date": "2011-03-13 20:26:00",
+            "post_id": "330961",
+            "reply_to_id": "330959"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Þú verður nú að koma með nánari útlistanir skari.\nHvaða hlutar voru það nákvæmlega sem voru ekki að skora hátt?\nÉg hef lent í því að fá input/output villur á nokkurra mánaða gömlum diskum... Svo lag ég smart upplýsingarnar og þá voru bad sectors á diskunum....\nHarðir diskar geta klikkað, óháð aldri. (þótt aldur hjálpi ekki til)",
+            "date": "2011-03-13 22:09:00",
+            "post_id": "330992",
+            "reply_to_id": "330961"
+        },
+        {
+            "user_name": "sakaxxx",
+            "text": "prófið að keyra speedfan sem administrator þá virkar það allavega í windows 7 og vista",
+            "date": "2011-03-13 22:46:00",
+            "post_id": "331006",
+            "reply_to_id": "330992"
+        },
+        {
+            "user_name": "hauksinick",
+            "text": "Þarna,svona virkar þetta..",
+            "date": "2011-03-13 23:01:00",
+            "post_id": "331010",
+            "reply_to_id": "331006"
+        },
+        {
+            "user_name": "pattzi",
+            "text": "Almost every EIDE or SATA hard disk includes S.M.A.R.T. data. That information is collected by the drive itself and contains data that the manufacturer considered relevant to check reliability. The data is made up of several attributes that have a current value, a worst one, a threshold, some raw data, and some flags. Basically, when any attribute's current value is below its threshold, the hard disk is considered unreliable and likely to fail. By using several techniques, this report tries to give a wider range of info, basing its analysis on advanced comparisons with normal values based on real hard disks and on expert-like checks. The final results are not to be taken as an absolute truth, but they are a very good approach to what a professional would say about your hard disk status.\nYour hard disk is a TOSHIBA MK5055GSX with firmware FG001M.\nThe average temperature for this hard disk is 37C (MIN=27C MAX=47C) and yours is 28C.\nYour hard disk's S.M.A.R.T. attributes are now being analyzed and a full report about the reliability, health and status of your hard disk is generated:\nYour hard disk is not below any attribute threshold. This is good.\nYour hard disk was never below any attribute threshold. This is good.\nYour hard disk is now being compared to real data used to define normal values for your specific hard disk model. This way, the analysis can automatically use proper operating ranges. The images give you an idea of how each attribute is within such range. Current and raw values are shown for easier reference for experienced users. There are 3001 hard disk models in the current archive. \n \tAttribute\t \tCurrent\t \tRaw\t \tOverall\n\t\tRaw Read Error Rate\t\t100\t\t0\t\tVery good\n\t\tThroughput Performance\t\t100\t\t0\t\tVery good\n\t\tSpin Up Time\t\t100\t\t1614\t\tVery good\n\t\tStart/Stop Count\t\t100\t\t2530\t\tVery good\n\t\tReallocated Sector Count\t\t100\t\t0\t\tVery good\n\t\tSeek Error Rate\t\t100\t\t0\t\tVery good\n\t\tSeek Time Performance\t\t100\t\t0\t\tVery good\n\t\tPower On Hours Count\t\t94\t\t2595\t\tGood\n\t\tSpin Retry Count\t\t150\t\t0\t\tVery good\n\t\tPower Cycle Count\t\t100\t\t2503\t\tVery good\n\t\tGSense Error Rate\t\t100\t\t580\t\tVery good\n\t\tPower Off Retract Count\t\t100\t\t42\t\tVery good\n\t\tLoad Cycle Count\t\t100\t\t8771\t\tVery good\n\t\tReallocated Event Count\t\t100\t\t0\t\tVery good\n\t\tCurrent Pending Sector\t\t100\t\t0\t\tVery good\n\t\tOffline Uncorrectable Sector Count\t\t100\t\t0\t\tVery good\n\t\tUltra DMA CRC Error Rate\t\t200\t\t0\t\tVery good\n\t\tDisk Shift\t\t100\t\t100\t\tVery good\n\t\tLoaded Hours\t\t95\t\t2210\t\tGood\n\t\tLoad Retry Count\t\t100\t\t0\t\tVery good\n\t\tLoad Friction\t\t100\t\t0\t\tVery good\n\t\tLoad In Time\t\t100\t\t231\t\tVery good\n\t\tWrite head\t\t100\t\t0\t\tVery good\nAll of the attributes of your hard disk have normal values. This is good.\nThe overall fitness for this drive is 100%.\nThe overall performance for this drive is 100%.\nThe link to get back and see a new report about this hard disk in the future is this. Consider that new hard disks and new checks are added over time.\nkemur svona hjá mér.\ná fartölvunni .\nannars skal ég setja inn af hinni fartölvunni nenni ekki á borðtölvunni ekki búin að kveikja á henni lengi og er bara útí skúr",
+            "date": "2011-03-13 23:04:00",
+            "post_id": "331011",
+            "reply_to_id": "331010"
+        },
+        {
+            "user_name": "BjarniTS",
+            "text": "ST9160310AS The Seagate® Momentus® 5400.5 SATA 3Gb/s 160-GB Hard Drive\nEr þetta ekki frekar slæmt ?",
+            "date": "2011-03-13 23:20:00",
+            "post_id": "331015",
+            "reply_to_id": "331011"
+        },
+        {
+            "user_name": "Skaribj",
+            "text": "Varðandi það sem ég sagði hér áðan þá verður að taka testinn með fyrirvara.\nEinhver sagði að einhverra mánaða gamlir diskar geti klikkað og það er rétt. Ég kannast vel við það enda er ég ávallt með marga diska í gangi. Þessir þrír diskar þ.e. tveir 1.5TB Samsung og 1TB Seagate voru keyptir fyrir nokkrum vikum síðan og ég gerði prófið strax eftir að þeir voru settir í vélina. Báðir Samsung diskarnir komu nákvæmlega eins út úr testinu og Seagate var með svipaða einkunn. Meðfylgjandi er útskriftin fyrir báða Samsung diskana.\nDiskur 1 (diskur hefur aðeins verið notaður sem gagnageymsla)\nYour hard disk is a SAMSUNG HD154UI with firmware 1AG01118.\nThe average temperature for this hard disk is 26C (MIN=18C MAX=36C) and yours is 25C.\nYour hard disk's S.M.A.R.T. attributes are now being analyzed and a full report about the reliability, health and status of your hard disk is generated:\nYour hard disk is not below any attribute threshold. This is good.\nYour hard disk was never below any attribute threshold. This is good.\nYour hard disk is now being compared to real data used to define normal values for your specific hard disk model. This way, the analysis can automatically use proper operating ranges. The images give you an idea of how each attribute is within such range. Current and raw values are shown for easier reference for experienced users. There are 3001 hard disk models in the current archive. \n   Attribute   Current   Raw   Overall \n  Raw Read Error Rate  100  0  Normal \n  Spin Up Time  72  9330  Very good \n  Start/Stop Count  98  2433  Watch \nWarning: Start/Stop Count is below the average limits (99-100). \n  Reallocated Sector Count  100  0  Very good \n  Seek Error Rate  253  0  Very good \n  Seek Time Performance  100  0  Very good \n  Power On Hours Count  99  3253  Normal \n  Spin Retry Count  100  0  Very good \n  Calibration Retry Count  100  0  Very good \n  Power Cycle Count  100  58  Very good \n  Read Soft Error Rate  100  0  Normal \n  Unknown attribute 183  100  0  Very good \n  End To End Error Count  100  0  Very good \n  Reported Uncorrectable Errors  100  0  Very good \n  Command Time Out  100  0  Very good \n  Hardware ECC Recovered  100  46626  Very good \n  Reallocated Event Count  100  0  Very good \n  Current Pending Sector  100  0  Very good \n  Offline Uncorrectable Sector Count  100  0  Very good \n  Ultra DMA CRC Error Rate  100  0  Normal \n  Write Error Rate  100  0  Normal \n  Soft Read Error Rate  253  0  Very good \nNOTE: not all warnings are reflected on fitness and performance overall values as relevancy is based upon the settings from the hard disk manufacturer who is the best entity deputed to define such relationships. \nThe overall fitness for this drive is 91%.\nThe overall performance for this drive is 90%.\nThe link to get back and see a new report about this hard disk in the future is this. Consider that new hard disks and new checks are added over time. \nDiskur 2 (Diskurinn hefur aðeins verið notaður sem gagnageymsla)\nYour hard disk is a SAMSUNG HD154UI with firmware 1AG01118.\nThe average temperature for this hard disk is 26C (MIN=18C MAX=36C) and yours is 26C.\nYour hard disk's S.M.A.R.T. attributes are now being analyzed and a full report about the reliability, health and status of your hard disk is generated:\nYour hard disk is not below any attribute threshold. This is good.\nYour hard disk was never below any attribute threshold. This is good.\nYour hard disk is now being compared to real data used to define normal values for your specific hard disk model. This way, the analysis can automatically use proper operating ranges. The images give you an idea of how each attribute is within such range. Current and raw values are shown for easier reference for experienced users. There are 3001 hard disk models in the current archive. \n   Attribute   Current   Raw   Overall \n  Raw Read Error Rate  100  0  Normal \n  Spin Up Time  72  9260  Very good \n  Start/Stop Count  97  2738  Watch \nWarning: Start/Stop Count is below the average limits (99-100). \n  Reallocated Sector Count  100  0  Very good \n  Seek Error Rate  253  0  Very good \n  Seek Time Performance  100  12481  Very good \n  Power On Hours Count  99  3274  Normal \n  Spin Retry Count  100  0  Very good \n  Calibration Retry Count  100  0  Very good \n  Power Cycle Count  100  74  Very good \n  Read Soft Error Rate  100  0  Normal \n  Unknown attribute 183  100  0  Very good \n  End To End Error Count  100  0  Very good \n  Reported Uncorrectable Errors  100  0  Very good \n  Command Time Out  100  0  Very good \n  Hardware ECC Recovered  100  440381  Very good \n  Reallocated Event Count  100  0  Very good \n  Current Pending Sector  100  0  Very good \n  Offline Uncorrectable Sector Count  100  0  Very good \n  Ultra DMA CRC Error Rate  100  0  Normal \n  Write Error Rate  100  0  Normal \n  Soft Read Error Rate  253  0  Very good \nNOTE: not all warnings are reflected on fitness and performance overall values as relevancy is based upon the settings from the hard disk manufacturer who is the best entity deputed to define such relationships. \nThe overall fitness for this drive is 91%.\nThe overall performance for this drive is 90%.\nThe link to get back and see a new report about this hard disk in the future is this. Consider that new hard disks and new checks are added over time. \nÞegar ég segi að það verði að taka niðurstöðinni með fyrirvara þá er ég ekki endilega að meina að það sé eitthvað Speedfan það gæti þessvegna verið eitthvað annað. Hvað veit ég en að tveir þrír nýir ónotaðir diskar skili þessum niðurstöðum er of mikið til að hægt sé að tala um að það sé ávallt eitthvað hlutfall nýrra diska sem séu ekki í lagi.\nÞriðji diskurinn er í annarri vél og get því akki sent það strax hér inn.\nKv. Skari",
+            "date": "2011-03-13 23:57:00",
+            "post_id": "331024",
+            "reply_to_id": "331015"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Strákar miklu flottara að setja linkana inn. \nHægrismella og gera save as.",
+            "date": "2011-03-14 00:04:00",
+            "post_id": "331025",
+            "reply_to_id": "331024"
+        },
+        {
+            "user_name": "pattzi",
+            "text": "Hvernig virkar það þegar það er alltaf sama nafn á linknum",
+            "date": "2011-03-14 00:56:00",
+            "post_id": "331033",
+            "reply_to_id": "331025"
+        }
+    ],
+    "date": "2011-03-13 18:38:00"
+}

@@ -1,0 +1,135 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "23706",
+    "title": "1.5 TB diskur í ruglinu",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=23706",
+    "posts": [
+        {
+            "user_name": "jonsig",
+            "text": "Ég keypti 1.5tb disk , en svo þegar ég formatta hann þá býður tölvan bara uppá 1397.26 gb ,, hvað er að frétta ? \nalgert bögg , hinn diskurinn er velociraptor á að vera 300gb en stendur bara 280 gb ,, þetta er bara meira ruglið",
+            "date": "2009-06-30 21:07:00",
+            "post_id": "210471",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Shockeraði mig líka einu sinni en þetta er bara svona.\nBits and Bytes and shit.",
+            "date": "2009-06-30 21:11:00",
+            "post_id": "210475",
+            "reply_to_id": "210471"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "af hverju er svona græja ekki auglýst sem 1.3 tb ? ?http://www.computer.is/vorur/7117 \nhttp://tolvutaekni.is/product_info.php?products_id=1278\n \nhttp://www.tolvuvirkni.is/ip.php?inc=vi ... D_SG_1,5TB",
+            "date": "2009-06-30 21:11:00",
+            "post_id": "210476",
+            "reply_to_id": "210475"
+        },
+        {
+            "user_name": "dorg",
+            "text": "Diskframleiðandinn segir að 1 gig = 10^9\nMicrosoft 1 Gig = 1024^3\nÞað er munurinn þannig að þetta er út af fyrir sig satt....",
+            "date": "2009-06-30 21:18:00",
+            "post_id": "210477",
+            "reply_to_id": "210476"
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Wikipedia skýrir þetta ágætlega: \nhttp://en.wikipedia.org/wiki/Hard_disk#Capacity_measurements",
+            "date": "2009-06-30 21:20:00",
+            "post_id": "210478",
+            "reply_to_id": "210477"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "huh?",
+            "date": "2009-06-30 21:21:00",
+            "post_id": "210479",
+            "reply_to_id": "210478"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Sölustærð disksins uppgefin af framleiðanda er (minnir mig) í SI einingum. Windows reiknar þetta öðruvísi, eða þar sem 1 kB =1024 bytes en ekki 1000 bytes.\nÞetta getur verið sjokkerandi í fyrstu en ef maður notar rökhugsun þá sér maður að ef þú ert með 1000 bytes, og Windows reiknar 1 kB sem 1024 bytes, þá ertu í raun bara með ~0,98 kB. En reiknað á hinn mátann þá ertu með 1 kB.\nÞetta er bara alveg eins og nettengingar eru auglýstar í bitum vegna þess að það eru hærri tölur.",
+            "date": "2009-06-30 21:27:00",
+            "post_id": "210480",
+            "reply_to_id": "210479"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "var að lesa á netinu að seagate , þeas þessi týpa sé að kúka uppá bak ,   þegar þessir diskar eru raid´aðir þá lenda þeir í því að frjósa öðru hvoru.\nSamt ég hefði haldið að Seagate séu bestir. þessi allavegana sem ég er með það heyrist ekki múkk í honum né víbringur ég hefði frekar átt að kaupa annan svona bara í staðin fyrir þetta nýja velocy raptor dót sem gerir ekki neitt nema kosta pening.. og hreint út bara jók nema hann sé raid´aður",
+            "date": "2009-07-01 07:36:00",
+            "post_id": "210505",
+            "reply_to_id": "210480"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Það er nú samt ekkert bara diskar frá Seagate sem eru auglýstir svona.",
+            "date": "2009-07-01 08:50:00",
+            "post_id": "210508",
+            "reply_to_id": "210505"
+        },
+        {
+            "user_name": "Benzmann",
+            "text": "ef þú kynnir Binary þá myndiru fatta það",
+            "date": "2009-07-01 09:01:00",
+            "post_id": "210510",
+            "reply_to_id": "210508"
+        },
+        {
+            "user_name": "Benzmann",
+            "text": "Seagate eru allveg ágætir, en fremur myndi ég fá mér Western Digital",
+            "date": "2009-07-01 09:02:00",
+            "post_id": "210511",
+            "reply_to_id": "210510"
+        },
+        {
+            "user_name": "Benzmann",
+            "text": "Mikið rétt",
+            "date": "2009-07-01 09:03:00",
+            "post_id": "210512",
+            "reply_to_id": "210511"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "ég veit alveg hvað binary kerfi er , svo nr hjá mömmu þinni minnir mig á tölurnar í binary kerfinu ..",
+            "date": "2009-07-01 11:50:00",
+            "post_id": "210529",
+            "reply_to_id": "210512"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Þetta eitt er nóg til að sýna að þú hafir ekki hugmynd um hvað binary kerfið er",
+            "date": "2009-07-01 12:10:00",
+            "post_id": "210535",
+            "reply_to_id": "210529"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Ansi hart að fara að kenna Microsoft um eitthvað hérna. 1kilobyte  ER 1024 byte í öllum almennum skilningi. Það að diskaframleiðendur vilji endilega halda sig við að kilo = 1000 er augljóslega bara kjánalegt, meina hver notar SI kerfið hvort eð er? \nFín útskýring sem var vísað í áður af wikipediu.",
+            "date": "2009-07-01 13:45:00",
+            "post_id": "210539",
+            "reply_to_id": "210535"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "Ég var neyddur til að taka kúrs í stýringum og þá þurfti maður að skilja þetta árans kerfi , en það eru komin 6 ár síðan þannig að ég man ekki múkk . Maður notar þetta við að stilla addressur á brunaboða , það er eina sem ég þarf að vita",
+            "date": "2009-07-02 01:35:00",
+            "post_id": "210623",
+            "reply_to_id": "210539"
+        },
+        {
+            "user_name": "Nariur",
+            "text": "I LOLd",
+            "date": "2009-07-03 00:28:00",
+            "post_id": "210712",
+            "reply_to_id": "210623"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "2 týpur af fólki , þær sem skilja binary og ekki",
+            "date": "2009-07-03 03:15:00",
+            "post_id": "210717",
+            "reply_to_id": "210712"
+        }
+    ],
+    "date": "2009-06-30 21:07:00"
+}

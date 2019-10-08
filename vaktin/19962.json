@@ -1,0 +1,107 @@
+{
+    "forum_title": "Windows",
+    "id": "19962",
+    "title": "Tengja saman tölvur",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=19962",
+    "posts": [
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Hérna er ég með lappa og turn sem ég væri til í að geta tengt saman í gegnum þráðlausa netið eða eitthvað þannig.\nEr það bara gert í My Network Places eða hvað??\nEinhver til í að hjálpa mér??",
+            "date": "2008-11-06 21:35:00",
+            "post_id": "186507",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Settu þær í sama DOMAIN í My Computer options og farðu svo í view Workgroup computers í MNP og restin er aðveld",
+            "date": "2008-11-06 22:33:00",
+            "post_id": "186517",
+            "reply_to_id": "186507"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Kúl\nTakk fyrir þetta",
+            "date": "2008-11-06 22:38:00",
+            "post_id": "186518",
+            "reply_to_id": "186517"
+        },
+        {
+            "user_name": "Toranga",
+            "text": "Og virkaði þetta?",
+            "date": "2008-11-12 16:26:00",
+            "post_id": "186918",
+            "reply_to_id": "186518"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Þetta virkar",
+            "date": "2008-11-12 16:40:00",
+            "post_id": "186921",
+            "reply_to_id": "186918"
+        },
+        {
+            "user_name": "oskarom",
+            "text": "Reyndar kallast það Worgroup en ekki Domain þegar maður er ekki með Domain Controler....",
+            "date": "2008-11-12 16:41:00",
+            "post_id": "186922",
+            "reply_to_id": "186921"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Ég segi DOMAIN vegna þess að það stendur hjá mér \"To rename this computer or join a domain, click Change\" svo að mér fannst/finnst auðveldara að skilja það þegar fólk skrifar DOMAIN en ekki WORKGROUP =)\nEn ég afsaka",
+            "date": "2008-11-12 16:46:00",
+            "post_id": "186924",
+            "reply_to_id": "186922"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Er samt löngu búinn að ná þessu\neða \"löngu\"",
+            "date": "2008-11-12 23:23:00",
+            "post_id": "186973",
+            "reply_to_id": "186924"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Afsakið að ég vekji gamlan þráð, en ég nennti ekki að búa til nýjan þráð um sama efni.\nNú er ég með Win 7 uppsett á lappa og að shera möppum á heimilisnetinu. Ég tengist þeim auðveldlega með XP og Vista en finn það ekki í Win 7. Er bara þetta homegroup shit í Win 7 og ekkert meir?",
+            "date": "2009-05-14 22:06:00",
+            "post_id": "207008",
+            "reply_to_id": "186973"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Homegroup er bara fyrir Win7 og Server2008, en það eru samt að sjálfsögðu workgroup, shared folders/drives möguleikar í Win7, í network places.",
+            "date": "2009-05-14 22:32:00",
+            "post_id": "207009",
+            "reply_to_id": "207008"
+        },
+        {
+            "user_name": "demigod",
+            "text": "Ég er með Win7 á turninum og er með xp á download tölvu sem ég kalla demigod. \nSé möppurnar ekki í my network places í win7 né dl tölvuna heldur verð ég að gera \\\\demigod í My computer",
+            "date": "2009-05-14 23:06:00",
+            "post_id": "207020",
+            "reply_to_id": "207009"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Líka hægt að skoða bara allt workgroupið, eða gera search for computers og hafa blank search reit, þá kemur hann með allar vélar á networkinu.",
+            "date": "2009-05-14 23:11:00",
+            "post_id": "207021",
+            "reply_to_id": "207020"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Ahh, sé þetta núna.\nComputer - Network - Þar er tölvan\nVar alltaf að leita í Network and sharing center. Ætlaði líka varla að trúa því að þetta hefði bara hurfið",
+            "date": "2009-05-14 23:25:00",
+            "post_id": "207026",
+            "reply_to_id": "207021"
+        },
+        {
+            "user_name": "starionturbo",
+            "text": "Fínt líka að nmappa bara network rangeið, þá er maður með allar ip sem eru open smb.\n\\\\ip",
+            "date": "2009-05-16 18:35:00",
+            "post_id": "207126",
+            "reply_to_id": "207026"
+        }
+    ],
+    "date": "2008-11-06 21:35:00"
+}

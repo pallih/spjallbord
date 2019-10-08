@@ -1,0 +1,79 @@
+{
+    "forum_title": "Koníakstofan",
+    "id": "63900",
+    "title": "vínbúðinn ekki safe síða?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=9&t=63900",
+    "posts": [
+        {
+            "user_name": "hakkarin",
+            "text": "Ætlaði að kaupa viskí gegnum vefverslun átvr en fékk þetta þegar ég ætlaði að kaupa: \nhttps://support.mozilla.org/en-US/kb/wh ... es-firefox\nHvað segið þið um þetta?",
+            "date": "2015-01-06 17:16:00",
+            "post_id": "586168",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Nota annan vafra en FireFox?",
+            "date": "2015-01-06 17:20:00",
+            "post_id": "586169",
+            "reply_to_id": "586168"
+        },
+        {
+            "user_name": "hakkarin",
+            "text": "Já gat þetta með internet explorer, en ég var svona meira að spyrja hvort að eitthvað væri að klikka hjá vínbúðinn? Lélegt öryggi eða eitthvað?",
+            "date": "2015-01-06 17:25:00",
+            "post_id": "586170",
+            "reply_to_id": "586169"
+        },
+        {
+            "user_name": "dori",
+            "text": "Það sem Chrome segir um skilríkið þeirra:\nBasically lélegt skilríki og Vínbúðin á að laga hjá sér.",
+            "date": "2015-01-06 17:33:00",
+            "post_id": "586171",
+            "reply_to_id": "586170"
+        },
+        {
+            "user_name": "suxxass",
+            "text": "Ég hef aldrei lent í veseni með þessa síðu.\nNota að vísu Chrome...",
+            "date": "2015-01-06 17:59:00",
+            "post_id": "586173",
+            "reply_to_id": "586171"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Dulkóðunarskilríkið þeirra er greinilega útrunnið.\nÞað þýðir þó ekki að hún sé ekki safe \nÞú getur litið á þetta eins og ökuskírteini. Þó að ökuskírteini renni út þýðir það ekki að viðkomandi kunni ekki að keyra",
+            "date": "2015-01-07 06:56:00",
+            "post_id": "586230",
+            "reply_to_id": "586173"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Dulkóðunarskilríkið er ekki útrunnið en það eru tvö vandamál:\n1. Það er ekki allt á síðunni sent yfir HTTPS svo að Chrome sýnir rauðan kassa fyrir Connection eins og þið sjáið á myndinni hans dora\n2. Síðan er að nota staðal sem er búið að finna margar mismunandi árásir á.\nSSL 3.0 er rusl núna og MD5 er djók og búið að vera djók jafn lengi og ég hef verið til. \nHeppilega er þetta þó betra en ekkert og ef einhver ætlaði að targeta íslenskar vefverslanir liggja sem dæmi íslenskar tölvuverslanir mun betur undir höggi. \nNenni ekki að checka hvaða en einhverjar þeirra biðja mann bara um kreditkortaupplýsingar yfir HTTP takk fyrir, góðan daginn. :/",
+            "date": "2015-01-07 08:03:00",
+            "post_id": "586233",
+            "reply_to_id": "586230"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Afhverju fæ ég allt aðrar niðurstöður?",
+            "date": "2015-01-07 09:38:00",
+            "post_id": "586236",
+            "reply_to_id": "586233"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Þú ert bara að reyna að neyða SSL á vinbud.is sem er bara redirect og síðan að reyna að neyða SSL á vinbudin.is\nen ekki að fara inn á þann hluta Vínbúðarinnar sem styðst við HTTPS sem er vefverslunin. \nhttps://www.vinbudin.is/desktopdefault.aspx/tabid-103",
+            "date": "2015-01-07 09:42:00",
+            "post_id": "586238",
+            "reply_to_id": "586236"
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Það eru tvær heimasíður í gangi.\nvinbud\nin\n.is og vinbud.is.\nSSL skilríkið er bara fyrir vinbudin.is og þessvegna kemur upp villa þegar reynt er að fara á öruggu útgáfuna (https) á vinbud.is (sem ekkert skilríki er til fyrir). \nSíðan er hitt þá er síðan að notast við SSLv3 sem er gamall samskiptastaðall og inniheldur ákveðna veikleika. Ástæðan er sú að þeir eru að keyra  IIS 6.0 sem fylgdi með Windows Server 2003 (sem verður EOL í júlí næstkomandi). \nÞessi https uppsetning (SSLv3 + RC4 + MD5) er hinsvegar \"örugg\" gagnvart POODLE veikleikanum (sem á bara við um SSLv3 + ciphera sem eru í CBC ham).",
+            "date": "2015-01-07 18:32:00",
+            "post_id": "586284",
+            "reply_to_id": "586238"
+        }
+    ],
+    "date": "2015-01-06 17:16:00"
+}

@@ -1,0 +1,65 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "26842",
+    "title": "8800gt SLI",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=26842",
+    "posts": [
+        {
+            "user_name": "Frost",
+            "text": "http://www.tacens.com/valeo560.htm\n Mun þessi ekki alveg ráða við 8800gt SLI?",
+            "date": "2009-12-15 11:58:00",
+            "post_id": "233709",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Safnari",
+            "text": "Hann er gefin upp sem samtals 38 Amper á 12Voltunum. Er það ekki alveg í tæpasta lagi. ?\nKísildalur virðist vera umboðs/söluaðili Tacens á Íslandi\nÞeir auglýsa einn Tacens 520W á 12.500 síðan einn athyglisverðan Aerocool E78 730W á 17.500\nGiska á að Valeo 560W lendi þarna mitt á milli í verði.\nMálið er hinsvegar að Aerocool E78 730W er með heil 60 Amper á 12Voltunum, ekki spurning ég tæki hann frekar.",
+            "date": "2009-12-15 12:52:00",
+            "post_id": "233714",
+            "reply_to_id": "233709"
+        },
+        {
+            "user_name": "vesley",
+            "text": "38a er held ég meira en nóg.   er að keyra 8800gts640mb á 18amper  og það á auðvelt með að keyra það kort ; )",
+            "date": "2009-12-15 13:01:00",
+            "post_id": "233718",
+            "reply_to_id": "233714"
+        },
+        {
+            "user_name": "Safnari",
+            "text": "Miðað við þetta\n''From what I understand, and I could be wrong, the 8800gt requires 24 amps total''\nÞá þyrfti 48 Amper fyrir tvö 8800GT í SLI, kanski ofaukið. Tel samt að 38 Amperin séu tæp.\nVesley, tvö 8800GT þurfa meiri straum en eitt 8800GTS",
+            "date": "2009-12-15 13:13:00",
+            "post_id": "233721",
+            "reply_to_id": "233718"
+        },
+        {
+            "user_name": "vesley",
+            "text": "ég veit að tvö þurfa meiri straum . \n(AVAdirect) for the 650MHz eVGA card where the minimum recommended amps on the 12V rail is 22 (single card) and 24 (SLI)\neitt 8800gt kort eitt og sér þá er ekki allur annar búnaður talinn með s.s. (móðurborð og fleira )    er að draga til sín um 9,3 amper \nen 4 5870 kort þurfa ekki 200 amp\nþetta tvöfaldast víst ekki.   miðað við það sem ég hef lesið",
+            "date": "2009-12-15 13:19:00",
+            "post_id": "233723",
+            "reply_to_id": "233721"
+        },
+        {
+            "user_name": "Frost",
+            "text": "Mig vantar mikla hjálp við þetta. Því að það er aðeins einn PSU í boði fyrir mig er að kaupa af vini mínum og hann segir að hann taki 8800gt SLI auðveldlega.",
+            "date": "2009-12-15 13:27:00",
+            "post_id": "233726",
+            "reply_to_id": "233723"
+        },
+        {
+            "user_name": "Safnari",
+            "text": "Hafi þessi kunningi notað þennan spennugjafa í svona SLI uppsettningu, þá verðurðu að treysta því.\nÁ Tacens slóðinni kemur fram,,  +3.3V+5V: 260W / +3.3V+5V+12V: 560W\n560 mínus 260 gerir 300W á 12 voltin. \nHér er sagt að þó að straumnotkun tvöfaldist ekki þá hafi hún samt farið mest í 358W þegar testin voru gerð.\nhttp://www.hardwarezone.com.au/reviews/ ... =2408&pg=3\nÞannig að eins og ég sagði áður, mér finnst 38A í tæpasta lagi.\nHér er slóð á SLI síðu NVIDIA, þar sem á að vera hægt að athuga hvort þeir treysti spennugjafa til SLI notkunnar.\nhttp://www.slizone.com/object/slizone_b ... ersupplies\nBest væri ef einhverjir SLI-kallar með reynslu kæmu með inpútt\nEDIT\nMiðað við svörin sem þú fékkst þegar þú spurðir um 9800GT SLI þá skil ég ekki af hverju þú ert að spyrja um þetta aftur.\n9800GT er ekkert annað en endurskírt 8800GT",
+            "date": "2009-12-15 13:59:00",
+            "post_id": "233736",
+            "reply_to_id": "233726"
+        },
+        {
+            "user_name": "Frost",
+            "text": "Þessi kunningi minn notaði ekki SLI á þessum PSU. Ég hef bara áhyggjur að hann muni ekki höndla.",
+            "date": "2009-12-15 16:58:00",
+            "post_id": "233770",
+            "reply_to_id": "233736"
+        }
+    ],
+    "date": "2009-12-15 11:58:00"
+}

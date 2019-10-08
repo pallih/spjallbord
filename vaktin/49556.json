@@ -1,0 +1,205 @@
+{
+    "forum_title": "Þjónusta / Viðgerðir",
+    "id": "49556",
+    "title": "bluescreen, vesen með hdd ?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=13&t=49556",
+    "posts": [
+        {
+            "user_name": "J1nX",
+            "text": "sælir.. er þetta eitthvað sem ég á að vera að spá í?\ntölvan bluescreenaði áðan og ég held að þetta hafi komið þá, skoða þetta action center ekkert voðalega oft \nveit ekkert hvað þetta Marvell eða hvað Yukon controller er, þannig ég ætla ekkert að vera að taka sénsinn og dla bara eikkerju og ákvað þess vegna að spurja ykkur sem hafið meira vit á þessu \n*edit* var að bluescreena aftur og þurfti nokkur restarts til að fá hörðu diskana til að poppa inn aftur, gæti vel þegið smá hjálp",
+            "date": "2012-08-08 22:26:00",
+            "post_id": "459229",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "J1nX",
+            "text": "get kannski bætt því við að ég fékk mér Crucial M4 128gb ssd disk um daginn ef það skiptir einhverju",
+            "date": "2012-08-08 23:35:00",
+            "post_id": "459252",
+            "reply_to_id": "459229"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Farðu á heimasíðu móðurborðsins og sæktu nýjustu reklana þaðan fyrir onboard diskstýringuna þína. Ef ekkert lagast eftir það er spurning hvort firmware-ið á SSDinum er up-to-date.",
+            "date": "2012-08-08 23:37:00",
+            "post_id": "459253",
+            "reply_to_id": "459252"
+        },
+        {
+            "user_name": "J1nX",
+            "text": "finn 2 fæla þar, \nMotherboard\t\nGA-X58A-UD3R (rev. 1.0)\nMotherboard\t\nGA-X58A-UD3R (rev. 2.0)\nhver er munurinn á rev. 1.0 og 2.0 og hvor á ég að taka?",
+            "date": "2012-08-08 23:51:00",
+            "post_id": "459262",
+            "reply_to_id": "459253"
+        },
+        {
+            "user_name": "Victordp",
+            "text": "Myndi halda að rev 2.0 er nýjasti driverinn er hann ekki alltaf besti kosturinn ?",
+            "date": "2012-08-09 03:12:00",
+            "post_id": "459290",
+            "reply_to_id": "459262"
+        },
+        {
+            "user_name": "mercury",
+            "text": "er rev 1 og rev 2 ekki útfærslur af borði frekar en driver eða bios. ?",
+            "date": "2012-08-09 10:59:00",
+            "post_id": "459310",
+            "reply_to_id": "459290"
+        },
+        {
+            "user_name": "beggi90",
+            "text": "Það stendur á móbóinu þínu rev 1.0 eða 2.0.\nYfirleitt nálægt efsta pci-e slottinu, þó ekki alltaf.",
+            "date": "2012-08-09 11:06:00",
+            "post_id": "459315",
+            "reply_to_id": "459310"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Jú. Ætti ekki að skipta miklu máli hvort þú tekur ef disk stýringin er sú sama. Annars stendur hvort þetta er REV 1 eða 2 hjá efstu PCI-E raufinni þinni.",
+            "date": "2012-08-09 11:07:00",
+            "post_id": "459316",
+            "reply_to_id": "459315"
+        },
+        {
+            "user_name": "J1nX",
+            "text": "okey kíki á þetta eftir vinnu á eftir \n hvað væri enska orðið yfir diskastýring.. sá þegar ég var að skoða þetta eitthvað í gær að það komu nokkrir valmöguleikar \n þeas hverju á ég að leitast eftir \n*edit* já bæti því kannski við að hún fór að bluescreena á fullu í nótt eftir að ég bjó til póstinn",
+            "date": "2012-08-09 21:35:00",
+            "post_id": "459439",
+            "reply_to_id": "459316"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "C:\\Windows\\Minidump\\..\nTaktu nýjustu minidump skránna sem er þarna, heitið á þeim er eftir dagsetningu og tíma og settu hingað inn sem viðhengi.",
+            "date": "2012-08-09 21:42:00",
+            "post_id": "459444",
+            "reply_to_id": "459439"
+        },
+        {
+            "user_name": "J1nX",
+            "text": "Viðskeytið dmp er ekki leyft.\nfæ þetta bara þegar ég reyni :S\n*edit* setti það inn rarað ef það hjálpar eitthvað",
+            "date": "2012-08-10 01:43:00",
+            "post_id": "459510",
+            "reply_to_id": "459444"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "úff, ntoskrnl.exe BSOD. Ótrúlega erfitt að pinpointa hvað það er sem veldur slíku, getur verið ýmis bilaður vélbúnaður eða stýrikerfisvandamál.\nÞað eru ýmsar leiðir sem þú getur prufað. - En ég ætla að stökkva beint í einföldustu lausnina. Backup og format. Yfirleitt það sem ég enda á að gera þegar ég er með vélar með samskonar vandamál, eftir að hafa reynt 5-10 atriði fyrst.",
+            "date": "2012-08-10 12:06:00",
+            "post_id": "459540",
+            "reply_to_id": "459510"
+        },
+        {
+            "user_name": "J1nX",
+            "text": "oh man.. nýbúinn að formatta (þegar ég keypti ssd diskinn) og nýbúinn að eyða þónokkrum gígabætum í að dla leikjunum aftur, dont wanna do it agaiiiiin \n*edit* en vitiði af hverju ég sé ekki hitann á 2diskum í speccy, sé bara hitann á elsta disknum en ekki á ssd disknum eða 2tb geymsludisknum",
+            "date": "2012-08-10 16:46:00",
+            "post_id": "459592",
+            "reply_to_id": "459540"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Áður en þú formattar prufaðu þá amk að uppfæra driverinn fyrir chipsettið og disk controllerinn.",
+            "date": "2012-08-10 19:30:00",
+            "post_id": "459612",
+            "reply_to_id": "459592"
+        },
+        {
+            "user_name": "J1nX",
+            "text": "hvað af þessu ætti ég að ná í?\nhttp://www.marvell.com/support/download ... 2084298837\n*edit* er þetta í lagi ? tók eftir að það stendur eikkað BAD þarna",
+            "date": "2012-08-10 23:16:00",
+            "post_id": "459647",
+            "reply_to_id": "459612"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Windows setup skránna, efst í listanum. Ekki hugmynd hvað 'pciide bad' gefur til kynna.",
+            "date": "2012-08-10 23:34:00",
+            "post_id": "459652",
+            "reply_to_id": "459647"
+        },
+        {
+            "user_name": "J1nX",
+            "text": "okey þakka æðislega fyrir aðstoðina, sá líka að ég er ekki með nýjasta firmware á SSD disknum þannig ég ætla að update-a það líka \n svo kemur bara í ljós hvort þetta virkar, er að backupa atm \n*edit* virkaði ekki að setja inn nýjasta firmware þó að ég sé með 0309 og þetta eigi að update úr því í 000f",
+            "date": "2012-08-10 23:46:00",
+            "post_id": "459656",
+            "reply_to_id": "459652"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Var þetta notaður diskur? EF svo er, er tölvan að blue-screena á nákvæmlega klukkutíma fresti?\nÞað var galli í firmwareinu hjá Crucial sem gerði það að verkum að eftir að 5184klst af power-on tíma, þá klikkaði diskurinn á nákvæmlega klukkutíma fresti.\nHins vegar átti þetta að vera komið í lag eftir 0309 firmwareið, svo ef þú ert raunverulega með það, þá ætti þetta ekki að vera issue hjá þér :/",
+            "date": "2012-08-11 09:52:00",
+            "post_id": "459685",
+            "reply_to_id": "459656"
+        },
+        {
+            "user_name": "J1nX",
+            "text": "það held ég ekki, keyptur hjá ykkur",
+            "date": "2012-08-11 12:45:00",
+            "post_id": "459699",
+            "reply_to_id": "459685"
+        },
+        {
+            "user_name": "J1nX",
+            "text": "jæja ákvað að formatta og þegar ég reyni að installa windowsinu af bootable usb upp á nýtt fæ ég upp þennan error.. Error code: 0x80070570\nhttp://www.sevenforums.com/installation ... stall.html\nprófaði að taka minnin úr eitt í einu og fékk þennan error áfram þannig ég er að setja annað windows install á usb lykilinn núna, og ef það virkar ekki fæ ég vinnsluminni lánuð hjá bróðir mínum til að ath hvort öll minnin mín séu biluð.. ef það virkar ekki, þá er ég screwed",
+            "date": "2012-08-13 22:32:00",
+            "post_id": "460481",
+            "reply_to_id": "459699"
+        },
+        {
+            "user_name": "mercury",
+            "text": "buinn að prufa að eyða partation og gera nýja ?.",
+            "date": "2012-08-13 22:45:00",
+            "post_id": "460485",
+            "reply_to_id": "460481"
+        },
+        {
+            "user_name": "J1nX",
+            "text": "of course",
+            "date": "2012-08-14 00:19:00",
+            "post_id": "460495",
+            "reply_to_id": "460485"
+        },
+        {
+            "user_name": "mercury",
+            "text": "hugsanlega kominn tími á að skila disknum",
+            "date": "2012-08-14 01:05:00",
+            "post_id": "460505",
+            "reply_to_id": "460495"
+        },
+        {
+            "user_name": "J1nX",
+            "text": "já geri þetta ef allt annað feilar, fer í það á morgun að skoða annað install og önnur minni ef það virkar ekki er etta bara diskurinn sem er gallaður reikna ég með.. hann á það líka til að finnast ekki þegar ég er að kveikja á tölvunni",
+            "date": "2012-08-14 01:28:00",
+            "post_id": "460509",
+            "reply_to_id": "460505"
+        },
+        {
+            "user_name": "mercury",
+            "text": "haha þá þó svo þú náir að installa windows á hann þá verður hann líklega aldrei til friðs.",
+            "date": "2012-08-14 01:53:00",
+            "post_id": "460513",
+            "reply_to_id": "460509"
+        },
+        {
+            "user_name": "J1nX",
+            "text": "jæja búinn að setja windowsið inn á ssd diskinn, og um leið og það er búið byrja ég að fá boot error, þeas ssd diskurinn finnst ekki þegar ég kveiki á tölvunni (finnur hann yfirleitt eftir 3-5restarts) .. \ner þetta ekki bara gallaður diskur?",
+            "date": "2012-08-14 22:57:00",
+            "post_id": "460729",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "J1nX",
+            "text": "reikna með að fara með diskinn aftur upp í tölvutækni í dag eða á morgun og láta þá kíkja á hann",
+            "date": "2012-08-15 14:52:00",
+            "post_id": "460856",
+            "reply_to_id": "460729"
+        },
+        {
+            "user_name": "mercury",
+            "text": "alveg kominn tími á það",
+            "date": "2012-08-15 15:31:00",
+            "post_id": "460863",
+            "reply_to_id": "460856"
+        }
+    ],
+    "date": "2012-08-14 22:57:00"
+}

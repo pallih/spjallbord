@@ -1,0 +1,44 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "67538",
+    "title": "Turris Omnia",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=67538",
+    "posts": [
+        {
+            "user_name": "Revenant",
+            "text": "Áhugavert project hjá CZ.NIC (TLD register fyrir CZ lénið) með nýjan router með OpenWRT stýrikerfinu:\nhttps://omnia.turris.cz/en/\nÆtti að vera future proof þegar 1 Gbps ljósleiðaratengingar koma",
+            "date": "2015-11-14 15:13:00",
+            "post_id": "610926",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "kizi86",
+            "text": "Oh My God hvað þetta er sniðugt apparat! meira svona! takk kærlega fyrir að benda mér á þetta!",
+            "date": "2015-11-14 16:37:00",
+            "post_id": "610932",
+            "reply_to_id": "610926"
+        },
+        {
+            "user_name": "mercury",
+            "text": "Nú er ég alveg grænn þegar það kemur að netbúnaði. Nennið þið að útskýra hvað er svona framúrskarandi nýjung við þetta ?",
+            "date": "2015-11-14 17:10:00",
+            "post_id": "610935",
+            "reply_to_id": "610932"
+        },
+        {
+            "user_name": "Revenant",
+            "text": "\"Meðal-router\" sem þú færð hjá símafyrirtækjum er með specca upp á ca. 400 MHz, 8MB ram og 32 MB flash disk. \nStýrikerfi á þessum búnaði sem var hent saman af lowest bidder oft með mjög gömlum hugbúnaðarútgáfum og veikleikum sem fyrirtæki nenna/tíma ekki að plástra. \nÍ raun er þetta lítil tölva með 5 auka lan tengjum og wifi korti með stýrikerfi sem þú getur uppfært, breytt og customizer-að eins og þér hentar. \nOft er það netbúnaðurinn sem höndlar ekki þá bandvídd/fjölda tenginga/álag sem heimilið er með (torrent, twitch, youtube o.s.frm) og veldur lélegri upplifun. \nÞessir speccar (1,6 GHz, 1GB ram, 4 GB flash) eru svipaðir speccar og á OnHub routerinum sem Google er að promote-a.",
+            "date": "2015-11-14 17:34:00",
+            "post_id": "610937",
+            "reply_to_id": "610935"
+        },
+        {
+            "user_name": "mercury",
+            "text": "ja ok snilld",
+            "date": "2015-11-14 17:44:00",
+            "post_id": "610939",
+            "reply_to_id": "610937"
+        }
+    ],
+    "date": "2015-11-14 15:13:00"
+}

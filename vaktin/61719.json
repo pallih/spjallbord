@@ -1,0 +1,72 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "61719",
+    "title": "Hringiðan ljósleiðari",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=61719",
+    "posts": [
+        {
+            "user_name": "Squinchy",
+            "text": "Var að fá ljósleiðara tengingu frá hringiðunni þar sem ég er 2% maður og var að lenda í þessu\nEinhver sem kannast við þetta? Ekki er virkilega verið að ætlast til þess að það séu einungis 3 tæki sem geta notað netið í einu",
+            "date": "2014-07-20 22:14:00",
+            "post_id": "567829",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "intenz",
+            "text": "...",
+            "date": "2014-07-20 22:19:00",
+            "post_id": "567830",
+            "reply_to_id": "567829"
+        },
+        {
+            "user_name": "Plushy",
+            "text": "Já það er bara hægt að hafa 3 MAC Address skráðar í Ljósleiðaraboxið. Það getur verið tölva, tölva, tölva, eða router, tölva, tölva o.s.frv. \nEf þú fékkst þér nýjan router þá er MAC á gamla eflaust skráð ennþá og þarft að eyða henni út til að gera pláss fyrir næsta tæki.",
+            "date": "2014-07-20 22:25:00",
+            "post_id": "567831",
+            "reply_to_id": "567830"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Tengir routerinn þinn við ljósleiðaraboxið, tengir svo öll tækin við routerinn.",
+            "date": "2014-07-20 22:29:00",
+            "post_id": "567832",
+            "reply_to_id": "567831"
+        },
+        {
+            "user_name": "Squinchy",
+            "text": "Það bara getur ekki verið, það er ekki fræðinlegur möguleiki að öll heimili sem eru tengt ljósleiðaranum séu bara með 3 nettengd tæki á heimilinu.\nUppsettningin hjá mér er núna Ljósleiðara box > Airport express > borðtölva og tveir símar á wi-fi, tengi svo ipadinn við wi-fi en hann fær ekki net aðgang",
+            "date": "2014-07-20 22:30:00",
+            "post_id": "567833",
+            "reply_to_id": "567832"
+        },
+        {
+            "user_name": "Plushy",
+            "text": "Airport á að geta tengt öll tækin við netið í gegnum boxið. Ipadinn á ekki að fá úthlutaðri IP tölu frá boxinu sjálfu. \nRouter getur veirð eitt af þessum þrem nettengdu tækjum en síðan eru ekki takmörk fyrir því hversu mörg tæki þú mátt tengja við routerinn.",
+            "date": "2014-07-20 22:33:00",
+            "post_id": "567834",
+            "reply_to_id": "567833"
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Airport express er wireless access punktur (wired to wireless), ekki router.\nÞú verður að tengja Airport express í router svo að ipad-inn/síminn/whatever fær IP tölu úthlutaða frá routerinum en ekki gagnaveitunni.",
+            "date": "2014-07-20 22:39:00",
+            "post_id": "567835",
+            "reply_to_id": "567834"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Ha?\nÞú getur tengt eins mörg tæki og routerinn þinn ræður við. Þú færð hins vegar bara 2 IP tölur - og getur skráð 3 tæki(MAC addr.) í einu.\nTengdu router við boxið og notaðu hann til að stýra traffíkinni.",
+            "date": "2014-07-20 23:20:00",
+            "post_id": "567839",
+            "reply_to_id": "567835"
+        },
+        {
+            "user_name": "Squinchy",
+            "text": "Já okei nú er ég að fatta þetta. Var einnig að setja inn ranga styllingar á expressinn, var með hann á bridge mode en á að vera á \"share a public IP address\" s.k.v \nLink",
+            "date": "2014-07-20 23:59:00",
+            "post_id": "567843",
+            "reply_to_id": "567839"
+        }
+    ],
+    "date": "2014-07-20 22:14:00"
+}

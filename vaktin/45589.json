@@ -1,0 +1,72 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "45589",
+    "title": "Smá aðstoð, DISK BOOT FAILURE, eftir uppfærslu",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=45589",
+    "posts": [
+        {
+            "user_name": "westernd",
+            "text": "Semsagt ég uppfærði tölvu, móðurborð,ram og örgjörva\nég var með win 7 á stýrikerfis disknum en fæ núns upp DISK BOOT FAILURE INSERT SYSTEM DISK AND PRESS ENTER\neinhver með lausn, ég prufaði að setja diskinn í docku og gá hvort það væri bara ekki í lagi með hann sem það er\nhvað gæti þetta verið og hvernig laga ég þetta?",
+            "date": "2012-02-09 20:51:00",
+            "post_id": "419848",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AciD_RaiN",
+            "text": "Varstu búinn að setja upp stýrikerfið eftir að þú varst búinn að uppfæra eða??",
+            "date": "2012-02-09 20:55:00",
+            "post_id": "419849",
+            "reply_to_id": "419848"
+        },
+        {
+            "user_name": "lukkuláki",
+            "text": "Það eru hverfandi líkur á að þú getir notað harðadiskinn á milli allra þessara íhluta ég myndi ráðleggja þér að setja vélina upp á nýtt þú þarft ekki að missa gögn ef þú gerir það rétt en ég myndi ekki reyna að laga þetta það er ólílkegt að það takist hvað þá að það yrði til friðs.",
+            "date": "2012-02-09 20:55:00",
+            "post_id": "419850",
+            "reply_to_id": "419849"
+        },
+        {
+            "user_name": "DJOli",
+            "text": "Ef þú varst með tölvu, og stýrikerfi uppsett á hörðum diski.\nSkiptir svo um \"tölvu\" eða semsagt \nMóðurborð\n þá \nverðurðu í 99% tilfella\n að strauja stýrikerfisdiskinn, og byrja frá byrjun.",
+            "date": "2012-02-09 20:56:00",
+            "post_id": "419851",
+            "reply_to_id": "419850"
+        },
+        {
+            "user_name": "AciD_RaiN",
+            "text": "Það er líka hægt að setja stýrikerfið upp þannig að það býr til möppu sem heitir old windows og þar verða öll gögnin sem voru á fyrir  \n  Gerir bara ekki format þegar þú setur það upp.",
+            "date": "2012-02-09 20:58:00",
+            "post_id": "419852",
+            "reply_to_id": "419851"
+        },
+        {
+            "user_name": "DJOli",
+            "text": "það er samt svo mikið þægilegra að kunna þetta, og að vera búinn að gera backup, og byrja svo clean.\nen back on topic.\nVið skulum reyna að vera byrjendafriendly.",
+            "date": "2012-02-09 21:00:00",
+            "post_id": "419853",
+            "reply_to_id": "419852"
+        },
+        {
+            "user_name": "westernd",
+            "text": "Þið eruð vissir á því? ég gerði þetta fyrir einhverjum mánuðum þá fór þetta smooth í gegn\nþessi stýrikerfisdiskur er með 2 partition, annað þeirra með stýrikerfinu\nþegar ég fer í disk management þá stendur á gagnadrifinu að það sé primary partition\nhitt er bara healthy (logical drive) \ngæti það verið ástæðan, að tölvan sé bara að reyna boota upp frá gagnadrifinu því þetta er sami harðidiskurinn? (fer bara vitlaust partition) \neða getur þetta verið eitthvað með biosin ?",
+            "date": "2012-02-09 21:03:00",
+            "post_id": "419856",
+            "reply_to_id": "419853"
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "fara í bios og skoða boot order minnir mig eða harddisk order, en það er alltaf best að setja windows aftur upp á nýjum vélbúnaði ss. ekki færa HDD á milli tölva",
+            "date": "2012-02-09 21:10:00",
+            "post_id": "419859",
+            "reply_to_id": "419856"
+        },
+        {
+            "user_name": "westernd",
+            "text": "Það er nú ljóta vesenið þar sem ég er með win 7 home, upgrade (löglegt) þarf ég þá ekki að installa vista fyrst og svo win 7? því annars virkar cdkeyin ekki ?",
+            "date": "2012-02-09 21:26:00",
+            "post_id": "419864",
+            "reply_to_id": "419859"
+        }
+    ],
+    "date": "2012-02-09 20:51:00"
+}

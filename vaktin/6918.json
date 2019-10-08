@@ -1,0 +1,100 @@
+{
+    "forum_title": "Windows",
+    "id": "6918",
+    "title": "Hljóðið dettur út við og við",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=6918",
+    "posts": [
+        {
+            "user_name": "Sveinn",
+            "text": "Heyriði ég er með vandamál. \n\nHljóðið hjá mér er eitthvað fucked up, það dettur alltaf út eftir soldinn tíma sem ég er búinn að vera í tölvunni, oftast þegar ég er að hlusta á music(nota iTunes. Ég nota headphona(Sennheiser 477)). Ég bara veit ekki um neina mögulega ástæðu um hvernig á að skýra þetta eða hvernig á að laga þetta. Nema þetta skeður oft þegar ég er að gera eitthvað í tölvunni sem fær hana til að hugsa, þú veist það kemur hærra hljóð frá HDD's. Einusinni til dæmis þegar  ég opnaði einn harða diskinn(ekki master disk).\n\n\n\nP.S: Ég vissi ekki hvort ég ætti að seta þetta hérna eða á Skjákort / skjáir / \nhljóðkort",
+            "date": "2005-01-02 23:11:00",
+            "post_id": "73137",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Gefur ekki alveg nógu góðar upplýsingar.\n\nDettur hljóðið _alltaf_ út eftir soldinn tíma? Hversu langur tími er „soldið tími“? Skiptir ekki máli hvaða forrit er notað? Hvenær/afhverju byrjaði þetta?",
+            "date": "2005-01-02 23:45:00",
+            "post_id": "73143",
+            "reply_to_id": "73137"
+        },
+        {
+            "user_name": "Sveinn",
+            "text": "Jamm, svona til að svara spurningunum þínum þá jú hljóðið dettur oftast út sko. Svolítill tími, ashh það getur verið alveg frá hálftíma í klukkutíma held ég, hef ekki verið að telja mínúturnar eða svoleiðis. Sko ég var að horfa á einhverja þætti, og þá dettur hljóðið út :S og ég þarf reyndar bara þá að fara út úr forritinu(Windows Media Player) og aftur inn í það, en þetta hefur alltaf skeð eftir smá tíma þegar ég er búinn að vera eitthvað að hlusta á tónlist í iTunes. Byrjaði fyrir svona.. 4 dögum held ég. \n\n\n\nEn ég er nokkuð viss um að þetta eru ekki headphonarnir því að ég þarf bara að restarta, þá er þetta komið sko \n þá fæ ég hljóðið aftur, en skiljanlega er það ekki mjög þolanlegt til lengdar, þannig myndi skipta miklu máli ef ég fengi lausn á þessu \n\n\n\n\nEdit: Það er eitt enn, hljóðið höktar svona þegar ég er að gera eitthvað annað meðan ég er að hlusta á tónlist, semsagt þegar tölvan hugsar þá svona höktar það í takt við \"hugsið\".\n\n\n\nEn nýjstu fréttir eru þær að ég prófaði að hlusta á tónlist og taka tímann, og núna var það ein mínúta og reyndar hætti ég bara að gea hlustað á iTunes, allt annað hljóð var inni... já þetta er sko skrítið",
+            "date": "2005-01-03 00:30:00",
+            "post_id": "73149",
+            "reply_to_id": "73143"
+        },
+        {
+            "user_name": "Sveinn",
+            "text": "Nú liðu 16 min og 47 sec, en hljóðið í itunes fokkaðist bara upp",
+            "date": "2005-01-03 00:55:00",
+            "post_id": "73151",
+            "reply_to_id": "73149"
+        },
+        {
+            "user_name": "skipio",
+            "text": "Hmm, ég giska á Windows vandamál. Reformat & reinstall ætti að redda þessu.  \n\n\n\n\nEn svona í alvöru; prófaðu að ná í nýja rekla fyrir hljóðkortið.\n\n\n\nHvernig hljóðkort ertu með?",
+            "date": "2005-01-03 01:37:00",
+            "post_id": "73155",
+            "reply_to_id": "73151"
+        },
+        {
+            "user_name": "Sveinn",
+            "text": "Hef ekki hugmynd hvernig hljóðkort ég er með :S aldrei pælt í því :l hvernig sé ég það ?",
+            "date": "2005-01-03 01:46:00",
+            "post_id": "73161",
+            "reply_to_id": "73155"
+        },
+        {
+            "user_name": "Mysingur",
+            "text": "start>run - dxdiag og sound flipinn",
+            "date": "2005-01-03 01:54:00",
+            "post_id": "73163",
+            "reply_to_id": "73161"
+        },
+        {
+            "user_name": "Sveinn",
+            "text": "Peista bara mynd",
+            "date": "2005-01-03 02:19:00",
+            "post_id": "73167",
+            "reply_to_id": "73163"
+        },
+        {
+            "user_name": "skipio",
+            "text": "Þetta er væntanlega buffer vandamál, giska ég.\n\n\n\nNáðu í nýjan rekil á \nhttp://www.realtek.com.tw/downloads/dla ... tware=True\n\n\n\n\nEf þú veist hvernig móðurborð þú ert með gæti verið betra að ná í rekilinn frá  framleiðanda þess.\n\n\n\nNáðu líka í nýjasta DirectX á \nhttp://www.microsoft.com/directx",
+            "date": "2005-01-03 02:30:00",
+            "post_id": "73170",
+            "reply_to_id": "73167"
+        },
+        {
+            "user_name": "viddi",
+            "text": "ef þú ert með sp2 þá þarftu ekki að ná í nýjasta direct x því að þá ertu með það",
+            "date": "2005-01-03 12:19:00",
+            "post_id": "73194",
+            "reply_to_id": "73170"
+        },
+        {
+            "user_name": "Sveinn",
+            "text": "Hmm, ég náði í DirectX 9.0c .. hélt að b væri nýjasta \n en well búinn að seta það inn, en ég hef ekki gefið mér tíma í að ná í þennann driver, ótrúlega hæg síða.",
+            "date": "2005-01-03 14:14:00",
+            "post_id": "73206",
+            "reply_to_id": "73194"
+        },
+        {
+            "user_name": "Sveinn",
+            "text": "Újé, búinn að installa, look at this bojjjs!",
+            "date": "2005-01-03 14:20:00",
+            "post_id": "73208",
+            "reply_to_id": "73206"
+        },
+        {
+            "user_name": "Sveinn",
+            "text": "Flott geðveikt töff þetta virkaði! Takk eins og alltaf kæru vaktarar",
+            "date": "2005-01-03 19:07:00",
+            "post_id": "73262",
+            "reply_to_id": "73208"
+        }
+    ],
+    "date": "2005-01-02 23:11:00"
+}

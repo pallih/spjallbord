@@ -1,0 +1,100 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "68340",
+    "title": "Hið dularfyllsta mál - gögn hverfa á tölvu A en ekki B, og öfugt.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=68340",
+    "posts": [
+        {
+            "user_name": "kiddi",
+            "text": "Er með eitt vandamál sem er að gera mig gráhærðann. Ég er sjálfstætt starfandi og vinn 50/50 heima og á skrifstofu (og vinn allt of mikið ef út í það er farið). Ég er með tvær nákvæmlega eins vélar á báðum stöðum, en ég vinn allt af flakkara - sem þessa stundina er  2TB WD USB3 flakkari. Drifið sjálft er ekki vandamálið, því þetta gerðist líka með 500GB SSD disk, og aðra flakkara. \nTökum sem dæmi atvik sem kemur fyrir mig annað slagið:\nÉg er að vinna á skrifstofunni, í þessu tilfelli að klippa sjónvarpsviðtöl í Adobe Premiere en oftast vinn ég við grafík & tæknibrellur með öðrum forritum. Ég hætti kl 15:30 til að sækja börnin mín úr skólum og held svo áfram að vinna heima og alveg fram yfir miðnætti. Vista allt klabbið og allt í gúddí. Morguninn eftir mæti ég á skrifstofuna, og þá vantar allt sem ég hafði gert heima, daginn áður - þeas. ég sé að project fællinn minn var síðast vistaður rétt eftir miðnætti, og auto-save skrárnar eru á sínum stað, nema ég reyni að opna þessar skrár og þá segir Windows \"file not found\" og því næst hverfa skrárnar. Ég fæ nett panikk, 8 klst vinna horfin og ég að renna út á deadline - Windows á skrifstofunni (Win 8.1) biður um Scan & Fix á drifið sem ég geri, og þá hverfa allar þessar skrár sem ég hafði búið til heima, kvöldið áður. Ég prófa Recuva forritið sem nær að recovera project skránum og renderingum, mér til mikillar hamingju og ég set þær skrár í aðra möppu á drifinu sem ég kalla \"Recovered\" - nema þarf svo að bruna heim aftur til að sinna börnum. Svo kem ég heim (Win 10), og ... what... Recovered mappan mín er horfin, en allt hitt er á sínum stað eins og hafði verið, kvöldið áður, og allt svínvirkar. Nú er ég skíthræddur um, að þegar ég mæti á skrifstofuna á morgun, að eitthvað muni vanta.\nLöng saga stutt: Tölva A sér bara þær skrár á drifinu sem tölva A vann að, tölva B sér bara þær skrár á drifinu sem tölva B vann að. Meikar þetta eitthvað sens?\nAth - ég er búinn að nota þennan tiltekna flakkara, þessar tilteknu tölvur og þessi tilteknu stýrikerfi svo mánuðum skiptir og þetta er aldrei neitt vandamál, en 2-3svar á ári lendi ég í þessu og hef ekki guðmund um af hverju. Þetta er ferlega vont að geta ekki treyst tölvunum sínum, þegar það er ýmist fullsetnir fundarsalir eða hálf þjóð að bíða eftir að sjá það sem ég er að vinna í, og þetta er að gerast daginn fyrir útsendingu.\nHefur einhver, einhverja hugmynd um hvað er að gerast?\nPS. Myndi nota Cloud (t.d. Dropbox Pro undir vinnuna ef hraðinn væri nægur og ef bandvíddartakmörk væru engin 8-)",
+            "date": "2016-01-28 00:17:00",
+            "post_id": "616626",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "worghal",
+            "text": "ég get kanski ekki hjálpað mikið en ertu að vista beint á flakkarann?",
+            "date": "2016-01-28 00:23:00",
+            "post_id": "616627",
+            "reply_to_id": "616626"
+        },
+        {
+            "user_name": "kiddi",
+            "text": "Já ég vinn beint af flakkara, ég er oft að jöggla nokkrum tugum gígabæta á dag, oft að vinna í 2-5 verkefnum á hverjum degi og nenni engan veginn að kópera alltaf daglega á milli, það er of mikið ves. Þegar ég var með 500GB  SSD diskinn þá notaði ég IcyBox DuoDock, svona 3.5\" dokku sem var beintengd í SATA þannig að drifið var beintengt móðurborði en ekki USB tengt, svo ég efast um að þetta sé USB-tengt vandamál.",
+            "date": "2016-01-28 00:28:00",
+            "post_id": "616629",
+            "reply_to_id": "616627"
+        },
+        {
+            "user_name": "snaeji",
+            "text": "Gangi þér vel að spurja Google, þessi milljarður einstaklinga sem finnur harða diskinn í my computer þegar þeir stinga honum í samband eru að eyðileggja þetta fyrir okkur.",
+            "date": "2016-01-28 00:39:00",
+            "post_id": "616632",
+            "reply_to_id": "616629"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Þú ert með:\nWin 8.1 í vinnuvélinni, (er það domain tölva?)\nWin 10 heima\nVandamálið gerist óháð hvaða flakkara þú notar.\nMín ágiskun er ;\n\"permissions/ownership\" vandamál og/eða að þær vistist sem \"hidden eða system files\", fyrst skrárnar eru þarna en þú einhvernvegin sérð þær ekki.",
+            "date": "2016-01-28 01:23:00",
+            "post_id": "616635",
+            "reply_to_id": "616632"
+        },
+        {
+            "user_name": "netscream",
+            "text": "Permission vandamál ef þú ert með ntfs á drifinu. \nLeshausa vandamál ef diskur er orðinn meira en 6 mánaða og er alltaf á hreyfingu.",
+            "date": "2016-01-28 02:05:00",
+            "post_id": "616637",
+            "reply_to_id": "616635"
+        },
+        {
+            "user_name": "Moldvarpan",
+            "text": "Ertu að rífa diskinn úr sambandi leið og þú telur að gögnin séu komin á hann? \nÞetta hljómar eins og data corruption. \nNota safely remove device valmöguleikan?",
+            "date": "2016-01-28 06:43:00",
+            "post_id": "616642",
+            "reply_to_id": "616637"
+        },
+        {
+            "user_name": "nidur",
+            "text": "Þetta var það fyrsta sem mér datt í hug líka, þetta scan dæmi kemur held ég ekki nema að eitthvað virðist vera að.",
+            "date": "2016-01-28 08:36:00",
+            "post_id": "616643",
+            "reply_to_id": "616642"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Skooooo... mér dettur tvennt í hug:\n1.  Skrárnar eru á disknum en þú sérð bara þær sem eru stofnaðar í hvorri tölvu fyrir sig, sökum permissions/ownership.  Athugaðu hvort þú getir ekki séð skrárnar með því að sýna bæði faldar skrár og system skrár.  Spyr eins og Rapport, er önnur hvor tölvan tengd inn á domain?\nFinnst þetta líklegasta skýringin.\n2.  Tölvan er ekki að skrifa skrárnar beint inn á diskinn, er að cache-a þær og synca á milli og klárar það ekki áður en þú tekur diskinn úr sambandi.  Sbr. þegar þú downloadar skrá með Internet Explorer (var allavega þannig í gamla daga) og hún sækir fyrst í eina möppu og færir svo í rétta möppu þegar downloadið hefur klárast.\nVeit ekki hvort þesi virkni sé til staðar.  Efast um það.",
+            "date": "2016-01-28 08:45:00",
+            "post_id": "616644",
+            "reply_to_id": "616643"
+        },
+        {
+            "user_name": "kiddi",
+            "text": "Takk fyrir góð svör strákar \nÉg nota alltaf Safe Eject, tölvurnar eru ekki á domain, og ég er með show hidden&system files í gangi. Ætli ownership vandamál sé ekki líklegasta útskýringin, fyrst skrárnar hurfu þegar ég fór í scan / fix drive. Ég gerði Fix Drive á heimatölvunni í gærkvöldi og er nú mættur í vinnuna og allt sýnist vera í lagi - 7, 9, 13.\nHvenær fáum við íslenskan Dropbox mirror? Hver ætlar að vera fyrstur að stofna viðráðanlega ódýra Cloud þjónustu fyrir einstaklinga og lítil fyrirtæki? 8-)",
+            "date": "2016-01-28 08:55:00",
+            "post_id": "616645",
+            "reply_to_id": "616644"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Gott að heyra að þetta sé ekki að trufla þig núna, en fyrst þetta hefur verið að gerast ítrekað að þá ertu ólíklega alveg hólpinn  \n \nVið googl hafa einhverjir bent á að skoða skrárnar í gegnum Winrar, s.s. opna Winrar og navigate-a í möppuna þar sem skrárnar eiga að vera, þar sem að það sýni allt sem að sé í möppunni óháð attributes ofl... Hef ekki sannreynt þetta",
+            "date": "2016-01-28 09:03:00",
+            "post_id": "616647",
+            "reply_to_id": "616645"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Hefurðu prufað að breyta security attribute-inum í að bæta við Everybody og gefa því objecti Full Control?\nSpurning hvort að þú þurfir að gera það tvisvar á sömu möppuna/möppurnar, einu sinni á hvorri tölvu",
+            "date": "2016-01-28 09:47:00",
+            "post_id": "616654",
+            "reply_to_id": "616647"
+        },
+        {
+            "user_name": "nidur",
+            "text": "Ef ég væri þú þá myndi ég skoða owncloud, setja það upp á fileserver sem syncar á milli heima og vinnu.\nHef notað það sjálfur í langan tíma og ekki verið mikið vesen.\nVeit ekki hversu stór skjöl þetta eru sem þú ert með en þau sem ég hef verið með eru í kringum 1gb og upp í 5gb ásamt haug af minni.",
+            "date": "2016-01-28 10:28:00",
+            "post_id": "616660",
+            "reply_to_id": "616654"
+        }
+    ],
+    "date": "2016-01-28 00:17:00"
+}

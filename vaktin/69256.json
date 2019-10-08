@@ -1,0 +1,44 @@
+{
+    "forum_title": "Koníakstofan",
+    "id": "69256",
+    "title": "Símastöð / Símstandur / Sjálfhringi símakerfi",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=9&t=69256",
+    "posts": [
+        {
+            "user_name": "tveirmetrar",
+            "text": "Daginn vaktarar.\nEr í smá vandræðum og var að vona að þið gætuð hjálpað mér að finna lausnir.\nSvona er staðan:\nViðskiptavinir okkar, þegar þeir koma til landsins, ganga beint inn í rútu sem býður fyrir utan KEF airport og eru keyrðir á BSÍ.\nÞegar þangað er komið höfum við verið að bíða eftir þeim með skilti með þeirra nafni á og keyra þá upp í verslun hjá okkur þar sem við afhendum camperinn.\nGallin við þetta er að við vitum aldrei nákvæmlega hvenar kúnninn kemur þar sem fólk tekur sér mis mikinn tíma í flugstöðinni og erum því oft með starfsmenn fasta í lengri tíma niðurfrá. Ásamt óörygginu sem kúnnin upplifir ef við erum ekki á staðnum og engar upplýsingar sjáanlegar á BSÍ.\nVið erum því að setja upp símastöð, í samvinnu með ITA (Icelandic Travel Assistance) sem eru með verslun í BSÍ.\nUtan á þeirra verslun kemur stórt skilti „CampEasy pickup phone“ „Campeasy Pickup Location“ með ör sem vísar á símastand.\nOg þar vantar mér lausn.\nSímastandurinn / símastöðin / intercom kerfið sjálft er að valda mér vandræðum.\n1. Ég er að leita eftir uppsetningu þar sem kúnninn getur tekið upp símtólið og fylgt leiðbeiningum á veggnum fyrir framan hann, ýtt á 1 og síminn hringir hjá okkur, slegið inn kóða og síminn hringir hjá okkur eða bara tekið upp tólið og síminn hringir hjá okkur. Við getum þá lagt af stað í pickup og verið þar innan 10 mínútna. \n2. Símstandurinn er inni í versluninni hjá ITA og þeir eru tilbúnir að fylgjast með því að tækið sé ekki misnotað.\n3. Ég var einnig að vona að það væri hægt að setja upp þráðlausann síma, það er símtækið sjálft ekki tólið, svo það þyrfti bara að stinga standinum í samband en ekki leggja fyrir símasnúru líka. Þannig yrði hann auð-færanlegur ef einhverjar breytingar eiga sér stað á BSÍ.\n4. Ég get hannað og smíðað standinn með viðeigandi leiðbeiningum ef ekkert svona er til „prebuilt“ en ég var að vona að ég fyndi svona kerfi einhverstaðar. Finnst ég hafa séð þetta einhverstaðar, bílaleigum, hótelum etc.  \n5. Símtækið, snúran og tólið þarf að vera sterkt og geta tekið á sig hnjask.\n6. Hafði hugsað mér stand á læsanlegum hjólum. En það má alveg vera \"wallmounted\" eða eitthvað annað. Get bara ómögulega fundið eitthvað í þessari líkingu sjálfur. Enda alltaf með símaklefa eða smartsíma hleðslustöðvar.\nEinhverar hugmyndir?",
+            "date": "2016-04-23 15:55:00",
+            "post_id": "622705",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Hizzman",
+            "text": "Hvað með GSM dyrasíma? Þetta er standard græja sem fæst í Iskraft/Rönning/etc. Virkar eins og venjulegur dyrasími nema að hann hringir í ákveðið símanúmer þegar ýtt er á takkann, svo er hægt að tala í þetta eins og venjulegan dyrasíma...\nps það er líka hægt að vera með venjulega símalínu og símtæki. Það er hægt að stilla línuna til að hringja í ákeðið númer þegar tóli er lyft...Síminn hf gæti lumað á gömlu svona símtæki með málmbarka\nef þú gúglar 'gsm dyrasími' sérðu nokkrar lausnir allavega",
+            "date": "2016-04-23 16:04:00",
+            "post_id": "622709",
+            "reply_to_id": "622705"
+        },
+        {
+            "user_name": "tveirmetrar",
+            "text": "Skoða það. Vissi að þetta tæki ekki langann tíma hérna. Gæti meira að segja verið mögulegt að tengja símtól við svoleiðis tæki.",
+            "date": "2016-04-23 16:10:00",
+            "post_id": "622710",
+            "reply_to_id": "622709"
+        },
+        {
+            "user_name": "Hizzman",
+            "text": "vertu ekkert að flækja þetta með tóli! skrúfaðu þetta bara á vegg á BSÍ og málið er dautt!\nmörg gistiheimili í Rvik eru með svona. þau eru með aðstöðu á nokkrum stöðum og einn á vakt sem svarar og opnar - svínvirkar greinilega miðað við vaxandi fjölda ferðamanna ;-)",
+            "date": "2016-04-23 17:52:00",
+            "post_id": "622721",
+            "reply_to_id": "622710"
+        },
+        {
+            "user_name": "Jón Ragnar",
+            "text": "Svo geturu sett upp CME og stillt configað PLAR fyrir símtækið sem hringir beint í ykkur. Loka á allt annað úr tækinu \n$$$$ samt",
+            "date": "2016-04-28 15:32:00",
+            "post_id": "623033",
+            "reply_to_id": "622721"
+        }
+    ],
+    "date": "2016-04-23 15:55:00"
+}

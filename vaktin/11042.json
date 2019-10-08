@@ -1,0 +1,79 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "11042",
+    "title": "Fríir Gagnagrunnar???",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=11042",
+    "posts": [
+        {
+            "user_name": "Maggi Sig.",
+            "text": "Nú spyr sá sem ekki veit, en er hægt að sækja einhversstaðar á netinu fría gagnagrunna sem hægt er að notast við til að gera heimasíðu? ætla prófa að fikta mig í gegn um þá! Ég er með heimasvæði sem styður MySQL og allt það!",
+            "date": "2006-05-31 19:07:00",
+            "post_id": "120659",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "DoRi-",
+            "text": "Simple PHP Blog",
+            "date": "2006-05-31 19:09:00",
+            "post_id": "120660",
+            "reply_to_id": "120659"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "MySQL er frýr gagnagrunnur.",
+            "date": "2006-05-31 19:24:00",
+            "post_id": "120663",
+            "reply_to_id": "120660"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Hérna eru þrír helstu og ókeyps grunnarnir:\n\n\n\nMySql\n\n\n\n\nOracle 10g Express\n\n\n\n\nSql Server 2005 Express\n\n\n\n\nEf hýsingar aðilinn þinn býður upp á MySql.. skaffar hann þá ekki gagnagrunn líka?",
+            "date": "2006-05-31 22:36:00",
+            "post_id": "120687",
+            "reply_to_id": "120663"
+        },
+        {
+            "user_name": "Rusty",
+            "text": "Hví vantar þig þá gagnagrunn?",
+            "date": "2006-05-31 22:46:00",
+            "post_id": "120689",
+            "reply_to_id": "120687"
+        },
+        {
+            "user_name": "Maggi Sig.",
+            "text": "Ég er líklegast aðeins að ruglast! ég að meina, að ég er að fara að setja upp heimasíðu sem er keyrð á gagnagrunni, samanber \nSimple PHP Blog\n (þó hún sé kannski ekki keyrð á gagnagrunni) en þar sem ég þarf ekki að hanna síðuna í heimasíðuforriti heldur smíða ég hana beint í gegn um browserinn! ef þið skiljið hvað ég meina  \n ég er soldill nýgræðingur en er að læra!",
+            "date": "2006-05-31 23:24:00",
+            "post_id": "120699",
+            "reply_to_id": "120689"
+        },
+        {
+            "user_name": "Dagur",
+            "text": "ég mundi frekar segja MySQL, PostgreSQL og Firebird oO",
+            "date": "2006-06-01 09:49:00",
+            "post_id": "120724",
+            "reply_to_id": "120699"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Aldrei heyrt um Firebird, þurfti að vinna með Postgre fyrir löngu í smá verkefni og var ekkert sérstaklega hrifinn.\n\n\n\nMySql er fínn en Oracle er ótrúlega mikið öflugri og betri.  Hef rekið mig á ýmislegt sem telst sjálfsagt í Oracle sem er ekki hægt í MySql eða þarf að útfæra með mun flóknara SQL.  Sql Server 2005 Express á líka eftir að koma sterkur inn nú þegar Microsoft er farið að bjóða upp á Management Studio Express, maður forðaðist að nota MSDE vegna þess að það var ekkert viðmót.",
+            "date": "2006-06-01 10:24:00",
+            "post_id": "120729",
+            "reply_to_id": "120724"
+        },
+        {
+            "user_name": "Maggi Sig.",
+            "text": "veit ekki einhver hvað ég er meina, þekkið þið svona, ég hef ekki hugmynd um hvað þetta heitir!",
+            "date": "2006-06-01 19:18:00",
+            "post_id": "120768",
+            "reply_to_id": "120729"
+        },
+        {
+            "user_name": "Rusty",
+            "text": "Ertu þá að tala um fréttakerfi á borð við \nCutenews\n eða þá CMS kerfi á borð við \nJoomla\n og \ne107\n?",
+            "date": "2006-06-01 19:46:00",
+            "post_id": "120772",
+            "reply_to_id": "120768"
+        }
+    ],
+    "date": "2006-05-31 19:07:00"
+}

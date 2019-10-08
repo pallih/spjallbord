@@ -1,0 +1,44 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "59224",
+    "title": "Vandræði með rafrænan póst",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=59224",
+    "posts": [
+        {
+            "user_name": "Garri",
+            "text": "Sælir\nEr með allskonar hugbúnað sem ég hef smíðað. Flest þessara kerfa geta sent póst (email). Málið er, ef ég nota sér-íslensku stafina þá fær pósturinn þessa athugasemd: \nMIME_BAD_ISO_CHARSET 2.83, SUBJECT_NEEDS_ENCODING 1.28, TVD_PDF_FINGER01 1.00\nJan 16 11:03:12 vxout-2 MailScanner[25376]: Message 9F459833268.0E778 from xxx.xxx.xxx.xxx (\nxxxxxx@internet.is\n) to vodafone.is is Ruslpostur, SpamAssassin (not cached, stigagjof=6.108, required 5, autolearn=disabled, MIME_BAD_ISO_CHARSET 2.83, SUBJECT_NEEDS_ENCODING 1.28, TVD_PDF_FINGER01 1.00, TVD_SPACE_RATIO 1.00)\nFæ mínusa út á \n1 -2.83   MIME_BAD_ISO_CHARSET 2.83\n2 -1.28   SUBJECT_NEEDS_ENCODING\n3 -1.00   TVD_PDF_FINGER01\n4 -1.00   TVD_SPACE_RATIO \nPrófaði að encoda þetta í UTF8 en þá fæ ég garbis í stað séríslensku stafa.. einhver sem veit eitthvað um þetta?\nEdit: Prófaði að forca 8859_1 í charset..",
+            "date": "2014-01-16 13:06:00",
+            "post_id": "547287",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "cartman",
+            "text": "Hefur þú prófað annað character set eins og t.d. iso 8859-1?",
+            "date": "2014-01-16 13:26:00",
+            "post_id": "547288",
+            "reply_to_id": "547287"
+        },
+        {
+            "user_name": "Garri",
+            "text": "Var einmitt að prófa það.. sjá hér að ofan í Edit. Getur verið að ég þurfi að gera þetta handvirkt, en componentið sem ég nota er ævagamalt.. frá 1998. \nEn aðallega vantar mig að vita hvaða charset ég á að nota. Er að bíða eftir svari frá Vodafone með það, þeir hljóta að vita það.\nVeist þú eitthvað hvað hinir mínusarnir fyrirstilla?",
+            "date": "2014-01-16 13:32:00",
+            "post_id": "547289",
+            "reply_to_id": "547288"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Giskandi pínulítið út í loftið (ég hef oft lent í stafasetta vandamálum, sem ég hef ekki alltaf náð að leysa fallega. Þetta er svona hugmynd sem mér var að detta í hug) en þegar þú encodar í UTF8, getur verið að strengurinn sem kemur inn sé ekki á sama formi (stafasetti) og encoderinn heldur? Þá encodast augljóslega íslensku táknin í röng UTF8 tákn. Til að vera viss um það þyrftirðu að skoða binary/hexa formið sem input strengurinn er í, til að athuga hvaða bitar liggja bak við íslensku stafina.",
+            "date": "2014-01-16 14:57:00",
+            "post_id": "547301",
+            "reply_to_id": "547289"
+        },
+        {
+            "user_name": "Garri",
+            "text": "Sæll\nBúinn að leysa þetta.. componentið sem ég var að nota (reyndar aðeins í rönntæm) var með properties sem heitir, charset. Það var sett default við \"creation\" sem \"ANSI_CHARSET\" og það í textastreng. Með því setja þetta properties í \"ISO-8859-1\" þá snarhætti að koma mínusar og skv. þjónustumanni sem ritaði: \n\"Mér sýnist þetta vera komið í lag núna þetta er allavega ekkert tékkað í okkar síum núna og engin stig sem koma. \"\nÉg þurfti m.ö.o. ekkert að hand-konverta strengjum í UTF-8 unicode eða í eitthvað annað. Enda bjóst ég svo sem við því, var bara ekki viss á hvaða charset ég ætti að nota með séríslenskum stöfum. \"ANSI_CHARSET\" virkar greinilega ekki.\nEdit: Var að forvitnast og notaði Gúgul aðeins, fann þetta fljótlega:\nEmails are tricky. There’s so many legacy systems to keep track of.\nGoogle Mail does it this way:\n \n Detect character encoding\n \nIf it’s ASCII, leave as ASCII\n \nIf it’s ISO-8859-1, deliver as ISO-8859-1/quoted printable\n \nIf it’s UTF-8, but only contains characters that could also be displayed as ISO-8859-1, convert to and deliver as ISO-8859-1/quoted printable.\n \nIf it’s UTF-8, deliver as UTF-8/base64\nThat’s neat, the system tries progressively newer encodings that are progressively more functional, but also more likely to break. The oldest encoding with the least necessary functionality, which also is the most compatible, is used.",
+            "date": "2014-01-16 15:21:00",
+            "post_id": "547304",
+            "reply_to_id": "547301"
+        }
+    ],
+    "date": "2014-01-16 13:06:00"
+}

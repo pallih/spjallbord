@@ -1,0 +1,58 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "71843",
+    "title": "Skjápælingar.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=71843",
+    "posts": [
+        {
+            "user_name": "steinarsaem",
+            "text": "Er að hugsa um að fjárfesta í þessum \nhttp://odyrid.is/vara/benq-zowie-xl2540-25-led-full-hd-16-9-240hz-skjar-svartur\nHann bíður uppá 240hz í gegnum display port kapal, en hinsvegar er ekki G-Sync möguleiki á honum.\nMín spurning er þessi, ætti maður frekar að fá sér G-Sync skjá eða þennan sem ég linkaði hérna inn?\nEr búinn að reyna að googla 240hz vs G-Sync en ekki fengið svarið sem ég er að leita að.\nEf ég á að vera alveg heiðarlegur að þá veit ég ekki hvað G-Sync og Freesync þíðir, en ég veit hinsvegar að 240hz er brill í fps leiki.\nTakk fyrirfram!\nSteinarSaem",
+            "date": "2017-01-11 18:43:00",
+            "post_id": "641099",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "kiddi",
+            "text": "G-Sync og FreeSync eru staðlar á sitthvoru kerfinu sem sér til þess að skjárinn læsir sig í takt við skjákortið og öfugt, þeas. að hver einasti rammi sem skjákortið framleiðir birtist samtímis á skjánum - hvorki fleiri né færri rammar, þetta gerir það að verkum að \"screen tearing\" gerist ekki, en tearing er þegar tveir eða fleiri rammar blandast saman, t.d. ef skjákortið framleiðir 3 ramma á sama tíma og skjárinn ræður við 1, eða öfugt. Þannig að þó þú sért með 240hz skjá en hvorki G-Sync né FreeSync stuðning þá er ekki sjálfgefið að þú verðir laus við þetta svokallaða screen tearing, en eflaust eru litlar líkur á að þú verðir var við screen tearing þar sem skjárinn er þetta hraður. Annars hef ég enga reynslu af þessum skjá \nHér er ágætis skýringamynd frá Nvidia sem sýnir hvað screen tearing er, þ.e. hvernig skjárinn les ramma á öðru tempói en skjákortið.\nÞetta eru afleiðingarnar að screen tearing, kannski svolítið dramatískt en sýnir samt um hvað þetta snýst:",
+            "date": "2017-01-11 18:48:00",
+            "post_id": "641102",
+            "reply_to_id": "641099"
+        },
+        {
+            "user_name": "MeanGreen",
+            "text": "Það fer líka eftir því hvernig skjákort þú ert með. G-Sync er fyrir nVidia kort og FreeSync er fyrir AMD kort.\nSamkvæmt \nþessu\n er skjárinn með Adaptive-Sync sem AMD kort styðja. Betra samt að spyrja þá áður en þú kaupir skjáinn hvort það sé rétt.\nEf þú vilt 240Hz skjá með G-Sync þá fer Asus ROG PG258Q að koma.... einhvern tímann.\nAnnars er þetta flott verð, að mínu mati, á þessum skjá.",
+            "date": "2017-01-11 19:19:00",
+            "post_id": "641105",
+            "reply_to_id": "641102"
+        },
+        {
+            "user_name": "steinarsaem",
+            "text": "http://m.tolvutek.is/vara/acer-predator-g9-593-71sy-leikjafartolva-svort\n þetta er vélin sem hann verður tengdur við.",
+            "date": "2017-01-11 19:58:00",
+            "post_id": "641109",
+            "reply_to_id": "641105"
+        },
+        {
+            "user_name": "upg8",
+            "text": "G-Sync er bara fyrir nVIDIA, freesync er öllum frjálst að nota og búið að samþykkja sem VESA staðal. Að styðja við G-Sync er að styðja við vendor lock-in hjá nVIDIA. Ef þú situr uppi með skjá sem styður einungis G-Sync þá ferðu ekki að kaupa kort frá AMD þó þú fáir betra kort fyrir minni pening... Næsta kynslóð af AMD kortum lúkkar vitkilega vel btw...",
+            "date": "2017-01-11 20:02:00",
+            "post_id": "641111",
+            "reply_to_id": "641109"
+        },
+        {
+            "user_name": "MeanGreen",
+            "text": "Þar sem þú ert með nVidia skjákort þá getur þú ekki notað FreeSync, heldur bara G-Sync. Hvaða leiki ertu að spila og hvað ertu að fá marga ramma á sekúndu? Þú þarft kannski ekki 240Hz skjá, heldur einhvern á bilinu 120-180Hz með G-Sync.",
+            "date": "2017-01-11 20:52:00",
+            "post_id": "641113",
+            "reply_to_id": "641111"
+        },
+        {
+            "user_name": "steinarsaem",
+            "text": "http://www.odyrid.is/vara/benq-zowie-xl ... ar-svartur\nVS.\nhttp://elko.is/acer-27-skjar-nvidia-g-sync",
+            "date": "2017-01-16 16:48:00",
+            "post_id": "641472",
+            "reply_to_id": "641113"
+        }
+    ],
+    "date": "2017-01-11 18:43:00"
+}

@@ -1,0 +1,114 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "77501",
+    "title": "Ubiquiti - Unify ?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=77501",
+    "posts": [
+        {
+            "user_name": "svavaroe",
+            "text": "Góðan dag.\nÉg þarf að huga að því að skipta út OpenMesh kerfi sem ég er með í rekstri.\nHvar hafa menn verið að versla sér á besta verðinu Ubiquiti unify access pointa ?\nEr kominn einhver reynsla á UAP-nanoHD ?\nÆtli ég þurfi ekki 4x senda eða svo. Hver þeirra með um sirka 50 devices allt í senn.\nSvo flakkar fólk á milli í húsinu.\nTakk fyrir.",
+            "date": "2018-10-17 09:37:00",
+            "post_id": "679291",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Benzmann",
+            "text": "ég mæli með \nhttps://www.eurodk.com/\nhef verslað við þá mikið, sendingartíminn er innan við viku minnir mig.",
+            "date": "2018-10-17 09:40:00",
+            "post_id": "679292",
+            "reply_to_id": "679291"
+        },
+        {
+            "user_name": "Cascade",
+            "text": "Staðfesti þetta með eurodk\nLangódýrast. Shipping ekki dýrt, er samt 2-3 daga UPS shipping, eins og hann sagði, undir viku (mín reynsla 3-4 dagar)",
+            "date": "2018-10-17 09:56:00",
+            "post_id": "679293",
+            "reply_to_id": "679292"
+        },
+        {
+            "user_name": "svavaroe",
+            "text": "Takk fyrir þetta kærlega.\nEr ekki allveg að skilja admin kerfið og hugbúnaðinn.\nÞarf ég þennan Unify CloudKey gæja til að admin'a sendana?\nEða er nóg fyrir mig að vera með unify hugbúnað á makkanum til að admina access pointana þegar ég þarf?\nÞetta er ekki mörg hús, heldur bara eitt. þannig að single site.",
+            "date": "2018-10-17 09:59:00",
+            "post_id": "679294",
+            "reply_to_id": "679293"
+        },
+        {
+            "user_name": "Njall_L",
+            "text": "Getur keyrt controllerinn beint af tölvu eða af CloudKey. Setti sjálfur fjótlega upp CloudKey til að geta komist inn á kerfið hvaðan sem er og til að geta verið með App í símanum.",
+            "date": "2018-10-17 10:04:00",
+            "post_id": "679295",
+            "reply_to_id": "679294"
+        },
+        {
+            "user_name": "Blues-",
+            "text": "Ég er að keyra Controllerinn á Raspberry Pi hjá mér ..\nSá enga ástæðu að kaupa Cloud Key þegar þetta keyrir fínt á Pi-inu ..",
+            "date": "2018-10-17 10:54:00",
+            "post_id": "679297",
+            "reply_to_id": "679295"
+        },
+        {
+            "user_name": "Kristján Gerhard",
+            "text": "Getur líka keyrt controllerinn í VM eða Docker ef þú ert svo útbúinn.",
+            "date": "2018-10-17 10:57:00",
+            "post_id": "679298",
+            "reply_to_id": "679297"
+        },
+        {
+            "user_name": "svavaroe",
+            "text": "Ok's cool.\nEr með nóg af vm svæði ef þess þarf. En þarf ég semsagt Cloud Key ef ég ætla að stússast eithvað í Appinu í símanum?",
+            "date": "2018-10-17 11:00:00",
+            "post_id": "679300",
+            "reply_to_id": "679298"
+        },
+        {
+            "user_name": "svavaroe",
+            "text": "Geggjað, vissi ekki að það væri hægt að keyra upp af ARM...",
+            "date": "2018-10-17 11:01:00",
+            "post_id": "679301",
+            "reply_to_id": "679300"
+        },
+        {
+            "user_name": "Kristján Gerhard",
+            "text": "Nei, þú þarft ekki Cloud Key. Það er döngullinn þeirra. CK keyrir hinsvegar instance af Controller hugbúnaðinum. Þú þarft þennan hugbúnað til að gera breytingar eða fá út gögn. Gerir ekkert án hans. Hann er, eins og fram hefur komið hægt að keyra á local vél, VM, Docker og RPi.\nGetur síðan notað sama Controllerinn til að stjórna fleiri en einu 'Site'.\nK.",
+            "date": "2018-10-17 11:08:00",
+            "post_id": "679302",
+            "reply_to_id": "679301"
+        },
+        {
+            "user_name": "svavaroe",
+            "text": "Glæsilegt. Takk fyrir þetta kærlega.\nSkelli mér á nokkra nanoHD og skipti þessu helvítis openmesh drasli út...",
+            "date": "2018-10-17 11:17:00",
+            "post_id": "679303",
+            "reply_to_id": "679302"
+        },
+        {
+            "user_name": "svavaroe",
+            "text": "Eitt enn. Hvaða sendingarmáta hafið þið verið að nota?\nUPS? virðist ódýrast frá þeim, kemur það upp að dyrum er það ekki ?\nÞarf að panta þetta en verð sjálfur persónulega ekki á landinu í næstu viku, vill helst að þetta sé komið þegar ég kem til baka.",
+            "date": "2018-10-18 10:59:00",
+            "post_id": "679363",
+            "reply_to_id": "679303"
+        },
+        {
+            "user_name": "Cascade",
+            "text": "Hef verið að nota\nUPS World Wide Saver\nHefur minnir mig alltaf verið ódýrast og fljótast\nSvo hringja þeir oft í mig og spyrja hvort ég vilji þetta heim eða vinnuna, ég fæ þetta svo alltaf í vinnuna\nLosna við vesenið að þetta sé að koma heim þegar enginn er heima. \nEkkert mál að vera í símasambandi við UPS á íslandi daginn sem þetta er að koma, mjög þægilegt",
+            "date": "2018-10-18 11:45:00",
+            "post_id": "679367",
+            "reply_to_id": "679363"
+        },
+        {
+            "user_name": "svavaroe",
+            "text": "Takk fyrir kærlega.",
+            "date": "2018-10-18 11:51:00",
+            "post_id": "679368",
+            "reply_to_id": "679367"
+        },
+        {
+            "user_name": "kelirina",
+            "text": "eða fá þér edgerouter og notast við UNMS  sjá: \nhttps://unms.com/\nþarft þá ekki cloud key",
+            "date": "2018-10-18 17:32:00",
+            "post_id": "679384",
+            "reply_to_id": "679368"
+        }
+    ],
+    "date": "2018-10-17 09:37:00"
+}

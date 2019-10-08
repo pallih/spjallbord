@@ -1,0 +1,30 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "47585",
+    "title": "Squid proxy með kerb authentication",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=47585",
+    "posts": [
+        {
+            "user_name": "vantarlinuxhjalp",
+            "text": "Er einhver linux gúrú hérna sem hefur áður sett upp squid proxy server með kerberos authentication og svo secondary basic ldap authentication fyrir þá sem eru ekki authenticated af kerb ?\nMálið er að við erum að setja einn slíkann hérna upp hjá fyrirtækinu sem ég er hjá, og við værum bara til í að fá gúrú til þess að aðstoða okkur við þetta.",
+            "date": "2012-05-03 13:01:00",
+            "post_id": "439245",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Skari",
+            "text": "Held að Myncvavavap gæti ekki orðað þetta betur.",
+            "date": "2012-07-13 07:45:00",
+            "post_id": "453593",
+            "reply_to_id": "439245"
+        },
+        {
+            "user_name": "marijuana",
+            "text": "?",
+            "date": "2012-07-18 21:58:00",
+            "post_id": "454869",
+            "reply_to_id": "453593"
+        }
+    ],
+    "date": "2012-05-03 13:01:00"
+}

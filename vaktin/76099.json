@@ -1,0 +1,72 @@
+{
+    "forum_title": "Símar, fartölvur, myndavélar og önnur farandstæki",
+    "id": "76099",
+    "title": "Icloud vandræði",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=26&t=76099",
+    "posts": [
+        {
+            "user_name": "gudsgis",
+            "text": "Ég er í miklum vandræðum með icloud - vonandi getur einhver snillingur hjálpað mér\nStaðan:\n- Er með iphone, er með 50GB icloud backup sem er orðið fullt og ég vill flytja myndirnar í tölvuna\n- Tengi símann við tölvuna og þar eru engar myndir inni, allt vistað í icloud og bara sýnishorn sem ég sé á símanum sjálfum\n- Reyni icloud for windows, þar á að vera hægt að downloada en það kemur bara brot af myndunum og engin process sést, eftir bið í marga daga\n- logga mig á icloud web síðuna og sé allar myndirnar, einungis hægt að haka í hverja mynd fyrir sig og sækja, virkar ekkert ctrl, shift neitt\nMér finnst eins og Apple hafi stolið myndunum mínum og sé að þvinga mig að nýta hýsinguna sína !!!  \n \nKann einhver snillingur leið framhjá þessu ?",
+            "date": "2018-04-19 13:49:00",
+            "post_id": "670814",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "iCloud er mjög furðulegt fyrirbæri, og er í raun ekki backup kerfi eins og Google Drive eða Dropbox.\nÞetta er bara hugsað svo myndirnar þínar glatist ekki ef síminn þinn glatast eða eyðileggst, þá geturðu keypt þér nýjan síma og myndirnar verða þá aðgengilegar í honum.\nÞað er ekki gert ráð fyrir því að þú sért að tæma símann þinn til þess að eiga meira pláss á iCloud, heldur bara að þú getir keypt stærri pakka.\nAllt verður sum sé að vera til á tveimur stöðum - bæði á símanum þínum eða tölvunni OG á iCloud. Ekki bara á iCloud",
+            "date": "2018-04-20 14:47:00",
+            "post_id": "670880",
+            "reply_to_id": "670814"
+        },
+        {
+            "user_name": "gudsgis",
+            "text": "Ég hélt einmitt að þetta væri bara backup. En nú hefur apple fært allar original myndirnar á icloud og ég sit eftir með sýnishorn sem ég get ekki sótt í tölvuna mína. Þetta er alveg fáránlegt.\nÞað hlýtur að vera leið að geta sótt gögnin sín sem apple hýsir ??",
+            "date": "2018-04-20 18:33:00",
+            "post_id": "670891",
+            "reply_to_id": "670880"
+        },
+        {
+            "user_name": "kornelius",
+            "text": "þetta er ein af mörgum tugum ef ekki hundruðum ástæðna þess að ég kaupi mér ekki vörur frá apple.",
+            "date": "2018-04-21 00:06:00",
+            "post_id": "670939",
+            "reply_to_id": "670891"
+        },
+        {
+            "user_name": "Tiger",
+            "text": "Geggjað, þá verður styttri röð fyrir mig næst.\nÞetta tók heilar 30 sec á google og simple as it gets.\nIcloud fyrir Windows, smella á tackbar icon, velja download photos, og velja svo hvaða myndir þú vilt. \nEr á Windows 7 vél og eg valdi 2013 hjá mér þar sem það voru bara 200 myndir, er að malla núna að sækja myndinrar og vistast hérna C:\\Users\\þitt.nafn.herna\\Pictures\\iCloud Photos\\Downloads\\2013",
+            "date": "2018-04-21 09:26:00",
+            "post_id": "670962",
+            "reply_to_id": "670939"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Sæktu Google Photos appið á iOS tækin þín.\nÞað vistar myndir frítt og eyðir af tækinu.",
+            "date": "2018-04-21 19:36:00",
+            "post_id": "671000",
+            "reply_to_id": "670962"
+        },
+        {
+            "user_name": "gudsgis",
+            "text": "Eins og ég nefndi í upphafi þá reyndi ég Icloud fyrir Windows en folderarnir urðu til fyrir hvert ár, en bara lítið brot af myndunum fóru í folderanna (um 1,5gb af 50gb) og það er vika síðan og ekkert bæst við. Svo einhverra hluta vegna virkar þetta ekki í mínu tilfelli.",
+            "date": "2018-04-23 00:14:00",
+            "post_id": "671079",
+            "reply_to_id": "671000"
+        },
+        {
+            "user_name": "pepsico",
+            "text": "Það getur allur hugbúnaður klikkað og þá er sjaldan það áhrifaríkasta að gefast bara upp og bölvast og skammast. Ég hef notað þessa aðferð til að hala niður öllum myndunum á iCloud oft, fyrir sjálfan mig og aðra, og ég þekki mikið af fólki sem hefur notað þessa aðferð og hef ekki heyrt af því að hún hafi klikkað. \nMín ráð til þín til að þú þurfir ekki að nota trix til að sækja myndirnar er að uninstalla iCloud for Windows, tryggja að þú sért með 50GB af plássi laus þar sem að myndirnar munu halast niður, og reyna svo aftur.",
+            "date": "2018-04-23 14:00:00",
+            "post_id": "671099",
+            "reply_to_id": "671079"
+        },
+        {
+            "user_name": "gudsgis",
+            "text": "Aftengdi iclouds accountinn og loggaði migg inn og downloadaði myndunum í nokkrum skrefum - þá virkar þetta. Thx.",
+            "date": "2018-04-24 22:27:00",
+            "post_id": "671179",
+            "reply_to_id": "671099"
+        }
+    ],
+    "date": "2018-04-19 13:49:00"
+}

@@ -1,0 +1,30 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "41513",
+    "title": "AMD FX, -heimsmet slegið í yfirklukkun",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=41513",
+    "posts": [
+        {
+            "user_name": "upg8",
+            "text": "AMD FX Yfirklukkaður í 8.429GHz með svolítið röttækum aðferðum en léttilega hægt að yfirklukka í 5Ghz+ með loftkælingum eða ódyrum vatnskælingum.\nhttp://blogs.amd.com/play/2011/09/09/guinness/",
+            "date": "2011-09-13 18:43:00",
+            "post_id": "379700",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "mercury",
+            "text": "og hvernig er þessi að standa sig vs 2500 og 2600k ???",
+            "date": "2011-09-13 18:49:00",
+            "post_id": "379703",
+            "reply_to_id": "379700"
+        },
+        {
+            "user_name": "KristinnK",
+            "text": "Það er vandamálið, enginn veit, það hefur engin benchmarks af final production Zambezi lekið.\nEn mikið er það spennandi að sjá hvernig þessi radíkalt nýja uppbygging örgjörva reynist í fyrstu kynslóð. Ég hef trú á að þetta auka integer arithemetic unit verði almennt eftir 2-3 kynslóðir örgjörva, en það tekur tíma að sjá í hvaða hlutföllum er best að hafa restina af örgjörvanum, þ.e. registrers, control units, cache, etc.\nÞað á samt að koma Enhanced Bulldozer strax á næsta ári, sem mun aftur auka afköstin.\nEDIT: Það er fyndið að þessir game-changers koma yfirleitt frá AMD, þótt að það sé tíu sinnum minna fyrirtæki en Intel. Þegar Intel var að auka og auka klukkuhraðann á P4, með tilheyrandi aukninni orkunoktunar og varma, setti AMD fram Athlon XP, með mun fleiri Instructions Per Clock en nokkurn örgjörvi frá Intel. Og AMD hannaði AMD64 protocolið, sem Intel leigja, og markaðsetja undir Intel 64 (ég tel ímyndunaraflið vera sterkasti eiginleiki Intel). Og núna eru AMD fyrstir til að breyta hvað felst í einum örgjörvakjarna, með að bæta við heiltölureikni.",
+            "date": "2011-09-13 19:51:00",
+            "post_id": "379733",
+            "reply_to_id": "379703"
+        }
+    ],
+    "date": "2011-09-13 18:43:00"
+}

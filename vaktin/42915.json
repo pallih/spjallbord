@@ -1,0 +1,79 @@
+{
+    "forum_title": "Koníakstofan",
+    "id": "42915",
+    "title": "Hjálp með stærðfræði",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=9&t=42915",
+    "posts": [
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Sælir. Ég er í smá vandræðum með að skilja eitt hérna.\nÍ d lið, þá skil ég ekki alveg hvernig bókin fer að því að umskrifa jöfnuna með því að nota sum og quotient rule. Er einhver hérna sem getur frætt mig um þetta?",
+            "date": "2011-11-04 12:22:00",
+            "post_id": "393778",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Deilir í gegn með n^6.\nÞá stefnir (4/n^6) á 0 þegar að n stefnir á óendanlegt. Sama með (3/n^6). Þetta notar product rule.\nÞá ertu kominn með bara (0-7)/(1+0).",
+            "date": "2011-11-04 12:25:00",
+            "post_id": "393780",
+            "reply_to_id": "393778"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Sýnist það eina sem gerist í d-lið vera að það er að öllum stærðum er deilt með n^6. Reglurnar eru svo notaðar til einföldunar, en eru nánast óþarfar, því þetta eru það einföld dæmi.",
+            "date": "2011-11-04 12:28:00",
+            "post_id": "393782",
+            "reply_to_id": "393780"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Ókei, þannig að í svipuðu dæmi (1 - n^3)/(70 - 4n^2) myndi maður deila með n^3 eða n^2?\nn^2 ekki satt?",
+            "date": "2011-11-04 12:37:00",
+            "post_id": "393784",
+            "reply_to_id": "393782"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Ef þú ert að láta n stefna á óendanlegt þá er markgildið í þessu dæmi óendanlegt (eða ekki til ef að þú vilt vera pott þéttur).",
+            "date": "2011-11-04 12:50:00",
+            "post_id": "393788",
+            "reply_to_id": "393784"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Jább ég held ég sé að ná þessu núna. Takk fyrir.",
+            "date": "2011-11-04 12:52:00",
+            "post_id": "393789",
+            "reply_to_id": "393788"
+        },
+        {
+            "user_name": "J1nX",
+            "text": "holy mother of god.. hvaða áfangi er þetta eiginlega?? stæ999 ?",
+            "date": "2011-11-04 14:26:00",
+            "post_id": "393823",
+            "reply_to_id": "393789"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Kunniði eitthvað mikið á runur? T.d. hvernig á að finna summu óendanlegrar raðar. Hvernig finnur maður t.d. summuna í dæminu hér að neðan?\n703",
+            "date": "2011-11-04 14:26:00",
+            "post_id": "393824",
+            "reply_to_id": "393823"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Þú getur leyst þetta upp í tvær raðir.\nBáðar eru frá n= 0 upp í óendanlegt.\nEin er 1/2^(2n) og hin er 1/2^(1+n/2).\nSíðan ættiru að vera með reglu sem að segir þér hvernig þú reiknar úr þessu.\nSvarið er 2 + sqrt(2).\nEDIT: Ég virðist hafa klúðrað e-u í mínum reikningum, en svarið er rétt.",
+            "date": "2011-11-04 15:02:00",
+            "post_id": "393835",
+            "reply_to_id": "393824"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Jamm svarið er rétt en málið er bara að hvorki bókin né glósurnar frá kennaranum skýra nógu vel hvernig maður á að athafna sig við að reikna þetta.\nEn ég reyni að krafsa eitthvað útúr þessu. Ég held ég sé að skilja þetta nokkurnveginn.",
+            "date": "2011-11-04 16:32:00",
+            "post_id": "393854",
+            "reply_to_id": "393835"
+        }
+    ],
+    "date": "2011-11-04 12:22:00"
+}

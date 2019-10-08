@@ -1,0 +1,51 @@
+{
+    "forum_title": "Leikjasalurinn",
+    "id": "31128",
+    "title": "Cod Mw2 Resurgence freeze! drasl!",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=14&t=31128",
+    "posts": [
+        {
+            "user_name": "Don Vito",
+            "text": "Ókei, keypti mér resurgance pakkann sem kom í dag, get spilað cod en ekki þetta resurgence drasl, ég kemst inn í lobbý og það, en um leið og mapið byrjar að lódast þá frís leikurinn, og þetta er ég lítið sáttur með, er einhver hérna sem getur sagt mér hvað er að?\njá og cod útgáfan mín er fullkomnlega lögleg...",
+            "date": "2010-07-07 00:44:00",
+            "post_id": "270738",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Ef þú átt Stimulus farðu þá í: C:\\Program Files\\Steam\\steamapps\\common\\call of duty modern warfare 2\\zone\\dlc og delete-aðu einhverjum .ff file þar. Hægri klikkaðu síðan á MW2 Multiplayer í Games Library og farðu í Properties > Local Files > Verify integrity of game cache. Steam validate-ar allan leikinn og finnur að það vantar 1 file í dlc möppuna og segjist downloada honum. Í leiðinni ætti það að ná í restina af möppunum.\nEf það virkar ekki, eða þú ert ekki með Stimulus pakkann, þá er annað fix sem er í boði: Hægri klikkaðu á MW2 Multiplayer í Games Library og farðu í Properties > Updates > Stilltu Automatic Updates á \"Do not automatically update this game\" > ýttu á Close. Farðu síðan aftur í sama glugga og stilltu aftur á \"Always kepp this game up to date\". Þegar þú ýtir á Close ætti það að byrja að update-a, ef það byrjar ekki að update-a, prófaðu þá að restarta Steam.\nÞetta eru fixin sem virkuðu fyrir mig og mína vini í kvöld. En hjá einum var þetta mjög tregt og hann þurftu að delete-a MW2 úr tölvunni og setja upp gamalt backup sem hann átti og láta Steam update-a leikinn aftur. Þá komu möppin inn en hann þurfti samt að gera Verify Integrity of game cache aftur.\nÞetta er eitthvað rosalegt bras þetta Resurgance update. Við vorum 6 að ná í þetta í kvöld og það gekk bara upp hjá einum að ná í þetta í fyrstu tilraun. Ég notaði fyrra fixið sem ég útskýrði, sendi síðan file-ana til bróðirs míns gegnum lan, 2 notuðu Automatic Updates fixið og síðan er þessi eini sem ég sagði frá áðan.\nJá, eitt einn. Ég mæli með að setja bara upp Private Match á meðan þú ert að brasa við þetta til að athuga hvort þetta er komið í lag. Hundleiðinlegt að fara í lobby og bíða eftir leik til að sjá hvort að leikurinn er ennþá að crasha eða ekki.",
+            "date": "2010-07-07 02:24:00",
+            "post_id": "270752",
+            "reply_to_id": "270738"
+        },
+        {
+            "user_name": "Don Vito",
+            "text": "Ég á stimulus, og reyni að redda þessu á morgun, takk æðislega, þú ert topp gaur!",
+            "date": "2010-07-07 02:27:00",
+            "post_id": "270753",
+            "reply_to_id": "270752"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Minnsta málið. Gangi þér vel að redda þessu",
+            "date": "2010-07-07 02:29:00",
+            "post_id": "270754",
+            "reply_to_id": "270753"
+        },
+        {
+            "user_name": "Ripparinn",
+            "text": "\"completely close steam, go into your steamapps folder and delete the resurgence ncf and cgf files, restart steam and verify integrity of game cache, it will then re download and work, did for me.\"\ngoogle \nog virkaði hja mer btw",
+            "date": "2010-07-07 04:52:00",
+            "post_id": "270760",
+            "reply_to_id": "270754"
+        },
+        {
+            "user_name": "Don Vito",
+            "text": "Danni V8, ég gerði alveg eins og þú sagðir og þetta lagaðist, takk æðislega enn og aftur!",
+            "date": "2010-07-07 09:15:00",
+            "post_id": "270767",
+            "reply_to_id": "270760"
+        }
+    ],
+    "date": "2010-07-07 00:44:00"
+}

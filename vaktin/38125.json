@@ -1,0 +1,79 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "38125",
+    "title": "Almennilegt heimasmíðað backup kerfi",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=38125",
+    "posts": [
+        {
+            "user_name": "izelord",
+            "text": "Sælir vaktarar.\nNú er svo komið að ég þarf að tryggja mig fyrir gagnatapi. Þegar ég framkvæmi eitthvað þá fer ég alla leið með það, enda dugar hálfkák sjaldnast. \nÞað sem ég ætla að setja upp er í senn gagnaþjónn og afritunarþjónn. Ég vill hafa afritunarferlið einfalt gagnvart endanotanda, sjálfvirkt, hraðvirkt og öruggt. Ég vill geta sýslað með gögnin í rauntíma. \nUppsetningin sem ég hafði í huga er eftirfarandi:\nStaðsetning A - Þjónn 1:\nLinux vél uppsett með 6TB í Raid 5 sem gefa heildarpláss upp á 4TB. Einn diskur má klikka án gagnataps.\nStaðsetning B - Þjónn 2:\n \nLinux vél uppsett með 6TB í Raid 5 sem gefa heildarpláss upp á 4TB. Einn diskur má klikka án gagnataps.\nÞjónn 1 og 2 eru samhæfðir í rauntíma yfir 100mbit ljósleiðara. Þeir keyra nákvæmlega sömu uppsetningu og innihalda nákvæmlega sömu gögn. Hvor um sig er tryggður gagnvart ónýtum disk og það að hafa þá á sitthvorum staðnum gerir þetta að \"offsite backup\" uppsetningu sem tryggir gögnin gagnvart eldsvoða, innbrotum, vatnsleka osfrv.\nStaðsetning A - Þjónn 3:\nLinux vél uppsett með 6TB í Raid 5 sem gefa heildarpláss upp á 4TB. Einn diskur má klikka án gagnataps.\nSoftware offline vél sem tekur afrit af Þjóni 1 annan hvern morgun kl 5 þegar minnstar líkur eru á annarri gagnavinnslu. Þetta er til að tryggja gagnvart mistökum endanotanda (eyðing á röngum skrám) sem og ýmsum öðrum kvillum (vírusum og tölvuárásum) sem gætu hrjáð hinar stæðurnar.\nÞessi uppsetning sem ég hef í huga gerir það að verkum að hvor gagnastæða um sig gefur staðsetningu A og B aðgang að tryggðum og samhæfðum gögnum á 1Gbit hraða innandyra. Heildarstærð er \"ekki nema\" 4TB sem þó dugar 99% heimila upp á helstu gögn að gera. Ég hef ekki mikið hugsað út í aðgangsstýringu gagnanna, dulkóðun þeirra eða þvíumlíku þar sem ekki væri um að ræða gögn sem ekki mættu fara á b2. \nÉg ákvað að henda þessu hingað inn til að fá ykkar álit á þessari uppsetningu. Ég geri mér grein fyrir því að kostnaðurinn er þannig séð mikill fyrir \"örugg 4TB\" en ég sé ekkert annað í boði.\nMenn mega endilega henda inn hugmyndum að sync hugbúnaði og öðrum hugbúnaði.",
+            "date": "2011-04-25 20:17:00",
+            "post_id": "343729",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "urban",
+            "text": "er ekki svolítið overkill að vera með 18 TB pláss og nýta ekki nema 4 TB ?\nþarftu 3 þjóna ?\ner einhver sérstakur tilgangur á því ?\náttu ekki að geta verið með 2 ?",
+            "date": "2011-04-25 20:27:00",
+            "post_id": "343734",
+            "reply_to_id": "343729"
+        },
+        {
+            "user_name": "izelord",
+            "text": "Ég fór akkúrat yfir þessa tölu nokkrum sinnum í hausnum og var mikið að spá í þessari \"sóun\" á 12TB. Það sem þriðji þjónninn þó gerir er að tryggja gögnin gagnvart mistökum notenda. Það þarf að hafa í huga að það yrði unnið með gögn á báðum hinum þjónunum. \n\"Hvað ef notandi eyðir rangri möppu?\"\nMistökin myndu syncast frá þjóni 1 yfir á þjón 2 (vice versa) og gögnin myndu endanlega glatast. \nEitt sem ég reyndi pældi í núna væri ákveðin tvískipting á gögnunum. Þá yrðu aðeins tveir þjónar sem myndu ekki uppfæra öll gögnin í rauntíma heldur væri til ákveðið rauntíma svæði með ákveðnum möppum sem myndu uppfærast í rauntíma. Restin myndi svo syncast á milli á 2 sólarhringa fresti. Nú megið þið koma með ábendingar um hugbúnað sem gerir þetta kleyft.",
+            "date": "2011-04-25 20:36:00",
+            "post_id": "343736",
+            "reply_to_id": "343734"
+        },
+        {
+            "user_name": "tdog",
+            "text": "Hefuru hugsað út í eitthvað svipað og TimeMachine gerir? Tekur s.s delta afrit og geymir ? Þannig þú ert alltaf með „full backup“ í rauninni.\nÉg fór á stúfana og rakst á \nþessa\n lausn, byggir á rsync.",
+            "date": "2011-04-25 20:51:00",
+            "post_id": "343743",
+            "reply_to_id": "343736"
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Þar sem þú ætlar að keyra linux þá hljómar \nDRBD\n fyrir þig. Þarna ertu með annað hvort synchronous speglun (þ.e. ef þú skrifar á cluster A þá skrifast það strax á cluster B) eða asynchronous. Síðan geturu notað rsync til að backupa þetta.",
+            "date": "2011-04-25 21:00:00",
+            "post_id": "343747",
+            "reply_to_id": "343743"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Kíktu á Bacula \nhttp://www.bacula.org/\nEr búinn að vera að skoða og gera prófanir á bacula undanfarnar vikur og er nú að vinna í því að láta bacula halda utan um öll afrit hjá okkur (hjá gíraffa)\nRsync og rsnapshot eru einnig gífurlega öflug og ég hef notað þau tól mikið, en þar sem þú sagðist vilja fara alla leið þá er bacula klárlega málið \nFyrir hvað er þessi afritun annars? Heimilis-gögn?\nÞað er til linux lausn sem heitir TimeVault",
+            "date": "2011-04-25 21:01:00",
+            "post_id": "343748",
+            "reply_to_id": "343747"
+        },
+        {
+            "user_name": "Televisionary",
+            "text": "Hvaða skráakerfi ætlarðu að nota? Þetta ver þig ekki fyrir skemmdum gögnum sem er hlutur sem ZFS ver þig fyrir. Ætlarðu að nota software raid eða vélbúnaðarraid? Þau gögn sem ég þoli alls ekki að missa afrita ég upp á netþjónustur eins og Amazon S3.\nMín uppsetning er ekkert ósvipuð:\nBox A\n4 móðurborðs SATA port + pci express + pci kontróller. (það liggur hérna 8 porta sas kontróller sem ég kem mér ekki í að setja í vélina víst hún keyrir og er í lagi)\nLinux box Ubuntu búið að keyra stabílt í 2 ár.\nXFS skráakerfi undir LVM, stærsti kosturinn að ég get hent disk í þetta þegar mér hentar og stækkað án vandræða, diskarnir mega vera misstórir.\nÞegar þessi vél var byggð sá ég til þess að \nRsync notað til að spóla gögnum á milli á Box B, þetta geri ég daglega s.s. öll gögn send yfir og gögn sem er búið að eyða á boxi A er ennþá til á boxi B. Mánaðarlega læt ég rsync henda gögnum af Boxi B sem búið er að eyða á Boxi A.\nBox B\nFreeBSD með ZFS.\nHérna eru 9 diskar og þeir eru settir saman úr 2 x 4 diska grúppum það má s.s. einn diskur deyja úr hvorri grúppu áður en gögnin fara fjandans til, 9. diskurinn er \"hot spare\".\nÞað eru 4 móðurborðs sata tengi notuð og 12 porta SAS kontróller (Ég var að skipta út ódýrari kontróllerum sem voru ekki að virka sem skildi.).\nÉg tek snapshot af öllum gögnum á einhverjum x tíma fresti. Þannig að ef eitthvað skemmist á Boxi A t.d. skemmd gögn eða einhver eyðir einhverju þá get ég ferðast aftur í tímann og gögnin eru komin til baka eins og til er ætlast með lágmarks fyrirhöfn.\nAllar þjónustur sem hin vélin keyrir eru líka keyrðar á þessari vél ssh, mt-daap (itunes), smb, nfs. Ef hin vélin hættir að svara svissa ég yfir á þessa. Ég er með skriftur sem bera saman möppur á vélunum þannig að ef vél A dettur út getur þessi verið \"master\" og hægt að synca hana yfir á A.\nBox C\nÞetta box er enn í smíðum. Vélin er komin ásamt SAS kontróller, ég á eftir að sækja diskana og finna einhvern til að hýsa hana fyrir mig.",
+            "date": "2011-04-25 22:31:00",
+            "post_id": "343766",
+            "reply_to_id": "343748"
+        },
+        {
+            "user_name": "izelord",
+            "text": "Þakka kærlega skjót og GÓÐ svör.\nÞað er klárt mál að ég ætla að skoða DRBD nánar þar sem lýsingin á því á mjög vel við það sem ég hafði í huga. Þarf svo að skoða rsync og bacula og ákveða hvor leiðin verður farin. \nÉg ætla að byrja á ódýrari (og hugsanlega einfaldari) leiðinni með 2 nodes. Nota DRBD til að synca LVM volume á milli þeirra tveggja sem ákveðið \"rauntímasvæði\" og nota svo eitthvað-tól-sem-ég-á-eftir-að-ákveða til að synca hin gögnin á tveggja sólarhringa fresti. Þannig ætti ég að fá mesta öryggið en þó töluverðan sveigjanleika og vinnsluhraða. \nEf það gengur svo ekki upp þá bæti ég við þriðja node með upprunalegu backup aðferðinni.\nTil að svara Garðari þá eru þetta þessi hefðbundnu heimilisgögn en ég er einnig áhugaljósmyndari og hef verið að fá verkefni því tengdu. Þegar hver ljósmynd tekur svo 20MB þá er það fljótt að safnast saman. Einnig er ég í klippivinnslu með öðrum aðila og þar kemur rauntímasvæðið inn til að deila efni til vinnslu.",
+            "date": "2011-04-25 22:52:00",
+            "post_id": "343777",
+            "reply_to_id": "343766"
+        },
+        {
+            "user_name": "izelord",
+            "text": "Frábært að fá að sjá svipaða uppsetningu. Ég var ekki búinn að ákveða skráarkerfi ennþá og ætla núna að skoða ZFS nánar. Ég er búinn að kaupa vélbúnaðarraid stýringu og fæ diskana fyrir node 1 á morgun.",
+            "date": "2011-04-25 22:57:00",
+            "post_id": "343780",
+            "reply_to_id": "343777"
+        },
+        {
+            "user_name": "tdog",
+            "text": "@Televisionary , ertu til í að deila þessum scriptum með okkur.",
+            "date": "2011-04-25 23:03:00",
+            "post_id": "343782",
+            "reply_to_id": "343780"
+        }
+    ],
+    "date": "2011-04-25 20:17:00"
+}

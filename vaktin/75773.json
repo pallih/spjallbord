@@ -1,0 +1,163 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "75773",
+    "title": "5g Wifi dettur stanslaust út",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=75773",
+    "posts": [
+        {
+            "user_name": "zaiLex",
+            "text": "Er búinn að vera með 100mps net hjá Hringdu í uþb ár. Hef verið að lenda í því frá upphafi að wifi 5g dettur út svona 1-3x á dag og ég þarf að restarta routernum. Er búinn að skipta um router og er búinn að vera í endalausum samskiptum við þá með þetta vandamál en ekkert virðist virka til að laga þetta. Það lítur ekki út fyrir að vera neitt vandamál á línugæðum. Það er spurning hvort það sé eitthvað tæki á heimilinu sem er að trufla (eða hjá nágranna). Hefur einhver lent í svipuðu vandamáli?",
+            "date": "2018-03-10 15:07:00",
+            "post_id": "668527",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "arons4",
+            "text": "Detta allir út af því?",
+            "date": "2018-03-10 15:17:00",
+            "post_id": "668528",
+            "reply_to_id": "668527"
+        },
+        {
+            "user_name": "zaiLex",
+            "text": "Já öll tæki tengd í wifi5g. wifi venjulega (2,4ghz held ég að það heiti) virkar samt og það er hægt að skipta yfir í það. öll snúrutengd tæki detta út.",
+            "date": "2018-03-10 16:14:00",
+            "post_id": "668529",
+            "reply_to_id": "668528"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Ef þú býrð nálægt Reykjavíkurflugvelli þá gengur radarinn hjá þeim á c.a. 5Ghz = á það til að fokka upp netsambandi á þessari tíðni á ákveðinni hæð, minnir að það sé c.a. á 2. hæð á Barnaspítalanum og upp úr.",
+            "date": "2018-03-10 16:23:00",
+            "post_id": "668532",
+            "reply_to_id": "668529"
+        },
+        {
+            "user_name": "zaiLex",
+            "text": "Er i Hafnafirði",
+            "date": "2018-03-10 16:36:00",
+            "post_id": "668533",
+            "reply_to_id": "668532"
+        },
+        {
+            "user_name": "Hizzman",
+            "text": "Við höfnina? Þar er einnig dót í bátum sem getur truflað wifi.",
+            "date": "2018-03-10 17:31:00",
+            "post_id": "668534",
+            "reply_to_id": "668533"
+        },
+        {
+            "user_name": "zaiLex",
+            "text": "Nei ekki við höfnina",
+            "date": "2018-03-10 18:52:00",
+            "post_id": "668537",
+            "reply_to_id": "668534"
+        },
+        {
+            "user_name": "Cascade",
+            "text": "En við hraunið?\nMjög þekkt hvað alfarnir geta gert við 5ghz\nÆj sorry varð \nSettu upp wifi analyzer a simann þinn og þa geturu skoðað hvaða channelum nágrannar þinir nota a 5ghz\nÞa geturu valið besta channelið fyrir þig \nAllavega hægt að byrja a þvi",
+            "date": "2018-03-10 19:17:00",
+            "post_id": "668538",
+            "reply_to_id": "668537"
+        },
+        {
+            "user_name": "BugsyB",
+            "text": "Segir þú að 2,4ghz haldist inni en 5ghz detti út og snúrutengs tæki detti út líka?????",
+            "date": "2018-03-10 20:30:00",
+            "post_id": "668539",
+            "reply_to_id": "668538"
+        },
+        {
+            "user_name": "arons4",
+            "text": "Það sem er að gerast á tíðninni nálægt þér á ekki að geta haft mikil áhrif á snúrutengd tæki, annaðhvort er routerinn bilaður eða eitthvað vitlaust stillt. Ertu búinn að eiga við einhverjar stillingar í routernum(td dhcp stillingar)?",
+            "date": "2018-03-10 20:35:00",
+            "post_id": "668540",
+            "reply_to_id": "668539"
+        },
+        {
+            "user_name": "jonfr1900",
+            "text": "Hvað gerist ef þú setur upp annað tæki sem sendir út á 5Ghz (svipaðri rás)?",
+            "date": "2018-03-11 03:40:00",
+            "post_id": "668551",
+            "reply_to_id": "668540"
+        },
+        {
+            "user_name": "russi",
+            "text": "Þetta er undarlegt fyrst þetta gerist eins og aðrir hafa komið inná.\nSmá spurningar: \n1: Ertu með einhvern AP, ef svo er er hann þá tengdur í Switch? Framhald af því, eru þá þessi snúrutengdu tæki tengd í sama switch?\n2: Eða ertu eingöngu með routerinn og hann sér um Wifi og snúrutengt tæki eru tengd í hann?\n3: Þegar þú talar um Snúrutengt tæki, áttu þá við móttakara fyrir IPTV(frá Vodafone eða Sjónvarpi Símans) eða ertu að tala um tölvu/appletv/android-box?\nLíkleg svör:\n1: Ef þú ert með þetta allt í gegnum sér switch, gæti hann þá ekki verið vandamálið\n2: Ef þetta er svona hjá þér, þá er routerinn eða switchinn í honum líkleg orsök vandamálsins.\n3: Þessu get ég ekki svarað nema fá nánari upplýsingar",
+            "date": "2018-03-11 10:23:00",
+            "post_id": "668553",
+            "reply_to_id": "668551"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Eru einhver rafmagnstæki nálægt routernum?",
+            "date": "2018-03-11 10:42:00",
+            "post_id": "668554",
+            "reply_to_id": "668553"
+        },
+        {
+            "user_name": "raekwon",
+            "text": "Hjá mér gerðist svipað nema þá fraus routerinn, kom í ljós að portið á routernum hjá gagnaveitunni var bilað og virkaði í hinu portinu nokkurn veginn en gagnaveitan vildi aldrei skipta um boxið svo míla kom á endanum og bjargaði þessu... Svo að prófaðu annað port á ljósleiðaraportinu eða setja switch þar á milli til að kannski verja routerinn þinn",
+            "date": "2018-03-11 16:30:00",
+            "post_id": "668561",
+            "reply_to_id": "668554"
+        },
+        {
+            "user_name": "HringduEgill",
+            "text": "Hljómar eins og við þyrftum að senda einhvern heim til þín. Sendi þér skilaboð!",
+            "date": "2018-03-14 15:42:00",
+            "post_id": "668716",
+            "reply_to_id": "668561"
+        },
+        {
+            "user_name": "zaiLex",
+            "text": "Er ekki með neinn AP eða switch, er bara með þennan router: \nVMG8924-B10D\nhttps://www.zyxel.com/products_services ... ies/photos\nÞetta er routerinn sem Hringdu skaffar fyrir þá sem eru ekki með aðgang að ljósleiðara bara \"venjulegu\" neti (er í Setbergi Hafnafirði)\nHann sér um wifi síðan er ég með eina borðtölvu snúrutengda, það er eina snúrutengda tækið. Var með annan router frá þeim fyrst þar sem það var sama vandamál þannig hugsa að þetta sé ekki routerinn.\nJá það eru ýmis rafmagnstæki svona 1m frá routernum.\nVirðist ekki vera routerinn sem er vandamálið sjá að ofan.\nMig grunar að þetta gerist frekar þegar mörg tæki eru tengd í einu, hef samt ekki náð að einangra þetta við eitthvað eitt tæki. T.d. í gær þegar ég opnaði Macbookina mína þá datt netið út en þetta vandamál var til staðar áður en ég keypti mér þá tölvu. Svo að það spurning hvort að þetta detti stundum út þegar það er að koma nýtt tæki inn á netið þegar það eru mörg fyrir.",
+            "date": "2018-03-14 15:53:00",
+            "post_id": "668718",
+            "reply_to_id": "668716"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Þú veist að 5Ghz er veikara merki og drífur ekki í gegnum jafn mikið af hlutum og er næmara fyrir truflun?\nÞað eru ótal hlutir á heimilinu sem geta verið að skemma merkið frá routernum, og 2.4Ghz merkið er sterkara.",
+            "date": "2018-03-14 17:10:00",
+            "post_id": "668723",
+            "reply_to_id": "668718"
+        },
+        {
+            "user_name": "russi",
+            "text": "Bróðir minn lenti í þessu með router frá Vodafone, þegar voru kominn ákveðið mörg tæki á WiFi hjá honum þá fór allt í kleinu, hann prófaði aðra senda og það var það sama, ég lét hann fá annan router og hef síðan ekki heyrt hann skæla um netmál, hann skælir bara yfir einhverju öðru í staðinn",
+            "date": "2018-03-14 17:12:00",
+            "post_id": "668724",
+            "reply_to_id": "668723"
+        },
+        {
+            "user_name": "zaiLex",
+            "text": "Nei vissi það ekki. Er einhver að nota 2,4ghz? allavega þegar ég er einu herbergi frá routernum þá er ég með undir 1mb í hraða.",
+            "date": "2018-03-18 16:17:00",
+            "post_id": "668923",
+            "reply_to_id": "668724"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "5Ghz er hraðara í sjónlínu við router, en við íslenskar aðstæður með 30cm þykka veggi sem eru stútfullir af steypu og járni þá er yfirleitt betra að halda sig við 2.4Ghz.",
+            "date": "2018-03-18 17:00:00",
+            "post_id": "668924",
+            "reply_to_id": "668923"
+        },
+        {
+            "user_name": "pepsico",
+            "text": "Það er fleiri en einn maðkur í mysunni. \nEf að 5GHz og snúrutengd tæki detta út á sama tíma en ekki 2,4GHz er ekki annað hægt en að horfa beint á routerinn.\nÞað er líka erfitt að horfa framhjá því að 2,4GHz ætti aldrei að vera 1Mbps einu herbergi frá router, hvað þá ef að 5GHz stendur sig flott.\nÞá er bara einhver sturluð truflun á 2,4GHz að eiga sér stað.\nPrófaðu að skipta um Channel á 2,4GHz í routernum. Prófaðu Channelin í sirka þessari röð þar til best gengur: 1, 6, 11, 3, 8, 13 og svo rest.",
+            "date": "2018-03-18 19:55:00",
+            "post_id": "668926",
+            "reply_to_id": "668924"
+        },
+        {
+            "user_name": "steinarsaem",
+            "text": "Ertu með einhverjar snjallperur tengdar? Ég lenti í svipuðu og þú, þá kom það í ljós að það var Philips HUE ljósa brúin sem var að fokka.",
+            "date": "2018-03-19 10:53:00",
+            "post_id": "668942",
+            "reply_to_id": "668926"
+        }
+    ],
+    "date": "2018-03-10 15:07:00"
+}

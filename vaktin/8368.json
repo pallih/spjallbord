@@ -1,0 +1,142 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "8368",
+    "title": "Almennar netkerfisspurningar og svör - part 1",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=8368",
+    "posts": [
+        {
+            "user_name": "MezzUp",
+            "text": "Jæja,\n\n\n\nÉg tók áfangann Netkerfi 112 á seinustu önn við Fjölbrautaskóla Suðurnesja, og hafði nokkuð gaman af. Þessi áfangi er fræðilegur og fjallar um grunninn að netkerfum og öllu sem að því snýr. Ég gerði þrjú heimdæmi í þessum áfanga sem að mig hefur lengi langað að deila með ykkur en aldrei komið mér að því. En núna loksins skellti ég heimadæmum 1 á PDF form sem að ég hugsa að flestir hérna geta skoðað. Áætlunin er að skella heimadæmum 2 hingað á morgun og heimadæmum 3 á föstudaginn. Vonandi verði þið einhverju fróðari eftir lesturinn á þessum pistlum mínum.\n\nEn jæja, án frekari kynningar býð ég ykkur \nNet112 - Heimadæmi 1.pdf\n\n\n\n\nEndilega reynum að koma einhverri umræðu af stað um þetta efni. Hvort að það eru spurningar, leiðréttingar, pælingar, gagnrýni...\n\n\n\nKv. MezzUp",
+            "date": "2005-05-26 00:33:00",
+            "post_id": "89890",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "natti",
+            "text": "Kannski heldur til stór fullyrðing. Nú hef ég ekki kynnt mér þetta neitt sérstaklega vel, en líklega reyna framleiðendur að hátta því þannig að engin tvö netkort á sama svæði/markaði/heimsálfu séu með sömu mac addressu.\n\nÞví ég hef orðið vitni að því að tvö netkort hafa verið með sömu MAC.\n\n\n\nAð öðru leiti fínt",
+            "date": "2005-05-26 09:55:00",
+            "post_id": "89893",
+            "reply_to_id": "89890"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "þurfa þeir ekki bara að fá úthlutað einhverjum addressum frá einhverjum \"miðpunkti\" ?",
+            "date": "2005-05-26 10:15:00",
+            "post_id": "89896",
+            "reply_to_id": "89893"
+        },
+        {
+            "user_name": "Andri Fannar",
+            "text": "Mjög fróðlegt",
+            "date": "2005-05-26 10:19:00",
+            "post_id": "89899",
+            "reply_to_id": "89896"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "natti: Ahh OK. Ég hélt kannski að framleiðendur væru skildugir til þess að hafa engar tvær MAC addressur eins. En alltaf lærir maður eitthvað nýtt \n\n\n\n\ngnarr: Ekki alveg. Þeir fá fyrri helminginn af addressunni úthlutaðan frá IEEE, en seinni helmingnum mega þeir ráða eftir eigin höfði.",
+            "date": "2005-05-26 10:24:00",
+            "post_id": "89900",
+            "reply_to_id": "89899"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Með öðrum orðum, hverjum framleiðanda er úthlutað 'kippu' af macaddressum, til að tryggja að númerin skarist ekki.",
+            "date": "2005-05-26 10:59:00",
+            "post_id": "89902",
+            "reply_to_id": "89900"
+        },
+        {
+            "user_name": "natti",
+            "text": "Fjöldi framleiddra korta er örugglega meiri en fjöldi mögulegra mac-addressa.",
+            "date": "2005-05-26 12:16:00",
+            "post_id": "89907",
+            "reply_to_id": "89902"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "einhvernvegin efast ég um að það séu til meira en 281.474.976.710.656 netkort í heiminum..",
+            "date": "2005-05-26 12:32:00",
+            "post_id": "89909",
+            "reply_to_id": "89907"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Jamm, þetta er náttúrulega 2^48 tölur sem eiga að duga okkur soldið.\n\nSamkvæmt Wikipedia eiga að vera til nóg af MAC addressum enn sem komið er.\n\n\n\nOg eins og ég nefndi í dæmunum að ef að framleiðandi er búinn að gera fleiri en 2^24 tæki getur sá framleiðandi bara sótt um aðra 2^24 byrjunarkóða. Þannig getur netbúnaðir frá cisco t.d. haft nokkrar mögulegar byrjanir á MAC addressu",
+            "date": "2005-05-26 13:32:00",
+            "post_id": "89916",
+            "reply_to_id": "89909"
+        },
+        {
+            "user_name": "natti",
+            "text": "Spurning hvort það hafi þá bara verið fyrir mistök í framleiðslu að ég hafi séð 2 kort með sömu mac?",
+            "date": "2005-05-26 13:40:00",
+            "post_id": "89918",
+            "reply_to_id": "89916"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Verður náttúrulega að taka tillit til þess að það er örugglega erfitt að endurnýta MACAddressur.  Þetta er ekki eins og iptölur.. getur hent gömlu tölvunni og fengið þér nýja og haft áfram sömu iptölu.. en fær nýja MACAddressu.  Svo td. eru amk. tvær MACAddressur í hverri fartölvu.. sennilega mjög algengt að það séu þrjár (\nmódem, netkort og þráðlaust\n) .. þetta er ótrúlega fljótt að telja.",
+            "date": "2005-05-26 13:41:00",
+            "post_id": "89919",
+            "reply_to_id": "89918"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "við erum að tala um umþaðbil 46.000 mac addressur á hvern íbúa á jörðinni.",
+            "date": "2005-05-26 13:44:00",
+            "post_id": "89920",
+            "reply_to_id": "89919"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Kannski. Svo gæti þetta líka verið rétt sem að þú sagðir um sömu MAC addressu á sitthvoru svæðinu. En hvar sástu þessi 2 kort með sömu MAC addressu?\nNei, en spurning hvort að fyrirtæki séu kannski farinn að endurnýta MAC addressur sem voru á 10Base5 netkortum sem fóru í ISA raufar?\n\n\n\nEn eru módem örugglega með MAC addressu?",
+            "date": "2005-05-26 14:58:00",
+            "post_id": "89925",
+            "reply_to_id": "89920"
+        },
+        {
+            "user_name": "CraZy",
+            "text": "lekkert,mjög fróðlegt \n\n\n hehe",
+            "date": "2005-05-26 15:24:00",
+            "post_id": "89928",
+            "reply_to_id": "89925"
+        },
+        {
+            "user_name": "natti",
+            "text": "Sá þetta þegar ég var að leysa netvandmál somewhere, man ekki hvaða fyrirtæki, hérlendis.\n\n\nSpurning...",
+            "date": "2005-05-26 15:38:00",
+            "post_id": "89932",
+            "reply_to_id": "89928"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Ótrúlega algengt að menn hafi neft einhverja tölu og sagt \"þetta hlýtur að vera nóg\".. \nNo can do.  Hvernig eiga þeir að vita hvort netkortið sé enþá í notkun?  Þótt okkur finnist það eldgamalt og hallærislegt þá eru ótrúlegur fjöldi fyrirtæka og einstaklinga út um allann heim með hundgamlan velbúnað.\nNei, kannski ekki, taldi bara upp helstu adapterna.",
+            "date": "2005-05-26 15:42:00",
+            "post_id": "89933",
+            "reply_to_id": "89932"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Jújú, mér fannst kannski að það mætti gera ráð fyrir því að öll 10Base5 Netkerfi hafi verið lögð niður, en það er rétt hjá þér að það er rosalega mikið af gömlum búnaði enn í notkun.",
+            "date": "2005-05-26 17:06:00",
+            "post_id": "89940",
+            "reply_to_id": "89933"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Svoldið óskiljanlega settning.\n\n\n\nLíka einhverstaðar þar sem þú segir \"Fleirri tæknir..\" .. eða álíka.\n\n\n\nAnnars eru engar tæknilegar athugasemdir",
+            "date": "2005-05-26 21:56:00",
+            "post_id": "89953",
+            "reply_to_id": "89940"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Jamm, er ekki sá besti í að koma svona tækniefni frá mér.",
+            "date": "2005-05-26 22:16:00",
+            "post_id": "89957",
+            "reply_to_id": "89953"
+        }
+    ],
+    "date": "2005-05-26 00:33:00"
+}

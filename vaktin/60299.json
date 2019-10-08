@@ -1,0 +1,51 @@
+{
+    "forum_title": "Coins - Rafmynt",
+    "id": "60299",
+    "title": "Backup af wallet (AUR)",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=86&t=60299",
+    "posts": [
+        {
+            "user_name": "zypx",
+            "text": "Ég tók backup af walletinu mínu áður en ég formattaði. Hvernig set ég það inn?",
+            "date": "2014-03-28 04:14:00",
+            "post_id": "557173",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "worghal",
+            "text": "fyrst kreyra auroracoin-qt á tölvunni til að búa til rétta möppu og fæla í appdata.\nsvo ferðu í start og skrifar inn %appdata%\nnú ættiru að vera kominn í appdata\\roaming og þar inni ferðu í Auroracoin möppuna og replacear \"wallet.dat\" fælinn með backupinu þínu.\nmundu að hafa slökt á forritinu á meðan þú ert að færa fælinn yfir.\nmundu samt að eyða ekki út backupinu.",
+            "date": "2014-03-28 14:31:00",
+            "post_id": "557226",
+            "reply_to_id": "557173"
+        },
+        {
+            "user_name": "zypx",
+            "text": "Snilli",
+            "date": "2014-03-28 16:02:00",
+            "post_id": "557233",
+            "reply_to_id": "557226"
+        },
+        {
+            "user_name": "zypx",
+            "text": "Snilli",
+            "date": "2014-03-28 16:02:00",
+            "post_id": "557234",
+            "reply_to_id": "557233"
+        },
+        {
+            "user_name": "zypx",
+            "text": "En hérna ég \"encryptaði\" walletið mitt, hvar skrifa ég lykilorðið til að opna það? Það er nefnilega lás hægra megin niðri í \nauroracoin-qt.exe\n forritinu.",
+            "date": "2014-03-28 16:18:00",
+            "post_id": "557238",
+            "reply_to_id": "557234"
+        },
+        {
+            "user_name": "Frantic",
+            "text": "Þú þarft bara að decrypta þegar þú ert að millifæra.\nÞá biður forritið þig um að slá inn lykilorð.",
+            "date": "2014-03-28 16:56:00",
+            "post_id": "557248",
+            "reply_to_id": "557238"
+        }
+    ],
+    "date": "2014-03-28 04:14:00"
+}

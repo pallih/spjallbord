@@ -1,0 +1,128 @@
+{
+    "forum_title": "Koníakstofan",
+    "id": "65302",
+    "title": "Aríus.is - Vöruleitarvél",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=9&t=65302",
+    "posts": [
+        {
+            "user_name": "Bux",
+            "text": "Daginn Vaktarar,\nVið, Arnar & Ívar (ekki Grant & Guðmunds!), erum búnir að vera að dunda okkur við að búa til vöruleitarvél síðastliðna mánuði og okkur finnst hún vera orðin tilbúin í beta test, við erum komnir með 20 verslanir eins og er og yfir 25.000 vörur, okkur datt í hug að vaktin væri fullkominn staður til þess að gefa fyrstu aðgangana.\nArius.is nær í vörur frá netverslunum & geymir þær á einum stað, við erum búnir að vera að fylgjast með netverslunum núna í smá tíma og geymum verðin á dögum sem Aríus nær í. Þannig getum við borið saman verðin og búið til þægilega leið til þess að fylgjast með verðbreytingum.\nAðal ástæðan fyrir þessu verkefni hjá okkur var hinsvegar þægilegri leið til þess að t.d. setja saman heila tölvu með pörtum úr hinum ýmsu verslunum. Það kannast ábyggilega flestir hérna inni við það að eyða gríðarlegum tíma í það að skanna íslenskar vefverslanir og reyna að finna besta verðið á öllum vörunum sem maður ætlar sér að versla, með 30+ glugga opna og að reyna að skrifa þetta allt niður hjá sér. Við hentum því í þessa leitarvél ásamt því að gera ykkur kleift að búa til lista. Þar getið þið sett inn vörur sem þið veljið, það er þá hægt að búa til lista sem heitir “Nýja Mulningsvélin” og sett hana alla saman inn á Arius, einnig er hægt að búa til lista og gera hann “public”, sem er þá kjörið fyrir afmælisgjafir, brúðkaupsgjafir eða að hjálpa öðrum að setja upp nýja tölvu.\nSíðan geturðu auðveldlega prentað út listann ef þú vilt taka með þér í verslunina (ef þú vilt ekki versla vörurnar á netinu)\nMeð svona gríðarlegt magn af vörum þá er erfitt að flokka þær vel, þannig að við ákváðum að nota Machine Learning algorithma sem við kennum að þekkja vörur og getur þá flokkað vörur sem annars hefði tekið marga daga að flokka handvirkt. Hann verður síðan betri og betri því sem við kennum honum. Þetta segi ég vegna þess að stundum þá veit hann ekkert hvaða vöru hann er að skanna því við höfum aldrei sagt honum hvað það er, þannig að þið sjáið kannski nokkra brjóstarhaldara sem hann heldur að sé SSD diskur, hver hefur svo sem ekki lent í því að ruglast á því..\nLeitarvélin er komin þokkalega langt eins og er, og núna langar okkur að fá álit frá ykkur yfir hvað mætti betur fara. Við höfum opnað fyrir skráningu inn á \narius.is\n fyrir 50 notendur, svo læsist hún aftur. Ef þú hefur áhuga, skelltu þér þá yfir á \narius.is\n og skráðu þig, við værum svo óendanlega þakklátir ef þú gætir látið okkur vita hvað þér finnst, og ef það koma upp vandamál, með því að senda okkur email á \nmail@arius.is.\nTakk allir, bestu kveðjur\nArnar & Ívar.",
+            "date": "2015-04-16 15:17:00",
+            "post_id": "596528",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "dori",
+            "text": "Er einhver ástæða fyrir því að þið eruð með þetta bakvið login skjöld? Er það bara fyrir beta eða er einhver ástæða fyrir því að það er ekki hægt að nota tólið sem óþekktur notandi?",
+            "date": "2015-04-16 15:24:00",
+            "post_id": "596530",
+            "reply_to_id": "596528"
+        },
+        {
+            "user_name": "Bux",
+            "text": "Við erum bara í early beta stage núna og við viljum bara vera vissir um að það sé ekki allt út í fatal errors á síðunni áður en við opnum þetta meira, ákváðum að hafa þetta soft-launch og frekar að halda vel utan um þessa 50 notendur. Líka til þess að auðvelda okkur að svara feedback þegar það kemur.",
+            "date": "2015-04-16 15:27:00",
+            "post_id": "596531",
+            "reply_to_id": "596530"
+        },
+        {
+            "user_name": "nidur",
+            "text": "Viljið þið fá komment á þetta beint inn á þennan þráð?",
+            "date": "2015-04-16 15:44:00",
+            "post_id": "596532",
+            "reply_to_id": "596531"
+        },
+        {
+            "user_name": "Bux",
+            "text": "Já, endilega, við erum líka að taka á móti email á \nmail@arius.is\n, en við erum að fylgjast með hérna líka að sjálfsögðu",
+            "date": "2015-04-16 15:46:00",
+            "post_id": "596533",
+            "reply_to_id": "596532"
+        },
+        {
+            "user_name": "Hvati",
+            "text": "Þetta e flott hugmynd, mér finnst vanta að raða flokkunum upp einhvernveginn, eftir stafrófsröð helst.",
+            "date": "2015-04-16 16:05:00",
+            "post_id": "596536",
+            "reply_to_id": "596533"
+        },
+        {
+            "user_name": "Bux",
+            "text": "Meinarðu þá að sjá alla flokkana á einni síðu eða eitthvað þannig? Við munum bæta flokkunum við í leitarniðurstöðurnar seinna, og við eigum eftir að þýða þá alla, við fengum 6 þúsund flokka frá Google sem við ætluðum að þýða bara þegar þeir byrja að fyllast, en það er ekki allt komið eins og er.",
+            "date": "2015-04-16 16:07:00",
+            "post_id": "596538",
+            "reply_to_id": "596536"
+        },
+        {
+            "user_name": "Hvati",
+            "text": "Þegar farið er í allar vörur þá eru flokkarnir til vinstri raðaðir asnalega en það þarf væntanlega að þýða allt fyrst",
+            "date": "2015-04-16 16:13:00",
+            "post_id": "596539",
+            "reply_to_id": "596538"
+        },
+        {
+            "user_name": "Bux",
+            "text": "Ah já ég skil! Við hljótum að geta reddað þessu einhvern vegin! Takk fyrir ábendinguna. Við erum að vinna í þýðingunni, svo væri þá hægt að raða eftir stafrófsröð",
+            "date": "2015-04-16 16:21:00",
+            "post_id": "596540",
+            "reply_to_id": "596539"
+        },
+        {
+            "user_name": "Hvati",
+            "text": "En hvernig er það, hafið þið eitthvað hugsað um að sameina þær vörur sem seldar eru af nokkrum aðilum og hafa þá einhvern samanburð á þeirri síðu? \nTók líka eftir að nokkrar vörur koma inn nokkrum sinnum með eins nafni og lýsingu t.d. frá Start og Tölvutækni, sést hér: \nhttp://www.arius.is/search?q=X99-UD4",
+            "date": "2015-04-16 16:26:00",
+            "post_id": "596541",
+            "reply_to_id": "596540"
+        },
+        {
+            "user_name": "Bux",
+            "text": "Já við höfum rætt það, ásamt því að búa til samanburðar fídus á milli nokkra vara. Við ætlum að fara í það, það er bara erfitt að gera það vegna þess að það er alvarlegra að sameina vöru með annarri en að hafa þær sundurliðaðar eins og staðan er núna (flokkarnir eru t.d. ekki allir komnir í lag).\nVið eigum eftir að brainstorma einhverjar geggjaða leið til þess að sameina vörurnar án þess að eitthvað skemmist. Við höfum reynt að taka MID á verslununum líka, en þær eru ekki allar með það. Sumar vefverslanir eru ekki með neina klassa á html-inu sínu, hvað þá almennilegt MID. Þetta gerir sameininguna rosa erfiða.\nEn okkur dauðlangar að bæta því við og hafa það almennilegt! Að þú getir farið inn í eina vöru og þar er listi yfir verslanir sem selja þá vöru með verðunum frá þeim öllum.",
+            "date": "2015-04-16 16:32:00",
+            "post_id": "596543",
+            "reply_to_id": "596541"
+        },
+        {
+            "user_name": "bigggan",
+            "text": "Veit ekki hvort það er minn skjá en það sést mjög illa i \"border\" kassana kringum vörurnar og lika \"leit\" kassan, td þá sé ég ekki hvar jeg á að yta til að geta skrifað til að leita eftir vörur.\nSvo á forsiðunni mættu þíð lika bæta við tölvur og Tölvuíhlutir flokkur.",
+            "date": "2015-04-16 16:52:00",
+            "post_id": "596544",
+            "reply_to_id": "596543"
+        },
+        {
+            "user_name": "Bux",
+            "text": "Takk fyrir þetta! Hvernig finnst þér leitarboxið núna? Lítur þetta eitthvað betur út hjá þér?\nOg varðandi Tölvur & Tölvuíhlutir, ég skal græja það líka",
+            "date": "2015-04-16 16:59:00",
+            "post_id": "596545",
+            "reply_to_id": "596544"
+        },
+        {
+            "user_name": "bigggan",
+            "text": "já núna sést það vel.",
+            "date": "2015-04-16 21:45:00",
+            "post_id": "596575",
+            "reply_to_id": "596545"
+        },
+        {
+            "user_name": "k0fuz",
+            "text": "Ég fór nú stundum inná þessa síðu til að tékka á gömlum verðum en nú er síðan búin að vera niðri í einhvern tíma, mun hún koma aftur upp?",
+            "date": "2018-04-12 15:32:00",
+            "post_id": "670318",
+            "reply_to_id": "596575"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "x2",
+            "date": "2018-04-12 15:49:00",
+            "post_id": "670319",
+            "reply_to_id": "670318"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Ekkert vera búast við svari...",
+            "date": "2018-04-12 18:37:00",
+            "post_id": "670323",
+            "reply_to_id": "670319"
+        }
+    ],
+    "date": "2015-04-16 15:17:00"
+}

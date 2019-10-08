@@ -1,0 +1,37 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "4613",
+    "title": "Öll þessi vinnsluminna hugtök",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=4613",
+    "posts": [
+        {
+            "user_name": "traustis",
+            "text": "Er einhver sem getur útskýrt fyrir mér nýgræðlingnum  \n Hvað öll þessi hér þýða  \n  = Cas latency, aggressive timings, vdimm og ddr ?\n\nég veit að það er hægt að hafa cas latency í 2.0 2.5 og 3.0 en hver er munurinn á þessu ? og er betra að hafa aggressive timings í 8-4-4 eða 7-4-4 eða hvað ? :S",
+            "date": "2004-07-01 15:47:00",
+            "post_id": "47010",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "ErectuZ",
+            "text": "Það eina sem ég veit hvað þýðir af þessu er ddr. Sem er Double Data Rate.",
+            "date": "2004-07-01 15:51:00",
+            "post_id": "47013",
+            "reply_to_id": "47010"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Hann vill örugglega líka vita hvað það þýðir, ekki bara hvað það stendur fyrir  \n\n\n\n\nVeit ekki nógu mikið um þetta nema DDR, eða Double Data Rate einsog Rainmaker sagði.\n\nDDR-SDRAM (einnig kallað SDRAM II eða DDRAM) sendir 2 merki á hverjum rafmagnspúls(held ég) sem að í raun tvöfaldar hraðann, þannig að að 133Mhz verða DDR266, 166Mhz verða DDR333 o.s.frv.. Þar sérðu að DDR400 vinnsluminni er ekki 400 heldur 200Mhz.\n\nEinnig er svipuð tækni notuð við Quad-pumped FSB á sumum móðurborðum(pentum?) þar sem að 4 merki eru send á hverju \"rafpúls\" (?)þannig að 133Mhz verða FSB533 og 200Mhz verður FSB800.\n\n\n\nAnnars kemstu örugglega fyrr að þessu ef þú notar \ngoogle",
+            "date": "2004-07-01 16:45:00",
+            "post_id": "47032",
+            "reply_to_id": "47013"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "já, DDR virkar þannig að það sendir merki bæði á upp sveiflu og niðursveiflu rafmagnsins, semsagt 2x hraðar en rafmagnið. svo að ef þú er með DDR minni sem sendir 200milljón rafpúlsa á sekúndu (200MHz), þá er það að senda gögn 400milljón sinnum á sekúndu.",
+            "date": "2004-07-01 20:49:00",
+            "post_id": "47069",
+            "reply_to_id": "47032"
+        }
+    ],
+    "date": "2004-07-01 15:47:00"
+}

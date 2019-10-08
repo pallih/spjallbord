@@ -1,0 +1,23 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "29672",
+    "title": "Smá HDD vesen, aðstoð vel þegin",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=29672",
+    "posts": [
+        {
+            "user_name": "Addi_rokk",
+            "text": "Sælir!\nÞað \"crashaði\" hjá mér Windowsið (\nXP Home Edition, SP3\n) út af einhverju fikti hjá mér  \n  Og gerði ég nokkrar tilraunir með að laga það með því að \"boota\" frá CD og nota repair skipunina og einnig fixboot. En ákvað síðan bara að fá mér nýjan HDD og setti upp nýtt Windows á honum og ætlaði síðan að tengja gamla diskinn við sem geymsludisk og ná þannig gögnunum af honum og formatta svo, en þá kemur að vandamálinu.\nDiskurinn er 500GB en Windows les hann sem 10MB og í FAT en ekki NTFS, mjög skrítið. BIOSinn les hann rétt, og einnig ef ég hægri klikka í My Computer og vel format, þá segist Windows geta formattað hann sem 465GB NTFS???? svo diskurinn sjálfur virðist vera í lagi.\nEf einhverjum dettur eitthvað í hug hvað hægt sé að gera, endilega pósta því hérna, yrði mjög þakklátur.\ntd. myndi virka í cmd að converta bara FAT í NTFS??\neða ætti ég bara að formatta hann og reyna svo að recovera gögnin eftirá? og þá með hvaða forriti?\nTakk takk",
+            "date": "2010-04-19 12:31:00",
+            "post_id": "257045",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "kingpin",
+            "text": "http://www.piriform.com/recuva\nRecuva\nFile Recovery\nRecuvaAccidentally deleted an important file? \nLost something important when your computer crashed? No problem! \nRecuva recovers files deleted from your Windows computer, Recycle Bin, \ndigital camera card, or MP3 player. And it's free!",
+            "date": "2010-04-19 12:58:00",
+            "post_id": "257046",
+            "reply_to_id": "257045"
+        }
+    ],
+    "date": "2010-04-19 12:31:00"
+}

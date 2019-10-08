@@ -1,0 +1,93 @@
+{
+    "forum_title": "Yfirklukkun, hraðaprófanir og mods",
+    "id": "8347",
+    "title": "oc á ausu a8n sli deluxe",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=1&t=8347",
+    "posts": [
+        {
+            "user_name": "sprelligosi",
+            "text": "sælir...\n\n\n\nEr búinn að vera að fikra mig áfram í oc undanfarna daga eftir að ég keypti nýju græjuna....\n\n\n\n\n\ner með amd fx 55, asus a8n sli deluxe... ocz 37o0 platinum... 466mhz\n\nmálið er það að ég næ ekki fsb í meira en 222...\n\nminni í 3.0v og vcore 1.65 \n\nnú er ég búinn að sjá að margir eru að oc þessi borð og ég finn enga fsb/mem divider... eru þessir menn sem eru að oc þetta í klessu semsagt bara með svona háan fsb og engann divider (endilega segja mér ef að það er hægt að still hann á þessum borðum)\n\n\n\nsvo er einnig skrítið að ég virðist ekki komast yfir 3.ghz þó svo að ég lækki fsb og hækki multipler.....\n\n\n\nhvað gæti verið að bögga mig...\n\ner með vatnskælingu........",
+            "date": "2005-05-24 02:11:00",
+            "post_id": "89685",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gnarr",
+            "text": "ertu ekki bara kominn með HTT lengst yfir specca? lækkaðu bara HTT multi í 4x, þá ætti þetta að ganga.",
+            "date": "2005-05-24 02:20:00",
+            "post_id": "89686",
+            "reply_to_id": "89685"
+        },
+        {
+            "user_name": "einarsig",
+            "text": "þú aflæsir multipliernum gegnum volt/freq í bios ... þarf að stilla minnir mig voltin á manual og þá færðu upp multiplier möguleikann... get tjekkað betur á þessu þegar ég kem heim á eftir.",
+            "date": "2005-05-24 09:51:00",
+            "post_id": "89693",
+            "reply_to_id": "89686"
+        },
+        {
+            "user_name": "sprelligosi",
+            "text": "miltiplier er alvegopinn það er ekki málið",
+            "date": "2005-05-24 11:17:00",
+            "post_id": "89695",
+            "reply_to_id": "89693"
+        },
+        {
+            "user_name": "einarsig",
+            "text": "úff ég las þetta e-ð vitlaust ...",
+            "date": "2005-05-24 11:34:00",
+            "post_id": "89696",
+            "reply_to_id": "89695"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "líklega ertu þá bara búinn að toppa örgjörfann.",
+            "date": "2005-05-24 12:39:00",
+            "post_id": "89706",
+            "reply_to_id": "89696"
+        },
+        {
+            "user_name": "Yank",
+            "text": "1. 222x13 = 2,886 Ghz gæti verið max á cpu á þessu vcore\n\n\n\n2. 222x2 = 444hz gæti verið max á mem á þessum timings\n\n\n\n3. Ef þú ert með SATA disk þá gæti verið að SATA sé ekki læst þannig fsb maxar út á 220-230.\n\n\n\n4. Er AGP/PCI örugglega læst ?\n\n\n\n5. Þessi bios menu er svolítið spes hjá ASUS. Lestu manual eða skoaðu þetta \nhttp://www.amdzone.com/modules.php?op=m ... =96&page=4\n.",
+            "date": "2005-05-24 13:06:00",
+            "post_id": "89707",
+            "reply_to_id": "89706"
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "Ef þú ert bara með loftkælingu á þessu getur vel verið að þú sért búinn að toppa út örgjörvann, annars geturðu prófað að hækka spennuna eða þá að lækka HTT í 4x eins og gnarr sagði.",
+            "date": "2005-05-24 19:27:00",
+            "post_id": "89741",
+            "reply_to_id": "89707"
+        },
+        {
+            "user_name": "sprelligosi",
+            "text": "pci express... er ´læst\n\n\n\ner með 466mhz 2-3-3-8 pc3700 ocz platinum minni.... svo ekki er það minnið....\n\n\n\ner með 2x sata diska wd raptor 74gig raid 0....\n\n\n\nathuga með þessa læsingu tetta gæti verið það.....\n\n\n\nsamt skrítið að geta ekki komist hærra þótt ég lækki fsb og hækki multiplyer.....\n\n\n\neru til margar tegundir af amd fx 55 s:939 ????\n\nog gæti ég þurft að kaupa sata raid controller??????",
+            "date": "2005-05-24 23:20:00",
+            "post_id": "89780",
+            "reply_to_id": "89741"
+        },
+        {
+            "user_name": "Hörde",
+            "text": "Að ná tæpum 2.9ghz er nú bara með því hærra sem þessir örgjörvar ná.  Það eru ekki nema einstaka hræður sem ná þeim í 3ghz, og þá með köfnunarefni, þannig að prísaðu þig bara sælan fyrir að hafa náð honum svona hátt.",
+            "date": "2005-05-25 00:41:00",
+            "post_id": "89791",
+            "reply_to_id": "89780"
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "Það er ekkert mál að ná þeim vel yfir 3 GHz með Vapochill.",
+            "date": "2005-05-25 07:41:00",
+            "post_id": "89801",
+            "reply_to_id": "89791"
+        },
+        {
+            "user_name": "Yank",
+            "text": "Líklegast er þetta SATA vandamál. Prufaðu ef þú getur að setja þetta upp á IDE disk. Það er eitthvað með þetta nvidia raid dót það er ekki læst. Ég er með Nforce 3 móðurborð og ekki séns að ná því stöðugu yfir 225 fsb með SATA. Vel þekkt vandamál með mitt móbo að SATA 1 og 2 séu ekki læst. En tengi 3 og 4 eigi að vera það, sem þau voru bara svo ekki. Þannig ég nota pci raid kort.",
+            "date": "2005-05-25 11:28:00",
+            "post_id": "89811",
+            "reply_to_id": "89801"
+        }
+    ],
+    "date": "2005-05-24 02:11:00"
+}

@@ -1,0 +1,149 @@
+{
+    "forum_title": "Windows",
+    "id": "8415",
+    "title": "Er ekki að komast inn í Windows",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=8415",
+    "posts": [
+        {
+            "user_name": "noizer",
+            "text": "Jæja enn eitt vandamálið hjá mér  \n\n\nTölvan mín fraus áðan þegar ég var í iTunes að sortera lög til að láta inná iPod þannig að ég restartaði tölvunni. Svo kveikti ég á henni en svo eftir smá tíma kemur einhver error (kannski ekki) texti sem er svona:\n\nScan Devices, Please wait...\nPress <Tab> Key into User Windows!\n\n\nÞað er svona í smá tíma, það gerist ekkert þegar ég ýti á tab.\n\n\n\nSvo eftir smá tíma kemur þetta:\n\nHardWare Initiate failed, Please Check Device!!!\nThe Bios does not be installed. Press <g> to continue!\n\n\n\n\nSvo ef ég ýti a \"g\" þá kemur texti þar sem er verið að tékka allt í tölvunni og neðst kemur þetta:\n\nVerifying DMI Pool Data..............\nBoot from CD:\nDISK BOOT FAILURE, INSERT SYSTEM DISK AND PRESS ENTER\n\n\n\n\nHvað get ég gert? Ég vill helst ekki formata því það er mikið af gögnum sem ég vill ekki missa (tónlistin í iPod t.d.).",
+            "date": "2005-05-31 18:38:00",
+            "post_id": "90368",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Hmm, ertu með iPod'inn tengdan þegar þessi villa kemur upp?\n\nÞetta er nú eitthvað skrítið, birtast þessi villuboð í þessari röð, og ekkert restart á milli?\n\nEn í sambandi við þessa seinustu villu, ertu ekki bara með geisladisk í drifinu?\n\nHvaða móðurborð ertu með?",
+            "date": "2005-05-31 18:52:00",
+            "post_id": "90371",
+            "reply_to_id": "90368"
+        },
+        {
+            "user_name": "noizer",
+            "text": "Nei iPod'inn er ekki tengdur, og já villuboðin koma í þessari röð, nei ég er ekki með geisladisk í drifinu og ég er með ABIT VT7 móðurborð.",
+            "date": "2005-05-31 18:57:00",
+            "post_id": "90373",
+            "reply_to_id": "90371"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "kíktu yfir allar stillingar í bios.. Ef ekki.. þá sýnist mér hdd vera á sýru",
+            "date": "2005-05-31 19:02:00",
+            "post_id": "90376",
+            "reply_to_id": "90373"
+        },
+        {
+            "user_name": "noizer",
+            "text": "hmm ég prófaði núna að restarta (var samt búinn að gera það \noft\n áðan) og þá kveiknaðist alveg á tölvunni.\n\nEn þetta hefur samt gerst áður, t.d. þegar ég fæ bluescreen þá þarf ég stundum að restarta oft (mesta 4 sinnum held ég) vegna þess að þetta \"Press <Tab>\" stuff kemur alltaf",
+            "date": "2005-05-31 19:05:00",
+            "post_id": "90378",
+            "reply_to_id": "90376"
+        },
+        {
+            "user_name": "noizer",
+            "text": "Var búinn að því (áður en þetta lagaðist) og það var allt í lagi þar",
+            "date": "2005-05-31 19:06:00",
+            "post_id": "90379",
+            "reply_to_id": "90378"
+        },
+        {
+            "user_name": "Dagur",
+            "text": "Tími til að gera backup.",
+            "date": "2005-05-31 19:47:00",
+            "post_id": "90388",
+            "reply_to_id": "90379"
+        },
+        {
+            "user_name": "hallihg",
+            "text": "iTunes er nú meeeeiiiira ruslið. Búinn að reinstalla þessu forriti og driverum fyrir ipodinn og þetta virkar alltaf í fyrsta skiptið eftir reinstall, en svo næst þegar ég ætla að endurfylla hann þá finnur hvorki tölvan né forritið þennan bölvaða ipod. Held ég fái mér bara nýjasta sony spilarann eða e-ð. Tek virkni umfram útlit.",
+            "date": "2005-05-31 20:06:00",
+            "post_id": "90391",
+            "reply_to_id": "90388"
+        },
+        {
+            "user_name": "noizer",
+            "text": "Það á nú varla að gerast  \n Allavega ætla ég að vona að svoleiðis gerist ekki við mig, en hef allavega náð að láta tónlist inná iPod í þau tvö skipti sem ég hef tengt hann við tölvuna (ný búinn að fá iPod)",
+            "date": "2005-05-31 21:47:00",
+            "post_id": "90398",
+            "reply_to_id": "90391"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Itunes crashar alltaf þegar ég fer í fast user switching menuið freeekar pirrandi. \n\nAnnars myndi ég halda að þetta væri steindauður hdd",
+            "date": "2005-05-31 22:54:00",
+            "post_id": "90403",
+            "reply_to_id": "90398"
+        },
+        {
+            "user_name": "noizer",
+            "text": "Mér finnst nú ekkert skrítið að það sé eitthvað að hdd, eftir allt sem hefur skeð með þessa tölvu. Hefur gerst að það heyrist alveg geggjað hátt í honum, barði nú líka einu sinni í tölvuna til að láta það hætta",
+            "date": "2005-05-31 22:58:00",
+            "post_id": "90404",
+            "reply_to_id": "90403"
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "DISK BOOT FAILURE, INSERT SYSTEM DISK AND PRESS ENTER \n\n\n\n\nHeh, vinur minn fékk svona villu, hann var víst með floppy disk með word drasli á og notaði hann sem 1st boot device...",
+            "date": "2005-05-31 23:09:00",
+            "post_id": "90406",
+            "reply_to_id": "90404"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Þetta tvennt bendir líklega til þess að HDinn sé að gefa sig eitthvað og þessvegna geti tölvan ekki boot'að upp af honum.\n\nSérðu harða diskinn í BIOSnum áður en þessi villuboð koma fram?\n\n\n\nEn eru þetta nákvæmu villuboðinn sem koma? Því þá sýnist mér að BIOSinn þinn sé slappur í enskunni; „The Bios does not be installed.“",
+            "date": "2005-05-31 23:51:00",
+            "post_id": "90413",
+            "reply_to_id": "90406"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "mér þykir líklegt að það hafi komið upp CMOS checksum villa og biosinn hafi resettað sig og sett CD-ROM sem \"first boot device\".\n\n\n\nathugaðu boot order í bios og athugaðu hvort hún sé stillt á að athuga HD.\n\n\n\n\n\nhvað meinaru annars með þessu:\n\n\n\n\n\n?\n\n\n\nþetta er btw lélegast enska sem ég hef nokkurntíman séð úr bios..",
+            "date": "2005-06-01 08:51:00",
+            "post_id": "90433",
+            "reply_to_id": "90413"
+        },
+        {
+            "user_name": "Icarus",
+            "text": "held að hann sé að tala um að hann er ekki alveg viss hvernig þetta er skrifað og skrifaði þetta upp eftir minni",
+            "date": "2005-06-01 13:23:00",
+            "post_id": "90452",
+            "reply_to_id": "90433"
+        },
+        {
+            "user_name": "noizer",
+            "text": "Jæja þetta gerðist aftur. En núna fraus hún ekkert á undan, var bara að kveikja á tölvunni\n\nNei er ekki að sjá HD'inn í BIOS (vonandi gáði ég á réttan stað). \nÞetta eru villuboðin sem koma \"The BIOS does not be installed\" (er með tölvuna með errorinu við hliðiná mér) \n \n\n\nÉg var búinn að gá á boot order, ég lét aftur á HD sem first (það var second) boot en það kom aftur þetta error",
+            "date": "2005-06-01 13:33:00",
+            "post_id": "90453",
+            "reply_to_id": "90452"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "LOL!\n\n\n\n\n\nAnnars er þetta það eina sem ég fann um þetta:\n\n\n\n\n\n\n\n\n\nÉg skil þetta þannig að þú eigir að fara inní VIA sata setupið og stilla eitthvað þar.. eeeða að diskurinn sé ónýtur.\n\n\n\nekki er þetta ASUS K8T800 borð?",
+            "date": "2005-06-01 13:54:00",
+            "post_id": "90457",
+            "reply_to_id": "90453"
+        },
+        {
+            "user_name": "noizer",
+            "text": "Nei, þetta er ABIT VT7 móðurborð\n\n\n\n\n\nÉg er ekki að finna þetta",
+            "date": "2005-06-01 14:27:00",
+            "post_id": "90459",
+            "reply_to_id": "90457"
+        },
+        {
+            "user_name": "noizer",
+            "text": "Jæja nú er ég búinn að geta kveikt á tölvunni þrisvar í röð, en það eru vandamál:\n\n1 skipti:\n Tölvan fraus eftir 1 mín.\n\n2 skipti:\n Tölvan fraus eftir 1 mín\n\n3 skipti:\n Þegar ég skrifa þetta\n\n\n\nEr það bara nýr HDD?",
+            "date": "2005-06-01 17:40:00",
+            "post_id": "90466",
+            "reply_to_id": "90459"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "búinn að skoða manualinn?",
+            "date": "2005-06-01 17:45:00",
+            "post_id": "90467",
+            "reply_to_id": "90466"
+        }
+    ],
+    "date": "2005-05-31 18:38:00"
+}

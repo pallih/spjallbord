@@ -1,0 +1,121 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "49348",
+    "title": "Biluð tölva - Windows 7 + fros",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=49348",
+    "posts": [
+        {
+            "user_name": "TraustiSig",
+            "text": "Góðan dag. \nMig langar að leita til fleiri heila heldur en míns eigin með þetta vandamál. Er búinn að vera með vél hérna hjá mér í nokkurn tíma án þess að geta fundið út hvað er að valda biluninni. \nÍ stuttu máli er vandamálið það að tölvan frís handahófskennt þegar hún er að keyra í Windows 7. \nÞað skiptir ekki máli hvort um er að ræða 64b eða 32b, Ultimate-Pro eða Home, eða hvernig stýrikerfið er uppsett (allir driverar, fulluppfært gegnum Windows Update)\nSpecs á vélinni\nÉg er búinn að: \nMemtesta vélina í gegnu heila helgi (þar fór hún nokkra tugi passa án villu)\nSetja upp Ubuntu 12.04 á vélina og keyra í vinnslu yfir nokkra daga án villu\nSetja upp XP Pro 32b (ásamt öllum driverum og updates) og keyra yfir nokkra daga án villu. \nKeyra WINDLG og Seatools yfir þann disk sem var í notkun fyrst. Skipta um disk og prófa með báðum forritum án villu.\nPrófa Win7 Ultimate 64b og 32b, Win 7 Pro 64b og 32b, Win 7 Home Premium 64b með sömu fros villunni. \nRebooota 50x í röð með 30sec delay þar sem vélin fraus 2x (21x og 43x ræsingu). \nVillan kemur fram handahófskennt. Event viewer sýnir enga breytingu á vélinni nema hvað hún tekur fram að tölvan hafi ekki slökkt eðlilega á sér (þar sem það þarf að slökkva á henni handvirkt til að endurræsa). Villlan kemur oft fram þegar t.d. er verið að ræsa vafra, ræsa vefmyndavél. Hún getur þó einnig komið fram þó svo tölvan sé idle eða sé í minimal vinnslu (t.d. eins og að vera með fréttablað eða pósthólf opið). \nMín hugmynd er annað hvort að: \nMinnið sé hugsanlega að frjósa á einhverjum færslum sem bara eiga sér stað í W7. \nMóðurborðið sé í einhverjum svipuðum pælingum og stoppi á einhverjum slíkur færslum. \nEinhverjar fleiri hugmyndir eða ráðleggingar?",
+            "date": "2012-07-30 10:53:00",
+            "post_id": "457443",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Benzmann",
+            "text": "búinn að prófa að skipta um HDD kapal ?\nbúinn að checka hvort að móbóið sé að leiða út rafmagn einhverstaðar? ( oft sem koparfestignarnar fyrir skrúfurnar undir móbóinu séu einhverstaðar sem þær eiga ekki að vera (óþarfa))\nbúinn að checka hvort að aflgjafinn sem þú ert að nota sé nógu stór ? eða hvort kaplanir á honum séu í einhverju fokki ? eða kanski bara aflgjafinn sjálfur ?\nbúinn að prófa að nota aðeins eina RAM stöng? (prófa báðar eða allar stakar jafnvel)\nkanski er örgjörvinn að hitna eitthvað óvenjulega, kælingin kanski ekki nógu vel sett á ?",
+            "date": "2012-07-30 11:22:00",
+            "post_id": "457446",
+            "reply_to_id": "457443"
+        },
+        {
+            "user_name": "TraustiSig",
+            "text": "Tölvan var í notkun lengi með WIndows 7 og virkaði eðlilega í vinnslu í um 8-10 mánuði. \nHef ekki skipt um HDD kapal. Tölvan virkar hinsvegar eðlilega með uppsettu Ubuntu og XP þannig hæpið að mínu áliti að það sé vandamálið. \nAflgjafinn er 500w og er pottþétt nógu stór. Hef ekki tekið hann úr og testað annarsstaðar enda er um að ræða villu í einu stýrikerfi en tölvan stendur fullkomlega utan stýrikerfis. \nÞað er í tölvunni 1x 4gb plata. \nHef ekki prufað að setja í annna kubb en mun prófa það núna. \nÉg keyrði tölvuna í gegnum Furmark, HeavyLoad og BurnIn test ásamt að hafa uppi Speccy til að sína hitatölur og tölvan fór ekki yfir 50°í 100% load.",
+            "date": "2012-07-30 11:54:00",
+            "post_id": "457449",
+            "reply_to_id": "457446"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Afhverju segir þú stýrikerfisvilla þegar ekkert kemur í Event Viewernum?\nMér dettur í hug að Win7 noti skjákortið meira og að villan komi þaðan, hef þá tilfinningu að þetta sér harware related...\nVarstu búinn að fara yfir flæðiritið?\nhttps://dl.dropbox.com/u/12608149/poster.pdf",
+            "date": "2012-07-30 15:04:00",
+            "post_id": "457492",
+            "reply_to_id": "457449"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Búinn að prufa að uppfæra BIOS?",
+            "date": "2012-07-30 15:20:00",
+            "post_id": "457497",
+            "reply_to_id": "457492"
+        },
+        {
+            "user_name": "TraustiSig",
+            "text": "Prófaði að skipta um minni sem búið var að memtesta. Tölvan fraus um leið og browser var ræstur. Prófaði aftur og hún fraus aftur eftir svolítið lengri tíma í seinna skiptið. \nSkipti því næst um skjákort. Tölva ræsti eðlilega með kortið og endurræsti. Vann í henni í um 2 mín og þá fraus hún aftur. \nS.s. nýtt minni og skjákort og sama villa kemur fram.",
+            "date": "2012-07-30 16:11:00",
+            "post_id": "457526",
+            "reply_to_id": "457497"
+        },
+        {
+            "user_name": "Eiiki",
+            "text": "x2",
+            "date": "2012-07-30 17:33:00",
+            "post_id": "457552",
+            "reply_to_id": "457526"
+        },
+        {
+            "user_name": "rapport",
+            "text": "x3\nÞetta er að verða svolítið skrítið...",
+            "date": "2012-07-30 17:45:00",
+            "post_id": "457555",
+            "reply_to_id": "457552"
+        },
+        {
+            "user_name": "mpythonsr",
+            "text": "Sæll, \nhvað er þetta gömul vél? \nþú virðist vera búinn að útiloka allt nema  móðurborð.\nEr innbyggt skjákort á móðurborðinu? \nErtu búinn að prófa minnið, örran, skjákortið og minnið á öðru móðurborði? \nSamkvæmt spec þá er einsog harði diskurinn sé að gefa sig. \nread error er í hæstu hæðum. Þá er kannski kominn tími til að skipta.\nWindows 7 skrifar/les meira af HD en windows xp eða linux (sem setur hann öðruvísi upp)\nþannig að ég hallast að því að diskurinn sé að verða heldur gamall fyrir win 7.",
+            "date": "2012-07-30 19:04:00",
+            "post_id": "457579",
+            "reply_to_id": "457555"
+        },
+        {
+            "user_name": "IceThaw",
+            "text": "Longshot hérna en.. eitthvað usb sem þú ert að nota? Webcam t.d.? \nHef lent í allskonar vesen með usb hluti eins og netkort, joystick, \ntölvan komið með bluescreen og frosið, setti þessa hluti við aðrar tölvur og \nsömu niðurstöður..\nEkki hugmynd um hvort þetta hjálpar en fyrst þú átt eftir að prófa þetta allt",
+            "date": "2012-07-30 19:24:00",
+            "post_id": "457584",
+            "reply_to_id": "457579"
+        },
+        {
+            "user_name": "Benzmann",
+            "text": "já getur verið USB tengt líka, myndi prófa að uninstalla USB driverinum og installa honum aftur, eða nýja útgáfu af honum ef það er til. \nUSB driverinn getur verið corrupted",
+            "date": "2012-07-30 19:47:00",
+            "post_id": "457593",
+            "reply_to_id": "457584"
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "Ertu búinn að stilla á high performance í power options það slekkur nefnilega á hdd á 20min fresti",
+            "date": "2012-07-30 20:00:00",
+            "post_id": "457595",
+            "reply_to_id": "457593"
+        },
+        {
+            "user_name": "TraustiSig",
+            "text": "Já sorrý. Ég gleymdi að nefna að ég uppfærði BIOS í nýjustu útgáfu frá MSI.\nÞað var tengt við þetta m.a. scanni, prentari ofl. Núverandi staðsettning er bara turninn á borði og ekkert við nema USB mús og KB.\nTölvan er stillt á balanced plan. Hún frís líka oft á innan við mínútu ef þú t.d. reynir að ræsa Firefox. \nAllt í vélinni er undir 2 ára fyrir utan HDD. Sá HDD sem var í vélinni var 2,5\" 5400 rpm diskur. Diskurinn sem er í henni núna er 74gb WD 10k Raptor. \nVilla kemur eins fram á báðum diskum. Það er ekki innbyggt skjákort. Prófaði annað skjákort eins og segir að ofan og sama villa kemur fram.",
+            "date": "2012-07-30 23:41:00",
+            "post_id": "457657",
+            "reply_to_id": "457595"
+        },
+        {
+            "user_name": "Nitruz",
+            "text": "Sæll,, ég veit hvað þetta vandamál er óþolandi. \nÉg hallast að því að þetta gæti verið að auto stillingin í bios fyrir vinnsluminnið sé ekki að gera sig.\nPrófaðu að stilla volt og timings manual. Svo sakar ekki að gera það sama fyrir cpu.",
+            "date": "2012-07-31 08:59:00",
+            "post_id": "457691",
+            "reply_to_id": "457657"
+        },
+        {
+            "user_name": "Nitruz",
+            "text": "Búinn að laga?",
+            "date": "2012-08-02 20:45:00",
+            "post_id": "458232",
+            "reply_to_id": "457691"
+        },
+        {
+            "user_name": "TraustiSig",
+            "text": "Nei ég hef ekki ennþá fundið ástæðuna. Ég tók af/breytti AMD Cool and Quiet og það hafði enginn áhrif. \nÉg downclockaði örgjörvan vel niður og rétt upp og það breytti engu. \nÉg fór aftur yfir allar tengingar og lyfti móðurborðinu upp á sama tíma og enginn standoff pinni eða neitt sem gæti skammhlepypt á móðurborðinu er í vélinni. \nÉg breytti tímastillingum á minninu og það hafði enginn áhrif.. \nEr basicly orðinn stop",
+            "date": "2012-08-03 16:01:00",
+            "post_id": "458369",
+            "reply_to_id": "458232"
+        }
+    ],
+    "date": "2012-07-30 10:53:00"
+}

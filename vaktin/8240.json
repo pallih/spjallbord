@@ -1,0 +1,121 @@
+{
+    "forum_title": "Yfirklukkun, hraðaprófanir og mods",
+    "id": "8240",
+    "title": "chipset hiti virðist frekar mikill. Og orðin óstable.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=1&t=8240",
+    "posts": [
+        {
+            "user_name": "galileo",
+            "text": "Ég er bara að spá. chipset hitinn í tölvunni minni er orðinn 44c° er bara búinn að overclocka úr 2.2ghz í 2.4ghz án þess að hækka voltin. er þetta ennda alveg safe þetta með hitann. hann er meiri en cpu hitinn.\n\n\n\n Er með þetta á DFI LANParty sli-dr og cipsettið er nf4. og var að spá afþví að hún er orðin frekar óstable hvort ég ætti ekki að hækka Voltin á vcore.Btw. er algjer nýliði í þessu en er búinn að lesa Þetta \nhttp://www.ocforums.com/showthread.php?t=263753\n tvisvar en langar mjög mikið að reyna mig áfram og læra þetta betur vona að einhver geti hjálpað mér.  \n\n\n\nAnnars í heild það sem ég er búinn að gera er að hækka psb úr 200 í 222 og lækka mhz á minninu úr 200 í 180 (ddr400 í ddr360) Minnið er oofsalega lélegt og það er cl3 en þegar ég lækkaði mhz á því þá lækkaði timings líka.\n\n\n\nÞað væri yndislegt ef ég fengi einhver svör afþví þá gæti ég byrjað að taka þátt í þessu spjallborði fyrir fullt og allt.",
+            "date": "2005-05-12 18:57:00",
+            "post_id": "88507",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "44°C er ekkert til að hafa áhyggur af. 60°C í fullri vinnslu eru heldur ekki neitt til að hafa áhyggjur af.\n\n\n\nOg jú hækkaðu vcore aðeins og athugaðu hvort þú getir overclockað meira.",
+            "date": "2005-05-12 21:20:00",
+            "post_id": "88521",
+            "reply_to_id": "88507"
+        },
+        {
+            "user_name": "galileo",
+            "text": "Var að reyna að finna einhvað til þess að hækka Vcore en það stendur ekki neinstaðar vcore það stendur bara hvað vcore er í miklu en get ekkert breytt því . það eina sem ég rakst á sem gæti verið einhvað tengt cpu vol. var : \n\nCPU vid control og Ldt volt control. veit ekkert hvað þetta ldt er.\n\n\n\nÉg endurtek ég er alger nýliði en er að reyna að læra það yrði ánægjulegt ef að þið mynduð respecta núbbismann minn.",
+            "date": "2005-05-12 21:34:00",
+            "post_id": "88527",
+            "reply_to_id": "88521"
+        },
+        {
+            "user_name": "galileo",
+            "text": "Núna er hún víst það unstable að það varla kviknar á henni ég stillti bara allt eins og það var í upphafi afþví var búið að vera að einhver bluescreen þar sem stóð einhvað með an error has occured og einhvað og þá restartaði hún sér þetta gerðist nokkrum sinnumog þegar ég var búinn að stilla þetta allt til baka þá kom bara ekkert windows, eða það fór ekkert inní windowsið.\n\n\n\nprufaði bara að clearea cmos til að tékka hvort að það hefði stillt einhvapð vitlaust en það var ekki það kom bar ennþá ekkert windows.",
+            "date": "2005-05-12 22:44:00",
+            "post_id": "88540",
+            "reply_to_id": "88527"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "þú hefur \"gleymt\" að læsa PCI/AGP, og overclockað controllerinn. Það hefur orðið til þess að stýrikerfið hefur corruptast á disknum.",
+            "date": "2005-05-12 22:58:00",
+            "post_id": "88543",
+            "reply_to_id": "88540"
+        },
+        {
+            "user_name": "galileo",
+            "text": "á þá bara að installa windowsi aftur en mhz á pci express virtist ekkert breytast sko. en þetta var bara það sem ´eg sá í Bios",
+            "date": "2005-05-12 23:06:00",
+            "post_id": "88545",
+            "reply_to_id": "88543"
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "Er ekki andskoti flókið að óverclocka þessi DFI nf4?",
+            "date": "2005-05-13 07:57:00",
+            "post_id": "88613",
+            "reply_to_id": "88545"
+        },
+        {
+            "user_name": "galileo",
+            "text": "allavega finn ekki vcore stillingu en er alveg pottþéttu að þaðsé sko.",
+            "date": "2005-05-13 12:09:00",
+            "post_id": "88646",
+            "reply_to_id": "88613"
+        },
+        {
+            "user_name": "hahallur",
+            "text": "Sko hvaða öra ertu með, ef þú ert með 64 3500 eins og ég held áttu ekki að þurfa að hækka vcore á DFI borðinu, það er örugglega bara of hátt voltage sem er að gera þetta.\n\n\n\nTaktu screenshot í CPU-Z og sýndu okkur.",
+            "date": "2005-05-13 12:24:00",
+            "post_id": "88651",
+            "reply_to_id": "88646"
+        },
+        {
+            "user_name": "Yank",
+            "text": "settu \n\n\n\nHTT í 4 þú ert sennilega kominn í 222x5x2=2220 sem er líklega of mikið\n\nÞessi óstöðugleiki hefur tæplega með hita á chipsett að gera.\n\nÞarft líka líklega að hækka vcore ekki sama að OC FX cpu og 3500+\n\nÉg er t.d. með 3500+ í 2,6Ghz og vcore 1,7. En það er kælt með vatni þannig hiti ekki vandamál.\n\n\n\nMeð þitt hardware færi ég strax í að prufa þetta.\n\n\n\n- Læsa AGP/PCI 66/33\n\n- 250 fbs x 10 = 2,5 Ghz\n\n- Divider á minni settur á 166/333DDR þannig á 250 fbs áttu að vera  @400DDR\n\n- Ef 90nm 3500+ þá vcore 1,6 - 1,65 fylgjast vel með hita. Og læka vcore ef þú kemst upp með það.\n\n- HTT sett á 4x250 fbs x2 = 2000\n\n- Setur minnið á auto fyrir timings eða stillir manualt á stock timings\n\nPrufar fyrst að pósta á T2 og keyrir Memtest af boot disk(Reyndar held ég að memtest sé í bios á DFI) og svo T1 ef í lagi þá póstar þú inn í windows. Sem þú þarft reyndar að setja upp aftur sýnist mér  \n\n\n\n\nBer þó enga ábyrgð á þessu, þitt hardware þín áhætta.\n\nEn DFI eiga að vera með þeim bestu ef ekki bestu OC borðin\n\n\n\nEdit fbs=FSB",
+            "date": "2005-05-13 13:32:00",
+            "post_id": "88673",
+            "reply_to_id": "88651"
+        },
+        {
+            "user_name": "galileo",
+            "text": "já er með Zalman 120 mm skrítnu viftuna sem er eins og blóm nema barahún er bæði úr áli og kopar ekki bara kopar. og 3500 90 nm.\n\nog takk æ'islega fyrir ábendinguna hahallur og yank.",
+            "date": "2005-05-13 13:49:00",
+            "post_id": "88681",
+            "reply_to_id": "88673"
+        },
+        {
+            "user_name": "galileo",
+            "text": "jæja þá er maður endanlega búinn í samræmdu prófunum og er ég búinn að redda mér Windows sem frændi minn átti.\n\nég prufaði bara að repair-a en þá kom einhvað can not copy einhvað bull og svo prufaði ég að formatta og þá kom líka cannot copyeinhvað bull. En þar sem ég hélt að þetta væri afþví að fyrri diskurinn sem ég var með var ekki professional heldur home edition af windows XP að það bara gæti ekki uppfært beint heldur þyrfti að formatta, þá man ég ekki nákvæmlega hvað stóð hjá mér þá en ég aákvað að gera bara skip og það virkaði ekki. en núna er ég hér með þann sama screen og það stendur   setup can not copy file:xpsp2re.dll.\n\n\n\nVeit einhver hvað ég get gert.",
+            "date": "2005-05-20 19:46:00",
+            "post_id": "89421",
+            "reply_to_id": "88681"
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "Hreinsaðu CMOS og hafðu allar stillingar venjulegar á meðan þú ert að installa Windowsinu. Getur verið að tölvan sé of óstöðug til að ná þessu.",
+            "date": "2005-05-21 16:21:00",
+            "post_id": "89471",
+            "reply_to_id": "89421"
+        },
+        {
+            "user_name": "galileo",
+            "text": "var búinn að clearea cmos en ég gerði bara skip og þá gekk þetta upp nema bara það að ég kemst ekki á Internet Ex til að dla \n\nMozilla svo að ég ætla láta vin minn (@rinn) til að koma með Firefox og redda  mér firefox og nýja netscape sem var að koma út 19 maí. Kemmst heldur ekki í Add Remove programs held nú að þetta sé bara diskurinn hvað haldið þið??",
+            "date": "2005-05-21 16:32:00",
+            "post_id": "89473",
+            "reply_to_id": "89471"
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "Getur verið, erfitt að segja samt.",
+            "date": "2005-05-21 16:38:00",
+            "post_id": "89476",
+            "reply_to_id": "89473"
+        },
+        {
+            "user_name": "galileo",
+            "text": "Er búinn að komast að því að þetta gerðist líka í öðrum tölvum sem sama windowsið var notað í. Takk allir.",
+            "date": "2005-05-21 23:59:00",
+            "post_id": "89519",
+            "reply_to_id": "89476"
+        }
+    ],
+    "date": "2005-05-12 18:57:00"
+}

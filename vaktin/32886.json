@@ -1,0 +1,226 @@
+{
+    "forum_title": "Yfirklukkun, hraðaprófanir og mods",
+    "id": "32886",
+    "title": "Tengja viftu við batterý",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=1&t=32886",
+    "posts": [
+        {
+            "user_name": "birgirdavid",
+            "text": "Sælir ég er með eina 80 mm tölvukassa viftu og ég var að spá í hvort að ég gæti tengt þessa viftu við venjulegt AA batterý því að viftan er með tvo víra einn svartur og einn rauður og get ég ekki bara tengt svarta vírinn við + á batterýinu og rauða vírinn við - á batterýinu ?",
+            "date": "2010-10-01 13:44:00",
+            "post_id": "285447",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Lexxinn",
+            "text": "Mundi giska á nei en það sakar ekki að prufa.",
+            "date": "2010-10-01 14:19:00",
+            "post_id": "285454",
+            "reply_to_id": "285447"
+        },
+        {
+            "user_name": "axyne",
+            "text": "Efast um að viftan snúist á einu venjulegu AA\nGetur raðtengd 8 til að ná 12V spennu inná viftuna eða nota bara eina 9V rafhlöðu, færð reyndar ekki full afköst frá viftunni... en sleppur við að hafa fleiri en eina rafhlöðu.",
+            "date": "2010-10-01 14:26:00",
+            "post_id": "285456",
+            "reply_to_id": "285454"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Þetta er alveg út úr kú að reyna.\nBatterýsrafmagn er algjörlega ónothæft sem heimilistækjarafmagn og þar við situr.\nÞú munt líklega bara slasa þig.",
+            "date": "2010-10-01 14:35:00",
+            "post_id": "285458",
+            "reply_to_id": "285456"
+        },
+        {
+            "user_name": "birgirdavid",
+            "text": "heyrðu takk fyrir þetta en ég prufaði þetta en viftan snerist ekki en hvernig raðtengi ég batterý ?",
+            "date": "2010-10-01 14:36:00",
+            "post_id": "285460",
+            "reply_to_id": "285458"
+        },
+        {
+            "user_name": "axyne",
+            "text": "skoðaðu neðri myndina.",
+            "date": "2010-10-01 16:32:00",
+            "post_id": "285476",
+            "reply_to_id": "285460"
+        },
+        {
+            "user_name": "dori",
+            "text": "Kóði: \nVelja allt\n-[ battery1 ]+-[ battery2 ]+-[ battery 3 ]+-[ battery4 ]+\nTengja plús og mínus saman og búa til röð.\nedit: damn u axyne",
+            "date": "2010-10-01 16:33:00",
+            "post_id": "285477",
+            "reply_to_id": "285476"
+        },
+        {
+            "user_name": "BjarkiB",
+            "text": "Einfaldara að modda bara USB-tengi á viftuna.",
+            "date": "2010-10-01 18:50:00",
+            "post_id": "285504",
+            "reply_to_id": "285477"
+        },
+        {
+            "user_name": "birgirdavid",
+            "text": "Já reyndar en heyriði takk fyrir öll svörin ég gerði reyndar ekki það sem þið bentuð mér en ég prufaði fyrst það sem dori sagði að tengja batterýin saman en það virkaði ekki en svo ég prufaði bara að taka eitt svona kassabatterý sem er 9v og tengdi það og viti menn það virkaði",
+            "date": "2010-10-01 18:57:00",
+            "post_id": "285509",
+            "reply_to_id": "285504"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "hver er tilgangurinn að tengja viftuna við batterí?",
+            "date": "2010-10-01 19:27:00",
+            "post_id": "285520",
+            "reply_to_id": "285509"
+        },
+        {
+            "user_name": "vesley",
+            "text": "forvitni og fikt ?",
+            "date": "2010-10-01 20:03:00",
+            "post_id": "285534",
+            "reply_to_id": "285520"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "ja en þetta er svona 5 sekundna verk...\nspurning hvort hann ætli sér að kæla eitthvað sem er ekki nálægt tölvunni.",
+            "date": "2010-10-01 20:53:00",
+            "post_id": "285546",
+            "reply_to_id": "285534"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Þar sem maður á svona 12V molex straumbreyti þá auðvitað skrúfaði maður saman 3stk. SAN ACE 80 viftur(minnir að sé úr einhverjum Dell vélum) og viti menn það væri hægt að nota þetta til að þurka á sér hendurnar...\nEða hárblásara eða e-h...\nSvona fikt getur verið svo skemmtilegt...\nÞað versta var þó að horfa upp á litla bró taka 3,5\"HDD segla og klemma eyrað á sér...  I still hear the screams at night...",
+            "date": "2010-10-01 21:29:00",
+            "post_id": "285552",
+            "reply_to_id": "285546"
+        },
+        {
+            "user_name": "GullMoli",
+            "text": "Annars er ég sjálfur með 120mm viftu tengda í 12v straumbreyti og nota þetta svo til að blása lofti inn um gluggann og í herbergið. Þetta er vifta með hraðastilli úr kísildal, helvíti mikill kraftur í þessu.\nHinsvegar þurfti ég að skella þétti þar sem viftan tengist í straumbreytinn því annars voru svaka rafmagnstruflanir um allt húsið, varla hlustanlegt á sumar útvarpstöðvar og eitthvað.",
+            "date": "2010-10-01 22:04:00",
+            "post_id": "285569",
+            "reply_to_id": "285552"
+        },
+        {
+            "user_name": "Benzmann",
+            "text": "hah ! Best !",
+            "date": "2010-10-01 23:45:00",
+            "post_id": "285592",
+            "reply_to_id": "285569"
+        },
+        {
+            "user_name": "Oak",
+            "text": "Ef þú hefðir lesið aðeins betur það sem axyne var að segja þá hefðirðu fattað þetta strax.  hann benti þér á 9v rafhlöðu sem er þetta kassa batterí sem þú talar um og neðri myndin frá honum sýnir þér hvernig þú gerir 6 volt og þú bætir fjórum rafhlöðum við þá ertu kominn með 12v sem keyrir viftuna á fullum krafti.",
+            "date": "2010-10-02 00:25:00",
+            "post_id": "285599",
+            "reply_to_id": "285592"
+        },
+        {
+            "user_name": "birgirdavid",
+            "text": "Ég las þetta alveg rennandi vel en ég vissi bara ekki að 9v batterý væru kassa batterý \nég gat hvort er ekki gert eins og hann bennti mér á því að ég á ekki auka víra til að tengja þetta á milli",
+            "date": "2010-10-02 00:34:00",
+            "post_id": "285601",
+            "reply_to_id": "285599"
+        },
+        {
+            "user_name": "GullMoli",
+            "text": "Þessi 9v rafhlaða endist stutt",
+            "date": "2010-10-02 02:18:00",
+            "post_id": "285612",
+            "reply_to_id": "285601"
+        },
+        {
+            "user_name": "aRnor`",
+            "text": "Taktu bara gamalt hleðslutæki af gsm síma og klipptu tengið af og lóðaðu / teipaðu saman vírarna \n Virkar fínt hjá mér",
+            "date": "2010-10-17 18:16:00",
+            "post_id": "289152",
+            "reply_to_id": "285612"
+        },
+        {
+            "user_name": "bixer",
+            "text": "ég er með sama fix, er með símahleðslutæki, það virkar vel en viftan er þá ekki eins hröð og hún var í kassanum...",
+            "date": "2010-10-17 18:57:00",
+            "post_id": "289162",
+            "reply_to_id": "289152"
+        },
+        {
+            "user_name": "Lexxinn",
+            "text": "Var að prufa með hleðslutækið en finnst vanta meiri kraft í viftuna veit einhver hvað er hægt að gera er að pæla í að splæsa í kannski 2-4 og setja saman hafa sem viftu í herberginu",
+            "date": "2010-10-17 19:04:00",
+            "post_id": "289164",
+            "reply_to_id": "289162"
+        },
+        {
+            "user_name": "Fylustrumpur",
+            "text": "afhverju þurfið þið svona viftu í herbergið ykkar? eruð þið að svitna svona mikið í tölvunni",
+            "date": "2010-10-17 19:06:00",
+            "post_id": "289165",
+            "reply_to_id": "289164"
+        },
+        {
+            "user_name": "Lexxinn",
+            "text": "Hversu þæginlegt helduru að það sé að hafa viftu blásandi yfir mann þegar maður er að svitna yfir heimadæmum?",
+            "date": "2010-10-17 19:18:00",
+            "post_id": "289169",
+            "reply_to_id": "289165"
+        },
+        {
+            "user_name": "Fylustrumpur",
+            "text": "bara, mjög þægilegt",
+            "date": "2010-10-17 19:21:00",
+            "post_id": "289170",
+            "reply_to_id": "289169"
+        },
+        {
+            "user_name": "Lexxinn",
+            "text": "Made my point.\nEn veit einhver um aflgjafa eða spennubreyti sem maður getur fundið á heimilinu eða fengið á slikk til að setja upp alveg upp í 4x80mm viftur?",
+            "date": "2010-10-17 19:24:00",
+            "post_id": "289174",
+            "reply_to_id": "289170"
+        },
+        {
+            "user_name": "bixer",
+            "text": "með gömlum aflgjafa gætiru gert þetta \nhttp://www.techwarelabs.com/guides/misc_mod/psumod/\n kallast að hot wire-a psuinn og GETUR verið hættulegt, farðu varlega í svona fikt",
+            "date": "2010-10-17 19:39:00",
+            "post_id": "289178",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "vesley",
+            "text": "http://www.elko.is/elko/product_detail/ ... goryid=906\ncase solved.",
+            "date": "2010-10-17 19:54:00",
+            "post_id": "289181",
+            "reply_to_id": "289178"
+        },
+        {
+            "user_name": "Lexxinn",
+            "text": "Ekki jafn gaman að þessu",
+            "date": "2010-10-17 19:57:00",
+            "post_id": "289184",
+            "reply_to_id": "289181"
+        },
+        {
+            "user_name": "dori",
+            "text": "Þetta er bara af því að símahleðslutæki eru 5v og venjulega eru vifturnar tengdar í 12v þegar þær eru í tölvunni. Það er auðvelt að fiffa þetta með því að taka powersupply og hotwira. Það er ekkert hættulegt, bara að passa að hotwira það ekki þegar það er ekkert álag, það á víst að fara illa í það.\nSvo er hægt að fá stillanlegan spennubreyti fyrir slikk, 1000-2000 kall held ég, sem er rosalega fínt að nota og alveg fullkomið í svona stúss. Tékkið í íhlutum.",
+            "date": "2010-10-17 21:46:00",
+            "post_id": "289224",
+            "reply_to_id": "289184"
+        },
+        {
+            "user_name": "DoofuZ",
+            "text": "Gera bara eins og ég gerði (sjá \nhér\n) \n Kaupir einfaldlega svona \nUSB í SATA/IDE breyti\n, tengir síðan straumbreytinn bara beint við viftuna. Svo ef þú vilt tengja fleiri viftur þá geturu bætt nokkrum \nY-köplum\n við",
+            "date": "2010-10-18 03:48:00",
+            "post_id": "289272",
+            "reply_to_id": "289224"
+        },
+        {
+            "user_name": "DabbiGj",
+            "text": "sparar líklegast meira til lengri tíma með að versla bara 230V viftu",
+            "date": "2010-10-18 13:10:00",
+            "post_id": "289324",
+            "reply_to_id": "289272"
+        }
+    ],
+    "date": "2010-10-17 19:39:00"
+}

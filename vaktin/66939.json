@@ -1,0 +1,1073 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "66939",
+    "title": "Lokað á deildu.net / icetracker.org",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=66939",
+    "posts": [
+        {
+            "user_name": "kfc",
+            "text": "Sælir, hvernig kemst maður inn á þessar síður eftir þessa aðgerð?\nhttp://www.ruv.is/frett/loka-a-deilisidur",
+            "date": "2015-09-16 12:55:00",
+            "post_id": "606647",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "belvar",
+            "text": "Getur googlað online proxy og notað það til þess að komast inn \nhttps://hide.me/en/proxy\n, \nhttps://kproxy.com/\n þetta eru fyrstu 2 ef þú nennir ekki að googla",
+            "date": "2015-09-16 13:22:00",
+            "post_id": "606648",
+            "reply_to_id": "606647"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "HMA VPNið virkar líka fínt.",
+            "date": "2015-09-16 13:31:00",
+            "post_id": "606649",
+            "reply_to_id": "606648"
+        },
+        {
+            "user_name": "Blues-",
+            "text": "Þetta er eins einfalt og það gerist ..\nopnið host skránna ykkar .. c:\\windows\\system32\\drivers\\hosts ef ég man rétt á win .. /etc/hosts á linux\nbætið við þessari færslu > 37.187.74.47\ticetracker.org\nMálið leyst ..\nps. eina sem ISP-inn þinn er að gera er að bæta við static DNS færslu á þessi lén sem er búið að blokka, \nsem síðan vísar þér á rangann vefþjón (þeirra eigin með Copyright Warning í þessu tilfelli)",
+            "date": "2015-09-16 13:48:00",
+            "post_id": "606651",
+            "reply_to_id": "606649"
+        },
+        {
+            "user_name": "Cikster",
+            "text": "Jæja sé að er búið að benda á proxy leiðina og að edita hosts skránna (sem getur verið leiðindi ef þeir hoppa um server einhvertíman síðar). Einfaldasta leiðin væri að breyta stillingunni á routernum og nota dns frá öðrum en íslenskum ISP ... t.d. google sem eru 8.8.8.8 og 8.8.4.4 eða fyrir þá sem þora ekki eða kunna ekki að fikta í routernum að fastsetja ip töluna á þeirri tölvu sem þarf að komast á síðuna og nota þessa dns þar.",
+            "date": "2015-09-16 14:12:00",
+            "post_id": "606652",
+            "reply_to_id": "606651"
+        },
+        {
+            "user_name": "kfc",
+            "text": "Online proxy virkar fínt, hitt fann ég ekki í win10\nTakk",
+            "date": "2015-09-16 14:16:00",
+            "post_id": "606653",
+            "reply_to_id": "606652"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Þeir eru að slást við vindmyllur .... algjörlega pointless að reyna að loka á þetta.",
+            "date": "2015-09-16 14:50:00",
+            "post_id": "606655",
+            "reply_to_id": "606653"
+        },
+        {
+            "user_name": "cc151",
+            "text": "Fyrir mig virkaði að nota bara google dns:\nhttp://prntscr.com/8h07ak\nhttp://prntscr.com/8h07x3\nhttp://prntscr.com/8h088v",
+            "date": "2015-09-16 14:51:00",
+            "post_id": "606656",
+            "reply_to_id": "606655"
+        },
+        {
+            "user_name": "Páll",
+            "text": "http://afghanpirate.com/\nGjössövel",
+            "date": "2015-09-16 15:32:00",
+            "post_id": "606660",
+            "reply_to_id": "606656"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Nota menn virkilega ennþá DNS frá símafélögunum?",
+            "date": "2015-09-16 15:41:00",
+            "post_id": "606661",
+            "reply_to_id": "606660"
+        },
+        {
+            "user_name": "kfc",
+            "text": "Hvaða máli skiftir það að nota DNS frá símafélögunum eða einhvað annað DNS?",
+            "date": "2015-09-16 17:03:00",
+            "post_id": "606662",
+            "reply_to_id": "606661"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Vegna þess að símafélögin geta krukkað í sínum DNS þjónum þannig að þegar þú ferð t.d inná icetracker.org (sem dæmi) að þá vísi það á allt aðra IP tölu, t.d server hjá þeim sjálfum, þar sem þeir birta bara \"sorry, lokað blah blah\".",
+            "date": "2015-09-16 17:08:00",
+            "post_id": "606663",
+            "reply_to_id": "606662"
+        },
+        {
+            "user_name": "Tiger",
+            "text": "Hverju öðru mæliru með? Var með openDNS í smá tíma en þá voru download frá Apple t.d. alveg hrikalega hæg.. hvað er best í þessu?",
+            "date": "2015-09-16 17:27:00",
+            "post_id": "606664",
+            "reply_to_id": "606663"
+        },
+        {
+            "user_name": "hagur",
+            "text": "8.8.8.8 google dns",
+            "date": "2015-09-16 17:34:00",
+            "post_id": "606667",
+            "reply_to_id": "606664"
+        },
+        {
+            "user_name": "kfc",
+            "text": "Breytir maður bæði Primary DNS og Secondary DNS? \nPrimary DNS verður þá 8.8.8.8 og Secondary DNS 8.8.4.4?",
+            "date": "2015-09-16 17:59:00",
+            "post_id": "606669",
+            "reply_to_id": "606667"
+        },
+        {
+            "user_name": "sopur",
+            "text": "Ég kemst enn inn á icetracker.org :O",
+            "date": "2015-09-16 18:24:00",
+            "post_id": "606671",
+            "reply_to_id": "606669"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Á Windows Vista og upp úr er best að ýta á start og skrifa Notepad, hægri smella svo á Notepad icon-ið og velja \"Run as Administrator\"\nÞegar að Notepad hefur opnast þá skal velja File > Open... og vafra að eftirfarandi staðsetningu: C:\\Windows\\System32\\drivers\\etc og velja skrá sem heitir hosts\nNeðst í skránna bætirðu við IP tölunni á vefsíðunni og gerir svo bil og skrifar í sömu linu nafnið á vefsíðunni.\nLokar svo Notepad og segir já við það hvort að þú viljir vista skránna.",
+            "date": "2015-09-16 18:29:00",
+            "post_id": "606672",
+            "reply_to_id": "606671"
+        },
+        {
+            "user_name": "nidur",
+            "text": "Flott hjá okkur að loka á þessar síður  \n \nOg auðvitað notar maður ekki dns frá símafélögunum nema að maður viti ekki hvað dns er",
+            "date": "2015-09-16 18:48:00",
+            "post_id": "606673",
+            "reply_to_id": "606672"
+        },
+        {
+            "user_name": "Blackened",
+            "text": "það fyrsta sem ég geri þegar ég kaupi mér Router er að setja DNS sem 8.8.8.8 og 8.8.4.4 og ég verð aldrei var við neitt svona bull \nLokanir eru bara fyrir þá sem að vita ekki betur!",
+            "date": "2015-09-16 19:19:00",
+            "post_id": "606675",
+            "reply_to_id": "606673"
+        },
+        {
+            "user_name": "BugsyB",
+            "text": "https://developers.google.com/speed/public-dns/docs/using?hl=en",
+            "date": "2015-09-16 19:50:00",
+            "post_id": "606679",
+            "reply_to_id": "606675"
+        },
+        {
+            "user_name": "toivido",
+            "text": "Ég er einn af þeim sem veit ekkert hvað þetta DNS er. Hvaða áhrif hefur það að breyta DNS með þessum hætti? ný spyr ég kannski eins og vitleysingur en t.d. eykst erlent niðurhal eða er eitthvað annað sem gerist. Það hlýtur eitthvað að gerast því annars væru allar routerar stilltir á 8.8.8.8, er það ekki annars?",
+            "date": "2015-09-17 00:11:00",
+            "post_id": "606693",
+            "reply_to_id": "606679"
+        },
+        {
+            "user_name": "toivido",
+            "text": "Hver er lausnin ef maður er með macca. Ég sá á athugasemdkerfi DV að einhver var með link á bat skrá en ég get ekkert opnað hana með mac, eða með hvaða forriti opna ég þetta?",
+            "date": "2015-09-17 00:11:00",
+            "post_id": "606694",
+            "reply_to_id": "606693"
+        },
+        {
+            "user_name": "straumar",
+            "text": "----\nx2\nmyndi líka þiggja svar við þessu hvað gerist ef maður breytir.....",
+            "date": "2015-09-17 00:22:00",
+            "post_id": "606695",
+            "reply_to_id": "606694"
+        },
+        {
+            "user_name": "Opes",
+            "text": "Apple - System Preferences - Networks - Wi-Fi (eða Airport) - Advanced... - DNS. Tæmir \"DNS Servers\" reitinn. Bætir við 8.8.8.8 og 8.8.4.4.",
+            "date": "2015-09-17 00:25:00",
+            "post_id": "606697",
+            "reply_to_id": "606695"
+        },
+        {
+            "user_name": "Blackened",
+            "text": "DNS eru það sem að í \"daglegu\" tali eru kallaðir Nafnaþjónar.. hver þjónustuaðili er með sína eigin nafnaþjóna sem að nettengingunni þinni er beint á\nÞað sem að nafnaþjónn gerir í rauninni er voða einfalt.. ef að þú biður browserinn þinn um segjum \nhttp://www.mbl.is\n þá sendir browserinn beiðni á DNS þjóninn og spyr hvaða IP tala er á bakvið mbl.is og DNS svarar \nhttp://92.43.192.110\n og browserinn þinn fer þangað\n8.8.8.8 og 8.8.4.4 eru bara nafnaþjónar sem að Google eiga en ekki Vodafone eða Síminn eða hver sem er.. \nEinfölduð skýring er að DNS er í rauninni svolítið eins og símaskrá \n þú sendir beiðni á DNS(símaskránna) um eitthvað nafn.. og DNSinn sendir þér símanúmerið(iptöluna) til baka og þú hringir\nÞetta hefur engin áhrif á það hvaðan þú sækir dótið.. þetta er bara þjónusta sem segir þér hvaða iptala er á bakvið hvaða lén\nÞessar \"lokanir\" hjá símafélögunum hafa slétt engin áhrif á síðurnar sjálfar.. þeir bara stilla nafnaþjónana sína til að vísa þér á einhverja tilbúna lokunarsíðu í staðinn fyrir síðuna sjálfa",
+            "date": "2015-09-17 00:33:00",
+            "post_id": "606698",
+            "reply_to_id": "606697"
+        },
+        {
+            "user_name": "hkr",
+            "text": "Held að þetta sé ekki alveg rétt hjá þér, eins og ég skil þetta að þá er kosturinn við það að nota DNS frá þínum ISP er að þá getur þú nýtt þér local caching server'a sem ISP'inn þinn hýsir hér hjá sér, t.d. akamai og GGC.\nSum fyrirtæki rukka ekki fyrir þá notkun á meðan önnur gera það, en ef þú ert að nota t.d. YouTube að þá eru líkur á því að þú farir beint út og ert því alltaf að nota erlent gagnamagn í staðinn fyrir að sækja það innanlands í gegnum GGC.",
+            "date": "2015-09-17 08:41:00",
+            "post_id": "606707",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Blackened",
+            "text": "Ok.. getur reyndar verið.. en ég hef svosem aldrei fylgst þannig með notkuninni þannig að ég myndi taka eftir því\nDNS frá ISP er bara þjónusta sem ég hætti að nota fyrir mörgum árum síðan \n og mér skilst svosem að Vodafone rukki fyrir youtube speglana hvorteðer þannig að fyrir mig þá kemur það út á sama stað",
+            "date": "2015-09-17 17:43:00",
+            "post_id": "606753",
+            "reply_to_id": "606707"
+        },
+        {
+            "user_name": "Kristján",
+            "text": "það er komið deildu.eu .....",
+            "date": "2015-09-17 20:56:00",
+            "post_id": "606783",
+            "reply_to_id": "606753"
+        },
+        {
+            "user_name": "straumar",
+            "text": "ég verð að segja ég er hissa á að hringdu taki þátt í þessu samstarfi. Helt þeir væru svona internet þjonusta sem stæði frá hinum. ekki sáttur við þá.",
+            "date": "2015-09-18 01:23:00",
+            "post_id": "606809",
+            "reply_to_id": "606783"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "How dare you talking sense to a technology impaired fool?\nHvað er búið að eyða mörgum milljónum í þetta og sambærileg mál?",
+            "date": "2015-09-18 01:52:00",
+            "post_id": "606810",
+            "reply_to_id": "606809"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "Ég kemst inná án þess að hafa breytt neinu :p Er hjá Vodafone...",
+            "date": "2015-09-18 02:11:00",
+            "post_id": "606811",
+            "reply_to_id": "606810"
+        },
+        {
+            "user_name": "sopur",
+            "text": "Sama hér, er hjá hringdu",
+            "date": "2015-09-18 08:08:00",
+            "post_id": "606814",
+            "reply_to_id": "606811"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Ég skrifaði einfalt chrome extension sem fer framhjá þessu fyrir þá sem vilja ekki keyra einhverjar bat/exe eða breyta host skrám.\nhttps://chrome.google.com/webstore/detail/bypasser-icelandic-isp-bl/jebiecieglfgfkccljijamgcpfjfiala?authuser=1",
+            "date": "2015-09-18 11:32:00",
+            "post_id": "606827",
+            "reply_to_id": "606814"
+        },
+        {
+            "user_name": "straumar",
+            "text": "hvernig ferðu að því er líka hjá hrindu ætlaði að sækja skrá frá egill  og þá kom hvítur skjár",
+            "date": "2015-09-18 16:22:00",
+            "post_id": "606846",
+            "reply_to_id": "606827"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Mæli með því að þú keyrir benchmark frá þinni tengingu og athugir þannig hvaða dns þjónn hentar þér best, getur t.d. notað forritið namebench: \nhttps://code.google.com/p/namebench/\nGoogle dns er annars í flestum tilfellum nokkuð safe choice: 8.8.8.8 og 8.8.4.4\nAnnars er náttúrulega lang best að reka bara sinn eigin dns þjón ef menn eru í slíkri aðstöðu",
+            "date": "2015-09-18 16:48:00",
+            "post_id": "606847",
+            "reply_to_id": "606846"
+        },
+        {
+            "user_name": "Baldurmar",
+            "text": "Ég var hvort sem er með DNS sett upp fyrir Netflix, verð nákvæmlega 0 var við þetta",
+            "date": "2015-09-18 17:25:00",
+            "post_id": "606848",
+            "reply_to_id": "606847"
+        },
+        {
+            "user_name": "Dúlli",
+            "text": "Deildu dautt ?",
+            "date": "2015-12-04 17:14:00",
+            "post_id": "612362",
+            "reply_to_id": "606848"
+        },
+        {
+            "user_name": "SIKk",
+            "text": "ég kemst inn..",
+            "date": "2015-12-04 17:28:00",
+            "post_id": "612363",
+            "reply_to_id": "612362"
+        },
+        {
+            "user_name": "Dúlli",
+            "text": "ég fæ þetta upp í chrome.",
+            "date": "2015-12-04 17:33:00",
+            "post_id": "612364",
+            "reply_to_id": "612363"
+        },
+        {
+            "user_name": "demaNtur",
+            "text": "https://proxy-nl.hide.me/index.php\nÉg nota þessa síðu og fer inná deildu.online þaðan",
+            "date": "2015-12-04 17:34:00",
+            "post_id": "612365",
+            "reply_to_id": "612364"
+        },
+        {
+            "user_name": "Dúlli",
+            "text": "Snild kemst núna inn skrítið hefur virkað allt fullkomlega vel hingað til.",
+            "date": "2015-12-04 17:37:00",
+            "post_id": "612366",
+            "reply_to_id": "612365"
+        },
+        {
+            "user_name": "kizi86",
+            "text": "nei? virkar hja mer...",
+            "date": "2015-12-04 17:53:00",
+            "post_id": "612371",
+            "reply_to_id": "612366"
+        },
+        {
+            "user_name": "Dúlli",
+            "text": "Eins og ég nefndi fyrir ofan náði í gegnum proxy. Hvað get ég gert til að sleppa þess að þurfa að nota það ?\nég er með Google DNS hélt að það átti að virka.",
+            "date": "2015-12-04 17:54:00",
+            "post_id": "612372",
+            "reply_to_id": "612371"
+        },
+        {
+            "user_name": "Tiger",
+            "text": "Google DNS og \nhttp://icetracker.org//browse.php\n virkar fínt hjá mér.",
+            "date": "2015-12-04 19:04:00",
+            "post_id": "612380",
+            "reply_to_id": "612372"
+        },
+        {
+            "user_name": "Dúlli",
+            "text": "Já ok, hef verið að notast við \nhttp://deildu.eu/\n slóðinna",
+            "date": "2015-12-04 19:12:00",
+            "post_id": "612382",
+            "reply_to_id": "612380"
+        },
+        {
+            "user_name": "kizi86",
+            "text": "hef lent í því að google dnsið hafi dottið út, þá tekur við dns hjá netveitu, og þá kemur \"blokkið\"",
+            "date": "2015-12-04 19:41:00",
+            "post_id": "612385",
+            "reply_to_id": "612382"
+        },
+        {
+            "user_name": "Dúlli",
+            "text": "Nákvæmlega, var búin að venja mig á það að fara á .EU en það kom samt aldrei svona blocked, var bara að loada og loada og ekkert gerðist. Prufaði icetracker og allt virkar smooth.",
+            "date": "2015-12-04 19:46:00",
+            "post_id": "612386",
+            "reply_to_id": "612385"
+        },
+        {
+            "user_name": "Hannesinn",
+            "text": "https://chrome.google.com/webstore/deta ... nfo-dialog\nÉg setti þetta upp fyrir einhverju síðan, fyrir þau örfáu tilvik sem að ég skoða þessa síðu.  Enda er árið 2015, bráðum 2016, og bulkið af efninu þarna er xvid/avi.",
+            "date": "2015-12-04 20:17:00",
+            "post_id": "612387",
+            "reply_to_id": "612386"
+        },
+        {
+            "user_name": "HoBKa-",
+            "text": "Hola extension fyrir chrome !\nVirkar vel fyrir mig",
+            "date": "2015-12-04 20:31:00",
+            "post_id": "612388",
+            "reply_to_id": "612387"
+        },
+        {
+            "user_name": "Galaxy",
+            "text": "hef verið að nota afghanpirate.com   virkar hjá 365",
+            "date": "2015-12-05 11:55:00",
+            "post_id": "612414",
+            "reply_to_id": "612388"
+        },
+        {
+            "user_name": "dbox",
+            "text": "get ekki komist inn á deildu.eu er hjá hringdu nota firefox\ner eitthvað til ráða ? :-/",
+            "date": "2015-12-07 17:29:00",
+            "post_id": "612595",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Tiger",
+            "text": "Búinn að setja inn google DNS?",
+            "date": "2015-12-07 17:42:00",
+            "post_id": "612596",
+            "reply_to_id": "612595"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Þú getur notað: \nhttps://addons.mozilla.org/en-US/firefo ... ivacy-vpn/\nEF deildu.eu virkar ekki þá geturðu prófað: \nhttp://icetracker.org/",
+            "date": "2015-12-07 17:57:00",
+            "post_id": "612600",
+            "reply_to_id": "612596"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Í guðana bænum ekki nota Hola eða aðra fría VPN þjónustu. Þú ert óafvitandi að leyfa öðru fólki að nota nettenginguna þína í hvað sem er. \nEins og ég segi þá skrifaði ég þetta chrome extension sem endurskrifað fyrirspurnina í chrome og kemst þannig inn.\nEkkert VPN, ekkert shady og virkar.\nhttps://chrome.google.com/webstore/detail/domain-block-bypasser-ice/jebiecieglfgfkccljijamgcpfjfiala?utm_source=chrome-app-launcher-info-dialog",
+            "date": "2015-12-07 18:00:00",
+            "post_id": "612601",
+            "reply_to_id": "612600"
+        },
+        {
+            "user_name": "Eiiki",
+            "text": "Í guðana bænum bætið bara við eftirfarandi línu inn í \nhosts\n skránna ykkar:\nKóði: \nVelja allt\n37.187.74.47 icetracker.org\n37.187.74.47 deildu.net\nVistið skránna, opnið browserinn ykkar og farið inn á deildu.net eða icetracker.org. That is all.",
+            "date": "2015-12-07 23:44:00",
+            "post_id": "612669",
+            "reply_to_id": "612601"
+        },
+        {
+            "user_name": "playman",
+            "text": "Bara breyta DNS í tölvunni svo að þið getið hætt að spá í þessu, þurfið aldrei að breyta neinu aftur þó svo að \nISPinn loki á næstkomandi síður.\nHérna gerirðu þetta í windows 7\nhttp://www.sevenforums.com/tutorials/15 ... s-7-a.html\nHérna er fyrir windows 8 og 8.1\nhttps://support.opendns.com/entries/375 ... figuration\nHérna er fyrir Windows 10\nhttps://support.opendns.com/entries/956 ... structions\nSetja svo þessar tölur í reitina, ekki þessar sem að eru sýndar í linkunum fyrir ofan.\nPreferred DNS server 8.8.8.8\nAlternate DNS server 8.8.4.4\nDNS er bara eins og símaskrá, í staðin fyrir að nota símaskránna frá Símanum þá ertu að nota símaskrá frá Google.",
+            "date": "2015-12-08 14:33:00",
+            "post_id": "612701",
+            "reply_to_id": "612669"
+        },
+        {
+            "user_name": "Tw1z",
+            "text": "virkar ekki að gera DNS 8.8.8.8 og 8.8.4.4\nFæ alltaf bara: Changing to new servers... go to \nhttps://deildu.net",
+            "date": "2016-04-18 18:22:00",
+            "post_id": "622394",
+            "reply_to_id": "612701"
+        },
+        {
+            "user_name": "zaiLex",
+            "text": "Já hún er víst eitthvað niðri núna síðan",
+            "date": "2016-04-18 18:31:00",
+            "post_id": "622396",
+            "reply_to_id": "622394"
+        },
+        {
+            "user_name": "B0b4F3tt",
+            "text": "Er ennþá eitthvað vesen með deildu.net?",
+            "date": "2016-04-20 22:03:00",
+            "post_id": "622546",
+            "reply_to_id": "622396"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Nei, ég tékkaði á þessu fyrir þig og það er ekkert mál að tengjast.\nhttps://icetracker.org/",
+            "date": "2016-04-20 22:12:00",
+            "post_id": "622548",
+            "reply_to_id": "622546"
+        },
+        {
+            "user_name": "vesley",
+            "text": "Gæti vandamálið tengst ákveðnum DNS stillingum ?   ég kemst inná deildu í minni tölvu en tölvan hjá kærustunni kemst ekki, og er hún t.d. með addonið hjá Pandemic",
+            "date": "2016-04-20 23:32:00",
+            "post_id": "622556",
+            "reply_to_id": "622548"
+        },
+        {
+            "user_name": "brynjarbergs",
+            "text": "Ég var með add-onið fyrir Chome og það var hætt að virka - svo ég breytti DNS í 8.8.8.8 en það virkaði ekki heldur.\nSvo prufaði ég að disable-a add-onið en hafa DNS inni og þá virkaði það smooth! \nSemsagt - disable add-on og setjið dns í 8.8.8.8 / 8.8.4.4",
+            "date": "2016-04-21 10:54:00",
+            "post_id": "622569",
+            "reply_to_id": "622556"
+        },
+        {
+            "user_name": "ingibje",
+            "text": "það sem brynjarbergs sagði, extensionið virkar ekki lengur :l virkaði hjá mér að breyta dns .",
+            "date": "2016-04-21 12:02:00",
+            "post_id": "622571",
+            "reply_to_id": "622569"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Þeir breyttu öllu í HTTPS og extensionið fær öryggisvillu ef ég reyni að breyta HTTPS köllum þar að auki styður chrome api-inn ekki að fikta í DNS stillingum.",
+            "date": "2016-04-21 13:22:00",
+            "post_id": "622574",
+            "reply_to_id": "622571"
+        },
+        {
+            "user_name": "B0b4F3tt",
+            "text": "Já það virkaði hjá mér að disable-a þetta chrome extension og setja inn google dns-ana.",
+            "date": "2016-04-21 19:51:00",
+            "post_id": "622608",
+            "reply_to_id": "622574"
+        },
+        {
+            "user_name": "zedro",
+            "text": "Ég notaði þessa aðferð seinast. Er einhver með uppfærða ip tölu handa mér?",
+            "date": "2016-04-25 21:49:00",
+            "post_id": "622864",
+            "reply_to_id": "622608"
+        },
+        {
+            "user_name": "stefhauk",
+            "text": "Ein pæling ég hætti að dl í smá tíma og hlutfallið mitt fór niður í  0.244  er enginn leið að fá þetta upp án þess að þurfa styrkja síðuna veit mikið dochbag move að vilja ekki gera það. eða þá að þurfa búa til nýjan aðgang?",
+            "date": "2016-04-25 21:53:00",
+            "post_id": "622866",
+            "reply_to_id": "622864"
+        },
+        {
+            "user_name": "kizi86",
+            "text": "er komið bonus punkta system á deildu, færð 0.2 punkta per torrent sem ert að deila (þe er merkt sem \"seeding\" í torrent forritinu) þarft ekki að vera endilega að uploada því. getur fengið max 2 punkta á klukkustund, sem gerir 48 punkta per dag, eftir 10 daga ertu þá kominn með 480 punkta sem þú getur skipt út fyrir 10GB af \"uploadi\" (reyndar er það bara 450 punktar sem þarf fyrir 10GB)",
+            "date": "2016-04-25 22:21:00",
+            "post_id": "622868",
+            "reply_to_id": "622866"
+        },
+        {
+            "user_name": "kizi86",
+            "text": "af hverju breytir þú bara ekki um dns þjónustu og hættir að nota dns frá internet veitunni þinni? laaaang einfaldast og þá komast allir á heimilinu inn á deildu (ef breytir dns í routernum)",
+            "date": "2016-04-25 22:23:00",
+            "post_id": "622869",
+            "reply_to_id": "622868"
+        },
+        {
+            "user_name": "pattzi",
+            "text": "Ég kemst beint inn \nhttp://afghanpirate.com/",
+            "date": "2016-04-25 22:26:00",
+            "post_id": "622870",
+            "reply_to_id": "622869"
+        },
+        {
+            "user_name": "kizi86",
+            "text": "af hverju að eltast endalaust við lén þegar það er hægt að breyta þessu once n 4 all? tekur ca 1 mín að breyta þessu í routernum og þarft aldrei að pæla í þessu aftur?",
+            "date": "2016-04-25 23:19:00",
+            "post_id": "622875",
+            "reply_to_id": "622870"
+        },
+        {
+            "user_name": "pattzi",
+            "text": "Þetta hefur virkað síðastliðið ár svo ég er nú ekkert að eltast við neitt sko",
+            "date": "2016-04-25 23:43:00",
+            "post_id": "622877",
+            "reply_to_id": "622875"
+        },
+        {
+            "user_name": "Kristján",
+            "text": "einhverjir hjá NOVA með net og búinir að setja inn google dns en komast samt ekki inná deildu?",
+            "date": "2016-08-02 21:32:00",
+            "post_id": "628682",
+            "reply_to_id": "622877"
+        },
+        {
+            "user_name": "krissdadi",
+            "text": "Sælir Vaktarar\nÉg kemst ekki inn á Deildu, Afganpirate né Icetracker, er búinn að breyta DNS á Google og setja linkana inn í host skránna \nÉg er líka með browserinn frá deildu og ekkert virkar? Browserinn sínir bara mynd af Hulk að slíta í sundur snúru \nOg ég er búinn að prufa allt þar inni til að laga browserinn \"fix\" takkann og DNS stillingarnar\nEinhver með lausn á þessu?",
+            "date": "2016-10-01 12:20:00",
+            "post_id": "633371",
+            "reply_to_id": "628682"
+        },
+        {
+            "user_name": "Viggi",
+            "text": "Síðan er niðri núna 502 bad gateway en þeir eru yfirleitt fljótir að koma þessu upp aftur",
+            "date": "2016-10-01 12:41:00",
+            "post_id": "633375",
+            "reply_to_id": "633371"
+        },
+        {
+            "user_name": "PepsiMaxIsti",
+            "text": "Er einhver að komast inn á deildu?",
+            "date": "2016-10-01 14:19:00",
+            "post_id": "633390",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "HalistaX",
+            "text": "Naw, tis down.. \nBut according to \nhttp://downforeveryoneorjustme.com/icetracker.org\n it's in fact up!",
+            "date": "2016-10-01 15:14:00",
+            "post_id": "633401",
+            "reply_to_id": "633390"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Það er vegna þess að lénið er ennþá að svara, bara með villuboðum.",
+            "date": "2016-10-01 23:26:00",
+            "post_id": "633487",
+            "reply_to_id": "633401"
+        },
+        {
+            "user_name": "HalistaX",
+            "text": "Ait, Ég kann algjörlega ekki neitt á þetta shit.... \n \nYou live and learn and do some living along with your learning.",
+            "date": "2016-10-01 23:38:00",
+            "post_id": "633488",
+            "reply_to_id": "633487"
+        },
+        {
+            "user_name": "pattzi",
+            "text": "Núna er Afghanpirate.com dautt kemst inn en eins og það er outdated aðrir að lenda í því ?",
+            "date": "2016-10-04 22:10:00",
+            "post_id": "633753",
+            "reply_to_id": "633488"
+        },
+        {
+            "user_name": "HalistaX",
+            "text": "Kemst vel inná \nhttps://icetracker.org/browse.php",
+            "date": "2016-10-04 22:23:00",
+            "post_id": "633755",
+            "reply_to_id": "633753"
+        },
+        {
+            "user_name": "PepsiMaxIsti",
+            "text": "Er ekkert að frétta, er ekki að komast inn",
+            "date": "2016-10-05 17:03:00",
+            "post_id": "633877",
+            "reply_to_id": "633755"
+        },
+        {
+            "user_name": "Cvureti",
+            "text": "fór inná í gærkvöldi og náði og sækja og ekkert vesen.\nkomst ekki inn á mánudag.",
+            "date": "2016-10-05 17:06:00",
+            "post_id": "633878",
+            "reply_to_id": "633877"
+        },
+        {
+            "user_name": "vesi",
+            "text": "Virkar hjá mér...",
+            "date": "2016-10-05 17:19:00",
+            "post_id": "633880",
+            "reply_to_id": "633878"
+        },
+        {
+            "user_name": "jardel",
+            "text": "Hvernig kemst ég inn á deildu.net\nhvað skrifa ég til að komaast inn? vil helst komast inn án þess að þrufa að nota proxy",
+            "date": "2017-05-26 18:24:00",
+            "post_id": "649947",
+            "reply_to_id": "633880"
+        },
+        {
+            "user_name": "HalistaX",
+            "text": "Notendanafn og lykilorð? \nAnnars nota ég bara \nhttps://icetracker.org/browse.php\n og VPN.",
+            "date": "2017-05-26 18:33:00",
+            "post_id": "649948",
+            "reply_to_id": "649947"
+        },
+        {
+            "user_name": "einarhr",
+            "text": "Setur upp Google DNS\nhttps://developers.google.com/speed/public-dns/",
+            "date": "2017-05-26 18:34:00",
+            "post_id": "649949",
+            "reply_to_id": "649948"
+        },
+        {
+            "user_name": "jardel",
+            "text": "sæll ef ég geri það slepp ég þá við þetta proxy?",
+            "date": "2017-05-26 18:37:00",
+            "post_id": "649951",
+            "reply_to_id": "649949"
+        },
+        {
+            "user_name": "Skari",
+            "text": "Yes\nhttps://www.youtube.com/watch?v=FE82Fyo9Kzw\nHérna er 1 búinn að gera video hvernig þú setur google dns á windows 10 vél,  ath að þú velur 'ethernet' í staðinn fyrir wifi ef þú ert beintengdur.\nÞetta er nóg til að komast inn á síðuna",
+            "date": "2017-05-26 18:44:00",
+            "post_id": "649952",
+            "reply_to_id": "649951"
+        },
+        {
+            "user_name": "Climbatiz",
+            "text": "nota bara HOSTS fælinn með skrifað \"104.27.148.52\t\t\ticetracker.org\" og það virkar alveg fínt til að ná síðunni",
+            "date": "2017-05-26 18:45:00",
+            "post_id": "649953",
+            "reply_to_id": "649952"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "http://deildu.ddns.me/\nMálið dautt!",
+            "date": "2017-05-26 19:03:00",
+            "post_id": "649956",
+            "reply_to_id": "649953"
+        },
+        {
+            "user_name": "jardel",
+            "text": "sæll ég gerði nákvæmlega eins og var gert á youtube ég sláði inn \nhttp://www.deildu.net\n og kemst ekki inn þannig.\nég er með windows 10 og nota firefox ef það skiptir einhverju. ég tek neti i gegnum rafmagn ethernet þá væntanlega fór eftir þeim leiðbeiningum.",
+            "date": "2017-05-26 19:41:00",
+            "post_id": "649962",
+            "reply_to_id": "649956"
+        },
+        {
+            "user_name": "steinarsaem",
+            "text": "Google dns og virkar fínt.",
+            "date": "2017-05-26 20:27:00",
+            "post_id": "649963",
+            "reply_to_id": "649962"
+        },
+        {
+            "user_name": "jardel",
+            "text": "Ég er búinn að breyta dns styllingum.\nHvernig kemst ég inn á deildu?",
+            "date": "2017-05-26 21:25:00",
+            "post_id": "649971",
+            "reply_to_id": "649963"
+        },
+        {
+            "user_name": "jardel",
+            "text": "Ég fór eftir þessu myndbandi á youtube. Núna er ég búinn að breyta dns styllingunum.\nÉg virðiðst víst vera það heimskur að ég fatta ekki hvernig ég kemst inn á deildu þrátt fyrir að vera búinn að breyta dns styllingunum :-(",
+            "date": "2017-05-26 22:39:00",
+            "post_id": "649977",
+            "reply_to_id": "649971"
+        },
+        {
+            "user_name": "emil40",
+            "text": "http://deildu.servep2p.com/browse.php",
+            "date": "2017-05-26 23:00:00",
+            "post_id": "649980",
+            "reply_to_id": "649977"
+        },
+        {
+            "user_name": "kizi86",
+            "text": "búinn að restarta tölvunni? þarf að reloada cache og dns cache í browser og tölvu, prufaðu að restarta tölvunni og ef það virkar ekki, þá restarta router, svo tölvu, svo bara fara inná \nwww.deildu.net\n eða \nwww.icetracker.org\n og þarft aldrei að hugsa um þetta framar",
+            "date": "2017-05-26 23:15:00",
+            "post_id": "649981",
+            "reply_to_id": "649980"
+        },
+        {
+            "user_name": "jardel",
+            "text": "Sæll takk fyrir svarið. Já er búinn að restarta öllu saman og ekkert gerist",
+            "date": "2017-05-26 23:45:00",
+            "post_id": "649987",
+            "reply_to_id": "649981"
+        },
+        {
+            "user_name": "rbe",
+            "text": "hmm nota google dns ?\nheld að google viti nú alveg nóg um mann fyrir og ekki á það bætandi að fara nota dns inn þeirra líka ?\neruð þið að nota chrome vafrann, google leitarvélina og kannski með android síma líka (spyphone) ?\ntækin hér á heimilinu senda á milli 5-20þús fyrirspurnir á dag á dns , hvað skildi google gera við þær upplýsingar ?\nnota ekki neitt frá google punktur . meiri segja google analytics er blokkað í browser .\ner bráðilla  við þetta sorp fyrirtæki sem lifir á auglýsingum og framleiðir stýrkerfi og hefur engan metnað í að supporta það , \nlætur framleiðendur tækjanna sjá um það sem þeir geta ekki og vilja ekki.",
+            "date": "2017-05-26 23:46:00",
+            "post_id": "649988",
+            "reply_to_id": "649987"
+        },
+        {
+            "user_name": "kizi86",
+            "text": "Nota þá bara opendns",
+            "date": "2017-05-27 00:41:00",
+            "post_id": "649989",
+            "reply_to_id": "649988"
+        },
+        {
+            "user_name": "jardel",
+            "text": "Er engin möguleiki að komast inn á deildu án þess að þurfa að nota proxy?",
+            "date": "2017-05-28 13:17:00",
+            "post_id": "650058",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "arniola",
+            "text": "http://51.255.32.210",
+            "date": "2017-05-28 13:49:00",
+            "post_id": "650063",
+            "reply_to_id": "650058"
+        },
+        {
+            "user_name": "B0b4F3tt",
+            "text": "Sælir\nVeit að ég er að endurlífga hálfsárs gamlan þráð en veit einhver hvað er að gerast með deildu.net? Undanfarna mánuði er ég búinn að fara inn á hann á þessari ip tölu hér: 51.255.32.210 en svo í síðustu viku virtist sem að trackerinn hjá þeim væri dauður þar sem enginn var að deila né sækja. Svo í gær þá hætti síðan alveg að svara.",
+            "date": "2017-12-07 22:06:00",
+            "post_id": "662599",
+            "reply_to_id": "650063"
+        },
+        {
+            "user_name": "steini_magg",
+            "text": "Ég hef notað prozysíður.",
+            "date": "2017-12-07 23:58:00",
+            "post_id": "662601",
+            "reply_to_id": "662599"
+        },
+        {
+            "user_name": "russi",
+            "text": "Setið upp Google DNS sem dns server hjá ykkur og sleppið við þetta vpn og proxy drasl.\nÞið getið googlað, how to use google dns",
+            "date": "2017-12-08 00:30:00",
+            "post_id": "662604",
+            "reply_to_id": "662601"
+        },
+        {
+            "user_name": "einarhr",
+            "text": "Ég hef alltaf verið með Google DNS á vélinni minni, eftir að ég fór í 1gb um daginn þá var gert Firmware update á Router hjá mér og þá virkar Google DNS ekki. Ég get ekki breytt DNS serverum í routernum. Er hjá Símanum",
+            "date": "2017-12-08 02:11:00",
+            "post_id": "662605",
+            "reply_to_id": "662604"
+        },
+        {
+            "user_name": "ZiRiuS",
+            "text": "Getur þú ekki breytt honum \"manually\" í Windows bara? Control Panel > Network & Sharing Center > Change Adaptive Settings (er vinstra megin) > Hægri smella á networkið sem þú notar > Properties > Velur Internet Protocol Version 4 > Properties > DNS neðst",
+            "date": "2017-12-08 02:45:00",
+            "post_id": "662606",
+            "reply_to_id": "662605"
+        },
+        {
+            "user_name": "B0b4F3tt",
+            "text": "Ok, það virkaði semsagt að setja inn Google dns-inn ásamt því að nota \nhttp://deildu.servep2p.com\n.\nFinnst vera alltof mörg domain á bakvið deildu",
+            "date": "2017-12-08 06:53:00",
+            "post_id": "662612",
+            "reply_to_id": "662606"
+        },
+        {
+            "user_name": "einarhr",
+            "text": "Ég er með Google DNS stillt manualy í tölvunni minni og hef verið með í 3 ár allavega, en eftir Firmware uppfærlslu frá Símanum þá virkar ekki Deildu og Pirate Bay. Ég ætlaði þá að setja upp DNS í routernum en það er ekki í boði lengur.",
+            "date": "2017-12-08 11:21:00",
+            "post_id": "662623",
+            "reply_to_id": "662612"
+        },
+        {
+            "user_name": "worghal",
+            "text": "er þetta router frá símanum?",
+            "date": "2017-12-08 12:37:00",
+            "post_id": "662633",
+            "reply_to_id": "662623"
+        },
+        {
+            "user_name": "einarhr",
+            "text": "Jamm sá nýjasti",
+            "date": "2017-12-08 13:19:00",
+            "post_id": "662641",
+            "reply_to_id": "662633"
+        },
+        {
+            "user_name": "einarn",
+            "text": "hef ekki orðið var við neitt vesen með google dns. Enn það var sendur út póstur um að það hefði verið bætt við léni \nhttp://2117.deildu.servep2p.com\nhttp://2117.icelanders.myftp.org",
+            "date": "2017-12-08 19:35:00",
+            "post_id": "662664",
+            "reply_to_id": "662641"
+        },
+        {
+            "user_name": "playman",
+            "text": "Var að skipta um router hjá símanum, hef alltaf komist inná deildu.net eftir að ég stillti á google DNS í tölvunni minni, svo \nnúna fæ ég upp lögbannsíðuna þegar að ég fer inná deildu.net.\nEr routerinn að overwrita DNS sem ég segi tölvunni að nota?\nVar ekki að sjá að það væri hægt að skipta um DNS server í þessu Homeware sem er á routernum, eða þarf að fara einvherja spes leið að því?",
+            "date": "2018-04-02 23:40:00",
+            "post_id": "669750",
+            "reply_to_id": "662664"
+        },
+        {
+            "user_name": "pattzi",
+            "text": "Ég nota HOXXVPN i firefox app þar \nÞað virkar til að komast inná deildu",
+            "date": "2018-04-03 18:00:00",
+            "post_id": "669792",
+            "reply_to_id": "669750"
+        },
+        {
+            "user_name": "bigggan",
+            "text": "Hefuru reynt 1.1.1.1 og 1.0.0.1 sem dns? Cloudflare er með þau.",
+            "date": "2018-04-03 18:39:00",
+            "post_id": "669797",
+            "reply_to_id": "669792"
+        },
+        {
+            "user_name": "playman",
+            "text": "Nota ekki firefox og var að vonast til þess að þurfa ekki að setja upp eitthvað app/extension fyrir eitthvað\nsem að virkaði fínt áður :/\nVar að prófa það og það breytti engu, enda ætti það ekki að breyta neinu þar sem að google dns er ekki að blokka deildu.net",
+            "date": "2018-04-03 19:20:00",
+            "post_id": "669798",
+            "reply_to_id": "669797"
+        },
+        {
+            "user_name": "jonfr1900",
+            "text": "Hvað segir dnstraceroute þér? Þetta er skipun í Linux ef þú ert með rétta forritapakka uppsettan. Mér sýnist á lýsingum að routerinn sé að harð-beina þessu á lögbannasíðu. Það getur verið örlítið vesen að fara í kringum þetta.",
+            "date": "2018-04-03 19:36:00",
+            "post_id": "669804",
+            "reply_to_id": "669798"
+        },
+        {
+            "user_name": "pattzi",
+            "text": "Nota einmitt það bara til að komast á deildu annars vel ég chrome \nSent from my SM-A520F using Tapatalk",
+            "date": "2018-04-03 19:53:00",
+            "post_id": "669806",
+            "reply_to_id": "669804"
+        },
+        {
+            "user_name": "playman",
+            "text": "Er því miður ekki með Linux uppsett hjá mér sem stendur. Hvernin vesen væri það þá?",
+            "date": "2018-04-03 20:53:00",
+            "post_id": "669817",
+            "reply_to_id": "669806"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Þurfið engan DNS eða vesen. Notið bara þessa slóð:\nhttp://51.255.32.210/",
+            "date": "2018-04-03 21:16:00",
+            "post_id": "669818",
+            "reply_to_id": "669817"
+        },
+        {
+            "user_name": "jonfr1900",
+            "text": "Þú þarft \"Recursive DNS Resolving\" til þess að komast í kringum þetta. Gætir gert það með dnsmasq hugbúnaðinum (sem gerir þetta sjálfvirkt). Ég er með dnsmasq á staðarnetsþjóninum mínum og það virðist koma í veg fyrir öll möguleg bönn hjá mér í Danmörku (aðalega gegn Pirtabay). Þar sem ég er hinsvegar hættur að nota torrent þá fylgist ég ekki með því. Ég vísa dnsmasq á Google DNS.\nNánar, \nWhat Is the Difference between Authoritative and Recursive DNS Nameservers?",
+            "date": "2018-04-04 08:33:00",
+            "post_id": "669836",
+            "reply_to_id": "669818"
+        },
+        {
+            "user_name": "Squinchy",
+            "text": "Mæli nú bara með því að fara í viðskipti við fyritæki sem ekki fara lengra en þeir þurfa gagnvart löggjöfinni og hafa ekki hagsmuni að verja hvað varðar frelsi á interneti\n \n \nSíminn",
+            "date": "2018-04-04 10:11:00",
+            "post_id": "669839",
+            "reply_to_id": "669836"
+        },
+        {
+            "user_name": "afrika",
+            "text": "Smáá spurning , getið þið loggað ykkur inn á deildu ? ekkert virkar hjá mér og segir annað hvort að user og pass sé rangt og svo að mail hjá mér sé ekki til í gagnagrunni hjá þeim....",
+            "date": "2018-05-01 21:43:00",
+            "post_id": "671517",
+            "reply_to_id": "669839"
+        },
+        {
+            "user_name": "ColdIce",
+            "text": "Virkaði í dag en núna er user eða pass rangt :/",
+            "date": "2018-05-01 21:47:00",
+            "post_id": "671519",
+            "reply_to_id": "671517"
+        },
+        {
+            "user_name": "afrika",
+            "text": "Frábært... Vona að síðan séð dauð en að hafa verið hökkuð",
+            "date": "2018-05-01 22:10:00",
+            "post_id": "671522",
+            "reply_to_id": "671519"
+        },
+        {
+            "user_name": "kizi86",
+            "text": "fínt hjá mér, ekkert vesen eða neitt",
+            "date": "2018-05-02 01:31:00",
+            "post_id": "671536",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "afrika",
+            "text": "kemst ekki inn fyrir mitt litla líf. welp búhú",
+            "date": "2018-05-02 18:18:00",
+            "post_id": "671563",
+            "reply_to_id": "671536"
+        },
+        {
+            "user_name": "Arena77",
+            "text": "Það er ekki hægt að komast inn alltaf wrong password and username?",
+            "date": "2018-05-02 20:13:00",
+            "post_id": "671571",
+            "reply_to_id": "671563"
+        },
+        {
+            "user_name": "Viggi",
+            "text": "Virkar fínt hjá mér. Nota hana orðið lítið þar sem ég komst í aðra mikklu betri",
+            "date": "2018-05-02 20:18:00",
+            "post_id": "671572",
+            "reply_to_id": "671571"
+        },
+        {
+            "user_name": "Arena77",
+            "text": "Hvaða síða er það?",
+            "date": "2018-05-02 20:33:00",
+            "post_id": "671573",
+            "reply_to_id": "671572"
+        },
+        {
+            "user_name": "Viggi",
+            "text": "Privatehd.to en þarft invite sem ég hef ekki",
+            "date": "2018-05-02 20:38:00",
+            "post_id": "671574",
+            "reply_to_id": "671573"
+        },
+        {
+            "user_name": "afrika",
+            "text": "Ég er með aðgang að torrentday( allt sem er á deildu kemur þaðan anyways) en finnst fínt að fara á deildu annars lagið.",
+            "date": "2018-05-02 20:55:00",
+            "post_id": "671576",
+            "reply_to_id": "671574"
+        },
+        {
+            "user_name": "Arena77",
+            "text": "Hæ gætir þú reddað mér invite kóda?",
+            "date": "2018-05-02 20:59:00",
+            "post_id": "671579",
+            "reply_to_id": "671576"
+        },
+        {
+            "user_name": "afrika",
+            "text": "Sorry en ég á bara einn eftir og hann er frátekinn. Skal hafa þig í huga ef ég fæ annan, hef ekki mikil tök á að deila mikið vegna aðstöðu leysis.",
+            "date": "2018-05-02 21:09:00",
+            "post_id": "671581",
+            "reply_to_id": "671579"
+        },
+        {
+            "user_name": "Arena77",
+            "text": "Já takk endilega takk fyrir",
+            "date": "2018-05-02 21:38:00",
+            "post_id": "671582",
+            "reply_to_id": "671581"
+        },
+        {
+            "user_name": "muslingur",
+            "text": "icetracker bypass, virkar hjá mér flott.",
+            "date": "2018-05-04 17:50:00",
+            "post_id": "671687",
+            "reply_to_id": "671582"
+        },
+        {
+            "user_name": "benediktkr",
+            "text": "Er einhver með boðslykil fyrir Deildu? Signup virðist a.m.k. ekki virka.",
+            "date": "2018-05-26 08:52:00",
+            "post_id": "672750",
+            "reply_to_id": "671687"
+        },
+        {
+            "user_name": "siggik",
+            "text": "Basic, deildu niðri, einhver með boðslykil á einhverja góða erlenda ?",
+            "date": "2018-07-23 20:04:00",
+            "post_id": "675158",
+            "reply_to_id": "672750"
+        },
+        {
+            "user_name": "pattzi",
+            "text": "Hún Virkar \nég nota Zenmate í gegnum þýskaland",
+            "date": "2018-07-23 23:26:00",
+            "post_id": "675170",
+            "reply_to_id": "675158"
+        },
+        {
+            "user_name": "MrIce",
+            "text": "ég er ekki að komast inn á deildu, ætli þeir hafi loksins náð að drepetta? o.O",
+            "date": "2018-07-24 03:40:00",
+            "post_id": "675174",
+            "reply_to_id": "675170"
+        },
+        {
+            "user_name": "jericho",
+            "text": "kemst inn á deildu frá noregi",
+            "date": "2018-07-24 09:02:00",
+            "post_id": "675179",
+            "reply_to_id": "675174"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Hefur IP talan ekki alltaf virkað allstaðar án vesens?\nhttp://51.255.32.210/",
+            "date": "2018-07-24 12:58:00",
+            "post_id": "675183",
+            "reply_to_id": "675179"
+        },
+        {
+            "user_name": "Moldvarpan",
+            "text": "Það er ekkert að deildu. Vesenið væntanlega ykkar megin.",
+            "date": "2018-07-24 13:06:00",
+            "post_id": "675184",
+            "reply_to_id": "675183"
+        },
+        {
+            "user_name": "MrIce",
+            "text": "Virkar fyrir mig, takk kærlega",
+            "date": "2018-07-24 14:58:00",
+            "post_id": "675192",
+            "reply_to_id": "675184"
+        },
+        {
+            "user_name": "pattzi",
+            "text": "Vissi ekki af þessu er alltaf með Zenmate \nEn hefur virkað hjá hringdu þegar ég var þar",
+            "date": "2018-07-24 23:08:00",
+            "post_id": "675224",
+            "reply_to_id": "675192"
+        },
+        {
+            "user_name": "4beez",
+            "text": "Einhver sem veit hvað er að frétta af deildu núna, ný addressa eða liggur allt niðri? \nFinn ekkert um þetta.",
+            "date": "2018-09-25 18:12:00",
+            "post_id": "678118",
+            "reply_to_id": "675224"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "http://51.255.32.210/",
+            "date": "2018-09-25 18:14:00",
+            "post_id": "678119",
+            "reply_to_id": "678118"
+        },
+        {
+            "user_name": "4beez",
+            "text": "Kærar þakkir",
+            "date": "2018-09-25 18:16:00",
+            "post_id": "678120",
+            "reply_to_id": "678119"
+        },
+        {
+            "user_name": "Farcry",
+            "text": "http://www.visir.is/g/2018181018826/hae ... deilisidur",
+            "date": "2018-10-18 17:10:00",
+            "post_id": "679382",
+            "reply_to_id": "678120"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Setja lögbann á rafmagn, ef það væri ekki rafmagn þá væri ekki hægt að deila höfundavörðu efni.",
+            "date": "2018-10-18 17:33:00",
+            "post_id": "679385",
+            "reply_to_id": "679382"
+        },
+        {
+            "user_name": "Baldurmar",
+            "text": "Frábært, nú hafa s.s STEF eiginlegt neitunarvald á heimasíður ! Og ekki einu sinni innihald þeirra / efni eða vefhýsingu, heldur NAFNINU !",
+            "date": "2018-10-18 18:29:00",
+            "post_id": "679389",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Farcry",
+            "text": "Láta loka á google , getur fundið allskonar efni þar , reyndar geymir google ekkert efni allveg eins og netveitur hérna geyma ekkert efni , fáranlegur dómur dæmdur af risaeðlum",
+            "date": "2018-10-18 22:36:00",
+            "post_id": "679403",
+            "reply_to_id": "679389"
+        }
+    ],
+    "date": "2018-10-18 18:29:00"
+}

@@ -1,0 +1,30 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "3768",
+    "title": "Bios uppfærður--hvað styður móðurborðið þá öflugan örgjörva?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=3768",
+    "posts": [
+        {
+            "user_name": "Sera",
+            "text": "Hæ hæ,\n\n\n\n Ég uppfærði biosinn í gömlu tölvunni minni, móðurborðið er MSI K7T Pro2-A (MS-6330) upp í bios v.3.6 sem er nýjasti biosinn fyrir þetta móðurborð sjá: \nhttp://www.msicomputer.com/support/bios_result.asp\n\n\n\n\nÍ tölvunni er núna AMD Duron 800mhz örgjörvi en manualinn segir að móðurborðið ráði við 1200 mhz mest. Eftir að ég uppfærði biosinn skylst mér að móðurborðir ráði við öflugri örgjörva. Hvað haldið þið?  \n\n\n\nÉg er ennþá að keyra á gamla duron 800mhz örgjörvanum en langar að prófa öflugri örgjörva með þessu móðurborði, hvað mynduð þið segja að mér væri óhætt að fara hátt? Ég var nefnilega að spá í að uppfæra þessa tölvu eitthvað en það sem ég velti fyrir mér er hvort það nægi að kaupa nýjan örgjörva ef móðurborðið styður núna öflugri örgjörva eftir bios uppfærsluna. ???? tými nefnilega ekki að steikja móbóið og nýjan örgjörva ef þetta er ekki mögulegt.\n\n\n\nKveðja,\n\nSera",
+            "date": "2004-04-10 17:15:00",
+            "post_id": "37625",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gulligu",
+            "text": "Ef þetta sé pro2 þá ræður það við uppí 266mhz amd örgjörva en ef þetta sé bara pro þá ræður það bara við 200mhz en það er sami bios við þessi móðurborð.",
+            "date": "2004-04-10 21:12:00",
+            "post_id": "37656",
+            "reply_to_id": "37625"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "hefðir átt að skoða eldri BIOS'a fyrir sama módel. Það er oftast listi af breytingum með hverri BIOS útgáfum, eldri breytingar halda sér í nýrri útgáfum af BIOS nema að annað sé tekið fram. Ef að þú ferð og velur móðurborðið þitt úr listanum sérðu að með útgáfu 3.5 stendur \"Supports AMD XP 2200+ (K7T Turbo2 only)\" og með útgáfu 3.3 stendur \"Supports AMD XP 2000+\"\n\n\n\nAnnars held ég að það ætti hvorki örgjörvinn né móðurborðið að bráðna eða eyðileggjast við það að setja of öflugan örgjörva. Í besta falli virkar örgjörvinn en bara hægar en uppgefinn standard, og í versta fallli ÆTTI móðurborðið að fúlsa við örgjörvanum og fara ekki í gang, pípa bara r sum(ath. tek ekki ábyrgð á þessu, einsog með allt annað á spjallinu \n)",
+            "date": "2004-05-03 16:02:00",
+            "post_id": "40419",
+            "reply_to_id": "37656"
+        }
+    ],
+    "date": "2004-04-10 17:15:00"
+}

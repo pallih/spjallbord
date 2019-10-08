@@ -1,0 +1,23 @@
+{
+    "forum_title": "Þjónusta / Viðgerðir",
+    "id": "72883",
+    "title": "Cyclic redundacy check vandamal með HDD",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=13&t=72883",
+    "posts": [
+        {
+            "user_name": "aron9133",
+            "text": "er með 2 500 gb hdd diska sem eru með unallocated vandamal þegar ég reyni að installa þeim í disk manager, og svo þegar ég ætla installa kemur þessi error: data error cylic redundary check. eru þeir þá ónýtir þvi ég hef ekkert breytt neinu nema sett upp nytt styrikerfi a nytt moður borð en sami kassi og óhreifðir harðir diskar. einhver sem veit lausn á þessu?",
+            "date": "2017-05-01 20:40:00",
+            "post_id": "648397",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Grunar að þeir eru ekki ónýtir þá hefði komið failed redundancy (gerist í raid-1 og raid-5 array-um t.d).\nSýnist þegar ég Googl-a \"data error cyclic redundancy check\" að það komi einhverjar lausnir sem benda á að nota CHKDSK utility-ið til að bjarga sér.\nVarstu með þessa diska áður í Raid uppsetningu ?",
+            "date": "2017-05-01 20:50:00",
+            "post_id": "648398",
+            "reply_to_id": "648397"
+        }
+    ],
+    "date": "2017-05-01 20:40:00"
+}

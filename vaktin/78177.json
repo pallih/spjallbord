@@ -1,0 +1,58 @@
+{
+    "forum_title": "Koníakstofan",
+    "id": "78177",
+    "title": "Hvað þarf að passa uppá?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=9&t=78177",
+    "posts": [
+        {
+            "user_name": "rapport",
+            "text": "http://www.ruv.is/frett/heilsugaeslusto ... -netspjall\nMér finnst þessi síða - heilsuvera.is alltaf hafa verið hálf \"shaky\", bara einhver tilfinning sem ég fæ.\nEr hún nægilega örugg fyrir samskipti og vistun allra viðkvæmustu persónulegu upplýsinga?\nHvað segja þeir sem þekkja betur til svona mála?",
+            "date": "2019-01-05 17:49:00",
+            "post_id": "683022",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "DJOli",
+            "text": "Förum allavega aðeins betur yfir.\nSíðan er með https vottun/virka vottun frá Let's Encrypt, og eru með svokallaða 'Intermediate x3' vottun í gangi.\nLet's Encrypt er opinn vottunarvettvangur á þann hátt að fólkið á bakvið notast við Linux, svo ég geri ráð fyrir að þessi öryggisvottun sé frí án þess að vita betur. Gott eða slæmt, veit ég ekki.\nKíkjum á hýsingaraðila síðunnar, nú er síðan hýst hjá Nýherja samkvæmt upplýsingum frá Isnic.\nA.m.m. er helsta óöryggið mannleg mistök (e. Human Error).",
+            "date": "2019-01-06 09:17:00",
+            "post_id": "683050",
+            "reply_to_id": "683022"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Mátt endilega laga titillinn og hafa hann lýsandi.\nÞetta er töluvert öruggara en að hringja.\nSkil ekki alveg hvað þú ert að fara með þessu skjáskoti.\nÉg hef enga ástæðu til að ætla að öryggi sé ekki númer 1, 2, 3 hjá þeim sem settu upp og reka þennan vef.",
+            "date": "2019-01-06 14:42:00",
+            "post_id": "683062",
+            "reply_to_id": "683050"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Hýsingaraðili síðunnar er reyndar Þekking en DNS admin/Dns netþjónn síðunar hjá Nýherja (og reverse dns hjá Þekkingu)\nGetur flett upp ip tölu síðunnar á ripe.net og notað tól eins og netcraft til að fá þessar upplýsingar.",
+            "date": "2019-01-06 15:31:00",
+            "post_id": "683066",
+            "reply_to_id": "683062"
+        },
+        {
+            "user_name": "kelirina",
+            "text": "Landlæknir á og rekur Heilsuveruna.  Minnir að Origo hafi búið hana til og hýsir hann.  Eins og oft á síðum þar sem viðkvæmar upplýsingar er að finna þá er stöðug þróun með öryggi í huga og er þar engin undartekning með þennann vef.",
+            "date": "2019-01-06 16:03:00",
+            "post_id": "683068",
+            "reply_to_id": "683066"
+        },
+        {
+            "user_name": "rapport",
+            "text": "OK, flott.\nÉg þekki þetta ekki, veit bara að það eru töluvert strangari reglur um öflun, meðferð og geymslu heilbrigðisupplýinga/sjúkraskrárgagna en almennar persónuupplýsingar.\nFyrir vikið þá fannst mér þetta eitthvað óþægilegt, að sjá hvernig þetta kom út.",
+            "date": "2019-01-06 19:14:00",
+            "post_id": "683083",
+            "reply_to_id": "683068"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "rules#rule1",
+            "date": "2019-01-07 08:30:00",
+            "post_id": "683094",
+            "reply_to_id": "683083"
+        }
+    ],
+    "date": "2019-01-05 17:49:00"
+}

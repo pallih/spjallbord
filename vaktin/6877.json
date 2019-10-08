@@ -1,0 +1,44 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "6877",
+    "title": "SBLive! 5.1 vs on board AC97",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=6877",
+    "posts": [
+        {
+            "user_name": "viddi",
+            "text": "ég var að skipta um móðurborð í vélinni minni og það er on board hljóðkort á því ég var að spá í hvort væri betra þá meina ég hvort það væri betri hljómgæði í SBLive! 5.1 pci korti sem ég á eða þessu on board korti \nhér\ner móbóið og \nhér\n er pci kortið\n\n\n\nþannig að ég er eiginlega að spá í hvort mæli þið með að ég noti ?",
+            "date": "2004-12-28 19:23:00",
+            "post_id": "72652",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "skipio",
+            "text": "Á mínu nForce2 móðurborði voru gæðin allavega mun lakari en í gamla SBLive kortinu sem ég hafði því áfram í tölvunni þar til því var síðar skipt út fyrir M-Audio kort.\n\n\n\nPrófaðu bara að setja kortið í. Það er ekkert mál að taka það úr aftur. \n\n\n\nEn ef þú vilt góð hljómgæði út úr SBLive kortinu verður þú að nota kx reklana og nota bakhljóðs-úttakið fyrir framhátalarana. Svoleiðis miklu betra.\n\nhttp://kxproject.lugosoft.com/index.php?language=en",
+            "date": "2004-12-28 19:30:00",
+            "post_id": "72653",
+            "reply_to_id": "72652"
+        },
+        {
+            "user_name": "einarsig",
+            "text": "ég myndi pottþétt nota pci kortið, ættir að minnka cpu load með því \n samt ekkert rosalega en samt e-ð",
+            "date": "2004-12-28 19:58:00",
+            "post_id": "72657",
+            "reply_to_id": "72653"
+        },
+        {
+            "user_name": "Pepsi",
+            "text": "þessir kx driverar, þarf maður að uninstalla audigy driverunum áður en maður notar þá?",
+            "date": "2004-12-29 19:38:00",
+            "post_id": "72776",
+            "reply_to_id": "72657"
+        },
+        {
+            "user_name": "skipio",
+            "text": "Já, mig minnir það. Annars er komið eitthvað voða fínt setup-forrit núna þannig að kannski þarf þess ekki lengur.\n\n\n\nHmm, eftir lauslega athugun sýnist mér að nýja setup-forritið taki út gamla driver-inn sjálfvirkt. \nhttp://kxproject.lugosoft.com/help/setup.htm",
+            "date": "2004-12-29 20:01:00",
+            "post_id": "72780",
+            "reply_to_id": "72776"
+        }
+    ],
+    "date": "2004-12-28 19:23:00"
+}

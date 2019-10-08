@@ -1,0 +1,23 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "10468",
+    "title": "undarleg netvandræði.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=10468",
+    "posts": [
+        {
+            "user_name": "Xtrife",
+            "text": "Internetið hjá mér sem ég er með frá BTnet er búið að vera mjög undarlegt undanfarið. Þeir eru nýverið búin að gjörsamlega endurbyggja route sem maður þarf að fara innandlands og utanlands..Sem er allt fínt og flott. og pingið er oft á tíðum alveg virkilega gott..En málið er að ping og traceið sýnir ekki rétta mynd. Ég fær 50ms á eitthvað uk ip..og þegar inná server er komið er pingið orðið 200-400 og 10% pl eða eitthvað álíka.\n\n\n\n\n\n\n\nHérna er trace á UT server sem ég er að leigja. Pingið er fínt..og routið er ótrúlega gott. En ef ég fer inná hann þá er pingið skelfing.\n\n\n\nÉg er búin að prófa fleiri leiki og önnur bæði evrópsk og amerísk ip en  það er sama vandamálið.\n\n\n\nEr einhver annar að eiga í svipuðum vandamálum eða hefur hugmynd um af hverju þetta gæti verið",
+            "date": "2006-03-30 15:57:00",
+            "post_id": "114208",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gnarr",
+            "text": "Þetta er líka svona hjá vodafone, sama hvað leik maður spilar. \n\n\n\nMér dettur hellst í hug að vodafone hafi ákveðið að vera svakalega \"sniðugir\" og ákveðið að gera eitthvað í því að http umferð væri orðin svo hæg útaf p2p downloadi. Þannig að í staðin fyrir að setja p2p aftast í forgangsröðina, þá hafi þeir sett http með eitthvað super priority, sem gæti verið ástæðan fyrri því að við fáum svona lélegt ping.",
+            "date": "2006-03-30 18:11:00",
+            "post_id": "114218",
+            "reply_to_id": "114208"
+        }
+    ],
+    "date": "2006-03-30 15:57:00"
+}

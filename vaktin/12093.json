@@ -1,0 +1,79 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "12093",
+    "title": "ADSL og útlenskt p2p",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=12093",
+    "posts": [
+        {
+            "user_name": "Cascade",
+            "text": "Sælir, afsakið ef þetta hefur komið einhversstaðar fram áður, en ég vil fá þetta á hreint áður en ég skipti um þjónustuaðila.\n\n\n\nEn málið er að þangað til í seinasta mánuði var ég að fá 500-800kb/s gegnum útlenskt p2p (fullt af open source forritum maður!) og auðvitað var maður þvílíkt ánægður.  Svo allt í einu í oktober datt þetta niður í sirka 40kb/s! Eins og ykkur er kunnugt um fór Hive að cappa útlenskt p2p download.\n\nÞetta þykir mér með öllu óásættanlegt og vil því skipta um þjónustuaðila.\n\n\n\n\n\nSvo ég spyr, er einhver þjónustuaðili með 10-12Mbits/s ADSL tengingu sem cappar EKKI útlenskt p2p download, einhver sem veit það af eigin reynslu?\n\n\n\n\n\n\n\nMeð fyrirfram þökkum\n\nArnar",
+            "date": "2006-10-26 00:44:00",
+            "post_id": "129947",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "corflame",
+            "text": "Allar netveiturnar takmarka bandvídd í p2p forritum, en flestar gera það skynsamlega, þ.e.a.s. forgangsraða. Þannig að t.d. símsamband yfir internet (VOIP, ein útfærsla er Skype) fær hærri forgang og þar af leiðandi betri svartíma. \n\n\n\nP2P umferð fær alltaf afganginn af bandvíddinni sem er til skiptanna hverju sinni eftir að öll önnur umferð hefur fengið sitt.",
+            "date": "2006-10-26 11:38:00",
+            "post_id": "129964",
+            "reply_to_id": "129947"
+        },
+        {
+            "user_name": "Cascade",
+            "text": "Væri þá ekki gott að fara bara til símans?\n\n\n\nÞá gæti ég alveg fengið 500+ kB/s stundum, allavega aldrei 40kb/s eins ognuna hja hive",
+            "date": "2006-10-26 18:30:00",
+            "post_id": "130005",
+            "reply_to_id": "129964"
+        },
+        {
+            "user_name": "corflame",
+            "text": "Vodafone eða Símans held ég. Hef ekki haft reynslu af öðrum netveitum síðan á dögum modemsins",
+            "date": "2006-10-27 05:33:00",
+            "post_id": "130031",
+            "reply_to_id": "130005"
+        },
+        {
+            "user_name": "OrkO",
+            "text": "Ég er hjá símanum og þeir eru pottþétt farnir að cappa, og alveg brútal capp.  Var iðulega að ná 800k/sec á torrentum, svo bara einn góðan veðurdag fer ég ekki yfir 40-60k/sec SAMTALS fyrir marga torrenta.\n\n\n\nEinn starfsmaður innan símans sagði mér að hann gæti ekki lengur neitað því að þeir væru að cappa og að \"stórnotendur\" væru cappaðir, en það er sennilega auðvelt að verða \"stórnotandi\".\n\n\n\nMér finnst þetta furðulegt í ljósi þess að þeir eru ekki einusinni að ná upp í 40% notkun af útlandatengingum sínum skv. þessu \nhttp://traffic.simnet.is/public/utlond/ ... mtals.html\n (virkar bara fyrir símnet viðskiptavini).",
+            "date": "2006-10-31 20:34:00",
+            "post_id": "130254",
+            "reply_to_id": "130031"
+        },
+        {
+            "user_name": "OrkO",
+            "text": "http://torrentfreak.com/netenforcer-thr ... t-traffic/",
+            "date": "2006-10-31 21:21:00",
+            "post_id": "130256",
+            "reply_to_id": "130254"
+        },
+        {
+            "user_name": "daremo",
+            "text": "Starfsmaður Hive sagði mér að lélegur hraði á bittorrent þessa dagana væri vegna þess að allir nýjustu sjónvarpsþættirnir voru að byrja í USA.\n\n\n\nAlltaf jafn gaman að heyra þessar lygar sem spretta upp úr starfsmönnum þjónustuvers Hive..",
+            "date": "2006-10-31 23:50:00",
+            "post_id": "130266",
+            "reply_to_id": "130256"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "Það ætti þá nú að auka hraðan frekar.. fullt af fólki sem situr fyrir þessum þáttum um leið og þeir koma online!",
+            "date": "2006-11-01 01:50:00",
+            "post_id": "130273",
+            "reply_to_id": "130266"
+        },
+        {
+            "user_name": "Sprettur",
+            "text": "Ó jú.... færð sko bara alveg jafn mikið 40kB á símanum... var að skipta, og lagaðist ekkert",
+            "date": "2006-11-02 02:14:00",
+            "post_id": "130347",
+            "reply_to_id": "130273"
+        },
+        {
+            "user_name": "Cascade",
+            "text": "Úff, hvert getur maður þá farið?\n\nHvernig er þetta hjá ykkur vodafone?\n\n\n\nÉg er að verða frekar þreyttur á þessu og ætla bráðum að skipta",
+            "date": "2006-11-09 03:05:00",
+            "post_id": "130757",
+            "reply_to_id": "130347"
+        }
+    ],
+    "date": "2006-10-26 00:44:00"
+}

@@ -1,0 +1,51 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "39478",
+    "title": "pulseAudio Config (hjálp)",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=39478",
+    "posts": [
+        {
+            "user_name": "kazzi",
+            "text": "hæ ég er með alveg eins villu og er hér á myndinni.ég ætlaði að setja upp annan skjá og eftir reboot þá kom þetta svona .\nef einhver kannast við þetta væri gott að fá hjálp.\ní vélinni er ubuntu 11.04 og geforce 8600gt ef það hjálpar eitthvað.",
+            "date": "2011-06-26 14:24:00",
+            "post_id": "358864",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "bjarkih",
+            "text": "google er vinur þinn: \nhttp://ubuntuforums.org/showthread.php?t=1745793\n  (tók innan við 5 sekúndur)",
+            "date": "2011-06-26 19:55:00",
+            "post_id": "358926",
+            "reply_to_id": "358864"
+        },
+        {
+            "user_name": "dorg",
+            "text": "Dettur þú ekki inn í terminal þegar þú gerir CTRL-ALT-F2?\nKemst til baka með CTRL-ALT-F7\nÆttir að geta loggað þig þar inn.\nKeyra upp startx þá færðu allavega góðar villulog.\nVilluloggar eru oftast á /var/log skráasafninu\nHeld að vandamálið tengist ekkert hljóðinu.",
+            "date": "2011-06-26 20:19:00",
+            "post_id": "358930",
+            "reply_to_id": "358926"
+        },
+        {
+            "user_name": "kazzi",
+            "text": "var búin að googla kem aldrei með fyrirspurn nema vera búin að því.\nen var bara ekki búin að sjá neitt sem hjálpaði.",
+            "date": "2011-06-26 20:22:00",
+            "post_id": "358931",
+            "reply_to_id": "358930"
+        },
+        {
+            "user_name": "dorg",
+            "text": "Jæja þá er það bara djúpa laugin.\nAthugaðu hvort þú lendir í skel með CTRL-ALT-F2\nEf það gerist þá ertu nú ekki í stórum vandamálum, þarft bara að finna út hvað þarf til að gui dótið virki fyrir þig.\nAllavega ætti að vera til skrá sem heitir /etc/X11/xorg.conf \ní henni er lýsing á hvaða modular eru notaðir til að ræsa grafiska umhverfið.\nskipunin \ncat /etc/X11/xorg.conf \nsýnir þér innihaldið.\nÞar ætti að standa\nEitthvað nálægt\nSection \"Screen\"\n\tIdentifier\t\"Default Screen\"\n\tDefaultDepth\t24\nEndSection\nSection \"Module\"\n\tLoad\t\"glx\"\nEndSection\nSection \"Device\"\n\tIdentifier\t\"Default Device\"\n\tDriver\t\"nvidia\"\n\tOption\t\"NoLogo\"\t\"True\"\nEndSection\n---------------------------------------------\nSmá viðbót.\nÞar sem þetta tengist trúlega stillingum á X\nÞá gæti verið trix að henda nvidia drivernum og setja hann inn aftur\ntil dæmis ef þú hefur sett upp closed source drivers.\n(sudo apt-get remove nvidia-current \nsudo apt-get install nvidia-current)",
+            "date": "2011-06-26 20:37:00",
+            "post_id": "358936",
+            "reply_to_id": "358931"
+        },
+        {
+            "user_name": "kazzi",
+            "text": "takk frábærlega fyrir svörin ,fer í málið",
+            "date": "2011-06-26 21:44:00",
+            "post_id": "358945",
+            "reply_to_id": "358936"
+        }
+    ],
+    "date": "2011-06-26 14:24:00"
+}

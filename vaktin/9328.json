@@ -1,0 +1,114 @@
+{
+    "forum_title": "Windows",
+    "id": "9328",
+    "title": "Tölva startar sér ekki.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=9328",
+    "posts": [
+        {
+            "user_name": "Xen0litH",
+            "text": "Tölvan mín fraus í gær, það kemur fyrir af og til þannig að ég restartaði bara eins og venjulega.\n\nEn núna vildi hún ekki starta sér, hún loadaði windows Xp síðan kom bara svartur skjár og hún hættir bara að vinna.  \n\n\n\nÞað sem verst er, er að ég kemst ekki einu sinni í safe mode til að vinna í henni þar, hvað skjal gert?  \n\n\n\n\nP.s, lan á morgun hjá okkur vinunum, need help asap !",
+            "date": "2005-12-15 07:52:00",
+            "post_id": "100648",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Afhverju kemstu ekki í Safe Mode?\n\n\n\nAnnars gefurðu voðalega littlar upplýsingar til að vinna með..",
+            "date": "2005-12-15 09:43:00",
+            "post_id": "100656",
+            "reply_to_id": "100648"
+        },
+        {
+            "user_name": "Xen0litH",
+            "text": "Já, verður að afsaka, eins og þú sérð póstaði ég kl. 07:52 og átti þá eftir að labba í próf sem var kl. 8  \n\n\n\n\nBack to buisness, tölvan kemur með XP loading screenið og klárar það eins og venjulega, en þegar login screen á að koma þá er bara svart og tölvan hættir að vinna, ekkert meira skéður, þetta er þegar ég reyni að starta henni venjulega eða með \"last known good configuration\"\n\n\n\nÞegar ég vel safe mode þá kemur rullan með öllu dótinu niður, svo kemur \"Press esc to cancel load of blabla file\" fyrir 2 file's (hef prófað að sleppa því og gera það) og þegar það er búið vinnur hún í smá stund en hættir svo, og þá er ég fastur á þeim stað og kemst ekkert lengra...\n\n\n\nBasicly it",
+            "date": "2005-12-15 12:23:00",
+            "post_id": "100680",
+            "reply_to_id": "100656"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "gerðu repair af XP setup disknum",
+            "date": "2005-12-15 12:32:00",
+            "post_id": "100684",
+            "reply_to_id": "100680"
+        },
+        {
+            "user_name": "Xen0litH",
+            "text": "Ok, er með recovery console dæmið í gangi, valdi 1 (C:\\Windows) og er það búið að vera núna í 10 mín og virðist ekkert vera í gangi, á ég bara að láta þetta malla?",
+            "date": "2005-12-15 13:12:00",
+            "post_id": "100694",
+            "reply_to_id": "100684"
+        },
+        {
+            "user_name": "Xen0litH",
+            "text": "Las að hún ætti að biðja mig um administrator password eftir að ég veldi tölu en hefur hún ekki gert það enn. \n\n\n\nÉg er búinn að bíða nokkuð lengi og er farinn að halda að þetta sé ekki að fara að ganga? :I",
+            "date": "2005-12-15 13:52:00",
+            "post_id": "100705",
+            "reply_to_id": "100694"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "hahaha \n\n\n\n\nþú áttir ekki að fara í recovery console  \n  Það er í raunninni bara nt command promt sem að gerir þér kleyft að gera við kerfið \"manual\".\n\n\n\nÞú átt að gera alveg eins og þú ætlir að setja xp uppá nýtt inná tölvuna. Þegar þú ert kominn að hlutanum þar sem að þú átt að velja hvaða drif þú \"ætlar að installa\" á, þá kemur \"Setup has detected an existing installation of XP on your computer, press R to repair\" (eða eitthvað í þessa áttina).\n\n\n\n\n\nPs. ég skal reyna að gera FAQ fyrir þetta fljótlega",
+            "date": "2005-12-15 14:31:00",
+            "post_id": "100712",
+            "reply_to_id": "100705"
+        },
+        {
+            "user_name": "Xen0litH",
+            "text": "lawl, noobie me  \n \n\n\n\n\nReyni þetta, takk",
+            "date": "2005-12-15 15:13:00",
+            "post_id": "100715",
+            "reply_to_id": "100712"
+        },
+        {
+            "user_name": "Xen0litH",
+            "text": "Vá... er það ég eða er \n\"Searching for previous verisions of Microsoft Windows\"\n mjööööög lengi?",
+            "date": "2005-12-15 15:35:00",
+            "post_id": "100716",
+            "reply_to_id": "100715"
+        },
+        {
+            "user_name": "Andri Fannar",
+            "text": "Þú.",
+            "date": "2005-12-16 19:09:00",
+            "post_id": "100898",
+            "reply_to_id": "100716"
+        },
+        {
+            "user_name": "Xen0litH",
+            "text": "Jes, þetta var víst ze HDD, er að formata hann atm.",
+            "date": "2005-12-16 21:47:00",
+            "post_id": "100913",
+            "reply_to_id": "100898"
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "Ég reyndi þetta einu sinni sjálfur, fór í recovery console og skildi ekki hvað í andsk** ég átti að gera. Endaði með að ég formattaði bara",
+            "date": "2005-12-16 23:15:00",
+            "post_id": "100920",
+            "reply_to_id": "100913"
+        },
+        {
+            "user_name": "Veit Ekki",
+            "text": "Ég hélt að þú værir hættur hérna. \n Farinn að lifa lífinu.",
+            "date": "2005-12-17 00:29:00",
+            "post_id": "100928",
+            "reply_to_id": "100920"
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "Hehe það var bara smá djók",
+            "date": "2005-12-17 08:26:00",
+            "post_id": "100947",
+            "reply_to_id": "100928"
+        },
+        {
+            "user_name": "Veit Ekki",
+            "text": "Já, mér datt nú ekki annað í hug en að þetta væri bara djók.",
+            "date": "2005-12-17 12:31:00",
+            "post_id": "100959",
+            "reply_to_id": "100947"
+        }
+    ],
+    "date": "2005-12-15 07:52:00"
+}

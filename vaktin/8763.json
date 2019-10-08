@@ -1,0 +1,100 @@
+{
+    "forum_title": "Windows",
+    "id": "8763",
+    "title": "Video tengt vandamál.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=8763",
+    "posts": [
+        {
+            "user_name": "valur",
+            "text": "Vandamálið er að video í einni tölvunni hökta á svona 1-2mín fresti í svona 1 sek. Hljómar ekki eins og mjög mikið vandamál en er mjög pirrandi.\n\n\n\nVideo-ið er geymt á 600mhz dollur niðrí kjallara, video-ið er spilað í vlc á 1900+ xp (1gb minni) vél í stofunni. Dollan er tengt í switch sem er tengd í 54mbit AP. Stofuvélin er tengd með MSI þráðlausu pci netkorti sem nær \"excellent\" merki og \"Network utilization\" fer aldrei yfir svona 5%.. yfirleitt í kringum 3.\n\n\n\nÉg hefði haldið að þessi vélbúnaður væri nóg til að fá smooth video spilun en það virðist ekki vera. Eru menn með einhverjar hugmyndir hvað gæti reddað þessu?\n\n\n\nTakk takk..",
+            "date": "2005-10-09 22:48:00",
+            "post_id": "93677",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "axyne",
+            "text": "Skiptu yfir í windows media player\n\n\n\nþetta er bara böggur í VLC player, ég lendi í þessu sama og nennti ekki að pæla meira en að skipta um player.",
+            "date": "2005-10-09 22:53:00",
+            "post_id": "93680",
+            "reply_to_id": "93677"
+        },
+        {
+            "user_name": "valur",
+            "text": "Eina sem mér finnst vera að því að nota wmp er að finna codec fyrir hann. Vlc spilar allt.. það er svona helsti kosturinn við hann. Tékka samt hvort þetta vandamál sé til staðar í wmp",
+            "date": "2005-10-09 22:58:00",
+            "post_id": "93684",
+            "reply_to_id": "93680"
+        },
+        {
+            "user_name": "axyne",
+            "text": "DivX Total Pack\n er málið.\n\nég nota ekki annað en þetta. all in one.\n\n\n\ndownload linkurinn á nýjstu útfáfu er efst á síðunni.",
+            "date": "2005-10-09 23:06:00",
+            "post_id": "93686",
+            "reply_to_id": "93684"
+        },
+        {
+            "user_name": "valur",
+            "text": "Prófa það.. takktakk",
+            "date": "2005-10-09 23:09:00",
+            "post_id": "93687",
+            "reply_to_id": "93686"
+        },
+        {
+            "user_name": "valur",
+            "text": "Búin að prófa wmp og mplayer.. var best í wmp en það kom samt hökkt bara ekki eins langt. Einhverjar aðrar tillögur?",
+            "date": "2005-10-09 23:45:00",
+            "post_id": "93694",
+            "reply_to_id": "93687"
+        },
+        {
+            "user_name": "axyne",
+            "text": "tekið af \nhttp://forum.videolan.org\n\n\n\n\nprufaðu searcha meira þarna, ef þetta lagar ekki vandamálið þitt.",
+            "date": "2005-10-09 23:54:00",
+            "post_id": "93695",
+            "reply_to_id": "93694"
+        },
+        {
+            "user_name": "valur",
+            "text": "Þetta lagaðist ekki með þessu, myndgæðin urðu bara 0.. ætla að browsa þetta forum betur.",
+            "date": "2005-10-10 00:54:00",
+            "post_id": "93702",
+            "reply_to_id": "93695"
+        },
+        {
+            "user_name": "axyne",
+            "text": "prufaðu að fikta í þessari stillingu í wmp",
+            "date": "2005-10-10 01:05:00",
+            "post_id": "93703",
+            "reply_to_id": "93702"
+        },
+        {
+            "user_name": "valur",
+            "text": "Ég prófaði þetta í wmp og það skilaði ekki nógu miklu.\n\nMér tókst hinsvegar að laga þetta í VLC, fann loksins buffer stillingu þar.\n\nSettings->Preferences->Input/Codecs->access modules->File\n\nHaka við advanced og setja cache í 1500ms..",
+            "date": "2005-10-10 13:43:00",
+            "post_id": "93736",
+            "reply_to_id": "93703"
+        },
+        {
+            "user_name": "urban",
+            "text": "er diskurinn í annari hvorri vélinni nokkuð í pio mode ?\n\n\n\nég lenti í þessu um dagin nefnilega hjá mér...\n\n\n\nhikstaði allt á 1 disk...\n\n\n\nen síðan ef ég horfði á eitthvað af öðrum disk þá var það í fínu lagi",
+            "date": "2005-10-10 17:56:00",
+            "post_id": "93779",
+            "reply_to_id": "93736"
+        },
+        {
+            "user_name": "valur",
+            "text": "Það þyrfti þá að vera default á.. hvar sé ég hvort svo sé?",
+            "date": "2005-10-10 17:59:00",
+            "post_id": "93780",
+            "reply_to_id": "93779"
+        },
+        {
+            "user_name": "CraZy",
+            "text": "ég er að nota matroska pack codec fyrir wmp,getur kanski testað það",
+            "date": "2005-10-10 18:38:00",
+            "post_id": "93782",
+            "reply_to_id": "93780"
+        }
+    ],
+    "date": "2005-10-09 22:48:00"
+}

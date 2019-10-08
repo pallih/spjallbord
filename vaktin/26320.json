@@ -1,0 +1,58 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "26320",
+    "title": "VoðaFón : 449 Latency Client Server.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=26320",
+    "posts": [
+        {
+            "user_name": "Rigel",
+            "text": "Jæja, \nÞá er maður með 400 ms, nokkuð ressandi þetta net sem voðafón býður uppá.\nEr með ADSL e-h flottan pakka eða hvað and. sem þeir kalla þetta þessa dagana. 1 tölva í gangi : Cat-5 snúra í router, 1 ms ping í router 12 ms ping í mbl.is.\nþannig að það er ekkert að innanlands sambandinu.\nen Útlandasambandið ?\n400 ms með Client Server. til útlanda, og er að detta út, major lag spike.\nBandvíddin hjá \nvodafóne \ner búinn, er fær þetta rusl net hjá voðafón 1 drullu köku fyrir.\nClassískur : lag spike, disconnect booted of server Dagur\n120 ms latency  kl:15:00 (rólegt, ekki mikið af fólki á netinu, samt ætti að vera 80 ms, en bætist 40 ms við vegna torrent því  Voðafóne hefur svo littla Bandvídd )\n200 ms latency kl: 17:00 (fólk kemur heim til sín, torrent í gang og steam'a youtube)\n449 ms latency kl: 21:00 (fullt að fólki, Torrent í botni, Youtube HD, facebook frenzy hysteria photo trading, fap fap fap  )\n120 ms latency kl: 00:36  (fólk farið að sofa, torrent download'in ganga samt enn.)\nstutt saga: var með dsl net hjá \nSímanum \n: alltaf constant : 80 100 ms latency og allt í fínasta lagi, skipti um íbúð fækk mér ljósleiðara net hjá \nHringiðuni hætti þar algert rusl\n 600 ms fuck off, Önnur ný íbúð og skipi yfir til \nVoðafóne\n og ekki batnaði það.\nmoral of the story , Síminn 100% alltaf nóg bandvídd eða Voðafóne(High Latency , lag, disconnect's) ?",
+            "date": "2009-11-23 00:34:00",
+            "post_id": "228818",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "depill",
+            "text": "Ég hef reyndar ekkert spes reynslu af Símanum. Jú latency var alltaf ágætt hjá Símanum sérstaklega til EU ( ætti væntanlega að verða orðið fínt núna til US líka vegna Greenland Connect eða betra það er að segja ), en torrent var að sjúga rass næstum allan daginn og ég átti erfitt með að halda ratio.\nEr núna hjá TAL/Vodafone og ég er alltaf með mjög fínt latency á þá þjóna sem ég hef samband við 55-60 ms við BBC akkurat núna ( 11 ms stöðugt á mbl.is ). Ég keyri jafnframt daglega afritun af netþjóni yfir á Rackspace Cloud Files þar sem að cloud entry er í Dallas hef alltaf haft reyndar frekar slæmt latency frá öllum ispum á Íslandi er með svona 160 - 190 ms latency. ( Akkurat núna 167 ms frá ADSL tengingunni minni )\nÞað er eins og er mjög svipað hjá Símanum ( aðeins hærra en ekki mikið as we speak, tékk í gegnum traceroute hjá Snerpu ), reyndar er pakkaleiðin í gegnum London en samt ....\nÉg hef allavega ekki verið að upplifa þetta ? Kannski eithvað annað sem er að hafa áhrif á þig eða ég skal ekki segja ? Kannski aðrir hjá Vodafone/TAL geta sagt að þeir upplifi þetta, ég geri það allavega ekki.\nE.S. Ættir kannski að segja hvort að þetta sé specific server, eða hvort að þetta sé bara almenn upplifun...",
+            "date": "2009-11-23 00:57:00",
+            "post_id": "228820",
+            "reply_to_id": "228818"
+        },
+        {
+            "user_name": "corflame",
+            "text": "Ekkert að útlandasambandi. Virkar fínt hjá mér á marga servera t.d. í evrópu. Ertu nokkuð búinn með útlandakvótann?\nBtw, þá held ég að Vodafone sé með \nmeiri\n útlandabandvídd heldur en Síminn",
+            "date": "2009-11-23 10:38:00",
+            "post_id": "228850",
+            "reply_to_id": "228820"
+        },
+        {
+            "user_name": "Rigel",
+            "text": "er ekki mikið dl, og þegar ég er að nota client server þá er ekkert annað í gangi.\nVodafone er alveg örugglega EKKI með meiri útl.bandv. en Síminn.\nþá er annað að Voðafóne símstöðin er um 2 km+ frá íbúð og ekkert hægt að gera við því , nema það að Voðafóne smelli 1 st. símstöð fyrir utan húsið mitt ?\nen ég sé þetta alveg á mínum client þegar klukkan dettur í 17:00 og fólk hættir vinnu, þá byrja latency að hækka, auki er það örugglega líka með þennan server sem ég notast við sama dæmi.\nallavega þá var þetta  7 9 13 bingó Netið hjá Símanum eins og fjallið hægaðist ekki, ekki að ég sé e-h fan boy Simnet, þætti ekkert myndarlegra en þeir færu á hausinn og ríkið tæki Mílu til baka, /pray",
+            "date": "2009-11-23 17:43:00",
+            "post_id": "228913",
+            "reply_to_id": "228850"
+        },
+        {
+            "user_name": "depill",
+            "text": "Vodafone VAR allavega þegar ég vissi hvað símfyrirtækin voru með mikla bandvídd ( þegar ég vann hjá Voda, er samt í viðskiptum við TAL núna bara vegna þess að það er ódýrast fyrir mig ) með minni bandvídd en Síminn en meiri bandvídd en Síminn per-person.\nVodafone ákveður ekki staðsetningar símstöðva, Síminn er símstöð á sama stað. Þú gætir helst vonast til þess að Síminn/Vodafone setji upp VDSL götuskápa ( þá er fiber í götuskápinn og svo VDSL2 nokkra metra heim til þín yfirleitt ).\nÉg er hins vegar 2,1 km frá minni símstöð og ég er að synca á 16 Mb niður og 2 Mb upp ( Annex M ) og frekar sáttur við það.\nJamm ég skal ekki segja, er svo sem sammála þér hér að ég vill Mílu til ríkisins, biggest mistake in communications history. Auðvita á koparinn og ljósleiðarinn að vera í eigu ríkisins og GR á ekki að vera í samkeppni við Mílu. Djöfull væri gaman ef eithvað fyrirtæki væri að leggja hérna hituveitulagnir út um allt í samkeppni við OR, hvað ætli fólk myndi segja þá ?\nKlukkan er allavega 17:56 hjá mér núna á TAL/Vodafone neti og til þessarar Dallas DC ( Rackspace ) er ég að fá 166 - 182 ms akkurat núna, mjög svipað hjá Símanum akkurat núna líka ..... ( Þetta er London -> US hjá báðum núna ).\nHefurðu tékkað á þessum server hvort að latencyið sé eithvað betra hjá Símanum, Snerpa notar næstum eingöngu Símann fyrir upstream þannig það er þægilegt að prófa þá \nhttp://network.it.is\n þar sem að Looking classið hjá Símanum er eithvað foobar í traceinu og pinginu.\nMér finnst það svona líklegra heldur en að þetta sé tengingin þín fyrst að þú segir að latencyið sé alltaf ágætt á mbl.is. \nSvo reyndar hefur það virkað ( vegna conflicta hjá ISPunum ) að fá þá til að skipta um IP tölu á tengingunni þinni, þú ættir að geta þá fengið Voda til að gera það.\nÉg er allavega ekki að upplifa þennan vanda þinn hjá mér og ég er á TAL/Vodafone tengingu.",
+            "date": "2009-11-23 18:00:00",
+            "post_id": "228918",
+            "reply_to_id": "228913"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Við erum 4 vinirnir sem spilum mikið saman á erlendum serverum. 2 hjá Símanum, 1 hjá Netsamskiptum og 1 hjá Vodafone.\nVið hjá Símanum eru alltaf að pinga fínt til UK servera, 65-80ms einhverstaðar þarna á milli. Þessi hjá Netsamskiptum pingar alltaf aðeins betur en bara 2-3ms betur og þessi hjá Vodafone laggar alveg í drasl á kvöldin. Við erum að tala um hátt í 200ms á meðan restin er í kringum 70 stable.",
+            "date": "2009-11-23 18:43:00",
+            "post_id": "228926",
+            "reply_to_id": "228918"
+        },
+        {
+            "user_name": "corflame",
+            "text": "Ertu viss Danni?\nÉg er hjá vodafone líka og á sömu L4D serverum og þið þá er ég með svipað ping (m.v. ADSL). (eða var amk þegar ég hafði tíma til að spila síðast)",
+            "date": "2009-11-24 11:06:00",
+            "post_id": "229098",
+            "reply_to_id": "228926"
+        }
+    ],
+    "date": "2009-11-23 00:34:00"
+}

@@ -1,0 +1,44 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "27925",
+    "title": "Wolfdale 8400 og speedfan",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=27925",
+    "posts": [
+        {
+            "user_name": "kazgalor",
+            "text": "Er með E8400 intel örgjörva, og er að horfa á hitann á honum í speedfan. Hann flöktir randomly milli 42 og 50 gr. og ég er bara að velta fyrir mér hvort það sé eithvað að, því ég hef aldrei séð speedfan láta svona áður. Hef meiraðsegja oft notað það á þessari vél með þessu setupi, án vandræða.\nEr þetta eithvað til að hafa áhyggjur af?",
+            "date": "2010-01-28 12:34:00",
+            "post_id": "242199",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Frost",
+            "text": "Ekki notast við við speedfan. Miklu betra að nota Core Temp, gefur nákvæmari tölur. Segðu okkur hvernig þetta er í Core Temp.",
+            "date": "2010-01-28 12:39:00",
+            "post_id": "242200",
+            "reply_to_id": "242199"
+        },
+        {
+            "user_name": "kazgalor",
+            "text": "Flöktir líka fram og til baka þar, core 1 frá 28-48° og core 2 frá 42-46°  Gæti verið að sensorinn sé eithvað skrítinn?",
+            "date": "2010-01-28 12:44:00",
+            "post_id": "242202",
+            "reply_to_id": "242200"
+        },
+        {
+            "user_name": "Matti21",
+            "text": "Eflaust. Temp sensor-arnir í Intel örgjörvunum eru alls ekki hannaðir til þess að gefa nákvæm hitastig heldur til þess að láta móðurborðið vita hvort örgjörvinn sé að ofhitna.\nNáðu í RealTemp, settu það upp og keyrðu sensor test.",
+            "date": "2010-01-28 13:13:00",
+            "post_id": "242206",
+            "reply_to_id": "242202"
+        },
+        {
+            "user_name": "Frost",
+            "text": "Hefur þetta verið svona áður? Annars er sensorinn eitthvað skrítinn.",
+            "date": "2010-01-28 13:13:00",
+            "post_id": "242207",
+            "reply_to_id": "242206"
+        }
+    ],
+    "date": "2010-01-28 12:34:00"
+}

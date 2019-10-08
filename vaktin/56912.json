@@ -1,0 +1,58 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "56912",
+    "title": "Linksys E900 - vantar aðstoð.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=56912",
+    "posts": [
+        {
+            "user_name": "chaplin",
+            "text": "Er að nota Linksys E900, þegar þráðlausa netið er stillt á B/G only fæ ég sirka 6ms, 16 Mbps niðurhal og 17 Mbps upphal á Speedtest.net. Þegar ég set það í N Only fæ ég hinsvegar 4ms, 0.34 Mbps niðurhal og 28 Mbps upphal.\nGetur eitthver útskýrt þetta?",
+            "date": "2013-09-02 01:58:00",
+            "post_id": "526679",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Kopar",
+            "text": "Ég er enginn sérfræðingur varðandi þráðlaust net.\nEn eftir stutta leit sýnist mér þessi router ekki vera dual band sem þýðir að hann getur ekki sent nema af einni tíðni í einu. Eina sem mér dettur í hug er að það sé kannski önnur tölva á heimilinu sem er ekki með N netkort. hef heyrt af svoleiðis vandræðum.\nEinnig mætti athuga með staðsetningu routers varðandi örbylgjuofna, myndlykla, ísskápa osfrv.",
+            "date": "2013-09-02 03:45:00",
+            "post_id": "526686",
+            "reply_to_id": "526679"
+        },
+        {
+            "user_name": "Icarus",
+            "text": "Þetta er QOS þjónusta sem orskar þetta.\nLoggað þig inn á routerinn og slökktu á VMM\nætti að vera undir Application & Games > QOS og svo efst þar.",
+            "date": "2013-09-03 12:28:00",
+            "post_id": "526870",
+            "reply_to_id": "526686"
+        },
+        {
+            "user_name": "BugsyB",
+            "text": "Hvað gerir VMM",
+            "date": "2013-09-03 13:03:00",
+            "post_id": "526873",
+            "reply_to_id": "526870"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Snillingur! Kominn í 38 / 48 Mbps. \n Skil að vísu ekki afhverju upload er svona mikið hærra en ég er ánægður! \nGæti önnur hvor af þessum stillingum lagað það?  \n Channel Width\n: 20 MHz\n \nChannel\n: Auto",
+            "date": "2013-09-03 13:40:00",
+            "post_id": "526878",
+            "reply_to_id": "526873"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Komið í lag og virðist virka fullkomlega!\nHooray for Icarus!",
+            "date": "2013-09-03 19:17:00",
+            "post_id": "526925",
+            "reply_to_id": "526878"
+        },
+        {
+            "user_name": "Icarus",
+            "text": "Heitir víst WMM, ekki VMM. \nVið notum E900 routera hérna niðri í vinnu fyrir ljósleiðaraviðskiptavini og tókum eftir þessu, með smá fikti komumst við að þessu, þurfum að breyta þessu handvirkt á hverjum router áður en hann fer útúr húsi... frekar stupid.  \n \nhttp://answers.yahoo.com/question/index ... 712AAtFZnb\nEn gott að ég gat hjálpað",
+            "date": "2013-09-04 09:44:00",
+            "post_id": "527001",
+            "reply_to_id": "526925"
+        }
+    ],
+    "date": "2013-09-02 01:58:00"
+}

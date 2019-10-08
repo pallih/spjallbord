@@ -1,0 +1,128 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "46060",
+    "title": "Vísir VefTV - Plugin fyrir XBMC",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=82&t=46060",
+    "posts": [
+        {
+            "user_name": "hagur",
+            "text": "Jæja, eftir að hafa notað aðeins plugin-ið sem Dagur smíðaði um daginn til að horfa á efni af Sarpinum á Rúv í gegnum XBMC ákvað ég að hræra í eitt plugin líka, fyrir VefTV á Vísi.\nHérna er það semsagt komið ... ég er ekki enn kominn með commit aðgang á Google Code repository-ið sem hýsir XBMC plugin, þangað til verðið þið bara að sækja þetta hingað og setja upp manually.\nLeiðbeiningar:\nFinnið folderinn þar sem XBMC geymir plugin-in sín.  Staðsetningin er breytileg á milli stýrikerfa:\nWindows XP:\n Documents and Settings\\%userprofile%\\Application Data\\XBMC\\addons\nVista/Windows 7:\n Users\\%userprofile%\\AppData\\Roaming\\XBMC\\addons\nMac OS X:\n /Users/<your_user_name>/Library/Application Support/XBMC/addons\niOS:\n /private/var/mobile/Library/Preferences/XBMC/addons\nLinux: \n$HOME/.xbmc/addons\nAfzippið innihaldi zip skrárinnar þangað inn og þá ætti að verða til mappan \nplugin.video.visir\nHeildar möppustrúktúrinn verður þá þessi:  %breytilegt%\\XBMC\\addons\\plugin.video.visir\nRæsið XBMC, farið í Videos og Video add-ons og þá ættuð þið að sjá Vísir - VefTV þar í listanum\nEins og er, þá listar þetta alla flokka og undirflokka sem eru í boði hér: \nhttp://www.visir.is/section/MEDIA\nPlugin-ið velur ávalt strauminn sem er í hæstu gæðum, þ.e mp4 útgáfuna og eru þeir oft mjög góðir.\nTakmarkanir í þessari fyrstu útgáfu:\nEkki er hægt að horfa á beinar útsendingar, þ.e þegar sýnt er beint frá Stöð 2 (t.d þegar fréttatíminn er í gangi)\nPlugin-ið styður ekki paging, þ.e það birtir alltaf bara fyrstu 18 myndböndin í hverjum flokki, en á Vísi eru oft fleiri hundruð myndbönd í hverjum flokki.\nÉg stefni á að gera útgáfu 2 við tækifæri og þá verð ég vonandi búinn að græja þessi tvö atriði.\nATH: Ég er sjálfur að keyra XBMC Eden Beta 3 en ég geri nú ráð fyrir því að þetta virki í eldri útgáfum, a.m.k í Dharma.\nEndilega prófið og komið með athugasemdir ...",
+            "date": "2012-02-26 22:38:00",
+            "post_id": "424170",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "svensven",
+            "text": "Virkar þetta á AppleTV ? ef svo er þá mun ég setja þetta upp og prófa",
+            "date": "2012-02-26 22:44:00",
+            "post_id": "424174",
+            "reply_to_id": "424170"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Já, ætti að virka ... en ég þekki ekki alveg hvernig maður getur sett plugin upp svona manually á AppleTV.  Gæti verið að þú þurfir að bíða þar til ég er búinn að koma þessu inná Google repository-ið.  Þá ættirðu að geta installað þessu bara beint innan úr XBMC plugin viðmótinu (svo framarlega sem þú ert búinn að bæta Google repository-inu við hjá þér).",
+            "date": "2012-02-26 23:17:00",
+            "post_id": "424184",
+            "reply_to_id": "424174"
+        },
+        {
+            "user_name": "wicket",
+            "text": "FTPar bara Zip skránni í einhverja möppu sem þú veist hvar er að finna, farðu svo í system - settings - Add-ons - install addon from ZIP og velur ZIP skránna og þetta er komið.\nSvínvirkar á ATV2.",
+            "date": "2012-02-27 08:54:00",
+            "post_id": "424253",
+            "reply_to_id": "424184"
+        },
+        {
+            "user_name": "Dagur",
+            "text": "Snilld",
+            "date": "2012-02-27 09:59:00",
+            "post_id": "424262",
+            "reply_to_id": "424253"
+        },
+        {
+            "user_name": "freeky",
+            "text": "Snillingur.\nNæsta project hjá þér gæti verið stöð2 frelsi",
+            "date": "2012-03-04 14:08:00",
+            "post_id": "425983",
+            "reply_to_id": "424262"
+        },
+        {
+            "user_name": "Hrotti",
+            "text": "þetta svínvirkar \nÞað er samt mikið einfaldara að installa þessu innan úr xbmc (á pc amk) system/settings/addons/ install from zip",
+            "date": "2012-03-05 23:29:00",
+            "post_id": "426456",
+            "reply_to_id": "425983"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Já þú segir nokkuð,  ég hélt að install from zip væri bara til að skrá inn ný repositories, en svo er víst ekki :-)",
+            "date": "2012-03-06 08:17:00",
+            "post_id": "426492",
+            "reply_to_id": "426456"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Var að henda upp síðu á vefnum mínum fyrir plug-inið:\nhttp://www.haukurhaf.net/projects/xbmc- ... sir-veftv/\nHérna má nálgast nýjar útgáfur í framtíðinni.  Í útgáfunni sem er þarna á síðunni er komið nýtt og betra icon fyrir plugin-ið.",
+            "date": "2012-03-25 23:04:00",
+            "post_id": "431187",
+            "reply_to_id": "426492"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Jæja þá hefur þetta verið samþykkt inn í Official XBMC plugin repository-ið *.  Það þýðir að nú er hægt að fara bara í System -> Addons manager og get addons.  Finnið þetta svo undir video addons  \nEdit:\n* A.m.k fyrir XBMC 11.0 (Eden). Ekki viss með eldri útgáfur.",
+            "date": "2012-03-27 23:14:00",
+            "post_id": "431687",
+            "reply_to_id": "431187"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Var að gefa út v.1.1.0.\nHægt að installa/uppfæra beint innan úr XBMC eða sækja á vefinn: \nhttp://www.haukurhaf.net/projects/xbmc- ... sir-veftv/",
+            "date": "2012-04-04 19:27:00",
+            "post_id": "433440",
+            "reply_to_id": "431687"
+        },
+        {
+            "user_name": "Bidman",
+            "text": "vel gert",
+            "date": "2012-04-04 20:31:00",
+            "post_id": "433467",
+            "reply_to_id": "433440"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Var að gefa út v.1.2.0.\nBætti við stuðningi við flash-based videostrauma, en þeir virkuðu ekki áður.  T.d allt undir \"Íþróttir -> Enski boltinn\".\nHægt að installa/uppfæra beint innan úr XBMC eða sækja á vefinn: \nhttp://www.haukurhaf.net/projects/xbmc- ... sir-veftv/",
+            "date": "2012-04-16 23:38:00",
+            "post_id": "436018",
+            "reply_to_id": "433467"
+        },
+        {
+            "user_name": "magnusgu87",
+            "text": "Algjör snilld, búinn að ná í þetta og þægilegt að geta horft á mörk vikunnar úr enska beint í XBMC",
+            "date": "2012-05-03 22:40:00",
+            "post_id": "439390",
+            "reply_to_id": "436018"
+        },
+        {
+            "user_name": "hagur",
+            "text": "",
+            "date": "2012-05-03 23:16:00",
+            "post_id": "439401",
+            "reply_to_id": "439390"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Eins og einhverjir tóku eftir þá hætti þetta að virka þegar Vísir setti nýja vefinn sinn í loftið um daginn.\nNú er komið fix fyrir það.  Búið að senda pull request á XBMC liðið, þannig að þetta ætti að detta inn í official plugin-repo-ið á allra næstu dögum og þá uppfærist plugin-ið sjálfkrafa í gegnum XBMC.\nFyrir óþolinmóða má sækja version 1.3.0.0 strax hingað og setja manually upp:\nhttp://haukurhaf.net/projects/xbmc-plugins/visir-veftv/",
+            "date": "2012-10-18 13:36:00",
+            "post_id": "472873",
+            "reply_to_id": "439401"
+        },
+        {
+            "user_name": "fannar82",
+            "text": "",
+            "date": "2012-10-18 14:47:00",
+            "post_id": "472887",
+            "reply_to_id": "472873"
+        }
+    ],
+    "date": "2012-02-26 22:38:00"
+}

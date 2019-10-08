@@ -1,0 +1,121 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "39467",
+    "title": "Vantar að vita hvort örgjörvi passi..",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=39467",
+    "posts": [
+        {
+            "user_name": "demaNtur",
+            "text": "passar AMD Athlon II X2 250 3.0 GHz í socket AM2 (940-pin)?\nvar með AMD Athlon 64 X2 4400+.....",
+            "date": "2011-06-25 19:58:00",
+            "post_id": "358762",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AncientGod",
+            "text": "nops, stendur \nhér\n að þessi öri er AM3, sorry =S",
+            "date": "2011-06-25 20:18:00",
+            "post_id": "358767",
+            "reply_to_id": "358762"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Það fer eftir móðurborðinu þínu, hvaða borð ertu með?",
+            "date": "2011-06-25 20:49:00",
+            "post_id": "358770",
+            "reply_to_id": "358767"
+        },
+        {
+            "user_name": "AncientGod",
+            "text": "Þarf maður ekki bara að vita socketið ?",
+            "date": "2011-06-25 21:06:00",
+            "post_id": "358772",
+            "reply_to_id": "358770"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "AM3 örgjörvar passa og virka í AM2 og AM2+",
+            "date": "2011-06-25 21:12:00",
+            "post_id": "358773",
+            "reply_to_id": "358772"
+        },
+        {
+            "user_name": "donzo",
+            "text": "AM2+ og AM3",
+            "date": "2011-06-25 21:14:00",
+            "post_id": "358774",
+            "reply_to_id": "358773"
+        },
+        {
+            "user_name": "AncientGod",
+            "text": "þannig ef ég er með þetta \nmóðurborð\n passar þá sem sagt AM3 örgjörvi ?",
+            "date": "2011-06-25 21:19:00",
+            "post_id": "358775",
+            "reply_to_id": "358774"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Sumir AM3 örgjörvar passa ef að þú ert með nógu nýlegan BIOS uppsettann, listinn er \nhér\n Athugaðu að ef að það stendur N/A þá styður borðið þann örgjörva ekki, athugaðu líka að AM3 örgjörvar keyra ekki á fullum afköstum á AM2 borðum en þeir gera það á AM2+ borðum",
+            "date": "2011-06-25 21:31:00",
+            "post_id": "358777",
+            "reply_to_id": "358775"
+        },
+        {
+            "user_name": "einarhr",
+            "text": "Skv Gigabyte þá styður þetta borð allt að Phenom II X6 með bios uppfærslu,\nsjá hér : \nhttp://www.gigabyte.us/support-downloads/cpu-support-popup.aspx?pid=2579",
+            "date": "2011-06-25 21:42:00",
+            "post_id": "358778",
+            "reply_to_id": "358777"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "",
+            "date": "2011-06-25 21:55:00",
+            "post_id": "358779",
+            "reply_to_id": "358778"
+        },
+        {
+            "user_name": "AncientGod",
+            "text": "ok takk fyrir þetta en ég skil ekkert í þessari töflu =S takk samt.",
+            "date": "2011-06-25 22:00:00",
+            "post_id": "358780",
+            "reply_to_id": "358779"
+        },
+        {
+            "user_name": "einarhr",
+            "text": "Sæll tók eftir því núna takk..\nAthlon II 250 örgjörvin á að virka á þessu móðurborði með Bios version F7E og svo virkar td Phenom II 955 af Quad Core \nAMD\tPhenom II X4 955\t 3200MHz\t512KBx4\t6MB\tDeneb\t45nm\tC3\t95W\t4000\tF7E\nAMD\tAthlon II X2 250\t        3000MHz\t1MBx2\tN/A\tRegor\t45nm\tC3\t65W\t4000\tF7E\nAMD\tAthlon II X2 250\t        3000MHz\t1MBx2\tN/A\tRegor\t45nm\tC2\t65W\t4000\tF7E\nAMD\tAthlon II X2 250e\t3000MHz\t1MBx2\tN/A\tRegor\t45nm\tC3\t45W\t4000\tF7E",
+            "date": "2011-06-25 22:01:00",
+            "post_id": "358781",
+            "reply_to_id": "358780"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Þú gerir þér samt grein fyrir því að OP er ekki með þetta Gigabyte borð heldur erum ég, þú og guttalingur löngu búnir að hijacka þessum þræði og verðum að laga það þegar að hann póstar hvað móðurborðið sitt heitir",
+            "date": "2011-06-25 22:19:00",
+            "post_id": "358785",
+            "reply_to_id": "358781"
+        },
+        {
+            "user_name": "einarhr",
+            "text": "Kanski væri sniðugt að setja upp Speccy á þessari vél sem þú ert að spá í að upgradea og pósta screenshoti hér í þráðinn. Speccy gefur upp allar helstu upplýsingar um móðurborðið.\nhér er linkur á Speccy \nhttp://www.filehippo.com/download_speccy",
+            "date": "2011-06-25 22:48:00",
+            "post_id": "358792",
+            "reply_to_id": "358785"
+        },
+        {
+            "user_name": "demaNtur",
+            "text": "Nennti ekki að taka printscreen og uploada því, þetta ætti að duga..",
+            "date": "2011-06-26 19:35:00",
+            "post_id": "358924",
+            "reply_to_id": "358792"
+        },
+        {
+            "user_name": "einarhr",
+            "text": "hér er CPU support list ef þú ert ekki komin með þetta á hreint.\nhttp://www.asrock.com/mb/cpu.asp?Model=ALiveNF6G-GLAN",
+            "date": "2011-06-29 21:33:00",
+            "post_id": "359671",
+            "reply_to_id": "358924"
+        }
+    ],
+    "date": "2011-06-25 19:58:00"
+}

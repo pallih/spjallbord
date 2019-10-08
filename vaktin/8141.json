@@ -1,0 +1,135 @@
+{
+    "forum_title": "Windows",
+    "id": "8141",
+    "title": "Spes reynsla",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=8141",
+    "posts": [
+        {
+            "user_name": "Icarus",
+            "text": "Jæja, gerðist svolítið spes fyrir mig í dag sem hefur aldrei gerst áður.\n\n\n\nWindows crashaði bara allt í einu og útaf engu, ég og vinur minn vorum heima hjá mér aðeins í tölvunni og fórum svo út í bíltúr, svo þegar ég kem til baka var skjárinn bara svartur.. s.s. no signal input.. ok.. hélt að það væri bara vesen með drivera svo ég ákveð bara að restarta vélinni.\n\n\n\nÞá keyrir vélin sig upp að login skjánum og restartar sér aftur þá og gerir þetta bara stanslaust, ég ákveð að prófa að keyra upp safe mode eða last known good configuration that worked og ekkert virkaði.\n\n\n\nDatt þá í hug að keyra bara repair með windows disknum, skelli honum í, boota frá honum og vitiði hvað. C partitionið var bara horfið, ekkert system eftir til að repaira svo ég þurfti að endurinnsetja windowsið og er núna að basla við að koma öllu í gang aftur.\n\n\n\nGeri aðrir betur",
+            "date": "2005-05-02 21:03:00",
+            "post_id": "87095",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "ponzer",
+            "text": "Gerðist fyrir mig fyrir svona 1viku...",
+            "date": "2005-05-02 21:40:00",
+            "post_id": "87101",
+            "reply_to_id": "87095"
+        },
+        {
+            "user_name": "Icarus",
+            "text": "Annað sem kom eftir format... \n\n\n\n\n\n\n\nHvað er málið með þennan error, hef aldrei séð svona áður. svo komu líka voða leiðinleg hljóð í disknum.. gæti verið að diskurinn sé að klikka ?",
+            "date": "2005-05-02 22:26:00",
+            "post_id": "87107",
+            "reply_to_id": "87101"
+        },
+        {
+            "user_name": "ponzer",
+            "text": "Ég þurfti ekki að formatta",
+            "date": "2005-05-02 22:41:00",
+            "post_id": "87108",
+            "reply_to_id": "87107"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "Respect.. Ætli þetta sé ekki hdd.. þetta er það sama og gerðist með deathstarinn hjá mér.. bara allt í einu.. en WOW! ég er á screenshottinu(heiti viva la snorri) Sem er norðfirðingagengja..",
+            "date": "2005-05-02 23:03:00",
+            "post_id": "87109",
+            "reply_to_id": "87108"
+        },
+        {
+            "user_name": "Mysingur",
+            "text": "ætli þetta sé ekki hd að klikka\n\nmyndi allavega bakka upp öll gögn til öryggis",
+            "date": "2005-05-02 23:26:00",
+            "post_id": "87112",
+            "reply_to_id": "87109"
+        },
+        {
+            "user_name": "Mr.Jinx",
+            "text": "Nú spyr ég eins og asni  \n  En hvernig á að bakka upp öll gögn? Hef bara aldrei  lært það.",
+            "date": "2005-05-02 23:29:00",
+            "post_id": "87113",
+            "reply_to_id": "87112"
+        },
+        {
+            "user_name": "Mysingur",
+            "text": "uh!?! copy/paste",
+            "date": "2005-05-02 23:31:00",
+            "post_id": "87114",
+            "reply_to_id": "87113"
+        },
+        {
+            "user_name": "Mr.Jinx",
+            "text": "Ha\"\" Nei  \n  ? Veit ekki hvað það er(ekki 100% viss)\" eða hvernig það er gert..",
+            "date": "2005-05-02 23:44:00",
+            "post_id": "87116",
+            "reply_to_id": "87114"
+        },
+        {
+            "user_name": "Mysingur",
+            "text": "hvað meinaru?",
+            "date": "2005-05-02 23:53:00",
+            "post_id": "87119",
+            "reply_to_id": "87116"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "we need sarcasm smilie \n Allavega sýnsits mér á fleiri póstum frá Jinxernum að hann sé allur í kaldhæðninni",
+            "date": "2005-05-02 23:58:00",
+            "post_id": "87120",
+            "reply_to_id": "87119"
+        },
+        {
+            "user_name": "Birkir",
+            "text": "Ég er ekki svo viss um að þetta sé kaldhæðni hjá honum",
+            "date": "2005-05-03 00:02:00",
+            "post_id": "87121",
+            "reply_to_id": "87120"
+        },
+        {
+            "user_name": "Mr.Jinx",
+            "text": "Nei nei var bara að spurja hvernig á að gera þetta.  \n\n\nog Hvað ert þú að meina Copy/Paste?\n\n\n\nkaldhæðni  nei ég held ekki.",
+            "date": "2005-05-03 00:32:00",
+            "post_id": "87124",
+            "reply_to_id": "87121"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "Bad News icarus!\n\n\n\nDiskurinn er að gefast upp.\n\n\n\nÞetta gerðist vegna þess að það hefur komist rikkorn inn í diskinn eða að leshausinn hafi rekist í hann. Þessvegna eru ónytir sectorar á disknum, liklegast hefur MBR skemst eitthvað, og þessvegna \"hvarf\" partitionið. Ástæðan fyrir því að það kemur \"Delay Write Failed\" er vegna þess að tölvan reynir að skrifa á ónýtann hluta af disknum. En gögnin geymast ekki þar. Svo þegar tölvan athugar hvort gögnin hafi ekki ábyggilega geymst, þá er ekkert þar.",
+            "date": "2005-05-03 08:27:00",
+            "post_id": "87129",
+            "reply_to_id": "87124"
+        },
+        {
+            "user_name": "Icarus",
+            "text": "en af hverju kemur þá errorinn á D diskinn en C diskurinn hrundi.. finnst svolítið ótrúlegt að báðir diskarnir mínir séu að gefa sig í einu",
+            "date": "2005-05-03 10:44:00",
+            "post_id": "87135",
+            "reply_to_id": "87129"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "ertu með þá á sama ide kappli? prófaðu að skipta um kapal.",
+            "date": "2005-05-03 12:42:00",
+            "post_id": "87150",
+            "reply_to_id": "87135"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Ég er frægur  \n\n\nGæti verið ide kapalinn.",
+            "date": "2005-05-03 12:59:00",
+            "post_id": "87151",
+            "reply_to_id": "87150"
+        },
+        {
+            "user_name": "Icarus",
+            "text": "skipta um ide kapal.. svoldið súrt þar sem ég var að kaupa þennan kapal fyrir svona 2 mánuðum síðan..",
+            "date": "2005-05-03 13:05:00",
+            "post_id": "87152",
+            "reply_to_id": "87151"
+        }
+    ],
+    "date": "2005-05-02 21:03:00"
+}

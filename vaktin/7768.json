@@ -1,0 +1,198 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "7768",
+    "title": "Losna við Linux",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=7768",
+    "posts": [
+        {
+            "user_name": "Predator",
+            "text": "Ég er búinn að reyna að installa debian en það gekk ekki upp svo ég installaði ubuntu yfir það og þá eyðilagðist allt og nú þarf ég að formata harða diskinn sem ég installaði þessum linux útgáfum á.",
+            "date": "2005-03-25 00:28:00",
+            "post_id": "82447",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Mysingur",
+            "text": "uuh... okeeiii",
+            "date": "2005-03-25 04:03:00",
+            "post_id": "82465",
+            "reply_to_id": "82447"
+        },
+        {
+            "user_name": "Predator",
+            "text": "En grub boot loader-inn hjá mér er ónýttur og það kemur alltaf upp error þegar ég er búinn að restarta tölvuni eftir að hafa reynt að installa honum aftur. Hvernig get ég þá losnað við hann ?\n\n\n\nHvað get ég gert svo Windows sjái Linux harða diskinn aftur ?",
+            "date": "2005-03-25 11:41:00",
+            "post_id": "82469",
+            "reply_to_id": "82465"
+        },
+        {
+            "user_name": "tms",
+            "text": "Hef ekki alveg áttað mig á því hverju þú ert að gera en bootaðu upp windows diskinum og farðu í recovery mode og sláðu inn fixmbr, þá ætti windows að bootast automatic upp.",
+            "date": "2005-03-25 13:27:00",
+            "post_id": "82481",
+            "reply_to_id": "82469"
+        },
+        {
+            "user_name": "Predator",
+            "text": "Búinn að því.\n\n\n\nAlltaf þegar ég reyni að installa Ubuntu þá komar upp þessir errorar \"The debootstrap program exited with an error (return valeu 1), Unable to install initrd-tools. \n\n\n\nVitiði hvað hægt er að gera til að losna við að fá alltaf upp þessa errora?\n\n\n\nAlltaf þegar ég installa Debian þá kemur ekki upp neinn af þessum errorum en alltaf þegar ég reboota þá kemur upp Grub 1.5..... loading Grub error 25 kemur svo, hvað er hægt að gera við þessu ?",
+            "date": "2005-03-25 13:49:00",
+            "post_id": "82490",
+            "reply_to_id": "82481"
+        },
+        {
+            "user_name": "KnottyMaggi",
+            "text": "gæti verið að þú ert að installa frá corrupt diskum? Skrifa þá bara shittið aftur og svo fara að lemja simma (geng út frá að þú ert fæddur 89 og þekkir hann þar sem þú býrð í hveragerði  \n )",
+            "date": "2005-03-25 19:23:00",
+            "post_id": "82514",
+            "reply_to_id": "82490"
+        },
+        {
+            "user_name": "Predator",
+            "text": "Reyni þetta. \n\n\n\nNei reyndar er ég fæddur 90 en ég þekki simma og þú þekkir hann hvernig ?",
+            "date": "2005-03-25 20:00:00",
+            "post_id": "82515",
+            "reply_to_id": "82514"
+        },
+        {
+            "user_name": "Predator",
+            "text": "Virkar ekki fæ þennan error aftur upp.\n\n\n\nÆtti ég að prófa eitthver önnur distró fyrst þessi 2 virka ekki hjá mér ? Ef svo er hvaða ? Verður helst að vera mjög newbie vænt.",
+            "date": "2005-03-25 21:34:00",
+            "post_id": "82520",
+            "reply_to_id": "82515"
+        },
+        {
+            "user_name": "Predator",
+            "text": "Ég er búinn að setja upp Fedora Core3 og er í því núna en þarf ég að fá irc forrit annað en það sem var inn í fedora þegar ég installaði því. Ég finn ekki Íslenskan irc server í því.",
+            "date": "2005-03-26 12:13:00",
+            "post_id": "82565",
+            "reply_to_id": "82520"
+        },
+        {
+            "user_name": "KnottyMaggi",
+            "text": "Gaurinn er frændi minn, en ég var meira að spá í að þú þarft að ná í iso fælana aftur og muna svo að md5sum tjékka þá.\n\n\n\nhttp://www.google.com\n ef þu veist ekki hvað md5sum er",
+            "date": "2005-03-26 12:23:00",
+            "post_id": "82568",
+            "reply_to_id": "82565"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Hmm, hvernig 'finnur' forritið ekki íslenskan server? Eru þeir ekki á server listanum sem kom með forritinu, eða nærðu ekki sambandi við þá?\n\nErtu búin að prófa að tengjast „manually“ með því að skrifa '/connect \nserver\n'? Mig minnir að það hafi verið irc.ircnet.is og irc.simnet.is",
+            "date": "2005-03-26 12:23:00",
+            "post_id": "82570",
+            "reply_to_id": "82568"
+        },
+        {
+            "user_name": "Predator",
+            "text": "Það er ekki á listanum og ég vissi ekki serverinn fyrir ísland. En prófa þetta mezzup\n\n\n\nEdit: Það virkaði",
+            "date": "2005-03-26 12:41:00",
+            "post_id": "82574",
+            "reply_to_id": "82570"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Frábært \n Þú ættir síðan að geta bætt þessum þjónum á server listann í forritinu og still á Auto-Connect svo þú þurfir ekki alltaf að skrifa þetta. Hvaða IRC Client ertu að nota?",
+            "date": "2005-03-26 12:58:00",
+            "post_id": "82577",
+            "reply_to_id": "82574"
+        },
+        {
+            "user_name": "Predator",
+            "text": "Ég er að nota X-Chat sem var bara inn í FCore 3 þegar ég installaði því.",
+            "date": "2005-03-26 13:03:00",
+            "post_id": "82578",
+            "reply_to_id": "82577"
+        },
+        {
+            "user_name": "Predator",
+            "text": "Núna þarf ég að fá hjálp með að installa mp3 og margmiðlun ég er búinn að fara eftir greini á huga en hún virkar ekki \n Ég er að nota Fedora Core3.\n\n\n\nÞegar ég geri [root@emil-1q5goadina apt]# apt-get install xmms xmms-mp3 mplayer\n\nfæ ég alltaf upp eftirfarandi\n\nReading Package Lists... Done\n\nBuilding Dependency Tree... Done\n\nxmms is already the newest version.\n\nSome packages could not be installed. This may mean that you have\n\nrequested an impossible situation or if you are using the unstable\n\ndistribution that some required packages have not yet been created\n\nor been moved out of Incoming.\n\nThe following information may help to resolve the situation:\n\n\n\nThe following packages have unmet dependencies:\n\n  mplayer: Depends: libfribidi.so.0 but it is not installable\n\nE: Broken packages",
+            "date": "2005-03-26 19:16:00",
+            "post_id": "82612",
+            "reply_to_id": "82578"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Þarna er tölvan að segja að þú xmms sé uppsett.\nÞarna segir hún að ekki sé hægt að installa mplayer afþví að það þarfnast libfribidi.so.0 sem(einhverra hluta vegna) ekki er hægt að installa. Ég kann lítið á Linux og dettur ekkert í hug, nema þá að prufa 'apt-get update' og síðan 'apt-get install mplayer'.\n\n\n\nÉg sé ekkert um 'xmms-mp3' þarna. Gæti verið að það sé hægt að setja það upp en apt hætti bara þegar það rekst á ofangreinda villu, eða þá að það sé uppsett. Prófaðu að keyra bara 'apt-get install xmms-mp3' og sjáðu hvað tölvan segir. Þá ættirðu að geta byrja að hlusta á MP3 lögin þín. (Ef að hljóðkorts driverarnir virka \n)",
+            "date": "2005-03-26 19:48:00",
+            "post_id": "82616",
+            "reply_to_id": "82612"
+        },
+        {
+            "user_name": "Predator",
+            "text": "Ok reyni þetta.\n\n\n\nHelvítis hljóðkortið er ekki uppsett hvernig set ég það upp ?",
+            "date": "2005-03-26 20:05:00",
+            "post_id": "82621",
+            "reply_to_id": "82616"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Þarft líklega driver fyrir hljóðkortið. Prófaðu að hjálpa þér sjálfur. Tvö orð, Google & Alsa",
+            "date": "2005-03-26 21:09:00",
+            "post_id": "82633",
+            "reply_to_id": "82621"
+        },
+        {
+            "user_name": "Predator",
+            "text": "Reddaði hljóðinu en hvernig get ég fengið Steam til að virka með Fcore 3 ?",
+            "date": "2005-03-27 22:29:00",
+            "post_id": "82749",
+            "reply_to_id": "82633"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Flott hjá þér \n\n\n\n\nTil þess að geta spilað leiki á Linux sem eru bara til á Windows(t.d. Counter-Strike/Steam...) þarftu forrit sem heitir Wine(eða XWine, man ekki) sem hermir eftir Windows á Linux og lætur Steam halda að það sé að keyra á Windows. Getur keyrt einhverja Windows leiki með því, en ekki alla, og þeir sem að þú getur keyrt virka ekki allir 100%.",
+            "date": "2005-03-27 23:09:00",
+            "post_id": "82756",
+            "reply_to_id": "82749"
+        },
+        {
+            "user_name": "Predator",
+            "text": "Ok búinn að redda mér Wine en kann bara ekkert á það :S Og já vitði um eitthverjar góða \"bók\" á netinu til að læra forritun ?",
+            "date": "2005-03-27 23:25:00",
+            "post_id": "82758",
+            "reply_to_id": "82756"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Sama hér \n Ég myndi bara leit að tutorial á Google. Finnur örugglega þónokkra.\nJá, reyndar. \nhttp://www.linux.is/forritun/?lang=c",
+            "date": "2005-03-27 23:41:00",
+            "post_id": "82760",
+            "reply_to_id": "82758"
+        },
+        {
+            "user_name": "KnottyMaggi",
+            "text": "já wine er gott fyrir leiki ef þú villt keyra 30 fps MAX á besta skjákorti sem til er eftir að þú ert búinn að overclocka til helvítis. Held að winex væri betri frá Cedega eða eitthvað slíkt.\n\n\n\nOg ef þú ert með fedora þá mundi ég kynna mér RPM kerfið þar sem apt er debian pakka kerfið.\n\n\n\nhttp://www.google.com\n og lestu um RPM. líka ef þú ferð á hugi/linux þá eru nokkrar greinar um þetta rpm kerfi.",
+            "date": "2005-03-28 12:58:00",
+            "post_id": "82797",
+            "reply_to_id": "82760"
+        },
+        {
+            "user_name": "Predator",
+            "text": "Ég er með Cedega en þarf bara að læra að nota það og readme fælinn sem fylgir hjálpar ekkert.",
+            "date": "2005-03-28 13:24:00",
+            "post_id": "82799",
+            "reply_to_id": "82797"
+        },
+        {
+            "user_name": "kraft",
+            "text": "hvað með að eyða bara partition út og búa til nýja, byrja upp á nýtt",
+            "date": "2006-05-05 23:03:00",
+            "post_id": "118346",
+            "reply_to_id": "82799"
+        },
+        {
+            "user_name": "Veit Ekki",
+            "text": "Skrifað: Mán 28. Mar 2005 13:24",
+            "date": "2006-05-06 00:03:00",
+            "post_id": "118349",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Andri Fannar",
+            "text": "Góður",
+            "date": "2006-05-06 00:32:00",
+            "post_id": "118351",
+            "reply_to_id": "118349"
+        }
+    ],
+    "date": "2006-05-06 00:03:00"
+}

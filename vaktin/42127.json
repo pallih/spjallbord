@@ -1,0 +1,79 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "42127",
+    "title": "Ódýrt Android Tablet sem HTPC fjarstýring.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=42127",
+    "posts": [
+        {
+            "user_name": "rapport",
+            "text": "Ég er að pæla...\nHvernig er þægilegast að setja upp umhverfið hérna heima?\nÉg á ekki Android tablet og í raun ekki flatskjá enn, en stefnan er tekin á að fara versla þetta inn svona hægt og bítandi.\nÉg hefði haldið að best væri að vera með einhverskonar NAS sem tölvan gæti DL inná og HTPC vél gæti þá lesið af (hafa HDD hávaðaseggina e-h staðar EKKI inní stofu).\nÞá væri ég með e-h litla HTPC sem sniðugt væri að taka yfir með e-h 7-14\" tablet í gegnum innra netið uppá að velja myndir eða tónlist hverju sinni.\nm.v. hvað margir hérna eru vel græjaðir þá hlítur einhver að vera búinn að jarða þetta til helvítis og þekkja \"einu réttu leiðina\".\nHver er sú leið? (ég á ekki pening til að gera þetta vitlaust \n )",
+            "date": "2011-10-04 23:53:00",
+            "post_id": "385406",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Þú ert nokkurnveginn kominn með þetta. Ég er reyndar ekki hrifinn af NAS framyfir low-budget servera, þá aðallega útaf verðinu sem þessi NAS box eru að fara á. Ef 2ja diska box dugar þér þó þá ætti það ekki að vera vandamál, en ef þú ætlar að spila með stóru strákunum þá þarftu að lágmarki 4ja diska RAID5 box og þá ertu kominn upp í verðið á basic server. NAS hefur þó vissulega einfaldleikann framyfir, og tekur yfirleitt minna pláss.\nÉg er með þetta uppsett ekki ólíkt því sem þú ert að tala um, nema bara ekki NAS.\n1. Physical storage server sem sér bara um að vera storage/iSCSI → Virtual server sem sér um allt P2P/Media Management (Ember Media Manager/TV Rename) → HTPC uppsett með XBMC og Aeon MQ3 skin → Harmony 300i og/eða WP7 XBMC remote. Planið er þó að þegar sæmilegar tablet vélar hrynja í verði að finna e-rja til þess að sjá um remote function-ið, líkt og þú talar um.\nEini munurinn á setupi ef þú færir í NAS frekar en server þá þyrftiru að láta HTPC/PC vélina sjá um P2P/Media management, sem er svosem ekkert issue.",
+            "date": "2011-10-05 00:08:00",
+            "post_id": "385409",
+            "reply_to_id": "385406"
+        },
+        {
+            "user_name": "Einsinn",
+            "text": "Hef akkurat verið að velta þessu fyrir mér (er í raun í sömu stöðu og þú ekki með sjónvarp og það ennþá en allt á teikniborðinu:) \nHef verið mest að spá í að setja upp AMD fusion mini itx htpc vél og svo server fyrir efni til að losna við sem mestann hávaða í stofunni\nmeð tablets þá líst mér helst best á amazon kindle fire, og svo hef ég verið að skoða líka að fá mér \nredeye mini\n til að umbreyta tabletinu í allgjöra fjarstýringu fyrir sjónvarp/magnara og htpcið",
+            "date": "2011-10-05 00:52:00",
+            "post_id": "385418",
+            "reply_to_id": "385409"
+        },
+        {
+            "user_name": "izelord",
+            "text": "Tja. Ég pældi lengivel í HTPC en féll frá því.\nMitt setup er hrikalega einfalt og virkar alltaf. Minna flækjustig er alltaf gott.\nEr með dedicated storage server (gæti allt eins verið NAS) sem tölvan færir allt sjálfvirkt inn á. Í stofunni er ég svo með WDTV Live sem sækir gögn inn á serverinn. Basta \nEnginn hávaði í stofunni, tekur ekkert pláss, spilar allt sem ég hendi í það og aldrei neitt vesen.",
+            "date": "2011-10-05 01:18:00",
+            "post_id": "385428",
+            "reply_to_id": "385418"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Ég er samt líka í vandræðum, það stefnir í að eina netið sem ég komi inn í stofuna verði í gegnum rafmagnsnúrurnar... mun það ráða við einhverja traffík án vandræða?\nHeld að þetta þurfi að fara í gegnum töfluna, gætu verið vandræði ef tenglarnir eru ekki á sama öryggi í töflunni?\nHelv. djö.... \nLangar bara að fá þetta í jólagjöf frá mér til mín og þá er eins gott að vita nkl. hvað maður vill og hvað það kostar svo að budgetið fari ekki úr böndunum ;-)",
+            "date": "2011-10-05 01:31:00",
+            "post_id": "385432",
+            "reply_to_id": "385428"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Ég hef heyrt að þetta virki \"best\" ef sendir og mótttakari eru á sömu grein.  Hvort þetta virki verr, eða bara alls ekki, sé þetta á sitthvorri greininni veit ég ekki.\nSamkvæmt pappírum á þetta powerline dót alveg að höndla þetta.  Er þetta ekki oftast gefið upp fyrir 85mbps ?  Bitrate-ið á 1080p h264 skrá er skilst mér svona oftast undir 10mbps þannig að þú sérð að á pappírunum á þetta alveg að ganga.\nBest er samt auvitað bara að prófa en það getur verið svekk að fjárfesta í þessu ef það gengur svo alls ekki",
+            "date": "2011-10-05 08:52:00",
+            "post_id": "385457",
+            "reply_to_id": "385432"
+        },
+        {
+            "user_name": "biturk",
+            "text": "er engin séns á að draga upp borvélina og gera gat á vegg? setja bakvið parketlista? undir teppi? bara eitthvað?",
+            "date": "2011-10-05 08:57:00",
+            "post_id": "385460",
+            "reply_to_id": "385457"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Sammála biturk.  Með smá vilja ætti alltaf að vera hægt að draga CAT5e streng og fela undir parketlista, eða í versta falli í nettri kapalrennu alveg niður við gólf.  Nema aðstæður séu eitthvað óvenjulega erfiðar.\nMun borga sig",
+            "date": "2011-10-05 09:25:00",
+            "post_id": "385467",
+            "reply_to_id": "385460"
+        },
+        {
+            "user_name": "FreyrGauti",
+            "text": "Ég er með HTPC vél, var/er að setja saman nýja, er kominn með hluta af henni í gang í temp kassa. Er að nota Asus E35M1-I Deluxe móðurborð, 40GB Mushkin SSD og 4GB í minni. Síðan í des eða eftir áramót verður kassinn utan um þetta pantaður, Wesena Mini ITX7-2, ásamt powersupply og blueray drifi. Nota núna turninn minn sem geymslu fyrir myndir en seinna meir verður verslaður dedicated \"server\" í það. Ég er þeim lúxus búinn að vera tengdur með Cat5e í router á báðum vélum.\nEdit: Já og ég nota bara Win Mediacenter fjarstýringu með XBMC til að spila skrárnar, ásamt smá moddi til að fá meiri virkni í fjarstýringuna.",
+            "date": "2011-10-05 09:37:00",
+            "post_id": "385472",
+            "reply_to_id": "385467"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "@Izelord: NAS + WDTV Live er auðvitað hrikalega einfalt og þægilegt setup en ef þú talar við þá sem hafa farið úr TV flakkara setupi og yfir í XBMC/Boxee setup þá heyriru ekki mikið um eftirsjá. Það er bara svo ólýsanlega mikið sem XBMC hefur framyfir flest annað, subtitle/radio/trailer/Torrent og flr. addons, skinnin og feelið í kerfinu, Library Mode-in á TV Shows/Movies og endalausu view mode-in sem hægt er að velja um.. Það er bara held ég enginn flakkari sem kemst nálægt þessu.\n@hagur: Þetta er það sama og ég hef heyrt, hinsvegar notaði ég 200Mbit adapter (sem sendi þó aldrei meira en 100Mbit út á per client adapter) í millistykki meira segja og náði að taka 1080p efni yfir án vandræða, svo lengi sem ég var ekki að transkóða (PS3 streaming). Þetta fer þó örugglega eftir húsum og lögnum, ég var í glænýju húsi og það gæti hafa hjálpað mér.\nAnnars er ég nýbúinn að draga Cat6 fram og til baka um nýju íbúðina mína og long term alveg klárlega þess virði. Hver einasta vél hérna tengd með Gbit. Sumstaðar þurfti maður að smella þessu undir lista en annarstaðar dró maður þetta bara meðfram/í staðinn fyrir COAXið.",
+            "date": "2011-10-05 12:24:00",
+            "post_id": "385505",
+            "reply_to_id": "385472"
+        }
+    ],
+    "date": "2011-10-04 23:53:00"
+}

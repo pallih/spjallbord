@@ -1,0 +1,100 @@
+{
+    "forum_title": "Símar, fartölvur, myndavélar og önnur farandstæki",
+    "id": "73540",
+    "title": "Ábyrgð á rootuðum síma með KNOX 0x1",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=26&t=73540",
+    "posts": [
+        {
+            "user_name": "gusti123",
+            "text": "Góðan daginn, sagan mín er í stuttu máli svona: \nÉg keypti S7 Edge í apríl 2016, rootaði strax og notaði hann svoleiðis í marga mánuði, eða alveg fram í febrúar síðastliðinn.\nÍ febrúar fór hann að haga sér undarlega , lenti í bootloopi sem entist í nokkrar klst þannig mig fór að gruna að síminn sjálfur væri bilaður en ákvað að prufa að setja upp stock hugbúnað áður, til að athuga hvort þetta væri eitthvað tengt því að hann væri rootaður (eða bara eitthvað annað hugbúnaðarlega séð, corrupt cache o.þ.h) .\nÉg notaði forrit frá Samsung sem heitir Samsung Smart Switch til þess að \"unroota\" símann og setja upp stock recovery og stock ROM. \nVandamálið fór í burtu...\nÞar til í apríl síðastliðnum þegar ég var búinn að gefa mömmu símann, hann fór að bootloopa án nokkurrar ástæðu þannig við fórum með hann í ábyrgðarviðgerð.\nTVR (Tæknivörur) sem sjá um viðgerðir á Samsung á Íslandi neita því að gera við hann í ábyrgð, þar sem KNOX teljarinn er kominn í 0x1. Þeir segja mig hafa \"corruptað\" minnið á móðurborði símans sem hafi endað í því að hann er fastur í bootloop. Þeir sögðu líka að ekki væri hægt að prufa að setja upp stock hugbúnað því þá myndi síminn læsast. Það er 100% rangt því það er nákvæmlega það sem ég gerði í febrúar.\nÞeir þora að \"fullyrða\" að þetta sé af mínum völdum, en ég er nokkuð viss um að manneskjan á við að það sé af mínum völdum að KNOX teljarinn er kominn í 0x1.\nÉg held þetta standist ekki evrópsk neytendalög sbr t.d. \nhttps://forum.xda-developers.com/showthread.php?t=1998801\n en ég kemst ekki langt með málið  hjá Neytendastofu á erlendum bloggpóstum einum og sér.\nÉg fann tvo þræði sem snerta á þessu hérna á vaktinni : /viewtopic.php?t=58716 og /viewtopic.php?t=58376 en í hvorugum var komist að niðurstöðu.\nHefur einhver reynslu af þessu?",
+            "date": "2017-07-11 15:30:00",
+            "post_id": "652960",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Revenant",
+            "text": "KNOX teljarinn er svokallaður efuse sem \"rofnar\" þegar þú setur upp custom rom. Sjá: \nhttps://www.samsungknox.com/en/qa/what-knox-warranty-bit-and-how-it-triggered\n.\nÞar sem þetta er one-way aðgerð (þ.e. það er ekki hægt að tengja efuse aftur) þá getur TVR borið það fyrir sig að það hafi verið átt við tækið og þar með hafnað ábyrgð.",
+            "date": "2017-07-11 16:42:00",
+            "post_id": "652963",
+            "reply_to_id": "652960"
+        },
+        {
+            "user_name": "gusti123",
+            "text": "Takk fyrir svarið. Ég vissi vel að þetta væri svona vírað, ég vissi að ég myndi \"trippa\" KNOX teljarann, en síðast þegar ég vissi var það á ábyrgð Seljanda að sýna fram á að með því að eiga við tækið hafi ég skemmt það, að það sé einfaldlega ekki nóg að bera fyrir sig að ég hafi framkvæmt þessa aðgerð, sem í rauninni skemmdi ekki símann minn heldur merkti bara KNOX sem 0x1.",
+            "date": "2017-07-11 17:08:00",
+            "post_id": "652964",
+            "reply_to_id": "652963"
+        },
+        {
+            "user_name": "pepsico",
+            "text": "Þú veist ekki hvort að þessi aðgerð skemmdi símann þinn \"í rauninni\" og það hjálpar ekki málsstað þínum að þú berir fyrir þig staðhæfingar sem þú getur ekki sýnt fram á.\nÞað að custom ROMið þitt hafi valdið vandamáli sem leystist að þinni eigin sögn við að fara aftur í stock ROM brennir þig til kaldra kola. \nÞað er auðvitað svo til ómögulegt að segja til um það hvort að það hafi valdið varanlegum skaða en það virðist ansi stór tilviljun til að kaupa að sami sími þrói með sér akkúrat sama sjaldgæfa vandamál sjálfstætt.",
+            "date": "2017-07-11 17:20:00",
+            "post_id": "652967",
+            "reply_to_id": "652964"
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Í raun \"skemmdiru\" tækið því með því að trippa efuse-inn. Það er ekki lengur hægt að nota KNOX virknina á þessum síma. \nÞar með er ekki um framleiðslugalla að ræða heldur hefur verið átt við tækið.\nGóð samlíking eru öryggislímmiðarnir á raftækjum (t.d. á PS4). Ef tækið hefur verið opnað (innsiglið rofið) þá er ekki lengur um framleiðslugalla að ræða.",
+            "date": "2017-07-11 17:23:00",
+            "post_id": "652968",
+            "reply_to_id": "652967"
+        },
+        {
+            "user_name": "gusti123",
+            "text": "Takk fyrir svarið.   Hvaða staðhæfingar sem ég get ekki sýnt fram á áttu þá við ?\nÉg hef áður lent í því að sími fari í einhverja vitleysu alveg óháð því hvort hann sé rootaður eða ekki, sem ég hef þá lagað með því að framkvæma factory reset, þarna í febrúar var ég farinn að huga að nýjum síma kaupum þannig ég nýtti einfaldlega tækifærið og fór aftur í stock áður en ég gaf mömmu hann. Ég er ekkert viss um að um sé að ræða sama vandamál og er núna, þar sem factory reset lagar það ekki núna, en þetta er partur af sögu símans þannig ég læt þetta fylgja með, aðallega til þess að sýna fram á að staðhæfingar þeirra um að ekki sé hægt að setja upp upprunalegan hugbúnað séu bara ekki réttar þar sem ég gerði það með forriti frá Samsung sjálfur.\nÉg skil ekki alveg síðasta punktinn hjá þér , en það hlýtur samt að falla á seljandann að komast að því hvort að ég hafi gert eitthvað til að skemma hann, er það ekki ? \nTil að fyrirbyggja misskilning , ef það er í rauninni mér að kenna að síminn fór í þessa vitleysu þá verður bara að hafa það og ég tek alla ábyrgð á því,  en mér finnst þeir þá þurfa að sýna fram á að þetta sé mér að kenna.",
+            "date": "2017-07-11 18:34:00",
+            "post_id": "652971",
+            "reply_to_id": "652968"
+        },
+        {
+            "user_name": "gusti123",
+            "text": "Ef þetta reynist satt þá finnst mér það ansi skítt því ég er ekki að kvarta til þeirra um að KNOX hugbúnaðurinn virki ekki, heldur að síminn í heild sinni virki ekki.\nÉg skil það betur með t.d. PS4 þar sem þar er ég að eiga við vélbúnaði með beint , en góð samlíking engu að síður.",
+            "date": "2017-07-11 18:40:00",
+            "post_id": "652972",
+            "reply_to_id": "652971"
+        },
+        {
+            "user_name": "nonesenze",
+            "text": "Einfalt. Þegar þú installar custom rom segir síminn þinn this will void the warranty. Do you want to continue. Og þú segir já. S.s. Ábyrgðin er farin og þú samþykkir það. Ekkert sem einhver lög eða reglur geta lagað",
+            "date": "2017-07-11 22:23:00",
+            "post_id": "652985",
+            "reply_to_id": "652972"
+        },
+        {
+            "user_name": "hfwf",
+            "text": "Ætlaði að skrifa langan og stóran póst um root -efuse og knox, en það er svo mikið rugl það og ábyrgðar mál að ég nenni því ekki en það er líklega ódýrara fyrir þig að ef þú nennir að standa í því að finna nýtt mbo þar sem efuseið er untouched og skipta um.",
+            "date": "2017-07-11 22:41:00",
+            "post_id": "652986",
+            "reply_to_id": "652985"
+        },
+        {
+            "user_name": "Minuz1",
+            "text": "EULA og ábyrgðarskilmálar framleiðenda/seljanda hefur nákvæmlega ekkert vægi hér.\nÞað er þeirra að sanna að þú hafir skemmt símann með því að roota hann.\nhttp://matija.suklje.name/rooting-and-f ... anty-in-eu",
+            "date": "2017-07-12 05:19:00",
+            "post_id": "652994",
+            "reply_to_id": "652986"
+        },
+        {
+            "user_name": "gusti123",
+            "text": "Ég held þú sért aðeins að misskilja, ef ég myndi búa til og selja þér síma í Evrópu með þeim skilmálum að þú installir ekki t.d. Facebook, svo installar þú Facebook, þá samkvæmt skilmálunum mínum get ég fyrrt mig allri ábyrgð, en samkvæmt neytendalögum verð ég að ábyrgjast símann í 2 ár, og sína fram á að bilanir stafi af þínum völdum, ekki öfugt.\nJá þetta er farið að vera svolítill farsi. Gott að vita að fleirum finnst þetta.\nÞetta er einmitt ein af færslunum sem ég hef verið að styðjast við, og ég er búinn að staðfesta að tilskipunin sem verið er að vitna í þessu sé komin í gildi hérna líka. (Sbr. \nhttp://www.althingi.is/lagas/138b/2003048.html\n \nEn ég er ekki lögfræðingur og á erfitt með að heimfæra það sem sagt er í færslunni yfir á okkar lög.",
+            "date": "2017-07-12 08:50:00",
+            "post_id": "652996",
+            "reply_to_id": "652994"
+        },
+        {
+            "user_name": "Frussi",
+            "text": "Varðandi ábyrgð og samninga, maður getur ekki samið af sér lögbundin réttindi. Ég myndi skilja sem svo að þó að hugbúnaður segi \"ef þú heldur áfram þá fellur ábyrgðin úr gildi\" þá er það ekki næg ástæða ein og sér til að ábyrgðin hætti að gilda. Þ.a. ábyrgðin ætti að halda þar til umboðsaðili sannar að aðgerðin hafi skemmt eitthvað. \nVeit einhver hvernig það er hérna á éyjunni með ábyrgðarmál og hugbúnað? Er ábyrgðin ekki á vélbúnaðinum? Er hugbúnaður eitthvað tengdur þeirri ábyrgð? Mér finnst oft eins og lögin séu svo úrelt, sérstaklega hvað varðar stafræn gögn, sbr vaskinn sem var að koma á kaup hjá steam (eða er ég bara að bulla?). Mér finnst fullkomlega eðlilegt að slík gjöld séu tekin af stafrænni sölu á netinu en lögin eru oft svo eftirá.",
+            "date": "2017-07-12 09:46:00",
+            "post_id": "652999",
+            "reply_to_id": "652996"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Það er þeirra að sanna að þetta hafi skemmt símann. \nEins og Frussi segir þá er ekki hægt að semja af sér tveggja ára lögbundnu ábyrgðina.\nÞað sama á við um bíla, það er ekki hægt að hanka þig á því að nota ekki original íhluti þegar eitthvað annað bilar. Það verður að vera sannað að það hafi valdið biluninni.",
+            "date": "2017-07-12 10:04:00",
+            "post_id": "653000",
+            "reply_to_id": "652999"
+        }
+    ],
+    "date": "2017-07-11 15:30:00"
+}

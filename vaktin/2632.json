@@ -1,0 +1,156 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "2632",
+    "title": "Öryggi á þráðlausu neti",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=2632",
+    "posts": [
+        {
+            "user_name": "gumol",
+            "text": "Mér datt í hug, þar sem nokkrir hérna eru að fara að kaupa sér þráðlausa aðgangspunkta, að skrifa smá leiðbeiningar um hvað sé hægt að gera til að auka öryggið. (ég segi hvernig á að still netið á Linksys aðgangspunkti en þú getur vonandi nýtt þér þetta þótt þú sért með aðra tegund). Þetta er þó langt frá því að gera netið þitt öruggt, þetta eikur hinsvegar líkurnar á að “hackerinn” velji frekar húsið við hliðina þar sem ekkert svona er í gangi \n\n\n\n\n\n\n1. Lokið á allar MAC addressur nema ykkar eigin, þannig getur hindraða að aðrir en þú komist á netið.\n\n\nÖll netkort hafa sinn eigin MAC (Media Access Control) kóða. Þú getur lokað á allar MAC addressur nema þína eigin í öllum betri aðgangspunktum.\n\n\n\n1.1 Mac addressan fundin:\n\n\nEf þú ert með PCMCIA kort þá stendur númerið aftaná. Ef ekki skaltu\n\n(í Windows XP)  fara í “Start”>”Control Panel”>”Network Connections”>tvíklikkaðu á þráðlausa netkortið þitt>”Support” flipann og ýttu á “Details”. Þarna sérðu MAC addressuna á kortinu (undir Physical Address). Skrifaðu hana niður. (mynd 1)\n\n1.2 Lokað fyrir allar MAC addressur nema þínar:\n\n\nÞetta getur verið svolítið mismunandi eftir tegundum en á Linksys er þetta gert svona.\n\nOpnaðu Internet Explorer og farðu inn á aðgangspunktinn (\nhttp://IPtala\n). Farðu í “Advanced” efst hægramegin. Í “Filtered MAC Address” veluru “enabled” og “Only allow PCs with MAC listed below to access device”. Síðan skrifaru MAC addressuna þína inn og ýtir á apply (mynd 2). Þá er þetta komið. \n\n\n\n\n\n\n2. Samskipti milli aðgangspunktsins og tölvunnar dulkóðuð með WEP (Wired Equivalent Privacy) lyklum.\n\n\nÞótt þú sért búinn að loka fyrir MAC addressurnar er ennþá hægt að skoða það sem þú ert að gera og jafnvel nota MAC addressuna þína til að tengast aðgangspunktinum. WEP stillingar geta verið mjög mismunandi eftir bæði tegundum á aðgangspunktum og framleiðanda tölvunnar þinnar. Hérna segi ég hvernig þetta er gert með Linksys aðgangspunkt og innbyggða Windows Wireless tólinu\n\n\n\n2.1 WEB kóðinn búinn til\n\n\n Opnaðu Internet Explorer og farðu inn á aðgangspunktinn (\nhttp://IPtala\n). Í “Wireless” velurðu “Mandatory” og ítir á“WEP key settings”\n\nÞá opnast gluggi þar sem þú stillir allt eins og á mynd 3 (nema þú setur nátturlega inn eitthvað bull í “Passphrase”) og ýtir á generate. Skrifaðu kóðan niður, Íttu svo á apply og logaðu glugganum. Íttu svo aftur á apply og lokaðu Internet Explorer.\n\n2.2 WEB kóðinn settur inn í Windows.\n\n\nÍ Windows XP ferðu í í “Start”>”Control Panel”>”Network Connections”>hægriklikkaðu á þráðlausa netkortið þitt og veldu “Properties”>Wireless Network flipann>Netið þitt>Configure. (Mynd 4)\n\nÍ “Data encryption” veluru “WEP” og taktu hakið úr “The key is provided for me automatically”. Skrifaðu svo wep kóðan í “Network key:” og “Confirm network key:” og ýttu á ok og ok\n\n\n\nOg þar með er þráðlausa netið þitt orðið aðeins öruggara.",
+            "date": "2004-01-04 03:47:00",
+            "post_id": "26206",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Zaphod",
+            "text": "flottur gumol",
+            "date": "2004-01-04 04:13:00",
+            "post_id": "26214",
+            "reply_to_id": "26206"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Flott",
+            "date": "2004-01-04 12:30:00",
+            "post_id": "26225",
+            "reply_to_id": "26214"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Hmm er ekki bara nóg að setja gott password á",
+            "date": "2004-01-04 13:15:00",
+            "post_id": "26229",
+            "reply_to_id": "26225"
+        },
+        {
+            "user_name": "tms",
+            "text": "Mig minnir að það sé nokkuð létt að spoofa MAC adressuna á *n*x vélum, þannig að þetta er kannski ekkert svo ofboðslega secure ef maður vissi MAC adressuna á netkorti sem er 'allowed' í routernum.\n\nOg svo er þetta bizarre skin! oj gumol þú ert eitthvað kinky",
+            "date": "2004-01-04 13:59:00",
+            "post_id": "26234",
+            "reply_to_id": "26229"
+        },
+        {
+            "user_name": "Cras Override",
+            "text": "snipugt gott að vita.",
+            "date": "2004-01-04 14:26:00",
+            "post_id": "26238",
+            "reply_to_id": "26234"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "Það er náttúrlega líka hægt að sitja fyrir framan gluggann hjá þér og brjóta 128bita wep lykillinn. \n\n\n\ngumol: Flottur!",
+            "date": "2004-01-04 14:35:00",
+            "post_id": "26241",
+            "reply_to_id": "26238"
+        },
+        {
+            "user_name": "Mal3",
+            "text": "Takk fyrir nýliði hjálpina. Ég var einmitt að fá mér Planet ADW-4100 ADSL WiFi router og er að berjast við að láta lappann tengjast þegar ég er með bæði MAC Address Filtering og WEP í gangi. Með eingöngu MAC (bridged filtering) er allt í gúddí, en með WEP er eins og ég sé tengdur (signal strength good) nema ég kemst ekki á vefinn.\n\n\n\nÉg er búinn að slá inn WEP kóðann á lappann, af hverju er ég að missa?",
+            "date": "2004-01-25 21:04:00",
+            "post_id": "29412",
+            "reply_to_id": "26241"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Vildi bara benda á þessa villu",
+            "date": "2004-01-25 21:40:00",
+            "post_id": "29417",
+            "reply_to_id": "29412"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Takk fyrir það.\n\n\n\nÆtla að bíða með afganginn þartil SP2 kemur.",
+            "date": "2004-01-25 23:04:00",
+            "post_id": "29435",
+            "reply_to_id": "29417"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Hmm, Prófin byrjuð og maður verður nátturlega hyper actívur að hugsa um eitthvað allt annað en lærdóminn eins og venjulega. \n\n\n\n\nSetti inn hvenig á að setja WEP dulkóðun á, fullt af stafsetningarvillum eins og flest annað sem kemur frá mér",
+            "date": "2004-05-04 17:17:00",
+            "post_id": "40566",
+            "reply_to_id": "29435"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "og fyrir þá sem vilja læra allt um wep lykla \"the fun way\" ná sér í þátt eitt af \nhttp://thebroken.org/\n\n\n\n\n....og lesa síðan guideinn hans gumols",
+            "date": "2004-05-04 18:55:00",
+            "post_id": "40581",
+            "reply_to_id": "40566"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "Voffi: Spegla þessu",
+            "date": "2004-05-04 20:28:00",
+            "post_id": "40602",
+            "reply_to_id": "40581"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Nettir þættir, á þá \"alla\" \n Veistu um einhverja svipaða síðu(ekki endilega videozine) þar sem að er kannski farið meira in-depth í tæknina.\n\nÁ líka nokkur \"dark tip\" úr The Screen Savers á TechTV með Kevin Rose, flottir þættir það.\n\n\n\nVildi ekki hi-jacka þræðinu, tjekk \nthis",
+            "date": "2004-05-04 20:39:00",
+            "post_id": "40608",
+            "reply_to_id": "40602"
+        },
+        {
+            "user_name": "Rednex",
+            "text": "Þetta er samt betra en ekkert og það tekur slatta tíma að crakka wep keyinn, en það er hægt",
+            "date": "2004-05-04 21:17:00",
+            "post_id": "40620",
+            "reply_to_id": "40608"
+        },
+        {
+            "user_name": "natti",
+            "text": "Nema náttúrulega fyrir þá sem sjá að það er enginn voðalegur gróði í 128bita key nema þeir vilji hægara net, og nota því 64bit.\n\n\nTímann sem það tekur að finna wep key (128 bit eða 64, doesn't quite matter) fer algjörlega eftir því hversu mikið þráðlausa netið er notað.\n\nT.d. ef einhver er að browsa mikið / ftpa gögn þá ættiru að vera snöggur að komast að wep key hjá viðkomandi.\n\n\n\n\n\nÉg benti á þetta í annarri grein hérna, sem að gnarr svaraði mér svo með því að segja: \n\n\"við erum að tala um að þú ert umþaðbil 18.446.744.073.709.551.616 lengur (þette er ekki bull tala) að cracka 128bit en 64bit með brute force.\"\n\n\n\nÉg svaraði því aldrei, en best að gera það þá bara nú.\n\nÞað er enginn að tala um að nota brute force, WEP er með stóran galla þannig að 64 eða 128... tekur stuttan tíma, fer allt eftir notkuninni á þráðlausa netinu. (Því meiri notkun, því styttri tími).\n\n\n\n\n\nÉg persónulega lít á þetta sem svona child protection, fæstir sem nenna að pæla í að vera að brjótast inn einhvernstaðar.\n\nEf einhver truly vill komast inn, þá kemst hann inn, one way or another.",
+            "date": "2004-05-05 14:01:00",
+            "post_id": "40681",
+            "reply_to_id": "40620"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "amm, Kevin kallaði þetta \"intresting packets\", til í að fræða okkur meira um þetta?\n\nOg annað, hvar sækirru alla þína þekkingu, ertu með einhverjar net-certificates?",
+            "date": "2004-05-05 16:47:00",
+            "post_id": "40719",
+            "reply_to_id": "40681"
+        },
+        {
+            "user_name": "Hlynzi",
+            "text": "góður..\n\n\n\n\n\nÞað er svo mikið af opnum púnktum hér í bænum, allir kúl með þráðlaust net. Nágranninn hjá mér er með þannig, best að reyna að komast inná það og gera svo net send með viðvörun um að þetta sé allt ólæst.",
+            "date": "2004-05-06 14:37:00",
+            "post_id": "40901",
+            "reply_to_id": "40719"
+        },
+        {
+            "user_name": "Axel",
+            "text": "Held að þetta sé allt ólæst hjá nágranna mínum",
+            "date": "2004-05-08 15:01:00",
+            "post_id": "41210",
+            "reply_to_id": "40901"
+        },
+        {
+            "user_name": "KinD^",
+            "text": "þetta sem netti er að segja er allt sem er hægt að lesa sig til um á netinu ef maður nennir að nota google \n og svo kannaðist ég mikið við það sem hann sagði úr þættinum the broken.org \n sem er btw 3 þættir sem ég erm með linka á innanlands dlodad herna á vaktinni einhverstaðara",
+            "date": "2004-05-08 15:29:00",
+            "post_id": "41214",
+            "reply_to_id": "41210"
+        },
+        {
+            "user_name": "natti",
+            "text": "Vinn við netkerfi & er reyndar með einhver cisco próf, en próf eru bara próf, reynslan skilar meiru \n\n\nA) natti, ekki netti (smámunasemi \n)\n\nB) Bara að endurtaka línuna, einsog tölvunördar segja \"google is your friend.\"\n\nErt tiltölulega fljótur að finna þér eitthvað lestrarefni þannig.",
+            "date": "2004-05-10 21:26:00",
+            "post_id": "41616",
+            "reply_to_id": "41214"
+        }
+    ],
+    "date": "2004-01-04 03:47:00"
+}

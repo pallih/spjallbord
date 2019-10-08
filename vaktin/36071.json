@@ -1,0 +1,121 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "36071",
+    "title": "Debian 6 er komið út",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=36071",
+    "posts": [
+        {
+            "user_name": "dodzy",
+            "text": "http://www.debian.org/releases/stable/\nþað er nú ekki á hverjum degi sem að kemur út ný útgáfa af debian  \n \ner að renna yfir release notes...",
+            "date": "2011-02-08 11:21:00",
+            "post_id": "320142",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "coldcut",
+            "text": "Spennandi...maður þarf að henda þessu í Virtual Box og prófa þetta.\nErtu ekki annars til í að  gera \"howto install\" þráð?",
+            "date": "2011-02-08 12:49:00",
+            "post_id": "320157",
+            "reply_to_id": "320142"
+        },
+        {
+            "user_name": "dodzy",
+            "text": "jah, ég nota sjálfur ubuntu... þannig ég get varla gert \"howto install\" þráð.\nfannst bara frekar lélegt að enginn var búinn að minnast á þetta á spjallinu.\nannars á uppsetningin á linux kerfi í dag að vera lítið mál.",
+            "date": "2011-02-08 17:25:00",
+            "post_id": "320247",
+            "reply_to_id": "320157"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Það er ómögulegt að gera slíkan þráð, þar sem það er ekkert algilt að ég vilji hafa eins debian uppsetningu og þú... Menn verða bara að fara í gegnum skrefin og velja það sem þeir vilja hafa uppsett.",
+            "date": "2011-02-08 17:43:00",
+            "post_id": "320257",
+            "reply_to_id": "320247"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "@gardar: Ég var nú ekki að biðja hann um að gera install þráð fyrir mig, bara að stinga upp á að hann tæki screenshot meðan hann installaði og skrifaði smá undir myndirnar. Þegar Linux-hræddir menn sjá hversu auðvelt þetta er, þá eru kannski meiri möguleikar að þeir prófi kerfið \n Ekkert að því að sýna hvernig uppsetningu þú vilt hafa, menn geta svo bara fiktað sig áfram sjálfir.\n@dodzy: En annars er það alveg rétt að þessir graphical installer-ar eru orðnir mjög straight forward. Gerði mér best grein fyrir því þegar ég gerði install greinina um Ubuntu en þegar ég var búinn að skrifa hana sá ég að vanviti hefði getað gert þetta blindandi!",
+            "date": "2011-02-08 19:56:00",
+            "post_id": "320340",
+            "reply_to_id": "320257"
+        },
+        {
+            "user_name": "deft0nes",
+            "text": "Er ad keyra a thvi nuna. Thetta er frekar sexy!\nThad tharf ekkert how to til ad installa thessu...",
+            "date": "2011-02-22 21:12:00",
+            "post_id": "325146",
+            "reply_to_id": "320340"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Þörf kannski á hvernig á að virkja íslenska stafi?",
+            "date": "2011-02-22 21:14:00",
+            "post_id": "325148",
+            "reply_to_id": "325146"
+        },
+        {
+            "user_name": "deft0nes",
+            "text": "Hitt er miklu þæginlegra..",
+            "date": "2011-02-22 21:18:00",
+            "post_id": "325151",
+            "reply_to_id": "325148"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Búinn að uppfæra 3 vélar hjá mér yfir í debian6.... Er þokkalega sáttur með flest, og ekki lent í neinum stórvægilegum vandamálum......\n.......Fyrir utan helv*** grub2! Afhverju í fjandanum ákváðu þeir að droppa gamla góða grub fyrir þetta rusl",
+            "date": "2011-02-22 21:22:00",
+            "post_id": "325154",
+            "reply_to_id": "325151"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Já, en hér á vaktinni notum við íslenska stafi",
+            "date": "2011-02-22 21:24:00",
+            "post_id": "325155",
+            "reply_to_id": "325154"
+        },
+        {
+            "user_name": "MarsVolta",
+            "text": "Smá svona pæling hérna, ég ætlaði að prófa að henda Debian 6 uppá VirtualBox hjá mér, ég fór inná \nhttp://www.debian.org/\n og ég skil ekki upp né niður hverju ég á að download-a, smá hjálp einhver \n?, senda mér link á það sem ég á að downloada?, tölvan mín er hérna í undirskriftinni hjá mér ef þið þurfið að vita eitthvað um hana \n.",
+            "date": "2011-02-23 21:37:00",
+            "post_id": "325521",
+            "reply_to_id": "325155"
+        },
+        {
+            "user_name": "dori",
+            "text": "http://www.debian.org/distrib/netinst\nVelja amd64 í smallCD eða smallerCD",
+            "date": "2011-02-23 21:41:00",
+            "post_id": "325523",
+            "reply_to_id": "325521"
+        },
+        {
+            "user_name": "MarsVolta",
+            "text": "Þakka þér fyrir",
+            "date": "2011-02-24 00:30:00",
+            "post_id": "325603",
+            "reply_to_id": "325523"
+        },
+        {
+            "user_name": "viddi",
+            "text": "Gæti ekki verið meira sammála þér þarna, ég er svo að hata þennan nýja grub hinn var mikið einfaldari og þæginlegri",
+            "date": "2011-02-24 11:10:00",
+            "post_id": "325642",
+            "reply_to_id": "325603"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Hverjum datt í hug að það væri þægilegt að fara úr einum frekar góðum config fæl, yfir í marga tugi af config fælum",
+            "date": "2011-02-24 12:05:00",
+            "post_id": "325649",
+            "reply_to_id": "325642"
+        },
+        {
+            "user_name": "dori",
+            "text": "Forritarar elska að gera hluti abstract, þeir eru ekkert að pæla í því hversu þæginlegt það er fyrir þá sem svo virkilega nota þetta",
+            "date": "2011-02-24 13:08:00",
+            "post_id": "325659",
+            "reply_to_id": "325649"
+        }
+    ],
+    "date": "2011-02-08 11:21:00"
+}

@@ -1,0 +1,86 @@
+{
+    "forum_title": "Símar, fartölvur, myndavélar og önnur farandstæki",
+    "id": "66690",
+    "title": "Skjákort á fartölvu fer aldrei í 100% load",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=26&t=66690",
+    "posts": [
+        {
+            "user_name": "Xovius",
+            "text": "Sælir.\nEr með um ársgamla fartölvu sem var skólatölvan mín en nú er ég ekki með turn lengur svo ég ætlaði að reyna að runna einhverja leiki á henni líka og hún stendur sig alveg hryllilega í því. Hún er með R9 M265X sem ætti að vera ágætt mid range skjákort (held ég, ekki fartölvusérfræðingur) en ég næ varla yfir 15fps í nokkuð léttum leikjum eins og til dæmis CounterStrike:GlobalOffensive. \nÉg er búinn að stilla switchable graphics þannig að tölvan er pottþétt að nota skjákortið en ekki örgjörvann. \nÉg náði í GPUz til að vera alveg viss og hún er greinilega að nota skjákortið en GPU Load fer samt ekki upp í nema einhver 30%. Er þetta eðlilegt eða er eitthvað sem ég get gert í þessu?\nÖll hjálp vel þegin. Er langt frá því að vera sérfræðingur svo það gæti vel verið eitthvað ótrúlega einfalt sem ég hef ekki fattað.\nNotebook: Toshiba Satellite P50-B-103 (Satellite P50 Series)\nProcessor: Intel Core i7 4700HQ\nGraphics Adapter: AMD Radeon R9 M265X\nHérna eru svo full specs fyrir tölvuna\nhttp://www.notebookcheck.net/Toshiba-Sa ... 365.0.html",
+            "date": "2015-08-25 23:32:00",
+            "post_id": "605067",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Swanmark",
+            "text": "Hvernig er hitastigið? Ef að hún er í 80+ ætti skjákortið að vera að throttle'a. En þetta ætti ekki að gerast ... ?",
+            "date": "2015-08-26 09:00:00",
+            "post_id": "605075",
+            "reply_to_id": "605067"
+        },
+        {
+            "user_name": "Xovius",
+            "text": "Bjó til smá GPU-Z Log file. Byrjar semsagt í idle með skjákortið við einhverjar 50°C og svo starta ég CS:GO og spila í smá stund og loka honum svo aftur. \nSkjákortið fer aldrei yfir 650MHz core clock en heldur sig þar á meðan ég er í leiknum. Þegar ég byrjaði var framerateið fínt. Náði alveg stable 60fps en eftir einhverjar 2 mínútur fór það að versna og var fljótlega orðið óspilanlegt. GPU Load virðist lækka þegar skjákortið hitnar. \nhttps://www.dropbox.com/s/yw01kkh363jf8 ... y.txt?dl=0\nEr einhver önnur lausn á þessu en að skella kælipad undir hana og haldiði að það myndi duga?",
+            "date": "2015-08-26 23:29:00",
+            "post_id": "605150",
+            "reply_to_id": "605075"
+        },
+        {
+            "user_name": "brain",
+            "text": "Er ekki skjákorts Mhz bara læst til að minnka hita ?",
+            "date": "2015-08-27 08:26:00",
+            "post_id": "605164",
+            "reply_to_id": "605150"
+        },
+        {
+            "user_name": "Haflidi85",
+            "text": "Veit þetta getur hljómað heimskulega, en ertu ekki örugglega með power stillingarnar á fartölvunni í performance en ekki einhverjar power safe stillingar. \nHefurðu prófað  vélina í benchmörkum þ.e. hvort hitastigið hækki þar og hún nái að skora hátt þar eða hvort það er það sama. \nÞá væri gott að vita hvort vélin er í dokku eða tengd við aðra skjái eða hvernig það er.",
+            "date": "2015-08-27 12:11:00",
+            "post_id": "605173",
+            "reply_to_id": "605164"
+        },
+        {
+            "user_name": "Xovius",
+            "text": "Hún er pottþétt á performance.\nPrófa að taka einhver benchmarks þegar ég er búinn í vinnunni í kvöld. Vélin er tengd við 1 auka skjá, engin dokka.",
+            "date": "2015-08-27 14:25:00",
+            "post_id": "605184",
+            "reply_to_id": "605173"
+        },
+        {
+            "user_name": "Mossi",
+            "text": "Kannski silly spurning en: Ertu med hana opna?\nEg hef lent í þvì að lappar throttli skjàkortin ef þù ert með tölvuna lokaða à meðan þù ert ì henni, by design.\nLoftflæðis kælives.",
+            "date": "2015-08-30 13:49:00",
+            "post_id": "605393",
+            "reply_to_id": "605184"
+        },
+        {
+            "user_name": "Xovius",
+            "text": "Neibb, hún er opin",
+            "date": "2015-08-30 20:36:00",
+            "post_id": "605412",
+            "reply_to_id": "605393"
+        },
+        {
+            "user_name": "fannar82",
+            "text": "ef þú ert aðalega að prufa cs:go þá er hann mest að taka á örranum hjá þér =) skjákortið fær lítið að gera þar.\neftir að hafa lesið þetta aftur ætti tölvan að ráða við þetta léttilega ertu búinn að setja inn viðeigandi startup línu inn hjá þér td.\n -novid -tickrate 128 -threads 4 +cl_forcepreload 1 +rate 1280000 -freq 144 (threads og freq fara eftir örgjörva og skjá)",
+            "date": "2015-08-30 23:02:00",
+            "post_id": "605421",
+            "reply_to_id": "605412"
+        },
+        {
+            "user_name": "Xovius",
+            "text": "Er ekki búinn að því. Threads væru þá 8 fyrir þennan 4 kjarna hyperthreaded örgjörva og freq væri 60 fyrir 60hz skjá?\nEDIT:\nPrófaði þetta -novid -tickrate 128 -threads 8 +cl_forcepreload 1 +rate 1280000 -freq 60 \nog þetta var ennþá alveg jafn slæmt\nEDIT 2:\nOpnaði hana og skipti um TIM á kælingunni og nú er ég að ná vel yfir 100fps. Skjákortið er enn í 90° en það er farið að reyna meira á sig. Bætti líka við 4GB ram kubb sem ég átti, veit ekki hvort það skipti máli en þetta virðist allt virka núna.",
+            "date": "2015-08-30 23:22:00",
+            "post_id": "605422",
+            "reply_to_id": "605421"
+        },
+        {
+            "user_name": "Bioeight",
+            "text": "Hvaða drivera ertu að nota? \nPrófa annaðhvort drivera frá amd.com eða af Toshiba síðunni, eftir því hvort þú átt eftir að prófa.\nSvo er til 3rd party driver: \nhttp://www.tweakforce.com/index.php\n - Xtreme-G 15.7 WIN7-8 x64\nEdit. Edit: Efast um að það geri eitthvað ef þetta er svo bara hitavandamál.",
+            "date": "2015-08-31 01:56:00",
+            "post_id": "605439",
+            "reply_to_id": "605422"
+        }
+    ],
+    "date": "2015-08-25 23:32:00"
+}

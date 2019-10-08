@@ -1,0 +1,86 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "12036",
+    "title": "Er í lagi að vera með blönduð vinnsluminni?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=12036",
+    "posts": [
+        {
+            "user_name": "orgulas",
+            "text": "Er í lagi að vera með t.d. 1 GB PC2700 333MHz og svo annað 512 MB DDR2 800MHz PC2-6200 (þá auðvitað miðað við að móðurborðið styður svona stórt vinnsluminni) ?\n\n\n\nEða verður allt vinnsluminni í tölvu að vera sömu tegundar?\n\n\n\nTakk fyrir.",
+            "date": "2006-10-16 17:38:00",
+            "post_id": "129455",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gnarr",
+            "text": "Þú getur ekki blandað saman minsmunandi stöðlum, eins og SDR, DDR og DDR2. \n\n\n\nHinsvegar geturu blandað saman flestum tegundum innan hvers staðals. eins og DDR-266 og DDR-400 eða DDR2-533 og DDR2-800. Reglan er sú að þá keyrir allt á hraða hægasta módjúlsins.",
+            "date": "2006-10-16 18:01:00",
+            "post_id": "129462",
+            "reply_to_id": "129455"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Er DDR2 sökkulinn öðruvísi en DDR sökkullinn, bara forvitni  í mér hef oft spáð í þetta en ekki nennt að googla þetta",
+            "date": "2006-10-17 11:25:00",
+            "post_id": "129497",
+            "reply_to_id": "129462"
+        },
+        {
+            "user_name": "Fumbler",
+            "text": "DDR 184 pinnar vs DDR2 240 pinnar\n\n\n\n\n\nEins og þú sérð þá geturu ekki sett DDR í DDR2 rauf og öfugt, nema með hamri  \n\n\n\n\nFann þetta hér \nhttp://www.nix.ru/support/faq/show_arti ... number=571",
+            "date": "2006-10-17 12:17:00",
+            "post_id": "129498",
+            "reply_to_id": "129497"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Það var akkúrat þetta sem ég nennti ekki að gúggla",
+            "date": "2006-10-17 15:42:00",
+            "post_id": "129511",
+            "reply_to_id": "129498"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "og af því að ég nenni ekki að gúggla, eða að gera nýjan þráð...  \n\n\nHvernig er það, nú er ég með 4 raufar dual channel:\n\n\n\nRauf 1A\n\nRauf 2B\n\nRauf 3A\n\nRauf 4B\n\n\n\nEr með sitthvorn 256 PC3200 í Rauf 1 og 3, þeir keyra saman á Dual Channel\n\nGet ég ekki verið með 2 512 PC3200 í Rauf 2 og 4 að keyra saman þar eða verða allir 4 kubbarnir að vera jafn stórir?",
+            "date": "2006-12-02 12:52:00",
+            "post_id": "132234",
+            "reply_to_id": "129511"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "ég myndi nú halda að minnin ættu að vera í rauf 1 og 2 til að vera í dualchannel samkvæmt þessu. Semsagt á Channel A og Channel B.",
+            "date": "2006-12-02 14:34:00",
+            "post_id": "132243",
+            "reply_to_id": "132234"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Ég myndi halda að A og A ættu að vera saman og B og B, hjá mér er ég alla vega með minnin í rauf 2 og 4 sem eru í sama lit.",
+            "date": "2006-12-02 14:44:00",
+            "post_id": "132244",
+            "reply_to_id": "132243"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "Ef þú ert bara að nota rás A, þá ertu auðvitað bara að nota aðra rásina. Hin rásin er rás B. Þannig að til að nota Dual Channel, þá notaru bæði Rás A og B.",
+            "date": "2006-12-02 15:20:00",
+            "post_id": "132245",
+            "reply_to_id": "132244"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Á A og B að vera saman til að keyra í Dual Channel ekki A og A?",
+            "date": "2006-12-02 15:28:00",
+            "post_id": "132246",
+            "reply_to_id": "132245"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "A = Rás A\n\nB = Rás B\n\n\n\nÞað = Tvær rásir..\n\n\n\ntil að keyra tvær rásir í einu (Dual Channel) = Nota Rás A og Rás B á sama tíma.\n\n\n\n\n\nÞetta er nú ekkert gífurlega flókin stærðfræði.",
+            "date": "2006-12-02 15:35:00",
+            "post_id": "132248",
+            "reply_to_id": "132246"
+        }
+    ],
+    "date": "2006-10-16 17:38:00"
+}

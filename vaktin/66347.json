@@ -1,0 +1,65 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "66347",
+    "title": "kælikrems skipti... svartur skjár",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=66347",
+    "posts": [
+        {
+            "user_name": "benderinn333",
+            "text": "var að skipta um kælikrem fyrir litlafrænda minn.\nsvo þegar kortið var komið í startar tölvan og allt annað en það kemur ekkert signal á skjáinn hitt rönnar allt eins og það á að gera... er buinn að cleara cmos og það hjálpaði lítið... einhverjar tillögur?",
+            "date": "2015-07-27 22:48:00",
+            "post_id": "602862",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "double cheaka að allt sé i sambandi.\ntaka úr sambandi og setja aftur i samband",
+            "date": "2015-07-27 22:51:00",
+            "post_id": "602864",
+            "reply_to_id": "602862"
+        },
+        {
+            "user_name": "mind",
+            "text": "P4 tengið í móðurborðið myndi ég giska.\nAlgengt að ef móðurborðið skynjar sé ekki allt rétt við ræsingu, þá stöðvar það ræsinguna áður en það kveikjir á t.d. skjákorti.",
+            "date": "2015-07-27 22:58:00",
+            "post_id": "602866",
+            "reply_to_id": "602864"
+        },
+        {
+            "user_name": "benderinn333",
+            "text": "tékka það þegar ég kíki til hans á morgun... en svo kom upp það vandamál þegar ég tok skjákortið ut aftur og færði i annað pci slot... og startaði aftur þá gerðist ekkert, allt dautt???",
+            "date": "2015-07-27 23:49:00",
+            "post_id": "602869",
+            "reply_to_id": "602866"
+        },
+        {
+            "user_name": "benderinn333",
+            "text": "bump",
+            "date": "2015-07-28 18:37:00",
+            "post_id": "602904",
+            "reply_to_id": "602869"
+        },
+        {
+            "user_name": "Nacos",
+            "text": "Er On-board skjákort?\nVirkar það?\nEr þá stillt á rétt skjákort í BIOS?\nGætir þurft að stilla í BIOS að boota á PCI-E, PEG eða e-ð álíka.",
+            "date": "2015-07-28 18:50:00",
+            "post_id": "602906",
+            "reply_to_id": "602904"
+        },
+        {
+            "user_name": "benderinn333",
+            "text": "kemst ekki i bios... nei þetta er GTX470",
+            "date": "2015-07-28 22:00:00",
+            "post_id": "602917",
+            "reply_to_id": "602906"
+        },
+        {
+            "user_name": "mind",
+            "text": "Geri ráð fyrir að hafir átti við að það sé ekki innbyggt skjákort.\nEf svo, ef þú start vélinni án skjákorts pípar hún? Ef örgjörvaviftan snýst og ekkerr píp = líklega móðurborð (gefið að allt annað sé tengt)\nAnnars = líklega skjákort",
+            "date": "2015-07-28 23:37:00",
+            "post_id": "602926",
+            "reply_to_id": "602917"
+        }
+    ],
+    "date": "2015-07-27 22:48:00"
+}

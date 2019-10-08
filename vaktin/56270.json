@@ -1,0 +1,44 @@
+{
+    "forum_title": "Símar, fartölvur, myndavélar og önnur farandstæki",
+    "id": "56270",
+    "title": "Að root-a galaxy S3",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=26&t=56270",
+    "posts": [
+        {
+            "user_name": "demaNtur",
+            "text": "Mig langar aðeins að fikta í símanum, það má ekkert vera í lagi hjá manni \n \nGetur eitthver komið með upplýsingar um gott ROM til að flash-a símann?\nEr búinn að vera reyna að nota Odin3 v3.04 og CF-Root-SGS3-v6.0 enn ég fæ alltaf sama errorinn sem er orðið svolítið þreytandi.",
+            "date": "2013-07-26 05:14:00",
+            "post_id": "521540",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "nonesenze",
+            "text": "síminn er ekki tengdur rétt við tölvuna eða þú ert með kies í gangi, eða síminn ekki í download mode",
+            "date": "2013-07-26 13:05:00",
+            "post_id": "521576",
+            "reply_to_id": "521540"
+        },
+        {
+            "user_name": "demaNtur",
+            "text": "Samkvæmt leiðbeiningum þá þarf ég að hafa kies í gangi, síminn var rétt tengdur og í download mode.. \nSS. ég þarf að slökkva á Kies til að þetta virki?",
+            "date": "2013-07-26 13:21:00",
+            "post_id": "521583",
+            "reply_to_id": "521576"
+        },
+        {
+            "user_name": "gRIMwORLD",
+            "text": "Gætir þurft að breyta USB mode á símanum áður en þú tengir hann. Roootaði S3 síma um daginn en by god man ekki glóru í augnablikinu. Þetta þurfti ég að gera í símanum allavega, skrifa inn *#blablabla# og fékk þá upp spes menu á símann og breytti USB Mode, næst þegar ég tengdi símann við tölvuna kom hann upp sem öðruvísi USB device. \nEdit: man núna...þetta var ég að bakstra við til að aflæsa símanum. Hann var simlocked á ISP í öðru landi. Náði að redda því en þetta toolkit sem ég vísa í hér að neðan er svo algjör snilld.\nS3 Toolkit  \nhttp://forum.xda-developers.com/showthread.php?t=1703488\n\"Google is your pimp and forumposts are your mistresses\"",
+            "date": "2013-07-26 14:56:00",
+            "post_id": "521597",
+            "reply_to_id": "521583"
+        },
+        {
+            "user_name": "nonesenze",
+            "text": "þetta toolkit er alger snild, ég donataði á þennann gaur fyrir löngu síðan, ef þú ætlar að fikkta í símanum með rom og root of þess háttar þá gerir þetta lífið mjög létt",
+            "date": "2013-07-26 16:52:00",
+            "post_id": "521623",
+            "reply_to_id": "521597"
+        }
+    ],
+    "date": "2013-07-26 05:14:00"
+}

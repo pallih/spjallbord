@@ -1,0 +1,114 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "27450",
+    "title": "Hvernig formatta ég í gegnum BIOS?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=27450",
+    "posts": [
+        {
+            "user_name": "zlamm",
+            "text": "Hvernig formatta ég í gegnum BIOS?",
+            "date": "2010-01-10 15:02:00",
+            "post_id": "238509",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "lukkuláki",
+            "text": "Ekki hægt.\nSá einusinni BIOS sem bauð upp á það en það eru sennilega ein 7-8 ár síðan. Hef aldrei séð það aftur.\nSettu stýrikerfis CD eða DVD í drifið og bootaðu af honum ekkert mál að formata þannig.",
+            "date": "2010-01-10 15:14:00",
+            "post_id": "238515",
+            "reply_to_id": "238509"
+        },
+        {
+            "user_name": "zlamm",
+            "text": "Það er nebblinlega málið, ég get ekki bootað frá CD, ég fæ ekki einusinni valmöguleikann á því...",
+            "date": "2010-01-10 15:19:00",
+            "post_id": "238521",
+            "reply_to_id": "238515"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "buinn að stilla bootorder svo að cd-drive sé fyrst?",
+            "date": "2010-01-10 15:33:00",
+            "post_id": "238526",
+            "reply_to_id": "238521"
+        },
+        {
+            "user_name": "mercury",
+            "text": "haha stórefa það.",
+            "date": "2010-01-10 15:49:00",
+            "post_id": "238532",
+            "reply_to_id": "238526"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Það er oftast (nema þegar það er viljandi disabled í BIOS) key shortcut til að fá upp temp boot option (Líklegast e-rstaðar á milli F8 og F12). Hinsvegar er alltaf hægt að breyta default boot order í BIOS.",
+            "date": "2010-01-10 15:50:00",
+            "post_id": "238534",
+            "reply_to_id": "238532"
+        },
+        {
+            "user_name": "vesley",
+            "text": "breytir röðinni frá að BIOS lesi drifið fyrst en ekki harða diskinn .    \nog þá bootar hún disknum og ættir að geta formattað",
+            "date": "2010-01-10 16:01:00",
+            "post_id": "238536",
+            "reply_to_id": "238534"
+        },
+        {
+            "user_name": "zlamm",
+            "text": "Og hvernig geri ég það?",
+            "date": "2010-01-10 16:07:00",
+            "post_id": "238539",
+            "reply_to_id": "238536"
+        },
+        {
+            "user_name": "methylman",
+            "text": "Prufa F10 - F11 og F12  þetta eru lyklarnir efst á lyklaborðinu   :)",
+            "date": "2010-01-10 16:14:00",
+            "post_id": "238541",
+            "reply_to_id": "238539"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "JFGI.",
+            "date": "2010-01-10 16:19:00",
+            "post_id": "238542",
+            "reply_to_id": "238541"
+        },
+        {
+            "user_name": "Glazier",
+            "text": "Las ekki öll commentin en sá að hann sagðist vera búinn að stilla þannig tölvan lesi fyrst af CD drifinu og síðan harða disknum..\nÉg var að setja upp windows 7 á tölvu um daginn og ég fékk hana enganvegin til að boota af disknum sama hvað ég reyndi svo ég tók harða diskinn úr vélinni og setti í mína vél, fór svo inn í my computer og formattaði diskinn og síðan tengdi ég diskinn sem \"aðal\" diskinn í tölvunni og setti upp windows 7 á hann og fór síðan með hann í upprunalegu vélina og þá var það komið..\nÞannig ef þú hefur tök á því að skella disknum í aðra vél þá er þetta mjög einföld leið",
+            "date": "2010-01-10 16:54:00",
+            "post_id": "238550",
+            "reply_to_id": "238542"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "1. Farðu í biosinn, F2, Del, F12 við boot, musmunandi eftir móðurboði. \n2. Settu CD-ROM sem fyrsta boot priority!\n3. Enableaðu lyklaborðið /f bios. Heitir mismunandi eftir bios en ef þú sérð eithverjar stillingar sem heita \"keyboard\" settu þá á \"enable/active/on\".\n4. Restart.",
+            "date": "2010-01-10 16:58:00",
+            "post_id": "238551",
+            "reply_to_id": "238550"
+        },
+        {
+            "user_name": "zlamm",
+            "text": "Nei! ég er að reyna að fatta hvernig ég á að gera það!",
+            "date": "2010-01-11 16:07:00",
+            "post_id": "238720",
+            "reply_to_id": "238551"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Allar þær upplýsingar sem eru komnar fram í þræðinum eru meira en nægar leiðbeiningar. Lestu þær og fylgdu þeim.",
+            "date": "2010-01-11 16:12:00",
+            "post_id": "238722",
+            "reply_to_id": "238720"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "Eitt sem kannski vantar í þessari hjálp ykkar er að Boot Order er væntanlega undir \"Advanced BIOS features\" eða \"CMOS feature\" þegar þú ert kominn í BIOSinn",
+            "date": "2010-01-11 16:15:00",
+            "post_id": "238725",
+            "reply_to_id": "238722"
+        }
+    ],
+    "date": "2010-01-10 15:02:00"
+}

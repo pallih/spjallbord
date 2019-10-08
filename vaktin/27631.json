@@ -1,0 +1,72 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "27631",
+    "title": "Memtest86 af USB lykli.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=27631",
+    "posts": [
+        {
+            "user_name": "Daz",
+            "text": "Ég hef minnið mitt grunað um að vera gallað svo mig langar að keyra memtest á það. Ég tími samt ekki alveg heilum DVD disk undir það og er ekki með floppy drif, svo að ræsta þetta af USB lykli hljómar eins og besta lausnin. Allt það sem ég hef fundið á google virkar bara ekki  og ég er ekkert sérstaklega spenntur fyrir að skrifa linux live CD til að prófa frekar. Ég setti Win 7 upp af usb svo ég veit að vélin getur ræst sig af usb, ég er bara að vesenast með að koma ISO-inu yfir á usb lykilinn.\nEinhver sem hefur gert þetta og tekist?",
+            "date": "2010-01-17 10:55:00",
+            "post_id": "240039",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "qwertyman",
+            "text": "Þú gætir líka sett Linux upp á minnislykil og keyrt memtest af því - \nhttp://www.pendrivelinux.com",
+            "date": "2010-01-17 11:00:00",
+            "post_id": "240040",
+            "reply_to_id": "240039"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ég er með nokkra USB bootable með allskonar tólum niðrí vinnu, minnir að þessi síða hafi verið með flest svörin handa mér :\nhttp://www.bootdisk.com/pendrive.htm",
+            "date": "2010-01-17 11:02:00",
+            "post_id": "240042",
+            "reply_to_id": "240040"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Annaðhvort þarf ég diskadrif, eða borga. Hinkrum aðeins með það.\nAnnars reyndi ég \nhttp://www.pendrivelinux.com/boot-iso-f ... ash-drive/\n , en fæ upp villu þegar ég ræsi af lyklinum \"could not find kernel image: linux\". Ef ég googla þá villu fæ ég alveg nóg af hjálp, en ekkert af því sem ég skoðaði hjálplegt.",
+            "date": "2010-01-17 11:17:00",
+            "post_id": "240043",
+            "reply_to_id": "240042"
+        },
+        {
+            "user_name": "viddi",
+            "text": "Getur prófað \nUnetbootin\n, getur annaðhvort bara valið eitthvað linux kerfi og forritið nær í það fyrir þig eða valið iso skrá sem þú ert með.",
+            "date": "2010-01-17 11:30:00",
+            "post_id": "240046",
+            "reply_to_id": "240043"
+        },
+        {
+            "user_name": "gardar",
+            "text": "unetbootin fær mitt vote. Virkar alveg virkilega vel!",
+            "date": "2010-01-17 11:35:00",
+            "post_id": "240047",
+            "reply_to_id": "240046"
+        },
+        {
+            "user_name": "Some0ne",
+            "text": "Á einni útgáfu af XP sem er á flakki um netið, TinyXP Christmas edition þá er á þeim disk þegar að þú velur boot from CD, valmöguleikinn á að keyra memtest86, eða SpinRite til að skoða harða diskinn, auk þess valmöguleikinn að installa því. Getur fundið þetta á tpb.",
+            "date": "2010-01-17 11:49:00",
+            "post_id": "240051",
+            "reply_to_id": "240047"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Ég fæ alltaf þessa sömu villu ( \"could not find kernel image: linux\") , alveg sama hvaða .iso ég vel af t.d. \nhttp://www.memtest.org/#downiso\n eða \nhttp://www.memtest86.com/download.html\n .",
+            "date": "2010-01-17 12:15:00",
+            "post_id": "240060",
+            "reply_to_id": "240051"
+        },
+        {
+            "user_name": "viddi",
+            "text": "Veldu þá bara eitthvað linux kerfi af listanum í unetbootin og keyrðu memtest þannig",
+            "date": "2010-01-17 12:22:00",
+            "post_id": "240061",
+            "reply_to_id": "240060"
+        }
+    ],
+    "date": "2010-01-17 10:55:00"
+}

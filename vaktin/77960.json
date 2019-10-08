@@ -1,0 +1,86 @@
+{
+    "forum_title": "Leikjasalurinn",
+    "id": "77960",
+    "title": "Ddos?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=14&t=77960",
+    "posts": [
+        {
+            "user_name": "Talva2018",
+            "text": "Er í csgo með klikkaðan búnað og allt í gengur svaka vel.\nEnn... \nEr að upplifa Ddos núna \nEr hægt að verja sig við Ddos frítt?",
+            "date": "2018-12-08 20:12:00",
+            "post_id": "681812",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "worghal",
+            "text": "hvernig stendur á því að það er stannslaust vesen hjá þér?\nmig er farið að gruna vandamál milli lyklaborðs og stóls",
+            "date": "2018-12-09 02:21:00",
+            "post_id": "681831",
+            "reply_to_id": "681812"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "",
+            "date": "2018-12-09 09:55:00",
+            "post_id": "681834",
+            "reply_to_id": "681831"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Ertu ekki að meina að tölvan þín er hæg (netsambandið)?  Eða Ertu að hýsa CSGO server sjálfur og villt DDOS verja serverinn.\nSjálfur er ég með Domain sem ég stýri í gegnum Cloudflare fríu áskriftina sem þeir bjóða uppá og er að stýra inná server netið mitt heima.\n\"Unmetered DDoS MitigationCloudflare will stand in front of your website regardless of attack size or duration.\" ekki viss um hvort þetta virki almennilega fyrir CSGO servera.\nhttps://www.cloudflare.com/ddos/",
+            "date": "2018-12-09 15:08:00",
+            "post_id": "681848",
+            "reply_to_id": "681834"
+        },
+        {
+            "user_name": "Talva2018",
+            "text": "Ef pingið er fínt 50 og svo þega maður er top 2 sætunum og stutt eftir að leikinum þá fer ping upp í 200 er það ekki ddos?",
+            "date": "2018-12-09 16:16:00",
+            "post_id": "681851",
+            "reply_to_id": "681848"
+        },
+        {
+            "user_name": "Talva2018",
+            "text": "Ekki tölvan...\n og er bara spila það sem þeir bjóða upp á þarna mm og æfingar möpp með öðrum.\nFann þessa síðu er þetta ekki til að verja mann fyrir ddos?\nnet_client_steamdatagram_enable_override 1\nhttps://steamcommunity.com/sharedfiles/ ... =924223996",
+            "date": "2018-12-09 16:26:00",
+            "post_id": "681852",
+            "reply_to_id": "681851"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Ok , þetta er svipuð hugmyndafræði og Cloudflare, bara ekki jafn þróuð greinilega miðað við að það eru ýmsir böggar ennþá til staðar í þessari lausn.\nBtw sjálfur er ég ekki mikill gamer þannig að ég hef litla innsýn inní CSGO heiminn og hvernig serveranir eru uppsettir og þess háttar.",
+            "date": "2018-12-09 16:43:00",
+            "post_id": "681854",
+            "reply_to_id": "681852"
+        },
+        {
+            "user_name": "Talva2018",
+            "text": "Meðan ég finn ekkert annað nota eg þetta.\nÆtla mér ekki að borga fyrir ddos finnst það eigi ekki að selja vörur sem eru ekki með ddos varning.\nAfhverju semur ekki einhver íslendingur með server við steam um að hafa mm csgo á íslandi svo maður fái ping 1..\nÞað væri góður draumur",
+            "date": "2018-12-09 17:04:00",
+            "post_id": "681856",
+            "reply_to_id": "681854"
+        },
+        {
+            "user_name": "playman",
+            "text": "Ef að þú ert að fá 200 í ping þá er þetta ekki ddos, ef þú værir ddos-aður þá kæmistu ekkert á netið og að ISP-inn þinn væri örugglega búinn að\nhringja í þig vegna þess, eða loka á tenginguna.\nÞetta er eitthvað annað, hugsanlega gæti einhver verið að Dos-a þig en ekki DDos-a, en ólíklegt.\nEinnig máttu ekki gleyma að þetta getur verið serverinn þessvegna sem að lætur þig hafa þetta háa ping, en líklegasta skýringin er að eitthvað er \nað nota tenginguna þína, DL eða UL t.d. torrent.",
+            "date": "2018-12-09 17:21:00",
+            "post_id": "681857",
+            "reply_to_id": "681856"
+        },
+        {
+            "user_name": "Talva2018",
+            "text": "Ekkert á netinu nema ég og er bara með leikinn í gangi.\nIps eða server kannski enn...\nDos eða ddos allavega finn það er einhver að þessu því gerist bara þegar ég er top 3 en eftir ég setti inn þetta datagram þá hefur verið í lagi svo held þetta sé komið.",
+            "date": "2018-12-09 17:41:00",
+            "post_id": "681858",
+            "reply_to_id": "681857"
+        },
+        {
+            "user_name": "Talva2018",
+            "text": "Þetta er komið \nFæ bara góða servera núna með ping 48.\nMæli með \nnet_client_steamdatagram_enable_override 1",
+            "date": "2018-12-09 22:19:00",
+            "post_id": "681871",
+            "reply_to_id": "681858"
+        }
+    ],
+    "date": "2018-12-08 20:12:00"
+}

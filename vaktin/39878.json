@@ -1,0 +1,121 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "39878",
+    "title": "Mismunur á SSD Intel VS Corsair VS OCZ",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=39878",
+    "posts": [
+        {
+            "user_name": "beatmaster",
+            "text": "Ég var að spá í hvort að einhver með þekkingu geti svarað mér hvort að \nþessi\n diskur sem að Aimar er að selja eða \nþessi\n myndi auka afkastagetunni í tölvunni minni meira\nMig langar að fá að vita hvor er betri og hversvegna, engan fanboy-ism eða getgátur hérna bara staðreyndir  \n \nEf að einhver rekst á þennann þráð í framtíðinni og Linkarnir virka ekki þá er þetta annaðhvort Intel X-25M G2 80GB eða Corsair Force 60GB CSSD-F60GB2-BRKT sem að um ræðir hérna\nEDIT: Bætum inní þetta \n60GB OCZ SSD Vertex2",
+            "date": "2011-07-13 13:16:00",
+            "post_id": "362849",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Benzmann",
+            "text": "ég er með Intel X-25M, og er með sáttur með hann, engin vandræði, þegar ég boota tölvunni upp, þá nær hún að loada Windows, áður en Windows logoið birtist \n, svo er ég bara með stýrikerfið á Disknum og Eve Online, aldrei verið sáttari",
+            "date": "2011-07-13 13:36:00",
+            "post_id": "362855",
+            "reply_to_id": "362849"
+        },
+        {
+            "user_name": "mind",
+            "text": "OCZ/Corsair ættu að auka afköstin mest einfaldlega vegna gagnaflutningshraða.\n(Það er þó ekki 100% en er ólíklegt þú sért í gagnagrunnsvinnslu eða þurfir mikið I/O)\nBæði OCZ vertex 2 og Corsair Force 60GB = Sandforce 1200 kubbasettið.\nSvo eiginlega sami hraði, aðal munurinn þó lítill sé væri smávægileg frávik í firmware.\nEn...\nIntelinn hefur einn stóran kost við sig og það er að þeir hafa einungis 0,5% bilanatíðni á móti 2,5%(sandforce based diskar) Ef mig minnir rétt",
+            "date": "2011-07-13 13:53:00",
+            "post_id": "362856",
+            "reply_to_id": "362855"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "Force f60 er byggður á Sandforce controller-innum. intel er með sinn eigin controller\nSandforce býður upp á hraðari les og skrif hraða en intel diskurinn er með MIKIÐ betri Access tíma\nég er búinn að eiga svona F60 og mér fannst hann ekkert merkilegur þegar nonesenze kom með intel diskinn sinn. þannig að taktu þennan intel disk",
+            "date": "2011-07-13 14:10:00",
+            "post_id": "362863",
+            "reply_to_id": "362856"
+        },
+        {
+            "user_name": "mind",
+            "text": "Betri access tími er ekki > gagnaflutningshraði.\nÞetta fer eftir notkun notandans og allir þessir diskar skila næstum nákvæmlega því sama þegar uppi er staðið fyrir notandann.\nHérna er allavega hlekkur ef OP vill kynna sér þetta.\nhttp://www.anandtech.com/show/3656/corsairs-force-ssd-reviewed-sf1200-is-very-good/1",
+            "date": "2011-07-13 15:37:00",
+            "post_id": "362879",
+            "reply_to_id": "362863"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "Satt.. en fljótari access time = forrit fljótari að opnast",
+            "date": "2011-07-13 16:05:00",
+            "post_id": "362887",
+            "reply_to_id": "362879"
+        },
+        {
+            "user_name": "mind",
+            "text": "Fyrir utan að þessi staðhæfing er afsannanleg í núverandi formi þá er þetta bara alltof mikil einföldun fyrir raunhæfan samanburð og gæti gefið öðrum verulega skakka mynd af því hvað skiptir máli þegar kemur að SSD diskum.\nRétt eins og núna virðist kapphlaupið vera um hversu mikill gagnaflutningshraðinn er, þrátt fyrir að æskilegt væri að taka tillit til minnsta kosti þriggja annarra hluta ef fást á einhvern grundvöllur fyrir mögulega jöfnum samanburðargrundvelli.",
+            "date": "2011-07-13 16:42:00",
+            "post_id": "362894",
+            "reply_to_id": "362887"
+        },
+        {
+            "user_name": "nonesenze",
+            "text": "og fljótari að leita, það sem fólk áttar sig ekki á er gagnaflutningshraði upp á 250mb/s þá þarftu eitthvað annað sem les/skrifar á sama hraða til að geta haft einhver not fyrir það \n250mb/s diskur - copy á - 100mb/s disk = 100mb/s gagnaflutningshraði\nt.d. þú þarf dual 1gbit lan (2 snúrur og 2 kort) til að ná 200mb/s milli tölva",
+            "date": "2011-07-13 16:52:00",
+            "post_id": "362896",
+            "reply_to_id": "362894"
+        },
+        {
+            "user_name": "Moldvarpan",
+            "text": "Smá hijack, mér finnst óþarfi að gera enn einn þráð um SSD.\nÉg ætla í næsta mánuði að fá mér SSD frá USA, hann verður notaður fyrir stýrikerfi,leiki og forrit. Hann verður að vera 160GB að lámarki, og ég er svo með nokkra terabæta geymslu diska, væri þá best fyrir mig að fá mér Intel disk? Og þá hvaða Intel disk? Eða ætti ég að taka Vertex 3?\nEndilega komið með einhver komment á hvaða disk ég ætti að fá mér, er ekki viss.",
+            "date": "2011-07-14 01:22:00",
+            "post_id": "363037",
+            "reply_to_id": "362896"
+        },
+        {
+            "user_name": "Plushy",
+            "text": "http://www.tolvutek.is/product_info.php ... s_id=27933",
+            "date": "2011-07-14 01:25:00",
+            "post_id": "363038",
+            "reply_to_id": "363037"
+        },
+        {
+            "user_name": "Moldvarpan",
+            "text": "Já, en eins og þessi? \nhttp://cgi.ebay.com/Intel-160GB-SSD-X25-M-SSDSA2M160G2GN-GEN2-Solid-State-/120741980467?pt=AU_Laptop_Accessories&hash=item1c1cc86933\nMeð þetta í huga sem var rætt hérna ofar í þræðinum, myndi Intel diskur henta mér betur eða Vertex ?",
+            "date": "2011-07-14 01:31:00",
+            "post_id": "363040",
+            "reply_to_id": "363038"
+        },
+        {
+            "user_name": "Moldvarpan",
+            "text": "Er enginn sem þekkir muninn af Vertex 3 og Intel diskunum? Er mikill munur á Access hraða þar á bæ? Er ekki verið að tala um 0.05 ms mun á þessum diskum?\nOg þar sem þetta verður keypt erlendis og ábyrgðin sennilega úr sögunni, hvor diskurinn ætli að sé áreiðanlegri á að bila ekki?",
+            "date": "2011-07-14 19:28:00",
+            "post_id": "363153",
+            "reply_to_id": "363040"
+        },
+        {
+            "user_name": "nonesenze",
+            "text": "intel er betri fyrir bilana tíðni, en nýustu stóru diskarnir eru komnir með annan controler þannig að ég veit ekki um þá\n320 serian er það sem ég myndi taka frá intel",
+            "date": "2011-07-14 20:18:00",
+            "post_id": "363171",
+            "reply_to_id": "363153"
+        },
+        {
+            "user_name": "hjalti8",
+            "text": "ef þú ert með sata3( helst intel 6G controller á sandy bridge mobo) þá færðu þér auðvitað force3 eða vertex3(sniðugt að skoða GT og MAXIOPS utgafur af þessum diskum)",
+            "date": "2011-07-14 20:44:00",
+            "post_id": "363175",
+            "reply_to_id": "363171"
+        },
+        {
+            "user_name": "nonesenze",
+            "text": "eða \nhttp://thessdreview.com/our-reviews/intel-510-series-250-gb-sata-3-ssd-review/\n þenann",
+            "date": "2011-07-14 20:50:00",
+            "post_id": "363176",
+            "reply_to_id": "363175"
+        },
+        {
+            "user_name": "Storm",
+            "text": "tekið úr linknum sem þú postaðir...",
+            "date": "2011-07-14 21:00:00",
+            "post_id": "363178",
+            "reply_to_id": "363176"
+        }
+    ],
+    "date": "2011-07-13 13:16:00"
+}

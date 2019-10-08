@@ -1,0 +1,23 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "16634",
+    "title": "Setja síðu út á netið",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=16634",
+    "posts": [
+        {
+            "user_name": "noizer",
+            "text": "Ég náði í WAMP server og lét t.d. inn WordPress og Joomla í www möppuna, svona til að prófa þetta, og það virkar allt fínt þegar ég fer inn á \nlocalhost\n í vafranum.\n\nEn málið er að mig langar til að prófa að setja þetta út á netið líka, þannig að ég fór og skráði mig á no-ip.com og gerði allt þar en þegar ég fer inná það sem ég bjó til, sem er bara það sama og ip talan, þá fer ég bara inn á routerinn minn, sé ekki síðuna.\n\nHvernig er best að koma svona síðu út á netið?",
+            "date": "2008-01-11 16:10:00",
+            "post_id": "162616",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Dagur",
+            "text": "Þú verður að breyta stillingunum á routernum þannig að incoming request á port 80 eru áframsend á tölvuna þína (þ.e.a.s. local ip töluna þína).\n\n\n\nPassaðu bara að ef routerinn þinn notar port 80 þá verður þú að breyta því fyrst",
+            "date": "2008-01-11 16:50:00",
+            "post_id": "162618",
+            "reply_to_id": "162616"
+        }
+    ],
+    "date": "2008-01-11 16:10:00"
+}

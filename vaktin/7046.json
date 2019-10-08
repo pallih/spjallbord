@@ -1,0 +1,114 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "7046",
+    "title": "vandamál með að remota á vél",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=7046",
+    "posts": [
+        {
+            "user_name": "urban",
+            "text": "málið er að ég ætlaðimér að remota á vélina hjá mömmu og pabba  (aðalega til þess að keyra adawer og vírusvarnir og svoleiðis dót)\n\n\n\nen ég bara ghet það ekki með nokkru móti......   \n\n\n\n\nhellstu speccar eru þessir á þeirra vél.\n\n\n\n2.8 prescot  <--- hvernig er þetta skrifað ???\n\n512 ddram\n\neitthvað móðurborð\n\nog eitthvað sem ég man ekki meira (enda hefði ég haldið að vélbúnaðurinn ætti ekki að skipta mjög mikklu máli)\n\n\n\nþessi vél er keyrð á win xp home og er með sp 2\n\ninternet tenging er 2000 kbits/s frá símanum\n\nog router er alcatel 570   (tengdur með lansnúru ekki þráðlaust)\n\n\n\nvélin mín er 2.0 cel 512 ddram og sitthvað fleira.....\n\nwin xp pro   með sp 2\n\nalcatel 510 router\n\nog eins tenging og hjá foreldrum mínum......\n\n\n\nég er búin að opna fyrir remote portið í báðum vélum..... bæði tcp og udp brara til að vera öruggur um að það væri ekki vandamálið.....\n\n\n\nég er tók windows firewallinn úr sambandi á báðum vélum   bara til að vera öruggur um að hann væri ekki að bögga mig....   og það eru engir aðrir firewallar í gangi á hvorugri vélinni\n\n\n\nég er búin að allowa remote í báðumm vélum (get alveg tengst öðrum vélum heima hjá mér  og í hinni tölvunni líka...)\n\n\n\nmálið er að ég get bara engan vegin tengst minni tölvu heiman frá foreldrum mínum   né   tölvu foreldra minna heima frá mér.........\n\n\n\nog ef ég ver í start>run>cmd og reyni að  pinga á tölvuna hjá foreldrum mínum heima hjá mér þá gengur það ekki  og ekki heldur öfugt.....\n\n\n\nen reyndar virðist ekki skipta neinu máli í hvaða tölvu ég er þegar að ég reyni að pinga á tölvuna hj´aforeldrum mínum ....   hef reynt það úr fleiri tölvum en bara minni (og þá meina ég öðrum tengingum líka, bara til að útiloka miskilning þar....)\n\n\n\n\n\nPLZ getur einhver hjálpað mér    \n\n\n\nég er orðinn gjörsamlega ráðþrota......\n\n\n\nP.S.  ef þetta er illa upp sett eða illskiljanlegt þá bendið mér á það og ég reyni ða koma því betur til skila sem ég á við.....",
+            "date": "2005-01-14 14:37:00",
+            "post_id": "74709",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gumol",
+            "text": "Búinn að forwarda portinu frá routernum á tölvuna?",
+            "date": "2005-01-14 14:48:00",
+            "post_id": "74714",
+            "reply_to_id": "74709"
+        },
+        {
+            "user_name": "urban",
+            "text": "jamm",
+            "date": "2005-01-14 15:03:00",
+            "post_id": "74715",
+            "reply_to_id": "74714"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Búinn að kíkja á \nWorking Remotly with Windows XP\n leiðbeiningar hjá Microsoft?\n\n\n\nBreytt:\n\nGetur líka kíkt á og lagt inn fyrirspurnir á: \nWindows XP Working Remotly\n newsgrouppunni hjá Microsoft..",
+            "date": "2005-01-14 15:16:00",
+            "post_id": "74718",
+            "reply_to_id": "74715"
+        },
+        {
+            "user_name": "jericho",
+            "text": "Ég hef alltaf notað \nWinVNC\n (eða RealVNC) version 3.3.7.\n\n\n\n \n setur það upp á báðum vélum\n\n \n keyrir \"Run VNC server\" á vél foreldra þinna\n\nog velur \"Accept socket connections\" með e-u passwordi (mínar stillingar fylgja með í attachment)\n\n \n keyrir \"Run NVC viewer\" á þinni vél og stimplar inn IP töluna á vél foreldranna og passwordið\n\n.\n\n.\n\n.\n\n.\n\nEn mér var að detta í hug - þetta virkar örugglega ekki fyrir router, bara ADSL módem.  Oh well. \n\nGangi þér vel",
+            "date": "2005-01-14 15:55:00",
+            "post_id": "74726",
+            "reply_to_id": "74718"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Ég nota þetta hjá mér og þetta virkar fullkomlega. Ertu viss um að userinn þinn sem þú ert að reyna að loga inn með sé \"allowed\"?",
+            "date": "2005-01-14 16:51:00",
+            "post_id": "74738",
+            "reply_to_id": "74726"
+        },
+        {
+            "user_name": "urban",
+            "text": "já ég er einmitt marg búin að tékka á því hvort að það sé ekki alveg örugglega....\n\n\n\nþað eina sem mér datt í hug að þetta virkaði ekki  vegna væri útafd því að önnur væri með xp home en hin með xp pro\n\n\n\nen þá hefði ég nú samt haldið að ég ætti að geta pingað þessa ippu....",
+            "date": "2005-01-14 16:58:00",
+            "post_id": "74739",
+            "reply_to_id": "74738"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Það þarf ekkert að vara að þú getir pingaða hana. Ég myndi prófa ná í eitthvað portscan forrit til að sjá hvort þetta sé nokkuð routerinn sem er að láta illa. (getur sennt mér ip addressuna í PM og ég get gert það fyrir þig ef þú vilt)",
+            "date": "2005-01-14 17:02:00",
+            "post_id": "74740",
+            "reply_to_id": "74739"
+        },
+        {
+            "user_name": "Phanto",
+            "text": "eg helt að það væri ekki hægt að stilla xp home þannig að maður gæti tengst tölvunni með remote, bara vera a staðnum og biðja aðra tölvu um að tengjast sér",
+            "date": "2005-01-14 22:55:00",
+            "post_id": "74773",
+            "reply_to_id": "74740"
+        },
+        {
+            "user_name": "urban",
+            "text": "jæja ákvað að leyfa ykkur að fá smá updeit af því hvernig stendu í þessu máli.....\n\n\n\nhmmmm nú er ég búinn að fikta í þessu fram og til baka.....\n\nbúin að prufa 2 önnur forrit sem eiga að geta \"séð um\" remote....\n\n\n\nannað þeirra er RealVNC  og hitt er Radmin  opnaði ég þau port sem nauðsinlegt er fyrir þessi forrit   (eða hvort sem það er nauðsinlegt eður ey... ég gerði það samt)\n\n\n\nog ekkert virkaði...\n\n\n\nog núna er ég búin að komast að því að báðar vélarnar (hjá mér og múttu) hljóta að vera nokkuð vel varðar gegn höckurum ýmiskonar...\n\n\n\nþar sem það er bara algerlega vonlaust að pinga á þessar ippur sem þær eru á.....\n\n\n\n\n\njæja vona að þið hafið skilið það sem ég á við..",
+            "date": "2005-02-08 01:50:00",
+            "post_id": "77980",
+            "reply_to_id": "74773"
+        },
+        {
+            "user_name": "tms",
+            "text": "Kannski er windows firewallinn eða annar 3rd party firewall á",
+            "date": "2005-02-08 09:13:00",
+            "post_id": "77984",
+            "reply_to_id": "77980"
+        },
+        {
+            "user_name": "urban",
+            "text": "´\n\nhef alltaf slökkt á öllum firewalls þegar ég hef prufað þetta",
+            "date": "2005-02-08 10:40:00",
+            "post_id": "78002",
+            "reply_to_id": "77984"
+        },
+        {
+            "user_name": "Johnson 32",
+            "text": "Hvaða Ip tölu ertu að reyna að pinga? Og eru foreldar þínir með fasta ip tölu?",
+            "date": "2005-02-08 12:06:00",
+            "post_id": "78014",
+            "reply_to_id": "78002"
+        },
+        {
+            "user_name": "daremo",
+            "text": "Síðast þegar ég vissi, þá var ekki hægt að remota á xp home. Þú getur remotað á xp pro frá xp home, en ekki öfugt.\n\nedit: Ég er að sjálfsögðu að tala um remote connect dæmið sem fylgir windows. Þú átt að geta notað vnc.",
+            "date": "2005-02-08 13:09:00",
+            "post_id": "78027",
+            "reply_to_id": "78014"
+        },
+        {
+            "user_name": "Sveinn",
+            "text": "Prescott :]",
+            "date": "2005-02-08 23:28:00",
+            "post_id": "78155",
+            "reply_to_id": "78027"
+        }
+    ],
+    "date": "2005-01-14 14:37:00"
+}

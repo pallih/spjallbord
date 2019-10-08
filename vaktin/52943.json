@@ -1,0 +1,51 @@
+{
+    "forum_title": "Windows",
+    "id": "52943",
+    "title": "Windows 8 vesen.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=52943",
+    "posts": [
+        {
+            "user_name": "Vignirorn13",
+            "text": "Ég er með Windows á tölvunni minni og það hefur virkað alltaf fyrr en nú. Þá gerist þetta þegar ég kveikji á henni : \nhttp://www.youtube.com/watch?v=8ITiRhrFpjw\n    - Ég kveikji á henni og það kemur windoes 8 logo-ið og svo svartur skjár í smá og svo byrjar skjárinn að blikka. Er búinn að prufa að hafa kveikt á tölvunni í smá tíma en ekkert gerist. Eru einhverjiir fleiri að lenda í þessu eða ? Veit einhver hvað málið er eða ?",
+            "date": "2013-01-23 18:13:00",
+            "post_id": "491283",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Oak",
+            "text": "Ég lenti í þessu um daginn og eina sem ég gat gert var að gera refresh windows en það var bara vegna þess að það var ekki til restore point. Þannig að þú ættir að geta farið í safe mode og notað síðasta restore point sem var í lagi. Veit ekki hvaða uppfærsla það var sem gerði þetta hjá mér.",
+            "date": "2013-01-23 18:26:00",
+            "post_id": "491286",
+            "reply_to_id": "491283"
+        },
+        {
+            "user_name": "FuriousJoe",
+            "text": "Það er ekkert safe mode í Windows 8.",
+            "date": "2013-01-23 20:15:00",
+            "post_id": "491300",
+            "reply_to_id": "491286"
+        },
+        {
+            "user_name": "Oak",
+            "text": "heitir recovery í windows 8",
+            "date": "2013-01-23 21:22:00",
+            "post_id": "491313",
+            "reply_to_id": "491300"
+        },
+        {
+            "user_name": "upg8",
+            "text": "Það er safe mode á Windows 8.\nhttp://www.redmondpie.com/how-to-boot-into-windows-8-safe-mode/",
+            "date": "2013-01-23 21:23:00",
+            "post_id": "491314",
+            "reply_to_id": "491313"
+        },
+        {
+            "user_name": "FuriousJoe",
+            "text": "Ok, það er ekki safe mode í windows 8 out of the box.\nSvosem allt hægt ef maður fiktar í stillingum og breytir hlutum.\nVirðist bara vera vel falið, persónulega hef ég aldrei séð þennan valmöguleika.",
+            "date": "2013-01-23 21:28:00",
+            "post_id": "491317",
+            "reply_to_id": "491314"
+        }
+    ],
+    "date": "2013-01-23 18:13:00"
+}

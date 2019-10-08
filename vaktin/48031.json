@@ -1,0 +1,128 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "48031",
+    "title": "3930K í 90° við 5% load :S",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=48031",
+    "posts": [
+        {
+            "user_name": "Xovius",
+            "text": "Tók eftir því að tölvan var eitthvað óvenjulega hæg, komst að því að örrinn er við 90° þó ekkert sé að gerast, hún er búin að klukka sig niður í um 2MHz, og það breytist stöðugt, er núna með multiplyerinn 20 og core voltage 0.85 um það bil :S\nKælingin mín er custom water cooling loop:\nCpu block XSPC Raystorm. \nRadiator 3x120mm koolance cu1020v \nviftur á rad 3stk scythe gt ap15 \nPump res combo xspc \nTubing primochill Primoflex pro. \nCompression fittings\nviftustýring scythe kaze master pro",
+            "date": "2012-05-26 20:10:00",
+            "post_id": "443869",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "dandri",
+            "text": "Er eitthvað búið að losna hjá waterblokkinni?",
+            "date": "2012-05-26 20:13:00",
+            "post_id": "443871",
+            "reply_to_id": "443869"
+        },
+        {
+            "user_name": "Xovius",
+            "text": "Ekki svo ég sjái, var að skella UV cathode kitti í hana áðan og ég gæti svosem hafa hreyft við einhverju en ég held ekki.\nÉg prófaði aðeins að ýta í blokkina en ekkert hreyfist...",
+            "date": "2012-05-26 20:16:00",
+            "post_id": "443872",
+            "reply_to_id": "443871"
+        },
+        {
+            "user_name": "AciD_RaiN",
+            "text": "Getur verið einhver stífla í loopunni þinni?",
+            "date": "2012-05-26 20:20:00",
+            "post_id": "443875",
+            "reply_to_id": "443872"
+        },
+        {
+            "user_name": "Xovius",
+            "text": "Held ekki, finn hitamuninn á slöngunni frá og til örrans mjög vel sem þýðir (held ég) að það sé flæði þarna...",
+            "date": "2012-05-26 20:23:00",
+            "post_id": "443877",
+            "reply_to_id": "443875"
+        },
+        {
+            "user_name": "AciD_RaiN",
+            "text": "Já þetta var líka soldið ólíkleg uppástunga en slíkt hefur gerst  \n \nEr örgjörvinn að hitna svona eða gæti verið að einhver hitamælir sé bilaður?? Annað sem ég hef séð gerast en er kannski líka fremur ólíklegt...",
+            "date": "2012-05-26 20:26:00",
+            "post_id": "443878",
+            "reply_to_id": "443877"
+        },
+        {
+            "user_name": "AncientGod",
+            "text": "Gæti kubburinn verið gallaður ? prófa eithvað stress test.",
+            "date": "2012-05-26 20:28:00",
+            "post_id": "443880",
+            "reply_to_id": "443878"
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "brot á slöngu eða dælan ekki á fullu ?",
+            "date": "2012-05-26 21:05:00",
+            "post_id": "443897",
+            "reply_to_id": "443880"
+        },
+        {
+            "user_name": "Xovius",
+            "text": "Er búinn að runna fínt síðustu mánuði...\nSlöngurnar eru heilar en hvernig get ég séð hvort dælan sé á fullu eða ekki?",
+            "date": "2012-05-26 21:21:00",
+            "post_id": "443907",
+            "reply_to_id": "443897"
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "Þú ættir að finna/heyra suðið þegar þú leggur eyrað við draslið og það á að vera hratt hljóð hehe get ekki lýst því !\nTaka slöngur einhverstaðar í sundur og ef hægt er að setja þær í dall og prufa",
+            "date": "2012-05-26 21:45:00",
+            "post_id": "443912",
+            "reply_to_id": "443907"
+        },
+        {
+            "user_name": "AciD_RaiN",
+            "text": "Ég er með mína D5 dælu tengda við viftustýringu þannig ég get alveg stjórnað hraðanum á henni en það er eina leiðin sem ÉG veit",
+            "date": "2012-05-26 21:46:00",
+            "post_id": "443913",
+            "reply_to_id": "443912"
+        },
+        {
+            "user_name": "braudrist",
+            "text": "Eimað vatn + killcoil / PTnuke eða premixed vökvi? Ertu með dye í loopunni? Hvernig er liturinn á vatninu? Gæti líka eitthvað verið að radiatornum.",
+            "date": "2012-05-26 21:50:00",
+            "post_id": "443914",
+            "reply_to_id": "443913"
+        },
+        {
+            "user_name": "Tiger",
+            "text": "Ég held það hljóti að vera að það er eitthvað bogið við loopuna. \nHverju varstu að breyta/bæta við? Gerðist þetta allt í einu við það?",
+            "date": "2012-05-26 22:20:00",
+            "post_id": "443918",
+            "reply_to_id": "443914"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Ég myndi fara vel yfir kælinguna. Myndi ekki þora að hafa tölvuna í gangi ef örgjörvinn fer í 90°C við idle! Sérstaklega þegar um vatnskælingu er að ræða.",
+            "date": "2012-05-26 23:24:00",
+            "post_id": "443939",
+            "reply_to_id": "443918"
+        },
+        {
+            "user_name": "Xovius",
+            "text": "Ég ákvað að taka CPU blokkina af og skella nýju thermal paste og festa aftur, nú virðist allt ganga smurt \nVeit ekki hvað þetta gæti hafa verið...",
+            "date": "2012-05-27 18:21:00",
+            "post_id": "444106",
+            "reply_to_id": "443939"
+        },
+        {
+            "user_name": "Jimmy",
+            "text": "Rekið þig í hana og hreyft aðeins við henni?",
+            "date": "2012-05-27 18:39:00",
+            "post_id": "444109",
+            "reply_to_id": "444106"
+        },
+        {
+            "user_name": "AciD_RaiN",
+            "text": "og í kjölfarið gæti hafa myndast smá loft undir blokkinni. Hef lent í því að fá smá loftbólu undir blokkina en það var vegna þess að ég hafði ekki hugmynd um að maður mætti ekki dreyfa úr themal paste-inu til að jafna það út  \n  2 kjarnar alveg helmingi heitari en hinir...",
+            "date": "2012-05-27 18:46:00",
+            "post_id": "444112",
+            "reply_to_id": "444109"
+        }
+    ],
+    "date": "2012-05-26 20:10:00"
+}

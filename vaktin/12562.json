@@ -1,0 +1,37 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "12562",
+    "title": "Ubuntu 6.10 bootar ekki á CDROM.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=12562",
+    "posts": [
+        {
+            "user_name": "Rúmbugokk",
+            "text": "Hæ, allir!\n\n\n\nÉg er í smá vandræðum. Er að setja upp 2 stýrikerfi á disk sem ég skipti í tvennt og formataði fat 32 á fyrri helminginn og setti upp á hann Win.2000 en hinn er óformataður,ég ætlaði að setja Ubuntu 6.10 á hann en ég fæ bara eftifarandi meldingu: \"isolinux 3.11 debian-2006-03-16 isolinux: cannot boot from this cd. please insert cd2 or try bios update\" Þegar ég boota upp á CD disknum (diskurinn er í lagi ,ég hef sett upp aðra vél með honum). Ef einhver kannast við þetta vandamál þá væru allar upplýsingar vel þegnar.",
+            "date": "2006-12-27 19:10:00",
+            "post_id": "133838",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "er þetta live diskur ?\n\n\n\nhverjir eru spekkarnir ?\n\n\n\nef þetta er live diskur eða diskur sem startast live og síðan með valmöguleika til að installast þá þarftu 512 mb minni, en það eru til The Ubuntu alternate cd sem þarfnast bara 64 eða 128.\n\n\n\ngefðu okkur spekka.",
+            "date": "2006-12-28 01:13:00",
+            "post_id": "133864",
+            "reply_to_id": "133838"
+        },
+        {
+            "user_name": "Rúmbugokk",
+            "text": "Þessi diskur er bæði fyrir live keyrslu og uppsetningu.\n\nÉg er með vinnsluminni 384 Mb.\n\nÉg hef sett linux upp á aðra tölvu með þessum disk, en sú tölva var bara með 256 Mb.\n\nGet ég séð á disknum upplýsingar um þetta?",
+            "date": "2006-12-28 10:58:00",
+            "post_id": "133877",
+            "reply_to_id": "133864"
+        },
+        {
+            "user_name": "dorg",
+            "text": "Mér dettur helst í hug að þú þurfir að keyra uppsetninguna með einhverjum kjarnaparametrum.  Hef þurft að gera það á nýlegum uppsetningum á fartölvu.\n\nÞá setja bara beint inn parametrana fyrir isolinux til að boota.\n\ngefa rétt drif þar.  Getur tengst því hvar CD drifið sé ekki þar sem búast mætti við.",
+            "date": "2006-12-28 14:50:00",
+            "post_id": "133890",
+            "reply_to_id": "133877"
+        }
+    ],
+    "date": "2006-12-27 19:10:00"
+}

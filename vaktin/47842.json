@@ -1,0 +1,51 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "47842",
+    "title": "DELL 1525 bilun",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=47842",
+    "posts": [
+        {
+            "user_name": "ColdIce",
+            "text": "Daginn.\nÉg er með eina Dell 1525 á heimilinu sem ákvað að \"deyja\" í morgun og þurfti því auðvitað að vekja mig!!  \n Konan vildi meina að skjárinn væri dauður en ég hef aðra kenningu.\nÍ örugglega 1-2 ár hefur verið svaka læti í harða disknum(eins og hann sé að keyra ósmurður eða eitthvað). Þegar ég starta henni þá kemur DELL logo strax og eitthvað loading bar þar, og áður en hún skiptir yfir í Windows 7 loading dæmið þá verður skjárinn svartur og hún verður alveg hljóðlát....er þetta ekki bara harði diskurinn að gefast upp?\nTakk takk!",
+            "date": "2012-05-17 09:40:00",
+            "post_id": "441920",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "ORION",
+            "text": "Þetta er ekki Skjárinn ef þú færð Dell logoið  \n \nÉg myndi gíska á HDD, Getur prufað að setja hann í aðra tölvu og athugað statusinn á honum.\nAnnars ef þú ferð með hann uppí tölvuvirkni og spyrð þá fallega, þá eru þeir öruglega tilbúnir að gera þetta fyrir þig, Tekur ekki nema 20 sekúndur.",
+            "date": "2012-05-17 09:46:00",
+            "post_id": "441921",
+            "reply_to_id": "441920"
+        },
+        {
+            "user_name": "ColdIce",
+            "text": "Neinei, konan vildi meina það  \n \nEr Tölvuvirkni ekki með ókeypis bilanagreiningu? Minnir það..",
+            "date": "2012-05-17 09:47:00",
+            "post_id": "441922",
+            "reply_to_id": "441921"
+        },
+        {
+            "user_name": "lukkuláki",
+            "text": "Það er ekki ólíklegt sérstaklega ef þú hefur orðið var við hávaða í honum nýlega.\nÞetta er örugglega ekki skjárinn úr því að DELL logoið kemur eðlilega upp hjá þér, kemstu í BIOS ? <F2>\nSérðu diskinn í BIOS ? Ef ekki þá er þetta örugglega diskurinn.\nSkjákortin hafa átt það til að fara í þessum vélum og því miður þá lýsir það sér svipað og þú ert að segja hávaðinn gæti hafa komið frá kæliviftunni\nþá gæti það verið farið og diskurinn í lagi.\nPrófaðu þetta .. haltu inni Fn takkanum og ræstu vélina.\nÞá fer hún í diagnostic test mode láttu það rúlla. \nEf hún fer strax að pípa í Hard Drive DST short test þá þarftu ekki að prófa meira þá er diskurinn farinn (Gjarna 2000-0142 Error Code)\nEf hún heldur áfram þá kemur hún kemur með litarendur þvert yfir allan skjáinn og pípar ýttu þá á Y \nÞá heldur hún áfram og fer í minnistest ofl. \nEf eitthvað er að þá ætti hún að koma með FAIL á það ef ekki þá er þetta líklega skjákort (móðurborð)",
+            "date": "2012-05-17 09:51:00",
+            "post_id": "441924",
+            "reply_to_id": "441922"
+        },
+        {
+            "user_name": "ColdIce",
+            "text": "Takk kærlega fyrir þetta! \n Hún keyrði sig upp núna en ég prófa þetta á eftir!",
+            "date": "2012-05-17 09:53:00",
+            "post_id": "441925",
+            "reply_to_id": "441924"
+        },
+        {
+            "user_name": "Gislinn",
+            "text": "Flott svar hjá lukkuláka en til að commenta aðeins á þessa settningu hjá honum:\nÞað er mjög algengt að fólk þrífi ekki rykið úr kæliviftunni á tölvunni sem veldur því að tölvan keyri á meiri hita (þar sem loftflæði er takmarkað), Dell 1525 er þannig uppbyggð að mikil hiti myndast í kringum skjákortið ef mikið ryk er í viftunni sem getur valdið því að skjákortið ofhitni og þar með skemmist það (og þá þarf að skipta um móðurborð í tölvunni, nema menn séu mjög færir á lóðboltanum  \n ).\nPrufaðu að hreinsa rykið frá viftunni og sjáðu hvort að hljóðið minnki.",
+            "date": "2012-05-17 12:28:00",
+            "post_id": "441938",
+            "reply_to_id": "441925"
+        }
+    ],
+    "date": "2012-05-17 09:40:00"
+}

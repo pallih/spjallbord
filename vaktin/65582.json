@@ -1,0 +1,65 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "65582",
+    "title": "Video Server",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=65582",
+    "posts": [
+        {
+            "user_name": "BugsyB",
+            "text": "Sælir félagi minn er að reka nokkur fyrirtæki og vill setja upp myndavélakerfi á þeim öllum. Hvort er sniðugara að hafa upptöku á hverjum stað fyrir sig og remote view á síma og fartölvu eða setja upp server á öðrum stað og vista allt þangað, hann er með allt hjá símanum og síminn telur allt gagnamagn en það er svo miklu þægilegar að hafa allt á einum stað og það gerir viðhald svo miklu auðveldara og þá hvaða forrit væri best að nota í þetta og hvernig vél - er ekki dual core 4gb ram allveg nóg með lala skjákorti.",
+            "date": "2015-05-11 23:00:00",
+            "post_id": "598401",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "nidur",
+            "text": "Ég myndi ath með milestonesys sem öryggismiðstöðin var með seinast þegar ég vissi.\nHeld að þú getir sett upp nokkrar myndavélar í fríu útgáfunni til að skoða remote í pc en í mobile þá þarf licenced sem myndi kosta einhverja 10þ kalla á hverjum stað fyrir sig.",
+            "date": "2015-05-11 23:19:00",
+            "post_id": "598404",
+            "reply_to_id": "598401"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ég þekki ekki mikið inná hugbúnaðinn fyrir þetta, en þú getur gleymt því að vera með dualcore vél sem central punkt fyrir fullt af myndavélastreymum, þetta er akkúrat frekar CPU intensive job, tala nú ekki um ef þú ætlar að streyma þessu út fyrir hús og taka jafnvel upp á sama tíma.\nÉg held líka að það væri afar sterkur leikur að færa sig frá Símanum ef hann ætlar í þann pakka að streyma öllu yfir á e-rn centralized server, yrði mjög fljótur að éta upp flesta pakkana sem eru í boði með 24/7 streymi á milli staða.",
+            "date": "2015-05-11 23:27:00",
+            "post_id": "598405",
+            "reply_to_id": "598404"
+        },
+        {
+            "user_name": "nidur",
+            "text": "Ég er að nota Core Duo E8500 með 4gb ram\n25mbps stöðugt dl frá 4 myndavélum og get athugað stöðuna með appi í símanum.\nTekur bara upp hreyfingu.\nNotkun á Cpu í 20% og mem 2gb max",
+            "date": "2015-05-12 10:03:00",
+            "post_id": "598421",
+            "reply_to_id": "598405"
+        },
+        {
+            "user_name": "playman",
+            "text": "http://www.zoneminder.com/\n mæli sterklega með því, notaði það í denn með webcams sem ég átti, þetta\nforrit er gert meira fyrir IP cams samt.\nKostar ekki neitt, fully customizable, Open source, keirir á linux og því minni keyrsla sem er í gangi, og nánast engar vélbúnaðar kröfur.\nNokkuð einfalt, allar algengustu stillingarnar, og remote view ásamt iphone/android app sem mig minnir að ég hafi einhverstaðar séð.\nHérna er einn sem að byggði úr P4 og 512mb RAM.\nhttp://www.tuxradar.com/content/build-y ... zoneminder",
+            "date": "2015-05-12 11:26:00",
+            "post_id": "598431",
+            "reply_to_id": "598421"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Mikið svakalega hef ég þá verið að nota uneffecient software á sínum tíma. Var með 8 strauma yfir á eina vél og hún fór nær aldrei undir 50-60% load, quadcore vél. Hún var að vísu að sýna alla straumana á skjáum í rauntíma líka.",
+            "date": "2015-05-12 12:07:00",
+            "post_id": "598437",
+            "reply_to_id": "598431"
+        },
+        {
+            "user_name": "arons4",
+            "text": "Ef þú ert með miðlæga upptöku verður nettengingin þar flöskuháls uppá upplausn og framereate, mun sniðugra að vera með upptöku á hverju lani fyrir sig og svo bara client þar sem þú villt sjá myndina. Ef þú ert með flottar vélar þarftu ekkert marga strauma til að cappa ljósnetið.\n Jafnvel þó hann taki bara upp hreyfingu þurfa straumarnir að vera lifandi 24/7 nema þá að vélarnar sjái um einhverja triggeringu(yfirleitt er það serverinn)",
+            "date": "2015-05-12 12:47:00",
+            "post_id": "598439",
+            "reply_to_id": "598437"
+        },
+        {
+            "user_name": "nidur",
+            "text": "[/quote] Jafnvel þó hann taki bara upp hreyfingu þurfa straumarnir að vera lifandi 24/7 nema þá að vélarnar sjái um einhverja triggeringu(yfirleitt er það serverinn)[/quote]\nJá serverinn streymir 24/7 og hugbúnaðurinn er stilltur á viss svæði sem eru visst næm fyrir hreyfingu\ner með 2x 1920x1080p á 25fps, 1x1280x960p á 15fps, svo einhverja druslu sem er með vga og 6fps.\nHugbúnaðurinn hjá mér sýnir enga strauma á skjánum, þarft alltaf að tengja þig í gegnum client.",
+            "date": "2015-05-12 15:38:00",
+            "post_id": "598445",
+            "reply_to_id": "598439"
+        }
+    ],
+    "date": "2015-05-11 23:00:00"
+}

@@ -1,0 +1,30 @@
+{
+    "forum_title": "Símar, fartölvur, myndavélar og önnur farandstæki",
+    "id": "52570",
+    "title": "Dual Boot Galaxy S3",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=26&t=52570",
+    "posts": [
+        {
+            "user_name": "BugsyB",
+            "text": "Sælir ég var að pæla er hægt að hafa dual boot á S3 með offical android öðrumeginn og ubuntu hinumgeginn \nhttp://www.bbc.co.uk/news/technology-20891868\nhef verið bara að finna milli custom roms en ekki með offical android en mig langaði bara leggja þetta fram og ath hvort e-h hafi reynslu af þessu",
+            "date": "2013-01-08 10:49:00",
+            "post_id": "488213",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Þú getur að sjálfsögðu verið með algert stock rom en síminn þarf að vera rootaður.\nÞarft custom kernel til að dual boota.",
+            "date": "2013-01-08 18:41:00",
+            "post_id": "488335",
+            "reply_to_id": "488213"
+        },
+        {
+            "user_name": "FuriousJoe",
+            "text": "Ég er núna vonandi hættur að fikta í roms, eftir ár þá er ég búinn að flasha símann yfir 50 sinnum. - notaði odin og smellti up official samsung 2.3.5 rom og uppfærði þaðan í 4.0.4, rootaði svo með því að flasha siyah kernel. \nSiyah kernel styður multi boot. - Þetta væri lausnin myndi ég halda.",
+            "date": "2013-01-08 19:48:00",
+            "post_id": "488357",
+            "reply_to_id": "488335"
+        }
+    ],
+    "date": "2013-01-08 10:49:00"
+}

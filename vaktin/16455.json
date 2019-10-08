@@ -1,0 +1,23 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "16455",
+    "title": "Vesen með hljóð!",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=16455",
+    "posts": [
+        {
+            "user_name": "vignir81",
+            "text": "Var að fá nýtt móðurborð, örgjörva og fl. allt er komið upp og virkar vel.. nema hljóðið! Er að nota innbyggt Realtek hljóðkort buinn að installa driver sem fylgdi móðurborðinu en virkar ekki! en þegar eg fer klikka á Volume Control kemur \"There are no active mixer devices available . To install mixer devices, go to Control panel, click Printers and Other Hardware, and then click Add Hardware\" og ég geri það og hún leitar.. og Finnur \"Realtek High Definition Audio\" og ég klikka á next, þá kemur upp gluggi þar sem stendur \"This Device cannot start.(Code 10).\n\n\n\nhefur einhver svar við þesssu?\n\nkv.hljóðlausi!:S",
+            "date": "2007-12-29 03:23:00",
+            "post_id": "161251",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gets",
+            "text": "Spurning um að prófa að setja driverinn inn aftur, svo gæti móðurborðið verið gallað og eitt enn sem er frekar ólíklegt en alltílagi að tékka á því hvort hljóðkortið er ekki örugglega enable í bíos.",
+            "date": "2007-12-29 15:45:00",
+            "post_id": "161273",
+            "reply_to_id": "161251"
+        }
+    ],
+    "date": "2007-12-29 03:23:00"
+}

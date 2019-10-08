@@ -1,0 +1,58 @@
+{
+    "forum_title": "Windows",
+    "id": "56886",
+    "title": "Flakkari opnar tvö drif [tv les ekki hdd]",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=56886",
+    "posts": [
+        {
+            "user_name": "stefhauk",
+            "text": "Hvernig get ég látið flakkara sem opnar sig í drifum semsagt eitt 2.65 TB og hinn opnast í 32 gb og þegar ég tengji hann við sjónvarpið í gegnum usb þá opnar sjónvarpið eingöngu litla drifið sem er 32 gb. \nHelst væri ég til í að þetta myndi allt opnast í einu drifi.",
+            "date": "2013-08-31 17:18:00",
+            "post_id": "526450",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Diddmaster",
+            "text": "ferð í manage og disk manege eiðir partion á flakkaranum formattar ætti að vera 1 partion eftir það svo er spurning hvort tv stiðji ntfs eða bara fat32",
+            "date": "2013-08-31 18:41:00",
+            "post_id": "526460",
+            "reply_to_id": "526450"
+        },
+        {
+            "user_name": "stefhauk",
+            "text": "Búinn að redda þessu í eitt drif en nú er spurningin þar sem sjónvarpið mitt virðist ekki lesa ntfs sem mér fynnst fáranlegt þar sem þetta er frekar nýtt sjónvarp. Er eina leiðin að nota aðeins 32 gb af þessum flakkara til að spila í sjónvarpinu í fat32 formi ? \nog hvernig breyti ég ntfs í fat32?",
+            "date": "2013-09-01 08:38:00",
+            "post_id": "526531",
+            "reply_to_id": "526460"
+        },
+        {
+            "user_name": "DJOli",
+            "text": "Með fat32 geturðu ekki sett inn skrár stærri en 4.3gb á harða diskinn.\nHvaða tegund er sjónvarpið?.",
+            "date": "2013-09-01 10:27:00",
+            "post_id": "526543",
+            "reply_to_id": "526531"
+        },
+        {
+            "user_name": "stefhauk",
+            "text": "Þetta er philips sjónvarp",
+            "date": "2013-09-01 13:23:00",
+            "post_id": "526559",
+            "reply_to_id": "526543"
+        },
+        {
+            "user_name": "Daz",
+            "text": "?\nÉg held að þú ættir að vera örlítið nákvæmari með tegundina.",
+            "date": "2013-09-01 14:06:00",
+            "post_id": "526565",
+            "reply_to_id": "526559"
+        },
+        {
+            "user_name": "stefhauk",
+            "text": "hehe þetta er semsagt philips 42pfl3507t/12 keypt í mars á þessu ári finnst stórfurðulegt að svona nýtt tæki styðji þetta ekki.",
+            "date": "2013-09-01 16:40:00",
+            "post_id": "526594",
+            "reply_to_id": "526565"
+        }
+    ],
+    "date": "2013-08-31 17:18:00"
+}

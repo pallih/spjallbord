@@ -1,0 +1,30 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "59764",
+    "title": "Plex og vesen með indexun á \"home videos\"",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=59764",
+    "posts": [
+        {
+            "user_name": "hagur",
+            "text": "Sælir,\nÉg er búinn að vera að prófa Plex undanfarið til að geta deilt efni á milli okkar félaganna.  Þetta hefur virkað þó nokkuð vel so far, þ.e fyrir \"Movies\", \"Music\" og \"TV Shows\".\nNú er ég með tvo aðra foldera sem innihalda allskonar efni, t.d barnaefni sem er misvel flokkað og þar fram eftir götunum.  Eins annan folder sem er fullur af tónlistarmyndböndum og upptökum af tónleikum o.þ.h.  Vandamálið er að mér gengur bara alls ekkert að bæta þessum tveim folderum við library-ið hjá mér í Plex.  Ég er búinn að prófa að bæta þessu við sem \"Home videos\", sem mér skilst að eigi að höndla svona \"generic\" stöff en það bara gerist ekki neitt og þetta birtist alltaf bara tómt.  Er búinn að prófa að adda þessu líka sem \"Movies\" og \"TV shows\", búinn að prófa að velja mismunandi \"scrapers\" og hvað eina.  Held ég sé búinn að prófa allar combinationir af stillingum í viðmótinu á PMS-inum til að adda þessu inn en allt kemur fyrir ekki.  Það er bara eins og indexerinn geri bara ekki neitt.  Það kemur ekkert undir \"Activity\" flipann (eins og gerðist þegar ég addaði \"Movies\" og \"TV Shows\").  Er búinn að drepa PMS-inn og ræsa aftur og endurræsa serverinn sjálfan - allt sem mér dettur í hug.\nHvað er til ráða?  Virkja debug logging og reyna að sjá hvað er að gerast, ef það er hægt?  Einhver lent í þessu hérna og er með lausn?",
+            "date": "2014-02-15 19:21:00",
+            "post_id": "552075",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "arnif",
+            "text": "Finndu Plex Media Scanner.log fileinn í linux er hann í \"/var/lib/plexmediaserver/Library/Application\\ Support/Plex\\ Media\\ Server/Logs/Plex\\ Media\\ Scanner.log\"\nKeyrðu þessa skipun ef þú ert með serverinn í linux\ncat /var/lib/plexmediaserver/Library/Application\\ Support/Plex\\ Media\\ Server/Logs/Plex\\ Media\\ Scanner.log | grep WARN\neinhverstaðar Permission Denied ?",
+            "date": "2014-02-15 19:47:00",
+            "post_id": "552078",
+            "reply_to_id": "552075"
+        },
+        {
+            "user_name": "hagur",
+            "text": "WTF.\nÉg drap media serverinn, hreinsaði burt logginn og setti af stað aftur.  Eyddi þessum folderum úr library-inu og bætti þeim við aftur og þá bara gekk þetta eins og í sögu.\nNákvæmlega það sama og ég var búinn að gera nokkrum sinnum síðast þegar ég var að vesenast í þessu, áður en ég gafst upp á þessu.\nIt healed it self!",
+            "date": "2014-02-15 21:18:00",
+            "post_id": "552085",
+            "reply_to_id": "552078"
+        }
+    ],
+    "date": "2014-02-15 19:21:00"
+}

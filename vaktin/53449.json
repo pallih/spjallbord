@@ -1,0 +1,37 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "53449",
+    "title": "Hvernig Gigabit switch",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=53449",
+    "posts": [
+        {
+            "user_name": "vesi",
+            "text": "Þarf að fá mér gigabit switch.. 4-5 porta.. þar sem ég er allveg tómur í þessum málum.. er einthver betri en annar í þessu... og hverng þá.. \nSá þennann og eftir stutta leit og held að hann dugi mér allveg.. \nhttp://www.computer.is/vorur/5106/\neinhverjar aðrar hugmyndir.. \nbetu kv. \nVesi",
+            "date": "2013-02-16 19:33:00",
+            "post_id": "495817",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Fyrir normal consumer usage, nei ekki þannig séð, svo lengi sem hann styður Full duplex og hugsanlega auto-MDIX, sé þó ekki beint þörfina á því síðarnefnda í dag þar sem flestir útseldir ethernetkaplar eru identical. Ef það verður MIKIL traffík á öllum port er spurning um að skoða true backbone throughputtið.\nSummary; Ef þú þarft ekki core switch sem styður fleiri GBps-a throughput og VLAN/trunking þá geturu svosem keypt hvaða 1Gbit switch sem hentar þér.",
+            "date": "2013-02-16 19:42:00",
+            "post_id": "495822",
+            "reply_to_id": "495817"
+        },
+        {
+            "user_name": "vesi",
+            "text": "áttu orðabók með þessu... held að þetta þýði bara já fyrir mig \ntakk fyrir svarið.",
+            "date": "2013-02-16 19:43:00",
+            "post_id": "495823",
+            "reply_to_id": "495822"
+        },
+        {
+            "user_name": "halli7",
+            "text": "Er með svona: \nhttp://tolvutek.is/vara/trendnet-5-port ... 0g-svartur\nGerir nákvæmlega það sem hann á að gera og ég hef aldrei lent í neinu veseni með hann.",
+            "date": "2013-02-16 19:48:00",
+            "post_id": "495825",
+            "reply_to_id": "495823"
+        }
+    ],
+    "date": "2013-02-16 19:33:00"
+}

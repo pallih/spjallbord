@@ -1,0 +1,142 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "23115",
+    "title": "Tal og aðgangur að routerum",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=23115",
+    "posts": [
+        {
+            "user_name": "SteiniP",
+            "text": "Er einhver hérna sem er hjá Tal og hefur fengið þá til að opna fyrir stillingarnar á routernum?\nÉg er búinn að biðja þá nokkrum sinnum en fæ alltaf frekar vafasöm svör. \nÞeir sögðu mér að ef ég fengi aðgang, þá beri ég sjálfur ábyrgð á routernum og missi þjónustu frá þeim. Ég sagði að það væri í góðu lagi. Hann sagðist ætla að senda inn beiðni og síðan hef ég ekki heyrt meira.\nAlveg óþolandi að geta ekki opnað og lokað portum eins og mér sýnist og þurfa alltaf að gera það gegnum þriðja aðila.",
+            "date": "2009-05-12 16:09:00",
+            "post_id": "206711",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Harvest",
+            "text": "er það ekki bara:\n192.168.1.254 og svo admin, admin (í user og pass) ?",
+            "date": "2009-05-12 17:27:00",
+            "post_id": "206721",
+            "reply_to_id": "206711"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "nei það er 192.168.1.1 og svo það sem þú sagðir",
+            "date": "2009-05-12 17:30:00",
+            "post_id": "206722",
+            "reply_to_id": "206721"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Kemst ekki inná CP á þessu í gegnum http gateway né telnet.",
+            "date": "2009-05-12 17:56:00",
+            "post_id": "206725",
+            "reply_to_id": "206722"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Það ætti að vera 192.168.1.1 en það kemur bara \"page not found\"\nTal læsa routerunum sínum þannig það er bara hægt að komast inn á hann frá þeirra enda.",
+            "date": "2009-05-12 18:53:00",
+            "post_id": "206742",
+            "reply_to_id": "206725"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "kemmst inná hjá mér...\ner með P-660HW-D1",
+            "date": "2009-05-12 18:55:00",
+            "post_id": "206745",
+            "reply_to_id": "206742"
+        },
+        {
+            "user_name": "KrissiK",
+            "text": "sama hérna.. (Y)",
+            "date": "2009-05-12 20:09:00",
+            "post_id": "206752",
+            "reply_to_id": "206745"
+        },
+        {
+            "user_name": "andr1g",
+            "text": "192.168.1.1:87",
+            "date": "2009-05-12 20:13:00",
+            "post_id": "206753",
+            "reply_to_id": "206752"
+        },
+        {
+            "user_name": "bridde",
+            "text": "farðu í command prompt og Ipconfig\nsláðu svo inn default gateway töluna í Browserinn. Kemstu virkilega ekki þar inn?\nErtu tengdur við router með snúru eða Wifi? Wifi er stundum soldið leiðinlegt með þetta hjá mér.",
+            "date": "2009-05-12 20:15:00",
+            "post_id": "206756",
+            "reply_to_id": "206753"
+        },
+        {
+            "user_name": "andr1g",
+            "text": "IP Talan á routerinn er 192.168.1.1 eða 192.168.1.1:87.\nNotabene Firefox lokar á port 87.",
+            "date": "2009-05-12 20:19:00",
+            "post_id": "206757",
+            "reply_to_id": "206756"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Routerarnir frá Tal eru læstir fyrir notendur.",
+            "date": "2009-05-12 22:50:00",
+            "post_id": "206774",
+            "reply_to_id": "206757"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Hefurðu alltaf haft aðgang eða þurftirðu að biðja Tal um það sérstaklega?",
+            "date": "2009-05-12 23:46:00",
+            "post_id": "206796",
+            "reply_to_id": "206774"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Ég kemst inná minn og hef alltaf gert. Fékk router frá Hive þegar það var og hafði fullan aðgang að honum. Svo lentum við í einhverju veseni þegar við vorum búin að vera að borga fyrir 12Mb tengingu og fá einhverja 1Mb eða eitthvað í einhverja mánuði (þá var Hive orðið Tal). Fengum einhverja 6 routera og 2 tæknimenn til skiptis og enduðum með sama router og í upphafi en fengum 12Mb tenginuna.",
+            "date": "2009-05-13 00:04:00",
+            "post_id": "206798",
+            "reply_to_id": "206796"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ég var alltaf með aðgang inn á 660 routerinn þegar ég var með hann eftir stutt samtal við mann með viti í þjónustuverinu. Svo fengum við nýjann router upp á VOIP-ið, og eftir það lendi ég alltaf á e-rjum aulum sem bera því fyrir sig að það sé með öllu ómögulegt að gefa mér samband við eigin router. I call bigtime BS.",
+            "date": "2009-05-13 00:09:00",
+            "post_id": "206800",
+            "reply_to_id": "206798"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "hef alltaf verið með aðgang.",
+            "date": "2009-05-13 01:16:00",
+            "post_id": "206805",
+            "reply_to_id": "206800"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Þú hefur þá væntanlega byrjað hjá tal eða hive áður en þeir byrjuðu að læsa routerunun...\nÆtli það sé ekki bara málið að hringja nógu oft og vera nógu pirrandi þar til þeir gefa eftir.",
+            "date": "2009-05-13 23:03:00",
+            "post_id": "206911",
+            "reply_to_id": "206805"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ég held að þrjóskan þeirra sé ekki vandamálið, heldur það að krakkarnir í þjónustuverinu vita sum EKKERT í sinn haus. Ég enda í 2/3 skiptum að biðja um \"yfirmann\" eða vera sendur þangað hvort sem er, fólkið sem vinnur þarna kannast ekki við hugtök eins og NAT eða QoS.",
+            "date": "2009-05-13 23:08:00",
+            "post_id": "206912",
+            "reply_to_id": "206911"
+        },
+        {
+            "user_name": "natti",
+            "text": "Hvað í ósköpunum ætti einstaklingur í þjónustuveri fyrir internet við einstaklinga að vita eitthvað um QoS nema að viðkomandi sé sérstakur áhugamaður um networking?\nÞað er ekkert sem viðkomandi þarf að vita um QoS til að geta sinnt starfi sínu sem er þjónusta við einstaklingsmarkað.",
+            "date": "2009-05-14 09:42:00",
+            "post_id": "206938",
+            "reply_to_id": "206912"
+        },
+        {
+            "user_name": "bjartman",
+            "text": "Strákar ekki nenntuð þið sem hafið aðgang að tal/hive að segja mér helstu stillingarnar sem eru til að stilla netið, þar að setja vpi, vci, multiplexin (llc eða vc) og svo hvort það er PPPoE eða PPPoA. Held að þetta eru helstar, ef það eru einhverjar fleiri væri gaman að fá.\ntakk takk",
+            "date": "2009-05-31 00:58:00",
+            "post_id": "208064",
+            "reply_to_id": "206938"
+        }
+    ],
+    "date": "2009-05-12 16:09:00"
+}

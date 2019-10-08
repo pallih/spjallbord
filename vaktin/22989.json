@@ -1,0 +1,79 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "22989",
+    "title": "2 x Skjákort, betra en eitt?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=22989",
+    "posts": [
+        {
+            "user_name": "chaplin",
+            "text": "Hvað græðir maður á að hafa tvö skjákort í tölvunni sinni? Búinn að heyra að maður fái +50% performance, en hvernig virkar það? Tengi ég aðeins annað kortið í skjáinn, og vinnur hitt kortið bara.. án þess að vera tengt annað en í móðurborðið? Eða tengi ég bæði kortin í skjáinn? Smá aðstoð strákar..",
+            "date": "2009-05-05 02:35:00",
+            "post_id": "205840",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Tja, þú ættir í rauninni að fá 100% meira performance hefði ég haldið?\nHef persónulega aldrei notað SLI, en það virkar þannig að 2 skjákort eru brúuð og vinna saman sem eitt, og notað er til þess sérstök \"brú\" sem fer beint á milli kortanna, en ekki bara í gegnum móðurborðið sjálft. Svo deila þau 3D vinnslunni jafnt í master - slave uppsetningu.\nÞ.a.l. tengiru skjáinn bara í annað þeirra, enda hefur skjárinn sjálfur lítið að gera við 2x Input.",
+            "date": "2009-05-05 02:48:00",
+            "post_id": "205846",
+            "reply_to_id": "205840"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Okey flott, takk fyrir svarið, hef heyrt að ég þyrfti nýtt moðurborð fyrir slíkt, hvar kemst ég að því og þurfa skjákortin að vera alveg eins?",
+            "date": "2009-05-05 04:18:00",
+            "post_id": "205893",
+            "reply_to_id": "205846"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Móðurborðið þarf að styðja SLI tæknina frá Nvidia, veit ekki til þess að það séu fleiri með sambærilega tækni í boði. Kortin þurfa heldur ekki að vera eins nei, þú getur SLI-að mismunandi kort saman, svo lengi sem þau eru SLI compatible.",
+            "date": "2009-05-05 04:38:00",
+            "post_id": "205894",
+            "reply_to_id": "205893"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "http://www.slizone.com/page/home.html\n gott að skoða líka þessa síðu, þarna færðu að vita nánast allt sem þú þarft varðandi SLI",
+            "date": "2009-05-05 13:12:00",
+            "post_id": "205911",
+            "reply_to_id": "205894"
+        },
+        {
+            "user_name": "vesley",
+            "text": "ATI er með crossfire tæknina",
+            "date": "2009-05-05 13:37:00",
+            "post_id": "205916",
+            "reply_to_id": "205911"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": ".. Sem ég vissi alveg af \n Svona dettur þetta úr manni þegar maður hættir að setja saman þessar borðvélar.",
+            "date": "2009-05-05 13:53:00",
+            "post_id": "205920",
+            "reply_to_id": "205916"
+        },
+        {
+            "user_name": "vesley",
+            "text": "og já þú getur ekki SLIað mismunandi kort nema þau séu af sömu gerð s.s.  þú getur sliað tvo gtx280. en þú getur ekki SLIað gtx260 með gtx280.. það skiptir reyndar engu máli frá hvaða framleiðanda týpan af kortinu er getur alveg SLIað EVGA með XFX ef þú vilt það ..",
+            "date": "2009-05-05 14:20:00",
+            "post_id": "205928",
+            "reply_to_id": "205920"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ég er nokkuð viss um að þú getir það, svo lengi sem það er sama GPU.",
+            "date": "2009-05-05 14:45:00",
+            "post_id": "205933",
+            "reply_to_id": "205928"
+        },
+        {
+            "user_name": "vesley",
+            "text": "akkúrat það sem ég sagði þarna.. s.s. þú getur ekki SLIað 9800 með 9600. því þetta er einfaldlega ekki sama kort og þá vinna þau ekki saman.",
+            "date": "2009-05-05 19:39:00",
+            "post_id": "205958",
+            "reply_to_id": "205933"
+        }
+    ],
+    "date": "2009-05-05 02:35:00"
+}

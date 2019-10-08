@@ -1,0 +1,72 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "51256",
+    "title": "Nota VLAN switch heima fyrir Net og IPTV?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=51256",
+    "posts": [
+        {
+            "user_name": "AntiTrust",
+            "text": "Enn ein pælingin varðar heimanetworkið hjá mér.\nNota VLAN manageble sviss sem central tengipunkt fyrir allar LAN dósir hjá mér, allar dósir eru með 2x tengjum. Pælingin er að draga aðra CAT6 í allar dósir og hafa annað tengið inn á VLAN fyrir net og annað tengið fyrir VLAN fyrir IPTV. Þyrfti þá væntanlega bara L2 switch sem styður VLAN skiptingu á portum?\nE-ð sem stríðir gegn þessu eða er þetta eins auðvelt í framkvæmd og þetta er í hugsun?",
+            "date": "2012-10-30 19:25:00",
+            "post_id": "475240",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "tdog",
+            "text": "Ég er að þessu hjá mér, svínvirkar. Switchinn þarf bara að styðja IGMP.",
+            "date": "2012-10-30 19:26:00",
+            "post_id": "475241",
+            "reply_to_id": "475240"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Snilld. Forvitnsissakir, hvaða sviss ertu að nota?",
+            "date": "2012-10-30 19:30:00",
+            "post_id": "475242",
+            "reply_to_id": "475241"
+        },
+        {
+            "user_name": "tdog",
+            "text": "Gamlann Procurve 2524",
+            "date": "2012-10-30 19:35:00",
+            "post_id": "475243",
+            "reply_to_id": "475242"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Er GUI á þessum ProCurve svissum eða er þetta gert í gegnum console?",
+            "date": "2012-10-30 19:56:00",
+            "post_id": "475248",
+            "reply_to_id": "475243"
+        },
+        {
+            "user_name": "gardar",
+            "text": "console afaik (sem er bara betra \n )",
+            "date": "2012-10-30 20:01:00",
+            "post_id": "475249",
+            "reply_to_id": "475248"
+        },
+        {
+            "user_name": "tdog",
+            "text": "bæði, ég nota þó consólinn meira. fylgist með stöðunni á www",
+            "date": "2012-10-30 22:49:00",
+            "post_id": "475290",
+            "reply_to_id": "475249"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Verður að taka Layer-3 ef þú ætlar að fara í inter-vlan routing. Bara svo þú vitir það",
+            "date": "2012-10-30 23:42:00",
+            "post_id": "475306",
+            "reply_to_id": "475290"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Já vissi af því, ég þarf hinsvegar ekkert að tala á milli VLAN-a þar sem annað þeirra verður eingöngu fyrir IPTVs. Ætlaði að hafa sér segment fyrir gestanetið en routerinn er sjálfkrafa með það á öðru subneti svo það er engin þörf á slíku. \nTakk samt f. heads-upið",
+            "date": "2012-10-30 23:57:00",
+            "post_id": "475311",
+            "reply_to_id": "475306"
+        }
+    ],
+    "date": "2012-10-30 19:25:00"
+}

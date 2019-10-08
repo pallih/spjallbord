@@ -1,0 +1,107 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "36757",
+    "title": "Móðurborð móttekur ekki cpu",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=36757",
+    "posts": [
+        {
+            "user_name": "haywood",
+            "text": "Sælir, Getur einhver útskýrt fyrir mér munin á þessum 2?:\n2.6Ghz/512/800\n3.0Ghz/1M/800\nÆtlaði að skipta í 3.0 Ghz en það virkar ekki (Msi MS-6747)",
+            "date": "2011-03-03 21:00:00",
+            "post_id": "327892",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "sá seinni þarf meira rafmagn myndi ég halda.\nAnnars \nhttp://ark.intel.com\n \nleitaðu að model númerunum",
+            "date": "2011-03-03 21:19:00",
+            "post_id": "327902",
+            "reply_to_id": "327892"
+        },
+        {
+            "user_name": "haywood",
+            "text": "Þetta er munur uppá 20w\nvar búinn að reyna  að skipta áður en þá hélt ég að þau væru ekki með sama Mhz hraða\nNóg rafmagn til staðar hefði ég haldið",
+            "date": "2011-03-03 21:31:00",
+            "post_id": "327910",
+            "reply_to_id": "327902"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Móðurborðið gefur bara ákveðið mikið rafmagn til örgjörvans.\n20w er alveg nógu mikill munur til að hann virki ekki.",
+            "date": "2011-03-03 21:33:00",
+            "post_id": "327913",
+            "reply_to_id": "327910"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Gæti verið að lítil BIOS uppfærsla lagi þetta fyrir þig.",
+            "date": "2011-03-03 21:40:00",
+            "post_id": "327916",
+            "reply_to_id": "327913"
+        },
+        {
+            "user_name": "haywood",
+            "text": "Þó svo að ég fái intel skjáinn upp?",
+            "date": "2011-03-03 21:55:00",
+            "post_id": "327922",
+            "reply_to_id": "327916"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Saka ekki að prófa allavega, einnig restarta CMOS en veit ekki hversu mikið það mun hjálpa þar sem þú færð post.",
+            "date": "2011-03-03 23:19:00",
+            "post_id": "327940",
+            "reply_to_id": "327922"
+        },
+        {
+            "user_name": "haywood",
+            "text": "prófaði að restarta cmos og það skilaði engu",
+            "date": "2011-03-04 11:03:00",
+            "post_id": "328035",
+            "reply_to_id": "327940"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Ég fann bara þetta:\nhttp://www.techsupportforum.com/forums/ ... 04587.html\nEinhver annar virðist vera að gera þetta með v2,14 af BIOSnum.",
+            "date": "2011-03-04 11:15:00",
+            "post_id": "328041",
+            "reply_to_id": "328035"
+        },
+        {
+            "user_name": "Benzmann",
+            "text": "indeed",
+            "date": "2011-03-04 12:22:00",
+            "post_id": "328057",
+            "reply_to_id": "328041"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Er IDE kapall tengdur við borðið (einn eða fleiri)\nEf já prufaðu þá að taka þá úr sambandi, svona fyrst að þetta er að stoppa á intel logo-inu",
+            "date": "2011-03-04 13:01:00",
+            "post_id": "328065",
+            "reply_to_id": "328057"
+        },
+        {
+            "user_name": "haywood",
+            "text": "hafa þá bara system diskinn í sambandi?",
+            "date": "2011-03-04 13:03:00",
+            "post_id": "328067",
+            "reply_to_id": "328065"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Hafa ekkert IDE tengt í sambandi",
+            "date": "2011-03-04 13:17:00",
+            "post_id": "328069",
+            "reply_to_id": "328067"
+        },
+        {
+            "user_name": "haywood",
+            "text": "eftir að hafa tengt fram og til baka virkar Þetta cpu ekki með þessu borði(ms-6747). Hafði ekkert með psu að gera, skipti um borð í turninum þá virkaði allt.",
+            "date": "2011-03-07 16:24:00",
+            "post_id": "329046",
+            "reply_to_id": "328069"
+        }
+    ],
+    "date": "2011-03-03 21:00:00"
+}

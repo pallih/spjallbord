@@ -1,0 +1,16 @@
+{
+    "forum_title": "Windows",
+    "id": "55435",
+    "title": "USB Port cleanup",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=55435",
+    "posts": [
+        {
+            "user_name": "joishine",
+            "text": "Heyrðu hef verið að lenda í smá böggi með USB dótið mitt allt ef mig langar aðeins að víxla því o. fl\nUSB tækin sem ég er með tengd alltaf eru bara einföld\nSteelseries 6gv2 Lyklaborð\nRazer Deathadder 3.5G Mús\nLogitech Gamepad\nZ10 USB Hátalarar (tengdir í framan á USB tengið)\nVar aðeins að pæla þar sem ég á líka Steelseries Sensei RAW mús sem ég notaði áður, og er EKKERT að og mig langaði að tengja hana aftur, en þegar ég reyndi að gera það þá tengdist hún alveg allt, það kom ljósin á hana en hún hreyfðist ekki, bara sama hvað. \nPrófaði að breyta startup programs þannig að Razer Synapse var ekki að kveikja á sér heldur Steelseries Engine, samt ekkert. Prófaði svo að skella bara Deathaddernum í samband og voila, flaug í gang.\nÉg man eftir að þetta gerðist um daginn líka með akkúrat Sensei músina þannig að þegar ég aftengdi tölvuna eitthvert skiptið þurfti ég að finna nákvæmlega sama USB port sem ég hafði notað fyrir músina til að hún færi að hreyfast, again hún ljómaði af ljósum og ef ég ýtti á CPI takkann kviknaði og slökknaði á LED ljósinu þar svo allt virkaði.\nSvo ég fór í Device manager og sá að það var alveg fáranlega mikið af græjum þekkt.\nDeathadderinn var þekktur sem \"Razer Deathadeer\" og \"Razer Deathadder 3.5G Keyboard\"? Svo voru 3 Steelseries HID device o.fl o.fl - Þannig ég var að pæla hvort ég gæti einhvernveginn hreinsað allt þetta dæmi bara og restorað öllum þessum þekktu dæmum. Hafa bara í raun 4 þekkt tæki og þau fengu bara port fyrir sig.\nEða bara einhverja leið til að reyna að ná Sensei músinni inn aftur.",
+            "date": "2013-06-09 14:05:00",
+            "post_id": "514607",
+            "reply_to_id": false
+        }
+    ],
+    "date": "2013-06-09 14:05:00"
+}

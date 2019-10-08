@@ -1,0 +1,72 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "4923",
+    "title": "200gb sem 127gb",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=4923",
+    "posts": [
+        {
+            "user_name": "zaiLex",
+            "text": "Þetta vandamál hefur komið hérna upp áður á gömlum þræði en í þeim þræði var vandamálið bara ekkert leyst, en allavegana.. ég keypti mér 200gb maxtor í hugver en windows sýnir hann bara sem 127gb. Já ég er með sp1, já ég er með nýjasta bios update, já ég er búinn að nota 48-bit LBA registry update. En samt er diskurinn bara 127gb :l. Hvað á ég að gera ? Styður móbóið ekki bara diska stærri en þetta? Ég er með þetta: \nhttp://english.aopen.com.tw/products/mb/AX4BSPro.htm\n móðurborð ef þið þurfið frekari upplýsingar um það.  Það má kanski minnast á að þetta verður system diskur. \n\n\n\nGamli þráðurinn er annars hér: \nhttp://spjall.vaktin.is/viewtopic.php?t=3963",
+            "date": "2004-07-28 19:21:00",
+            "post_id": "49937",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "http://spjall.vaktin.is/viewtopic.php?t=4862",
+            "date": "2004-07-28 19:28:00",
+            "post_id": "49938",
+            "reply_to_id": "49937"
+        },
+        {
+            "user_name": "WarriorJoe",
+            "text": "Jumperinn gæti verið vitlaust stilltur.. Er á þo nokkrum diskum 1 jumper stilling sem cappar diskinn i 127 gb eða allavega eitthvað slatta minna en hann á að vera..",
+            "date": "2004-07-28 19:29:00",
+            "post_id": "49939",
+            "reply_to_id": "49938"
+        },
+        {
+            "user_name": "zaiLex",
+            "text": "Nei ég er viss um að jumperinn sé alveg rétt stilltur, það eru leiðbeingar sambandi við jumpera á disknum sjálfum, ég ætla að reyna að setja upp aftur með xp1 disk, takk fyrir svörin.",
+            "date": "2004-07-28 19:59:00",
+            "post_id": "49943",
+            "reply_to_id": "49939"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "zailex: þetta er ekki þetta hjá voffanum fyrst þetta er 127gb.. minn samsung kom líka svona.. ég hringdi í start og þeir sögðu mér að gera nákvæmlega sama og í þráðnum sem voffinn bendti á .. endaði með að ég senti hann í start ( er útá land ) og þeir gerðu við hann ... ég forvitnaðist auðvitað til að spurja þá hvað hefði verið að og hvða þeir gerðu.. þetta var diskurinn sem var bókstaflega ónýtur.. eða gallaður.. en þeir skiptu bara disknum út..",
+            "date": "2004-07-28 20:08:00",
+            "post_id": "49945",
+            "reply_to_id": "49943"
+        },
+        {
+            "user_name": "zaiLex",
+            "text": "Jebb ok. Ég ætla samt að prófa að setja hann upp á sp1 disk til að vera 100% viss \n. Ef það virkar ekki þá tala ég við Hugver.",
+            "date": "2004-07-28 23:16:00",
+            "post_id": "49969",
+            "reply_to_id": "49945"
+        },
+        {
+            "user_name": "fallen",
+            "text": "Það eru jumperar sem cappa diska í 32 gb.\n\n\n\nAnnars, ertu viss um að diskurinn sé ekki stilltur sem dynamic ? (hægrismell á my cpu > manage > disk management) sér það þar.\n\nEf hann er þannig þá þarftu að deleta partitioninu og breyta honum í basic, hægrismellir á \"DISK 0/1/2\" (stendur fyrir neðan basic/dynamic, stærð á disknum og hvort hann sé í gangi, online/offline)",
+            "date": "2004-07-29 00:32:00",
+            "post_id": "49976",
+            "reply_to_id": "49969"
+        },
+        {
+            "user_name": "gumol",
+            "text": "127 GB = 136.000.000.000 B (ca.)",
+            "date": "2004-07-29 21:35:00",
+            "post_id": "50075",
+            "reply_to_id": "49976"
+        },
+        {
+            "user_name": "zaiLex",
+            "text": "Jamm hann er í basic og er alltaf búinn að vera svoleiðis",
+            "date": "2004-07-31 14:27:00",
+            "post_id": "50318",
+            "reply_to_id": "50075"
+        }
+    ],
+    "date": "2004-07-28 19:21:00"
+}

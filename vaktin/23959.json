@@ -1,0 +1,100 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "23959",
+    "title": "SLI ?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=23959",
+    "posts": [
+        {
+            "user_name": "armann",
+            "text": "Hef aldrei sett upp SLI.\nVerð ég ekki að hafa tvö nákvæmlega eins skjákort ?\nEða er nóg að vera með tvö 8800GTS kort, skiptir framleiðandinn máli ?\nThx.",
+            "date": "2009-07-21 01:35:00",
+            "post_id": "212118",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "vesley",
+            "text": "nóg að vera með 2 8800 gts  . minnir að þú getur SLI-að 320 mb með 640 .. veit ekki með 512 mb .. framleiðandi skiptir ekki máli",
+            "date": "2009-07-21 02:52:00",
+            "post_id": "212119",
+            "reply_to_id": "212118"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Var einmitt að lesa um þetta á nVidia síðunni fyrir stuttu.\nEf þú SLI-ar 8800gts 320mb við 640mb þá verður stærra kortið túnað niður í að nota bara 320mb.\nhttp://www.slizone.com/page/slizone_faq.htm",
+            "date": "2009-07-21 06:03:00",
+            "post_id": "212120",
+            "reply_to_id": "212119"
+        },
+        {
+            "user_name": "armann",
+            "text": "Snilld takk fyrir svörin \nNúna er bara að finna 8800GTS kort..",
+            "date": "2009-07-21 09:21:00",
+            "post_id": "212127",
+            "reply_to_id": "212120"
+        },
+        {
+            "user_name": "armann",
+            "text": "Fannst þetta svolítið áhugavert.\nhttp://www.slizone.com/docs/IO/72518/SLI-Optimize.jpg\nHélt maður græddi meira á því að uppfæra CPU í sambandi við FPS.",
+            "date": "2009-07-21 09:26:00",
+            "post_id": "212128",
+            "reply_to_id": "212127"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Haha nei, því miður er það ekki svo.\nÞú uppfærir bara CPU ef þú heldur að það sé orðið bottleneck fyrir skjákortið, annars skiptir það ENGU máli",
+            "date": "2009-07-27 00:30:00",
+            "post_id": "212744",
+            "reply_to_id": "212128"
+        },
+        {
+            "user_name": "armann",
+            "text": "Veistu eða vitið þið um eitthvað \"chart\" sem segir t.d, til að keyra GTX 260 eða 4870 X2 kort þarftu að hafa minnst þennan örgjörva ?",
+            "date": "2009-07-27 00:41:00",
+            "post_id": "212747",
+            "reply_to_id": "212744"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Því miður nei.\nVegna þess þetta er svo mismunandi eftir leikjum.\nSvo fer þetta eftir því hvort leikirnir ná að utiliza alla kjarna eins og t.d. Quad-Core.\nÞá myndi náttlega örgjörvar eins og E8500 og E8600 ekki duga í það ef leikurinn myndi styðjast við það.\nÍ rauninni ástæðan fyrir því að ekki sé til chart, svo rosalega mismunandi eftir leikjum.\nGoogle hefur alltaf virkað fyrir mig hingað til og bæta svo bara nafnið á leiknum aftaná \nP.S. Klukkuninn á örran skiptir mestu máli uppá performance í leikjum, flýtiminnið segir nánast ekkert.\nSvo að það er algengt að fólk sé að keyra klukkaðan Q6600 (3.3-3.4ghz) því hann á nánast aldrei að vera bottleneck fyrir GPU.",
+            "date": "2009-07-27 00:47:00",
+            "post_id": "212750",
+            "reply_to_id": "212747"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Meinarðu þá chart sem að segir ef þú ert með GTX 260 þá bottleneckar það: X B D C G?\nHvernig sem að ég ýminda mér þetta chart þá fæ ég alltaf upp mörghundruð klukkutíma vinnu  \n , svo að ég efast um tilvist chartsins.",
+            "date": "2009-07-27 00:48:00",
+            "post_id": "212751",
+            "reply_to_id": "212750"
+        },
+        {
+            "user_name": "armann",
+            "text": "Flottur, ég er svo heimskur í sambandi við leiki, eru einhverjir leikir sem nýta Quad örgjörva, eru flestir ekki forritaðir fyrir Duo ?",
+            "date": "2009-07-27 00:59:00",
+            "post_id": "212755",
+            "reply_to_id": "212751"
+        },
+        {
+            "user_name": "armann",
+            "text": "Hehe já hugsaði þetta ekki alveg til enda",
+            "date": "2009-07-27 01:00:00",
+            "post_id": "212756",
+            "reply_to_id": "212755"
+        },
+        {
+            "user_name": "Orri",
+            "text": "Gæti þá verið að stock Q6600 örgjörvinn minn sé að bottleneck fyrir 4870 1GB kortið mitt ? Ef svo er, er hægt að yfirklukka hann eitthvað á stock kælingunni ?",
+            "date": "2009-07-27 02:06:00",
+            "post_id": "212759",
+            "reply_to_id": "212756"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Hann er líklega svoldill flöskuháls á 2.4GHz, sérstaklega í leikjum sem nýta ekki 4 kjarna.\nÆttir að geta klukkað hann eitthvað á stock kælingunni, það er ekki fyrr en þú ferð að hækka voltin sem hitinn fer að hækka að ráði. En ég kom mínum upp í 3GHz á stock vcore.",
+            "date": "2009-07-27 03:09:00",
+            "post_id": "212760",
+            "reply_to_id": "212759"
+        }
+    ],
+    "date": "2009-07-21 01:35:00"
+}

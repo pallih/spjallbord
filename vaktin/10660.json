@@ -1,0 +1,205 @@
+{
+    "forum_title": "Framtíð og þróun",
+    "id": "10660",
+    "title": "Conroe @ 2.4GHz",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=35&t=10660",
+    "posts": [
+        {
+            "user_name": "kristjanm",
+            "text": "Þetta er Conroe á 2.4GHz/1066MHz FSB/4MB L2 Cache.\n\n\n\nÖrgjörvinn er ekkert overclockaður og keyrður á DDR2 minni með 4-4-4-12@667MHz timings, en Conroe styður DDR800. Einnig er BIOSinn á borðinu mjög lélegur og betri niðurstöður ættu að fást með öflugra minni (3-2-2-8?).\n\n\n\nhttp://www.xtremesystems.org/forums/sho ... hp?t=95021\n\n\n\n\nAMD verða í vandræðum þegar þessi kemur út, en það verður í Júní/Júlí á þessu ári. AMD fara að gefa út nýtt socket, AM2, með DDR2 stuðningi, en það mun ekki gefa þeim næga hraðaaukningu til að eiga séns í Conroe.\n\n\n\nhttp://www.anandtech.com/cpuchipsets/sh ... spx?i=2741",
+            "date": "2006-04-20 15:30:00",
+            "post_id": "116493",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gnarr",
+            "text": "ég hef nú aldrei heyrt annað en \"Late Q3 or Q4\" sem launch date á conroe. það er allavega nokkuð bókað mál að hann er ekki að koma út í júní/júlí.",
+            "date": "2006-04-20 16:28:00",
+            "post_id": "116497",
+            "reply_to_id": "116493"
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "http://www.xtremesystems.org/forums/sho ... hp?t=96809",
+            "date": "2006-04-20 17:16:00",
+            "post_id": "116501",
+            "reply_to_id": "116497"
+        },
+        {
+            "user_name": "wICE_man",
+            "text": "Athugaðu að þetta þýðir að einhverjir, t.d. Dell eru búnir að borga fyrir slatta af þeim þá, það þýðir ekki að þeir komi út á sama tíma. September-október er það sem flestir eru að segja núna.\n\n\n\nIntel koma til með að gefa út 2.67GHz Conroe til að byrja með og eru að vonast til að geta gefið út takmarkað magn af Extreme edition á 3GHz þó að það sé að mínu mati hæpið fyrr en seint á 1H06, þar sem þetta er algjörlega ný hönnun og mikið sem á eftir að gera til að geta aukið klukkutíðnina.\n\n\n\n2.67GHz conroe er u.þ.b 20% hraðari en 2.8GHz Athlon64 X2, flest bendir til þess að AM2 gjörvarnir endi með að vera 5-7% hraðvirkari en S939, það er hæpið en þó mögulegt að AMD geti komið með 3GHz X2 fyrir þann tíma.\n\n\n\nÞað þýðir að Conroe hefði 5-12% forskot sem verður að teljast gott en það verður ekki framleitt mikið af þeim á þessu ári svo að lang flestir örgjörvar sem verða seldir verða ennþá P4 og Athlon64. Það verða hins vegar slatta miklar verðlækkanir þegar að Intel reynir að koma út birgðum sínum af Presler og Cedar Mill gjörvunum sínum og AMD neyðist til að svara í sömu mynt, þ.a. það verður gaman í haust hvernig sem á það er litið.",
+            "date": "2006-04-21 10:50:00",
+            "post_id": "116545",
+            "reply_to_id": "116501"
+        },
+        {
+            "user_name": "Gestir",
+            "text": "Who gives a rats ... \n\n\n\n\nÞetta á eftir að kosta of mikið og vera of lítið plús þannig að anda rólega til að byrja með.\n\n\n\nég ætla að leyfa 3700 að lifa í amk 1- 1.5 ár í viðbót.\n\n\n\ná alltaf eftir að láta Gunna tjúna gaurinn í 2.7GHZ",
+            "date": "2006-04-21 15:09:00",
+            "post_id": "116576",
+            "reply_to_id": "116545"
+        },
+        {
+            "user_name": "wICE_man",
+            "text": "Ég læt mér annt um þessa þróun því að þetta er ein af fáum bitastæðum framförum á þessu sviði á síðustu 3 árum og mun setja pressu á AMD sem ætla að svara með K8L á næsta ári sem mun bæta fleytitölureikningsafköst til muna auk annara endurbóta og Intel mun þá svara með því að tvíka Conroe enn betur og þannig græða allir, sérstaklega tölvufíklar",
+            "date": "2006-04-21 16:35:00",
+            "post_id": "116584",
+            "reply_to_id": "116576"
+        },
+        {
+            "user_name": "zaiLex",
+            "text": "hvað er svo hitinn á þessu og er eitthvað hægt að overclocka þetta af viti?",
+            "date": "2006-04-22 19:11:00",
+            "post_id": "116739",
+            "reply_to_id": "116584"
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "Conroe á eftir að hafa meira en einhverra 12% forskot á þessu ári.\n\n\n\nAMD hafa ekkert á leiðinni nema kannski FX-62 með DDR2, sem á eftir að kosta hvað, 100 þúsund kall á Íslandi? AMD X2 á 2.8GHz á ekki séns í 2.66GHz Conroe, eins og var sannað í Mars. \nhttp://www.anandtech.com/tradeshows/showdoc.aspx?i=2713\n\n\n\n\nÞetta eru ekki áreiðanlegustu mælingar í heimi en ég efa að Intel hafi verið að svindla.\n\n\n\nConroe E6700/2.66GHz á að kosta 530$ held ég þegar hann kemur út, mun ódýrari en FX-62. Þó held ég að 2.4GHz útgáfan verði vinsælli.\n\n\n\nEkki gleyma því að Conroe mun líka nota minna rafmagn en A64 X2 örgjörvarnir.",
+            "date": "2006-04-26 09:04:00",
+            "post_id": "117332",
+            "reply_to_id": "116739"
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "Það er ekki enn vitað hversu vel Conroe overclockast þar sem að það eru ekki til nein almennileg móðurborð sem styðja hann.",
+            "date": "2006-04-26 09:05:00",
+            "post_id": "117333",
+            "reply_to_id": "117332"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "ekki til nein móðurborð... hann er ekki sjálfur til  \n  eina sem er til núna eru prerelease beta eintök. það er þannig séð engin leið að segja til um hversu vel hann mun yfirklukkast.",
+            "date": "2006-04-26 09:40:00",
+            "post_id": "117337",
+            "reply_to_id": "117333"
+        },
+        {
+            "user_name": "wICE_man",
+            "text": "Í enda ársins segir Intel að Conroe verði orðin 10% af heildarframleiðslu þeirra svo að það mun líklega verða erfitt að fá þessa örgjörva á þessu ári.\n\n\n\nÉg verð samt að viðurkenna að mér finnst skrítið að þeir skuli ekki fara hraðar yfir í framleiðslu á Conroe en þeir hafa hingað látið nýjustu línurnar taka nánast umsvifalaust við af eldri. Það gæti þó verið að þeir væru að beyta flóknari framleiðslutækni og að aðeins fáar af verksmiðjum þeirra styðji þá tækni eins og staðan er í dag.\n\n\n\nÞað verður gaman að sjá hvernig AMD bregst við, í augnablikinu virðast þeir sallarólegir og fljóta sofandi að feigðarósi, en þeir hljóta nú að vera að naga neglurnar og skrafa bak við luktar dyr, það er nefnilega Retail markaðurinn sem á eftir að taka best við Conroe örgjörvunum og það er einmitt þar sem stærsti markaður AMD er.\n\n\n\nEn eins og með allt annað í tölvuheiminum þá kemur þetta í ljós þegar að þar að kemur.",
+            "date": "2006-04-26 10:37:00",
+            "post_id": "117342",
+            "reply_to_id": "117337"
+        },
+        {
+            "user_name": "hahallur",
+            "text": "Auuuuuuuu.... djöfull er þetta geðveikt .... end of AMD",
+            "date": "2006-04-26 13:13:00",
+            "post_id": "117350",
+            "reply_to_id": "117342"
+        },
+        {
+            "user_name": "zedro",
+            "text": "U wish  \n\n\n\n\nÉg læt minn 1ára AMD64 3500+ NewCastle duga mér í 1-2 ár í viðbót amk.",
+            "date": "2006-04-26 14:09:00",
+            "post_id": "117358",
+            "reply_to_id": "117350"
+        },
+        {
+            "user_name": "@Arinn@",
+            "text": "Ef þessi örgjörvi klukkast vel verður þetta þá ekki bara algjör snilld ?",
+            "date": "2006-04-26 14:12:00",
+            "post_id": "117360",
+            "reply_to_id": "117358"
+        },
+        {
+            "user_name": "Veit Ekki",
+            "text": "Það segir sig nú eiginlega sjálft.",
+            "date": "2006-04-26 14:18:00",
+            "post_id": "117362",
+            "reply_to_id": "117360"
+        },
+        {
+            "user_name": "hahallur",
+            "text": "Hann er snilld sama þótt það sé ekki hægt að yfirklukka hann mikið, en 65nm, segir það sig ekki sjálft.\n\n\n\n2.4 ghz 21 sek PI 1 m \n\n\n\nAMD er að gera það sama og varð Intel að falli, fara í DDR2 í staðinn fyrir að koma með glænýtt stuff.",
+            "date": "2006-04-26 14:48:00",
+            "post_id": "117371",
+            "reply_to_id": "117362"
+        },
+        {
+            "user_name": "ICM",
+            "text": "DDR er ennþá alveg nógu hratt fyrir AMD enda HyperTransport mun þróaðara en það gamadags dót sem Intel hefur uppá að bjóða.\n\n\n\nAfhverju AMD þarf DDR2  \n Mikið til í þessu.\n\nhttp://www.theinquirer.net/?article=31269",
+            "date": "2006-04-26 18:21:00",
+            "post_id": "117404",
+            "reply_to_id": "117371"
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "AMD mun þurfa á DDR2 bandvíddinni að halda einhvern tíma þegar þeir gefa út hraðvirkari örgjörva.",
+            "date": "2006-04-26 19:46:00",
+            "post_id": "117414",
+            "reply_to_id": "117404"
+        },
+        {
+            "user_name": "wICE_man",
+            "text": "DDR2 hefur þann kost að það hefur möguleika á að vera helmingi stærra en DDR án vandræða, þannig er hægt að fá 2GB DDR2 modulur en bara 1GB DDR á almennum markaði. DDR2-667 er komið aðeins fram ú DDR400 í afköstum og AM2 örgjörvarnir munu styðja DDR2-800 og það er nákvæmlega það sem þeir sögðust ætla að gera fyrir ári síðan, þ.e. að færa sig yfir á DDR2 þegar það væri orðið hagkvæmt.\n\n\n\nAMD er þegar búið að sýna fram á 1-7% hraðaaukningu með DDR2-800 sem er kannski ekki mikið en þeir eiga sjálfsagt eftir að gefa út eina til tvær endurbætur og það gæti komið því upp í 5-10%, þeir eru bara rétt að byrja að tweaka DDR2 minnisstýringuna svo það er aldrei að vita nema þeim takist að ná að kreysta meir út. En DDR2 er hraðvirkara en DDR bara ekki jafn mikið og klukkuhraðinn gefur til kynna.",
+            "date": "2006-04-27 09:07:00",
+            "post_id": "117470",
+            "reply_to_id": "117414"
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "Ég efa að AMD eigi eftir að tweaka AM2 örgjörvana mikið meira enda er minna en mánuður í að þeir komi út.\n\n\n\nKannski að nýju nForce kubbasettin verði eitthvað öflugri, annars veit ég ekki.",
+            "date": "2006-04-27 10:28:00",
+            "post_id": "117482",
+            "reply_to_id": "117470"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "kristjanm: það er búið að vera að tweaka DDR minnisstýringuna í hverri einustu útgáfu af A64. Afhverju ættu þeir ekki að gera það við DDR2 minnisstýringuna?",
+            "date": "2006-04-27 10:50:00",
+            "post_id": "117487",
+            "reply_to_id": "117482"
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "Ég er að meina að örgjörvarnir eigi varla eftir að breytast mikið áður en þeir koma út.\n\n\n\nhttp://www.anandtech.com/cpuchipsets/sh ... spx?i=2741\n\n\n\n\nÞað breytist varla mikið á einum mánuði.",
+            "date": "2006-04-27 12:05:00",
+            "post_id": "117498",
+            "reply_to_id": "117487"
+        },
+        {
+            "user_name": "wICE_man",
+            "text": "Ég var líka að tala um þangað til að Conroe kemur út, sem verður í haust.",
+            "date": "2006-04-27 17:33:00",
+            "post_id": "117528",
+            "reply_to_id": "117498"
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "Intel á líka eftir að tweaka Conroe.",
+            "date": "2006-04-27 19:01:00",
+            "post_id": "117540",
+            "reply_to_id": "117528"
+        },
+        {
+            "user_name": "wICE_man",
+            "text": "Efalítið, en vandræðin með afköstin á AM2 eru í minnisstýringunni, Intel eru aftur á móti með þaulreynda minnisstýringu þar sem lítið rými er til endurbóta. Hins vegar er spurningin hvort að Intel eigi ekki eftir að tweaka t.d. því hvernig örgjörvinn skiptir upp þráðunum þar sem þeir eru að nota hönnun sem vinnur úr 4 skipunum í einu frekar en 3 eins og AMD notar, þar er þörf fyrir mjög snjalla stýringu á því hvernig örgjörvinn vinnur úr skipununum, Intel virðist hafa hitt naglann á höfuðið þarna en það gæti þó verið rúm fyrir enn frekari afkasta-aukningu. Það eru aftur á móti meiri getgátur að minni hálfu en raunveruleiki. Hins vegar er næsta víst að AMD eiga nokkuð í land með að fullþróa DDR2 minnisstýringuna sína enda hafa menn séð miklar beturumbætur þar á síðustu 2-3 mánuðunum og er mjög líklegt að við eigum eftir að sjá kannski annað eins á næsta hálfa árinu.\n\n\n\nÞað er hins vegar mikið sem AMD þarf að gera ef þeir ætla að ná að halda haus í haust enda verður Athlon64 arkitektúrinn 3 ára um svipað leiti og Conroe kemur út. Það er merkilegt til þess að hugsa hvað þróunin hefur verið hæg á örgjörvamarkaðnum síðustu árin. Reyndar er Dual-core byltingin sennilega eitt mesta stökk í afkastaaukningu örgjörva frá upphafi þó hönnunar breytingin sem slík hafi verið afar smávægileg.",
+            "date": "2006-04-28 11:37:00",
+            "post_id": "117595",
+            "reply_to_id": "117540"
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "Það má vel vera að þeir eigi eftir að bæta minnisstýringuna eitthvað, en málið er að örgjörvinn þarf ekki á þessari bandvídd að halda svo að hún mun ekki gera mikið gagn.\n\n\n\nBtw ég er alls ekki að dissa A64, á sjálfur A64 örgjörva. En staðreyndin er sú að Intel eiga eftir að valta yfir AMD með Conroe.\n\n\n\nAMD munu gefa út 65nm AM2 örgjörva í Q1 2007, kannski að staðan jafnist þá eitthvað. En A64 á eftir að þurfa alveg hrikalegan klukkuhraða til að geta staðist samkeppni við Conroe.\n\n\n\nOg já dual-core örgjörvar eru stálið, bara verst að það vantar fleiri forrit sem nýta þá.",
+            "date": "2006-04-28 12:36:00",
+            "post_id": "117602",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "wICE_man",
+            "text": "Svo virðist sem að AMD séu á leiðinni með hönnun sem ætti að jafna leikinn: \n\n\n\nhttp://www.techreport.com/onearticle.x/9987\n\n\n\n\nEf að þeim tekst vel til með þetta þá ættu þeir að geta gefið Intel góða samkeppni, ég er eiginlega hálf fúll út í Intel fyrir að hafa beðið svona lengi með að skipta um Örgjörvahönnun enda verður núna loksins hægt að sjá alvöru afkastaaukningu og alvöru samkeppn. Ég vona að bæði Intel og AMD takist að standa við áætlanir sínar, það ætti að hrista upp í örgjörvamarkaðnum fyrir alvöru.\n\n\n\nÞessi hönnun á að koma snemma árið 2007 en eins og greinarhöfundur minnist á þá vitum við öll hvernig þessir hlutir eru, þanig að fyrri helmingur 2007 er sennilega nákvæmara. Annars er ég hissa á hversu snöggir þeir ætla að vera með þetta þar sem að það er rétt mánuður frá því að maður fór að heyra fyrir alvöru um K8L hönnunina.",
+            "date": "2006-05-18 12:45:00",
+            "post_id": "119569",
+            "reply_to_id": "117602"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "vá! ef þeim tekst að koma öllu þessu í einn kubb, þá munu þeir svoleiðis rústa core! Annars er ég að vona að sögurnar um að PCI-e verði innbyggt líka standist. þá erum við að tala um ekkert latency milli skjákorta og vinsluminnis.",
+            "date": "2006-05-18 13:12:00",
+            "post_id": "119574",
+            "reply_to_id": "119569"
+        }
+    ],
+    "date": "2006-04-28 12:36:00"
+}

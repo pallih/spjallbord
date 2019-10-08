@@ -1,0 +1,93 @@
+{
+    "forum_title": "Windows",
+    "id": "24388",
+    "title": "Efni þurkast út",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=24388",
+    "posts": [
+        {
+            "user_name": "colac",
+            "text": "Er með W 7 og þegar ég addaði tónlist og ljósmyndum í Windows media playerinn þurkaðist allt út.\nKannast einhver við svona uppákomu ?",
+            "date": "2009-08-16 12:17:00",
+            "post_id": "214807",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "ha? þurrkaðist hvað út?",
+            "date": "2009-08-16 12:48:00",
+            "post_id": "214813",
+            "reply_to_id": "214807"
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "Já hvað segiru, hvaða version ?",
+            "date": "2009-08-16 13:15:00",
+            "post_id": "214817",
+            "reply_to_id": "214813"
+        },
+        {
+            "user_name": "colac",
+            "text": "Já allt sem ég var búinn að adda to library þurkaðist alveg út úr tölvunni, og ég þurfti að sækja efnið aftur með power data recovery\nMan ekki hvaða version af mplayer en það er nýjasti. (er ekki inn í w7 akkúrat núna)",
+            "date": "2009-08-16 13:28:00",
+            "post_id": "214818",
+            "reply_to_id": "214817"
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "version af windows 7???",
+            "date": "2009-08-16 16:02:00",
+            "post_id": "214827",
+            "reply_to_id": "214818"
+        },
+        {
+            "user_name": "colac",
+            "text": "windows 7100 líklega ekki nógu nákvæmt eða hvað ?",
+            "date": "2009-08-16 18:03:00",
+            "post_id": "214861",
+            "reply_to_id": "214827"
+        },
+        {
+            "user_name": "colac",
+            "text": "playerinn er version 12.0.7100.0  opnaði hann í fyrsta skipti núna eftir þetta áfall og library er auðvitað tómt, þarf að prófa aftur og sjá hvað skeður",
+            "date": "2009-08-16 18:19:00",
+            "post_id": "214865",
+            "reply_to_id": "214861"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Prufaðu options-> Library og taktu hakið úr \"Delete Files from computer when deleted from library\"",
+            "date": "2009-08-16 19:38:00",
+            "post_id": "214889",
+            "reply_to_id": "214865"
+        },
+        {
+            "user_name": "colac",
+            "text": "hakið er ekki í, enda var ég svo sem ekki að eyða neinu úr library",
+            "date": "2009-08-16 20:28:00",
+            "post_id": "214903",
+            "reply_to_id": "214889"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Ég er búinn að nota þennan media player í allt nema HD bíómyndir (mplayer classic í það) og ljósmyndir. Tékkaði reyndar og sá að allar ljósmyndirnar mínar eru í library. Eitthvað auto dæmi bara.\nÉg hef aldrei lent í neinu svona veseni eins og þú ert búinn að lýsa. Er með Windows 7 64bit RC Ver. 7100 og WMP 12.0.7100.0. Búinn að nota W7 síðan í mars og RC-ið síðan það kom út.",
+            "date": "2009-08-16 21:16:00",
+            "post_id": "214913",
+            "reply_to_id": "214903"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Bara svona til að vera leiðinlegur þá er windows media player og mplayer ekki sami hluturinn.",
+            "date": "2009-08-16 21:37:00",
+            "post_id": "214920",
+            "reply_to_id": "214913"
+        },
+        {
+            "user_name": "KrissiK",
+            "text": "hann er að meina Windows Media Player..",
+            "date": "2009-08-16 22:17:00",
+            "post_id": "214934",
+            "reply_to_id": "214920"
+        }
+    ],
+    "date": "2009-08-16 12:17:00"
+}

@@ -1,0 +1,86 @@
+{
+    "forum_title": "Símar, fartölvur, myndavélar og önnur farandstæki",
+    "id": "66389",
+    "title": "Galaxy S6 - update brickaði símann!",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=26&t=66389",
+    "posts": [
+        {
+            "user_name": "Danni V8",
+            "text": "Hjálp! Ég er at a loss hérna. \nÞað kom notification um að það væri komið nýtt software update og að það væri búið að downloadast, svo ég fór bara beint í að setja upp.\nSíminn restartar sér, klára Installing barinn í 100%, restartar sér aftur en startar sér ekki lengur. Kemur hljóðið, og svo samsung logoið og punkta animationið í kringum það. Er þannig í svona 1 til 1 og hálfa mínútu og svo restartar hann sér aftur.\nEftir að hann gerði þetta í hálftíma prófaði ég að halda inni power takkanum en ekkert gerist.\nOg þar sem það er ekki hægt að taka bakhliðina af og batteríið úr þá get ég ekkert gert nema læsa símann inní bíl eða eitthvað þangað til hann verður rafmagnslaus svo ég nái nú að sofna fyrir þessum endalausu restarts.\nEr eitthvað annað sem ég get gert? Hann er ekki rootaður og ég hef aldrei reynt þannig. Keyptur fyrir 1 og hálfum mánuði hjá Símanum á Akureyri.",
+            "date": "2015-07-31 23:38:00",
+            "post_id": "603270",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Olli",
+            "text": "Halda inni volume down takka + power hefur yfirleitt virkað sem reset á þessum tækjum, annars veit ég ekki",
+            "date": "2015-07-31 23:41:00",
+            "post_id": "603271",
+            "reply_to_id": "603270"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Prófaði þetta, hann restartaði sér bara aftur í restart loopið. \nEr búinn að googla restart loop og finn upplýsingar um leiðir til að laga þetta, en allar segja að slökkva á símanum og síðan halda inni Volume Up + Home + Power þangað hann víbrar/sýnir model númerið á skjánum og þá sleppa power. Þá er maður kominn í recovery mode og ég get prófað eitthvað þar.\nEn, ég get ekki slökkt svo ég kemst ekki í recovery mode. Er búinn að prófa að ýta á þessa takka án þess að slökkva og það gerir ekkert.\nVerð alveg properly pissed ef ég þarf að reseta símann og glata öllu inná honum. Keypti 128gb útgáfuna for a reason og var í þokkabót svo ánægður þegar ég gat notað NFC til að færa allt úr gamla S5 yfir í þennan.. SMS history, contacts, apps.. you name it.",
+            "date": "2015-08-01 00:03:00",
+            "post_id": "603272",
+            "reply_to_id": "603271"
+        },
+        {
+            "user_name": "nidur",
+            "text": "Ég setti inn þessa uppfærslu í gær án vandræða, er ekki að sjá neitt á google um svipuð vandræði.\nGætir prufað þetta með að klára rafmagnið á honum til að fara í recovery mode, til að halda inni gögnunum þínum.",
+            "date": "2015-08-01 12:13:00",
+            "post_id": "603289",
+            "reply_to_id": "603272"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Komst í recovery mode og prófaði að gera wipe cavhe partition eða eitthvað þannig sem var mælt með á einni síðunni en það virkaði ekki svo ég neyddist til að gera factory restart og það virkaði.\nEina sem mér dettur í hug er að update filearnir hafi curruptast við að fara á milli wifi og 4g, en ég var á miklu flakki allan tímann  sem síminn hefur verið að ná í uppfærsluna.",
+            "date": "2015-08-01 20:51:00",
+            "post_id": "603314",
+            "reply_to_id": "603289"
+        },
+        {
+            "user_name": "Tesy",
+            "text": "Allir að fá updates nema ég :S Er ennþá að keyra á 5.0.2.. Fólk byrjuðu að fá 5.1/5.1.1 í byrjun júní og nú er ágúst, FML.",
+            "date": "2015-08-01 21:54:00",
+            "post_id": "603317",
+            "reply_to_id": "603314"
+        },
+        {
+            "user_name": "nidur",
+            "text": "Ég er kominn upp í 5.1.1\nHef ekki lent í því sama og er að finna á þessum þræði samt\nhttp://news.softpedia.com/news/how-andr ... 6645.shtml",
+            "date": "2015-08-01 22:39:00",
+            "post_id": "603321",
+            "reply_to_id": "603317"
+        },
+        {
+            "user_name": "audiophile",
+            "text": "Ég lenti ekki í veseni með 5.1.1 uppfærsluna en það var að koma önnur 240mb uppfærsla sem ég er að keyra núna. Sjáum hvað gerist",
+            "date": "2015-08-02 10:08:00",
+            "post_id": "603339",
+            "reply_to_id": "603321"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Komið notification um annað update...\nÁ ég að þora að taka sénsinn?",
+            "date": "2015-09-19 01:30:00",
+            "post_id": "606916",
+            "reply_to_id": "603339"
+        },
+        {
+            "user_name": "DJOli",
+            "text": "Já, gerðu það, en stilltu svo símann á að update-a ekki nema að þú sért á wifi, eða hundsa uppfærslur nema þú sért á pottþéttum stað, t.d. heima.\nÉg er með S6 og hef ekki lent í neinu veseni.\n32gb útgáfan er samt glæsilegt tæki.",
+            "date": "2015-09-19 02:29:00",
+            "post_id": "606924",
+            "reply_to_id": "606916"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Hehehe setti uppfærsluna af stað um leið og ég póstaði þessu, sofnaði síðan á meðan hún var í gangi.\nSíminn var allavega í lagi þegar ég vaknaði",
+            "date": "2015-09-19 12:15:00",
+            "post_id": "606935",
+            "reply_to_id": "606924"
+        }
+    ],
+    "date": "2015-07-31 23:38:00"
+}

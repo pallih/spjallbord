@@ -1,0 +1,247 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "27642",
+    "title": "Vandamálið með SSD diska án TRIM",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=27642",
+    "posts": [
+        {
+            "user_name": "Stuffz",
+            "text": "hérna er góð grein um þetta á ensku\nhttp://icrontic.com/forum/showthread.php?t=86440\nen einfaldlega þá er vandamálið með SDD diska það að þeir eru hraðir bara fyrst á meðan þeir eru tómir afþví þeir eyða í raun ekki gögnum út þegar maður gerir Delete eins og venjulegir harðir diskar svo að þegar maður er búinn að setja inná t.d. 120gb SSD disk samtals 120gb af gögnum þá er hann ekki lengur að virka eins hratt eins og þegar hann kom úr umbúðunum, í greininni nefnir höfundurinn að diskurinn geti í versta falli verið að gera aðgerð sem samsvarar færslu á 20gb af efni bara fyrir 1 gb af efni en nánar um það í greininni.\nlíka þar sem SSD eru ekki einsog venjulegir harðir diskar þá er t.d. það að defragmenta drifið frekar slæmt en gott fyrir þá, og það er ekki mælt með því.\nTRIM tæknin sem er ný í Windows7 er einmitt til þess fallin að tækla þetta vandamál en það eru ekki allir SSD diskar sem styðja þessa skipun svo þessvegna er ég að skrifa þennan póst svo að þeir sem eru að spá í að fá sér SSD disk í tölvuna tékki hvort hann styðji TRIM tæknina eða ekki )þeir þurfa ekki að vera dýrari), jafnvel þótt maður sé ekki með Windows7 ennþá þá er sú einfalda staðreynd að microsoft notar bara TRIM í windows7 en ekki XP eða vista bara til þess fallin að efað maður ætlar að nýta sér hámarks afköst SSD drifs án þess að þurfa að endurformata það á nokkurra mánaða fresti þá er TRIM nauðsynlegt. skilst að engin önnur stýrikerfi styðji þessa eða sambærilega tækni fyrir SSD nema Linux frá kernel 2.6.28.\nEDIT:\n Ef settir eru margir SSD sem styðja TRIM í RAID0 þá virkar TRIM ekki því stýrikerfið þarf að fara í gegnum RAID stýringuna til að komast að diskunum, en það eiga að vera raid stýringar á leiðinni sem styðja TRIM. það eru samt skiptar skoðanir um hvenær \"góð\" raidstýring (ekki onboard) er að auka afköstin meira en TRIM sjá meira t.d. hér \nhttp://communities.intel.com/message/24652#24652\nEDIT2:\n Fann eftirfarandi  grein sem segir að forrit \"Indilinx Wiper Tool\" geti virkað á Vista og XP og bætt afköstin það er samt ekki TRIM \nhttp://www.anandtech.com/storage/showdo ... =3631&p=13\nHérna er listinn yfir drif sem eru til með stuðningi við TRIM af síðunni fyrir ofan:\nSolid State Disk\tModel Numbers\tCapacity\tRead Performance\tWrite Performance\tInterface\tController\tNAND Cell Vendor\tNAND Cell Type\tCache Size / Vendor / Type\tFirmware Version\t\n \n \n\tA-DATA S596\tN/A\t256GB\t235MB/s\t175MB/s\tSATA 3.0Gbps\tJMicron JMF612\tIntel\tMLC\t64MB / Hynix / 800MHz DDR2\tJanuary\n\tA-DATA S596\tN/A\t128GB\t245MB/s\t175MB/s\tSATA 3.0Gbps\tJMicron JMF612\tIntel\tMLC\t64MB / Hynix / 800MHz DDR2\tJanuary\n\tA-DATA S596\tN/A\t64GB\t235MB/s\t105MB/s\tSATA 3.0Gbps\tJMicron JMF612\tIntel\tMLC\t64MB / Hynix / 800MHz DDR2\tJanuary\n\tA-DATA S592\tAS592S-128GM-C\t128GB\t250MB/s\t170MB/s\tSATA 3.0Gbps\tIndilinx \"Barefoot\" IDX110M00-LC\tSamsung\tMLC\t64MB / Elpida / 166MHz Mobile RAM\t1848\n\tA-DATA S592\tAS592S-64GM-C\t64GB\t230MB/s\t150MB/s\tSATA 3.0Gbps\tIndilinx \"Barefoot\" IDX110M00-LC\tSamsung\tMLC\t64MB / Elpida / 166MHz Mobile RAM\t1848\n\tA-DATA S592\tAS592S-32GM-C\t32GB\t230MB/s\t150MB/s\tSATA 3.0Gbps\tIndilinx \"Barefoot\" IDX110M00-LC\tSamsung\tMLC\t64MB / Elpida / 166MHz Mobile RAM\t1848\n\tCorsair Performance Series\tCMFSSD-256GBG2D\t256GB\t220MB/s\t180MB/s\tSATA 3.0Gbps\tSamsung S3C29RBB01-YK40\tSamsung\tMLC\t128MB / Samsung / 166MHz DDR\tVBM19C1Q\n\tCorsair Performance Series\tCMFSSD-128GBG2D\t128GB\t220MB/s\t180MB/s\tSATA 3.0Gbps\tSamsung S3C29RBB01-YK40\tSamsung\tMLC\t128MB / Samsung / 166MHz DDR\tVBM19C1Q\n\tCorsair Performance Series\tCMFSSD-64GBG2D\t64GB\t220MB/s\t180MB/s\tSATA 3.0Gbps\tSamsung S3C29RBB01-YK40\tSamsung\tMLC\t128MB / Samsung / 166MHz DDR\tVBM19C1Q\n\tCrucial M225\tCT256M225\t256GB\t250MB/s\t200MB/s\tSATA 3.0Gbps\tIndilinx \"Barefoot\" IDX110M00-FC\tSamsung\tMLC\t64MB / Elpida / 133MHz Mobile RAM\t1819\n\tCrucial M225\tCT128M225\t128GB\t250MB/s\t190MB/s\tSATA 3.0Gbps\tIndilinx \"Barefoot\" IDX110M00-FC\tSamsung\tMLC\t64MB / Elpida / 133MHz Mobile RAM\t1819\n\tCrucial M225\tCT64M225\t64GB\t250MB/s\t150MBs\tSATA 3.0Gbps\tIndilinx \"Barefoot\" IDX110M00-FC\tSamsung\tMLC\t64MB / Elpida / 133MHz Mobile RAM\t1819\n\tIntel X25-M G2\tSSDSA2MH160G2\t160GB\t250MB/s\t100MB/s\tSATA 3.0Gbps\tIntel PC29AS21BA0\tIntel\tMLC\t32MB / Micron / 133MHz SDR\t02HD\n\tIntel X25-M G2\tSSDSA2MH080G2\t80GB\t250MB/s\t70MB/s\tSATA 3.0Gbps\tIntel PC29AS21BA0\tIntel\tMLC\t32MB / Micron / 133MHz SDR\t02HD\n\tG.SKILL Falcon\tFM-25S2S-256GBF1\t256GB\t230MB/s\t190MB/s\tSATA 3.0Gbps\tIndilinx \"Barefoot\" IDX110M00-LC\tSamsung\tMLC\t64MB / Elpida / 166MHz Mobile RAM\t1819\n\tG.SKILL Falcon\tFM-25S2S-128GBF1\t128GB\t230MB/s\t190MB/s\tSATA 3.0Gbps\tIndilinx \"Barefoot\" IDX110M00-LC\tSamsung\tMLC\t64MB / Elpida / 166MHz Mobile RAM\t1819\n\tG.SKILL Falcon\tFM-25S2S-64GBF1\t64GB\t230MB/s\t135MB/s\tSATA 3.0Gbps\tIndilinx \"Barefoot\" IDX110M00-LC\tSamsung\tMLC\t64MB / Elpida / 166MHz Mobile RAM\t1819\n\tG.SKILL Falcon II\tFM-25S2I-256GBF2\t256GB\t220MB/s\t150MB/s\tSATA 3.0Gbps\tIndilinx \"Barefoot ECO\" IDX110MO1-LC\tIntel\tMLC\t64MB / Elpida / 180MHz Mobile RAM\t1819\n\tG.SKILL Falcon II\tFM-25S2I-128GBF2\t128GB\t220MB/s\t150MB/s\tSATA 3.0Gbps\tIndilinx \"Barefoot ECO\" IDX110MO1-LC\tIntel\tMLC\t64MB / Elpida / 180MHz Mobile RAM\t1819\n\tG.SKILL Falcon II\tFM-25S2I-64GBF2\t64GB\t220MB/s\t110MB/s\tSATA 3.0Gbps\tIndilinx \"Barefoot ECO\" IDX110MO1-LC\tIntel\tMLC\t64MB / Elpida / 180MHz Mobile RAM\t1819\n \n\tOCZ Agility EX\tOCZSSD2-1AGTEX60G\t60GB\t255MB/s\t195MB/s\tSATA 3.0Gbps\tIndilinx \"Barefoot\" IDX110M00-LC\tSamsung / Intel\tSLC\t64MB / Elpida / 166MHz Mobile RAM\t1.4\n\tOCZ Agility\tOCZSSD2-1AGT120G\t120GB\t230MB/s\t135MB/s\tSATA 3.0Gbps\tIndilinx \"Barefoot\" IDX110M00-FC\tMultiple\tMLC\t64MB / Elpida / 133MHz Mobile RAM\t1.4\n\tOCZ Agility\tOCZSSD2-1AGT60G\t60GB\t230MB/s\t135MB/s\tSATA 3.0Gbps\tIndilinx \"Barefoot\" IDX110M00-FC\tMultiple\tMLC\t64MB / Elpida / 133MHz Mobile RAM\t1.4\n\tOCZ Agility\tOCZSSD2-1AGT30G\t30GB\t185MB/s\t100MB/s\tSATA 3.0Gbps\tIndilinx \"Barefoot\" IDX110M00-FC\tMultiple\tMLC\t64MB / Elpida / 133MHz Mobile RAM\t1.4\n\tOCZ Summit\tOCZSSD2-1SUM250G\t250GB\t220MB/s\t200MB/s\tSATA 3.0Gbps\tSamsung S3C29RBB01-YK40\tSamsung\tMLC\t128MB / Samsung / 166MHz DDR\tVBM19C1Q\n\tOCZ Summit\tOCZSSD2-1SUM120G\t120GB\t220MB/s\t200MB/s\tSATA 3.0Gbps\tSamsung S3C29RBB01-YK40\tSamsung\tMLC\t128MB / Samsung / 166MHz DDR\tVBM19C1Q\n\tOCZ Summit\tOCZSSD2-1SUM60G\t60GB\t220MB/s\t125MB/s\tSATA 3.0Gbps\tSamsung S3C29RBB01-YK40\tSamsung\tMLC\t128MB / Samsung / 166MHz DDR\tVBM19C1Q\n\tOCZ Vertex\tOCZSSD2-1VTX250G\t250GB\t250MB/s\t160MB/s\tSATA 3.0Gbps\tIndilinx \"Barefoot\" IDX110M00-FC\tSamsung\tMLC\t64MB / Elpida / 166MHz Mobile RAM\t1.4\n\tOCZ Vertex\tOCZSSD2-1VTX120G\t120GB\t250MB/s\t180MB/s\tSATA 3.0Gbps\tIndilinx \"Barefoot\" IDX110M00-FC\tSamsung\tMLC\t64MB / Elpida / 166MHz Mobile RAM\t1.4\n\tOCZ Vertex\tOCZSSD2-1VTX60G\t60GB\t230MB/s\t135MB/s\tSATA 3.0Gbps\tIndilinx \"Barefoot\" IDX110M00-FC\tToshiba / Samsung\tMLC\t64MB / Elpida / 166MHz Mobile RAM\t1.4\n\tOCZ Vertex\tOCZSSD2-1VTX30G\t30GB\t230MB/s\t135MB/s\tSATA 3.0Gbps\tIndilinx \"Barefoot\" IDX110M00-FC\tSamsung\tMLC\t64MB / Elpida / 166MHz Mobile RAM\t1.4\n\tOCZ Vertex EX\tOCZSSD2-1VTXEX60G\t120GB\t260MB/s\t210MB/s\tSATA 3.0Gbps\tIndilinx \"Barefoot\" IDX110M00-LC\tSamsung / Intel\tSLC\t64MB / Elpida / 166MHz Mobile RAM\t1.4\n\tOCZ Vertex EX\tOCZSSD2-1VTXEX120G\t60GB\t260MB/s\t200MB/s\tSATA 3.0Gbps\tIndilinx \"Barefoot\" IDX110M00-LC\tSamsung / Intel\tSLC\t64MB / Elpida / 166MHz Mobile RAM\t1.4\n\tOCZ Vertex Turbo\tOCZSSD2-1VTXT120G\t120GB\t270MB/s\t200MB/s\tSATA 3.0Gbps\tIndilinx \"Barefoot\" IDX110M00-FC\tMultiple\tMLC\t64MB / Elpida / 180MHz Mobile RAM\t1.4\n\tOCZ Vertex Turbo\tOCZSSD2-1VTXT60G\t60GB\t240MB/s\t145MB/s\tSATA 3.0Gbps\tIndilinx \"Barefoot\" IDX110M00-FC\tMultiple\tMLC\t64MB / Elpida / 180MHz Mobile RAM\t1.4\n\tOCZ Vertex Turbo\tOCZSSD2-1VTXT30G\t30GB\t240MB/s\t145MB/s\tSATA 3.0Gbps\tIndilinx \"Barefoot\" IDX110M00-FC\tMultiple\tMLC\t64MB / Elpida / 180MHz Mobile RAM\t1.4\n\tPatriot Torqx\tPFZ256GS25SSDR\t256GB\t260MB/s\t180MB/s\tSATA 3.0Gbps\tIndilinx \"Barefoot\" IDX110M00-FC\tSamsung\tMLC\t64MB / Elpida / 133MHz Mobile RAM\t1819\n \n\tPatriot Torqx\tPFZ128GS25SSDR \t128GB\t260MB/s\t180MB/s\tSATA 3.0Gbps\tIndilinx \"Barefoot\" IDX110M00-FC\tSamsung\tMLC\t64MB / Elpida / 133MHz Mobile RAM\t1819\n\tPatriot Torqx\tPFZ64GS25SSDR \t64GB\t220MB/s\t135MB/s\tSATA 3.0Gbps\tIndilinx \"Barefoot\" IDX110M00-FC\tSamsung\tMLC\t64MB / Elpida / 133MHz Mobile RAM\t1819\n\tSuper Talent UltraDrive GX\tFTM56GX25H\t256GB\t260MB/s\t200MB/s\tSATA 3.0Gbps\tIndilinx \"Barefoot\" IDX110M00-FC\tSamsung\tMLC\t64MB / Elpida / 166MHz Mobile RAM\t1819\n\tSuper Talent UltraDrive GX\tFTM28GX25H\t128GB\t260MB/s\t195MB/s\tSATA 3.0Gbps\tIndilinx \"Barefoot\" IDX110M00-FC\tSamsung\tMLC\t64MB / Elpida / 166MHz Mobile RAM\t1819\n\tSuper Talent UltraDrive GX\tFTM64GX25H\t64GB\t230MB/s\t180MB/s\tSATA 3.0Gbps\tIndilinx \"Barefoot\" IDX110M00-FC\tSamsung\tMLC\t64MB / Elpida / 166MHz Mobile RAM\t1819\n\tSuper Talent UltraDrive GX\tFTM32GX25H\t32GB\t230MB/s\t160MB/s\tSATA 3.0Gbps\tIndilinx \"Barefoot\" IDX110M00-FC\tSamsung\tMLC\t64MB / Elpida / 166MHz Mobile RAM\t1819\n\tSuper Talent UltraDrive GX\tFTD28GX25H\t128GB\t260MB/s\t210MB/s\tSATA 3.0Gbps\tIndilinx \"Barefoot\" IDX110M00-FC\tSamsung\tSLC\t64MB / Elpida / 166MHz Mobile RAM\t1819\n\tSuper Talent UltraDrive GX\tFTD64GX25H\t64GB\t260MB/s\t210MB/s\tSATA 3.0Gbps\tIndilinx \"Barefoot\" IDX110M00-FC\tSamsung\tSLC\t64MB / Elpida / 166MHz Mobile RAM\t1819\n\tSuper Talent UltraDrive GX\tFTD32GX25H\t32GB\t230MB/s\t170MB/s\tSATA 3.0Gbps\tIndilinx \"Barefoot\" IDX110M00-FC\tSamsung\tSLC\t64MB / Elpida / 166MHz Mobile RAM\t1819",
+            "date": "2010-01-17 16:27:00",
+            "post_id": "240111",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "sweet ég er akkurat að fá ssd drif á morgun og hann er í þessum lista",
+            "date": "2010-01-17 17:26:00",
+            "post_id": "240136",
+            "reply_to_id": "240111"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Færð props hjá mér fyrir þennan post!",
+            "date": "2010-01-17 18:30:00",
+            "post_id": "240152",
+            "reply_to_id": "240136"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "en gleimdi að spyja. er þetta forrit eða? \nhvar nálgast ég þetta?\nhvernig virkar þetta?",
+            "date": "2010-01-17 18:36:00",
+            "post_id": "240154",
+            "reply_to_id": "240152"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Þetta er bara feature í stýrikerfinu sem að kveikir á sér ef að diskurinn styður það.",
+            "date": "2010-01-17 18:37:00",
+            "post_id": "240155",
+            "reply_to_id": "240154"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "ok takk þetta svaraði öllu",
+            "date": "2010-01-17 18:40:00",
+            "post_id": "240158",
+            "reply_to_id": "240155"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Ef að þetta var kaldhæðni þá er restin af upplýsingunum sem að þig vantar í fyrsta póstinum(þræðinum), þetta eyðir actually dóti útaf SSD'inum í stað þess að gera það ekki (uppá gagnabjörgun).",
+            "date": "2010-01-17 18:42:00",
+            "post_id": "240160",
+            "reply_to_id": "240158"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "haha þetta var ekki kaldhæðni",
+            "date": "2010-01-17 18:49:00",
+            "post_id": "240164",
+            "reply_to_id": "240160"
+        },
+        {
+            "user_name": "Stuffz",
+            "text": "takk, mest bara tekið úr ensku greininni þarna.",
+            "date": "2010-01-17 20:27:00",
+            "post_id": "240171",
+            "reply_to_id": "240164"
+        },
+        {
+            "user_name": "Blamus1",
+            "text": "Var einmitt að setja í vélina hjá mér þennan undir stýrikerfið og forrit.\nIntel X25-M G2 SSDSA2MH160G2 160GB 250MB/s 100MB/s SATA 3.0Gbps Intel PC29AS21BA0 Intel MLC 32MB / Micron / 133MHz SDR 02HD\nVerslaði hann hjá Friðjóni hjá buy.is\nhttp://buy.is/product.php?id_product=828\nSkal viðurkenna að mér krossbrá hvað þetta er hraðvirkt!\nSmá youtube video sem sýnir hverskonar hraða er um að ræða.  \n \nhttp://www.youtube.com/watch?v=T_Jz7IMw ... re=related\nKv.\nKrissi",
+            "date": "2010-01-17 21:15:00",
+            "post_id": "240183",
+            "reply_to_id": "240171"
+        },
+        {
+            "user_name": "Blues-",
+            "text": "Bull og vitleysa !\nTrim er búið að vera til staðar í Linux frá kernel 2.6.28 síðan 25 des. 2008\nGetur lesið nánar um útfærsluna á vef \nIBM\n þar sem\nþað er verið að fjalla um nýjungar á þessari kernel útgáfu..",
+            "date": "2010-01-17 22:28:00",
+            "post_id": "240198",
+            "reply_to_id": "240183"
+        },
+        {
+            "user_name": "Stuffz",
+            "text": "jæja gott að ég setti \"skilst\" fyrir framan því greinin sem las nefndi ekkert um það, skal bara uppfæra þetta sem snöggvast.",
+            "date": "2010-01-17 22:49:00",
+            "post_id": "240209",
+            "reply_to_id": "240198"
+        },
+        {
+            "user_name": "kazgalor",
+            "text": "Mér sýnist (með fyrirvara) að þessi \nhttp://buy.is/product.php?id_product=530\n sé ódýrasti diskurinn sem býður uppá TRIM. hann er líka til hjá start.is en þar er hann er aðeins dýrari.",
+            "date": "2010-01-18 10:26:00",
+            "post_id": "240267",
+            "reply_to_id": "240209"
+        },
+        {
+            "user_name": "Stuffz",
+            "text": "\"Intel X-25M\" var einn hraðasti SSD sem gast fengið þegar hann kom út skv því sem ég hef verið að lesa, þessi \"Intel X-25M \nG2\n\" er Generation 2 eða næsta kynslóð af þessum diskum, en fyrsta kynslóðin studdi ekki TRIM eins og G2\nhann kostar $259.00 á newegg.com \nhttp://www.newegg.com/product/product.a ... 6820167005\nskv reiknivélinni hjá tollinum \nhttp://www.tollur.is/upload/files/calc_ ... 820%29.htm\nþá er þetta 259 dollarar (frí sending) 125kr hver dollari það gerir með 25.5% VSK (enginn tollur bara VSK á töllu dóti) nettó \n40631kr\n (þ.e.a.s. eftir 29 jan þeir eiga hann ekki til eins og er).\nég myndi aldrei kaupa harðan disk á milli landa (slæm reynsla) en þessir SSD diskar þola miklu meira hnjask svo afhverju ekki klippa burt milliliðinn.\nannars þá þótt þessi diskur hafi góðan leshraða 250MB/s þá er hann með frat skrifhraða miðað við aðra diska SSD diska í dag bara 70MB/s, t.d. allir hinir diskarnir í listanum hafa frá 110MB/s til 210MB/s í skrifhraða.\nhámarkið sem ég hef séð einn SATA2 (3.0Gbps) SSD ná er 270MB/s read og 270MB/s write en SATA2 styður víst ekki meiri hraða eða það segja hönnuðir disksins Photofast G-Monster V5 bara einn galli hann styður ekki TRIM og er í raun 2 stk V3 borð í Raid inní boxinu\nfann 64gb útgáfuna af honum hérna á 410 dollara\nhttp://cgi.ebay.com/PhotoFast-G-Monster ... 3ca8cca4bc\nþað væri möguleiki að kaupa 2 eða fleiri og setja þá saman í software raid og reyna að nota þetta \"Indilinx Wiper Tool\" á þá þegar þeir fara að fillast og verða hægfara, en það væri samt bara tilraunastarfsemi, kenningin væri þá að þeir ættu að geta skilað með 2 í raid meira en 500MB/s í read/write miðað við enga flöskuhálsa sem er nánast pottþétt að verði eitthverjir, enda alltaf eitthver veikur hlekkur (frá eigin reynslu) sem skemmir allt hehe\neða bara vera öruggur og kaupa \"ódýrt\" 1000MB/s read/write PCI-e disk á 1300 dollara \nhttp://www.tweaktown.com/reviews/2852/e ... index.html\neða þetta 1500MB/s io dót\nhttp://nexus404.com/Blog/2009/03/12/fus ... -ssd-ever/\nsvo líka þetta 2tb pci-e drif frá supertalent líka, held það kosti nú eitthvað minnst 7000dollara \nhttp://www.youtube.com/watch?v=M3eFgClKGMc\n \nhmm kannski 2much hehe\nannars hérna er einn annar úr listanum, 60gb OCZ SSD á sama verði og intel X25M G2 eða $259 með smá minni leshraða 240MB/s en tvöfalt meiri skrifhraða 145MB/s \nhttp://www.newegg.com/Product/Product.a ... -_-Product\nles/skrifhraði er samt ekki allt en þegar um er að ræða 2x þá er það slatti, samt hef sé X25M G2 koma vel útúr testi used (not new) svo gætu etv virkað ágætlega á windows xp og windows vista sem ekki styðja TRIM, en svo eru líka til forrit þarna úti sem lofa að halda í hraðann á SSD diskinum þínum sem ég veit ekki hvort virka og hve mikið svo enn margt ósvarað.\neinn kúnninn þarna mælir með að nota forrit sem heitir Diskeeper 2010 with Hyperfast það hjálpi eitthvernveginn við að halda diskinum hröðum veit ekki hverning það virkar samt.\nég myndi jafnvel skella mér á einn svona disk sjálfur",
+            "date": "2010-01-18 20:25:00",
+            "post_id": "240387",
+            "reply_to_id": "240267"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "var að fá OCZ Vertex OCZSSD2-1VTXT60G\nss. ekki turbo og hann er 135 í max write.",
+            "date": "2010-01-18 20:51:00",
+            "post_id": "240392",
+            "reply_to_id": "240387"
+        },
+        {
+            "user_name": "Stuffz",
+            "text": "OCZ Vertex OCZSSD2-1VTX\nT\n60G er TURBO",
+            "date": "2010-01-19 15:08:00",
+            "post_id": "240515",
+            "reply_to_id": "240392"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "leit á kassan sem ég fékk og sýnst allt vera eins en svo er víst ekki.\nþetta er minn\nOCZ Vertex Series OCZSSD2-1VTX60G",
+            "date": "2010-01-19 16:38:00",
+            "post_id": "240547",
+            "reply_to_id": "240515"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Er þetta eitthvað sem að hverfur við það að format-a?\nÞað er að segja að ef að diskur sem að er ekki með trim væri orðinn hægur yrði hann aftur eins og nýr við format?",
+            "date": "2010-01-19 16:42:00",
+            "post_id": "240549",
+            "reply_to_id": "240547"
+        },
+        {
+            "user_name": "Stuffz",
+            "text": "skilst það þ.e.a.s full format ekki quick format.",
+            "date": "2010-01-19 19:35:00",
+            "post_id": "240616",
+            "reply_to_id": "240549"
+        },
+        {
+            "user_name": "kazgalor",
+            "text": "Afþví að ef maður kaupir þetta hérna heima þá fær maður 2ja ára ábyrgð með. Og hann er ekki mikið dýrari.",
+            "date": "2010-01-19 20:47:00",
+            "post_id": "240636",
+            "reply_to_id": "240616"
+        },
+        {
+            "user_name": "Stuffz",
+            "text": "að borga 25% meira er slatti.\nég myndi mögulega borga það fyrir venjulegan harðadisk, geisladrif, aflgjafa, móðurborð, skjákort, hljóðkort o.s.f. flókna og/eða mechanical hluti\nen ekki t.d. usb lykla, SSD diska, mús, lyklaborð, kapla, hátalara, heyrnartól o.s.f. sem er ekki eins viðkvæmt fyrir fylutningi og er oft í ábyrgð erlendis, hef keypt og sent til baka og fengið aftur voru í gegnum netið áður no big deal, bara maður þarf að vera með hreinu að sé viðurkenndur aðili með góðan orðstír það er allt.\nég t.d. lyggur ekki lífið á að fá mér SSD ef ég get keypt mér hraðari disk fyrir 50þús erlendis frá en kostar 50þús hérlendis jafnvel þótt ég viti að það gæti verið meiri biðtími og eitt skutl á pósthúsið ef hann svo ólíklega skildi vera bilaður við komuna ef ég er að spara 10þús eða fá 10þús virði af meira performance þá er það þess virði IMO\nsamt ef þetta væri hinsvegar 45þús hérlendis og 40þús erlendis þá myndi ég sennilega kaupa hann hérlendis enda undir 15%, eftir 1 ár þá eru allir SSD diskar með TRIM, og flest allir SATA3 svo maður myndi bara henda þessu í lappann sem maður notar ekki svo mikið svo 1ár ábyrgð í viðbót væri ekki að skipta það miklu held ég hafa aldrei skilað eitthverjum hlut sem var bilaður eftir 1ár, flest allt sem bilar vegna eitthvers sem fellur undir ábyrgðina bilar á fyrsta árinu hvort eð er IMO",
+            "date": "2010-01-20 20:17:00",
+            "post_id": "240856",
+            "reply_to_id": "240636"
+        },
+        {
+            "user_name": "Tiger",
+            "text": "Newegg sendir ekki út fyrir Bandaríkin.",
+            "date": "2010-01-20 20:34:00",
+            "post_id": "240862",
+            "reply_to_id": "240856"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "samt var friðjón@buy.is að panta (ég er btw kominn með það(ssd drif)) af þeim í seinustu viku...",
+            "date": "2010-01-20 20:36:00",
+            "post_id": "240864",
+            "reply_to_id": "240862"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Hvað gerir þig svo vissan um að hann versli af newegg.com?",
+            "date": "2010-01-20 20:42:00",
+            "post_id": "240870",
+            "reply_to_id": "240864"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "benda á að ég hafi verið að fá vöru frá newegg og hann segjir að þeir sendi ekki út fyrir USA",
+            "date": "2010-01-20 20:53:00",
+            "post_id": "240873",
+            "reply_to_id": "240870"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Já, en hvað hefurðu fyrir þér í því að hann hafi pantað þetta af newegg.com og að þeir hafi sent þetta hingað?\nAllt annað kom innlegginu hans ekkert við...",
+            "date": "2010-01-20 21:21:00",
+            "post_id": "240886",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "því friðjón sagði mér það.... þarftu meiri sönnun?\nertu eitthvað pirraður félagi? því það hljómar þannig",
+            "date": "2010-01-20 21:34:00",
+            "post_id": "240890",
+            "reply_to_id": "240886"
+        },
+        {
+            "user_name": "Tiger",
+            "text": "Þetta er nú ekki flókið, tekið beint af síðunni þeirra.\nDoes Newegg.com ship internationally?\nNewegg.com does not currently ship internationally; we only deliver to locations within the United States and to Puerto Rico.\nhttp://www.newegg.com/HelpInfo/FAQDetail.aspx?Module=4",
+            "date": "2010-01-20 21:43:00",
+            "post_id": "240894",
+            "reply_to_id": "240890"
+        },
+        {
+            "user_name": "Tiger",
+            "text": "Getur bara ekki verið að Friðjón sé með contacaðila í US sem þetta fer í gegnum?",
+            "date": "2010-01-20 21:44:00",
+            "post_id": "240895",
+            "reply_to_id": "240894"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Nei ég er góður, þetta hljómaði bara svo smart-ass comment hjá þér þegar að hann var ekki að gera neitt annað en að vitna í Newegg pólísíuna um shipping",
+            "date": "2010-01-20 21:45:00",
+            "post_id": "240896",
+            "reply_to_id": "240895"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "það getur allveg vel verið.",
+            "date": "2010-01-20 21:46:00",
+            "post_id": "240898",
+            "reply_to_id": "240896"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "átti alls ekki að vera þannig. bara benda honum á það ég hef fengið vöru frá newegg. \n veit ekkert hvort það sé í gegnum einhverja liði eða ekki. þótt það sé allveg stór möguleiki.",
+            "date": "2010-01-20 21:48:00",
+            "post_id": "240900",
+            "reply_to_id": "240898"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Friðjón er með eitthvað vöruhús þarna úti sem hann lætur senda þetta á.\nÞað er ekki séns að newegg sendi til íslands. Þeir taka ekki einu sinni við kreditkortum sem eru ekki með USA heimilisfang.",
+            "date": "2010-01-20 21:51:00",
+            "post_id": "240901",
+            "reply_to_id": "240900"
+        },
+        {
+            "user_name": "Stuffz",
+            "text": "reyndar til Kanada og Kína líka (þ.e.a.s. þeir eru með local síður þar líka), en auðvelt að gleyma að það eiga ekki allir ættingja þarna úti \nen ok þessi OCZ diskur sem kostar sama og intel diskurinn á newegg en er með 2x betri skrifhraða er t.d. á 59.900kr hérna \nhttp://www.tolvutek.is/product_info.php ... s_id=19697\nen á amazon kostar hann bara $10 meira en á newegg svo ekki mikill munur á verði þar.\nEDIT: reyndar ekki alveg sami diskur, þessi á amazon er aðeins hraðari svo sennilega eldri týpa þessi þarna á 59900 jafnvel kannski ekki með TRIM \n litlar upplýsingar þarna.",
+            "date": "2010-01-20 21:52:00",
+            "post_id": "240902",
+            "reply_to_id": "240901"
+        }
+    ],
+    "date": "2010-01-20 21:21:00"
+}

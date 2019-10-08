@@ -1,0 +1,177 @@
+{
+    "forum_title": "Windows",
+    "id": "46669",
+    "title": "16/32-bita forrit á 64-bita stýrikerfi",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=46669",
+    "posts": [
+        {
+            "user_name": "Gislinn",
+            "text": "TL;DR : ég þarf að keyra 32-bita forrit á 64-bita windows 7 án þess að nota virtual vél. Einhver ráð?\nEr með gamalt forrit sem er upprunalega skrifað fyrir Windows 3.1x  \n \nÞetta forrit er upprunalega skrifað fyrir 16-bita kerfi (eins og windows 3.1x) en var svo uppfært fyrir win95 (32-bita kerfi) og er ekki til 64-bita útgáfa af þessu forriti. Það keyrir ekki á 64-bita stýrikerfi (og keyrir ekki einu sinni install og gefur bara upp error um að það sé fyrir 32-bita kerfi).\nNúna er ég meiri linux maður þannig ég spyr hér windows mennina, er til einhver skel (eða einhver leið) til að keyra þetta forna-forrit á 64-bita windows 7 ? Það virkar ekki að keyra það í compatibility mode (XP-mode eða eitthvað slíkt).\nÞetta forrit er skaffað af kennara í skólanum mínum og hans lausn var basically að setja bara upp 32-bita windows til að keyra þetta, en það er ekki í boði. \nÉg vill helst losna við að setja þetta upp á virtual-vél.\nE.S. Það er ekki til nýrri útgáfa af þessu forriti.\nEDIT:\nE.E.S. Win7 64-bita getur ekki keyrt 16-bita forrit, sem þetta forrit byggir á og þess vegna er þetta vesen. Fékk þetta til að keyra undir linux þannig það dugar.",
+            "date": "2012-03-20 23:34:00",
+            "post_id": "430181",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "worghal",
+            "text": "setja upp windows 95 á VM ?",
+            "date": "2012-03-20 23:36:00",
+            "post_id": "430182",
+            "reply_to_id": "430181"
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "Kvartaðu. Þetta er ekki boðlegt.\nHvert er forritið?",
+            "date": "2012-03-20 23:37:00",
+            "post_id": "430183",
+            "reply_to_id": "430182"
+        },
+        {
+            "user_name": "Gislinn",
+            "text": "",
+            "date": "2012-03-20 23:38:00",
+            "post_id": "430184",
+            "reply_to_id": "430183"
+        },
+        {
+            "user_name": "Gislinn",
+            "text": "Þetta forrit heitir Simulex, þetta er notað útaf því að HÍ vill ekki kaupa forritið sem tók við af þessu vegna þess að það kostar. Glatað.\nBúinn að tala við yfirkennara námskeiðisins, kennarann og deildarforseta, alltaf sagt \"Er þetta svo mikið mál að þetta reddist ekki bara?\".  \nP.S. ég stakk uppá því við kennarann í dag að ég myndi bara mæta með 486, honum fannst það ekki fyndið.",
+            "date": "2012-03-20 23:40:00",
+            "post_id": "430186",
+            "reply_to_id": "430184"
+        },
+        {
+            "user_name": "appel",
+            "text": "Held þetta hafi ekkert með 32-bita vs. 64-bita að gera, enda keyra nánast öll 32-bita forrit á 64-bita windows án breytinga.\nLíklegast er forritið bara úr sér gengið, að nota gömul library sem er búið að taka úr nýjustu windows og svona.\nReyna að finna út hvað vandamálið er, finna einhver villuboð, ástæðu að það keyrir ekki, finna gamla drivera eða library á netinu svo þú getir keyrt það.",
+            "date": "2012-03-20 23:40:00",
+            "post_id": "430187",
+            "reply_to_id": "430186"
+        },
+        {
+            "user_name": "Gislinn",
+            "text": "Keyrir á 32-bita Windows 7 hjá kennaranum.",
+            "date": "2012-03-20 23:41:00",
+            "post_id": "430188",
+            "reply_to_id": "430187"
+        },
+        {
+            "user_name": "appel",
+            "text": "http://msdn.microsoft.com/en-us/library ... 85%29.aspx",
+            "date": "2012-03-20 23:43:00",
+            "post_id": "430189",
+            "reply_to_id": "430188"
+        },
+        {
+            "user_name": "Gislinn",
+            "text": "Hefur þá líklegast með það að gera að þetta er upprunalega 16-bita kerfi sem var portað yfir á 32-bita og getur því ekki runnað. \nErrorinn sem kemur upp er\nKóði: \nVelja allt\nThe version of this file is not compatible with the version of Windows \nyou're running. Check your computer's system information to see whether \nyou need an x86 (32-bit) or x64 (64-bit) version of the program, and then \ncontact the software publisher.",
+            "date": "2012-03-20 23:50:00",
+            "post_id": "430191",
+            "reply_to_id": "430189"
+        },
+        {
+            "user_name": "Gislinn",
+            "text": "Fékk þetta til að keyra í WINE í linux þannig það ætti að duga. \nSérlega spes að geta keyrt 16-bita windows forrit á 64-bita linux kerfi en ekki á 64-bita windows kerfi.",
+            "date": "2012-03-20 23:55:00",
+            "post_id": "430194",
+            "reply_to_id": "430191"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Er ekki DOSBOX bara málið fyrir þetta?\n1. Setur upp DOSBOX\n2. Setur forritið í einhverja möppu á drifinu, s.s. c:\\simulex\n3. Ferð í DOSBOX, skrifar mount c c:\\simulex\n4. Nafnið á exe skránni\n5. ?????\n6. PROFIT!!!",
+            "date": "2012-03-21 00:01:00",
+            "post_id": "430197",
+            "reply_to_id": "430194"
+        },
+        {
+            "user_name": "Gislinn",
+            "text": "prófaði þetta, fékk upp \"Illegal command: win.\" sem bendir til þess að DOSBox virki ekki fyrir þetta forrit sbr. \nhttp://answers.yahoo.com/question/index ... 508AAvYDcm\nTakk samt fyrir góða ábendingu, ef þetta hefði virkað þá hefði þetta verið frábær lausn.",
+            "date": "2012-03-21 00:09:00",
+            "post_id": "430199",
+            "reply_to_id": "430197"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Þú keyrir aldrei 16 bita forrit á 64 bita windows nema notast við einhverskonar virtual vél. Það er bara enginn stuðningur fyrir það.\nHef samt lent í því að gömul forrit notast við 16bita installera, en forritin sjálf eru byggð 32bit. Gætir prófað að setja það upp á 32 bita windows og afrita skrárnar yfir og sjá hvort það keyrir.\nEf það gengur ekki, þá myndi ég bara henda upp windows 2000 eða álíka á virtualbox.",
+            "date": "2012-03-21 00:29:00",
+            "post_id": "430205",
+            "reply_to_id": "430199"
+        },
+        {
+            "user_name": "Gislinn",
+            "text": "Engir emulatorara í staðinn? þeir taka töluvert minna pláss en virtual vél (windowsið hjá mér er á littlu partitioni þar sem ég nota nánast eingöngu windows fyrir Inventor og Autocad).\nForritið notast við Autocad teikningar og því nenni ég ekki að vera alltaf að restarta á milli (ef forritið étur ekki teikninguna þarf að breyta henni í autocad, restarta til að komast í virtual vélina á linux til að keyra simulex og endurtaka þar til forritið étur teikninguna).",
+            "date": "2012-03-21 00:33:00",
+            "post_id": "430206",
+            "reply_to_id": "430205"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Áttu ekki ~500MB laus fyrir windows 98 og virtualbox? \nAuðvelt að stækka partitionið líka.\nVeit ekki um neinn emulator sem gæti hugsanlega tæklað þetta fyrir utan dosbox.",
+            "date": "2012-03-21 00:44:00",
+            "post_id": "430208",
+            "reply_to_id": "430206"
+        },
+        {
+            "user_name": "Gislinn",
+            "text": "Jú ætli það verði ekki bara lausnin, emulator hefði verið meira nice þar sem virtual er töluvert tímafrekara (sérstaklega fyrir eitt 16 ára gamalt forrit)  \n \nTakk fyrir hjálpina.",
+            "date": "2012-03-21 00:51:00",
+            "post_id": "430210",
+            "reply_to_id": "430208"
+        },
+        {
+            "user_name": "Demon",
+            "text": "Ég myndi nýta mér \"Windows XP Mode\" sem er basically bara Virtual PC með þægilegu integration við Windows 7.\nGetur downloadað og lesið þér meira til hér:\nhttp://www.microsoft.com/windows/virtua ... nload.aspx\nFrekar þægilegt.",
+            "date": "2012-05-03 15:24:00",
+            "post_id": "439278",
+            "reply_to_id": "430210"
+        },
+        {
+            "user_name": "kizi86",
+            "text": "installar win 3.1 i gegnum dosbox, og svo installa forritinu i win3.11 ?",
+            "date": "2012-05-03 16:06:00",
+            "post_id": "439286",
+            "reply_to_id": "439278"
+        },
+        {
+            "user_name": "ORION",
+            "text": "Jamm Setja upp dosbox, Setja upp Windows 3.1 og svo ertu ready\nw3.1 er hægt að ná í frá mér.\nhttp://snilld.in/doswin.zip\neða google\n'windows 3.1' site:thefrogbay.se",
+            "date": "2012-05-03 16:47:00",
+            "post_id": "439296",
+            "reply_to_id": "439286"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Alveg finnst mér frábært að þú ert í háskólanámi og átt að nota forrit frá 1993",
+            "date": "2012-05-03 16:58:00",
+            "post_id": "439303",
+            "reply_to_id": "439296"
+        },
+        {
+            "user_name": "Gislinn",
+            "text": "Sammála, reyndar reddaði ég þessu með því að setja það upp á linux undir WINE.",
+            "date": "2012-05-03 18:20:00",
+            "post_id": "439320",
+            "reply_to_id": "439303"
+        },
+        {
+            "user_name": "Gislinn",
+            "text": "Var búinn að redda þessu fyrir u.þ.b. 5 vikum síðan, en takk samt.",
+            "date": "2012-05-03 18:22:00",
+            "post_id": "439321",
+            "reply_to_id": "439320"
+        },
+        {
+            "user_name": "tdog",
+            "text": "Er þetta ekki bannað á Vaktinni vinur? Dreifing höfundarréttarvarins efnis.",
+            "date": "2012-05-03 20:46:00",
+            "post_id": "439356",
+            "reply_to_id": "439321"
+        },
+        {
+            "user_name": "ORION",
+            "text": "Nenni ekki að standa í þessu veseni með þig.... 404\nVinur? Jáhá",
+            "date": "2012-05-04 20:30:00",
+            "post_id": "439531",
+            "reply_to_id": "439356"
+        }
+    ],
+    "date": "2012-03-20 23:34:00"
+}

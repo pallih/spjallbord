@@ -1,0 +1,72 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "1031",
+    "title": "Serial ATA RAID controller",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=1031",
+    "posts": [
+        {
+            "user_name": "axyne",
+            "text": "sko þannig standa mál að ég er með\n\nMSI K7N2G-ILSR \n\n\n\nog 2x 120 Gb serial ata Seageta Barracuda\n\n\n\nþað er innbyggður Serial ATA RAID controler á móðurborðinu.\n\n\n\nég vill hafa diskana sjálfstæða, ekki raidaða. en það er ekkert hægt að velja neitt svoleiðis í setupinu fyrir stýringuna. bara hægt að velja STriping/mirror\n\nég var að flýta mér að reyna að koma þeim í gagnið þannig ég valdi bara striping og hafði þá 2 array sem inniheld sitthvort drifið. sem gerði 2 sjálfstæð drif í windows.\n\n\n\nég veit nákvæmlega ekkert um RAID \n . þannig var þetta rétt ákvörðun eða átti ég frekar að velja Mirror eða reyna eitthvað annað.\n\n\n\nananð ég hafði eitthvað buffer 64 kb ætti ég að breyta þessari tölu eitthvað  \n\n\n\n\nmér neppla finnst þetta endilega eitthvað vera vitlaust svona. finnst tölvan frekar slow þegar ég er að færa á milli Ata disks og SATA diskana.",
+            "date": "2003-07-12 10:14:00",
+            "post_id": "8229",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Þú átt að geta notað þá sem standalone diska, þessir RAID controlerar eru yfirleitt bara auka ATA port með hardware/software(meira software held ég) RAID.\n\nÞegar ég tengdi minn eina HD í RAID PATA portið á móbóinu mínu þá sleppti ég alveg að breyta einhverju í RAID-BIOS'num og ræsti bara win, ertu búinn að prufa það?",
+            "date": "2003-07-12 13:14:00",
+            "post_id": "8230",
+            "reply_to_id": "8229"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Varstu að kaupa þessa hd'a í gær??",
+            "date": "2003-07-12 13:24:00",
+            "post_id": "8231",
+            "reply_to_id": "8230"
+        },
+        {
+            "user_name": "axyne",
+            "text": "diskarnir komu ekki upp í win fyrr en ég gerði dæmið þarna í Raid controlinum.\n\n\n\n\n\nég keypti þessa diska núna á föstudaginn síðasta.",
+            "date": "2003-07-13 15:08:00",
+            "post_id": "8272",
+            "reply_to_id": "8231"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "í computer.is ????",
+            "date": "2003-07-13 15:54:00",
+            "post_id": "8275",
+            "reply_to_id": "8272"
+        },
+        {
+            "user_name": "axyne",
+            "text": "já. varstu kannski sölumaðurinn sem seldi mér þá  \n\n\n\n\nþví spyrðu",
+            "date": "2003-07-13 18:13:00",
+            "post_id": "8283",
+            "reply_to_id": "8275"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "hehehe \n\n\n\n\nVegna þess að í gær (laugardag) var ég harðákveðinn í að kaupa svona disk og hringdi í computer.is til að kanna hvort þeir væru til á lager eða ekki. \n\nÞá sagði sölumaðurinn mér að það hefði komið maður deginum áður (föstudag) og keypt tvo síðustu diskana \n\n\nFleiri væru væntanlegir í vikunni.\n\nSkondið að það skyldi vera þú að kaupa þá. Lítill heimur.",
+            "date": "2003-07-13 18:17:00",
+            "post_id": "8287",
+            "reply_to_id": "8283"
+        },
+        {
+            "user_name": "axyne",
+            "text": "Sniðugt. lítill heimur.\n\n\n\nég sko pantaði mér þá á mánudag og hringdi svo á eftir þeim og spurði hvenær þeir yrðu vændanlegir. og mér var sagt að þeir myndu koma eftir hádegi á föstudegi.\n\n\n\nSkrítið að hann sagði að ég hefði keypt 2 síðustu diskana afþví að gaurinn sagðist hafa verið nýbúin að unpakka þeim úr kassanum þegar ég kom og náði í þá kl cc 3\n\n\n\nþeir virðast panta lítið í einu. þeir kannski sérpanta hverja einustu pöntun.",
+            "date": "2003-07-13 18:25:00",
+            "post_id": "8289",
+            "reply_to_id": "8287"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Kannski af því að þetta er ekki eins vinsælt og WD.",
+            "date": "2003-07-13 18:45:00",
+            "post_id": "8295",
+            "reply_to_id": "8289"
+        }
+    ],
+    "date": "2003-07-12 10:14:00"
+}

@@ -1,0 +1,177 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "6768",
+    "title": "Hive.is",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=6768",
+    "posts": [
+        {
+            "user_name": "drapskind",
+            "text": "Þið sem eruð komin með hive tengingu, hafiði lent í einhverjum vandræðum?  Hvernig eruð þið að pinga á útlenskum serverum þegar þið spilið tölvuleiki? Skotleiki til dæmis.",
+            "date": "2004-12-17 20:35:00",
+            "post_id": "71468",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Dagur",
+            "text": "Ég hef lent í smávægilegum vandræðum með tenginguna en í heildina er ég nokkuð ánægður. Ég hef ekki prófað að spila neina leiki hingað til þannig að ég get ekki svarað því.",
+            "date": "2004-12-18 00:00:00",
+            "post_id": "71496",
+            "reply_to_id": "71468"
+        },
+        {
+            "user_name": "Korter",
+            "text": "Hvað er að pinga?",
+            "date": "2004-12-18 01:59:00",
+            "post_id": "71510",
+            "reply_to_id": "71496"
+        },
+        {
+            "user_name": "drapskind",
+            "text": "Hvað ertu að fá í ping... Þú hlýtur að skilja spurninguna.",
+            "date": "2004-12-18 12:31:00",
+            "post_id": "71529",
+            "reply_to_id": "71510"
+        },
+        {
+            "user_name": "tms",
+            "text": "Það er oft talað um ping í netleikjum eins og battlefield og cs, þetta er tíminn í millisekúndum sem pakki tekur að fara frá þér á þjóninn og til baka.",
+            "date": "2004-12-18 15:09:00",
+            "post_id": "71541",
+            "reply_to_id": "71529"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Til að pinga ferðu í Start > All Programs > Accessories > Command Prompt og skrifar td. ping simnet.is",
+            "date": "2004-12-18 15:42:00",
+            "post_id": "71544",
+            "reply_to_id": "71541"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "ahem, við erum tölvunördar hérna!  \n\n\nStart -> Run -> 'cmd'",
+            "date": "2004-12-18 20:22:00",
+            "post_id": "71567",
+            "reply_to_id": "71544"
+        },
+        {
+            "user_name": "Dagur",
+            "text": "windows+r -> 'cmd'",
+            "date": "2004-12-18 21:16:00",
+            "post_id": "71576",
+            "reply_to_id": "71567"
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Hvað með \"cmd /k ping -t simnet.is\"",
+            "date": "2004-12-18 21:16:00",
+            "post_id": "71577",
+            "reply_to_id": "71576"
+        },
+        {
+            "user_name": "ErectuZ",
+            "text": "Hvað með að rugla ekki lítið fólk eins og mig?",
+            "date": "2004-12-18 21:27:00",
+            "post_id": "71579",
+            "reply_to_id": "71577"
+        },
+        {
+            "user_name": "ParaNoiD",
+            "text": "Pinging supernova.org [67.15.96.194] with 32 bytes of data:\n\n\n\nReply from 67.15.96.194: bytes=32 time=184ms TTL=43\n\nReply from 67.15.96.194: bytes=32 time=178ms TTL=43\n\nReply from 67.15.96.194: bytes=32 time=159ms TTL=43\n\nReply from 67.15.96.194: bytes=32 time=158ms TTL=43\n\n\n\nPing statistics for 67.15.96.194:\n\n    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),\n\nApproximate round trip times in milli-seconds:\n\n    Minimum = 158ms, Maximum = 184ms, Average = 169ms\n\n\n\nHive.is @ work",
+            "date": "2004-12-18 21:51:00",
+            "post_id": "71584",
+            "reply_to_id": "71579"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Þetta er allt í lagi ping miðað við hvernig það er hjá mér.",
+            "date": "2004-12-18 21:59:00",
+            "post_id": "71585",
+            "reply_to_id": "71584"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "hvað með WINTAKKA + R - cmd /k ping -t simnet.is",
+            "date": "2004-12-19 00:35:00",
+            "post_id": "71596",
+            "reply_to_id": "71585"
+        },
+        {
+            "user_name": "viddi",
+            "text": "og svona til að bera saman þá er þetta simnet:\n\n\n\nPinging supernova.org [67.15.96.195] with 32 bytes of data:\n\n\n\nReply from 67.15.96.195: bytes=32 time=134ms TTL=47\n\nReply from 67.15.96.195: bytes=32 time=133ms TTL=47\n\nReply from 67.15.96.195: bytes=32 time=133ms TTL=47\n\nReply from 67.15.96.195: bytes=32 time=133ms TTL=47\n\n\n\nPing statistics for 67.15.96.195:\n\n    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),\n\nApproximate round trip times in milli-seconds:\n\n    Minimum = 133ms, Maximum = 134ms, Average = 133ms\n\n\n\nps. einhver að koma með voda",
+            "date": "2004-12-19 00:56:00",
+            "post_id": "71598",
+            "reply_to_id": "71596"
+        },
+        {
+            "user_name": "gumol",
+            "text": "OgVodafone: \n\n\n\ngumol@netgate gumol $ ping supernova.org -c 4 -t 15\n\nPING supernova.org (67.15.96.194) 56(84) bytes of data.\n\n64 bytes from ev1s-67-15-96-194.ev1servers.net (67.15.96.194): icmp_seq=1 ttl=49 time=140 ms\n\n64 bytes from ev1s-67-15-96-194.ev1servers.net (67.15.96.194): icmp_seq=2 ttl=49 time=142 ms\n\n64 bytes from ev1s-67-15-96-194.ev1servers.net (67.15.96.194): icmp_seq=3 ttl=49 time=140 ms\n\n64 bytes from ev1s-67-15-96-194.ev1servers.net (67.15.96.194): icmp_seq=4 ttl=49 time=140 ms\n\n\n\n--- supernova.org ping statistics ---\n\n4 packets transmitted, 4 received, 0% packet loss, time 3024ms\n\nrtt min/avg/max/mdev = 140.485/141.065/142.256/0.793 ms",
+            "date": "2004-12-19 01:55:00",
+            "post_id": "71615",
+            "reply_to_id": "71598"
+        },
+        {
+            "user_name": "JReykdal",
+            "text": "Örfáir pakkar eru nú ekki beint besta mælingin. Amk. 50 pakkar er lágmark (og passa sig að gera ekkert á tengingunni á meðan).",
+            "date": "2004-12-19 14:33:00",
+            "post_id": "71653",
+            "reply_to_id": "71615"
+        },
+        {
+            "user_name": "skipio",
+            "text": "Þetta er allavega betra en ADSL-tengingin mín hjá RHÍ:\n\n~203ms á supernova.org - prófaði sirka 50 sinnum fyrir JReykdal.",
+            "date": "2004-12-19 14:44:00",
+            "post_id": "71655",
+            "reply_to_id": "71653"
+        },
+        {
+            "user_name": "tms",
+            "text": "Kóði: \nVelja allt\n--- suprnova.org ping statistics ---\n50 packets transmitted, 50 received, 0% packet loss, time 49047ms\nrtt min/avg/max/mdev = 102.739/119.922/139.001/11.090 ms\n\n\nOg þetta er með einu uploadi og wondershaper á 2mbps vodafone línu",
+            "date": "2004-12-19 14:57:00",
+            "post_id": "71657",
+            "reply_to_id": "71655"
+        },
+        {
+            "user_name": "JReykdal",
+            "text": "Kóði: \nVelja allt\n--- www.suprnova.org ping statistics ---\n50 packets transmitted, 50 received, 0% packet loss, time 49050ms\nrtt min/avg/max/mdev = 56.543/74.202/187.862/30.261 ms, pipe 2\n\n\n\n\nSímnet ADSL með engum spes græjum og lágmarkstraffík.\n\nyfir wi-fi (bætist við örfáar ms",
+            "date": "2004-12-19 17:56:00",
+            "post_id": "71674",
+            "reply_to_id": "71657"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Hmm, var ekki ótrúlega svipaður þráður fyrir stuttu? allavega:\nKóði: \nVelja allt\nPing statistics for 83.149.65.211:\n    Packets: Sent = 50, Received = 50, Lost = 0 (0% loss)\nApproximate round trip times in milli-seconds:\n    Minimum = 109ms, Maximum =  125ms, Average =  110ms\n\n\n1 Mbps á Símnet",
+            "date": "2004-12-19 22:05:00",
+            "post_id": "71700",
+            "reply_to_id": "71674"
+        },
+        {
+            "user_name": "tms",
+            "text": "Noh, bara búið að loka suprnova.org og torrentbits.org :/\n\nÉg minni á #bt, #bt-gm og #tvtorrents á efnet!",
+            "date": "2004-12-19 23:49:00",
+            "post_id": "71715",
+            "reply_to_id": "71700"
+        },
+        {
+            "user_name": "OrkO",
+            "text": "líka \nhttp://www.tvtorrents.net\n sýnist mér.... hvað ætli líði margir dagar þangað til þær koma aftur upp á serverum í rússlandi eðeitthva",
+            "date": "2004-12-20 13:17:00",
+            "post_id": "71737",
+            "reply_to_id": "71715"
+        },
+        {
+            "user_name": "Birkir",
+            "text": "http://www.torrentreactor.net/\n er líka fínt..",
+            "date": "2004-12-20 13:38:00",
+            "post_id": "71744",
+            "reply_to_id": "71737"
+        },
+        {
+            "user_name": "OrkO",
+            "text": "http://www.piratebay.org\n er í fínu standi  \n\n\n\n\nmæli með að skoða Legal threats dálkinn hjá þeim \nhttp://static.thepiratebay.org/legal/\n\n\n\n\nhrikalega fyndið",
+            "date": "2004-12-20 14:38:00",
+            "post_id": "71748",
+            "reply_to_id": "71744"
+        }
+    ],
+    "date": "2004-12-17 20:35:00"
+}

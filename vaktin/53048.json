@@ -1,0 +1,51 @@
+{
+    "forum_title": "Windows",
+    "id": "53048",
+    "title": "Gott forrit til að skanna registry eftir malware",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=53048",
+    "posts": [
+        {
+            "user_name": "capteinninn",
+            "text": "Ég sá hérna einhverstaðar á vaktinni fyrir ekki löngu síðan forrit sem skannar registry eftir duplicates og malware og fleira .\nHeld ég sé með eitthvað rusl á tölvunni en finn ekki með avast! neitt.\nÉg er búinn að leita á vaktinni en ég finn ekki aftur þennan þráð þar sem var linkur á þetta forrit, getur einhver bent mér á gott forrit fyrir þetta",
+            "date": "2013-01-27 12:57:00",
+            "post_id": "492088",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Squinchy",
+            "text": "Ég nota PCtuneup frá AVG, hefur reynst mér vel",
+            "date": "2013-01-27 13:02:00",
+            "post_id": "492089",
+            "reply_to_id": "492088"
+        },
+        {
+            "user_name": "methylman",
+            "text": "Glary Utilities hefur reynst mér vel er líka með \"startup items\"  þar sem þú getur valið hvað fer sjálfvirkt í gang við ræsingu  \nhttp://www.glarysoft.com/glary-utilities-pro/\n  trial í 30 daga",
+            "date": "2013-01-27 13:07:00",
+            "post_id": "492092",
+            "reply_to_id": "492089"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Er ekki hægt að nota MSConfig líka fyrir þetta?",
+            "date": "2013-01-27 13:22:00",
+            "post_id": "492093",
+            "reply_to_id": "492092"
+        },
+        {
+            "user_name": "Kristján",
+            "text": "CCleaner\nhttp://www.piriform.com/ccleaner",
+            "date": "2013-01-27 13:37:00",
+            "post_id": "492095",
+            "reply_to_id": "492093"
+        },
+        {
+            "user_name": "hkr",
+            "text": "Ef þú veist hvað þú ert að gera þá myndi ég mæla með HiJackThis.\nEn annars er líka mjög gott að nota Process Explorer frá MS Sysinternals, getur séð hvaða forrit eru Verified og hvort þau séu encrypted. Allt sem er Verified ætti að vera í lagi (aðeins Stuxnet o.þ.h. malware hafa verið Verfied, s.s. \"government malware\") og það sem er \"Unable to verify\" ættir þú að skoða betur, ef þú veist ekki hvað það er/mannst ekki eftir að hafa sett það upp myndi ég skoða það betur og þá sérstaklega ef það er encrypted (fjólublátt).\nÍ stað þess að nota msconfig myndi ég mæla með Autoruns (einni frá Sysinternals, er 'stóri' bróðir msconfigs). Mun betra forrit til þess að sjá hvað keyrt þegar vélin fer í gang og hvaðan.\nFinnur þessi forrit ásamt fleirum hér: \nhttp://technet.microsoft.com/en-US/sysinternals\nps. ef þú lendir í veseni með að ræsa Process Explorer eða Autoruns að þá eru það góðar líkur á því að það sé leiðindar malware á vélinni hjá þér, sum af stærri malware'unum sem eru í gangi gera allt sem þau geta til þess að hindra notandann frá því að keyra þessi forrit.",
+            "date": "2013-01-27 15:36:00",
+            "post_id": "492112",
+            "reply_to_id": "492095"
+        }
+    ],
+    "date": "2013-01-27 12:57:00"
+}

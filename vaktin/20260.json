@@ -1,0 +1,30 @@
+{
+    "forum_title": "Windows",
+    "id": "20260",
+    "title": "2 OS  í lappanum...",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=20260",
+    "posts": [
+        {
+            "user_name": "Beetle",
+            "text": "Er í vél félaga míns, að reyna að laga, tek eftir í ræsingu að það eru 2 os í græjunni! Fer í run, msnconfig, og síðan BOOT.INI og sé 2 os. Á ég ekki að geta deletað os'inu sem ekki er notað ? Sé engan valkost sem leyfir það.  Bkv.",
+            "date": "2008-11-30 13:12:00",
+            "post_id": "188485",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Sydney",
+            "text": "Hvaða tvö stýrikerfi eru þetta? Vista og XP?",
+            "date": "2008-11-30 13:55:00",
+            "post_id": "188489",
+            "reply_to_id": "188485"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Getur deletað annari windows möppunni úr C: og svo farið í properties á my computer, advanced flipann, klikka á settings undir startup and recovery, farið í edit og eytt öðru sem lítur einhvernveginn svona út:\nmulti(0)disk(0)rdisk(0)partition(1)\\WINDOWS=\"Microsoft Windows XP Home Edition\" /NOEXECUTE=OPTIN /FASTDETECT\nVerður samt að passa að deleta því sama og þú deletaðir Windows möppunni\nSvo getur verið að þetta sé á sitthvorru partition.. Þá geturu bara formatað þá partition",
+            "date": "2008-11-30 20:18:00",
+            "post_id": "188501",
+            "reply_to_id": "188489"
+        }
+    ],
+    "date": "2008-11-30 13:12:00"
+}

@@ -1,0 +1,65 @@
+{
+    "forum_title": "Windows",
+    "id": "16554",
+    "title": "Breyta um Hardware en halda sama OS",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=16554",
+    "posts": [
+        {
+            "user_name": "Selurinn",
+            "text": "Er einhver möguleiki á því að þú getir nánast skipt um allt hardware, móðurborð og öllu því sem tilheyrir en halda sama operating system með öllum þeim hugbúnaði sem er uppsettur á HDD.\n\nÁstæðan afhverju ég spyr er vegna þess ég er mjög upptekinn þessa daganna og get mögulega ekki eytt tímann á næstunni í því að raða öllu upp og customizera allt eins og það var.\n\n\n\nEr hægt að gera þetta með því að ghost backupa diskinn og síðan restora eftir að það er búið að skipta hardwareið?\n\n\n\nSvo ein önnur spurning, þetta er XP Pro 32-bit, er möguleiki að skipta leiðinni í XP Pro 64-bit, þ.e.a.s með svokölluðu upgradei, eða er það alveg útúr dæminu með því þ.e.a.s að halda öllu?",
+            "date": "2008-01-06 17:55:00",
+            "post_id": "162029",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "zedro",
+            "text": "Ég \"held\" að það sé hægt með því að fjalægja bara alla drivera fyrir allt hardware svo skipta",
+            "date": "2008-01-06 19:55:00",
+            "post_id": "162035",
+            "reply_to_id": "162029"
+        },
+        {
+            "user_name": "Halli25",
+            "text": "ég uppfærði nýlega úr s939 í AM2 og það virkaði án þess að gera neitt við stýrikerfið, þurfti bara að staðfesta windows stýrikerfið hjá mér og setja upp rekla fyirr nýja dótið og voila tilbúið til notkunar. gætir lent í vanda með amd í intel og öfugt \n\n\n\n\nÞori ekki að segja með 32 bita og 64 bita... myndi samt halda að það sé ekki hægt þar sem þetta eru allt önnur stýrikerfi",
+            "date": "2008-01-06 22:29:00",
+            "post_id": "162047",
+            "reply_to_id": "162035"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Nákvæmlega það sem ég hugsaði \n\n\n\n\nBara henda öllum driverum út og ghosta, formata, skipta hardware og recovera diskinn með ghost imageinu.\n\n\n\nSound like something that could work",
+            "date": "2008-01-06 23:04:00",
+            "post_id": "162052",
+            "reply_to_id": "162047"
+        },
+        {
+            "user_name": "SIKO",
+            "text": "ef þú ætlar að skipta út m-borði þá gætirðu lent í vesi ef hdd er sata og raid stíringarnar eru ekki af sömu gerð ég hef lent í því að vera með fullan system hdd og þurfti svo að gera nýtt stripe arry á nýja borðinu\n\nkv siko",
+            "date": "2008-02-04 03:48:00",
+            "post_id": "165462",
+            "reply_to_id": "162052"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Er ekkert að nota RAID svo ég ætti að vera góður",
+            "date": "2008-02-04 10:04:00",
+            "post_id": "165469",
+            "reply_to_id": "165462"
+        },
+        {
+            "user_name": "Gets",
+            "text": "Ég hef prófað nokkrum sinnum bara að gamni að sleppa því að formata og skella bara harða diskinum beint í nýjan uppfærslu \"hef þá alltaf verið að nota\"intel kubbasett\" og það hefur ekki verið neitt mál XP setur bara upp drivera fyrir nýja vélbúnaðin, í versta falli þarf ég að setja upp sjálfur netkorts og skjádriver sjálfur en það er allt og sumt, hef einu sinni prófað að setja diskin yfir í AMD vél og viti menn það gékk og þá var ég hissa",
+            "date": "2008-02-04 18:14:00",
+            "post_id": "165508",
+            "reply_to_id": "165469"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Jja ætli maður fari þá ekki að skella sér yfir í Wolfdale",
+            "date": "2008-02-04 21:16:00",
+            "post_id": "165526",
+            "reply_to_id": "165508"
+        }
+    ],
+    "date": "2008-01-06 17:55:00"
+}

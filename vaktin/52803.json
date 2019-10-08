@@ -1,0 +1,72 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "52803",
+    "title": "Opna port hjá símanum.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=52803",
+    "posts": [
+        {
+            "user_name": "Vignirorn13",
+            "text": "Ég þarf að opna port fyrir ftp server og það er ekki að virka. Ég er með Technicolor Tg589vn v2 Ljósnetsráder frá þeim. Ég er búinn að reyna að fara eftir portforward.com og hringja í þá og það er ekkert sem virkar. Er einhver hér sem gæti hjálpað mér með þetta ?",
+            "date": "2013-01-17 16:48:00",
+            "post_id": "490143",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "1. Föst IP tala á tölvu.\n2. Ath. að það sé opið fyrir port 23 í eldvegg á tölvu.\n3. Búa til Game/Application reglu á router sem forwardar porti 23 á TCP.\n4. Assigna regluna á machine-name (Nafn tölvunnar) eða beint á IP töluna með því að nota User Defined valmöguleikann.",
+            "date": "2013-01-17 16:54:00",
+            "post_id": "490145",
+            "reply_to_id": "490143"
+        },
+        {
+            "user_name": "Vignirorn13",
+            "text": "Búinn að gera þetta. en það virðist ekki virka.",
+            "date": "2013-01-17 17:01:00",
+            "post_id": "490148",
+            "reply_to_id": "490145"
+        },
+        {
+            "user_name": "einarth",
+            "text": "Prófaðu þá sömu leiðbeiningar nema með TCP port 21 - sem er portið fyrir FTP (port 23 er telnet)..\nÞar að auki gætir þú þurft að forwarda nokkrum portum í viðbót fyrir passive-mode data connection - þú stillir hvaða port þú vilt nota í slíkt í FTP server hugbúnaðinum.\nKv, Einar.",
+            "date": "2013-01-17 21:12:00",
+            "post_id": "490204",
+            "reply_to_id": "490148"
+        },
+        {
+            "user_name": "Vignirorn13",
+            "text": "Ég fór eftir einhverjur youtube myndbandi og port 1024 er opið en samt nær vinur minn ekki að joina serverinn.",
+            "date": "2013-01-17 21:20:00",
+            "post_id": "490206",
+            "reply_to_id": "490204"
+        },
+        {
+            "user_name": "sakaxxx",
+            "text": "ertu að gera minecraft server?\nef svo þá þurfti ég allavega að opna port í gegnum windows firewall þú ferð í new rule og svo port og specific local ports og allow the conection ég nota port 25565",
+            "date": "2013-01-17 21:33:00",
+            "post_id": "490208",
+            "reply_to_id": "490206"
+        },
+        {
+            "user_name": "Vignirorn13",
+            "text": "Ég er að gera ftp server (filezilla server)",
+            "date": "2013-01-17 21:35:00",
+            "post_id": "490209",
+            "reply_to_id": "490208"
+        },
+        {
+            "user_name": "AndriKarl",
+            "text": "Ertu búinn að hleypa Filezilla server í gegnum windows firewall?\nBúinn að stilla Filezilla serverinn þannig að hann hlusti rétt port?",
+            "date": "2013-01-17 21:59:00",
+            "post_id": "490216",
+            "reply_to_id": "490209"
+        },
+        {
+            "user_name": "Vignirorn13",
+            "text": "Fór eftir myndbandinu og þá gerði hann það. semsagt já.",
+            "date": "2013-01-17 22:01:00",
+            "post_id": "490217",
+            "reply_to_id": "490216"
+        }
+    ],
+    "date": "2013-01-17 16:48:00"
+}

@@ -1,0 +1,58 @@
+{
+    "forum_title": "Windows",
+    "id": "73433",
+    "title": "Driver backup - Hvaða driver er fyrir hvaða búnað ?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=73433",
+    "posts": [
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Hæhæ\nSmá pæling hvort einhver á vaktinni þekkir góða leið þegar maður tekur afrit af 3rd party Driver-um af vél \nMín leið er einföld Powershell skipun : \nExport-WindowsDriver -Online -Destination d:\\drivers\n \nEflaust hægt að fara fleiri leiðir\nÞá fær maður svona Folder með illa þekkjanlegum Folder name-um\nEr einhver góð leið til að identify-a þessi nöfn (eða einfaldlega exporta 3rd party driverum með þæginlegri nafnastúktúr).\nAnnars þarf maður að Google-a eða nota útilokunaraðferðina í Device manager.",
+            "date": "2017-07-02 12:16:00",
+            "post_id": "652295",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Til hvers þarftu að finna nöfnin? Þegar þú install-ar driverum þá geturu leitað í subfolders og Windows finnur út hvaða driver þarf að installa.",
+            "date": "2017-07-02 12:21:00",
+            "post_id": "652296",
+            "reply_to_id": "652295"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "T.d þegar ég ætla að búa til image fyrir útstöðvar þá væri það þæginlegt (ef maður veit lítið um búnað sem fólk er að nota).",
+            "date": "2017-07-02 12:31:00",
+            "post_id": "652298",
+            "reply_to_id": "652296"
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Getur líka bara inject-að öllum driver-unum inn í image-ið með\nKóði: \nVelja allt\nDism /Image:C:\\test\\offline /Add-Driver /Driver:c:\\drivers /Recurse",
+            "date": "2017-07-02 12:45:00",
+            "post_id": "652299",
+            "reply_to_id": "652298"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Spurning hvort DISM virki vel með þeim lausnum sem ég mun vinna með ( Þ.e  MDT) Hugsanlega þegar ég er búinn að búa til Image-ið í MDT þ.e Exporta því að ég geti nýtt mér þessa DISM skipun.\nÞetta eru þau tól sem ég er að nota (til að búa til image fyrir sirka 70 vélar - Windows 10 )\nAssessment and Deployment Kit (Windows ADK)\nProvisionin-a package með Windows Imaging and Configuration Designer (ICD)\nMicrosoft Deployment Toolkit (MDT)\nEr btw ekki með í boði PXE boot og get þar af leiðandi ekki notfært mér windows deployment services (WDS)\n(BTW er ekki mikið búinn að pæla í útstöðva rekstri í soldinn tíma)",
+            "date": "2017-07-02 13:01:00",
+            "post_id": "652301",
+            "reply_to_id": "652299"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Sýnist MDT bjóða uppá að velja Folder fyrir Driver-a sem ég vill nota þannig að hugsanlega er ég að flækja hlutina.",
+            "date": "2017-07-02 13:16:00",
+            "post_id": "652305",
+            "reply_to_id": "652301"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Náði allavegana Driver info um leið og ég exportaði driverum með að nota þessa Powershell scriptu\nKóði: \nVelja allt\n$Drivers = Export-WindowsDriver -Online -Destination 'D:\\Drivers'\n$Drivers | FL * | Out-File d:\\Drivers\\info.txt\nNúna þarf ég bara að ná að raða upp OriginalfileNAme á Output í Notepad í takt við Foldera á Driver Exporti.",
+            "date": "2017-07-02 14:20:00",
+            "post_id": "652306",
+            "reply_to_id": "652305"
+        }
+    ],
+    "date": "2017-07-02 12:16:00"
+}

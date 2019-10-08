@@ -1,0 +1,58 @@
+{
+    "forum_title": "Windows",
+    "id": "26504",
+    "title": "\"NTLDR is missing\" bsod...",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=26504",
+    "posts": [
+        {
+            "user_name": "bixer",
+            "text": "lendi alltaf í vandræðum þegar ég reyni að taka myndmönd af video camerunni í tölvuna. þá frís hún og þegar ég reyni að kveikja á henni þá kemur NTLDR is missing...afhverju gæti þetta verið?\nmér dettur í hug að aflgjafinn sé ekki nógu öflugur...",
+            "date": "2009-11-30 17:12:00",
+            "post_id": "230664",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Narco",
+            "text": "Ég \"held\" að vélin sé að reyna að boota up af minninu í camerunni hjá þér, mátt ekki hafa hana tengda meðan þú endurræsir.\nÞetta er mjög líklega bios problem í ætt við bootup order og bootup options, ef þú hefur ekkert vit á bios þá eru örugglega slatti af strákunum á vaktinni reiðubúnir að aðstoða þig með svona smotterí.",
+            "date": "2009-11-30 17:37:00",
+            "post_id": "230667",
+            "reply_to_id": "230664"
+        },
+        {
+            "user_name": "bixer",
+            "text": "já en afhverju frís hún alltaf þegar ég reyni að taka efni af henni?",
+            "date": "2009-11-30 17:42:00",
+            "post_id": "230668",
+            "reply_to_id": "230667"
+        },
+        {
+            "user_name": "bixer",
+            "text": "einhver annar með skoðun á þessu?",
+            "date": "2009-12-01 16:26:00",
+            "post_id": "230886",
+            "reply_to_id": "230668"
+        },
+        {
+            "user_name": "JohnnyX",
+            "text": "Gæti ekki BSOD verið útaf vinnsluminninu? Þegar að þú reynir að framkvæma ákveðna skipun þá reynir tölvan að nota skemmda kubbinn eða e-ð álíka. Annars er ég ekki alveg viss",
+            "date": "2009-12-01 18:05:00",
+            "post_id": "230896",
+            "reply_to_id": "230886"
+        },
+        {
+            "user_name": "Narco",
+            "text": "Af hverju ekki að setja upp nýja drivera s.s. chipset.",
+            "date": "2009-12-01 19:14:00",
+            "post_id": "230910",
+            "reply_to_id": "230896"
+        },
+        {
+            "user_name": "mercury",
+            "text": "lenti í þessu þegar ég var að reyna að formata um daginn. fann lausnina hér.\nhttp://www.computerhope.com/issues/ch000465.htm",
+            "date": "2009-12-01 20:00:00",
+            "post_id": "230923",
+            "reply_to_id": "230910"
+        }
+    ],
+    "date": "2009-11-30 17:12:00"
+}

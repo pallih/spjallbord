@@ -1,0 +1,289 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "50024",
+    "title": "Slökkvið á Java - 0day exploit - öll OS",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=50024",
+    "posts": [
+        {
+            "user_name": "Gúrú",
+            "text": "http://www.theregister.co.uk/2012/08/27 ... k_exploit/\nChrome notendur:\nabout:plugins => Gera disable á öll Java forrit\neða:\nchrome://plugins/ => Gera disable á öll Java forrit\nFirefox notendur:\nÝta á aðaltakkann => Add-ons => Plugins => Disable á öll Java forrit\nOpera notendur:\nopera:plugins => Disable á öll Java forrit\nInternet Explorer notendur: \nHalið niður alvöru browser.\nVersta tegundin af exploiti, leyfir hverjum sem er að keyra hvað sem er utan vafasandkassans ef að þú leyfir Java hlutum að keyra sig.",
+            "date": "2012-08-28 19:42:00",
+            "post_id": "463592",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "dori",
+            "text": "Ástæðan fyrir því að ég keyri aldrei browser plugin nema frá semi-traustum aðilum (reyndar bara flash, ég leyfi hitt dótið ekki nema fyrir aðila sem ég virkilega treysti).\nTakk fyrir heads up samt.",
+            "date": "2012-08-28 20:05:00",
+            "post_id": "463597",
+            "reply_to_id": "463592"
+        },
+        {
+            "user_name": "Ratorinn",
+            "text": "Takk fyrir viðvörunina",
+            "date": "2012-08-28 20:08:00",
+            "post_id": "463598",
+            "reply_to_id": "463597"
+        },
+        {
+            "user_name": "bulldog",
+            "text": "takk fyrir viðvörunina",
+            "date": "2012-08-28 20:09:00",
+            "post_id": "463599",
+            "reply_to_id": "463598"
+        },
+        {
+            "user_name": "hfwf",
+            "text": "Eða downgrade-a í 1.6.",
+            "date": "2012-08-28 20:09:00",
+            "post_id": "463600",
+            "reply_to_id": "463599"
+        },
+        {
+            "user_name": "Varasalvi",
+            "text": "Þarf maður ekki Java til að keyra allskonar myndir, myndbönd og fleira drasl í browser?",
+            "date": "2012-08-28 20:09:00",
+            "post_id": "463601",
+            "reply_to_id": "463600"
+        },
+        {
+            "user_name": "Ratorinn",
+            "text": "Því miður þá já.\nGetur samt downgradeað.",
+            "date": "2012-08-28 20:12:00",
+            "post_id": "463603",
+            "reply_to_id": "463601"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Nei.\nEkki rugla saman Java (as in Java applets) og Javascript.  Alls ekki sami hluturinn.\nMyndbönd og svoleiðis í vöfrum eru oftar en ekki flash based.",
+            "date": "2012-08-28 20:13:00",
+            "post_id": "463604",
+            "reply_to_id": "463603"
+        },
+        {
+            "user_name": "noizer",
+            "text": "Nei nei, það er ekkert oft sem maður þarf Java. Alveg eins hægt að hafa slökkt á því.\nHeld reyndar að það séu ennþá flestir í dag að nota Java 1.6.",
+            "date": "2012-08-28 20:14:00",
+            "post_id": "463605",
+            "reply_to_id": "463604"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Fleiri vulnerabilities í eldri útgáfum af augljósum ástæðum, og jafnvel jafn alvarlegar ef þú downgradear nógu langt aftur í tímann.\nBetra að hafa bara slökkt á þessu í bili.",
+            "date": "2012-08-28 20:20:00",
+            "post_id": "463609",
+            "reply_to_id": "463605"
+        },
+        {
+            "user_name": "Páll",
+            "text": "Eru eitthverjar lýkur á því að maður lendi í þessu?",
+            "date": "2012-08-28 20:23:00",
+            "post_id": "463610",
+            "reply_to_id": "463609"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Já.",
+            "date": "2012-08-28 20:25:00",
+            "post_id": "463611",
+            "reply_to_id": "463610"
+        },
+        {
+            "user_name": "FuriousJoe",
+            "text": "finn hvergi about:plugins í chrome :S",
+            "date": "2012-08-28 20:32:00",
+            "post_id": "463613",
+            "reply_to_id": "463611"
+        },
+        {
+            "user_name": "Páll",
+            "text": "Finn þetta hvergi..",
+            "date": "2012-08-28 20:33:00",
+            "post_id": "463614",
+            "reply_to_id": "463613"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "chrome://plugins/ ef þið fáið þetta ekki upp.  \nEigið að slá þetta inn í URL barið m.é.m.",
+            "date": "2012-08-28 20:34:00",
+            "post_id": "463615",
+            "reply_to_id": "463614"
+        },
+        {
+            "user_name": "playman",
+            "text": "damn to quick\nEn já eins og hann Gúrú sagði þá skrifiði eða copy paste\nchrome://plugins/\ní address barin",
+            "date": "2012-08-28 20:44:00",
+            "post_id": "463619",
+            "reply_to_id": "463615"
+        },
+        {
+            "user_name": "Örn ingi",
+            "text": "Takk",
+            "date": "2012-08-28 21:17:00",
+            "post_id": "463622",
+            "reply_to_id": "463619"
+        },
+        {
+            "user_name": "Baldurmar",
+            "text": "Stal þessu og póstaði á facebook, takk.",
+            "date": "2012-08-28 21:34:00",
+            "post_id": "463627",
+            "reply_to_id": "463622"
+        },
+        {
+            "user_name": "Ratorinn",
+            "text": "Eitthvað vitað hvenær þetta verður lagað? Vika? Mánðuður?",
+            "date": "2012-08-28 21:44:00",
+            "post_id": "463634",
+            "reply_to_id": "463627"
+        },
+        {
+            "user_name": "Ratorinn",
+            "text": "Ég fékk avalable java update. Ætli þetta sé lagað þar?",
+            "date": "2012-08-30 16:52:00",
+            "post_id": "464081",
+            "reply_to_id": "463634"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Miðað við að þessa grein sem kom út í dag þá grunar mig að það sé ekki official ennþá allavegana.\nhttp://www.theregister.co.uk/2012/08/30/java_zero_day_latest/",
+            "date": "2012-08-30 18:24:00",
+            "post_id": "464105",
+            "reply_to_id": "464081"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Annað svona, ennþá alvarlegra því að Java forrit sem að þú ert ekki búinn að segjast 'treysta' getur gefið sjálfu sér fullt traust. \nhttp://www.kb.cert.org/vuls/id/625617\nDisable er það eina sem að virkar í þetta skiptið þó að þú 'treystir' engum Java forritum.",
+            "date": "2013-01-11 06:31:00",
+            "post_id": "488887",
+            "reply_to_id": "464105"
+        },
+        {
+            "user_name": "playman",
+            "text": "Djöfulsins rugl er þetta.\nMaður hefði haldið að svona stórt company sem á að sjá um yfir 3 milljarða devices ætti að geta leitað eftir\n0day's og patchað það.",
+            "date": "2013-01-11 08:50:00",
+            "post_id": "488893",
+            "reply_to_id": "488887"
+        },
+        {
+            "user_name": "Jón Ragnar",
+            "text": "Er ekki einu sinni að (það er rangt að tala um að rönna, ég lofa að vanda málfar mitt annars verð ég bannaður, lengi lifi ritskoðun!) Java",
+            "date": "2013-01-11 08:57:00",
+            "post_id": "488894",
+            "reply_to_id": "488893"
+        },
+        {
+            "user_name": "Jon1",
+            "text": "takk fyrir viðvörun ! fékk að henda þessu á FB",
+            "date": "2013-01-11 09:16:00",
+            "post_id": "488897",
+            "reply_to_id": "488894"
+        },
+        {
+            "user_name": "dori",
+            "text": "Þetta lýsir algjörri vanþekkingu á hugbúnaðarþróun. Það eru alltaf einhverjir gallar. 0day skv. skilgreiningu er eitthvað óþekkt. Fyrir hvern 0day sem uppgötvast þá hafa þeir örugglega patchað 100 alvarlega bögga áður en það kemst til notenda.",
+            "date": "2013-01-11 11:20:00",
+            "post_id": "488911",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "playman",
+            "text": "Ég veit það alveg að það eru alltaf gallar, en þegar að fyrirtæki eins og Oracle er búin að vera með ó-patchaðan exploit eins og Guru postaði\nfyrst, í margar vikur jafnvel mánuði. En hey, ég er ekki að seygjast hafa einhverja þekkingu á hugbúnaðarþróun, en mér fynst það samt \nskrítið að það sé ekki hægt að senda út patch stuttu eftir að komist hefur upp um hann. Kanski er það bara ég.",
+            "date": "2013-01-11 11:47:00",
+            "post_id": "488912",
+            "reply_to_id": "488911"
+        },
+        {
+            "user_name": "dori",
+            "text": "Það er allt annar handleggur. Að geta ekki patchað bögg sem er kominn upp \"fyrir löngu\" er eitt. 0day er nýtt exploit og slík munu alltaf vera til staðar á öllum kerfum.\nSvo er spurning hver ber ábyrgð á því að þessi browser runtime séu uppfærð. Java sem runtime fyrir applet er t.d. algör bastarður og ég myndi aldrei leyfa slíkt nema á \"click-to-play\" basis í mínum vöfrum (og þá bara þegar það er algjört must fyrir eitthvað sem ég virkilega treysti).",
+            "date": "2013-01-11 12:43:00",
+            "post_id": "488917",
+            "reply_to_id": "488912"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Sem er alls ekki góð strategía m.v. nýjustu upplýsingar.",
+            "date": "2013-01-11 22:07:00",
+            "post_id": "488997",
+            "reply_to_id": "488917"
+        },
+        {
+            "user_name": "upg8",
+            "text": "Heimavarnaráðuneyti Bandaríkjanna varar tölvunotendur við því að galli í Java-hugbúnaði, sem notaður er á hundruðum milljóna einkatölva, sé svo hættulegur að fólk ætti að hætta að nota Java.\nhttp://www.ruv.is/frett/folki-radid-ad-slokkva-a-java",
+            "date": "2013-01-12 00:18:00",
+            "post_id": "489017",
+            "reply_to_id": "488997"
+        },
+        {
+            "user_name": "dori",
+            "text": "Rangt. Þarna er verið að tala um galla í öryggismódelinu sem Java runtiminn sér sjálfur um. Ég er að tala um að ég blokka java pluginið með vafranum.",
+            "date": "2013-01-12 00:59:00",
+            "post_id": "489022",
+            "reply_to_id": "489017"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "Bara smá forvitni, hvaða stýrikerfi keyrirðu?",
+            "date": "2013-01-14 00:24:00",
+            "post_id": "489412",
+            "reply_to_id": "489022"
+        },
+        {
+            "user_name": "playman",
+            "text": "Þau eru nokkur, fer eftir því hvar ég er og hvað ég er að gera.\nþað sem ég nota mest er Win7 og Ubuntu, svo eithvað af backtrack og XP",
+            "date": "2013-01-14 02:19:00",
+            "post_id": "489422",
+            "reply_to_id": "489412"
+        },
+        {
+            "user_name": "playman",
+            "text": "http://www.zdnet.com/oracle-patches-mul ... 000009736/",
+            "date": "2013-01-14 08:40:00",
+            "post_id": "489425",
+            "reply_to_id": "489422"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Það er \nekki\n búið að laga þetta exploit almennilega. Endilega hafið slökkt á Java (mögulega aldrei kveikja á því yfir höfuð).",
+            "date": "2013-01-16 17:02:00",
+            "post_id": "489951",
+            "reply_to_id": "489425"
+        },
+        {
+            "user_name": "kubbur",
+            "text": "Er ekki android fronturinn java?",
+            "date": "2013-01-16 21:11:00",
+            "post_id": "490010",
+            "reply_to_id": "489951"
+        },
+        {
+            "user_name": "dori",
+            "text": "Android forrit eru skrifuð í Java og keyra á \nDalvik\n vélinni. Þau exploit sem þessi þráður fjallar um hafa ekkert með það að gera. Þessi exploit eru í runtime-inu fyrir vafra og (hugsanlega, ég er ekki 100%) Oracle JRE.",
+            "date": "2013-01-17 09:23:00",
+            "post_id": "490089",
+            "reply_to_id": "490010"
+        },
+        {
+            "user_name": "Yawnk",
+            "text": "Er búið að laga þetta?",
+            "date": "2013-03-07 20:53:00",
+            "post_id": "499054",
+            "reply_to_id": "490089"
+        },
+        {
+            "user_name": "hkr",
+            "text": "\"Þetta\" já, þeas þetta exploit. En það eru víst 2-3 java 0-day í gangi núna eða voru það fyrir stuttu síðan.\nUm daginn var pwn2own (exploit keppni þar sem $ eru í verðlaun) og það tókst 4 mismunandi aðilum að exploita java, veit ekki betur en að það voru allt mismunandi aðferðir.\nMyndi mæla með að uninstalla því nema að þú þurfir endilega að nota það, en þá að breyta stillingunum þannig að það sé bara virkt (Enable Java content in the browser) þegar þú þarft að nota það og aðeins á síðum sem þú treystir 100%.\nÞað var semt ekki bara Java sem var með öryggisgalla sem voru sýndir á pwn2own, VUPEN sem er franskt öryggisfyrirtæki (exploit developer) tókst einnig að exploita Chrome, IE 10, Firefox og Flash (keyrt á Win7 explorer 9). Einnig sýndi George Hotz (goehot, þekktur fyrir að hanna jailbreak fyrir iphone) exploit fyrir Adobe Reader.\nÞetta voru allt 0-day exloits, s.s. óþekkt exploit.\nhttp://h30499.www3.hp.com/t5/HP-Securit ... -p/5981157\nedit: pwn2own byrjaði víst í gær og er enn þá í gangi..",
+            "date": "2013-03-07 23:20:00",
+            "post_id": "499087",
+            "reply_to_id": "499054"
+        },
+        {
+            "user_name": "gardar",
+            "text": "http://java-0day.com/",
+            "date": "2013-03-08 10:04:00",
+            "post_id": "499129",
+            "reply_to_id": "499087"
+        }
+    ],
+    "date": "2013-01-11 11:20:00"
+}

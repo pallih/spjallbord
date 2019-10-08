@@ -1,0 +1,44 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "40747",
+    "title": "Bios",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=40747",
+    "posts": [
+        {
+            "user_name": "Beetle",
+            "text": "Mér var gefins Fijutsu Siemens C  1110D Lifebook (Lappi), búinn að formatta HDD en Bios heimtar password. \nHva' gerir manns ?",
+            "date": "2011-08-17 00:28:00",
+            "post_id": "372408",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Googlar, og googlar, og googlar svo meira.\nStundum dugar BIOS flash, stundum þarf að leiða saman tvo punkta á móðurborðinu. Stundum er líka e-rskonar backdoor password sem þú ættir að geta fundið online.",
+            "date": "2011-08-17 00:29:00",
+            "post_id": "372409",
+            "reply_to_id": "372408"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Tekur bios batteríið úr eða færir til bios jumperinn á móðurborðinu.",
+            "date": "2011-08-17 00:29:00",
+            "post_id": "372410",
+            "reply_to_id": "372409"
+        },
+        {
+            "user_name": "Beetle",
+            "text": "já en þarf þá ekki að rífa allt í sundur ?",
+            "date": "2011-08-17 00:40:00",
+            "post_id": "372412",
+            "reply_to_id": "372410"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Stundum, stundum ekki. Fyrir BIOS jumperinn, jú oft. Það er samt oftast sér BIOS og sér PW jumper.",
+            "date": "2011-08-17 00:42:00",
+            "post_id": "372413",
+            "reply_to_id": "372412"
+        }
+    ],
+    "date": "2011-08-17 00:28:00"
+}

@@ -1,0 +1,79 @@
+{
+    "forum_title": "Þjónusta / Viðgerðir",
+    "id": "30077",
+    "title": "Tölva ræsir sig en samt ekki..",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=13&t=30077",
+    "posts": [
+        {
+            "user_name": "J1nX",
+            "text": "Sælir.\nÉg er í smá vandræðum með tölvuna pabba.. hún er frekar gömul og byrjuð að bila eitthvað..\nvandamálið lýsir sér þannig að hún átti það til að restarta sér bara upp úr þurru, voðalega mismunandi hvað maður gat verið lengi í henni þangað til hún restartaði sér.. en í gærkvöldi slökkti hún bara alveg á sér og þegar ég ætlaði að kveikja á henni kom engin mynd á skjáinn.. hún \"kveikir á sér\" en það kemur bara ekkert á skjáinn.. any ideas hvað gæti verið að ? ég fór svona að pæla í power-supplyinu því að mig rámar í að tölvan hafi byrjað að láta svona eftir að hann fékk nýrra skjákort gefins og aflgjafinn ráði bara ekki við það..\nriggið er\namd3500\n1gb minni (2x 512)\nnvidia 6600gt 256mb ddr3 dual dvi tv pci - e (þetta stendur á skjákortinu)\neikkað crappy móðurborð\nég held að þetta sé 230w aflgjafi (stendur allaveganna á eikkerjum takka á aflgjafanum aftan á kassanum 230w)\n2x harðir diskar 500gb og 250gb",
+            "date": "2010-05-08 01:38:00",
+            "post_id": "260866",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "hauksinick",
+            "text": "gæti verið móðurborð eða gpu",
+            "date": "2010-05-08 01:41:00",
+            "post_id": "260867",
+            "reply_to_id": "260866"
+        },
+        {
+            "user_name": "olla",
+            "text": "prufa að uppfær bios og fleira...",
+            "date": "2010-05-08 02:11:00",
+            "post_id": "260872",
+            "reply_to_id": "260867"
+        },
+        {
+            "user_name": "BjarniTS",
+            "text": "rykhreinsa , skipta ut skjakortinu fyrir gamla , aftengja alla hdd nema styrikerfi.\nPrufa vél-\nVirkar, mæla hita.\n-\nVirkar ekki, skipta um aflgjafa.",
+            "date": "2010-05-08 02:15:00",
+            "post_id": "260873",
+            "reply_to_id": "260872"
+        },
+        {
+            "user_name": "J1nX",
+            "text": "hvernig geri ég það ? \nþá á ég við þar sem ég fæ enga mynd á skjáinn..",
+            "date": "2010-05-08 02:24:00",
+            "post_id": "260875",
+            "reply_to_id": "260873"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Þig langar ekki að uppfæra BIOS, myndir gera það ef það væri einhver galli sem hefði verið viðloðandi tölvuna frá upphafi \nMæli með að þú prófir fyrst minnin ef þú ert með 2 eða fleiri minniskubba, þá í sitt hvoru lagi.\nAnnars er margt sem getur valdið þessu, því næst geturðu prófað að taka allt aukadót úr sambandi, s.s. öll kort önnur en skjákort og taka USB, front panel audio o.s.frv. úr sambandi.\nSvo geturðu prófað að skipta um þá hluti sem þú átt til, ef þú átt annað skjákort eða annan aflgjafa.",
+            "date": "2010-05-08 02:36:00",
+            "post_id": "260877",
+            "reply_to_id": "260875"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Það er eitthvað sem þú vilt alls ekki gera þegar tölvan á það til að restarta sér out of nowhere.\nByrja á að prófa 1 minniskubb í einu og í mismunandi raufum á móðurborðinu og annað skjákort ef þú átt það til, því þetta tvennt eru líklegustu orsakirnar af myndleysi.\nErtu nokkuð að tala um rauða takkann á aftan á psu þar sem stendur 230V? \n Þetta er til að skipta á milli 110 og 230 volt eftir því hvar þú ert staddur í heiminum.\nÞað stendur frekar á hliðinni eða undir aflgjafanum hversu mörg wött hann er.",
+            "date": "2010-05-08 02:48:00",
+            "post_id": "260878",
+            "reply_to_id": "260877"
+        },
+        {
+            "user_name": "himminn",
+            "text": "Restarta cmos!",
+            "date": "2010-05-08 17:45:00",
+            "post_id": "260937",
+            "reply_to_id": "260878"
+        },
+        {
+            "user_name": "jonktm",
+            "text": "ég lenti í þessu fyrir 3 vikum eins og altaf þá er síðasti hluturinn sem maður skoðar er bilaður og það var örgjafinn ,þetta lísir sér nákvæmlega eins og hjá mér",
+            "date": "2010-05-09 00:40:00",
+            "post_id": "260982",
+            "reply_to_id": "260937"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Mjög ólíkegt að örgjörvinn sé ástæðan",
+            "date": "2010-05-09 09:40:00",
+            "post_id": "261008",
+            "reply_to_id": "260982"
+        }
+    ],
+    "date": "2010-05-08 01:38:00"
+}

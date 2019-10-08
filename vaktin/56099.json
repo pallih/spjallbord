@@ -1,0 +1,107 @@
+{
+    "forum_title": "Windows",
+    "id": "56099",
+    "title": "tölvan startar sér en kemur ekkert þegar það á að koma login",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=56099",
+    "posts": [
+        {
+            "user_name": "joibs",
+            "text": "þetta lísir sér semsagt þannig að eftir að ég restartaði tölvuni minni þá kveikir hún á sér eins og venjulega en þegar það á að koma login þá kemur bara svartur skjár og ekkert gerist......\nhvað gæti verið að?\ner harðidiskurinn bara að segja bless eða er þetta eithvað annað sem auðveldlega er hægt að laga?\nbtw er með win8",
+            "date": "2013-07-15 19:13:00",
+            "post_id": "520134",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "joibs",
+            "text": "komst að því að þetta heitir víst \"black screen of death\" og er líst sem \"nýa\" típan af  blue screen\nen allar aðferðir til að lostna við þetta sem ég er búinn að fynna í gegnum google og youtube eru annað hvort að boota í safe mode eða íta á ctrl+alt+delete sem virkar hvorugt hjá mér\nsíðan er ég búinn að reinað boota og nota repair futurinn á windows8 disknum en það hjálpar ekkert\nhjálpar heldur ekkert að nota restore point\nhefur virkilega einginn lent í þessu hér??\ner að verða brjálaður á að komast ekki í tölvuna mína",
+            "date": "2013-07-16 12:22:00",
+            "post_id": "520236",
+            "reply_to_id": "520134"
+        },
+        {
+            "user_name": "vesi",
+            "text": "kemur windows soundið í startupinu?",
+            "date": "2013-07-16 12:29:00",
+            "post_id": "520238",
+            "reply_to_id": "520236"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Til að komast í safemode þarftu að ýta á F8, minnir mig, einhvern tíman milli þess að BIOS bootar sig og að Windows Loginið kemur.\nEina skiptið sem ég hef lent í svipuðu var þegar ég var að prófa minni sem reyndist síðan móðurborðinu mínu ofviða.  Hvað geturðu sagt okkur um þetta mál, var þetta í lagi og hætti allt í einu að virka?  Varstu að yfirklukka, fikta í hardware, breyta eða eitthvað sem þú mannst eftir?",
+            "date": "2013-07-16 12:34:00",
+            "post_id": "520240",
+            "reply_to_id": "520238"
+        },
+        {
+            "user_name": "joibs",
+            "text": "man ekki eftir því að heira windows hljóðið síðan ég fékk  þessa tölvu.....\nen hún virkaði alltaf 100% þangað til að það kom eithver error í windows updatinu sem hún gerir autometic\nástæðan fyrir þessum error var að netið hjá vodafone crashaði þegar þetta hún var að uppfæra sig \n \nþá restartaði ég henni eins og er alltaf sagt manni að gera en þá kom þessi villukóði sem ég gerði þráð hérna um fyrir stuttu\nég náði að redda málonum með því að setja win8 stírikerfið aftur upp og þá virkaði hún eðlilega í 1 dag og síðan geðist þetta...\nen ég er búinn að starta henni í safe mode nema það gerist bara akkurat það sama.... svartur skjár og ekkert hægt að gera",
+            "date": "2013-07-16 13:08:00",
+            "post_id": "520245",
+            "reply_to_id": "520240"
+        },
+        {
+            "user_name": "Xovius",
+            "text": "Hvernig minni ertu með? Þetta stafar stundum af svoleiðis vandamálum...\nAnnars virkaði stundum fyrir mig í windows 7 að taka hana úr sambandi í 10 sek og starta aftur",
+            "date": "2013-07-16 13:14:00",
+            "post_id": "520246",
+            "reply_to_id": "520245"
+        },
+        {
+            "user_name": "joibs",
+            "text": "þú meinar þá vinsluminnið?\ner ekki viss á því, skal kíkja á það eftir vinnu\n(ef þú ert að spurja hvort það sé ekki nóguð gott þá er þetta skilst mér fínasta minni, hef allavega ekkert verið í vandamálum með að runna \"þungum\" leikjum í \"góðum\" gæðum)\nen ef það er eithvað teinkt því gætirðu líst fyrir mér hvað það er þá sem er að valda þessu?",
+            "date": "2013-07-16 13:50:00",
+            "post_id": "520259",
+            "reply_to_id": "520246"
+        },
+        {
+            "user_name": "I-JohnMatrix-I",
+            "text": "Jamm hann er að tala um vinnsluminnið. Það gæti mögulega verið að einn af kubbunum sé bilaður. Einfaldasta leiðin til að komast að því er að taka einn í einu úr tölvunni og reyna að starta á milli.",
+            "date": "2013-07-16 13:53:00",
+            "post_id": "520262",
+            "reply_to_id": "520259"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Ef þú færð líka bsod í safe mode og það virkar ekki að gera repair/restore af install disknum þá er ég hræddur um að þú þurfir að gera clean install.  Ef tölvan virkaði fínt áður en Windows Update crashaði þá er líklega í fínasta lagi með minnið.",
+            "date": "2013-07-16 14:17:00",
+            "post_id": "520264",
+            "reply_to_id": "520262"
+        },
+        {
+            "user_name": "joibs",
+            "text": "mér fanst það líka líklegt að ég myndi þurfa að gera það, en vildi nú frekar fá að vita hvort ég gæti bjargað mér eithvernveginn frá því með því að fiska eftir góðum ráðum hjá ykkur vitringonum hérna inná",
+            "date": "2013-07-16 14:46:00",
+            "post_id": "520267",
+            "reply_to_id": "520264"
+        },
+        {
+            "user_name": "Xovius",
+            "text": "Ég reyndi í tvær vikur að sleppa því að gera clean install hjá mér og reyndi allar tillögur en er ekkert ósáttur eftir að hafa gert það, alltaf gaman að setja allt upp aftur \nAnnars veit ég að mín bluescreenar ef ég set minnið hærra en 1866Mhz",
+            "date": "2013-07-16 15:50:00",
+            "post_id": "520272",
+            "reply_to_id": "520267"
+        },
+        {
+            "user_name": "joibs",
+            "text": "ég akkurat þoli ekki að setja allt aftur upp",
+            "date": "2013-07-16 16:31:00",
+            "post_id": "520280",
+            "reply_to_id": "520272"
+        },
+        {
+            "user_name": "rango",
+            "text": "ég er með forrit sem heitir \"RollBack RX\"\nhttps://www.horizondatasys.com/en/produ ... roductId=1\nOg ég hef ekki þurft að setja tölvuna upp núna í langan tíma.\nAnnars geturðu mirrorað diskin þegar þú setur hann upp og þarft þá ekki að setja upp aftur.",
+            "date": "2013-07-16 16:38:00",
+            "post_id": "520283",
+            "reply_to_id": "520280"
+        },
+        {
+            "user_name": "freeky",
+            "text": "Ef þetta er ekki skjákortið þá er líklega explorer.exe skemmd, búið að eyða eða búið að breyta í registry.\nPrófaðu að ýta á ctrl + alt + delete (opna task manager) og starta explorer.exe þegar svarti skjárinn er.\nEf allt verður eðlilegt eftir það gæti vantað í registry. \nOpnaðu þá registry editor og athugaðu\n[HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon]\n\"Shell\"=\"Explorer.exe\"\nEf það stendur eitthvað annað en explorer.exe hefur líklega e-r vírus breytt þessu.\nKannski er auðveldara og fljótlegra að setja windows disk í og setja upp aftur.",
+            "date": "2013-07-18 21:39:00",
+            "post_id": "520606",
+            "reply_to_id": "520283"
+        }
+    ],
+    "date": "2013-07-15 19:13:00"
+}

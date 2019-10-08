@@ -1,0 +1,79 @@
+{
+    "forum_title": "Þjónusta / Viðgerðir",
+    "id": "51156",
+    "title": "Restart eftir ræsingu á tölvu",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=13&t=51156",
+    "posts": [
+        {
+            "user_name": "Stingray80",
+            "text": "Sælir vaktarar.\nNú standa málin þannig, að tölvan mín hefur verið að taka upp á því að þurfa ræsa sig 2svar þegar ég ætla að kveikja á henni, þ.a.e.s það kveiknar á henni og svo eftir nokkrar sekúndur restartar hún sér. og gefur ekki upp neina villumeldingu eða neitt, ræsir sig svo bara upp og ekkert mál. og ég bara hef ekki grænan hvar ég á að byrja í að \"bilanagreina\" búinn að formatta, það dugði skammt ef ekki neitt. öll hjálp vel þeginn.\nMBK\nstingray",
+            "date": "2012-10-24 17:55:00",
+            "post_id": "474157",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Nitruz",
+            "text": "Kanski eru bios stillingarnar við fyrsta boot ekki að gera sig og seinna skiptið fer biosinn í default.\nGæti verið timings eða voltinn á raminu. Varstu að yfirklukka eða að bæta við ram?",
+            "date": "2012-10-24 18:11:00",
+            "post_id": "474158",
+            "reply_to_id": "474157"
+        },
+        {
+            "user_name": "Nördaklessa",
+            "text": "kanski ath. hvort öll tengi við móðurborð/hdd nægilega tengd...?",
+            "date": "2012-10-24 18:12:00",
+            "post_id": "474159",
+            "reply_to_id": "474158"
+        },
+        {
+            "user_name": "Stingray80",
+            "text": "neibbs, ekkert verið gert við tölvuna í nokkra mánuði nema það, að ég fór í 670GTX kort úr 560GTX korti, og skeði í rauninni ekkert fyrr enn nokkra mánuði eftir það. þannig ég á erfitt með að trúa að það sé tengt því",
+            "date": "2012-10-24 18:15:00",
+            "post_id": "474162",
+            "reply_to_id": "474159"
+        },
+        {
+            "user_name": "Nitruz",
+            "text": "Gætir útilokað biosinn með því að stilla á factory default og prófa það",
+            "date": "2012-10-24 18:24:00",
+            "post_id": "474163",
+            "reply_to_id": "474162"
+        },
+        {
+            "user_name": "Stingray80",
+            "text": "prófa það, skrýtið samt af því ég hef ekkert fiktað í biosnum.",
+            "date": "2012-10-24 21:46:00",
+            "post_id": "474207",
+            "reply_to_id": "474163"
+        },
+        {
+            "user_name": "Stingray80",
+            "text": "jæja, búin að restora default settings í Bios. skánar ekkert, þetta gerist ekki einu sinni við hverja ræsingu. bara stundum, þetta er orðið hreint og beint óþolandi. fór yfir allar tengingar í móðurborð og allt það helsta\nsem mér datt í hug, ég bara trúi ekki öðru enn að þetta sé Hardware Issue, enn þá er bara spurning hvað það er.",
+            "date": "2012-10-28 19:53:00",
+            "post_id": "474899",
+            "reply_to_id": "474207"
+        },
+        {
+            "user_name": "Nitruz",
+            "text": "keyrðu memtest",
+            "date": "2012-10-28 20:09:00",
+            "post_id": "474903",
+            "reply_to_id": "474899"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Jarðtengd innstunga hjá þér?",
+            "date": "2012-10-28 20:11:00",
+            "post_id": "474905",
+            "reply_to_id": "474903"
+        },
+        {
+            "user_name": "Stingray80",
+            "text": "gæti þetta verið Asus Sabertooth Móðurborðið að klikka? fékk það á einhvað Klink, enn var fullvissaður um að Sata Tengin sem væru í notkun myndu ekki koma til með að fucka neinu upp hjá mér",
+            "date": "2012-10-28 20:59:00",
+            "post_id": "474912",
+            "reply_to_id": "474905"
+        }
+    ],
+    "date": "2012-10-24 17:55:00"
+}

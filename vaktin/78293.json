@@ -1,0 +1,72 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "78293",
+    "title": "Að fækka ljósbreitum og einfalda net kerfið",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=78293",
+    "posts": [
+        {
+            "user_name": "norex94",
+            "text": "Sælir\nÉg er með smá pælingar með netið heima í sveit hjá mér. Ég er með smá \"kerfi\" þar sem þar lyggja ljósleiðarar á milli húsa hérna. \nSjá myndina af öllu saman:\nVandamálið: \nÁ einum stað (Verkstæðinu) koma saman 4 ljósbreytur sem tengjast allar í sama switchin ásamt öðrum búnaði. Núna bilaði ein ljósbreytan og switchin er með leiðindi. Einnig er hann ekki með POE og er stútfullur. Alltof margar innstungur notaðar fyrir allan búnaðinn og fleira vesen. \nMín hugmynd af lausn: \nAð kaupa switch sem er með POE, nógu mörg port og er með 4 SFP port fyrir ljósleiðarana. Með því þá sleppa öllum ljósbreytunum, instungunum og POE fídus.\nt.d þennan: \nhttps://www.amazon.com/TP-Link-Jetstream-24-Port-T1600G-28PS-TL-SG2424P/dp/B0196RGV50/ref=pd_sbs_147_2?_encoding=UTF8&pd_rd_i=B0196RGV50&pd_rd_r=e0463df8-19b7-11e9-8448-d7e517c085e3&pd_rd_w=BLlgM&pd_rd_wg=vdiIs&pf_rd_p=7d5d9c3c-5e01-44ac-97fd-261afd40b865&pf_rd_r=YJ89WVRPGFF9VK77WM1J&psc=1&refRID=YJ89WVRPGFF9VK77WM1J\nPælinganar: \nGet ég tengt Transceiverana mína, úr gömlu ljósbreitunum, yfir í nýja switchinn minn og notað áfram gömlu ljósleiðara breytunar mínar á hinum endunum og látið þetta allt tala saman?\nOg mælið þið með einhverjum sérstökum switch? Verð er ekkert svo mikið vesen (ekki allra dýrasta samt)\nEða bara með ábendingar til mín.\nÉg er ekki mikil sérfræðingur í ljósleiðurum en veit hitt og þetta.\nTakk  \n \nKv. Arnór\nedit: Það eru bara svona venjulegir fiber to ethernet breytar núna.",
+            "date": "2019-01-16 18:16:00",
+            "post_id": "683668",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "joispoi",
+            "text": "Er ekki með nákvæmlega sama vélbúnað og sést á myndinni hjá þér en ég er með eitthvað af svona switchum \nhttps://www.eurodk.com/en/products/ubnt ... ch-16-150w\n og hef tengt ljósleiðaraúttakið m.a. yfir í þessa \nhttps://www.aliexpress.com/item/fiber-t ... 4c4dvM6MMx\n og notað þessa SFP í bæði switch og breytu\nhttps://www.eurodk.com/en/products/ufib ... idi-1-pair\nÞetta virkar fínt ef það segir þér eitthvað. Er ekki sérfræðingur í ljósleiðurum",
+            "date": "2019-01-16 20:58:00",
+            "post_id": "683671",
+            "reply_to_id": "683668"
+        },
+        {
+            "user_name": "Blackened",
+            "text": "Þetta er hægt.. ekki spurning! það þarf bara að kaupa SFP bita sem að passa á móti breytunum sem þú ert með á hinum endunum og þú gætir þurft að finna einhvern sem að hefur kunnáttu á uppsetningu á svona svissum nema að þú finnir eitthvað einfalt. \nÉg vann í þessum geira fyrir nokkrum árum og þeir unnu nánast bara með Cisco.. en það er ekkert sem mælir gegn þessu held ég",
+            "date": "2019-01-16 21:10:00",
+            "post_id": "683672",
+            "reply_to_id": "683671"
+        },
+        {
+            "user_name": "arons4",
+            "text": "Þetta ætti alveg að ganga. Passa bara að SFP breyturnar passi fyrir switchinn, stundum er búnaður eins og cisco og dell læstur á SFP breytur frá þeim. Oft hægt að kaupa refurb svissa fyrir klink á ebay. Eins er Mikrotik búnaður yfirleitt nokkuð ódýr miðað við getu.",
+            "date": "2019-01-16 21:18:00",
+            "post_id": "683673",
+            "reply_to_id": "683672"
+        },
+        {
+            "user_name": "russi",
+            "text": "Nei það geturu ekki.\nSFP taka á móti LC-tengjum meðan að þessar breytur er með SC-tengi, að auki er modulinn sjálfur allt öðruvísi.\nÞú þarft að breyta endanum, nú veit ég ekki hvernig endin er hjá þér, þeas kemur leiðarinn inn í inntak og ertu svo með skott þaðan í breyturnar hjá þér eða kemur hann inn til þín og beint í breyturnar?\nGeri nú ráð fyrir því að hann komi frekar inní inntak og svo er skott á milli. Þá þarftu skott sem er með LC enda og SC enda. Þarft líka að passa uppá að skotið passi fyrir leiðarain sem þú ert með, hvort hann sé OM2 eða OM3, eru til fleirri týpur, þessar eru algengastar.\nÞú þarft líka að vita er fiberin Single Mode eða MultiMode - líklega er hann Single Mode. Þar þarftu að passa uppá þykktina, ef þú ert með SingleMode þá er þykktin líklega 9/125μ. Ef þú ert með MultiMode er hún líklega 50/125μ. 62.5/125μ hefur líka verið í notkun hér á landi.\nErtu að nota heilt par í hverja breytu eða ertu með Singlestrand?  Eða ætlaru kannski að fara Singlestrand leiðinna fyrst þú ert að breyta þessu og eiga þá einn leiðara til viðbótar til vara.\nEf þú notar heilt par, þá færðu þér bara eins breytur, ef þú ferð single strand leiðina verður að passa þig á því að þær passi saman, Þeas að TX og RX gildið sé ekki það sama.\nFaktist séð ertu ekki að fækka ljósbreytum í þessu hjá þér, þar sem SFP er ljósbreyta, það sem þú nærð fram með þessu eru færri tæki og því less-point-of-failure, snyrtilegri frágangur, færri spennugjafar og líklega að spara þér 300-500kr í rafmagn á ári.\nViðbót: sé að það er önnur mynd af ljósbreytu á teikninguni, þar ertu með ljósbreytu sem er með SFP, ef svo er þá ættiru að gæta fært hana yfir í Switch sem er með SFP. Ef ljosbreyturnar þínar eru eins og á seinni myndinni þá er það ekki hægt\nps. LC og SC tengi er álíka í útliti, munurinn er að LC er lítið á meðan SC er stórt.\npps. Það er alveg hægt að flækja þetta meira sko",
+            "date": "2019-01-16 23:08:00",
+            "post_id": "683676",
+            "reply_to_id": "683673"
+        },
+        {
+            "user_name": "norex94",
+            "text": "Takk allir fyrir góð svör! \nÉg vona að switchin verði þægilegur í uppsetningu, kemur held ég bara í ljós.\nTakk fyrir gott svar! Þessi mynd sem ég setti er ekki rétt (neðri), mitt klúður.  \n \nAllir ljósleiðaranir eru Singelstrand held ég, þeir eru allavega tengdir með einni LC to LC skott úr tengiboxinu og í ljósbreytunar. \nLjósbreytunar eru Single mode og eru mismunandi á milli punkta, semsagt með mismunandi bylgjulengd á endunum. \nHérna er mynd af einu moduli: \nHérna er mynd af einni ljósbreytunni:",
+            "date": "2019-01-17 13:49:00",
+            "post_id": "683698",
+            "reply_to_id": "683676"
+        },
+        {
+            "user_name": "russi",
+            "text": "Ef þetta er svona þá ættiru að geta tengt breyturnar beint í flesta switcha.\nEina sem ég get bætt við þetta að mér hefur hingað til ekki þótt búnaður frá TP-Link merkilegur, það þarf ekki að þýða að hann sé eitthvað verri en annar.\nJá eitt annað, PoE er standard 48V út, hef séð suma switcha(aðalega Unifi) sem eru bara með 24V út vegna þess að sendarnir þeirra voru allir þannig, held að það sé breytt í dag. Sumir switchar bjóða uppá bæði, ættir að hafa þetta í huga",
+            "date": "2019-01-17 14:04:00",
+            "post_id": "683699",
+            "reply_to_id": "683698"
+        },
+        {
+            "user_name": "norex94",
+            "text": "Snild. \nMyndiru mæla með NETGEAR frekar? t.d þennan \nhttps://www.amazon.com/dp/B07C58VKPN/ref=sspa_dk_detail_0?psc=1\nEn já ég er einmitt með Unifi access point sem er á POE injector frá Unifi. Þannig það verður bara þannig áfram held ég.",
+            "date": "2019-01-17 16:27:00",
+            "post_id": "683710",
+            "reply_to_id": "683699"
+        },
+        {
+            "user_name": "arons4",
+            "text": "Held að allur unifi búnaðurinn sem er með bláum ljósum í stað grænna styðji staðlað poe og allir switcharnir sem eru ekki af allra ódýrustu gerð.\nSvolítið gamall búnaður en engu afsíður alveg solid ef þú hefur áhuga á l2 og l3 fídusum.\nhttps://www.ebay.co.uk/itm/HP-V1910-24G ... 3194425764\nhttps://www.ebay.co.uk/itm/Cisco-WS-C37 ... 3645632773",
+            "date": "2019-01-17 18:09:00",
+            "post_id": "683714",
+            "reply_to_id": "683710"
+        }
+    ],
+    "date": "2019-01-16 18:16:00"
+}

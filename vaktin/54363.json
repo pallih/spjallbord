@@ -1,0 +1,93 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "54363",
+    "title": "Usb lyklaborð og mús virka ekki eftir að hafa skipt um móður",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=54363",
+    "posts": [
+        {
+            "user_name": "arnio",
+            "text": "Sælir eg var að setja nýtt móðurborð í velina mína en eftir það þá virkar hvorki lyklaborðið né músin sem eru bæði usb. Það kviknar á þeim en ekkert er hægt ad nota þau.\nÉg prufaði að setja símann minn í samband via usb og það virkar fínt, ég er búinn ad enable legscy usb úr bios en ekkert virkar. Þetta er msi p35 legacy móðurborð.\nÉg er lika með windows 8 og það unactivate'aðist eftir að ég setti þetta borð í :/\nVona að einhver getur aðstoðað mig við þetta\nKv \nÁrni",
+            "date": "2013-04-06 18:20:00",
+            "post_id": "504229",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "playman",
+            "text": "Það er eðlilegt að windows de-activatast þegar að það er skipt um móðurborð, og vandamálið með lyklaborð og mús er án efa vegna driver vandamáls.\nEr þetta nákvæmlega eins móðurborð sem þú skiptir um?\nEf ekki þá hefði verið best að formata vélina, til þess að koma í veg fyrir driverconflict.",
+            "date": "2013-04-06 21:27:00",
+            "post_id": "504263",
+            "reply_to_id": "504229"
+        },
+        {
+            "user_name": "arnio",
+            "text": "Sæll playman og takk fyrir svarið.\nUm leið og ég komst að þessu þá formattaði ég en enn er ég í veseni með lyklaborð og mús og varðandi de activation hvað get ég gert? Gamli lykillinn minn virkar ekki og þetta er ekki móðurborð frá sama framleiðanda.\nÞar sem ég er í vinnu núna gef eg ekkert fiktað í driverum, en skv win 8 eiga þeir að installast sjálfkrafa, ég ætla að prufa þetta manualy á eftir og kem með feedback eftir það. Ef þér dettur eitthvað meira í hug endilega skjóttu.\nKv,\nÁrni",
+            "date": "2013-04-06 21:44:00",
+            "post_id": "504267",
+            "reply_to_id": "504263"
+        },
+        {
+            "user_name": "playman",
+            "text": "Geturðu ekki re-activeitað windowsið?\nÞá þarftu annað hvort að hafa samband við microsoft eða setja upp crack.\nEf að þú ert búin að formatta og lyklaborð og mús virkar ekki enþá, þá ætti þetta ekkert að vera driver vesen, þar sem\nað windowsið kemur alltaf með lágmarks driverum til þess að geta notað mús og lyklaborð. (veit samt ekki með W8)\nVirkar lyklaborð og mús (ef það er boðið uppá það á þínu móðurborði) í BIOS?\nÁttu PS/2 lyklaborð/mús til að prófa? eða einhver sem þú þekkir?\nHérna eru svo nokkrar leiðir.\nhttp://www.troubleshootwindows.com/wind ... -vista-xp/",
+            "date": "2013-04-06 22:26:00",
+            "post_id": "504274",
+            "reply_to_id": "504267"
+        },
+        {
+            "user_name": "Hargo",
+            "text": "Þú þarft að hafa samband við Microsoft til að activeita Win 8 með nýja móðurborðinu. Kóðinn þinn er núna activeitaður og bundinn við gamla móðurborðið.",
+            "date": "2013-04-06 22:36:00",
+            "post_id": "504275",
+            "reply_to_id": "504274"
+        },
+        {
+            "user_name": "arnio",
+            "text": "PS/2 lyklaborð virkar allavega, ég á svo usb to ps/2 en músin virkar ekki í gegnum það. Frábær linkur frá þér playman ethernet gæri verið málið hafði ekki prufað það að ég held.\nÉg hringi í microsoft í nótt og læt þá activate'a. Takk fyrir aðstoðina, ég kem heim í kringum 4 í nótt og mun reyna á eitthvað að þessum leiðum og læt þig vita hvernig fer",
+            "date": "2013-04-06 22:41:00",
+            "post_id": "504276",
+            "reply_to_id": "504275"
+        },
+        {
+            "user_name": "arnio",
+            "text": "Ég fann útúr þessu og þetta er það furðulegasta sem ég hef á ævinni séð.\nEftir margra klukkustunda vinnu ákvað ég að prufa að tengja músina og lyklaborðið við aðra tölvu og viti menn hvorugt virkaði, gæti það mögulega verið að bæði músin & lyklaborðið hafi skemmst á sama tíma? Ég trúði því nú varla svo ég nældi mér í aðra mús sem falin var ofaní skúffu og viti menn hún svínvirkaði (Notabene þá tengdi ég hana aftaná tölvuna).\nHrikalega sáttur með lífið að hafa loksins komist í botn á þessu máli ríf ég hana úr sambandi og tengi hana í usb portið á framan en ekkert virkar. Ég tengi hana aftur aftaní töluna og ekki virkar músin núna, ég prufa aðra tölvu og ekki virkar hún þar, staðfest önnur mús ónýt. Ég hef líklegast gert einhvern djöfulsins skandal því ég sé nú ekki betur en að fremri usb portin skemmir allt sem nálægt þeim koma! Hafi þið einhvertíman heyrt aðra eins vitleysu?\nNú ríf ég þau úr sambandi og teipa yfir þau og fer frekar fúll á eftir að versla mér bæði lyklaborð og mús, ég þakka ykkur sem tókuð ykkur tíma í að pæla í þessu fyrir mig.\nSvo kannski til að halda þessum þræði aðeins lifandi hafi þið einhvertíman lent eða heyrt um eitthvað svipað?\nKveðja,\nÁrni\nps. Ég er 100% um að ég tengdi þessi fremri usb port á réttan stað, það kemur varla annar staður til greina á þessu borði.",
+            "date": "2013-04-07 08:17:00",
+            "post_id": "504301",
+            "reply_to_id": "504276"
+        },
+        {
+            "user_name": "Plushy",
+            "text": "Ertu ekki örugglega búinn að installa USB Drivers fyrir móðurborðið?",
+            "date": "2013-04-07 10:55:00",
+            "post_id": "504303",
+            "reply_to_id": "504301"
+        },
+        {
+            "user_name": "kizi86",
+            "text": "getur verið að þú hafir snúið \"headers\" á usb tengjunum framan á kassanum vitlaust þegar varst að tengja þau í móðurborðið? hljómar eins og það sé að koma straumur á vitlausa víra og þess vegna ertu að steikja hlutina..",
+            "date": "2013-04-07 12:14:00",
+            "post_id": "504309",
+            "reply_to_id": "504303"
+        },
+        {
+            "user_name": "Cikster",
+            "text": "Getur líka verið að hafir náð að tengja front usb í firewire tengið á móðurborðinu sem getur farið illa með allt það sem þú tengir þá við það.",
+            "date": "2013-04-07 12:24:00",
+            "post_id": "504311",
+            "reply_to_id": "504309"
+        },
+        {
+            "user_name": "arnio",
+            "text": "Neib ekki möguleiki, ég fiktaði ekkert í snúruni þegar ég skipti og það er aðeins ein leið til að smella því í, ekki hægt að snúa þessu vitlaust",
+            "date": "2013-04-07 12:26:00",
+            "post_id": "504312",
+            "reply_to_id": "504311"
+        },
+        {
+            "user_name": "arnio",
+            "text": "Já mér finnst það samt skrítið ég man nefninlega að ég var í smá veseni með þetta en var með manualinn fyrir framan mig og fór eftir honum. En eitthvað hlýt ég hafa klúðrað hah",
+            "date": "2013-04-07 12:27:00",
+            "post_id": "504313",
+            "reply_to_id": "504312"
+        }
+    ],
+    "date": "2013-04-06 18:20:00"
+}

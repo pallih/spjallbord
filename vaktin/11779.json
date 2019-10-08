@@ -1,0 +1,107 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "11779",
+    "title": "Tvix & Seagate...hjálp",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=11779",
+    "posts": [
+        {
+            "user_name": "nafn31",
+            "text": "Góðan daginn...\n\n\n\nmálið er að ég keypti mér þetta tvennt hérna:\n\n\n\nhttp://www.computer.is/vorur/5998\n og\n\n\n\nSeagate Barracuda 7200.10 400 gb nr. ST3400620A\n\n\n\nen ég get ekki fengið þetta til að virka saman \n\n\n\n\nÞetta virkar í sitthvoru lagi þ.e.a.s. ég get notað gömlu wd diskana mína í tvix boxið og barracuda diskinn beint í tölvuna.\n\n\n\nComputer.is segir að þetta eigi að virka fínt saman en hvað er ég þá að gera vitlaust??\n\n\n\nBúinn að gera partition og format og jumper á réttum stað.. en ekkert skeður!!\n\n\n\nEndilega skjótið á mig hugmyndum.. allt vel þegið..",
+            "date": "2006-09-13 12:30:00",
+            "post_id": "127398",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gnarr",
+            "text": "prófaðu að setja jumperinn á aðra staði og að sleppa honum alveg.",
+            "date": "2006-09-13 15:15:00",
+            "post_id": "127409",
+            "reply_to_id": "127398"
+        },
+        {
+            "user_name": "nafn31",
+            "text": "Prófaði það, breytir engu.. það að diskurinn er Ultra ATA, breytir það einhverju?",
+            "date": "2006-09-13 17:39:00",
+            "post_id": "127422",
+            "reply_to_id": "127409"
+        },
+        {
+            "user_name": "urban",
+            "text": "margir af þessum spilurum stiðja bara ákveðið stóra diska.\n\n\n\nþað gæti verið að það sé vandamálið",
+            "date": "2006-09-13 17:57:00",
+            "post_id": "127424",
+            "reply_to_id": "127422"
+        },
+        {
+            "user_name": "Blackened",
+            "text": "Já.. er ekki hægt að updeita Firmware í svona græjum? það gæti svosem kannski gert trikkið",
+            "date": "2006-09-13 18:02:00",
+            "post_id": "127425",
+            "reply_to_id": "127424"
+        },
+        {
+            "user_name": "stjanij",
+            "text": "ef ekkert gengur, farðu til computer.is og láttu þá sýna þér að þetta virki saman, oft er manni selt dót sem er erfitt að tengja og virka.",
+            "date": "2006-09-14 09:18:00",
+            "post_id": "127482",
+            "reply_to_id": "127425"
+        },
+        {
+            "user_name": "Runar",
+            "text": "Hef séð svona box virka með 500 GB disk.. en það gæti verið samhæfnisvandamál bara.. getur gerst.. mæli einfaldlega með að fara með þetta í verslunina og láta þá henda þessu saman til öryggis og ef þetta er samhæfnismál.. fá þá mögulega aðra tegund af disk.. hef alveg heyrt um mörg venjuleg tengibox að þau hafa t.d. verið að virka illa með Western Digital.. sum virka illa með Seagate.. bara mjög misjafnt..",
+            "date": "2006-09-16 16:33:00",
+            "post_id": "127665",
+            "reply_to_id": "127482"
+        },
+        {
+            "user_name": "nafn31",
+            "text": "jæja þetta er komið á hreint. Ég sendi þeim mail og þeir sögðu að þetta ætti alveg að virka, þeir hefðu ekki lent í neinu veseni með þetta.\n\nVar ekki alveg sáttur og fór með þetta til þeirra... daginn eftir kemur upp úr kafinu að boxið virkar bara ekkert með segate diskum sem eru 400gb eða meira. \n\n\n\nGet ekki kvartað yfir þjónustunni, nema svarinu sem ég fékk úr mailinu.. hefði haldið að þeir myndu tékka á hvort þetta virkaði saman ekki bara skjóta út í loftið og giska.\n\n\n\nÞakka hjálpina frá ykkur samt",
+            "date": "2006-09-26 16:21:00",
+            "post_id": "128242",
+            "reply_to_id": "127665"
+        },
+        {
+            "user_name": "RobertQrn",
+            "text": "ertu að segja mér að þessi hýsing virki ekki með \nhttp://www.att.is/product_info.php?cPat ... 959b324d29\n þessum disk..\n var að kaupa mér svona og lét bróðir minn kaupa þetta fyrir mug  og virkar hýsingin ekki með diskum sem eru stærri en 400gb :O:O",
+            "date": "2007-12-18 17:41:00",
+            "post_id": "160603",
+            "reply_to_id": "128242"
+        },
+        {
+            "user_name": "start",
+            "text": "Þetta box virkar fínt með Seagate 7200.10 500GB IDE, búinn að setja mörg saman..",
+            "date": "2007-12-20 13:07:00",
+            "post_id": "160754",
+            "reply_to_id": "160603"
+        },
+        {
+            "user_name": "RobertQrn",
+            "text": "er flókið að setja þetta saman en já ég er svolítill nýliði en er ekki enþá búinn að fá þetta hvernig begir maður þetta rétt svo þetta passi ég er ekki búinn að prufa geturu útskýrt aðeins fyrir ungling sem veit ekki neitt um þetta..\n plz man\n\n\n\nKv. RobertQrn",
+            "date": "2007-12-20 23:02:00",
+            "post_id": "160783",
+            "reply_to_id": "160754"
+        },
+        {
+            "user_name": "zedro",
+            "text": "Láttu þá bara skella disknum í fyrir þig hjá versluninni sem þú kaupir flakkarann. Ættu að gera það ókeypis. Minnsta mál í heimi (ef þú veist hvað þú ert að gera).",
+            "date": "2007-12-21 00:29:00",
+            "post_id": "160790",
+            "reply_to_id": "160783"
+        },
+        {
+            "user_name": "RobertQrn",
+            "text": "ég er nefnilega búinn að kaupa þetta og bróðir minn nær ekki að skreppa upp í kópavog með þetta til að skella þessu inn fyrir jól og mig langar svo að fá þetta þá en ég held ég reddi þessu annars fer ég með þetta niður í tölvulistann hér á ak og læt þá setja þetta í fyrir mig eða frændur mína..",
+            "date": "2007-12-21 22:26:00",
+            "post_id": "160849",
+            "reply_to_id": "160790"
+        },
+        {
+            "user_name": "RobertQrn",
+            "text": "Þetta er frekar gamalt en ég ætla að láta alla vita sem fá sér svona diska þetta eru frábærir diskar og virka mjögvel með  500GB, Seagate Barracuda og er ekkert vandamál ..",
+            "date": "2007-12-23 23:28:00",
+            "post_id": "160953",
+            "reply_to_id": "160849"
+        }
+    ],
+    "date": "2006-09-13 12:30:00"
+}

@@ -1,0 +1,93 @@
+{
+    "forum_title": "Windows",
+    "id": "9494",
+    "title": "Master Boot Record",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=9494",
+    "posts": [
+        {
+            "user_name": "@Arinn@",
+            "text": "Jæja ég er í smá vandræðum eitthver hlutur sem kallaður er Master Boot Record eða mbr er bilaður(á tölvu frænda míns). Getur einhver sagt mér hvernig ég hendi því útaf og set það aftur inná. Ég veit að maður þarf að notast við floppy disk í þessu og ég væri sáttur ef einhver myndi finna link með filunum sem ég þarf að nota í þetta.\n\n\n\n\n\nMeð fyrirfram þökk\n\n@Arinn@",
+            "date": "2005-12-31 02:25:00",
+            "post_id": "102664",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Andri Fannar",
+            "text": "Getur bootað upp af XP Disk og farið í Repair console og skrifað fixmbr hefur oft lagað svona hjá mér",
+            "date": "2005-12-31 12:06:00",
+            "post_id": "102686",
+            "reply_to_id": "102664"
+        },
+        {
+            "user_name": "@Arinn@",
+            "text": "okey prufa það.\n\n\n\nEDIT:En gæti ég þurft að laga þetta útaf errorinum \"Error Loading Operation System\" ???",
+            "date": "2005-12-31 12:39:00",
+            "post_id": "102690",
+            "reply_to_id": "102686"
+        },
+        {
+            "user_name": "Heliowin",
+            "text": "Jæja @Arinn@, hvernig gengur með þetta? Hef áhuga á málinu!\n\n\n\nTékkaðir þú Microsoft síðuna sem Birkir gaf upp í hinum þræðinum (\"Error Loading Operation System\" og hefur með sömu tölvu að gera) og bendir á að athuga með BIOS version og update fyrir það?\n\n\n\nSocket A móðurborðið er kannski farið að segja til sín. Kannski veikt eða skemmt CMOS batterí?\n\n\n\nGekk þetta með Fixmbr? \n\n\n\nAð yfirskrifa MBR hjálpar ekki alltaf, enda er MBR bara hluti af Boot sectornum. Þarna geta vísusar til að mynda þrifist vel og orðið mjög skæðir.  \n\n\n\nEf þetta er ennþá vandamál, og annað hefur ekki hjálpað þá myndi ég gera ærlega hreingerningu á harða diskinum (næstum því), með því að nota:\n\n\n\n harðdiska tól frá þriðja aðila sem getur \"low level formatting\" og eytt Boot sectornum. Það gæti mögulega hjálpað og allavega stuðlað að því að MBR sé í betra standi. \n\n\n\nKannski líka að láta sama tól eyða öllu af diskinum áður en Windows setupi er skellt á tölvu systemið og það formattar.",
+            "date": "2006-01-02 18:04:00",
+            "post_id": "103117",
+            "reply_to_id": "102690"
+        },
+        {
+            "user_name": "@Arinn@",
+            "text": "Fixmbr virkaði ekki, ætli maður prufi ekki að setja annað CMOS batterý.\n\nen eftir það þarf ég þá að formata aftur eða ? Hvar fær maður þetta tól ?",
+            "date": "2006-01-02 18:09:00",
+            "post_id": "103118",
+            "reply_to_id": "103117"
+        },
+        {
+            "user_name": "Heliowin",
+            "text": "Sorry! þetta er víst tölva frænda þíns í þetta skiptið en vinar þíns í hinum þræðinum sem var með Socket A\n\n\n\nhttp://spjall.vaktin.is/viewtopic.php?p ... highlight=\n\n\n\n\nEn þetta er svipað vandamál engu að síður.",
+            "date": "2006-01-02 18:16:00",
+            "post_id": "103120",
+            "reply_to_id": "103118"
+        },
+        {
+            "user_name": "@Arinn@",
+            "text": "þetta er það nákvæmlega sama en þetta er frændi minn skiptir samt ekki máli...",
+            "date": "2006-01-02 18:30:00",
+            "post_id": "103122",
+            "reply_to_id": "103120"
+        },
+        {
+            "user_name": "Heliowin",
+            "text": "Að setja inn nýtt batterí fer eftir raunverulegri þörf. Ég ruglaðist og hélt að þetta væri sama tölvan og í \nhttp://spjall.vaktin.is/viewtopic.php?p ... highlight=\n\n\n\n\nKannski er þetta CMOS batteríð!\n\nNei, þú þarft ekki að formatta ef þú setur inn nýtt CMOS batterí.\n\n\n\nEf þú hefur gengið úr skugga um BIOS version og mögulega gagnlegt update, eða vilt ekki snerta BIOS driverinn, þá myndi ég:\n\n\n\neyða Bootsectornum og helst formatta með tóli sem getur low level formattað diskinn áður en þú notast við Windows setup.\n\n\n\nFramleiðandi harða disksins er eflaust með harðdiska tól sem þú getur halað niður og styður diskinn sérstaklega. Eflaust er hægt að komast yfir önnur frí sambærileg tól annarstaðar.",
+            "date": "2006-01-02 18:37:00",
+            "post_id": "103123",
+            "reply_to_id": "103122"
+        },
+        {
+            "user_name": "@Arinn@",
+            "text": "Þetta er sama tölvan.\n\n\n\nEDIT: hvernig eyði ég Bootsectornum væri alveg til í að þú myndir segja mér nákvæmlega frá þessu mig langar svolítið mikið að laga þetta.",
+            "date": "2006-01-02 18:46:00",
+            "post_id": "103124",
+            "reply_to_id": "103123"
+        },
+        {
+            "user_name": "Dagur",
+            "text": "kannski 'fdisk /mbr'?  Eða er það kannski sami hluturinn og fixmbr?",
+            "date": "2006-01-03 11:45:00",
+            "post_id": "103278",
+            "reply_to_id": "103124"
+        },
+        {
+            "user_name": "Heliowin",
+            "text": "Ég get ekki hjálpað þér með bootsectorinn að öðru leyti en að nota low level formatting harðdiskatól, almennt kallað disk editing tool, sem getur yfirskrifað bootsectorinn. Þetta er allt í lagi að reyna ef annað hefur ekki hjálpað. \n\n\n\nÉg hef aldrei haft stór vandamál með MBR og aldrei fengið \"Error loading operating system\". \n\n\n\nTil að athuga reynslusögur annarra, googlaði ég í dag og fann þessa síðu \n\nhttp://www.computing.net/os2/wwwboard/forum/1437.html\n\n\n\n\nKannski er þarna eitthvað sem gæti orðið að liði.",
+            "date": "2006-01-03 12:45:00",
+            "post_id": "103286",
+            "reply_to_id": "103278"
+        },
+        {
+            "user_name": "@Arinn@",
+            "text": "Já ég fann þessa síðu líka..",
+            "date": "2006-01-03 13:58:00",
+            "post_id": "103298",
+            "reply_to_id": "103286"
+        }
+    ],
+    "date": "2005-12-31 02:25:00"
+}

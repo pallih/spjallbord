@@ -1,0 +1,51 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "62965",
+    "title": "Vandræði hjá Hringiðunni (Vortex)",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=62965",
+    "posts": [
+        {
+            "user_name": "mikkimás",
+            "text": "Er hjá Hringiðunni og undanfarna 2-3 mánuði eru búin að vera tóm vandræði með að ná sambandi við ákveðnar vefsíður. Nokkur dæmi eru bmw.is og skoda.is sem ég næ alls engu sambandi við, og hef ekki gert í margar vikur. Þetta eru sem betur fer ekki margar vefsíður, en samt finnst mér þetta ekki nógu tækt. Ég hringdi í þá fyrir um mánuði síðan og þeir gáfu mér upp dagsetningu, 13. október sem allt átti að lagast, en ekkert hefur enn lagast. Ég hringdi í þá aftur um daginn og var einfaldlega beðinn um að vera þolinmóður.\nSkýringin sem ég fékk minnir mig að hafi verið eitthvað á þá leið að sumar vefsíður noti e-k tiltekna Microsoft tækni sem þeirra tækni eigi erfitt með að tala við þeirra tækni (ég gæti verið að bulla tóma steypu).\nVeit einhver hvort þetta sé algengt vandamál og hvort það sé lausn í sjónmáli?",
+            "date": "2014-10-26 12:34:00",
+            "post_id": "578226",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Hefurðu prufað að skipta um DNS?\nHvað gerist ef þú notar \nhttp://85.182.225.23\n í staðin fyrir bmw.is\nog\nhttp://193.108.106.99\n í staðin fyrir skoda.is",
+            "date": "2014-10-26 17:00:00",
+            "post_id": "578249",
+            "reply_to_id": "578226"
+        },
+        {
+            "user_name": "Hvati",
+            "text": "Er líka hjá Hringiðunni, þessar síður virka ekki heldur hjá mér en einnig virkar twitch.tv ekki, lendir þú í þvi sama mikkimás?",
+            "date": "2014-10-26 17:11:00",
+            "post_id": "578250",
+            "reply_to_id": "578249"
+        },
+        {
+            "user_name": "viddi",
+            "text": "Ég er búinn að vera lenda í því sama, sumar síður einsog twitch.tv virka ekki.",
+            "date": "2014-10-26 17:40:00",
+            "post_id": "578253",
+            "reply_to_id": "578250"
+        },
+        {
+            "user_name": "mikkimás",
+            "text": "Veit því miður ekki hvað DNS þýðir.",
+            "date": "2014-10-26 18:05:00",
+            "post_id": "578255",
+            "reply_to_id": "578253"
+        },
+        {
+            "user_name": "mikkimás",
+            "text": "Neibb, twitch.tv virkar ekki.",
+            "date": "2014-10-26 18:06:00",
+            "post_id": "578256",
+            "reply_to_id": "578255"
+        }
+    ],
+    "date": "2014-10-26 12:34:00"
+}

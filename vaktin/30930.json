@@ -1,0 +1,51 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "30930",
+    "title": "vinnsluminni ekki að virka eftir uppfærslu",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=30930",
+    "posts": [
+        {
+            "user_name": "siggik",
+            "text": "er með ocz ddr2 667 2x1gb parað, svo er ég með corsair valueram ddr2 667 1x2gb , hef notað það og allt virkar fínt\nsvo uppfæri ég PSU,örgjörva og skjákort og þá restartar tölvan sér alltaf á leið inní windows ef ég hef corsair minnið með, samt koma engir bios error píp eða neinar meldingar\nhvað gæti verið að ?",
+            "date": "2010-06-26 11:21:00",
+            "post_id": "268755",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gardar",
+            "text": "keyrðu memtest86 af livecd",
+            "date": "2010-06-26 15:28:00",
+            "post_id": "268794",
+            "reply_to_id": "268755"
+        },
+        {
+            "user_name": "svanur08",
+            "text": "Í fyrsta lagi áttu ekki að vera með sitthvora tegund af minni, átt að hafa alla kubbana eins, öðru lagi ekki 2x1GB og 1x2GB frekær 2x2GB",
+            "date": "2010-06-26 22:37:00",
+            "post_id": "268880",
+            "reply_to_id": "268794"
+        },
+        {
+            "user_name": "siggik",
+            "text": "veit, en mér var gefið þessi 1x2gb sem gjöf \nþetta virkaði fínt áður en örgjafinn virðist ekki hafa samþykkt þessi minni, \nþað eru 2 gul slot og 2 svört á móðurborðinu, ocz voru í gulu og hitt í svarta\nskannaði með memcheck forritnu fann ekkert að minninum í sitthvoru lagi en leið og þau f´rou í slotin þá fann hún milljón errors, þannig að ég  setti ocz í eitt gult og eitt svart slot og svo corsair í hitt gula\nþarfað kaupa mér 2x 2gb ddr2 800",
+            "date": "2010-06-26 23:51:00",
+            "post_id": "268893",
+            "reply_to_id": "268880"
+        },
+        {
+            "user_name": "spankmaster",
+            "text": "Bara svona smá pæling, ertu búinn að tékka á bæklingnum fyrir móðurborðið og athuga hvernig þú duel channel-ar það rétt.\nég held að ef þú ert með 2x1gb dual channel og svo 1x2gb þá viki ekki dual channel-ið hjá þér, sem þíðir 2x minni hraði á minninu, þannig að tækinilega séð eru betur settur með bara 2x1gb hvað hraðan snertir",
+            "date": "2010-06-27 08:09:00",
+            "post_id": "268926",
+            "reply_to_id": "268893"
+        },
+        {
+            "user_name": "siggik",
+            "text": "a1 og b1\na2 og b2\nsvona eru slottin ef þú ert með þetta parað, þeas merkt gul og svo svört",
+            "date": "2010-06-27 17:49:00",
+            "post_id": "268984",
+            "reply_to_id": "268926"
+        }
+    ],
+    "date": "2010-06-26 11:21:00"
+}

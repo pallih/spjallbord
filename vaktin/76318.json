@@ -1,0 +1,79 @@
+{
+    "forum_title": "Windows",
+    "id": "76318",
+    "title": "Open SSH verður innbyggt í Windows 10",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=76318",
+    "posts": [
+        {
+            "user_name": "Hjaltiatla",
+            "text": "OpenSSH arrives in Windows 10 Spring Update\n \nHvað næst? Ætli Microsoft kaupi Canonical, Red hat eða Open Suse",
+            "date": "2018-05-17 21:19:00",
+            "post_id": "672360",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "afrika",
+            "text": "MS losa sig hægt og rólega við Windows eins og það er í dag og stefna í sömu átt og Google. Eitthvað ultra thin OS og allt in the sky~~~",
+            "date": "2018-05-17 21:43:00",
+            "post_id": "672362",
+            "reply_to_id": "672360"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Spurning hvort þeir vilji flatpak  og Snap packages í Windows store-ið sitt. Það er orðið trendy að keyra application/extensions í sandboxed umhverfi.\nHins vegar eru Windows store öppin ekki eitthvað sem fólki dettur í hug að nota nema það sé Sadó Maso.",
+            "date": "2018-05-17 21:51:00",
+            "post_id": "672364",
+            "reply_to_id": "672362"
+        },
+        {
+            "user_name": "afrika",
+            "text": "Ég hef svo sem ekki skoðun á því akkúrat núna en miða við nýrri stefnur þá held ég að þeir munu velja réttan hest. En svona helst þá held ég að MS sé að fara gera spennandi og allt öðruvísi hluti en þeir hafa verið að gera áður. Base hlutirnir verða enþá áfram en það munu verða róttækar breytingar næstu 5-10árin ? Þeir eru t.d. að reyna losa sig við GUI á server-um eins mikið og þeir geta með \"Project Honolulu \" web based Server Manager fyrir WS2019 og persónulega finnst mér þetta nýja look spennandi(Já ég veit þessar lausnir eru oft´half assed t.d. VMware...´\", fyrir utan það þá er powershell notkun og kunnáta alltaf á uppleið og æ vinsælli en áður. En svo skilur maður að sumir hlutir eru bara miklu auðveldari via GUI en þessi vefvið mót sem eru að senda powershell skipanir ættu að geta gert mest megnið allt sem maður þarf að gera í GUI á þjónum í dag.",
+            "date": "2018-05-18 18:42:00",
+            "post_id": "672408",
+            "reply_to_id": "672364"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Sjáum til hvort Windows10 verði ekki bara GUI ofaná Linux (líkt og KDE Gnome).\nAð þurfa að nota Putty,WSL og Git bash á Windows er soldið mikið vesen í dag.",
+            "date": "2018-05-18 18:55:00",
+            "post_id": "672409",
+            "reply_to_id": "672408"
+        },
+        {
+            "user_name": "russi",
+            "text": "Þetta er auðvitað komið í nýjustu uppfærslu, hef verið að keyra þetta aðeins.. því miður slær maður oft inn putty í prompt",
+            "date": "2018-05-18 20:56:00",
+            "post_id": "672417",
+            "reply_to_id": "672409"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Líklega X Server inní csrss.exe /s",
+            "date": "2018-05-19 13:22:00",
+            "post_id": "672435",
+            "reply_to_id": "672417"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Jaháá...\nWindows 10 will soon ship with a full, open source, GPLed Linux kernel\nhttps://arstechnica.com/gadgets/2019/05/windows-10-will-soon-ship-with-a-full-open-source-gpled-linux-kernel/\nMicrosoft unveils Windows Terminal, a new command line app for Windows\nhttps://www.theverge.com/2019/5/6/18527870/microsoft-windows-terminal-command-line-tool",
+            "date": "2019-05-07 12:50:00",
+            "post_id": "688605",
+            "reply_to_id": "672435"
+        },
+        {
+            "user_name": "Televisionary",
+            "text": "Það verður gaman að sjá þetta.\nVæri til í að fá þetta lagað:\nhttps://github.com/microsoft/WSL/issues/874\nhttps://github.com/Microsoft/WSL/issues/963\nEn þangað til nota ég sýndarvélar.\nVarðandi Windows Terminal er hann að fara að skila einhverju sem CMDer er ekki að skila manni í dag sem dæmi? (ég hef ekki skoðað þetta til hlítar það sem kom af Build 19 í gær).",
+            "date": "2019-05-07 13:52:00",
+            "post_id": "688608",
+            "reply_to_id": "688605"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Held að þetta Windows Terminal app haldist í hendur við það að MS sé að bæta inn Linux kernel í WSL til að styðja við fleiri feature-a sem forritarar eru að leitast eftir, þ.e t.d að geta keyrt Container-a (Þ.e er ekki einhverja Windows containera heldur alvöru stöffið) og fleira. \nLinux subsystem leyfir þér að keyra lightweight version af Linux distro-um, Ekki Windows stýrikerfið sjálft.\nÞetta Terminal App á að vera miðlægur staður til að keyra Powershell,cmd og Windows Subsystem for Linux í stað þess að flakka á milli.\nÞetta mun einfalda einhverjum lífið en mun eflaust ekki bjóða uppá X forwarding t.d til að tengjast GUI á Linux vélum (Margir sem tengjast KVM umhverfum á þann máta) og hafa þurft að nota Xming + PuTTY til að vinna í kringum það.\nEdit:\nDæmi: Hérna er ég remotely tengdur við Virt-manager á RHEL 7 vél með að nota X forwrding í gegnum BASH á Centos7 vél\nEn mér persónulega finnst þetta ágætt en mun ekki sjálfur skipta yfir (keyri þá bara upp Windows 10 í Virtualbox ef ég þarf þess).\nAnnars er kóðinn hérna á Github:\nhttps://github.com/microsoft/Terminal",
+            "date": "2019-05-07 14:16:00",
+            "post_id": "688609",
+            "reply_to_id": "688608"
+        }
+    ],
+    "date": "2018-05-17 21:19:00"
+}

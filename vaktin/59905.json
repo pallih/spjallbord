@@ -1,0 +1,65 @@
+{
+    "forum_title": "Windows",
+    "id": "59905",
+    "title": "Bootmgr is missing",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=59905",
+    "posts": [
+        {
+            "user_name": "Victordp",
+            "text": "Er að reyna að setja upp windows 7 eftir að hafa formatað vél, alltaf þegar ég á að ýta á any key til að keyra af DVD þá kemur þetta upp og að ég eigi að ýta á CTRL+ALT+DEL til að restarta en ekkert gerist? Hvað á ég að gera?",
+            "date": "2014-02-26 19:46:00",
+            "post_id": "553371",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Nördaklessa",
+            "text": "Farðu í BIOS og skoðaðu Boot manager",
+            "date": "2014-02-26 19:54:00",
+            "post_id": "553372",
+            "reply_to_id": "553371"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "S.s. þegar þú ýtir á \"Any key\"/einhvern takka, að þá reynir hún ekki að boota af geisladisknum?\nÞá myndi ég nú giska á að þú þurfir að stilla BIOS-inn þannig að hann styðji USB lyklaborð í POST-i, ekki bara í stýrikerfi.",
+            "date": "2014-02-26 19:59:00",
+            "post_id": "553373",
+            "reply_to_id": "553372"
+        },
+        {
+            "user_name": "Victordp",
+            "text": "Hvar get ég fundið það?",
+            "date": "2014-02-26 20:05:00",
+            "post_id": "553374",
+            "reply_to_id": "553373"
+        },
+        {
+            "user_name": "Victordp",
+            "text": "Setti old school keybord í þannig að núna kemst ég frammhjá þessu en það er einhver annar error. held að skjákortið sé bara ónýtt....",
+            "date": "2014-02-26 20:06:00",
+            "post_id": "553375",
+            "reply_to_id": "553374"
+        },
+        {
+            "user_name": "Nördaklessa",
+            "text": "fer allt eftir hvernig móðurborð þú ert með, Oftast er þeð DEL/F2/F8/F11 eða ESC",
+            "date": "2014-02-26 20:43:00",
+            "post_id": "553379",
+            "reply_to_id": "553375"
+        },
+        {
+            "user_name": "Victordp",
+            "text": "Þegar að ég kemst inní frammhjá þessu veseni sem var áðan er bara tómur skjár með ör og w7 backgroundinu",
+            "date": "2014-02-26 20:54:00",
+            "post_id": "553381",
+            "reply_to_id": "553379"
+        },
+        {
+            "user_name": "Skari",
+            "text": "Minnir að ég hafi lagað mitt svona, copye/pastea þetta af síðu sem ég fann.\nSemsagt, þarft windows diskinn, velja repair og velja svo cmd þar,  eingöngu ef startup repair lagar þetta ekki (það lagar þetta sjálfkrafa)\nNote C - Using DISKPART to Set the Windows Partition Active:\nIf you are not using BootIt BM, DISKPART can be used from the Repair Disc to set the Windows partition active.\n    Boot to the Repair Disc and run the Command Prompt (reference Steps 1 though 4 in Note B, if necessary).\n    Start DISKPART by running the following command:\n    diskpart\n    DISKPART will start and you will be at the \"DISKPART>\" prompt.\n    List the drives by running the following command:\n    list disk\n    The installed drives will be listed, starting with Disk 0. In most cases, Disk 0 is the booting drive and also the drive containing the booting partition. You need to select the drive that contains the partition which needs to be set active. In this example, that is Disk 0. Select the appropriate drive by running the following command:\n    select disk 0\n    The next step is to select the partition. To see the list of partitions on the drive, run the following command:\n    list partition\n    Select the partition which needs to be set active. In this example, Partition 2 is the desired partition.\n    select partition 2\n    Set the selected partition active by running the following command:\n    active\n    Finally, exit DISKPART:\n    exit",
+            "date": "2014-02-26 21:18:00",
+            "post_id": "553382",
+            "reply_to_id": "553381"
+        }
+    ],
+    "date": "2014-02-26 19:46:00"
+}

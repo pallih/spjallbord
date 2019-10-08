@@ -1,0 +1,205 @@
+{
+    "forum_title": "Koníakstofan",
+    "id": "32853",
+    "title": "Stærðfræðinördar - hjálp við stæ. dæmi",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=9&t=32853",
+    "posts": [
+        {
+            "user_name": "zdndz",
+            "text": "Ætla ekki að leggja það í vanan minn að spamma inn skóladæmum  \n  en ég er með dæmi sem ég hef verið að reyna við í marga marga klukktíma og ekki náð, og já þetta er skilverkefni\nhérna er linkur á dæmin: \nhttp://www.mr.is/~olafurorn/heimadaemi_1.pdf\nSem sagt mér vantar hjálp með dæmi 1., 2. og 3.\nöll hjálp er virkilega vel þegin, hvort sem við einu dæmi eða öllum  \n \n(ath. ef ég segi t.d. x2 þá meina ég x í öðru).\n1. \nÍ eitt þá veit ég náttla að -3 og 3 eru ekki formenginu og x2-x+12 hefur engar rætur en (1/x2-9)-(5/x2-x+12) má ekki vera minna en 0, svo ég prófaði að setja þetta upp að (1/x2-9) þarf að vera stærra eða jaft og (5/x2-x+12), setti allt öðru megin, fann samnefnara og fékk þá m.a. x4... og setti upp formerkjakönnun en fékk alltaf rangt út. Ég hef prófað að setja fullt af tölum inn fyrir x og alltaf fengið að það komi mínus tala undir kvaðradrótinni þannig ég var að spá er Dm(f)=\"tómamengið\"  ? hvernig á ég samt að sýna það þá ?\n2.\n Hvernig fer ég að gera dæmi nr. 2? eina sem mér datt í hug er að gera myndrænalausn og svo sannreyna, en veit ekki einhver um leið án þess að teikna þetta upp of sannreyna..  \n \n3.\n í þrjú þá þarf d<0 svo L=\"tómamengið\" og d=(2b)\"í öðru veldi-4\"sinnum\"1\"sinnum\"-11b     en svo er ég alveg lost  :/\n--Vona að fólk verði ekki pirrað yfir dæmaþræði, hafa ekki allir gott að því að reikna smá  \n \nEn ef þið getið hjálpað mér væri ég sjúklega þakklátur, ef þið hafið hugmynd um hvernig þetta er gert, lausn við einu eða fleiri dæmum væri það algjör snilld  \nEDIT: Er búinn að ná 3 en megið endilega láta ljós ykkar skína í 1. og 2.",
+            "date": "2010-09-29 17:44:00",
+            "post_id": "285106",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "biturk",
+            "text": "döhhh¨! geturu ekki reiknað þetta í huganum",
+            "date": "2010-09-29 17:48:00",
+            "post_id": "285110",
+            "reply_to_id": "285106"
+        },
+        {
+            "user_name": "zdndz",
+            "text": "það væri sweeet, en því miður er ég ekki að ná því og ég myndi fá ansi lítið fyrir að skrifa bara svarið,\nen mér til mikillar furðu náð ég dæmi 3!  \n  en ef einhver gæti hjálpað mér með 1 og 2 þá væri hann bestur",
+            "date": "2010-09-29 18:02:00",
+            "post_id": "285112",
+            "reply_to_id": "285110"
+        },
+        {
+            "user_name": "Revenant",
+            "text": "# 2.  Stinga ax-10 inn í H og leysa fyrir a\n# 3.  Í stað þess að reyna að þátta jöfnuna, einangra þá b öðru megin við ójöfnumerkið (þ.e. beint) og vinna út frá því.",
+            "date": "2010-09-29 18:07:00",
+            "post_id": "285116",
+            "reply_to_id": "285112"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "4. bekkjar stærðfræði eða 5.?\nEn ef Dm(f) er tómamengið þá er það stórt O með strik í gegnum.Ef þú vilt sýna fram á það verðuru að sýna fram á að það sem er undir kvaðratrótinni sé alltaf minna en núll. Þarft ekki að margfalda saman það sem er fyrir neðan strik, færð x2  - 9, veist formerkinn á því, og svo x2 -x +12, sem er alltaf jákvætt og svo -4x2 -x +57 sem þú getur fundið rætur á. Ættir að sjá hvert ég er að fara með þetta.\nÍ dæmi 2 viltu finna a þannig að línan ax - 10 = y hafi aðeins einn punkt sameiginlegan við hringinn, hvað segir það þér? ( Ef mér skjátlast ekki þá eru 2 lausnir, eitt neikvætt a og eitt jákvætt a). Ef þú getur ekki leyst þetta nema myndrænt, gerðu það og reyndu svo að vinna þig aftur á bak.\nÍ dæmi 3 ef þú ferð aðeins lengra en það sem þú ert kominn með, þá færðu að b(b-11)<0. Finndu þau b sem uppfylla skilyrðið.",
+            "date": "2010-09-29 18:09:00",
+            "post_id": "285117",
+            "reply_to_id": "285116"
+        },
+        {
+            "user_name": "zdndz",
+            "text": "Er byrjaður að skilja þetta betur núna, takk!,\nbtw. 4.bekkjar",
+            "date": "2010-09-29 18:21:00",
+            "post_id": "285122",
+            "reply_to_id": "285117"
+        },
+        {
+            "user_name": "ViktorS",
+            "text": "Ein pæling er þetta háskólastærðfræði?",
+            "date": "2010-09-29 18:29:00",
+            "post_id": "285126",
+            "reply_to_id": "285122"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Nei. Menntaskóla, nánar til tekið í Reykjavík sbr. urlið. En þetta er notað ef þú ferð í raungreinar í háskóla.",
+            "date": "2010-09-29 18:31:00",
+            "post_id": "285129",
+            "reply_to_id": "285126"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Ég er bara með penna og fréttablaðið til að krota á, hugsanlega einhver villa í þessu...\n(x2-9) verður (x+3)(x-3)\n(x2-x+12) verður (x+3)(x-4)\n \nLengir hvort brot með nefnara hins.\nog botið verður (x+3)(x-4)-5(x+3)(x-3) / (x+3)(x-3)(x+3)(x-4)\nNefnarinn má aldrei verða = 0 og því meiga ekki vera 3,-3 og 4 í formenginu.\nEkki er hægt að taka rót af mínustölu og því skoðunm við hvenær teljarinn og nefnarinn fara í mínus.\nNefnarinn getur ekki farið í mínus, en teljarinn fer í mínus í með öllum mínustölum.\nNúll virkar ekki.\nÞví er formengið = allr tölur yfir 0 nema 3 og 4.",
+            "date": "2010-09-29 18:34:00",
+            "post_id": "285131",
+            "reply_to_id": "285129"
+        },
+        {
+            "user_name": "zdndz",
+            "text": "nei, annað ár í menntaskóla",
+            "date": "2010-09-29 18:35:00",
+            "post_id": "285132",
+            "reply_to_id": "285131"
+        },
+        {
+            "user_name": "zdndz",
+            "text": "Gerði þetta svona til að byrja með en þáttunin er röng, nánast allir í bekknum mínum þáttuðu þetta líka vitlaust   :S úr þessari þáttun kemur -12 en ekki +12 :/",
+            "date": "2010-09-29 18:36:00",
+            "post_id": "285133",
+            "reply_to_id": "285132"
+        },
+        {
+            "user_name": "rapport",
+            "text": "great...  \n \n \n \nFarinn að lesa blaðið í stað þess að krota á það...",
+            "date": "2010-09-29 18:47:00",
+            "post_id": "285137",
+            "reply_to_id": "285133"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Round2 \"krotað á Toyota auglýsinguna\"\n(x2-9) verður (x+3)(x-3)\n(x2-x+12) óbreytt\nLengir hvort brot með nefnara hins.\nog botið verður (x2-x+12)-5(x+3)(x-3) / (x+3)(x-3)(x2-x+12)\nNefnarinn má aldrei verða = 0 og því meiga ekki vera -3 eða 3 í formenginu.\nEkki er hægt að taka rót af mínustölu og því skoðum við hvenær teljarinn og nefnarinn fara í mínus.\nNefnarinn fer í mínus í með öllum mínustölum, teljarinn eingöngu með tölum undir -4.\nFormengið er því allar tölur nema mengið -4 til og með 3.\nSýnist mér með útilokunaraðferðinni...",
+            "date": "2010-09-29 19:33:00",
+            "post_id": "285156",
+            "reply_to_id": "285137"
+        },
+        {
+            "user_name": "zdndz",
+            "text": "Með að setja (x2-x+12)-5(x+3)(x-3) / (x+3)(x-3)(x2-x+12) í formerkjagreiningu þá fæ ég að það kemur alltaf út neikvæð tala (fyrir utan í -3 og 3) þannig ég er nokkuð viss um að svarið er \"tómamengið\", sem sagt ekkert svar,\neinhver ósámmála mér?",
+            "date": "2010-09-29 20:20:00",
+            "post_id": "285166",
+            "reply_to_id": "285156"
+        },
+        {
+            "user_name": "rapport",
+            "text": "(x2-x+12)-5(x+3)(x-3) / (x+3)(x-3)(x2-x+12) \nef x = -5 þá færðu út 112 / 496...\nÞað er ekki mínustala...\nEkki nema ég sé orðinn mun ryðgaðri en ég hélt...",
+            "date": "2010-09-29 20:50:00",
+            "post_id": "285172",
+            "reply_to_id": "285166"
+        },
+        {
+            "user_name": "Daz",
+            "text": "(x2-x+12)-5(x+3)(x-3)  x = -5\n(25+5+12) -5(-2)(-8)\n42-80 = -38\n(x+3)(x-3)(x2-x+12) \n-2*(-8)*(25+5+12) =16*42 = 672\nÞú ert ryðgaður \nÉg er víst búinn með svona menntaskólastærðfræði og einhverja ansi fjörlega háskólastærðfræði líka og ég fékk kaldann svita við að opna þetta verkefnablað (og við að leysa útúr þessum jöfnum með x=-5 líka... \n )",
+            "date": "2010-09-29 21:31:00",
+            "post_id": "285180",
+            "reply_to_id": "285172"
+        },
+        {
+            "user_name": "Benzmann",
+            "text": "stærfræði er verkfæri djöfulsins !",
+            "date": "2010-09-29 22:27:00",
+            "post_id": "285185",
+            "reply_to_id": "285180"
+        },
+        {
+            "user_name": "Nariur",
+            "text": "Ég er núna í STÆ 503 í MA og hef aldrei heyrt hugtakið formengi... anyway, ef ykkur finnst þetta erfitt, spreytið ykkur þá á þessu dæmi sem var á mínum síðustu heimadæmum:\nHvert er minnsta flatarmál jafnarma þríhyrnings sem er umritaður um hring með r=2?",
+            "date": "2010-09-29 22:29:00",
+            "post_id": "285186",
+            "reply_to_id": "285185"
+        },
+        {
+            "user_name": "Kristján Gerhard",
+            "text": "Flatarmálið stefnir á 0 þegar grunnlínan stefnir á núll, nema ég sé að misskilja.",
+            "date": "2010-09-29 22:51:00",
+            "post_id": "285189",
+            "reply_to_id": "285186"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Þríhyrningurinn er með miðpunkt í fjarlægð 2 frá öllum hornum, sem skiptir honum niður í 3 jafnstóra þríhyrnina með skammhliðar að lengd 2 og gleiðhorn = 120° (hvað heita nú hin hornin? Þau eru þá í það minnsta að stærð 30°). Flatarmál þríhyrnings = (ab*sin C) /2 þar sem a og b eru hliðar og C er hornið á milli þeirra. Svo að svarið ætti að vera \n3*(4*sin(120)) /2\nSvo er þetta svosem til á wikipediu \nhttp://en.wikipedia.org/wiki/Equilateral_triangle\n (formúla til að reikna út hliðarlengd útfrá radíus og svo flatarmál útfrá hliðarlengd, alltaf fjör á wikipediu)",
+            "date": "2010-09-29 22:59:00",
+            "post_id": "285190",
+            "reply_to_id": "285189"
+        },
+        {
+            "user_name": "zdndz",
+            "text": "formengi fallsins þýðir eiginlega hvaða x-gildi geta verið",
+            "date": "2010-09-29 23:04:00",
+            "post_id": "285191",
+            "reply_to_id": "285190"
+        },
+        {
+            "user_name": "Kristján Gerhard",
+            "text": "Jafnarma þríhyrningur er bara með 2 hliðar jafn langar. þríhyrningur með allar hliðar jafnlangar heitir jafnhliða.\nminnsta flatarmál jafnhliða þríhyrnings sem er umskrifaður með hring,r=2 er 3*sqrt(3)",
+            "date": "2010-09-29 23:05:00",
+            "post_id": "285192",
+            "reply_to_id": "285191"
+        },
+        {
+            "user_name": "Nariur",
+            "text": "þegar grunnlínan stefnir á 0 stefnir hæðin á endalaust\nnei, hringurinn er inní þríhyrningnum",
+            "date": "2010-09-29 23:14:00",
+            "post_id": "285195",
+            "reply_to_id": "285192"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Ekki í hring með r = 2 , þá getur hæðin líklega aldrei orðið meiri en 4. \nJafnarma, jafnhliða, jafnvitlaust.  DAIM! mmm Daim....",
+            "date": "2010-09-29 23:23:00",
+            "post_id": "285198",
+            "reply_to_id": "285195"
+        },
+        {
+            "user_name": "Kristján Gerhard",
+            "text": "Já, miðað við að þríhyrningurinn umskrifi hringinn, hef lesið fyrsta póstinn þinn á hundavaði.\n[/quote]\nEn ertu að meina jafnarma eða jafnhliða?",
+            "date": "2010-09-29 23:24:00",
+            "post_id": "285199",
+            "reply_to_id": "285198"
+        },
+        {
+            "user_name": "Nariur",
+            "text": "arma, annars væri þetta of létt\nmér datt það svosem í hug",
+            "date": "2010-09-29 23:33:00",
+            "post_id": "285200",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Er ekki með blað og blýant uppi við en þegar ég er að pæla í þessu hring og þríhyrninga dæmi þá virðist það ekki verið það strembið. Setur upp jöfnu, diffrar og finnur lággildi.",
+            "date": "2010-09-30 00:43:00",
+            "post_id": "285210",
+            "reply_to_id": "285200"
+        },
+        {
+            "user_name": "Nariur",
+            "text": "vissulega er aðferðin rétt, en þú hefur ekki miklar upplýsingar, það gerir þetta svolítið strembið.",
+            "date": "2010-09-30 19:39:00",
+            "post_id": "285323",
+            "reply_to_id": "285210"
+        }
+    ],
+    "date": "2010-09-29 23:33:00"
+}

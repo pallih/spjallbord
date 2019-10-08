@@ -1,0 +1,44 @@
+{
+    "forum_title": "Windows",
+    "id": "23141",
+    "title": "Excel hjálp",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=23141",
+    "posts": [
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Svo virðist sem Excel sé eitthvað bilað hjá mér. Er að fara í próf í stæ 313 á morgun og er að reyna að æfa mig. Ef ég skrifa =BINOMDIST(36;40;0,85;TRUE) fæ ég upp glugga sem segir að það sé error í formúluni. Ef ég slæ slíkt hið sama inn í Excel í fartölvunni fæ ég ekki neinn error. Einhverja hugmynd um hvernig ég get lagað þetta? Þetta er rétt sett upp right?",
+            "date": "2009-05-13 22:23:00",
+            "post_id": "206897",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "hagur",
+            "text": "Skrítið ... var að copy-peista þetta inn í Excel 2007 hjá mér og virkar fínt.\nHvaða error kemur?  Færðu engar nánari upplýsingar um errorinn? Enginn help eða more info takki í villuglugganum?",
+            "date": "2009-05-13 22:46:00",
+            "post_id": "206904",
+            "reply_to_id": "206897"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Þetta virkar ef ég nota =BINOMDIST(36,40,0,85,TRUE) s.s. með kommum í stað semikommna (má segja það?).\nLæt það bara duga",
+            "date": "2009-05-13 22:55:00",
+            "post_id": "206907",
+            "reply_to_id": "206904"
+        },
+        {
+            "user_name": "Stebbi",
+            "text": "Getur verið að þú sért með stillt á ameríska kerfið annari tölvunni en ekki hinni ?  Þ.e. þá notar tölvar kommur sem punkta og orskar mikil leiðindi.",
+            "date": "2009-05-13 22:58:00",
+            "post_id": "206909",
+            "reply_to_id": "206907"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Getur bara vel verið. Þar sem ég fæ punkt þegar ég ýti á kommutakkann á numpadinu.",
+            "date": "2009-05-13 23:24:00",
+            "post_id": "206913",
+            "reply_to_id": "206909"
+        }
+    ],
+    "date": "2009-05-13 22:23:00"
+}

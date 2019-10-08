@@ -1,0 +1,44 @@
+{
+    "forum_title": "Þjónusta / Viðgerðir",
+    "id": "31566",
+    "title": "Erfiðleikar við að formatta harðan disk",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=13&t=31566",
+    "posts": [
+        {
+            "user_name": "Greykjalin",
+            "text": "Daginn..\nÉg var að setja upp stýrikerfi á nýjum diski hjá mér og ætlaði að nota gamla diskinn (Sem stýrikerfið var á áður) sem backup disk.\nMér tekst hinsvegar ekki að formatta hann því hann er ennþá stilltur sem system disk því gamla stýrikerfið er enn uppsett á honum.\nDisk management leyfir það ekki\nEASEUS Partition manager leyfir það ekki\nÉg er búinn að prófa að fara í \"diskpart\", velja diskinn og skrifa \"clean\" en þá segir hún að hann sé tölvunni lífsnauðsynlegur og ekki sé hægt að eiga neitt við hann..\nÞegar ég keyri tölvuna upp á Windows Install CD-diskinum þá gefur hún mér ekki möguleika á að formatta, bara repair og install\nDiskur sem þarf að formatta: Seagate Barracuda 1TB\nStýrikerfi: Windows Vista Home 64\nEinhverjar hugmyndir?\nGunnar",
+            "date": "2010-07-30 18:41:00",
+            "post_id": "274120",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Geturðu deletað partitioninu í windows setupinu?\nÞarft að ýta á drive options þarna á hlutanum þar sem þú velur hörðu diskana.",
+            "date": "2010-07-30 19:31:00",
+            "post_id": "274124",
+            "reply_to_id": "274120"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Varstu með hinn diskinn (sem þú ætlar að nota sem backup) tengdan meðan þú settir upp stýrikerfið?  Því þá er ágætis möguleiki á að það hafi verið settar upplýsingar inn á hann til að segja tölvunni að ræsa upp af hinum disknum ef þessi var valinn sem primary boot diskur í upphafi.\nEf svo er ekki, þá ættirðu að geta notað FAT32Formatter til að formatta hann fyrst í FAT32 og henda svo út partitioninu og formatta aftur í gegnum disk management í Windows sem NTFS.\nÞað ber þó að passa sig þegar FAT32Formatter er notaður, þar sem að hann stoppar ekki einu sinni þó þú veljir núverandi stýrikerfisdisk...",
+            "date": "2010-08-07 02:11:00",
+            "post_id": "275177",
+            "reply_to_id": "274124"
+        },
+        {
+            "user_name": "nighthawk",
+            "text": "Bootaðu upp af windows 7 setup disknum (ef þú ert með hann) veldu repair computer, \nýttu á next og svo cancel þar til þú sérð menu með command prompt. Farðu í diskpart, \nveldu diskinn, skrifaðu clean all, ef það virkar ekki skrifaðu \"select partition #\" og svo \n\"delete partition override\" og svo \"create partition primary\" eða \"create partition \nprimary size=####\" ef þú ætlar að hafa fleiri en ein partition.",
+            "date": "2010-08-07 05:06:00",
+            "post_id": "275180",
+            "reply_to_id": "275177"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Notaðu bara @killdisk suite \"ókeypis edition\" til að yfirskrifa allan diskinn og formattaðu hann svo...",
+            "date": "2010-08-07 13:38:00",
+            "post_id": "275188",
+            "reply_to_id": "275180"
+        }
+    ],
+    "date": "2010-07-30 18:41:00"
+}

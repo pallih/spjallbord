@@ -1,0 +1,191 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "16932",
+    "title": "Linux hjalp",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=16932",
+    "posts": [
+        {
+            "user_name": "opk",
+            "text": "hvernig fæ ég forrit til að installast eins og t.d. ktorrent ég fer í add/remove og er fastur þar veit ekki hvað ég áað gera eftir það\n\nfyrirfram þakkir opk.",
+            "date": "2008-02-02 00:50:00",
+            "post_id": "165270",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "elv",
+            "text": "Hvaða Linux dreifingu ertu með ?",
+            "date": "2008-02-02 09:10:00",
+            "post_id": "165279",
+            "reply_to_id": "165270"
+        },
+        {
+            "user_name": "opk",
+            "text": "ubuntu",
+            "date": "2008-02-04 00:38:00",
+            "post_id": "165455",
+            "reply_to_id": "165279"
+        },
+        {
+            "user_name": "elv",
+            "text": "Opna console.\n\n\"su apt-get update\"\n\n\"su apt-get install ktorrent\"\n\n\n\nEða nota Synaptic\n\nFerð þá fyrst í update, getur þá notað search og fundið ktorrent.\n\nKlikkar á Mark for install(minnir mig að það heitir) og síðan apply",
+            "date": "2008-02-04 08:27:00",
+            "post_id": "165466",
+            "reply_to_id": "165455"
+        },
+        {
+            "user_name": "DoRi-",
+            "text": "það þarf að breyta helling af drasli til að nota su\n\n\n\nbetra að gera \n\nKóði: \nVelja allt\nsudo apt-get update\nsudo apt-get install ktorrent",
+            "date": "2008-02-04 10:37:00",
+            "post_id": "165476",
+            "reply_to_id": "165466"
+        },
+        {
+            "user_name": "elv",
+            "text": "Átti að vera sudo, gleymdi mér aðeins",
+            "date": "2008-02-04 11:30:00",
+            "post_id": "165481",
+            "reply_to_id": "165476"
+        },
+        {
+            "user_name": "opk",
+            "text": "sry er linux nýliði en hvar finn ég console-ið",
+            "date": "2008-02-04 22:11:00",
+            "post_id": "165538",
+            "reply_to_id": "165481"
+        },
+        {
+            "user_name": "DoRi-",
+            "text": "Applications -> Accessories -> Terminal",
+            "date": "2008-02-04 23:32:00",
+            "post_id": "165559",
+            "reply_to_id": "165538"
+        },
+        {
+            "user_name": "Dagur",
+            "text": "eða \"Útstöð\" ef þú notar íslenskuna.",
+            "date": "2008-02-05 00:32:00",
+            "post_id": "165566",
+            "reply_to_id": "165559"
+        },
+        {
+            "user_name": "dadik",
+            "text": "Það er afleit þýðing. Útstöð er þegar notað fyrir annan hlut.\n\n\n\nSkipanalína eða skel væri mun meira lýsandi",
+            "date": "2008-02-05 01:20:00",
+            "post_id": "165575",
+            "reply_to_id": "165566"
+        },
+        {
+            "user_name": "Dagur",
+            "text": "Alveg sammála. Mig grunar að þeir sem voru að þýða þetta hafi ekki verið að spá mikið í samhenginu þegar þeir voru að vinna í þessu.",
+            "date": "2008-02-05 14:08:00",
+            "post_id": "165612",
+            "reply_to_id": "165575"
+        },
+        {
+            "user_name": "daremo",
+            "text": "Útstöð er nú skárra en það sem ég sá í einhverri Gnome/KDE þýðingu fyrir mörgum árum.. Flugstöð.",
+            "date": "2008-02-05 16:14:00",
+            "post_id": "165635",
+            "reply_to_id": "165612"
+        },
+        {
+            "user_name": "urban",
+            "text": "hahaha einhver farið bara beint í ensk-íslenska orðabók og fundið þar út hvað það var",
+            "date": "2008-02-05 19:47:00",
+            "post_id": "165668",
+            "reply_to_id": "165635"
+        },
+        {
+            "user_name": "opk",
+            "text": "haha en ja þetta virkar ekki það kemur bara password for msi og þ.að er ekki hægt að skrifa neitt í consolið þar er ekki til leið í gegnum applications-add/remove? fyrifram þakkir opk",
+            "date": "2008-02-06 15:44:00",
+            "post_id": "165733",
+            "reply_to_id": "165668"
+        },
+        {
+            "user_name": "mainman",
+            "text": "þeir eru auðvitað að segja þér að fara lengstu og erfiðustu leið að þessu sem til er.\n\n\n\nklikkaðu á torrent fælinn,  veldu \"save\" þá vistast hann inná vélina þína, hægriklikkaðu síðan á torrent fælinn og varðu í propertys, veldu þar að þú viljir láta ktorrent opna þetta.\n\n\n\nþú ert öruglega með ktorrent installað hjá þér.",
+            "date": "2008-02-06 18:40:00",
+            "post_id": "165748",
+            "reply_to_id": "165733"
+        },
+        {
+            "user_name": "elv",
+            "text": "Því í ósköpunum heldur þú að ktorrent sé á Ubuntu....Kubuntu er kannski með það en ekki Ubuntu sem er bara með gtk en ekki qt...þe.a.s out of the box.",
+            "date": "2008-02-07 08:18:00",
+            "post_id": "165787",
+            "reply_to_id": "165748"
+        },
+        {
+            "user_name": "opk",
+            "text": "kemur bara \nE: invalid operation ktorrent \neinhverjar hugmyndir?",
+            "date": "2008-03-28 17:57:00",
+            "post_id": "171102",
+            "reply_to_id": "165787"
+        },
+        {
+            "user_name": "Demon",
+            "text": "Jamms, settu upp Windows.\nSorry en linux-distro's voru ekki hönnuð með þig í huga.",
+            "date": "2008-04-09 10:33:00",
+            "post_id": "172099",
+            "reply_to_id": "171102"
+        },
+        {
+            "user_name": "daremo",
+            "text": "Það fæðast ekki alllir svona pro eins og þú.",
+            "date": "2008-04-09 17:22:00",
+            "post_id": "172115",
+            "reply_to_id": "172099"
+        },
+        {
+            "user_name": "opk",
+            "text": "reyndar náði ég þessu án þinnar hjálpar....\ná þegar nokkrar tölvur með windows inná er eitthvað að því að prófa annað ?\nfinnst linux skemmtilegt stýrikerfi og vel hannað þess vegna vil ég lær meira um það",
+            "date": "2008-04-09 22:33:00",
+            "post_id": "172149",
+            "reply_to_id": "172115"
+        },
+        {
+            "user_name": "Turtleblob",
+            "text": "Haha, það verður samt að viðurkennast að  það er einfaldlega ekki allra að setja upp Linux og nota, einir og óstuddir, en það er óþarfi að afskrifa það svona fljótt, það er satt.",
+            "date": "2008-04-09 23:01:00",
+            "post_id": "172151",
+            "reply_to_id": "172149"
+        },
+        {
+            "user_name": "Demon",
+            "text": "Hehe ég notast nú lítið við linux sjálfur. Amk ekki fyrir desktop vinnslu.\nÁstæðan er sú að mér finnst windows henta betur í það verk.\nEn satt ég hefði getað orðað þetta betur, var bara svona kalt mat.",
+            "date": "2008-04-10 01:54:00",
+            "post_id": "172164",
+            "reply_to_id": "172151"
+        },
+        {
+            "user_name": "HemmiR",
+            "text": "Linux er náttúrlega bara draumur sem serverar",
+            "date": "2008-04-10 12:58:00",
+            "post_id": "172174",
+            "reply_to_id": "172164"
+        },
+        {
+            "user_name": "dabb",
+            "text": "Ég er lagarakall!",
+            "date": "2008-04-11 19:59:00",
+            "post_id": "172285",
+            "reply_to_id": "172174"
+        },
+        {
+            "user_name": "HemmiR",
+            "text": "Haha.. ég hef bara aldrei komið því í verk að prufa freebsd \n en það mun gerast e-rn timann ég hef nú bara alltaf notað Gentoo i server hehe",
+            "date": "2008-04-11 20:10:00",
+            "post_id": "172288",
+            "reply_to_id": "172285"
+        },
+        {
+            "user_name": "JReykdal",
+            "text": "Og það sem þú notar á þessum serverum er oftast _nákvæmlega_ sami hugbúnaðurinn  (apache og félagar) og á Linux",
+            "date": "2008-04-14 23:30:00",
+            "post_id": "172458",
+            "reply_to_id": false
+        }
+    ],
+    "date": "2008-04-14 23:30:00"
+}

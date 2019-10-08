@@ -1,0 +1,23 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "1246",
+    "title": "Hvernig maður fær wireless access gegnum blokkir! :-)",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=1246",
+    "posts": [
+        {
+            "user_name": "noline",
+            "text": "Gat ekki orða bundist eftir að hafa lesið pósta hér að neðan um fólk sem lenti í vandræðum með að fá merkið til að drífa ásamt fleiru.\n\n802.11b er kraftmeiri en 802.11g accesspunktur í drægni.  Hins vegar er G búnaðurinn miklu kraftmeiri í hraða.\n\nÖryggið er það sama á báðum, fer þó eftir framleiðendum hversu mikið það er.  Öruggast að nota bæði MAC addressu læsingu ásamt 128 WEP til að tryggja að enginn óviðkomandi komist inn.\n\nLinkSys og cNet hafa skorað dálítið í Accesspunktum sem ég hef sjáfur prófað, aðallega vegna þess að það er mjög auðvelt að modda þá til að drífa gengnum steinsteypu.\n\nLeiðin til þess er ein....að fara með Acesspunktinn niður í Íhluti í skipholti eða niður í Eico (rétt hjá Expert) og fá þá til að búa til kapal með enda sem passar á punktinn.  Síðan er Eico eða Elnet með eitthvað úrval (veit reyndar ekki með loftnet) ásamt Icecom af loftnetum sem virka á 2.4GHz.\n\nÞá er best að taka gott 12dbi omni loftnet eða þá 25-50° stefnuvirkt 10-14 dbi loftnet og fíra upp í græjunni.  Veit um tvö dæmi þar sem þetta hefur verið gert, með slíkum eindæmum að skotið var í gegnum eina blokk, um kílómeters leið, og náðist 75% signal strengt, enda var lan-að í CS eins og það ætti aldrei að enda.\n\nVona að þetta hjálpi eitthverjum.",
+            "date": "2003-08-12 14:24:00",
+            "post_id": "10320",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gumol",
+            "text": "kanski maður hugsi um þetta, ég er í mestu vandræðum með að staðsetja access punktinn (ég á heima í húsi á 3 pöllum)",
+            "date": "2003-08-12 14:58:00",
+            "post_id": "10323",
+            "reply_to_id": "10320"
+        }
+    ],
+    "date": "2003-08-12 14:24:00"
+}

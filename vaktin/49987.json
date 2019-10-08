@@ -1,0 +1,30 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "49987",
+    "title": "USB kubbur með stæla",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=49987",
+    "posts": [
+        {
+            "user_name": "capteinninn",
+            "text": "Daginn.\nVar að reyna að setja upp Android á kubb og var eitthvað að fikta með USB kubb en núna vill hann ekki virka, næ ekki að formatta hann og þegar ég reyni að formatta kemur upp glugginn og þar stendur bara Unknown capacity, þegar ég reyni að formatta þá fær ég Windows was unable to complete the format.\nVeit einhver góða leið til að laga kubbinn, hef lent í svipuðu áður en alltaf náð að laga kubbinn þangað til núna\nEr búinn að reyna að nota diskpart líka án þess að það virki\nGeri semsagt:\nKóði: \nVelja allt\nlist disk (og diskurinn kemur upp)\nselect disk 2\nclean\nDiskpart has encountered an error: Incorrect function. See the System Event log for more information.\nEr líka búinn að prófa\nKóði: \nVelja allt\nlist disk (og diskurinn kemur upp)\nselect disk 2\nattributes disk clear readonly\nconvert mbr\ncreate partition primary\nselect part 1\nactive\nformat fs=fat32 label=litlikubbur quick\nDiskpart has encountered an error: The system cannot find the file specified. See the System Event log for more information.\nVirkar hvorugt",
+            "date": "2012-08-26 19:56:00",
+            "post_id": "463225",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "TraustiSig",
+            "text": "Getur prufað að ná í \nhttp://support.wdc.com/product/download ... =3&lang=en\nog gert \"Full Write Zeros\" á diskinn. Skrifar 0 á alla kafla á disknum þá geturu byrjað upp á nýtt..",
+            "date": "2012-08-26 22:04:00",
+            "post_id": "463245",
+            "reply_to_id": "463225"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Gekk eins og í sögu, þakka kærlega aðstoðina frá þér. Búinn að reyna að laga þetta í nokkra daga án árangurs",
+            "date": "2012-08-26 22:26:00",
+            "post_id": "463252",
+            "reply_to_id": "463245"
+        }
+    ],
+    "date": "2012-08-26 19:56:00"
+}

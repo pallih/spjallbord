@@ -1,0 +1,30 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "14242",
+    "title": "Partition",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=14242",
+    "posts": [
+        {
+            "user_name": "azzin",
+            "text": "Hvernig á ég að setja upp Ubuntu partition án þess að eiða öðrum gögnum sem eru á sama haraðdisk en öðrum partition.\n\nEða er það hægt.",
+            "date": "2007-05-12 21:41:00",
+            "post_id": "146215",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Það er vel hægt. Þú lætur bara installerinn resize-a windows sneiðina og setur linux upp á tóma plássinu sem þú bjóst til. \n\nGetur skoðað \nGraphical Install\n síðuna hjá ubuntu þó sérstaklega \nSelect a disk\n hlutann.\n\n\n\nGRUB\n sér svo um að boota upp því OS-i sem þú villt fá.",
+            "date": "2007-05-12 22:39:00",
+            "post_id": "146216",
+            "reply_to_id": "146215"
+        },
+        {
+            "user_name": "dorg",
+            "text": "Mundu að þetta getur rústað disknum hjá þér.\n\nMundu að keyra scandisk og defrfrag áður en þú ferð í þessar æfingar.\n\nMundu að taka backup af þeim gögnum sem þú vilt ekki tapa áður en þú ferð í þessa aðgerð.",
+            "date": "2007-05-13 16:57:00",
+            "post_id": "146252",
+            "reply_to_id": "146216"
+        }
+    ],
+    "date": "2007-05-12 21:41:00"
+}

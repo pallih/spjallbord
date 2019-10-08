@@ -1,0 +1,65 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "67484",
+    "title": "Ráðleggingar við heimanet (router án DSL)",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=67484",
+    "posts": [
+        {
+            "user_name": "IngoVals",
+            "text": "Ég bjó á stað með Ljósleiðara og notaði Asus rt-n56u sem minn router. Nú er ég fluttur og aðeins Ljósnet í boði. Þar sem að Asus rt-n56u er ekki með dsl módem fékk ég einn Zhone með. Nú er spurning, ætti ég frekar að\n1) fá mér nýjan DSL router\n2) Nota Zhone og nota Asus sem AP\n3) Nota Zhone eingöngu sem modem og Asus fyrir routing dhcp etc. (ég er að reikna með að það sé hægt).\nÖnnur pæling varðandi sjónvarp, mér finnst vera smá hikst og svona hjá mér (sem var aldrei á ljósi), er þetta eðlilegt, hvað gæti valdið? Einnig gæti ég breytt auka porti, jafnvel á AP, yfir í IP tv og verið með auka sjónvarp (er að pæla í á annarri hæð og þess vegna á AP) eða er það too much fyrir mitt lágstemmda ljósnet.",
+            "date": "2015-11-09 21:52:00",
+            "post_id": "610520",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "DJOli",
+            "text": "Adsl er ekkert 5 stjörnu samband, en þú getur prufað að hringja í símfyrirtækið þitt og kvarta.",
+            "date": "2015-11-09 22:18:00",
+            "post_id": "610521",
+            "reply_to_id": "610520"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Ég myndi fara leið 3 ef möguleiki er á því.  Þekki ekki alveg nógu vel þessa DSL routera hvort þeir geti fúnkerað sem módem eingöngu.  Annars leið 2.",
+            "date": "2015-11-09 22:21:00",
+            "post_id": "610522",
+            "reply_to_id": "610521"
+        },
+        {
+            "user_name": "IngoVals",
+            "text": "Ok ég þyrfti s.s. að Bridga þennan Zhone og hleypa öllu beint í gegn á ASUS, er bara ekki viss hvort það sé hægt, skoða það aðeins betur.",
+            "date": "2015-11-10 18:46:00",
+            "post_id": "610575",
+            "reply_to_id": "610522"
+        },
+        {
+            "user_name": "Andri Þór H.",
+            "text": "Mæli hiklaust með leið nr 3 þá þarf Zhone ekkert að hafa fyrir neinu. Slekkur síðan á Wifi og notar eingöngu Wifi í ASUS\nNotar Zhone sem \"Modem\" Getur stillt DMZ á Zhone routernum. Breytir ip tölunum í Zhone í t.d. 192.168.8.1 og slekkur á DHCP.\nFerð þá inní DMZ stillingar á Zhone og setur inn 192.168.8.10\nGefur Asus routernum fasta ip tölu á Wan portinum, t.d. 192.168.8.10 og svo ertu með 192.168.1.1 á Lan interfaceinu og Notar DHCP serverinn í Asus Routernum\nNúna sér Asus um allan eldvegg og allar rútur.\nDefult gateway á Wan portinu á Asus er þá 192.168.8.1 og allar tölvur verða með defult gateway 192.168.1.1 og Lanið er þá 192.168.1.X\nVonandi hjálpar þetta eitthvað",
+            "date": "2015-11-10 19:14:00",
+            "post_id": "610578",
+            "reply_to_id": "610575"
+        },
+        {
+            "user_name": "IngoVals",
+            "text": "Sannarlega hjálpar þetta, sérstaklega þar sem ég áttaði mig ekki á að WAN og LAN portið þyrftu að tilheyra sitthvorri IP tölunni (á milli Zhone og Asus er væntanlega sér net nokkurn veginn).",
+            "date": "2015-11-12 13:22:00",
+            "post_id": "610727",
+            "reply_to_id": "610578"
+        },
+        {
+            "user_name": "IngoVals",
+            "text": "Get ég ennþá notað portið á Zhone fyrir sjónvarp, fer það ekki bara í einhverja bridgaða tengingu og er ekki háð þessu sem ég dæli í gegn til Asus?",
+            "date": "2015-11-14 19:25:00",
+            "post_id": "610947",
+            "reply_to_id": "610727"
+        },
+        {
+            "user_name": "Andri Þór H.",
+            "text": "Þú notar ennþá sama port fyrir TV á Zhone Routernum.\nÞú ert ekki að Bridgea Zhone Routerinn með þessari aðferð.\nDMZ aðferðin er bara að hleypa allri traffic á ákveðna ip Addressu og það er enginn eldveggur á bakvið DMZ aðferðina.",
+            "date": "2015-11-15 00:48:00",
+            "post_id": "610989",
+            "reply_to_id": "610947"
+        }
+    ],
+    "date": "2015-11-09 21:52:00"
+}

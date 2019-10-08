@@ -1,0 +1,65 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "24735",
+    "title": "Tölvan vill ekki starta bara black screen",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=24735",
+    "posts": [
+        {
+            "user_name": "siggihufa",
+            "text": "Ég var að setja Intel e8400 i tölvuna mína og þegar ég reyni að ræsa hana kemur bara svartur skjár, ekkert post, bíb hljóð eða neitt.\nMobo: Asus p5n-e sli\nRam: 2X2gb ocz ddr2\ngeforce 8800\nEr búinn að prófa að setja gamla örrann aftur i og það virkar alveg fullkomlega\nEf þið hafið einhverjar hugmyndir endilega láta mig vita",
+            "date": "2009-09-02 16:25:00",
+            "post_id": "217041",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "coldcut",
+            "text": "Kviknar samt á henni?\nÞ.e.a.s. á viftum og ljósi á móðurborði.",
+            "date": "2009-09-02 16:33:00",
+            "post_id": "217043",
+            "reply_to_id": "217041"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Taktu BIOS batterý-ið úr móðurborðinu í 30 sek og settu það aftur í ásamt nýja örgjörvanum, og gáðu hvað gerist.\nViss um að móðurborðið styðji E8400 með núverandi BIOS ver. ?",
+            "date": "2009-09-02 16:33:00",
+            "post_id": "217044",
+            "reply_to_id": "217043"
+        },
+        {
+            "user_name": "einarhr",
+            "text": "Sæll\nLíklega þarftu að uppfæra BIOS hjá þér, skv heimasíðu Asus þá þarf Bios version 0803 eða 1101 og fer það eftir rev á Örjörva sjá:\nCore 2 Duo E8400 (3.00GHz,1333FSB,L2:6MB,65W,rev.E0)  Bios ver. 1101 \t\nCore 2 Duo E8400 (3.00GHz,1333FSB,L2:6MB,rev.C0) Bios ver. 0803\nSjá Link: \nhttp://uk.asus.com/product.aspx?P_ID=KyHOsOKWujC2QguJ\nNiðri sérðu CPU Support List og einnig Download og þar sækir þú nýjasta Bios útgáfuna ásamt hugbúnaði til að Flasha Bios.",
+            "date": "2009-09-02 16:44:00",
+            "post_id": "217045",
+            "reply_to_id": "217044"
+        },
+        {
+            "user_name": "siggihufa",
+            "text": "já allar viftur kveikja á sér og ljós.\nEr búinn að prófa taka batteríið úr og setja það aftur í.\nMóðurborðið á alveg að styðja e8400, klikkaði samt að tékka a bios ver.",
+            "date": "2009-09-02 16:48:00",
+            "post_id": "217046",
+            "reply_to_id": "217045"
+        },
+        {
+            "user_name": "stefan251",
+            "text": "búinn að gá hvort þú ert með 775 stock ? móðurborð",
+            "date": "2009-09-02 21:31:00",
+            "post_id": "217087",
+            "reply_to_id": "217046"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Nei hættu nú drengur, komið gott af kjánalegum kommentum í bili.\nHann er væntanlega búinn að athuga hvort hann sé með rétt socket þar sem hann er BÚINN að setja örgjörvann í.",
+            "date": "2009-09-02 21:37:00",
+            "post_id": "217089",
+            "reply_to_id": "217087"
+        },
+        {
+            "user_name": "stefan251",
+            "text": "maðue veit aldrey bara að trygja mér þykir þetta afar leitt",
+            "date": "2009-09-02 21:44:00",
+            "post_id": "217090",
+            "reply_to_id": "217089"
+        }
+    ],
+    "date": "2009-09-02 16:25:00"
+}

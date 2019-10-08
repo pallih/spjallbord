@@ -1,0 +1,128 @@
+{
+    "forum_title": "Óskast - Tölvuvörur",
+    "id": "58882",
+    "title": "vantar GTX460 kort",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=54&t=58882",
+    "posts": [
+        {
+            "user_name": "tonee",
+            "text": "mig vantar gtx460 kort. er með \tMSI N460GTX (MS-V238) kort í vélinni og langar að prófa að keyra 2kort. hvað þarf maður að hafa í huga ef maður notar 2kort, hef ekki gert það áður. er það þess virði?",
+            "date": "2013-12-28 15:47:00",
+            "post_id": "544428",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "jonandrii",
+            "text": "Þarft að vera með 550w+ aflgjafa allavegna, skoða hvort móðurborðið styðji það. Þarft nokkur svona : \nhttp://s16.postimage.org/3lrpn5fbp/pcie_connectors.jpg\n \n2 svona til að tengja skjákortin saman \nhttp://solik.com/images/atrex/cab-crossfire-ati.jpg",
+            "date": "2013-12-28 16:03:00",
+            "post_id": "544429",
+            "reply_to_id": "544428"
+        },
+        {
+            "user_name": "tonee",
+            "text": "Motherboard Name\tMSI 870A-G54 (MS-7599)\nCPU Type\tQuadCore AMD Phenom II X4 Black Edition 955, 3200 MHz (16 x 200)\nVideo Adapter\tMSI N460GTX (MS-V238)",
+            "date": "2013-12-28 16:13:00",
+            "post_id": "544430",
+            "reply_to_id": "544429"
+        },
+        {
+            "user_name": "Lexinn",
+            "text": "Þetta eru ekki CF kort...",
+            "date": "2013-12-28 16:16:00",
+            "post_id": "544431",
+            "reply_to_id": "544430"
+        },
+        {
+            "user_name": "Kristján",
+            "text": "viewtopic.php?f=11&t=45894",
+            "date": "2013-12-28 16:25:00",
+            "post_id": "544434",
+            "reply_to_id": "544431"
+        },
+        {
+            "user_name": "tonee",
+            "text": "þetta power supply ætti að duga fyrir 2xgtx460?\nhttp://inter-tech.de/index.php?option=c ... 66&lang=en",
+            "date": "2013-12-28 17:01:00",
+            "post_id": "544435",
+            "reply_to_id": "544434"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "ég myndi aldrei runna sli með inter tech aflgjafa....",
+            "date": "2013-12-28 17:10:00",
+            "post_id": "544436",
+            "reply_to_id": "544435"
+        },
+        {
+            "user_name": "jonandrii",
+            "text": "Tjékkaði ekki á því hehe",
+            "date": "2013-12-28 17:24:00",
+            "post_id": "544437",
+            "reply_to_id": "544436"
+        },
+        {
+            "user_name": "tonee",
+            "text": "",
+            "date": "2013-12-28 17:56:00",
+            "post_id": "544443",
+            "reply_to_id": "544437"
+        },
+        {
+            "user_name": "tonee",
+            "text": "þá óska ég líka eftir nyju power supply sem runnar fínt fyrir SLI",
+            "date": "2013-12-28 19:42:00",
+            "post_id": "544461",
+            "reply_to_id": "544443"
+        },
+        {
+            "user_name": "Hannesinn",
+            "text": "Fyrir forvitnissakir, hversu mikill er munurinn á einu korti og tveimur?  Þeas., hvað þyrfti maður öflugt kort til að matcha tvö 460GTX kort?",
+            "date": "2013-12-28 21:12:00",
+            "post_id": "544471",
+            "reply_to_id": "544461"
+        },
+        {
+            "user_name": "Yawnk",
+            "text": "Hvernig ætli þessir 'dýru' inter tech aflgjafar séu að reynast?",
+            "date": "2013-12-28 21:28:00",
+            "post_id": "544473",
+            "reply_to_id": "544471"
+        },
+        {
+            "user_name": "Batrell",
+            "text": "Get ekki séð að þetta móðurborð styðji SLI. Styður crossfire sem er ekki það sama SLI=nvidia Crossfire=amd",
+            "date": "2013-12-28 22:03:00",
+            "post_id": "544478",
+            "reply_to_id": "544473"
+        },
+        {
+            "user_name": "tonee",
+            "text": "já ég sé þetta núna. svo ég er ekkert að fara uppfæra þessa vél fyrir lítinn pening se ég. leglegt power supply, móðurborð sem er bara pci express 2.0 og styður crossfire en ekki sli",
+            "date": "2013-12-28 22:35:00",
+            "post_id": "544482",
+            "reply_to_id": "544478"
+        },
+        {
+            "user_name": "Hnykill",
+            "text": "Ég er með 750W Inter Tech sem hefur staðið sig óaðfinnanlega. ég reikna samt með að hann skili ekki af sér nema svona 600W í það mesta. þeir eru heldur ekkert að bila neitt meira en aðrir aflgjafar, bara frekar léleg orkunýting sem gerir þá svona ódýra :/  ..en þessir nýju \"dýrari\" eins og þú orðar það eru örugglega að skila wöttunum betur af sér.",
+            "date": "2013-12-28 22:55:00",
+            "post_id": "544483",
+            "reply_to_id": "544482"
+        },
+        {
+            "user_name": "Saber",
+            "text": "Mæli með því að þú skoðir \nþetta\n. Ég myndi segja að þú ættir að vera safe með 600-750W hágæða PSU fyrir 2x GTX460, fer eftir því hvort þú yfirklukkir eða ekki. \n...ætli það séu ekki ca. 1200 inter-tech wött.",
+            "date": "2013-12-29 09:29:00",
+            "post_id": "544527",
+            "reply_to_id": "544483"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "að segja að þeir séu ekki að bila neitt er kjaftæði, spurðu bara þá sem hafa selt þetta úturbúð, það kom endalaust af þessu til baka,",
+            "date": "2014-01-02 21:22:00",
+            "post_id": "545123",
+            "reply_to_id": "544527"
+        }
+    ],
+    "date": "2013-12-28 15:47:00"
+}

@@ -1,0 +1,93 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "38675",
+    "title": "Vandamál í FTP",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=38675",
+    "posts": [
+        {
+            "user_name": "coldcut",
+            "text": "Sælir piltar\nHef ekkert notað FTP í lífinu og vantar smá hjálp við e-ð sem er sennilega kjánalega auðvelt...\nAllavegana að þá er ég að byrja á að skoða Perl og er að lesa bókina \"Learning Perl\" frá O'Reilly og á bls. 11 er ég strax kominn í vesen. Fyrirmælin eru svo hljóðandi:\nspurningin er semsagt: Hvað á að koma í password?\neinhver sem skilur hvernig á að gera þetta og getur hjálpað?\nveit að ég þarf ekkert þessi examples, en það er nú einu sinni þannig að ég VERÐ að ná þessu áður en ég held áfram í bókinni!!!",
+            "date": "2011-05-21 00:46:00",
+            "post_id": "350013",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gardar",
+            "text": "Hvaða ftp server ertu að keyra?",
+            "date": "2011-05-21 01:03:00",
+            "post_id": "350015",
+            "reply_to_id": "350013"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Hahaha vá hvað þessi server er pirrandi. Anonymous guest login á ekki að þurfa password.",
+            "date": "2011-05-21 01:19:00",
+            "post_id": "350023",
+            "reply_to_id": "350015"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "@gardar: Ef þú ert að meina útgáfu þá er ég bara að gera þetta í bash-skel í Ubuntu.\n@intenz: ég veit það...þetta er retarded sko!",
+            "date": "2011-05-21 02:40:00",
+            "post_id": "350032",
+            "reply_to_id": "350023"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Tengist pearl ekki neitt í það minnsta þetta vandamál. Serverinn virðist ekki samþykkja nein email sem passwords.",
+            "date": "2011-05-21 09:30:00",
+            "post_id": "350038",
+            "reply_to_id": "350032"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "Já ég veit það, eina ástæðan fyrir því að ég nefni Perl er að þessar leiðbeiningar eru í Perl bók. En nei, serverinn virðist bara vera bilaður eða þá að ég sé ekki að ná samsetningunni sem þarf í pw (er búinn að reyna allar sem mér dettur í hug...)",
+            "date": "2011-05-21 10:16:00",
+            "post_id": "350042",
+            "reply_to_id": "350038"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Er serverinn ekki bara configaður til að taka ekki við anon ftp?",
+            "date": "2011-05-21 10:32:00",
+            "post_id": "350044",
+            "reply_to_id": "350042"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "er líka búinn að prófa allt varðandi það sko...þetta virðist bara ekki ætla að virka!",
+            "date": "2011-05-21 10:46:00",
+            "post_id": "350046",
+            "reply_to_id": "350044"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Þessvegna var ég einmitt að spyrja, hvaða server (ftpd) ertu að nota?",
+            "date": "2011-05-21 10:50:00",
+            "post_id": "350048",
+            "reply_to_id": "350046"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "hehe eins og ég sagði þá hef ég aldrei notað þetta ftp dæmi í Linux. En neðst í manpage stendur.\nKóði: \nVelja allt\nLinux NetKit (0.17) August 15, 1999\nef þú ert ekki að meina þetta þá máttu endilega segja mér hvað þú ert að meina",
+            "date": "2011-05-21 11:06:00",
+            "post_id": "350053",
+            "reply_to_id": "350048"
+        },
+        {
+            "user_name": "gardar",
+            "text": "FTP serverinn ætti að tilkynna á hvaða hugbúnaði þú keyrir þegar þú tengist honum.\nEr það þessi ftp.uu.net þjónn sem þú ert að reyna að tengjast?\nSé að hann announcar bara \n220 FTP server ready\nÁ meðan t.d. þjónninn heima hjá mér announcar \n220 (vsFTPd 2.3.2)\nAnyhow, ertu ekki með aðgang í þessa ftp.uu.net vél? Mér sýnist hún ekki tala við anonymous logins.\nÞú getur prófað að tengjast t.d. ftp.rhnet.is anonymous login virkar hjá þeim.",
+            "date": "2011-05-21 11:16:00",
+            "post_id": "350057",
+            "reply_to_id": "350053"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "Jámm rhnet virkar sko. En kannski er búið að breyta þessum ftp.uu.net þar sem þessi bók sem ég er með var prentuð í ágúst 1994",
+            "date": "2011-05-21 15:29:00",
+            "post_id": "350095",
+            "reply_to_id": "350057"
+        }
+    ],
+    "date": "2011-05-21 00:46:00"
+}

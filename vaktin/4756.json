@@ -1,0 +1,100 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "4756",
+    "title": "Hiti á P4",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=4756",
+    "posts": [
+        {
+            "user_name": "machinehead",
+            "text": "Það er örugglega búinn að koma svona þráður áður en ég fann engann á fyrstu 7 síðunum og ég hef ekki mikinn tíma, þanni að ég spyr: Hvað er gott hitistastig á P4 örgjörvum?, því minn fer alveg upp í 49° í load...",
+            "date": "2004-07-13 05:31:00",
+            "post_id": "48396",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Arnar",
+            "text": "Slakaðu á..\n\n\n\nÞað er fínt..\n\n\n\nUndir 75°c er fínt",
+            "date": "2004-07-13 07:00:00",
+            "post_id": "48398",
+            "reply_to_id": "48396"
+        },
+        {
+            "user_name": "Steini",
+            "text": "minn er svipaður í load, en ertu ekki með hann eitthvað overclockaðann?",
+            "date": "2004-07-13 10:59:00",
+            "post_id": "48411",
+            "reply_to_id": "48398"
+        },
+        {
+            "user_name": "machinehead",
+            "text": "jújú... 2.8@3.2",
+            "date": "2004-07-13 12:38:00",
+            "post_id": "48423",
+            "reply_to_id": "48411"
+        },
+        {
+            "user_name": "gutti",
+            "text": "hi machinehead ég er með sama örgjörva ég er með  yfirklukkað í 3.30 hiti er 31 normal á fullu vinnslu um 45 til 50  ég er með zalman heatsink  á örran",
+            "date": "2004-07-13 17:20:00",
+            "post_id": "48453",
+            "reply_to_id": "48423"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "machinehead: hhvernig heatsinkfan ?",
+            "date": "2004-07-13 17:34:00",
+            "post_id": "48455",
+            "reply_to_id": "48453"
+        },
+        {
+            "user_name": "machinehead",
+            "text": "Þessa \nZalman\n. Svo er ég með Demon kassa",
+            "date": "2004-07-13 18:03:00",
+            "post_id": "48462",
+            "reply_to_id": "48455"
+        },
+        {
+            "user_name": "Jakob",
+            "text": "Ég er með Zalman kælingu (\nlink\n) og Intel P4 3.06GHz (533MHz FSB).\n\nÞessi er að fara alveg uppí 75 - 78 við 100% load.\n\n\n\nÉg er reyndar með allar viftur á lágmarks snúning til að minnka hávaða.",
+            "date": "2004-07-13 18:52:00",
+            "post_id": "48471",
+            "reply_to_id": "48462"
+        },
+        {
+            "user_name": "Steini",
+            "text": "Vá",
+            "date": "2004-07-13 19:58:00",
+            "post_id": "48487",
+            "reply_to_id": "48471"
+        },
+        {
+            "user_name": "Revenant",
+            "text": "3.0GHz Northwood með Zalman CNPS7000A-Cu viftu. \n\n\n\nIdle: 30°c\n\nFullri vinnslu: 52°c\n\n\n\nAllt undir 60°c er gott þannig að þú ert í fínum málum.",
+            "date": "2004-07-14 12:34:00",
+            "post_id": "48555",
+            "reply_to_id": "48487"
+        },
+        {
+            "user_name": "machinehead",
+            "text": "Okay... nú þegar ég er búinn að OC'a P42.8 í 3.4 og snúa einni viftunni í kassanum við þannig að hún blæs inn í kassann, þá er hún 32-35 í Idle og 46-48 í Load...",
+            "date": "2004-07-14 15:37:00",
+            "post_id": "48573",
+            "reply_to_id": "48555"
+        },
+        {
+            "user_name": "Steini",
+            "text": "Hvernig er minnið hjá þér? með einhvern divider á því?",
+            "date": "2004-07-14 16:38:00",
+            "post_id": "48579",
+            "reply_to_id": "48573"
+        },
+        {
+            "user_name": "machinehead",
+            "text": "Mushkin 512MB 400DDR, Divider'inn er stilltur á 5:4...",
+            "date": "2004-07-14 21:56:00",
+            "post_id": "48628",
+            "reply_to_id": "48579"
+        }
+    ],
+    "date": "2004-07-13 05:31:00"
+}

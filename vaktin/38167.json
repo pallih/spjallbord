@@ -1,0 +1,51 @@
+{
+    "forum_title": "Koníakstofan",
+    "id": "38167",
+    "title": "Vantar smá upplýsingar um tölvuskammstafanir í Command promt",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=9&t=38167",
+    "posts": [
+        {
+            "user_name": "BjarniTS",
+            "text": "Process memory detail for BJARNI-PC:\nName                Pid      VM      WS    Priv Priv Pk   Faults   NonP Page\nchrome             3372  226968   83796   64336   78200   502546     21  269\nchrome             3208  133076   17380    8612    9960     5177      9  163\nchrome             4216  142468   29504   18032   27316    64558      9  163\nchrome             3172  150440   35860   23812   36824   102054     10  163\nchrome             5552  137904   24412   12980   17800    57341      8  163\nchrome             1380  144688   32668   20528   33116    89303      9  164\nchrome             5100  170272   42928   38196   51432    43103     11  220\nchrome              800  132128   17084    8424    9816     5156      7  163\nchrome             3400  133788   21332   10332   16224    16562      8  163\nFyrir hvað stendur \"PID , VM , WS , PRIV , Priv PK , Faults , NonP , Page ?\n \nGætu þið líka sagt mér hver er munurin á Pslist -m , d og x ?\nFyrir þá sem hafa áhuga á að hafa áhuga á þessu þá er þetta einfalt.\nÞetta eru pakkar sem eru hluti af Sysinternals aðferðunum.\nÞið getið sótt það allt hér : \nhttp://technet.microsoft.com/en-us/sysi ... s/bb896649\nSvo bara extractið þið þessu bara sem dæmi á c:/pstools\nSvo fari þið þangað inn í cmd\nSvo sem dæmi geri þið \nPsList -m -chrome\nATH , þið verðið að keyra cmd sem admin.",
+            "date": "2011-04-27 21:34:00",
+            "post_id": "344346",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "coldcut",
+            "text": "process id\nvirtual memory (held ég)\nprivate virtual memory (ekki alveg viss)\nprivate virtual memory peak (ekki viss)\npage faults\nnon-paged-pool (?)\npaged pool (?)\ngert eftir minni og ég er ekki alveg viss með sumt þarna, hef bara skoðað svona úr *NIX kerfum. Allt memory tengt er í KB.\nregarding pslist-dæmið...eru ekki manpages í command prompt eins og bash? 'man pslist' og þar geturðu séð allar breyturnar, kann bara EKKERT á command prompt þannig að ég get ekki gefið gott svar við þessu",
+            "date": "2011-04-27 21:42:00",
+            "post_id": "344350",
+            "reply_to_id": "344346"
+        },
+        {
+            "user_name": "BjarniTS",
+            "text": "Takk maður en það er ekkert man svo ég viti , en sýnist þetta vera mjög mikið rétt hjá þér.\nER að grúska.",
+            "date": "2011-04-27 22:13:00",
+            "post_id": "344366",
+            "reply_to_id": "344350"
+        },
+        {
+            "user_name": "dori",
+            "text": "I see what you did there...  \n \nAnnars gæti skipunin heitið \"help\". Ég er ekki nógu vel að mér í cmd til að geta leiðbeint hérna.",
+            "date": "2011-04-27 22:46:00",
+            "post_id": "344390",
+            "reply_to_id": "344366"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "Than you're a wise man cuz I don't.\nÓtrúlegt en satt þá var þetta ekkert bash á Winblows...",
+            "date": "2011-04-27 22:55:00",
+            "post_id": "344395",
+            "reply_to_id": "344390"
+        },
+        {
+            "user_name": "dori",
+            "text": "Ok... Ég sé hvað þú gerðir þarna  \n \nMálið er bara að helsta ástæðan fyrir því að mér líður eins og ég sé fatlaður þegar ég nota Windows er hvað skipanalínan er léleg. Þetta atriði sérstaklega (ekkert man) fer mikið í mig. Svo er cmd forritið böggandi (ekki meira en 80 columns, wtf?). En ég ætla ekki að fara útí þá sálma hérna.\n@BjarniTS: Þú getur fengið hjálp með forritum með \nKóði: \nVelja allt\nforrit /?\n eða \nKóði: \nVelja allt\nforrit -help\nHérna eru \n10 tips fyrir Windows Command Line",
+            "date": "2011-04-27 23:10:00",
+            "post_id": "344401",
+            "reply_to_id": "344395"
+        }
+    ],
+    "date": "2011-04-27 21:34:00"
+}

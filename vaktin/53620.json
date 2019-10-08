@@ -1,0 +1,37 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "53620",
+    "title": "Mig vantar veður kóða fyrir vefsíðu",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=53620",
+    "posts": [
+        {
+            "user_name": "jardel",
+            "text": "Er búinn að leita víða.\nHelst Reykjavik c\n        Akureyri C og fleira væri plús t.d spáin",
+            "date": "2013-02-26 18:40:00",
+            "post_id": "497488",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "hagur",
+            "text": "http://stackoverflow.com/questions/7738 ... -forecasts",
+            "date": "2013-02-26 19:07:00",
+            "post_id": "497493",
+            "reply_to_id": "497488"
+        },
+        {
+            "user_name": "jardel",
+            "text": "ég gleymdi að taka það fram að mig vantar html kóðan",
+            "date": "2013-02-26 20:53:00",
+            "post_id": "497509",
+            "reply_to_id": "497493"
+        },
+        {
+            "user_name": "rango",
+            "text": "Þú veist að þú kemst bara svo langt með HTML, HTML er fyrir útlit EKKI lógíg og virkni. Javascript er fyrir client-side virkni og PHP er fyrir server-side virkni,\nIframin er tekin af vedur.is, Og htmlið er bara basic boilerplate.\nhttp://www.vedur.is/um-vi/vefurinn/iframe/stadarspar/\nKóði: \nVelja allt\n<!doctype html>\n<html>\n<head>\n</head>\n<body>\n<script type=\"text/javascript\" src=\"http://vedur.is/js/iframe.js\"></script>\n<script type=\"text/javascript\"><!--\nVI.ifrm.type = 'wst-obs';\nVI.ifrm.area = 101;\nVI.ifrm.lang = 'is';\nVI.ifrm.displayWeather();\n//-->\n</script>\n</body>\n</html>\nSvo er líka hægt að gera svona,\nhttp://www.vedur.is/um-vi/vefurinn/ifra ... hattaspar/",
+            "date": "2013-02-26 23:05:00",
+            "post_id": "497530",
+            "reply_to_id": "497509"
+        }
+    ],
+    "date": "2013-02-26 18:40:00"
+}

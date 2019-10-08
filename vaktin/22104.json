@@ -1,0 +1,93 @@
+{
+    "forum_title": "Windows",
+    "id": "22104",
+    "title": "Vandamál með vista.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=22104",
+    "posts": [
+        {
+            "user_name": "kazaxu91",
+            "text": "Eftir að ég installaði Service Pack 1 sem Automaticly Updater bað mig um að gera, þá get ég ekki runnað .exe fæla eins og ef ég er að installa leik/forriti. En það virkar að opna forrit sem eru instölluð eða leiki en ekki ef ég er að fara installa.\nEitthver gáfaðari en ég með hugmynd?",
+            "date": "2009-03-12 21:38:00",
+            "post_id": "200714",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "kazaxu91",
+            "text": "Ok wtf, prófaði að hægri klikka á .exe fælinn og properties>Compatibility>Hakaði í Run this program in Compatibility mode for Windows Server 2003 (Service Pack 1). Klikkaði á installið .exe og ok ekkert virkaði svo eftir 5 mins poppaði instalið upp WTF. Virkaði ekki áður og núna þurfti ég að bíða í heilar 5 mins ef ekki meira eftir þessu að poppa upp. WTF, er það ég eða er vista að skíta á sig? ALDREI lent í vanda með gömlu tölvuna sem var með Windows XP pro, leið og ég fæ mer vista er ég búinn að fá stanslaust af vandamálum með þetta. Annað hvort er það ég eða Vista er crap. Langar að fá mer Windows XP pro eða Windows 7, en bara shit, Windows diskur kostaði um 12 þús fyrir 2 árum , allavega 15þús+ núna og hvað þá að láta formatta hana og setja allt í hana uppá nýtt. Og heyrði að það væri pain frá einum felaga minum. Svo any ideas?",
+            "date": "2009-03-12 21:59:00",
+            "post_id": "200721",
+            "reply_to_id": "200714"
+        },
+        {
+            "user_name": "KrissiK",
+            "text": "Vista er þannig að það fer yfir allt setupið sem tekur smá tíma , smá pirrandi (hefur gerst fyrir mig).\nþú þarft bara að bíða í smá tíma og þá kemur það upp... \n \nVonandi hjálpar þetta þér ehv.",
+            "date": "2009-03-12 22:43:00",
+            "post_id": "200723",
+            "reply_to_id": "200721"
+        },
+        {
+            "user_name": "kazaxu91",
+            "text": "Náði að installa einum leikinum, En ætlaði að installa Need4Speed Undercover, klikkaði á setup.exe virkaði ekki ne autorun.exe og prófaði að breyta í Windows Server 2003 (service pack 1) eins og eg gerði við hin, það kemur upp að velja tungumál fyrir leikinn, vel s.s ensku og next klikka á install og kemur ekkert. :/",
+            "date": "2009-03-12 23:39:00",
+            "post_id": "200738",
+            "reply_to_id": "200723"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ef installið er STOP, ekki bara að lagga, hentu þá út Service Pack og settu hann aftur upp.\nÓtrúlegustu hlutir sem lagast við re-install.",
+            "date": "2009-03-13 00:02:00",
+            "post_id": "200739",
+            "reply_to_id": "200738"
+        },
+        {
+            "user_name": "kazaxu91",
+            "text": "Hvernig hendi ég Service pack 1 út og installa aftur ánþess að eyðileggja eitthvað?",
+            "date": "2009-03-14 23:21:00",
+            "post_id": "200875",
+            "reply_to_id": "200739"
+        },
+        {
+            "user_name": "KrissiK",
+            "text": "Windows Vista Ultimate , eins og ég var með kostar núna 49.990 útí búð.. :S",
+            "date": "2009-03-15 01:07:00",
+            "post_id": "200877",
+            "reply_to_id": "200875"
+        },
+        {
+            "user_name": "kazaxu91",
+            "text": "Getur enginn sagt mer hvernig eg hendi þessu rusl Service pack 1 út ánþess að eyðileggja eitthvað?:/",
+            "date": "2009-03-15 13:28:00",
+            "post_id": "200907",
+            "reply_to_id": "200877"
+        },
+        {
+            "user_name": "Gullisig",
+            "text": "Hefurðu prufað  restore",
+            "date": "2009-03-15 14:49:00",
+            "post_id": "200913",
+            "reply_to_id": "200907"
+        },
+        {
+            "user_name": "kazaxu91",
+            "text": "hmm, nibb:P tell me how to, ég er voða lelegur inná þetta. Langar bara að installa leiknum til að geta byrjað að spila. :/\nOg ég tel þetta vera allt þessu Service pack 1 að kenna, því áður en ég installaði því var allt fínt. :/",
+            "date": "2009-03-15 17:00:00",
+            "post_id": "200931",
+            "reply_to_id": "200913"
+        },
+        {
+            "user_name": "KrissiK",
+            "text": "ferð í START , ALL PROGRAMS , ACCESSORIES , SYSTEM TOOLS OG SVO \"SYSTEM RESTORE\"",
+            "date": "2009-03-15 18:33:00",
+            "post_id": "200941",
+            "reply_to_id": "200931"
+        },
+        {
+            "user_name": "kazaxu91",
+            "text": "Virkaði ekki. :/",
+            "date": "2009-03-16 15:43:00",
+            "post_id": "201012",
+            "reply_to_id": "200941"
+        }
+    ],
+    "date": "2009-03-12 21:38:00"
+}

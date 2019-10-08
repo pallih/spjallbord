@@ -1,0 +1,72 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "59500",
+    "title": "Tölva ræsir sig ekki",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=59500",
+    "posts": [
+        {
+            "user_name": "Posus",
+            "text": "Lennti í því áðan að ég var að vinna verkefni í tölvunni minni og lyklaborðið og músin hættu að virka. Þannig að ég ákvað að enduræsa tölvunna. Núna þá byrjar hún að ræsa og hættir síðan byrjar og hættir endalaust næ ekki að sjá neitt á skjánum áður en hún hættir . \n \nGetur verið að móðurborðið sé farið eða er þetta eitthvað annað?",
+            "date": "2014-01-30 21:17:00",
+            "post_id": "549785",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Koma einhver beeps?  Kemstu í BIOS?",
+            "date": "2014-01-30 21:17:00",
+            "post_id": "549786",
+            "reply_to_id": "549785"
+        },
+        {
+            "user_name": "Posus",
+            "text": "Næ ekki að komast í bios",
+            "date": "2014-01-30 21:20:00",
+            "post_id": "549787",
+            "reply_to_id": "549786"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Well.. gæti verið móðurborðið, minnið eða PSU með leiðindi.  Koma engin beeps þegar tölvan er að reyna að ræsa sig?",
+            "date": "2014-01-30 22:52:00",
+            "post_id": "549803",
+            "reply_to_id": "549787"
+        },
+        {
+            "user_name": "Gislinn",
+            "text": "Ef þetta er fartölva, eru einhver ljós sem lýsa/blikka þegar þú startar? Þú gætir fundið út hvað er að út frá hljóðum (eins og Stutturdreki er að benda á) eða með ljósunum á tölvunni.",
+            "date": "2014-01-31 01:19:00",
+            "post_id": "549837",
+            "reply_to_id": "549803"
+        },
+        {
+            "user_name": "Posus",
+            "text": "Það koma enginn hljóð frá móðurborðinu hún rétt ræsir viftunar og byrjar að snúa harðadiskinum áður en hún hættir. Þetta er Borðtölva",
+            "date": "2014-01-31 07:23:00",
+            "post_id": "549855",
+            "reply_to_id": "549837"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Myndi skjóta á PSU fyrst þú kemst ekki lengra en þetta.  Gæti líka verið eitthvað öryggi eða þéttar í PSU eða móðurborðinu en þá ættirðu að fá beeps (þau eru error codes og út frá þeim hægt að fletta upp hvað er með vesen).\nEf þú hefur breytt einhverju hardwdare-i nýlega þá myndi ég prófa að breyta því til baka.  Annars er bara að fara yfir öll tengi, prófa að taka allt úr kassanum nema algert minimal til að tölvan ræsi sig (taka td. auka diska og skjákort úr ef þú ert með onboard skjákort) eða fara með hana í bilanagreiningu á verkstæði að eigin vali.",
+            "date": "2014-01-31 09:30:00",
+            "post_id": "549878",
+            "reply_to_id": "549855"
+        },
+        {
+            "user_name": "NonniPj",
+            "text": "Rosalega mikið sem kemur til greina, myndi bara fara með hana í viðgerð.",
+            "date": "2014-01-31 09:55:00",
+            "post_id": "549888",
+            "reply_to_id": "549878"
+        },
+        {
+            "user_name": "Posus",
+            "text": "Ég fór með hana í viðgerð fæ hana eftir helgi",
+            "date": "2014-01-31 11:46:00",
+            "post_id": "549900",
+            "reply_to_id": "549888"
+        }
+    ],
+    "date": "2014-01-30 21:17:00"
+}

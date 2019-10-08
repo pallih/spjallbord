@@ -1,0 +1,37 @@
+{
+    "forum_title": "Þjónusta / Viðgerðir",
+    "id": "27165",
+    "title": "Vesen með skjákort",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=13&t=27165",
+    "posts": [
+        {
+            "user_name": "g0tlife",
+            "text": "ég er hérna með Radeon 5700 glænýtt og það er að gera mig brjálaðan að þegar ég ætla spila counter-strike þá opnast leikurinn bara í miðjunni ! \nÉg veit að það eru fullt af fólki búið að lenda í svona veseni og sumir segja að maður þarf nýjan driver á kortið. En ég er búinn að leita og leita veit einhver hvað gera skal ?",
+            "date": "2009-12-29 10:41:00",
+            "post_id": "236468",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "J1nX",
+            "text": "ertu með flatskjá? ef svo er þá getur verið að þú sért með -freq 100 í launch options á Steam.. hægri klikkaðu á counter-strike í steam, farðu í properties og í launch options og strokaðu það út ef það er þarna..\nef þú ert ekki með flatskjá, þá myndi ég bara fara á ati.com og ná í nýjan driver.. eða jafnvel bara athuga í options þegar þú ert inn í leiknum hvort það sé ekki pottþétt hakað í fullscreen \nef ekkert af þessu virkar farðu þá aftur í launch options í cs og prófaðu að setja skipunina -w 800 þar..\nef ekkert af þessu virkar þá veit ég ekki hvað er að.",
+            "date": "2009-12-29 10:52:00",
+            "post_id": "236469",
+            "reply_to_id": "236468"
+        },
+        {
+            "user_name": "g0tlife",
+            "text": "takk, þú lagaðir þetta",
+            "date": "2009-12-29 11:02:00",
+            "post_id": "236471",
+            "reply_to_id": "236469"
+        },
+        {
+            "user_name": "Hnykill",
+            "text": "Snillingur",
+            "date": "2009-12-29 12:11:00",
+            "post_id": "236476",
+            "reply_to_id": "236471"
+        }
+    ],
+    "date": "2009-12-29 10:41:00"
+}

@@ -1,0 +1,51 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "20967",
+    "title": "frá vista í Xp",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=20967",
+    "posts": [
+        {
+            "user_name": "hedmack",
+            "text": "Sælir kæru viskumenn\nég er í smá vandræðum, málinn standa þannig....\nÉg var að setja upp windows xp pro genius á toshiba Satellite P100 ADE\nÞað var vista áður. \nEftir format og uppsteningu var engin local area connection. og get ekki sett upp þráðlausa ef það vantar drivera fyrir netkortið hjá mér. \nég er gjörsamlega búinn að eyða svona 10 tímum í nótt að leita af þessum blessuðu driverum . ég fann einn á toshiba síðunni . enn hann virkaði ekki. \nsko tölvan finnur kortið allavega að ég held því þegar ég fer í add/hardware kemur gult ? merki og ethernet fyrir aftan.\nég er alveg að klikkast hérna plz er einhver mjög fróður sem getur hjálpað!",
+            "date": "2009-01-10 10:47:00",
+            "post_id": "193296",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "arnar7",
+            "text": "ég var að setja xp á mína Toshiba tölvu og allt virkar fínt með þessum Driverum hér:\nhttp://karbev.com/simon/\n \n \nvona að þetta geri eitthvað fyrir þig..",
+            "date": "2009-01-10 11:20:00",
+            "post_id": "193297",
+            "reply_to_id": "193296"
+        },
+        {
+            "user_name": "lukkuláki",
+            "text": "Ef það er almennilegur BIOS í þessari vél þá áttu að geta séð þar hvað þetta tiltekna netkort heitir og leitað út frá því.\nEða sett upp forrit til að sjá það.\nÞessi týpa P100 ADE er bara ekki til að toshiba vefnum getur verið að þú getir notað eitthvað annað en ADE er ekkert númer P100 ST....?? ?",
+            "date": "2009-01-10 12:15:00",
+            "post_id": "193303",
+            "reply_to_id": "193297"
+        },
+        {
+            "user_name": "mind",
+            "text": "Ef þetta er intel vél!\nKubbasett\nhttp://downloadcenter.intel.com/Detail_ ... 0&lang=eng\nNetkort + Þráðlaust\nhttp://downloadcenter.intel.com/detail_ ... uctID=1784",
+            "date": "2009-01-10 12:38:00",
+            "post_id": "193304",
+            "reply_to_id": "193303"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Intel LAN driver fyrir P100\nIntel WLAN driver fyrir P100\nAtheros WLAN driver fyrir p100",
+            "date": "2009-01-10 17:46:00",
+            "post_id": "193324",
+            "reply_to_id": "193304"
+        },
+        {
+            "user_name": "Sydney",
+            "text": "Fáðu þér bara Ubuntu, ætti að setja allt upp by default",
+            "date": "2009-01-10 17:54:00",
+            "post_id": "193326",
+            "reply_to_id": "193324"
+        }
+    ],
+    "date": "2009-01-10 10:47:00"
+}

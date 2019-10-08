@@ -1,0 +1,191 @@
+{
+    "forum_title": "Yfirklukkun, hraðaprófanir og mods",
+    "id": "24085",
+    "title": "Q6600 Yfirklukkun",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=1&t=24085",
+    "posts": [
+        {
+            "user_name": "Orri",
+            "text": "Sælir.\nKeypti mér nýja tölvu fyrir nokkrum mánuðum og nú er pælingin að fara að yfirklukka. \nEr búinn að lesa mig til um hvernig ég á að yfirklukka, en spurningin er á hvað ég á að stilla Multiplier-inn og FSB-ið.\nÍ leiðbeiningunum sem ég las um hvernig ætti að yfirklukka Q6600 þá stóð að maður ætti að prófa að hafa 7 x 475, en svo hef ég líka séð 9 x 333.\nÞetta sýnir CPU-Z mér núna :\nSvo er spurning hvort það borgi sig eitthvað að yfirklukka á stock kælingunni, eða hvort maður ætti ekki bara að splæsa í nýja.\nVar að pæla í þessum :\nThermalright Ultra 120A\n (Spurning hvort hann passi yfirhöfuð í kassann minn (Antec Three Hundred))\nCoolerMaster N520\n \nOg fyrst ég er að kaupa nýja kælingu þá vill ég nýta tækifærið og reyna að minnka hávaðann í tölvunni (þó svo að mér heyrist skjákortið og PSU vera með mestu lætin)",
+            "date": "2009-07-28 20:21:00",
+            "post_id": "212897",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Ég er með N520 kælinguna, hún er mjög góð. 20°C munur á henni og stock kælingunni.\nÉg er með minn núna á 333*9=3GHz á stock vcore og hann er stöðugur þannig.\nÞað fer eftir hversu hátt FSB móðurborðið þitt styður, en ef það er t.d. fyrir 1333FSB, þá kemstu hæst í 333 BUS speed, þannig þá er betra að hafa hærri margfaldara.\nSé á screenshotinu að margfaldarinn er á 6 hjá þér, en hann á að vera á 9 venjulega. Það gæti verið að hann hafi lækkað sig sjálfkrafa út af hita ef þú gerðir þetta ekki sjálfur.\nÞað er ekki líklegt að þú náir mikilli yfirklukkun á stock kælunginni, miðað við að hjá mér var hann að fara upp í 70°C+ án yfirklukkunar.\nCoretemp er mjög gott forrit til að fylgjast með hitanum, sýnir hitann á hverjum kjarna fyrir sig.",
+            "date": "2009-07-28 21:29:00",
+            "post_id": "212902",
+            "reply_to_id": "212897"
+        },
+        {
+            "user_name": "Orri",
+            "text": "Móðurborðið mitt (ASUS P5QL-E) er með 1600FSB.\nEf ég myndi kaupa mér N520 kælinguna, hvað heldurðu að ég myndi getað yfirklukkað hann mikið, án þess að hafa hann of heitann ?\nÉg lækkaði ekki Multiplierinn og svo er ég með CoreTemp og líka HWMonitor og Speedfan, þannig ég held að ég sé nokkuð safe...",
+            "date": "2009-07-28 21:54:00",
+            "post_id": "212905",
+            "reply_to_id": "212902"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Hvað er hann heitur núna?\nHann er líklegast að ofhitna fyrst hann klukkar sig niður sjálfkrafa, sem að bendir til þess að það sé ekki nógu gott loftflæði í kassanum.\nÞað er ekki hægt að segja neina örugga tölu, hver örgjörvi er mismunandi. En þú ættir alveg að komast léttilega upp í 3GHz og alveg örugglega eitthvað hærra.\nFer samt mikið eftir hvort að kassinn sé vel kældur eða ekki...",
+            "date": "2009-07-28 22:14:00",
+            "post_id": "212908",
+            "reply_to_id": "212905"
+        },
+        {
+            "user_name": "Orri",
+            "text": "CoreTemp, SpeedFan og HWMonitor sýna öll það sama :\nCore 0 : 51°C\nCore 1 : 50°C\nCore 2 : 48°C\nCore 3 : 51°C\nKassinn heitir Antec Three Hundred og er með eina 140mm viftu ofaná og eina 120mm viftu aftaná.\nSvo er möguleiki að setja tvær 120mm viftur framaná, en ég er rétt að vona að þess þurfi ekki, enda er nóg hávaði í tölvunni fyrir.",
+            "date": "2009-07-28 23:01:00",
+            "post_id": "212918",
+            "reply_to_id": "212908"
+        },
+        {
+            "user_name": "siggi200",
+            "text": "það er kveikt á speed steepinu hann lækkar multiplierinn úr 9 í 6 þegar ekkert álag er á örgjöfanum.\nAnnars er lítið mál að yfirklukka þennan örgjörva uppí 3,2ghz þarft aðeins að hækka spennuna á vcore,  eftir 3,2ghz  þarftu að fara að hækka spennuna á vcore frekar mikið til að ná honum \nstöðugum, og þar af leiðandi byrjar hann að hitna frekar mikið.",
+            "date": "2009-07-28 23:03:00",
+            "post_id": "212919",
+            "reply_to_id": "212918"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Ok prufaðu að setja margfaldarann á 9 aftur og gáðu hvað hitinn er undir 100% álagi.",
+            "date": "2009-07-28 23:05:00",
+            "post_id": "212920",
+            "reply_to_id": "212919"
+        },
+        {
+            "user_name": "Orri",
+            "text": "Hmm, hvernig fæ ég hann til að fara á 100% ?",
+            "date": "2009-07-28 23:31:00",
+            "post_id": "212926",
+            "reply_to_id": "212920"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "t.d. með Prime95\nÞað er líka mikið notað til að prufa stöðugleikann á vélinni eftir yfirklukkun.",
+            "date": "2009-07-28 23:37:00",
+            "post_id": "212928",
+            "reply_to_id": "212926"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Ég myndi síðan aðeins kynna mér hvernig þú yfirklukkar.\nAllskonar stillingar sem þarf að breyta í BIOS eins og t.d.\nC1E halt State = Disabled\nEIST Function = Disabled\nPCI-E Frequency = 100mhz\nSvo lendirðu örugglega í einhverju veseni með að klukka hann vegna þess að minnin hjá þér fara líka að klukkast með.\nÞað er góður sticky þráður í þessum korkum hvernig best er að klukka Core2Duo, Core2Quad.",
+            "date": "2009-07-29 19:50:00",
+            "post_id": "212996",
+            "reply_to_id": "212928"
+        },
+        {
+            "user_name": "Orri",
+            "text": "Ég prófaði að slökkva á Speed Step og hækka Multiplierinn í 9.\nKveikti svo á Prime95 og leyfði því að malla í 28 mín, fékk úr því 0 errors og 0 warnings.\nHinsvegar var ég með CoreTemp opinn allan tímann, og þegar ég kom inn þá var mesti hitinn í Core #3 minnir mig 90°C (finn hvergi Log file-inn)",
+            "date": "2009-07-29 20:20:00",
+            "post_id": "212997",
+            "reply_to_id": "212996"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "90C° er alltof heitt til að yfirklukka.\nErtu viss um að kælingin sitji rétt á sökklinum og kælikremið sé dreift jafnt yfir örgjörvann?\nÉg mæli með að þú klukkir hann niður þangað til þú færð nýja kælingu, það fer ekki vel með örgjörvann að keyra mikið á svona háum hita.",
+            "date": "2009-07-29 20:30:00",
+            "post_id": "212999",
+            "reply_to_id": "212997"
+        },
+        {
+            "user_name": "Orri",
+            "text": "Gæti vel verið að hún sitji vitlaust á sökklinum, enda var mjög mikið vesen að koma kælingunni á.\nHinsvegar er það næsta mál á dagskrá að kaupa nýja kælingu einhverntímann í þessari eða næstu viku.\nÁ ég ekki að kveikja á SpeedStep-inu aftur og láta Multiplierinn á Auto (eins og hann var) ??",
+            "date": "2009-07-29 20:38:00",
+            "post_id": "213000",
+            "reply_to_id": "212999"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "jú eða lækka bara margfaldarann sjálfur niður í 6 eða 7",
+            "date": "2009-07-29 20:43:00",
+            "post_id": "213001",
+            "reply_to_id": "213000"
+        },
+        {
+            "user_name": "vesley",
+            "text": "ég held að málið sé bara að splæsa í nýja kælingu",
+            "date": "2009-07-29 20:44:00",
+            "post_id": "213002",
+            "reply_to_id": "213001"
+        },
+        {
+            "user_name": "Orri",
+            "text": "Þá á að fara að kaupa nýja kælingu, og ég var að spá í þessum tveim :\nCoolerMaster N520\n \nThermalright Ultra 120A\n (Spurning hvort hann passi yfirhöfuð í kassann minn (Antec Three Hundred))\nUltra 120 er augljóslega hljóðlátari þannig að hvor kælir betur, er auðveldari að festa og bara betri yfirhöfuð ?",
+            "date": "2009-07-30 15:36:00",
+            "post_id": "213052",
+            "reply_to_id": "213002"
+        },
+        {
+            "user_name": "noizer",
+            "text": "Er mikilvægt að setja PCI-E Frequency í 100mhz? Af hverju ekki bara auto?",
+            "date": "2009-07-30 15:48:00",
+            "post_id": "213053",
+            "reply_to_id": "213052"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Því þá getur það klukkast sjálfkrafa með örgjörvanum á sumum móðurborðum.",
+            "date": "2009-07-30 16:16:00",
+            "post_id": "213054",
+            "reply_to_id": "213053"
+        },
+        {
+            "user_name": "Orri",
+            "text": "Hvað segjiði ? Er einhver hérna með reynslu af Thermalright kælingunni ??",
+            "date": "2009-07-31 19:17:00",
+            "post_id": "213130",
+            "reply_to_id": "213054"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Besta kæling sem ég hef nokkurntímann tekið í.\nKlukkaður Q6600 var á róli hjá mér 50-55°C",
+            "date": "2009-07-31 20:32:00",
+            "post_id": "213137",
+            "reply_to_id": "213130"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Ertu þá að tala um idle eða undir álagi?\nOg varstu þá með hana viftulausa?\nSpurning hvort maður blæði í eitt stykki, er orðinn þreyttur á hávaðanum í N520 kælingunni.",
+            "date": "2009-07-31 20:41:00",
+            "post_id": "213138",
+            "reply_to_id": "213137"
+        },
+        {
+            "user_name": "mercury",
+            "text": "var að brasa í overclock á mínum e8400 í gær fór í 3.6ghz og er hann aðeins í 39°c . klóraði mér lengi í hausnum yfir því af kverju það var alltaf 6x í multiplier.. svo maður googlaði það bara og kom þá í ljós að það er stilling í bios sem heitir \nC1E\n disablear það þá á það að vera í 9x steddy. nenti ekki að lesa öll commentin hér fyrir neðan. en villdi bara lýsa því sem ég lærði í gær. good luck",
+            "date": "2009-07-31 20:50:00",
+            "post_id": "213140",
+            "reply_to_id": "213138"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "55°C Load með viftu.",
+            "date": "2009-08-01 00:31:00",
+            "post_id": "213159",
+            "reply_to_id": "213140"
+        },
+        {
+            "user_name": "himminn",
+            "text": "Ertu að nota stock viftuna? Auk þess finn ég hvergi C1E í mínum bios.",
+            "date": "2009-08-01 01:56:00",
+            "post_id": "213177",
+            "reply_to_id": "213159"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Nice, það er bara svipað og þotuhreyfillinn sem ég er með núna. Reyndar bara á stock vcore.",
+            "date": "2009-08-01 02:04:00",
+            "post_id": "213178",
+            "reply_to_id": "213177"
+        },
+        {
+            "user_name": "Orri",
+            "text": "Er algjört möst að vera með viftu á henni eða ?",
+            "date": "2009-08-01 03:14:00",
+            "post_id": "213180",
+            "reply_to_id": false
+        }
+    ],
+    "date": "2009-08-01 03:14:00"
+}

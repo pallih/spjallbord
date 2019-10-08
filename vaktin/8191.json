@@ -1,0 +1,65 @@
+{
+    "forum_title": "Windows",
+    "id": "8191",
+    "title": "ide stýrispjald diskarnir finnast ekki í windows  leyst",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=8191",
+    "posts": [
+        {
+            "user_name": "kaktus",
+            "text": "ok tengdi stýrispjaldið og diskana (tvo 120gb) \n\nbios finnur diskana en ekki windows? \n\ndiskarnir eru partitoneraðir og formataðir og allt það \n\neru fullir af dóti  \n\nog virka rétt í hinum tölvunum \n\nhvað geri ég nú?",
+            "date": "2005-05-07 15:31:00",
+            "post_id": "87729",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "ponzer",
+            "text": "Hvaða stýrispjald er þetta",
+            "date": "2005-05-07 16:00:00",
+            "post_id": "87733",
+            "reply_to_id": "87729"
+        },
+        {
+            "user_name": "kaktus",
+            "text": "highpoint ata133 \n\nheitir rocket133 \n\nhttp://computer.is/vorur/2136",
+            "date": "2005-05-07 16:06:00",
+            "post_id": "87739",
+            "reply_to_id": "87733"
+        },
+        {
+            "user_name": "kaktus",
+            "text": "þetta er það eina sem framleiðandinn segir um þetta og þar sem diskarnir virka í hinni tölvunni er þetta ekki málið \n\n\n\n\nOperating System related questions \n\nWindows does not detect the hard drive(s) attached to the Rocket133 Host Adapter.\n\nThe adapter's BIOS does detect the drives. What can I do to correct this problem? \n\nMake sure the drive has been partitioned and formatted. Non-partitioned hard disks are not assigned drive letters, and cannot be accessed or used by the operating system.\n\nIf you are using running a Win 9x system (95, 98 or ME), you can partition the drive or array using the FDISK utility.\n\nIf you are running NT, Win2k or XP, you can partition the drive or array using the Disk Management utility.",
+            "date": "2005-05-07 16:09:00",
+            "post_id": "87740",
+            "reply_to_id": "87739"
+        },
+        {
+            "user_name": "ponzer",
+            "text": "Er með sama spjald og þú og var með það á Win2k vél virkaði bara vel, er núna með það í Win XP Pro SP1 vél og virkar fínt.. Gæti verið að SP2 sé eitthvað að bögga þetta hjá þér.",
+            "date": "2005-05-07 16:49:00",
+            "post_id": "87750",
+            "reply_to_id": "87740"
+        },
+        {
+            "user_name": "kaktus",
+            "text": "ok þegar þú settir þetta upp fundust diskarnir bara strax?",
+            "date": "2005-05-07 16:57:00",
+            "post_id": "87754",
+            "reply_to_id": "87750"
+        },
+        {
+            "user_name": "ponzer",
+            "text": "Jebb !",
+            "date": "2005-05-07 18:14:00",
+            "post_id": "87768",
+            "reply_to_id": "87754"
+        },
+        {
+            "user_name": "galldur",
+            "text": "búinn að setja inn driverinn fyrir stýrispjaldið ?\n\n\n\nhttp://www.highpoint-tech.com/USA/bios_r133.htm\n  efsti\n\n\n\n\n\nps. best að hafa diskana á cable select",
+            "date": "2005-05-07 21:24:00",
+            "post_id": "87818",
+            "reply_to_id": "87768"
+        }
+    ],
+    "date": "2005-05-07 15:31:00"
+}

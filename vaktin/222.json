@@ -1,0 +1,79 @@
+{
+    "forum_title": "Windows",
+    "id": "222",
+    "title": "Hvaða Windows",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=222",
+    "posts": [
+        {
+            "user_name": "Voffinn",
+            "text": "Hvaða windows, líkar þér mest við ? - Skrýtið að þessi könnun hafi aldrei komið áður",
+            "date": "2002-12-27 20:50:00",
+            "post_id": "1307",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Þessi könnun hefur komið svo oft upp á huga og öðrum síðum að það er eiginleg ekkert skrýtið að hún hafi ekki komið hérna áður.\n\nÞað vantaði \"Ég nota ekki Windows!(né DOS)\" annars er ég með XP pro núna en kaus 2k vegna þess að ég er að fara að setja það upp á nýju elskunni minni",
+            "date": "2002-12-27 21:54:00",
+            "post_id": "1308",
+            "reply_to_id": "1307"
+        },
+        {
+            "user_name": "Hannesinn",
+            "text": "nákvæmlega... Það er ekki allir sem nota Windows sjáðu til \n\n\n\n\nEn ég nota dual-boot windows 2000 og redhat 7.3",
+            "date": "2002-12-27 22:27:00",
+            "post_id": "1310",
+            "reply_to_id": "1308"
+        },
+        {
+            "user_name": "halanegri",
+            "text": "ég kaus xp pro, en hefði örugglega kosið w2k ef ég gæti sett það upp á tölvunni minni(gat það fyrir nokkrum mán.) kemur alltaf bsod í installinu, \"System Has Halted\". en ég er ánægður með xp pro að því leyti að það hefur aldrei frosið/restartast eða komið með bsod",
+            "date": "2002-12-28 02:47:00",
+            "post_id": "1316",
+            "reply_to_id": "1310"
+        },
+        {
+            "user_name": "Castrate",
+            "text": "svipað hjá mér þegar ég reyndi að setja upp xp pro kom bsod svo þegar ég loksins náði að koma því upp þá voru alltaf að koma errorar og rugl setti bara upp win2k og það hefur aldrei komið bsod eða neinn error eða neitt",
+            "date": "2002-12-28 02:55:00",
+            "post_id": "1317",
+            "reply_to_id": "1316"
+        },
+        {
+            "user_name": "kemiztry",
+            "text": "Ég nota WindowsXP á minni.. svo notast ég við Red Hat 8.0 á router-vélinni... Það virkar alveg beautifully",
+            "date": "2002-12-28 02:58:00",
+            "post_id": "1319",
+            "reply_to_id": "1317"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "ég var búin að gera 2 valkosti i viðbót, það var bara ekki pláss fyrir þá , kom eitthvað error \n þeir innihéldu þetta, linux og mac.",
+            "date": "2002-12-28 14:29:00",
+            "post_id": "1323",
+            "reply_to_id": "1319"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Ég hef lent lent í svona veseni í installi, það sem var að hjá mér var að ég þurfti að fara í BIOS og gera \"Disable\" á ULTRA ATA...setja upp windowsið og setja upp ULTRA ATA driver í windows fara síðan í BIOS og gera \"ENABLE\" eða \"AUTO\" á ULTRA ATA.\n\n\n\nÞað er oft eitthvað svona sem er að koma í veg fyrir að hlutirnir virki, ég hef líka lent í því að í miðju installi þá stoppar allt saman. \n\nEftir miklar pælingar þá fann ég það út að jumperinn á CD-ROM var stilltur á SLAVE...um leið og ég breytti honum í MASTER (á sec IDE) þá virkaði allt.\n\n\n\nÞað sem virðist oft borga sig að gera er að stilla BIOS á FAIL SAFE og hafa bara nauðsynlegasta búnaðinn í tölvunni við uppsetningu.  \n\nSetja svo upp þá drivera sem þarf. t.d. 4in1 eða Intel Application Accelerator. \n\nSetja svo upp það hardware sem maður ætlar að nota.\n\nFara svo í BIOS og loda DEFAULT eða stilla hann eins og maður vill. \n\nAldrei að gefast upp þótt hlutirnir virki ekki í fyrstu skiptin.",
+            "date": "2002-12-28 15:33:00",
+            "post_id": "1324",
+            "reply_to_id": "1323"
+        },
+        {
+            "user_name": "Castrate",
+            "text": "taka bara win 98 og win 95 út og setja linux og mac í staðinn",
+            "date": "2002-12-28 22:29:00",
+            "post_id": "1328",
+            "reply_to_id": "1324"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "eða bara sleppa öllum valkostum nema xp og 2000",
+            "date": "2002-12-30 00:44:00",
+            "post_id": "1343",
+            "reply_to_id": "1328"
+        }
+    ],
+    "date": "2002-12-27 20:50:00"
+}

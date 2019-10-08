@@ -1,0 +1,37 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "22427",
+    "title": "TRENDnet TEW 435BRM: Fastar IP stillingar",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=22427",
+    "posts": [
+        {
+            "user_name": "Selurinn",
+            "text": "Sælir,\nEr með svona router en af einhverjum ástæðum þá eru IP tölurnar alltaf á flakki. (Fyrir Local netið, sumsé 192.168.1.x)\nÍ User manualinum stendur að ekki þurfi að eiga við fastar IP tölur þegar DHCP er sjálfvirkt því routerinn á að muna hvern búnað fyrir sig sem er kjaftæði.\nIP tölurnar eru alltaf að breytast.\nLease time er 7, kemst ekki hærra með það og ekki get ég valið núll.\nMikið þakklátur ef einhver gæti hjálpað mér með þetta því ég er búinn að googla soldið en finn ekkert sem getur hjálpað mér :S (User manualinn er alveg Fubar hvað þetta varðar)",
+            "date": "2009-03-30 01:14:00",
+            "post_id": "202329",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "bump\nP.S.\nÞetta er líka svo pirrandi vegna þess að port sem ég opna fyrir tölvur haldast ekki því IP talan breytist alltaf.\nHefur þetta \"lease time\" eitthvað að segja?",
+            "date": "2009-03-31 13:08:00",
+            "post_id": "202466",
+            "reply_to_id": "202329"
+        },
+        {
+            "user_name": "einarornth",
+            "text": "Þekki ekki þennan router, en í mínum er hak þar sem maður getur valið að nýta sömu ip tölur fyrir sömu tölvur.\nEf þetta er svona mikið mál, af hverju stillirðu ekki bara fastar ip-tölur á hverja vél?",
+            "date": "2009-03-31 16:01:00",
+            "post_id": "202483",
+            "reply_to_id": "202466"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "En það er ekki eins auðvelt fyrir eins og prentara tvo sem ég er með.\nCanon MP600R og Lexmark E120n\nÞoli ekki að þurfa breyta IP stillingar á vélarnar þegar IP talan á prenturum breytist sem gerist svona á viku fresti. Alltof pirrandi",
+            "date": "2009-04-01 19:23:00",
+            "post_id": "202592",
+            "reply_to_id": "202483"
+        }
+    ],
+    "date": "2009-03-30 01:14:00"
+}

@@ -1,0 +1,51 @@
+{
+    "forum_title": "Símar, fartölvur, myndavélar og önnur farandstæki",
+    "id": "35287",
+    "title": "[Android] Vantar app til að fylgjast með download / upload",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=26&t=35287",
+    "posts": [
+        {
+            "user_name": "Daz",
+            "text": "Ég  er búinn að setja upp 3G watchdog,, PhoneUseage, BatteryLeft. Öll voða fín forrit, svona þannig en ekkert þeirra getur birt mér netnotkun niður á forrit (og tíma). PhoneUseage getur birt kökurit með notkun skipt niður á forrit, en engar tölur sem fylgja. \nEinhver sem getur bent mér á forrit/stillingu sem sýnir mér gagnasamskiptin betur niðurbrotin?",
+            "date": "2011-01-10 20:06:00",
+            "post_id": "311384",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "wicket",
+            "text": "Trafficstats Lite getur þetta minnir mig.",
+            "date": "2011-01-10 20:34:00",
+            "post_id": "311401",
+            "reply_to_id": "311384"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Hárrétt, snilldar forrit.",
+            "date": "2011-01-10 20:51:00",
+            "post_id": "311409",
+            "reply_to_id": "311401"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Trafficstats lite birtir heildar tölur fyrir dag og heildartölur fyrir forrit. Ég setti upp NetworkCounter, hann birtir mér heildartöluna niður á klukkutíma (sem er gott) og svo heildartöluna fyrir forrit, eins og TsL. Er ekki enþá búinn að finna frítt forrit sem getur verið nákvæmara en þetta. \nSvo virðast samtölurnar niður á forrit (og total) ekki alltaf stemma. TsL segir t.d. að forrit sem ég sótti eftir miðnætti í gær og hef ekki opnað enþá (Mutliremote) sé búið að sækja 75 mb frá upphafi, en ekkert í dag.",
+            "date": "2011-01-11 11:35:00",
+            "post_id": "311541",
+            "reply_to_id": "311409"
+        },
+        {
+            "user_name": "hvilberg",
+            "text": "3g Watchdog er þægilegt og einfalt forrit til að fylgjast með notkun - varar þig við þegar notkun hefur náð x% af einhverri heild sem þú stillir sjálfur inn",
+            "date": "2011-01-11 13:17:00",
+            "post_id": "311562",
+            "reply_to_id": "311541"
+        },
+        {
+            "user_name": "Daz",
+            "text": "En það sýnir ekki notkun niður á stök forrit.",
+            "date": "2011-01-11 13:29:00",
+            "post_id": "311566",
+            "reply_to_id": "311562"
+        }
+    ],
+    "date": "2011-01-10 20:06:00"
+}

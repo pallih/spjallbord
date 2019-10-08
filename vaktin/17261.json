@@ -1,0 +1,37 @@
+{
+    "forum_title": "Símar, fartölvur, myndavélar og önnur farandstæki",
+    "id": "17261",
+    "title": "Asus boot",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=26&t=17261",
+    "posts": [
+        {
+            "user_name": "Methyl",
+            "text": "Sælir veit einhver hér hvernig á að starta enduruppsetningu á Asus fartölvu þ.e.\n\nenduruppsetnibg á stýrikerfinu sem er á falinni partition á harðadisknum Takk",
+            "date": "2008-02-27 20:47:00",
+            "post_id": "168398",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Dazy crazy",
+            "text": "Ef þú ert að tala um að breyta boot röðinni þá er það líklega f-eitthvað takkarnir eða einhver sér takki sem heitir asus. Prufaðu að fara inní biosinn (það stendur alltaf þegar tölvan er að starta sér hvernig þú ferð inní bios) og þar er eitthvað sem heitir boot, ferð inní það og breytir boot order.",
+            "date": "2008-02-27 20:57:00",
+            "post_id": "168399",
+            "reply_to_id": "168398"
+        },
+        {
+            "user_name": "Dagur",
+            "text": "F9 á Asus Eeepc  (ef það hjálpar eitthvað)",
+            "date": "2008-02-28 17:02:00",
+            "post_id": "168465",
+            "reply_to_id": "168399"
+        },
+        {
+            "user_name": "Methyl",
+            "text": "Nei þetta er gert innan úr vista með e-Recovery náði þessu í dag  \n\nTakk samt fyrir að reyna að hjálpa",
+            "date": "2008-02-28 22:46:00",
+            "post_id": "168495",
+            "reply_to_id": "168465"
+        }
+    ],
+    "date": "2008-02-27 20:47:00"
+}

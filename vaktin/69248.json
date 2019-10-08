@@ -1,0 +1,72 @@
+{
+    "forum_title": "Windows",
+    "id": "69248",
+    "title": "Microsoft Edge furðulegheit!",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=69248",
+    "posts": [
+        {
+            "user_name": "steinihjukki",
+            "text": "Tók Win 10 uppfærslu í sept 2015. Þegar ég fer í microsoft Edge iconið á taskbar, birtist vafrinn sem file explorer. Þegar ég leita að vafranum í start fæ ég meldingu um að Cortana virki ekki. Veit einhver hvernig hægt er að fá vafrann? Hann var til staðar eftir uppfærsluna og virkaði fínt en á einhverjum tímapunkti gerist það að hann \"birtist\" sem \"file explorer\" en ekki vafri.\nkv Steinihjúkki.",
+            "date": "2016-04-22 03:29:00",
+            "post_id": "622630",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "loner",
+            "text": "Það fer að koma uppfærsla á windows 10. Ef þú nennir að bíða.",
+            "date": "2016-04-22 22:36:00",
+            "post_id": "622683",
+            "reply_to_id": "622630"
+        },
+        {
+            "user_name": "steinihjukki",
+            "text": "Lagar sú uppfærsla vafrann?",
+            "date": "2016-04-23 13:20:00",
+            "post_id": "622699",
+            "reply_to_id": "622683"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Talandi um Edge, það var að koma uppfærsla á spjallið, 3.1.8 > 3.1.9 og eitt af því fáa sem breyttist var þessi viðbót:\nKóði: \nVelja allt\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\nEndalaust einhver skítamix svo Microsoft vafrarnir virki.",
+            "date": "2016-04-23 14:18:00",
+            "post_id": "622700",
+            "reply_to_id": "622699"
+        },
+        {
+            "user_name": "depill",
+            "text": "Tengist reyndar edge browsernum ekkert. Segir bara ÍE að nota nýjustu útgáfu af rendering vélinni.\nEdge er alveg decent browser fyrir utan að styðja ekki extension.",
+            "date": "2016-04-23 15:41:00",
+            "post_id": "622704",
+            "reply_to_id": "622700"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Ég er með lausn við þessu",
+            "date": "2016-04-23 16:59:00",
+            "post_id": "622715",
+            "reply_to_id": "622704"
+        },
+        {
+            "user_name": "steinihjukki",
+            "text": "Takk fyrir svörin. Held að langbesta lausnin sé frá intenz hér að ofan",
+            "date": "2016-04-23 17:09:00",
+            "post_id": "622717",
+            "reply_to_id": "622715"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Það má vera, en staðreyndin er samt sú að þegar Verðvaktin var vefuð og er uppfærð þá þarf alltaf að bæta einhverjum aukalínum fyrir Microsoft svo þeir vafrar birti rétt. Af hverju þarf þá ekki svona línur fyrir alla hina browserana svo þeirra rendering vélar virki rétt?\nOg fyrir mína parta þá er Edge eitthvað það hræðilegasta sorp sem frá M$ hefur komið, IE er mun betri.\nEf ég keyri villutékk í safari á spjallið þá fæ ég \"warning\" meldingar á:\nKóði: \nVelja allt\nfilter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dd6828', endColorstr='#ebd7ca', GradientType=0 );  Unexpected CSS token:\nfilter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c2c2c2', endColorstr='#B4C4D1', GradientType=1 );\nfilter: progid:DXImageTransform.Microsoft.gradient(enabled = false);\nfilter: progid:DXImageTransform.Microsoft.gradient(enabled = false);",
+            "date": "2016-04-23 17:24:00",
+            "post_id": "622718",
+            "reply_to_id": "622717"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Það sem MS þarf að fást við og útskýrir margt IE vesenið er backwards compatibility.   T.d eru IE only fídusar frá c.a aldamótum sem enn virka í Edge,  sem verður að teljast nokkuð magnað.   Ef MS myndi ákveða að kippa þeim burt,  þá myndu ansi mörg IE only legacy kerfi hætta að virka fyrirvaralaust. \nÞessi kóði sem þú nefnir hér neðst eru IE specific filterar sem er alveg í lagi að henda út þar sem að IE er löngu búinn að implementa stuðning við stöðluðu leiðirnar til að gera þessa hluti.",
+            "date": "2016-04-23 17:41:00",
+            "post_id": "622720",
+            "reply_to_id": "622718"
+        }
+    ],
+    "date": "2016-04-22 03:29:00"
+}

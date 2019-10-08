@@ -1,0 +1,51 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "34698",
+    "title": "Xbox 360 horfa á 720p/1080p frá pc",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=34698",
+    "posts": [
+        {
+            "user_name": "dawg",
+            "text": "Ég er með xbox 360 og var að horfa á 720p mynd en það stamar svo helvíti mikið ef ég reyni að streama í gegnum mediacenter en er eitthver hérna með betri leið ?\nTölva>Router>xbox360 \nTengt með snúru.",
+            "date": "2010-12-21 15:28:00",
+            "post_id": "305254",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Hvaða Media server ertu að nota til að transcoda? Win Mediacenterið?",
+            "date": "2010-12-21 15:39:00",
+            "post_id": "305256",
+            "reply_to_id": "305254"
+        },
+        {
+            "user_name": "dawg",
+            "text": "Já reyndi fyrst að nota \"tv mobility\" en xbox tölvan vildi ekki finna tölvuna mína.\nVirkar allt mjög hægt með win mediacenter en get reyndar spilað þessar 700mb myndir auðveldlega en allt annað er vesen.",
+            "date": "2010-12-21 15:48:00",
+            "post_id": "305259",
+            "reply_to_id": "305256"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Sko..\nÞað eru nokkur atriði sem geta verið að plaga þig. Mig minnir að 720p eigi að geta farið yfir á 100mbit en það fer eftir rippinu. 1080p þurfa hinsvegar yfirleitt Gbit.\nÉg myndi í þínum sporum nota PS3 media server. Hann býður upp á mjög advanced config ef þú þarft þess, og styður transcoding með multicore support.\nHér er linkur á download síðuna : \nhttp://code.google.com/p/ps3mediaserver/downloads/list\nÞarna þarftu að sækja Betu útgáfuna. Hún er mjög stable, og með mikið af features, meðal annars multicore support. Ef þetta forrit nær ekki að streama 720p yfir í vélina hjá þér þá er annaðhvort 100Mbit linkurinn ekki að duga eða þá hreinlega Xboxið að coxa - ég veit til þess að þessar vélar eru ekki að ná að höndla mikið meira en <15Mbps bitrate.",
+            "date": "2010-12-21 16:17:00",
+            "post_id": "305266",
+            "reply_to_id": "305259"
+        },
+        {
+            "user_name": "dawg",
+            "text": "Prófa það og var að lesa um þetta og samkvæmt google þá virkar þetta vel, þakka hjálpina.",
+            "date": "2010-12-21 16:43:00",
+            "post_id": "305275",
+            "reply_to_id": "305266"
+        },
+        {
+            "user_name": "dawg",
+            "text": "Virkar fínt en hinsvegar þá var ég að tengja xbox 360 tölvuna við routerinn í gegnum innstúngu sem sennilega var ástæðan fyrir staminu en mæli með þessu fyrir þá sem leita að því sama.\nps3 mediaserver.\n---afsakið double postið.",
+            "date": "2010-12-22 18:20:00",
+            "post_id": "305537",
+            "reply_to_id": "305275"
+        }
+    ],
+    "date": "2010-12-21 15:28:00"
+}

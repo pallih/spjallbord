@@ -1,0 +1,79 @@
+{
+    "forum_title": "Leikjasalurinn",
+    "id": "11498",
+    "title": "bf2  og ogvodafone",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=14&t=11498",
+    "posts": [
+        {
+            "user_name": "Puma",
+            "text": "Eg er hja ogvodafone   og spila sma bf2.  ég var með adsl modem  og engin vandamal  en svo bilaði modemið  og ég fór og fékk router hjá ogvodafone og eftir að eg fór að nota  routerinn þá er ég alltaf að detta af serverum  (You have lost the connetion with the server)    Eitthvað svona kemur.\n\n\n\nHefur einhver verið að lenda í þessu  og er þetta stilling i router eða er hann bilaður.   ég get spilað  t.d cod2 án vandræða.",
+            "date": "2006-08-07 17:18:00",
+            "post_id": "125309",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Skoop",
+            "text": "já, ég á akkúrat í samskonar vandræðum með zyxel routerinn frá þeim nema með call of duty 2\n\n\n\nþeir hafa ekkert getað bjargað þessu, þótt þeir hafi nú gert sitt besta (held ég)\n\n\n\nþegar ég byrjaði að nota routerinn þá fór svartíminn á einn server að vera mikið verri en þegar ég tengdist með zyxel módeminu, svo óheppilega vill meira að' segja til að þetta er minn uppáhalds server\n\n\n\nég semsé prufaði að tengja módemið og svo routerinn á sama sama tíma og bar saman tracert og ping og þegar routerinn var tengdur þá munaði alveg 100-200ms í pingi þannig að á þessum server þar sem ég hafði vanalega 50-100 ping var ég með 250-350 í ping.\n\n\n\nég prufaði einnig með öðrum nákvæmlega eins router sem foreldrar mínir eiga til að útiloka að routerinn væri vandamálið, og svo prufaði ég annað netkort og svo að lokum aðra pc vél. \n\n\n\neinnig prufaði ég að slökkva á öllum öryggisþáttum á routernum, þ.á.m. dos vörnina og eldvegginn \n\nath að til að slökkva alveg á dos vörninni þarf að fara inní routerinn með á console og skrifa\n\nsys firewall dos ignore \"setjið interface hér(wan eða lan)\"\n\n\n\nniðurstaðan var alltaf sú sama, pingið var alltaf 100-200 ms verra þegar tengst var með routernum.",
+            "date": "2006-08-07 20:36:00",
+            "post_id": "125323",
+            "reply_to_id": "125309"
+        },
+        {
+            "user_name": "ErectuZ",
+            "text": "Þetta vandamál er alþekkt í bf2 um þessar mundir, EA gaf út patch (1.3 incremental) fyrir nokkru og var eitthvað bug í henni að ef einhver notar hana þá crashar serverinn sem þeir eru á frekar oft. EA gaf út 1.3 full nokkru eftir það en patcharnir eru backwards compatible þannig að það er oft fólk sem er ennþá að nota incremental patchið og eru því ennþá að láta helling af serverum crasha.\n\n\n\nVerðum bara að bíða þangað til 1.4 eða eitthvað kemur út og allir verða að upgreida.",
+            "date": "2006-08-07 22:41:00",
+            "post_id": "125339",
+            "reply_to_id": "125323"
+        },
+        {
+            "user_name": "ÓmarSmith",
+            "text": "Ég lendi bara í því að leikurinn laggar stundum alveg fáránlega þó ég sé ekki með hátt ping. Gerist ALLTAF þegar ég starta server( byrja round )\n\n\n\nVar að pæla hvort það geti verið RAM ið hjá mér sem drullar á sig eða Harði diskurinn því þetta er alveg óþolandi.\n\n\n\nTekur alveg minnst 2 mín að verða eðlilegt en laggar samt alveg í nokkrar mín ( aldrei með hátt ping samt )\n\n\n\neða hvort að þetta geti verið Alcatel routerinn að stríða mér.\n\n\n\nÉg er by the way hjá Símanum ofkors\n\n\n\nP.S\n\n\n\nHvar eru þið íslendingarnir að spila ?  Ég er farinn að spila lang mest á \" Multiplay serverum ( þá leita ég alltaf að Return2Kill ) eða TBE ( the British Empire )  Þeir eru með fínt ping og fína spilun.\n\n\n\nÞað er enginn íslenskur server í gangi sem ég veit um , amk ekki sem neinn er á.",
+            "date": "2006-08-08 12:37:00",
+            "post_id": "125352",
+            "reply_to_id": "125339"
+        },
+        {
+            "user_name": "ErectuZ",
+            "text": "Þetta er líklegast RAM, þetta skeður hjá langflestum og er þetta eins og að það sé að loada texturana eða umhverfið eða eitthvað því að hjá mér lagast þetta aðeins ef ég sný mér í hring og \"skoða allt\". Þetta var alveg óþolandi back in the days þegar ég var bara með 512mb af vinnsluminni, en þetta lagaðist alveg rosalega og er næstum alveg farið núna þegar ég er kominn með 1.5GB.",
+            "date": "2006-08-09 11:07:00",
+            "post_id": "125424",
+            "reply_to_id": "125352"
+        },
+        {
+            "user_name": "Puma",
+            "text": "Já  en ég er að connecta  serveranir eru ekki að crasha  heldur tynir leikurinn tengingunni.   eg er buinn aað opna   default portið  en sama vandamál ennþá.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOg hvar er eg að spila, humm ég er nu bar að byrja  en hef verið að spila með 2- útlendingum og stundum 2 ísl.   við notumst við  xfire því ef einn loggar sig a server getum við seð hvar hann er að spila og eltum hann.       \n\n\n\nEkkert mál að adda þér ómar ef þú vilt.   Allt fyrir vin Rippers",
+            "date": "2006-08-09 12:31:00",
+            "post_id": "125429",
+            "reply_to_id": "125424"
+        },
+        {
+            "user_name": "ÓmarSmith",
+            "text": "Vin Rippers ?\n\n\n\nég þekki engan Ripper.\n\n\n\nÉg reyni að spila alltaf á  \" TBE \"\n\n\n\nog Return 2 Kill ef hann er í gangi.",
+            "date": "2006-08-09 14:50:00",
+            "post_id": "125435",
+            "reply_to_id": "125429"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "Þekkiru ekki Svavar \"Ripper\"  \n ?",
+            "date": "2006-08-09 14:53:00",
+            "post_id": "125437",
+            "reply_to_id": "125435"
+        },
+        {
+            "user_name": "ÓmarSmith",
+            "text": "Uhhhh..\n\n\n\nNei.\n\n\n\nOg hver er  \"Puma\"\n\n\n\nÞað er bara einn svavar sem ég þekki að vinna í þjónustuveri Símans ( Síminn Internet )\n\n\n\nOg hann talar japönsku og er steiktur snillingur.\n\n\n\nP.S  Þessi \" Ripper \" er in fact Pétur sem á Tölvutækni \n  En ekki Svavar Ghostfacekillah",
+            "date": "2006-08-09 14:56:00",
+            "post_id": "125440",
+            "reply_to_id": "125437"
+        },
+        {
+            "user_name": "Puma",
+            "text": "þetta er komið í lag\n\n\n\n\n\nsmá vandamál hja mer sem lagaðist við reinstall(svona er að fikta of mikið)",
+            "date": "2006-08-10 00:13:00",
+            "post_id": "125470",
+            "reply_to_id": "125440"
+        }
+    ],
+    "date": "2006-08-07 17:18:00"
+}

@@ -1,0 +1,65 @@
+{
+    "forum_title": "Windows",
+    "id": "16575",
+    "title": "Scvhost.exe",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=16575",
+    "posts": [
+        {
+            "user_name": "zombrero",
+            "text": "Sælir.\n\n\n\nÞannig er mál með vexti að tölvan mín er sýkt af einhveju drasli sem kallar sig scvhost.exe og eru alveg heil fimm stykki af þessu dóti í Processess í Task manager.\n\n\n\nÉg er búinn að fára eftir einhverjum ráðum þegar ég googlaði scvhost.exe en þetta fer ekki.\n\n\n\nLíka sama hversu oft ég tek þetta drasl úr msconfig þá kemur þetta alltaf aftur.\n\n\n\nEr eitthvað gæðablóð þarna úti sem er með pottþétt ráð við þessu?\n\n\n\nEr btw með XP ef það breytir einhverju",
+            "date": "2008-01-07 18:07:00",
+            "post_id": "162114",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Það er eðlilegt að hafa nokkur stykki af svchost.exe. Skýringin á því er að þjónustur (services) keyra undir þessu forriti. Ef þú ert í vafa hvað af þessu er í lagi eða ekki þá mæli ég með að þú náir í Process Explorer (task manager á sterum) og skoðir hvaða service eru að keyra undir hvaða taski og googlir þau sem eru \"undarleg\"",
+            "date": "2008-01-07 18:19:00",
+            "post_id": "162115",
+            "reply_to_id": "162114"
+        },
+        {
+            "user_name": "dadik",
+            "text": "Þetta er prócess sem keyrir allar þjónustur á vélinni hjá þér. Ef þú ert með einhverjar þjónustur í gangi sérðu þær í taskmanager sem svchost.exe. Vélin hjá mér er t.d. með 7 svona gaura í gangi.\n\n\n\nEf þú vilt losna við þetta er einfaldast að slökkva á einhverjum af þjónustunum á vélinni. Þú getur aldrei losnað við þær allar en þú getur fækkað þeim.\n\n\n\nÞað eru til tól sem sýna þér hvaða þjónustur eru að bakvið hvaða prócess - t.d. \nProcess Explorer",
+            "date": "2008-01-07 18:20:00",
+            "post_id": "162116",
+            "reply_to_id": "162115"
+        },
+        {
+            "user_name": "zombrero",
+            "text": "Þannig það er venjulegt að hafa nokkra s\nvc\nhost.exe og nokkra s\ncv\nhost.exe [/b]?\n\n\n\nHélt að þetta væri einhver vírus að reyna fela sig með svipuðu nafni",
+            "date": "2008-01-08 19:07:00",
+            "post_id": "162241",
+            "reply_to_id": "162116"
+        },
+        {
+            "user_name": "TechHead",
+            "text": "s\ncv\nhost.exe myndi vera vírus.\n\n\n\nhttp://www.bitdefender.com\n og gera online scan - helst í gær!\n\nNiðurhala SuperAntiSpyware og gera clean a tölvuna - núna strax drengur",
+            "date": "2008-01-08 19:22:00",
+            "post_id": "162245",
+            "reply_to_id": "162241"
+        },
+        {
+            "user_name": "TechHead",
+            "text": "Ahhh you just pulled a mod",
+            "date": "2008-01-08 19:23:00",
+            "post_id": "162247",
+            "reply_to_id": "162245"
+        },
+        {
+            "user_name": "CraZy",
+            "text": "Bíddu ég veit ekki hvað þú ert að tala um",
+            "date": "2008-01-08 19:26:00",
+            "post_id": "162249",
+            "reply_to_id": "162247"
+        },
+        {
+            "user_name": "Zorba",
+            "text": "http://www.processlibrary.com\n\n\n\n\nSegir að scvhost sé slæmt\n\n\n\nHinsvegar er hjá öllum svchost.exe",
+            "date": "2008-01-08 19:55:00",
+            "post_id": "162251",
+            "reply_to_id": "162249"
+        }
+    ],
+    "date": "2008-01-07 18:07:00"
+}

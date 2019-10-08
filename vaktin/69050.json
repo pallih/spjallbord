@@ -1,0 +1,51 @@
+{
+    "forum_title": "Þjónusta / Viðgerðir",
+    "id": "69050",
+    "title": "Engin mynd frá skjákorti. Samt mynd frá onboard gpu",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=13&t=69050",
+    "posts": [
+        {
+            "user_name": "Gunnar",
+            "text": "Tölvan hja mér er að haga sér eitthvað skringilega.\ní tíma og ótíma varð skjárinn svartur. Ég þurfti að restarta tölvunni kannski 1 en kannski 2-3 til að skákortið tók við sér og setti mynd á skjáinn.\nEn núna sýnir skjákortið engan mynd.skipti ekki máli hversu oft ég restarta, svo ég er að nota onboard skjákortið svo það útilokar skjáinn og snúruna.\nSkipti nýlega um móðurborð (frá MSI Z87-G43 í ASRock H97 Anniversary) útaf nákvæmlega sama vandamáli. \nKom engin mynd á skjáinn en lagaðist við nýja móðurborðið, nema ég þurfi alltaf að restarta kannski einusinni til að fá mynd. Vandist því að restarta bara einusinni og svo virkaði tölvan allan daginn.\nTölvan er í custom tölvukassa. Er með tölvan inní skrifborðinu mínu. En móðurborðið er á móðurborðsbakka frá gömlum turn.(þráður um það seinna.)\nSkjákortið er á hlið svo ég get haft tölvuna mjórri svo það er tengt með riser kapal.\nÖrgjörvi er vatnskældur en ekki skjákort.\nEinhver hugmynd hvað gæti verið að?\nGamla Móðurborðið: MSI Z87-G43.(MS-7816) (SOCKET 0). \nhttps://www.msi.com/Motherboard/Z87-G43 ... o-overview\nNýja móðurborðið: ASRock H97 Anniversary. \nhttp://kisildalur.is/?p=2&id=2958\nÖrgjörvi: Intel Core i5 4430 @ 3.00GHz (haswell).\nhttp://ark.intel.com/products/75036/Int ... o-3_20-GHz\nGamla Skjákortið: EVGA NVIDIA GeForce GTX 560 Ti 1279MB. Dual fan. \nhttp://www.evga.com/products/pdf/012-P3-2068.pdf\nNýja skjákortið: R7850 POWER EDITION \nhttps://www.msi.com/Graphics-card/R7850 ... o-overview\nVinnsluminni: G.Skill 8GB (2x4GB) Ares 1600MHz DDR3. \nhttp://www.kisildalur.is/?p=2&id=1562",
+            "date": "2016-03-31 22:28:00",
+            "post_id": "621266",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "baldurgauti",
+            "text": "Eina sem mig dettur í hug gæti verið að aflgjafinn sé ekki nógu kratfmikill (sem ég efast um mælt með 500w á þetta kort) annars myndi ég halda að kortið sé bara að gefa sig, ertu búinn að prufa það í annari vél?",
+            "date": "2016-04-01 00:22:00",
+            "post_id": "621283",
+            "reply_to_id": "621266"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "Corsair hx850 efast að hann sé að gefa sig. Alltaf möguleiki. \nFór með tölvuna og lét kísildal cheaka á kortinu og það virkaði i tölvu hjá þeim þegar fyrra móðurborðið var i tölvunni. \nÆtla prufa um helgina að setja annað kort i vélina og prufa mitt kort hja vini.",
+            "date": "2016-04-01 00:35:00",
+            "post_id": "621285",
+            "reply_to_id": "621283"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Ertu búinn að prófa að tengja skjákortið án þess að nota þennan riser kapal? Eða er kannski ekki pláss fyrir það?\nEitt sem mér dettur í hug ef þú getur ekki sett kortið beint í raufina útaf einhverjum ástæðum, er að prófa kortið með riser kaplinum í annari tölvu og sjá hvort vandamálið heldur áfram þar.",
+            "date": "2016-04-01 02:20:00",
+            "post_id": "621289",
+            "reply_to_id": "621285"
+        },
+        {
+            "user_name": "Klaufi",
+            "text": "Ertu með \"powered riser\", þ.e. með utanaðkomandi spennufæðingu?",
+            "date": "2016-04-01 06:58:00",
+            "post_id": "621293",
+            "reply_to_id": "621289"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "Kisildalur prufaði riser kapalinn og hann virkaði hja þeim fínt. En ja hann er \"powered \" ss með power fra molex. Og nei ekkert pláss fyrir skjákortið. Pinnarnir sem standa niður ur kortinu eru fyrir",
+            "date": "2016-04-01 10:24:00",
+            "post_id": "621308",
+            "reply_to_id": "621293"
+        }
+    ],
+    "date": "2016-03-31 22:28:00"
+}

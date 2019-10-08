@@ -1,0 +1,51 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "5140",
+    "title": "Switch / Router",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=5140",
+    "posts": [
+        {
+            "user_name": "Andri Fannar",
+            "text": "Jæja , nú þarf ég hjálp ykkar í sambandi við netkerfi / lan. Ég er með 4porta router og 2.3mbps tengingu , get ég ekki tengt routerinn við \"line-in\" á switch-inum og tengt svo 8 tölvur ef ég er með þennan \nhttp://www.task.is/Scripts/prodView.asp?idproduct=459\n switch við og komast ekki allir á netið og get ég ekki líka spilað Lan Game við allar hinar vélarnar ?  \n\n\n\n\n\n\nPS : Frekar mikill nýliði í switchum og ráterum",
+            "date": "2004-08-14 11:27:00",
+            "post_id": "51960",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gnarr",
+            "text": "þú tengir routerinn bara með venjulegri twisted pair snúru í eitthvað port á switchinum og síðan hinar tövlurnar líka bara emð venjulegum tp snúrum í hin portin. þú getur tengt routerinn og 8 tölvur ef þú ert með 9 porta switch.",
+            "date": "2004-08-14 15:34:00",
+            "post_id": "51998",
+            "reply_to_id": "51960"
+        },
+        {
+            "user_name": "Andri Fannar",
+            "text": "nice",
+            "date": "2004-08-15 20:32:00",
+            "post_id": "52160",
+            "reply_to_id": "51998"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "tjjaa ég nota bara venjulega tp snúru frá routernum yfir í switchin virkar vel",
+            "date": "2004-08-15 22:06:00",
+            "post_id": "52168",
+            "reply_to_id": "52160"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Sama hér",
+            "date": "2004-08-16 21:22:00",
+            "post_id": "52301",
+            "reply_to_id": "52168"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "flestir nýjir switch'ar eru með Auto-MDI, þ.e. skiptir ekki máli hvort að það er ST eða CO netkapall.\n\n\n\nps. TP = Twisted Pair, kapall sem er búinn til úr minni köplum sem eru par af snúrum snúnar hvor um aðra, þ.e. twisted pair eða uppásnúin pör. Straight through og crossover eru bæði TP netkaplar.",
+            "date": "2004-08-16 21:50:00",
+            "post_id": "52308",
+            "reply_to_id": "52301"
+        }
+    ],
+    "date": "2004-08-14 11:27:00"
+}

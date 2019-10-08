@@ -1,0 +1,37 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "66555",
+    "title": "Vantar hjálp með pirrandi hljóð í heyrnatólum",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=66555",
+    "posts": [
+        {
+            "user_name": "Logi J",
+            "text": "Ég er nýbúinn að byggja mína eigin tölvu og installaði öllum driverum og allt það. En þegar ég er með heyrnatólin mín í sambandi í front panel þá kemur alltaf eitthvað mjög pirrandi hljóð þegar ég hreyfi músina, horfi á myndbönd eða spila tölvuleiki. Það verður hærra með því meira sem er að gerast á skjánum mínum og þegar ég er ekki að gera neitt heyrist ekkert í þessu. \nÉg reyndi að leita að lausnum en fann ekkert mikið sem virkaði, ég reinstallaði nokkrum driverum sem gætu verið að valda þessu en ekkert lagaðist. Þegar ég sting heyrnatólunum í back panel-ið þá heyrist miklu minna í hljóðinu en það heyrist líka bara lægra í tölvunni sjálfri og það er bara pain að hafa það í back panel-inu.\nMyndband um hvernig hljóðið er: \nhttps://www.youtube.com/watch?v=JbuS5xKgLUU\nVæri frábært að fá ráðlagningar með þetta eða eitthvað sem getur hjálpað mér því þetta hljóð er svakalega pirrandi. \nEr með Fatal1ty z97 killer móðurborð.",
+            "date": "2015-08-14 19:55:00",
+            "post_id": "604331",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Hvati",
+            "text": "Tengdu heyrnartólin að aftan, ef snúran er ekki nógu löng þá geturu fengið þér framlengingu.\nGetur einnig fengið þér USB DAC.",
+            "date": "2015-08-14 20:01:00",
+            "post_id": "604332",
+            "reply_to_id": "604331"
+        },
+        {
+            "user_name": "fantis",
+            "text": "Opnaðu kassan og checkaðu hvort þú getur fært kapalinn sem fer frá hlóðkortinu / móðurborðinu að front panel í betri stöðu.  Lang best er tengja heyrnatól að aftan. \nEf þú ert með annað PSU prufaðu það. Gríðaleg mengun frá sum þeirra. \nHvaða móðurborð ertu með?",
+            "date": "2015-08-14 20:11:00",
+            "post_id": "604333",
+            "reply_to_id": "604332"
+        },
+        {
+            "user_name": "Hnykill",
+            "text": "Hef fengið svona áður.. þetta kemur ef tölvan er ekki með jarðtengt rafmagn :/   jarðtengtu snúrurnar í tölvuna og þetta fer.. fór strax hjá mér\nÉg tengdi reyndar vír beint í tölvukassan aftan á og í járn ofn í herberginu :Þ ..skrapaði smá málningu af til að leiða í járnið. vatnsofnar leiða nefnilega rafmagn beint í jörð nokkuð vel",
+            "date": "2015-08-14 22:22:00",
+            "post_id": "604340",
+            "reply_to_id": "604333"
+        }
+    ],
+    "date": "2015-08-14 19:55:00"
+}

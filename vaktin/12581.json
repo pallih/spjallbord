@@ -1,0 +1,128 @@
+{
+    "forum_title": "F.A.Q.",
+    "id": "12581",
+    "title": "LOSSLESS / EAC Ripping leiðbeningar fyrir Windows.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=33&t=12581",
+    "posts": [
+        {
+            "user_name": "CraZy",
+            "text": "Formáli:\n Ég á ekkert í þessu tutoriali, gerði bara heiðarlega tilraun til að íslenska þetta (+ mér leiðist) \n Ég vona að þessar leiðbeningar bjargi fólki frá því að vera rippa diskana sína í wmp og frelsist vonandi frá því að hlusta á tónlist í ömurlegum gæðum..\n\n\n\n\n\n\n\nLOSSLESS / EAC Ripping Leiðbeningar Fyrir Windows.\n\n\n\n\n\n\n1.\n  Niðurhalaðu \nExact Audio Copy (EAC)\n og settu það upp.\n\n\n\n2.\n   Settu upp \nFLAC\n lossless codec/frontend.\n\n\n\n3. \n  Niðurhalaðu þessari skrá (\nwnaspi32.dll\n) Og settu hana í EAC folder. Þú getur fundið skránna \nhér\n og \nhér\n\n\n\n\n4.\n   EAC verður að vera uppsettur áður en við höldum áfram. Næstu skref þarf aðeins að framkvæma einu sinni. Þegar þú ert búinn vistaðu EAC stillingarnar í prófíl svo að þú glatir þeim ekki.\n\n\n\n====================================================================================>\n\n\n\nA.\n   Byrjaðu á því að opna EAC. \n\n\n\nWizard mun poppa upp, ýttu á \ncancel.\n\n\n\n\n\n\n\n\nB.\n   Ýttu á \nF12\n til að fara í FreeDB Options. \n\n\n\nSettu inn email addressu hérna. Ýttu á OK og farðu úr Freedb options. Þetta er gert til þess að komast í Freedb gagnagrunninn\n\n\n\n\n\n\n\nC.\n \nF9\n til að fá upp EAC Options.\n\n\n\n- Hakaðu við Fill Up Missing Offset Samples With Silence.\n\n- Hakaðu við Synchronize Between Tracks\n\n- Breyttu Error Recovery Quality stillingunni í High.\n\n\n\n\n\n\n\nD.\n   Smelltu á General tab.\n\n\n\nÞað eina sem þú þarft að haka við hér er \n\"On Unknown CDs\" \nog \n\"Automatically Access Online FreeDB Database\".\n\n\n\n\n\n\n\n\nE.\n   Smelltu á Tools tab.\n\n\n\nHakaðu við:  \n\n- Use CD-Text Information In CUE Sheet Generation.\n\n- Create '.m3u' Playlist On Extraction og Write m3u Playlist With Extended Information\n\n- Automatically Write Status Report After Extraction.\n\n\n\nATH:  Þú getur líka hakað við Do Not Open External Compressor Window Ef þú villt ekki sjá hann.\n\n\n\n\n\n\n\nF.\n   Smelltu á Normalize tab.\n\n\n\nEkki\n haka við neitt hérna! Normalize eyðileggur alla möguleika á lossless.\n\n\n\n\n\n\n\nG.\n   Smelltu á Filename tab.\n\n\n\nSettu %N - %T fyrir  tracknumber og songname.  Þegar þú ert búinn ýttu á OK til að hætta í EAC options.\n\n\n\nATH: Þú gætir líka breytt þessu í %D\\%C\\%N - %T til að setja skránna í Artist/Album möppu. Td. /Stone Temple Pilots/Purple/01 - Meat Plow.wav\n\n\n\n\n\n\n\nH.\n   Ýttu á \nF10\n til að fá upp Drive Options.\n\n\n\nViðvörunnar box poppar upp.\n\nAf hakaðu boxið og ýttu á OK.\n\n\n\n\n\n\n\nExtraction Method Tab:\n\n\n\n- Veldu 'Secure mode'.\n\n- Hakaðu við 'Drive Has Accurate Stream'.\n\n- Hakaðu við 'Drive Caches Audio Data'.\n\n\n\nATH:  \n\n\n\n-Ef drifið eða drifin þín koma ekki upp gætiru þurft að loka EAC og vera viss um að hafa sett \nwnaspi32.dll\n í EAC möppuna.\n\n-Ekki öll drif styðja Accurate Stream möguleikan. Til að sjá hvaða möguleika drifið þitt hefur smelltu á \"Detect Read Features\" takkan.\n\n\n\n\n\n\n\nI.\n   Smelltu á Drive tab.\n\n\n\nÝttu á takkan fyrir Autodetect Read Command Now. Það þarf að vera diskur í drifinu svo að forritið finni réttu stillinguna. Notaðu stillinguna sem forritið finnur.\n\n\n\n\n\n\n\nJ.\n   Smelltu á Offset / Speed tab.\n\n\n\nLeitaðu af drifinu þínu í \nAccurateRip Drive Database\n. Notaðu offset-ið sem þú finnur til að stilla Use Read Sample Offset Correction.\n\n\n\n\n\nATH: +6 á myndinni er bara dæmi en gildir ekki fyrir öll drif, finnið ykkar offset í listanum sem ég benti á að ofan.\n\n\n\n\n\n\n\nK.\n   Smelltu á Gap Detection tab.\n\n\n\n- Veldu annaðhvort Detection aðferð A, B, or C.\n\n- Veldu Secure sem Detection accuracy.\n\n\n\nATH: Detection method A virkar oftast vel og hinar aðferðirnar alveg einsvel. Ef að því einstaka tilviki að drifið geti ekki lesið bilin á disknum prófaðu B eða C.\n\n\n\n\n\n\n\nÞetta er endirinn á þrepi 4.\n\n\n\n\n\n\n5.\n   Nú þegar þú ert búinn að stilla EAC ertu tilbúinn að rippa þinn fyrsta disk. Þessi skref þarftu að framkvæma í hvert skipti sem þú rippar disk.\n\n\n\n\n\nA.\n   Settu disk í drifið og ýttu á \nF4\n til að finna bil (gaps)\n\n\n\n\n\n\n\nB.\n   Vertu viss um að hafa valið Append Gaps To Previous Track (Default).\n\n\n\n\n\n\n\nC.\n   Smelltu á Multiple WAV Files With Gaps (Noncompliant).\n\n\n\n\n\n\n\nD.\n   Ýttu á \nCTRL+A \nto Til að velja öll lög, Svo ýtiru á F6 ef þú villt óþjappað (WAV) en \nSHIFT+F6\n ef þú vilt þjappað (FLAC).\n\n\n\n\n\n\n\nATH: Það eru margar leiðir til að gera þetta. Ef þú villt WAV, ýttu bara á F6.  Ef þú villt FLAC, ýttu á \nF11\n og farðu í External Compression tab...\n\n\n\n- \nStilling þjöppunar fyrir FLAC\n\n\n\n\nVertu viss um að skráar endingin sé stillt á \n.flac\n og í Additional Comman Line Options paistaðu þessu inn:\n\n-V -8 -T \"artist=%a\" -T \"title=%t\" -T \"album=%g\" -T \"date=%y\" -T \"tracknumber=%n\" -T \"genre=%m\" %s\n\n\n\n\n\n\n\n\nATH: Þó að sýnt sé í skjáskotinu 128kb/s mæli ég með að þið stillið á 320kb/s til að tryggja mestu möguleg gæði.\n\n\n\nÝttu á OK til að fara úr Compression Options glugganum. Til að rippa ýttu á \nSHIFT+F6\n\n\n\n\nÞað er mælt með því að þú vistir profile stillingarnar með profile menu-inu neðst í EAC. Til að gera þetta smelltu á \"New\" og búðu til prófíl. Vistaðu svo stillingarnar í prófílinn.\n\n\n\nTil Hamingju þú ættir að vera tilbúinn að rippa í fullkomnum lossless gæðum!\n\n\n\n\nEftirmáli? :\n Ég veit að það eru fullt af stafsetningar og innsláttar villum í þessum texta, ég tek vel í það að þið sendið mér hvar/hverjar þær eru bara í PM.",
+            "date": "2006-12-29 14:43:00",
+            "post_id": "133960",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "@Arinn@",
+            "text": "Er þetta til þess að rippa diska ? færð kannski lánaðann geisladisk þá geturu rippað hann með þessu ?",
+            "date": "2006-12-29 14:51:00",
+            "post_id": "133963",
+            "reply_to_id": "133960"
+        },
+        {
+            "user_name": "CraZy",
+            "text": "tja tildæmis, þetta er kannski meira fyrir fólk sem vill allt í fullkomnum gæðum (einsog ég) Ef þér er nokkuð sama um gæði geturu notað \nLAME\n sem compressor í staðin fyrir FLAC, þá eru þessu þjappað í VBR mp3 skrár (sem er reyndar líka allveg frábær gæði og nægir flestum)",
+            "date": "2006-12-29 15:09:00",
+            "post_id": "133964",
+            "reply_to_id": "133963"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "Bara svona uppá grínið, ekki ertu einn af þeim sem safnar öllu í lossless og hlustar svo á þetta í 1.500kr heyrnatólum úr BT? \n\n\n\nSennheiseeeer!",
+            "date": "2006-12-29 16:20:00",
+            "post_id": "133967",
+            "reply_to_id": "133964"
+        },
+        {
+            "user_name": "CraZy",
+            "text": "haha \n Ég hlusta á lossless heima í græjunum og er svo oftast með VBR eða verra í ipodnum, sem ég nota svo bara með drasl heyrnatólunum sem fylgdu með.\n\n\n\nAnnars hefði ég ekkert á móti því að eiga gott eintak af Sennheiser HD280 eða HD280pro",
+            "date": "2006-12-29 16:42:00",
+            "post_id": "133970",
+            "reply_to_id": "133967"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Betra en 1500 kr. hátalarar úr tölvulistanum",
+            "date": "2006-12-30 00:14:00",
+            "post_id": "134017",
+            "reply_to_id": "133970"
+        },
+        {
+            "user_name": "corflame",
+            "text": "Xfi, sennheiser og .flac fyrir vinninginn",
+            "date": "2006-12-30 14:01:00",
+            "post_id": "134039",
+            "reply_to_id": "134017"
+        },
+        {
+            "user_name": "Mazi!",
+            "text": "Flott  \n Væri samt ekki betra að hosta þessar myndir á vaktin.is í staðinn fyrir einhvern útlenskan server? aldrey að vita nema þessar myndir hverfi af ImageShack",
+            "date": "2006-12-30 14:38:00",
+            "post_id": "134042",
+            "reply_to_id": "134039"
+        },
+        {
+            "user_name": "CraZy",
+            "text": "Ef/þegar myndirnar detta niður verður þessi þráður gleymdur eða þá að þeir sem gerðu þessar myndir hosta þær uppá nýtt og þá skal ég setja þær aftur inn... \n\n\n\n\nnema nátturulega einhver vilji hosta þær á vaktin.is",
+            "date": "2006-12-30 21:02:00",
+            "post_id": "134078",
+            "reply_to_id": "134042"
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "Ég nota bara Foobar2k til að rippa diska í .flac",
+            "date": "2006-12-30 23:06:00",
+            "post_id": "134085",
+            "reply_to_id": "134078"
+        },
+        {
+            "user_name": "Birkir",
+            "text": "Er ekki fínt að gera þennan þráð sticky eða setja hann í FAQ hornið?  Ágætis tutorial alveg hreint.",
+            "date": "2006-12-31 02:06:00",
+            "post_id": "134114",
+            "reply_to_id": "134085"
+        },
+        {
+            "user_name": "Skoop",
+            "text": "oink ftw",
+            "date": "2007-01-01 01:50:00",
+            "post_id": "134173",
+            "reply_to_id": "134114"
+        },
+        {
+            "user_name": "HemmiR",
+            "text": "og það er ?",
+            "date": "2007-01-01 01:54:00",
+            "post_id": "134174",
+            "reply_to_id": "134173"
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "p1rate síða",
+            "date": "2007-01-01 01:55:00",
+            "post_id": "134175",
+            "reply_to_id": "134174"
+        },
+        {
+            "user_name": "HemmiR",
+            "text": "Já ók.",
+            "date": "2007-01-01 01:55:00",
+            "post_id": "134176",
+            "reply_to_id": "134175"
+        },
+        {
+            "user_name": "Skoop",
+            "text": "þessi tutorial er þaðan, flott framtak að íslenska þetta",
+            "date": "2007-01-01 02:21:00",
+            "post_id": "134178",
+            "reply_to_id": "134176"
+        },
+        {
+            "user_name": "CraZy",
+            "text": "Jamm það leynist margt gullið á OiNK",
+            "date": "2007-01-02 22:21:00",
+            "post_id": "134285",
+            "reply_to_id": "134178"
+        }
+    ],
+    "date": "2006-12-29 14:43:00"
+}

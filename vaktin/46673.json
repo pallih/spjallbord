@@ -1,0 +1,72 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "46673",
+    "title": "C# hjálp",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=46673",
+    "posts": [
+        {
+            "user_name": "Páll",
+            "text": "Ég veit að þetta er easy enn ég bara skil ekki afhverju þetta virkar ekki :S\nTil að finna rúmmál  kúlu notum við jöfnuna: \tR = 4/3 * pí *r3\nÞar sem\tR = Rúmmál\t\tr=  Radíus   pí= 3.14\nSkrifaðu forrit sem biður um radíus bolta í sentímetrum  og reiknar út  rúmmál  hans með 2  aukastöfum.\nDæmi:\nHver er radíus boltans? 5,2\nEftirfarandi skrifast á skjáinn:\nRúmmál boltans er:   441,73  rúmsentimetrar\nMinn kóði: \nKóði: \nVelja allt\n     //strengirnir\n            double radius = 0, rummal = 0, pi = 3.14;\n            Console.WriteLine(\"Vinsamlegast sláðu inn radíus bolta í sentímetrum \");\n            radius = Double.Parse(Console.ReadLine());\n            rummal =  4/3 * radius * pi ;\n            Console.WriteLine(\"Rúmmálið er = \"+rummal);\n            Console.ReadLine();//bremsa\nHver er vitleysan hjá mér?",
+            "date": "2012-03-21 09:34:00",
+            "post_id": "430246",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "hrabbi",
+            "text": "Heiltöludeilingin 4/3 = 1.\nPrófaðu 4.0/3...",
+            "date": "2012-03-21 09:52:00",
+            "post_id": "430250",
+            "reply_to_id": "430246"
+        },
+        {
+            "user_name": "Páll",
+            "text": "Nibb virkar ekki.",
+            "date": "2012-03-21 09:58:00",
+            "post_id": "430251",
+            "reply_to_id": "430250"
+        },
+        {
+            "user_name": "hrabbi",
+            "text": "Kóði: \nVelja allt\nrummal =  4.0/3 * radius * pi ;\n?\nVirkar fínt hjá mér...",
+            "date": "2012-03-21 10:02:00",
+            "post_id": "430252",
+            "reply_to_id": "430251"
+        },
+        {
+            "user_name": "Páll",
+            "text": "Já þetta er komið hjá mér, var bara að gera eitthverja klaufavillu \nTakk",
+            "date": "2012-03-21 10:18:00",
+            "post_id": "430257",
+            "reply_to_id": "430252"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "En að hafa (4/3) í sviga?\nEða setja gildið 1,3333333 í staðin?",
+            "date": "2012-03-21 10:28:00",
+            "post_id": "430264",
+            "reply_to_id": "430257"
+        },
+        {
+            "user_name": "Páll",
+            "text": "Er nú að vesenast með annað dæmi, hvernig geri ég þetta?",
+            "date": "2012-03-21 10:33:00",
+            "post_id": "430265",
+            "reply_to_id": "430264"
+        },
+        {
+            "user_name": "codec",
+            "text": "Glímdu nú aðeins við þetta sjálfur áður en þú spyrð hér, það er eina (besta) leiðin til að læra.",
+            "date": "2012-03-21 11:43:00",
+            "post_id": "430280",
+            "reply_to_id": "430265"
+        },
+        {
+            "user_name": "Frantic",
+            "text": "Forritun byggist á rökhugsun.\nÞetta er bara for lúppa og ein falleg if setning.\n1. Lúppar í gegnum streng, þ.e. tekur einn staf í einu og setur í gegnum if setningu.\n2. If stafur[i].ToLower er samasem 's' -> Skrifa út stafur[i] ANNARS -> Skrifa út '%'\nGetur bæði skrifað þetta út í if setningunni og notar þá Console.Write() í staðinn fyrir WriteLine svo þetta komi í sömu línunni eða þú getur líka gert nýrStrengur += stafur[i] og skrifar svo út nýrStrengur.\nGet ekki hjálpað þér meira án þess að gera þetta fyrir þig.",
+            "date": "2012-03-21 11:57:00",
+            "post_id": "430283",
+            "reply_to_id": "430280"
+        }
+    ],
+    "date": "2012-03-21 09:34:00"
+}

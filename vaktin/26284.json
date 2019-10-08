@@ -1,0 +1,44 @@
+{
+    "forum_title": "Windows",
+    "id": "26284",
+    "title": "Windows 7, 32 eða 64 bita og Raid eða no Raid?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=26284",
+    "posts": [
+        {
+            "user_name": "DoofuZ",
+            "text": "Jæja, núna er ég kominn með rétt móðurborð (DFI LanParty nF4 SLI-DR, þökk sé Start \n) og ætla að setja Windows 7 inná vélina, en spurningin er bara hvort á ég að nota Raptor diskana mína 2 (WD Raptor 74gb, 10.000rpm) í Raid (0, 1 eða 1+0) eða bara annan þeirra og Windows 7 32 eða 64 bita? \nSá reyndar einn nýlegan þráð hérna þar sem var verið að spá í 64 bita útgáfuna og mælt var með 32 bita frekar en fer það ekki samt svoldið eftir vélbúnaði og í hvað maður notar vélina? Vil gera tölvuna eins hraða og öfluga og ég get, án þess þó að fara útí yfirklukkunarmál \n Á líka eftir að finna mér aðeins betri örgjörva, kaupa betra skjákort og aflgjafa líka.",
+            "date": "2009-11-21 18:10:00",
+            "post_id": "228512",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Nariur",
+            "text": "engin spurning með raid 0 og 64 bit. Það eru nær engin compatibility vandamál með 7 64 bit",
+            "date": "2009-11-21 18:43:00",
+            "post_id": "228518",
+            "reply_to_id": "228512"
+        },
+        {
+            "user_name": "Narco",
+            "text": "En þú veist þá líklega að ef annar diskurinn fer, eða ef móbóið hrynur þá er útilokað að bjarga neinum gögnum ef stripið er notað.\nMitt ráð er að fá sér ssd eða ef þú notar ekki stripið fyrir viðkvæm gögn að kýla á það.\nOg að sjálfsögðu að nota 64x windows.",
+            "date": "2009-11-21 19:13:00",
+            "post_id": "228524",
+            "reply_to_id": "228518"
+        },
+        {
+            "user_name": "OverClocker",
+            "text": "Ef þú átt 2x raptora þá er ekki spurning um annað en að setja upp raid 0 og hafa þar stýrikerfið og leiki, öll gögn ættu þó að vera á aukadisk.\nSvo er Win7 x32 málið fyrir þig þar sem þú ert ekki að nota meira en 4GB..",
+            "date": "2009-11-21 21:07:00",
+            "post_id": "228541",
+            "reply_to_id": "228524"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "En örgjörvinn hans er x64, og hann missir í raun af vissu performance gaini á því að setja upp x86 kerfi. Þó hann sé bara með 3GB RAM þá verður kerfið aðeins hraðvirkara með x64. Og þar sem hann er ekki með of lítið vinnsluminni, þá er ekkert að því að kýla á x64.\nÞað er í raun ekkert meira vesen þannig séð að vera með 64 bita Windows 7. Öll forrit og þannig sem er bara til í 32 bitum virkar alveg eins og í 32bit stýrikerfum.",
+            "date": "2009-11-21 21:13:00",
+            "post_id": "228542",
+            "reply_to_id": "228541"
+        }
+    ],
+    "date": "2009-11-21 18:10:00"
+}

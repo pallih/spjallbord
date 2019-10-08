@@ -1,0 +1,51 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "14997",
+    "title": "Bandvíddarmæling",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=14997",
+    "posts": [
+        {
+            "user_name": "ermit",
+            "text": "Daginn.\n\n\n\nÍ vinnunni minni erum við að reka frekar stórt IP net, með ljósleiðara milli húsa. Höfum átt í svolitlum vandræðum með hraðann að undanförnu og þyrftum að mæla tengingarnar. Því miður hefur þó enginn hér innanhús þekkinguna til þess.\n\n\n\nVar að velta fyrir mér hvort einhver hérna gæti bent mér á hvert á að snúa mér varðandi þetta, benda mér á eitthvað gott bandvíddarmælitæki, gefið mér crash course í þessu, eða segja mér hverjir hér á landi hafa verið að gera svona hluti / selja vörur til þess.",
+            "date": "2007-07-11 16:07:00",
+            "post_id": "149954",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "ermit",
+            "text": "Til dæmis hvort einhver er að selja \nþetta\n hér á landi, og hvort það sé eitthvert vit í því.",
+            "date": "2007-07-11 16:12:00",
+            "post_id": "149955",
+            "reply_to_id": "149954"
+        },
+        {
+            "user_name": "Revenant",
+            "text": "http://static.hugi.is/misc/100MB\n ? :>",
+            "date": "2007-07-11 23:25:00",
+            "post_id": "149972",
+            "reply_to_id": "149955"
+        },
+        {
+            "user_name": "Throstur",
+            "text": "iperf\n er einföld leið til að prófa linka, en ef þú þarft \"alvöru\" mælingar þá er hægt að kaupa mælitæki t.d. frá Fluke sem \nS. Guðjónsson\nselur (\nvörulisti\n)",
+            "date": "2007-07-11 23:41:00",
+            "post_id": "149975",
+            "reply_to_id": "149972"
+        },
+        {
+            "user_name": "ermit",
+            "text": "Takk fyrir svörin. iperf lítur ágætlega út, en fluke mælitækin, eru þau ekki bara til að línutesta? Erum með eitt NetTool tæki frá þeim hérna og ég hef ekki fundið neitt til hraðamælingar í því. (nema link health fídusinn, en þar þarf maður að tengja dongle á hinn endann og ekki hafa neina höbba/svissa/routera á milli.",
+            "date": "2007-07-13 12:09:00",
+            "post_id": "150034",
+            "reply_to_id": "149975"
+        },
+        {
+            "user_name": "dorg",
+            "text": "Það eru low end tækin frá þeim.  Þeir eru með alvöru mæla líka sem geta teiknað upp net og gert hraða og lengdarmælingar og ýmsar kúnstir.",
+            "date": "2007-07-14 18:00:00",
+            "post_id": "150072",
+            "reply_to_id": "150034"
+        }
+    ],
+    "date": "2007-07-11 16:07:00"
+}

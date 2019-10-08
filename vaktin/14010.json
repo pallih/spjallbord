@@ -1,0 +1,100 @@
+{
+    "forum_title": "Koníakstofan",
+    "id": "14010",
+    "title": "Server stolið frá Danska tækniskólanum",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=9&t=14010",
+    "posts": [
+        {
+            "user_name": "Dári",
+            "text": "http://ing.dk/article/20070410/IT/70410011\n\n\n\n\n144 örgjörfa Sun server með 484gb ram, kostar ekki nema um 300 milljónir... spurning um að hafa augun opin á ebay á næstunni",
+            "date": "2007-04-17 06:26:00",
+            "post_id": "144489",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "DoRi-",
+            "text": "mig grunar stjórnendur Vaktarinnar\n\n\n\nþað er alltaf vesen með serverinn hér, ekki rétt?",
+            "date": "2007-04-17 12:41:00",
+            "post_id": "144508",
+            "reply_to_id": "144489"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "úff.... I wish....",
+            "date": "2007-04-17 14:42:00",
+            "post_id": "144518",
+            "reply_to_id": "144508"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Hvernig er það eru Sun serverar ekki frekar sérhæfðir í hin og þessi verkefni, þetta eru engir http serverar?",
+            "date": "2007-04-17 17:41:00",
+            "post_id": "144536",
+            "reply_to_id": "144518"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "það er náttúrulega hægt að setja windows á þessa servera. En þetta eru multinode cluster serverar, svo að þú þarft að hafa stýrikerfi sem styður það. Semsagt eitthvað Windows Server kerfi, Linux eða álíka. Þessir serverar eru hannaðir til að keyra risa stóra SQL grunna.",
+            "date": "2007-04-17 19:04:00",
+            "post_id": "144542",
+            "reply_to_id": "144536"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Eins og vaktina sem sagt?",
+            "date": "2007-04-17 20:19:00",
+            "post_id": "144545",
+            "reply_to_id": "144542"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "vaktin myndi flokkast sem mjög minimalískur SQL grunnur.",
+            "date": "2007-04-17 20:49:00",
+            "post_id": "144551",
+            "reply_to_id": "144545"
+        },
+        {
+            "user_name": "corflame",
+            "text": "Ef ég er að skilja dönskuna rétt, þá stálu þeir bara innvolsinu. Enda auðveldara að selja CPU og vinnsluminni heldur en einhverja ofurtölvu á eBay",
+            "date": "2007-04-18 11:39:00",
+            "post_id": "144577",
+            "reply_to_id": "144551"
+        },
+        {
+            "user_name": "JReykdal",
+            "text": "Say what?\n\n\n\nÞetta eru örugglega Sun UltraSparc gaurar sem keyra bara Solaris (eða Linux).",
+            "date": "2007-04-18 12:08:00",
+            "post_id": "144579",
+            "reply_to_id": "144577"
+        },
+        {
+            "user_name": "urban",
+            "text": "ég er nú að vonast til þess að þetta hafi verið torrent.is menn",
+            "date": "2007-04-18 12:39:00",
+            "post_id": "144582",
+            "reply_to_id": "144579"
+        },
+        {
+            "user_name": "DoRi-",
+            "text": "það væri frábært",
+            "date": "2007-04-18 21:11:00",
+            "post_id": "144603",
+            "reply_to_id": "144582"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "ÆjÆj, Hvernig kemst það framhjá mönnum að svona server fer offline?",
+            "date": "2007-04-18 21:19:00",
+            "post_id": "144606",
+            "reply_to_id": "144603"
+        },
+        {
+            "user_name": "corflame",
+            "text": "Sennilega af því þetta var utan \"venjulegs\" opnunartíma sýndist mér á fréttinni. Föttuðu svo væntanlega strax daginn eftir....",
+            "date": "2007-04-20 10:52:00",
+            "post_id": "144687",
+            "reply_to_id": "144606"
+        }
+    ],
+    "date": "2007-04-17 06:26:00"
+}

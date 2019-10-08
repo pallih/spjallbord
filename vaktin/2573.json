@@ -1,0 +1,79 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "2573",
+    "title": "Tölvan restartar sér við upload",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=2573",
+    "posts": [
+        {
+            "user_name": "hallihg",
+            "text": "Ég hef sent inn þráð um þetta áður en fékk í rauninni engin nytsamlega svör, svo ég spyr aftur.\n\n\n\nMálið er, að í hvert skipti sem einhver byrjar að uploada frá mér á DC hubbum, þá restartar tölvan sér. Þetta gerist líka á lönum þegar einhver fer að browsa það sem ég er með í share. Ég hef reynt að installa nýjum driver fyrir netkortið en það breytti engu. Þið getið rétt ímyndað ykkur hvað þetta er pirrandi  \n .  Hafiði einhverja hugmynd um hvernig ég get lagað þetta, án þess að formatta?\n\n\n\nkveðja\n\nHalliHg\n\n\n\nOg ef þið getið ekki hjálpað þá væri ágætt ef þið mynduð sleppa því að svara, svo ég fái ekki heilan aragrúa af emailum",
+            "date": "2003-12-27 22:15:00",
+            "post_id": "25478",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Fyrsta sem manni dettur í hug er vírus, ertu búinn að vírustékka?\n\nEf ekki farðu þá \nHINGAÐ\n og vírustékkaðu tölvuna.",
+            "date": "2003-12-27 23:41:00",
+            "post_id": "25486",
+            "reply_to_id": "25478"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "tékkaðu hvort þú getur update-að firmware-ið á netkortinu. annars geturu líka prófað að uppfæra biosinn. ef ekkert gengur, þá geturu altaf testað að skipta á kortum við vin þinn, kanski virkar þitt kort fínt hjá inhverjum vini þínum og hanns kort hjá þér.",
+            "date": "2003-12-28 14:11:00",
+            "post_id": "25511",
+            "reply_to_id": "25486"
+        },
+        {
+            "user_name": "hallihg",
+            "text": "Ég er með smá update hérna; \n\n\n\nTölvan virðist restarta sér einnig þegar ég downloada frá fleiri en 2 aðilum á Dc++ hubbum. Mér þykir afar líklegt að þetta sé tengt því að tölvan restarti sér líka þegar einhver uploadar frá mér.\n\n\n\nkveðja,",
+            "date": "2003-12-28 23:37:00",
+            "post_id": "25542",
+            "reply_to_id": "25511"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "þú lætur okkur líka ekkert vita nógu mikið hvað þú ert búinn að gera.. ertu búinn að gera það sem ég var að stinga uppá áðan? virka önnur forrit, td. eins og odc eða dc pro",
+            "date": "2003-12-28 23:53:00",
+            "post_id": "25543",
+            "reply_to_id": "25542"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "i think he is faking it",
+            "date": "2003-12-28 23:56:00",
+            "post_id": "25544",
+            "reply_to_id": "25543"
+        },
+        {
+            "user_name": "hallihg",
+            "text": "Ég hef oft prófað oDC og önnur forrit, það breytti engu, enda held ég að þetta tengist dc forritinu ekki á neinn hátt, þe. það sé ekki blóraböggullinn. Ég held að ég sé ekki einu sinni með firmwire á netkortinu mínu, og ég veit ekkert hvert skal leita til þess að uppfæra biosinn minn.",
+            "date": "2003-12-29 01:20:00",
+            "post_id": "25548",
+            "reply_to_id": "25544"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "segðu okkur hvernig móðurborð þú ert með.. hvað framleiðanada og týpu",
+            "date": "2003-12-29 03:06:00",
+            "post_id": "25550",
+            "reply_to_id": "25548"
+        },
+        {
+            "user_name": "Zaphod",
+            "text": "þarft eiginlega að koma með nákvæmari lýsingu á tölvunni þinni . Stýrikerfi, velbúnaður........\n\n\n\n\n\nertu að nota BitTorrent?",
+            "date": "2003-12-29 04:43:00",
+            "post_id": "25554",
+            "reply_to_id": "25550"
+        },
+        {
+            "user_name": "hallihg",
+            "text": "Eftir mikið fikt í support center og því öllu held ég að ég hafi náð að laga þetta. Ég fann upplýsingar um þennan error, \nhér\n. Þarna stendur að tölvan restarti sér ef notandi er að nota Windows XP með sausb.sys driver fyrir Universal Reader frá Lexar Media, sem er eldri en version 4.6. Ég hef aldrei heyrt um þennan Universal Reader, en þetta er víst einhvers konar USB memory dót. Ég googglaði eftir version 4.6 af þessum driver og fann einn á heimasíðu fyrirtækisins \nhérna\n. Ég downloadaði Lexar USB Combo Reader 4.6.zip drivernum, og installaði. Eftir reboot fór ég beint á Ásgarð og viti menn, tveir hófu að hlaða lögum frá mér og ekkert gerðist. Vonandi er þetta horfið fyrir fullt og allt, en þetta er samt ótrúlega skrýtið þar sem að ég hef aldrei heyrt um þennan universal reader og hvað þá þetta Lexar Media fyrirtæki. Ætli þessi 4.6 version sausb.sys fæll hafi ekki lagað þetta. Takk fyrir hjálpina allir.",
+            "date": "2003-12-29 17:46:00",
+            "post_id": "25591",
+            "reply_to_id": "25554"
+        }
+    ],
+    "date": "2003-12-27 22:15:00"
+}

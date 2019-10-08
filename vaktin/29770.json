@@ -1,0 +1,100 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "29770",
+    "title": "hacker í tölvunni!",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=29770",
+    "posts": [
+        {
+            "user_name": "mattiisak",
+            "text": "félagi mín lenti í því að fá hakkara í tölvuna \nhvernig losnar maður við þennan sauð?.\nþetta er falið forrit sem hann notar að ég best veit, (tölvan er ekki hér.)\nværi nó að sækja vírusvörn (kaspersky) segi ég. og taka netið  úr sambandi og scanna?\nhann kann ekkert á tölvur svo það er engin að fara að formata tölvuna.\neinhver hér með skynsama lausn ???.\n(öll svör eins og \"segðu honum að hætta að downloada klámi\" eru afþökkuð.",
+            "date": "2010-04-23 23:28:00",
+            "post_id": "257880",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "chaplin",
+            "text": "",
+            "date": "2010-04-23 23:29:00",
+            "post_id": "257884",
+            "reply_to_id": "257880"
+        },
+        {
+            "user_name": "mattiisak",
+            "text": "já sagði honum að gera þetta .\nenn nota þessar kauðir forrit sem er þá staðsett í tölvunni hjá fórnalambinu?",
+            "date": "2010-04-23 23:31:00",
+            "post_id": "257885",
+            "reply_to_id": "257884"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Númer eitt, tvo og þrjú : Hvernig veit viðkomandi að það var hacker inná tölvunni hans, en ekki bara spambotti eða annað sambærilegt?\nÞað er ekki hver sem er sem leggur það á sig að planta bakdyrum og fikta og forvitnast í vélum hjá fólki, nema það séu þess mikilvægar upplýsingar að hafa.\nAlvöru eldveggur ætti að blokkera þetta, nema viðkomandi \"hacker\" hafi verið með physical aðgang að tölvunni og búið til exceptions, eða er að nota það góðan hugbúnað/það klár.\nAnnars geturu auðvitað skannað, en m.v. að hvorki þú (ætla ég að gefa mér) né hann hafi mikla network kunnáttu hvernig ætliði þá að vita hvort að bakdyrnar hafi fundist og eytt? Fyrst verður að békenna hvaða hugbúnaður er í notkun, til að geta eytt honum 100%.",
+            "date": "2010-04-23 23:32:00",
+            "post_id": "257886",
+            "reply_to_id": "257885"
+        },
+        {
+            "user_name": "mattiisak",
+            "text": "þetta er fullorðin einstaklingur sem er með merkileg gögn í tölvunni get ekkert gefið upp. (jafnvel sakamál). hann segir að það hafi ákveðinn einstaklingur (veit ekki meir) komið fyrir forriti í tölvunni hjá fórnalambinu til að já gera það sem hackarar gera",
+            "date": "2010-04-23 23:38:00",
+            "post_id": "257889",
+            "reply_to_id": "257886"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "1. aftengja tölvuna við netið.\n2. færa öll \"mikilvæg\" gögn yfir á flakkar.\n3. formatta tölvuna. því að losa sig við vírus er svo mikið meira mál.",
+            "date": "2010-04-23 23:47:00",
+            "post_id": "257894",
+            "reply_to_id": "257889"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ef það eru virkilega þess mikilvæg gögn inná tölvunni, þá nei - er kaspersky ekki lausnin, sérstaklega þar sem erfitt er að koma auga á slík bakgrunnsforrit eftir að þau hafa verið sett upp (búið að gera exeptions etc). Taka afrit af gögnunum og enduruppsetja stýrikerfið. Myndi persónulega gera það, eða fjarlægja gögnin að lágmarki yfir á non-network tengdan miðil.\nOg númer tvö, ef menn ætla að vera með sakamálahæf gögn inná tölvunni hjá sér, þá á maður að sjálfsögðu að vera með slíkt á bakvið almennilega eldveggi, intrusion alert á networkinu, WiFI læst í bak og fyrir (MAC filtering, WPA-PSK, Hidden SSID etc etc) og ekki má gleyma mikilvægasta atriðinu - DULKÓÐUN!",
+            "date": "2010-04-23 23:49:00",
+            "post_id": "257895",
+            "reply_to_id": "257894"
+        },
+        {
+            "user_name": "mattiisak",
+            "text": "já þetta er sennilega skynsamast bara",
+            "date": "2010-04-23 23:53:00",
+            "post_id": "257897",
+            "reply_to_id": "257895"
+        },
+        {
+            "user_name": "mattiisak",
+            "text": "System restore myndi virka eða hvað?",
+            "date": "2010-04-24 00:36:00",
+            "post_id": "257910",
+            "reply_to_id": "257897"
+        },
+        {
+            "user_name": "PC__",
+            "text": "Ekki treysta of mikið á það!\nEf einhver hefur komist með hendurnar í vélina þá er líklegast að sá hin sami hafi þá sett \"valid\" hugbúnað inn á vélina en ekki eitthvað sem vírusvarnir og annar aflúsunnarbúnaður finnur.\nÉg myndi kanna ADD/Remove programs og svo þessa tvo til þrjá staði í í registry sem geyma upplýsingar um hvað er ræst þegar tölvan fer í gang.\nOg svo má líka skoða alla notendur undir \"documents and settings\" og ef þú finnur \"Program Files\" (hidden) möppu þar þá skaltu vera fljótur að loka nettengingunni.\nTil að sjá hvert tölvan tengist þegar hún er tengd netinu má svo nota netstat, það er erfitt að fela tengingarnar út á netið þannig að það gæti gefið vísbendingar.\nAnnars er einfaldasta lausnin að straua vélina og yfirleitt hagkvæmast líka.",
+            "date": "2010-04-24 01:51:00",
+            "post_id": "257936",
+            "reply_to_id": "257910"
+        },
+        {
+            "user_name": "DoofuZ",
+            "text": "Er þetta vandamál nokkuð leyst? Hef sjálfur lent í hakkara sem komst inná mína tölvu í gegnum öryggisgalla í RealVNC. Sem betur fer gerði hakkarinn lítið annað en að henda vírusvörninni út og setja svo falið forrit inná sem leitaði að öðrum tölvum með RealVNC og sama öryggisgalla \nSjálfur hef ég persónulega ágætis þekkingu af svona hakki og veit um þónokkrar aðferðir sem hægt er að nota til að fara inná tölvur hjá fólki. Ef maður kemst sjálfur með hendurnar í tölvuna beint getur maður t.d. sett inná hana UltraVNC en það er frekar auðvelt að fela það, maður slekkur bara á að það sýni icon í tray og hefur það keyrandi sem service. Eftir það er nóg að vita ip töluna á vélinni til að komast inn og vírusvarnir sjá yfirleitt ekkert athugavert við forritið \n Það er því miður lítið sem maður getur gert til að koma í veg fyrir svona árásir nema bara að læra almennilega á tölvuna, vita nákvæmlega hvaða forrit eru inná henni og fylgjast vel með öllu sem fer inná hana \nEf ég myndi lenda í svona aftur eða jafnvel fá eina svona vél í viðgerð til mín þá myndi ég byrja á því að taka backup af öllum gögnum og svo hafa hana bara tilbúna varnarlausa fyrir hakkarann en þegar hann kæmi inná hana þá væri gaman að sjá hvað hann myndi gera og reyna jafnvel að skemma fyrir honum t.d. með því að loka gluggum sem hann myndi opna og þess háttar \n Svo gæti maður jafnvel opnað notepad og spjallað við hakkarann í því \n En það sniðugasta væri hins vegar að finna út ip töluna hjá honum t.d. með Netstat og hafa svo bara samband við netþjónustuna hans og kæra viðkomandi fyrir árás á tölvuna (en þá væri líka best að hafa einhver gögn um árásina eins og einhverja ip logga eða slíkt).\nÉg ráðlegg annars bara öllum að fylgjast vel með öllum forritum sem eru sett inná tölvuna, passa sig t.d. að ýta ekki bara alltaf á \"Next\" og velja líka alltaf Custom til að sjá hvaða fylgihlutir eru settir inná tölvuna með sumum forritum, eins og toolbar eða eitthvað slíkt. Svo fylgist ég sjálfur mjög vel með Task Manager sem er mjög góður í Windows 7 þar sem maður getur t.d. hægrismellt í Processes listanum og farið þar í Properties á einhevrju forriti eða jafnvel Open File Location, þetta tvennt vantar í Windows XP en til að laga það þá er TaskManagerEx mjög sniðugt (maður þarf bara að muna eftir að gera exception í vírusvörninni á það).",
+            "date": "2010-05-23 19:29:00",
+            "post_id": "263284",
+            "reply_to_id": "257936"
+        },
+        {
+            "user_name": "zcar",
+            "text": "Ef þú ert sniðugur geturu sett upp Wireshark og bustað hann. Svo geturu líka sett up ZoneAlarm og reynt að pikka upp forritið - en ef um er að ræða snjallan netþrjót þá er vírusinn líklegast inni í einhverjum system fæl. T.d. svchost.exe\nSkelltu bara gögnunum á flakkara og formataðu draslið, eflaust kominn tími til þess.",
+            "date": "2010-07-22 03:05:00",
+            "post_id": "272872",
+            "reply_to_id": "263284"
+        },
+        {
+            "user_name": "SIKk",
+            "text": "prófaðu að fara í CMD og skrifa \"netstats\" án gæsalappana og skoðaðu hverjir eru tengdir þér.. postaðu því sem kemur hingað..",
+            "date": "2010-07-22 03:35:00",
+            "post_id": "272877",
+            "reply_to_id": "272872"
+        }
+    ],
+    "date": "2010-04-23 23:28:00"
+}

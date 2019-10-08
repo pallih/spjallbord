@@ -1,0 +1,51 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "53141",
+    "title": "MKV vandamál á sjónvarpsflakkara(Argosy HV339T)",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=53141",
+    "posts": [
+        {
+            "user_name": "RG3",
+            "text": "Ég er með Argosy HV339T flakkara sem ég keypti í tölvutek, ég get spilað flestar MKV file-a en að mér óskiljanlegum ástæðum eru sumir sem virka ekki. Þeir sem spilast ekki í flakkaranum spilast vel í tölvunni. \nLýsir þetta sér þannig að það er eins og þátturinn/myndin byrji, ég fæ hljóð og texta en myndin sjálf er bara svört\nEinnig veit ég til þess að sami MKV-file-inn hafi spilast vel í öðrum flakkara svo þetta er líklegast eitthvað með minn flakkara\nMig langaði því að spurja hvort að það væri einhver munur á MKV file-um, og hvort einhver hefði lausn á þessu vandamáli?\nEinnig ef einhver vissi hvort það sé eitthvað nýtt firmware til fyrir þessa týpu af flakkara sem myndi laga þetta?",
+            "date": "2013-01-31 00:45:00",
+            "post_id": "492958",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "geimapi",
+            "text": "Getur verið að hann höndli ekki \"compressed header\", eg á gamlann dvico tvix sem var þannig.\nÞá þarftu að setja upp \nmkvtoolnix\n og setja fælinn sem er með vesen í gegnum mkvmerge og velja enga þjöppun undir \"Extra options\".\nÞetta hefur ekkert með þjöppun á hljóði eða mynd að gera, en fællinn verður nokkrum kílóbætum stærri fyrir vikið.\nÞú getur allavega prófað hvort það virkar.",
+            "date": "2013-01-31 01:44:00",
+            "post_id": "492963",
+            "reply_to_id": "492958"
+        },
+        {
+            "user_name": "RG3",
+            "text": "þetta svona svínvirkaði, en er einhver leið að ég geti séð hvort file-inn sé með \"compressed header\" í tölvunni svo ég þurfi ekki alltaf að vera láta myndina fyrst inn á flakkarann og gá hvort ég geti spilað hann og ef ekki þurfi ég að gera þetta í mkvtoolnix og láta hann aftur inná flakkarann?\neða get ég breytt einhverju í flakkaranum sem gerir honum kleyft að spila alla mkv file-a?",
+            "date": "2013-01-31 10:58:00",
+            "post_id": "493000",
+            "reply_to_id": "492963"
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "Ertu búinn að prufa uppfæra ? að vísu er eitthvað bögg á argosy síðunni !",
+            "date": "2013-01-31 13:18:00",
+            "post_id": "493039",
+            "reply_to_id": "493000"
+        },
+        {
+            "user_name": "RG3",
+            "text": "já ég er með nýustu uppfærsluna samkvæmt heimasíðunni hjá argosy, sú uppfærsla er samt frekar gömul...",
+            "date": "2013-01-31 16:13:00",
+            "post_id": "493061",
+            "reply_to_id": "493039"
+        },
+        {
+            "user_name": "geimapi",
+            "text": "Ég fann þráð sem sýnir hvernig þú getur tékkað hvort það er þjappaður haus eða ekki \nhér\nFyrir sjálfvirkni, þá getur þú notað þetta \nbatch forrit",
+            "date": "2013-01-31 16:45:00",
+            "post_id": "493070",
+            "reply_to_id": "493061"
+        }
+    ],
+    "date": "2013-01-31 00:45:00"
+}

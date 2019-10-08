@@ -1,0 +1,387 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "33353",
+    "title": "Heimasjálfvirkni / HomeAutomation / Domotics",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=33353",
+    "posts": [
+        {
+            "user_name": "AntiTrust",
+            "text": "Jæja.\nNú fer að líða að því að ég flyt í eigið hús, ekki á næstu dögum eða vikum en það styttist þó. Með kaupum á húsnæði fylgir talsvert mikið meira frelsi en í leiguíbúð og \nþá fæ ég loksins tækifæri til þess að ráðast í ýmsar framkvæmdir og uppsetningar sem mig hefur lengi dreymt um. Ég kem til með að flytja í rað/parhús eða jafnvel einbýli, svo frelsið verður talsvert. \nÞessi þráður er ekki eingöngu ætlaður til minna eigin pælinga, heldur langar mig yfirhöfuð að vekja áhuga og umtal á þessu sviði þar sem ég hef lítið sem ekkert rekist á \nslíkt hérlendis. Fólk má því endilega pósta því sem það hefur gert nú þegar, eru með á plani að gera eða langar einfaldlega hjálp við að útfæra. Þar sem ég hef kynnt mér þetta örlítið (og þá meina ég ör-lítið m.v. magnið af uppl.sem hægt er að lesa um þetta) þá langar mér að útlista nokkur atriði fyrst sem ég hef rekið mig á í sambandi við þetta, ég HVET fólk til að leiðrétta mig og dæla inn upplýsingum, linkum, videoum, reviews og flr. sem tengist efninu. Það eru til nokkrar tegundir af sjálfvirknikerfum :\nRafmagnslínukerfi\n. Ódýrasta leiðin líklega til að fara í svona setup. Notast við núverandi rafmagnslínur, algengt að nota X10 staðlaðan búnað meðal annars.\nÞráðlaus kerfi\n. Segir sig sjálft, en eru hinsvegar oftast limiteruð við ljósastýringar, hita, læsingar, ekki fýsilegt til notkunar í flóknari uppsetningum.\nVíruðkerfi\n. Yfirleitt stabílustu kerfin en sömuleiðist oft þau dýrustu. Geta notast við Cat5/Cat6 kapla eða sýna eigin bus línur. Oftast kerfin sem eru sett upp þegar húsið er byggt, en auðvitað er alltaf hægt að implementa slík kerfi eftirá en það kostar yfirleitt meiri vinnu. Einn af kostunum við þessi kerfi er líka sá að þau ráða yfirleitt við mörg tasks á sama tíma, og þetta er yfirleitt closed-loop kerfi svo það er þokkalega öruggt. Tengjast líka auðveldlega við mörg mismunandi svið kerfisins. \nIP Kerfi\n. By far flóknustu kerfin, en bjóða sömuleiðist upp á langflestu möguleikana. Öryggi er einnig vandamál eins og á við öll IP kerfi, en fyrir þá sem eru þokkalega vel að sér í netkerfum ætti það ekki að vera stórt vandamál. Með IP kerfum ertu að fá stjórn yfir nokkurnvegin hverju sem þú vilt heima hjá þér, hvaðan sem er. Spurningin er í rauninni bara sú, hversu miklum tíma, hversu mikla vinnu og hversu mikla peninga ertu tilbúinn í að leggja í verkefnið.\nHúsin sem við höfum verið að skoða eru öll svipuð í layout-i svo hugsunin á bakvið svona kerfi er alltaf eins í grunninn. Það sem skiptir mig máli er að komast að því hvað \nhentar best, í hvernig uppsetningu, hvaða tæki og hugbúnað þarf til.\nAfhverju? \nÁstæðan fyrir því að ég ætla í slíkt setup er ósköp einfalt. Ég hef alltaf verið hrifinn af því að nota tækni til þess að auðvelda mér og mínum hið daglega líf. Ég hef alltaf \nverið mikið fyrir gott privacy, mikið heimaöryggi og upplýsingaflæði. Ég vill vita hverjir það eru sem eru að sniglast í kringum húsið mitt, hver það var sem hurðaði \nbílinn minn, hver braust inn til mín, hvaða tæki eru í gangi heima hjá mér, hvaða tæki vill ég að séu í gangi heima hjá mér, hvaða lag er í spilun, hvar það er í spilun, hvaða ljós eru kveikt, hvað það er heitt inni hjá mér .. Þið náið myndinni.\nGróft plan af setupinu.\nLýsing :\nÖll lýsing, bæði utan sem innanhús verður hægt að stjórna með hefðbundnum rofum, með raddstýringu, með fjarstýringu/snjallsíma/lófatölvu/fartölvu í gegnum e-rskonar miðlæga hugbúnaðarstýringu. Helst í gegnum netið líka. Sjálfvirk lýsing tengd við tímarofa og hreyfiskynjara við innkeyrslu og utandyra þegar bílum er ekið í stæði eða labbað er inn í garð afturfyrir girðingu, hvort sem það er fyrir framan eða aftan hús.\nHljóðkerfi :\nVerða hátalarar í öllum herbergjum, annaðhvort í loftum eða í veggjum. 1-4 hátalarar í hverju herbergi, fer eftir stærð. Allir tengdir saman í eitt unified kerfi. Ég vill geta \nsett á hvaða lag sem er af servernum hjá mér í hvaða herbergi sem er, eða e-ð af öðrum input sources í húsinu. Ég vill líka geta sett á sitthvort lagið í sitthvoru herberginu ef mér sýnist, og sömuleiðist vill ég geta sett sama lagið á í öllum herbergjum á sama tíma, aka \"Party Mode\". Þessu vill ég geta stjórnað með raddstýringu, úr lappa/snjallsíma eða í gegnum netið.\nMyndspilun :\nLíklega verður sér bíóherbergi þar sem skjávarpinn verður ásamt heimabíókerfi, sem verður ekki partur af húshljóðkerfinu. Hversu mikið þetta tvennt verður stillt inn á \nkerfið er aukaatriði, hinsvegar verður HTPC vélin helst raddstýrð eða sími/fartölva til að stjórna XBMC interface-inu. Sérstaklega verður lagt uppúr ljóstastýringum inn í þessu herbergi, líklega myndi ég hafa þarna faldar LED lýsingar útum allt, með bæði breytanlegu birtustigi sem og litum, breytanlegt frá miðlægu stýringunni.\nÖryggiskerfi :\nSamansafn af hreyfiskynjurum og öryggismyndavélum. Hreyfiskynjarar sjá um að triggera hefðbundin þjófavarnarkerfi og kveikja ljós, garður, bílastæði etc. Öryggismyndavélar yrðu síðan í völdum herbergjum innanhús, og beint á valda staði utanhús svosem á bílastæði, garð og inngang. Verða stilltar á að taka upp við hreyfingu og láta vita með SMSi/MMS/emaili þegar hreyfingar verður vart innan ákveðinna tímaramma. Dyralásinn á hurðinni yrði fingrafaralesari+digital talnalás. Ekki eins dýrt í framkvæmt og margir vilja halda.\nGluggatjöld :\nRafstýrð gluggatjöld allstaðar, stjórnað með raddstýringu eða miðlægri fjarstýringu.\nHitastig : \nHvort sem það endar með gólfhita eða ofnum eru til lausnir til að fjarstýra slíku með aftermarket stýringum. Þessu myndi ég vilja stjórna bæði sjálfur úr miðlægri stýringu sem og láta tengjast við veðurspár og stilla sig eftir því. Þetta er e-ð sem ég hef séð og er vægast sagt svalur fítus.\nSímkerfi :\nMeð hátölurum í hvert herbergi myndi ég setja míkrófóna. Það eru til sérstakir míkrófónar til þessa sem eru echo-canceling. Þeir kosta aðeins meira en nauðsynlegir fyrir svona speakerphone setup. Það verður hægt að hringja/sjá hver er að hringja í hvaða herbergi sem er í gegnum upplýsingar á sjónvarpi eða á miðlægu stýringunni. Hægt verður að senda símtöl á milli herbergja. Vill geta svarað símtölum bæði með fjarstýringu og raddstýringu.\nAuðkenni :\nBill Gates-þemað í húsinu. Þetta hljómar óraunverulegt, en ég er búinn að skoða þetta þónokkuð og þetta virkar ekki það flókið né dýrt í uppsetningu. RFID kort sýna hver er í húsinu, og hvar hann er. Kerfið getur fylgt RFID kortinu eftir og veit því alltaf hver er hvar, hvaða raddstýringar eiga við hvar. Bílarnir fengu báðir slík kort og því gæti ég alltaf séð bæði heima og í gegnum netið hvaða bílar eru heima t.d. \nNetkerfi :\n1-10Gbit lagnir í hvert herbergi. Miðlægur netþjónn sem sér um allar þær virtual vélar sem sjá um húsið og kerfin. Geymir öll gögn, tónlist, ljósmyndir, myndbönd sem hægt yrði að nálgast hvar sem er í húsinu. Stórir/öflugir varaaflgjafar á bakvið þær þjónustur sem mega hvað síst detta út, öryggis og ljósakerfi t.d.\nAllt þetta hér f. ofan er nokkurnveginn það sem ég hef í huga sem draumasetup í framtíðarhúsi. Ég geri mér grein fyrir því að margt af þessu er talsvert kostnaðarsamt, en sumt af þessu krefst hreinlega lítils annars en lítilla fjárútláta en mikils fikts, tíma og vinnu.\nAðalvandamálið er ástæðan fyrir því að ég posta þessu hér inn, að finna hugbúnað og hardware til að sjá um sem flest af þessu, og að það tvennt gangi saman með sem minnstu skítamixi og með sem minnstri forritun. Ég kem til með að posta svipuðum þræði á erlend forums þar sem ég veit það fyrir víst að það er lítil reynsla á svona uppsetningum hérna heima. Fyrst og fremst set ég mitt tilvonandi setup hingað inn til að fá inn feedback frá ykkur, hvað af þessu vitiði hvernig er gert, hvað af þessum búnaði sem ég þarf er hægt að fá hérna heima og hvar, \nhvað af þessu mynduð þið breyta eða hverju mynduð þið bæta við?\nÉg kem svo til með að uppfæra þennan þráð eftir því sem ég kynni mér þetta betur, kynnist nýjum kerfum og fer í betaprufur á því sem mér líst best á.",
+            "date": "2010-10-25 02:39:00",
+            "post_id": "290622",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "[X] Þú ert sjúkur maður  \n \nEn af forvitni: Þegar þú segir RFID til að sjá hverjir eru heima - ætlarðu að láta alla græða í sig RFID chip eða hvað?",
+            "date": "2010-10-25 02:50:00",
+            "post_id": "290623",
+            "reply_to_id": "290622"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Ánægður með þetta framlag hérna á vaktina.Fylgist spenntur með update-i frá þér.",
+            "date": "2010-10-25 03:04:00",
+            "post_id": "290624",
+            "reply_to_id": "290623"
+        },
+        {
+            "user_name": "Kobbmeister",
+            "text": "Vá.... Örugglega drauma uppsetning á húsi hjá flestum á þessu spjalli",
+            "date": "2010-10-25 03:11:00",
+            "post_id": "290627",
+            "reply_to_id": "290624"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Satt að segja væri ég viðbjóðslega til í að fá að smella einu hylki í hundinn og konuna - en það gæti hinsvegar orðið trikkí nema svæfa hvorutveggja. Það eru hinsvegar til litlir RFID límmiðar/spjöld sem hægt væri að nota til þessa. Í draumalandinu mínu er líka RFID chip á lyklakippunni minni, fjarstýringum og veski.",
+            "date": "2010-10-25 09:14:00",
+            "post_id": "290636",
+            "reply_to_id": "290627"
+        },
+        {
+            "user_name": "Haxdal",
+            "text": "Bara við að lesa þetta fékk mig til að langa að kaupa hús og fikta við svona",
+            "date": "2010-10-25 09:48:00",
+            "post_id": "290638",
+            "reply_to_id": "290636"
+        },
+        {
+            "user_name": "dori",
+            "text": "Eru dælulyklar ekki RFID? Þá ætti fullt af fólki að vera með það fyrir. Annars er það mögnuð hugmynd að hafa rfid á hlutum eins og fartölvum/fjarstýringum/lyklakippum/símum etc. og geta svo fundið út sirka hvar hlutir eru þegar þú týnir þeim \nHvað kosta RFID skynjarar?",
+            "date": "2010-10-25 10:43:00",
+            "post_id": "290641",
+            "reply_to_id": "290638"
+        },
+        {
+            "user_name": "AndriKarl",
+            "text": "Í Mythbusters var þesu bara skotið í (í kringum 3:15)\nhttp://www.youtube.com/watch?v=BXSGqo_uH2g",
+            "date": "2010-10-25 10:53:00",
+            "post_id": "290644",
+            "reply_to_id": "290641"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Það eru til ótal mismunandi RFID týpur, en þær eru yfirleitth hræódýrar. Sendarnir sjálfir sem senda út púlsa í RFID gætu hinsvegar verið e-rju dýrari, á eftir að skoða verðmiðann á þessu. Annars var ég að rekast á helv. töff upps. með RFID, sem virkaði þannig að hurðar opnuðust sjálfkrafa þegar RFID var nálægt. Ef hurðin var opnuð öðruvísi fóru myndavélar að taka upp.\nÞað fyrsta sem rak mig á þegar ég fór að skoða þetta á sínum tíma var LinuxMCE. Ég skoðaði það voðalega takmarkað á sínum tíma en nú er nýkomin út ný útgáfa sem ég er að setja upp heima á virtual vél as we speak, ætla að skoða það vel. Veit að það býður upp á símkerfi, hljóðkerfi og líklega myndsendingar á milli herbergja og remote stjórnun með ýmsum snerti-interfacum og símum. Pósta svo minni reynslu af þessu hingað inn, eins mikið og ég get fiktað á virtual vél.",
+            "date": "2010-10-25 11:03:00",
+            "post_id": "290646",
+            "reply_to_id": "290644"
+        },
+        {
+            "user_name": "gissur1",
+            "text": "Pirrandi ef maður er með gesti",
+            "date": "2010-10-25 11:06:00",
+            "post_id": "290647",
+            "reply_to_id": "290646"
+        },
+        {
+            "user_name": "Jimmy",
+            "text": "Hugsa ad thu gaetir lika fengid hellings uppl. i gegnum felagana hja S.Gudjonsson eda Iskraft um Funkbus/Instabus/In-One, skal alveg endilega fa ad fljota med ef thu akvedur ad kikka a tha",
+            "date": "2010-10-25 11:44:00",
+            "post_id": "290652",
+            "reply_to_id": "290647"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Það yrði líklega lítið af þessu gert nema með þér hvort sem er \nHinsvegar var húsið sem við vorum að skoða að seljast, svo leitin er byrjuð aftur. Hrmpf.",
+            "date": "2010-10-25 12:40:00",
+            "post_id": "290654",
+            "reply_to_id": "290652"
+        },
+        {
+            "user_name": "Olafst",
+            "text": "hefuru skoðað búnaðinn sem Control4 býður uppá?\nSá þetta á einni kynningu fyrir nokkrum vikum. Lúkkaði frekar töff.\npromo video:\nhttp://www.youtube.com/watch?v=dOAsE-LG-ic\nhttp://www.youtube.com/watch?v=cG5EiQEA0Po\nhttp://control4.com/",
+            "date": "2010-10-25 12:41:00",
+            "post_id": "290655",
+            "reply_to_id": "290654"
+        },
+        {
+            "user_name": "jagermeister",
+            "text": "vá hvað þetta er óendanlega töff",
+            "date": "2010-10-25 17:46:00",
+            "post_id": "290698",
+            "reply_to_id": "290655"
+        },
+        {
+            "user_name": "birgirdavid",
+            "text": "Mig minnir að Sense.is sé með svona stjórnkerfi til að stórna ljósum,hita,dyrasíma,öryggi,tónlist,sjónvarp og fleira \n \nhttp://sense.is",
+            "date": "2010-10-25 17:55:00",
+            "post_id": "290704",
+            "reply_to_id": "290698"
+        },
+        {
+            "user_name": "gardar",
+            "text": "http://video.google.com/videoplay?docid ... 829&hl=en#\nfrekar nice setup á íbúð í þessu myndbandi",
+            "date": "2010-10-25 18:22:00",
+            "post_id": "290709",
+            "reply_to_id": "290704"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Þú varst ekkert að skipta um vinnustað var það?\nÞetta hljómar skuggalega líkt plönunum hjá einum \"nýjum\" í vinnunni hjá mér...",
+            "date": "2010-10-25 18:35:00",
+            "post_id": "290711",
+            "reply_to_id": "290709"
+        },
+        {
+            "user_name": "fannar82",
+            "text": "Hvernig gékk þetta hjá þér Antitrust?\nertu eitthvað búinn að skoða þetta frekar?",
+            "date": "2010-11-18 16:12:00",
+            "post_id": "296457",
+            "reply_to_id": "290711"
+        },
+        {
+            "user_name": "Arnarr",
+            "text": "EIB! oft kallað instabus líka. Getur stjórnað öllu frá hljóði yfir í gardínur, allt forritanlegt. Getur fengið samskipta einingar til að tala við síma, ip og margt MARGT fleira!\n \nMargir umboðsaðilar hér á íslandi.\nhttp://www.viking.is/Instabus/index.htm\n gamalt en \nhttp://en.wikipedia.org/wiki/European_Installation_Bus\nHellingur á youtube líka!",
+            "date": "2010-11-18 16:48:00",
+            "post_id": "296462",
+            "reply_to_id": "296457"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "þetta plan er virkilega út pælt hjá þér. en varstu búinn að hugsa hvernig kerfi það á að vera fyrir gardínurnar, ljósin, hitann og allt það?\nmyndi halda að instabus væri perfect fyrir það verk. en það kostar nokkuð mikið. ss. einn snertiskjár með 6 rofum kostar sirka 80 þúsund var kennari að segja mér um daginn.\nen ef þú ferð í þetta og vantar mann þá er ég game í að hjálpa ef ég er laus!!!",
+            "date": "2010-11-18 21:28:00",
+            "post_id": "296529",
+            "reply_to_id": "296462"
+        },
+        {
+            "user_name": "Black",
+            "text": "Hvað segiru konan við þessu ?",
+            "date": "2010-11-19 06:03:00",
+            "post_id": "296605",
+            "reply_to_id": "296529"
+        },
+        {
+            "user_name": "steinarorri",
+            "text": "Hvað sem þú gerir ekki fá þér þetta kerfi: \nhttp://simpsons.wikia.com/wiki/Ultrahouse_\n    Það endaði frekar illa.\nAnnars er þetta flott hugmynd hjá þér og vonandi fáum við update á því hvernig málin standa í þessu",
+            "date": "2010-11-19 17:17:00",
+            "post_id": "296731",
+            "reply_to_id": "296605"
+        },
+        {
+            "user_name": "gottlieb78",
+            "text": "Hvað er að frétta af þessu projecti???",
+            "date": "2013-01-29 10:22:00",
+            "post_id": "492519",
+            "reply_to_id": "296731"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Amen.\nÞetta er einn áhugaverðasti þráður sem ég hef séð hér á bæ.\nVar einmitt að flytja í íbúð sjálfur, væri mjög mikið til í að fara að pæla í svona möguleikum.\nVæri mjög gaman að byrja á því að gera automated ljós í loftin.",
+            "date": "2013-01-29 10:42:00",
+            "post_id": "492522",
+            "reply_to_id": "492519"
+        },
+        {
+            "user_name": "Tbot",
+            "text": "Allt svona kostar gríðarlega.  hvert einasta stykki í EIB er í tugum þúsunda.\nMan eftir húsi með GE skjástýringu sem bilaði svo það var ekki hægt að kveikja á einu einasta ljósi, nema 2 sem voru bara með gamla góða rofa system-inu.",
+            "date": "2013-01-29 11:03:00",
+            "post_id": "492525",
+            "reply_to_id": "492522"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Ef þú ætlar að gera eitthvað, þá skaltu gera það rétt - er augljóslega þitt motto haha, kudos man, láttu vita ef þig vantar e-h aðstoð.",
+            "date": "2013-01-29 11:23:00",
+            "post_id": "492528",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "vesley",
+            "text": "Gaman að sjá þráð eins og þennan aftur á yfirborðinu. \nÉg og pabbi höfum verið að skoða dáldið mikið með Instabus kerfið og erum mjög heillaðir af því. \nhttp://www.viking.is/Instabus/index.htm\nhttp://www.sg.is/gogn/instabus_kerfid.pdf\nÉg átti til fullt af bæklingum og dóti um þetta en man bara ekki hvað ég gerði við þá.",
+            "date": "2013-01-29 11:41:00",
+            "post_id": "492533",
+            "reply_to_id": "492528"
+        },
+        {
+            "user_name": "tdog",
+            "text": "Ég hef unnið mikið með FunkBus. LoveIT",
+            "date": "2013-01-29 12:17:00",
+            "post_id": "492537",
+            "reply_to_id": "492533"
+        },
+        {
+            "user_name": "roadwarrior",
+            "text": "Þeir sem eru að velta fyrir sér einhverju í þessa átt bendi ég á þetta:\nhttp://www.coco-technology.com/en/home/\nJohan Ronning Klettagörðum 25 er að selja þessa línu og þar á meðal stjórnstöðina sem hægt er að nota með Apple og Android\nOg þetta er ekki dýrt miðað við ýmsa aðra möguleika \n \nTek það fram að ég vinn hjá JR.",
+            "date": "2013-01-29 12:46:00",
+            "post_id": "492546",
+            "reply_to_id": "492537"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Úff, ef ég væri að byggja í dag þá fengi svona kerfi hærri forgang hjá mér heldur en pípulagnir!",
+            "date": "2013-01-29 12:59:00",
+            "post_id": "492550",
+            "reply_to_id": "492546"
+        },
+        {
+            "user_name": "dandri",
+            "text": "Þetta er vægast sagt áhugavert, ég hef pælt í sjálfvirkum kerfum fyrir heimilið en það var bundið við dót eins og ljós, öryggiskerfi, gera tæki á heimilinu sjálfvirk eins og þvottavél, uppþvottavél, láta gardínur lokast sjálfkrafa/opnast eftir því hvaða tími dagsins er.",
+            "date": "2013-01-29 13:57:00",
+            "post_id": "492568",
+            "reply_to_id": "492550"
+        },
+        {
+            "user_name": "Xovius",
+            "text": "Sjálfvirk ljós á útikamrinum?",
+            "date": "2013-01-29 14:23:00",
+            "post_id": "492576",
+            "reply_to_id": "492568"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Gleymist ekki að hugsa um varafl, upsa o.þ.h.\nBara ljósvél í niðurgrafinn kjallara undir bílskúrnum, tvær rafmagnstöflur/inntök og upsa við hverja töflu og annan við ljósavélina (ef það kæmi spækur)",
+            "date": "2013-01-29 15:10:00",
+            "post_id": "492588",
+            "reply_to_id": "492576"
+        },
+        {
+            "user_name": "Klaufi",
+            "text": "Ef ykkur vantar alvöru búnað í svona dæmi, þ.e:\n-Snertiskjái sem eru með ethernet og vef server og bjóða upp á alvöru I/O.\n-Iðntölvur.\n-Relay.\n-Industrial PC vélar.\n-Panel PC vélar.\nEða álíka endilega verið þá í bandi \nÆtti að geta útvegað flest nema þráðlausan búnað ef einhver er í hugleiðingum um að smíða kerfi en kaupa ekki tilbúið.\nOg já í ábyrgð hér heima, er umboðsaðili.",
+            "date": "2013-01-29 19:57:00",
+            "post_id": "492688",
+            "reply_to_id": "492588"
+        },
+        {
+            "user_name": "dabbiso",
+            "text": "Þeir sem eru að pæla í að fjárfesta í Instabus... Hafið þið gert ykkur ferð og athugað hvað það kostar?\nMargfalt sniðugara að dunda sér í því sjálfur eins og Klaufi nefnir hér á undan",
+            "date": "2013-01-29 20:35:00",
+            "post_id": "492699",
+            "reply_to_id": "492688"
+        },
+        {
+            "user_name": "Kristján",
+            "text": "Ég mæli með að gera nýjann flokk undir svona verkefni.\n\"home improvement\" væri awesome nafn.\nþað eru örugglega hellingur af ykkur sem er að gera eitthvað svona og það ætti að vera flokkur undir þetta",
+            "date": "2013-01-31 18:55:00",
+            "post_id": "493095",
+            "reply_to_id": "492699"
+        },
+        {
+            "user_name": "Saber",
+            "text": "Ég væri lélegur starfskraftur ef ég myndi ekki nefna \nAMX\n, sem við í Exton erum með umboðið fyrir. Kostar arm og legg og þarf nánast mann í fullri vinnu við að service-a, en getur stýrt öllu og fully customize-able.",
+            "date": "2013-01-31 19:17:00",
+            "post_id": "493097",
+            "reply_to_id": "493095"
+        },
+        {
+            "user_name": "vesley",
+            "text": "Það fer ekkert hver sem er að dunda sér í iðntölvu  \n \nInstabus er nú að vissu leyti iðntölvu \"based\" búnaður.",
+            "date": "2013-01-31 19:46:00",
+            "post_id": "493100",
+            "reply_to_id": "493097"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Þetta fór styttra en ég ætlaði, endaði með að kaupa fullbúna íbúð í fjórbýli fremur en að fara í óklárað einbýli - það kemur næst (já eða bara að byggja frá grunni, eftir eigin sérvisku.)\nÞað eina sem er orðið automated er í rauninni bara það sem tengist tölvum og símum, þ.e. ég er með minn server cluster heima þar sem m.a. allt niðurhal á media er algjörlega automatískt og ég þarf ekki að gera neitt annað en að setjast fyrir framan e-rja Plex útstöðina / HTPC hjá mér og fara í recently added. Ekkert merkilegra en það í rauninni, nema jú eftirlitsmyndavél sem róteitar sjálf 350° á x - sek fresti og tekur upp alla hreyfingu fyrir ofan 1m (svo ég sé ekki að sanka að mér upptökum að hundunum að leika sér heima á daginn) og sjálfvirk afritun á öllum tækjum yfir á bæði centralized dedicated RAID stæðu sem hendir svo öllu mikilvægu þaðan yfir á SkyDrive. Ekkert til að hrópa húrra fyrir. Svo eins og áður nota ég Squeezebox til að spila multiroom audio í gegnum íbúðina, amk þar til Plex kemur með þennan fítus.\nThinkpad vélin mín ræsir sig og loggar sig inn sjálfkrafa þegar ég geng inn heima með aðstoð frá bluetooth proximity login function (ef hún er docked) og HTPC vélar ræsa sig um leið og þær detecta annaðhvort ræsingu á tabletinu (sem er aðallega notað fyrir media control) og/eða þegar ég eða kærastan koma heim og símarnir tengjast WiFi.\nÞað sem angrar mig alveg rosalega við allt þetta automation dæmi er hversu VIÐ-BJÓÐ-SLEGA dýrt þetta er - og það sem mér finnst verst er að ég sé ekki réttlætinguna á því. Af öllu sem ég hef séð í boði hérna heima þá líst mér langbest á COCO kerfið, og kem líklega til með að COCO-væða núverandi heimili. Það er þó langt, langt í frá að vera eins fullkomið eða samtvinnað og ég vill hafa það, og nánast beinlínis í kjölfarið á þeim pirring mínum að geta ekki nálgast þokkalega samtvinnað, auðuppsetjanlegt og fair prísað home automation kerfi árið 2013 - hef ég ákveðið að fara í tölvunarfræðina í HR og gera þetta bara sjálfur.  Kominn með heilu möppurnar í OneNote af glósum og diagrams af því sem koma skal - núna þarf ég bara málningu (aka forritunarkunnáttu) fyrir strigann minn.\nEn ég styð alveg heilshugar sér subforum fyrir hverskyns automation ferli, frá einföldustu ferlum (NFC setups etc) uppí flókin ***bus kerfi.",
+            "date": "2013-01-31 20:07:00",
+            "post_id": "493105",
+            "reply_to_id": "493100"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "Þetta er einmitt það sem ég var að spá þegar ég las í gegnum þennan þráð. Ég mundi aldrei kaupa e-ð proprietary kerfi sem ég gæti ekki fiktað í sjálfur, ég yrði að fá að gera þetta sjálfur. Væri fínt ef það væri eitthvað open-source dæmi sem hægt væri að byggja á.\nFinnst samt óþarfi að vera með subforum bara fyrir svona því þetta er eini þráðurinn sem ég man eftir sem fjallar um þetta. Hins vegar væri kannskið sniðugt að smella einum DIY-flokki inn og þar gætu menn sýnt það sem menn eru að gera sjálfir. Sérsmíðaðir/moddaðir kassar, hugbúnaður, bílabreytingar, svona home automation verkefni ásamt mörgu öðru gæti átt heima þar. Bara hugmynd...",
+            "date": "2013-01-31 20:19:00",
+            "post_id": "493108",
+            "reply_to_id": "493105"
+        },
+        {
+            "user_name": "Klaufi",
+            "text": "Ladder forritun er ekkert annað en að koma rökhugsun í línur..\nEf þú gefur þér tíma í það þá er það megasimpílt..\nÞað sem ég þoli ekki við þessar tilbúnu lausnir er hvað allt er lokað og styður ekki hvaða nema sem er etc..\nEf ég væri að fara í svona setup þá myndi ég nota iðntölvu + snertiskjá með innbyggðum server.\nÞ.e. getur farið inn á snertiskjáviðmótið í gegnum hvaða browser sem er á hvaða tæki sem er.\nGetur sparað fullt af pening og sett bara upp vefsíðu og hýst hana á RaspPI eða hvaða vél sem er og látið hana tala við iðntölvu í gegnum Modbus TCP yfir ethernet.\nGet sett upp dæmi fyrir búnað ef þið komið með dæmi af húsi/íbúð og hvað á að gera..\nEinnig myndi ég nota venjulega þrýstirofa í allar dósir þar sem þyrftu að vera rofar, og tengja þá á innganga, nota svo fórnarrelay við útgangana til að kveikja ljós etc.\nÓdýrt 433mhz relay borð til að taka við þráðlausum nemum og henda inn á innganga á tölvu.\nSkrifað í flýti, fer yfir þetta á eftir!",
+            "date": "2013-01-31 20:57:00",
+            "post_id": "493113",
+            "reply_to_id": "493108"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Mætti ég forvitnast hvernig þú útfærðir þetta, þ.e að detecta þegar símarnir tengjast WIFI?",
+            "date": "2013-01-31 21:10:00",
+            "post_id": "493115",
+            "reply_to_id": "493113"
+        },
+        {
+            "user_name": "Klaufi",
+            "text": "Velti þessu svolítið fyrir mér.\nÞeir Vaktarar sem versla búnað af mér í svona verkefni fá fría forritun og support til að koma því alveg up and running.\nGef ekki afslátt af búnaði þar sem ég þoli ekki verðlagningu hjá heildsölum þar sem það þarf ekki annað en að minnast á afslátt og þú færð 30% af!\nEitt sanngjarnt verð og búið, þjónustuna má alltaf semja um frekar..\n*Edit*\nEkki reyna að skilja mig sem hlutdrægan þó ég sé það.\nÉg vill að menn finni bestu lausnina \nfyrir sig og sitt verkefni\n, ekkert hentaði mér svo ég náði í umboð hjá einum stærsta iðntölvu/snertiskjá framleiðanda í heimi og fékk þar með það sem hentaði mér..",
+            "date": "2013-02-01 22:34:00",
+            "post_id": "493291",
+            "reply_to_id": "493115"
+        },
+        {
+            "user_name": "Hrotti",
+            "text": "mér lýst svívirðilega vel á þennann þráð.",
+            "date": "2013-02-02 03:10:00",
+            "post_id": "493318",
+            "reply_to_id": "493291"
+        },
+        {
+            "user_name": "rango",
+            "text": "s.s. Ég get gert mér glaðan dag ef ég skríð um eins og hundur?",
+            "date": "2013-02-02 04:03:00",
+            "post_id": "493322",
+            "reply_to_id": "493318"
+        },
+        {
+            "user_name": "dori",
+            "text": "Ef þig langar að hanga á gólfinu allan tímann. Örugglega ekki margt markvert í þeirri hæð sem þú getur stolið \nVantar þig hundadalla?",
+            "date": "2013-02-02 10:41:00",
+            "post_id": "493335",
+            "reply_to_id": "493322"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Símar með fasta ip tölu? einhverskonar ping aðgerð? Ætti ekki að vera flókið.",
+            "date": "2013-02-02 10:46:00",
+            "post_id": "493336",
+            "reply_to_id": "493335"
+        },
+        {
+            "user_name": "dori",
+            "text": "Það er miklu skynsamlegra að útfæra það með því að skoða hvaða tæki hafa tengst netinu (getur séð það hjá routernum) og hvað þau tæki heita.",
+            "date": "2013-02-02 11:32:00",
+            "post_id": "493342",
+            "reply_to_id": "493336"
+        },
+        {
+            "user_name": "GrimurD",
+            "text": "Kallast Wake On Lan, flest móðurborð sem styðja þetta og til hellingur af android apps sem senda boð um að gera þetta um leið og þau tengjast wifi. Eins og t.d. \nþetta\n.",
+            "date": "2013-02-02 14:48:00",
+            "post_id": "493367",
+            "reply_to_id": "493342"
+        },
+        {
+            "user_name": "Kristján",
+            "text": "Sælir\nLinus var að senda myndband á NCIX rásina sína um Insteon sem er með alskonar tæki og tól til að gera húsið sitt sjálfvirkt.\nMyndbandið:\nhttps://www.youtube.com/watch?v=HKZtYEkU5Jc\nInsteon:\nhttp://www.insteon.net/index.html\nSmarthome, systur fyrirtæki Insteon\nhttp://www.smarthome.com/_/index.aspx\nEr þetta ekki fínt til að byrja á virðist ekki vera dýrt.",
+            "date": "2013-02-16 09:07:00",
+            "post_id": "495747",
+            "reply_to_id": "493367"
+        },
+        {
+            "user_name": "gottlieb78",
+            "text": "Sælir \"Vaktarar\"\nMér líst rosalega vel á þennan þráð. Ég gerði mér ekki alveg grein fyrir því fyrr en núna að það var komið 2,5ár síðan AntiTrust stofnaði þennan þráð - þegar ég vakti hann upp aftur  \n \nÉg hef sjálfur aðeins verið að fikta í þessu \"home automation\" en ekki dottið alveg niðrá fullkomnu lausnina - þeas. ef hún sé til, sem ég efast nú um.\nEins og er er ég kominn með eftirfarandi:\nEinhverjar ljósastýringar, ég er kominn með rofa og dimmer á nokkur ljós. Þetta er stýrt með z-wave modules \nhttp://www.z-wave.com/\nGrunn öryggiskerfi, hreyfiskynjara (z-wave), hurðaskynjara (z-wave) og 2x IP myndavélar (Foscam). \nSendi Infrared signal í öll tæki í stofunni með iTach \nhttp://www.globalcache.com/products/itach/\nHita-, raka-, BBQ, og heita potts mæla frá Oregon Scientific, pikka 433mHz upp með RFXCOM transceiver \nhttp://www.rfxcom.com/\nSíðan er ég með Linux server sem hýsir allt media efni og backup sem er síðan streymt á 3 mismunandi stöðum í húsinu með XBMC. Á þessum server er ég einnig  með automatic download. \nÞessum herlegheitum get ég síðan stjórnað með 2x iPhone og 2x iPad. Ég hef notast við HSPRO frá Homeseer \nhttp://store.homeseer.com/store/HomeSeer-HSPRO-Home-Automation-Software-Upg-from-v1x-P757C5.aspx\n sem virðist vera flott software með fullt af 3rd party addons - en dálítið dýrt að mínu mati. En ég get fully customizað server side útlitið og function með HSTouch.\nÉg held að Instabus sé besta kerfið í dag en það er rosalega dýrt að fara út í það + að þú ert ekkert að fara leggja það í eldra hús.\n\"roadwarrior\" ég þarf að kíkja betur á þetta. Ég sé að ég get notað RFXCOM transceiver-inn minn til að hafa samskipti við coco. Sá ekkert um þetta á heimasíðunni ykkar - mátt endilega senda mér meira info.\nÞað sem mig langar til að gera frekar er að koma ljósastýringum á allt húsið - þar sem ég er að fara flytja eftir 6 vikur þá geri ég ekkert á næstunni, fyrr en ég er kominn á nýja staðinn. \nÖryggiskerfið þarf ég að setja upp á nýtt. Vill geta fengið meldingu ef að gluggi er opinn þegar ég \"arma\" kerfið, slökkt öll ljós á leiðinni út og þess háttar ásamt fleiru.\nHljóðkerfi í allt húsið er eitthvað sem mig vantar - einhverjar hugmyndir???\nHugsa að ég fái mér living connect by danfoss til að stjórna hitastigi í húsinu, (er z-wave compatable) stk. kostar ca 50pund.\nVar heitur þegar AntiTrust var að tala um RFID - á eftir að kíkja betur á það.\nEndilega fá þessa umræðu í gang og deila upplýsingum hérna um hvað menn eru að gera og vilja gera...\nlater......",
+            "date": "2013-03-13 15:55:00",
+            "post_id": "499937",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "ZiRiuS",
+            "text": "Hvað er þetta að kosta þig?",
+            "date": "2013-03-13 16:14:00",
+            "post_id": "499938",
+            "reply_to_id": "499937"
+        },
+        {
+            "user_name": "K1P0",
+            "text": "Hefurðu verið að versla þetta beint af \nhttp://www.z-wave.com/\n eða er einhver að selja þetta hérna heima ?",
+            "date": "2013-03-28 13:27:00",
+            "post_id": "502491",
+            "reply_to_id": "499938"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "www.smarthus.is",
+            "date": "2013-03-28 14:12:00",
+            "post_id": "502503",
+            "reply_to_id": "502491"
+        }
+    ],
+    "date": "2013-03-13 15:55:00"
+}

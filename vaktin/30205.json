@@ -1,0 +1,44 @@
+{
+    "forum_title": "Windows",
+    "id": "30205",
+    "title": "Að setja Windows upp á nýtt.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=30205",
+    "posts": [
+        {
+            "user_name": "playmaker",
+            "text": "Núna er ég búinn að kaupa tölvu sem mig langar að strauja og setja upp á nýtt. Ég fékk enga drivera diska eða neitt svoleiðis með vélinni, bara windows diskana. Er nokkuð mál að formata diskinn, setja windows upp og svo að ná í alla drivera á netinu eða væri betra að vera með drivera diska eins og fyrir skjákort og þess háttar? Þarf einhverja drivera fyrir móðurborð og örgjörvann?\nÞakkir Playmaker",
+            "date": "2010-05-16 11:24:00",
+            "post_id": "261982",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "ef þetta er allt frekar nýlegt þá ætti ekki að vera vandamál að downloada þessu.\nen mæli með að ná í hljóð og skjákorst driver sér, w7 ætti að installa öllu öðru.",
+            "date": "2010-05-16 11:27:00",
+            "post_id": "261983",
+            "reply_to_id": "261982"
+        },
+        {
+            "user_name": "playmaker",
+            "text": "Já ég er með win7 á diskum. Þá er þetta bara spurning um að setja það upp og svo að installa driverum fyrir skjákort og hljóð af netinu?",
+            "date": "2010-05-16 11:29:00",
+            "post_id": "261984",
+            "reply_to_id": "261983"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Fyrir þá sem aldrei hafa gert þetta áður get ég ímyndað mér að þetta geti verið snúið á köflum, en annars er þetta einföld aðgerð svosem.\nEn þú verður að athuga að ef þú formattar tölvuna þá er ólíklegt að þú komist á netið fyrr en þú hefur sett upp Network Card driverinn, hugsanlega er Windowsið þó með drivera fyrir það, en ekki alltaf.\nÞað þarf jú alltaf drivera tengda móðurborði, chipset drivera, onboard hljóðkortsdriveraa, onboard NIC (Network Card) drivera, onboard skjástýring ef hún er til staðar, storage controller drivera þarf líka oft og margt fleira svosem, fer eftir borðum.\nLangsniðugast að sækja driverana á USB bara áður en þú formattar. \nTips : Reyndu að nota sem minnst af þeim driverum sem Windows setur upp fyrir þig sjálfkrafa, ef það eru til 3rd party driverar fyrir íhluti.",
+            "date": "2010-05-16 11:31:00",
+            "post_id": "261985",
+            "reply_to_id": "261984"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "ja. heimasíðu móðurborðins fyrir hljóð og nvidia.com eða ati.com fyrir skjákortið",
+            "date": "2010-05-16 11:31:00",
+            "post_id": "261986",
+            "reply_to_id": "261985"
+        }
+    ],
+    "date": "2010-05-16 11:24:00"
+}

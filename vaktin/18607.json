@@ -1,0 +1,37 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "18607",
+    "title": "Sér ekki hörðu diskana",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=18607",
+    "posts": [
+        {
+            "user_name": "Predator",
+            "text": "Ég er með 4 harða diska tengda við tölvuna hjá mér 2x IDE og 2x Sata. Ég var að formata í dag úr vista yfir í xp og xp sér ekki Sata diskana mína. Eitthverjar uppástungur um það hvað ég get gert til að laga það?",
+            "date": "2008-07-12 20:37:00",
+            "post_id": "177875",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Í My Computer>Hardware>Device Manager, stendur semsagt ekkert í +Disk drives?\nErtu viss um að vera ekki bara í +IDE/ATA/ATAPI boxinu?\nOg í hvaða disk ertu með stýrikerfið uppsett? IDE eða Sata?",
+            "date": "2008-07-12 21:31:00",
+            "post_id": "177879",
+            "reply_to_id": "177875"
+        },
+        {
+            "user_name": "dorg",
+            "text": "Vantar ekki bara driver fyrir sata diskcontrollerinn í XP",
+            "date": "2008-07-24 13:45:00",
+            "post_id": "178639",
+            "reply_to_id": "177879"
+        },
+        {
+            "user_name": "IL2",
+            "text": "XP ætti að sjá Sata diskana hjá þér á erfiðleika. Prófaðu að taka þá úr og starta tölvunni upp aftur, þá ætturðu að sjá báða Ide diskana án erfiðleika. Tengdu svo bara einn Sata disk í einu.\np.s Hvað með móðurborðið. Hefurðu athugað drivera á það. Ætti svo sem ekki að vera vandamál. \np.p.s ef þú ert að reyna setja Xp upp á Sata diskunum gengur það ekki nema að setja Sata Xp drivera á diskettum upp fyrst.",
+            "date": "2008-07-24 14:22:00",
+            "post_id": "178644",
+            "reply_to_id": "178639"
+        }
+    ],
+    "date": "2008-07-12 20:37:00"
+}

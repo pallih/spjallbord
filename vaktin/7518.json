@@ -1,0 +1,177 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "7518",
+    "title": "Hverju munar á 90 og 130 í amd64 örgjörvum ?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=7518",
+    "posts": [
+        {
+            "user_name": "bardi",
+            "text": "Já nafnið segir svosem allt \n\n\n\n\nmunur á 90nm vs. 130nm ???",
+            "date": "2005-02-22 22:46:00",
+            "post_id": "79647",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Cascade",
+            "text": "40nm",
+            "date": "2005-02-22 22:52:00",
+            "post_id": "79648",
+            "reply_to_id": "79647"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "LOL!! Þessi var virkilega góður",
+            "date": "2005-02-22 23:12:00",
+            "post_id": "79650",
+            "reply_to_id": "79648"
+        },
+        {
+            "user_name": "ponzer",
+            "text": "Greinilegt að sumir kunna sko á calculatorinn",
+            "date": "2005-02-22 23:13:00",
+            "post_id": "79651",
+            "reply_to_id": "79650"
+        },
+        {
+            "user_name": "fallen",
+            "text": "Minnir að 90nm hitni minna, noti minni orku o.fl.\n\nÞað á að vera til graf yfir þetta eitthversstaðar hérna.. skal reyna að finna það",
+            "date": "2005-02-23 04:17:00",
+            "post_id": "79668",
+            "reply_to_id": "79651"
+        },
+        {
+            "user_name": "Yank",
+            "text": "Eins og fram hefur komið 90nm kaldari vegna minna vcore og sagður klukkast meira. 3500+90nm er einhverjum örfáum prósentum öflugir en 130nm. Langar þó að minna á að FX55 er 130nm og sögusagnir í gangi um að AMD lendi í sömu vandræðum varðandi hita og intel með prescott með þessa 90nm tækni með hækkandi tíðni. En hver veit svo hvað er satt í þessu. Kemur í ljós\n\n\n\nÉg sjálfur valdi 3500+ 130nm ekki þess virði að mér fannst að eyða ca 5000 meira í sama CPU. Búinn að setja þennan 3500+ 130nm í 2,6 Ghz. En þetta er í shuttle kassa þanngi læt mér nægja 2,4Ghz í bili.",
+            "date": "2005-02-23 13:09:00",
+            "post_id": "79685",
+            "reply_to_id": "79668"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "ég er með minn A64 3000+ í 2520MHz í shuttle XPC SN95G.. virkar fínt, og 100% stable.",
+            "date": "2005-02-23 14:05:00",
+            "post_id": "79687",
+            "reply_to_id": "79685"
+        },
+        {
+            "user_name": "Dust",
+            "text": "Vá gnarr, þú verður eiginlega að taka mig í smá kennslu hjá þér \n  , ég næ bara ekkert að O.C. minn neitt  \n\n\n\n\nEdit: mjög svo tvíræddi setningu breytt",
+            "date": "2005-02-23 21:06:00",
+            "post_id": "79706",
+            "reply_to_id": "79687"
+        },
+        {
+            "user_name": "axyne",
+            "text": "",
+            "date": "2005-02-23 21:22:00",
+            "post_id": "79710",
+            "reply_to_id": "79706"
+        },
+        {
+            "user_name": "zaiLex",
+            "text": "lol ég tók ekkert eftir þessu fyrr en ég fór að pæla í hvað þú meintir með þessu commenti þínu axyne, you naughty boy!",
+            "date": "2005-02-23 21:39:00",
+            "post_id": "79712",
+            "reply_to_id": "79710"
+        },
+        {
+            "user_name": "Cary",
+            "text": "gnarr er mjög góður kennari. Eftir árs nám muntu líklega ná honum upp. Þ.e.a.s. ef þú vinnur heimavinnunna.",
+            "date": "2005-02-23 21:51:00",
+            "post_id": "79713",
+            "reply_to_id": "79712"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "HAHA \n *fimma*\n\n\n\n\n\nþetta eru stillingarnar sem ég er með akkúrat núna:\n\n\n\nHTT (FSB) 280\n\nHTT multi í 4x\n\nMulti á örgjörfanum 9x\n\nmeð vcore í 1.5v\n\n\n\n\n\nMax memory Frequency stillt á \"133\" (þetta er bara divider 2/3 divider)\n\nPerfromance 1T\n\nCas 2\n\nRas to Cas 3\n\nRas Precharge 3\n\nCycle time 15 (ég er ekki byrjaður að tweaka það enþá)\n\nvdimm á 2.8v\n\n\n\nChipset á 1.8\n\n\n\nsvo er viftan stillt á low í health settings (uþaðbil 1500rpm).\n\n\n\n--\n\n\n\n\n\nÞetta er annars mjög einföld stærðfræði, minnið \"má\" ekki fara mikið yfir DD400 og HTT má ekki fara mikið yfir 1000. hjá mér er minni tildæmis í DDR360 (280 / 3 * 2)  og HTT í 1120 (4x280). byrjaðu bara á því að overclocka BARA örgjörfann, og passaðu að HTT og Ram séu alltaf undir stock stillingum, athugaðu svo hvað þú kemst hátt með örgjörfann á stock spennu. prófaðu svo svona hvern hlut fyrir sig",
+            "date": "2005-02-24 14:56:00",
+            "post_id": "79747",
+            "reply_to_id": "79713"
+        },
+        {
+            "user_name": "Johnson 32",
+            "text": "Hvað þýðir HTT?",
+            "date": "2005-02-24 15:31:00",
+            "post_id": "79752",
+            "reply_to_id": "79747"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "Hyper Transport Technology.\n\n\n\nÞetta er sama og FSB á örgjörfum, nema að þetta er með stillanlegann multiplyerþ",
+            "date": "2005-02-24 15:37:00",
+            "post_id": "79755",
+            "reply_to_id": "79752"
+        },
+        {
+            "user_name": "hahallur",
+            "text": "Ég finn ekki multiplier-inn á HTT hjá mér  \n  get bara stillt 200-1000 HTT, er það kannski sami hluturinn.",
+            "date": "2005-02-24 16:13:00",
+            "post_id": "79765",
+            "reply_to_id": "79755"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "líklegast já. má ég giska.. þú getur valið 200, 400, 600, 800 og 1000. ef það er þannig, þá þýðir það bara að 200 = 1x, 400=2x, 600=3x, 800=4x og 1000=5x.\n\n\n\nþannig að þegar þið eruð að overclocka, þá stillið þið þetta á 800 og overclockið það svo í 1000 aftur",
+            "date": "2005-02-24 16:19:00",
+            "post_id": "79768",
+            "reply_to_id": "79765"
+        },
+        {
+            "user_name": "Dust",
+            "text": "Þetta er algjör snild gnarr, thx alot \n prufa mig áfram með þetta. En er það ekki alveg bókað að ég má setja vcore það sama og þinn, þetta eru alveg sömu örrarnir ?",
+            "date": "2005-02-25 18:20:00",
+            "post_id": "79855",
+            "reply_to_id": "79768"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "Fylgstu bara vel með hitanum um leið og þú ferð að fikta í vcore. Vcore er eiginlega eina sem getur skemmt örgjörfann þinn í overclocki, svo að maður á alltaf að fara varlega með það. Það eru samt 99% líkur að 1.5v í vcore sé í lagi hjá þér, þar sem að það er ekki nema 0.15v hækkun frá default vcore.\n\n\n\nÞú getur svo auðvitað athugað á google hvað fólk er allmennt að setja vcore mest hátt á loftkælingu.",
+            "date": "2005-02-27 03:41:00",
+            "post_id": "79952",
+            "reply_to_id": "79855"
+        },
+        {
+            "user_name": "Dust",
+            "text": "Já google það svona til öryggis, en takk kærlega",
+            "date": "2005-02-27 21:58:00",
+            "post_id": "80025",
+            "reply_to_id": "79952"
+        },
+        {
+            "user_name": "hahallur",
+            "text": "minn öri er stable í 2750mhz eða 10 x 275mhz, hann er stilltur á deafult 1.6v og htt er á 4 x",
+            "date": "2005-02-27 22:13:00",
+            "post_id": "80026",
+            "reply_to_id": "80025"
+        },
+        {
+            "user_name": "Dust",
+            "text": "og er það eins örri?",
+            "date": "2005-02-27 22:24:00",
+            "post_id": "80030",
+            "reply_to_id": "80026"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "það er 3200+",
+            "date": "2005-02-28 08:09:00",
+            "post_id": "80067",
+            "reply_to_id": "80030"
+        },
+        {
+            "user_name": "Dust",
+            "text": "Er betra að hafa cycle time sem hæðst eða sem lægst?",
+            "date": "2005-03-07 01:42:00",
+            "post_id": "80574",
+            "reply_to_id": "80067"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "lægst.",
+            "date": "2005-03-07 07:41:00",
+            "post_id": "80580",
+            "reply_to_id": "80574"
+        }
+    ],
+    "date": "2005-02-22 22:46:00"
+}

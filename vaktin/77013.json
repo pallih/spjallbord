@@ -1,0 +1,37 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "77013",
+    "title": "Asus routerar með óásættanlega skilmála?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=77013",
+    "posts": [
+        {
+            "user_name": "GuðjónR",
+            "text": "Fékk nýtt firmware í Asus RT-AC5300 routerinn fyrr í sumar, það disableaði nokkra fídusa sem höfðu verið \"á\", svo sem Traffic Analyzer - Statistic og QoS - WAN/LAN Bandwidth Monitor, þegar ég ætlaði að kveikja á þeim aftur þá kom upp gluggi sem bað um samþykki mitt fyrir því að senda Trendmicro allar þær upplýsingar sem routerinn aflar, ef ég segi nei þá get ég ekki notað fídusana, er þetta í lagi?\nÞeir vilja sem sagt fá browsing history beint úr router.\nFann eina umræðu um þetta:\nhttps://hardforum.com/threads/asus-rt-a ... e.1962942/",
+            "date": "2018-08-23 18:57:00",
+            "post_id": "676528",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Tbot",
+            "text": "Þarna er 3rd party að fá beint upplýsingar um þig.\nMikið er ég feginn að hafa hætt við asus router",
+            "date": "2018-08-23 21:11:00",
+            "post_id": "676536",
+            "reply_to_id": "676528"
+        },
+        {
+            "user_name": "fallen",
+            "text": "Þetta hljómar allavega mjög illa. Hefurðu prófað að setja upp Asuswrt-Merlin til að athuga hvort þessir fítusar séu aðgengilegir þar án þess að þurfa þetta samþykki?",
+            "date": "2018-08-23 21:19:00",
+            "post_id": "676540",
+            "reply_to_id": "676536"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Þetta hljómar alveg verulega ílla, mig grunar án þess að geta staðfest það að þetta hafi alltaf  verið svona en vegna nýju persónuverndarlaganna þá hafi þeir neyðst til að biðja um samþykki og þar með komið upp um sig.\nSmá googl:\nhttps://www.computerworld.com/article/3 ... urity.html\nog\nhttps://www.ctrl.blog/entry/review-asuswrt",
+            "date": "2018-08-23 21:36:00",
+            "post_id": "676542",
+            "reply_to_id": "676540"
+        }
+    ],
+    "date": "2018-08-23 18:57:00"
+}

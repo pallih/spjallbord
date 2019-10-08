@@ -1,0 +1,79 @@
+{
+    "forum_title": "Koníakstofan",
+    "id": "74660",
+    "title": "Íslenskt DNS",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=9&t=74660",
+    "posts": [
+        {
+            "user_name": "benony13",
+            "text": "Hvar get ég fundið íslenskt DNS ? búinn að leita aðeins á google og fann ekkert. Einnig reyndi Plamo.tv og það virkaði ekki.",
+            "date": "2017-11-12 18:22:00",
+            "post_id": "660746",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "pepsico",
+            "text": "Vodafone\nPrimary: ns2.internet.is - 193.4.194.5. Secondary: ns3.internet.is - 194.144.200.65. eða. Primary: ns1.internet.is - 213.176.128.51. Secondary: ns4.internet.is \nSíminn\nLén\tIP tölur nafnaþjónustu\nSimnet.is\t212.30.200.199 og 212.30.200.200\nCentrum.is\t212.30.200.199 og 212.30.200.200\nEldhorn.is\t212.30.200.199 og 212.30.200.200",
+            "date": "2017-11-12 18:42:00",
+            "post_id": "660748",
+            "reply_to_id": "660746"
+        },
+        {
+            "user_name": "benony13",
+            "text": "takk vinur.",
+            "date": "2017-11-12 18:48:00",
+            "post_id": "660749",
+            "reply_to_id": "660748"
+        },
+        {
+            "user_name": "benony13",
+            "text": "Virkaði ekki hjá mér, er kannski ekki hægt að horfa á OZ appið í Danmörku ?",
+            "date": "2017-11-12 19:00:00",
+            "post_id": "660750",
+            "reply_to_id": "660749"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Þarf nú líklega meira en að nota íslenskan DNS þjón.  Þú þarft líklega VPN tengingu til Íslands.",
+            "date": "2017-11-12 20:31:00",
+            "post_id": "660755",
+            "reply_to_id": "660750"
+        },
+        {
+            "user_name": "ZiRiuS",
+            "text": "Getur fengið íslenska IP með ýmsum VPN þjónustum eins og HMA, en það kostar einhverja dollara á mánuði.",
+            "date": "2017-11-12 20:32:00",
+            "post_id": "660756",
+            "reply_to_id": "660755"
+        },
+        {
+            "user_name": "birgirs",
+            "text": "Háskólinn er með VPN ef þú ert með notanda þar, \nhttp://rhi.hi.is/212",
+            "date": "2017-11-13 00:46:00",
+            "post_id": "660769",
+            "reply_to_id": "660756"
+        },
+        {
+            "user_name": "worghal",
+            "text": "spurning hvort að innbyggða vpn-ið í windows hleypi þér í gegn.\nathugaðu hvort það nenni ekki einhver að setja þetta upp hjá sér til að leyfa þér að prufa.\nhttps://www.howtogeek.com/135996/how-to ... -software/",
+            "date": "2017-11-13 01:12:00",
+            "post_id": "660770",
+            "reply_to_id": "660769"
+        },
+        {
+            "user_name": "hfwf",
+            "text": "Varla fær hann nú íslenska iptölu með að búa til vpnserver á sinni eigin tölvu \ní útlandinu",
+            "date": "2017-11-13 13:39:00",
+            "post_id": "660788",
+            "reply_to_id": "660770"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Ööö, hann skrifaði „athugaðu hvort það nenni ekki \neinhver\n að setja þetta upp hjá \nsér\n til að leyfa þér að prufa.“ \nHann er líklegast að meina einhvern vin hans hérna á klakanum",
+            "date": "2017-11-13 15:02:00",
+            "post_id": "660789",
+            "reply_to_id": "660788"
+        }
+    ],
+    "date": "2017-11-12 18:22:00"
+}

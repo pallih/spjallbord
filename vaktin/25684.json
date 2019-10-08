@@ -1,0 +1,149 @@
+{
+    "forum_title": "Windows",
+    "id": "25684",
+    "title": "Stýriskerfaval !",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=25684",
+    "posts": [
+        {
+            "user_name": "andripepe",
+            "text": "Sælir, Ég hef verið að spá og núna ætla ég bara að spurja útí loftið þar sem ég hef ekki hugmynd um tölvur/stýrikerfi\nNú er ég með Intel quad core 6600 örgjörva, \nOg er að spá hvernig stýrikerfi ég ætti að instala á vélina til þess að ná sem mestri \"afkastagetu\" kannski ekki rétt orðið en þið vitið hvað ég meina, Núna langar mig t.d að instala windows 7 til að prófa það, hvort ætti ég þá að download w7 32.bit eða w7.64 bit ? \n    Er 64 bit fyrir duel core og 32 bit fyrir single core ? eða skiptir það kannski engu máli ? og er þá til eithvað spes fyrir quad core ? \nVona að þið skiljið hvað ég er að meina, \nps.afsakið illa uppsett innlegg og mörg spurningamerki\nKv.andry",
+            "date": "2009-10-23 00:12:00",
+            "post_id": "223374",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "intenz",
+            "text": "http://microsoft.easy.is/?p=102",
+            "date": "2009-10-23 00:16:00",
+            "post_id": "223376",
+            "reply_to_id": "223374"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "ef þú ert með 4gb eða meira í vinnsluminni fáðu þér þá 64-bit kerfi því að ef þú færð þér 32-bit kerfi þá nýtir stýrikerfið ekki allt minnið",
+            "date": "2009-10-23 00:36:00",
+            "post_id": "223379",
+            "reply_to_id": "223376"
+        },
+        {
+            "user_name": "armann",
+            "text": "Yes...\nEinnig þá er allaveganna í Linux 64bita stýrikerfi aðeins hraðvirkara í day to day verkum, ekkert sem maður er virkilega taka eftir en aðalmálið er ef þú ert með meira en 4gb í minni.\nAnnað ef forritin eru 64bita þá keyra þau mun betur en sama forrit sem er 32bita.\nVonandi fer 32 bita að deyja út, algjör óþarfi að keyra þetta í dag, Windows 7 x64 er mjög gott.\nLoksins tók Microsoft skrefið og 2008 server R2 er bara 64 bita.",
+            "date": "2009-10-23 10:41:00",
+            "post_id": "223404",
+            "reply_to_id": "223379"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Tss þarft ekkert 64bit kerfi þótt þú sért með 4gb ram og yfir.\nÞú þarft bara PAE kernel með 32bit kerfinu",
+            "date": "2009-10-28 15:54:00",
+            "post_id": "224093",
+            "reply_to_id": "223404"
+        },
+        {
+            "user_name": "Rubix",
+            "text": "En afhverju ætti einhverjum að langa í 32bita þegar þeir hafa möguleikan á 64?",
+            "date": "2009-10-28 17:20:00",
+            "post_id": "224114",
+            "reply_to_id": "224093"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Það er bögg að fá sum forrit til að virka rétt í 64bit",
+            "date": "2009-10-28 17:23:00",
+            "post_id": "224116",
+            "reply_to_id": "224114"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "er þetta ekki allt orðið 64-bit compatible í Windows...\n...annars hef ég aldrei lent í neinu veseni með forrit í Ubuntu 64-bit!",
+            "date": "2009-10-28 17:47:00",
+            "post_id": "224125",
+            "reply_to_id": "224116"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Ekki einusinni með helvítis flash?",
+            "date": "2009-10-28 17:48:00",
+            "post_id": "224126",
+            "reply_to_id": "224125"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "neibb...allt er svooooo smooth!",
+            "date": "2009-10-28 18:09:00",
+            "post_id": "224142",
+            "reply_to_id": "224126"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Sama hvað ég reyndi fékk ég Flash aldrei til að virka í Ubuntu. En annars æðislegt stýrikerfi.\nSamt eitt sem þarf að hafa í huga með 32 og 64 bit OS er það að örgjörvinn þarf að styðja 64bit. Þó þú sért með 16GB RAM og x86 örgjörva, þá geturðu ekki sett upp x64 kerfi.\nAnnars virkar allt í Windows 7 x64 sem virkar í x86. Forrit sem eru ekki forrituð með x64 í huga installast í möppu sem heitir Program Files (x86) og virka eðlilega. Reklar eru ekki vandamál núna þar sem allir nýjir reklar eru búnir til með 32 og 64bit í huga.\nÞannig að: Ef þú átt möguleikann á x64, ekki hika við það.\nFærð líka eitthvað performance gain þar sem örgjörvinn getur reiknað með stærri tölum.",
+            "date": "2009-10-28 18:17:00",
+            "post_id": "224148",
+            "reply_to_id": "224142"
+        },
+        {
+            "user_name": "Spörri",
+            "text": "Góðan dag\nÉg er nú ekkert sérlega fróður um stýrikerfi \nen ég er með 32 bit Windows vista home premium \ner með Dell xps turn sem er með\nprocessor: intel(R) core (TM)2 duo CPU E6550 @ 2,33 GHZ\n4,00 GB RAM í minni\n32 BIT operating system \nen spurninginn er sú að  ég er með 32 BIt system ,afhverju ætti ég að kaupa 64 BIT Windows7 þegar Turninn minn er með 32 BIT ?\nÉg keyrði CPU-Z forritið sem segir þér hvað tölvan þín ræður við og þar kemur upp í  instructions  EM64T sem þýðir að tölvan mín ræður við 64 BIT System ,\nhver er munurinn á 32 BIT og 64 BIT ?\nog hvort er betra að kaupa upgrade eða fullt stýrikerfi og afhverju ?\nvonandi getið þið hjálpað mér \nMeð fyrirframm þökkum \nSpörri",
+            "date": "2009-10-30 16:27:00",
+            "post_id": "224527",
+            "reply_to_id": "224148"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Þú ferð hiklaust í Windows 7 64bit. Afhverju? Ástæðan er einföld: Tölvan þín ræður við það.",
+            "date": "2009-10-30 16:32:00",
+            "post_id": "224530",
+            "reply_to_id": "224527"
+        },
+        {
+            "user_name": "Spörri",
+            "text": "nú er ég ekkert í neinni heavy notkun ,aðalega netið sækja tónlist og myndir hvaða stýrikerfi mynduð þið taka home, Pro eða Ultimate ? uppgrade eða full útgáfa ?",
+            "date": "2009-10-30 16:37:00",
+            "post_id": "224532",
+            "reply_to_id": "224530"
+        },
+        {
+            "user_name": "halldorjonz",
+            "text": "Ræður tölvan mín sem ég er með í undirskrift við x64? Ég hef alltaf notað XP Home 32bit eða Vista Home 32bit. \nEr að spá í að skella mér á Windows 7 Ultimate 64x er það málið?  \nEdit: Er það kannski ekki sniðugt, ef maður er bara með 2gb í minni eins og ég?",
+            "date": "2009-10-30 16:39:00",
+            "post_id": "224534",
+            "reply_to_id": "224532"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Sama hve mikið vinnsluminni þú ert með, þá ræður örgjörvinn þinn við 64bit.",
+            "date": "2009-10-30 16:46:00",
+            "post_id": "224538",
+            "reply_to_id": "224534"
+        },
+        {
+            "user_name": "halldorjonz",
+            "text": "Jamm, en ég er að spá hvort það sé kannski ekki gott fyrir mig útaf ég er bara með 2gb í minni aðalega, sá nefnilega þetta á þessari easy síðu",
+            "date": "2009-10-30 16:50:00",
+            "post_id": "224540",
+            "reply_to_id": "224538"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Sé samt ekki tilganginn í því. Þú ert þá líka að missa af 10-15% performance gaini.",
+            "date": "2009-10-30 21:13:00",
+            "post_id": "224580",
+            "reply_to_id": "224540"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Þú ert með 64 bita örgjörva og til að ná öllu afli úr honum og öllu minninu myndi ég hiklaust velja mér Windows 7 x64 eða Windows XP x64.",
+            "date": "2009-10-30 22:00:00",
+            "post_id": "224590",
+            "reply_to_id": "224580"
+        },
+        {
+            "user_name": "Spörri",
+            "text": "skoðið þetta \nhttp://microsoft.easy.is/?p=124\nfer gegnum tölvuna þína og athugar hvort vél og hugbúnaður er samhæfur",
+            "date": "2009-10-31 08:50:00",
+            "post_id": "224643",
+            "reply_to_id": "224590"
+        }
+    ],
+    "date": "2009-10-23 00:12:00"
+}

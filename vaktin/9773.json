@@ -1,0 +1,65 @@
+{
+    "forum_title": "Leikjasalurinn",
+    "id": "9773",
+    "title": "cs vandræði",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=14&t=9773",
+    "posts": [
+        {
+            "user_name": "mjamja",
+            "text": "vonand geta cs brillarnir hérna hjálpað mér e-ð, þannig er mél með vexti að ég er með alveg sorglega mikið í loss og choke þegar ég er að spila, það eru allir driverar uppsettir og ég er með cpl_gui 2 cfg, hvað er að?",
+            "date": "2006-01-21 22:27:00",
+            "post_id": "105878",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "HemmiR",
+            "text": "ef þú ert að nota wirless net þá er það allveg eðlilegt:) \n\nallavega svo er 1 góð hugmynd uinstalla cs og fara i bt eða elko og kaupa WoW og byrja að spila",
+            "date": "2006-01-21 22:56:00",
+            "post_id": "105879",
+            "reply_to_id": "105878"
+        },
+        {
+            "user_name": "mjamja",
+            "text": "haha, ég er ekki með wireless og ég sökka í WoW",
+            "date": "2006-01-21 22:58:00",
+            "post_id": "105880",
+            "reply_to_id": "105879"
+        },
+        {
+            "user_name": "Birkir",
+            "text": "Ertu með rate rétt stillt? \n\n\n\nÞ.e. Rate, cl_updaterate og cl_cmdrate?",
+            "date": "2006-01-22 01:47:00",
+            "post_id": "105907",
+            "reply_to_id": "105880"
+        },
+        {
+            "user_name": "urban",
+            "text": "Ertu hjá símanum ?\n\n\n\nþað eru hérumbil \"allir\" hjá símanum að kvarta undan b´æði laggi og síðan loss og choke þessa dagana ... getur farið inná \nhttp://www.hugi.is/hl\n og skoðað korkana þar... það er annar hver korkur um það\n\n\n\nvirðist vera eitthvað vandamál hjá þeim",
+            "date": "2006-01-22 02:05:00",
+            "post_id": "105909",
+            "reply_to_id": "105907"
+        },
+        {
+            "user_name": "mjamja",
+            "text": "rate er í 50000, cl_updaterate og cl_cmdrate eru í 101 og ég er hjá ogvodafone...",
+            "date": "2006-01-22 13:02:00",
+            "post_id": "105923",
+            "reply_to_id": "105909"
+        },
+        {
+            "user_name": "bluntman",
+            "text": "Testaðu að setja cl_cmdrate í 30.",
+            "date": "2006-01-22 13:40:00",
+            "post_id": "105926",
+            "reply_to_id": "105923"
+        },
+        {
+            "user_name": "HemmiR",
+            "text": "rate á að vera i 25000",
+            "date": "2006-01-22 13:45:00",
+            "post_id": "105927",
+            "reply_to_id": "105926"
+        }
+    ],
+    "date": "2006-01-21 22:27:00"
+}

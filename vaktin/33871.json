@@ -1,0 +1,72 @@
+{
+    "forum_title": "Þjónusta / Viðgerðir",
+    "id": "33871",
+    "title": "Vandræða Uppfærsla i7 build",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=13&t=33871",
+    "posts": [
+        {
+            "user_name": "donzo",
+            "text": "Sælir, var að fá (stuffin fyrir neðan) í dag, er nefnilega að hjálpa vin með build hjá honum, erum búnir að láta allt í turnkassann og allt saman, buinn að tengja alla víra and etc.\ni7-950\nGigabyte X58A-UD3R\nMushkin 6GB Kit CL6 Redline\nMálið er að ég tengi rafmagnið við Aflgjafann, kveiki á honum þá sé ég CMOS blá ljósið á móðurborðinu að aftan, síðan þegar ég kveikji á tölvunni þá gerist ekkert nema það kemur Gult og Grænt ljós hjá vinnsluminninu, aka DIMM LEDið, kviknar ekki einu sinni á viftunum á aflgjafanum, örgjörvanum eða skjákortinu svo þegar ég lít á móðurborðið þegar ég kveikji á tölvunni þá kemur bara rautt CPU LED ljós í örsekundu svo fer það.\nEr buinn að vera að prufa að taka vinnsluminnið úr og hafa bara 1 stykki, er buinn að taka úr allt SATA (Geisladrif, Harða diskinn) etc, samt kviknar ekkert á tölvunni nema þessi Gul+Græn LED ljósið hjá vinnsluminninu.\nEinhver annar sem hefur lent í þessum vandræðum :/ ef svo er, hvað á ég að gera.",
+            "date": "2010-11-17 20:31:00",
+            "post_id": "296304",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "vesley",
+            "text": "Koma eitthver píp hljóð?  Eru ekki standoffs örugglega á réttum stað? \n8pin power tengt? \nFann ekkert sérstaklega gagnlegt við stutta leit í manualinu.    Sá bara að ljósin á móðurborðinu gætu merkt að það sé of mikið voltage á eitthverjum búnaði.  grænn (slight) red(high)  fer eftir staðsetningu.",
+            "date": "2010-11-17 20:43:00",
+            "post_id": "296308",
+            "reply_to_id": "296304"
+        },
+        {
+            "user_name": "donzo",
+            "text": "Er með 8pin power tengið tengt auðvitað, og allt standoffs á réttum stað.\nMálið er að það kviknar ekkert á henni, enginn vifta snýr eða neitt samt er þessi Græna + Gula DIMM LEDið á þegar ég kveikji á tölvunni :/",
+            "date": "2010-11-17 20:47:00",
+            "post_id": "296309",
+            "reply_to_id": "296308"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Powet takkinn rétt tengdur?",
+            "date": "2010-11-17 20:51:00",
+            "post_id": "296311",
+            "reply_to_id": "296309"
+        },
+        {
+            "user_name": "Plushy",
+            "text": "Vinnsluminnin alveg föst í? ALVEG föst? \nÉg lenti í því þegar ég lét mín redline í að þetta gerðist nema ég ýtti þeim greinilega ekki nógu fast í raufarnar.",
+            "date": "2010-11-17 21:38:00",
+            "post_id": "296324",
+            "reply_to_id": "296311"
+        },
+        {
+            "user_name": "nonesenze",
+            "text": "prufaðu að færa minnin í hinar raufarnar (aftengja allt rafmagn fyrst og snerta kassann í a.m.k. 10 sec áður en þú byrjar)\npassa að skjákortið sé rétt sett í (taka úr og setja aftur í) og að rafmagnið sé örugglega rétt setið í það\naftengja front usb og allt auka drasl sem tengist í móðurborðið\nog prófa aftur, annars væri fínt að fá að vita specs eins og hvernig kassi, PSU, skjákort og svona",
+            "date": "2010-11-17 21:39:00",
+            "post_id": "296325",
+            "reply_to_id": "296324"
+        },
+        {
+            "user_name": "kazi",
+            "text": "Þetta reddaðist allt,, kom í ljós að minnin voru í vitlausum raufum, núna er problemið bara að i7-inn er svoldið að overheata\ní um 70°c eitthverjar lausnir við því ?",
+            "date": "2010-11-18 10:53:00",
+            "post_id": "296418",
+            "reply_to_id": "296325"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Hljómar eins og að hún seitji ekki alveg rétt á...",
+            "date": "2010-11-18 11:22:00",
+            "post_id": "296421",
+            "reply_to_id": "296418"
+        },
+        {
+            "user_name": "Frost",
+            "text": "Athugaðu kælinguna vel. Farðu yfir allt: Kælikremið, hvort hún sitji nógu föst á og hvort hún snýr rétt.",
+            "date": "2010-11-18 11:46:00",
+            "post_id": "296426",
+            "reply_to_id": "296421"
+        }
+    ],
+    "date": "2010-11-17 20:31:00"
+}

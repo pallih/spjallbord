@@ -1,0 +1,86 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "56387",
+    "title": "Talsvert hægara niðurhal en upphal í ljósleiðaratengingu",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=56387",
+    "posts": [
+        {
+            "user_name": "Jonsk",
+            "text": "Nú er ég alveg stumped. Var að fá ljósleiðara hjá Vodafone og er með Zhone routerinn. Ég náði rúmlega 90/90 Mbit/sek með cat5 í routerinn en þegar ég tengist með þráðlausa netinu í tæplega þriggja metra fjarlægð þá næ ég hins vegar ekki nema ca. 30-45 Mbit/sek upp og ca 15 Mbit/sek niður. Ég er búinn að prófa mismunandi rásir á routernum (þ.á m. nota Wifi analyzer til að finna þá sem er \"fríust\"), stilla hann á 20 Mhz og 40 Mhz, stilla hann bara á wireless n en líka á b/g/n en ekkert af þessu hefur áhrif á hraðann. \nHvað í ósköpunum get ég gert til að bæta niðurhalshraðann í gegnum þráðlausa netið?",
+            "date": "2013-08-01 23:32:00",
+            "post_id": "522601",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "rapport",
+            "text": "Allt verður að ganga á 802.11n ekki a,b eða g...\ng er takmarkað við 54Mbs skv. \nhttp://en.wikipedia.org/wiki/Comparison ... _standards",
+            "date": "2013-08-01 23:40:00",
+            "post_id": "522603",
+            "reply_to_id": "522601"
+        },
+        {
+            "user_name": "Jonsk",
+            "text": "Þó ég sé með stillt á 802.11 n only þá næ ég samt ekki nema 15 Mb/sek niður, en það er hvort eð er langt innan 54 Mb/sek þannig að það ætti væntanlega ekki að vera það sem takmarkar.",
+            "date": "2013-08-01 23:45:00",
+            "post_id": "522604",
+            "reply_to_id": "522603"
+        },
+        {
+            "user_name": "Jonsk",
+            "text": "Breytti titlinu, smá heilaskita hjá mér í gærkvöldi en ég veit að upphal verður yfirleitt hægara en niðurhal. En hjá mér er það öfugt.",
+            "date": "2013-08-02 15:58:00",
+            "post_id": "522667",
+            "reply_to_id": "522604"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Ef ég man það rétt þá er hefðbundna lausnin við þessu að resetta allar stillingar með reset takkanum og prófa að slökkva á WPA2 og setja á WEP. \nÞetta hefur að sjálfsögðu aldrei virkað í þeim tilfellum sem ég lendi í svona og ég þurfti að skipta routerum út ~3x á vikunum sem fylgdu\nþví að elskulegi NBG420N routerinn minn frá þeim dó.\nÞú mátt samt ekki útiloka fartölvuna sem sökudólginn strax, fáðu fartölvu hjá einhverjum sem nær >45Mb/s heima hjá sér til að bilanagreina.",
+            "date": "2013-08-02 16:05:00",
+            "post_id": "522668",
+            "reply_to_id": "522667"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Prufaðu aðra tölvu. Jafnvel 2-3.",
+            "date": "2013-08-02 16:08:00",
+            "post_id": "522669",
+            "reply_to_id": "522668"
+        },
+        {
+            "user_name": "Icarus",
+            "text": "Myndi giska á að vandamálið liggi í þráðlausa. Ertu búinn að prófa að læsa routernum á N?\nLenti í því með fartölvuna mína að vera bara að fá 20/20 á 100Mb ljósi, svo þegar ég læsti routernum á N datt hún alveg út. Sagði mér að hún var bara á 802.11G",
+            "date": "2013-08-06 09:49:00",
+            "post_id": "523009",
+            "reply_to_id": "522669"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Svipað hjá mér þegar ég tengist á 2.4Ghz. 5Ghz breytir öllu, 90/90, veit ekki hvort Zhone styður 5Ghz.",
+            "date": "2013-08-06 09:52:00",
+            "post_id": "523010",
+            "reply_to_id": "523009"
+        },
+        {
+            "user_name": "Jonsk",
+            "text": "Ég er búinn að prófa að læsa routerinn á n, það var ekkert vandamál að tengjast netinu en hraðinn jókst ekkert. Eftir því sem ég best veit styður Zhone ekki 5 Ghz svo að það er ekki valmöguleiki. \nÉg ætla að skila Vodafone þessum router og sjá til hvort að annað eintak komi betur út.",
+            "date": "2013-08-07 15:13:00",
+            "post_id": "523150",
+            "reply_to_id": "523010"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Athugaðu samt fyrst hvort að WLAN adapterinn sé nokkuð stilltur á e-ð power saving, sérð það í Power Options, Advanced Settings, Wireless Adapter Settings.",
+            "date": "2013-08-07 15:16:00",
+            "post_id": "523151",
+            "reply_to_id": "523150"
+        },
+        {
+            "user_name": "Jonsk",
+            "text": "Góður punktur, hafði ekki skoðað það. Fór nú samt og skipti út router og dl hraðinn fór við það upp í 30 Mb/sek. Held ég láti það duga.",
+            "date": "2013-08-09 09:20:00",
+            "post_id": "523337",
+            "reply_to_id": "523151"
+        }
+    ],
+    "date": "2013-08-01 23:32:00"
+}

@@ -1,0 +1,86 @@
+{
+    "forum_title": "Windows",
+    "id": "2944",
+    "title": "Póstur og vírusar",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=2944",
+    "posts": [
+        {
+            "user_name": "Palm",
+            "text": "Ég er með eitt .com domain sem er hýst hjá namesecure - þar er öllum póst sem ég fæ á þetta netfang forwardað annað.\n\nÞar set ég einnig ip töluna á servernum hér heima sem hýsir vefinn minn.\n\n\n\nÍ dag fór ég allt í einu að fá þessar líkar rosa fjölda af pósti - (ekki spam pósti) heldur eins pósti og barst út um allt þegar póstormarnir gengu út um allt. Mest af þessum póst er sent aftur til baka á sendandann - en ég er merktur sem sendandi á öllum þessum pósti þó ég hafi aldrei sent hann.\n\n\n\nMig grunar að það sé einhver vírus keyrandi einhvers staðar sem er að senda þetta í gríð og erg. Hvar er vandamálið - á servernum hjá mér - hjá namesecure eða einhvers staðar annar staðar?\n\n\n\nÞegar sams konar mál kom upp fyrr í vetur þá var þetta alltaf .is emailið mitt sem lenti í þessu og þá var svo allt lagað hjá þeim sem er með mitt .is domain og þá komst það í lag.\n\n\n\nEruð þið með einhverjar hugmyndir hvernig ég get stöðvað þetta?\n\n\n\nPalm",
+            "date": "2004-01-27 18:18:00",
+            "post_id": "29723",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gumol",
+            "text": "Þú getur það ekki, ekki nema kanski með einhverjum SPAM filter.",
+            "date": "2004-01-27 19:15:00",
+            "post_id": "29742",
+            "reply_to_id": "29723"
+        },
+        {
+            "user_name": "Palm",
+            "text": "Þetta er ekki beint spam - þetta er einhver vírus - ormur eðe eitthvað slíkt sem er að senda þetta - og hann lætur mig alltaf vera sendandann þannig að þegar póstur fer á email addressur sem eru ekki til þá er þetta endursent á mig. Einnig kemur pósur á mig þar sem aðrir póstþjónar segja að það sé vírus í póstinum og þeir taki ekki við honum.\n\n\n\nÍ póstinum kemur oft líka eitthvað doc.zip viðhengi.\n\n\n\nPalm",
+            "date": "2004-01-27 19:29:00",
+            "post_id": "29747",
+            "reply_to_id": "29742"
+        },
+        {
+            "user_name": "Gothiatek",
+            "text": "Ég lenti líka í þessu í dag...þetta er mydoom ormurinn!\n\nhttp://www.frisk.is/frettir/sec_news/mydoom_a.html",
+            "date": "2004-01-27 20:52:00",
+            "post_id": "29783",
+            "reply_to_id": "29747"
+        },
+        {
+            "user_name": "Zaphod",
+            "text": "Alltaf er jafn gaman að fá einhverja vírusa .",
+            "date": "2004-01-27 20:59:00",
+            "post_id": "29790",
+            "reply_to_id": "29783"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "Hmm, svona áður en ég fer að kíkja í loggana hjá mér, þá heitir þetta tom árás minnir mig.  Einhver sendir fullt af pósti í þínu nafni (með þitt domain) og spammfilterar senda til baka á þig, þannig að sá sem sendi þetta upphaflega hefur uppskorið næstum því tvöfalt.\n\n\n\nFyrirgefðu, ég man bara alls ekki hvað þetta heitir.\n\n\n\nEdit:\n Rglug póstlistinn hefur líka orðið fyrir barðinu á þessum vírusi sem þið eruð að tala um...",
+            "date": "2004-01-27 22:58:00",
+            "post_id": "29826",
+            "reply_to_id": "29790"
+        },
+        {
+            "user_name": "gumol",
+            "text": "From: NAV for Microsoft Exchange-USNYPEXCH1 [NAVMSE-USNYPEXCH1@iie.org]\n\nSent: 27. janúar 2004 08:03\n\nTo: 'mitt hjá strik(punktur)is'\n\nSubject: Norton AntiVirus detected a virus in a message you sent. The\n\ninfected attachment was deleted.\n\n\n\nRecipient of the infected attachment:  StudyAmerica\\Inbox Subject of the message:  ERROR One or more attachments were deleted\n\n  Attachment doc.scr was Deleted for the following reasons:\n\n    Virus W32.Novarg.A@mm was found.",
+            "date": "2004-01-27 23:34:00",
+            "post_id": "29838",
+            "reply_to_id": "29826"
+        },
+        {
+            "user_name": "Palm",
+            "text": "Ég átta mig samt ekki alveg á því hvaða tölva það er sem gæti verið sýkt.\n\nEr það namesecure tölvan sem forwardar póstinum áfram (ræði ekki yfir henni) - serverinn þar sem domainið er uppsett (sú vel getur sent póst) - vinnutölvan sem ég er að fá póstinn á eða kannski enginn þeirra og ákveðnar email addressur eru bara í netfangaskrám hjá öðrum aðilum sem eru með sýktar tölvur.\n\n\n\nGet ég einhvern veginn á póstinum áttað mig á því havað tölva það er sem er sýkt?\n\n\n\nPalm",
+            "date": "2004-01-28 01:32:00",
+            "post_id": "29854",
+            "reply_to_id": "29838"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Það getur vel verið að það sé engin tölva hjá þér sýkt.",
+            "date": "2004-01-28 13:32:00",
+            "post_id": "29898",
+            "reply_to_id": "29854"
+        },
+        {
+            "user_name": "Palm",
+            "text": "Eftir að hafa skoðað þetta smá sýnist mér að engin tölva hjá mér sé sýkt.\n\nEitt tölvupóstfang sem ég á er greinilega til í mörgum netfangaskrám og þess vegna verð held ég ég svona fyrir barðinu á þessu.\n\n\n\nPalm",
+            "date": "2004-01-28 16:15:00",
+            "post_id": "29923",
+            "reply_to_id": "29898"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Ertu kannski svona vinsæll",
+            "date": "2004-01-28 16:31:00",
+            "post_id": "29927",
+            "reply_to_id": "29923"
+        }
+    ],
+    "date": "2004-01-27 18:18:00"
+}

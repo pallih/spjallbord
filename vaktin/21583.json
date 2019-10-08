@@ -1,0 +1,72 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "21583",
+    "title": "Óhljóð í nýjum Seagate Barracuda.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=21583",
+    "posts": [
+        {
+            "user_name": "astro",
+            "text": "Sælir, ég keypti mér nýjan Seagate Barracuda 32MB SATA disk um daginn, installaði XP Pro, allt í lagi þangað til að tölvan fylltist af vírusum og ég þurfti að formatta. \nÉg er búinn að vera með XP síðan það kom út og komin með uppí kok af því, þannig ég installaði Windows Vista Ultimate og núna er ekkert rosalega góð reinslusaga af því vegna þess að ég er byrjaður núna að heyra svona scratch/click hljóð í disknum í vinnslu og idle! svo þegar ég monitora diskinn þá sé ég 0-3% vinsla svo allt í einu 80% og aftur niður og aftur upp!\nEf ég snerti eða held utanum diskinn þá finn ég fyrir svona vægum höggum eða kippum þegar hljóðin koma, lýst ekkert á þetta.\nÉg gerði \"Quick Format\" í fyrsta sinn núna þegar ég setti inn vista, hræddur um að ég hafi meitt greyið diskinn eithvað.. \nSvo þegar ég geri CHKDSK Þá fer það uppí stef 4 og er komið ágæta leið og BÚMM, BLUE SCREEN OF D34TH, get restartað og þá kemst ég aftur í windows.\nBúinn að runna Disk Defragment allveg síðan að ég installaði vista nokkrum sinnum, búinn að runna CCleaner og Disk Cleanup.\nBúinn að installa Service Pack 1 FULL og installa öllum availible updates fyrir Vista.\nGetiði komið með einhverjar theories hvað þetta gæti verið :/\nAkkúrrat í þessu mómenti er ég að formatta (Ekki quick  \n ) gamlan (sem hefur ALLDREI KLIKKAÐ) WD 80Gb 8MB 7200SNÚNINGA og ætla að prófa að installa vista á hann.",
+            "date": "2009-02-11 19:31:00",
+            "post_id": "197511",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Sæktu \nSeaTools\n frá Seagate og prófaðu diskinn.",
+            "date": "2009-02-11 19:47:00",
+            "post_id": "197512",
+            "reply_to_id": "197511"
+        },
+        {
+            "user_name": "astro",
+            "text": "Ég prufa þetta GuðjónR, takk fyrir þetta.",
+            "date": "2009-02-11 19:50:00",
+            "post_id": "197513",
+            "reply_to_id": "197512"
+        },
+        {
+            "user_name": "astro",
+            "text": "S.M.A.R.T Check - Pass\nShort Drive Self Test/DST - Fail\nLong Drive Self Test/DST - Fail\nShort Generic - Pass\nLong Generic - Pass\nHvað þýðir þetta?",
+            "date": "2009-02-11 20:01:00",
+            "post_id": "197516",
+            "reply_to_id": "197513"
+        },
+        {
+            "user_name": "Ezekiel",
+            "text": "Hvaða stærð af disk er þetta?\nSeagate eru búnir að gefa út nýja diska sem eru búnir að vera kúka duglega á sig, sumir 1TB og 1.5TB frá Seagate Barracuda sem lýsa sér þannig að þeir eru búnir að vera frjósa og virka illa, og sumir hafa talað um svona klikk hljóð sem þeir gefa frá sér.",
+            "date": "2009-02-11 20:31:00",
+            "post_id": "197524",
+            "reply_to_id": "197516"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Samsung er bara stálið þessa dagana, vill ekki lengur sjá Seagate.",
+            "date": "2009-02-11 21:06:00",
+            "post_id": "197544",
+            "reply_to_id": "197524"
+        },
+        {
+            "user_name": "astro",
+            "text": "Þetta er 500GB",
+            "date": "2009-02-11 21:40:00",
+            "post_id": "197558",
+            "reply_to_id": "197544"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Þetta þýðir líklega að hann sé ónýtur!\nÉg myndi fara með hann (og nótuna) þangað sem ég keypi hann, segja þeim þessa sögu og að þú hafir prófað hann og þetta sé niðurstaðan.\nLíklega vilja þeir fá að prófa hann, sem er bara í fínu lagi og ef þeir komast að þeirri niðurstöðu að hann sé gallaður þá færðu nýjan disk.",
+            "date": "2009-02-11 21:43:00",
+            "post_id": "197560",
+            "reply_to_id": "197558"
+        },
+        {
+            "user_name": "astro",
+            "text": "Ókei, reyni að finna nótuna \n Takk fyrir þetta strákar",
+            "date": "2009-02-11 22:31:00",
+            "post_id": "197571",
+            "reply_to_id": "197560"
+        }
+    ],
+    "date": "2009-02-11 19:31:00"
+}

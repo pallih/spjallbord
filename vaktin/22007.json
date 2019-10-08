@@ -1,0 +1,72 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "22007",
+    "title": "Vandræði við nýjan dvd skrifara",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=22007",
+    "posts": [
+        {
+            "user_name": "frikki1974",
+            "text": "Ég keypti mér nú áðan nýjan DVD skrifara (Super Writemaster) og ætlaði að setja hann í og tók gamla úr tengdi þann nýja og pluggaði\nauðvitað snúrunum á sama stað og var á gamla,en þegar ég ætlaði síðan að starta tölvunni upp kom upp svartur skjár og þar stóð Cannot find C/SYSTEM32/CONFIG/SYSTEM \nog hún vill að ég setji Windows diskinn í og klikka á R (repair)!!\nHvað í óskupunum getur þetta verið?",
+            "date": "2009-03-07 12:57:00",
+            "post_id": "200162",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "palmi6400",
+            "text": "finnur bios drifið?",
+            "date": "2009-03-07 14:28:00",
+            "post_id": "200168",
+            "reply_to_id": "200162"
+        },
+        {
+            "user_name": "frikki1974",
+            "text": "Nú veit ég ekki en hvernig sé ég það?\nÝtir maður ekki annars á F2 til að fara í bios?",
+            "date": "2009-03-07 14:30:00",
+            "post_id": "200169",
+            "reply_to_id": "200168"
+        },
+        {
+            "user_name": "palmi6400",
+            "text": "það er oftast delete",
+            "date": "2009-03-07 14:32:00",
+            "post_id": "200170",
+            "reply_to_id": "200169"
+        },
+        {
+            "user_name": "frikki1974",
+            "text": "Geturðu sagt mér hvar í bios sem það finnur drifið? og hvað á að standa ef hún finnur það ekki.",
+            "date": "2009-03-07 14:55:00",
+            "post_id": "200173",
+            "reply_to_id": "200170"
+        },
+        {
+            "user_name": "palmi6400",
+            "text": "það stendur oftast standard bios setings og þá stendur allir horðudiskarnir þinir þar og ef þú sérð ekki dvd eitthvað þá sér bios ekki drifið",
+            "date": "2009-03-07 15:46:00",
+            "post_id": "200179",
+            "reply_to_id": "200173"
+        },
+        {
+            "user_name": "frikki1974",
+            "text": "Ok ég skil núna en seigjum ef bios sér ekki drifið hvað geri ég þá?",
+            "date": "2009-03-07 17:57:00",
+            "post_id": "200199",
+            "reply_to_id": "200179"
+        },
+        {
+            "user_name": "Arena77",
+            "text": "Þú verður að enebla það í Bios",
+            "date": "2009-03-07 18:10:00",
+            "post_id": "200202",
+            "reply_to_id": "200199"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Það er greinilegt að boot orderið sé eitthvað FU",
+            "date": "2009-06-19 04:01:00",
+            "post_id": "209694",
+            "reply_to_id": "200202"
+        }
+    ],
+    "date": "2009-03-07 12:57:00"
+}

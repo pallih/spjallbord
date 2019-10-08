@@ -1,0 +1,86 @@
+{
+    "forum_title": "Koníakstofan",
+    "id": "52916",
+    "title": "XBMC hvaða flakkarar styðja það",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=9&t=52916",
+    "posts": [
+        {
+            "user_name": "PepsiMaxIsti",
+            "text": "Góðan dag\nMig langar að athuga hvaða tæki það eru sem að styða XBMC, mig langar að geta verið með það keyrt þannig að ég geti verið með allt efni á einum stað. \nVonast til að fá góð svör.\nKv. PepsiMaxIsti",
+            "date": "2013-01-22 18:19:00",
+            "post_id": "491057",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "hagur",
+            "text": "Enginn flakkari sem ég veit um ...\nÆtli þú sért ekki best settur með Raspberry Pi eða þá einhverja ARM based Android smátölvu/TV dongle.\nEða bara Plex og Roku.",
+            "date": "2013-01-22 18:30:00",
+            "post_id": "491059",
+            "reply_to_id": "491057"
+        },
+        {
+            "user_name": "PepsiMaxIsti",
+            "text": "Er svo sem ekki bara að meina flakkara, er bara að tala um hvaða tæki, er með eina tölvu sem að er ekki góð sem að ég nota til að ná í efni, en vantar einhvern spilara sem að getur keyrt XBMC",
+            "date": "2013-01-22 18:39:00",
+            "post_id": "491062",
+            "reply_to_id": "491059"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Er með Raspberry Pi með XBMC og er ekki nógu hrifinn af því hvað library-ið er hægt, hefði viljað hafa þetta hraðara svo ég gæti notað library fítusinn og skoðað coverin á myndunum.\nÞað verður samt vonandi lagað í næstu útgáfum af Xbian eða Openelec eða öðrum útgáfum.",
+            "date": "2013-01-22 18:42:00",
+            "post_id": "491064",
+            "reply_to_id": "491062"
+        },
+        {
+            "user_name": "Saber",
+            "text": "Þú færð takmarkað processing power fyrir rúman 7000 kall. Menn þurfa að eyða aðeins meira í XBMC vél ef þeir vilja gott flæði í interface-ið og geta spilað high bitrate skrár.",
+            "date": "2013-01-22 18:50:00",
+            "post_id": "491066",
+            "reply_to_id": "491064"
+        },
+        {
+            "user_name": "PepsiMaxIsti",
+            "text": "Með hverju mæliru?",
+            "date": "2013-01-22 18:57:00",
+            "post_id": "491069",
+            "reply_to_id": "491066"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Yup, grunaði það alveg þegar ég keypti græjuna en ég sá flesta tala um að þetta væri að gera góða hluti. Ég næ að stream-a rúmlega 14 gb video file fínt en eina vandamálið er interface-ið.\nÆtla bara að sleppa að nota library fítusinn heldur frekar bara venjulegu leiðina.\nSorry annars með offtopic félagi, ég held að það séu engir flakkarar sem styðja það eins og er en þú gætir keypt til dæmis Apple TV eða Boxee box og notað það til að streyma video yfir í það. R-Pi virkar allt í lagi en ekki ef þú ætlar að nota library, samt allt í lagi ef þú notar bara venjulegu aðferðina til að horfa á video eins og ég ætla að gera framvegis.",
+            "date": "2013-01-22 19:00:00",
+            "post_id": "491072",
+            "reply_to_id": "491069"
+        },
+        {
+            "user_name": "Saber",
+            "text": "Smíða tölvu úr gömlu/notuðu hardware-i.",
+            "date": "2013-01-22 23:54:00",
+            "post_id": "491130",
+            "reply_to_id": "491072"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Örugglega langmesta bang for buck að kaupa þér Roku og setja upp Plex á því.",
+            "date": "2013-01-23 00:52:00",
+            "post_id": "491136",
+            "reply_to_id": "491130"
+        },
+        {
+            "user_name": "dori",
+            "text": "Ouya\n mun styðja XBMC... sbr. \nhttp://xbmc.org/natethomas/2012/08/07/x ... a-oh-yeah/\nOg þú færð leikjatölvu, ekki að það sé endilega eitthvað sem þú vilt samt. Roku virðist samt geta verið ódýrara (og þú getur fengið það strax).",
+            "date": "2013-01-23 08:25:00",
+            "post_id": "491157",
+            "reply_to_id": "491136"
+        },
+        {
+            "user_name": "jericho",
+            "text": "Jailbroken Apple tv 2. Mjög sáttur.",
+            "date": "2013-01-23 08:40:00",
+            "post_id": "491159",
+            "reply_to_id": "491157"
+        }
+    ],
+    "date": "2013-01-22 18:19:00"
+}

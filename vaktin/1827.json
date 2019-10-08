@@ -1,0 +1,128 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "1827",
+    "title": "Léleg tölva eða hvað",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=1827",
+    "posts": [
+        {
+            "user_name": "siggiz",
+            "text": "Halló,\n\n\n\nÉg er hérna með e-ð sem kallast tölva, því tölva er þetta ekki -þetta er drasl! Jæja hún er svona: 2500 Barton 333, 9700 pro cat. 3.8, Gigabyte 7VAX iee1394, 512 hyperx 333, winxp pro og eitthvað fleirra shit.  Það besta við hana er 3d mark scorið :9500 STIG:Þ með 1800+ var það 8500.  Ég hef séð svipaðar tölvur með jafnvel lélegara skjákorti fá 12-13000 stig... \n\n\n\nAnnars þá er þetta kannski ekki aðal vandamálið.  Þannig er mál við vexti að ég fekk mér HALO um daginn og þegar ég ætlaði að spila hann kemur upp eitthvað um að leikur getið ekki(að mig minnir) installize direct 3d, please run DIXDIG, ég geri það en ekkert virðist vera að.  Síðan er það að ég prófa að henda refreshrate fix forritinu og keyra leikinn á að ég held 60hz, þá virkar þetta allt í einu.. En ekki lagglaust.  Var að spila leikinn í 640x480 og low detail á öllu -samt lagg!  \n\n\n\nSeinna þá ákvað ég að formatta tölvuna mína.  Þergar það var búið setti ég upp helstu rekla osfv. en þegar ég ætlaði að prófa halo aftur fraus þetta hjá mér, þ.e þegar fyrirtækin sem búa til leikin eru að auglýsa sig í upphafi leiksins.   \n Ég prófa síðan quake 3 -ekkert að honum, half life í opengl -ekkert að, en síðan prófa ég að breyta yfir í direct 3d og viti menn leikurinn fraus!!!  Ég prófaði líka aftur DXDIAG og fór í test 3d acceleration -tölvan fraus, reyndi þetta tvisvar en allt fór á sama veg! Ég hef bara ekki grænan um þetta né hvað sé að eða hvernig hægt er að laga þetta!?   \n\nhva er málið??\n\n\n\nöll hjálp væri vel þegin þeas ef þið nennið að lesa þetta ...\n\n\n\np.s. því má bæta við ef það hjálpar að í display glugganum í dxdiag er AGP texture Acceleration ekki avalible(á það að vera á???)\n\nog já ég er vís enginn tölvu snillingur þannig að plz ekki koma með eitthvað svör um að þetta sé asnalega orðað hjá mér:)",
+            "date": "2003-10-18 00:07:00",
+            "post_id": "16848",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gumol",
+            "text": "Skil þig \nEf þú ert að tala um svartíma kemur hann tölvunni lítið við, það er tengingin sem ræður því. Ef þú ert hinsvegar að tala um högt í leiknum þegar mikið er á skjánum er það tölvan.\n\n\nHljómar eins og vandamál með skjákortið, geturu prófað með öðru skjákorti (má þessvegna vera gamalt kort)",
+            "date": "2003-10-18 01:06:00",
+            "post_id": "16858",
+            "reply_to_id": "16848"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Gætir prófað að sækja þér SiSoft Sandra og Benchmarka örgjörvann í því og bera hann saman við sambærileg system, ef það er í lagi þá kíkja á t.d. Memory Benchmark. Ef það er allt nokkuð svipað og sambærileg system þá er það líklega skjákortið. Prófa að uninstalla driverunum (og DirectX) og setja svo upp aftur?",
+            "date": "2003-10-18 08:50:00",
+            "post_id": "16867",
+            "reply_to_id": "16858"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Hann sagðist vera búinn að formatera",
+            "date": "2003-10-18 12:23:00",
+            "post_id": "16870",
+            "reply_to_id": "16867"
+        },
+        {
+            "user_name": "siggiz",
+            "text": "jám einmitt, ég formataði ekki gær heldur hinnn  \n\n\n\n\nég skil þetta ekki, ég setti inn 3.8 og drx9b síðan via 4in1... direct 3d eitthvað gallað ...      Ég get ekki einu sinni benchmarkað hana núna því að 3dmark frýs bara.",
+            "date": "2003-10-18 14:02:00",
+            "post_id": "16874",
+            "reply_to_id": "16870"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Prófaðu annað skjákort í þessari tölvu og þetta skjákort í annari tölvu.",
+            "date": "2003-10-18 14:15:00",
+            "post_id": "16875",
+            "reply_to_id": "16874"
+        },
+        {
+            "user_name": "siggiz",
+            "text": "jám einmitt, ég formataði ekki gær heldur hinnn  \n\n\n\n\nég skil þetta ekki, ég setti inn 3.8 og drx9b síðan via 4in1... direct 3d eitthvað gallað ...      Ég get ekki einu sinni benchmarkað hana núna því að 3dmark frýs bara.",
+            "date": "2003-10-18 14:30:00",
+            "post_id": "16876",
+            "reply_to_id": "16875"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Hvenar ætlar fólk að hætta að nota back",
+            "date": "2003-10-18 14:37:00",
+            "post_id": "16877",
+            "reply_to_id": "16876"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Installera HALO síðan Directx9b síðan í restina nVidia driver....\n\n\n\nÉg lenti í svipuð og þú ert að tala um en það lagaðist um leið og ég setti nvidia driverinn upp aftur.",
+            "date": "2003-10-18 15:56:00",
+            "post_id": "16883",
+            "reply_to_id": "16877"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "byrjaðu á því að setja 4in1 inn! maður á alltaf að byrja á að installa chipsettum.",
+            "date": "2003-10-18 20:51:00",
+            "post_id": "16888",
+            "reply_to_id": "16883"
+        },
+        {
+            "user_name": "Fletch",
+            "text": "ertu með FSB stillt á 166 ?  stundum default'a bios'ar á 100 MHz eða 133 MHz, þá ertu að undirklukka örran...\n\n\n\nFletch",
+            "date": "2003-10-18 21:32:00",
+            "post_id": "16889",
+            "reply_to_id": "16888"
+        },
+        {
+            "user_name": "odinnn",
+            "text": "þetta var einmitt stillt á 133 fsb á barton 2500 örranum mínum þegar ég ræsti tölvuna mína fyrst.",
+            "date": "2003-10-19 21:42:00",
+            "post_id": "16953",
+            "reply_to_id": "16889"
+        },
+        {
+            "user_name": "kemiztry",
+            "text": "Hveð með drivera fyrir móðurborðið? eru þeir inni?",
+            "date": "2003-10-19 22:07:00",
+            "post_id": "16954",
+            "reply_to_id": "16953"
+        },
+        {
+            "user_name": "siggiz",
+            "text": "jamm allir driverar eru inni\n\n\n\nbus er 167\n\n\n\nég er með alla drivera uppsetta, en núna er komið upp annað vandamál, þegar ég installa driver(bara einhverjum) getur tölvan ekki bootað... \n\n\n\ntölvan startar sér og upp kemur winxp is starting up síðan stoppar hún bara og skjárinn slekkur á sér...\n\n\n\nannars er ég núna með gamla skákortið geforce 2 pro og fékk 5022 stig í 3d mark 01:D  \n\n\n\nþessi tölva er bullshit !",
+            "date": "2003-10-22 14:45:00",
+            "post_id": "17226",
+            "reply_to_id": "16954"
+        },
+        {
+            "user_name": "odinnn",
+            "text": "farðu inná \nhttp://www.cpuid.com/\n og downloadaðu CPU-Z 1.20 og segðu okkur hvað þú fékkst út úr því.",
+            "date": "2003-10-24 16:57:00",
+            "post_id": "17445",
+            "reply_to_id": "17226"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "wtf.. var að prófa þetta forrit og Bus Speed breytist stanslaust. er þetta eðlilegt? þetta eru reyndar ekkert miklar breytingar sýnist að það sé 0.4mhz.",
+            "date": "2003-10-24 20:40:00",
+            "post_id": "17470",
+            "reply_to_id": "17445"
+        },
+        {
+            "user_name": "odinnn",
+            "text": "ég er líka að rokka þarna, en það er örruglega ekkert voðalegt. síðan er ég að rokka voðaleg í core speed allveg um 70mhz",
+            "date": "2003-10-24 21:10:00",
+            "post_id": "17473",
+            "reply_to_id": "17470"
+        }
+    ],
+    "date": "2003-10-18 00:07:00"
+}

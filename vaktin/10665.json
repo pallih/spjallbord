@@ -1,0 +1,79 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "10665",
+    "title": "Nvidia Gforce?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=10665",
+    "posts": [
+        {
+            "user_name": "<=BaD=>RaGnaR",
+            "text": "jæjæ ég er með Sparkle Gforce 7900GTX og ég var að hugsa hvar ég gæti séð Memory Clock og Core Clock ? \n\n\n\nHef alltaf verið með ATi kort og kann ekkert á Gforce \n\n\n\n\nog var nú bara að leika mér en downloadaði ATi Tool sem er náttla fyrir ATi kort og þar sér maður Core Clock og Memory Clock fyrir ATi kortin og getur overclockað þau.  \n\nen þetta kemur einhvað furðulega út þegar maður er með Gforce kort\n\nHérna er mynd af þessu \n\n\n\n[/url]",
+            "date": "2006-04-21 13:18:00",
+            "post_id": "116563",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Yank",
+            "text": "Hægri smellir á desktop -- properties -- Settings -- Advanced -- Geforce flipan. Clock frec...\n\n\n\nminnir að þetta sé svona. \n\nAnnars er best að nota coolbits til þess  að oc nvidia.",
+            "date": "2006-04-21 13:48:00",
+            "post_id": "116568",
+            "reply_to_id": "116563"
+        },
+        {
+            "user_name": "<=BaD=>RaGnaR",
+            "text": "það er engin Clock frequency flipi þar",
+            "date": "2006-04-21 14:45:00",
+            "post_id": "116572",
+            "reply_to_id": "116568"
+        },
+        {
+            "user_name": "Yank",
+            "text": "settu upp coolbits þá kemur hann.",
+            "date": "2006-04-21 15:57:00",
+            "post_id": "116581",
+            "reply_to_id": "116572"
+        },
+        {
+            "user_name": "Fumbler",
+            "text": "Og ef þú nennir ekki að Googla Coolbits þá eru þeir t.d \nhér.\n\n\n\n\nEn svo er að sjálfsögðu \nRiva Tuner\n mjög gott og reglulega uppfært forrit.",
+            "date": "2006-04-21 16:03:00",
+            "post_id": "116582",
+            "reply_to_id": "116581"
+        },
+        {
+            "user_name": "hahallur",
+            "text": "rivatuner og málið er dautt.",
+            "date": "2006-04-21 16:47:00",
+            "post_id": "116586",
+            "reply_to_id": "116582"
+        },
+        {
+            "user_name": "<=BaD=>RaGnaR",
+            "text": "er með Coolbits 2.0 og NvTweak 171 kann bara ekkert á þetta dót\n\n\n\n*Edit* núna er ég líka kominn með RivaTuner en sé ekki neinstaðar Core and memory Clock ?   voðalega er þetta einhvað flókið miðað við ATi Tool þar prufar maður bara limitið á kortinu með því að ýta á Find max Core og Find max Memory og sér alltaf allar upplýsingar",
+            "date": "2006-04-21 17:22:00",
+            "post_id": "116589",
+            "reply_to_id": "116586"
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "Coolbits er næstum nákvæmlega eins og AtiTool...",
+            "date": "2006-04-21 17:54:00",
+            "post_id": "116592",
+            "reply_to_id": "116589"
+        },
+        {
+            "user_name": "<=BaD=>RaGnaR",
+            "text": "amm ok núna er þetta komið samt stendur Core 650 mhz og Memory 800 mhz",
+            "date": "2006-04-21 18:00:00",
+            "post_id": "116594",
+            "reply_to_id": "116592"
+        },
+        {
+            "user_name": "Woods",
+            "text": "+\n\n\n\nmemory x2  samasem 1600",
+            "date": "2006-04-21 18:56:00",
+            "post_id": "116602",
+            "reply_to_id": "116594"
+        }
+    ],
+    "date": "2006-04-21 13:18:00"
+}

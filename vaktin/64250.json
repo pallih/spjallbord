@@ -1,0 +1,170 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "64250",
+    "title": "Besta/Öruggasta aðferðin fyrir gagnaöryggi?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=64250",
+    "posts": [
+        {
+            "user_name": "mxtr",
+            "text": "Væri til í ykkar álit á gagnaöryggi þ.e.a.s ég er að spá hvaða tegund af hdd og hvaða tegund af raid (væntanlega mirror?) er sniðugast.\nÞetta er bara heimilistölva btw.\nRak augun í þráð hérna um daginn um að WD diskar væru orðnir hrikalega góðir en finn ekki þráðinn.\nTakk takk.",
+            "date": "2015-01-29 14:57:00",
+            "post_id": "588914",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "rapport",
+            "text": "Vinsamlegast forgangsraðaðu þessum þrem atriðum:\nÁreiðanleiki - Að gögnin séu ætíð rétt og spillist ekki við geymslu, lestur eða aðra notkun, hver yrði afleiðing af gagnatapi?\nAðgengi - Hratt, auðvelt og hversu mikið þarftu að reiða þig á að komast í gögnin alltaf. Þurfa aðrir að komast í gögnin? \nLeynd - Hversu mikla leynd viltu hafa t.d. dulkóðun,  o.þ.h\nOg svo náttúrlega, hversu mikið magn af gögnum ertu að geyma...",
+            "date": "2015-01-29 15:38:00",
+            "post_id": "588917",
+            "reply_to_id": "588914"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Hitachi og WD diskarnir eru góðir, Seagate 4TB diskarnir hafa líka verið að koma mjög vel út ólíkt 1.5-3TB týpunum þeirra. Passaðu bara að ekki í neina \"green\" diska, flestir diskar sem parka leshausnum valda vandræðum í raid. \nÆtli öruggasta RAIDið sé ekki RAID6/RAID60.",
+            "date": "2015-01-29 16:06:00",
+            "post_id": "588919",
+            "reply_to_id": "588917"
+        },
+        {
+            "user_name": "Kristján Gerhard",
+            "text": "Vantar ekki kostnað í þennan lista? Stór faktor í þessu.",
+            "date": "2015-01-29 16:16:00",
+            "post_id": "588920",
+            "reply_to_id": "588919"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Ég get gefið þér ódýra lausn sem forgangsraðar leynd yfir aðgengi og áreiðanleika og ég get gefið þér dýra lausn sem gerir það sama.\n(HDD, TrueCrypt AES, ekkert RAID) vs (SSD, TrueCrypt AES, RAID1)\nEf þú forgangsraðar aðgengi yfir leynd og áreiðanleika er ég einnig með dýra og ódýra lausn fyrir það o.s.frv., kostnaður þarf ekki að vera á listanum. \nAnnars er bara rosalega takmarkaður kostnaðarmunur á RAID diskauppsetningum í borðtölvum. \n@OP\nÉg hef bara fleiri en einn disk í tölvunni og nota Windows Backup á Schedule sem passar að það sé allt sem ég vil hafa backað upp á tvem diskum vikulega.\nÞar sem að það er hvort sem er allt glatað ef tölvunni er stolið og hvort sem er allt öruggt ef bara annar diskurinn failar hef ég þetta bara svona einfalt.",
+            "date": "2015-01-29 17:18:00",
+            "post_id": "588923",
+            "reply_to_id": "588920"
+        },
+        {
+            "user_name": "tlord",
+            "text": "öryggi og bestun í hvaða samhengi?",
+            "date": "2015-01-29 17:41:00",
+            "post_id": "588925",
+            "reply_to_id": "588923"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Mitt setup:\nSSD fyrir stýrikerfi og forrit\nSSD fyrir leiki\nHDD fyrir gögn (redirecta my documents, downloads o.þ.h yfir á þennan disk)\n2xHDD fyrir afþreyingarefni (no backup)\nNota backblaze fyrir afritunartöku fyrir gögn, leiki og C:\nTil að þurfa ekki að nota Backblaze í allt sem klikkar + ég vil hafa smá backlogg af gögnum/afritum, þá nota ég SyncToy til að schedula afritun yfir á flakkara tengdum routernum af möppum sem ég vista vinnugögnin mín í.\ns.s. ef ég vista óvart yfir skjal sem ég er að vinna í = finn nýlega útgáfu á flakkaranum auðveldlega eða fer inn á backblaze til að finna afrit frá þeim tíma sem ég held að skjalið sé af þeirri útgáfu sem ég vil nota.",
+            "date": "2015-01-29 17:57:00",
+            "post_id": "588926",
+            "reply_to_id": "588925"
+        },
+        {
+            "user_name": "bigggan",
+            "text": "finst þetta vera alveg ágætis lysing á Seagate\nAnnars minni mig að WD RED diskarnir eru sérstaklega fyrir gagnaöryggi",
+            "date": "2015-01-29 19:04:00",
+            "post_id": "588933",
+            "reply_to_id": "588926"
+        },
+        {
+            "user_name": "nidur",
+            "text": "Fyrir þá sem ætla bara að setja diskinn beint í þá er þetta rétt, en annars keyrir maður bara wdidle3 og setur timerinn í 300 sec.\nHöfundur ætlar greinilega að keyra allt á tölvunni sinni sýnist mér, þá myndi ég bara setja upp tvo eins diska í mirror, og taka backup á utanáliggjandi disk af og til.",
+            "date": "2015-01-29 21:06:00",
+            "post_id": "588952",
+            "reply_to_id": "588933"
+        },
+        {
+            "user_name": "mxtr",
+            "text": "Takk fyrir flott svör.\nNákvæmlega þessi röð rapport. \n1. Áreiðanleiki (óendurskapanleg gögn), \n2. Aðgengi (Þarf ekki og vil ekki hafa annað aðgengi í gögnin en hér heima, bara einn user) \n3. Engin þörf á leynd í þessu tilfelli.\n4Tb pláss dugar.  Annars sándar þitt setup alveg solid \nVil halda þessu undir 100 þús\nTakk æðislega fyrir \"leynd-aðgengi-áreiðanleiki\" lausnirnar Gúrú, that was going to be my next question for another project \nÞakka súluritið bigggan. Mér sýnist á þessu að 4Tb Seagate dugi just fine.\nHvað finnst ykkur um að geyma ómetanleg gögn online?  Ég á alltaf svoldið erfitt með að treysta öðrum fyrir gersemum.  Er server útí heimi öruggari fyrir bruna og skemmdarverkum en heimilistölvan mín?",
+            "date": "2015-01-29 22:33:00",
+            "post_id": "588966",
+            "reply_to_id": "588952"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ég myndi seint geyma ómetanleg gögn annarsstaðar í skýi. Mörg gagnaver eru með replication á milli landa/heimsálfa til að bæta enn öðru öryggisþrepinu við, þótt það sé oftast óþarfi. Ég held að síðasta DC sem hafi brunnið til grunna hafi verið frekar lítið DC í Wisconsin og það var 2008, og þeir voru með allt backað upp offsite sjálfir.\nEn þú ættir held ég bara að prufa að kíkjá vídjó á YouTube um öryggið í DCum erlendis. Í sem fæstum orðum þá já, eru gögnin þín öruggari þar en heima hjá þér - Nema þú sért með afar öflugt bunker í kjallaranum.",
+            "date": "2015-01-29 22:41:00",
+            "post_id": "588967",
+            "reply_to_id": "588966"
+        },
+        {
+            "user_name": "kunglao",
+            "text": "wd red",
+            "date": "2015-01-29 22:53:00",
+            "post_id": "588970",
+            "reply_to_id": "588967"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Ef þú vilt að myndirnar þínar lifi af eldsvoða, þá hefur þú afrit af þeim annarstaðar.\nÉg lenti í tapa gögnum vegna þess að ég pældi ekki í þessu og backupið hjá barnalandi bjargaði miklu...",
+            "date": "2015-01-29 23:06:00",
+            "post_id": "588971",
+            "reply_to_id": "588970"
+        },
+        {
+            "user_name": "Klaufi",
+            "text": "Það er voðalega erfitt að kasta þessu fram sem staðreynd..\nEf þið pælið í því, komu þeir ekki fyrst út sumarið 2012?\nÞað þýðir að það er ekki einn production diskur kominn í þrjú ár, og þ.a.l. höfum við ekki hugmynd um endinguna.\nMegið endilega leiðrétta mig ef mig er að misminna með útgáfutímasetninguna, en ég tek yfirleitt því sem ég les í bæklingum með fyrirvara..\nHver man ekki eftir því þegar SSD diskarnir komu og áttu að vera gjörsamlega skotheldir?\nSvo fóru þeir að hrynja á innan við tveimur árum. (Sandforce stýringarnar, var það ekki?)\nOn topic:\nÉg nota Dropbox undir allt, ekki bara það sem skiptir máli, hefur reynst mér vel og þægilegt viðmót.\nFrábært aðgengi alls staðar að, og endalaust þægilegt ef að eitthvað klikkar, að vera byrjaður að sækja allt á nýja vél á nó tæm er snilld..\nEr ekki með neinar sérstakar vélbúnaðar ráðstafanir á mínum vélum annars.",
+            "date": "2015-01-29 23:09:00",
+            "post_id": "588973",
+            "reply_to_id": "588971"
+        },
+        {
+            "user_name": "mxtr",
+            "text": "Wtf, auðvitað er ég með bunker mar!\nTakk allir, nú þarf ég bara að kynna mér aðeins það efni sem hér hefur komið fram.  Líklega vil ég aðskilja gögnin mín og flokka nánar eftir þörf og mikilvægi og deila niður á viðeigandi lausnir.  En nkl núna ætla ég niður í bunker og opna eins dós fyrir svefninn",
+            "date": "2015-01-29 23:42:00",
+            "post_id": "588981",
+            "reply_to_id": "588973"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Ég á einstaklega ferskar minningar af því að allir hafi verið fullmeðvitaðir um að SSD væru ekki skotheldir þegar þeir komu út enda glæný tækni. \nMér datt ekki í hug að þeir myndu endast lengur en 2 ár svo ég keypti minn hjá Tölvutækni sem bauð upp á 3 ára ábyrgð á sumum þeirra. \n(Minn stendur sig samt ennþá \ngríðarlega vel\n 26 mánuðum síðar) \nVið höfum upplifað þetta eitthvað öðruvísi.",
+            "date": "2015-01-30 10:29:00",
+            "post_id": "588999",
+            "reply_to_id": "588981"
+        },
+        {
+            "user_name": "playman",
+            "text": "Ef ég væri að leita eftir nánast bullet proof gagnaöryggi (Ekkert til sem er 100% gagnaöryggi)\nÞá myndi ég vera með Mirror raid, en ekki með diska úr sama batchi, flakkara/cloud, og svo viku til \nmánaðarlegt afrit á CD/DVD/Tape (fer eftir magni) sem er svo geymt í bankageimslu, líkurnar á því \nað allt þetta klikki á sama tíma eru stjarnfræðilega littlar, en spurningin er, hvað hefur maður efni á að tryggja gagna öryggið sitt.\nÉg veit að t.d. EJS gerðu reglulega tape backup sem fór svo í bankan í geymslu, veit ekki hvernin þetta er hjá advania\nnú í dag, kanski eru þeir hættir því.",
+            "date": "2015-01-30 11:38:00",
+            "post_id": "589005",
+            "reply_to_id": "588999"
+        },
+        {
+            "user_name": "Klaufi",
+            "text": "Það var svo ótrúlega mikið af fólki \ní kringum mig\n sem fór í tölvubúð og sölumennirnir sögðu að þetta væri eina vitið, \"engir hreyfanlegir hlutir svo að þeir geta ekki skemmst\"..\nFyrrverandi vinnuveitandi var einn af þeim, hann tapaði gögnum, ætlaði sko heldur betur ekki að lenda í því aftur og fór í ónefnt, mjög stórt fyrirtæki á Íslandi.\nÞar var honum selt NAS box og 2x128Gb SSD diskar, svo fylgdi einhver hugbúnaður sem tók vikulegt backup sjálfkrafa.\nTveimur árum seinna átti að ná í gögn af þessu, báðir diskarnir dauðir",
+            "date": "2015-01-30 19:46:00",
+            "post_id": "589055",
+            "reply_to_id": "589005"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Í fyrsta lagi er bilað heimskulegt að setja upp mirror bara til að fylgjast aldrei með hvort að annar diskurinn deyr.\nHversu heimskulegt er það? \nGrínlaust eins heimskulegt og hægt er að fylgjast ekki með stöðu diskanna þá er allur tilgangurinn í tvem diskum farinn. \nAllt gagnaöryggi farið bara þá og þegar. \nÍ öðru lagi er aldrei búinn að vera neinn vafi á því að SSD tæknin í grunninn höndlar það verr en HDD að vera ekki í sambandi/notkun.\nÞetta er því bara saga af manni sem misskildi heiminn en kennir heiminum um.",
+            "date": "2015-01-30 19:53:00",
+            "post_id": "589057",
+            "reply_to_id": "589055"
+        },
+        {
+            "user_name": "Klaufi",
+            "text": "Þessir tveir diskar voru ekki mirror-aðir. \nEinfaldlega tveir diskar settir í Nas box og var í raun ekkert nema utanáliggjandi hýsing.\nÞetta var eins heimskulegt setup og til var, og var selt sem bulletproof gagnageymsla.\nÞetta er ekki saga af manni sem misskildi heiminn, þetta er saga af manni sem trúði sölumanni hjá \"virtu\" fyrirtæki á Íslandi.\nÞetta er það stórt kompaní að það er ekki hér á VerðVaktinni t.d.\nÞú mátt snúa þessu upp í rifrildi ef þú vilt, en sögurnar sem ég fékk af því sem fólk fékk frá sölumönnum voru bara rugl og ekkert annað.",
+            "date": "2015-01-30 23:15:00",
+            "post_id": "589070",
+            "reply_to_id": "589057"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Ég er bara alls ekki sammála þessu sentimenti. \nEf þú vilt tala um lygar sem sölumenn koma með þá eru þær óteljandi. \nÉg átti t.d. ekki að kaupa laserprentara skv. sölumanni í Tölvutek nema ég prentaði skrifstofumagn á dag því annars þornaði blekið strax.",
+            "date": "2015-01-30 23:31:00",
+            "post_id": "589073",
+            "reply_to_id": "589070"
+        },
+        {
+            "user_name": "Klaufi",
+            "text": "Þetta komment átti alls ekki við mig persónulega.\nVar bara að byggja á því sem að fólk var að trúa á þessum tíma.\nÞegar ég tala um fólk, þá er ég að tala um \"ótæknihæft\" fólk sem fer í tölvuvöruverslun og leitar ráðlegginga við kaup á vöru.",
+            "date": "2015-01-30 23:46:00",
+            "post_id": "589075",
+            "reply_to_id": "589073"
+        },
+        {
+            "user_name": "nidur",
+            "text": "Hvað vorum við aftur að tala um!",
+            "date": "2015-01-30 23:51:00",
+            "post_id": "589076",
+            "reply_to_id": "589075"
+        }
+    ],
+    "date": "2015-01-29 14:57:00"
+}

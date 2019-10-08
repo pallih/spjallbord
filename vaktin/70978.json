@@ -1,0 +1,79 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "70978",
+    "title": "Álit á tölvu",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=70978",
+    "posts": [
+        {
+            "user_name": "goodweather",
+            "text": "Ég er að setja saman tölvu með budget upp að 150k og langar mig að biðja um álit ykkar. Eigandi hennar mun nota hana til að spila tölvuleiki og til að læra leikjaforritun.\nNúverandi upphæð: 146.650 kr.\nÖrgjörvi: \nIntel i5 6500\nÖrgjörvavifta: \nCooler Master Hyper TX3 EVO\nMóðurborð: \nAsus H110M-A\nVinnsluminni: \nCorsair Vengeance 2x8 GB 2133 MHz\nSkjákort: \nAsus GeForce GTX 970 4 GB\nGagnageymsla: \nSamsung 850 EVO 250 GB\nAflgjafi: \nCorsair CX550M\nKassi: \nCooler Master Silencio 352\nGeisladrif: \nAsus DRW-24F1MT\nEdit: Skipti Hyper 212 kælingu út fyrir Hyper TX3 EVO.\nEdit 2: Bætti við Corsair CX550M aflgjafa.",
+            "date": "2016-10-18 11:30:00",
+            "post_id": "634982",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "birkirsnaer",
+            "text": "Officially kemst hyper 212 (159mm) ekki í cooler master 352 (leyfir 155mm kælingar). Ég hef nú samt eitthvað heyrt að menn séu að troða þessari kælingu í kassann en þá liggur hún upp við side panelinn. Ég er með þennan kassa og keypti lægri noctua kælingu. Annars lúkkar þetta bara vel, en 250gb diskur dugar skammt í leikjunum. Spurning um að bæta við öðrum auka HDD.\nSpurning líka hvort að það sé þörf á geisladrifi...",
+            "date": "2016-10-18 12:00:00",
+            "post_id": "634983",
+            "reply_to_id": "634982"
+        },
+        {
+            "user_name": "goodweather",
+            "text": "Ah, meinar. Skipti henni þá út fyrir Hyper TX3 EVO. Takk fyrir ábendinguna! Varðandi geisladrifið þá var ég sérstaklega beðinn um að hafa það með.",
+            "date": "2016-10-18 12:29:00",
+            "post_id": "634986",
+            "reply_to_id": "634983"
+        },
+        {
+            "user_name": "goodweather",
+            "text": "Einhverjar uppástungur varðandi aflgjafa? Helst modular.",
+            "date": "2016-10-18 12:39:00",
+            "post_id": "634988",
+            "reply_to_id": "634986"
+        },
+        {
+            "user_name": "linenoise",
+            "text": "Diskurinn er alltof lítill fyrir leiki + forritun. Að vera með auka HDD hjálpar ekkert mjög mikið, nema ef leikirnir eru á Steam og þér finnst í lagi að manage-a sjálfur hverjir keyra upp á HDD og hverjir á SSD. Myndi frekar vera með stóran aðaldisk. 500 GB er nóg. \nVeit heldur ekki hvort þú þarft aðra kælingu en stock. Er með 6100 í 352 kassa með stock í einni vél heima og heyri aldrei í honum. Spurning um að uppfæra kælingu *þegar og ef þarf*.\nÉg hugsa að ég myndi frekar kaupa nýtt 1060 heldur en nýtt 970, upp á orkunotkun (og þar með hita og þar með hávaða)\nVarðandi aflgjafa:\n550W eiga alveg að duga vel í þetta build. Almennt myndi ég alltaf mæla með EVGA G2 550 eða 650 í build sem þarf ekki mikið rafmagn. Corsair RM650 kemur til greina líka og gæti verið jafnvel lágværari en EVGA.  Þetta eru eini aflgjafarnir sem er ekki brjálæðislega overpriced miðað við gæði á Íslandi. Dýrir, já, en ekki miðað við. Það er líka kostur að þeir eru allir lágværir. \nAllir aðrir <650 watta aflgjafar á Íslandi eru budget aflgjafar og eru drasl. Corsair CX eru t.d. settir í ruslflokk af þeim sem taka aflgjafa í sundur og skoða innyflin, þó þetta sé \"gott merki\".\nÉg set reyndar þann fyrirvara að það gætu verið til aflgjafar sem hafa ekki verið teardown-reviewaðir, en eru samt góðir.",
+            "date": "2016-10-18 13:37:00",
+            "post_id": "634996",
+            "reply_to_id": "634988"
+        },
+        {
+            "user_name": "Moldvarpan",
+            "text": "Þetta eru fínir partar á viðráðanlegu verði.\nVissulega eru til betri partar, en þeir eru dýrari.\nÞessi aflgjafi sem dæmi, er alls ekki sá besti, en dugar venjulegum notenda í flestum tilfellum.\nÉg hef verið að nota einn CX600W, sem ég keypti meira segja notaðann, og hann runnar flott. Heyrist mjög lítið í honum og hitnar ekki svo mikið.",
+            "date": "2016-10-18 13:54:00",
+            "post_id": "634998",
+            "reply_to_id": "634996"
+        },
+        {
+            "user_name": "birkirsnaer",
+            "text": "Ég hef verið að nota Corsair CX600 án vandamála. \nEinnig er ég með i5 4590 og það var miklu minna noise eftir að ég fékk mér betri kælingu en stock, þ.e. í load. Ég fann minni mun á idle með/án stock viftunnar.",
+            "date": "2016-10-18 15:57:00",
+            "post_id": "635010",
+            "reply_to_id": "634998"
+        },
+        {
+            "user_name": "linenoise",
+            "text": "Aflgjafar eru stundum ekki til vandræða fyrr en þeir drepa tölvuna þína. Þannig að einstakar frásagnir um að CX600 sé bara fínn eru lítils virði. Tölfræði um failure rate væri mjög mikils virði. Sjá t.d. \nhttps://linustechtips.com/main/topic/10 ... verything/\nEins, þegar tölfræðin er ekki til, þá skiptir teardown review mig miklu meira máli en anecdotal evidence. En það er kannski bara ég.\ni5 4590 er meira power hungry en i5 6500. Sem er aftur meira power hungry en i3 6100. \nÞannig að YMMV. Ég myndi prófa og einungis skipta ef stock kæling er að bögga mann í loadi. En ef maður nennir ekki að skipta um kælingu þá er það líka bara fínt að smella einni góðri á strax. Kostar bara pening aukalega.",
+            "date": "2016-10-18 16:08:00",
+            "post_id": "635012",
+            "reply_to_id": "635010"
+        },
+        {
+            "user_name": "Moldvarpan",
+            "text": "Ég veit að dýrari aflgjafar eru með betri varnir fyrir spennufalli/flökti. Það hafa 2 aflgjafar drepist hjá mér í gegnum tíðina, og hvorugir þeirra skemmdu vélbúnaðinn hjá mér. Báðir voru í ábyrgð hjá Tölvutækni.\nEn OP er ekki að spurja um það besta. Um það snýst þetta. En ég nenni ekki þrasi. Þetta er mitt álit, það er ekki sama og þitt.\nCX600 er fínn aflgjafi fyrir venjulegan notenda. Ef hann vill fara í gæði, þá kostar það líka.",
+            "date": "2016-10-18 16:32:00",
+            "post_id": "635018",
+            "reply_to_id": "635012"
+        },
+        {
+            "user_name": "linenoise",
+            "text": "Ég er tilbúinn að borga 5000 kall (CX550m vs EVGA G2 550) fyrir það pís off mænd sem fylgir því að vera ekki með budget build quality. Ég finn ekki gott review af CX550M en hér er CX600M \nhttps://www.techpowerup.com/reviews/Corsair/CX600M/\nÉg er heldur ekki að velta fyrir mér því besta, mér finnst bara CX550M vera lélegur díll fyrir 15K, af því maður er að borga fyrir branding á budget aflgjafa og maður getur fengið top of the line aflgjafa fyrir 20K.\nEn YMMV.",
+            "date": "2016-10-18 16:52:00",
+            "post_id": "635021",
+            "reply_to_id": "635018"
+        }
+    ],
+    "date": "2016-10-18 11:30:00"
+}

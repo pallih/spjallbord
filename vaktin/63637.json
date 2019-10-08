@@ -1,0 +1,86 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "63637",
+    "title": "Vesen með þráðlaust net",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=63637",
+    "posts": [
+        {
+            "user_name": "klukka56",
+            "text": "Er að lenda í undarlegu atriði með þráðlausa netið heima hjá mér. Þetta byrjaði bara allt í einu einn daginn að tveir snjall símar á heimilinu gátu ekki connectað við Wifi ( Bara þessir tveir símar). Allir aðrir snjállsímar komast inn á það og þessir tveir símar komast inn á Wifi í öllum öðrum húsum.\nÞegar ég ætla að connecta inn á Wifi í símanum þá finnur síminn það alltaf en það gerist ekki neitt... Ef einhver getur sagt mér hvernig ég get lagað þetta þá væri ég mjög þakklátur.\nÞað sem ég er búinn að reyna að gera til að laga þetta:\n-Resetta routerinn og setja allt upp á nýtt\n- Resetta símann \n-Festa IP töluna á símann",
+            "date": "2014-12-15 21:37:00",
+            "post_id": "583705",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "missranny",
+            "text": "Það er enginn með fasta ip tölu nema borga fyrir hana mánaðarlega og það er ein sem fer út í alnetið og getur verið sú sama í slatta tíma en með því að reseta routerin getur hún breyst eða hafa slökkt á honum t.d. Yfir nótt. Mac adress sér enginn nema þú og er sú sama í öllum nettengdum tækjum heimilisins ein er svo á servernum fyrir símafyrirtækið meðal annars svo hvaða ip tölu varstu að festa við símanna. Ekki fikta í router nema þú vitir nákvæmlega hvað þú ert að gera þá er ég að tala um stillingarnar þegar farið er inná hann í gegnum netið. Ég hef bara lent í þessu með tölvuna og þó hún fyndi routerinn og allt rétt inn slegið þá tengdist hún ekki. Ég þurfti því að beintengja hana með símasnúru og slá inn tölurnar sem tengdi mig við routerinn og er sú sama frá þínu simafyrtæki semsagt síminn er með sina tölur og slá þeim inní browserinn. Veit ekki hvort sama getur gerst með síma að ekkert gerist þó þeir finni þitt net en vona að einhver sérfræðingur hér geti hjálpað þér.",
+            "date": "2014-12-16 01:33:00",
+            "post_id": "583726",
+            "reply_to_id": "583705"
+        },
+        {
+            "user_name": "B0b4F3tt",
+            "text": "Þú ættir ekki að þurfa festa ip töluna á símann. Routerinn ætti að vera með dhcp þjón sem sér um að úthluta ip tölum. Það er möguleiki að með því að festa ip töluna á símann að þá hafir þú skapað ip tölu árekstur þar sem annað tæki er með sömu ip töluna.\nEru báðir þessir símar með fastar ip tölur?\nmissranny, það geta flest öll tæki verið með fastar ip tölur. Það er bara spurning hvort ip tölurnar séu public eða internal. Public ip tölum er úthlutað af ISP-um meðan internal ip tölum er oftast úthlutað af heima rotuerum eða dhcp þjónum hjá fyrirtækjum. Mac addressa á tækjum ætti aldrei að vera sú sama á tækjum því þá geta líka skapast árekstrar",
+            "date": "2014-12-16 07:58:00",
+            "post_id": "583733",
+            "reply_to_id": "583726"
+        },
+        {
+            "user_name": "Diddmaster",
+            "text": "ég hef lent í því að ip range í útdeildum ip tölum í router sé ekki nógu langt þá að síðustu tölurnar stangast á eftir að tæki restarta sér eða slökt á tölvum símum og svo framvegis",
+            "date": "2014-12-16 14:59:00",
+            "post_id": "583766",
+            "reply_to_id": "583733"
+        },
+        {
+            "user_name": "missranny",
+            "text": "Sko ég vissi að einhver sem er vel að sér gæti útskýrt þetta, það var séð fram á skort á puplic ip adressum og því bættu þeir við ipv6 eða hvað það kallast og þær eru ekki fastar nema þú borgir fyrir það hjá símanum þá er ég að tala um puplic address. Þær fljóta um eins og það er kallað, google og facebook er úthlutað ákveðnu range af ip tölum hver fyrir sig og algorithinn til að finna og reikna út ip tölur er meira að segja einfaldur því ég get lært það.En ip tölur er eitthvað sem ég er bara rétt að byrja að fræðast um það er svo gaman að læra og fræðast þó það hafi aðeins þann tilgang að skemmta mér kunni ekki neitt fyrir tæpum 2 árum en get ekki hætt eftir að ég sá að ég gæti lært eins og aðrir og alltaf gaman að láta benda sér á. Því ég skrifa stundum eins og ég viti þetta allt en kann aðeins hluta af því  allt stóra bróðir að kenna því eg lærði það af honum.",
+            "date": "2014-12-16 15:14:00",
+            "post_id": "583769",
+            "reply_to_id": "583766"
+        },
+        {
+            "user_name": "klukka56",
+            "text": "Nei þessi símar eru báðir stilltir á DHCP, en ég las á netinu að ég ætti að reyna festa iptöluna og sjá hvort það virkaði, en það gerði það ekki.\nÞið eruð eitthvað að misskilja það sem ég var að reyna segja... Sorry ef ég orðaði þettailla..\nÞað er bara tveir snjallsímar á heimilinu sem komast ekki inn á Wifi hérna (Þessir símar komast báðir inná Wifi í öllum öðrum húsum). Báðir símarnir sjá WIfi-ið, en ná ekki að connecta inn á það. Allar fartölvur og allir gestir sem koma komast auðveldlega inná Wifi.",
+            "date": "2014-12-16 18:33:00",
+            "post_id": "583789",
+            "reply_to_id": "583769"
+        },
+        {
+            "user_name": "slapi",
+            "text": "Ég lenti í mjög svipuðu hérna um daginn og þá var það conflict við annað net í næstu íbúð ég notaði þetta app (\nhttps://play.google.com/store/apps/details?id=com.farproc.wifi.analyzer\n) til að skoða hvaða rásir voru virkar í kringum mig.\nVonandi hjálpar þetta eitthvað",
+            "date": "2014-12-16 19:03:00",
+            "post_id": "583795",
+            "reply_to_id": "583789"
+        },
+        {
+            "user_name": "einarth",
+            "text": "Kannaðu hvort router sé ekki örugglega að nota rásir 1-11 - ef hann er að nota hærri rásir geta ákveðin tæki ekki tengst (þau sem eru með USA wifi profíl).\nKv, Einar.",
+            "date": "2014-12-17 15:40:00",
+            "post_id": "583886",
+            "reply_to_id": "583795"
+        },
+        {
+            "user_name": "svensven",
+            "text": "S3 eða S4 síminn hjá systir minni tók upp á svipuðu fyrir nokkrum mánuðum.. gat tengst á öll WiFi nema netið heima hjá sér - og þetta skeði bara allt í einu, ekkert breyst í router eða síma. Það kom í ljós að það var bilun í símanum sjálfum.. en.. ótrúlegt ef þetta eru 2 tæki.",
+            "date": "2014-12-17 16:11:00",
+            "post_id": "583888",
+            "reply_to_id": "583886"
+        },
+        {
+            "user_name": "Jón Ragnar",
+            "text": "Eru þetta e-ð annað en flottir símar?\nMan eftir að eitthvað af eldri símtækjum áttu í erfiðleikum með allskonar auðkenningar(password) á þráðlausa netinu",
+            "date": "2014-12-17 16:19:00",
+            "post_id": "583890",
+            "reply_to_id": "583888"
+        },
+        {
+            "user_name": "klukka56",
+            "text": "Þetta er nákvæmlega það sem er að gerast.. Þetta er Samsung Galaxy S4 og LG G3 símar. Prufaði að gera \"Factorary Data Reset\" í símanum og það virkaði ekki..\n3",
+            "date": "2014-12-17 18:21:00",
+            "post_id": "583898",
+            "reply_to_id": "583890"
+        }
+    ],
+    "date": "2014-12-15 21:37:00"
+}

@@ -1,0 +1,72 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "35991",
+    "title": "skjákortavesen ?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=35991",
+    "posts": [
+        {
+            "user_name": "Arnar Sig",
+            "text": "ég er með nýja Toshiba fartölvu sem var keypt í USA, stundum þegar ég er að skoða video á youtube þá er eins og tölvan ráði ekki við það, kemur bara græn klessa og allt hikstar og er ógeðslegt, en svo er stundum hægt að breyta einhverri uplausn og þá virkar það eðlilega, en prufa svo í annari tölvu og videoin virka á öllum upplausnum í þeim, er þetta eitthvað driver vandamál með skjákortið ?",
+            "date": "2011-02-04 21:54:00",
+            "post_id": "319264",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "atlif",
+            "text": "uppfæra flash spilarann?",
+            "date": "2011-02-04 22:03:00",
+            "post_id": "319265",
+            "reply_to_id": "319264"
+        },
+        {
+            "user_name": "Arnar Sig",
+            "text": "hmm hvernig geri ég það ?",
+            "date": "2011-02-04 22:05:00",
+            "post_id": "319266",
+            "reply_to_id": "319265"
+        },
+        {
+            "user_name": "Plushy",
+            "text": "http://www.adobe.com/support/flashplayer/downloads.html",
+            "date": "2011-02-04 22:06:00",
+            "post_id": "319267",
+            "reply_to_id": "319266"
+        },
+        {
+            "user_name": "Arnar Sig",
+            "text": "ekki virkaði það",
+            "date": "2011-02-04 22:14:00",
+            "post_id": "319269",
+            "reply_to_id": "319267"
+        },
+        {
+            "user_name": "Plushy",
+            "text": "Höktir það bara eins og mannfjandi eða lagast það ef þú lætur minni upplausn? ertu að gera eitthvað annað í bakgrunninum? mátt líka koma með hvernig skjákort þú ert með.",
+            "date": "2011-02-04 22:21:00",
+            "post_id": "319272",
+            "reply_to_id": "319269"
+        },
+        {
+            "user_name": "Arnar Sig",
+            "text": "sko það byrjar á að vera græn slykja yfir öllu, svo hikstar myndin bara, hljóðið er fínt og videoið gengur alveg flott, en bara myndin er flöktandi og kemur svona grænt inná skjáinn. stundum er nóg að lækka niðrí 240p en stundum er það ekki nóg, ég veit ekki alveg hvernig skjákort er í henni, þetta er ný Toshiba A665 S6086",
+            "date": "2011-02-04 22:42:00",
+            "post_id": "319276",
+            "reply_to_id": "319272"
+        },
+        {
+            "user_name": "Gets",
+            "text": "Prófaðu þetta  \n \nhttp://www.videolan.org/vlc/\nÚpps aðeins of fljótur á mér  \n gengur ekki fyrir youtube\nPrófaðu þennann  \n \nhttp://www.divx.com/en/software/divx-plus/web-player",
+            "date": "2011-02-04 23:07:00",
+            "post_id": "319280",
+            "reply_to_id": "319276"
+        },
+        {
+            "user_name": "Bioeight",
+            "text": "Þetta virðist frekar vera hugbúnaðarvandamál frekar en vélbúnaðarvandamál, myndi ekki byrja að hafa áhyggjur af því að það sé eitthvað að tölvunni þinni strax. Endilega skoða hvort þetta gerist á öðrum síðum en \nhttp://www.youtube.com\n og koma með niðurstöður úr því. Uppfæra skjákortsdrivera (A665 er með Core i3 örgjörva með Mobile Intel® HD Graphics). Síðast skaltu prófa að slökkva á GPU acceleration fyrir flash/browserinn þinn. Ef þú ert enn í vandræðum þá væri gott að fá að vita hvaða browser þú ert að nota og eitthvað fleira.",
+            "date": "2011-02-05 00:50:00",
+            "post_id": "319291",
+            "reply_to_id": "319280"
+        }
+    ],
+    "date": "2011-02-04 21:54:00"
+}

@@ -1,0 +1,79 @@
+{
+    "forum_title": "Windows",
+    "id": "30459",
+    "title": "Blue Screen Of Deadth vantamál (windows7)",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=30459",
+    "posts": [
+        {
+            "user_name": "svennnis",
+            "text": "sælir , ég er með alveg nyja vél sem var keypt sem vinnuvél og heimavél , ég lét kisildal setja hana saman og sótti hana fyrir um 8 dögum og var að kveikja á henni núna og eftir að ég hef verið í henni í svona 1 klukkutíma þá kemur blue scree of deadth og stendur : \nirol_not_less_equal\n , og hún restartar sér , svo aftur eftir svona 1 klukkutíma kemur : \nsystem_service_expention\n , svo restartar hún ser og aftur kemur eftir klukkutíma : \nATI_KMDAG.SYS \n og svo var þolinmæðin búinn ,,,+\nþað yrði frábært að fá lausn hérna , nenni ekki að fara aftur uppí kisildal , \ntölvan : \nVinnsluminni : 4GB OCZ 1600MHZ DDR3\nÖrri : AMD 955 X4 3.2bhz , \nmóðurborð : GIGABYTE GA-790FXTA-UD5  (usp3.0 ,Sata 3.0)\nskjakort : Sapphire ATI Radeon 5750 1GB DDR5\nHarðirdiskar : 300GB seagate , 1000GB seagate , 500GB caviar blue .",
+            "date": "2010-05-29 00:49:00",
+            "post_id": "264443",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Ég myndi byrja á að setja upp nýjustu drivera fyrir chipsettið og skjákortið",
+            "date": "2010-05-29 00:57:00",
+            "post_id": "264444",
+            "reply_to_id": "264443"
+        },
+        {
+            "user_name": "mattiisak",
+            "text": "Lýklega drivera prob..",
+            "date": "2010-05-29 01:18:00",
+            "post_id": "264445",
+            "reply_to_id": "264444"
+        },
+        {
+            "user_name": "akarnid",
+            "text": "EF ég væri að setja saman vélar og selja þær for a living, þá myndi ég svo sannarlega make pretty damn sure að ég myndi setja upp nýjustu drivera fyrr allt heila klabbið.  Soldið goes without saying ef þú ert að selja vinnuna þína.",
+            "date": "2010-05-29 09:15:00",
+            "post_id": "264457",
+            "reply_to_id": "264445"
+        },
+        {
+            "user_name": "ZoRzEr",
+            "text": "Oh boy. ATI_KMDAG.SYS errorið er leiðinlegt. Hef sjálfur lent í því undanfarið.\nKom einhverntíman upp balloon pop-up um að \"Display driver has stopped responding but has been recovered\" ?\nErtu með CCC 10.5 eða 10.4 ?\nVarstu að spila tölvuleik / horfa á HD myndband þegar þetta gerðist ?\nVirðist tölvan hægja á sér þegar eitthvað 3D tengt fer í gang ?\nHvernig er Core og memory clockið í ATI Superdrive ?\nATI_KMDAG.SYS er \"General ATI driver failure\". Googlaði í marga klukkutíma fyrir nokkrum dögum um þetta. Sumir sögðu að fresh install af W7 væri nóg. Aðrir losnuðu við þetta með því að hafa bara eitt RAM í vélinni. Aðrið þurfti að nota Driver Sweeper og hreinsa allt sem tengdist ATI CCC og setja upp eldri útgáfu frá því í fyrra og enn aðrir gátu yfirklukkað skjákortið um 10mhz core clock og fengu það stabílt.\nEn enginn var með eina lausn sem virkaði fyrir alla. \nHjá mér kom þetta eftir að ég setti kortin mín í CrossFire og Eyefinity. Alltaf þegar ég opnaði Alien VS Predator í DX11 crashaði vélin með þessu BSOD. Fyrst hægði hún á sér gífurlega svo kom BSOD og restart. Ég prófaði að keyra bara sitthvort kortið, bara eitt RAM stick, fresh install af W7, XP 32bit og Vista 64bit. En alltaf þegar tölvan var í CrossFire og 3x1 eyefinity og ég kveikti á sumum leikjum kom ATI_KMDAG.SYS BSOD.\nÞetta hefur róast mikið undanfarið. Endaði með því að ég gerði manual leit í REGEDIT og henti út öllu sem tengdist PhysX og ATI og setti upp 10.1 ATI CCC. Ég sett upp nýjasta PhysX í gær til að geta spilað Metro 2033. En hann crashar instantly þegar hann er opnaður. Eins með Mirrors Edge.\nÞetta er ekki nógu gott. Skýringin á þessu errori er hryllilega lítil, og ATI hefur sagst vita af villunni en ekkert gert enn.",
+            "date": "2010-05-29 10:43:00",
+            "post_id": "264460",
+            "reply_to_id": "264457"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Afhverju er það endilega sniðugt? Glænýjir driverar eru oft buggy, og oft ekki komin næg reynsla á þeim til að setja á vélar og geta lofað þeim stabílum.\nPrufaðu að nota Revo uninstaller til að taka allt ATI dótið út, og henda inn nýrri eða öðru versioni af því.",
+            "date": "2010-05-29 11:25:00",
+            "post_id": "264465",
+            "reply_to_id": "264460"
+        },
+        {
+            "user_name": "vesley",
+            "text": "Oftast ef ekki alltaf er fyrst sett út beta útgáfa af driverunum og svo seinna meir eftir prufanir þá kemur út driverinn.",
+            "date": "2010-05-29 12:38:00",
+            "post_id": "264468",
+            "reply_to_id": "264465"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Jebb. En afþví að beta testing hópurinn er oft ekki stór er hellingur af incompatability issues eftir í final release, eins og þetta t.d.",
+            "date": "2010-05-29 13:39:00",
+            "post_id": "264475",
+            "reply_to_id": "264468"
+        },
+        {
+            "user_name": "svennnis",
+            "text": "rtu með CCC 10.5 eða 10.4 ?\nVarstu að spila tölvuleik / horfa á HD myndband þegar þetta gerðist ?\nVirðist tölvan hægja á sér þegar eitthvað 3D tengt fer í gang ?\ner með 10.4 , þetta gerist bara alveg sama hvað ég er að gera , \ncpu clock : 157 \nmemory clock : 300\nVirðist tölvan hægja á sér þegar eitthvað 3D tengt fer í gang ? \n.nei tölvan virðist ekki hægja á sér ,",
+            "date": "2010-05-29 17:26:00",
+            "post_id": "264508",
+            "reply_to_id": "264475"
+        },
+        {
+            "user_name": "ZoRzEr",
+            "text": "Hmm. Þetta lýsir sér ekki eins og hjá mér. \nEftir 10.5 breyttist Idle clock hraðinn í Overdrive og þetta er orðið aðeins stabílla. Get spilað felsta leiki, ekki suma DX11 leiki. \nMyndi reyna að google í drasl.",
+            "date": "2010-05-29 21:02:00",
+            "post_id": "264547",
+            "reply_to_id": "264508"
+        }
+    ],
+    "date": "2010-05-29 00:49:00"
+}

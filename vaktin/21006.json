@@ -1,0 +1,65 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "21006",
+    "title": "Tölva með netið úr annari tölvu.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=21006",
+    "posts": [
+        {
+            "user_name": "Gunnar",
+            "text": "ok fyrsta lagi þá vissi ég ekkert hvað ég átti að skýra þennan þráð  \n \nen to the point.\nÉg er með snúru úr routernum yfir í tölvuna mína. sem er með 2x lan port og mig langar að vita hvort þið gætuð hjálpað mér að gera svo ég geti tengt úr tölvunni minni yfir í aðra tölvu svo báðar tölvur fái netið? (routerinn er frammi og tölvan inní herbergi 5 metrum frá. gengur ekki að fá aðra snúru úr router)\ner buinn að setja snúru á milli en það stendur \"this connection has limited or no connectivity...\"\nsemsagt er hægt að láta tölvuna mína virka sem switch?\neinhver ráð?\nedit: btw gengur ekkert hjá mér að google þar sem ég veit ekkert hvað ég á að skrifa.",
+            "date": "2009-01-12 09:45:00",
+            "post_id": "193565",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "*hint* \nertu að meina að brúa bilið á milli",
+            "date": "2009-01-12 10:01:00",
+            "post_id": "193566",
+            "reply_to_id": "193565"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "held það. virka þá báðar tölvurnar með netinu?",
+            "date": "2009-01-12 10:03:00",
+            "post_id": "193568",
+            "reply_to_id": "193566"
+        },
+        {
+            "user_name": "Hyper_Pinjata",
+            "text": "síðast þegar ég reyndi þetta með fartölvu (ætlaði að brúa þráðlausa til að virka á borðtölvu),en þá feiluðu network driverarnir í báðum tölvunum, en leiðbeiningarnar sem ég fór eftir eru þessar: \nhttp://windows.stuff.is/ics_tutiral/\nég þarf ekkert að pæla í þessum leiðbeiningum lengur vegna þess að ég fann aðra leið til að koma einni af borðtölvunum mínum á netið......",
+            "date": "2009-01-12 10:12:00",
+            "post_id": "193569",
+            "reply_to_id": "193568"
+        },
+        {
+            "user_name": "lukkuláki",
+            "text": "Já ég gerði þetta heima með því að haka við inni í þar sem þú sérð á myndinni\nþað var ekkert mál er á blússandi neti á báðum vélunum.",
+            "date": "2009-01-12 11:17:00",
+            "post_id": "193572",
+            "reply_to_id": "193569"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "ég gerði þetta lukkuláki en það virkar ekki :S\nbuinn að láta þetta virka einhvernegin en steam virkar bara ekki firefox...",
+            "date": "2009-01-12 11:35:00",
+            "post_id": "193575",
+            "reply_to_id": "193572"
+        },
+        {
+            "user_name": "lukkuláki",
+            "text": "Ömm opna port á firewall ? Prófaðu bara fyrst að disabla firewallinn þá sérðu hvort það að opna port sé málið",
+            "date": "2009-01-12 11:44:00",
+            "post_id": "193576",
+            "reply_to_id": "193575"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "ég prufaði að disable-a eldveggina á báðum tölvunnum en samt kemst ég ekki inná huga.is né google.com",
+            "date": "2009-01-12 11:50:00",
+            "post_id": "193578",
+            "reply_to_id": "193576"
+        }
+    ],
+    "date": "2009-01-12 09:45:00"
+}

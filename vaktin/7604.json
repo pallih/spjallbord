@@ -1,0 +1,51 @@
+{
+    "forum_title": "Windows",
+    "id": "7604",
+    "title": "Vandamál með Sp2",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=7604",
+    "posts": [
+        {
+            "user_name": "Gestir",
+            "text": "Sælir.\n\n\n\nÉg er í vanda með uppfærslu á Sp2 hjá mér og skillst mér á félaga mínum að það sé Móðurborðið sem sé að lagga hvað þetta Sp2 varðar.\n\n\n\nÞEtta er Chaintech 9jPl3 móðurborð sem er keypt í Task í fyrrasumar og hann sem seldi mér þetta sagðist aldrei hafa náð að installa sp2. það crashar alltaf tölvan ef það er gert og eina ráðið er að straua :S\n\n\n\nég væri alveg til í að geta notað sp2 þannig að ef einhver kannast við þetta vandamál og getur eitthvað sagt mér hvað er til ráða.. then plz",
+            "date": "2005-03-04 17:08:00",
+            "post_id": "80439",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Zaphod",
+            "text": "Koma enginn villuboð eða bláskjár þegar hún hrynur ?",
+            "date": "2005-03-04 22:05:00",
+            "post_id": "80454",
+            "reply_to_id": "80439"
+        },
+        {
+            "user_name": "Ice master",
+            "text": "heh gerist hjá eina vél hjá mér en svo kom það ljós að það var diskurinn/// en annars kom bluscreen og memory dump failure  þetta voru samt ekki minnin þvi ég runnadi mem test og  prufadi að setja  5 tegundir af minni.  en svo skipti ég um disk og svo virkadi það",
+            "date": "2005-03-04 23:15:00",
+            "post_id": "80456",
+            "reply_to_id": "80454"
+        },
+        {
+            "user_name": "Gestir",
+            "text": "Villumeldingin sem kemur upp eftir install..\" hún booter sér eðlilega upp en þegar windows merkið kemur á skjáinn ( í dos mode ) þá kemur \n\n\n\nerror, c:\\windows\\system32\\blelble.sys  not found or bad  \n\n\n\neða eitthvað í þessa áttina\n\n\n\nog það eina semm aður getur gert er að formatta vélina upp á nýtt og hlaða inn nýju windowsi.\n\n\n\nþetta er eitthvað lagg tengt þessu móðurborði. og það er spurning um að þeir í task myndu taka þetta tilbaka..\" eftir 6 mánuði \"",
+            "date": "2005-03-06 16:14:00",
+            "post_id": "80548",
+            "reply_to_id": "80456"
+        },
+        {
+            "user_name": "Johnson 32",
+            "text": "Hefurðu prufað að fara í recovery console og gera chdisk /r ?",
+            "date": "2005-03-07 15:44:00",
+            "post_id": "80609",
+            "reply_to_id": "80548"
+        },
+        {
+            "user_name": "TechHead",
+            "text": "Félagi minn á svona móðurborð, lenti í einhverju svipuðu að mig minnir...  ég update´aði biosinn hjá honum og þetta vandamál hvarf...\n\n\n\nIt´s worth the try",
+            "date": "2005-03-07 20:23:00",
+            "post_id": "80653",
+            "reply_to_id": "80609"
+        }
+    ],
+    "date": "2005-03-04 17:08:00"
+}

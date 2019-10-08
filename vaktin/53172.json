@@ -1,0 +1,51 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "53172",
+    "title": "Ný tölva - bölvað vesen á henni!",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=53172",
+    "posts": [
+        {
+            "user_name": "Danni V8",
+            "text": "Ég var að kaupa mér nýja tölvu, allt saman nýtt frá Tölvulistanum í Keflavík.\nMóðurborð: MSI Z77A-G43\nÖrgjörvi: Intel i3 3220\nVinnsluminni: 8gb corsair value select\nAflgjafi: Corsair AX750 Pro\nSkjákort: MSI NGTX 650Ti\nKeypti þessa tölvu með það í huga að mig vantaði ódýra tölvu og ætla að uppfæra hana seinna.\nUpprunlega keypti ég ekki skjákort þar sem ég ætlaði mér að uppfæra í mikið öflugra skjákort og nota innbyggðu skjástýringuna þangað til, enda er Intel HD4000 alveg nóg til þess að spila League of Legends sem er leikurinn sem mig langar til að spila.\nÉg setti hana upp, allt voða fínt og flott, spáði meira að segja í cable management sem er ólíkt mér. En jæja, set upp Windows og það er ekkert vandamál. Síðan set ég upp driverinn fyrir Intel HD skjákortið og þá fer allt í klessu. Tölvan kveikir á sér og fer í loading windows skjáinn og síðan restartar hún sér sjálf. Ég geri restore og þá fer driverinn út. Googlaði málið og sá að einhverjir hafa lent í veseni með þetta en svo virðist sem enginn er eins vitlaus og ég að ætla að keyra þetta móðurborð án skjákorts, svo það eru engar upplýsingar um samskonar vandamál í boði.\nJæja ég fer í Tölvulistann í dag og spjallaði heillengi við tæknimanninn þar og við spáðu hvað þetta gæti verið en sama hvað er gert þá lagast ekkert. Bios er uppfærður í þann nýjasta, búið að svissa RAM stickunum fram og til baka, prófa hinar og þessar Bios stillingar. No avail.\nÞar sem það var ekki til annað móðurborð í Keflavík og ég hef ekki tök á því að fara í bæinn þá ákvað ég að kaupa bara skjákort strax. Valdi ss. GTX 650 Ti.\nSetti það í og kveikti á tölvunni og hún fer alla leið í Windows (þó að Intel HD driverinn var installaður) og ég get verið í tölvunni í nokkrar mínútur. Ætla að fara að downloada driverum fyrir skjákortið, opna Google Chrome og fer á nvidia síðunni, vel driverinn og er við að klikka á Download takkann og þá kemur bara svartur skjár og tölvan restartar sér.\nÞá ákvað ég að formatta draslið bara og setja Windows upp aftur, þar sem það var búið að messa í hinu og þessu í stýrikerfinu til að reyna að fá innbyggða til að virka.\nNúna get ég kveikt á tölvunni, kemst í BIOS og get verið eins lengi og ég vill í honum. Fer síðan áfram og loada Windows Setup og þar kemur sama logo þegar Windows er að loada en tölvan frýs þar og restartar sér.\nÞannig staðan er núna þannig að ég get sett upp tölvuna með því að nota innbyggða skjákortið en ekki setja upp drivera fyrir það en ég get ekki sett upp tölvuna með skjákorti.\nHvað get ég eiginlega gert? Ég þarf að bíða þangað til á þriðjudaginn ef ég ætla að fá nýtt móðurborð, þar sem ég kemst ekki í bæinn. Gæti þetta verið eitthvað annað sem er að fara framhjá mér?",
+            "date": "2013-02-01 19:14:00",
+            "post_id": "493255",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "MatroX",
+            "text": "prufaðu að disable-a innbyggða skjákortið í bios",
+            "date": "2013-02-01 19:29:00",
+            "post_id": "493256",
+            "reply_to_id": "493255"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Ekki hægt. Eða minnsta kosti eftir að fínkemba biosinn þá finn ég ekki valmöguleika til þess.\nÍ Integrated Graphics Device í Bios eru tvennir valmöguleikar í boði: IGD og PEG. Biosinn stillir sjálfkrafa á IGD þegar ekkert annað skjákort er í tölvunni og á PEG þegar það er skjákort í tölvunni. Eins og ég skil þetta þá ætti PEG að disable-a innbyggða skjákortið en þegar ég kemst í Windows, í þau fáu skipti sem það gerist, þá er það samt í BIOS.\nAnnars þá prófaði ég að stilla Bios á að nota innbyggða kortið í staðinn og er að setja upp Windows uppá nýtt með því. Ætla síðan að færa yfir í skjákortið og sjá hvað gerist...",
+            "date": "2013-02-01 19:36:00",
+            "post_id": "493258",
+            "reply_to_id": "493256"
+        },
+        {
+            "user_name": "diabloice",
+            "text": "Þetta er eitthvað voða spes ,var sjálfur ekki fyrir löngu að setja upp tölvu með svona borði og i5 3570k 8gb minni  og notaði IGPið  og ég lenti ekki í svona veseni með það  getur bara verið að þú sér með gallað borð.....",
+            "date": "2013-02-01 22:05:00",
+            "post_id": "493284",
+            "reply_to_id": "493258"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Ég er nánast 100% á því að þetta er gallað móðurborð.\nÉg setti tölvuna upp aftur og notaði IGP. Enablaði síðan skjákortið og þá kemst tölvan ekki inn í windows. Engir driverar installaðir til að valda árekstrum.\nÞannig ég fékk gamlan vara garm hjá vinum að láni, með S775 örgjörva E6750. Setti skjákortið og aflgjafann í þá tölvu og er núna á þeirri tölvu án vandræða.\nKemur eiginlega ekki annað til greina en gallað móðurborð. Sem þýðir að ég þarf að þola þennan Core 2 Duo þangað til á þriðjudaginn. Jeij. Til hamingju með afmælið Danni.",
+            "date": "2013-02-01 22:50:00",
+            "post_id": "493295",
+            "reply_to_id": "493284"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Fór í Tölvulistann í dag og fékk nýtt móðurborð.\nAllt virkar eins og í sögu. Hitt hefur verið gallað.",
+            "date": "2013-02-02 20:43:00",
+            "post_id": "493428",
+            "reply_to_id": "493295"
+        }
+    ],
+    "date": "2013-02-01 19:14:00"
+}

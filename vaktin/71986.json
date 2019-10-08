@@ -1,0 +1,198 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "71986",
+    "title": "Vandamál með uppsetningu windows á Samsung 256GB 960 PRO M.2",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=71986",
+    "posts": [
+        {
+            "user_name": "biggi1",
+            "text": "Góða kvöldið.\nÉg var að setja upp nýju vélina í mesta sakleysinu þegar ég rakst á þennann óskiljanlega vanda.\nsetupið er;\ni7 6800\nmóðurborð: asrock x99 extreme\nsystem ssd: Samsung 256GB 960 PRO M.2\ngpu geforce 1080\nÉg bootaði semsagt upp vélinni á windows usb kubb, sama kubb og ég hef notað í heilar fjórar aðrar tölvur án vandræða.\nVélin greinir nýja ssd diskinn og allt ljómandi gott, uppsetning byrjar og nær upp í 70% þegar ég sé hana síðast.\nþegar ég kem að henni aftur hefur hún krassað. Eftirá að hyggja hefði ég átt að skrifa niður hvað þar stóð, en gott og vel, ég restarta og byrja aftur.\nNema núna þegar ég reyni að formata diskinn, leyfir windows mér ekki að gera það, og ekki heldur að setja windows upp aftur.\nUpp kemur \"Windows setup could not reinitialize the deployment engine. To Install windows, restart the installation.\" þegar ég reyni install á nýjann leik.\nÞegar ég reyni að googla það kemur upp allskonar leiðir og skýringar sem snúast mest að lélegum usb kubb, prófaði að búa til nýjann, með nýjum fæl, og öðrum usb lykli, en sama villumelding.\nÞað er eins og ssd diskurinn sé bara læstur, farinn í fílu útí horni, og vilji ekki leika með.\neinhverjar hugmyndir hvað gæti verið að?",
+            "date": "2017-01-26 21:24:00",
+            "post_id": "642131",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "rapport",
+            "text": "Ég mundi boota með UBCD, formatta diskinn og reyna aftur við windows uppsetninguna...",
+            "date": "2017-01-26 21:29:00",
+            "post_id": "642133",
+            "reply_to_id": "642131"
+        },
+        {
+            "user_name": "upg8",
+            "text": "Kannski prófa að uppfæra útgáfuna af Windows sem er á uppsetningar kubbnum?",
+            "date": "2017-01-26 23:17:00",
+            "post_id": "642137",
+            "reply_to_id": "642133"
+        },
+        {
+            "user_name": "kizi86",
+            "text": "opna cmd gluggann í byrjuninni á setupinu (ýtir á shift+F10) ferð þaðan í diskpart, og formatar diskinn þar \nhttp://www.windowscentral.com/how-clean ... windows-10\n hér eru góðar leiðbeiningar hvernig á að gera þetta með diskpart.\nsvo er spurning um hvort drifið sé með GPT partition eða MBR, ef það er með GPT partition, þá er aðeins meira vesen að setja windowsið upp, usb kubburinn þarf líka þá að vera settur upp fyrir GPT (UEFI)",
+            "date": "2017-01-26 23:43:00",
+            "post_id": "642138",
+            "reply_to_id": "642137"
+        },
+        {
+            "user_name": "rbe",
+            "text": "láttu vita ef þú finnur lausn á þessu og póstaðu . \ner með sama mb og 950 .\ngott að vita hvernig þetta er gert ef win fer í hönk.\nlét kísildal setja vélina upp þegar ég keypti hana. spurði þá ekkert út í þetta.\nþetta er kannski á asrock forum hef ekki gáð þar.\nkv.",
+            "date": "2017-01-27 00:24:00",
+            "post_id": "642139",
+            "reply_to_id": "642138"
+        },
+        {
+            "user_name": "hfwf",
+            "text": "Shot in the dark Hérna,  settu USB kubbinn í usb2port. \nSent from my SM-G925F using Tapatalk",
+            "date": "2017-01-27 00:43:00",
+            "post_id": "642140",
+            "reply_to_id": "642139"
+        },
+        {
+            "user_name": "gotit23",
+            "text": "Mæli með að setja upp stýrikerfið á venjulegan ssd ,og nota svo samsung magican til að clona uppsettninguna ýfir \nmuna lika að sækja NVME rekil frá heimasiðuni @ samsung.com",
+            "date": "2017-01-27 10:55:00",
+            "post_id": "642148",
+            "reply_to_id": "642140"
+        },
+        {
+            "user_name": "biggi1",
+            "text": "Sælir og takk kærlega fyrir svörin!\nÞetta prufaði ég og reyndi að formata diskinn, en viti menn, hann er read only. ég las mér að eins til hvernig ég ætti að létta á þessum höftum sem sjá má í viðhengi, en ekkert gerðist, og diskurinn ennþá ekki team player.\nég prufa þetta núna, takk fyrir ábendinguna.\nÞið eruð snillingar",
+            "date": "2017-01-27 11:06:00",
+            "post_id": "642149",
+            "reply_to_id": "642148"
+        },
+        {
+            "user_name": "biggi1",
+            "text": "Já nú er ég aldeilis hlessa..\nég setti gamlann ssd disk í vélina og installaði windows á hann. Ég er búinn að setja upp nvme driver frá samsung og restarta, en ég get ekki snert diskinn.. ekki í disk manager né með samsung Magician forritinu sjálfu!",
+            "date": "2017-01-27 12:15:00",
+            "post_id": "642153",
+            "reply_to_id": "642149"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Þú reddar þessu með /diskpart\nhttp://www.windowscentral.com/how-clean ... windows-10",
+            "date": "2017-01-27 12:46:00",
+            "post_id": "642155",
+            "reply_to_id": "642153"
+        },
+        {
+            "user_name": "biggi1",
+            "text": "Neflega ekki, diskurinn leifir það einusinni ekki.\nÉg er alveg útá þekju. Hringdi í kísildal og þeir sögðu mér að prufa að updeita bios-inn.. ef það virkar ekki að bíða þá eftir update-i?!",
+            "date": "2017-01-27 14:09:00",
+            "post_id": "642162",
+            "reply_to_id": "642155"
+        },
+        {
+            "user_name": "FuriousJoe",
+            "text": "Windows 10 ?",
+            "date": "2017-01-27 14:21:00",
+            "post_id": "642163",
+            "reply_to_id": "642162"
+        },
+        {
+            "user_name": "biggi1",
+            "text": "Já, windows 10, sama version og ég hef verið að nota á 4 öðrum tölvum.\nÉg prufaði að updeita biosinn, og enginn munur.",
+            "date": "2017-01-27 14:30:00",
+            "post_id": "642165",
+            "reply_to_id": "642163"
+        },
+        {
+            "user_name": "FuriousJoe",
+            "text": "Prófa að formatta í gegnum ubuntu live cd ?\nhttp://askubuntu.com/questions/46462/ho ... -a-live-cd\nhttps://help.ubuntu.com/community/Insta ... omUSBStick\nHef sjálfur lent í veseni með Windows og \"permissions\" grunar kannski að þarna séi old instance af Windows með permission læst svo nýtt instance nær ekki að taka yfir. Í mínu tilfelli þurfti ég að búa til nýtt instance og eyða gamla manually til þess að taka yfir slóðinni. Veit þetta hljómar asnalega, þetta er asnalegt. Vonandi kemstu nær sannleikanum.",
+            "date": "2017-01-27 14:36:00",
+            "post_id": "642166",
+            "reply_to_id": "642165"
+        },
+        {
+            "user_name": "Humbug",
+            "text": "Ég hef verið að lenda í þessu með NVMe diska, bæði frá Intel og Samsung. eins og staðan er núna þá er þetta 1 af hverjum 10 diskum sem ég hef verið að setja í vélar. Þeir læsast í read only og sama hvað er reynt þá er engu breytt. \nÞetta er það næsta sem ég kemst skýringu á þessu:\nhttp://www.tomshardware.com/news/intel- ... 32731.html\nen klárlega er ég ekki farinn frammúr TBW á þessum diskum þar sem þeir eru glænýjir. en þetta er að triggera enga að síður og þeim hefur bara verið skilað í ábyrgð til söluaðila.",
+            "date": "2017-01-27 14:41:00",
+            "post_id": "642167",
+            "reply_to_id": "642166"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Mjög skrítið, ertu búinn að prófa list parttition síðan select parttion og svo delete parttion ? þ.e. ef það eru parttions?",
+            "date": "2017-01-27 14:58:00",
+            "post_id": "642174",
+            "reply_to_id": "642167"
+        },
+        {
+            "user_name": "biggi1",
+            "text": "Já, partitons, volumes og disks.. prufaði basicly alla valmögukeika í diskpart.",
+            "date": "2017-01-27 15:04:00",
+            "post_id": "642176",
+            "reply_to_id": "642174"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Þá er bara eitt í stöðunni, farðu með diskinn í Kísildal og fáðu þá til að setja hannn í tölvu og fixa, takist þeim það ekki þá er þetta augljóslega gallaður diskur.",
+            "date": "2017-01-27 15:11:00",
+            "post_id": "642177",
+            "reply_to_id": "642176"
+        },
+        {
+            "user_name": "biggi1",
+            "text": "Ég er einmitt sitjandi í sófanum hjá þeim as we speak. \nÉg velti því samt fyrir mér afhverju það er ekki meira um þennann galla á netinu? Eins og Humbug segir að þetta sé einn af hverjum tíu...",
+            "date": "2017-01-27 15:17:00",
+            "post_id": "642179",
+            "reply_to_id": "642177"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Sammála, mjög skrítið.\nÞað verður spennandi að sjá hver niðurstaða þeirra í Kísildal verður.",
+            "date": "2017-01-27 15:22:00",
+            "post_id": "642180",
+            "reply_to_id": "642179"
+        },
+        {
+            "user_name": "biggi1",
+            "text": "Niðurstaðan var sú að diskurinn var ónýtur.\nÞeir voru alls ekki að trúa því og eyddu hátt í 45min að komast að þessu.\nFékk diskinn endurgreiddann og allt í góðu.\nMér var bent á að taka þátt í lottóinu, það átti að vera meiri líkur á að hreppa vinninginn en að lenda í dauðum m.2 disk.... Svo húrra fyrir því.",
+            "date": "2017-01-27 16:05:00",
+            "post_id": "642185",
+            "reply_to_id": "642180"
+        },
+        {
+            "user_name": "kelirina",
+            "text": "Ég hef lent í svipuðu dæmi tvisvar upp á síðkastið.  Í bæði skiptin var disk skipt út fyrir annann eins sem leysti vandamálið.",
+            "date": "2017-01-27 16:21:00",
+            "post_id": "642190",
+            "reply_to_id": "642185"
+        },
+        {
+            "user_name": "biggi1",
+            "text": "Var um að ræða samsung 950/960 líka hjá þér?\nSpurning hvort þetta sé samsung eða bara allir m.2 sem maður þurfi að vara sig á.",
+            "date": "2017-01-27 16:27:00",
+            "post_id": "642191",
+            "reply_to_id": "642190"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Flott að þú fékkst þetta bætt, miðað við hve margir eru að lenda í dauðum m.2 er þá ekki spurning um að kaupa lottomiða?",
+            "date": "2017-01-27 16:47:00",
+            "post_id": "642192",
+            "reply_to_id": "642191"
+        },
+        {
+            "user_name": "biggi1",
+            "text": "Jæja nú kaupi ég eina röð, með jóker.\nVandamálið óskiljanlega heldur áfram. Ég var að installa driverum og þessháttar og allt virkaði eins og í sögu. \nÞá fraus google chrome fyrst, svo explorerinn sjálfur, þannig að ég ctrl-alt-del-a, og allt hverfur nema músarbendillinn.\nÉg gat ekkert gert nema restarta á takkanum. \nOg nú vill hún ekki starta sér! ég fæ bara þessar villumeldingar. \nNú er ég farinn að hallast að því hvort þetta sé móðurborðið sem er að grilla útfrá sér?",
+            "date": "2017-01-27 17:17:00",
+            "post_id": "642196",
+            "reply_to_id": "642192"
+        },
+        {
+            "user_name": "rbe",
+            "text": "skiptir þú um NVMe Driver eftir að windows var uppsett ? held að win 10 noti microsoft NVMe driverinn default.\nég skipti í nýjasta um daginn og allt gekk einsog í sögu. hann er version 2.1 síðan í desember held ég.\nhttp://www.samsung.com/semiconductor/mi ... tools.html",
+            "date": "2017-01-27 17:38:00",
+            "post_id": "642197",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "FuriousJoe",
+            "text": "fixa bootsectorinn ?\nTo run the Bootrec.exe tool, first start the Windows RE:\nPut the Windows Vista or Windows 7 media in the DVD drive, and then start the computer.\nPress a key when you are prompted.\nSelect a language, a time, a currency, a keyboard, or an input method, and then click Next.\nClick Repair your computer.\nSelect the operating system that you want to repair, and then click Next.\nIn the System Recovery Options dialog box, click Command Prompt.\nType Bootrec.exe, and then press Enter.\nLangt síðan ég notaði þetta trick veit ekkert hvort þetta virki á Win 10 en, slóðin á villumeldingunni bendir á boot möppuna\nVonandi er þetta bara driver vandamál.",
+            "date": "2017-01-28 17:49:00",
+            "post_id": "642248",
+            "reply_to_id": "642197"
+        }
+    ],
+    "date": "2017-01-27 17:38:00"
+}

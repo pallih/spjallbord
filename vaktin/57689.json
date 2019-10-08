@@ -1,0 +1,72 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "57689",
+    "title": "Óstabílt skjákort... FIXED",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=57689",
+    "posts": [
+        {
+            "user_name": "oskar9",
+            "text": ".",
+            "date": "2013-10-15 19:28:00",
+            "post_id": "533536",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "playman",
+            "text": "Detta þeir af ef að þú notar venjulegt krem?",
+            "date": "2013-10-15 19:56:00",
+            "post_id": "533537",
+            "reply_to_id": "533536"
+        },
+        {
+            "user_name": "oskar9",
+            "text": "jaaa. þeir ná ekki festu með því, þetta var eitthvað svona tveggja þátta kælikrem, setti smá doppur á hvern chip og skellti svo kælikubbi á það, hann klesstist strax við og svo fullharðnar kremið á einhverjum klukkutíma, ég gerði til gamnis að setja CPU kælikrem á einn kubbinn og þegar allir hinir voru orðnir fastir á þá var þessi með CPU kreminu enþá laus á, þ.e.a.s ég gat ýtt honum til og virtist hann haldast á með sogkrafti, ég tók hann af og þreif kælikubbinn og chippið á kortinu og setti \"kælilímið\" sem fylgdi með og þá sat hann fastur\n*Edit: svona krem \nhttp://www.arcticsilver.com/arctic_silv ... hesive.htm\nMér dettur í hug að GPU temp 1 sé kjarninn sjálfur, GPU temp 2 séu þessir átta chips í kringum kjarnann (man ekki hvað þeir heita) og GPU temp3 séu VRM chipparnir, allt fær eðlilega kælingu nema þeir :/",
+            "date": "2013-10-15 20:03:00",
+            "post_id": "533538",
+            "reply_to_id": "533537"
+        },
+        {
+            "user_name": "hkr",
+            "text": "Hver er þá munurinn á GPU Temp #3 og VRM Temperature hjá þér?\nBúinn að prufa að sjá hvort að það komi \"location\" ef þú setur músina yfir GPU Temp #3?\nSkv. W1zzard (held að hann sé sem er á bakvið GPU-Z) er \nþetta\n:",
+            "date": "2013-10-15 20:41:00",
+            "post_id": "533548",
+            "reply_to_id": "533538"
+        },
+        {
+            "user_name": "Hnykill",
+            "text": "Þú segist vera með vélina overclockaða.. útilokaðu þá vinnsluminnið og örgjörvan áður en þú ferð að breyta nokkru. settu allt í \"deafault\" og sjáðu hvernig hlutirnir eru að keyra sig.. og uppfrá því byrjaðu að hækka minnið. og svo örgjörvan og svo koll af kolli til að sjá hvar vandi þinnn liggur ! \n \nSettu ALLT á default \"orginal\"... ég hef séð marga menn eins og þig með lélegar bios stillingar..... þú þyrftir í raun að fá einn af okkur ruglukollunum til að líta á þetta hjá þér til að sjá hvað er í alvörunni að !   ég get ekkert útskýrt fyrir þér hvað og hvernig BIOS virkar.. en ég gæti græjað þetta fyrir þig ef ég sæti við hliðina á þér.\nsegi bara eins og allir segi.. ekki focka í BIOS ef þú veist ekki hvað hann gerir !!",
+            "date": "2013-10-15 21:23:00",
+            "post_id": "533553",
+            "reply_to_id": "533548"
+        },
+        {
+            "user_name": "demaNtur",
+            "text": "",
+            "date": "2013-10-15 21:35:00",
+            "post_id": "533554",
+            "reply_to_id": "533553"
+        },
+        {
+            "user_name": "Hnykill",
+            "text": "Það væri þá best að þú prófaðir annað skjákort  !   láttu reyna á það áður en þú gerir nokkuð annað .\nþetta er ekki flókið reiknidæmi !   annað skjákort ... prófaðu það...",
+            "date": "2013-10-15 21:40:00",
+            "post_id": "533556",
+            "reply_to_id": "533554"
+        },
+        {
+            "user_name": "oskar9",
+            "text": "fékk annað 6970 hjá félaga mínum með Gigabyte kælir og hann skellti mínu í, hann fær þessar hitatölur í sinni vél með mínu korti en hans kort keyrir mun betur og VRM temp og GPU temp eru mun lægri, svo þetta er 100% vesen með mitt kort. Fer í það á morgun að taka kælinguna í gegn, reyna að finna svona thermal adhesive og set kælinguna aftur á VRM kubbana",
+            "date": "2013-10-15 23:37:00",
+            "post_id": "533591",
+            "reply_to_id": "533556"
+        },
+        {
+            "user_name": "oskar9",
+            "text": "Ertu eitthvað skuggalegar bitur ? Ég veit allveg hvað BIOSinn gerir enda er ég að keyra GPU og CPU 24/7 í stable klukku, bæði CPU og RAM fengu massív burn test og allt gekk 100%, svo er skjákortið ekkert klukkað í gegnum BIOS-inn, gaf því bara smá bump í gegnum CCC svo ég veit ekki hvað þú ert að blanda BIOS inní þetta, enda tók ég það skýrt fram í byrjun að það er ekkert að yfirklukkinu heldur er hún að crasha og throttla sig niður vegna mikils hita á skjákorti.\n hún( örgjörvi) er búin að keyra sig svona í 3 ár á þessu yfirklukki og alltaf gengið eins og klukka, svo er hún nýlega byrjuð á þessu sem þyðir að kælingin á skjákortinu er að feila eins og kemur augljóslega fram á GPU-Z myndinni, 70°C core og 100+°C á VRM og GPU-3, kemur overclokki allveg núll við, ákvað bara að taka eitt run yfir allann vélbúnaðinn með burn tests til að finna sökudólginn  \nEkki nema að þú teljir að örgjörvi sem er búinn að vera á eins klukku í 3 ár sé farinn að hita VRM-in á skjákortinu vegna þess að ég kann ekki að yfirklukka",
+            "date": "2013-10-15 23:40:00",
+            "post_id": "533592",
+            "reply_to_id": "533591"
+        }
+    ],
+    "date": "2013-10-15 19:28:00"
+}

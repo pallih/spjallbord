@@ -1,0 +1,100 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "73158",
+    "title": "Örbylgjan hættir",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=73158",
+    "posts": [
+        {
+            "user_name": "arnorhe",
+            "text": "Núna á að hætta að senda sjónvarpið í gegnum örbylgju á höfuðborgarsvæðinu. Ég sagði upp myndlyklinum fyrir rúmu ári síðan, enda fannst mér óþarfi að borga 1700 krónur fyrir RÚV, sem ég er þegar að borga nefskattinn fyrir.\nVitið þið hvort það séu einhverjar aðrar leiðir til að fá þetta en að leigja lykil frá Vodafone eða Símanum? Getur maður keypt sér svona græju sjálfur, svona eins og maður getur fjárfest í router? Eða getur maður sett upp litla tölvu sem maður gæti látið þjóna sama eða svipuðum tilgangi og myndlykill?",
+            "date": "2017-05-30 22:53:00",
+            "post_id": "650260",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "arnara",
+            "text": "Þetta verður áfram aðgengilegt gegnum loftnet á UHF bandinu, það er einungis verið að að slökkva á örbylgjusendunum.",
+            "date": "2017-05-30 23:01:00",
+            "post_id": "650261",
+            "reply_to_id": "650260"
+        },
+        {
+            "user_name": "russi",
+            "text": "UHF á Channel 26-28\nChannel 26 er DVB-T2 og þar eru HD útsendingar, hinar eru á DVB-T\nMeðan þú ert með UHF-greiðu þá ertu sett",
+            "date": "2017-05-30 23:36:00",
+            "post_id": "650264",
+            "reply_to_id": "650261"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Já, tengir bara sjónvarpið beint í vegginn, passa að hafa gömlu greiðuna \nhttp://www.ruv.is/spurt-og-svarad/orbyl ... id-haettir",
+            "date": "2017-05-31 13:24:00",
+            "post_id": "650300",
+            "reply_to_id": "650264"
+        },
+        {
+            "user_name": "JReykdal",
+            "text": "Miklu betra á loftneti hvort eð er. 5.1 hljóð og svoleiðis",
+            "date": "2017-05-31 13:55:00",
+            "post_id": "650302",
+            "reply_to_id": "650300"
+        },
+        {
+            "user_name": "bigggan",
+            "text": "Eg þú ert með nýlegt sjónvarp þarftu ekki að gera neitt tengir því beint í gamla tengið.",
+            "date": "2017-05-31 19:30:00",
+            "post_id": "650318",
+            "reply_to_id": "650302"
+        },
+        {
+            "user_name": "arnorhe",
+            "text": "Ok. Ég skil. Við erum reyndar bara með örbylgjuloftnet uppi á þaki en ég fer þá bara út í búð og versla mér uhf loftnet!",
+            "date": "2017-06-03 13:26:00",
+            "post_id": "650551",
+            "reply_to_id": "650318"
+        },
+        {
+            "user_name": "Hizzman",
+            "text": "Öfugsnúið. Betra væri að hafa TV á hærri tíðnum og farsíma á UHF",
+            "date": "2017-06-17 11:34:00",
+            "post_id": "651456",
+            "reply_to_id": "650551"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "En farsímar eru á UHF?",
+            "date": "2017-06-17 14:08:00",
+            "post_id": "651458",
+            "reply_to_id": "651456"
+        },
+        {
+            "user_name": "Hizzman",
+            "text": "sorry! meinti auðvitað að vera með farsíma á tíðnum undir 900Mhz",
+            "date": "2017-06-17 14:47:00",
+            "post_id": "651460",
+            "reply_to_id": "651458"
+        },
+        {
+            "user_name": "depill",
+            "text": "Þeir verða það líka. 800 Mhz er orðið virkt hjá Vodafone ( og kannski Nova veit ekki ? ) og svo er 700 Mhz að fara koma inn eftir smá ( í sama útboði og 2600Mhz(þar sem örbylgjan var). Rökin fyrir því að taka 2600Mhz tíðnisviðið hjá PFS eru reyndar bara mjög fín.\nHærri tíðnisvið henta mikið betur fyrir \"dense\" íbúðarsvæði en lægri tíðnisviðin. Þess vegna er verið soldið að blanda þessu saman og svo eru flest allir sammála um það að þó við verðum með ákveðið broadcast áfram ( live events ) er consumption á ólínulegu(unicast) bara að fara aukast og þá sérstaklega í farsímakerfunum okkar og þá þarf bara meira tíðnipláss fyrir farsímanet.",
+            "date": "2017-06-17 19:36:00",
+            "post_id": "651468",
+            "reply_to_id": "651460"
+        },
+        {
+            "user_name": "Hizzman",
+            "text": "rökin eru að tv er oftast með föst loftnet sem 'sjá' sendinn, hærri tíðni er því ekki teljandi vandamál.\nfarsímar græða á lægri tíðnum vegna þess að þær komast betur í gegnum byggingar og aðrar fyrirstöður en hærri tíðnir",
+            "date": "2017-06-17 22:33:00",
+            "post_id": "651469",
+            "reply_to_id": "651468"
+        },
+        {
+            "user_name": "depill",
+            "text": "Var reyndar að tala um rökin að taka Digital Ísland af 2600Mhz. Loftnets útsendingarnar verða á lægri tíðni, hafa minna capacity en lengri drægni.\nFarsíma græða ákveðin functionality á lægri tíðnum og ákveðin af hærri tíðnum. Það er ástæðan fyrir því að fjarskiptafyrirtækin hafa öll farið í blandað deployment. Hins vegar ef þú hefur nægt spectrum sem er yfirleitt vesenið á neðri tíðnisviðunum ertu í golden stöðu.\nHér er annars úthlutnin á 2600Mhz gamla tíðni sviði DÍ, minnir að það sé tæknilega óhað svo að þau geta notað það hvort sem er fyrir backhaul eða farsíma\nH 2600\t2x20 MHz\t2500 - 2520 / 2620 - 2640 MHz\t10.000.000 ISK\tSíminn hf.\nI 2600\t2x20 MHz\t2520 - 2540 / 2640 - 2660 MHz\t10.000.000 ISK\tFjarskipti hf.\nJ 2600\t2x10 MHz\t2540 - 2550 / 2660 - 2670 MHz\t6.000.000 ISK\tNova hf.\nK 2600\t2x10 MHz\t2550 - 2560 /2670 - 2680 MHz\t6.000.000 ISK\tNova hf.\nL 2600\t2x10 MHz\t2560 - 2570 / 2680 - 2690 MHz\t6.300.000 ISK\tYellow Mobile BV\nOg svo neðri sviðin\nA 700\t2x10 MHz\t713-723 / 768-778 MHz\t35.000.000 ISK\tSíminn hf.\nB 700\t2x10 MHz\t723-733 / 778-788 MHz\t35.000.000 ISK\tSíminn hf.\nC2 800\t2x5 MHz\t791-796/832-837 MHz\t17.500.000 ISK\tNova hf.\nD2 800\t2x5 MHz\t796-801/837-842 MHz\t17.500.000 ISK\tFjarskipti hf.\nPlús það var úthlutun á 2100Mhz og PFS eru búnir að vera gera meira af tíðnisviðinu tæknilega óháð. Með svona margar tíðnir ( þetta er að gerast erlendis líka ) verður spennandi að sjá með devicin hvernig þau verða framleidd, fyrir hvaða markaðssvæði og sérstaklega þegar markaaðssvæðinu eru jafnvel ekki að aligna eithvað sérstaklega.",
+            "date": "2017-06-17 22:47:00",
+            "post_id": "651471",
+            "reply_to_id": "651469"
+        }
+    ],
+    "date": "2017-05-30 22:53:00"
+}

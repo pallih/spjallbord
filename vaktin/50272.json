@@ -1,0 +1,135 @@
+{
+    "forum_title": "Yfirklukkun, hraðaprófanir og mods",
+    "id": "50272",
+    "title": "Eru þetta safe hitar á 2500k í 4.6GHz",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=1&t=50272",
+    "posts": [
+        {
+            "user_name": "niCky-",
+            "text": "Eru þetta safe hitar á 2500k í 4.6GHz? Er með Noctua D14 kælingu",
+            "date": "2012-09-09 12:52:00",
+            "post_id": "465802",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "já ætti að vera það, á hvaða voltum ?",
+            "date": "2012-09-09 12:58:00",
+            "post_id": "465803",
+            "reply_to_id": "465802"
+        },
+        {
+            "user_name": "Eiiki",
+            "text": "Ég sé ekki betur en þú sért með speedstep enabled og því klukkar örgjörvinn sig niður í 1.6GHz þegar hann er idle. Ég myndi disable speedstep til að hafa hann stable 4.6 GHz \nEn náðu í prime95 og gerðu small FFTs testið í því.\nLáttu það runna í að minnsta kosti sólahring til þess að vera viss um að vera með stable overclock. En ef þú ert viss um að það sé stable þá er nóg að láta það keyra í svona hálftíma til að sjá hæstu hitatölur sem örgjörvinn fer í.  ef hann er að fara eitthvað yfir 80°C þá mættiru reyna að lækka voltin á örgjörvann eða klukka hann niður í 4.4GHz og lækka voltin í samræmi við það. Þú ert hvort sem er aldrei að fara að sjá nokkurn performance mun á 4.4 eða 4.6GHz í venjulegri leikja- og tölvunotkun",
+            "date": "2012-09-09 12:59:00",
+            "post_id": "465804",
+            "reply_to_id": "465803"
+        },
+        {
+            "user_name": "niCky-",
+            "text": "disable-a ég speedstep í biosnum?",
+            "date": "2012-09-09 13:12:00",
+            "post_id": "465810",
+            "reply_to_id": "465804"
+        },
+        {
+            "user_name": "fallen",
+            "text": "Afhverju í ósköpunum myndirðu vilja hafa örgjörvann í 4.6GHz á fullum voltum þegar það er ekkert að gerast? Speedstep on.",
+            "date": "2012-09-09 13:18:00",
+            "post_id": "465812",
+            "reply_to_id": "465810"
+        },
+        {
+            "user_name": "AciD_RaiN",
+            "text": "Í guðanna bænum disable speedstep !!! \nEf þú ert í vafa hver er að segja rétt, prófaðu þá bara að googla það \nEf þú disable-ar það þá ertu með stable overclock og þegar hann er ekki að vinna þá er hann samt ekkert að hitna meira en þegar þú ert með þetta á. Overclock snýst soldið um að ná því stabílu...",
+            "date": "2012-09-09 14:07:00",
+            "post_id": "465818",
+            "reply_to_id": "465812"
+        },
+        {
+            "user_name": "nonesenze",
+            "text": "like á það",
+            "date": "2012-09-09 15:18:00",
+            "post_id": "465829",
+            "reply_to_id": "465818"
+        },
+        {
+            "user_name": "fallen",
+            "text": "Hvaða rugl? Ertu að segja að overclock geti ekki verið stable með speedstep?",
+            "date": "2012-09-09 15:28:00",
+            "post_id": "465831",
+            "reply_to_id": "465829"
+        },
+        {
+            "user_name": "AciD_RaiN",
+            "text": "Já það er akkúrat það sem ég er að segja \nUK overclocking champion G1lgamesh segir að speedstep eigi að vera disabled... Viltu þræta um það??",
+            "date": "2012-09-09 15:36:00",
+            "post_id": "465832",
+            "reply_to_id": "465831"
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "Ef þú villt spara rafmagn og heldur að örgjörvinn endist ekki í 10 ár speedstep ON\nAnnars þarftu ekki að hafa neinar áhyggjur , þó að örgjörvinn sé alltaf í 4.6ghz þíðir ekki að hann sé alltaf undir álagi !\ntd. pófaðu að gera super pi test með speeds. on og off \nhttp://www.techpowerup.com/downloads/36 ... _v1.5.html",
+            "date": "2012-09-09 15:42:00",
+            "post_id": "465834",
+            "reply_to_id": "465832"
+        },
+        {
+            "user_name": "nonesenze",
+            "text": "vá gaurinn er í 4.6ghz, ekki eins og hann sé í einhverju extreme, mæli með speedstep on ... off ef þú ætlar í einhver 5ghz+\n\"UK overclocking champion G1lgamesh \" er kannski í einhverju aðeins öðru en moderate OC",
+            "date": "2012-09-09 16:42:00",
+            "post_id": "465851",
+            "reply_to_id": "465834"
+        },
+        {
+            "user_name": "fallen",
+            "text": "Case and point: Ég var með örgjörvann hans niCky- í 4.6GHz með speedstep on í meira en ár og hann var stable.\nÞvílíkt rugl að segja að það sé ekki hægt að ná stable oc með speedstep on.\nx2",
+            "date": "2012-09-09 16:49:00",
+            "post_id": "465852",
+            "reply_to_id": "465851"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "Jájá það er alveg hægt að ná þessu stable á speedstep en það er bara svo auto hjá manni að disable-a þetta þar sem það eru sum móðurborð sem eru viðkvæm fyrir þessu og hverju skiptir hvort G1lgamesh sé í eitthverju meira en moderate OC? það segir sér bara að sjálfu ef kingpin, AndreYang og fleirri disable-a þetta alltaf þá er kostur við það",
+            "date": "2012-09-09 16:53:00",
+            "post_id": "465853",
+            "reply_to_id": "465852"
+        },
+        {
+            "user_name": "niCky-",
+            "text": "Af hverju segir CoreTemp 4.6GHz en CPU-Z 1.6GHz, ég er með Speedstep disable-að. Voltage er 1.36 btw",
+            "date": "2012-09-09 18:04:00",
+            "post_id": "465872",
+            "reply_to_id": "465853"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Ef ég má troða mér inn í þetta \"speedstep\"/\"ekki speedstep\" rifrildi, þá held ég að það séu allir tilbúnir að skrifa undir að það sé sniðugt að slökkva á speedsteppi þegar þú ert að stilla til OCið. Þegar þú ert svo búinn að taka þitt stability check (24 tímar prime t.d.) og allt virkar, þá er hægt að kveikja á speedstepinu aftur. Ef tölvan er unstable þá er hægt að slökkva á speedstepinu aftur. Ef ekki, þá eru allir að græða, nema OR.\nedit:\nÞó einhver geri eitthvað, þarf það ekkert að þýða að það sé hið rétta í stöðunni. Sérstaklega ef maður er í aðstöðu til að prófa sjálfur. Auðvitað er gott að nýta reynslu annara sem hafa ... reynslu. En það þarf samt ekki að þýða að þeir hafi rétt fyrir sér. Eins og hérna er ekki spurt \"afhverju er OCið mitt unstable\", heldur um hámarkshita, sem speedstep hefur ekkert um að segja.",
+            "date": "2012-09-10 14:34:00",
+            "post_id": "466024",
+            "reply_to_id": "465872"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "ég prufaði þetta með 4-5 p67 móðurborðum á sínum tíma og flestum tilfellum var þetta bara til vandræða en eins og ég sagði er alveg hægt að ná tölvunni stable með þessu ég var með 2600k í 5.2ghz með speedstep on á Evga P67 FTW borði en t.d Gigabyte GA-P67A-UD7 og ASUS P8P67 PRO gátu enganveginn verið með speedstep á þótt örrinn var bara í 4.8-5ghz\nen back on topic.\nHvernig móðurborð ertu með?",
+            "date": "2012-09-10 15:22:00",
+            "post_id": "466033",
+            "reply_to_id": "466024"
+        },
+        {
+            "user_name": "niCky-",
+            "text": "ASUS P8P67 Pro",
+            "date": "2012-09-10 18:52:00",
+            "post_id": "466067",
+            "reply_to_id": "466033"
+        },
+        {
+            "user_name": "Jon1",
+            "text": "wtf ! sá ekki að þetta var eldgamall þráður ! afsakið",
+            "date": "2013-02-06 09:19:00",
+            "post_id": "493970",
+            "reply_to_id": "466067"
+        }
+    ],
+    "date": "2012-09-09 12:52:00"
+}

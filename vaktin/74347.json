@@ -1,0 +1,23 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "74347",
+    "title": "Tveir router annar tengdur við vpn -   hjálp",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=74347",
+    "posts": [
+        {
+            "user_name": "zetor",
+            "text": "Sælir vaktarar! Ég er alveg strand! hérna í Þýskalandi\nEr að fikta mig áfram í dd-wrt og Openvpn uppsetningu.\nÉg er með tvo routera: \nRouter Nr. 1 er Tp-link sem tengist inn á netið\nRouter Nr. 2 er DD-Wrt Flashaður router ( ætlaður sem vpn router ) sem tengist svo inn á router NR.1\nÉg hef komist það langt í þessu að ég get tengt mig inn á hvaða Router sem er í gegnum wifi eða Lan\nog komist inn á netið. Þeir tala saman...ég tengist DD-Wrt routernum án vankvæða\nEn um leið og ég læt Router nr.2 tengjast Openvpn , þá get ég ekkert tengst honum og no internet.\nÉg sé að hann tengist Openvpn heima á Íslandi ( er með Synology box heima sem Openvpn server )\nÉg er búinn að vera að googla þetta smá en enn ekkert fundið.\nEr hér einhver sem hefur reynslu af svona uppsetningu?",
+            "date": "2017-10-06 16:04:00",
+            "post_id": "658510",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Binninn",
+            "text": "Ég er að leitast eftir svörum við svipuðum spurningum ef einhver eru ?\nNota 1 Router með VPN stillingum fyrir innan \"heimilisrouterinn\" td til að nota UK Tv, NowTV, SKY og svo framvegis.",
+            "date": "2017-10-26 12:22:00",
+            "post_id": "659677",
+            "reply_to_id": "658510"
+        }
+    ],
+    "date": "2017-10-06 16:04:00"
+}

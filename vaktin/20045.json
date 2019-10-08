@@ -1,0 +1,65 @@
+{
+    "forum_title": "Windows",
+    "id": "20045",
+    "title": "Netvesen",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=20045",
+    "posts": [
+        {
+            "user_name": "blitz",
+            "text": "Netið í borðtölvunni hefur verið FÁRÁNLEGA hægt, er að á lappanum núna og allt er eðlilegt.\nErum að tala um að vefsíður opnast ekki, msn signast ekki inn en get af og til sótt email..\nef ég pinga mbl.is í henni kemur eftirfarandi:\nReply from 92.43.192.111: Bytes=32 time=9ms TTL=58\nReply from 92.43.192.111: Bytes=32 time=8ms TTL=58\nReply from 92.43.192.111: Bytes=32 time=10ms TTL=58\nReply from 92.43.192.111: Bytes=32 time=9ms TTL=58\nEins og ég segi, netið virkar á öllum vélum á heimilnu nema þessari. Var að prófa að formatta hana.. sama vesen..\nNetkortið er Onboard..\nWhat'sup??",
+            "date": "2008-11-13 20:46:00",
+            "post_id": "187045",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "blitz",
+            "text": "Gat alltíeinu downloadað frá microsoft.com á 50 kb/s",
+            "date": "2008-11-13 20:58:00",
+            "post_id": "187047",
+            "reply_to_id": "187045"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Tæknilega séð er netið að virka að einhverju leiti þar sem þú færð ping reply. Hef samt ekki glóru um hvað gæti verið að.",
+            "date": "2008-11-13 21:00:00",
+            "post_id": "187048",
+            "reply_to_id": "187047"
+        },
+        {
+            "user_name": "blitz",
+            "text": "Einmitt.\nÚtkoman úr pinginu var sú sama á lappanum",
+            "date": "2008-11-13 21:04:00",
+            "post_id": "187049",
+            "reply_to_id": "187048"
+        },
+        {
+            "user_name": "blitz",
+            "text": "Dettur engum neitt í hug?",
+            "date": "2008-11-13 22:41:00",
+            "post_id": "187080",
+            "reply_to_id": "187049"
+        },
+        {
+            "user_name": "methylman",
+            "text": "Gæti verið að routerinn hjá þér sé ekki að skila DNS til tölvunnar ath hvort routerinn hefur réttar ip tölur á DNS server og hvort relay til tölvunnar virkar",
+            "date": "2008-11-14 00:33:00",
+            "post_id": "187094",
+            "reply_to_id": "187080"
+        },
+        {
+            "user_name": "blitz",
+            "text": "Setti upp Ubuntu... sama vesen.\nBúinn að prófa aðra netsnúru, víxla portum og allt það..\nEr þá ekki það eina sem er eftir að þetta sé hardware problem?",
+            "date": "2008-11-14 18:51:00",
+            "post_id": "187143",
+            "reply_to_id": "187094"
+        },
+        {
+            "user_name": "blitz",
+            "text": "Hmmm.. Prófaði aðra vél..\nÞað virðist sem að þær sem tengjast með snúrur í ráterinn virki ekki, en þær sem tengjast þráðlaust virka.\nSpes\nSkipti honum út á morgun",
+            "date": "2008-11-14 19:00:00",
+            "post_id": "187146",
+            "reply_to_id": "187143"
+        }
+    ],
+    "date": "2008-11-13 20:46:00"
+}

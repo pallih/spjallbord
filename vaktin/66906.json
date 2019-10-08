@@ -1,0 +1,303 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "66906",
+    "title": "Ping vandræði CSGO - Hringiðan",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=66906",
+    "posts": [
+        {
+            "user_name": "delish",
+            "text": "Sælir\nVið höfum verið að fá ábendingar um að sumir séu að pinga frekar illa á tengingum hjá okkur. Til þess að reyna að laga þetta verðum við að vita hvað er að valda þessu og reyna að endurskapa vandamálið okkar megin. Það sem við þurfum að fá að vita er eftirfarandi. Ef einhver er að lenda í þessu og gæti svarað okkur þá myndi það hjálpa okkur mikið að koma þessu í lag sem fyrst.\n- Ljósleiðari GR eða ljósnet\n- Hvað ertu með í ms á tudda server?\n- Hvað ertu með í ms á erlendum serverum ? (ferð i console og skrifar status til að sjá hvað ip á servernum er)\nVæri gott að fá að fá ip á serverum sem eru góðir og slæmir.\n- Hvernig router ertu með ? Er hann frá okkur ?\nMegið senda mér bara mail á \nbergur@hringidan.is\n með jafnvel kennitölunni sem er skráð fyrir netinu hjá þér.",
+            "date": "2015-09-14 11:51:00",
+            "post_id": "606456",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "pepsico",
+            "text": "viewtopic.php?f=18&t=66413#p603418\nEins og sjá má á þessum þræði og svörunum í honum þá er þetta slæma ping vegna þess að umferðin getur farið fáránlegustu leiðir\nvegna viðskipta ykkar við Cogent. \nLjósleiðari GR. 5ms á innlendum serverum. 60-70ms á West serverunum í Lúxemborg en 100+++ms á East/North í Vín/Stokkhólmi.\nRouterinn minn er ekki að valda þessu. \nHérna eru hráupplýsingar um alla vefþjóna Valve sem sinna CS:GO. \nSlóð",
+            "date": "2015-09-14 12:07:00",
+            "post_id": "606458",
+            "reply_to_id": "606456"
+        },
+        {
+            "user_name": "pepsico",
+            "text": "FRÁ LONDON til Suður-Frakklands og Úkraínu bara til að komast TIL MANCHESTER og þaðan til Stokkhólms.\nHvernig router er ég með? Er hann frá ykkur?",
+            "date": "2015-09-14 13:22:00",
+            "post_id": "606462",
+            "reply_to_id": "606458"
+        },
+        {
+            "user_name": "fannar82",
+            "text": "Ég veit ekki hvort að þið gerðuð eitthvað en ef svo er þá var það til að gera ástandið verra. Pingið hefur verið \"þolanlegt\" frá svona 22:30~ og uppúr en núna er það 140~150ms ( sést með því að gera ping í console það er raun ms ekki það sem er á scoreboard ) . Ætli ég þurfi ekki að bíta í það súra að fara til Vodafone.  \n  sem mér langar minnst að gera.",
+            "date": "2015-09-14 22:58:00",
+            "post_id": "606514",
+            "reply_to_id": "606462"
+        },
+        {
+            "user_name": "Icarus",
+            "text": "Strákar, ef þið eruð að fá lélegt ping er lítið sem við getum gert í því ef við vitum ekki af því. Hendið á okkur línu með hvað vandamálið er, hvaðan lélega pingið kemur og við kippum því í lag.\nEngin ástæða til að gera veður úr því sem þarf svo ekki að vera neitt.",
+            "date": "2015-09-14 23:10:00",
+            "post_id": "606516",
+            "reply_to_id": "606514"
+        },
+        {
+            "user_name": "odinnn",
+            "text": "Ég held að það sé best fyrir þig flytja þig strax til Vodafone, það sést langar leiðir að Hringiðan hefur engan áhuga á að reyna að lagfæra þetta hjá sér...[/sarcasm]",
+            "date": "2015-09-14 23:13:00",
+            "post_id": "606517",
+            "reply_to_id": "606516"
+        },
+        {
+            "user_name": "mercury",
+            "text": "var að spila rétt áðan á tudda4 og voru 2 með ljósleiðara frá ykkur. Voru að spila með 30+ms þar. Hafa verið með 75-120 ms í mm undanfarna daga.",
+            "date": "2015-09-14 23:19:00",
+            "post_id": "606519",
+            "reply_to_id": "606517"
+        },
+        {
+            "user_name": "andripepe",
+            "text": "öllum mm serverum, öllum faceit serverum.   Er maður að fá 90-150 í ms.      og pingið 90-120.     Síðustu vikur.\n30-40 ms á tudda.\nsvo er t.d     visir.is   að taka mun lengri tíma að loadast heldur en vananlega hjá mér.   Loada fréttum og myndböndum.  (  í alvöru )",
+            "date": "2015-09-14 23:24:00",
+            "post_id": "606520",
+            "reply_to_id": "606519"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Þjónn sem ég spila minn leik á er í LA...  er farinn úr 180ms í 360-450ms\nÞað er ekki furða að KDR hjá manni er farið að láta á sjá.\nSkv. tracert fer ég oft í gegnum Asuturríki og Sviss og kjánalegustu staði.",
+            "date": "2015-09-14 23:52:00",
+            "post_id": "606522",
+            "reply_to_id": "606520"
+        },
+        {
+            "user_name": "delish",
+            "text": "Vandamál sem við höfum staðfest eru þeir sem eru á ljósneti Mílu og eru með ca 15-20 auka ms á íslenskum serverum og þar með erlendum líka. Lausn er komin í það vandamál og þurfum við bara að þeir sem eru að lenda í því heyri í okkur svo hægt sé að laga þetta hjá viðkomandi.\nÉg fór yfir trace'ið í gær heima hjá mér á mm serverana. Dæmin sem ég hef skoðað nánar af þeim sem hafa haft samband við okkur og þar á meðal í þessum þræði eru að route'a sömu leið. Athugið að ef þið farið inn á síður eins \nhttps://www.iplocation.net/\n þá sjáið þið að það eru frekar mismunandi niðurstöður.\nMér þætti vænt um ef þið hefðuð samband við mig þeir sem eru á ljósleiðara og eru með uþb. 30 ms á íslenskum. Ég get ekki leyst vandamálið ef ég er ekki með live dæmi þar sem þetta er að gerast.\nHingað til hafa öll dæmin sem ég hef fengið ekki route'að neitt öðruvísi. Ef þið eruð að fá annað en ég lista hérna fyrir neðan þá myndi ég þiggja að þið hefðuð samband við mig.\nEU West\nlon01.atlas.cogent\ncar1.Luxembourg1.Level3\nEU North\nlon01.atlas.cogent\nams03.atlas.cogent\nham01.atlas.cogent\nsto03.atlas.cogent",
+            "date": "2015-09-15 11:50:00",
+            "post_id": "606568",
+            "reply_to_id": "606522"
+        },
+        {
+            "user_name": "volcom1983",
+            "text": "Sælir. \ner ekki málið að henda þessari spurnigu inn á #csgo.is facebook síðuna þar sem allir csgo spilarar eru ?",
+            "date": "2015-09-15 15:06:00",
+            "post_id": "606577",
+            "reply_to_id": "606568"
+        },
+        {
+            "user_name": "andripepe",
+            "text": "af því að það eru engir csgo spilarar hér ?",
+            "date": "2015-09-15 17:20:00",
+            "post_id": "606589",
+            "reply_to_id": "606577"
+        },
+        {
+            "user_name": "halipuz1",
+            "text": "Alltaf í góðu lagi hjá mér á íslenskum serverum. Erlendir serverar eru svolítið háir stundum miða við aðra ISP en það er ekki nema kannski nokkur ms. Er hjá hringiðunni og á router frá þeim.",
+            "date": "2015-09-15 17:29:00",
+            "post_id": "606590",
+            "reply_to_id": "606589"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Hvða tól eru þið að nota til að rekja rútuna svona grafískt?",
+            "date": "2015-09-15 18:07:00",
+            "post_id": "606591",
+            "reply_to_id": "606590"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Þetta hefur bara versnað ef eitthvað er, hvaða ISP er með best ping til USA?",
+            "date": "2015-09-15 22:34:00",
+            "post_id": "606617",
+            "reply_to_id": "606591"
+        },
+        {
+            "user_name": "HoBKa-",
+            "text": "Fyrst að Hringiðan er með þráð hér, þá vil ég kasta fram þessari spurningu...\nAfhverju þessi rúta þegar ég fer inn á visir.is ?\nAth.\n endar aftur á Íslandi (Advania 82.221.168.248)\nMeðan flest allar íslenskar síður rútast hérlendis, t.d. vaktin og mbl.is ?\nBy the way.. er á Ljósleiðara hjá Hringiðunni, minn router (Linksys EA6300)...",
+            "date": "2015-09-17 01:24:00",
+            "post_id": "606700",
+            "reply_to_id": "606617"
+        },
+        {
+            "user_name": "Icarus",
+            "text": "Þetta var smá routing issue sem er nú komið í lag.",
+            "date": "2015-09-17 14:18:00",
+            "post_id": "606737",
+            "reply_to_id": "606700"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Bara visir.is eða leikjadæmið líka?",
+            "date": "2015-09-17 14:35:00",
+            "post_id": "606738",
+            "reply_to_id": "606737"
+        },
+        {
+            "user_name": "Icarus",
+            "text": "Þetta sem ég átti við er visir.is\nMættir endilega senda okkur traceroute á þessa þjóna sem þú ert að spila á fyrst þetta er að fara svona skrítna leið (ef þú ert ekki þegar búinn að því).",
+            "date": "2015-09-17 20:58:00",
+            "post_id": "606785",
+            "reply_to_id": "606738"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Sýnist rútan bara hafa orðið eitthvað meira funky sbr. #2 og # 12\nEr einhver hjá Voda eða Símanum til í að gera tracert á þennan þjón fyrir mig og senda mér í skilaboðum eða posta hingað inn?",
+            "date": "2015-09-17 21:35:00",
+            "post_id": "606787",
+            "reply_to_id": "606785"
+        },
+        {
+            "user_name": "Icarus",
+            "text": "Hopp nr. 2 er ljósleiðaraboxið þitt. En þetta eru 180ms?\nEn ertu að fá svona hátt in game á meðan trace skilar bara 180?",
+            "date": "2015-09-18 11:13:00",
+            "post_id": "606821",
+            "reply_to_id": "606787"
+        },
+        {
+            "user_name": "Nitruz",
+            "text": "ljósnet voda",
+            "date": "2015-09-18 11:17:00",
+            "post_id": "606822",
+            "reply_to_id": "606821"
+        },
+        {
+            "user_name": "rapport",
+            "text": "In game er 350-420ms skv. resource monitor en hefur alltaf verið um 180ms\nÞegar ég var hjá Símanum stilltu þeir þetta fyrir mig, svo seinna hjá Hringdu og minnir að þið hafið gert það líka fyrst... \nEn svo virðist eitthvað hafa farið í kleinu í vor",
+            "date": "2015-09-18 11:22:00",
+            "post_id": "606824",
+            "reply_to_id": "606822"
+        },
+        {
+            "user_name": "rapport",
+            "text": "WTF - þetta virðist koma virkilega illa út...",
+            "date": "2015-09-18 11:24:00",
+            "post_id": "606825",
+            "reply_to_id": "606824"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Þetta er síðan fyrir ári þegar ég var hjá Hringdu og þá fékk ég svarið að þeir væru hættir með link sem fór beint til USA.\nOg var ástæðan fyrir því að ég fór til Hringiðunnar.\nHverjir eru með linka beint til USA?\nÞað hefur alltaf þurft að configga mig beint inn á það fyrir þennan leik...",
+            "date": "2015-09-18 11:28:00",
+            "post_id": "606826",
+            "reply_to_id": "606825"
+        },
+        {
+            "user_name": "fannar82",
+            "text": "Nú bara verður þú að koma með hvaða leik þú ert að spila drengur !",
+            "date": "2015-09-18 13:26:00",
+            "post_id": "606830",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Hannesinn",
+            "text": "",
+            "date": "2015-09-18 13:33:00",
+            "post_id": "606831",
+            "reply_to_id": "606830"
+        },
+        {
+            "user_name": "Bioeight",
+            "text": "Netið hjá Vodafone var bilað í morgun(sem gerist örsjaldan) þannig að þessar tölur eru ekki að endurspegla eðlilegt ástand. Væri gott að prófa þetta kannski aftur þegar það er lagað.\nsource: Er viðskiptavinur Vodafone og var að reyna að komast á netið í morgun.",
+            "date": "2015-09-18 14:05:00",
+            "post_id": "606833",
+            "reply_to_id": "606831"
+        },
+        {
+            "user_name": "rapport",
+            "text": "http://us.fps-pb.com/\nEnginn annar vill spila hann, held að við séum orðnir tveir eftir héðan af klakanum...",
+            "date": "2015-09-18 14:21:00",
+            "post_id": "606838",
+            "reply_to_id": "606833"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Var rankaður í um 60 af öllum þarna er búinn að hrapa niður í 81...  = mjög súrt...",
+            "date": "2015-09-18 14:27:00",
+            "post_id": "606840",
+            "reply_to_id": "606838"
+        },
+        {
+            "user_name": "fannar82",
+            "text": "Vel gert \n og ég skil það vel að það sé súrt. Enda er ég búinn að taka þá ákvörðun að ef þetta verður enn svona í kringum mánaðarmótin þá ætla ég að skipta. prufaði að henda mér í leik í gær með lítilli lukku.",
+            "date": "2015-09-20 13:17:00",
+            "post_id": "607003",
+            "reply_to_id": "606840"
+        },
+        {
+            "user_name": "brynjarbergs",
+            "text": "Tracert á Voda ljósleiðara.",
+            "date": "2015-09-20 13:44:00",
+            "post_id": "607006",
+            "reply_to_id": "607003"
+        },
+        {
+            "user_name": "braudrist",
+            "text": "Er ekki bara fínt að vera með 200ms á server sem er hostaður ca. 7000 km frá Reykjavík?",
+            "date": "2015-09-20 17:27:00",
+            "post_id": "607024",
+            "reply_to_id": "607006"
+        },
+        {
+            "user_name": "KrissiK",
+            "text": "ég er með 30MB ljósnet hjá kapalvæðingu, er uppá ásbrú, þetta net er búið að vera eitt stórt djók frá því að maður byrjaði hjá þeim..",
+            "date": "2015-09-20 19:54:00",
+            "post_id": "607042",
+            "reply_to_id": "607024"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Það er fínt ef það er stabílt, en að flökkta frá 180 í 350-450 skapar mestu vandræðin.\nS.s. ef þú skoðar tölurnar þá er þetta flökkt alveg helvítis fokking fokk að díla við.\nHopp #2 og #12",
+            "date": "2015-09-20 20:16:00",
+            "post_id": "607044",
+            "reply_to_id": "607042"
+        },
+        {
+            "user_name": "depill",
+            "text": "Kóði: \nVelja allt\nC:\\Users\\davidfg>tracert 216.176.192.214\nTracing route to 216.176.192.214 over a maximum of 30 hops\n  1     2 ms     1 ms     1 ms  dsldevice.lan [192.168.1.254]\n  2     *        *        *     Request timed out.\n  3     7 ms     6 ms     6 ms  157.157.255.183\n  4     8 ms     7 ms     7 ms  157.157.255.182\n  5    46 ms    46 ms    46 ms  te0-0-1-0.rcr11.b023101-0.lon01.atlas.cogentco.com [149.6.148.45]\n  6    46 ms    45 ms    46 ms  abovenet.lon09.atlas.cogentco.com [130.117.14.182]\n  7    46 ms    45 ms    45 ms  ae4.mpr3.lhr3.uk.zip.zayo.com [64.125.21.1]\n  8   114 ms   114 ms   115 ms  xe-1-2-0.cr2.dca2.us.zip.zayo.com [64.125.31.186]\n  9   174 ms   175 ms   174 ms  v62.ae29.cr2.lax112.us.zip.zayo.com [64.125.30.54]\n 10   179 ms   174 ms   173 ms  ae10.er4.lax112.us.zip.zayo.com [64.125.21.114]\n 11   175 ms   174 ms   174 ms  208.185.253.6.ipyx-087906-zyo.above.net [208.185.253.6]\n 12   173 ms   173 ms   175 ms  b.sackett-flint.la.cyberverse.net [209.151.232.2]\n 13     *        *        *     Request timed out.\n 14     *        *        *     Request timed out.\n 15     *        *        *     Request timed out.\n 16     *        *        *     Request timed out.\n 17     *        *        *     Request timed out.\nAðeins lægra hjá Símaum en ekki mikið. En mjög stabílt.",
+            "date": "2015-09-20 20:25:00",
+            "post_id": "607045",
+            "reply_to_id": "607044"
+        },
+        {
+            "user_name": "andripepe",
+            "text": "170 ms       í csgo, í matchmaking",
+            "date": "2015-09-22 21:06:00",
+            "post_id": "607205",
+            "reply_to_id": "607045"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Ég var miklu stabílli snemma í gærkvöldi en oft áður en svo virðist eitthvað hafa gerst og allt fór í sama farið aftur ...fer að spila e-h smá, sjáum hvað setur.",
+            "date": "2015-09-22 22:12:00",
+            "post_id": "607210",
+            "reply_to_id": "607205"
+        },
+        {
+            "user_name": "Icarus",
+            "text": "andripepe: geturðu verið meira specific? Þetta ping er t.d. bara helvíti gott ef þú ert að spila á þjóni í Ástralíu, frekar slæmt ef þjónninn er í Bretlandi.\nrapport: þú bendir sjálfur á hopp tvo sem eitthvað skrítið í þínu traceroute. Það er hopp frá router í ljósleiðarabox sem bendir til einhverja innanhús vandamála. Ætla ekki að fullyrða að það sé ekkert að okkar megin, routing er helvíti flókið dæmi og ákveðið listform að halda því í lagi. Erfitt þó að vinna með einn user sem lendir í vandræðum með einn server sem er staddur á vesturströnd Bandaríkjanna, er svo rosalega margt sem getur haft áhrif á svartíma.",
+            "date": "2015-09-22 22:46:00",
+            "post_id": "607213",
+            "reply_to_id": "607210"
+        },
+        {
+            "user_name": "rapport",
+            "text": "I know, I´m rapport, I´m disgusting. I ask ISP´s to fix my first world problems...",
+            "date": "2015-09-22 23:10:00",
+            "post_id": "607221",
+            "reply_to_id": "607213"
+        },
+        {
+            "user_name": "einarth",
+            "text": "Daginn.\nLangar aðeins að koma með punkt inní þetta.\nHopp 2 hjá Rapport er ip tala á netbúnaði inní neti GR - ekki á netaðgangstækinu sjálfu.\nLéleg ping svörun frá þessari tölu segir ekkert til um gæði sambands.\nTil að útiloka að það sé óeðlileg pakkatöf eða pakkatap í Ljósleiðaraneti GR er fínt að gera ping/traceroute á speedtest.gagnaveita.is.\nÞessi server er staðsettur á jaðri netkerfis GR og er síðasta stopp áður en tenging fer inn til viðkomandi internet-þjónustuaðila.\nÍ þessi tiltekna traceroute frá Rapport sést að talan 213.190.126.1 svarar með 1ms svartíma og sú svörun staðfestir að öll leiðin frá heimili Rapport að þessari ip tölu (sem er inná netkerfi Hringiðunar) er í lagi. Það er ekki hægt að fá 1ms svartíma inn til Hringiðunar ef lagnir innanhús eða samband í netkerfi GR er ekki í lagi.\nKv, Einar.",
+            "date": "2015-09-23 10:32:00",
+            "post_id": "607243",
+            "reply_to_id": "607221"
+        },
+        {
+            "user_name": "Icarus",
+            "text": "I stand corrected. Ætla ekki einu sinni að þykjast vita jafn mikið um netmál og hann Einar. Enda er það ekki mitt svið. \nrapport, annars á þetta að sjálfsögðu að virka og við höfum komið þessu áfram á netdeildina, kannski er eitthvað þarna sem hann sér.",
+            "date": "2015-09-23 11:30:00",
+            "post_id": "607250",
+            "reply_to_id": "607243"
+        }
+    ],
+    "date": "2015-09-18 13:26:00"
+}

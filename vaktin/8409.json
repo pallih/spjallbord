@@ -1,0 +1,142 @@
+{
+    "forum_title": "Yfirklukkun, hraðaprófanir og mods",
+    "id": "8409",
+    "title": "hvar læsir maður PCI/AGP á DFILanparty SLI-DR",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=1&t=8409",
+    "posts": [
+        {
+            "user_name": "galileo",
+            "text": "hef verið að reyna að finna hvar í BIOSnum maður læsir PCI/AGP  á þessu borði en fann það ekki byrjaði bara að yfirklukka en þá corruptaði win xp á disknum mínum og er núna búinn að redda windowsi og vildi vita hvort að einhver vissi hvar maður læsir þessu á þessu borði. (Er ekkert búin að uppfæra BIOS eða breyta honum neit síðan ég keypti borðið.)\n\n\n\nVonandi kemur einhver hér með góð svör. \n\n\n\n\n\n\nSmá upplýsingar- Ef maður er kominn inní BIOSinn og fer þar inn´Genie BIOSsettings og þaðan í PCI express Frequency Þá sýnir það 100 mhz og ég get bara hækkað það en ekki lækkað það Hefur þetta kannski einhvað að gera með þessu ef svo þá var ég alltaf með þetta stillt á 100 mhz meðan að ég vara að overclocka.",
+            "date": "2005-05-31 14:43:00",
+            "post_id": "90331",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "galileo",
+            "text": "Er enn að bíða eftir svari veit að það eru margir snillingar hérna  \n\n\nSorry ef ég er böggandi. \n\n\n\nHefur virkilega eingin hugmynd um þetta",
+            "date": "2005-06-08 22:57:00",
+            "post_id": "91106",
+            "reply_to_id": "90331"
+        },
+        {
+            "user_name": "Fletch",
+            "text": "sorry, en bara silly spurning\n\n\n\n1. þetta er ekki AGP borð\n\n2. PCI er alltaf 33 MHz á því\n\n\n\nFletch",
+            "date": "2005-06-08 23:57:00",
+            "post_id": "91115",
+            "reply_to_id": "91106"
+        },
+        {
+            "user_name": "fallen",
+            "text": "\"1. þetta er ekki AGP borð \"\n\n\n\nhahahahahaa\n\nvááá þessi þráður made my day",
+            "date": "2005-06-09 00:12:00",
+            "post_id": "91116",
+            "reply_to_id": "91115"
+        },
+        {
+            "user_name": "galileo",
+            "text": "já veit það sko alveg haha hélt að þeta héti bara PCI/agp lock",
+            "date": "2005-06-09 01:58:00",
+            "post_id": "91125",
+            "reply_to_id": "91116"
+        },
+        {
+            "user_name": "galileo",
+            "text": "en fletch ertu aalveg viss um ad pci se alltaf i 33 mhz a dessu borði afdvi ad Gnarr sagði annað",
+            "date": "2005-06-09 21:11:00",
+            "post_id": "91195",
+            "reply_to_id": "91125"
+        },
+        {
+            "user_name": "Fletch",
+            "text": "já\n\n\n\nFletch",
+            "date": "2005-06-09 22:10:00",
+            "post_id": "91196",
+            "reply_to_id": "91195"
+        },
+        {
+            "user_name": "galileo",
+            "text": "en  er LDT/FSB = HT á þessu Borði. Finn heldur ekki hvar maður breytir vcore. \n\n\n\nOG eitt en Cpu/fsb er það multiplier eða hvað??\n\n\n\nAnnars takk æðislega fyrir hjálpina\n\n\n\nVar nefnilega að spurja þig hvort þú værir alveg viss útafþví að Gnarr sagði að windowsið hafi corruptast á þessum \nhttp://spjall.vaktin.is/viewtopic.php?t=8240\n þráð.",
+            "date": "2005-06-09 22:33:00",
+            "post_id": "91200",
+            "reply_to_id": "91196"
+        },
+        {
+            "user_name": "Fletch",
+            "text": "LDT*FSB=HTT\n\n\n\nbreytir vcore undir genie, CPU VID og CPU VID Special.  Farðu MJÖG varlega þar ef þú ert ekki klár á þessu.\n\n\n\nCPU/FSB er multiplier já\n\n\n\nFletch",
+            "date": "2005-06-09 22:57:00",
+            "post_id": "91204",
+            "reply_to_id": "91200"
+        },
+        {
+            "user_name": "galileo",
+            "text": "En á þessum sama kork var mér ráðlagt að setja vcore í 1.6 en ég get það ekki í CPU Vid soldið skrýtið\n\nÞað var yank sem að ráðlagði mér þetta. Geturu annars komið með sniðugt overclock allt á minni ábyrgð. Það stendur allt sem ég er með í undirskriftinni minni nema að örrin er 90 nm og hann er í ca 38C° í idle.",
+            "date": "2005-06-09 23:01:00",
+            "post_id": "91206",
+            "reply_to_id": "91204"
+        },
+        {
+            "user_name": "Birkir",
+            "text": "Fyrirgefðu Galileo en mér sýnist á öllu að þú ættir að lesa þig aðeins betur til áður en þú leggst í það að yfirklukka örgjörvann þinn.",
+            "date": "2005-06-09 23:02:00",
+            "post_id": "91207",
+            "reply_to_id": "91206"
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "Lækkaðu HT multiplier niður í 4x.",
+            "date": "2005-06-09 23:22:00",
+            "post_id": "91216",
+            "reply_to_id": "91207"
+        },
+        {
+            "user_name": "galileo",
+            "text": "er búinn að lesa þennan kork \nhttp://www.ocforums.com/showthread.php?t=263753\n tvisvar  og er búinn að yfirklukka tværaðrar tölvur og það var miklu léttara en á þessu móbói.",
+            "date": "2005-06-09 23:25:00",
+            "post_id": "91218",
+            "reply_to_id": "91216"
+        },
+        {
+            "user_name": "Birkir",
+            "text": "Jæja, ég verð nú að viðurkenna að ég hef aldrei séð hvernig þetta borð er yfirklukkað þannig að ég veit svosem ekkert um þetta.  \n\nGangi þér þá bara vel",
+            "date": "2005-06-09 23:37:00",
+            "post_id": "91221",
+            "reply_to_id": "91218"
+        },
+        {
+            "user_name": "galileo",
+            "text": "takk",
+            "date": "2005-06-09 23:37:00",
+            "post_id": "91222",
+            "reply_to_id": "91221"
+        },
+        {
+            "user_name": "hahallur",
+            "text": "Þú ert greinilega ekki með besta minnið  í að klukka.",
+            "date": "2005-06-10 13:17:00",
+            "post_id": "91230",
+            "reply_to_id": "91222"
+        },
+        {
+            "user_name": "galileo",
+            "text": "Hahallur var að kaupa nýtt í dag ocz gold ed. cl.2.5 og pc 3700",
+            "date": "2005-06-10 23:35:00",
+            "post_id": "91269",
+            "reply_to_id": "91230"
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "Prófaðu það þá og athugaðu hvort þú kemst ekki hærra.\n\n\n\nAnnars hvað ertu kominn hátt?\n\n\n\nÞá meina ég HTT Multiplier, HTT bus hraða og CPU hraða?",
+            "date": "2005-06-11 00:03:00",
+            "post_id": "91276",
+            "reply_to_id": "91269"
+        },
+        {
+            "user_name": "galileo",
+            "text": "Er nú bara ekki byrjaður.",
+            "date": "2005-06-11 00:49:00",
+            "post_id": "91279",
+            "reply_to_id": "91276"
+        }
+    ],
+    "date": "2005-05-31 14:43:00"
+}

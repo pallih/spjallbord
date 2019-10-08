@@ -1,0 +1,23 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "57809",
+    "title": "Android í Virtual umhverfi - Hjálp þegin.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=57809",
+    "posts": [
+        {
+            "user_name": "AntiTrust",
+            "text": "Ég hef verið að skoða nokkra möguleika til að keyra Android, frá 2.3 og uppí 4.3+ í virtual umhverfi. Lítið mál að gera þetta með Eclipse+SDK, og sömuleiðis í gegnum VMWare, en í báðum tilfellum er ekkert WiFi til staðar. \nÉg næ að throughputta neti í gegnum eth en það er ekki vandamálið, þ.e. ég þarf ekki neina internet virkni, þarf bara að fá WiFi adapter og tilheyrandi stillingar upp. \nEr e-r fiktari/dev hérna sem veit um lausn sem getur farið alla leið og emulate-að WiFi adaptorinn?",
+            "date": "2013-10-24 14:22:00",
+            "post_id": "534730",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gardar",
+            "text": "http://v3vee.org/papers/vee11-wifi.pdf\nhttp://v3vee.org/",
+            "date": "2013-10-24 14:31:00",
+            "post_id": "534731",
+            "reply_to_id": "534730"
+        }
+    ],
+    "date": "2013-10-24 14:22:00"
+}

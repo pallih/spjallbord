@@ -1,0 +1,30 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "13462",
+    "title": "Skil ekki sýnist vera 120 GB en er 111 GB???",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=13462",
+    "posts": [
+        {
+            "user_name": "Servo Natura",
+            "text": "Sko ég er búinn að taka eftir einu!\n\n\n\nÞegar maður kaupir kannski 120 GB harðdisk fær maður í rauninni ekki nema 111 GB\n\n\n\nEins og ég á að vera með 360 GB harðdisk í tölvunni minni en er í rauninni bara 343 GB!\n\n\n\nAfhverju í andskotanum???",
+            "date": "2007-03-02 18:10:00",
+            "post_id": "140711",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Þetta er vegna þess að \"GB\" (út úr búð) er 1.000.000.000 bæti en raunverulegt GB er 1.073.741.824 bæti (2 í veldinu 30). Þannig að 120GB diskur út úr búð er 120.000.000.000 bæti / 1.073.741.824 = 111.75 raunveruleg GB. \n\n\n\nÞumalputtareglan er að þú færð u.þ.b. 93% af seldri stærð, þ.e. 120GB * 0,93 = 111.6 GB í tölvunni",
+            "date": "2007-03-02 19:14:00",
+            "post_id": "140725",
+            "reply_to_id": "140711"
+        },
+        {
+            "user_name": "Servo Natura",
+            "text": "Nú oki heyrðu takk kærlega, skil loksins eitthvað í þessu held ég!",
+            "date": "2007-03-02 21:59:00",
+            "post_id": "140752",
+            "reply_to_id": "140725"
+        }
+    ],
+    "date": "2007-03-02 18:10:00"
+}

@@ -1,0 +1,79 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "47610",
+    "title": "Skoða hversu margar tölvu eru að nota internetið.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=47610",
+    "posts": [
+        {
+            "user_name": "Victordp",
+            "text": "Hæ, ég er búinn að vera að pæla í þessu, síðan að við fengum nýja nágranna hefur downloadið okkur rokið upp (í seinasta mánuði fórum við yfir 150gb) ég hef verið að passa mig mjög mikið að fara ekki yfir það gagnamagn sem að við erum með í dag en já. Mig grunar að nágrannarnir okkar hafa komist inná netið okkar og eru að nota það fyrir sig sjálf. OG stundum verður netið alveg ógeðslega hægt og ekkert hægt að gera á því þótt að enginn sé að downloda.\ntl;dr version\nHeld að einhver sé að nota internetið okkar til að downloda og ég vil vita hvort að það sé einhver leið til að komast að því hvort að það sé einhver annar en við að nota það.",
+            "date": "2012-05-04 15:39:00",
+            "post_id": "439479",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "MCTS",
+            "text": "Langbest bara að hringja í þjónustuaðilann þinn og láta þá hjálpa þér en annars þarftu að fara inn á routerinn og breyta nafninu á netinu hjá þér og líklega passwordinu líka örugglega einhverjir hérna sem nenna að útskýra þetta betur",
+            "date": "2012-05-04 15:43:00",
+            "post_id": "439480",
+            "reply_to_id": "439479"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Með hvaða stöðlum er WiFið læst hjá ykkur? Skoðaðu client/DHCP lista á routernum hjá þér ef þú getur, ættir að sjá NetBIOS/PC names þar sem þú kannast ekki við ef e-r hefur verið að nota routerinn  undanfarið.",
+            "date": "2012-05-04 15:45:00",
+            "post_id": "439481",
+            "reply_to_id": "439480"
+        },
+        {
+            "user_name": "arons4",
+            "text": "Sára einfalt að logga sig bara inná routerinn og breyta lykilorðinu. Annars bjóða sumir routerar uppá að sjá hverjir eru tengdir(vodafone box dótið gerir það).",
+            "date": "2012-05-04 15:46:00",
+            "post_id": "439482",
+            "reply_to_id": "439481"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Settu bara nýtt WPA2-PSK lykilorð á netið hjá þér og þú þarft ekki að hafa áhyggjur af þessu framar.",
+            "date": "2012-05-04 19:45:00",
+            "post_id": "439522",
+            "reply_to_id": "439482"
+        },
+        {
+            "user_name": "Victordp",
+            "text": "Takk fyrir svörin, er með Thomson router frá Símanu. Hvar get ég loggað mig inn til að breyta username/pw",
+            "date": "2012-05-07 17:28:00",
+            "post_id": "439946",
+            "reply_to_id": "439522"
+        },
+        {
+            "user_name": "Guðmundur S",
+            "text": "192.168.1.254\nusername admin\npassword admin\nallir routerar frá símanum koma svona stiltir",
+            "date": "2012-05-07 17:31:00",
+            "post_id": "439948",
+            "reply_to_id": "439946"
+        },
+        {
+            "user_name": "Victordp",
+            "text": "Á ég að velja Use WPA-PSK Encryption og WPA-PSK Version:\t WPA2 eða WPA+WPA2",
+            "date": "2012-05-07 18:13:00",
+            "post_id": "439958",
+            "reply_to_id": "439948"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Undir network og devices er listi yfir hvaða vélar hafa verið að nota netið hjá þer og hvernig þær hafa verið tengdar...\nMan ekki hvort að dagssetningarnar séu svo loggaðar einhversstaðar...",
+            "date": "2012-05-07 18:21:00",
+            "post_id": "439959",
+            "reply_to_id": "439958"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "WPA version 2",
+            "date": "2012-05-07 19:18:00",
+            "post_id": "439969",
+            "reply_to_id": "439959"
+        }
+    ],
+    "date": "2012-05-04 15:39:00"
+}

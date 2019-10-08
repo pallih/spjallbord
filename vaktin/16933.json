@@ -1,0 +1,30 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "16933",
+    "title": "Bíb frá skjákorti",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=16933",
+    "posts": [
+        {
+            "user_name": "Selurinn",
+            "text": "BEEP CODE  MEANING  POSSIBLE CAUSE \n\n 1 Long, 2 Short  Video adapter failure  Bad video adapter \n\n\n\nSetti 8800GT kort í MSI móðurborð sem er með 400W aflgjafa.\n\n\n\nÞað var 12A á 12 volta railinn, er það ekki útaf aflgjafanum.",
+            "date": "2008-02-02 01:02:00",
+            "post_id": "165271",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "halldorjonz",
+            "text": "Ég fékk píp einu sinni með 2900XT þegar ég tengdi bara 1 PCI-E snúru við skjákortið en átti að tengja tvær sem ég fattaði skömmusíðar, veit samt ekki hvernig þetta er hjá þér",
+            "date": "2008-02-02 01:14:00",
+            "post_id": "165272",
+            "reply_to_id": "165271"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Fann vandann eftir talsvert fikt og smá Google.\n\n\n\nÉg prófaði tvær týpur af 8800GT, Foxconn og EVGA.\n\nKoma sama vandamál hjá báðum.\n\n\n\nSvo las ég að þetta ákveðna MSI móðurborð studdi ekki G92 kjarnanna svo að ég fékk að kaupa notað 8800GTS 320mb og það virkaði súper.\n\nBara fyrir aðra sem gætu lent í svipuðum vandamálum.",
+            "date": "2008-02-02 22:35:00",
+            "post_id": "165317",
+            "reply_to_id": "165272"
+        }
+    ],
+    "date": "2008-02-02 01:02:00"
+}

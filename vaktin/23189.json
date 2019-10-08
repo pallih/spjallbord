@@ -1,0 +1,79 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "23189",
+    "title": "Horfinn harði diskur?!?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=23189",
+    "posts": [
+        {
+            "user_name": "Some0ne",
+            "text": "Restartaði tölvunni í gær, ákvað að glugga aðeins í biosinn bara að skoða mig aðeins um (tiltölulega ný tölva) , breytti engu og exita.\nTölvan rebootar, og núna finnst harði diskurinn sem er tengdur í sATA ekki, geisladrifið finnst en harði diskurinn er horfinn.\nÉg stend eginlega á gati, hann er vel tengdur, og ekki eins og ég hafi verið að grúska inní tölvunni neitt, og inní biosnum þá er röð yfir 6 ata devies, þar er bara eitt sem finnst sem er optical driveið, á meðan að í öllum hinum stendur að það sé ekkert.\nAny words of wisdom?",
+            "date": "2009-05-17 17:42:00",
+            "post_id": "207179",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Fyrsta sem mér dettur í hug er tilviljunarkennd bilun á harða disknum.\nPrufaðu default settings í BIOS.",
+            "date": "2009-05-17 17:43:00",
+            "post_id": "207181",
+            "reply_to_id": "207179"
+        },
+        {
+            "user_name": "hendrixx",
+            "text": "búna prófa aftengja diskinn og tengja hann svo aftur?",
+            "date": "2009-05-17 17:44:00",
+            "post_id": "207182",
+            "reply_to_id": "207181"
+        },
+        {
+            "user_name": "Some0ne",
+            "text": "Er búinn að prófa að loada default bios, sama. Búinn að prófa að aftengja diskinn algjörlega, og svo færa um sata tengi á móðurborðinu. Nada \n Samt ef ég kveiki á tölvunni, og legg höndina við hann þá spinnar hann alveg í gang og allt, en virðist vera steindauður.",
+            "date": "2009-05-17 17:56:00",
+            "post_id": "207185",
+            "reply_to_id": "207182"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Færðu hann upp í disk management?",
+            "date": "2009-05-17 18:07:00",
+            "post_id": "207186",
+            "reply_to_id": "207185"
+        },
+        {
+            "user_name": "Some0ne",
+            "text": "Þetta er OS diskurinn minn, enginn annar HD í tölvunni, biosinn finnur hann ekki, og það bootast ekki af honum.",
+            "date": "2009-05-17 18:10:00",
+            "post_id": "207187",
+            "reply_to_id": "207186"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Tengja diskinn við aðra tölvu eða boota upp af diagnostic disk og prófa diskinn.",
+            "date": "2009-05-17 18:13:00",
+            "post_id": "207188",
+            "reply_to_id": "207187"
+        },
+        {
+            "user_name": "Some0ne",
+            "text": "Hvað gagnast diagnostic diskur mér ef að biosinn finnur diskinn ekki einu sinni, það er bara eins og hann sé vaporized. Fer með hana á morgun í tölvutækni bandbrjálaður\nTakk fyrir svörin samt!",
+            "date": "2009-05-17 18:27:00",
+            "post_id": "207190",
+            "reply_to_id": "207188"
+        },
+        {
+            "user_name": "viddi",
+            "text": "Getur nú líka allveg spjallað við þá á rólegu nótunum, þeir hjálpa þér örugglega þannig líka",
+            "date": "2009-05-17 20:23:00",
+            "post_id": "207200",
+            "reply_to_id": "207190"
+        },
+        {
+            "user_name": "Some0ne",
+            "text": "Þetta var nú meira spaug sko, hef engar áhyggjur af því að þeir muni leysa þetta mjög vel og skilvirknislega fyrir mig enda þekki ég ekkert annað frá þeim.",
+            "date": "2009-05-17 21:25:00",
+            "post_id": "207212",
+            "reply_to_id": "207200"
+        }
+    ],
+    "date": "2009-05-17 17:42:00"
+}

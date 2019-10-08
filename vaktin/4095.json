@@ -1,0 +1,65 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "4095",
+    "title": "Að horfa á bíómynd í gegnum þráðlausan -b- (11Mbps) staðal.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=4095",
+    "posts": [
+        {
+            "user_name": "Segullinn",
+            "text": "Jæja, þar sem ég var að leysa vandamál varðandi nettengingu (sjá undir fartölvu-þræðinum) þá vil ég finna lausn á öðru vandamáli.\n\nÉg vil horfa á bíómynd í lappanum mínum (tengja helst í sjónvarpið síðan) með því að nota þráðlausu b staðal tenginguna mína þar sem bíómynd er staðsett í heimilistölvunni minni.  Ok, mér var sagt að þetta gengi ekki, þar sem myndin hökti bara á b-staðlinum, ég þessi þrjóski andsk... vildi nú ekki alveg kyngja því.  Ég keypti mér b-staðal þráðlaust tæki á 2000kr í stað þess að borga tífalt það fyrir g-staðalinn sem er margfalt skammdrægara og óstöðugra kerfi (sry bara mín skoðun). AMK er ég með b-staðal tengingu og ef ég afrita bíómynd yfir á lappann þá tekur það rétt rúman hálftíma.  Þannig er ljóst að gagnaflæðið er nægt til að flytja bíómyndina yfir LIVE.  Vandamálið hlýtur þá að vera tengt bufferstærð.  Mig langar að vita hvort einhver hefur einfalda lausn á þessu.  Ég prufaði að nota windows media playerinn og stillti buffer á 60 sekúndur og þetta skánaði allsvakalega, ekki alveg hnökralaust en bara nokkuð gott.  Ég fylgdist hinsvegar með tengingunni og hún virðist ekki fullnýtt.\n\nÞegar ég afrita (copy-paste) yfir á lappann, þá er tengingin nánast föst í 43%, sem ég veit ekki hvort að sé eðlilegt, en með nokkurra mínútu millibili þá datt flutningurinn niður í um 5 prósent í svona 30 sekúndur jafnvel og kom svo aftur inn í 43%.  Veit einhver hvað veldur, enginn vírus er í gangi, ekkert spyware, ekkert adaware og tölvan í minimal keyrslu á örgjörva og minni, já og signalið breytist ekkert.\n\nOrðið er ykkar.",
+            "date": "2004-05-10 21:13:00",
+            "post_id": "41608",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "pyro",
+            "text": "get allavega glatt þig með því að ég horfi á streaming (heima)bíómyndir heima hjá mér úr heimilistövunni þráðlaust í xboxið á b staðli. Þetta er hægt. veit ekkert hvað þú þarft að gera til að fá þetta meira smooth samt... the truth is out there... haltu áfram að leita",
+            "date": "2004-05-10 21:16:00",
+            "post_id": "41609",
+            "reply_to_id": "41608"
+        },
+        {
+            "user_name": "Segullinn",
+            "text": "Takk fyrir það Pyro, og það væri nú gaman að hafa tímasetningu á þessum skilaboðum á spjallþræði vaktarinnar, þar sem það leið ekki 1 mínúta þar til fyrirspurn minni var svarað.\n\nNice Job Pyro",
+            "date": "2004-05-10 21:21:00",
+            "post_id": "41612",
+            "reply_to_id": "41609"
+        },
+        {
+            "user_name": "pyro",
+            "text": "Liðu reyndar 3 mínútur c.a., það er tímasett",
+            "date": "2004-05-10 21:25:00",
+            "post_id": "41614",
+            "reply_to_id": "41612"
+        },
+        {
+            "user_name": "Segullinn",
+            "text": "Ég blindur",
+            "date": "2004-05-10 21:44:00",
+            "post_id": "41619",
+            "reply_to_id": "41614"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "ég hef nú streamað vídjó af tölvunni minni (með 512kb upload) og horft á það í vinnunni. það virkaði bara fínt. ég hef líka \"streama-að\" mynd á dc. ég byrjaði að dánlóda henni og tók eftir að dl hraðinn var í 120kbps, þetta var rúmlega 2 tíma mynd og það stóð estimate 1:30. svo ég skellti henni bar aí vlc 2 mín eftir að dánlódið byrjaði, og hún hökti ekki einusinni á meðan.\n\n\n\nþetta var gegnum 1mbps tengingu. svo ég efa ekki að það sé hægt að horfa á vídjó í gegnum b staðalinn, enda er hann 11mbps, sem er \"örlítið\" hraðara en 1mbps adls-ið mitt.",
+            "date": "2004-05-11 02:40:00",
+            "post_id": "41639",
+            "reply_to_id": "41619"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "Ég er að downloada á b staðlinum 700 til 800kb/sec innanhús hjá mér. Ég streama allar myndir og ekkert vandamál með það.",
+            "date": "2004-05-11 12:19:00",
+            "post_id": "41660",
+            "reply_to_id": "41639"
+        },
+        {
+            "user_name": "Vilezhout",
+            "text": "\"vildi nú ekki alveg kyngja því. Ég keypti mér b-staðal þráðlaust tæki á 2000kr í stað þess að borga\"\n\n\n\nég átti við sama vandamál að stríða, vildi geta horft á myndir á lappanum af borðtölvunni og var í stöðugum vandræðum þangað til að ég skipti um netkortvar með ódýrt kort frá planet og byrjaði að nota thompson kort sem fylgdi með þráðlausum beini frá símanum,  gæði kortana spila eitthvað þarna inní enn ég veit ekki hve mikið.",
+            "date": "2004-05-11 15:20:00",
+            "post_id": "41685",
+            "reply_to_id": "41660"
+        }
+    ],
+    "date": "2004-05-10 21:13:00"
+}

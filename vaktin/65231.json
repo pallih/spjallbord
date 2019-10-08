@@ -1,0 +1,79 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "65231",
+    "title": "User Restriction á Technicolor TG589vn v2",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=65231",
+    "posts": [
+        {
+            "user_name": "GTi",
+            "text": "Var að fá einn óvæntan næturgest. Þar sem þessi aðili á það til að hanga netinu alla nóttina ef það er ekki slökkt á netinu. Þá neyðist ég til að loka á hann. En ég vil ekki slökkva á routernum.\nEr ekki hægt að loka á ákveðna notendur? Helst á ákveðnum tíma sólarhrings?\nParental Control virðist aðeins bjóða upp á að loka á heimasíður eða ip tölur.\nAny help?",
+            "date": "2015-04-10 22:43:00",
+            "post_id": "595941",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Moldvarpan",
+            "text": "Er gesturinn tengdur WiFi eða með ethernet?\nÞví miður bíður þessi router ekki upp á mikla stillingar möguleika hvað þetta varðar.\nEini möguleikinn er að slökkva á WLAN, ekki ethernet.\nHome Network-> Devices-> Configure -> Edit á viðeigandi tæki -> Allowed on -> Úr Yes í No.\nÞá missir viðkomandi tæki samband við routerinn, en mjög auðvelt að kveikja á því aftur, þá bara breyta No í Yes",
+            "date": "2015-04-10 23:07:00",
+            "post_id": "595943",
+            "reply_to_id": "595941"
+        },
+        {
+            "user_name": "worghal",
+            "text": "spurning hvort að þessi router bjóði upp á mac address whitelist.",
+            "date": "2015-04-10 23:13:00",
+            "post_id": "595944",
+            "reply_to_id": "595943"
+        },
+        {
+            "user_name": "GTi",
+            "text": "Öll tæki tengd með WiFi. Ég hef ekki rekist á neitt MacAddress Whitelist. Ætla að skoða betur... annars fer routerinn að \"bila\" fljótlega.",
+            "date": "2015-04-10 23:19:00",
+            "post_id": "595945",
+            "reply_to_id": "595944"
+        },
+        {
+            "user_name": "Moldvarpan",
+            "text": "Getur slökkt á þessu eina tæki handvirkt yfir nóttina, eins og ég sagði. \nEn svo er líka hægt að gríta honum í gólfið og kaupa nýjann, betri.\nÉg var ekki að segja að slökkva alfarið á WiFi.",
+            "date": "2015-04-10 23:23:00",
+            "post_id": "595946",
+            "reply_to_id": "595945"
+        },
+        {
+            "user_name": "GTi",
+            "text": "Þetta virkar sem þú nefndir Moldvarpan. \nÞakka þér. \nAnnars dauðlangar mig í annan betri router.",
+            "date": "2015-04-10 23:37:00",
+            "post_id": "595948",
+            "reply_to_id": "595946"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Getur stillt þetta í wifi stillingunum minnir mig, velur bara tölvuna sem þú vilt taka af wifi og ferð í configuration og þar er Allowed on WLAN möguleiki, tekur bara hakið úr",
+            "date": "2015-04-11 00:11:00",
+            "post_id": "595951",
+            "reply_to_id": "595948"
+        },
+        {
+            "user_name": "Heliowin",
+            "text": "Samkvæmt handbókinni þá ætti að vera hægt að stilla þetta í Access Control sem hún segir að megi finna svona \"On the Home Network, click Access Control\". Ég bara finn þetta ekki sjálfur í stillingum fyrir sama model.\nÞetta segir handbókin fyrir sama módel og það sem er feitletrað getur sagt til um afhverju þetta sé ekki í boði:",
+            "date": "2015-04-12 15:24:00",
+            "post_id": "596077",
+            "reply_to_id": "595951"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Þessi fítus er ekki á Technicolor 589 routerunum heldur á 789vac routerunum",
+            "date": "2015-04-12 15:26:00",
+            "post_id": "596078",
+            "reply_to_id": "596077"
+        },
+        {
+            "user_name": "Heliowin",
+            "text": "Já, en þetta stendur samt í handbókinni fyrir routerinn sem um ræðir og er TG589vn v2.",
+            "date": "2015-04-12 16:32:00",
+            "post_id": "596086",
+            "reply_to_id": "596078"
+        }
+    ],
+    "date": "2015-04-10 22:43:00"
+}

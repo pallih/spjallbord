@@ -1,0 +1,163 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "39111",
+    "title": "60gb partition sem ég bjó til en vill losna við.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=39111",
+    "posts": [
+        {
+            "user_name": "Glazier",
+            "text": "Hef gert þráð um þetta áður fyrir örugglega að verða ári síðan..\nFékk eitthvað af svörum en náði ekki að leysa vandamálið þá og gafst upp, var að spá í að gera aðra tilraun.\nÉg bjó semsagt til 60gb partition til þess að prófa að setja upp annað stýrikerfi þar (hafði gert þetta mörgum sinnum áður án vandræða).\nSvo allt í einu þegar ég kveikti á tölvunni og valdi þetta partition þá virkaði það ekki svo ég byrjaði að nota hinn partinn af harða disknum en það eru ljósmyndir þarna inná sem ég þarf að ná útaf en get ekki.\nÞetta partition kemur ekki upp í My computer en ef ég fer í start > hægri klikka á Computer > Manage þá sé ég þar þetta 60 gb partition nákvæmlega svona:\nÉg þyrfti helst að ná nokkrum gögnum þarna útaf áður en ég losa mig við partition-ið, hvernig get ég farið að því?",
+            "date": "2011-06-09 22:23:00",
+            "post_id": "354803",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Þarftu ekki bara að gefa þessu drive letter/path til að geta accessað það?",
+            "date": "2011-06-09 22:36:00",
+            "post_id": "354812",
+            "reply_to_id": "354803"
+        },
+        {
+            "user_name": "Safnari",
+            "text": "Eða bara prófa Linux live cd, athuga hvort hægt sé að mounta partition bútin þaðan.\nEf þú notar live Linux þá skrifast ekkert í mbr.\nEf þú gefur þessu Drive letter frá Win þá breytirðu mbr og gætir tapað einhverju.\nFlottast væri bara að sækja forsenic útgáfu af Linux og gerast gagnabjörgunarmaður",
+            "date": "2011-06-09 22:42:00",
+            "post_id": "354815",
+            "reply_to_id": "354812"
+        },
+        {
+            "user_name": "Glazier",
+            "text": "Ertu nokkuð með link fyrir mig til að dl \"forsenic útgáfu af linux\" ? \n(Vil bara vera viss um að sækja rétta dæmið..",
+            "date": "2011-06-09 22:45:00",
+            "post_id": "354816",
+            "reply_to_id": "354815"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "Mig minnir að það eins sem þú egir að gera sé að ýta á delete volume.\nMJÖG EINFALT PROCESS.\ngerði þetta þegar ég losaði mig við ubuntu\nEn í sambandi við að ná skránum hef ég ekki hugmynd",
+            "date": "2011-06-10 00:06:00",
+            "post_id": "354855",
+            "reply_to_id": "354816"
+        },
+        {
+            "user_name": "Glazier",
+            "text": "Heh, ég hefði nú viljað ná slatta af gögnum af þessu partition-i áður en ég eyði því.. er með um 20 gb af ljósmyndum og eitthvað meira sem ég man ekki akkurat núna.",
+            "date": "2011-06-10 00:11:00",
+            "post_id": "354858",
+            "reply_to_id": "354855"
+        },
+        {
+            "user_name": "biturk",
+            "text": "ýttu á mark partition as active, mig minnir að ég hafi gert það um daginn til að fá svona til að virka",
+            "date": "2011-06-10 00:12:00",
+            "post_id": "354859",
+            "reply_to_id": "354858"
+        },
+        {
+            "user_name": "Hvati",
+            "text": "Fyrst change letter og velja eitthvað, mark as active og færa gögnin yfir, ýta svo á delete volume og síðan extend volume á hinu partitioninu?",
+            "date": "2011-06-10 00:21:00",
+            "post_id": "354863",
+            "reply_to_id": "354859"
+        },
+        {
+            "user_name": "Glazier",
+            "text": "Vá frábært.. breytti smávægilegu vandamáli (sem ekki lá mikið á að laga) í risastórt vandamál sem virkilega liggur á að laga..\nGerði eins og biturk sagði, \n-Hægri klikk og smellti á mark partition as active.\nSvo eins og Hvati sagði,\n-Change letter, þá kom upp villa sem sagði mér að restarta tölvunni sem ég gerði.\nÞar sem hörðu diskarnir tikka inn alveg í byrjun þegar maður kveiki á tölvu og svo næsti skjár þar hef ég alltaf getað valið á hvaða partition ég ætla að keyra hvert skipti.\nÞar kemur einfaldlega svartur skjár með stöfum efst uppi sem stendur á \"Missing operating system\" og ekkert sem ég get gert, þetta kemur í staðinn fyrir að geta valið partition.\nStefnir allt í að ég þurfi að formatta tölvuna eða hvað ? \n \n \n \n \nEdit: Er btw. að keyra á fartölvu núna ef einhver var að spá í því",
+            "date": "2011-06-10 01:31:00",
+            "post_id": "354889",
+            "reply_to_id": "354863"
+        },
+        {
+            "user_name": "biturk",
+            "text": "hjérna.....hvaða staf gafstu drifinu kallinn?",
+            "date": "2011-06-10 01:35:00",
+            "post_id": "354890",
+            "reply_to_id": "354889"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Ahhhh, kjáni, mátt ekki marka þessa sem active \n Það partition sem inniheldur fyrstu boot-upplýsingar á að vera active, í þínu tilfelli (og þeirra sem keyra Vista/7) er það System reserved....\nEn ekki stórar áhyggjur, þú getur annað hvort tekið harða diskinn úr og tengt við aðra tölvu til að merkja aftur system reserved sem active EÐA bootað upp á einhverjum góðum boot disk (t.d. Hiren's og notað MiniXP) og notað það til að merkja System reserved aftur sem active \nHins vegar með því að velja change drive letter and paths hefurðu líklega gert þetta partition aftur aðgengilegt og ættir að geta nálgast gögnin án vandræða",
+            "date": "2011-06-10 01:38:00",
+            "post_id": "354892",
+            "reply_to_id": "354890"
+        },
+        {
+            "user_name": "Glazier",
+            "text": "Ég komst aldrei inn í það að skipta um staf.. þegar ég ætlaði að opna þann valmöguleika kom error sem sagði mér að annaðhvort refresh-a manage draslið eða restarta tölvunni.. var akkurat að fara fram og ná mér í pizzu svo ég restartaði bara.\nOg nei, ég hefði aldrei gefið drifinu stafinn C:\nEdit:\nTékka á þessu á morgun Klemmi..\nKvóti þolinmæðinnar fyrir daginn er sprunginn.. og það fyrir löngu síðan, læt þessa fartölvu duga í kvöld \nEdit2: Er ekki hægt að vesenast eitthvað með þetta í gegnum BIOS?",
+            "date": "2011-06-10 01:39:00",
+            "post_id": "354893",
+            "reply_to_id": "354892"
+        },
+        {
+            "user_name": "Safnari",
+            "text": "Æjæ gat ekki fylgt þessu eftir í gærkvöldi.\nEn það sem kom fyrir hjá þér er einmitt það sem ég vara að reyna að stýra þér frá.\nÞað borgar sig sjaldan að reyna eitthvað verandi í stýrikerfinu þar sem vandamálið er.\nEf þú ert klárari í Windows umhverfi þá er Hirens bestur,,   \nhttp://www.hiren.info/\nEn ef þú vilt prófa Linux forsenics þá td. ,,    \nhttp://www.deftlinux.net/\nÞú verður þá að sækja cd iso image og brenna í laptoppnum.\nGefðu þér bara góðan tíma.\nEDIT: Farðu svo að ráðum Klemma til að geta ræst W7 aftur.\nEkki gleyma því að Linux partitionin sem þú bjóst til, er ólesandi frá Win7.\nHafirðu sett Linux upp á hana þá er hún ext2, ext3 eða ext4 sumsé ekki nfts.\nÞessvegna þarftu að ræsa upp frá Linux live cd til að geta sótt myndirnar.",
+            "date": "2011-06-10 11:29:00",
+            "post_id": "354924",
+            "reply_to_id": "354893"
+        },
+        {
+            "user_name": "Glazier",
+            "text": "Jæja.. búinn að safna upp þolinmæði yfir helgina og ætla að gera tilraun til að laga þetta.\nTók diskinn úr (eins og klemmi var að tala um) og setti hann í hýsingu er núna með hann tengdann við fartölvu sem er uppsett með XP og lýtur þetta svona út núna..\nÉg reyndi að hægri klikka á F: þarna og gera \"Mark partition as active\" eeen það virkaði ekki.. átti ég ekki annars að gera það?",
+            "date": "2011-06-12 19:40:00",
+            "post_id": "355473",
+            "reply_to_id": "354924"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "E: á að vera active hjá þér \n En kemstu í gögnin inn á P: ?",
+            "date": "2011-06-12 21:18:00",
+            "post_id": "355501",
+            "reply_to_id": "355473"
+        },
+        {
+            "user_name": "Glazier",
+            "text": "Kemst ekki í nein gögn inná P:\nEf ég hægri smelli á P: og geri explore þá kemur upp þessi gluggi:\nEn var að gera E: active núna.. það virkaði ætla að prófa að setja hann í borðtölvuna núna \nEdit: It works \nEn vandamálið er samt ekki leyst.. nú fyrst get ég haldið áfram að reyna að ná gögnum af  þessu 60gb partition-i",
+            "date": "2011-06-12 22:17:00",
+            "post_id": "355515",
+            "reply_to_id": "355501"
+        },
+        {
+            "user_name": "Safnari",
+            "text": "Var það ekki rétt skilið að þú varst með Linux á þessari 60Gb. Partition.?\nEf þetta var Linux partition þá les Windows hana ekki og býðst þessvegna til að formata.\nPrófaðu nú að sækja td. Ubuntu eða hvaða Linux live cd sem er og ræstu vélina frá CD drifi.\nÞá ættiru að komast frá Linux umhverfinu inn á 60Gb. Partitionina.",
+            "date": "2011-06-13 13:27:00",
+            "post_id": "355647",
+            "reply_to_id": "355515"
+        },
+        {
+            "user_name": "Glazier",
+            "text": "Nei.. er með windows 7 á báðum pörtum harða disksins, bara mismunandi útgáfu",
+            "date": "2011-06-13 14:28:00",
+            "post_id": "355667",
+            "reply_to_id": "355647"
+        },
+        {
+            "user_name": "Safnari",
+            "text": "Sorry, hélt þú hefðir átt við Linux þegar þú sagðir ‘‘ annað stýrikerfi ‘‘  \nEn okey, farðu td. Hingað.. \nhttp://www.pcinspector.de/Default.htm?language=1\nSæktu eintak af Pc Inspector File Recovery 4.x  (freeware)\nAthugaðu hvort forritið finni eitthvað á 60Gb partitioninni.\nKanski getur forritið restorað 60Gb. Partitionina og gert hana aðgengilega.",
+            "date": "2011-06-13 15:09:00",
+            "post_id": "355680",
+            "reply_to_id": "355667"
+        },
+        {
+            "user_name": "Glazier",
+            "text": "Hmm.. sótti þetta forrit, kann ekkert sérstaklega mikið á það en gerði það sem ég hélt að væri rétt og fékk ekkert út úr því",
+            "date": "2011-06-13 15:17:00",
+            "post_id": "355683",
+            "reply_to_id": "355680"
+        },
+        {
+            "user_name": "Safnari",
+            "text": "Hér er linkur, ásamt umfjöllun, á fimm freeware útgáfur...  \nhttp://lifehacker.com/5237503/five-best ... very-tools\nEf engin þeirra finnur svo mikið sem eina mynd á 60Gb partitioninni, \nþá minnka líkurnar á því að þú sjáir þessar myndir aftur allverulega.",
+            "date": "2011-06-14 08:41:00",
+            "post_id": "355891",
+            "reply_to_id": "355683"
+        },
+        {
+            "user_name": "Glazier",
+            "text": "",
+            "date": "2011-06-14 15:43:00",
+            "post_id": "355932",
+            "reply_to_id": "355891"
+        }
+    ],
+    "date": "2011-06-09 22:23:00"
+}

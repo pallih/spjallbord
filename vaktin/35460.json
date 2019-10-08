@@ -1,0 +1,44 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "35460",
+    "title": "Fartölva frýs ef hún er ekki tengd í rafmagn",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=35460",
+    "posts": [
+        {
+            "user_name": "Predator",
+            "text": "Er búinn að setja upp hin ýmsu distro og einhverra hluta vegna þá frjósa þau flest ef ég tek tölvuna úr sambandi, það eina sem frýs ekki er Crunchbang 9.04. Er búinn að googla vandamálið og fólk hefur verið að lenda í þessu, hef bara ekki fundið neinar lausnir fyrir mig...\nHefur einhver lent í eitthverju svipuðu og tókst ykkur að leysa það?\nEr með ASUS X51R fartölvu með Celeron M520 örgjörva, 120GB HDD, 1GB af vinnsluminni og ATI Radeon Xpress 1100 skjástýringu.",
+            "date": "2011-01-16 13:59:00",
+            "post_id": "313170",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gardar",
+            "text": "Ég myndi kíkja á loggana, og sjá hvort það loggist eitthvað um það leiti sem vélin frýs",
+            "date": "2011-01-21 11:08:00",
+            "post_id": "314632",
+            "reply_to_id": "313170"
+        },
+        {
+            "user_name": "johnnyb",
+            "text": "En þegar þú ræsir hana upp án þess að hafa hana í sambandi?\nRæsir hún alla leið í stýrikerfið?\nEn þegar Windows er á henni gerist þetta líka þá?\nEru þetta ekki einhverjir driverar sem eru ekki til fyrir linux dixtro ?",
+            "date": "2011-01-21 17:13:00",
+            "post_id": "314748",
+            "reply_to_id": "314632"
+        },
+        {
+            "user_name": "Predator",
+            "text": "Windows keyrir fínt á henni og hún bootar ekki alla leið inn í Linux kerfin ef henni er startað á rafhlöðunni, reikna með að þetta sé eitthvað drivera problem þar sem það hafa fleiri verið að lenda í þessu.",
+            "date": "2011-01-21 21:26:00",
+            "post_id": "314756",
+            "reply_to_id": "314748"
+        },
+        {
+            "user_name": "biturk",
+            "text": "er hún ekki bara að kæla svona vel",
+            "date": "2011-01-21 21:35:00",
+            "post_id": "314760",
+            "reply_to_id": "314756"
+        }
+    ],
+    "date": "2011-01-16 13:59:00"
+}

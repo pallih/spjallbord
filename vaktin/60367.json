@@ -1,0 +1,72 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "60367",
+    "title": "Bassabox?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=60367",
+    "posts": [
+        {
+            "user_name": "kthordarson",
+            "text": "Var að fá gamlan Yamaha rx-460 magnara gefins. Er hægt og eitthvað vit í að tengja bassabox við hann? Ég get ekki séð að það sé sérstakt subwoofer tengi á magnaranum, kannski hægt að skítamixa? Einhver með reynslu af þessu?",
+            "date": "2014-04-01 09:08:00",
+            "post_id": "557790",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Saber",
+            "text": "Þú gætir kannski tengt passívt box með innbyggðum filter á B rásina í magnaranum, en hann hefur ekkert power til að keyra þannig setup.",
+            "date": "2014-04-01 14:26:00",
+            "post_id": "557847",
+            "reply_to_id": "557790"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "sénsinn fyrir þig er að fá þér bassabox sem tekur right-left channel inná sig og þaðan útí hátalara . (tappar inná channelin)",
+            "date": "2014-04-01 22:20:00",
+            "post_id": "557912",
+            "reply_to_id": "557847"
+        },
+        {
+            "user_name": "kthordarson",
+            "text": "Bassaboxið er Paradigm PDR-8. Það er með SUB input og líka venjulegt hátalara input. Ég tengdi úr hátalartengjunum í speaker input á bassaboxinu. Það virðist virka ágætlega. Meiri bassi!",
+            "date": "2014-04-02 01:05:00",
+            "post_id": "557929",
+            "reply_to_id": "557912"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "Enda er það eina leiðin fyrir þig að tengja yammann við þetta bassabox . Þetta speaker left and right aftaná bassaboxinu er í raun bara \"njósna\" tengill hann dregur í raun ekkert afl því það er gríðarlega hátt viðnám  í þessum tenglum .\nEf þú ert rafeindasnillingur þá gætiru smíðað low-pass filtera fyrir sitthvora rásina og samtengt þá í \"mixer\" sem gefur út mono LFE signal .\nÉg er með þetta eins tengt á yamaha magnaranum mínum útaf sub-mono merkið er ekki nógu sterkt útaf honum .",
+            "date": "2014-04-02 01:25:00",
+            "post_id": "557931",
+            "reply_to_id": "557929"
+        },
+        {
+            "user_name": "kthordarson",
+            "text": "Ok, ég er byrjandi í þessu \n En hvað áttu við með \"njósna\" tengill? Á skýringamynd aftan á boxinu stendur að tengja annaðhvort í sub eða speaker input.",
+            "date": "2014-04-02 15:52:00",
+            "post_id": "557964",
+            "reply_to_id": "557931"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "speaker left og right aftaná eru ekki að taka neitt afl . Bara \"hlera\" bassamerkið sem magnarinn þinn sendir til hátalaranna .",
+            "date": "2014-04-02 17:39:00",
+            "post_id": "557988",
+            "reply_to_id": "557964"
+        },
+        {
+            "user_name": "kthordarson",
+            "text": "Á bassaboxinu er stillingar, output level og cutoff. Þarf samt að vera með auka low pass filter ? Speaker input virðist gera meira en njósna því bassinn er greinilega að skila sér...",
+            "date": "2014-04-03 17:23:00",
+            "post_id": "558137",
+            "reply_to_id": "557988"
+        },
+        {
+            "user_name": "axyne",
+            "text": "Þarft ekki að gera neitt auka, boxið gerir sjálft það sem jónsi var að tala um.",
+            "date": "2014-04-03 18:55:00",
+            "post_id": "558149",
+            "reply_to_id": "558137"
+        }
+    ],
+    "date": "2014-04-01 09:08:00"
+}

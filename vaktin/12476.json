@@ -1,0 +1,44 @@
+{
+    "forum_title": "Windows",
+    "id": "12476",
+    "title": "Vandræði með hástafi",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=12476",
+    "posts": [
+        {
+            "user_name": "Revenant",
+            "text": "Sælir ég á í svolitlu skringilegu vandamáli í sambandi við lyklaborðið.\n\nÞannig er mál með vexti að ég er hættur að geta gert \"óáéú\" í hástöfum. Þegar ég reyni það kemur bara \"OAEU\". Athugið að þetta á ekki við um lágstafi. Þetta kemur fyrir í öllum forritum.\n\n\n\nEg athugaði \"Regional and Language Options\" og þar var allt ennþá stillt á Icelandic. \n\n\n\nEg er búinn að prófa að endurræsa, keyra spybot og adaware ásamt vírusvörninni en ekkert fannst. Eg athugaði líka process explorer en þar var ekkert sem ég kannaðist ekki við. \n\n\n\nMilljón dollara spurningin er því þessi: hvað gæti ollið þessu?",
+            "date": "2006-12-15 23:17:00",
+            "post_id": "133078",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gumol",
+            "text": "Prófaðu að sleppa því að halda shift inni þegar þú ýtir á kommu-takkan.",
+            "date": "2006-12-15 23:26:00",
+            "post_id": "133082",
+            "reply_to_id": "133078"
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Þótt að augljósasta svarið sé oftast það rétta þá er það því miður ekki í þessu tilfelli  \n\n\n\n\nÞað skiptir engu hvort ég held inni eða sleppi þegar ég reyni að gera hástafa broddstaf.",
+            "date": "2006-12-15 23:28:00",
+            "post_id": "133083",
+            "reply_to_id": "133082"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Geturu notað caps lock?",
+            "date": "2006-12-16 00:21:00",
+            "post_id": "133093",
+            "reply_to_id": "133083"
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Eftir mikið bauk og braml þá fór þetta að virka eftir að ég uninstallaði driver sem ég hafði downloadað frá windows update. Greinilega verið eitthvað skrítið í gangi með þennan driver sem hefur orsakað þetta undarlega vandamál. \n\n\n\nÉg þakka samt fyrir hjálpina",
+            "date": "2006-12-16 00:37:00",
+            "post_id": "133096",
+            "reply_to_id": "133093"
+        }
+    ],
+    "date": "2006-12-15 23:17:00"
+}

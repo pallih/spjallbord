@@ -1,0 +1,30 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "62447",
+    "title": "Lykilorð og dulkóðun á Zhone routerum",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=62447",
+    "posts": [
+        {
+            "user_name": "gRIMwORLD",
+            "text": "Hefur einhver hérna lagst í crypto lærdóm?\nBara forvitinn að vita hvort það sé fýsilega mögulega að lesa til baka lykilorð sem koma fram í config skrá Zhone routersins.\nKóðinn breytist aldrei, þeas það er alltaf sama þegar maður endursetur lykilorðið\nHérna er ég með dæmi\nCleartext  Kóðað\n1\t        MQA=\n11\t        MTEA\n111\t        MTExAA==\n1111\t        MTExMQA=\n11111\tMTExMTEA\n111111\tMTExMTExAA==",
+            "date": "2014-09-15 22:56:00",
+            "post_id": "573476",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "depill",
+            "text": "Þetta er ekki dulkóðun, þetta er base64 kóðun. \nÞú getur getur til dæmis notað \nhttp://www.base64decode.org/\n og \nhttp://www.base64encode.org/\n ef þú vilt veflæga lausn, það er til base64 decoder library í eiginlega öllum forritunarmálum.",
+            "date": "2014-09-15 23:02:00",
+            "post_id": "573478",
+            "reply_to_id": "573476"
+        },
+        {
+            "user_name": "gRIMwORLD",
+            "text": "Glæsó,\nnú komst ég inn á routerinn til að enabla logging. Eftir að ég fékk þennan router hef ég reglulega þurft að keyra flushdns á öllum vélum hérna þegar sumar síður eða partar af síðum hætta að birtast eðlilega.\nVodafone sögðust hafa breytt stillingum og uppfærst en ég gat ekki betur séð en að þeir hafi bara restorað eldra afriti af stillingunum þar sem það poppuðu upp NAT færslur sem ég hafði verið að nota í þá en ekki lengur. Vandamál hélt svo áfram en ekki alveg í sama mæli.",
+            "date": "2014-09-15 23:13:00",
+            "post_id": "573480",
+            "reply_to_id": "573478"
+        }
+    ],
+    "date": "2014-09-15 22:56:00"
+}

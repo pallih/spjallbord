@@ -1,0 +1,93 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "15442",
+    "title": "Radeon HD 2900 XT 1Gb?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=15442",
+    "posts": [
+        {
+            "user_name": "St1",
+            "text": "Sællir. Hvernig líst ykkur á Þetta kort?\n\n\n\nRadeon HD 2900 XT Video Card - 1GB GDDR4, PCI Express, CrossFire Ready, (Dual Link) Dual DVI, VIVO, HDMI Support, Video Card\n\n----------------------------------------------------------------------------\n\nSpecifications\n\n\n\n    * ASIC: R600\n\n    * Core Clock: 743 MHZ\n\n    * Bus Type: PCI Express x16\n\n    * Memory Size: 1024 MB\n\n    * Memory Configuration: 16Mx32 GDDR4\n\n    * Memory Interface: 512-Bit\n\n    * Memory Speed: 1100 Mhz\n\n    * Display Formats: x2 Dual Link DVI + HDTV-out with VIVO* (HDMI support through dongle)\n\n\n\n\n\n\n\n--------------------------------------------------------------------------------\n\nFeatures at a glance\n\n\n\n    * Plug-and-play CrossFire support\n\n    * Dynamic Game Computing Technology\n\n    * 320 Unified Stream Processors\n\n    * 512-bit memory interface\n\n    * High-speed 128-bit-HDR (High Dynamic Range) rendering\n\n    * Physics processing support\n\n    * Up to 24X Custom Filter Anti-Aliasing\n\n    * Native PCI Express® x16 bus interface\n\n    * 512-bit GDDR4 memory interface\n\n    * High Dynamic Range (HDR) rendering\n\n    * Superscalar unified shader architecture\n\n\n\nPrice: $499.99\n\n-----------------------------------------------------------------------------------\n\nhvar nælir maður sér í eitt? \n\n\nOg ætti maður að fá sér eitt svona ef maður er að planað bygja leikja vél í \n\nkringum October/November?",
+            "date": "2007-09-09 10:34:00",
+            "post_id": "152567",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "St1",
+            "text": "Smá samanburður á EVGA GeForce 8800 Ultra \n\nog Dimond Viper 2900XT 1024\n\n\n\n\n\n\n\n\n\n\n\n\t  Video Memory:  \t768MB (=) 1024 MB\n\n\t  Memory Type:  \tGDDR3 (=) GDDR4\n\n\t  Core Clock:  \t612 MHz (=)743MHz\n\n\t  Memory Bus:  \t384-bit (=) 512-bit memory interface\n\n\t  Memory Clock:  \t2160 MHz (=)Memory Clock 2100MHz\n\n\t  Stream Processors:  128(=)320 Unified Stream Processors!\n\n\t  Interface Type:  \tPCI Express(=)sama\n\n\t  Interface Speed:  \t16x(=)sama\n\n\t  Connector(s):  2xDvi/S-vid (=) 2xDVI Með HDMI(með hljóði)/S-vid\n\n          Cost: $599.99 (=)549.99$",
+            "date": "2007-09-09 10:50:00",
+            "post_id": "152568",
+            "reply_to_id": "152567"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Big.....very very BIG!",
+            "date": "2007-09-09 11:31:00",
+            "post_id": "152571",
+            "reply_to_id": "152568"
+        },
+        {
+            "user_name": "Yank",
+            "text": "Eins og staðan er í dag þá er DDR4 þ.e. meiri bandvídd ekki að skila þeim afköstum sem það ætti. R600 kjarnin er ekki nægjanlega öflugur. \n\n\n\nFyrir mér er þetta svipað og þegar ATI setti á markað 1950XTX með DDR4 minni sem var ekki nema örfáum prósentum öflugra en 1900XTX enda með sama kjarna en DDR3 minni. \n\n\n\nEf þú ert að hugsa um að bera saman tíðni kjarna og tíðni minnis á milli þessara korta þá ert þú ekki að gera þér grein fyrir grundvallar þætti sem er... Þessi kort hljóma líkt er hafa gjörólíka tækni á bakvið sig. \n\n\n\nKem örlítið inn á það hér\n\nhttp://spjall.vaktin.is/viewtopic.php?t=15064\n\n\n\n\nX2900XT borið saman við 8800 línu Nvidia \n\n\n\n\nÞegar bornar eru saman helstu tölur um tíðni kjarna og minnis hjá X2900XT og 8800 línu Nvidia mætti halda að mjög svipuð tækni væri á ferðinni. AMD/ATI R600 kjarninn er reyndar klukkaður hærra, með meiri bandvídd, og 512 bita memory bus á móti 384 bita hjá Nvidia 8800GTX. Þessar upplýsingar segja þó engan veginn alla söguna. Þessi kort eru ólík þótt bæði styðji þau á endanum sama staðal, nefnilega DirectX 10. \n\n\n\nHér verður reynt að forðast að fara út í flóknar útskýringar, til þess að skýra í þaula í hverju þessi munur liggur. Beinast liggur við að tala aðeins um stream/shader hluta kjarna R600 og G80. R600 hefur 320 stream prosessors!! en 8800GTX hefur 128 shader prosessors. Eins og ég kom aðeins inná í umfjöllun um Nvidia 8600GTS er ekki lengur talað um vertex shaders og pixel piplines í þessum nýju grafísku kjörnum. \n\n\n\nEr þá ekki R600 mun öflugri heldur en G80 því hann er með 320vs128? Svo er ekki og til að skýra út af hverju svo er, fara hlutirnir heldur betur að flækjast. Til að gera langa sögu stutta þá skulum við bara einfalda málið mjög og segja að R600 nái oftast ekki að nýta sína 320 Stream processors jafnvel og Nvidia 8800GTX nýtir sýna 128 shader processors\"",
+            "date": "2007-09-09 16:37:00",
+            "post_id": "152577",
+            "reply_to_id": "152571"
+        },
+        {
+            "user_name": "St1",
+            "text": "Það er samt sexy.... 1gb O.o!!! GDDR4 O.O!!! zoooomzz....\n\nNo idea ég er heavy í Source leikjum (Hlakkaaaaaa svo mikið að fara spila HL2 EP:2.  TF . og PORTALS \n\n\n\n\nþanig að ég er líklega  að farað splæsa í þennan rissa.. (en hver veit hvað gerist í October",
+            "date": "2007-09-09 22:17:00",
+            "post_id": "152590",
+            "reply_to_id": "152577"
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "X1900 kortið mitt er nú að ráða við source leikina í 1920x1200 allt í high",
+            "date": "2007-09-09 22:30:00",
+            "post_id": "152591",
+            "reply_to_id": "152590"
+        },
+        {
+            "user_name": "St1",
+            "text": "Þarf ekki að bætta þessum monster í verðvaktina? \n\n(ef það er eitthver búð nógu crazy til að selja þau?) Mmmm hlakka til",
+            "date": "2007-09-10 09:43:00",
+            "post_id": "152598",
+            "reply_to_id": "152591"
+        },
+        {
+            "user_name": "ÓmarSmith",
+            "text": "En þetta kort er bara ekkert það öflugt.\n\n\n\nHef iðulega séð 8800GTX vera að hafa betur í þessum Benchtestum.\n\n\n\nÉg er virkilega vonsvikinn út í ATI fyrir að hafa ekki geta svarað þessari 8800 línu frá Nvidia.\n\n\n\nEf þetta kort kostar e-r ósköp þá myndi ég frekar eyða pening í 8800GTX.\n\n\n\n\n\nsjálfur er ég með 8800GTS 320MB og er ENNÞÁ að spila leiki í 1680x 1050 og allt í max.\n\n\n\nTD var ég að spila Medal of honor Airborne í gær í botni og hann tekur ekki feilpúst...  þannig að \n\n\n\n\n\nMaður spyr sig hvort GTX sé yfir höfuð nauðsyn í þessum leikjum í dag undir 1680x1050 .....",
+            "date": "2007-09-10 11:13:00",
+            "post_id": "152603",
+            "reply_to_id": "152598"
+        },
+        {
+            "user_name": "St1",
+            "text": "Mmmm þetta kort kostar\n\nUS $549.99USD á EBAY=35639,352ISK+8731,64124=24,5%VSK\n\n-------------------------\n\n44370,99324Kr\n\n------------------------\n\n44,371-- ISK\n\n+3960kr fyrir Póst\n\nGRAND TOTTAL frá\n\n48,331ISK\n\nOG EKKI KRÓNU Í VIÐBÓTT!!!\n\n____________________________________________________________\n\nSparkle Geforce 8800GTX 768 MB=48.860kr:oops: \n\n\n\nDIAMOND RADEON HD 2900 XT 1GB=48,331kr \n og þetta ætti að duga \"well into the future\" EBAY here we come!",
+            "date": "2007-09-11 20:21:00",
+            "post_id": "152675",
+            "reply_to_id": "152603"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Vaskurinn leggst nú reyndar einnig ofan á sendingarkostnaðinn síðast þegar ég vissi ... ekki að það breyti öllu.",
+            "date": "2007-09-11 20:25:00",
+            "post_id": "152676",
+            "reply_to_id": "152675"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "http://www.kisildalur.is/?p=2&id=497\n HD2900XT Radeon á 42þús.",
+            "date": "2007-09-11 21:06:00",
+            "post_id": "152679",
+            "reply_to_id": "152676"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "512mb kort samkvæmt upplýsingunum á síðunni, ekki 1gb eins og þeir eru að hugsa um.",
+            "date": "2007-09-11 21:37:00",
+            "post_id": "152685",
+            "reply_to_id": "152679"
+        }
+    ],
+    "date": "2007-09-09 10:34:00"
+}

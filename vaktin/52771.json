@@ -1,0 +1,93 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "52771",
+    "title": "Ekki einu sinni MB í Upload?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=52771",
+    "posts": [
+        {
+            "user_name": "Arnarmar96",
+            "text": "Eins og Titillinn segir, þá eitthverja hluta vegna erum við ekki með neitt upload speed, sjá á mynd. (erum með leið 4 í símanum) \ner eitthver sérstök ástæða eða eitthver lausn fyrir þessu?",
+            "date": "2013-01-15 23:03:00",
+            "post_id": "489839",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "arons4",
+            "text": "Þetta er alveg eðlilegt á adsl tengingu. Ættir þó að fá rétt rúmt 1Mbit en ekki mikið meira.",
+            "date": "2013-01-15 23:09:00",
+            "post_id": "489842",
+            "reply_to_id": "489839"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Lausn = VDSL eða GPON.",
+            "date": "2013-01-15 23:11:00",
+            "post_id": "489843",
+            "reply_to_id": "489842"
+        },
+        {
+            "user_name": "Arnarmar96",
+            "text": "VDSL eða GPON ? er þetta þá eitthvað í sambandi við adsl-ið ? er ekkert hægt að bæta þetta t.d. með öðrum router eða eh þannig? og download speed-ið ætti að fara aðeins hærra þar sem afruglarinn tekur bara 4 mb, og erum á 16 mb tengingu?",
+            "date": "2013-01-15 23:43:00",
+            "post_id": "489848",
+            "reply_to_id": "489843"
+        },
+        {
+            "user_name": "darkppl",
+            "text": "VDSL er ljósnetið hjá símanum...",
+            "date": "2013-01-15 23:49:00",
+            "post_id": "489849",
+            "reply_to_id": "489848"
+        },
+        {
+            "user_name": "Moldvarpan",
+            "text": "16 Mbit tenging er ekki 16 MB/s\nMeð stærstu adsl tengingunni ertu að ná að uploada á um 100 kB/s og download ætti að vera um 1.6 MB/s, ef myndlykill er tengdur, þá fer það niðrí 1.2-3 MB/s.",
+            "date": "2013-01-15 23:50:00",
+            "post_id": "489850",
+            "reply_to_id": "489849"
+        },
+        {
+            "user_name": "Arnarmar96",
+            "text": "jáá, ég segi það. erum að bíða eftir að ljósnetið kemur til okkar, þurfum við þá ekki annann router eða eitthvað þannig?",
+            "date": "2013-01-16 00:00:00",
+            "post_id": "489852",
+            "reply_to_id": "489850"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "\"allt að 16Mbit\"\nEkkert sem router lagar. Getur látið athuga hvort það er einhver dyfing á línunni þinni. Hringir í símann bara.",
+            "date": "2013-01-16 00:08:00",
+            "post_id": "489853",
+            "reply_to_id": "489852"
+        },
+        {
+            "user_name": "DJOli",
+            "text": "Ég er líka hjá símanum á 16mb adsl tengingu.\nÉg er bara með rosalega góða línu niður í næstu símstöð sem er undir 3km fjarlægð frá mér.\ndafuq. var að lesa yfir síðuna hjá símanum, og samkvæmt þeim er búið að breyta leið 4 úr allt að 16mb í allt að 12mb.\nVona að hraðinn hjá mér verði ekki lækkaður.",
+            "date": "2013-01-16 02:00:00",
+            "post_id": "489862",
+            "reply_to_id": "489853"
+        },
+        {
+            "user_name": "Arnarmar96",
+            "text": "jááá, var að skoða nuna á siminn.is þá er 12 mb niðurhals hraði á öllum áskriftarleiðum",
+            "date": "2013-01-16 02:24:00",
+            "post_id": "489864",
+            "reply_to_id": "489862"
+        },
+        {
+            "user_name": "Jón Ragnar",
+            "text": "Þeir eru greinilega að ýta öllum yfir á Ljósnetið.\nSé ekki afhverju þeir lækka ADSL hraðann. Bitnar bara á viðskiptavininum",
+            "date": "2013-01-16 08:53:00",
+            "post_id": "489877",
+            "reply_to_id": "489864"
+        },
+        {
+            "user_name": "wicket",
+            "text": "Almennt hefur það verið þannig hjá Simnet að breytingar eru ekki afturvirkar, þannig að þeir sem hafa 16 í dag halda þeim hraða.",
+            "date": "2013-01-16 09:03:00",
+            "post_id": "489879",
+            "reply_to_id": "489877"
+        }
+    ],
+    "date": "2013-01-15 23:03:00"
+}

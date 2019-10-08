@@ -1,0 +1,107 @@
+{
+    "forum_title": "Yfirklukkun, hraðaprófanir og mods",
+    "id": "1362",
+    "title": "Varðandi powersupply og dularfull poweroff á tölvunni",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=1&t=1362",
+    "posts": [
+        {
+            "user_name": "tran",
+            "text": "Þetta byrjaði núna bara um helgina í fyrsta sinn, þá var ég að spila monopoly tycoon í tölvunni á lani og allt í einu slökknaði bara á tölvunni(enginn bluescreen).. fór ekkert í shutdown eða neitt þesslags.. Síðan þá hefur þetta gerst fjórum sinnum, bæði við 100% og 0% cpu load. Ég var með tölvuna yfirklukkaða um helgina en ég niðurklukkaði hana eftir 2 \"shutdown\" en það breytti engu.\n\nÉg er með dragon kassa og 340w chieftech powersupply sem fylgdi með...\n\nþað voru 2 harðir diskar í vélinni þangað til áðan þegar ég bætti 2 við.. \n\np4 2.4 ghz örri\n\nabit bd7-II móðurborð \n\n2x512mb 400 mhz ram\n\ngeforce 4 ti4200\n\n\n\nÉg fór að athuga voltage í motherboard manager og þetta er það sem mbm segir við 100% load eftir prime95 keyrslu í smá tíma:\n\n\n\n\n\nHelst finnst mér +12v lágt en ég hef í rauninni ekkert til að miða við... \n\n\n\nEinnig gæti verið tengt að síðasta árið eða svo hefur verið að slökkna á einum harða diskinum mínum randomly en bara svona 1-2x í mánuði.. Þá kemur bluescreen(enda er stýrikerfið á disknum) og tölvan rebootar og finnur ekki diskinn fyrr en ég powera tölvuna alveg niður og upp aftur..\n\nDiskurinn virkar fínt, ég er búinn að gera 100% surface scan og scanna hann með tólum frá western digital líka.. \n\n\n\nMig grunar að það séu svona 90% líkur á að þetta sé powersupplyið, en ég er ekki alveg viss..\n\nOg ef þetta er powersupplyið þá er ég heldur ekki viss af hverju þetta er.. Vantar mig öflugra powersupply? (í wöttum).. Vantar mig \"betra\" powersupply? (as in betra merki.. enermax eða eitthvað í þá áttina? )\n\n\n\nPS, ég veit að þetta er EKKI hitavandamál svo að það er engin þörf að flækja það inn í þetta \n\n\n-Tran",
+            "date": "2003-08-27 14:05:00",
+            "post_id": "11498",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Fletch",
+            "text": "mér finnst nú VCOREið vera frekar lágt hjá þér líka, um 1.4V??\n\n\n\nP4 2.4 ætti að vera 1.525V\n\n\n\npassaðu að MBM sé að fylgjast með réttum skynjara, og hvað ertu með VCORE stillt á í bios ?\n\n\n\nFletch",
+            "date": "2003-08-27 14:18:00",
+            "post_id": "11499",
+            "reply_to_id": "11498"
+        },
+        {
+            "user_name": "tran",
+            "text": "ég er með vcore í bios stillt bara á default, enda ekki að yfirklukka neitt atm..",
+            "date": "2003-08-27 14:21:00",
+            "post_id": "11500",
+            "reply_to_id": "11499"
+        },
+        {
+            "user_name": "Fletch",
+            "text": "Segir bios'in það sama og MBM ? PC Health í honum...\n\n\n\nfylgstu með VCORE þar..\n\n\n\nVarstu að fjölga íhlutum í vélinni ?\n\n\n\nFletch",
+            "date": "2003-08-27 16:04:00",
+            "post_id": "11502",
+            "reply_to_id": "11500"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Ertu með eve installaðan og nortan anti virus hún gerði þetta hjá mér lét bara nortan antovirus malla í smá tíma og allt fínt",
+            "date": "2003-08-27 16:22:00",
+            "post_id": "11505",
+            "reply_to_id": "11502"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "henntu þessu psu áður en þú grillar kerfið alveg! -12v er í -8.41v!!!!  það er alltof lágt! taktu zalmann psu hjá task.is. mjög gott, stöðugt o g vandað psu \nhttp://www.task.is/Scripts/prodView.asp?idproduct=317\n kostar reyndar hátt í 15000kallinn en það er þess virði",
+            "date": "2003-08-29 16:06:00",
+            "post_id": "11606",
+            "reply_to_id": "11505"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Ég keypti svona PSU hjá þeim um daginn...virkar fínt",
+            "date": "2003-08-29 16:50:00",
+            "post_id": "11609",
+            "reply_to_id": "11606"
+        },
+        {
+            "user_name": "Fletch",
+            "text": "Óþarfi að hafa áhyggjur af mínus línunum, þær eru ekki notaðar...\n\n\n\nFletch",
+            "date": "2003-08-29 19:30:00",
+            "post_id": "11626",
+            "reply_to_id": "11609"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "En þetta psu nær hvergi 12V",
+            "date": "2003-08-29 19:38:00",
+            "post_id": "11628",
+            "reply_to_id": "11626"
+        },
+        {
+            "user_name": "Fletch",
+            "text": "minnsta mælda gildi hjá honum er 11.55V sem er heldur lágt...\n\n\n\nlægsta sem mitt hefur farið í er 11.86V eftir nokkra daga keyrslu...\n\n\n\nFletch",
+            "date": "2003-08-29 19:40:00",
+            "post_id": "11629",
+            "reply_to_id": "11628"
+        },
+        {
+            "user_name": "Hlynzi",
+            "text": "Ég gæti trúað því að PSU sé ekki nógu stórt. Þú getur reiknað út orkunotkun tölvunnar á að vera merkt, amper og volt. \n\nMér finnst 12+ voltin frekar lág, hjá mér er það alltaf rétt yfir 12, og fer sjaldan undir það. Og svo það að þú virðist tapa einhverju í 12- voltunum finnst mér dularfullt, það gæti verið nóg fyrir psu til að álykta að kerfið slái út, svipað og lekaliði í húsum hérna, hiti er mögulegt vandamál, en hann er þá mjög áberandi.",
+            "date": "2003-09-01 20:46:00",
+            "post_id": "11902",
+            "reply_to_id": "11629"
+        },
+        {
+            "user_name": "valdiorn",
+            "text": "ég veit ekki akkurru tölvan slekkur á sér EN KAUPTU ÞÉR BETRI VIFTU!!! My god þú ert að rústa örgjörfann með 67° hita!!! þú mátt þakka fyrir að það er ekki brunagat í honum. ráðlagður \"load\" hiti á örgjörfa eins og þínum er í kringum 55° og niður. yfir 65° er að drepa örgjörfann þinn hægt og rólega.\n\nþetta er bara svona friendly reminder",
+            "date": "2003-09-09 23:07:00",
+            "post_id": "12921",
+            "reply_to_id": "11902"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Þetta er kasnki ekki ráðlagður hiti, en miðað við það sem ég hef heirt hér á örinn alveg að ráða við þetta.",
+            "date": "2003-09-09 23:09:00",
+            "post_id": "12923",
+            "reply_to_id": "12921"
+        },
+        {
+            "user_name": "Hlynzi",
+            "text": "Örrinn ætti alveg að ráða við þetta. Þarnæsta helgi er það dk. og þar ætla ég að versla mér eitthvað über heatsink.",
+            "date": "2003-09-10 08:36:00",
+            "post_id": "12967",
+            "reply_to_id": "12923"
+        }
+    ],
+    "date": "2003-08-27 14:05:00"
+}

@@ -1,0 +1,93 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "9345",
+    "title": "S-video vandræði!!!",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=9345",
+    "posts": [
+        {
+            "user_name": "Leeds",
+            "text": "Þannig er mál með vexti að ég er með Dell Latitude D810 vél og ætlaði að tengja han við sjónvarpið með S-video tenginnu og fór út í bt og spurði afgreiðslumannin hvernig ég ætti að fara að því... hann lætur mig hafa snúru sem heitir \"computer to TV/VCR Cable \" og hún er samssagt 3,5mm + S-vide og hinn endinn er scart. \n\n\n\nÞetta er nú nokkuð idiot proof hvernig á að tengja þetta svo ég geri það hljóðið í hljóð tengið, S-video í S-video tengið og Scartið í scartið á sjónvarpinu.\n\n\n\nEn þegar ég set á AV stöðina sem þetta ætti að vera á kemur bara hljóðið og bara blár skjár.....\n\n\n\nNú er spurning hvort ég sé að gera eitthvað vitlaust??",
+            "date": "2005-12-16 19:25:00",
+            "post_id": "100901",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Dust",
+            "text": "Búinn að fara í properties á drivernum og búinn að láta hann vita af hinum skjánum, stilla inn rétt format, semsagt G-PAL eða einhvað álíka?",
+            "date": "2005-12-16 19:46:00",
+            "post_id": "100903",
+            "reply_to_id": "100901"
+        },
+        {
+            "user_name": "Leeds",
+            "text": "nei hvar er þetta propertise og hverju á ég að breyta??",
+            "date": "2005-12-16 20:03:00",
+            "post_id": "100907",
+            "reply_to_id": "100903"
+        },
+        {
+            "user_name": "Dust",
+            "text": "Ferð á Desktop/hægriklikkar á músina/properties/settings/advanced/ og efa þú ert með ati kort, þá verðuru að fá hjálp annarstaðar frá. Ef þú ert með nvidia kort, þá kemur upp nafnið á drivernum, sjá meðfylgjandi mynd (1)\n\nSvo ferðu í bláa svæðið eins og þú sérð á mynd (2) og velur Clone.\n\n\n\nSvo hægriklikkaru á secondary display, eflaust mynd af sjónvarpi og velur þar Select TV Format, velur þar G/PAL, svo bara apply.\n\n\n\nOg ef þú vilt að sjónvarpið fari auto í full screen þegar þú horfir á mynd, þá ferðu í Full screen video og stillir eins og þú sérð á mynd (3) (myndin ætti að vera kominn með Full screen video möguleikan eftir að þú gerðir apply þegar þú varst búinn að láta tölvuna clone-a sig yfir í sjónvarpið. Og svo bara smella á OK\n\n\n\nVona að þetta sé nógu skilvirt",
+            "date": "2005-12-16 21:03:00",
+            "post_id": "100911",
+            "reply_to_id": "100907"
+        },
+        {
+            "user_name": "Dust",
+            "text": "Já og ekkert að þakka!",
+            "date": "2005-12-17 14:14:00",
+            "post_id": "100966",
+            "reply_to_id": "100911"
+        },
+        {
+            "user_name": "corflame",
+            "text": "Hehe, áttirðu von á þakklæti?",
+            "date": "2005-12-17 14:37:00",
+            "post_id": "100968",
+            "reply_to_id": "100966"
+        },
+        {
+            "user_name": "Dust",
+            "text": "Maður gerir sér vonir \n lagði 10 mín. vinnu í þetta fyrir drengstaulan! hehe",
+            "date": "2005-12-17 14:39:00",
+            "post_id": "100969",
+            "reply_to_id": "100968"
+        },
+        {
+            "user_name": "Leeds",
+            "text": "já ég var bara að sjá þetta núna svo takk en þegar ég spila .avi fæla kemur ekkert í sjónvarpinu....... einhver sem kann að laga það",
+            "date": "2005-12-17 18:20:00",
+            "post_id": "100995",
+            "reply_to_id": "100969"
+        },
+        {
+            "user_name": "CraZy",
+            "text": "það fer eftir spilurum, allavega er það þannig hjá mér, wmp virðist virka oftast en ég get aldrei notað vlc á TV þaraðsegja",
+            "date": "2005-12-17 19:02:00",
+            "post_id": "100998",
+            "reply_to_id": "100995"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Það er vegna þess að Sjónvarpið verður að vera sem Primary Display hjá þér.",
+            "date": "2005-12-17 19:06:00",
+            "post_id": "100999",
+            "reply_to_id": "100998"
+        },
+        {
+            "user_name": "Leeds",
+            "text": "heyrðu já fattaði ekki að það hefði breyst var búinn að stilla það....\n\n\n\ntakk allir nú er ég farinn að horfa á video í sjónvarpinu",
+            "date": "2005-12-17 19:51:00",
+            "post_id": "101001",
+            "reply_to_id": "100999"
+        },
+        {
+            "user_name": "CraZy",
+            "text": "jamm hef tekið eftir því í kringum vlc, allavega þegar ég nota hinskáin verður vlc að spilast á primary.\n\nSamt eitt sem böggar mig, þegar ég vill nota TV sem nr.2 skjá þarf ég alltaf að velja það aftur, er ekki hægt að hafa alltaf 3 skjái í gangi? (2 skjái + tv)",
+            "date": "2005-12-17 23:56:00",
+            "post_id": "101022",
+            "reply_to_id": "101001"
+        }
+    ],
+    "date": "2005-12-16 19:25:00"
+}

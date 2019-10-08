@@ -1,0 +1,205 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "47262",
+    "title": "FTP Server",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=47262",
+    "posts": [
+        {
+            "user_name": "thiwas",
+            "text": "Sælir, \nÉg er að velta fyrir mér að henda upp FTP server heima, \nþarf ég að fá mér DNS þjónustu einhvers staðar frá ?\nEr þá einhver önnur þjónusta sem ég þarf annars staðar frá ?\nEf ég þarf DNS þjónustu, með hverju mæliði, helst frítt ?",
+            "date": "2012-04-17 12:57:00",
+            "post_id": "436088",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Þú þarft enga DNS þjónustu frekar en þú vilt, getur alltaf tengst bara við IP. Annars eru til hellingur af þessum dynamic DNS þjónustum, no-ip.com svona það fyrst sem mér dettur í hug, svo er líka spurning hvort routerinn hjá þér styður ekki automatískt uppfærslu á e-rjum af þessum fríu dynDNS þjónustum sem væri sniðugt fyrir þig að nota, nema þú sért með fasta IP tölu.",
+            "date": "2012-04-17 13:08:00",
+            "post_id": "436095",
+            "reply_to_id": "436088"
+        },
+        {
+            "user_name": "thiwas",
+            "text": "er með þennan frá símanum\nhttp://www.routeripaddress.com/routers/ ... g789n.html\ner ekki með fasta ip tölu, þarf að hringja í símann og græja það",
+            "date": "2012-04-17 13:14:00",
+            "post_id": "436096",
+            "reply_to_id": "436095"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Getur líka sleppt því, held þú þurfir að greiða 500kr á mánuði fyrir það aukalega. Gætir frekar fengið þér fría DNS þjónustu og annaðhvort látið routerinn update-a DNSið eftir því sem IP talan breytist, eða keyra tól á FTP servernum sem gerir það sjálfkrafa, minnir að no-ip bjóði upp á það frítt.",
+            "date": "2012-04-17 13:25:00",
+            "post_id": "436101",
+            "reply_to_id": "436096"
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "http://1984.is/p/freednsinfo\nNotið íslenska aðila, kostar ekkert að nota þessa DNS þjónustu. \nLénið kaupiru svo hjá isnic.\nVeit samt ekki hvort 1984 bjóði upp á þeirra lén endingar",
+            "date": "2012-04-17 13:41:00",
+            "post_id": "436102",
+            "reply_to_id": "436101"
+        },
+        {
+            "user_name": "ponzer",
+            "text": "No-IP.com eða sambærilega þjónusta væri betri kostur framyfir DNS þjónustuna hjá 1984.is, eins og AntiTrust segir þá geta þessar dynamic dns þjónustur uppfært DNS recordið þitt þegar að routerinn þinn skiptir um IP tölu sem að 1984 getur ekki.",
+            "date": "2012-04-17 14:09:00",
+            "post_id": "436105",
+            "reply_to_id": "436102"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "fyrir ssh-ið mitt er ég bara með frítt lén hjá dyndns.org og svo skrifaði ég scriptu sem heyrir á klukkutíma fresti og tjékkar hvort IP-talan sé breytt. Ef hún er það þá er hún uppfærð sjálfkrafa.",
+            "date": "2012-04-17 14:34:00",
+            "post_id": "436107",
+            "reply_to_id": "436105"
+        },
+        {
+            "user_name": "thiwas",
+            "text": "en að hvaða öryggisatriðum á ég að huga að í þessu ?",
+            "date": "2012-04-17 15:08:00",
+            "post_id": "436111",
+            "reply_to_id": "436107"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Hafa SSL og IP filtering, ætti að duga.",
+            "date": "2012-04-17 15:19:00",
+            "post_id": "436112",
+            "reply_to_id": "436111"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Setja fólk í grúppur og gefa rétt permissions fyrir þá aðila sem þú ert að hleypa inná server-inn",
+            "date": "2012-04-17 15:36:00",
+            "post_id": "436113",
+            "reply_to_id": "436112"
+        },
+        {
+            "user_name": "dori",
+            "text": "Hvaða hugbúnað ætlarðu að nota til að keyra FTP serverinn. Annars er það rosalega sniðugt að takmarka IP tölur sem mega tengjast (ef það er möguleiki). Það getur verið fínt að keyra á non-standard porti. Það minnkar smá líkurnar á því að serverinn þinn finnist með svona port skanni.\nAnnars auðvitað bara basic. Hafa góðan og rétt stilltan eldvegg. Keyra serverinn á notanda með takmörkuð réttindi til að missa ekki stjórn á boxinu. Láta það að tékka lykilorð taka tíma eða hafa takmark á því hversu oft er hægt að reyna að skrá sig inn. Logga misheppnaðar tilraunir og fylgjast með spikeum.",
+            "date": "2012-04-17 15:43:00",
+            "post_id": "436116",
+            "reply_to_id": "436113"
+        },
+        {
+            "user_name": "thiwas",
+            "text": "var að velta fyrir mér Filezilla Server,\nEr eitthvað annað betra ?\nHafði allavega heyrt ágætis hluti um þetta.",
+            "date": "2012-04-17 15:50:00",
+            "post_id": "436118",
+            "reply_to_id": "436116"
+        },
+        {
+            "user_name": "dori",
+            "text": "Filezilla Server á Windows 7 tölvu?",
+            "date": "2012-04-17 15:51:00",
+            "post_id": "436120",
+            "reply_to_id": "436118"
+        },
+        {
+            "user_name": "thiwas",
+            "text": "já Filezilla Server á win7 pro",
+            "date": "2012-04-17 15:51:00",
+            "post_id": "436121",
+            "reply_to_id": "436120"
+        },
+        {
+            "user_name": "dori",
+            "text": "AntriTrust eða einhver annar Windows nörd mun kannski geta komið með eitthvað meira en með smá leit:\nhttp://forum.filezilla-project.org/view ... f=6&t=3490\nSvo eru það bara þessir basic hlutir. Hafa eldvegg sem lokar á önnur port en það sem þú notar fyrir FTP þjóninn. Uppfæra reglulega bæði stýrikerfið og Filezilla. Stilla Filezilla til að leyfa bara visst margar tilraunir til innskráningar. Logga misheppnaðar skráningar. Blokka IP tölur sem virðast vera að ráðast á þig etc.",
+            "date": "2012-04-17 15:58:00",
+            "post_id": "436122",
+            "reply_to_id": "436121"
+        },
+        {
+            "user_name": "Tbot",
+            "text": "Dulkóðun, að vísu er SSL með það en mismunandi hvernig það er stillt á milli forrita.\nHún er algjört must, kemur í veg fyrir að isp geti séð hvað er að fara á milli.",
+            "date": "2012-04-17 19:54:00",
+            "post_id": "436164",
+            "reply_to_id": "436122"
+        },
+        {
+            "user_name": "thiwas",
+            "text": "er þetta ekki stillingin:\nRequire explicit FTP over TLS ?",
+            "date": "2012-04-17 22:28:00",
+            "post_id": "436203",
+            "reply_to_id": "436164"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Jú, þarft samt væntanlega að generate-a public og private key, man ekki alveg hvernig það er gert í filezilla en líklega til guide um það.",
+            "date": "2012-04-17 22:38:00",
+            "post_id": "436207",
+            "reply_to_id": "436203"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Er þessi stilling samt ekki bara fyrir authentication? Ég myndi líka stilla kröfu á að transfers séu dulkóðuð.",
+            "date": "2012-04-17 22:50:00",
+            "post_id": "436211",
+            "reply_to_id": "436207"
+        },
+        {
+            "user_name": "thiwas",
+            "text": "Er það ekki bara þessi stilling ?",
+            "date": "2012-04-17 23:02:00",
+            "post_id": "436216",
+            "reply_to_id": "436211"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Bingó!\nSvo myndi ég haka við \"disallow unencrypted\"",
+            "date": "2012-04-17 23:10:00",
+            "post_id": "436218",
+            "reply_to_id": "436216"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Jú, allt á réttri leið hjá þér. Líklega öruggast að haka líka í við \"Disallow plain unencrypted FTP\".",
+            "date": "2012-04-17 23:11:00",
+            "post_id": "436219",
+            "reply_to_id": "436218"
+        },
+        {
+            "user_name": "thiwas",
+            "text": "ftp þjóninn er kominn upp, \nÞegar ég logga mig inn á ftp þjóninn þá kemur þetta upp:\nUsing authentication type TLS\nFrumstilli TLS\nsannreyni skilríki\nTLS/SSL connection established\nEr ég ekki orðinn nokkuð safe með þetta svona, er eitthvað annað sem ég þarf að stilla",
+            "date": "2012-04-26 11:19:00",
+            "post_id": "437904",
+            "reply_to_id": "436219"
+        },
+        {
+            "user_name": "braudrist",
+            "text": "Nokkuð viss um að enginn eigi eftir að geta komist inn á þetta nema að hafa verulega fyrir því.",
+            "date": "2012-04-26 12:17:00",
+            "post_id": "437911",
+            "reply_to_id": "437904"
+        },
+        {
+            "user_name": "thiwas",
+            "text": "og enginn möguleiki á að ISP-inn geti séð hvað ég er að færa á milli ?",
+            "date": "2012-04-26 12:27:00",
+            "post_id": "437914",
+            "reply_to_id": "437911"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Afar hæpið með SSL.",
+            "date": "2012-04-26 12:31:00",
+            "post_id": "437915",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "thiwas",
+            "text": "Þannig að þetta ætti að vera í ágætis lagi bara ?",
+            "date": "2012-04-26 13:27:00",
+            "post_id": "437922",
+            "reply_to_id": "437915"
+        },
+        {
+            "user_name": "playman",
+            "text": "Ef þú hefur einhverjar áhyggjur með ISP sé að njósna um þig þá geturu bara útbúið\nencriptaða pakka til að senda á milli.\nSvona svipað og RAR fæll með passwordi, nema mikið traustara.",
+            "date": "2012-04-26 15:51:00",
+            "post_id": "437935",
+            "reply_to_id": "437922"
+        }
+    ],
+    "date": "2012-04-26 12:31:00"
+}

@@ -1,0 +1,93 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "4732",
+    "title": "Hvernig á að hækka vdimm á ai7?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=4732",
+    "posts": [
+        {
+            "user_name": "Snorrmund",
+            "text": "Titillinn segjir flest.. Er búinn að skoða manualinn og leita á google!!!  Please svara ekki með einhverju nonsense..",
+            "date": "2004-07-10 21:31:00",
+            "post_id": "48090",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "machinehead",
+            "text": "er það ekki í BIOS... mig minnir að það sé þar hjá mér!!!",
+            "date": "2004-07-12 01:17:00",
+            "post_id": "48247",
+            "reply_to_id": "48090"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "Er búinn að þræða bios i gegn og þetta er ekki þar.. Kíki í bios aftur eftir vinnu",
+            "date": "2004-07-12 07:25:00",
+            "post_id": "48264",
+            "reply_to_id": "48247"
+        },
+        {
+            "user_name": "machinehead",
+            "text": "Hehe, er að klára að vinna núna, er að fara heim. Ég skal athuga hvort ég finni þetta ekki, mig minnir að ég hafi séð þetta í BIOS'inum en er ekki viss!!!",
+            "date": "2004-07-12 07:30:00",
+            "post_id": "48265",
+            "reply_to_id": "48264"
+        },
+        {
+            "user_name": "Fletch",
+            "text": "Stillir þetta í softmenu í bios'num, sama stað og þú breytir vcore og vagp..\n\n\n\nGetur líka breytt þessu úr windows með uguru tólunum (ocguru)\n\n\n\nFletch",
+            "date": "2004-07-12 09:05:00",
+            "post_id": "48268",
+            "reply_to_id": "48265"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "Er VDIMM bara Sama og DDR power? eða voltin sem send eru á ddr rásina(Eða whatever) \n ? Eina voltage tengt í ocguru er CPU AGP og DDR .. Er ddr þá vdimm?",
+            "date": "2004-07-12 13:16:00",
+            "post_id": "48287",
+            "reply_to_id": "48268"
+        },
+        {
+            "user_name": "Fletch",
+            "text": "já\n\n\n\nFletch",
+            "date": "2004-07-12 14:08:00",
+            "post_id": "48289",
+            "reply_to_id": "48287"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "Takk fyrir svörin",
+            "date": "2004-07-12 14:25:00",
+            "post_id": "48291",
+            "reply_to_id": "48289"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "Hvað ætti ég að setja Vdimm í ? setti CAS á 2.5 (er með mushkin basic 512mb) og setti Vdimm á mest 2.8 (def 2.6)  en þá komu samt margir erroar með einhverju minnistesti sem Arnar benti mér á..",
+            "date": "2004-07-12 14:34:00",
+            "post_id": "48292",
+            "reply_to_id": "48291"
+        },
+        {
+            "user_name": "Fletch",
+            "text": "Ef þú ert að fá villur í memtest86 þá er minnið ekki að ráða við þennan FSB/timings...\n\n\n\nGetur þá breytt timings/lækkað FSB eða reynt meira VDIMM..\n\n\n\nAI7 leyfir mest 3.2V í vdimm..  Þú verður að ákveða sjálfur hvort þú vilt keyra svo hátt, ég hika ekki við það en ég er með 80mm viftu fyrir ofan minnið til að kæla það...\n\n\n\nFletch",
+            "date": "2004-07-12 15:21:00",
+            "post_id": "48304",
+            "reply_to_id": "48292"
+        },
+        {
+            "user_name": "machinehead",
+            "text": "Stocker, hvar stilliru CAS á minninu?",
+            "date": "2004-07-13 07:14:00",
+            "post_id": "48400",
+            "reply_to_id": "48304"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "í bios undir advanced eitthvað minnir mig \n man það ekki i augnablikinu..",
+            "date": "2004-07-13 07:49:00",
+            "post_id": "48405",
+            "reply_to_id": "48400"
+        }
+    ],
+    "date": "2004-07-10 21:31:00"
+}

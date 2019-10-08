@@ -1,0 +1,23 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "2901",
+    "title": "Internet connection sharing HP lappi í iMac",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=2901",
+    "posts": [
+        {
+            "user_name": "brell",
+            "text": "Góðan dag,\n\nég er búinn að setja upp internet connection sharing á iMakkanum mínum, þannig að strákurinn minn geti tengst honum via ethernet.  Hann er með HP fartölvu og win XP.  Hvað þarf hann að stilla hjá sér og hvernig?",
+            "date": "2004-01-24 12:03:00",
+            "post_id": "29157",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gumol",
+            "text": "Hann þarf að stilla inn:\n\n1. Ip addressu\n\n2. default gateway (ip talan á macanum)\n\n3. Preferred DNS server",
+            "date": "2004-01-24 16:07:00",
+            "post_id": "29198",
+            "reply_to_id": "29157"
+        }
+    ],
+    "date": "2004-01-24 12:03:00"
+}

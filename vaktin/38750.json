@@ -1,0 +1,86 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "38750",
+    "title": "Sata3 vs Sata2",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=38750",
+    "posts": [
+        {
+            "user_name": "kjarribesti",
+            "text": "Ég ætla að fara að fá mér harðann disk og þessir tveir koma til greina.\nhttp://buy.is/product.php?id_product=9208002\neða\nhttp://buy.is/product.php?id_product=181\nÞað er þannig að ég er ekki að pæla í 1tb eða 2tb\nen annar hefur Sata2 7200rpm en hinn Sata3 5900rpm\nVeit að Sata 3 er 6gb og Sata2 3gb.\nHvorn á maður að kaupa?",
+            "date": "2011-05-24 22:56:00",
+            "post_id": "350882",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "bulldog",
+            "text": "ertu með móðurborð sem styður sata 3 ?",
+            "date": "2011-05-24 23:15:00",
+            "post_id": "350887",
+            "reply_to_id": "350882"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "jessör, p8p67\ndettur inn bráðum",
+            "date": "2011-05-24 23:16:00",
+            "post_id": "350889",
+            "reply_to_id": "350887"
+        },
+        {
+            "user_name": "bulldog",
+            "text": "taktu þá sata 3 \n ég er með 2x 2tb seagate 5900 snúninga frá buy.is SNILLD",
+            "date": "2011-05-24 23:17:00",
+            "post_id": "350891",
+            "reply_to_id": "350889"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "já allt í lagi, geri það.",
+            "date": "2011-05-24 23:22:00",
+            "post_id": "350894",
+            "reply_to_id": "350891"
+        },
+        {
+            "user_name": "Steini B",
+            "text": "Ég var aðeins að leika mér og gerði test á milli sata2 vs sata3\nBáðir diskarnir eru frá Seagate og eru 5900rpm 2tb\nSmá munur á þeim... \n(sata3 er smá fadeaður út)",
+            "date": "2011-05-24 23:47:00",
+            "post_id": "350910",
+            "reply_to_id": "350894"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "Já, þetta gerði slagið.\nTek Sata3 for sure..\ntakk",
+            "date": "2011-05-24 23:52:00",
+            "post_id": "350912",
+            "reply_to_id": "350910"
+        },
+        {
+            "user_name": "Tiger",
+            "text": "SATA3 bara nýtur sín engan vegin á venjulegum HDD diskum, þar er diskurinn sjálfur flöskuháls en ekki SATA gagnafluttningsstaðallinn. Ég hef aldrei skilið þetta að hafa þá SATA3, til hvers að hafa disk sem getur ekki skirfað/lesið gögn hraðar en 120mb/s með gangnafluttningshraða uppá 600mb/s?\nEins og myndinni sem er hérna fyrir ofan, þá er það ekki SATA3 sem er að auka þennan hraða, SATA2 ræður nefnilega við 300MB/s en þarna er diskurinn rétt að slefa í 120MB/s....... useless finnst mér nema þú sért með SSD.",
+            "date": "2011-05-25 00:43:00",
+            "post_id": "350921",
+            "reply_to_id": "350912"
+        },
+        {
+            "user_name": "stjani11",
+            "text": "á myndinni er örugglega verið að bera saman gamlan vs nýjan disk sem útskýrir þennan mun\nÞar sem sata 2 diskurinn er 7200 rpm en hinn bara 5900 þá held ég að sata 2 diskurinn ætti að vera hraðari en það gæti verið vitlaust",
+            "date": "2011-05-25 01:01:00",
+            "post_id": "350928",
+            "reply_to_id": "350921"
+        },
+        {
+            "user_name": "Haxdal",
+            "text": "x2\nPointless að fá sér Sata3 HDD disk þegar venjulegir HDD ná varla að fullnýta Sata1.\nSata 1 \n: 1.5Gbit/s : 187,5MB/s - 20% overhead = \n~150MB/S\nSata 2\n : 3.0Gbit/s : 375MB/s - 20% overhead = \n~300MB/s\nSata 3\n : 6.0Gbit/s : 750MB/s - 20% overhead = \n~600MB/s\nAlgjörlega pointless að vera að pæla í þessu fyrir venjulega harða diska,  ef þú ert að fá þér SSD þá fyrst er það no brainer að fá sér Sata3 frekar en Sata2",
+            "date": "2011-05-25 01:14:00",
+            "post_id": "350931",
+            "reply_to_id": "350928"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "Takk fyrir þetta allir,\nÆtla þá líklegast að fá mér SATA2  í 7200rpm.\n-k",
+            "date": "2011-05-25 02:30:00",
+            "post_id": "350946",
+            "reply_to_id": "350931"
+        }
+    ],
+    "date": "2011-05-24 22:56:00"
+}

@@ -1,0 +1,30 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "50740",
+    "title": "TRIM á SSD diskum orðið barn síns tíma",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=50740",
+    "posts": [
+        {
+            "user_name": "gardar",
+            "text": "Rakst á skemmtilega umræðu um TRIM á linux póstlista um raid.\nMér hefur einmitt alltaf þótt TRIM undarlegur hlutur, software lausn á hardware vandamáli.",
+            "date": "2012-10-03 17:41:00",
+            "post_id": "470152",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "hjalti8",
+            "text": "hmm, svo að trim á ekki að skipta eins miklu máli útaf innbyggðu garbage collection-i á nýjum diskum?\nskil þetta nú ekki alveg \n ,hvað á að vera slæmt við trim? ég get ekki betur séð en að trim skiptir miklu máli á sandforce diskunum skv testi frá xbitlabs:\n \nhttp://www.xbitlabs.com/articles/storag ... html#sect0",
+            "date": "2012-10-03 19:29:00",
+            "post_id": "470191",
+            "reply_to_id": "470152"
+        },
+        {
+            "user_name": "Mr. President",
+            "text": "Það er ekki rétt að segja að TRIM sé software lausn á hardware vandamáli heldur er það eiginlega öfugt.  Þegar þú 'eyðir' gögnum á gamaldags harðdisk þá eru gögnin ekki yfirskrifuð heldur eyðir stýrikerfið bara pointer sem vísar í gögnin og segir hvar þau eru.  Það er gert vegna þess hve harðdiskar eru hægvirkir og tæki annars langan tíma að eyða gögnum.  Ef þú ætlaðir að eyða t.d. 10gb af gögnum þá myndi diskurinn annars þurfa að skrifa 10gb.  TRIM er frekar viðsnúningur á þessu; þegar þú eyðir gögnum á SSD þá segir TRIM disknum að þurrka gögnin út (eða núllstilla blokkirnar) eins og harðdiskar myndu hafa gert ef þeir væru ekki of hægvirkir.  Gallinn er bara að eldri stýrikerfi gerðu ekki ráð fyrir þessu.\nGarbage collection er svo annar handleggur.  Overprovisioning \nætti \nað hjálpa til en það er misjafnt milli framleiðenda hvernig GC virkar.  Ég er t.d. með Agility3 þar sem það virkar alls ekki nógu vel; ég var með 20gb linux partition (sem ég eyddi) og það var ekki fyrr en ég skrifaði 20gb af rusl gögnum og eyddi aftur í Win7 (sem triggerar TRIM) að ég fékk leshraðann upp aftur.  Munurinn var um 100mb/sek.",
+            "date": "2012-10-06 19:23:00",
+            "post_id": "470729",
+            "reply_to_id": "470191"
+        }
+    ],
+    "date": "2012-10-03 17:41:00"
+}

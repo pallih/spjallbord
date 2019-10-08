@@ -1,0 +1,58 @@
+{
+    "forum_title": "Windows",
+    "id": "20345",
+    "title": "Tölva frýs",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=20345",
+    "posts": [
+        {
+            "user_name": "zaiLex",
+            "text": "Sælir, nú var bróðir að kaupa sér spánnýja tölvu, lítur svona út:\nCPU: Intel Core 2 Duo E8600 3.33GHz\nMóðurborð: GA-X48T-DQ6\nMinni: OZC DDR3 Gold 1333MHz 8Gb\nSkjákort: HD-4870X2\nPSU: Zalman ZM1000-HP\nKæling: Zalman CNPS9700 led\nHDD: 1x 150Gb WD VelociRaptor, 1x WD 640Gb\nStýrikerfi: Vista Ultimate 64bit\nKassi: CoolerMaster Cosmos 1000\nSkjár: Samsung T240\nMús: Logitech MX518\nWindows Vista x64\nEn núna hefur tölvan tekið upp á því að frjósa í tíma og ótíma yfirleitt áður en hálftími er liðinn eftir ræsingu. Frjósa þannig hvað sem er á skjánum stoppar bara, hljóðið sem var í gangi þegar þetta gerist verður samt ekki að bilaðri plötu, þannig að maður verður bara að ýta á restart takkann á tölvunni. Stundum líða bara 5 mínútur þangað til hún frýs og ekki virðist vera neitt sérstakt munstur á því hvenær hún frýs samanber að; þegar ég var að kveikja á henni áðan úr \"sleep\" þá fraus hún fyrst eftir 5 mín síðan hálftíma síðan 10 mín og síðan 5 mín. Hitinn er góður á tölvunni enda eru 4 viftur í kassanum + zalmaninn og skjákortsviftan er á fullu og hitinn á kortinu um 80° sem er eðlilegt er það ekki? Auk þess frýs hún ekki bara í tölvuleikjum heldur líka í stýrikerfinu sjálfu\nHafið þið hugmynd um hvað gæti verið að? Að sjálfsögðu er tölvan ný formötuð því að þetta er allt nýtt líka hörðu diskarnir.",
+            "date": "2008-12-05 19:28:00",
+            "post_id": "189012",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Hyper_Pinjata",
+            "text": "hélt að \"algjört hámark\" á hita fyrir skjákort væri um 105°c....but i could be wrong...",
+            "date": "2008-12-05 19:32:00",
+            "post_id": "189013",
+            "reply_to_id": "189012"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Lenti í svipuðu einu sinni, kom í ljós að timings og voltin voru bæði stillt vitlaust á minninu, geturu reynt að keyra Memtest? Eða kíkt kannski í BIOSinn og séð hvort allt sé stillt rétt?",
+            "date": "2008-12-05 19:53:00",
+            "post_id": "189015",
+            "reply_to_id": "189013"
+        },
+        {
+            "user_name": "zaiLex",
+            "text": "Stóri harði diskurinn var víst með eitthvað vesen en ég diseiblaði hann, allavega hefur tölvan ekkert krassað í klst! takk samt!",
+            "date": "2008-12-05 21:22:00",
+            "post_id": "189023",
+            "reply_to_id": "189015"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Heyrðu þú ert að lenda í sama vandamáli og ég, nema 64.bita kerfinn virðast eiga það til að crasha alveg. Hvernig lagaðiru þetta?",
+            "date": "2008-12-13 13:19:00",
+            "post_id": "189835",
+            "reply_to_id": "189023"
+        },
+        {
+            "user_name": "Frammi",
+            "text": "Ég lenti í svipuðu á miklu slappari tölvu. Hélt lengi vel að hún væri að ofhitna eftir að ég sá eitthvað mælast í 60°. En vá, er 80° semsagt normal???\nÞað var allavega sama sem lagaði hjá mér, að taka út eldri harðan disk sem var með vesen. Eftir það er ekkert að. Það sem mig grunar þó að geti líka verið á seyði er að aflgjafinn bara höndli ekki eitt tækið til viðbótar...",
+            "date": "2008-12-16 20:56:00",
+            "post_id": "190177",
+            "reply_to_id": "189835"
+        },
+        {
+            "user_name": "EmmDjei",
+            "text": "ég er með nákvæmlega sama vandamál=/",
+            "date": "2008-12-20 19:03:00",
+            "post_id": "190596",
+            "reply_to_id": "190177"
+        }
+    ],
+    "date": "2008-12-05 19:28:00"
+}

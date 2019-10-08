@@ -1,0 +1,135 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "72135",
+    "title": "HDMI 2.0 HDMI lag",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=72135",
+    "posts": [
+        {
+            "user_name": "jonsig",
+            "text": "Sælir \nhef svona skjá samsung 28\" 4k hdmi 2.0\nHann laggar alltaf í 4k ef ég nota HDMI, búinn að prufa nokkra kapla. DP cable er \"0\"  vesen og virkar perfect, en hann er frekar stuttur hjá mér.\nKeypti frekar fancy HDMI 2.0 kapal um dagin og sama sagan eins og með 500kr hdmi kaplana \n Nenni ekki að fara kaupa aftur kapal \nSkjákort EVGA superclock GTX1070 \nMúsin er laggy, bara þegar maður er í windows 10 með ekkert í gangi. Allt super quick ef ég læt gamla display port cable aftur í.\nÞetta lagast aðeins ef maður lætur í GAMING MODE. En þessir skjár eiga að vera super smooth í 4k upplausn (Hdmi2.0 interface)",
+            "date": "2017-02-14 21:04:00",
+            "post_id": "643244",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Hvernig veistu hvort það er skjárinn eða skjákortið?",
+            "date": "2017-02-14 21:06:00",
+            "post_id": "643245",
+            "reply_to_id": "643244"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "Bætti við lýsinguna",
+            "date": "2017-02-14 21:18:00",
+            "post_id": "643247",
+            "reply_to_id": "643245"
+        },
+        {
+            "user_name": "frappsi",
+            "text": "Held að misskilningurinn liggi í muninum á \"2 HDMI\" eða \"HDMI og svo 2 í næstu línu\" og \"HDMI 2.0\". Það eru 2 HDMI port á þessum, en þau eru HDMI 1.4, sem styður bara 4k@30Hz. Fancy HDMI kapallinn var því miður peningasóun í þessu tilfelli og þú myndir ekki fá breytta niðurstöðu jafnvel þó þú skellir þér á 20 þús kr. kapal. DisplayPort er málið.\nÆtla svo ekkert að minnast á hvað ég var fljótur að Googla þetta...",
+            "date": "2017-02-14 21:28:00",
+            "post_id": "643248",
+            "reply_to_id": "643247"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "\"U28E590D as one of its definite better features. This monitor can offer you 4K graphics at 60Hz through both DisplayPort 1.2 (which is common to all 4K monitors) and through HDMI 2.0, which is only now arriving to the latest 4K PC displays\"",
+            "date": "2017-02-14 21:43:00",
+            "post_id": "643250",
+            "reply_to_id": "643248"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Hmmm.  Hérna kemur fram að hann styðji bara 4K@30Hz í gegnum HDMI: \nhttps://9to5mac.com/2014/06/13/review-s ... ble-price/\nSpurning hvor textinn er réttur, þessi, eða sá sem þú vitnaðir í.  M.v. laggið hjá þér giska ég á að hann fari bara ekki hærra en 30Hz á HDMI.\nEDIT:  Eða bíddu nú við ... eru þetta tvö mismunandi módel kannski U28\nE\n590D v.s U28\nD\n590D ?",
+            "date": "2017-02-14 21:53:00",
+            "post_id": "643252",
+            "reply_to_id": "643250"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "Ég hef grun um að það séu tvær útfærslur. Minn er einhver prehistoric útgáfa. En ég er með minn á 30fps og finnst hann laggy. Grunar að ég þurfi að fara kaupa enn annan kapalinn.\nPrufaði að finna drivera fyrir skjáinn og installa, gerði ekkert ofc :/",
+            "date": "2017-02-14 21:59:00",
+            "post_id": "643255",
+            "reply_to_id": "643252"
+        },
+        {
+            "user_name": "frappsi",
+            "text": "Grunar að það sé málið - það virðast vera fleiri en ein útgáfa af honum. Á Samsung síðunni kemur fram að það sé HDMI 2.0 en efst á síðunni stendur: 4K, 3840 X 2160 Resolution (UHD), 60Hz (DP) sem er skrítið. Kannski þetta sé eitthvað sem gleymdist að taka út. Þau reviews sem ég hef skoðað um þennan skjá í gegnum tíðina tala um HDMI 1.4 og 4k@30Hz. Kannski það sé eitthvað model númer eða dagsetning á skjánum sem getur varpað ljósi á hvort þú sért með eldri týpu en þá sem er verið að lýsa á Samsung síðunni.",
+            "date": "2017-02-14 22:06:00",
+            "post_id": "643259",
+            "reply_to_id": "643255"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "Já sýnist LU28D590 ... 1.4 support. Samt er hann slow á 30fps",
+            "date": "2017-02-14 22:20:00",
+            "post_id": "643263",
+            "reply_to_id": "643259"
+        },
+        {
+            "user_name": "svanur08",
+            "text": "jonsig, þú veist það eru ekki version á köplum eins og tengjunum í raftækunum, bara Standard speed og High speed kaplar. Þetta er bara auglýsingar brella. \nEn færðu full 30fps á HDMI?",
+            "date": "2017-02-14 23:24:00",
+            "post_id": "643270",
+            "reply_to_id": "643263"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "Ekkert testað þetta með fraps eða þannig forriti. En hann er stilltur á 30fps í win10 display settings, þetta er ekkert skelfilegt ástand en það er smá lagg í 4k bara við að hreyfa hratt músina í desktop.\nÆtli display cable sé ekki málið. Keypti samt lengri displ cable af ebay.uk og hann var janvel verri en usb uppá laggið. En dp cable sem fylgdi skjánum virkar perfect nema hann er aðeins of stuttur.",
+            "date": "2017-02-14 23:46:00",
+            "post_id": "643271",
+            "reply_to_id": "643270"
+        },
+        {
+            "user_name": "svanur08",
+            "text": "Mæli þá með þú fáir þér bara lengri DP cable of notar DP frekær, þá færðu 60fps.",
+            "date": "2017-02-15 13:35:00",
+            "post_id": "643304",
+            "reply_to_id": "643271"
+        },
+        {
+            "user_name": "agust1337",
+            "text": "Bara svo að þú vitir þá er \nENGIN\n munur á 500 kr HDMI kapalli eða 5000 kr HDMI kapalli, ekki innan frá alla vegna. Eini munurinn er það sem er utan um svo að ef þú heldur að 5000 kr HDMI kapall er \"betri\" þá er það ekki satt.\nLangaði bara segja það.",
+            "date": "2017-02-15 14:19:00",
+            "post_id": "643307",
+            "reply_to_id": "643304"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "Ég man ekki eftir að hafa sagt það, ég var með 500kr usb kapal sem var ekki að gera sig og keypti því ódýran usb 2.0 kapal (3500kr) og hann var ekki að gera sig heldur. (hdmi2.0 = fancy)\nÞað er munur á DP köplunum greinilega því ruslið sem ég keypti á ebay réð varla við 2k. En DP kapallinn sem fylgdi skjánnum virkar fluid í 60fps á 4k og þá erum við að tala um helmingi hærri bandvídd.\nKapall er ekki endilega góður því hann flytur sömu bandvídd, þú vilt líka hafa áreiðanleika / vörn fyrir ytri áhrifum.\nÉg er alveg sammála þessu video, en mér finnst ekki góð heimildarvinna að vitna í youtube. Youtube lært fólk er martröð þegar það þykist hafa þekkingu á tækni.",
+            "date": "2017-02-15 14:58:00",
+            "post_id": "643313",
+            "reply_to_id": "643307"
+        },
+        {
+            "user_name": "worghal",
+            "text": "Af hverju keyptiru ekki bara dp til að byrja með?",
+            "date": "2017-02-15 17:31:00",
+            "post_id": "643327",
+            "reply_to_id": "643313"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "Ég var svo vitlaus að halda að skjárinn væri hdmi2.0 ,það á greinilega bara um nýrri týpur. Auk þess er hægt að nota hdmi kapalinn í eitthvað annað. Ef næsti skjár yrði 3.0 eða álíka",
+            "date": "2017-02-15 17:50:00",
+            "post_id": "643328",
+            "reply_to_id": "643327"
+        },
+        {
+            "user_name": "agust1337",
+            "text": "Ekki bara einhver, þetta er Linustechtips og það er hægt að treysta honum.",
+            "date": "2017-02-15 20:12:00",
+            "post_id": "643339",
+            "reply_to_id": "643328"
+        },
+        {
+            "user_name": "svanur08",
+            "text": "Linustech videoin eru skemmtileg.",
+            "date": "2017-02-16 20:37:00",
+            "post_id": "643407",
+            "reply_to_id": "643339"
+        }
+    ],
+    "date": "2017-02-14 21:04:00"
+}

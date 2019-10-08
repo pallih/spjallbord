@@ -1,0 +1,65 @@
+{
+    "forum_title": "Windows",
+    "id": "19590",
+    "title": "File sharing vandamál",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=19590",
+    "posts": [
+        {
+            "user_name": "SteiniP",
+            "text": "Sælir meistarar\nÉg er í smá klemmu. Ég er að reyna að share-a nokkrum möppum á XP pro vél, köllum hana tölvu A. Það eru tvær aðrar tölvur á heimilinu, önnur með Vista og hin með XP og þegar ég reyni að komast inn á tölvu A úr My Network Places í annarri hvorri þeirra þá fæ ég upp glugga sem biður um username og password sem að ég veit ekki hvað er.\nVitið þið hvernig ég get leyst þetta svo ég þurfi ekkert password?",
+            "date": "2008-10-05 23:38:00",
+            "post_id": "183887",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "getur ekki bara verið að lykilorð og password sé admin/admin eða eitthvað??",
+            "date": "2008-10-05 23:59:00",
+            "post_id": "183892",
+            "reply_to_id": "183887"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Nei það virkar ekki, búinn að prufa ýmsar útfærslur á því. Ég hef ekki glóru hvað passwordið er því ég veit ekki einu sinni hvar það er valið.",
+            "date": "2008-10-06 00:27:00",
+            "post_id": "183897",
+            "reply_to_id": "183892"
+        },
+        {
+            "user_name": "sigurbrjann",
+            "text": "ég held að flakkari sé bara málið",
+            "date": "2008-10-06 00:33:00",
+            "post_id": "183899",
+            "reply_to_id": "183897"
+        },
+        {
+            "user_name": "sigurbrjann",
+            "text": "getur líka spurt mömmu og pabba;)",
+            "date": "2008-10-06 00:34:00",
+            "post_id": "183900",
+            "reply_to_id": "183899"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Ég á flakkara og nota þá til að færa á milli þegar allt annað þrýtur en það er mun þægilegra að geta sest við hvaða tölvu sem er og accessað allt sem er á hinum tölvunum.\nAð hverju?",
+            "date": "2008-10-06 00:40:00",
+            "post_id": "183901",
+            "reply_to_id": "183900"
+        },
+        {
+            "user_name": "daremo",
+            "text": "Farðu í control panel->folder options->view, og hakaðu við \"use simple file sharing\". Þar með ertu kominn með anonymous filesharing.",
+            "date": "2008-10-06 00:55:00",
+            "post_id": "183902",
+            "reply_to_id": "183901"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Snillingur ertu.\nÉg hef meira að segja gert þetta áður en var búinn að steingleyma því.\nTakk.",
+            "date": "2008-10-06 02:54:00",
+            "post_id": "183906",
+            "reply_to_id": "183902"
+        }
+    ],
+    "date": "2008-10-05 23:38:00"
+}

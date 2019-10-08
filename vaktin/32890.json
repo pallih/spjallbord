@@ -1,0 +1,79 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "32890",
+    "title": "Horfa á myndir í sjónvarpinu úr tölvuni gegnum lan snúru.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=32890",
+    "posts": [
+        {
+            "user_name": "Glazier",
+            "text": "http://ht.is/index.php?sida=vara&vara=40PFL8664H\nÞetta er tækið sem ég er með.\nÉg setti upp XBMC á borðtölvunni minni sem er tengd við routerinn og svo er sjónvarpið líka tengt við routerinn.\nÞað er fítus í sjónvarpinu sem heitir \"Browse PC\" og hann á víst að virka í gegnum svona net snúru og við það á að vera hægt að nota XBMC.\nEn þegar ég smelli á Browse PC í sjónvarpinu kemur á skjáinn að ég eigi að kveikjá á media forritinu í tölvunni sem ég ætla að nota, ég geri það og kveiki þá á XBMC en það stendur samt bara á skjánum að það sé ennþá að bíða eftir signali (loading)\nMér var sagt að ég þyrfti að setja fasta IP tölu á sjónvarpið og tölvuna og fikta e'ð í DNS sem ég veit ekkert hvað er.\nEr búinn að setja fasta IP tölu á sjónvarpið, hvernig set ég fasta IP tölu á tölvuna ?\nHvað er þetta DNS ?\nEr btw. með Windows 7 á borðtölvunni.",
+            "date": "2010-10-01 20:09:00",
+            "post_id": "285536",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "einarhr",
+            "text": "kanski hjálpar þetta eitthvað\nhttp://wiki.xbmc.org/index.php?title=Windows_File_Sharing_(SMB/SAMBA/CIFS)",
+            "date": "2010-10-01 20:40:00",
+            "post_id": "285544",
+            "reply_to_id": "285536"
+        },
+        {
+            "user_name": "Cikster",
+            "text": "http://blogs.msdn.com/b/e7/archive/2009 ... ows-7.aspx\nÞetta sjónvarp er að nota DLNA sem er það sem er búið að taka við af gamla windows shearing sem XBMC notar. Ætti að vera hægt að finna einhver önnur forrit ef þig langar ekki að nota windows leiðina en hef ekki hugmynd hvað er best þar sem ég hef ekkert notað þetta sjálfur.\nGangi þér vel",
+            "date": "2010-10-01 21:12:00",
+            "post_id": "285549",
+            "reply_to_id": "285544"
+        },
+        {
+            "user_name": "Glazier",
+            "text": "Get ég semsagt ekki notað XBMC ?",
+            "date": "2010-10-01 21:45:00",
+            "post_id": "285555",
+            "reply_to_id": "285549"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Þú ert með tvö netkort á móðurborðinu, afhverju plöggar þú ekki sjónvarpinu beint í tölvuna eða kannar hvort það breyti einhverju.\nEf tölvan er á WLAN þá gæti routerinn klikkað í að share-a af þráðlausu yfir á kapalinn (hef lent í því sjálfur með ST-585v6).",
+            "date": "2010-10-01 21:46:00",
+            "post_id": "285557",
+            "reply_to_id": "285555"
+        },
+        {
+            "user_name": "einarhr",
+            "text": "ertu að keyra 64bit?\nWindows 7 (x64) users : You must uninstall Windows Live Sign-in Assistant for sharing to work. Reasons are unclear as why you need to do that.",
+            "date": "2010-10-01 21:46:00",
+            "post_id": "285558",
+            "reply_to_id": "285557"
+        },
+        {
+            "user_name": "Cikster",
+            "text": "http://wiki.xbmc.org/index.php?title=UPnP_Sharing\nGetur prófað að skoða þetta.\nMér sýnist reyndar að þetta sé bara að nota sama og var í fyrri linknum sem ég setti hér inn.",
+            "date": "2010-10-01 21:51:00",
+            "post_id": "285561",
+            "reply_to_id": "285558"
+        },
+        {
+            "user_name": "johnnyb",
+            "text": "uuuuuuuuuuu \n \nbest að nota bara hdmi úr tölvu í sjónvarp eða dvi/vga ef hitt er ekki í boði.",
+            "date": "2010-10-01 23:07:00",
+            "post_id": "285583",
+            "reply_to_id": "285561"
+        },
+        {
+            "user_name": "Glazier",
+            "text": "Það er hægt að nota net snúru, sjónvarpið er meira að segja með sérstakann fítus sem heitir Browse PC þannig ef ég get notað 15 metra langa net snúru frá tölvunni og í sjónvarpið afhverju þá að kaupa sér hdmi snúru á 20.000 kr. ?",
+            "date": "2010-10-01 23:14:00",
+            "post_id": "285584",
+            "reply_to_id": "285583"
+        },
+        {
+            "user_name": "JReykdal",
+            "text": "DLNA sjónvörpin eru oftast með mjög takmörkuð codec sem þau geta notað.\nég hef getað notað PS3 media server til að transcoda efni fyrir Sony sjónvarp:\nhttp://code.google.com/p/ps3mediaserver/downloads/list",
+            "date": "2010-10-01 23:37:00",
+            "post_id": "285586",
+            "reply_to_id": "285584"
+        }
+    ],
+    "date": "2010-10-01 20:09:00"
+}

@@ -1,0 +1,100 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "21314",
+    "title": "Download á Hotspot.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=21314",
+    "posts": [
+        {
+            "user_name": "emmibe",
+            "text": "Sælir vaktarar.\nÞar sem ég bý er Vodafone Hotspot net en ég virðis ekki geta downlodað t.d á Thevikingbay, port 25 smtp-80 www-http-110 pop3-119-143-443 eru samt opin segir Advanced port scanner, þetta er scannað á default gateway ip tölunni. Ekki alveg að skilja.?????",
+            "date": "2009-01-28 18:29:00",
+            "post_id": "195808",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Ordos",
+            "text": "Hotspot Blockar torrent/steam/wow etc.",
+            "date": "2009-01-28 18:47:00",
+            "post_id": "195810",
+            "reply_to_id": "195808"
+        },
+        {
+            "user_name": "Ezekiel",
+            "text": "Hef alveg séð gæja í Tækniskólanum tengda á Hotspot vera spila WoW og spila gegnum Steam samt sem áður..",
+            "date": "2009-01-28 18:51:00",
+            "post_id": "195811",
+            "reply_to_id": "195810"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "þeir eru líka í tækniskólanum",
+            "date": "2009-01-28 18:54:00",
+            "post_id": "195812",
+            "reply_to_id": "195811"
+        },
+        {
+            "user_name": "Ezekiel",
+            "text": "satt, við erum snillingar upp til hópa þarna",
+            "date": "2009-01-28 18:56:00",
+            "post_id": "195813",
+            "reply_to_id": "195812"
+        },
+        {
+            "user_name": "emmibe",
+            "text": "Þá er bara að miðla þekkingu sinni....",
+            "date": "2009-01-28 19:13:00",
+            "post_id": "195815",
+            "reply_to_id": "195813"
+        },
+        {
+            "user_name": "depill",
+            "text": "Þar sem ég á allavega vissan heiður af því að smíða access-listann fyrir alla HotSpotanna hjá Vodafone þá er þetta basicly þannig. Allt P2P er drepið með því að drepa alla incoming traffík, leikir ættu hins vegar að virka fínt ( þeir eru C2S ). VoIP ( Netsíminn og fleirra ) ætti að virka fínt til Vodafone, og Gizmo ætti að virka fínt, en spurning með Skype ( notaði það ekki, prófaði það ekki ). Þegar ég skyldi við þetta, þá drap ég líka allt usenet ( usenetserver, easynews og giganews og minnir hitnews ), veit ekki hvernig staðan er á því núna, nota HotSpotanna ekki mikið. Já og þegar ég skyldi við þetta, drap ég líka FTP, hins vegar gæti ég jafnvel trúað því að þetta sé leyft núna.\nTelnet, VPN ( Ipsec og PPTP ), SSH og algengustu protocalar eru leyfðir.\nOg já Tækniskóla HotSpot netið fer í gegnum sama router og allir hinir hotspotarnir á landinu frá Vodafone svo að það sama ætti að gilda um hann",
+            "date": "2009-01-28 19:14:00",
+            "post_id": "195816",
+            "reply_to_id": "195815"
+        },
+        {
+            "user_name": "emmibe",
+            "text": "Þú ert semsagt ofbeldishneigður þá vitum við það, en þetta er ekki svar fyrir mig.",
+            "date": "2009-01-28 19:38:00",
+            "post_id": "195819",
+            "reply_to_id": "195816"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Hann var að útskýra fyrir þér af hverju tVb virkar ekki... öll incoming traffík er drepin á staðnum með sjóðandi heitri awesomenessauce...",
+            "date": "2009-01-28 19:46:00",
+            "post_id": "195820",
+            "reply_to_id": "195819"
+        },
+        {
+            "user_name": "Climbatiz",
+            "text": "thú getur léttilega fundid fullt af movies/tveps/leikjum og fleira bara af http med google, t.d.\nlike > \nhttp://vesen.hydra.is/upload/uploads/ghost.jpg\nGoogle Guide:\nhttp://www.mediahump.com/scribble/143/",
+            "date": "2009-01-28 19:47:00",
+            "post_id": "195821",
+            "reply_to_id": "195820"
+        },
+        {
+            "user_name": "depill",
+            "text": "Gúru sagði allt sem segja þarf. En ástæðan fyrir þessu er mjög einföld. HotSpot er almenningsþjónusta sem er gefin endurgjaldslaus til þess að fólk komist á netið, ef að Torrent og aðrir P2P protocolar yrðu leyfðir, yrðu margir HotSpotarnir mjög hægir og sumir hreinlega ónothæfir. Þetta er til dæmis vandamál finnst mér niðrí Háskóla Íslands þar sem engar takmarkanir eru settar á þráðlausa netinu þeirra og sífellt eru nemendur sem eru að nota ja sérstaklega torrent sem gerir netið fyrir þá sem ætla kannski að sækja sér nú í fyrirlesturinn á Uglunni algjörlega ónothæft vegna þess að þeir eru búnir að teppa upp alla bandvíddina. \nÉg nota Torrent og vill geta notað það, en geri það líka heima hjá mér og finnst það nóg. Þegar ég er á Heitum Reitum vill ég bara geta surfað og kannski komist á MSN \n \nEn já ég var ekki að reyna benda á hvað ég væri vondur \n heldur að benda á hvað HotSpotinn væri ætlaður í og hvað þú getur gert. Hins vegar gætirðu Torrentast´i gegnum aðra tengingu til dæmis með því að VPNa þig eithvert annað eða gera SSH tunnel eithvert annað. En þá væriðu líka að nota bandvíddina af þeirri tengingu.",
+            "date": "2009-01-28 20:01:00",
+            "post_id": "195825",
+            "reply_to_id": "195821"
+        },
+        {
+            "user_name": "emmibe",
+            "text": "Hins vegar gætirðu Torrentast´i gegnum aðra tengingu til dæmis með því að VPNa þig eithvert annað eða gera SSH tunnel eithvert annað. En þá væriðu líka að nota bandvíddina af þeirri tengingu.\nHvernig fer ég að því?\nVar búinn að troða mér inná ST router til að downloda innanlands en eigandanum var ekki mjög vel við það.....\nHéld að landlordinn hafi búið til Hotspot tengingu hérna, held að Vodfone sé ekki að sponsora tengingu í iðnaðarhverfi í RVK, svo ferlegt að geta ekki DL á innanlands plöggi.",
+            "date": "2009-01-28 20:14:00",
+            "post_id": "195830",
+            "reply_to_id": "195825"
+        },
+        {
+            "user_name": "depill",
+            "text": "Tengingar eru ekki sponsaðar af Vodafone heldur reknar með ákveðnum fyrirvörum á stöðum þar sem þær eru pantaðar og þessir \"spottar\" eru til í fleirri en bara kaffistöðum. Ef að tengingin heitir Vodafone-HotSpot er mjög líklegt að þetta sé tenging sem er rekin eins og HotSpot tenging. ( Líka ef þú ert með 10.x.x.x addressu, þá er það líklegt en ekki 100% viss ). En með VPNi eða SSH tunneli þyrftirðu að fá einhvern sem er með bara venjulega tengingu ( eða með netþjón á einhverri góðri tengingu ) til að setja upp fyrir þig VPN eða SSH server sem þú gætir svo tengt þig við. Það eru til erlendir VPN serverar sem þú getur keypt aðgang að, en þá geturðu ekki sótt af síðum svo sem TVB, Deiling o.s.frv heldur eingöngu erlendu síðunum ( sem er svo sem fínt )",
+            "date": "2009-01-29 10:54:00",
+            "post_id": "195893",
+            "reply_to_id": "195830"
+        }
+    ],
+    "date": "2009-01-28 18:29:00"
+}

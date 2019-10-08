@@ -1,0 +1,44 @@
+{
+    "forum_title": "Windows",
+    "id": "49979",
+    "title": "Win 7 reboot og fl",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=49979",
+    "posts": [
+        {
+            "user_name": "kariorn",
+            "text": "Ég er með win 7 home edition OEM, verslað með nýrri vél á sínum tíma (tölvutækni) 06.12.10. SSD diskur\nVélin tók upp á því  að frjósa (skjárinn fraus og ekkert hægt að ctrl alt del.. ) þegar ég var að spila leik fyrir nokkrum dögum. Ég bara endurræsti og fór aftur í leikinn og svo kom fyrir að þetta gerðist aftur og stundum ekkert í 2-3 daga.\nÉg keyrði memtest 86+ eina umferð og það fann ekkert, fann forrit til að prófa minnið á sjákortinu og það fann ekkert að. \nSetti inn nýja nvidea drivers, update-aði windows. En það hjálpaði greinilega ekki.\nSvo fraus vélin í gærkvöldi og ég bara slökkti á henni og fór að sofa. í morgun þá vildi hún bara boota sér framm að \"starting windows\" svo koma þessir litir og eru að fara mynda windowsmerkið og þá endurræsir tölvan sig. \nÉg er búinn að unplugga alla harðadiska og reyna keyra win 7 setup af dvd (notaði þennan iso\nhttp://www.mydigitallife.info/official-windows-7-sp1-iso-from-digital-river/\n). Þá gerist bara það sama er að byrja á merkinu og endurræsir sig. Ég náði mér í ubuntu og setti á usb kubb og keyri af honum án þess að installa. \nEr eitthvað sem ég get gert til að koma henni í gang eða er ég bara að fara með hana í tölvutækni í viðgerð ?",
+            "date": "2012-08-26 15:07:00",
+            "post_id": "463172",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "BjarniTS",
+            "text": "Ætla ég að skjóta á bilun í SSD.",
+            "date": "2012-08-26 15:13:00",
+            "post_id": "463174",
+            "reply_to_id": "463172"
+        },
+        {
+            "user_name": "kariorn",
+            "text": "Þetta vandamál er ennþá þegar ég er búinn að taka SSD úr vélinni og reyni að starta henni af windows disk. Endurræsir sig á nákvæmlega sama stað.",
+            "date": "2012-08-26 15:15:00",
+            "post_id": "463175",
+            "reply_to_id": "463174"
+        },
+        {
+            "user_name": "BjarniTS",
+            "text": "Ertu að keyra þessa ISO uppsetningu af geisladisk eða USB lykli ? \nEf að þú ert að keyra af geisladisk , passaðir þú ekki að skrifa hann á minnsta mögulega hraða ? , hef lent í vandamálum með diska sem hafi verið skrifaðir á hraða yfir 4x eða álíka. \nAnnars mæli ég með USB uppsetningu : \nhttp://www.intowindows.com/how-to-insta ... ing-guide/\nÉg hef margoft séð bilun í SSD koma fram sem svona sérkennileg frostvandamál.  Næst myndi ég skoða aflgjafa ef að þú ert búinn að útiloka SSD.",
+            "date": "2012-08-26 15:34:00",
+            "post_id": "463178",
+            "reply_to_id": "463175"
+        },
+        {
+            "user_name": "kariorn",
+            "text": "Ég notaði bæði fyrst disk og svo seinna USB (notaði þetta forrit\nhttp://www.intowindows.com/how-to-create-bootable-windows-7-usb-to-install-windows-7-from-usb-flash-drive-using-windows-7-dvdusb-tool/\n). Ég er búinn að prófa ssd með \"error check\" (diska management í windows) með utanáliggjandi boxi og það kom allt fínt út. ( var reyndar ekki búinn að scanna eftir bad sectors, en gat náð í gögn af disknum án vandræða)",
+            "date": "2012-08-26 16:01:00",
+            "post_id": "463186",
+            "reply_to_id": "463178"
+        }
+    ],
+    "date": "2012-08-26 15:07:00"
+}

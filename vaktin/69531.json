@@ -1,0 +1,51 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "69531",
+    "title": "Ecxel aðstoð óskast.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=69531",
+    "posts": [
+        {
+            "user_name": "urban",
+            "text": "Jæja, byrjum á því, ég er alveg gersamlega vonlaus á þetta forrit, á að kunna eitthvað smávegis en því miður aldrei nóg.\nÉg er semsagt í vandræðum með  svona skjal\nhttps://docs.google.com/spreadsheets/d/ ... sp=sharing\nVona að þið sjáið þetta.\nEn já, ég er semsagt að vinna með þetta í Excel 2013, vantaði bara að leyfa ykkur að sjá þetta þarna á google docs, er ekki að vinna þetta þar.\nEn vandamálið er svo sem ekki flókið.\nMig vantar að fela losna við #DIV/0! villuna þannig að hún sjáist ekki.\nhelvítis vesen hjá Excel að geta bara ekki deild með núlli, hvaða rugl er þetta.\nen já, það sem að ég er semsagt búin að prufa \nhttps://support.office.com/en-us/articl ... c1dbb9043d\nÞessi hérna virkar bara ekki hjá mér.\nSemsagt \nKóði: \nVelja allt\n=IFERROR(B1/C1,0)\n neitar Excel bara að skilja sem formúlu og virðist engu skipta hvað ég geri.\nMér er svo sem slétt sama hvernig þetta hverfur, ég þarf semsagt að hafa tengingarnar áfram á milli síðna og þarf að geta prentað út útkomu síðuna allt uppí 2 í viku, en í 1 í mánuði.\nFylli inní hinar síðurnar reglulega en vantar semsagt að fá útkomu síðuna án þessa #DIV/0! villu, hún mætti mín vegna vera \"glær/hvít\"\nVil bara ekki prenta hana út.\nNú vantar mig semsagt aðstoð frá ykkur excel snillingunum hvernig ég á að gera þetta, er búin að googla mig fram og til baka og gera mig gráhærðari en ég er og ég bara má ekki við því að halda áfram.",
+            "date": "2016-05-25 11:40:00",
+            "post_id": "624348",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Vaski",
+            "text": "varstu búin að prófa að notast við semikommu í staðin fyrir kommu? Sem sagt svona\nKóði: \nVelja allt\n =IFERROR(B1/C1;0)",
+            "date": "2016-05-25 11:44:00",
+            "post_id": "624349",
+            "reply_to_id": "624348"
+        },
+        {
+            "user_name": "Porta",
+            "text": "Getur þú ekki bara iffað gildin áður en þú framkvæmir útreikninginn, ef það er 0 þá skilar þú \"0\" eða \"\", ef ekki þá framkvæmir þú útreikninginn?",
+            "date": "2016-05-25 11:48:00",
+            "post_id": "624351",
+            "reply_to_id": "624349"
+        },
+        {
+            "user_name": "urban",
+            "text": "að \"iffa gildin\" nú bara gætir þú alveg eins talað á rússnensku \nEkki gleyma því að útskýra þetta handa einhverjum 5 ára \nEn málið er semsagt að það verða 4 - 5 að fylla inní skjalið, semsagt brúttó nettó tölurnar í hverju nafni\nRestin af skjalinu verður síðan læst.\nen já þar sem að ég er sjálfagt manna bestur á Excel af þessum sem að kom atil með að nota skjalið, þá eiginlega verður það að vera alveg klárt, semsagt ef að einvher fyllir inní brúttó/nettó þá þarf þetta að reiknast alveg rétt út og færist inní \"útkoma\" flipann.(sem að er sá eini sem að prentast út síðan)\nEkki það, það gerir það núna, það fer bara alveg hrikalega í taugarnar á mér að hafa þennan error.\nMér var svo sem búið að detta til hugar að finna út leið til þess að gera errorinn bara hvítann, þá náttúrulega prentast hann ekki út og mér er slétt sama.\nHugsunin er semsagt að gera þetta bara auðlesanlegra.",
+            "date": "2016-05-25 12:45:00",
+            "post_id": "624355",
+            "reply_to_id": "624351"
+        },
+        {
+            "user_name": "Baldurmar",
+            "text": "Þetta ætti að laga þetta hjá þér \nSetur í staðinn fyrir deilinguna : =IF(H9=0;0;H8/H9)\n=IF( *skilyrði* ; *það sem gerist ef skilyrði er uppfyllt* ; *Það sem gerist þegar skilyrði er ekki uppfyllt*)",
+            "date": "2016-05-25 13:12:00",
+            "post_id": "624356",
+            "reply_to_id": "624355"
+        },
+        {
+            "user_name": "urban",
+            "text": "Þakka þér",
+            "date": "2016-05-25 13:17:00",
+            "post_id": "624357",
+            "reply_to_id": "624356"
+        }
+    ],
+    "date": "2016-05-25 11:40:00"
+}

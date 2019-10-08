@@ -1,0 +1,72 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "9125",
+    "title": "opna port",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=9125",
+    "posts": [
+        {
+            "user_name": "Vortex",
+            "text": "ég var að ná í DC++ og þá þarf ég nottla að opna port svo ég fór á þessa síðu \nhttp://portforward.com/default.htm\n\n\nÉg er með zyxel prestige 600 svo þegar ég var búinn að fynna leiðbeiningar fyrir rouderin. Þá sá ég að það var DC++ svo ég valdi það og fór svo eftir leiðbeiningum en svo er málið að ég gat ekki gert allt vegna þess að einn valmöguleikin kom ekki eða þessi sem er með rauðan hring utan um á mynd hér fyrir neðan.\n\n\n\nsvo veit einnhver hvað ég gæti gert ?",
+            "date": "2005-11-27 01:47:00",
+            "post_id": "98112",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "þú.. setur þessar tölur inn ?",
+            "date": "2005-11-27 02:23:00",
+            "post_id": "98113",
+            "reply_to_id": "98112"
+        },
+        {
+            "user_name": "Vortex",
+            "text": "Ég get ekki sett þessar tölur inn vegna þess að það er ekki í boði",
+            "date": "2005-11-27 12:06:00",
+            "post_id": "98117",
+            "reply_to_id": "98113"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "lol... þetta inní rauða hringnum er eitthvað sem var bætt inn þarna sem dæmi. þú átt að skrifa þetta í línurnar. tildæmis í línu 2.",
+            "date": "2005-11-27 13:08:00",
+            "post_id": "98128",
+            "reply_to_id": "98117"
+        },
+        {
+            "user_name": "Vortex",
+            "text": "ohhh a' hlaut að vera. takk",
+            "date": "2005-11-27 14:03:00",
+            "post_id": "98132",
+            "reply_to_id": "98128"
+        },
+        {
+            "user_name": "Vortex",
+            "text": "þetta virkar samt ekki   \n\n\n\n\nGetur það nokkuð verið að það skipti máli ef ég er með dcf++ en þetta er fyrur dc++ ?",
+            "date": "2005-11-30 17:50:00",
+            "post_id": "98547",
+            "reply_to_id": "98132"
+        },
+        {
+            "user_name": "Vortex",
+            "text": "ok takk\n\nþannig að ef ég skil þig rétt þá þarf ég semsagt að opna portið og segja svo dc að nota þetta port",
+            "date": "2005-11-30 19:26:00",
+            "post_id": "98554",
+            "reply_to_id": "98547"
+        },
+        {
+            "user_name": "Birkir",
+            "text": "Ætti samt að vera nær staðnum þar sem þú stillir Active/virkur",
+            "date": "2005-12-01 00:18:00",
+            "post_id": "98595",
+            "reply_to_id": "98554"
+        },
+        {
+            "user_name": "Vortex",
+            "text": "semsagt tengingar stillingar",
+            "date": "2005-12-01 12:33:00",
+            "post_id": "98627",
+            "reply_to_id": "98595"
+        }
+    ],
+    "date": "2005-11-27 01:47:00"
+}

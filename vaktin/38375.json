@@ -1,0 +1,44 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "38375",
+    "title": "Finn ekki harðann disk",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=38375",
+    "posts": [
+        {
+            "user_name": "ingisnær",
+            "text": "Ég var að fá nýja tölvu í dag og setti upp windows 7 á ssd diskinn og allt í fína nema það þegar ég fer í my computer þá sést ekki venjulegi harði diskurinn bara ssd diskurinn hjááálp.\nkv.ingi",
+            "date": "2011-05-06 17:29:00",
+            "post_id": "346803",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "zdndz",
+            "text": "jumper-inn vitlaust stilltur á venjulega harða disknum ?",
+            "date": "2011-05-06 17:47:00",
+            "post_id": "346805",
+            "reply_to_id": "346803"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Þarft örugglega bara að gefa honum drive letter\nhægri-smell á Computer > Manage > finna diskinn > hægri klikka á honum > change drive letters and paths",
+            "date": "2011-05-06 18:25:00",
+            "post_id": "346812",
+            "reply_to_id": "346805"
+        },
+        {
+            "user_name": "ingisnær",
+            "text": "get ekki gert change drive letters and paths en ég fann hann og það stendur unallocated hvað þýðir það?",
+            "date": "2011-05-06 20:13:00",
+            "post_id": "346831",
+            "reply_to_id": "346812"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "það þýðir að það er ekkert partition sem að windows getur lesið á disknum\nhvaða filesystem var á honum?",
+            "date": "2011-05-06 20:15:00",
+            "post_id": "346834",
+            "reply_to_id": "346831"
+        }
+    ],
+    "date": "2011-05-06 17:29:00"
+}

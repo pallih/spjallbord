@@ -1,0 +1,30 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "59225",
+    "title": "Vantar íslenska stafi í C# Console application",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=59225",
+    "posts": [
+        {
+            "user_name": "eriksnaer",
+            "text": "Góðan dag. Er að gera verkefni í skólanum með C# Console application en næ ekki að nota ísl. stafi....\nHvernig fæ ég þá inn....\nKv. Erik",
+            "date": "2014-01-16 14:21:00",
+            "post_id": "547296",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "http://stackoverflow.com/questions/3884 ... d-line-how",
+            "date": "2014-01-16 14:32:00",
+            "post_id": "547298",
+            "reply_to_id": "547296"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Svo sorglegt að þett skuli enn vera vandamál í tölvuheiminum enn í dag ..\nEn, þetta ræðst af því hvaða codepage er uppsett í stýrikerfinu.\nÞú getur hinsvegar komist fram hjá því með því að skoða Encoding/Localization.",
+            "date": "2014-01-16 14:46:00",
+            "post_id": "547299",
+            "reply_to_id": "547298"
+        }
+    ],
+    "date": "2014-01-16 14:21:00"
+}

@@ -1,0 +1,170 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "491",
+    "title": "Asp vs. php",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=491",
+    "posts": [
+        {
+            "user_name": "Voffinn",
+            "text": "Jæja...núna er ég kominn með html svona sirka á hreint \n.\n\nOg ætli mar haldi ekki áfram... en getur einhver bent mér á hver sé munurinn á asp og php og hvort sé betra að læra á... og hvar ég geti fundið einhverjar svona leiðbeiningar",
+            "date": "2003-03-23 20:19:00",
+            "post_id": "3097",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Castrate",
+            "text": "Ég hef ekki hundsvit á þessu en ég held að php sé betra og meira notað heldur en asp. En eins og ég sagði ég veit ekkert um þessi 2 mál. Þetta forum er tildæmis gert með php i think.",
+            "date": "2003-03-23 20:28:00",
+            "post_id": "3098",
+            "reply_to_id": "3097"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Jamms, þetta forum er gert í PHP enda er það eina vitið í dag  \n\n\nT.d. PHP er open-source en ASP ekki. Svo held ég að það séu mun fleiri PHP tutorial'ar á netinu heldur en ASP. \nSvo er ASP frá Microsoft \n:twisted:\n\n\n\nps. <held ég>",
+            "date": "2003-03-23 22:29:00",
+            "post_id": "3110",
+            "reply_to_id": "3098"
+        },
+        {
+            "user_name": "Castrate",
+            "text": "hmm. það þyrfti að fá einhvern hérna sem veit meira um svona mál...forritara kannski?",
+            "date": "2003-03-24 00:24:00",
+            "post_id": "3120",
+            "reply_to_id": "3110"
+        },
+        {
+            "user_name": "Gothiatek",
+            "text": "Sjálfur kann ég ekki ASP og get því ekki sagt mikið til um muninn á ASP og PHP....en ég segi hiklaust PHP PHP PHP PHP PHP \nPHP\n.\n\nEins og kom fram er PHP open source, það er til fullt af tutorials og kóða dæmum á netinu.  Einnig er mun \"auðveldara og ódýrara\" að geyma PHP síður heldur en ASP með því að nota t.d. MySQL og Apache...sem eru bæði open source og ókeypis.\n\n\n\nÞví mæli ég sterklega með því að þú skoðir PHP, það rúlar",
+            "date": "2003-05-29 12:11:00",
+            "post_id": "6133",
+            "reply_to_id": "3120"
+        },
+        {
+            "user_name": "Castrate",
+            "text": "ég hef sjálfur verið að fikta í php aðeins get ekki sagt annað en þetta er snilldar mál er búin að setja upp php fréttakerfi fyrir nokkrar síður mjög þægilegt að nota þetta",
+            "date": "2003-05-29 12:38:00",
+            "post_id": "6136",
+            "reply_to_id": "6133"
+        },
+        {
+            "user_name": "Merlin",
+            "text": "Allt spurning um hvað þú vilt læra. Ég hætti mér ekki út í hvort er betra... Hefur eflaust bæði sína kosti og galla.\n\n\n\nÉg hef forritað í PHP í mörg ár og kann ágætlega við það, syntaxinn er einfaldur og það eru endalausir möguleikar, nóg af leiðbeiningum á netinu og svo auðvitað þarftu ekki að kaupa Windows server til að meiga keyra þetta á netinu (já, ég veit að margir ræna þessu bara).\n\n\n\nSvo er þetta líka spurning um hýsingu. Ef þú ert með vefsvæði á IIS (Windows) þjóni þá er þægilegra að nota ASP. Ef þú ert með Apache (Windows/Linux) þá er PHP þægilegri kostur.\n\n\n\nSvo í sambandi við gagnagrunna, þá er MySQL ókeypis möguleiki og einnig vel documentað með PHP. MSSQL er miklu stærra fyrirbæri og auðvitað kostar helling líka.\n\n\n\nFyrir fátæka fiktara held ég að PHP/MySQL sé málið.",
+            "date": "2003-06-05 16:30:00",
+            "post_id": "6362",
+            "reply_to_id": "6136"
+        },
+        {
+            "user_name": "valdiorn",
+            "text": "ég nota asp en kann ekki mikið á það. ég kann ekki rass í bala í php (kannski maður ætti að breyta því?).\n\nASP reynist þokkalega vel með það sem ég er að gera, en eins og ég sagði, þá kann ég ekki mikið og er bara að nota þetta í einfalda access databeisa og þannig dót.\n\nég held að það væri gáfulegra að læra fyrst php, mér skilst að það bjóði upp á betri möguleika + maður getur keyrt php á apache sem er open source og ókeypis",
+            "date": "2003-09-09 23:02:00",
+            "post_id": "12912",
+            "reply_to_id": "6362"
+        },
+        {
+            "user_name": "Lakio",
+            "text": "PHP",
+            "date": "2003-09-11 11:24:00",
+            "post_id": "13125",
+            "reply_to_id": "12912"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "úúú, þú ert svo 1337 Lakio með alla þessa liti og stærðir á stöfum...",
+            "date": "2003-09-11 12:52:00",
+            "post_id": "13128",
+            "reply_to_id": "13125"
+        },
+        {
+            "user_name": "tms",
+            "text": "Voffi er þetta eitthvað mál?\n\nASP = Microsoft\n\nPHP = Open source",
+            "date": "2003-09-11 16:46:00",
+            "post_id": "13136",
+            "reply_to_id": "13128"
+        },
+        {
+            "user_name": "Fox",
+            "text": "Myndi velja ASP.\n\nÞað á eftir að vera mjög ríkjandi þegar .net hefur náð almennilegri fótfestu.",
+            "date": "2003-11-10 09:31:00",
+            "post_id": "19531",
+            "reply_to_id": "13136"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "asp = kostar\n\nphp = kostar ekki",
+            "date": "2003-11-10 14:55:00",
+            "post_id": "19556",
+            "reply_to_id": "19531"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Næst þegar voffinn gerir grín að einhverjum fyrir að vita ekki neitt ætla ég að grafa upp alla gamla pósta sem ég finn eftir hann",
+            "date": "2003-11-10 15:52:00",
+            "post_id": "19569",
+            "reply_to_id": "19556"
+        },
+        {
+            "user_name": "Fox",
+            "text": "Voða finnst mér opensource menn alltaf vera harðir á því, að ef einhvað kostar þá borgar það sig ekki.",
+            "date": "2003-11-11 13:26:00",
+            "post_id": "19722",
+            "reply_to_id": "19569"
+        },
+        {
+            "user_name": "Gothiatek",
+            "text": "Þetta er bara spurning um að nota t.d. Linux, Apache, PHP og MySQL sem er mjög fín blanda og ókeypis heldur en að borga fleiri hundruð þúsund fyrir sambærilega vöru",
+            "date": "2003-11-11 15:49:00",
+            "post_id": "19757",
+            "reply_to_id": "19722"
+        },
+        {
+            "user_name": "Friction",
+            "text": "Ég segi að þú ættir að læra bæði ef þú ætlar að leggja þetta fyrir þig",
+            "date": "2003-12-26 20:29:00",
+            "post_id": "25404",
+            "reply_to_id": "19757"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "hmm, er það ekki óþarfi? frekar að vera tvöfalt betri í öðru hvoru",
+            "date": "2003-12-26 21:08:00",
+            "post_id": "25405",
+            "reply_to_id": "25404"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "Þessi þráður ætlar ekki að drepast.",
+            "date": "2003-12-26 21:39:00",
+            "post_id": "25408",
+            "reply_to_id": "25405"
+        },
+        {
+            "user_name": "smarig88",
+            "text": "Ég persónulega valdi PHP, ástæða? Miklu auðveldara að finna tutorials á netinu og svoleiðis. \n\nÉg hef ekkert á móti ASP þótt það sé frá Microsoft.\n\n\n\nEn mín skoðun er að þú ættir að læra PHP, MySQL og fá þér Apache server. Ef þú ætlar að keyra hann á windows þá mæli ég með Apache 2 Triad, mjög þægilegur, ekki frá Apache group. Hann er gerður fyrir Windows og það er uppsett MySQL, PHP, ASP, Perl, Python, PHP-Nuke vefumsjónarkerfið og margt margt fleira. \nhttp://apache2triad.sourceforge.net",
+            "date": "2004-03-03 21:51:00",
+            "post_id": "33959",
+            "reply_to_id": "25408"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "truer words have not been spoken",
+            "date": "2004-03-03 23:33:00",
+            "post_id": "33968",
+            "reply_to_id": "33959"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "Mikið vatn hefur runnið til sjávar frá því að ég skrifaði þetta bréf og er ég núna 100% keyrandi á linux hérna heima og myndi sennilega læra php ef ég færi í þetta núna.\n\n\n\nÞakka álitið.\n\n\n\nMezzUp: Þokkalega",
+            "date": "2004-03-03 23:51:00",
+            "post_id": "33971",
+            "reply_to_id": "33968"
+        },
+        {
+            "user_name": "Jakob",
+            "text": "Thread LOCKED",
+            "date": "2004-03-04 04:54:00",
+            "post_id": "33989",
+            "reply_to_id": "33971"
+        }
+    ],
+    "date": "2003-03-23 20:19:00"
+}

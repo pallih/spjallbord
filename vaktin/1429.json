@@ -1,0 +1,100 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "1429",
+    "title": "DNS þjónar",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=1429",
+    "posts": [
+        {
+            "user_name": "OverClocker",
+            "text": "Er hægt að komast í DNS server fyrir .is lén sem kostar ekkert?\n\nEitthvað svipað og myDNS.com (isnic vill ekki samþykkja hann)?",
+            "date": "2003-09-04 17:09:00",
+            "post_id": "12327",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gumol",
+            "text": "Setja bara upp DNS þjóna sjálfur \n\n\n\n\nEr ekki hægt að setja upp nafnþjón sem hýsir eigin lén?",
+            "date": "2003-09-04 17:12:00",
+            "post_id": "12328",
+            "reply_to_id": "12327"
+        },
+        {
+            "user_name": "tms",
+            "text": "nei",
+            "date": "2003-09-04 22:40:00",
+            "post_id": "12370",
+            "reply_to_id": "12328"
+        },
+        {
+            "user_name": "OverClocker",
+            "text": "Það þarf tvo nafnaþjóna á sitthvorri IP tölunni.",
+            "date": "2003-09-04 23:48:00",
+            "post_id": "12383",
+            "reply_to_id": "12370"
+        },
+        {
+            "user_name": "gumol",
+            "text": "ok, en ég sá nú sammt á \nhttp://www.isnic.is\n að það er hægt að hísa eigin heimasíðu á nafnþjóni.",
+            "date": "2003-09-04 23:51:00",
+            "post_id": "12385",
+            "reply_to_id": "12383"
+        },
+        {
+            "user_name": "Gothiatek",
+            "text": "Held að það sé í lagi að hýsa heimasíðu á nafnþjóni, en þú þarft einvhern annan nafnþjón að auki.",
+            "date": "2003-09-05 08:30:00",
+            "post_id": "12394",
+            "reply_to_id": "12385"
+        },
+        {
+            "user_name": "gumol",
+            "text": "kaupa bara 2 adsl tengingar og setja upp 2 nafnþjóna",
+            "date": "2003-09-05 11:58:00",
+            "post_id": "12399",
+            "reply_to_id": "12394"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "er ekki hægt að stofan dns server sjálfur og setja sjálfur upp domain án þess að þurfa að tala við einhver skrifstofu rassgöt útí bæ? \n\n\n\ngumol: stofna dns memð mér?",
+            "date": "2003-09-05 12:12:00",
+            "post_id": "12400",
+            "reply_to_id": "12399"
+        },
+        {
+            "user_name": "Odinn",
+            "text": "þú getur fengið fría dns þjónustu hjá tildæmis xname.org og \nhttp://www.start.is/services/freeServices.html\n :) skemmtu þér í druslur við þetta.\n\n\n\nÞú getur líka verið með dns á sömu vél og þú hóstar vefinn á ekkert mál.  Ég er að gera það allavegana :).\n\n\n\nMkv,\n\nÓðinn",
+            "date": "2003-09-14 20:19:00",
+            "post_id": "13357",
+            "reply_to_id": "12400"
+        },
+        {
+            "user_name": "Fox",
+            "text": "Ég á DNS þjón sem þú getur fengið að hýsa lénið þitt á, er bara með Primary svo þú yrðir þá einnig að finna þér secondary.",
+            "date": "2003-10-15 19:28:00",
+            "post_id": "16550",
+            "reply_to_id": "13357"
+        },
+        {
+            "user_name": "Fragman",
+            "text": "Ég er með 2 nafnaþjóna á minni tengingu og þeir duga bara ágætlega",
+            "date": "2003-11-23 22:51:00",
+            "post_id": "21150",
+            "reply_to_id": "16550"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "en þarf ekki að kaupa leyfi til að hýsa nöfnin?",
+            "date": "2003-11-23 23:35:00",
+            "post_id": "21154",
+            "reply_to_id": "21150"
+        },
+        {
+            "user_name": "Fragman",
+            "text": "Nei, þess þarf ekki. Það kostar ekkert hjá Isnic að skrá nafnaþjón hjá þeim og hjá þeim erlendu þarftu ekkert að skrá þá sérstaklega.",
+            "date": "2003-11-24 00:17:00",
+            "post_id": "21164",
+            "reply_to_id": "21154"
+        }
+    ],
+    "date": "2003-09-04 17:09:00"
+}

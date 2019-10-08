@@ -1,0 +1,100 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "63834",
+    "title": "Smá vesen með pixlað IPTV",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=63834",
+    "posts": [
+        {
+            "user_name": "GuðjónR",
+            "text": "Er með IPTV hjá Símanum og ljósnet hjá Hringdu.\nIPTV er tengt með cat5 beint í router sem er beintengdur í inntakið.\nÞetta setup hefur virkað ágætlega í meira en ár en undanfarið er hefur það eitthvað verið að breytast.\nNúna er það þannig að ef ég DL á sama tíma og TV er í gangi, þá sérstaklega HD rásin, tímaflakk eða VOD þá pixlast sjónvarpið í ræmur.\nEr að ná allt að 6.3MBsec í niðurhal en sjónvarpið fer í rusl jafnvel þó ég takmarki hraðann við 1.5MBs.\nBandvíddin hjá mér (Up/Down) [kbps/kbps]:\t29.438 / 64.918\nDettur einhverjum í hug hvað gæti verið að?",
+            "date": "2015-01-01 16:05:00",
+            "post_id": "585512",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Hargo",
+            "text": "Lenti í svipuðu hjá mér og skipti um router, hefur verið til friðs síðan. Routerinn hjá mér var líka að restarta sér reglulega og þoldi alls ekki torrent álag, þá fór einmitt sjónvarpið oft í rugl og utanhússamband datt út á netinu en local samband var í lagi.",
+            "date": "2015-01-01 17:05:00",
+            "post_id": "585518",
+            "reply_to_id": "585512"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Já ekki ósennilegt að þetta sé bara routerinn, frekar léleg ending samt á router, eitt og hálft ár.\nÞað er svo stutt í ljósleiðaran að það borgar sig ekki að kaupa nýjan.\nTorrent virðist algjörlega drepa IPTV ið, hef líka lent í pixlum og vesen án þess að vera að downloda.",
+            "date": "2015-01-01 17:42:00",
+            "post_id": "585522",
+            "reply_to_id": "585518"
+        },
+        {
+            "user_name": "tdog",
+            "text": "Það er ekkert skrítið við það að torrent dragi vinnslugetu routersins niður. Tengingarnar eru margar á stuttum tíma, eitthvað sem að venjulegur heimilisbúnaður er hreinlega ekki hannaður til þess að meðhöndla.",
+            "date": "2015-01-01 18:41:00",
+            "post_id": "585530",
+            "reply_to_id": "585522"
+        },
+        {
+            "user_name": "GullMoli",
+            "text": "Einmitt ein af ástæðum þess að ég skellti upp pfSense router heima \n Flest allt sem símafélagið skaffaði þoldi ekkert álag..",
+            "date": "2015-01-01 18:59:00",
+            "post_id": "585531",
+            "reply_to_id": "585530"
+        },
+        {
+            "user_name": "hkr",
+            "text": "Spurning líka hvernig torrent clientinn hjá þér er stilltur, gætir prufað að fikta í honum og takmarka fjölda tenginga o.fl. og sjá hvort að það breyti einhverju.",
+            "date": "2015-01-02 00:11:00",
+            "post_id": "585563",
+            "reply_to_id": "585531"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Búinn að prófa það \nÉg verð bara að downloda þegar TV er ekki í notkun, svo lagast þetta þegar ljósleiðarinn kemur.\nTekur því sig ekki að fjárfesta í nýjum router núna.\nRouterar virðast ekki þola til lendar svona torrent álag.",
+            "date": "2015-01-02 00:16:00",
+            "post_id": "585564",
+            "reply_to_id": "585563"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "ADSL routerar hafa aldrei ráðið við p2p ef það eru ekki góðar stillingar í gangi. Greinilega sama saga með vDSL. \nLækkaðu leyfilega peers í torrent forritinu ef þú ert að nota slíkt niður í svona 100. \nGætir þurft að lækka þig meira en það en það ætti ekki að koma um og of niður á hraðanum því það kýs að halda betri seeders inni.",
+            "date": "2015-01-02 00:22:00",
+            "post_id": "585567",
+            "reply_to_id": "585564"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Er með global maximum connection 60 peers.",
+            "date": "2015-01-02 00:27:00",
+            "post_id": "585571",
+            "reply_to_id": "585567"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Og það plús 1.5MBs hámörkun laggar samt sjónvarpið? Það er svo léleg frammistaða hjá routernum að ég trúi því ekki að hann sé í góðu standi. \nReyndu að fá honum útskipt fyrir annan hjá Hringdu.\nÞú ert að borga fyrir betri frammistöðu og þjónustu en þetta.",
+            "date": "2015-01-02 00:29:00",
+            "post_id": "585574",
+            "reply_to_id": "585571"
+        },
+        {
+            "user_name": "playman",
+            "text": "Er líka alltaf að lenda í pixla veseni en ekkert í líkingu eins og á þessu myndbandi.\nEr með ADSL línu og alltaf þegar að ég nota play á HD rásunum þá pixlast myndin á sirka 10-15 mín fresti og einnig dettur hljóðið úr sinc en lagast\neftir að myndin pixlast, gerist þó að ekkert annað sé í gangi.\nEr með \"nýan\" router og myndlykil (1-2 ára gamlan búnað)",
+            "date": "2015-01-02 00:51:00",
+            "post_id": "585577",
+            "reply_to_id": "585574"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Málið er bara að IPTV þolir lítið sem ekkert pakkatap.\nOg ef mig minnir rétt þá þarf SD lykill um 3-4Mpbs og HD lykill um 7Mbps.",
+            "date": "2015-01-02 10:27:00",
+            "post_id": "585607",
+            "reply_to_id": "585577"
+        },
+        {
+            "user_name": "Plushy",
+            "text": "Ætti að vera 4 fyrir SD og 8 fyrir HD en já, þarf lítið til að það valdi svona truflunum. Oftast er það tengingin milli myndlykils og routers sem veldur brenglun og pixlun á myndinni.",
+            "date": "2015-01-02 10:33:00",
+            "post_id": "585609",
+            "reply_to_id": "585607"
+        }
+    ],
+    "date": "2015-01-01 16:05:00"
+}

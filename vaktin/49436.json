@@ -1,0 +1,58 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "49436",
+    "title": "Hvernig er bootable brennsla sett á dvd disk?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=49436",
+    "posts": [
+        {
+            "user_name": "frikki1974",
+            "text": "Gæti einhver sagt mér hvernig á að gera bootable dvd disk?",
+            "date": "2012-08-02 15:05:00",
+            "post_id": "458191",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AciD_RaiN",
+            "text": "http://www.drivesnapshot.de/en/bootcd.htm\nGetur notað nero í þetta og ef þú addar iso file beint inn þá á hann að gera þetta sjálfkrafa",
+            "date": "2012-08-02 15:50:00",
+            "post_id": "458198",
+            "reply_to_id": "458191"
+        },
+        {
+            "user_name": "frikki1974",
+            "text": "Botna ekkert í þessu...en er ekki til eitthvað einfald dæmi í þetta?",
+            "date": "2012-08-02 16:32:00",
+            "post_id": "458202",
+            "reply_to_id": "458198"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Útskýrðu betur hvað þú ert að reyna að gera. ef þú ert með ISO file, þá er hann annaðhvort bootable eða ekki, kemur brennslunni sjálfri voða lítið við.\nhttp://www.poweriso.com/tutorials/make-bootable-cd.htm\n ?",
+            "date": "2012-08-02 16:36:00",
+            "post_id": "458203",
+            "reply_to_id": "458202"
+        },
+        {
+            "user_name": "frikki1974",
+            "text": "Er með ISO fæl sem er Windows 7 og ég þarf að hafa hann bootable",
+            "date": "2012-08-02 16:53:00",
+            "post_id": "458205",
+            "reply_to_id": "458203"
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "http://images2.store.microsoft.com/prod ... D-tool.exe\nNotar bara þetta tól.",
+            "date": "2012-08-02 17:01:00",
+            "post_id": "458206",
+            "reply_to_id": "458205"
+        },
+        {
+            "user_name": "Moquai",
+            "text": "ohh silly you, lést mig downloada þessu \nEn ég held að þú sért að flækja þetta of mikið, alltaf þegar ég hef bootað frá eitthverju þá hef ég bara brennt .iso fæl á disk -> boot from cd -> vouala",
+            "date": "2012-08-02 17:27:00",
+            "post_id": "458210",
+            "reply_to_id": "458206"
+        }
+    ],
+    "date": "2012-08-02 15:05:00"
+}

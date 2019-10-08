@@ -1,0 +1,51 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "42157",
+    "title": "Dokka fyrir 2 HDD sem styður RAID?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=42157",
+    "posts": [
+        {
+            "user_name": "Tiger",
+            "text": "Sælir vaktarar. Vitið þið hvort það sé seld einhverstaðar dokka hérna heima sem styður 2 HDD og raid á sama tíma? Ég veit að Tölvutek selur \nThermaltek dokku fyrir 2 HDD\n en hún styður ekki RAID.\nZalman framleiðir \nsvona\n snilldar dokku, en sé hvorki hana né neina þannig hérna heima, veit einhver hvort þetta sé selst einhverstaðar?",
+            "date": "2011-10-05 23:06:00",
+            "post_id": "385743",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "rapport",
+            "text": "Ég sé fyrir mér alveg future-istic útgáfu af Annie... með tilkomu svona RAID dokku...",
+            "date": "2011-10-05 23:15:00",
+            "post_id": "385747",
+            "reply_to_id": "385743"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Blessaður,\nvið eigum að geta fengið þessa Zalman dokku en er ekki með á hreinu hversu langur biðtími væri þar sem að hún er aðeins til hjá birgja sem við tökum sendingar með ca. 1-2mánaða millibili...\nVerðið sýnist mér að væri ca. 14-15þús kall (birt með fyrirvara), ef það er eitthvað sem hljómar sæmilega þá máttu endilega skutla pósti á \nsala@tolvutaekni.is\n og spyrjast fyrir um afhendingartíma, ég er lítið inn í sendingunum eins og er sökum anna í skólanum \nBeztu kveðjur,\nKlemmi\nTölvutækni",
+            "date": "2011-10-05 23:15:00",
+            "post_id": "385748",
+            "reply_to_id": "385747"
+        },
+        {
+            "user_name": "Tiger",
+            "text": "Takk fyrir það, ætla aðeins að googla eitt vafaatriðið áður en ég stekk á þetta, sem þú eða aðrir geta kannski svarað. Ég er með tvö sett af 2xHDD sem voru raidaðir saman í \"gamalli\" tölvu, er líklegt að ég geti endurbyggt það raid array með þessu og náð gögnum.....eða mun ég þurfa að tengja þetta við eins móðurborða eða raid controler til að það virki?",
+            "date": "2011-10-05 23:25:00",
+            "post_id": "385749",
+            "reply_to_id": "385748"
+        },
+        {
+            "user_name": "Glazier",
+            "text": "Mér finnst ekki líklegt að þetta muni virka.. ætla þó ekki að staðfesta það",
+            "date": "2011-10-05 23:27:00",
+            "post_id": "385750",
+            "reply_to_id": "385749"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Minnsta málið, en því miður er þetta einn af göllunum við hardware raid, þú þarft í flestum tilfellum að hafa samskonar RAID controller, hvort sem hann er á sér spjaldi eða innbyggður á móðurborð til þess að tengjast aftur arrayinu \nÉg er því miður ekki nægilega vel að mér í RAID-stæðu gagnabjörgun um það hvort það sé samt ekki örugglega til einhver græja sem virtualar/getur tengst diskum frá mismunandi controllerum, kæmi mér þó ekki mikið á óvart...",
+            "date": "2011-10-06 10:51:00",
+            "post_id": "385850",
+            "reply_to_id": "385750"
+        }
+    ],
+    "date": "2011-10-05 23:06:00"
+}

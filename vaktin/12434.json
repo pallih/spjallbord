@@ -1,0 +1,44 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "12434",
+    "title": "Get ekki hent út ATI driver",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=12434",
+    "posts": [
+        {
+            "user_name": "noizer",
+            "text": "Ég ætlaði að prófa að henda út Omega (3.8.291) og láta inn skjákorts driver sem er á Acer síðunni (er með Acer lappa) vegna þess að ég frís alltaf í HL2 og CSS. \n\nVandamálið er að ég get ekki hent út drivernum, það kemur allaf \"Error initializing.\"\n\nEinhver ráð til þess að henda þessum driver út?",
+            "date": "2006-12-11 14:29:00",
+            "post_id": "132780",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Ripper",
+            "text": "Hér eru leiðbeiningar um hvernig hægt er að fjarlægja driverinn ef einhver villa kemur fram  \n\n\n\n\nhttp://support.ati.com/ics/support/KBAn ... onID=20561",
+            "date": "2006-12-11 15:04:00",
+            "post_id": "132782",
+            "reply_to_id": "132780"
+        },
+        {
+            "user_name": "noizer",
+            "text": "Verða allar skrárnar á sama stað og ATI driverarnir eru? Því þetta er moddaður driver.",
+            "date": "2006-12-11 16:17:00",
+            "post_id": "132793",
+            "reply_to_id": "132782"
+        },
+        {
+            "user_name": "noizer",
+            "text": "Ég næ bara ekki að henda þessum driver út.\n\nÉg fór eftir leiðbeiningunum á ATI síðunni, leitaði síðan í registry að ati og henti því sem ég fann. Samt er þetta ennþá inni (sjá mynd).\n\nSvo er líka komið ATI merki í Task Bar sem var ekki áður.\n\n\n\nMálið að prófa að uninstalla í display adapters í Device Manager?",
+            "date": "2006-12-12 12:35:00",
+            "post_id": "132847",
+            "reply_to_id": "132793"
+        },
+        {
+            "user_name": "emmi",
+            "text": "Prófaðu \ndrivercleaner\n.",
+            "date": "2006-12-21 19:01:00",
+            "post_id": "133466",
+            "reply_to_id": "132847"
+        }
+    ],
+    "date": "2006-12-11 14:29:00"
+}

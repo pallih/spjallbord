@@ -1,0 +1,100 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "19129",
+    "title": "held að móðurborðið mitt sé bilað",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=19129",
+    "posts": [
+        {
+            "user_name": "hafsteinji",
+            "text": "ég var að kaupa \"intel core 2 Quad Q9550\" og oft þegar ég er að kveikja á tölvunni þá virkar allt nema kemur einginn mynd á skjáinn er bara svart og blikkar ljósið á skjánum þá restarta ég, þá kemur grár gluggu strax, og er hækkt að vélja \"Restore to Last Known Good Configuration\" og ég clicka bara á enter þá slöknast og kveiknar á tölvuni og þá er allti lagi með allt en stundum þarf ég að tala litla batteríið úr og láta það aftur i til að geta kveikt á tölvuni er móðurborðið að skemmast eða. ?\ner með \"GIGABYTE S-series 965P-DS3\" móðurborð\nætla kanski að fá nýtt móðurborð bráðlega hvað mæliði, með sem er gott með Quad core Q9550",
+            "date": "2008-08-28 13:48:00",
+            "post_id": "181206",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "mind",
+            "text": "Ertu búinn að uppfæra biosinn á þessu móðurborði ?",
+            "date": "2008-08-28 14:26:00",
+            "post_id": "181208",
+            "reply_to_id": "181206"
+        },
+        {
+            "user_name": "einarornth",
+            "text": "Ég myndi prófa að velja 'Restore to defaults' inni í BIOS-inu áður en þú ferð að afskrifa móðurborðið. Það gætu hangið inni óæskilegar stillingar eftir overclock, sérstaklega þar sem þú virðist ekki alveg vita hvað þú ert að gera",
+            "date": "2008-08-28 15:03:00",
+            "post_id": "181210",
+            "reply_to_id": "181208"
+        },
+        {
+            "user_name": "hafsteinji",
+            "text": "hvað ertu að meina með að uppfæra það ?",
+            "date": "2008-08-28 15:05:00",
+            "post_id": "181211",
+            "reply_to_id": "181210"
+        },
+        {
+            "user_name": "EmmDjei",
+            "text": "oft þarf að uppfæra móðurborð í version sem styður öfluga og nýja örgjörfa t.d quad\nættir að geta gert það hér ef mér skilst rétt \nhttp://www.gigabyte.com.tw/Support/Motherboard/BIOS_List.aspx\nen myndi fara varlega þegar þú gerir þetta, ef þú ert ekki viss á þessu myndi ég fá einhvern vin þinn sem kann þetta til að gera þetta fyrir þig.\n---\nég myndi nota gamla örgjörvann á meðan þú uppfærir biosinn og skipta svo eftir á",
+            "date": "2008-08-28 15:49:00",
+            "post_id": "181212",
+            "reply_to_id": "181211"
+        },
+        {
+            "user_name": "hafsteinji",
+            "text": "Hey ég fann þetta og á ég að downloada öllum þessum updateum mjög mörg.\ndownloada bara efsta nuna \nhttp://www.gigabyte.com.tw/Support/Moth ... uctID=2424",
+            "date": "2008-08-28 17:54:00",
+            "post_id": "181223",
+            "reply_to_id": "181212"
+        },
+        {
+            "user_name": "EmmDjei",
+            "text": "held þú þurfir nú ekki að downloada öllum...",
+            "date": "2008-08-28 18:04:00",
+            "post_id": "181226",
+            "reply_to_id": "181223"
+        },
+        {
+            "user_name": "hafsteinji",
+            "text": "hehe er algjör hálviti í kringum þessi móðurborð",
+            "date": "2008-08-28 18:10:00",
+            "post_id": "181228",
+            "reply_to_id": "181226"
+        },
+        {
+            "user_name": "EmmDjei",
+            "text": "neinei hvað er þetta",
+            "date": "2008-08-28 18:12:00",
+            "post_id": "181229",
+            "reply_to_id": "181228"
+        },
+        {
+            "user_name": "hsm",
+            "text": "Ef þú ert alger hálviti í kringum móðurborð (vitna í höfund) \n  Þá mundi ég ráðleggja þér að láta einhvern sem er ekki hálviti gera þetta fyrir þig",
+            "date": "2008-08-28 18:13:00",
+            "post_id": "181230",
+            "reply_to_id": "181229"
+        },
+        {
+            "user_name": "EmmDjei",
+            "text": "nákvæmlega, getur verið risky að flasha biosinu ef þú kannt það ekki",
+            "date": "2008-08-28 18:23:00",
+            "post_id": "181232",
+            "reply_to_id": "181230"
+        },
+        {
+            "user_name": "hafsteinji",
+            "text": "næ ekki að updata það er ekki 64-bit version af updateinu er samt að leita",
+            "date": "2008-08-28 18:34:00",
+            "post_id": "181236",
+            "reply_to_id": "181232"
+        },
+        {
+            "user_name": "einarornth",
+            "text": "Þú veist að BIOS-ið hefur ekkert að gera með windows 64-bit, ekki satt?",
+            "date": "2008-08-28 20:57:00",
+            "post_id": "181248",
+            "reply_to_id": "181236"
+        }
+    ],
+    "date": "2008-08-28 13:48:00"
+}

@@ -1,0 +1,79 @@
+{
+    "forum_title": "Windows",
+    "id": "49271",
+    "title": "Þarf ég að breyta um Windows XP?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=49271",
+    "posts": [
+        {
+            "user_name": "frikki1974",
+            "text": "Sælir en ég var að spá en ég hef núna Windows XP Professional 32-bit SP3 og hef haft það lengi og líkar vel en málið er að ég er með nýtt móðurborð og nýjan örgajafa sem ég ætla fara henda í tölvuna en þarf ég að henda í hana Windows XP Professional x64 Edition? eða get ég ekki bara haft Windows XP Professional 32-bit SP3 sem ég hef núna?\nMóðurborðið hér\nhttp://tolvulistinn.is/vara/23683\nÖrgjafinn hér \nhttp://tolvulistinn.is/vara/23733",
+            "date": "2012-07-26 14:38:00",
+            "post_id": "456537",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Afhverju í ósköpunum viltu halda þig við 11 ára gamalt stýrikerfi?\nEf þú ætlar að vera með meira en 3GB af RAM, þá er 32bita stýrikerfi að fara að halda aftur af þér. 64bit útgáfan af XP er þekkt fyrir að vera með driver vesen, en það eru reyndar til 64bit driverar fyrir þetta móðurborð sé ég á heimasíðunni þeirra.",
+            "date": "2012-07-26 14:48:00",
+            "post_id": "456540",
+            "reply_to_id": "456537"
+        },
+        {
+            "user_name": "Einsinn",
+            "text": "setja upp win 7 64bita allan daginn er mitt álit",
+            "date": "2012-07-26 14:50:00",
+            "post_id": "456541",
+            "reply_to_id": "456540"
+        },
+        {
+            "user_name": "frikki1974",
+            "text": "Asni er ég en ég auðvitað fattaði það ekki með vinnsluminnin en ég ætla hafa 8GB 2x4GB DDR3 1333MHz, en getur ekki 32bita stýrikerfi bara haft 4GB max?..eða hvernig var það?",
+            "date": "2012-07-26 14:53:00",
+            "post_id": "456542",
+            "reply_to_id": "456541"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "32bit:\n\"2 GB\nUp to 3 GB with IMAGE_FILE_LARGE_ADDRESS_AWARE and 4GT\"",
+            "date": "2012-07-26 14:57:00",
+            "post_id": "456543",
+            "reply_to_id": "456542"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "32Bita Windows limitar sig yfirleitt við 2.93GB af RAM. Eitt og eitt OS sem styður meira á x86 arkitektúr ef OS og HW styður PAE.\nUndir venjulegum kringumstæðum þarftu 64bita stýrikerfi til að nýta þér 8GB RAM.",
+            "date": "2012-07-26 14:59:00",
+            "post_id": "456545",
+            "reply_to_id": "456543"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "32Bita Windows takmarkar sig yfirleitt við 2.93GB af vinnsluminni. Eitt og eitt stýrikerfi sem styður meira á x86 arkitektúr ef stýrikerfið og vélbúnaðurinn styður \nPhysical Address Extension\n.\n^Ef ske kynni að þú hafir ekki skilið þetta skammstafanaflóð.",
+            "date": "2012-07-26 15:01:00",
+            "post_id": "456546",
+            "reply_to_id": "456545"
+        },
+        {
+            "user_name": "frikki1974",
+            "text": "Ég hendi í hana auðvitað Windows 7 Ultimate 64 Bit",
+            "date": "2012-07-26 15:03:00",
+            "post_id": "456548",
+            "reply_to_id": "456546"
+        },
+        {
+            "user_name": "frikki1974",
+            "text": "Eitt annað en þetta móðurborð styður Windows 7 Ultimate 64 Bit?...ekki satt!",
+            "date": "2012-07-26 15:04:00",
+            "post_id": "456550",
+            "reply_to_id": "456548"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Jú.",
+            "date": "2012-07-26 15:04:00",
+            "post_id": "456551",
+            "reply_to_id": "456550"
+        }
+    ],
+    "date": "2012-07-26 14:38:00"
+}

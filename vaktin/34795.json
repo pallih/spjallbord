@@ -1,0 +1,51 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "34795",
+    "title": "Permission í phpBB og tungumál",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=34795",
+    "posts": [
+        {
+            "user_name": "zdndz",
+            "text": "Sem sagt ég var að setja upp phpBB eins og hérna, en þarf að hafa tvennt:\n* Að \nekki\n sé hægt að búa til account á síðunni, bara admin getur gert það\n* Að gestir á síðunni geti ekki skoðað þræði á síðunni.\nÞetta væri líka hægt að gera með hafa bara password til að komast á síðuna (sem sagt password til að sjá phpBB forsíðuna) en veit ekki alveg hvernig það er gert\nöll hjálp er vel þegin  \nEDIT: ef einhver veit líka hvernig ég breyti öllu í íslensku þá væri það eitthvað sem ég hefði áhuga á",
+            "date": "2010-12-26 16:07:00",
+            "post_id": "306334",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "zdndz",
+            "text": "",
+            "date": "2010-12-27 16:03:00",
+            "post_id": "306603",
+            "reply_to_id": "306334"
+        },
+        {
+            "user_name": "zdndz",
+            "text": "",
+            "date": "2010-12-30 13:05:00",
+            "post_id": "307573",
+            "reply_to_id": "306603"
+        },
+        {
+            "user_name": "Páll",
+            "text": "Samb við að setja lykilorð á síðuna áður enn þú sérð phpbb forsíðuna þá mæli ég með htaccess ... EDIT: Fann hérna góðar leiðbeiningar- \nhttp://www.elated.com/articles/password ... -htaccess/\nSvo með permission með að gestir geta ekki skoðað flokkana og lesið, þá stjórnar þú því í \"permissions\" sem þú gerir þegar þú býrð til flokkana. \nOg ef þú vilt setja forumsið á íslensku = \nhttp://spjall.joomlis.net/viewtopic.php?f=7&t=64",
+            "date": "2010-12-30 14:53:00",
+            "post_id": "307588",
+            "reply_to_id": "307573"
+        },
+        {
+            "user_name": "zdndz",
+            "text": "snilld! einmitt sem ég var að leita eftir, takk",
+            "date": "2010-12-30 15:22:00",
+            "post_id": "307595",
+            "reply_to_id": "307588"
+        },
+        {
+            "user_name": "Páll",
+            "text": "Ekki vandamálið",
+            "date": "2010-12-30 15:47:00",
+            "post_id": "307604",
+            "reply_to_id": "307595"
+        }
+    ],
+    "date": "2010-12-26 16:07:00"
+}

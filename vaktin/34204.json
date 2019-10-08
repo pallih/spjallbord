@@ -1,0 +1,65 @@
+{
+    "forum_title": "Koníakstofan",
+    "id": "34204",
+    "title": "Er netið hjá einhverjum fleirum hægt?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=9&t=34204",
+    "posts": [
+        {
+            "user_name": "capteinninn",
+            "text": "Var að spá hvort einhver annar sé að lenda í hægu interneti. Er með 8 mb tengingu og næ yfirleitt kringum 5 mb þegar ég nota hraðatest símans en núna er ég talsvert lægri.\nEr eitthver annar að lenda í svipuðu.\nNiðurstöður úr speedtesti:\nclick START to re-test\nConnected to: hradi.simnet.is  --  Using IPv4 address\nAnother client is currently being served, your test will begin within 45 seconds\nChecking for Middleboxes . . . . . . . . . . . . . . . . . .  Done\nchecking for firewalls . . . . . . . . . . . . . . . . . . .  Done\nrunning 10s outbound test (client-to-server [C2S]) . . . . . 643.0kb/s\nrunning 10s inbound test (server-to-client [S2C]) . . . . . . 856.62kb/s\nYour PC is connected to a Cable/DSL modem\n [S2C]: Excessive packet queuing detected\nGetur einhver sagt mér hvað Excessive packet queuing detected er. Las einhverstaðar að maður geti tekið þetta út og þá ætti hraðinn eitthvað að aukast.",
+            "date": "2010-12-01 23:07:00",
+            "post_id": "299697",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Fylustrumpur",
+            "text": "Það er bara fínt hjá mér \n en ertu samt ekki með eitthvað torrent í gangi eða bara eitthvað forrit notar netið?",
+            "date": "2010-12-01 23:11:00",
+            "post_id": "299701",
+            "reply_to_id": "299697"
+        },
+        {
+            "user_name": "Daz",
+            "text": "TCP/Web100 Network Diagnostic Tool v5.4.11\nclick START to begin\nConnected to: hradi.simnet.is  --  Using IPv4 address\nChecking for Middleboxes . . . . . . . . . . . . . . . . . .  Done\nchecking for firewalls . . . . . . . . . . . . . . . . . . .  Done\nrunning 10s outbound test (client-to-server [C2S]) . . . . . 5.70Mb/s\nrunning 10s inbound test (server-to-client [S2C]) . . . . . . 20.78Mb/s [S2C]: Excessive packet queuing detected\nclick START to re-test\nvirðist fínt hjá mér",
+            "date": "2010-12-01 23:25:00",
+            "post_id": "299705",
+            "reply_to_id": "299701"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Ekkert í gangi nema Xbox tölvan",
+            "date": "2010-12-01 23:27:00",
+            "post_id": "299706",
+            "reply_to_id": "299705"
+        },
+        {
+            "user_name": "gissur1",
+            "text": "Er með alveg venjulegan niðurhalshraða en vefsíðuhlöðun er virkilega hæg.",
+            "date": "2010-12-01 23:30:00",
+            "post_id": "299709",
+            "reply_to_id": "299706"
+        },
+        {
+            "user_name": "GullMoli",
+            "text": "Restart router!",
+            "date": "2010-12-01 23:30:00",
+            "post_id": "299710",
+            "reply_to_id": "299709"
+        },
+        {
+            "user_name": "Lexxinn",
+            "text": "+1\nEdit: Router restartað daglega...",
+            "date": "2010-12-02 00:03:00",
+            "post_id": "299725",
+            "reply_to_id": "299710"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Eruð þið hjá Vodafone?",
+            "date": "2010-12-02 04:02:00",
+            "post_id": "299785",
+            "reply_to_id": "299725"
+        }
+    ],
+    "date": "2010-12-01 23:07:00"
+}

@@ -1,0 +1,163 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "4448",
+    "title": "Forsíðu vírus",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=4448",
+    "posts": [
+        {
+            "user_name": "_Brainy_",
+            "text": "Ég var á netinu fyrir stuttu og svo sagði vírusvörnin mér allt í einu að það væri vírus kominn í tölvuna og vírusvörin gæti ekki losað sig við hann.\n\nAlltaf þegar ég fer á netið kemur þessi forsíða \nhttp://searchpage.cc/1526/\n og ekki hægt að breyta. Svo gerist líka stundum þegar ég fer á einhverjar síður að það komi upp svona search gluggi frá leitarsíðunni (vírusnum) og hann er fyrir allri síðunni og ekki hægt að slökkva. Ef ég skrifa www á undan síðum sem ég ætla á þá kemur bara leitarsíðan þannig að ég þarf að skrifa http:// til að geta komist á síður.\n\nÉg er búinn að scanna með Stinger en hann fann ekki neitt, samt veit ég alveg að þetta er vírus.\n\nEr eina ráðið að formata eða er hægt að gera eitthvað annað?",
+            "date": "2004-06-17 01:23:00",
+            "post_id": "45329",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "heidaro",
+            "text": "Gæti þetta ekki verið svona hijacker dæmi...held það flokkist undir spyware...",
+            "date": "2004-06-17 02:49:00",
+            "post_id": "45333",
+            "reply_to_id": "45329"
+        },
+        {
+            "user_name": "Mysingur",
+            "text": "ég er bara nokkuð viss um að þetta sé spyware hjá þér... prufaðu að skanna með \nad-aware",
+            "date": "2004-06-17 07:34:00",
+            "post_id": "45341",
+            "reply_to_id": "45333"
+        },
+        {
+            "user_name": "_Brainy_",
+            "text": "Ég scannaði með Ad-Aware en það lagaðist ekki þannig að þetta er ekki spy ware",
+            "date": "2004-06-17 09:55:00",
+            "post_id": "45342",
+            "reply_to_id": "45341"
+        },
+        {
+            "user_name": "_Brainy_",
+            "text": "ég var að scanna tölvuna með houscall á netinu og það fannst einn vírus og hann er í C:WINDOWS og er svona .dll skrá og þegar ég ætlaði að eyða honum með houscall þá gat ég það ekki, það var sagt að það væri þegar í notkun",
+            "date": "2004-06-17 10:28:00",
+            "post_id": "45343",
+            "reply_to_id": "45342"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "getur prufað að start'a upp í safe mode og rename'a(ekki eyða strax, gæti verið mikilvæg skrá) þessa .dll skrá\n\n\n\nannars geturru líka prufað Spybot S&D, en varstu örugglega ekki með öll definitions updated á Ad-aware?",
+            "date": "2004-06-17 11:08:00",
+            "post_id": "45353",
+            "reply_to_id": "45343"
+        },
+        {
+            "user_name": "Emizter",
+            "text": "bara málið að hætta að nota IE og fara yfir i Opera  ? \n hann er ekki eins opinn fyrir svona drasli",
+            "date": "2004-06-17 11:40:00",
+            "post_id": "45357",
+            "reply_to_id": "45353"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Ég hef lent í þessu...óþolandi...lestu \nþessa grein\n vel og farðu eftir öllu þarna þá ættir þú að losna við þetta.",
+            "date": "2004-06-17 11:45:00",
+            "post_id": "45358",
+            "reply_to_id": "45357"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "ni, Firefox all the way!",
+            "date": "2004-06-17 12:00:00",
+            "post_id": "45360",
+            "reply_to_id": "45358"
+        },
+        {
+            "user_name": "_Brainy_",
+            "text": "Ég fór eftir þessari grein GuðjónR en það virkaði ekki. Ég er með eitthvað annað en þetta Cool Web Search. Þetta er leitarsíðan sem kemur alltaf upp hjá mér \n[VARÚÐ - smellið á eigin ábyrgð]\nhttp://searchpage.cc/1526/\n[VARÚÐ - smellið á eigin ábyrgð]",
+            "date": "2004-06-17 12:08:00",
+            "post_id": "45363",
+            "reply_to_id": "45360"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "Pff.. Ekki setja link á þetta !! ég fór einusinni inná svona link sem vinur minn var með og þá fékk ég þetta..",
+            "date": "2004-06-17 12:17:00",
+            "post_id": "45368",
+            "reply_to_id": "45363"
+        },
+        {
+            "user_name": "corflame",
+            "text": "Prófað að sækja \nHijackthis!\n.\n\nFinnur oft það sem t.d. Adaware finnur ekki",
+            "date": "2004-06-17 21:51:00",
+            "post_id": "45413",
+            "reply_to_id": "45368"
+        },
+        {
+            "user_name": "viddi",
+            "text": "þetta hendir öllu svona drasli út samstundis\n\n\n\nNoAdware",
+            "date": "2004-06-17 22:39:00",
+            "post_id": "45419",
+            "reply_to_id": "45413"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "HijackThis er oftast eina sem ræður við svona leiðindi..  Enda birtir það bara einfaldlega öll registry settings sem eru (hugsanlega) notuð til að vísa þér inn á eitthvað svona ad/spam drasl.\n\n\n\nÞú þarft að keyra HijackThis og eyða út öllum tilvísunum í þetta url.  Svo leynist yfirleitt einhverstaðar registry breyting sem er keyrð þegar Windows keyrir upp sem setur urlið allstaðar inn aftur.. þetta lagast ekki nema þú finnir eyðir því út líka.\n\n\n\nN.B! Ekki eyða út bara einhverju!!!\n  HijackThis gerir engan greinarmun á adware og því sem er nauðsynlegt fyrir tölvuna þína.  Og að sjálfsögðu notast þetta forrit algerlega á eigin spýtur \n  Ef þú ert ekki viss um hvað eitthvað er.. fléttu því upp á google..",
+            "date": "2004-06-18 09:51:00",
+            "post_id": "45434",
+            "reply_to_id": "45419"
+        },
+        {
+            "user_name": "Cicero",
+            "text": "Nota BSP Spyware Remover.\n\nEnnþá betra forrit en Ad-Aware",
+            "date": "2004-06-18 14:30:00",
+            "post_id": "45444",
+            "reply_to_id": "45434"
+        },
+        {
+            "user_name": "B31N1R",
+            "text": "Lenti í svipuðu með eitthvað sem heitir mywebsearch.....fór á oruggt.net og náði í hijack this og cws shredder plús spybot....náði að hreinsa þetta og fór svo að ráðum vaktarmanna og náði í FIREFOX og núna eru engin vandamál....vona að þetta hjálpi eitthvað.",
+            "date": "2004-07-27 16:06:00",
+            "post_id": "49739",
+            "reply_to_id": "45444"
+        },
+        {
+            "user_name": "Nemesis",
+            "text": "Ég fæ alltaf upp sama \nhttp://www.incredifind.com/\n helvítið ef ég fer á síðu sem virkar ekki eða hefur háan svartíma. Ég get ekki losnað við það ;l",
+            "date": "2004-07-27 16:51:00",
+            "post_id": "49744",
+            "reply_to_id": "49739"
+        },
+        {
+            "user_name": "GoDzMacK",
+            "text": "prufa spybot s&d, spy swepper og fá sér spywareblaster sem er svona spyware/adware firewall og scanna með \nhttp://housecall.trendmicro.com",
+            "date": "2004-07-27 20:30:00",
+            "post_id": "49797",
+            "reply_to_id": "49744"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Ég mæli nú með að googla svona, ég fann \nþetta\n sem efsta hitt í google um incredifind",
+            "date": "2004-07-27 21:27:00",
+            "post_id": "49806",
+            "reply_to_id": "49797"
+        },
+        {
+            "user_name": "axyne",
+            "text": "OHH var einmitt að lenda í þessu núna rétt áðan.\n\nÞETTA ER ALVEG ÓGEÐSLEGA PIRRANDI !!\n\n\n\nég var í sakleysu mínu að horfa á þáttí tölvunni síðan fer draslið að hökta, ég kíkí í task mananger og þá eru \"milljón\" internet explorer gluggar opnir þar en sjást ekki í taskbar.\n\n\n\nvildi ég hefði lesið þennan þráð áður en ég byrjaði að hreinsa. hefði auðveldað mér að leita að adware removerum.",
+            "date": "2004-07-27 23:00:00",
+            "post_id": "49816",
+            "reply_to_id": "49806"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Ein öruggasta leiðin til að losna við allt þetta spyware dót er að nota ekki internet explorer (og outlook). Firefox og Opera eru ekki bara lausir við spyware (99%) heldur eru flestir sem hafa prófað þau forrit sammála um að þau eru líka miklu betri",
+            "date": "2004-07-27 23:24:00",
+            "post_id": "49822",
+            "reply_to_id": "49816"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Efast stórlega að þessi tala sé nálægt raunveruleikanum.",
+            "date": "2004-07-29 21:08:00",
+            "post_id": "50062",
+            "reply_to_id": "49822"
+        }
+    ],
+    "date": "2004-06-17 01:23:00"
+}

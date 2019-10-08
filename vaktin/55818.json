@@ -1,0 +1,65 @@
+{
+    "forum_title": "Koníakstofan",
+    "id": "55818",
+    "title": "DRM í HTML5",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=9&t=55818",
+    "posts": [
+        {
+            "user_name": "appel",
+            "text": "W3C er nú með í gangi vinnu við EME, Encrypted Media Extension, sem í stuttu máli er viðbót við HTML5 sem gerir kleift að notast við DRM í video taginu.\nÞessu hefur verið mótmælt af fjölda aðilum og samtökum sem berjast fyrir frelsi á internetinu, m.a. IEE:\nhttps://www.eff.org/press/releases/eff- ... -drm-html5\nNánar:\nhttp://www.guardian.co.uk/technology/20 ... c-open-web",
+            "date": "2013-07-02 01:43:00",
+            "post_id": "517927",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "dori",
+            "text": "Mér finnst fyndnast að þeir sem eru að reyna að pusha þessu tala um að það sé svo gott að losna við \"proprietary extensions\" s.s. flash og silverlight. Eins og þetta sé eitthvað annað? Það að þetta hafi javascript API gerir það ekkert minna proprietary (ég meina, þú getur gert slíkt með flash líka). Kannski aðeins minna bloated, en það er engan vegin stóra málið (í þessu tilfelli).\nKlárlega eitthvað sem mun fara mjög illa með \"the open web\".",
+            "date": "2013-07-02 10:00:00",
+            "post_id": "517966",
+            "reply_to_id": "517927"
+        },
+        {
+            "user_name": "appel",
+            "text": "Akkúrat. Þú þarft nefnilega í staðinn fyrir flash eða silverlight að vera með proprietary CDM (Content Descrambling Module) \"black box\" plugin í browsernum.",
+            "date": "2013-07-02 14:25:00",
+            "post_id": "518000",
+            "reply_to_id": "517966"
+        },
+        {
+            "user_name": "kizi86",
+            "text": "hvenær ætlar fólk að fatta að drm er dautt?",
+            "date": "2013-07-02 17:18:00",
+            "post_id": "518020",
+            "reply_to_id": "518000"
+        },
+        {
+            "user_name": "dori",
+            "text": "DRM er ekki dautt. Engan vegin. Það er bara algjörlega gagnslaust.\nÞetta er svona \"security through obscurity\" týpa. Þeir vonast til að gera það nógu erfitt að brjóta DRMið þannig að það dragi úr því að fólk geri það. Svo með lögum eins og DCMA þá ertu náttúrulega kominn með glæp þegar fólk brýtur DRMið.\nEn þetta er í grunnin bara vond hugmynd þar sem það að reyna að neyða viðskiptavin þinn til að nota vöruna á einhvern sérstakan hátt er ekkert rosalega sniðugt. Jújú, ýttu undir það með því að búa til bestu upplifunina ef hann notar þína uppáhalds leið. En ef þú gerir það þannig að það sé ekki hægt að neyta vörunnar nema með einhverju sem þú ert búinn að votta þá er það afskaplega góð aðferð til að missa viðskiptavini.\nÉg vildi óska að ég hefði Netflix áskrift til að geta sagt henni upp.",
+            "date": "2013-07-02 17:41:00",
+            "post_id": "518024",
+            "reply_to_id": "518020"
+        },
+        {
+            "user_name": "Skrekkur",
+            "text": "Ég verð að vera málsvari myrkjahöfðingjans hérna, en ég skil ekki afhverju fólk er á móti þessu. Til að videostreymisþjónustur geti virkað almennilega og blokkað að þú getir downloadað öllu beint, þá verður þessu feature að vera inni. \nÉg skil þetta þannig að valið er annahvort að hafa einn plugin-lausan standard til að framkvæma encryption eða engan standard og allskyns plugin útfærslur. Það er ómögulegt að sannfæra þá sem eiga efnið að hafa non-drm streymisþjónustu, þeir myndu frekar bara ekki bjóða uppá það.\nÉg er almennt sammála um að DRM (sérstaklega í tölvuleikjum) komi aðallega niður á þeim sem eiga efnið, og drm í efni sem þú kaupir til eignar er gersamlega óþolandi, en DRM í videostreymi er ekki á leiðinni í burtu og afhverju ekki að gera það að standard? \nEða er ég að miskilja eitthvað með útfærsluna á þessu?",
+            "date": "2013-07-02 21:13:00",
+            "post_id": "518059",
+            "reply_to_id": "518024"
+        },
+        {
+            "user_name": "Skrekkur",
+            "text": "hmm nm, ég las fullu greinina frá EFF, of margt of vont í þessari útfærslu... im against",
+            "date": "2013-07-02 21:19:00",
+            "post_id": "518060",
+            "reply_to_id": "518059"
+        },
+        {
+            "user_name": "appel",
+            "text": "Tilgangurinn með EME/DRM er ekki sá að gera þér kleift að horfa á kvikmyndir í tölvunni löglega.\nÞú verður að athuga það að DRM lausnir eru til í dag með Flash og Silverlight. Tæknilega eru engin vandamál til staðar fyrir Hollywood til að selja kvikmyndir og sjónvarpsþætti löglega á netinu með DRM lausn. Þau einfaldlega vilja það ekki, og það eru viðskiptalegar ástæður að baki þeirri ástæðu, ekki tæknilegar.\nDRM snýst um að stjórna tækjaframleiðendum og hugbúnaðarframleiðendum:\nhttps://plus.google.com/app/basic/strea ... rmtehsy324\n(Ian Hickson er einn af höfundum HTML5 staðalsins)\nMeð því að gera DRM að skilyrði í öllum tækjum, hugbúnaði, stöðlum, köplum og hvaðeina þá er Hollywood búið að tryggja sér alræðisvaldi yfir öllu og öllum sem koma nálægt því að búa til eitthvað sem gerir þér kleift að birta mynd á skjáinn.\nHættan er sú að þetta sé \"slippery slope\" í átt að einhverskonar DRM neti, ekki bara fyrir vídeó heldur líka hverskonar annað efni.\nÁður en við vitum af því þá eru við tilneyddir til að notast við official Hollywood DRM plug-in í browserinn sem detectar í hvaða landi við búum og getum þar af leiðandi ekki spilað einu sinni nýjustu trailerana fyrir sjónvarpsþætti á netinu því þessir sjónvarpsþættir eru bara ætlaðir fyrir amerískan almenning. Svo veit enginn hvað þessi \"black box\" plug-in gera, og hvaða gögn þau senda encryptuð til netþjónsins.\nHollywood mun fara fram á að allt þeirra efni verði DRM varið á netinu, alveg sama hvaða efni það er, ef það kemur úr smiðju Hollywood þá á að vera DRM vörn, annars er dreifing á því ólögmæt. Fyrr en varið verður DRM orðið \"default\".",
+            "date": "2013-07-02 21:33:00",
+            "post_id": "518065",
+            "reply_to_id": "518060"
+        }
+    ],
+    "date": "2013-07-02 01:43:00"
+}

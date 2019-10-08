@@ -1,0 +1,86 @@
+{
+    "forum_title": "Leikjasalurinn",
+    "id": "47841",
+    "title": "BF3 crash 10-15 min inní mp leik",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=14&t=47841",
+    "posts": [
+        {
+            "user_name": "tveirmetrar",
+            "text": "Battlefield 3 is not responding.\nUndir event log í mgmt kemur bara application error. Engar fleiri upplýsingar (allavega ekki sem ég kann að lesa úr)\nKemur alltaf 10-15 min inní hvern leik. Var að setja upp windows 7 á nýjan leik með nýju mobo, minni og SLI GPU\nSpecs:\nmobo: Gygabite GA-X79-UD5\nCPU: I7-3820 @ 4,2ghz (búinn að prufa að setja hann í std)\nminni: 16gb 1866 ddr3\nGPU: 2x SLI GTX 680 OC Gigabyte\nPSU: 850w Coolermaster silent pro m\nOS: SSD 120 Force 3\nOrigin install directory: SSD 240 Force 3\nEr að keyra triple screen surround. \nBúinn að prufa eftirfarandi fix:\nRealtek Audio Bug:\nBF3 PC Lockup / Freeze - with looping audio:\n \nGraphics Cards Crashing:\nBúinn að keyra furmark og kombustor \"stress\" test. No Prob þar.\nIf you are experiencing Battlefield 3 black screen issues:\nCrashing:\nWindows 7/Windows Vista\n* \nBF3 / Battlefield3 Has Stopped Working Crash\nEinhverjar fleiri mögulegar aðgerðir sem ég get farið í?  \n \nEndilega komið með hugmyndir?",
+            "date": "2012-05-17 09:01:00",
+            "post_id": "441918",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Shot in the dark hérna.. en ertu með UPnP enabled eða disabled? Það þarf að vera disabled fyrir þennan leik.\nÉg lendi í því heima hjá mér að ef ég er með UPnP enabled þá get ég spilað einmitt svona 10-15mín áður en leikurinn lokast og ég fæ villuboðið \"You have been disconnected\". Í sömu tölvu með alveg eins router en í öðru húsi náði ég ekki einusinni að connecta inn á servera með UPnP on. Spurning hvort það geti valdið freeze líka? \nAnnars hvaða drivera ertu að nota? Eftir að ég setti upp SLI hef ég þurft að nota nVidia drivera 285.62 til að leikurinn hagar sér. Einhverjir aðrir og ég fékk bara lægra FPS og vandræði. Búinn að prófa alla nýju driverana sem hafa komið út eftir 285.62 en það er alltaf sama sagan. Mæli með að prófa þennan gamla driver ef þú ert ekki ennþá búinn að því.",
+            "date": "2012-05-17 09:39:00",
+            "post_id": "441919",
+            "reply_to_id": "441918"
+        },
+        {
+            "user_name": "tveirmetrar",
+            "text": "Já ég er með Upnp disabled og með stillt port á router fyrir leikinn, lennti einmitt í því líka að það kom connection timed out.\nÆtla að prufa að keyra þessa drivera þegar ég kem heim og sjá hvað gerist.\nÆtla líka að prufa að taka út annað kortið og keyra sitthvort og sjá hvort eitthvað vandamál með sli. \nEinnig að prufa að keyra heilann leik á einum skjá í staðin fyrir þremur.\nEinhverjar fleiri hugmyndir sem ég get prufað?",
+            "date": "2012-05-17 11:15:00",
+            "post_id": "441932",
+            "reply_to_id": "441919"
+        },
+        {
+            "user_name": "braudrist",
+            "text": "Ég hef sterkan grun um að SLI sé að valda þessu. En þú þarft ekki endilega að taka eitt kortið úr tölvunni, prufaðu fyrst að disable-a bara SLI í Nvidia Control Panel. Annars hefur alltaf verið eitthvað vesen með BF3 hjá mér líka en allir aðrir leikir keyra fínt.",
+            "date": "2012-05-17 11:52:00",
+            "post_id": "441933",
+            "reply_to_id": "441932"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Hvað með PSU? Er það alveg að höndla full load með overclock og 2x GTX 680?",
+            "date": "2012-05-17 20:53:00",
+            "post_id": "442001",
+            "reply_to_id": "441933"
+        },
+        {
+            "user_name": "littli-Jake",
+            "text": "Off topic en haltu kjafti hvað þetta er sexy rigg",
+            "date": "2012-05-17 21:17:00",
+            "post_id": "442005",
+            "reply_to_id": "442001"
+        },
+        {
+            "user_name": "arons4",
+            "text": "No problem með sli hér(að vísu ekki sömu kort).",
+            "date": "2012-05-17 22:26:00",
+            "post_id": "442009",
+            "reply_to_id": "442005"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Hvaða kort ertu með og hvernig PSU?\nÉg er með 775w Thermaltake PSU og GTX 560 Ti í SLI og er ekki að lenda í neinum vandræðum, en 680 er öflugra kort.\nGuru 3d vill meina að 750w sé lágmark fyrir 680 SLI: \nhttp://www.guru3d.com/article/geforce-g ... i-review/4\nÞannig það 800w aflgjafi ætti að duga. Sjálfum myndi mér ekki líða vel með minna en 900w aflgjafa fyrir tvö svona kort samt. Better safe than sorry",
+            "date": "2012-05-17 22:52:00",
+            "post_id": "442012",
+            "reply_to_id": "442009"
+        },
+        {
+            "user_name": "hjalti8",
+            "text": "mæli með að underclocka kortin aðeins, hérna eru tveir gaurar sem voru að lenda í því sama og þú með stable kort í öllu nema BF3 og það virðist hafa virkað hjá þeim báðum að underclocka \nhttp://forums.guru3d.com/showthread.php?p=4319085\nsmá quote frá einum:\n\"Factory (1085MHz) error\nI set to -10 (1075MHz) error\nI set to -20 (1065MHz) error\nI set to -50 (1035MHz) error\nI set to -80 (1005MHz) no error\"\nhrikalegt að það sé ekki hægt að hækka voltin á þessu drasli",
+            "date": "2012-05-17 23:19:00",
+            "post_id": "442014",
+            "reply_to_id": "442012"
+        },
+        {
+            "user_name": "arons4",
+            "text": "560ti sli á ZM850-HP aflgjafa.",
+            "date": "2012-05-18 00:12:00",
+            "post_id": "442031",
+            "reply_to_id": "442014"
+        },
+        {
+            "user_name": "tveirmetrar",
+            "text": "Gafst upp á að reyna að gera við þetta sjálfur.\nHennti þessu niðrí tölvutek og hann var að hringja í mig, búinn að keyra memory check og fékk upp villur.\nÞurfti að niðurkeyra minni í 1600 úr 1866, þó þetta borð ætti að keyra def 1866 auðveldlega.\nVonandi að þetta dugi!!! Er að verða bilaður á þessu.  \n \nHeld líka að ég fari í 1200w PSU, eins og einhver sagði, better safe than sorry.",
+            "date": "2012-05-21 20:46:00",
+            "post_id": "442787",
+            "reply_to_id": "442031"
+        }
+    ],
+    "date": "2012-05-17 09:01:00"
+}

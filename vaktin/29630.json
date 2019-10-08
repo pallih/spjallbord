@@ -1,0 +1,58 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "29630",
+    "title": "Leiðindamál með prentara",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=29630",
+    "posts": [
+        {
+            "user_name": "DoofuZ",
+            "text": "Það er prentari í vinnunni sem er alltaf eitthvað vesen með en öðru hverju getur hann samt prentað hluti almennilega. Þetta er HP DeskJet 940c og vandamálið er þannig að stundum fer hann bara í fílu og ælir útúr sér endalaust af blöðum án þess að prenta það sem maður er að reyna að prenta og svo er alltaf smá vesen að eyða úr listanum yfir skjöl sem á að prenta, getur jafnvel tekið nokkrar mínútur þar til hlutirnir eyðast. Er einhver leið að laga svona? Er t.d. kannski hægt að setja einhverja takmörkun í einhverjum admin stillingum að bara eitt skjal megi vera í listanum í einu og er hægt að eyða úr listanum á einhvern annan máta sem gæti verið hraðvirkari? \nVil annars taka það fram að prentarinn er að sjálfsögðu tengdur með serial",
+            "date": "2010-04-16 20:28:00",
+            "post_id": "256638",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gRIMwORLD",
+            "text": "Ég myndi athuga með driver update. Annars á ég HP Deskjet 1120c prentara sem ég nota af og til. Hann er parallel tengdur, held þú meinir það líka. Var stundum að lenda í þessu þegar hann var sífellt tengdur en þar sem ég nota hann sjaldan núna þá er ég ekki að finna fyrir þessu vandamáli.\nLausnin var alltaf að taka prentarann úr sambandi við rafmagn og restarta printspoolernum og setja prentarann í samband aftur.\nCommand Prompt: \nnet stop spooler\n svo \nnet start spooler",
+            "date": "2010-04-16 22:03:00",
+            "post_id": "256651",
+            "reply_to_id": "256638"
+        },
+        {
+            "user_name": "DoofuZ",
+            "text": "Já, ég meinti auðvitað parallel \n Ég hef einmitt alltaf náð að stoppa sjálfan prentarann með því að taka parallel kapalinn úr sambandi á meðan ég reyni að tæma listann en það var einmitt eitthvað svona command stöff tengt spooler sem ég var að leita eftir, takk \n Þarf þá bara að búa til shortcut á það og sjá hvort það virki næst þegar prentarinn verður með leiðindi",
+            "date": "2010-04-17 08:47:00",
+            "post_id": "256687",
+            "reply_to_id": "256651"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "Prentari er týpa af tölvubúnað sem er endalaust til vandræða! þannig er það bara",
+            "date": "2010-04-17 10:04:00",
+            "post_id": "256688",
+            "reply_to_id": "256687"
+        },
+        {
+            "user_name": "zedro",
+            "text": "Just for fun  \n \nhttp://www.collegehumor.com/video:1902102",
+            "date": "2010-04-17 10:39:00",
+            "post_id": "256691",
+            "reply_to_id": "256688"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Ég lendi bara í þessu ef prentarinn minn coxar og ég restarta honum án þess að eyða jobbinu... (USB - HP1018)\nÞetta er driver vandamál án efa, hef ekki lent í þessu með Win7 (reyndar kemur þetta skelfilega sjaldan fyrir og kannski er bara ekkert búið að gerast í e-h mánuði síðan ég fékk Win7)",
+            "date": "2010-04-17 12:00:00",
+            "post_id": "256700",
+            "reply_to_id": "256691"
+        },
+        {
+            "user_name": "DoofuZ",
+            "text": "Já, athuga kannski með nýjan driver, efast samt svoldið um að það sé vandamálið. Held að þetta sé meira bara prentarinn að ruglast eitthvað, kannski eitthvað vesen tengt prentkaplinum svo ég ætla að prófa að skipta um kapal næst þegar allt fer í rugl.\nCollegeHumor liðið er annars greinilega með þetta alveg á hreinu",
+            "date": "2010-04-28 15:05:00",
+            "post_id": "258690",
+            "reply_to_id": "256700"
+        }
+    ],
+    "date": "2010-04-16 20:28:00"
+}

@@ -1,0 +1,37 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "57064",
+    "title": "blue screen of death og get ekkert gert..",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=57064",
+    "posts": [
+        {
+            "user_name": "Arnarmar96",
+            "text": "Saelir.. eg er ad lenda I ad tolvan laetur alltieinu gedveikt illa vid mig.. \nEg kemst ekki I bios eda startad henni I safe mode thvi lyklabordid virnar ekki fyrr en hun er buin ad boota ser\neg er ad verda brjaladur..\nafsaka strax lelegann thrad og enga islenska stafi er ad nota simann.",
+            "date": "2013-09-09 14:58:00",
+            "post_id": "527789",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "playman",
+            "text": "Reyndu að sækja þér einhverstaðar Hiren's boot cd og reyndu að starta henni á honum, og gerðu memory scan með memtest86+.\nEf þú ert með fleyri en einn minnis kubb, þá geturu prófað að taka einn úr og startað,\nef hún er eins prófaðu að taka næsta úr (ef þú ert með 3 eða fleyri)\nBara prófa alla möguleika með minninn.\nErtu með eldri vél og USB lyklaborð?\nReyndu að redda þér PS/2 lyklaborði, það ætti að virka.",
+            "date": "2013-09-09 15:07:00",
+            "post_id": "527791",
+            "reply_to_id": "527789"
+        },
+        {
+            "user_name": "Arnarmar96",
+            "text": "Glaeny vel.. velin I undirskrift.. get ekki reddad mer eh diskum.. en eg tok skjakortid ur og nuna kemst eg bara I bios en ekki framhja thvi.. :s",
+            "date": "2013-09-09 15:14:00",
+            "post_id": "527793",
+            "reply_to_id": "527791"
+        },
+        {
+            "user_name": "Arnarmar96",
+            "text": "Fékk þetta til að virka.. má eyða eða læsa \n \nég slökkti bara á fast boot og bootaði í BIOS (með fast boot) og þá kom lyklaborðið, fór í safe mode og restore-aði.. setti upp vírus vörn og eyddi 20 trojan hestum :$",
+            "date": "2013-09-09 16:06:00",
+            "post_id": "527806",
+            "reply_to_id": "527793"
+        }
+    ],
+    "date": "2013-09-09 14:58:00"
+}

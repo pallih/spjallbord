@@ -1,0 +1,86 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "19176",
+    "title": "ATI HD 4870x2",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=19176",
+    "posts": [
+        {
+            "user_name": "Ordos",
+            "text": "Virkar þetta skjákort\nhttp://www.tolvuvirkni.is/ip.php?inc=view&flo=product&id_top=1651&id_sub=3187&topl=10&page=1&viewsing=ok&head_topnav=VGA_GB_HD4870X2\n með þessu móðurborði \nhttp://www.asrock.com/mb/overview.asp?Model=ALiveNF6G-VSTA\n ? Er að spá í nýu er bara með 8600GT en er með peninginn fyrir ATI HD 4870x2 kortinu",
+            "date": "2008-08-31 22:09:00",
+            "post_id": "181470",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "benregn",
+            "text": "ALiveNF6G-VSTA er með PCI-E x16 rauf svo að þetta kort ætti að virka með því. PCI-E raufinn sem er á móðurborðinu er líklega samt ekki nema ver. 1.0 en skjákortið getur nýtt PCI-E 2.0. PCI-E 2.0 skjákort getur sem betur fer virkað með PCI-E 1.0 rauf.",
+            "date": "2008-08-31 22:57:00",
+            "post_id": "181474",
+            "reply_to_id": "181470"
+        },
+        {
+            "user_name": "Matti21",
+            "text": "Kortið mundi passa en aflgjafinn þinn er roooosa tæpur. Ég mundi segja að 600W væri algjört lágmark fyrir þetta kort. HD4870X2 er talsvert orkufrekara en GTX280 og nvidia mæla með lágmark 550W aflgjafa fyrir það :/\nÞarft að uppfæra aflgjafann ef þú villt endilega svona dýrt kort en ég mundi segja að þú væri alveg vel settur með eitt HD4870 í dag.",
+            "date": "2008-08-31 23:34:00",
+            "post_id": "181475",
+            "reply_to_id": "181474"
+        },
+        {
+            "user_name": "Ordos",
+            "text": "Er með þennann aflgjafa\nhttp://kisildalur.is/?p=2&id=690\n heldurðu ekki að hann ráði við etta ?",
+            "date": "2008-09-01 10:08:00",
+            "post_id": "181478",
+            "reply_to_id": "181475"
+        },
+        {
+            "user_name": "Halli25",
+            "text": "Hann er virkilega tæpur á því, myndi fá mér stærri og vandaðri aflgjafa fyrir þetta skjákort eins og t.d. Tagan, Seasonic, Forton eða Corsair aflgjafa.",
+            "date": "2008-09-01 10:29:00",
+            "post_id": "181481",
+            "reply_to_id": "181478"
+        },
+        {
+            "user_name": "Ordos",
+            "text": "Takk fyrir hjálpina Heldurðu ekki að þessi virki \nhttp://www.att.is/product_info.php?cPath=41_34&products_id=2305\n eða ætti ég að fá mér aðeins dýrari \nhttp://kisildalur.is/?p=2&id=821\n ??",
+            "date": "2008-09-01 10:34:00",
+            "post_id": "181484",
+            "reply_to_id": "181481"
+        },
+        {
+            "user_name": "Matti21",
+            "text": "Engan vegin ef þú spyrð mig. Ati gefa ekki upp lágmarksafl fyrir HD4870X2 á síðunni sinni en mæla með lágmark 600W fyrir tvö HD4870 í crossfire.\nEn eins og ég sagði krefjast nvidia að lágmarki 550W aflgjafa fyrir GTX280 og HD4870X2 er að taka talsvert meira rafmagn en það. Ef þú skoðar reviews af HD4870X2 eru flestar síður að mæla með minnst 600-700W fyrir þetta kort.\nHef ekkert skoðað þennan aflgjafa en á þessari síðu tala þeir um eitt 6-pinna PCI-E tengi. HD4870X2 þarf eitt 6-pinna og eitt 8-pinna. Mæli alls ekki með að nota einhver millistykki fyrir svona öflugt kort.\nJafnvel þó að þú gætir keyrt þetta kort á þessum aflgjafa þá erum við að tala um einn harðan disk eða tvær viftur til eða frá og þá er ekki nóg rafmagn. Þú getur spurt hvaða tölvunörd sem er það mælir enginn með því að vera alltaf að keyra aflgjafann á full load. Hann mundi ekki lifa lengi.",
+            "date": "2008-09-01 10:35:00",
+            "post_id": "181485",
+            "reply_to_id": "181484"
+        },
+        {
+            "user_name": "Matti21",
+            "text": "Þessir mundu duga, en mér finnst þetta ekki gáfuleg uppfærsla. Þú munt fljótlega þurfa að uppfæra móðurborðið og örgjörvan aftur og ég mundi mikið frekar eyða peningnum í gott móðurborð, örgjörva og fínt skjákort.\ntd. eitthvað svona:\nhttp://www.tolvuvirkni.is/ip.php?inc=vi ... us_P5Q_Pro\nhttp://www.tolvuvirkni.is/ip.php?inc=vi ... ntel_E8400\nhttp://www.tolvuvirkni.is/ip.php?inc=vi ... _JW_HD4870\nÞetta mundi duga fínt í alla leiki í dag og seinna meir gætirðu síðan fengið þér nýjan aflgjafa, minni og jafnvel annað kort í crossfire.\nMér finnst allavega alltaf betra að uppfæra alla tölvuna í einu frekar en að eyða öllum peningnum í að uppfæra bara einn hlut. Örgjörvinn mundi á endanum mynda flöskuháls á kortið og það standa þér ekki margir uppfærslumöguleikar til boða með þessu móðurborði sem þú ert með núna. Þetta er allavega mitt álit.",
+            "date": "2008-09-01 10:56:00",
+            "post_id": "181487",
+            "reply_to_id": "181485"
+        },
+        {
+            "user_name": "Ordos",
+            "text": "Takk fyrir",
+            "date": "2008-09-01 10:58:00",
+            "post_id": "181488",
+            "reply_to_id": "181487"
+        },
+        {
+            "user_name": "MuGGz",
+            "text": "http://kisildalur.is/?p=2&id=821\nMæli HIKLAUST með þessum aflgjafa, bara snilldar græja, heyrist ekki múkk í honum þar sem að hann kveikir einungis á viftunni ef hann nauðsynlega þarf, annars er bara slökkt á henni.\nVar áður með Tagan BZ eitthvað, hrikalega pirrandi hljóð í honum, skipti honum út fyrir þennan \nhttp://kisildalur.is/?p=2&id=821\n og illa sáttur! \nEr btw að keyra Q9450, 4gb, hd4870 og fleira þannig",
+            "date": "2008-09-01 11:20:00",
+            "post_id": "181489",
+            "reply_to_id": "181488"
+        },
+        {
+            "user_name": "Ordos",
+            "text": "Væri ekki bara fínt að fá sér \nhttp://www.tolvuvirkni.is/ip.php?inc=view&flo=product&id_top=945&id_sub=3012&topl=10&page=1&viewsing=ok&head_topnav=MOB_GB_MA78GM\n og \nhttp://kisildalur.is/?p=2&id=821\n svo skjákortið ?",
+            "date": "2008-09-01 12:10:00",
+            "post_id": "181493",
+            "reply_to_id": "181489"
+        }
+    ],
+    "date": "2008-08-31 22:09:00"
+}

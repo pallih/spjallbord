@@ -1,0 +1,86 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "21621",
+    "title": "var að fá mér 1066 mhz minni og það er bara 800mhz ?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=21621",
+    "posts": [
+        {
+            "user_name": "palmi6400",
+            "text": "var að fá mér 1066 mhz minni og það er bara 800mhz ég veit að maður þarf að fikta eitthvað i bios en hvað ég fann eitthvað i cell menu fyrir neðan cpu og það var farst á 800 mhz",
+            "date": "2009-02-13 22:28:00",
+            "post_id": "197833",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Hvernig minni hvernig móðurborð?\nÞarft annars í flestöllum skiptum að setja sjálfur Timings og Voltage á það sem að framleiðandinn vill til að það runni sem 1066.",
+            "date": "2009-02-13 22:37:00",
+            "post_id": "197837",
+            "reply_to_id": "197833"
+        },
+        {
+            "user_name": "Allinn",
+            "text": "Kannski supportar móbóid bara til 800 Megahertz",
+            "date": "2009-02-13 22:39:00",
+            "post_id": "197838",
+            "reply_to_id": "197837"
+        },
+        {
+            "user_name": "palmi6400",
+            "text": "jú það styður var merisera að kaupa nýtt móður borð útaf því en það er k9n2 platinum",
+            "date": "2009-02-13 22:54:00",
+            "post_id": "197839",
+            "reply_to_id": "197838"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Ókei... hundsaðu svarið mitt... fine.",
+            "date": "2009-02-13 22:58:00",
+            "post_id": "197840",
+            "reply_to_id": "197839"
+        },
+        {
+            "user_name": "zedro",
+            "text": "Það virðist koma ansi oft fyrir þig undanfarið kepps",
+            "date": "2009-02-13 23:36:00",
+            "post_id": "197844",
+            "reply_to_id": "197840"
+        },
+        {
+            "user_name": "palmi6400",
+            "text": "og minnið er 4x1 gb dominator",
+            "date": "2009-02-14 10:36:00",
+            "post_id": "197863",
+            "reply_to_id": "197844"
+        },
+        {
+            "user_name": "Yank",
+            "text": "Ef þú ert með K9N2 Platinum þá ertu með AMD örgjörva og þeir hafa innbyggðan memory controler og á honum er ekki stuðningur við DDR2 1066MHz nema þetta sé allra nýjasta útgáfa Phenom II. Enginn annar AMD örgjörvi styður 1066MHz...\nK9N2 styður því einungis DDR2 1066MHz ef á því er örgjörvi sem styður það. Þ.e. Phenom II.",
+            "date": "2009-02-14 15:30:00",
+            "post_id": "197874",
+            "reply_to_id": "197863"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Og þótt þú gætir keyrt minnið í 1066mhz þá myndirðu ekki sjá neinn mun.\nGiska að minnið sé 1066mhz 5-5-5-15\nÞegar þetta er í 800mhz bombaðu þetta bara niðrí 4-4-4-12 ásamt auka voltum, sirka 0.2V",
+            "date": "2009-02-14 19:08:00",
+            "post_id": "197909",
+            "reply_to_id": "197874"
+        },
+        {
+            "user_name": "Hnykill",
+            "text": "Ég keypti sérstaklega 1066 til að keyra það á 800 Mhz, 4.4.4.12 +0.2V. Það virðist virka mikið betur þannig en normal 1066",
+            "date": "2009-02-15 01:47:00",
+            "post_id": "197960",
+            "reply_to_id": "197909"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "jubb sama vandamál hjá mér þegar ég var með AMD 6400+ ég þurfti að eiga við BUS´inn og multiply´erinn\nað auka v um 0.2v er hugsanlega ekkert að fara gera neitt , þannig að slepptu því nema þú vitir nákvæmlega hvað þú ert að gera , svo eru flest minni bara gefin upp fyrir x háa V tölu",
+            "date": "2009-02-15 02:07:00",
+            "post_id": "197963",
+            "reply_to_id": "197960"
+        }
+    ],
+    "date": "2009-02-13 22:28:00"
+}

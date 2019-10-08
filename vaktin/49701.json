@@ -1,0 +1,51 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "49701",
+    "title": "Hjálp, Get ekki tengst netinu þráðlaust!",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=49701",
+    "posts": [
+        {
+            "user_name": "hrafn123",
+            "text": "Ég get ekki lengur tengst þráðlausa netinu heima hjá mér, tölvan mín er sú eina sem getur það ekki þannig þetta er ekki routerinn. Ég get þó tengst í gegnum Ethernet\nÞetta vandamál byrjaði í dag, ég var að fikta eitthvað í gær í Task Manager þannig kannski gerði ég eitthvað þar?\nÞegar ég troubleshoota þessu þá kemur upp \"Wireless capability is turned off\", og fyrir aftan það \"Not fixed\"\nFyrr í dag troubleshootaði ég og það stóð eitthvað um Wireless Network Driverinn, en man ekki akkúrat hvað stóð.\nNiðri í horninu er svona rautt X yfir internetmerkið,\nÉg er með Qualcomm Atheros AR9285 netkort (held ég)\nHvernig get ég lagað þetta? ég er að fara með tölvuna í viðgerð að skipta um body á henni þannig ég gæti látið þá laga þetta en hún fer ekki í viðgerð fyrr en eftir viku þannig mig langar að laga þetta sjálfur. \nMig grunar að ég þurfi að downloada einhverjum driver en ég veit ekki alveg hvaða, Vonandi getið þið hjálpað mér.\nKv. Hrafn.",
+            "date": "2012-08-14 23:50:00",
+            "post_id": "460753",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Það er mjög tæpt að þú hafir uninstallað driver og þurfir að sækja hann aftur. Það er erfitt að gera það óvart án þess að gera sér grein fyrir því. \nÞað er oftast vegna hotkeya á lyklaborðum fartölvna sem að fólk lendir í þessu veseni og fær þá nákvæmlega þetta \"Wireless capability is turned off\" sem þú fékkst. \nTaktu endilega screenshot af Control Panel -> Device manager með \"Network adapters\" sýnt.\nFarðu því næst í Network and Sharing Center -> Change Adapter Settings -> Hægri klikka á þráðlausa netkortið (varst þar í einni myndinni)\nog farðu í Properties -> Configure -> og gáðu hvort það standi \"Enable Device\" í \"General\" og ef svo er smelltu á það.",
+            "date": "2012-08-14 23:55:00",
+            "post_id": "460756",
+            "reply_to_id": "460753"
+        },
+        {
+            "user_name": "hrafn123",
+            "text": "Tók skjáskot af bæði sem þú sagðir",
+            "date": "2012-08-15 00:06:00",
+            "post_id": "460759",
+            "reply_to_id": "460756"
+        },
+        {
+            "user_name": "Minuz1",
+            "text": "Lestu leiðbeiningarnar fyrir fartölvuna þína, athugaðu hvort þú finnir þar takka sem slekkur/kveikir á þráðlausu netsambandi (airplane mode)",
+            "date": "2012-08-15 06:16:00",
+            "post_id": "460805",
+            "reply_to_id": "460759"
+        },
+        {
+            "user_name": "hrafn123",
+            "text": "Nei ertu ekki að tala um takka á hliðinni á tölvunni? hef reynt það",
+            "date": "2012-08-15 12:14:00",
+            "post_id": "460831",
+            "reply_to_id": "460805"
+        },
+        {
+            "user_name": "hrafn123",
+            "text": "Er búinn að leysa þetta, ég ruglaðist á On og Off á takkanum á hliðinni.  \n \n \n \nog takk fyrir Minuz1",
+            "date": "2012-08-15 14:49:00",
+            "post_id": "460855",
+            "reply_to_id": "460831"
+        }
+    ],
+    "date": "2012-08-14 23:50:00"
+}

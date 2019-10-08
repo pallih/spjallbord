@@ -1,0 +1,226 @@
+{
+    "forum_title": "Leikjasalurinn",
+    "id": "8837",
+    "title": "Quake 4",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=14&t=8837",
+    "posts": [
+        {
+            "user_name": "Mumminn",
+            "text": "Jæja eins og sumir vita er Quake 4 að koma. Ég var svona að vellta fyrir mér hvort að einhver myndi vita hvenær hann kmr til landsins?\n\n\n\nsmá plot:  \n\n\n\n\nGame features:\n\n    ~~~~~~~~~~~~~~\n\n In a desperate war for Earth's survival, against an unrelenting alien\n\n enemy, the only way to defeat them is to become one of them. Armed with\n\n advanced weaponry and vehicles and aided by an elite squad of marines,\n\n you take the battle to the heart of the Strogg home planet and become\n\n Earth's only hope for victory.",
+            "date": "2005-10-19 08:32:00",
+            "post_id": "94492",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "hahallur",
+            "text": "Ohh ég spái því að ég verði búin að dl honum á morgun, 2.7 gb.\n\nHlakka feitast til,  annars er hann ekki að fá góða dóma, fær bara 10 í grapichs og mellem í hinu shittinu.",
+            "date": "2005-10-19 10:45:00",
+            "post_id": "94507",
+            "reply_to_id": "94492"
+        },
+        {
+            "user_name": "Mumminn",
+            "text": "ég er kominn með 70%   \n\n\nþað styttist í þetta",
+            "date": "2005-10-19 11:14:00",
+            "post_id": "94510",
+            "reply_to_id": "94507"
+        },
+        {
+            "user_name": "Blackened",
+            "text": "ég er líka kominn í 70%.. og er að fá sirka 60kb/s \n\n\n\n..það er meira að maður hefur að spila \n.. Quake IV og F.E.A.R",
+            "date": "2005-10-19 12:33:00",
+            "post_id": "94513",
+            "reply_to_id": "94510"
+        },
+        {
+            "user_name": "Dagur",
+            "text": "Ég ætla að fá mér Linux útgáfuna",
+            "date": "2005-10-19 17:55:00",
+            "post_id": "94527",
+            "reply_to_id": "94513"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Búinn að fá hann. Mér finnst hann nú allt í lagi svosem frekar líkur doom 3 og eiginlega ekkert nýtt og spes við hann.",
+            "date": "2005-10-19 18:52:00",
+            "post_id": "94529",
+            "reply_to_id": "94527"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "en hvað um gfx?",
+            "date": "2005-10-19 19:17:00",
+            "post_id": "94531",
+            "reply_to_id": "94529"
+        },
+        {
+            "user_name": "hahallur",
+            "text": "Hann er ekki allveg eins dökkur og Doom 3 og það er meira action og grafíkin er já endurbætt, sama vel sammt.",
+            "date": "2005-10-20 13:07:00",
+            "post_id": "94570",
+            "reply_to_id": "94531"
+        },
+        {
+            "user_name": "corflame",
+            "text": "Grafíkin á xp2500+ og 9600pro í 640x480 upplausn er alveg hræðileg, þetta er ömurlega ljótt. Enn ein ástæðan til að fá sér \"almennilegan\" vélbúnað",
+            "date": "2005-10-20 13:36:00",
+            "post_id": "94572",
+            "reply_to_id": "94570"
+        },
+        {
+            "user_name": "Cascade",
+            "text": "Fæ samt ekki widescreen til að virka þó ég velji 16:10 get ég bara valið 1600x1200",
+            "date": "2005-10-20 15:36:00",
+            "post_id": "94585",
+            "reply_to_id": "94572"
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "Þú þarft að \"Hacka\" leikinn til að fá ekta WS\n\n\n\nÞetta á að virka: \n\n\n\nOpna notepad og skrifa eftirfarandi:\n\n\n\nseta com_allowconsole \"1\"\n\nseta r_customheight \"1200\"\n\nseta r_customwidth \"1920\"\n\nseta r_mode \"-1\"\n\nseta r_aspectratio \"2\"\n\nseta g_fov \"110\"\n\nseta r_finish \"1\"\n\nseta cm_backfacecull \"1\"\n\nseta image_usecache \"1\"\n\nseta image_usecachemegs \"256\"\n\nseta image_usecachemink \"3072\"\n\n\n\n\n\nseta r_finish \"1\"\n er vertical sync (bara svo þú vitir)\n\n\n\nSave-a svo textann sem autoexec.cfg og láta í q4base folder-ið\n\n\n\n\n\nÉg hef ekki prófað þetta en þetta á að virka.",
+            "date": "2005-10-20 16:31:00",
+            "post_id": "94592",
+            "reply_to_id": "94585"
+        },
+        {
+            "user_name": "Cascade",
+            "text": "nice, ertu með e-ð svona fix fyrir fear?\n\n\n\nPS. Djöfull er töff að spila hann í 1920x1200",
+            "date": "2005-10-20 17:55:00",
+            "post_id": "94597",
+            "reply_to_id": "94592"
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "Edita settings.cfg í Shortcut to User directory með notepad. \n\n\n\nLítur svona út:\n\n\n\n\"ScreenWidth\" \"1024\"\n\"VSyncOnFlip\" \"1.000000\"\n\"DeviceName\" \"\\\\.\\DISPLAY1\"\n\"ScreenHeight\" \"768\"\n\n\n\n\nBreytir því bara í upplausn sem skjárinn styður.\n\n\n\nVeit ekki hvort þetta virkar samt.",
+            "date": "2005-10-20 18:08:00",
+            "post_id": "94601",
+            "reply_to_id": "94597"
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "Er leikurinn eitthvað skárri en Doom3?",
+            "date": "2005-10-20 19:49:00",
+            "post_id": "94603",
+            "reply_to_id": "94601"
+        },
+        {
+            "user_name": "Mumminn",
+            "text": "jæja leikurinn er víst lenntur á klakanum",
+            "date": "2005-10-21 08:34:00",
+            "post_id": "94627",
+            "reply_to_id": "94603"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "Já. mér þykir hann talsvert skárri en doom3, en hann er næstum því jafn dökkur. Það er líka spurning hvort það hefði ekki mátt vera aðeins meiri hraði í leiknum, svona álíka og í Quake 2.",
+            "date": "2005-10-21 09:45:00",
+            "post_id": "94634",
+            "reply_to_id": "94627"
+        },
+        {
+            "user_name": "Gestir",
+            "text": "kláraði að DL í morgun .. \n\n\n\nprufa í kveld.. en annars er ég að missa mig í FEAR. og ég get svarið það.. að ég missti nánast þvag þarna þegar Invisible gaurinn stökk á mig !!\n\n\n\nFU** !!!\n\n\n\nég gargaði ...",
+            "date": "2005-10-21 11:50:00",
+            "post_id": "94639",
+            "reply_to_id": "94634"
+        },
+        {
+            "user_name": "corflame",
+            "text": "Það breytist seinna í leiknum (plot dæmi sem ég ætla ekki að spilla)\n\nog verður meira eins og það var",
+            "date": "2005-10-21 12:03:00",
+            "post_id": "94641",
+            "reply_to_id": "94639"
+        },
+        {
+            "user_name": "hahallur",
+            "text": "Quake 4 rules !\n\n\n\nÉg er allveg að missa mig í honum, og hann er mjög hraður.",
+            "date": "2005-10-21 17:23:00",
+            "post_id": "94691",
+            "reply_to_id": "94641"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "*spoiler*\n\nÞað var fokking Creepy þegar improvementinn voru sett á.\nannars er getur kallinn bunnyjumpað og hlaupið 75% hraðar með þessum improvements.\n\n\n*/spolier*",
+            "date": "2005-10-21 18:33:00",
+            "post_id": "94700",
+            "reply_to_id": "94691"
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "MÉR FINNST Quake 4 fokking geðveikur leikur, vá. Ownar FEAR í alla staði, geðveik grafik, IMO.\n\n\n\nEr að runna hann í 1600x1200 og allt í high en næ rétt svo að runna FEAR í \n\n1024x768 med/high\n\n\n\nTók ég fram hvað MÉR FINNST hann er geðveikur?\n\n\n\n\n\nEDIT: Svo fólk fari ekki í fýlu.",
+            "date": "2005-10-21 21:22:00",
+            "post_id": "94712",
+            "reply_to_id": "94700"
+        },
+        {
+            "user_name": "ICM",
+            "text": "Hvað meinarðu? F.E.A.R. er að fá miklu betri gagnrýni og er með miklu betri grafík.",
+            "date": "2005-10-21 21:37:00",
+            "post_id": "94715",
+            "reply_to_id": "94712"
+        },
+        {
+            "user_name": "Blackened",
+            "text": "Ég er búinn að vera að spila FEAR og Quake IV svona í kross.. og ég fíla FEAR miklu betur.. flottari grafík og svona.. en Quake er alltaf góður samt",
+            "date": "2005-10-21 22:37:00",
+            "post_id": "94722",
+            "reply_to_id": "94715"
+        },
+        {
+            "user_name": "hahallur",
+            "text": "Það er betri grafík í Quake 4 og þessir dómar eru major crap and bullshit.\n\n\n\nÞeir eru að röfla yfir því að multiplayer sé of líkt Quake 3, ef það væri ekki líkt Quake 3 myndu þeir örugglega röfla yfir því.",
+            "date": "2005-10-22 14:24:00",
+            "post_id": "94754",
+            "reply_to_id": "94722"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "HAha hverjum er ekki nokkuð sama um hvað gagngrín\nendur\n segja efast um að þeir hafi fengið gömlu quake-arana til að spila quake 4 nema með svipuðu gameplay þar sem gameplayið í  snilld í quake 3/4",
+            "date": "2005-10-22 15:00:00",
+            "post_id": "94757",
+            "reply_to_id": "94754"
+        },
+        {
+            "user_name": "Gestir",
+            "text": "HHallur \" Það er betri grafík í Quake 4 og þessir dómar eru major crap and bullshit. \"\n\n\n\ntaktu stólinn út úr rassgatinu á þér.. það er sama grafík í q4 og d3 sem er jú flott en ekkert merkileg myndi ég segja.\n\n\n\nF.E.A.R er alveg talsvert flottari áferðar  í alla staði en Q4. Persónulega fannst mér Q4 vonbrigði en kannski er ég bara svona gamall \n\n\n\n\nEkkert nýtt við Q4.. en fear er alveg fáránlega vel hannaður leikur í alla staði. effectar eru alveg að gera fáránlega góða hluti.\n\n\n\nog jú dómarnir hafa mikið að segja enda mikið af fólki búið að dæma þetta. \n\n\n\nHvernig ætlaru að bakka það upp að segja að grafík í Q4 sé betri ??  Ég fer eftir  því sem augað segir og ég trúi ekki öðru en að allir hérna séu sammála að F.E.A.R. sé mun eða allavega fallegri fyrir augað.\n\n\n\nBack me up here folks..",
+            "date": "2005-10-24 16:49:00",
+            "post_id": "94972",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "hahallur",
+            "text": "Þ'u ert greinlega ekkert að spila Quake 4 í max res, vegna þess að X800 Pro höndlar það ekkert, Q4 notar endurbætta útgáfu af D3 engine og mér finnst hann flottari en FEAR.\n\n\n\nHann er að fá hærri einkunn td í grafichs en FEAR.",
+            "date": "2005-10-24 17:02:00",
+            "post_id": "94973",
+            "reply_to_id": "94972"
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "Það eina flotta við FEAR eru effectarnir.",
+            "date": "2005-10-24 17:03:00",
+            "post_id": "94974",
+            "reply_to_id": "94973"
+        },
+        {
+            "user_name": "Yank",
+            "text": "QUAKE4 aka DOOM3 without the hell.",
+            "date": "2005-10-24 23:15:00",
+            "post_id": "94999",
+            "reply_to_id": "94974"
+        },
+        {
+            "user_name": "ICM",
+            "text": "uh það eru nánast allir sammála um að F.E.A.R. sé mikið betri leikir í heildina, skoðið bara erlend spjallborð. Það eru þó misjafnar skoðanir um hvor sé með betri grafík þó ekki fari á milli mála að F.E.A.R. sé raunverulegari þá er viss stíll yfir Quake\n\n\n\nIGN\n\nF.E.A.R. overall: 9.2, readers 9.1\n\nQuake 4 overall: 8.2, readers 8.6\n\n\n\n\n\n\nGamespot F.E.A.R. overall : 9.1, Graphics 9\n\nGamespot Quake 4 overall : 8.0 Graphics 10",
+            "date": "2005-10-25 00:55:00",
+            "post_id": "95003",
+            "reply_to_id": "94999"
+        },
+        {
+            "user_name": "Gestir",
+            "text": "Amm\n\n\n\nKlárlega er F.E.A.R Flottari leikur og raunverulegri, og þetta með Quake að hann sé eins og Doom without the hell... \n\n\n\n\nég á eftir að spila Q4 aðeins meira og sjá svo til..\n\n\n\nen fear er besti leikur sem eg hef spilað so far..",
+            "date": "2005-10-31 12:30:00",
+            "post_id": "95373",
+            "reply_to_id": "95003"
+        }
+    ],
+    "date": "2005-10-24 16:49:00"
+}

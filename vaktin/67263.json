@@ -1,0 +1,58 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "67263",
+    "title": "Hringiðan og Facebook",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=67263",
+    "posts": [
+        {
+            "user_name": "olihar",
+            "text": "Kvöldið\nVar að velta fyrir mér hvort einhverjir fleiri séu í vandræðum með Facebook hjá Hringiðunni, síðan opnast yfirleitt mjög hægt og oft vantar myndir í feedið, sem og oft hættir það bara að opnast.\nÞað sem er sérstaklega hægt er ef reynt er að horfa á videó, þau opnast oft ekkert yfir höfuð, eða opna fyrstu nokkrar sek og stoppa svo.\nEf ég skipti yfir í hotspot í síma þá opnast allt mjög smooth.\nFlest allt annað virkar super smooth á þessari tengingu, spurning hvort það sé eitthvað routing fuck í gangi með Facebook.\nP.s. Instagram er líka stundum frekar leiðinlegt, en get ýmindað mér að það sé að tengjast sömu serverum.\nÉg hef testað nokkrar tölvu og alltaf sama sagan.\nSkjáskot af því hvernig þetta opnast mjög oft, s.s. texti opnast en ekki myndir, meira að segja bara hluti af profile myndum sjást.\nHringiðan - Ljósleiðari 100/100",
+            "date": "2015-10-19 20:34:00",
+            "post_id": "608864",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Gerist þetta líka ef þú opnar Facebook í \"Private Window\" ?\nBara svona til að útiloka \"cache\" í browser, ég ef lent í svipuðu og þá var það local vesen hjá mér sem lagaðist þegar ég þurrkaði allt cache út.\nMinnir líka að ég hafi verið með þrjátíu+ \"taps\" opna, en það er svo sem ekkert óvanalegt hjá mér.",
+            "date": "2015-10-19 21:43:00",
+            "post_id": "608878",
+            "reply_to_id": "608864"
+        },
+        {
+            "user_name": "olihar",
+            "text": "Já hef prufað það, einnig er þetta vandamál í nokkrum tölvum sem og síma og spjaldtölvu, lagast allt þegar ég nota aðra tengingu.",
+            "date": "2015-10-20 01:38:00",
+            "post_id": "608910",
+            "reply_to_id": "608878"
+        },
+        {
+            "user_name": "kizi86",
+            "text": "ljós eða vdsl? búinn að prufa að restarta router og ljósleiðaraboxinu ef ert á ljósi?",
+            "date": "2015-10-20 14:17:00",
+            "post_id": "608940",
+            "reply_to_id": "608910"
+        },
+        {
+            "user_name": "olihar",
+            "text": "Já segi í póstinum hér að ofan að ég sé á ljósi.\nJá hef restartað bæði ljósleiðarabox og router.",
+            "date": "2015-10-20 17:02:00",
+            "post_id": "608947",
+            "reply_to_id": "608940"
+        },
+        {
+            "user_name": "darkppl",
+            "text": "ekkert svoleiðis vandamál hjá mér er í hringiðunni með ljós.\nbúinn að prófa að skipta um dns?",
+            "date": "2015-10-20 18:26:00",
+            "post_id": "608952",
+            "reply_to_id": "608947"
+        },
+        {
+            "user_name": "Icarus",
+            "text": "Hvaða DNS er í routernum? Hljómar svolítið eins og DNS issue.",
+            "date": "2015-10-20 22:33:00",
+            "post_id": "608973",
+            "reply_to_id": "608952"
+        }
+    ],
+    "date": "2015-10-19 20:34:00"
+}

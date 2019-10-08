@@ -1,0 +1,23 @@
+{
+    "forum_title": "Windows",
+    "id": "33042",
+    "title": "WHS Diskvesen",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=33042",
+    "posts": [
+        {
+            "user_name": "Jimmy",
+            "text": "Ég er með WHS á einni vél hjá mér og var með 1x 1tb WD Green og 1x 1.5tb WD Green í vélinni.\nMér fannst vélin keyra svo djöfulli dapurlega með OSið á green disknum þannig að ég ætlaði að setja það upp á 500gb Seagate disk sem ég átti.\nRemoveaði 1,5tb diskinn og ætlaði að geyma gögnin á honum á meðan ég set WHS upp á nýtt.\nNúna þegar 1,5tb diskurinn er removeaður, þá get ég ekki opnað hann í My computer eða disk management eða neitt.\nEr einhver sérstök leið?\nÞað var ekkert mál fyrir mig að opna Seagate diskinn og browsa á honum áður en ég addaði honum í storage poolið en núna virðist ég ekki með nokkru móti geta opnað 1,5tb diskinn eftir að ég removeaði hann úr poolinu, búinn að prófa að reformatta hann og öll basic quick fix sem mér dettur í hug.",
+            "date": "2010-10-08 21:20:00",
+            "post_id": "287234",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Jimmy",
+            "text": "Addaði disknum í storage poolið sem backup drive og removeaði það svo aftur, þá kom það upp. yeij.",
+            "date": "2010-10-09 10:29:00",
+            "post_id": "287304",
+            "reply_to_id": "287234"
+        }
+    ],
+    "date": "2010-10-08 21:20:00"
+}

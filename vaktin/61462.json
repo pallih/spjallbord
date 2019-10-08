@@ -1,0 +1,65 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "61462",
+    "title": "Chost-a HD",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=61462",
+    "posts": [
+        {
+            "user_name": "C3PO",
+            "text": "Sælir vaktarar\nEr ekki einnjver sem veit um gott forrit til að taka chost/copy af HD í tölvu.\nEr að fara að skipat út 500Gb fyrir 2 Tb og vantar gott forrit til að taka nákvæmt afritt af gamla disknum.\nEr með alla leikina mína á þessum disk(innstall folder) og vill helst ekki þurfa að byrja á þeim öllum aftur.  \n \nAllar upplýsingar vel þegnar.\nKv. D",
+            "date": "2014-06-29 20:45:00",
+            "post_id": "566002",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "brain",
+            "text": "nota þetta:\nhttp://www.fssdev.com/products/casper/",
+            "date": "2014-06-29 21:04:00",
+            "post_id": "566004",
+            "reply_to_id": "566002"
+        },
+        {
+            "user_name": "C3PO",
+            "text": "Ekkert free-ware ??\nKv D",
+            "date": "2014-06-29 21:39:00",
+            "post_id": "566006",
+            "reply_to_id": "566004"
+        },
+        {
+            "user_name": "Gislinn",
+            "text": "CloneZilla?",
+            "date": "2014-06-29 21:51:00",
+            "post_id": "566008",
+            "reply_to_id": "566006"
+        },
+        {
+            "user_name": "brain",
+            "text": "Prófaðirðu að googla það ?\nég fékk freeware sem virkaði, bara var eitthvað sem var ekki enabled, sem ég þurfti ekki.",
+            "date": "2014-06-30 12:30:00",
+            "post_id": "566056",
+            "reply_to_id": "566008"
+        },
+        {
+            "user_name": "playman",
+            "text": "Clonezilla er frítt. Hef notað það með góðum árangri.\nsvo eru einnig hérna 5 freeware forrit.\nhttp://www.techrepublic.com/blog/five-a ... ing-tools/\nEkki gleyma því að flest clone/ghost forrit taka 100% afrit og skila 100% afriti, semsagt ef þú tekur afrit af 500gb disknum\nog setur það afrit á 2tb diskinn þá færðu 500gb drive og 1.5tb drive sem þú þarft svo að virkja.\nGeturu ekki bara copy/paste af 500gb disknum yfir á 2tb diskinn beint? eða er 500gb diskurinn system diskur líka?\nVona bara að þú sért þá ekki að fara að setja 2tb diskinn sem system disk án þess að skipta honum upp",
+            "date": "2014-06-30 13:59:00",
+            "post_id": "566064",
+            "reply_to_id": "566056"
+        },
+        {
+            "user_name": "C3PO",
+            "text": "Takk fyrir þetta. Eflaust get ég bara gert copy/paste. Þetta er ekki OS diskur. Ég er með OS á SSD diski og 500Gb hef ég notað til að installa leikjum.\nNúna er sá diskur orðinn fullur þannig að mig langar að stækka hann án þess að týna save frá öllum leikjunum.\nKv. D",
+            "date": "2014-06-30 14:25:00",
+            "post_id": "566067",
+            "reply_to_id": "566064"
+        },
+        {
+            "user_name": "playman",
+            "text": "Þá geturðu bara gert copy/paste og sleppur þannig við allt vesen, ef þú gerir copy á rótinni á 500gb disknum og peistar svo það á 2tb diskinn, þannig að þeir verða \"identical\" og \nbreytir drive letter á 2tb í það sama og það var á 500gb disknum ætti að gera það að verkum að þú þurfir ekkert að breyta shortcuts osf.",
+            "date": "2014-07-01 00:54:00",
+            "post_id": "566131",
+            "reply_to_id": "566067"
+        }
+    ],
+    "date": "2014-06-29 20:45:00"
+}

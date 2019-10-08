@@ -1,0 +1,58 @@
+{
+    "forum_title": "Símar, fartölvur, myndavélar og önnur farandstæki",
+    "id": "62992",
+    "title": "Að breyta hegðun á LED á Android síma",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=26&t=62992",
+    "posts": [
+        {
+            "user_name": "Swooper",
+            "text": "Ég er með Nexus 5 sem er eins og flestir nýrri símar með litlu LED ljósi sem lýsir eða blikkar við ákveðnar aðstæður, t.d. þegar lítið batterí er eftir, þegar það er ólesið notification á honum og þegar hann er í hleðslu. Þetta síðasta truflar mig, af því að á nóttunni hleð ég símann minn í dokku á náttborðinu og þá skín LED ljósið óþægilega bjart. Vitið þið um einhverja leið til að breyta stillingum tengdum LEDinu, þá sérstaklega að geta slökkt á því meðan síminn er að hlaðast? Ég er búinn að gúgla þetta aðeins og hef fundið \nLight Flow\n og \nCharging LED\n en hvorugt virðist geta gert það sem ég vil. Einhver með lausn á þessu?",
+            "date": "2014-10-28 17:49:00",
+            "post_id": "578422",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Búinn að Googla þetta?\nhttps://www.google.is/webhp?#q=android+ ... arging+led\nhttps://www.google.is/webhp?#q=android+ ... d+%2Bnexus\nhttp://forums.androidcentral.com/lg-g2/ ... -help.html\nhttp://nexus5.wonderhowto.com/how-to/co ... g-0149663/\nhttp://forums.androidcentral.com/htc-on ... light.html\nhttp://www.reddit.com/r/cyanogenmod/com ... _charging/",
+            "date": "2014-10-28 18:15:00",
+            "post_id": "578424",
+            "reply_to_id": "578422"
+        },
+        {
+            "user_name": "þorri69",
+            "text": "Þriðja heims vandamál ! eða er þetta vandamál, hvað með teip eða snúa díóðunni frá þér",
+            "date": "2014-10-28 22:51:00",
+            "post_id": "578456",
+            "reply_to_id": "578424"
+        },
+        {
+            "user_name": "Swooper",
+            "text": "Cyanogenmod kemur sífellt á óvart. Takk!",
+            "date": "2014-10-29 03:02:00",
+            "post_id": "578472",
+            "reply_to_id": "578456"
+        },
+        {
+            "user_name": "svensven",
+            "text": "Ég er með stillingu svo að síminn fari í \"Night mode\" milli kl 12 og 7 minnir mig, það slekkur á öllum hljóðum nema símhringingum, valdi að hafa kveikt á því þar sem það er yfirleitt enginn sem hringir á þessum tíma nema það sé í neyð, og slekkur einnig á LED ljósinu.\nEr með S3 með Cyanogenmod, veit ekki hvort þetta sé hægt í standard stýrikerfinu",
+            "date": "2014-10-29 09:13:00",
+            "post_id": "578474",
+            "reply_to_id": "578472"
+        },
+        {
+            "user_name": "playman",
+            "text": "Ég er með S3 LTE og ég get slökkt á Led með innbygðu forriti sem kallast blocking mode.\nÉg stilli það þannig að enginn getur hringt í mig eftir kl 00:00 til 7:30 nema þeir sem ég hef valið td. fjölskylda, disable notifications og turn of LED indicator.\nVeit að þetta er í samsung símum, en veit ekki með aðra framleiðendur.\nGetur prufað einhver blocking mode apps eða do not disturb apps.\nKanski hjálpar þetta þér eitthvað.\nhttp://www.androidbeat.com/2014/04/tip- ... ght-night/",
+            "date": "2014-10-29 13:20:00",
+            "post_id": "578480",
+            "reply_to_id": "578474"
+        },
+        {
+            "user_name": "Halli25",
+            "text": "Er með LG G2 sem Nexus 5 er byggður á eða öfugt... og þar er hægt að slökkva á LED ljósinu í settings undir Display",
+            "date": "2014-10-29 13:33:00",
+            "post_id": "578481",
+            "reply_to_id": "578480"
+        }
+    ],
+    "date": "2014-10-28 17:49:00"
+}

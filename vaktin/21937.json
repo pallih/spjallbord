@@ -1,0 +1,23 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "21937",
+    "title": "skelti gömlum hdd í",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=21937",
+    "posts": [
+        {
+            "user_name": "lallijons",
+            "text": "þannig er mál með vexti að ég var að skella gömlum hdd í tölvuna mina og alt í góðu með það nema hvað hun er farinn að vera hæg og stundum verður hun það hæg að bara það að opna ie eða opera getur tekið minutur í stað sekuntu brota \nég er buinn að skanna fyirir virusum og finn ekki neitt \nprófaði að rífa þann gama úr sambandi og þá kviknar bara ekkert á tölvuni yfir höfuð (er ekki með vindows inni á þessum disk)\nþað virðist ekkert óvenjulegt vera í processes \nwindowsið er á e:drifi  enn \"gamli\" diskurinn er c:\nget ekki farið í last known settings á windowsinu hvoki liklaborðið nér músin virka þegar ég er í þvi  \n \ner með 450 w aflgjafa \n2X2 gig minni \n2.67 ghz dooal core intel eithvað  . . \ner með eithvað geforce 9600GT \nog 3 hdd \n1 geisladrif \nþetta er alt sem mér mögulega dettur í hug að sþetta er alt sem mér mögulega dettur í hug að egja",
+            "date": "2009-03-02 22:54:00",
+            "post_id": "199750",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Safnari",
+            "text": "Svolítið erfitt að átta sig á hvað þú ert að glíma við.\nEn þú segist hafa sett  \"gamlan'' hd í vélina. Þá álykta ég að hann sé PATA (breiður kapall)\nHinir eru trúlegast SATA\nVið það að setja þann disk í hefur röðinn á diskunum trúlega ruglast í BIOSnum, og hann hefur orðið fyrsti diskur.\nSíðan þegar þú tekur hann úr, þá finnur vélin engan disk. \n(Vegna þess að biosinn hefur tilhneigingu til að setja ekki automatiskt annan disk sem boot ef IDE diskur var valinn áður, en vélin finnur síðan bara SATA diska)\nÞó að windows xp eigi ekki endilega að þurfa að vera á C: drifi, þá veldur það oft vandræðum ef það er ekki þar.\nÞað sem þú ættir að byrja á að gera er að frátengja alla diska, tengja síðan diskinn sem er með stýrikerfinu á SATA tengi nr.1\nSannreyna svo að hann sé valin sem boot diskur í BIOS og ræsa síðan vélina upp þannig.\nEftir að þú ert búin að koma henni til að virka aftur, þá geturðu tengt hina diskana. (slökkva á vélinni fyrst)",
+            "date": "2009-03-12 12:53:00",
+            "post_id": "200649",
+            "reply_to_id": "199750"
+        }
+    ],
+    "date": "2009-03-02 22:54:00"
+}

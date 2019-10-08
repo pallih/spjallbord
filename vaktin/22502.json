@@ -1,0 +1,30 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "22502",
+    "title": "SpeedTouch 585 - DNS vesen!",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=22502",
+    "posts": [
+        {
+            "user_name": "coldcut",
+            "text": "Sælir\nHeyriði ég er að lenda í vandræðum með að setja upp static ip og þar með að opna port á routernum mínum vegna þess að þegar ég geri ipconfig /all þá er Default Gateway, DHCP Server og DNS Servers allt sömu tölurnar.  Set inn mynd sem skýrir þetta \nVæri frábært að fá einhver svör við þessu fljótt og örugglega",
+            "date": "2009-04-03 22:06:00",
+            "post_id": "202798",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "viddi",
+            "text": "Default Gateway og DNS Server eiga að vera 192.168.1.254 svo seturu bara 192.168.1.xx í ip address og þá ætti þetta að vera komið, DHCP addressan ætti a hverfa þegar þú setur static ip á network atapterinn",
+            "date": "2009-04-03 23:41:00",
+            "post_id": "202813",
+            "reply_to_id": "202798"
+        },
+        {
+            "user_name": "depill",
+            "text": "Routerinn er stlltur til að relay DNS queries greinilega, venjulega er hægt að breyta DHCP stillingum til þess að komast fram hjá þessu ef fólk vill það.\nÞú getur svo gert static DHCP úthlutun i ST585 routernum og það er mjög auðvelt að gera...., spurning ef þetta er bara spurning um port-forwarding að láta bara ST585 routerinn elta vélina þína, sem hann getur gert based á mac-addressum",
+            "date": "2009-04-04 00:31:00",
+            "post_id": "202818",
+            "reply_to_id": "202813"
+        }
+    ],
+    "date": "2009-04-03 22:06:00"
+}

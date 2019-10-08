@@ -1,0 +1,93 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "33098",
+    "title": "Suð frá tölvu þegar örgjörvafrek forrit keyrð",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=33098",
+    "posts": [
+        {
+            "user_name": "Arkidas",
+            "text": "Þegar ég spila tölvuleik kemur suð frá tölvunni minni. Þetta er s.s. einhverskonar hljóð sem virðist fara af stað þegar örgjörvinn er x gráða heitur. Hafið þið hugmynd um hvað þetta gæti verið?",
+            "date": "2010-10-11 22:32:00",
+            "post_id": "287856",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "vesley",
+            "text": "Líklegast suð frá þéttunum á skjákortinu þínu. \nGiska að þú sért með Nvidia skjákort og þetta er ekkert til að hafa áhyggjur af. \nKemur oftast þegar fps verður mjög hátt s.s. í loading senum og þess háttar.",
+            "date": "2010-10-11 22:35:00",
+            "post_id": "287857",
+            "reply_to_id": "287856"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "Fyrst hann minnist á að þetta gerist þegar örgjörvinn er ákveðið heitur að þá er spurning hvort þetta sé ekki bara örgjörvakælingin að fara á full speed!",
+            "date": "2010-10-11 22:51:00",
+            "post_id": "287861",
+            "reply_to_id": "287857"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Keyrðu superpi eða annað forrit sem setur mikið álag á örgjörvan en ekki skjákortið.",
+            "date": "2010-10-11 22:55:00",
+            "post_id": "287864",
+            "reply_to_id": "287861"
+        },
+        {
+            "user_name": "Arkidas",
+            "text": "Reyndar þegar ég hugsa um það þá kemur þetta líka þegar skjáhvílan (sem er alls ekki mjög þung á að sjá) fer í gang. Ég er með Ati HD 4550. Svo þetta er líklega skjákortið, en hvernig get ég látið þetta hætta?",
+            "date": "2010-10-19 21:56:00",
+            "post_id": "289658",
+            "reply_to_id": "287864"
+        },
+        {
+            "user_name": "axyne",
+            "text": "Ég lendi í svipuðu með gömlu borðvélina mína, svona eh hátíðnisuð þegar einhver vinnsla fór framm.\nÉg rakti það til spennustýringarinnar fyrir örgjörvann á móðurborðinu. Þegar örgjörvinn fór að vinna eitthvað (taka meiri straum) Þá komu óhljóð sem ég taldi eiga upptök sín frá þéttunum í spennustýringunni.\nVar samt ekkert það hátt að það böggaði mig, nota þessa vél sem Server í dag og er geymd inní skáp . hefur ekki slegið feilpúst í þau 8 ár sem ég hef átt hana. Reyndar ekkert upprunalegt nema móðurborðið og einn 120 Gb WD diskur.",
+            "date": "2010-10-19 22:15:00",
+            "post_id": "289662",
+            "reply_to_id": "289658"
+        },
+        {
+            "user_name": "Arkidas",
+            "text": "Þetta er ekki hátíðnihljóð heldur bara mjög hávært suð. Svipað og 78 býflugur eða eitthvað.",
+            "date": "2010-10-20 19:36:00",
+            "post_id": "289827",
+            "reply_to_id": "289662"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Prufaðu að keyra forrit eins og Occt Linpack, ef það kemur mikið suð er þetta líklegast frá örgjörvanum, ef ekkert kemur geturu prufað Msi Kombustor, ef suðið kemur þá er þetta líklegast skjákortið. Grunar að þetta sé líklegast frá þéttum eða þessvegna ónýt lega í viftu (ólíklegt). \nSuper Pi notar eingöngu 1 kjarna, Prime95/Occt/IBT mæli ég með til að setja eins þungt álag og hægt er á örgjörvan sjálfan. Linpack.",
+            "date": "2010-10-20 20:07:00",
+            "post_id": "289835",
+            "reply_to_id": "289827"
+        },
+        {
+            "user_name": "Arkidas",
+            "text": "Er nokkuð viss um að þetta sé örgjörvinn. Prófaði að koma við örgjörvakælinguna þegar ég slökkti á tölvunni og brenndi mig. Skjákortið var alveg kalt.\nÞetta gæti ekkert verið aflgjafinn er það? Er ekki langlíklegast að þetta sé örgjörvinn eða örgjörvakælingin þar sem þetta kemur þegar maður er að horfa á þætti eða spila tölvuleiki? Þetta er ekki stöðugt suð. Það getur hætt alveg í 3 sek - komið aftur. Hætt í 2min - komið aftur í 10min.",
+            "date": "2011-01-24 12:57:00",
+            "post_id": "315416",
+            "reply_to_id": "289835"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Mældu hitann á vélinni við keyrslu...\nAnnars geturðu rúllað upp pappír og gert hólk eða notað hólk innan úr eldhúsrúllu og notað notað það til þess að reyna að staðsetja hvaðan suðið kemur.",
+            "date": "2011-01-24 13:04:00",
+            "post_id": "315419",
+            "reply_to_id": "315416"
+        },
+        {
+            "user_name": "oskar9",
+            "text": "hehe hélt ég væri að verða klikkaður þetta gerist hjá mér, gerist bara í EVE online, er með 5850 í crossfire, þetta heyrist bara í eve þegar maður skoðar eitthvað flókið í geimnum eins og t.d. \nhttp://media.photobucket.com/image/eve% ... 125549.jpg\nog suðið er breytilegt eftir því hvernig maður horfir á svona hluti allt frá lágu suði uppí hátíðnihljóð, einhver lausn á þessu ?",
+            "date": "2011-01-24 13:42:00",
+            "post_id": "315428",
+            "reply_to_id": "315419"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Já, hætta að spila Eve",
+            "date": "2011-01-24 15:36:00",
+            "post_id": "315469",
+            "reply_to_id": "315428"
+        }
+    ],
+    "date": "2010-10-11 22:32:00"
+}

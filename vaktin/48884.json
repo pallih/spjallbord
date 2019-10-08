@@ -1,0 +1,65 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "48884",
+    "title": "Týndur Samsung diskur",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=48884",
+    "posts": [
+        {
+            "user_name": "thorby",
+            "text": "getur einhver sagt mér af hverju í ósköpunum ég finn ekki þennan disk í tölvunni minni, hann er þarna einhvers staðar ( sést í device manager ) en ég kemst ekki að honum, hann kemur ekki upp í My computer, og þetta eru upplýsingarnar um hann\nManufacturer \tSamsung\nModel \tSAMSUNG HM320HX\nSize \t320.0 GB\nFirmware Version \t2AK10001\nSerial Number \tC3801K12AAHECE\nRotational Speed \t7200 RPM\nForm Factor \t2.5 inch\nInterface \tUSB (Serial ATA)\nStandard \tATA8-ACS | ATA8-ACS version 6\nAdvanced Format Supported \tN/A\nTransfer Mode (Current / Max) \tSATA-300 / SATA-300\nFeatures \tS.M.A.R.T., APM (Disabled), 48bit LBA, NCQ, AAM (Disabled)\nTemperature \t39 C (102 F)\nController Buffer Size on Drive \t8192 KB\nQueue Depth \t32\nEnclosure Device \tSamsung S2 Portable USB Device (VID=04E8h, PID=1F03h)\nRemovable \tNo\nSMART Support \tYes\nAttribute Name \tAttribute Value Worst Value Threshold Value Raw Data\nRaw Read Error Rate (01) \t100 100 051 000000000010\nThroughput Performance (02) \t252 252 000 000000000000\nSpin Up Time (03) \t089 088 025 000000000D89\nStart/Stop Count (04) \t098 098 000 000000000A56\nReallocated Sector Count (05) \t252 252 010 000000000000\nSeek Error Rate (07) \t252 252 051 000000000000\nSeek Time Performance (08) \t252 252 015 000000000000\nPower On Hours Count (09) \t100 100 000 0000000004C8\nSpin Retry Count (0A) \t252 252 051 000000000000\nCalibration Retry Count (0B) \t095 095 000 000000001519\nPower Cycle Count (0C) \t100 100 000 000000000245\nG-sense error rate (BF) \t100 100 000 000000000067\nEmergency Retract Cycle Count (C0) \t252 252 000 000000000000\nHDA Temperature (C2) \t061 036 000 004100130027\nECC On The Fly Count (C3) \t100 100 000 000000000000\nReallocation event count (C4) \t252 252 000 000000000000\nCurrent pending sector count (C5) \t252 100 000 000000000000\nOff-line uncorrectable sector count (C6) \t252 252 000 000000000000\nUltra ATA CRC Error Rate (C7) \t200 200 000 000000000000\nMulti Zone Error Rate (C8) \t100 100 000 000000000001\nLoad retry count (DF) \t095 095 000 000000001519\nLoad cycle count (E1) \t094 094 000 00000000F0E8",
+            "date": "2012-07-09 15:11:00",
+            "post_id": "452630",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Hvað segir disk management?",
+            "date": "2012-07-09 15:13:00",
+            "post_id": "452631",
+            "reply_to_id": "452630"
+        },
+        {
+            "user_name": "thorby",
+            "text": "hann segir\nSamsung S2 Portable USB Device   \neða device manager segir þetta, og að það sé allt í lagi með diskinn",
+            "date": "2012-07-09 15:23:00",
+            "post_id": "452635",
+            "reply_to_id": "452631"
+        },
+        {
+            "user_name": "thorby",
+            "text": "svo kemur USB mass storage device",
+            "date": "2012-07-09 15:25:00",
+            "post_id": "452637",
+            "reply_to_id": "452635"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ókei, en hvað segir disk management?",
+            "date": "2012-07-09 15:43:00",
+            "post_id": "452645",
+            "reply_to_id": "452637"
+        },
+        {
+            "user_name": "thorby",
+            "text": "hann segir unallocated",
+            "date": "2012-07-09 15:45:00",
+            "post_id": "452647",
+            "reply_to_id": "452645"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ef þetta er nýr diskur á þá væntanlega eftir að formatta hann og búa til disksneið (e. partition) svo hægt sé að nota hann. Ef þetta er diskur sem hefur verið notaður áður og inniheldur gögn er e-rskonar bilun eða skemmd í disk eða skráarkerfi og þarf að fara varlega að ef nálgast á gögnin.",
+            "date": "2012-07-09 15:48:00",
+            "post_id": "452649",
+            "reply_to_id": "452647"
+        },
+        {
+            "user_name": "thorby",
+            "text": "heyrðu, ég er búin að redda þessu, gat formattað hann og þá birtist hann,\nkærar þakkir fyrir hjálpina",
+            "date": "2012-07-09 16:11:00",
+            "post_id": "452655",
+            "reply_to_id": "452649"
+        }
+    ],
+    "date": "2012-07-09 15:11:00"
+}

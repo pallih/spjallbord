@@ -1,0 +1,65 @@
+{
+    "forum_title": "Windows",
+    "id": "15565",
+    "title": "Minnisvandamál en samt ekki !? Galli í Windows?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=15565",
+    "posts": [
+        {
+            "user_name": "DoofuZ",
+            "text": "Ég er að lenda í ansi furðulegu minnisvandamáli sem virðist samt ekki vera minnisvandamál sem er bara fáránlega skrítið.\n\n\n\nVandamálið er að ég er t.d. bara að vinna mikið við vefsíðugerð og er oft að opna einhverja litla síðu í nýjum glugga af IE, oftast bara til að prófa eitthvað Javascript og þess háttar, og eftir hverja prófun þá loka ég glugganum og allt í lagi með það. En svo fer það allt í einu að gerast að file valröndin efst hverfur í einum glugganum svo hverfur takka valröndin næst og svo ef ég reyni þá að opna nýjann glugga af IE þá virkar það ekki og ef ég reyni að kalla fram Task Manager með CTRL+ALT+DEL þá kemur hann stundum ekki, en um leið og ég loka amk. eihverju einu af því sem ég hef í gangi þá virkar það en stundum kemur Task Manager eitthvað illa skaddaður, t.d. með tóma fleti og eitthvað rugl (sjá mynd niðri). Þetta hefur líka áhrif á allt annað í tölvunni, ég get t.d. ekki opnað önnur forrit þegar þetta gerist svo þetta er pottþétt vandamál í Windows en ekki bara IE \n\n\n\n\nÞetta hefur gerst frekar oft hjá mér þegar ég hef verið að opna endalaust nýja IE glugga en ég hef samt aldrei fleiri en 4-5 opna í einu og það fyrsta sem mér datt í hug var auðvitað að þetta væri minnisvandamál svo ég keyrði FreeRAM XP Pro upp og notaði það til að fá meira minni og það virðist gera það en það lagar samt ekki þetta vesen sem er ansi furðulegt \n\n\n\n\nEinhver sem hefur einhverja glóru um hvað ég get gert?\n\n\n\nÉg er með Windows XP Pro SP2 og þetta er tölvan sem er í lýsingunni. Tölvan er bara búin að vera í gangi í um 6 daga samfleytt og win diskurinn hefur verið defraggaður nýlega og hann virðist vera í góðu lagi. Svo er ég með mjög fá forrit í gangi í bakgrunninum en það er bara Avira Antivir, Windows Uptime, DU Meter og vnc forrit.\n\n\n\nHér fyrir neðan er svo mynd af Task Manager eins og hann kemur stundum.",
+            "date": "2007-09-23 16:11:00",
+            "post_id": "153346",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "DoofuZ",
+            "text": "Smá update... Eftir að ég fór að nota FreeRAM XP Pro þá er þetta eiginlega hætt að koma fyrir. Ég setti forritið inná þegar þetta gerðist núna um daginn og fyrst virtist það ekki hafa áhrif á vandamálið en svo eftir að ég lokaði öllum IE gluggum og opnaði nýja stuttu seinna þá var vandamálið farið. Er þetta ekki bara eitthvað minnisvandamál hjá IE eins og einhver minnisleki eða eitthvað?\n\n\n\nHefur enginn hérna lent í þessu?",
+            "date": "2007-09-28 18:22:00",
+            "post_id": "153843",
+            "reply_to_id": "153346"
+        },
+        {
+            "user_name": "Stebet",
+            "text": "Skoðaðu taskmanager og gáðu hvaða forrit er að éta upp \"handles\" hjá þér. Þetta gerist þegar \"handles\" í 2000/XP eru búin. Þar sem hvert GDI object á skjánum þarf a.m.k eitt handle þá eru forrit sem leka GDI objectum/minni fljót að eyða þeim upp.\n\n\n\nÍ Vista er búið að koma í veg fyrir þetta með því að stórauka handlecountið.",
+            "date": "2007-10-01 09:44:00",
+            "post_id": "153976",
+            "reply_to_id": "153843"
+        },
+        {
+            "user_name": "Jth",
+            "text": "Ég lenti í þessu sama; lét formata vélina - og er enn að lenda í þessu",
+            "date": "2007-11-27 11:33:00",
+            "post_id": "158097",
+            "reply_to_id": "153976"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Skrítið, ég hef lent í svona með XP. \n\nEndaði með að ég formattaði og losnaði þá við þetta.",
+            "date": "2007-11-27 11:37:00",
+            "post_id": "158098",
+            "reply_to_id": "158097"
+        },
+        {
+            "user_name": "DoofuZ",
+            "text": "Ég held ég sé alveg laus við þetta vandamál núna en ég fór eftir leiðbeiningum \nhér\n en það er örugglega líka eitthvað vit í þessu \nhér\n, \nhér\n eða \nhér\n. Svo er líka ágætis grein \nhér\n.\n\n\n\nFarið bara mjög varlega í þessar breytingar í regedit, þegar ég prófaði það fyrst setti ég lágar tölur en breytti því svo í hærri tölur en það ruglaði aðeins í Windows og skrítnir hlutir fóru að gerast \n En það lagaðist allt eftir restart \n\n\n\n\nEdit: ákvað að prófa að opna endalaust mikið af IE gluggum og náði að opna um 80 glugga eða svo en þá fór Windows aðeins að hægja á sér þegar ég ætlaði að reyna að opna fleiri glugga en samt virkar allt annað nokkuð vel, ég get t.d. opnað explorer og hægrismell virkar alveg. Í þessari tilraun rauk annars handle count úr 28þús. uppí um 58þús. sem er bara gott því áður þá var ég alltaf að lenda í massívu veseni þegar handle count var bara 34þús. eða svo. Tók svo eftir því reyndar að pagefile usage rauk uppúr öllu veldi (er núna 1.45gb, man ekki hvað það var fyrir en sá á línuritinu að það rauk upp á meðan) en það skiptir kannski ekki svo miklu máli svo lengi sem það er ekki að hafa áhrif á þetta vandamál.\n\n\n\nEftir að ég lokaði öllum gluggunum fór handle count niðurí 24þús. og page file usage er í 628mb (hefur örugglega verið þannig áður en það rauk upp). Ég held ég sé bara í góðum málum og það er allt fyrstu síðunni sem ég benti á að þakka",
+            "date": "2007-11-29 16:27:00",
+            "post_id": "158350",
+            "reply_to_id": "158098"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Er þetta ekki bara gott Tweak líka til að nýta allt physical memory, eiginlega sem allir ættu að gera.....",
+            "date": "2007-11-29 22:29:00",
+            "post_id": "158398",
+            "reply_to_id": "158350"
+        },
+        {
+            "user_name": "DoofuZ",
+            "text": "Veistu, jú, það má svosem segja það. Það væri meirað segja mjög sniðugt að setja allskonar svona registry stiilingar saman í eina registry skrá sem maður gæti þá alltaf keyrt þegar maður væri nýbúinn að setja Windows XP inná einhverja tölvu. Mig hefur reyndar langað að gera svoleiðis skrá mjög lengi, og hafa þá líka í henni allar aðrar stillingar sem ég vil venjulega hafa sem default eftir install (eins og show all files, always show extension, simple útlit o.fl.), en það er bara svo sjaldan sem ég set upp XP svo ég hef bara ekki nennt því hingað til... \n Samt örugglega góð hugmynd fyrir aðra",
+            "date": "2007-11-30 17:24:00",
+            "post_id": "158479",
+            "reply_to_id": "158398"
+        }
+    ],
+    "date": "2007-09-23 16:11:00"
+}

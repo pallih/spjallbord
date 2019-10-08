@@ -1,0 +1,198 @@
+{
+    "forum_title": "Yfirklukkun, hraðaprófanir og mods",
+    "id": "35585",
+    "title": "Volt pæling",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=1&t=35585",
+    "posts": [
+        {
+            "user_name": "k0fuz",
+            "text": "Ég var að pæla, er með tölvuna mína stable í 3,2 ghz (8x400) og voltin hljóma eitthvernvegin svona:\nFSB: +0,1\nDDR2: +0,2\nPCI-E: normal\nog eitthvað eitt en: +0,1 \nvCore: 1,33150\nEr að gæla við þá hugmynd að fara í 3,6ghz sumsé hækka multiplier í 9x\ner þá ekki nóg að auka bara við vcore? Er það ekki rétt að ég er búinn að stable-a tölvuna með hinum volt stillingunum (öllu nema vcore) í 400 mhz fsb? endilega látið mig vita ef þið skiljið mig ekki",
+            "date": "2011-01-20 16:48:00",
+            "post_id": "314460",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "MatroX",
+            "text": "Sæll\nTil að byrja með, ertu með góða kælingu? og ertu með g0 örgjörva ?",
+            "date": "2011-01-20 17:02:00",
+            "post_id": "314463",
+            "reply_to_id": "314460"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "afhverju ertu með vCore svona hátt. er 1.2125 hjá mér.",
+            "date": "2011-01-20 17:16:00",
+            "post_id": "314466",
+            "reply_to_id": "314463"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Ef hún er stabíl svona þá myndi ég bara að prufa að henda honum upp í 3.6 á þessum voltum, annaðhvort hækka margfaldarann eða fsb. Prófa bara bæði og ef hún er ekki stabíl, þá hækka vcore um 1-2 bump and repeat.\nSíðan er líka alltaf sniðugt að hafa minnin bara á stock voltum og tíðni (jafnvel undirklukkuð ef þú getur) meðan maður er að ná örranum stöðugum. Því þá geturðu verið viss um að minnin eru ekki að valda óstöðugleika.",
+            "date": "2011-01-20 19:40:00",
+            "post_id": "314497",
+            "reply_to_id": "314466"
+        },
+        {
+            "user_name": "nonesenze",
+            "text": "hvað er vid hjá þer?",
+            "date": "2011-01-20 19:47:00",
+            "post_id": "314498",
+            "reply_to_id": "314497"
+        },
+        {
+            "user_name": "Dazy crazy",
+            "text": "Svona er þetta hjá mér, nennti ekki að skrifa það allt inn\nsama mynd bara linkurinn\nhttp://img573.imageshack.us/i/volt.png/",
+            "date": "2011-01-20 21:14:00",
+            "post_id": "314543",
+            "reply_to_id": "314498"
+        },
+        {
+            "user_name": "k0fuz",
+            "text": "Afsaka dólginn en ég er ekki að yfirklukka í fyrsta sinn og þú ert ekki að svara spurningunni. Annars já við báðu.\nHver og einn örgjörvi er mismunandi...\nJá get prufað það en margfaldarinn kemst ekki hærra en 9 og fsb ekki hærra en 400mhz. Varðandi voltin á minnum, ég prufaði að minnka þau á sínum tíma og þá fór hún að vera óstabíl..\nAð vísu þá sýnir Hardwaremonitor aðrar tölur heldur en vcore er stillt í í bios. Sýnir 1,28v á meðan hann er stilltur í minnir mig 1,33125",
+            "date": "2011-01-20 21:37:00",
+            "post_id": "314555",
+            "reply_to_id": "314543"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "takk fyrir þetta. en veistu þetta var óþarfi ég er að reyna hjálpa þér og þú segir þetta. þetta eru upplysingar sem þú átt að taka fram þegar þú ert að byðja um hjálp.\nannars á q6600 örranum hjá félaga mínu þurftum við 1.46 volt minnir mig. \np.s þegar þú byður um hjálp þá svararu ekki svona en það er greinilegt að þú ert að gera þetta í fyrsta skipti miðað við upplysingarnar í fyrsta pósti.",
+            "date": "2011-01-20 21:52:00",
+            "post_id": "314558",
+            "reply_to_id": "314555"
+        },
+        {
+            "user_name": "nonesenze",
+            "text": "farðu með voltin í 1.46 í vcore, það var fyrsta stable sem ég náði með mínum á air 33c idle\nef það virkar ekki uppaði mhc í 1.2",
+            "date": "2011-01-20 21:52:00",
+            "post_id": "314559",
+            "reply_to_id": "314558"
+        },
+        {
+            "user_name": "k0fuz",
+            "text": "Hefði nú líka verið fínt að reyna hjálpa mér bara með því að svara því sem ég spurði um? Ef ég væri ekki með G0 stepping þá hefði ég nú varla komið honum í 3,2ghz og þar sem ég er að reyna koma honum hærra væri það sennilega því að ég hef nægt svigrúm af hitaþoli á örgjörvanum = fínasta kæling væntanlega.",
+            "date": "2011-01-20 23:57:00",
+            "post_id": "314583",
+            "reply_to_id": "314559"
+        },
+        {
+            "user_name": "k0fuz",
+            "text": "ertu að tala um að uppa voltin strax í 1.46 í vcore eftir að ég stilli 9x400 = 3,6ghz ?",
+            "date": "2011-01-20 23:59:00",
+            "post_id": "314584",
+            "reply_to_id": "314583"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "9x400 á þetta og voltin í 1.46 og ég náði b3 örranum hans nonesenze í 3.4ghz léttilega komst inn í windows í 3.6 en ekki nógu stable og allt of hár hiti.",
+            "date": "2011-01-21 00:03:00",
+            "post_id": "314586",
+            "reply_to_id": "314584"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "Vid? Spurning um ad fa þig til ad klukka minn uppi 4ghz. Var ad fa noctua",
+            "date": "2011-01-21 00:29:00",
+            "post_id": "314596",
+            "reply_to_id": "314586"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "getur séð vid í CoreTemp annars er ekkert mál að fara í 4ghz með noctua hehe tekur bara tíma. hann er búinn að fara í 4ghz hjá sér stable",
+            "date": "2011-01-21 00:33:00",
+            "post_id": "314598",
+            "reply_to_id": "314596"
+        },
+        {
+            "user_name": "k0fuz",
+            "text": "Ég prufaði að setja multiplierinn í 9 úr 8. Og þá lenti ég í því atviki að windowsið vildi ekki startast, bara svartur skjár og tölvan í gangi.. Einhverjar hugmyndir varðandi þetta? ég hef sett hann áður í 9x400 en þá bara varð hún mjög óstabíl..\nEinnig kom þessi mynd eftir smá tíma: \nhttp://a.imagehost.org/0586/DSC00317.jpg",
+            "date": "2011-01-21 13:09:00",
+            "post_id": "314658",
+            "reply_to_id": "314598"
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "Á hvaða hraða eru vinnsluminnin gæti verið að þú þurfir að hægja á þeim",
+            "date": "2011-01-21 13:27:00",
+            "post_id": "314660",
+            "reply_to_id": "314658"
+        },
+        {
+            "user_name": "k0fuz",
+            "text": "Þau eru á sínum venjulega hraða, 800mhz ég er með þarna system memory multiplierinn í 2.0 þannig að FSB:DRAM ratio sé í 1:1",
+            "date": "2011-01-21 13:31:00",
+            "post_id": "314661",
+            "reply_to_id": "314660"
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "settu mynd af cpu-z  memory \nlangar að sjá það líka",
+            "date": "2011-01-21 13:55:00",
+            "post_id": "314667",
+            "reply_to_id": "314661"
+        },
+        {
+            "user_name": "k0fuz",
+            "text": "http://img225.imageshack.us/i/44816234.jpg/\nLét ýmislegt fleira fljóta með.",
+            "date": "2011-01-21 14:00:00",
+            "post_id": "314668",
+            "reply_to_id": "314667"
+        },
+        {
+            "user_name": "k0fuz",
+            "text": "Hefur enginn hugmynd um afhverju tölvan lætur svona?",
+            "date": "2011-01-22 13:17:00",
+            "post_id": "314890",
+            "reply_to_id": "314668"
+        },
+        {
+            "user_name": "k0fuz",
+            "text": "2x",
+            "date": "2011-01-23 14:00:00",
+            "post_id": "315118",
+            "reply_to_id": "314890"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "meira vcore ef hún vildi ekki posta",
+            "date": "2011-01-23 15:30:00",
+            "post_id": "315152",
+            "reply_to_id": "315118"
+        },
+        {
+            "user_name": "nonesenze",
+            "text": "gætir surft að bæta voltum í vcore eða mch og hækka termination líka, aðal atriðið er að fá rétt scew í þessu eins og það er kallað, og \"hlusta á tölvuna\" , s.s. ef hún er of lengi að einhverju eða eitthvað virðist off þá er oft merki um stability issue, það sem ég tek mest eftir er ef starting windows logoið er lengi að koma þá er hún ekki að fara vera stable",
+            "date": "2011-01-23 16:02:00",
+            "post_id": "315164",
+            "reply_to_id": "315152"
+        },
+        {
+            "user_name": "k0fuz",
+            "text": "Ég hækkaði mch og FSB voltage uppí +0,2 og var kominn með vcore uppí 1,5V en hún hélt samt áfram að bluescreena í byrjun á hverju prime95 testi. Hvað er þetta termination sem þú ert að tala um ?",
+            "date": "2011-01-23 16:56:00",
+            "post_id": "315175",
+            "reply_to_id": "315164"
+        },
+        {
+            "user_name": "nonesenze",
+            "text": "cpu termination, en ertu ekki örugglega með g0 rev?\n*edit* taktu mynd af bios stillingunum og postaðu hér",
+            "date": "2011-01-23 18:11:00",
+            "post_id": "315189",
+            "reply_to_id": "315175"
+        },
+        {
+            "user_name": "k0fuz",
+            "text": "Jú, en hvar finn ég cpu termination?",
+            "date": "2011-01-23 18:12:00",
+            "post_id": "315190",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "nonesenze",
+            "text": "taktu mynd af bios stillingunum og postaðu hér",
+            "date": "2011-01-23 18:12:00",
+            "post_id": "315191",
+            "reply_to_id": "315190"
+        }
+    ],
+    "date": "2011-01-23 18:12:00"
+}

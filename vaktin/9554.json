@@ -1,0 +1,79 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "9554",
+    "title": "Jagged edge i COD 2",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=9554",
+    "posts": [
+        {
+            "user_name": "Woods",
+            "text": "Er einhver leið að losna við þetta annað en að setja Vsync-on og droppa FPS ???\n\n\n\npirrandi þegar maður er að hreyfa músina hratt \n(\n\n\n\ntakk",
+            "date": "2006-01-04 00:15:00",
+            "post_id": "103455",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "@Arinn@",
+            "text": "Já, hvernig skjákort ertu með ?",
+            "date": "2006-01-04 00:27:00",
+            "post_id": "103458",
+            "reply_to_id": "103455"
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "Ertu að tala um tearing? Ef svo er held ég að Vsync - on og triple buffering séu einu lausnirnar. Og þú teku líklegast ekkert eftir að þú sért með lægra FPS.",
+            "date": "2006-01-04 00:41:00",
+            "post_id": "103465",
+            "reply_to_id": "103458"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "\"Jagged edge\" er þegar þú ert ekki með AA, eða þegar AA virkar illa. Semsagt svona \"Staircase effect\" á hallandi línur.\n\n\n\nSmá forvitni.. afhvejru viltu ekki hafa vsync í gangi?",
+            "date": "2006-01-04 12:32:00",
+            "post_id": "103535",
+            "reply_to_id": "103465"
+        },
+        {
+            "user_name": "Woods",
+            "text": "er með 2x 7800GT, annars ef Vsync er on þá er ég með 40 max (ekkert tearing ) \n\n\n\nMeð sync OFF\n\n55-60 \n  1680x1050 upplausn og 4x 8x AA,AF",
+            "date": "2006-01-04 19:36:00",
+            "post_id": "103618",
+            "reply_to_id": "103535"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "þú ert ekkert að græða á að vera með í 55-60 nema að skjárinn þinn sé að sýna það.\n\n\n\nbúinn að keyra refresh force?",
+            "date": "2006-01-04 19:41:00",
+            "post_id": "103620",
+            "reply_to_id": "103618"
+        },
+        {
+            "user_name": "Woods",
+            "text": "Er að nota fraps",
+            "date": "2006-01-04 20:26:00",
+            "post_id": "103635",
+            "reply_to_id": "103620"
+        },
+        {
+            "user_name": "Woods",
+            "text": "myndi eg fá hærra FPS með refresh force?? og Vsync on??",
+            "date": "2006-01-04 20:32:00",
+            "post_id": "103637",
+            "reply_to_id": "103635"
+        },
+        {
+            "user_name": "ICM",
+            "text": "gnarr hann er með SLI... SLI var ekki ráðlagt að nota með VSYNC eða Dual display nema nú nýjustu drivers styðja það, jafnvel að það hafi bara verið nýjustu BETA drivers.",
+            "date": "2006-01-04 20:33:00",
+            "post_id": "103638",
+            "reply_to_id": "103637"
+        },
+        {
+            "user_name": "Woods",
+            "text": "takk profa betuna",
+            "date": "2006-01-04 21:13:00",
+            "post_id": "103642",
+            "reply_to_id": "103638"
+        }
+    ],
+    "date": "2006-01-04 00:15:00"
+}

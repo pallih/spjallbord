@@ -1,0 +1,86 @@
+{
+    "forum_title": "Til sölu - Tölvuvörur",
+    "id": "46514",
+    "title": "TS  DDR2 Server minni",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=11&t=46514",
+    "posts": [
+        {
+            "user_name": "intelamd",
+            "text": "Til sölu 4x2GB DDR2 Server Vinnsluminni PC2-5300F - 555 -11 - B0\nSamsung M395T5663QZ4 - CE65  0993\nTilboð óskast",
+            "date": "2012-03-12 22:55:00",
+            "post_id": "428110",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "intelamd",
+            "text": "upp",
+            "date": "2012-03-14 07:38:00",
+            "post_id": "428433",
+            "reply_to_id": "428110"
+        },
+        {
+            "user_name": "intelamd",
+            "text": "upp",
+            "date": "2012-03-22 11:37:00",
+            "post_id": "430487",
+            "reply_to_id": "428433"
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "Hvernig er þetta eru þau að virka í normal ddr2 móðurborð",
+            "date": "2012-03-22 15:43:00",
+            "post_id": "430531",
+            "reply_to_id": "430487"
+        },
+        {
+            "user_name": "vesi",
+            "text": "var einnmitt að spá í þessu,, í hverju liggur munurinn.. Hraða þá eða spennu?? væri toppur að fá svar fyrir tóman haus...",
+            "date": "2012-03-22 16:20:00",
+            "post_id": "430539",
+            "reply_to_id": "430531"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Væntanlega ECC minni.\nhttp://en.wikipedia.org/wiki/ECC_memory\nECC minni virka hinsvegar fínt í non-ecc móðurborðum, svo að þið ættuð að geta notað þetta.",
+            "date": "2012-03-22 16:29:00",
+            "post_id": "430541",
+            "reply_to_id": "430539"
+        },
+        {
+            "user_name": "intelamd",
+            "text": "Það er rétt, þetta er ECC minni, en þau passa ekki í venjuleg DDR2 móðurborð.\nSamsung D2-667 2GB/128x8 ECC/FB-DIMM Original Memory -- M395T5663QZ4-CE66 Specifications Mfr Part Number: M395T5663QZ4-CE66 Type: DDR2 FB-DIMM Capacity: 2 GB Speed: PC5400 667MHz Size & Bit: 128x8 Pins: 240pin ECC: Yes Registered: No Fully-Buffered: Yes Chip: Samsung Rank: 2 CL5 5-5-5\nAvailability: Usually ships in 2-3 business days\nSamsung D2-667 2GB/128x8 ECC/FB-DIMM Original Memory -- M395T5663QZ4-CE66\nnewitem139776658  $115.00",
+            "date": "2012-03-22 18:57:00",
+            "post_id": "430586",
+            "reply_to_id": "430541"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Ertu viss?\nVenjulega virka ECC minni á non-ECC móðurborð... Það er þá bara slökkt á ECC fídusinum, en allt annað varðandi minnið virkar.\nEf minnið væri registered þá myndi það ekki virka með \"venjulegu\" móðurborði en þar sem það er bara ECC og ekki registered þá sé ég ekki afhverju það ætti ekki að virka.",
+            "date": "2012-03-22 21:05:00",
+            "post_id": "430611",
+            "reply_to_id": "430586"
+        },
+        {
+            "user_name": "intelamd",
+            "text": "Nokkuð viss, passa allavega ekki í mín borð.\nFB-DIMMS have 240 pins and are the same total length as other DDR DIMMs but differ by having indents on both ends within the slot.",
+            "date": "2012-03-23 07:58:00",
+            "post_id": "430671",
+            "reply_to_id": "430611"
+        },
+        {
+            "user_name": "intelamd",
+            "text": "upp",
+            "date": "2012-03-25 09:34:00",
+            "post_id": "431010",
+            "reply_to_id": "430671"
+        },
+        {
+            "user_name": "intelamd",
+            "text": "upp",
+            "date": "2012-04-03 23:31:00",
+            "post_id": "433291",
+            "reply_to_id": "431010"
+        }
+    ],
+    "date": "2012-03-12 22:55:00"
+}

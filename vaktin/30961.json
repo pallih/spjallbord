@@ -1,0 +1,30 @@
+{
+    "forum_title": "Framtíð og þróun",
+    "id": "30961",
+    "title": "Home server",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=35&t=30961",
+    "posts": [
+        {
+            "user_name": "Chrome",
+            "text": "Já, ég er með aukatölvu og mig langar að setja upp home network server, troða fullt af hörðum diskum í hann og svo allir sem eru að niðurhala á heimilinu geta hennt því þangað svo þegar að maður vill horfa á mynd þá getur maður sótt hana þaðan, hvaða stýrikerfi mæliði með í þetta ? (Allir á heimilinu nota windows mest) og einhver sérstök forrit sem að maður gæti notað í þetta til þess að einfalda manni gagnasendinguna ?",
+            "date": "2010-06-28 13:41:00",
+            "post_id": "269100",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Windows Home server!\nEkki spurning, hentar að mér heyrist fullkomnlega í þetta. Er búinn að nota hann persónulega sjálfur í um 2 ár núna og get ekki beðið eftir 2008 útgáfunni (Vail).\n- Viðbjóðslega sniðug og hagkvæm backup lausn\n- Localised user möppur (eins og litli bróðir domain)\n- Storage pool, hendir bara hvaða diskum sem þú vilt í vélina og WHS býr til eitt stórt pláss sem allir hafa aðgang að\n- Remote aðgangur hvaðan sem er inná allar vélar tengdar WHSinum\n- Media streaming möguleikar, þó svo að það séu til mörg forrit sem gera það betur",
+            "date": "2010-06-28 14:10:00",
+            "post_id": "269103",
+            "reply_to_id": "269100"
+        },
+        {
+            "user_name": "Chrome",
+            "text": "Takk kærlega fyrir, ætla að prófa þetta.",
+            "date": "2010-06-28 14:22:00",
+            "post_id": "269104",
+            "reply_to_id": "269103"
+        }
+    ],
+    "date": "2010-06-28 13:41:00"
+}

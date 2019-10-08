@@ -1,0 +1,23 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "65172",
+    "title": "Nvidia driver vandamál",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=65172",
+    "posts": [
+        {
+            "user_name": "birgirsmari",
+            "text": "Var að kaupa mér gigabyte geforce 750 ti og smelli því í og ætla að intalla driver og nvidia gerir sjálfvirkt system check og segist ekki finna viðeigandi hardware og neitar að intalla. Var hingað til með intel hd skjástýringu og en hef áður tengt nvidia quadro kort einu sinni. Búinn að uninstalla úr control panel eldri driverum. \n Er einhver leið til að fá tölvuna til að nema nýja kortið eða installa drivernum án þessa system check.\nJá,  kortið er tengt.\nMeð fyrirfram þökk um alla aðstoð.",
+            "date": "2015-04-06 13:32:00",
+            "post_id": "595493",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Moldvarpan",
+            "text": "Disable-a onboard skjákortið í BIOS.\nFara svo á \nhttp://www.nvidia.com/Download/index.aspx?lang=en-us\n  og ná í viðeigandi driver eftir því hvaða stýrikerfi þú ert að nota.\nEasy.\nÞarft ekki að gera neitt system check.",
+            "date": "2015-04-06 13:38:00",
+            "post_id": "595494",
+            "reply_to_id": "595493"
+        }
+    ],
+    "date": "2015-04-06 13:32:00"
+}

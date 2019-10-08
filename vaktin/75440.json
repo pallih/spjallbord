@@ -1,0 +1,135 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "75440",
+    "title": "Router/switch ???",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=75440",
+    "posts": [
+        {
+            "user_name": "rapport",
+            "text": "Sælir\nEr að fara flytja og dauðlangar að koma router fyrir inn í smáspennutöflunni hjá ljósleiðaraboxinu og virkja alla nettengla í íbúðinni.\nÍ einn af þessum nettenglum er svo hugmyndin að tengja gamla Linksys routerinn minn og nota til að búa til þráðlaust net.\ns.s. routerinn í í skáp þarf að vera lítill, með þægilega litlum straumbreyti, án WLAN möguleika og með minnst sex port 1Gbps.\nAny ideas?\nFinnst þetta svo borðliggjandi að ég furða mig á að það sé ekki einhver verslun sem vísar manni beint á það sem maður þarf.",
+            "date": "2018-01-31 21:34:00",
+            "post_id": "666182",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "wicket",
+            "text": "EdgeRouter, alvöru stöff sem er í þeirri stærð sem þú talar um",
+            "date": "2018-01-31 21:46:00",
+            "post_id": "666183",
+            "reply_to_id": "666182"
+        },
+        {
+            "user_name": "Dúlli",
+            "text": "Það er líka góð lausn að hafa routerinn eitthver staðar inn í íbúð, hafa 2-3x cat strengi á staðsetningunni.\n1x Strengur frá ljósleiðaraboxinu í router.\n1x Strengur til baka í tölfuna í 5-8 porta switch.\nEf þú ert með Sjónvarp líka þá bætir þú við 3x streng. \nHef reddað þessu oft svona hjá viðskiptarvinum og þá er fínt wifi á ákveðnum stöðum og allt er tengjanlegt inn í töflu.",
+            "date": "2018-01-31 21:47:00",
+            "post_id": "666184",
+            "reply_to_id": "666183"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Það er bara ekki mikið um routera sem eru ekki svona \"all-in-one\" græjur, þ.e líka með WIFI AP og hvaðeina.\nTek undir þetta hjá Wicket, EdgeRouter frá Ubiquiti er algjörlega málið.  Ef þú þarft a.m.k 6 port, þá þarftu líklega að fara í EdgeRouter Pro.  X er bara 5 port og Lite bara 3 ef ég man rétt.\nGætir líka bara keypt EdgeRouter X og svo ódýran 8 porta 100/1000 switch.  Það er eflaust ódýrara en EdgeRouter Pro, þ.e ef þú hefur plássið fyrir tvær svona litlar græjur í smáspennutöflunni.  EdgeRouter X er litlu stærri en spilastokkur.",
+            "date": "2018-01-31 21:56:00",
+            "post_id": "666187",
+            "reply_to_id": "666184"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Where to buy?\nMálið er að taflan er inn í þvottahúsi og ég vil ekki hafa neitt tæki fyrir utan töfluna/skápinn upp á raka og ryk.\nOg innstungan fyrir rafmagn er líka inn í skápnum = allt er til staðar uppá að hafa þett abara inní skápnum og þurfa ekki að horfa á óþarfa snúrur.\nEr ekki með afruglara, bara nVidia Shield með Pluto ef maður vill flakka milli stöðva og horfa á bara eitthvað rusl, Netflix, Amazon Prime, Skjá símans og RúV.\nEDIT: Var að fatta, 5 virkir nettenglar duga mér, það eru sex í íbúðinni en 5 dugar fínt.\nHvar kaupir maður svona græju hér heima?\nhttps://www.ubnt.com/edgemax/edgerouter-x-sfp/",
+            "date": "2018-01-31 21:57:00",
+            "post_id": "666188",
+            "reply_to_id": "666187"
+        },
+        {
+            "user_name": "Dúlli",
+            "text": "Það sem ég meina að þú myndir hafa 2x strengi sem fara til dæmis inn í stofu, einn sendir frá ljósleiðaraboxinu í til dæmis routerinn í stofunni og annar strengur sendir til baka inn í smáspennutöfluna og þar ertu með switch og öll herbergi tengd í það \n Góð, fljótt og ódýrt lausn.\nÞarft í raun ekki hafa þetta í stofuna, getur haft alstaðar þar sem net/símatengill er og bætir við auka cat streng út í töflu og þá ertu komin út í það að eiga mun meira úrval af búnaði til að velja úr og smáspennutaflan er clean og ekki pökkuð \nSjá mynd.",
+            "date": "2018-01-31 22:04:00",
+            "post_id": "666190",
+            "reply_to_id": "666188"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Hef etta í bakhöndinni, fatta þig núna :-)",
+            "date": "2018-01-31 22:32:00",
+            "post_id": "666196",
+            "reply_to_id": "666190"
+        },
+        {
+            "user_name": "Dúlli",
+            "text": "Annars lúkkar þessi router cool, ef þú finnur verð á honum máttu deila en mér líður eins og hann muni kosta handlegg",
+            "date": "2018-01-31 22:33:00",
+            "post_id": "666197",
+            "reply_to_id": "666196"
+        },
+        {
+            "user_name": "Mummi",
+            "text": "Við höfum fjölmargir verið að versla þetta héðan\nhttps://www.eurodk.com/en/products/ubnt ... gerouter-x\nMun ódýrara en t.d. í Origo/Nýherja og fl.\nMæli líka með Wifi græjunni (\nhttps://www.eurodk.com/en/products/indo ... fi-ac-lite\n)\nÞetta eru græjur sem svínvirka.",
+            "date": "2018-01-31 22:49:00",
+            "post_id": "666200",
+            "reply_to_id": "666197"
+        },
+        {
+            "user_name": "hagur",
+            "text": "WIFI access punktana er líka hægt að kaupa á senetic.co.uk en þeir senda ekki routera til Íslands útaf einhverri ESB reglugerð skilst mér.\neurodk.com virðast hunsa þessar reglur og senda routera hingað, ekkert mál.",
+            "date": "2018-01-31 23:37:00",
+            "post_id": "666202",
+            "reply_to_id": "666200"
+        },
+        {
+            "user_name": "russi",
+            "text": "Er einhver með reynslu af Edgerouter X vs Lite?  Hef verið að hugsa þetta en ekki tekið enn á skarið",
+            "date": "2018-01-31 23:55:00",
+            "post_id": "666205",
+            "reply_to_id": "666202"
+        },
+        {
+            "user_name": "Hauxon",
+            "text": "Hvers vegna ætti hann frekar að fá sér Edgerouter en USG?  Myndi USG ekki gera það sama nema integrera betur ef hann fær sér meira UniFi dót, t.d. AP og/eða sviss?",
+            "date": "2018-02-01 10:03:00",
+            "post_id": "666225",
+            "reply_to_id": "666205"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Hvað er USG?",
+            "date": "2018-02-01 10:39:00",
+            "post_id": "666229",
+            "reply_to_id": "666225"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Unifi Security Gateway.\nM.v það sem ég hef lesið þá virðast flestir mæla með EdgeRouter frekar en USG.  Það sem USG hefur framyfir er betra integration inn í Unifi platformið og svo vissulega DPI fídusinn, sem er kúl en ekki endilega eitthvað maður myndi nota eitthvað.  Annars hefur EdgeRouter vinninginn.\nEdgeRouter X er líka svo mikið bang for the buck að það er leitun að öðru eins.",
+            "date": "2018-02-01 10:52:00",
+            "post_id": "666233",
+            "reply_to_id": "666229"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Mig vantar bara fleiri port",
+            "date": "2018-02-01 10:56:00",
+            "post_id": "666234",
+            "reply_to_id": "666233"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Hvað með að taka EdgeRouter X og svo bara nettan 5 eða 8 porta switch líka?  Hefurðu pláss í töflunni fyrir tvö svona lítil tæki?",
+            "date": "2018-02-01 11:02:00",
+            "post_id": "666236",
+            "reply_to_id": "666234"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Ég er bara með tvær innstungur fyrir rafmagn, eina fyrir ljósleiðaraboxið og aðra fyrir router.\nHeld að ég nái að leysa þetta með því að færa gamla routerinn sem ég ætlaði að nota sem AP  inn í sjónvarpsherbergið og tengi svo sjónvarpstölvuna aftaní hann = einn vír í tvö tæki.\nVonandi verður network coverage bara ekki slæmt :-)",
+            "date": "2018-02-01 11:16:00",
+            "post_id": "666237",
+            "reply_to_id": "666236"
+        },
+        {
+            "user_name": "Cascade",
+            "text": "Ég hef sjálfur gert þetta einu sinni og mæli með.\nÞá var smáspennuboxið í þvottahúsi í lítilli töflu.\nÞar setti ég bara 8 porta switch.\nÞar sem sjónvarpið var, þar var tvöfalt ethernet tengi. Þar var ég með routerinn, hann var semsagt inn í sjónvarpsskápnum/kommóðu eða hvað sem það kallast, svo það sáust engar snúrur og routerinn var á fullkomnum stað hvað varðar wifi fyrir íbúðuna\nSvo leiðin var þannig:\nLjósleiðarabox (smáspennuskápur í þvottahúsi)-> router (hjá sjónvpari) -> Switch (til baka aftur í þvottahús smá spennutöflu) -> Switch tengdur svo í alla ethernettengla í íbúðinn (sem augljóslega enda í smáspennuboxi).\nMyndi auðvitað koma út á það sama ef maður væri með router sem væri nógu nettur til að passa í töfluna og með nóg af ethernet portum (og vera þá með AP einhversstaðar inn í íbúð)",
+            "date": "2018-02-01 11:36:00",
+            "post_id": "666238",
+            "reply_to_id": "666237"
+        }
+    ],
+    "date": "2018-01-31 21:34:00"
+}

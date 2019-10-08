@@ -1,0 +1,51 @@
+{
+    "forum_title": "Windows",
+    "id": "28591",
+    "title": "Win7 7600 to Win7 Retail",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=28591",
+    "posts": [
+        {
+            "user_name": "GuðjónR",
+            "text": "Ég þarf að installera win7 retail á tölvu sem er með win7 7600 (beta áður en final kom út) en win7 7600 leyfir ekki upgrade.\nBara clean install, sem er bögg því þá þarf að installera öllu öðru í leiðinni.\nOg til að bæta gráu ofan á svart þá segir tölvan að win7 7600 expire after one day. Vitið þið hvað gerist þá? Fer allt í lás?\nÉg er ekki með tölvuna hérna og get því ekki gert tilraunir, þarf að fixa þetta fyrir mann út í bæ.\nFlott að fá svona góðan fyrirvara \nAllar ábendingar vel þegnar.",
+            "date": "2010-02-28 15:40:00",
+            "post_id": "247376",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "einarhr",
+            "text": "Tölvan endurræsir sig á 2 tíma fresti þangað til 1 júni eða júlí, man það ekki nákvæmlega. Eftir 1 júlí þá er ekki hægt að ræsa upp stýrikerfið.",
+            "date": "2010-02-28 15:48:00",
+            "post_id": "247380",
+            "reply_to_id": "247376"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Leiðbeiningar\nÞú ert samt líklegast að tala um RC1 Build 7100 því að Win7 Retail er 7600",
+            "date": "2010-02-28 15:50:00",
+            "post_id": "247382",
+            "reply_to_id": "247380"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Gott að vita að tölvan fer ekki í lás, bara restart hægri/vinstri.\nJá...það má vel vera að þetta sé 7100...mig minnir samt að það hafi staðið 7600 niðri í hægra horninu síðast þegar ég sá þessa tölvu.\nTakk fyrir trikkið að breyta  7233 í 7000 ef það virkar ekki þá er það bara clean install.",
+            "date": "2010-02-28 16:09:00",
+            "post_id": "247389",
+            "reply_to_id": "247382"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Build 7600 er retail útgáfa.",
+            "date": "2010-02-28 18:02:00",
+            "post_id": "247400",
+            "reply_to_id": "247389"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Var að fixa þetta í morgun, og auðvitað höfðuð þið rétt fyrir ykkur. \nVersionið sem var að renna út var 7100, ég notaði leiðbeiningarnar frá \nbeatmaster\n og þær virkuðu fullkomlega.\nTakk takk",
+            "date": "2010-03-01 12:51:00",
+            "post_id": "247530",
+            "reply_to_id": "247400"
+        }
+    ],
+    "date": "2010-02-28 15:40:00"
+}

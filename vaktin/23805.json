@@ -1,0 +1,44 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "23805",
+    "title": "IDE...",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=23805",
+    "posts": [
+        {
+            "user_name": "Cascade",
+            "text": "Afhverju er fólk að kalla PATA diska IDE\nFer það ekki í taugarnar á neinum hérna?\nEf þú kallar Serial ATA diska SATA, afhverju ekki kalla Parellal ATA diska PATA?\nHér er t.d. smá texti:\nIDE - Integrated Drive Electronics\nThis is a popular term, it really should be called ATA - Advanced Technology Attachment. One of the earliest types. Also known as ATA-1. Data transfer rate of about 8Mbps (8 million bits per second).\nEIDE - Enhanced IDE\nAlso known as ATA-2 or fast ATA, offered speeds of upto 16Mbps.\nATA-3\nThis was a minor revision to ATA-2.\nATA-4\nAlso known as Ultra ATA/33, Ultra DMA, ATA-33 and DMA-33. Transfer speeds of upto 33Mbps. This was revised to offer support for CD ROM drives and was known as ATAPI (ATA Packet Interface).\nATA-5\nAlso known as Ultra ATA/66, ATA-66 and Ultra DMA-66. Transfer speeds of upto 66Mbps.\nATA-6\nAlso known as Ultra ATA/100, ATA-100 and Ultra DMA-100. Transfer speeds of upto 100Mbps.\nATA-7\nAlso known as Ultra ATA-133, ATA-133 and Ultra DMA-133. Offers speeds of upto 133Mbps and is expected to be the last update to the ATA standard.\nSATA - Serial ATA\nThis is one of the latest and popular developments. The high speed serialized AT attachment. Currently SATA offers ransfer speeds of upto 150Mbps. However, this technology can offer upto 600Mbps with further development. The next stage is increasing the speed to 300Mbps.\nPATA - Parallel ATA\nAnother new technology? NO. Since the introduction of Serial ATA, the ATA technology is now referred to as the Parallel ATA or PATA.\nSome of the earlier ATA developments like IDE and EIDE are obsolete, but even today some drives are categorized as IDE or EIDE. They are bound to be of the newer ATA types, but due to the popularity of IDE and EIDE the name has stuck. Since Serial ATA gaining prominence, changing IDE to ATA would only add to the confusion.\nSearial ATA II or SATA II does not exist. It is a common misconception and anyone labelling their drive as SATA II with 300Mbps(3.0Gbps) would be incorrect. The higher speed may be available in the near future, but not so at the time of writing this guide. \nOg svo af wikipedia: \nThe current Parallel ATA standard is the result of a long history of incremental technical development. ATA/ATAPI is an evolution of the AT Attachment Interface, which was itself evolved in several stages from Western Digital's original Integrated Drive Electronics (IDE) interface. As a result, many near-synonyms for ATA/ATAPI and its previous incarnations exist, including abbreviations such as IDE which are still in common informal use. After the market introduction of Serial ATA in 2003, the original ATA was retroactively renamed Parallel ATA.\nt.d. í EJS svindl þræðinum er gæinn furíus af því hann segir að það sé IDE diskur í tölvunni, en er svo með SATA disk\nOk, það er greinilega komin smá venja að kalla PATA diska IDE.. en finnst engum það heimskulegt?\nÁ ekki að leyfa fólki sem veit ekkert um tölvur að kalla þetta IDE diska og hinir sem vita betur að kalla þetta ATA/PATA\nEr þetta virkilega ekki að bögga neinn?",
+            "date": "2009-07-08 09:53:00",
+            "post_id": "211125",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "depill",
+            "text": "Ekki mig allavega. Ég veit að þegar fólk er að tala um IDE, þá er það að meina PATA. Ég allavega sé ekki vandamál við þetta á meðan fólk veit hvað er verið að tala um.... ?",
+            "date": "2009-07-08 10:10:00",
+            "post_id": "211126",
+            "reply_to_id": "211125"
+        },
+        {
+            "user_name": "Cascade",
+            "text": "Samt kjánalegt finnst mér\nSamt varð misskilningur í ejs þræðinum þar sem hann hélt að hann hefði PATA disk þar sem hann rak augun í eitthvað IDE, þó svo ég fatti ekki afhverju það stóð IDE þar",
+            "date": "2009-07-08 10:19:00",
+            "post_id": "211127",
+            "reply_to_id": "211126"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "Já það voru mín mistök...ég er nokkuð viss um að það var vegna AHCI stillingar í BIOS. Þess vegna hefur staðið IDE \nOg btw...ég var ekkert furious yfir að þetta var IDE, skiptir nú ekki svo miklu máli. Ég var pirraður útaf því að ég þurfti að bíða lengi eftir tölvunni og svo þurfti ég að bíða eftir straumbreytinum og þegar allt var komið var diskurinn helmingurinn af stærð disksins sem á að vera í tölvunni. Og í pirringnum fattaði ég ekki að tékka á BIOSnum",
+            "date": "2009-07-08 12:27:00",
+            "post_id": "211133",
+            "reply_to_id": "211127"
+        },
+        {
+            "user_name": "lukkuláki",
+            "text": "PATA eða IDE skiptir í raun engu máli er það ? við vitum hvað er verið að tala um er það ekki.\nLæturðu svona smámuni fara í taugarnar á þér ?\nSennilega hefur þetta IDE nafn fest á þessum diskum því kaplarnir eru alltaf kallaðir IDE kaplar\nþað eru ekki nema nokkur ár síðan ég fór að heyra þetta PATA.",
+            "date": "2009-07-27 20:26:00",
+            "post_id": "212806",
+            "reply_to_id": "211133"
+        }
+    ],
+    "date": "2009-07-08 09:53:00"
+}

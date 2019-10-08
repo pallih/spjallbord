@@ -1,0 +1,23 @@
+{
+    "forum_title": "Allt annað...",
+    "id": "32416",
+    "title": "HDMI",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=67&t=32416",
+    "posts": [
+        {
+            "user_name": "PepsiMaxIsti",
+            "text": "Góðan dag\nMig langar að koma með eina spurningu.\nÉg er með sjónarp sem að er með HDMI tengi og tölvu, mig langar að ath hvort að það sé nóg að vera með hdmi snúru, eða hvort að ég þurfi sér snúru fyrir hljóðið. \nSíðan langar miglíka að athuga hvaða forrit er best til að spila svona mkv og þannig fila. Endilega láta vita ykkar skoðun.\nPs. er með windows 7",
+            "date": "2010-09-09 11:05:00",
+            "post_id": "280938",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Sydney",
+            "text": "Í fyrsta lagi er þessi þráður á vitlausum stað, ætti ekki að vera í markaðnum.\nÍ öðru lagi fer það eftir skjákortinu. Ef þú ert með ATi kort, 4000 eða 5000 seríu, eru allar líkur á að það sé innbyggt hljóðkort í skjákortinu, sem þýðir að einfaldur HDMI kapall er nóg. \nEf þú ert með nvidia kort, 200 eða 400 sería, þá þarftu að tengja skjákortið við móðurborðið með S/PDIF kapli sem fylgir með skjákortinu, þá færðu það sem mig minnir að kallist \"passthrough\" audio, móðurborðið sér um digital hljóðið og sendir það í gegnum skjákortið yfir í HDMI tengið.\nEf þú ert með innbyggt HDMI á móðurborðinu og ert að nota það, þá eru að öllum líkindum líka hljóð í gegnum það tengi. \nEf ekkert að þessu á við þig, verðuru tengja hljóðið sér. \nEf skjákortið er ekki með HDMI og þú ætlar að nota DVI>HDMI breytistykki þá virkar það bara með einstökum ATi kortum með sérstökum ATi adapter. \nVarðandi forritið, þá mæli ég með VLC.",
+            "date": "2010-09-09 12:58:00",
+            "post_id": "280954",
+            "reply_to_id": "280938"
+        }
+    ],
+    "date": "2010-09-09 11:05:00"
+}

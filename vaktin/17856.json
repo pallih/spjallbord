@@ -1,0 +1,114 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "17856",
+    "title": "Diskadrif - hiksti",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=17856",
+    "posts": [
+        {
+            "user_name": "Haddi",
+            "text": "Sælir.\nHef verið í vandræðum með diskadrifið hjá mér undanfarna mánuði. Alltaf þegar ég spila t.d. DVD diska í tölvunni, þá hikstar allt og tölvan verður mjög hægvirk. Þegar ég hlusta á CD diska í tölvunni, þá hikstar tónlistin og tölvan verður hægvirk. Þetta lagaðist ekki þegar ég formattaði tölvuna.\nVitiði hvað veldur?",
+            "date": "2008-04-23 14:33:00",
+            "post_id": "173005",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Xyron",
+            "text": "Byrjaðu á að prófa þetta:\nklikkaðu með hægri á \"My Computer\" -> \"Properties\" -> \"Hardware\" flipinn -> [Device Manager] -> klikkar á plúsinn hjá \"Ide ATA/ATAPI controllers\" -> klikka með hægri á \"Geisladrifs IDE Channel\" -> Properties -> \"Advanced Settings\" flipinn -> Passaðu að \"Transfer Mode\" fyrir bæði \"Device 0\" og \"Device 1\" sé á \"DMA if available\" og athugaðu hvað stendur í \"Current Transfer Mode\" í báðum dálkum -> klikkaðu á [OK] -> Hægriklikka á \"Secondary IDE Channel\" og velja \"properties og gera það sama og þú gerðir fyrir \"Primary IDE Channel\". \nss. tjekka ef geisladrifið sé fast í PIO mode, ef það er fast í PIO mode.. þá ertu kominn með ástæðuna.",
+            "date": "2008-04-23 14:39:00",
+            "post_id": "173006",
+            "reply_to_id": "173005"
+        },
+        {
+            "user_name": "Haddi",
+            "text": "Viðhengi.... svona kemur það hjá mér.\nÍ neðsta Sec. Controller var ekki á \"DMA if aviable\"\nSvo fæ ég allstaðar í \"Current Transfer Mode\": Not Applicable.",
+            "date": "2008-04-23 14:51:00",
+            "post_id": "173008",
+            "reply_to_id": "173006"
+        },
+        {
+            "user_name": "mind",
+            "text": "Etta var rétt hjá Xyron er stundum leyfir tölvan manni það ekki (sérstaklega á fartölvum)\nEydd þessu öllu út sem þú getur undir IDE ATI/ATAPI controllers og restartaðu tölvunni.\nÆtti vandamálið að leysast",
+            "date": "2008-04-23 15:25:00",
+            "post_id": "173010",
+            "reply_to_id": "173008"
+        },
+        {
+            "user_name": "Haddi",
+            "text": "wha?",
+            "date": "2008-04-23 19:23:00",
+            "post_id": "173028",
+            "reply_to_id": "173010"
+        },
+        {
+            "user_name": "Haddi",
+            "text": "hugsi hugs",
+            "date": "2008-04-24 13:51:00",
+            "post_id": "173050",
+            "reply_to_id": "173028"
+        },
+        {
+            "user_name": "Xyron",
+            "text": "Step by step howto:\nhttp://users.bigpond.net.au/ninjaduck/i ... /udma_fix/",
+            "date": "2008-04-24 14:37:00",
+            "post_id": "173052",
+            "reply_to_id": "173050"
+        },
+        {
+            "user_name": "Haddi",
+            "text": "Þetta fæ ég í Windows media player:",
+            "date": "2008-04-24 19:37:00",
+            "post_id": "173065",
+            "reply_to_id": "173052"
+        },
+        {
+            "user_name": "Haddi",
+            "text": "TTT",
+            "date": "2008-04-26 11:52:00",
+            "post_id": "173153",
+            "reply_to_id": "173065"
+        },
+        {
+            "user_name": "Xyron",
+            "text": "Er tölvan hætt að vera hæg þegar þú setur diska í drifið núna?\nGetur þú spilað diska með öðrum forritum? (prófaðu að nota vlc til að útiloka codec vandamál)",
+            "date": "2008-04-29 14:42:00",
+            "post_id": "173344",
+            "reply_to_id": "173153"
+        },
+        {
+            "user_name": "Haddi",
+            "text": "Þegar ég spila diska í vlc (eða iTunes) þá kemur þessi hiksti, ef ég spila þetta í WMP þá kemur þessi villa sem sést þarna að ofan.",
+            "date": "2008-04-29 17:28:00",
+            "post_id": "173359",
+            "reply_to_id": "173344"
+        },
+        {
+            "user_name": "Xyron",
+            "text": "Þetta vandamál þitt hljómar hrikalega fyrir að vera pio mode vessen..\nVarstu örugglega búinn að prófa að henda út þeim ide channel sem geisladrifið þitt er að keyra á?\nÞetta er eitthvað skrítið, þetta á bara að koma á þeim drifum sem eru ekki í sambandi.. (að mér vitandi)\nHvernig ertu með geisladrifið sett upp í tölvunni þinni?",
+            "date": "2008-04-29 18:46:00",
+            "post_id": "173362",
+            "reply_to_id": "173359"
+        },
+        {
+            "user_name": "Haddi",
+            "text": "Sko, þetta virkaði (held ég) fyrst, svo bara allt í einu bæng.. var fyrst með Vista, en setti svo XP á hana, nota diskadrifið mjög sjaldan.. gæti verið möguleiki að það hafi bara aldrei virkað í XP? Samt minnir mig að ég hafi horft á einhverja DVD mynd í XP á henni.. skrítið...",
+            "date": "2008-04-29 18:57:00",
+            "post_id": "173363",
+            "reply_to_id": "173362"
+        },
+        {
+            "user_name": "Haddi",
+            "text": "Samt skrítið því ég gat sett upp XP án vandræða..",
+            "date": "2008-05-02 00:00:00",
+            "post_id": "173509",
+            "reply_to_id": "173363"
+        },
+        {
+            "user_name": "Demon",
+            "text": "Stundum þarf að breyta yfir í DMA mode í biosnum, búinn að reyna það?",
+            "date": "2008-05-22 18:25:00",
+            "post_id": "175038",
+            "reply_to_id": "173509"
+        }
+    ],
+    "date": "2008-04-23 14:33:00"
+}

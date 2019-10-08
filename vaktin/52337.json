@@ -1,0 +1,93 @@
+{
+    "forum_title": "Koníakstofan",
+    "id": "52337",
+    "title": "Raspberry Pi - Gertboard/GPIO?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=9&t=52337",
+    "posts": [
+        {
+            "user_name": "natti",
+            "text": "Bara að spá.\nEr einhver hérna sem keypti sér Gertboard fyrir Raspberry Pi en hætti við að setja saman/nota og vantar að losna við fyrir lítið?\nOn a related note: Þeir sem eiga Raspberry, hafið þið verið að smíða einhver project með GPIO pinnana?\n(Lesist: hafa menn&konur verið að gera e-ð annað með Raspberry en að nota það sem media player?)\nOg þá kannski með reynslu af einhverjum öðrum extension boards?",
+            "date": "2012-12-27 22:05:00",
+            "post_id": "486052",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "arons4",
+            "text": "Planið var þegar ég hef tíma/peninga að smíða mér fræsivél og nota gpio pinnana sem stýringar fyrir stepperana.",
+            "date": "2012-12-28 06:44:00",
+            "post_id": "486083",
+            "reply_to_id": "486052"
+        },
+        {
+            "user_name": "arnif",
+            "text": "eg hef verid ad fikta soldid med webiopi",
+            "date": "2012-12-28 11:13:00",
+            "post_id": "486104",
+            "reply_to_id": "486083"
+        },
+        {
+            "user_name": "Garri",
+            "text": "Ertu þá að hugsa um að hafa fræsarann á stýranlegum örmum? Kannski láta hann \"hjóla\" sjálfan eftir örmunum með aðstoð steppara?\nVæri gaman að smíða svona mini útgáfu af þessu.. til dæmis með dremmel áfast..",
+            "date": "2012-12-28 11:36:00",
+            "post_id": "486109",
+            "reply_to_id": "486104"
+        },
+        {
+            "user_name": "Gislinn",
+            "text": "Hann er eflaust að tala um DIY CNC eins og er sýnt \nhér\nAnnars þá er ég mikið búinn að vera að spá í hvort ég ætti að skipta út Arduino stýringunni í 3D prentaranum hjá mér og nota RPi í staðinn, þá væri möguleiki að hafa 3D prentarann wireless.  \n  Hef ekki enn gert neitt í því af viti þar sem ég hef ekki haft tíma.",
+            "date": "2012-12-28 13:06:00",
+            "post_id": "486118",
+            "reply_to_id": "486109"
+        },
+        {
+            "user_name": "natti",
+            "text": "Hvernig prentara ertu með?",
+            "date": "2012-12-28 13:33:00",
+            "post_id": "486124",
+            "reply_to_id": "486118"
+        },
+        {
+            "user_name": "Gislinn",
+            "text": "RepRap H-1 (fékk plast-partana frá SeeMeCNC) með RAMPS stýringu.",
+            "date": "2012-12-28 14:11:00",
+            "post_id": "486133",
+            "reply_to_id": "486124"
+        },
+        {
+            "user_name": "natti",
+            "text": "Dauðlangar í 3D prentara.\nMeira svona \"afþvíbara\" (lesist: græjufíkn).\nHeld ég bíði með 3D prentara pælingar samt þar til ég hef aðeins meiri tíma.\nFékk annars basic GPIO á Raspberry tölvunni til að virka í dag.\nÉg veit að það á auðvitað ekki að gera þetta svona, en basic led test sakar ekki meðan ég bíð eftir expansion borði til að passa upp á spennu etc. (og þá hef ég líka analog input.)\nhttp://www.youtube.com/watch?v=pr2utLKEIVw\nhttp://www.youtube.com/watch?v=ZcSwneY-Z9A",
+            "date": "2012-12-28 22:04:00",
+            "post_id": "486234",
+            "reply_to_id": "486133"
+        },
+        {
+            "user_name": "Gislinn",
+            "text": "Ef þú átt breadboard á lausu að þá ættiru að geta gert u.þ.b. allt á því sem þú getur gert með gertboard. Bara svona ef þig langar að fikta þig meira áfram\n(þetta gæti komið að notum)\n.\nVerður bara að passa að shorta ekki 5V með öðrum pinnum, þannig skemmiru borðið þitt.",
+            "date": "2012-12-29 01:43:00",
+            "post_id": "486271",
+            "reply_to_id": "486234"
+        },
+        {
+            "user_name": "Klaufi",
+            "text": "Beaglebone.",
+            "date": "2012-12-29 02:57:00",
+            "post_id": "486280",
+            "reply_to_id": "486271"
+        },
+        {
+            "user_name": "Gislinn",
+            "text": "Beaglebone er góður kostur, en Raspberry Pi er ódýrari kostur og hefur HDMI + hljóð innbyggt.\nBeaglebone hefur samt margfalt meiri tengi möguleika, notar minna rafmagn og er í raun miklu betri kostur sem stýring (meira afl en Arduino, fleiri tengi en Raspberry Pi). Ég væri alveg til í að eiga beaglebone, þótt ég hafi ekkert við það að gera í raun.",
+            "date": "2012-12-29 10:39:00",
+            "post_id": "486303",
+            "reply_to_id": "486280"
+        },
+        {
+            "user_name": "natti",
+            "text": "Ég gæti gert allt sem gertboardið gerir ef ég hefði hugmynd um hvað ég væri að gera. (Which I don't at this point.)\nBreadboardi er minnsti hlutinn af þessu, buffer chip og hinir componentarnir til að fá analog input er það sem ég hef áhuga á.\nÉg var búinn að skoða \nþetta\n í því samhengi, en týndi mér svo í að leita eftir þessum chippum.\nÞetta endaði að vísu þannig að vinnufélagi minn pantaði nokkur <insertname>borð (man ekki nafn né týpu).\nBíð spenntur eftir þeim til að taka þetta lengra.\nMörg arduino borðin geta líka verið fín extension fyrir t.a.m. Raspberry, Raspberry og arduino virðast complementa hvoru öðru ágætlega miðað við það sem ég hef lesið.\nHef ekki kynnt mér beagleborðið neitt af viti, en þar sem ég er þegar kominn með Raspberryinn þá ætla ég að fókusa á hann að sinni.\nAldrei að vita nema ég skoði Beaglebone seinna.\nAnnars datt ég inn á \nþetta borð, PiXi-200\n, áhugavert en byrjar ekki í sölu fyrr en einhverntímann um mitt ár 2013...\nVerð að viðurkenna að ég var nú að vonast til þess að það væru fleiri hérna búnir að nördast e-ð með Raspberryinn...",
+            "date": "2012-12-29 23:14:00",
+            "post_id": "486405",
+            "reply_to_id": "486303"
+        }
+    ],
+    "date": "2012-12-27 22:05:00"
+}

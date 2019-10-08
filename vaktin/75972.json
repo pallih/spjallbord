@@ -1,0 +1,93 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "75972",
+    "title": "Næ ekki að sýna 4K mynd á plex á local neti",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=75972",
+    "posts": [
+        {
+            "user_name": "Siggihp",
+            "text": "Ég er að keyra Plex á ubuntu server, sem er tengdur með snúru við routerinn og er með tölvu inní stofu sem er líka tengd með snúru við routerinn sem nær ekki að spila mynd hjá mér sem er í 4K gæðum. Bæði Plex og VLC lenda í vandræðum með þessa mynd.\nHvað er að cappa í þessu hjá mér?",
+            "date": "2018-04-05 22:01:00",
+            "post_id": "669980",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Viggi",
+            "text": "Held að þessar risa 4k skrár séu bara of stórar til að strema á local neti. Nota sjálfur universal media server með snúru í tv og nákvæmlega sama sagan og oft sama vandamálið með stærri 1080 skrár. Virkar allt fínt beint af flakkara",
+            "date": "2018-04-05 22:10:00",
+            "post_id": "669982",
+            "reply_to_id": "669980"
+        },
+        {
+            "user_name": "Siggihp",
+            "text": "Er með aðra borðtölvu snúrutengda, reyndar öflugri en þessi í stofunni og hún nær að sýna myndina, hikstandi og hljóðið dettur inn af og til.",
+            "date": "2018-04-05 22:13:00",
+            "post_id": "669983",
+            "reply_to_id": "669982"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Gigabit eða 100mbit LAN?",
+            "date": "2018-04-05 22:17:00",
+            "post_id": "669984",
+            "reply_to_id": "669983"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Svo þarf HEVC töluvert mikið CPU power, nema skjákortið þitt sé með Hardware decoding fyrir HEVC.",
+            "date": "2018-04-05 22:18:00",
+            "post_id": "669985",
+            "reply_to_id": "669984"
+        },
+        {
+            "user_name": "Siggihp",
+            "text": "Er með Gigabit, en það hlýtur að vera þetta HEVC, hev ecci séð það áður",
+            "date": "2018-04-05 22:29:00",
+            "post_id": "669986",
+            "reply_to_id": "669985"
+        },
+        {
+            "user_name": "MuGGz",
+            "text": "Ég er að keyra plex server í docker á unraid server hjá mér og nota plex á nvidia shield til að horfa inní í stofu, direct play 4K HDR með TrueHD hljóði no problem",
+            "date": "2018-04-06 01:32:00",
+            "post_id": "669992",
+            "reply_to_id": "669986"
+        },
+        {
+            "user_name": "worghal",
+            "text": "var búið að opna fyrir gpu á plex?",
+            "date": "2018-04-06 09:42:00",
+            "post_id": "669997",
+            "reply_to_id": "669992"
+        },
+        {
+            "user_name": "Hauxon",
+            "text": "Almennt séð ætti bitrate ekki að vera flöskuhálsinn, ekki einu sinni á wifi.  \nHér eru bitrate á Hulu:\n720p HD: 3 Mbps\n1080p HD: 6 Mbps\n4K Ultra HD: 13 Mbps\nSkilst reyndar að Netflix þurfi 25 Mbps straum fyrir 4k efni.\nÞað eru 12-13 Mbps 4k video úr myndavélinni minni.  Það getur þó verið að það sem menn eru að dowlóda séu af meiri gæðu (hærra bitrate)",
+            "date": "2018-04-06 10:39:00",
+            "post_id": "669998",
+            "reply_to_id": "669997"
+        },
+        {
+            "user_name": "russi",
+            "text": "ef lent í þessu, sér í lagi með x265(HEVC). Þar liggur oft vandinn, þessi staðall er svo mismunandi, það sem hefur reddað mér í flesttum tilfellum er að breyta fælum með ffmpeg, nota ég þa þessa skipun\nffmpeg -i skra.mkv -codec copy -vtag hvc1 -map 0:0 -map 0:1 skra.mp4\nHefur reddað mér, þú getur líka haft skráar endingu á mkv ef þú villt, en það fer líka svo lítið eftir spilaranum hjá þér hvort sé betra.",
+            "date": "2018-04-06 14:32:00",
+            "post_id": "670016",
+            "reply_to_id": "669998"
+        },
+        {
+            "user_name": "Tyler",
+            "text": "Ertu að reyna að nota subtitles á 4K efninu? Það er einhver galli í Plex sem gerir það að verkum að ef svo sé þá transcodar Plex serverinn myndinni. Það er nákvæmlega þannig hjá mér að það er ekkert mál að horfa á 4K HDR efni ef ég nota enga subtitles en um leið og ég set þá á, þá höktir myndin.\nhttps://forums.plex.tv/discussion/313784/subtitles-cause-buffering-for-4k-content",
+            "date": "2018-04-06 17:24:00",
+            "post_id": "670022",
+            "reply_to_id": "670016"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ég er með 4K myndir sem slaga alveg í 80Mbps í ákveðnum atriðum og með avg. rate uppá 40-50Mbit. Til að ég geti spilað þessar skrár í HEVC þarf allt að vera optimal og ég lenti samt sem áður oft í veseni ef ég er ekki að spila skrárnar beint af local storage á HTPC.",
+            "date": "2018-04-07 10:28:00",
+            "post_id": "670065",
+            "reply_to_id": "670022"
+        }
+    ],
+    "date": "2018-04-05 22:01:00"
+}

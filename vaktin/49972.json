@@ -1,0 +1,100 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "49972",
+    "title": "Firefox sýnir ekki texta",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=49972",
+    "posts": [
+        {
+            "user_name": "Output",
+            "text": "Halló vaktarar!\nAlltaf þegar ég note firefox núna þá sýnir hann engan texta. Hef enga hugmynd hvað er að. Er búin ad google það, uninstalla og leita af vírussi með microsoft security essentials.\nEitthverjar hugmyndir?\nEdit: Mætti kannski segja að þetta gerðist einmit eftir að ég var að búin að update-a windows.",
+            "date": "2012-08-26 01:42:00",
+            "post_id": "463095",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "ORION",
+            "text": "Ertu búinn að re-installa firefox?",
+            "date": "2012-08-26 02:02:00",
+            "post_id": "463096",
+            "reply_to_id": "463095"
+        },
+        {
+            "user_name": "Output",
+            "text": "Of course.",
+            "date": "2012-08-26 02:10:00",
+            "post_id": "463097",
+            "reply_to_id": "463096"
+        },
+        {
+            "user_name": "kubbur",
+            "text": "Ctrl + r %appdata% og renamea firefox i firefox2 og prufa svo að starta firefox",
+            "date": "2012-08-26 03:59:00",
+            "post_id": "463103",
+            "reply_to_id": "463097"
+        },
+        {
+            "user_name": "Output",
+            "text": "Nope, það virkaði ekki :<",
+            "date": "2012-08-26 13:07:00",
+            "post_id": "463148",
+            "reply_to_id": "463103"
+        },
+        {
+            "user_name": "Output",
+            "text": "Enginn? :<",
+            "date": "2012-08-26 23:10:00",
+            "post_id": "463259",
+            "reply_to_id": "463148"
+        },
+        {
+            "user_name": "svanur08",
+            "text": "Prufaðu að run-a CCleaner.",
+            "date": "2012-08-26 23:14:00",
+            "post_id": "463260",
+            "reply_to_id": "463259"
+        },
+        {
+            "user_name": "Hargo",
+            "text": "Allir aðrir browserar í lagi? Er þetta bara Firefox sem er svona hjá þér?",
+            "date": "2012-08-26 23:21:00",
+            "post_id": "463261",
+            "reply_to_id": "463260"
+        },
+        {
+            "user_name": "Output",
+            "text": "Yup\nEdit: þetta er allt með firefox, Líka þegar ég installa honum aftur. Sé engan texta þá heldur.\nEdit2: CCcleaner virkaði! Takk fyrir!",
+            "date": "2012-08-27 01:25:00",
+            "post_id": "463270",
+            "reply_to_id": "463261"
+        },
+        {
+            "user_name": "ORION",
+            "text": "Hvað í andskt gerðiru browsernum?\nHann er greinilega í fýlu út í þig!   \n \n/End Offtopic\nGetur þetta verið nýtt update?\nAnnað hvort hjá M$ eða firefox?",
+            "date": "2012-08-27 01:29:00",
+            "post_id": "463272",
+            "reply_to_id": "463270"
+        },
+        {
+            "user_name": "Output",
+            "text": "Gerðist einmitt eftir að ég update-aði windows. no idea why lol",
+            "date": "2012-08-27 01:30:00",
+            "post_id": "463273",
+            "reply_to_id": "463272"
+        },
+        {
+            "user_name": "ORION",
+            "text": "Geturðu fengið update history?\nEins og security hotfix X ?\nBara frá því þetta gerðist.\nKanski eitt updatið sem breytir X fonti eða slíkt?\nOg þú þarft þá að gera X til að firefox finni fontið?\nGetur alltaf prufað að gera copy-paste á FF progam-files möppuna\nHenda svo inn öllum ttf fontunum í sömu möppu og ff.exe  \n \nC:\\Windows\\Fonts\nEða er það bara vitleysa?\nHeld að forritin noti það sem er í sömu möppu og .exe\náður enn hann fer í windows möppuna?\nEdit:\nEr að setja upp updates ætla sjá hvort ég geti endurskapað þetta hérna.",
+            "date": "2012-08-27 01:37:00",
+            "post_id": "463275",
+            "reply_to_id": "463273"
+        },
+        {
+            "user_name": "ORION",
+            "text": "Takk Takk mig sem langaði alltaf í lynx fyrir windows 7...  \n \n \n  &\"$/\"_=#I6t42oy7u3y-u  \n \n \n FireFox",
+            "date": "2012-08-27 04:18:00",
+            "post_id": "463278",
+            "reply_to_id": "463275"
+        }
+    ],
+    "date": "2012-08-26 01:42:00"
+}

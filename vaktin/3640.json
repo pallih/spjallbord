@@ -1,0 +1,30 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "3640",
+    "title": "Vantar Aðstoð!!",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=3640",
+    "posts": [
+        {
+            "user_name": "nari",
+            "text": "Ég fékk mér nýjan harðan disk fyrir ekki svo löngu.\n\nEn alltaf þegar að ég slekk á tölvunni þá hverfur hann út...En svo þarf ég að fara í safe mode (bara opna safe mode) og svo fara aftur í normal mode og þá er hann kominn inn..\n\n\n\nVeit einhver hvað gæti verið að, og hvernig ég gæti komið í veg fyrir að þurfa að fara svona oft í safe mode.",
+            "date": "2004-03-31 18:24:00",
+            "post_id": "36481",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Runar",
+            "text": "Gæti verið að þú sért með hann stilltan á dynamic mode.. \n\n\n\nEf WinXP:\n\n\n\nHægri smelltu á My Computer\n\nVeldu Manage\n\nVeldu Disk Management\n\n\n\nFinndu hann þarna niðri til hægri.. sjáðu hvort stendur \"Basic\" eða \"Dynamic\"\n\nEf Dynamic.. þá þarftu að converta honum yfir í Basic.. minnir það samt eyðir gögnunum útaf honum.. svo að ef hann er Dynamic.. taktu afrit af gögnunum til öryggis..",
+            "date": "2004-04-02 15:15:00",
+            "post_id": "36696",
+            "reply_to_id": "36481"
+        },
+        {
+            "user_name": "galldur",
+            "text": "er með 13 diska á dynamic disk , ekkert vesen með það.\n\n\n\nprófaðu að færa hann til yfir á annað tengi á ide kaplinum eða á hina ide rásina á móðurborðinu.",
+            "date": "2004-04-04 22:46:00",
+            "post_id": "36971",
+            "reply_to_id": "36696"
+        }
+    ],
+    "date": "2004-03-31 18:24:00"
+}

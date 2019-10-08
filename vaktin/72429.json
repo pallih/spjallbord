@@ -1,0 +1,23 @@
+{
+    "forum_title": "Leikjasalurinn",
+    "id": "72429",
+    "title": "vesen með steam??",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=14&t=72429",
+    "posts": [
+        {
+            "user_name": "muslingur",
+            "text": "ég er með 200gb af leykjum sem ég keypti á steam, en svo skipti ég um stýrikerfi en þessi 200gb eru á sshd diski þar sem windowsið er ekki, en svo þegar ég installaði steam þá segir það að ekkert sé installað???",
+            "date": "2017-03-18 19:04:00",
+            "post_id": "645468",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Þarft líklega að breyta \"path\" á Steam sem þú settir upp eftir að þú settir nýtt stýrikeri, þ.e. láta það benda á directory á non-os sshd þar sem gamla Steam er staðsett.",
+            "date": "2017-03-18 20:10:00",
+            "post_id": "645470",
+            "reply_to_id": "645468"
+        }
+    ],
+    "date": "2017-03-18 19:04:00"
+}

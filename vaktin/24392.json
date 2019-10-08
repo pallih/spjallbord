@@ -1,0 +1,107 @@
+{
+    "forum_title": "Windows",
+    "id": "24392",
+    "title": "Windows Vista Recovery Disk",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=24392",
+    "posts": [
+        {
+            "user_name": "Victordp",
+            "text": "Sælir.\nÉg á tölvu að nafni Asus M51SE fínasta tölva en, ég gerði það \"mistök\" að instila Win7 RC og ég vil fá Vista aftur á ég að straua tölvuna og instaila disknum eða hvað ?",
+            "date": "2009-08-16 17:10:00",
+            "post_id": "214840",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Er ekki vanalega partition á fartölvum með uppsetningunni á?\nCheckaðu.",
+            "date": "2009-08-16 17:13:00",
+            "post_id": "214842",
+            "reply_to_id": "214840"
+        },
+        {
+            "user_name": "Victordp",
+            "text": "Say what, ertu að tala um Licence eða ?",
+            "date": "2009-08-16 17:16:00",
+            "post_id": "214843",
+            "reply_to_id": "214842"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Nei, bara sér partition á harða diskinum með uppsetningarskránum á stýrikerfinu sem að fylgdi með og driverum.\nVeit ekki hvort að þetta er svona á þinni en þetta er á báðum fartölvum heimilisins hjá mér.",
+            "date": "2009-08-16 17:19:00",
+            "post_id": "214844",
+            "reply_to_id": "214843"
+        },
+        {
+            "user_name": "Victordp",
+            "text": "Þetta er WinVista recovery disk sem fylgdi með Lappanum",
+            "date": "2009-08-16 17:23:00",
+            "post_id": "214847",
+            "reply_to_id": "214844"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Asus hefur ekki verið alltof duglegt við að implementa slíku recovery systemi - allavega ekki sem virkar.\nBootaðu upp af honum, ætti að innihalda OEM stýrikerfi + driverar. Asus hefur reyndar oft standalone OS disk og standalone driver disk.",
+            "date": "2009-08-16 17:39:00",
+            "post_id": "214848",
+            "reply_to_id": "214847"
+        },
+        {
+            "user_name": "Victordp",
+            "text": "ég skil ekki alveg, :S",
+            "date": "2009-08-16 17:57:00",
+            "post_id": "214857",
+            "reply_to_id": "214848"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Hvað skiluru ekki nákvæmlega?\nSettu diskinn í drifið og ræstu upp af honum - Þaðan af hefst uppsetning á stýrikerfinu.",
+            "date": "2009-08-16 18:00:00",
+            "post_id": "214859",
+            "reply_to_id": "214857"
+        },
+        {
+            "user_name": "Victordp",
+            "text": "Gerði það það gerðist ekkert :S",
+            "date": "2009-08-16 18:01:00",
+            "post_id": "214860",
+            "reply_to_id": "214859"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Skal veðja hreinu sokkunum mínum að þú sért að gera e-ð vitlaust.",
+            "date": "2009-08-16 18:05:00",
+            "post_id": "214862",
+            "reply_to_id": "214860"
+        },
+        {
+            "user_name": "Victordp",
+            "text": "Þetta er það sem kemur mér er boðið að opna möppuna ekkert meira",
+            "date": "2009-08-16 19:00:00",
+            "post_id": "214880",
+            "reply_to_id": "214862"
+        },
+        {
+            "user_name": "einarhr",
+            "text": "Ræstu vélina upp á disknum! Það ætti að koma skilaboð á skjáinn \"press any key to boot from cd/dvd\" ef ekki þá þarftu að ýta á F12 til að velja af hverju þú ætlar að boota. Veldu CD/DVD.",
+            "date": "2009-08-16 19:03:00",
+            "post_id": "214881",
+            "reply_to_id": "214880"
+        },
+        {
+            "user_name": "Victordp",
+            "text": "Hvorugt virkaði bottaði og var með diskinn í ekkert gerðist og á f12 ekkert heldur",
+            "date": "2009-08-16 19:14:00",
+            "post_id": "214886",
+            "reply_to_id": "214881"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Opnaðu BIOS (fylgstu með \"press x to enter setup/bios\" (x = einhver takki auðvitað, ekki x á lyklaborðinu)) og settu boot orderið á að boota af cd-rom fyrst og svo hdd. Bootaðu svo af disknum (restartaðu með diskinn í).",
+            "date": "2009-08-16 20:36:00",
+            "post_id": "214905",
+            "reply_to_id": "214886"
+        }
+    ],
+    "date": "2009-08-16 17:10:00"
+}

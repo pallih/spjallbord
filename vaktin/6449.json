@@ -1,0 +1,86 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "6449",
+    "title": "server undir vefsíðu og spjallrás",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=6449",
+    "posts": [
+        {
+            "user_name": "kaktus",
+            "text": "ok smá vangaveltur í gangi hvaða tækjakost ætli ég þyrfti í server undir irc-rás eina vefsíðu og maske smá ftp?",
+            "date": "2004-11-23 16:23:00",
+            "post_id": "67209",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Fer algjörlega eftir ásókn í þetta, og fer líka eftir því hvort að þú ætlar að nota Windows eða kannt á Linux. En þetta þrennt á ekki að þurfa mikið.\n\n\n\nEn hvað meinarðu með ,,server undir irc-rás\"? Ertu viss um að þú sést með þetta á hreinu?",
+            "date": "2004-11-23 16:43:00",
+            "post_id": "67211",
+            "reply_to_id": "67209"
+        },
+        {
+            "user_name": "kaktus",
+            "text": "meina alvöru irc server svipað og tildæmis sumar vefsíður hafa sett upp \n\ntildæmis einkamál.is og fleiri þar sem linkur á vefsíðunni sendir mann inn á spjallið bæði hægt að logga sig inn í gegnum java og mirc \n\nmyndi celeron 2000 með 512mb minni og 120gb disk ganga?\n\ner með 3mb tengingu með 700og eitthvað í upload er það nóg?\n\nmyndi ég nota dreamweafer og frontpage og studio pro í síðuna?\n\nhvað myndi ég nota í spjallið?\n\nhvaða windows? 2000pro eða server 2003pro (kann ekkert á linux)\n\nenn sem komið er er ég bara að spá en langar að prufa",
+            "date": "2004-11-23 17:19:00",
+            "post_id": "67220",
+            "reply_to_id": "67211"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Mátt endilega vanda uppsetning á póstum aðeins betur, nota stóra stafi og svona. \n\n\n\n\nÞað er heill hellingur af IRC serverum til, sumir vinsælli en aðrir. Ætli að þú þurfir ekki að leita aðeins og finna einhvern sem að hentar þér. Annars veit ég ekkert um tengimál á milli IRC servera, einhver sem að kann eitthvað á það og gæti frætt okkur?\n\n\n\n700-800kbps er frekar lítið í upload, en hvað heldurðu að það verði margir á þessu. Ef að það eru 4 sækja frá þér á FTP verður hraðinn á hvern einungis 200kbps(m.v. 800kb/s tengingu) eða 25kbps \n\n\n\n\nÉg er persónulega mjög andvígur Frontpage, en ætla ekki að fara útí það hérna. \n\n\nGetur notað hvort Windows'ið sem er, passaðu bara að patch'a það vel.\n\n\n\nSíðan þarftu líka http server og ftp server.\n\nApache er mjög vinsæll http server, en hann gæti verið aðeins of flókinn fyrir þig.\n\nFTP server er líklegast það auðveldasta. Til hellingur af FTP serverum, og duga flestir þannig að þú getur fundið þann sem að þér finnst best að nota. En tenging verður líklega flöskuháls.\n\n\n\nOg já, þessi vél ætti örugglega að ganga nema að þú sést að fara í PHP og SQL",
+            "date": "2004-11-23 17:40:00",
+            "post_id": "67223",
+            "reply_to_id": "67220"
+        },
+        {
+            "user_name": "Andri Fannar",
+            "text": "Dugar líka í það býst ég við.\n\n\n\nOg já með IRC Serverinn. Getur ekki linkað hann við IRCNet (eða 99% líkur) á að því að þú getir ekki. \n\n\n\nSkil ekki tilhvers þú þarft sér irc server. Runespoor hefur verið að keyra sér server að vísu",
+            "date": "2004-11-23 20:28:00",
+            "post_id": "67236",
+            "reply_to_id": "67223"
+        },
+        {
+            "user_name": "BlitZ3r",
+            "text": "ertu ekki bara að tala um irc bouncer ?",
+            "date": "2004-11-23 22:50:00",
+            "post_id": "67283",
+            "reply_to_id": "67236"
+        },
+        {
+            "user_name": "tms",
+            "text": "Þetta er alveg nógu góð tölva til að keyra hvað sem er á þessari tengingu, það er aðalega tengingin þín sem er að stoppa þetta. Tala nú ekki um ef þú ætlar að vera með spjallborð á þessu og ftp server, ef td tveir downloada frá ftp og svo ætlar fólk að skoða vefinn en lagga yfir sekúndu.",
+            "date": "2004-11-23 23:21:00",
+            "post_id": "67294",
+            "reply_to_id": "67283"
+        },
+        {
+            "user_name": "kaktus",
+            "text": "\"ertu ekki bara að tala um irc bouncer ? \"\n\nhmmm fyrirgefðu en hver er munurinn á server og bouncer?",
+            "date": "2004-11-24 19:39:00",
+            "post_id": "67425",
+            "reply_to_id": "67294"
+        },
+        {
+            "user_name": "kaktus",
+            "text": "get fengið mér stærri tengingu ef þetta færi á flug enn bara til í hausnum á mér \n\n\n\n\n\nætla að hafa hann alveg sér \n\nog þarf hann svosem ekki en langar að læra á svona servera og það myndi enginn banna mig á mínum eigin server ef ég geri mistök \n\n\n\n\n\n\n*MezzUp: breytti gæsalöppum í [quote]*",
+            "date": "2004-11-24 19:42:00",
+            "post_id": "67426",
+            "reply_to_id": "67425"
+        },
+        {
+            "user_name": "ponzer",
+            "text": "Ég er með 200MHz, 160 (164) MB minni og 50gb pláss.. Er að runna bouncer, ftp, http, dchub, ventrilo. Alla þessa servera er ég að keyra á Win2k með 1Mbps /256 Kbps hjá Simnet. Auk þess er ég með VNC og oDC clienta. CPUinn er í 60% usage og  160mb af minninu í use. Mætti vera með 192mb eða 256mb minni.",
+            "date": "2004-11-30 13:13:00",
+            "post_id": "68303",
+            "reply_to_id": "67426"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "hugbúnaðarspjallið  -  Web Server Með öllu(eða álíka póstur) er með snilldar server.. ftp, web, og fleira \n ég er að nota hann.. helvíti þægilegur, hann er að vísu svoldið bloated.. en það skiptir ekki öllu\n\n\n\n\n\n*EDIT*\n\nhttp://spjall.vaktin.is/viewtopic.php?t=6316",
+            "date": "2004-11-30 16:48:00",
+            "post_id": "68374",
+            "reply_to_id": "68303"
+        }
+    ],
+    "date": "2004-11-23 16:23:00"
+}

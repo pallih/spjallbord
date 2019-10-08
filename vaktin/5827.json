@@ -1,0 +1,65 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "5827",
+    "title": "Vandamál með boot á HDD",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=5827",
+    "posts": [
+        {
+            "user_name": "Sveinn",
+            "text": "Heyriði, \n\nÉg var að láta formatta diskinn minn(átti ekki windows disk þannig ég lét bara formatta fyrir mig), og hérna ég kveikti, \"allt í k\" .. jæja svo fer ég eitthvað að leika mér í leik og hann frís(algengt, var bara að tjekka hvort að hann frysi ekki örugglega, vandamálið er ekki útaf því þetta fraus), en anyway, þá kom þetta upp þegar ég var að kveikja á tölvunni(var ekki búinn að fully kveikja á henni):\n\n\n\nThis disk cant boot: it was formatted without the /S (system) option.\n\nTo make it bootable, use the DOS utility sys x:\n\nChange disk & press a key.\n\n\n\nÞarf ég bara að \"endurformatta\" hann eða?",
+            "date": "2004-10-02 20:55:00",
+            "post_id": "58903",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "hmm, ja, ef þú ert ekki með tvo diska í vélinni sýnist mér að það þurfi að ,,endurformatta\"\n\n\n\nÞú gætir kannski reynt að restore'a boot skrárnar, ef að þú heldur að það sé þér ekki ofviða\n\n\n\nEdit: nokkuð með CD eða floppy sem að er verið að reyna að boot'a frá? Kannski var CD-ROM valið sem \"first boot device\" þegar OS'ið var sett upp á tölvuna og þú settir disk í þegar þú fórst í leikinn?",
+            "date": "2004-10-02 21:40:00",
+            "post_id": "58915",
+            "reply_to_id": "58903"
+        },
+        {
+            "user_name": "Sveinn",
+            "text": "HEYRÐU! \n:D:D kom þessu öllu í lag takk fyrir \n takk samt !",
+            "date": "2004-10-02 21:51:00",
+            "post_id": "58918",
+            "reply_to_id": "58915"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "og hvað gerðirru?",
+            "date": "2004-10-02 23:15:00",
+            "post_id": "58935",
+            "reply_to_id": "58918"
+        },
+        {
+            "user_name": "Sveinn",
+            "text": "Veit það í rauninni ekki, held að ég hafi sett vitlaust molex power tengi í hann, þú veist eitthvað sem virkar ekki, eða að það hafi bara ekki verið nægilega fast í",
+            "date": "2004-10-03 14:59:00",
+            "post_id": "59015",
+            "reply_to_id": "58935"
+        },
+        {
+            "user_name": "sikki",
+            "text": "Þá ætti ekki að koma: \n\nThis disk cant boot: it was formatted without the /S (system) option. \n\nTo make it bootable, use the DOS utility sys x: \n\nChange disk & press a key\n\n\n\nSk´rítð",
+            "date": "2004-10-03 15:52:00",
+            "post_id": "59021",
+            "reply_to_id": "59015"
+        },
+        {
+            "user_name": "einarsig",
+            "text": "en ef hann er með 2 diska og aðeins seinni diskurinn farið í gang en ekki system hdd þá kemur upp þessi möguleiki",
+            "date": "2004-10-03 16:31:00",
+            "post_id": "59027",
+            "reply_to_id": "59021"
+        },
+        {
+            "user_name": "Sveinn",
+            "text": "Akkuratt \n semsagt ef bara diskurinn sem er ekki með Windows sett upp á fer í gang",
+            "date": "2004-10-03 18:47:00",
+            "post_id": "59039",
+            "reply_to_id": "59027"
+        }
+    ],
+    "date": "2004-10-02 20:55:00"
+}

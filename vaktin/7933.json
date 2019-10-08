@@ -1,0 +1,51 @@
+{
+    "forum_title": "Windows",
+    "id": "7933",
+    "title": "Hvernig setja á username og passw á shareaðan file.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=7933",
+    "posts": [
+        {
+            "user_name": "sako",
+            "text": "Ég er búinn að reyna að deila möppu yfir lan og setja username og password á hann en ekkert gengur. Ég hef búið til limited user í user accounts, en kann ekki að tengja hann við ákveðnar möppur sem ég vil deila.\n\nKunni að gera þetta í win98 en eftir að ég setti inn sp2 þá flæktust málin.\n\nGetur einnhver bent mér á link eða útskýrt þetta fyrir mér ?\n\n\n\nKveðja.",
+            "date": "2005-04-08 17:26:00",
+            "post_id": "84412",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Á sharing flipanum er Permissions takki, þar seturðu inn notendurna sem hafa aðgang að viðkomandi share-i.",
+            "date": "2005-04-08 17:41:00",
+            "post_id": "84414",
+            "reply_to_id": "84412"
+        },
+        {
+            "user_name": "sako",
+            "text": "Hvar finn ég þennann share flipa?\n\nEf ég hægrismelli á möppu og vel sharing and security þá get ég bara\n\nvalið share this folder on the network.",
+            "date": "2005-04-08 19:25:00",
+            "post_id": "84439",
+            "reply_to_id": "84414"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "þú verður að slökkva á simple file sharing til að fá þetta í gang.\n\n\n\nfarðu í einhvern WinExplorer glugga -> tools -> Folder Options -> view flipinn -> taka hakið úr \"Use simple filesharing (recommended)\"\n\n\n\nsvo býrðu til share, klikkar á \"permissions\" takkann og bætir inn notanda.",
+            "date": "2005-04-09 17:31:00",
+            "post_id": "84534",
+            "reply_to_id": "84439"
+        },
+        {
+            "user_name": "sako",
+            "text": "Þetta var málið.\n\n\n\nTakk.",
+            "date": "2005-04-10 06:49:00",
+            "post_id": "84627",
+            "reply_to_id": "84534"
+        },
+        {
+            "user_name": "sako",
+            "text": "Þetta leysti eitt vandamál en þá kom bara annað.\n\nÉg er með tvær tölvur tengdar saman í gegnum switch út á net og þegar ég fer í aðra tölvuna þá get ég notað username og password til að fá aðgang á shareaða möppur í hinni, en þegar ég nota aðra tölvu á netinu þá poppar ekki upp user glugginn heldur sé ég bara möppurnar sem ég er að deila og þegar ég smelli á þér fæ ég bara not accessible.\n\nEr búinn að búa til notendur og setja þá í users.",
+            "date": "2005-04-15 18:12:00",
+            "post_id": "85261",
+            "reply_to_id": "84627"
+        }
+    ],
+    "date": "2005-04-08 17:26:00"
+}

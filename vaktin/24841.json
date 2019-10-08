@@ -1,0 +1,51 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "24841",
+    "title": "MacBook - The big fat error(vandamál , plís lesið)",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=24841",
+    "posts": [
+        {
+            "user_name": "BjarniTS",
+            "text": "You need to restart your computer. Hold down the power button for several seconds or press the Restart button.\nÞetta fæ ég alltaf.\nTölvan er með nýjum 200 gb hörðum disk sem er tómur.\nEr búinn að prufa að fara með tölvuna og vesenast í gegn um target mode hjá vini mínum , okkur tókst að sjá drifið mitt í makkanum hans og meira segja gera það að mac-format , og ég gat \"byrjað\" að boota upp kerfi í gegn um target mode , en svo kom bara þessi error.\nSvo virkar geisladrifið ekki og ég er búinn að prufa allar \"force eject\" leiðir sem að ég hef fundið á google , youtube , allstaðar , en ekkert gengur.\nHef ekki tekist að boota Linux upp af Usb lykli og er ekki viss um að macbookin geti það , kerfislaus og allslaus.\nSvör mjög vel þegin , en munið þó.\n*Ég er ekki með neitt stýrikerfi svo að ég er ekki að fara að gera neinar aðgerðir sem krefjast stýrikerfis.  \n*Diskadrifið virkar ekki einhverra hluta vegna.\n*Ég prufaði um daginn að segja í HD með uppsettu linux af toshiba Tölvu , Ég gat rönnað memtest og það kom mjög illa út , veit ekki hvort að það tengist því að allt var sett upp á toshiba vél þar.\n*Ég er nýr á mac svo að ef að þið getið , leiðbeinið mér og útskýrið mac-leg hugtök ef að þið kjósið að nota þau.\n*Vandamálið mitt minnir mikið á vandamálið hjá þessum :http://forums.macrumors.com/archive/index.php/t-105221.html , veit vel að þetta er ekki Intel  Örri þarna og G4 í þokkabót.\nkv \nBjarni",
+            "date": "2009-09-07 13:13:00",
+            "post_id": "217697",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Kristján Gerhard",
+            "text": "Notaðu disk utility á vélinni hjá félaga þínum til að gera image af kerfis-geisladisknum.  settu myndina upp inná usb lykil, líka með disk utility og reyndu að keyra þetta upp á vélinni hjá þér.",
+            "date": "2009-09-07 14:09:00",
+            "post_id": "217707",
+            "reply_to_id": "217697"
+        },
+        {
+            "user_name": "BjarniTS",
+            "text": "Góð hugmynd , takk.\nÉg prufa það.",
+            "date": "2009-09-07 14:12:00",
+            "post_id": "217708",
+            "reply_to_id": "217707"
+        },
+        {
+            "user_name": "BjarniTS",
+            "text": "Allar hugmyndir mjög , mjög vel þegnar.\nÁður en að ég skipti um móðurborð ætla ég að vera búinn að prufa flest annað.",
+            "date": "2009-09-07 14:13:00",
+            "post_id": "217709",
+            "reply_to_id": "217708"
+        },
+        {
+            "user_name": "Glazier",
+            "text": "áður en þú skiptir um móðurborð ?\nTölvan keypt í erlendis ?\nfarðu með hana í umboðið hérna á íslandi og láttu þá bilanagreina tölvuna.",
+            "date": "2009-09-07 15:56:00",
+            "post_id": "217722",
+            "reply_to_id": "217709"
+        },
+        {
+            "user_name": "Opes",
+            "text": "Restoraðu uppsetningardisknum á USB lykilinn, tengdu við tölvuna, haltu Alt inni og veldu USB lykilinn. Partitionaðu diskinn, og settu kerfið upp á hann. Bootaðu svo upp diskinn þegar þú ert búinn að setja það upp. Athugaðu minnin og minnisraufarnar ef þetta heldur áfram. Ef þau eru í lagi, þá er það mjög líklega móðurborðið.",
+            "date": "2009-09-07 17:26:00",
+            "post_id": "217733",
+            "reply_to_id": "217722"
+        }
+    ],
+    "date": "2009-09-07 13:13:00"
+}

@@ -1,0 +1,114 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "57820",
+    "title": "HtPc - GTX 560 - Hdmi",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=57820",
+    "posts": [
+        {
+            "user_name": "Garri",
+            "text": "Sælir\nVar að fara að kaupa sjónvarpsflakkar með hdmi en nú segja fróðir menn að þetta sé fortíðin og framtíðin svona htpc (home theater personal computer)\nOk.. ég á eina tölvu með i7 3770, 2ja TB disk, hellings minni og GTX 560 skjákort. Gúglaði smá hvort ég mundi lenda í vandræðum með að spila í gegnum hdmi og sá slatta af slíkum málum, sérstaklega varðandi hljóð. Tölvan yrði notuð í fleira en bara sem htpc, er myndvinnslutölva í dag en mun verða notuð meir næstu mánuði þannig að það yrði að vera hægt að svissa auðveldlega úr desktop vél í htpc vél. Spurning með auka mús og lyklaborð. Þá tengja aukaborð og hafa í raun tvö borð sem aldrei yrðu notuð í einu sama gildir með mús.. skjáúttakið hlýtur að virka í einu, það er, get bæði haft kveikt á skjá sem og projector. \nAth. tölvan er í öðru herbergi en skjávarpinn.",
+            "date": "2013-10-24 19:23:00",
+            "post_id": "534790",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "playman",
+            "text": "XBMC fyrir windows og svo app í símann fyrir fjarstýringu.\nBest væri örugglega samt að vera með dual boot fyrir windows og XBMCBuntu.",
+            "date": "2013-10-24 19:26:00",
+            "post_id": "534792",
+            "reply_to_id": "534790"
+        },
+        {
+            "user_name": "Garri",
+            "text": "Ok.. setti upp einu sinni XBMC og var að reyna að streyma frá USA.. gekk illa, enda ekki með ADSL tengingu í slíkt. Skoðið lítið þetta kerfi m.t.t. þess að hafa lókal library eða nettengingu við aðrar vélar sem væru með efni eins og mynd- og hljóðefni.\nHugmyndin var að nota þessa vél í niðurhal á efni.. en ef hún er orðin XBMC þá yrði líklegast hægstæðast að keyra XBMC í virtual vél og svissa bara á milli. \nEn hvað gera menn í I/O málum eins og mús, lyklaborð? \nOg er ekki alveg á kláru að hægt er að keyra þetta á GTX 560 og HDMI eða verð ég að taka hljóðið sérstaklega út líka?",
+            "date": "2013-10-24 20:48:00",
+            "post_id": "534810",
+            "reply_to_id": "534792"
+        },
+        {
+            "user_name": "playman",
+            "text": "Þú þarft ekkert að keyra XBMC í virtual vél, ef þú sækir XBMC fyrir windows þá er það bara eins og hvert annað forrit, og því lítið mál að nota hana\nlíka sem niðurhals vél.\nfyrir XBMC þarftu ekkert nauðsinlega lyklaborð og/eða mús, sækir bara app t.d. þetta\nhttps://play.google.com/store/apps/deta ... mote&hl=en\nþar að seygja ef að þú átt android síma, eða snjall síma yfir höfuð.\nAnnars er alveg hægt að nota þráðlausa mús og lyklaborð, eins og t.d. þetta hérna\nhttp://tolvutek.is/vara/logitech-k400-t ... d-touchpad\n560 ræður alveg við þetta, og þú ræður hvort að þú takir hljóðið í gegnum HDMI eða eitthað annað port, stillir\nþað bara inní XBMC\nÉg er t.d. að nota gamalt 7600gt kort og er að spila 1080p fínt.",
+            "date": "2013-10-24 21:09:00",
+            "post_id": "534814",
+            "reply_to_id": "534810"
+        },
+        {
+            "user_name": "Garri",
+            "text": "Jæja.. henti upp XBMC og tengdi HDMI snúru beint yfir í Epson Prjoectorinn. Var búinn að tengja VLC og spila, gekk allt upp m.a. hljóð, en prófaði síðan XBMC, sérstaklega vegna Android XBMC remote appsins sem mér var bent á, á þessum þræði. \nÍ fyrstu fékk ég ekkert hljóð í XBMC, sama hvað. Restartaði þá tölvunni og þá fékk ég hljóð. Svo datt hljóðið aftur úr sambandi, væntanlega því ég slökkti á XBMC með projectorinn á.. á eftir að prófa betur hvað veldur. Prófaði þá að kveikja á VLC og hann endurheimti HDMI synchið fyrir hljóðið eins og að drekka vatn og eftir það fæ ég hljóð í XBMC-inn. \nKannast Vaktarar við svona tötsíheit á XBMC varðandi HDMI og hljóð?\nLoks. Pantaði mér Yamaha RX V475 5.1 sem tekur að ég held fjögur eða fimm HDMI input, vildi vera búinn að fá þetta dót til að virka áður en maður bætir við enn einum linknum í keðjuna. Einhver með slíkann magnara?\nMæli eindregið með þessu \nAppi\n fyrir XBMC. Snilld.\nJá.. og, GTX 560 kortið er ekki með HDMI eins og ég hélt. Tók það kort úr vélinni og nota onboard VGA og DVI tengið ásamt HDMI. Er með Asus Z77 LX móðurborð.",
+            "date": "2013-10-29 17:05:00",
+            "post_id": "535435",
+            "reply_to_id": "534814"
+        },
+        {
+            "user_name": "Farcry",
+            "text": "Ertu buin að skoða hvert xbmc er að senda hljóðið\nFerð í System - System - Audio output",
+            "date": "2013-10-29 17:22:00",
+            "post_id": "535439",
+            "reply_to_id": "535435"
+        },
+        {
+            "user_name": "teitan",
+            "text": "Ég var með nákvæmlega sama vandamál í sambandi við hljóðið þegar ég var að taka hljóðið yfir HDMI. Fann aldrei neina lausn á þessu, en eftir að ég fékk mér annað heimabíó og fór að taka hljóðið í gegnum optical (SPDIF) þá er ég alveg laus við svona bögg. Mig minnir líka að DTS hafi ekki virkað yfir HDMI hjá mér á tölvunni. Ef að móðurborðið er með optical output og heimabíóið með input líka, sem ég reikna fastlega með, þá mæli ég með því að nota það.",
+            "date": "2013-10-29 18:25:00",
+            "post_id": "535450",
+            "reply_to_id": "535439"
+        },
+        {
+            "user_name": "Garri",
+            "text": "Búinn að vera að afrita af allskonar mediu yfir á folder sem er masterinn fyrir myndir í kvöld.\nSkoðaði þetta vandamál með hljóðið og fann fljótt úr því. Málið er einfalt. Þegar maður kveikir á XBMC og það er slökkt á Projectorinum, þá finnur XBMC ekki HDMI sourcinn eða viðtakarann. Þannig dettur möguleikinn á Audio Outputi út úr combo-boxinu í System-Settings og efsta er valið sjálfkrafa. \nEf maður hinsvegar kveikir fyrst á projectorinum og síðan XBMC, þá virkar þetta. \nÞetta er að sjálfsögðu galli. Ef notandi er búinn að stilla XBMC vélina á ákveðið úttak, þá á það að gilda og alveg sama þótt það sé ekki \"valid\" akkúrat þegar XBMC vélin kveikir á sér. \nÞar að auki þá minnir mig að ég hafi þurft að fara út úr XBMC og aftur inn til að fá Epson Projectorinn í combo-boxið.\nEinstaklega kauðalegt.\nLoks. Veit einhver hér hvort það er hægt að hafa service af XBMC vélinni sem mundi leyfa manni að ræsa hana í remote? Það mundi leysa þetta. Þá kveikir maður á Projectornum og ef maður vill spila af XBMC vélinni, þá kveikir maður á henni með remote!\nBest að gúgla smá..\nViðbót:\nFann út úr þessu líka. Einn smíðaði smá stubb sem ræsir XBMC vélina þegar hún fær wol með UDP pakkastaðli. Setti þetta upp og virkaði strax.. \nsjá hér\n.",
+            "date": "2013-10-30 02:46:00",
+            "post_id": "535506",
+            "reply_to_id": "535450"
+        },
+        {
+            "user_name": "Garri",
+            "text": "Er einhver fyrir norðan sem getur lánað mér 2ja - 3ja metra HDMI  snúru yfir helgina?\nVar að panta svona frá íhlutum en kemur ekki fyrr en eftir helgi. Á 1.5m en er oft stutt, gæti skipt ef það hefur eitthvað að segja.",
+            "date": "2013-10-31 16:24:00",
+            "post_id": "535784",
+            "reply_to_id": "535506"
+        },
+        {
+            "user_name": "Garri",
+            "text": "Jæja.. allt að smella. XBMC vélin er virkilega flott.\nVar að spá í Blu-ray spilara í þessa HTPC í stað þess að versla stand-alone blu-ray spilara. Hvernig er með region locking og svo framvegis.. eitthvað tæki hentugra en annað í að spila blu-ray?\nEins með firmware uppfærslur.. alltaf verið að hræra í læsingum á þessum miðlum og virkilega dapurt að vera með tæki í svona grip sem les ekki nýjustu myndirnar.",
+            "date": "2013-11-03 21:22:00",
+            "post_id": "536215",
+            "reply_to_id": "535784"
+        },
+        {
+            "user_name": "Garri",
+            "text": "Sælir\nEr í smá vandræðum. Er að horfa á mynd sem ég rippaði sjálfur og hafði innbrennt íslenskan sub-title. En hafði gleymt því og valdi enskan sub-title með addon í byrjun svo nú fæ ég bæði enskan og íslenskan sub-title. \nVandamálið er, hvernig slekk ég á enska sub-title-inum?",
+            "date": "2013-12-17 14:59:00",
+            "post_id": "542757",
+            "reply_to_id": "536215"
+        },
+        {
+            "user_name": "cartman",
+            "text": "Ferð í \"audio and subtitle settings\" og setur \"Enable subtitles\" = false\nMenu-inn er myndin af hátalaranum ( staðsetning á því fer eftir skinni )(Merkt \"C\")",
+            "date": "2013-12-17 15:11:00",
+            "post_id": "542760",
+            "reply_to_id": "542757"
+        },
+        {
+            "user_name": "fallen",
+            "text": "Eða ýtir á T. \nXBMC hotkeys\n: Learn it. Know it. Live it.",
+            "date": "2013-12-17 15:25:00",
+            "post_id": "542764",
+            "reply_to_id": "542760"
+        },
+        {
+            "user_name": "kjartanbj",
+            "text": "ég er með HTPC vél tengda við sjónvarpið, svo með lappann í stofunni líka, svo nota ég synergi forrit til þess að samnýta mús og lyklaborð á milli þeirra",
+            "date": "2013-12-17 15:36:00",
+            "post_id": "542766",
+            "reply_to_id": "542764"
+        },
+        {
+            "user_name": "Garri",
+            "text": "Takk fyrir þetta.. short-cuttið T er sniðugt en nýtist ekki á android tabbinum eða allavega á því appi sem ég keyri sem remote control þar sem ekki er boðið upp á snertiskjá lyklaborð nema í innsláttarsvæðum. Leiðin sem ég fann út og cartman benti á, var að fara í \nhljóðið\n og slökkva þar á subtitle. \nVar svo fastur í því að maður kveikti og slökkti á þessu á sama stað. Hefði til dæmis verið hægt að hafa val sem segir, \"No subtitle\" efst ef kveikt væri á því, þarna í subtitle glugganum.",
+            "date": "2013-12-17 18:57:00",
+            "post_id": "542794",
+            "reply_to_id": "542766"
+        }
+    ],
+    "date": "2013-10-24 19:23:00"
+}

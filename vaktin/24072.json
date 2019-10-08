@@ -1,0 +1,198 @@
+{
+    "forum_title": "Yfirklukkun, hraðaprófanir og mods",
+    "id": "24072",
+    "title": "Yfirklukkun á E8400",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=1&t=24072",
+    "posts": [
+        {
+            "user_name": "JohnnyX",
+            "text": "Á stock kælingu, hvað er hægt að yfirklukka hann hátt ?",
+            "date": "2009-07-28 13:45:00",
+            "post_id": "212842",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "armann",
+            "text": "Google er vinur þinn...\nhttp://www.google.is/search?q=Overclock ... =firefox-a\nLeti er þetta....",
+            "date": "2009-07-28 15:36:00",
+            "post_id": "212850",
+            "reply_to_id": "212842"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Alltaf að 3.8GHz eða 4.0GHz, ekki viss.",
+            "date": "2009-08-19 01:30:00",
+            "post_id": "215299",
+            "reply_to_id": "212850"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Ég er með minn í 3.6GHz og það er alveg hægt að ná honum leikandi í 4GHz. Hef ekki meiri tíma í þetta.",
+            "date": "2009-08-19 02:09:00",
+            "post_id": "215303",
+            "reply_to_id": "215299"
+        },
+        {
+            "user_name": "mercury",
+            "text": "ég var að fikta við þetta um daginn. gekk að ég hélt fínt lengi vel fór í 3.7ghz mest en veit að menn eru að setja þá alveg í 4-4.2 ghz en þó varla á stock. en já ég lenti í veseni eftir smá tíma. bluescreen og ves svo ég hætti þessu. er bara með 400w psu. grunar að það sé málið. en ég var með einkvað core temp forrit og gat ekki séð að hann væri að hitna mikið. fór úr 34-36°c uppí mest 42°c. í vinnslu @ 3.7ghz. ekki á stock kælingu.",
+            "date": "2009-08-19 04:00:00",
+            "post_id": "215309",
+            "reply_to_id": "215303"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "þarft þá sennilega ða hækka vcore svo að hann verði stable",
+            "date": "2009-08-19 12:57:00",
+            "post_id": "215336",
+            "reply_to_id": "215309"
+        },
+        {
+            "user_name": "mercury",
+            "text": "já satt. 1.42-1.44v (fyrir um 4ghz) minnir mig að ég hafi séð á netinu í gær. gleymdi mér aðeins í þessum overclock forum's á hér og þar.",
+            "date": "2009-08-19 14:49:00",
+            "post_id": "215350",
+            "reply_to_id": "215336"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Ef það kemur BSOD þá þarftu að hækka Vcore og gætir einnig þurft að bæta við skrefi í NB Volt. Annars mæli ég með að þú sækir Orthos forritið, keyrir small FFTs test, ef þú getur keyrt það í 2klst án stops ertu með nokkuð stable tölvu, svo sækiru Everest til að sjá hitann á örgjavanum þeas. í fullri vinnslu.\nLáttu vita hvernig þetta fer..\nhttp://www.overclock.net/downloads/138142-orthos.html\nSvo finnuru everest sjálfur.",
+            "date": "2009-08-19 17:44:00",
+            "post_id": "215369",
+            "reply_to_id": "215350"
+        },
+        {
+            "user_name": "Kobbmeister",
+            "text": "Á hvaða voltum ertu ?",
+            "date": "2009-08-19 18:14:00",
+            "post_id": "215372",
+            "reply_to_id": "215369"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Ég breytti þeim ekkert en Vcore er á 1.15V",
+            "date": "2009-08-19 18:18:00",
+            "post_id": "215373",
+            "reply_to_id": "215372"
+        },
+        {
+            "user_name": "Hnykill",
+            "text": "náði mínum E8400 yfir 4.6 Ghz á 1.4 V",
+            "date": "2009-08-19 22:00:00",
+            "post_id": "215411",
+            "reply_to_id": "215373"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Og þá áttu enþá eftir 0.05v eftir, getur líklegast kreist úr honum um +200MHz úr því..\n-- Edit -- \nÞeas. átt 0.05 áður en þú ferð yfir safe zoneið sem er 1.45v á 45nm chipunum, 1.55v á 65nm chips.\nAnnars svo framanlega sem hitinn er undir XX°C að þá geturu bætt við voltum eins og þú vilt..",
+            "date": "2009-08-20 00:46:00",
+            "post_id": "215452",
+            "reply_to_id": "215411"
+        },
+        {
+            "user_name": "mercury",
+            "text": "bsod as in ?? sorry er enginn gúru ??? en held ég bíði með þetta overclock dót þar til ég er kominn með stærri psu. endilega kvað er bsod",
+            "date": "2009-08-20 00:52:00",
+            "post_id": "215453",
+            "reply_to_id": "215452"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "B\nlue \nS\ncreen \nO\nf \nD\neath\nBlái skjárinn með hvítu eða gulu stöfunum.",
+            "date": "2009-08-20 00:54:00",
+            "post_id": "215454",
+            "reply_to_id": "215453"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "blue screen of death.\ngoogle it.",
+            "date": "2009-08-20 00:55:00",
+            "post_id": "215455",
+            "reply_to_id": "215454"
+        },
+        {
+            "user_name": "Sphinx",
+            "text": "hvernig overklockaru hann ? er með E7400 hvað helduru að eg nai honum hátt ?",
+            "date": "2009-08-20 02:32:00",
+            "post_id": "215464",
+            "reply_to_id": "215455"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Þetta er á loftkælingu.",
+            "date": "2009-08-20 03:03:00",
+            "post_id": "215466",
+            "reply_to_id": "215464"
+        },
+        {
+            "user_name": "mercury",
+            "text": "Jæja gerði smá test. setti E8400 í 3.5ghz vCore 1.23v \n \nOpnaði svo \"Orthos\" og keyrði í 4 mín. \"Torture Test ran 3 minutes 59 seconds - 0 errors, 0 warnings.\nExecution halted.\"\nNotaði \"speedfan\" til að fylgjast með hitastiginu. er nuna í engri vinnslu í 33°c - en fór mest í 49°c í stresstestinu.  \n \ner þetta ekki bara í góðum málum ??\nhaldiði að ég sé með \"vCore\" of hátt ?",
+            "date": "2009-08-20 03:19:00",
+            "post_id": "215468",
+            "reply_to_id": "215466"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Það er nú mælt með allaveg 1 klst stress test.",
+            "date": "2009-08-20 03:32:00",
+            "post_id": "215469",
+            "reply_to_id": "215468"
+        },
+        {
+            "user_name": "mercury",
+            "text": "ait I'll go for that.",
+            "date": "2009-08-20 15:02:00",
+            "post_id": "215513",
+            "reply_to_id": "215469"
+        },
+        {
+            "user_name": "urban",
+            "text": "veistu, ég er á móti svona svörum hérna.\nafhverju að benda á google, þegar að hægt er að svara bara spurningunni á einfaldann hátt.\ntjahh jafnvel, tilhvers að hafa þetta blessaða spjallborð, miklu einfaldara að linka bara á google, nú eða sleppa því.\nEn já, svarið við spurningunni er komið hérna, þannig að ég er ekkert að svara því.",
+            "date": "2009-08-20 15:18:00",
+            "post_id": "215516",
+            "reply_to_id": "215513"
+        },
+        {
+            "user_name": "mercury",
+            "text": "\"Orthos\" Torture Test ran 1 hours, 24 minutes 15 seconds - 0 errors, 0 warnings.\nExecution halted.\n\"Speedfan\" mest 52°c sem ég sá. get ekki sagt að ég hafi staðið yfir þessu. en var með annað augað á þessu á sirka 10 min fresti.",
+            "date": "2009-08-20 16:29:00",
+            "post_id": "215528",
+            "reply_to_id": "215516"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Fínn hiti.\nGott að keyra þetta alveg í 3-4 tíma bara til að vera viss um að hún sé stöðug. En þetta er mesta mögulega álag á örgjörvanum þannig þú ættir ekki að lenda í neinu veseni ef það koma engar villur í klukkutíma.",
+            "date": "2009-08-20 18:00:00",
+            "post_id": "215540",
+            "reply_to_id": "215528"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Minn er svona 40-42°C idle og fer ekki hærra en 53-55°C load.",
+            "date": "2009-08-20 18:07:00",
+            "post_id": "215543",
+            "reply_to_id": "215540"
+        },
+        {
+            "user_name": "mercury",
+            "text": "jamm jamm. samt sá enga breytingu frá 5 mín uppí klst og 24 mín. held samt að ég klukki ekki meira fyrr en ég fæ mér stærra psu. 400w dugir varla. þú ég sé með frekar simple cpu. E8400 4gb ddr1066 1stk 500gb sata disk geforce 9600gt. gigabyte DS3-L móðurborð. simple dvd drif og antec 182 kassa r sum. og einkverja big ass örgjörvakælingu. eins kæling og var lengi vel í sýningarvélinni í tölvutek. en megið endilega koma með comment á kvað þið haldið um 400w fyrir þetta sett. thx",
+            "date": "2009-08-20 18:24:00",
+            "post_id": "215546",
+            "reply_to_id": "215543"
+        },
+        {
+            "user_name": "johnnyb",
+            "text": "uuuu\nstock kælingu ekki ertu að meina viftuna sem að þú fekkst með því að mikið betri viftur fást á nokkur þúsund kr og kæla mikið betur \nendilega hoppaðu í næstu tölvubúð og keyptu betri viftu coolmaster, zalmann eða sambærilega og googlaðu síðan hvernig best er að overclocka\nugla sat á kvisti skítur á priki",
+            "date": "2009-08-20 20:50:00",
+            "post_id": "215559",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "mercury",
+            "text": "það getur munað alveg fáránlegum °c bara að fá sér almennilega kælingu. stock er að ég held ekkert option fyrir overclock. eins og þú sér á þessum kork þá er ekkert mál að koma þessu í einkver 4ghz svo lengi sem stillingarnar eru réttar í bios. fann alveg böns af linkum um overclock á þessum örgjörva og móðurborðinu mínu gigabyte ds3L. nánast allt sem maður þarf að vita. en já \nhttp://www.tolvutek.is\n fynnur einkvað sniðugt þarna fyrir lítinn pening. gl m8",
+            "date": "2009-08-20 22:36:00",
+            "post_id": "215567",
+            "reply_to_id": "215559"
+        }
+    ],
+    "date": "2009-08-20 20:50:00"
+}

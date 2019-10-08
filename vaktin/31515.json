@@ -1,0 +1,65 @@
+{
+    "forum_title": "Yfirklukkun, hraðaprófanir og mods",
+    "id": "31515",
+    "title": "overclocking Q9450 vesen",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=1&t=31515",
+    "posts": [
+        {
+            "user_name": "Sh4dE",
+            "text": "Sælt veri fólkið ég var að pæla í því hvort að mér vitrari maður vissi afhverju að þegar að ég stilli FSB á móðurborði í 1440 mhz og DRAM í 800 mhz og core voltage 1,216V þá sýnir biosinn í startuppi að örgjörvinn sé kominn með 360x8 = 2,88 Ghz en þegar að ég er kominn í windows og kveikji á cpu-z þá sýnir hann ennþá bara 333x8 = 2,66 Ghz en volta talan hefur breyst og svo breytast bara hlutföllinn á FSB:DRAM úr 5:6 uppí 9:10 (orginal þá er FSB 1333 og DRAM 667)\nMóðurborðið mitt er MSI MS-7380   örgjörvinn Intel core 2 quad q9450 ramið er DDR2 dual channel 8192 MBytes er með tvær týpur af ram Corsair PC2-6400 týpunúmer CM2X2048-6400C5 og OCZ PC2-6400 týpunúmer OCZ2P8002G og GPU Nvidia GeForce 9800 GTX\nEr þarna einhver sem gæti vitað ástæðuna fyrir þessu??",
+            "date": "2010-07-28 19:30:00",
+            "post_id": "273781",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "er nokkuð eins og hún sé að boota sér nokkru sinnum áður en þú nær að komast að bios? eftir að þú stillir yfirklukkunina.",
+            "date": "2010-07-28 22:14:00",
+            "post_id": "273808",
+            "reply_to_id": "273781"
+        },
+        {
+            "user_name": "Sh4dE",
+            "text": "Nope hann bootar sér bara eðlilega ég þarf að reboota tölvunni 3 sinnum ef að yfirklukkun hefur ekki heppnast.",
+            "date": "2010-07-28 22:29:00",
+            "post_id": "273811",
+            "reply_to_id": "273808"
+        },
+        {
+            "user_name": "svanur08",
+            "text": "Í fyrsta lagi áttu ekki að vera með sitthvora tegund af minni.",
+            "date": "2010-07-28 22:51:00",
+            "post_id": "273819",
+            "reply_to_id": "273811"
+        },
+        {
+            "user_name": "Sh4dE",
+            "text": "en getur engin svarað mér afhverju overcloking skilar sér ekki inní windows??",
+            "date": "2010-10-10 19:17:00",
+            "post_id": "287510",
+            "reply_to_id": "273819"
+        },
+        {
+            "user_name": "nonesenze",
+            "text": "ertu ekki örugglega búinn að disable EIST og C1E eða man ekki nákvæmlega hvað þetta seinna heitir en það er á sama stað í bios",
+            "date": "2010-10-10 19:22:00",
+            "post_id": "287512",
+            "reply_to_id": "287510"
+        },
+        {
+            "user_name": "Sh4dE",
+            "text": "ég er búinn að disable EIST en ég hef ekki séð neitt þarna sem heitir C1E það er D.O.T. og það er disabled hjá mér líka ég hef ekki séð í bæklingnum með móðurborðinu að það sé heldur neinn jumper sem ég þarf að fjarlægja til að geta OC",
+            "date": "2010-10-10 19:27:00",
+            "post_id": "287513",
+            "reply_to_id": "287512"
+        },
+        {
+            "user_name": "Sh4dE",
+            "text": "Og svo var það annað sem ég var að spá í afhverju er 2,66 ghz á core 0 og 1 en bara 2,01 ghz á core 2 og 3 ???? en já ég fann út að með því að hafa Spread Spectrum disabled þá náði ég core hraðanum upp en bara á core 0 og 1 en ekki hinum þótt að ég sé með prime 95 í gangi og alles.",
+            "date": "2010-10-10 19:45:00",
+            "post_id": "287523",
+            "reply_to_id": "287513"
+        }
+    ],
+    "date": "2010-07-28 19:30:00"
+}

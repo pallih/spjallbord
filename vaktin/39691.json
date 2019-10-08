@@ -1,0 +1,86 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "39691",
+    "title": "Vandamál \"Default gateway is not available\"",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=39691",
+    "posts": [
+        {
+            "user_name": "vesley",
+            "text": "Fæ þessi skilaboð rúmlega 1 sinni á 2 min frestí tölvunni minni.      Er með Windows 7 Ultimate 64bita\nEr með Gigabyte GA-P31-DS3l móðurborð sem er með Realtek PCIe GBE Family Controller.   \nEr búinn að leita út um allt á netinu en finn ekki lausn sem hjálpa mér.   Er með nýjustu drivera í öllu saman. \nHvað get ég gert ?\nEr með ljósleiðara frá Vodafone ef það hjálpar einhvað.",
+            "date": "2011-07-05 11:33:00",
+            "post_id": "360934",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Ezekiel",
+            "text": "Default Gateway mun vera routerinn þinn að öllu jöfnu.\nOft þegar maður nær ekki að tengjast þá er oft búið að setja upp static IP addressu og þar inní address líka fyrir gateway-inn(sem er oftast 192.168.1.1).\nFarðu inná netkortið þitt og segðu hvort það sé dynamic stillt fyrir ip eða static.\nStart > Control Panel > hægrismella á Local Area Connection > fara inní TCP/IPv4 og properties og segðu hvort það sé útfyllt þar.",
+            "date": "2011-07-05 13:04:00",
+            "post_id": "360959",
+            "reply_to_id": "360934"
+        },
+        {
+            "user_name": "vesley",
+            "text": "Það er að fá IP addressuna og DNS server addressið Automatically.   \nOg er nú ekki alveg klár á því hvað ætti að koma þangað ef ég geri þetta sjálfur s.s. \nhvaða addressa, subnet mask og default gateway.",
+            "date": "2011-07-05 13:23:00",
+            "post_id": "360964",
+            "reply_to_id": "360959"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Held að þú verðir að hringja í netfyrirtækið þitt til að fá þetta uppgefið.",
+            "date": "2011-07-05 13:29:00",
+            "post_id": "360966",
+            "reply_to_id": "360964"
+        },
+        {
+            "user_name": "nonesenze",
+            "text": "er ekki réttara að hringja í vodafone... svo vantar svo mikið af upplýsingum..\nkemstu samt á netið í tölvunni?\nkemur þetta upp þegar þú ert að gera eitthvað sérstakt (vafra)?\no.s.f.",
+            "date": "2011-07-05 13:32:00",
+            "post_id": "360967",
+            "reply_to_id": "360966"
+        },
+        {
+            "user_name": "vesley",
+            "text": "Þetta kemur bara stundum en virðist ekki vera neitt sérstakt á seiði.  Verð hinsvegar að vera með vafra opinn og þetta kemur bara upp þegar einhvað er að loada .  Skipti ekki máli hvort það sé stór síða eða ekki.\nOg já ég kemst á netið í tölvunni er að skrifa þetta í þessarri tölvu.",
+            "date": "2011-07-05 13:34:00",
+            "post_id": "360968",
+            "reply_to_id": "360967"
+        },
+        {
+            "user_name": "nonesenze",
+            "text": "ef þú ert með fleirri en eitt netkort í tölvunni, getur prufað að disable öll sem þú notar ekki\ngetur líka prufað að fá upplýsingar hjá vodafone og skrifað þær handvirkt inn\ngæti líka verið að þetta sé stillingar í connections í vafraranum, getur prufað að nota annann til að sjá hvort þetta \nskeður í honum líka\nég þekki lítið ljósnet og hvernig það virkar, þess vegna spurði ég hvort þú kæmist á netið þrátt fyrir þetta",
+            "date": "2011-07-05 13:44:00",
+            "post_id": "360970",
+            "reply_to_id": "360968"
+        },
+        {
+            "user_name": "Ezekiel",
+            "text": "Farðu inná routerinn þinn í gegnum browserinn, oftast 192.168.0.1, 192.168.1.1, 192.168.1.254 og loggaðu þig inná hann. Átt að geta séð upplýsingarnar þar hvaða IP hann hefur og þar geturðu sett hann inn í properties stillingarnar þínar svo netkortið tengist alltaf réttum gateway.\nPS. ef þú veist ekki login er default oft 1234, 12345, admin. etc",
+            "date": "2011-07-05 14:06:00",
+            "post_id": "360974",
+            "reply_to_id": "360970"
+        },
+        {
+            "user_name": "vesley",
+            "text": "Var í sambandi við Vodafone og er þjónustaðilinn ekki 100% hvað er að valda þessu en er búinn að fara í routerinn og gera allt sem hann sagði mér það og svo er bara að vona núna að netið detti ekki út.  Annars nenni ég ekki að tengjast þessum router meira.",
+            "date": "2011-07-05 14:33:00",
+            "post_id": "360980",
+            "reply_to_id": "360974"
+        },
+        {
+            "user_name": "kizi86",
+            "text": "margt gæti verið að, t.d ef ert með mcAfee internet security og með firewallinn enabled.... (eitthvað compatability issue með win7)\nsvo gætirru prufað að nota dns frá opendns eða google 8.8.8.8 og 8.8.4.4",
+            "date": "2011-07-05 16:13:00",
+            "post_id": "361005",
+            "reply_to_id": "360980"
+        },
+        {
+            "user_name": "vesley",
+            "text": "Þetta var ekki eldveggurinn eða vírusvörn þar sem þetta kom ennþá upp þegar það var slökkt á öllu saman.   (Já búinn að skanna alla tölvuna enginn vírus)\nVirtist bara vera stillingarvesen í routernum og hann er að mestu stabílur núna.   Ef það verður eh meira vesen þá beintengi ég mig bara og hætti að pæla í þessum drasl router.",
+            "date": "2011-07-06 13:05:00",
+            "post_id": "361287",
+            "reply_to_id": "361005"
+        }
+    ],
+    "date": "2011-07-05 11:33:00"
+}

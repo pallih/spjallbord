@@ -1,0 +1,149 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "23334",
+    "title": "Setja upp Ethernet router á stúdentagörðum.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=23334",
+    "posts": [
+        {
+            "user_name": "hafthoratli",
+            "text": "Sælir.\nÉg er í miklum vandræðum með að setja upp router á stúdentagörðum HÍ. Til þess að við getum notað tvær tölvur hérna verðum við að vera með þetta í gegnum router - annars bara eina tölvu með snúru í vegginn sem ég er ekki að fíla.\nÉg er kominn hingað:\n1. Routerinn kominn í samband og tölvan finnur hann. tengist ekki samt.\n2. Búinn að skrá MAC adressuna hjá Reiknisstofu Háskóla Íslands. (þarft alltaf að skrá tölvurnar en ef það er router þarf að skrá MAC adr. á honum).\n3. Búinn að stilla routerinn - HELD ég. Það er samt örugglega þar sem ég er að klikka.\n = og ekkert virkar. Hvorki borðtölvan (lan snúra beint í routerinn) né fartölvan (sem á að vera þráðlaus).\nHefur einhver hugmynd um hvernig ég geri þetta? Routerinn heitir CNet 54Mbps Wireless-G Router keyptur á Computer.is",
+            "date": "2009-05-30 22:35:00",
+            "post_id": "208059",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Cascade",
+            "text": "Skillst að þú getir ekki notað router í þetta, heldur þarftu access point",
+            "date": "2009-05-30 22:51:00",
+            "post_id": "208060",
+            "reply_to_id": "208059"
+        },
+        {
+            "user_name": "frr",
+            "text": "Ef þetta er router með tveimur ethernet portum á sem hann routar á milli (sitt hvort interface), þá ætti þetta að vera auðvelt.\nÞú þarft náttúrulega upplýsingar um DNS,GW o.þ.h. Ef það er pikkað upp í gegnum dhcp, þá þarftu að sjá til þess að það sé publishað í gegnum dhcp á netinu þínu, eða sett fast á allar vélar.\nEf þú ert með router með aðeins einu ethernet interface (sem mig grunar, geta verið mörg ethernettengi), þá er ekki endilega allt tapað. Ef routerinn ræður við það, sem er nokkuð líklegt, þá skilgreinir þú annað local óskráð net fyrir þínar vélar á sama interface, það þarf að skilgreina aðra ip addressu á routernum á því neti.\nT.d. ef þú færð úthlutað 172.1.1.20 á íbúðina (sem er þá á routernum), þá geturðu bætt við t.d. 192.168.25.1 á routerinn og  úthlutað t.d. 192.168.25.2-30 sem dhcp pool fyrir vélarnar þvínar. Routerinn sér um að routa á milli í gegnum sama interfacið.\nÉg vona að þetta skiljist, þetta er raunar ekki flókið.",
+            "date": "2009-05-31 01:28:00",
+            "post_id": "208065",
+            "reply_to_id": "208060"
+        },
+        {
+            "user_name": "kaamos",
+            "text": "Langar að vekja þennan þráð því ég er í nákvæmlega sama vandamáli. Náðiru að leysa vandann og þá hvernig?\nEr að nota Cnet CWA-854HT. Sem er reyndar Access point, spurning hvort það virki ekki?\nEn s.s. er búinn að skrá MAC addressu, þá sem stendur t.d. undir og skv. TCP/IP status inná græjunni.\nSvo þegar ég tengist þráðlaust næ ég engu sambandi út. Spurning hvort það þurfi að gera eitthvað meira heldur en bara að skrá addressuna.\nVæri súpercool ef einhver hérna inni hefur náð að setja svona upp og getur gefið tips..",
+            "date": "2009-08-16 18:50:00",
+            "post_id": "214876",
+            "reply_to_id": "208065"
+        },
+        {
+            "user_name": "depill",
+            "text": "Ef þú ætlar að tengja fleirri en eina vél á netið verðuru að vera með router en ekki AP. Ef þú ætlar bara að vera með eina vél ( en samt hafa þráðlaust ) þá notarðu AP en skráir MAC addressuna á vélinni þinni.\nVenjulegur router myndi rúta umferðinni þinni í gegn og þess vegna sýna eingöngu sína MAC-addressu það myndi AP ekki gera \n ( Annað er L2 og hitt L3 )",
+            "date": "2009-08-16 21:47:00",
+            "post_id": "214924",
+            "reply_to_id": "214876"
+        },
+        {
+            "user_name": "kaamos",
+            "text": "Þakka þér fyrir þetta svar.. þarf þá að fara og reyna fá að skipta vörunni út og fá mér router.",
+            "date": "2009-08-16 23:35:00",
+            "post_id": "214960",
+            "reply_to_id": "214924"
+        },
+        {
+            "user_name": "PepsiMaxIsti",
+            "text": "Ég lenti í þessu sama, ég fékk mér bara DHCP router og skráði MAC addressuna á honum hjá reiknistofnun og þá virkaði þetta fínt, gat verið með eins margar vélar og ég vildi vera með. Þeir eru með leiðbeingar hjá þjónustuborðiniu hjá sér og á \nhttp://www.rhi.hi.is\n sem að er gott að lesa, fyrir þetta. Svín virkar og er mjög fínn hraði, þarf bara að passa alla umferð til að láta ekki loka á sig, læenti nokkrum sinnum í því",
+            "date": "2009-08-18 10:53:00",
+            "post_id": "215185",
+            "reply_to_id": "214960"
+        },
+        {
+            "user_name": "hallizh",
+            "text": "Bump ...\nEr hægt að nota ZyXel P-600 router til að deila tengingu þráðlaust á görðunum? Fékk hann með eitthverri gamalli nettengingu fyrir eitthverjum árum held ég ...",
+            "date": "2009-09-21 14:38:00",
+            "post_id": "219222",
+            "reply_to_id": "215185"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ætla að fá að endurvekja þennan gamla þráð, mig vantar ráð fyrir félaga minn. Hann er upp á stúdentagörðum og fékk hjá mér 585 router sem ég er ekki að nota. Það eina sem gerist þegar hann reynir að tengjast síðu er að hann fær alltaf að það sé engin DSL lína til staðar, augljóslega.\nHann er búinn að registera MAC addressuna og hún er rétt skráð hjá RHI. Þeir í tölvuþjónustunni þar gátu enga hjálp gefið.  Ég er hálf stumped þar sem ég hef aldrei sett upp álíka setup áður, og það eru litlar sem engar leiðbeiningar á síðu RHI sem koma mér áfram. \nÞarf hann að hafa annað IP subnet routað út en hann er að taka inn, þarf hann að stilla DNS manualt, ef svo hvaða DNS er verið að nota þarna uppfrá? Hvað er mér að yfirsjást?",
+            "date": "2011-01-17 20:39:00",
+            "post_id": "313647",
+            "reply_to_id": "219222"
+        },
+        {
+            "user_name": "eythori",
+            "text": "Þetta mun líklega ekki ganga upp.\nRouterar hafa tvö eiginleg interface. WAN og svo LAN. Portin fjögur á ST585 eru LAN og DSL interfaceið er svo WAN.\nÍ tilfelli stúdentagarðanna þarf router með RJ45/ethernet WAN tengi, s.s. ekki DSL router. MAC addressan af þessu WAN interface-i þarf svo að skrá hjá RHÍ.\nÍ stuttu máli geturðu gleymt því að nota þennan Speedtouch 585 router.\nDæmi um router sem gæti virkað: \nhttp://www.tolvutek.is/product_info.php ... s_id=24256",
+            "date": "2011-01-17 20:57:00",
+            "post_id": "313655",
+            "reply_to_id": "313647"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Þetta grunaði mig, að þessir routerar myndu alltaf sækjast eftir að sækja netið útfrá WAN portinu. Hélt ég gæti trikkaði hann til með því að nota sitthvort subnetið.\nTakk fyrir þetta.",
+            "date": "2011-01-17 21:03:00",
+            "post_id": "313660",
+            "reply_to_id": "313655"
+        },
+        {
+            "user_name": "Haxdal",
+            "text": "Ef ég er að skilja frr rétt þá er þetta einmitt það sem þú þarft að gera.\nEitt portið configgað (segjum port1) til að vera með IP töluna sem tölvan væri annars með (segjum 172.20.x.x), og búa svo til DHCP pool á annað subnet (segjum 192.168.x.x.) á hin portin (port 2-4) sem tölvurnar fengu útlutað IP tölu á og myndu svo nota router 192.168.x.x töluna sem Gateway og DNS alveg einsog um venjulega ADSL tengingu væri að ræða, en svo þarf að forwarda/routa öllum internetsamskiptum frá 192.168.x.x netinu út á 172.20.x.x. netið og þaðan útá internetið.  En ég hef ekki clue hvernig þetta er gert á ADSL routerum (eða hvort),  felur í sér örugglega mikið af CLI magic.\nVæri örugglega einfaldara að kaupa einhvern notaðan tölvugarm á nokkra þúsundkalla og skella 2 netkortum í hann og setja upp linux router.  Getur haft meiri stjórn á uppsetningunni + notað Google af einhverju viti.",
+            "date": "2011-01-17 21:15:00",
+            "post_id": "313668",
+            "reply_to_id": "313660"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ég myndi gera þetta ef ég væri að gera þetta sjálfur hiklaust, þetta er hinsvegar fyrir félaga minn upp á stúdentagörðum. Ég get ekki séð að það sé hægt að assigna subnetum á ákveðin port með góðu móti á þessum router í gegnum GUI-ið allavega, var búinn að skoða það e-ð, og ég einfaldlega nenni ekki að fara að kafa í CLI-ið á þessu.",
+            "date": "2011-01-17 21:46:00",
+            "post_id": "313682",
+            "reply_to_id": "313668"
+        },
+        {
+            "user_name": "akarnid",
+            "text": "Get alveg lofað því að það er alveg haugur af línum sem þarf að skrifa inn via cli.  Þetta er custom firmware sem er á þessum græjum, hægt að sjá það með því að ftp'a inn á græjuna og sækja user.ini skrána sem er þar. \nMyndi bara alveg sleppa því að standa í þessu.  Best er að núna er ekki hægt að finna neitt support frá framleiðanda, nú heitir þetta Technicolor og síðan þeirra er gersamlega useless.",
+            "date": "2011-01-21 21:36:00",
+            "post_id": "314761",
+            "reply_to_id": "313682"
+        },
+        {
+            "user_name": "Bouldie",
+            "text": "Ætla að troða mér inn í þennan þráð með svipað vandamál, er á stúdentagörðunum og er með CNet router.\nÉg er búinn að skrá mac addressu routersins og stilla hann eftir minni bestu getu. Netið hefur virkað í 2 skipti síðan ég setti þetta upp í gær án vandræða í margar klukkustundir en stundum dettur netið bara út og þá koma þessi skilaboð: Windows cannot communicate with the device or resource (primary dns server)\nEinhver sem veit hvað gæti verið að?",
+            "date": "2011-01-22 19:21:00",
+            "post_id": "314989",
+            "reply_to_id": "314761"
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "ok, þegar svörin eru kominn við nokkrum spurningum hérna verður þetta hreinsað og gert sticky.\n \nEr þetta hvorteðer ekki líðandi vandamál næstu 5 árin",
+            "date": "2011-01-23 11:00:00",
+            "post_id": "315097",
+            "reply_to_id": "314989"
+        },
+        {
+            "user_name": "Bjosep",
+            "text": "Hvað valdirðu þegar þú fórst í gegnum setup wizard?\nÉg er búinn að setja upp 2 Cnet beina núna sem hafa virkað hnökralaust í meira en ár, og það eina sem ég þurfti að gera var að fara í gegnum setup wizard, þannig að mig grunar að þú hafir valið eitthvað vitlaust þar.",
+            "date": "2011-01-23 13:49:00",
+            "post_id": "315117",
+            "reply_to_id": "315097"
+        },
+        {
+            "user_name": "Bouldie",
+            "text": "Takk fyrir svarið en þetta er komið hjá mér\nPrófaði mig áfram og það sem ég þurfti að gera var að stilla inn 208.67.220.220 í primary dns",
+            "date": "2011-01-23 21:23:00",
+            "post_id": "315245",
+            "reply_to_id": "315117"
+        },
+        {
+            "user_name": "gosi",
+            "text": "Ég er á stúdentagörðunum og á Sagem 1500WG router. \nVið erum tvö og einungis annað okkar getur notað netið í einu\nEkki gæti einhver hjálpað mér að gera svona fyrir hann?",
+            "date": "2011-05-03 15:50:00",
+            "post_id": "345977",
+            "reply_to_id": "315245"
+        },
+        {
+            "user_name": "depill",
+            "text": "Er ekki Sagem 1500WG ADSL router er mig að misminna ? Er þetta ekki dæmið sem Síminn notaði fyrst á móti ADSL TVinu sínu. Næstum alveg viss, þá ertu væntanlega að tengja í LAN porti og þá ertu bara að \"svissa\" HInetinu, það þekkir svo mac addressunar ykkar, en hleypir væntanlega bara einni inn í einu. \nYkkar lausn er bara að kaupa WAN router. Við (Hringdu) seljum WAN routera á 4.990 kr hjá okkur FULL -N ( 300 ) pinkulítill og með innbyggðum 4-porta sviss. Ég held að það sé með því ódýrara sem gerist hérna. ( Portið samt á móti ykkur er 10 Mb/s þannig ...",
+            "date": "2011-05-04 12:22:00",
+            "post_id": "346144",
+            "reply_to_id": "345977"
+        }
+    ],
+    "date": "2009-05-30 22:35:00"
+}

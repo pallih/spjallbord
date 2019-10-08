@@ -1,0 +1,198 @@
+{
+    "forum_title": "Símar, fartölvur, myndavélar og önnur farandstæki",
+    "id": "46591",
+    "title": "ICS 4.0.3 fyrir SGS2",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=26&t=46591",
+    "posts": [
+        {
+            "user_name": "intenz",
+            "text": "Hvernig er ICS 4.0.3 að koma út hjá ykkur? Hvort eruði með stock frá Samsung eða CM9? Hvernig er batterísendingin?\nÉg er að lenda í þvílíku bulli með batteríið í CM9: ICS 4.0.3.\nEf þið skoðið fyrstu myndina sjáið þið að ég var með kveikt á skjánum í ~30 mín af ~13 klst (3,7%) samt var síminn vakandi í ~5 tíma af þessum 13 tímum (40%).\nEf ég skoða Wake locks í BetterBatteryStats appinu er AlarmManager hæstur með 4%\nHef heyrt að þetta sé þekktur böggur í 4.0.3 og sé fixed í 4.0.4.\nLangar eiginlega ekki að fara úr CM9, þar sem ég er skíthræddur um að missa root.",
+            "date": "2012-03-16 22:58:00",
+            "post_id": "429249",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "hfwf",
+            "text": "Búnað lesa um að það er víst eitthvað betterí problem í þessari \"final\" útgáfu af ICS. Ég er með XXLPB frá því í feb og af öllu þá virðist vera að hun sé töluvert betri, er að ná degi á hleðslu þar. þín hleðslar er eins og stock 2.3.4.\nedit: annars ættiru að stilla hvaða forrit sem þú notar í að slökkva á wi-fi og 3g hjá þér þegar skjárinn er off. svona mín ráð.",
+            "date": "2012-03-16 22:59:00",
+            "post_id": "429250",
+            "reply_to_id": "429249"
+        },
+        {
+            "user_name": "Oak",
+            "text": "ég er með símann root-aðann á 4.0.3. ekkert mál\nekki ennþá komin reynsla á batteríið var að setja það upp í gær.",
+            "date": "2012-03-16 23:01:00",
+            "post_id": "429251",
+            "reply_to_id": "429250"
+        },
+        {
+            "user_name": "hfwf",
+            "text": "Og já auðvita fyrir löngu komið rott á 4.0.3. Missir það ekki.",
+            "date": "2012-03-16 23:03:00",
+            "post_id": "429253",
+            "reply_to_id": "429251"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Búinn að prófa Juice Defender, sama vesen.\nURL á það sem þú settir upp? \n Er búinn að roota þannig ég get ekki fengið OTA",
+            "date": "2012-03-16 23:06:00",
+            "post_id": "429254",
+            "reply_to_id": "429253"
+        },
+        {
+            "user_name": "intenz",
+            "text": "",
+            "date": "2012-03-16 23:11:00",
+            "post_id": "429257",
+            "reply_to_id": "429254"
+        },
+        {
+            "user_name": "hfwf",
+            "text": "Segir sig bara sjálft að Swooper var að fara að þessu öllu rangt. Ef þig vantar cf-root fyrir LPQ þá er minnsta mál fyrir mig að sýna þér link á það.",
+            "date": "2012-03-16 23:20:00",
+            "post_id": "429260",
+            "reply_to_id": "429257"
+        },
+        {
+            "user_name": "braudrist",
+            "text": "Virkar ágætlega hjá mér. Þarf bara að bíða eftir kernel fyrir ICS sem styður undervolting. Held að þetta CM nightly sé algjört sorp bara.",
+            "date": "2012-03-16 23:29:00",
+            "post_id": "429261",
+            "reply_to_id": "429260"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Þú mátt alveg endilega senda mér link á Samsung 4.0.3 firmware'ið sem þú settir upp.",
+            "date": "2012-03-16 23:29:00",
+            "post_id": "429263",
+            "reply_to_id": "429261"
+        },
+        {
+            "user_name": "FuriousJoe",
+            "text": "ICS 4.0.3 stock\n(og sjá á bláu línuni hvað hann er notaður mikið í rest, alveg slatta!!!)\nWifi/Data on all time",
+            "date": "2012-03-16 23:34:00",
+            "post_id": "429265",
+            "reply_to_id": "429263"
+        },
+        {
+            "user_name": "hfwf",
+            "text": "Því miður þá er ég ennþá með LPB því ég hef ekki viljað uppfæra í \"final\" útaf akkúrat þessu batterí ves og fleiru. En hvaða útgáfu ertu með smelltu á mig screenshoti og rootið er þitt.",
+            "date": "2012-03-16 23:34:00",
+            "post_id": "429267",
+            "reply_to_id": "429265"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Djöfull líst mér vel á þetta sem braudrist er með...\nhttp://forum.xda-developers.com/showthr ... ?t=1546609\nMeð CF-Root og alles. Ætli ég prófi það ekki.\nJá, þetta CM9 er algjört sorp.",
+            "date": "2012-03-16 23:36:00",
+            "post_id": "429268",
+            "reply_to_id": "429267"
+        },
+        {
+            "user_name": "hfwf",
+            "text": "Málið leyst þá i guess \n \nég ætla ekki að snerta cm9 fyrr en rc1 lágnark.",
+            "date": "2012-03-16 23:38:00",
+            "post_id": "429270",
+            "reply_to_id": "429268"
+        },
+        {
+            "user_name": "wicket",
+            "text": "CM9 er nú bara enn á Alpha stigi þannig að það er ekkert skrýtið að þetta virki ekki eins vel og Cyanogen almennt. Þeir eru t.d. í algjöru rugli með kernelinn og eru að fikra sig áfram í myrki því að Samsung er ekki búið að gefa út neina source-a. En þetta kemur allt.\nÉg er að keyra 4.0.3 (LPQ) núna, var með LPB á undan og finnst LPQ vera meira snappy. Tek eftir því í loading tíma í leikjum og svoleiðis. Rafhlaðan er að endast í einn og hálfan dag ca. sem ég er ánægður með. Er ekki búin að setja upp JuiceDefender og stilla hann í drasl eins og vanalega. Er ekki með neitt push nema Gmail og vinnupóstur syncar á 30min fresti.\nRoot fyrir alla Samsung útgáfurnr af ICS er hér: \nhttp://forum.xda-developers.com/showthr ... ?t=1103399",
+            "date": "2012-03-17 09:48:00",
+            "post_id": "429342",
+            "reply_to_id": "429270"
+        },
+        {
+            "user_name": "Oak",
+            "text": "http://forum.xda-developers.com/showthr ... ?t=1544487\nÞetta notaði ég.  Official firmware.",
+            "date": "2012-03-17 10:13:00",
+            "post_id": "429344",
+            "reply_to_id": "429342"
+        },
+        {
+            "user_name": "Swooper",
+            "text": "Takk, þetta reddaði mér. Það er kominn nýtt root fyrir LPQ síðan um daginn, merktur \"fixed\", svo það var greinilega ekki bara ég sem var að gera eitthvað vitlaust...",
+            "date": "2012-03-17 14:54:00",
+            "post_id": "429390",
+            "reply_to_id": "429344"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Er búinn að vera með CM9 í svona tvær vikur. Er ekki að fíla það. Batterísendingin er alveg eins og bara rootað stock Android með JD undervolting. Næ tæpum 40h með lítilli notkun.\nÆtla að setja upp stock Android í dag.\nReyndar verður maður eiginlega að setja upp Nova launcherinn til að finna fyrir einhverri breytingu. Get ekki verið með TW á 4.0, bara meika það ekki.",
+            "date": "2012-03-17 15:19:00",
+            "post_id": "429392",
+            "reply_to_id": "429390"
+        },
+        {
+            "user_name": "tobbibraga",
+            "text": "Er einhver hérna sem gæti aðstoðað mig við að koma ICS í símann sama hvað ég geri ég næ þessu ekki inn hjá mér... og ekki væri verra ef það er einhver í Keflavík, ég er svo hræddur um að klúðra þessu",
+            "date": "2012-03-17 15:28:00",
+            "post_id": "429393",
+            "reply_to_id": "429392"
+        },
+        {
+            "user_name": "noizer",
+            "text": "Við erum sem sagt að tala um að þessi fixed útgáfa af CF-Root sé að virka á LPQ?",
+            "date": "2012-03-17 15:57:00",
+            "post_id": "429398",
+            "reply_to_id": "429393"
+        },
+        {
+            "user_name": "hfwf",
+            "text": "eins og ég skil það þá já.Annars ef það er ekki það málið þá bara flasha öðru romi. eins og pólsku útgáfunni.",
+            "date": "2012-03-17 16:02:00",
+            "post_id": "429399",
+            "reply_to_id": "429398"
+        },
+        {
+            "user_name": "Swooper",
+            "text": "Jább. \nÞessi\n virkaði fyrir mig.",
+            "date": "2012-03-17 16:16:00",
+            "post_id": "429401",
+            "reply_to_id": "429399"
+        },
+        {
+            "user_name": "noizer",
+            "text": "Snilld! Best að skella sér í flash.",
+            "date": "2012-03-17 16:47:00",
+            "post_id": "429405",
+            "reply_to_id": "429401"
+        },
+        {
+            "user_name": "hfwf",
+            "text": "dont get busted;)",
+            "date": "2012-03-17 16:49:00",
+            "post_id": "429407",
+            "reply_to_id": "429405"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Criskelo ROM að gera GÓÐA hluti... WiFi á allan daginn\n(ég reyndar hlóð símann í 30 mínútur í morgun til að vera öruggur að hann entist í allan dag)",
+            "date": "2012-03-19 00:58:00",
+            "post_id": "429720",
+            "reply_to_id": "429407"
+        },
+        {
+            "user_name": "PepsiMaxIsti",
+            "text": "Kemur hann eðlilega upp í kies hjá þér og allveg rootaður, kemur upp guli þríhyrningurinn hjá þér eða náðiru að losna við hann?",
+            "date": "2012-03-19 11:56:00",
+            "post_id": "429775",
+            "reply_to_id": "429720"
+        },
+        {
+            "user_name": "Swooper",
+            "text": "Get ekki uppfært hann í Kies eins og er, nenni eiginlega ekki að vesenast í því. Hann er alveg rootaður já. Guli þríhyrningurinn kemur, hef ekki reynt að losna við hann, en mér skilst að \nþetta\n eigi að virka fínt fyrir SGS2.",
+            "date": "2012-03-19 14:21:00",
+            "post_id": "429814",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "PepsiMaxIsti",
+            "text": "Snild virkaði hjá mér, og líka með þessu forriti, þríhyrningurinn farinn og flass counter er í 0",
+            "date": "2012-03-19 14:41:00",
+            "post_id": "429817",
+            "reply_to_id": "429814"
+        }
+    ],
+    "date": "2012-03-19 14:21:00"
+}

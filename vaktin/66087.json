@@ -1,0 +1,93 @@
+{
+    "forum_title": "Koníakstofan",
+    "id": "66087",
+    "title": "Kennitölur, pæling",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=9&t=66087",
+    "posts": [
+        {
+            "user_name": "marijuana",
+            "text": "Okei, ég hef undanfarið verið að leika mér smávegis með kennitölur og PHP. Bjó til PHP function sem reiknar út hvort hún sé \"gild\" eða ekki hjá fólki. \nAllavega, pælingin mín byrjaði útfrá reikningum á svokallaðri öryggistölu eða næst síðustu tölunni. \nTil að ég útskýri aðeins, kannski smá óskýrt en það er hlekkur neðst sem skýrir útreikningana alla aðeins betur. \n6 fyrstu -> Fæðingardagur\n2 næstu -> Random frá og með 20 \nNæst seinasti er öryggistalan. Reiknuð með Modulus 11 reikniaðferð. \nSíðast en ekki síst er öldin.\nÞannig að... Pælingin mín er mjög einföld. Hvað myndi gerast ef segjum að einn daginn myndi... 80 til 90 manns fæðast á sama degi ? Neyðast þeir til að hafa 2 manneskjur á sömu tölunni ? Doesn't make sense to me. \n \nÞessi random tala hefur bara 79 lausar tölur. Hvað ef 80 manns fæðast ? \nHlekkur sem útskýrir kennitölur aðeins betur en ég gerði. \nhttp://www.skra.is/thjodskra/um-thjodsk ... ennitolur/\nKannski einhvað sem ég er að misskilja ?",
+            "date": "2015-06-30 22:05:00",
+            "post_id": "601311",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Ég held að þetta sé ekkert vandamál í bráð. \nÍ dag eru 330.000 íslendingar sem fæða u.þ.b. 5000 börn á ári eða 1 barn á hverja 66 íbúa. Það gerir um 14 fædd börn á dag að meðaltali. \nSamkvæmt mannfjöldaspá hagstofunar þá verður mannfjöldi á íslandi árið 2061 436.000 manns og miðað við 1 barn/66 íbúa þá gerir það 6600 börn á ári eða 18 börn á dag að meðaltali. \nJafnvel við worst-case-scenario að það fæðist 3x fleirri börn einn daginn þá er það samt bara 54 einstaklingar.\nM.ö.o. þá þurfa íslendingar að fjölga sé mjög mikið eða fjöldinn allur af fólki flytji til landsins til að þetta verði vandamál.\nSíðan er alltaf hægt að breyta formúlunni fyrir kennitölunni en halda sama forminu (t.d. með því að hafa síðustu 4 sem 3 random + vartala).",
+            "date": "2015-06-30 22:39:00",
+            "post_id": "601314",
+            "reply_to_id": "601311"
+        },
+        {
+            "user_name": "marijuana",
+            "text": "Jájá, þetta er líka bara virkilega ólíkleg hugmynd sem kom upp. Þetta kerfi virkar í dag og mun gera næstu ártugina og líklegast mun, mun lengur. Pælingin var í raun bara, hvað ef... Hvað ef.",
+            "date": "2015-06-30 22:51:00",
+            "post_id": "601316",
+            "reply_to_id": "601314"
+        },
+        {
+            "user_name": "depill",
+            "text": "Þá lengjum við bara kennitöluna og breytum kerfinu svo það skalist lengra.\nVerðum pirrandi. En ég giska að við skiptum um kerfi áður, eða verðum búin að því löngu.",
+            "date": "2015-06-30 22:56:00",
+            "post_id": "601317",
+            "reply_to_id": "601316"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Við bætum við bókstaf fyrir framan.\nAllir sem voru með gamaldags kennitölu fá A á undan sinni, nýir fá random ABC eða D og þá er búið að leys aþetta ;-)\nÞetta yrði líklega svaka markaðsplott fyrir Þjóðskrá, ég sé fyrir mér e-h svona...   \nhttps://www.youtube.com/watch?v=YnJtWHl-pdY",
+            "date": "2015-07-01 00:04:00",
+            "post_id": "601322",
+            "reply_to_id": "601317"
+        },
+        {
+            "user_name": "Vaski",
+            "text": "Notast við merkingarlausa kennitölu, bara random 10 og málið dautt? Afhverju er verið að troða fæðingardegi í id",
+            "date": "2015-07-01 11:59:00",
+            "post_id": "601337",
+            "reply_to_id": "601322"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Fyrir nokkrum árum þurfti að breyta bílnúmerunum, í stað tveggja bókstafa + þriggja tölustafa erum við núna með 3 bókstafi + 2 tölustafi sem býður uppá margfalt fleiri mismunandi bílnúmer.  Eitthvað svipað myndi væntanlega gerast við kennitölurnar.",
+            "date": "2015-07-01 20:07:00",
+            "post_id": "601349",
+            "reply_to_id": "601337"
+        },
+        {
+            "user_name": "axyne",
+            "text": "Núna veit eg að kennitölur í Danmörku eru með sama sniði og heima, það er 6 fyrstu er fæðingardagur og ár  og svo 4 tölur i viðbót, veit samt ekki hvernig þær eru fengnar?",
+            "date": "2015-07-01 21:54:00",
+            "post_id": "601354",
+            "reply_to_id": "601349"
+        },
+        {
+            "user_name": "urban",
+            "text": "t.d. til að fólk muni kennitöluna sína.\nFólk á erfitt með að muna 4 stafa pinnúmer, hvað þá random 10 stafa tölu sem að tengist þeim i raun ekki neitt.",
+            "date": "2015-07-01 22:07:00",
+            "post_id": "601356",
+            "reply_to_id": "601354"
+        },
+        {
+            "user_name": "marijuana",
+            "text": "\"It is a ten-digit number with the format DDMMYY-SSSS, where DDMMYY is the date of birth and SSSS is a sequence number. The first digit of the sequence number encodes the century of birth (so that centenarians are distinguished from infants), and the last digit of the sequence number is odd for males and even for females.\"\nhttps://en.wikipedia.org/wiki/Personal_ ... Denmark%29\nTekið beint af wikipedia..  \n \nOg hér er þetta á dönsku fyrir þá sem skilja hana ágætlega... sem er ekki ég, ég féll í Dönsku. \nhttps://da.wikipedia.org/wiki/CPR-nummer",
+            "date": "2015-07-02 00:53:00",
+            "post_id": "601371",
+            "reply_to_id": "601356"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Crasha öll tölvukerfi á landinu.",
+            "date": "2015-07-02 21:38:00",
+            "post_id": "601422",
+            "reply_to_id": "601371"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Talsverð hætta á því",
+            "date": "2015-07-02 21:48:00",
+            "post_id": "601423",
+            "reply_to_id": "601422"
+        }
+    ],
+    "date": "2015-06-30 22:05:00"
+}

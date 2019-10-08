@@ -1,0 +1,219 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "27546",
+    "title": "Hjálp við að stilla hvað takkarnir gera á músinni minni.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=27546",
+    "posts": [
+        {
+            "user_name": "Glazier",
+            "text": "Byrja á því að taka það fram að ég er með þessa mús: \nhttp://kisildalur.is/?p=2&id=765\nHér er mynd af því hvernig þetta lýtur út hjá mér:\nsjáið þarna triple click, double click og eitthvað meira dótarí..\nEn ég var að spá hvort ég gæti stillt þetta þannig að það virki svipað og að vera með hopp stillt á scroll ? (semsagt eins og það væri t.d. dritað á space (hoppu takkinn í css) mörgum sinnum á stuttum tíma.\nEða get ég bara valið þessa möguleika sem eru þarna ? :S",
+            "date": "2010-01-13 20:20:00",
+            "post_id": "239298",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Einarr",
+            "text": "Geturu ekki bindað hopp á triple click í cs?",
+            "date": "2010-01-13 20:29:00",
+            "post_id": "239300",
+            "reply_to_id": "239298"
+        },
+        {
+            "user_name": "Glazier",
+            "text": "hefði viljað hafa 5 click lágmark og þetta triple click er svo hægt (of langt bil á milli hvers click-s)",
+            "date": "2010-01-13 20:33:00",
+            "post_id": "239303",
+            "reply_to_id": "239300"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Svona frá CSS point of view væri ég áhugasamur um það hvernig að þú ert að hugsa þetta?\nViltu fá hopp eftir 5 click? Persónulega myndi ég gubba ef að ég væri að Compact/deagla einhvern og hoppaði alltíeinu...\nEr mögulegt að það séu einhverjir búnir að gera svona Macro files fyrir allan fjandann á einhverju spjallborði fyrir þessar mýs?\nEDIT: Eða vó, er triple click takki eins og mouse4? Ertu búinn að athuga allar mouseX binds í console í CSS? Kæmi mér ekki á óvart að þetta dytti þar inn.",
+            "date": "2010-01-13 20:38:00",
+            "post_id": "239305",
+            "reply_to_id": "239303"
+        },
+        {
+            "user_name": "Glazier",
+            "text": "Þetta edit hjá þér skildi ég ekki :S\nEn nei ég er ekki að meina að ég þurfi að ýta 5 sinnum á takkann til að hann hoppi heldur að ef ég ýti einu sinni á takkann þá er það það sama og að ýta 5 sinnum á space á \nMJÖG\n stuttum tíma.. (til að auðvelda bunny-hop)",
+            "date": "2010-01-13 20:44:00",
+            "post_id": "239311",
+            "reply_to_id": "239305"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Er það sem að þú kallar \"triple click\" takki á músinni?\nAnnars mæli ég með \"bind mwheelup +jump\" fyrir þetta, þú getur ekki gert þetta án þess að vera þá með macro á utanaðkomandi forriti en CSS, hann býður ekki uppá þetta.\nSvo að valmöguleikinn er sá að læra að nýta sér skrollið eða finna macro á internetinu, býður forritið ekki uppá \"record macro\" eins og LGTCH G15 lyklaborðsforritið? Eða bara skrifa þetta upp í macro manager með wait(ms) á milli?",
+            "date": "2010-01-13 20:48:00",
+            "post_id": "239312",
+            "reply_to_id": "239311"
+        },
+        {
+            "user_name": "vesley",
+            "text": "scroll-jump  ?     er það ekki auðveldast?    og ef það ýtir á space alveg milljón sinnum á einni sekúndu þá giska ég að hann hoppi samt bara einu sinni \n   sama  ég er með OCZ Equalizer sem er með sömu hönnun og þessi \nhttp://kisildalur.is/?p=2&id=761\n   sem er svipuð þinni.   ef ég nota triple shot á deagle þá skýt ég samt bara 2",
+            "date": "2010-01-13 20:53:00",
+            "post_id": "239313",
+            "reply_to_id": "239312"
+        },
+        {
+            "user_name": "Glazier",
+            "text": "Nei, vil ekki stilla á \"scroll-hop\" því ég skipti um vopn með scroll :S\nEn ef ég gæti stillt hoppið þannig að ef ég ýti einu sinni á þennan \"auka\" takka á músinni og það samsvari kannski 10 hoppum á sec (vona að þið fattið)\nÞá ýti ég á takkann rétt áður en hann lendir og þá er allveg öruggt að hann hoppi aftur upp um leið og þannig kemur gott b-hop",
+            "date": "2010-01-13 20:58:00",
+            "post_id": "239315",
+            "reply_to_id": "239313"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Það er hægt að gera þetta í cs\nSetur þá \nbind mouse4 \"+jump +jump +jump +jump +jump\"\n í configið þitt. Mig minnir að þetta hafi ekki verið neitt flóknara en það.\nmouse4 er annar hliðartakkinn á músinni, mouse1 er vinstri, mouse2 hægri og mouse3 middle click",
+            "date": "2010-01-13 21:02:00",
+            "post_id": "239318",
+            "reply_to_id": "239315"
+        },
+        {
+            "user_name": "vesley",
+            "text": "scroll upp skipt um vopn scroll niður hopp   eða eitthvað svoleiðis ?     ég spila nú ekki nógu mikið CS   en félagi minn spilar alltaf svona.",
+            "date": "2010-01-13 21:08:00",
+            "post_id": "239320",
+            "reply_to_id": "239318"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Eða t.d. scrolla up fyrir hopp og scrolla niður fyrir hopp.",
+            "date": "2010-01-13 21:09:00",
+            "post_id": "239321",
+            "reply_to_id": "239320"
+        },
+        {
+            "user_name": "Glazier",
+            "text": "Hafði hugsað mér að nota takka nr. 7 í þetta.\nVeit ég hljóma eins og ég hafi aldrei spilað css áður en hvar í andsk. finn ég configið mitt ?",
+            "date": "2010-01-13 21:11:00",
+            "post_id": "239322",
+            "reply_to_id": "239321"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "C:\\Program Files\\Steam\\steamapps\\userinn þinn\\counter-strike source\\cstrike\\cfg\\config.cfg\nopnaðu þetta með notepad og settu þetta í nýja línu\nGetur líka bara pikkað þetta inn í console.",
+            "date": "2010-01-13 21:20:00",
+            "post_id": "239325",
+            "reply_to_id": "239322"
+        },
+        {
+            "user_name": "Glazier",
+            "text": "jæja.. setti þetta neðst í configinn og fór í css og ýtti á takkann en ekkert gerðist.. \nÉg vil nota takka nr. 7 í þetta\nEru einhverjar sérstakar stillingar hérna sem ég þarf að breyta ?\n´\nEdit: ég er búinn að fá takkann til að hann klikki bara einu sinni þegar ég smelli á hann.\nen þegar ég opna css og fer í options og keyboard til að stilla hvaða takka ég nota til að hoppa og þá smelli ég á þennan takka (nr. 7) og þá kemur bara Mouse 1 valið fyrir hopp takkann :S",
+            "date": "2010-01-13 21:30:00",
+            "post_id": "239327",
+            "reply_to_id": "239325"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Sorry alltof langt síðan ég spilaði CSS\nPrófaðu þetta\nalias +bhop \"+jump; +jump; +jump; +jump; +jump\"\nalias -bhop \"-jump; -jump; -jump; -jump; -jump\"\nbind \"einhver takki\" \"+bhop\"\nættir að geta sett mouse7 þarna, en gæti vel verið að hann heiti eitthvað annað.\nGeturðu ekki annars bara macro í mouseconfig glugganum þarna á myndinni sem að ýtir 5 sinnum á space?",
+            "date": "2010-01-13 22:15:00",
+            "post_id": "239338",
+            "reply_to_id": "239327"
+        },
+        {
+            "user_name": "Glazier",
+            "text": "Eiga þessar gæsalappir að vera ? utan um jump orðin..\nSvona lýtur þetta Macro dót út.. skil ekkert í þessu:\nEn hvernig ætti þetta þá nákvæmlega að lýta út inni í þessum config, svona ?\nKóði: \nVelja allt\nalias +bhop \"+jump; +jump; +jump; +jump; +jump\"\nalias -bhop \"-jump; -jump; -jump; -jump; -jump\"\nbind \"mouse7\" \"+bhop\"",
+            "date": "2010-01-13 22:32:00",
+            "post_id": "239348",
+            "reply_to_id": "239338"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Ýta á rec og svo 5 sinnum á space?\nEn jú þetta ætti að vera nákvæmlega svona í configinum.",
+            "date": "2010-01-13 22:35:00",
+            "post_id": "239349",
+            "reply_to_id": "239348"
+        },
+        {
+            "user_name": "Glazier",
+            "text": "shitt hvað ég er orðinn pirraður á þessu drasli.. aldrei næ ég að gera þetta rétt  \nGefst upp í dag og reyni aftur á morgun",
+            "date": "2010-01-13 23:11:00",
+            "post_id": "239362",
+            "reply_to_id": "239349"
+        },
+        {
+            "user_name": "Victordp",
+            "text": "eru svona hlutir ekki bannaðir ?",
+            "date": "2010-01-13 23:39:00",
+            "post_id": "239363",
+            "reply_to_id": "239362"
+        },
+        {
+            "user_name": "Glazier",
+            "text": "afhverju ættu þeir að vera það ?\nBannað að stilla takkana hjá sér þannig að maður eigi auðveldara með b-hop ?",
+            "date": "2010-01-14 08:10:00",
+            "post_id": "239374",
+            "reply_to_id": "239363"
+        },
+        {
+            "user_name": "J1nX",
+            "text": "prófaðu að fara inn í cs:S (inn á eitthvern server, jafnvel bara lan server) og ýta á takkann sem þú vilt nota fyrir það, kíktu svo í console.. þá ætti væntanlega að standa \"mouse(eitthvaðnúmer) is not bound\"\nsvo sérðu númer hvað takkinn er og setur inn aliasinn sem Steinip setti inn í config (jafnvel í autoexec.cfg) og bindar takkann við það og þá ætti þetta að virka.. hinsvegar spila ég nú bara cs gamla þannig ég er ekki viss hvernig þetta virkar í source. en það er um að gera að prófa",
+            "date": "2010-01-14 08:15:00",
+            "post_id": "239375",
+            "reply_to_id": "239374"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Ef að þetta virkar í fyrsta lagi gæti þetta vel verið bannað á fullt af stöðum, þú mátt t.d. ekki neinsstaðar hafa prone+jump bindað í CS 1,6.",
+            "date": "2010-01-14 08:24:00",
+            "post_id": "239377",
+            "reply_to_id": "239375"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "hvernig væri nú bara að æfa sig i bhop? eftir smá æfingu hefð ég orðið helviti góður. og get klárað flest öll möpp á aoki serverinum í source.\nþar er btw Mouse 4 og 5 bannað. ss hliðartakkarnir. en það lagast ef maður hækkar sensið um eitthvað.",
+            "date": "2010-01-14 10:17:00",
+            "post_id": "239386",
+            "reply_to_id": "239377"
+        },
+        {
+            "user_name": "Glazier",
+            "text": "Jæja.. loksins hefur mér tekist að stilla takka nr. 7 á músinni til að hoppa.. en samt næ ég ekki að stilla hann þannig að hann geri sama gagn og scroll-hop :S\nSvona lýtur þetta út..\nÉg smelli á örina niður fyrir takka nr. 7 á músinni og þá kemur þetta, og ég smelli á Keyboard:\nÞegar ég smelli á Keyboard þá kemur þetta upp, þá smelli ég einu sinni á space og þá er þetta bara komið:\nOg eftir að ég hef gert það sem er hér að ofan þá get ég farið í css og ýtt á þennan takka og þá gerir hann sama gagn og space.. \nEN\n samt er hann ekki að virka þannig að þótt ég ýti á hann rétt áður en ég lendi þá hoppar hann samt aftur.. (svipað og scroll-hop)",
+            "date": "2010-01-16 03:42:00",
+            "post_id": "239835",
+            "reply_to_id": "239386"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Þú getur líka bara notað scroll fyrir þann tilgang... ertu ekki búinn að ná því?",
+            "date": "2010-01-16 03:43:00",
+            "post_id": "239836",
+            "reply_to_id": "239835"
+        },
+        {
+            "user_name": "Glazier",
+            "text": "En ég nota scroll til að skipta um byssu.. (nota bæði upp og niður)\nÞetta hlýtur að vera hægt að stilla þetta",
+            "date": "2010-01-16 04:01:00",
+            "post_id": "239837",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "ég get sagt þér það að allir sem eru góðir í þessum leik nota EKKI scroll til að skipta um byssu. nota allir 1,2,3,4,5. bara venja sig á það. ekki eins og þeir takkar séu langt í burtu.",
+            "date": "2010-01-16 11:54:00",
+            "post_id": "239863",
+            "reply_to_id": "239837"
+        },
+        {
+            "user_name": "Some0ne",
+            "text": "Svona hoppikjaftæði er eitthvað sem á heima í quake ekki cs \n Eini staðurinn sem að mér dettur í hug að þetta væri \"löglegt\" er einhver svona hoppi-mappa-server. Að öðru leiti er horft niður á þetta alveg eins og scroll-ducking í cs 1.6.",
+            "date": "2010-01-16 12:02:00",
+            "post_id": "239864",
+            "reply_to_id": "239863"
+        },
+        {
+            "user_name": "Victordp",
+            "text": "I'lold notaðu bind \"mwheeldown\" \"+jump\" og þannig mikið þægilegara of first þú ert með svona marga bind takka notaðu þá mwheelup að taka upp flash, mouse 5 að pikka upp grenu og mouse 4 að snúa þér skal senda þér mjög góðan cfg sem er fps boostandi (ef þú vilt), og ef þú vilt bhopa verðuru að vera með mwheeldown +jump það er ekki séns að bhopa með space",
+            "date": "2010-01-16 13:35:00",
+            "post_id": "239877",
+            "reply_to_id": "239864"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Eða.... mwheelup +jump... sem er það sem að flestallir góðir bhopparar nota.\nÞað er ekki þægilegt né hentugt að vera að færa puttann frá takkanum og fá svo gaur í andlitið...",
+            "date": "2010-01-16 14:18:00",
+            "post_id": "239883",
+            "reply_to_id": "239877"
+        }
+    ],
+    "date": "2010-01-16 04:01:00"
+}

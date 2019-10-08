@@ -1,0 +1,233 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "20822",
+    "title": "Nýting á 50Mbit ljósleiðara.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=20822",
+    "posts": [
+        {
+            "user_name": "Gúrú",
+            "text": "Jæja, núna er svo að máli komið að ég er áskrifandi að 50Mbit ljósleiðara hjá Vodafone, en þeir, eins og önnur símafyrirtæki á Íslandi bjóða ekki upp á vélbúnað til að styðja þessar tengingar. (Selja þær auðvitað samt)\nÁstæðan fyrir því að ég er að nota vélbúnaðinn frá þeim er að það þurfa allir á heimilinu að nota nettenginguna, og það er ekki hægt að gera það, án þess að nota routerinn í augnablikinu.\nÉg er ekki beint sáttur með þetta, og man eftir því að vinsamlegur starfsmaður hjá 1414 benti mér á eitt fyrir ekki svo löngu þegar að ég var með major netvandamál(hefur komið fyrir 3x \n ) :\nAð það er bara eitt nettengi nýtanlegt í einu á Telsey boxinu, svo að 1 tengi fyrir routerinn og 1 tengi fyrir mig er ekki mögulegt.\nAð það er 20Mb throughput(held ég að það heiti já) á ZyXEL P-335U.\nAð það er bara ein leið sem að hann gat hugsað sér til þess að nýta tenginguna en leyfa fleiri en einni tölvu að vera nettengd, og hún er að:\nTengja borðtölvuna(í þessu tilviki, og þá mína) beint í Telsey boxið(yrði þá með ZAeldvegg) og routerinn í mína tölvu.\nOg hér kem ég með spurningu:\nHvernig geri ég það, og hvaða snúrur og hvernig auka netkort þyrfti ég? Er með P35C-DS3R móðurborð með innbyggðu 1000Mbit netkorti (skv. \nþessöh\n)",
+            "date": "2009-01-03 03:52:00",
+            "post_id": "192229",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Blackened",
+            "text": "Ef mér skjátlast ekki þá þarftu bara eitt 100mbit netkort sem þú færð í næstu tölvuverslun og cat5 snúru úr tölvunni þinni og í routerinn\nsíðan þarf bara að \"bridgea\" tenginguna á milli netkorta.. er bara gert í windows og ætti ekki að vera neitt mál\nGerði þetta alltaf svona þegar ég fékk ADSL fyrst og var ekki með router.. var bara með ADSL módem í einni tölvunni og hafði hana svo tengda við aðra tölvu með cat5\nvar ekki vesen þá og ætti ekki að vera vesen í dag",
+            "date": "2009-01-03 04:16:00",
+            "post_id": "192233",
+            "reply_to_id": "192229"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Eru \nþessi\n \ntvö\n svona ódýr fyrir einhverja spes ástæðu?\nMyndu þau duga?",
+            "date": "2009-01-03 04:30:00",
+            "post_id": "192235",
+            "reply_to_id": "192233"
+        },
+        {
+            "user_name": "urban",
+            "text": "****ATH*****  þetta er eftir því sem að ég man í augnablikinu, og tek það fram að ég er ekkert alveg edrú, þannig að það væri ekkert vitlaust að bíða eftir commenti frá einhverjum öðrum \"alvöru vaktara\"\njá þau mundu duga.\nþau eru svona ódýr, vegna þess að þetta basicly kostar ekki neitt.\nef að þú ert með móðurborð með 2x lan tengjum þá gætiru þess vegna notað þau, eða bara switch\nEN !!!!\nekki gleyma því að router hefur alltaf eitt fram yfir þetta allt saman.\nhann er með innbyggðan firewall.",
+            "date": "2009-01-03 05:28:00",
+            "post_id": "192237",
+            "reply_to_id": "192235"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Maður les fyrsta innleggið \náður\n en að maður les það síðasta \n \nÞað er bara 20Mb throughput, og depill.is benti mér á nokkra routera með throughput til að nýta tenginguna og þeir voru á 100k+ eða algjört drasl.\nOg já, ég er ekki með 2x lan tengi á tölvunni, en ég bíð eftir einhverjum edrú til að confirma þetta með kortin",
+            "date": "2009-01-03 05:34:00",
+            "post_id": "192238",
+            "reply_to_id": "192237"
+        },
+        {
+            "user_name": "depill",
+            "text": "Já! þau eru bæði 10/100 Mbps og það er einfaldlega viðbjóðslega ódýrt að framleiða þau ( og já þau styðja akkurat ekkert ofan á TCP/IP, sem í þínu tilfelli virðist vera bara OK ) \n. Mér reyndar skyldist ( en þar sem ég bý í skíta Kópavogi get ég ekki fullyrt ) að bæði Telsey portin væru virk og þú myndir fá IP address númer 2.\nEn til þess allavega að gera það sem þig langar þá ertu ekki að fara bridga connectioið ( það væri basicly eins og að nota tölvuna þína sem framlengingarstykki ), heldur ertu að fara nota eithvað eins og t.d. ICS sem er innbyggt í Win XP, eða gætir jafnvel notað utanaðkomandi lausn eins og Kerio WinRoute. Og gallinn við þetta er sá að tölvan þín mun suffera af smá álagi þar sem að hún þarf núna að fara NATa og opna allar tengingar fyrir allar vélar sem eru á heimilinu.\nBest held ég einhvern megin ef þú gætir hreinlega verið með dedicated vél í þessu á Win 2003/2008 eða ef þú leggur í það til dæmis m0n0wall. Aðalmálið er meira innra minnið heldur en processorinn ( ég er samt ekki að gera ráð fyrir einhverjum processor úr Jurassic Park ), þar værirðu að gera góða hluti. Er drasl vél keypt einhverstaðar, með ekki minna en 512 MB RAM ( verður að gera þér grein fyrir því að flest allir routerar eru með kannski 16 / 32 MB RAM og mjög lítið cpu afl ) og kannski min 1 Ghz örgjörva og m0n0wall, 2 x ethernet. Þá ertu að dansa.",
+            "date": "2009-01-03 10:29:00",
+            "post_id": "192248",
+            "reply_to_id": "192238"
+        },
+        {
+            "user_name": "Starman",
+            "text": "Það eru 3 tengi á ljósleiðaraboxinu. Ef þú tekur sjónvarpið yfir ljósið þá er 1 port frátekið fyrir það, þá hefur þú 2 port laus. Það er hægt að tengja switch við ljósleiðaraboxið, þannig að þú getur tengt 3 vélar við netið. Þú getur fengið 3 löglegar IP tölur með því að fara inn á þjónustusíður Gagnaveitunnar \nhttp://front01.4v.is/SELFCARE/index.do\n og skrá þar inn MAC addressu tækjanna sem eiga að fá löglega IP tölu. Hver port á ljósleiðaraboxinu er í raun sér Vlan, þ.e.a.s. tölva á port 1 fær t.d. úthlutað 89.150.130.55/24 en tölva á porti 2 fær úthlutað úr öðru subneti t.d 89.150.143.64/24. Hraðinn er ekki full duplex, heldur half duplex, sem þýðir að ekki er hægt að vera með download og upload á fullum hraða samtímis á sama VLANI. Hins vegar ef þú ert með 2 vélar tengdar við sitthvort portið geta báðir downloadað á fullum hraða t.d. 2 x 50Mbps.\nZyxel routerinn P-335U nær max througput um 30Mbps með því að slökkva á innbyggða eldveggnum.\nEf þú ert að spá í router sem gæti flutt þetta gagnamagn þá er hér ágætis tafla \nhttp://www.smallnetbuilder.com/component/option,com_chart/Itemid,189/\nYfirlit um erlent gagnamagn hjá t.d. Vodafone virðist vera bundið við IP tölu , þannig að það er spurning hvort að kerfið hjá þeim sé það snjallt að það leggji saman downloadið frá þessum 3 IP tölum sem þú færð úthlutað.",
+            "date": "2009-01-03 14:13:00",
+            "post_id": "192260",
+            "reply_to_id": "192248"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Eru þetta alveg verified upplýsingar Starman?\nMan svo mjög mjög vel eftir því að hann 'útskýrði' fyrir mér að þá vissi ekki telsey boxið hvert það ætti að láta internetið rsom  \nPort 3 er fyrir sjónvarpið og hin 2 eru fyrir internetið, svo að þetta makear alveg sens, nema hvað að ég sé ekki frammá hvernig að báðir geti downloadað á fullum hraða? Ekki þá á sama tíma er það?\nEDIT:\nÉg á gamlan DELL(og Medion) turn, held 512MB minni, svona 2.0GHz örgjörva eða eitthvað, gæti ég notað hann til að opna allar heimilisins Nat something og svo... geri ég hvað? Framlengi það í turninn minn og routerinn úr honum?",
+            "date": "2009-01-03 15:10:00",
+            "post_id": "192264",
+            "reply_to_id": "192260"
+        },
+        {
+            "user_name": "mind",
+            "text": "Amm þetta er rétt hjá Starman.\nÉg veit samt ekki alveg hvort að selfcare dótið hjá gagnaveitunni virkar fyrir Vodafone núna.\nÞað gerði það ekki hjá mér þegar ég fór yfir til Vodafone og þurfti ég að hringja sjálfur inn allar MAC addressur sem ég vildi að fengu útgefnar IP tölur.\nEn ég er með 3x IP tölur budnar við MAC address + Sjónvarpsbox.\nÉg er með minn eigin router.\nNæ fullum hraðan í download.\nVirðist hinsvegar aldrei ná hærra en 50% hraða í upload einhverra hluta vegna, hef ekki prufað það ítarlega samt.\nÞað er líka nokkuð skemmtileg pæling að með rétta dótinu gæti maður mögulega bundið allar 3 línurnar saman til að búa til 150Mbps tengingu... veit samt ekki hvað maður myndi nota hana í nema maður ætlaði bókstaflega búa til VOD klámsíðu.",
+            "date": "2009-01-03 15:19:00",
+            "post_id": "192265",
+            "reply_to_id": "192264"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "U*hóst*fulltafserverumafýmisskonardraslitildæmisCS'n'shit*hóst",
+            "date": "2009-01-03 15:23:00",
+            "post_id": "192266",
+            "reply_to_id": "192265"
+        },
+        {
+            "user_name": "mind",
+            "text": "[quote=\"Gúrú\"]Eru þetta alveg verified upplýsingar Starman?\nMan svo mjög mjög vel eftir því að hann 'útskýrði' fyrir mér að þá vissi ekki telsey boxið hvert það ætti að láta internetið rsom  \nPort 3 er fyrir sjónvarpið og hin 2 eru fyrir internetið, svo að þetta makear alveg sens, nema hvað að ég sé ekki frammá hvernig að báðir geti downloadað á fullum hraða? Ekki þá á sama tíma er það?\nEDIT:\nÉg á gamlan DELL(og Medion) turn, held 512MB minni, svona 2.0GHz örgjörva eða eitthvað, gæti ég notað hann til að opna allar heimilisins Nat something og svo... geri ég hvað? Framlengi það í turninn minn og routerinn úr honum?[/quote]\nÞetta eru í raun 3x internet tengingar sem þú ert að fá. Allar eru með fullum hraða alltaf þar til þú ferð í hámarks gagnamagn þá breytast þær í liggur við 56k módem tengingar.\nÞær virka allar stakar eina sem þú þarft er router eða tölvu fyrir hverja þeirra.\nMeð þennan gamlan Dell og Medion turn þá er alltaf hægt að nota tölvur til að gera þetta allt en það er bara \"opening up a whole can of worms\" ef þú ert ekki vanur að setja svoleiðis upp.\nMyndi kaupa mér bara alminnilegan routera og nota hann. Mjög ólíklegt þú þurfir meira en 1x 50Mbps tengingu sérstaklega þegar er búið að throttla allt og utanlandsdownload orðið hægara en allt.",
+            "date": "2009-01-03 15:28:00",
+            "post_id": "192268",
+            "reply_to_id": "192266"
+        },
+        {
+            "user_name": "depill",
+            "text": "Ég myndi henda uppá hann m0n0wall ( frítt og ekki nema 16 MB ) og þá verður vélin þín alveg helmagnaður router sem ætti ekki að geta verið með throughput uppá nálægt 100 Mbps...., bara hefur tvö netkort í vélinni \nVæri nokkuð töff ( reyndar bara 2 port á Telsey sem ég vissi að væri hægt að nota fyrir internet og mig minnir endilega ( ætla aftur ekki að fullyrða ) að það sé hreinlega Internet vlanið sem séu cappað ekki port based semsagt. En vandinn hérna væri að þú værir með tvær public tölur ( og engan routing protocol sem þú gætir notað ) og þú þyrftir að gera alveg ógeðslegt load-balancing til að fá þetta til að virka \n Að keyra server þarna fyrir aftan sem ætti að gera eithvað vitrænt væri ennfremur mjög ja illmögulegt ( single server 2 external IP's \n ). En allt er möguleiki \nOg já ég myndi frekar nota vélina heldur en \"almennilegan\" router, vegna þess að þá ertu kominn í góð merki ( eins og t.d. Juniper og Cisco ), router sem þú kaupir út í búð er basicly bara rebranded open-source verkefni copyað ( eins og m0n0wall ) mjög ódýr processor ( ~200 Mhz ) og svona 16/32 MB RAM, flýtt sér of mikið = ekki góður router.\nm0n0wall er eðal open-source (BSD licensað) routing verkefni, með þessari vél ættirðu að ná eins og ég segi 100 Mbps troughput ( og minni fjárfesting en í nýjum router ). Getur svo notað gamla P335U routerinn þinn sem bara WiFi AP ( slekkur bara á NAT og eldveggnum í honum og setur hann á sama subnet og innra interfaceið á m0n0wallinum ).",
+            "date": "2009-01-03 15:32:00",
+            "post_id": "192269",
+            "reply_to_id": "192268"
+        },
+        {
+            "user_name": "corflame",
+            "text": "Er ekki hægt að nota switch á milli, þ.e. tengja allar tölvur í switch og svo úr switch í router?\nEða er ég að misskilja eitthvað?",
+            "date": "2009-01-04 20:00:00",
+            "post_id": "192425",
+            "reply_to_id": "192269"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Vibbí hugmynd sem að er \nekki\n fáránlega flókin  \n \nVerifia einhver?\nVæri hægt að gera þetta svona með \n10/100Mbps Switch, 8 porta\n? Sé að hann er uppseldur samt, myndi \nNet - Switch - Edimax 8 Porta 10/100Mbps Ethernet Switch\n replaca hann?\nMissti mig í paint: \nÁ myndinni eru: \nTelsey box (provided, obvius)\nInfosmart switchinn(fyrrnefndur&linkur)\nZyXEl P-335U (provided, \nlink\n)\nTurninn minn(Undirskrift, fyrrnefnt 1000Mbps netkort innbyggt í móðurborðið)\nCat5 snúrur (bláa draslið)\nEinhverjar uppástungur eða betrumbætur?",
+            "date": "2009-01-05 01:16:00",
+            "post_id": "192479",
+            "reply_to_id": "192425"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Smá necromancing hérna. En hvað kom út úr þessu hjá þér?\nEr sjálfur með ljós hjá Vodafone og er ekki að fá nema um 2.5 Mbps niður og 4.6 Mbps upp á Speedtest.com, hvað ert þú að fá þaðan? \nEn er að velta því fyrir mér að setja upp fileserver/seedbox/eldvegg upp beint í telsey boxið og tengja það svo beint við sviss. Langar að heyra hvernig þetta gekk hjá þér.",
+            "date": "2009-04-15 14:59:00",
+            "post_id": "203900",
+            "reply_to_id": "192479"
+        },
+        {
+            "user_name": "emmi",
+            "text": "Ertu þá að nota Íslenska \nhttp://www.speedtest.net\n serverinn? Gætir prófað þetta líka, \nhttp://speedtest.nwc.is/\nErum að vinna í að fá linkinn okkar til Vodafone stækkaðan í 1Gb/s, það gengur samt treglega. Þeir sem eru tengdir hjá Símanum eiga að fá topphraða til okkar enda 1Gb/s tenging þar á milli. \nÞeir sem eru hjá Vodafone geta prófað þetta, \nhttp://speed.c.is/",
+            "date": "2009-04-15 15:06:00",
+            "post_id": "203901",
+            "reply_to_id": "203900"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Ég reyndi semsagt þá leið fyrst að kaupa annað netkort í turninn minn, og ætlaði að láta þetta vera Telsey>Borðtölva>Router>3 tölvur í gegnum þráðlaust, en eftir að hafa settu upp allar snúrur og slíkt lenti ég í endalausu veseni með það að OR kerfið hleypti mér ekki inn á netið hinum tölvunum ef að ég leyfði Mac addressu routersins (en þær komust inn á 192.168.1.1), en hleypti mér inn á hinum tölvunum ef að ég beintengdi þær með snúrum í portið sem að snúra routersins átti að vera í (í borðtölvunni), sem að var hreinlega ekki möguleiki þó að ég notaði sviss þar sem að tölvurnar áttu að vera þráðlaust tengdar. Svo að ég hringdi í Vodafone og einhver kona(eða stelpa, max tvítug) sagði mér þetta með að maður fengi bara úthlutað þrem Mac addressum hjá OR, og ætlaði að láta mig segja sér hver fjórða Mac addressan sem að virkaði ekki væri, og ég var bara  \n , enda var það augljóslega ekki vandamálið að bara ein tölvanna í einu kæmist ekki á netið... svo að ég gafst upp á þessu það kvöldið og hringdi daginn eftir, og ætlaði einfaldlega að segja þeim að ég myndi enganveginn borga enn einn mánuðinn af 50Mb hraða með einungis 20Mb hraða, og hún einhvernveginn fattaði ekki að ég væri með ljósleiðara, þrátt fyrir að hafa sagt tölurnar 50 og 20 Mbit sennilega yfir tuttugu sinnum í stutta samtalinu, og sagði svo loks \"Ha, ertu með ljósleiðara?\" og ég sagði já, og þá sagði hún \"Já ókei, þá er ég með nýja sendingu af routerum sem að við fengum fyrir einni og hálfri viku sem að þú getur notað, eitthvað N dæmi.\" Og ég spurði bara hvar þeir væru og í stað þess að brjálast -fannst ég vera í fullum rétti til að brjálast yfir upplýsingaleysinu- spurði ég bara hvar og sótti hann daginn eftir.\nSvo að nú er þetta Telsey>Router (A.m.k. 50Mb throughput)>Tölvur\nBýst ekki við því að neinn nenni að lesa þessa sögu en beisiklí eyddi ég 4500 kr í netkort og snúru sem að ég þurfti ekki, vegna þess að tveimur vikum fyrir það höfðu þeir fengið routera, og þeim datt greinilega ekki í hug að segja neytendunum það. \nOg ég fæ 40k/20k hjá ykkur nwc.is mönnum. Fæ alltaf 8.9MB/s þarna hjá speed.c.is enda er c.is sennilega með hraðann frá Vodafone... fæ bara 6.4-6.9MB/s þegar að ég sækji frá static.huga.is, en það er verst hvað það er ekkert sem að gagnast mér þar.",
+            "date": "2009-04-15 16:44:00",
+            "post_id": "203909",
+            "reply_to_id": "203901"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Er þá hægt að þramma niðrí Vodafone með gamla ruslið og fá nýjan í staðinn endurgjaldslaust?\nÞó kannski sniðugt að hringja fyrst.\nÁ íslenska Speedtest servernum fæ ég 6.5 Mbps sem ætti að vera ca 800 KB/s (niður) og hjá vodafone fæ ég hins vegar 22 Mbps ca.\nEn rúsínan í pylsuendanum að frá símanum fæ ég 28 Mbps.\nEn samt sem áður hef ég aldrei séð hraðann á tengingunni minni í raun notkun fara yfir 650 KB/s (stöðugt), af og til náð spike upp í 1 MB/S en það er í mesta lagi innan við sekúndu.",
+            "date": "2009-04-15 18:43:00",
+            "post_id": "203920",
+            "reply_to_id": "203909"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Ég átti held ég að borga en ég sagði ,,Ég gerði samning við ykkur um frían router, af hverju fæ ég ekki nýrri gerðina ykkar?\" og hann þagði og sló einhvað inní tölvuna og ég fékk routerinn.\nMaður fær EKKERT hjá þessum fyrirtækjum án þess að vera þreytandi.",
+            "date": "2009-04-15 20:43:00",
+            "post_id": "203932",
+            "reply_to_id": "203920"
+        },
+        {
+            "user_name": "Tiger",
+            "text": "Ég hélt maður fengi bara \nEKKERT\n hjá þeim punktur...hvort sem maður vælir eða ekki. Jú helst sár á rassinn fyrir að láta taka mann ósmurt ár eftir ár",
+            "date": "2009-04-15 20:47:00",
+            "post_id": "203933",
+            "reply_to_id": "203932"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Verður að mæta til þeirra sko, það er erfitt fyrir þá að hundsa þig þegar að þú situr talandi hátt inni hjá þeim.",
+            "date": "2009-04-15 20:49:00",
+            "post_id": "203935",
+            "reply_to_id": "203933"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Spurning um að senda pabba bara, hann hefur einstaklega gott lag á svona fólki",
+            "date": "2009-04-15 21:00:00",
+            "post_id": "203938",
+            "reply_to_id": "203935"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Úff hvað ég er að fíla nýju 50mbit tenginguna mína.  Skv. speedtest.net er ég með 50mbit/s í download og 25mbit/s í upload og 2ms í ping þegar ég prófa á móti servernum í Keflavík.\nPrufaði svo áðan að VPN-a mig heim úr vinnunni og ég gat streamað 720p blue-ray rippi heiman frá mér í VLC  \n Prufaði líka 1080p og það munaði litlu að það gengi líka.",
+            "date": "2009-05-07 18:21:00",
+            "post_id": "206167",
+            "reply_to_id": "203938"
+        },
+        {
+            "user_name": "ZoRzEr",
+            "text": "Ég er með 50mbits hjá vodafone. Búið að vera tengt í um 2 mánuði. Ég næ 15-25mbits á fartölvunum með 802.11n draft kortum. Svo er ég með borðtölvu þráðlaust tengda líka og það er verri hraði þar. Netið er alltaf að detta út á fartölvunum. Apple tölvur er gjörsamlega ónóthæfar á þessu neti líka. Ég sé svo eftir því að hafa ekki tengt borðtölvuna með snúru og látið gæjana bora í gegnum vegginn fyrir mig.",
+            "date": "2009-05-07 18:57:00",
+            "post_id": "206171",
+            "reply_to_id": "206167"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Ertu með P335-u routerinn eða þann nýja?\nOg já, ég man líka eftir þessu vandamáli á Apple tölvu bróður míns en það leystist einhvernveginn..",
+            "date": "2009-05-07 19:07:00",
+            "post_id": "206173",
+            "reply_to_id": "206171"
+        },
+        {
+            "user_name": "ZoRzEr",
+            "text": "Ég er með nýja routerinn, ZyXEL NBG420N. Hann er tengdur inní stofu hliðiná ljósleiðara inntaks boxinu. Hann er með Firewall off og nokkur opin port i NAT fyrir utorrent og fleira. Borðtölvan er hinu megin við vegginn (sem er reyndar stálstyrktur steypuveggur) þar sem routerinn er og akkurat núna fæ 4mbits niður og 12 út. Svo er ég með Mac Mini sem situr hliðná routernum tengdan með cat, hef ekki prófað hraðann á honum undanfarna daga, en hann hefur verið yfir höfuð margfalt hraðari. \nÉg er orðinn létt pirraður á þessu, ég get enga leiki spilað, hvorki CSS, notað Ventrilo, EVE. Fæ alltaf svo skuggalega hátt ping / lag spike. Ég sé fram á það að ég þurfi að leiða tugmetra langa cat snúru meðfram veggjunum og inní herbergi til þess að fá það besta úr þessu. En þetta er því miður mín sök, að hafa ekki borað í gegnum vegginn þegar guttarnir komu og tengdu þetta.\nP.S. leiðindi að vekja 11 daga gamlan þráð. Þurfti bara að segja frá þessu.",
+            "date": "2009-05-18 13:29:00",
+            "post_id": "207261",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "wifi er bara ekki nógu gott ennþá daginn í dag, handshakeið í wifiinu er bara rusl.\nSjáðu tildæmis að handshakeið hjá 108 wifi er það sama og á 54, þannig ef þú streamar vídjó þá kemur bara nákvæmlega mikið laggspike þó að hraðinn sé tæknilega séð 2x hraðskreiðari.\nUm leið og handshakein verða endurskrifuð/endurgerð þá hættir þetta.. en þangað til þá er wifi bara drasl.",
+            "date": "2009-05-18 14:26:00",
+            "post_id": "207263",
+            "reply_to_id": "207261"
+        },
+        {
+            "user_name": "ZoRzEr",
+            "text": "Er það samt ekki frekar skrítið að í allan dag hefur borðtölvan mín verið 4mbits inn og 12mbits út, alveg eins og hún sé capped á þessum hraða. Aldrei meira, aldrei minna. Þegar best á lét var ég kannski að ná yfir 30mbits hérna bæði inn og út.",
+            "date": "2009-05-18 17:09:00",
+            "post_id": "207275",
+            "reply_to_id": "207263"
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "prófaðu að restarta adsl boxinu og/eða wifinu líka",
+            "date": "2009-05-18 17:49:00",
+            "post_id": "207282",
+            "reply_to_id": "207275"
+        },
+        {
+            "user_name": "ZoRzEr",
+            "text": "Ennþá fast í 4/12. Nenniggi að hringja uppí vodafone í dag. Reyni að kíkja á þetta í vikunni ef þetta lagast ekki.",
+            "date": "2009-05-18 17:54:00",
+            "post_id": "207283",
+            "reply_to_id": "207282"
+        },
+        {
+            "user_name": "sprelligosi",
+            "text": "Geturu ekki bara fengið þér fjöður og dregið cat 5 streng í sama rör og rafmagnið?",
+            "date": "2009-06-02 14:14:00",
+            "post_id": "208266",
+            "reply_to_id": "207283"
+        },
+        {
+            "user_name": "depill",
+            "text": "Eða allra helst ekki rörið sem rafmagnið er í \n Það væri best ef það liggur einhversstaðar loftnetskapall, hátalara, dyrasími, eithvað sem gefur ekki frá sér truflanir. Það er basicly mælt með því að hafa að minnsta kosti 10 cm á milli rafmagns og ja ethernet/loftnets/(whatever float's your boat) kapla. ( Basicly, bara alltaf rafmagnið sér \n, svo er það líka kannski svona öryggissjónarmið ( ég t.d. hata rafmagn, ohh ég hata rafmagn svo mikið( sem sagt rafmagnsvíra með rafmagni á, það er svo óþægilegt ) )\nÞannig ef það sé loftnetstengi eða betteryet, símasnúra báðum megin ætti þetta að vera ekkert mál fyrir þig. Ef það er símasnúra er ekki ósennilegt að það séu 4 vírar dregnir á milli og þá þarftu í raun bara að skipta um tengi ( eða crimpa tengin beint á vírana ) til þess að þetta virki, þarft ekkert að draga.",
+            "date": "2009-06-02 15:22:00",
+            "post_id": "208270",
+            "reply_to_id": "208266"
+        }
+    ],
+    "date": "2009-05-18 13:29:00"
+}

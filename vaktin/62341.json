@@ -1,0 +1,44 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "62341",
+    "title": "Net yfir rafmagn hætt að virka",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=62341",
+    "posts": [
+        {
+            "user_name": "EirikurOG",
+            "text": "Ég hef notað rafmagnslínurnar til að flytja netið frá routernum yfir í sjónvörpin á heimilinu (3 stk) og notað tengibúnað frá PLANET (keypti það hjá Símanum).  Allt virkaði vel þar til ég lét tengja ljósleiðarann í síðustu viku.  Ég þurfti þá að færa mig yfir til Vodafone með sjónvarpið, því Síminn er ekki inni hjá Gagnaveitunni.  Eftir þessar breytingar þá virkar ekki lengur að nota rafmagnsleiðslurnar til að flytja merkið yfir í sjónvarpsmóttakarann, heldur verð ég að tengja beint með kapli frá routernum yfir í móttakarann.  Það er frekar hvimleitt að hafa langan netkapal liggjandi þvert yfir stofugólfið, og þar að auki eru tvö önnur sjónvörp gagnslaus.\nÉg er að nota sömu innstungur og áður, og hef í raun ekki breytt neinu öðru en því sem áður er nefnt.\nEr einhver sem kannast við þetta vandamál?  Er einhver einföld lausn sem mér yfirsést eða verð ég að láta draga í öll herbergi og fá mér switch?",
+            "date": "2014-09-08 21:15:00",
+            "post_id": "572718",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Það er hærra bitrate á Vodafone afruglurunum - leggðu bara cat í alla lykla og slepptu þessu Powerline.\nMinnir að það sé um 4-5Mb á Símalyklunum, en 5-9Mb á Vodafone lyklum.",
+            "date": "2014-09-08 21:38:00",
+            "post_id": "572719",
+            "reply_to_id": "572718"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "Já ætli það kosti ekki 30kr á dag að hafa svona drasl í gangi .24/7",
+            "date": "2014-09-08 21:45:00",
+            "post_id": "572720",
+            "reply_to_id": "572719"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "5W 24/7 => 43.8kWh => 657kr",
+            "date": "2014-09-08 21:55:00",
+            "post_id": "572723",
+            "reply_to_id": "572720"
+        },
+        {
+            "user_name": "arons4",
+            "text": "Ekki beint, 5W => 840 Wh á viku = 12,6kr\nEDIT: Þú reiknaðir mvið heilt ár, þá passar þetta allt.",
+            "date": "2014-09-09 00:06:00",
+            "post_id": "572739",
+            "reply_to_id": "572723"
+        }
+    ],
+    "date": "2014-09-08 21:15:00"
+}

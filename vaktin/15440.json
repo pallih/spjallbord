@@ -1,0 +1,79 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "15440",
+    "title": "Móðurborðsdriverar",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=15440",
+    "posts": [
+        {
+            "user_name": "dezeGno",
+            "text": "Sælir.\n\n\n\nÉg var með tölvuna í viðgerð hjá kísildal og svo virðist vera að þeir hafi gleymt að láta mig fá móðurborðsdiskinn með öllum driveronum fyrir það. Nú skapast það vandamál að mig vantar internet driver fyrir móðurborðið til að komast á netið, allt annað er komið. Móðurborðið sem ég er með er Asus P5N32-E SLI. Ef einhver hér veit hvar ég get fundið þennan driver endilega láta mig vita. Er búin að leita á \nhttp://www.asus.com\n síðunni án árangurs.\n\n\n\nTakk fyrirfram!",
+            "date": "2007-09-08 23:33:00",
+            "post_id": "152555",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Heliowin",
+            "text": "Þetta hlýtur að vera \ndriverinn\n ef þú velur Lan úr listanum og svo fyrir rétta stýrikerfið.",
+            "date": "2007-09-09 00:13:00",
+            "post_id": "152557",
+            "reply_to_id": "152555"
+        },
+        {
+            "user_name": "dezeGno",
+            "text": "Er búin að reyna það en það virðist ekki virka :S",
+            "date": "2007-09-09 00:36:00",
+            "post_id": "152558",
+            "reply_to_id": "152557"
+        },
+        {
+            "user_name": "Heliowin",
+            "text": "Hvaða stýrikerfi ertu með?",
+            "date": "2007-09-09 00:44:00",
+            "post_id": "152559",
+            "reply_to_id": "152558"
+        },
+        {
+            "user_name": "dezeGno",
+            "text": "Windows Xp Home 32bit",
+            "date": "2007-09-09 02:02:00",
+            "post_id": "152560",
+            "reply_to_id": "152559"
+        },
+        {
+            "user_name": "Heliowin",
+            "text": "Mér sýnist að þarna sé driver fyrir XP þó að hann sé líka tilgreindur sem 64 bita driver. Kannski er hann bara 64 bita og það sé ástæðan fyrir því að hann virki ekki. Mér þætti það skrítið að Asus væri ekki með driver fyrir þig. Ég hef ekki séð neitt á forum síðum Asus sem bendir til þess.",
+            "date": "2007-09-09 02:13:00",
+            "post_id": "152561",
+            "reply_to_id": "152560"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "http://dlsvr01.asus.com/pub/ASUS/mb/socket775/P5N32-SLI%20Premium/NVIDIA_RIS.zip",
+            "date": "2007-09-09 06:58:00",
+            "post_id": "152565",
+            "reply_to_id": "152561"
+        },
+        {
+            "user_name": "dezeGno",
+            "text": "Hvert á ég að installa þessu? Það er engin setup file í þessu",
+            "date": "2007-09-09 10:54:00",
+            "post_id": "152569",
+            "reply_to_id": "152565"
+        },
+        {
+            "user_name": "dezeGno",
+            "text": "Einhver?",
+            "date": "2007-09-09 16:55:00",
+            "post_id": "152578",
+            "reply_to_id": "152569"
+        },
+        {
+            "user_name": "Taxi",
+            "text": "Ef þú ert með driverinn en ekki install-pakka þá hægri smellirðu á My Computer og velur Manage,síðan velur þú Device Manager úr listanum og þá færðu lista hægra megin sem er með Network adapters,þar ætti að vera gult spurningarmerki sem þú hægri smellir á og velur Update Driver.\n\n\n\nÞá ætti tölvan að finna rétta driverinn og installa honum fyrir þig.",
+            "date": "2007-09-09 18:10:00",
+            "post_id": "152583",
+            "reply_to_id": "152578"
+        }
+    ],
+    "date": "2007-09-08 23:33:00"
+}

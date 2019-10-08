@@ -1,0 +1,86 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "49529",
+    "title": "Flakkari sem \"sofnar ekki\"",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=49529",
+    "posts": [
+        {
+            "user_name": "Tiger",
+            "text": "Vitið þið hvort það sé hægt að upplýsingar um það hvort flakkarar fara í spin down eða ekki? \nEr með flakkara sem sofnar alltaf og þarf að bíða í 5-6 sec í hvert sinn sem ég reyni að tengjast honum sem mér finnst ömurlegt. Er með lítið forrit til að halda honum vakandi en væri til í að losna við það, en er ekki hægt að fá diska sem ekki \"sofna\"?\nEr búinn að stilla í power management að HDD eigi ekki að sofna, en það er bara fyrir diska sem eru tengdir í sata greinilega.",
+            "date": "2012-08-07 22:47:00",
+            "post_id": "458998",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Farðu inn Device Manager og hægri klikkaðu á USB Root hub. Þar ætti að vera Power Management tab lengst til hægri og þar ættiru að geta hakað úr \"Allow the computer to turn off this device to save power.\"",
+            "date": "2012-08-07 22:50:00",
+            "post_id": "459000",
+            "reply_to_id": "458998"
+        },
+        {
+            "user_name": "Tiger",
+            "text": "Málið er að þessi diskur er tengdur við Apple Airport Extreme routerinn....... Ekki beint í usb port á vélinni.",
+            "date": "2012-08-07 22:54:00",
+            "post_id": "459003",
+            "reply_to_id": "459000"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Getur verið að diskurinn sjálfur sé að gera þetta? Ég hef oft verið með fleyri en einn disk í tölvunum mínum en núna er ég með 2 diska, einn SSD og einn Seagate 1TB. Ég lendi í þessu sama og þú ert að tala um með Seagate diskinn. Hann slekkur á sér eftir einhvern tíma idle og það tekur nokkrar sekúndur að komast í efni á honum eftir það.\nHefur ekki böggað mig neitt reyndar, en ég hef aldrei lent í svona með disk áður. Þar á undan hef ég alltaf verið með WD og Samsung diska.",
+            "date": "2012-08-08 07:06:00",
+            "post_id": "459047",
+            "reply_to_id": "459003"
+        },
+        {
+            "user_name": "Tiger",
+            "text": "Já það er akkurat sem ég segi í fyrri pósti, diskurinn fer í spindown. Þetta er WD Element diskur/flakkari og firmwareið í þeim er þannig að hann fer í þetta spindown, er líka með WD Passport 2,5\" og hann virðist ekki fara í spindown, verst hann er ekki nógu stór til að geta replace-að hinn. 2TB Passport er bara ekki til hérna heima því miður.",
+            "date": "2012-08-08 09:36:00",
+            "post_id": "459052",
+            "reply_to_id": "459047"
+        },
+        {
+            "user_name": "Oak",
+            "text": "http://support.wdc.com/product/download ... 17&lang=en\nAð vísu bara fyrir Windows en spurning hvort að þú getir prufað þetta...",
+            "date": "2012-08-08 11:21:00",
+            "post_id": "459076",
+            "reply_to_id": "459052"
+        },
+        {
+            "user_name": "Tiger",
+            "text": "Takk fyrir þetta, en forritið detectar ekki diskinn sem er tengdur við APE.",
+            "date": "2012-08-08 12:14:00",
+            "post_id": "459079",
+            "reply_to_id": "459076"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "þetta er stilling í power options í Windows.",
+            "date": "2012-08-09 15:01:00",
+            "post_id": "459360",
+            "reply_to_id": "459079"
+        },
+        {
+            "user_name": "kubbur",
+            "text": "Er i sömu vandræðum með usb tengdan disk a ubuntu server",
+            "date": "2012-08-09 15:05:00",
+            "post_id": "459362",
+            "reply_to_id": "459360"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Getur flashað nýtt firmware á diskinn sem tekur burt svona orkusparandi bull. Svona diskar eru óþolandi og algerlega ónothæfir í raid nema maður skipti firmwareinu út.",
+            "date": "2012-08-09 17:50:00",
+            "post_id": "459389",
+            "reply_to_id": "459362"
+        },
+        {
+            "user_name": "Halli25",
+            "text": "ertu viss?\nhttp://tl.is/vara/25776",
+            "date": "2012-08-09 18:03:00",
+            "post_id": "459393",
+            "reply_to_id": "459389"
+        }
+    ],
+    "date": "2012-08-07 22:47:00"
+}

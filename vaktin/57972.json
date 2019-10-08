@@ -1,0 +1,233 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "57972",
+    "title": "Wifi á Vodafone Vodafone Zhone Router",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=57972",
+    "posts": [
+        {
+            "user_name": "bjornvil",
+            "text": "Sælir félagar\nNú er ég að gefast upp á þessu... ég næ aldrei meira en svona 15-20mbps á Wifi hjá mér! Er á ljósleiðara frá Vodafone, næ 95-100mbps á vírinn.\nÖll tæki á heimilinu styðja 802.11n staðalinn (Lenovo T420, Macbook Pro '09, Nexus S, Nexus 4, Nexus 7) og ég er búinn að festa Routerinn á N, og ég og vodafone erum búnir að hræra í öllum mögulegum stillingum.\nÉg fékk nýjan router áðan afþví að Vodafone gæjinn gafst upp á að reyna að fá betri hraða og stakk uppá að prufa að skipta út routernum, það er alveg nákvæmlega eins, búið að hræra í stillingum á nýja router.\nHvað gæti verið málið? Þeir hjá vodafone segja að ég eigi alveg að geta fengið betri hraða en þetta...\nHvað haldið þið? Hvernig er þetta hjá ykkur?",
+            "date": "2013-11-01 21:25:00",
+            "post_id": "535987",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "bjornvil",
+            "text": "Læt þetta fylgja hér með. Var að pósta þessu í Speedtest keppnisþráðinn. Sjáið muninn sem er þarna. Þarna stóð ég við hliðina á Routernum með tölvuna.\nLjósleiðari Gagnaveitu Rvk gegnum Vodafone, Zhone Router, 7m Ethernet kapall frá router í turn.\nOg svona er Wifi-ið",
+            "date": "2013-11-01 21:35:00",
+            "post_id": "535993",
+            "reply_to_id": "535987"
+        },
+        {
+            "user_name": "appel",
+            "text": "Wifi vandamál eru oftast staðbundin. Það er annaðhvort of mikið að blokka signalið, eða það er of mikið \"noise\" í gangi þar sem þú ert, þ.e. mörg wifi net í kringum þig og tæki.",
+            "date": "2013-11-01 21:43:00",
+            "post_id": "535994",
+            "reply_to_id": "535993"
+        },
+        {
+            "user_name": "Predator",
+            "text": "Þessir routerar eru rusl. Systir mín er með svona á ljósleiðaranum og hún nær mjög svipuðum hraða og þú og hún var þá 2m frá router. Prófaði að skipta um rás á routernum og það lagaði ekkert...",
+            "date": "2013-11-01 23:44:00",
+            "post_id": "536023",
+            "reply_to_id": "535994"
+        },
+        {
+            "user_name": "appel",
+            "text": "\"2m frá router\" skiptir ekki rassgats máli ef það eru 20 nágrannar með wifi á fullu.",
+            "date": "2013-11-01 23:46:00",
+            "post_id": "536025",
+            "reply_to_id": "536023"
+        },
+        {
+            "user_name": "rattlehead",
+            "text": "var með svona router í örfáa mánuði og er 4m frá router og í tölvu og hraðinn 12-25mb með lósleiðara. Gafst upp þegar routerinn tók upp á því að endurræsa sig á hálftíma fresti. Greip tækifærið og fékk Cisco routerinn og er nú með full speed á Wi-fi.",
+            "date": "2013-11-02 05:21:00",
+            "post_id": "536050",
+            "reply_to_id": "536025"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Nærðu meiri hraða á WiFi í sömu tölvum á öðrum stöðum? Eru powersavings stillingar á WNIC adapternum? Hefuru prufað að sjá hvað WiFi analyzer segir um channels í kringum þig?",
+            "date": "2013-11-02 11:11:00",
+            "post_id": "536064",
+            "reply_to_id": "536050"
+        },
+        {
+            "user_name": "Predator",
+            "text": "En þegar maður er búinn að skipta um rás 3x og nota wifi analyzer til að finna út hver þeirra er best og það lagast ekkert þá er maður ekki sáttur.",
+            "date": "2013-11-02 12:31:00",
+            "post_id": "536070",
+            "reply_to_id": "536064"
+        },
+        {
+            "user_name": "bjornvil",
+            "text": "Sælir, já ég er búinn að keyra WIFI Analyzer á Android og skipta um rás til að vera á minna crowded rás. Enginn annar router nálægt mér á sömu rás. Ég get ekki séð að það sé neitt power saving á adapternum. Meira og minna sami hraði allstaðar, lítill munur milli tækja... nema náttúrulega dettur niður eftir því hversu langt frá Routernum ég fer.\nÉg sætti mig bara við þetta þangað til ég sé ástæðu til að kaupa mér almennilegan router...",
+            "date": "2013-11-02 20:42:00",
+            "post_id": "536112",
+            "reply_to_id": "536070"
+        },
+        {
+            "user_name": "grich",
+            "text": "Mæli með að þú takir Cisco routerinn frá vodafone, hann dýrari en vel þess virði. \nVann hjá vodafone í tæpt ár og og einmitt á þessum tíma sem þeir voru að skipta út gömlu zyxel yfir í zhone, og ég man eftir hrúgu af wifi tengdum vandamálum tengt þessum router. Prufaðu endilega nýjann router, gæti hjálpað:)",
+            "date": "2013-11-03 04:56:00",
+            "post_id": "536136",
+            "reply_to_id": "536112"
+        },
+        {
+            "user_name": "audiophile",
+            "text": "Hvaða router mælið þið með í stað Zhone routersins sem maður myndi bara kaupa sjálfur? Minn er tekinn upp á því að skíta á sig þegar ég spila BF4 einhverra hluta vegna og WIFI signalið er vægast sagt slappt.",
+            "date": "2013-11-03 08:24:00",
+            "post_id": "536138",
+            "reply_to_id": "536136"
+        },
+        {
+            "user_name": "valdij",
+            "text": "Ég var með Zhone routerinn frá Vodafone og ég hef aldrei since the beginning of internet upplifað jafn mikið sorp af router.\nNetið datt út öll kvöld og þurfti ég að byrja alla morgna á því að restarta routernum - þetta lagaðist alltaf í einhvern tíma þegar firmware'ið var update'að í honum en það entist ekki lengri. Hann crashaði líka alltaf þegar fór í sirka 85-90% notkun á netinu og Wi-fið var algjörlega skelfilegt.\nÉg ákvað að kaupa mér minn eigin router:\nhttps://www.okbeint.is/hpbeint/ui/vorur/view.do?id=X3500-EW\nGæti ekki verið ánægðari, þvílíkur munur.. Get verið í 100% notkun á tengingu án þess að hann krassi, drægni og styrkurinn á wi-fi er eins og svart og hvítt m.v. Zhone routerinn. Hann er dýr en þess virði imo",
+            "date": "2013-11-03 10:53:00",
+            "post_id": "536144",
+            "reply_to_id": "536138"
+        },
+        {
+            "user_name": "stefhauk",
+            "text": "Ég var að skipta út routernum hjá mér og fékk þennan zhone router með vír batnaði hraðinn til muna en á wifi er hann orðinn verri og þegar eg er að dl á netið það til að detta út.",
+            "date": "2013-11-03 18:03:00",
+            "post_id": "536175",
+            "reply_to_id": "536144"
+        },
+        {
+            "user_name": "tdog",
+            "text": "Mér finnst það alveg furðulegt að árið 2013 skulu menn furðast á hærri hraða yfir kapal en loftið.",
+            "date": "2013-11-03 19:26:00",
+            "post_id": "536187",
+            "reply_to_id": "536175"
+        },
+        {
+            "user_name": "GrimurD",
+            "text": "Það hefur verið mikið um firmware vandræði með þennan router eftir að hann kom. Núna eru komin firmware sem laga langflest vandamál(WiFi-ið verður nú samt ekki hraðara) og starfsmennirnir í Tækniverinu geta breytt stillingum á routernum sem laga yfirleitt vandamál með endurræsingar og þegar að netið dettur út í einhverjar mínútur án þess að hann endurræsi sig.\nVélbúnaðurinn í þessum router er mjög solid það hefur bara verið hugbúnaðurinn sem hefur verið algjört klúður. Finnst það samt ansi glatað að þeir hafi ákveðið að spara þegar það kemur að WiFi-inu þar sem lang flestir eru að tengjast netinu yfir wifi, það mætti alveg vera að ná 50-60Mbps í góðum kringumstæðum í stað þessara 30-40Mbps sem hann er að ná.\nEf þið farið inná routerinn og skoðið firmware versionið þá lítur það svona út: 1.02(VFY.1)\nb6\n - Ef þið hafið verið að lenda í vandræðum og eruð með b3 eða b6 þá mæli ég með því að þið heyrið í Vodafone og látið þá uppfæra hann. Nýjasta er b7_0904 en þau hafa verið að koma á nokkurra vikna fresti.",
+            "date": "2013-11-03 19:41:00",
+            "post_id": "536189",
+            "reply_to_id": "536187"
+        },
+        {
+            "user_name": "audiophile",
+            "text": "Ég þarf samt væntanlega ekki ADSL router með ljósleiðara? Ætti svona gripur ekki að duga mér? \nhttps://www.okbeint.is/hpbeint/ui/vorur ... d=E1200-EN\n Eða jafnvel svona gaur? \nhttps://www.okbeint.is/hpbeint/ui/vorur ... id=E900-EN",
+            "date": "2013-11-03 19:43:00",
+            "post_id": "536190",
+            "reply_to_id": "536189"
+        },
+        {
+            "user_name": "valdij",
+            "text": "Ég er með 100mb ljósleiðara hjá Vodafone - aðal málið er að þú þarft að finna router sem styður WAN. Hvorugur af þessum router sem þú linkar styður það.\nEn gott að heyra GrimurD að nýju firmware'in eiga að laga þessi vandamál, allavega sum af þeim.  Fannst líka leiðinlegt að geta ekki vera að nýta tenginguna mína að fullu án þess að routerinn crashaði alltaf.",
+            "date": "2013-11-03 19:47:00",
+            "post_id": "536192",
+            "reply_to_id": "536190"
+        },
+        {
+            "user_name": "audiophile",
+            "text": "Já þú meinar. Takk fyrir ábendinguna",
+            "date": "2013-11-03 19:52:00",
+            "post_id": "536195",
+            "reply_to_id": "536192"
+        },
+        {
+            "user_name": "GrimurD",
+            "text": "Ég myndi taka þennan hér: \nhttp://www.computer.is/vorur/2871/\n þar sem hann er með bæði 2.4ghz og 5ghz á ágætis verði. Færð því fullan hraða í gegnum wifi á honum ef tölvan styður 5ghz.\nEDIT: Tók út bull sem var ekki rétt .",
+            "date": "2013-11-03 19:58:00",
+            "post_id": "536197",
+            "reply_to_id": "536195"
+        },
+        {
+            "user_name": "hkr",
+            "text": "Pabbi var að lenda í veseni með þráðlausa netið á sínum zhone router og hann hafði samband við Vodafone.. þeir ákváðu að fara úr WPA2-PSK niður í WEP væri \"lausnin\" á vandamálinu. Var ekki lengi að breyta því til baka..",
+            "date": "2013-11-03 21:31:00",
+            "post_id": "536219",
+            "reply_to_id": "536197"
+        },
+        {
+            "user_name": "einarth",
+            "text": "Þetta er ekki alveg rétt. Allir ethernet routerar ganga á Ljósleiðaranum. \nÞó að það sé ekki talað sérstaklega um \"WAN\" port þá eru ethernet routerar með 1 port sem er notað fyrir \"WAN\" og önnur sem eru notuð fyrir \"LAN\"..\nBáðir þessir routerar sem audiophile linkar í virka því fínt á Ljósleiðaranum.\nKv, Einar.",
+            "date": "2013-11-03 21:44:00",
+            "post_id": "536223",
+            "reply_to_id": "536219"
+        },
+        {
+            "user_name": "valdij",
+            "text": "TIL - Þetta voru upplýsingar sem ég fékk beint frá tækniveri Vodafone þegar ég var að spyrjast fyrir um hvað ég þyrfti að passa ef ég ætlaði að kaupa minn eigin router. Ég linkaði einmitt öðrum af þeim sem Audiophile póstaði til Vodafone og fékk þau svör beint frá þeim að hann myndi ekki virka útaf það væri ekki WAN.\nEn þetta eru auðvitað bara góðar fréttir þar sem þessir routerer sem Audiophile linkaði eru töluvert ódýrari.",
+            "date": "2013-11-03 21:53:00",
+            "post_id": "536224",
+            "reply_to_id": "536223"
+        },
+        {
+            "user_name": "GrimurD",
+            "text": "Ef að vandamálið er að tengjast við þráðlausanetið þá virkar það mjög oft að breyta í WEP. Hinsvegar ef hraðinn eða endurræsingar eru vandamálið þá... well...",
+            "date": "2013-11-04 02:04:00",
+            "post_id": "536252",
+            "reply_to_id": "536224"
+        },
+        {
+            "user_name": "audiophile",
+            "text": "Hey takk fyrir þetta! Held é skelli mér bara á einn af þessum ódýrari. Þarf bara eitthvað stabílt.",
+            "date": "2013-11-04 20:47:00",
+            "post_id": "536338",
+            "reply_to_id": "536252"
+        },
+        {
+            "user_name": "bjornvil",
+            "text": "Ykkur til upplýsinga drengir þá keypti ég notaðan Cisco Linksys E1200 hérna á vaktinni og gæti ekki verið sáttari við breytinguna!\nMiklu langdrægara WIFI, og MIKLU hraðara! Fékk aldrei meira en ca. 10-20mb/s á fartölvuna... fæ núna um 60 mb/s á fartölvuna \nGet ekki mælt nógu mikið með því að skipta út þessum Zhone drasl router.",
+            "date": "2013-12-11 11:03:00",
+            "post_id": "541841",
+            "reply_to_id": "536338"
+        },
+        {
+            "user_name": "Hannesinn",
+            "text": "Þráðlausa netið á Zhone routernum frá Vodafone er default stillt á 18mbit í stað 54mbit, og drægnin er þá meiri fyrir vikið.  Ég man ekki hvar þetta er stillt, en leitið og þér munið finna.\nÉg endaði samt á að slökkva á honum og kaupa mér Trendnet router í Tölvutek.  Það er í það minnsta hægt að læsa ip á mac-addressur á honum, sem er meira en sagt verður um Zhone græjuna.",
+            "date": "2013-12-11 11:27:00",
+            "post_id": "541842",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "bjornvil",
+            "text": "Trúðu mér... það var búið að hræra í öllum mögulegum stillingum á Zhone routernum, bæði ég og nokkrir frá Vodafone. Skipti líka routernum einusinni út. Fékk aldrei almennilegan hraða á hann...",
+            "date": "2013-12-11 12:11:00",
+            "post_id": "541849",
+            "reply_to_id": "541842"
+        },
+        {
+            "user_name": "GrimurD",
+            "text": "Nei það er ekki rétt, hann er stilltur default á WiFi N 144Mbps, þótt að speccið segi það þá þýðir það hinsvegar ekki að ein tölva nái þeim hraða.\nÞað sem er stillt á 18 Mbps er multicast rate sem er allt annar hlutur.\nÚtskýring af \nhttp://appzdev.com/mac-iphone-blog/2011 ... my-router/\nÞetta virkar ekki samt jafn einfaldlega in practice, en þú skilur vonandi hvað ég meina..",
+            "date": "2013-12-11 12:36:00",
+            "post_id": "541854",
+            "reply_to_id": "541849"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Athyglisvert, routerinn sem ég er með býður uppá Low - Medium - High\nDefault er hann stilltur á Low.\nGræði ég eitthvað á því að stilla á Medium eða High?",
+            "date": "2013-12-11 12:57:00",
+            "post_id": "541855",
+            "reply_to_id": "541854"
+        },
+        {
+            "user_name": "Hannesinn",
+            "text": "Já, ok, þá er ég að ruglast eitthvað.  Ég gafst allavega fljótlega upp og keypti mér aðra græju.  Borgar sig upp á rétt rúmlega 2 árum.",
+            "date": "2013-12-11 17:15:00",
+            "post_id": "541888",
+            "reply_to_id": "541855"
+        },
+        {
+            "user_name": "GrimurD",
+            "text": "High þýðir væntanlega hærri tala sem myndi þýða minna range, en mögulea aðeins betri upplifun undir vissum kringumstæðum(t.d. streymi á myndum og þannig lagað) á WiFi. Er yfirleitt stillt low svo tæki sem eru langt í burtu geti tengst by default.\nÉg hef fiktað með þessar stillingar og aldrei séð neinn mun, skora ekkert hærra í hraðaprófum eða neitt þannig lagað.",
+            "date": "2013-12-16 21:45:00",
+            "post_id": "542668",
+            "reply_to_id": "541888"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Munið bara að vera með stillt á WPA2-PSK annars náðiði aldrei meiri hraða en 54Mbps.",
+            "date": "2013-12-16 23:48:00",
+            "post_id": "542706",
+            "reply_to_id": "542668"
+        }
+    ],
+    "date": "2013-12-11 11:27:00"
+}

@@ -1,0 +1,128 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "62846",
+    "title": "Android TV / Nexus Player",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=62846",
+    "posts": [
+        {
+            "user_name": "AntiTrust",
+            "text": "Google mun tilkynna fyrsta Android TV tækið í dag, Nexus Player, sjá betur í frétt frá The Verge \nhér\n. Tækið verður til að byrja með eingöngu aðgengilegt í gegnum Google Play store og mun kosta $99. Tækið er framleitt af Google og Asus, svo maður getur gert ráð fyrir ákveðnum standördum.\nBasic specs: \n8GB Internal\n1.8Ghz Quad Intel Atom\nImagination PowerVR S6 3D vél\nBluetooth 4.1\nMicroUSB\nHDMI \nWiFI 802.11\nAC\n (2x2 MIMO)\n235Gr\n120mmx120mmx20mm\nFjarstýringin er 40Gr (37mmx140mmx16mm)\nPersónulega spái ég því að þetta verði King of Streaming boxes, amk þar til AppleTV4 kemur og þá munu þessu tvö tæki battla um markaðinn. Tækið getur hegðað sér eins og Chromecast og því mun það líklega tala við flest platforms/apps sem styðja Cast. \nViðmótið er ótrúlega flott á AndroidTV, ekki ósvipað FireTV nema bara meira hlutlaust, amk. það sem ég hef séð af screenshots. Svo er bara að bíða og sjá hvort og hvaða apps munu styðja við DTS/DD passthrough.",
+            "date": "2014-10-16 08:15:00",
+            "post_id": "577195",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "kjarrig",
+            "text": "Ekkert LAN?",
+            "date": "2014-10-16 08:47:00",
+            "post_id": "577200",
+            "reply_to_id": "577195"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Svo best sem ég sé, nei. Hef ekki séð neina mynd af tengjunum aftaná né minnst á það í specs. 802.11AC er svosem meira en nóg fyrir hvaða 4K efni sem er, en AC drífur ekki endalaust frekar en annað. Ég er þó frekar bjartsýnn þar sem að Chromecastið virkar ágætlega á 2.4Ghz.",
+            "date": "2014-10-16 09:01:00",
+            "post_id": "577203",
+            "reply_to_id": "577200"
+        },
+        {
+            "user_name": "hfwf",
+            "text": "Pros/Cons: þarft ekki  tölvu eða síma til að spila efni eins og með chromecast /  meh.",
+            "date": "2014-10-16 09:24:00",
+            "post_id": "577211",
+            "reply_to_id": "577203"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Eflaust hægt að tengja usb -> ethernet í þetta",
+            "date": "2014-10-16 10:28:00",
+            "post_id": "577215",
+            "reply_to_id": "577211"
+        },
+        {
+            "user_name": "machinefart",
+            "text": "chromecast er svo svakalega lélegt að ég hef enga trú á þessu.\nEkki einu sinni hægt að breyta dns í chromecast.",
+            "date": "2014-10-16 10:29:00",
+            "post_id": "577217",
+            "reply_to_id": "577215"
+        },
+        {
+            "user_name": "hfwf",
+            "text": "Ekki beint breyting, en úubbbss:\nIt's not possible to configure DNS servers on the Chromecast directly, so this needs to be done on your router. Chromecast is hard-coded to use Google's DNS servers. The good news is if you block access to Google's DNS, it falls back to the DNS servers configured on your router (ours!).",
+            "date": "2014-10-16 10:38:00",
+            "post_id": "577219",
+            "reply_to_id": "577217"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ég er augljóslega á annarri skoðun. Er með Chromecast í hverju TV/herbergi heima, tær snilld. Jú það er bras að láta tækið tala við Netflix en það er hægt. Eina sem þú þarft til að CCið virki vel er gott WiFi.\nÞetta tæki á ekkert skylt við Chromecast nema hvað að það verður hægt að casta á það líka. Settings í AndroidTVinu er hinsvegar basicly það sömu og í FireTV svo það verður alveg örugglega hægt að stilla DNS í því.\nEins og staðan er í dag er amk ekkert streaming box sem toppar þetta tæki hvað varðar interface eða hardware, svo eiga önnur fyrirtæki sem voru í GoogleTV tækjunum á sínum tíma örugglega eftir að gefa út AndroidTV tæki núna.",
+            "date": "2014-10-16 11:08:00",
+            "post_id": "577222",
+            "reply_to_id": "577219"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Talandi um Netflix... \nhttp://nutiminn.is/netflix-vinnur-ad-opnun-islandi/",
+            "date": "2014-10-16 12:31:00",
+            "post_id": "577235",
+            "reply_to_id": "577222"
+        },
+        {
+            "user_name": "rattlehead",
+            "text": "Var að renna yfir tækið og þetta lítur vel út enn eina sem ég set spurningamerki yfir er \"Internet connectivity (Wi-Fi only)\"",
+            "date": "2014-10-16 13:42:00",
+            "post_id": "577248",
+            "reply_to_id": "577235"
+        },
+        {
+            "user_name": "BugsyB",
+            "text": "þetta er komið me4ð ac wifi og þá er bara vera með ac WAP eða router og þá ætti þetta að vera í lagi - það er meiri bandvídd en þessi 100mb ethernet port sem eru á sambærilegum tækjum",
+            "date": "2014-10-20 11:33:00",
+            "post_id": "577629",
+            "reply_to_id": "577248"
+        },
+        {
+            "user_name": "B0b4F3tt",
+            "text": "Það hljómar allt vel ef þú ert nálægt þráðlausa punktinum. En ef þú ert kominn eitthvað lengra frá punktinum eða einhver önnur tæki sem trufla þá hættir þetta að vera skemmtilegt. Mér finnst persónulega best að víra allt hjá mér sem ég get. Þess vegna finnst mér vera algjört möst að hafa ethernet port á svona media playerum.\nKv. Elvar",
+            "date": "2014-10-20 14:39:00",
+            "post_id": "577664",
+            "reply_to_id": "577629"
+        },
+        {
+            "user_name": "BugsyB",
+            "text": "þar er ég nú allveg sammála en þá er það á þína ábyrgð að vera með gott wifi og það er fátt sem er að trufla 5ghz annað en það að það drýfur illa í gegnum steinveggi",
+            "date": "2014-10-20 18:19:00",
+            "post_id": "577694",
+            "reply_to_id": "577664"
+        },
+        {
+            "user_name": "nidur",
+            "text": "geðveikt flott tæki.",
+            "date": "2014-10-20 18:45:00",
+            "post_id": "577697",
+            "reply_to_id": "577694"
+        },
+        {
+            "user_name": "fallen",
+            "text": "24p support?",
+            "date": "2014-10-27 05:02:00",
+            "post_id": "578295",
+            "reply_to_id": "577697"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ekki svo ég viti til, þetta yrði amk fyrsta sub $100 streaming boxið til að vera það.",
+            "date": "2014-10-27 09:52:00",
+            "post_id": "578300",
+            "reply_to_id": "578295"
+        },
+        {
+            "user_name": "roadwarrior",
+            "text": "Langar að forvitnast. Eru einhverjir komnir með Nexus Player og ef svo hvernig er hann að koma út",
+            "date": "2015-01-15 23:46:00",
+            "post_id": "587342",
+            "reply_to_id": "578300"
+        }
+    ],
+    "date": "2014-10-16 08:15:00"
+}

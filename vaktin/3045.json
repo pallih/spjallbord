@@ -1,0 +1,163 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "3045",
+    "title": "Byrjandi",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=3045",
+    "posts": [
+        {
+            "user_name": "Drizzt",
+            "text": "Nú langar mig til að prófa að setja upp linux á vélina mína og þar sem ég er óttalegur græningi í þessu langar mig að setja fram tvær spurningar hérna  \n\n\n\n\nHvaða útgáfu er bezt að nota svona þegar maður er að byrja?\n\nEr ekkert vandamál að tengja saman linux og win vél (gamla fólkið að komast á netið heima  \n )",
+            "date": "2004-02-04 12:07:00",
+            "post_id": "30795",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Drizzt",
+            "text": "bara komast uppúr þessum fiktara status",
+            "date": "2004-02-04 12:07:00",
+            "post_id": "30796",
+            "reply_to_id": "30795"
+        },
+        {
+            "user_name": "Gothiatek",
+            "text": "Sennilega Red Hat eða Mandrake, þar sem Red Hat verður \nekki lengur ókeypis\n er Mandrake sennilega mjög fýsilegur kostur.  Þetta er með tillitil til uppsetningar.\n\n\nEkkert mál er náttúrulega afstætt hugtak í þessum business, en svarið er sennilega \"jú, ekkert mál\".  Þetta fer svo náttúrulega allt eftir búnaði og þörfum hversu mikið mál þetta er",
+            "date": "2004-02-04 12:20:00",
+            "post_id": "30799",
+            "reply_to_id": "30796"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "ftp://ftp.rhnet.is/pub/fedora/1/i386/iso/\n\n\n\n\nHeld þetta sé málið í dag fyrir nýgræðlinga. En ef þú vilt vera virkilega flottur á því þá ferðu bara beint í gentoo",
+            "date": "2004-02-04 12:56:00",
+            "post_id": "30802",
+            "reply_to_id": "30799"
+        },
+        {
+            "user_name": "Drizzt",
+            "text": "ftp://ftp.rhnet.is/pub/gentoo/\n < which one?",
+            "date": "2004-02-04 13:23:00",
+            "post_id": "30808",
+            "reply_to_id": "30802"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "ftp://ftp.rhnet.is/pub/gentoo/releases/x86/1.4/livecd/basic/x86-basic-1.4-20030911.iso\n\n\n\n\nOg \nhttp://www.gentoo.org/doc/en/handbook/handbook.xml\n þetta skaltu lesa \n\n\n\n\nAth, mikil vinna en ef þú telur þig hafa mátt og tíma í þetta go ahead!",
+            "date": "2004-02-04 13:33:00",
+            "post_id": "30812",
+            "reply_to_id": "30808"
+        },
+        {
+            "user_name": "Drizzt",
+            "text": "Ég er í grunnskóla.. nægann tíma",
+            "date": "2004-02-04 13:42:00",
+            "post_id": "30814",
+            "reply_to_id": "30812"
+        },
+        {
+            "user_name": "Drizzt",
+            "text": "hvaða file system notar þetta? ef ég formatta með xp disk",
+            "date": "2004-02-04 17:27:00",
+            "post_id": "30851",
+            "reply_to_id": "30814"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "myndi setja ext2 eða ext3",
+            "date": "2004-02-04 17:29:00",
+            "post_id": "30852",
+            "reply_to_id": "30851"
+        },
+        {
+            "user_name": "Gothiatek",
+            "text": "Ehemm, þú formattar ekki með xp disk heldur notar Linux uppsetningardiskinn til þess.\n\nEf þú ætlar þér að byrja á Gentoo, þá \nverður\n þú að lesa leiðbeiningarnar vel.  Það er að sjálfsögðu velkomið að spyrja hér, en það er líka nauðsynlegt að lesa leiðbeiningarnar og reyna að skilja eitthvað sjálfur.\n\n\n\nSjálfur nota ég ext3 filesystemið!!",
+            "date": "2004-02-04 17:33:00",
+            "post_id": "30854",
+            "reply_to_id": "30852"
+        },
+        {
+            "user_name": "Drizzt",
+            "text": "ég er búinn að að prenta út leiðbeingarnar og lesa þær en finn hvergi þar hvernig ég formatta",
+            "date": "2004-02-04 17:36:00",
+            "post_id": "30855",
+            "reply_to_id": "30854"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "no offence, en byrjaðu bara á Fedora, held að flestir byrji þar",
+            "date": "2004-02-04 18:22:00",
+            "post_id": "30866",
+            "reply_to_id": "30855"
+        },
+        {
+            "user_name": "ICM",
+            "text": "nei mezzup þú sendir hann ekki á fedora dauðans, allt nema það.",
+            "date": "2004-02-04 18:53:00",
+            "post_id": "30873",
+            "reply_to_id": "30866"
+        },
+        {
+            "user_name": "Gothiatek",
+            "text": "Prófaðu Mandrake, ég prófaði það einu sinni og það virkaði fínt....auðvelt í uppsetningu....",
+            "date": "2004-02-04 19:04:00",
+            "post_id": "30879",
+            "reply_to_id": "30873"
+        },
+        {
+            "user_name": "Drizzt",
+            "text": "held að ég geri það bara  \n  takk strákar",
+            "date": "2004-02-04 19:07:00",
+            "post_id": "30880",
+            "reply_to_id": "30879"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Það stendur hvernig eigi að formata í: \n6. Filesystems, partitions and block devices",
+            "date": "2004-02-04 21:14:00",
+            "post_id": "30908",
+            "reply_to_id": "30880"
+        },
+        {
+            "user_name": "halanegri",
+            "text": "Kóði: \nVelja allt\n/join #gentoo.is",
+            "date": "2004-02-04 21:29:00",
+            "post_id": "30916",
+            "reply_to_id": "30908"
+        },
+        {
+            "user_name": "KinD^",
+            "text": "slackware 9.0 eða 9.1 \n hrátt stýrikerfi sem er skemmtilegt að leika sér með \n hehe",
+            "date": "2004-02-05 08:16:00",
+            "post_id": "31003",
+            "reply_to_id": "30916"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "nei auðvitað ekki, fyrst að það gekk ekki hjá þér, þá er nú ólíklegt að það gangi hjá honum",
+            "date": "2004-02-05 13:31:00",
+            "post_id": "31016",
+            "reply_to_id": "31003"
+        },
+        {
+            "user_name": "ICM",
+            "text": "mezzup nei það var bara OMFG á 2 vélum, síðan eru margir sem hafa lent í því sama með það. Mandrake 9.2 var mikið betra en það.",
+            "date": "2004-02-05 16:34:00",
+            "post_id": "31040",
+            "reply_to_id": "31016"
+        },
+        {
+            "user_name": "Icarus",
+            "text": "redhat, mandrake og þau kerfi eru einföld en maður lærir ekkert á þeim. Mæli með Slackware eða Gentoo, ef þú hefur þolinmæði í að lesa smá manual þá gengur þetta allt voða vel og þú lærir margt skemmtilegt í leiðinni. Síðan er emerge skipunin svo skemmtileg.",
+            "date": "2004-02-17 11:34:00",
+            "post_id": "32417",
+            "reply_to_id": "31040"
+        },
+        {
+            "user_name": "Zaphod",
+            "text": "Mæli eindregið með Mandrake fyrir byrjendur .",
+            "date": "2004-02-17 21:19:00",
+            "post_id": "32491",
+            "reply_to_id": "32417"
+        }
+    ],
+    "date": "2004-02-04 12:07:00"
+}

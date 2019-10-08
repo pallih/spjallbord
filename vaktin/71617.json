@@ -1,0 +1,219 @@
+{
+    "forum_title": "Koníakstofan",
+    "id": "71617",
+    "title": "CPU speed of látt?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=9&t=71617",
+    "posts": [
+        {
+            "user_name": "Tonikallinn",
+            "text": "Er það eðlilegt að CPU speed í Task Manager er 0.76GHz? (bæði í leikjum og í idle) Bæði eru leikir með látt fps og tölvan sjálf bara hæg. Þegar að Speed er í 4GHz er tölvan eðlileg, ekkert hæg og leikir spila vel. Það sem mig langar að vita er af hverju CPU speed er svona lágt",
+            "date": "2016-12-22 21:02:00",
+            "post_id": "639680",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "worghal",
+            "text": "Intel örgjörfar klukka sig niður þegar það er ekki verið að gera neitt heavy. Það er hægt að stilla þetta af í bios",
+            "date": "2016-12-22 21:04:00",
+            "post_id": "639681",
+            "reply_to_id": "639680"
+        },
+        {
+            "user_name": "Tonikallinn",
+            "text": "Vandamálið er að þetta virðist vera fast í þessu, það er það sem er að hæga á tölvunni og gera leiki óspilanlega :/",
+            "date": "2016-12-22 21:06:00",
+            "post_id": "639682",
+            "reply_to_id": "639681"
+        },
+        {
+            "user_name": "svanur08",
+            "text": "Hvað fer CPU load í mikið í leikjum hjá þér? Þú veist þetta er Quad core og leikir stiðja ekki quad core þannig 50-60% er alveg eðlilegt.",
+            "date": "2016-12-22 21:21:00",
+            "post_id": "639683",
+            "reply_to_id": "639682"
+        },
+        {
+            "user_name": "Tonikallinn",
+            "text": "Leikir fara nefnilega ekkert yfir 15%. Það er eins og eitthvað sé að halda örgjörfanum aftur, leyfir honum ekki að gera sitt",
+            "date": "2016-12-22 21:22:00",
+            "post_id": "639684",
+            "reply_to_id": "639683"
+        },
+        {
+            "user_name": "svanur08",
+            "text": "Já tók eftir því hjá þér á öðrum þræði. Þetta er alls ekki eðlilegt. Búinn að prufa setja nýtt kælikrem og athuga hvort kælingin sé 100% föst á örranum?",
+            "date": "2016-12-22 21:24:00",
+            "post_id": "639685",
+            "reply_to_id": "639684"
+        },
+        {
+            "user_name": "Tonikallinn",
+            "text": "Sé í speccy að þetta er bara í kringum 30°. Og er það eitthvað sem getur fuckast upp á 5 mánuðum?",
+            "date": "2016-12-22 21:26:00",
+            "post_id": "639686",
+            "reply_to_id": "639685"
+        },
+        {
+            "user_name": "Tonikallinn",
+            "text": "CPU í lagi:   Er með slétt 60fps, engin dropp\nCPU EKKI í lagi: Er með kringum 40fps ef ég er heppinn, droppar niður í kringum 12",
+            "date": "2016-12-22 21:49:00",
+            "post_id": "639688",
+            "reply_to_id": "639686"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "Cpu spídinn er pottþétt of látt !",
+            "date": "2016-12-22 23:41:00",
+            "post_id": "639702",
+            "reply_to_id": "639688"
+        },
+        {
+            "user_name": "Tonikallinn",
+            "text": "OMG, fólk er búið að segja við mig að þetta sé eðlilegt.... CPU Speed er búið að vera fast í 3.97GHz síðasta klukkutíma svo ég hef getað spilað Fallout",
+            "date": "2016-12-22 23:49:00",
+            "post_id": "639703",
+            "reply_to_id": "639702"
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "Hér er einn að lenda í svipuðu, virðist virða að disable-a Intel Adaptive Thermal Monitor í bíos. Gætir jafnvel prófað að resetta bios-inn ef þetta virkar ekki.\nhttps://forum-en.msi.com/index.php?topic=261167.0",
+            "date": "2016-12-23 00:57:00",
+            "post_id": "639711",
+            "reply_to_id": "639703"
+        },
+        {
+            "user_name": "Tonikallinn",
+            "text": "Ég GÆTI hafa lagað vandamálið mitt (verð að segja að ég er ekki alveg viss hvernig). En núna virðist CPU Speed vera fast í 3.97GHz, og ég ætla að gíska að það sé ekki gott fyrir örrann...... en þetta er skárra heldur en að geta ekki notað tölvuna almennilega",
+            "date": "2016-12-23 01:06:00",
+            "post_id": "639714",
+            "reply_to_id": "639711"
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "Örgjörvanum er alveg sama, hann er framleiddur til þess að keyra á 4Ghz.",
+            "date": "2016-12-23 01:10:00",
+            "post_id": "639716",
+            "reply_to_id": "639714"
+        },
+        {
+            "user_name": "Tonikallinn",
+            "text": "Já, en hann á að undirklukka sig þegar að hann þarf ekki að runna í 4 GHz. Er það ekki annars? Svo hann lifir aðeins lengur?\nSvolítið ironic samt að vandamálið mitt er AF ÞVÍ að hann undirklukkar sér, bæði gerir hann það of mikið í leikjum og bara idle virðist vera",
+            "date": "2016-12-23 01:18:00",
+            "post_id": "639719",
+            "reply_to_id": "639716"
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "Jú, mögulega dugir hann þá bara í 999 ár í staðinn fyrir 1000 ár.",
+            "date": "2016-12-23 01:25:00",
+            "post_id": "639724",
+            "reply_to_id": "639719"
+        },
+        {
+            "user_name": "Tonikallinn",
+            "text": "Heyrðu, ég þakka þér og öllum öðrum sem hafa svarað bæði á þennan og hina þræðina mína í sambandi við þetta! Vona bara að þetta komi ekki fyrir aftur......",
+            "date": "2016-12-23 01:48:00",
+            "post_id": "639732",
+            "reply_to_id": "639724"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "Var bara stríða þér smá.",
+            "date": "2016-12-23 08:14:00",
+            "post_id": "639742",
+            "reply_to_id": "639732"
+        },
+        {
+            "user_name": "Tonikallinn",
+            "text": "Please, veit algjörlega ekkert um þetta. Það er ekki eðlilegt að örgjörvinn er í 0.76GHz þegar að hann á að vera í þyngri vinnslu? Tölvan sjálf var meira að segja hæg",
+            "date": "2016-12-23 13:31:00",
+            "post_id": "639747",
+            "reply_to_id": "639742"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "Ertu búinn að skoða cpu utilization í power settings sem er oft útí horni í windows á fartölvum? Búinn að resetta cmos á móðurborðinu? Og eitt svona far stretched en ertu með sæmilegan PSU?",
+            "date": "2016-12-23 14:52:00",
+            "post_id": "639748",
+            "reply_to_id": "639747"
+        },
+        {
+            "user_name": "Tonikallinn",
+            "text": "Ég er búinn að laga þetta með því að festa örrann í 4GHz",
+            "date": "2016-12-23 14:54:00",
+            "post_id": "639749",
+            "reply_to_id": "639748"
+        },
+        {
+            "user_name": "Tonikallinn",
+            "text": "Og þú ættir að geta séð specs fyrir neðan það sem ég skrifa.....",
+            "date": "2016-12-23 14:55:00",
+            "post_id": "639750",
+            "reply_to_id": "639749"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "Eitthvað vesen með auto throttle hjá þér ,að festa hann í 4ghz er óþarfa sóun á power.",
+            "date": "2016-12-23 15:00:00",
+            "post_id": "639751",
+            "reply_to_id": "639750"
+        },
+        {
+            "user_name": "Tonikallinn",
+            "text": "Það er annaðhvort það eða að geta varla browsað internetið....",
+            "date": "2016-12-23 15:04:00",
+            "post_id": "639752",
+            "reply_to_id": "639751"
+        },
+        {
+            "user_name": "I-JohnMatrix-I",
+            "text": "Ertu búinn að prófa að strauja stýrikerfisdiskinn hjá þér? Það leysir yfirleitt flest svona vandamál, lang best að strauja bara og losna við allar leyfar af gömlum driverum og rusli.",
+            "date": "2016-12-23 15:06:00",
+            "post_id": "639753",
+            "reply_to_id": "639752"
+        },
+        {
+            "user_name": "Tonikallinn",
+            "text": "Format semsagt? Það er það fysta sem ég prufaði",
+            "date": "2016-12-23 15:07:00",
+            "post_id": "639754",
+            "reply_to_id": "639753"
+        },
+        {
+            "user_name": "I-JohnMatrix-I",
+            "text": "Já ok, ég tók eitt snöggt gúgl og rakst á þetta.\nEr nokkuð einhver svona takki á móðurborðinu hjá þér sem þú gætir hafa rekist í ?",
+            "date": "2016-12-23 15:34:00",
+            "post_id": "639755",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Tonikallinn",
+            "text": "Gerðist þetta hjá honum við nýja tölvu? Mín var um 4 mánaða þegar að þetta kom fyrst. Og auðvitað lagaðist þetta bara að sjálfum sér degi fyrir viðgerð svo það var ekkert sem þeir gátu gert, og svo nú mánuði seinna kom þetta aftur.... en eins og ég sagði, ég læsti bara örrann í 4GHz og það virðist hafa lagað þetta",
+            "date": "2016-12-23 15:38:00",
+            "post_id": "639756",
+            "reply_to_id": "639755"
+        },
+        {
+            "user_name": "Tonikallinn",
+            "text": "Og samkvæmt myndum er ''Slow Switch'' hjá mér í Default (litla switchið er vinstra meginn)",
+            "date": "2016-12-23 15:43:00",
+            "post_id": "639757",
+            "reply_to_id": "639756"
+        },
+        {
+            "user_name": "Tonikallinn",
+            "text": "*Sigh* Jæja..... nú hefur vandamá risið enn og aftur. Ég get staðfest að það lýri út fyrir að Overwatch sé að valda þessu. Gat spila Fallout 4 bara fínt í gær, alveg 3 tíma. Spila Overwatch í minna en korter og þetta gerist aftur. Speed fast í 0.76GHz.  Þetta hefur gerst öll hin skiptin líka meðan ég er að spila Overwatch. Ég náði því miður ekki að kíkja á hitana.\nVar að kíkja aftur í task manager og þetta er í 4 núna, ætla að have speccy opið núna",
+            "date": "2016-12-23 20:16:00",
+            "post_id": "639773",
+            "reply_to_id": "639757"
+        },
+        {
+            "user_name": "Tonikallinn",
+            "text": "Og svo er það þetta, formattaði í gær",
+            "date": "2016-12-23 21:49:00",
+            "post_id": "639780",
+            "reply_to_id": "639773"
+        }
+    ],
+    "date": "2016-12-23 15:34:00"
+}

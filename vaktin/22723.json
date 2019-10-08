@@ -1,0 +1,191 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "22723",
+    "title": "320 gb að 814,4 mb:S",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=22723",
+    "posts": [
+        {
+            "user_name": "tomas52",
+            "text": "kvöldið..\nég var að setja linux ubuntu 7.10 á eikkera drasl vél  \nEN  ég tók 320 gb harðan disk úr e-h flakkaraboxi og skellti í vélina svo ætlaði ég að klára uppsettninguna en það tókst ekki því tölvan las diskinn sem 814,4 mb og stýrikerfið er eitthvað meira en það..\nhvað get ég gert?\nég kann ekki neitt á linux svo öll hjálp væri vel þegin\nþarf ég kannski bara að formatta diskinn:S  og hvar geri ég það þá \nthank you",
+            "date": "2009-04-17 23:11:00",
+            "post_id": "204131",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "coldcut",
+            "text": "eru ekki bara 814,4 mb laus á disknum eða?\nannars formattarðu hann bara í uppsetningarferlinu \ngetur líka notað gparted LiveCD sem ég nota alltaf þegar ég er eitthvað að fikta í partitionum og að formatta diska.  Það er algjör snilld sko :p\nen af hverju seturðu ekki upp nýjasta Ubuntu bara?",
+            "date": "2009-04-17 23:52:00",
+            "post_id": "204135",
+            "reply_to_id": "204131"
+        },
+        {
+            "user_name": "bridde",
+            "text": "Uppfæra Bios til að hann þekki stærðina?",
+            "date": "2009-04-17 23:53:00",
+            "post_id": "204136",
+            "reply_to_id": "204135"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "að uppfæra BIOS væri, að mínu viti, last resort. Fyrst prófar maður allt annað!",
+            "date": "2009-04-17 23:57:00",
+            "post_id": "204137",
+            "reply_to_id": "204136"
+        },
+        {
+            "user_name": "tomas52",
+            "text": "nei það eru  651,1 mb used  og 160,3 mb free  total capacity: 814,4 mb\ngeturu útskýrt betur \n   :  annars formattarðu hann bara í uppsetningarferlinu \ngetur líka notað gparted LiveCD sem ég nota alltaf þegar ég er eitthvað að fikta í partitionum og að formatta diska.  Það er algjör snilld sko :p\nog ég var að reyna setja 8,10 á hana en diskurinn virkaði ekki  skrifaði af netinu....",
+            "date": "2009-04-18 00:42:00",
+            "post_id": "204143",
+            "reply_to_id": "204137"
+        },
+        {
+            "user_name": "viddi",
+            "text": "Skrifaðiru hann á lægsta mögulega hraða ? ef ekki prófaðu það",
+            "date": "2009-04-18 10:10:00",
+            "post_id": "204151",
+            "reply_to_id": "204143"
+        },
+        {
+            "user_name": "tomas52",
+            "text": "okibb  hvaða forrit ert þú að nota til að skrifa?",
+            "date": "2009-04-18 12:06:00",
+            "post_id": "204161",
+            "reply_to_id": "204151"
+        },
+        {
+            "user_name": "tomas52",
+            "text": "sorry með double-post\nen er ekki bara hægt að skella iso filenum (ubuntu 8.10)\ná USB lykil:D  og skella því upp þannig...?",
+            "date": "2009-04-18 14:09:00",
+            "post_id": "204174",
+            "reply_to_id": "204161"
+        },
+        {
+            "user_name": "mind",
+            "text": "Getur prufað\nhttp://www.ubuntugeek.com/how-to-instal ... stick.html",
+            "date": "2009-04-18 15:36:00",
+            "post_id": "204183",
+            "reply_to_id": "204174"
+        },
+        {
+            "user_name": "tomas52",
+            "text": "ég reyndi en ég fékk ekkert vit í það\nen hvaða brennara forrit á ég að nota til að brenna ubuntu á disk? og má það ekki alveg vera dvd-R diskur..?",
+            "date": "2009-04-18 16:27:00",
+            "post_id": "204185",
+            "reply_to_id": "204183"
+        },
+        {
+            "user_name": "mind",
+            "text": "[quote=\"tomas52\"][quote=\"mind\"]Getur prufað\nhttp://www.ubuntugeek.com/how-to-instal ... stick.html\n[/quote]\nég reyndi en ég fékk ekkert vit í það\nen hvaða brennara forrit á ég að nota til að brenna ubuntu á disk? og má það ekki alveg vera dvd-R diskur..?[/quote]\nSkiptir ekki máli hvaða brennara forrit þú notar, Easy CD/DVD Creator, Nero o.s.f. en á hversu miklum hraða þú skrifar getur haft áhrif á hvort tekst að skrifa diskinn alminnilega, sérstaklega diska sem maður ætlar að ræsa tölvu upp með, ég fer sjaldan yfir x4-x16 í skrifhraða á OS diskum.\nTil að einfalda hlutina þá NEI [u]ekki[/u] DVD disk, eingöngu CD! \n(það er hægt á DVD en víst þú gafst uppá USB leiðbeiningunum þá er CD lang fljótlegast)\nSvo kemurðu til með að þurfa nota ubuntu wiki og ubuntu forums til að svara flóði af spurningum þegar þú ert kominn með þetta upp, en það er seinni tima vandamál.",
+            "date": "2009-04-18 17:49:00",
+            "post_id": "204191",
+            "reply_to_id": "204185"
+        },
+        {
+            "user_name": "tomas52",
+            "text": "herðu þakka þér fyrir hjálpina ég er komin með ubuntu 8.10 í tölvuna en samt les hún diskinn sem einhver mb:/",
+            "date": "2009-04-18 18:09:00",
+            "post_id": "204193",
+            "reply_to_id": "204191"
+        },
+        {
+            "user_name": "viddi",
+            "text": "opnaðu terminal og skrifaðu\nKóði: \nVelja allt\nfdisk /dev/sda\np (enter)\nog póstaðu útkomuni",
+            "date": "2009-04-18 21:59:00",
+            "post_id": "204221",
+            "reply_to_id": "204193"
+        },
+        {
+            "user_name": "tomas52",
+            "text": "oki gerði það og það kom\nunable to open /dev/sda\nsíðan sagði hún p \nog þá kom  bash: p: command not found\nen þetta er ide diskur ef það kemur málinu eikka við",
+            "date": "2009-04-18 22:16:00",
+            "post_id": "204225",
+            "reply_to_id": "204221"
+        },
+        {
+            "user_name": "viddi",
+            "text": "ef þetta er ide diskur þá gerirðu hda í stað sda",
+            "date": "2009-04-18 22:47:00",
+            "post_id": "204228",
+            "reply_to_id": "204225"
+        },
+        {
+            "user_name": "tomas52",
+            "text": "kom aftur  unable to open /dev/hda",
+            "date": "2009-04-19 00:48:00",
+            "post_id": "204241",
+            "reply_to_id": "204228"
+        },
+        {
+            "user_name": "viddi",
+            "text": "þú ert með einhverja weird uppsetningu\nKóði: \nVelja allt\nls -l /dev/hd*\neða\nls -l /dev/sd*",
+            "date": "2009-04-19 01:55:00",
+            "post_id": "204247",
+            "reply_to_id": "204241"
+        },
+        {
+            "user_name": "tomas52",
+            "text": "nú kom  ls:cannot acces /dev/hd:No such file or directory\nog alveg sama með sd",
+            "date": "2009-04-19 12:27:00",
+            "post_id": "204261",
+            "reply_to_id": "204247"
+        },
+        {
+            "user_name": "viddi",
+            "text": "Kóði: \nVelja allt\ngksudo gparted",
+            "date": "2009-04-19 12:54:00",
+            "post_id": "204265",
+            "reply_to_id": "204261"
+        },
+        {
+            "user_name": "tomas52",
+            "text": "það kom eitthvað  gparted heitir það en það er ekki neitt í því ef þú skilur mig  allt grátt nema gparted  sem  fer útí refresh devices    -  show features  -   quit       og svo bara help á hinum endanum..\nen ekkert hægt að ýta á í þessu nema ofangreint..",
+            "date": "2009-04-19 13:14:00",
+            "post_id": "204267",
+            "reply_to_id": "204265"
+        },
+        {
+            "user_name": "viddi",
+            "text": "er enginn diskur hægra megin í toolbarinum /dev/eitthvað",
+            "date": "2009-04-19 20:05:00",
+            "post_id": "204285",
+            "reply_to_id": "204267"
+        },
+        {
+            "user_name": "tomas52",
+            "text": "neibb ekki neitt..",
+            "date": "2009-04-19 20:20:00",
+            "post_id": "204287",
+            "reply_to_id": "204285"
+        },
+        {
+            "user_name": "starionturbo",
+            "text": "Postaðu\nKóði: \nVelja allt\nls -l /dev/*\nlíka\nKóði: \nVelja allt\ndu -hs /*",
+            "date": "2009-04-20 16:41:00",
+            "post_id": "204372",
+            "reply_to_id": "204287"
+        },
+        {
+            "user_name": "tomas52",
+            "text": "ég nenni ekki að copya allan textan af því það kom bara denied og eikka...  og af því ég ætla að fá mér nýjan disk bara ætla að skreppa niðrí sorpu á eftir og reyna finna ide disk \n   ég held bara að hdd sé ónýtur og ég að ég hafi verið að misskilja linuxinn því hann taldi að cd diskurinn sem var í tölvunni var 814 mb  \n   en takk fyrir hjálpina ég ætla að reyna finna disk sem virkar ef ekki þá spyr ég aftur til ráða",
+            "date": "2009-04-21 13:24:00",
+            "post_id": "204481",
+            "reply_to_id": "204372"
+        },
+        {
+            "user_name": "viddi",
+            "text": "Kóði: \nVelja allt\nsudo ls -l /dev/*",
+            "date": "2009-04-21 19:13:00",
+            "post_id": "204514",
+            "reply_to_id": "204481"
+        },
+        {
+            "user_name": "yumyum",
+            "text": "ástæða fyrir að það kemur \"unable to open device\" er útaf þú hefur ekki rettindin, þarft að nota\nKóði: \nVelja allt\nsudo fdisk -l\nEÐA\nKóði: \nVelja allt\nsudo su\nKóði: \nVelja allt\nfdisk -l",
+            "date": "2009-04-28 06:24:00",
+            "post_id": "205041",
+            "reply_to_id": false
+        }
+    ],
+    "date": "2009-04-28 06:24:00"
+}

@@ -1,0 +1,72 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "41278",
+    "title": "Tveir SSD diskar og sata stýringarnar",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=41278",
+    "posts": [
+        {
+            "user_name": "GuðjónR",
+            "text": "Ég var að hjálpa einum að tengja tvo 120GB Vertex3 í tölvu, diskarnir voru uppfærðir úr 2.08 í 2.11 gekk vel.\nSpurningin er: er betra að setja þá á sitthvora SATA stýringuna eða skiptir það ekki máli?\nÉg setti þá báða á sömu SATA stýringuna og síðan 2TB HDD á aðra stýringu (stillt AHCI), síðan er geisladrifið á þeirri þriðju (það er sata líka).\nÉg coperaði síðan Steam folderinn (21GB) á milli drifa, Win mældi það sem 330MBs ...\nHefði ég farið í 500MBs ef diskarnir hefðu verið á sitthvorri stýringunni?\nEða eiga bæði portin að halda fullum hraða?",
+            "date": "2011-09-04 23:18:00",
+            "post_id": "377478",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "MatroX",
+            "text": "þú ert með þá í raid0 right?",
+            "date": "2011-09-04 23:27:00",
+            "post_id": "377483",
+            "reply_to_id": "377478"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Ekkert raid ... annar er system/leikir hinn er /leikir.",
+            "date": "2011-09-05 00:41:00",
+            "post_id": "377508",
+            "reply_to_id": "377483"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "uss raida þetta bara þá ferðu að sjá skemmtilegann hraða.\nen þú getur prufað að hafa diskana á sitthvorum controllernum.",
+            "date": "2011-09-05 00:43:00",
+            "post_id": "377509",
+            "reply_to_id": "377508"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "já það væri gaman að sjá hvort hraðinn fari ekki yfir 330MBs  .... vil sjá 500MBs",
+            "date": "2011-09-05 00:47:00",
+            "post_id": "377512",
+            "reply_to_id": "377509"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Vil ekki vera leiðinlegur, en þegar talað er um allt að 500MB/s máttu því miður varla búast við því að sjá þá tölu nokkurn tíman  \n \nHins vegar ættirðu að geta komist andskoti nálægt henni, myndi þó byrja á því að setja upp TeraCopy og sjá hvort að gagnaflutningshraðinn verði hærri við það.\nAnnars er einnig bezt fyrir þig að copy-a einhverja HLUNKA skrá til að sjá skrifhraðann, ekki möppu með mörgum skrám.\nÉg myndi svo halda að þú fengir bezta hraðan með því að hafa diskana einmitt á sömu stýringunni, og myndi ég treysta Intel stýringunni sem er innbyggð á kubbasettið bezt fyrir þessu, passa auðvitað að hafa diskana í SATA3 portunum",
+            "date": "2011-09-05 00:57:00",
+            "post_id": "377517",
+            "reply_to_id": "377512"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Rétt er það, þessar tölur eru aldrei markækar...ekki frekar en verslanir sem bjóða \"allt að 90%\" afsl...\nVirkar það eitthvað? Aldrei haft trú á svona forritum.\nÞað er rétt...ég ætla að prófa að copera eina ~10GB skrá og sjá hraðann...annars var ég ekkert ósáttur við að kópera 21GB, þúsundir smáfæla milli drifa á rétt rúmlega mínútu \nJá, kannski bar best að halda sig við Intel stýringuna, ég setti síðan HDD á Marvell stýringuna og stillti á AHCD, á það ekki að bera betra en IDE ?",
+            "date": "2011-09-05 08:57:00",
+            "post_id": "377532",
+            "reply_to_id": "377517"
+        },
+        {
+            "user_name": "bulldog",
+            "text": "guðjónr : ég er með hörku raid stýringu til sölu",
+            "date": "2011-09-05 09:09:00",
+            "post_id": "377533",
+            "reply_to_id": "377532"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Vil ekki raid \nVantar pláss á maximum hraða",
+            "date": "2011-09-05 09:49:00",
+            "post_id": "377538",
+            "reply_to_id": "377533"
+        }
+    ],
+    "date": "2011-09-04 23:18:00"
+}

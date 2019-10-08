@@ -1,0 +1,100 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "10811",
+    "title": "Tölva finnur ekki SATA",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=10811",
+    "posts": [
+        {
+            "user_name": "Gestir",
+            "text": "Sælir.\n\n\n\nvar að formatta og setja inn ferskt Win Xp en er ekki að ná að finna SATA diskinn :S\n\n\n\nBios sér þetta þegar ég starta vélinni en ef ég fer inn í BIOS sjálfan þá kemur ekkert fram.\n\n\n\nWindows finnur hann heldur ekki.\n\n\n\nÉg er búinn að installa Nvidia og Nforce driverum og Raid og hvaðeina en samt finnur hún þetta ekki.\n\n\n\nÞetta svínvirkaði í Shuttle vélinni og annari þar á undan en núna með DFI borðinu virðist þetta vera í einhverju rugli.\n\n\n\nDettur ykkur eitthvað í hug  ?",
+            "date": "2006-05-05 21:32:00",
+            "post_id": "118338",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Blackened",
+            "text": "Já.. ég lenti í einhverju veseni með þetta líka á DFI borðinu mínu.. ég uppfærði BIOS í borðinu og þá lagaðist þetta minnir mig..",
+            "date": "2006-05-05 21:34:00",
+            "post_id": "118339",
+            "reply_to_id": "118338"
+        },
+        {
+            "user_name": "Gestir",
+            "text": "Ég er ekki með floppy.. er annar séns að uppfæra BIOS ?\n\n\n\ná MSI var það bara  lítið forrit sem sá um það fyrir mig.. \"ýkt\" sniðugt",
+            "date": "2006-05-05 21:35:00",
+            "post_id": "118340",
+            "reply_to_id": "118339"
+        },
+        {
+            "user_name": "kraft",
+            "text": "ómar, hvað með að setja á minnislykill ?",
+            "date": "2006-05-05 22:59:00",
+            "post_id": "118344",
+            "reply_to_id": "118340"
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Er ekki best að byrja á því augljósasta: Er diskurinn vel tengdur?",
+            "date": "2006-05-05 23:00:00",
+            "post_id": "118345",
+            "reply_to_id": "118344"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "Er DFI ekki með pheonix award bios? þá geturu notað winflash utility.",
+            "date": "2006-05-06 17:45:00",
+            "post_id": "118389",
+            "reply_to_id": "118345"
+        },
+        {
+            "user_name": "Gestir",
+            "text": "ég hef ekki hugmynd\n\n\n\nen þegar ég starta tölvunni þá er það fyrsta sem kemur á skjáinn \" Maxtor 189GB \"  og svo eitthvað ble ble \n\n\n\nsvo kemur annar dos skjár og svo bara win start.\n\n\n\n\n\nþannig að tölvan detectar alveg diskinn..  þetta er bara vesen með borðið.",
+            "date": "2006-05-08 10:11:00",
+            "post_id": "118502",
+            "reply_to_id": "118389"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "móðurborðið semsagt sér diskinn.. hvernig færðu þá út að þetta sé vesen með borðið?",
+            "date": "2006-05-08 10:20:00",
+            "post_id": "118505",
+            "reply_to_id": "118502"
+        },
+        {
+            "user_name": "Gestir",
+            "text": "Ekki ert þú kominn með aðra betri skýringu",
+            "date": "2006-05-09 18:25:00",
+            "post_id": "118711",
+            "reply_to_id": "118505"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "búinn að setja sp2 inná?",
+            "date": "2006-05-10 10:35:00",
+            "post_id": "118786",
+            "reply_to_id": "118711"
+        },
+        {
+            "user_name": "Gestir",
+            "text": "Win var innbyggt með SP2 ...\n\n\n\ner reyndar kominn með annan win disk .. ætla að re installa .",
+            "date": "2006-05-10 12:50:00",
+            "post_id": "118800",
+            "reply_to_id": "118786"
+        },
+        {
+            "user_name": "Birkir",
+            "text": "Þú ert ekki með SATA disable-að í bios er það nokkuð?",
+            "date": "2006-05-11 12:22:00",
+            "post_id": "118897",
+            "reply_to_id": "118800"
+        },
+        {
+            "user_name": "Gestir",
+            "text": "Nei, þetta er komið í lag.\n\n\n\n\n\nMálið var ekki flóknara en það að diskurinn var tengdur í eitthvað sem hann átti greinilega ekki að vera tengdur í ..\n\n\n\nég færði hann í Sata 2 minnir mig og þá poppaði þetta inn.\n\n\n\n\n\nReyndar flasshaði ég bios líka í gær og þá fór allt til fjandans. Vélin startaði ekki, eða startaði bara í hringi og það endaði með þvi að ég HELD að ég hafi fært BIOS jumperin og þá amk komst það í lag aftur.\n\n\n\nHellað þetta DFI borð,",
+            "date": "2006-05-11 12:32:00",
+            "post_id": "118900",
+            "reply_to_id": "118897"
+        }
+    ],
+    "date": "2006-05-05 21:32:00"
+}

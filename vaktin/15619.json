@@ -1,0 +1,79 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "15619",
+    "title": "Q6600 spurning",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=15619",
+    "posts": [
+        {
+            "user_name": "Selurinn",
+            "text": "Ég er að keyra CPUZ og core speedið hoppar frá 1600 til 2400 mhz.\n\n\n\nSemsagt multiplierinn hoppar frá 6x uppí 9x og er á annaðhvort!?\n\n\n\nEr þetta eðlilegt?\n\n\n\nÞetta er Kentsfield GO Stepping örgjövi",
+            "date": "2007-09-26 21:25:00",
+            "post_id": "153676",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Er ekki bara kveikt á þessu speed stepping rusli í BIOSnum?",
+            "date": "2007-09-26 21:37:00",
+            "post_id": "153680",
+            "reply_to_id": "153676"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Jú það stemmir, er það eitthvað sem vert er að slökkva á?",
+            "date": "2007-09-26 21:52:00",
+            "post_id": "153682",
+            "reply_to_id": "153680"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Já, það er ágætt að slökkva á því.",
+            "date": "2007-09-26 22:12:00",
+            "post_id": "153685",
+            "reply_to_id": "153682"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Einhver sérstök ástæða fyrir því, eða bara persónuleg skoðun?",
+            "date": "2007-09-26 23:19:00",
+            "post_id": "153700",
+            "reply_to_id": "153685"
+        },
+        {
+            "user_name": "ÓmarSmith",
+            "text": "Þetta er alveg normal.\n\n\n\nÖrinn keyrir sig sjálfur niður í IDLE vinnslu og lítilli vinnslu enda óþarfi að láta hann keyra á 4 x 2400Mhz allann tímann.\n\n\n\n\n\nMinn E6400 keyrir á 1600Mhz að öllu jöfnu en tjúnast sjálfur upp í 2.2 þegar hann er í vinnslu sem þarfnast meira afls.",
+            "date": "2007-09-26 23:52:00",
+            "post_id": "153712",
+            "reply_to_id": "153700"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Hef heyrt um marga sem lenda í veseni með þetta í leikjum t.d. þar sem draslið kikkar inn þegar lítið er að gerast og svo þegar þörf er á öllum kraftinum þá tekur það smá stund að koma, getur verið pirrandi.",
+            "date": "2007-09-26 23:53:00",
+            "post_id": "153713",
+            "reply_to_id": "153712"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Er þá ekki alveg afbragð að láta þetta fljóta með þegar þú segir honum að slökkva á þessum fítus? Það eru líka jákvæðir hlutir við speedstepping eins og minni hiti og orkunotkun (þ.e.a.s. þegar örgjörvinn er ekki í fullri vinnslu).",
+            "date": "2007-09-27 10:40:00",
+            "post_id": "153734",
+            "reply_to_id": "153713"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Hefuru áhyggjur af hitamyndun örgjörvans við idle? Hefuru virkilega miklar áhyggjur af orkunotkuninni á borðtölvunni? Þetta er sniðugt fyrir laptops og fyrir fólk þar sem er mjög heitt og dýrt orkuverð.",
+            "date": "2007-09-27 11:03:00",
+            "post_id": "153735",
+            "reply_to_id": "153734"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Ég hef ekki ÁHYGGJUR af hitamyndun þegar örgjörvin er í IDLE, en ég sé enga ástæðu fyrir hann til að keyra á fullum MHZ ef það er lítið að gerast í tölvunni sem leiðir af sér minni hitamyndun og jafnvel meiri endingu allra hluta í tölvunni. Sem og að vifturnar í vélinni þurfa þá ekki að keyra á fullum snúning allan tíman, sem leiðir af sér bætta geðheilsu.\n\n\n\nAnnars er ég með E6750 og hef ekki orðið var við nokkur vandamál þegar ég er í leikjum, veit ekki betur en hann speedsteppi eins og vanur polkadansari.",
+            "date": "2007-09-27 11:44:00",
+            "post_id": "153740",
+            "reply_to_id": "153735"
+        }
+    ],
+    "date": "2007-09-26 21:25:00"
+}

@@ -1,0 +1,149 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "41354",
+    "title": "Utorrent upload",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=41354",
+    "posts": [
+        {
+            "user_name": "kazzi",
+            "text": "sælir.núna er ég alveg strand.málið er að upload hjá mér er sama og ekkert 16 kb ,ég er ekki nýr í utorrent en er ekki að fatta hvað er í gangi.\ner búin að fara yfir allar stillingar en ekkert virðist ganga.\nef einhver er með hugmyndir hvað mér gæti yfir sést væri sú hjálp vel þegin.\nps.download hraði er fínn.",
+            "date": "2011-09-08 00:28:00",
+            "post_id": "378275",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Halldór",
+            "text": "prefrences --> sceduler\nprefrences --> queing\nprefrences --> bandwidth\nsvona það sem mér dettur i hug",
+            "date": "2011-09-08 08:32:00",
+            "post_id": "378302",
+            "reply_to_id": "378275"
+        },
+        {
+            "user_name": "kazzi",
+            "text": "það er málið ég veit hvar allar stillingar eru og hvernir er best að hafa þær ,\nen sama hvað ég geri ekkert virkar",
+            "date": "2011-09-08 09:11:00",
+            "post_id": "378308",
+            "reply_to_id": "378302"
+        },
+        {
+            "user_name": "dodzy",
+            "text": "er eitthvað annað upload í gangi hjá þér?  \n \nannars þá er um að gera að rífast við isp",
+            "date": "2011-09-08 09:21:00",
+            "post_id": "378310",
+            "reply_to_id": "378308"
+        },
+        {
+            "user_name": "ponzer",
+            "text": "Gæti verið að QoSið á routernum þínum sé enabled ?",
+            "date": "2011-09-08 09:29:00",
+            "post_id": "378311",
+            "reply_to_id": "378310"
+        },
+        {
+            "user_name": "kazzi",
+            "text": "er á ljósi og þetta virkaði fínt þar til í gær.\nhef keyrt speedtest og þar virkar allt eðlilega ,svo þetta hefur eitthvað með utorrent að gera.\nallt upload og download er unlimited .\nportforward á\nupdate:\nnúna er ég að prófa að sækja frá TPB og þar er allt í gangi mun betra upload.\nen ef ég er að deila frá deildu,þá er allt á low.getur verið að það skipti máli ,að ef ég er að deila því sem\nég sótti frá deildu sé í rugli.\nkannast einhver við sem er að deila \"innlendu\"sé með lélegt upload  ?",
+            "date": "2011-09-08 09:37:00",
+            "post_id": "378312",
+            "reply_to_id": "378311"
+        },
+        {
+            "user_name": "Halli25",
+            "text": "Svipað hjá mér, ef ég fer á aðrar síður þá uploada ég eins og vindurinn. Á deildu þá er uploadið oftast í lágmarki nema ég finni torrent frá gutta á ADSL og er með þeim fyrstu eða held inni vinsælu efni í langan tíma og einhver slysast til að DL því",
+            "date": "2011-09-08 09:46:00",
+            "post_id": "378314",
+            "reply_to_id": "378312"
+        },
+        {
+            "user_name": "kazzi",
+            "text": "já þetta er skrítið .núna er ég að uploada efni sem ég sótti frá TPB á 4 mb\nen á sama, tíma efni sem ég sótti frá deildu á 4.0 kb",
+            "date": "2011-09-08 09:52:00",
+            "post_id": "378315",
+            "reply_to_id": "378314"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "Deildu serverinn er búinn að veera við það að crasha afþví þar er svo mikil traffík.\nÉg gat ekki downloadað í tvo daga þegar mesta álagið var en gat downloadað af TPB.",
+            "date": "2011-09-08 09:53:00",
+            "post_id": "378316",
+            "reply_to_id": "378315"
+        },
+        {
+            "user_name": "ponzer",
+            "text": "Það hefur engin áhrif á upload hraða á p2p",
+            "date": "2011-09-08 10:02:00",
+            "post_id": "378319",
+            "reply_to_id": "378316"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "ég veit vel hvernig p2p virkar,hinsvegar er eins og það sé vandamál með bara deildu, afþví TPB virkaði fínt",
+            "date": "2011-09-08 10:11:00",
+            "post_id": "378320",
+            "reply_to_id": "378319"
+        },
+        {
+            "user_name": "kazzi",
+            "text": "ok allavega eru einhverjir að lenda í því að torrent sem sótt eru frá deildu ,að upload er crap sem mér finnst ansi skrítið reyndar.",
+            "date": "2011-09-08 15:51:00",
+            "post_id": "378383",
+            "reply_to_id": "378320"
+        },
+        {
+            "user_name": "tdog",
+            "text": "Uploadið fer líka eftir því hver sé að sækja frá þér...",
+            "date": "2011-09-08 15:53:00",
+            "post_id": "378384",
+            "reply_to_id": "378383"
+        },
+        {
+            "user_name": "kazzi",
+            "text": "ég geri mér alveg grein fyrir því ,en ef að maður er með ljós og það er verið að sækja torrent sem ég setti sjálfur inn og 15 eru að sækja \nþá getur ekki verið eðlilegt að upload sé 4.2 kb er það ?",
+            "date": "2011-09-08 15:59:00",
+            "post_id": "378386",
+            "reply_to_id": "378384"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "Ekki normalt, en eins og er sagt hér fyrir ofan, kannski eru einhverjir modem notendur að downloada frá þér.",
+            "date": "2011-09-08 19:56:00",
+            "post_id": "378439",
+            "reply_to_id": "378386"
+        },
+        {
+            "user_name": "Storm",
+            "text": "frá því að ég skipti yfir í símann og fékk ljósnet þá hefur ekkert innlent upload virkað nánast ever. Upload til útlanda er mjög gott og download bæði innanlands og utanlands mjög gott. Port forward í gangi einnig. Var orðinn gráhærður á tímabili þangað til ég hætti bara einfaldlega að sækja stuff innanlands.. tek svo lítið hvort sem er fer aldrei yfir limit",
+            "date": "2011-09-08 21:30:00",
+            "post_id": "378450",
+            "reply_to_id": "378439"
+        },
+        {
+            "user_name": "kazzi",
+            "text": "já skil það .en furðulega er að þetta virkaði fínt í fyrradag en svo búmm allt í rugl .\nen er pottþéttur eftir allt sem ég er búin að reyna að vandinn liggur annarstaðar en hjá mér svo f.it",
+            "date": "2011-09-08 23:18:00",
+            "post_id": "378478",
+            "reply_to_id": "378450"
+        },
+        {
+            "user_name": "worghal",
+            "text": "búinn að prufa annað torrent forrit ?",
+            "date": "2011-09-09 01:18:00",
+            "post_id": "378518",
+            "reply_to_id": "378478"
+        },
+        {
+            "user_name": "kazzi",
+            "text": "nei bara eldri útgáfu af utorrent er með 3.0 sem er nýja ,en það breytti engu með eldri.",
+            "date": "2011-09-09 01:47:00",
+            "post_id": "378523",
+            "reply_to_id": "378518"
+        },
+        {
+            "user_name": "worghal",
+            "text": "prufaðu annað forrit þá :S\nvuze eða eitthvað, bara svona til að checka",
+            "date": "2011-09-09 02:11:00",
+            "post_id": "378532",
+            "reply_to_id": "378523"
+        }
+    ],
+    "date": "2011-09-08 00:28:00"
+}

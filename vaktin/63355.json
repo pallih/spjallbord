@@ -1,0 +1,100 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "63355",
+    "title": "Wi-fi virkar ílla eftir windows 8.1 uppfærslu",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=63355",
+    "posts": [
+        {
+            "user_name": "GuðjónR",
+            "text": "Var að prófa win8.1 á gamla HP lappanum og þráðlausa netið er í ruglinu.\nSlítur sambandi á 2-3 mín fresti eða um leið og eitthvað álag er, t.d. download.\nHP er þekkt fyrir lélegt support, en þetta slær nú flest út, eina stýrikerfi sem þeir supporta er VISTA.\nVista var handónýtt kerfi, kannski er málið að setja gamla XP bara upp?\nEða er hægt að stilla þetta þannig að þráðlausa hangi inni?",
+            "date": "2014-11-24 10:12:00",
+            "post_id": "581073",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "methylman",
+            "text": "Orkusparnaður  er einmitt að flækjast fyrir mörgum þ.e.  \"allow windows to power off this device to save power\"  alveg ferlegt rugl.",
+            "date": "2014-11-24 10:25:00",
+            "post_id": "581077",
+            "reply_to_id": "581073"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Já einmitt, ég mundi eftir þeim þræðinum og var búinn að afvirkja þann möguleika.\nMig grunar að tölvan sé bara orðin \"lúin\" og þá sérstaklega netkortið.\nÁ gamla Vista diskinn ofan í skúffu, kannski besta leiðin til að sjá hvort þetta er drivera tengt eða hardware að setja það upp.",
+            "date": "2014-11-24 10:34:00",
+            "post_id": "581078",
+            "reply_to_id": "581077"
+        },
+        {
+            "user_name": "Nördaklessa",
+            "text": "vista já....ef ég man rétt þá hættu Microsoft að styðja það fyrir ca 2 árum?",
+            "date": "2014-11-24 10:34:00",
+            "post_id": "581079",
+            "reply_to_id": "581078"
+        },
+        {
+            "user_name": "GullMoli",
+            "text": "Ég lenti í því að fá BSOD þegar ég setti Win8.1 upp á gamlan T61 thinkpad lappa. Þá var það driver issue, INTEL voru ekki með Win8 driver fyrir netkortið (intel kort) sem orsakaði þetta. \nLausnin var nýtt netkort af Ebay",
+            "date": "2014-11-24 10:50:00",
+            "post_id": "581083",
+            "reply_to_id": "581079"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Mig grunar að þetta sé eitthvað svipað, þ.e. drivera vesen. Það er intel netkort í tölvunni. \nVerð líklega að downgreida þar sem tölvan er ekki þess virði að uppfæra netkortið.\nEn eitt kemur mér mjög á óvart, þ.e. hvað Win8.1 er fljótt að venjast. Windows takkinn (á lyklaborðinu) og search er bara snilld.",
+            "date": "2014-11-24 11:17:00",
+            "post_id": "581085",
+            "reply_to_id": "581083"
+        },
+        {
+            "user_name": "GullMoli",
+            "text": "Jebb, nokkuð þægilegt.\nAnnars kostaði netkortið sem ég keypti um $10 og það flaug beint í gegnum tollinn án gjalda.",
+            "date": "2014-11-24 12:43:00",
+            "post_id": "581092",
+            "reply_to_id": "581085"
+        },
+        {
+            "user_name": "FreyrGauti",
+            "text": "Mainstream support já, en fær áfram öryggisuppfærslur til 2017.\nhttp://windows.microsoft.com/en-us/windows/lifecycle",
+            "date": "2014-11-24 13:04:00",
+            "post_id": "581093",
+            "reply_to_id": "581092"
+        },
+        {
+            "user_name": "zedro",
+            "text": "",
+            "date": "2014-11-24 18:15:00",
+            "post_id": "581111",
+            "reply_to_id": "581093"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Linux er ekki \"my cup of tea\" ... of hrátt eitthvað, sérstaklega eftir að hafa séð þetta colorful win8.1...\nWin 8.1 kemur nú bara nokkuð skemmtilega á óvart ... hugsa að win10 verði geggjað!\nFann smá trix til að halda netinu \"lifandi\" ... þegar það dettur út þá er nóg að slökkva á netkortinu með takkanum framan á í smá stund og kveikja aftur ...\nÞað er eins og netkortið restarti sér eða eitthvað ... tölvan þolir ekki download og torrent er bara NO NO ...",
+            "date": "2014-11-24 20:56:00",
+            "post_id": "581128",
+            "reply_to_id": "581111"
+        },
+        {
+            "user_name": "Bjosep",
+            "text": "Getur verið mögulegt að tölvan sé að reyna að tengjast ipv6 sem er ekki í boði og því verði þetta óstöðugt?\nGætir prufað að afvirkja ipv6 og athugað hvort það breytir einhverju.",
+            "date": "2014-11-24 21:10:00",
+            "post_id": "581129",
+            "reply_to_id": "581128"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "]Biddu er Guðjón að tala vel um Windows 8.1? Hver komst inn á aðganginn hans?",
+            "date": "2014-11-24 23:13:00",
+            "post_id": "581141",
+            "reply_to_id": "581129"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "",
+            "date": "2014-11-25 01:52:00",
+            "post_id": "581154",
+            "reply_to_id": "581141"
+        }
+    ],
+    "date": "2014-11-24 10:12:00"
+}

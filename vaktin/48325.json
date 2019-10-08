@@ -1,0 +1,191 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "48325",
+    "title": "Að setja upp linux á tölvu er það sama og að skemma hana...",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=48325",
+    "posts": [
+        {
+            "user_name": "gardar",
+            "text": "...eða svo segja newegg allavega\nhttp://consumerist.com/2012/06/newegg-i ... ng-it.html\nHafa menn heyrt af svipuðum dæmum á tölvuverkstæðum hér heima?",
+            "date": "2012-06-12 23:58:00",
+            "post_id": "447005",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gets",
+            "text": "Update, 7:14 PM: Newegg contacted Norma after we published this story, and her RMA is now going through. They'll be issuing her a refund.  \n \nÞeir hafa ekki þorað öðru eftir að þetta var birt, enda er þetta bara bull.",
+            "date": "2012-06-13 00:06:00",
+            "post_id": "447006",
+            "reply_to_id": "447005"
+        },
+        {
+            "user_name": "gardar",
+            "text": "En er þetta ekki það sem koma skal með secureboot ruslinu? Þú getur ekki sett upp neitt nema windows á þær vélar og brýtur ábyrgðina með því að fara fram hjá því?",
+            "date": "2012-06-13 00:10:00",
+            "post_id": "447007",
+            "reply_to_id": "447006"
+        },
+        {
+            "user_name": "dori",
+            "text": "úff... hvert er heimurinn að fara...\nÆ já, \"secure\" boot.\nSmá tengt þessu, hvaða fartölva er Open Source/linux vænust? Þá á ég við að hún virki 100% með linux og að það sé ekkert vesen og best væri að maður væri ekki með einhverja binary lokaða rekla. Eitthvað aðeins meira heillandi en Yeelong samt.",
+            "date": "2012-06-13 00:19:00",
+            "post_id": "447008",
+            "reply_to_id": "447007"
+        },
+        {
+            "user_name": "gardar",
+            "text": "system76? Þeir hafa verið að bjóða upp á fínar vélar \nhttps://www.system76.com/\nAnnars er ég náttúrulega þeirrar skoðunnar að það komi ekkert nálægt thinkpad þegar kemur að ruggedness",
+            "date": "2012-06-13 00:29:00",
+            "post_id": "447010",
+            "reply_to_id": "447008"
+        },
+        {
+            "user_name": "worghal",
+            "text": "uss, meira draslið þetta Linux",
+            "date": "2012-06-13 00:35:00",
+            "post_id": "447012",
+            "reply_to_id": "447010"
+        },
+        {
+            "user_name": "Gislinn",
+            "text": "Eftir að ég fékk mína Thinkpad T420 í hendurnar þá leið minna en 1 klst áður en það var komið Linux á hana. Þetta er mjög lélegt af NewEgg að koma með svona svör.  \n \nHeld að það sé verulega erfitt að finna open hardware/ open source fartölvu (gæti vel verið að ég hafi rangt fyrir mér). \nGet þó staðfest að allt sem er með optimus tækni verður einstaklega leiðinlegt í linux (eins og er, vonandi fer það að lagast). Ef ég hefði vitað hvað það er mikið pain þá hefði ég eflaust hugsað mig tvisvar um áður en ég keypti mér mína T420.",
+            "date": "2012-06-13 00:37:00",
+            "post_id": "447013",
+            "reply_to_id": "447012"
+        },
+        {
+            "user_name": "bulldog",
+            "text": "Það er best að eiga bara borðtölvu",
+            "date": "2012-06-13 10:38:00",
+            "post_id": "447047",
+            "reply_to_id": "447013"
+        },
+        {
+            "user_name": "dori",
+            "text": "Mér finnst build quality á Thinkpad línunni einmitt svo sjúkt að mig langar í þannig en hef séð útundan mér eitthvað slæmt um nýlegar línur og linux compatibility (man ekki hvar eða hvað samt, allavega ekki jafn góðar í þessum stuðningi og áður). Málið með mig er að mér er \"skítsama\" um performance. Það sem skiptir máli fyrir mig er lyklaborð, sturdiness, nettleiki, rafhlöðuending, DPI (ég vil helst ekki fara upp fyrir 14\", 15\" algjört max, vil samt góða upplausn á því) og performance. Í þessari röð.\nRosalega fátt sem ég geri sem þarf rosa skjákort eða örgjörva, mesta áreynslan væri HD myndbönd. En hún þarf að vera \nfar\ntölva og því sturdy, góð rafhlöðuending en samt nett.\nVæri pæling að taka lemur ultra og maxa hana allavega í minni og fá sér ssd. En ég veit ekkert um build quality á henni og hversu sturdy hún er...",
+            "date": "2012-06-13 10:53:00",
+            "post_id": "447053",
+            "reply_to_id": "447047"
+        },
+        {
+            "user_name": "skoffin",
+            "text": "Keyptu Red Hat ekki UEFI lykil? Þú getur þá sett upp Fedora án þess að slökkva á secureboot.",
+            "date": "2012-06-13 11:10:00",
+            "post_id": "447059",
+            "reply_to_id": "447053"
+        },
+        {
+            "user_name": "gardar",
+            "text": "jú getur það fyrir 99$\nfyrr mun ég dauður liggja en að borga microsoft fyrir stýrikerfið sem fylgir vélinni og svo 99$ fyrir UEFI lykilinn",
+            "date": "2012-06-13 11:16:00",
+            "post_id": "447063",
+            "reply_to_id": "447059"
+        },
+        {
+            "user_name": "skoffin",
+            "text": "Eðlilega \nEf ég misskildi þetta ekki þá keyptu Red Hat lykil fyrir $99, þ.a. þú þarft ekki að kaupa hann. \nhttp://linux.slashdot.org/story/12/06/0 ... t-solution\nAnnars á að vera hægt að slökkva á þessu secure boot veseni.",
+            "date": "2012-06-13 11:22:00",
+            "post_id": "447068",
+            "reply_to_id": "447063"
+        },
+        {
+            "user_name": "dori",
+            "text": "Hahahaha... Ótrúlega vona ég að MS lykillinn muni leka og einhver geri þetta:",
+            "date": "2012-06-13 11:39:00",
+            "post_id": "447079",
+            "reply_to_id": "447068"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ég smellti Ubuntu upp á T420 vélina mína til gamans fyrir nokkru síðan og það virkar allt nánast out of the box nema jú Optimus keyrslan, þeas gat ekki fengið 3 skjái til að virka með dokkunni.",
+            "date": "2012-06-13 12:32:00",
+            "post_id": "447083",
+            "reply_to_id": "447079"
+        },
+        {
+            "user_name": "sigurdur",
+            "text": "Ég hef keyrt Ubuntu, Debian og Mint á T61 vélinni minni og er nú á Ubuntu 12.04. Einhverjir böggar eru með NVidia drivera eins og er og hibernation virkar ekki sem skyldi. Sætti mig þó fullkomlega við það í hvert skipti sem ég sé konuna ræsa T400 vélina sína með Windows. Þvílíkur munur!",
+            "date": "2012-06-13 13:03:00",
+            "post_id": "447084",
+            "reply_to_id": "447083"
+        },
+        {
+            "user_name": "dori",
+            "text": "Mig langar svo mikið í eitthvað sem virkar 100% ekki 99,9%. Þó svo maður noti hibernation t.d. ekki mikið þá er það einn af þessum hlutum sem væri bara svo gaman að hafa í lagi. Mín reynsla af fartölvum+linux er að þessir ACPI hlutir eru oftast aðeins buggy.",
+            "date": "2012-06-13 13:40:00",
+            "post_id": "447085",
+            "reply_to_id": "447084"
+        },
+        {
+            "user_name": "sigurdur",
+            "text": "Fram til þessa hefur Ubuntu 11.04 verið næst því að virka \"out of the box\" á vélinni minni. 11.10 var hryllingur hvað varðar viðmótið og gerði það að verkum að ég fór yfir í Debian. 12.04 er betra en 11.10, en ekki eins hnökralaust og 11.04 að mínu mati.\nSammála þessu með hibernation og vonast til að lausn finnist sem fyrst á því máli. Hef bara upplifað nóg af veseni hjá frúnni með Windows á sinni vél til að væla ekki mikið yfir mínum vandamálum.",
+            "date": "2012-06-13 13:44:00",
+            "post_id": "447087",
+            "reply_to_id": "447085"
+        },
+        {
+            "user_name": "dori",
+            "text": "Nákvæmlega, mér finnst *nix bara svo miklu skemmtilegra vinnuumhverfi. Enda hef ég alltaf keyrt linux á mínum ferðavélum. Það hefur bara verið mismikið vandamál að koma því í gagn. ACPI og fn+takkar eða custom lyklaborðstakkar hafa alltaf verið mest vesen hjá mér. Sérstaklega á ódýrari tölvum.",
+            "date": "2012-06-13 13:51:00",
+            "post_id": "447088",
+            "reply_to_id": "447087"
+        },
+        {
+            "user_name": "appel",
+            "text": "Hugbúnaður getur skemmt tölvur.\nÞegar Starcraft 2 kom út þá kom í ljós að hann vær að eyðileggja ákveðin skjákort því hann keyrði með vsync off í menu kerfinu (þ.e. ekki-ingame), sem olli því að leikurinn keyrði of hratt og svo fóru menn frá tölvunni og skjákortið bræddi úr sér.\nÞannig að ég skil Newegg alveg smá...\nReyndar finnst mér bara synd að menn séu að setja upp Linux á vélarnar sínar... totally useless piece of garbage os.",
+            "date": "2012-06-13 13:53:00",
+            "post_id": "447089",
+            "reply_to_id": "447088"
+        },
+        {
+            "user_name": "sigurdur",
+            "text": "Hehe, á að reyna að hræra upp í fólki á þessum fallega sumardegi?!?",
+            "date": "2012-06-13 13:57:00",
+            "post_id": "447090",
+            "reply_to_id": "447089"
+        },
+        {
+            "user_name": "dori",
+            "text": "Ef hugbúnaður eins og Starcraft getur skemmt vélbúnað þá er það galli í vélbúnaði eða reklum. Hugbúnaður getur skemmt vélbúnað en hann ætti að vera með failsafe... Aldrei að treysta neinum, það er auðveldast. Og þá færðu ekki á þig vont orð útaf því að einhver annar fokkaði upp.",
+            "date": "2012-06-13 13:58:00",
+            "post_id": "447091",
+            "reply_to_id": "447090"
+        },
+        {
+            "user_name": "skoffin",
+            "text": "Þá ætti ábyrgðin hjá þeim að falla úr gildi ef þú setur upp Starcraft 2. Eða bara hvað sem er annað en var á vélinni þegar þeir seldu þér hana.\nTakk fyrir að deila þessu með okkur.",
+            "date": "2012-06-13 14:00:00",
+            "post_id": "447092",
+            "reply_to_id": "447091"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "hahaha appel \n \nEn eins og dori sagði þá er það á ábyrgð vélbúnaðarframleiðenda að koma í veg fyrir svona! (Þ.e.a.s. starcraft dæmið.)",
+            "date": "2012-06-13 14:31:00",
+            "post_id": "447095",
+            "reply_to_id": "447092"
+        },
+        {
+            "user_name": "Gislinn",
+            "text": "Ok smá off topic, er með T420 og hún er dual boot. Hún er margfalt sneggri að ræsa í windows en í ubuntu aðalega vegna þess að hún er alltaf eitthvað að fokkast í nvidia kortinu. Hefur þú verið að lenda í svipuðu?\nÞú mátt alveg hafa þína skoðun, en hún er röng.",
+            "date": "2012-06-13 16:02:00",
+            "post_id": "447112",
+            "reply_to_id": "447095"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Nei, kannast ekki við þetta. Hef þó ekkert keyrt 12.04 á henni, en mig er farið að klæja í fikt fingurnar, kannski maður hendi upp dual boot í kvöld og sjái hvernig gengur. En á meðan það er ekki komið full support við Optimus og Triplemon setupið þá hef ég lítið við *nix að gera því miður.",
+            "date": "2012-06-13 18:48:00",
+            "post_id": "447130",
+            "reply_to_id": "447112"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Það er nú hægt að mixa optimus draslið með einhverju skítamixi, og það er verið að vinna í \"official\" lausn.\nhttp://airlied.livejournal.com/75555.html",
+            "date": "2012-06-13 21:06:00",
+            "post_id": "447157",
+            "reply_to_id": false
+        }
+    ],
+    "date": "2012-06-13 21:06:00"
+}

@@ -1,0 +1,93 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "20661",
+    "title": "5.1 soundsystem",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=20661",
+    "posts": [
+        {
+            "user_name": "Daði29",
+            "text": "Halló. Ég var að fá 5.1 soundsystem í jólagjöf. Vandamálið er það að ég held að fartölvan mín sé ekki með 5.1 soundcard (ekki viss).\nSko, með þessu hátalarasetti og bassaboxi kom snúra til þess að tengja á milli tölvunnar og subwooferins. Í þessari snúru eru þrír kaplar á báðum endum snúrunnar. Þessir kaplar eru fyrir í fyrsta lagi fremri hátalarana tvo\n(front -grænn á lit)\n, öðru lagi fyrir bassaboxið og miðjuhátlarann \n(woofer og center -gulur á lit)\n, og í þriðja lagi fyrir venjulegu hátlarana tvo \n(surround -svartur/blár á lit)\nÁ fartölvunni minni er hins vegar bara þessi surround innstunga (svarta) þannig að það \nheyrist bara í tveimur hátölurum úr settinu en ekkert í boxinu og hinum þremur hátölurnum.\n Það eru reyndar tvær aðrar innstungur á tölvunni en þær eru blá og bleik á litinn en ég held þær komi að engum notum(bara fyrir microphone og headset held ég)\nHérna fann ég mynd af þessum litum á 5.1 hljóðkorti:\nÁ fartölvunni minni er ég s.s. bara með svörtu, bláu og bleiku innstungurnar. \nMig vantar þessa gulu og grænu\n til þess að fá pakkann til þess að virka held ég.\nSvo, veit einhver hvort ég geti gert eitthvað í þessu?",
+            "date": "2008-12-25 01:04:00",
+            "post_id": "191131",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Sydney",
+            "text": "Svarti á fartölvunni þinni er LineOut, og bleika er mikrófónn. Fartölvan þín styður bara 2.0.",
+            "date": "2008-12-25 01:08:00",
+            "post_id": "191132",
+            "reply_to_id": "191131"
+        },
+        {
+            "user_name": "vesley",
+            "text": "http://www.tolvutek.is/product_info.php ... s_id=18073\n skelltu þér bara á eitt svona",
+            "date": "2008-12-25 01:10:00",
+            "post_id": "191133",
+            "reply_to_id": "191132"
+        },
+        {
+            "user_name": "Daði29",
+            "text": "Já okay nice, en veistu hvort það er til einhverskonar framlenging á þessa kapla því þú veist usb-tengið er svo langt frá svörtu innstungunni (sem er framan á tölvunni en usb-tengið á hliðinni) og þessir þrír kaplar komast bara svona í mesta lagi ca. 2cm frá hvorum öðrum, þannig að guli og græni komast ekki ekki í usb-tengið og svarti framan á tölvuna í line-out-ið   \n  Ætli það sé til einhver svona framlenging?",
+            "date": "2008-12-25 02:04:00",
+            "post_id": "191142",
+            "reply_to_id": "191133"
+        },
+        {
+            "user_name": "Sydney",
+            "text": "USB male to female snúra?",
+            "date": "2008-12-25 02:07:00",
+            "post_id": "191143",
+            "reply_to_id": "191142"
+        },
+        {
+            "user_name": "Daði29",
+            "text": "Já það er satt, það ætti að virka.\n- Ein spurning í viðbót, ég á að geta tengt þetta hátalarasett við sjónvarpsflakkarann minn. Hann er ekki með nein svona lita-tengi (line-out, woofer og front), en hann er með svona 'optical' og 'coaxial' tengi sem ég held að eigi að geta tengst svona 5.1 setti..?\ngerði mynd af þessum tengjum:\nEr það ekki rétt að tilgangur þessara tveggja tengja á flakkaranum sé í 5.1 hátalarasett, ætli það sé þá hægt að fá svona stikki sem s.s. er með optical/coaxial tengi öðru megin og svo svona þrjár innstungur fyrir settið hinum megin (svört, gul og græn) ?",
+            "date": "2008-12-25 02:40:00",
+            "post_id": "191151",
+            "reply_to_id": "191143"
+        },
+        {
+            "user_name": "Hyper_Pinjata",
+            "text": "þú kaupir ekki 5.1 tölvugræjur fyrir heimabió nema þú sért með borðtölvu,eða tæki sem styður tenginguna\nflakkarinn styður Coax & Optical....sem bæði eru,og voru (síðast þegar ég vissi) bæði tengi í magnara....",
+            "date": "2008-12-25 02:51:00",
+            "post_id": "191154",
+            "reply_to_id": "191151"
+        },
+        {
+            "user_name": "Daði29",
+            "text": "Ég keypti þetta ekki! hvernig væri að lesa? fékk þetta í jólagjöf.",
+            "date": "2008-12-25 04:14:00",
+            "post_id": "191162",
+            "reply_to_id": "191154"
+        },
+        {
+            "user_name": "Hyper_Pinjata",
+            "text": "Ok...sorry....var að fá nýjan skjá með feitri upplausn (1440x900) og svona frekar erfitt að lesa á hann þegar maður verður þreyttur í augunum....",
+            "date": "2008-12-25 07:35:00",
+            "post_id": "191165",
+            "reply_to_id": "191162"
+        },
+        {
+            "user_name": "Daði29",
+            "text": "Er einhver sem veit hvort ég geti tengt þetta 5.1 sett í flakkarann í gegnum annað hvort Coaxial eða Optical tengið með 3.5mm stereo köplunum (guli, græni & svarti) ?",
+            "date": "2008-12-26 03:47:00",
+            "post_id": "191255",
+            "reply_to_id": "191165"
+        },
+        {
+            "user_name": "Hyper_Pinjata",
+            "text": "auðveldast fyrir þig væri bara að redda græjumagnara,hátölurum og snúru til að tengja við flakkarann....hinsvegar gætirðu reynt að kaupa svona \"mini-jack\" splitter....fást í reykjavík hjá einhverju \"Radio-eitthvað\"...Radíóbæ semsagt,eða eitthvað þannig,en vertu þá viss um að fá \"Stereo\" splitter,en ef þú myndir kaupa 2 svoleiðis þá gætirðu tengt þetta við hvað sem er,svo lengi sem að allavega 1 mini jack er til að \"tengja\" við...\nen þú færð samt engan surround eða 5.1 hljóm útúr því þannig vegna þess að þú ert bara að fjölga tækjum á 2 rásum (Front) rásinni.",
+            "date": "2008-12-26 07:03:00",
+            "post_id": "191263",
+            "reply_to_id": "191255"
+        },
+        {
+            "user_name": "blitz",
+            "text": "Þú getur farið í íhluti eða miðbæjarradíó og spjallað við mennina þar um þetta, þeir ættu að vita töluvert meira um þetta en sumir vitleysingarnir sem eru að tjá sig hérna.",
+            "date": "2008-12-26 12:43:00",
+            "post_id": "191277",
+            "reply_to_id": "191263"
+        }
+    ],
+    "date": "2008-12-25 01:04:00"
+}

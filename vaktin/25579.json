@@ -1,0 +1,51 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "25579",
+    "title": "ætli ég geti skipt E6300 út fyrir E8400",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=25579",
+    "posts": [
+        {
+            "user_name": "Nariur",
+            "text": "Gæti ég skipt honum út?\nég er nefnilega með móðurborð úr eldri Medion tölvu(ég veit) MSI MS-7311 og hef áhyggjur að það taki ekki við 45nm örgjörva og auðvitað finn ég engar upplýsingar um það.\nE6300\nLaunch Date\tQ3'06\nProcessor Number\tE6300\n# of Cores\t2\nProcessor Base Frequency\t1.86 GHz\nL2 Cache\t2 MB\nFSB Speed\t1066 MHz\nLithography\t65 nm\nMax TDP\t65 W\nVID Voltage Range\t0.850V - 1.500V\nE8400\nLaunch Date\tQ1'08\nProcessor Number\tE8400\n# of Cores\t2\nProcessor Base Frequency\t3 GHz\nL2 Cache\t6 MB\nFSB Speed\t1333 MHz\nLithography\t45 nm\nMax TDP\t65 W\nVID Voltage Range\t0.850v - 1.3625v\nDjöfull hata ég Intel, þeir eru með tvo örgjörva sem heita E6300, þennan uppi sem er Core 2 og annan, pentium, sem er 45nm og á 2,8 Ghz",
+            "date": "2009-10-18 00:32:00",
+            "post_id": "222713",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Hvati",
+            "text": "Ætti að ganga, báðir nota sama sökkulinn, LGA775, móðurborðið notar væntanlega þann sökkul þannig að já.",
+            "date": "2009-10-18 01:19:00",
+            "post_id": "222717",
+            "reply_to_id": "222713"
+        },
+        {
+            "user_name": "Nariur",
+            "text": "er það nóg?",
+            "date": "2009-10-18 02:05:00",
+            "post_id": "222718",
+            "reply_to_id": "222717"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Það er ekkert víst að hann virki. Hann passar auðvitað í sökkulinn en það er ekkert gefið að móðurborðið styðji 45nm örgjörva.\nÉg ráðlegg þér að senda email á msi support og spurja að þessu.",
+            "date": "2009-10-18 02:14:00",
+            "post_id": "222719",
+            "reply_to_id": "222718"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Flest öllu móðurborð bjóða upp á \"BIOS update\" sem leyfir borðum að nota 45nm kjarna. Ég einmitt þurfti að flassa minn bios til að styðja 5200.",
+            "date": "2009-10-18 06:07:00",
+            "post_id": "222722",
+            "reply_to_id": "222719"
+        },
+        {
+            "user_name": "Nariur",
+            "text": "það sem ég hélt, takk fyrir svörin",
+            "date": "2009-10-18 12:53:00",
+            "post_id": "222733",
+            "reply_to_id": "222722"
+        }
+    ],
+    "date": "2009-10-18 00:32:00"
+}

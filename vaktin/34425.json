@@ -1,0 +1,149 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "34425",
+    "title": "Wikileaks hackar-arnir",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=34425",
+    "posts": [
+        {
+            "user_name": "zdndz",
+            "text": "Var að velta fyrir út frá frétt sem sagði að það þurfti 300 manns til að taka niður mastercard síðuna en 2000 manns til að taka niður Visa síðuna. Þarf bara nógu mikinn fjölda tölvu til að ná niður síðu eða fer það ekki eftir \"færni\" hackarana? \nOg er einhver ákveðin leið sem þeir nota til að gera þetta eða reyna þeir að finna veikleika í síðunni og vinna sér út frá því ?",
+            "date": "2010-12-10 14:52:00",
+            "post_id": "302137",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "http://en.wikipedia.org/wiki/Denial-of-service_attack",
+            "date": "2010-12-10 14:57:00",
+            "post_id": "302139",
+            "reply_to_id": "302137"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Þetta fer aðallega eftir fjölda véla sem vinna saman að þessu, hvaða DDoS leiðir þeir eru að nota, og hversu öflugar varnirnar eru hjá hýsingaraðilum.",
+            "date": "2010-12-10 15:02:00",
+            "post_id": "302141",
+            "reply_to_id": "302139"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Er sekur.\nÞú skráir þig bara í ský af tölvum sem að stjórnandi skýsins notar svo til að senda 'service beiðnir' sem að geta aldrei verið servicaðar og því hrynur vefsíðan.\nÞað var annars manneskja þarna sem stjórnaði víst bara massífu botneti sem byrjaði þessa árás á Mastercard sem lét það falla á ~sekúndu og hætti síðan og skýið hélt áfram.",
+            "date": "2010-12-10 15:07:00",
+            "post_id": "302143",
+            "reply_to_id": "302141"
+        },
+        {
+            "user_name": "Dazy crazy",
+            "text": "Virkar þetta ekki svipað bara og folding@home?",
+            "date": "2010-12-10 16:22:00",
+            "post_id": "302159",
+            "reply_to_id": "302143"
+        },
+        {
+            "user_name": "zdndz",
+            "text": "þannig ég gæti verið með hundruðir tölva heima hjá mér (segjum svo) og tekið niður t.d. flestar íslenskar vefsíður ?\ner ekki hægt að rekja þetta eða?",
+            "date": "2010-12-10 16:26:00",
+            "post_id": "302160",
+            "reply_to_id": "302159"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Fjöldi tölva er algjörlega useless - það er fjöldi tenginga. \nOg jú það er auðvelt að 'rekja þetta' en vegna fjölda tenginga þá er það frekar vonlaust - og algengara en ekki að fólk sé bara með vírus og þú færð aldrei heimild til að gera 100+ tölvur upptækar.",
+            "date": "2010-12-10 16:28:00",
+            "post_id": "302161",
+            "reply_to_id": "302160"
+        },
+        {
+            "user_name": "dori",
+            "text": "Þegar vefþjónninn fer alveg niður hættir hann oft að logga (höndlar þetta bara ekki og leggst á hliðina). Ef það eru ekki til loggar nema um eitthvað smá í byrjun er rosalega erfitt að pinna eitthvað á þig.",
+            "date": "2010-12-10 16:34:00",
+            "post_id": "302162",
+            "reply_to_id": "302161"
+        },
+        {
+            "user_name": "biturk",
+            "text": "er það þá ekki öflugt vopn sem menn hafa í höndum ef að smáís og stef fara að derra sig meira? taka bara niður heimasíðurnar þeirra? komast síðann í bókhaldið þeirra og birta opinberlega svo allir sjái á svart og hvítu hverslags glæpamenn þetta eru",
+            "date": "2010-12-10 16:40:00",
+            "post_id": "302166",
+            "reply_to_id": "302162"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ekki það heimskulegasta sem hefur verið stungið upp á.",
+            "date": "2010-12-10 16:44:00",
+            "post_id": "302168",
+            "reply_to_id": "302166"
+        },
+        {
+            "user_name": "biturk",
+            "text": "ætla sosem ekkert að segja of mikið á opinni heimasíðu sem gæti skaðað einhvern þar sem þessir menn eru án efa að kíkja inn á vaktina öðru hverju.....\nen mér þætti ekki leiðinlegt að vita af því að þetta væri gert og án efa margir hér sem myndu vilja taka þátt í því",
+            "date": "2010-12-10 16:47:00",
+            "post_id": "302169",
+            "reply_to_id": "302168"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Verst að fyrri parturinn er með öllu gagnslaus, það myndi ekki skaða STEF né Smáís á neinn hátt að DOSa síðuna þeirra þó þær færu niður.",
+            "date": "2010-12-10 16:56:00",
+            "post_id": "302173",
+            "reply_to_id": "302169"
+        },
+        {
+            "user_name": "dori",
+            "text": "Þeir þurfa að gefa út ársreikninga og slíkt er það ekki? Svo notar enginn þessar síður þeirra hvort eð er þannig að ég held að við værum bara að hjálpa þeim með því að búa til fréttaumfjöllun um þessa leiðindaskarfa.",
+            "date": "2010-12-10 16:57:00",
+            "post_id": "302174",
+            "reply_to_id": "302173"
+        },
+        {
+            "user_name": "biturk",
+            "text": "eftir því sem ég best veit eru þeir undanþegnir því?\nallavega las ég það fyrir nokkrum mánuðum að þeir hefðu ekki hert það í mörg ár",
+            "date": "2010-12-10 16:58:00",
+            "post_id": "302175",
+            "reply_to_id": "302174"
+        },
+        {
+            "user_name": "dori",
+            "text": "Það getur vel verið. Ég nenni ekki að fylgjast með þessum mönnum. Verð alltaf reiður þegar ég hugsa um þá.",
+            "date": "2010-12-10 17:01:00",
+            "post_id": "302176",
+            "reply_to_id": "302175"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "http://www.stef.is/STEF/AlmennarUpplysi ... eikningar/\nÁrsreikning SMÁÍS er farið yfir á aðalfundi sem fer fram fyrir 1. maí hvers dagatalsárs, ég veit ekki hvort hann er opinn eða ekki en SMÁÍS er ekki opinber aðili og ég efa því að þeim beri skylda að gefa þér... neinar upplýsingar.",
+            "date": "2010-12-10 17:03:00",
+            "post_id": "302177",
+            "reply_to_id": "302176"
+        },
+        {
+            "user_name": "gardar",
+            "text": "http://translate.google.com/translate?j ... allen.html",
+            "date": "2010-12-10 17:05:00",
+            "post_id": "302180",
+            "reply_to_id": "302177"
+        },
+        {
+            "user_name": "intenz",
+            "text": "ping...pong...",
+            "date": "2010-12-10 17:21:00",
+            "post_id": "302184",
+            "reply_to_id": "302180"
+        },
+        {
+            "user_name": "Black",
+            "text": "ég var að fylgjast með þessu öllusaman á /b/ þeir notuðu einhvað ddos forrit man ekki hvað það heitir ;þ",
+            "date": "2010-12-10 17:46:00",
+            "post_id": "302195",
+            "reply_to_id": "302184"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Low Orbit Ion Cannon, Hive Mind LOIC til að þeir gætu co-ordinatað.",
+            "date": "2010-12-10 17:49:00",
+            "post_id": "302197",
+            "reply_to_id": "302195"
+        }
+    ],
+    "date": "2010-12-10 14:52:00"
+}

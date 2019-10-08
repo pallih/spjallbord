@@ -1,0 +1,44 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "12955",
+    "title": "Þráðlausa netið hegðar sér undarlega.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=12955",
+    "posts": [
+        {
+            "user_name": "Tappi",
+            "text": "Sælir vaktarar.\n\n\n\nÉg er með þráðlausann router frá símanum (speedtouch 585). Er með hann tengdann með netsnúru í switch sem tengir 2 tölvur og 1 prentara við netið. Allt virkar vel nema fartölvan sem er með þráðlaust 11mbps (802.11b) netkort. Ég næ alltaf að tengjast routernum með full strength en fæ yfirleitt ekkert netsamband, samt stundum. En ef ég stilli static ip addressu þá er þetta ekkert vandamál! \n\nHefur einhver snillingur hugmynd hvað þetta gæti verið?",
+            "date": "2007-01-24 20:41:00",
+            "post_id": "136738",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Xyron",
+            "text": "á ekki að vera neinn munur á netsambandinu milli static og obtain",
+            "date": "2007-01-28 16:58:00",
+            "post_id": "137139",
+            "reply_to_id": "136738"
+        },
+        {
+            "user_name": "smuddi",
+            "text": "hafðu þá bara static og vandamálið leyst",
+            "date": "2007-01-29 19:34:00",
+            "post_id": "137231",
+            "reply_to_id": "137139"
+        },
+        {
+            "user_name": "Tappi",
+            "text": "Það er bara frekar pirrandi að þurfa alltaf að stilla aftur á static þegar ég er heima. Er nefnilega með hana mikið á flakkinu.",
+            "date": "2007-01-29 19:37:00",
+            "post_id": "137232",
+            "reply_to_id": "137231"
+        },
+        {
+            "user_name": "corflame",
+            "text": "Hægt að hafa alternate stillingu, þ.e. að skilgreina static IP þar \n\n\n\n\nVelur bara alternate configuration flipann í tcp-ip propertis og setur static IP þar.",
+            "date": "2007-01-30 16:00:00",
+            "post_id": "137346",
+            "reply_to_id": "137232"
+        }
+    ],
+    "date": "2007-01-24 20:41:00"
+}

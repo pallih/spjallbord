@@ -1,0 +1,44 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "43619",
+    "title": "network bridge fyrir meiri hraða ?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=43619",
+    "posts": [
+        {
+            "user_name": "kubbur",
+            "text": "gæti ég tengt 2 lan snúrur í tölvuna og bridgað networkin til að fá meiri hraða á networkinu til og frá minni tölvu ?\ner þetta hægt á win 7 ?\ner þetta hægt á ubuntu server ?",
+            "date": "2011-11-30 20:12:00",
+            "post_id": "400793",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "nei",
+            "date": "2011-11-30 20:25:00",
+            "post_id": "400796",
+            "reply_to_id": "400793"
+        },
+        {
+            "user_name": "einarth",
+            "text": "Sæll.\nNei - þú notar ekki \"bridging\" til að auka hraðan á netinu þínu - það er notað til að samtengja tvö ótengd netkerfi gegnum tölvuna þína.\nÞað eru til aðrar leiðir til að gera þetta - oftast með aðstoð drivera fyrir netkortið.\nSjá: \nhttp://en.wikipedia.org/wiki/Link_aggregation\nKv, Einar.",
+            "date": "2011-11-30 20:27:00",
+            "post_id": "400798",
+            "reply_to_id": "400796"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Fá sér gigabit netkort og hub/router?",
+            "date": "2011-11-30 21:59:00",
+            "post_id": "400825",
+            "reply_to_id": "400798"
+        },
+        {
+            "user_name": "kubbur",
+            "text": "dýrt",
+            "date": "2011-11-30 23:38:00",
+            "post_id": "400902",
+            "reply_to_id": "400825"
+        }
+    ],
+    "date": "2011-11-30 20:12:00"
+}

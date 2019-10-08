@@ -1,0 +1,156 @@
+{
+    "forum_title": "Símar, fartölvur, myndavélar og önnur farandstæki",
+    "id": "80392",
+    "title": "[Leyst] iPhone X ræsir sig ekki",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=26&t=80392",
+    "posts": [
+        {
+            "user_name": "GuðjónR",
+            "text": "Lenti í því í gær að minnið í símanum fylltist og þegar ég ætlaði að eyða út öppum og myndum gegnum settings þá crassaði appið aftur og aftur þannig að ég gerði force-restart sem endaði þannig að núna kemst hann ekki yfir Apple logoið. Bara stuck þar. Get reyndar slökkt á honum en ekki ræst hann upp á homescreen.\nEinhver einföld lausn við þessu annað en force-reset sem þýðir að ég tapa öllum myndunum?",
+            "date": "2019-10-05 12:26:00",
+            "post_id": "695220",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "ChopTheDoggie",
+            "text": "Ertu búin að prófa tengjast við iCloud og tekkað hvort eitthvað gerist?\nGetur prófað að setja hann í recovery mode líka. \nhttps://youtu.be/W-yFltce5so",
+            "date": "2019-10-05 12:36:00",
+            "post_id": "695221",
+            "reply_to_id": "695220"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Það gerist ekkert ef ég tengist iTunes. En ef ég nota leiðbeiningarnar í linknum að ofan þá fæ ég restore möguleika í iTunes, gallinn er bara sá að ég tapa myndunum. Þarf einhvernvegin að recovera án þess að tapa þeim eða ná þeim fyrst ef það er séns.",
+            "date": "2019-10-05 13:14:00",
+            "post_id": "695224",
+            "reply_to_id": "695221"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Viss.is",
+            "date": "2019-10-05 15:48:00",
+            "post_id": "695229",
+            "reply_to_id": "695224"
+        },
+        {
+            "user_name": "Tiger",
+            "text": "Ertu ekki með iCloud backup af öllu? Hann bakkar sig upp daglega yfir nóttina ef allt er gert rétt og þú ættir ekki að tapa neinu.",
+            "date": "2019-10-05 16:55:00",
+            "post_id": "695233",
+            "reply_to_id": "695229"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Ég ætti að geta redda þessu sjálfur, það eru til allskonar restore forrit... bara spurning hvað maður ætti að velja.",
+            "date": "2019-10-05 16:57:00",
+            "post_id": "695234",
+            "reply_to_id": "695233"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Nei því miður ekki, þetta er sími konunnar og ég hef ekkert spáð í backupmálunu hjá henni, heilt ár af myndum þarna svo ég verð að bjarga þessu.",
+            "date": "2019-10-05 17:06:00",
+            "post_id": "695235",
+            "reply_to_id": "695234"
+        },
+        {
+            "user_name": "Squinchy",
+            "text": "Þetta minnir mig á gamlan en mjög svo góðann sketch\nhttps://youtu.be/MVwbhsqEyNI?t=134\nEn miðað við mína starfsreynslu með IOS þá hef ég ekki séð tæki koma til baka frá þessu ástandi gegnum itunes, spurning með 3rd party program",
+            "date": "2019-10-05 20:13:00",
+            "post_id": "695243",
+            "reply_to_id": "695235"
+        },
+        {
+            "user_name": "olihar",
+            "text": "Ég hef notað \nhttps://www.ecamm.com/mac/phoneview/\n í að ná gögnum af iPhone.",
+            "date": "2019-10-05 20:26:00",
+            "post_id": "695244",
+            "reply_to_id": "695243"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Takk allir fyrir gefin ráð, en mér tókst að fixa þetta ótrúlega furðulegan hátt!\nVar búinn að prófa allt nema 3d party forrit og það var næst á dagskrá, nema hvað ég ákvað að plögga símanum við iTunes í windows fartölvu en ekki macos á iMac eins og ég var ítrekað búinn að reyna án árangurs og wollah!\nEinhver glitch eða eitthvað, en windows útgáfan af itunes bauð ekki bara upp á reset heldur líka update sem ég valdi og 5 mínútum síðar var allt up'n'running.\nBACKUP BACKUP BACKUP núna!",
+            "date": "2019-10-06 15:05:00",
+            "post_id": "695263",
+            "reply_to_id": "695244"
+        },
+        {
+            "user_name": "olihar",
+            "text": "Sko Windows, alveg með þetta.",
+            "date": "2019-10-06 17:12:00",
+            "post_id": "695267",
+            "reply_to_id": "695263"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Reyndar í þetta sinn",
+            "date": "2019-10-06 18:02:00",
+            "post_id": "695268",
+            "reply_to_id": "695267"
+        },
+        {
+            "user_name": "urban",
+            "text": "Ertu búin að því ?",
+            "date": "2019-10-06 19:05:00",
+            "post_id": "695272",
+            "reply_to_id": "695268"
+        },
+        {
+            "user_name": "Tiger",
+            "text": "Ég er með 2TB hjá Apple, borga rétt um 1000kr á mánuði og öll familían er save með sínar myndir og skjöl, piece of mind. \nEf síminn færi í sjóinn, væri ég kominn með allt up and running á nokkrum mínútum á nýjum síma, allt eins og ekkert glatast.",
+            "date": "2019-10-06 20:07:00",
+            "post_id": "695277",
+            "reply_to_id": "695272"
+        },
+        {
+            "user_name": "HalistaX",
+            "text": "Ertu þá með endalaust niðurhal hjá Nova eða eitthvað svoleiðis og notar mobile data til þess að backup'a allt shittið á sekúnduni sem þú t.d. tekur myndina? \nÉg er nefninlega bara með Dropbox, One Drive og Google Drive, er með 2TB hjá Dropbox, það er það eina sem ég borga fyrir en er samt ekki big spender að eyða gagnamagni í þetta, nota frekar Wifi og only when charging.... Kannski maður ætti að splæsa bara í endalaust niðurhal... Ætlaði alltaf að gera það þegar ljósleiðarinn kæmi, fá þá ljós og endalaust gagnamagn í símann á einhverjar 10k sléttar í einhverju combo tilboði, en ljósleiðarinn átti að vera kominn í Ágúst en er ekki kominn enþá.... Sem er smá bömmer...",
+            "date": "2019-10-06 20:10:00",
+            "post_id": "695278",
+            "reply_to_id": "695277"
+        },
+        {
+            "user_name": "Tiger",
+            "text": "Ég er með 50GB á mánuði og konan líka þannig að já allt backast up strax og dugar það alltaf, fáir mánuðir sem ég tek meira en 50GB worth of photos. Síminn hjá syninum stillt þannig að þetta backast bara upp þegar hann er á wifi.",
+            "date": "2019-10-06 20:23:00",
+            "post_id": "695280",
+            "reply_to_id": "695278"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Ójá!\nÞú kíkir greinilegta sjaldan á vísa reikninginn \n1550 kr. kosta 2TB en 200GB kosta 460 kr. á mánuði (miðað við $@125 kr.)\nÆtla að prófa 200GB og sjá hvernig það dugar, það er family share'ing á því. \nÓþarfi að geyma allt í skýinu alveg hægt að importa reglulega í tölvu og taka backup af því á TimeMachine.\nÉg myndi aldrei nota 4G í svona backup, alveg nóg að gera þetta með wi-fi á nóttunni.",
+            "date": "2019-10-06 21:06:00",
+            "post_id": "695284",
+            "reply_to_id": "695280"
+        },
+        {
+            "user_name": "Tiger",
+            "text": "$9.99 er rétt rúmlega 1200kr hjá mér sko",
+            "date": "2019-10-07 08:36:00",
+            "post_id": "695298",
+            "reply_to_id": "695284"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "$12.39 eru ~ 1550kr hjá mér, ertu með einhvern sérdíl hjá Apple??",
+            "date": "2019-10-07 09:14:00",
+            "post_id": "695299",
+            "reply_to_id": "695298"
+        },
+        {
+            "user_name": "Tiger",
+            "text": "Hef verið með US acccont í 12 ár, held því bara áfram og spara",
+            "date": "2019-10-07 12:44:00",
+            "post_id": "695306",
+            "reply_to_id": "695299"
+        },
+        {
+            "user_name": "russi",
+            "text": "Útskýring á þessum verðmun er ekki sú að það sé \"dýrara\" að vera í Íslenska App-storinu, heldur sú að Apple rukkar skattinn fyrir íslenska ríkið í þessu tilfelli. Þetta gerist líka í sumum USA-app store og í öðrum löndum, það sem gerist aftur á móti í USA appstorum að í sumum fylkjum er ekki skattur.\nÞannig ef Tiger er t.d. í Californiu eða Delaware þá er hann ekki rukkaður um skatt, önnur fylki gætu rukkað hann, minnir t.d. að allavega annað Washington fylkið rukkar skatt af öppum",
+            "date": "2019-10-07 13:24:00",
+            "post_id": "695308",
+            "reply_to_id": "695306"
+        }
+    ],
+    "date": "2019-10-05 12:26:00"
+}

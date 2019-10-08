@@ -1,0 +1,58 @@
+{
+    "forum_title": "Windows",
+    "id": "53523",
+    "title": "Outlook á vinnustað",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=53523",
+    "posts": [
+        {
+            "user_name": "ZiRiuS",
+            "text": "Ég vinn á skrifstofu með 3 öðrum þar sem við erum að svara tölvupóstum úr sameiginlegu emaili. Nú er ég ekki mikill Outlook fan en við erum að leita að einhverju til að auðvelda samskiptin við viðskiptavini, þeas ekki svara aðilanum 2x og eitthvað svona, sá samskiptasöguna í öllum tölvunum, möppur og annað slík. Er það hægt? Er það bara Outlook server sem við tengjum? Er mál að setja þannig upp?\nÞakka svörin.",
+            "date": "2013-02-21 10:11:00",
+            "post_id": "496578",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Plushy",
+            "text": "Það er hægt að merkja við pósta með mismunandi litum. Þú getur þá t.d. verið blár, annar grænn og hinn fjólublár. Þið getið með því flokkað hver er að skoða hvaða mál, og t.d. búið síðan til \"Afgreitt\" möppu sem þið færið svaraðan póst í.\nHeld það þyrfti að vera server sem heldur utanum allan póst sem þið getið svo tengst við.",
+            "date": "2013-02-21 10:41:00",
+            "post_id": "496579",
+            "reply_to_id": "496578"
+        },
+        {
+            "user_name": "ZiRiuS",
+            "text": "Já basic Outlook dæmi eins og að merkja, flokka og allt það kann ég. Ég er meira að pæla í tæknilegu hliðinni, þeas hvernig sé hægt að setja upp svona server. Er ekki enterprise útgáfan rándýr?",
+            "date": "2013-02-21 10:46:00",
+            "post_id": "496580",
+            "reply_to_id": "496579"
+        },
+        {
+            "user_name": "playman",
+            "text": "fyrir e-mailin hef ég alltaf notað \"windows live mail\" \nsvo til þess að þið séuð ekki alltaf að svara sama aðilanum tvisvar os.f. þá verðiði að synca póstforritin, þá þarftu að stilla póstforritið á IMAP, en\nþið eruð örugglega með það stillt á POP3, sem gerir það að verkum að sá sem sækir póstin tekur hann af servernum og einginn annar fær hann.\nMeð IMAP geymast allir póstar á servernum og allir hafa aðgang að öllum póstum, sendum póstum og os.f. , semsagt sync.\nEf þið eruð með skjöl sem að þurfa að vera syncuð líka, þá eru mörg forrit í boði.\nHef ekki skoðað það í win7, en mig minnir að það hafi verið innbygt forrit sem kallaðist \"briefcase\" í windows xp, það var allaveganna í windows 98",
+            "date": "2013-02-21 10:48:00",
+            "post_id": "496582",
+            "reply_to_id": "496580"
+        },
+        {
+            "user_name": "playman",
+            "text": "Til hvers að setja upp server þegar að þið eruð þegar með server (internet þjónustu aðilinn ykkar) ? bara spyr.\nÉg hugsa að allar lausnir sem þið þurfið eru við hendina, bara spurning að finna þær og nota.",
+            "date": "2013-02-21 10:52:00",
+            "post_id": "496583",
+            "reply_to_id": "496582"
+        },
+        {
+            "user_name": "ZiRiuS",
+            "text": "Ég hugsaði ekki út í IMAP, snilld. Tjékka á þessu takk.",
+            "date": "2013-02-21 11:12:00",
+            "post_id": "496585",
+            "reply_to_id": "496583"
+        },
+        {
+            "user_name": "Dagur",
+            "text": "http://www.google.com/enterprise/apps/business/",
+            "date": "2013-02-22 11:11:00",
+            "post_id": "496820",
+            "reply_to_id": "496585"
+        }
+    ],
+    "date": "2013-02-21 10:11:00"
+}

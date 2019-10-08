@@ -1,0 +1,79 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "30653",
+    "title": "Alveg fyrirmunað að uploada!",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=30653",
+    "posts": [
+        {
+            "user_name": "McArnar",
+            "text": "Sælir vaktarar\nÉg er í smá vandræðum. Fyrir nokkrum vikum hætti ég að geta uploadað í gegnum torrent. Var að uploada innanlands í um 3MB/s eins og ekkert væri og 1,5MB/s erlend, en núna er ég ekki að ná tengingu. Þetta gildir bæði um erlend og innlent.\nVar með annan router þegar þetta byrjaði og skipti en það skipti engu.\nDonwload virkar vel og ég get seedað meðan ég downloada en eftir það ekkert. Ef ég get uploadað þá er hraðinn kannski 30kb/s og stoppar svo\nEr búinn að fara í gegnum allar stillingar. Prufa mismunandi forrit (Vuze & Utorrent)\nSett eina vél sem ég var með upp á nýtt og prufaði það.\nEr búinn að fara í gegnum Log á bæði Vuze og utorrent og þar stendur að allt sé í lagi.\nGetur verið að vodafone sé bara gjörsamlega að cappa alla torrent trafík hjá mér eða eru þið með einhverjar hugmyndir??\nPortforwardin er rétt enda hefur það ekki breyst neitt. Farstar ip á vélunum og ekkert breyst þar.",
+            "date": "2010-06-10 18:40:00",
+            "post_id": "266345",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Hvati",
+            "text": "Helvítis hnakki maður!",
+            "date": "2010-06-10 18:44:00",
+            "post_id": "266346",
+            "reply_to_id": "266345"
+        },
+        {
+            "user_name": "McArnar",
+            "text": "Hehe i had that coming...",
+            "date": "2010-06-10 18:50:00",
+            "post_id": "266347",
+            "reply_to_id": "266346"
+        },
+        {
+            "user_name": "BjarkiB",
+            "text": "Er í eitthver að ná í torrentið?",
+            "date": "2010-06-10 19:29:00",
+            "post_id": "266354",
+            "reply_to_id": "266347"
+        },
+        {
+            "user_name": "Leviathan",
+            "text": "Það er allavega hæpið að það sé enginn af þessum 105 peers að reyna að sækja þetta.  \n Er protocol encryption nokkuð á forced?",
+            "date": "2010-06-10 19:34:00",
+            "post_id": "266355",
+            "reply_to_id": "266354"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Þetta sýnir ekki fram á neitt, það er mjög sjaldan sem einhver er sækjandi frá mér á svona torrentum sem eru með ~1:~1 seed/leech ratio og ég er með 50Mb ljós og langbesta routerinn",
+            "date": "2010-06-10 19:36:00",
+            "post_id": "266356",
+            "reply_to_id": "266355"
+        },
+        {
+            "user_name": "McArnar",
+            "text": "Þetta er nú bara eitt dæmið. Er með torrent á mediacenter vélinni og þar eru um 30 torrent og öll á 2-3kb/s. Var 1,5MB/s.\nFór inn á \nhttp://broadband.mpi-sws.org/transparency/bttest.php\n(síða sem tékker throttling) og niðurstaðan er að vodafone séu ekki að cappa.\nEr búinn að fara yfir allar troubleshooting síður hjá utorrent liðinu. \n@Leviathan\nEr búinn að prufa allar stillingar á protocol encryption og það breytir engu.",
+            "date": "2010-06-10 19:45:00",
+            "post_id": "266359",
+            "reply_to_id": "266356"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Örugglega búinn að prófa að senda inn eitthvað sjálfur?\nÓtrúlegt en satt hef ég líka verið með torrent á seedvélinni og þegar ég gerði Stop og svo Start einu sinni þá hélt ekki eitt einasta áfram að deilast, þó það hefði verið 5MB/s seed nokkrum klst áður.",
+            "date": "2010-06-10 20:14:00",
+            "post_id": "266367",
+            "reply_to_id": "266359"
+        },
+        {
+            "user_name": "urban",
+            "text": "Prufaðu að skipta um port hjá þér.",
+            "date": "2010-06-10 20:19:00",
+            "post_id": "266370",
+            "reply_to_id": "266367"
+        },
+        {
+            "user_name": "McArnar",
+            "text": "Búinn að skipta um 3 mismunandi port...virkar ekki\nætla að prufa að uploada",
+            "date": "2010-06-10 20:52:00",
+            "post_id": "266374",
+            "reply_to_id": "266370"
+        }
+    ],
+    "date": "2010-06-10 18:40:00"
+}

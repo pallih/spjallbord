@@ -1,0 +1,44 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "18270",
+    "title": "Krassar á myndbandsspilun!",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=18270",
+    "posts": [
+        {
+            "user_name": "Valdimar",
+            "text": "Góðan dag\nÉg keypti samsetta tölvu á computer.is í febrúar 2008. Ég hef átt vandamál með að spila video brot: Avi file, (mpeg einnig). Þegar ég spila myndbönd þá  kemur stundum fyrir að myndböndin krassa, en það er mjög handahófskennt. Þá þarf ég að slökkva á tölvunni með valdi því tölvan frís allgjörlega. Ég hef installað allskonar video codecs (, t.d. k-lite codec pack) og nýjasta drivernum fyrir skjákortið en myndböndin krassa samt.\nLýsing á \"krassinu\": Músabendillinn verður allt í einu margskiptur (fyrsta ummerki), á sama tíma koma litarendur á myndina og 5-6 sekúntum síðar frís tölvan allgörlega (þá þarf að slökkva með valdi).\nÉg tel að þetta sé líklega nýja skjákortið (kemur svo sem ekkert annað til greina) sem ég keypti en það er GeForce 8800 GTS 512. Kannski er skjákortið gallað.\nÉg átti ekkert vandamál með að spila myndbönd á gömlu tölvunni minn sem ég átti á undan þessari. Skjákortið var GeForce FX 5900 Ultra. \nVélbúnaður minn:\n------------------\nTime of this report: 6/7/2008, 17:05:49\n       Machine name: KOPHOLMI\n   Operating System: Windows XP Professional (5.1, Build 2600) Service Pack 2 (2600.xpsp_sp2_gdr.070227-2254)\n           Language: English (Regional Setting: Icelandic)\nSystem Manufacturer: NVIDIA\n       System Model: 132-CK-NF78\n               BIOS: Phoenix - AwardBIOS v6.00PG\n          Processor: Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz (2 CPUs)\n             Memory: 2046MB RAM\n          Page File: 376MB used, 3562MB available\n        Windows Dir: C:\\WINDOWS\n    DirectX Version: DirectX 9.0c (4.09.0000.0904)\nDX Setup Parameters: Not found\n     DxDiag Version: 5.03.2600.2180 32bit Unicode\n---------------\nDisplay Devices\n---------------\n        Card name: NVIDIA GeForce 8800 GTS 512\n     Manufacturer: NVIDIA\n        Chip type: GeForce 8800 GTS 512\n         DAC type: Integrated RAMDAC\n       Device Key: Enum\\PCI\\VEN_10DE&DEV_0600&SUBSYS_23321682&REV_A2\n   Display Memory: 512.0 MB\n     Current Mode: 1280 x 1024 (32 bit) (75Hz)\n          Monitor: Fujitsu Siemens B19-2\n  Monitor Max Res: 1280,1024\n      Driver Name: nv4_disp.dll\n   Driver Version: 6.14.0011.6921 (English)\n      DDI Version: 9 (or higher)\nDriver Attributes: Final Retail\n Driver Date/Size: 12/5/2007 01:41:00, 5773568 bytes\n      WHQL Logo'd: Yes\n  WHQL Date Stamp: n/a\n              VDD: n/a\n         Mini VDD: nv4_mini.sys\n    Mini VDD Date: 12/5/2007 01:41:00, 7435392 bytes\nDevice Identifier: {D7B71E3E-4540-11CF-3B6E-390303C2CB35}\n        Vendor ID: 0x10DE\n        Device ID: 0x0600\n        SubSys ID: 0x23321682\n      Revision ID: 0x00A2\n      Revision ID: 0x00A2\n      Video Accel: ModeMPEG2_C ModeMPEG2_D ModeWMV9_B ModeWMV9_A \n Deinterlace Caps: {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive \n                   {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch \n                   {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(UYVY,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive \n                   {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(UYVY,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch \n                   {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(YV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive \n                   {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch \n                   {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive \n                   {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch \n         Registry: OK\n     DDraw Status: Enabled\n       D3D Status: Enabled\n       AGP Status: Enabled\nDDraw Test Result: Not run\n D3D7 Test Result: Not run\n D3D8 Test Result: Not run\n D3D9 Test Result: Not run",
+            "date": "2008-06-07 17:09:00",
+            "post_id": "175841",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Blackened",
+            "text": "Á við sama vandamál að stríða.. með sama skjákort og örgjörva og þú.. en mér skilst að þetta sé galli í móðurborðinu.. þaðer chipsettinu.. nVidia séu bara í ruglinu með þetta\nVeit ekki hvort að það er einhver lausn við þessu.. er með Vista x64\nþetta gerist svo sjaldan að ég nenni varla að pirra mig á því.. en það væri samt gaman ef að einhver lumaði á lausn við þessu annars leiðinlega vandamáli",
+            "date": "2008-06-07 19:02:00",
+            "post_id": "175851",
+            "reply_to_id": "175841"
+        },
+        {
+            "user_name": "Zorglub",
+            "text": "Þetta er viðurkennt vandamál með 780 kubbasettið, einfaldlega sett gallað á markað.  Það hefur verið hægt að fara í kringum þetta en það var hinsvegar (loksins) að detta í hús bios uppfærsla sem lagar málið.  Þannig að annaðhvort nærðu í uppfærsluna á heimasíðu borðsins og flassar, eða ferð með hana í computer og lætur þá gera það fyrir þig (ætti að vera frítt þar sem þetta er galli)\nAf heimasíðu evga.\nP05 Updates: \nResolves graphics corruption issues when playing videos with certain 780i and GPU configurations.\nUSB / SATA compatibility improvements\nASUS Sonar card detection fix\nCPU Multiplier reporting fix\nPCI Express performance improvements\nEnhanced save/restore of overclocking profiles\nSLI Memory option disabled for 4 DIMM configuration (config is not supported, but users are free to overclock on their own)\nUpdated microcode for upcoming CPUs\nBIOS updating can be accomplished VIA the below methods:",
+            "date": "2008-06-07 22:09:00",
+            "post_id": "175863",
+            "reply_to_id": "175851"
+        },
+        {
+            "user_name": "Blackened",
+            "text": "Ég er verandi með 750 borð.. er ennþá screwed eða? næ ekki sambandi við Asus uppfærsluþjónana",
+            "date": "2008-06-07 23:30:00",
+            "post_id": "175868",
+            "reply_to_id": "175863"
+        },
+        {
+            "user_name": "Valdimar",
+            "text": "Þetta eru góðar fréttir. Það var þá móðurborðið eftir allt saman. Man það núna að ég keypti það í Tölvutækni. Fer með tölvuna í dag og læt þá flassa BIOSið.\nÞakka ykkur fyrir",
+            "date": "2008-06-09 10:51:00",
+            "post_id": "175959",
+            "reply_to_id": "175868"
+        }
+    ],
+    "date": "2008-06-07 17:09:00"
+}

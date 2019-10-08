@@ -1,0 +1,58 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "35724",
+    "title": "2 Myndlyklar hjá Vodafone",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=35724",
+    "posts": [
+        {
+            "user_name": "Jimmy",
+            "text": "Sælir,\nég á 1 stk frænda sem er með áskrift að stöð2 og einhverjum pakka í gegnum ljósleiðarann hjá vodafone.\nNýjasta hugdettan hjá honum er að vera með 2 myndlykla, einn inní stofu og einn inní svefnherbergi.\nHann segir að það virki hjá sér að tengja þá báða beint með cat kapli og þá fær hann mynd á þá báða, en þegar hann prófar að tengja annan myndlykilinn með svona ethernet over power græjum frá Planet, þá stoppar myndlykillinn í einhverri prósentutölu í 'loading' og hann fær aldrei neina mynd.\nEru ethernetoverpower gæjarnir einfaldlega ekki að höndla bitrateið þrátt fyrir að vera 200mbps ?\nRaflagnirnar hjá honum að fokka þessu upp? Alls ekkert svo gamalt hús(að ég held)\nVæri geðveikt ef einhver spekingurinn kæmi með undralausn, ég nenni ekki uppá skaga að skoða þetta hjá honum",
+            "date": "2011-01-25 22:25:00",
+            "post_id": "315932",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "hagur",
+            "text": "Síminn og Vodafone selja svona ethernet over power gæja í akkúrat þessum tilgangi þannig að þeir eiga að duga fínt.\nÉg myndi frekar skjóta á að raflagnirnar hjá honum séu að valda þessu.",
+            "date": "2011-01-25 22:41:00",
+            "post_id": "315938",
+            "reply_to_id": "315932"
+        },
+        {
+            "user_name": "Starman",
+            "text": "hmm, sko , þegar myndlykillinn er ræstur og fær ekkert samband þ.e.a.s. nær ekki sambandi við DHCP og fær ekki úthlutað IP stillingum þá kemur upp einhver mynd á skjáinn (hvít minnir mig) þar sem stendur Amino og Opera browser og  bla,bla verison. En í þessu tilviki virðist myndlykillinn fá úthlutað IP stillingum og byrjaður að downloada firmware. Mig grunar að þetta sé að stoppa/hiksta þegar myndin á svo að koma. Besta leiðin til að bilanagreina þetta er að tengja 2 tölvur á sitt hvoran endan á þessu \"ethernet over powerlines\" og nota\nIperf \nhttp://sourceforge.net/projects/iperf/\n til að mæla raunverulega hraðann sem fæst í gegnum þetta rafmagnsdrasl.\nTil að fá sem mestan hraða í gegnum svona rafmagns dót þá er best að tengja þetta beint í rafmagnsinnstungu í vegg, þ.e.a.s. ekki í fjöltengi, allar óþarfa aukatengingar draga úr hraða.",
+            "date": "2011-01-25 22:49:00",
+            "post_id": "315941",
+            "reply_to_id": "315938"
+        },
+        {
+            "user_name": "Jimmy",
+            "text": "Tengt beint í vegg báðum megin, lét hann tengja lappa við þetta þar sem myndlykillinn á að vera og hann sagðist vera að fá ágætis hraða, svosum ekki mest scientific test á þessu, en ég tók það gott og gilt \nEn jæja, ætli ég þurfi þá ekki bara að dröslast uppeftir og kapla hann upp.",
+            "date": "2011-01-25 22:55:00",
+            "post_id": "315946",
+            "reply_to_id": "315941"
+        },
+        {
+            "user_name": "Starman",
+            "text": "er þetta ekki örugglega aðskilin net hjá honum þ.e.a.s. TV og Internetið ?",
+            "date": "2011-01-25 22:57:00",
+            "post_id": "315950",
+            "reply_to_id": "315946"
+        },
+        {
+            "user_name": "Starman",
+            "text": "svo er líka hægt að tengja tölvu við TV-netið , spoofa mac addressuna á amino lyklinum og nota þennan playlista hér fyrir neðan í VLC.\nVista sem .m3u skrá.\n#EXTM3U\n#EXTINF:0,999 - Rúv+\nudp://@239.109.1.47:5500\n#EXTINF:0,1 - Rúv\nudp://@239.109.1.1:5500\n#EXTINF:0,2 - Stöð 2\nudp://@239.109.2.30:5500\n#EXTINF:0,5 - Stöð 2 extra\nudp://@239.109.2.34:5500\n#EXTINF:0,6 - Nova TV\nudp://@239.109.2.36:5500\n#EXTINF:0,7 - Skjár 1\nudp://@239.109.1.46:5500\n#EXTINF:0,9 - Stöð 2 sport\nudp://@239.109.2.32:5500\n#EXTINF:0,11 - Stöð 2 sport3\nudp://@239.109.2.37:5500\n#EXTINF:0,20 - ÍNN \nudp://@239.109.2.40:5500\n#EXTINF:0,21 - Ómega\nudp://@239.110.2.16:5500\n#EXTINF:0,22 - Discovery\nudp://@239.109.2.4:5500\n#EXTINF:0,29 - N4\nudp://@239.109.2.13:5500\n#EXTINF:0,30 - Sky News\nudp://@239.110.1.2:5500\n#EXTINF:0,37 - CCTV News\nudp://@239.109.1.18:5500\n#EXTINF:0,38 - Stöð 1\nudp://@239.109.1.11:5500\n#EXTINF:0,64 - Cartoon Network\nudp://@239.110.2.2:5500\n#EXTINF:0,70 - DR1\nudp://@239.110.1.16:5500\n#EXTINF:0,72 - SVT1\nudp://@239.110.1.15:5500\n#EXTINF:0,98 - Alþingi\nudp://@239.110.2.19:5500\n#EXTINF:0,121 - Bylgjan\nudp://@239.109.1.21:5500\n#EXTINF:0,122 - FM957\nudp://@239.109.1.22:5500\n#EXTINF:0,124 - Rondo\nudp://@239.109.1.24:5500\n#EXTINF:0,125 - Léttbylgjan\nudp://@239.109.1.25:5500\n#EXTINF:0,126 - Latibær\nudp://@239.109.1.26:5500\n#EXTINF:0,127 - BBC World Service\nudp://@239.109.1.27:5500\n#EXTINF:0,128 - X-ið\nudp://@239.109.1.28:5500\n#EXTINF:0,130 - Gullbylgjan\nudp://@239.109.1.30:5500\n#EXTINF:0,131 - Rás 1\nudp://@239.109.1.31:5500\n#EXTINF:0,132 - Rás 2\nudp://@239.109.1.32:5500\n#EXTINF:0,133 - Kaninn\nudp://@239.109.1.33:5500\n#EXTINF:0,998 - Nýtt í leigunni\nudp://@239.110.2.31:5500",
+            "date": "2011-01-25 23:00:00",
+            "post_id": "315952",
+            "reply_to_id": "315950"
+        },
+        {
+            "user_name": "codec",
+            "text": "Þetta ætti að virka hjá honum, bara passa að tengja beint í vegg.   Bitrate sem er gefið upp er theoretical max, en þú færð aldrei það í raun hraða þar sem heilmikið púður fer í error correction oþh.  þú færð kannski svona 30-60% , það fere mikið eftir gæðum raflagna en það ætti samt að duga.\nÞað var vesen hjá mér fyrst, en eftir að ég uppfærði firmware á power ethernet dótinu þá fór þetta í lag hjá mér.\nÉg tengi úr telsey (ljósleiðaraboxinu) beint í switch og úr honum beint í afruglara 1 (í stofunni) og svo líka í ethernetpower thingy fyrir afruglara 2 inni í herbergi.  \nEr hann nokkuð með router eða eitthvað svoleiðis þarna á milli sem gæti flækst fyrir afruglaranum?  \nÉg lennti einu sinni í því að hann náði ekki sambandi ef routerinn var á sama neti, fékk ekki ip tölu eða eitthvað, það gekk ef ég slökkti á routernum rétt á meðan ég bootaði afruglaranum.   S.s. ekki tengja í routerinn í staðin fyrir switch.",
+            "date": "2011-01-26 13:21:00",
+            "post_id": "316055",
+            "reply_to_id": "315952"
+        }
+    ],
+    "date": "2011-01-25 22:25:00"
+}

@@ -1,0 +1,114 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "71932",
+    "title": "Usenet hraði á gigabit ljósleiðara",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=71932",
+    "posts": [
+        {
+            "user_name": "karirafn",
+            "text": "Hvernig hraða eruð þið sem eruð með gigabit ljósleiðara að ná á usenet? Ég hef ekki séð hærra en um 32 Mb/s þrátt fyrir að prófa mismunandi servera og port. Ég næ mun meiri hraða á torrent. Getur verið að vodafone sé eitthvað að takmarka hraðann á Usenet?",
+            "date": "2017-01-21 00:20:00",
+            "post_id": "641766",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Dagur",
+            "text": "Ég fæ yfirleitt 11MB/s\nErtu ekki örugglega að nota https?",
+            "date": "2017-01-21 20:21:00",
+            "post_id": "641819",
+            "reply_to_id": "641766"
+        },
+        {
+            "user_name": "karirafn",
+            "text": "Ég nota SSl á öllum serverum, mér fróðari menn segja (las það einhversstaðar) að það eigi ekki að hafa nein áhrif á hraðann. Ég prófaði líka sleppa því og fann engan mun.",
+            "date": "2017-01-23 10:15:00",
+            "post_id": "641910",
+            "reply_to_id": "641819"
+        },
+        {
+            "user_name": "axyne",
+            "text": "hjá hverjum ertu með Usenet áskrift? ertu viss um að þú eigir að ná meiri hraða?",
+            "date": "2017-01-23 17:41:00",
+            "post_id": "641941",
+            "reply_to_id": "641910"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ég er með Gbit bæði hérna heima og á serverum sem ég hýsi erlendis og sé nær aldrei neitt yfir 20-30MB/s í besta falli, alveg sama hvaða provider.",
+            "date": "2017-01-23 20:08:00",
+            "post_id": "641953",
+            "reply_to_id": "641941"
+        },
+        {
+            "user_name": "karirafn",
+            "text": "Ég er hjá frugal usenet og prófaði líka giganews. Giganews auglýsa alla vega \"Whether you have a 10Mbps or 1000Mbps connection, our Usenet servers will max out your connection.\" Þetta er svo sem alveg nóg fyrir mig. Var bara að spá hvort þetta gæti verið betra og hvort aðrir væru að ná meiri hraða.",
+            "date": "2017-01-24 08:39:00",
+            "post_id": "641981",
+            "reply_to_id": "641953"
+        },
+        {
+            "user_name": "dori",
+            "text": "Þetta hefur líklega meira með eitthvað hámark sem internetveitan þín setur á þig og traffíkina þína yfir sjóstrenginn heldur en hámarkið hjá Usenet þjónustunni.",
+            "date": "2017-01-24 13:27:00",
+            "post_id": "641993",
+            "reply_to_id": "641981"
+        },
+        {
+            "user_name": "Kull",
+            "text": "Ég er hjá Vodafone og nota Giganews og er að ná um 60MBps venjulega.",
+            "date": "2017-01-31 00:52:00",
+            "post_id": "642397",
+            "reply_to_id": "641993"
+        },
+        {
+            "user_name": "karirafn",
+            "text": "Þurftirðu að breyta einhverjum stillingum? Hvaða client ertu að nota? Náðirðu þessum hraða frá upphafi?",
+            "date": "2017-01-31 15:32:00",
+            "post_id": "642424",
+            "reply_to_id": "642397"
+        },
+        {
+            "user_name": "Kull",
+            "text": "Nei, engu breytt. Er að nota Newsbin. Já, hef náð þessu eftir að ég fékk 1 gibabit, var að vísu að ná um 50MBps þegar ég var með 500 megabit þannig að þetta var engin sérstök hraða aukning.\nÉg með besta planið hjá Giganews þannig að ég fæ 50 connections, gæti munað um það.",
+            "date": "2017-01-31 23:35:00",
+            "post_id": "642469",
+            "reply_to_id": "642424"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Í hvað notiði Usenet? Porn?",
+            "date": "2017-02-01 16:19:00",
+            "post_id": "642507",
+            "reply_to_id": "642469"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Bara í staðinn fyrir torrent. Meira úrval og meiri hraði og sækir af server, ekki frá öðrum aðilum (þarft ekki að hafa áhyggjur af MPAA böggi ef þú sækir efnið á erlendum servernum.)",
+            "date": "2017-02-01 16:31:00",
+            "post_id": "642508",
+            "reply_to_id": "642507"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Já er það?\nÍ denn þá var þetta aðalega pr0n. \nÉg hélt að þetta væri dautt fyrirbæri.",
+            "date": "2017-02-01 16:32:00",
+            "post_id": "642509",
+            "reply_to_id": "642508"
+        },
+        {
+            "user_name": "hfwf",
+            "text": "MPAA böggi, fliss ertu alltaf að lenda í því :=)",
+            "date": "2017-02-01 17:19:00",
+            "post_id": "642510",
+            "reply_to_id": "642509"
+        },
+        {
+            "user_name": "Dagur",
+            "text": "Það skipti máli fyrir nokkrum árum. Mig grunar að vodafone hafi verið með throttling á þeim tíma.",
+            "date": "2017-02-03 13:06:00",
+            "post_id": "642607",
+            "reply_to_id": "642510"
+        }
+    ],
+    "date": "2017-01-21 00:20:00"
+}

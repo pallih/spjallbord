@@ -1,0 +1,37 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "23523",
+    "title": "Powerline í 10/100 hub",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=23523",
+    "posts": [
+        {
+            "user_name": "zulupark",
+            "text": "Sælir,\nÉg er að spá í að setja upp 200mbps powerline hjá mér og var að velta fyrir mér hvort hægt er að tengja úr powerline í venjulegan hub og tengja svo fleiri tölvur við, eða verður powerline gaurinn að vera tengdur beint í tölvu?",
+            "date": "2009-06-14 11:20:00",
+            "post_id": "209305",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Minuz1",
+            "text": "Powerline'ið mun þá limitast við 10/100 hubinn, annars ætti þetta alveg að virka.",
+            "date": "2009-06-14 13:09:00",
+            "post_id": "209313",
+            "reply_to_id": "209305"
+        },
+        {
+            "user_name": "depill",
+            "text": "Jamm þú getur gert það, öfugt við það sem gæinn hér að ofan segir þá er líklegra að þetta limit's hraðinn við powerline dótið, og það getur verið soldið flökkandi latency. En já þú getur þetta, 200 Mbps er bara léleg leið til að segja 100 Mbps full-duplex sem vonandi \"switchinn\" þinn er. Hubar sökka vegna þess hvernig þeir virka, enda erfitt að kaupa höbb í dag.\nEn jamm þetta ætti að virka.",
+            "date": "2009-06-14 16:51:00",
+            "post_id": "209324",
+            "reply_to_id": "209313"
+        },
+        {
+            "user_name": "dorg",
+            "text": "Verð að játa að ég þekki ekki þetta tæki.  Hinsvegar þarftu að skoða hvort það ræður við að brúa meira en eina mac-addressu.\nEf þetta ræður bara við eina mac addressu þarftu router bak við powerline græjuna.  En eins og ég sagði í upphafi þá þekki ég þetta ekki.",
+            "date": "2009-06-14 17:37:00",
+            "post_id": "209326",
+            "reply_to_id": "209324"
+        }
+    ],
+    "date": "2009-06-14 11:20:00"
+}

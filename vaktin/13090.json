@@ -1,0 +1,86 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "13090",
+    "title": "Vandræði með netið á vélini minni.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=13090",
+    "posts": [
+        {
+            "user_name": "Killerade",
+            "text": "Jæja, einn morguninn vakna ég, starta vélinni og netið virkar ekki. Skrítið þar sem það var kveikt á routernum og allt tengt. Það skrítna er að það virkar í annari vél á heimilinu og öllu sem tengist þráðlausa.  Ég er búinn að prufa að skipta um snúru, port á routernum sem og tengi á tölvuni. Búinn að skipta um ip tölu, taka static ip af, opna öll port, slökkva á Windows firewall sem er eina vörnin í tölvuni minni svo það er ekki líklegt að eitthvað forrit sé að hindra netið, ég er búinn að prufa allt nema að tjah, það er ekki langt síðan ég formataði (+ ég hef alltaf talið format vera \"auðveldu\" leiðina undan vandamálum) en ég gæti mögulega prufað að skipta um driver þó ég sé ekkert sérstaklega hrifinn af því.\n\n\n\nSama hvað ég geri kemur alltaf bara \"Limited or no connectivity. nákvæmlega ekkert hefur breyst í stillingum hvað routerinn eða tölvuna mína varðar. Driverinn fyrir netkortið segist nú vera í góðu lagi. Ég er bara alveg uppiskroppa með hugmyndir, vill helst ekki þurfa að borga fyrir viðgerð þar sem ég hef nú leyst flest mín vandamál sjálfur eða einfaldlega með hjálp netverja  \n\n\n\n\nSvo nú biðla ég til ykkar vaktmenn, einhverjar hugmyndir?",
+            "date": "2007-02-01 14:13:00",
+            "post_id": "137618",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Heliowin",
+            "text": "Hefurðu prófað að endurræsa routerinn. Hann þarf líka smáhvíld stundum held ég.",
+            "date": "2007-02-01 15:31:00",
+            "post_id": "137629",
+            "reply_to_id": "137618"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Þarft að resetta WinSock",
+            "date": "2007-02-01 16:02:00",
+            "post_id": "137638",
+            "reply_to_id": "137629"
+        },
+        {
+            "user_name": "Killerade",
+            "text": "Heliowin: Búinn að því, gleymdi bara að nefna það.\n\n\n\nSelurinn: Og gætiru nokkuð útskýrt nánar fyrir mér hvað það er eða bara einfaldlega hvernig ég geri það?",
+            "date": "2007-02-01 16:58:00",
+            "post_id": "137648",
+            "reply_to_id": "137638"
+        },
+        {
+            "user_name": "Killerade",
+            "text": "http://support.microsoft.com/kb/811259\n\n\n\n\nFann þessa hjálp og prufaði að gera run > netsh winsock reset og það gekk eftir en so far hefur ekkert breyst varðandi að ég kemst ekki á netið.",
+            "date": "2007-02-03 18:06:00",
+            "post_id": "137934",
+            "reply_to_id": "137648"
+        },
+        {
+            "user_name": "dorg",
+            "text": "[quote=\"Killerade\"]http://support.microsoft.com/kb/811259\n\n\n\nFann þessa hjálp og prufaði að gera run > netsh winsock reset og það gekk eftir en so far hefur ekkert breyst varðandi að ég kemst ekki á netið.[/quote\n\n\n\nMjög athyglisvert vandamál.\n\n\n\nSvona til að bilanagreina.\n\nGætir prófað að starta upp á rescue disk (t.d. Ultimate boot cd) og athugað hvort\n\nþú náir netsambandi með honum. (Nú eða knoppix eða SystemRescueCD)\n\n\n\nAlltavega svona til greina hvort þetta sé hardware eða software vandamál.\n\nEf þetta fær ekkert netsamband þá getur þú prófað hvort þetta sé routerinn með því að\n\nstinga fartölvu í samband við lan snúru og athuga hvort hún nái sambandi gegnum hana.\n\nEf það virkar ekki er þetta routerinn annars hardware í tölvunni.\n\n\n\nNú ef hinsvegar bootcd virkar þá gætir þú prófað að fara í SystemRestore og bakkað aftur fyrir stillingarnar sem þú settir inn.  Bara taka backup fyrst ef eitthvað skildi klikka.",
+            "date": "2007-02-04 10:36:00",
+            "post_id": "137965",
+            "reply_to_id": "137934"
+        },
+        {
+            "user_name": "Killerade",
+            "text": "Prufaði að tengja fartölvu með sömu snúru (og sama port á routernum) og hún komst online. Þetta er augljóslega vélin mín sem er vandamálið. Prufaði System Restore á tímapunkt þar sem netið virkaði en það virkaði ekki. Ég er kominn með þvílíkan hausverk hérna.",
+            "date": "2007-02-04 19:30:00",
+            "post_id": "138014",
+            "reply_to_id": "137965"
+        },
+        {
+            "user_name": "dorg",
+            "text": "Jamm bendir allt á vélina.\n\nLokatestið er að prófa ultimate boot cd eða álíka.\n\nNú og svo auðvitað það sem þú hlítur að vera búinn að gera að henda drivernum og installa honum aftur.\n\nSjá hvort netið virki í save mode with networking.\n\nEndalaust hægt að prófa.",
+            "date": "2007-02-04 19:54:00",
+            "post_id": "138016",
+            "reply_to_id": "138014"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "prófaðu að crossover tengja hana við aðra tölvu og tékkaðu hvort það virkar.",
+            "date": "2007-02-05 01:06:00",
+            "post_id": "138118",
+            "reply_to_id": "138016"
+        },
+        {
+            "user_name": "Dusilmenni",
+            "text": "Kannski að eitt gæti hjálpað þér, hefur oft hjálpað mér þegar ég troubleshoota;\n\nPingaðu localhost (127.0.0.1): Ef þetta virkar þá er tcp/ip stillingar að virka fínt. Ef þetta virkar ekki þá bendir það oftast á drivera vandamál.\n\nPingaðu ip töluna á tölvunni þinni: Ef þetta virkar ekki þá er kortið sjálft í hassi.\n\npingaðu router. Ef þetta virkar þá er allt í fína með allar stillingar réttar upp að router.\n\nPingaðu dns serverinn þinn. Kannski ekki endilega dns, bara vani hjá mér :þ en þetta myndi benda á það að grunn netsamband er komið á. \n\n\n\nEf allt hér að ofan myndi virka en ekkert kemur í gegn þá er það eitthvað 3 party prógram í gangi hjá þér eins og eldveggur eða eitthvað.\n\nÞetta kannski hjálpar ekkert þegar vandamálið þitt er svona sérstakt en það er gott að vita af þessu",
+            "date": "2007-02-06 22:08:00",
+            "post_id": "138319",
+            "reply_to_id": "138118"
+        },
+        {
+            "user_name": "so",
+            "text": "Spurning hvort netkortið sé hreinlega bilað ?\n\n\n\nMjög svipuð bilanalýsing og hjá kunningja mínum. Hann var með ca. 2 ára vél, innbyggt netkort og svo allt í einu einn daginn var netið úti. \n\nEftir svolitla tilraunastarfemi setti ég gamalt pci netkort sem ég átti í vélina og úllen dúllen doff, hann búinn að vera á netinu síðan. \n\nSpáði svo sem ekki meira í þetta fyrst þetta virkaði, gaf honum bara kortið og kvaddi",
+            "date": "2007-02-09 17:04:00",
+            "post_id": "138620",
+            "reply_to_id": "138319"
+        }
+    ],
+    "date": "2007-02-01 14:13:00"
+}

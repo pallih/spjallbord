@@ -1,0 +1,79 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "6300",
+    "title": "Að uppfæra BIOS - er mælt með því?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=6300",
+    "posts": [
+        {
+            "user_name": "jericho",
+            "text": "Ég ætla að leita á náðir ykkar snillinga sem vaktina stunda.\n\n\n\nKeypti mér tölvu fyrir 3-4 mánuðum sem svínvirkar.  Það eina sem ég hef getað fundið að henni, er þegar ég sting flakkarnum mínum í samband á USB-tenginu framan á vélinni.  Þá frýs allt og ég verð að slökkva á henni handvirkt (halda power-takka inni í 5sek). En það er bara minor thing sem angrar mig lítið því ég nota einfaldlega USB tengið aftan á.\n\n\n\nHins vegar var ég að tala við félaga minn sem spurði mig hvort ég hafði uppfært BIOSinn minn.  Ég neitaði því og hafði ekki hugsað mér að gera það.  Hef heyrt að hægt sé að f***a upp vélinni ef vitlaust er að þessu staðið.\n\n\n\nÞað sem mig langar að spyrja ykkur að er hvort mælt sé með því að uppfæra BIOSinn, bara til að uppfæra hann?  Ef tölvan virkar fínt, er þá nokkur ástæða til að uppfæra hann?   Hvað breytist?  Verður tölvan hraðvirkari... o.s.frv?\n\nÉg las á \nMSI síðunni\n að það sé ekkert mælt með því að uppfæra ef allt er í standi, en ég vildi fá ykkar álit.\n\nOg btw, ég er með \nþetta\n móðurborð.\n\nkv,\n\njericho",
+            "date": "2004-11-11 09:37:00",
+            "post_id": "65161",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "axyne",
+            "text": "ef allt er í lagi er eingin ástæða fyrir því að uppfæra \"Bios\"\n\nog ef þú treystir þér ekki til þess þá ættirðu ekki að gera það.\n\n\n\nþað eru nú alltaf greinagóðar leiðbeiningar sem fylgja MSI uppfærslunum þannig þetta er ekkert svo flókið.\n\n\n\nen alveg óþarfi að leggja þetta á sig ef allt virkar. Tölvan verður ekki hraðvirkari. getur lesið þér til um hvað hver \"bios\" uppfærsla lagar. ef það er eitthvað sem gæti hjálpað þér með þá er þess virði, annars ekki.",
+            "date": "2004-11-11 09:49:00",
+            "post_id": "65162",
+            "reply_to_id": "65161"
+        },
+        {
+            "user_name": "jericho",
+            "text": "las einmitt um hvað hver uppfærsla lagaði og ein af þeim minnir mig að hafi verið þessi USB error.\n\nÞað er alveg rétt að þeir hafa fínar leiðbeiningar um hvernig maður skal gera þetta, en maður þarf að vera 101% viss um að hafa rétta uppfærslu (þ.e. fyrir rétta gerð að móðurborð).  \n\nÉg er ekkert að stressa mig á því að uppfæra....",
+            "date": "2004-11-11 09:55:00",
+            "post_id": "65163",
+            "reply_to_id": "65162"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "eina ástæðan fyrir því að þeri gefa út bios uppfærslur er vegna þess að þeir vilja að þú skemmir móðurborðið þitt.",
+            "date": "2004-11-11 10:04:00",
+            "post_id": "65164",
+            "reply_to_id": "65163"
+        },
+        {
+            "user_name": "einarsig",
+            "text": "lol \n svo bara muna að taka backup af gamla biosnum ef allt fer í´klúður",
+            "date": "2004-11-11 10:11:00",
+            "post_id": "65169",
+            "reply_to_id": "65164"
+        },
+        {
+            "user_name": "BlitZ3r",
+            "text": "ef thu notar live update þá á þetta að vera ekkert mál. mjög góðar leiðbeiningar",
+            "date": "2004-11-11 13:18:00",
+            "post_id": "65213",
+            "reply_to_id": "65169"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Ég update'a öðru hvoru BIOSinn þótt að ég þurfi þess ekki. Þá er maður bara tilbúinn t.d. ef að maður fær sér nýjan örgjörva.\n\n\n\nAnnars er þetta ekkert mál, og held að maður eigi ekki að skemma neitt ef að maður les sér til. Mig minnir að fyrsta BIOS flashið hafi nú ekki verið neitt mál.\n\n\n\nHeld líka að flash forritið gefi þér viðvörun ef að þú ætlar að flasha með vitlausum BIOS",
+            "date": "2004-11-11 16:45:00",
+            "post_id": "65258",
+            "reply_to_id": "65213"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "þau gefa manni ekki viðvörun.. þau hreinlega leifa manni það ekki. það er EKKI hægt að flasha vitlausann bios :p",
+            "date": "2004-11-11 18:01:00",
+            "post_id": "65284",
+            "reply_to_id": "65258"
+        },
+        {
+            "user_name": "so",
+            "text": "Það er einhversstaða hér þráður með allveg imbaproof yfirferð á þessu.\n\nNotaði hann sjálfur í fyrra og virkaði vel",
+            "date": "2004-11-11 19:59:00",
+            "post_id": "65303",
+            "reply_to_id": "65284"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "ahh, ok. Ennþá betra",
+            "date": "2004-11-12 16:39:00",
+            "post_id": "65430",
+            "reply_to_id": "65303"
+        }
+    ],
+    "date": "2004-11-11 09:37:00"
+}

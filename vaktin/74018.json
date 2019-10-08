@@ -1,0 +1,65 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "74018",
+    "title": "vantar einhvern þokkalega góðan í rafmagni til að svara mér með JBL Radial dokku",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=74018",
+    "posts": [
+        {
+            "user_name": "flottur",
+            "text": "Halló\nMér vantar smá hjálp\nÉg er með JBL Radial ipod dokku sem gengur fyrir\n 24V og 2.3A og þar sem spennugjafin er ekki til gæti ég notað þetta til að kveikja á dótinu ef að það myndi fylgja með rétt tengi?\nhttps://www.computer.is/is/product/hledslutaeki-fyrir-fartolvu-bpc2073ec-70w-15v-24v",
+            "date": "2017-08-30 21:15:00",
+            "post_id": "656178",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Dúlli",
+            "text": "Á að virka ef rétta tengið er til staðar.",
+            "date": "2017-08-30 21:17:00",
+            "post_id": "656179",
+            "reply_to_id": "656178"
+        },
+        {
+            "user_name": "sverrir_d",
+            "text": "Þú getur ekki kveikt í dokkunni því þessi spennugjafi sem þú ert að vitna í hjá computer.is er hægt að stilla á sömu spennu (24V). Það er reyndar eitt sem þú þarft að hafa á hreinu og það er hvort dokkan þarf 24V DC eða 24V AC. Það er ekki sami hluturinn og getur valdið vandræðum.",
+            "date": "2017-08-30 21:35:00",
+            "post_id": "656182",
+            "reply_to_id": "656179"
+        },
+        {
+            "user_name": "Dúlli",
+            "text": "Létt googl segir að þetta er DC tæki eins.\nSkil ekki allveg hvað þú meinar með \"vitna í hjá computer.is er hægt að stilla á sömu spennu (24V).\" Hví ætti þetta ekki að virka ef spennubreytirinn skilar lágmark 24v DC og straumurin er 3A",
+            "date": "2017-08-30 21:49:00",
+            "post_id": "656184",
+            "reply_to_id": "656182"
+        },
+        {
+            "user_name": "flottur",
+            "text": "ég hélt að flest öll svona raftæki væru DC based þannig að ég helt að þetta ætti að virka.",
+            "date": "2017-08-30 22:00:00",
+            "post_id": "656187",
+            "reply_to_id": "656184"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Passaðu bara að plús og mínus séu á réttum stað, hef steikt multi gítar effect sem kenndi mér að það skiptir máli...  \n \nhttp://www.appropedia.org/Low_voltage_c ... _and_minus",
+            "date": "2017-08-31 12:27:00",
+            "post_id": "656207",
+            "reply_to_id": "656187"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Ég bara man ekki eftir neinu tæki með utanáliggjandi AC/AC spennubreyti.\nEf einhver hausinn á tækinu hjá Computer.is passar í, og ef það býður upp á réttan pól (plús/mínus), þá ættirðu ekki að lenda í neinum vandræðum.\nAnnars gætirðu líklega keypt rétt plug t.d. hjá Íhlutum og lóðað það, en þá ertu kominn í talsvert annan pakka.",
+            "date": "2017-08-31 12:46:00",
+            "post_id": "656208",
+            "reply_to_id": "656207"
+        },
+        {
+            "user_name": "flottur",
+            "text": "Satt enda var kannski ekki pælingin að fara í eitthvað heví mission.\nÉg get svo sem pantað þetta erlendis frá fyrir einhverja 40 dollara en mig langaði til að athuga hvort þetta ætti að ganga.\nAnnars var aðalrafmagnsgaurinn ekki við hjá verkstæðinu hjá rafland þannig að ég tékka á þessu hjá þeim á mánudag.",
+            "date": "2017-08-31 20:24:00",
+            "post_id": "656222",
+            "reply_to_id": "656208"
+        }
+    ],
+    "date": "2017-08-30 21:15:00"
+}

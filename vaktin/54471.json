@@ -1,0 +1,93 @@
+{
+    "forum_title": "Windows",
+    "id": "54471",
+    "title": "Get ekki activatað window 8",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=54471",
+    "posts": [
+        {
+            "user_name": "dogalicius",
+            "text": "Jæja þá ætlaði maður að fara að prufa windows 8, en málið er þetta að ég keypti upgrade key fyrir windows 8 pro fyrir einhverjum mánuðum og settu uppá á tölvu í stofunni, er búinn að breyta núna um vélbúnað og núna segir windows að ég sé að nota þetta á annari tölvu, var búinn að eyða því út og allt það, Kann einhver hérna ráð við svona unaði ?",
+            "date": "2013-04-14 12:37:00",
+            "post_id": "505345",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "upg8",
+            "text": "Hef ekki kynnt mér skilmálana nægilega vel fyrir Windows 8 en það var slæm hugmynd hjá þér að eyða Windows út þegar þú ert að keyra uppfærslu, þú þarft þess sjaldnast þótt þú uppfærir vélbúnaðinn. Gætir þurft að hringja í þjónustuver og fá þá til að veita þér undanþágu, frá þeim séð þá lítur þetta náttúrulega út eins og þú sért að keyra þetta á 2 mismunandi tölvum.",
+            "date": "2013-04-14 12:44:00",
+            "post_id": "505346",
+            "reply_to_id": "505345"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Skiptiru um móðurborð í vélinni? Ef svo er þá þarftu líklegast að hafa samband við Microsoft og láta re-activata leyfið.",
+            "date": "2013-04-14 12:54:00",
+            "post_id": "505348",
+            "reply_to_id": "505346"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Phone Activation, virkar alltaf hjá mér þegar þetta kemur upp.",
+            "date": "2013-04-14 12:55:00",
+            "post_id": "505349",
+            "reply_to_id": "505348"
+        },
+        {
+            "user_name": "dogalicius",
+            "text": "phone activation?? hvernig fer ég að því , eitthvað að vefjast fyrir mér. þegar ég hringi í 8008236 biður hún um eitthvað passcode sem ég veit ekkert hvað er  (doh) \ngeturu eitthvað útskýrt þetta nánar fyrir mér?",
+            "date": "2013-04-14 15:08:00",
+            "post_id": "505395",
+            "reply_to_id": "505349"
+        },
+        {
+            "user_name": "dogalicius",
+            "text": "Er einginn með þetta?",
+            "date": "2013-04-14 22:26:00",
+            "post_id": "505522",
+            "reply_to_id": "505395"
+        },
+        {
+            "user_name": "FuriousJoe",
+            "text": "Prófaðu að fara í CMD (as admin)\nskrifaðu; slmgr /ato\nBíddu í 20-30 sek, ef stýrikerfið virkjast ekki, hvaða meldingu færðu ?",
+            "date": "2013-04-14 23:12:00",
+            "post_id": "505540",
+            "reply_to_id": "505522"
+        },
+        {
+            "user_name": "dogalicius",
+            "text": "fæ þá þetta\nerror 0xc004c008 the activation server determined that the specified product key could not be used",
+            "date": "2013-04-15 04:41:00",
+            "post_id": "505577",
+            "reply_to_id": "505540"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Þegar þú velur Country í Phone Activation, veldu UK eða USA, færð automatískan símsvara sem leiðbeinir þér áfram.",
+            "date": "2013-04-15 09:07:00",
+            "post_id": "505585",
+            "reply_to_id": "505577"
+        },
+        {
+            "user_name": "Benzmann",
+            "text": "og ef þú ert ekki góður í útlenskunni þá skaltu bara bölva á fullu í símann á ensku, og þá verður þér gefið samband við þjónustufulltrúa hehehe",
+            "date": "2013-04-15 10:04:00",
+            "post_id": "505591",
+            "reply_to_id": "505585"
+        },
+        {
+            "user_name": "dogalicius",
+            "text": "hehe takk , ég er alveg þokkalegur í enskunni .En já prufa að gera þetta ef það verður eitthvað bögg í þeim",
+            "date": "2013-04-15 13:38:00",
+            "post_id": "505608",
+            "reply_to_id": "505591"
+        },
+        {
+            "user_name": "dogalicius",
+            "text": "Já ég hringdi í ms á íslandi og valdi svo að tala við einhvern á ensku,  gott mál talaði við gaur þar sem reddaði þessu fyrir mig, en það besta í heimi er það að í gær ákvað ég að bæta við media center sem ég fékk hjá þeim frítt á svipuðum tíma og ég kaupi þessa uppfærslu ok, ég fer í add features og skelli inn þessum kóða og svo innstallast þetta, nema nota bene hehe þá er windows aftur farið að heimta að ég activati það. þetta eru SNILLINGAR",
+            "date": "2013-04-20 17:06:00",
+            "post_id": "506629",
+            "reply_to_id": "505608"
+        }
+    ],
+    "date": "2013-04-14 12:37:00"
+}

@@ -1,0 +1,30 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "60198",
+    "title": "Lágmarkskröfur fyrir 1080p afspilun í gegnum Plex Media Serv",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=60198",
+    "posts": [
+        {
+            "user_name": "Oak",
+            "text": "Sælir\nLangar að koma mér upp smá server en vill eyða svona sem minnst í það. Hvað slepp ég með? Á nvidia 570 sem ég get haft í vélinni. Þá kannski slepp ég bara með allt það ódýrasta útí búð?",
+            "date": "2014-03-19 14:59:00",
+            "post_id": "555979",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "https://plexapp.zendesk.com/hc/en-us/ar ... one-Server",
+            "date": "2014-03-19 15:20:00",
+            "post_id": "555981",
+            "reply_to_id": "555979"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ertu þá að tala um GTX 570?\nPMS getur ekki notað GPU til að transkóða svo þetta byggist að mestu á CPU. Dual core i3 eða mid-to-high 775 væri svona í það minnsta fyrir hnökralausa 1080p transkóðun, því öflugra því betra. Því fleiri samtímastreymi því meira álag.",
+            "date": "2014-03-19 16:09:00",
+            "post_id": "555988",
+            "reply_to_id": "555981"
+        }
+    ],
+    "date": "2014-03-19 14:59:00"
+}

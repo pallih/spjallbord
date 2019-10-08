@@ -1,0 +1,93 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "71352",
+    "title": "4K UHD sjónvarp keypt í USA - virkar það á Íslandi?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=71352",
+    "posts": [
+        {
+            "user_name": "Vonpaulus",
+            "text": "Daginn félagar.\nÉg fann engan góðan þráð um þetta málefni með stuttri leit og því læt ég reyna á reynslu og visku ykkar fyrir þetta málefni.\nVerðmunur á sjónvörpum keyptum í USA vs. Íslandi er sláandi. Augljóst er að með því að skella sér í stutta ferð til USA þá er hægt að gera frábær kaup í sjónvörpum EF (og stórt ef) það virkar svo þegar heim er komið. Ég veit að það er ekki sama spenna í þessum löndum (110v vs 220v) og USA notar fyrst og fremst 60hz á móti 50hz í Evrópu. Svo virðist sem mörg ný sjónvarpstæki styðji bæði kerfin, þ.e. það eina sem þarf að redda er rétt kló fyrir innstungurnar okkar (sbr PS4 keypt í USA virkar hér heima með réttri snúru).\nEinnig hef ég lesið um að DVB-T staðallinn sem er algengur hér í Evrópu er ekki notaður í USA en það á eingögnu við um sjónvarpsrásir í gegnum tunerinn.\nSpurning mín er því þessi;\nMun nýtt UHD tæki keypt í USA virka hér heima? Flest okkar eru með sjónvarpsmóttakara frá t.d. Símanum eða Vodafone sem eingöngu tengist sjónvarpinu með HDMI snúru og því er pælingin (eftir því sem ég best fæ skilið) auðveldari þar sem ég þarf ekki að láta tækið leita af stöðvum á DVB-T kerfinu. Er því ekki óþarfi að láta þessa cable-staðla hindra sig í að kaupa slíkt tæki að utan?\nHvað segja reynsluboltarnir?",
+            "date": "2016-11-25 23:58:00",
+            "post_id": "637755",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "vesley",
+            "text": "Þarft að passa að mikið af sjónvörpum sem eru seld í USA eru eingöngu með 120V straumbreyti og virka því ekki hér nema með 120-240V straumbreyti sem kostar yfirleitt slatta.\nÞau eru það samt ekki öll, mörg þeirra eru með innbyggðum 110-240V straumbreyti.",
+            "date": "2016-11-26 00:10:00",
+            "post_id": "637757",
+            "reply_to_id": "637755"
+        },
+        {
+            "user_name": "Minuz1",
+            "text": "google leit:\n\"is there a difference between a uhd in europe and usa\"\nhttp://expatriates.stackexchange.com/qu ... modern-tvs\n\"With the advent of Digital HD TV the difference between NTSC and PAL is practically limited to the framerate of the display which is 23,975p/30p/60i on NTSC and 25p/50i on PAL standards. Modern, digital television sets will have no issues with any of them. The voltage frequency is also not an issue, as the digital decoder is running on DC, so the frequency won't matter unless the AC/DC converter cannot handle it (which should be pretty rare). This assumes you are either only using digital TV (like DVB-T / DVB-C), or using a set-top box that connects digitally to your TV (for example with an HDMI cable)\nIf you still want to use analog connections the issue might be a bit more problematic, as the analog signal is very different on PAL and NTSC, making it not possible to mix them. You have to consult the manual of your TV whether it supports both standards, or not. As a rule of thumb TVs sold in Europe in this century usually support both PAL and NTSC standards (sometimes also SECAM), but TVs sold in the US might not support PAL. Also if you want to connect a DVD player or a set top box with an analog type connection (like a SCART, RCA or a Coaxial cable) you have to make sure that they run on the same standard, and that they both support the same sets of connectors (for example SCART connectors are not that common on non-European boxes). If they do support multiple standards then also note they might not be able to autodetect the signal, so you should consult the manual on how to switch them if needed.\nDon't forget though that aerial analog TV is phased out in Europe in favor of DVB-T and DVB-T2, both digital standards.\"",
+            "date": "2016-11-26 01:13:00",
+            "post_id": "637760",
+            "reply_to_id": "637757"
+        },
+        {
+            "user_name": "Tiger",
+            "text": "Færðu að flytja það inn ef það er ekki CE merkt?",
+            "date": "2016-11-26 02:54:00",
+            "post_id": "637764",
+            "reply_to_id": "637760"
+        },
+        {
+            "user_name": "einarn",
+            "text": "Kanarnir eru með eitthvað svipaðan staðal sem er viðurkenndur í Evrópu.",
+            "date": "2016-11-26 14:01:00",
+            "post_id": "637800",
+            "reply_to_id": "637764"
+        },
+        {
+            "user_name": "JReykdal",
+            "text": "Bandarísk sjónvörp munu ekki geta notað loftnet hérlendis.",
+            "date": "2016-11-29 17:34:00",
+            "post_id": "638002",
+            "reply_to_id": "637800"
+        },
+        {
+            "user_name": "pattzi",
+            "text": "Notar einhver loftnet í dag",
+            "date": "2016-11-30 12:48:00",
+            "post_id": "638053",
+            "reply_to_id": "638002"
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "langflest LG sjónvörp eru 110-230v 50/60hz",
+            "date": "2016-11-30 17:59:00",
+            "post_id": "638075",
+            "reply_to_id": "638053"
+        },
+        {
+            "user_name": "Vonpaulus",
+            "text": "Einmitt, ég kom einmitt inn á þennan punkt í OP. Spurningunni hefur hins vegar ekki enn verið svarað; er hægt að nota þessi tæki hér þar sem við notum yfirleitt bara HDMI tengin úr móttökurum Símans/Vodafone etc.\nTakk samt fyrir svörin",
+            "date": "2016-12-05 16:40:00",
+            "post_id": "638395",
+            "reply_to_id": "638075"
+        },
+        {
+            "user_name": "Hizzman",
+            "text": "hm, getur einhver staðfest þetta?",
+            "date": "2016-12-05 17:13:00",
+            "post_id": "638398",
+            "reply_to_id": "638395"
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "Ég er með LG sjónvarp sem ég keypti í Bestbuy í USA. Virkar bara mjög vel og ég er mjög ánægður með það....\nÞað eina sem mig vantar er almennilegur DNS svo ég geti horft á ameríska netflixið.... endalaust verið að geoblocka mann",
+            "date": "2016-12-06 11:07:00",
+            "post_id": "638448",
+            "reply_to_id": "638398"
+        },
+        {
+            "user_name": "einarn",
+            "text": "Þú getur talað bara við tollinn. Þetta eru allavegna svörin sem ég fékk þegar ég reyndi að flytja inn kína spjaldtölvu.",
+            "date": "2016-12-06 16:05:00",
+            "post_id": "638476",
+            "reply_to_id": "638448"
+        }
+    ],
+    "date": "2016-11-25 23:58:00"
+}

@@ -1,0 +1,44 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "71566",
+    "title": "Intel Smart Response Technology - Vesen",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=71566",
+    "posts": [
+        {
+            "user_name": "Dúlli",
+            "text": "er með tölvu sem var keypt fress og er með lítinn M-sata ssd disk en harði diskurinn drapst og því var skipt út.\nNúna næ ég engan vegin að klóra mig út úr því, til dæmis ef ég fer aftur í BIOS og vel RAID stillinguna þá crashar nýja windows-ið og vill ekki loada.\nNæ engan vegin að sameina þessa diska eins og er sýnt hér.\nhttp://www.intel.com/content/www/us/en/ ... 05501.html\nFæ ekki einu sinni upp þennan valmöguleika Accelerate. Hvað í fjandanum á maður að gera ? Er þetta tækni sem kom og dó ? er búin að finna haug af umræðum um þetta en engar lausnir.\nBætt við :\nEf ég stilli á RAID í BIOS fæ ég þá blue screen með windows 10 error 0x000000e en ef ég stilli til baka í ACHI þá dett ég í windows-ið eins og ekkert sé.",
+            "date": "2016-12-16 22:04:00",
+            "post_id": "639261",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "upg8",
+            "text": "Settir þú þetta rétt upp og frá grunni?",
+            "date": "2016-12-16 22:39:00",
+            "post_id": "639262",
+            "reply_to_id": "639261"
+        },
+        {
+            "user_name": "Dúlli",
+            "text": "Það er nefnilega spurninginn. Til dæmis ef ég er með tóman disk, báða tvo og hef stillt á RAID þá crashar windows-ið alltaf.\nKemst heldur ekki inni í CTRL-I ef ég smelli á þá taka gerist ekkert.",
+            "date": "2016-12-16 23:06:00",
+            "post_id": "639263",
+            "reply_to_id": "639262"
+        },
+        {
+            "user_name": "upg8",
+            "text": "Langt síðan ég átti við Smart Response en mig minnir að það skipti öllu máli að setja upp kerfið fyrst, setja svo upp driverinn og breyta stillingunum aftur áður en maður kveikir aftur á Windows. Sérðu báða diskana í BIOS? Kannski þarftu að formata SSD diskinn aftur áður en þú gerir þetta án þess að ég viti nokkuð um það.",
+            "date": "2016-12-16 23:26:00",
+            "post_id": "639265",
+            "reply_to_id": "639263"
+        },
+        {
+            "user_name": "Dúlli",
+            "text": "Gerði það nefnilega.\nSetti upp windows 10, setti strax upp  IntelRapid Storage Technology, gerði svo restart beint í BIOS og setti RAID í gang og þegar tölvan vistar or restartar fæ ég upp þessi windows villu.",
+            "date": "2016-12-17 01:00:00",
+            "post_id": "639270",
+            "reply_to_id": "639265"
+        }
+    ],
+    "date": "2016-12-16 22:04:00"
+}

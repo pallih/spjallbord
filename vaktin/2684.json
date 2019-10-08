@@ -1,0 +1,156 @@
+{
+    "forum_title": "Windows",
+    "id": "2684",
+    "title": "Windows 2003, IIS og Application Pool",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=2684",
+    "posts": [
+        {
+            "user_name": "Palm",
+            "text": "Ég er að nota Windows 2003 og IIS til að hýsa nokkrar vefsíður.\n\n\n\nÍ IIS er eitthvað sem heitir \"Application Pool\" - getur einhver hér skýrt fyrir mér hvað það er og hvernig maður getur nýtt sér það.\n\n\n\nPalm",
+            "date": "2004-01-07 01:05:00",
+            "post_id": "26792",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Hlynzit",
+            "text": "Palm : af hverju lestu ekki redme.txt skjalið? Eða manualinn \n 0ruglega allt kennt þar. svo líka mæli ég meira með apache. getur fengið allar leiðbendingar hvernig á að setjaþað uppá windows á íslensku \nHérna\n vona að þetta hjálpi eitthvað",
+            "date": "2004-01-07 12:52:00",
+            "post_id": "26818",
+            "reply_to_id": "26792"
+        },
+        {
+            "user_name": "ICM",
+            "text": "Hlynzit hann virðist eiga hitt nú þegar, hann fer ekki að leggja það til hliðar það sem hann var að borga tug þúsunda fyrir þegar það ætti að virka vel fyrir hann. Þú veist síðan ekkert hvað hann er að fara að vinna með svo ekki fara að ráðleggja honum eitthvað strax.",
+            "date": "2004-01-07 13:25:00",
+            "post_id": "26823",
+            "reply_to_id": "26818"
+        },
+        {
+            "user_name": "Palm",
+            "text": "Ég pósta ekki hingað inn fyrr en ég er búinn að leita annar staðar að svörum áður.\n\nÉg er einmitt búinn að lesa mig smá til um þetta - er samt bara ekki alveg að skilja þetta.\n\n\n\nÉg ætla að nota IIS áfram enda er það mjög gott tól eins og flest allt frá MS.  \n\n\n\n\nPalm",
+            "date": "2004-01-07 17:32:00",
+            "post_id": "26861",
+            "reply_to_id": "26823"
+        },
+        {
+            "user_name": "ICM",
+            "text": "Loksins heyrir maður þetta á vaktinni, það eru flestir hérna öfga Linux menn.",
+            "date": "2004-01-07 17:42:00",
+            "post_id": "26865",
+            "reply_to_id": "26861"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "ég elska flest allt frá ms.. nema win9x (þótt svo að þau hafi verið ágæt á sínum tíma). ég líklega með frekar líkann smekk á hugbúnaði og í icman, fyrir utan að ég er ekki of duglegur að auglýsa ms",
+            "date": "2004-01-07 17:45:00",
+            "post_id": "26866",
+            "reply_to_id": "26865"
+        },
+        {
+            "user_name": "Hlynzit",
+            "text": "Tug þúsunda... Ég veit ekki betur en að IIS fylgi með Windows.\n\nOg samkvæmt ransóknum er Apache betra en IIS",
+            "date": "2004-01-07 19:14:00",
+            "post_id": "26899",
+            "reply_to_id": "26866"
+        },
+        {
+            "user_name": "ICM",
+            "text": "IIS fylgir bara server útgáfunum, það er ein af ástæðunum fyrir að þær kosta líka meira, þar með var hann að kaupa IIS... og nei það fer eftir því í hvað þú ætlar að nota hann hvort Apache er betri eða ekki.",
+            "date": "2004-01-07 19:17:00",
+            "post_id": "26901",
+            "reply_to_id": "26899"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "Ertu alveg 100% á þessu?\n\n\n\nÉg veit ekki betur en þetta fylgdi með Win Xp hérna á lappanum..",
+            "date": "2004-01-07 19:35:00",
+            "post_id": "26904",
+            "reply_to_id": "26901"
+        },
+        {
+            "user_name": "ICM",
+            "text": "ertu ekki með pro?",
+            "date": "2004-01-07 19:36:00",
+            "post_id": "26905",
+            "reply_to_id": "26904"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "Jú.\n\n\n\nSíðan hvenær var pro == server?",
+            "date": "2004-01-07 19:37:00",
+            "post_id": "26907",
+            "reply_to_id": "26905"
+        },
+        {
+            "user_name": "ICM",
+            "text": "það er það ekki",
+            "date": "2004-01-07 19:40:00",
+            "post_id": "26908",
+            "reply_to_id": "26907"
+        },
+        {
+            "user_name": "Hlynzit",
+            "text": "Þetta fylgdi með mínum windows XP pro",
+            "date": "2004-01-07 19:42:00",
+            "post_id": "26910",
+            "reply_to_id": "26908"
+        },
+        {
+            "user_name": "ICM",
+            "text": "sonic ég var að svara hundinum",
+            "date": "2004-01-07 19:43:00",
+            "post_id": "26911",
+            "reply_to_id": "26910"
+        },
+        {
+            "user_name": "Hlynzit",
+            "text": "fyrir það fysta heiti ég Hlynzit  \n  og ég var bara að  seigja hvað fylgdi meðmínum disk",
+            "date": "2004-01-07 20:22:00",
+            "post_id": "26913",
+            "reply_to_id": "26911"
+        },
+        {
+            "user_name": "Gothiatek",
+            "text": "Getur þú ekki verið í aðeins meiri mótsögn við sjálfan þig IceCaveman  \n\n\n\"IIS fylgir bara server útgáfum\"\n\n\"Pro er ekki sama og server\"\n\n\n\nIIS er í win xp pro???",
+            "date": "2004-01-08 07:43:00",
+            "post_id": "26994",
+            "reply_to_id": "26913"
+        },
+        {
+            "user_name": "ICM",
+            "text": "Gothiatek ef þú lest það sem ég skrifaði þá sérðu að ég viðurkenndi mistökin, segi hlutina stundum af fljótfærni og les þá aldrei yfir. IIS er í Pro og Server útgáfum, möo það er í dýrari útgáfum af Windows var það sem ég var að reyna að segja. Þú getur sett upp IIS í home en ég efa að það sé löglegt þar sem þú þarft annaðhvort Win2000 server eða WinXP pro disk til að setja það upp.",
+            "date": "2004-01-08 09:10:00",
+            "post_id": "26999",
+            "reply_to_id": "26994"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Hvernig færi maður að því?\n\nÞetta er bara í Add/Remove Windows component hjá mér.",
+            "date": "2004-01-08 10:15:00",
+            "post_id": "27002",
+            "reply_to_id": "26999"
+        },
+        {
+            "user_name": "Palm",
+            "text": "Það er hægt að setja IIS upp í windows xp home og það er löglegt en það er töluvert mál að gera það og flestir ráðleggja mönnum að setja frekar upp windows xp pro ef menn ætla að fara að hýsa vefsíður.\n\nÉg skoðaði þetta vel á sínum tíma og ákvað svo að setja upp win xp pro á vinnuvélinni minni í stað þess að reyna að setja inn IIS í win xp home.\n\n\n\nEru menn ekkert með svör við upphaflegu spurningunni minni?\n\n\n\nPalm",
+            "date": "2004-01-08 10:20:00",
+            "post_id": "27004",
+            "reply_to_id": "27002"
+        },
+        {
+            "user_name": "ICM",
+            "text": "gumol þú hlýtur þá að vera með Pro en ekki Home, það er ekki í add remove components hjá mér.  Notaðu google, þar finnurðu leiðbeiningar á spænsku.",
+            "date": "2004-01-08 10:22:00",
+            "post_id": "27005",
+            "reply_to_id": "27004"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "lol, þessi var góður",
+            "date": "2004-01-08 13:20:00",
+            "post_id": "27015",
+            "reply_to_id": "27005"
+        }
+    ],
+    "date": "2004-01-07 01:05:00"
+}

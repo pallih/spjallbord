@@ -1,0 +1,51 @@
+{
+    "forum_title": "Windows",
+    "id": "68460",
+    "title": "DOS Emulator",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=68460",
+    "posts": [
+        {
+            "user_name": "GTi",
+            "text": "Góðan daginn\nEr með 24 ára gamalt DOS forrit sem ég þarf að nota. Windows 10 vill ekki keyra það, jafnvel þó ég stilli compatability mode á Windows 95/98/XP.\nGetið þið mælt með einhverjum þæginlegum DOS emulator sem ég gæti keyrt þetta á?",
+            "date": "2016-02-05 14:49:00",
+            "post_id": "617345",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "andribolla",
+            "text": "Gæti þetta ekki virkað ?\nhttp://www.dosbox.com/",
+            "date": "2016-02-05 15:30:00",
+            "post_id": "617348",
+            "reply_to_id": "617345"
+        },
+        {
+            "user_name": "worghal",
+            "text": "fyrir hvað þarf 24 ára gamalt DOS forrit?",
+            "date": "2016-02-05 15:57:00",
+            "post_id": "617351",
+            "reply_to_id": "617348"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Dosbox er málið.",
+            "date": "2016-02-05 16:28:00",
+            "post_id": "617352",
+            "reply_to_id": "617351"
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Þú getur notað \nFreeDOS\n og sett það upp í \nVirtualBox\n.",
+            "date": "2016-02-05 16:30:00",
+            "post_id": "617353",
+            "reply_to_id": "617352"
+        },
+        {
+            "user_name": "isleifurg",
+            "text": "http://dbdos.com/\n32 bita windows\nDosbox",
+            "date": "2016-07-20 16:40:00",
+            "post_id": "627892",
+            "reply_to_id": "617353"
+        }
+    ],
+    "date": "2016-02-05 14:49:00"
+}

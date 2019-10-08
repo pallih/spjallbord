@@ -1,0 +1,93 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "26956",
+    "title": "Er að reyna að setja upp FTP server",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=26956",
+    "posts": [
+        {
+            "user_name": "Danni V8",
+            "text": "Ég er að reyna að setja upp FTP server með FileZilla forritinu, en mig grunar að routerinn er eitthvað að trufla mig.\nTil að byrja með þá get ég engan vegin opnað port 21, ég get stillt að það á að vera opið en Port Checker t.d. getur ekki tengst því.\nSíðan þegar ég er búinn að setja allt upp eftir leiðbeiningu og að minni bestu vitund alveg rétt, þá nota ég Flash FXP til að tengjast IP tölunni minni og porti 21, þá kemur: \n[R] Connecting to ***.**.***.*** -> IP=***.**.***.*** PORT=21\n[R] Connected to ***.**.***.***\n[R] 220 Inactivity timer = 120 seconds. Use 'site idle <secs>' to change.\n[R] USER admin\n[R] 331 SpeedTouch Password required.\n[R] PASS (hidden)\n[R] 530 Permission denied\n[R] Connection failed\nPrófaði að breyta password í speedtouch password og ég kemst inn, en það er ekkert þar. \nÉg er búinn að prófa að breyta Listen port í FileZilla í önnur port sem ég er búinn að opna, en þegar ég stilli á þau í Flash FXP kemur bara connection timed out.\nEr hægt að komast framhjá þessu og setja upp FTP server þó að ég er með SpeedTouch router?",
+            "date": "2009-12-19 12:50:00",
+            "post_id": "234711",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "dadik",
+            "text": "Kíktu á þetta:\nhttp://www.youtube.com/watch?v=7_CDkncANGI",
+            "date": "2009-12-19 13:33:00",
+            "post_id": "234717",
+            "reply_to_id": "234711"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Ég er búinn að gera þetta.\nÁður en ég opnaði port 21 kom bara time-out þegar ég reyndi að opna ftp á minni IP tölu.\nEftir að ég opnaði port 21 gat ég tengst á ftp skráðan á SpeedTouch routerinn, en ekki FileZilla FTP Serverinn.\nÉg er búinn að triple-checka allar stillingar og þær eru allar eins og þær eiga að vera í FileZilla. Ég er líka búinn að prófa aðra FTP client-a en það er sama sagan. Þetta er augljóslega vandamál með routerinn sjálfan en EKKI port forward, ég er búinn að forwarda öllum nauðsynlegum portum og meira til og nota Portforward.com PortChecker tólið til að athuga hvort þau hafi ekki alveg örugglega opnast, sem þau gerðu.",
+            "date": "2009-12-19 14:08:00",
+            "post_id": "234727",
+            "reply_to_id": "234717"
+        },
+        {
+            "user_name": "lukkuláki",
+            "text": "Biddu \nDepil\n um að hjálpa þér hann er alger snillingur í þessu \nhttp://spjall.vaktin.is/memberlist.php?mode=viewprofile&u=2328",
+            "date": "2009-12-19 14:13:00",
+            "post_id": "234731",
+            "reply_to_id": "234727"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Takk fyrir ábendinguna. Ég set mig í samband við hann á næstunni",
+            "date": "2009-12-19 15:15:00",
+            "post_id": "234741",
+            "reply_to_id": "234731"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "gæti verið vandamál með vírusvörnina.\ngætir þurft að adda new rule fyrir forritið og incoming tengingar.\nSíðan er það stundum þannig að maður þarf að stilla portið passive ekki active.\nallavegna gekk þetta hjá mér þegar ég stillti passive og fiktaði í vírusvörninni.\nGood luck=)",
+            "date": "2009-12-19 17:12:00",
+            "post_id": "234757",
+            "reply_to_id": "234741"
+        },
+        {
+            "user_name": "depill",
+            "text": "Skomm bara smá pæling, þú ert að setja upp FTP server á innra netinu þínu og svo að tengjast á innra netinu eða utan.\nEf við ímyndum okkur smá netkerfi ( allar ip tölur og allt shitið er made up fyrir example )\nFTP ( Innri 192.168.1.2 ) // Einkavél ( Innri 192.168.1.3 ) // Router ( Innri 192.168.1.254 / Ytri 88.88.88.88 ) // Ytri vél ( Ytri 89.89.89.89 )\nÞú portfowrdar porti 21 yfir á 192.168.1.2 svo ferð þú einkavélina og tengist 88.88.88.88 þá mun routerinn svara en ekki NATa fyrirspurninni áfram þar sem hún kemur frá innra kerfinu ( NAT virkar með að hugsa um inside og outside ).... þess vegna mun routerinn svara fyrirspurninni með sínum FTP server.\nÞannig þú ferð í einkavélinni þinn (192.168.1.3 ) og reynir að tengjast 88.88.88.88 og færð Router FTP interfaceið, en ef þú tengist 192.168.1.2 þá muntu fá FTP þjónin.\nYtri vélin 89.89.89.89 sem tengist 88.88.88.88 þá mun routerinn forwarda FTP fyrirspurninni ( fyrirspurnin kemur af outside ). Ennfremur áttu að port forwarda 20 og 21 á 192.168.1.2 ( ftp serverinn ) 20 fyrir data, 21 fyrir protocol.\nÉg myndi giska að þetta sé vandinn þinn.",
+            "date": "2009-12-19 17:28:00",
+            "post_id": "234767",
+            "reply_to_id": "234757"
+        },
+        {
+            "user_name": "akarnid",
+            "text": "Vandinn hérna er eflaust sá að þú ert með Speedtouch 585 v6 með software release 6.2.29.2 og það er fremur þroskaheft á þann hátt að það tekur frá port 21, 80 og 53 fyrir eigin notkun!  Þannig að það er ekki hægt að forwarda þeim venjulega.   Gersamlega glatað.",
+            "date": "2010-01-10 12:17:00",
+            "post_id": "238485",
+            "reply_to_id": "234767"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Þú ert örruglega að reyna að tengjast ftp servernum frá innranetinu með því að nota public ip töluna þína.",
+            "date": "2010-01-10 12:23:00",
+            "post_id": "238486",
+            "reply_to_id": "238485"
+        },
+        {
+            "user_name": "Carc",
+            "text": "Get líka tekið undir að þetta er að öllum líkindum vandinn.  Mæli með að þú notir annað port en 21 fyrir FTP.",
+            "date": "2010-01-10 13:37:00",
+            "post_id": "238494",
+            "reply_to_id": "238486"
+        },
+        {
+            "user_name": "JReykdal",
+            "text": "Það ætti að vera hægt að fjarlægja reglurnar fyrir portin á speedtouch og setja upp forwardið í gegnum CLI, man ekki nákvæmlega hvernig þær líta út samt.\nSvo er einn gott að virkja ip nat loopback svo hægt sé að nota ytri töluna innanfrá.",
+            "date": "2010-01-11 11:57:00",
+            "post_id": "238677",
+            "reply_to_id": "238494"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Ég leysti þetta með því að setja upp IIS og ftp server með því, síðan bara Hamachi og sá sem var að reyna að ná í frá mér fór bara inn á mig í gegnum Hamachi ip töluna og port 21, þá var ekkert port forwarding nauðsynlegt fyrir utan Hamachi portið, sem er hægt að stilla á hvað sem er \n Vorum búnir að reyna að nota Hamachi eins og venjulegt network en það virkaði ekki, hann náði aldrei að sjá mína tölvu í network.\nÉg allavega þarf ekki á ftp server að halda lengur, fyrst ég er búinn að finna lausn á þessu. Servarnir verða bara meira private fyrir vikið",
+            "date": "2010-01-11 12:15:00",
+            "post_id": "238679",
+            "reply_to_id": "238677"
+        }
+    ],
+    "date": "2009-12-19 12:50:00"
+}

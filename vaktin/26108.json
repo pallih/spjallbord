@@ -1,0 +1,58 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "26108",
+    "title": "Þægilegur video converter",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=26108",
+    "posts": [
+        {
+            "user_name": "hagur",
+            "text": "Ég er með 360GB af VHS heimavídeóum sem er búið að færa yfir á .mov formatt.  Hvert vídeó er aðeins í kringum 30 mínútur en 7-8GB að stærð.  Semsagt alveg sturluð sóun á plássi ...\nÉg var að spá í að converta þessu á eitthvað form sem er ekki eins plássfrekt, t.d DivX, XVid eða jafnvel x264 ...\nVitið þið um einhvern ókeypis, þægilegan video converter sem gæti gert þetta?  Sökum magnsins væri alls ekki verra ef það væri hægt að gera \"batch\" vinnslur í honum eða keyra hann í cmd-line til að ráðast á allt draslið hvert á eftir öðru.",
+            "date": "2009-11-12 17:13:00",
+            "post_id": "226810",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "tolli60",
+            "text": "Ég var líka með tölvuna fulla af svona, eina formatið sem ég þori að mæla með er mpeg2 þe. ef þú ætlar að henda orginalnum.ef ég breyti í mkv.(H264)eða xvid.þá er það alltaf töpuð gæði og erfitt að fara til baka.Þau forrit sem ég er að nota eru \"corel videostudio\" og\" Divx autor\"",
+            "date": "2009-11-12 17:42:00",
+            "post_id": "226823",
+            "reply_to_id": "226810"
+        },
+        {
+            "user_name": "MrT",
+            "text": "Mpeg2 er líka lossy.. Og persónulega líkar mér ekki nógu vel við það.\nEn þetta er af VHS svo það skiptir litlu máli hvaða form þú velur en ég myndi nota Xvid í .avi, sem mun ekkert koma illa út ef það er gert rétt.",
+            "date": "2009-11-12 20:05:00",
+            "post_id": "226866",
+            "reply_to_id": "226823"
+        },
+        {
+            "user_name": "BjarniTS",
+            "text": "Heyrði einhversstaðar að það væri oft ekki hlaupið að því að breyta um format og hafa gæði í lagi.\nBest væri að ganga út frá einu góðu formati í upphafi.\nGangi þér samt vel.",
+            "date": "2009-11-12 20:07:00",
+            "post_id": "226867",
+            "reply_to_id": "226866"
+        },
+        {
+            "user_name": "tolli60",
+            "text": "Eg ráðlegg þér að gera ekkert sem fórnar gæðum.Ef þetta eru heimavideo fjölskyldunnar fáðu þér frekar annan disk.Og allur tíminn sem fór í aðtaka þetta á sínum tíma hlytur að vera disks virði það verður ekki aftur snuið ef þú tapar gæðunum\nEr ekki mpeg2 það þjöppunarform sem Dvd myndir eru þjappaðar í? það er það form sem ég þjappa mín stafrænu heima video í. mér virðist að þar séu töpin minnst.þá verða 4Gig að 1Gig Ef maður tekur analog video eins og VHS. og þjappar þeim í stafrænt form sem ekki er gott.þá virðast gallarnir sameinast og útkoman getur orðið ónothæf.",
+            "date": "2009-11-12 21:47:00",
+            "post_id": "226888",
+            "reply_to_id": "226867"
+        },
+        {
+            "user_name": "MrT",
+            "text": "Jújú.\nNú sýnist hverjum sitt bara..  Málið, eins og ég sé það, er einfaldlega að gæðin á VHS upptökunni eru það slæm að það skiptir í raun engu máli hvaða format það er þjappað í (svo lengi sem það er gert rétt fyrir hvert format fyrir sig) og þess vegna myndi ég nota það sem endar á að taka sem minnst diskapláss á endanum.",
+            "date": "2009-11-12 22:36:00",
+            "post_id": "226910",
+            "reply_to_id": "226888"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Sælir og takk fyrir svörin,\nÉg er með Ulead Video Studio 11 og það getur convertað í allan fjandann, en þó hvorki DivX né Xvid.  Ég prufaði að converta yfir í MPEG2 og við það fór skráin úr 7.4GB niður í 1.7GB án þess að tapa nokkrum sýnilegum gæðum að mínu mati.\nNotabene að þetta eru upptökur úr ELD gamalli VHS vél og spólurnar eflaust misgóðar þannig að gæðin í originalnum eru frekar léleg.\nÉg er svosem með nóg pláss á servernum, eða einhverstaðar á milli 2 og 3 TB, en finnst þetta vera að taka alveg óþarflega mikið pláss.  Ég hugsa að ég kýli bara á að converta þessu yfir í MPEG2.\nVitið þið um einhvern þægilegan command line converter sem væri hægt að scripta?  Þetta eru fjandi margar skrár og væri gott að leyfa þessu að ganga yfir nótt.",
+            "date": "2009-11-13 00:13:00",
+            "post_id": "226944",
+            "reply_to_id": "226910"
+        }
+    ],
+    "date": "2009-11-12 17:13:00"
+}

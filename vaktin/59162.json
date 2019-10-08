@@ -1,0 +1,135 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "59162",
+    "title": "Stjórna vinnutölvu frá heimili - Vantar smá ráð",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=59162",
+    "posts": [
+        {
+            "user_name": "snaeji",
+            "text": "Sælir Vaktarar.\nNú vantar mig smá hugmyndir og ráð hvað er best að gera í stöðunni.\nÉg er með vinnutölvu uppá skrifstofu sem ég þarf mögulega að setja upp eitthvað forrit á til þess að geta unnið á henni heiman frá eða finna einhverja aðra lausn á þessu. \nÞetta verður ekki flóknara en að bóka reikninga og skoða tölvupóst og þessháttar.\nFlest forritin sem ég kannast við eins og Logmein, óttast ég að gæti verið leiðinlegt að vinna á útaf laggi og þessháttar er það rétt hjá mér ?\nHvað myndið þið gera í stöðunni ?\nMiða við að það verði ljósleiðari á báðum stöðum\nEinnig þarf þetta að vera frekar notendavænt þar sem einn frekar tölvuheftur þarf að geta nýtt sér þetta.",
+            "date": "2014-01-13 07:21:00",
+            "post_id": "546755",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "worghal",
+            "text": "Eg hef goda reynslu af teamviewer.\nNota thad mikid i simanum til ad tengjast heim og i vinnutolvunni til ad tengjast heim",
+            "date": "2014-01-13 09:34:00",
+            "post_id": "546764",
+            "reply_to_id": "546755"
+        },
+        {
+            "user_name": "Gislinn",
+            "text": "VPN tenging inná vinnunetið, taka svo yfir tölvuna með Remote desktop.\nÖruggt og mjög einfalt, þá þarf að setja upp vpn tenginguna (sem er ekki mjög flókið, hellingur af leiðbeiningum á google) en Remote desktop er líklegast nú þegar uppsett á allar tölvur sem keyra Windows.",
+            "date": "2014-01-13 09:45:00",
+            "post_id": "546765",
+            "reply_to_id": "546764"
+        },
+        {
+            "user_name": "ZiRiuS",
+            "text": "www.logmein.com",
+            "date": "2014-01-13 09:54:00",
+            "post_id": "546768",
+            "reply_to_id": "546765"
+        },
+        {
+            "user_name": "Gislinn",
+            "text": "",
+            "date": "2014-01-13 10:07:00",
+            "post_id": "546771",
+            "reply_to_id": "546768"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "VPN + RDP besta lausnin, en annars virkar TeamViewer alltaf jafn vel. Tek hann framyfir LogMeIn persónulega. Með ljós á báðum stöðum er latency (e. lagg) alveg úr sögunni. Ég vinn oft á vélar heima frá vinnunni á 100mbit á báðum stöðum í gegnum bæði RDP og Teamviewer, mjög fluid, nánast eins og ég sé að vinna local.",
+            "date": "2014-01-13 10:34:00",
+            "post_id": "546779",
+            "reply_to_id": "546771"
+        },
+        {
+            "user_name": "hagur",
+            "text": "TeamViewer fær mitt atkvæði líka.  Snilldar forrit.",
+            "date": "2014-01-13 10:38:00",
+            "post_id": "546781",
+            "reply_to_id": "546779"
+        },
+        {
+            "user_name": "Baldurmar",
+            "text": "Teamviewer fær mitt atkvæði, ótrúlega þægilegt og einfald.",
+            "date": "2014-01-13 11:08:00",
+            "post_id": "546782",
+            "reply_to_id": "546781"
+        },
+        {
+            "user_name": "ZiRiuS",
+            "text": "Það er lagg í öllum svona forritum, þetta verður aldrei eins og að vinna beint í tölvu...\nLogmein og Teamviewer eru bestu forritin sem eru ókeypis allavega.",
+            "date": "2014-01-13 13:43:00",
+            "post_id": "546798",
+            "reply_to_id": "546782"
+        },
+        {
+            "user_name": "sakaxxx",
+            "text": "ég hef prófað flest öll remote forrit og logmein kemur langbest út varðandi fps í gegnum síma einnig í gegnum browser",
+            "date": "2014-01-13 14:12:00",
+            "post_id": "546802",
+            "reply_to_id": "546798"
+        },
+        {
+            "user_name": "Gislinn",
+            "text": "Ég veit vel af því að það er lagg þegar þetta er unnið svona, fannst bara skondið að þú bendir á forrit sem hann var þegar búinn að nefna. \n \nAthugaðu að Teamviewer kostar ef hann er að nota hann fyrir eitthvað annað en personal use (í hans tilviki er hann að tengjast vinnu tölvu), annars efast ég um að Teamviewer velti sér mikið upp úr því og er þetta því eingöngu spurning um samvisku.  \n \n\"Bestu forritin\" er augljóslega hugtak sem fer mjög mikið eftir markmiðum notandans. Ég myndi aldrei nota Teamviewer, LogMeIn eða annað 3rd party remote desktop forrit til að tengjast vinnutölvunni minni (ég hef notað Teamviewer fyrir mínar eigin tölvur), einfaldlega vegna þess að ég myndi ekki treysta þriðja aðilanum (Teamviewer, LogMeIn etc.). Þetta er samt mjög sennilega einstaklings miðað og algerlega háð því hverskonar upplýsingar þú ert að vinna með í gegnum slíka tengingu.",
+            "date": "2014-01-13 14:27:00",
+            "post_id": "546805",
+            "reply_to_id": "546802"
+        },
+        {
+            "user_name": "snaeji",
+            "text": "Eftir að lesa þetta yfir þá held ég að VPN og RDP sé málið sérstaklega uppá öryggið.\nFinnst vera of seint response á Logmein af minni reynslu svo að maður nenni að vinna eitthvað á það.\nAð vísu gaman að sjá hversu skiptar skoðanir eru um þessi forrit!\nÞakka fyrir góð svör",
+            "date": "2014-01-13 21:13:00",
+            "post_id": "546880",
+            "reply_to_id": "546805"
+        },
+        {
+            "user_name": "GullMoli",
+            "text": "Er með 2 vélar sem ég þarf nánast ekkert að skipta mér af hérna, en ákvað að prufa Chrome Remote Desktop og það virkar nú bara fjandi vel \nVirkilegauðvelt í uppsetningu, þarft bara Chrome browserinn á báðar tölvur og svo Remote Desktop appið fyrir hann.",
+            "date": "2014-01-13 21:28:00",
+            "post_id": "546885",
+            "reply_to_id": "546880"
+        },
+        {
+            "user_name": "nidur",
+            "text": "Ég nota teamviewer á allar vélar sem ég er með, er með \"wake on lan\" app ásamt teamviewer í android símanum til að vekja tölvurnar og þetta system passar mjög vel fyrir mig.",
+            "date": "2014-01-13 23:12:00",
+            "post_id": "546900",
+            "reply_to_id": "546885"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Ég var mjög sáttur við TeamViewer þangað til að ég prufaði remote desktop á Windows server 2012 og nú kemur ekkert annað til greina en VPN og RDP",
+            "date": "2014-01-14 00:07:00",
+            "post_id": "546911",
+            "reply_to_id": "546900"
+        },
+        {
+            "user_name": "intenz",
+            "text": "TeamViewer fær mitt atkvæði. Klikkar ekki.",
+            "date": "2014-01-14 03:44:00",
+            "post_id": "546930",
+            "reply_to_id": "546911"
+        },
+        {
+            "user_name": "Demon",
+            "text": "Vpn og rdp er mikið hraðara og betra en Teamviewer. Hinsvegar er ekki alltaf hægt að nota von og rdp saman, þá er Teamviewer ágætt.",
+            "date": "2014-01-14 07:27:00",
+            "post_id": "546931",
+            "reply_to_id": "546930"
+        },
+        {
+            "user_name": "snaeji",
+            "text": "Jæja þá er þetta allt komið í gang og ég verð að segja mér hefði aldrei dottið í hug að RDP+VPN væri að virka svona skuggalega vel!\nSérstaklega að RDP tengi prentara og dót við remote tölvuna og þú getir prentað út local án þess að þurfa að hafa nokkuð fyrir því.",
+            "date": "2014-01-29 02:22:00",
+            "post_id": "549434",
+            "reply_to_id": "546931"
+        }
+    ],
+    "date": "2014-01-13 07:21:00"
+}

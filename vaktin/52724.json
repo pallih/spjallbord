@@ -1,0 +1,65 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "52724",
+    "title": "Dauður/ruglaður flakkari",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=52724",
+    "posts": [
+        {
+            "user_name": "odinnn",
+            "text": "Er í smá vandræðum með aðal flakkarann minn. Hann ákvað að hætta að virka eftir að ég kom heim úr jólafríinu og Windows vildi ekki einusinni starta þegar diskurinn var tengdur. Þannig að þá spyr ég, er einhver von á að geta endurheimt gögnin ef ég ríf hann úr hýsingunni og tengi beint í vélina? Er kannski einhver möguleiki á því að hýsingin sé ónýt en ekki diskurinn? Er að velta fyrir mér hvaða möguleika ég hef...\nEn þetta pressar mig til að drullast til að kaupa almennilega geymslu sem ég hef beðið með alltof lengi með. Langar þessvegna að fá smá upplýsingar/linka/álit á því hvað maður ætti að kaupa sér, NAS, bara diska í tölvuna eða eitthvað annað. Væri gaman að vera með miðlæga gagnageymslu sem fleyri en einn getur notað án mikils vesens í uppsetningu.",
+            "date": "2013-01-13 13:39:00",
+            "post_id": "489293",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Domnix",
+            "text": "Getur vel verið að hýsingin sé dauð. Hef sjálfur lent í þannig, bara um að gera að prófa skrúfa diskinn úr hýsingunni og tengja við tölvuna.",
+            "date": "2013-01-13 18:17:00",
+            "post_id": "489322",
+            "reply_to_id": "489293"
+        },
+        {
+            "user_name": "odinnn",
+            "text": "Gott að vita, var einmitt að fiska eftir því hvort menn hefðu lent í því að hýsing gæfist upp á undan disknum. Þá er bara að asnast til að skrúfa þetta allt í sundur... spurning samt að kaupa NAS fyrst svo maður hafi pláss fyrir gögnin sem eru á disknum þar sem ég get varla treyst honum núna.\nEn varðandi NAS, leitaði aðeins hérna og er að lesa smá hér og þar og líst vel á Synology DS1812+, einhver sem þekkir til í þessum málum? Sýnist Synology og QNAP vera einu framleiðendurnir sem eru með NAS box á ásættanlegu verði sem hefur meira en 4 slot. Synology-inn lítur vel út, stækkanlegur um 10 slot (2 box með 5 slot hver), góð review sýnist mér og kostar bara rúmar 130þ krónur hérna án diska. Einhver sem getur frætt mig meira um NAS?",
+            "date": "2013-01-13 18:37:00",
+            "post_id": "489327",
+            "reply_to_id": "489322"
+        },
+        {
+            "user_name": "odinnn",
+            "text": "Er búinn að vera að skoða þetta núna í kvöld, byrjaði á að veseni með nýja 3TB diskinn sem ég keypti en það er seinnitíma vandamál. En allavegana þá tengdi ég flakkara diskinn beint í tölvuna og þá vildi hún ekki einusinni hleypa mér inn í bios. Flutti hann síðan yfir á annan SATA controller og þá vildi hún ekki finna neinn disk til að boota af en eftir að hafa \"slökkt\" á disknum í bios þá bootaði windows án vandræða. Diskurinn sést núna í My Computer og ég er núna að kópera allt yfir á nýja diskinn. Út frá þessu reikna ég með að það séu rökrásirnar sem séu ónýtar en ekki diskurinn sjálfur, eru menn sammála því? Ætti maður eitthvað að vera að nota hann lengur?\nEdit: Eftir að hafa restartað nokkrum sinnum þar sem ég er að setja inn meira vinnsluminni þá er tölvan ekki að meika diskinn, vill ekki posta eða boota í flestum tilfellum og ég þarf að fara inn í bios og út úr honum aftur til að fá tölvuna til að starta. Diskurinn er hérmeð afskrifaður.",
+            "date": "2013-01-22 18:26:00",
+            "post_id": "491058",
+            "reply_to_id": "489327"
+        },
+        {
+            "user_name": "roadwarrior",
+            "text": "Mér heyrist að diskurinn þinn sé tilvalið efni í e-vaste tunnuna.\nLenti í svipuðu í fyrra og það eina sem ég gat gert var að panta nýtt stýrispjald fyrir diskinn til að bjarga þeim gögnum sem á honum voru.\nFékk mér í framhaldi eina svona:\nhttp://h10010.www1.hp.com/wwpc/us/en/sm ... html?dnr=1\nSetti upp á hana Windows Homeserver og setti svo í hana 2x2tb sem ég læt speiglast.\nBara snilldargræja sem hægt er að nota fyrir allan andskotan, verst að ég hef lítið fiktað í henni síðan þá, nota hana aðalega til að hýsa gögnin en stýrikerfið býður uppá ýmsa skemtilega möguleika.",
+            "date": "2013-01-22 20:24:00",
+            "post_id": "491089",
+            "reply_to_id": "491058"
+        },
+        {
+            "user_name": "odinnn",
+            "text": "Já hann er ónothæfur núna en aðal málið er að ég náði öllum gögnunum af honum án mikilla vandræða.\nÉg finn ekki þennan HP microserver til sölu hérna í Noregi. En hann er ekki svo ósvipaður þeim sem ég er að spá í að kaupa, \nþessum\n en þessi er öflugur og hefur mjög góða möguleika á stækkun. Einnig er stýrikerfið þeirra einfalt fyrir letingja eins og mig og möguleikarnir miklir. Hinsvegar er Synology NAS-inn tvöfallt-þrefallt dýrari og það er ekki innifalinn neinn harður diskur. Held samt að það sé þess virði vegna svegjanleika í stækkun og hversu einfaltur hann er í keyrslu.",
+            "date": "2013-01-22 20:49:00",
+            "post_id": "491094",
+            "reply_to_id": "491089"
+        },
+        {
+            "user_name": "roadwarrior",
+            "text": "Enda var hann dottin úr sölu þegar ég keypti hann. Verslaði hann af aðila í Austurríki í gegnum eBay. Þeir voru dirt cheap úti þegar þeir fengust.\nAllavega held ég að það sé sniðugra fyrir fólk að fá sér NAS eða álíka þegar gagnamagnið er orðið mikið og fólk er tilbúið að leggja aðeins meiri vinnu og áhuga í hann frekar en að fá sér flakkara",
+            "date": "2013-01-22 21:16:00",
+            "post_id": "491098",
+            "reply_to_id": "491094"
+        },
+        {
+            "user_name": "odinnn",
+            "text": "Nákvæmlega, en það sem ég er aðalega að horfa á í dag er gagnaöryggi, ég er búinn að missa 3 diska á 4-5 árum og þó mér sé nokkuð sama um 95% af öllu efninu sem er á disknum þá eru þessi 5% dýrmæt. Einnig hef ég mikið verið að hugsa um gagnaöryggi fjölskildunar í heild þar sem systkini mín hafa verið að eignast börn og það væri ömurlegt að missa allar þær myndir og videó sem til eru af þeim og öðru í gegnum árin. Þannig að mínar forsendur er öryggi, stækkunarmöguleikar, tengimöguleikar (hafa aðgang að gögnunum hvar sem er í hverju sem er) og svo möguleikar á að geta steamað í sjónvarp eða önnur tæki.",
+            "date": "2013-01-22 21:28:00",
+            "post_id": "491100",
+            "reply_to_id": "491098"
+        }
+    ],
+    "date": "2013-01-13 13:39:00"
+}

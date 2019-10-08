@@ -1,0 +1,114 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "1467",
+    "title": "2*256 í dualmode eða 1*512 ?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=1467",
+    "posts": [
+        {
+            "user_name": "Voffinn",
+            "text": "Just what the topic says, hvort munduði taka. \n\n\n\n2*256 - Kingston HyperX\n\n1*512 - Kingston HyperX\n\n\n\nUppá þá performance",
+            "date": "2003-09-08 17:39:00",
+            "post_id": "12698",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Ef þú ert með Dual DDR móðurborð...er þá ekki málið að taka 2x256 til að nýta bandvíddina sem Dualinn býður upp á?",
+            "date": "2003-09-08 18:03:00",
+            "post_id": "12705",
+            "reply_to_id": "12698"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "Jú ætli það ekki",
+            "date": "2003-09-08 18:07:00",
+            "post_id": "12706",
+            "reply_to_id": "12705"
+        },
+        {
+            "user_name": "Xnotandi",
+            "text": "en er ekki samt í lagi að hafa 1*512 til að byrja með og bæta síðan við öðrum 512 seinna?",
+            "date": "2003-10-12 17:18:00",
+            "post_id": "15859",
+            "reply_to_id": "12706"
+        },
+        {
+            "user_name": "ICM",
+            "text": "hvaða aumingjaskapur er þetta, bara skella sér á 2x512",
+            "date": "2003-10-12 17:19:00",
+            "post_id": "15860",
+            "reply_to_id": "15859"
+        },
+        {
+            "user_name": "legi",
+            "text": "Það er náttúrlega tóm vitleysa að fá sér Dual DDR borð og vera bara með 1 minniskubb..",
+            "date": "2003-10-12 18:20:00",
+            "post_id": "15866",
+            "reply_to_id": "15860"
+        },
+        {
+            "user_name": "Arnar",
+            "text": "Ég er nú að spá í ABIT NF7-S móðurborð sem er með dual DDR.\n\nSamt ekki útaf því.. er með ABIT AT7-MAX2 móðurborð með VIA kubba sett.. og VIA styður ekki 1/6 divider þannig ég get nánast ekkert oc..\n\n\n\nÉg er með 1x 512mb PC3200 Kingston Hyperx\n\nEr hægt að fara yfir 200fsb með þessu minni?  Eða þyrfti þá 3500 til að fara yfir 200fsb?\n\n\n\nOg munar miklu á þessu?\n\nÆtti ég að selja þetta minni og fá mér 2x 256mb?\n\nEða bara jafnvel bíða þangað til að mar getur keypt annan 512",
+            "date": "2003-10-12 18:27:00",
+            "post_id": "15867",
+            "reply_to_id": "15866"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "það er ekkert vit að vera með minna en 1gb ram í xp.",
+            "date": "2003-10-12 21:39:00",
+            "post_id": "15884",
+            "reply_to_id": "15867"
+        },
+        {
+            "user_name": "Icarus",
+            "text": "ég myndi segja að það væri sniðugast að kaupa sér eitt stykki 512mb og kaupa sér annað seinna þegar peningur leyfir.\n\n\n\nEins og ég hef minnst á hér í mörgum korkum þá er ég að fara að uppfæra og átti í smá deilu við sjálfan mig, hvort ég ætti að kaupa mér 2x256 eða 1x512 (hafði bara ekki efni á GB).\n\n\n\nÁ endanum ákvað ég að kaupa mér 1x512 því að þá get ég, mjög líklega í sumar þegar maður byrjar að vinna aftur keypt mér annað stykki 512 og þá nýtt Dual DDR til fulls.",
+            "date": "2004-01-07 17:16:00",
+            "post_id": "26858",
+            "reply_to_id": "15884"
+        },
+        {
+            "user_name": "Zaphod",
+            "text": "1 GB er fínt í dual ddr",
+            "date": "2004-01-07 18:35:00",
+            "post_id": "26887",
+            "reply_to_id": "26858"
+        },
+        {
+            "user_name": "Damien",
+            "text": "Ég er með 2x512 HyperX PC3200 og það er að svínvirka...",
+            "date": "2004-01-07 23:45:00",
+            "post_id": "26961",
+            "reply_to_id": "26887"
+        },
+        {
+            "user_name": "SkaveN",
+            "text": "sama hér er með 2x512 hyperX og er að keyra þá á 2-2-2-4 og þeir svín virka!!",
+            "date": "2004-01-08 02:20:00",
+            "post_id": "26986",
+            "reply_to_id": "26961"
+        },
+        {
+            "user_name": "Damien",
+            "text": "Ég er nú ekki búinn að prufa margar stillingar en ég er með þá núna á 2-3-2-6 minnir mig...",
+            "date": "2004-01-09 16:25:00",
+            "post_id": "27149",
+            "reply_to_id": "26986"
+        },
+        {
+            "user_name": "Nemesis",
+            "text": "2x 256, því annars ertu ekki að nýta þér 800Mhz FSB:\n\n\n\nBus\n\n Bandwidth, GB/sec\n\n\n\n400MHz Quad Pumped Bus\n\n 3.2 GB/sek\n\n800MHz Quad Pumped Bus\n\n 6.4 GB/sek\n\n\n\nSingle-channel DDR400 SDRAM\n\n 3.2 GB/sek\n\nDual-channel DDR400 SDRAM\n\n 6.4 GB/sek\n\n\n\nÞá vitum við það!",
+            "date": "2004-01-18 04:01:00",
+            "post_id": "28163",
+            "reply_to_id": "27149"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "2x 512.. því annars ertu ekki að nota tölvuna þína.",
+            "date": "2004-01-18 16:28:00",
+            "post_id": "28208",
+            "reply_to_id": "28163"
+        }
+    ],
+    "date": "2003-09-08 17:39:00"
+}

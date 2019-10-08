@@ -1,0 +1,23 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "13231",
+    "title": "Búa til VirtualHost í Apache server",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=13231",
+    "posts": [
+        {
+            "user_name": "@Arinn@",
+            "text": "Hvernig býr maður til Virtual Host í apache server ?",
+            "date": "2007-02-11 01:05:00",
+            "post_id": "138762",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Neðst í httpd.conf er sýnidæmi hvernig á að búa til virtual host. \n\n\n\nSíðan eru hér nokkrir tenglar sem ég fann á google:\n\nhttp://apptools.com/phptools/virtualhost.php\n\n\nhttp://www.apacheweek.com/features/vhost\n\n\nhttp://tldp.org/HOWTO/Virtual-Services-HOWTO-8.html\n # fyrir linux en ætti að virka á windows líka með smá breytingum\n\nhttp://gentoo-wiki.com/HOWTO_Apache_VirtualHost_by_IP_Address\n # sama hér",
+            "date": "2007-02-11 12:52:00",
+            "post_id": "138770",
+            "reply_to_id": "138762"
+        }
+    ],
+    "date": "2007-02-11 01:05:00"
+}

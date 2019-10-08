@@ -1,0 +1,128 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "45146",
+    "title": "one beep no display screen (nýleg vél)",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=45146",
+    "posts": [
+        {
+            "user_name": "Dr3dinn",
+            "text": "Góða kveldið\nÁ ég við vandamál að stríða, sem ég hef þegar eytt töluverðum tíma að leysa. \nVandamál\nMeð óreglulegu millibili gefur vélin frá sér eitt beep og svo hverfur sambandið milli skjásins og vélinar (one beep no display screen)\nath. windows 7 ultimate\nHef nú þegar prófað;\nAthuga minnin - þ.e. stillingar (breytt fram og til baka, ekkert lagast, setti svo aftur í upprunalega)\nbios - uppfærslur (allt í lagi)\ndrivera - uppfærslur (allt í lagi)\nAllar snúrur  (góðu lagi)\nAftengdi allt í kassanum og tengdi aftur. (allt í lagi)\nTók minnin úr og setti aftur í. (allt í lagi)\nReyndi basic hluti eins og windows repair (hlægið hér)\nEkki power prob / hvíl / hypernate (afsakið stafsetningu)\nHef reynt nokkrar google - lausnir sem hjálpuðu engan veginn, því leita ég hér með af skynsamlegri lausnum, allar hugmyndir eru vel\nþegnar.\nVélbúnaður -frá kísildal\nNý vél með 8gb minni ddr3 (1333),  Bulldozer FX-6100 (OEM)\n3.1GHz (3.9GHz Turbo), 6MB L2 + 8MB L3 skyndiminni, AM3+, sexkjarna\n8800gts 320mb skjakort.\nAntec 180 \n750w psu.\nÞúsund þakkir",
+            "date": "2012-01-26 22:20:00",
+            "post_id": "416003",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Nitruz",
+            "text": "uff já það er ekki gott að segja en reyndu útilokunaraðferðina. Prufað að keyra með annað skjákort eða onboard ef til staðar.",
+            "date": "2012-01-26 22:35:00",
+            "post_id": "416014",
+            "reply_to_id": "416003"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Prufaðu annað skjákort ef að þú getur, það væri það fyrsta sem að ég myndi reyna (er ekki örugglega tengt PCI-e rafmgnstengið í skjákortið)\nEf að það er í lagi myndi ég giska á aflgjafann eða örgjörvann (sumir hafa lent á funky Bulldozer-um)\nSpurning um að renna með dótið í Kísildal ef að vélin lætur svona með öðru skjákorti og fá þá til að kíkja á þetta",
+            "date": "2012-01-26 23:20:00",
+            "post_id": "416036",
+            "reply_to_id": "416014"
+        },
+        {
+            "user_name": "Dr3dinn",
+            "text": "Þúsund þakkir fyrir góðu svör.\nÞað er allt rétt tengt í kassanum. Því miður á maður ekki annað skjákort sem passar í þessa rauf.\nÞessi aflgjafi á að vera feiki nóg fyrir þennan vélbúnað að mér skilst.\nHugsa að ég læt þá í kísildal fá verkefni.",
+            "date": "2012-01-26 23:44:00",
+            "post_id": "416051",
+            "reply_to_id": "416036"
+        },
+        {
+            "user_name": "Bioeight",
+            "text": "Kemur beep og skjárinn hverfur í miðri keyrslu(inní Windows?)? Eða gerist þetta randomly þegar þú ert að starta vélinni?",
+            "date": "2012-01-27 00:02:00",
+            "post_id": "416059",
+            "reply_to_id": "416051"
+        },
+        {
+            "user_name": "HelgzeN",
+            "text": "Hva ný tölva, er LEGENDIÐ að fara að kíkja i cs ?",
+            "date": "2012-01-27 00:03:00",
+            "post_id": "416060",
+            "reply_to_id": "416059"
+        },
+        {
+            "user_name": "Dr3dinn",
+            "text": "Sæll\nÞetta gerist randomly 10min,  stundum klst., í venjulegri vinnslu og stundum í engri.\nEkki hitavandamál gleymdi að taka það fram.",
+            "date": "2012-01-27 00:05:00",
+            "post_id": "416062",
+            "reply_to_id": "416060"
+        },
+        {
+            "user_name": "worghal",
+            "text": "hljómar eins og skjákortið",
+            "date": "2012-01-27 00:07:00",
+            "post_id": "416063",
+            "reply_to_id": "416062"
+        },
+        {
+            "user_name": "Dr3dinn",
+            "text": "Veit ekki með cs-ið, maður þurfti að taka \nfm2012, anno nýja, sid5,age3 osfr \n  - Allir sem maður þekkir í þessu eru hættir  \n \nAnnars efast ég með come-backið, \nháskólinn gengur\n fyrir  \n \nAnnars er maður alltaf vélbúnaðarmaður fyrir því.... að eiga góða tölvu er eins og fyrir gamla menn að eiga fallega og fína bíla.... þetta er princip mál, ekki endilega spurning um notkunargildi.",
+            "date": "2012-01-27 00:08:00",
+            "post_id": "416064",
+            "reply_to_id": "416063"
+        },
+        {
+            "user_name": "Dr3dinn",
+            "text": "Sæll\nTakk fyrir svarið, þú telur að \nvandamálið\n tengist skjákortinu já,   \n(rafmagn/drivers/tengi/bilað/eitthvað major etc?)\nAð skjóta orðinu skjákortið, er vissulega vel þegið en mjög óljóst og pólitískt svar",
+            "date": "2012-01-27 00:11:00",
+            "post_id": "416066",
+            "reply_to_id": "416064"
+        },
+        {
+            "user_name": "J1nX",
+            "text": "jæja Freði, seldirðu tölvuna sem er í undirskriftinni hjá þér eða áttu hana ennþá?",
+            "date": "2012-01-27 00:11:00",
+            "post_id": "416067",
+            "reply_to_id": "416066"
+        },
+        {
+            "user_name": "Dr3dinn",
+            "text": "Seldi gamla örran, seldi minnið og móðurborðið..... Notaði hitt áfram  \n \nFékk vissulega lítið fyrir þetta dót (8þ). En fékk nýja draslið á mjög góðu verði \nbulldozerinn + móðurborð + 8gb minni = 43þ",
+            "date": "2012-01-27 00:16:00",
+            "post_id": "416069",
+            "reply_to_id": "416067"
+        },
+        {
+            "user_name": "Bioeight",
+            "text": "Kemur beepið frá móðurborðinu eða hátölurunum? Hvaða móðurborð og minniskubba ertu með?",
+            "date": "2012-01-27 00:18:00",
+            "post_id": "416071",
+            "reply_to_id": "416069"
+        },
+        {
+            "user_name": "Dr3dinn",
+            "text": "Beepið virðist koma frá hátölurunum, þ.e. hljóðið kemur að framan. \nmóðurborð ;\n ASRock 880GMH/U3S3 r2.0  AMD3+\nminni, \ng.skill 8gb nt-series pc3-10600 cl9d\n2x 4gb ddr3 1333",
+            "date": "2012-01-27 00:22:00",
+            "post_id": "416073",
+            "reply_to_id": "416071"
+        },
+        {
+            "user_name": "Bioeight",
+            "text": "Speeees. Á móðurborðinu þínu ætti samt að vera innbyggð skjástýring, HD4250, ekkert sérstaklega öflugt en nóg til að geta prófað hvort þetta heldur áfram með skjákortið úr vélinni, þá eru VGA, DVI og HDMI  tengi á móðurborðinu. Alltaf auðveldast að byrja á elsta hlutnum sem kemur til greina, kemur alveg til greina að þetta sé skjákortið þannig að það er þess virði að prófa það. \nAnnað sem er auðvelt að prófa er að setja vinnsluminnin í hinar raufarnar, prófa að hafa þau í hvítu eða bláu raufunum.\nSvo að stilla manually í UEFI stillingarnar á minnunum á uppgefnar stillingar(veit ekki hvort þú gerðir það í fiktinu þínu) undir DRAM timing control. Ættir samt ekkert að þurfa að gera það en maður veit aldrei.\nCAS# Latency 9\nRAS# to CAS# delay 9\nRow Precharge Time 9\nRAS# Active Time 24\nCommand Rate 2N\nDRAM Voltage 1.5\nEf þú bara notar innbyggða skjákortið á móðurborðinu til að útiloka að vandamálið sé gamla skjákortið þitt þá finnst mér það alveg vera nóg og þá ætti Kísildalur að finna út úr þessu. Ekkert fleira sniðugt sem mér dettur í hug þar sem þetta getur verið svo margt.",
+            "date": "2012-01-27 01:01:00",
+            "post_id": "416084",
+            "reply_to_id": "416073"
+        },
+        {
+            "user_name": "MCTS",
+            "text": "Samkvæmt þessu þá er sagt að þetta sé refresh failure á minninu spurning hvort þessar upplýsingar séu up to date ef þú átt eða þekkir einhvern sem á vinnsluminni sem þú getur fengið til að prófa þá myndi ég ekki hika við það\nhttp://webpages.charter.net/dperr/beepcode.htm",
+            "date": "2012-01-27 03:39:00",
+            "post_id": "416102",
+            "reply_to_id": "416084"
+        },
+        {
+            "user_name": "Dr3dinn",
+            "text": "Þakkir fyrir góð svör.",
+            "date": "2012-01-29 16:34:00",
+            "post_id": "416676",
+            "reply_to_id": "416102"
+        }
+    ],
+    "date": "2012-01-26 22:20:00"
+}

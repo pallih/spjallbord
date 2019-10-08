@@ -1,0 +1,51 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "78645",
+    "title": "Switchar á milli identifying og cable unblugged",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=78645",
+    "posts": [
+        {
+            "user_name": "Lego_Clovek",
+            "text": "Er að lenda í vandræðum með netið hjá mér í borðtölvuni, það switchar bara á milli ientifying og cable unplugged buinn að prófa restarta tölvu og router, buinn að rinstalla driver fyrir netkortið,buinn að prufa aðra snúru en hedlur bara áfram að gera það sama. Er byrjaður að halda að netkortið á móðurborðinu sé ónýtt. hefur einhver hugmynd um hvað þetta gæti verið annað?\nþráðlausa virkar þetta er bara borðtölvan",
+            "date": "2019-02-22 23:08:00",
+            "post_id": "685585",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Sporður",
+            "text": "Ertu með fleiri tæki tengd í beini með netkapli? Ertu 100% á því að beinirinn sé ekki vandamálið?\nEitt til útilokunar í viðbót. Hefurðu prufað að tengja í mismunandi útganga á beininum? \nAnnað sem er kannski langsótt. Að endurræsa biosinn. System default settings eða system optimal settings eða hvað það heitir.",
+            "date": "2019-02-23 08:40:00",
+            "post_id": "685594",
+            "reply_to_id": "685585"
+        },
+        {
+            "user_name": "asgeireg",
+            "text": "Prófa að hægrismella á netkortið inni í network adapters og gera disable og svo enable aftur.\neins að prófa að sækja um nýja iptölu í CMD\nipconfig /release\nipconfig /renew",
+            "date": "2019-02-23 10:14:00",
+            "post_id": "685597",
+            "reply_to_id": "685594"
+        },
+        {
+            "user_name": "Lego_Clovek",
+            "text": "prófaði allt þetta, ekkert af þessu virkaði. prófaði líka að installa clean windows það virkaði ekki. prófaði annan router það virkaði ekki, en tengdi svo hinn aftur og þá virkaði það allt í einu, veit ekki hvað var í gangi",
+            "date": "2019-02-23 15:21:00",
+            "post_id": "685609",
+            "reply_to_id": "685597"
+        },
+        {
+            "user_name": "Lego_Clovek",
+            "text": "gerði þetta, fékk bara APIPA tölu aftur og aftur",
+            "date": "2019-02-23 15:22:00",
+            "post_id": "685610",
+            "reply_to_id": "685609"
+        },
+        {
+            "user_name": "Lego_Clovek",
+            "text": "En þetta er komið í lag, virkaði bara allt í einu",
+            "date": "2019-02-23 15:22:00",
+            "post_id": "685611",
+            "reply_to_id": "685610"
+        }
+    ],
+    "date": "2019-02-22 23:08:00"
+}

@@ -1,0 +1,72 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "29248",
+    "title": "Opna port annarstaðar",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=29248",
+    "posts": [
+        {
+            "user_name": "Páll",
+            "text": "Núna vantar mig hjálp frá ykkur vaktarar!\nHvernig opna ég port á \nANNARI\n tengingu? \nÞví að serverinn minn er heima enn ekki ég hvað geri ég þá? mig sárvantar að opna port.",
+            "date": "2010-03-27 22:42:00",
+            "post_id": "253046",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Uhm gæti hjálpað þér með það hvernig þú getur configurað routerinn til að geta gert þetta frá ákveðinni staðsetningu ef þú ferð heim til þín, \nen ég get ekki hjálpað þér með hitt vegna þess að A) ég kann það ekki og B) það væri essentially að lögbrot að gefa þessar upplýsingar á opnum vef imo.",
+            "date": "2010-03-27 23:07:00",
+            "post_id": "253050",
+            "reply_to_id": "253046"
+        },
+        {
+            "user_name": "Páll",
+            "text": "ehm...... er það hægt í gegnum ssh eða eitthvað?",
+            "date": "2010-03-27 23:09:00",
+            "post_id": "253051",
+            "reply_to_id": "253050"
+        },
+        {
+            "user_name": "akarnid",
+            "text": "Nú er ég ekki alveg að skilja...\nÞarftu að komast inn á tölvuna þína af annari tengingu en þinni, en þarft að gera það gegnum port sem er ekki opið fyrir umheiminum?\nEf svo er þá ertu screwed.\nSSH hjálpar að sjálfsögðu, EF port 22 er opið út á við heiman frá þér \n  Og þá ertu bara kominn oftast nær með skeljaraðgang, en ef þú getur gert þetta þannig þá ertu golden.\nLogMeIn Ignition er málið fyrir þessi tilvik.",
+            "date": "2010-03-27 23:29:00",
+            "post_id": "253061",
+            "reply_to_id": "253051"
+        },
+        {
+            "user_name": "Páll",
+            "text": "Sko, port 22 er opið og allt það dæmi, enn ég þarf að opna annað port fyrir annað sem ég er að gera. \nEr connectaður með ssh aðgangi líka.\nEr að runna Debian server edition.",
+            "date": "2010-03-27 23:35:00",
+            "post_id": "253062",
+            "reply_to_id": "253061"
+        },
+        {
+            "user_name": "kizi86",
+            "text": "settu upp epiphany-browser a servernum sem vilt opna port á, svo þarftu að forwarda X í gegn um SSH, ef ert i linux þá skrifarru bara ssh -Y \nuser@server.com\n og svo skrifar þu i terminal: epiphany 192.168.1.1 eða 254 eða bara hvað sem ip talan á routernum er..",
+            "date": "2010-03-28 00:41:00",
+            "post_id": "253075",
+            "reply_to_id": "253062"
+        },
+        {
+            "user_name": "Páll",
+            "text": "Komdu á msn kötturinn þinn og hjálpaðu mér",
+            "date": "2010-03-28 00:50:00",
+            "post_id": "253076",
+            "reply_to_id": "253075"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Ég er orðlaus.\nGerðu okkur þann greiða að fylgjast með í íslensku tímum.",
+            "date": "2010-03-28 13:55:00",
+            "post_id": "253127",
+            "reply_to_id": "253076"
+        },
+        {
+            "user_name": "Páll",
+            "text": "Afsakaðu mig herra stórmeistari.",
+            "date": "2010-03-28 15:05:00",
+            "post_id": "253134",
+            "reply_to_id": "253127"
+        }
+    ],
+    "date": "2010-03-27 22:42:00"
+}

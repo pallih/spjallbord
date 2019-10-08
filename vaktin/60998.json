@@ -1,0 +1,86 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "60998",
+    "title": "\"Flæðandi\" LED lýsing - tengja saman LED borða",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=60998",
+    "posts": [
+        {
+            "user_name": "blitz",
+            "text": "Sælir.\nEr að skipuleggja smá LED lýsingu heima en í því felst m.a. að ég þurfi að búa til c.a. 15-20m langa LED lengu úr svona LED borðum:\nNúna kemur þetta oftast í c.a. 3-5m löngum lengjum, sem ég þyrfti að klippa og tengja saman með 90° hornum og framlengingum. \n90°\nog \nHérna eru t.d. LED strips sem koma til greina:\nhttp://www.superbrightleds.com/moreinfo ... rips/1470/\nEr hægt að tengja þetta saman og keyra á einum straumbreyti? Þarf ég einhvern extra kraftmikinn straumbreyti? Planið væri að tengja straumbreyti beint í tengi fyrir loftljós.",
+            "date": "2014-05-22 11:09:00",
+            "post_id": "562757",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "blitz",
+            "text": "http://www.ebay.com/itm/10M-20M-30M-40- ... 0848216669\nHérna er eitthvað drasl væntanlega beint frá kína, fyrir 20m nota þeir 120w PSU. Myndi kannski taka svona en reyna að finna eitthvað quality PSU þar sem að þetta yrði notað með innfelldri lýsingu",
+            "date": "2014-05-22 11:23:00",
+            "post_id": "562759",
+            "reply_to_id": "562757"
+        },
+        {
+            "user_name": "peturm",
+            "text": "Það er algengt að svona borðar taki 0,6-1,2 amper per mete á 12v spennnu.\nÞað þýðir að 20 metrar gætu verið að draga allt að 20 amper eða 240w.\nHinsvegar gengur ekki að raðtengja þessa borða mikið umfram 5 metra þar sem það er orðið töluvert spennufall eftir þessa 5 metra og því myndu ljósin öll dofna sem á eftir kæmu. Betra er að tengja að hverjum 5 metrum (ca) sérstaklega.\nÉg er með lengst 6 metra raðtengda hjá mér, það sleppur en ég er ekki frá því að síðasti meterinn sé aðeins að slappast.\nhttps://www.dropbox.com/s/0jrokfuyq7rspzd/2014-05-05%2001.18.46.jpg",
+            "date": "2014-05-22 11:29:00",
+            "post_id": "562760",
+            "reply_to_id": "562759"
+        },
+        {
+            "user_name": "roadwarrior",
+            "text": "Þarft einn svona og fleiri spennubreyta ef þú ferð yfir 5 mtr\nhttp://cgi.ebay.com/ws/eBayISAPI.dll?Vi ... OU:US:3160",
+            "date": "2014-05-22 12:32:00",
+            "post_id": "562766",
+            "reply_to_id": "562760"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Kæmist hann ekki upp með einn öflugan spennubreyti og renna bara snúru meðfram og tengja á 5m fresti? Kannski fyrirferðarminna en 4-5 spennubreytar.",
+            "date": "2014-05-22 23:36:00",
+            "post_id": "562814",
+            "reply_to_id": "562766"
+        },
+        {
+            "user_name": "roadwarrior",
+            "text": "Mja hann þyrfti þá að vera helv stór. hver 5mtr lengja tekur 12volt/5amp og þeir spennubreytar sem fylgja oftast eru 5-6 amp\nAnnar möguleiki er 230v led lengja. Þar er minna vandamál með lengd. Held að þær virki hátt í 100mtr á einni kló",
+            "date": "2014-05-23 02:55:00",
+            "post_id": "562824",
+            "reply_to_id": "562814"
+        },
+        {
+            "user_name": "suprah3ro",
+            "text": "Ég sá einmitt einn gaur í gær á youtube vera fikta með svona, sem er frekar spennandi. \nBara ef þetta hjálpar þér eitthvað: \nhttps://www.youtube.com/watch?v=kf2WNVr ... _207866447",
+            "date": "2014-05-23 12:39:00",
+            "post_id": "562846",
+            "reply_to_id": "562824"
+        },
+        {
+            "user_name": "blitz",
+            "text": "Takk fyrir þessar upplýsingar.\nÞetta eru reyndar \"bara\" um 12m sem ég þarf, breytti teikningunum aðeins.",
+            "date": "2014-05-23 12:40:00",
+            "post_id": "562847",
+            "reply_to_id": "562846"
+        },
+        {
+            "user_name": "OliA",
+            "text": "Þú þarft væntanlega amplifier ef þú ætlar að tengja saman fleiri en eitt sett af borða.\nÞað þarf að hafa í huga að borðinn sjálfur er yfirleitt bara hannaður til að bera þann straum sem 5m þrufa. Ef þú ferð að setja tvo borða saman er næsta víst að sá fyrsti brenni á endanum.\nÞessir amplifierar eru stórsniðugir, það gefur þér möguleikann á að keyra alla borðana á sömu stýringu.\nEf þetta eru langar leiðir frá spenni að borða, þá ættiru að hugsa um að taka 24V borða.",
+            "date": "2014-05-23 13:33:00",
+            "post_id": "562850",
+            "reply_to_id": "562847"
+        },
+        {
+            "user_name": "Oak",
+            "text": "http://www.ebay.com/itm/10M-3528-SMD-RG ... 1501466055\nHérna virðast þeir bara plugga þessu saman og þarft 12V/5A  spennubreytir fyrir þetta",
+            "date": "2014-05-23 18:33:00",
+            "post_id": "562866",
+            "reply_to_id": "562850"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "60W á 5m gera þá 180-240W á 15-20m. Ætti að sleppa með ATX psu ef pláss leyfir á einum stað, jafnvel þokkalegt mATX.\nEn já, kannski eru 230V lengjur sniðugri.",
+            "date": "2014-05-23 19:36:00",
+            "post_id": "562868",
+            "reply_to_id": "562866"
+        }
+    ],
+    "date": "2014-05-22 11:09:00"
+}

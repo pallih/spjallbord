@@ -1,0 +1,51 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "13089",
+    "title": ".bat hjálp, Internet",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=13089",
+    "posts": [
+        {
+            "user_name": "Dabbz",
+            "text": "Þannig er mál með vexti að ég er að fikta við að búa til bat file og læra með því að fikta og nota google \n\n\n\n\nEn já ég er að búa til startup  á firefox, s.s bara bat file á desktop og þegar ég ýti á hann þá fer firefox í gang, eins og bara shortcut.\n\n\n\nEn ég vil geta sett aðra síðu af stað þegar ég starta s.s ekki homepage.\n\n\n\nÞetta er það sem komið er í þennan file.\n\n\n\nSTART /MAX firefox.exe > bat-test.txt\n\n\n\nEinhver til í að hjálpa.",
+            "date": "2007-02-01 11:52:00",
+            "post_id": "137585",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "dorg",
+            "text": "Stærra en merkið merkir að outputið úr forritinu á að lenda í skránni bat-test.txt\n\nEn þar sem þetta er gui forrit þá kemur ekkert þangað.\n\n\n\nEf þú vilt taka færibreytu með forriti þá er það firefox.exe bat-test.txt\n\nEn hinsvegar eru .cmd skrár mun öflugri en batch skrár ef ég man rétt.\n\n\n\nEn ef þú ætlar að feta þessa slóð þá ættir þú að kíkja yfir í linux heiminn",
+            "date": "2007-02-01 22:59:00",
+            "post_id": "137716",
+            "reply_to_id": "137585"
+        },
+        {
+            "user_name": "CraZy",
+            "text": "Á að fara fíbblast í einhverjum? Náttúrulega gamall klassari að láta einhvern ræsa .bat skrá og þá poppa upp milljón klám poppuppar eða meatspin.com\n\nEkki það að ég hafi gert það..",
+            "date": "2007-02-01 23:11:00",
+            "post_id": "137719",
+            "reply_to_id": "137716"
+        },
+        {
+            "user_name": "Dabbz",
+            "text": "Við gerðum það samt fyrir svona 3 árum í lappa hjá vini okkar, hún var ekki að höndla 100 glugga í einu og bara crashaði. Var bara búinn að gleyma þessu öllu",
+            "date": "2007-02-02 08:47:00",
+            "post_id": "137769",
+            "reply_to_id": "137719"
+        },
+        {
+            "user_name": "BlackMan890",
+            "text": "START firefox.exe \nhttp://www.bla.is",
+            "date": "2007-04-27 10:42:00",
+            "post_id": "145062",
+            "reply_to_id": "137769"
+        },
+        {
+            "user_name": "Dagur",
+            "text": "Eða læra á \nwindows powershell",
+            "date": "2007-04-27 12:30:00",
+            "post_id": "145069",
+            "reply_to_id": "145062"
+        }
+    ],
+    "date": "2007-02-01 11:52:00"
+}

@@ -1,0 +1,44 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "29693",
+    "title": "minnka myndir",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=29693",
+    "posts": [
+        {
+            "user_name": "FriðrikH",
+            "text": "Veit einhver um eitthvað þægilegt linux forrit til að minnka mikið magn af stafrænum myndum í einu?",
+            "date": "2010-04-20 15:37:00",
+            "post_id": "257275",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Minnir að það sé til forrit sem heitir Simple Image Resizer.",
+            "date": "2010-04-20 15:48:00",
+            "post_id": "257276",
+            "reply_to_id": "257275"
+        },
+        {
+            "user_name": "kizi86",
+            "text": "hér er smá tutorial með forrit sem heitir mogrify, sem er command line based forrit, mjög einfalt og þæginlegt\nhttp://www.smokinglinux.com/tutorials/h ... e-on-linux",
+            "date": "2010-04-21 12:09:00",
+            "post_id": "257427",
+            "reply_to_id": "257276"
+        },
+        {
+            "user_name": "Cascade",
+            "text": "Ég nota Phatch",
+            "date": "2010-04-21 12:26:00",
+            "post_id": "257430",
+            "reply_to_id": "257427"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Ég nota imagemagick\nKóði: \nVelja allt\nfor i in *.jpg; do convert -resize 25% -quality 95 \"$i\" \"$i\"_resized.jpg; done",
+            "date": "2010-04-26 11:59:00",
+            "post_id": "258335",
+            "reply_to_id": "257430"
+        }
+    ],
+    "date": "2010-04-20 15:37:00"
+}

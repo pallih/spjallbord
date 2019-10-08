@@ -1,0 +1,198 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "11933",
+    "title": "Eru hraðatakmarkanir á ADSL löglegar?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=11933",
+    "posts": [
+        {
+            "user_name": "cue",
+            "text": "Ég hef orðið óþægilega var við að HIVE sé að throttla niður P2P umferð hjá sér.\n\n\n\nÞað sem mig myndi langa að vita er hvort þetta séu ekki sölusvik. Þ.e þegar viðskiptavinur kaupir 4-6-8-12 mbit tengingu hvernig getur internet veita leift sér að draga úr keyptum hraða",
+            "date": "2006-10-02 23:11:00",
+            "post_id": "128591",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "emmi",
+            "text": "Löglegt eða ekki, hef ekki hugmynd um það. En ég veit að Vodafone gerir þetta líka enda veitir ekki af, útlandagáttin hjá þeim er algjört sorp.",
+            "date": "2006-10-03 09:16:00",
+            "post_id": "128600",
+            "reply_to_id": "128591"
+        },
+        {
+            "user_name": "urban",
+            "text": "sjálfsagt er hægt að fara í mál við þá\n\nog jafnvel vinna það\n\n\n\nen aftur á móti ef að það kemur í ljós að það er ólöglegt þá taka þeir það bara allt af\n\nog þá kemur þetta vandamál á sjálfu sér, svona reyna þeir þó að stjórna þessu aðeins",
+            "date": "2006-10-03 11:43:00",
+            "post_id": "128608",
+            "reply_to_id": "128600"
+        },
+        {
+            "user_name": "JReykdal",
+            "text": "Ég verð að svekkja þig á því að það er verið að selja þér það sem stendur á umbúðunum.\n\n\n\nHraðinn á ADSL línunni stenst líkelga alveg. Það eru engin loforð gefin um hraða á forritum eða protocolum.",
+            "date": "2006-10-03 15:26:00",
+            "post_id": "128616",
+            "reply_to_id": "128608"
+        },
+        {
+            "user_name": "corflame",
+            "text": "Þetta er ekki bara Hive, allar netveiturnar gera þetta.",
+            "date": "2006-10-03 16:33:00",
+            "post_id": "128623",
+            "reply_to_id": "128616"
+        },
+        {
+            "user_name": "Sidious",
+            "text": "Það er nú samt ekkert lítið sem hive hefur verið að cappa mann, ert kannski connect-aður á 100 seeds og nærð ekki meiri hraða en 40kb á sec og svo er bara ekki hægt að upload-a lengur hjá mér",
+            "date": "2006-10-03 17:52:00",
+            "post_id": "128627",
+            "reply_to_id": "128623"
+        },
+        {
+            "user_name": "Amything",
+            "text": "breytir engu ef þið notið annað en default port fyrir torrenta?",
+            "date": "2006-10-03 18:26:00",
+            "post_id": "128632",
+            "reply_to_id": "128627"
+        },
+        {
+            "user_name": "Blackened",
+            "text": "Ég nota FTP portið góða 21 og ég fæ alltaf fullan hraða..\n\n\n\nÆtli þeir séu ekki bara að cappa hraða á portum? sakar ekki að prufa að breyta portinu allavega",
+            "date": "2006-10-03 18:55:00",
+            "post_id": "128637",
+            "reply_to_id": "128632"
+        },
+        {
+            "user_name": "gumol",
+            "text": "flestir ykkar ættu að geta notað port 80, varla er það cappað.",
+            "date": "2006-10-03 19:36:00",
+            "post_id": "128638",
+            "reply_to_id": "128637"
+        },
+        {
+            "user_name": "fallen",
+            "text": "á flestum private torrentsíðum eru port á milli 49152 og 65535 þau einu sem eru leyfð\n\nþannig að þið getið alveg prufað eitthvað af þessum 16þúsund portum þarna á milli, varla hafa þeir cappað þau öll",
+            "date": "2006-10-03 23:15:00",
+            "post_id": "128661",
+            "reply_to_id": "128638"
+        },
+        {
+            "user_name": "Climbatiz",
+            "text": "thetta hefur ekkert med port ad gera, thetta eru bara protocols, hef nu ekki prufad ad speedtesta ftp, en tok samt eftir ad dl/up gengum irc er mun haegara en thad gaeti verid\n\n\n\ntheir segja ad their seu ad thetta \"cap\" se alagstengt og ad traffik like bt er laegsta priority og thessvegna er thad svo haegt, sem er bara algjort bs, thetta byrjadi sidasta midvikudag (og tha var allt cappad (+http)) og svo daginn eftir logudu their http hradann, ef thetta er alagstengt tha afhverju skedi thetta cap allt i einu bara a midvikudegi, og varla er buid ad vera stanslaust alag a kerfum theirra sidan tha",
+            "date": "2006-10-04 13:23:00",
+            "post_id": "128695",
+            "reply_to_id": "128661"
+        },
+        {
+            "user_name": "tms",
+            "text": "Jú, þetta hefur allt með port að gera. Ég þori að veðja tölvunni minni á að þeir eru ekki að nota routera sem finna út hvaða protocol hver tenging er að nýta sér, og eru örugglega ekki með routera sem geta gert það heldur.",
+            "date": "2006-10-04 13:35:00",
+            "post_id": "128697",
+            "reply_to_id": "128695"
+        },
+        {
+            "user_name": "Blues-",
+            "text": "fæ fulllann hraða hjá voddafukk eftir að ég setti á \"protocol encryption\" á\n\ní bittorennt client-inum mínum.",
+            "date": "2006-10-04 13:51:00",
+            "post_id": "128700",
+            "reply_to_id": "128697"
+        },
+        {
+            "user_name": "Cascade",
+            "text": "Þetta er alveg hræðilegt,\n\n\n\nEru allar internetþjónustur að gera þetta núna?\n\nEða er málið bara að fara á istorrent?",
+            "date": "2006-10-04 23:06:00",
+            "post_id": "128756",
+            "reply_to_id": "128700"
+        },
+        {
+            "user_name": "cue",
+            "text": "Ég get ekki séð betur en þeir séu með eitthvað til að skoða pakkana.\n\nEftir að ég encript-aði uTorrent (Setti Protocol Encryption \n\nOutgoing : Enabled) fékk ég mikið betri hraða, enda geta þeir ekki throttlað niður port. Þá yrði ekki nokkur leið að spila leiki, vegna þess að leikir geta notað port alveg frá 500-65500. \n\nEn ég er nokkuð viss um að þeir eru líka að takmarka eftir magni. Torrent hraðinn hjá mér er þokkalegur, en það gengur hægt að browsa erlendar síður samtímis og ég dowloda. Samt er ég langt undir 6 mbit.\n\n\n\nÞað væri gaman að hefja söfnun til að ráða lögfræðing og prufa að kæra.\n\n\n\n\n\nAnnars er ég helst á því að það vanti HIVE 2, sem kemur með hraða til útlanda, ótakmarkaðan. Ég er tilbúinn að borga fyrir það. Líkar illa að láta ljúga að mér.",
+            "date": "2006-10-04 23:24:00",
+            "post_id": "128758",
+            "reply_to_id": "128756"
+        },
+        {
+            "user_name": "Cascade",
+            "text": "Settiru bara Protocol Encryption\n\nOutgoing : Enabled\n\n\n\n?",
+            "date": "2006-10-04 23:30:00",
+            "post_id": "128759",
+            "reply_to_id": "128758"
+        },
+        {
+            "user_name": "cue",
+            "text": "Gerði það.\n\n\"Eftir að ég encript-aði uTorrent\"",
+            "date": "2006-10-04 23:45:00",
+            "post_id": "128761",
+            "reply_to_id": "128759"
+        },
+        {
+            "user_name": "Cascade",
+            "text": "Hvað meinaru með seinni línunni?\n\nEr það e-ð annað en þett Protocal Encryption\n\n\n\nHvernig gerir maður það?",
+            "date": "2006-10-04 23:47:00",
+            "post_id": "128762",
+            "reply_to_id": "128761"
+        },
+        {
+            "user_name": "cue",
+            "text": "Nei, það er sama. Bara illa útskýrt hjá mér.\n\nÉg set inn lagfæringu þannig að það sé hægt að ræða niðurlag þess sem ég skrifaði.",
+            "date": "2006-10-04 23:54:00",
+            "post_id": "128764",
+            "reply_to_id": "128762"
+        },
+        {
+            "user_name": "Cascade",
+            "text": "Mér sýnist þetta hjálpa voða lítið\n\n\n\nEDIT\n\nEða þetta virðsit hjálpa smá, allavega nokkrir seeders sem eru ekki cappaðir lengur",
+            "date": "2006-10-05 01:01:00",
+            "post_id": "128769",
+            "reply_to_id": "128764"
+        },
+        {
+            "user_name": "arro",
+            "text": "Sælir,\n\n\n\nég er hjá Hive og er að nota Newsbin Pro.  DL dó hjá mér á sunnudag-mánudag (1. eða 2. okt).  Það fór úr ca 6.7mbits niður í 180kbits og hangir bara þar.\n\n\n\nÉg er búinn að prófa öll port sem newsserverinn leyfir (giganews.com) og þetta breytist ekkert.  Þetta er bara helv. rugl.\n\n\n\nÍ framhaldinu hafði ég samband við Customer support hjá giganews og eftir nokkrar prófanir með þeim, eru þeir á því að það sé verið að limita NNTP protocolið einhverstaðar á leiðinni.\n\n\n\nÞá hringdi ég í Hive og eftir jaml og fuður kom í ljós að einhver aðili sem þeir tengjast í gegn Telglobe eða eitthvað í Ameríku er að cappa þetta prótokól.  \n\n\n\nEftir á að hyggja er það samt skrítið því ég prófaði að tengjast giganews-europe og það er sama vandamál þannig að ég skil ekki í að þetta geti verið  málið og líklegast að Hive sé bara sjálft að cappa þetta.\n\n\n\nAllavega nú er augljóst að Hive er að cappa og líklegast breytist það ekki.  Mér skilst að OgVodafone sé að kappa þetta, getur einhver staðfest það ?  Og er einvher sem getur sagt stöðuna á þessu hjá símanum ?\n\n\n\nkv/",
+            "date": "2006-10-07 15:57:00",
+            "post_id": "128895",
+            "reply_to_id": "128769"
+        },
+        {
+            "user_name": "Climbatiz",
+            "text": "þetta hefur ekkert með porta að gera, sama hvað einhver er að segja hér að það hefur einhvað með þá að gera, hive er örruglega að nota forrit (sem er til) á serverum þeirra (ekki a routernum þínum) sem greinir protocols fyrir alla traffík, þeir eru örruglega að limita alla traffík aðra en http, því það er allt nema http hægt hér, þeir segja að þetta sé álagstengt og að traffík önnur en http er bara lægsta priority hjá þeim, en hver trúir því eiginlega? er virkilega búið að vera max álag á kerfum þeirra hvað núna í nær 2 vikur???",
+            "date": "2006-10-07 16:12:00",
+            "post_id": "128896",
+            "reply_to_id": "128895"
+        },
+        {
+            "user_name": "daremo",
+            "text": "Sama kom fyrir hjá mér. DL dó algjörlega um mánaðarmótin, öll erlend umferð fór úr 300kb/s í 50-80kb/s. http varð reyndar eðlilegt daginn eftir, en öll p2p umferð er ennþá föst í max 80kb/s.\n\nÞegar ég hringdi í þjónustuverið þeirra vildu þeir auðvitað ekkert kannast við neitt cap.\n\n\n\nÆtli maður fái sér ekki bara áskrift hjá Símanum eftir helgi..",
+            "date": "2006-10-07 20:55:00",
+            "post_id": "128908",
+            "reply_to_id": "128896"
+        },
+        {
+            "user_name": "emmi",
+            "text": "Þeir cappa þetta í Cisco græjunum sínum.",
+            "date": "2006-10-07 21:21:00",
+            "post_id": "128911",
+            "reply_to_id": "128908"
+        },
+        {
+            "user_name": "Butcer",
+            "text": "get sagt það að hive eru ekki að forgangsraða hraða þá mundi dla hraðinn  í nntp(usenet og torrent ) fara upp og niður mjög óstöðuglega en hann er grenilega capaður tildæmis í usenet helst hann nákvamlega í 20k per sec",
+            "date": "2006-10-08 23:48:00",
+            "post_id": "129009",
+            "reply_to_id": "128911"
+        },
+        {
+            "user_name": "Butcer",
+            "text": "",
+            "date": "2006-10-08 23:49:00",
+            "post_id": "129010",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Butcer",
+            "text": "hive fara gegnum tiscali sem er að nota caps sjálkrafa\n\n\n\n\n\n4 so-2-1-0.lon11.ip.tiscali.net (213.200.80.57) 73 ms 76 ms 73 ms\n\n5 ip-fjarskipti-gw.ip.tiscali.net\n\n\n\nhérna er forum um þessa þjónustu \nhttp://www.the-scream.co.uk/forums/f8.html\n og vægast sagt fáum sem líkar við hana",
+            "date": "2006-10-08 23:51:00",
+            "post_id": "129011",
+            "reply_to_id": "129010"
+        }
+    ],
+    "date": "2006-10-08 23:49:00"
+}

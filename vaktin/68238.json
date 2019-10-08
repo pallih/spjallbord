@@ -1,0 +1,30 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "68238",
+    "title": "Uppfærsla á HP dc5850 Small Form Factor",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=68238",
+    "posts": [
+        {
+            "user_name": "PhilipJ",
+            "text": "Sælir,\nMér áskotnaðist tölva í dag og mig langar að sjá hvort ég geti gert eitthvað fyrir hana til að spila smá leiki.\nÞetta er semsagt HP dc5850 Small Form Factor: \nhttp://www8.hp.com/h20195/v2/GetDocumen ... =c04290692\nMeð eftirfarandi spekkum:\nÖrgjörvi: AMD Athlon X2 4450B\n4x1gb ddr2 800mhz vinnsluminni (stækkanlegt í 16 gb)\n240w psu\n160 gb hdd\nEkkert skjákort en er með PCIe x16 slot og pláss fyrir low profile kort.\nÞað sem mér dettur í hug að gera er að setja ssd (samt bara sata 2 tengi) og reyna að stækka minnið í 8 gb.\nEn svo er það spurningin hvað er sniðugt að gera í því að skipta um örgjörva og koma fyrir skjákorti.\nGæti ég sett eitthvað af þessum skjákortum í án þess að örgjörvinn sé flöskuháls?\nhttp://tecshop.is/products/evga-02g-p3- ... ard-154773\nhttp://tecshop.is/products/galax-geforc ... 2gb-148558\nEr eitthver hérna að selja örgjörva og skjákort sem passa og myndu bæta performance hjá mér?\nÖrgjörvar með stuðning eru á bls 7 á þessum link \nhttp://www8.hp.com/h20195/v2/GetDocumen ... =c04290692\nMeð fyrirfram þökkum",
+            "date": "2016-01-19 20:00:00",
+            "post_id": "615976",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "PhilipJ",
+            "text": "Enginn sem hefur input í þetta mál? \nÉg get notað einhvern af þessum örgjörvum ef þið eigið ofan í skúffu \n \nAMD Phenom X4 9600B Processor (2.3-GHz, 2 MB Dedicated L2 cache, 2 MB Shared L3\ncache, HT bus 3.0) X X\nAMD Phenom X4 9750B Processor (2.4-GHz, 2 MB Dedicated L2 cache, 2 MB Shared L3\ncache, HT bus 3.0) X X\nAMD Phenom X4 9850B processor (2.5 GHz, 2 MB Dedicated L2 cache, 2 MB Shared L3\ncache, HT bus 3.0)",
+            "date": "2016-01-20 08:43:00",
+            "post_id": "616015",
+            "reply_to_id": "615976"
+        },
+        {
+            "user_name": "azrael-",
+            "text": "Sæll, ég hef töluverða reynslu af þessum tölvum (Vinnutengt) og ég mundi segja að EVGA kortið væri það öflugasta sem þú gætir sett í tölvuna án þess að lenda í vandræðum með PSU. \nég mæli með því að uppfæra BIOSinn í tölvunni áður en þú ferð að bæta íhlutum í hana, því seinasta útgáfan lagaði nokkur bögg tengt nvidia NVS kortum og stuðning við fleiri minniframleiðendur.",
+            "date": "2016-01-26 00:26:00",
+            "post_id": "616475",
+            "reply_to_id": "616015"
+        }
+    ],
+    "date": "2016-01-19 20:00:00"
+}

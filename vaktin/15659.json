@@ -1,0 +1,51 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "15659",
+    "title": "Ubuntu 7.10 vesen",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=15659",
+    "posts": [
+        {
+            "user_name": "notendanafn",
+            "text": "Ég setti upp hjá mér 7.10 ubuntu. Þetta virkar allt mjög vel fyrir utan að neðri helmingur skjásins er allur blurraður og óskýr, og ef að ég færi eitthvað á þann helming skjásins, þá fer allt í vesen og ég þarf að reboota. Þetta er EKKI skjárinn, hann virkar 100% með annari tölvu. Gæti þeta verið skjá kortið? Ég er með innbyggt eitthvað ATI drasl, ég er með 6600GT en það er ekki tengt, ætti ég að prufa það? Er þetta bara vesen í þessu betu dr\n\n\n\nMeð kveðju og von um góð svör.",
+            "date": "2007-09-30 18:02:00",
+            "post_id": "153946",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Zorba",
+            "text": "Myndi prufa nvidia kortið.\n\nNvidia eru með betra driver support fyrir linux",
+            "date": "2007-11-04 14:12:00",
+            "post_id": "156239",
+            "reply_to_id": "153946"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "DMT hefur rétt fyrir sér, ATI eru fátt annað en óþolandi vesen þegar kemur að Linux, en AMD eru víst að reyna að breyta því",
+            "date": "2007-11-04 15:00:00",
+            "post_id": "156240",
+            "reply_to_id": "156239"
+        },
+        {
+            "user_name": "Zorba",
+            "text": "hei..4x0n hvaða distro runnar þú?",
+            "date": "2007-11-04 21:43:00",
+            "post_id": "156269",
+            "reply_to_id": "156240"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Gældi við Fedora (Zed) og OpenSUSE í smátíma en fékk upp í kok að reyna að ná driverunum fyrir ATI kortið mitt í gang. Reyndi svo að setja upp Ubuntu en þá er víst annað vandamál komið, skjákortið hættir að refresha skjámyndina í uppsetningu. Spurning um að þrjóskast yfir í Nvidia.",
+            "date": "2007-11-04 22:30:00",
+            "post_id": "156274",
+            "reply_to_id": "156269"
+        },
+        {
+            "user_name": "HemmiR",
+            "text": "Það endaði með því að ég gerði það. Ég átti Ati Radeon 1800xt held ég allveg örugglega og skipti við vin minn og fékk 7800gt held að það sé smá slappara en virkar þó vel í linux",
+            "date": "2007-11-04 22:40:00",
+            "post_id": "156276",
+            "reply_to_id": "156274"
+        }
+    ],
+    "date": "2007-09-30 18:02:00"
+}

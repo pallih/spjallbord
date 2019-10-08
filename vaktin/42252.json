@@ -1,0 +1,65 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "42252",
+    "title": "smoothwall í virtual pc",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=42252",
+    "posts": [
+        {
+            "user_name": "ÆvarGeir",
+            "text": "sælir, ég er semsagt með smoothwall í virtual pc á servernum hjá mér, vandamálið er að ég er með 50 mb ljós en fæ altaf í kringum 10 mbps. \nEn þegar ég er með bewan routerin frá vodafone fæ ég í kringum 30mb, er búin að stilla netkortin á 100 mbps fullduplex en alt fyrir ekki.\nhvað gæti ég verið að klikka á?",
+            "date": "2011-10-09 22:36:00",
+            "post_id": "386702",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "andribolla",
+            "text": "Verðuru ekki bara að koma í heimsókn og skoða stillingarnar sem ég er með í SW hjá mér ?",
+            "date": "2011-10-10 19:19:00",
+            "post_id": "386903",
+            "reply_to_id": "386702"
+        },
+        {
+            "user_name": "ÆvarGeir",
+            "text": "gæti gert það, er samt búin að renna yfir allar þessar stillingar á web interfaceinu og á netkortunum, skil þetta bara ekki",
+            "date": "2011-10-10 19:26:00",
+            "post_id": "386906",
+            "reply_to_id": "386903"
+        },
+        {
+            "user_name": "andribolla",
+            "text": "Get ég kanski tekið backup af honum og sent þér, setur svo bara upp aðra vitrual sw og berð þetta samann ?",
+            "date": "2011-10-10 19:28:00",
+            "post_id": "386908",
+            "reply_to_id": "386906"
+        },
+        {
+            "user_name": "ÆvarGeir",
+            "text": "væri kanski ekki vitlaust",
+            "date": "2011-10-10 19:34:00",
+            "post_id": "386911",
+            "reply_to_id": "386908"
+        },
+        {
+            "user_name": "ponzer",
+            "text": "Ertu með vélina í ESXi ?",
+            "date": "2011-10-10 22:32:00",
+            "post_id": "386953",
+            "reply_to_id": "386911"
+        },
+        {
+            "user_name": "andribolla",
+            "text": "Hann er öruglega með hana á win server 2008 virtual vél þaðan",
+            "date": "2011-10-10 22:35:00",
+            "post_id": "386955",
+            "reply_to_id": "386953"
+        },
+        {
+            "user_name": "ÆvarGeir",
+            "text": "er með hana í win 7 núna, var að keira hana á win xp áður en þá var sama vanda málið, ég ákvað að prófa win 7 eftir að ég var búin að reina fullt af stillingum með xp,\nog er semsagt að keira á virtual pc 2008",
+            "date": "2011-10-10 23:32:00",
+            "post_id": "386977",
+            "reply_to_id": "386955"
+        }
+    ],
+    "date": "2011-10-09 22:36:00"
+}

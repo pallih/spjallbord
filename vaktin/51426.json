@@ -1,0 +1,86 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "51426",
+    "title": "Vantar smá aðstoð frá vefforritara.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=51426",
+    "posts": [
+        {
+            "user_name": "html",
+            "text": "Ef eitthver góður forritari væri svo vænn að aðstoða mig aðeins.\nMá hann senda mér PM(einkaskilaboð)\nþetta er ein stutt spurning .",
+            "date": "2012-11-08 23:05:00",
+            "post_id": "476983",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Arkidas",
+            "text": "Ok send þú mér PM.",
+            "date": "2012-11-08 23:22:00",
+            "post_id": "476984",
+            "reply_to_id": "476983"
+        },
+        {
+            "user_name": "Frantic",
+            "text": "Af hverju ekki að setja spurninguna á þráðinn?",
+            "date": "2012-11-08 23:39:00",
+            "post_id": "476988",
+            "reply_to_id": "476984"
+        },
+        {
+            "user_name": "html",
+            "text": "Ég get svosem gert það \nÞetta er bara svo svakalega ómerkileg spurning \nÉg er að vinna með phpmyadmin og mig langar að hafa tíma og dagsetningu á hverja færslu eins og t.d. Skráði sig: Mið 04. Mar 2009 17:43",
+            "date": "2012-11-09 00:15:00",
+            "post_id": "476996",
+            "reply_to_id": "476988"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Býrð til reit í töflunni\nKóði: \nVelja allt\nALTER TABLE mytable\n    ADD created_at TIMESTAMP \n        DEFAULT CURRENT_TIMESTAMP ;\nÞá verður gildi hans sjálfkrafa núverandi tímasetning þegar þú INSERTar í töfluna.",
+            "date": "2012-11-09 00:24:00",
+            "post_id": "476997",
+            "reply_to_id": "476996"
+        },
+        {
+            "user_name": "html",
+            "text": "ég er ekki að ná þessu \n \nColumn- nafnið á töflunni\ntype- ?\nLength/Values-?\nDefault-CURRENT_TIMESTAMP\nCollation-?\nAttributes-?\nNull-?\nAUTO_INCREMENT -?\nComments-?\nÉg er búinn að vera reyna lesa mér til um þetta ég bara næ þessu ekki.",
+            "date": "2012-11-09 00:35:00",
+            "post_id": "476999",
+            "reply_to_id": "476997"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Column er nafnið á reitnum, ekki töflunni.\nEr ekki kassi einhversstaðar þar sem þú getur sett inn hrátt sql (hef lítið notað phpmyadmin)?\nÞetta query sem ég póstaði áðan virkar, skiptir út 'mytable' fyrir nafnið á töflunni þinni.",
+            "date": "2012-11-09 00:45:00",
+            "post_id": "477004",
+            "reply_to_id": "476999"
+        },
+        {
+            "user_name": "html",
+            "text": "Takk þú ert meistari \n en hvar stilli ég klukkuna rétta ? hún er núna 2012-11-08 18:53:48",
+            "date": "2012-11-09 00:57:00",
+            "post_id": "477007",
+            "reply_to_id": "477004"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Ég held að mysql fari bara eftir system klukkunni.\nErtu að hýsa þetta sjálfur?",
+            "date": "2012-11-09 00:59:00",
+            "post_id": "477008",
+            "reply_to_id": "477007"
+        },
+        {
+            "user_name": "html",
+            "text": "Já \nklukkan mín er 01:01",
+            "date": "2012-11-09 01:01:00",
+            "post_id": "477009",
+            "reply_to_id": "477008"
+        },
+        {
+            "user_name": "html",
+            "text": "Annars skiptir það ekki öllu ég ætti að geta reddað því. \ntakk kærlega fyrir þetta! þú mikli meistari!",
+            "date": "2012-11-09 01:08:00",
+            "post_id": "477011",
+            "reply_to_id": "477009"
+        }
+    ],
+    "date": "2012-11-08 23:05:00"
+}

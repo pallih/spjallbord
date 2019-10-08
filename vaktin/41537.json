@@ -1,0 +1,121 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "41537",
+    "title": "Hvernig SSD?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=41537",
+    "posts": [
+        {
+            "user_name": "kfc",
+            "text": "Hæ, ég er að leita mér af SSD disk til að hafa fyrir stýrikerfið.\nHvað þarf ég að fá mér stóran disk og hvaða disk mælið þið með? Er einhvað sem ég þarf að varast?",
+            "date": "2011-09-14 19:02:00",
+            "post_id": "380086",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Halldór",
+            "text": "OCZ Vertex 3 og lámark 60Gb fyrir stýrikerfið. Persónulega er ég með 120 Gb  \n  þá hefur maður smá pláss fyrir leiki",
+            "date": "2011-09-14 19:04:00",
+            "post_id": "380089",
+            "reply_to_id": "380086"
+        },
+        {
+            "user_name": "vesley",
+            "text": "Mushkin Chronos er víst líka alveg að brillera.",
+            "date": "2011-09-14 19:11:00",
+            "post_id": "380092",
+            "reply_to_id": "380089"
+        },
+        {
+            "user_name": "kfc",
+            "text": "Virkar ekki SATA3 diskur saman við móðurborð sem bara með SATA tengjum?",
+            "date": "2011-09-14 20:21:00",
+            "post_id": "380108",
+            "reply_to_id": "380092"
+        },
+        {
+            "user_name": "halli7",
+            "text": "ju en bara aðeins minni hraði",
+            "date": "2011-09-14 20:22:00",
+            "post_id": "380109",
+            "reply_to_id": "380108"
+        },
+        {
+            "user_name": "kfc",
+            "text": "Er að pæla í því að fá mér \"Mushkin Chronos 120GB SSD\". Hafið þið einhverja reinslu af þeim?\nhttp://tolvutaekni.is/product_info.php?products_id=2076",
+            "date": "2011-09-14 20:38:00",
+            "post_id": "380117",
+            "reply_to_id": "380109"
+        },
+        {
+            "user_name": "Kobbmeister",
+            "text": "Mæli sterklega með chronos, fékk mér þannig og þetta er algjör snilld\nSérð hraðann hjá mér hérna \ndownload/file.php?id=6761",
+            "date": "2011-09-14 21:54:00",
+            "post_id": "380142",
+            "reply_to_id": "380117"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Nú er gríðalega mikill verðmunur á Vertex3 og Chronos...\nOg Chronos á að vera hraðari...90k IOPS vs 75k IOPS ... og meiri skrif/les hraði...\nEr Vertex3 betri á einhvern hátt? Vandaðri stýring kannski?",
+            "date": "2011-09-14 22:03:00",
+            "post_id": "380146",
+            "reply_to_id": "380142"
+        },
+        {
+            "user_name": "emmi",
+            "text": "Bara merkið sýnist mér á flestu.",
+            "date": "2011-09-14 22:11:00",
+            "post_id": "380150",
+            "reply_to_id": "380146"
+        },
+        {
+            "user_name": "kfc",
+            "text": "Þegar maður setur SSD disk í þarf maður að gera einhvað sérstagt eða er þetta bara eins og að setja venjulean HDD disk í?",
+            "date": "2011-09-14 22:51:00",
+            "post_id": "380167",
+            "reply_to_id": "380150"
+        },
+        {
+            "user_name": "astro",
+            "text": "Allveg eins, eftir allt er þetta bara harður diskur",
+            "date": "2011-09-14 23:54:00",
+            "post_id": "380204",
+            "reply_to_id": "380167"
+        },
+        {
+            "user_name": "Moldvarpan",
+            "text": "http://www.hardwarecanucks.com/forum/hardware-canucks-reviews/45871-mushkin-chronos-deluxe-120gb-ssd-review-8.html\nHérna er Mushkin Chronos Deluxe samanburður og review. Koma nokkuð vel út.",
+            "date": "2011-09-15 00:06:00",
+            "post_id": "380210",
+            "reply_to_id": "380204"
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "Það er ekki alveg eins! Oft þarf að stilla í bios á ACHI og  ath. þessa hluti Enable Write Caching,Disable indexing ,Disable defragmentation\nTurn Off the Disk Defragmenter Schedule, flýtir SSD plús það þarf ekki að defraga SSD.\nLesning \nhttp://www.ocztechnologyforum.com/forum ... tilities-*",
+            "date": "2011-09-15 09:38:00",
+            "post_id": "380254",
+            "reply_to_id": "380210"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Það þarf að fara varlega í að horfa bara á tölurnar \nÞað að diskur sé með háan hámarkshraða og há IOPS segir aðeins hálfa söguna, flest raunvinnsla vinnur með litlar skrár og mismunurinn á diskum í þessum litlu hreyfingum getur verið svakalegur, það að hámarkshraðinn sé mikill þýðir ekki endilega að raunhraðinn í vinnslu sé sá sami, nema í afritun á einmitt stórum skrám milli harða diska.\nAnnars er Chronos dúndur diskur og á allt of flottu verði....",
+            "date": "2011-09-15 11:12:00",
+            "post_id": "380264",
+            "reply_to_id": "380254"
+        },
+        {
+            "user_name": "Moldvarpan",
+            "text": "Klemmi, er lítill munur á Mushkin Enhanced Chronos og Mushkin Enhanced Chronos Deluxe ? \nFelst munurinn ekki aðallega í access timings?",
+            "date": "2011-09-15 13:45:00",
+            "post_id": "380305",
+            "reply_to_id": "380264"
+        },
+        {
+            "user_name": "techseven",
+            "text": "Af hverju viltu gera \"Disable indexing\"?\nÞó að stýrikerfið skrifi eitthvað á diskinn í index database þá get ég ekki séð að það skipti neinu máli þegar upp er staðið...",
+            "date": "2011-09-15 13:59:00",
+            "post_id": "380318",
+            "reply_to_id": "380305"
+        }
+    ],
+    "date": "2011-09-14 19:02:00"
+}

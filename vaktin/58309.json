@@ -1,0 +1,37 @@
+{
+    "forum_title": "Windows",
+    "id": "58309",
+    "title": "Stærð á x64 og x86?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=58309",
+    "posts": [
+        {
+            "user_name": "Swanmark",
+            "text": "Var að spá í stærðarmun á Windows 7 64bit og Windows 7 32bit, er mikill munur?\nEf að ég set upp vél með 4gb ram á 60gb SSD, ætti ég að fara í 32bit frekar og geta bara nýtt 3gb af RAMinu fyrir aðeins meira geymslupláss?\nÞegar ég setti upp mína vél átti ég 20gb eftir af 60 eftir install (55gb eða svo). \nMynd\n.\nHvernig hefði 32bit verið ?",
+            "date": "2013-11-24 16:41:00",
+            "post_id": "539016",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "upg8",
+            "text": "þú sparar hámark 4GB á því, mæli miklu frekar með 64bit.\nMundu að þú getur gert NTFS compression á diskana ef þú ert með sæmilegan örgjörva, það hraðar bara á tölvunni ef eitthvað er. Hafðu þó í huga að sumar skrár geta orðið stærri við það svo það eru kannski eitthverjar möppur sem þú vilt ekki vera að pakka.",
+            "date": "2013-11-24 17:06:00",
+            "post_id": "539018",
+            "reply_to_id": "539016"
+        },
+        {
+            "user_name": "Swanmark",
+            "text": "Takk fyrir gott svar.",
+            "date": "2013-11-24 17:18:00",
+            "post_id": "539020",
+            "reply_to_id": "539018"
+        },
+        {
+            "user_name": "emmi",
+            "text": "Getur náð Win7 installi niður í ~12GB með því að breyta nokkrum stillingum.\nSlökkva á System Restore\nSetja Pagefile manually í 1024-2048\nOpna cmd sem Admin og skrifa powercfg -h off (ef þú notar ekki hibernation)",
+            "date": "2013-11-24 17:39:00",
+            "post_id": "539025",
+            "reply_to_id": "539020"
+        }
+    ],
+    "date": "2013-11-24 16:41:00"
+}

@@ -1,0 +1,114 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "48526",
+    "title": "Nota SRX200 sem access point?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=48526",
+    "posts": [
+        {
+            "user_name": "playman",
+            "text": "Sælir vaktarar.\nÉg er með hérna SRX200 frá linksys og ætlaði mér að nota hann sem þráðlausan púnkt.\nModel WAG54GX2\nÞetta er eini þráðlausi sendirinn hérna.\nÞað sem að ég er búin að gera.\nSlökkva á DHCP servernum.\nsetja inn fastar Ippur.\nbreyta access password\nBreyta nafninu á routernum.\nÞað sem að ég fæ bara núna á símanum er \"optaining IP adress...\" og næ ekki að teingjast.\nEr eithvað sem ég er að gera vitlaust eða eithvað sem ég er að gleyma?\nÖll hjálp vel þeginn.",
+            "date": "2012-06-22 12:29:00",
+            "post_id": "448831",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "playman",
+            "text": "Einginn?",
+            "date": "2012-06-25 09:07:00",
+            "post_id": "449405",
+            "reply_to_id": "448831"
+        },
+        {
+            "user_name": "methylman",
+            "text": "Geturðu sett inn fasta IP tölu á símann í sama neti og Linksysinn notar",
+            "date": "2012-06-25 09:50:00",
+            "post_id": "449411",
+            "reply_to_id": "449405"
+        },
+        {
+            "user_name": "playman",
+            "text": "Hmm nei, fæ bara upp nafnið á sendinum og svo get ég bara sett in passwordið.",
+            "date": "2012-06-25 10:07:00",
+            "post_id": "449414",
+            "reply_to_id": "449411"
+        },
+        {
+            "user_name": "methylman",
+            "text": "Stilltu Wireless Access þannig að Þráðlausa kerfið noti  DHCP  \nhttp://en.wikipedia.org/wiki/Dynamic_Ho ... n_Protocol\n  þá á sím inn að fá úthlutuðu IP fangi frá routernum þá ert þú kominn einu skrefi lengra jafnvel á leiðarenda",
+            "date": "2012-06-25 10:27:00",
+            "post_id": "449424",
+            "reply_to_id": "449414"
+        },
+        {
+            "user_name": "playman",
+            "text": "gerði það og þá komst ég inná routerinn/AP, en get ekkert gert á netinu, hljómar svipað og það vanti DNS\nsamt er ég með primary DNS 8.8.8.8\nPS.\nBara svo að það fari ekki á milli mála þá er routerinn/AP ekki tengdur í símasnúru heldur er hann tengdur ethernet, sem er svo tengt ClearOs servernum.",
+            "date": "2012-06-25 10:56:00",
+            "post_id": "449429",
+            "reply_to_id": "449424"
+        },
+        {
+            "user_name": "methylman",
+            "text": "Primary DNS verður þá Routerinn sem er gateway hjá þér,  og stilltu hann til þess að áframsenda DNS til hins,  þá ættir þú að vera góður",
+            "date": "2012-06-25 11:48:00",
+            "post_id": "449438",
+            "reply_to_id": "449429"
+        },
+        {
+            "user_name": "playman",
+            "text": "Hmm ok er ekki alveg að finna hvar sú stilling er í servernum.\nBTW routerin/AP tengist í switch sem svo tengist í serverin, getur það skemt fyrir?\nÁhvað að teikna smá mynd af settupinu.",
+            "date": "2012-06-25 12:55:00",
+            "post_id": "449442",
+            "reply_to_id": "449438"
+        },
+        {
+            "user_name": "methylman",
+            "text": "Settu serverinn á Switchinn eins og vinnuvélaranar  ég er með það þannig Router beint í Switch  Serverinn er ekki að senda allt í gegn Eða Server beint í router eins og þú ert með og switch beint í router líka ef þú hefur port í það",
+            "date": "2012-06-25 13:02:00",
+            "post_id": "449444",
+            "reply_to_id": "449442"
+        },
+        {
+            "user_name": "playman",
+            "text": "Ég byðst innilegrar afsökunar á þessu, er greinilega ekki með heilan í lagi í dag.\nClearOs serverin var settur upp fyrir laungu vegna þess að þáverandi router vildi ekki vinna með switchinum, það var ekki vitað\nafhverju en lausnin þá var að henda bara up gateway/server til að servica vinnuvélarnar. (var ekki byrjaður að vinna hér þá)\nNúna erum við komin með nýan router og hann virðist vinna með switchinum, en þá er annað \"vandamál\" IP er 10.10.56.1\ná þeim router, og AP er 192.168.1.1.\nÉg teingdi mína vél og AP beint í switch en ég kemst ekkert inná AP núna, væntanlega vegna þess að hann er á öðru neti.\n(er með 2 eins switcha)\nUppfrærði myndina með IPum\nEDIT: AP er kominn á 10.10.56.253\n ekkert connection en.\nEDIT2: Allt virkar núna, eftir að ég setti \n\"Obtain an IP Address Automatically\"\n Kærar Þakkir fyrir aðstoðina methylman",
+            "date": "2012-06-25 13:26:00",
+            "post_id": "449447",
+            "reply_to_id": "449444"
+        },
+        {
+            "user_name": "methylman",
+            "text": "Ekki nota IP adress 192.168.1.1 á AP    getur þú ekki fest ip address 192.168.1.222 t.d. á interface ið sem þú notar til þess að tengjast switch þá eru öll tæki á sama neti 192.168.1.1 er gateway IP tala",
+            "date": "2012-06-25 13:48:00",
+            "post_id": "449448",
+            "reply_to_id": "449447"
+        },
+        {
+            "user_name": "playman",
+            "text": "Já ég vissi að 192.168.1.1 og 192.168.1.254 eru 2 tölur sem eru ætlaðar gateway's, en það sem ruglaði mig var\nað ég leit á AP sem gateway og setti 192.168.1.1 á hann. \n \nEn maður er allaveganna orðin reynsluni ríkari",
+            "date": "2012-06-25 14:00:00",
+            "post_id": "449450",
+            "reply_to_id": "449448"
+        },
+        {
+            "user_name": "methylman",
+            "text": "Hvert á ég að senda reikninginn ?  fyrst þú ert orðinn svona ríkur",
+            "date": "2012-06-25 14:30:00",
+            "post_id": "449453",
+            "reply_to_id": "449450"
+        },
+        {
+            "user_name": "playman",
+            "text": "Þú hringir bara í reynslu bankann, þeir eru með allar upplísingar sem þú þarft",
+            "date": "2012-06-25 15:07:00",
+            "post_id": "449460",
+            "reply_to_id": "449453"
+        },
+        {
+            "user_name": "methylman",
+            "text": "Góður",
+            "date": "2012-06-25 15:11:00",
+            "post_id": "449461",
+            "reply_to_id": "449460"
+        }
+    ],
+    "date": "2012-06-22 12:29:00"
+}

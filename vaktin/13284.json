@@ -1,0 +1,86 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "13284",
+    "title": "Tínt minni og ekkert minni",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=13284",
+    "posts": [
+        {
+            "user_name": "liljon",
+            "text": "Sælir þið kláru tölvukarlar og -konur. Ég er í smá vandræðum en ég var að auka minni í hp ferðavél en svo þegar ég ræsi vélina þá finnur vélin ekki minnið. En annað sem gerðist líka þegar ég var í þessum leikfiniæfingum með vélina var það að gamla minnið sem var fyrir í vélinni er farið úr 256 mb í 192 eða eitthvað álíka. Er einhver snillingur hér sem að gæti aðstoðað mig við að komast að því hvað er að plaga mig.",
+            "date": "2007-02-15 10:36:00",
+            "post_id": "139214",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Alveg 100% viss um að nýja minnið sem þú bættir við sé rétt fyrir vélina?\n\n\n\nOg varðandi að minni sem er fyrir hafi minnkað um 64MB, dettur helst í hug að þetta sé minni sem er úthlutað til skjákortsins í BIOS.  Skjákort í fartölvum nýta yfirleitt 'aðal' minnið.",
+            "date": "2007-02-15 11:03:00",
+            "post_id": "139219",
+            "reply_to_id": "139214"
+        },
+        {
+            "user_name": "liljon",
+            "text": "Takk fyrir þetta. Nei, ég get ekki verið alveg 100% viss um að nýja minnið passi í tölvuna en ég get póstað upplýsingum um það á eftir. En varðandi gamla minnið þá sagði tölvan alltaf að það væri 256 mb en núna segir hún bara 192 mb og tölvan er orðin enn verri en hún var fyrir þetta fikt í mér. En ég pósta upplýsingum um minnið og tölvuna á eftir og þá er kanski einhver sem gæti séð af tímanum sínum til að hjálpa mér að komast að því hvort minnið passar ekki alveg örugglega. En bara til að útiloka strax bilun í minninu þá er ég búin að prófa það í annari vél þar sem að það virkar fínt.",
+            "date": "2007-02-15 12:44:00",
+            "post_id": "139228",
+            "reply_to_id": "139219"
+        },
+        {
+            "user_name": "ÓmarSmith",
+            "text": "er minnið sem þú smelltir í undir vélinni alveg pottþétt \"smellt í \"\n\n\n\nég lennti í þessu með mína HP, þá var það ekki alveg fast og náði ekki sambandi.,",
+            "date": "2007-02-15 13:17:00",
+            "post_id": "139235",
+            "reply_to_id": "139228"
+        },
+        {
+            "user_name": "liljon",
+            "text": "Já það er alveg smellt í en ég ætla nú samt að athuga það einusinni enn. Takk fyrir ábendingunaen hérna er minnið sem að var keypt í vélina\n\n\n\nMEM_LAP_512_400   Minni - SODIMM - MDT 512MB PC 400 CL2.5      \n\n\n\n\n\n Minni - SODIMM - MDT 512MB PC 400 CL2.5\n\n\n\nMDT eru Hágæða minni framleidd í þýskalandi.\n\n\n\nDDR 200 Pinnna SO-DIMMAR 2.5V\n\nLykilupplýsingar :\n\n• 200 pin DDR SO-DIMM\n\n• Double Data Rate architecture\n\n• Data Rate 266/333/400Mhz\n\n• SPD support\n\n• STTL Interface\n\n\n\n Lífstíðarábyrgð á þessu Minni\n\n\n\nog tölvan sem að um ræðir heitir hp Pavilion ze 5730us",
+            "date": "2007-02-15 13:31:00",
+            "post_id": "139237",
+            "reply_to_id": "139235"
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "Þú ert semsagt að reyna að bæta einum 512mb kubbi við vél sem er með einn 256mb kubb fyrir?\n\n\n\nPrófaðu að setja bara 512mb kubbinn í og taka hinn úr.",
+            "date": "2007-02-15 15:44:00",
+            "post_id": "139254",
+            "reply_to_id": "139237"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Gæti hugsanlega líka skipt máli að stærra minnið 'sá á undan'.",
+            "date": "2007-02-15 15:50:00",
+            "post_id": "139258",
+            "reply_to_id": "139254"
+        },
+        {
+            "user_name": "Heliowin",
+            "text": "Samkvæmt specification fartölvunnar þá er hún með 266MHz minni. Ef tölvan styður ekki meira en þetta, þá er spurning hvernig 400MHz minni leggst í hana.",
+            "date": "2007-02-15 17:32:00",
+            "post_id": "139274",
+            "reply_to_id": "139258"
+        },
+        {
+            "user_name": "Taxi",
+            "text": "Mikið rétt,ég hef oft lent í þessu með fartölvur 266MHz og 333MHz ganga saman og 333MHZ og 400MHz virka saman.",
+            "date": "2007-02-16 01:27:00",
+            "post_id": "139309",
+            "reply_to_id": "139274"
+        },
+        {
+            "user_name": "liljon",
+            "text": "Ok takk fyrir þetta var einmitt farin að hallast að þessari niðurstöðu varðandi þetta. þ.e. að 266 og 400 mz væri ekki að gera sig saman í þessari vél þó að það geri það í minni vél. En þá er bara að athuga með að skipta kvekendinu og þá fæ ég þetta minni bara í mína vél",
+            "date": "2007-02-20 21:26:00",
+            "post_id": "139638",
+            "reply_to_id": "139309"
+        },
+        {
+            "user_name": "liljon",
+            "text": "Ég var búin að prófa þetta og þetta virkaði sem sagt ekki en takk samt fyrir góða tillögu.",
+            "date": "2007-02-20 21:27:00",
+            "post_id": "139639",
+            "reply_to_id": "139638"
+        }
+    ],
+    "date": "2007-02-15 10:36:00"
+}

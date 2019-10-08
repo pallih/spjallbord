@@ -1,0 +1,30 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "32364",
+    "title": "Stream innanhúss",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=32364",
+    "posts": [
+        {
+            "user_name": "peturm",
+            "text": "Sælir vaktarar\nSjónvarpssjúklingurinn í mér er að velta fyrir mér hvernig best væri að koma sjónvarpsmerki frá vodafone STB á tölvur heimilisins. Ég er með MediacCenter(xbmc) vél við hliðna á stb boxinu með sjónvarpskorti, var að velta fyrir mér hvort ég gæti streamað frá henni á aðrar vélar í húsinu? t.d. vlc?\nÉg er agalega vitlaus þegar kemur að stream málum svo öll aðstoð væri mjög vel þegin\nSvona til að lista upp netið heima þá er ég með WHS vél inn í geymslu sem heldur utan um allt efni heimilisins. \nVið hliðina á henni situr media center xbmc)) sem er tengd inn í svefnherbergi.\nÍ stofunni er svo önnur media center sem líka keyrir xbmc.\nÍ vinnu herberginu er svo makki og 2 lappar.\nAllar vélar sem einhverju skipta á eru með gigabit lan og allir switchar því gigabit.",
+            "date": "2010-09-07 13:19:00",
+            "post_id": "280486",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Halli25",
+            "text": "Kannski smá overkill en þetta gerir þér kleift að stream og stjórna hvar sem er afruglaranum þínum\nhttp://tl.is/vara/17845\nGetur verið uppí bústað og horft á sjónvarpið þitt eða í símanum, ekkert mál að stjórna á heimatölvunni með þessu einnig",
+            "date": "2010-09-07 15:08:00",
+            "post_id": "280502",
+            "reply_to_id": "280486"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Slingboxið er bráðsniðugt apparat og hentar vel í þetta eins og faraldur stingur uppá.\nÖnnur leið væri að nota SageTV.  Setur upp SageTV server á vélina sem er með sjónvarpskortið.  Svo installarðu SageTV Client á allar tölvur sem þú vilt geta notað til að horfa á TV.\nÉg er með þetta config heima, fínt að geta kíkt aðeins á imbann á tölvunni inní húsbóndaherberginu.\nÞú þarft svo reyndar IR sendi við tölvuna til að gera SageTV kleift að stjórna STB-inu (skipta um stöðvar o.sv.frv.).",
+            "date": "2010-09-07 15:21:00",
+            "post_id": "280508",
+            "reply_to_id": "280502"
+        }
+    ],
+    "date": "2010-09-07 13:19:00"
+}

@@ -1,0 +1,65 @@
+{
+    "forum_title": "Windows",
+    "id": "36017",
+    "title": "Get ég installað win 7 af flakkara eða hörðum diski.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=36017",
+    "posts": [
+        {
+            "user_name": "emmibe",
+            "text": "Sælir, Get ég installað win 7 af flakkara og allar uppfærslurnar sem hafa verið sóttar, kominn tími á format er með 3 diska í vélinni en nota nr.2 sem stýrikerfisdisk. Get ég formattað og installað af flakkara eða disk 1 eða 3. Málið er að Win 7 sem ég ætla að nota er of stórt til að komast á 4,7 Gb DVD disk.\nP.S er að googla þetta bara svo mikið af crap síðum til að lesa.",
+            "date": "2011-02-06 09:13:00",
+            "post_id": "319514",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Daz",
+            "text": "Þú getur sett upp stýrikerfi af USB lykli, svo það ætti alveg að vera hægt að gera það af USB flakkara, ég þekki ekki hvernig samt",
+            "date": "2011-02-06 09:23:00",
+            "post_id": "319515",
+            "reply_to_id": "319514"
+        },
+        {
+            "user_name": "bulldog",
+            "text": "Þú hlýtur að geta bootað af hörðum diski eins og usb lykli",
+            "date": "2011-02-06 09:48:00",
+            "post_id": "319517",
+            "reply_to_id": "319515"
+        },
+        {
+            "user_name": "lukkuláki",
+            "text": "Já þú getur það með því að búa til image og spegla það svo disk to disk með td. Norton Ghost.",
+            "date": "2011-02-06 10:20:00",
+            "post_id": "319520",
+            "reply_to_id": "319517"
+        },
+        {
+            "user_name": "emmibe",
+            "text": "Er með Iso file upp á 4,9 Gb er það ekki image? Gæti ég mountað og runnað það með t.d power Iso?",
+            "date": "2011-02-06 12:14:00",
+            "post_id": "319533",
+            "reply_to_id": "319520"
+        },
+        {
+            "user_name": "SIKk",
+            "text": "Held, og endurtek ég HELD að þá fari allt í fokk.",
+            "date": "2011-02-06 13:13:00",
+            "post_id": "319546",
+            "reply_to_id": "319533"
+        },
+        {
+            "user_name": "BjarniTS",
+            "text": "Besta leiðin til að gera þetta væri cmd leið , nokkur orð sem hjálpa þér að googla.(er að skrifa úr síma svo ég er ekki með url)\nDiskpart\nSelect disk\nCreate partition primary\nBootsect",
+            "date": "2011-02-06 16:06:00",
+            "post_id": "319571",
+            "reply_to_id": "319546"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Þú getur líka sparað þér heljarinnar vesein með því að gera annaðhvort 2 hluti.\n \n Fengið þér venjulega image af Windows 7 sem er 3.1GB miðað við MSDN ef mig minnir rétt og hent henni á þennan DVD disk sem þú ert með.\n \n Orðið þér útum USB lykill og setti image-ið á hann, bootað af honum og installað windowsinu. \n \n Báða hluti geturu gert auðveldlega með forriti sem Microsoft gefur frítt og heitir \nWindows 7 USB/DVD tool\n. Allt mjög einfalt, hendir bara image-inu inn og velur það sem passar við þig og forritið býr til bootable DVD eða USB.",
+            "date": "2011-02-06 16:17:00",
+            "post_id": "319573",
+            "reply_to_id": "319571"
+        }
+    ],
+    "date": "2011-02-06 09:13:00"
+}

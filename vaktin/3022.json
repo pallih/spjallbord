@@ -1,0 +1,79 @@
+{
+    "forum_title": "Windows",
+    "id": "3022",
+    "title": "2 stýrikerfi á vélini og vantar að losna við 1 :)",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=3022",
+    "posts": [
+        {
+            "user_name": "Dannir",
+            "text": "OK.. Þannig er mál með vexti að ég mundi ekki hvernig átti að formatta nýja diskin minn í windows(mundi ekki hvernig ég ætti að finna hann)svo að ég formattaði með 2k disk og þá kom náttúrulega annað stýrikerfi.\n\n\n\nÉg ætlaði svo bara að formatta það í windows (svona quick format) en fæ bara einhverja villu sem neitar mér um að formatta.\n\n\n\nVantar einhverja lausn á hvað ég gét gert.\n\n\n\n\n\np.s.\n\n\n\nVélin startar sér líka með nýja kerfið valið ef að ég er ekki nógu snöggur að skipta",
+            "date": "2004-02-02 21:21:00",
+            "post_id": "30580",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "aRnor`",
+            "text": "run -> skrifa \" msconfig\" -> \"boot.ini\"  og þar skalltu bara henda út því \n\nsem þú þarft að henda og velja gamla sem default.\n\n\n\nSvo skalltu fá þér partition magic ( gætir fundið það á dc ) og þar \n\nhendirðu út því partitioni.\n\n\n\n--------------------------------------\n\nÞað er eflaust til auðveldari leið, ég gerði þetta bara svona.",
+            "date": "2004-02-02 21:55:00",
+            "post_id": "30583",
+            "reply_to_id": "30580"
+        },
+        {
+            "user_name": "ICM",
+            "text": "aRnor hér er ekki vel liðið að það sé stuðlað að sjóræningjastarfsemi",
+            "date": "2004-02-02 22:06:00",
+            "post_id": "30585",
+            "reply_to_id": "30583"
+        },
+        {
+            "user_name": "aRnor`",
+            "text": "ah ég missti þetta útúr mér",
+            "date": "2004-02-02 22:07:00",
+            "post_id": "30586",
+            "reply_to_id": "30585"
+        },
+        {
+            "user_name": "Dannir",
+            "text": "það virkar ekki hjá mér að skrifa msconfig  ??\n\n\n\nég á líka partition magic en þetta er heill diskur ekkert partað á honum",
+            "date": "2004-02-02 22:24:00",
+            "post_id": "30588",
+            "reply_to_id": "30586"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Farðu í Start - Run - boot.ini og strokaðu þar út línuna sem að þú vilt ekki nota.\n\nEn ertu s.s. með gamla windows'ið á sama partion í annarri möppu? Þá gætirru prufað að henda bara út gömlu möppunni, en þá gætirru fengið villumeldingar eða einhverja galla",
+            "date": "2004-02-02 23:08:00",
+            "post_id": "30599",
+            "reply_to_id": "30588"
+        },
+        {
+            "user_name": "Dannir",
+            "text": "OK búinn að formatta diskin \n\n\n\n\nEn windows vill samt sem áður að ég velji á milli tveggja stýrikerfa þótt ég hafai eytt öðru út. Og nú vantar mér að losna við þetta þannig að vélin velji bara windowsið mitt (ef að ég starta vélini og fer frá henni þá startar hún á hinu og það kemur bara villa að það vanti windows \n  )\n\n\n\nbtw . þetta boot.ini  virkar ekki hjá mér",
+            "date": "2004-02-02 23:28:00",
+            "post_id": "30605",
+            "reply_to_id": "30599"
+        },
+        {
+            "user_name": "halanegri",
+            "text": "Dannir: Bæði aRnor` og MezzUp eru búnir að gefa þér svarið.",
+            "date": "2004-02-02 23:36:00",
+            "post_id": "30609",
+            "reply_to_id": "30605"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "hægri á my computer -> properties -> advanced flipinn -> Startup and Recovery \"Settings\" -> \"Edit\" takkinn í System startup",
+            "date": "2004-02-03 00:34:00",
+            "post_id": "30616",
+            "reply_to_id": "30609"
+        },
+        {
+            "user_name": "Dannir",
+            "text": "já gleymdi þetta er komið hjá mér. \n\n\n\n\nÞakka kjærlega fyrir hjálpina .\n\nNegrin hafði það á endanum að leiðbeina mér í gegnum þetta",
+            "date": "2004-02-03 01:32:00",
+            "post_id": "30626",
+            "reply_to_id": "30616"
+        }
+    ],
+    "date": "2004-02-02 21:21:00"
+}

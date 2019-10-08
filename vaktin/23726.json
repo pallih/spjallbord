@@ -1,0 +1,30 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "23726",
+    "title": "WIFI+LAN yfir i LAN med crossover",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=23726",
+    "posts": [
+        {
+            "user_name": "Selurinn",
+            "text": "Saelir,\nEr med tolvu herna sem tengist tradlaust net milli husa.\nTad sem eg tarf ad gera er ad deila internet tengingunni a tessa vel svo haegt se ad komast a netid a adra vel herna lika med crossover a milli.\nTradlausa netid er med eftirfarandi stillingar.\n192.168.1.7\n255.255.255.0\n192.168.1.1\nEthernet er med efitrfarandi stillingar.\n192.168.0.1\n255.255.255.0\nEkkert Default Gateway.\nA hinni velinni er eg med tetta stillt svona\n192.168.0.2\n255.255.255.0\n192.168.0.1\nFae lokal tengingu a milli en eg kemst ekki a internet a tolvunni.\nHverju er eg ad gleyma. Virdist eins og eg get sharad bara annadhvorri tengingu a tessa vel, bara annadhvort lokal eda wireless.",
+            "date": "2009-07-02 10:18:00",
+            "post_id": "210637",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "ertu að tala um að bridge netið ?\nhægri click og bridge á wifið yfir á ethern",
+            "date": "2009-07-02 11:38:00",
+            "post_id": "210638",
+            "reply_to_id": "210637"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Tad var nefnilega tad sem eg profadi, ad bridga wifi og ethernet, en eftir tad virkadi netid ekki neitt :S\nEitthvad sem tarf ad gera eftir bridging svo haegt se ad vafra um a netinu.",
+            "date": "2009-07-02 19:00:00",
+            "post_id": "210664",
+            "reply_to_id": "210638"
+        }
+    ],
+    "date": "2009-07-02 10:18:00"
+}

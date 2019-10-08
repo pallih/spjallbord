@@ -1,0 +1,58 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "4333",
+    "title": "Meiri straum á USB?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=4333",
+    "posts": [
+        {
+            "user_name": "FrankC",
+            "text": "Sælir,\n\n\n\nvar að fá mér IN-WIN kortalesara frá computer.is. Það er power ljós á honum sem logar alltaf gult hjá mér en mig grunar sterklega að það eigi að vera grænt (annað gaumljós sem kallast ACCESS er grænt en aldrei gult) og grunar að það sé ekki nægur straumur á þessu USB sem það fer í (fer beint á móðurborðið). Hvað segið þið? Hljómar þetta eins og ég þurfi meiri straum? Getið þið sagt mér hvernig ég get séð hve mikill straumur er á þessu og þá í framhaldi hvort hægt sé að auka hann? Það er ekkert talað um gult ljós í mjög svo takmarkaða bæklingnum sem kemur með þessu og \nhttp://www.in-win.com\n er ekki mikill viskubrunnur...\n\n\n\nÞetta er varan: \nhttp://www.computer.is/vorur/4336",
+            "date": "2004-06-01 20:39:00",
+            "post_id": "44106",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "elv",
+            "text": "Hlýtur að vera hægt að mæla þetta með spennumæli( ef það heitir eitthvað annað bið ég alla afsökunar á því) Sambandi að auka strauminn á USB portið þá er það abyggilega ekki hægt...en gætir athugað nýtt BIOS..goggle móðurborðinu +USB problem eða eitthvað og sjáðu hvort þetta er algeng vandmál..nýtt BIOS gæti leyst þetta...annars er bara að fá sér USB höb með straumbreyti.",
+            "date": "2004-06-01 20:52:00",
+            "post_id": "44108",
+            "reply_to_id": "44106"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "en virkar þetta??",
+            "date": "2004-06-01 21:44:00",
+            "post_id": "44115",
+            "reply_to_id": "44108"
+        },
+        {
+            "user_name": "elv",
+            "text": "Höbin...já hann virkar er með gamlan lappa sem er með alltof lágan straum á USB og með þessu get ég tengt öll tæki við hann",
+            "date": "2004-06-01 23:33:00",
+            "post_id": "44140",
+            "reply_to_id": "44115"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "nei, meinti nú hjá FrankC. Sé ekki betur en það eina sem er að er að ljós sem að er gult, en gæti átt að vera grænt?",
+            "date": "2004-06-02 08:06:00",
+            "post_id": "44158",
+            "reply_to_id": "44140"
+        },
+        {
+            "user_name": "FrankC",
+            "text": "jú þetta virkar... málið er bara að alveg alveg fyrst þegar ég setti þetta í samband var það grænt, í smástund. En kortalesarinn virkar... Kannski er þetta bara sálrænt vandamál, mér þykja gul ljós þýða að e-ð sé að...",
+            "date": "2004-06-02 14:58:00",
+            "post_id": "44182",
+            "reply_to_id": "44158"
+        },
+        {
+            "user_name": "FrankC",
+            "text": "nei annars, hann virkar ekki, stundum þegar ég endurræsi segist tölvan hafa fundið nýjan vélbúnað og setur hann inn sem unknown device, þá þarf ég að opna kassann, taka þetta úr sambandi og setja aftur í samband til að þetta fari rétt inn, virðist vera e-ð bilað eða driveravesen. Einn plús samt, ljósið er grænt þegar lesarinn er inni sem unknown device =)\n\n\n\nþetta er nú meira vesenið...",
+            "date": "2004-06-02 15:28:00",
+            "post_id": "44186",
+            "reply_to_id": "44182"
+        }
+    ],
+    "date": "2004-06-01 20:39:00"
+}

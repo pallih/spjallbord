@@ -1,0 +1,100 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "10435",
+    "title": "Tracea Ip af msn?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=10435",
+    "posts": [
+        {
+            "user_name": "Snorrmund",
+            "text": "er hægt að fá ip hjá einhverjum sem maður er að tala við á msn ... er með aðila á msn sem ég veit ekki hver er en ég get komist að gegnum ip addressuna hans..",
+            "date": "2006-03-27 19:13:00",
+            "post_id": "113761",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "CraZy",
+            "text": "tja þó þú fáir ip töluna þá er vesen ef ekki ógerlegt án þess að vera über l33t h4x0r að finna hver hann er \n (án þess að ég viti einhvað um þetta......)",
+            "date": "2006-03-27 20:05:00",
+            "post_id": "113770",
+            "reply_to_id": "113761"
+        },
+        {
+            "user_name": "Mazi!",
+            "text": "reyndu að finna mig þetta er ip-talan mín\n\n\n\n85.220.80.153",
+            "date": "2006-03-27 20:25:00",
+            "post_id": "113775",
+            "reply_to_id": "113770"
+        },
+        {
+            "user_name": "kjaran",
+            "text": "Mæli með því að þú lokir fyrir remote admin á routernum eða læsir aðganginum.\n\n\n\nAnnar neyðist ég til þess að láta undan barnalegum þörfum mínum. :>",
+            "date": "2006-03-27 21:00:00",
+            "post_id": "113778",
+            "reply_to_id": "113775"
+        },
+        {
+            "user_name": "DoRi-",
+            "text": "installaðu netlimiter(sama hvaða ver virka allir eins)\n\ntalaðu við manneskjuna\n\nþú ættir að fá eitt stykki IP tölu actíve í smá stund í netlimiter, undir msnmsgr.exe og process eitthvað\n\ncopy-aði ip töluna og trout-aðu",
+            "date": "2006-03-27 22:04:00",
+            "post_id": "113785",
+            "reply_to_id": "113778"
+        },
+        {
+            "user_name": "tms",
+            "text": "Já, ég er ekki frá því að ef þú opnar port fyrir Messenger geturu séð iptöluna í netlimiter eða bara netstat þegar þú sendur eða tekur á móti fæl. Annars er stilling í Messenger sjálfum að tengjast aldrei peer þannig að það er ekki hægt að finna iptöluna gegnum MSN, en það er ekki kveikt á því við uppsetingu.",
+            "date": "2006-03-27 22:18:00",
+            "post_id": "113788",
+            "reply_to_id": "113785"
+        },
+        {
+            "user_name": "Fumbler",
+            "text": "Já, og ef þú kveikir á því þá virkar file transfer mjög slow og verra voice og webcam samband því að það mun allt fara í gegnum gateway í USA.\n\n\n\nAnnars er líka til lítið frítt forrit sem heitir TCPview, og með því geturu séð þær tengingar sem eru í gangi. \nhttp://www.sysinternals.com/Utilities/TcpView.html",
+            "date": "2006-03-27 23:07:00",
+            "post_id": "113794",
+            "reply_to_id": "113788"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Öll msn chat fara í gegnum msn serverana þannig að það virðist vera ógerlegt að sjá ip töluna hjá viðkomandi manneskju nema að senda henni einhvern fæl. Þá tengir hún directly.",
+            "date": "2006-03-27 23:28:00",
+            "post_id": "113797",
+            "reply_to_id": "113794"
+        },
+        {
+            "user_name": "Rusty",
+            "text": "Ef þú opnar port og sendir fæl, þá ættirðu að fá IP í NetLimiter.\n\n\n\nEn svo er það, hvernig ætlarðu að nýta þér IP í að finna upplýsingar? (þó það virki hjá mér. Klapp á bakið sem kemst að nafni mínu með því að vita að IP talan sé 157.157.117.34)",
+            "date": "2006-03-27 23:55:00",
+            "post_id": "113806",
+            "reply_to_id": "113797"
+        },
+        {
+            "user_name": "djjason",
+            "text": "Ármann ****son?\n\n\n\nReyndar ekki í gegnum IP heldur Whois á snobbinn.com",
+            "date": "2006-03-28 01:25:00",
+            "post_id": "113815",
+            "reply_to_id": "113806"
+        },
+        {
+            "user_name": "urban",
+            "text": "hmmm nú veit ég alveg hver þú ert...\n\n\n\nmikið er gaman að hafa ip töluna hjá þér... \n\n\n\n\nbest að fara reyna gera þér einhvern grikk",
+            "date": "2006-03-28 03:35:00",
+            "post_id": "113820",
+            "reply_to_id": "113815"
+        },
+        {
+            "user_name": "Rusty",
+            "text": "Mhm.. IP talan er routuð á snobbinn.com.",
+            "date": "2006-03-28 15:02:00",
+            "post_id": "113883",
+            "reply_to_id": "113820"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "var aðallega það að þetta var einhver einstaklingur ur vinahópnum mínum og flestir ur vinahópnum skirfa á eina blogsíðu i comment og svona og ætlaði þá að bera saman.. reddaði þessu sammt.. lét hann bara kvitta á síðuna \n En annars er ég ekki búinn að finna út hver þetta er.. en fyrts ég er með ipið hans getur ekki einhver kennt mér að hacka hana",
+            "date": "2006-03-28 18:56:00",
+            "post_id": "113935",
+            "reply_to_id": "113883"
+        }
+    ],
+    "date": "2006-03-27 19:13:00"
+}

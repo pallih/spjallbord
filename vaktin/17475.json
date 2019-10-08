@@ -1,0 +1,65 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "17475",
+    "title": "Sjálfkrafa afrit af gögnum",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=17475",
+    "posts": [
+        {
+            "user_name": "Prowler",
+            "text": "Sælir.\n\n\n\nÞannig er mál með vexti að ég er með mikilvæg skjöl sem ég er stanslaust að vinna í og má með engu móti glata.\n\n\n\nÉg ætla kaupa mér flakkara til að geta átt back up af því og vil hafa eitthvað tól sem tekur sjálfkrafa afrit af ákveðnum gögnum (til dæmis my docs).\n\nSvipað eins og time machine fídusinn á mac.\n\n\n\nEr einhver með lausn við þessu?",
+            "date": "2008-03-18 20:21:00",
+            "post_id": "170292",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "zedro",
+            "text": "Þetta gæti hjálpað:\n\nhttp://www.microsoft.com/windowsxp/usin ... nctoy.mspx\n\n\n\n\nAnnars er það bara google og \"file synchronization XP/Vista.... etc\"",
+            "date": "2008-03-19 00:53:00",
+            "post_id": "170316",
+            "reply_to_id": "170292"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Ég nota töluvert SyncToy sem Zedro benti þér á en það er ekki sjálfvirkt.\n\nEr með tvo alveg nákvæmlega eins folderar á sitthvorri tölvunni.\n\nÉg á alltaf tvö sett af öllum ljósmyndum sem ég tek.\n\n\n\n\n\nTime machine á MAC er bara þvílík snilld að mig að mig langar í MAC nánast bara út af því. \n\nReyndar er Leopard 10.5 kerfi hjá þeim svona 1000x flottara en Winbögg.",
+            "date": "2008-03-19 09:43:00",
+            "post_id": "170326",
+            "reply_to_id": "170316"
+        },
+        {
+            "user_name": "Amything",
+            "text": "Ef þú vilt gera þetta soldið fagmanns er Version Control málið. Getur backtrackað allar breytingar aftur í tímann.\n\n\n\nt.d.\n\nhttp://tortoisesvn.net/\n\n\n\n\nEf þess er ekki þörf nota ég Syncback ókeypis útgáfuna til að backupa mín gögn daglega.",
+            "date": "2008-03-19 14:21:00",
+            "post_id": "170337",
+            "reply_to_id": "170326"
+        },
+        {
+            "user_name": "Dagur",
+            "text": "Tékkaðu á þessu. Þetta lofar mjög góðu\n\n\n\nhttp://www.getdropbox.com/\n\n\n\n\nSvo eru til svipaðar lausnir sem eru samt ekki eins töff.\n\n\n\nhttp://www.box.net/\n\n\nhttp://www.jungledisk.com/\n\n\nhttp://wua.la/en/home.html\n\n\nhttp://www.rangboom.com/",
+            "date": "2008-03-19 23:00:00",
+            "post_id": "170361",
+            "reply_to_id": "170337"
+        },
+        {
+            "user_name": "Prowler",
+            "text": "Held að Syncback hafi verið það sem ég var að leita að. Takk fyrir.",
+            "date": "2008-03-20 15:43:00",
+            "post_id": "170385",
+            "reply_to_id": "170361"
+        },
+        {
+            "user_name": "TechHead",
+            "text": "Áhugaverður þráður.\n\n\n\nÉg hef einmitt sjálfur verið að leita að hugbúnaði sem tekur afrit/syncar \n\nsjálfvirkt á utanáliggjandi miðil um leið og miðillinn er settur í samband við\n\ntölvuna.\n\n\n\nVar búinn að prófa Acronis True Image Home en þar sem afritunar miðillinn\n\ner settur í samband á óreglulegum tímum þá get ég ekki notast við neitt\n\ntíma \"schedule\" og því hentaði Acronis ekki. Einnig hef ég reynt syncback án\n\nárangurs.\n\n\n\nHef verið að leita að hugbúnað með virkri þjónustu í windows sem kennist \n\nsjálkrafa við þegar miðillinn er settur í samband hverju sinni.\n\n\n\nEf einhver getur bent mér hugbúnað sem fullnægir þessum kröfum fyrir \n\nXP/Vista þá yrði ég mjög þakklátur",
+            "date": "2008-03-20 20:32:00",
+            "post_id": "170401",
+            "reply_to_id": "170385"
+        },
+        {
+            "user_name": "Kristján Gerhard",
+            "text": "http://allwaysync.com/index.html\n\n\n\n\nRakst á \nþetta\n hef ekki prófað það sjálfur en það gæti gagnast einhverjum.   Neðar á síðunni er boðið uppá aðra útgáfu að sama forriti sem heitir \"sync'n'go\" til að keyra á minnislykli, kannski býður það uppá autosync við mount.\n\n\n\nKG",
+            "date": "2008-03-21 21:16:00",
+            "post_id": "170481",
+            "reply_to_id": "170401"
+        }
+    ],
+    "date": "2008-03-18 20:21:00"
+}

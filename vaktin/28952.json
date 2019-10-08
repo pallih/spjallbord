@@ -1,0 +1,72 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "28952",
+    "title": "Vesen með aflgjafa",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=28952",
+    "posts": [
+        {
+            "user_name": "SolidFeather",
+            "text": "Ákvað að taka tölvuna í sundur til að rykreinsa og installa nýjum HDD. Gékk frekar vel nema þegar ég ætla að kveikja á tölvunni þá gerist ekki neitt. Sé að það kemur power á móðurborðið því það kviknar lítil pera á því. Ég kemst að því að power snúran er vitlaust tengd og áður en ég breyti henni þá tek ég strauminn af aflgjafanum með aðal switchnum. Þegar ég flikka honum svo til baka þá slær hann allt rafmagn af herberginu. Ég aftengi hann alveg frá tölvunni en aftur gerist það sama. \nVeit einhver hér hvað gæti verið að? Er hann ekki líklegast ónýtur? Er mest hræddur um að hann hafi tekið eitthvað annað með sér  \n \nÞetta er OCZ ModStream 520W ef það skiptir máli.",
+            "date": "2010-03-13 22:51:00",
+            "post_id": "250374",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Ertu búinn að prófa að keyra aflgjafann alveg sér með því að taka allar snúrur úr sambandi og prófa að jumpstarta því? Slær út þegar þú gerir það?",
+            "date": "2010-03-13 23:15:00",
+            "post_id": "250375",
+            "reply_to_id": "250374"
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "Jamm, hef hann ekki tengdan í neitt og hann slær samt allt út.",
+            "date": "2010-03-13 23:24:00",
+            "post_id": "250376",
+            "reply_to_id": "250375"
+        },
+        {
+            "user_name": "mercury",
+            "text": "allar líkur á því að það sé einhvað farið að leiða saman í aflgjafanum. getur reynt að láta laga hann en sennilega best að fjárfesta í nýjum.",
+            "date": "2010-03-13 23:44:00",
+            "post_id": "250382",
+            "reply_to_id": "250376"
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "Ojæja ætli það ekki. Ég prófaði nýja hdd-inn og hann virkar ennþá, get ekki athugað hvort móðurborð, cpu og gpu virki því ég á ekki 24 pin psu, bara 20 pin",
+            "date": "2010-03-14 01:21:00",
+            "post_id": "250398",
+            "reply_to_id": "250382"
+        },
+        {
+            "user_name": "vesley",
+            "text": "getur keyrt 24pin móðurborð með 20 pin.   það er bara ekki mælt með því til lengri tíma",
+            "date": "2010-03-14 01:34:00",
+            "post_id": "250400",
+            "reply_to_id": "250398"
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "Passar 20 pin connector í 24 pin slot? þarf ég ekki adapter? Gæti athugað hvort það komi ljós á móðurborðið, þori ekki að kveikja á henni með þessum 250w aflgjafa.",
+            "date": "2010-03-14 01:44:00",
+            "post_id": "250402",
+            "reply_to_id": "250400"
+        },
+        {
+            "user_name": "vesley",
+            "text": "þarft ekki adapter.  og ættir að  geta náð að starta systeminu með þessum aflgjafa. en kannski ekki keyra það beint mikið",
+            "date": "2010-03-14 02:15:00",
+            "post_id": "250407",
+            "reply_to_id": "250402"
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "Jæja ég stakk honum í samband, bara 20 pin og svo 4 pin og fékk ljós á móðurborðið. Tengdi svo skjárkortið við skjáinn og kveikti á henni \nFékk stóra rauða stafi á skjáinn um að ég hefði gleymt að tengja 6 pin pciexpress tengið við skjákortið. \nHélt að maður gæti ekki orðið ánægður við að sjá villuskilaboð",
+            "date": "2010-03-14 02:48:00",
+            "post_id": "250408",
+            "reply_to_id": "250407"
+        }
+    ],
+    "date": "2010-03-13 22:51:00"
+}

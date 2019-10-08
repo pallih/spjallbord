@@ -1,0 +1,170 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "74709",
+    "title": "Plex og Automation",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=74709",
+    "posts": [
+        {
+            "user_name": "dandri",
+            "text": "Það er búið að tala slatta um PLEX undanfarið enda er það æðislegt dót, en ég hef ekkert séð talað hérna um að automatea download fyrir plex.\nÉg komst að því í enda október að það sé hægt að nota forrit til að downloada öllu sjálfkrafa og að það sé hægt að requesta downloadi fyrir plex remotely. Þannig að ég bara varð að prufa.\nÉg setti upp plexrequests sem gerir þeim sem er á plexinu mínu kleift að requesta þáttum og bíómyndum sem eru ekki á plex. Svo setti ég upp Sickrage og Couchpotato til að sjá um að downloada því sem er beðið um. Í Sickrage geturðu addað inn öllum þáttum sem þú vilt downloada og forritið sér um að downloada öllum þáttum sem eru komnir af seríunni og um leið og að nýjasti þátturinn kemur út þá downloadast hann án þess að þurfa að gera neitt. Alveg stórkostlegt dæmi. Þið sem eruð að automatea download, hvað settuð þið upp hjá ykkur? Það eru fleiri valkostir nefnilega, Eins og Radar og Sonarr",
+            "date": "2017-11-17 16:51:00",
+            "post_id": "661079",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "JohnnyRingo",
+            "text": "Hérna er svona all in one solution (og miklu meira)\nhttp://www.openflixr.com/\nÞarna geturu séð þessi vinsælustu forrit/plugin sem eru notuð.\nHef sjálfur hent þessu upp á virtual vél og fiktað smá en ekkert grafið djúpt í þetta, to-do listinn lengist",
+            "date": "2017-11-17 17:43:00",
+            "post_id": "661085",
+            "reply_to_id": "661079"
+        },
+        {
+            "user_name": "worghal",
+            "text": "ég nota sonarr fyrir mína þætti.",
+            "date": "2017-11-17 18:04:00",
+            "post_id": "661087",
+            "reply_to_id": "661085"
+        },
+        {
+            "user_name": "dandri",
+            "text": "Openflixr virkar mjög promising!\nSonarr er gottstöff.\nGaman að sjá að það eru fleiri að fikta!",
+            "date": "2017-11-17 18:28:00",
+            "post_id": "661089",
+            "reply_to_id": "661087"
+        },
+        {
+            "user_name": "brynjarbergs",
+            "text": "showRSS",
+            "date": "2017-11-17 18:50:00",
+            "post_id": "661093",
+            "reply_to_id": "661089"
+        },
+        {
+            "user_name": "ZiRiuS",
+            "text": "Sonarr hér tengt við Plex. Ég nota Plex samt eiginlega ekkert þar sem öll sjónvörpin á heimilinu eru tengd við tölvuna mína, er svo bara gamaldags og horfi á þetta með VLC.",
+            "date": "2017-11-17 20:06:00",
+            "post_id": "661103",
+            "reply_to_id": "661093"
+        },
+        {
+            "user_name": "Quemar",
+            "text": "Hvernig er það með þetta stöff... þegar maður torrentar þá eru allskonar möguleikar í boði fyrir hvern þátt í allskonar gæðum og ekki alltaf hægt að treysta á að sama grúppa uploadi reglulega. Eru þessi automated öpp með lausn á þessu potential vandamáli?\nÞetta er auðvitað bara vandamál ef maður setur miklar kröfur, ég vil helst ekki sjá neitt nema x265 1080p WEB download, helst 6ch aac 640k eða betra og heildar stærð upp á 500MB-1GB fyrir standard 40-60 min þátt. Fyrir myndir geri ég hærri kröfur um heilda bitrate og vil frekar sjá DTS.",
+            "date": "2017-11-17 20:24:00",
+            "post_id": "661106",
+            "reply_to_id": "661103"
+        },
+        {
+            "user_name": "dandri",
+            "text": "Þú getur sett upp profiles fyrir gæðin sem þú vilt ná í hlutina í, allt frá sd til full 1080p\nGetur stillt providers á torrentum mjög vel, þeas hvar þú vilt leita af efni, rssfeeds og fleira, getur líka valið að downloada einungis frá trusted uploaderum. Getur líka sett inn orð í leitarskilyrðin til að excluda; eins og swesub,cam, ogsfrv",
+            "date": "2017-11-17 20:36:00",
+            "post_id": "661107",
+            "reply_to_id": "661106"
+        },
+        {
+            "user_name": "sveinnerlings",
+            "text": "Ég er með SickBeard til þess að downloada öllum þáttunum svo nota ég Couchpotato fyrir bíómyndir. Hef ekki prófað aðra gæja fyrir automation en þessir virka allaveganna ágætlega hjá mér, væri samt til í að prófa eitthvað annað en Couchpotato þar sem það er margt í því sem böggar mig og margt sem virkar tæplega...",
+            "date": "2017-11-17 21:05:00",
+            "post_id": "661109",
+            "reply_to_id": "661107"
+        },
+        {
+            "user_name": "Tonikallinn",
+            "text": "Ég setti þetta upp hjá mér eftir að sjá þennar þráð. Svolítið challenge þar sem ég kunni ekkert á þetta en Youtube hjálpaði.... var nú þegar með Plex og nota nú Sonarr fyrir þætti og Radarr fyrir myndir",
+            "date": "2017-11-18 05:33:00",
+            "post_id": "661122",
+            "reply_to_id": "661109"
+        },
+        {
+            "user_name": "andribolla",
+            "text": "ég var að prófa að setja upp Openflixr á UnRaid og er ég að rekast á veggi og finn hvergi hvernig ég á að snúa mér í þessu.\nég er búin að sækja og afþjappa skrá sem er 100gb að stærð svo á að nota það til þess að ræsa VM en fæ þetta engan vegin til þess að virka hjá mér. er einhver hér sem gæti beint mér inn á rétta braut \nkv. Andri",
+            "date": "2017-11-24 21:36:00",
+            "post_id": "661667",
+            "reply_to_id": "661122"
+        },
+        {
+            "user_name": "JohnnyRingo",
+            "text": "Hef ekki notað unraid en fyrir hyper-v var einfalt, downloadaði vhd fælnum frá openflixr, bjó til nýja vm og valdi þá skrá sem vhd og keyrði í gang.",
+            "date": "2017-11-25 00:40:00",
+            "post_id": "661678",
+            "reply_to_id": "661667"
+        },
+        {
+            "user_name": "hfwf",
+            "text": "Ég myndi líklega nota allt þetta automation ef ég nennti og það væri ekki svona resource-unfriendly.\nnota rtorrent+flexget og manuala rest, dugar mér, hugsa ég fari lengra með það með nýrri server, hvenær sem það verður, er á server 2 á 10 árum.",
+            "date": "2017-11-25 14:57:00",
+            "post_id": "661713",
+            "reply_to_id": "661678"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Þökk sé þessum þræði þá kom ég því loksins í verk að gera eitthvað, takk fyrir það \nSetti upp Sonarr, og eftir að hafa fengið útskýringu á hvernig Usenet virkaði hjá góðum vin, þá setti ég einnig upp NZBGet á serverinn, keypti ég aðgang að 2x Usenet indexerum og 3x 500GB blokkir hjá mismunandi Usenet News-serverum (BlackFriday afslættir út um allt).\nEr svo með Plex einnig uppsett, fínt að þurfa núna ekkert að spá neitt í neinu.  Merki bara við þá þætti sem ég vil að Sonarr fylgist með og þetta bara mallar \nEina hættan er að ég þurfi fljótlega að stækka diskaplássið í servernum til að standa undir þessu...",
+            "date": "2017-11-25 15:09:00",
+            "post_id": "661714",
+            "reply_to_id": "661713"
+        },
+        {
+            "user_name": "dandri",
+            "text": "Wooohoo gaman að fleiri séu að notfæra sér þetta, því að mér finnst þetta snilld.\nHef ekkert kynnt mér Usenet og NZBGet ennþá, mælirðu með því?\nTalandi um diskapláss þá keypti ég mér 8tb disk í upphafi mánaðar og er búinn með vandræðalega mikið af plássinu",
+            "date": "2017-11-25 16:40:00",
+            "post_id": "661719",
+            "reply_to_id": "661714"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Já að vissu leyti.  Helsti kosturinn sem ég sé framyfir torrent er að þú ert ekki að deila neinu.   Þannig að, þá ertu annars vegar ekki að gera neitt ólöglegt, þar sem íslensk lög banna dreifingu en ekki að sækja til einkanota, og hins vegar þá ertu ekki tilneyddur til að halda einhverju ákveðnu ratio-i á þeim síðum/trackerum sem þú ert skráður á.\nÓkosturinn er þó sá að þetta kostar, en það eru ekki stórar upphæðir.  Þessi 1,5TB sem ég keypti kostuðu samtals $30, en ódýrustu 500GB voru á $5, svo ég vel það sem primary stað, hinir tveir eru backup.  Aðgangurinn að indexunum tveimur kostaði $5 hvor, annað var árs áskrift og hitt lífstíðar.\nUsenet virkar sem sagt þannig að þú ert annars vegar með servera, sem geyma efnið, og hins vegar indexa, sem indexa efnið á serverunum.  Þetta er sem sagt sitt hvor aðilinn, sem lætur þetta frekar vera á gráu svæði heldur en beinlýnis ólöglegt.  Hver þáttur/bíómynd á server er svo brotinn niður í margar skrár, svo að ef að einhver sem á höfundarrétt að einhverju efni á servernum biður um að það sé fjarlægt, þá getur serverinn einfaldlega losað sig við eina af skránum, þá er hann ekki lengur með bíómyndina/efnið per se inni hjá sér.\nIndexinn sér svo um að vísa þér á réttar skrár á serverunum, þannig að ef að ein skráin er horfin af primary servernum þínum, þá segir indexinn þér hvar þú getir sótt hana á öðrum.\nÞannig að þetta er í grunninn sama hugmynd og torrent, efnið er hægt að sækja í smáum einingum frá einum eða mörgum stöðum, munurinn er aðallega að í staðin fyrir að þú sért að sækja frá öðrum notanda, þá ertu að sækja það frá server.  Indexarnir eru svo bara svipað og torrent síður, í staðin fyrir að halda utan um hvaða notendur eru með skránna hjá sér (torrent tracker),  þá halda þeir utan um hvaða serverar eru með skránna (usenet index).\nÉg er annars bara með þetta stillt þannig að Usenet er preferred, en torrent er sem backup.",
+            "date": "2017-11-25 17:59:00",
+            "post_id": "661724",
+            "reply_to_id": "661719"
+        },
+        {
+            "user_name": "hfwf",
+            "text": "Það sem mér finnst best, þío ég hafi ekkert notað USENET, er að þarna getur fengið rare efni, , torrent er meira nýtt dót, sem virkar í svona 90% allra notenda.\nÉg persónulega er ekki tilbúinn til að greiða fyrir svona aðgang, en margir til í það, og bara flott mál.\nEn ég verð oft pirraður á að finna ekki þetta gamla efni sem ég er að leita af.\nTil eru samt fríir indexar, en það er ekki næri nægilega gott efni þar ,skiljanlega.",
+            "date": "2017-11-25 19:54:00",
+            "post_id": "661732",
+            "reply_to_id": "661724"
+        },
+        {
+            "user_name": "nidur",
+            "text": "Eru allir með vpn á þessu automation?",
+            "date": "2017-11-26 11:14:00",
+            "post_id": "661763",
+            "reply_to_id": "661732"
+        },
+        {
+            "user_name": "hfwf",
+            "text": "tilgangslsust. Nena  þú sért einn af þessum álhattagaurum [emoji16]\nSent from my SM-G925F using Tapatalk",
+            "date": "2017-11-26 14:58:00",
+            "post_id": "661778",
+            "reply_to_id": "661763"
+        },
+        {
+            "user_name": "andribolla",
+            "text": "hví segiru það ?",
+            "date": "2017-11-26 16:10:00",
+            "post_id": "661783",
+            "reply_to_id": "661778"
+        },
+        {
+            "user_name": "hfwf",
+            "text": "af hverju ættiru að vilja nota VPN væri betri spurning \nSent from my SM-G925F using Tapatalk",
+            "date": "2017-11-27 00:09:00",
+            "post_id": "661801",
+            "reply_to_id": "661783"
+        },
+        {
+            "user_name": "Siggihp",
+            "text": "Er með Plex og nota SickRage og CouchPotato til að finna efni. Nota Deluge web client og sabnzdb  til að sækja efnið sem finnst. Keyrir allt á Freenas server. Hef samt verið að lenda í því undanfarið að usenet-in mín eru frekar léleg. \nHvaða Usenet provider eru þið að nota?",
+            "date": "2017-11-27 09:07:00",
+            "post_id": "661810",
+            "reply_to_id": "661801"
+        },
+        {
+            "user_name": "andribolla",
+            "text": "Ég væri líka til í að vita hvaða Usenet provider eru þið að nota?",
+            "date": "2018-01-09 22:14:00",
+            "post_id": "664711",
+            "reply_to_id": "661810"
+        }
+    ],
+    "date": "2017-11-17 16:51:00"
+}

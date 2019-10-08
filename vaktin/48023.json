@@ -1,0 +1,93 @@
+{
+    "forum_title": "Windows",
+    "id": "48023",
+    "title": "Network vandamál",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=48023",
+    "posts": [
+        {
+            "user_name": "Platon",
+            "text": "Vandamálið í heild sinni:\nEr með 3 tölvur...2 turntölvur og ein ferðatölva\nAðaltölvan er með móðurborði sem heitir Asus Striker Extream og hefur það tvö netkort innbyggt í móðurborðið,\nLocal Area Connection 1 og Local Area Connection 2, inná henni er Windows 7 64bit Ultimate Edition\nHin tölvan er einföld Dell turn með einföldum íhlutum og keyrir Windows XP\nFerðatölvan er Toshiba Satellite og keyrir einnig WIndows XP\nNetwork:\nLinksys S2008 Switch\nThomson TG789vn Router frá símanum\nW7 tölvan og Dell XP tölvan eru tengdar inná Linksys S2008 switch\nFerðatölvan er aðalega á þráðlausa netinu beint inná routerinn \nVandamálið:\nW7 tölvan dettur inn og út af netinu í gríð og erg tæknilega séð nær það aldrei tengingu í gegnum switchinn\nÞað sem ég hef gert\nNáð í nýjan Ethernetkapal í tvígang - Vandamálið óbreytt\nÉg hef ávallt fest ip tölu og dns serverinn í TCP/IP Protocol\nPrófaði að færa ethernet kapalinn frá LAC 1 yfir á LAC 2 - Vandamálið er eins\nPrófaði að ná í annað netkort sem er PCI Express kort (LAC 3) - Vandamálið er eins\nSwitchinn er í lagi prófaði XP tölvuna á öllum tengjum á honum og hún fær alltaf samband einsog skot\nFormataði W7 vélina í tvígang - Vandamálið er enn eins\nEf einhverjum dettur í hug hvað sé í gangi og hefur hugmynd um hvernig er hægt að laga vandamálið er viðkomandi velkomið að tjá mér hana hérna",
+            "date": "2012-05-26 17:06:00",
+            "post_id": "443820",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "agust1337",
+            "text": "Sýnir það rauðan kross á Local Area í Network and Sharing Center?\nEdit:\nFyrirgefðu ég meinti Change Adapter Settings í Network and Sharing Center.",
+            "date": "2012-05-26 17:12:00",
+            "post_id": "443822",
+            "reply_to_id": "443820"
+        },
+        {
+            "user_name": "Platon",
+            "text": "já 1 til 5 sekúntur í senn síðan sínir það vinnslu með bláum hring og nær tengingu en dettur síðan jafnfljótt aftur út og leikur sér í þessari hringeggju þangað til ég slekk á tölvuni og byrjar síðan atur þegar ég kveiki á henni.",
+            "date": "2012-05-26 17:25:00",
+            "post_id": "443824",
+            "reply_to_id": "443822"
+        },
+        {
+            "user_name": "agust1337",
+            "text": "Hmm...\nFarðu í Windows takkann og leitaðu af \ncmd\n ýttu svo á enter.\nSvo þar sérðu svona glugga \nÞar prófaðu að skrifa eftirfarandi kóða  (ýttu svo á enter eftir hverja línu):\nnetsh winsock reset\nnetsh int ip reset\nnet localgroup administrators localservice /add\nnet localgroup administrators networkservice /add\nEndurræstu svo tölvuna og segðu mér hvort það virkar",
+            "date": "2012-05-26 17:29:00",
+            "post_id": "443826",
+            "reply_to_id": "443824"
+        },
+        {
+            "user_name": "Platon",
+            "text": "Hafði ekki áætluð áhrif vandamálið enn til staðar\ntók mynd af cmd glugganum þetta er það sem gerðist",
+            "date": "2012-05-26 18:02:00",
+            "post_id": "443831",
+            "reply_to_id": "443826"
+        },
+        {
+            "user_name": "agust1337",
+            "text": "Þú ert Administrator er það ekki?",
+            "date": "2012-05-26 18:04:00",
+            "post_id": "443832",
+            "reply_to_id": "443831"
+        },
+        {
+            "user_name": "Platon",
+            "text": "jú tölvan segir mér það í User Accounts yfirlitinu",
+            "date": "2012-05-26 18:07:00",
+            "post_id": "443833",
+            "reply_to_id": "443832"
+        },
+        {
+            "user_name": "agust1337",
+            "text": "Hmm, lokaðu glugganum, farðu aftur í Windows takkan og leitaðu aftur af cmd en í þetta skiptið hægri klikkaðu á cmd.exe sem kemur upp og gerðu \"Run as administrator\"",
+            "date": "2012-05-26 18:11:00",
+            "post_id": "443834",
+            "reply_to_id": "443833"
+        },
+        {
+            "user_name": "Platon",
+            "text": "okei keyrði rumsuna í gegn og fékk jákvæða staðfestingu á öllum liðum\nRestartaði\nvandamálið er ennþá til staðar",
+            "date": "2012-05-26 18:21:00",
+            "post_id": "443836",
+            "reply_to_id": "443834"
+        },
+        {
+            "user_name": "agust1337",
+            "text": "Hmm, okei. Ég hef annað í huga.\nFarðu í Windows takkan og leitaðu af \nncpa.cpl\n og ýttu svo á enter.\nhægri klikkaðu á Local Area Connection og veldu \nProperties\nRétt fyrir neðan sem stendur \"Connection using:\" smelltu á \nConfigure\nSvo ætti gluggi að poppa upp, og í honum farðu í \nAdvanced\nÞar ætti að vera listi með eitthverjum hlutum sem stendur \nProperty\n og í honum finndu \nSpeed & Duplex\nOg þar sem stendur \nValue\n breyttu því í \n100 Half",
+            "date": "2012-05-26 18:32:00",
+            "post_id": "443841",
+            "reply_to_id": "443836"
+        },
+        {
+            "user_name": "Platon",
+            "text": "Okei möguleiki að þetta hafi gengið hefur ekki dottið út í 4 mínútur\ngeturu skýrt þetta eitthvað frekar út fyrir mér ?\nEn núna er ég búinn að einangra þessa tölvu niður í 100 Mbps ekki rétt get ég ekki haft það í 1000 ?",
+            "date": "2012-05-26 18:51:00",
+            "post_id": "443846",
+            "reply_to_id": "443841"
+        },
+        {
+            "user_name": "agust1337",
+            "text": "Það er flott  \n \nÞú getur lesið um Speed & Duplex hérna \nhttp://ccie20728.wordpress.com/2010/12/08/speed-and-duplex-settings/",
+            "date": "2012-05-26 19:04:00",
+            "post_id": "443850",
+            "reply_to_id": "443846"
+        }
+    ],
+    "date": "2012-05-26 17:06:00"
+}

@@ -1,0 +1,65 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "28625",
+    "title": "Python - Hvað svo?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=28625",
+    "posts": [
+        {
+            "user_name": "Daz",
+            "text": "Mig hefur lengi langað að læra eitthvað nýtt \"forritunarmál\" en ég er svo sérstaklega latur að ég hef aldrei gert neitt í því. Svo tók ég mig til og sótti mér eitthvað Python dæmi og pydev (eclipse plugin, ég er voðalega latur og vil gera allt í eclipse...). Hvað um það, svo geri ég \"Hello world\". Hvað svo? \nÉg er allt of latur til að láta mér detta eitthvað í hug til að prófa í Python, getur einhver hérna annaðhvort bent mér á eitthvað ótrúlega sniðugt að búa til og prófa mig áfram í, eða einhverja sniðuga síðu með einhverju álíka?",
+            "date": "2010-03-01 22:31:00",
+            "post_id": "247672",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "BjarniTS",
+            "text": "Ég tók Python í TÖL103 áfanga í tækniskólanum sem er nú reyndar hættur að vera python áfangi.\nFrekar skemmtilegt og ég mæli alveg með þessu.\nÁr síðan ég var í þessu og væri sjálfsagt fljótur að rifja upp en lærði bara basic voða mikið.\nEn þetta á samt að vera lítið af kóða/lítil skriffinska, en upp á móti mikið af möguleikum.\nSkemmtileg stöff.",
+            "date": "2010-03-01 22:53:00",
+            "post_id": "247687",
+            "reply_to_id": "247672"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Ég ræð nú alveg við smá forritun, mig vantar bara hugmyndir um hvað ég á að spreyta mig við. (Búa til hello world sem les tungumálið á vélinni og skrifar út skv því? Gera forrit sem fyllir út skattskýrsluna fyrir mig? \n ) Og ég er svo sannarlega ekki að fara að skrá mig í Iðnskólann til þess!",
+            "date": "2010-03-02 13:06:00",
+            "post_id": "247765",
+            "reply_to_id": "247687"
+        },
+        {
+            "user_name": "BjarniTS",
+            "text": "Búðu til bókunarforrit fyrir flugfélag og sendu það svo út um allan heim og seldu það og vertu milljónamæringur.",
+            "date": "2010-03-02 13:10:00",
+            "post_id": "247767",
+            "reply_to_id": "247765"
+        },
+        {
+            "user_name": "Amything",
+            "text": "Ef þú nennir ekki að búa til bókunarforrit fyrir flugfélög og verða milljónamæringur þá geturðu kíkt á þetta: \nhttp://www.codechef.com/",
+            "date": "2010-03-02 14:22:00",
+            "post_id": "247785",
+            "reply_to_id": "247767"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Ég er ekki viss um að ég nenni að leggja út í þarfagreiningu á generísku bókunarkerfi, again, ég er latur. \nÞessi síða lítur áhugavert út, þarf að skoða hana betur, þegar ég nenni",
+            "date": "2010-03-02 15:08:00",
+            "post_id": "247789",
+            "reply_to_id": "247785"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Ég tók Python áfanga í HR, hér eru dæmi um nokkur verkefni sem við vorum látin leysa:\n1)\nBúðu til fallið combinations(l,x) sem skilar lista yfir alla mögulega undirlista\nsem hægt er að velja úr l af lengd x.\n2)\nHvaða skrár eru stærstar?\nBúðu til undirforrit sem tekur slóð á möppu sem viðfang og skilar n stærstu skránum\ní möppunni og undirmöppum hennar sem lista:\n3)\nSkrifa leikinn MasterMind.\nÞað er auðveldast að kynnast leiknum með því að leika hann:\nhttp://www.mathsisfun.com/games/mastermind-game.html\nGóða skemmtun",
+            "date": "2010-03-02 15:12:00",
+            "post_id": "247792",
+            "reply_to_id": "247789"
+        },
+        {
+            "user_name": "davida",
+            "text": "http://projecteuler.net\n'nuff said.",
+            "date": "2010-03-02 20:11:00",
+            "post_id": "247871",
+            "reply_to_id": "247792"
+        }
+    ],
+    "date": "2010-03-01 22:31:00"
+}

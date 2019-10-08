@@ -1,0 +1,114 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "22915",
+    "title": "Vandamál að opna TCP port á Zyxel P-335U",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=22915",
+    "posts": [
+        {
+            "user_name": "ManiO",
+            "text": "Er með þennan router og búinn að opna port, en TCP opnast ekki á portunum. Fer sem sagt inn á routerinn, opna Network->NAT->Application og set þar inn portið og IP töluna sem að tölvan sem notar portið er með. Er eitthvað annað sem ég er að gleyma eða gæti nokkuð verið að Vodafone blokki þetta hjá sér?\nPrófaði port checker síðu og þar fæ ég að UDP sé opið á portinu en ekki TCP.\nOg vitaskuld setti ég regluna á active á routernum.",
+            "date": "2009-05-01 12:02:00",
+            "post_id": "205400",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Enginn með tillögur?",
+            "date": "2009-05-02 10:05:00",
+            "post_id": "205523",
+            "reply_to_id": "205400"
+        },
+        {
+            "user_name": "emmi",
+            "text": "Þarftu ekki að opna í eldvegg líka?",
+            "date": "2009-05-02 10:08:00",
+            "post_id": "205525",
+            "reply_to_id": "205523"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Er það ekki NATið?",
+            "date": "2009-05-02 16:25:00",
+            "post_id": "205550",
+            "reply_to_id": "205525"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Enginn sem getur varpað smá ljósi á þetta?",
+            "date": "2009-05-03 11:05:00",
+            "post_id": "205613",
+            "reply_to_id": "205550"
+        },
+        {
+            "user_name": "depill",
+            "text": "Skomm, það a´að vera nóg að opna þetta í NATinu á P-335U routernum þar sem að hann á svo að gata eldveggin sjálfur.\nHins vegar er ekki sem segir á móti því að slökkva hreinlega á edlvegginum ég myndi prófa það. Og það er bókað mál að það er ekkert á vélinni sjálfri sem er að hindra þetta ? Þar sem það er mjög auðvelt hreinlega með telnet að athuga hvort að TCp port séu opin, er spurning um að vera staddur á annari vél á netkerfinu og gera telnet <ip address> <port> og athuga hvort að tengingin opnist, bara til að vera viss.",
+            "date": "2009-05-03 11:37:00",
+            "post_id": "205618",
+            "reply_to_id": "205613"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Spurning hvort að Vista sé að trufla mig eitthvað í þessu. Næ t.d. ekki að slökkva á að Windows Defender kveiki á sér þegar að kveikt er á tölvunni. Kíki aðeins betur hvernig ég slökkvi algerlega á öllu Windows varnar ruslinu og tékka þetta aftur.\nÉg er nú ekki mjög fróður á telnet, en ég næ tengingu með því að setja \"telnet 'ip-talan' 'portið'\" í terminal. Kemur allavega connected.\nVæri hægt að tékka þetta með að reyna að telneta sig inn á vélina frá vél sem væri ekki inn á local netinu?\nEdit: Prófaði að nota port scan á annarri tölvu og þar finn ég portin opin (TCP) á innra netinu.",
+            "date": "2009-05-03 13:40:00",
+            "post_id": "205630",
+            "reply_to_id": "205618"
+        },
+        {
+            "user_name": "depill",
+            "text": "[quote=\"ManiO\"\nÉg er nú ekki mjög fróður á telnet, en ég næ tengingu með því að setja \"telnet 'ip-talan' 'portið'\" í terminal. Kemur allavega connected.\nVæri hægt að tékka þetta með að reyna að telneta sig inn á vélina frá vél sem væri ekki inn á local netinu?.[/quote]\nSko það að þú færð connected þýðir að portið er allavega accessible á innranetinu þínu ( giska að það sé það sem þú varst að reyna ). Það að reyna telneta þig á vél sem er ekki á innranetinu ( þá á public internet addressuna ) er það sem flest allar þessar síður sem eru að tékka fyrir opnum portum eru í raun og veru að gera. Það er að athuga hvort að þeir nái opnu TCP sambandi eða fá höfnun. Getur prófað það.",
+            "date": "2009-05-03 14:44:00",
+            "post_id": "205636",
+            "reply_to_id": "205630"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "http://connect.majestyc.net/\nPrófaði að nota þessa síðu til að tjékka þau port sem ég þarf opin (TCP) og það failar að ná tengingu í gegnum TCP en nær í gegn með UDP. Þannig að þá hef ég útilokað alla vega Windowsið ekki satt? Þá er það annað hvort routerinn eða Vodafone sem er að blokka portin ekki satt?",
+            "date": "2009-05-03 14:58:00",
+            "post_id": "205637",
+            "reply_to_id": "205636"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Virkaði eftir endurræsingu á routernum.",
+            "date": "2009-05-03 20:16:00",
+            "post_id": "205670",
+            "reply_to_id": "205637"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Hvað gæti verið af ef að portin lokast bara allt í einu en það reddast ef ég endurræsi routernum? (Gerðist aftur)",
+            "date": "2009-05-04 10:07:00",
+            "post_id": "205737",
+            "reply_to_id": "205670"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Gæti það verið að ég sé að misþyrma routernum? Meðal CPU notkun á honum er 90%+",
+            "date": "2009-05-05 15:30:00",
+            "post_id": "205939",
+            "reply_to_id": "205737"
+        },
+        {
+            "user_name": "Starman",
+            "text": "Á góðum degi ræður þessi router við 25-30Mbps throughput , ef þú ert að nota torrent og margar tengingar í gangi þá gefst hann upp. CPU í þessum router er einfaldlega frekar slappur. Mæli með að þú farir í Vodafone og fáir þér Zyxel NBG420N , er mun öflugri og þar að auki með betri loftnet (802.11n Draft 2.0).",
+            "date": "2009-05-05 17:59:00",
+            "post_id": "205951",
+            "reply_to_id": "205939"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Löngu búinn að slökkva á þráðlausa á P335inum, en kíki niður í Vodafone búð á fimmtudag.",
+            "date": "2009-05-05 20:09:00",
+            "post_id": "205959",
+            "reply_to_id": "205951"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ég hef akkúrat verið að lenda mikið í þessu sjálfur, Port detta út þangað til ég endurræsi routerinn. Er með VOIP Zyxel routerinn frá tal ( P2302RL minnir mig). Hef hinsvegar engann aðgang að routernum og því ekki dottið í hug að skoða CPU load-ið á honum.\nEr með VPN, RDP, DC++, torrent, FTP og allskonar dóterí í gangi alltaf hreint, og streama líka HD efni í gegnum routerinn yfir í PS3, er það þá möguleiki að vandamálið sé hreinlega að routerinn ráði ekki við þetta?",
+            "date": "2009-05-05 20:22:00",
+            "post_id": "205960",
+            "reply_to_id": "205959"
+        }
+    ],
+    "date": "2009-05-01 12:02:00"
+}

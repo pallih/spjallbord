@@ -1,0 +1,51 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "53785",
+    "title": "vesen með tv flakkara",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=53785",
+    "posts": [
+        {
+            "user_name": "cure",
+            "text": "hæ ég er að reyna að formata 2TB united TV flakkara en ég fæ alltaf upp þessa villu. \n ég get semsagt ekki initialized hann \nvitiði hvað ég get gert til að laga þetta ??  \nEdit* \n Þetta poppar upp um leið og ég opna Manage.",
+            "date": "2013-03-06 19:14:00",
+            "post_id": "498901",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Olafst",
+            "text": "Villan sést ekki á skjáskotinu þínu.\nAnnars áttu að smella á \"OK\" þegar þetta poppar upp hjá þér.",
+            "date": "2013-03-06 21:56:00",
+            "post_id": "498933",
+            "reply_to_id": "498901"
+        },
+        {
+            "user_name": "NonniPj",
+            "text": "Ertu búinn að athuga hvort að diskurinn sé í lagi ?\nGetur prófað að ná t.d. í CrystalDisk sem segir þér hvort það sé Smart failure á disknum, eða náð í einhvern annan hugbúnað til að checka diskinn.",
+            "date": "2013-03-06 22:10:00",
+            "post_id": "498937",
+            "reply_to_id": "498933"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Prófaðu að opna cmd og skrifa:\ndiskpart \nlis dis\nsel dis # (# er númer disks)\nclean\nprófaðu svo að reyna að initialize-a diskinn í cmp manager\nAnnars geturðu prófað að formata hann í diskpart. Þegar þú ert búinn að gera sel dis # þá geriru:\ncre par pri\nformat fs=ntfs label=\"nafn disks\" quick\nassign\nedit: djók, sá ekki að þú varst að reyna að initalizea diskinn sem birtist svona skringilega. Mögulega eitthvað að disknum eða hýsingunni. Ertu búinn að prófa að taka diskinn úr hýsingunni og setja hann í dokku eða tengja beint við tölvu?",
+            "date": "2013-03-06 23:27:00",
+            "post_id": "498953",
+            "reply_to_id": "498937"
+        },
+        {
+            "user_name": "cure",
+            "text": "allt í einu ég tók hann úr sambandi og setti aftur í samband og hann bara virkaði :/ gerði þetta svona 40 sinnum í viðbót og get ekki fengið villu skilaboðin aftur  \n  þýðir það ekki að það er bara stutt í að kvikindið hrynji",
+            "date": "2013-03-06 23:42:00",
+            "post_id": "498956",
+            "reply_to_id": "498953"
+        },
+        {
+            "user_name": "NonniPj",
+            "text": "Gæti verið, myndi samt athuga hvort diskurinn eða hýsingin séu með leiðindi.",
+            "date": "2013-03-18 00:20:00",
+            "post_id": "500687",
+            "reply_to_id": "498956"
+        }
+    ],
+    "date": "2013-03-06 19:14:00"
+}

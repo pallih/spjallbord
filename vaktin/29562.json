@@ -1,0 +1,58 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "29562",
+    "title": "stilla viftustjórann fyrir skjákortið",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=29562",
+    "posts": [
+        {
+            "user_name": "Gunnar",
+            "text": "er ekki hægt að stilla inní catalyst þannig að viftan hækki hraðann eftir því sem hitinn verður meiri?\nef ég læt tölvuna ráða hitanum þá er kortið í 89°. vill hafa það í sirka 75-80°. en ef ég stilli það á eitthvað í idle þá hækkar náttulega hitinn en viftan fer ekkert hraðar ef ég spila leiki. og svo eg ég stilli viftuna á hratt þá hægir hún ekki á sér þegar ég er hættur að spila.\nbuinn að reyna að google-a smá.",
+            "date": "2010-04-13 01:19:00",
+            "post_id": "256082",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "dragonis",
+            "text": "Ef þetta er á auto þá á viftan að byrja hækka sig þegar kortið er komið í ca 65 C,svo er einhvað profile dæmi líka hef ekki prófað það ,finnst hreinlega auðveldara að fara í catalyst og breyta því þú ert fljótari að því en að loada profile og leikjum,\nAuto er viftan á 20 %  er méð allt í botni OC 43 %.",
+            "date": "2010-04-13 01:42:00",
+            "post_id": "256085",
+            "reply_to_id": "256082"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "MSI Afterburn er besta GPU forrit sem ég hef notað.",
+            "date": "2010-04-13 02:26:00",
+            "post_id": "256087",
+            "reply_to_id": "256085"
+        },
+        {
+            "user_name": "Sydney",
+            "text": "Veit ekki um ATi kort, en á nvidia kortum er hægt að stilla mjög ítarlega allar viftustillingar í BIOSnum á kortinu, þarf í raun að flasha BIOSin til þess að virkja það.\nEða bara kaupa aftermarket kælingu",
+            "date": "2010-04-13 14:51:00",
+            "post_id": "256125",
+            "reply_to_id": "256087"
+        },
+        {
+            "user_name": "Oak",
+            "text": "ég setti þetta afterburner upp hjá mér og var eitthvað að fikta í viftustýringunni en ég hef aldrei heyrt svona í viftunni þegar að ég er búinn að vera eitthvað lengi í einhverjum leik...er það eðlilegt eða ?",
+            "date": "2010-04-13 15:16:00",
+            "post_id": "256130",
+            "reply_to_id": "256125"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "ekki til eitthvað forrit sem ég stilli bara viftuhraðann eftir hita og svo þarf ég ekkert að skipta mér meira af því?\nHiti 50°C\nHraði: 20%\nHiti 60°C\nHraði:25%\nHiti 70°C\nHraði:30%\nHiti 80°C\nHraði:35%\nog svo hærri hiti og meiri hraði.\nss. viftan fer automatic hraðar ef það kemur meiri hiti.",
+            "date": "2010-04-13 19:06:00",
+            "post_id": "256168",
+            "reply_to_id": "256130"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "eða er ekki hægt að fara bara inní catalyse stillingarnar og breyta því einhverstaðar þar?",
+            "date": "2010-04-16 20:20:00",
+            "post_id": "256636",
+            "reply_to_id": "256168"
+        }
+    ],
+    "date": "2010-04-13 01:19:00"
+}

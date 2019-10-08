@@ -1,0 +1,30 @@
+{
+    "forum_title": "Símar, fartölvur, myndavélar og önnur farandstæki",
+    "id": "57543",
+    "title": "Breyta .wav í .caf file, hljóð fyrir iphone",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=26&t=57543",
+    "posts": [
+        {
+            "user_name": "holavegurinn",
+            "text": "MIg vantar að breyta .wav fæl í .caf fæl. Er að breyta hljóðum í símanum mínum.\nEr eina leiðinn að converta hljóðunum í .aiff fæl og svo rename-a það .caf því að ef það stendur .caf í fælnum þá finnur síminn það ekki.\nVerður að heita dtmf-7, dtmf-8, dtmf-9 en um leið og ég læt fælinn heita dtmf-7.caf þá virkar það ekki.\nEndilega látið mig vita ef þið eruð með töfraráð við þessu",
+            "date": "2013-10-06 21:36:00",
+            "post_id": "532232",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Swooper",
+            "text": "Ég fann fullt af svörum við þessu vandamáli með því að gúgla \"convert wav to caf\".",
+            "date": "2013-10-08 01:30:00",
+            "post_id": "532415",
+            "reply_to_id": "532232"
+        },
+        {
+            "user_name": "holavegurinn",
+            "text": "Já ég náði að leysa þetta..Setti bara fælinn.caf inn með iFunbox og strokaði svo .aiff sem kom fyrir aftan",
+            "date": "2013-10-08 17:51:00",
+            "post_id": "532509",
+            "reply_to_id": "532415"
+        }
+    ],
+    "date": "2013-10-06 21:36:00"
+}

@@ -1,0 +1,121 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "7133",
+    "title": "Tengja tvö net saman?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=7133",
+    "posts": [
+        {
+            "user_name": "Emizter",
+            "text": "Sælir.\n\n\n\nÞannig er mál með vexti* að ég var að fá annan router á heimilið.\n\nSem þýðir þá að ég er með 2 stk. adsl og 2 stk. þráðlausa routera.\n\nEn, ég er svona búinn að vera að fikta smá, samt alls ekki mikið\n\nmeð að reyna að finna einhverja leið til að tengja þessi tvö net saman\n\nsvo að ég geti tengst tölvonum á hinu netinu án þess að fara í gegnum \n\nsímalínurnar.\n\n\n\nÉg hef hugsað mér að tengja þá bara þráðlaust, sem gæti þá verið meira\n\nvesen heldur en með kapli?\n\nEn a.m.k. þá er ég búinn að setja báða routerna á sama net.\n\nEr einhvað sérstakt sem maður verður að ath?\n\n\n\nTakk fyrirfram \n\n\n\n\n\n\n*ég bara varð að byrja svona.",
+            "date": "2005-01-21 20:04:00",
+            "post_id": "75813",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "biggi1",
+            "text": "er það ekki merki um það að vera of mikið á netinu að hafa 2 adsl?!!!!!\n\n\n\nen allavega, geturu ekki notað netkortið á móbóinu og kaift svo netkort í rauf og haft kapal úr raufinni í eitt netið og haft eitt net í móbóið?\n\n\n\nP.S. ég skil ekki sjálfur það sem ég er að tala um þannig að..",
+            "date": "2005-01-21 21:05:00",
+            "post_id": "75819",
+            "reply_to_id": "75813"
+        },
+        {
+            "user_name": "Emizter",
+            "text": "hehehe :p\n\n\n\nsko málið er held ég.... að þetta væri ekki neitt mál ef að ég myndi tengja snúru milli routerana... en held að það sé meira en lítið mál að tengja þá saman þráðlaust, þeas ef það er hægt. Þetta eru náttla þannig séð bara access púnktar.",
+            "date": "2005-01-21 21:32:00",
+            "post_id": "75830",
+            "reply_to_id": "75819"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Glæsilega uppsett bréf hjá þér \n \n\n\n\n\nAnnars áttu alveg að geta haft tvær ADSL tengingar á sama subnetti(sem þýðir að allar vélar geta talað saman) og svo þarftu bara að velja hvora tengingunna hver vél notar með því að stilla „Default Gateway“\n\n\n\nÞarft hinsvegar einhvern flóknari búnað(t.d. Linux \n) ef að þú ætlar að gera einhverskonar load balancing á milli ADSL línanna(sem að mér sýnist þú ekki vera að reyna)",
+            "date": "2005-01-21 21:32:00",
+            "post_id": "75831",
+            "reply_to_id": "75830"
+        },
+        {
+            "user_name": "Emizter",
+            "text": "Jáá.. en ég er sko búinn að prófa allt sem ég myndi gera ef að þeir\n\nværu bara tengdir saman með kapli... \n\n\n\nSem er þá mjög svipað og þú varst að tala um. Routerarnir eru bara það langt frá hvor öðrum og líka ekki á sömu hæðinni, þannig að ég nenni varla að vera að leggja kapal í vegginn (þrátt fyrir að það endi líklega með því).\n\n\n\nÞannig ég vill reyna að nota þráðlausa netið þótt að mig gruni að \n\nþað sé ekki hægt.",
+            "date": "2005-01-21 21:36:00",
+            "post_id": "75833",
+            "reply_to_id": "75831"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Ahh, skil vandamálið.\n\n\n\nÞráðlaus netkort geta ekki talað sín á milli einsog wired kerfi(ad-hoc á ekki við í þessu tilfelli), heldur fara öll samskipti á milli þráðlaus netkorts og AP, sem að er vandamál fyrir þig afþví að sumar tölvur eru tengdar í einn AP og aðrar í hinn APinn.\n\n\n\nÞað fyrsta(og eina) sem mér dettur í hug er að þú setjir einhverskonar „virtual kapal“ á milli APanna. T.d. með því að:\n\na) Setja báða APana í ad-hoc (ef að þeir styðja það)\n\nb) Setja tölvu/AP öðru meginn sem client á hinum APnum(er ekki búinn að hugsa í gegn hvort þannig routing myndi ganga, en hugsa að það ætti að virka)\n\nc) setja tölvur báðu meginn í ad-hoc mode, og láta þær route'a á milli(flóknari útfærsla á a)\n\n\n\nSvo er örugglega til einföld lausn á þessu sem að ég veit ekki um",
+            "date": "2005-01-21 21:58:00",
+            "post_id": "75835",
+            "reply_to_id": "75833"
+        },
+        {
+            "user_name": "Emizter",
+            "text": "hehe já..\n\n\n\nLíka eitt sem er ekkert ofur gott mál það er að annar búnaðurinn er\n\nZyXEL (660Hw) og hinn er einhver SpeedTouch drasl (eða þið vitið\n\nhva ég meina),\n\n\n\nEn ég er svona að spá í að leggja bara á milli, það þarf ekkert að vera svo mikið mál.. síðan er líka freistandi að fá sér svona:\n\nhttp://www.linksys.com/products/product.asp?prid=629&scid=38",
+            "date": "2005-01-21 23:40:00",
+            "post_id": "75861",
+            "reply_to_id": "75835"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Jamm, hérna er review um WRE54G: \nhttp://www.tomsnetworking.com/Reviews-1 ... WRE54G.php\n\n\n\n\nEn þetta myndi ekki hjálpa þér að nota 2 ADSL línur, er það nokkuð?",
+            "date": "2005-01-21 23:48:00",
+            "post_id": "75863",
+            "reply_to_id": "75861"
+        },
+        {
+            "user_name": "Emizter",
+            "text": "Jáhh.. spurning hvort þetta sé þá nokkuð sniðugt... bara ein fartölvan \n\ná heimilinu er með slöppu þráðlausunetikorti.. þannig að hún nær\n\nekki góðum styrk á einn routerinn amk... nema ég sé nálægt \n\n\n\n\nEn nei ég efast um að það hefði hjálpað einhvað við að tengja routerana\n\nsaman gegnum wireless.. \n\n\n\n\nbtw thx fyrir ábendinguna á reviewið.",
+            "date": "2005-01-22 00:10:00",
+            "post_id": "75868",
+            "reply_to_id": "75863"
+        },
+        {
+            "user_name": "tms",
+            "text": "Eins og ég skil þetta er wifi AP tengdur við net uppi hjá þér, og annar niðri.\n\nVæri ómögulegt að redda sér drasl-tölvu með tvem netkortum og einu wireless og keyrt eitthvað styrikerfi sem kann að routa á henni? Hún gæti þá tekið við neti á wireless kortinu og annað á ethernetkortinu og síðasta mundi snúa að LAN-inu og þú gætir keyrt load-balancing eða skipt niður hvaða tölvur nota hverja línu etc.",
+            "date": "2005-01-22 12:13:00",
+            "post_id": "75911",
+            "reply_to_id": "75868"
+        },
+        {
+            "user_name": "Emizter",
+            "text": "Jaa, svo það er eiginlega alveg ómögulegt að vera með tölvu á \n\nneðti hæðinni... nema þá maður mynrdi kaupa sér einhverja \n\nShuttle xPc.. sem er ekki að fara að gefa fljótlega, því að routerinn\n\ná neðri hæðinni er inni í sjónvarpsholi.",
+            "date": "2005-01-22 12:25:00",
+            "post_id": "75912",
+            "reply_to_id": "75911"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "þú veist að ef þú tengir báða routerana saman, þá máttu bara keyra DHCP á öðrum routernum. svo máttu auðvitað alsekki hafa sömu ip tölu á þeim.\n\n\n\nannar gæti verið 192.168.0.1 og hinn 192.168.0.2 til dæmis.\n\n\n\nannars er ég með D-link AP í láni, og hann styður \"Wireless Bridge\" og \"Multi-point Bridge\" ásamt því að geta verið AP, repeater og client. gætir hugsanlega sett þannig á milli hæðina til að tengja routerana saman. ég er samt ekki 100% viss um að það myndi virka.",
+            "date": "2005-01-24 08:36:00",
+            "post_id": "76146",
+            "reply_to_id": "75912"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Gnarr: Þessi? \nhttp://www.tomsnetworking.com/Reviews-7 ... 0Aplus.php",
+            "date": "2005-01-24 08:55:00",
+            "post_id": "76148",
+            "reply_to_id": "76146"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "exactly",
+            "date": "2005-01-24 11:33:00",
+            "post_id": "76154",
+            "reply_to_id": "76148"
+        },
+        {
+            "user_name": "bizz",
+            "text": "D-Linkinn getur bara verið repeater á annan D-link.\n\nVeit reynda ekki með bridge mode.",
+            "date": "2005-02-07 22:17:00",
+            "post_id": "77927",
+            "reply_to_id": "76154"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": ":)",
+            "date": "2005-02-07 22:37:00",
+            "post_id": "77933",
+            "reply_to_id": "77927"
+        }
+    ],
+    "date": "2005-01-21 20:04:00"
+}

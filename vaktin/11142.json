@@ -1,0 +1,30 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "11142",
+    "title": "SolidWorks Tölva..",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=11142",
+    "posts": [
+        {
+            "user_name": "nessinn",
+            "text": "Nú stendur svo til að bróðir minn vill fá tölvu til að geta unnið með forritið SolidWorks 2006 en vill hafa kostnaðinn mjög takmarkaðan.\n\n\n\nHann vill samt ekki hafa hana algjört drasl en honum vantar líka verðhugmynd á tölvu til að geta unnið með Solidworks 2006.\n\n\n\nÉg er ekki alveg nógu sterkur í tölvuíhlutamálum til að þora að segja til um verð eða hvaðeina en ég held að það sé betra að hafa Intel Pentium örgjörva til að vinna betur með multi-task í forritinu.\n\n\n\nHérna eru system specs fyrir Solidworks:\n\nRAM\n\n\nMinimum RAM: 512mb\n\nRecommended: 1gb (ég hafði hugsað kannski 1.5 gb ram)\n\n\n\nVideo\n\n\nRecommended: A certified OpenGL workstation graphics card and driver\n\nHérna er check listi yfir skjákort sem virka með solidworks.\n\n\n\n\nCPU\n\n\nIntel® Pentium™ (8), Intel® Xeon™ (8), AMD® Athlon™, AMD® Opteron™, AMD® Athlon™(10) X64 based computers\n\n(Hafði hugsað mér x64 Intel Pentium örgjörva hérna en ég er ekki viss)\n\n\n\n\n\nÞá eru komin allavega helstu specifications en síðuna með listanum (þetta er eina sem snýst að tölvuhlutum) er að finna \nhérna\n\n\n\n\ntakk",
+            "date": "2006-06-14 02:43:00",
+            "post_id": "121852",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gnarr",
+            "text": "Multitask er að nota mörg forrit í einu. Svo að það er ekki hægt að \"Multitask-a í forriti\". Hinsvegar er annað mál ef forrit er multithreaded\n\n\n\nAnnars gleymdiru að taka fram hvort þig vantar tölvu með öllu, það er að segja skjá, lyklaborði og mús eða bara kassa. Ég set inn hérna með skjá og öllu. þú hendir því þá bara út ef þú þarft það ekki.\n\n\n\nÞetta er líklega besti price/performance pakkinn sem þú getur fengið í dag: \n\nTölva\n\n\n+\n\nSkjákort\n\n\n\n\n108.393kr fyrir utan stýrikerfi.\n\n\n\nég mæli með að þú takir þetta skjákort til bráðabyrgða og reynir svo að fá notað PCIe Quadro FX eða FireGL kort af ebay. OpenGL kort kosta frá 130.000kr í búðum hérna á íslandi á meðan þú getur fengið þau frá 100$+ á ebay.\n\n\n\nPs. reyndu að finna út hvað \nþetta\n kort kostar, það gæti hugsanlega verið á ágætis verði.",
+            "date": "2006-06-14 09:01:00",
+            "post_id": "121855",
+            "reply_to_id": "121852"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Bara ein spurning, borgar bróðir þinn brúsan eða eitthvað fyrirtæki?  Til að það sé gamann að vinna með CAD þarftu að kaupa þér skjákort sem byrja í svona kr.100.000..  bara til að sjá hvaða peninga hann hefur.\n\n\n\nEr 805 ekki bara góður ef maður ætlar að yfirklukka?  Væri ekki betra að fara í 65nm CPU með 800Mhz brautarhraða?  Þeir kosta reyndar meira..\n\n\n\nVarðandi skjá þá myndi ég frekar mæla með 19\" túbu skjá, eða stærri, sem ræður við almennilega upplausn en ekki lítinn LCD sem er takmarkaður við 1280x1024.\n\n\n\nOg FX540 kortið hjá OK er svona 2x-3x dýrara en NVS 285 kortið hjá EJS.. sé reyndar bara hvað 'special price for you my friend' verðið mitt er en ekki smásöluverðið.",
+            "date": "2006-06-14 10:22:00",
+            "post_id": "121857",
+            "reply_to_id": "121855"
+        }
+    ],
+    "date": "2006-06-14 02:43:00"
+}

@@ -1,0 +1,65 @@
+{
+    "forum_title": "Windows",
+    "id": "3944",
+    "title": "Ræsing",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=3944",
+    "posts": [
+        {
+            "user_name": "kvint",
+            "text": "sælir \n\n\n\nég er alltaf að spá í það hvernig sé hægt að skera af startup tímanum í win xp, ég er meðal annars búinn að disable-a öllum forritum sem vilja starta sér upp með windowsinu, ( í msconfig ) en ég er samt ekki sáttur, þannig að ég var að spá í það hvort þið vissuð um eitthvað meira sem gæti hjálpað mér í að ná þessum startup tíma niður \n\n\n\n\nkv kvint",
+            "date": "2004-04-28 13:25:00",
+            "post_id": "39840",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "heidaro",
+            "text": "Kíktu á Control Panel -> Administrative tools -> Services",
+            "date": "2004-04-28 13:32:00",
+            "post_id": "39841",
+            "reply_to_id": "39840"
+        },
+        {
+            "user_name": "fallen",
+            "text": "Ég er með alveg nett guide um þetta en get ekki attachað því útaf pdf endingin er bönnuð \n\n\n\n\nGetur sent mér einkapóst og ég læt þig vita með irc nick/msn og sent þér þetta þar.",
+            "date": "2004-04-28 13:35:00",
+            "post_id": "39843",
+            "reply_to_id": "39841"
+        },
+        {
+            "user_name": "ICM",
+            "text": "ekki nota msconfig í svona lagað  \n\n\nÞessi \nhttp://www.blackviper.com/WinXP/winxp.htm\n er með nokkuð góðar ráðleggingar varðandi hvaða services er \"öruggt\" að slökkva á.\n\n\n\nSvo er hérna forrit sem þú átt frekar að nota til að slökkva á venjulegum start-up forritum, hann er líka með ýmis önnur hentug forrit og ekkert af þeim sóðar út registryið... getur t.d. náð þér þarna í shell extension manager og gert disable á helling af hlutum í explorer.\n\nhttp://nirsoft.multiservers.com/utils/strun.html\n\n\n\n\nþegar þú ert búinn að þessu öllu get ég komið með fleiri verkefni handa þér",
+            "date": "2004-04-28 14:17:00",
+            "post_id": "39850",
+            "reply_to_id": "39843"
+        },
+        {
+            "user_name": "KinD^",
+            "text": "halli komdu með þenna link og slepptu bar endingunni og fólk getur adda því sjálft",
+            "date": "2004-04-28 20:53:00",
+            "post_id": "39886",
+            "reply_to_id": "39850"
+        },
+        {
+            "user_name": "MonkeyNinja",
+            "text": "Afhverju er áherslan hjá þér ekki frekar á að skera niður fjölda forrita sem þurfa ekki að vera í gangi því að á endanum hefur það áhrif á startup tímann hvort er",
+            "date": "2004-04-28 21:24:00",
+            "post_id": "39893",
+            "reply_to_id": "39886"
+        },
+        {
+            "user_name": "fallen",
+            "text": "Here\n it is",
+            "date": "2004-04-28 21:27:00",
+            "post_id": "39894",
+            "reply_to_id": "39893"
+        },
+        {
+            "user_name": "kvint",
+            "text": "takk fyrir félagar\n\n\n\nkv kvint",
+            "date": "2004-04-29 07:54:00",
+            "post_id": "39936",
+            "reply_to_id": "39894"
+        }
+    ],
+    "date": "2004-04-28 13:25:00"
+}

@@ -1,0 +1,65 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "58967",
+    "title": "PLEX Niðurhal",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=58967",
+    "posts": [
+        {
+            "user_name": "RobertSaedal",
+            "text": "Sæll\nVar að nota XBMC sem HTPC og var að skifta yfir til PLEX útaf það var hægt að horfa á þættina sína á tablet og síma og allt annað með wifi.\nEn ég er búinn að nota þeta setupí nokkra daga og var að taka eftir því ég er að dl um 10 GB á dag. Og eina sem ég er með í gangi er PLEX Media server.\nMitt setup er í aðal borðtölvuni er ég með Media server teingt beint í router.\nHTPC í Svónvarpið sem er teingt með wifi í Plex Theater Center.\n2 Tablet með Plex\nSvo er ég að Sharea Server með Bróðir minn og Hann er að sharea sinn.\nÉg er að spá..\n1. Er plex ekki inlent niðurhal?\n2. þarf ég að E-ð að figkta í stillingum á server eða Router?\nSá að það eru nokkrir á vaktini með Plex, hvernig er þetta að virka fyrir ykkur??",
+            "date": "2014-01-02 19:23:00",
+            "post_id": "545110",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Plex er beint streymi, enginn millipunktur, og er því hreint innlent streymi. Eina leiðin til að framkalla erlent niðurhal með því væri með því að vera með VPN þjónustu setta upp á vélinni sem hýsir Plex, sem væri tengdur við tengipunkt erlendis.",
+            "date": "2014-01-02 19:24:00",
+            "post_id": "545111",
+            "reply_to_id": "545110"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Býr bróðir þinn nokkuð erlendis?",
+            "date": "2014-01-02 21:00:00",
+            "post_id": "545118",
+            "reply_to_id": "545111"
+        },
+        {
+            "user_name": "tdog",
+            "text": "Þú ert samt með tvö tablet á heimilinu svo þú ert ekki aðeins með Plex Media Server í gangi...",
+            "date": "2014-01-02 21:33:00",
+            "post_id": "545124",
+            "reply_to_id": "545118"
+        },
+        {
+            "user_name": "RobertSaedal",
+            "text": "Nei, bara í næsta götu",
+            "date": "2014-01-02 22:03:00",
+            "post_id": "545136",
+            "reply_to_id": "545124"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Ertu hjá Vodafone? var ekki einhver að segja að mirrorarnir hjá Vodafone væru niðri?\nSvo ef þú notar DNS þjónustu fyrir netflix þá ertu auðvitað ekki að nýta þér caching hjá netfyrirtækinu.",
+            "date": "2014-01-02 22:39:00",
+            "post_id": "545144",
+            "reply_to_id": "545136"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Whut? Speglar og DNS koma Plex ekkert við, hvað þá í þessu samhengi.",
+            "date": "2014-01-03 00:51:00",
+            "post_id": "545164",
+            "reply_to_id": "545144"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Gæti verið tilviljun að hann hafi byrjað að nota Plex og svo séð spike í gagnamagni hjá sér þar sem allt annað niðurhal fór að tikka hraðar útaf mirrors og svo gert tenginguna að þetta væri Plex að kenna.",
+            "date": "2014-01-03 00:55:00",
+            "post_id": "545165",
+            "reply_to_id": "545164"
+        }
+    ],
+    "date": "2014-01-02 19:23:00"
+}

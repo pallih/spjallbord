@@ -1,0 +1,142 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "46871",
+    "title": "Apple TV með XBMC pælingar",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=46871",
+    "posts": [
+        {
+            "user_name": "bAZik",
+            "text": "Kvöldið,\nÉg er í smá pælingum varðandi uppsetninguna á media uppsetningunni minni. Núna er ég með þetta plain og óþægilegt; TV tengt í nettengda tölvu sem gerir allt. En mig langar að breyta þessu svo ég geti legið uppí rúmi og horft á efni í gúddí fíling.\nÞað sem ég var að spá er hvort Apple TV gæti verið tengt með cat6 kapli í splitter sem fer í tölvuna með efninu OG verið á wifi á sama tíma. Þannig ef ég myndi setja upp XBMC á apple tv þá myndi ég streama frá tölvunni og sækja metadata yfir wifi. Er þetta mögulegt?\nÞetta er pælingin: \nhttp://i.imgur.com/EYbGf.jpg\nEf einhver hefur reynslu af svona endilega gefið mér tips.",
+            "date": "2012-03-30 22:17:00",
+            "post_id": "432389",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Annaðhvort er kolvetnissveltið að gera mig ónýtann í hausnum eða þú ert að flækja þetta óþarflega.\nAfhverju ekki að láta XBMC á AppleTV-inu sækja metadatað í gegnum LANið? \nErtu ekki með neinn router á milli GR boxins og tölvunnar? Enginn eldveggur/NAT á milli?\nAfhverju viltu láta LANið stream-a efni og WiFi sækja metadata?\nLangeinfaldast að leggja bara Cat frá Apple TV yfir í svissinn/routerinn sem tölvan tengist í, og láta XBMC um að scrape-a efnið. Ef þú vilt vera flottur á því geturu notað 3rd party scrapers (sem ég mæli með fyrir allan peninginn ef þú ert anal með media library-ið þitt) líkt og Media Center Master og Ember Revised (ef því er enn viðhaldið, ekki viss um það).",
+            "date": "2012-03-30 22:36:00",
+            "post_id": "432398",
+            "reply_to_id": "432389"
+        },
+        {
+            "user_name": "bAZik",
+            "text": "Nei ég er ekki með router eða neitt milli GR boxins og tölvunnar.",
+            "date": "2012-03-30 22:42:00",
+            "post_id": "432399",
+            "reply_to_id": "432398"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Myndi kalla það djöfulli djarft, tala nú ekki um ef þú ert með pirated efni á vélinni eins og mig grunar.\nEn, hvað um það, tengja Apple TV og borðtölvuna við sviss, eða bæði bara beint í ethernetportið á boxinu ef þér er alveg sama um network security-ið hjá þér. Sé bara engan vegin tilganginn í því að láta eina tenginguna streyma efni og aðra sækja metadata?",
+            "date": "2012-03-30 22:50:00",
+            "post_id": "432401",
+            "reply_to_id": "432399"
+        },
+        {
+            "user_name": "bAZik",
+            "text": "Anti, ég sendi þér PM, veit ekki hvort þú tókst eftir því.\nTók annars tengið úr kassanum og setti í routerinn. Ætla að skoða mögulegar uppsetningar.",
+            "date": "2012-03-31 14:50:00",
+            "post_id": "432546",
+            "reply_to_id": "432401"
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "ok ok\n1. fá sér router\n2. fá sér nas.\nmjög ódýrt og þægilegra, mun þægilegr",
+            "date": "2012-03-31 15:15:00",
+            "post_id": "432548",
+            "reply_to_id": "432546"
+        },
+        {
+            "user_name": "bAZik",
+            "text": "Búinn að plögga í routerinn. Bölvaði Vodafone routerinn er no good, dregur virkilega úr hraðanum.\nJá, ég ætla að fá mér NAS. Byrja samt á þessu.",
+            "date": "2012-03-31 15:23:00",
+            "post_id": "432549",
+            "reply_to_id": "432548"
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "Ég ætla smíða \nalmennilegan \nnas í sumar, eins subtle og hægt er. \nReyna troða honum í dvd-spilara kassa sem er trúlega ónýtur.\nÞetta er bara miklu hljóðlegra og þægilegra en server, ég er búinn að vera með öfluga servera í gegnum tíðina en hættur því eftir ég kynntist NAS systemum\nþá sérstaklega freenas, þvílíkur munaður",
+            "date": "2012-03-31 15:38:00",
+            "post_id": "432552",
+            "reply_to_id": "432549"
+        },
+        {
+            "user_name": "bAZik",
+            "text": "Já þú mátt endilega koma með build log og eitthvað svoleiðis þegar þú ferð í þetta project.\nLangar drullu mikið í Drobo, verst hvað verðið á þeim er hátt.",
+            "date": "2012-03-31 15:42:00",
+            "post_id": "432555",
+            "reply_to_id": "432552"
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "Já, Drobo er ógeðslega töff en bara rosalega áberandi system.\nEf þú vilt fara í eitthvað svoleiðis geturu fundið rack servera á ebay og smíðað svona ef þú ert með góða aðstöðu\nLætur bara eitt usb port snúa inn í kassann og þar hefuru usb kubbinn með osinu",
+            "date": "2012-03-31 15:46:00",
+            "post_id": "432556",
+            "reply_to_id": "432555"
+        },
+        {
+            "user_name": "bAZik",
+            "text": "Væri mest til í eitthvað sem er með góða expansion möguleika og að ég geti hent þessu inní skáp eða skúffu og verið með tengt.",
+            "date": "2012-03-31 15:49:00",
+            "post_id": "432557",
+            "reply_to_id": "432556"
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "afhverju inn í skáp ? afhverju ekki bara hjá sjónvarpinu ?\nhttp://www.avforums.com/forums/home-ent ... yer-2.html\ntékkaðu á þessu projecti, sérstaklega neðstu myndunum þegar þetta er komið upp\nÞetta er reyndar HTPC, en basicly hægt að útfæra þetta sem NAS á sama hátt\nÉg ætla gera svipað, bara NAS og setja hjá heimabíóinu",
+            "date": "2012-03-31 15:51:00",
+            "post_id": "432558",
+            "reply_to_id": "432557"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Því minna inn í stofu, því betra - IMO.\nÉg vill akkúrat ekki sjá neitt nema TV og magnarann inn í stofu hjá mér, og er að vinna í því að færa HTPC og Console vélar inn í server herbergi og taka þetta fram með HDMI yfir Cat. Minni hiti, minna hljóð, minna snúruclutter, maður losnar við TV skenkinn etc.\nSá ekki PMið þitt fyrr en núna Bazik, en þú ert sýnist mér kominn með þau svör sem þurfti.",
+            "date": "2012-03-31 16:00:00",
+            "post_id": "432559",
+            "reply_to_id": "432558"
+        },
+        {
+            "user_name": "bAZik",
+            "text": "Ekki alveg það sem ég er með í huga. Er nokkurn veginn með þetta svona eins og er bara mínus þægindin að stjórna með fjarstýringu.\nBúinn að prófa HTPC stússið og ég nenni því engan veginn og í dag ætti góður media flakkara í geta spilað allt sem ég er með.",
+            "date": "2012-03-31 16:00:00",
+            "post_id": "432560",
+            "reply_to_id": "432559"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Hvaða router ertu annars með, sem er að draga hraðann svona mikið niður? Bewan boxið?",
+            "date": "2012-03-31 16:02:00",
+            "post_id": "432561",
+            "reply_to_id": "432560"
+        },
+        {
+            "user_name": "bAZik",
+            "text": "Já ég er með vodafone bewan drusluna. Mæliru með einhverjum?",
+            "date": "2012-03-31 16:04:00",
+            "post_id": "432562",
+            "reply_to_id": "432561"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "NBG420n gaurinn er talsvert betri, veit samt ekki hvort vodafone eru að dæla þeim e-ð út til viðskiptavina. Annars á þessi (\nhttp://start.is/product_info.php?cPath= ... ts_id=3167\n) að vera primo stuff.",
+            "date": "2012-03-31 16:07:00",
+            "post_id": "432563",
+            "reply_to_id": "432562"
+        },
+        {
+            "user_name": "bAZik",
+            "text": "Þannig ef ég væri með þennan þá myndi ég fá hraða líkari þeim sem ég fékk með eingöngu boxinu? Solid.\nGæti ég með þessari uppsetningu tengt bara apple tv við sjónvarpið via hdmi og streymt og náð í metadata yfir wifi? Það væri flott.",
+            "date": "2012-03-31 17:04:00",
+            "post_id": "432576",
+            "reply_to_id": "432563"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Wifi suckar.  Því miður þá er það oftast raunin.  Ef þú getur notað kapal,  gerðu það.  Ég myndi aldrei nenna að vera með wifi streaming setup.",
+            "date": "2012-03-31 18:31:00",
+            "post_id": "432603",
+            "reply_to_id": "432576"
+        }
+    ],
+    "date": "2012-03-30 22:17:00"
+}

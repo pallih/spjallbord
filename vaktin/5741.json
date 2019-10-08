@@ -1,0 +1,100 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "5741",
+    "title": "Asus móðurborð / Bootup sequence",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=5741",
+    "posts": [
+        {
+            "user_name": "hde",
+            "text": "Ég er með \n\nAsus P4R800-V deluxe Móðuborð\n\n2 x IDE DVD Drif\n\n2 x IDE HD\n\nog 1 SATA disk\n\n\n\nAfhverju get ég ekki valið SATA diskinn sem boot device? Hvernig get ég látið móðuborðið boota af SATA disknum? \n\n\n\nkv. Höski",
+            "date": "2004-09-25 21:33:00",
+            "post_id": "57934",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "axyne",
+            "text": "gætir þurft að velja boot from scsi.",
+            "date": "2004-09-25 22:31:00",
+            "post_id": "57936",
+            "reply_to_id": "57934"
+        },
+        {
+            "user_name": "hde",
+            "text": "Ég hef reynt það, það virkar ekki.",
+            "date": "2004-09-25 23:41:00",
+            "post_id": "57948",
+            "reply_to_id": "57936"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "boot from RAID? Gæti verið að SATA tengið sé á sérstökum RAID controller?",
+            "date": "2004-09-26 14:29:00",
+            "post_id": "57989",
+            "reply_to_id": "57948"
+        },
+        {
+            "user_name": "axyne",
+            "text": "ég er með MSI móðurborð með SATA RAID.\n\n\n\nef ég vil geta bootað upp á sata disk verð ég að fara inní Raid controlerinn með því að gera alt+w (minnir mig \n )\n\nOg velja þar einn af tveim diskum á hvorn ég ætla að boota upp með.\n\n\n\nég þarf ekkert að breyta í Bios, hef  bara Cdrom sem valkost 1. og búið.\n\n\n\nþegar ég installaði windows þá installaði ég því á sata diskinn. þurfti fyrst að ýta á eitthvað man ekki hvað og installa driver fyrir Sata controlerinn.\n\n\n\nAllavega eftir ég installaði því þá bootaði það bara af sata disknum. ekkert vandamál. \n\n\n\nVona að þetta hjálp þér eitthvað.",
+            "date": "2004-09-26 21:19:00",
+            "post_id": "58017",
+            "reply_to_id": "57989"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "RTFM ?",
+            "date": "2004-09-27 08:24:00",
+            "post_id": "58039",
+            "reply_to_id": "58017"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "RTFM= Read the fucking manual",
+            "date": "2004-09-27 13:38:00",
+            "post_id": "58071",
+            "reply_to_id": "58039"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "ég veit hvað það þýðir.. ég var að spurja hann hvort hann hefði lesið bæklinginn.",
+            "date": "2004-09-27 13:48:00",
+            "post_id": "58075",
+            "reply_to_id": "58071"
+        },
+        {
+            "user_name": "demigod",
+            "text": "þýðir RTFM ekki read the faq and manual ?",
+            "date": "2004-09-27 22:15:00",
+            "post_id": "58175",
+            "reply_to_id": "58075"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Nibb",
+            "date": "2004-09-27 23:06:00",
+            "post_id": "58182",
+            "reply_to_id": "58175"
+        },
+        {
+            "user_name": "Drulli",
+            "text": "Jú, það þýðir Read The FAQ and Manual.",
+            "date": "2004-09-28 16:52:00",
+            "post_id": "58252",
+            "reply_to_id": "58182"
+        },
+        {
+            "user_name": "axyne",
+            "text": "nei \n \nhttp://www.readthefuckingmanual.com/",
+            "date": "2004-09-28 16:58:00",
+            "post_id": "58254",
+            "reply_to_id": "58252"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "read the fuckin' manual. þetta er komið úr linux samfélaginu og er orðið hundgamalt.",
+            "date": "2004-09-28 17:01:00",
+            "post_id": "58255",
+            "reply_to_id": "58254"
+        }
+    ],
+    "date": "2004-09-25 21:33:00"
+}

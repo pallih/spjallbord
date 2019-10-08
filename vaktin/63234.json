@@ -1,0 +1,37 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "63234",
+    "title": "vandamál með harðdisk.. ónýt prentplata?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=63234",
+    "posts": [
+        {
+            "user_name": "DaRKSTaR",
+            "text": "fékk einn disk í hendurnar 1tb wd.\nþegar ég skelli honum í dokkina á vélinni hjá mér kemur hann inn en frís nánast strax.. ég get rétt séð hvað er inn á honum en svo bókstaflega frís hann\nprufaði að henda honum í dokkina og restartaði tölvunni.. checkdisk fraus bara.. var bara fast í 0%..\ner þetta ekki prentplatan eða hvað sem þetta lítla verk aftan á disknum heitir?\ntýpan:\nWD10EAVS-32D7B1 A00 AC\nvar ekki beint að detta í lukkupottinn þegar ég googlaði þetta eða leitaði á ebay",
+            "date": "2014-11-14 21:10:00",
+            "post_id": "580133",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "jonsig",
+            "text": "Væri réttast að hafa samband við WD .",
+            "date": "2014-11-15 14:01:00",
+            "post_id": "580197",
+            "reply_to_id": "580133"
+        },
+        {
+            "user_name": "methylman",
+            "text": "Ég gæti átt þetta ónotað eintak innsiglað skal kanna það á morgun",
+            "date": "2014-11-15 21:35:00",
+            "post_id": "580248",
+            "reply_to_id": "580197"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Þetta hljómar meira eins og mekanísk bilun, ef það væri eitthvað rof í prentplötunni þá myndi diskurinn ekkert koma fram, eða koma fram sem einhver \"unknown\" búnaður, með bull model númeri/stærð eða eitthvað slíkt.  \nEf þig vantar gögnin, þá myndi ég byrja á að reyna að mounta hann sem read only í linux og afrita með cp eða rsync, sleppa því eins og þú getur að browsa eitthvað inn á honum.",
+            "date": "2014-11-15 22:12:00",
+            "post_id": "580252",
+            "reply_to_id": "580248"
+        }
+    ],
+    "date": "2014-11-14 21:10:00"
+}

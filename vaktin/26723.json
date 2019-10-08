@@ -1,0 +1,16 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "26723",
+    "title": "Hamachi/Kane's Wrath krassar nettengingu á router.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=26723",
+    "posts": [
+        {
+            "user_name": "Danni V8",
+            "text": "Svo er mál með vexti að við félagarnir keyptum allir C&C3 Kane's Wrath til að getað spilað hann á netinu, aðeins til að komast að því að það er alveg ógerlegt að spila þennan leik á netinu. Þannig að við fengum okkur allir Hamachi og bjuggum til network til að spila sem lan (vei, 20 dollurum eytt per haus til að \"lana\" með Hamachi).\nAllavega, einn af okkur lendir í því að netið á routernum krassar þegar hann spilar leikinn. Eða satt að segja þá getum við alltaf spilað einn leik og síðan þarf þessi að restarta routernum því netið annað hvort dettur út hjá honum eða hann fær endalaust Connection Timed Out. Hann þarf ss. að restarta routernum ef hann ætlar að taka fleyri en einn leik.\nÆtla að punkta niður hver einkennin eru og hvað við erum búnir að prófa:\n*Netið dettur út eftir einn leik hjá einum af fimm.\n*Hann fær connection timed out á öll lobby og sömuleiðis fá allir connection timed out á hans lobby.\n*Þetta gerist bara þegar Hamachi er opið, við getum lanað heima hjá honum án vandræða.\n*Hann ásamt einum öðrum er hjá Vodafone og báðir með Zyxel router, gerist samt bara hjá öðrum þeirra.\n*Hann er á Windows XP og einn annar líka, hinir eru á Vista eða 7.\n*Hann er búinn að prófa að opna leikinn beint úr Steam möppunni en ekki í gegnum Steam og sleppa þannig við overlay.\n*Hamachi getur verið í gangi í marga klukkutíma en netið dettur ekki út fyrr en hann fer í Kane's Wrath.\n*Búnir að opna öll port fyrir Hamachi og Kane's Wrath.\n*Búnir að kveikja á UPnP í routernum og tölvunni.\n*Hann er sá eini sem er tengdur í routerinn svo það er enginn önnur tölva að trufla.\n*Erum að nota Hamachi 2.0.1.66.\nOkkur dettur bara ekkert meir í hug. Næst ætla ég þó að fara með fartölvuna mína til hans og setja upp Hamachi og Kane's Wrath og prófa þar. Útiloka þannig hvort þetta er vandamál með routerinn hans eða tölvuna.\nEinhverjar fleyri hugmyndir? Erum alveg lost hérna",
+            "date": "2009-12-10 13:03:00",
+            "post_id": "232608",
+            "reply_to_id": false
+        }
+    ],
+    "date": "2009-12-10 13:03:00"
+}

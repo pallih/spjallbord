@@ -1,0 +1,65 @@
+{
+    "forum_title": "Símar, fartölvur, myndavélar og önnur farandstæki",
+    "id": "71242",
+    "title": "Vesen með Kodi á Apple TV 4",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=26&t=71242",
+    "posts": [
+        {
+            "user_name": "dedd10",
+            "text": "Var að prufa setja upp Kodi á Apple TV 4 hjá mér núna um helgina, fór eftir þessum leiðbeiningum: \nhttps://www.youtube.com/watch?v=KFFXtGv4azw\nVirtist allt virka fínt en svo þegar ég kveikti daginn eftir og ætlaði að opna Kodi, þá ræsti það sig og ég sá \"homescreen\" í svona 1 sec og þá crashaði það. Þetta gerðist bara mjög oft en svo allt í einu virkaði þetta, en svo aftur í dag ætlaði ég að prufa að ræsa Kodi, en nei þá bara crashar það alltaf eftir 1sec og nuna tókst mér ekki að fá það til að virka.\nEr einhver sem hefur lent í svipuðu og veit hvað hægt er að gera?",
+            "date": "2016-11-13 23:06:00",
+            "post_id": "636706",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "dedd10",
+            "text": "Einhver önnur leið til að setja upp kodi eða einhverjar stillingar sem þarf kannski að breyta?",
+            "date": "2016-11-14 17:49:00",
+            "post_id": "636740",
+            "reply_to_id": "636706"
+        },
+        {
+            "user_name": "dori",
+            "text": "https://itunes.apple.com/us/app/mrmc/id1059536415?mt=8\n$7 er bókað mál vesensins virði.",
+            "date": "2016-11-14 23:32:00",
+            "post_id": "636785",
+            "reply_to_id": "636740"
+        },
+        {
+            "user_name": "dedd10",
+            "text": "Vissi ekki af þessu! Er hægt að nota kodi addons og svoleiðis án þess ad það sé eitthvað öðruvísi en í kodi ?",
+            "date": "2016-11-14 23:36:00",
+            "post_id": "636786",
+            "reply_to_id": "636785"
+        },
+        {
+            "user_name": "kizi86",
+            "text": "Þetta stendur á foruminu:\n1. No user installed addons are supported, python or otherwise.\n2. No, they really are not supported.\n3. They are not coming back\n4. Read from 1. again\nhvað er það í þessu forriti sem réttlætir samt þennan verðmiða? miðað við að sé byggt á open source fríum hugbúnaði?",
+            "date": "2016-11-15 00:06:00",
+            "post_id": "636788",
+            "reply_to_id": "636786"
+        },
+        {
+            "user_name": "dori",
+            "text": "Vinnan við að strippa Kodi niður til að uppfylla skilyrðin sem Apple setur til að komast inní þetta ecosystem (t.d. þetta með að engin plugin virka), viðhalda forkinum af því og pakka þessu fyrir tvOS geri ég ráð fyrir. Ég er alveg sammála því að manni finnst það leiðinlega dýrt en þetta er samt ekki rosalega mikill peningur og þar sem það eru væntanlega ekki margir sem vilja frekar nota Kodi heldur en Plex (eða aðrar meira plug and play media center lausnir) þá er þetta örugglega bara lágmarkið til að þetta \"borgi sig\".\nS.s. ekki hobbí hjá einhverjum heldur smá business. Sem er alveg fínt samt því að það þýðir að það eru meiri líkur á að þetta sé uppfært.\nEn ég veit ekki, ég hef ekki sett þetta upp af því að mér finnst þetta smá steep verðmiði. Ég fílaði líka eiginlega betur að nota Kodi á Raspberry Pi og er að hugsa um að losa mig við Apple TVið mitt.",
+            "date": "2016-11-15 12:14:00",
+            "post_id": "636810",
+            "reply_to_id": "636788"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Held að það sé alveg þess virði að fjárfesta bara í Android TV boxi.  Sé ekki hvað Apple TV er að gera fyrir mann umfram t.d NVidia Shield með Android TV.  Installa svo SPMC (sem er Android optimized fork af KODI) og þá ertu kominn með KODI sem svínvirkar með öllum þeim plugins sem þig lystir í.  Innbyggt Google Cast gerir allt sem AirPlay getur gert.  Native Netflix client.  Native Spotify client með Spotify Connect möguleika.  Full fledged Plex client.  The list goes on.  Myndi alla daga velja Android TV box umfram Apple TV.",
+            "date": "2016-11-15 14:34:00",
+            "post_id": "636821",
+            "reply_to_id": "636810"
+        },
+        {
+            "user_name": "rattlehead",
+            "text": "Ætlaði einmitt að not Apple tv 4 með kodi. Enn eftir að lesa til á netinu, gafst ég upp. Er bara með bæði. Fékk reyndar ATV4 með 365 pakkanum, nota með 365 appinu og fl. android fer undir kodi og iptv.",
+            "date": "2016-11-16 08:59:00",
+            "post_id": "636877",
+            "reply_to_id": "636821"
+        }
+    ],
+    "date": "2016-11-13 23:06:00"
+}

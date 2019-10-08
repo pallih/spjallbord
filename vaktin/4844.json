@@ -1,0 +1,65 @@
+{
+    "forum_title": "Windows",
+    "id": "4844",
+    "title": "ég get keyrt win 95 :D",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=4844",
+    "posts": [
+        {
+            "user_name": "gnarr",
+            "text": "http://download.microsoft.com/download/win95upg/utility1/1/w95/EN-US/ww1247.exe",
+            "date": "2004-07-21 15:33:00",
+            "post_id": "49154",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gnarr",
+            "text": "How Windows 95 System Check Works\n\n\nWindows 95 System Check scans your computer for the following information: \n\nProcessor--It checks your computer's CPU to determine if it meets the minimum requirement for Windows 95. It also checks for older versions of the 80386 processor that are incompatible with Windows 95. \nMemory (RAM) --It checks the amount of physical memory (RAM) in your computer to determine if it meets the minimum requirement for Windows 95. \nDisk Space--It checks the amount of free disk space on the hard disk that contains your existing operating system to determine if it meets the minimum (and recommended) requirements for Windows 95. It also checks for swap file and boot-drive disk space on hard disks that use disk compression. \nPrograms--It scans the top three folder levels of all the hard disks in your computer for Windows-based programs with significant known compatibility issues with Windows 95. Note that for most of these programs, upgrades that are fully compatible with Windows 95 are now or soon will be available. \nNOTE: If Windows 95 System Check does not detect any programs on your computer with known compatibility issues, the Your Programs page of Windows 95 System Check is skipped. \nWindows 95 System Check does not perform any of the following tests: \nIt does not perform diagnostic tests for hard disk problems (such as problems that might be found by hard disk tools such as Microsoft ScanDisk). \nIt does not detect peripheral hardware devices connected to your computer (such as modems and fax/modems). \nIt does not perform an analysis or detection of installed network resources, network protocols, or network adapters. \nIt does not check for computer viruses. \nIt does not check program compatibility on shared network resources. \nIt does not distinguish between 386/SX and 386/DX processors. A 386/DX or better processor is the minimum requirement for Windows 95 to ensure good performance. If your computer has a 386/SX processor, you can run Windows 95, but performance may be slower. \n\n\nThe Windows 95 Setup program provides warnings for most of the problems associated with upgrading to Windows 95. In fact, Windows 95 Setup checks the first three items in the above list.",
+            "date": "2004-07-21 15:33:00",
+            "post_id": "49155",
+            "reply_to_id": "49154"
+        },
+        {
+            "user_name": "axyne",
+            "text": "leiðist þér ?",
+            "date": "2004-07-21 15:35:00",
+            "post_id": "49156",
+            "reply_to_id": "49155"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "já...",
+            "date": "2004-07-21 15:35:00",
+            "post_id": "49157",
+            "reply_to_id": "49156"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "System requirements for installing Windows 95: \n\nPersonal computer with a 386DX or higher processor (486 recommended)\n4 megabytes (MB) of memory (8 MB recommended)\nTypical hard disk space required to upgrade to Windows 95: 35-40 MB The actual requirement varies depending on the features you choose to install.\nTypical hard disk space required to install Windows 95 on a clean system: 50-55 MB The actual requirement varies depending on the features you choose to install.\nOne 3.5-inch high-density floppy disk drive\nVGA or higher resolution (256-color SVGA recommended)\nTo use Microsoft Exchange and The Microsoft Network: \n8 MB of memory\n20 MB of additional hard disk space\nModem (required for using The Microsoft Network) \nOptional components: \nMicrosoft Mouse or compatible pointing device\nModem or fax/modem\nAudio card and speakers for sound \nInstalling Windows 95 requires more hard disk space than running Windows 95 because the Setup program creates temporary files on the hard disk during the installation process. These temporary files are removed when Setup is finished. The following tables list the amount of hard disk space required for installing and running Windows 95. These numbers may vary depending on the hardware installed in your computer and the options you choose during the installation process. Note that in the following tables the Custom option assumes that all options are selected; the other options use the default selections.",
+            "date": "2004-07-21 15:39:00",
+            "post_id": "49158",
+            "reply_to_id": "49157"
+        },
+        {
+            "user_name": "KinD^",
+            "text": "haha góður \n maður ætti kanski eða smella upp win95 heima",
+            "date": "2004-07-22 13:52:00",
+            "post_id": "49252",
+            "reply_to_id": "49158"
+        },
+        {
+            "user_name": "Cicero",
+            "text": "win95 er stálið í dag",
+            "date": "2004-07-23 23:25:00",
+            "post_id": "49337",
+            "reply_to_id": "49252"
+        },
+        {
+            "user_name": "Steini",
+            "text": "Hversu töff er þetta",
+            "date": "2004-07-23 23:58:00",
+            "post_id": "49340",
+            "reply_to_id": "49337"
+        }
+    ],
+    "date": "2004-07-21 15:33:00"
+}

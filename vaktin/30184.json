@@ -1,0 +1,65 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "30184",
+    "title": "vantar smá hjálp",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=30184",
+    "posts": [
+        {
+            "user_name": "zolten",
+            "text": "góða kvöldið var að spá í að kaupa mér nyjan harða disk sata. málið er það að ég er með 2 IDE núna i tölvunni er hægt að kaupa sér sata og tengja hann með hinum er með IDE og SATA tengi i móðurborðinu mínu?",
+            "date": "2010-05-15 01:02:00",
+            "post_id": "261857",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "nonesenze",
+            "text": "væri flott að sjá hvaða móðurborð þú er með, en vissulega ættirðu að geta runnað sata disk fyrst þú ert með sata tengi og ættir að hafa þann disk sem c: (system, boot disk)",
+            "date": "2010-05-15 01:15:00",
+            "post_id": "261858",
+            "reply_to_id": "261857"
+        },
+        {
+            "user_name": "zolten",
+            "text": "eina sem eg veit er gigabyte s-series :l",
+            "date": "2010-05-15 01:27:00",
+            "post_id": "261861",
+            "reply_to_id": "261858"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "downloadaðu cpu-z þar sérðu móðurborð tegund.",
+            "date": "2010-05-15 01:50:00",
+            "post_id": "261867",
+            "reply_to_id": "261861"
+        },
+        {
+            "user_name": "zedro",
+            "text": "",
+            "date": "2010-05-15 10:02:00",
+            "post_id": "261873",
+            "reply_to_id": "261867"
+        },
+        {
+            "user_name": "zolten",
+            "text": "jæja buin ad kaupa mer diskinn og tengja hann windowsid installadi honum en ég virðist samt ekki finna hann veit einhver hvad gæti verið að?",
+            "date": "2010-05-15 17:50:00",
+            "post_id": "261904",
+            "reply_to_id": "261873"
+        },
+        {
+            "user_name": "zedro",
+            "text": "Start -> My Computer\nRight Click -> Manage\nDisk Management -> Finnur diskinn, ætti að vera Unallocated Space eða eitthvað svipað.\nRight Click -> Create partition\nEinhvernveginn svona.\nLagaða svo titilinn hjá þér í eitthvað meira lýsandi.",
+            "date": "2010-05-15 17:55:00",
+            "post_id": "261905",
+            "reply_to_id": "261904"
+        },
+        {
+            "user_name": "BjarkiB",
+            "text": "Þetta gerðist líka þegar ég tengi nýjan 1tb disk við tölvuna.\n(Allavega fyrir Windows 7) Fór í control panel klikkaði á View by: uppí hægra horninu og breytti í Large icons. Fór svo í Administrative Tools, svo Computer Management,  svo Storage> Disk Management og þá ætti nýju diskurinn að vera með svarti línu fyrir ofan sem meinar að hann sé \"Unallocated\". Minnir að ég hafi þá hægri klikkað á diskinn þar og breytt honum í Online.",
+            "date": "2010-05-15 18:09:00",
+            "post_id": "261908",
+            "reply_to_id": "261905"
+        }
+    ],
+    "date": "2010-05-15 01:02:00"
+}

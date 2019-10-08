@@ -1,0 +1,51 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "23583",
+    "title": "Smá hjálp",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=23583",
+    "posts": [
+        {
+            "user_name": "krissi24",
+            "text": "Hvernig breytir maður þannig að tegundin á tildæmis mynd .jpg sjáist ekki. Ítölvunni minni er þetta svona við hverja skrá. Eins og fyrir aftan nafn á öllum myndum stendur .jpg og ég vil geta falið þetta. Hvernig geri ég það",
+            "date": "2009-06-18 22:39:00",
+            "post_id": "209670",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Starman",
+            "text": "http://www.wikihow.com/Disable-Hidden-File-Extensions-in-Windows-XP",
+            "date": "2009-06-18 22:57:00",
+            "post_id": "209671",
+            "reply_to_id": "209670"
+        },
+        {
+            "user_name": "mind",
+            "text": "Fer eftir stýrikerfi.\nEf windows XP þá t.d. Explorer(Windows takki + E)\nTools > Folder Options > View > [X] Hide extensions for known file types",
+            "date": "2009-06-18 22:57:00",
+            "post_id": "209672",
+            "reply_to_id": "209671"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "takk allir",
+            "date": "2009-06-18 23:35:00",
+            "post_id": "209673",
+            "reply_to_id": "209672"
+        },
+        {
+            "user_name": "dori",
+            "text": "Þú vilt þetta kannski ekki. Hugsaðu aðeins um það allavega fyrst. Þetta opnar nefnilega fyrir það að einhver óprúttinn aðili búi til forrit og kalli það flottmynd.jpg.exe, láti iconið vera svipað og myndaicon í Windows og sendir þér það svo. Þú sérð endinguna .jpg og heldur að allt sé í lagi og svo er tölvan þín allt í einu komin með vírusa.\nHugsaðu allavega málið, mér finnst það að fela endingar hræðilegur fítus og alveg fáránlegt að hann skuli vera default í XP.",
+            "date": "2009-06-18 23:41:00",
+            "post_id": "209674",
+            "reply_to_id": "209673"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Þá færðu þér vírusvörn sem skannar incoming skrár (t.d. Avast) og þarft ekkert að hafa áhyggjur af þessu.\nÉg hef hinsvegar aldrei skilið fólk sem að felur skráarendingar af fúsum og frjálsum vilja. Alltaf að það fyrsta sem ég geri eftir að ég set upp windows er að birta þær.",
+            "date": "2009-06-19 00:50:00",
+            "post_id": "209676",
+            "reply_to_id": "209674"
+        }
+    ],
+    "date": "2009-06-18 22:39:00"
+}

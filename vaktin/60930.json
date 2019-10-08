@@ -1,0 +1,107 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "60930",
+    "title": "Nettenglar í veggjum virka ekki",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=60930",
+    "posts": [
+        {
+            "user_name": "yamms",
+            "text": "Sælir...\nÉg er að reyna að fá virkni í net tenglana í veggjunum hjá mér. Það eru semsagt tengi herbergjunum og svo 1 í stofunni. Ég tengi snúru frá router í vegginn í stofunni og tengi svo aftur snúru inní herbergi hjá mér úr veggnum og í tölvu og býst við að það virki og að netið synci í gegn en það er stöðugt \"identifying\" á því. Er eitthvað annað sem þarf að gera sem ég er ekki að ná að græja?\nLeiðin er semsagt þessi. \nLjósleiðarabox -> router -> veggtengill í stofunni -> veggtengill í herbergi -> tölva.\nEruði með einhver tips?\nkv",
+            "date": "2014-05-17 02:26:00",
+            "post_id": "562296",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "roadwarrior",
+            "text": "Er einhver kapall á milli?\nStundum er settur tengill til að fylla í gatið en enginn kapall",
+            "date": "2014-05-17 02:52:00",
+            "post_id": "562299",
+            "reply_to_id": "562296"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Þú verður að vita hvert þessi kapall liggur.\nEf það er fast í identifying hljómar þetta eins og það sé switch eða eitthvað tæki sem tölvan er að tengjast - ekki routerinn.",
+            "date": "2014-05-17 05:25:00",
+            "post_id": "562301",
+            "reply_to_id": "562299"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Mismunandi útfærslur á þessu en liggur ekki leið þessara kapla almennt á sameiginlegan stað?\nEf þú ert t.d. í Brunnahverfinu í Grafarholti þá fer þetta allt í rafmagnsboxið í bílskúrnum og þar setur fólk \nsviss\n.",
+            "date": "2014-05-17 07:50:00",
+            "post_id": "562304",
+            "reply_to_id": "562301"
+        },
+        {
+            "user_name": "Squinchy",
+            "text": "Mjög líklegt að þetta sé tengt sem síma tenglar, er tengibox í þvottarhúsinu eða einvherstaðar annarstaðar fyrir sjónvarp og síma?",
+            "date": "2014-05-17 10:12:00",
+            "post_id": "562305",
+            "reply_to_id": "562304"
+        },
+        {
+            "user_name": "Skari",
+            "text": "Veit ekki hvort þetta hjálpar þér eitthvað en ef þú færð identifying þá virðistu vera að ná einhverjum samskiptum. \nEinnig, hversu nýlegt er þetta hús ? í gömlu íbúðinni hjá mér þá var netlagnirnar tengdar vitlaust, hver einasti tengill var raðtengdur (semsagt frá einum tengli til annars) og það virkar ekki í netkerfum. \nÞurfti þá að opna tengilinn og aftengja kapalinn sem færi í næsta tengil hjá mér svo merkið færi ekki þangað. \nEf það er svipað hjá þér þá þarftu að opna tengilinn í stofunni hjá þér, hafa einungis kapalinn tengdan sem fer í herbergið þitt og aftengja þá kapla sem fara frá þínu herbergi í annan tengil (ef þetta er þannig uppsett hjá þér )",
+            "date": "2014-05-17 10:31:00",
+            "post_id": "562306",
+            "reply_to_id": "562305"
+        },
+        {
+            "user_name": "FuriousJoe",
+            "text": "Ég er með box inní þvottahúsi sem er svipað og rafmagnstaflan, þar lét ég mann tengja inn öll herbergin fyrir mig (ljósleiðaraboxið er tengt inn í það) svo tek ég sjónvarpið í gegnum tengil í stofunni, og routerinn inní tölvuherbergi og símann í annað. Hægt að setja þetta upp eftri smekk. (Allar snúrur voru til staðar, þurfti bara að leiða þetta saman)",
+            "date": "2014-05-17 11:57:00",
+            "post_id": "562309",
+            "reply_to_id": "562306"
+        },
+        {
+            "user_name": "yamms",
+            "text": "Takk fyrir svörin allir \nÞað stemmir það sem þið voruð að tala um. Fann töflu við hliðiná rafmagnstöflunni sem er með öllum netköplunum og þeir eru allir í hrúgu þarna og þarf greinilega að yfirfara tengingarnar. \nÞá er næsta mál að græja það og þá ætti þetta að smella \nalltaf hægt að stóla á ykkur!\nkv.",
+            "date": "2014-05-17 14:22:00",
+            "post_id": "562324",
+            "reply_to_id": "562309"
+        },
+        {
+            "user_name": "roadwarrior",
+            "text": "Fá þér einn svona:\nhttp://www.ebay.com/itm/Telephone-RJ11- ... 338960d3be\nÞá getur þú fundið út hver hver kapall liggur ef þeir eru ekki merktir\nSvo er næsta verkefni að setja upp switch í smápennutöflunni og þá ættir þú að vera góður",
+            "date": "2014-05-17 16:37:00",
+            "post_id": "562332",
+            "reply_to_id": "562324"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Úff held það séu margar leiðir hraðvirkari en þetta með tólunum við hendi, þetta myndi taka ~tvær vikur að komast í hendurnar á manni ekki satt?\nEf OP á router og fartölvu er þetta ekki beint lengi gert með því.",
+            "date": "2014-05-17 18:50:00",
+            "post_id": "562341",
+            "reply_to_id": "562332"
+        },
+        {
+            "user_name": "roadwarrior",
+            "text": "Reyndar setti ég inn þennan link til viðmiðunar, þessi græja er til hér á landi. Td í Íhlutum og fl stöðum. Held jafnvel að þetta fáist í Byko en ég þori samt ekki að ábyrgjast það  \n \nReyndar miklu dýrara en þarna.  \n \nFékk mér svona græju og hún hefur bjargað beikoninu á mér nokkrum sinnum \nVæri jafnvel hægt að gera svipað með 9v batterí. \nTengja td + og - við blá/bláa-hvíta parið og mæla svo með volt mæli í tengli\nEða einfaldlega að ganga frá öllum kapalendum í töflunni og setja í samband við switchinn einn í einu og hlaupa á milli herbergja með tölvunna og finna þannig út hvaða kapall er hver. \nMæli samt með að merkja hvern kapal fyrir sig í töflunni hvert hann liggur, sparar vesen í framtíðnni",
+            "date": "2014-05-18 02:12:00",
+            "post_id": "562355",
+            "reply_to_id": "562341"
+        },
+        {
+            "user_name": "roadwarrior",
+            "text": "Langar líka svo að bæta við að allir sem eiga Cat pressu töng ættu að fá sér svona græju. Þarf ekki nema að 1 pinni gangi ekki niður til að maður lendi í vandræðum. Ég prufa allt sem ég pressa með með svona prufutæki. Svoooo þægilegt",
+            "date": "2014-05-18 02:19:00",
+            "post_id": "562356",
+            "reply_to_id": "562355"
+        },
+        {
+            "user_name": "Farcry",
+            "text": "http://www.kisildalur.is/?p=2&id=1953\n 1500kr",
+            "date": "2014-05-18 11:25:00",
+            "post_id": "562373",
+            "reply_to_id": "562356"
+        },
+        {
+            "user_name": "tdog",
+            "text": "Ég mæli með litlu sóntæki, vælu og sprota ef að menn ætla að fara í símalínusans.",
+            "date": "2014-05-18 12:02:00",
+            "post_id": "562375",
+            "reply_to_id": "562373"
+        }
+    ],
+    "date": "2014-05-17 02:26:00"
+}

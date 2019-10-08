@@ -1,0 +1,37 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "11678",
+    "title": "SLI multi-Gpu rendering has been disapled",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=11678",
+    "posts": [
+        {
+            "user_name": "Frussi",
+            "text": "Fyrir um það bil mánuði fór þetta message að koma upp hjá vini mínum:\n\n\n\nSLI multi-Gpu rendering has been disapled\n\n\n\nSLI multi-Gpu rendering has been changed to independent Gpu rendering because one of your SLI cards has been removed.\n\nSLI multi-Gpu Rendering requires two or more graphics cards.\n\n\n\nÁ sama tíma tók tölvan hans að slökkva á sér ef hann var að keyra leiki og annað slíkt.  \n\n\n\nSpurningin mín er semsagt hvort þetta tvennt tengist og er eitthvað sem hægt er að gera?",
+            "date": "2006-08-31 16:28:00",
+            "post_id": "126644",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "Er hann nokkuð að nota 91.31 driveranna? Ég er með þá og fæ alltaf þetta SLI-Disable message þegar að Windows er að starta sér. Veit hinsvegar ekki hvort að það tengist hinu málinu.",
+            "date": "2006-08-31 16:32:00",
+            "post_id": "126646",
+            "reply_to_id": "126644"
+        },
+        {
+            "user_name": "hahallur",
+            "text": "Já tölvan hjá mér fór líka í ruggl þegar ég setti inn 91.31 m.a. þetta sli ruggl skilaboð.",
+            "date": "2006-08-31 16:34:00",
+            "post_id": "126647",
+            "reply_to_id": "126646"
+        },
+        {
+            "user_name": "corflame",
+            "text": "Amm, virðist vera \"feature\" í þeim driverum, alveg hreint óþolandi að logga sig á vélina og fá þetta upp í hvert skipti",
+            "date": "2006-08-31 17:24:00",
+            "post_id": "126655",
+            "reply_to_id": "126647"
+        }
+    ],
+    "date": "2006-08-31 16:28:00"
+}

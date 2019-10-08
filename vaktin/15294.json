@@ -1,0 +1,86 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "15294",
+    "title": "Ótrúlega óstöðugur upload hraði gegnum torrent.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=15294",
+    "posts": [
+        {
+            "user_name": "gunnargolf",
+            "text": "Ég á við vandamál að striíða varðandi tenginguna mína. \n\n\n\nVandamálið mitt felst í því að stundum er erlendur upload hraði nokkuð góður, um 80kb/s, en mun oftar er hraðinn alveg skelfilegur, um 10kb/s. Sama á við um niðurhalshraðann. Sjaldan góður, oft slæmur.\n\n\n\nÞetta er þannig að stöku sinnum er ég með fínann upload og download hraða, en stundum droppar allur hraði á torrent um tæp 90%. \n\n\n\nÞetta gerist oft eftir að ég hef haft góðann hraða í c.a. 2 tíma. Svo er skelfilegur hraði í marga klukkutíma, jafnvel sólarhringa, og allt í einu hækkar hann aftur, og er góður í kannski tvo tíma.\n\n\n\nHvað gæti orsakað þennan óstöðuga hraða sem ég er að fá. Allar ábendingar vel þegnar.\n\n\n\nPs. Ég er með 12mb tengingu frá hive: \nhttp://hive.is/HiveInternet/HiveADSL/ta ... fault.aspx",
+            "date": "2007-08-22 22:21:00",
+            "post_id": "151826",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Yank",
+            "text": "Eru ekki bara tengingar frá Hive frekar slakar",
+            "date": "2007-08-22 22:52:00",
+            "post_id": "151829",
+            "reply_to_id": "151826"
+        },
+        {
+            "user_name": "gunnargolf",
+            "text": "Ég er farinn að trúa því. Þetta var samt svo ágætt fyrst þegar ég fékk tenginguna. \n\n\n\nEr enginn með einhver ráð",
+            "date": "2007-08-22 23:17:00",
+            "post_id": "151831",
+            "reply_to_id": "151829"
+        },
+        {
+            "user_name": "Butcer",
+            "text": "Ertu búin nað patcha burt max connection í windows xp? Lagar þónokkuð mikið því service pack limitar netið á 10 half opne connections per sec\n\n\n\nhttp://www.lvllord.de/?url=tools\n patch hér, sumar vírusvarnir væla að þetta sé vírus en það er kjaftæði \n\n\n\nNátturlega þarftu að vera active og encryption gerir þónokkuð gagn.\n\nHringdu niðri í hive og látu þá taka watchdog af, \n\n\n\nPrufaði eini sinni að auka packet stærðina í netkorts driverinum og það gerði smágagn en jók crashes á rusl routerinum sem hive lét mig fá(hef grillað 3 routera)",
+            "date": "2007-08-23 13:05:00",
+            "post_id": "151840",
+            "reply_to_id": "151831"
+        },
+        {
+            "user_name": "gunnargolf",
+            "text": "Ég er bæði active og með encryption. Ég er einnig með 50 max half open connections. Hvað er þetta wathdog sem þú ert að tala um?",
+            "date": "2007-08-23 16:34:00",
+            "post_id": "151847",
+            "reply_to_id": "151840"
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Án þess að ég viti það en getur ekki bara verið að Hive sé að throttla hraðan hjá þér á mismunandi tímum? Gerist þetta alltaf á sama tíma eða tilviljanakennt?",
+            "date": "2007-08-24 00:09:00",
+            "post_id": "151856",
+            "reply_to_id": "151847"
+        },
+        {
+            "user_name": "gunnargolf",
+            "text": "Mér finnst ég sjaldnar vera með góðann hraða á álagstímum, t.d. kl.8 á kvöldin og á vinnutíma. Ég veit það samt ekki. Það er nú samt frekar gróft að taka 90% af hraðanum.",
+            "date": "2007-08-24 06:55:00",
+            "post_id": "151860",
+            "reply_to_id": "151856"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Fara eitthvað annað...t.d. Símann.",
+            "date": "2007-08-24 08:44:00",
+            "post_id": "151863",
+            "reply_to_id": "151860"
+        },
+        {
+            "user_name": "Stebet",
+            "text": "Verst að þetta gerir ekki rassgat fyrir torrenta eða yfirhöfuð því flestöll Torrent forrit (uTorrent, Azureus og official BiTTorrent forritið allavega) taka einmitt mið af þessari takmörkun (sem er líka í Vista).\n\n\n\nMæli frekar með að viðkomandi færi sig yfir til Símans.",
+            "date": "2007-08-24 16:57:00",
+            "post_id": "151878",
+            "reply_to_id": "151863"
+        },
+        {
+            "user_name": "gunnargolf",
+            "text": "Já, kannski færi ég mig bara yfir til símans. Reyndar frekar óþægilegt vegna þess að ég er með tvö @hive netföngu í gangi, en er einhver leið til að beina pósti sem kemur á gamlt póstfang yfir á nýtt?",
+            "date": "2007-08-24 17:49:00",
+            "post_id": "151879",
+            "reply_to_id": "151878"
+        },
+        {
+            "user_name": "Amything",
+            "text": "Eitt það gáfulegasta sem ég hef gert um ævina var að hætta nota internetþjónustunetföng og nota gmail eingöngu. Með þetta opið í einum tab, þarf ekki að burðast með sér forrit, þarf aldrei að spá í backup þegar maður formatar og netfang eflaust til lífstíðar (þó hver veit hvað gerist).",
+            "date": "2007-08-24 19:43:00",
+            "post_id": "151882",
+            "reply_to_id": "151879"
+        }
+    ],
+    "date": "2007-08-22 22:21:00"
+}

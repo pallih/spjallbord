@@ -1,0 +1,86 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "33609",
+    "title": "pæling með crossfire",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=33609",
+    "posts": [
+        {
+            "user_name": "gummih",
+            "text": "Sælir vaktarar.\nÉg var að spá hvort einhver hafi einhverja reynslu á crossfire þegar móðurborðið er með eitt 16x 2.0 slot og eitt 4x 2.0 slot?\nVirkar það eithvað? Eða er það ekki þess virði að setja annað skjákort á 4x slot?\nEf ekki þá sleppi ég bara crossfire eða fæ mér móðurborð með tvö 8x 2.0 slot eða bara hybrid crossfire.\nHvað af þessu ætti ég að velja í budget build?\nFyrirfram þakkir -Gummi",
+            "date": "2010-11-06 13:49:00",
+            "post_id": "293665",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "mercury",
+            "text": "held að þú setjir ekkert skjákort í x4 slot. 2stk 16x eina vitið.",
+            "date": "2010-11-06 15:11:00",
+            "post_id": "293679",
+            "reply_to_id": "293665"
+        },
+        {
+            "user_name": "gissur1",
+            "text": "4x PCI-E er minni en 16x svo kortið myndi aldrei passa í hana.",
+            "date": "2010-11-06 15:13:00",
+            "post_id": "293680",
+            "reply_to_id": "293679"
+        },
+        {
+            "user_name": "gummih",
+            "text": "http://kisildalur.is/?p=2&id=1300\nþetta móðurborð er með 16x og 4x og þau eru jafn stór..",
+            "date": "2010-11-06 15:48:00",
+            "post_id": "293689",
+            "reply_to_id": "293680"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Það \"virkar\" að tengja crossfire með 1x 16x og aðra 4x en bandvíddin á þessari 4x er orðin hamlandi svo ég mæli engan veginn með því.  Myndir líklega ekki sjá mikin mun milli þess að hafa 1x og 2x kort í þess háttar setupi.",
+            "date": "2010-11-06 17:17:00",
+            "post_id": "293704",
+            "reply_to_id": "293689"
+        },
+        {
+            "user_name": "gummih",
+            "text": "en virkar hybrid crossfire á þessu móðurborði \nhttp://tl.is/vara/20058\n með 6850?",
+            "date": "2010-11-06 17:34:00",
+            "post_id": "293706",
+            "reply_to_id": "293704"
+        },
+        {
+            "user_name": "gummih",
+            "text": "B.U.M.P.",
+            "date": "2010-11-07 19:30:00",
+            "post_id": "293960",
+            "reply_to_id": "293706"
+        },
+        {
+            "user_name": "gummih",
+            "text": "hjálp",
+            "date": "2010-11-08 12:18:00",
+            "post_id": "294078",
+            "reply_to_id": "293960"
+        },
+        {
+            "user_name": "Plushy",
+            "text": "Þú ert búinn að fá svör.\nÞú einfaldlega lætur ekki hybrid crossfire þar sem eitt fer í x16 og hitt í x4 þótt að það \"passi\". Það er eins og þú notir nr 38 af skóm en velur 36 í staðinn fyrir 40 því þú \"passar\" samt í 36, en er væntanlega óþægilegt. Þetta x4 slot, eins og sést á myndinni, er ekki að fara skila nærrumþví jafnmiklum hraða og x16 slottið. Þar með er eina vitið að vera annaðhvort með 2x Skjákort í sitt hvoru x16 slotti, eða bara sleppa Crossfire.\nafsaka ef þetta er eitthvað klisjukennt, er veikur",
+            "date": "2010-11-08 13:07:00",
+            "post_id": "294082",
+            "reply_to_id": "294078"
+        },
+        {
+            "user_name": "gummih",
+            "text": "þetta er ekki \nhybrid\n crossfire... hybrid crossfire er þegar maður er með onboard skjákort og venjulegt skjákort í crossfire til að boosta fps-ið þitt smá...",
+            "date": "2010-11-08 16:44:00",
+            "post_id": "294115",
+            "reply_to_id": "294082"
+        },
+        {
+            "user_name": "gummih",
+            "text": "búmpa",
+            "date": "2010-11-09 18:10:00",
+            "post_id": "294405",
+            "reply_to_id": "294115"
+        }
+    ],
+    "date": "2010-11-06 13:49:00"
+}

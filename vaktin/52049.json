@@ -1,0 +1,65 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "52049",
+    "title": "Næ ekki að tengjast http://www.radio.is [Búið að laga]",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=52049",
+    "posts": [
+        {
+            "user_name": "Bioeight",
+            "text": "Ég er að reyna að tengjast síðunni \nhttp://www.radio.is\nÉg kemst á hana í gegnum proxy og á farsímanum í gegnum 3G en ekki á tveimur nettengingum á tveimur mismunandi stöðum. Prófaði á sömu fartölvunni, kemst í gegnum 3g hotspot tengingu en kemst ekki á wifi router.\nBáðar tengingar sem virka ekki hafa það sameiginlegt að nota ljósleiðara frá Gagnaveitu Reykjavíkur. Önnur er hjá Tal hin hjá Vodafone.\nVirkar ekki með tveimur mismunandi routerum og ekki heldur án router\nDNS virkar, og fæ rétta IP addressu að því er virðist(85.197.239.226), búinn að prófa /flushdns , 85.197.239.226\nTracert virkar ekki án router né með router( þetta er án router, með router nær þetta 2 hops, stoppar á sama stað sem sagt)\nTracert times out eftir 1 hop:\n1          12 ms             1 ms              1 ms            10.203.20.2\n2            *                   *                   *                   Request timed out.\n-30         *                   *                   *                   Request timed out.\nTracert virkar á 3G tengingu:\n1         11 ms            2 ms             2 ms         192.168.42.1\n2         64 ms            65 ms         79  ms        10.0.0.2\n3        146 ms           164 ms       167 ms        10.0.1.1\n4        188 ms           204 ms       331 ms        157.157.245.9\n5       1395 ms          974 ms       837 ms        193.4.248.105\n6        985 ms         1094 ms       882 ms        193-4-248-105.static.metronet.is\n6       1149 ms         1021 ms     1028 ms        te1-1-d02-midbaer.c.is\n8       1317 ms         1493 ms     1620 ms        ftth-239-226.hive.is[85.197.239.226]\nTrace complete.\nEru aðrir í sömu sporum? Náið þið að tengjast \nhttp://www.radio.is\n? \nEf þið prófið að tengjast, tilgreina hvaða þjónustuaðila þið eruð og hvort þið eruð hjá Gagnaveitunni eða ekki.\nHvaða ályktun er hægt að draga af þessu?",
+            "date": "2012-12-12 06:54:00",
+            "post_id": "483079",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "rango",
+            "text": "Getur bætt hringdu - GR á listann næ ekki að tengjast",
+            "date": "2012-12-12 07:06:00",
+            "post_id": "483080",
+            "reply_to_id": "483079"
+        },
+        {
+            "user_name": "einarth",
+            "text": "Ég skoða þetta.\nÞetta tengist mjög líklega því að þegar TAL færði internettengingar sínar frá Voda til Símans þá fengu allir TAL viðskiptavinir nýjar ip tölur (46.239.x.x).\nAðstandendur radio.is áttu hinsvegar í erfiðleikum með að breyta uppsetningum hjá sér miðað við þessar nýju ip tölur og var þeim skítreddað með að geta notað gömlu töluna eitthvað áfram. Líklega er eitthvað að brotna í þeirri skítreddingu.\nKv, Einar.",
+            "date": "2012-12-12 09:28:00",
+            "post_id": "483096",
+            "reply_to_id": "483080"
+        },
+        {
+            "user_name": "einarth",
+            "text": "Þetta er komið í lag.\nKv, Einar.",
+            "date": "2012-12-12 09:53:00",
+            "post_id": "483100",
+            "reply_to_id": "483096"
+        },
+        {
+            "user_name": "Bioeight",
+            "text": "Já virkar hér \nTakk fyrir.",
+            "date": "2012-12-12 10:36:00",
+            "post_id": "483103",
+            "reply_to_id": "483100"
+        },
+        {
+            "user_name": "rango",
+            "text": "Mér finst þetta einhvernveginn ekki rétt...",
+            "date": "2012-12-12 11:11:00",
+            "post_id": "483111",
+            "reply_to_id": "483103"
+        },
+        {
+            "user_name": "tdog",
+            "text": "Þetta er mikið notað í örsmáum sveitakirkjum þar sem aðeins prelli og korpsið kemst fyrir.",
+            "date": "2012-12-12 12:53:00",
+            "post_id": "483132",
+            "reply_to_id": "483111"
+        },
+        {
+            "user_name": "playman",
+            "text": "Vel orðað",
+            "date": "2012-12-12 12:56:00",
+            "post_id": "483133",
+            "reply_to_id": "483132"
+        }
+    ],
+    "date": "2012-12-12 06:54:00"
+}

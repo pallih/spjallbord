@@ -1,0 +1,44 @@
+{
+    "forum_title": "Windows",
+    "id": "18680",
+    "title": "Ferskt Windows Vista",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=18680",
+    "posts": [
+        {
+            "user_name": "zaiLex",
+            "text": "Ég keypti mér fartölvu fyrir ca. ári síðan og með henni fylgdi Windows Vista Business en ég fékk engan disk með stýrikerfinu heldur var það bara tilbúið á tölvunni. Núna í dag langar mig að formata og gera ferskt install á stýrikerfinu en hef engann disk. Svo ég spyr: er hægt að láta vista skrifa fyrir kerfið fyrir sig á disk? Allavega er hægt að taka image backup af öllu kerfinu en ég geri ráð fyrir því að þá fylgi allar stillingar og forrit með.",
+            "date": "2008-07-17 13:39:00",
+            "post_id": "178204",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Arkidas",
+            "text": "Ég held að diskurinn sé innbyggður í sér 'partition' á harða disknum.",
+            "date": "2008-07-17 13:49:00",
+            "post_id": "178205",
+            "reply_to_id": "178204"
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "Akkúrat, það er örugglega ghost inná földu partitioni.\nyfirleitt kallað \"Restore\" í hinum ýmsum forritum",
+            "date": "2008-07-17 14:45:00",
+            "post_id": "178207",
+            "reply_to_id": "178205"
+        },
+        {
+            "user_name": "zaiLex",
+            "text": "Já það er partition sem heitir HP_RECOVERY og 7,37gb að stærð með 779mb laus. En inn í því er einn fæll sem heitir RECOVERY með mynd af gulum lás og er hún 280kb. Hvernig get ég skrifað þetta á disk?",
+            "date": "2008-07-17 16:33:00",
+            "post_id": "178210",
+            "reply_to_id": "178207"
+        },
+        {
+            "user_name": "Zorglub",
+            "text": "Það ætti að vera lítið forrit í vélinni sem bíður þér upp á að brenna einn disk og svo læsist það, hinsvegar áttu ekki að þurfa þess, þegar þú ræsir vélina ætti að koma neðst á skjáin, press *** for recovery og þá ættirðu að geta sett vélina upp aftur af harða disknum, eða fara í gegnum Recovery manager í Vista.\nhttp://h10025.www1.hp.com/ewfrf/wc/fast ... #RecoverOS",
+            "date": "2008-07-17 16:46:00",
+            "post_id": "178212",
+            "reply_to_id": "178210"
+        }
+    ],
+    "date": "2008-07-17 13:39:00"
+}

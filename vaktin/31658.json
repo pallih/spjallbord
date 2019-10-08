@@ -1,0 +1,72 @@
+{
+    "forum_title": "Windows",
+    "id": "31658",
+    "title": "villa þegar kveikt er á tölvu",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=31658",
+    "posts": [
+        {
+            "user_name": "aronpr",
+            "text": "sælir er með fartölvu, hún fór að koma með villu þegar ég er að starta henni, þegar windows er að kveikja á sér  kemur þetta\nhvað get ég gert er einhvað farið í henni, öll svör vél þökkuð \n*hún er windows XP",
+            "date": "2010-08-04 18:13:00",
+            "post_id": "274751",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Hnykill",
+            "text": "Stundum virkar að starta upp með Win cd-inn í drifinu. annars hef ég ekki hugmynd hvað þetta er :/",
+            "date": "2010-08-04 18:34:00",
+            "post_id": "274753",
+            "reply_to_id": "274751"
+        },
+        {
+            "user_name": "Cache",
+            "text": "Corrupt registry.\ngetur prófað að fylgja þessum link ef þú hefur stýrikerfisdisk:\nhttp://support.microsoft.com/Default.aspx?kbid=307545\nEða þesum ef þú hefur ekki xp cdrom, en þá þarf að taka harða diskinn úr og tengja hann við aðra vél sem er meira vesen :\nhttp://forums.techguy.org/windows-xp/54 ... ilure.html",
+            "date": "2010-08-04 20:33:00",
+            "post_id": "274769",
+            "reply_to_id": "274753"
+        },
+        {
+            "user_name": "lukkuláki",
+            "text": "Lenti í svona mjög svipuðu um daginn og þurfti að vírushreinsa hana og laga Windows eftir vírusinn.\nMan ekki hvort það var nákvæemlega þessi villa en mjög lík allavega.",
+            "date": "2010-08-04 22:59:00",
+            "post_id": "274803",
+            "reply_to_id": "274769"
+        },
+        {
+            "user_name": "aronpr",
+            "text": "hún er ekki með cd drifi",
+            "date": "2010-08-04 23:51:00",
+            "post_id": "274809",
+            "reply_to_id": "274803"
+        },
+        {
+            "user_name": "aronpr",
+            "text": "ef ég þarf að ná í hluti í henni er hægt að starta hana einhveringin (safe mode eða einhvað svoleiðis )",
+            "date": "2010-08-05 17:54:00",
+            "post_id": "274892",
+            "reply_to_id": "274809"
+        },
+        {
+            "user_name": "biturk",
+            "text": "corruptaður registry\nrunnaðu xp disk og repair og láttu og vita hvort það virki eftir það\nmyndi renna \nchkdsk\nog\nfix registry \nskipanirnar í repair á disknum\nfix boot möguleikinn gæti verið góður gaur líka",
+            "date": "2010-08-05 22:08:00",
+            "post_id": "274943",
+            "reply_to_id": "274892"
+        },
+        {
+            "user_name": "aronpr",
+            "text": "er ekki með cd dirf í tölvunni",
+            "date": "2010-08-06 16:24:00",
+            "post_id": "275077",
+            "reply_to_id": "274943"
+        },
+        {
+            "user_name": "lukkuláki",
+            "text": "Þá þyrftirðu helst að redda þér utanáliggjandi drifi eða USB lykli með stýrikerfinu á eða kannski bara láta menn á einhverju tölvuverkstæði kíkja á þetta fyrir þig ? \nÉg myndi taka harða diskinn úr og tengja hann við aðra vél, afrita öll gögn sem ég þarf og strauja svo vélina. \nEn það gerði ég bara vegna þess að ég kann það og á allt sem þarf til þess að gera það.",
+            "date": "2010-08-06 16:42:00",
+            "post_id": "275079",
+            "reply_to_id": "275077"
+        }
+    ],
+    "date": "2010-08-04 18:13:00"
+}

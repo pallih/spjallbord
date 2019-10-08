@@ -1,0 +1,58 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "5802",
+    "title": "9800 pro",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=5802",
+    "posts": [
+        {
+            "user_name": "einarsig",
+            "text": "Hæbb, ég er með 9800 pro 128mb kort, ekkert svo sem að nema það fer eit í pirrurnar á mér, er með catalyst 4.8 og þegar ég tjekka á stillingunum í \"smargear\" thingy-inu þá er agp bara OFF og þá ég reyni að breyta hraðanum í agp 4X eða 8X og reboot-a þá breytist það ekki bofs. Ég er nýbúinn að strauja vélina og hélt að þetta myndi kannski lagast við það en það breytist ekkert við það. Sjálft kortið er ekki að performa neitt verr en þar sem ég vill hafa allt á hreinu er þetta pirrandi. \n\n\n\nEitt sem gæti hugsanlega orsakað þetta, er að í device manager er e-ð sem heitir SM bus controller í other device's hef ekki hugmynd um hvað þetta er og væri fínt að fá svör við því og hvort þetta gæti tengst þessu veseni.\n\n\n\nÉg er sem sagt búinn að prófa skipta um drivera úr 4.8 í 4.7, strauja vél, og búinn að tjekka á öllu í biosnum en sá ekkert sem gæti haft áhrif.",
+            "date": "2004-09-30 20:36:00",
+            "post_id": "58675",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "einarsig",
+            "text": "TEST bæta við undirskrift",
+            "date": "2004-09-30 20:40:00",
+            "post_id": "58676",
+            "reply_to_id": "58675"
+        },
+        {
+            "user_name": "TrabanT",
+            "text": "Ertu búinn að installa öllum AGP driverum. Þetta var svona líka hjá mér þangað til ég installaði þeim..",
+            "date": "2004-09-30 20:58:00",
+            "post_id": "58679",
+            "reply_to_id": "58676"
+        },
+        {
+            "user_name": "einarsig",
+            "text": "hvað meinaru, öllum agp driverum ?",
+            "date": "2004-09-30 21:06:00",
+            "post_id": "58680",
+            "reply_to_id": "58679"
+        },
+        {
+            "user_name": "TrabanT",
+            "text": "Með mínu móðurborði þá fylgdi svona setup diskur og á honum var hægt að gera \"Install AGP driver\"",
+            "date": "2004-09-30 21:16:00",
+            "post_id": "58682",
+            "reply_to_id": "58680"
+        },
+        {
+            "user_name": "einarsig",
+            "text": "jæja ég reddaði þessu. Ég fann út með hjálp google hvað sm bus controller er :\n\n\n\n SM Bus stands for\n\n\n\nS-ystems M-anagement B-us (Systems Management Bus)\n\n\n\nog var svo bent á að fara á \nhttp://downloadfinder.intel.com/scripts-df/filter_results.asp?strOSs=44&strTypes=DRV%2CARC&ProductID=816&OSFullName=Windows*+XP+Professional&submit=Go%21\n og ná í INF Update Utility [INFINST.EXE] og keyrði það upp rebootaði og tjekkaði á device managernum og þá var þetta dottið úr other devices og svo tjekkaði ég á smartgear og blingíbling agp x8! újé",
+            "date": "2004-09-30 21:36:00",
+            "post_id": "58689",
+            "reply_to_id": "58682"
+        },
+        {
+            "user_name": "TrabanT",
+            "text": "Til hamingju, það er hip",
+            "date": "2004-09-30 21:47:00",
+            "post_id": "58691",
+            "reply_to_id": "58689"
+        }
+    ],
+    "date": "2004-09-30 20:36:00"
+}

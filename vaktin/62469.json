@@ -1,0 +1,44 @@
+{
+    "forum_title": "Koníakstofan",
+    "id": "62469",
+    "title": "iOS 8 og MAC address Randomization",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=9&t=62469",
+    "posts": [
+        {
+            "user_name": "Sera",
+            "text": "Nú var iOS 8 að koma út og nýjasta nýtt hjá Apple er MAC address randomization, sem þýðir að tækið sendir frá sér random mac addressu - ekki þá raunverulegu sem tilheyrir tækinu og nýja og nýja í hvert sinn.   Hvernig fer það með þráðlausa punkta/kerfi sem eru að nota MAC addressu sem auðkenningu á tækjum inn á þráðlaus net ?  Er sú leið þá alveg úti eða ?\nTæki sem aldrei hefur verið auðkennt inn á þráðalausa netið og sendir frá sér falska random mac addressu verður varla hægt að auðkenna með mac addressu ef þráðlausi punkturinn getur ekki lesið hana.\nHvað segiði um þetta ?",
+            "date": "2014-09-17 20:23:00",
+            "post_id": "573637",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "hagur",
+            "text": "Er ekki Mac addressu filtering á WIFI líka bara falskt öryggi og gamaldags?  Mun betra bara að nota WPA2 með góðu lykilorði og kannski vera með hidden SSID líka.\nAnnars er ég enginn sérfræðingur í þessu ...",
+            "date": "2014-09-17 20:56:00",
+            "post_id": "573641",
+            "reply_to_id": "573637"
+        },
+        {
+            "user_name": "Sera",
+            "text": "Jú, það er afleitt öryggi, lítið mál með rétta forritinu að sniffa mac addressur sem eru leyfðar á netinu.    En sumir nota MAC auðkenningu auk passwords og svo kannski tekur einhvern tíma að finna aðrar lausnir fyrir stór umhverfi sem nota mörg iOS tæki.  WPA2 enterprice auðkenning með Radius server er auðvitað mun öruggari ef þú ert með AD notendur.",
+            "date": "2014-09-17 21:02:00",
+            "post_id": "573643",
+            "reply_to_id": "573641"
+        },
+        {
+            "user_name": "Cikster",
+            "text": "Hefur einhver hugsað þá hugmynd að þótt sé ekki læst á MAC addressur geti þetta orðið vandamál fyrir routerinn að enda með sístækkandi lista af MAC addressum sem hafa tengst honum. Hef reyndar ekki hugmynd hvort og þá hversu margar þeir geta geymt en þetta var það fyrsta sem mér datt í hug þegar ég sá það að ódýrari routerarnir gætu blockerast á wifi ef sá listi yrði fullur.",
+            "date": "2014-09-17 21:24:00",
+            "post_id": "573645",
+            "reply_to_id": "573643"
+        },
+        {
+            "user_name": "Sera",
+            "text": "Eftir smá lestur þá sýnist mér að þegar þú velur netið sem þú vilt tengjast þá sendir tækið sína réttu mac addressu á punktinn og ætti því að komast inn. Random mac addressurnar eru bara gefnar út meðan tækið skannar eftir þráðlausum netum án þess að reyna tengingu.",
+            "date": "2014-09-17 23:35:00",
+            "post_id": "573670",
+            "reply_to_id": "573645"
+        }
+    ],
+    "date": "2014-09-17 20:23:00"
+}

@@ -1,0 +1,156 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "6171",
+    "title": "Að setja upp server?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=6171",
+    "posts": [
+        {
+            "user_name": "kanill",
+            "text": "Sælir ég er að vellta því fyrir mér að skella upp server til þess að hýsa eina litla heimasíðu fyrir hana múttu. Og líka bara væri þæjinlegt að vera með server. En allavega ég er með P3 700 256 í minni og engann disk í augnarblikinu  \n En ég var að spá hvort maður á að setja upp Win2k eða WinXp. Hvort gerið þið? Ég nenni ekki að setja upp Linux alls ekki útaf því að ég sé einhver M$ fan nr. 1 heldur einfaldlega útaf því að ég hef enga kunnátu á Linux hef aldrei nennt að skipa um umhverfi  \n . Og Já ég er latur!! En allavega hvað ætti ég að setja upp og hvaða forrit þarf maður og svona .. ég er alger nýgræðingur í þessum málum. Endilega ef þið vitið um einhvern góðan tutorial eða eitthvað fyrir þetta url me upp baby!\n\n\n\nEndir.",
+            "date": "2004-10-30 14:08:00",
+            "post_id": "63342",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "það er svo skítlétt.\n\n\n\nsetur bara win2k inn með öllum nýjustu updeitum. (xp er með ooof mikið drasl og aðeins of þungt í keyrslu, munar þó ekki miklu)\n\n\n\nferð í services og mmc og slekkur á öllum óþarfa og einhverju drasli sem þú þarft alls ekki.\n\n\n\ninstallar apache eða virkjar IIS\n\n\n\nhefur sem minnst á tölvunni.\n\n\n\n=)",
+            "date": "2004-10-30 14:30:00",
+            "post_id": "63345",
+            "reply_to_id": "63342"
+        },
+        {
+            "user_name": "kanill",
+            "text": "Svallt!! .. en hversu miklu munar ef segjum að ég myndi henda endrum og eins upp leikjaserver eða eitthvað á þessu ... yrði síðan sem væri hýst þarna bara eins og á 28.8 módemi eða?",
+            "date": "2004-10-30 14:47:00",
+            "post_id": "63353",
+            "reply_to_id": "63345"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Fer náttla eftir því hvernig tengingu þú ertu með.\n\nAnnars held ég að 700Mhz ráði ekkert við marga manna leikjaserver, allavega ekki ef þú ert líka PHP og MySQL á síðunum.",
+            "date": "2004-10-30 15:11:00",
+            "post_id": "63357",
+            "reply_to_id": "63353"
+        },
+        {
+            "user_name": "kanill",
+            "text": "Ahh ok .. bara pæla þá bara verð ég að sleppa því þangað til ég myndi updaita serverinn",
+            "date": "2004-10-30 15:13:00",
+            "post_id": "63358",
+            "reply_to_id": "63357"
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "server uppsetningar koma tengingum ekkert við \n\n\n\n\n\n\nen já, ætlaru að hafa leikjaserver á þessu ?\n\n\n\np3-800 + 1gb sdram myndi alveg virka ... þeas, í ákveðin tíma, svo þarftu að reboota því pagefileið á til að taka stærra pláss því lengra sem það er spilað  \n\n\n\n\n\n\nen fyrir bara heimasíðu með kannski 10 hits á dag er þetta no problem \n\n\n\n\n\n\njá, tengingin þyrfti auðvitað að vera góð.. annars myndi engin skoða =)\n\n\n\nps, sagðistu ekki ætla hósta vefsíðu ? breyttiru síðan í leikjaþjón ?",
+            "date": "2004-10-30 15:31:00",
+            "post_id": "63361",
+            "reply_to_id": "63358"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "lesa Cendenz",
+            "date": "2004-10-30 15:45:00",
+            "post_id": "63362",
+            "reply_to_id": "63361"
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "lestu sjálfur.\n\n\n\n\n\n1.sti pósturinn = þá ætlar hann að hosta \"tiny biny oggulitla heimasíðu\"\n\n\n\nsvo allt í einu ætlar kauði í 3ja pósti ætlar hann að henda upp cs server sem skítlaggar!\n\n\n\n\n\nSPURNING UM AÐ LESA VOGABARN \n\n\n\n\n\n\nÉg er borgarbarn!",
+            "date": "2004-10-30 15:52:00",
+            "post_id": "63364",
+            "reply_to_id": "63362"
+        },
+        {
+            "user_name": "Andri Fannar",
+            "text": "huh , endrum og eins",
+            "date": "2004-10-30 17:19:00",
+            "post_id": "63375",
+            "reply_to_id": "63364"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "ákkúrat. Svona fer borgarmenguninn með þig Cendenz",
+            "date": "2004-10-30 18:01:00",
+            "post_id": "63381",
+            "reply_to_id": "63375"
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "nóbb!! \n\n\n\n\n\n\n;þ <-- afhverju er ekki ullikall ?",
+            "date": "2004-10-30 19:15:00",
+            "post_id": "63391",
+            "reply_to_id": "63381"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "ég var nú með BF1942 server á 1GHz p3 með 128MB minni. hann fór ekki að lagga fyrr en 12-15+ voru inná",
+            "date": "2004-10-30 19:17:00",
+            "post_id": "63392",
+            "reply_to_id": "63391"
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "heh\n\n\n\nnetkóðinn í CS er _örlítið_ frábrugðin BF :>",
+            "date": "2004-10-30 19:38:00",
+            "post_id": "63402",
+            "reply_to_id": "63392"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Að vera með bf server tekur gífurlegt Ram :S",
+            "date": "2004-10-30 19:39:00",
+            "post_id": "63403",
+            "reply_to_id": "63402"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "og mikið utanlands gagnamagn ;( \n\n\n\n128MB duguðu nú bara mjög vel. þar að auki sdr",
+            "date": "2004-10-30 19:49:00",
+            "post_id": "63407",
+            "reply_to_id": "63403"
+        },
+        {
+            "user_name": "kanill",
+            "text": "Nei ég ætla nú aðalega að hósta síðuna .. en var bara að spá hvort hitt væir möguleiki",
+            "date": "2004-10-31 13:21:00",
+            "post_id": "63477",
+            "reply_to_id": "63407"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Apache-php\n\nDeadly duo",
+            "date": "2004-10-31 17:13:00",
+            "post_id": "63509",
+            "reply_to_id": "63477"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "Er það samt ekki meira svona, apache + mod_php?",
+            "date": "2004-10-31 19:51:00",
+            "post_id": "63526",
+            "reply_to_id": "63509"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "ég er með apache-php-mysql-perl\n\nGuð minn góður ég prófaði einu sinni svona autoinstall pakka það er ömurlegt að nota þannig.",
+            "date": "2004-10-31 19:53:00",
+            "post_id": "63528",
+            "reply_to_id": "63526"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "apache-mysql-php er málið.",
+            "date": "2004-11-01 08:49:00",
+            "post_id": "63581",
+            "reply_to_id": "63528"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Amm, það er nokkuð þéttur pakki, sérstaklega ef að maður nennir að henda því upp á Linux.",
+            "date": "2004-11-01 14:38:00",
+            "post_id": "63609",
+            "reply_to_id": "63581"
+        }
+    ],
+    "date": "2004-10-30 14:08:00"
+}

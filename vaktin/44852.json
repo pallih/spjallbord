@@ -1,0 +1,149 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "44852",
+    "title": "AMD Yfir í Intel?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=44852",
+    "posts": [
+        {
+            "user_name": "asigurds",
+            "text": "Kvöldið,\nÉg verslaði mér vél fyrir stuttu og því miður er hún ekki að standast undir væntingum og leita ég því eftir aðstoð/ráðgjöf frá Vaktinni.\nVélinn sem ég hef er:\nAMD X6 1090T 4.0 GHz - ASRock 890FX Deluxe 5 - 2 x 4gb GSkill -  Power colour HD 6870x2 - 1.5tb Seagate - Tacens Radix III 1050W.\nÉg hélt að ég gæti keyrt BF3 , Skyrim ofl í hæstu gæðum með þessari vél enn því miður er það ekki rauninn sem stendur og spyr því hvað teljið þið vera að eða Hvort þetta sé eðlilegt.\nÍ gegnum tíðina hef ég ávalt átt Intel vélar & Nvidia kort og er því ekki nægilega klára á þessa enn er samt sem áður að spá í að skipta út örgjafanum yfir í Bulldoser eða hreinlega fara í I5-I7 og GTX570 þar sem ég veit að það ætti að ráðið við ofangreinda leiki.\nÉg prófaði einnig 3dmark testinn og var með 15700 í 3dMark Vantage og CA 3900 í 3dMark 11.\nVélinn var áður með 2x svona kort í Crossfire og var þá með 10.000 í 3dMark 11. \nGetur munað svona miklu á performance overall að hafa bæði kortinn ?\nÖll ráðgjöf er vel þegin.",
+            "date": "2012-01-15 22:04:00",
+            "post_id": "412946",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "worghal",
+            "text": "32 eda 64 bita styriskerfi ?",
+            "date": "2012-01-15 22:17:00",
+            "post_id": "412955",
+            "reply_to_id": "412946"
+        },
+        {
+            "user_name": "asigurds",
+            "text": "64 bita Home edition. WIN7",
+            "date": "2012-01-15 22:20:00",
+            "post_id": "412958",
+            "reply_to_id": "412955"
+        },
+        {
+            "user_name": "mercury",
+            "text": "hömm frekar furðulegt að þú höndlir það ekki \n getur ekki verið einhvað annað en \"tölvan sjálf\" sem er með leiðindi ?",
+            "date": "2012-01-15 22:21:00",
+            "post_id": "412960",
+            "reply_to_id": "412958"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "allir driverar til staðar?",
+            "date": "2012-01-15 22:23:00",
+            "post_id": "412961",
+            "reply_to_id": "412960"
+        },
+        {
+            "user_name": "asigurds",
+            "text": "Sæll,\nÉg setti inn nýjustu 11.12 skjákortsdriverana..\ner með SP1.\nVélinn kom uppsett þannig að ég gerði ráð fyrir að það væri móðurborð driverar inni.\nSpurning um að ath það,",
+            "date": "2012-01-15 22:26:00",
+            "post_id": "412966",
+            "reply_to_id": "412961"
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "varstu búinn að setja líka Catalyst Application Profiles \nhttp://www2.ati.com/drivers/hotfix/cata ... 2_cap2.exe",
+            "date": "2012-01-15 23:57:00",
+            "post_id": "412998",
+            "reply_to_id": "412966"
+        },
+        {
+            "user_name": "asigurds",
+            "text": "Sæll Mundi,\nÉg dl þessu og installa bara right? Valli tæm.\nAnnars installaði ég móðurborð drivers ofl og núna fæ ég annaðhvort bluescreen eða error þegar ég reyni að runna 3dmark testin....",
+            "date": "2012-01-16 01:14:00",
+            "post_id": "413034",
+            "reply_to_id": "412998"
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "yep \nsettu svo  sapp. trixx inn líka \nhttp://www.sapphiretech.com/archive/dri ... 009162.exe\nferð í settings og hakar í Disable ULPS það er eitthvað orkusparnaðar dæmi í windows , lagaði Crossfire hjá mér,var að fá BSOD í sumum 3Dmark testum\nsakar ekki að prufa",
+            "date": "2012-01-16 10:01:00",
+            "post_id": "413086",
+            "reply_to_id": "413034"
+        },
+        {
+            "user_name": "asigurds",
+            "text": "Sælir,\nrunnaði 3dmark 11 og þetta er resultið.\nhttp://3dmark.com/healthcheck/3dm11/2561879\nPhysic score langt undir mörkum.\nAny ideas?",
+            "date": "2012-01-16 13:41:00",
+            "post_id": "413134",
+            "reply_to_id": "413086"
+        },
+        {
+            "user_name": "mercury",
+            "text": "veit að þú ert með feiki nógu stóran aflgjafa en hugsanlegt að skjákortið sé ekki að fá nægt power ?",
+            "date": "2012-01-16 15:57:00",
+            "post_id": "413172",
+            "reply_to_id": "413134"
+        },
+        {
+            "user_name": "asigurds",
+            "text": "Einhver góð leið til að útiloka það?",
+            "date": "2012-01-16 17:14:00",
+            "post_id": "413208",
+            "reply_to_id": "413172"
+        },
+        {
+            "user_name": "asigurds",
+            "text": "da",
+            "date": "2012-01-17 08:34:00",
+            "post_id": "413347",
+            "reply_to_id": "413208"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "Ég persónulega myndi prufað formatt og setja allt aftur upp.",
+            "date": "2012-01-17 08:49:00",
+            "post_id": "413349",
+            "reply_to_id": "413347"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Það að skipta úr 6870x2 yfir í 570 ætti að vera niðurfærsla, ekki uppfærsla miðað við þau benchmarks sem ég skoðaði og munurinn er mikill. Ef ég ætti að giska á hvað er að, þá myndi ég giska á driverana, en það er erfitt að segja svona úr fjarlægð. Mögulega vantar \"afl\" í aflgjafann á 12V rail? \nVirkja crossfire?\nedit: hmm, \nfletti þessum aflgjafa upp\nHvert 12V tengi er bara 38A, núna vantar betri PSU gúru en mig til að segja hvort þessi PSU sé nógu góður fyrir þetta skjákort.",
+            "date": "2012-01-17 10:23:00",
+            "post_id": "413371",
+            "reply_to_id": "413349"
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "PowerColor HD 6870 X2 2 GB þetta er 1 kort og er að virka eins og crossfire  en samt ekki \n \nég er búinn að senda honum mínar crossfire stillingar og það varð ekkert betra \n \nPrufa setja Windows aftur,\nFara í Kísildal (kom hún ekki þaðan)og láta skoða þetta! prufa annan aflgjafa STÓRAN 100A á línu",
+            "date": "2012-01-17 10:54:00",
+            "post_id": "413377",
+            "reply_to_id": "413371"
+        },
+        {
+            "user_name": "asigurds",
+            "text": "Ég prófaði um daginn að enable crossfire enn þá fékk ég bara blackscreen og þurfti að fara í Safe mode og uninstalla driverunum svo ég gæti reinstallað þeim.\nÁ Crossfire að virka á þetta kort þar sem þetta er bara eitt kort 2gb?\nSá spyr sem ekki veit..",
+            "date": "2012-01-17 11:39:00",
+            "post_id": "413384",
+            "reply_to_id": "413377"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Miðað við \nþetta review\n . Spurning um að lesa kannski bara manualinn fyrir þitt kort?",
+            "date": "2012-01-17 11:40:00",
+            "post_id": "413385",
+            "reply_to_id": "413384"
+        },
+        {
+            "user_name": "Philosoraptor",
+            "text": "afaik er battlefield 3 með hexacore support, held að vandamálið sé ekki örgjörfinn þinn, Er að keyra BF3 á max með engu hiksti á minni vél",
+            "date": "2012-01-17 13:16:00",
+            "post_id": "413405",
+            "reply_to_id": "413385"
+        },
+        {
+            "user_name": "asigurds",
+            "text": "Þakka fyrir aðstoðina.\nÞetta var semsagt þannig að þegar ég enablaði Crossfire og fékk svartan skjá og gat ekkert gert.\nPrófaði að tengja sjónvarpið við einnig og þá fékk ég aðalvalmyndina fram þar og stretchað á tölvuskjáinn.\nLoks reif ég sjónvarpið úr sambandi og færði tölvuskjáinn í neðraportið og volah.\nprófaði 3dmark 11 og fékk 6600 þannig að þetta ætti að vera komið á rétt ról.",
+            "date": "2012-01-17 13:24:00",
+            "post_id": "413409",
+            "reply_to_id": "413405"
+        }
+    ],
+    "date": "2012-01-15 22:04:00"
+}

@@ -1,0 +1,79 @@
+{
+    "forum_title": "Windows",
+    "id": "530",
+    "title": "Neitar að enablea UDMA",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=530",
+    "posts": [
+        {
+            "user_name": "Tiger",
+            "text": "Ég er með smá vandamál, Stýrikerfið hjá mér  neitar að viðurkenna hörðudiskana mína (IBM 80 & 30 GB) sem UDMA og þvíngar þeim alltaf í PIO mode. Ég er með ASUS A7N8X Deluxe móðurborð, og XP. Ég er búinn að leita útum allt en er ekki að finna neina lausn á þessu. Og í sisoft sandra benchmark testi er ég að fá 2913 kB/s í staðinn fyrir 29,000 fyrir sambærilega diska, semsagt 10% afköst.... Er einhver þarna úti sem kannast við þetta eða getur hjálpað mér???? \n\n\n\nPs. Ég er með UDMA kapla og hef prófað tvenna þannig og diskarnir eru báðir UDMA líka",
+            "date": "2003-03-31 10:05:00",
+            "post_id": "3506",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "halanegri",
+            "text": "Ertu viss um að þeir séu stilltir á UDMA í bios?",
+            "date": "2003-03-31 11:16:00",
+            "post_id": "3511",
+            "reply_to_id": "3506"
+        },
+        {
+            "user_name": "kiddi",
+            "text": "Gæti verið líka að þig vanti móbó-chipset drivera, SiS þarf SiS-IDE driverana, Intel þarf Intel Chipset config. installerað, VIA þarf VIA-4-in-1 o.s.frv =)",
+            "date": "2003-03-31 12:36:00",
+            "post_id": "3516",
+            "reply_to_id": "3511"
+        },
+        {
+            "user_name": "Tiger",
+            "text": "Já biosin er rétt stiltur, og ég hef uppfært driverana bæði frá Asus og Nvidia en ekkert gerist!!!!",
+            "date": "2003-03-31 12:52:00",
+            "post_id": "3518",
+            "reply_to_id": "3516"
+        },
+        {
+            "user_name": "halanegri",
+            "text": "Já, en ekki VIA, eins og kiddi sagði, nema móðurborðið þitt sé ekki með VIA kubbasetti.",
+            "date": "2003-03-31 13:40:00",
+            "post_id": "3527",
+            "reply_to_id": "3518"
+        },
+        {
+            "user_name": "Tiger",
+            "text": "Nei það er ekki með VIA kubba setti, heldur Nvidia Nforce2 kubbasetti",
+            "date": "2003-03-31 13:48:00",
+            "post_id": "3531",
+            "reply_to_id": "3527"
+        },
+        {
+            "user_name": "galldur",
+            "text": "stundum dettur diskur niður á pio mode hjá mér vegna álags ? , gerist þegar diskurinn eða cd drifið fær og margar crc error.\n\n\n\nég laga það með því að fara í device manager og uninstalla annað primary ide channel (eða secondary eftir því sem á við ) og restarta svo.\n\nþá hleður windows upp ide reklinum aftur og núll stillir crc villurnar og diskurinn fer aftur á udma100 ...",
+            "date": "2003-03-31 15:37:00",
+            "post_id": "3542",
+            "reply_to_id": "3531"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Já þetta er rétti andinn. Áfram Shummi",
+            "date": "2003-03-31 16:22:00",
+            "post_id": "3544",
+            "reply_to_id": "3542"
+        },
+        {
+            "user_name": "Tiger",
+            "text": "Nei það er ekki að virka heldur!!!!  \n\n\n\n\nPs. skítt með Ferrari, þeir eru það sem þeir eru vegna Schumma. Go Schummi",
+            "date": "2003-04-01 15:19:00",
+            "post_id": "3557",
+            "reply_to_id": "3544"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Já ég er svosem sammála, ferrari eru bara bestir afþví að shumaker er þar",
+            "date": "2003-04-01 22:42:00",
+            "post_id": "3570",
+            "reply_to_id": "3557"
+        }
+    ],
+    "date": "2003-03-31 10:05:00"
+}

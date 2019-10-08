@@ -1,0 +1,114 @@
+{
+    "forum_title": "Þjónusta / Viðgerðir",
+    "id": "45376",
+    "title": "slökkt var á tölvunni og það kveiknar ekki aftur á henni..",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=13&t=45376",
+    "posts": [
+        {
+            "user_name": "cure",
+            "text": "Góða kvöldið og halló hæ. félagi minn var hérna hjá mér og ýtti á restart takkann á tölvunni minni, og það kveikknar ekki á henni aftur.. ég fæ ekkert bíp né neitt.. allar viftur snúast og allt í góðu með það en það kemur engin mynd og ekkert gerist.. er búinn að taka batterýið úr móðurborðinu og enþá sama vandamál.. veit einhver hvað málið getur verið ??",
+            "date": "2012-02-04 21:50:00",
+            "post_id": "418399",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "bAZik",
+            "text": "Sérðu ekki POST? Kannski losnaði skjátengið smávegis..",
+            "date": "2012-02-04 21:55:00",
+            "post_id": "418400",
+            "reply_to_id": "418399"
+        },
+        {
+            "user_name": "cure",
+            "text": "nei hún póstar ekki og ekkert gerist.",
+            "date": "2012-02-04 22:01:00",
+            "post_id": "418401",
+            "reply_to_id": "418400"
+        },
+        {
+            "user_name": "Marmarinn",
+            "text": "búinn að prufa ýta á reset eftir að þú kveikir á henni?",
+            "date": "2012-02-04 22:05:00",
+            "post_id": "418402",
+            "reply_to_id": "418401"
+        },
+        {
+            "user_name": "cure",
+            "text": "já var að prufa það. það gerist ekkert. same shit fæ ekkert í píp né neitt tölvan neitar að posta. og skjárinn er bara á standby",
+            "date": "2012-02-04 22:09:00",
+            "post_id": "418403",
+            "reply_to_id": "418402"
+        },
+        {
+            "user_name": "Bioeight",
+            "text": "Resetta CMOS\nChecka hvort einhverjar power snúrur séu lausar/hafi losnað og séu hálffastar. Checka hvort það er eitthvað laust inní kassanum sem hefur dottið á einhvern vondan stað(skrúfa f.e.)",
+            "date": "2012-02-04 22:16:00",
+            "post_id": "418404",
+            "reply_to_id": "418403"
+        },
+        {
+            "user_name": "Marmarinn",
+            "text": "myndi prufa að taka reset snúruna bara úr sambandi.\nef þú ert örugglea að tala um að það hafi verið ýtt á reset takkann. \nhef átt tölvu sem var með svona stæla við reset.",
+            "date": "2012-02-04 22:26:00",
+            "post_id": "418407",
+            "reply_to_id": "418404"
+        },
+        {
+            "user_name": "bAZik",
+            "text": "Prófaðu að taka power snúruna úr sambandi, bíða í svona 30sec-1min (þangað til ljósin slökkna á netkortinu) og tengja aftur. Bara til að vera viss að ekkert rafmagn sé í gangi.",
+            "date": "2012-02-04 22:29:00",
+            "post_id": "418408",
+            "reply_to_id": "418407"
+        },
+        {
+            "user_name": "Varasalvi",
+            "text": "Ég hef lent í því nákvæmlega sama. Vandamálið hjá mér var að örgjörfinn var ónýtur, hann eyðinlagðist afþví að þegar ég lét móðurborðið í kassan þá voru skrúfur sem snertu það, greinilega á slæmum stað.\nÉg veit ekki hvort það sé vandamálið hjá þér, en það er kannski fínt að hafa það í huga.",
+            "date": "2012-02-04 22:32:00",
+            "post_id": "418410",
+            "reply_to_id": "418408"
+        },
+        {
+            "user_name": "cure",
+            "text": "já takk fyrir svörin \n ég púslaði þessari tölvu saman sjálfur og er því viss um að engin skrúfa sé með neitt leiðindi  \n \nvar einmitt að skoða það til öryggis og tók batterýið og restart plöggið úr sambandi.. ætla að bíða í svona 10 min og sjá hvað gerist. er samt ekki allveg að fatta afhverju tölvan hættir að POST-a eftir það að ýtt sé á restart takkann",
+            "date": "2012-02-04 22:36:00",
+            "post_id": "418411",
+            "reply_to_id": "418410"
+        },
+        {
+            "user_name": "Akumo",
+            "text": "Úff ég er að lenda í nákvæmlega það sama með fartölvuna mína, það gerist 0.. tók batterý úr í 10min og prufaði en ekkert \n what wizardry is this. (ekki ætlað að stela þræði \n)",
+            "date": "2012-02-04 22:41:00",
+            "post_id": "418413",
+            "reply_to_id": "418411"
+        },
+        {
+            "user_name": "bAZik",
+            "text": "Buy a Mac.",
+            "date": "2012-02-04 22:42:00",
+            "post_id": "418414",
+            "reply_to_id": "418413"
+        },
+        {
+            "user_name": "cure",
+            "text": "Takk kærlega fyrir öll svörin \n þetta virkaði eftir þessar 10 min sem ég tó betterýið úr",
+            "date": "2012-02-04 22:46:00",
+            "post_id": "418417",
+            "reply_to_id": "418414"
+        },
+        {
+            "user_name": "Eiiki",
+            "text": "hehe lenti í svipuðu um daginn þegar ég var að fikta við overclock á AMD, tölvan fraus í klessu og bootaði ekki og komu engin hljóð og ekkert á skjáinn. Ég var spakur og tók batteríið úr og ekkert lagaðist við það, þá stressaðist ég smá upp en fannst samt ólíklegt að mér hefði tekist að skemma eitthvað þangað til mér datt í hug að taka batteríið aftur úr sambandi í meira en 10 sek og viti menn þá virkaði allt eðlilega aftur",
+            "date": "2012-02-04 22:53:00",
+            "post_id": "418420",
+            "reply_to_id": "418417"
+        },
+        {
+            "user_name": "cure",
+            "text": "Hehe já var næstum búinn að ropa og prumpa í mig af stressi  \n  náði að hemja ropann en prumpaði samt aðeins..\nþetta er komið  \n  öss hvað ég er sáttur",
+            "date": "2012-02-04 23:09:00",
+            "post_id": "418423",
+            "reply_to_id": "418420"
+        }
+    ],
+    "date": "2012-02-04 21:50:00"
+}

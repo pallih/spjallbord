@@ -1,0 +1,51 @@
+{
+    "forum_title": "F.A.Q.",
+    "id": "64423",
+    "title": "CPU vandamál í Pro Tools og Logic (hljóðvinnslu)",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=33&t=64423",
+    "posts": [
+        {
+            "user_name": "Heidar007",
+            "text": "Kveldið.\nMyndi það að uppfæra RAM úr 4gb í 16gb líklega leysa CPU vandamál?\nTölvan:\nMacBook Pro 15\" (Late 2011), Core i7 2.2 2675QM,\n4 GB of 1333 MHz DDR3 SDRAM (PC3-10600) \nmeira info:\nhttp://www.everymac.com/systems/apple/m ... specs.html",
+            "date": "2015-02-12 01:40:00",
+            "post_id": "590139",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Heidar007",
+            "text": "Enginn MacBook Pro snillingur hér? Annars held ég að það ætti að hjálpa mikið til, bara vantaði staðfestingu.",
+            "date": "2015-02-13 13:04:00",
+            "post_id": "590263",
+            "reply_to_id": "590139"
+        },
+        {
+            "user_name": "gRIMwORLD",
+            "text": "eh það er erfitt að aðstoða ef vandamálalýsingin er jafn víðtæk og \"cpu vandamál\". Færðu villur?",
+            "date": "2015-02-13 14:45:00",
+            "post_id": "590270",
+            "reply_to_id": "590263"
+        },
+        {
+            "user_name": "haywood",
+            "text": "https://www.facebook.com/groups/181384441872734/",
+            "date": "2015-02-13 14:50:00",
+            "post_id": "590271",
+            "reply_to_id": "590270"
+        },
+        {
+            "user_name": "Heidar007",
+            "text": "Hæ\nSorry að vandamálið var eitthvað óljóst,\nJá td þegar ég er að taka upp þá kemur það stundum fyrir að fá CPU overload skilaboð, sérlega ef ég er að keyra mörg eða þung plugins. Er að keyra Pro Tools 10 eða Logic 9 aðalega, og þar hefur spilun/upptökur stoppað vegna CPU overload. Þar sem CPU, ef ég skil það rétt og ég er nú ekki mikil tölvugarpur, hefur aðalega með örgjörvan að gera, en ram vinnur náið með því, var ég að spá hvort uppfærsla á ram myndi ekki allavega létta á vandamálinu. Þetta vandamál er algengara með tímanum og þar sem ég er að keyra á 4gb ram, og ekki margt hægt að uppfæra í tölvunni, þá var það helsta hugmyndin að uppfæra það.\nTakk fyrir þessa fb síðu \nkv.\nH",
+            "date": "2015-02-16 12:00:00",
+            "post_id": "590431",
+            "reply_to_id": "590271"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "þetta gefur til kynna að þessi vél ráði hreinlega ekki við þessi plugin sem þú ert að nota, en fylgstu með minnisnotkun þegar þessi skilaboð koma upp ef minnið er nálægt 100% þá er kannski möguleiki að þetta hafi við minnin að gera",
+            "date": "2015-02-16 16:31:00",
+            "post_id": "590441",
+            "reply_to_id": "590431"
+        }
+    ],
+    "date": "2015-02-12 01:40:00"
+}

@@ -1,0 +1,93 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "5151",
+    "title": "CAS Latency pælingar",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=5151",
+    "posts": [
+        {
+            "user_name": "Takai",
+            "text": "Ég var að pæla ... ef að maður er að kaupa sér minni sem að er cl 2.5 eða 3 .. getur maður þá ekki bara breytt því strax yfir í cl 2 í bios og það vinnur alveg eins??\n\n\n\nVar t.d. að prufa að taka gamla 512mb sdram minnið mitt og breyta því úr cl 3 í cl 2 og það virðist allavega ekki vera að gera nein vandræði...\n\n\n\nBtw búinn að keyra memtest 1 sinni og engin villa kom. Ætti ég að láta það keyra fleiri en 1 prufu í einu til að prófa þetta betur eða?",
+            "date": "2004-08-15 01:03:00",
+            "post_id": "52074",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Birkir",
+            "text": "Hvað er það nákvæmlega sem þessi timings á vinnsluminnum gera ?",
+            "date": "2004-08-15 01:20:00",
+            "post_id": "52076",
+            "reply_to_id": "52074"
+        },
+        {
+            "user_name": "Takai",
+            "text": "Skoðaðu þetta ... svaraði mínu að hálfu leyti\n\nhttp://www.corsairmemory.com/main/trg-cas.html",
+            "date": "2004-08-15 01:23:00",
+            "post_id": "52078",
+            "reply_to_id": "52076"
+        },
+        {
+            "user_name": "Birkir",
+            "text": "Þakka þér",
+            "date": "2004-08-15 01:24:00",
+            "post_id": "52079",
+            "reply_to_id": "52078"
+        },
+        {
+            "user_name": "Takai",
+            "text": "np en getur enginn svarað upphaflegu spurningunni??",
+            "date": "2004-08-15 03:27:00",
+            "post_id": "52090",
+            "reply_to_id": "52079"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "í 99.9% tilvika er ekki hægt að setja cas lægra en framleiðandinn gefur upp.",
+            "date": "2004-08-16 09:32:00",
+            "post_id": "52207",
+            "reply_to_id": "52090"
+        },
+        {
+            "user_name": "Takai",
+            "text": "Sem sagt gamla noname 512 mb sdram minnið mitt sem að er cl3 og er að keyra á cl2 er 0.1% velgengi?",
+            "date": "2004-08-16 21:54:00",
+            "post_id": "52311",
+            "reply_to_id": "52207"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "nei, það er eitt af þessum 0.1% sem að er hægt að undircasa (hehe \n svona eins og að overclocka)\n\n\n\nég tók bara svoan til orða. það er nefnilega mjööög sjaldgæft ða það sé hægt að seta cas lægra en það á að vera. meiraðsegja þótt maður setji minnið á tvöfaldann straum.",
+            "date": "2004-08-17 08:46:00",
+            "post_id": "52367",
+            "reply_to_id": "52311"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "sko wtf sdram fara ekki svona lágt :O",
+            "date": "2004-08-17 09:56:00",
+            "post_id": "52375",
+            "reply_to_id": "52367"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "einmit. ég hef aldrei heyrt um að einhver hafi náð að downcasa minni svona mikið. það var annars hægt að fá CL2 sdram, en þau eru/voru rándýr",
+            "date": "2004-08-17 09:59:00",
+            "post_id": "52377",
+            "reply_to_id": "52375"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "http://www.computer.is/vorur/4107\n\n\nhttp://www.computer.is/vorur/3478\n\n\nhttp://www.computer.is/vorur/3405",
+            "date": "2004-08-17 10:01:00",
+            "post_id": "52378",
+            "reply_to_id": "52377"
+        },
+        {
+            "user_name": "Takai",
+            "text": "Well it's working for me anyway ... kann ekki að setja inn mynd  \n  þannig að ég get ekki sýnt cpu-z mynd til að sanna en ....",
+            "date": "2004-08-18 00:51:00",
+            "post_id": "52459",
+            "reply_to_id": "52378"
+        }
+    ],
+    "date": "2004-08-15 01:03:00"
+}

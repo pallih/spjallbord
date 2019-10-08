@@ -1,0 +1,37 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "24569",
+    "title": "Bios stillingar v/minni",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=24569",
+    "posts": [
+        {
+            "user_name": "peturm",
+            "text": "Sælir\nÉg var að henda saman vél og keypti OCZ 4GB DDR2 1066MHz Gold\nÞegar ég boot vélinni upp kemur minnið sem 800MHz.\nÉg geri ráð fyrir að ég þurfi að fikta í BIOSnum til að fá þetta í stand? \nVerð annars að játa á mig að ég er tótali lost í öllu þessu \"klukki\"\nAnnars er vélin svona...\nMóðurborð\nGigabyte AM2+/AM3 GA-MA78GM-UD2H móðurborð, ATI3200\nhttp://www.tolvutek.is/product_info.php?products_id=20150\nÖrgjörvi\nAM2+ Athlon X2 Dual Core 7750, Black Edition\nhttp://www.tolvutek.is/product_info.php?cPath=1_5_7&products_id=20040\nVinnsluminni\nOCZ 4GB DDR2 1066MHz (2X2GB) Gold Edition\nhttp://www.tolvutek.is/product_info.php?products_id=19058\nkv,\nPétur Marel",
+            "date": "2009-08-25 11:18:00",
+            "post_id": "216037",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Þarft að breyta dividerum fyrir CPU:DRAM",
+            "date": "2009-08-25 11:34:00",
+            "post_id": "216039",
+            "reply_to_id": "216037"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Eða hækka FSB og yfirklukka þar með örgjörvann.\nAnnars, eins og hann segir hér að ofan, breyta dividernum.",
+            "date": "2009-08-25 17:01:00",
+            "post_id": "216103",
+            "reply_to_id": "216039"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Ekki gleyma að stilla timings og voltin, mitt er 5-5-5-12 @ 2.2v (1000MHz) stock, þegar ég henti því í tölvuna var það 5-5-5-18 @ 1.9v 816 MHz. Held þú getur verið öruggur með að hætta örgjafan um alltaf að 400MHz án þess að þurfa hækka voltin á hann, en misjafnt eftir örgjörvum.",
+            "date": "2009-08-29 06:27:00",
+            "post_id": "216515",
+            "reply_to_id": "216103"
+        }
+    ],
+    "date": "2009-08-25 11:18:00"
+}

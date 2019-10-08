@@ -1,0 +1,163 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "33962",
+    "title": "Shutdown forrit? [Vekjari]",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=33962",
+    "posts": [
+        {
+            "user_name": "Lexxinn",
+            "text": "Veit einhver um shutdown forrit sem ég get stillt þannig að klukkan 7:15 kemur tölvan úr standby og þá startar eithvað lag til að vekja mig?\nEða að eftir 30min þá á að slökknast á henni?\nOg svo framvegis yrði flott ef einhver hefði svona við höndina og gæti sent mér.",
+            "date": "2010-11-23 01:14:00",
+            "post_id": "297338",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Benzmann",
+            "text": "færð þér vekjaraklukku, and then do it yourself....",
+            "date": "2010-11-23 09:12:00",
+            "post_id": "297364",
+            "reply_to_id": "297338"
+        },
+        {
+            "user_name": "Dazy crazy",
+            "text": "Þetta er glatað svar\nVæri alveg til í þetta þar sem að ég sofna yfirleitt við mynd eða þætti í tölvunni og þess vegna er kveikt á henni alla nóttina, væri alveg til í forrit sem myndi bara slökkva á henni. Finnst windows dæmið ekki ganga upp af því að það setur hana ekki í standby ef einhver forrit eru opin.",
+            "date": "2010-11-23 09:22:00",
+            "post_id": "297366",
+            "reply_to_id": "297364"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Googlaðu bara PC Alarm. Nóóg til af hugbúnaði sem gerir þetta.",
+            "date": "2010-11-23 09:25:00",
+            "post_id": "297368",
+            "reply_to_id": "297366"
+        },
+        {
+            "user_name": "lukkuláki",
+            "text": "Veit ekki um forrit sem ræsir vél úr standby en það er oft hægt að stilla BIOS þannig að það kveiknar á vélinni sjálfvirkt\nSvo geturðu bara sett eitthvað lag í startup\nSvo er td. \nAirytec Switch Off\n til að slökkva á henni.",
+            "date": "2010-11-23 09:27:00",
+            "post_id": "297369",
+            "reply_to_id": "297368"
+        },
+        {
+            "user_name": "Black",
+            "text": "http://best.herobo.com/vekjaraklukka/\nþessi kveikir nattulega ekki á vélinni, en virkar allavega",
+            "date": "2010-11-23 09:33:00",
+            "post_id": "297370",
+            "reply_to_id": "297369"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "run > \"shutdown -s -t Xs\" \nx = fjöldi sekúnda, ég nota þetta alltaf, þoli ekki óþarfa forrit.",
+            "date": "2010-11-23 11:18:00",
+            "post_id": "297375",
+            "reply_to_id": "297370"
+        },
+        {
+            "user_name": "Lexxinn",
+            "text": "Svarar samt enganvegin spurningunni minni og tilgangslausasta svar sem ég hefði getað fengið.",
+            "date": "2010-11-23 13:38:00",
+            "post_id": "297389",
+            "reply_to_id": "297375"
+        },
+        {
+            "user_name": "Saber",
+            "text": "http://tinnes.org.uk/shutdown/index.html\n \nÞetta er helvíti handy",
+            "date": "2010-11-23 13:59:00",
+            "post_id": "297391",
+            "reply_to_id": "297389"
+        },
+        {
+            "user_name": "TheThing",
+            "text": "Ég held að þið ættuð báðir að lesa kannski hvað hann er að spyrja áður en þið svarið.\nÉg þekki ekki til að þetta sé hægt hvort heldur sem það er Standby eða Shutdown. Þegar tölva fer í shutdown/standby þá er ekkert forrit í gangi í tölvunni. Það eina sem getur tekið sjálfstæðar ákvarðanir í þannig stöðu er BIOS-inn. Ég hef ekki séð þetta vera hægt í BIOS-num það sem þú ert að biðja um, því miður.\nAllavega þá held ég það eftir minni bestu getu. Ég veit að fartölvan mín kom sjálfkrafa úr standby ef batteríið var lítið og fór í hibernation en ég veit ekki hvort það var BIOS-inn sem kveikti á tölvunni eftir standby eða hvort það var forrit/Windows.\nÞað er hægt að kaupa timer á rafmagnsklóna sem tekur rafmagnið af tölvunni og setur það ekki aftur á fyrr en klukkan X, þá er hægt að stilla BIOS-inn til að kveikja sjálfkrafa á sér við rafmagnsmissi og setja lag í startupið í Windowsinu en það er fyrirhöfn og þá væri alveg eins hægt að kaupa vekjaraklukku (ég býst við að ástæðan fyrir spurningunni er 0 budget). Annars þá held ég að svona timer í rafmagnskló fæst í næstu rafmagnsverslun.",
+            "date": "2010-11-23 15:47:00",
+            "post_id": "297417",
+            "reply_to_id": "297391"
+        },
+        {
+            "user_name": "zedro",
+            "text": "Já það fer nefnilega svaka vel með vélina",
+            "date": "2010-11-23 16:00:00",
+            "post_id": "297420",
+            "reply_to_id": "297417"
+        },
+        {
+            "user_name": "TheThing",
+            "text": "Það er hægt að slökkva á tölvunni áður en þú lætur rafmagnsklóna taka rafmagnið af. Ég man eftir mörgum móðurborðum/BIOS-um sem geta þetta.\n[EDIT]\nÁhugaverður linkur: \nhttp://www.linuxquestions.org/questions ... by-785374/\nÞað er verið að tala um linux stýrikerfi þarna en ferlið sem tölvan fer þegar hún fer í standby/hibernate er þarna lýst og vonandi ætti að gefa þér hugmynd afhverju þetta er svona erfitt.",
+            "date": "2010-11-23 16:16:00",
+            "post_id": "297424",
+            "reply_to_id": "297420"
+        },
+        {
+            "user_name": "DJOli",
+            "text": "Google\nKarenware\nKaren's Alarm Clock\nFrítt Vekjaraklukkuforrit í tölvuna þína\nGetur stillt það til að vekja með tónlist af eigin vali úr tölvunni þinni.",
+            "date": "2010-11-23 17:05:00",
+            "post_id": "297436",
+            "reply_to_id": "297424"
+        },
+        {
+            "user_name": "Frantic",
+            "text": "Það er í BIOS í servernum mínum stilling sem ég stillti svo hún kveikir á sér alltaf kl 11:30.\nStillingin heitir PC Alarm minnir mig. \nSvo geturu notað Scheduled Tasks til að spila lag eða eitthvað og svo aftur til að drepa á tölvunni með batch script \"shutdown -s -f -t 1\"",
+            "date": "2010-11-29 22:58:00",
+            "post_id": "299173",
+            "reply_to_id": "297436"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Það er til foobar plugin fyrir þetta\nHeitir foo_scheduler \ngetur látið það vekja tölvuna úr standby\nEn ef þú vilt láta kvikna á henni aftur þegar það er alveg slökkt á henni þá er held ég wake-on-lan eini möguleikinn.\nÞarft þá líklega aðra tölvu á networkinu til þess að senda power-on skipunina. Hef samt aldrei notað þetta þannig ég get ekki leiðbeint þér með það.\nSvo er það bara shutdown skipunin sem danielinn benti á. Hendir henni bara í .bat fæl og keyrir hann með scheduled tasks.",
+            "date": "2010-11-29 23:26:00",
+            "post_id": "299177",
+            "reply_to_id": "299173"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Ég nota scheduled tasks í CM til að starta windows media player + playlist kl. 7 á morgnana... \nUndir conditions flipanum er svo hægt að stilla á \"wake the computer to run this task\"...\nÞannig að þu þarft bara windows....\nhægrismella a my computer, velja \"manage\"",
+            "date": "2010-11-30 01:10:00",
+            "post_id": "299195",
+            "reply_to_id": "299177"
+        },
+        {
+            "user_name": "Frantic",
+            "text": "Þá skiptir máli að það sé slökkt á tölvunni á réttann hátt. Þ.e.a.s. hibernation eða standby.\nEf það er slökkt á tölvunni þá er ég nokkuð viss um að stýrikerfið geti ekki kveikt á henni.\nÞess vegna er BIOS besti kosturinn til að kveikja á henni ef það er möguleiki.",
+            "date": "2010-11-30 13:52:00",
+            "post_id": "299248",
+            "reply_to_id": "299195"
+        },
+        {
+            "user_name": "Lexxinn",
+            "text": "Okay ég reyndi þetta en svo virðis sem tölvan kveikir ekki á sér þegar að þetta á að runa, kveikir allavegan á playlistanum og allt þegar ég stilli það og hef kveikt á henni.",
+            "date": "2010-11-30 14:10:00",
+            "post_id": "299249",
+            "reply_to_id": "299248"
+        },
+        {
+            "user_name": "Frantic",
+            "text": "Lestu það sem ég skrifaði...\nÞað kviknar ekki á tölvunni nema að hún sé í hibarnate eða standby.\nÞess vegna þarftu að athuga hvort þú ert með þessa PC Alarm stillingu í BIOS. Stillir tímann þar og þá kviknar alltaf á tölvunni þegar þú vilt.",
+            "date": "2010-11-30 14:14:00",
+            "post_id": "299251",
+            "reply_to_id": "299249"
+        },
+        {
+            "user_name": "Lexxinn",
+            "text": "Treysti mér bara ekki að fara fikta í BIOS-num kann ekkert á bios eða neitt tengt því...",
+            "date": "2010-11-30 14:19:00",
+            "post_id": "299252",
+            "reply_to_id": "299251"
+        },
+        {
+            "user_name": "Frantic",
+            "text": "Já ok skil þig. Þá er örugglega best að þú setir tölvuna í hibernate eða standby. Þannig getur þú vakið hana upp með Schedule Tasks.",
+            "date": "2010-11-30 14:21:00",
+            "post_id": "299254",
+            "reply_to_id": "299252"
+        },
+        {
+            "user_name": "Lexxinn",
+            "text": "Já hélt það líka en hún startar sér ekki af hibernate né sleep, standby er ekki option :S",
+            "date": "2010-11-30 14:29:00",
+            "post_id": "299257",
+            "reply_to_id": "299254"
+        }
+    ],
+    "date": "2010-11-23 01:14:00"
+}

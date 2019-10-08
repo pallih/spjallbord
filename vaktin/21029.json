@@ -1,0 +1,37 @@
+{
+    "forum_title": "Windows",
+    "id": "21029",
+    "title": "Vista í Xp",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=21029",
+    "posts": [
+        {
+            "user_name": "omare90",
+            "text": "ég er með eitt stykki Dell Inspiron 1520 sem ég er að reyna að færa úr Vista yfir í XP en þegar ég er að keyra Setupið kemur hún alltaf með þá villubendingu að hún finni enga harða diska á vélinni. C drifið á henni er skipt uppi fjórar partition semsagt , ein recovery , ein fyrir stýrirkerfið og svo tvær sem er ekkert á og ég tók bara eftir þegar ég fór í Disk management . Ef einhver hefur eitthvað ráð fram að færa þá endilega að commenta , ég sjálfur er fresh out of ideas \nKv Ómar :=)",
+            "date": "2009-01-13 15:28:00",
+            "post_id": "193721",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gRIMwORLD",
+            "text": "Þarft hugsanlega að fara í bios og stilla SATA controllerinn í \"Compatible mode\" eða hvað sem það heitir í Dell vélum\nSel það ekki dýrar...en ég hef þurft að gera þetta oft á Lenovo vélum.",
+            "date": "2009-01-13 15:47:00",
+            "post_id": "193723",
+            "reply_to_id": "193721"
+        },
+        {
+            "user_name": "TechHead",
+            "text": "XP uppsetningarálfurinn \"þekkir ekki\" harðadisks stýringuna á móðurborðinu og finnur þarafleiðandi engann harðann disk.\nÞú þarft að verða þér útum USB tengt floppy drif og útbúa floppy disk með reklum til að geta látið XP uppsetninguna auðkenna diskstýringuna í tölvunni.\nSamkvæmt stuttri Google leit þá inniheldur þessi tölva \"Intel 965\" kubbasett og því ættir þú að geta notað þetta tól: \nhttp://downloadcenter.intel.com/Detail_Desc.aspx?agr=Y&ProductID=2800&DwnldID=17269&strOSs=44&OSFullName=Windows*%20XP%20Professional&lang=eng\n til að búa til floppy diskettu með réttu reklunum.\nSvo þegar XP uppsetningarálfurinn er að ræsa upp þá ýtiru á \"F6\" hnappinn í upphafi uppsetningar (stendur neðst á skjánum í byrjun uppsetningar hvort þú viljir hlaða upp auka reklum)\nÞví næst veluru ICHR SATA rekilinn af diskettunni og heldur áfram uppsetningu.",
+            "date": "2009-01-13 17:33:00",
+            "post_id": "193733",
+            "reply_to_id": "193723"
+        },
+        {
+            "user_name": "lukkuláki",
+            "text": "Getur sloppið við það að fá þér floppy drif ef þú ferð í BIOS (F2 í startup) Þegar DELL logoið er.\nVelur þar Onboard devices og svo Flash Cache Module setur það á \nOFF\n síðan ferðu í SATA Operation og velur \nATA\n \nSíðan ætti þetta allt að ganga með XP diskinum.\nEf ekkert gengur þá er þér velkomið að hafa samband ég á 2 svona vélar",
+            "date": "2009-01-13 17:53:00",
+            "post_id": "193736",
+            "reply_to_id": "193733"
+        }
+    ],
+    "date": "2009-01-13 15:28:00"
+}

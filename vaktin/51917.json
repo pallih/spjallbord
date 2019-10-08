@@ -1,0 +1,72 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "51917",
+    "title": "Sickbeard? wtf!",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=51917",
+    "posts": [
+        {
+            "user_name": "inservible",
+            "text": "Er búinn að vera að reyna að setja upp sickbeard á vél hjá mér. Er ekki einhver sem getur sagt mér nákvæmlega hvað ég þarf að gera til að fá þetta \"up and running\" er orðinn svo ringlaður með sabnzbd og usenet að mig vantar sárlega aðstoð janfvel andlega",
+            "date": "2012-12-05 02:30:00",
+            "post_id": "481811",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "hagur",
+            "text": "http://totalhtpc.com/TheCompleteUsenetGuide.pdf\nFarðu eftir þessum guide alveg step by step og þetta mun virka.",
+            "date": "2012-12-05 08:21:00",
+            "post_id": "481815",
+            "reply_to_id": "481811"
+        },
+        {
+            "user_name": "starionturbo",
+            "text": "Ég mæli með að fara Git aðferðina, þeas. setja bara upp python & git á vélina.\ncd C:\\htpc\ngit init\ngit submodule add \ngit://github.com/sabnzbd/sabnzbd.git\n sabnzbd\ngit submodule add \ngit://github.com/midgetspy/Sick-Beard.git\n sickbeard\ngit submodule add \ngit://github.com/RuudBurger/CouchPotatoServer.git\n couchpotato\ngit submodule add \ngit://github.com/rembo10/headphones.git\n headphones\ngit submodule update --init --recursive\nSvo seturðu bara í Schedule task \"git submodule update --recursive\" 1x á viku.\nog shortcut á öll kerfin í Startup folderinn í start menu.\nmbkv,\nBirkir",
+            "date": "2012-12-05 09:00:00",
+            "post_id": "481821",
+            "reply_to_id": "481815"
+        },
+        {
+            "user_name": "inservible",
+            "text": "takk kærlega, er eitthvað sérstakt usenet sem þið mælið með?",
+            "date": "2012-12-05 15:35:00",
+            "post_id": "481874",
+            "reply_to_id": "481821"
+        },
+        {
+            "user_name": "starionturbo",
+            "text": "Það er allur gangur á því, ég nota Giganews því þeir eru með flottann unlimited Diamond prufupakka á $17 sem inniheldur\n - Unlimited monthly access\n - 1583 days rentation\n - 50 connections\n - 256-bit ssl\n - 30GB Dumptruck storage\n - VyprVPN (snilld fyrir netflix etc.)",
+            "date": "2012-12-05 15:42:00",
+            "post_id": "481876",
+            "reply_to_id": "481874"
+        },
+        {
+            "user_name": "cartman",
+            "text": "Ég mæli líka með Giganews, hef verið með Diamond account hjá þeim síðan 2006",
+            "date": "2012-12-05 16:05:00",
+            "post_id": "481886",
+            "reply_to_id": "481876"
+        },
+        {
+            "user_name": "Kristján Gerhard",
+            "text": "www.usenetserver.com\n 10$ á mánuði. Mjög sáttur með þá.\nSent from my GT-N7000 using Tapatalk 2",
+            "date": "2012-12-05 17:39:00",
+            "post_id": "481901",
+            "reply_to_id": "481886"
+        },
+        {
+            "user_name": "Dagur",
+            "text": "Ég er hjá Astraweb og keypti 1000GB á $50. Það dugar mér í a.m.k. eitt og hálft ár",
+            "date": "2012-12-06 10:47:00",
+            "post_id": "482016",
+            "reply_to_id": "481901"
+        },
+        {
+            "user_name": "Oak",
+            "text": "Astraweb er farið að taka óþarflega mikið út hjá sér.\nEinhver þjónusta sem er ekki að henda út?",
+            "date": "2012-12-09 03:11:00",
+            "post_id": "482439",
+            "reply_to_id": "482016"
+        }
+    ],
+    "date": "2012-12-05 02:30:00"
+}

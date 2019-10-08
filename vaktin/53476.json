@@ -1,0 +1,86 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "53476",
+    "title": "660 ti - Display driver stopped responding and has recovered",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=53476",
+    "posts": [
+        {
+            "user_name": "gledigondull",
+            "text": "Sælt veri fólkið\nKeypti mér glænýja tölvu fyrir ca. viku. Langar að biðja ykkur um smá input í vesen sem ég er búinn að vera að lenda í með MSI Geforce 660 ti. Það vill svo til að ég er að fá þann þráláta error \"Display driver nvlddmkm stopped responding and has successfully recovered\" sem er einmitt ástæðan fyrir því að ég skipti í AMD (án vandræða) fyrir 3 árum. Gerist á mjög random tímum. Lýsir sér þannig að skjárinn verður oftast svartur í nokkrar sekúndur, GPU load fer í 100% á meðan og svo poppar upp þessi æðislegi gluggi.\nStundum restartar tölvan sér. Gerist einungis í eldri leikjum eins og WoW og Oblivion, hef ekki ennþá séð þetta í Far Cry 3, Withcer 2 né Borderlands 2 sem allir spilast mjög vel. Ég veit að þetta kort er \"factory overclocked\" og svo virðist sem þetta gerist minna (en gerist samt) ef ég undirclocka skjákortið (með Afterburner) sem er auðvitað ekki eitthvað sem ég á að þurfa að gera. Vil fá það sem ég er að borga fyrir, stefni ekki á að fara að overclocka eða neitt slíkt. Fyndið að þetta gerist í eldri leikjum þar sem er frekar lítið GPU load. Er að nota tvo skjái með sitthvorri upplausninni en það ætti nú varla að skipta neinu.\nÉg hef eytt síðustu 5 dögum í að prufa allskyns lausnir, þar sem skv. Nvidia getur þetta gerst af mörgum ástæðum.\nEr búinn að:\n- Update-a BIOS/chipset og double checka ram timings/voltage og PCI-express stillingar\n- Installa skjákortsdriverum aftur... og aftur... og aftur (t.d. í safe mode með driver fusion)\n- Lengja 2ja sekúnda \"timeout detection (tdr)\" sem windows gefur GPU\n- Runna skjákortstest, t.d. FurMark, og það er ekkert að skjákortinu sjálfu og góður hiti á öllu kerfinu (skrýtið að errorinn komi ekki við 15 mínútna 100% GPU load)\n- CPU test og memory test\n- Cappa fps-ið til að minnka GPU load, gerir ekkert gagn\n- Disable-a HD hljóðið á skjákortinu\n- Ganga úr skugga að PCI Express Link State Power Management sé OFF\n- Fikta í Nvidia Control Panel eins og mörður, ekkert virkar\n- Update-a DirectX\n- Er EKKI búinn að skoða PSU-ið, ekki líklegt samt að það sé að spila inní, en það er glænýtt eins og öll tölvan (og þar sem Furmark gengur endalaust á 100% loadi... ólíklegt)\n- Styttist í það að ég prufi að setja upp windows aftur... finnst þó ólíklegt að það lagi eitthvað til lengri tíma.\nEf einhver hefur lent í þessu og náð að leysa úr því þá væru þeirra innlegg og allra sem hafa einhver ráð vel þegin. \nTölvan:\nMSI Z77A-GD65\nIntel Core i7 3770 3,4 Ghz\nNvidia Geforce GTX 660 ti\nCorsair Vengeance 2x8 Gb, 1600 Mhz\nCorsair HX650 aflgjafi\nCorsair Force GT 120 Gb SSD diskur\nEdit: Er að nota Windows 7 Home Premium",
+            "date": "2013-02-18 09:43:00",
+            "post_id": "496078",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "svensven",
+            "text": "Ertu alltaf búinn að setja upp sama skjákortsdriverinn aftur og aftur ? Ef svo er, þá prufa annan driver.",
+            "date": "2013-02-18 09:55:00",
+            "post_id": "496079",
+            "reply_to_id": "496078"
+        },
+        {
+            "user_name": "Plushy",
+            "text": "Eftir langan tíma af bilanagreiningu var kortið mitt úrskurðað bilað og sent til baka í RMA þegar ég lenti í þessu.",
+            "date": "2013-02-18 12:03:00",
+            "post_id": "496091",
+            "reply_to_id": "496079"
+        },
+        {
+            "user_name": "gledigondull",
+            "text": "Þakka svörin\nSvensven: Ég er búinn að prufa nokkra eldri drivera líka, alltaf það sama.\nPlushy: Ég er einmitt að hafa áhyggjur af því að ég endi á að senda það í bilanagreiningu. Hef allavega gamla ATI kortið á meðan ég bíð ef svo fer. Ætla að demba mér í það í kvöld að prufa gamla PSU-ið og sjá hvernig það fer. \nVar þetta að gerast í öllum leikjum hjá þér eða bara nokkrum?",
+            "date": "2013-02-18 13:24:00",
+            "post_id": "496102",
+            "reply_to_id": "496091"
+        },
+        {
+            "user_name": "Plushy",
+            "text": "Flestum sem notuðu DX11, en á endanum öllum.",
+            "date": "2013-02-18 13:32:00",
+            "post_id": "496104",
+            "reply_to_id": "496102"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Þetta er kortið.\nÉg átti GTX 295 sem lét alltaf svona nema þegar ég disable-aði SLI. Síðan fór það að gerast með SLI desable líka. RMA-aði það og fékk alveg jafn bilað kort til baka! Bara pirrandi.",
+            "date": "2013-02-18 14:18:00",
+            "post_id": "496107",
+            "reply_to_id": "496104"
+        },
+        {
+            "user_name": "Garri",
+            "text": "Varðandi AMD..\nEr einmitt með AMD 6870 í aðal vinnuvélinni og fékk einmitt þessi skilaboð nokkrum sinnum þegar vélin var alveg ný. Var til þess að gera fljótur að sjá að þetta hafði allt með Catalyst forritið að gera, útgáfu 12.xx Henti því út og hef ekki fengið þessi skilaboð síðan.\nÞú ert hinsvegar með NVidia og man ekki eftir að ég hef fengið þessi skilaboð á þeim tölvum sem eru með kort frá þeim (fjórar tölvur) Er með 670, 560 og 440.\nMundi prófa að un-installera alveg öllu og setja bara upp einhvern gamlan róböst driver til að byrja með. Getur gúglað til að sjá hverju menn eru að mæla með fyrir þetta kort. Hef tekið eftir ýmsum smá böggum varðandi nýjustu dræverana frá NVidia. Í sumum eldri leikjum þarf ég að hreyfa músina til að leikurinn haldi áfram osfv.",
+            "date": "2013-02-18 14:18:00",
+            "post_id": "496108",
+            "reply_to_id": "496107"
+        },
+        {
+            "user_name": "gledigondull",
+            "text": "Runnaði Memtest í ca. 12 tíma og það fundust nokkrir errorar. Ætla að prufa eitt minni í einu og sjá hvort þetta haldi áfram. Annars byrja ég líklega á að RMA minnið og sjá hvað gerist eftir það. \nÁstæðan fyrir því að ég held að þetta sé ekki skjákortið er sú að öll GPU stress test eru 100%, það er bara í eldri leikjum sem þetta gerist og mér dettur helst í hug að þeir noti minnið öðruvísi en nýjir leikir.",
+            "date": "2013-02-19 00:37:00",
+            "post_id": "496233",
+            "reply_to_id": "496108"
+        },
+        {
+            "user_name": "Garri",
+            "text": "Mæli sterklega með að þú prófir eins gamlar og róböst útgáfur af NVidia dræverum. \nEr að spila nokkra gamla leiki eins og Command and Conquer, Generals og nú í haust stoppaði leikurinn í annari af fremstu myndum. Svissaði til að byrjaði í Windows með Alt-Tap og svo til baka.. þá hélt hann áfram, en uppgötvaði nú fyrir nokkrum vikum að nóg var að hreyfa músina. Er með 670 kortið í þeirri vél.\nÞetta var ekki að gerast fyrst eftir að ég setti vélina saman. Aðeins eftir að ég uppfærði í nýjustu útgáfur. Útgáfur sem áttu að spila ákveðna leiki hraðar. \nAnnar leikur gekk ekki heldur eftir þá uppfærslu.. var nýrri og við næstu útgáfu var tiltekið að hún mundi laga þann galla. \nGreinilega eitthvað brothætt hjá þessum guttum.",
+            "date": "2013-02-19 01:06:00",
+            "post_id": "496235",
+            "reply_to_id": "496233"
+        },
+        {
+            "user_name": "gledigondull",
+            "text": "http://www.tomshardware.com/news/MSI-GTX-660-670-overvolting-PowerEdition,18013.html\nGæti maður mögulega hafa lent á svona stykki?",
+            "date": "2013-02-19 11:50:00",
+            "post_id": "496265",
+            "reply_to_id": "496235"
+        },
+        {
+            "user_name": "gledigondull",
+            "text": "Mér sýnist vera komin niðurstaða í þetta allt saman. Gallað kort.\nFann gamalt AMD skjákort og prófaði það... allt runnar smooth eins og í sögu (eða... eins smooth og 3ja ára gamalt 10.000 kr. skjákort getur). RMA!\nÆtla að double checka memory timings og volt og runna Memtest eina nótt í viðbót og skoða hvað ég geri við það.\nTakk fyrir hjálpina.",
+            "date": "2013-02-19 14:12:00",
+            "post_id": "496286",
+            "reply_to_id": "496265"
+        }
+    ],
+    "date": "2013-02-18 09:43:00"
+}

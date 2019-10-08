@@ -1,0 +1,72 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "72061",
+    "title": "Music stream service",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=72061",
+    "posts": [
+        {
+            "user_name": "axyne",
+            "text": "Nú þegar spotify og aðrar tónhlöður gera það býsna einfalt að hlusta á tónlist, þá samt langar manni stundum að setja \"plötu á fóninn.\" Eða í aðeins nútímalegra samhengi; spila úr gamla mp3 safninu...\nMig langar að setja upp eitthvað service á serverinn heima svo ég geti nálgast safnið einfaldlega í gegnum web interface í vinnunni.\nEr eitthvað sem þið mælið með ?",
+            "date": "2017-02-05 20:48:00",
+            "post_id": "642703",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Televisionary",
+            "text": "Hvernig stýrikerfi keyrirðu í vinnunni og heima fyrir. Því meira af breytum sem þú gefur því betra svar væri hægt að gefa.\nUndirritaður notaði Vibestreamer lengi vel frá Windows -> Windows (Þarft að nota flash). En þetta virkaði vel. En meðfylgjandi er tengill á grein sem að listar einhver verkfæri sem duga í þetta:\nhttps://www.raymond.cc/blog/create-juke ... -streamer/\nÍ dag nota ég oftast sshfs (FUSE (Filesystem in userspace) til að tengjast netþjóninum og Cmus sem spilara. Spila MP3 og Flac yfir netið hvar sem ég er í heiminum. Linux / OS X / FreeBSD. Með þessu er tengingin við skráakerfið opnað yfir dulkóðaða tengingu (reyndar tvær). Cmus keyrir í textaham og með því nota ég algert lágmark af örgjörva afli sem gerir það að verkum að ég get notað þetta á hvaða vél sem er, allt frá því að vera Raspberry Pi og upp í borðtölvur. En þessi leið er bæði örugg og virkar á allflestum stýrikerfum sem skipta mig máli.\nSSHFS:\nhttps://www.freebsd.org/cgi/man.cgi?que ... /i386+11.3\nCmus:\nhttps://cmus.github.io",
+            "date": "2017-02-05 21:05:00",
+            "post_id": "642705",
+            "reply_to_id": "642703"
+        },
+        {
+            "user_name": "slapi",
+            "text": "Væri örugglega einfaldast að setja bara upp Plex server á serverinn heima og setja music library-ið inn einfalt og gott",
+            "date": "2017-02-05 21:08:00",
+            "post_id": "642707",
+            "reply_to_id": "642705"
+        },
+        {
+            "user_name": "Snorrlax",
+            "text": "Persónulega þá er ég búinn að uploada öllu tónlistasafninu (23þús lög) inn á Google Music (max 50þús lög). \nEr reyndar bara með free útgáfuna og borga svo fyrir Spotify til að streama, nota Spotify yfirleitt. \nGoogle hefur ekkert verið að kippa sér upp við hvaða lög ég hef verið að uploada þar inn á og hef ekki lent í neinu veseni með að streama frá web interface/appinu. \nGoogle Music er með web interface og third party application til að spila á windows. Er reyndar líka með Plex server en hef ekki vanið mig á að nota það til að streama tónlist og það er í rauninni einfaldast sennilegast að seta upp Plex server ef þú villt streama frá tölvu sem þú átt/Plex Cloud svo best sem ég viti",
+            "date": "2017-02-05 21:30:00",
+            "post_id": "642710",
+            "reply_to_id": "642707"
+        },
+        {
+            "user_name": "Vaski",
+            "text": "Ég hef notast við subsonic til að streima tónlist af heimilistölvunni út á netið. Hefur virkað mjög vel.\nhttp://www.subsonic.org/pages/index.jsp",
+            "date": "2017-02-05 22:16:00",
+            "post_id": "642713",
+            "reply_to_id": "642710"
+        },
+        {
+            "user_name": "kizi86",
+            "text": "hef notað subsonic lengi, fær mitt athvæði líka",
+            "date": "2017-02-06 01:19:00",
+            "post_id": "642715",
+            "reply_to_id": "642713"
+        },
+        {
+            "user_name": "nidur",
+            "text": "Plex allan daginn hérna",
+            "date": "2017-02-06 20:22:00",
+            "post_id": "642746",
+            "reply_to_id": "642715"
+        },
+        {
+            "user_name": "russi",
+            "text": "Sælir Subsonic nöllar.\nÁkvað að skoða þetta þar sem þetta er með Sonos supporti, vandamálið sem ég er að lenda í, að til þess að geta notað þetta með því þarf ég að vera með user og premium áskrift.  \nOkay ekkert mál, tími alveg 12$ í smá test og sem ég gerði, þar er heimtað username og leiðbeiningum á Subsonic síðunni er líka talað um það. En mér er fyrirmunað að finna hvar maður býr user til. Eru þið bara að nota þetta Free eða sem Premium? Ef þið notið þetta sem premium látið þið ykkur nægja að nota bara licence key?\nEDIT: Fann útúr þessu, undarlegt allt saman, beðið um email ens vo var það ekki hægt, þegar ég prófaði username sem ég bjó til undir Users, sem virðist vera á yfirborðinu bara á serverinum sjálfum þá tókst þetta",
+            "date": "2017-02-06 22:57:00",
+            "post_id": "642757",
+            "reply_to_id": "642746"
+        },
+        {
+            "user_name": "hfwf",
+            "text": "http://ampache.org/",
+            "date": "2017-02-08 13:19:00",
+            "post_id": "642824",
+            "reply_to_id": "642757"
+        }
+    ],
+    "date": "2017-02-05 20:48:00"
+}

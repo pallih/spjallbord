@@ -1,0 +1,51 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "9645",
+    "title": "gera network drive eða eitthvað",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=9645",
+    "posts": [
+        {
+            "user_name": "Mazi!",
+            "text": "mig langar að gera svona network drive eða eitthvað heima á milli lappans og turnsins hvernig get ég gert drif á milli þeirra???",
+            "date": "2006-01-11 15:17:00",
+            "post_id": "104539",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Andri Fannar",
+            "text": "Map Network Drive thingyið",
+            "date": "2006-01-11 16:12:00",
+            "post_id": "104545",
+            "reply_to_id": "104539"
+        },
+        {
+            "user_name": "urban",
+            "text": "hægri klikkar my computer í annari vélinni og ferð í \"Map network drive\"\n\nvelur þar hvaða drive letter þú vilt og síðan hvaða folder\n\n\n\nverður að passa það að folderinn (diskurinn) sé sheraður í hinni vélinni",
+            "date": "2006-01-11 16:38:00",
+            "post_id": "104551",
+            "reply_to_id": "104545"
+        },
+        {
+            "user_name": "Mazi!",
+            "text": "hvernig geri ég diskinn í vélinni sheraðann???",
+            "date": "2006-01-11 18:26:00",
+            "post_id": "104570",
+            "reply_to_id": "104551"
+        },
+        {
+            "user_name": "urban",
+            "text": "ferð í my computer - hægri klikkar diskinn og ferð í properties - \n\nferð þar í sharing og klikkar þá þarna dæmið sem kemur (viss um að þú skiljir hvað þú ert að gera) - hakar í share this folder on network og líka í allow network users to change my files (ef að þú vilt t.d. getað deletað af disknum)",
+            "date": "2006-01-11 18:43:00",
+            "post_id": "104572",
+            "reply_to_id": "104570"
+        },
+        {
+            "user_name": "Mazi!",
+            "text": "takk þetta virkaði vel er búinn að gera svona network drive en hvernig virka annas þessi flakkar sem maður tengir inná adsl eða eitthvað???",
+            "date": "2006-01-12 09:20:00",
+            "post_id": "104637",
+            "reply_to_id": "104572"
+        }
+    ],
+    "date": "2006-01-11 15:17:00"
+}

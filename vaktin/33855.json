@@ -1,0 +1,37 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "33855",
+    "title": "Shell script vandamál",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=33855",
+    "posts": [
+        {
+            "user_name": "BjarniTS",
+            "text": "Er í smá dútli með að gera shell scriptu sem á að vera menu , og svo á að vera klukka í hægra horninu.\nMenu sem er kominn : \nKóði: \nVelja allt\n#!/bin/sh\necho \"\n### Veldu annaðhvort a - b - c - d - e ###\n• A. Provide a shell prompt\n• B. Print help\n• C. Output an HTML version\n• D. Output a text version\n• E. Exit\n\"\nread answer\ncase $answer in\n    a|A)    echo Þú valdir a;;\n    b|B)    echo Þú valdir  b;;\n    c|C)    echo Þú valdir c;;\n    d|D)    echo Þú valdir d;;\n    e|E)    echo Þú valdir e;;\n      *)    echo Þú valdir ekki a, b ,d or c;;\nesac\nUppskrift/leiðbeiningar um svona klukku sem ég fann á netinu : \nhttp://bashscript.blogspot.com/2010/04/ ... -date.html\nKóði: \nVelja allt\n#!/bin/bash\n# SCRIPT: digclock.sh\n# USAGE:  ./digiclock &\n# PURPOSE: Displays time and date in the top right corner of the\n#          screen using ANSI escape sequences.\n# To stop this digclock use command kill pid.\n################################################################\n#################### VARIABLE DECLARATION ######################\n # To place the clock on the appropriate column, subtract the\n # length of $Time and $Date, which is 22, from the total number\n # of columns\n  Columns=$(tput cols)\n  Startpoint=$(($Columns-22))\n # If you're in an X Window System terminal,you can resize the\n # window, and the clock will adjust its position because it is\n # displayed at the last column minus 22 characters.\n########################### MAIN PROGRAM #######################\n# The script is executed inside a while without conditions.\nwhile :\ndo\n  Time=`date +%r`\n  Date=`date +\"%d-%m-%Y\"`\n  echo -en \"\\033[s\"    #save current screen position & attributes\n  tput cup 0 $Startpoint\n # You can also use bellow one liner.\n # tput cup 0 $((`tput cols`-22))\n # But it is not efficient to calculate cursor position for each\n # iteration. That's why I placed variable assignment before\n # beginning of the loop\n # print time and date in the top right corner of the screen\n  echo -en \"\\033[42m$Time \\033[46m$Date\\033[0m\"\n #restore current screen position & attributes\n  echo -e -n \"\\033[u\"\n #Delay for 1 second\n  sleep 1\ndone\nÞað sem vandamálið felst í er að ég veit ekki hvernig ég get komið þessum menu til að virka og vera með þessari klukku.\nLangar að nota þessa klukku því hún lýtur vel út , en ég get líka notað \"date\" en hvernig breyti ég staðsetningum á hlutum í shell scriptum ? \nMBK\nBjarni",
+            "date": "2010-11-17 12:56:00",
+            "post_id": "296177",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Gætir leyst þetta einhvernveginn svona (hérna geri ég ráð fyrir að þegar notandinn ýtir á a,b,c,d,e þá hoppi hann út úr while lykkjunni)\nKóði: \nVelja allt\n#!/bin/bash\n# Naestu tvaer linur segja til um stadsetningu klukkunar\nColumns=$(tput cols)\nStartpoint=$(($Columns-22))\nwhile :\ndo\n        # Er $answer med eitthvad gildi?\n        if [[ ! -z \"${answer}\" ]] ; then\n                break\n        fi\n  Time=`date +%r`\n  Date=`date +\"%d-%m-%Y\"`\n  # Hreinsa skjainn\n  clear\n  tput sc                  \n #Save the cursor position&attributes\n  tput cup 0 $Startpoint\n # You can also use bellow one liner\n # tput cup 0 $((`tput cols`-22))\n # But it is not efficient to calculate cursor position for each\n # iteration. That's why I placed variable assignment before\n # beginning of the loop.\n # print time and date in the top right corner of the screen.\n  echo -n $Color1$Time $Color2$Date$Normal\n # restore the cursor to whatever was its previous position\n  tput rc\necho \"\n### Veldu annadhvort a - b - c - d - e ###\n. A. Provide a shell prompt\n. B. Print help\n. C. Output an HTML version\n. D. Output a text version\n. E. Exit\n\"\n        # Les inn einn staf, med 1 sec timeout\n        # thetta er i raun \"sleep\" i 1 sec nema einhver stafur kemur inn\n        read -n 1 -t 1 answer\n        case $answer in\n    a|A)    echo Thu valdir a;;\n    b|B)    echo Thu valdir  b;;\n    c|C)    echo Thu valdir c;;\n    d|D)    echo Thu valdir d;;\n    e|E)    echo Thu valdir e;;\n    q|Q)    break;;\n      *)    ;;\n        esac\ndone\necho Erum fyrir utan while lykkjuna",
+            "date": "2010-11-17 13:23:00",
+            "post_id": "296183",
+            "reply_to_id": "296177"
+        },
+        {
+            "user_name": "BjarniTS",
+            "text": "Takk fyrir þetta , er í NET403 í Tækniskólanum og þetta verður lúmskt skemmtilegt þegar maður kemst upp á lagið með þetta.\nÞað að þú skulir hafa listað upp þarna hverja aðgerð það hjálpar mér ennþá betur að skilja efnið..",
+            "date": "2010-11-18 15:35:00",
+            "post_id": "296448",
+            "reply_to_id": "296183"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "Smelltu á okkur ör-screenshoti hvernig þetta lítur út hjá þér.",
+            "date": "2010-11-18 20:08:00",
+            "post_id": "296512",
+            "reply_to_id": "296448"
+        }
+    ],
+    "date": "2010-11-17 12:56:00"
+}

@@ -1,0 +1,93 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "50701",
+    "title": "Clone XP disk yfir á nýjan stærri",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=50701",
+    "posts": [
+        {
+            "user_name": "pddingo",
+            "text": "Komið þið sæl,\nEr er að reyna að clona 160 gig Seagate disk úr PC vél yfir á 500 gig Seagate disk. Er sumsé að stækka diskinn í PC vélinni. Nú bregður svo við að sector size á diskunum erum ekki þeir sömu og vilja þau forrit sem ég hef prófað ekki clona.\nÉg tók 160 diskinn úr vélinni, tengdi hann við Windows 7 vél með USB2 yfir í SATA, tengdi 500 gig diskinn á sama hátt við Windows 7 vélina og reyndi þannig að clona 160 diskinn. Ekkert gekk, prófaði amk. 4 forrit og komst þá að því að stoppið var mismunandi sector size.\nHvaða forrit get ég notað til að klára dæmið?\nRáð vel þegin.\nKv.\nIngólfur",
+            "date": "2012-10-01 22:16:00",
+            "post_id": "469837",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "bAZik",
+            "text": "Getur notað þetta: \nhttp://www.todo-backup.com/download/\n - getur stækkað partitionið þegar þú klónar diskinn.",
+            "date": "2012-10-01 22:18:00",
+            "post_id": "469838",
+            "reply_to_id": "469837"
+        },
+        {
+            "user_name": "playman",
+            "text": "Minnir að Clonezilla geti reddað þessu\nhttp://clonezilla.org/",
+            "date": "2012-10-01 22:20:00",
+            "post_id": "469839",
+            "reply_to_id": "469838"
+        },
+        {
+            "user_name": "Starman",
+            "text": "CloneZilla \nhttp://clonezilla.org/",
+            "date": "2012-10-01 22:26:00",
+            "post_id": "469841",
+            "reply_to_id": "469839"
+        },
+        {
+            "user_name": "addi32",
+            "text": "Ég hef notað mirrorfolder\nhttp://www.techsoftpl.com/backup/\n30 daga trial sem virkar flott... setur bara upp raid in real time.",
+            "date": "2012-10-02 04:15:00",
+            "post_id": "469877",
+            "reply_to_id": "469841"
+        },
+        {
+            "user_name": "diabloice",
+            "text": "Mæli með Macrium Reflect  \nhttp://www.macrium.com/reflectfree.aspx",
+            "date": "2012-10-02 05:48:00",
+            "post_id": "469878",
+            "reply_to_id": "469877"
+        },
+        {
+            "user_name": "Garri",
+            "text": "+1\nLangbesta svona forrit sem ég hef rekist á.",
+            "date": "2012-10-02 07:39:00",
+            "post_id": "469880",
+            "reply_to_id": "469878"
+        },
+        {
+            "user_name": "pddingo",
+            "text": "Takk strákar,\nSendi í gærkvöldi póst til Macrium manna til að spyrja hvort að forritið þeirra styddi cloning milli diska með mismunandi sector size. Verður fróðlegt að sjá hverju þeir svara. \nReyndi HDclone og DriveImage XML og EaseUS Todo Backup. Ekkert af þessum forritum ræður við mismuandi sector size. Er að aðeins spilltur, er vanur makkanum og þar er þetta ekki vandamál, nærð í forrit og clonar, basta, búið mál.\nÞetta getur ekki verið svona mikið vandamál. Það hlýtur að vera algengt að fólk sé að stækka harða diskinn í PC tölvunum sínum.\nKv.\nIngólfur",
+            "date": "2012-10-02 08:56:00",
+            "post_id": "469888",
+            "reply_to_id": "469880"
+        },
+        {
+            "user_name": "pddingo",
+            "text": "Til fróðleiks:\nHi, \nThanks for contacting us. \nUnfortunately we do not support 4k sectors sizes at the moment in time. \nKind Regards, \nMartin Castaldo - Macrium Support \nsupport@macrium.com\n \n________________",
+            "date": "2012-10-02 08:59:00",
+            "post_id": "469889",
+            "reply_to_id": "469888"
+        },
+        {
+            "user_name": "Garri",
+            "text": "Mundi athuga með hvort ekki séu til advanced format forrit sem gætu formatað stóra diskinn í 4k sectors, klóna og breyta síðan sector stærðinni í það sem þú ætlar að nota til framtíðar.. hugsa að 4k sé of lítið fyrir stóra diska og nútíma leshraða hvað hámörkun varðar.",
+            "date": "2012-10-02 09:11:00",
+            "post_id": "469891",
+            "reply_to_id": "469889"
+        },
+        {
+            "user_name": "playman",
+            "text": "Ertu búin að prófa clonezilla?\nÉg hef gert image af littlum disk og fært yfir á stærri, án þess að gera neinar breytingar.\nEDIT:",
+            "date": "2012-10-02 09:20:00",
+            "post_id": "469892",
+            "reply_to_id": "469891"
+        },
+        {
+            "user_name": "pddingo",
+            "text": "Sæll,\nNei, nú verð ég að viðurkenna að CloneZillu hef ég ekki prófað. Næst þegar ég lendi í svona vandræðum þá prófa ég það. Væri fróðlegt að prófa það. Geri það í góðu tómi.\nKv.\nIngólfur",
+            "date": "2012-10-02 09:37:00",
+            "post_id": "469895",
+            "reply_to_id": "469892"
+        }
+    ],
+    "date": "2012-10-01 22:16:00"
+}

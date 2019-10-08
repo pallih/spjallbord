@@ -1,0 +1,30 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "21581",
+    "title": "Hvernig Media Center vél mynduð þið byggja?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=21581",
+    "posts": [
+        {
+            "user_name": "Tesli",
+            "text": "Sælir vaktarar,\nNú þegar ég er búinn að fara í gegn um þó nokkuð marga sjónvarpsflakkara og núna seinast í WD media player, þá hef ég ákveðið að snúa baki í þetta helvítis sjónvarpsflakkara rusl og kaupa mér bara almennilega Media Center vél sem getur spilað allt.\nHvernig vél myndi geta ráðið við stæðstu 1080p myndirnar og gert það fullkomlega?\nÞyrfti að fá að vita hvaða örgjörva/skjákort/móðurborð/minni/disk/lyklaborð/mús og hvernig þið mynduð hafa kassann og bara allt.\nBudget skiptir svosem ekki öllu, bara ekki eitthvað fáranlega dýrt. Ég ætla að hafa kassann við hliðina á sjónvarpinu og hafa lyklaborð og mús á stofuborðinu og jafnvel kaupa einhversskonar fjarstýringu ef það hentar.\nVæri til í hljóðkort sem ég get tengt almennilega við heimabíóið mitt einnig.\nEndilega komið með hugmyndir.\nTakk fyrir",
+            "date": "2009-02-11 18:49:00",
+            "post_id": "197495",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "hagur",
+            "text": "Til að spila 1080p ripp (MKV) myndi ég fá mér mid - highrange Core 2 Duo örgjörva eða AMD örgjörva af svipaðri getu.  Móðurborðið skiptir ekki öllu máli, en hljóðkortin sem eru innbyggð í flest móðurborð í dag duga fínt í þetta, þar sem að hljóðið í þessum MKV rippum er hvort sem er aldrei meira en 5.1 Dolby eða DTS, sem þú nærð vel í gegnum optical eða coaxial digital audio out.\nFlest öll nýleg skjákort eru með hardware acceleration fyrir VC-1 og h.264 þannig að t.d Radeon 38xx eða 4xxx línan dugar fínt.  Þau hafa líka þann kost að vera með HDMI út sem einnig flytur hljóð (en þó aðeins 5.1).  Þannig gætirðu komist upp með að vera aðeins með einn kapal úr tölvunni og í sjónvarp/magnara (ef HDMI stuðningur er til staðar þar).\nÍ sambandi við hardware acceleration á vídjóskrám, þá er einn galli á gjöf njarðar.  Hann er sá að það eru aðeins fáir hugbúnaðarvöndlar sem styðja HWA og eftir því sem ég best veit nærðu því ekki við spilun á t.d MKV skrám.  Þessvegna tel ég að það sé betra að vera með þó nokkuð öflugan örgjörva til að sjá um það.  Ef þú ætlar þér að setja blu-ray drif í vélina og nota t.d Power DVD 8 til að spila blu-ray diska, þá hefur HWA gríðarlega mikið að segja, því Power DVD nýtir það í botn við blu-ray afspilun.  Ég er sjálfur með AMD 4400+ X2 örgjörva og hann er alveg á mörkunum við að ráða við 1080p MKV ripp.  Er samt sem áður með Radeon 3850HD kort sem er með HWA, en það nýtist ekkert við afspilun á slíku efni, heldur lendir allt álagið á örgjörvanum.\nVarðandi minni og aðra hluti, þá myndi ég bara fara í 2gb lágmark.  Við val á kassa/PSU og HDD myndi ég einna helst velja hluti sem eru hljóðlátir.  Það er ekkert meira pirrandi en suðandi tölva þegar maður er að horfa á bíómyndir.  Myndi jafnvel leita að skjákorti með passive kælingu, en þau eru alveg til af þessum kaliber sem ég nefndi áðan.\nVona að þetta hjálpi eitthvað ...",
+            "date": "2009-02-11 20:01:00",
+            "post_id": "197515",
+            "reply_to_id": "197495"
+        },
+        {
+            "user_name": "Allinn",
+            "text": "Örgjörvi:\n \nAMD Phenom X3 Triple-Core 8450\n  = 17.900 kr\nMóðurborð:\n \nGigabyte GA-MA78GM-DS2H\n = 17.860 kr\nVinnsluminni:\n \nDDR2 MDT Twinpacks 2048MB 800Mhz\n = 5.860 kr\nSjónvarpskort:\n \nHauppauge WinTV-HVR-1300 Pci\n = 18.860 kr\nGeisladrif:\n \nSonyNEC Blu-ray Serial-ATA\n = 26.900 kr\nAflgjafi:\n \nZalman 460W aflgjafi hljóðlátur\n = 12.900 kr\nKassi:\n \nAntec Fusion Remote Media Center\n = 29.900 kr\nSamtals:\n 130.180 kr",
+            "date": "2009-02-11 20:50:00",
+            "post_id": "197532",
+            "reply_to_id": "197515"
+        }
+    ],
+    "date": "2009-02-11 18:49:00"
+}

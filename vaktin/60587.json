@@ -1,0 +1,58 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "60587",
+    "title": "Facebook athugasemdir á öðrum síðum",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=60587",
+    "posts": [
+        {
+            "user_name": "bobbson",
+            "text": "Vantar smá ráðleggingar.\nKommentakerfi Facebook er dottið út í Google Chrome hjá mér, þannig að athugasemdir og möguleiki á að skrifa athugasemdir birtast ekki neðan við fréttir á t.d. dv.is og visir.is\nEr búinn að þvælast í gegnum allar stillingar á browser og vírusforriti og get ómögulega fundið hvar ég kveiki á þessu.\nGetur einhver aðstoðað mig með þetta?",
+            "date": "2014-04-19 14:07:00",
+            "post_id": "559709",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Garri",
+            "text": "Setti upp Avast og sama gerðist hjá mér í Firefox.. slökkti á Avast viðbótinni í firefox og við það lagaðist þetta.",
+            "date": "2014-04-19 14:10:00",
+            "post_id": "559711",
+            "reply_to_id": "559709"
+        },
+        {
+            "user_name": "JohnnyRingo",
+            "text": "Ertu með Adblock Plus? Það er fítus í honum að slökkva á öllum social plugins.",
+            "date": "2014-04-19 14:17:00",
+            "post_id": "559713",
+            "reply_to_id": "559711"
+        },
+        {
+            "user_name": "hkr",
+            "text": "Búinn að skoða chrome://plugins/ ?",
+            "date": "2014-04-19 14:36:00",
+            "post_id": "559715",
+            "reply_to_id": "559713"
+        },
+        {
+            "user_name": "Gislinn",
+            "text": "Ég myndi kalla þetta kost frekar en galla.",
+            "date": "2014-04-19 17:30:00",
+            "post_id": "559724",
+            "reply_to_id": "559715"
+        },
+        {
+            "user_name": "bobbson",
+            "text": "Þetta gerist bara í Chrome, virkar fínt í Explorer og Firefox. Búinn að skoða plugins og extensions, búinn að fjarlæga Avast plugin. Ekkert lagast enn. Er að verða dáldið pirraður á þessu. Meira að segja búinn að installa nýju Google Chrome.",
+            "date": "2014-04-19 17:50:00",
+            "post_id": "559726",
+            "reply_to_id": "559724"
+        },
+        {
+            "user_name": "bobbson",
+            "text": "Ok, lagaði það.\nChrome Settings > Privacy > Clear browsing data",
+            "date": "2014-04-19 22:41:00",
+            "post_id": "559742",
+            "reply_to_id": "559726"
+        }
+    ],
+    "date": "2014-04-19 14:07:00"
+}

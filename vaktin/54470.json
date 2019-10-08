@@ -1,0 +1,44 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "54470",
+    "title": "Tengja Tv við ljósleiðara.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=54470",
+    "posts": [
+        {
+            "user_name": "IL2",
+            "text": "Smápæling hérna hjá mér. Hvor er betra að tengja sjónvarp beint í ljósleiðarabox eða ljósleiðabox/router/Tv?\n \nÖnnur pæling. Get ég verið bara eina eina lan snúru að sjónvarpinu og sviss þar sem tengist í afruglaran og sjónvarpsflakkara?",
+            "date": "2013-04-14 12:04:00",
+            "post_id": "505341",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Sú snúra sem tengist í TV port hjá þér er á sér VLANi og ber því bara IPTV straum. Þ.e. þú getur ekki tengt snúru úr TV porti yfir í sviss og nettengt tæki á þeim sviss.",
+            "date": "2013-04-14 12:10:00",
+            "post_id": "505342",
+            "reply_to_id": "505341"
+        },
+        {
+            "user_name": "einarth",
+            "text": "Sér snúru fyrir afruglara og sér snúru fyrir flakkara,tv,annað internet tengt dót...\nHeld að öll sjónvörp virki fínt bakvið router og því líklega best að tengja það þannig - annars er það opið útá internetið með engan eldvegg fyrir framan sig.\nKv, Einar.",
+            "date": "2013-04-14 13:37:00",
+            "post_id": "505360",
+            "reply_to_id": "505342"
+        },
+        {
+            "user_name": "kizi86",
+            "text": "líka hægt að splitta cat5 snúru í tvær, \nhttp://www.cabling-design.com/images/split_cable.gif",
+            "date": "2013-04-14 15:09:00",
+            "post_id": "505396",
+            "reply_to_id": "505360"
+        },
+        {
+            "user_name": "IL2",
+            "text": "AntiTrust  Ertu þá að meina TV portið á ljósleiðaraboxinu?\neinarth     Ég kem bara einni snúru að TV. Skiptir það máli hvort sjónvarpið/afruglarinn sé  með eldvegg?\nÍ sjálfu sér skiptir þetta engu máli. Það er ekkert mál að setja efni inn á flakarann með USB þegar á þarf að halda.",
+            "date": "2013-04-14 18:18:00",
+            "post_id": "505454",
+            "reply_to_id": "505396"
+        }
+    ],
+    "date": "2013-04-14 12:04:00"
+}

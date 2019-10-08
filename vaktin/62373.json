@@ -1,0 +1,30 @@
+{
+    "forum_title": "Þjónusta / Viðgerðir",
+    "id": "62373",
+    "title": "hjálp skjakortsvandamál",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=13&t=62373",
+    "posts": [
+        {
+            "user_name": "destinydestiny",
+            "text": "application install : install package failure er með amd  skjákort er að bilast !!",
+            "date": "2014-09-10 18:48:00",
+            "post_id": "572935",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "svanur08",
+            "text": "Uninstallaðu drivernum og notaðu svo þetta ----> \nhttp://www.guru3d.com/files-details/dis ... nload.html\nOg prufaðu svo aftur.",
+            "date": "2014-09-10 21:08:00",
+            "post_id": "572947",
+            "reply_to_id": "572935"
+        },
+        {
+            "user_name": "Hnykill",
+            "text": "Downloadaðu þessu.. \nhttp://www.guru3d.com/files-details/amd ... -august-12\n)-download.html\nExtractaðu þessu einhvern staðar þar sem þú manst eftir þessu.\nHægri klikkaðu á \"my Computer\" ..farðu í \"Device Manager\" flipann þar, þaðann í display Adapters og hægri klikkaðu á skjákortið þitt þar og veldu \"update Driver Software\".. veldu þar neðri kostinn.. s.s \"Browse my computer for driver software\" og bentu á staðinn þar sem þú extractaðir Driverunum og þá er þetta komið.  \n \nVeit ekki af hverju þetta er nauðsynlegt hjá sumum, en því miður er þetta bara svona :/ ..en þetta virkar, svo give it a go",
+            "date": "2014-09-11 09:47:00",
+            "post_id": "572989",
+            "reply_to_id": "572947"
+        }
+    ],
+    "date": "2014-09-10 18:48:00"
+}

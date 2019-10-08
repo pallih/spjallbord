@@ -1,0 +1,65 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "9098",
+    "title": "ATI X800 PRO",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=9098",
+    "posts": [
+        {
+            "user_name": "Gestir",
+            "text": "Jæja.\n\n\n\nÉg er með svona kort AGP.. ferlega sáttur enda súperkort.\n\n\n\nÉg hef verið að skoða þetta á netinu og sé að það munar sáralitlu á þessu korti og t.d 6800 ULTRA.. believe it or not \n \nhttp://www.tomshardware.com\n\n\n\n\n\n\nEn hvernig get ég virkt þessar auka 4 pípur á kortinu mínu. Það er 12 pípna kort en það er víst hægt að modda það þannig að þessar 4 kicka inn.  Ef ég fæ það í gegn þá er ég með held ég alveg jafn powerfull kort og 6800 Ultra \n\n\n\n\ntreystir sér einhver í þetta ??",
+            "date": "2005-11-24 11:53:00",
+            "post_id": "97798",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gnarr",
+            "text": "Það er mjög líklegt að þessar 4 auka pípur séu bilaðar. Þú gætir kanski komist framhjá því með því að minka klukkurhaðann eitthvað.\n\n\n\nAnnars eru til driverar sem að aflæsa þessum pípum. byrjaðu á að prófa það áður en þú flashar, svo að þú lendir ekki í að vera með einhvern helling af artifacts og læti.",
+            "date": "2005-11-24 11:59:00",
+            "post_id": "97800",
+            "reply_to_id": "97798"
+        },
+        {
+            "user_name": "Gestir",
+            "text": "viltu þá gjöra svo vel að finna þessa drivers sem unlocka pípurnar...\n\n\n\nfyrir hvað er ég að borga þér... Þú ert TechSupporterinn minn \"Dreeng\"",
+            "date": "2005-11-24 13:31:00",
+            "post_id": "97807",
+            "reply_to_id": "97800"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "Er þetta vandamál sem Síminn Telecom ræður ekki við?\n\n\n\n\n\n\n\n\n\nWorking on it... \n\n\n\n\n*edit* Frá hvaða framleiðanda er kortið?",
+            "date": "2005-11-24 13:41:00",
+            "post_id": "97808",
+            "reply_to_id": "97807"
+        },
+        {
+            "user_name": "Gestir",
+            "text": "Þetta mun vera frá \nPowerColor \n...\n\n\n\n\n\nEitthvað sem ég ætlaði aldrei að treysta fyrr en litla viðrinið hann HHallur prangaði upp á mig  \n\n\n\n\n\n\n..hehe    no hard feelings",
+            "date": "2005-11-24 13:49:00",
+            "post_id": "97810",
+            "reply_to_id": "97808"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "er það með ViVo ?",
+            "date": "2005-11-24 13:51:00",
+            "post_id": "97811",
+            "reply_to_id": "97810"
+        },
+        {
+            "user_name": "Gestir",
+            "text": "Æjjii... Shit ... það veit ég ekki ..\n\n\n\n\n\nHallur ætti að vita það .. Hann borgaði rúm 40.k í fyrrahaust fyrir þetta kort.. Það ætti að vera með öllu hugsa ég",
+            "date": "2005-11-24 13:52:00",
+            "post_id": "97812",
+            "reply_to_id": "97811"
+        },
+        {
+            "user_name": "Yank",
+            "text": "Þetta er að öllum líkindum ekki hægt nema kortið sé X800 Pro VIVO en þau fyrstu komu á markaðin þannig. Þ.e. nákvæmlega sama hardware og X800 XT PE með 1,6 ns minni.\n\n\n\nÞað er hægt að virkja síðustu 4 piplines í þeim með því að flash bios. \n\nSíðan fór ATI að laser cut á piplines og þá varð þetta nánast ómögulegt eða allavega mun erfiðara. Einnig voru þau kort með 2,0 ns minni, sem þolir tælplega XT PE tíðni.\n\n\n\nEf þú ert svo heppin að vera með vpu sem er ekki með laser cut á piplines en óheppinn að vera með 2,0 ns minni þá ættir þú að geta modað bios þannig að kortið keyri t.d. 520 core og 500 á minninnu eins og 2,0 ns á að þola.\n\n\n\nhttp://www.google.com/search?hl=is&q=80 ... =Leita&lr=",
+            "date": "2005-11-26 11:35:00",
+            "post_id": "98016",
+            "reply_to_id": "97812"
+        }
+    ],
+    "date": "2005-11-24 11:53:00"
+}

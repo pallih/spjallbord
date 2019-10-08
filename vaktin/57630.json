@@ -1,0 +1,58 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "57630",
+    "title": "Plex og heimabíó",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=57630",
+    "posts": [
+        {
+            "user_name": "Farcry",
+            "text": "Buin að vera með xbmc í nokkurn tíma langar að prófa Plex, margir að lofsyngja það\nÞetta er mitt plex setup. Tölva í undirskrift sem server , Acer revo rl70 sem media center i stofu windows 7, hdmi úr tölvu í sjónvarp og optical úr tölvu í heimabíó. Apple tv 2 inn í herbergi.\n      Xbmc virkaði þannig að ég gat notað hátalarana í sjónvarpinu þegar ég var að horfa á þætti og annað sem er i 2.0 stereo og þegar ég vildi horfa á mynd með DTS hljóði þá kveikti ég bara á magnaranum og xbmc sendi þá hljóðið út um optical snúruna. \n      Það eru tvær stillingar í xbmc, \"audio out\" stillti það á HDMI og \"audio passthrough\" Stillti það á digital optical out.\nGet ekki fengið plex til að gera þetta fyrir mig, þarf annað hvort að stilla á HDMI og nota bara sjónvarpið eða optical og hafa alltaf kveikt á magnaranum.\nEinhver sem gæti aðstoðað mig í þessu",
+            "date": "2013-10-12 00:57:00",
+            "post_id": "533037",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Hugsanlega er þessi function ekki í boði í gamla Plex appinu, sem er offical og frítt. Til þess að fá þetta function þarftu að vera með Plex for Home Theater, sem er ennþá í beta og bara í boði fyrir þá sem eru með Plexpass, sem kostar skitna 5$ á mánuði.",
+            "date": "2013-10-12 02:23:00",
+            "post_id": "533053",
+            "reply_to_id": "533037"
+        },
+        {
+            "user_name": "Hrotti",
+            "text": "Ég nota bæði plex og xbmc, en plex nota ég eingöngu fyrir tæki sem að þurfa transcoding (síma ofl). Ég get ekki ímyndað mér að þú græðir nokkuð á því að nota plex við sjónvarpið hjá þér fyrst að þú ert með pc í afspilun.",
+            "date": "2013-10-12 12:09:00",
+            "post_id": "533068",
+            "reply_to_id": "533053"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Library syncið, watched status, resume functions á milli tækja, Shared content.. en þetta er svosem allt og sumt. En eftir að PHT kom þá er fátt sem XBMC hefur playback wise umfram, en er miklu stillanlegra, og leiðinlega lítið til af themes fyrir Plexið. Það er líka til ágætis millileið, PleXBMC pluginið.",
+            "date": "2013-10-12 12:54:00",
+            "post_id": "533072",
+            "reply_to_id": "533068"
+        },
+        {
+            "user_name": "Hrotti",
+            "text": "Library syncið og watched status er tvíeggja sverð á mínu heimili þar sem að ég er með 4 börn, hvert með sitt herbergi og afspilunartæki. Þannig að það hentar mér vel að hvert xbmc setup haldi utan um þessa hluti.  Mér hefur líka ekki þótt plex nærri jafn stöðugt og responsive, en það getur svosem verið setupinu hjá mér að kenna.\nVarðandi PHT þá þekki ég það ekki, hef bara notað fríu útgáfuna. Er PHT með jafn öflugt audio engine og xbmc?",
+            "date": "2013-10-12 15:14:00",
+            "post_id": "533096",
+            "reply_to_id": "533072"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "PHT er byggt á XBMC 12, styður þar með alla nýlegri staðla, multichannel LPCM, TrueHD, DTS-HD etc.",
+            "date": "2013-10-12 18:56:00",
+            "post_id": "533126",
+            "reply_to_id": "533096"
+        },
+        {
+            "user_name": "Farcry",
+            "text": "Takk fyrir svörin, ég á eftir að fikta meira i plex , reyndar gerir xbmc allt fyrir mig sem ég þarf, eins virkar fjarstýringin sem kom með sjónvarps tölvunni mjög vel með xbmc, ekki eins vel með Plex.",
+            "date": "2013-10-12 19:17:00",
+            "post_id": "533129",
+            "reply_to_id": "533126"
+        }
+    ],
+    "date": "2013-10-12 00:57:00"
+}

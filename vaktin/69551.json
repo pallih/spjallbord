@@ -1,0 +1,44 @@
+{
+    "forum_title": "Þjónusta / Viðgerðir",
+    "id": "69551",
+    "title": "Vantar smá aðstoð.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=13&t=69551",
+    "posts": [
+        {
+            "user_name": "salisali778",
+            "text": "Er ný búin að setja saman tölvu og hún vill post'a 3 sinnum áður en hún bootar í windows. Innihald þessara tölvu er í undirskrift. Endilega koma með uppástungur og pælingar. Öll aðstoð vel þegin.",
+            "date": "2016-05-28 01:03:00",
+            "post_id": "624480",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "slapi",
+            "text": "Ég hef lent í svona svipuðu , þá reyndi tölvan að boota af prentara sem tengdur var við tölvuna (hvaða USB tæki sem er með eitthvað storage getur valdið þessu). Prófaðu að slökkva á USB boot eða færa það aftar í röðina og sjáðu hvað gerist.",
+            "date": "2016-05-28 06:36:00",
+            "post_id": "624482",
+            "reply_to_id": "624480"
+        },
+        {
+            "user_name": "baldurgauti",
+            "text": "Eða bara setja harðadiskinn/ssdinn sem er með windowsinu í boot order #1?",
+            "date": "2016-05-29 12:15:00",
+            "post_id": "624540",
+            "reply_to_id": "624482"
+        },
+        {
+            "user_name": "salisali778",
+            "text": "Vel bara primary boot drive. Er ekkert order og m.2 er þar.   Enn fæ èg 3 bios screens áður en hún fer í windows.  Gtx 670 í boði fyrir þann sem kemur með lausnina",
+            "date": "2016-06-02 07:07:00",
+            "post_id": "624792",
+            "reply_to_id": "624540"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Kem hér með nokkra punkta, sumir hljóma kannski of vitlausir og eitthvað sem þú ert búinn að prófa, en okay...\n1. Búinn að prófa að setja factory settings á BIOS/clear CMOS?\n2. Tengist 1, en ertu nokkuð að yfirklukka örgjörvann?\n3. Búinn að prófa að keyra með sitt hvorum stökum minniskubb?\n4. Búinn að prófa að taka allar USB græjur úr sambandi?\n5. Getur prófað að stilla á XMP profile á minninu ef tölvan er ekki að skynja og stilla það rétt strax í upphafi... eða taka XMP profile af ef hann er sjálfkrafa valinn (ætti ekki að vera).\n6. Ef ekkert af ofantöldu hefur virkað, búinn að prófa að uppfæra BIOS?",
+            "date": "2016-06-02 09:02:00",
+            "post_id": "624796",
+            "reply_to_id": "624792"
+        }
+    ],
+    "date": "2016-05-28 01:03:00"
+}

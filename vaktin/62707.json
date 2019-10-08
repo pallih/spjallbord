@@ -1,0 +1,107 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "62707",
+    "title": "Scrape-a Vínbúðina.is",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=62707",
+    "posts": [
+        {
+            "user_name": "gosi",
+            "text": "Er einhver góður í python og kann að búa til forrit sem scrapar Vínbúðina.\nVar að reyna með scrapy en síðan þeirra er svo flókin að ég skildi það ekki almennilega.",
+            "date": "2014-10-04 17:20:00",
+            "post_id": "575947",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Frantic",
+            "text": "Ég myndi byrja að prófa að lúppa í gegnum id dótið hjá þeim.\nhttp://www.vinbudin.is/DesktopDefault.a ... ID=???????\n?\nAthuga hvort þú getir ekki náð öllu með því að byrja á 0 og enda á 100000.\nÞarf þá að passa að scrape-a ekki þegar engar upplýsingar koma fram.\nHef sama og ekkert gert í python þannig ég get ekki hjálpað þér með hvaða tól þú gætir notað.\nVonandi einhver annar sem getur svarað því.",
+            "date": "2014-10-04 17:54:00",
+            "post_id": "575953",
+            "reply_to_id": "575947"
+        },
+        {
+            "user_name": "dori",
+            "text": "Skoðaðu beautiful soup ef þú vilt parsa html með python. Þetta scripy virkar samt rosa einfalt líka (þarft basically bara að skilgreina hvernig þetta liggur en lítið sem ekkert boilerplate). Getur prófað að nota \nhttps://www.kimonolabs.com/\n, það er voða fínt svona hýst lausn til að skrapa hluti af vefnum.\nHvað er það sem þú ert að reyna að gera nákvæmlega?",
+            "date": "2014-10-04 18:42:00",
+            "post_id": "575958",
+            "reply_to_id": "575953"
+        },
+        {
+            "user_name": "gosi",
+            "text": "Mig langar bara að prófa að scrapa þessa síðu því mér finnst hún svo óaðgengileg eitthvað. Ýmislegt sem hægt væri að laga hjá þeim.\nLangar þá að tengja nokkra hluti saman um hina ýmsu drykki en síðan er svo illa gerð að það verður eitthvað flókið",
+            "date": "2014-10-04 19:48:00",
+            "post_id": "575963",
+            "reply_to_id": "575958"
+        },
+        {
+            "user_name": "gosi",
+            "text": "Það þarf annars ekkert að vera í python, jafnvel nodes eða einhverju öðru sem keyrist á linux",
+            "date": "2014-10-04 20:49:00",
+            "post_id": "575972",
+            "reply_to_id": "575963"
+        },
+        {
+            "user_name": "dori",
+            "text": "Ég á samt við hvað þú ætlar að gera. Nánari útlistun á því hvað þetta forrit sem þú ætlar að gera gerir.\nViltu bara betra yfirlit yfir hvað er til og hvað það kostar? Eitthvað annað og hvað þá? Eru upplýsingarnar í listanum nóg eða er eitthvað sem er bara á \"detail síðunni\" sem þig vantar?\nErtu bara að hugsa um eitthvað til heimanota eða eitthvað sem fleiri en þú myndir nota? Skiptir allt máli upp á hvað borgar sig að eyða miklu tíma í þetta.",
+            "date": "2014-10-04 21:17:00",
+            "post_id": "575978",
+            "reply_to_id": "575972"
+        },
+        {
+            "user_name": "gosi",
+            "text": "Já ég myndi vilja betra yfirlit. Þetta ætti nú að vera til heimanota. T.d. að leita og fletta finnst mér vera lélegt.\nStundum þegar ég er að skoða og fletti á næstu síðu, as in númerin neðst, þá vill stundum síðan fara á heildaryfirlit yfir drykki.\nÞað pirrar mig þegar mig vantar upplýsingar. Líka sendir síðan javascript í númerunum neðst.\nÞessi kimonolabs.com er helvíti góð. Þakka þér fyrir þær upplýsingar",
+            "date": "2014-10-04 21:35:00",
+            "post_id": "575981",
+            "reply_to_id": "575978"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Ef þú ert að fara að smíða scraper fyrir þetta, þá auðvitað býrðu til apis.is scraper og gerir þetta svo aðgengilegt fyrir alla þar ;-)\nhttps://github.com/kristjanmik/apis#add ... w-endpoint",
+            "date": "2014-10-04 21:52:00",
+            "post_id": "575984",
+            "reply_to_id": "575981"
+        },
+        {
+            "user_name": "gosi",
+            "text": "Nauh þetta er sniðugt. Já ég kannski geri það.",
+            "date": "2014-10-04 22:19:00",
+            "post_id": "575988",
+            "reply_to_id": "575984"
+        },
+        {
+            "user_name": "starionturbo",
+            "text": "Eins mikið og ég elska að scrape-a, þá er hræðilega leiðinlegt að skrapa .NET doPostBackOjbara virkni með __VIEWSTATE.",
+            "date": "2014-10-23 14:57:00",
+            "post_id": "578046",
+            "reply_to_id": "575988"
+        },
+        {
+            "user_name": "davida",
+            "text": "Heyheyhey, my time to shine! Ég skrifaði litla skriftu til að gera akkúrat þetta og notaði til þess CasperJS og phantomJS. Þetta er allt á github og er að sjálfsögðu alveg mega nastí \"þarf bara að fá þetta til að virka einu sinni\" skriftukóði  , engin ábyrgð tekin etcetc \n. \nÞú getur tékkað á þessu á \nhttps://github.com/davidarnarsson/boozefind\n . Eflaust pínu hausverkur að fá þetta til að virka. Þetta er líka + árs gamalt svo það getur vel verið að þetta brotni á móti síðunni í dag, ef einhverjar breytingar hafa orðið á henni. \nLeitarvélin sjálf er uppsett á booze.axlabond.in . Þetta var nú bara smá parser flipp.",
+            "date": "2014-10-23 15:28:00",
+            "post_id": "578051",
+            "reply_to_id": "578046"
+        },
+        {
+            "user_name": "rango",
+            "text": "NodeJS",
+            "date": "2014-10-23 19:59:00",
+            "post_id": "578069",
+            "reply_to_id": "578051"
+        },
+        {
+            "user_name": "gosi",
+            "text": "Já!!! Svakalegt. Fer þetta semsagt á leitarsíðuna og kannar allar product og fer svo á næstu síðu?",
+            "date": "2014-10-31 16:51:00",
+            "post_id": "578678",
+            "reply_to_id": "578069"
+        },
+        {
+            "user_name": "davida",
+            "text": "Jebb, ef ég man rétt þá eru þetta 2 skriftur, ein til þess að taka inn vörurnar, og svo önnur til að scrapea details fyrir hverja vöru fyrir sig.",
+            "date": "2014-11-02 22:18:00",
+            "post_id": "578867",
+            "reply_to_id": "578678"
+        }
+    ],
+    "date": "2014-10-04 17:20:00"
+}

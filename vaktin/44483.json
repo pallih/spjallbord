@@ -1,0 +1,114 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "44483",
+    "title": "Hvaða hugbúnað fyrir skemmdan HDD?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=44483",
+    "posts": [
+        {
+            "user_name": "Selurinn",
+            "text": "Sælir,\nÉg er með 2tb fullan disk sem hefur tekið uppá því að vera frekar freðinn eftir áramót og koma stundum skemmtileg hljóð úr honum.\nEngin \"ticks\" en það hljómar eins og að hann sé stöðugt að breyta um hraða kemur svo mismikill víbríngur úr honum.\nHann getur verið 5 min að koma fram í stýrikerfinu og svo er hægt að skoða allt efnið inná honum. Reyndar virkar ekki að streama video beint af honum líklega að því að hann nær ekki að lesa nógu hratt af honum.\nÉg að sjálfsögðu beintengdi diskinn við vél og ætlaði að fá allt efnið yfir á annan 2TB disk sem ég á. Spurningin er hver er besti hugbúnaðurinn fyrir þetta.\nÉg prófaði KillCopy sem ég hef nú alltaf talið ágætt en hann vildi ekki komast í gegnum þennan process og fraus áður en komið var í 1% af gögnunum.\n(Hann var búinn að vera á sama stað í marga tíma svo ég er alveg pottþéttur á að hann var búinn að gefa upp öndina á verkefninu)\nÉg hef prufað nokkur recovery forrit en það virðast bara vera möguleikar að færa gögn sem hafa verið eytt út af disknum sem er ekki vandamálið í mínu tilfelli.\nHvaða hugbúnaður væri solid undir þetta.",
+            "date": "2012-01-02 20:24:00",
+            "post_id": "409322",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "copy paste í stýrikerfinu?",
+            "date": "2012-01-02 20:29:00",
+            "post_id": "409328",
+            "reply_to_id": "409322"
+        },
+        {
+            "user_name": "kubbur",
+            "text": "teracopy",
+            "date": "2012-01-02 20:58:00",
+            "post_id": "409333",
+            "reply_to_id": "409328"
+        },
+        {
+            "user_name": "gardar",
+            "text": "rsync",
+            "date": "2012-01-02 20:59:00",
+            "post_id": "409335",
+            "reply_to_id": "409333"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Veistu hvort Teracopy hoppar yfir bad sector ef það detectar slæman sector á disknum sem verið er að flytja gögnin af eða hægist á gagnaflutningnum og Teracopy reynir að lesa sectorinn 10 sinnum líkt og windows gerir?\nEdit gat lesið þetta beint af síðunni þeirra  \n \nhttp://codesector.com/teracopy",
+            "date": "2012-01-02 21:08:00",
+            "post_id": "409338",
+            "reply_to_id": "409335"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Teracopy sá allar skrárnar síðan þegar átti að koma að því að færa gerðist ekkert.\nPlease.....",
+            "date": "2012-01-02 21:19:00",
+            "post_id": "409341",
+            "reply_to_id": "409338"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Hljómar ekkert voðalega vel þetta mál  \n  ,spurning ef þetta eru mikilvæg gögn að fara á verkstæði sem notast við eitthvern Data recovery búnað til að færa bitana og byte-in yfir á nýjan disk.",
+            "date": "2012-01-02 21:25:00",
+            "post_id": "409342",
+            "reply_to_id": "409341"
+        },
+        {
+            "user_name": "kubbur",
+            "text": "prufaðu clonezilla, það er linux stýrikerfi sem getur tekið og clonað diska, bæði yfir á annan disk eða sem image file",
+            "date": "2012-01-02 21:27:00",
+            "post_id": "409344",
+            "reply_to_id": "409342"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Acronis hefur alltaf virkað ágætlega fyrir mig það bíður uppá að clone-a diskinn Sector by sector sem er í rauninni valmöguleikinn sem þú ættir að velja en get ekki lofað 100 % árangri þar sem þetta hljómar soldið spooky miðað við fyrri tilraunir þínar.",
+            "date": "2012-01-02 21:53:00",
+            "post_id": "409349",
+            "reply_to_id": "409344"
+        },
+        {
+            "user_name": "playman",
+            "text": "TestDisk \nhttp://www.cgsecurity.org/wiki/TestDisk\nog\nPhotorec \nhttp://www.cgsecurity.org/wiki/PhotoRec\nhafa alltaf reynst mér vel, en þetta eru mjög öflug forrit þannig að þú skalt lesa þér til um áður en þú notar þau.\nEins mæli ég sterklega með Hiren's boot CD, veit ekki hvað hann hefur oft bjargað mér\nHefur möguleika allt frá mini WinXP til linux boot up möguleikum\násamt frá RAM test til HDD complete wipe, malware removal og password reset.\nhttp://www.hiren.info/pages/bootcd",
+            "date": "2012-01-02 23:48:00",
+            "post_id": "409374",
+            "reply_to_id": "409349"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Diskurinn hefur nú tekið uppá því að koma einungis fram í Device Manager sem diskur án drivers. Sér hann í BIOS en kemur ekkert fram í disk management.\nLét forrit að nafni HDAT2 af Hiren fara yfir diskinn þegar hann sá hann og hann pípaði stanslaust að það væru bad sectorar allstaðar.\nDiskurinn er líka stanslaust að koma með einhversskonar píp úr sér, ég held ég sé búinn að leggja árar í bát.\nTakk samt drengir.",
+            "date": "2012-01-03 17:25:00",
+            "post_id": "409533",
+            "reply_to_id": "409374"
+        },
+        {
+            "user_name": "kjarrig",
+            "text": "Um seint og síðir, var að sjá þetta, ég lenti í sector-vandræðum með disk, fann forrit HDD Regenerator \nhttp://www.dposoft.net/\n, þetta djöflaðist á disknum í nokkra klukkutíma (bara 640GB disk), en hann hefur ekki slegið feilpúst eftir þetta.",
+            "date": "2012-01-17 15:24:00",
+            "post_id": "413431",
+            "reply_to_id": "409533"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "HDDRegenerator virkar og það meira að segja svínvirkar en ef að diskurinn er mikið skemmdur mátti búast við að forritið sé nokkra daga að naga sig í gegnum þetta (daga ekki klukkutíma)",
+            "date": "2012-01-17 15:35:00",
+            "post_id": "413432",
+            "reply_to_id": "413431"
+        },
+        {
+            "user_name": "Garri",
+            "text": "Ég mundi ekki djöflast svona á honum.\nGeri fastlega ráð fyrir að þú sért búinn að prófa að aftengja diskinn og tengja aftur, hef lent í \"fölskum\" eða \"losaralegum\" tengingum. (síðast í fyrradag, þegar ég hélt að boot strappið hefði þurkast út af SSD diski sem ég er með við gamla leikjatölvu sem ég var að djöflast í með að tengja við tvo áður reidaða 500GB diska, S-ATA tengið hafði náð að losna án þess að ég tæki eftir því, er pikkfast við móðurborðið).\nEf gögnin eru verðmæt og þú átt ekki afrit, þá skaltu kaupa þér eins disk, taka af honum stýrispjaldið nota við þennan í staðinn. Þetta mundi redda málunum ef eitthvað á spjaldinu er að gefa sig.\nEf það gengur ekki, þá eru allavega til svona \"salvage\" fyrirtæki í Bretlandi sem kunna einhver ráð til viðbótar og ég gæti grafið upp fyrir þig. \nNú.. svo eru kannski einhverjir búnir að sérhæfa sig í þessu hér heima?",
+            "date": "2012-01-17 17:00:00",
+            "post_id": "413448",
+            "reply_to_id": "413432"
+        },
+        {
+            "user_name": "Carc",
+            "text": "Ég get tekið undir þetta, notaði Photorec með mjög góðum árangri á disk sem ég hef ekki fengið til að virka almennilega eftir að hann datt í gólfið meðan hann var í gangi, (fartölva datt niður af rúmmi).  Tók að vísu 4 sólarhringa að afrita gögn þegar kom að skemmdu svæðunum.",
+            "date": "2012-01-17 19:20:00",
+            "post_id": "413473",
+            "reply_to_id": "413448"
+        }
+    ],
+    "date": "2012-01-02 20:24:00"
+}

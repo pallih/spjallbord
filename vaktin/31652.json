@@ -1,0 +1,58 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "31652",
+    "title": "Finn ekki driver f. móðurborðið mitt - ms-7519",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=31652",
+    "posts": [
+        {
+            "user_name": "zdndz",
+            "text": "Er búinn að leita og leita en finn bara ekki drivera fyrir móðurborðið mitt, er með windows 7\nGetur eitthver hjálpað mér   \n \nManufacturer\tMICRO-STAR INTERNATIONAL CO.,LTD\nModel\tMS-7519\nVersion\t1.0\nChipset Vendor\tIntel\nChipset Model\tP45/P43\nChipset Revision\tA3\nSouthbridge Vendor\tIntel\nSouthbridge Model\t82801JR (ICH10R)\nSouthbridge Revision\t00\n\tBIOS\n\t\tBrand\tAmerican Megatrends Inc.\n\t\tVersion\tV1.3\n\t\tDate\t06/27/2008",
+            "date": "2010-08-04 14:32:00",
+            "post_id": "274713",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "emmi",
+            "text": "Þarft samt að finna út nákvæmlega hvaða týpa af móðurborði þetta er hjá þér.\nhttp://eu.msi.com/index.php?func=search ... e=download",
+            "date": "2010-08-04 14:56:00",
+            "post_id": "274714",
+            "reply_to_id": "274713"
+        },
+        {
+            "user_name": "zdndz",
+            "text": "P43 Neo-F",
+            "date": "2010-08-04 15:06:00",
+            "post_id": "274717",
+            "reply_to_id": "274714"
+        },
+        {
+            "user_name": "emmi",
+            "text": "Þarft að athuga hvort móðurborðið sé (PCB, Rev 1.0 eða 1.1), ætti að standa á því einhversstaðar.\nhttp://eu.msi.com/index.php?func=downlo ... od_no=1728\nhttp://eu.msi.com/index.php?func=downlo ... od_no=1720",
+            "date": "2010-08-04 15:13:00",
+            "post_id": "274719",
+            "reply_to_id": "274717"
+        },
+        {
+            "user_name": "zdndz",
+            "text": "í speccy stendur þetta:\ner þarna verið að tala um PCB version eða eitthverskonar öðruvísi version",
+            "date": "2010-08-04 15:21:00",
+            "post_id": "274722",
+            "reply_to_id": "274719"
+        },
+        {
+            "user_name": "zdndz",
+            "text": "Hvernig er hægt að athuga hvort maður er búinn að installa réttum driverum?",
+            "date": "2010-08-04 16:32:00",
+            "post_id": "274737",
+            "reply_to_id": "274722"
+        },
+        {
+            "user_name": "Hnykill",
+            "text": "ferð bara í properties á My computer, og opnar Device Manager (næst efst). ef það er ekkert X hakað við neitt eða nein merki.. þá ætti allt að vera ok held ég.",
+            "date": "2010-08-04 17:13:00",
+            "post_id": "274743",
+            "reply_to_id": "274737"
+        }
+    ],
+    "date": "2010-08-04 14:32:00"
+}

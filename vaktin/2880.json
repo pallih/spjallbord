@@ -1,0 +1,79 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "2880",
+    "title": "Internet Connection Sharing : ERROR",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=2880",
+    "posts": [
+        {
+            "user_name": "ICM",
+            "text": "Vél #1 er tengd við netið, ADSL mótald. Sú vél er einnig með LAN kort sem tengist við vél #2 og fær vél #2 netið þar í gegn.\n\nAlla síðustu viku hefur vél #2 verið með heldur leiðinlega tengingu við netið, stundum datt hún bara út og það kom ekkert nema Resolving host ef ég reyndi að tengjast vefsíðum. Til að laga það þurfti ég allt að endurræsa tölvu #2.\n\n\n\nNú versnar þetta enn meira, ég get ekki einusinni lengur fundið hinar vélarnar undir Network Places... Prófaði að slökkva á öllum eldveggjum og ekkert dugar, henti svo út öllum nýlegum forritum og ekki hefur það áhrif. Svo núna ef ég reyni að gera share á nettenginguna þá fæ ég:\n\n\n\n\n\nÉg leitaði að þessu á Google og þar fann ég eitthvað par sem lenti í sömu vandræðum og fundu enga lausn á því, fann ekkert annað um þetta. Gerið það fyrir mig og segið að þetta sé EKKI það að netkortin séu yfirkeyrð eða eitthvað álíka og að ég þurfi að kaupa ný. Þó virðist það vera miðað við hegðunina á þessu undanfarið.",
+            "date": "2004-01-22 20:18:00",
+            "post_id": "28890",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "ICM",
+            "text": "Aftur komið í fyrri stöðu, kemst bara á spjall vaktina og dailyrotation.com en kemst samt ekki á neinar undir síður á dailyrotation. simnet.is virkar fínt.\n\n \n kemst ekki einusinni á mbl.is ( er á vél #2 ) en ég kemst á allar síður á vél #1",
+            "date": "2004-01-22 20:49:00",
+            "post_id": "28894",
+            "reply_to_id": "28890"
+        },
+        {
+            "user_name": "ICM",
+            "text": "enn fáranlegara: áður gat ég ekki farið á mbl.is en prófaði að fara þangað á vél nr. 1, eftir að ég fór á þá síðu í vél 1 get ég skoðað hana alla og undirsíður í vél #2. Eins og ég þurfi að finna allar síðurnar fyrst með vél #1. \n\nKemst ekki lengur á messenger eða irc...",
+            "date": "2004-01-22 20:52:00",
+            "post_id": "28897",
+            "reply_to_id": "28894"
+        },
+        {
+            "user_name": "dabb",
+            "text": "Ég sá einu sinni tól til að laga þetta hét einhvað.. MT tool eða einhvað.\n\nLagaði það hjá mér.\n\nFinn það ekki lengur",
+            "date": "2004-01-22 21:01:00",
+            "post_id": "28901",
+            "reply_to_id": "28897"
+        },
+        {
+            "user_name": "ICM",
+            "text": "Henti út Lyklapétur og eftir það virkar þetta. Og fólk segir að það sé betra en Norton",
+            "date": "2004-01-22 21:59:00",
+            "post_id": "28903",
+            "reply_to_id": "28901"
+        },
+        {
+            "user_name": "dabb",
+            "text": "Núnú ég mundi hafa samband við frisk útaf þessu",
+            "date": "2004-01-22 22:42:00",
+            "post_id": "28913",
+            "reply_to_id": "28903"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "hmm.. hljómar soldið eins og að lyklapétur sé að blokka dns serverinn þinn. settu tölvu tvö upp með fasta ip (semsagt ekki DHCP) og settu dns-inn hjá WTF eða LS og tékkaðu hvort það virkar",
+            "date": "2004-01-23 00:37:00",
+            "post_id": "28941",
+            "reply_to_id": "28913"
+        },
+        {
+            "user_name": "Tesli",
+            "text": "Ég var með nákvæmlega sama vandamál og þú. Ég er hjá símanum og fór bara þangað og fékk router frítt í staðin fyrir að binda mig í 1ár í viðbót sem skipti mig ekki máli, nú er ALLDREI neitt vesen eða neitt. Ef þú ert hjá símanum og ætlar ekki að hætta með adsl næsta árið þá er þetta pottþétt dæmi",
+            "date": "2004-01-23 05:25:00",
+            "post_id": "28961",
+            "reply_to_id": "28941"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Er það ekki nóg fyrir þig?",
+            "date": "2004-01-23 10:34:00",
+            "post_id": "28972",
+            "reply_to_id": "28961"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "sniðugt að gera þetta alltaf \n hætta með adsl-ið á hverju ári (eða segja vodafone eða símanum að maður ætli að gera það) og fá í staðin frýann router eða whatever",
+            "date": "2004-01-23 13:08:00",
+            "post_id": "28995",
+            "reply_to_id": "28972"
+        }
+    ],
+    "date": "2004-01-22 20:18:00"
+}

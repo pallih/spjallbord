@@ -1,0 +1,177 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "28362",
+    "title": "MediaCenter stýrikerfi/hugbúnaður",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=28362",
+    "posts": [
+        {
+            "user_name": "louise",
+            "text": "Nú vantar mig smá aðstoð. Er með 5 ára gamla Fujitsu Siemens Scaleo C tölvu sem ég hef verið að nota sem MediaCenter tölvu undanfarin ár. Hef verið að keyra á henni Windows media center xp en er að spá í hvort ég ætti að breyta eitthvað til, eru einhver önnur stýrikerfi/forrit sem þið mælið með? Þessi tölva þarf að geta spilað tónlist, tekið á móti sjónvarpssendingum í gegnum venjulegt analog og auðvitað spilað myndir.\nÞetta er auðvitað engin ofur tölva enda 5 ára gömul\nHægt er að sjá alla spekka um vélina hér\nhttp://uk.ts.fujitsu.com/rl/servicesupport/techsupport/consumer/Scaleo/Scaleo_C/Scaleo%20C%20SFF.pdf\nSvo er eitt enn sem ég er að spá, hef verið með tölvuna tengda í gegnum s-vhs kapal og svo er ég að nota 5.1 hátalarakerfi sem er tengt beint í tölvuna. Er einhver betri leið fyrir mig að tengja tölvuna í sjónvarpið? Er með fínasta panasonic tv með öllum helstu tengimöguleikum..\nEndilega komið með uppástungur og góð ráð fyrir mig",
+            "date": "2010-02-17 00:09:00",
+            "post_id": "245405",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "arnif",
+            "text": "XBMC",
+            "date": "2010-02-17 00:27:00",
+            "post_id": "245410",
+            "reply_to_id": "245405"
+        },
+        {
+            "user_name": "sigurdur",
+            "text": "Ég er að setja saman Media Center. Setti upp Ubuntu og XBMC og sýnist það ætla að virka vel. Hef aðeins þurft að föndra við skráarnöfn og þess háttar, en ekkert meiriháttar. Ætla að leyfa leyfa fjölskyldunni að nota hana aðeins og sjá hvort þetta setup gerir sig.\nkv,\nSiggi",
+            "date": "2010-02-17 08:53:00",
+            "post_id": "245430",
+            "reply_to_id": "245410"
+        },
+        {
+            "user_name": "mind",
+            "text": "Jamm XBMC\nVGA er töluvert betra en S-VHS\nSamkvæmt tenglinum á vélina var því miður ekki pláss fyrir skjákort.\nEf það væri pláss fyrir skjákort í vélinni gætirðu einfaldlega fengið þér ódýrt Nvidia skjákort sem væri með HDMI og Hardware acceleration fyrir HD skrár.\nÞá myndi vélin gera allt og senda hljóðið líka stafrænt.",
+            "date": "2010-02-17 09:04:00",
+            "post_id": "245432",
+            "reply_to_id": "245430"
+        },
+        {
+            "user_name": "louise",
+            "text": "takk fyrir þetta! hef reyndar ekki áhuga á að senda hjlóðið, miklu betra að nota 5.1 kerfið sem heimabíó \nEn hvernig er það með vga, hvernig veit ég hvort að ég get verið að nota vga-rca component snúru eða ekki?",
+            "date": "2010-02-17 09:49:00",
+            "post_id": "245437",
+            "reply_to_id": "245432"
+        },
+        {
+            "user_name": "mind",
+            "text": "Þú hefur kannski ekki áhuga hljóði yfir HDMI núna en það verður standard síðar.\nVGA er einn af helstu tengimöguleikum",
+            "date": "2010-02-17 11:11:00",
+            "post_id": "245445",
+            "reply_to_id": "245437"
+        },
+        {
+            "user_name": "kiddi",
+            "text": "Ég á glænýtt Panasonic Full HD plasma 42\" og ég fékk áfall þegar ég komst að því að VGA tengið á því er bara rusl - hámarksupplausn er held ég 1024x768  / 800x600 sem tengið ræður við, sem er alveg absúrd, og það er ekkert DVI tengi. Ég endaði á að kaupa DVI>HDMI snúru og RCA fyrir hljóðið til að tengja tölvuna við. Næst kaupi ég skjákort/móðurborð með HDMI tengi sem gert er ráð fyrir hljóði líka.",
+            "date": "2010-02-17 11:24:00",
+            "post_id": "245446",
+            "reply_to_id": "245445"
+        },
+        {
+            "user_name": "louise",
+            "text": "þetta er svosem ekki nýjasta týpa af panasonic og bara 23\" græja...\nÞað eru 2 x scart tengi, 2 x HDMI, 2 x RCA composit, s-VHS og RCA component \nEf einhver hefur áhuga á nánari tækniupplýsingum þá er þær að finna hér\nhttp://www.amazon.co.uk/Panasonic-TX-23LXD60-Widescreen-Viera-Freeview/dp/B000GRU6PG",
+            "date": "2010-02-17 11:41:00",
+            "post_id": "245448",
+            "reply_to_id": "245446"
+        },
+        {
+            "user_name": "louise",
+            "text": "Hmm, ætli það væri kannski best fyrir mig að kaupa DVI>HDMI snúru og svo breytistykki frá DVI í VGA? eða ætli það sé kannski bara alveg jafn gott þá að nota s-VHS?",
+            "date": "2010-02-17 11:44:00",
+            "post_id": "245449",
+            "reply_to_id": "245448"
+        },
+        {
+            "user_name": "kiddi",
+            "text": "Það er flest betra en S-VHS er ég hræddur um... allavega vert að prófa VGA>DVI>HDMI leiðina ef S-VHS er annars eini valkosturinn",
+            "date": "2010-02-17 11:56:00",
+            "post_id": "245450",
+            "reply_to_id": "245449"
+        },
+        {
+            "user_name": "louise",
+            "text": "Annaðhvort það eða prófa VGA-RCA component?",
+            "date": "2010-02-17 12:11:00",
+            "post_id": "245451",
+            "reply_to_id": "245450"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Það eru litlar sem engar líkur á þvi að VGA -> RCA component kapall virki, því að skjákortið þarf þá að supporta að senda Y/Pb/Pr merki út í gegnum VGA tengið.\nVGA og standard component video eru nefnilega í rauninni nokkuð ólík merki og það þarf hardware converter til að breyta þar á milli.",
+            "date": "2010-02-17 12:49:00",
+            "post_id": "245457",
+            "reply_to_id": "245451"
+        },
+        {
+            "user_name": "viddi",
+            "text": "Þú þarft \nsvona\n græju ef þú ættlar að tengja úr vga yfir í hdmi, venjulegt breytistykki dugar ekki vegna þess að vga er analog merki en hdmi digital.",
+            "date": "2010-02-17 12:59:00",
+            "post_id": "245459",
+            "reply_to_id": "245457"
+        },
+        {
+            "user_name": "mind",
+            "text": "Og þá er líklega orðið ódýrara kaupa nýtt skjákort í vélina til að fá rétt merki í útgang.\nEr pláss fyrir skjákort ?",
+            "date": "2010-02-17 13:55:00",
+            "post_id": "245472",
+            "reply_to_id": "245459"
+        },
+        {
+            "user_name": "colac",
+            "text": "Ég er með S-VHS frá annarri tölvunni og VGA frá hinni í sjónvarp og sé engan mun, þannig að ég mundi nota þá leið sem hentar þér betur.",
+            "date": "2010-02-17 14:01:00",
+            "post_id": "245474",
+            "reply_to_id": "245472"
+        },
+        {
+            "user_name": "division",
+            "text": "Notaðu forrit sem heitir Meedios, það er án efa lang besti hugbunaðurinn sem er frír. XBMC er ekki næstum því jafn öflugt og það en er þó svipað. Þú getur verið með Multiple Libraries sem þýðir sér library undir kvikmyndir, barnaefni, þætti, hvernig sem þú villt hafa þetta. Getur látið þetta vera insanely flott og hérna eru nokkur dæmi:\nÞetta er Vintage þemað í mismunandi skjám, ath.. það er frekar flókið að stilla þetta allt en það er vel þess virði.\nÞú getur notað sjónvarpskort og tengt þetta við, tengt forritið við Deamon tools sem er t.d. mjög gott ef þú ert að spila ISO fæla sem innihalda MKV eða DVD myndir.\nÞú getur líka tengt forritið við VLC Player, Windows Media Player og fullt af öðrum forritum.\nÞað er mikið af plugins og themes fyrir þetta og geturu customizad þetta eins og þú villt.\nÞetta er tilvalið ef þú villt hafa fanarts, myndir af leikurum og posters og alskonar meira dót á stóra flatskjánum þinum.\nÉg afsaka ef ég er að hijacka þessum thread en endilega PMiði mig ef þið viljið meira info um þetta forrit.",
+            "date": "2010-02-17 14:27:00",
+            "post_id": "245476",
+            "reply_to_id": "245474"
+        },
+        {
+            "user_name": "mind",
+            "text": "Þó divison eflaust meini vel þá er staðreyndin að MeediOS er \nekki\n tilbúið fyrir almenning.",
+            "date": "2010-02-17 14:55:00",
+            "post_id": "245478",
+            "reply_to_id": "245476"
+        },
+        {
+            "user_name": "louise",
+            "text": "ég verð að viðurkenna að ég hef ekki alveg nógu mikið vit á þessu en jú ég held að það sé pláss!\nHér er allavega myndir af bakhliðinni og ofaní tölvuna",
+            "date": "2010-02-17 15:23:00",
+            "post_id": "245485",
+            "reply_to_id": "245478"
+        },
+        {
+            "user_name": "mind",
+            "text": "Pláss fyrir Single Slot AGP kort.\nFærð ekkert merkilegt kort í þeim dúr en getur að minnsta kosti fengið DVI og þar með möguleikann á HDMI.",
+            "date": "2010-02-17 15:48:00",
+            "post_id": "245497",
+            "reply_to_id": "245485"
+        },
+        {
+            "user_name": "division",
+            "text": "Eini gallinn er að ef þú ert með gamalt AGP kort og notar DVI to HDMI converter þá færðu ekki hljóð með. Þarft að vera  með ATI 3000 seriuna minnir mig og hun er til í AGP.",
+            "date": "2010-02-18 12:18:00",
+            "post_id": "245638",
+            "reply_to_id": "245497"
+        },
+        {
+            "user_name": "louise",
+            "text": "eitt enn sem ég er að spá, ætli það sé eitthvað betra fyrir mig að setja upp Linux heldur en windowsið? þá kannski Mythubuntu eða eitthvað? Það er úr allt of mörgu að velja :p",
+            "date": "2010-02-19 14:55:00",
+            "post_id": "245836",
+            "reply_to_id": "245638"
+        },
+        {
+            "user_name": "mind",
+            "text": "Já og nei.\nEf þú reddar þér Nvidia kortið sem styður VDPAU þá geturðu í linux látið skjákortið sjá um alla hörðustu vinnsluna svo þú náir 1080p án þess að þurfa fjárfesta í dýrum búnaði, að minnsta kosti í XBMC.\nÉg myndi bara prufa ræsa vélinni upp af USB kubb með linux og sjá hvernig þér finnst XBMC (live)\nhttp://www.mini-itx.com/projects/xbmc-ion/module/1\nGetur líka prufað nota mythbuntu (live),  þá eru engar breytingar gerðar á vélinni.",
+            "date": "2010-02-19 16:10:00",
+            "post_id": "245838",
+            "reply_to_id": "245836"
+        },
+        {
+            "user_name": "louise",
+            "text": "ok, ég prófaði sko að formatta hana og setja upp windows xp í gær og svo setti ég xbmc en mér fannst allt fara í gang í vélinni við það, þ.e. viftan fór alveg á milljón og virtist vera brjálað að gera í tölvunni..\nPrófaði svo að downloda Boxee og það allavega virðist vera meira smoooth.. hugsa að ég prófi kannski að láta það malla, á að vísu eftir að kaupa betri s-video snúru til að tengja við tv-ið.. eða redda þessu skjákorti..",
+            "date": "2010-02-19 16:15:00",
+            "post_id": "245839",
+            "reply_to_id": "245838"
+        },
+        {
+            "user_name": "starionturbo",
+            "text": "Settu ubuntu eða ef þú hefur þekkingu, FreeBSD.\nSetja upp Boxee\nMikið hraðara en XBMC finnst mér.\nÞó við séum nokkurnvegin með sama sourceinn, þó allt annar graphics og animation library.",
+            "date": "2010-02-20 23:18:00",
+            "post_id": "246059",
+            "reply_to_id": "245839"
+        }
+    ],
+    "date": "2010-02-17 00:09:00"
+}

@@ -1,0 +1,16 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "22659",
+    "title": "Villur á diskum",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=22659",
+    "posts": [
+        {
+            "user_name": "Heliowin",
+            "text": "Ég er búinn að vera í leiðindamálum með eina tölvu hjá mér undanfarið. Harðir diskar í henni virðast bila skyndilega.\nÞetta byrjaði um daginn þegar ég ætlaði að setja upp aftur Ubuntu 9.04 beta en þá fór ég í bios og breytti stillingum þannig að ég valdi AHCI áður en ég setti hana upp á þriggja ára gömlum SATA 160GB. Ég man ekki hvað gerðist nákvæmlega en ég hlýt að hafa gert einhverja skyssu þar sem ég virðist hafa leyft fyrri uppsetningu að byrja að boota. Ég hef sennilega ekki verið nægilega vakandi yfir því.\nUbuntu ræstist ekki en í staðinn komu einhverjar stýrikerfis villur sem er kannski ekki skrítið. Ég bootaði disktóli frá harðdiskaframleiðandum og það fann villur bæði check og low level format tól. Ég gerði tilraun til að prófa nýja uppsetningu en það komu þá upp villur eftir að uppsetningarprogrammið var komið áleiðis með format eða annað. Hann virtist síðan fara að gefa frá sér tick hljóð.\nÉg keypti mér því nýjan disk og setti í hana og aftengdi hinn. Ég fór síðan í bios og valdi load optimized defaults og gerði viðeigandi stilli breytingar fyrir harðdiska svo ég gæti notað AHCI. Það hefur ekki verið nema einn diskur (SATA) í henni mjög lengi og síðan DVD skrifari tengdur við IDE1.\nÉg byrjaði síðan að setja Ubuntu 9.04 beta upp á þennan nýja disk sem er SATAII 160GB og kom þá upp villa í uppsetningar programminu þegar það var komið eitthvað áleiðis.\nÉg setti þá inn disktól til að athuga með diskinn og gera tilraun til að hreinsa hann en þá kom upp villa.\nÉg vil taka fram að harðir diskar hafa aldrei bilað hjá mér áður og ég hef aldei þurft að kasta diski.\nHafið þið einhverjar hugmyndir um þetta eða álit sem þið viljið deila með ykkur? Hjálp yrði líka vel þegin.\nMóðurborð: \nGA-8I945G Pro\nBios version: F9\nUpdate\n: þetta virðast hafa verið kaplarnir sem fylgdu með moboinu, gerði mér ekki grein fyrir að það gæti verið vandamál.",
+            "date": "2009-04-12 23:34:00",
+            "post_id": "203652",
+            "reply_to_id": false
+        }
+    ],
+    "date": "2009-04-12 23:34:00"
+}

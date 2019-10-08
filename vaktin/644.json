@@ -1,0 +1,191 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "644",
+    "title": "Hósting fyrir vefsíður, hvar er best dílinn ?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=644",
+    "posts": [
+        {
+            "user_name": "Voffinn",
+            "text": "Sælir,\n\n\n\nHvar er best að kaupa sér hóstun á vefsvæði, var að skoða hér hjá fyrirtæki sem heitir \nInvision Power Services Hosting\n\n\nÞar var ég að pæla í að kaupa mér \nLite áskrift\n, sem kostar $15 á mán. Er þetta mikið fyrir allt það sem maður fær ? Svo er hægt að fá þarna, lén fyrir $15 á ári. Hvernig líst ykkur á þessa þjónustu ?\n\n\n\nHvert munuð þið fara ef ykkur vantaði svona hósting pláss ? (Þá er ég að tala með stuðningi við php, sql o.sv.fr. (ætla ða fara læra þetta í sumar)).",
+            "date": "2003-04-23 21:45:00",
+            "post_id": "4507",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Ef að ég væri að læra þetta þá myndi ég bara setja upp server á mína tölvu til þess að prufa þetta en ef að ég vill síðan hafa almennilega síðu á netinu þá myndi ég láta ISP'inn hosta'a hana.\n\n\n\nÞegar ég var aðeins að grúska í PHP og SQL þá fékk ég einhver noname http server fyrir windows og setti upp PHP og MySQL, það virkaði alveg. Síðan gafst ég upp þegar mar var að reyna eitthvað af viti í SQL og þá hefði  ég séð eftir því að eyða einvherjum pening í host'ing",
+            "date": "2003-04-23 22:41:00",
+            "post_id": "4511",
+            "reply_to_id": "4507"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "helduru að þú getir nokkuð grafið upp hvað þessi www server hét? ég fann einn frá analogx ... það er hægt að notast við hann... en hann styður ekki sql og php....",
+            "date": "2003-04-23 22:53:00",
+            "post_id": "4512",
+            "reply_to_id": "4511"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Notaðu bara Windows XP Pro WWW server (setur það upp í add/remove programs)\n\nHann hlítur að stiðja þetta",
+            "date": "2003-04-23 23:26:00",
+            "post_id": "4513",
+            "reply_to_id": "4512"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Voffin, ekki hlusta á hann, vertu einsog ég, notaðu \nxitami",
+            "date": "2003-04-23 23:32:00",
+            "post_id": "4516",
+            "reply_to_id": "4513"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "ég þakka ykkur báðum, en MezzUp : Virkar mysql og php í þessu ?\n\nVeistu um einhverja linka svona til að koma mér af stað ?",
+            "date": "2003-04-23 23:39:00",
+            "post_id": "4517",
+            "reply_to_id": "4516"
+        },
+        {
+            "user_name": "gumol",
+            "text": "LOL, þú getur sett upp www server en ekki búið til link",
+            "date": "2003-04-23 23:49:00",
+            "post_id": "4519",
+            "reply_to_id": "4517"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "Þetta er nú bara ein typo. \n no-big-deal.",
+            "date": "2003-04-24 00:04:00",
+            "post_id": "4527",
+            "reply_to_id": "4519"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "amm, php virkar með þessu og þ.a.l. mysql\n\nég fann nokkrar góður síður með klassa tutorials þegar ég var að grúska í þessu en því miður man ég ekki neitt af því ennþá, tjekkaðu bara á yahoo eða dmoz og þú finnur eitthvað gott. Þessar síður sem að ég var á voru með sona slatta-af-öllu. PHP, SQL, JavaScript o.þ.h.",
+            "date": "2003-04-24 00:25:00",
+            "post_id": "4532",
+            "reply_to_id": "4527"
+        },
+        {
+            "user_name": "kemiztry",
+            "text": "Apache er stálið",
+            "date": "2003-04-24 03:07:00",
+            "post_id": "4535",
+            "reply_to_id": "4532"
+        },
+        {
+            "user_name": "noline",
+            "text": "Þú getur kíkt á \nhttp://www.asgeir.org\n ... en það kostar eins og allt, bara MIKLU minna en L$ og hinir  \n\n\n\n\nOg ekkert windoze.....það er bara eitt stýrikerfi sem er nothæft, ríkisrekið LINUX!  Fleiri gallar og holur í windoze heldur en írak samanlagt eftir alla stórskotahríðina.",
+            "date": "2003-04-24 03:27:00",
+            "post_id": "4538",
+            "reply_to_id": "4535"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "noline, hvað er innifalið í þessari hýsingu á ásgeir.org ? asnaleg síða, það stendur ekkert hvað er innifalin, og auk þess, ef að það er ekki meira en eitt póstfang, þá færi ég nú miklu frekar á hýsinguna sem ég benti á í frysta bréfinu mínu...",
+            "date": "2003-04-24 10:40:00",
+            "post_id": "4539",
+            "reply_to_id": "4538"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "GMG, tónlist á vefsíðum er eitt af því hýrasta í dag og persónulega lít ég jafn illum augum á vefsíðu með hljóði og vefsíðu sem að drekkir manni í pop-up's",
+            "date": "2003-04-24 12:41:00",
+            "post_id": "4540",
+            "reply_to_id": "4539"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "ehhehe...gæti ekki verið meira sammála... jú... það er til eitt verra...\n\nSíða með hljóði, flashandi banners, 4 popup gluggum sem koma þegar þú ýtir á link, og blikkandi texta.\n\n\n\nBtw : Þá lét ég upp IIS í xp hjá mér, það fúnkerar fínt, og ég er byrjaður að fikta í asp... gerði svona halló heimur \n *stolt*",
+            "date": "2003-04-24 13:36:00",
+            "post_id": "4541",
+            "reply_to_id": "4540"
+        },
+        {
+            "user_name": "Driver",
+            "text": "Ég mæli eindregið með hýsingu host4profit.com þar er ég með mína síðu, fjöldinn allur af möguleikum!\n\n\n\nOg mjög mikilvægt: Þjónustan er 24/7 og mjög snögg og vönduð.\n\n\n\nFULL FEATURED ACCOUNT Master Account $24.95 Per Month \n\nSETUP FEES: NONE \n\nTRANSFER FEES: NONE \n\nSPACE: 300 MEG \n\nTRAFFIC: 10 GIG \n\nPOP EMAIL ACCOUNTS: UNLIMITED \n\nMAIL LISTS/NEWSLETTERS: UNLIMITED \n\nAUTO RESPONDERS: UNLIMITED \n\nEMAIL ALIASES: UNLIMITED \n\nACCESS EMAIL BY WEB: YES \n\nSITE STATS: YES \n\nMAIL MANAGER: YES \n\nCONTROL PANEL: YES \n\nSUB-DOMAINS: YES - NOW AVAILABLE! \n\nFRONTPAGE 1998/2000/2002 EXTENSIONS: YES \n\nSITE CREATION TOOL: YES \n\nPAGE COUNTERS: YES \n\nPASSWORD PROTECT DIRECTORIES: YES \n\nURL REDIRECT: YES \n\nFTP: YES \n\nTELNET:  YES \n\nMYSQL DATABASES: YES \n\nSECURE SERVER USE: YES \n\nFILE MANAGER: YES \n\nPERL 5.005: YES \n\nPHP4: YES \n\nSSI/SHTML: YES \n\nREAL CGI-BIN: YES \n\nSUBMIT SITES TO SEARCH ENGINES: YES \n\nVIEW LOG FILES: YES \n\nRUN SCRIPTS OUTSIDE CGI-BIN: YES \n\nRUN CRON EVENTS: YES \n\nSHOPPING CART: YES \n\nSEARCH ENGINE: YES \n\nONLINE SUPPORT MANUAL: YES \n\nReferral Commissions: YES - $10 Per Month Per Account\n\nRefer 50 - Profit $500 Per Month\n\nRefer 100 - Profit $1000 Per Month\n\nRefer 1000 - Profit $10,000 Per Month \n\nMultiple Domain Discount YES - Only $5 per month for each additional hosting account!  \n\n\n\nHér geturðu pantað hýsingu:\n\nhttp://www.host4profit.com/cgi-bin/home.cgi?37422\n\n\n\n\nhttp://www.lausnir.com\n\n\n\n\nKv, Driver",
+            "date": "2003-05-14 15:29:00",
+            "post_id": "5651",
+            "reply_to_id": "4541"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "Þetta lítur út eins og eitthvað popups fyrirtæki, \"Refre 1000 people and win a trip to the bahamas \n\" right.... nei takk.... en t.d. hostingin sem ég var að pæla í fyrst, var $15 á mánuði en þetta er $25 og auk þess er ég hættur við að kaupa þetta",
+            "date": "2003-05-14 17:43:00",
+            "post_id": "5654",
+            "reply_to_id": "5651"
+        },
+        {
+            "user_name": "elv",
+            "text": "Það toppar engin \nhttp://www.zmoz.com/\n   fín gaur líka, ég og annar erum með síðu hjá honum \nhttp://www.bee.zmoz.com/index.php\n ekkert sem ég get kvartað yfir",
+            "date": "2003-05-14 19:38:00",
+            "post_id": "5657",
+            "reply_to_id": "5654"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "etta þá php mysql.... and all the shit ??",
+            "date": "2003-05-14 22:18:00",
+            "post_id": "5660",
+            "reply_to_id": "5657"
+        },
+        {
+            "user_name": "elv",
+            "text": "Þetta er með all the shit",
+            "date": "2003-05-15 06:34:00",
+            "post_id": "5672",
+            "reply_to_id": "5660"
+        },
+        {
+            "user_name": "Driver",
+            "text": "Nei vinur minn, Host4Profit er ekki neitt pop-up dæmi engar auglýsingar eða neitt þetta er alvöru, enda sérðu fítusana sem þeir eru að bjóða uppá!\n\n\n\nóneitanlega það besta sem í boði er, og ekki skemmir nú að það sé möguleiki að fá þetta frítt.\n\n\n\nMjög mikilvægt að þjónustan sé góð hjá svona aðilum líka.\n\n\n\nÞú getur svo sem borgað þína $15 á mánuði forever, það er t.d. 1 búinn að skrá sig í hýsingu hjá H4P í gegnum mína síðu og þá er ég ekki að borga $25 lengur bara $15.\n\n\n\nKv, Driver",
+            "date": "2003-05-15 08:28:00",
+            "post_id": "5674",
+            "reply_to_id": "5672"
+        },
+        {
+            "user_name": "gumol",
+            "text": "En hvað ef maður er bara að leita eftir léni(.com, .net o.s.frv) hvert er best að leita þá ?",
+            "date": "2003-05-15 13:30:00",
+            "post_id": "5677",
+            "reply_to_id": "5674"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "godaddy.com minnir mig að einhver hafi sagt hérna.",
+            "date": "2003-05-15 13:49:00",
+            "post_id": "5679",
+            "reply_to_id": "5677"
+        },
+        {
+            "user_name": "elv",
+            "text": "Einmitt. Lesa póstana gumol",
+            "date": "2003-05-15 19:18:00",
+            "post_id": "5699",
+            "reply_to_id": "5679"
+        },
+        {
+            "user_name": "akarnid",
+            "text": "Þetta er officially mesta þráða necromancy sem ég hef séð.",
+            "date": "2010-06-09 12:48:00",
+            "post_id": "266160",
+            "reply_to_id": "5699"
+        },
+        {
+            "user_name": "emmi",
+            "text": "Þetta er spambot.",
+            "date": "2010-06-09 15:25:00",
+            "post_id": "266171",
+            "reply_to_id": "266160"
+        },
+        {
+            "user_name": "Páll",
+            "text": "http://24shells.net\n eru mjög góðir..",
+            "date": "2010-06-09 16:54:00",
+            "post_id": "266182",
+            "reply_to_id": false
+        }
+    ],
+    "date": "2010-06-09 16:54:00"
+}

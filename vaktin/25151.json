@@ -1,0 +1,142 @@
+{
+    "forum_title": "Windows",
+    "id": "25151",
+    "title": "NTFS eða FAT32 á IDE disk fyrir USB 2.0 flakkara",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=25151",
+    "posts": [
+        {
+            "user_name": "eoo",
+            "text": "Hvort mælið þið með?\nHef heyrt að NTFS gagnist betur í stýrikerfinu til að setja réttindi og þannig en FAT32 sé einfaldara og lítil hætta á skráarkerfisvillum.",
+            "date": "2009-09-24 16:39:00",
+            "post_id": "219694",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "NTFS, stærsti gallinn (af mörgum) við FAT32 er 4Gb file size limitið. NTFS hefur líka meira öryggi eins og þú talar um, file-to-file samþjöppun, quotas og dulkóðun. Yfirleitt skilar NTFS líka meiri hraða.",
+            "date": "2009-09-24 16:45:00",
+            "post_id": "219695",
+            "reply_to_id": "219694"
+        },
+        {
+            "user_name": "gardar",
+            "text": "NTFS er sjálft einnig meingallað því miður.",
+            "date": "2009-09-24 17:21:00",
+            "post_id": "219699",
+            "reply_to_id": "219695"
+        },
+        {
+            "user_name": "lukkuláki",
+            "text": "NTFS ekkki spurning í þessu tilfelli",
+            "date": "2009-09-24 17:21:00",
+            "post_id": "219701",
+            "reply_to_id": "219699"
+        },
+        {
+            "user_name": "Narco",
+            "text": "skil það nú ekki þvi ég er með fat drif sem er utanáliggjandi 2.5 diskur sem ég keyri á W7 x64 og hef sett tæplega 6Gb file á það og ekkert mál",
+            "date": "2009-09-27 16:04:00",
+            "post_id": "220151",
+            "reply_to_id": "219701"
+        },
+        {
+            "user_name": "Stebet",
+            "text": "Einhverjar staðreyndir til að backa þetta upp?",
+            "date": "2009-09-27 23:28:00",
+            "post_id": "220215",
+            "reply_to_id": "220151"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Mitt álit\nNTFS á að vera formatið á öllum stórum hörðum diskum undir OS og svo framvegis.\n(NTFS hefur meiri möguleika á recovery og permission fyrir allskonar dót)\nNota FAT32 fyrir bootable lykla og lítil prógröm sem keyra flest í gegnum skel, meira fyrir svona basic functiona.\n(FAT32 er eldri staðall jú, en hann hefur verið til staðar lengur og er miklu opnari, allir hafa permission fyrir allt)\nSkoðið þetta:\nhttp://www.ntfs.com/ntfs_vs_fat.htm",
+            "date": "2009-09-27 23:34:00",
+            "post_id": "220219",
+            "reply_to_id": "220215"
+        },
+        {
+            "user_name": "armann",
+            "text": "Þá er flakkarinn þinn ekki að keyra fat32 skráarkerfi svo einfalt er það, ein skrá getur ekki verið stærri en 4gb í fat32.",
+            "date": "2009-10-22 15:22:00",
+            "post_id": "223270",
+            "reply_to_id": "220219"
+        },
+        {
+            "user_name": "Narco",
+            "text": "Ég var að nota 4.7Gb avi file og ég veit hversu klikkað það hljómar en hann fór allur inn!!\nÞað má vera að aðstæður séu aðrar undir W7 en þetta fór samt svona.",
+            "date": "2009-10-22 15:29:00",
+            "post_id": "223272",
+            "reply_to_id": "223270"
+        },
+        {
+            "user_name": "armann",
+            "text": "Hehe það er magnað....",
+            "date": "2009-10-22 15:54:00",
+            "post_id": "223275",
+            "reply_to_id": "223272"
+        },
+        {
+            "user_name": "Blackened",
+            "text": "dem.. ég stóð í þeirri meiningu að það væri bara ekki séns.. amk fæ ég alltaf þá meldingu á minn flakkara sem er Fat32 og ég er í Win7.. \n..áttu screenshot? \nog líka.. \nthat's what she said..",
+            "date": "2009-10-22 17:16:00",
+            "post_id": "223288",
+            "reply_to_id": "223275"
+        },
+        {
+            "user_name": "JohnnyX",
+            "text": "that's what she said..[/quote]\nég hló",
+            "date": "2009-10-22 17:47:00",
+            "post_id": "223291",
+            "reply_to_id": "223288"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Hef lesið mikið um að ntfs sé að crasha hjá mönnum.\nBæði out of nowhere og svo virðist lítið vera hægt að krukka í partitions ef það eru gögn á diskinum.\nSvo er hrikalegur ókostur að þurfa alltaf að defragmenta manually þegar önnur filesystem þurfa þess ekki.",
+            "date": "2009-10-28 12:31:00",
+            "post_id": "224056",
+            "reply_to_id": "223291"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Þarft ekki að defragga í Windows 7",
+            "date": "2009-10-28 18:22:00",
+            "post_id": "224153",
+            "reply_to_id": "224056"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Hmm hvernig má það vera, ég held að það hafi ekki komið út ný útgáfa af ntfs síðan 2005",
+            "date": "2009-10-28 18:24:00",
+            "post_id": "224157",
+            "reply_to_id": "224153"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Minnir að ég hafi lesið að Microsoft menn hafi byggt kernelinn upp á nýtt þannig að það er ekki, eða allavega minni, þörf á defraggi. Getur líka verið að Windows 7 defraggi automatískt.\nGetur svosem vel verið að ég sé að tala út um rassgatið á mér. Vinsamlegast leiðréttið mig ef ég fer með rangt mál.",
+            "date": "2009-10-28 18:40:00",
+            "post_id": "224161",
+            "reply_to_id": "224157"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Hefði haldið að þeir hafi þurft að breyta ntfs til að styðja það, en það getur svosem verið að breyting á kjarnanum geri það líka.\nSamkvæmt því sem þú segir þá virðist þetta virka núna eins og ext3, sem er flott mál",
+            "date": "2009-10-28 18:42:00",
+            "post_id": "224162",
+            "reply_to_id": "224161"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Ég hef ekki orðið var við það. Það er alveg jafn mikil þörf á defraggi finnst mér, allt út um allt skv. Defraggler.",
+            "date": "2009-10-28 18:48:00",
+            "post_id": "224167",
+            "reply_to_id": "224162"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Ok. Veit ekki hvað skal halda þá. Er svo fjári viss um að ég hafi lesið þetta í einni greininni um Windows 7",
+            "date": "2009-10-28 18:55:00",
+            "post_id": "224169",
+            "reply_to_id": "224167"
+        }
+    ],
+    "date": "2009-09-24 16:39:00"
+}

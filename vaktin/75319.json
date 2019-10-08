@@ -1,0 +1,72 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "75319",
+    "title": "Sé ókunnug tæki í Network í windows",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=75319",
+    "posts": [
+        {
+            "user_name": "appel",
+            "text": "Ég veit ekki hvað er í gangi, en mér sýnist einhver tæki blæða yfir í windows í gegnum wifi.\nTölvan mín er ethernet tengd, og aðeins hún er í gangi núna af öllum tækjunum mínum.\nÉg er búinn að sjá tvö tæki sem ég kannast ekki við, farsíma og spjaldtölvu. Ég refresha network og sé þá stundum annaðhvort tækið, en það hverfur eftir smá tíma.\nÞað er ekkert í routernum um þetta, sýnir ekki þessi tæki tengd. En ég get séð þau ef ég fer í network í windows explorer. Get þá séð nöfnin, tegund, og mac addressu.\nÞetta er doldið óþægileg tilfinning að eitthvað sé að blæða yfir í tölvuna mína! Er búið að hakka mig?? Eldveggur á öllu, allt í góðu með allt, en skil ekki afhverju þetta kemur yfir. Mér finnst þetta vera doldið óþægilegt.\nVæntanlega eru þetta tæki nágrannans og einhverskonar wifi discovery er í gangi. En vá.\nKannast einhver við svona?",
+            "date": "2018-01-18 20:25:00",
+            "post_id": "665402",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "worghal",
+            "text": "það er nú ekki erfitt að sniffa wifi password þessa dagana.\nþað fer eftir hvaða router þú ert með en þú getur blockað mac addressur í routernum og það ætti að loka á tækin.",
+            "date": "2018-01-18 20:30:00",
+            "post_id": "665403",
+            "reply_to_id": "665402"
+        },
+        {
+            "user_name": "appel",
+            "text": "Ég prófaði það, þetta hvarf ekki.",
+            "date": "2018-01-18 20:33:00",
+            "post_id": "665405",
+            "reply_to_id": "665403"
+        },
+        {
+            "user_name": "ZiRiuS",
+            "text": "Eru þetta ekki bara tæki sem voru einhverntímann tengd við tölvuna þína? Ég man í gamla daga að þegar maður kom heim af Skjálfta eftir 3 daga sharing orgíu að þá sá maður nöfnin á tölvunum sem maður tengdist þó þú værir ekkert tengdur því networki ennþá.\nEf þú sérð þetta ekki í routernum ættir þú ekki að hafa neinar áhyggjur.",
+            "date": "2018-01-18 21:26:00",
+            "post_id": "665408",
+            "reply_to_id": "665405"
+        },
+        {
+            "user_name": "kiddi",
+            "text": "Ég hef lítið vit á þessu og mér skjátlast eflaust, en ég kannast við svipað og ég hef á tilfinningunni að þetta tengist ljósleiðaranum, þeas. notendur deila ljósleiðaranum upp að einhverju marki og ef maður væri ekki með router t.d., þá væru \"shared drif\" hjá manni sýnileg hjá ansi mörgum. Getur þetta verið?",
+            "date": "2018-01-18 23:22:00",
+            "post_id": "665412",
+            "reply_to_id": "665408"
+        },
+        {
+            "user_name": "einarth",
+            "text": "Sæll.\nÞað er ekki verið að \"deila ljósleiðaranum\" - hinsvegar höfum við þá stefnu að loka ekki á nein samskipti frá internet tengingum viðskiptavina okkar.\nÞetta getur haft þau áhrif að ef router er með einhver \"discovery protocol\" í gangi (eða forwardar svoleiðis skilaboðum\" geta nöfn annara aðila á netinu - sem eru með svipaðar stillingar á sínum búnaði - sést. \nÉg hef séð svoleiðis gerast en þá er það bundið við að sjá nöfnin - þ.e. engin aðgangur opin í gegn.\nHitt er svo annað mál ef menn tengja tölvur beint við internet sambandið án þess að nota eldvegg á milli (router með eldvegg eða eldvegg í tölvu) þá getur allt verið gal-opið inn til viðkomandi - og því er fólki ráðlagt að gera það ekki nema vita hvað það er að gera.\nÖnnur dreifikerfi geta verið að loka á ákveðin port eða protocola frá sínum viðskiptavinum í stað þess að leyfa viðskiptavin að stjórna sjálfur hvaða umferð hann hleypir í gegn og vill nota.\nKv, Einar.",
+            "date": "2018-01-18 23:38:00",
+            "post_id": "665413",
+            "reply_to_id": "665412"
+        },
+        {
+            "user_name": "kiddi",
+            "text": "Takk fyrir svarið \n Er þetta þá ekki málið sem appel og ég höfum verið að upplifa? Ég er með vandaðan ASUS router, reyndar í default stillingum bara, en ég sé eitthvað Philips TV sjónvarp í Network listanum hjá mér, og ég á ekkert Philips sjónvarp :-D",
+            "date": "2018-01-18 23:40:00",
+            "post_id": "665414",
+            "reply_to_id": "665413"
+        },
+        {
+            "user_name": "Tbot",
+            "text": "Kallinn getur þá séð heimaframleiðsluna hjá nágrannanum, þegar hann er skoða sjálfan sig í action.",
+            "date": "2018-01-19 08:40:00",
+            "post_id": "665417",
+            "reply_to_id": "665414"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "",
+            "date": "2018-01-19 10:42:00",
+            "post_id": "665422",
+            "reply_to_id": "665417"
+        }
+    ],
+    "date": "2018-01-18 20:25:00"
+}

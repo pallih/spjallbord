@@ -1,0 +1,58 @@
+{
+    "forum_title": "Þjónusta / Viðgerðir",
+    "id": "39049",
+    "title": "furðulegt vandamál með netið hjá mér..",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=13&t=39049",
+    "posts": [
+        {
+            "user_name": "J1nX",
+            "text": "Sælir.. ég er að lenda í skrítnu vandamáli með netið hjá mér eins og titillinn segir \n það lýsir sér þannig að ég er að downloada á svona 3-5kbs (á 50mb ljósi hjá Tal) þegar ég er að downloada hinu og þessu af \"veraldarvefnum\" \n (torrent virkar á eðlilegum hraða) held að þetta sé eitthvað með utanlandssambandið hjá mér því ef ég fer á static.hugi eða eikkerja íslenska síðu þá er hraðinn alveg eðlilegur.. ég næ ekki að tengjast neinum streams (horfi frekar mikið á starcraft streams) en samt get ég alveg spilað á erlendum serverum bæði cs, dod og starcraft án þess að finna fyrir neinu laggi.. \nég er búinn að rsa router, rsa ljósleiðaraboxinu, runna ccleaner, vírusskanna og malwareskanna og rsa tölvunni og ekkert virðist hjálpa..\nætlaði að athuga hvort eitthver ykkar hefði lent í þessu og væri með eitthverja lausn á þessu áður en ég hringi í Tal á morgun og spyr þá út í þetta \nedit: og nei ég er ekki búinn með utanlandskvótann: Júní 2011 (1. Júní - 30. Júní):\t10.83 GB",
+            "date": "2011-06-07 17:20:00",
+            "post_id": "354192",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "reyndeer",
+            "text": "Er þetta með allar erlendar síður? Ef þú færð eðlilegan hraða með torrent (sem eru nú oftast erlendir seeders) og nærð að tengjast erlendum serverum á góðum hraða bendir ekkert til þess að utanlandstengingin sé slow, frekar væri það eitthvað plugin í vafranum þínum eða vafrinn sjálfur. Búinn að prufa að reinstalla plugins eða vafra?\nEf svo, ertu nokkuð með download á fullu gegnum torrent eða einhver annar á heimilinu?",
+            "date": "2011-06-07 17:46:00",
+            "post_id": "354203",
+            "reply_to_id": "354192"
+        },
+        {
+            "user_name": "J1nX",
+            "text": "ég hef reyndar ekki testað neinar erlendar torrent síður þar sem ég nota deildu aðallega (fyrir anime þar sem það er ekki ólöglegt að downloada því)  \n  ég er búinn að prófa að uninstalla Chrome og installa aftur ásamt því að uninstalla Flash Player og installa aftur.. búinn að prófa Firefox og IE og þeir virðast bara vera hægari ef eitthvað er.. við erum með 2 tölvur (báðar borðtölvur) hérna á heimilinu og það er yfirleitt slökkt á annarri þeirra þar sem bróðir minn (sem á hina tölvuna) er að vinna á Akranesi frá mánudegi-föstudags og gistir þar á þeim tímum þannig ekki er etta hin tölvan..",
+            "date": "2011-06-07 17:55:00",
+            "post_id": "354210",
+            "reply_to_id": "354203"
+        },
+        {
+            "user_name": "mercury",
+            "text": "FORMAT C!",
+            "date": "2011-06-07 17:58:00",
+            "post_id": "354213",
+            "reply_to_id": "354210"
+        },
+        {
+            "user_name": "J1nX",
+            "text": "langar mjög takmarkað að missa allt dótið sem ég á tölvunni þar sem ég er bara með 1disk í tölvunni og á engan flakkara þá er það algjört last resort að formatta \n en ég ætla bara að prófa að hringja í tal á morgun og spurja hvort þetta sé eikkað hjá þeim",
+            "date": "2011-06-07 18:46:00",
+            "post_id": "354232",
+            "reply_to_id": "354213"
+        },
+        {
+            "user_name": "ponzer",
+            "text": "Ertu búinn að fikta í routernum þínum ? Hljómar eins og QoS sé í gangi.",
+            "date": "2011-06-07 19:35:00",
+            "post_id": "354241",
+            "reply_to_id": "354232"
+        },
+        {
+            "user_name": "J1nX",
+            "text": "nei.. þetta byrjaði samt eftir að ég rsaði routernum því lappinn hjá kærustunni fann ekki þráðlausa netið.. hef ekkert fiktað í neinum stillingum á routernum þar sem ég bara kann það ekki",
+            "date": "2011-06-07 19:42:00",
+            "post_id": "354243",
+            "reply_to_id": "354241"
+        }
+    ],
+    "date": "2011-06-07 17:20:00"
+}

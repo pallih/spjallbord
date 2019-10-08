@@ -1,0 +1,58 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "22552",
+    "title": "2 DVI = Meira Hz",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=22552",
+    "posts": [
+        {
+            "user_name": "chaplin",
+            "text": "Var að lesa á eitthverri vefsíðu, að DVI output gefur mesta lagi 60Hz, en ef maður er með 2 DVI á skákortinu, getur maður tengt þau saman með eitthverju uniti og þá fengið alltaf að 85Hz, hefur einhver annar heyrt um þetta?  \nbtw.. ef þetta var eitthvað rugl, ekki þá nukea mig, segja bara nei..",
+            "date": "2009-04-06 20:20:00",
+            "post_id": "203084",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "LCD skjáir, sem að eru pretty much einu skjáirnir sem að nota DVI, ná bara 60hz, þ.e.a.s. þessir sem að eru komnir í sölu á Íslandi.\nVeit ekki hvort að þetta þarna er satt en ég sé það ekki fyrir mér að það virki þar sem að það er hvorteðer bara eitt DVI tengi á skjám...\nNei.",
+            "date": "2009-04-06 20:29:00",
+            "post_id": "203086",
+            "reply_to_id": "203084"
+        },
+        {
+            "user_name": "Minuz1",
+            "text": "Það eru til 100 hz LCD sjónvörp",
+            "date": "2009-04-08 23:32:00",
+            "post_id": "203322",
+            "reply_to_id": "203086"
+        },
+        {
+            "user_name": "BLADE",
+            "text": "Það eru lika til 120 hz LCD sjónvörp",
+            "date": "2009-04-09 01:49:00",
+            "post_id": "203337",
+            "reply_to_id": "203322"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Jámm, þessvegna sagði ég skjáir, en pointið stendur, virkilega virkilega fáir ef einhverjir skjáir/sjónvörp eru með tvö DVI tengi á sér.\nOg svo geta DVI tengi alveg gefið 85Hz aníveis, en það eru alltaf önnur tengi en DVI á skjám sem að ná meira en DVI tengi geta gefið þér.\nErtu samt nokkuð að tala um einfaldlega DVI-D Dual link? Þau ná hærri Hz'a tölu á t.d. HDTV merkjum, uppí 85Hz.",
+            "date": "2009-04-09 15:30:00",
+            "post_id": "203354",
+            "reply_to_id": "203337"
+        },
+        {
+            "user_name": "Xyron",
+            "text": "Fer eftir því hvaða upplausn þú ert að nota..\nTekið af wikipedia:\n    * Example display modes (single link):\n          o HDTV (1920 × 1080) @ 60 Hz with CVT-RB blanking (139 MHz)\n          o UXGA (1600 × 1200) @ 60 Hz with GTF blanking (161 MHz)\n          o WUXGA (1920 × 1200) @ 60 Hz with CVT-RB blanking (154 MHz)\n          o SXGA (1280 × 1024) @ 85 Hz with GTF blanking (159 MHz)                  <--- hérna er dæmi um 85hz upplausn með single link dvi\n          o WXGA+ (1440 x 900) @ 60 Hz (107 MHz)\n          o WQUXGA (3840 × 2400) @ 17 Hz (164 MHz)\n    * Example display modes (dual link):\n          o QXGA (2048 × 1536) @ 75 Hz with GTF blanking (2 × 170 MHz)\n          o HDTV (1920 × 1080) @ 85 Hz with GTF blanking (2 × 126 MHz)\n          o WQXGA (2560 × 1600) @ 60 Hz with GTF blanking (2 × 174 MHz) (30-inch (762 mm) Apple, Dell, Gateway, HP, NEC, Quinux, and Samsung LCDs)\n          o WQXGA (2560 × 1600) @ 60 Hz with CVT-RB blanking (2 × 135 MHz) (30-inch (762 mm) Apple, Dell, Gateway, HP, NEC, Quinux, and Samsung LCDs)\n          o WQUXGA (3840 × 2400) @ 33 Hz with GTF blanking (2 × 159 MHz)\nEf þú notar dual link dvi skjásnúru (dvi-i eða dvi-d) þá getur þú farið uppí 85Hz (svo lengi sem skjárinn þinn styður það)",
+            "date": "2009-04-09 19:15:00",
+            "post_id": "203368",
+            "reply_to_id": "203354"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Thanks a lot man!",
+            "date": "2009-04-13 01:01:00",
+            "post_id": "203659",
+            "reply_to_id": "203368"
+        }
+    ],
+    "date": "2009-04-06 20:20:00"
+}

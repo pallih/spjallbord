@@ -1,0 +1,72 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "53446",
+    "title": "Vangaveltur varðandi vefgreiðslur",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=53446",
+    "posts": [
+        {
+            "user_name": "Helfari",
+            "text": "Sælir Vaktarar;\nÉg er að setja upp vefverslun fyrir félagssamtök sem ekki eru rekin í hagnaðarskyni. Þar er meiningin að nota fría veflausn þar sem ég fæ ekkert greitt fyrir þetta og því hef ég verið að hugsa um að nota oscommerce. Það sem ég hef hinsvegar áhyggjur af er hvernig ég get tengt verslunina við greiðslusíðu Borgunar eða Valitor. Skilst að það kosti um 20.000kr í startið og svo c.a. 2.500kr eftir það.\nHafiði reynslu af þessu hvaða viðmót tekur við manni á hinum endanum og hvernig best er að afhenta viðskiptin til greiðslusíðunnar?",
+            "date": "2013-02-16 15:44:00",
+            "post_id": "495774",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "hagur",
+            "text": "Sæll,\nÞú getur skoðað online demo hjá Valitor hérna: \nhttps://demo.valitor.is/verslun/",
+            "date": "2013-02-16 16:46:00",
+            "post_id": "495787",
+            "reply_to_id": "495774"
+        },
+        {
+            "user_name": "Helfari",
+            "text": "Ætli ég verði ekki að setja mig í samband við þá hjá Valitor á morgun. Ég hef aldrei þurft að flytja gögn á milli síða líkt og í þessu tilfelli. Það hefur alltaf gengið vel að sækja gögn í grunna og birta og bera saman en þetta er sennilegast eitthvað allt annað. Ég ætla að hringja í þá á morgun og fá frekari upplýsingar um hvað ég þarf að gera á mínum enda til að síðurnar geti talað saman.\nÞað væri ótrúlega þægilegt ef eitthver hefði sett upp staðal um hvernig svona skuli fara fram, en það er víst ekki alveg þannig !",
+            "date": "2013-02-17 20:59:00",
+            "post_id": "496001",
+            "reply_to_id": "495787"
+        },
+        {
+            "user_name": "dori",
+            "text": "Skoðaðu \nhttp://dalpay.com\n eða \nhttp://paymill.com\nBæði býður upp á að borga ekkert startgjald eða mánaðargjald (þá er samt yfirleitt hærri prósenta á hverja færslu).",
+            "date": "2013-02-17 21:01:00",
+            "post_id": "496003",
+            "reply_to_id": "496001"
+        },
+        {
+            "user_name": "Helfari",
+            "text": "Mér finnst dalpay ekki ganga upp vegna þessara prósenta, það þýðir að félagsmenn þurfa að greiða hærri upphæðir fyrir allt sem þeir kaupa hjá félaginu. Ég held að íslenskt viðmót líkt og hjá Valitor væri gott þar sem félagsmenn eru á öllum aldri. Þekkir eitthver hvernig þetta fer fram hjá Valitor, þ.e. hvernig maður kemur körfunni til þeirra og hvernig hún skilast svo til baka þegar greiðslunni líkur?",
+            "date": "2013-02-17 21:08:00",
+            "post_id": "496008",
+            "reply_to_id": "496003"
+        },
+        {
+            "user_name": "dori",
+            "text": "Þú verður náttúrulega að setja þetta dæmi upp alla leið. Jújú, það er kannski aðeins hærri prósenta en það fer eftir því hvað það er mikil velta hvað kemur best út.\nAnnars þá er greiðslusíðukerfið bæði hjá Borgun og Valitor þannig að þú sendir html form á einhverja síðu hjá þeim með upplýsingum um hvaða línur eiga að koma fram á kvittuninni og aðrar basic upplýsingar eins og hvað á að gerast þegar greiðslan klárast etc. Mjög auðvelt að vinna á móti því, geri ég ráð fyrir, hef ekki notað það sjálfur.",
+            "date": "2013-02-17 21:15:00",
+            "post_id": "496010",
+            "reply_to_id": "496008"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Rétt hjá Dóra.  Þú gerir HTTP POST yfir á greiðslusíðuna með ákveðnum parametrum, sem eru, meðal annars, vörulínurnar, magn hverrar vöru og einingaverð, auðkenni seljanda og öryggiskóði sem þú færð úthlutað þegar þú kaupir aðgang að greiðslusíðunni.  Auk þess sendirðu með slóð sem þú vilt að greiðslusíðan geri callback í þegar greiðslu er lokið (sem triggerar þá þín megin að búið sé að greiða og merkir pöntunina þess efnis) og loks MD5 hash af öllu draslinu sem digital signature.\nGerist varla mikið einfaldara.",
+            "date": "2013-02-17 21:25:00",
+            "post_id": "496015",
+            "reply_to_id": "496010"
+        },
+        {
+            "user_name": "rango",
+            "text": "Var einmitt að fara benda á þetta, Alltaf að tryggja að gögnin séu raunverulega frá gáttini. Og númer eitt tvö og hundrað. Never EVER trust the user.",
+            "date": "2013-02-17 21:34:00",
+            "post_id": "496018",
+            "reply_to_id": "496015"
+        },
+        {
+            "user_name": "Helfari",
+            "text": "Takk fyrir svörin, nú hef ég allavega smá innsýn í þetta. Ég kunni nefnilega ekki við að setja félagið í eitthverjar skuldbindingar án þess að vita allavega útá hvað þetta gengur. Ég vildi líka vita hvort þetta væri eitthvað sem ég réði við.",
+            "date": "2013-02-18 17:42:00",
+            "post_id": "496126",
+            "reply_to_id": "496018"
+        }
+    ],
+    "date": "2013-02-16 15:44:00"
+}

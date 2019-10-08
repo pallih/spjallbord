@@ -1,0 +1,86 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "6581",
+    "title": "mjög furðuleg spurning um þráðlaust net",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=6581",
+    "posts": [
+        {
+            "user_name": "Pandemic",
+            "text": "Það er skólalan í kvöld og ég er komin með allt ready en skólin vill ekki hleypa okkur á netið þannig ég var að pæla þar sem ég bý 100-200m/max frá skólanum bara gata á milli okkar eiginlega og húsið mitt er hærra en sjálfur skólin þannig ég var að pæla hvort ég gæti sett routerin útí svalahurð nálægt glugga or some og tengst netinu mínu frá skólanum og jafnvel ef það virkar ekki byggt loftnet úr herðatrjám or some til að checka hvort ég gæti aukið drægni frá routernum er þetta ómögulegt eða?\n\n\n\nBtw linksys access punktur hann er með svona tengi sem lítur út eins og sumir sjónvarpskaplar með svona litlum vír í miðjunni.",
+            "date": "2004-12-03 15:41:00",
+            "post_id": "68955",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Ég hef hæst heyrt talað um 300 fet (91,44 m) með standard loftnetum.\n\n\n\nHef aldrei heyrt um herðatrjáa loftnet, og efa að það virki. En hinsvegar hafa oft verið gerð loftnet úr dósum(oftast pringles), kallað Canntenna, en þú hefur varla útbúnað né tíma til þess að gera svoleiðis.\n\n\n\nEr ekki bara annars að prófa að setja AP'inn útí glugga og vona? \n\n\n\n\nps. tengið er kallað Coaxial(Coax) en gætir einnig sé þá kallað RG-\ntala\n (Radio Grade, notað til að mæla Coax kapla)",
+            "date": "2004-12-03 16:07:00",
+            "post_id": "68956",
+            "reply_to_id": "68955"
+        },
+        {
+            "user_name": "axyne",
+            "text": "ég er með internetið mitt í gegnum örbylgju.\n\nsendirinn er cc 300m frá mér. eina sem ég nota er lítill usb móttakari.",
+            "date": "2004-12-03 17:43:00",
+            "post_id": "68977",
+            "reply_to_id": "68956"
+        },
+        {
+            "user_name": "GoDzMacK",
+            "text": "Hef heyrt að því stærri sem tengingin sé því styttra drífur þráðlausa netið, var allavega svoleiðis á mínum gamla router.",
+            "date": "2004-12-03 18:33:00",
+            "post_id": "68997",
+            "reply_to_id": "68977"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Ég þykist nokkuð viss um að hann hafi verið að tala um 802.11* kerfi.\n\n\nHmm, skil ekki alveg hvða þú átt við? Hvaða tengingu ertu að tala um?",
+            "date": "2004-12-03 19:21:00",
+            "post_id": "69015",
+            "reply_to_id": "68997"
+        },
+        {
+            "user_name": "natti",
+            "text": "Hann er væntanlega að meina, sem er rétt, að því minni hraði sem þú ert með á þráðlausa netinu því lengra nærðu. Flest kort & AP eru með auto á hvaða hraða þú færð.\n\nÞ.e.a.s. þú ert ekki alltaf með 11Mb á 802.11b, heldur geturu verið á 1.1Mb 5.5Mb etc. \n\nOg því lengra sem þú ferð frá punktnum því minni hraða nærðu.\n\nLoftnetið sem ég er með er gefið upp fyrir:\n\nApproximate Indoor Range at 6 Mbps: 379 ft (116 m)\n\nApproximate Indoor Range at 54 Mbps: 114 ft (35 m)",
+            "date": "2004-12-04 20:03:00",
+            "post_id": "69193",
+            "reply_to_id": "69015"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Kúl, alltaf er maður að læra eitthvað nýtt",
+            "date": "2004-12-04 23:11:00",
+            "post_id": "69222",
+            "reply_to_id": "69193"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "er ekki málið að stilla sendinn bara á 1.1mbps eða 2.2mbps og athuga hvort hann drífur þannig.",
+            "date": "2004-12-05 14:57:00",
+            "post_id": "69310",
+            "reply_to_id": "69222"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "jamm, nema þetta helgarlan er líklegast að verða búið",
+            "date": "2004-12-05 16:15:00",
+            "post_id": "69328",
+            "reply_to_id": "69310"
+        },
+        {
+            "user_name": "so",
+            "text": "Þá væri líka forvitnilegt að fá að vita hvernig gekk með tenginguna hjá pandemic",
+            "date": "2004-12-05 16:50:00",
+            "post_id": "69342",
+            "reply_to_id": "69328"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "prófuðum þetta ekki vegna þess að ég þurfti allar lansnúrurnar mínar og gamli hub-inn minn bilaði",
+            "date": "2004-12-05 16:52:00",
+            "post_id": "69343",
+            "reply_to_id": "69342"
+        }
+    ],
+    "date": "2004-12-03 15:41:00"
+}

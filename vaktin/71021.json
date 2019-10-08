@@ -1,0 +1,177 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "71021",
+    "title": "Server build - Azure stack-Hyper-v-Vmware ESXI",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=71021",
+    "posts": [
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Er að púsla saman vél sem getur nýst mér í sjálfnám. Kröfur miðast við að geta sett upp Azure stack , Hyper-v og Vmware ESXI .\nÞetta er Minimum requirements í Azure stack\nMinimum of 96GB of memory or 128GB as recommended.\nMinimum of 12 Cores CPU or 16 Cores CPU as recommended\nMinimum of 4x Disks and each 140GB or 4x 250GB Disks recommended\nÞað má helst ekki heyrast of hátt í server, eyðir ekki of miklu rafmagni og er meðfæranlegur.\n3080 (buildið) $ + 373$ (shipping) =  3453 $\nServer!\nSamsung Hard Drive 250GB SSD SATA 6Gb/s 2.5in!\nSamsung Hard Drive SSD 512GB PCI-E 3.0 x4, MLC!\nAuka 2 X 32 GB ECC vinnsluminni!\nÁstæða fyrir kaupum Samsung diskunum,  SSD m.2 PCIe verður notaður fyrir Datastore (sýndavélar) og SSD sata3 fyrir OS (Hyper-v).\nÁ nú þegar 2 stk 3.5  7200 RPM WD diska (fyrir Azure stack build).\nEf þið vitið um að bang for the buck vél með þessum speccum þá megiði endilega láta mig vita.",
+            "date": "2016-10-22 13:23:00",
+            "post_id": "635312",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "emmi",
+            "text": "Kíktu á serverinn sem Klemmi er/var að selja hér um daginn. Svo er líka spurning fyrir þig að leigja þetta, t.d. hjá Online.net og Hetzner.com.",
+            "date": "2016-10-22 13:28:00",
+            "post_id": "635314",
+            "reply_to_id": "635312"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Var búinn að skoða hann, er því miður ekki með aðstöðu fyrir fyrirferðamikinn netþjón sem heyrist mikið í.\nEflaust fínn netþjónn samt sem áður fyrir uppsett verð.",
+            "date": "2016-10-22 13:32:00",
+            "post_id": "635315",
+            "reply_to_id": "635314"
+        },
+        {
+            "user_name": "playman",
+            "text": "En að leigja server online eins og emmi nefndi, amazone eru líka að legja út servera, ásamt haug af öðrum, þá þarftu ekki að dröslast\nmeð serverinn útum allt.\nAð leigja server er mun ódýrara, nema að þetta sé eitthvað sem að þú ætlar að eiga til langstíma.",
+            "date": "2016-10-22 13:50:00",
+            "post_id": "635317",
+            "reply_to_id": "635315"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Virtualizing Azure Stack environment is not supported through VMWare or Hyper-V by Microsoft. \n \nReikna með að eiga þennan þjón áfram fyrir ýmis konar æfingar (sql,web server uppsetningar og hybrid cloud æfingar). Þegar maður hefur grautast nógu mikið í þessum server þá fer maður að pæla í Bang for buck networking pælingum.\nPfsense router!\n (væri líklega hægt að gera Site-to-site Tunnel yfir í Microsoft Azure , netgate bíður uppá Pfsense appliance í Azure public cloudinu).\nUbiquiti EdgeSwitch 16 - Switch!\n (bíður uppá LACP á móti Freenas server þegar maður þarf að pæla í Link aggregation)",
+            "date": "2016-10-22 14:03:00",
+            "post_id": "635319",
+            "reply_to_id": "635317"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Jæja smá update , náði að púsla saman aðeins ódýrari vél sem myndi henta í þetta.\nPantað af Amazon:\nSamsung 850 EVO 250GB!\nSamsung 850 EVO 1TB 2.5-Inch!\nIntel Xeon E5 Quad Core Processor 3.5 4 LGA 2011!\nKingston Technology HyperX FURY Black 64 GB Kit CL15 DIMM DDR4 2400 X 2!\n1328 $ + 338 $ tollur og vaskur = $1,667 $ >> 191.000 kr\nPantað á Íslandi:\nASRock X99 Extreme4 ATX Intel LGA2011-3 !\nThermaltake Urban S31 ATX turnkassi, svartur!\nIntel Pro 9301CT PCI-E 10/100/1000 netkort!\n19.990 + 39.500 kr + 7990 = 67480 kr\nÁ reyndar eftir að velja mér aflgjafa en það er sirka 15-20 þúsund.\nKomst að því að I7 styður ekki 128 gb í vinnsluminni (Intel Xeon E5 Quad Core Processor sem ég valdi gerir það).\nValdi líka Intel netkort þar sem Vmware ESXI og intel netkort eru ágætis vinir.\nASRock X99 Extreme4 ATX Intel LGA2011-3 móðurborðið virkar með ESXI komst ég að eftir smá rannsóknarvinnu á Google (128 gb ram support í boði á því móðurborði) .\nEdit: Einhverjir Intel 2011-v3 i7 Cpu virðast greinilega styðja 128 gb af vinnsluminni , greinilega ekki þeir sem ég var að skoða  \n \n(að setja upp Azure stack , er reyndar örugglega ekki í boði þar sem þessi örgjörvi er ekki 12 kjarna)",
+            "date": "2016-10-24 00:09:00",
+            "post_id": "635427",
+            "reply_to_id": "635319"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Fann líka \nQotom Q190G4 Intel Celeron Processor 3215U Dual Core\n á Amazon sem gæti hugsanlega nýst sem pfsense router.",
+            "date": "2016-10-24 00:40:00",
+            "post_id": "635428",
+            "reply_to_id": "635427"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "FYI; Það er hægt að minnka þetta RAM mininum requirement á Azure Stack niður í 27GB, minnir að það sé inná LinkedIn/blogginu hans Gísla G (man ekki url..)",
+            "date": "2016-10-24 02:04:00",
+            "post_id": "635432",
+            "reply_to_id": "635428"
+        },
+        {
+            "user_name": "berteh",
+            "text": "https://www.linkedin.com/pulse/manipula ... ublished=t",
+            "date": "2016-10-24 08:39:00",
+            "post_id": "635435",
+            "reply_to_id": "635432"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Maður hugsanlega lækkar sig niður í 64 gb í Ram ef maður ákveður að fara seinni build leiðina. Maður getur alltaf bætt við vinnsluminni ef þörf er á.",
+            "date": "2016-10-24 14:06:00",
+            "post_id": "635452",
+            "reply_to_id": "635435"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Er byrjaður að skoða \nIntel® Xeon® Processor E5-2683 v3 !\n , hægt að fá þá notaða af Ebay frá 290$ - 400 $ - það eru 14 kjarnar og 28 Threads á þeim örgjörva og passa í þetta móðurborð.",
+            "date": "2016-10-24 18:43:00",
+            "post_id": "635464",
+            "reply_to_id": "635452"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Smá breyting \n ákvað að einblína eingöngu áVmware  ESXI build og geta keyrt Freenas virtual server með 4 x 1 Tb 7200 RPM drifum í PCI passhrough yfir í Vmware ESXI svo ég geti nýtt drifin í Raid-z uppsetningu á Freenas sýndarvél.\nBúinn að versla:\ni7 4790k og ASRock Z97 Extreme6 (keypt á vaktinni 55 þúsund)\n4 X Seagate 7200.12 1TB , Notkun tæpar 36þ klst (keypt á vaktinni 8 þúsund)\nAntec p182 (keyptur á Bland fyrir 10 þúsund)\nIntel DC S3710 Enterprise 400GB 2.5\" SSD (keypt af Ebay 28 þúsund)\n1 x LSI 9210-8i með full height bracket og 2 X Blue 0.7M Intel sideband, sheathed Breakout kaplar (keypt af serve the home ,sirka 14 þúsund)\nÁ eftir að versla:\nPowersupply\nCPU Heatsink\n(4x8) 32 gb of DDR3 af Dimm ram",
+            "date": "2016-10-31 19:34:00",
+            "post_id": "635921",
+            "reply_to_id": "635464"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Búinn að versla það sem mér vantaði uppá til að klára buildið:\nThermaltake Berlin 630W\nADATA 16GB DDR3 1600MHz (4x8GB)\nNoctua NH-L9x65 örgjörvakæling\nKeypti líka efni til að hljóðeinangra kassann betur ef þess gerist þörf (í Kísildal)\nNúna er ég að bíða eftir að fá sent til mín:\nIntel DC S3710 Enterprise 400GB 2.5\" SSD (keypt af Ebay )\n1 x LSI 9210-8i með full height bracket og 2 X Blue 0.7M Intel sideband, sheathed Breakout kaplar (keypt af serve the home )\nBæti eflaust við 1 stk SSD í buildið fyrir Plex video Storage fyrir  Freenas Sýndavél í ESXI uppsetningunni.",
+            "date": "2016-11-02 23:23:00",
+            "post_id": "636068",
+            "reply_to_id": "635921"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Jæja er búinn að kaupa 500 GB Samsung EVo 850 SSD (Storage sem verður undir linux eða Windows VM á ESXI host vélinni þar sem plex server veður keyrandi á). \nKeypti einnig 5 X 2 TB 7200 RPM Sata drif (fékk á þokkalegum prís) sem ég ætla að nota fyrir Physical Freenas server (undir backup af ESXI host vélinni, Vmware snapshot, ZFS replication og Crashplan backup af fartölvunni minni og þess háttar , backup ef maður eyðir einhverri skrá óvart í öllu fiktinu og nennir ekki að setja allt dótið upp frá grunni). Er ennþá að meta hvort ég noti gamla vél sem ég á eða fái mér kassa sem myndi henta undir þessa diska (keypti mér allavegana hljóðeinangrandi efni ef ég ætla að nýta gamla kassann minn þar sem viftuhljóð er minn versti óvinur á heimavellinum).",
+            "date": "2016-11-04 23:36:00",
+            "post_id": "636160",
+            "reply_to_id": "636068"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Intel SSD diskurinn var að mæta á svæðið með DHL (fyrir ESXI datastore-ið). Allt að gerast.",
+            "date": "2016-11-07 20:37:00",
+            "post_id": "636310",
+            "reply_to_id": "636160"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Jæja , búinn að setja upp Freenas physical serverinn, Er nú að bíða eftir að fá sent LSI SAS 9210-8i 8-port 6Gb/s PCIe fyrir Vmware ESXI serverinn.\nKeypti Netgear GS105E-100PES (5-PORT web managed switch) og festi undir borðið ( báðir serverar eru með 2 X 1 GB NIC). Á líka eftir að spá betur í cable managementinu (Geri það þegar allt er uppsett). Er að fara sæka langar HDD skrúfur til Zorrez af vaktinni (hann var svo góður í sér að redda mér nokkrum skúfum sem mér vantaði uppá til að klára að festa HDD drifin í Antec kassana ).\nÁ eftir að stilla Freenas serverinn almennilega til , en er búinn að setja upp tvö network interface og þess háttar , á einnig eftir að stilla share-in (geri það þegar ESXI hostinn er kominn upp)",
+            "date": "2016-11-11 16:55:00",
+            "post_id": "636624",
+            "reply_to_id": "636310"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Vmware ESXI - uppsett\nFreenas backup server uppsettur\nPfsense Router Uppsettur\nTekur smá pláss - þarf að klára smá frágang og þá fær aðstaðan að vera í friði í sirka 6 mánuði eða svo",
+            "date": "2016-12-04 18:51:00",
+            "post_id": "638335",
+            "reply_to_id": "636624"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Ákvað að uppfæra tenginguna í 1 Gbit hjá hringdu og er að ná þessum hraða á Pfsense router sem er uppsettur á \nÞessa!\n græju.\nSpeedtest result!",
+            "date": "2016-12-04 19:06:00",
+            "post_id": "638337",
+            "reply_to_id": "638335"
+        },
+        {
+            "user_name": "dori",
+            "text": "Ertu að gera eitthvað með pfsense meira en að nota hann sem basic NAT? VPN? Eitthvað sem skoðar pakkana eitthvað (snort/suricata eða svipað) eða bara... Hvað ertu að gera með því?\nÉg spyr af því að ég er að fara að kaupa mér vél fyrir pfsense og skoðaði þessar J1900 vélar á Aliexpress en var smá hikandi og smá farinn að skoða að fá mér \nSupermicro A1SRi-2x58F\n og byggja eitthvað á því eða eitthvað frá Netgate. Eitthvað sem notar aðeins kraftmeiri örgjörva og \"server grade\" netkort.\nAlveg meðvitaður um að það væri overkill og þessar J1900 myndu væntanlega duga vel í allt sem mig langar til að gera. En af hverju ekki að leika sér smá og fara vel overboard í þessu?",
+            "date": "2016-12-05 09:53:00",
+            "post_id": "638365",
+            "reply_to_id": "638337"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Er eingöngu búinn að setja upp Snort og Vpn eins og staðan er í dag (þessi búnaður hefur eingöngu verið keyrandi í sirka viku) , maður er hægt og rólega að komast inní Pfsense menninguna og á eflaust eftir að nota aðra fídusa í framtíðinni. Ég fylgist með umræðum á \nPfsense official group á facebook!\n og skrái mig eflaust fljótlega í   \nGold membership á pfsense.org\n. Þar fær maður aðgang að Vmware Virtual Security Gateway Appliance og aðgang að pfsense lesefni og fleira. Þetta fannst mér rökrétt fyrsta skref á heimavellinum en maður á eflaust eftir að skala netbúnaðinn undir Pfsense upp eftir því sem manni lýst betur á að nota pfsense í öllu þessu helsta.\nHef verið að skoða að setja upp dedicated Freenas offsite backup server í gagnaveri og þá gæti maður hugsanlega endað í einhverri stærri Pfsense græju ,þá finnst mér rökrétt að versla af Netgate þar sem þeir bjóða einnig uppá Support með græjunum sínum, fannst ekki meika sense að borga 250-300 $ meira fyrir búnað frá Netgate heima vs aliexpress græjuna",
+            "date": "2016-12-05 11:07:00",
+            "post_id": "638368",
+            "reply_to_id": "638365"
+        },
+        {
+            "user_name": "nidur",
+            "text": "Var einhver sérstök ástæða fyrir því að þú fórst ekki í ECC minnin?\nOg þú ákvaðst að færa freenas úr vmware og hafa hann á sérvél\nEinnig þá hef ég verið að nota owncloud fyrir backup inn á freenas hjá mér, en svo með headless crashplan sem tekur backup af öllu inn á cloud",
+            "date": "2016-12-05 11:46:00",
+            "post_id": "638371",
+            "reply_to_id": "638368"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Þetta er hugað sem Test/þróunarumhverfi ekki production umhverfi (virkar samt vel án þess að vera með Ecc ram).\nÉg er með Freenas á sér vél fyrir backup af Vmware (snapshots,pfsense og Freenas config og fleira), er ennþá að bíða eftir LSI controller sem ég pantaði til að geta sett upp annað eintak af Freenas á Vmware hostinn (í Pci passthrough svo að Freenas vm vélin hafi raw access að diskum).\nEr að prófa ákveðna feature-a í Freenas sem ég hef ekki notað mikið áður og fannst réttara að prófa þá heima fyrst og lesa mig til um efnið.\nEr byrjaður að lesa \nFreebsd mastery- Storage essentials og Freebsd mastery - ZFS og er búinn að klára ákveðinn Freenas online video course til að geta notað kerfið af einhverju viti (ekki bara eitthvað gisk).\nEr að fikta með Rclone (rclone.org/docs) og prufa Amazon s3 object storage fyrir afritun af ákveðnum gögnum (allra mikilvægustu) en er þó að prófa nextcloud á Freenas backup servernum eins og staðan er núna (var ekki að fýla owncloud á sínum tíma en hugsanlega hefur það breyst , heyrði allavegana af því að nextcloud notar mysql vs sqlite og kannski gerir það gæfumunin)",
+            "date": "2016-12-05 12:02:00",
+            "post_id": "638373",
+            "reply_to_id": "638371"
+        },
+        {
+            "user_name": "nidur",
+            "text": "Mér finnst þetta mjög flott hjá þér, ef ég væri að vinna við tölvur þá hefði ég farið í það að vera séní í Freenas.\nÉg var sjálfur með non ECC server í 1 ár áður en ég tók stökkið í Supermicro og Ecc minni.\nÉg hef sjálfur focusað á það að vita sem best hvernig á að passa upp á gögnin í kerfinu, hef ekki nennt að skoða annað að neinu viti.\nFannst rclone ekki virka eins og ég vildi, þannig að ég fór í owncloud, enda er það bara súper auðveld lausn, nánast idiotproof, nema ef maður vill hafa það https.\nGetur séð hardware sem ég valdi í Freenas serverinn minn \nhérna",
+            "date": "2016-12-05 13:19:00",
+            "post_id": "638383",
+            "reply_to_id": "638373"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Jamm Freenas er alveg fínasta kerfi , allavegana öruggur með gögnin ef þú setur upp rétt hardware og stillir búnaðinn í takt við þínar þarfir.\nÞað sem hrífur mig mest er að maður getur nánast alltaf endurnýtt eldri búnað og hent upp Freenas (einnig flott að í Freenas 10 verður mjög einfalt að henda upp VM og manage-a). Er samt mjög hrifinn af Vmware esxi 6.5 og að geta opnað VM í browser með einföldu móti (var þvílíkt vesen áður en þeir byrjuðu að nota HTML5 web client og þurfti maður yfirleitt að opna VM í nýjum console með vmrc plugin). Freenas 10 á reyndar einnig eftir að bjóða uppá það en reikna með að nota frekar Freenas sem ISCSI sem bakenda fyrir Vmware ESXI host-a. Ætla að prófa hvernig er að vinna í gegnum Open VPN á annari tengingu en heima og opna VM í gegnum browser og sjá hvernig það kemur út.\nHef sett núna upp 5 sýndavélar , Windows server 2016 , linux vélar og freebsd vélar og þær virðast allar virka vel á heimanetinu í gegnum browser og scalast mjög vel eftir að maður installar vmware tools. og ekkert lagg þegar maður vinnur á vélunum",
+            "date": "2016-12-05 13:40:00",
+            "post_id": "638384",
+            "reply_to_id": "638383"
+        }
+    ],
+    "date": "2016-10-22 13:23:00"
+}

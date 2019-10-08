@@ -1,0 +1,128 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "6043",
+    "title": "fartölvan finnur ekki þraðlausa netið..",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=6043",
+    "posts": [
+        {
+            "user_name": "w.rooney",
+            "text": "hvap getur það verið þegar að tölvan finnur allt í einu ekki þraðlausa netið.. virkaði fínt í gær en ekki núna.. \n\n\n\nþetta er router fra símanum speedtouch 545 eða eikkað álika...",
+            "date": "2004-10-20 23:40:00",
+            "post_id": "61562",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gumol",
+            "text": "Er nokkuð slökt á netkortinu? (td. ef þetta er laptop með innbyggt netkort)",
+            "date": "2004-10-21 00:06:00",
+            "post_id": "61564",
+            "reply_to_id": "61562"
+        },
+        {
+            "user_name": "einarsig",
+            "text": "getur prófað að skipta um radio rásir á honum..... ferð á 192.168.1.254 basic>wireless>þar á að vera e-ð sem heitir access point settings eða channels..... prófa að skipta um rásir þar.... eru frá 1-13 minnir mig og skipa um rásir og gera alltaf save all á milli.",
+            "date": "2004-10-21 08:57:00",
+            "post_id": "61577",
+            "reply_to_id": "61564"
+        },
+        {
+            "user_name": "w.rooney",
+            "text": "nei það held ég nú ekki.. alla vega hef ég ekki verið að fikta í því.. nei og svo finnur hun það stundum við mjög lítið signal...\n\n\n\nEn hvernig tjekar maður annas hvort það se kveikt eða slökkt ?",
+            "date": "2004-10-21 10:47:00",
+            "post_id": "61581",
+            "reply_to_id": "61577"
+        },
+        {
+            "user_name": "viddi",
+            "text": "ertu dáldið langt frá routernum",
+            "date": "2004-10-21 10:55:00",
+            "post_id": "61583",
+            "reply_to_id": "61581"
+        },
+        {
+            "user_name": "w.rooney",
+            "text": "Nei ég sit nuna við hliðina á honum og hun finnur hann samt ekki",
+            "date": "2004-10-21 10:58:00",
+            "post_id": "61585",
+            "reply_to_id": "61583"
+        },
+        {
+            "user_name": "viddi",
+            "text": "hefuru prófað að restarta stillingunum á routernum bara restore defaults og hreinsa driverana úr tölvunni og setja bara allt upp á nýtt ?",
+            "date": "2004-10-21 11:00:00",
+            "post_id": "61586",
+            "reply_to_id": "61585"
+        },
+        {
+            "user_name": "w.rooney",
+            "text": "nei ég kaski prófa það...",
+            "date": "2004-10-21 11:11:00",
+            "post_id": "61591",
+            "reply_to_id": "61586"
+        },
+        {
+            "user_name": "einarsig",
+            "text": "þú veist að netkortið sem kom með routerinum á að fara í slot á hliðinni á routernum til að virkja hann sem þráðlausan",
+            "date": "2004-10-21 11:13:00",
+            "post_id": "61592",
+            "reply_to_id": "61591"
+        },
+        {
+            "user_name": "w.rooney",
+            "text": "amm ég geri mer grein fyrir þvi.. en ég er búinn að vera með þennan router i smá tíma og alltaf virkað fínt en svo bara allt í einu out of the blue týnist hann .. og tölvan veit ekki neitt... og minns er bra alveg lost.. það virðist ekki virka að setja  routerinn aftur upp..",
+            "date": "2004-10-21 11:25:00",
+            "post_id": "61596",
+            "reply_to_id": "61592"
+        },
+        {
+            "user_name": "einarsig",
+            "text": "tjekkaðir með skipta um radio channels í wireless ??",
+            "date": "2004-10-21 11:30:00",
+            "post_id": "61599",
+            "reply_to_id": "61596"
+        },
+        {
+            "user_name": "w.rooney",
+            "text": "amm það var rétt hjá þer.. þetta með radio channels virkaði .. en ég er tengdur netið en samt segir wireless network gluggin í lappanum að ég se ekki tengdur.. en mer er alveg sama ég er kominn á netið aftur.. \n\n\n\nen þetta með radio channels-ið , getur það breyst dag frá degi ?\n\n\n\np.s. takk fyrir hjálpina..",
+            "date": "2004-10-21 11:48:00",
+            "post_id": "61600",
+            "reply_to_id": "61599"
+        },
+        {
+            "user_name": "einarsig",
+            "text": "jaa virðist vera að það sé e-ð´í umhverfinu sem getur breytt hvað virkar og hvað ekki..... veit ekki hvað það er en mín reynsla að oft virkar að breyta um channels....",
+            "date": "2004-10-21 13:12:00",
+            "post_id": "61612",
+            "reply_to_id": "61600"
+        },
+        {
+            "user_name": "w.rooney",
+            "text": "hvernig stendur á því að ég sé tengdur við netið en samt kemur í Wireless network glugganum að ég se ekki tengdur en samt er ég á netinu.. er búinn að brainstorma yfir þessu í dag..  þetta er svodið skrítið !",
+            "date": "2004-10-21 19:20:00",
+            "post_id": "61671",
+            "reply_to_id": "61612"
+        },
+        {
+            "user_name": "einarsig",
+            "text": "ertu að nota e-ð software sem kemur með þráðlausum kortum stundum ?..... verður annað hvort að nota það eða windows configið",
+            "date": "2004-10-21 22:35:00",
+            "post_id": "61706",
+            "reply_to_id": "61671"
+        },
+        {
+            "user_name": "GoDzMacK",
+            "text": "ef þú ert með xp fáðu þér service pack 2 gæti bjargað málunum, allavega geturu þá ráðið við hvaða tengingu þú getur connectað við en ekki bara þessa sem er næst eins og var galli í sp1. En það er annað mál, stórir og litlir stafir skipta máli, rás 6(channel 6) virkar best hjá mér og flestum, enda er hún eiginlega default gæti ég haldið. \n\nOg passaðu að hafa ekki svona að tölvan þín geti sett þráðlausa kortið á stand-by ef það er ekki í notkun, og já gleymdi því alveg prufaðu líka að restarta routernum útaf ef það er breytt einhverju með tengingunni þinni, t.d. hraðahækkunin hjá símanum þarftu að restarta routernum eða hringja up aftur, og væri sniðugt og restarta tölvunni á meðan.",
+            "date": "2004-10-22 00:12:00",
+            "post_id": "61727",
+            "reply_to_id": "61706"
+        },
+        {
+            "user_name": "einarsig",
+            "text": "ehh já  \n  en það var nú samt hægt að velja preferred networks á SP1 með því að fara í properties á wireless network connection> wireless network flipann og þar er preferred networks þar sem þú færðir til á listanum á hvað net þú vildir helst tengjast, sem sagt eftir hvaða net væri í boð.",
+            "date": "2004-10-22 09:05:00",
+            "post_id": "61754",
+            "reply_to_id": "61727"
+        }
+    ],
+    "date": "2004-10-20 23:40:00"
+}

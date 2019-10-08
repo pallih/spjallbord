@@ -1,0 +1,58 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "1906",
+    "title": "Alcatel PCI ITEX ADSL módem",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=1906",
+    "posts": [
+        {
+            "user_name": "mufusus",
+            "text": "er einhver hérna sem hefur sett upp t.d. Red Hat með þessu módemi Alcatel PCI ITEX ADSL módem frá ogvodafone, einhver með reynslu eða veit hvernig skal gera þetta. Og bara hvort Linux styðji ITEX kubbasettið. Vona að þið skiljið mig.",
+            "date": "2003-10-27 19:54:00",
+            "post_id": "17713",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "ICM",
+            "text": "Halanegri sagði að þeir hjá ITEX hefðu hannað linux drævers svo illa að það sé ómögulegt að uppfæra þá núna fyrir nýjustu kernel þar sem ITEX eru farnir á hausin. Þarft að nota gamlan kernel eða getur gleymt því að reyna það.",
+            "date": "2003-10-27 20:34:00",
+            "post_id": "17716",
+            "reply_to_id": "17713"
+        },
+        {
+            "user_name": "Theory",
+            "text": "Þarf ekki endilega að nota driverana sem eru innbyggðir í kjarnan, getur vel verið að einhverjir áhuga menn hafi skrifað linux driver fyrir þetta, það er ekki óalgengt, annars mæli ég frekar með að nota ethernet modem!",
+            "date": "2003-10-27 23:04:00",
+            "post_id": "17727",
+            "reply_to_id": "17716"
+        },
+        {
+            "user_name": "halanegri",
+            "text": "Jám, en ég bara veit ekki til þess að neinn hafi skrifað annan driver. Lang best að vera með ethernet/usb modem eða router.",
+            "date": "2003-10-28 02:54:00",
+            "post_id": "17745",
+            "reply_to_id": "17727"
+        },
+        {
+            "user_name": "gumol",
+            "text": "nátturlega lang best að vera með bæði ethernet og router",
+            "date": "2003-10-28 12:09:00",
+            "post_id": "17760",
+            "reply_to_id": "17745"
+        },
+        {
+            "user_name": "halanegri",
+            "text": "Ég hélt að allir routerar væru ethernet-tengdir.",
+            "date": "2003-10-28 13:02:00",
+            "post_id": "17769",
+            "reply_to_id": "17760"
+        },
+        {
+            "user_name": "mufusus",
+            "text": "ok datt það nefnilega í hug, ætlaði að láta að láta linux halda uppi netinu og server og solleis.",
+            "date": "2003-10-28 14:13:00",
+            "post_id": "17778",
+            "reply_to_id": "17769"
+        }
+    ],
+    "date": "2003-10-27 19:54:00"
+}

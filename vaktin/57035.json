@@ -1,0 +1,142 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "57035",
+    "title": "Python eða java fyrir byrjendur?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=57035",
+    "posts": [
+        {
+            "user_name": "gingij4",
+            "text": "Hvort mynduð þið mæla með að byrja að læra á? Python eða java. Er algjör byrjandi, hef bara forritað með arduino",
+            "date": "2013-09-08 11:51:00",
+            "post_id": "527587",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Java er alltaf mjög gott byrjendamál. Ef þú hefur forritað fyrir Arduino þá hefur þú forritað í C, sem er auðvelt að heimfæra í java. Myndi byrja að kíkja á java og fara svo í python seinna meir. Bæði tungumálin eru mjög góðir kostir að kunna á.\nSent from my GT-I9505 using Tapatalk 4",
+            "date": "2013-09-08 14:15:00",
+            "post_id": "527612",
+            "reply_to_id": "527587"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Java er meira svona eins og þessi old-school forritunarmál og nánanst öll bakendakerfi eru skrifuð í.\nPython er önnur hugsun og gefur þér miklu meira sem er ekki beint kostur þegar maður er að læra.",
+            "date": "2013-09-08 14:29:00",
+            "post_id": "527614",
+            "reply_to_id": "527612"
+        },
+        {
+            "user_name": "Orrabaunir",
+            "text": "Ég mæli með Python fyrir alla, sama hvar þeir eru staddir í lífinu.\nÞað sem þú gerir í 20 línum í Java gerirðu í 2 í Python (þú skilur)\nÉg hef lært bæði Java og Python og mér finnst Python mikið mikið skemmtilegri tungumál. Til að læra python the best way geturu tjékkað á þessu \nhttp://learnpythonthehardway.org/book/\n <--- Það eru mjög misjafnar skoðanir á þessu en mér finnst þetta covera basics og meira en það, svo þarftu að lesa ógeðslega mikið af Python kóðum og Python tutorial-um og auðvitað æfa sig of æfa og æfa og æfa :p\nNOTE:\n MÉR finnst.\nEDIT: geriru - gerirðu, same shit",
+            "date": "2013-09-09 08:40:00",
+            "post_id": "527740",
+            "reply_to_id": "527614"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Skiptir það öllu máli? Styttri kóði ÞARF ekkert að vera betri. Stundum geta málalengingarnar í Java hjálpað til við að útskýra hvað kóðinn á að gera.",
+            "date": "2013-09-09 09:33:00",
+            "post_id": "527743",
+            "reply_to_id": "527740"
+        },
+        {
+            "user_name": "Orrabaunir",
+            "text": "Nei vinur, ég var ekki að meina að það sé betra, alls ekki.\nÉg er sammála að málalengingarnar í Java hjálpa en þegar þú ert kominn lengra og skilur er (again, my opinion) Python þægilegra og auðveldara í notkun.\nEr ekki að reyna að gera útum hvor tungumál er \"betra\" þar sem að það er svoldið einstaklingsbundið.",
+            "date": "2013-09-09 09:40:00",
+            "post_id": "527746",
+            "reply_to_id": "527743"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Þá er best að mæla með því máli sem maður telur best að læra á (annaðhvort auðveldast eða besti undirbúningurinn). Ég held, án þess að hafa neinar sérstakar aðrar forsendur fyrir því en mínar eigin skoðanir, að Java sé besta málið til að læra á. MJÖG mikið af hjálp til á netinu, hjálpleg og þroskuð IDE (eða hráir textedit-orar með  stuðning við að kompæla og keyra). Svo er auðvelt að stökkva úr Java yfir í C(++) eða .net heiminn. \nHins vegar ef maður getur lært java þá er hægt að læra python líka.",
+            "date": "2013-09-09 10:19:00",
+            "post_id": "527751",
+            "reply_to_id": "527746"
+        },
+        {
+            "user_name": "dori",
+            "text": "Núna hef ég unnið við bæði Python og Java og mér finnst mun \nskemmtilegra\n að vinna í Python. Hins vegar eru til miklu fleiri og fullkomnari tól fyrir Java (debuggerinn í IDEA er t.d. muuun skárra en import pdb; pdb.set_trace(), ég hef ekki prufað PyCharm en það hugsanlega lagar það þessa hluti).\nÖll þessi mál virka sirka eins (reyndar ekki þegar þú ert kominn í functional forritun, Python trompar Java þar því að í Python eru functions first class, þú notar það samt væntanlega ekki mikið til að byrja með). Þú þarft að skilja nokkurn vegin hvað það er sem þú segir tölvunni að gera. Veldu bara eitthvað og lærðu á það. Þú þarft fyrst að læra hugsunina í að forrita. Java er hugsanlega betra af því að þá þarftu virkilega að hugsa um þetta dót. Það er líka meira aðhald með static typing mál.\nEn þetta kemur allt á svipuðum stað niður, veldu bara eitthvað og notaðu það. Eina leiðin til að læra þetta er að finna sér eitthvað project og gera það.",
+            "date": "2013-09-09 10:31:00",
+            "post_id": "527753",
+            "reply_to_id": "527751"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "\"Kominn lengra..\" ertu ekki að segja þarna að það sé þægilegra að læra grunninn fyrst í Java eða einhverju öðru rótgrónu tungumáli?",
+            "date": "2013-09-09 10:55:00",
+            "post_id": "527756",
+            "reply_to_id": "527753"
+        },
+        {
+            "user_name": "dori",
+            "text": "Ég veit svosem ekki alveg hvað hann á við en mín upplifun af þessu er að þegar þú ert kominn lengra [í Python] þá hjálpar að málið er ekki of verbose (sjá ekki skóginn fyrir trjánum týpan). Þú lærir grunninn alveg jafn vel í Python og öðru og það hjálpar ekkert að læra grunninn á einum stað og færa svo yfir í annað mál. Það er auðvitað góð reynsla að yfirfæra þekkinguna en það mun alltaf tefja þig og láta þér líða eins og þú kunnir ekkert að fara úr einu máli sem þú þekkir þokkalega yfir í eitthvað sem þú þekkir ekki vel.",
+            "date": "2013-09-09 11:07:00",
+            "post_id": "527758",
+            "reply_to_id": "527756"
+        },
+        {
+            "user_name": "Orrabaunir",
+            "text": "Já, ég var að reyna það.\nMér finnst að bera saman Python og Java er ekki hægt. Jújú, Að læra grunninn í Python er eins gott og að læra Java. En ef þú ætlar að festa þig í eitthverju tungumáli mæli ég frekar með Python heldur en Java. Ef þú villt svo halda áfram að læra ný tungumál mæli ég með Java til að byrja með",
+            "date": "2013-09-09 11:12:00",
+            "post_id": "527759",
+            "reply_to_id": "527758"
+        },
+        {
+            "user_name": "Haxdal",
+            "text": "Orðið svoldið langt síðan ég hef fiktað í Python, en ef ekkert mikið hefur breyst þá er það sem ég fer alltaf eftir með Python vs Java að ef þú ert algjör byrjandi þá er Python fínt,  en ef þú hefur einhvern smá grunn og þekkir/skilur syntaxinn í structured málum þá er Java fínt og auðveldara að fara úr Java í C/C++ og slík mál.",
+            "date": "2013-09-09 12:03:00",
+            "post_id": "527761",
+            "reply_to_id": "527759"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Ef þú ákveður að læra Python þá eru MIT með fínt námskeið \"Introduction to Computer Science and Programming\" á þessari síðu \nhttp://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm",
+            "date": "2013-09-09 12:26:00",
+            "post_id": "527764",
+            "reply_to_id": "527761"
+        },
+        {
+            "user_name": "fannar82",
+            "text": "- lagaði aðeins uppsetinguna\nEf ég ætti að ráðleggja þér eitthvað þá myndi ég kynna mér fyrst smá um „forritunalega hugsun“ td, Stöðuvélar,  eða hvernig á að byggja og gera læsilegan kóða og þegar þú ert kominn með smá vald á því forritunarmáli sem þú valdir þér TDD (test driven development).\nUncle Bob, hjá Cleancoding fer mjög skemmtilega í gegnum hvernig á að byggja upp og viðhalda kóða,\nÞað eru til fullt af síðum sem fara vel yfir TDD sem google ætti að geta bent á .\nEn Python vs Java.\nMyndi ég bara prufa IDE‘ana og viðmótið sem þú ert að vinna í og velja það sem þér þykir þæginlegra að vinna í,\nEina sem vert er að benda á er að Python pínir þig í að skrifa „fallegri kóða uppbyggingu“",
+            "date": "2013-09-09 13:10:00",
+            "post_id": "527770",
+            "reply_to_id": "527764"
+        },
+        {
+            "user_name": "k0fuz",
+            "text": "Gott að byrja á java, þá læriru basics-in betur frá grunni, getur svo farið í önnur mál eins og python og þá sérðu hvað það er skemmtilegt mál. Mér finnst python skemmtilegra en java er betra fyrir byrjendur.",
+            "date": "2013-09-09 15:51:00",
+            "post_id": "527803",
+            "reply_to_id": "527770"
+        },
+        {
+            "user_name": "tdog",
+            "text": "Java fyrst, það er flóknara en þú lærir málfræðina og uppbygginguna. Svo getur þú lært slangrið, eða python",
+            "date": "2013-09-09 17:29:00",
+            "post_id": "527824",
+            "reply_to_id": "527803"
+        },
+        {
+            "user_name": "Cobra",
+            "text": "Java er miklu meira notað í dag, bæði í námi og vinnu.\nSjá \nhttp://www.tiobe.com/index.php/content/ ... index.html\nÁ íslenskum vinnumarkaði er mest notast við C# og það er forritunarmálið sem ég mæli með að þú lærir",
+            "date": "2013-09-09 17:58:00",
+            "post_id": "527830",
+            "reply_to_id": "527824"
+        },
+        {
+            "user_name": "intenz",
+            "text": "C# alltaf alla daga! En af tvennu, þá Java.\nMitt fyrsta forritunarmál var PHP. Ég mæli alls ekki með því. Það var hreint helvíti að fara úr scriptumáli eins og PHP og yfir í t.d. C++.\n\"Af hverju getur array ekki orðið að streng?\"\n \n \nStrongly typed forritunarmál eru MIKLU betri til að byrja í. Hvers vegna? Þú ert settur í smá ramma þar sem þú þarft að fara eftir vissum reglum. Þú lærir að vita hvernig minnið virkar og lærir lógík betur. Lærir að verða betri forritari.\nPython er mjög sterkt þegar þú ert farinn að vilja flýta fyrir, en mál til að byrja á, mæli ég ekki með því.",
+            "date": "2013-09-09 23:19:00",
+            "post_id": "527887",
+            "reply_to_id": "527830"
+        },
+        {
+            "user_name": "starionturbo",
+            "text": "Það fer alveg eftir metnaði.\nEf þér langar að geta riggað einhverju vef based kerfi á no time og þarft ekkert endilega að skilja hvað þú varst að gera... þá mæli ég með python, rails eða php.\nEf þú vilt læra forritun og hvernig hlutnirnir virka osfrv. þá mæli ég með java, C#, C++ eða jafnvel C ef þú ert djarfur (eða assembly?? nei djók).",
+            "date": "2013-09-10 15:53:00",
+            "post_id": "528005",
+            "reply_to_id": "527887"
+        }
+    ],
+    "date": "2013-09-08 11:51:00"
+}

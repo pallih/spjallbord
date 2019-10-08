@@ -1,0 +1,93 @@
+{
+    "forum_title": "Windows",
+    "id": "14034",
+    "title": "Sequence kjaftæði! :(",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=14034",
+    "posts": [
+        {
+            "user_name": "Selurinn",
+            "text": "Ok, hér eru speccarnir\n\n\n\n\n\nAMD Athlon 3000+\n\nATI Radeon 9800 PRO\n\n512mb RAM DDR Corsair\n\n1024 RAM DDR (Tölvuvirknis minni)\n\n\n\n\n\nOk, það sem skeður þegar ég er í tölvuleikjum er eins og að tölvan einhvernveginn visti hreyfingarnar sem ég geri.\n\n\n\nSegjum eins og að ég sé í bílaleik (NFSU2) þá þegar ég beygi geðveikt mikið til hægri og það laggar svona aðeins, og svo vil ég fara til vinstri en þá heldur hann bara a´fram til hægri. Svo þegar ég sleppi vinstri örva takkanum þá er hann ennþá að fara til hægri, svo fer hann til vinstri og svo fæ ég control.\n\n\n\n\n\nSama með byssuleiki þegar ég nota mús. Þá ef ég geri einhverjar hreyfingar er eins og þær visstist og hann klárar þær eftir röðinni sem ég gerði þær vegna þess hann þarf að klára hverja einustu hreyfingu. Þótt ég vilji miða allt annarstaðar þegar ég þarf þess.\n\n\n\n\n\nGeðveikt erfitt að útskýra þetta vona að þetta hafi hjálpað.......\n\n\n\n\n\nWhat to do?",
+            "date": "2007-04-19 19:58:00",
+            "post_id": "144651",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "TechHead",
+            "text": "Hljómar eins og minnisleki....\n\n\n\nPrófaðu að drepa alla Processa sem eru í gangi í windows nema þá allra \n\nnauðsynleguste, semsé *System* Processana og explorer.exe og prófaðu\n\nsvo leikinn. \n\n\n\n\n\nEf það virkar ekki og þú ert með USB tengda mús og lyklaborð myndi ég\n\nprófa að henda út USB Host driverunum í device manager og endurræsa.",
+            "date": "2007-04-19 21:03:00",
+            "post_id": "144655",
+            "reply_to_id": "144651"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Er með minimal proccessors í gangi..........\n\n\n\n23 processes, sem er ekki neitt\n\n\n\n\n\n\n\nPrófa þetta með Device Managerinn",
+            "date": "2007-04-19 22:26:00",
+            "post_id": "144660",
+            "reply_to_id": "144655"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Gæti þetta verið similar vandamál.\n\n\n\n\n\nÞegar ég er bara að gera eitthvað í tölvunni þá allt í einu frýs allt nema músin.\n\n\n\nGet ekki klikkað á neitt........\n\n\n\nSvo um leið og ég geri ctrl+alt+delete þá get ég notað alla glugga aftur..........\n\n\n\n\n\n:S",
+            "date": "2007-04-19 23:24:00",
+            "post_id": "144669",
+            "reply_to_id": "144660"
+        },
+        {
+            "user_name": "TechHead",
+            "text": "þá er explorer.exe í klessu hjá þér, gerðu repair install á windows",
+            "date": "2007-04-20 12:15:00",
+            "post_id": "144690",
+            "reply_to_id": "144669"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Myndi sfc /scannow duga?\n\n\n\n\n\nEr ekki einhvernveginn í fýling til þess að setja þetta allt aftur upp núna (þ.e.a.s) allan hugbúnað og stillingar sem eru í tölvunni \n :S",
+            "date": "2007-04-20 14:16:00",
+            "post_id": "144692",
+            "reply_to_id": "144690"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "Það er margt sem getur verið að. Músin er í hæsta priority í windows. Kerfið sjálft getur verið frosið, en músin enþá hreifst. Gæti verið eitthvað drivera vandamál bara. Ertu búinn að prófa annað lyklaborð og mús?",
+            "date": "2007-04-20 15:18:00",
+            "post_id": "144697",
+            "reply_to_id": "144692"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Svo þetta með að allt frjósi síðan heldur allt áfram þegar ég geri ctrl+alt+delete\n\n\n\n\n\n\n\nÞetta er eitthvað fáranlegt dæmi sko.\n\n\n\n\n\nÉg ræsi leik, og hann fer ekkert í gang er bara endalaust að hugsa, svo þegar ég geri ctrl+alt+delete, þá hoppar hann altt í einu í gang.......\n\n\n\n\n\nWhat could be wrong :S",
+            "date": "2007-04-22 22:07:00",
+            "post_id": "144813",
+            "reply_to_id": "144697"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "ertu nokkuð með forrit sem heitir TopDesk hjá þér? forrit sem virkar þannig að þegar þú ýtir á alt+tab þá raðast gluggarnir svona i 3d dót eitthvað \n\n\n\n\n\n\n\nsvona akkurat, allavega þá var ég með þetta forrit og akkurat sami hlutur gerðist \n gæti samt verið(og er mjög líklega) eitthvað annað að hjá þér, bara benda þér á þetta",
+            "date": "2007-04-22 23:20:00",
+            "post_id": "144818",
+            "reply_to_id": "144813"
+        },
+        {
+            "user_name": "ÓmarSmith",
+            "text": "Ha Ha\n\n\n\nSvona Vista Wannabe´s   \n\n\n\n\nFá sér bara Vista og hætta að \"Wannabe-ast\"",
+            "date": "2007-04-23 10:26:00",
+            "post_id": "144823",
+            "reply_to_id": "144818"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Því miður ekki með svona VISTA wannabe",
+            "date": "2007-04-24 18:32:00",
+            "post_id": "144915",
+            "reply_to_id": "144823"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "Úff sé enga ástæðu til að fá mér vista, fylgdi með fartölvunni hjá systur minni og hún er bara í tómu brasi með það. Svo ef ég vildi vista þá þyrfti ég að kaupa mér nýja tölvu. Bara bíða með það þangað til að það er komið nógu gott driver og software support svo ég nenni að nota þetta..",
+            "date": "2007-04-24 22:46:00",
+            "post_id": "144927",
+            "reply_to_id": "144915"
+        }
+    ],
+    "date": "2007-04-19 19:58:00"
+}

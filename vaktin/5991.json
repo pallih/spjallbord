@@ -1,0 +1,65 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "5991",
+    "title": "nVidia 66.81",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=5991",
+    "posts": [
+        {
+            "user_name": "Sup3rfly",
+            "text": "Ég ætla bara að spyrja að því hvernig stendur á því að matrix.is er með nVidia 66.81 driver en ekki official nVidia heimasíðan, hún er ennþá með 61.77. Gæti verið að hinn var eitthvað unstable eða? Búinn að fá nokkur \"crash to desktop\" og svo stendur í error reportinu að það sé vandamál frá driver en ekki vitað hvaða driver.\n\n\n\nP.S. Á bus að vera stilltur á PCI x0 fyrir GeForce FX 5700 Ultra?",
+            "date": "2004-10-16 18:00:00",
+            "post_id": "60924",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gnarr",
+            "text": "þú ert ekki með installaða drivera fyrir kubbasettið þitt.",
+            "date": "2004-10-16 18:20:00",
+            "post_id": "60926",
+            "reply_to_id": "60924"
+        },
+        {
+            "user_name": "Sup3rfly",
+            "text": "Hvar fær maður það svo? K8NS Pro",
+            "date": "2004-10-16 18:34:00",
+            "post_id": "60929",
+            "reply_to_id": "60926"
+        },
+        {
+            "user_name": "fallen",
+            "text": "http://www.matrix.is/nvidia/software/Wi ... nglish.exe",
+            "date": "2004-10-16 18:42:00",
+            "post_id": "60930",
+            "reply_to_id": "60929"
+        },
+        {
+            "user_name": "Sup3rfly",
+            "text": "Ok þá er P.S. búið en ennþá á eftir að svara hvers vegna matrix er með 66.81 en nVidia með 61.77.",
+            "date": "2004-10-16 19:32:00",
+            "post_id": "60940",
+            "reply_to_id": "60930"
+        },
+        {
+            "user_name": "fallen",
+            "text": "Ekki hugmynd.",
+            "date": "2004-10-16 19:33:00",
+            "post_id": "60941",
+            "reply_to_id": "60940"
+        },
+        {
+            "user_name": "emmi",
+            "text": "Skrítið, ég get eiginlega ekki útskýrt þetta en driverarnir eru á ftp servernum hjá þeim. Sjá nánar á \nftp://download.nvidia.com/Windows/\n\n\n\n\nKveðja.\n\n\n\nemmi\n\nhttp://www.matrix.is/",
+            "date": "2004-10-17 11:37:00",
+            "post_id": "61014",
+            "reply_to_id": "60941"
+        },
+        {
+            "user_name": "Dannir",
+            "text": "Það eru fullt af framleiðindum sem búa til drivera eða taka nvidia drivera og breyta þeim fyrir sínar vörur.Svo sem dell,ibm og fleirri stór fyrirtæki\n\n\n\nhttp://www.guru3d.com\n þarna finnuru fullt af driverum sem eru ekki á nvidia síðuni. Þar eru t.d. gaurar sem eru að taka drivera sem er ætlaðir fyrir Labtops og breyta þeim fyrir desktops.\n\n\n\nSvo eru Omegdriver komnir líka fyrir nvidia kort",
+            "date": "2004-10-17 17:16:00",
+            "post_id": "61030",
+            "reply_to_id": "61014"
+        }
+    ],
+    "date": "2004-10-16 18:00:00"
+}

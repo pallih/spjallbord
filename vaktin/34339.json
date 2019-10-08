@@ -1,0 +1,100 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "34339",
+    "title": "Killer SSD Performance",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=34339",
+    "posts": [
+        {
+            "user_name": "Moldvarpan",
+            "text": "http://hothardware.com/Reviews/OCZ-RevoDrive-X2-Review-Killer-PCIE-SSD-Performance/\nHvað er að frétta með hraðann á þessum kortum?? Djöfull langar mig í svona fjanda!!\nMax Read: up to 740MB/s\nMax Write: up to 720MB/s\nSustained Write: up to 600MB/s\nRandom Write 4KB (Aligned): 120,000 IOPS\nSeek Time: 0.1ms\nInterface:  PCIe x4\nPower Consumption:  Idle 3W, Active 8W\nOperating Temp: 0°C ~ 70°C\nSWEEEEEET",
+            "date": "2010-12-07 15:27:00",
+            "post_id": "301324",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "BjarkiB",
+            "text": "RevoDrive X2 960G @ $3139.99 \nNærrum því 1 tb, bara ef maður ætti í kringum 400 þúsund kallinn til að borga þetta.",
+            "date": "2010-12-07 15:39:00",
+            "post_id": "301328",
+            "reply_to_id": "301324"
+        },
+        {
+            "user_name": "Moldvarpan",
+            "text": "RevoDrive X2 100G @ $419.99 ... 70.þús heimkomið \n og 2x dýrari en 120gb SSD sem fæst hérlendis en líka 2x hraðvirkari en SSD sem fást hérlendis.\nÞetta er alls ekki svo galið.",
+            "date": "2010-12-07 16:01:00",
+            "post_id": "301330",
+            "reply_to_id": "301328"
+        },
+        {
+            "user_name": "gardar",
+            "text": "pfff, pci-e er ekkert sambærilegt öðrum ssd diskum",
+            "date": "2010-12-07 17:10:00",
+            "post_id": "301346",
+            "reply_to_id": "301330"
+        },
+        {
+            "user_name": "Moldvarpan",
+            "text": "Þeir eru strax búnir að sprengja flutningsgetuna á SATA 3, þetta kort gerir það. Getur ekki fengið svoleiðis disk á þessum hraða. OG þetta er ný tækni sem verið er að þróa hratt. SSD diskar eiga eftir að verða cappaðir útaf SATA 3 þangað til hraðvirkara tengi lýtur dagsins ljós.\nÉg veit að þetta er soldið xtreme, en þetta ætla ég ÁN EFA að smella í næstu vél sem ég set saman handa mér.",
+            "date": "2010-12-08 17:10:00",
+            "post_id": "301619",
+            "reply_to_id": "301346"
+        },
+        {
+            "user_name": "nonesenze",
+            "text": "á flestum móður borðum er ekki pláss fyrir þetta ef þú ert með 2-3 skjákort, og þetta er með inbyggðum raid controller, og að ég best veit þá eru þetta bara nokkrir ssd í raidi í kortinu sem ná þessum hraða",
+            "date": "2010-12-08 18:46:00",
+            "post_id": "301650",
+            "reply_to_id": "301619"
+        },
+        {
+            "user_name": "biturk",
+            "text": "mér fynnst einmitt hel hommalegt í dag að það eru yfirleitt bara 2 pci raufar á mb\nman í gamla daga að maður var oft með alveg 6-8 raufar og gat hlaðið kassann sinn af allskyns gúmmelaði! en það er bara ekki hægt í dag",
+            "date": "2010-12-08 18:53:00",
+            "post_id": "301651",
+            "reply_to_id": "301650"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Hættu bara að kaupa budget móðurborð...\n+ þetta passar í hvaða PCIe rauf sem er...",
+            "date": "2010-12-08 19:23:00",
+            "post_id": "301659",
+            "reply_to_id": "301651"
+        },
+        {
+            "user_name": "biturk",
+            "text": "já en.......",
+            "date": "2010-12-08 19:24:00",
+            "post_id": "301660",
+            "reply_to_id": "301659"
+        },
+        {
+            "user_name": "nonesenze",
+            "text": "Hættu bara að kaupa budget móðurborð...\n+ þetta passar í hvaða PCIe rauf sem er...[/quote]\nbudget borð?\nmeð 2 skjákort í sli, hvar kemurðu þessu fyrir?",
+            "date": "2010-12-08 19:50:00",
+            "post_id": "301666",
+            "reply_to_id": "301660"
+        },
+        {
+            "user_name": "Jimmy",
+            "text": "Það er bara hreinlega eeeekkert skrýtið við það að µatx móðurborði geti ekki tekið mikið meira en 2 skjákort í SLI/Crossfire",
+            "date": "2010-12-08 19:59:00",
+            "post_id": "301669",
+            "reply_to_id": "301666"
+        },
+        {
+            "user_name": "zdndz",
+            "text": "vonandi að ég sé ekki að skemma þráðinn en hvernig veit maður skrif-/leshraðann á HDD diskum, er það buffer-ið, t.d. 32mb buffer?",
+            "date": "2010-12-10 23:45:00",
+            "post_id": "302296",
+            "reply_to_id": "301669"
+        },
+        {
+            "user_name": "nonesenze",
+            "text": "það er ekki beint buffer á ssd held ég. það sem þú vilt í ssd er sem minsi seek time \"random access\"",
+            "date": "2010-12-10 23:56:00",
+            "post_id": "302298",
+            "reply_to_id": "302296"
+        }
+    ],
+    "date": "2010-12-07 15:27:00"
+}

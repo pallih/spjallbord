@@ -1,0 +1,58 @@
+{
+    "forum_title": "Til sölu - Tölvuvörur",
+    "id": "70425",
+    "title": "Dót til prentplötugerðar gefins",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=11&t=70425",
+    "posts": [
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Er að losa mig við dót sem ég notaði til að smíða heimagerð PCB, en er hættur að vesenast í því núna. Þetta er allt ca. eins til tveggja ára.\n Ein photoresistive prentplata (16x10cm)\n Framköllunarvökvi, Sodium Hydroxide, ca. 500ml + hálfur poki af Sodium Hydroxide dufti.\n Heimagert UV exposure box + poki af UV LEDs + 12V DC spennugjafi. Fer ekki í gang, eitthvað sambandsleysi í DC tenginu sennilega.\n Etching vökvi ca. 500ml, sennilega Sodium Persulfate.\nFer á Sorpu í vikunni ef enginn hefur áhuga.",
+            "date": "2016-08-27 12:36:00",
+            "post_id": "630503",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Njall_L",
+            "text": "Átt skilaboð",
+            "date": "2016-08-27 12:55:00",
+            "post_id": "630504",
+            "reply_to_id": "630503"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Farið",
+            "date": "2016-08-27 16:48:00",
+            "post_id": "630532",
+            "reply_to_id": "630504"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "Gastu gert eitthvað fancy með svona basic kitti eins og þú lést njálsa fá ?",
+            "date": "2016-08-27 21:40:00",
+            "post_id": "630550",
+            "reply_to_id": "630532"
+        },
+        {
+            "user_name": "Njall_L",
+            "text": "Þetta lúkkar allavega nóg til að geta gert ágætist plötur heimavið. Spurning hversu vel þetta virkar þegar að komið er mikið af litlum traces nálægt hvor öðrum. Þarf að prófa það nánar",
+            "date": "2016-08-27 22:00:00",
+            "post_id": "630551",
+            "reply_to_id": "630550"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Fer eftir því hvað þú kallar fancy. Yfirleitt basic single-sided THM stöff.\nÞetta er t.d. eitt sem ég gerði fyrir rúmum tveimur árum: \nhttp://i.imgur.com/aX7X2ea.jpg\n - Finn ekki myndir af fleiru í fljótu bragði.\nEn ég hef gert SMT borð með 0805 og QFP-32 pökkum með þessari tækni. Photoresist borðin ná mjög góðum contrast.",
+            "date": "2016-08-28 12:25:00",
+            "post_id": "630576",
+            "reply_to_id": "630551"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "805 er ágætlega fancy fyrir heimaverkefni",
+            "date": "2016-08-28 22:26:00",
+            "post_id": "630613",
+            "reply_to_id": "630576"
+        }
+    ],
+    "date": "2016-08-27 12:36:00"
+}

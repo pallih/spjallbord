@@ -1,0 +1,93 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "17825",
+    "title": "Tölvan fílar ekki torrent forrit, blue screen og frýs oft.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=17825",
+    "posts": [
+        {
+            "user_name": "Dazy crazy",
+            "text": "Tölvan er ekki að viðurkenna torrentforrit sem eitthvað sem hún ætti að vera að japla á.\nBúinn að prufa Azureus og Utorrent en alltaf þegar ég kveiki á þeim og þau eru búin að vera í gangi í 2 mínútur þá kemur blue screen með þessu:\nOg eitthvað IRQ not less than equal.\nEvent Type:\tError\nEvent Source:\tSystem Error\nEvent Category:\t(102)\nEvent ID:\t1003\nDate:\t\t19.4.2008\nTime:\t\t17:00:37\nUser:\t\tN/A\nComputer:\tMULNINGSVELIN\nDescription:\nError code 100000d1, parameter1 00000000, parameter2 00000002, parameter3 00000000, parameter4 88961dda.\nFor more information, see Help and Support Center at \nhttp://go.microsoft.com/fwlink/events.asp\n.\nData:\n0000: 53 79 73 74 65 6d 20 45   System E\n0008: 72 72 6f 72 20 20 45 72   rror  Er\n0010: 72 6f 72 20 63 6f 64 65   ror code\n0018: 20 31 30 30 30 30 30 64    100000d\n0020: 31 20 20 50 61 72 61 6d   1  Param\n0028: 65 74 65 72 73 20 30 30   eters 00\n0030: 30 30 30 30 30 30 2c 20   000000, \n0038: 30 30 30 30 30 30 30 32   00000002\n0040: 2c 20 30 30 30 30 30 30   , 000000\n0048: 30 30 2c 20 38 38 39 36   00, 8896\n0050: 31 64 64 61               1dda    \nEr einhver sem getur hjálpað mér hérna?\nEDIT: 17:10, það að ég skrifaði f.r.o.s.n.a.ð.i. í fyrirsögnina var tilraun hvort að þetta leiðréttingaforrit fengi leyfi til að gera fyrirsagnirnar lengri en má... ég var með lengstu fyrirsögnina nananana.",
+            "date": "2008-04-19 17:07:00",
+            "post_id": "172735",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "coldcut",
+            "text": "prófaðu að uppfæra netkortsdriver...virkaði hjá mér",
+            "date": "2008-04-19 18:30:00",
+            "post_id": "172737",
+            "reply_to_id": "172735"
+        },
+        {
+            "user_name": "Dazy crazy",
+            "text": "Takk fyrir, veit ekki alveg hvort þetta virkar en allavega fann ég svolítið sniðuga síðu í leit minni og ætla að setja hana hérna: \nhttp://files.aoaforums.com/\n \nVona að þetta komi til með að hjálpa einhverjum.",
+            "date": "2008-04-19 19:10:00",
+            "post_id": "172738",
+            "reply_to_id": "172737"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "einu sinni fraus tölvan mín alltaf þegar uTorrent var í gangi! =/\ngetur séð þráð um það hérna einhversstaðar, nenni ekki að leyta að honum sjálfur",
+            "date": "2008-04-19 19:37:00",
+            "post_id": "172740",
+            "reply_to_id": "172738"
+        },
+        {
+            "user_name": "Dazy crazy",
+            "text": "Þetta virkaði ekki, prufaði 2 netdrivera, og annar þeirra kom út í gær.\nHeld að þetta sé stýrikerfið, ætla að prufa að endurformatta einu sinni enn og athuga þá í leiðinni hvort hljóðið komi inn.\nÞú ert líklega að tala um þennan þráð: \nviewtopic.php?t=16974&highlight=",
+            "date": "2008-04-19 19:39:00",
+            "post_id": "172741",
+            "reply_to_id": "172740"
+        },
+        {
+            "user_name": "mind",
+            "text": "Búinn að athuga allar stillingar á netkortinu , duplex , auto negote ?\nStundum er best að stilla þessa hluti inn handvirkt.\nOg já , frýs hún líka þegar þú ert ekki tengdur netinu ? (hjálpar mjög að greina hvað er að.)",
+            "date": "2008-04-22 12:37:00",
+            "post_id": "172918",
+            "reply_to_id": "172741"
+        },
+        {
+            "user_name": "Xyron",
+            "text": "Getur prófað að senda nokkur minidump sem viðhengi hingað, sjá hvort ég geti séð eitthvað útúr þeim fyrir þig.",
+            "date": "2008-04-22 17:41:00",
+            "post_id": "172954",
+            "reply_to_id": "172918"
+        },
+        {
+            "user_name": "Dazy crazy",
+            "text": "Ég fann hvað var að.\nZone Alarm firewallinn var ekki að samþykkja þetta.\nEn hljóðkortið er ennþá bilað eða allavega kemur ekkert hljóð \n \nTakk samt.\np.s. Fattaði það þegar ég las þráðinn sem ég linkaði í hérna fyrir ofan og las kommentið frá mér sem var það sem var að. Kaldhæðnislegt?",
+            "date": "2008-04-22 17:56:00",
+            "post_id": "172955",
+            "reply_to_id": "172954"
+        },
+        {
+            "user_name": "Dári",
+            "text": "Kóði: \nVelja allt\nComputer: MULNINGSVELIN\nEr þetta tölva frá BT? :þ",
+            "date": "2008-04-22 19:45:00",
+            "post_id": "172961",
+            "reply_to_id": "172955"
+        },
+        {
+            "user_name": "Dazy crazy",
+            "text": "Nei, aldrei. Ekki bera það uppá mig að ég hafi keypt tölvu í BT.  \n \n \nÉg var bara í einhverju flippi þegar ég formattaði og var að reyna að fá hljóðið til að virka í fyrradag.  \nHvað er samt minidump",
+            "date": "2008-04-22 23:13:00",
+            "post_id": "172978",
+            "reply_to_id": "172961"
+        },
+        {
+            "user_name": "Xyron",
+            "text": "p.s. Ekkert af því að versla tölvur í bt, svo lengi sem verðið er gott.. ekki eins og þeir framleiða vélarnar og það er standard  2ja ára ábyrgð á öllum raftækjum útúr búð á landinu.",
+            "date": "2008-04-23 00:16:00",
+            "post_id": "172983",
+            "reply_to_id": "172978"
+        },
+        {
+            "user_name": "Dazy crazy",
+            "text": "Takk fyrir það. Ég hélt nú að blikkkallinn gæfi til kynna að þetta væri svolítið í kaldhæðni.",
+            "date": "2008-04-23 07:41:00",
+            "post_id": "172985",
+            "reply_to_id": "172983"
+        }
+    ],
+    "date": "2008-04-19 17:07:00"
+}

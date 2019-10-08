@@ -1,0 +1,86 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "72675",
+    "title": "Unifi setup",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=72675",
+    "posts": [
+        {
+            "user_name": "nidur",
+            "text": "Var að klára Unifi setupið hjá mér, ákvað að deila því með ykkur\nUniFi Security Gateway ( 940/940 Mbps með deep packet í gangi )\nUniFi Switch 8 60W\nUniFi AC Lite\nInstant 802.3AF Indoor 48V POE Gigabit ( til að keyra Ac lite á 60W switch, get restartað POE úr controllernum )\nUniFi Switch 24 Non-PoE\nEdgeRouter X ( Þessi verður með OpenVPN tunnel )\nUniFi Switch 8 150W ( Þessi er að keyra 6 Myndavélar POE, get restartað þeim úr controllerrnum ) \nUppsetningin á þessu er mjög auðveld, routerinn var með vandræði fyrst vegna lélegs firmware og ég þurfti að losa mac addressu hjá gagnaveitunni.\nÞað er þægilegt að geta gefið öllum tækjum nafn í controllernum, og að geta sett nöfn á portin á switchunum.\nÁ eftir að prófa OpenVPN á Edgerouter X, er ánægður með að hafa farið í USG sem router, einfaldlega út af controllernum.\nÆtla líka að setja upp annað VLAN fyrir nokkrar vélar sem þurfa að vera sér, verður gaman að sjá hvernig sú stilling virkar á switchinum.\nUnifi Controllerinn á Linux server",
+            "date": "2017-04-14 10:06:00",
+            "post_id": "647225",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "xpider",
+            "text": "Flott setup, er sjálfur með USG og svo AP Lite og AP pro.  Langar rosalega að bæta við switch. \nEin spurning afhveru ertu með Instant 802.3AF Indoor 48V POE Gigabit á milli switch og AP?",
+            "date": "2017-04-14 12:35:00",
+            "post_id": "647230",
+            "reply_to_id": "647225"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Flott hjá þér!!",
+            "date": "2017-04-14 12:37:00",
+            "post_id": "647231",
+            "reply_to_id": "647230"
+        },
+        {
+            "user_name": "linenoise",
+            "text": "Áhugavert! \nSmá nooba-spurningar. \nTil hvers er fólk að nota deep packet inspection? Hvaða use case?\nAnnað, þegar þú segir að EdgeRouter X verði með OpenVpn, ertu þá með tunnel alla leið frá EdgeRouter X og út á internetið? Verðuru þá með server á edgerouternum til að serva content, eða hvað er use case-ið? Væri ekki betra að hafa svoleiðis server á aðskyldu DMZ?",
+            "date": "2017-04-14 13:35:00",
+            "post_id": "647238",
+            "reply_to_id": "647231"
+        },
+        {
+            "user_name": "nidur",
+            "text": "AC Lite er 24V en 60W sendir út á 48V, þannig að ég þarf breytir á milli til að geta restartað honum inn í controllernum.\nFlestir byrgjar eru ekki búnir að fá AC Lite með IEEE802.3af\nMeð DPI þá ertu að sjá sömu upplýsingar og ISP er að sjá um network traffic, og þú getur greint notkun, og mig langaði að prufa.\nPlanið er að ER-X verði með tunnel út á netið og öll tæki sem tengjast í hann fara í gegnum OpenVPN tunnel sem er encryptað, og að ég gæti t.d. tekið hann með mér eitthvað annað og notað hvar sem er, en þetta er bara eitthvað sem ég er ennþá að prufa.",
+            "date": "2017-04-14 20:43:00",
+            "post_id": "647272",
+            "reply_to_id": "647238"
+        },
+        {
+            "user_name": "Hauxon",
+            "text": "Smá spurning.  Er einhver að selja þetta hér heima fyrir utan Nýherja?  \nMér finnst 30 þúsund vera svoldið mikið fyrir USG sem kostar $104 úti.",
+            "date": "2017-05-04 11:26:00",
+            "post_id": "648563",
+            "reply_to_id": "647272"
+        },
+        {
+            "user_name": "hagur",
+            "text": "netbunadur.is er að selja þetta.  Svo geturðu alltaf pantað þetta sjálfur, t.d frá senetic.co.uk eða \nhttps://www.eurodk.com/",
+            "date": "2017-05-04 13:21:00",
+            "post_id": "648573",
+            "reply_to_id": "648563"
+        },
+        {
+            "user_name": "Hauxon",
+            "text": "Takk fyrir þetta.  29.900 vs 28.900 er nú samt bara munurinn á kúk og skít.",
+            "date": "2017-05-04 13:28:00",
+            "post_id": "648576",
+            "reply_to_id": "648573"
+        },
+        {
+            "user_name": "hkr",
+            "text": "rakst á þetta um daginn \nhttp://www.tindar.is/index_htm_files/UbiqutiVerd.pdf\nsýnist þetta vera á selfossi en er töluvert ódýrara en netbúnaður, öreind og nýherji.\nEdgerouter x á 10k hjá þeim á meðan hann er á í kringum 16k annar staðar.",
+            "date": "2017-05-05 01:35:00",
+            "post_id": "648609",
+            "reply_to_id": "648576"
+        },
+        {
+            "user_name": "Maniax",
+            "text": "Keypti Edgerouter hjá tindar.is og er rosalega sáttur",
+            "date": "2017-05-05 01:42:00",
+            "post_id": "648610",
+            "reply_to_id": "648609"
+        },
+        {
+            "user_name": "Hauxon",
+            "text": "Ég endaði á að panta nú bara litla USG af eurodk.com.   \nHeildarverð með sendingu (UPS 1-2 business days) og skatti um 17 þúsund.  \nÆtti skv. öllu að vera kominn á mánudag/þriðjudag.",
+            "date": "2017-05-05 09:42:00",
+            "post_id": "648613",
+            "reply_to_id": "648610"
+        }
+    ],
+    "date": "2017-04-14 10:06:00"
+}

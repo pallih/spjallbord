@@ -1,0 +1,387 @@
+{
+    "forum_title": "Yfirklukkun, hraðaprófanir og mods",
+    "id": "40076",
+    "title": "Official Sandy bridge overclock þráður.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=1&t=40076",
+    "posts": [
+        {
+            "user_name": "mercury",
+            "text": "Hér væri ég til í að hafa samtekt yfir þá notendur sem er að overclocka sandry bridge \nK\n örgjörfa.\nþað sem ég sækist eftir er hvaða týpa 2500k eða 2600k @ x.xxghz @ x.xxV. ef menn hafa spurningar varðandi overclock á sandry bridge þá væri best að fá þær spurningar hingað.\nMenn meiga svo endilega koma með screenshot með cpu-z, einhverju temp forriti og prime95, intel burn test, Linx eða einhvað þessháttar í gangi.\nMercury              i5 2500K 4.8ghz  @ 1.45v Level 6\nMatroX                i7 2600k 4.8ghz @ 1.32v, 5ghz @ 1.42v, 5.2ghz @ 1.48v, 5.4ghz @ 1.52v, 5.6ghz @ 1.59v\nKjarribesti -        i7 2600k - 4.6ghz stable @ 1.380v\nMundiValur         i7 2600K  @4.8ghz 1.45v llc7=1.488 \nRevenant           i7-2600K 3.4GHz @ 4.7GHz (103 MHz x 46) 1.416 V\nHvati                 i7-2600k 4,8 Ghz @ 1,45\ngibri                  i5 2500k 4490MHz @ 1.356\nfallen                i5 2500k 4.8GHz  @ 1.45v",
+            "date": "2011-07-22 05:27:00",
+            "post_id": "365034",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "Kjarribesti - 2600k - 4.6ghz stable @ 1.380v",
+            "date": "2011-07-22 09:16:00",
+            "post_id": "365043",
+            "reply_to_id": "365034"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "MatroX i7 2600k stable í 4.8ghz @ 1.32v, 5ghz @ 1.42v, 5.2ghz @ 1.48v, 5.4ghz @ 1.52v, 5.6ghz @ 1.59v",
+            "date": "2011-07-22 09:22:00",
+            "post_id": "365046",
+            "reply_to_id": "365043"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "hver er hitinn í 5.6ghz ?",
+            "date": "2011-07-22 09:25:00",
+            "post_id": "365048",
+            "reply_to_id": "365046"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "2kjarna - 2 threads fyrir superpi er örrinn í 54°c undir loadi\ní benchum eins og 3dmark 4 kjarnar og 4 threads er hann í 68°c\ní öðru use í 5.6ghz með 4 kjarnar - 8 threads er hann í 82-86°c",
+            "date": "2011-07-22 10:06:00",
+            "post_id": "365056",
+            "reply_to_id": "365048"
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "MundiValur i7 2600K stable í 4.7ghz @ 1.42-1.44v Level 6\nÉg sé að margir úti segja,ég næ 4.8ghz á 1.45v í bios og þei telja ekki LLC hækkun með? Til dæmis 1.45v+level 8 verður ca.1.50v \n  (LLC (Level) er á Gigabyte borðum) \nHvað halda menn að safe 24/7 volt séu \n  Fer að halda það sé 1.50v miðað við MatroX",
+            "date": "2011-07-22 10:27:00",
+            "post_id": "365059",
+            "reply_to_id": "365056"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "þau eru 1.55v á vatni en max bench volt eru 1.65v á vatni",
+            "date": "2011-07-22 10:29:00",
+            "post_id": "365060",
+            "reply_to_id": "365059"
+        },
+        {
+            "user_name": "mercury",
+            "text": "Intel menn tala um 1.52v óháð kælingu.\nMeðan temp er í lægi þá er allt fyrir neðan 1.52 \n\"í góðu lagi\"",
+            "date": "2011-07-22 13:00:00",
+            "post_id": "365076",
+            "reply_to_id": "365060"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "neibb. þetta er vitlaust hjá þér.\neina sem intel hefur gefið út er að 1.52v er mest vid sem 2600k þarf. max vid er ekki sama og max vcore.\nstarfsmaður intel missti útúr sér að max volt séu 1.65v",
+            "date": "2011-07-22 13:09:00",
+            "post_id": "365078",
+            "reply_to_id": "365076"
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "Fokking Yeahh !!!!!!!!!!\nBest að auka aðeins",
+            "date": "2011-07-22 13:51:00",
+            "post_id": "365091",
+            "reply_to_id": "365078"
+        },
+        {
+            "user_name": "Hvati",
+            "text": "4,8 Ghz @ 1,45 v atm",
+            "date": "2011-07-22 14:42:00",
+            "post_id": "365107",
+            "reply_to_id": "365091"
+        },
+        {
+            "user_name": "mercury",
+            "text": "er að lenda í frekar spes BSOD hérna. runna prime og ibt fínt í einhverjar klst. en stundum þegar ég horfi á video á td youtube þá kemur BSOD einhver hugmynd ?",
+            "date": "2011-07-22 16:54:00",
+            "post_id": "365142",
+            "reply_to_id": "365107"
+        },
+        {
+            "user_name": "Revenant",
+            "text": "i7-2600K 3.4GHz @ 4.7GHz (103 MHz  x 46)  1.416 V",
+            "date": "2011-07-22 17:06:00",
+            "post_id": "365144",
+            "reply_to_id": "365142"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "Hvaða bsod kóða færðu?",
+            "date": "2011-07-22 19:11:00",
+            "post_id": "365159",
+            "reply_to_id": "365144"
+        },
+        {
+            "user_name": "mercury",
+            "text": "spái aldrei í því \n tékka á því næst þegar þetta skeður",
+            "date": "2011-07-22 19:41:00",
+            "post_id": "365168",
+            "reply_to_id": "365159"
+        },
+        {
+            "user_name": "mercury",
+            "text": "þetta var code 124. sem er annaðhvort of lágt qpi eða vcore. hækkaði vcore í 1.45",
+            "date": "2011-07-22 20:11:00",
+            "post_id": "365178",
+            "reply_to_id": "365168"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "ætla að bumpa þetta svo einhverjir fleyri sjái",
+            "date": "2011-07-23 10:35:00",
+            "post_id": "365326",
+            "reply_to_id": "365178"
+        },
+        {
+            "user_name": "gibri",
+            "text": "i5 2500k 4490MHz @ 1.356 V idle temps cirka 40°c í prime95 fóru þeir ekki yfir 70°c",
+            "date": "2011-08-07 10:42:00",
+            "post_id": "369361",
+            "reply_to_id": "365326"
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "Sælir ég var að setja HWmonitor og sá eitthvað nýtt,Powers/package og ia cores Hvað fer þetta í hjá ykkurí prime95 blend test ?\nhjá mér\npackage 107.48\nIA cores 100.11\n@4.8ghz 1.45v llc7=1.488 \nBara spá og fikta",
+            "date": "2011-08-10 15:08:00",
+            "post_id": "370164",
+            "reply_to_id": "369361"
+        },
+        {
+            "user_name": "mercury",
+            "text": "Hef bara ekki skoðað þetta. Notast aðalega við cpu-z, HWinfo, prime95 og ibt hvað þetta varðar.",
+            "date": "2011-08-10 16:47:00",
+            "post_id": "370194",
+            "reply_to_id": "370164"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "samkvæmt llc7 dæminu þá væri ég að teikja örgjörfann ef ég set á 1,5v og 5ghz ÞS",
+            "date": "2011-08-11 22:54:00",
+            "post_id": "370755",
+            "reply_to_id": "370194"
+        },
+        {
+            "user_name": "nonesenze",
+            "text": "með þessi volt og þessi mhz þá er ég ekki að fatta af hverju kubburinn bara vill ekki fara yfir 4.8 stable boota í 50x max\nallt yfir það þá frýs ég í windows logo ekkert bsod",
+            "date": "2011-08-13 13:29:00",
+            "post_id": "371244",
+            "reply_to_id": "370755"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "4,8 þá bara veggur fyrir þinn örgjörva ?\nMinn slefar í 5ghz en þarf betri kælingu fyrir meira.",
+            "date": "2011-08-13 22:44:00",
+            "post_id": "371409",
+            "reply_to_id": "371244"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "afhverju segiru það? þú ert með eitt af bestu kælingum sem þú færð.\nhvað er hitinn í 5ghz?\ná hvaða voltum ertu með hann í?\nþessi kæling fer létt með 5ghz",
+            "date": "2011-08-13 22:46:00",
+            "post_id": "371411",
+            "reply_to_id": "371409"
+        },
+        {
+            "user_name": "mercury",
+            "text": "held það fari mjög mikið eftir kubbum. miðað við það sem ég hef lesið á overclockers og víðar þá er rosalega misjafnt hvar menn lenda a þröskuldi. líka svakalegur munur á því hvað menn þurfa mörg volt.",
+            "date": "2011-08-13 23:46:00",
+            "post_id": "371435",
+            "reply_to_id": "371411"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "vesenið hjá mér að ég þarf að overfeeda voltin svo mikið til að komast yfir 4,8ghz. þurfti að fara í 1,480v í 5ghz!!",
+            "date": "2011-08-13 23:57:00",
+            "post_id": "371436",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "MatroX",
+            "text": "og? þetta eru flott volt fyrir 5ghz?\nhvaða voltum viltu runna 5ghz á ?\nþetta er bara eðlilegt hjá þér.",
+            "date": "2011-08-14 00:01:00",
+            "post_id": "371437",
+            "reply_to_id": "371436"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "Er að runna 5ghz á sama og þú 5.2 ghz",
+            "date": "2011-08-14 00:02:00",
+            "post_id": "371438",
+            "reply_to_id": "371437"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "jamm ég er líka með \"golden\" chip. en þú ert með góðann kubb. það er ekkert að því að runna 5ghz á 1.48v",
+            "date": "2011-08-14 00:15:00",
+            "post_id": "371444",
+            "reply_to_id": "371438"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "Jájá, þarf líka ekkert meira en 4,6 ghz sem er algerlega stable. ánægður með þann hraða.",
+            "date": "2011-08-14 00:16:00",
+            "post_id": "371446",
+            "reply_to_id": "371444"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "true.",
+            "date": "2011-08-14 00:18:00",
+            "post_id": "371447",
+            "reply_to_id": "371446"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "En ertu að keyra 5,2 ghz alltaf, ef svo er hver er hitinn í t.d þungum skotleikjum ?",
+            "date": "2011-08-14 00:21:00",
+            "post_id": "371450",
+            "reply_to_id": "371447"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "jamm hef verið að keyra á 5.2ghz núna alltaf. hitinn fer ekki yfir 62°c í leikjum.",
+            "date": "2011-08-14 00:23:00",
+            "post_id": "371452",
+            "reply_to_id": "371450"
+        },
+        {
+            "user_name": "fallen",
+            "text": "i2500k 4.8GHz stable @ 1.45v",
+            "date": "2011-08-15 18:06:00",
+            "post_id": "372010",
+            "reply_to_id": "371452"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "Fallen, geturu ekki lækkað voltage-ið ?\nÉg var að keyra 4,8 ghz með ht on á 1,420v þú er með ht off og 1,440v frekar hátt ?\nEða varstu kannski búinn að reyna það ?",
+            "date": "2011-08-15 23:56:00",
+            "post_id": "372122",
+            "reply_to_id": "372010"
+        },
+        {
+            "user_name": "worghal",
+            "text": "hann er á 2500k, ekki 2600k",
+            "date": "2011-08-16 00:02:00",
+            "post_id": "372125",
+            "reply_to_id": "372122"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "veit.. helt að voltage ætti að vera lægra a 2500k ??",
+            "date": "2011-08-16 00:08:00",
+            "post_id": "372130",
+            "reply_to_id": "372125"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "nah ekkert endilega. 2500k eru verr binnaðir en 2600k",
+            "date": "2011-08-16 00:11:00",
+            "post_id": "372132",
+            "reply_to_id": "372130"
+        },
+        {
+            "user_name": "fallen",
+            "text": "Ég er búinn að fikra mig áfram með voltin, lendi í allskyns veseni ef ég er undir þessu.\nÆtli ég endi samt ekki á að hafa hann í 4.6GHz, minnir að ég hafi verið í ~1.35 þar.",
+            "date": "2011-08-16 00:54:00",
+            "post_id": "372148",
+            "reply_to_id": "372132"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "þá ætti 4,6 að gera það fyrir þig, ég er sjálfur í 1,380 þar og 1,420 í 4,8ghz \nfrekar mikið hopp hjá þér á milli 4,6 og 4,8",
+            "date": "2011-08-16 01:13:00",
+            "post_id": "372152",
+            "reply_to_id": "372148"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "hvernig er þetta annars, þarf ég nokkuð að breyta eitthvað minnunum mínum þó ég overclocki örgjörvann ?",
+            "date": "2011-08-17 23:14:00",
+            "post_id": "372597",
+            "reply_to_id": "372152"
+        },
+        {
+            "user_name": "mercury",
+            "text": "tjehh meðan þú ert að vinna þig áfram þá er best að hafa minnin í 1333mhz 9-9-9-24. svo þú getir verið viss um það ef einhvað er að klikka að það sé ekki tengt minnunum.",
+            "date": "2011-08-17 23:46:00",
+            "post_id": "372626",
+            "reply_to_id": "372597"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "tjahh þau eru 1333 mhz 7-7-7-21 stock og ég hef ekkert breytt þeim.\nEngin vandamál hafa komið upp \nVil bara vera viss að ég sé ekkert að skemma neitt með að fikta ekkert í minnunum",
+            "date": "2011-08-17 23:50:00",
+            "post_id": "372629",
+            "reply_to_id": "372626"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "það er nokkuð létt að leika sér að þessum minnum. ég er að runna mín mushkin mínni í 6-8-6-24 @ 1.4v 1600mhz þetta er bara flott.",
+            "date": "2011-08-17 23:56:00",
+            "post_id": "372633",
+            "reply_to_id": "372629"
+        },
+        {
+            "user_name": "Kobbmeister",
+            "text": "Skellti mínum í 4.6GHz@1.3V í gærkvöldi og keyrði Prime95 yfirnóttina og fékk enga villu.\nhttp://valid.canardpc.com/show_oc.php?id=2000216\nÆtla að reyna að fikra mig áfram í 4.8-5GHz",
+            "date": "2011-09-15 11:11:00",
+            "post_id": "380263",
+            "reply_to_id": "372633"
+        },
+        {
+            "user_name": "mercury",
+            "text": "á hvaða kælingu og hvaða hitatölur ertu að fá ?",
+            "date": "2011-09-15 11:21:00",
+            "post_id": "380267",
+            "reply_to_id": "380263"
+        },
+        {
+            "user_name": "Kobbmeister",
+            "text": "Noctua NH-D14 og ég sá maxið fara í 59C\nEn hvaða MAX Volt og hita þolir þessi örgjörvi?",
+            "date": "2011-09-15 11:23:00",
+            "post_id": "380268",
+            "reply_to_id": "380267"
+        },
+        {
+            "user_name": "mercury",
+            "text": "ég myndi ekki fara mikið yfir 1.5 í 24/7 een það er talað um 1.52",
+            "date": "2011-09-15 13:07:00",
+            "post_id": "380287",
+            "reply_to_id": "380268"
+        },
+        {
+            "user_name": "Krisseh",
+            "text": "Vaktarar, mér vantar hjálp, er að reyna hrekkja kubbinn í 4.5GHz og virðist ekki ganga, hvað er ég að gera svona hrikalega vitleysu?\nEins og Clock Ratio hrekkur ekki inn þótt í 100% Load, stillti allt í Bios en ekki í \"Touch Bios\"\nHérna er mynd sem sýnir yfirlit og í Touch Bios\nhttp://i51.tinypic.com/14tv9yg.jpg\nOg hérna aðrar stillingar sem ég gerði \"Merkt með X\"\nhttp://i54.tinypic.com/2ytpt83.jpg\nÉg reyndi að lesa mig inn í þetta og þetta ættu að vera algengstu fyrstu stillingar fyrir 4.5GHz og nánast allt í auto.",
+            "date": "2011-09-19 10:06:00",
+            "post_id": "381378",
+            "reply_to_id": "380287"
+        },
+        {
+            "user_name": "Krisseh",
+            "text": "http://i55.tinypic.com/2n9j8s4.jpg\nHenti gjösamlega öllu í auto í Bios-overclock sem ég átti að gera í fyrsta lagi nema ég var að lesa um meira stable clock og eitthvað bull.\nEr að vinna á 4.5GHz, eftir nkr mínútur er real temp að spike-a upp á 63 gráðum, frekar hátt hefði ég haldið, næsta skref að fara í Vcore.",
+            "date": "2011-09-19 10:22:00",
+            "post_id": "381381",
+            "reply_to_id": "381378"
+        },
+        {
+            "user_name": "Kobbmeister",
+            "text": "Náði honum í 5GHz",
+            "date": "2011-10-24 18:34:00",
+            "post_id": "390867",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "SÆLL góður kubbur þarna!\nTil hamingju",
+            "date": "2011-10-24 18:42:00",
+            "post_id": "390870",
+            "reply_to_id": "390867"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "með ht off not impressive\nsettu ht on og setti voltin í 1.45v og sjáðu hvað gerist",
+            "date": "2011-10-24 18:58:00",
+            "post_id": "390877",
+            "reply_to_id": "390870"
+        },
+        {
+            "user_name": "ASUStek",
+            "text": "eftir að ga hversu lag volt eg get notað",
+            "date": "2012-01-20 10:14:00",
+            "post_id": "414116",
+            "reply_to_id": "390877"
+        }
+    ],
+    "date": "2011-10-24 18:34:00"
+}

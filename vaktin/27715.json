@@ -1,0 +1,79 @@
+{
+    "forum_title": "Windows",
+    "id": "27715",
+    "title": "Windows 7 og port...",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=27715",
+    "posts": [
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Jæja. Leiðindin þurfa að poppa upp einhvern tímann.\nÉg er s.s. með 64bit Win 7 Ultimate á turninum mínum. Ég nota 2 forrit sem þarfnast þess að ég opni fyrir þau port og það eru µTorrent og ApexDC++. Þannig er mál með vexti að µTorrent sýnir grænt checkmark en þegar ég athuga með PF tólinu þá er bara UDP portið opið. Apex á hinn bóginn neitar alfarið að viðurkenna portið sem ég lét opna fyrir mig nema rétt eftir að ég ræsi vélina og svo læsist allt. Það virkaði á tímabili að restarta routernum en það dugði í mestalagi 5 mín.\nÉg hef hringt nokkrum sinnum í Tal (hef ekki aðgang að routernum mínum  \n ) og portin eru alveg opin hvað þá varðar og ip talan hefur ekkert breyst.\nÉg var með XP áður en aftur á móti var ég líka með SpeedTouch router sem ég sjálfur gat stjórnað, en þar lenti ég sko í engum vandræðum.\nEr eitthvað sérstakt sem ég þarf að gera með Win 7 til að fá þetta í gang? µTorrent er nú sosum ekki til neinna trafala en ApexDC++ lætur bara þannig að ég get engu niðurhalað, hvað þá leitað.\nMér finnst líka fyndið hvernig PF tólið viðurkennir bara UDP hjá µTorrent portinu en barasta ekkert með hitt portið.",
+            "date": "2010-01-19 23:29:00",
+            "post_id": "240687",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "bump",
+            "date": "2010-01-20 15:56:00",
+            "post_id": "240782",
+            "reply_to_id": "240687"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Er ekki einhver hérna sem getur svarað mér með þetta? Eða gæti þetta tengst því að ég nota þráðlaust net?",
+            "date": "2010-01-21 21:30:00",
+            "post_id": "241107",
+            "reply_to_id": "240782"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Lýsir ljós í myrkrinu?",
+            "date": "2010-03-08 00:34:00",
+            "post_id": "249123",
+            "reply_to_id": "241107"
+        },
+        {
+            "user_name": "urban",
+            "text": "Windows Firewall vandamál líklegast.\nControl Panel\\System and Security\\Windows Firewall",
+            "date": "2010-03-08 00:41:00",
+            "post_id": "249124",
+            "reply_to_id": "249123"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Þetta er leiðin sem að ég notaði fyrir MW2 áður en leikurinn fór að gera þetta sjálfkrafa eftir eitt update-ið. Ég var einmitt að lenda í því að ef ég opnaði port í stillingunum á routernum þá opnuðust TCP portin en ekki UDP.",
+            "date": "2010-03-08 00:44:00",
+            "post_id": "249125",
+            "reply_to_id": "249124"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Þettta er ekki firewall og MW2 virkar fínt. Það eru bara þessi 2 forrit sem ég þarf að opna sérstaklega port og helvítis Tal vill ekki gefa mér aðgang að routernum!",
+            "date": "2010-03-08 09:17:00",
+            "post_id": "249138",
+            "reply_to_id": "249125"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Ég nefndi nú MW2 bara sem dæmi þar sem ég var með svipað/sama vesen. Þetta var eina leiðin sem ég gat opnað öll port sem ég vildi í hvaða átt sem er, sama hvort það var fyrir MW2 eða eitthvað annað. Ertu búinn að prófa þetta?",
+            "date": "2010-03-08 10:07:00",
+            "post_id": "249144",
+            "reply_to_id": "249138"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Ég bara get með engu móti fundið routerinn minn í Network... Það er ekkert \"Network Infrastructure\" hjá mér :/",
+            "date": "2010-03-08 13:22:00",
+            "post_id": "249169",
+            "reply_to_id": "249144"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Einhver með lausn á því?",
+            "date": "2010-03-11 13:23:00",
+            "post_id": "249825",
+            "reply_to_id": "249169"
+        }
+    ],
+    "date": "2010-01-19 23:29:00"
+}

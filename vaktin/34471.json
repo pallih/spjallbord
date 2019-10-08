@@ -1,0 +1,37 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "34471",
+    "title": "Forrit til að taka img af diski og restora síðar",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=34471",
+    "posts": [
+        {
+            "user_name": "hagur",
+            "text": "Sælir,\nEr með vél hérna heima sem er sett upp á ákveðinn hátt og virkar nokkuð vel, en er að spá í að prófa að setja Win7 upp á hana í staðinn.  Væri til í að geta bakkað aftur yfir í WinXP uppsetninguna ef ég verð ekki ánægður með W7 setup-ið.\nFór því að pæla, er til eitthvað image/ghost utility sem leyfir mér að taka image af harðadisknum, vista á t.d network location og svo restora image-inu seinna til baka?  Ég veit að það eru til allskonar image forrit sem gera þetta en, það eru möööööörg ár síðan ég notaði svoleiðis síðast og þá þurfti maður eiginlega að vera með annað partition/disk í vélinni til að vista image-ið á, en það gengur eiginlega ekki upp í mínu tilviki.  Væri þessvegna gott að geta vistað þetta yfir net eða álíka.\nHvernig mynduð þið annars tækla þetta?  Vil helst geta gert þetta og mögulega bakkað aftur í gamla WinXP installation-ið, án þess að þurfa auka partition á vélina eða annan HDD.",
+            "date": "2010-12-11 22:00:00",
+            "post_id": "302562",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Hef notað Acronis true image í þetta með góðum árangri.\nFlottur boot diskur í því, styður samba file sharing og alles.",
+            "date": "2010-12-11 22:03:00",
+            "post_id": "302563",
+            "reply_to_id": "302562"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Ég myndi nota clonezilla \nhttp://clonezilla.org/",
+            "date": "2010-12-11 22:04:00",
+            "post_id": "302564",
+            "reply_to_id": "302563"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Það stóð ekki á svörunum hér frekar en fyrri daginn  \n \nPrófa þetta, takk!",
+            "date": "2010-12-11 22:22:00",
+            "post_id": "302568",
+            "reply_to_id": "302564"
+        }
+    ],
+    "date": "2010-12-11 22:00:00"
+}

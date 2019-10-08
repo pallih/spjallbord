@@ -1,0 +1,51 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "30681",
+    "title": "Raid?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=30681",
+    "posts": [
+        {
+            "user_name": "Lexxinn",
+            "text": "Góðan daginn,\nhef 2 spurningar um að raida harða diska.\nEf að ég er með 1x WD 320gb og 1x Samsung 320gb get ég raidað þá saman?\nEf ég er með 1x WD 250gb og 1x WD 320gb get ég raidað þá saman?",
+            "date": "2010-06-11 20:32:00",
+            "post_id": "266550",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Sydney",
+            "text": "1. Já, getur mirrorað eða stripað. \n2. Já, en síðustu 70GB af 320GB disknum færu til spillis, myndi ef til vill nýtast í RAID0, en myndir ekki fá nein auka afköst af þessum síðustu 70GB.",
+            "date": "2010-06-11 20:37:00",
+            "post_id": "266553",
+            "reply_to_id": "266550"
+        },
+        {
+            "user_name": "Lexxinn",
+            "text": "Akkurat það sem ég hélt og datt í hug.\nTakk fyrir svarið.",
+            "date": "2010-06-11 21:03:00",
+            "post_id": "266557",
+            "reply_to_id": "266553"
+        },
+        {
+            "user_name": "halldorjonz",
+            "text": "Þar sem við erum að tala um þetta..\nGæti ég notað Seagate 320GB 7200 snúninga (? buffer) og raidað með Samsung 250GB 7200snúninga 8mb buffer..?\nEr þetta eitthvað vesen eða? Er að fara setja windows 7 ultimate aftur uppá nýtt, spurning hvort maður ætti að gera þetta??",
+            "date": "2010-07-07 18:45:00",
+            "post_id": "270858",
+            "reply_to_id": "266557"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Mjög góð regla að ef maður ætlar að RAID-a upp á performance að vera með eins líka diska og hægt er, helst sama firmware, sama framleiðslulína. Að minnsta kosti (segi ég) sami framleiðandi.",
+            "date": "2010-07-07 19:01:00",
+            "post_id": "270859",
+            "reply_to_id": "270858"
+        },
+        {
+            "user_name": "Lexxinn",
+            "text": "Já ég vissi að það væri alltaf best var bara pæla ef hitt virkaði líka...",
+            "date": "2010-07-07 19:28:00",
+            "post_id": "270864",
+            "reply_to_id": "270859"
+        }
+    ],
+    "date": "2010-06-11 20:32:00"
+}

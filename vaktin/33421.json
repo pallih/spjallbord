@@ -1,0 +1,65 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "33421",
+    "title": "Hvernig á að breyta texta úr hástöfum í lágstafi ?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=33421",
+    "posts": [
+        {
+            "user_name": "zdndz",
+            "text": "ER MEÐ TEXTA SEM ER SKRIFAÐUR SVONA EN ÞARF AÐ BREYTA HONUM ÞANNIG HANN SÉ svona, ég nenni ekki að skrifa textann uppá nýtt, er ekki einhver auðveld leið til að breyta öllum stöfunum í lágstafi ?\nEDIT: annars var að breyta logo-inu á forsíðunni",
+            "date": "2010-10-28 19:43:00",
+            "post_id": "291340",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Daz",
+            "text": "Fullt af ritvinnsluforritum sem geta þetta. T.d. veit ég að Textpad getur þetta (sem er frítt-ish og lítið download). Svo eru örugglega 870 nördar hérna sem geta búið til pearl/bash/python scriptur sem gera það líka.",
+            "date": "2010-10-28 19:44:00",
+            "post_id": "291342",
+            "reply_to_id": "291340"
+        },
+        {
+            "user_name": "ElbaRado",
+            "text": "sækir notepad++ \nhttp://notepad-plus-plus.org/release/5.8.2\n  ferð i edit og gerir convert case , to lower case",
+            "date": "2010-10-28 19:49:00",
+            "post_id": "291343",
+            "reply_to_id": "291342"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Shift+F3 í Word, notað grimmt þegar ég kunni ekki annað en að horfa á lyklaborðið og skrifa og ýtti óvart á caps.",
+            "date": "2010-10-28 19:56:00",
+            "post_id": "291348",
+            "reply_to_id": "291343"
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "notar bara tolower",
+            "date": "2010-10-28 20:20:00",
+            "post_id": "291358",
+            "reply_to_id": "291348"
+        },
+        {
+            "user_name": "zdndz",
+            "text": "þakka",
+            "date": "2010-10-28 20:36:00",
+            "post_id": "291368",
+            "reply_to_id": "291358"
+        },
+        {
+            "user_name": "littli-Jake",
+            "text": "Rofl. Sé fyrir mér brjálæðissvipinn þegar þú leist upp",
+            "date": "2010-10-30 20:54:00",
+            "post_id": "291884",
+            "reply_to_id": "291368"
+        },
+        {
+            "user_name": "intenz",
+            "text": "strtolower() í PHP",
+            "date": "2010-10-30 21:00:00",
+            "post_id": "291887",
+            "reply_to_id": "291884"
+        }
+    ],
+    "date": "2010-10-28 19:43:00"
+}

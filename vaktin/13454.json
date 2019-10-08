@@ -1,0 +1,65 @@
+{
+    "forum_title": "Windows",
+    "id": "13454",
+    "title": "netvídeo og wmp?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=13454",
+    "posts": [
+        {
+            "user_name": "biggi1",
+            "text": "er einhver séns á að fá eitthvað annað forrit til að spila vídeoin?\n\nt.d. \nhttp://www.minnsirkus.is/Communities/3tv\n\n\n\n\ner orðinn snarklikkaður á þessu windows rusli",
+            "date": "2007-03-02 06:35:00",
+            "post_id": "140652",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "ÓmarSmith",
+            "text": "Þetta er án efa leiðinlegasti þáttur sem Íslendingar hafa alið af sér. Ekki eyða bandvídd í þetta ógéð",
+            "date": "2007-03-02 10:03:00",
+            "post_id": "140654",
+            "reply_to_id": "140652"
+        },
+        {
+            "user_name": "zedro",
+            "text": "Heyrðu hver á sinn rétt til að horfa á það sem þeim sýnist hvort sem það er hundleiðinlegt eður ey.",
+            "date": "2007-03-02 11:58:00",
+            "post_id": "140661",
+            "reply_to_id": "140654"
+        },
+        {
+            "user_name": "ÓmarSmith",
+            "text": "Jú auðvitað er það rétt hjá þér, enda er þetta grjóthörð skoðun hjá mér.\n\n\n\nEg bara skil ekki að þetta skuli fá áhorf.",
+            "date": "2007-03-02 12:16:00",
+            "post_id": "140663",
+            "reply_to_id": "140661"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Virkar VLC ekki á þetta?",
+            "date": "2007-03-02 14:15:00",
+            "post_id": "140671",
+            "reply_to_id": "140663"
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Veldu þátt (þannig að WMP ræsist) og leitaðu í source-kóðanum að \"wmv\" \n\nDæmi:\n\nKóði: \nVelja allt\n<embed width=\"480\" height=\"360\" src=\"http://www.minnsirkus.is/Upload/3tv/thaettir/01.wmv\" type=\"application/x-mplayer2\" autostart=\"0\" showcontrols=\"1\"></embed>\nUrlið er semsagt: http://www.minnsirkus.is/Upload/3tv/thaettir/01.wmv\n\n\n\n\nSíðan geturu notað þetta url til að spila (eða download) í Winamp/VLC/Mplayer/MPC/öðru.",
+            "date": "2007-03-02 15:49:00",
+            "post_id": "140686",
+            "reply_to_id": "140671"
+        },
+        {
+            "user_name": "biggi1",
+            "text": "ég er ósammála ykkur í því að þetta séu leiðinlegir þættir.. \n\nBragi gaurinn er óborganlegur..\n\n\n\n\"þá er komið að því að kvvv...kv.... kvvvvveðja\"",
+            "date": "2007-03-03 04:00:00",
+            "post_id": "140782",
+            "reply_to_id": "140686"
+        },
+        {
+            "user_name": "Xyron",
+            "text": "ef þú ert með firefox mæli ég með að þú downloadir unpug pluginu, það sér um að finna þetta fyrir þig.. getur síðan downloadað því eða bara \"copy link\"",
+            "date": "2007-03-03 13:23:00",
+            "post_id": "140795",
+            "reply_to_id": "140782"
+        }
+    ],
+    "date": "2007-03-02 06:35:00"
+}

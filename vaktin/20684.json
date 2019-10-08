@@ -1,0 +1,51 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "20684",
+    "title": "Viftustýring í CCC",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=20684",
+    "posts": [
+        {
+            "user_name": "machinehead",
+            "text": "Er einhver möguleiki að láta skjákortsviftuna fara á einhvern ákveðinn snúning þegar ákveðnu hitastigi er náð í ATI CCC?\nT.d. þegar hitinn fer í 55° þá fer viftan á 50% snúning.",
+            "date": "2008-12-26 15:36:00",
+            "post_id": "191287",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "jonsig",
+            "text": "hvað er vandamálið ? við fengum þessi kort auto-stillt til að hafa hitann stabílan á tæpum 90c° hvað er þá vandamálið við 50-60 c°?   kísil transistor kubbar eiga að þola 150c°",
+            "date": "2008-12-26 16:27:00",
+            "post_id": "191293",
+            "reply_to_id": "191287"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Getur notað Rivatuner til að fiffa í viftunni",
+            "date": "2008-12-26 17:10:00",
+            "post_id": "191299",
+            "reply_to_id": "191293"
+        },
+        {
+            "user_name": "machinehead",
+            "text": "Ég er ekki að fara að keyra kortið á 27% hraða eða hvað sem stock er. Svo af og til fer hún á 100% og það er eins og skriðdreki sé að keyra í gegn.\nÉg er ekki að segja að 50-60° sé vandamál, þetta var bara dæmi.",
+            "date": "2008-12-26 17:39:00",
+            "post_id": "191305",
+            "reply_to_id": "191299"
+        },
+        {
+            "user_name": "gRIMwORLD",
+            "text": "90°C þykir samt vera óþarflega hátt þó kortin komi þannig frá framleiðanda. Ekki að ástæðulausu að menn reyna að kæla kortin meira. Þó kubbarnir þoli 150°C þá muntu aldrei fá stabílt performance og aðrir hlutir gætu hæglega gefið sig.\nÞykir svona póstar sem þessir líka jafn óþarfa og sitjandi ríkisstjórn",
+            "date": "2009-01-06 17:58:00",
+            "post_id": "192686",
+            "reply_to_id": "191305"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "kortið er í 2 ára ábyrgð , svo hendiru þessu hvort sem er eða selur á 3000 kall á vaktinni ,,",
+            "date": "2009-01-08 17:57:00",
+            "post_id": "193050",
+            "reply_to_id": "192686"
+        }
+    ],
+    "date": "2008-12-26 15:36:00"
+}

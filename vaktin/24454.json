@@ -1,0 +1,72 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "24454",
+    "title": "Cisco 876 (MPC8272) og UDP vesen",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=24454",
+    "posts": [
+        {
+            "user_name": "saevarh",
+            "text": "Sæl verið fólkið.\nÉg er með ADSL+ tengingu frá Símanum og ip net og er að reyna að fá nafnaþjón til að virka og er hann skráður hjá \nhttp://www.isnic.is/\n og stenst allar kröfur frá þeim. Hitt er annað mál að þegar ég ætla að flytja lén yfir á þennann nafnaþjón þá segir \nhttp://www.isnic.is/\n að lénið finnist ekki á nafnaþjóninum. Mig er farið að gruna að þetta hafi eitthvað að gera með UDP port 53 vegna þess að ef ég læt sama nafnaþjón hringja inn í gegnum pppoe(þetta er FreeBSD vél) þá svínvirkar að flytja lénið svo þetta er að stoppa á Cisco. Síminn staðfesti að það væri ekki lokað á UDP til viðskiptavina svo mér er að detta í hug hvort ég þurfi að bæta inn einhverri skipun á routerinn, hérna er config skráinn úr routernum, öll aðstoð vel þegin.\nshow config\nUsing 4035 out of 131072 bytes\n!\nversion 12.4\nno service pad\nservice timestamps debug uptime\nservice timestamps log uptime\nservice password-encryption\n!\nhostname notandi\n!\nboot-start-marker\nboot-end-marker\n!\nlogging buffered 10000 debugging\nno logging console\nno logging monitor\nenable secret 5 \n!\nno aaa new-model\n!\nresource policy\n!\nip subnet-zero\nip cef\nno ip dhcp use vrf connected\nip dhcp excluded-address 192.168.1.1\nip dhcp excluded-address 192.168.1.1 192.168.1.49\n!\nip dhcp pool heimanet\n   network 192.168.1.0 255.255.255.0\n   dns-server 157.157.205.2\n   default-router 192.168.1.254\n   domain-name simnet.is\n!\n!\nip name-server 157.157.205.2\n!\n!\n!\nusername notandi password 7 xxxxx\n!\n!\n!\n!\n!\ninterface BRI0\n no ip address\n encapsulation hdlc\n shutdown\n!\ninterface ATM0\n no ip address\n no atm ilmi-keepalive\n dsl operating-mode auto\n hold-queue 224 in\n!\ninterface ATM0.1 point-to-point\n ip address 212.30.10.238 255.255.255.252\n ip nat outside\n ip virtual-reassembly\n pvc 8/64\n  encapsulation aal5snap\n !\n!\ninterface FastEthernet0\n!\ninterface FastEthernet1\n!\ninterface FastEthernet2\n!\ninterface FastEthernet3\n!\ninterface Virtual-Template1\n no ip address\n!\ninterface Vlan1\n ip address 192.168.1.254 255.255.255.0\n no ip proxy-arp\n ip nat inside\n ip virtual-reassembly\n ip tcp adjust-mss 1452\n hold-queue 100 out\n!\nip classless\nip route 0.0.0.0 0.0.0.0 ATM0.1\n!\nno ip http server\nno ip http secure-server\nip nat inside source list 1 interface ATM0.1 overload\nip nat inside source list 110 pool net-1 overload\nip nat inside source static 192.168.1.4 212.30.10.237\nip nat inside source static 192.168.1.2 212.30.10.238\nip nat inside source static 192.168.1.5 212.30.20.64\nip nat inside source static 192.168.1.6 212.30.20.65\nip nat inside source static 192.168.1.7 212.30.20.66\nip nat inside source static 192.168.1.8 212.30.20.67\nip nat inside source static 192.168.1.9 212.30.20.68\nip nat inside source static 192.168.1.10 212.30.20.69\nip nat inside source static 192.168.1.11 212.30.20.70\nip nat inside source static 192.168.1.12 212.30.20.71\nip nat inside source static 192.168.1.13 212.30.20.72\nip nat inside source static 192.168.1.14 212.30.20.73\nip nat inside source static 192.168.1.15 212.30.20.74\nip nat inside source static 192.168.1.16 212.30.20.75\nip nat inside source static 192.168.1.17 212.30.20.76\nip nat inside source static 192.168.1.18 212.30.20.77\nip nat inside source static 192.168.1.19 212.30.20.78\nip nat inside source static 192.168.1.20 212.30.20.79\nip nat inside source static 192.168.1.21 212.30.20.80\nip nat inside source static 192.168.1.22 212.30.20.81\nip nat inside source static 192.168.1.23 212.30.20.82\nip nat inside source static 192.168.1.24 212.30.20.83\nip nat inside source static 192.168.1.25 212.30.20.84\nip nat inside source static 192.168.1.26 212.30.20.85\nip nat inside source static 192.168.1.27 212.30.20.86\nip nat inside source static 192.168.1.28 212.30.20.87\nip nat inside source static 192.168.1.29 212.30.20.88\nip nat inside source static 192.168.1.30 212.30.20.89\nip nat inside source static 192.168.1.31 212.30.20.90\nip nat inside source static 192.168.1.32 212.30.20.91\nip nat inside source static 192.168.1.33 212.30.20.92\nip nat inside source static 192.168.1.34 212.30.20.93\nip nat inside source static 192.168.1.35 212.30.20.94\nip nat inside source static 192.168.1.36 212.30.20.95\nip nat inside source static 192.168.1.3 212.30.40.249\nip nat inside source static 192.168.1.1 212.30.40.250\n!\naccess-list 1 permit 192.168.1.0 0.0.0.255\naccess-list 1 permit 212.30.40.248 0.0.0.3\naccess-list 1 permit 212.30.20.64 0.0.0.31\naccess-list 22 permit 192.168.1.45\naccess-list 110 permit ip 192.168.1.0 0.0.0.255 any\nno cdp run\n!\ncontrol-plane\n!\n!\nline con 0\n exec-timeout 120 0\n login local\n no modem enable\n stopbits 1\nline aux 0\nline vty 0 4\n exec-timeout 120 0\n privilege level 15\n password 7 xxxxxxx\n login local\n transport input telnet ssh\n!\nscheduler max-task-time 5000\nend\nnotabene að 212.30.x tölurnar eru ekki raunverulegur tölurnar mínar, vill síður pósta þeim inn á þráðin.",
+            "date": "2009-08-18 22:10:00",
+            "post_id": "215271",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "natti",
+            "text": "Innri ip talan á nafnaþjóninum/freebsd vélinni, er hún nöttuð (með ip nat inside source static .....) út á þá tölu sem að þú skráðir sem ip tölu á nafnaþjóninum hjá isnic?",
+            "date": "2009-08-19 10:03:00",
+            "post_id": "215321",
+            "reply_to_id": "215271"
+        },
+        {
+            "user_name": "saevarh",
+            "text": "Nei Natti, config skráin er svona, þarf ég að setja inn einhverja skipun eins og:\nip nat inside source static 192.168.1.9 193.4.58.96\nEn mun það þá ekki skemma\nip nat inside source static 192.168.1.9 212.30.20.68 ?\nKveðja\nSævar",
+            "date": "2009-08-19 11:36:00",
+            "post_id": "215330",
+            "reply_to_id": "215321"
+        },
+        {
+            "user_name": "saevarh",
+            "text": "Getur verið að trikkið sé að bæta þessu inn\naccess-list 1 permit 193.4.58.96 0.0.0.3\n ?\nKveðja\nSævar",
+            "date": "2009-08-19 11:52:00",
+            "post_id": "215332",
+            "reply_to_id": "215330"
+        },
+        {
+            "user_name": "depill",
+            "text": "Hmm\nSkom saevarh að gera þetta myndi eingöngu segja routernum að þegar umferð kemur frá 193.4.58.96/30 þá skal hún NATa umferðina út á við, við viljum það ekki. Annars er fínt fyrir þig að gera no access-list 1 og svo access-list 1 permit 192.168.1.0 0.0.0.255, það er það eina sem á að vera í access-lista 1.\nÞú ætlar ekki að NATa ytri tölurnar áfram...\nEr ég svo sá eini sem sé ekki net-1 poolið sem þú ert að reyna láta access-lista 110 NATast áfram á, það ætti að vera í góðu að gera no ip nat inside source list 110 pool net-1 overload\nSvo að hinu vandamálinu, nei þú vilt ekki láta 193.4.58.96 þýðast yfir í 192.168.1.9 en takk samt fyrir þetta hint. Má ég spurja samt hvaða ip tölur eru þetta 212.30.20.87 ? Þetta eru ekki IP tölur í eigu Símans  ( ertu kannski búinn að skipta út ip tölunum, allt í góðu ).\nÞað væri samt gaman að fá ytri ip töluna ( eða hostnameið ) af DNS þjóninum þínum þar sem þá gæti maður hreinlega prófað og séð hvort þetta er network eða config issue \n ( Mátt PMa mig ef þú vilt hafa þetta á DL(downlow \n ))",
+            "date": "2009-08-19 12:45:00",
+            "post_id": "215335",
+            "reply_to_id": "215332"
+        },
+        {
+            "user_name": "saevarh",
+            "text": "Takk fyrir þessa punkta depill \nÉg gerði\nno access-list 1\nog svo\naccess-list 1 permit 192.168.1.0 0.0.0.255\nOg netið helst ennþá inni  \n og Nafnaþjónninn ns1.foo.com virðist standast allar kröfur ISNIC! en engu sér nic.is ekki lénið þegar ég ætla að flytja það, ég prufaði að gera að fikta smá og gerði:\naccess-list 110 permit udp any any eq isakmp\naccess-list 111 permit udp host 193.4.58.96 gt 32767 any eq domain\naccess-list 111 permit tcp host 193.4.58.96 gt 32767 any eq domain\nEn ekki virkaði það heldur, tek það fram að ég er ekki Cisco gúru, er að fikta mig áfram, en maður lærir á að fikta",
+            "date": "2009-08-19 14:31:00",
+            "post_id": "215346",
+            "reply_to_id": "215335"
+        },
+        {
+            "user_name": "saevarh",
+            "text": "Fann ágætis síðu hérna sem ég er að skoða \nhttp://www.donelan.com/dnsacl-min-cisco.html",
+            "date": "2009-08-19 14:33:00",
+            "post_id": "215347",
+            "reply_to_id": "215346"
+        },
+        {
+            "user_name": "saevarh",
+            "text": "Ég er búinn að leysa þetta eða altso Helios \n ég gleymdi að setja inn allow-transfer í named.conf",
+            "date": "2009-08-19 14:48:00",
+            "post_id": "215349",
+            "reply_to_id": "215347"
+        },
+        {
+            "user_name": "saevarh",
+            "text": "Langar að bæta því við að ég var með allow-transfer í named.conf fyrir einni viku en ég er handviss um að þessi skipun hafi leyst vandamálið:\naccess-list 110 permit udp any any eq isakmp\naccess-list 111 permit udp host 193.4.58.96 gt 32767 any eq domain\naccess-list 111 permit tcp host 193.4.58.96 gt 32767 any eq domain",
+            "date": "2009-08-19 19:14:00",
+            "post_id": "215378",
+            "reply_to_id": "215349"
+        }
+    ],
+    "date": "2009-08-18 22:10:00"
+}

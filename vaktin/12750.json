@@ -1,0 +1,93 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "12750",
+    "title": "Hvaða kassi er þetta? Get ég keypt mér móbo í þetta skran?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=12750",
+    "posts": [
+        {
+            "user_name": "prg_",
+            "text": "Tölvan hjá ættingja, ég get svosem sett inn í móðurborð og þetta helsta, en er ekki alveg nógu mikill spekingur til að vita hvaða tegund af kassa þetta er - og þá hvort uppfærslutilboð á borð við \nþetta\n eða \nþetta\n geta gengið inn í þennan tölvukassa og powersupply.\n\n\n\nHafði hugsað mér að nota sama hd (ATA) og skjá (túba) sem gerir þetta hræbillegt ef möguleiki er á að nota kassann og ps.\n\n\n\nATH: Þessi aðili spilar enga leiki og er sama um hraðamun á AMD og Intel (umræðan þarf því ekki að fara út í þá sálma).",
+            "date": "2007-01-11 20:07:00",
+            "post_id": "135369",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gnarr",
+            "text": "Þetta er bara standard ATX kassi, getur sett hvernig ATX og µATX borð í hann.",
+            "date": "2007-01-11 20:17:00",
+            "post_id": "135374",
+            "reply_to_id": "135369"
+        },
+        {
+            "user_name": "prg_",
+            "text": "Mange tak, þarf bara að ganga úr skugga um að ps geti ráðið við móbo og örgjörvan sem ég kaupi...",
+            "date": "2007-01-11 20:18:00",
+            "post_id": "135375",
+            "reply_to_id": "135374"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "ampera talan fyrir hvert rail ætti að standa á hliðinni á honum. póstaðu því hingað og hvað verður í kassanum eftir uppfærslu, þá getum við sagt þér hvort það gengur.",
+            "date": "2007-01-11 20:20:00",
+            "post_id": "135376",
+            "reply_to_id": "135375"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Þetta myndi aldrei ganga þar sem bæði þessi móðurborð sem þú linkar á eru með P4 tengi og powersupplyið sem er á myndinni ekki. \n\n\n\nEr þetta powersupply ekki 200W?",
+            "date": "2007-01-11 21:40:00",
+            "post_id": "135383",
+            "reply_to_id": "135376"
+        },
+        {
+            "user_name": "prg_",
+            "text": "Jæja, komst loksins í að skoða þetta betur. PowerSupply-ið er 250W - dugir það fyrir einhverja uppfærslu eða þarf ég auka power eða tengi til að geta uppfært á einhvern hóflegan hátt?",
+            "date": "2007-01-26 22:23:00",
+            "post_id": "136974",
+            "reply_to_id": "135383"
+        },
+        {
+            "user_name": "arnarj",
+            "text": "Ef þú ætlar bara að vera með 1-2 harða diska og ódýrt/innbyggt skjákort ætti aflgjafinn að duga.\n\n\n\nEr þetta ekki Fujitsu-Siemens kassi?\n\n\n\n\n\nt.d. þá ætti svipuð uppsetning og þessi að virka fínt í kassanum:\n\nhttp://www.att.is/product_info.php?cPat ... f934ea38ba\n\n\n\n\ntek fram að ég vafraði ekkert til að sjá besta uppfærslutilboðið, tók þetta bara sem dæmi, fór bara beint á att. Etv til betri tilboð annars staðar.",
+            "date": "2007-01-26 22:56:00",
+            "post_id": "136979",
+            "reply_to_id": "136974"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "Ef aflgjafinn er ekki með \"P4 tengi\", þá gengur hann ekki í uppfærslu. Þetta er svona ferkanntað 4-pinna tengi sem að fer í móðurborðið.",
+            "date": "2007-01-27 19:05:00",
+            "post_id": "137052",
+            "reply_to_id": "136979"
+        },
+        {
+            "user_name": "prg_",
+            "text": "Erum við ekki að tala um þetta hérna:\n\n\n\n\n\nEf svo er þá get ég leitað að því.\n\n\n\nHvað með ef þetta tengi er ekki, get ég samt ekki keypt AMD móbo+örgjörva og komið því á koppinn.\n\n\n\nÞað verður bara einn hdd þannig að þetta ætti vonandi að sleppa.\n\n\n\nTakk fyrir skjót svör og hjálpina, kann vel að meta!",
+            "date": "2007-01-28 23:26:00",
+            "post_id": "137174",
+            "reply_to_id": "137052"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "Jú, þetta er tengið.\n\n\n\nog nei, þetta tengi er kallað P4 tengi vegna þess að P4 voru fyrstu örgjörfarnir sem voru það orkufrekir að þeir kröfðust svona tengis. Í dag eru öll móðurborð með þetta, bæði AMD og Intel.",
+            "date": "2007-01-29 01:49:00",
+            "post_id": "137184",
+            "reply_to_id": "137174"
+        },
+        {
+            "user_name": "prg_",
+            "text": "OK, þá splæsi ég bara í nýtt PSU þar sem mér sýnist a.m.k. á myndunum sem ég tók að þetta tengi sé ekki til staðar á því gamla.",
+            "date": "2007-01-29 11:13:00",
+            "post_id": "137195",
+            "reply_to_id": "137184"
+        },
+        {
+            "user_name": "stjanij",
+            "text": "vertu viss að þú ert að setja nógu öflugt PSU í kassann",
+            "date": "2007-01-29 20:54:00",
+            "post_id": "137247",
+            "reply_to_id": "137195"
+        }
+    ],
+    "date": "2007-01-11 20:07:00"
+}

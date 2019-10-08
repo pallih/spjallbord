@@ -1,0 +1,86 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "52591",
+    "title": "Hvaða skjákort á ég að velja ?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=52591",
+    "posts": [
+        {
+            "user_name": "Scooby",
+            "text": "hæ hæ \nég er búinn að setja saman Tölvu allt nema skjákortið og er að velta því fyrir mér hvað ég á að velja þetta er vél sem vinnur mest í grafík þá Adobe forritunum og svo eitthvað leikjaspil. \nég er að vinna með 30\" skjá og vantar eitthvað kort sem er gott fyrir hann uplausn á honum er 2560x1600 \nhvað mæla serfærðingar hér með?",
+            "date": "2013-01-08 19:09:00",
+            "post_id": "488342",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "MatroX",
+            "text": "ég var eitthvað búinn að nefna við þig 660ti, 670gtx eða 680gtx",
+            "date": "2013-01-08 19:14:00",
+            "post_id": "488343",
+            "reply_to_id": "488342"
+        },
+        {
+            "user_name": "AciD_RaiN",
+            "text": "^What he said!! Fer aðallega eftir budget held ég",
+            "date": "2013-01-08 20:07:00",
+            "post_id": "488364",
+            "reply_to_id": "488343"
+        },
+        {
+            "user_name": "littli-Jake",
+            "text": "Þetta sníst aðalega um það hvað þú ert til í að henda miklum aur í þetta. Hvort þú viljir kaupa þér grand kort eða gera eitthvað fallegt fyrir GT  \n \nAnnars hugsa ég að 670Gtx væri bísna góður kostur.\nhttp://www.att.is/product_info.php?cPat ... ts_id=8065\nO.C. útgáfa með tvem kæliviftum",
+            "date": "2013-01-08 22:46:00",
+            "post_id": "488415",
+            "reply_to_id": "488364"
+        },
+        {
+            "user_name": "Scooby",
+            "text": "núna er mér bent á að kaupa þessi frekar \nhttp://tolvutek.is/vara/gigabyte-hd7950 ... -3gb-gddr5\neða \nhttp://www.kisildalur.is/?p=2&id=2110\nfynnst nú ekki 10þ vera eitthvað til að spara ef 670 kortið er mikið betra en þessi en ég er ekki nóu mikið tölvugrúskari",
+            "date": "2013-01-09 01:21:00",
+            "post_id": "488450",
+            "reply_to_id": "488415"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "ekki fara í amd þegar kemur að svona mikilli vinnslu eins og þú ert í:)",
+            "date": "2013-01-09 01:25:00",
+            "post_id": "488451",
+            "reply_to_id": "488450"
+        },
+        {
+            "user_name": "Benzmann",
+            "text": "ég myndi reyna að finna. gtx670 4gb útgáfuna einhversstaðar",
+            "date": "2013-01-09 11:09:00",
+            "post_id": "488484",
+            "reply_to_id": "488451"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Allan timann Nvidia þar sem Adobe styður vinnslu á skjákortum frá Nvidia.",
+            "date": "2013-01-09 11:31:00",
+            "post_id": "488491",
+            "reply_to_id": "488484"
+        },
+        {
+            "user_name": "Tiger",
+            "text": "Nákvæmlega! Sá sem mældi með þessum AMD kortum hefur ekki hugmynd um hvað hann er að segja og bendir þér líklega á þetta vegna trúarbragða sem eiga heima innan skjákortsheimsins (Nvidia vs AMD).\nEins og Pandemic ofl hafa sagt, Adobe nýtir Cuda cores í Nvidia kortunum sem er eitthvað sem AMD kortin gera ekki. Photoshop t.d. nýtir þetta vel, og þegar verið er að vinna með stór skjöl í liqufied ofl er himinn og haf að hafa skjákort sem Photoshop nýtir eða ekki. \nGTX 670 er kostur sem þú verður ekki svikinn af.",
+            "date": "2013-01-09 14:37:00",
+            "post_id": "488530",
+            "reply_to_id": "488491"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "tiger minn spurning að þú kynnir þér þetta aðeins líka hehe. þetta er bara ekki rétt hjá þér sorry. nýja mercury vélin í photoshop notar ekki cuda cores og t.d liqufied er keyrt af OpenGL og OpenCL ekki CUDA \n en aftur á móti Premiere og þau forrit gera það mjög vel\nTekið úr cs6 FAQ:\n\"MGE is new to Photoshop CS6 and uses both the OpenGL and OpenCL frameworks. It does not use the proprietary CUDA framework from nVidia.\"\nhttp://helpx.adobe.com/photoshop/kb/pho ... u-faq.html",
+            "date": "2013-01-11 03:09:00",
+            "post_id": "488885",
+            "reply_to_id": "488530"
+        },
+        {
+            "user_name": "Tiger",
+            "text": "I stand corrected. Nýja CS6 gerir það ekki, CS5 gerði það. Breytir samt ekki minni skoðun að Nvidia sé framar í Adobe, til ýmis plugin sem keyra á cuda ofl.",
+            "date": "2013-01-11 08:30:00",
+            "post_id": "488890",
+            "reply_to_id": "488885"
+        }
+    ],
+    "date": "2013-01-08 19:09:00"
+}

@@ -1,0 +1,114 @@
+{
+    "forum_title": "Yfirklukkun, hraðaprófanir og mods",
+    "id": "15584",
+    "title": "Info/Leiðbeiningar um yfirklukkun",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=1&t=15584",
+    "posts": [
+        {
+            "user_name": "Selurinn",
+            "text": "Er möguleiki að einhver geti bent mér á guide einhverstaðar, eða bara sagt það hér hvernig ég yfirklukka almennilega og fái sem best stable system með OC\n\n\n\nSpecs:\n\n\n\nGA-P35-DS4\n\nQ6600 SLACR\n\nGeil Black Dragon DDR2 2x1Gb 800mhz 4-4-4-12\n\n8800 GTS 320mb\n\n\n\nEr með síðan risa heatsink á örran með viftu til að kæla vel.\n\n\n\n\n\nHvaða component er best að byrja að klukka og hvort er betra varðandi þá speed vs timings á minni? FBS vs multiplier?\n\n\n\nOg svo hvernig maður getur yfirklukkað skjákortið sem best :S\n\n\n\n\n\nGetur einhver Vaktari orðið mér að liði",
+            "date": "2007-09-24 15:34:00",
+            "post_id": "153445",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "elv",
+            "text": "Hérna er flest allt sem þið þurfið að vita um yfirklukkun(overclocking)\n\n\n\n\nNokkrar staðreyndir um yfirklukkun(hve mikið er hægt að keyra hvern hlut)\n\n\n\n\n\n\nAð vísu allt á ensku, kannski að einhver nenni að þýða",
+            "date": "2007-09-24 15:38:00",
+            "post_id": "153446",
+            "reply_to_id": "153445"
+        },
+        {
+            "user_name": "fr0sty",
+            "text": "http://www.bit-tech.net/hardware/2007/0 ... ad_q6600/1\n\n\n\n\nþarna er fín grein um yfirklukkun á örranum...",
+            "date": "2007-09-24 15:39:00",
+            "post_id": "153447",
+            "reply_to_id": "153446"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Var að lesa.\n\n\n\nÞannig þetta snýst um aðallega að ná FSB sem hæst.\n\nÞannig þú getur í rauninni sett multiplierinn sem lægst og einnig timings á minninu?\n\n\n\nSvo hækkarðu bara voltin þegar þú nærð ekki meira og hækkar smátt og smátt.\n\n\n\nOg með skjákort er það bara core og mem speed.\n\n\n\n\n\nGóð utilites til að prófa CPU/Memory/Video Card?\n\n\n\n\n\nVil samt endilega fá að vita hvort ég skilji þetta rétt.",
+            "date": "2007-09-24 16:04:00",
+            "post_id": "153449",
+            "reply_to_id": "153447"
+        },
+        {
+            "user_name": "elv",
+            "text": "Þú ert að skilja þetta rétt.\n\nPrime er fínt til að prófa cpu og 3dmark til að prófa skjákort",
+            "date": "2007-09-24 16:21:00",
+            "post_id": "153456",
+            "reply_to_id": "153449"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Takk takk, en eitt að lokun.\n\n\n\nEr það þá einmitt ekki þannig að þú nærð að fá FSB sem hæst, og þegar þú hefur náð max output þá að reyna að hækka hitt t.d. multiplier og timings sem maður var í rauninni búinn á undan að setja í lægsta?",
+            "date": "2007-09-24 16:49:00",
+            "post_id": "153464",
+            "reply_to_id": "153456"
+        },
+        {
+            "user_name": "elv",
+            "text": "Jú",
+            "date": "2007-09-24 16:53:00",
+            "post_id": "153465",
+            "reply_to_id": "153464"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Er ekki betra að hafa hærri clock speed á minninu heldur en timing?\n\n\n\nOg FSB Ratio er ekki betra að það sé  stærra:minna\n\n\n\nEða er ekki best að hafa ratio 1:1 til að allt sé samhæft?\n\n\n\n\n\nHeld að ég sé að ná hvað þetta snýst um, kannski ekki endilega hafa max fsb en það hátt að þú nærð að hækka multiplierinn slatta eftirá. Svona balanced í rauninni.\n\n\n\nSvo er ekki best að yfirklukka þessa röð?\n\n\n\nMinni>CPU>Skjákort\n\n\n\nAm I right or am I wrong?",
+            "date": "2007-09-24 18:16:00",
+            "post_id": "153467",
+            "reply_to_id": "153465"
+        },
+        {
+            "user_name": "elv",
+            "text": "Ég myndi frekar CPU-Minni-Skjákort ..... en það er bara ég.",
+            "date": "2007-09-24 18:32:00",
+            "post_id": "153468",
+            "reply_to_id": "153467"
+        },
+        {
+            "user_name": "Rodriguez",
+            "text": "SNILD  meira að segja nákvæmlega settupið mitt.",
+            "date": "2007-09-25 13:28:00",
+            "post_id": "153530",
+            "reply_to_id": "153468"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Frequency á minni VS Timings á því?",
+            "date": "2007-09-26 00:26:00",
+            "post_id": "153567",
+            "reply_to_id": "153530"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Hátt frequency án þess að vera með of há timings, þú verður eiginlega bara að finna þinn \"sweet spot\" sjálfur.",
+            "date": "2007-09-26 08:47:00",
+            "post_id": "153574",
+            "reply_to_id": "153567"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Semsagt Prime, 3DMark og Memtest til að prófa performancið á þessu öllu?",
+            "date": "2007-10-11 13:32:00",
+            "post_id": "154830",
+            "reply_to_id": "153574"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Já í raun.",
+            "date": "2007-10-11 13:58:00",
+            "post_id": "154831",
+            "reply_to_id": "154830"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Gefur Memtest samt upp performance?\n\n\n\nGefur hann ekki aðallega hvort minnið sé stabílt eða ekki?",
+            "date": "2007-10-11 13:59:00",
+            "post_id": "154832",
+            "reply_to_id": "154831"
+        }
+    ],
+    "date": "2007-09-24 15:34:00"
+}

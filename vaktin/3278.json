@@ -1,0 +1,37 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "3278",
+    "title": "Clawhammer vs. Barton",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=3278",
+    "posts": [
+        {
+            "user_name": "wICE_man",
+            "text": "Clawhammer er heiti kjarnans í nýju Athlon64 örgjörvunum, Barton er hins vegar síðasti kjarnin af AthlonXP fjölskyldunni. \n\n\n\nÞegar litið er á smárásamyndir af kjörnunum tveimur er fátt sem ber á milli annað en 1MB skyndiminni clawhammersins á móti 512KB í Barton.\n\n\n\nClawhammerinn er byggður ofan á gömlu Athlon hönnuninni en með umtalsverðum endurbætum, helst er að nefna:\n\n\n\nX86-64 viðbætur:\n Gerir honum kleyft að keyra jafnt 64 eða 32 bita kóða í 64 bita stýrikerfi sem 32bita kóða í 32 bita stýrikerfi. Afkasta aukning við að keyra 64bita kóða umfram 32 bita geta verið allt frá 0 upp í 50% og jafnvel meir en algengast á bilinu 5-30%.\n\n\n\nInnbyggð minnisstýring:\n Hjá flestum örgjörvum fer minnisstýringin fram á móðurborðinu og vinnur á FSB tíðninni en í clawhammer gengur hún á sama hraða og örgjörvin og er því miklu minni töf af því að ná í gögn í minni.\n\n\n\nHypertransport:\n Tenging milli örgjörva og annara eininga á móðurborðinu, afkastar 3.2GB/s og er hannaður sem framtíðar tenging fyrir háhraða PCI-X spjöld.\n\n\n\nStærra L2 skyndiminni:\n Eins og áður segir er clawhammer með 1MB í L2 minni.\n\n\n\nSSE2 stuðningur:\n Hjálpar til í forritum sem eru sérhönnuð fyrir Pentium 4 viðbótarskipanirnar. Bartoninn var einungis með SSE stuðning.\n\n\n\nBetri L1/L2 afköst:\n Skyndiminni á clawhammer er með 25-30% afkastagetu en á barton af sömu klukkutíðni.\n\n\n\nCool'n'Quiet:\n Fartölvur hafa lengi haft þennan fídus en nú er hann kominn í borðtölvur. Klukkar örgjörvan og hækkar og lækkar spennuna á honum eftir þörfum og minnkar þannig orkunotkunn.\n\n\n\nFleirri GPR (General Purpose Registers):\n Eða 16 í stað 8. Þetta er mikilvægur eiginleiki þar sem compilerar þurfa oft að bæta við mörgum skipunum bara til að losa um eitt register, lengri kóði = hægari vinnsla (ath! ég er að meina full affléttaðan kóða). Það þarf 64-bita stýrikerfi til að nota þessi 8 auka GPR.\n\n\n\nLengri pípun:\n Athlon64 hönnunin hefur 12 stiga integer (heiltölu) pípu og 17 stiga FP (fleytitölu) pípu í stað 10int/15FP á AthlonXP. Þessi lenging er ekki til að auka klukkutíðni heldur til að auka skilvirkni örgjörvans með því að pakka saman mörgum míkróskipun á hvern klukkupúls og nota þannig fleiri hluta örgjörvans í einu.\n\n\n\nVonandi hefur þetta verið ykkur til ánægju og fróðleiks, efni þetta er að mestu tekið ú eftirfarandi grein: \nhttp://www.cpuid.com/K8/index.php\n þar er farið mjög ýtarlega í efnið en ég hef reynt að halda mig við einfaldari hlutina. \n\n\n\nEndilega látið mig vita ef þið viljið fleiri svona umfjallanir.",
+            "date": "2004-02-24 13:22:00",
+            "post_id": "33114",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Ég las þetta fyrir ári á tomshardware ef ég mann rétt",
+            "date": "2004-02-24 13:26:00",
+            "post_id": "33117",
+            "reply_to_id": "33114"
+        },
+        {
+            "user_name": "Nemesis",
+            "text": "Gaman að lesa - fínt líka að fá þessar greinar á íslensku af og til",
+            "date": "2004-02-24 13:30:00",
+            "post_id": "33119",
+            "reply_to_id": "33117"
+        },
+        {
+            "user_name": "wICE_man",
+            "text": "Örugglega eitthvað svipað, hann var jú kominn í formi Opterons þá. Það er ekkert nýtt í þessari grein, hún er aðalega ætluð þeim sem ekki nenna að fara gegnum 20bls af tæknitexta:)",
+            "date": "2004-02-24 13:32:00",
+            "post_id": "33120",
+            "reply_to_id": "33119"
+        }
+    ],
+    "date": "2004-02-24 13:22:00"
+}

@@ -1,0 +1,37 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "29320",
+    "title": "Folder sharing virkar hjá mér en...",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=29320",
+    "posts": [
+        {
+            "user_name": "gunnarasgeir",
+            "text": "Jæja mér tókst loksins að koma tvem vélum heima hjá mér inná sama workgroup og fá þetta til að virka þannig nú virkar þetta allt saman en það er smá vesen.\nMér tókst ekki í fyrstu að fá þetta til að virka, svo las ég einhverstaðar á netinu að það þyrfti að slökkva á eldveggjunum í vélum svo þetta virkaði. Það gerði ég og þá virkaði þetta. Er virkilega engin leið fyrir mig að hafa þetta virkt heima en samt með kveikt á eldveggjunum í vélunum. Mér er ekki vel við það að vera með slökkt á þeim.",
+            "date": "2010-03-31 22:51:00",
+            "post_id": "253817",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gunnarasgeir",
+            "text": "Veit þetta enginn?",
+            "date": "2010-04-01 16:36:00",
+            "post_id": "253912",
+            "reply_to_id": "253817"
+        },
+        {
+            "user_name": "Hnykill",
+            "text": "Ég hef alltaf haft slökkt á þessum eldveggjum í öllum tölvum sem ég hef átt, og aldrei lent í neinu veseni með spyware eða vírusa síðustu 10-12 ár eða svo \nÉg nota hinsvegar Spybot search and Destroy forritið og \"Teatimer\" sem fylgir með því. það bæði lokar opnum portum og leyfir engar registry breytingar nema þú biðjir um það sjálfur.. er hálfgerður eldveggur þannig lagað.",
+            "date": "2010-04-01 16:44:00",
+            "post_id": "253913",
+            "reply_to_id": "253912"
+        },
+        {
+            "user_name": "Gullisig",
+            "text": "ef að vélarnar eru á sama workgroup áttu ekki að vera í neinum vanda með eldvegg ,, venjulega ættu vélarnar að koma upp í network ,,, en ertu búin að enable network sharing búin að share diskunum í vélunum ,, ef svo geturðu bara notað mount network drive \\\\vél\\share  svo user og pass",
+            "date": "2010-04-01 17:04:00",
+            "post_id": "253915",
+            "reply_to_id": "253913"
+        }
+    ],
+    "date": "2010-03-31 22:51:00"
+}

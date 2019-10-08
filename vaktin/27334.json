@@ -1,0 +1,37 @@
+{
+    "forum_title": "Þjónusta / Viðgerðir",
+    "id": "27334",
+    "title": "Viftan stöðugt í gangi EN",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=13&t=27334",
+    "posts": [
+        {
+            "user_name": "moribund",
+            "text": "Hi, ég er að keyra á HP nx6325 laptop sem ég fékk fyrir 2-3 árum, fyrstu mánuðina sem ég átti hana heyrðist aldrei neitt í henni en síðan hægt og rólega fór harði diskurinn að fyllast, ryk að safnast upp, og alskonar óþarfa forrit í tölvuni.\nÉg formattaði hana og setti upp windows xp pro uppá nýtt, hreinsaði viftuna og setti nýtt kælikrem undir örgjörvan og er með hana ofan á svona kæliplatta frá computer.is en samt er viftan alltaf á fullu þó það sé ekkert í gangi, t.d. akkurat núna er hún á fullu og það er er 0-5% CPU usage og stærsta forritið sem ég keyri er chrome sem tekur 40k mem usage.\nlas einhverstaðar að það væri sniðugt að update-a bios-inn, hef ekki gert það ennþá, eitthvað annað sem ykkur dettur í hug ? tölvan kannski bara orðin gömul og lúin ?\nfyrirfram þakkir,\nkv. óli",
+            "date": "2010-01-06 05:39:00",
+            "post_id": "237673",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "TechHead",
+            "text": "Byrjaðu á að uppfæra bios. Niðurhalaðu svo Coretemp og taktu statusinn á hitanum á örgjörva.\nEf hann er mikið meira en 50°c á Idle þá hefuru annaðhvort klúðrað kælikrems skiptunum eða klikkað á að skrúfa kæliplötuna rétt á örgjörva.\nEinnig gæti gasið í hitapípunni á kæliplötunni hafað skemmst/eyðst. Þá þarftu að útvega þér nýtt Thertmal Unit.",
+            "date": "2010-01-11 12:43:00",
+            "post_id": "238685",
+            "reply_to_id": "237673"
+        },
+        {
+            "user_name": "methylman",
+            "text": "hreinsaði viftuna ???   þýðir það að þú blést uppsöfnuðu ryki frá kæli-elementinu og hreinsaðir það vel ??\nhttp://www.youtube.com/watch?v=ZS2tKwhigyE",
+            "date": "2010-01-11 13:03:00",
+            "post_id": "238686",
+            "reply_to_id": "238685"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Mjög gott video um hvernig að má gera tölvuna sína háværari með því að skemma legurnar í viftunum.\nEkki nota ryksugu á viftur án þess að hindra það að þær geti snúist fyrst.",
+            "date": "2010-01-12 14:54:00",
+            "post_id": "238945",
+            "reply_to_id": "238686"
+        }
+    ],
+    "date": "2010-01-06 05:39:00"
+}

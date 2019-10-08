@@ -1,0 +1,254 @@
+{
+    "forum_title": "Windows",
+    "id": "19810",
+    "title": "setja xp yfir Vista",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=19810",
+    "posts": [
+        {
+            "user_name": "arnar7",
+            "text": "sælir er hérna með nýja tölvu og þegar ég var búinn að nota hana í svona 2 daga fór að koma upp \"En-us has stopped working\" þegar ég kveiki á tölvuni\nen þetta hefur engin áhrif held ég á neitt annað nema það að ég þarf alltaf að loka þessu áður en ég geri eitthvað annað \nveit einhver hvað ég get gert til að losna við þetta? \nsvona pínu pirrandi.\ntakk fyrir í von um góð svör eins og venjulega",
+            "date": "2008-10-23 21:55:00",
+            "post_id": "185287",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Blackened",
+            "text": "uh.. þetta er svolítið longshot\nEn ertu búinn að fara í lyklaborðs stillingarnar hjá þér í Control Panel og henda út En-Us layoutinu á lyklaborðinu? \nþannig að það sé bara íslenskt eftir?\n...þetta er bara skot útí loftið en gæti mögulega gert trikkið",
+            "date": "2008-10-23 22:19:00",
+            "post_id": "185290",
+            "reply_to_id": "185287"
+        },
+        {
+            "user_name": "arnar7",
+            "text": "haha skal prufa \nvar ekkert búinn að spá út í það hehe",
+            "date": "2008-10-23 22:26:00",
+            "post_id": "185291",
+            "reply_to_id": "185290"
+        },
+        {
+            "user_name": "arnar7",
+            "text": "nei það virkar ekki \neinhverja fleiri tillögur?\nþetta er frekar pirrandi",
+            "date": "2008-10-23 22:46:00",
+            "post_id": "185293",
+            "reply_to_id": "185291"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Toshiba tölva?\nStart > Run > MSCONFIG\nOg afvelja forritið sem keyrir þetta\n(C:\\Program Files\\TOSHIBA\\TOSCDSPD\\TOSCDSPD.EXE)",
+            "date": "2008-10-23 23:04:00",
+            "post_id": "185297",
+            "reply_to_id": "185293"
+        },
+        {
+            "user_name": "arnar7",
+            "text": "takk fyrir þetta.. prufa þetta á morgun en ég var að spá hvort að Driverar fyrir Windows Vista 32bit myndu virka fyrir Windows XP er það þannig?\nlangar nefnilega að skipta yfir í xp\nhttp://eu.computers.toshiba-europe.com/ ... service=EU\neru þetta driverar sem myndu passa á tölvuna?\ner með  Toshiba Satellite L300D-11A\nhttp://translate.google.com/translate?u ... l=sv&tl=en",
+            "date": "2008-10-23 23:12:00",
+            "post_id": "185302",
+            "reply_to_id": "185297"
+        },
+        {
+            "user_name": "einarhr",
+            "text": "Toshiba gefur ekki upp a support siðunni sinni XP drivera fyrir þessa vel. Þu getur skoðað það a \nhttp://support.toshiba-tro.de\n  þar velur þu driver download, notebook og svo velur þu typuna. Satellite, L, 300D, svo i short model velur þu það sem stendur undir velinni PLSC** .\nSry kall, en þu getur profað að setja hana upp og reyna að finna XP drivera með td. Driver Detective. Vista diveranir munu sennilega ekki virka a XP.",
+            "date": "2008-10-24 00:49:00",
+            "post_id": "185308",
+            "reply_to_id": "185302"
+        },
+        {
+            "user_name": "arnar7",
+            "text": "okey\ntakk samt",
+            "date": "2008-10-24 07:36:00",
+            "post_id": "185313",
+            "reply_to_id": "185308"
+        },
+        {
+            "user_name": "arnar7",
+            "text": "þetta virkaði ekki þetta með MSCONFIG",
+            "date": "2008-10-24 14:08:00",
+            "post_id": "185336",
+            "reply_to_id": "185313"
+        },
+        {
+            "user_name": "olla",
+            "text": "fann þetta hérna á þessum link getur ath. ef þú ert með þá power iso forritið \nhttp://forums.techguy.org/windows-vista ... -help.html\nThanks \nThanks for your assistance!\nWhile trying to deselect the entry for the start-up entry for Acoustic Silencer, which i was not successful in doing,i remembered that it was after i installed Power Iso that EN-US had stopped working so i de-select the entry for poser iso and it dissareared.",
+            "date": "2008-10-25 00:07:00",
+            "post_id": "185402",
+            "reply_to_id": "185336"
+        },
+        {
+            "user_name": "arnar7",
+            "text": "heyrðu já ég er með Power Iso.. ætla að prufa þetta..\nen er veit einhver hérna um xp drivera fyrir Toshiba Satellite L300D-11A ?\nnenni ekki að vera með Vista :S\nlangar í xp",
+            "date": "2008-10-25 00:10:00",
+            "post_id": "185403",
+            "reply_to_id": "185402"
+        },
+        {
+            "user_name": "olla",
+            "text": "humm virðist bara finna fyrir vista sorry kíki samt eftir þessu næstu daga \neina sem ég fann var þetta \nhttp://forums.computers.toshiba-europe. ... &tstart=60\nætti að virka samkvæmt lestri",
+            "date": "2008-10-25 00:44:00",
+            "post_id": "185411",
+            "reply_to_id": "185403"
+        },
+        {
+            "user_name": "arnar7",
+            "text": "http://www.pc.toshiba-asia.com/support/ ... /index.jsp\nvelja Notebook/Satallite/300 og leita af driverum.\nscrolla svo aðeins niður og þá sjást driverar fyrir xp.\ngætu einhverjir af þessum passað á mína vél?\nhún er model: PSLCOE",
+            "date": "2008-10-25 11:24:00",
+            "post_id": "185439",
+            "reply_to_id": "185411"
+        },
+        {
+            "user_name": "arnar7",
+            "text": "og já ef þetta failar er þá nokkuð mál að setja Recovery diskinn í og setja Vista bara aftur upp eins og hún var þegar ég keypti hana?",
+            "date": "2008-10-25 11:39:00",
+            "post_id": "185440",
+            "reply_to_id": "185439"
+        },
+        {
+            "user_name": "arnar7",
+            "text": "http://forums.computers.toshiba-europe. ... adID=37509\n-----------------------------------------------------------------------------------------------------------------------------------------\nsá eitt forum og þar var einn með svipaða tölvu og var búinn að setja upp xp á hana og ég senti honum mail og bað \nhann um að senda mér þá, hann senti mér þennan link \nhttp://karbev.com/simon/\nættu þessir ekki að virka?\nhttp://game.amd.com/us-en/drivers_catal ... egrated-xp\n hér eru driverar fyrir skjákortið. eða er það ekki?",
+            "date": "2008-10-25 12:23:00",
+            "post_id": "185445",
+            "reply_to_id": "185440"
+        },
+        {
+            "user_name": "olla",
+            "text": "jú prufaðu að installa xp pro/home og farðu svo í device manager og þar sem upphrópunar merki birtast hægri klikkaðu  og gerðu uppdate driver myndi bara byrja þá á því skaðminnsta t.d audio driver og wireless og ath hvernig hú funkerar.\nef ekki settu aftur vista og bíddu eftir að driverar fyrir xp á þína koma.",
+            "date": "2008-10-25 16:57:00",
+            "post_id": "185465",
+            "reply_to_id": "185445"
+        },
+        {
+            "user_name": "arnar7",
+            "text": "það var sko gaur með L300D 10A sem setti xp með þessum Driverum og hún virkar allveg 100% og það er allveg sami vélbúnaður nánast í .þeim nema bara\nminni diskur og minna minni og þannig, annars eins.",
+            "date": "2008-10-25 18:33:00",
+            "post_id": "185474",
+            "reply_to_id": "185465"
+        },
+        {
+            "user_name": "arnar7",
+            "text": "en samt ef þetta klikkar eitthvað þá á ég Recovery diskinn þannig ég ætti að vera allveg Save á þessu.",
+            "date": "2008-10-25 19:23:00",
+            "post_id": "185479",
+            "reply_to_id": "185474"
+        },
+        {
+            "user_name": "arnar7",
+            "text": "Er einhver hætta á að skemma tölvuna á því að setja xp í hana \ner kominn með alla Drivera og allt þannig en vil vera allveg 100% á því að ég sé ekki að \nfara að skemma eitthvað með þessu uppátæki mínu,\nog ef svo illa færi að þetta færi í eitthvað fuck myndi það ekki bara virkar að setja \nRecovery Diskinn í og setja Vista upp án vandræða?\nen ég vil bara vera allveg save áður en ég geri eitthvað sem gæti skemmt eitthvað í tölvuni:?\n'er kannski einhver sem hefur sett xp á Vista lappa á vandræða og ekki endilega náð í alla driverana á síðunni hjá tölvufyrirtækinu t.d Toshiba,Acer, eða Asus.'\nen endilega segja allt sem getur hjálpað.. \ní von um góð svör",
+            "date": "2008-10-25 23:57:00",
+            "post_id": "185518",
+            "reply_to_id": "185479"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Þú ættir ekkert að skemma vélbúnaðinn með því að setja upp XP, bara spurning hvort allt hagi sér einsog það á að gera",
+            "date": "2008-10-26 00:27:00",
+            "post_id": "185519",
+            "reply_to_id": "185518"
+        },
+        {
+            "user_name": "arnar7",
+            "text": "ertu þá að meina þegar ég er með xp á að það hagi sér ekki eins eða þegar ég er búinn að setja Vista aftur inn?\nen þegar maður notar Recovery disk er það þá ekki bara eins og að formata og setja inn nýtt stýrikefi og allir Driverar og allt koma bara með?",
+            "date": "2008-10-26 10:13:00",
+            "post_id": "185528",
+            "reply_to_id": "185519"
+        },
+        {
+            "user_name": "arnar7",
+            "text": "upp??\nplís einhver hérna með reynslu af þessu?\n-----------------------------------------------------------------------------\nþegar ég set Windows xp disk í kemur bara þetta:\nog ég get ekki ýtt á Install Windows XP",
+            "date": "2008-10-26 12:45:00",
+            "post_id": "185534",
+            "reply_to_id": "185528"
+        },
+        {
+            "user_name": "arnar7",
+            "text": "hvað get ég gert til að installa xp?\nog ef ég er með xp í henni get samt ekki sett Recovery diskinn í og sett bara clean Vista upp og getur þessa xp format nokkuð skemmt neitt?",
+            "date": "2008-10-26 14:53:00",
+            "post_id": "185550",
+            "reply_to_id": "185534"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Þú þarft að setja diskinn í og restarta tölvunni og ýta svo á einhvern takka þegar þú sérð \"press any key to boot from cd\" og þá geturu installað XP\nSvo ættiru að geta sett þennan \"recovery disk\" í og formatað ef það gengur ekki",
+            "date": "2008-10-26 15:00:00",
+            "post_id": "185552",
+            "reply_to_id": "185550"
+        },
+        {
+            "user_name": "arnar7",
+            "text": "það er vesenið, það kemur ekki svona \"press any key to boot from cd\" kemur bara einhver svartur backround og svo hleðst inn einhver texti og svo stoppar það bara..",
+            "date": "2008-10-26 15:15:00",
+            "post_id": "185555",
+            "reply_to_id": "185552"
+        },
+        {
+            "user_name": "arnar7",
+            "text": "Þegar ég boota frá cd kemur þetta og ég get ekkert gert nema skrifa eitthvað held ég og það lítur út fyrir að það sé ekkert að gerst.",
+            "date": "2008-10-26 17:57:00",
+            "post_id": "185568",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Kemur svona \"boot from cd\" gluggi og þú ýtir á einhvern takka??\nef það kemur ekki þarftu að fara inní biosinn og stilla boot sequence þannig að tölvan booti fyrst frá cd drifinu",
+            "date": "2008-10-26 18:37:00",
+            "post_id": "185572",
+            "reply_to_id": "185568"
+        },
+        {
+            "user_name": "arnar7",
+            "text": "þegar ég boota frá cd kemur þetta svarta bara og ég get ekkert svona press any key to boot from cd \nkemur bara þessi texti og eitthvað aðeins fyrir ofan en svo get ég skrifað eitthvað þarna en veit ekkert hvað ég get skrifað",
+            "date": "2008-10-26 18:45:00",
+            "post_id": "185574",
+            "reply_to_id": "185572"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Sérðu ekki eitthvað svona \"press del/F2/eitthvað þannig to enter setup/bios/eða eitthvað\" þegar þú ert að starta tölvunni??",
+            "date": "2008-10-26 19:04:00",
+            "post_id": "185578",
+            "reply_to_id": "185574"
+        },
+        {
+            "user_name": "arnar7",
+            "text": "jú press f2 to enter setup menu r sum og þá fer ég í bios stillingarnar..",
+            "date": "2008-10-26 19:11:00",
+            "post_id": "185580",
+            "reply_to_id": "185578"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "já þar finnuru \"boot sequence\" og setur cd-rom í fyrsta\nSvo restartaru og þá á að koma svona \"press any key to boot from cd\"",
+            "date": "2008-10-26 19:32:00",
+            "post_id": "185582",
+            "reply_to_id": "185580"
+        },
+        {
+            "user_name": "arnar7",
+            "text": "ég er búinn að gera það og þá gerist þetta með textann þarna bara",
+            "date": "2008-10-26 19:38:00",
+            "post_id": "185583",
+            "reply_to_id": "185582"
+        },
+        {
+            "user_name": "arnar7",
+            "text": "heyriði ég var bara með \"gallaðann\" windows disk, en þegar ég prufaði að setja Win xp Home diskinn sem fylgdi borðtölvunni þá kom bara eins og þetta á vera,\nþannig ég þarf bara að finna mér annan disk eða home serial til að þetta fúnkeri rétt \ntakk annars fyrir aðstoðina.\ngæti velverið að þetta verði vesen seinna en þá posta ég bara hérna.\nen já er það nokkuð vesen að nota Recovery disk af Vista í xp? og setja þá Vista aftur inn.?",
+            "date": "2008-10-26 19:44:00",
+            "post_id": "185584",
+            "reply_to_id": "185583"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Þá væri það bara eins; setja diskinn í og boota frá honum og svo bara next og next og next",
+            "date": "2008-10-26 19:57:00",
+            "post_id": "185586",
+            "reply_to_id": "185584"
+        },
+        {
+            "user_name": "arnar7",
+            "text": "okey nice þá set ég væntanelga xp upp á morgun",
+            "date": "2008-10-26 20:28:00",
+            "post_id": "185591",
+            "reply_to_id": "185586"
+        }
+    ],
+    "date": "2008-10-26 17:57:00"
+}

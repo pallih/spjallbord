@@ -1,0 +1,163 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "8109",
+    "title": "IBM Deathstar 40gb dauður :( ?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=8109",
+    "posts": [
+        {
+            "user_name": "Snorrmund",
+            "text": "Ég er með IBM Deskstar 40gb(kallaðir deathstar útaf.. já.. nafnið skýrir sig) Og alltí einu kemur ntoskrnl.exe vantar blablabla.. Og ég ákveð að aftengja harðadiskinn og tengja aftur(slekk fyrst á tölvunni) þá kemst ég í gegnum \n\ncd boot blabla\n\nog tölvan bootar hdd og þá kemur bara svartur skjár og tikk tikk.. Er að spá.. get ég recoverað eitthvað af þessum gögnum? er með aðra tölvu nefnilega..",
+            "date": "2005-04-28 23:18:00",
+            "post_id": "86717",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gnarr",
+            "text": "mjög líklega.\n\n\n\nþú verður bara að tengjda diskinn við hina tölvuna og prófa.",
+            "date": "2005-04-29 08:02:00",
+            "post_id": "86728",
+            "reply_to_id": "86717"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "OKei.. En er ekki öruggast að taka hinn diskinn úr á meðan?",
+            "date": "2005-04-29 12:41:00",
+            "post_id": "86744",
+            "reply_to_id": "86728"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "taka diskinn úr tölvunni sem þú ætlar að setja \"dauða\" diskinn í?\n\n\n\ntilhvers?\n\n\n\nog á hvaða disk ætlara að kópera gögnin af 40GB disknum ef það er enginn annar diskur í vélinni?",
+            "date": "2005-04-29 13:57:00",
+            "post_id": "86746",
+            "reply_to_id": "86744"
+        },
+        {
+            "user_name": "Gestir",
+            "text": "þennan ósýnilega eflaust....\n\n\n\nþeir svínvirka og eru merkilega Silent........ heita Ghost 2000",
+            "date": "2005-04-29 14:03:00",
+            "post_id": "86747",
+            "reply_to_id": "86746"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "var aðallega að meina til að byrja með svo að ég gæti ekki steikt hinn diskinn.. en annars takk fyrir gott og frumlegt svar Ómar álit mitt á þér hefur mikið hækkað..\n\n\n\nedit**\n\nætli ég fari ekki að tengja diskinn og ef redda gögnunum.. svo kannski býr maður til eitt stykki svona \nhttp://hackaday.com/entry/1234000410041648/",
+            "date": "2005-04-29 14:53:00",
+            "post_id": "86750",
+            "reply_to_id": "86747"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "BUMP, en annars, er þetta ekki aðallega útaf því að stýringin er ónýt..? er erfitt að skipta um stýringu? (þá myndi ég nota hana sem bráðabirgða og ná gögnum af disknum) þarsem þessi diskur virkar ekki..",
+            "date": "2005-04-29 16:47:00",
+            "post_id": "86755",
+            "reply_to_id": "86750"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "ef diskurinn startar sér ekki, þá er það stýringin. ef diskruinn snýst og það koma skrítin hljóð úr honum, þá er það diskurinn sjálfur eða leshausarnir sem eru í fokki.",
+            "date": "2005-04-30 11:57:00",
+            "post_id": "86775",
+            "reply_to_id": "86755"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "Gnarr: hann startar sér og það koma svosum ekkert það mikið öðruvísihljóð, en  þegar að ég reyni að kveikja á tölvunni með báðum hdd í þá kemur INSERT SYSTEM DISK upp.. Er engin leið að starta tölvunni með SATA hddinum mínum og reyna að \"skoða\" hinn",
+            "date": "2005-05-01 16:43:00",
+            "post_id": "86915",
+            "reply_to_id": "86775"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "þá er hún að reyna að starta af bilaða disknum. þú verður að stilla i bios eftir að þú setur bilaða diskinn í, að hún eigi að starta sér af disknum sem er í lagi.",
+            "date": "2005-05-01 17:22:00",
+            "post_id": "86919",
+            "reply_to_id": "86915"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "HVernig geri ég það? ég er með abit AI7 og get bara valið HD, CD, Floppy, lan í bootorderinu..",
+            "date": "2005-05-01 19:44:00",
+            "post_id": "86944",
+            "reply_to_id": "86919"
+        },
+        {
+            "user_name": "Mysingur",
+            "text": "þú ferð \"hard disk boot priority\" held ég að það heiti, fyrir ofan bootorder",
+            "date": "2005-05-01 19:54:00",
+            "post_id": "86946",
+            "reply_to_id": "86944"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "Takk kærlega.. ég gerði þetta og ég get alveg skoðað diskinn.. \n En get ekkert copyað af honum hinsvegar..  Þá kemur bara\n\nKóði: \nVelja allt\n---------------------------\nError Copying File or Folder\n---------------------------\nCannot create or replace Blablabla: Access is denied.\nMake sure the disk is not full or write-protected\nand that the file is not currently in use.\n---------------------------\nOK   \n---------------------------\n\n\n\n\nEDIT: \n\nFattaði að þetta var bara einn account í Doc & Settings, og hann er læstur \n er hægt að \"hacka\" hann",
+            "date": "2005-05-01 20:24:00",
+            "post_id": "86950",
+            "reply_to_id": "86946"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "prófaðu að restarta. opnaðu svo bilaða diskinn og gerðu \"ctrl + a\" svo \"ctrl + c\", farðu svo að diskinn sem er í lagi og búðu til möppu á honum og gerðu \"ctrl + v\" inní henni.\n\n\n\n\n\npassaðu bara að vera ekki með stillt á thumbnails á bilaða disknum.",
+            "date": "2005-05-01 20:29:00",
+            "post_id": "86951",
+            "reply_to_id": "86950"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "Gnarr, ég ætla ekki að copya allt.. bara docs and settings, ég er ekki með nóg pláss fyrir annað..",
+            "date": "2005-05-01 20:30:00",
+            "post_id": "86952",
+            "reply_to_id": "86951"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "veldu þá þá möppu.\n\n\n\nannars geturu prófa GDB eða álíka forrit ef þetta virkar ekki.",
+            "date": "2005-05-01 21:14:00",
+            "post_id": "86965",
+            "reply_to_id": "86952"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "arr.. veit ekkert hvað ég gæti gert.. Er til eitthvað forrit sem að bruteforce-opnar/copyar möppur sem eru læstar",
+            "date": "2005-05-01 21:23:00",
+            "post_id": "86967",
+            "reply_to_id": "86965"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "ahh.. þú hefuru gert möppurnar \"private\" í windows.\n\n\n\nþá geturu ekki náð neinu úr þeim.\n\n\n\nþað gæti hugsanlega verið til eitthvað tól þar sem þú slærð inn user og pass fyrir notandann sem átti accountinn, en ég veit ekki um neitt þannig forrit.",
+            "date": "2005-05-01 23:00:00",
+            "post_id": "86980",
+            "reply_to_id": "86967"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "K, en er enginn hackari sem gæti kennt mér að hacka svona \"private\" möppur.. Trúi ekki öðru en það sé hægt..\n\n\n\nEDIT*\n\n\n\nHvernig get ég tekið backup af Eimailum og Address book úr outlook og favorites úr mozilla firefox",
+            "date": "2005-05-01 23:03:00",
+            "post_id": "86981",
+            "reply_to_id": "86980"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "þá væri nú út um windows fyrir lélegt security... \n\n\n\n\n\nþað er hugsanlega til eitthvað tól sem að þú getur notað til að opna möppuna ef þú gefur því user og pass á notandanum sem á hana, en það er líklegasta eina leiðin.",
+            "date": "2005-05-01 23:05:00",
+            "post_id": "86983",
+            "reply_to_id": "86981"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "Náði favorites úr firefox.. Þá er outlook eftir..  og ég hef ekki hugmynd hvernig ég fer að því..",
+            "date": "2005-05-01 23:09:00",
+            "post_id": "86986",
+            "reply_to_id": "86983"
+        },
+        {
+            "user_name": "valdiþ",
+            "text": "Outlook geymir öll email og settings (held líka address book) í einni .pst skrá sem þú getur einfaldlega coperað úr möppunni sem outlook geymir þetta í.\n\n\n\nÞú getur svo sett þessa skrá í sömu möppu sem nýja outlook notar og þá verður það nýja alveg eins og það gamla (passaðu þig á því að ef þú hefur náð í nýjan póst þa eyðist hann út).\n\nÞað er líka möguleiki á því að importa þennan file bara (hef ekki prófað það sjálfur).\n\n\n\nOutlook geymir þessa skrá á default stað sem ætti að vera nokkurn veginn svona:\n\nC:\\Documents and Settings\\\"notandi\"\\Local Settings\\Application Data\\Microsoft\\Outlook\n\n\n\nLocal settings folderinn er oftast hidden, geri ráð fyrir því að þú kunnir að leysa úr því  \n\n\n\n\nKannski er til einfaldari leið en þetta hefur virkað hjá mér hingað til.",
+            "date": "2005-05-02 07:27:00",
+            "post_id": "87010",
+            "reply_to_id": "86986"
+        }
+    ],
+    "date": "2005-04-28 23:18:00"
+}

@@ -1,0 +1,44 @@
+{
+    "forum_title": "Windows",
+    "id": "5851",
+    "title": "breyta \"path\" á program files?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=5851",
+    "posts": [
+        {
+            "user_name": "Snorrmund",
+            "text": "er hægt að setja windows á C: en hafa default dir fyrir allt sem á að fara í program files F:\\Program Files ?",
+            "date": "2004-10-03 23:12:00",
+            "post_id": "59088",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Hawley",
+            "text": "opna regedit, fara hingað: HKEY_LOCAL_MACHINE/SOFTWARE/Microsoft/Windows/current version\n\n\n\nbreitu svo um drive letter í CommonFilesDir og ProgramsFilesDir",
+            "date": "2004-10-03 23:22:00",
+            "post_id": "59090",
+            "reply_to_id": "59088"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "http://spjall.vaktin.is/viewtopic.php?t=2180&highlight=program+programme+files\n\n\n\n\nsvo til að gera erfiða hluti einfalda \n \nhttp://notendur.mi.is/gnarr/misc/program%20files%20fix.reg\n passið bara að edita .reg fileinn ef þið viljið hafa program files annarstaðar en á d:",
+            "date": "2004-10-04 08:29:00",
+            "post_id": "59130",
+            "reply_to_id": "59090"
+        },
+        {
+            "user_name": "so",
+            "text": "I like it  \n\n\n\n\nHef einmitt verið að spá í þessu en ekki nennt að gera meira. Snillingar!",
+            "date": "2004-10-04 10:11:00",
+            "post_id": "59145",
+            "reply_to_id": "59130"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "Heh, töff \n Takk kærlega..",
+            "date": "2004-10-04 13:08:00",
+            "post_id": "59164",
+            "reply_to_id": "59145"
+        }
+    ],
+    "date": "2004-10-03 23:12:00"
+}

@@ -1,0 +1,65 @@
+{
+    "forum_title": "Símar, fartölvur, myndavélar og önnur farandstæki",
+    "id": "49130",
+    "title": "Vandamál með fartölvu",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=26&t=49130",
+    "posts": [
+        {
+            "user_name": "Yawnk",
+            "text": "Sælir, ég var látinn hafa semi-bilaða fartölvu til að laga, en finn engan veginn út úr vandamálinu, fartölvan er PB og er frekar nýleg, Athlon II P360 og 4 gb ram, HD 6470, svo hardwarið ætti ekki að vera issue, og það er WINDOWS 7 á tölvunni.\nVandamálið er að það er ekki hægt að gera neitt í henni, opna neitt forritt, opna browser eða annað án þess að hún frjósi ( Not responding ) þegar það gerist, þá er ekki hægt að ýta á neitt, né opna task manager, það verður að restarta, það má varla hreyfa músina án þess að hún frjósi.\nNýlega var sett upp Avast og Microsoft Office pakki á tölvuna, og hún virðist hafa orðið svona eftir það. Chrome virðist hafa installast með Avast í leiðinni og þá hætti líka IE að virka, semsagt frosnar allt þegar maður ætlar frá Home page'inu á IE. ( Þetta fólk er tæknifatlað, og vill nota IE )\nSvo þegar ég ætla að reyna að uninstalla Chrome eða Avast, þá non respondar allt og þá þarf annað restart.\nGæti þetta verið vírus? Held nefnilega að tölvan hafi ekki verið vírusskönnuð frá upphafi ( Hún kom samt með Norton þegar hún var keypt en það rann út )\nÉg fatta ekki hvað gæti valdið þessu, þess vegna leita ég til ykkar kæru Vaktmenn.",
+            "date": "2012-07-20 19:19:00",
+            "post_id": "455291",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Sera",
+            "text": "Hvernig er hún ef þú ræsir hana í Safe mode ?",
+            "date": "2012-07-20 19:25:00",
+            "post_id": "455293",
+            "reply_to_id": "455291"
+        },
+        {
+            "user_name": "upg8",
+            "text": "prófaðu að fara í safemode og veldu síðasta restoration point síðan tölvan virkaði, Avast býr alltaf til nýtt áður en það er sett upp.\nEf þú hefur ekki verið að setja upp illa fenginn hugbúnað þá er ósennilegt að þetta sé útaf vírusum eða þessháttar. Þá þykir mér sennilegt að vélin sé jafnvel að ofhitna. Gífurlega mikilvægt að uppfæra allan hugbúnað, ekki nóg að uppfæra bara stýrikerfið þar sem það er algengast að alvarlegir öryggisgallar séu í Flash og Java og þessháttar hugbúnaði. (sem margir nenna ekki að uppfæra) \nEf einhver fer að böggast í þér og segja að þetta hefði ekki gerst ef þú hefðir notað eitthvað annað en Internet Explorer, þá er hann með þeim öruggari vefskoðurum sem hægt er að hafa, með gífurlega mikið af phishing vörnum og til þess að setja upp vafasaman hugbúnað þá þarf að staðfesta það að lágmarki í FJÖGUR skipti...",
+            "date": "2012-07-20 19:26:00",
+            "post_id": "455294",
+            "reply_to_id": "455293"
+        },
+        {
+            "user_name": "Yawnk",
+            "text": "Takk kærlega, ég ræsti hana í safe mode og valdi síðasta restore point, hún lagaðist!",
+            "date": "2012-07-20 19:43:00",
+            "post_id": "455296",
+            "reply_to_id": "455294"
+        },
+        {
+            "user_name": "Olafst",
+            "text": "Þó að þú sért búinn að ná að laga þetta með restore, þá langar mig samt að benda á að þetta gæti mögulega verið ástæðan ef þú lendir í þessu aftur. Semsagt tvær vírusvarnir að vinna á vélinni á sama tíma. Þegar þú keyrðir restore, þá hefur Avast sennilega uninstallast og vandamálið leystist.\nWild guess, en bilanalýsingin hljómar eins og þetta hafi verið vandamálið.",
+            "date": "2012-07-21 00:38:00",
+            "post_id": "455356",
+            "reply_to_id": "455296"
+        },
+        {
+            "user_name": "Yawnk",
+            "text": "Góður punktur... En ætti Norton ekki að hætta að virka þegar það er útrunnið? s.s hættir að skanna osfv? \nMyndi það stangast á við Avast?",
+            "date": "2012-07-21 03:32:00",
+            "post_id": "455387",
+            "reply_to_id": "455356"
+        },
+        {
+            "user_name": "Olafst",
+            "text": "Það er sennilega næg virkni í Norton ennþá til að læsa skrám. Varnirnar eru þá báðar að rífast um réttindi á skránum sem gæti verið að valda þessu.",
+            "date": "2012-07-21 12:23:00",
+            "post_id": "455414",
+            "reply_to_id": "455387"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Rétt, Norton heldur áfram að vera með dólgslæti þrátt fyrir að vera útrunnin. Aldrei, aldrei að hafa uppsettar tvær vírusvarnir.",
+            "date": "2012-07-21 12:25:00",
+            "post_id": "455415",
+            "reply_to_id": "455414"
+        }
+    ],
+    "date": "2012-07-20 19:19:00"
+}

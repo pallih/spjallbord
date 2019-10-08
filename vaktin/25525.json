@@ -1,0 +1,51 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "25525",
+    "title": "Get ekki tengst í gegnum LAN Snúru",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=25525",
+    "posts": [
+        {
+            "user_name": "dnz",
+            "text": "Er að reyna að nota LAN snúru til að tengja tölvuna við netið en þegar ég tengi snúruna í routerinn þá kemur ljósið og slökknar strax aftur og gerir það aftur og aftur en nær aldrei að tengjast. Ég er búinn að fá nýjann router, fékk nýjan útaf þessu snúruvandamáli en svo komst ég að því að þetta er ekki routerinn. Ég er búinn að prófa 3 mismunandi tölvur og 3 lan snúru. Veit e-h hvað er að?\nEr með Zyxel Prestige 600 router og 4mb tengingu hjá TAL",
+            "date": "2009-10-14 14:53:00",
+            "post_id": "222376",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Þú semsagt: Disablar wireless\nStingur snúrunni í routerinn (rétt port, merkt 1-4), svo í innbyggða netkortið á móðurborðinu, það kemur ljós á bæði router port ljósið (1-4) og á netkortinu en svo slökknar það og kveiknar aftur og aftur.\nÞú enablar local area connection og þá heldur það samt bara áfram? Hvað færðu á skjáinn?\nEða nær þetta bara alls ekkert að tengjast?",
+            "date": "2009-10-14 15:00:00",
+            "post_id": "222379",
+            "reply_to_id": "222376"
+        },
+        {
+            "user_name": "dnz",
+            "text": "Þetta er semsagt að tengjast en svo missir routerinn tenginguna við snúruna bara strax aftur og heldur þannig áfram aftur og aftur. Nær aldrei fullri tengingu í gegnum lan, dettur bara út á 3 sek fresti",
+            "date": "2009-10-15 12:36:00",
+            "post_id": "222468",
+            "reply_to_id": "222379"
+        },
+        {
+            "user_name": "steinbíturinn",
+            "text": "Ef að þetta er gamli 660 hw-61 routerinn frá zyxel þá er ekkert ólíklegt að lan portin séu orðin lúin",
+            "date": "2009-10-15 19:17:00",
+            "post_id": "222505",
+            "reply_to_id": "222468"
+        },
+        {
+            "user_name": "dnz",
+            "text": "Nýbúinn að fá annan, sama vandamál með báða",
+            "date": "2009-10-15 21:19:00",
+            "post_id": "222512",
+            "reply_to_id": "222505"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Ef að þú ert búinn að skipta út routernum, skipta út snúrunni OG prófa á fleiri en einni tölvu, þá er nú ekki mikið eftir ...\nAnnaðhvort eru allir routerarnir/snúrurnar/tölvurnar sem þú ert búinn að prufa gallaðar eða þá að það eru einhver yfirskilvitleg fyrirbæri á sveimi heima hjá þér sem koma í veg fyrir eðlilega nettraffík",
+            "date": "2009-10-15 22:21:00",
+            "post_id": "222516",
+            "reply_to_id": "222512"
+        }
+    ],
+    "date": "2009-10-14 14:53:00"
+}

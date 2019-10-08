@@ -1,0 +1,79 @@
+{
+    "forum_title": "Símar, fartölvur, myndavélar og önnur farandstæki",
+    "id": "40639",
+    "title": "Hvernig downgrade'a ég android? (2.3 to 2.2)",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=26&t=40639",
+    "posts": [
+        {
+            "user_name": "Gummzzi",
+            "text": "Ég upgrade'aði optimuse one símann minn úr 2.2 í .3 fyrir svona tæpum mánuð  ..eftir það finnst mér batterís endingin hafa minnkað úr áður tæpum 2sólarhringum í tæpa 12tíma  \n  ...og allur meira slow eitthvað. \nÞannig var að spá hvort það væri einhver að lenda í því sama með Lg Optimus one símann sinn og hvort það væri mikið mál að færa sig aftur í 2.2 ?",
+            "date": "2011-08-12 15:55:00",
+            "post_id": "371038",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "FuriousJoe",
+            "text": "Er ekki bara kveikt á einhverju forriti sem er að draina batteryið ?\n2.3 er að endast mun lengur en 2.2 ^^ (eða á að gera það amk)",
+            "date": "2011-08-12 16:05:00",
+            "post_id": "371040",
+            "reply_to_id": "371038"
+        },
+        {
+            "user_name": "Gummzzi",
+            "text": "reyni að slökkva á öllu meðan ég er ekki að nota það með \"Advanced Task Killer\" sem virkar takmarkað, það nær oft ekki að slökva á sumu",
+            "date": "2011-08-12 16:15:00",
+            "post_id": "371043",
+            "reply_to_id": "371040"
+        },
+        {
+            "user_name": "GrimurD",
+            "text": "Þarft ekki að nota task killer í android, forrit keyra aldrei í bakgrunninum eftir að þú ert búinn að slökkva á þeim og ef þau gera það þá sérðu það í notification barinu.",
+            "date": "2011-08-12 16:18:00",
+            "post_id": "371044",
+            "reply_to_id": "371043"
+        },
+        {
+            "user_name": "braudrist",
+            "text": "Náðu í forrit sem heitir BetterBatteryStats inn á XDA developers. Það sýnir hvaða process er að éta upp batteríið\nhttp://forum.xda-developers.com/showthr ... ?t=1179809",
+            "date": "2011-08-12 16:21:00",
+            "post_id": "371049",
+            "reply_to_id": "371044"
+        },
+        {
+            "user_name": "Gummzzi",
+            "text": "okei prófa þetta, thx",
+            "date": "2011-08-12 16:27:00",
+            "post_id": "371050",
+            "reply_to_id": "371049"
+        },
+        {
+            "user_name": "kubbur",
+            "text": "Annars gætirðu fundið ruu skránna fyrir 2,2 einhversstaðar a netinu og flashað hana",
+            "date": "2011-08-12 21:19:00",
+            "post_id": "371118",
+            "reply_to_id": "371050"
+        },
+        {
+            "user_name": "berteh",
+            "text": "http://forum.xda-developers.com/showthr ... ?t=1060121\nÞetta ætti að ganga, getur fundið þitt fw með IMEI númeri\nhttp://csmg.lgmobile.com:9002/csmg/b2c/ ... MEI_number\nef þú færð ekki stock 2.2 úr þessu á ég V10H_00.01.kdz sem er 2.2 frá því í febrúar",
+            "date": "2011-08-12 23:41:00",
+            "post_id": "371168",
+            "reply_to_id": "371118"
+        },
+        {
+            "user_name": "kizi86",
+            "text": "svo er til snilldar forrit sem heitir juicedefender, sem sér um að slökkva á öllum fjandanum til að spara batterýið..\nein spurning samt.. uppfærðir þú með official uppfærslunni frá LG eða er þetta \"third-party\" upgrade?\nég uppfærði símann minn með lg official uppfærslunni, og þetta er eins og allt annar sími, miklu hraðvirkari að öllu leiti, td angrybirds laggar ekki lengur hjá mér og fleira góðgæti sem laggaði í drazl þegar var á 2.2",
+            "date": "2011-08-17 03:27:00",
+            "post_id": "372436",
+            "reply_to_id": "371168"
+        },
+        {
+            "user_name": "Gummzzi",
+            "text": "Uppfærði með Lg official, og veit ekki hvað var að en batteríið er mun betra núna, kannski það að ég fór að slökkva á öllum forritum og slökkva á wifi/3g þegar ég er ekki að nota það. \n...tjekka á þessu \"juicedefender\" líka, thx",
+            "date": "2011-08-17 13:04:00",
+            "post_id": "372471",
+            "reply_to_id": "372436"
+        }
+    ],
+    "date": "2011-08-12 15:55:00"
+}

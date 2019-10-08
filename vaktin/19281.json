@@ -1,0 +1,44 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "19281",
+    "title": "IDE eða SATA undir OS?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=19281",
+    "posts": [
+        {
+            "user_name": "beatmaster",
+            "text": "Jæja, þá er ég kominn með nýtt rigg;E6750, 2GB OCZ Reaper 1066mhz og 9600GT.  \n \nÞá er kominn spurningin góða, upp á performance, hvort á ég að nota 250 GB IDE diskinn minn eða 250 GB SATA diskinn minn í þennann turn, fyndi ég nokkuð einhvern mun á að nota IDE diskinn frekar en SATA diskinn?\nÁstæðan fyrir spurningunni er sú að SATA diskurinn er miklu háværari en IDE diskurinn  \n \nIDE diskurinn er Seagate ST3250820A (\ndata sheet hérna\n)\nSATA diskurinn er Seagate ST3250823AS (\nmanual hér\n)",
+            "date": "2008-09-10 19:20:00",
+            "post_id": "182109",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Dári",
+            "text": "Það enginn hraðamunur á ide og sata.",
+            "date": "2008-09-10 19:48:00",
+            "post_id": "182110",
+            "reply_to_id": "182109"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Undir flestum kringumstæðum, rétt. En þar sem SATA hefur enga Slave/Master möguleika, þá er SATA oft að skila RAIDi 15mb/s hraðara performance, og sérstaklega í multitasking.  \nBasicly, munurinn er sama og enginn, en það munar þó því að vera með gjörsamlega smooth going OS eða örlítið lagging OS.",
+            "date": "2008-09-10 20:53:00",
+            "post_id": "182113",
+            "reply_to_id": "182110"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "OK en hvað myndi fólk mæla með sem partition stærð undir Win XP?",
+            "date": "2008-09-10 21:30:00",
+            "post_id": "182114",
+            "reply_to_id": "182113"
+        },
+        {
+            "user_name": "boot.ini",
+            "text": "25 - 30 GB hafa reynst mér vel",
+            "date": "2008-09-15 15:44:00",
+            "post_id": "182480",
+            "reply_to_id": "182114"
+        }
+    ],
+    "date": "2008-09-10 19:20:00"
+}

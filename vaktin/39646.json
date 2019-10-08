@@ -1,0 +1,93 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "39646",
+    "title": "Vandamál með skjákort",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=39646",
+    "posts": [
+        {
+            "user_name": "Skaribj",
+            "text": "Sælir,\nMig vantar smá aðstoð vegna skjákorts sem ég var að fá mér.  Ég hef verið með Nvidia MSI 460 skjákort í sjónvarpsvél án vandamála en ákvað að skipta því út fyrir Radeon powerColor 5450 kort þar sem ég er ekki að nota tölvuna til leikja.  Eftir að ég skipti um kortið þá hófst vandamálið sem er að skjárinn sem er Philips lcd sjónvarp skiptir af og til litum þannig að allt hvítt verður bleikt og framvegis.  Oftast lagast þetta að sjálfu sér á innan við mínútu en í önnur skipti hef ég lagfært þetta með því að breyta um upplausn á skjánum. Annars er ég ávallt með skjáinn í fullri upplausn sem mælt er með.  Ég hef prufað tvö kort þar sem ég taldi að fyrra kortið væri bilað og ég hef prufað að skipta um driver en án árangurs.\nÉg vona að einhver þekki vandamálið og geti mögulega gefið mér góð ráð.\nKv, Hamlet",
+            "date": "2011-07-02 20:29:00",
+            "post_id": "360398",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Moldvarpan",
+            "text": "Sambandsleysi í kapal, driver vandamál eða galli í korti er það eina sem kemur til greina. Best er að notast við útilokunaraðferðina og reyna að einangra vandann.",
+            "date": "2011-07-02 21:21:00",
+            "post_id": "360404",
+            "reply_to_id": "360398"
+        },
+        {
+            "user_name": "Skaribj",
+            "text": "Af þessu sem þú nefnir á ég einungis eftir að prufa að skipta út kaplinum en þetta er sami kapallinn og virkaði ok með MSI skjákortinu. Það borgar sig víst að prufa að skipta honum út einnig bara til að útiloka þann möguleika.",
+            "date": "2011-07-02 21:37:00",
+            "post_id": "360408",
+            "reply_to_id": "360404"
+        },
+        {
+            "user_name": "Moldvarpan",
+            "text": "Hvernig skjá ertu annars með? Er hann gamall?",
+            "date": "2011-07-02 21:46:00",
+            "post_id": "360413",
+            "reply_to_id": "360408"
+        },
+        {
+            "user_name": "Skaribj",
+            "text": "Skjárinn er rúmlega árs gamalt 32\" Full HD Philips LCD sjónvarp.",
+            "date": "2011-07-02 22:45:00",
+            "post_id": "360429",
+            "reply_to_id": "360413"
+        },
+        {
+            "user_name": "IL2",
+            "text": "Ein spurning. Varstu búinn að losa þig við Nvidia kortið. Getur verið að þetta sé eitthvað conflict milli móðurborðs og ATI kortsins?",
+            "date": "2011-07-02 22:55:00",
+            "post_id": "360435",
+            "reply_to_id": "360429"
+        },
+        {
+            "user_name": "Skaribj",
+            "text": "Ég hef sjálfur verið að velta því fyrir mér og ætla að yfirfara hvort það eigi eftir að henda úr einhverjum driverum frá Nvidia kortinu. \nÉg var annars að skoða hvað hægt væri að finna með því að slá vandamálinu upp í google og fann þessa síðu með samskonar vandamáli. Þar er að vísu um að ræða tæki frá Apple sem verið er að tengja við sjónvarp með HDMI tengi og vandamálið virðist aðallega tengjast LCD sjónvörpum frá SONY og Philips. Um er að ræða spjallþráð upp á 60 síður án þess að niðurstaða fáist í vandamálið. \nhttps://discussions.apple.com/thread/26 ... 0&tstart=0\nEf driverarnir eru ekki að valda truflunum þá held ég að ég verði bara að kaupa aðra tegund af korti og eða færa mig aftur yfir í Nvidia kort.",
+            "date": "2011-07-02 23:52:00",
+            "post_id": "360451",
+            "reply_to_id": "360435"
+        },
+        {
+            "user_name": "IL2",
+            "text": "Ég reikna s.s með að þú hafir losað þig við Nvidia kortið og eigir það ekki lengur og að þetta hafi verið tvö Ati kort sem þú prófaðir.\nÉg held að þetta sé ekki vandamál með leifar af gömlum driverum eða kaplar. Það að þetta byrjar strax og það er skipt um kort/tegund finst mér allavega benda til þess að þetta sé vandamálið.",
+            "date": "2011-07-03 00:18:00",
+            "post_id": "360455",
+            "reply_to_id": "360451"
+        },
+        {
+            "user_name": "Skaribj",
+            "text": "Ég á ennþá Nvidia kortið en hugmyndin var að losa mig það og nota kort með kælingu án viftu (silent).  Bæði kortin frá Powercolor eru 5450 kort þar sem ég fékk kort númer tvö í versluninni þar sem bæði ég og starfsmaður verslunarinnar töldum fyrra kortið vera gallað.\nÞað sem ég hef fundið út er að vandamálið kallast HDMI Handshake issue eða problem en ég hef ekki ennþá fundið viðunandi lausn á vandanum. \nEf einhver dettur niður á lausn má viðkomandi gjarnan senda mér hana.\nÉg þakka annars fyrir hjálpina.\nKv. Hamlet",
+            "date": "2011-07-03 00:44:00",
+            "post_id": "360461",
+            "reply_to_id": "360455"
+        },
+        {
+            "user_name": "IL2",
+            "text": "En hefurðu ekki prófað að setja Nvidia kortið í aftur og athuga hvað gerist? Það alla vega sakar ekki og ef það lagar vandamálið þá hlýtur að vera til viftulaust Nvidia kort sem þú getur notað. \nEf ekki, þá ertu allavega búin að útiloka þennan möguleika. \nÉg skil þig þannig að þetta hafi aldrei verið vandamál fyrr en þú skiptir um kort.",
+            "date": "2011-07-03 10:42:00",
+            "post_id": "360492",
+            "reply_to_id": "360461"
+        },
+        {
+            "user_name": "Bioeight",
+            "text": "Ef þú ert að nota einhverja DVI-í-HDMI snúru eða breytistykki þá gæti það verið vandamálið, ATi kortin hafa verið viðkvæmari en Nvidia gagnvart svoleiðis breytistykkjum.",
+            "date": "2011-07-03 14:32:00",
+            "post_id": "360524",
+            "reply_to_id": "360492"
+        },
+        {
+            "user_name": "Skaribj",
+            "text": "Ég er nokkuð viss um að vandamálið verði úr sögunni ef ég set Nvidia kortið aftur í vélina eða þá annað Nvidia kort.  \nVarðandi HDMI kapalinn þá er ég ekki með millistykki og þetta á að vera nokkuð vandaður kapall. (HDMI í HDMI) \nNú er bara að finna sambærilegt kort frá Nvidia og reyna að fá Ati kortinu skipt.\nKv. Hamlet",
+            "date": "2011-07-03 22:28:00",
+            "post_id": "360604",
+            "reply_to_id": "360524"
+        }
+    ],
+    "date": "2011-07-02 20:29:00"
+}

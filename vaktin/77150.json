@@ -1,0 +1,65 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "77150",
+    "title": "bilanagreining hjálp",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=77150",
+    "posts": [
+        {
+            "user_name": "Hormóður",
+            "text": "Aflgjafinn í tölvunni gaf sig um daginn, ég skipti um psu og tölvan virkaði vel án vandræða í 2-3 vikur. Núna í dag þegar hún er í gangi á desktop í windows 10 þá kemur allt í einu upp windows repair loading skjár sem stendur yfir í nokkrar mínútur, windows virðist hafa komist að því að harði diskurinn sé bilaður og byrjar þá á einhverju hard drive repair dóti sem stendur yfir í dágóðan tíma þar til það er komið upp í ~50% þá slekkur tölvan sér. Núna kemst ég ekki í bios eða stýrikerfið eða neitt, þegar ég kveiki á tölvunni þá er hún í gangi nokkrar sekúndur þá restartar hún sér án þess að neitt komi upp á skjáinn og endurtekur síðan leikinn aftur og aftur. Skiptir engu máli hvort ég sé með OS harða diskinn tengdan eða ekki þá gerist þetta. reset-a bios settings (cmos) og taka út ram og setja aftur í voru lausnir sem ég fann við svipuðum vandamálum en væri til í að fá ráð hér áður en ég held áfram.\nCPU - i7-3770\nSkjákort - EVGA Nvidia GTX 1060 6GB\nMóðurborð - MSI7681\nRAM - 4x4gb\nstýrikerfi á 3TB HDD disk",
+            "date": "2018-09-09 21:49:00",
+            "post_id": "677277",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Tolvugos",
+            "text": "Líklegast psu held ég... en settirðu  alveg eins í ? Jafn öflugan í? \nBest væri að prufa hann til að geta útilokað hann.",
+            "date": "2018-09-09 22:17:00",
+            "post_id": "677281",
+            "reply_to_id": "677277"
+        },
+        {
+            "user_name": "Hormóður",
+            "text": "https://www.newegg.com/Product/Product. ... 6811129028\nvar með þessa 2 aflgjafa sem fylgja þessum kassa, einn var tengdur í skjákortið og hinn í restina.\nskipti þeim út fyrir þennan þegar þeir biluðu:\nhttps://att.is/product/corsair-cx650-aflgjafi\nHélt að 650W væri nóg fyrir þessa tölvu, hún virkaði allavega vel í fullri keyrslu í þennan tíma þangað til þetta gerðist. Er ekki með annan aflgjafa til að prufa hvort það sé vandamálið.",
+            "date": "2018-09-09 23:45:00",
+            "post_id": "677286",
+            "reply_to_id": "677281"
+        },
+        {
+            "user_name": "Tolvugos",
+            "text": "Upplýsingar um skjákortið þitt...\nRequirementsMinimum of a 400 Watt power supply.\nAn available 6-pin PCI-E power connector\nTotal Power Draw : 120 Watts\nÞig vantar meira power.....gætir prufað að taka  skjakortið úr....\nHugsa þá ætti bjórinn að koma með píp......um  að það vanti skjakort.....en serð auðvitað ekkert á skjánum.....en ætti að koma píp hugsa eg.\nEn vantar öllum líkindum meira power.",
+            "date": "2018-09-10 01:09:00",
+            "post_id": "677288",
+            "reply_to_id": "677286"
+        },
+        {
+            "user_name": "Tolvugos",
+            "text": "En auðvitað gæti psu verið gallaður.\nMóðurborðið er alveg möguleiki...",
+            "date": "2018-09-10 01:22:00",
+            "post_id": "677289",
+            "reply_to_id": "677288"
+        },
+        {
+            "user_name": "Hormóður",
+            "text": "Hvernig færðu það út að skjákortið þurfi meira power, hélt að 650W væri alveg veglegt fyrir þetta build",
+            "date": "2018-09-10 02:15:00",
+            "post_id": "677290",
+            "reply_to_id": "677289"
+        },
+        {
+            "user_name": "ZiRiuS",
+            "text": "650W er meira en nóg fyrir þetta build.",
+            "date": "2018-09-10 03:11:00",
+            "post_id": "677291",
+            "reply_to_id": "677290"
+        },
+        {
+            "user_name": "Hormóður",
+            "text": "er ennþá í vandræðum með þetta, finn ekki hvernig á að resetta bios og það breyttist ekkert við það að taka ram út og nota bara 1x ram",
+            "date": "2018-09-10 16:36:00",
+            "post_id": "677317",
+            "reply_to_id": "677291"
+        }
+    ],
+    "date": "2018-09-09 21:49:00"
+}

@@ -1,0 +1,51 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "27774",
+    "title": "(Ubuntu 9.10) Dualboot með W7 uppsett fyrst.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=27774",
+    "posts": [
+        {
+            "user_name": "BjarniTS",
+            "text": "Búinn að vera að skoða þetta á netinu.\nFundið hinar og þessar leiðir sem að virðast vera í boði.\nHvaða leiðir eru þið að fara ?\nNúna er ég ekki að byðja ykkur að googla og senda mér niðurstöður heldur er ég að leita eftir persónulegum ráðgjöfum og reynslum hjá mönnum.\nUm er að ræða fresh install í báðum tilvikum.\nHef notað Dual boot reglulega með góðum árangri með XP og bæði kerfið hafa raðast inn í grub menu og ekkert vandamál ,  en núna með W7 ultimate þá er það ekki að gefa góða raun því að \nubuntu virðist ekki finna w7 kerfið í ubuntu-uppsetningarferlinu.\nSegir bara að það sé ekkert kerfi uppsett á vélinni , að harði diskurinn sé stýrikerfislaus , sem eru ósannindi.\nHef prufað að nota 9.04 líka en það gaf sömu slæmu raun.",
+            "date": "2010-01-22 01:46:00",
+            "post_id": "241180",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gez",
+            "text": "Þarft líklega að breyta grub configskránni.\nKemur svosem ekkert á óvart að ubuntu finni ekki win7.\nHvað gerist ef þú setur ubuntu upp á undan win7?",
+            "date": "2010-01-22 07:58:00",
+            "post_id": "241184",
+            "reply_to_id": "241180"
+        },
+        {
+            "user_name": "BjarniTS",
+            "text": "Hef nefninlega ekki prufað að setja upp ubuntu á undan en ég er búinn að eyða svo miklum tíma í w7 settupið að ég get varla farið að byrja upp á nýtt þar.\nÞetta er eldri vél sem að þurfti að taka smá hænuskref í áttina að því að keyra w7.",
+            "date": "2010-01-22 09:23:00",
+            "post_id": "241192",
+            "reply_to_id": "241184"
+        },
+        {
+            "user_name": "viddi",
+            "text": "Getur náttúrulega sett ubuntu upp og prófað svo að gera \nKóði: \nVelja allt\nsudo update-grub\n (á bara við 9.10, ekki eldri kerfi)\nEf hann finnur ekki W7 þá verðuru bara að koma því inní grub handvirkt",
+            "date": "2010-01-22 09:30:00",
+            "post_id": "241193",
+            "reply_to_id": "241192"
+        },
+        {
+            "user_name": "BjarniTS",
+            "text": "Hvernig kemur maður inn stýrikerfinu  \"handvirkt\" ,  í gegnum terminalinn ?",
+            "date": "2010-02-11 15:50:00",
+            "post_id": "244736",
+            "reply_to_id": "241193"
+        },
+        {
+            "user_name": "Oak",
+            "text": "getur líka bara keyrt upp windowsið og skipt disknum niður í annað partition...valið svo neðsta möguleikan í uppsettningunni.",
+            "date": "2010-02-11 16:04:00",
+            "post_id": "244739",
+            "reply_to_id": "244736"
+        }
+    ],
+    "date": "2010-01-22 01:46:00"
+}

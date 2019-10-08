@@ -1,0 +1,93 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "3120",
+    "title": "BIOS uppfæsla-aðstoð",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=3120",
+    "posts": [
+        {
+            "user_name": "so",
+            "text": "Sælir nú sérfræðingar, málið er að mig langar mikið til að uppfæra BIOS-inn hjá mér en hef ekki gert það áður. Er búin að ná í uppfærsluskrá (zip skrá)á heimasíðu móðurborðsins en þori ekki allveg að ráðast í verkið  \n\n\n Getið þið frætt mig um hvernig er best að gera þetta eða bent mér á síðu eða greinar þar sem farið er yfir þetta, svo ég krassi ekki draslinu endanlega. \n    Get ég \"clearað\" CMOS-inn til að fá BIOS-inn default aftur ef ég geri einhverja djöf.......  vitleysu í uppfærslunni, það er gert með jumperum á borðinu.  Æ ég veit ekkert hvað ég er að rugla  \n\n\n\n\nFyrir fram þakkir SO\n\n\n\nAopen AK73 pro A  móðurborð   (2. ára)\n\n1,6 gig Duron    (nýlegur)\n\nAWARD BIOS",
+            "date": "2004-02-09 21:13:00",
+            "post_id": "31519",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "yfir leitt eru bara svona forrit sem gera þetta next>next>next>finish>reboot á heimasíðu móðurborðsins",
+            "date": "2004-02-09 21:23:00",
+            "post_id": "31523",
+            "reply_to_id": "31519"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Nei, clear CMOS er bara til þess að resetta stillingar í firmware'inu. BIOS uppfærsla update'ar firmware'ið. Ef að rafmagnið klikkar í miðri uppfærslu, þá þarftu að fara með BIOS kubbinn annað og láta laga hann. En það hefur nú aldrei komið fyrir mig að BIOS update klikkar.\n\n\n\nEn snúum okkur að sjálfri uppfærslunni;\n\nÉg myndi búa til/nota Windows98 startup disk. Ef að þú ert með annað windows geturðu sótt þér forrit til þess að búa til Win98 Boot disk á \nhttp://www.bootdisk.com\n\n\nSíðan seturru skrárnar úr Zip file'num á sama disk, eða annan. PASSA AÐ ÞÚ SÉST MEÐ RÉTTA SKRÁ. Ef að þú flashar með rangri skrá(vitekki hvort að villumelding stoppar þig) þá þarftu að láta fix'a BIOS'inn.\n\nEn jæja, síðan startarðu upp af floppy disknum og þegar þú ert kominn inní DOS seturru hinn floppy diskinn í (eða ekki ef að þú notaðir bara einn).\n\nEf að það var bara ein EXE skrá í Zip file'num þá skrifarðu bara nafnið á henni og update forritið keyrist. Ef að það var EXE og t.d. BIN skrá. Þá skrifarru annaðhvort nafnið á exe skránni og síðan nafnið á bin skránni þar fyrir aftan, eða þá að þú skrifar nafnið á exe skránni og svo þegar hún startar sér þá skrifarru nafnið á bin skránni inní því.\n\n\n\nGangi þér vel, og endilega spurðu ef að þú lendir í meiri vandræðum.\n\n\n\nps. thumbs up fyrir að setja þetta vel upp, nota íslensku, og spyrja almennilega",
+            "date": "2004-02-09 21:37:00",
+            "post_id": "31526",
+            "reply_to_id": "31523"
+        },
+        {
+            "user_name": "so",
+            "text": "Þakka skót og greinagóð svör og nákvæma lýsingu hjá MezzUp, þá bara að vinda sér í verkið. Það er aðdáunarvert þegar þið nennið að aumka ykkur yfir skrílinn og svara svona aulaspurningum án þess að segja manni hvað maður er vitlaus að kunna þetta ekki og  mikill asni að vera með Aopen móðurborð og Duron örgjörfa en ekki einhvað allt annað \n    Takk Takk",
+            "date": "2004-02-10 11:40:00",
+            "post_id": "31554",
+            "reply_to_id": "31526"
+        },
+        {
+            "user_name": "Nemesis",
+            "text": "Ef ég myndi uppfæra BIOS - myndi ég þá setja A: fremst í boot sequence, restarta tölvunni með diskettunni í, og þegar ég er kominn inn í DOS þarf ég þá bara að skrifa þetta: \n\n\n\nnafnáexe.exe nafnábin.bin\n\n\n\nog þá gerir forritið restina fyrir mig og restartar og allt er komið? Þarf ég ekki að kunna einhverjar dos skipanir (kann neflilega ekkert þannig)?",
+            "date": "2004-02-24 13:59:00",
+            "post_id": "33121",
+            "reply_to_id": "31554"
+        },
+        {
+            "user_name": "Nemesis",
+            "text": "Þetta var í .zip fæl sem ég downlodaði hjá framleiðanda móðurborðsins (flash73.exe og einhver bin fæll með). Ég prófaði að keyra flash73.exe upp í windows og þetta kom upp:\n\n\n\n\n\n\n\nHvaða error er þetta? Kemur þetta error bara af því ég er ekki í dos?\n\n\n\nSvo er annað: Það stendur þarna File name to Program : _____ - hvað er það eiginlega?",
+            "date": "2004-02-24 14:38:00",
+            "post_id": "33123",
+            "reply_to_id": "33121"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "j'a, /etta kom vegna thess ad thu ert i win. thad ma bara keyra thessi forrit i dos.\n\n\n\nfile name to program er nafnabin.bin",
+            "date": "2004-02-24 16:08:00",
+            "post_id": "33137",
+            "reply_to_id": "33123"
+        },
+        {
+            "user_name": "Nemesis",
+            "text": "takk",
+            "date": "2004-02-24 16:44:00",
+            "post_id": "33143",
+            "reply_to_id": "33137"
+        },
+        {
+            "user_name": "Nemesis",
+            "text": "Ég updeitaði biosinn - gekk eins og í sögu. Komst að vísu að því eftir á að þetta reyndist vera sama version \n\n\n\n\nNýjasti BIOSinn fyrir mitt móðurborð er frá júlí 2000 \n\n\n\n\nSamt gott að kunna þetta núna.",
+            "date": "2004-02-25 00:01:00",
+            "post_id": "33244",
+            "reply_to_id": "33143"
+        },
+        {
+            "user_name": "so",
+            "text": "Ég uppfærði Bios-inn hjá mér eftir leiðbeiningunum og gekk eins og í sögu\n\nþannig að leiðbeiningarnar eru allveg imbaprúf \n Takk",
+            "date": "2004-03-01 19:05:00",
+            "post_id": "33777",
+            "reply_to_id": "33244"
+        },
+        {
+            "user_name": "viddi",
+            "text": "væri nokkuð einhver til í að koma og uppfæra minn fyrir mig ég treisti mér ekki í það",
+            "date": "2004-03-01 20:18:00",
+            "post_id": "33793",
+            "reply_to_id": "33777"
+        },
+        {
+            "user_name": "Nemesis",
+            "text": "Þú treysir þér í að yfirklukka (sbr. undirskrift) en ekki í að uppfæra BIOS!",
+            "date": "2004-03-01 21:29:00",
+            "post_id": "33803",
+            "reply_to_id": "33793"
+        }
+    ],
+    "date": "2004-02-09 21:13:00"
+}

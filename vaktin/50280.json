@@ -1,0 +1,51 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "50280",
+    "title": "Vantar að læsa 100Hz í leikjum",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=50280",
+    "posts": [
+        {
+            "user_name": "niCky-",
+            "text": "Er soldill old timer í þessum tölvumálum, ég er vanur að vera með túbuskjá og nota 100Hz í leikjum, í það notaði ég forritið ReForce til að festa á 100Hz á meðan ég var í leikjum. Núna er ég með windows 7 og ReForce virkar ekki í Windows 7, Það er ekkert mál að stilla á 100Hz á meðan ég er í desktop en svo leið og ég fer í eh tölvuleik þá droppar það í 80Hz. Getur einhver hjálpað ?",
+            "date": "2012-09-09 16:34:00",
+            "post_id": "465847",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "worghal",
+            "text": "gæti það vsync verið að valda þessu ?",
+            "date": "2012-09-09 16:40:00",
+            "post_id": "465849",
+            "reply_to_id": "465847"
+        },
+        {
+            "user_name": "niCky-",
+            "text": "neib, Vsync off, er líka buin að bua til custom resolution með 100Hz virkar mjög vel í windows, svo leið og ég fer í leik þá fer það aftur í 80Hz.. :/",
+            "date": "2012-09-09 16:41:00",
+            "post_id": "465850",
+            "reply_to_id": "465849"
+        },
+        {
+            "user_name": "Victordp",
+            "text": "Ertu að spila þessa leiki í gegnum steam ?",
+            "date": "2012-09-09 16:56:00",
+            "post_id": "465854",
+            "reply_to_id": "465850"
+        },
+        {
+            "user_name": "upg8",
+            "text": "Hvernig skjákort ertu með? Minnir að það sé hægt að velja refresh rate fyrir hvern leik eða forrit í nvidia control panel.",
+            "date": "2012-09-09 16:59:00",
+            "post_id": "465856",
+            "reply_to_id": "465854"
+        },
+        {
+            "user_name": "niCky-",
+            "text": "GTX 570",
+            "date": "2012-09-09 17:00:00",
+            "post_id": "465857",
+            "reply_to_id": "465856"
+        }
+    ],
+    "date": "2012-09-09 16:34:00"
+}

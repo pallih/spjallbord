@@ -1,0 +1,86 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "72415",
+    "title": "Föst ip tala hjá internetþjónustuaðilum",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=72415",
+    "posts": [
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Sælir/Sælar\nVar að velta fyrir mér hvort þið gætuð hugsanlega hjálpað mér að átta mig á fyrirkomulaginu hjá helstu netveitum og gagnaveitunni er varðar að fá fasta ip tölu. \nEr lítið mál að fá fasta ip tölu hjá gagnaveitunni (Ljósleiðarinn) fyrir fyrirtæki og einstaklinga ? hvað með einstaklinga og fyrirtæki sem eru að nota ADSL/Vdsl ?\nSjálfur er ég með fasta ip tölu hjá Gagnaveitunni (sem einstaklingur) en mér langaði að fá þessu helst svarað í öllum tilfellum þar sem ég á það til að notast við ákveðnar Mail Relay þjónustur sem bjóða uppá að senda tölvupósta t.d prentarar, fileserver-ar, vöktunarkerfi etc....\nFinnst einfaldlega of mikið vesen að pæla í SMTP authentication hlutanum þegar maður sendir pósta t.d í gegnum smtp-relay.gmail.com og hleypi frekar Ip tölum í gegn. Getur verið misjafnt hvaða port t.d netveita leyfir að senda frá og þess háttar.\nEdit: Set þessa mynd af SMTP Relay Settings sem er í boði í Google g suite:",
+            "date": "2017-03-17 18:00:00",
+            "post_id": "645403",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "rbe",
+            "text": "ég er með ljós hjá vodafone gegnum gagnaveitu og hef alltaf verið með fasta ip , fyrst ljós 50, 100 ,500  og 1000 ?\nsamkvæmt vefsíðu voda er þetta \"Nei, það er ekki í boði að vera með fasta IP tölu gegnum kerfi Gagnaveitunnar\" ?\nhef verið með fasta ip tölu hjá öllum netveitum sem ég hef verið hjá síðan 2002. hef aldrei beðið um fasta ip.\nloftlína línu net, hive, voda, síminn. \nkannski er það af því ég er svoddan \"badboy\" af því ég var tekinn  í dc++ málinu. \nþað þarf að hafa eftirlit með svoleiðis guttum. ?",
+            "date": "2017-03-17 18:34:00",
+            "post_id": "645405",
+            "reply_to_id": "645403"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "Ég er örugglega útá túni, er DDNS useless í þessum pakka?",
+            "date": "2017-03-17 18:39:00",
+            "post_id": "645406",
+            "reply_to_id": "645405"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Veit svosem ekki hvort það sé verið að vakta þig  \n  en ég hefði ekki nennt að pæla í þessu ef ég hefði getað notað þjónstu eins og Uptime robot til að pinga Ip tölur frá ISP (ef ip tala breytist). Maður gæti jafnvel endað að kaupa sér Relay þjónustu til að einfalda sér lífið eða einfaldlega setja upp sinn eigin þjón hjá Digital Ocean til að sinna þessu Mail Relay hlutverki.\nMá t.d ekki við því að vita ekki af því að Ip tala breytist og kerfi hættir að senda póst. (t.d ef diskur klikkar)",
+            "date": "2017-03-17 18:44:00",
+            "post_id": "645407",
+            "reply_to_id": "645406"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Google G Suite Relay þjónustan bíður eingöngu uppá að setja inn Ip tölu / ip range",
+            "date": "2017-03-17 18:48:00",
+            "post_id": "645408",
+            "reply_to_id": "645407"
+        },
+        {
+            "user_name": "GunniH",
+            "text": "Hæ,\nÞetta er mismunandi hjá öllum þegar kemur að xDSL'inu, við hjá Hringdu erum með fastar IP tölur á öllum kúnnum þar. Einu tilfellin þar sem þú missir IP töluna þína er ef lokað er á þig vegna skulda eða þú specifically biður tæknifulltrúa að skipta um hana. Hjá öðrum er það ýmist frítt eða gegn vægu gjaldi, t.d. hjá Símanum borgarðu 500 kr. fyrir fasta tölu en ert annars í hættu að missa hana ef þú endurræsir búnað etc.\nVarðandi GR þá er það ekki hægt að vera með fasta IP tölu. Margir aðilar upplifa að þeir séu með fasta IP tölu, m.a. rbe hér að ofan, en það er einfaldlega ekki hægt kerfislega hjá GR. Svo lengi sem þú heldur sömu MAC addressu á netbúnaðinum og passar að niðritími sé ekki X dagar þá ættirðu að halda sömu tölu, en um leið og þú skiptir um endabúnað þá muntu senda nýtt DHCP request og færð nýja úthlutin á þá MAC addressu.\nKveðja,\nGunnar",
+            "date": "2017-03-17 19:06:00",
+            "post_id": "645410",
+            "reply_to_id": "645408"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Takk fyrir svarið meistari , er sjálfur hjá Hringdu með mitt netsamband og er mjög sáttur við netsambandið og þjónustuna sem þið veitið",
+            "date": "2017-03-17 19:10:00",
+            "post_id": "645412",
+            "reply_to_id": "645410"
+        },
+        {
+            "user_name": "russi",
+            "text": "Þegar ég hef skipt um router þá bara breyti ég mac-addressunni, held því sömu tölu",
+            "date": "2017-03-17 22:09:00",
+            "post_id": "645421",
+            "reply_to_id": "645412"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Ok , gott að vita af þessu. Það getur komið fyrir að aðrir aðilar hrufli við búnaði sem er ekki á mínum vegum og þá er betra vera með þetta á hreinu.\nEr t.d með á tveimur stöðum dedicated client vél sem ég vpn tengist á networkið til að geta sýslað með annan búnað.Hins vegar er erfiðara að vakta hjá aðilum sem eru t.d kannski bara með Fileserver (on prem) og restin cloud þjónustur og ef breytt er um IP tölu þá fær maður ekki tilkynningar t.d frá Fileserver ef eitthvað kemur upp eða prentarar/skannar geta allt í einu ekki sent skjöl í pósti. \nBasicly maður veit aldrei hvað starfsmenn eða aðrir þjónustuaðilar gera.",
+            "date": "2017-03-17 22:18:00",
+            "post_id": "645422",
+            "reply_to_id": "645421"
+        },
+        {
+            "user_name": "rbe",
+            "text": "gunnih ertu þá að segja að ég haldi sömu tölu svo lengi sem routerinn er í gangi. ? og detti ekki út í langan tíma.?\nljósleiðaraboxið er væntanlega með einhverja tölu ?\nfékk nýjan router þegar ég fór í ljós 500 ,1000 , og nýja ip við það. hef endurræst hann amk. 30sinnum á einu ári og endurræst ljósbreytuboxið. tekið rafmagnið af því.  fór í t.d í frí í 2vikur og slökkti á öllu rafmangi í íbúðinni er samt með sömu ip , slökkti líka á rafmagninu í ljósbreytuboxið.\nrouterinnn sem ég var með á undan var að toppa í ljós 100. var með hann í nokkur ár . endurræstur sennilega yfir 100sinnum. \nog slökkt á honum í lengri tima á því tímabili (farið í frí til útlanda og annað) og ljósbreytuboxinu, samt var ég með sömu ip tölu.\nhef verið með internet yfir loftnet. lína net. var með fasta  þar. xdsl fasta þar . sdsl fasta þar. vdsl fasta þar. (nyja fyrir hvern isp)\nalveg sama hvað ég hef fantast mikið á búnaðnum er ég með sömu ip ?\nman bara ekki hvenær ég var með breytilega ip tölu síðast sennilega þegar ég var með upphringisamband hjá á 56k módem án gríns.\nværi fróðlegt að vita hvort ég sé með dedicated range á símanum yfir ip ?\nþekki nokkra sem eru á ljósi gegnum gagnaveitu þeir eru allir á fastri ? og hafa verið  í langan  tíma ? logga sig allir inn á sama stað og aðeins ip tölunni þeirra er hleypt í gegnum sérstakan eldvegg.\nby the way ég er með noip.com account bundið við núverandi ip , til að fá custom nafn í staðinn fyrir ip tölu svo það sé auðveldara fyrir fólk að muna hvernig á að tengjast mér , er líka með opendns account bundið við ip töluna mína, þar sem ég er með haug af filterum á hinar og þessar vefsíður. hef bara þurft að breyta þessum þjónustum einu sinni þegar ég fékk nýjan router fyrir ljós 500 1000. er búinn að vera með þessar tvær þjónustur í nokkur ár.\ner ég bara einhver undantekning í kerfinu hjá gagnaveitunni ?",
+            "date": "2017-03-17 23:58:00",
+            "post_id": "645431",
+            "reply_to_id": "645422"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Það er enginn á fastri ip tölu á ljósinu hjá GR.  Lease tíminn er mjög langur og svo fremi sem þú ert með sömu MAC addressu þá heldurðu sömu tölunni.  Skiptir ekki máli þó þú slökkvir á öllu í lengri tíma.  Ég flutti fyrir 3 árum innan sama hverfis og var netlaus í amk 2 vikur en þegar ég var svo tengdur á nýja staðnum (sami router) þá var ég enn með sömu tölu.",
+            "date": "2017-03-18 09:13:00",
+            "post_id": "645437",
+            "reply_to_id": "645431"
+        }
+    ],
+    "date": "2017-03-17 18:00:00"
+}

@@ -1,0 +1,100 @@
+{
+    "forum_title": "Yfirklukkun, hraðaprófanir og mods",
+    "id": "2910",
+    "title": "Overclock á Asus A7N8X Deluxe Revision 2.0",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=1&t=2910",
+    "posts": [
+        {
+            "user_name": "Icarus",
+            "text": "Ég er að pæla, það er mælt með því að maður læsi agp/pci og minnisraufunum ef maður ætlar að overclocka á nforce2 moðurborði, en ég finn ekki til að læsa pci og minnisraufunum.\n\n\n\nVeit einhver hvar það er ? \n\n\n\nOg ég náði athlonxp 2500+ uppí 3200+ án vandamála, bakkaði bara aftur niður þegar ég mundi eftir þessu.",
+            "date": "2004-01-25 00:06:00",
+            "post_id": "29256",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Arnar",
+            "text": "Ég hef aldrei skoðað ASUS borð þannig ég get því einungis sagt þetta tvennt: \nhttp://www.google.com\n og rtfm",
+            "date": "2004-01-25 00:14:00",
+            "post_id": "29257",
+            "reply_to_id": "29256"
+        },
+        {
+            "user_name": "Icarus",
+            "text": "ef þú hefur aldrei skoðað asus borð þá gaman hjá þér.\n\n\n\nÞað að þú segir RTFM lýsir þroska þínum mjög vel en þessi manual sem ég fékk er ekki nógu góður varðandi bios-inn.",
+            "date": "2004-01-25 12:41:00",
+            "post_id": "29349",
+            "reply_to_id": "29257"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "Ef það er hvergi í biosnum stilling sem heitir t.d. 'Lock agp/pci', þá ertu örugglega bara ekkert með móðurborð sem leyfir þér að læsa því.\n\n\n\nErtu búinn að kíkja vel og flakka um í biosnum? Hvaða týpu af borði ertu með?",
+            "date": "2004-01-25 13:05:00",
+            "post_id": "29352",
+            "reply_to_id": "29349"
+        },
+        {
+            "user_name": "Lazylue",
+            "text": "Hjá mér stendur bara  \"APG/PCI speed\" þar sem eg get stillt til dæmis 80.00/40.00 og 66.66/33.33 (mhz).",
+            "date": "2004-01-25 13:53:00",
+            "post_id": "29361",
+            "reply_to_id": "29352"
+        },
+        {
+            "user_name": "Icarus",
+            "text": "Það á að vera hægt að læsa þessu en ég er búinn að finna til að læsa agp og minninu, stillti það bara með manual stillingum en finn ekki enn fyrir PCI, er búinn að fara yfir þennan Bios svona 10 sinnum eða oftar.",
+            "date": "2004-01-25 15:57:00",
+            "post_id": "29379",
+            "reply_to_id": "29361"
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "sko.... icarus, þú skalt RTFM ..\n\n\n\nREAD THE FAQ & MANUAL.\n\n\n\n\n\nleeeetingi, ætlaru að segja mér að þú gúglar ekkert FAQ um móbóið ?",
+            "date": "2004-01-25 21:24:00",
+            "post_id": "29413",
+            "reply_to_id": "29379"
+        },
+        {
+            "user_name": "Arnar",
+            "text": "READ THE FUCKING MANUAL\n\n\n\nÞað finnst mér skárri þýðing.",
+            "date": "2004-01-25 21:35:00",
+            "post_id": "29416",
+            "reply_to_id": "29413"
+        },
+        {
+            "user_name": "SkaveN",
+            "text": "láttu apg voltið í 66.66/33.33 þá er það \"locked\"",
+            "date": "2004-01-26 01:03:00",
+            "post_id": "29485",
+            "reply_to_id": "29416"
+        },
+        {
+            "user_name": "Lakio",
+            "text": "Ég er vonsvikinn hvað þið eru vondir við hann...\n\n\n\nAuðvita er hægt að finna allt á google en til hvers er þá þetta spjall?\n\n\n\nOg hann er búinn að lesa \"MANUAL\", í staðinn fyrir að vera með leiðindi afhverju segir ekki einhver með sama mobo á hvaða bls hann á að lesa?",
+            "date": "2004-01-26 10:59:00",
+            "post_id": "29519",
+            "reply_to_id": "29485"
+        },
+        {
+            "user_name": "Icarus",
+            "text": "flott comment hjá þér Lakio og langar ykkur að lesa manual fyrir þetta móðurborð sem ég fékk ? Þetta er örugglega verst uppsetti Manual sem þú getur fundið.",
+            "date": "2004-01-26 16:57:00",
+            "post_id": "29550",
+            "reply_to_id": "29519"
+        },
+        {
+            "user_name": "Damien",
+            "text": "Þetta er rétt hjá Skaven...\n\n\n\nÞað er enginn svona \"Lock APG/PCI\" stilling heldur er bara APG/PCI speed: 80.00/40.00 eða 66.66/33.33",
+            "date": "2004-01-27 12:35:00",
+            "post_id": "29669",
+            "reply_to_id": "29550"
+        },
+        {
+            "user_name": "Bendill",
+            "text": "Strákar, þið eigið greinilega ekki Nforce2 móðurborð...\n\n\n\nhttp://www.lostcircuits.com/motherboard/iwill_p4ht/5.shtml\n\n\n\n\n\n\nÞannig að þú þarft ekki að hafa áhyggjur af PCI tíðni, hún er föst á 33Mhz \n\n\n\n\nBTW: Þetta las ég fyrir löngu síðan í dómi á Nforce móbói hjá \n[H]ard|OCP\n. Annars er meira um þetta \nhér",
+            "date": "2004-01-30 11:57:00",
+            "post_id": "30197",
+            "reply_to_id": "29669"
+        }
+    ],
+    "date": "2004-01-25 00:06:00"
+}

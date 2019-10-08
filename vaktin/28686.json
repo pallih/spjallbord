@@ -1,0 +1,79 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "28686",
+    "title": "harðdiskurinn respondar ekki :S",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=28686",
+    "posts": [
+        {
+            "user_name": "Haffiji",
+            "text": "þetta er 3 ára 400gb diskur sem er alltí einu með eitthvað vesen, veit eitthver hvort ég get lagað þetta alltaf þegar ég starta windows reynir windowsið að laga þetta en hann lagast ekkert við það",
+            "date": "2010-03-03 23:28:00",
+            "post_id": "248205",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Enginn",
+            "text": "Gæti verið ónýtur. Reyndu að prófa hann í annri tölvu eða formatta hann.",
+            "date": "2010-03-03 23:51:00",
+            "post_id": "248209",
+            "reply_to_id": "248205"
+        },
+        {
+            "user_name": "division",
+            "text": "Vona að þú sért ekki með merkileg gögn inn á honum annars ættiru að formatta hann.",
+            "date": "2010-03-04 01:00:00",
+            "post_id": "248220",
+            "reply_to_id": "248209"
+        },
+        {
+            "user_name": "Haffiji",
+            "text": "ég er með endalaust af downloads inna honum :/ fullt af leikjum og myndum",
+            "date": "2010-03-04 01:22:00",
+            "post_id": "248226",
+            "reply_to_id": "248220"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "prófaðu að keyra chkdsk á honum. Það lýtur út fyrir að hann sé að syngja sitt síðasta. Gæti gert hann nothæfan tímabundið svo þú komist í gögnin.\nskrifaðu \ncmd\n í start menu leitarboxið, hægri smelltu -> run as administrator -> skrifaðu svo \nchkdsk /R D:",
+            "date": "2010-03-04 01:25:00",
+            "post_id": "248227",
+            "reply_to_id": "248226"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Nema þetta séu mikilvægar ljósmyndir skaltu bara formata hann. Að tapa downloaduðum leikjum / kvikmyndum / þættum er ekki tap. Fólk hefur verið að tapa masters ritgerðum, fjölskylduljósmyndum ofl dóti sem ekki er hægt að sækjast aftur í, það er tap á gögnum!",
+            "date": "2010-03-04 01:27:00",
+            "post_id": "248228",
+            "reply_to_id": "248227"
+        },
+        {
+            "user_name": "Haffiji",
+            "text": "virkaði ekki :/ formatta bara :'(",
+            "date": "2010-03-04 22:53:00",
+            "post_id": "248468",
+            "reply_to_id": "248228"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "Er með held ég sama vandamál \n Er með WD 500 GB næstum 4 ára gamlan disk í Linksys NSLU2 í port 1 semsagt var búinn að gera svona möppur á hann í gegnum linksys NSLU2 svo bara vill hann ekki ræsast núna \n  eða síðan í gær. Það heyrist bara svona eins og hann sé að reyna að ræsast en nei virkar ekki \n  það er ekki nóg að tengja hann beint í tölvu held ég vegna þess að þetta er gert í gegnum Linksys NSLU2 hvað á ég að gera \n þetta er IDE diskur.",
+            "date": "2010-03-26 13:04:00",
+            "post_id": "252794",
+            "reply_to_id": "248468"
+        },
+        {
+            "user_name": "Oak",
+            "text": "getur náð þér í power data recovery til að ná öllu aftur eftir að þú formattar...verður bara að hafa pláss fyrir það á öðrum disk svo að þú náir þessu.",
+            "date": "2010-03-26 13:39:00",
+            "post_id": "252798",
+            "reply_to_id": "252794"
+        },
+        {
+            "user_name": "mattiisak",
+            "text": "ahh fékk einu sinni tölvu í viðgerð úraf þessu problemi eftir erfiða google leit fann ég forrit sem fixaði þetta \n .minnir að þetta sé forritið \nhttp://www.cgsecurity.org/wiki/TestDisk\n googlaðu hvernig það er hægt að nota það og það mun koma að gagni. gangi þér vel",
+            "date": "2010-03-26 18:08:00",
+            "post_id": "252828",
+            "reply_to_id": "252798"
+        }
+    ],
+    "date": "2010-03-03 23:28:00"
+}

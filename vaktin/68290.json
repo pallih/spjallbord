@@ -1,0 +1,23 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "68290",
+    "title": "Filebot - amc.groovy stillingar",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=68290",
+    "posts": [
+        {
+            "user_name": "nidur",
+            "text": "Ég skrifaði þetta aðalega niður fyrir sjálfan mig, stillingarnar sem ég nota fyrir amc.groovy þannig að ég ákvað að setja þær inn á þráð hérna. \nEf einhver getur nýtt sér þetta þá er það bara frábært.\nFyrir þá sem þekkja þetta ekki þá er amc.groovy scripta sem Filebot notar til að flokka þætti, kvikmyndir og tónlist sjálfkrafa.\n\"Automated Media Center\" \nhttp://www.filebot.net/forums/viewtopic.php?f=4&t=215\nEftirfarandi lína fer í utorrent undir run program, og ég er með hana í þegar state changes.\nKóði: \nVelja allt\n\"C:/Program Files/FileBot/filebot.launcher.exe\" -script C:/amc.groovy --output \"Z:/Uppi/Media\" --action move --conflict override -non-strict -no-xattr --def subtitles=en music=y artwork=n --def clean=y --log-file amc.log --def \"ut_dir=%D\" \"ut_file=%F\" \"ut_kind=%K\" \"ut_title=%N\" \"ut_label=%L\" \"ut_state=%S\" \"ut_state_allow=11\"\nOg bara til að útskýra línuna þá er eftirfarandi.\n\"C:/Program Files/FileBot/filebot.launcher.exe\" \n(Hérna er nóg að kalla á \"filebot\" en ég nota launcherinn til að sleppa við command screen)\n-script C:/amc.groovy \n(hérna er kallað í scriptið sem er að finna raw hérna \namc.groovy\n ég vill keyra það af local disk frekar en af netinu.\n--output \"Z:/Uppi/Media\" \n(hérna flokka ég allt inn)\n--action move \n(í stað copy þá hef ég move til að færa skjölin þegar utorrent hefur lokið við dl.)\n--conflict override \n(ég hef þetta inni til að overrida conflicts í matching, sem þýðir að eitthvað gæti flokkast vitlaust)\n-non-strict \n-no-xattr \n(ég slekk á attribute skrifun, kemur með villumeldingu af því að smb styður þetta ekki hjá mér)\n--def subtitles=en \nmusic=y \nartwork=n \n--def clean=y  \n(hreinsa til rusl og möppur eftir \"move\" þarft \"cleaner.groovy\" script til að þetta virki rétt.)\n--log-file amc.log \n(skrifa í log um það sem filebot gerir)\n--def \n(hérna koma upplýsingar úr utorrent fyrir amc.groovy)\n\"ut_dir=%D\"  \n\"ut_file=%F\" \n\"ut_kind=%K\" \n\"ut_title=%N\" \n\"ut_label=%L\" \n(í amc.groovy eru format expressions fyrir flokkunina þeas. persistant labels úr utorrent t.d. TV|Movies|MP3|Other|)\n\"ut_state=%S\" \n(utorrent sendir upplýsingar um state)\n\"ut_state_allow=11\" \n(til að leyfa scriptinu að færa og flokka þá þarf state að vera 11 eða Finished í utorrent)\nSvo er að skilgreina í amc.groovy hvernig á að flokka og skrifa út. (Define format expressions)\nFyrir þætti\nKóði: \nVelja allt\nTV/TV New/{n}/{episode.special ? 'Special' : 'Season '+s.pad(2)}/{n}.{episode.special ? 'S00E'+special.pad(2) : s00e00} - {t.replaceAll(/[`´‘’ʻ]/, /'/).replaceAll(/[!?.]+$/).replacePart(', Part $1')}{'.'+lang}\nFyrir kvikmyndir\nKóði: \nVelja allt\nMovies/Movies New/{n} ({y})/{n} ({y}){' CD'+pi}{'.'+lang}\nFyrir tónlist\nKóði: \nVelja allt\nMusic/Flokkun 2016/{self.albumartist ? self.albumartist + \"/\" + self.album : self.album}/{[\"essential mix\", \"kiss100 d&b\"].indexOf(album.toLowerCase()) != -1 ? t : artist + \" - \" + t}{dir.name}\nSvo ef maður er með network drives í windows umhverfi þá er fínt að sækja \"MapDrive.exe\" og láta það keyra í byrjun til að það mappi drifin.\nhttp://zornsoftware.codenature.info/blo ... rives.html\nÉg hef notað þetta lengi og þurfti að setja þetta allt upp aftur vegna þess að diskur hjá mér crassaði...",
+            "date": "2016-01-24 13:24:00",
+            "post_id": "616352",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "dori",
+            "text": "Þetta forrit er æðislegt þegar það virkar en getur verið bölvað vesen að setja upp (sérstaklega ef maður vill \"nákvæmlega eins\" og eitthvað sem var fyrir).\nÉg var með þetta keyrandi á Debian server (útaf því að þetta var Debian þá auðvitað ekki nýjasta útfærsla) og á einhverjum tímapunkti breyttu þeir sem viðhalda forritinu strúktúrnum á scriptunum sem þeir hýsa sjálfir. Þurfti allskonar vesen (sækja scriptur og gögn og breyta vísunum í resource skjölum í Java jar skránni og alls konar handavinnu) til að fá það svo til að virka eins og það hafði gert.",
+            "date": "2016-01-24 16:51:00",
+            "post_id": "616364",
+            "reply_to_id": "616352"
+        }
+    ],
+    "date": "2016-01-24 13:24:00"
+}

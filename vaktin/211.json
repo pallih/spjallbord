@@ -1,0 +1,79 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "211",
+    "title": "Bandwitdh Limiter",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=211",
+    "posts": [
+        {
+            "user_name": "Voffinn",
+            "text": "Hefur einhver heyrt um svona Bandwith limiter forrit , svona svipað eins og  \n íslensku snillingarnir \n  í netinternals.com eru að vinna að? \nHérna\n ??\n\nÉg er á 512 sem er tengd gegnum router, og mig vantar að limita bandwithina sem tölvan mín er að taka, til að hinn tölvan hefur eitthvað handa sér. Mar er búin að leita að þessu útum allt, finn bara eitthvað rusl fyrir linux  \n !!",
+            "date": "2002-12-22 18:07:00",
+            "post_id": "1216",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Castrate",
+            "text": "kúl íslendingar sem eru með netinternals vissi það ekki \n mar er alltaf að læra einhvað nýtt",
+            "date": "2002-12-22 21:58:00",
+            "post_id": "1221",
+            "reply_to_id": "1216"
+        },
+        {
+            "user_name": "halanegri",
+            "text": "þessi Bandtwidth Shaper hlítur bráðum að koma",
+            "date": "2002-12-23 01:30:00",
+            "post_id": "1226",
+            "reply_to_id": "1221"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "ætla rétt að vona það...",
+            "date": "2002-12-23 13:11:00",
+            "post_id": "1230",
+            "reply_to_id": "1226"
+        },
+        {
+            "user_name": "Atlinn",
+            "text": "veit ekki með eitthvað spes forrit en ég veit að ftp server forritið sem ég er að nota getur limitað max upload speed",
+            "date": "2002-12-23 14:39:00",
+            "post_id": "1236",
+            "reply_to_id": "1230"
+        },
+        {
+            "user_name": "Fox",
+            "text": "Þetta er í Windows 2000 Server, og .net Server.\n\nStillingar þar, hægt að stilla hvernig routerinn hagar sér, og raða í forgang.",
+            "date": "2003-10-17 02:54:00",
+            "post_id": "16721",
+            "reply_to_id": "1236"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "Ég er að fara setja upp gamla vél hérna heima sem myndi líklega keyra FreeBSD og þjóna mér sem fileserver + routa út netinu handa mér + vera svona bandwithlimiter.\n\n\n\nÉg hafði samband við einhver þarna í netinternals um forritð sem þeir eru samkvæmt heimasíðunni sinni að vinna í, hann sagði að það kæmi eftir viku... það var fyrir næstum 2 mánuðum, þannig að þeir eru eitthvað að skíta á sig.",
+            "date": "2003-10-17 16:59:00",
+            "post_id": "16787",
+            "reply_to_id": "16721"
+        },
+        {
+            "user_name": "gumol",
+            "text": "1 spurning, efhverju varstu með þetta sem skoðanakönnun?",
+            "date": "2003-10-17 17:38:00",
+            "post_id": "16794",
+            "reply_to_id": "16787"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "Kommon, hvað helduru ða ég muni eftir af hverju ? Þetta er fyrsta bréfið mitt hérna á vaktinni",
+            "date": "2003-10-17 21:22:00",
+            "post_id": "16824",
+            "reply_to_id": "16794"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Ég leit ekki á dagsetninguna",
+            "date": "2003-10-17 22:05:00",
+            "post_id": "16834",
+            "reply_to_id": "16824"
+        }
+    ],
+    "date": "2002-12-22 18:07:00"
+}

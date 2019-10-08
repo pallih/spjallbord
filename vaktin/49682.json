@@ -1,0 +1,79 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "49682",
+    "title": "Netið dettur alltaf út",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=49682",
+    "posts": [
+        {
+            "user_name": "reeps",
+            "text": "Búinn að vera í vandræðum með netið undanfarið tvær vikurnar, virkar ekkert að hringja í Vodafone.\nLýsir sér þannig að netið dettur út í kannski 10-30 sekúndur stundum með allt að 4-5 klukkutíma millibili en stundum líka 10 mínúta. Ég held að þetta tengist eitthvað hversu margar tölvur eru tengdar netinu (er líka með sjónvarp frá Vodafone), gerist oftar þegar það er meira álag, afturámóti gerist það samt sem áður þótt ég sé bara með eina tölvu tengda. Ljósið á routernum (Bewan) sem segir til hvort það sé net, slekkur á sér.\nAllt netið dettur út, bæði þráðlausa og beintengda.\nEr með Bewan router.\nÉg ákvað að skipta um router fékk alveg eins router frá þeim og ennþá er þetta vandamál.\nÞeir hjá Vodafone sögðu mér að þetta gæti verið smásían sem er tengd við símann.\nEr ekki búinn að skipta um smásíuna en ég prufaði í gær að taka símann úr sambandi en netið hélt áfram að detta út sem segir mér að það getur ekki verið smásían þar.(Nema ég sé eitthva að misskilja hlutverk smásíunar). Tók eftir því að hraðinn á netinu er búinn að minnka, yfirleitt get ég farið max í 700 kb/sec en núna er þetta dottið niður í max 450. Er með ADSL. Búinn að vera með sjónvarp frá Vodafone í þónokkurn tíma og allt gengið vel þangað til nú.\nTakk fyrir =)",
+            "date": "2012-08-14 11:48:00",
+            "post_id": "460570",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "hagur",
+            "text": "Ég held að það skipti ekki máli hvort síminn sé í sambandi eða ekki.\nHeld að það væri ekkert vitlaust hjá þér að prófa að skipta um síu.",
+            "date": "2012-08-14 12:30:00",
+            "post_id": "460584",
+            "reply_to_id": "460570"
+        },
+        {
+            "user_name": "Raudbjorn",
+            "text": "Eruði með þjófavörn? Eins og t.d. frá Securitas?\nÞað þarf að vera smásía á ÖLLU sem notar símalínu.",
+            "date": "2012-08-14 12:33:00",
+            "post_id": "460585",
+            "reply_to_id": "460584"
+        },
+        {
+            "user_name": "reeps",
+            "text": "Amm, ég ætla að prufa það, takk.",
+            "date": "2012-08-14 13:33:00",
+            "post_id": "460598",
+            "reply_to_id": "460585"
+        },
+        {
+            "user_name": "reeps",
+            "text": "Ekkert svoleiðis, Er ekki smásían stykkið sem er á símalínunni sem kemur úr símanum áður en hún fer í vegginn?",
+            "date": "2012-08-14 13:35:00",
+            "post_id": "460599",
+            "reply_to_id": "460598"
+        },
+        {
+            "user_name": "binnist",
+            "text": "jú það er þetta hvíta stykki sem er oft með splitter líka, þeas tengi fyrir heimasíma og rotuer.\nGætir prufað að aftengja heimasímann og smásíuna og setja routerinn beint í tengil. jafnvel prufa snúruna sem fer í heimasímann á routerinn. Prufa annan tengil? ef ekki að þá gætir þú þurft að hringja í Vodafone og láta þá græja bilanatilkynningu á þetta,",
+            "date": "2012-08-14 14:21:00",
+            "post_id": "460605",
+            "reply_to_id": "460599"
+        },
+        {
+            "user_name": "Orri",
+            "text": "Er að berjast við nákvæmlega sama vandamálið..\nVar með gamla bláa Zyxel routerinn sem var alltaf að resetta sér, keyptum router frá start.is sem var/er alltaf með vandamál (netið óstöðugt, sjónvarpið höktir) og fengum svo líka þennann hvíta router frá Vodafone sem á það til að detta út nákvæmlega eins og þú lýsir.. þó mun sjaldnar en gamli Zyxel og heldur netinu og sjónvarpinu betur en routerinn frá start.is.. aftur á móti þá get ég ekki horft á myndband á youtube ef bróðir minn er að spila FIFA á netinu því þá höktir allt..\nHeimasíminn er tengdur við símatengil inní stofu með smásíu á meðan routerinn er beintengdur við símakló inni í sjónvarpsholi sem fer í vegg..\nGæti þetta verið sama vandamálið ? skortur á smásíu hjá routernum eða eitthvað annað ?",
+            "date": "2012-08-14 14:45:00",
+            "post_id": "460610",
+            "reply_to_id": "460605"
+        },
+        {
+            "user_name": "reeps",
+            "text": "Heimasíminn minn er líka tengdur við símatengill inní stofu með smásíu og routerinn beintengdur við símakló. Ég ætla að prufa að gera það sem var bent mér á fyrir ofan. Pósta ef eitthvað lagast svo sem.",
+            "date": "2012-08-14 15:41:00",
+            "post_id": "460617",
+            "reply_to_id": "460610"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ef netið heldur áfram að detta út þrátt fyrir að síminn og sían séu tekin úr sambandi er þetta alveg 99% ekki smásían.\nÉg myndi byrja á því að hringja í þjónustuverið og athuga hvort það sé í lagi með línuna og réttur prófíll á.",
+            "date": "2012-08-14 18:21:00",
+            "post_id": "460650",
+            "reply_to_id": "460617"
+        },
+        {
+            "user_name": "GrimurD",
+            "text": "Það sem þið eruð að lenda í hljómar bara eins og þessi klassísku netslit. Ef routerinn og heimasíminn eru tengd í sama tengilinn í gegnum smásíu þá getur þetta verið smásían, annars ekki. Þá virkar yfirleitt að prufa bara að tengja símasnúruna frá routernum beint í tengilinn og sjá hvort það lagast. Ef ekki er sniðugt(ef það er möguleiki) að prufa að skipta um símtengil, prufa að hafa routerinn tengdan á öðrum stað og sjá hvort hann lendir í því sama og hvot hann mælist mögulega betur. Þetta eru hlutir sem þarf að prófa ef það er hægt áður en það er skráð bilanatilkynning hjá Vodafone.\nÞegar að miðjuljósið á bewan routernum dettur svona út þá er hann alveg að missa allt samband(sync) sem er oftast vandamál sem þarf að leysa með því að hafa samband við Vodafone. Einnig ef þú ert búinn að prufa fleiri en einn router, skiptir ekki hvaða gerð, á sama símtenglinum og báðir lenda í þessu þá er þetta klárlega ekki router vandamál.\nAf minni reynslu þá er algengast að þetta sé innanhússvandamál hjá fólki, hvort sem það er í símtengli eða í húskassa.\nAnnars ef þið viljið þá getið þið sent mér kennitölu/hs í PM hér og ég skal skoða línurnar hjá ykkur og athuga hvort mælingarnar séu eitthvað grunsamlegar.",
+            "date": "2012-08-14 23:33:00",
+            "post_id": "460750",
+            "reply_to_id": "460650"
+        }
+    ],
+    "date": "2012-08-14 11:48:00"
+}

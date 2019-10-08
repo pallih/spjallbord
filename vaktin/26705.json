@@ -1,0 +1,58 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "26705",
+    "title": "ATI Catalyst Control Center með vél sem er bara tv-tengd.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=26705",
+    "posts": [
+        {
+            "user_name": "BjarniTS",
+            "text": "frá BjarniTS Mið 09. Des 2009 03:49\nEr að setja upp gamla vél bara til að vinna nokkura hluti sem að eiga að birtast á skjá.\nMálið er að skjákortið sem ég er með er gamalt , þetta er Radeon™ 9200.\nSótti driver og setti upp \nfilename: 6-11-pre-r300_xp-2k_dd_ccc_wdm_38185\n- Spurningin er  - \nGet ég , með tv-out tenginu tengdu í sjónvarpið , og hljóðinu tengdu bara í sjóvarpið , látið hluti birtast í stóru sjónvarpi í ásættanlegum gæðum og stjórnað vélinni með remote programmi á borð við UltraVNC.\nEr það ekki annars þannig forrit , að það sem þú gerir í Viewer vélinni , hvort sem það er að keyra hluti í fullscreen eða annað , það myndi þá gerast í server vélinni sem væri tengd við sjónvarpið.",
+            "date": "2009-12-09 19:29:00",
+            "post_id": "232469",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Taxi",
+            "text": "Þú getur það örugglega, vinur minn er að stjórna fileserver hjá sér í gegnum remote og hann er ekki einu sinni með skjákort i vélinni.\nHann setti serverinn upp og tók skjákortið síðan úr og fer bara inná hana yfir netið,sama hvort hann er heima eða annarstaðar.\nÉg er reyndar ekki viss með gæðin á þessu skjákorti eða hvað þú kallar í \"ásættanlegum gæðum\" en mér finnst mjög líklegt að þetta gangi hjá þér.",
+            "date": "2009-12-09 22:30:00",
+            "post_id": "232513",
+            "reply_to_id": "232469"
+        },
+        {
+            "user_name": "BjarniTS",
+            "text": "Er bara að tala um þætti og svona í venjulegum tv-rip gæðum.\nSjónvarpið er samt hd ready.\nEn ég er aðallega að hugsa um sko hvort að ég geti verið með full screen og svona settings verði alveg í lagi.\nJá , vona að þetta gangi.",
+            "date": "2009-12-10 00:37:00",
+            "post_id": "232548",
+            "reply_to_id": "232513"
+        },
+        {
+            "user_name": "JohnnyX",
+            "text": "Ef að þú ert með HD Ready sjónvarp þá býst ég fastlega við að það sé flatskjár. Gæti þá verið að þú gætir tengt tölvuna við sjónvarpið með VGA snúru? Ef ekki þá veit ég af eigin reynslu að vera í tölvunni á netinu og þess konar daglegri notkun er ekki skemmtilegt. En að horfa á sjónvarpsefnir þannig sleppur alveg, allavega hjá mér.",
+            "date": "2009-12-10 01:00:00",
+            "post_id": "232557",
+            "reply_to_id": "232548"
+        },
+        {
+            "user_name": "BjarniTS",
+            "text": "Flatskjár , en VGA , aftan á því ? sjónvarpinu ? \nHef ekki athugað sko en er það oft þannig ? \nEn sko ég myndi ekki vera í henni í daglegri notkun nema bara til þess eins að horfa á þætti í sjónvarpinu.\nMyndi stýra henni bara með remote viewer í fartölvunni.",
+            "date": "2009-12-10 02:07:00",
+            "post_id": "232563",
+            "reply_to_id": "232557"
+        },
+        {
+            "user_name": "andrespaba",
+            "text": "Flest\n öll HD-Ready sjónvörp eru með VGA tengi.+\n*edit*Ég sjálfur er að horfa á slatta af Sjónvarps efni úr tölvunni tengt í HD LCD 32\" sjónvarp og það virkar fínt, en þegar þú ert að fara horfa á e-ð HD gæði, td 720p eða 1080i&p gætirðu fengið smá hökkt miðað við að ég fæ pínku hökkt á HD gæða sjónvarpsþáttum og er ég með 8600gt kort. En venjulegu gæðin eru topp notch.",
+            "date": "2009-12-10 02:14:00",
+            "post_id": "232564",
+            "reply_to_id": "232563"
+        },
+        {
+            "user_name": "Some0ne",
+            "text": "Þetta dæmi sem þú ert að spyrja um gengur alveg upp, ágætt að finna einhvern media spilara sem notar resources vel, Windows Media Player11 er t.d ekki upplagður í svona low-end media center tölvu hjá þér",
+            "date": "2009-12-10 02:38:00",
+            "post_id": "232566",
+            "reply_to_id": "232564"
+        }
+    ],
+    "date": "2009-12-09 19:29:00"
+}

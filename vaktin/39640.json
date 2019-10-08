@@ -1,0 +1,107 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "39640",
+    "title": "Raid Spurning ?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=39640",
+    "posts": [
+        {
+            "user_name": "andribolla",
+            "text": "Á hvaða Formatti ætti nýr diskur að vera,\nþegar ég er að setja nýjann í staðinn fyrir eithvern annan disk í svona Raid stæðu,\nBúin að prófa að hafa hann óformattaðan en þá við stæðan ekki taka við honum :S",
+            "date": "2011-07-02 18:52:00",
+            "post_id": "360376",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Ulli",
+            "text": "Var sjálfur að kaupa mér allveg eins HDD og ég var með fyrir.\nget ég set hann í Raid með gamla þótt það sé fullt af dóti á gamla eða þarf ég að formata eldri diskin áður?\nSry að ég sé að troðast hérna.\nsá ekki tilgángin með að búa til annað allveg eins innlegg S:",
+            "date": "2011-07-02 21:07:00",
+            "post_id": "360402",
+            "reply_to_id": "360376"
+        },
+        {
+            "user_name": "Moldvarpan",
+            "text": "Báðir diskanir þurfa að vera tómir. Svo búið þið til raid \"hóp\" í raid biosinum sem ætti að opnast eftir að þið opnið fyrir raid í biosinum.\nÞað er oftast góðar upplýsingar um hvert móðurborð fyrir sig í bæklingnum sem fylgir móðurborðinu.",
+            "date": "2011-07-02 21:15:00",
+            "post_id": "360403",
+            "reply_to_id": "360402"
+        },
+        {
+            "user_name": "andribolla",
+            "text": "Ég er allavegana með Raid kort, og ég er búin að búa til Raid5 stæðu 4x2tb\nég semsagt tók einn diskinn úr til að atuga hvort þetta myndi ekki virka\nog setti nýjann disk í \nen stæðan vil ekki taka við disknum og byrja á Rebuild  :S\ngrunaði að það væri eithvað útaf formatinu á nyja disknum",
+            "date": "2011-07-02 21:41:00",
+            "post_id": "360409",
+            "reply_to_id": "360403"
+        },
+        {
+            "user_name": "Moldvarpan",
+            "text": "Varstu búinn að setja gögn inn á stæðuna þegar þú tókst einn disk úr stæðunni?  \n  Til að prufa hvort raidið virkaði, s.s. að setja spegla gögn á báða diskana?\nEru allir diskarnir nákvæmlega eins?\nEn afhverju raid 5?",
+            "date": "2011-07-02 21:45:00",
+            "post_id": "360412",
+            "reply_to_id": "360409"
+        },
+        {
+            "user_name": "andribolla",
+            "text": "http://en.wikipedia.org/wiki/Raid_5#RAID_5\njá ég setti 5 tb inn á diskinn og tók svo einn úr til þess að prófa þetta, svo ég viti hvað ég eigi að gera ef eithvað gerist\nog nei þeir eru ekki speglaðir.",
+            "date": "2011-07-02 21:52:00",
+            "post_id": "360418",
+            "reply_to_id": "360412"
+        },
+        {
+            "user_name": "Moldvarpan",
+            "text": "Raid 10 fyrir hraða og gagnaöryggi.\nhttp://www.cyberciti.biz/tips/raid5-vs-raid-10-safety-performance.html",
+            "date": "2011-07-02 22:00:00",
+            "post_id": "360420",
+            "reply_to_id": "360418"
+        },
+        {
+            "user_name": "andribolla",
+            "text": "jájá ég er löngu búin að kynna mér þetta allt,\nég var samt að spurja um annað.\nþað er samt Fault tolerance 1 diskur í báðum uppsetningum.\nog það er alveg nógu mikill sóknarhraði á Raid 5 fyrir mig, \nsvo fynst mér Raid 10 líka full dýr uppsetning fyrir mig miðað við 3,6 gb í pláss fyrir 4x2gb\nþegar ég fæ 5,5 gb útur Raid 5 ..",
+            "date": "2011-07-02 22:08:00",
+            "post_id": "360422",
+            "reply_to_id": "360420"
+        },
+        {
+            "user_name": "Ulli",
+            "text": "hvað fæ ég úr 2x 1Tb með Raid 0?",
+            "date": "2011-07-02 22:46:00",
+            "post_id": "360430",
+            "reply_to_id": "360422"
+        },
+        {
+            "user_name": "andribolla",
+            "text": "1tb ..",
+            "date": "2011-07-02 22:49:00",
+            "post_id": "360431",
+            "reply_to_id": "360430"
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Rangt: \nRAID-0 = striping og ef þú hefur 2x 1TB þá er array-ið 2TB.",
+            "date": "2011-07-02 23:04:00",
+            "post_id": "360440",
+            "reply_to_id": "360431"
+        },
+        {
+            "user_name": "Moldvarpan",
+            "text": "Ég hef prófað soldið raid fyrir performance á venjulegum SATA diskum, jú write og read hraðinn varð aðeins meiri, en mér fannst það ekki þess virði. Frekar myndi ég nota SSD fyrir stýrikerfi og forrit, og svo terabæta diskana fyrir gagnageymslu. Það er miklu meira performance boost heldur en að raida stóra SATA diska.",
+            "date": "2011-07-02 23:36:00",
+            "post_id": "360448",
+            "reply_to_id": "360440"
+        },
+        {
+            "user_name": "JReykdal",
+            "text": "\"Failaðirðu\" diskinn áður en þú tókst hann úr?\nÞarftu ekki að fara í controllerinn og bæta nýja disknum í arrayið og segja honum að hefja rebuild?",
+            "date": "2011-07-03 00:04:00",
+            "post_id": "360453",
+            "reply_to_id": "360448"
+        },
+        {
+            "user_name": "andribolla",
+            "text": "Það á að vera automatic Rebuild,,\nen nei ég failaði ekki diskinn ég tók hann bara úr og startaði tölvuni svo aftur.\nstakk svo nýjum disk í  en þá vildi stæðan ekki taka við disknum og byrja rebuild.",
+            "date": "2011-07-03 18:09:00",
+            "post_id": "360558",
+            "reply_to_id": "360453"
+        }
+    ],
+    "date": "2011-07-02 18:52:00"
+}

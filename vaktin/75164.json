@@ -1,0 +1,23 @@
+{
+    "forum_title": "Koníakstofan",
+    "id": "75164",
+    "title": "Alvarlegur böggur í Intel örgjörvum?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=9&t=75164",
+    "posts": [
+        {
+            "user_name": "akarnid",
+            "text": "Sælt veri fólkið\nhttps://www.theregister.co.uk/2018/01/0 ... sign_flaw/\nRakst á þetta í gær.  Hef ekki séð þetta annars staðar en skv þessu er (mögulega) alvarlegur böggur í öllum Intel örgjörvum sem hafa verið framleiddir undanfarin ár, sem geta leyft - við réttar aðstæður - forritum að lesa gögn sem einungis kernel-inn á að geta séð.  Potentially slæmt.  Og verið er að vinna að patch fyrir Linux. Windows og OS X.",
+            "date": "2018-01-03 12:39:00",
+            "post_id": "664197",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Perks",
+            "text": "Þetta gæti vetið svakalegt\nCrucially, these updates to both Linux and Windows will incur a performance hit on Intel products. The effects are still being benchmarked, however we're looking at a ballpark figure of five to 30 per cent slow down, depending on the task and the processor model. More recent Intel chips have features – such as PCID – to reduce the performance hit. Your mileage may vary.",
+            "date": "2018-01-03 12:42:00",
+            "post_id": "664198",
+            "reply_to_id": "664197"
+        }
+    ],
+    "date": "2018-01-03 12:39:00"
+}

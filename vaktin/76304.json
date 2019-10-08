@@ -1,0 +1,93 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "76304",
+    "title": "ruv.is heillengi að loadast?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=76304",
+    "posts": [
+        {
+            "user_name": "appel",
+            "text": "Ég hef séð þetta heima og í vinnunni, ruv.is er stundum heillengi að loadast, uppí 5 sek að fá svar. Ég sé í status bar niðri að hún sé að tengjast einhverjum erlendum þjónustum og hangir á því, bara grár skjár á meðan.",
+            "date": "2018-05-14 16:04:00",
+            "post_id": "672241",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Ekki við öðru að búast af kommúnistaútvarpinu, en þetta er eitthvað vesen með myndirnar, lélegt CDN í gagni:",
+            "date": "2018-05-14 16:17:00",
+            "post_id": "672243",
+            "reply_to_id": "672241"
+        },
+        {
+            "user_name": "appel",
+            "text": "Sé líka að ruv.is er bara lengi að svara, ekki endilega bundið við erlendu aðilana. Sýnist þetta geta verið dns issue.",
+            "date": "2018-05-14 16:32:00",
+            "post_id": "672244",
+            "reply_to_id": "672243"
+        },
+        {
+            "user_name": "Revenant",
+            "text": "cdn-img.ruv.is vísar á static.sip.is.c.footprint.net sem er hýst hjá Símafélaginu. \nfootprint.net virðist vera CDN lausn frá Level 3\nDNS uppflettingin er ekkert sérstaklega hæg:\nKóði: \nVelja allt\n               ruv.is  cdn-img.ruv.is\ncloudflare     3 ms    3 ms \ncloudflare2nd  3 ms    3 ms \ngoogle         43 ms   59 ms\ngoogle2nd      47 ms   59 ms\nquad9          39 ms   39 ms\nopendns        53 ms   54 ms\nÞegar ég keyri mtr á móti cdn-img.ruv.is þá virðist rix-tg-tw hjá Símafélaginu vera flöskuháls:\nKóði: \nVelja allt\n Host                                Loss%   Snt   Last   Avg  Best  Wrst StDev\n...\n 3. ???\n 4. ???\n 5. 193-4-254-177.static.metronet.is  0.0%   137    1.7   9.4   1.5 298.3  33.1\n 6. rix-tg-gw.simafelagid.is          0.0%   136    2.1  48.8   1.8 2524. 292.4\n 7. 213.181.115.201                   0.0%   136    2.1   2.0   1.8   2.4   0.0\n 8. 213.181.115.202                   0.0%   136   20.0  24.7   3.4 142.6  22.2\n 9. ???",
+            "date": "2018-05-14 16:46:00",
+            "post_id": "672246",
+            "reply_to_id": "672244"
+        },
+        {
+            "user_name": "jonfr1900",
+            "text": "Vefsíða Rúv er mjög lengi að hlaðast hjá mér þessa stundina en undanfarið hefur gengið mjög illa að fá vefsíðu Rúv upp. Núna fékk ég upp villu í Firefox þar sem Rúv var lengur að svara en sem nemur time-out stillingu í Firefox.",
+            "date": "2018-05-14 21:02:00",
+            "post_id": "672264",
+            "reply_to_id": "672246"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Vísir til samanburðar",
+            "date": "2018-05-14 21:08:00",
+            "post_id": "672265",
+            "reply_to_id": "672264"
+        },
+        {
+            "user_name": "rapport",
+            "text": "ruv.is virðist offline...\nhttp://www.isitdownrightnow.com/ruv.is.html",
+            "date": "2018-05-14 21:13:00",
+            "post_id": "672266",
+            "reply_to_id": "672265"
+        },
+        {
+            "user_name": "arons4",
+            "text": "DDoS virðist vera.\nhttp://www.visir.is/g/2018180519416/vef ... olvuarasar",
+            "date": "2018-05-14 21:20:00",
+            "post_id": "672268",
+            "reply_to_id": "672266"
+        },
+        {
+            "user_name": "hreinnbeck",
+            "text": "Einfaldast og fljótlegast að skella Cloudflare fyrir framan og halda svo áfram að takast á við vandamálið.",
+            "date": "2018-05-14 21:25:00",
+            "post_id": "672269",
+            "reply_to_id": "672268"
+        },
+        {
+            "user_name": "appel",
+            "text": "Hmm... þetta er þá búið að vera svona lengi, þessi ddos árás, því þetta er búið að vera í nokkra daga svona.",
+            "date": "2018-05-14 21:47:00",
+            "post_id": "672270",
+            "reply_to_id": "672269"
+        },
+        {
+            "user_name": "appel",
+            "text": "Aftur er ruv.is niðri. Fékk áður cloudflare cache. En nú viðurkennir hún að vera niðri.",
+            "date": "2018-06-24 03:04:00",
+            "post_id": "674030",
+            "reply_to_id": "672270"
+        },
+        {
+            "user_name": "Moldvarpan",
+            "text": "Þetta er flott síða, oftast mjög hröð og góð.\nVissulega er mikið álag núna yfir HM, og töluvert meira af árásum á hana en aðrar fréttasíður.\nÁfram kommúnistaútvarp!  \n(ekki það að ég sé kommúnisti, finnst bara æðislegt hvað það er mikið hatur í garð rúv og \"kommúnistans\" =)",
+            "date": "2018-06-24 09:31:00",
+            "post_id": "674031",
+            "reply_to_id": "674030"
+        }
+    ],
+    "date": "2018-05-14 16:04:00"
+}

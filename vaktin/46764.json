@@ -1,0 +1,37 @@
+{
+    "forum_title": "Windows",
+    "id": "46764",
+    "title": "Vantar realtime log forrit fyrir Win XP",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=46764",
+    "posts": [
+        {
+            "user_name": "playman",
+            "text": "Sælir Vaktarar.\nVeit einhver um forrit fyrir XP sem að loggar í rauntíma (realtime) allt sem er að gerast í vélinni?\nÞyrfti að logga hvað er í gangi hverju sinni, hvaða fæla er verið að keyra og hvað mikið resource sá fæll/forrit er að nota os.f.\nEins og með þessa vél sem ég er með núna byrjar allt í einu að hanga (Hangs) og mér langar að vita hvað það er sem \ner að valda þessu.",
+            "date": "2012-03-26 13:45:00",
+            "post_id": "431286",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Daz",
+            "text": "Ég var að nota \nProcess explorer\n til að fylgjast með mínu XPi einhverntíman. Hvort það getur loggað man ég reyndar ekki, en þú getur séð statta aftur í tímann og meðal annars CPU tíma á processum (og getur skoðað hvað hvert process er að gera, t.d. System, séð niðurbrotið hvaða dllar eru þar undir og hvað þeir eru að nota mikið CPU).",
+            "date": "2012-03-26 14:02:00",
+            "post_id": "431293",
+            "reply_to_id": "431286"
+        },
+        {
+            "user_name": "playman",
+            "text": "ok takk fyrir, skoða þetta",
+            "date": "2012-03-26 14:41:00",
+            "post_id": "431301",
+            "reply_to_id": "431293"
+        },
+        {
+            "user_name": "FreyrGauti",
+            "text": "http://technet.microsoft.com/en-us/sysi ... s/bb896645",
+            "date": "2012-03-26 14:51:00",
+            "post_id": "431302",
+            "reply_to_id": "431301"
+        }
+    ],
+    "date": "2012-03-26 13:45:00"
+}

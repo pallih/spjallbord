@@ -1,0 +1,23 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "65230",
+    "title": "Net yfir rafmagn spurning",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=65230",
+    "posts": [
+        {
+            "user_name": "gunni91",
+            "text": "Kvöldið vaktarar! \nEr með tvær spurningar sem ég finn ekki svar við á netinu!!\nÉg er semsagt með ljósnet frá vodafone ásamt myndlykli fyrir sjónvarpið.\nÉg er með svona gaura:\nhttp://www.netverslun.is/verslun/produc ... ,1061.aspx\nFyrsti er tengdur í vegginn hjá routernum og er tengdur í port númer 4 þar sem það er TV portið.\nSeinni er tengdur í vegginn hjá sjónvarpinu og tengist þar í myndlykilinn..\nÞetta virkar allt mjög fínt en núna vill ég losna líka við 25m langa ethernet snúru sem tengist í borðtölvuna inní svefnherberginu..\nÉg tengi þriðja stykkið inní svefnherbergi hjá mér sem er 25m í burtu frá routernum og ég fæ alltaf bara limited or no connectivity þar sem borðtölvan er að fá signal frá porti 4 sem er bara fyrir sjónvarpið.\nÞá spyr ég ykkur, er hægt að breyta port 4 svo það virki fyrir bæði sjónvarp og borðtölvuna? \nEf ekki, myndi virka að ég kaupi annað svona net yfir rafmagn stykki sem ég myndi tengja í port númer 1 á routernum og beint í vegginn?",
+            "date": "2015-04-10 21:43:00",
+            "post_id": "595936",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Nei það er ekki hægt að hafa port 4 bæði fyrir net og IPTV. \nFylgdi enginn hugbúnaður með þessu powerline dóti? Oft er hægt að hafa fleiri en eitt \"ID\" á þeim til að tilgreina mismunandi tengingar. Það er t.d. hægt með Trendnet powerline dótið veit ég.",
+            "date": "2015-04-10 22:16:00",
+            "post_id": "595937",
+            "reply_to_id": "595936"
+        }
+    ],
+    "date": "2015-04-10 21:43:00"
+}

@@ -1,0 +1,100 @@
+{
+    "forum_title": "Koníakstofan",
+    "id": "35384",
+    "title": "Bráðvantar CMOS rafhlöðu í Mac. Hjálp við að finna vel þegin",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=9&t=35384",
+    "posts": [
+        {
+            "user_name": "BjarniTS",
+            "text": "Hafi þið hugmynd um hvernig ég gæti komist yfir svona rafhlöðu : \nÞarna er um að ræða rafhlaða , cmos battery\ná þessu eru 2 hliðar og á þeim stendur : \nHlið 1 : \nPanasonic Japan CGL3032\nLion +3.7v\nHlið 2\n040729 2E40 102 001191\nLion No Mercury (Hg)\nMH12210 4053\nStærð rafhlöðu : \n2.7 cm u.þ.b\nÞetta kemur úr klukkubatteryinu á Powerbook G4 og þetta er erfitt að finna , til dæmis á ebay ,er nú þegar búinn að panta eitt svona að utan og fá hingað heim og það var dáið , rétt eins og mitt eigið er og flest virðast vera sem hafa verið notuð lengur en 4 - 5 ár.\nEru einhverjir sem gætu hjálpað mér við að gramsa á netinu eftir þessu eða sagt mér hvort ég geti notað eitthvað annað í staðinn sem myndi gera sama gagn.\nEr að leita af nýrri svona rafhlöðu , ekki notað.",
+            "date": "2011-01-12 23:42:00",
+            "post_id": "312217",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Svo lengi sem rafhlaðan er 3.7V og svipuð að stærð held ég að þú ættir nú að vera í góðum málum \nHefurðu prófað að tala við Epli, Íhluti og/eða Örtækni?",
+            "date": "2011-01-12 23:46:00",
+            "post_id": "312221",
+            "reply_to_id": "312217"
+        },
+        {
+            "user_name": "BjarniTS",
+            "text": "Ertu viss um að það dugi ? , ef svo er þá er ég ennþá jákvæðari.\nRafborð er reyndar fyrirtæki sem ég sendi póst, en ætli maður prufi ekki epli.is og þetta örtækni og íhlutir , vona að þessir staðir séu bara með mail , en ég held að ég hafi komið að lokuðum dyrum á flestum stöðum þegar ég ætlaði að græja þetta fyrir löngu.\nEn sakar ekki að prufa aftur , en ef að þið finnið svona hér eða þar endilega láta vita.\nAnnars þá tilheyrir þetta PRAM rafhlöðunni í mac",
+            "date": "2011-01-12 23:53:00",
+            "post_id": "312222",
+            "reply_to_id": "312221"
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "ég keypti nú einhvern tímann cmos batterí í íhlutum.\nfarðu bara þangað með hana og þeir redda  þessu",
+            "date": "2011-01-12 23:59:00",
+            "post_id": "312223",
+            "reply_to_id": "312222"
+        },
+        {
+            "user_name": "zedro",
+            "text": "Ef það gengur ekkert hérna heima geturðu prufað þessa:\nhttp://www.smallbattery.company.org.uk/sbc_lir3032-vdy2.htm\n(Engin reynsla af minni hálfu)",
+            "date": "2011-01-13 00:26:00",
+            "post_id": "312227",
+            "reply_to_id": "312223"
+        },
+        {
+            "user_name": "urban",
+            "text": "getur athugað hreinlega hvort að það sé svona batterý í einhverju móðurborði sem að þú átt ábiggilega liggjandi hjá þér \nannars einnig í t.d. ljósmyndabúðum (jafnvel bensínsbúðum)\nþetta er ekkert sérstakt batterí í raun.\nnotað í fullt af vörum",
+            "date": "2011-01-13 02:07:00",
+            "post_id": "312246",
+            "reply_to_id": "312227"
+        },
+        {
+            "user_name": "zedro",
+            "text": "@urban: Ertu nú allveg viss? Ég hugsaði það líka þangað til að ég skoðaði rafhlöðuna!\nÞað eru einhverjir spes flipar á þessum gaurum",
+            "date": "2011-01-13 02:38:00",
+            "post_id": "312247",
+            "reply_to_id": "312246"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Rafborg.is = flytja inn panasonic batterý og eiga alltaf allar mögulegar og ómögulegar gerðir af batterýum...",
+            "date": "2011-01-13 08:34:00",
+            "post_id": "312267",
+            "reply_to_id": "312247"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Venjulegt CMOS batterý er CR2032 og fæst á ansi mörgum stöðum, þetta er hinsvegar CGL3032 batterý\nHérna\n eru step-by-step leiðbeiningar fyrir, hvernig á að skipta um á Powerbook (ef einhver annar lendir á þessum þræði í framtíðinni)",
+            "date": "2011-01-13 09:49:00",
+            "post_id": "312275",
+            "reply_to_id": "312267"
+        },
+        {
+            "user_name": "BjarniTS",
+            "text": "Takk fyrir þetta , já þetta er rétt hjá þér og þarna á síðustu glærunni er hann kominn með PRAM Unit sem að inniheldur þetta battery.\nÞað eru svona flipar já sem halda því en mér sýnist að þeir séu lóðaðir bara á , en annars þá eru restarnar af þessum flipum á rafhlöðuni sem ég er með mynd af.\nEn annars þá er ég að bíða bara eftir svörum frá fyrirtækjum , \nTveir búnir að svara : \n1 : \n\"Við eigum til 2032 sem er 3 volt með lóðflibum. \" \n2 :\n \"Sæll,\nÞað sem memst næst þessu hjá mér er CR2032L sem er með lóðspöðum og liggur á prentborði, kostar Kr. 483-.\nHún er hinsvegar bara 3V,\"",
+            "date": "2011-01-13 10:20:00",
+            "post_id": "312287",
+            "reply_to_id": "312275"
+        },
+        {
+            "user_name": "BjarniTS",
+            "text": "Takk fyrir póstinn , ég endaði á að panta þaðan þar sem að ég fékk aldrei fullnægjandi svör frá neinu einasta fyrirtæki hérna heima um hvort þetta myndi ganga.\nOg að sjálfsögðu var tölvupóstinum mínum til epli.is ekki einusinni svarað með svo mikið sem \"ok\"",
+            "date": "2011-01-18 14:19:00",
+            "post_id": "313842",
+            "reply_to_id": "312287"
+        },
+        {
+            "user_name": "zedro",
+            "text": "Geggjað, segjir okkur svo hvernig fer.",
+            "date": "2011-01-18 21:25:00",
+            "post_id": "314006",
+            "reply_to_id": "313842"
+        },
+        {
+            "user_name": "BjarniTS",
+            "text": "Var að fá þetta frá rafmagnsmeistaranum mínum , hann swappaði rafhlöðunum og lóðaði þetta svo þetta er betra en nýtt.\nSet þetta í á næstu dögum og ég sé ekkert því til fyrirstöðu að þetta muni ganga vel.",
+            "date": "2011-01-31 00:07:00",
+            "post_id": "317434",
+            "reply_to_id": "314006"
+        }
+    ],
+    "date": "2011-01-12 23:42:00"
+}

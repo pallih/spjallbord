@@ -1,0 +1,30 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "75511",
+    "title": "CM Hyper 212 turbo vifta virkar ekki, Nýtt setup.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=75511",
+    "posts": [
+        {
+            "user_name": "Bowtech",
+            "text": "Góðann dag \nEr í vandræðum með að cpu viftan fari í gang.  Er með glænýtt setup í gangi. Asusu Crosshair VI heri borð, Vifta CM Hyper 212 turbo dualfan, Asus GF 1070Ti kort.\nEr búinn að vera að breyta stillingum í móðurborðinu en ekkert breytist.  Cooler Master Hyper 212 turbo er dual fan vifta og hvor vifta er með 4 pinna tengi. En það kemur með Y-spliti sem er 4 pinna á öðru og 3pinna á hinu og tengið sem fer í móðurborðið það er 4 pinna.  Vifturna vinna á rpm 600-1600\nGetur verið að það hafi áhrif að Y-splittið er ekki eins.  ég var ekki búinn að prófa tengja sitthvora viftuna í cpu fan og opt cpu fan. En gæti það ekki haft áhrif á hvernign þeim er stjórnað eða?\nÉg prófaði fyrst með annarri viftu og hún fór í gang um leið.    Prófaði gömlu viftuna sem var CM V8 v1 3 pinna og hún virkaði ekki sama hvað ég reyndi.\nEða gæti verið að Bios þurfi að uppfæra?\nhttps://www.asus.com/Motherboards/ROG-C ... R-VI-HERO/\nhttp://www.coolermaster.com/cooling/cpu ... led-turbo/\nAllar ráðleggingar velþegnar.\nMeð fyrirfram þökk.",
+            "date": "2018-02-08 09:19:00",
+            "post_id": "666646",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "mercury",
+            "text": "Þarft ekki að nota þennan spitter frekar en þú villt. Passaðu upp á að tengja amk aðra viftuna eða splitterinn í cpu fan portið. Ætti að vera rétt fyrir ofan cpu socketið.",
+            "date": "2018-02-08 09:35:00",
+            "post_id": "666647",
+            "reply_to_id": "666646"
+        },
+        {
+            "user_name": "Emarki",
+            "text": "Y-splitterinn er fyrir þá sem eru með bara 1 cpu tengi. Víst þú ert með auka, cpu opt. Þá notarðu þau.\nÉg myndi halda að það sé eitthvað að splitternum víst þetta er svona.\nTengdu þær í cpu fan og cpu fan opt. Þá virkar þetta fínt og þú getur sett upp í bios eða notað fan expert í asus ai-suite til að fínstilla þær eða tjekka hvort þær starfa ekki alveg eins.\nKv. Einar",
+            "date": "2018-02-09 00:02:00",
+            "post_id": "666691",
+            "reply_to_id": "666647"
+        }
+    ],
+    "date": "2018-02-08 09:19:00"
+}

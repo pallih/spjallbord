@@ -1,0 +1,51 @@
+{
+    "forum_title": "Koníakstofan",
+    "id": "46206",
+    "title": "Setja upp Media Center",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=9&t=46206",
+    "posts": [
+        {
+            "user_name": "Arkidas",
+            "text": "Ég er með MBP með 120GB SSD og langar að færa media efnið mitt á borðtölvuna heima og setja svo upp auðveldan aðgang fyrir það á makkanum mínum. Hvernig væri best að gera þetta? Bara setja shortcut á þessa möppu á hinni vélinni í Finderinn minn / desktop? Hef aldrei notað media center þannig þigg öll ráð!",
+            "date": "2012-03-01 19:56:00",
+            "post_id": "425371",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "krat",
+            "text": "Ertu með PC borðtölvu?\nXBMC er besta forritið til að notast við media center \nhttp://www.xbmc.org\nBest er að share bara drivinu eða folderunum sem þér langar að skoða í hinni vélinni.",
+            "date": "2012-03-01 21:04:00",
+            "post_id": "425404",
+            "reply_to_id": "425371"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Deila möppunni yfir network (ekki glóru hvernig það er gert í iOS en getur varla verið flókið) og setja upp XBMC/Plex í þeirri vél sem á að nota fyrir áhorfið og setja þetta allt í library-ið og láta media forritin scrape-a info fyrir þetta allt - Þá ættiru að vera orðinn þokkalega vel settur.\nGrundvallaratriði að vera með allar möppur og skrár vel flokkaðar.",
+            "date": "2012-03-01 21:06:00",
+            "post_id": "425406",
+            "reply_to_id": "425404"
+        },
+        {
+            "user_name": "Arkidas",
+            "text": "Síðan ef ég vil nálgast efnið þegar ég er heima hjá vini mínum hvað þá?",
+            "date": "2012-03-01 21:48:00",
+            "post_id": "425416",
+            "reply_to_id": "425406"
+        },
+        {
+            "user_name": "arnif",
+            "text": "t.d ftp...",
+            "date": "2012-03-01 21:59:00",
+            "post_id": "425420",
+            "reply_to_id": "425416"
+        },
+        {
+            "user_name": "Hrotti",
+            "text": "Ég fíla xbmc betur sjálfur en ég hugsa að plex væri sniðugra í þínu tilfelli, það býður uppá að horfa yfir internetið (transkóðar), ekki bara lan. Þú setur upp plex server á vélinni sem að geymir efnið og client á þeirri sem að þú horfir í. Það virkar líka fyrir iPad og iPhone m.a.",
+            "date": "2012-03-01 23:23:00",
+            "post_id": "425445",
+            "reply_to_id": "425420"
+        }
+    ],
+    "date": "2012-03-01 19:56:00"
+}

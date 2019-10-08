@@ -1,0 +1,79 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "11215",
+    "title": "SpeedTouch 585 v6. Firmware 6.1.0.5",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=11215",
+    "posts": [
+        {
+            "user_name": "cue",
+            "text": "Hér er nýtt firmware fyrir SpeedTouch 585 v6. Þessi sem ég er með var með v5.4.0.15 minnir mig. \n\nÞetta er v6.1.0.5. Ég hef ekki grun hvað er búið að lagfæra, það ætti að koma í ljós á næstu dögum.\n\n\n\nFirmware.\n\nhttp://mirror.opensourcehub.com/pub/spe ... s/ST585v6/\n\n\nUtill\n\nhttp://mirror.opensourcehub.com/pub/spe ... /v4.4.2.1/\n\n\n\n\nP.S EKKI! uppfæra þráðlaust! Allar stillingar héldust inni eftir uppfærsluna hjá mér. En firmware uppfærslur eru alltaf varasamar. Ég veit ekki um neitt firmware fyrir v6 hjá Símanum þannig að ef það þarf að setja aftur inn gamla þá veit ég ekki hvernig á að gera það eða hvort það er hægt.\n\n\n\nÉg er ekki með sjónvarp í gegnum ADSL, þannig að ég veit ekki hverju þetta breytir þar.",
+            "date": "2006-06-25 20:14:00",
+            "post_id": "122628",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Xyron",
+            "text": "þetta er frekar tilgangslaus uppfærsla, eina sem hún lagar er að laga bögg sem var í fyrra firmwarinu. Sem gerði það að verkum að SSID-ið var ekki það sama og aftan á routerinum, þetta gerist samt alls ekki hjá öllum með SSID-ið..",
+            "date": "2006-06-28 16:29:00",
+            "post_id": "122856",
+            "reply_to_id": "122628"
+        },
+        {
+            "user_name": "Rusty",
+            "text": "Get nú ekki sagt að hún sé þá tilgangslaus.",
+            "date": "2006-06-28 18:01:00",
+            "post_id": "122867",
+            "reply_to_id": "122856"
+        },
+        {
+            "user_name": "cue",
+            "text": "Það er ekki rétt hjá þér.\nÉg er búinn að sjá nokkrar viðbætur, ekkert sem ég get notað nema þetta. Ennþá...",
+            "date": "2006-06-28 19:17:00",
+            "post_id": "122875",
+            "reply_to_id": "122867"
+        },
+        {
+            "user_name": "hilmar_jonsson",
+            "text": "Ætli þetta lagi það að tengingni slítur sér einu sinni á 24klst fresti?",
+            "date": "2006-06-28 19:26:00",
+            "post_id": "122876",
+            "reply_to_id": "122875"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "Prófaðu að hækka dhcp lease time.",
+            "date": "2006-06-28 20:34:00",
+            "post_id": "122878",
+            "reply_to_id": "122876"
+        },
+        {
+            "user_name": "Xyron",
+            "text": "prófaðu að fara inná routerinn og fara í Brodband connection > DSL connection > view more í dsl connection > details í hægra horninu > hvað stendur í \"Line Attenuation (Up/Down) [dB]: ..",
+            "date": "2006-06-28 22:08:00",
+            "post_id": "122886",
+            "reply_to_id": "122878"
+        },
+        {
+            "user_name": "hilmar_jonsson",
+            "text": "Line Attenuation (Up/Down) [dB]: 14,5 / 31,5",
+            "date": "2006-06-28 23:03:00",
+            "post_id": "122893",
+            "reply_to_id": "122886"
+        },
+        {
+            "user_name": "Fumbler",
+            "text": "Ef þú værir með TVoDSL þá myndi það líklega hætta að virka. vegna þess að firmware sem síminn notar er sérstaklega modað til þess að vísa TV merkinu á port 4.\n\nÞannig að þeir sem eru að nota sjónvarp um ADSL, takið afrit áður, þú getir FTPað þið inná routerinn og sótt skránna þangað, hún er í faldri möppu, ég skelli því inn á morgun, man ekki núna hvað hún heitir.",
+            "date": "2006-06-29 00:07:00",
+            "post_id": "122901",
+            "reply_to_id": "122893"
+        },
+        {
+            "user_name": "Xyron",
+            "text": "hef heyrt því fleygt fram að þegar þú ert með um 32 db deyfingu á línu þá ertu kominn í frekar mikla áhættu á að vera að detta út.. þú ert með 31,5 svo það er nánast alveg pottþétt að það sé ástæðan fyrir því að þú sért að detta út.\n\n\n\nDeyfinginn orsakst væntanlega vegna þess að þú ert of langt frá símstöð, lélegar innanhúslagnir eða sætið(fyrir þitt nr.) í símkassanum útí götu sé lélegt",
+            "date": "2006-06-29 13:57:00",
+            "post_id": "122933",
+            "reply_to_id": "122901"
+        }
+    ],
+    "date": "2006-06-25 20:14:00"
+}

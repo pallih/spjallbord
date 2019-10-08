@@ -1,0 +1,79 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "62882",
+    "title": "Touchpad virkar ekki!",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=62882",
+    "posts": [
+        {
+            "user_name": "krissi24",
+            "text": "Ég er með Easynote MX61 fartölvu og touchpad-ið vill bara ekki virka :/ Hefur einhver lent í sama veseni?",
+            "date": "2014-10-18 21:38:00",
+            "post_id": "577533",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Bjosep",
+            "text": "Ég lenti í svona á ACER fartölvu sem ég á, windows vista, og lausnin fólst í því að setja upp rekilinn á nýtt.\nÞú hefur ekki óvart slökkt á þessu bara?",
+            "date": "2014-10-18 23:40:00",
+            "post_id": "577539",
+            "reply_to_id": "577533"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "Ég er búinn að setja inn alla rekla, einnig prufa að láta driver scanner yfirfara reklana en ekkert virðist virka \n, Hún er að keyra Win7 Pro 32 bit. Er þetta kannski bara gallaðar tölvur hvað varðar touchpad-ana á þeim? Það er frekar langt síðan ég fékk þessa vél og mér datt allt í einu í hug að reyna þetta aftur en þetta virðist ekkert ætla lagast. Kannski er þetta bara bilað á þessari vél. Ætli sé mikið mál og dýrt að láta skipta þessu út? Ef það er yfir höfuð hægt?",
+            "date": "2014-10-19 03:11:00",
+            "post_id": "577544",
+            "reply_to_id": "577539"
+        },
+        {
+            "user_name": "upg8",
+            "text": "Prófað að ýta á F6? Ætti að vera toggle takki fyrir músina ef ég man rétt.",
+            "date": "2014-10-19 07:16:00",
+            "post_id": "577546",
+            "reply_to_id": "577544"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "Ég prófaði það en það virkaði ekki, prófaði einnig aðra F takka en það þýddi ekkert \n Svona lítur lyklaborðið út:",
+            "date": "2014-10-19 19:42:00",
+            "post_id": "577594",
+            "reply_to_id": "577546"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Hvað er þetta á F5 takkanum?? kemur músin ekki inn ef að þú heldur inni fn takkanum og F5",
+            "date": "2014-10-19 22:27:00",
+            "post_id": "577609",
+            "reply_to_id": "577594"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "Þetta er LCD only tákn? Það kemur allavega þegar ég ýti á þennan takka.",
+            "date": "2014-10-19 23:55:00",
+            "post_id": "577612",
+            "reply_to_id": "577609"
+        },
+        {
+            "user_name": "atlifreyrcarhartt",
+            "text": "Halda FN inni og yta a F5 þetta er til að geta slökkt og kveikt á tuchpad'inu\nef það virkar ekki þá er þetta bilað most like hardware frekar en software",
+            "date": "2014-10-20 02:27:00",
+            "post_id": "577616",
+            "reply_to_id": "577612"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "Þegar ég ýti á þessa takka þá kemur tákn uppí vinstra horninu af fartölvu og undir því stendur: ,,LCD only\"",
+            "date": "2014-10-20 02:55:00",
+            "post_id": "577618",
+            "reply_to_id": "577616"
+        },
+        {
+            "user_name": "Bjosep",
+            "text": "F5 er ekki fyrir touchpad heldur til að skipta á milli skjáa sbr táknið á takkanum. Mér sýnist á öllu að það sé enginn takki til þess að kveikja/slökkva á snertifletinum. Þú gætir prufað að ýta á þá alla og sjá hvort snertiflöturinn byrjar að virka.\nEf þú ferð í device manager, er snertiflöturinn til staðar þar? Ef svo hvaða upplýsingar sérðu.\nEf ekki, farðu þá í BIOS mögulega og sjáðu hvort þú finnur snertiflötinn þar. Og bara svona einfaldasta brellan að velja \"load default settings\" eða \"load optimized settings\" eða eitthvað álíka.\nÁttu leiðarvísinn fyrir tölvuna þína? Ég finn ekkert á packardbell.com um mx 61, hér er bútur úr leiðarvísinum fyrir mx 52 um hvað á að gera ef snertiflöturinn hættir að virka.\nP.S. Hvað gerir Fn + F11 ?",
+            "date": "2014-10-20 09:03:00",
+            "post_id": "577624",
+            "reply_to_id": "577618"
+        }
+    ],
+    "date": "2014-10-18 21:38:00"
+}

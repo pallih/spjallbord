@@ -1,0 +1,44 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "3698",
+    "title": "Loksins sæmilegur Celeron",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=3698",
+    "posts": [
+        {
+            "user_name": "wICE_man",
+            "text": "Jæja, þá hefur Intel loksins bætt sig í ódýru deildinni og eru nú að koma út með endurbættan Celeron byggðan á prescott kjarnanum. \n\n\n\nÞeir sem hafa fylgst með hafa kanski séð að Prescott kjarninn afkastar síður en svo meiru en Northwood svo í hverju eru endurbæturnar fólgnar?\n\n\n\nTil að byrja með hafa Intel menn aukið L2 skyndiminnið frá 128KB upp í 256KB sem er algjört lágmark fyrir forrit í dag, gamli Celeron gjörvinn var alltaf að skíta á sig vegna þess að þegar BPið (branch prediction) klikkaði þá voru miklar líkur á \"L2 cache miss\", þ.e. örgjörvinn þarf skyndilega upplýsingar sem er ekki að finna í skyndiminni. Intel gjörvar hafa langan biðtíma fyrir gögn í minni (vel yfir 100ns) og hann eykst til muna fyrir gjörva á 400MHz gagnabraut (150-200ns). Mönnum kann að finnast þetta lítill tími en þegar slíkt gerist á 100-200ns fresti (ekki óalgengt í örgjörva sem gerir 2-3 aðgerðir á ns) þá getur forritsbútur tekið 2-3svar sinnum lengri tíma að keyrast en ella.\n\n\n\nTil að bæta um betur hefur gagnabrautinni verið hraðað og gengur nú á 533MHz, þetta lækkar tímann sem tekur að ná í gögn í minni og stittir biðtímann eitthvað.\n\n\n\nÚtkoman er örgjörvi sem getur hugsanlega keppt við gömlu AthlonXP gjörvana í ódýru deildinni, 2.4GHz (prescott) Celeron hefur sennilega svipaða afkastagetu og XP2200+ eða XP2400+ yfir heildina litið og mun sennilega yfirklukkast mjög vel. Áætlað verð verður í kringum 70 evrur þ.e. ca. 10þús komnir upp á klakann.\n\n\n\nFyrir þá sem kunna frönsku, aðrir verða að nota bablefish:\n\n\n\nhttp://www.x86-secret.com/popups/articleswindow.php?id=101",
+            "date": "2004-04-05 10:14:00",
+            "post_id": "36998",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "wICE_man",
+            "text": "Láðist að nefna að hann kemur ekki á markað fyrr en í sumar og þá lægst sem 2.53GHz týpa, áætlað verð á þeim er semsagt 70 evrur.",
+            "date": "2004-04-05 10:17:00",
+            "post_id": "37000",
+            "reply_to_id": "36998"
+        },
+        {
+            "user_name": "Nemesis",
+            "text": "Góður póstur, gaman að lesa rjómann af vélbúnaðarfréttum á íslensku hérna á vaktinni \n.\n\n\n\nAnnars kostar Athlon XP 2500+ 7.750 kr. í dag, hann verður þá líklega jafnvel enn ódýrari í sumar, þannig að mér sýnist AMD vera vænlegri í ódýrari hluta örgjörvamarkaðarins þrátt fyrir þetta útspil Intel.",
+            "date": "2004-04-05 10:50:00",
+            "post_id": "37004",
+            "reply_to_id": "37000"
+        },
+        {
+            "user_name": "wICE_man",
+            "text": "Já, það mun víst seint breytast, ekki það að Intel gætu hæglega lækkað verðin á Celeron línunni enn meir, sérstaklega þessum nýju enda kjarnarnir pínulittlir á 90nm process. Þeir munu samt sennilega ekki gera það.",
+            "date": "2004-04-05 12:28:00",
+            "post_id": "37010",
+            "reply_to_id": "37004"
+        },
+        {
+            "user_name": "Hlynzi",
+            "text": "Haldiði ekki miðað við fyrri Prescott að þetta verði GrillMcGrill.",
+            "date": "2004-04-07 22:23:00",
+            "post_id": "37353",
+            "reply_to_id": "37010"
+        }
+    ],
+    "date": "2004-04-05 10:14:00"
+}

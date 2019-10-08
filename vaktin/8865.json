@@ -1,0 +1,107 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "8865",
+    "title": "Remote Desktop",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=8865",
+    "posts": [
+        {
+            "user_name": "andrig",
+            "text": "Góða kvöldið.\n\nÉg er með eina fartölvu og eitt stikki borðtölvu..\n\nþær eru báðar tengdar í gegnum wireless network, og ég er að reyna að nota Remote Desktop sem er innbygt í WinXP (Start\\All Programs\\Accessories\\Communications\\Remote Desktop) og þá slæ ég inn ip á hinni borðtölvuni í gluggan þar.\n\nÞá kemur:\n\nKóði: \nVelja allt\nThe client could not connect to the remote computer.\nRemote connections might not be enabled or the computer might be too busy to accept new connections.\nIt is also possible that network problems are preventing your connection.\n\n\n\n\nveit einhver hvað er að?",
+            "date": "2005-10-23 19:06:00",
+            "post_id": "94856",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gnarr",
+            "text": "geturu alveg pingað og share-að og allt þannig? með hakað við \"allow users to connect remotely to this computer\" ? með innanhúss dns á báðum tölvum?",
+            "date": "2005-10-23 19:09:00",
+            "post_id": "94858",
+            "reply_to_id": "94856"
+        },
+        {
+            "user_name": "andrig",
+            "text": "ég var ekki með hakað í að leifa öðrum tölvum að connecta.. komið í lag núna..\n\nen ég er með laptopinn og er að fara á pc vélina, er ekki hægt að vera í pc vélinni á meðan ég er að stjórna henni.. því að þegar að ég er tengdur henni þá loggast ég út og ef að ég logga mig aftur inn dettur remote desktop út\n\nedit: og verð ég að hafa password á tölvuni",
+            "date": "2005-10-23 19:35:00",
+            "post_id": "94860",
+            "reply_to_id": "94858"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "",
+            "date": "2005-10-23 19:43:00",
+            "post_id": "94861",
+            "reply_to_id": "94860"
+        },
+        {
+            "user_name": "arro",
+            "text": "Flott dæmi Gnarr... þetta gæti ég notað... ertu búinn að prófa þetta ?",
+            "date": "2005-10-23 22:58:00",
+            "post_id": "94880",
+            "reply_to_id": "94861"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "já.",
+            "date": "2005-10-24 02:04:00",
+            "post_id": "94899",
+            "reply_to_id": "94880"
+        },
+        {
+            "user_name": "Arnarr",
+            "text": "þessi linkur þinn á termsrv.dll skrána virkar ekki!! Vantar link sem virkar. Og hvar fanstu þetta?? hef leitað mikið á google.com og finn ekkjart",
+            "date": "2005-10-28 19:51:00",
+            "post_id": "95253",
+            "reply_to_id": "94899"
+        },
+        {
+            "user_name": "Bassi6",
+            "text": "\"Linkurinn\" virkar vel hér bara hægri klikka og save image",
+            "date": "2005-10-29 13:35:00",
+            "post_id": "95283",
+            "reply_to_id": "95253"
+        },
+        {
+            "user_name": "Arnarr",
+            "text": "hjálp mér vantar .dll fælinn og hægri klikk virkar ekki",
+            "date": "2006-04-29 19:06:00",
+            "post_id": "117714",
+            "reply_to_id": "95283"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "http://spjall.vaktin.is/files/rename-i___essa_skr____-termsrv.dll-.jpg\n\n\n\n\nklikkaðu á þetta og gerðu \"save target as..\"",
+            "date": "2006-04-30 01:11:00",
+            "post_id": "117748",
+            "reply_to_id": "117714"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Gnarr að komast framhjá file type bönnum! Haxxx0r!",
+            "date": "2006-04-30 09:26:00",
+            "post_id": "117757",
+            "reply_to_id": "117748"
+        },
+        {
+            "user_name": "hallihg",
+            "text": "Ef þú þarft að ganga í gegnum svona feitt vesen með þetta innbyggða windows remote desktop, gerðu þá frekar eins og ég og notaðu RAdmin. Það er frábært forrit sem gerir nákvæmlega það sama og er þægilegra ef eitthvað er.",
+            "date": "2006-04-30 11:20:00",
+            "post_id": "117762",
+            "reply_to_id": "117757"
+        },
+        {
+            "user_name": "Fumbler",
+            "text": "Já mig þætti gaman að sjá þig tengjst inná tölvuna með radmin á meðan annar er að vinna í tölvuni án þess að trufla.\n\nÞannig að þið getið verið 2 eða fleirri að vinna í sömu tölvu í einu.\n\n\n\nÞað er bara ekki hægt. Þess vegna er fólk að standa í þessu \"veseni\".",
+            "date": "2006-04-30 13:18:00",
+            "post_id": "117783",
+            "reply_to_id": "117762"
+        },
+        {
+            "user_name": "Rusty",
+            "text": "Er það eitthvað hægt á windows í gegnum Remote Desktop forrit? Þyrfti ekki telnet til að stilla það þá?",
+            "date": "2006-04-30 23:16:00",
+            "post_id": "117823",
+            "reply_to_id": "117783"
+        }
+    ],
+    "date": "2005-10-23 19:06:00"
+}

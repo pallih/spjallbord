@@ -1,0 +1,44 @@
+{
+    "forum_title": "Leikjasalurinn",
+    "id": "19065",
+    "title": "dett út úr cs eftir nokkrar sek",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=14&t=19065",
+    "posts": [
+        {
+            "user_name": "Aimar",
+            "text": "jæja, vandamálið er þetta.  þegar ég spila cs 1.6 þá um leið og leikurinn hlest upp og maður velur lið eða á næstu nokkrum sekundum. mismunandi.  þá dettur leikurinn út og ég dett í windows.  ef ég hlep upp borð hjá mér ( er ekki með botta þá gerist þetta ekki).\nbuinn að prufa að hlaða niður steam aftur, nota grunnstillingar.  setja upp windows aftur.  nýja rekla fyrir skjákortin. nýjan router og láta mann koma og stilla hann.\ndettur ekkert fleira í hug.  einvherjar hugmyndir?   er þetta eitthvað með stillingar í skjáreklanum eða með nettenginguna?",
+            "date": "2008-08-20 12:54:00",
+            "post_id": "180799",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Meira info um hvernig leikurinn dettur út og þú í windows og ég ætti að geta hjálpað.",
+            "date": "2008-08-20 16:50:00",
+            "post_id": "180812",
+            "reply_to_id": "180799"
+        },
+        {
+            "user_name": "mind",
+            "text": "Mögulegt að þetta sé memory dump ?\nEitthvað breyst hardware eða er þetta ný vél ? \nHvaða windows ?",
+            "date": "2008-08-20 17:44:00",
+            "post_id": "180818",
+            "reply_to_id": "180812"
+        },
+        {
+            "user_name": "Aimar",
+            "text": "nýtt móðurborð og ný skjákort.  vista nýuppsett (orginal útgáfa)",
+            "date": "2008-08-21 07:39:00",
+            "post_id": "180851",
+            "reply_to_id": "180818"
+        },
+        {
+            "user_name": "mind",
+            "text": "Erfitt að bilanagreina þetta útfrá bara þessu , er einhver annar leikur eða hugbúnaður leiðinlegur við þig ?\nGeturðu prufað að hafa botta með ? eins marga og þú getur og séð hvort þetta krassar þá ?\nÞú ert með yfirklukkaða vél , það gæti auðveldlega verið sökudólgurinn.\nAnnars...\nÓlíklegt en getur verið Crossfire - getur disablað það til að prófa.\nÓlíklegt en getur verið orkufrekja í 2x 4870 kortum (getur prufað hafa bara 1 til að útiloka)\nMöguleiki að þetta sé innra minni , getur prufað að hafa bara 1 minniskubb í einu í vélinni",
+            "date": "2008-08-21 09:56:00",
+            "post_id": "180854",
+            "reply_to_id": "180851"
+        }
+    ],
+    "date": "2008-08-20 12:54:00"
+}

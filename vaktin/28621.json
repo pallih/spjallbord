@@ -1,0 +1,128 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "28621",
+    "title": "Net-Hjálp",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=28621",
+    "posts": [
+        {
+            "user_name": "muntok",
+            "text": "Sælir\nÉg er nýkominn með 50MB/s ljósleiðara frá Vodafone og hraðinn er á stundum svaka fínn.\nÞað er hins vegar að bögga mig alveg rosalega að þegar ég er með torrent í gangi er eins\nog að routerinn ráði ekki við það.\nÞetta lýsir sér þannig að þegar tölvan er búin að malla á torrent í einhvern tíma verður\nleiðinlegt að bowsa netið á báðum tölvunum á heimilinu, torrentvélin er tengd við\nrouterinn með snúru en fartölvuna nota ég þráðlaust.\nHeimasíður eru endalaust lengi að birtast og oftar en ekki kemur melding um að síðan\ngæti legið niðri. (verra en 56k)\nAllt lagast þetta þegar ég endurræsi routerinn en bara um stund.\n-Ég er búinn að fá nýjann router\n-Búinn að festa IP tölu og nota ákveðið port fyrir torrent\n-Búinn að takmarka fjölda tenginga í torrent\nEf þið spekingarnir hafið einhverjar tillögur um hvað gæti valdið þessu væri það frábært.\nKv",
+            "date": "2010-03-01 21:23:00",
+            "post_id": "247645",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Routerinn NBG420N?",
+            "date": "2010-03-01 21:27:00",
+            "post_id": "247648",
+            "reply_to_id": "247645"
+        },
+        {
+            "user_name": "muntok",
+            "text": "Hann heitir Bewan og er hvítur, hár og hægt að setja 3G lykil í hann og lítur svona út",
+            "date": "2010-03-01 21:39:00",
+            "post_id": "247655",
+            "reply_to_id": "247648"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Reyndu að fá NBG420N, ég þekki þennan Bewan router ekki neitt því miður.",
+            "date": "2010-03-01 21:47:00",
+            "post_id": "247658",
+            "reply_to_id": "247655"
+        },
+        {
+            "user_name": "muntok",
+            "text": "En er ekki nánast öruggt að þetta sé routerinn?\nSjónvarpið virkar alltaf fínt og ég er búinn að prófa að svissa\nkapli frá ljósleiðaraboxi á milli routers og afruglara og netið breytist\nekki og sjónvarpið/afruglarinn alltaf í lag...",
+            "date": "2010-03-02 10:28:00",
+            "post_id": "247737",
+            "reply_to_id": "247658"
+        },
+        {
+            "user_name": "mind",
+            "text": "Líklegast kemur þetta NAT töflunni við.\nNýr router leysir vandamálið eflaust ekki,  bara breytir einkennum þess. \nEf þú vilt komast hjá þessu þarftu eflaust aðgang á routerinn og svo nennu og þekkingu í að handstilla að það séu frátekið ákveðið magn af NAT töflunni undir HTTP.\nEf ekki það neyðistu til að lækka hraða og fjölda tenginga töluvert meira en þú ert nú þegar eflaust búinn að gera.\nÍ hvað ?",
+            "date": "2010-03-02 11:08:00",
+            "post_id": "247743",
+            "reply_to_id": "247737"
+        },
+        {
+            "user_name": "muntok",
+            "text": "Upphal takmarkað við \n5.5MB/s\nTengingar ekki fleiri en \n950\nEkki fleiri virk torrent en\n20\nNennuna hef ég en ekki þekkinguna \nÞá er best að hringja bara í þjónustuverið og væla yfir því hvað ég sé óánægður með tenginguna og vona að þeir geti lagað þetta eitthvað",
+            "date": "2010-03-02 21:46:00",
+            "post_id": "247912",
+            "reply_to_id": "247743"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "er ekki 950 tengingar í hærri kantinum?\nég er að nota 100, reyndar bara á adsl tengingu... en samt.\nSakar allavega ekki að prófa að lækka það eitthvað meira.",
+            "date": "2010-03-02 21:56:00",
+            "post_id": "247921",
+            "reply_to_id": "247912"
+        },
+        {
+            "user_name": "muntok",
+            "text": "Jú kannski er það í hærri kantinum en ég er á HD-torrentsíðu og verð\nhelst að geta haldið ágætis upphlaði, það myndi kannski ekki saka að \nfækka þeim eitthvað frekar?",
+            "date": "2010-03-02 21:59:00",
+            "post_id": "247926",
+            "reply_to_id": "247921"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Ef að þú ert á HD torrentsíðu ættu flestir að vera með assgoti góðan DL hraða, prófaðu að setja þetta þessvegna í 5 per torrent, 20 torrent allowed  og global maximum 0(ótakmarkað)",
+            "date": "2010-03-02 22:01:00",
+            "post_id": "247928",
+            "reply_to_id": "247926"
+        },
+        {
+            "user_name": "muntok",
+            "text": "Prófa þetta takk",
+            "date": "2010-03-02 22:08:00",
+            "post_id": "247935",
+            "reply_to_id": "247928"
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "max 300 tengingar maður, þó að þetta sé ljósleiðari \n \nfyrir öll torrent OG fyrir hvert torrent 150.\nedit:\nbtw, þessi router kicks ass!",
+            "date": "2010-03-02 22:13:00",
+            "post_id": "247938",
+            "reply_to_id": "247935"
+        },
+        {
+            "user_name": "starionturbo",
+            "text": "Verður ekki svikinn af þessum preferences.\nMyndi ekki fara mikið hærra en 500 tengingar á þessum cheap routerum.\nAnnars myndi ég skipa um router og setja NetGear, Cisco eða Gigabit D-link routerana.",
+            "date": "2010-03-02 22:19:00",
+            "post_id": "247942",
+            "reply_to_id": "247938"
+        },
+        {
+            "user_name": "mercury",
+            "text": "sorry off topic en ég er líka með þennan ljóta bewan router. er að reyna að opna port en user: admin og password admin er ekki að virka. hefur einhver hugmynd um hvað það er ?",
+            "date": "2010-03-03 16:29:00",
+            "post_id": "248086",
+            "reply_to_id": "247942"
+        },
+        {
+            "user_name": "andr1g",
+            "text": "user vodafone\npassword vodafone\nFyrir stjórnendaham",
+            "date": "2010-03-03 16:46:00",
+            "post_id": "248091",
+            "reply_to_id": "248086"
+        },
+        {
+            "user_name": "mercury",
+            "text": "var verið að redda mér þessu takk samt",
+            "date": "2010-03-03 16:54:00",
+            "post_id": "248093",
+            "reply_to_id": "248091"
+        },
+        {
+            "user_name": "Palmarlol",
+            "text": "Það skiptir engu máli hvort um er að ræða ljós eða adsl tengingu. Ástæðan fyrir því að síðurnar koma hægar upp er að þú ert beinlínis að fullnýta vinnslugetu routersins með því að troða svona miklu inn í NAT töfluna.\nBandvídd er sjaldnast vandamálið þegar netsíður eru hægar, miklu frekar svartími. Prófaðu næst þegar þér finnst þetta vera nokkuð hægt að pinga eitthvað úti á netinu (vodafone.is mbl.is eða eitthvað). Taktu eftir að svartími þinn mun líklega vera talsvert mikill. Ef þú síðan slekkur á torrent forritinu myndirðu sjá strax miklu lægri svartíma.\nJá, þetta er mjög góður router",
+            "date": "2010-03-06 01:00:00",
+            "post_id": "248772",
+            "reply_to_id": "248093"
+        }
+    ],
+    "date": "2010-03-01 21:23:00"
+}

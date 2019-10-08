@@ -1,0 +1,79 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "46750",
+    "title": "Linus Torvalds að skammast yfir öfga-öryggi",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=46750",
+    "posts": [
+        {
+            "user_name": "bjarkih",
+            "text": "Ég sá þetta á Google+ og datt í hug að einhver gæti haft gaman af þessu",
+            "date": "2012-03-25 15:21:00",
+            "post_id": "431065",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "dori",
+            "text": "Hahahaha... Þetta er náttúrulega svoo satt.",
+            "date": "2012-03-25 19:11:00",
+            "post_id": "431124",
+            "reply_to_id": "431065"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Þetta minnir mig á sudo skipunina í Ubuntu.",
+            "date": "2012-03-25 19:13:00",
+            "post_id": "431126",
+            "reply_to_id": "431124"
+        },
+        {
+            "user_name": "dori",
+            "text": "Ubuntu með `gksu` fella þetta inn í notendaviðmótið. Ef það virkar þannig að þú þarft virkilega að slá inn root lykilorðið til að gera þessar skipanir í gegnum GUI þá er eitthvað að.\nÞú átt að geta sagt. \"Þessi notandi er gæinn sem notar þessa tölvu. Hann má gera allt (en þarf lykilorð fyrir það sem er svona... \"spes\", bara svo að vinir hans fokki ekki í honum).\"",
+            "date": "2012-03-25 19:15:00",
+            "post_id": "431127",
+            "reply_to_id": "431126"
+        },
+        {
+            "user_name": "kubbur",
+            "text": "sudo make me a sandwitch",
+            "date": "2012-03-25 21:05:00",
+            "post_id": "431158",
+            "reply_to_id": "431127"
+        },
+        {
+            "user_name": "ORION",
+            "text": "Please enter password here:",
+            "date": "2012-03-25 21:09:00",
+            "post_id": "431160",
+            "reply_to_id": "431158"
+        },
+        {
+            "user_name": "marijuana",
+            "text": "sudo -i \nHvað notaðiru Ubuntu lengi án þess að læra þetta ?  \n \nAnnars er ég í OpenSuSE akkúrat núna, frekar leiðinlegt að setja password við hverja einustu breytingu !! \nEn líkar samt best við það kerfi !!",
+            "date": "2012-04-01 21:19:00",
+            "post_id": "432827",
+            "reply_to_id": "431160"
+        },
+        {
+            "user_name": "dori",
+            "text": "Hvað meinarðu með því? Geturðu ekki bara stillt sudo til að hegða sér eins og þú vilt?",
+            "date": "2012-04-01 21:24:00",
+            "post_id": "432829",
+            "reply_to_id": "432827"
+        },
+        {
+            "user_name": "marijuana",
+            "text": "OpenSuSE notar su ekki sudo ... sem er margþúsundsinnum betra .. \nEn meina, ef ég ætla að breyta klukkunni, \"Please insert your root password\", ef ég ætla að seta upp wireless connection, internet, \"Please insert your root password\" . \nlspci -> Absolute path to 'lspci' is '/sbin/lspci', so running it may require superuser privileges (eg. root).  (Gæti verið svona í fleiri linux kerfum, en samt, hvaða gagn er að því að leyfa mér þetta ekki án þess að vera root ?) \nog svona gæti ég ábyggilega talið upp þúsund hluti sem eru gersamlega useless að leyfa einungis root að breyta, lyklaborð þarf root user til að breyta !",
+            "date": "2012-04-02 13:07:00",
+            "post_id": "432947",
+            "reply_to_id": "432829"
+        },
+        {
+            "user_name": "dori",
+            "text": "Ah... Ég hef lent á slíkum umhverfum. Þar sem gksu virðist ekki nota sudo heldur su. Þetta er samt alveg klárlega eitthvað stillingaratriði. Mig minnir að það hafi verið eitthvað Debian desktop þar sem ég þurfti alltaf root lykilorð... Þori samt ekki að fara með það.",
+            "date": "2012-04-02 13:18:00",
+            "post_id": "432948",
+            "reply_to_id": "432947"
+        }
+    ],
+    "date": "2012-03-25 15:21:00"
+}

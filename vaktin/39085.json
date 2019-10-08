@@ -1,0 +1,86 @@
+{
+    "forum_title": "Símar, fartölvur, myndavélar og önnur farandstæki",
+    "id": "39085",
+    "title": "How to: Desire HD - Leedroid 3.1.3",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=26&t=39085",
+    "posts": [
+        {
+            "user_name": "FuriousJoe",
+            "text": "Hér er smá guide sem ég bjó til, og ætti að koma mönnum af stað sem vilja setja upp Leedroid 3.1.3\nA.T.H Þetta Guide er gert fyrir HTC Desire HD !\nNeðangreint ferli getur skemmt símann ef það er gert vitlaust !!!\nAndroid 2.3 Gingerbread\nMæli með því að þú prófir \nGingerbreak\nLestu leiðbeiningarnar vel yfir áður en þú prófar eitthvað sem þú þekkir ekki.\nÉg prófaði Gingerbreak eftir að ég flashaði Stock HTC 2.3 og tapaði Root þar, og þetta virkaði hjá mér, en það er ca 50% líkur á því að þetta virki ekki.\nÞá geturu rebootað, og prófað aftur. (ath stundum kemur að þetta hafi ekki tekist og eftir reboot þá ertu samt root, svo vertu með eitthvað root forrit til þess að tékka eftir hverja tilraun)\nAndroid 2.2 Froyo\nÉg fór eftir \nþessum leiðbeiningum\n og þær svínvirkuðu.\nAth vertu viss um að þú sért með software 1.32.405.6 - annars þarftu að downgreida.\n(Til að fá ADB Drivers til að virka rétt setti ég upp HTC Sync á PC og fékk þannig Desire HD Driverinn og allt virkaði eftir það)\nEf þú ert með software 1.32.405.6 þá ferðu bara beint í \nGaining Temporary Root Access\n og heldur áfram þaðan.\n(A.t.h slepptu \"Flashing the Engineering HBoot (Optional)\" og \"Installing ClockworkMod Recovery and Flashing a Radio & CyanogenMod\")\nÞegar það er klárt fór ég eftir þessum leiðbeiningum. \nEkki halda áfrám ef þú ert ekki búinn að ROOT-a símann!\n    Root the device and install ClockworkMod Recovery (version 3.x or higher is required). \nÞarft ROOT! Sækir ROM Mananger á Market og flashar Clockworkmod Recovery, tekur smá stund og þarf svo að reboota.\nFarðu í Market og náðu í gott Apps backup forrit! (Mæli með Titanium Backup)\nTaktu afrit af mikilvægustu apps sem þú átt og jafnvel SMS skilaboðum.\n    Perform a NANDroid backup of your current ROM. \nOpnar Clockworkmod Recovery og velur þar \"Backup current ROM\" - \nEKKI sleppa þessu atriði\n, backup hafa bjargað mér alltof oft!\nNáðu í eftirfarandi:\nFULL Wipe to EXT4 Patch\nLeeDroid 3.1.3\nA2SD (Apps 2 SD Patch)\nOptional: \nSense 3.0 Patch\n    Tengdu núna símann við tölvu og settu LeeDroid skrárnar í rótina á SD kortinu.\nUpplýsingar um LeeDroid hér.\nVertu viss um að þessar skrár eru komnar í rótina á SDCard áður en haldið er áfram !!\n    Format the system, data & cache partitions of your device.\nFerð aftur í Clockworkmod Recovery og velur \"Reboot into Recovery\" - Eftir reboot ertu í Recovery glugganum (Vol+/- Up/Down - Power to select) og velur þar \"Wipe Data/Factory Reset\" - Láta það klára og svo \"Wipe Cache Partition\"\nEftir þetta er \"No turning back!\" Öll gögn á símanum eru farin. (Bara á símanum, EKKI SDCard - dont worry!)\n    Flash LeeDroid.\nVelur nú \"install zip from sd card\" - \"choose zip from sdcard\" og finnur þar \"\nLeeDrOiD_EXT4_FULL_WIPE.zip\n\" og smellir svo á \"Yes\" og lætur það klárast.\nSvo aftur sama ferli, nema nú veluru \"\nLeeDrOiD_HD_V3.1.3_GB.zip\n\" og smellir svo á \"Yes\" og lætur það klárast.\nEf þú vilt A2SD patchinn (Apps 2 SD Card) þá er það aftur sama ferli og velur svo \"\nLeeDrOiD_HD_A2SD+_PATCH.zip\n\" og smellir svo á \"Yes\" og lætur það klárast.\nNú væri gott að smella 2-3 á +++Back+++ og Reboot system now! \nAth það tekur símann lengri tíma að ræsa sig í fyrsta skipti.\nTil hamingju, ef allt var gert rétt ertu nú að keyra Leedroid 3.1.3\nFarðu í Market og náðu í sama backup forritið (Titanium Backup?) og restoraðu apps sem þú tókst afrit af.\nOptional: Sama ferli til að flasha inn Sense 3.0 patchinn, boot í recovery og install zip from sd card, choose zip from sdcard og velur þar skránna \"\nSense3.0_Kingdom_LockScreen_MMS_Weather040611.zip\n\" og smellir svo á \"Yes\" og lætur klárast. \nA.T.H\nÉg tek enga ábyrgð á því sem stendur hér fyrir ofan, þetta er einungis það sem ég fór eftir og virkaði !\nEf þú heldur áfram þá er það á þinni eigin ábyrgð. Ég mæli með því að þú lesir þér vel til um allt sem þú ætlar að gera !\nEf það vantar eitthvað í þetta \"walkthrough\" hvet ég menn til að láta mig vita sem fyrst.\nOfangreint ferli getur skemmt símann ef það er gert vitlaust !!!\nÉg mæli með að þú forðist að flasha Hboot þangað til þú þekkir þessi ferli betur eða jafnvel láta það algjörlega eiga sig, Það er hættulegasta ferlið og eru mestu líkur á að skemma símann í því ferli. \nSniðug forrit fyrir ROOT-ara (Listi á eftir að uppfærast)\nSetCPU\nTitanium Backup Pro\nMarket Enabler\nNexus Torch\nBattery Calibrate\nRoot Call Blocker\nEndilega látið vita um sniðug ROOT apps.",
+            "date": "2011-06-09 00:12:00",
+            "post_id": "354544",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "birgirdavid",
+            "text": "Heyrðu drengur takk kærlega, þú ert snillingur  \n \nBrasa í þessu þegar ég kem heim.",
+            "date": "2011-06-09 00:19:00",
+            "post_id": "354549",
+            "reply_to_id": "354544"
+        },
+        {
+            "user_name": "FuriousJoe",
+            "text": "Ekki málið, mundu að lesa bara vel um allt sem þú ætlar að gera áður en þú gerir það og nota google eins og madman.\nÉg tek enga ábyrgð á því ef eitthvað klikkar eða virkar ekki eins og það ætti að gera",
+            "date": "2011-06-09 00:22:00",
+            "post_id": "354552",
+            "reply_to_id": "354549"
+        },
+        {
+            "user_name": "kubbur",
+            "text": "Ég notaði visionary+ til að roota minn i denn, nú er til eitthvað sem heitir superoneclick 1.91",
+            "date": "2011-06-09 01:24:00",
+            "post_id": "354563",
+            "reply_to_id": "354552"
+        },
+        {
+            "user_name": "FuriousJoe",
+            "text": "Gætiru komið með link á slíkt fyrirbæri ? \nFínt að hafa þetta með í þræðinum.",
+            "date": "2011-06-09 04:53:00",
+            "post_id": "354574",
+            "reply_to_id": "354563"
+        },
+        {
+            "user_name": "birgirdavid",
+            "text": "Kubbur : Forritið heitir núna Unrevoked, en hérna gastu rootað þinn síma með þessu forriti nefninlega þetta forrit býður núna bara upp á að roota :\nSprint EVO 4G\nDroid Incredible\nHTC Desire\nHTC Aria\nDroid Eris\nHTC Wildfire\nhttp://unrevoked.com/",
+            "date": "2011-06-10 01:43:00",
+            "post_id": "354894",
+            "reply_to_id": "354574"
+        },
+        {
+            "user_name": "kubbur",
+            "text": "Nei, eg notaði þennan guide \nhttp://forum.xda-developers.com/showthread.php?t=841076",
+            "date": "2011-06-10 04:07:00",
+            "post_id": "354899",
+            "reply_to_id": "354894"
+        },
+        {
+            "user_name": "Tesli",
+            "text": "Andskotans vesen alltaf að roota Desire símann minn, svo eru Iphone menn sem vinna með mér sem hlægja að mér og jailbreaka með einu músarklikki.",
+            "date": "2011-06-10 09:10:00",
+            "post_id": "354911",
+            "reply_to_id": "354899"
+        },
+        {
+            "user_name": "FuriousJoe",
+            "text": "iOS er eldra en Android og því búið að þróa meira þar, bara svipað og að modda PS2 er skítlétt en að modda PS3 er meira vesen \nÞessir gaurar eru að vinna í alskonar 1-click rooter fyrir Gingerbread m.a Gingerbreak sem ég get staðfest að hafi virkað hjá mér (One click rooter) svo SuperOneClick, sem ég hef ekki prófað.\nAftur á móti er held ég ekki til OneClick rooter á Android 2.2 en það tók mig kannski 20min að lesa leiðbeiningarnar og roota minn þegar hann var 2.2",
+            "date": "2011-06-10 14:12:00",
+            "post_id": "354962",
+            "reply_to_id": "354911"
+        },
+        {
+            "user_name": "kubbur",
+            "text": "rólegur kiefer, það er ekkert mál að roota desire símana\nog í þokkabót gaf htc út að í framtíðinni verða símarnir frá þeim með unlocked bootloader sem segir manni það að þeir actually hugsa um viðskiptavini sína, annað en apple",
+            "date": "2011-06-10 16:35:00",
+            "post_id": "354989",
+            "reply_to_id": "354962"
+        },
+        {
+            "user_name": "FuriousJoe",
+            "text": "Solid point",
+            "date": "2011-06-10 19:42:00",
+            "post_id": "355070",
+            "reply_to_id": "354989"
+        }
+    ],
+    "date": "2011-06-09 00:12:00"
+}

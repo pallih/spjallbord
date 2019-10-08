@@ -1,0 +1,121 @@
+{
+    "forum_title": "Yfirklukkun, hraðaprófanir og mods",
+    "id": "50327",
+    "title": "Vantar hjálp með overclock á 2500k",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=1&t=50327",
+    "posts": [
+        {
+            "user_name": "niCky-",
+            "text": "er með hann í 4.5GHz og það virkar mjög vel hitalega séð, en er ekki buin að finna stable overclock, kemur bluescreen við og við, er buin að profa 1.36 og 1.35, any ideas?",
+            "date": "2012-09-11 14:58:00",
+            "post_id": "466222",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "MuGGz",
+            "text": "Gætir þurft hærri volt enn 1.36",
+            "date": "2012-09-11 15:31:00",
+            "post_id": "466230",
+            "reply_to_id": "466222"
+        },
+        {
+            "user_name": "Gilmore",
+            "text": "1.36 ætti að duga, gæti verið eitthvað annað sem veldur bluescreen t.d. stillingarnar á RAM.\n1.36 gæti líka verið of mikið, sýnist flestir ná 4.5ghz undir 1.3v.\nhttp://www.overclock.net/t/915405/i5-25 ... tage-chart",
+            "date": "2012-09-11 15:53:00",
+            "post_id": "466233",
+            "reply_to_id": "466230"
+        },
+        {
+            "user_name": "niCky-",
+            "text": "Svo hvaða volt ætti eg ad prufa?",
+            "date": "2012-09-11 19:29:00",
+            "post_id": "466259",
+            "reply_to_id": "466233"
+        },
+        {
+            "user_name": "niCky-",
+            "text": "upp",
+            "date": "2012-09-11 21:21:00",
+            "post_id": "466286",
+            "reply_to_id": "466259"
+        },
+        {
+            "user_name": "mercury",
+            "text": "Hvernig móðurborð ertu með ?",
+            "date": "2012-09-11 21:56:00",
+            "post_id": "466302",
+            "reply_to_id": "466286"
+        },
+        {
+            "user_name": "MuGGz",
+            "text": "Málið með overclock er bara þannig að einn getur notað 1.25v á 4.5ghz á meðan annar getur enganvegin náð honum stable á 4.5ghz án þess að nota 1.4v\nchipparnir eru bara svo rosalega misjafnir eins og þeir eru margir\nFélagi minn er t.d. að runna 4.5ghz á held ég 1.38v minnir mig, og hitinn er mjög flottur hjá honum á h100\n2500k btw",
+            "date": "2012-09-11 22:42:00",
+            "post_id": "466317",
+            "reply_to_id": "466302"
+        },
+        {
+            "user_name": "niCky-",
+            "text": "Er að prufa 1.38 núna, sjáum hvernig það gengur",
+            "date": "2012-09-12 20:20:00",
+            "post_id": "466483",
+            "reply_to_id": "466317"
+        },
+        {
+            "user_name": "nonesenze",
+            "text": "það eru ekki bara voltin sem ráða með stability, lestu þig aðeins til um þetta og þú gætir náð stabil OC með lægri voltum jafnvel, það er svo margt á auto sem má ekki vera þannig með OC",
+            "date": "2012-09-12 20:35:00",
+            "post_id": "466487",
+            "reply_to_id": "466483"
+        },
+        {
+            "user_name": "niCky-",
+            "text": "Fylgdi samt alveg mjög ítarlegu tutorial sem fór i gegnum allan biosinn, eina sem getur verið að eru voltin held ég",
+            "date": "2012-09-12 22:46:00",
+            "post_id": "466527",
+            "reply_to_id": "466487"
+        },
+        {
+            "user_name": "mercury",
+            "text": "farðu sömuleiðis yfir bsod kóðana.",
+            "date": "2012-09-13 11:25:00",
+            "post_id": "466607",
+            "reply_to_id": "466527"
+        },
+        {
+            "user_name": "Moquai",
+            "text": "Getur verið alveg frekar mikið longshot, en hef lesið þráð þar sem það virkaði að lækka voltage-ið á örranum.\nSkil það nú svo sem ekki alveg.",
+            "date": "2012-09-13 12:28:00",
+            "post_id": "466611",
+            "reply_to_id": "466607"
+        },
+        {
+            "user_name": "mercury",
+            "text": "yfirleitt er málið að hækka vcore ef hún fær bsod í stresstest. getur aftur á móti þurft að lækka ef hún er að fá bsod í idle. en svo eru fleiri volt sem þarf að huga að en vanalega bara þegar menn eru komnir yfir 4.6ghz.",
+            "date": "2012-09-13 12:48:00",
+            "post_id": "466614",
+            "reply_to_id": "466611"
+        },
+        {
+            "user_name": "bjorninn",
+            "text": "Ég er að keyra minn á 4,8ghz og lét biosinn bara ráða, allt á auto, hef keyrt pc mark og 3d mark nokkrum sinnum og allt stabílt, er þá ekki allt í gúddí?\nBara svona spá því ég er nýr í þessu hvort ég þurfi eitthvað að lesa mér meira til og stilla ef þetta er að virka svona.\nBestu kveðjur,\nBjössi",
+            "date": "2012-11-04 21:28:00",
+            "post_id": "476210",
+            "reply_to_id": "466614"
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "HuMM  \n  á hvaða voltum er cpu ? hvað er hitinn þegar þú gerir stress test td. prime95 ?\nertu búinn að stilla vinnsluminnin á xmp",
+            "date": "2012-11-04 21:47:00",
+            "post_id": "476214",
+            "reply_to_id": "476210"
+        },
+        {
+            "user_name": "Garri",
+            "text": "Var að enda við að OC 2500k \nByrjaði á að nota Prime95 og lét það keyra tímunum saman. En þrátt fyrir að ekkert gerðist þar, þá lenti ég samt í leiðindum eða frosti í leikjum sem krefjast mikils CPU og eða GPU\nSótti þá Intel Burn Test sem keyrir mun meir á örrann og hitinn hækkaði nokkuð sem og Watta-magnið. Í stað 100W í Prime95 á örrann keyrði IBT 120-130W á örrann, hitinn fór í tæpar 70°c með Noctua á 75% afli. Þurfti aðeins að keyra 20 röns á standard og síðan High eða Max sem tók örfáar mínútur til að sjá hvort ég var á réttri leið, mæli eindregið með IBT.\nTvennt kom fljótlega í ljós í þessu ferli. Of lág volta tala á minnið, sérstaklega þegar ég hækkað FSB (BCLK) yfir 100, eins og í 102. Fór með minnið í 1.52V sem lagaði það, en síðan kom í ljós að hitinn á GTX 670 kortið fór of hátt, sérstaklega í Dirt3. Bjó til custom graf fyrir vituna sem færði markið neðar og eftir þetta hef ég getað OC- örrann yfir 4.8Ghz með voltin í kringum 1.4V\nEr hinsvegar að keyra þetta kombó á 4.5Ghz með voltin um 1.3V, hugsa samt að ég geti alveg keyrt á 1.28v miðað við þá reynslu sem ég er búinn að fá út úr þessu. Ég er reyndar með loftkælingu en keyri hana á aðeins 70-75% afli.  \nVantar ennþá lausn fyrir vifturnar. Það er, að þær lækki sig þegar hitinn er undir eins og 45°c en hækki sig ört þegar hitinn er kominn yfir 60°c osfv.\nEr að spá í viftustýringu eins og þessari \nZalman ZM-MFC3\n sem býður upp á að lesa PWM tengið, einhver með reynslu af henni?",
+            "date": "2012-11-04 22:18:00",
+            "post_id": "476219",
+            "reply_to_id": "476214"
+        }
+    ],
+    "date": "2012-09-11 14:58:00"
+}

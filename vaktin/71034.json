@@ -1,0 +1,44 @@
+{
+    "forum_title": "Koníakstofan",
+    "id": "71034",
+    "title": "Íslenskir DNS þjónar",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=9&t=71034",
+    "posts": [
+        {
+            "user_name": "biggitoker",
+            "text": "Hæ! Ég bý erlendis og hef verið að reyna að finna íslenska DNS þjóna sem ég get tengst, because reasons.\nÉg er búinn að prófa það sem Síminn og Vodafone gefa upp, en það virkar því miður ekki. Mín besta ágiskun er að þeir leyfi bara annaðhvort sínar kúnna IP tölur eða eingöngu íslenskar.\nEru einhverjir snillingar hér sem vita um fleiri DNS þjóna sem ég get prófa?",
+            "date": "2016-10-23 12:16:00",
+            "post_id": "635372",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "emmi",
+            "text": "Flestir ef ekki allir þjónustuaðilar leyfa einungis sínum IP tölum að tala við DNS þjónana sína.\nBest að nota Google dns t.d. 8.8.8.8 & 8.8.4.4",
+            "date": "2016-10-23 12:46:00",
+            "post_id": "635373",
+            "reply_to_id": "635372"
+        },
+        {
+            "user_name": "biggitoker",
+            "text": "Vandamálið er ekki að tengjast netinu, mig langar bara að horfa á RÚV, Sjónvarp 365 og svona.",
+            "date": "2016-10-23 13:33:00",
+            "post_id": "635374",
+            "reply_to_id": "635373"
+        },
+        {
+            "user_name": "emmi",
+            "text": "Að nota Íslenskan dns mun ekki leysa það vandamál, tölvan þín þarf að vera með Íslenska IP tölu sem að komast í þessar veitur. Þú gætir leyst það með því að finna einhvern sem býður uppá VPN á Íslandi. Hidemyass.com er með server hér t.d.",
+            "date": "2016-10-23 13:43:00",
+            "post_id": "635375",
+            "reply_to_id": "635374"
+        },
+        {
+            "user_name": "Baldurmar",
+            "text": "emmi er þarna með lausnina, DNS er bara uppfletti tafla. \nÞú sendir beiðni á \nwww.eitthvað.is\n og DNS serverinn svarar bara með IP tölunni sem að þú átt að tala við. \nÞarft að fara í gegnum VPN. Þannig fær serverinn sem að þú vilt sækja efni frá (t.d ruv.is) beiðnina frá IP tölu frá því landi sem að VPN-inn er, óháð því hvar þín IP tala er skráð.",
+            "date": "2016-10-23 14:18:00",
+            "post_id": "635379",
+            "reply_to_id": "635375"
+        }
+    ],
+    "date": "2016-10-23 12:16:00"
+}

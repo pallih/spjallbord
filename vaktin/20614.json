@@ -1,0 +1,191 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "20614",
+    "title": "Tölvan frýs oft",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=20614",
+    "posts": [
+        {
+            "user_name": "EmmDjei",
+            "text": "Tölvan frýs í tíma og ótíma yfirleitt áður en hálftími er liðinn eftir ræsingu. Frýs þannig hvað sem er á skjánum stoppar bara, hljóðið sem var í gangi þegar þetta gerist verðureins og á bilaðri plötu, þannig að maður verður bara að ýta á restart takkann á tölvunni. Stundum líða bara 5 mínútur þangað til hún frýs og ekki virðist vera neitt sérstakt munstur á því hvenær hún frýs.\nEr búinn að prófa að formata, þetta heldur samt áfram.\nEr líka búinn að gera Memtest, ekkert fannst.",
+            "date": "2008-12-21 20:37:00",
+            "post_id": "190734",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Hyper_Pinjata",
+            "text": "búinn að prufa annann skjá eða annað skjákort?\nthat,sir might be your problem...",
+            "date": "2008-12-21 21:23:00",
+            "post_id": "190741",
+            "reply_to_id": "190734"
+        },
+        {
+            "user_name": "EmmDjei",
+            "text": "það ætti ekki að hafa áhrif á hljóðið",
+            "date": "2008-12-21 21:42:00",
+            "post_id": "190747",
+            "reply_to_id": "190741"
+        },
+        {
+            "user_name": "Hyper_Pinjata",
+            "text": "sagðiru að hljóðið \"stoppar ekki\" eða allavega að það hljómi \"ekki eins og í bilaðri plötu\"? eða er ég eitthvað að skilja vitlaust?",
+            "date": "2008-12-21 21:52:00",
+            "post_id": "190750",
+            "reply_to_id": "190747"
+        },
+        {
+            "user_name": "EmmDjei",
+            "text": "sry, það stóð vitlaust hjá mér, búinn að laga. allavegna þá stoppar allt og ég er t.d nánast alltaf með tónlist í gangi og hún hökktir svona bara á sama stað eins og á bilaðri plötu",
+            "date": "2008-12-21 22:07:00",
+            "post_id": "190752",
+            "reply_to_id": "190750"
+        },
+        {
+            "user_name": "Hyper_Pinjata",
+            "text": "ertu að overclocka tölvuna?\nertu búinn að prufa annað vinnsluminni?\nbúinn að prufa annað stýrikerfi? (t.d. linux,þá \"Damn Small Linux\" eða Ubuntu)\nbúinn að prufa annann harðan disk?",
+            "date": "2008-12-21 22:10:00",
+            "post_id": "190754",
+            "reply_to_id": "190752"
+        },
+        {
+            "user_name": "EmmDjei",
+            "text": "ertu að overclocka tölvuna?neibb\nertu búinn að prufa annað vinnsluminni?neibb, á ekkert annað\nbúinn að prufa annað stýrikerfi? (t.d. linux,þá \"Damn Small Linux\" eða Ubuntu) jább\nbúinn að prufa annann harðan disk?er með 3",
+            "date": "2008-12-21 22:14:00",
+            "post_id": "190757",
+            "reply_to_id": "190754"
+        },
+        {
+            "user_name": "Hyper_Pinjata",
+            "text": "\"gæti verið\" að minnið hja þer se að gefa sig.....",
+            "date": "2008-12-21 22:16:00",
+            "post_id": "190759",
+            "reply_to_id": "190757"
+        },
+        {
+            "user_name": "gRIMwORLD",
+            "text": "Hvernig móðurborð ertu með?\nHvernig örgjörva ertu með?\nErtu að keyra onboard hljóðkortið?\nHægri smelltu á My Computer - properties - Advanced - \"Startup and Recovery\" settings - Taktu hakið úr \"Automatically Restart\"\nÞegar hún frýs þá ætti að vera bluescreen á skjánum (kannski)",
+            "date": "2008-12-21 22:18:00",
+            "post_id": "190760",
+            "reply_to_id": "190759"
+        },
+        {
+            "user_name": "EmmDjei",
+            "text": "tékk mín undirskrift,",
+            "date": "2008-12-21 22:25:00",
+            "post_id": "190763",
+            "reply_to_id": "190760"
+        },
+        {
+            "user_name": "gRIMwORLD",
+            "text": "Hehe smá fljótfærni þarna í gangi\nOki here goes...\nPrófaðu að uninstalla hljókortreklunum og láta tölvuna finna generic microsoft rekla í staðinn.\nKeyrði líka CPU-Z og finndu nákvæmar upplýsingar um hvaða version/stepping örgjörvinn þinn er.",
+            "date": "2008-12-21 22:30:00",
+            "post_id": "190764",
+            "reply_to_id": "190763"
+        },
+        {
+            "user_name": "EmmDjei",
+            "text": "ég er ekki með neitt hljóðkort nema það sem er innbyggt í móbó-inu",
+            "date": "2008-12-21 22:59:00",
+            "post_id": "190768",
+            "reply_to_id": "190764"
+        },
+        {
+            "user_name": "EmmDjei",
+            "text": "",
+            "date": "2008-12-21 23:03:00",
+            "post_id": "190770",
+            "reply_to_id": "190768"
+        },
+        {
+            "user_name": "gRIMwORLD",
+            "text": "Ef ég hef rétt fyrir mér þá er þetta einmitt vandamál með onboard hljóðkortinu og VISTA, prófaðu að uppfæra driverana.",
+            "date": "2008-12-21 23:12:00",
+            "post_id": "190774",
+            "reply_to_id": "190770"
+        },
+        {
+            "user_name": "EmmDjei",
+            "text": "í gegnum device manager þá, eða?",
+            "date": "2008-12-21 23:15:00",
+            "post_id": "190776",
+            "reply_to_id": "190774"
+        },
+        {
+            "user_name": "gRIMwORLD",
+            "text": "Farði í Add remove programs og fjarlægðu \"Realtek HD Audio drivers\" ATH að þetta er kannski ekki rétt heiti...ég man ekki hvað þetta heitir nákvæmlega.\nEndurræstu tölvuna og láttu windows sjá um að setja driverana upp aftur.",
+            "date": "2008-12-22 08:23:00",
+            "post_id": "190811",
+            "reply_to_id": "190776"
+        },
+        {
+            "user_name": "EmmDjei",
+            "text": "það er ekkert audio neitt í add/remove. Eina sem nenfir drivers er NVIDIA Drivers",
+            "date": "2008-12-22 09:50:00",
+            "post_id": "190816",
+            "reply_to_id": "190811"
+        },
+        {
+            "user_name": "gRIMwORLD",
+            "text": "Búinn að gera þetta?\nGeturu séð hvað kemur í BSODinu?",
+            "date": "2008-12-23 15:37:00",
+            "post_id": "190994",
+            "reply_to_id": "190816"
+        },
+        {
+            "user_name": "EmmDjei",
+            "text": "það kemur ekkert.\n--\nen ég var að fá mér \nUniblue DriverScanner\nþað fann að það voru þrír driver \"out-of-date\", forritið er að downloada nýjum núna. gaman að sjá hvort þetta lagist ekki",
+            "date": "2008-12-30 03:39:00",
+            "post_id": "191781",
+            "reply_to_id": "190994"
+        },
+        {
+            "user_name": "EmmDjei",
+            "text": "vandamálið lagaðist ekki, en mér er farið að gruna að þetta sé eitthvað að gera með internetið",
+            "date": "2009-01-09 19:24:00",
+            "post_id": "193226",
+            "reply_to_id": "191781"
+        },
+        {
+            "user_name": "EmmDjei",
+            "text": "Veit ekki hvort þetta sé tilviljun en hún virðist frosna mjög oft þegar ég er nýbúinn að kveikja á msninu, en hún hefur líka verið að frjósa þó að það sé slökkt á því, en oftast þegar að það er kveikt á því. Svo prófaði ég að aftengja mig frá netinu heil lengi og hún fraus ekkert.",
+            "date": "2009-01-09 22:41:00",
+            "post_id": "193251",
+            "reply_to_id": "193226"
+        },
+        {
+            "user_name": "EmmDjei",
+            "text": "bump-edí-bump",
+            "date": "2009-01-19 00:37:00",
+            "post_id": "194498",
+            "reply_to_id": "193251"
+        },
+        {
+            "user_name": "gRIMwORLD",
+            "text": "MSN vírus?\nDel *.* \nformat c:\nInstall OS",
+            "date": "2009-01-19 10:26:00",
+            "post_id": "194513",
+            "reply_to_id": "194498"
+        },
+        {
+            "user_name": "EmmDjei",
+            "text": "lestu..",
+            "date": "2009-01-19 16:12:00",
+            "post_id": "194565",
+            "reply_to_id": "194513"
+        },
+        {
+            "user_name": "EmmDjei",
+            "text": "bump-bump-bump-bump íslenskt-bump",
+            "date": "2009-02-01 12:19:00",
+            "post_id": "196180",
+            "reply_to_id": "194565"
+        },
+        {
+            "user_name": "EmmDjei",
+            "text": "Jæja ég keypti mér nýtt netkort og vandamálið lagaðist:)",
+            "date": "2009-02-13 21:38:00",
+            "post_id": "197821",
+            "reply_to_id": false
+        }
+    ],
+    "date": "2009-02-13 21:38:00"
+}

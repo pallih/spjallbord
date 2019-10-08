@@ -1,0 +1,37 @@
+{
+    "forum_title": "Windows",
+    "id": "53745",
+    "title": "Vesen með uppsetningu Drivera",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=53745",
+    "posts": [
+        {
+            "user_name": "Ingi90",
+            "text": "Sælir drengir\nEr hérna með Dell Inspiron Duo 1090 Fartölvu/Spjaldtölvu\nVar að formatta hana , Virðist vera í eithverju bölvuðu veseni með að finna 2 drivera \nAnnar þeirra heitir Multimedia Controller Driver & Hitt er bara Unknown Device\nEr búin að leita framm og aftur á Support siðunni hjá Dell en ég finn ekkert\nSvona lýtur þetta út , eithvað sem þið getið hjálpað til ?",
+            "date": "2013-03-04 19:19:00",
+            "post_id": "498547",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "beggi90",
+            "text": "Properties -> Details -> Hardware IDS\nHvað kemur þar upp?\nVen_XXXX&Dev_XXXX",
+            "date": "2013-03-04 19:38:00",
+            "post_id": "498551",
+            "reply_to_id": "498547"
+        },
+        {
+            "user_name": "playman",
+            "text": "skoðaðu þetta hérna.\nhttp://www.technibble.com/pcidatabase-r ... -the-week/",
+            "date": "2013-03-04 20:27:00",
+            "post_id": "498568",
+            "reply_to_id": "498551"
+        },
+        {
+            "user_name": "Ingi90",
+            "text": "Snilld!\nÞetta reddaði þessu!\nTakk kærlega fyrir hjálpina!",
+            "date": "2013-03-05 03:52:00",
+            "post_id": "498640",
+            "reply_to_id": "498568"
+        }
+    ],
+    "date": "2013-03-04 19:19:00"
+}

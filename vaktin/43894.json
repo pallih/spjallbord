@@ -1,0 +1,163 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "43894",
+    "title": "Fjar-tölva",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=43894",
+    "posts": [
+        {
+            "user_name": "Gusti",
+            "text": "Ég er að missa tölvuherbergið mitt vegna fjölgunar í fjölskyldunni.\nÞar inni er \"serverinn\" minn þar sem ég er með raid-aða diska\nsem geyma allar ljósmyndirnar, bíómyndirnar, torrent o.s.frv. Svo er\nþar líka prentari, skanni og svoleiðis. Það er kveiktá servernum 24/7\nPlanið er að færa tölvuna niður í geymslu þar sem ég er með netsnúru og rafmagn.\nSíðan mun ég bara nota lappann meira og tengjast servernum með remote desktop\nef ég þarf að torrenta. Svo ætla ég bara að fá mér wifi prentara/skanna.\nSpurningin er hvort það sé til einhver sniðug lausn þannig að ég geti tengt\nstóra flotta skjáinn minn og mús+lyklaborð við serverinn og unnið á hann\neins og ég sé fyrir framan hann? Eina tengingin á milli er ein netsnúra.",
+            "date": "2011-12-11 11:03:00",
+            "post_id": "403552",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Eina sem mér dettur í hug er HDMI yfir ethernet, nokkrar tölvubúðir að selja slíkan búnað.\nSent from my GT-I9100 using Tapatalk",
+            "date": "2011-12-11 13:41:00",
+            "post_id": "403574",
+            "reply_to_id": "403552"
+        },
+        {
+            "user_name": "Oak",
+            "text": "HDMI flytur ekki merkið fyrir mús og lyklaborð er það?",
+            "date": "2011-12-11 13:52:00",
+            "post_id": "403581",
+            "reply_to_id": "403574"
+        },
+        {
+            "user_name": "FreyrGauti",
+            "text": "Tengir dótið við fartölvuna og ferð inn á server'inn í remote desktop.",
+            "date": "2011-12-11 14:16:00",
+            "post_id": "403586",
+            "reply_to_id": "403581"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Nei, gerir það víst ekki. Það er til hugbúnaður sem gerir kleift að deila USB tækjum yfir TCP/IP en það gengur lítið án þess að hafa client vél tengda við skjáinn til að byrja með. Hugsa að remote desktop sé besta leiðin.",
+            "date": "2011-12-11 14:47:00",
+            "post_id": "403593",
+            "reply_to_id": "403586"
+        },
+        {
+            "user_name": "methylman",
+            "text": "þetta er það sem þú leitar að sýnist mér,  ef þú ætlar að vera með bara serverinn staðsettan annarsstaðar og einhver annar að nota lappann en þú EN  þetta er ekkert spez  Remote Desptop er besta lausnin sem ég veit um til þessa\n \nhttp://www.lantronix.com/it-management/ ... pider.html",
+            "date": "2011-12-11 14:49:00",
+            "post_id": "403594",
+            "reply_to_id": "403593"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Og kostar líklega rúmlega 70þús komið heim. Hægt að smíða ágætis borðvél bara fyrir það",
+            "date": "2011-12-11 15:01:00",
+            "post_id": "403598",
+            "reply_to_id": "403594"
+        },
+        {
+            "user_name": "Gusti",
+            "text": "Þetta er akkúrat það sem vantar, verðið er bara alveg skelfilega hátt.\nMálið er að ég er með lappa og það er ekkert mál að remote desktopa\nen ég væri líka til í að vera meðpínulítið \"tölvuborð\" einhverstaðar\nsem er þá ekkert nema skjár og lyklaborð og ég get sest niður og\nunnið á servernum með stórum skjá og þægilegu þráðlausu lyklaborði \nKVM over IP er þá akkúrat málið",
+            "date": "2011-12-11 15:07:00",
+            "post_id": "403601",
+            "reply_to_id": "403598"
+        },
+        {
+            "user_name": "Gusti",
+            "text": "vandamálið er ekki tölvuleysi, ég gæti sett tölvu í hvert horn ef ég vildi. Vandamálið er að verða\nplássleysi. Börnin þurfa víst herbergi",
+            "date": "2011-12-11 15:09:00",
+            "post_id": "403604",
+            "reply_to_id": "403601"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "KVM yfir IP er auðvitað draumur allra sem eru með full serverherbergi af whiteboxes. Maður endar á því að skipta yfir í e-ð enterprise grade dót til að hafa ILO/LOM kerfi.\nEn, hvað með dokku f. lappann?",
+            "date": "2011-12-11 15:12:00",
+            "post_id": "403606",
+            "reply_to_id": "403604"
+        },
+        {
+            "user_name": "methylman",
+            "text": "Já og gerin mikið minna en Remote Desktop,  eini munurinn er auðvitað BIOS aðgangur að servernum,  en þetta fer allt fram með browser.   Eina nothæfa og smart tengingin er í gegn um tölvu.  Og þá er bara að leysa málið með remote desktop tengingu og   smátölvu einhverju litlu boxi sem er hægt að pota einhversstaðar og er hjlóðlátt",
+            "date": "2011-12-11 15:12:00",
+            "post_id": "403607",
+            "reply_to_id": "403606"
+        },
+        {
+            "user_name": "Gusti",
+            "text": "Hluti af ástæðunni er að geta leyft kellu að vera í lappanum meðan ég sit\nvið tölvuborðið og \"serverast\" \nSvo taka þær líka dálítið pláss og það er ákv. snúruflóð í kringum þær.",
+            "date": "2011-12-11 15:16:00",
+            "post_id": "403609",
+            "reply_to_id": "403607"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Tss, ég er með lappa og dokku yfir í 3 skjái og jaðartæki, smá cable management og maður sér enga kapla \nHvað með að smíða litla HTPC til að græja við sjónvarpið (reikna með að þú sért með flatsjónvarp) og slá tvær flugur í einu höggi?",
+            "date": "2011-12-11 15:19:00",
+            "post_id": "403610",
+            "reply_to_id": "403609"
+        },
+        {
+            "user_name": "Gusti",
+            "text": "Ég held að ég hafi eitthvað verið að misskilja þetta KVM over IP.\nÞetta er meira eins og ég var að hugsa um:\nhttp://www.zantech.com.au/extender/kvm/ecms2000.html",
+            "date": "2011-12-11 15:27:00",
+            "post_id": "403611",
+            "reply_to_id": "403610"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Þetta er sýnist mér svipuð græja og við töluðum um hérna f. ofan, bara meira advanced. Sýnist þetta vera álíka dýrt.",
+            "date": "2011-12-11 15:40:00",
+            "post_id": "403614",
+            "reply_to_id": "403611"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Hérna\n er eitthvað dót.",
+            "date": "2011-12-11 16:09:00",
+            "post_id": "403623",
+            "reply_to_id": "403614"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "30.000 kr. innanlands",
+            "date": "2011-12-11 16:23:00",
+            "post_id": "403628",
+            "reply_to_id": "403623"
+        },
+        {
+            "user_name": "methylman",
+            "text": "Festir þessa bara aftaná skjáinn,  \nhttp://www.tolvulistinn.is/vara/23324",
+            "date": "2011-12-11 16:59:00",
+            "post_id": "403634",
+            "reply_to_id": "403628"
+        },
+        {
+            "user_name": "tdog",
+            "text": "Er ekki möguleiki á því að vera með barnið í geymslunni ????",
+            "date": "2011-12-11 17:19:00",
+            "post_id": "403641",
+            "reply_to_id": "403634"
+        },
+        {
+            "user_name": "Gusti",
+            "text": "Þarna kom lausnin",
+            "date": "2011-12-11 17:49:00",
+            "post_id": "403649",
+            "reply_to_id": "403641"
+        },
+        {
+            "user_name": "axyne",
+            "text": "í staðin fyrir að kaupa eina græju sem flytur DVI/HDMI \nOG\n USB yfir cat.\nþá myndi ég skoða að kaupa græjurnar stakar gæti verið ódýrara.",
+            "date": "2011-12-11 19:28:00",
+            "post_id": "403688",
+            "reply_to_id": "403649"
+        },
+        {
+            "user_name": "kubbur",
+            "text": "hvað með litla tölvu sem þú skrúfar aftan á skjáinn og setur upp media center á henni",
+            "date": "2011-12-11 21:21:00",
+            "post_id": "403716",
+            "reply_to_id": "403688"
+        }
+    ],
+    "date": "2011-12-11 11:03:00"
+}

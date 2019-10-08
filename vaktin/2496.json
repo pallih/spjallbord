@@ -1,0 +1,114 @@
+{
+    "forum_title": "Windows",
+    "id": "2496",
+    "title": "Tölvan þarf forgangsröðun, notar allt cpu-ið í file sharing",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=2496",
+    "posts": [
+        {
+            "user_name": "Roggi",
+            "text": "Slíkt er vandamálið að í hvert skipti sem einhver nær í shared files hjá mér þá fer tölvan mín í algjört rusl og gengur eins og 50hz útvarp.  \n\n\n\n\nÞetta er meira en lítið pirrandi á lani þar sem að tölvan mín er ónothæf til nokkurs á meðan verið er að ná í hluti af henni, sem að getur stundum verið dágóð stund enda er mikið verið að downloada frá mér. \n\n\n\nEr ekki leið til að segja tölvunni að einbeita sér frekar að því sem \nég\n er að gera en ekki að að sniðganga mig meðan annar er að ná í hluti?\n\n\n\nÉg keyri XP Home. Vona að einhver hafi fundið lausn á þessu meini.",
+            "date": "2003-12-18 12:12:00",
+            "post_id": "24562",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "elv",
+            "text": "Þú getur í TaskManager , hægrismellt á Processes og set Priority eins og þú vilt.\n\nEn þetta gæti líka verið harði diskurinn sem er ekki að ráða við þetta.Ef þú ert bara með ein disk þ.e.a.s",
+            "date": "2003-12-18 14:35:00",
+            "post_id": "24575",
+            "reply_to_id": "24562"
+        },
+        {
+            "user_name": "Roggi",
+            "text": "Þetta er ekki process, bætist allavega ekkert process við þó þetta fari í gang. \n\n\n\nÉg er með tvo diska, en systemið er ekki með sér system disk.",
+            "date": "2003-12-18 14:37:00",
+            "post_id": "24576",
+            "reply_to_id": "24575"
+        },
+        {
+            "user_name": "elv",
+            "text": "Hafðu taskmanagerinn opin á processes.Og startaðu þá þessu P2P sem þú ert með, þá sérðu það koma inn þar",
+            "date": "2003-12-18 14:40:00",
+            "post_id": "24578",
+            "reply_to_id": "24576"
+        },
+        {
+            "user_name": "Spirou",
+            "text": "Hann er áræðanlega ekki með ultra dma í gangi sem þýðir að örgjörvinn þarf að sjá um að kópera öll gögn frá hörðum disk yfir í minni og þaðan á netkortið.\n\nÍ taskmanager er nokkuð sem heitir \"Show Kernel Times\" sem bætir við rauðri línu á grafið þá serðu hvað örgjörvinn er að eyða miklu í stýrikerfisköll(þar á meðal skráarvinnsla).\n\n\n\nAð kópera frá hörðum disk á ekki að taka nema 5 til 10% af örgjörvanotkunin ef allt er rétt stillt.",
+            "date": "2003-12-18 16:01:00",
+            "post_id": "24587",
+            "reply_to_id": "24578"
+        },
+        {
+            "user_name": "Roggi",
+            "text": "Og hvernig á þetta að vera \"rétt stillt\"?",
+            "date": "2003-12-18 17:26:00",
+            "post_id": "24602",
+            "reply_to_id": "24587"
+        },
+        {
+            "user_name": "Spirou",
+            "text": "réttir móðurborðs driverar uppsettir\n\n\n\nFyrri AMD móðurborð þá eru mjög margir með VIA 4in1(man ekki nýja nafnið).",
+            "date": "2003-12-18 17:53:00",
+            "post_id": "24604",
+            "reply_to_id": "24602"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "ég er ekki viss en ég held að hann sé að tala um Windows File Sharing sem þú getur notað ef þú ert á lani með því að fara í my network places þar sést hverjir eru á laninu o.s.f. ... annars ekki viss",
+            "date": "2003-12-20 20:26:00",
+            "post_id": "24747",
+            "reply_to_id": "24604"
+        },
+        {
+            "user_name": "Roggi",
+            "text": "Ég hef prófað að fylgjast með task manager á fyrir, á meðan, og eftir file sharing og það bættist ekkert inn á process listann. Var heldur ekkert augljóst lan process.",
+            "date": "2003-12-22 23:30:00",
+            "post_id": "24998",
+            "reply_to_id": "24747"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "hann hélt að þú notaðir eitthvað sér p2p forrit, það kemur ekkert sér proccess fyrir windows file sharing.\n\nannars myndi ég bara skella upp DC hub og láta menn tengjast með oDC eða DC++",
+            "date": "2003-12-22 23:45:00",
+            "post_id": "25000",
+            "reply_to_id": "24998"
+        },
+        {
+            "user_name": "Roggi",
+            "text": "Það er óásættanleg lausn  \n\n\nVill helst ná að stilla eitthvað þannig að þetta virki betur. En það er líklega enginn hérna sem kann það fyrst ég er ekki ennþá búinn að fá lausnina.",
+            "date": "2003-12-23 00:06:00",
+            "post_id": "25005",
+            "reply_to_id": "25000"
+        },
+        {
+            "user_name": "Zaphod",
+            "text": "ertu með Enable Write Caching á ? \n\n\n\neða er diskurinn kannski stilltir á PIO?",
+            "date": "2003-12-23 02:12:00",
+            "post_id": "25022",
+            "reply_to_id": "25005"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "testaðu líka nýja drivera á netkortið",
+            "date": "2003-12-23 03:46:00",
+            "post_id": "25025",
+            "reply_to_id": "25022"
+        },
+        {
+            "user_name": "Roggi",
+            "text": "Hmm, fínt. Þetta var stillt á PIO. Setti á DMA eins og þú sagðir mér. Sýnist það reyndar ekki vera virkt núna, kemur líklega við restart. \n\n\n\nJæja, vona þá að þetta sé komið.  \n\n\nTakk fyrir hjálpina.",
+            "date": "2003-12-23 15:49:00",
+            "post_id": "25079",
+            "reply_to_id": "25025"
+        },
+        {
+            "user_name": "Zaphod",
+            "text": "yup þar liggur hundurinn líklega grafinn",
+            "date": "2003-12-24 00:51:00",
+            "post_id": "25118",
+            "reply_to_id": "25079"
+        }
+    ],
+    "date": "2003-12-18 12:12:00"
+}

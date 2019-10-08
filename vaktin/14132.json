@@ -1,0 +1,37 @@
+{
+    "forum_title": "Windows",
+    "id": "14132",
+    "title": "Windows 2003 server password reset",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=14132",
+    "posts": [
+        {
+            "user_name": "Pandemic",
+            "text": "Sælir, ég er með Windows 2003 server og svo leiðinlega vill til að ég var eitthvað að fikta í honum og passwordið fór í algera klessu og hún stofnaði nýjan Administrator account og allt fór í fuck. Er leið til þess að reseta lykilorðið svo ég komist inná hann aftur, nenni ekki að formata vélina.",
+            "date": "2007-05-01 12:20:00",
+            "post_id": "145262",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "zedro",
+            "text": "Held að það væri mjöööööööööööög mikill securtity flaw ef það væri hægt \n\n\n\n\nI'm afraid your screwed.",
+            "date": "2007-05-01 14:20:00",
+            "post_id": "145268",
+            "reply_to_id": "145262"
+        },
+        {
+            "user_name": "Vectro",
+            "text": "http://www.petri.co.il/forgot_administr ... ssword.htm\n\n\n\n\nUnscrewed.",
+            "date": "2007-05-01 14:48:00",
+            "post_id": "145271",
+            "reply_to_id": "145268"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Ég hef notað \nþetta\n með mjög góðum árangri \n\n\n\n\nÉg var reyndar ekki með neitt encrypt-að en ef að þú ert með eitthvað encrypt-að þá ertu screwed (sem er nú einu sinni tilgangurinn með encryption)",
+            "date": "2007-05-01 20:51:00",
+            "post_id": "145311",
+            "reply_to_id": "145271"
+        }
+    ],
+    "date": "2007-05-01 12:20:00"
+}

@@ -1,0 +1,142 @@
+{
+    "forum_title": "Windows",
+    "id": "5794",
+    "title": "Vandamál með format",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=5794",
+    "posts": [
+        {
+            "user_name": "noizer",
+            "text": "Ég var að fara að formata fyrir stuttu en gat það því miður ekki þannig að ég fór að spurja um þetta og mér var sagt að af því að ég er með usb tengt lyklaborð (er með einn sendir sem er bæði færir lyklaborð og mús og er bæði þráðlaust og sendirinn er tengdur í usb) þá þyrfti ég að fara í BIOS og í Advanced Chipset Features og finna þar USB keyboard support og láta það á enable, svo fór ég í bios-inn og inní advanced chipset... en fann ekkert USB keyboard support þar þannig að ég fór að leita að þessu en fann þetta ekki.\n\nEn já ástæðan að ég þurfti að stilla þetta á enable er að þegar ég er með XP diskinn í og restarta tölvunni þá kemur þetta ,,Boot From CD,, og þegar ég ýti á Enter þar þá gerist ekkert (það á að vera útaf USB tengda lyklaborðinu).\n\nSvo reyndi ég að tengja PS/2 tengt lyklaborð og mús en hvorugt að því virkaði.\n\nGætuð þið nokkuð sagt mér hvað ég gæti gert til að geta formatað?\n\n\n\nSorry ef þetta er eitthvað asnalega skrifað hjá mér, var að skrifa í flýti\n[/i]",
+            "date": "2004-09-29 21:32:00",
+            "post_id": "58519",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Coppertop",
+            "text": "fara í bios og breyta first boot device/boot from í cd-rom",
+            "date": "2004-09-29 23:09:00",
+            "post_id": "58536",
+            "reply_to_id": "58519"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Það er ekki málið, tölvan ræsir alveg af disknum.\n\n\n\nHvernig móðurborð ertu með? (stundum eru þetta jumperar sem þarf að breyta)",
+            "date": "2004-09-29 23:16:00",
+            "post_id": "58539",
+            "reply_to_id": "58536"
+        },
+        {
+            "user_name": "noizer",
+            "text": "First Boot device hjá mér er stillt á CD-ROM hjá mér.\n\nÉg er með ABIT VT-7 móðurborð",
+            "date": "2004-09-29 23:26:00",
+            "post_id": "58541",
+            "reply_to_id": "58539"
+        },
+        {
+            "user_name": "MaesTro",
+            "text": "ef að þú lætur vélina keyra sig upp með ps2 lyklaborðið tengt... finnur hún þá lyklaborðið það er að segja þega þú ert kominn inn í windowsið? \n\nGetur líka prufað að keyra upp vélina og strax byrjað að ýta á num lock til að sjá hvort ljósið kemur á eða ekki... ef að það kemur ekki á þá er nokkuð víst að það sé búið að disable eitthvað í bios.",
+            "date": "2004-09-30 08:44:00",
+            "post_id": "58559",
+            "reply_to_id": "58541"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "Þú veist að þú verður að restarta tölvunni eftira ð þú tengir ps2 lyklaborð og mús. þú verður líka að tengja þetta í rétt göt. það virkar (95% tilvika) ekki að tengja lyklaborðið í músargatið og öfugt.",
+            "date": "2004-09-30 13:44:00",
+            "post_id": "58587",
+            "reply_to_id": "58559"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "lestu póstinn áður en þú ausir út visku þinni",
+            "date": "2004-09-30 17:24:00",
+            "post_id": "58638",
+            "reply_to_id": "58587"
+        },
+        {
+            "user_name": "noizer",
+            "text": "",
+            "date": "2004-09-30 19:09:00",
+            "post_id": "58658",
+            "reply_to_id": "58638"
+        },
+        {
+            "user_name": "noizer",
+            "text": "Jæja þá er þetta lyklaborð komið og lag, þakka fyrri svörin  \n\n\nEn já ég lét XP diskinn í restartaði fór inní formatið og byrjaði, svo þegar ég er kominn að partinum þar um Partion þá ýti ég á örvatakkana en þá kemur bara error og ég þarf að restarta í miðju formati og svo prófaði ég að ýta ekki á örvatakkana heldur ýtti bara á Enter og gerði ekki Partion en þá kom sama errorið  \n  Prófaði þrisvar að formata, alltaf þetta error á Partion partinum. Svo prófaði ég að hringja í Tölvulistann (þar sem ég fékk tölvuna) og þeir sögðu mér bara að koma með hana en ég nenni því varla sko.\n\nVitið þið hvað er að?",
+            "date": "2004-09-30 19:27:00",
+            "post_id": "58661",
+            "reply_to_id": "58658"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "ef þú \"bara kemur með hana\" færðu líklegast reikning ekki undir 10.000kalli...",
+            "date": "2004-09-30 19:29:00",
+            "post_id": "58663",
+            "reply_to_id": "58661"
+        },
+        {
+            "user_name": "noizer",
+            "text": "hmm er ekki alveg að fara að týma því sko, á ca 3000 kall akkúrat núna   \n\n\nOg já þótt ég ætti meira en 10.000 kall þá færi ég ekki að eyða honum í tölvuviðgerð",
+            "date": "2004-09-30 19:42:00",
+            "post_id": "58666",
+            "reply_to_id": "58663"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Þú verður að segja okkur hver errorinn var ef að við eigum að hjálpa þér......",
+            "date": "2004-09-30 19:50:00",
+            "post_id": "58668",
+            "reply_to_id": "58666"
+        },
+        {
+            "user_name": "noizer",
+            "text": "Já errorið, það er blár skjár og texti sem ég man nú varla hvað stóð á. \n\nAllavega það stóð að það væri eitthvað að file sem heitir setupdd.exe\n\nEn ég veit ekki hvort ég vill fara aftur í að formata, eigilega viss um að það fer ekkert vel með tölvuna að vera alltaf að restarta svona",
+            "date": "2004-09-30 20:04:00",
+            "post_id": "58670",
+            "reply_to_id": "58668"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Það ver soldið illa með harða diska að vera oft að restarta, en annars fer þetta ekkert illa með tölvuna þótt að þetta gerist nokkru sinnum þegar þú ert að installa.\n\nÞú verður að segja okkur meira um villuna, helst öll villuboðin ef þú vilt almennilega hjálp.\n\n\n\nEkki ertu með RAID/SCSI controler kort eða á móðurborðinu?",
+            "date": "2004-09-30 21:27:00",
+            "post_id": "58687",
+            "reply_to_id": "58670"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "var það kanski þessi error? \nhttp://www.google.com/search?sourceid=navclient&ie=UTF-8&q=setupdd%2Eexe+error\n\n\n\n\nótrúlegt hvað sumir hafa enga sjálfshjálparhvöt.\n\n\n\nprófaðu að delete-a partitioninu á disknum sem þú vilt installa á, og láttu svo xp installið búa til partition.",
+            "date": "2004-10-01 07:19:00",
+            "post_id": "58730",
+            "reply_to_id": "58687"
+        },
+        {
+            "user_name": "noizer",
+            "text": "Hérna\n get ég fengið mér einhvern fæl sem heitir setupdd.exe, sem lagar eitthvað DBCS sem ég veit ekkert hvað er  \n\n\nÉg er síðan ekki með neitt partion á disknum mínum núna",
+            "date": "2004-10-01 12:48:00",
+            "post_id": "58745",
+            "reply_to_id": "58730"
+        },
+        {
+            "user_name": "noizer",
+            "text": "Hérna er hvernig eitthvað af errorinu er:\n\n   ,,The problem seems to be caused by the following file: setupdd.sys,,\n\n\n\nSvo kemur bara að ég eigi að taka alla nýjja hardware úr tölvunni og eitthvað\n\n\n\nHérna\n er einhvað um þetta en þá þarf ég að fara að taka búnað úr tölvunni",
+            "date": "2004-10-02 19:55:00",
+            "post_id": "58898",
+            "reply_to_id": "58745"
+        },
+        {
+            "user_name": "noizer",
+            "text": "Einhver sem veit hvað þetta er?",
+            "date": "2004-10-03 00:11:00",
+            "post_id": "58944",
+            "reply_to_id": "58898"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "ertu með SGI skjákort?",
+            "date": "2004-10-04 08:22:00",
+            "post_id": "59129",
+            "reply_to_id": "58944"
+        }
+    ],
+    "date": "2004-09-29 21:32:00"
+}

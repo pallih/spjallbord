@@ -1,0 +1,37 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "25302",
+    "title": "\"Invalid partition table\" vesen ...",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=25302",
+    "posts": [
+        {
+            "user_name": "hagur",
+            "text": "Daginn,\nVar að endurræsa serverinn minn núna áðan og fæ þessi líka skemmtilegu skilaboð, \"Invalid partition table\".\nÉg er búinn að taka diskinn úr og setja hann í aðra tölvu og hann virðist nú vera í lagi blessaður, er að keyra scandisk o.fl. á hann.\nSpurningin er, eru ekki til einhver free-ware tól til að checka og repair-a partition tables?",
+            "date": "2009-10-01 19:14:00",
+            "post_id": "220879",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "hagur",
+            "text": "Nevermind .... problem solved.\nReyndar frekar silly  \n \nRafmagnið var tekið af hverfinu í dag þannig að ég slökkti á servernum og það var dautt á honum í nokkrar klukkustundir.  Við það virðist það gerast að bios stillingarnar hreinsast út (léleg rafhlaða eða e-ð eflaust) og þá fokkast upp hard-disk boot priority.  Það var semsagt ekkert að disknum, hann var bara orðinn númer 3 í röðinni.  Sá diskur sem var orðinn #1 er ekki system disk og því ekki skrítið að \"invalid partition table\" hafi komið.\nNote to self:  Næst þegar þetta gerist, muna bara að fara í bios og breyta hard-disk boot priority ÁÐUR en þú rífur diskinn úr, setur í aðra vél, keyrir scandisk og Partition Table Doctor etc. etc. etc.",
+            "date": "2009-10-01 21:54:00",
+            "post_id": "220913",
+            "reply_to_id": "220879"
+        },
+        {
+            "user_name": "JohnnyX",
+            "text": "vá, mikið vesen fyrir lítinn hlut",
+            "date": "2009-10-01 22:37:00",
+            "post_id": "220925",
+            "reply_to_id": "220913"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "úfff ég lenti í nákvæmlega þessu einu sinni.\nÉg hef sjaldan verið jafn pirraður við það að leysa tölvuvandamál. Búinn að eyða heilli nótt í þetta helvíti",
+            "date": "2009-10-02 00:23:00",
+            "post_id": "220949",
+            "reply_to_id": "220925"
+        }
+    ],
+    "date": "2009-10-01 19:14:00"
+}

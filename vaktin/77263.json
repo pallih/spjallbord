@@ -1,0 +1,51 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "77263",
+    "title": "Undarlegt vandamál með boot af SSD með HDD tengdum fyrir",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=77263",
+    "posts": [
+        {
+            "user_name": "capteinninn",
+            "text": "Ég er með mjög undarlegt vandamál.\nFyrst smá tech specs\nSATA0 - Rosa föst sata snúra sem liggur sýnist mér í external sata tengi ofan á kassanum en ekkert tengt í\nSATA1 - HDD diskur \nán stýrikerfis\nSATA2 - ekkert\nSATA3 - SSD diskur með Win10\nVar að strauja vél hjá félaga mínum og setja upp Win10 á SSD diskinn hans.\nÞegar ég setti Win10 USB kubbinn í gat installið ekki fundið SSD diskinn hans.\nÞegar ég aftengdi svo HDD diskinn þá fann installið SSD diskinn.\nÉg set upp Windows á SSD og allt bootar fínt og flott \nnema\n ef ég tengi HDD diskinn aftur þá fæ ég bara villu um að hann finni ekki stýrikerfið.\nÉg prófaði að víxla SATA1 og SATA 3 þannig að SATA1 er SSD diskurinn en ég fæ sömu villu, Win10 vill bara ekki boota með HDDinn tengdan.\nPrófaði að taka HDD út og setja í vélina mína og allt virkar fínt þar þannig að þetta er ekki diskurinn.\nPrófaði að tengja auka SSD disk hérna hjá mér í SATA1 slottið og það virkar allt fínt.\nDettur einhverjum í hug hvað í fjandanum er í gangi, ég er svona 100% viss um að þetta sé eitthvað BIOS vesen en finn bara ekkert í honum sem gefur til kynna hvað vandamálið er. Boot sequence er með SSD fyrst.\nÉg heyrði í félaga mínum sem á vélina og samkvæmt honum virkaði þetta fínt með Win7 installinu nema ef þú tengdir \"stóran USB kubb\" þá týndi vélin HDD disknum sem er líka mjög undarlegt.\nDettur einhverjum eitthvað sniðugt í hug þarna ?",
+            "date": "2018-09-19 22:07:00",
+            "post_id": "677809",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "pepsico",
+            "text": "Er ekki bara einhver BOOTMGR/Boot Partition ennþá á HDDinum sem fær forgang ef hann er tengdur og sá virkar auðvitað ekki lengur? Veit ekkert of mikið um þau mál. Myndi skoða það að backa upp gögnin og formatta diskinn ef þér tekst að tengja hann í einhverri annarri tölvu.",
+            "date": "2018-09-19 22:32:00",
+            "post_id": "677813",
+            "reply_to_id": "677809"
+        },
+        {
+            "user_name": "arons4",
+            "text": "Windows á það til að dreyfa sér svoldið þegar það er sett upp, gætir þurft að formatta HDD eða beyta brellum til að fjarlægja BOOTMGR af honum.",
+            "date": "2018-09-19 22:36:00",
+            "post_id": "677814",
+            "reply_to_id": "677813"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Hmm okei það meikar sens.\nSamt skrítið að ég geti bootað upp með HDD í annarri vél án vandamála en BIOSinn er svosem rétt uppsettur þar.\nEinhver með link á leiðbeiningar með brellum til að taka bootmgr af ?\nÞað eru víst gögn á disknum sem hann vill ekki missa, ég get svosem örugglega bara gert backup og straujað bara nenni því mixi ekki ef ég slepp við það",
+            "date": "2018-09-19 22:54:00",
+            "post_id": "677816",
+            "reply_to_id": "677814"
+        },
+        {
+            "user_name": "addon",
+            "text": "á mínu MB er ekki hægt að tengja sata/nvme/sataEx hvernig sem er... t.d. ef ég nota nvme rauf þá get ég bara notað sata 3 og 4... gæti þetta verið eitthvað svoleiðis  ? tékkaðu á manualinum",
+            "date": "2018-09-20 01:08:00",
+            "post_id": "677822",
+            "reply_to_id": "677816"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Formataðu HDD og prufaðu svo.\nSést HDD í Bios ef báðir eru tengdir?",
+            "date": "2018-09-20 06:29:00",
+            "post_id": "677831",
+            "reply_to_id": "677822"
+        }
+    ],
+    "date": "2018-09-19 22:07:00"
+}

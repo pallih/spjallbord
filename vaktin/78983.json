@@ -1,0 +1,23 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "78983",
+    "title": "Plex þjónn á internetið",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=78983",
+    "posts": [
+        {
+            "user_name": "thiwas",
+            "text": "Sæl öll, \nEin spurning, \nÉg er með Plex þjón á heimaneti án domains, sem mig langar að geta tengst utan frá í gegnum lén sem ég á eftir að kaupa.\nþannig að ég komist inn á þjóninn þá í gegnum t.d. \"plex.domain.com\"\nHvað þarf ég að gera til að koma þessu í einhvern farveg, það sem ég var að pæla er að kaupa eitthvað lén en síðan er ég ekki klár hvað ég geri svo.\nEr einhver með lausn á þessu ?",
+            "date": "2019-04-01 18:48:00",
+            "post_id": "687246",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "arons4",
+            "text": "Kaupir lénið, vísar subdomaininu plex á ytri iptölu þína, port forwardar porti 443 eða 80 á ytra netinu á port 32400 á innra netinu og þá á þetta að ganga. \nÖnnur mikið skynsamari leið væri að portforwarda porti 32400:32400 á routernum og nálgast þetta í gengnum \nhttps://app.plex.tv/desktop",
+            "date": "2019-04-01 19:04:00",
+            "post_id": "687249",
+            "reply_to_id": "687246"
+        }
+    ],
+    "date": "2019-04-01 18:48:00"
+}

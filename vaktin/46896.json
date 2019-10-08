@@ -1,0 +1,37 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "46896",
+    "title": "Netkerfis/server pælingar.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=46896",
+    "posts": [
+        {
+            "user_name": "steinarorri",
+            "text": "Var að vona að þið gætuð aðeins aðstoðað mig. Kunnátta mín á netkerfum er voða takmörkuð en er að vinna í setupi hér heima. Var að vona að einhver gæti farið yfir þetta skema fyrir mig?\nMyndi ekki allt vera tengt neti, allir geta sótt myndir og tónlist af server/NAS?\nPælingin er að koma upp server eða NAS (semi offsite, niðri í geymslu upp á öryggi að gera) sem gæti náð í bíómyndir og tónlist  (stjórnað með e-u vefviðmóti eða watch folder?) og að allir gætu fært ljósmyndir og önnur gögn á serverinn. Er að pæla hvort Windows Home Server sé góður í þetta eða mælið þið með e-u öðru? Dugar Core2Duo + 2 GB RAM?\nÖnnur pælingin er hvaða router maður ætti að fá sér í staðinn fyrir Vodafone draslið sem myndi þá styðja Gbit upp á hraða að gera í borðtölvu/fartölvur yfir þráðlaust? Er með ADSL núna, en bíð eftir ljósleiðara... koma svo GR  \n .\nSú þriðja er hvort maður ætti að draga cat5e eða cat6 kapal (það á eftir að draga allt, nú er allt þráðlaust  \n  og htpc með flakkara við hliðina á. \nGet ég einhvernveginn komist upp með það að draga einn kapal frá switch til htpc+amino afruglara (sorry ef þetta er fáranleg spurning \n )\nVona að einhver með meira vit en ég á þessu geti aðstoðað mig.\nTakk, Steinar",
+            "date": "2012-04-01 00:23:00",
+            "post_id": "432668",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Minuz1",
+            "text": "hérna",
+            "date": "2012-04-01 01:08:00",
+            "post_id": "432671",
+            "reply_to_id": "432668"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Þetta er allt á réttri leið.\nSjónvarpsmerkið þarf hinsvegar að koma beint frá router, eða frá sviss sem er tengdur í TV portið.\nAnnars myndi ég taka FreeNAS frekar en WHS, WHSv1 er með leiðinlega bögga og WHSv2 styður ekki storage pool, það eru þó reyndar nokkur flott 3rd party forrit sem geta séð um storage poolið, hef þó enga reynslu af því. FreeNASið er hinsvegar orðið ótrúlega flott og feature loaded, styður hardware monitoring, raid-z, graid, rsync backup og fleira. Mjög stutt í Torrent integration, UPnP server og fleira góðgæti. Hinsvegar er FreeNAS of limiteraður fyrir minn smekk, ég vill geta keyrt fullbown servera með þeim hugbúnaði án þess að þurfa að treysta á client vélar til að sjá um niðurhal og flr, svo ég fór sjálfur í WS2008 R2 og svo núna WinServer 8. Svo er alveg örugglega hægt að smella upp Ubuntu server (eða öðrum linux distro's) með litlu máli, auðvelt að læra og nóg til af leiðbeiningum.\nHvað router varðar, þá græðiru lítið á því að vera með Gbit ethernet tengi á honum svo lengi sem þú tengir öll tæki saman í Gbit svissinn. En það er auðvitað gott að vera með öflugan router á ljósi, þessi hérna hefur verið að fá góða dóma : \nhttp://start.is/product_info.php?cPath= ... ts_id=3167\n - Annars er NBG420n að performa fínt hjá mér á 100mbit ljósi, sé engan mun á hraða í gegnum hann eða beint í GR boxið, höndlar hellings fjölda af connections og stendur sig með prýði með max streymi í gangi í báðar áttir (UL/DL/1080p streaming út á WAN). Þráðlausa netið gæti þó verið betra, ætla að skella mér á þennan TPlink í start um leið og hann kemur aftur.\nÞað er hærri tíðni á Cat6 og ætti að vera minni líkur á truflunum yfir lengri vegalengdir, það munar líka svo litlu á verði á Cat5e og Cat6, alveg eins gott að future tryggja sig aðeins.\nEn nei ég er nokkuð viss um að þú komist aldrei upp með 1 kapal frá sviss að htpc og Amino, IP TVið er alveg á sér subneti.",
+            "date": "2012-04-01 01:09:00",
+            "post_id": "432672",
+            "reply_to_id": "432671"
+        },
+        {
+            "user_name": "steinarorri",
+            "text": "Þakka ykkur fyrir svörin, enda örugglega í FreeNAS og prófa NBG420n þegar ljósið kemur... ef það kemur einhvern tímann",
+            "date": "2012-04-01 01:42:00",
+            "post_id": "432675",
+            "reply_to_id": "432672"
+        }
+    ],
+    "date": "2012-04-01 00:23:00"
+}

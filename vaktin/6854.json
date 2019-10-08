@@ -1,0 +1,100 @@
+{
+    "forum_title": "Yfirklukkun, hraðaprófanir og mods",
+    "id": "6854",
+    "title": "Smá pæling",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=1&t=6854",
+    "posts": [
+        {
+            "user_name": "Pepsi",
+            "text": "Sælir, ef ég er búinn að hækka multiplyer og vcore voltage í bios og ekkert gerist eða réttarasagt koma engar breytingar í  CPU-Z,  eru það ekki merki um að örrinn hjá mér er læstur?  Kanski er ég bara að gera einhverja vitleysu",
+            "date": "2004-12-27 01:57:00",
+            "post_id": "72450",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Clear CMOS jumperinn örugglega réttur?",
+            "date": "2004-12-27 03:48:00",
+            "post_id": "72457",
+            "reply_to_id": "72450"
+        },
+        {
+            "user_name": "Birkir",
+            "text": "Þetta gerist líka hjá mér þegar ég hækka multi...",
+            "date": "2004-12-27 03:51:00",
+            "post_id": "72458",
+            "reply_to_id": "72457"
+        },
+        {
+            "user_name": "hahallur",
+            "text": "Kannski bara galli í CPU-Z",
+            "date": "2004-12-27 20:46:00",
+            "post_id": "72544",
+            "reply_to_id": "72458"
+        },
+        {
+            "user_name": "Birkir",
+            "text": "Nei, klukkuhraðinn hækkar ekkert.  Engin breyting á ýmsum benchmarks og svona þannig að ég giska á að hann sé bara læstur en móðurborðið styðji ólæstan.",
+            "date": "2004-12-27 21:06:00",
+            "post_id": "72551",
+            "reply_to_id": "72544"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "",
+            "date": "2004-12-27 21:09:00",
+            "post_id": "72554",
+            "reply_to_id": "72551"
+        },
+        {
+            "user_name": "noizer",
+            "text": "CPU-Z er gallaður hjá mér, eina info'ið sem kemur er í PCU (nema ekkert í multiplier) en allt hitt er bara tómt - \nKomið í lag",
+            "date": "2004-12-27 21:18:00",
+            "post_id": "72557",
+            "reply_to_id": "72554"
+        },
+        {
+            "user_name": "Pepsi",
+            "text": "cpu clock jumperinn er á 100MHz/133MHz, ef ég set hann á 166/200 þarf ég ekki að vera með minni sem er alla vega pc3200?   Skemmi ég nokkuð strax með því að setja jumperinn í 166/200?",
+            "date": "2004-12-30 16:45:00",
+            "post_id": "72882",
+            "reply_to_id": "72557"
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "Tölvan mun ekki ráða við svona hátt overclock. Þú ættir að breyta FSB hraðanum í BIOS, þá geturðu kannski náð að overclocka hann um nokkur hundruð MHz.",
+            "date": "2004-12-30 18:18:00",
+            "post_id": "72892",
+            "reply_to_id": "72882"
+        },
+        {
+            "user_name": "Pepsi",
+            "text": "Ok þetta hafðist , var smá option í bios til að kveikja á þessu ölllu.  Þannig að næsta option er að kaupa minni,  pc2100 er ekkert að ráða við að hægga fsb að ráði",
+            "date": "2005-01-05 23:50:00",
+            "post_id": "73612",
+            "reply_to_id": "72892"
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "Þú þarft líka að hækka spennuna á örgjörvanum og jafnvel líka spennuna á minninu. \n\n\n\nSvo getur komið að því að þú þarft að slaka á timings á minninu.\n\n\n\nÞú átt að læsa AGP/PCI bussinum ef móðurborðið þitt býður upp á það, annars þarftu að hækka hann eftir því sem þú hækkar front side bussinn.",
+            "date": "2005-01-06 04:34:00",
+            "post_id": "73629",
+            "reply_to_id": "73612"
+        },
+        {
+            "user_name": "Pepsi",
+            "text": "ég er búinn að komast að því að ég get léttilega komið örranum uppí 2.4ghz úr 2.17ghz,  fæ mér 2x512mb pc3500 dual channel,  aðal málið fyrir mér er það hvort að klukkun upp í 2.4ghz geri eitthvað uppá performance sem verður marktækt.   Bara það að uppfæra minnið ætti nú að boosta nokkuð vel.",
+            "date": "2005-01-06 23:14:00",
+            "post_id": "73720",
+            "reply_to_id": "73629"
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "Munurinn er þarna, en þú finnur sennilega ekki fyrir honum.",
+            "date": "2005-01-07 07:26:00",
+            "post_id": "73768",
+            "reply_to_id": "73720"
+        }
+    ],
+    "date": "2004-12-27 01:57:00"
+}

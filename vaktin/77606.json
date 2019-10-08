@@ -1,0 +1,65 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "77606",
+    "title": "Vatn á fjöltengi",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=77606",
+    "posts": [
+        {
+            "user_name": "evilscrap",
+            "text": "Var með pc tölvu i gangi heima í partyi. Stelpa helti óvart vatn á fjöltengið. Eftir það þegar ég reyni að kveikja á tölvunni þá bootar hún en fer beint i bios. Kemst ekkert i tölvuna og næ ekkert að gera i biosnum því hann frýs strax. Hvað ætli vandamálið sé ? Aflgjafinn dauður eftir surge?",
+            "date": "2018-10-29 18:33:00",
+            "post_id": "679897",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Dúlli",
+            "text": "Móðurborðið farið  \n Myndir ekki ná að ræsa ef það væri aflgjafinn, hann virkar en er ekki endilega áreiðanlegur lengur.",
+            "date": "2018-10-29 18:38:00",
+            "post_id": "679898",
+            "reply_to_id": "679897"
+        },
+        {
+            "user_name": "Squinchy",
+            "text": "Kannaðu hvar reset bios pinnarnir eru á móðurborðinu, skammhleypir þeim og prófar að boota.\nEða taka rafhlöðuna úr móðurborðinu, taka aflgjafann úr sambandi frá innstungunni og halda inni power takkanum í 10 sec, rafhlaða í, tengja við vegg og boot",
+            "date": "2018-10-29 21:26:00",
+            "post_id": "679916",
+            "reply_to_id": "679898"
+        },
+        {
+            "user_name": "DanniStef",
+            "text": "Myndi persónulega checka hvort SSD diskurinn hafi ekki bara hreinsast og ekkert stýrikerfi sé á tölvunni.\nGæti verið að móðurborð og aflgjafi sé í lagi.\nEDIT: las ekki nógu vel og tók ekki eftir að bios frýs, ( þá getur það verið móðurborð ) en prófaðu fyrst að aftengja allt frá móðurborði\nog sjáðu til hvort hún frýs enn.",
+            "date": "2018-10-30 10:57:00",
+            "post_id": "679928",
+            "reply_to_id": "679916"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "SSD diskurinn hreinsast?\nVið vatn á fjöltengi?\nÞað væri frekar magnað.",
+            "date": "2018-10-30 11:03:00",
+            "post_id": "679929",
+            "reply_to_id": "679928"
+        },
+        {
+            "user_name": "DanniStef",
+            "text": "Jebb það er það, hef sjálfur þurft að díla við svoleiðis, þá slapp aflgjafinn og móðurborðið\nen SSD diskurinn wipeaðist.",
+            "date": "2018-10-30 13:01:00",
+            "post_id": "679935",
+            "reply_to_id": "679929"
+        },
+        {
+            "user_name": "DJOli",
+            "text": "Ertu viss um að gögnin hafi ekki bara sullast út?",
+            "date": "2018-10-30 23:11:00",
+            "post_id": "679968",
+            "reply_to_id": "679935"
+        },
+        {
+            "user_name": "DanniStef",
+            "text": "Haha ætli það ekki.",
+            "date": "2018-10-31 09:59:00",
+            "post_id": "679982",
+            "reply_to_id": "679968"
+        }
+    ],
+    "date": "2018-10-29 18:33:00"
+}

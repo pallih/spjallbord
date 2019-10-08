@@ -1,0 +1,79 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "53",
+    "title": "Audigy vandamál",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=53",
+    "posts": [
+        {
+            "user_name": "Cecc",
+            "text": "hæbbz! Ég keypti mér SB audigy gamer kort um daginn en get ekki fengið það til þess að virka. Ég er með Xp og er búinn að dl nýjustu driverunum.\n\n\n\nSystem spec:\n\nWin Xp\n\nAMD athlon (tm)XP 1800\n\n256 Mb Ram\n\n\n\nÉg er búinn að reyna nánast allt... plís help ! ég þarf að koma þessu í lag sem fyrst\n\n\n\n-Gulli",
+            "date": "1970-01-01 00:00:00",
+            "post_id": "209",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "OrkO",
+            "text": "ekki reynslu af því sjálfur, en hef heyrt margt slæmt um Creative hljóðkortin þegar kemur að compatibility við sum chipset.  Gæti verið að þetta kort bara virki ekki með chipsettinu sem er á móðurborðinu þínu!  \n ennn eru víst fixes fyrir þetta einhversstaðar, en einsog ég segi, bara þekki þetta ekki nógu vel",
+            "date": "1970-01-01 00:00:00",
+            "post_id": "228",
+            "reply_to_id": "209"
+        },
+        {
+            "user_name": "kemiztry",
+            "text": "Já, þú gætir prófað að downloada nýjustu chipset driverunum fyrir móbóið þitt.  Það er oft sem það lagar svona vandamál... en ekki alltaf",
+            "date": "1970-01-01 00:00:00",
+            "post_id": "230",
+            "reply_to_id": "228"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "það var verið að tala um það á huga fyrir sotlu að creative væri með mjög lélegan driver support fyrir win xp.............",
+            "date": "1970-01-01 00:00:00",
+            "post_id": "231",
+            "reply_to_id": "230"
+        },
+        {
+            "user_name": "Saber",
+            "text": "Ég er með Asus móðurborð með AMD761 kubba, Audigy og WinXP. Þetta fúnkerar fínt hjá mér.",
+            "date": "1970-01-01 00:00:00",
+            "post_id": "243",
+            "reply_to_id": "231"
+        },
+        {
+            "user_name": "Skarsnik",
+            "text": "[url:1l5nr7nt]http://www.ripnet-uk.com/RipNet_v2/guides/sbaudigy.shtml[/url:1l5nr7nt]",
+            "date": "1970-01-01 00:00:00",
+            "post_id": "250",
+            "reply_to_id": "243"
+        },
+        {
+            "user_name": "Johnny Wagner",
+            "text": "Ég var einmitt að þreifa fyrir mér með vandamál sem ég átti við með \"Creative Soundblaster Live! value\" kortið mitt og XP.  XP fraus endrum og eins sökum kortsins.  Mér skildist að þetta væri eitthvað með IRQ-ið að gera og resource árekstra, reyndi hvað ég gat að stilla það fram og til baka en ekkert gekk.  Creative hvítþvær sig afþessu vandamáli og sakar Microsoft um það skildist mér á einhverri grein, ég rakst einnig mikið á svipað vandamál með Audigy kortið og grunar mig að þar sé akkúrat svipað uppi á teningnum.  Ég prófaði nýja drivera og ýmislegt til að losna við þetta en ekkert gekk.  Eina sem ég prófaði ekki var að sækja nýja chipset drivera, en ég veit ekki hvort ég gangi það langt.  Þetta lítur út fyrir að vera lost case, Creative skilst mér að sé með eins crappy support og mögulegt geti orðið.\n\n\n\nkveðja, \n\nJóhann",
+            "date": "2002-10-24 21:47:00",
+            "post_id": "605",
+            "reply_to_id": "250"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Ég fór í Windows Update og þar var boðið upp á nýja drivera fyrir Soundblaster sem á að koma í veg fyrir svona vandamál.\n\nErtu búinn að prófa Windows Update?\n\n:loom",
+            "date": "2002-10-24 22:04:00",
+            "post_id": "607",
+            "reply_to_id": "605"
+        },
+        {
+            "user_name": "Johnny Wagner",
+            "text": "...nei, það datt mér ekki í hug.  Ég verð endilega að kanna þetta, þakka þér fyrir skjót viðbrögð!    :punk",
+            "date": "2002-10-24 22:18:00",
+            "post_id": "611",
+            "reply_to_id": "607"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "Bara þótt að þetta komi svolítið seint, þá var ég að láta í drusluna mína, SB - Audigy 1 , á xp , gekk eins og í sögu, bara passaði mig á að disablea onboard hljóðkortið á móbóinu. Þetta er bara sweet. :fl",
+            "date": "2002-12-26 23:08:00",
+            "post_id": "1292",
+            "reply_to_id": "611"
+        }
+    ],
+    "date": "1970-01-01 00:00:00"
+}

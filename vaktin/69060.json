@@ -1,0 +1,86 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "69060",
+    "title": "High Memory usage",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=69060",
+    "posts": [
+        {
+            "user_name": "Gustur RS",
+            "text": "Sælir\nÞað er nýbúið að laga tölvuna mína eftir að móðurborðið dó hjá mér og eftir að tölvan kom aftur hefur minnið í henni alltaf rokið upp í notkun þó ekkert sé í gangi í henni. þetta gerist eftir nokkrar mínútur ef ég leyfi henni að ganga án þess að gera nokkuð í henni. Það eru ákveðin forrit sem kveikja á sér sjálf eins og steam, utorrent og skype en ég get ekki séð að neitt þeirra sé að nota allt þetta minni.\nþað sem sett var nýtt í tölvuna er:\nGygabyte S1151 GA-Z170X-Gaming 3 móðurborð\nADATA 8GB DDR4 2400MHz (2x4GB) XPG Z1 minni\nIntel Core I5-6400 Quad Core örgjörvi\nOg svo setti ég upp windows 10 eftir að ég fékk hana\nSkjákortið í henni er eitthvað gamalt Gigabyte sem ég hef ekki hugmynd um, fékk það lánað hjá vini mínum þangað til ég kaupi mér nýtt.\nEr einhver sem getur sagt mér afhverju minnið virðist alltaf vera í 7,5 - 7,8 GB notkun??? þetta hefur áhrif á leikina sem ég er að spila og ef ég restarta henni þá lagast þetta í smá tíma jafnvel uppí 3-4 klukkutíma þó svo að minnið sýni enn 7,5GB notkun. Já og windows er með eitthvað dót sem er stanslaust að koma með viðvörun um að hin og þessi forrit eins og t.d. skype sé að nota mikið minni.\nÉg reyni að láta fylgja með mynd af task manager en ég er pínu tölvuheftur og veit þarf af leiðandi eiginlega ekkert hvað ég er að gera.",
+            "date": "2016-04-01 22:08:00",
+            "post_id": "621364",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Viggi",
+            "text": "ertu að keyra virtual vél? gæti verið að minnið sé fast þar ef svo sé",
+            "date": "2016-04-01 22:33:00",
+            "post_id": "621368",
+            "reply_to_id": "621364"
+        },
+        {
+            "user_name": "Gustur RS",
+            "text": "Nú veit ég ekki hvað það er. Er eitthvað sem ég get gert til að sjá það?",
+            "date": "2016-04-01 22:44:00",
+            "post_id": "621369",
+            "reply_to_id": "621368"
+        },
+        {
+            "user_name": "tikitaka",
+            "text": "Windows+R. \nSkrifaðu services.msc. \nFinndu Superfetch í listanum. Hægri klikkaðu og farðu í properties og gerðu stop.\nLáttu svo startup type vera disabled.\nEkkert víst að þetta virki en hefur hjálpað einhverjum.",
+            "date": "2016-04-01 22:56:00",
+            "post_id": "621371",
+            "reply_to_id": "621369"
+        },
+        {
+            "user_name": "Gustur RS",
+            "text": "Þetta var í automatic og gangi og minnið lækkaði niður í 7,1 þegar ég stoppaði svo ég restartaði tölvunni og hún virðist keyra sig upp mjög fljótt aftur\nlæt mynd fylgja með rétt eftir að ég skrifaði inn passwordið\ntölvan er komin í 2,4GB þegar ég er að skrifa þetta",
+            "date": "2016-04-01 23:10:00",
+            "post_id": "621372",
+            "reply_to_id": "621371"
+        },
+        {
+            "user_name": "Gustur RS",
+            "text": "Þetta virðist hafa hjálpað helling, ég veit ekki alveg hvað er eðlileg notkun með cs go opinn en ekki að spila en svona lýtur þetta út núna \nTakk fyrir hjálpina",
+            "date": "2016-04-02 00:26:00",
+            "post_id": "621379",
+            "reply_to_id": "621372"
+        },
+        {
+            "user_name": "Gustur RS",
+            "text": "Hún hefði verið rokin upp yfir 7GB venjulega. endilega ef þið hafið fleirri ráð til að lækka þetta meira (ef þetta er enn of mikið) látið mig vita.",
+            "date": "2016-04-02 00:28:00",
+            "post_id": "621380",
+            "reply_to_id": "621379"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Þú getur skoðað nánar vinnsluminnis notkun með að nota Windows sysinternal - Process explorer , ættir þá að átta þig betur á hvaða processar eru að taka frá vinnsluminni á vélinni.\nhttps://technet.microsoft.com/en-us/sysinternals/processexplorer",
+            "date": "2016-04-02 01:31:00",
+            "post_id": "621389",
+            "reply_to_id": "621380"
+        },
+        {
+            "user_name": "Gustur RS",
+            "text": "Ég prufaði það en kann svo sem ekki inná þetta, nema sé hvað er að taka mest en hef ekki hugmynd hvort ég meigi slökkva á einhverju og hvernig þá.\nÞarna er ég ný búinn að spila leik í cs:go og ekki að nota neitt sem er í gangi nema þetta forrit en kveikt á skype, steam og einhverjum svona forritum sem mér finst að ættu ekki að taka mikið en samt er tölvan í 45% notkun á minni. Er það eðlilegt? Er eitthvað sem ég get slökkt á sem ekki þarf að vera í notkun?\nAnnað þegar ég er að spila Arma 3 þá skiptir windows of um tungumál fyrir lyklaborðið og finn þar af leiðandi ekki alltaf stafina sem mig vantar, er hægt að gera eitthvað svo þetta haldist á íslensku???",
+            "date": "2016-04-02 09:21:00",
+            "post_id": "621396",
+            "reply_to_id": "621389"
+        },
+        {
+            "user_name": "kizi86",
+            "text": "með að tungumálið breytist, þá bara að eyða út us layout út, og hafa bara íslenskt layout fyrir lyklaborðið..",
+            "date": "2016-04-02 12:37:00",
+            "post_id": "621404",
+            "reply_to_id": "621396"
+        },
+        {
+            "user_name": "Gustur RS",
+            "text": "Ég fæ ekki valmöguleikann upp að eyða því út en ég get eitt íslenku út.\nEDIT:\nÉg fann útúr þessu Enska var sett sem default ég varð að breyta íslensu í default og þá gat ég eytt ensku ;D takk fyrir",
+            "date": "2016-04-02 20:40:00",
+            "post_id": "621437",
+            "reply_to_id": "621404"
+        }
+    ],
+    "date": "2016-04-01 22:08:00"
+}

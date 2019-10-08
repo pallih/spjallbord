@@ -1,0 +1,37 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "52745",
+    "title": "ISP að blocka allt nema eigin DNS",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=52745",
+    "posts": [
+        {
+            "user_name": "binnist",
+            "text": "Vitið þið hvort að að sé mögulegt hjá ISP að blocka öll önnur DNS en þeirra eigin?\nÆtlaði að setja upp tunlr dns-inn en það virðist ekki virka\nVar á íslandi yfir jól og áramót og þar virkaði þetta fínt, gat horft á BBC iPlayer, Hulu og allt án vandamála. Kem heim til danmerkur. Allar síður virka eðlilega en um leið og ég reyni að spila efni af td BBC iPlayer að þá er ég \"utan Bretlands\" \nEr búinn að prufa bæði Playmo, UnoDNS og það virkar ekki heldur\nEf ISP geta þetta, er einhver leið fyrir mig að komast fram hjá því?",
+            "date": "2013-01-14 20:26:00",
+            "post_id": "489579",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "binnist",
+            "text": "Er búinn að tala við ISP og þeir segja að það sé ekkert lokað á neitt hjá sér. \nHef prófað 5 mismunandi dns servera en engin þeirra virðist virka. \nSé það alltaf breytast þegar ég skoða nslookup, svo það virðist ekki vera málið.\nNettengingin sem ég er á er basically eitt stórt hotspot (bý á kollegie) svo ég hef engan aðgang að neinu sem heitir router.\nEr það samt ekki rétt skilið hjá mér að ef að það er faststillur dns á routernum og ég með annann dns á tölvunni minni, ætti tölvu dns-inn ekki að override þennan sem er á routernum?",
+            "date": "2013-01-15 15:47:00",
+            "post_id": "489726",
+            "reply_to_id": "489579"
+        },
+        {
+            "user_name": "ponzer",
+            "text": "prófaðu að nota nslookup á þessa DNS servera sem þú ætlar að prófa  og query'a þessar þjónustur sem þú ert að reyna að nota.",
+            "date": "2013-01-15 16:10:00",
+            "post_id": "489733",
+            "reply_to_id": "489726"
+        },
+        {
+            "user_name": "dandri",
+            "text": "Þú þarft eflaust að tala við administratorinn í skólanum þinum.",
+            "date": "2013-01-15 16:11:00",
+            "post_id": "489734",
+            "reply_to_id": "489733"
+        }
+    ],
+    "date": "2013-01-14 20:26:00"
+}

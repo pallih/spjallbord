@@ -1,0 +1,100 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "70639",
+    "title": "Endalaus vandræði með WIFI heima",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=70639",
+    "posts": [
+        {
+            "user_name": "Axel Jóhann",
+            "text": "Góðan dag, ég er með efsta routerinn frá Vodafone ( \nhttps://vodafone.is/internet/internet/netbeinar/\n ) og 100/100 ljósleiðara frá vodafone, og er með svona wifi extender \nBý í 85fm íbúð og routerinn er inní stofu en ég bara er með svo ömurlegt þráðlaust samband inní herbergin og í raun allstaðar nema í stofunni beint á móti router, er þó bara að ná max 40mbs þar a þráðlausa netinu. \nEn með þessu setupi næ ég svona 1-10mbs á þráðlaust um alla íbúð en mjög óstabílt, er eitthvað sem er hægt að gera til að bæta þetta ? \nBúinn að prófa skipta um rásir á þráðlausa netinu og allt það, aldrei skánar þetta neitt.",
+            "date": "2016-09-14 10:10:00",
+            "post_id": "631862",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Tbot",
+            "text": "Þannig að þú er með Huawei router.\nErtu með góðan hraða þegar þú er beintengdur í routerinn, þ.e. í gegnum kapal?\nHefur þetta verið alltaf svona eða er þetta nýtilkomið?\nÞað er líka möguleiki að hann sé bilaður / breyta stillingum.\nHvað nærðu þegur þú notar ethernet portið á extendernum.",
+            "date": "2016-09-14 11:26:00",
+            "post_id": "631864",
+            "reply_to_id": "631862"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Þessi mynd gæti hugsanlega hjálpað þér að troubleshoota vandamálið.",
+            "date": "2016-09-14 13:01:00",
+            "post_id": "631873",
+            "reply_to_id": "631864"
+        },
+        {
+            "user_name": "Axel Jóhann",
+            "text": "Ethernet protið á extendernum er bara til að configa hann, ekki til að tengjast beint, þetta vandamál hefur alltaf verið til staðar , ef ég tengi beint í router fæ ég 95mbs upp/niður og ef ég sleppi extender gæjanum er svipað samband ef ekki aðeins verra, ég er að fá fullan styrk á merkið að Extender og svo fullan styrk á tölvunni sem tengist við hann þráðlaust, vandamálið er bara að þetta er mjög óstabílt samband, þó það sýni öll strik í tölvunum/símum.",
+            "date": "2016-09-14 13:32:00",
+            "post_id": "631875",
+            "reply_to_id": "631873"
+        },
+        {
+            "user_name": "Axel Jóhann",
+            "text": "Aðalvandamálið við þetta er að þau skipti sem ég spila tölvuleiki þá þýðir þetta hátt ping en er ekkert alvarlega að há mér í venjulegu browsi en þar sem að það er árið 2016 þá gerir maður nú ráð fyrir því að svona búnaður eigi að geta deliverað að lágmarki 30% af uppgefnum hraða stabílt í ekki stærra rými.",
+            "date": "2016-09-14 13:36:00",
+            "post_id": "631876",
+            "reply_to_id": "631875"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Nú þekki ég ekki þennan router (spurning hvort það er til nýrra firmware fyrir tækið). Ef þú ert nú þegar ekki búinn að gera Factory reset á tækið þá held ég að þú sért kominn að þeim stað að prófa þá aðgerð.",
+            "date": "2016-09-14 13:42:00",
+            "post_id": "631877",
+            "reply_to_id": "631876"
+        },
+        {
+            "user_name": "tdog",
+            "text": "Bíddu útskýrðu aðeins, hvar er routerinn staðsettur? Hvar er extenderinn staðsettur? Hvernig er extenderinn tengdur við routerinn? Er sama SSID á báðum? Eru þeir á sömu rás?",
+            "date": "2016-09-14 16:15:00",
+            "post_id": "631891",
+            "reply_to_id": "631877"
+        },
+        {
+            "user_name": "russi",
+            "text": "Ditto á þetta, ættir líka að prófa t.d. að hafa slökkt og extenderinum og sjá hvort að það sé að skila sömu niðurstöðu. Það er möguleiki að tækin þín séu ekki að skipta um senda, að því gefnu að þú sért með sama SSID á þeim báðum. \nÖnnur aðferð til að prófa þetta, er að hafa sitthvort SSID-ið á búnaði.",
+            "date": "2016-09-14 17:43:00",
+            "post_id": "631893",
+            "reply_to_id": "631891"
+        },
+        {
+            "user_name": "ulfr",
+            "text": "Það er ágætt að hafa í huga að WLAN er „til hægðarauka“ en er ekki örugg tenging. Að því sögðu, þá ættir maður í sjónlínu innan við 10 metra frá router að ná 100~150Mbps á n staðli á 2.4GHz og 250~400Mbps á AC. Fer náttúrulega síðan eftir bandvídd út, hverju þú í raun nærð.\nEf þú ert með ~100Mbps bandvídd út, og ert að ná <30Mbps í sjónlínu þá er eitthvað að.\nHugsanleg vandamál eru:\n1 - Tölvan - Það er driver vandamál, netkort í ólagi eða eitthvað á vélinn að valda óþarfa nettraffík.\n2 - Bilað radíó í router sem lýsir sér sem lágu throughputi.\n3 - Truflanir. Er nágranni þinn steikjandi samlokur í örbylgjuofninum nótt sem nýtan dag?\n4 - Þú ert á sömu rás og allir hinir í blokkinni. Ef þú býrð í stórri blokk sem er upp á hæð, þá áttu við þetta vandamál að stríða. Eina lausnin eru fleiri APar og halda sig við 5GHz. \nEf þú ert með extender, stilltan sem extender. Gerðu öllum greiða og taktu viðkomandi extender úr sambandi, gakktu að næstu ruslatunnu, og hentu honum. Extenderar margfalda oftast WLAN vandamál frekar en að laga neitt. Eina vitið til að lagfæra lélegt WLAN er að setja upp annan AP þar sem merkið er lélegt, og alls ekki of nálægt router (eða næsta WLAN radíói). Hver APi þarf ethernet tengingu við router.\nEf þú átt engan séns á að framlengja WLAN merki frá router með ethernet kapli, þá viltu frekar fá þér Ethernet over Powerline búnað með Access point fídus. Það gefur þér ~30Mbps hraða þegar best lætur, en það er skárra en extender.\nÁstæðan fyrir því að extendar (repeaters) eru slæmir er sú að það verður að minnsta kosti 2 földun á latency. Ástæðan er sú að extenderinn þarf að taka við pakkanum, processa hann (tekur tifhraða frá örgjörva þess tækis) og endurvarpa honum að router, sem þarf síðan að processa hann og koma honum áfram út á lýðnetið. Þetta er sjaldnast svona gott, ekki frekar en prinsessan fær prinsinn sinn eins og í Disney bókunum. Vanalega er þetta allt að fjórföldun í latency.\nUmhverfið - Það er gott að huga að því hvar router er staðsettur. Ef hann er undir hrúgunni af óhreinu sokkunum á gólfinu, þá er það slæm staðsetning, og ekki vegna sokkanna, heldur vegna þess að hver einasti hlutur, t.d. stóll eða bókahilla (sem fæstir geyma í loftinu) drekkur í sig bylgurnar frá routernum. Settu routerinn eins hátt upp og þú getur, helst upp við loft, og ég get lofað því að þú finnur mun.\nSteyptir veggir eru einnig mjög slæmir, í nýjum byggingum vegna raka í steypunni og járnabindingum og í gömlum byggingum vegna þess að stálið er enn til staðar, sem heldur húsinu uppi (sem betur fer).\nÉg vona að þetta hjálpi eitthvað.\nEdit: Ég steingleymdi pólun. Radíómerki eru alltaf póleruð, fjórar algengustu eru, lóðrétt, lárétt, hægri snúin, vinstri snúin. WLAN er oftast lóðrétt með twist af hægri eða vinstri snúinni pólun (e. Helical). Það skiptir því máli að loftnetin á routernum þínum séu lóðrétt upp og ekki nálægt neinum leiðandi hlut, t.d. málmi, carbon fiber, eða viðlíka.",
+            "date": "2016-09-15 00:43:00",
+            "post_id": "631916",
+            "reply_to_id": "631893"
+        },
+        {
+            "user_name": "frr",
+            "text": "Notaðu eitthvað eins og þetta:\nhttps://play.google.com/store/apps/deta ... i.analyzer\nog skiptu um rás ef þarf.\nFlestir þessir routerar sem koma frá símafyrirtækjunum eru með mjög lélegu wifi. Margir ódýrir accesspunktar eru einnig lélegir.\nÞað má segja ef speccar eru ekki á vefsíðu framleiðanda, þá er varan líklega ekki góð.\nLenovo spjaldtölva sem ég á, er t.d.betri sem accesspunktur en einn svona router sem ég átti við fyrir stuttu.\nEn smá breyting á staðsetningu getur breyt miklu, aðallega m.t.t. veggþykktar í beinni sjónlínu.",
+            "date": "2016-09-15 13:10:00",
+            "post_id": "631933",
+            "reply_to_id": "631916"
+        },
+        {
+            "user_name": "MarsVolta",
+            "text": "Ef þú átt pening til að eyða mæli ég með þessari eða svipaðri græju: \nhttps://www.netverslun.is/Mi%C3%B0l%C3% ... 816.action\nÉg er að fá sama hraða á speedtest.net á borðtölvunni hjá mér sem er beintengd og á fartölvunni á þráðlausa(95Mbps upp og niður). Það eru 2 veggir á milli fartölvunnar og access punktins. Svona \"heimilislausnir\" fyrir WiFi eru yfirleitt alveg glataðar. \nVonandi að þú finnir lausn á þessu samt",
+            "date": "2016-09-15 21:38:00",
+            "post_id": "631974",
+            "reply_to_id": "631933"
+        },
+        {
+            "user_name": "ulfr",
+            "text": "Unifi eru rosa fínir punktar. Að því sögðu, eru þeir ekkert endilega þeir hröðustu heldur. En áreiðanleiki er nokkuð solid, að því gefnu að þú vitir hvað þú ert að gera. Það fer t.d. mjög mikið eftir hvaða firmware þú ert að keyra. ég er búinn að hringla með þetta fram og til baka og hef komist að því að það er ýmislegt sem má læra af þessum punktum. Fyrir heimilisnotkun, þá þarf maður að vita hvað maður er að gera til að setja upp unifi punkta, sem dæmi þarf controllerinn að \"poppa\" upp af og til fyrir ákveðin firmware annars fer allt í panick. Og nýjasta firmwareið er ekkert endilega það besta fyrir max throughput.\nAð því sögðu, þá bý ég á 3 hæð, og punkturinn minn situr á fjórðu hæð, og ég næ steady 20-30Mbps í kjallaranum!\nég er að ná um 300-400Mbps nokkuð steady á 5G á Unifi AC Long range punktinum mínum.\nÉg lendi hinsvegar mjög sjaldan í skrítnum WLAN vandræðum heima (að undanskyldum þeim sem ég bý til).\nSteady net = Unifi með réttu firmware-i\nHraðasta net = góður cat5 kapall. \nAð lokum legg ég til að fólk átti sig á að netkerfi eru flókin™",
+            "date": "2016-09-21 23:47:00",
+            "post_id": "632624",
+            "reply_to_id": "631974"
+        },
+        {
+            "user_name": "Some0ne",
+            "text": "Mætti alveg bæta við:\nEr þetta gamalt hús? Eldri blokkir eru sumar hverjar með ROSALEGA þykka veggi, og þykkur steinveggur drepur Wi-Fi merki eins og enginn sé morgundagurinn, einföld innandyrahurð getur dregið það niður um 25-50% ef hún er lokuð.\nSama og aðrir eru að segja hérna, ættir að fá þér network analyzer og skoða hversu mörg network eru í kringum þig, ég bý í stórri blokk og ég sé rúmlega 18 Wi-Fi, og það var alltaf skelfilegt hjá mér þangað til að ég svissaði yfir á 5Ghz network sem eru mun færri af.",
+            "date": "2016-09-22 09:56:00",
+            "post_id": "632641",
+            "reply_to_id": "632624"
+        }
+    ],
+    "date": "2016-09-14 10:10:00"
+}

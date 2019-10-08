@@ -1,0 +1,37 @@
+{
+    "forum_title": "Coins - Rafmynt",
+    "id": "76289",
+    "title": "Vantar fleiri 6 pin tengi.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=86&t=76289",
+    "posts": [
+        {
+            "user_name": "ingibje",
+            "text": "sælir.\nMig vantar ráð varðandi aflgjafa hjá mér. ( \nhttps://kisildalur.is/?p=2&id=3643\n )\nég er langt frá því að nýta 1200w sem aflgjafinn er gefinn upp fyrir enn vantar fleiri 6 pin pci-e tengi.\nég á 5 gtx 750 kort sem mig langar að bæta á hann, enn þau hafa ekki 6 pin tengi heldur taka allt sitt rafmagn frá pci-e raufinni.\násamt því að ég er með eitt rx 460 kort sem er ekki með 6 pin tengi.\nhvernig á maður að gera þetta og hvernig er þetta 100% öruggt.\nég sé þessar leiðir færar;\n1. tengja molex beint í riser, einn riser per \"lengju\", er það í lagi ef kortið tekur allt sitt rafmagn frá risernum?\n2. tengja dual molex í 6 pin beint í riser, einn riser per \"lengju\".\n3. 8 pin cpu tengi í dual 6 pin tengi; \nhttps://www.ebay.com/itm/CPU-8-Pin-To-D ... SwEUVZYy3O\nég er þegar með 1070 kort tengt molex beint í riser og það hefur gengið vel hingað til enn ég þori varla gera það ef kortið fær ekkert rafmagn frá neinu öðru.",
+            "date": "2018-05-12 14:54:00",
+            "post_id": "672144",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "jonsig",
+            "text": "Ef þú kemst yfir 1 í 2 molex splittera er hægt að redda þessu. Gæðin á þeim á ebay eru því miður mjög misjöfn. Ég sé ekki betur heldur en þetta sé single rail psu, svo ef eitthvað af þessum \"mix\" leiðslum byrja að hitna þá halda þær áfram að hitna... með 100A afköst er hægt að bræða og brenna vægast sagt.\nGætir prufað þetta og athugað reglulega hvort splitterarnir byrji að hitna.\nÞessi splitter sem þú ert með link á virkar flottur, ég hef séð marga splittera sem jörðin er loopuð með stuttum vír á skjákortsplugginu, það er verri útfærslan.\nEn gallin með snúrur og annað frá kína, er að stundum er vírinn gildur og fínn, en þegar þú skrælir hann þá er þetta bara nanó mjór vír og stundum úr einhverjum dubious málmi. Allt til að breyta stemmingunni í áramótabrennu.",
+            "date": "2018-05-12 15:30:00",
+            "post_id": "672148",
+            "reply_to_id": "672144"
+        },
+        {
+            "user_name": "Haflidi85",
+            "text": "Var samt spurninginn ekki frekar hvort, riserar beintengdir við aflgjafa með annaðhvort sata eða molex beint, væri nóg power í skjákort sem hafa ekki 6 pin rafmagnstengi ?\nþ.e. skjákort sem draga bara rafmagn úr pciex slottinu, þetta er eitthvað sem þú þyrftir að fletta upp á mining forums held ég, mig minnir að pci express 1 og 2 geti gefið 75W af power en 3.0 geti dregið  um 300w (sbr. \nhttps://www.brighthub.com/computing/har ... 23289.aspx\n), en ég geri mér engan veginn grein fyrir því hvort riserar skili einhverju nálægt því, eða hvort það fari eftir gæðum hvers risers fyrir sig og psu og öllum snúrunum hvað riserinn gefur kortunum.\nÉg myndi persónulega fletta þessu upp á mining forums og í versta falli bara prófa eitt kort í einu",
+            "date": "2018-05-12 18:10:00",
+            "post_id": "672155",
+            "reply_to_id": "672148"
+        },
+        {
+            "user_name": "ingibje",
+            "text": "sælir strákar, takk fyrir svörin.\nenn jú spurningin er eiginlega tvíþætt. hvort það sé í lagi að nota svona adapters og ef það, hvort það sé í lagi að nota það á skjákort sem hafa ekkert 6 pin tengi.\nenn kortin sem ég er með eru með tpd í kringum 55w. 6 pin tengi er gefið upp sem 75w. \nþegar menn tengja risera við t.d 1070 kort sem er með 8pin tengi. þá tekur það nánast ekkert rafmagn í gegnum riserinn, enn það er auðvita ekki málið með kort sem hafa ekkert auka tengi.\nannars er ég smeikur við unbranded adapters frá ebay og ali, ég bara finn ekki þessi tengi frá alvöru framleiðendum.",
+            "date": "2018-05-12 18:44:00",
+            "post_id": "672156",
+            "reply_to_id": "672155"
+        }
+    ],
+    "date": "2018-05-12 14:54:00"
+}

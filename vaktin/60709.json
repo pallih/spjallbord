@@ -1,0 +1,37 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "60709",
+    "title": "4 USB í 1 USB",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=60709",
+    "posts": [
+        {
+            "user_name": "danniornsmarason",
+            "text": "ef ég er með 1 usb hub með 4 usb stikum og tengi við tölvunna þá koma þessir 4 upp, en ég var að spá hvort það er hægt að breyta þannig að allir þessir 4 usb'ar sameinast í 1 drive (D:) drive t.d., semsagt sameina geymsluplássið á þeim\nog þá ef það er hægt, myndi það haldast þannig ef maður tengir í aðra tölvu?\ná slatta af usb og allir 2gb-4gb og mig langaði aðss setja upp stýrikerfi á þessum usb þannig það verður bootað upp af usb fyrir svona media tölvu",
+            "date": "2014-04-30 10:59:00",
+            "post_id": "560628",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Crazy en það virðist vera hægt að gera þetta með JBOD í windows soft raid:  \nhttp://itexpertvoice.com/home/usb-flash ... windows-7/",
+            "date": "2014-04-30 11:06:00",
+            "post_id": "560630",
+            "reply_to_id": "560628"
+        },
+        {
+            "user_name": "danniornsmarason",
+            "text": "takk fyrir þetta! en ef ég myndi tengja það við aðra tölvur myndi þetta þá vera enþá raid eða er það bara hægt með eina tolvu?",
+            "date": "2014-04-30 11:45:00",
+            "post_id": "560632",
+            "reply_to_id": "560630"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Þú þyrftir væntanlega að setja jbod raid upp á hverri tölvu fyrir sig þar sem þetta er software raid.\nSpurning hvort það sé til einhverstaðar hardware sem gerir þetta.",
+            "date": "2014-04-30 13:49:00",
+            "post_id": "560639",
+            "reply_to_id": "560632"
+        }
+    ],
+    "date": "2014-04-30 10:59:00"
+}

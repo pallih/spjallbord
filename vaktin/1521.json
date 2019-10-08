@@ -1,0 +1,121 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "1521",
+    "title": "Þráðlaust net",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=1521",
+    "posts": [
+        {
+            "user_name": "ibs",
+            "text": "Ég fékk mér svona Þráðlaust ADSL tilboð hjá Símanum og er ekki ánægður með búnaðinn.\n\n\n\nTölva (A) er tengt routernum sem ég fékk frá Símanum, þetta er Alcatel SpeedTouch 570 router.\n\nEitt enn, línan þar sem tölva (A) er tengd hjá mér er eina tengda ADSL línan. Það er engin önnur símadós sem tengist á þetta númer.\n\n\n\nTölva (B) er önnur Borðtölva sem er á fyrstu hæð. Ég fékk USB Wireless Adapter fyrir þessa tölvu.\n\n\n\nAllar tölvunar eru með Win XP Pro SP1\n\n\n\nÞeir hjá símanum sögðu að þetta ætti að drífa 100+ metra innanhús, en tölva (B) nær engu sambandi. Ég setti þetta allt upp eins og sagt var í leiðbeiningum.\n\n\n\nSíðan ákvað ég að kíkja á síðuna hjá SpeedTouch og þar sá ég að þessi router drífur ekki nema 60 m.  \n\n\n\nÉg ætla að fara að kvarta yfir þessu. En ég þarf að vita hvaða router/aðgangspunktur á að ráða við þetta. \n\n\n\nMér var sagt að ég gæti keypt þennan \n\nWireless Ethernet Bridge frá Linksys:\n\nhttp://www.linksys.com/products/product ... 32&scid=36\n\n\n\n\nÆtti ég þá að geta notað áfram router draslið frá Símanum og þessi Wireless Ethernet Bridge væri þá einskonar magnari?\n\n\n\nÉg var þá að spá í að setja þennan Wireless Ethernet Bridge annaðhvort í herbergi a eða b (litlir grænir stafir á mynd)\n\n\n\nÞyrfti ég að tengja þetta Wireless Bridge í símalínu, ethernet tengi við tölvu eða bæði?",
+            "date": "2003-09-14 00:18:00",
+            "post_id": "13267",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gumol",
+            "text": "Þú þarft að fá þér Þráðlausan access punct með router ef þú ert ekki með adsl módem á borðtölvunni.",
+            "date": "2003-09-14 00:40:00",
+            "post_id": "13269",
+            "reply_to_id": "13267"
+        },
+        {
+            "user_name": "dadik",
+            "text": "Þú hefur 2 möguleika:\n\n\n\n1 - Að fá sé auka access punkt og setja hann á neðri hæðina. Þetta er þó háð því að þú getir lagt TP snúru milli þráðlausa routersins og access punktsins. Reyndar er hægt að linka suma punkta saman gegnum þráðlausa netið. Tomshardware var með grein um þetta um daginn - mig minnir að það hafi verið DLink sem bauð upp á þetta.\n\n\n\n2 - Fá sér router sem getur tengst utanáliggjandi loftneti. Loftnetið í þessum Speedtouch 570 er innbyggt og ekki hægt að tengja hann við utanáliggjandi - að ég held. Linksys er með útfvær loftnet sem ætti að gera þetta auðveldara. Tölvulistinn er með ágætis úrval af loftnetum - frá 5db til 12db sem ættu að duga til að halda góðu signali um allt húsið.\n\n\n\n- dk",
+            "date": "2003-09-14 01:51:00",
+            "post_id": "13273",
+            "reply_to_id": "13269"
+        },
+        {
+            "user_name": "odinnn",
+            "text": "ég veit ekki með aðra framleiðendur en Linksys er með svo kallaðar brýr sem framlengja signalið. annas hefði ég aldrei keypt mér svona tilboð því ég hef komist að því að eiginlega öll tilboð, með eiginlega allar tölvuvörur innihalda ekki góð merki.",
+            "date": "2003-09-14 02:00:00",
+            "post_id": "13274",
+            "reply_to_id": "13273"
+        },
+        {
+            "user_name": "gumol",
+            "text": "mælið þið með einhverjum sérstökum loftnetum fyrir lynksis?",
+            "date": "2003-09-14 02:06:00",
+            "post_id": "13275",
+            "reply_to_id": "13274"
+        },
+        {
+            "user_name": "ICM",
+            "text": "btw ibs flott teikning \n\n\n\n\nEn mæli með að þú notir amk mspaint næst það er auvðeldara fyrir þig, save as jpg þá geturðu sent það hér.",
+            "date": "2003-09-14 10:48:00",
+            "post_id": "13285",
+            "reply_to_id": "13275"
+        },
+        {
+            "user_name": "Hlynzi",
+            "text": "Ég sá þetta tilboð og hélt að þetta væri loftlína. \n\n\n\nEn nei, þetta er bara þráðlaus router drusla. \n\n\n\nEn segið mér eitt. Get ég ekki fengið mér þráðlausan \"2 porta\" höbb/switch og notað með lappa sem ég fæ mér bráðlega. ÉG vil þá uplinka hann í switchinn sem er fyrir, til að komast á heima-lanið mitt og internetið án þess að þurfa að plögga í (þótt ég eigi eina 23 metra snúru nenni ég ekki að þvælast með hana um allt.",
+            "date": "2003-09-14 10:56:00",
+            "post_id": "13290",
+            "reply_to_id": "13285"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Þráðlausir access punktar nota ekki port, það er hægt að tengja eins margar tölvur við þá þangað til punkturinn ræður ekki við meira.",
+            "date": "2003-09-14 11:42:00",
+            "post_id": "13295",
+            "reply_to_id": "13290"
+        },
+        {
+            "user_name": "B31N1R",
+            "text": "Þú nærð tæpa 60 metra með alcatel 570 og voða svipað með linksys (hef sett upp báðar gerðir) úti í sjónlínu.  Þegar þú ert að nota þetta innanhúss, þá geta veggir, steyputeinar og annað svoleiðis dregið verulega úr merkinu.  \n\nÉg veit bara um 2 gerðir af sendum sem drífa þetta, en þar sem þú ert að leita að adsl samhæfðu þá er bara ein græja sem kemur til greina.\n\nÞað er dreytek adsl með bæði switch og wireless.  Kostur þess er stórt loftnet sem merkir góður sendistyrkur ásamt því að í því tilfelli sem ég prófaði það dreyf það í gegnum steypta þykka gólfplötu skáhallt frá einum enda steynsteypts einbýlishúss niður í hinn endan á 80% signal strenght.  Veit að það er hægt að kaupa þessa græju í kt tölvum og icecom.  Linksys og thomson (alcatel) eru báðar með pcmcia eða innbyggð loftnet sem drífa ca. 20 metra í besta lagi innanhúss.  Það sem gleymist að athuga oft þegar verið er að selja þennan búnað hérlendis er að byggingastaðlar eru aðrir en í heitari og jarðskjálftavænni löndum \n\n\nVona að þetta hjálpi eitthvað.",
+            "date": "2003-09-17 18:16:00",
+            "post_id": "13699",
+            "reply_to_id": "13295"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Þú virðist vita mjög mikið um þetta svo geturu bennt mér á eitthvað gott loftnet fyrir Linksys þrá´lausann access punkt (b staðall)",
+            "date": "2003-09-17 18:32:00",
+            "post_id": "13700",
+            "reply_to_id": "13699"
+        },
+        {
+            "user_name": "JÞA",
+            "text": "Var að kaupa svona þráðlaust thompson alcatel 570.  og er með eina spurningu.  10/100 portið á þessum router virkt og er hægt að tengja það við switc.  þannig inn að það sé hægt að vera með  2-3 tolvur á netinu í gegnum kapal enn ekki þráðlaust.",
+            "date": "2003-11-26 17:39:00",
+            "post_id": "21597",
+            "reply_to_id": "13700"
+        },
+        {
+            "user_name": "bizz",
+            "text": "Það er ekkert mál að tengja þetta við switch. Hef gert það oft.\n\nEn það eru nú líka til aðrar tegundir en linksys og alcatel sem eru að virka mun betur.\n\nAllavega betur en 60m í sjónlínu.\n\nÉg hef verið að setja upp D-Link sem dregur u.þ.b 500m í sjónlínu.",
+            "date": "2003-11-28 16:45:00",
+            "post_id": "21813",
+            "reply_to_id": "21597"
+        },
+        {
+            "user_name": "Buddy",
+            "text": "Það er ekki það að 570 beinirinn sé eitthvað slappur. Það fer svo mikið eftir því sem er fyrir hvað hann drífur mikið. Mikið járn í sandinum í steypuveggjum getur étið merkið algjörlega á einhverjum 20cm kafla. Í Kanadískum húsum næst hinsvegar merkið á milli húsa.",
+            "date": "2003-12-25 12:11:00",
+            "post_id": "25264",
+            "reply_to_id": "21813"
+        },
+        {
+            "user_name": "Mal3",
+            "text": "Ég er einmitt að leita mér að græju \"to go wireless\" þar sem bæði ég og konan munum verða með þráðlausa skólalappa bráðlega. Betra ef ég þarf ekki að kveikja á borðvélinni frekar en mig langar (hún er í dag með innvært ADSL).\n\n\n\nÞað eru auðvitað mörg atriði til að skoða í svona en 4 held ég að séu mikilvægust:\n\n\n\n1) Öryggi - óviðkomandi séu ekki að misnota mitt net.\n\n2) Verð - blankur skólamaður sem er að kaupa sér laptop  \n\n\n3) Drægi - ég er ekki í stórri íbúð, en vildi helst hafa sendinn í stofunni og getað notað lappana í eldhúsinu, en þessi svæði eru aðskilin með (nokkuð löngum) steinvegg.\n\n4) Einfaldleiki - plís, sem minnst vesen við uppsetningu o.s.frv.!\n\n\n\nÉg er ekki að sjá mikið af þráðlausum routerum með innbyggðu ADSL á vefsíðum tölvuverslana og sérstaklega ekki á verði sem mér hugnast.\n\n\n\nÖnnur fartölvan verður með 802.11g en hin b, en hraði er aukaatriði hjá verði og öryggi, enda ADSL tengingin 1 Mb/s.\n\n\n\nEinhverjar góðar lausnir á þessu, helst \"one-box\" lausnir?\n\n\n\nÉg sá að t.d. Gumol benti á þennan \nrouter\n í öðru \nsvari\n. Ég hef heyrt góð meðmæli með Linksys, en líst illa á að hann noti þetta netkort til að verða þráðlaus.",
+            "date": "2004-01-03 21:57:00",
+            "post_id": "26149",
+            "reply_to_id": "25264"
+        },
+        {
+            "user_name": "JÞA",
+            "text": "sælir  fékk mér þráðlaust hjá símanum. með að uppfæra tenginguna.borgaði fyrir það 3400.+1000 extrá á mánuði í 1ár.\n\n\n\nþessi router er með eitt 10/100 út tengi sem ég tengdi við 5porta switch og það virkar allvega að tengja 3 tolvur inn á það þannigin með snúru.(hef ekki prufað fleirri).  og svo er hægt að vera með einhvern slatta afþráðlausum tölvum inni á þessu líka.\n\n hef ekki prufað langdrægnina enn held að hun sé góð fyrir mig.\n\n\n\ner ánægður með þetta eins og er.",
+            "date": "2004-01-04 07:37:00",
+            "post_id": "26221",
+            "reply_to_id": "26149"
+        },
+        {
+            "user_name": "Mal3",
+            "text": "Mánaðargjaldið fyrir tenginguna skiptir mig miklu máli og að halda gamla póstfanginu. Því hélt ég áfram hjá Og Vodafone. Svo finnst mér ágætt að vera ekki bundinn við þónustuaðila og langar því að ná mér í netbúnaðinn upp á eigin spítur.",
+            "date": "2004-01-04 16:20:00",
+            "post_id": "26253",
+            "reply_to_id": "26221"
+        }
+    ],
+    "date": "2003-09-14 00:18:00"
+}

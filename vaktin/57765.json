@@ -1,0 +1,149 @@
+{
+    "forum_title": "Óskast - Tölvuvörur",
+    "id": "57765",
+    "title": "[ÓE] Arduino, einhver?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=54&t=57765",
+    "posts": [
+        {
+            "user_name": "Sallarólegur",
+            "text": "Á einhver Arduino til að selja? Fæst þetta í Íhlutum?\nNú þekki ég þetta ekki nógu vel, hvaða version er best að kaupa?\nEr að spá í Home Automation.",
+            "date": "2013-10-21 11:10:00",
+            "post_id": "534299",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gislinn",
+            "text": "Miðbæjarradíó (MBR) hefur verið að selja einhver borð. Íhlutir eru með Arduino Uno á 9.066 kr en það kostar 6.225 kr í MBR.\nMiðað við þessi verð að þá myndi ég hugsa um að fjárfesta frekar í Raspberry Pi.\nEDIT: verð eru fengin úr verðlistum á vefsíðu verslananna.",
+            "date": "2013-10-21 11:28:00",
+            "post_id": "534301",
+            "reply_to_id": "534299"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Skoða fyrst hvort hentar betur, td. upp á tengi möguleika og tilbúinn hugbúnað/vélbúnað.",
+            "date": "2013-10-21 11:29:00",
+            "post_id": "534302",
+            "reply_to_id": "534301"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Myndi líklega kaupa eitthvað svona kit á eBay, fáránleg álagning hjá þessu liði  \n Allavega miðað við þau verð sem ég er að sjá á eBay.\nHér er t.d. Uno, komið heim á undir 2000 kr.:\nhttp://www.ebay.com/itm/121198528621\nMiðað við það sem ég hef lesið, sem er reyndar ekki mikið, þá held ég að ég byrji á Arduino, einfaldlega vegna þess að það er ódýrt og einfalt.",
+            "date": "2013-10-21 11:55:00",
+            "post_id": "534303",
+            "reply_to_id": "534302"
+        },
+        {
+            "user_name": "dori",
+            "text": "Ég á nokkra \nArduino Nano\n og gæti látið einn eða tvo frá mér ef þeir henta í það sem þú ert að gera. Þetta eru ekki \"official\" unit þannig að þau kosta þannig séð slikk (m.v. þessar tölur að ofan a.m.k.).",
+            "date": "2013-10-21 11:56:00",
+            "post_id": "534304",
+            "reply_to_id": "534303"
+        },
+        {
+            "user_name": "Swanmark",
+            "text": "Ég er að taka þetta frá \nhttp://dx.com/\n á ~$20, og frí heimsending \nOg svo var ég að taka 5 arduino NANO frá \nhttp://aliexpress.com/\n og 1 virkaði",
+            "date": "2013-10-21 13:28:00",
+            "post_id": "534322",
+            "reply_to_id": "534304"
+        },
+        {
+            "user_name": "dori",
+            "text": "Sorry með off topic en hvað var að þessum 4?",
+            "date": "2013-10-21 13:32:00",
+            "post_id": "534325",
+            "reply_to_id": "534322"
+        },
+        {
+            "user_name": "Swanmark",
+            "text": "Tölvan bara detectaði þau ekki, prufaði fleiri tölvur also.\nHafði samband og hann sagði bara \"virkar ekki á windows 7\" :l\nobviously bull.",
+            "date": "2013-10-21 13:44:00",
+            "post_id": "534331",
+            "reply_to_id": "534325"
+        },
+        {
+            "user_name": "dori",
+            "text": "Búinn að prófa að flasha Arduino bootloaderinn aftur á þær? Ég þurfti að gera það við einhvern kína-arduino.",
+            "date": "2013-10-21 13:47:00",
+            "post_id": "534333",
+            "reply_to_id": "534331"
+        },
+        {
+            "user_name": "tlord",
+            "text": "það er hægt að kaupa soldið sniðug set á ebay, þe arduino borð + allskonar dót til að gera margt\ner á 50 - 70 usd",
+            "date": "2013-10-21 14:35:00",
+            "post_id": "534337",
+            "reply_to_id": "534333"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Vert að benda á að þetta er ekki official Arduino borð, heldur ódýrari \"no-name\" útgáfa.\nÉg þekki ekki gæðamuninn, ef einhver, en þetta útskýrir allavega verðlagið að einhveru leyti",
+            "date": "2013-10-21 14:39:00",
+            "post_id": "534338",
+            "reply_to_id": "534337"
+        },
+        {
+            "user_name": "dori",
+            "text": "Nákvæmlega. Ég ætlaði að benda á það áðan. Ég á einn official arduino og nokkrar Kína útgáfur (var slatta verðmunur). Hönnunin er náttúrulega opin þannig að hver sem er má búa svona til og jafnvel selja og hagnast þannig á hönnuninni.\nMínar kína útgáfur virka fínt en ég þurfti að flasha eina eða tvær með bootloadernum áður en þær virkuðu (s.s. að tölvan finni þær). Svona QC dæmi er eitthvað sem þú borgar fyrir þegar þú kaupir \"official\" borð en er ekki (alltaf) jafn vel gert þegar þú kaupir það ódýrasta.",
+            "date": "2013-10-21 15:12:00",
+            "post_id": "534343",
+            "reply_to_id": "534338"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Já, ágætt að benda á það \nÉg held að þetta sé allt framleitt í Kína og að verðmunurinn felist aðallega í því að þú ert að kaupa þetta beint frá framleiðanda, í stað þess að bæta ítalska milliliðnum inn í jöfnuna.\nÞessi lítur t.d. alveg nákvæmlega út eins og org. Uno, mv. þær myndir sem ég hef séð.\nhttp://www.ebay.com/itm/181063136053",
+            "date": "2013-10-21 15:15:00",
+            "post_id": "534344",
+            "reply_to_id": "534343"
+        },
+        {
+            "user_name": "dori",
+            "text": "Þú ert ekkert endilega meira að kaupa þetta beint af framleiðanda svona. Þú ert frekar að kaupa af öðrum framleiðanda sem er búinn að skera niður þar sem mögulegt er og gefur væntanlega ekkert til baka (í hönnun á platforminu) heldur er bara í því að búa til product og selja það og fínt að fá hönnunina \"frítt\".\nÞetta lítur auðvitað nákvæmlega eins út enda gert eftir sömu teikningu. Annars myndu líka t.d. venjulegir arduino skildir ekki virka með þessu og þá væri það mun minna virði fyrir flesta.",
+            "date": "2013-10-21 15:20:00",
+            "post_id": "534346",
+            "reply_to_id": "534344"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Nú verð ég bara að henda fram 2 glærum úr fyrirlestri sem samnemendur mínir settu fram varðandi Reverse engineering.",
+            "date": "2013-10-21 15:21:00",
+            "post_id": "534347",
+            "reply_to_id": "534346"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Efast um að þessir bílaframleiðendur séu með 99,8% positive feedback frá viðskiptavinum víðs vegar um heiminn",
+            "date": "2013-10-21 15:24:00",
+            "post_id": "534348",
+            "reply_to_id": "534347"
+        },
+        {
+            "user_name": "Gislinn",
+            "text": "Flest original arduino borðin eru framleidd á Ítalíu af fyrirtæki sem heitir SmartProjects og allar vélarnar sem notaðar eru við framleiðsluna eru einnig framleiddar á Ítalíu.\nArduino Pro, Pro Mini og LilyPad eru framleidd af SparkFun Electronics í USA og Arduino Nano er einnig framleitt í USA af Gravitech.\nMeð því að kaupa original arduino þá færðu borð sem eru pottþétt að virki. Þau þurfa að uppfyla ákveðin lágmarksgæði á íhlutum og þess háttar, einnig fer hluti af kaupverði borðanna til Arduino fyrirtækisins til að tryggja áframhaldandi þróun á borðunum.",
+            "date": "2013-10-21 15:39:00",
+            "post_id": "534356",
+            "reply_to_id": "534348"
+        },
+        {
+            "user_name": "rango",
+            "text": "Þú hefur ekki íhugað rasperry?",
+            "date": "2013-10-21 15:44:00",
+            "post_id": "534359",
+            "reply_to_id": "534356"
+        },
+        {
+            "user_name": "hrabbi",
+            "text": "Þið sem hafið verið að kaupa þessar kínaútgáfur af Arduino af dx.com eða ebay: hafa borðin ykkar verið CE merkt og ef ekki lentuð þið í einhverjum vandræðum með tollinn?",
+            "date": "2013-10-21 16:11:00",
+            "post_id": "534364",
+            "reply_to_id": "534359"
+        },
+        {
+            "user_name": "Swanmark",
+            "text": "eeeeeengin vandræði.",
+            "date": "2013-10-21 16:25:00",
+            "post_id": "534367",
+            "reply_to_id": "534364"
+        }
+    ],
+    "date": "2013-10-21 11:10:00"
+}

@@ -1,0 +1,51 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "27112",
+    "title": "WMA pro yfir í DTS.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=27112",
+    "posts": [
+        {
+            "user_name": "Pandemic",
+            "text": "Ég er að pæla hvort einhver hérna viti hvort ég geti convertað frá WMA Pro yfir í DTS þegar ég converta úr WMV yfir í mkv? Einu möguleikarnir sem ég fæ með SUPER er AC3.\nLangar að nýta mér pass through á WD TV græjunni og láta magnaran sjá um DTS.",
+            "date": "2009-12-26 03:40:00",
+            "post_id": "235986",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Blues-",
+            "text": "ffmpeg getur þetta ..\nveit hinsvegar ekki hvort það sé til einhver windows útgáfa af ffmpeg, er sjálfur linux notandi.\nAnnars rakst ég um daginn á einhvern converter þegar ég var að hjálpa félaga mínum að breyta wma í mkv ..\ngetur kíkt á það hér .. \nhttp://www.networkedmediatank.com/showt ... ?tid=11991",
+            "date": "2009-12-26 12:54:00",
+            "post_id": "236013",
+            "reply_to_id": "235986"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Þetta forrit bara virkar enganvegin fyrir mig, outputið er alltaf ónýtt og spilast ekki á WD TV",
+            "date": "2009-12-26 14:37:00",
+            "post_id": "236021",
+            "reply_to_id": "236013"
+        },
+        {
+            "user_name": "Blues-",
+            "text": "Videohelp klikkar ekki ... kíktu á eitthvað af þessum guide-um .. => \nhttp://www.videohelp.com/convert",
+            "date": "2009-12-26 15:19:00",
+            "post_id": "236026",
+            "reply_to_id": "236021"
+        },
+        {
+            "user_name": "Matti21",
+            "text": "Til að búa til DTS rás er yfirleitt notast við þennan gaur \nhttp://www.videohelp.com/tools/Surcod\nEn til þess að geta það þarftu að splitta original hljóðrásinni í sér skrá fyrir hverja rás þ.e.a.s sér hljóð file fyrir center rásina, subwoofer rásina, fremri hægri, aftari hægri o.s.frv. Fullt af forritum sem geta þetta með LPCM hljóðrásir en þetta er elfaust meira vesen með WMA Pro þar sem það er í eigu microsoft og ekki mikið af freeware forritum til fyrir þeirra codecs. Verður bara að prófa Windows Media Encoder, getur sótt hann á microsoft síðunni. Man ekki hvort hann geti splitað hljóðrásinni svona og get ekki gáð að því þar sem ég er i augnablikinu cappaður í drasl af vóðafón  \n \nGæti trúað því að þetta sé pínu vesen og ég held ég mundi bara sætta mig við AC3 ef ég væri þú",
+            "date": "2009-12-26 16:17:00",
+            "post_id": "236027",
+            "reply_to_id": "236026"
+        },
+        {
+            "user_name": "gutti",
+            "text": "prófaðu þennan forum  \nhttp://www.avsforum.com/avs-vb/showthread.php?t=1146219",
+            "date": "2009-12-26 17:37:00",
+            "post_id": "236035",
+            "reply_to_id": "236027"
+        }
+    ],
+    "date": "2009-12-26 03:40:00"
+}

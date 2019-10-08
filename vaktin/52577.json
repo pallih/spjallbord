@@ -1,0 +1,65 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "52577",
+    "title": "2x NVidia skjákort í Crossfire móðurborði - worth it?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=52577",
+    "posts": [
+        {
+            "user_name": "Haxdal",
+            "text": "Sælir,\nÉg er að fara púsla í gömlum vélbúnaði hjá mér og við það fæ ég auka GTX260 kort og ég er að pæla hvort ég myndi græða eitthvað á því að vera með 2 Nvidia kort í móðurborði sem styður ekki SLI.  ég hef ekki mikið verið að fikta í vélum sem eru með 2+ skjákort en ég er með Asus P5B Deluxe móðurborð sem er með 2 x16 PCI-E raufum (2 x PCIe x16 (blue @ x16 mode, black @ x2 or x4 mode) ),  myndi ég græða eitthvað á því að setja skjákortið í hana og vera með 2x 260GTX kort þótt þau séu ekki SLIuð?",
+            "date": "2013-01-08 13:55:00",
+            "post_id": "488258",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "mercury",
+            "text": "gætir grætt einhvað á að nota hitt fyrir physx",
+            "date": "2013-01-08 15:51:00",
+            "post_id": "488281",
+            "reply_to_id": "488258"
+        },
+        {
+            "user_name": "AciD_RaiN",
+            "text": "Gott líka ef maður er að folda",
+            "date": "2013-01-08 15:52:00",
+            "post_id": "488283",
+            "reply_to_id": "488281"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "það er hægt að runa sli á móðurborði sem styður það ekki með smá driver hacki:)",
+            "date": "2013-01-08 16:59:00",
+            "post_id": "488303",
+            "reply_to_id": "488283"
+        },
+        {
+            "user_name": "Haxdal",
+            "text": "veistu hvort það sé eitthvað vesen að hakka þannig á gömlu móbói?",
+            "date": "2013-01-08 17:08:00",
+            "post_id": "488306",
+            "reply_to_id": "488303"
+        },
+        {
+            "user_name": "Hnykill",
+            "text": "Er það málið í alvöru ?? ..er hardware-ið með fulla getu að keyra þetta ? Ekki að setja neitt útá neitt.. en ef þetta er bara firmware og kóði sem skilur á milli.. þá svei !",
+            "date": "2013-01-08 17:42:00",
+            "post_id": "488316",
+            "reply_to_id": "488306"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Það voru sögur í gamla daga, sem ég held að hafi líklega verið réttar, um að nVidia neituðu Intel að hafa SLI stuðning á kubbasettunum sínum.  Svo komu fréttir um að X38 kubbasettið væri það fyrsta sem hefði náð samningum við nVidia um að hafa SLI möguleika, en við útgáfu reyndist það vera bull, þar sem aðeins var Crossfire á því.\nLoksins þegar móðurborð kom út sem hafði bæði SLI og Crossfire var mögulegt að búa til hack til að komast fram hjá þessu.\nÞað er í raun \"enginn\" vélbúnaðarmunur milli þeirra borða í dag sem styðja Crossfire og SLI, með því á ég við að einmitt með hugbúnaðar-hacki geturðu keyrt 2x nVidia kort á Crossfire borði og fengið gott sem sömu afköst og með \"raunverulegu\" SLI borði.\nHef gert þetta sjálfur með 2x GTX550Ti og kom það mjög vel út.\nhttp://www.techpowerup.com/forums/showt ... p?t=153046",
+            "date": "2013-01-08 18:41:00",
+            "post_id": "488334",
+            "reply_to_id": "488316"
+        },
+        {
+            "user_name": "Haxdal",
+            "text": "nice .. ætla að prófa þetta þegar ég er búinn að fikta í þessum gömlu vélum",
+            "date": "2013-01-08 20:50:00",
+            "post_id": "488385",
+            "reply_to_id": "488334"
+        }
+    ],
+    "date": "2013-01-08 13:55:00"
+}

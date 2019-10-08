@@ -1,0 +1,37 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "19286",
+    "title": "Forrit sem startast sjálfkrafa við ræsingu.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=19286",
+    "posts": [
+        {
+            "user_name": "birgiro",
+            "text": "Eru einhverjar stillingar sem hægt er að stilla til að losna við óðarfa forrit og dót sem kemur þegar ég ræsi tölvuna.\nég er með vista\nöll hjálp vel þegin\ntakk\nkv Birgir",
+            "date": "2008-09-10 22:15:00",
+            "post_id": "182123",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "start - run - cmconfig\nvelur svo startup flipann og velur",
+            "date": "2008-09-10 22:21:00",
+            "post_id": "182124",
+            "reply_to_id": "182123"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Start > Run > msconfig > OK\nFara í \"Services\" og velja \"Hide all microsoft ...\" og fara í \"Startup\" flipann og taka hakið úr því sem þú vilt ekki að startist.",
+            "date": "2008-09-10 22:33:00",
+            "post_id": "182126",
+            "reply_to_id": "182124"
+        },
+        {
+            "user_name": "birgiro",
+            "text": "akkurat það sem ég var að leita að. \ntakk kærlega fyrir hjálpina",
+            "date": "2008-09-10 22:48:00",
+            "post_id": "182129",
+            "reply_to_id": "182126"
+        }
+    ],
+    "date": "2008-09-10 22:15:00"
+}

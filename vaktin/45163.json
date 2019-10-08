@@ -1,0 +1,93 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "45163",
+    "title": "Hægir sjónvarp gegnum ljósleiðara á neti?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=45163",
+    "posts": [
+        {
+            "user_name": "Arkidas",
+            "text": "Þegar maður er með bæði net og sjónvarp gegnum ljósðleiðara, tekur netið hluta af sömu tengingu og netið notar?",
+            "date": "2012-01-27 19:18:00",
+            "post_id": "416223",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "worghal",
+            "text": "ég downloada enþá á fullum hraða þótt foreldrarnir séu að blasta sjónvarpið.\nsvo ég mundi halda að svo sé ekki.",
+            "date": "2012-01-27 19:23:00",
+            "post_id": "416224",
+            "reply_to_id": "416223"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Neibb",
+            "date": "2012-01-27 19:30:00",
+            "post_id": "416227",
+            "reply_to_id": "416224"
+        },
+        {
+            "user_name": "Blackened",
+            "text": "Það fer svolítið eftir því hvernig breytu/setup þú ert með... ef að þú ert með Telsey breytu þá nei.. ef að myndlykillinn tengist í routerinn þá getur það haft einhver smotterísáhrif.. sjónvarpsstraumurinn hjá Vodafone tildæmis er í kringum 5mbit",
+            "date": "2012-01-27 19:33:00",
+            "post_id": "416228",
+            "reply_to_id": "416227"
+        },
+        {
+            "user_name": "lukkuláki",
+            "text": "Myndlykill tengist ekki í routerinn nema þú sért með ADSL ef þú ert með ljósleiðara þá fer myndlykillinn í TV á ljósleiðaraboxinu.\nEr þetta kannski ekki alltaf svona ?",
+            "date": "2012-01-27 19:56:00",
+            "post_id": "416230",
+            "reply_to_id": "416228"
+        },
+        {
+            "user_name": "worghal",
+            "text": "hvað með ljósnet ?",
+            "date": "2012-01-27 19:57:00",
+            "post_id": "416231",
+            "reply_to_id": "416230"
+        },
+        {
+            "user_name": "Blackened",
+            "text": "Reyndar ekki alltaf.. vorum alltaf að setja upp Telsey breytur sem að geta s.s configað vLön og þessháttar.. í dag erum við mestmegnis að nota 3C-Link breytur sem eru \"heimskar\" þaðer.. routerinn þarf að sjá um hvaða port fer á hvaða vlan.. og þá tengist myndlykillinn og síminn í routerinn en ekki í breytuna \nÞetta er notabene Vodafone kerfið.. ég veit ekki hvernig Síminn er með sitt dót uppsett.. nema að ég veit að þeir fara í  gpon en ekki Vodafone tengingarnar \n þar er bara breyta > sviss",
+            "date": "2012-01-27 20:03:00",
+            "post_id": "416232",
+            "reply_to_id": "416231"
+        },
+        {
+            "user_name": "einarth",
+            "text": "Sæl.\nÉg get svarað þessu.\nAllar tengingar yfir ljósleiðara Gagnaveitu Reykjavíkur notast við netaðgangstæki (telsey) og er afruglari fyrir sjónvarp alltaf tengdur í netaðgangstækið, aldrei í router.\nAllar ljósleiðaratengingar Vodafone til heimila á Reykjavíkursvæðinu auk Akranes, Hveragerðis, Hellu og Hvollsvallar fara yfir kerfi GR.\nAllar almennar ljósleiðaratengingar GR til heimila eru 100Mb upp og niður. \nEf þú ert með 100Mb internetþjónustu og sjónvarp þá tekur sjónvarpið skerf af internet hraðanum, ca. 4Mb fyrir SD rásir og 8Mb fyrir HD rásir.\nÞeir sem eru með 50Mb internetþjónustu finna aldrei fyrir sjónvarpinu af því það hefur 50Mb til að nota áður en það tekur af internet hraðanum.\nKv, Einar.",
+            "date": "2012-01-27 22:30:00",
+            "post_id": "416256",
+            "reply_to_id": "416232"
+        },
+        {
+            "user_name": "Arkidas",
+            "text": "Takk fyrir þetta, Einar.",
+            "date": "2012-01-27 22:31:00",
+            "post_id": "416257",
+            "reply_to_id": "416256"
+        },
+        {
+            "user_name": "Blackened",
+            "text": "Já það má kannski geta þess að það sem ég talaði um er fyrir Akureyri og nærsveitir svona ef að fólk skyldi ekki hafa litið á staðsetninguna mína \nOg var ég þá að tala um dreifikerfi sem að Tengir hf. á og rekur",
+            "date": "2012-01-27 22:52:00",
+            "post_id": "416264",
+            "reply_to_id": "416257"
+        },
+        {
+            "user_name": "daniellos333",
+            "text": ">horfa á sjónvarp\n>2012",
+            "date": "2012-01-27 22:56:00",
+            "post_id": "416265",
+            "reply_to_id": "416264"
+        },
+        {
+            "user_name": "Arkidas",
+            "text": "Já ég nota það ekki...",
+            "date": "2012-01-27 22:57:00",
+            "post_id": "416266",
+            "reply_to_id": "416265"
+        }
+    ],
+    "date": "2012-01-27 19:18:00"
+}

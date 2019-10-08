@@ -1,0 +1,65 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "27380",
+    "title": "DC++ aðstoð",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=27380",
+    "posts": [
+        {
+            "user_name": "mnemic",
+            "text": "Getur einhver aðstoðað mig með dc. ég er tengdur inná klakinn.no-ip.biz og get spjallað og séð file list en þegar ég ætla að downloada er einsog það sé að fara i gang en kemur upp \nerror saving hash data: access denied veit einhver hvað ég þarf að gera til að laga þetta?",
+            "date": "2010-01-07 19:15:00",
+            "post_id": "237986",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "andribolla",
+            "text": "eg lennti lika i þessu þegar eg setti upp DC á win 7 vél hjá mér...\nreyndar þegar eg lokaði og opnaði forritið aftur var eins og eg væri að koma i það i fyrstaskiftið ,,,\nengar stillingar héldust inni",
+            "date": "2010-01-07 19:22:00",
+            "post_id": "237991",
+            "reply_to_id": "237986"
+        },
+        {
+            "user_name": "ElbaRado",
+            "text": "þú getur hægri smellt á dc iconið og gert run as administrator.. virkaði fyrir mig. Einnig væri varanleg lausn í að taka UAC af.",
+            "date": "2010-01-07 19:24:00",
+            "post_id": "237992",
+            "reply_to_id": "237991"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "E-r réttindi ekki rétt hjá þér.\nMappan sem hýsir hash gagnagrunnsskránna er að neita þér aðgangi að henni. Ertu örugglega loggaður inn sem administrator?",
+            "date": "2010-01-07 19:24:00",
+            "post_id": "237993",
+            "reply_to_id": "237992"
+        },
+        {
+            "user_name": "mnemic",
+            "text": "magnað þetta virkaði.. ég þurfti bara að hægri klikka og run as administrator. \ntakk kærlega",
+            "date": "2010-01-07 19:31:00",
+            "post_id": "237997",
+            "reply_to_id": "237993"
+        },
+        {
+            "user_name": "ElbaRado",
+            "text": "Ekkert mál, en þú verður að gera það í hvert skipti sem þú opnar dc.",
+            "date": "2010-01-07 19:32:00",
+            "post_id": "237998",
+            "reply_to_id": "237997"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Eða nota leiðbeiningarnar sem að ég nenni ekki að leita að akkúrat núna til að búa til shortcut sem að gerir þetta sjálfkrafa.",
+            "date": "2010-01-07 19:33:00",
+            "post_id": "238000",
+            "reply_to_id": "237998"
+        },
+        {
+            "user_name": "RadoX",
+            "text": "Hægri klikkaðu á DC++ forritið og farðu í Properties og þar í Compatability flipanum og neðst hakaru í Run this program as administrator, þá þarftu ekki að hægri klikka í hvert skipti.",
+            "date": "2010-01-07 20:11:00",
+            "post_id": "238016",
+            "reply_to_id": "238000"
+        }
+    ],
+    "date": "2010-01-07 19:15:00"
+}

@@ -1,0 +1,30 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "60919",
+    "title": "Linux og Ubuntu uppsetning",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=60919",
+    "posts": [
+        {
+            "user_name": "Alcatraz",
+            "text": "Sælir.\nÞannig er mál með vexti að ég ákvað að setja nýtt stýrikerfi upp á gamla vél sem hefur síðustu árin aðeins verið notuð fyrir videogláp og vefráp og var XP uppsett á henni.  Í stuttu máli þá er ég bæði búinn að reyna að setja upp Linux Mint og Ubuntu (nýjustu útgáfur) og báðar hafa klikkað.  Ég boota af USB og fæ smá vit frá Mint, get valið um 4 möguleika (Start mint, start in compability mode...)  Hinsvegar þegar ég starta Mint þá fæ ég bara svartan skjá og mouse cursor, ekkert meir.  Ég kemst hinsvegar inn í compability mode og prófaði að setja það upp þannig en það er sama sagan svo þegar ég boota þá af harða disknum, allt svart.  Ubuntu er enþá verra, virðist vera að keyra sig upp en svo fæ ég svartan skjá og villumeldingar, sem ég googlaði jafn óðum án árangurs, og að lokum birtist bara skrítin mynd af skjánum eins og allt sé í klessu.  Ég er búinn að prófa að keyra upp bæði stýrikerfin í öðrum vélum svo ekki er það USB kubburinn, ég setti m.a.s. Mint upp á annarri vél rétt áðan.  Kannast einhver við þetta vandamál?",
+            "date": "2014-05-15 23:26:00",
+            "post_id": "562179",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gislinn",
+            "text": "Hefurðu prufað Xbuntu eða Lubuntu? Þau eru töluvert léttari en Cinnamon/Mate eða Unity.\nErtu nokkuð með 64-bita ISO en örgjörvin bara 32-bita?",
+            "date": "2014-05-15 23:50:00",
+            "post_id": "562182",
+            "reply_to_id": "562179"
+        },
+        {
+            "user_name": "Alcatraz",
+            "text": "Sæll, takk fyrir svarið.  Ég skal prófa þessi tvö á morgunn og pósta inn árangrinum.  Annars er ég með 64 bita ISO, og þó ég muni það ekki, get ég svo svarið það að ég var búinn að athuga hvort tölvan réði ekki við það, væri helvíti gott á mig ef það væri ástæðan fyrir þessu rugli.",
+            "date": "2014-05-16 00:00:00",
+            "post_id": "562184",
+            "reply_to_id": "562182"
+        }
+    ],
+    "date": "2014-05-15 23:26:00"
+}

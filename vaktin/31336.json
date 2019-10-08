@@ -1,0 +1,51 @@
+{
+    "forum_title": "Windows",
+    "id": "31336",
+    "title": "Kemst ekki inní Windows",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=31336",
+    "posts": [
+        {
+            "user_name": "JohnnyX",
+            "text": "Slökkti á tölvunni minni (í undirskrift) í gær og var að starta henni núna rétt áðan og þá virkar hún ekki. \nÞetta lýsir sér þannig að hún startar sér normal upp og ég fæ login screen-ið. Eftir það slæ ég inn pw og þá er bara \"welcome\" endalaust.\nRestartaði aftur og þá kom svona \"rapid beeping\" frá móðurborðinu, slökkti þá á tölvunni og kveikti aftur og þá komu engin bíp.\nEftir þessi bíp tók ég eftir að overclockið mitt var búið að disable-ast. Google-aði þá bípin en uppskar ekkert. Startaði þá tölvunni í safe mode og þá gekk þetta smurt. \nDettur einhverjum eitthvað í hug?",
+            "date": "2010-07-17 23:11:00",
+            "post_id": "272324",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "GullMoli",
+            "text": "Þú ættir að geta séð í bæklingum sem fylgir móðurborðinu þínu hvað þessi bíp þýða. En hefurðu prufað að taka einn RAM kubbinn úr og starta þannig? Myndi prófa báða.",
+            "date": "2010-07-17 23:15:00",
+            "post_id": "272325",
+            "reply_to_id": "272324"
+        },
+        {
+            "user_name": "JohnnyX",
+            "text": "Stóð ekkert í bæklingnum, var búinn að prófa það. Hvernig ætti RAM-ið að hafa áhrif á þetta? Er þetta ekki frekar einhver stýrikerfisvilla?",
+            "date": "2010-07-17 23:21:00",
+            "post_id": "272326",
+            "reply_to_id": "272325"
+        },
+        {
+            "user_name": "GullMoli",
+            "text": "Man bara að ég lenti í svipuðu þegar ég var að yfirklukka og það var ekki stabílt og annarsvegar þegar annar RAM kubburinn var að faila svo mér datt í hug að það gæti verið að angra þig. Skrítið þó að þetta gerist svona upp úr þurru þó",
+            "date": "2010-07-17 23:26:00",
+            "post_id": "272328",
+            "reply_to_id": "272326"
+        },
+        {
+            "user_name": "JohnnyX",
+            "text": "mhm. Var ekki alveg í stuði til þess að leggjast yfir þetta í gær, var að vonast eftir quick fix ef einhver vissi hvað væri að. Ætli maður leggjist ekki bara yfir þetta í dag",
+            "date": "2010-07-18 13:36:00",
+            "post_id": "272364",
+            "reply_to_id": "272328"
+        },
+        {
+            "user_name": "GullMoli",
+            "text": "http://us.msi.com/support/sup_tshoot.asp\nNo Post - Diagnostic codes\n \n \nVerify POST beep codes\n \nContinues beeps or 1long 2short beeps = possible memory error\n  \t  \t• Try re-seating memory or test with different memory\n \n1long 2short or 8short beeps = possible video card problem\n  \t  \t• Try re-seating video card, test system with known good video card\n \n\tHigh/Low tone (siren sound)= CPU is overheating.\n  \t  \t• Verify that CPU heatsink is properly installed and power connected\n \n \nCheck diagnostic LED codes from D-Bracket\n \nMotherboards equipped with D-Bracket may provide useful diagnostic codes for common problems on the diagnostic LEDS.\n  \t  \t• Listing of diagnostic LED codes can be located in manual for your motherboard .\n \nAMI Beep Code\n \nDeep Code                Description\n1 short              DRAMS refresh failure\n2 short              Parity circuit failure\n3 short              Base 64k RAM failure\n4 short              System timer failure\n5 short              Process failure\n6 short              Keyboard controller Gate A20 error\n7 short              Virtual mode exception error\n8 short              Display memory Read/Write test failure\n9 short              ROM BIOS checksum failure\n10 short            CMOS shutdown Read/Write error\n11 short            Cache Memory error\n1 long, 3 short           Conventional/Extended memory failure\n1 long, 8 short           Display/Retrace test failed\n \nAWARD Beep Code\n \nDeep Code\n                 \nDescription\n1 Long, 2 Short          A video error has occurred and the BIOS cannot intialize the video screen to display any additional information\nAny other beep(s)       RAM problem",
+            "date": "2010-07-18 13:48:00",
+            "post_id": "272367",
+            "reply_to_id": "272364"
+        }
+    ],
+    "date": "2010-07-17 23:11:00"
+}

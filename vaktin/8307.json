@@ -1,0 +1,107 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "8307",
+    "title": "accessa vél",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=8307",
+    "posts": [
+        {
+            "user_name": "w.rooney",
+            "text": "ég var að spá ef að ein vél er með xp pro og hin er með home  af hverju er svona flókið fyrir mig að fara úr vélinni sem að er með home og yfir í pro en ekki úr pro yfir í home , hverju þarf maður að breyta í pro vélinni til þess að getað sjerað úr henni ?",
+            "date": "2005-05-19 23:37:00",
+            "post_id": "89351",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gumol",
+            "text": "Útskýrðu nánar hvað þú ert að gera\n\n\n\nErtu að sharea skrám? Eða nota remote desktop? Eða eitthvað sem mér er ekki að detta í hug...",
+            "date": "2005-05-19 23:43:00",
+            "post_id": "89353",
+            "reply_to_id": "89351"
+        },
+        {
+            "user_name": "w.rooney",
+            "text": "já það er kannski betra að útskýra vandamálið en ég er semsagt að shera skrá úr pro vélinni sem að ég vill komast  í úr home vélinni og ég kemst ekki úr home í pro hún segir alltaf að home vélin sé ekki með næg réttindi þótt að ég held að ég sé búinn að setja réttindi ég setti full control á everyone er eitthvað annað hægt að gera ?",
+            "date": "2005-05-19 23:50:00",
+            "post_id": "89357",
+            "reply_to_id": "89353"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Er þetta ekki einhver spurning um að haka í \"simple file sharing\" boxið þarna? Er ekki með XP þannig að ég get ekki leiðbeint þér í gegnum það.",
+            "date": "2005-05-19 23:52:00",
+            "post_id": "89360",
+            "reply_to_id": "89357"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Ferð í Windows explorer > Tools > Folder Options > (velur einhvern dálk) > Hakar við \"Use simple file shareing (recomented)\"\n\n\n\nÉg er ekki í Windows og ég man ekki alveg hvernig þetta var gert, vonandi finnuru það.",
+            "date": "2005-05-20 00:06:00",
+            "post_id": "89362",
+            "reply_to_id": "89360"
+        },
+        {
+            "user_name": "w.rooney",
+            "text": "getur verið vesen ef að önnur er með FAT32 en hin NTFS ?",
+            "date": "2005-05-20 00:17:00",
+            "post_id": "89365",
+            "reply_to_id": "89362"
+        },
+        {
+            "user_name": "w.rooney",
+            "text": "ég er gjörsamlega að klépra á þessu dóti alltí einu hefur tölvan bara læst sér og vill ekki leyfa neinn aðgang inná sig ur neinni annari tölvu þegar að maður er að sjera gögnum þannig að ég er bara hættur að reyna en allar hugmyndir eru vel þegnar um hvernig hægt er að komast inní vélina.. nota bene er búinn að profa þetta \"simple file sharing \" dót !! [/list]",
+            "date": "2005-05-20 20:07:00",
+            "post_id": "89423",
+            "reply_to_id": "89365"
+        },
+        {
+            "user_name": "pjesi",
+            "text": "Nei það ætti ekki að skipta neinu.",
+            "date": "2005-05-20 21:35:00",
+            "post_id": "89429",
+            "reply_to_id": "89423"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Ertu með eldvegg?  Kemur ekki upp login gluggi á XP Home vélinni þegar þú reynir að tengjast eða sérðu bara ekki shareið yfir höfuð?  Svo var hert mjög á öllu öryggi í SP2 fyrir XP Pro.. hugsanlegt að það sé málið.\n\n\n\nAnnars er ég farinn að nota ftp til að flytja skrár að milli XP Pro véla hérna heima",
+            "date": "2005-05-21 11:56:00",
+            "post_id": "89455",
+            "reply_to_id": "89429"
+        },
+        {
+            "user_name": "w.rooney",
+            "text": "þetta er soldið skrýtið ég get tengst vélinni remotely en ég get ekki náð í share úr henni það finnst mer hins vegar mjög skrýtið.. !",
+            "date": "2005-05-21 23:19:00",
+            "post_id": "89515",
+            "reply_to_id": "89455"
+        },
+        {
+            "user_name": "galileo",
+            "text": "hvað er ftp?' \n  stuttudreki??",
+            "date": "2005-05-21 23:56:00",
+            "post_id": "89518",
+            "reply_to_id": "89515"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "File tranfer protocol",
+            "date": "2005-05-22 00:53:00",
+            "post_id": "89525",
+            "reply_to_id": "89518"
+        },
+        {
+            "user_name": "galileo",
+            "text": "sem er???",
+            "date": "2005-05-22 01:37:00",
+            "post_id": "89529",
+            "reply_to_id": "89525"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Samkvæmt skilgreiningu: staðal um afritun skrá milli tveggja tölva yfir net.\n\n\n\nSvo alveg eins og með HTTP þar sem þú notar HTTP Browser(\nIE, Firefox, etc..\n) til að tengjast við HTTP Server til að skoða vefsíður, þá notarðu FTP Client til að tengjast við FTP Server og getur Uploadað eða Downloadað skrám.",
+            "date": "2005-05-22 09:05:00",
+            "post_id": "89536",
+            "reply_to_id": "89529"
+        }
+    ],
+    "date": "2005-05-19 23:37:00"
+}

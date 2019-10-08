@@ -1,0 +1,44 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "64479",
+    "title": "µTorrent lokar á alla aðra miðla",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=64479",
+    "posts": [
+        {
+            "user_name": "Moquai",
+            "text": "Er með 100mb/s tengingu frá vodafone, er byrjaður að lenda i þvi nuna að þegar eg er að downloada 4-5mb/s til dæmis virkar ekkert annað.\nEf ég reyni að loada vefsíðu virkar ekkert þangað til eg stöðva torrentið, eg er bara ny byrjaður að lenda i þessu\ná að geta downloadað 12.5mb/s upp, en þegar eg er að downloada smá þá lokast allt, help ._.",
+            "date": "2015-02-17 18:04:00",
+            "post_id": "590534",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Ert með lélegan router sem kann ekki að forgangsraða, Vodafone hefur alltaf boðið upp á mjög lélega routera.\nEf þú ert með ljósleiðara geturðu keypt þér nýjan router, annars geturðu stillt uTorrent svo að það noti bara hluta af bandvíddinni.\nhttp://att.is/product/asus-rt-n56u-router\nBreyttu maximum download rate til dæmis í 4000 kB/s (32 mbit).",
+            "date": "2015-02-17 18:11:00",
+            "post_id": "590535",
+            "reply_to_id": "590534"
+        },
+        {
+            "user_name": "GullMoli",
+            "text": "Ég hefði frekar haldið að þetta væri vandamál með of margar tengingar. Þú sérð á myndinni fyrir ofan \"Number of Connections\".\nPrufaðu að lækka Global niður í 50 og sjá hvort að þetta lagist. Man að þetta var alltaf vandamál með routera frá símanum.",
+            "date": "2015-02-17 18:36:00",
+            "post_id": "590538",
+            "reply_to_id": "590535"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Jú mikið rétt, það líka",
+            "date": "2015-02-17 18:55:00",
+            "post_id": "590540",
+            "reply_to_id": "590538"
+        },
+        {
+            "user_name": "bigggan",
+            "text": "Lika minkað \"max connected\", sumar beinar eru illa við að það sé of margir að tengjast samtímis.",
+            "date": "2015-02-17 22:51:00",
+            "post_id": "590582",
+            "reply_to_id": "590540"
+        }
+    ],
+    "date": "2015-02-17 18:04:00"
+}

@@ -1,0 +1,44 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "47018",
+    "title": "Aðstoð með \"týndan\" harðan disk",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=47018",
+    "posts": [
+        {
+            "user_name": "krullih",
+            "text": "Sælir vaktarar,\nÉg er að lenda í smá vandamáli með TV flakkarann minn (1tb HDD esata) en hann tók upp á því nýlega að þegar hann er tengdur við sjónvarp kemur fram beiðni um að formatta hann - ef ég vel nei þá slekkur hann einfaldlega á sér.\nVið þetta vesen tók ég diskinn úr og beintengdi við eina af vélunum hérna heima, en þá kemur hann ekki fram í My computer, eða drive/storange manager (win7 stýrikerfi). Ég er búinn að sækja einhver 3-4 forrit en engin af þeim virðist \"finna\" harða diskinn. Samt spinnar hann og virðist vera amk einhver virkni í honum.\nHefur einhver glímt við vandamál líkt þessu? Öll þessi recovery forrit gera ráð fyrir að harði diskurinn \"sjáist\" í tölvunni og því hafa þau lítið gagnast mér!",
+            "date": "2012-04-06 17:37:00",
+            "post_id": "433843",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Ef að stýrikerfið finnur ekki diskinn, þá ertu ekki að fara að finna hann með neinum forritum... þetta fer allt í gegnum sama API.\nByrjaðu á að athuga hvort að diskurinn kemur fram í BIOS. Ef hann gerir það, þá er einhver von. Getur þá prófað að ræsa af linux live cd og reynt að afrita gögnin af honum.",
+            "date": "2012-04-06 18:03:00",
+            "post_id": "433845",
+            "reply_to_id": "433843"
+        },
+        {
+            "user_name": "audiophile",
+            "text": "Ef hann kemur ekki upp í Disk Management, þá lítur þetta ekki vel út.",
+            "date": "2012-04-06 21:24:00",
+            "post_id": "433894",
+            "reply_to_id": "433845"
+        },
+        {
+            "user_name": "IL2",
+            "text": "Mig minnir að Easy Recovery sjái diska sem sjást ekki í tölvunni.",
+            "date": "2012-04-06 22:37:00",
+            "post_id": "433911",
+            "reply_to_id": "433894"
+        },
+        {
+            "user_name": "tomasjonss",
+            "text": "Ef (samkvæmt texta) þú getur látið sjónvarp formatta hann, ættir þú ef allt annað bregst að reyna nota þann möguleika svo framarlega sem gögnin eru ekki ofur verðmæt.",
+            "date": "2012-04-07 00:31:00",
+            "post_id": "433925",
+            "reply_to_id": "433911"
+        }
+    ],
+    "date": "2012-04-06 17:37:00"
+}

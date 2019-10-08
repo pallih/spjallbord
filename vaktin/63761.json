@@ -1,0 +1,58 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "63761",
+    "title": "USB yfir í UART kapal ?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=63761",
+    "posts": [
+        {
+            "user_name": "fedora1",
+            "text": "Sælir vaktarar, gleðilega hátíð.\nEr að fikta í smá home projecti, og þarf að uppfæra image á Arduino borði. Vitið þið hvort svona kapall sé seldur hér á landi og þá hvar ?",
+            "date": "2014-12-26 01:03:00",
+            "post_id": "584606",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Erum við að tala um eitthvað svona?\nSelur einhver Arduino á Íslandi? Myndi byrja á að spyrja þar.",
+            "date": "2014-12-26 04:35:00",
+            "post_id": "584679",
+            "reply_to_id": "584606"
+        },
+        {
+            "user_name": "fedora1",
+            "text": "Sæll\nJú, þetta dugar líka, sýnist að þetta sé til í nokkrum útgáfum, að hafa þetta sem kapal væri ekki verra.\nÉg leitaði að UART í vörulistanum hjá íhlutum en fann þetta ekki hjá þeim.",
+            "date": "2014-12-26 13:28:00",
+            "post_id": "584722",
+            "reply_to_id": "584679"
+        },
+        {
+            "user_name": "Arnarr",
+            "text": "Getur keypt Arduino í Miðbæjarradíó síðast þegar ég vissi.",
+            "date": "2014-12-26 13:36:00",
+            "post_id": "584723",
+            "reply_to_id": "584722"
+        },
+        {
+            "user_name": "axyne",
+            "text": "Hvernig arduino borð ertu með?",
+            "date": "2014-12-26 16:21:00",
+            "post_id": "584739",
+            "reply_to_id": "584723"
+        },
+        {
+            "user_name": "fedora1",
+            "text": "Er með  RFu328 board. \nhttp://openenergymonitor.org/emon/modules/emonTH\nKeypti mér 3 þráðlausa hitaskynjara og raspberry pi móðurstöð. Fattaði ekki að hver og einn þarf að vera með sér id",
+            "date": "2014-12-26 16:30:00",
+            "post_id": "584741",
+            "reply_to_id": "584739"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Prófaðu að tala við þá hjá elab: \nhttp://elab.is/\nÞeir eru að panta frá Sparkfun. Kannski eiga þeir eitthvað svona. Eða a.m.k. pantað svona fyrir þig fljótlega og sparað þér flutningskostnað.",
+            "date": "2014-12-26 21:05:00",
+            "post_id": "584788",
+            "reply_to_id": "584741"
+        }
+    ],
+    "date": "2014-12-26 01:03:00"
+}

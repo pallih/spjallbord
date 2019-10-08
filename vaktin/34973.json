@@ -1,0 +1,44 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "34973",
+    "title": "3G router",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=34973",
+    "posts": [
+        {
+            "user_name": "Frantic",
+            "text": "Sælir,\nÉg er með 3G router(í gegnum Nova) uppí bústað þar sem það er engin símalína.\nHvar er hægt að kaupa 3G router?\nOg mæliði með einhverjum sérstökum 3G routerum?\nÞað verður að vera hægt að opna port á routernum svo ég geti tengst IP myndavél sem er tengd routernum.",
+            "date": "2011-01-01 03:43:00",
+            "post_id": "308188",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Benzmann",
+            "text": "ég er með svona líka, eða reyndar router sem styður þetta, hann er með USB pluggi á sér, og hefur þann valmöguleika á að stinga USB 3g lykli í sig og dreyfa netinu frá honum,\nfékk þann router hjá Icecom á sínum tíma, mæli mjög mikið með þessum router sem ég er með, það er að segja ef þú vill splæsa 30-40þús í router, þá skalltu fá þé þennan",
+            "date": "2011-01-01 11:36:00",
+            "post_id": "308217",
+            "reply_to_id": "308188"
+        },
+        {
+            "user_name": "depill",
+            "text": "Ég er með Huawei boxið frá Nova með símakorti frá Símanum og er bara mjög sáttur við það..... gamla boxið sem sagt.\nSko hvernig þú ætlar að leysa þetta opna port dæmi er ég ekki alveg viss nema kannski með einhverjum router sem getur verið stöðugt VPN tengdur þar sem allir 3 ISParnir gefa þér ekki publicly routable tölu ( þeir NATa mobile kúnnum saman út á netið ). Breytir engu hvernig router þú ert með.\nRouterinnn Huawei getur þó alveg port forwardað. Síminn selur svo loftnet með græjunum sínum ef þörf er á ( þarf sum staðar til að ná signali ).\nEn þú kemst ekki inná þessa vefmyndavél nema með einhverskonar VPN/SSH tunneli út á við, eða forca myndavélina að uploada eithvert reglulega myndum ?",
+            "date": "2011-01-01 15:07:00",
+            "post_id": "308247",
+            "reply_to_id": "308217"
+        },
+        {
+            "user_name": "e330",
+            "text": "ég veit að það er hægt að fá fasta IP á 3G hjá Símanum, það þarf að biðja sérstaklega um þetta. Veit allavega um eitt fyrirtæki sem er með svona. Virkar fínt",
+            "date": "2011-01-01 20:52:00",
+            "post_id": "308349",
+            "reply_to_id": "308247"
+        },
+        {
+            "user_name": "Frantic",
+            "text": "Það eru í raun þrennt sem myndavélin þarf að sinna.\n1. Fólk geti tengst rtsp streaminu og séð veðrið (Mig minnir að það sé port 554 í gegnum vlc og realplayer)\n2. Myndavélin sendir mail þegar það er hreyfing (Port 25 er held ég opið á routernum sem ég er með)\n3. Myndavélin tekur upp myndband þegar það er hreyfing og geymir á server.\nEf ég myndi bara finna 3G router sem myndi leyfa mér að opna port þá myndi það spara mér endalausan hausverk.",
+            "date": "2011-01-02 22:17:00",
+            "post_id": "308723",
+            "reply_to_id": "308349"
+        }
+    ],
+    "date": "2011-01-01 03:43:00"
+}

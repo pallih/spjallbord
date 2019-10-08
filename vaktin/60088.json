@@ -1,0 +1,65 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "60088",
+    "title": "Þarf ég Low Voltage minni?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=60088",
+    "posts": [
+        {
+            "user_name": "noobcake",
+            "text": "Daginn\nVar að kaupa mér fartölvu (þessa hér: \nhttp://tl.is/product/satellite-l50-a-1d6-i7-fartolva\n)\nÉg lét setja 8GB auka vinnsluminni í hana. Hafði séð einhvers staðar að það ætti að setja Low Voltage vinnsluminni í hana.\nMig grunar hins vegar að þeir hjá Tölvulistanum hafi sett venjulegt minni í hana. Ástæðan er sú að minniskubburinn sem fyrir var í tölvunni er að nota 1,28 Volt á meðan sá sem var bætt við er að nota 1,5 Volt skv. CPU-Z forritinu.\nSkiptir þetta einhverju máli fyrir mig eða er ég að hafa óþarfa áhyggjur?",
+            "date": "2014-03-11 16:35:00",
+            "post_id": "555141",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "arons4",
+            "text": "Þarft sennilega ekki að vera að hafa neinar áhyggjur af þessu, nema að þú sért að fá minnisvillur eða ef þú þarft mjög að treysta á minnið (værir sennilega með ECC mynni ef svo væri). Annars skiptir þetta ekki máli ef það virkar.",
+            "date": "2014-03-11 18:09:00",
+            "post_id": "555153",
+            "reply_to_id": "555141"
+        },
+        {
+            "user_name": "noobcake",
+            "text": "Sæll, takk fyrir svarið. Mér sýnist þetta hins vegar ekki vera að virka. Ástæðan er sú að tölvan sýnir mér alls staðar að aðeins 4GB minni sé til staðar og notkunin fer aldrei yfir það, sýnir mér ávallt 1,5/4 í notkun eða 2,5/4 í notkun etc. Einnig virðist hún aðeins taka eftir því að eitt slot sé í notkun.\nVeit ekki hvort þetta tengist minnisvandamálinu eða ekki, en nú vill tölvan ekki kveikja á sér eftir að ég hafði slökkt á henni. Svona er maður heppinn alltaf með nýjar tölvur",
+            "date": "2014-03-11 18:49:00",
+            "post_id": "555160",
+            "reply_to_id": "555153"
+        },
+        {
+            "user_name": "rango",
+            "text": "Skrýtið ég hringdi í tl.is og spurði hvort hann ætti 1X8Gb ddr3 kubb í fartölvu og hann tók sérstaklega fram að ef ég er með Haswell þá ætti ég að taka low voltage kubbin.",
+            "date": "2014-03-11 19:47:00",
+            "post_id": "555177",
+            "reply_to_id": "555160"
+        },
+        {
+            "user_name": "noobcake",
+            "text": "Já nákvæmlega! Þess vegna fannst mér skrítið að sjá á nótunni 8GB vinnsluminni sem ekki var merkt með \"L\" fyrir Low Voltage. Ég hugsaði þó að kannski væru þetta bara mistök á nótunni sjálfri frekar en í innsetningunni á minninu.",
+            "date": "2014-03-11 20:52:00",
+            "post_id": "555193",
+            "reply_to_id": "555177"
+        },
+        {
+            "user_name": "rango",
+            "text": "ferð með hana aftur þá lýsir vandanum, s.s. fer ekki í gang eftir breytinguna, á að vera í ábyrgð.",
+            "date": "2014-03-11 22:14:00",
+            "post_id": "555203",
+            "reply_to_id": "555193"
+        },
+        {
+            "user_name": "noobcake",
+            "text": "Fór með tölvuna í Tölvulistann. Starfsmaður þar sem ég talaði við kannaðist strax við það að þessi tölva þyrfti Low Voltage minni vegna Haswell. Hann skellti nýju slíku inn í staðinn fyrir hitt og tölvan kveikti á sér no problem. Það lítur því út fyrir að þetta sé nauðsynlegt og að eitthvað skynji það að rangt minni hafi verið til staðar og því ekki hægt að kveikja, þó undarlegt að það tókst að kveikja þarna fyrst. Ætla að gefa tölvunni þá séns, vona að þetta hafi ekki skemmt neitt í tölvunni, hvað haldið þið?",
+            "date": "2014-03-12 14:26:00",
+            "post_id": "555257",
+            "reply_to_id": "555203"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Voða lítill séns að eitthvað hafi skemmst annað en minnið sjálft.",
+            "date": "2014-03-12 15:04:00",
+            "post_id": "555259",
+            "reply_to_id": "555257"
+        }
+    ],
+    "date": "2014-03-11 16:35:00"
+}

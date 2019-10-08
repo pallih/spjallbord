@@ -1,0 +1,86 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "57225",
+    "title": "Random krass í nýrri vél, vantar hjálp",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=57225",
+    "posts": [
+        {
+            "user_name": "kazgalor",
+            "text": "Komiði sælir,\nÉg er með nýja vél,\nAsus Z87-k\nintel i5 4670k\n16 GB 1600 mhz corsair (2x8)\nGeforce 560 GTX\n700w spennugjafi\nSSD\n1TB secondary HDD\nVandamálið er að vélin er að reboota randomly. Ég hef prufað að álagsprófa örgjörva og skjákort. Ég hef runnað memtest yfir nótt. Hún rebootar hvort sem er undir álagi eða idle. Ekkert bluescreen.\nEf að þið eruð með einhverjar hugmyndir um hvað þetta gæti verið, endilega kommentið.",
+            "date": "2013-09-18 19:55:00",
+            "post_id": "529111",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "rickyhien",
+            "text": "eðlilegur hiti?",
+            "date": "2013-09-18 19:58:00",
+            "post_id": "529112",
+            "reply_to_id": "529111"
+        },
+        {
+            "user_name": "Hnykill",
+            "text": "Búinn að skoða hitatölur á örgjörva undir álagi ?",
+            "date": "2013-09-18 19:59:00",
+            "post_id": "529114",
+            "reply_to_id": "529112"
+        },
+        {
+            "user_name": "rickyhien",
+            "text": "einhverjir vírar lausir kannski?",
+            "date": "2013-09-18 20:00:00",
+            "post_id": "529115",
+            "reply_to_id": "529114"
+        },
+        {
+            "user_name": "kazgalor",
+            "text": "Sko, í því samhengi er reyndar eithvað furðulegt í gangi. Ég var að nota speedfan og CPUID HWmonitor til að fylgjast með hita í álagsprófuninni.\nÞegar ég set forritið í gang þá fer hitinn allt í einu upp í 85°c og svo um leið og ég slekk aftur á því sýnir HWmonitor að hitinn hafi droppað um 40°á 1 sek sem er ofc ómögulegt",
+            "date": "2013-09-18 20:07:00",
+            "post_id": "529118",
+            "reply_to_id": "529115"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Er ekki málið bara að endurfesta heatsinkið og skella nýju kremi á örran.",
+            "date": "2013-09-18 20:09:00",
+            "post_id": "529120",
+            "reply_to_id": "529118"
+        },
+        {
+            "user_name": "kazgalor",
+            "text": "Mögulega. En það útskýrir samt ekki þessar tölur. Það er ómögulegt að hitinn á örgjörvanum fari upp eða niður um 30-40 gráður á einni sekúndu",
+            "date": "2013-09-18 20:14:00",
+            "post_id": "529121",
+            "reply_to_id": "529120"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Hringja á Ghostbusters?",
+            "date": "2013-09-18 20:20:00",
+            "post_id": "529122",
+            "reply_to_id": "529121"
+        },
+        {
+            "user_name": "Hnykill",
+            "text": "Nei þetta eru ekkert óeðlilegar hitasveiflur ef kælinginn er ílla fest á.. örgjörvi í idle er bara örfá wött.. ískaldur bara.. en undir fullri notkun á hann ekkert að fara yfir 75 gráður í þínu tilviki.. þetta hljómar alveg nákvæmlega eins og ílla fest kæling á örgjörva.\nHvaða kælingu ertu með annars ?\nStandard kælinginn sem fylgir með örgjörvanum er bara rugl.. og með einhverjum bull smellu skrúf hnöppum.. svoleiðis er bara ávísun á vesen .",
+            "date": "2013-09-18 20:24:00",
+            "post_id": "529123",
+            "reply_to_id": "529122"
+        },
+        {
+            "user_name": "kazgalor",
+            "text": "Okei, ég tékka á því. Ég er bara með stock viftuna og heatsinkið sem fylgir Retail útgáfu örgjörvans.",
+            "date": "2013-09-18 20:27:00",
+            "post_id": "529124",
+            "reply_to_id": "529123"
+        },
+        {
+            "user_name": "Hnykill",
+            "text": "Stock vifta er bara neinei kallinn.. fjárfestu í góðri kælingu. margborgar sig.",
+            "date": "2013-09-18 20:30:00",
+            "post_id": "529125",
+            "reply_to_id": "529124"
+        }
+    ],
+    "date": "2013-09-18 19:55:00"
+}

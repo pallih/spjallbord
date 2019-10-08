@@ -1,0 +1,51 @@
+{
+    "forum_title": "Windows",
+    "id": "53137",
+    "title": "Windows 8 Installation Has Failed!",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=53137",
+    "posts": [
+        {
+            "user_name": "karvel",
+            "text": "Var að kaupa mér Windows 8 Pro en næ ekki að setja það inn yfir Windows 7 Home Edition. Ég valdi að setja það upp með því að halda \"Compatible\" forritum og \"Personal Settings\" en fæ ítrekað \"Windows 8 Installation Has Failed\". \nHvað getur verið að valada þessu? Nú keyrði ég \"Windows 8 Upgrade Assistant\" og fékk ég þá niðurstöðu að tölvan væri \"Ready For Windows 8\". Vonandi eru einhverjir \"Vaktarar\" svo elskulegir að ráðleggja mér hvað best væri að gera.",
+            "date": "2013-01-30 22:20:00",
+            "post_id": "492924",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Færðu enga nánari error kóða?",
+            "date": "2013-01-30 22:48:00",
+            "post_id": "492929",
+            "reply_to_id": "492924"
+        },
+        {
+            "user_name": "Hargo",
+            "text": "Gefur hún þér ekki upp þau forrit sem hún er að stoppa á i installation ferlinu?",
+            "date": "2013-01-30 22:52:00",
+            "post_id": "492930",
+            "reply_to_id": "492929"
+        },
+        {
+            "user_name": "karvel",
+            "text": "Nei, ég fæ afskaplega einfalt svar og enga error kóða eða neitt til að átta sig á þessu frekar.",
+            "date": "2013-01-30 23:03:00",
+            "post_id": "492935",
+            "reply_to_id": "492930"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Taka backup af öllu og gera bara clean install?\nPersónulega geri ég aldrei upgrade úr eldra OS, lendi alltaf í veseni með drivera, registry færslur og flr.",
+            "date": "2013-01-30 23:10:00",
+            "post_id": "492937",
+            "reply_to_id": "492935"
+        },
+        {
+            "user_name": "karvel",
+            "text": "Já, sennilega er það vitlegast fyrst að fyrsti kostur virkar ekki. Hvað með valmögulleika 2 þ.e. færa aðeins yfir \"Personal Settings\"? Held ég þá ekki eftir \"Mínum möppum\"t.d. í Outlook en strauja út öll forrrit? Svo er 3 mögulleikinn í yfirfærslunni \"Nothing\" og er þar ekki um Clean Install að ræða?",
+            "date": "2013-01-30 23:50:00",
+            "post_id": "492945",
+            "reply_to_id": "492937"
+        }
+    ],
+    "date": "2013-01-30 22:20:00"
+}

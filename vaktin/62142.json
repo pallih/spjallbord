@@ -1,0 +1,51 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "62142",
+    "title": "Fartölvu spennubreytir - straumur",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=62142",
+    "posts": [
+        {
+            "user_name": "Perks",
+            "text": "Sælir\nÉg er að vandræðast með spennubreyti fyrir fartölvu, á tölvunni stendur 19v 3.42A en á spennubreyti stendur 19v 4.74A.\n Myndi þetta ganga saman fyrst það er sama volt - tala eða myndi mismunur á amper steikja eitthvað?\nGoogle svarar mér að það ætti að vera í lagi en langaði að heyra ykkar álit.",
+            "date": "2014-08-23 16:14:00",
+            "post_id": "570923",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "kizi86",
+            "text": "spenna frá hleðslutækinu /straumbreytinum þarf náttúrulega að vera meiri en hluturinn notar til að geta hlaðið inn straumi á meðan notkun stendur.. ef tengin passa þá ætti þetta að virka..",
+            "date": "2014-08-23 16:29:00",
+            "post_id": "570924",
+            "reply_to_id": "570923"
+        },
+        {
+            "user_name": "arons4",
+            "text": "Fartölvan dregur bara það sem hún þarf og ef spennugjafinn getur veitt meira en það ertu góður, passaðu hinsvegar að plúsinn og mínusinn séu eins báðu megin. Þ.E.A.S að þetta merki sé eins báðu megin.",
+            "date": "2014-08-23 17:04:00",
+            "post_id": "570927",
+            "reply_to_id": "570924"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "S.s. amper talan/straumurinn á spennubreytinum er \"hámark\" sem hann á að geta gefið út samfellt (continuous), fartölvan á svo að draga að hámarki 3,42A.  Spennubreytirinn annar því vel miðað við tölurnar sem þú nefnir og gefur bara út eins mikið og tölvan dregur að hverju sinni.",
+            "date": "2014-08-23 19:58:00",
+            "post_id": "570945",
+            "reply_to_id": "570927"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Held þú meinir straumur þarna. Spennan á að vera sú sama +- einhver prósent. \nStraumurinn á hleðslutækinu er max output current og Það sem stendur á tölvunni er það sem hún dregur max. Eins og hefur komið fram hér að ofan.",
+            "date": "2014-08-24 01:01:00",
+            "post_id": "570968",
+            "reply_to_id": "570945"
+        },
+        {
+            "user_name": "kizi86",
+            "text": "hehehe my bad, meinti straumur:P skrifaði þetta í flýti",
+            "date": "2014-08-24 01:19:00",
+            "post_id": "570969",
+            "reply_to_id": "570968"
+        }
+    ],
+    "date": "2014-08-23 16:14:00"
+}

@@ -1,0 +1,86 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "14178",
+    "title": "Uppsetning á RAID",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=14178",
+    "posts": [
+        {
+            "user_name": "Rednex",
+            "text": "Sælir\n\n\n\nNú er svo komið að annar diskurinn minn dó og í þetta skiptið með allri tónlistinni !\n\n\n\nÉg ætla að fá mér RAID 1 að öllum líkindum en er samt frekar viltur í þessum málum því ég hef aldrei unnið með RAID áður. Er þetta allt frekar auðvelt, stilli einhverja jumpera, eða þarf að mixa mikið til að fá þetta til að virka. \n\n\n\nKemur stýrkierfið þessu eitthvað við ef ég fæ mér stýrispjald? Ég er með Gentoo server.\n\n\n\nVar að hugsa um 2 320gb diska, sata eða ide skiptir mig ekki máli.",
+            "date": "2007-05-05 15:53:00",
+            "post_id": "145682",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Xyron",
+            "text": "mörg móðurborð eru með raid controller innbyggðan.. á mínu asus borði eru t.d. 2 controllerar\n\n\n\nveit ekki alveg með hvernig þetta gengur fyrir sig á linux.. en á xp installi þá þurfti að installa raid driverinum í byrjun af floppy disk áður en stýrikerfið var sett upp, þegar ég náði í driverana á asus.com sá ég einhverja linux drivera.. svo þetta hlýtur að vera eitthvað svipað ferli\n\n\n\nþarft bara að enabla raid stæðuna í biosinum og setja hana upp.. það var mjög einfalt í gegnum bæði nvraid og silicon raid controllerana sem fylgja með mínu móðurborði.. prófaði þá báða, en hélt mig við nvraid, þar sem það var þæginlegra forrit sem fylgdi með til að eiga við raid stæðuna í windows..\n\n\n\nveit bara ekki alveg nógu vel hvernig þetta gengur fyrir sig á linux.. og með ata vs sata, þá setti ég mitt raid upp á sata.. örugglega svipað fyrirkomulag með það.. bara skilgreina í biosinum hvaða diskar eiga fara í raidið",
+            "date": "2007-05-05 21:56:00",
+            "post_id": "145705",
+            "reply_to_id": "145682"
+        },
+        {
+            "user_name": "Rednex",
+            "text": "Í bræði minni fann ég IDE Raid kort á 2.000kr,notað, og keypti. Eftir að ég fór á heimasíðu framleiðandans komst ég að raun um að þetta væri ekki \"ekta\" raid heldur væri í raun bara \"software raid\" sem er einmitt ekki það sem ég var að leita að. Undir Linux hefði ég ekkert þurft að kaupa mér sér stýrispjald til að nota software raid heldur bara það sem var fyrir \n\n\n\n\nEftir slatta mikinn lestur komst ég að raun um að mjög mörg móðurborð sem segjast vera með raid er í raun bara software raid. Ætli maður verði ekki bara að fjárfesta í ekta korti fyrir þetta  \n\n\n\n\n\n\np.s. varð að setja gremju mína einhvert",
+            "date": "2007-05-07 13:15:00",
+            "post_id": "145832",
+            "reply_to_id": "145705"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "hardware raid kosta yfirleitt tugi, ef ekki hundruð þúsunda. Ég hef ekki enþá séð móðurborð með hardware raid. Ekki einusinni server borð.",
+            "date": "2007-05-07 13:44:00",
+            "post_id": "145837",
+            "reply_to_id": "145832"
+        },
+        {
+            "user_name": "emmi",
+            "text": "Þú getur fundið fínt hardware raid kort frá 3ware á netinu fyrir $400-600. Prófaðu að tala við EJS líka, þeir eru með einhver kort.",
+            "date": "2007-05-08 14:40:00",
+            "post_id": "145935",
+            "reply_to_id": "145837"
+        },
+        {
+            "user_name": "Xyron",
+            "text": "er ekki búinn að kynna mér þetta nógu vel.. hver er helsti performance munurinn á hardware og software raidi?\n\n\n\nnever mind.. nennti ekki að láta einhvern segja mér að fara á google svo.. well\n\nKóði: \nVelja allt\nConclusion\nHardware RAID is a superior solution to software\nRAID in a networked environment as is typical for\nservers. Its benefits are even more significant when\nrunning applications with high CPU utilization.\n\n\n\n\nlinkur",
+            "date": "2007-05-08 19:40:00",
+            "post_id": "145951",
+            "reply_to_id": "145935"
+        },
+        {
+            "user_name": "Rednex",
+            "text": "Þar sem ég er það nískur þá mun ég helda inn í Software RAID frumskóginn. \n\n\n\nSvo kemur spurning. Þurfa diskarnir að vera nákvæmlega eins? Má ekki alveg hafa 2 diska frá sitthvorum framleiðandanum, t.d. 2x320gb frá Samsung og WD, svo að líkurnar á að þeir bili á sama tíma minnki? Þar sem að diskarnir þurfa að gangast undir sama álag er þá ekki skynsamlegt að hafa þá frá sitthvorum framleiðandanum? \n\n\n\nSvo er annað. Er nauðsynlegt að nota allan diskinn undir þetta? Er ekki bara hægt að gera nákvæmlega 100gb partition á báðum diskunum og restin væri laus. Ég hafði einungis hugsað mér að geyma tónlist og ljósmyndir á Raid-inu.",
+            "date": "2007-05-13 18:09:00",
+            "post_id": "146256",
+            "reply_to_id": "145951"
+        },
+        {
+            "user_name": "urban",
+            "text": "ég reyndar er með eina spurningu í kringum raid\n\n\n\ner hægt að vera með rain 0 á 2 diskum (gefum okkur bara 2 x 74 GB raptor)\n\n\n\nog taka síðan það raid og annan disk og gera raid 1 úr 2x 74 GB raptor og 1 x 74 GB raptor ?\n\n\n\nsemsagt vera með\n\nraid 0 (2 hddar) + 1 hdd = raid 1",
+            "date": "2007-05-13 21:22:00",
+            "post_id": "146270",
+            "reply_to_id": "146256"
+        },
+        {
+            "user_name": "Bassi6",
+            "text": "Það gengur ekki en með 3 diska seturðu bara upp raid 5",
+            "date": "2007-05-13 22:27:00",
+            "post_id": "146284",
+            "reply_to_id": "146270"
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Þetta fer eftir hvaða RAID þú notar: \n\n\n\nRAID 1: Stærðin fer eftir minnsta disknum (þ.e. ef þú ert með 60GB og 200GB disk þá verður RAID-ið bara 60GB). \n\n\n\nRAID 0: Það á víst ekki að skipta máli hversu stóra diska þú er með ef þú stripear þá.\n\n\n\nÞetta fer samt mikið eftir því hvaða möguleika RAID controlerinn bjóði upp á. Ég tel það samt ólíklegt að þú getir speglað/stripe-að bara hluta af diski.",
+            "date": "2007-05-13 23:38:00",
+            "post_id": "146289",
+            "reply_to_id": "146284"
+        },
+        {
+            "user_name": "Minuz1",
+            "text": "http://en.wikipedia.org/wiki/RAID\n\n\n\n\nRAID 0(Þarft lámark 2 diska): verður aldrei öruggt.... gögnin skiptast milli disk a og disk b og ef annar skemmist þá eyðileggjast gögnin á báðum.\n\n\n\nRAID 1(þarf 2 disk): Speglar gögninn milli diskana þannig að ef annar klikkar þá munt þú getað notað hinn diskinn án vandræða en þetta kostar dálítið mikinn pening þar sem þú þarft 2x diska fyrir hvert geymslupláss\n\n\n\nRAID 5(3+diskar): gögnin geymd á lágmark 3 diskum sem notast við 1/3 af stærðinni til að reikna út hvað sé á hinum ef 1 klikkar.\n\n\n\nHardware Raid controllers eru orðnir staðalbúnaður í flestum 20+ þús kr móðurborðum í dag og líka hægt að kaupa sem PCI kort.\n\n\n\nDýrir RAID controllerar eru með hotswap og meira minni þannig að þeir nota ekki örgjörvan í tölvunni þinni til að vinna úr upplýsingunum.\n\n\n\nHotswap gerir þér kleift að skipta um bilaðan disk án þess að slökkva á tölvunni.",
+            "date": "2007-05-22 03:27:00",
+            "post_id": "147315",
+            "reply_to_id": "146289"
+        }
+    ],
+    "date": "2007-05-05 15:53:00"
+}

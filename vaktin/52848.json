@@ -1,0 +1,30 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "52848",
+    "title": "Reset CMOS minnkaði hraða minnis",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=52848",
+    "posts": [
+        {
+            "user_name": "Arkidas",
+            "text": "Ég ýtti óvart á \"Clear CMOS\" takka aftan á kassanum mínum (á móðurborðinu) og það olli því að 2133mhz minnin mín fóru í 1600mhz.\nÉg er með Asrock Fatal1ty móðurborð (UEFI umhverfi). Hvernig get ég breytt þessu til baka?",
+            "date": "2013-01-19 17:30:00",
+            "post_id": "490514",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "ef auto virkar ekki þá þarftu að velja einhvern profil (load XMP settings)",
+            "date": "2013-01-19 18:15:00",
+            "post_id": "490524",
+            "reply_to_id": "490514"
+        },
+        {
+            "user_name": "Arkidas",
+            "text": "Takk! Komið í lag!",
+            "date": "2013-01-19 18:18:00",
+            "post_id": "490528",
+            "reply_to_id": "490524"
+        }
+    ],
+    "date": "2013-01-19 17:30:00"
+}

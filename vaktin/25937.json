@@ -1,0 +1,30 @@
+{
+    "forum_title": "Símar, fartölvur, myndavélar og önnur farandstæki",
+    "id": "25937",
+    "title": "Vandamál með Acer",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=26&t=25937",
+    "posts": [
+        {
+            "user_name": "Bouldie",
+            "text": "Ég er með Acer Aspire 5630 fartölvu og keypti mér Football Manager 2010. Í hvert skipti sem ég ætla að nota leikjavélina í leiknum (match engine) þá kemur upp blár skjár og tölvan restartar sjálfri sér, ég get ekkert séð hvað stendur á bláa skjánum því hún slekkur á sér svo fljótt. \nHefur einhver hugmynd hvað gæti verið að? Tölvan á að vera nógu góð til að spila leikinn",
+            "date": "2009-11-04 19:16:00",
+            "post_id": "225386",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Legolas",
+            "text": "Hiti ???",
+            "date": "2009-11-04 19:23:00",
+            "post_id": "225388",
+            "reply_to_id": "225386"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Ég lenti í einmitt sama vandamáli tvisvar. Í fyrra skipti var það að SATA data kapallinn datt alltaf úr sambandi og í hitt skiptið var það að vinnsluminnið var ónýtt.\nÞetta gæti verið svo margt; Hiti, hdd, ram, o.s.frv.\nÉg mæli hins vegar með því að taka \"automatic reboot\" af svo þú getir séð hvað stendur á BSOD. Svona geriru það: Hægri smella My Computer, fara í \"Properties\", fara í \"Advanced\" flipann, smella á \"Settings\" takkann við \"Startup and Recovery\" og taka hakið af \"Automatically restart\".\nEinnig mæli ég með því að skoða Event Viewer. Svona geriru það: Start -> Control Panel -> Administrative Tools -> Event Viewer og skoða System og Application  undir \"Windows logs\" á þeim tíma sem vélin crashaði.\nGangi þér vel.",
+            "date": "2009-11-04 19:32:00",
+            "post_id": "225389",
+            "reply_to_id": "225388"
+        }
+    ],
+    "date": "2009-11-04 19:16:00"
+}

@@ -1,0 +1,30 @@
+{
+    "forum_title": "Koníakstofan",
+    "id": "58894",
+    "title": "Sækja efni á ruv.is vefinn (rtmp straum)",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=9&t=58894",
+    "posts": [
+        {
+            "user_name": "fedora1",
+            "text": "Sælir vaktarar, \nVar að rembast við að sækja jóladagatalið á ruv.is, td. \nhttp://www.ruv.is/sarpurinn/joladagatalid-jolakongurinn/24122013/julekongen\nFylgdi síðunni \nhttp://hallada.net/blog/how-download-rtmp-video/\nKóði: \nVelja allt\nrusl$ sudo iptables -t nat -A OUTPUT -p tcp --dport 1935 -j REDIRECT\nrusl$ rtmpsrv\nRTMP Server v2.4\n(c) 2010 Andrej Stepanchuk, Howard Chu; license: GPL\nStreaming on rtmp://0.0.0.0:1935\nWARNING: Trying different position for client digest!\nrtmpdump -r \"rtmp://sipvodfs.fplive.net/sipvod/\" -a \"sipvod/\" -f \"LNX 11,8,800,129\" -W \"http://www.ruv.is/sites/all/themes/ruv/spilari/player.swf\" -p \"http://www.ruv.is/sarpurinn/joladagatalid-jolakongurinn/22122013/julekongen\" -y \"mp4:lokad/4723352$7.mp4\" -o 4723352$7.flv\nClosing connection... done!\nRTMPDump v2.4\n(c) 2010 Andrej Stepanchuk, Howard Chu, The Flvstreamer Team; license: GPL\nConnecting ...\nINFO: Connected...\nDuplicate request, skipping.\nClosing connection... ERROR: RTMP_ReadPacket, failed to read RTMP packet header\ndone!\n^CCaught signal: 2, cleaning up, just a second...\nrusl$ sudo iptables -t nat -D OUTPUT -p tcp --dport 1935 -j REDIRECT\nrusl$ rtmpdump -r \"rtmp://sipvodfs.fplive.net/sipvod/\" -a \"sipvod/\" -f \"LNX 11,8,800,129\" -W \"http://www.ruv.is/sites/all/themes/ruv/spilari/player.swf\" -p \"http://www.ruv.is/sarpurinn/joladagatalid-jolakongurinn/22122013/julekongen\" -y \"mp4:lokad/4723352$7.mp4\" -o 4723352$7.flv\nRTMPDump v2.4\n(c) 2010 Andrej Stepanchuk, Howard Chu, The Flvstreamer Team; license: GPL\nConnecting ...\nINFO: Connected...\nERROR: Closing connection: NetStream.Play.StreamNotFound\nEr einhver hér sem hefur rippað eitthvað frá ruv.is nýlega eða kann á rtmpdump ?",
+            "date": "2013-12-29 11:18:00",
+            "post_id": "544533",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "arnarfbald",
+            "text": "Getur prufað forrit sem heitir HiDownloader: \nhttp://www.streamingstar.com/download/hidownload.exe",
+            "date": "2013-12-29 12:13:00",
+            "post_id": "544534",
+            "reply_to_id": "544533"
+        },
+        {
+            "user_name": "fedora1",
+            "text": "það svínvirkaði, þó þetta sé ekki í gegnum linux",
+            "date": "2013-12-30 00:28:00",
+            "post_id": "544637",
+            "reply_to_id": "544534"
+        }
+    ],
+    "date": "2013-12-29 11:18:00"
+}

@@ -1,0 +1,100 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "10206",
+    "title": "Virtual Memory is too low.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=10206",
+    "posts": [
+        {
+            "user_name": "@Arinn@",
+            "text": "Ok ég er í smá vandræðum ég veit ekki hvað þetta er en ég fékk error message uppá skjáinn í gær \"virtual memory is too low\" og ég man ekki meira held að sumir kannist við þetta hérna en núna er tölvan orðin frekar hæg einhver ráð ?",
+            "date": "2006-03-06 13:16:00",
+            "post_id": "111243",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Stækka Page File:\n\n\n\n\"\nStart\n\"->\"\nControl Panel\n\"->\"\nSystem\n\"->\"\nAdvanced\n\" og ýta á \"\nPerformance Options\n\", opna \"\nAdvanced\n\" flipan og smella á \"\nChange\n\" takkan þarna neðst.\n\n\n\nMæli með að hafa þetta 2x minnið sem þú ert með í tölvuni, nema þú sért með 1GB eða meira af minni, og hafa \"\nInitial Size\n\" og \"\nMaximum Size\n\" það sama.\n\n\n\nÞessi 'villuskilaboð', sem eru í raun bara tilkynning, þýða að Page File er fullur hjá þér og tölvan er upptekinn við reyna að hreinsa úr honum til að getað vistað eitthvað annað úr minninu niður.  Getur líka gerst ef harðidiskurinn sem hýsir Page File er fullur og Page File er ekki með sama 'Initial Size' og 'Maximum Size'.",
+            "date": "2006-03-06 14:12:00",
+            "post_id": "111247",
+            "reply_to_id": "111243"
+        },
+        {
+            "user_name": "viddi",
+            "text": "hvað mæliði með að hafa í initial og maximum á tölvu með 2 gb af minni ?",
+            "date": "2006-03-06 14:47:00",
+            "post_id": "111249",
+            "reply_to_id": "111247"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Myndi setja 2GB.  Það eru reyndar til allskonar kenningar um hvort það þarf eða þarf ekki Virtual minni þegar Physical minnið er orðið svona stórt, en ég persónulega aðhyllist eftirfarandi:\n\n\n\nKóði: \nVelja allt\nef minni < 1024Kb {\n  pagefilesize = minni x 2\n} annars {\n  pagefilesize = minni\n}\n\n\n\n\nTil fullt af síðum um þetta ef þú nennir að googla, en hvað munar þig um 2GB af diskplássi?  Reyndar myndi tölvan vera töluvert hraðvirkari ef það væri aldrei swappað minni niður á disk, en sennilega gera öll stýrikerfi þetta á einn eða annann veg.",
+            "date": "2006-03-06 16:32:00",
+            "post_id": "111257",
+            "reply_to_id": "111249"
+        },
+        {
+            "user_name": "Rusty",
+            "text": "má ég spyrja, hví er ekki hægt að einfalda þetta bara?\n\nKóði: \nVelja allt\npagefilesize = minni x 2;",
+            "date": "2006-03-06 16:44:00",
+            "post_id": "111259",
+            "reply_to_id": "111257"
+        },
+        {
+            "user_name": "Birkir",
+            "text": "Lestu kóðann hans Stutts? \n aftur þangað til þú nærð þessu.\n\n\n\nÞetta er ekki eins.",
+            "date": "2006-03-06 17:07:00",
+            "post_id": "111269",
+            "reply_to_id": "111259"
+        },
+        {
+            "user_name": "Rusty",
+            "text": "ég skil alveg kóðann hans. Spurning mín var, hví má þetta ekki vera eins og hjá mér?",
+            "date": "2006-03-06 21:24:00",
+            "post_id": "111302",
+            "reply_to_id": "111269"
+        },
+        {
+            "user_name": "@Arinn@",
+            "text": "Þetta má örugglega vera þannig.",
+            "date": "2006-03-06 21:57:00",
+            "post_id": "111305",
+            "reply_to_id": "111302"
+        },
+        {
+            "user_name": "Birkir",
+            "text": "Því að ef minnið er jafn mikið eða meira en 1024Kb þá er bara pagefilesize = minni.",
+            "date": "2006-03-06 21:57:00",
+            "post_id": "111306",
+            "reply_to_id": "111305"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "2GB af virtual minni er meira en nóg fyrir flest alla vinnslu í dag.\n\n\n\nEf þú ert með 2GB af minni þá er 4GB af virtual minni meira en nóg, hefur ekkert að gera við 6GB af virtual minni.\n\n\n\nMín skoðun er að ef þú ert með <1GB af minni þá þarftu meira á virtual minni að halda, ef þú ert með >=1GB þá skiptir virtual minnið minna máli þar sem stýrikerfið þarf ekki að cacha eins miklu minni í page file.\n\n\n\nÞað eru margir sem halda því fram að ef þú ert kominn með >=2GB af minni þá megi setja page file í 0KB þannig að stýrikerfið cache-i aldrei á harðadiskinn, því það er svo hægvirkt.\n\n\n\nOg auðvitað er Virtual minni = Minni + Page File",
+            "date": "2006-03-07 10:01:00",
+            "post_id": "111323",
+            "reply_to_id": "111306"
+        },
+        {
+            "user_name": "Rusty",
+            "text": "Honestly, ef svarið er \"Því þú þarft ekki meira\", þá held ég að ég kjósi minni x 2.\n\n\n\nEr í alvöru eitthvað að því?",
+            "date": "2006-03-07 12:44:00",
+            "post_id": "111332",
+            "reply_to_id": "111323"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Svo sem ekkert sem bannar þér það \n  Meina, ef þú átt 100MB laus á harðadisknum þínum og þig langar að vera með 100MB í 'minni' þá ætla ég ekki að stoppa þig.\n\n\n\nNytsemin í því er hinsvegar engin.\n\n\n\nHarðidiskurinn þinn er hinsvegar 100x hægari (\neða meira\n) en minnið svo þú getur verið að tapa performace ef þú átt nóg minni en stýrikerfið er að cacha allt á disk.\n\n\n\nKannski eina sem gæti stoppað þig í að hafa +4GB að minni er að þú ert líklega með 32-bit stýrikerfi og hefur bara 2^32 address space, m.ö.o. stýrikerfið nýtir ekki 'nema' 4GB af minni.  Ef þú ert hinsvegar með 64bit stýrikerfi þá ræður það hinsvegar við örlítið meira..",
+            "date": "2006-03-07 13:02:00",
+            "post_id": "111336",
+            "reply_to_id": "111332"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "það hægir á tölvunni að vera með of mikið virtualminni. það er lang hraðast að hafa dynamic pagefile á sér partitioni.",
+            "date": "2006-03-07 18:31:00",
+            "post_id": "111407",
+            "reply_to_id": "111336"
+        }
+    ],
+    "date": "2006-03-06 13:16:00"
+}

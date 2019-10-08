@@ -1,0 +1,86 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "32944",
+    "title": "innra minni kemur ekki fram",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=32944",
+    "posts": [
+        {
+            "user_name": "w.rooney",
+            "text": "Var að setja innra minni í vélina mína , þegar að ég startaði henni upp þá kom að minnið hafi breyst frá 2 GB uppí 6GB og ég spurður hvort ég vildi vista breytingarnar sem ég gerði.\nHinsvegar í my computer þá kemur einungis fram einungis fram að vélin se með installað 4 GB ... \nÞetta er vél með xp stýrikerfi , 32 bita...\nHvað er málið ? \nkv.",
+            "date": "2010-10-04 12:45:00",
+            "post_id": "286112",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "frabs",
+            "text": "xp sýnir bara 4GB mest, algengt að sjáist bara 3,5GB - nánar hér: \nhttp://msdn.microsoft.com/en-us/library/aa366778(VS.85\n).aspx",
+            "date": "2010-10-04 12:58:00",
+            "post_id": "286118",
+            "reply_to_id": "286112"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Er þetta ekki almenn regla fyrir öll 32bita stýrikerfi?\nÞetta er ástæðan fyrir því að ég er með 64bit Win7, 32bit Win7 nær ekki að brjóta 4Gb múrinn",
+            "date": "2010-10-04 13:00:00",
+            "post_id": "286119",
+            "reply_to_id": "286118"
+        },
+        {
+            "user_name": "w.rooney",
+            "text": "já ok ... mer var sagt að 8GB væri það mesta á þetta hjá mer ... en er hun bara að keyra á 4 eða er hun að keyra á 6GB þótt að það sjáist ekki í my computer ?",
+            "date": "2010-10-04 13:20:00",
+            "post_id": "286121",
+            "reply_to_id": "286119"
+        },
+        {
+            "user_name": "dori",
+            "text": "",
+            "date": "2010-10-04 13:25:00",
+            "post_id": "286122",
+            "reply_to_id": "286121"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Þarftu ekki bara að virkja PAE hjá þér til þess að geta notað meira en 4gb með 32bit kerfinu?",
+            "date": "2010-10-04 15:16:00",
+            "post_id": "286133",
+            "reply_to_id": "286122"
+        },
+        {
+            "user_name": "dadik",
+            "text": "http://en.wikipedia.org/wiki/Physical_Address_Extension\n\"Microsoft Windows  implements PAE if booted with the appropriate option, but current 32-bit desktop editions enforce the physical address space within 4GB even in PAE mode. According to Geoff Chappell, Microsoft limits 32-bit versions of Windows to 4GB due to a licensing restriction[2], and Microsoft Technical Fellow Mark Russinovich says that some drivers were found to be unstable when encountering physical addresses above 4GB.[3]. Unofficial kernel patches for Windows Vista 32-bit are available[dubious – discuss] that break this enforced limitation, though the stability is not guaranteed.\"",
+            "date": "2010-10-04 16:24:00",
+            "post_id": "286155",
+            "reply_to_id": "286133"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Nei andskotinn",
+            "date": "2010-10-04 16:28:00",
+            "post_id": "286157",
+            "reply_to_id": "286155"
+        },
+        {
+            "user_name": "dadik",
+            "text": "Ég reyndi þetta þegar ég var með 4 GB og XP - no luck .... \nSniðugast fyrir hann að fara í Win7 64bit",
+            "date": "2010-10-04 21:36:00",
+            "post_id": "286222",
+            "reply_to_id": "286157"
+        },
+        {
+            "user_name": "aevar86",
+            "text": "Enda xp orðið 10 ára gamal og á að vera löngu búið að henda þessu",
+            "date": "2010-10-04 21:43:00",
+            "post_id": "286224",
+            "reply_to_id": "286222"
+        },
+        {
+            "user_name": "Benzmann",
+            "text": "móðurborðið þitt ræður sennilega við meira, en 32bita stýrikerfi ræður bara við 3gb eða 3.25gb c.a. en ef þú ert með eitthvað gott skjákort, og ef móðurborðið þitt styður það, þá getur verið að skjákortið þitt taki eitthvað af vinnsluminninu sem tölvan er ekki að nota, (samnýting)\nannars mæli ég líka bara einfaldlega með eins og einhver sagði hér fyrir ofan, bara að setja 64bita Win7 á vélina þína.",
+            "date": "2010-10-05 07:58:00",
+            "post_id": "286268",
+            "reply_to_id": "286224"
+        }
+    ],
+    "date": "2010-10-04 12:45:00"
+}

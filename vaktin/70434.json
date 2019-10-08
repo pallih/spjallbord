@@ -1,0 +1,79 @@
+{
+    "forum_title": "Windows",
+    "id": "70434",
+    "title": "[hjálp]windows 10 reboot loop",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=70434",
+    "posts": [
+        {
+            "user_name": "Jon1",
+            "text": "Sæl öll ég var að vonast til að það væri einhver hér sem gæti hjálpað mér.\nmálið er að í gær leti ég í eitthverju ruglið með hljóðið á vélinni minni svo ég restartaði henni og lenti í svona reboot loop.\nEftir að reyna að stússa smá með þetta ákvað ég að formata hana bara.... allt leit vel út og ég restartaði eftir driver settup og beint í reboot loop aftur.\nég fór að taka hluti úr sambandi og prófa að sjá  hvað gæti verið að valda þessu og endaði með að hún fór í gang aftur eftir að ég tók minnin úr, aftengdi auka skjáinn minn og aftengdi sli brúnna. ég prófaði að tengja skjáinn aftur og þá fer hún aftur í loop, okey þá tók ég hann aftur úr sambandi og hún fór aftur af stað, þá prófaði ég að setja sli brúnaá aftur sama gerðist ... þá hélt ég að annað skjá kortið væri vandamálið og prófaði að setja minnin aftur í og það sama gerðist. nema núna fæ ég hana ekki útur loopunni með því að taka minnin úr ..\nhún restartar alltaf eftir að klára fyrsta windows loading screen dæmið þar sem punktarnir fara í hringi!\nfyrsta sem mér dettur í hug er hardware en þá er skrítið að hún hagi sér svona  (móðurborð?) \nöll hjálp er vel þeginn , eins og er er ég atvinnulaus og ekki alveg tilbúinn að missa afþreginguna mína núna \ntölvan  er í undriskriftinni",
+            "date": "2016-08-27 21:29:00",
+            "post_id": "630549",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Viggi",
+            "text": "Lenti í þessu sama eftir að hafa keypt nýtt vinsluminni. Setti það í annað slot og þá lagaðist þetta\nPrófaðu að endurraða kubbunum og sjáðu hvað gerist",
+            "date": "2016-08-27 22:18:00",
+            "post_id": "630552",
+            "reply_to_id": "630549"
+        },
+        {
+            "user_name": "Jon1",
+            "text": "Ætla prófa það núna \nSent from my SM-G900F using Tapatalk",
+            "date": "2016-08-27 22:33:00",
+            "post_id": "630554",
+            "reply_to_id": "630552"
+        },
+        {
+            "user_name": "einarenergy",
+            "text": "Byrja á einfaldasta. Er on/off og restart takkinn fastur  inni? (hefur skeð hjá mér)\nprufa að taka annað minnið úr  og sjá hvað tölvan gerir.\ntékka öll tengi.",
+            "date": "2016-08-27 22:36:00",
+            "post_id": "630556",
+            "reply_to_id": "630554"
+        },
+        {
+            "user_name": "Jon1",
+            "text": "ég er búinn að prófa svona basic hlutina ,það sem mér dettur næst í hug er að prófa skjákortin og móðurborðið\nsem er svo mikið ves með hardline wc",
+            "date": "2016-08-27 22:44:00",
+            "post_id": "630558",
+            "reply_to_id": "630556"
+        },
+        {
+            "user_name": "FreyrGauti",
+            "text": "Búinn að athuga hvort þú komist í safe mode?",
+            "date": "2016-08-28 01:42:00",
+            "post_id": "630564",
+            "reply_to_id": "630558"
+        },
+        {
+            "user_name": "Jon1",
+            "text": "kemmst í safe mode annaðslagið\ntékkaði á þvi tol að skoða þetta gallaða update sem kom ! en það virkar ekki alltaf",
+            "date": "2016-08-28 04:32:00",
+            "post_id": "630567",
+            "reply_to_id": "630564"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Ágætis hugmynd að prófa að boot-a  t.d Ubuntu af usb lykli eða CD/DvD (til að útiloka HDD/software/OS).\nEf það allt virkar eðlilega þegar þú keyrir upp Ubuntu af live cd þá geturu gefið þér að vandamálið liggur í Hdd/OS/software.",
+            "date": "2016-08-28 10:02:00",
+            "post_id": "630571",
+            "reply_to_id": "630567"
+        },
+        {
+            "user_name": "DJOli",
+            "text": "Búinn að prófa að setja upp windows 7 eða windows 8 í staðinn?",
+            "date": "2016-08-28 13:14:00",
+            "post_id": "630583",
+            "reply_to_id": "630571"
+        },
+        {
+            "user_name": "Jon1",
+            "text": "Prófa Ubuntu/windows 7 hugmyndina á eftir\nSent from my SM-G900F using Tapatalk",
+            "date": "2016-08-28 15:14:00",
+            "post_id": "630593",
+            "reply_to_id": "630583"
+        }
+    ],
+    "date": "2016-08-27 21:29:00"
+}

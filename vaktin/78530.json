@@ -1,0 +1,58 @@
+{
+    "forum_title": "Yfirklukkun, hraðaprófanir og mods",
+    "id": "78530",
+    "title": "Yfirklukkun á 8700k",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=1&t=78530",
+    "posts": [
+        {
+            "user_name": "niCky-",
+            "text": "Sælir, er að prufa að yfirklukka í fyrsta sinn er þett allt gott og blessað hjá mér?\nOg hvaða forrit ætti ég að nota til að stress prófa og checka á temps?\nFyrirfram þakkir",
+            "date": "2019-02-11 16:15:00",
+            "post_id": "684951",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "andriki",
+            "text": "ég nota oftast aida64 og er sjálfur mer i7 8700k með hann í 5,0ghz með 1,33v og nota síðan annað hvort real temp, hwmointor eða msi afterburner til að fylgjast með temps",
+            "date": "2019-02-11 17:18:00",
+            "post_id": "684956",
+            "reply_to_id": "684951"
+        },
+        {
+            "user_name": "andriki",
+            "text": "hvaða kælingu ertu með ?",
+            "date": "2019-02-11 17:18:00",
+            "post_id": "684957",
+            "reply_to_id": "684956"
+        },
+        {
+            "user_name": "niCky-",
+            "text": "noctua nh-d14",
+            "date": "2019-02-11 17:26:00",
+            "post_id": "684958",
+            "reply_to_id": "684957"
+        },
+        {
+            "user_name": "niCky-",
+            "text": "En er allt þarna rétt gert hjá mér? Ég er algjör nýliði gerði þetta bara eftir tutorial í youtube",
+            "date": "2019-02-11 17:27:00",
+            "post_id": "684959",
+            "reply_to_id": "684958"
+        },
+        {
+            "user_name": "andriki",
+            "text": "ja í raun ekkert að þessu, er sjálfur að nota asus z390 extreme hero móðurborð, og nota alltaf manual voltage i staðin fyrir offset en það er ekkert að því, eins lengi og það er stable, myndi bara prófa runa aida 64 og fylgjast með hvað cpu vcore er að fara í á með ætti ekki að þurfa fara eth ofar en 1,3v til runna 4,8ghz og ég sjálfur miða við að fara aldrei yfir 90°c þótt þeir byrji ekki að throttle fyrir en í 105°c minir mig, \nEn ég er með custom vatnskælingu og buin að delidda cpuinn hja mer og setta liquid metal þannig fer ekki einu sinni uppi 80°c",
+            "date": "2019-02-11 17:35:00",
+            "post_id": "684960",
+            "reply_to_id": "684959"
+        },
+        {
+            "user_name": "niCky-",
+            "text": "Okey, takk fyrir hjálpina",
+            "date": "2019-02-11 17:51:00",
+            "post_id": "684961",
+            "reply_to_id": "684960"
+        }
+    ],
+    "date": "2019-02-11 16:15:00"
+}

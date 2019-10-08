@@ -1,0 +1,37 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "33656",
+    "title": "Hitastigsmælingar á Core2Duo",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=33656",
+    "posts": [
+        {
+            "user_name": "Daz",
+            "text": "Ég er nýbúinn að skipta um kælingu á örgjörvanum mínum og fór því að velta fyrir mér hitastiginu á honum. Eftir skiptinguna þá sýnist mér hitinn vera lægri (mun lægri raunar, þar sem ég var að taka út stock kælingu fulla af ryki) en, ég er með 3 mismunandi tól og ekkert þeirra sýnir sama hitann.\nSpeedfan - Rivatuner- Core temps\nVélin var búin að keyra í ~100% load í svolítinn tíma svo ekki var það að forritin væru sein að uppfæra hitann, hann er enþá í þessum sömu gildum í öllum forritinum.\nSpurningin er, er eitthvað af þessum forritum nær raunveruleikanum en annað, eða er til eitthvað betra forrit? \n(Ég er aðalega að velta fyrir mér hvað sé rétt, því ef Rivatunerinn er að segja mér satt get ég án vafa íhugað að overclocka eitthvað í núverandi setupi, eða keyra þetta sem passive kælingu með engri viftu.)",
+            "date": "2010-11-08 17:48:00",
+            "post_id": "294127",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Saber",
+            "text": "Ég myndi kjósa CoreTemp",
+            "date": "2010-11-08 18:31:00",
+            "post_id": "294138",
+            "reply_to_id": "294127"
+        },
+        {
+            "user_name": "Sydney",
+            "text": "Ástæðan fyrir því að þessi forrit finna ekki sama hitastig er sú að hitamælirinn á örgjörvanum mælir í raun fjarlægðina frá TJmax (tölvan drepur á sér úr hita við það hitastig). Síðast þegar ég man voru Intel ekki búnir að gefa út TJmax á C2D örgjörvunum. \nIe: Það sem skiptir máli er ekki hitastig, heldur fjarlægð frá TJmax, vilt hafa þá tölu hærra en 20°C. Mæli með Real Temp til þess að finna út þá tölu.",
+            "date": "2010-11-08 19:29:00",
+            "post_id": "294151",
+            "reply_to_id": "294138"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Ég sé reyndar að Core Temps birtir þetta TJ Max líka, real temp virðist birta svipað. Takk fyrir ábendinguna.\nÞá komst ég líka að því að aflgjafinn er álíka hávaðaseggur og gamla kælinging  (og augljóslega skjákortið þegar það er í notkun, en það er annar handleggur).",
+            "date": "2010-11-10 14:53:00",
+            "post_id": "294671",
+            "reply_to_id": "294151"
+        }
+    ],
+    "date": "2010-11-08 17:48:00"
+}

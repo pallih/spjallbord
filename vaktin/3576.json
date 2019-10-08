@@ -1,0 +1,51 @@
+{
+    "forum_title": "Windows",
+    "id": "3576",
+    "title": "Tvöfalt startup!",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=3576",
+    "posts": [
+        {
+            "user_name": "FrankC",
+            "text": "Smá vandamál. Þegar ég set shortcut í forrit í startup folderið í start -> programs og ræsi windows, þá keyrir win forritið upp tvisvar! Gerist með mörg forrit og ekkert þeirra er stillt á að starta sér upp með tölvunni. Ég var að strauja í gær vegna annars og þetta gerist ennþá, ég hélt alltaf bara að windowsið væri orðið e-ð lúið...",
+            "date": "2004-03-25 19:20:00",
+            "post_id": "35756",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Zaphod",
+            "text": "Start>Run msconfig og skoða startup tab...",
+            "date": "2004-03-25 20:26:00",
+            "post_id": "35766",
+            "reply_to_id": "35756"
+        },
+        {
+            "user_name": "FrankC",
+            "text": "jámm, ég gúglaði þetta og fékk fullt af leiðbeiningum en ekkert virkaði. Ef ég sýsla e-ð í msconfig fæ ég leiðinda popup alltaf þegar ég ræsi vélina, kannski ég læri bara að lifa við það...",
+            "date": "2004-03-25 20:51:00",
+            "post_id": "35780",
+            "reply_to_id": "35766"
+        },
+        {
+            "user_name": "Hlynzit",
+            "text": "format ?",
+            "date": "2004-03-25 22:29:00",
+            "post_id": "35795",
+            "reply_to_id": "35780"
+        },
+        {
+            "user_name": "Zaphod",
+            "text": "Nei það popup kemur bara í fyrsta starti eftir að hafa sýslað í msconfig.",
+            "date": "2004-03-25 22:44:00",
+            "post_id": "35796",
+            "reply_to_id": "35795"
+        },
+        {
+            "user_name": "FrankC",
+            "text": "ég fæ það alltaf... prófa þetta betur...",
+            "date": "2004-03-26 12:24:00",
+            "post_id": "35836",
+            "reply_to_id": "35796"
+        }
+    ],
+    "date": "2004-03-25 19:20:00"
+}

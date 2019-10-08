@@ -1,0 +1,93 @@
+{
+    "forum_title": "Windows",
+    "id": "35738",
+    "title": "Vesen eftir format.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=35738",
+    "posts": [
+        {
+            "user_name": "binnip",
+            "text": "Sælir piltar , þannig er mál með vexti að ég tók mig til núna fyrir 2 dögum og ætlaði að formatta tölvuna mína.. Gekk vel þangað til að tölvan var að copya einhverja file-a. Væntanlega af windows disknum, þá byrjaði hún að koma með errora um að það væru files missing  (félagi minn hefur notað sama disk og það gekk einsog í sögu hjá honum). Já, það komu meldingar um að það vantaði einhverja .sys file-a og ég var beðinn um að annaðhvort retrya eða eitthvað annað, man nú ekki alveg hvað það var í augnablikinu. Svo þegar það gekk í gegn og það var verið að setja upp windowsið(var svona grænn bar hægra meginn um hvað þetta átti að taka langann tíma og svoleiðis) þá byrjuðu errorarnir aftur að koma, það vantaði einhverja file-a og hún vildi ekki setja upp windows.... \n .\nAllavega, þá reddaði ég mér öðrum disk og allt gekk vel. Þangað til að windowsið var komið upp, ég byrjaður að installa driverum og svoleiðis,restartaði tölvunni og þá virkaði músin og lyklaborðið ekki .... Er buinn að prófa önnur lyklaborð og aðrar  mýs og enable-a usb dæmið í bios. Svo get ég náttúrulega ekkert formattað aftur eða gert neitt í helvítis tölvunni þannig ég veit EKKKKKKERT hvað ég á að gera.",
+            "date": "2011-01-26 15:19:00",
+            "post_id": "316088",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "B.Ingimarsson",
+            "text": "virkar lyklaborðið og músin ekki í windows eða bara yfirhöfuð",
+            "date": "2011-01-26 15:23:00",
+            "post_id": "316090",
+            "reply_to_id": "316088"
+        },
+        {
+            "user_name": "binnip",
+            "text": "Það koma ljós á músina og lyklaborðið svona rétt á meðan windowsið er að ræsa sig. Svo slökknar það bara...\ns.s þegar ég er kominn inna desktop þá er slökkt á lyklaborðinu og músinni.",
+            "date": "2011-01-26 15:26:00",
+            "post_id": "316093",
+            "reply_to_id": "316090"
+        },
+        {
+            "user_name": "B.Ingimarsson",
+            "text": "prófaðu bara eitthvað annað kerfi, er þetta lögleg útgáfa af windows",
+            "date": "2011-01-26 15:27:00",
+            "post_id": "316094",
+            "reply_to_id": "316093"
+        },
+        {
+            "user_name": "binnip",
+            "text": "nei þetta er copyaður diskur, hef notað hann áður og hann virkaði vel",
+            "date": "2011-01-26 15:29:00",
+            "post_id": "316095",
+            "reply_to_id": "316094"
+        },
+        {
+            "user_name": "B.Ingimarsson",
+            "text": "en þú getur samt bootað frá disknum og formatað og installað aftur",
+            "date": "2011-01-26 15:33:00",
+            "post_id": "316098",
+            "reply_to_id": "316095"
+        },
+        {
+            "user_name": "binnip",
+            "text": "Já ,kannski að ég prófið það, ætti ekki að taka langann tíma þar sem það er ekkert inná disknum",
+            "date": "2011-01-26 15:36:00",
+            "post_id": "316100",
+            "reply_to_id": "316098"
+        },
+        {
+            "user_name": "binnip",
+            "text": "Ætla nú ekki að vera að spamma þennan þráð of mikið en, hvað á ég að ýta á af þessu ?\nVeit voða lítið hver munurinn er á þessu \n     ...\n1.Format the partition using the NTFS file system (quick)\n2.Format the partition using the NTFS file system\n3. Leave the current file system intact(nochanges)",
+            "date": "2011-01-26 15:45:00",
+            "post_id": "316107",
+            "reply_to_id": "316100"
+        },
+        {
+            "user_name": "hvilberg",
+            "text": "Í BIOS stillingunum þínum getur þú valið hvort USB support kemur frá BIOS eða OS (stýrikerfi)\nMig grunar að það sé þessi stilling sem er að bögga þig",
+            "date": "2011-01-26 15:56:00",
+            "post_id": "316112",
+            "reply_to_id": "316107"
+        },
+        {
+            "user_name": "Fylustrumpur",
+            "text": "Getur notað tab takkan í stað fyrir músinna",
+            "date": "2011-01-26 16:56:00",
+            "post_id": "316138",
+            "reply_to_id": "316112"
+        },
+        {
+            "user_name": "B.Ingimarsson",
+            "text": "gerðu bara það 1 eða 2 (formattar harðadiskinn og setur hann í NTFS skráarkerfið)",
+            "date": "2011-01-26 17:20:00",
+            "post_id": "316155",
+            "reply_to_id": "316138"
+        },
+        {
+            "user_name": "binnip",
+            "text": "Formattaði aftur og þá virkaði þetta allt saman",
+            "date": "2011-01-26 18:15:00",
+            "post_id": "316177",
+            "reply_to_id": "316155"
+        }
+    ],
+    "date": "2011-01-26 15:19:00"
+}

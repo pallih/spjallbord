@@ -1,0 +1,107 @@
+{
+    "forum_title": "Windows",
+    "id": "2266",
+    "title": "Hardlink",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=2266",
+    "posts": [
+        {
+            "user_name": "gnarr",
+            "text": "hvernig gerir maður hardlink í win xp? mig vantar nauðsinlega að gera það. er ekki annars hægt að hardlinka möppur?",
+            "date": "2003-11-29 22:12:00",
+            "post_id": "21945",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Fletch",
+            "text": "yep.. getur það\n\n\n\nmeð resource kit'inu er skipun sem heitir linkd.exe\n\ngetur gert þetta með henni..\n\n\n\nen betri leið er að fara á \nhttp://www.sysinternals.com\n\n\nog ná í tól sem heitir junction.exe\n\n\n\nauðvelt að gera þetta með því\n\n\n\nFletch",
+            "date": "2003-11-29 22:32:00",
+            "post_id": "21946",
+            "reply_to_id": "21945"
+        },
+        {
+            "user_name": "ICM",
+            "text": "einfaldasta leiðin en það er ekki hægt að gera hard links af möppum og það er ekki hægt að gera hard links á milli drifa \nhttp://www.hlm.inc.ru/",
+            "date": "2003-11-29 22:32:00",
+            "post_id": "21947",
+            "reply_to_id": "21946"
+        },
+        {
+            "user_name": "Fletch",
+            "text": "júbb og júbb...\n\n\n\ngetur gert links í möppur og linkað milli drifa, en getur (augljóslega) ekki linkað á netdrif..\n\n\n\nFletch",
+            "date": "2003-11-29 22:33:00",
+            "post_id": "21948",
+            "reply_to_id": "21947"
+        },
+        {
+            "user_name": "ICM",
+            "text": "Ég hélt að Hard Links væru bara fyrir skrár og junktions væru bara fyrir directories\n\n\n\nJunktions : These are NTFS directories that can be resolved to any local namespace\n\n\n\nMicrosoft:",
+            "date": "2003-11-29 22:49:00",
+            "post_id": "21952",
+            "reply_to_id": "21948"
+        },
+        {
+            "user_name": "Fletch",
+            "text": "ég nota allavega junction.exe til að linka milli drifa og í folders...\n\n\n\nFletch",
+            "date": "2003-11-29 22:50:00",
+            "post_id": "21953",
+            "reply_to_id": "21952"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "snilld \n takk strákar",
+            "date": "2003-11-30 03:17:00",
+            "post_id": "21988",
+            "reply_to_id": "21953"
+        },
+        {
+            "user_name": "RadoN",
+            "text": "question: hvað er hardlink?",
+            "date": "2003-11-30 03:43:00",
+            "post_id": "21992",
+            "reply_to_id": "21988"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "það er svipað og shortcut.. nema að ef þú kóperar hardlinkinn einhvert, þá ertu að kópera allann fælinn, en ekki bara shortcut á hann.",
+            "date": "2003-11-30 03:48:00",
+            "post_id": "21994",
+            "reply_to_id": "21992"
+        },
+        {
+            "user_name": "RadoN",
+            "text": "ég er bara enþá ruglaðari",
+            "date": "2003-11-30 03:56:00",
+            "post_id": "21997",
+            "reply_to_id": "21994"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "þetta er í rauninni alveg eins go að gera copy af fælnum.. þú ert með sama fælinn x2. vanalega ef þú kóperar fæl og breytir síðan öðurm þeirra, þá breytist hinn ekki. en ef þú gerir hardlink, og breytir öðrum fælnum, þá breytist hinn líka.\n\n\n\nÉg er tildæmis að nota þetta til þess að vera með sömu quicklunch möppu og sömu links möppu í tveimur accounts í win xp",
+            "date": "2003-11-30 04:07:00",
+            "post_id": "21998",
+            "reply_to_id": "21997"
+        },
+        {
+            "user_name": "Fox",
+            "text": "fsutil hardlink create HardLinkName filename\n\n\n\ndæmi:\n\nfsutil hardlink create hardlinkur_nr1.txt c:\\texti.txt\n\n\n\nyndislegt að nota þetta til þess að fake-a share á DC\n\n\n\nég skrifaði grein um hardlink fyrir löngu en hún fékk harða gagnríni og henni var hennt út.",
+            "date": "2003-12-04 13:56:00",
+            "post_id": "22510",
+            "reply_to_id": "21998"
+        },
+        {
+            "user_name": "ICM",
+            "text": "hún fékk harða gagnríni því þú sagðir ÞETTA \"yndislegt að nota þetta til þess að fake-a share á DC\"\n\n\n\nhættu að tala um leiðir til að reyna að svindla á kerfinu eða eins og þú orðar það \"heævítis stjórnendur\" og \"helv e-bay elskurnar tóku því illa að ég reyndi að selja ólöglegan varning\"",
+            "date": "2003-12-04 19:00:00",
+            "post_id": "22533",
+            "reply_to_id": "22510"
+        },
+        {
+            "user_name": "RadoN",
+            "text": "hahahaha..  \n  já, það var mjög skemmtilegt að lesa um þegar eBay bannaði Fox, eftir að hann var búinn að segja hvað þeir væri frábærir og allir ættu að kaupa þaðan",
+            "date": "2003-12-04 19:39:00",
+            "post_id": "22543",
+            "reply_to_id": "22533"
+        }
+    ],
+    "date": "2003-11-29 22:12:00"
+}

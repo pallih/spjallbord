@@ -1,0 +1,30 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "33124",
+    "title": "Hví get ég ekki hækkað V og shader clock á 5850 ??",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=33124",
+    "posts": [
+        {
+            "user_name": "oskar9",
+            "text": "Sælir var að DLA MSI afterburner til að klukka 5850 kortið mitt aðeins en ég get ekki breytt voltunum  og shader clockinu á kortinu, er búinn að fara í setings í Afturburner og haka við \"unlock voltage control\" og restarta forritinu en ég get samt ekki breytt voltunum. þarf að koma því í 1.2 volt til að ná stable 920/1200 MHZ klukku er mér sagt.\nTakk fyrir",
+            "date": "2010-10-13 10:57:00",
+            "post_id": "288129",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Opnaðu MSI Afterburn skránna.\nOpnaðu AfterBurner.cfg\n[Settings]\nSkin = default.usf\nStartMinimized = 0\nStartWithWindows = 0\nRememberSettings = 0\nFirstRun = 1\nFirstUserDefineClick = 1\nFirstServerRun = 1\nHwPollPeriod = 1000\nMMIOPageSize = 4\nPCIBusFilter = -10h\nShowTooltips = 1\nShowHints = 1\nPauseInSuspendedMode = 1\nCurrentGpu = 0\nSync = 1\nAttachMonitoringWindow = 1\nMonitoringWindowOnTop = 1\nShowPerformanceProfilerStatus = 0\nLCDFont = font4x6.dat\nLCDScrollTimerPeriod = 30\nUnlockVoltageControl = 0\nUnlockVoltageMonitoring = 0\nShowOSDTime = 0\nRestoreAfterSuspendedMode = 0\nStartupViaTaskScheduler = 0\nStartupDelay = 0\nMinMonitoringGraphHeight = -1\nLocalizationDebugFlags = 0\n[ATIADLHAL]\nEnableUnofficialOverclocking = 1\nAccessibilityCheckingPeriod = 0\n[NVAPIHAL]\nClockDomainIdWorkaround = -1\nthen restart the program \nand go on",
+            "date": "2010-10-13 11:34:00",
+            "post_id": "288137",
+            "reply_to_id": "288129"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "",
+            "date": "2010-10-13 11:34:00",
+            "post_id": "288138",
+            "reply_to_id": "288137"
+        }
+    ],
+    "date": "2010-10-13 10:57:00"
+}

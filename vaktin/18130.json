@@ -1,0 +1,30 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "18130",
+    "title": "vandamál með hdd",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=18130",
+    "posts": [
+        {
+            "user_name": "halldorjonz",
+            "text": "Halló.\nVar að stinga einum disk í samband, og hann birtist alveg í My Computer, síðan ýti ég á hann þá kemur bara:\nThe Disk In The Drive \"D\" Is Not Formatted\n \nDo you want to formatted now?\n ég ýti á Yes þá kemur svona\neins og það sé að fara formattast en síðan eftir smá þá kemur bara error \"cant format this drive\" (gerist líka í Computer Management)\nog ef ég ýti á No þá bara gerist ekki neitt.. þetta er eitthvað skrýtið, hafiði ráð?\ntakk",
+            "date": "2008-05-22 18:06:00",
+            "post_id": "175030",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "halldorjonz",
+            "text": "hefur enginn svar",
+            "date": "2008-05-22 18:55:00",
+            "post_id": "175041",
+            "reply_to_id": "175030"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Hægri smelltu á drifið og veldu properties, smelltu þar á Tools flipann og smelltu svo loks á Check Now (inní Error-checking (efsti valmöguleikinn))\nHakaðu við bæði \"Automaticly fix file system errors\" og \"Scan for and attempt recovery of bad sectors\"\nÝttu loks á Start og leifðu tölvunni að klára þetta, prufaðu aftur að formatta eftir þetta (nema það komi kanski ólaganlegar villumeldingar en þá er diskurinn líklegast fubar)",
+            "date": "2008-05-22 20:23:00",
+            "post_id": "175046",
+            "reply_to_id": "175041"
+        }
+    ],
+    "date": "2008-05-22 18:06:00"
+}

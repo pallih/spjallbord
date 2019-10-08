@@ -1,0 +1,65 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "4081",
+    "title": "Smá prob með samsung disk",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=4081",
+    "posts": [
+        {
+            "user_name": "fallen",
+            "text": "Jæja, svo standa málin að ég er með hérna einn 160gb samsung disk (\nnánar\n) og mig langar að setja os'ið mitt á hann útaf ég er að klikkast á WD disknum mínum sem er með os'inu núna (er alltaf að slökkva og kveikja á sér og þannig lagað). Jæja, ég unplugga wd'inn og set samsunginn sem master, í góðu með það.. tölvan detectar hann sem master í biosnum og alles, ég set xp diskinn í, boota af honum, set upp windows á hann og allt í góðu, en svo þegar ég er búinn í setup processinu og tölvan seigir mér að tölvan restarti sér eftir 15sek og telur niður, venjulega ætti hún að halda áfram með setup eftir restartið en hún sýnir \"press any key to boot from cd\" bara alveg endalaust, venjulega ætti maður að bíða í nokkrar sek. og sjá WIN XP loading draslið. Það er einsog að hún barasta booti ekki af samsungnum.. ég er ekki alveg viss um hvað er í gangi og var að vonast til að þið hérna gætuð upplýst mig um hvað ég gæti gert til að fixa þetta?\n\nMeð von um góð svör.",
+            "date": "2004-05-09 03:35:00",
+            "post_id": "41338",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "mattib",
+            "text": "taktu hinn harðadiskinn úr sambandi á meðan þú ert að setja win á hinn...",
+            "date": "2004-05-09 11:20:00",
+            "post_id": "41356",
+            "reply_to_id": "41338"
+        },
+        {
+            "user_name": "sjarmi",
+            "text": "Mattib:  sérð þú ekki hvað stendur þarna?\n\n\n\n\n\n\n\nHalli:  þú þarft að fara í bios-inn og stilla hann þannig að tölvan boot-i sér upp á hdd.  Þó svo að þú hafir sett samsunginn sem master þá virðist cd-rom vera master núna.  Prófaðu þetta alla vega.",
+            "date": "2004-05-09 11:53:00",
+            "post_id": "41360",
+            "reply_to_id": "41356"
+        },
+        {
+            "user_name": "mattib",
+            "text": "sorry sá þetta ekki..",
+            "date": "2004-05-09 12:18:00",
+            "post_id": "41362",
+            "reply_to_id": "41360"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Ég hef líka lent í þessu og síðan þegar ég rebootaði aftur þá kom bara að boot disk failure. enda er samsung hræðilegt til nota fyrir stýrikerfi \n mín skoðun og ekkert skítkast.",
+            "date": "2004-05-09 12:26:00",
+            "post_id": "41366",
+            "reply_to_id": "41362"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Hefuru prófað að taka windows XP diskinn úr geisladrifinu og reina að starta tölvunni?",
+            "date": "2004-05-09 12:31:00",
+            "post_id": "41368",
+            "reply_to_id": "41366"
+        },
+        {
+            "user_name": "fallen",
+            "text": "Biosinn er stilltur á 1. cdrom, 2. hdd-1, 3. disabled. Ég hef alltaf verið með CDROM sem boot nr 1 og sett upp windows svona milljón sinnum á WD diskin minn.\n\n\n\n\nNei, skal testaða núna.",
+            "date": "2004-05-09 12:43:00",
+            "post_id": "41372",
+            "reply_to_id": "41368"
+        },
+        {
+            "user_name": "fallen",
+            "text": "Jæja, ég setti bios í 1. CDROM, 2.HDD-0 og 3.HDD-1. Það virkaði fínt, hún bootaði af disknum og alles.\n\nÞakka fyrir mig.",
+            "date": "2004-05-09 15:56:00",
+            "post_id": "41411",
+            "reply_to_id": "41372"
+        }
+    ],
+    "date": "2004-05-09 03:35:00"
+}

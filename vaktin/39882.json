@@ -1,0 +1,107 @@
+{
+    "forum_title": "Windows",
+    "id": "39882",
+    "title": "BOOTMGR is missing",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=39882",
+    "posts": [
+        {
+            "user_name": "AncientGod",
+            "text": "hallo ég var að sitja upp á nýja tölvu windows 7 löglegt en þegar ég ætla að ræsa hana upp kemur alltaf þetta BOOTMGR is missing og þegar ég er búinn að googla þetta þá er sagt að sitja diskin í drifið og gera repair en ég næ því ekki þar sem ég kemst ekki í BIOS eða eithvað annað þetta kemur bara strax og ég kveiki á tölvunni það virkar ekki einu sinni að nota F8, hefur eithver lent í þessu ?",
+            "date": "2011-07-13 15:46:00",
+            "post_id": "362882",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "kjarrig",
+            "text": "Fyndið, lenti í þessu í gær.  Var að setja sjónvarpskort í vélina, og eitthvað að hræra í snúrum.  Ræsi upp tölvuna og fæ þessi villuboð.  Endaði með því að taka færa SATA snúru úr tengi á móðurborðinu og setja í annað SATA tengi í móðurborðinu.  Og tölvan ræstist eðlilega upp.",
+            "date": "2011-07-13 17:10:00",
+            "post_id": "362904",
+            "reply_to_id": "362882"
+        },
+        {
+            "user_name": "AncientGod",
+            "text": "prófað virkar ekki =S",
+            "date": "2011-07-13 18:56:00",
+            "post_id": "362929",
+            "reply_to_id": "362904"
+        },
+        {
+            "user_name": "Glazier",
+            "text": "Varstu með XP fyrir?",
+            "date": "2011-07-13 19:23:00",
+            "post_id": "362938",
+            "reply_to_id": "362929"
+        },
+        {
+            "user_name": "AncientGod",
+            "text": "nop, glænýr 500Gb sata3 diskur 7200 rpm ekkert á honum og þetta var nýtt build allt glænýtt.",
+            "date": "2011-07-13 19:36:00",
+            "post_id": "362944",
+            "reply_to_id": "362938"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "ertu búinn að setja boot order rétt í bios?\ner eitthvað annað tengt við vélin í t.d usb?",
+            "date": "2011-07-13 19:37:00",
+            "post_id": "362945",
+            "reply_to_id": "362944"
+        },
+        {
+            "user_name": "AncientGod",
+            "text": "bara lyklaborð, boot order er HDD first, DVD svo USB.",
+            "date": "2011-07-13 19:45:00",
+            "post_id": "362952",
+            "reply_to_id": "362945"
+        },
+        {
+            "user_name": "Bioeight",
+            "text": "Tölvan er að reyna að boota upp af einhverju sem bara virkar ekki að boota upp á. Hvort sem það er vitlaus HDD eða DVD, skiptir ekki máli. Ættir að geta lagað þetta með því að fara í BIOS og stilla þetta betur þar. Þú ættir að komast inn í BIOS með venjulegum leiðum, DEL, F2, F1, ESC, etc... Þarft kannski að prófa annað lyklaborð, PS2 t.d.? Endilega gefðu síðan upp hvernig tölva þetta er sem þú ert með, ertu með auka HDD t.d., hjálpar mikið við að leysa svona vandamál.\nEDIT: Gætir prófað að gera Clear CMOS, kannski er BIOSinn í einhverri quick boot stillingu? Bara ágiskun.",
+            "date": "2011-07-13 20:23:00",
+            "post_id": "362972",
+            "reply_to_id": "362952"
+        },
+        {
+            "user_name": "lukkuláki",
+            "text": "Gallaður HDD ?",
+            "date": "2011-07-13 20:27:00",
+            "post_id": "362974",
+            "reply_to_id": "362972"
+        },
+        {
+            "user_name": "braudrist",
+            "text": "Ég mundi giska á að þú þyrftir bara að stilla Hard Disk priority í BIOS þ.e.a.s. ef þú ert með fleiri en einn harðan disk (diskurinn sem stýrikerfið er á verður að vera #1)",
+            "date": "2011-07-13 20:34:00",
+            "post_id": "362978",
+            "reply_to_id": "362974"
+        },
+        {
+            "user_name": "AncientGod",
+            "text": "Þetta er bara 1 Harður diskur, ég held að ég sé komin með þetta.",
+            "date": "2011-07-13 20:37:00",
+            "post_id": "362982",
+            "reply_to_id": "362978"
+        },
+        {
+            "user_name": "kjarrig",
+            "text": "Gaman að vita hvað var málið.",
+            "date": "2011-07-13 20:44:00",
+            "post_id": "362985",
+            "reply_to_id": "362982"
+        },
+        {
+            "user_name": "AncientGod",
+            "text": "ég bara veit ekki hvað var að =S en ég lagaði þetta með því að fjarlægja skjákortið..... veit ekki einu sinni hvernig það tengdist þessu vandamáli samt virkar þetta skjákort mjög vel í annari tölvu.",
+            "date": "2011-07-13 20:54:00",
+            "post_id": "362988",
+            "reply_to_id": "362985"
+        },
+        {
+            "user_name": "kjarrig",
+            "text": "Einmitt, eins og hjá mér, get ekki séð að það skipti máli í hvaða tengi SATA snúran er í móðurborðinu.",
+            "date": "2011-07-14 08:25:00",
+            "post_id": "363045",
+            "reply_to_id": "362988"
+        }
+    ],
+    "date": "2011-07-13 15:46:00"
+}

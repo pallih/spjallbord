@@ -1,0 +1,72 @@
+{
+    "forum_title": "Símar, fartölvur, myndavélar og önnur farandstæki",
+    "id": "35476",
+    "title": "Örgjörvinn á gamalli Medion tölvu keyrir of hægt",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=26&t=35476",
+    "posts": [
+        {
+            "user_name": "Danni V8",
+            "text": "Sælir.\nÉg er með alveg eldgamla medion tölvu hérna sem ég var að setja Windows 7 á og fikta helling. Fór í kjölfarið að spá í vélbúnaðinum.. hún er með örgjörva sem heitir samkvæmt Bios, CPU-Z, Computer properties og öllu því \"Intel Pentium M 740 1.73GHz\" en samkvæmt öllum sömu stöðunum keyrir hann bara á 1.3GHz, sama hversu mikið load er á örgjörvanum.\nBios-inn býður ekki upp á neitt til að stilla örgjörvann... eruð þið með einhverjar hugmyndir um hvernig ég fæ þessi 0.43GHz til baka?",
+            "date": "2011-01-16 23:15:00",
+            "post_id": "313341",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "rapport",
+            "text": "http://forum.notebookreview.com/what-no ... -3ghz.html\nog\nhttp://www.edmundtse.com/2008/01/11/cpu ... -3627wxmi/\nef þú googlar, muna að nota . (punkt) í stað , (kommu) því þannig gerir kaninn...",
+            "date": "2011-01-17 00:16:00",
+            "post_id": "313357",
+            "reply_to_id": "313341"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Var nú búinn að googla aðeins. Fyrri síðan sem þú linkaðir hjálpaði ekki neitt, það var í raun engin lausn þar nema update fyrir Windows XP sem ég er ekki með í þessari tölvu. Í þokkabót þá sýnir bios-inn líka að tölvan keyrir á 1,3ghz og ekki er neitt update fyrir Windows að fara að breyta því.\nEn seinni linkurinn var aðeins nytsamlegri. Var ekki búinn að sjá hann. Það er að vísu öðruvísi fartölva en gæti verið sama chipset, þarf að kanna það. Þar er talað um að cipsettið sem er í tölvunni styðji ekki alveg við hraðann á örgjörvanum, það gæti vel verið að það sé vandamálið hjá mér. Þarf að kanna hvaða chipset ég er með..\n*Edit: Ég er með Intel i915PM/GM samkvæmt CPU-Z og það er víst ekki að styðja 533MHz FSB og 133MHz bus. Næ bara 400MHz FSB og 100MHz bus, eða 1,3GHz með x13 multiplyer.\nEf ég hefði vitað meira um tölvur þegar ég keypti þessa fartölvu hefði ég eflaust skilað henni um leið og ég kæmist að þessu þar sem tölvan er auglýst sem 1,73GHz...",
+            "date": "2011-01-17 01:02:00",
+            "post_id": "313373",
+            "reply_to_id": "313357"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Ég las bara fyrirsagnirnar... ég  er rapport \"google þjónusta\"...",
+            "date": "2011-01-17 01:09:00",
+            "post_id": "313374",
+            "reply_to_id": "313373"
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Það er möguleiki að örgjörfinn sé \"fastur\" í lægra power stepping. Athugaðu í bios-num hvort þú getur slökkt á EIST eða SpeedStep (eða power save) til að force-a örgjörfann til að keyra á mesta hraða.",
+            "date": "2011-01-17 08:29:00",
+            "post_id": "313407",
+            "reply_to_id": "313374"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Ertu með nýjasta BIOS og með slökkt á EIST og speedstep og allt það og færðu ekki fleiri möguleika í BIOS ef að þú gerir ctrl+F1?",
+            "date": "2011-01-17 08:49:00",
+            "post_id": "313410",
+            "reply_to_id": "313407"
+        },
+        {
+            "user_name": "Hnykill",
+            "text": "Þetta ctrl+F1 er bara fyrir gigabyte móðurborð minnir mig. en til að sjá svona faldar Bios stillingar fyrir Medion borð ýtir maður á F11 í startup til að koma inn í Biosinn, og passwordið er þá AM8888EGH",
+            "date": "2011-01-17 17:29:00",
+            "post_id": "313566",
+            "reply_to_id": "313410"
+        },
+        {
+            "user_name": "BjarniTS",
+            "text": "Hafðu samband ef að þú ert að leita af öðrum CPU.\nÁ svolítið af gramsi og gæti átt sambærilegan í lagi á klink.\nMBK\nBjarni",
+            "date": "2011-01-17 17:50:00",
+            "post_id": "313576",
+            "reply_to_id": "313566"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Það er til Bios Update fyrir mína tölvu, MIM2110, en það er síðan september 2005. Minn er síðan júní 05 held ég alveg örugglega. Veit ekki hvort ég á að taka sénsinn á að update-a Bios, tölvan er game over ef ég klúðra einhverju.\nÞað gerir ekkert að ýtá Ctrl+F1\nÞað gerir heldur ekkert að ýta á F11, hvorki áður en ég fer í Bios né eftir.\nFyrst að það er ekkert í stöðinni nema mögulega að flasha Bios þá held ég að ég láti þetta bara eiga sig. Tölvan virkar alveg, er bara aðeins hægari.",
+            "date": "2011-01-17 18:46:00",
+            "post_id": "313598",
+            "reply_to_id": "313576"
+        }
+    ],
+    "date": "2011-01-16 23:15:00"
+}

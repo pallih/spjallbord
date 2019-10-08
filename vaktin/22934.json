@@ -1,0 +1,72 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "22934",
+    "title": "opne port á speedtouch 585 utorrent",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=22934",
+    "posts": [
+        {
+            "user_name": "biturk",
+            "text": "hvernig er opnað port fyrir utorrent á speedtouch 585 router\nneti ðhjá mér r snarhommalega hægt þegar ég er með utorrent opið þó ég sé ekkert að niðurhala eða upphala....og það er einstaklega böggandi byrjaði bara fyrir viku síðann og núna segi ég nóg komið \n \nplís eh að hjálpa mér hvaða port ég á að opna og svona",
+            "date": "2009-05-02 01:35:00",
+            "post_id": "205508",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "taktu routerinn úr sambandi í 5 min. settu hann svo aftur í samband.\nþekkt villa.\n- gætir líka verð með of mörg active connections í torrent",
+            "date": "2009-05-02 02:07:00",
+            "post_id": "205510",
+            "reply_to_id": "205508"
+        },
+        {
+            "user_name": "biturk",
+            "text": "ég er búinn að restarta....mjög oft\nég er búinn að takmarka connections í drasl byrjaði bara allt í einu fyrir svona viku að láta svona, aldrei gerst áðuro  gég hringdi í símann til að tjekka hvort ég væri cappaður og þeir sögðu að svo væri ekki og að ég ætti að rófa a opna port",
+            "date": "2009-05-02 02:12:00",
+            "post_id": "205511",
+            "reply_to_id": "205510"
+        },
+        {
+            "user_name": "isr",
+            "text": "getur prófað að fara inn á routerinn og afhakað Web Browsing Interception.",
+            "date": "2009-05-02 08:51:00",
+            "post_id": "205518",
+            "reply_to_id": "205511"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Ég var með sama vandamál á eins router á sínum tíma. Síðan bilaði routerinn endanlega og hleypti okkur ekki á netið stundum í marga klukkutíma og þá hringdi ég í Símann og fékk nýjan. Hefur ekkert vesen verið síðan þá.",
+            "date": "2009-05-02 10:50:00",
+            "post_id": "205527",
+            "reply_to_id": "205518"
+        },
+        {
+            "user_name": "biturk",
+            "text": "en samt, hvernig er opnað port á routernum hlýtur eh að vita það hjérna hvaða port eru notuð fryir utorrent og svona smá guide",
+            "date": "2009-05-06 18:29:00",
+            "post_id": "206079",
+            "reply_to_id": "205527"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "start - run - cmd - ipconfig - skrifar töluna sem fylgir default gateway í browserinn þinn - username og pass er sennilega admin og admin eða admin og 1234 eða eitthvað álíka. \nSvo eru til nákvæmar leiðbeiningar á \nhttp://www.portforward.com",
+            "date": "2009-05-06 19:11:00",
+            "post_id": "206088",
+            "reply_to_id": "206079"
+        },
+        {
+            "user_name": "akarnid",
+            "text": "Síminn er með PDF á support síðunni sinni um þetta.\nhttp://siminn.is/einstaklingar/adstod/n ... item95916/",
+            "date": "2009-05-06 23:28:00",
+            "post_id": "206105",
+            "reply_to_id": "206088"
+        },
+        {
+            "user_name": "Ruslakall",
+            "text": "Routerarnir frá símanum eru drasl, mjög bilanagjarnir og lítið hægt að stilla þá.\nTil að opna fyrir port þá skrifarðu í browser urlinn: 192.168.1.254 username og password er (ef þú hefur ekki breytt því) admin / admin. Farðu í Toolbox->Game & Application Sharing. Veldu nafn á stillinguna og smelltu á \"Create a new game or application\", veldu nafn, hakaðu við \"Manual Entry of Port Maps\" og veldu next.\nÍ protocol velur þú tcp eða udp, ef þú veist ekki hvaða protocol um er að ræða, veldu þá any. Í port range setur þú port bilið sem þú vilt opna fyrir, ef þetta er bara eitt port númer fer það númer í báða reitina. Loks setur þú port númerið sem þú settir í fyrri reitinn í \"Translate to\" reitinn, skildu hina reitina eftir auða, smelltu á \"add\". Að lokum smellirðu á \"Assign a game or application to a local network device\" og velur nafnið á stillingunni og ip númerið (eða nafnið á vélinni) og smellir á \"add\".\nVona að þetta hafi hjálpað, þetta verður ekki mikið ítarlegra.",
+            "date": "2009-06-06 03:54:00",
+            "post_id": "208625",
+            "reply_to_id": "206105"
+        }
+    ],
+    "date": "2009-05-02 01:35:00"
+}

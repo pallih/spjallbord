@@ -1,0 +1,79 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "26564",
+    "title": "Hjálp - Hljóðvesen",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=26564",
+    "posts": [
+        {
+            "user_name": "Mosi",
+            "text": "Ég er búinn að vera í vanda með hljóð í nýkeyptri tölvu.\nÞannig er mál með vexti að það kemur lítið tikk í hljóðið (kemur randomly, óháð hversu mikil vinnsla er í gangi). Er búinn að vera í þvílíku veseni við það að komast að því hvað gæti verið að valda þessu. \nÉg tók upp hljóðið í tölvunni og setti það á netið(ekki taka mark á bassadrunum, það er bara útaf upptökunni sjálfri(var með of hátt volume), hljóðið er fullkomið í tölvunni fyrir utan tikkin sem koma(kemur í upptökunni t.d. á 8. sek))\nUpptakan:\n<object width=\"425\" height=\"344\"><param name=\"movie\" value=\"http://www.youtube.com/v/0ZuD7A3Xkqc&hl=en_US&fs=1&\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://www.youtube.com/v/0ZuD7A3Xkqc&hl=en_US&fs=1&\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"425\" height=\"344\"></embed></object>\nhttp://www.youtube.com/watch?v=0ZuD7A3Xkqc\nÞað sem ég er búinn að prófa:\nPrófa mismunandi drivera\nUppfæra/prófa mismunandi BIOS stillingar.\nFormata og setja upp stýrikerfi upp á nýtt\nPrófa hljóð í mismunandi forritum(kemur fram í öllum)\nEf þetta væri rafmagnstengt vandamál þá er ég búinn að prófa að fara með þetta í 3 mismunandi hús.\nPrófa mismunandi setup (snúrur/skjáir/mýs/heyrnartól/hátalara/lyklaborð) og er t.d. búinn að setja aðra tölvu í sama setup og ég hef fengið þetta fram og þá er ekkert vesen í þeirri tölvu.\nFékk að prófa nýtt usb hljóðkort hjá tölvuversluninni en samt kom þetta.\nÞað sem er furðulegt við þetta að það gerðist svipað vandamál í annarri tölvu sem ég keypti hjá annarri verslun og fékk svipaðan galla(hann var aðeins öðruvísi,(öðruvísi lagg og gerðist mun oftar) og þeir í tölvuversluninni(sem ég keypti tölvuna sem ég er núna með) eru að þeirra sögn búnir að prófa tölvuna oft og lengi og ná þessum hljóðgalla ekki fram.\nþetta eru specsin:\nTurnkassi: Antec Sonata III með 12cm hraðastýrðri kæliviftu\n• Aflgjafi: Antec Earthwatts hljóðlátur 500W aflgjafi\n• Móðurborð: Gigabyte EP45T-UD3LR, 4xDDR3, 6xSATA2 RAID, PCI-Express\n• Örgjörvi: Intel Core 2 Duo E8200 2.66GHz, 6MB í flýtiminni\n• Vinnsluminni: Mushkin 4GB kit(2x2GB) Dual-Channel DDR3 1333MHz\n• Harður diskur: Samsung SpinPoint F3 1TB Serial-ATA II (HD103SJ)\n• Skjákort: EVGA NVIDIA GeForce GTS250 512MB 2200/738MHz, 2xDVI\n• Geisladrif: SonyNEC 20x DVD±RW DualLayer skrifari\n• Netkort: Gigabit LAN controller 10/100/1000M\n• Hljóðkort: 7.1 CH HD Audio CODEC með optical S/PDIF útgangi\n• Tengi að framan: USB 2.0, hljóð inn og út\nOg stýrikerfið er windows 7 ultimate x86\nHefur einhver hér hugmynd um hvað gæti verið vandamálið?\nFyrirfram þakkir.\nEyþór",
+            "date": "2009-12-03 19:13:00",
+            "post_id": "231300",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "flottur",
+            "text": "er þetta hljóð svona eins og lagið sé rispað?\nÉg heyrði alla vegana ekkert tikk hljóð þegar að ég hlustaði á laga bútin.",
+            "date": "2009-12-03 19:56:00",
+            "post_id": "231312",
+            "reply_to_id": "231300"
+        },
+        {
+            "user_name": "Mosi",
+            "text": "Nei, reyndar ekki eins og rispuð plata. Hlustaðu vel á 8. sekúndu í bútnum. Það kemur fyrst þar. En svo seinna í bútnum klippti ég hljóðupptökuna ef þú hélst að það væri málið.",
+            "date": "2009-12-03 20:05:00",
+            "post_id": "231320",
+            "reply_to_id": "231312"
+        },
+        {
+            "user_name": "BjarniTS",
+            "text": "Bootaðu upp Ubuntu Live CD.\nPrufaðu hjóðið þar.\nÞetta lag sem þú gefur er ekki fullkomið dæmi , finnst mjög óljóst hvar þetta kemur í þessu lagi , getur verið að hljómflutningstækin sem þú notar séu biluð ?\nVæri jafnvel betra að fá bara söng eða non stop sama tóninn og heyra þannig bilunina betur.\nEn - \nEf að hljóðið er með sömu bilunum í Ubuntu Live CD þá myndi ég bara fara fram á nýtt hljóðkort.\nEr þetta onboard ea hljóðkort ?",
+            "date": "2009-12-03 20:46:00",
+            "post_id": "231331",
+            "reply_to_id": "231320"
+        },
+        {
+            "user_name": "Mosi",
+            "text": "\"getur verið að hljómflutningstækin sem þú notar séu biluð ?\"\nég lét tölvuna taka upp hljóðið í sjálfri sér. mini-jack/mini-jack úr output í input. þannig að nei. Hljóðið er alveg tært nema fyrir þetta tikk sem gerist á 8. sek.\ná eftir að prófa ubuntu.\ntakk fyrir það.",
+            "date": "2009-12-03 22:46:00",
+            "post_id": "231372",
+            "reply_to_id": "231331"
+        },
+        {
+            "user_name": "BjarniTS",
+            "text": "Já . .\nBara hugdetta sko með hljómflutningstækin.\nEn gangi þér vel að finna út úr þessu og vertu harður ef að tölvan er í ábyrð hjá þér að fá þetta græjað.",
+            "date": "2009-12-03 22:49:00",
+            "post_id": "231373",
+            "reply_to_id": "231372"
+        },
+        {
+            "user_name": "Mosi",
+            "text": "profadi ubuntu. thetta kemur lika fram i tvi",
+            "date": "2009-12-05 21:32:00",
+            "post_id": "231741",
+            "reply_to_id": "231373"
+        },
+        {
+            "user_name": "Godriel",
+            "text": "er mjög viss um það að þetta er EMI \"elecromagnetic interference\" púlsar sem stafa af klukkuni í móðurborðinu, ef þú ert með nýlegt móðurborð ætti að vera eitthvað sem heitir \"Spread Spectrum\" í bios sem þú getur stillt á og tekið af undir EMI eða Spread Spectrum, vona að þetta hjálpi eitthvað",
+            "date": "2009-12-05 21:44:00",
+            "post_id": "231747",
+            "reply_to_id": "231741"
+        },
+        {
+            "user_name": "Mosi",
+            "text": "ég sé ekkert hvar ég get stillt þetta í bios. er þetta í clock stillingunum? fann þetta ekki neins staðar í bios",
+            "date": "2009-12-06 15:44:00",
+            "post_id": "231843",
+            "reply_to_id": "231747"
+        },
+        {
+            "user_name": "Godriel",
+            "text": "er þetta komið í lag hjá þér?",
+            "date": "2009-12-17 09:55:00",
+            "post_id": "234208",
+            "reply_to_id": "231843"
+        }
+    ],
+    "date": "2009-12-03 19:13:00"
+}

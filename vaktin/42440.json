@@ -1,0 +1,170 @@
+{
+    "forum_title": "Yfirklukkun, hraðaprófanir og mods",
+    "id": "42440",
+    "title": "Er örgjafinn minn að steikjast?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=1&t=42440",
+    "posts": [
+        {
+            "user_name": "binno",
+            "text": "Sælir \nÉg er með eftirfarandi specs:\nCM sileo 500\n500 W stock aflgjafi\ni5 750(ekki overclockaður)\nMSI P55M-GD45 móðurborð\nGigabyte GTS 250 nvidia\nWD green 1 tb hd\n2x2gb corsair RAM\nÍ venjulegum kringum stæðum er tölvan að runna á rúmlega 57°c\nÍ leikum eins og BF:BC2 þá er örrinn að fara alveg uppi 99°c\nÉg er bara með stock kæliviftu á örranum sem ætti alveg að höndla þetta.\nEinnig fer skjákortið alveg uppí 80°c en er vanalega í 50°c.\nHvað á ég að gera?",
+            "date": "2011-10-16 20:49:00",
+            "post_id": "388598",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "worghal",
+            "text": "skjákortið á að höndla þetta, en örgjörfinn er full heitur \nhvernig er um að litast í kassanum ? gott airflow, margar viftur ?",
+            "date": "2011-10-16 20:50:00",
+            "post_id": "388600",
+            "reply_to_id": "388598"
+        },
+        {
+            "user_name": "binno",
+            "text": "það er ein aðalvifta fyrir loftflæði aftur fyrir kassan svo er ein frekar lítil vifta að framan fyrir að harða diskinn. Kannski ekki besta airflowið samt þar sem skrifborðið mitt er lokað að aftan.",
+            "date": "2011-10-16 21:00:00",
+            "post_id": "388604",
+            "reply_to_id": "388600"
+        },
+        {
+            "user_name": "worghal",
+            "text": "cable management ?",
+            "date": "2011-10-16 21:01:00",
+            "post_id": "388606",
+            "reply_to_id": "388604"
+        },
+        {
+            "user_name": "binno",
+            "text": "Allt skipulagt og fer eftir ákveðnum línum",
+            "date": "2011-10-16 21:03:00",
+            "post_id": "388609",
+            "reply_to_id": "388606"
+        },
+        {
+            "user_name": "AncientGod",
+            "text": "Prófa að skipta um krem ?",
+            "date": "2011-10-16 21:04:00",
+            "post_id": "388610",
+            "reply_to_id": "388609"
+        },
+        {
+            "user_name": "Haxdal",
+            "text": "örugglega að nota kælikrem á milli örgjörvans og hitabankans?,, ef já, er það nokkuð of mikið ?.\nKælingin örugglega fest nógu vel á, kom fyrir hjá mér með eina gamla vél að annað hornið á kælingunni losnaði og örgjörvinn hitnaði gríðarlega.",
+            "date": "2011-10-16 21:06:00",
+            "post_id": "388611",
+            "reply_to_id": "388610"
+        },
+        {
+            "user_name": "binno",
+            "text": "Var að pæla í því og kaupa mér nýja viftu á örrann. En þetta er ekki lagi ekki satt?",
+            "date": "2011-10-16 21:07:00",
+            "post_id": "388613",
+            "reply_to_id": "388611"
+        },
+        {
+            "user_name": "AncientGod",
+            "text": "Prófaðu fyrst að skipta um krem og sjá hvort þetta er vel fast áður en þú ferð að eyða pening í viftu og já þetta er frékkar slæmt.",
+            "date": "2011-10-16 21:08:00",
+            "post_id": "388614",
+            "reply_to_id": "388613"
+        },
+        {
+            "user_name": "binno",
+            "text": "Haxdal, það er frekar lítið kælikrem sem var á þegar að ég setti viftuna á, og viftan er vel föst. Setti tölvuna saman sjálfur af mikilli gaumgæfni.",
+            "date": "2011-10-16 21:09:00",
+            "post_id": "388617",
+            "reply_to_id": "388614"
+        },
+        {
+            "user_name": "Daz",
+            "text": "99°C heitur örgjörvi gefur til kynna að það sé eitthvað að í setupinu hjá þér, líklega best að reyna að finna það út áður en þú ferð að kaupa nýja viftu. \nEinhver séns að það sé til bios update fyrir móðurborðið og þetta sé \"þekktur\" galli á því? \nEr vifta á kælingunni á örgjörvanum? \nSnýst hún?\nSnúa vifturnar í kassanum rétt? (ein að toga loft inn og eina að blása út, ekki báðar að blása inn?)\nedit:tók eftir þessu\nEr tölvan alveg upp við vegg? Gatið aftan á er venjulega útblásturs opið og ef það er lokað þá er ekki alveg óskiljanlegt að heita loftið safnist fyrir í kringum örgjörvann.",
+            "date": "2011-10-16 21:13:00",
+            "post_id": "388618",
+            "reply_to_id": "388617"
+        },
+        {
+            "user_name": "worghal",
+            "text": "stock viftan kemur með þunnu lagi af kælikremi, en ég mæli frekar með aftermarket cooler og alvöru kæli kremi",
+            "date": "2011-10-16 21:17:00",
+            "post_id": "388622",
+            "reply_to_id": "388618"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Það er ekki munurinn á 99°C heitum örgjörva og eðlilegu ástandi. Ef allt væri 100% eins, nema hann væri að nota 3rd party cooler og kælikrem, þá væri hann örugglega að fá svipaðar hitatölur (því það er eitthvað að, hvort sem það er í uppsetningunni á kælingunni eða í umhverfinu).",
+            "date": "2011-10-16 21:21:00",
+            "post_id": "388626",
+            "reply_to_id": "388622"
+        },
+        {
+            "user_name": "Haxdal",
+            "text": "Hversu lítið?..  Of lítið kælikrem gerir lítið gagn.\nViðmiðið hefur verið í kringum 1-2 \"hrísgrjón\" af kremi,  og hvernig krem notaðirðu?.  það skiptir máli líka.  kremið á stock kælingum er yfirleitt bara crap svo það er best að þrífa það bara vel af og setja nýtt alvöru krem.  IC Diamond, Arctic Silver eða MX2 eru góð.\nAnnars eru þetta tölur sem þú ættir ekki að vera að sjá nema kælingin væri hreinlega laus,  ég myndi athuga hvort það sé nokkuð known fault í móðurborðinu með sensorana og hvort það sé til bios uppfærsla til sem gæti lagað það einsog aðrir voru búnir að nefna.",
+            "date": "2011-10-16 21:22:00",
+            "post_id": "388629",
+            "reply_to_id": "388626"
+        },
+        {
+            "user_name": "AncientGod",
+            "text": "Prófa fleiri forrit, eithvað sem er nákvæmara.",
+            "date": "2011-10-16 21:28:00",
+            "post_id": "388635",
+            "reply_to_id": "388629"
+        },
+        {
+            "user_name": "worghal",
+            "text": "mjög líkelga svona mikið",
+            "date": "2011-10-16 21:29:00",
+            "post_id": "388637",
+            "reply_to_id": "388635"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Af hverju eru svo margir hérna inni sannfærðir um það að munurinn á stock/lélegu kælikremi og Úber dúber dashizznitt silver/diamond/gold eXtremeOC kælikremi séu 30-40 gráður á celsius \n \nLíkurnar á því að vandamálið hérna sé kælikrem myndi ég segj að væru 0.002%\nLíklegast væri að kassinn og örgjörvakælingin væri full af ryki, ef að það er í lagi myndi ég segja að kælingin væri ekki nógu vel fest eða situr ekki rétt á örgjörvanum, kanski er stilling í BIOS sem að setur ekki viftuna hjá þér á fullt þannig að hún er kanski alltaf bara að keyra á 60% hraða eða þá að þessar hitatölur eru ekki réttar (eru þær svona í BIOS eða ertu að lesa þessar tölur úr forriti, ertu að skoða þessar tölur með fleiri en 1 forriti, eru mörg forrit að gefa þessar tölur á örgjörvann)",
+            "date": "2011-10-16 21:34:00",
+            "post_id": "388642",
+            "reply_to_id": "388637"
+        },
+        {
+            "user_name": "Haxdal",
+            "text": "kannski ekki 30-40° en þegar ég fór í vorhreingerningu í vélinni minni og hreinsaði draslið og gerði það vel og skipti út kælikreminu fyrir rétt magn af MX2 þá lagaðist hitastigið hjá mér um 10-15°C, svo kælikremið og rétt magn af því hefur vissulega áhrif þó þetta sé örugglega ekki það eina sem er að í þessu tilviki en augljóst að benda á að skipta út stock draslinu fyrir eitthvað betra.",
+            "date": "2011-10-16 21:40:00",
+            "post_id": "388649",
+            "reply_to_id": "388642"
+        },
+        {
+            "user_name": "worghal",
+            "text": "ég gerði þetta með gömlu tölvuna mína og hún fór að idla í 26-30 gráður eftir að ég skipti um krem",
+            "date": "2011-10-16 21:44:00",
+            "post_id": "388653",
+            "reply_to_id": "388649"
+        },
+        {
+            "user_name": "Daz",
+            "text": "haxdal-worghal: Þið gerðu báðir meira en að skipta um krem, tiltekt/snúrur, rykhreinsun og að festa heatsinkið upp á nýtt hefur allt líka áhrif. Gott kælikrem vs vont kælikrem er ca 3-5°C ef allar aðrar aðstæður eru óbreyttar.",
+            "date": "2011-10-16 21:51:00",
+            "post_id": "388657",
+            "reply_to_id": "388653"
+        },
+        {
+            "user_name": "worghal",
+            "text": "ja, snúrurnar breyttust ekkert, var með kassa sem bauð upp á 0 cable management :p",
+            "date": "2011-10-16 21:53:00",
+            "post_id": "388658",
+            "reply_to_id": "388657"
+        },
+        {
+            "user_name": "Haxdal",
+            "text": "Já, ég reyndar tók út einn ide kapal og rykhreinsaði the shit úr vélinni minni.\nen fyrst við erum að tala um hitaleiðandi krem þá bara verð ég að deila þessum gullmola með ykkur sem ég fann á netinu",
+            "date": "2011-10-16 22:12:00",
+            "post_id": "388671",
+            "reply_to_id": "388658"
+        },
+        {
+            "user_name": "binno",
+            "text": "Ég er mjög líklega kominn með svar við vandamáli mínu, viftan var stífluð af ryki og ekki fest á einum stað alveg rétt. Kælikremið er samt alveg í lagi.",
+            "date": "2011-10-17 01:01:00",
+            "post_id": "388715",
+            "reply_to_id": "388671"
+        }
+    ],
+    "date": "2011-10-16 20:49:00"
+}

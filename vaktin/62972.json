@@ -1,0 +1,23 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "62972",
+    "title": "VPN",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=62972",
+    "posts": [
+        {
+            "user_name": "steinario",
+            "text": "Sælir heyrðu ég er hérna á heimavist og það er lokað á öll port og ekki hægt að spila neitt né downloada veit einhver lausn við að komast framhjá þessu blocki?",
+            "date": "2014-10-26 23:25:00",
+            "post_id": "578280",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "mikkidan97",
+            "text": "Búðu til openvpn access server einhvers staðar í heiminum og notaðu það. Ég geri það á heimavistinni í FVA\nÞað notar port 443 (https) sem er alltaf opið",
+            "date": "2014-10-26 23:29:00",
+            "post_id": "578281",
+            "reply_to_id": "578280"
+        }
+    ],
+    "date": "2014-10-26 23:25:00"
+}

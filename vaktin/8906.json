@@ -1,0 +1,51 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "8906",
+    "title": "Enn einn gaurinn með SATA vandamál...",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=8906",
+    "posts": [
+        {
+            "user_name": "phrenic",
+            "text": "Jájájá, alltaf gaman að þessum nýgræðingum sem vita ekkert \n (mér semsagt). En ok, málið er að ég keypti mér í dag eitt stykki 200 gb seagate SATA disk. Vandamálið er að sjálfsögðu að diskurinn bara finnst ekki.. BIOS sér hann ekki, disk management sér hann ekki heldur. Mig grunar að ég gæti hugsanlega hafa tengt hann vitlaust, þar sem ég hef aldrei prófað SATA disk áður, svo gott væri ef einhver gæti sagt mér hvernig maður á að tengja hann? og ef þetta gæti verið eitthvað annað væri gott ef einhver gæti upplýst mig um það \n. takk.\n\n\n\nKannski ágætt að þið vitið hvernig ég tengdi þetta: tengdi semsagt SATA tengið í móðurborðið og svo var við hliðina á því alveg eins tengi nema \"lengra\" og það fór í psu'ið.. svo var eitt í viðbót sem ég gerði ekkert við og veit ekkert til hvers er. Held það hafi verið með 4 eða 5 pinnum í.",
+            "date": "2005-10-31 18:54:00",
+            "post_id": "95393",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "zaiLex",
+            "text": "þarft bara að tengja í eitt power tengi, ég held að diskurinn fari ekki í gang ef tvö eru tengd. Tengin lengst til vinstri og hægri eru power tengin. Annars ef það virkar ekki þá þarftu að installa SATA driverum sem áttu að hafa fylgt móðurborðinu þínu þegar þú keyptir það, ef þú átt það ekki þá er örugglega hægt að finna þetta á síðu framleiðandans.",
+            "date": "2005-10-31 20:13:00",
+            "post_id": "95396",
+            "reply_to_id": "95393"
+        },
+        {
+            "user_name": "phrenic",
+            "text": "Sko... einu driverarnir sem ég fann voru RAID driverar.. og þegar ég reyndi að installa þeim kom \"incompatible hardware\". Samt á móðurborðið að styðja SATA og RAID og allt þetta... stóð meira að segja á síðunni að þessi driver væri fyrir mitt móðurborð. Ætti ég bara að reyna að skipta þessum disk fyrir IDE eða ?",
+            "date": "2005-10-31 21:10:00",
+            "post_id": "95402",
+            "reply_to_id": "95396"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Ég hef lent í þessu og ég þurfti að breyta stillingunum í BIOS. Á þeirri tölvu sem að ég lagaði gat ég valið um P-ATA (sem er IDE) eitt og sér, S-ATA eitt og sér og svo það sem að ég þurfti að stilla á (líka þú ef að þú ert bæði með IDE og S-ATA HDD) P-ATA+S-ATA (semsagt bæði virkt)\n\n\n\nAthugaðu þetta",
+            "date": "2005-10-31 21:45:00",
+            "post_id": "95403",
+            "reply_to_id": "95402"
+        },
+        {
+            "user_name": "phrenic",
+            "text": "nohh.. mikið svakalega ertu sniðugur \n þetta svínvirkaði, ég þakka fyrir. Alltaf gaman þegar það er eitthvað svona óendanlega einfalt sem orsakar að ekkert virkar",
+            "date": "2005-10-31 23:48:00",
+            "post_id": "95410",
+            "reply_to_id": "95403"
+        },
+        {
+            "user_name": "phrenic",
+            "text": "jæja... harði diskurinn virkar... en geisladrifin tvö sem ég er með virka ekki lengur, þeas tölvan finnur þau ekki. Ekki BIOS og ekki disk management... mér datt í hug hvort diskurinn gæti hafa tekið rás frá þeim eða e-ð ? væri allavega gott ef einhver hefur lent í þessu og getur sagt mér eitthvað til",
+            "date": "2005-11-03 18:26:00",
+            "post_id": "95585",
+            "reply_to_id": "95410"
+        }
+    ],
+    "date": "2005-10-31 18:54:00"
+}

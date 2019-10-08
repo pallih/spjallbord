@@ -1,0 +1,51 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "59256",
+    "title": "DVD-iso í PLEX???",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=59256",
+    "posts": [
+        {
+            "user_name": "topas",
+            "text": "Góðan daginn.\nÉg er að leita mér að lausn sem ég get notað til að spila DVD-fæla. \nÞá er ég að taka um DVD-rip með menu og öllum valmöguleikum eins og á orginal disknum. Ég er með apple tv og dlna spilara. \nÉg hef ekki áhuga á lausnum sem ekki stiðja menu eins og er á orginal DVD.",
+            "date": "2014-01-18 11:03:00",
+            "post_id": "547561",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ég er nokkuð viss um að Plex geti þetta ekki á neinum client. Búinn að prufa þetta í PlexWeb, Plex Windows 8 appinu, Roku og PlexHomeTheater, skilar engu. \nXBMC getur þetta hinsvegar, ásamt nokkrum high-end sjónvarpsflökkurum.",
+            "date": "2014-01-18 13:41:00",
+            "post_id": "547574",
+            "reply_to_id": "547561"
+        },
+        {
+            "user_name": "Gislinn",
+            "text": "Ég skoðaði þetta eitt sinn, þ.e. að fá Plex til að spila myndir af DVD diskum (sem var hægt) eða DVD-iso skrám (sem var ekki hægt) og fá þá menu og allt auka draslið með. Það er engin einföld leið að þessu (eða var allavega ekki þá, en ég hef ekki skoðað þetta nýlega).\nÞar sem Plex gat (allavega þá, veit ekki hvort það getur enn) spilað DVD diska sem voru í drifinu á servernum en ekki DVD ISO skrár þá datt mér í hug að mixa plug-in sem væri þannig að það myndi sýna coverinn á öllum DVD-ISO skránum en þegar þú myndir velja eitthvað cover þá myndi það mounta viðkomandi ISO skrá eins og það væri DVD diskur í virtual-drifi og lesa það svo úr DVD drive pakkanum í Plex. Ég gafst svo upp á þessu, tók 21. öldinni fagnandi og sleppti bara þessum DVD pælingum.",
+            "date": "2014-01-18 20:08:00",
+            "post_id": "547634",
+            "reply_to_id": "547574"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Flestir af þeim á AVS sem eru með tugi terabæta af hreinum .iso bluray rippum eru að notast við Popcorn, DuneHD og Oppo spilarana, eða það hefur mér sýnst amk. Hef ekki mikið skoðað þetta sjálfur, það er vissulega ákveðin stemming í því að fá upp disk menu með öllu tilheyrandi, en DVD gæði eru vægast sagt úreld, og til þess að halda þúsunda mynda safni í þokkalegum gæðum í ósnertum .iso skrám þyrfti maður fleiri tugi TB, bara fyrir það eitt. Ekki viable lausn finnst mér, en margir með sínar sérþarfir auðvitað.",
+            "date": "2014-01-18 20:15:00",
+            "post_id": "547635",
+            "reply_to_id": "547634"
+        },
+        {
+            "user_name": "Gislinn",
+            "text": "Sammála því að þetta er \"sóun\" á plássi, en það eru samt alltaf þessir örfáu diskar sem eru með mjög góðu aukaefni/menu sem manni langar að skoða og er þá einfaldast að eiga þessa örfáu diska á ISO þótt það taki aðeins meira pláss. Myndi ekki nenna að vera með allt safnið mitt í DVD-ISO.",
+            "date": "2014-01-18 21:01:00",
+            "post_id": "547643",
+            "reply_to_id": "547635"
+        },
+        {
+            "user_name": "topas",
+            "text": "Ég er ekki með neinar bíómyndir í þessu. \nÞetta eru nokkrir tugir tónleikadiska og ég vil getað hoppað yfir lög eða farið í menu og valið lag án þess að þurfa að hraðspóla og leita.",
+            "date": "2014-01-18 21:16:00",
+            "post_id": "547648",
+            "reply_to_id": "547643"
+        }
+    ],
+    "date": "2014-01-18 11:03:00"
+}

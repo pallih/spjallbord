@@ -1,0 +1,23 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "78418",
+    "title": "Leiðbeiningar: Tengja Xiaomi skynjara við Smartthings",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=78418",
+    "posts": [
+        {
+            "user_name": "Sallarólegur",
+            "text": "Fékk áfall þegar ég skoðaði hvað Smartthings takkar og skynjarar fyrir Evrópumarkað kosta. Leiðinlegt þar sem 5-takka hnappurinn frá IKEA virkar ekki með Smartthings.\nSamsung Smartthings Button (\nhttps://www.ebay.co.uk/itm/192797780328\n)  \t\n£44.99 + £29.50 + £22.95\n= 15.389 kr.\nFyrir einn takka. Það er hægt að finna þá ódýrari, og sambærilega takka, en þeir eru aldrei komnir heim fyrir minna en 5-10K stykkið.\nRakst svo á umræðu um Xiaomi græjurnar sem eru á svipuðum verðum og IKEA snjallgræjurnar svo ég pantaði takka og hreyfiskynjara frá þeim.\nAqara Smart Wireless Switch US $18.29 \nAqara Human Body Sensor US $16.39\nTil þess að geta sett upp græjur sem Samsung hefur ekki gefið út sín megin, þarf að setja upp stillingar fyrir viðkomandi græjur inn sjálfur á: \nhttps://account.smartthings.com\nKóði: \nVelja allt\nMy Device Handlers > Create New Device Handler > From Code > Copy&Paste af Github > Create > Publish > For Me\nListi yfir Xiaomi græjur sem virka: \nhttps://github.com/bspranger/Xiaomi\nMöppurnar þar sem device handlerarnir eru geymdir: \nhttps://github.com/bspranger/Xiaomi/tre ... /bspranger\nUmræður og original Smartthings pósturinn: \nhttps://community.smartthings.com/t/ori ... c/113253/1\nDæmi um Device Handler sem maður copy-pastear yfir á síðuna (best að ýta á RAW á Github til að fá bara texta til að afrita):\nhttps://github.com/bspranger/Xiaomi/blo ... sor.groovy\nRAW:\nhttps://raw.githubusercontent.com/bspra ... sor.groovy\nTil þess að tengja græjuna við Smartthings hubbinn þarf að fara í Smartthings Classic appið og fara í Add New Thing.\nBest er að vera með skynjarann alveg uppvið höbbinn, nokkra sentimetra.\nSvo heldur maður inni reset takkanum á Xiaomi græjunni í 3 sekúndur til að fara í pairing mode. Það þarf að gera þetta nokkuð oft til að fá skynjarann til að birtast í appinu. Svo bara save.\nAppið á að fatta að þú ætlar að nota þennan nýja Device Handler sem við bjuggum til áðan.\nEf appið fattar ekki að nota Device Handlerinn og sýnir ekki nafnið á græjunni og hvað hún gerir þá bætirðu skynjaranum samt við sem \"Thing\"(ótengdur) og ferð á: \nhttps://account.smartthings.com/\nKóði: \nVelja allt\nMy Devices > Smellti á nafnið á græjunni > Edit > Type: > Velja device handlerinn sem við bjuggum til áðan (Xiaomi ...) > Save\nKomið.\nVandamálið með að þetta er ekki official Smartthings búnaður er að það tekur langan tíma að tengja í fyrsta skiptið. Einnig er þetta bara í boði á Cloud, en ekki Local, svo græjurnar virkar ekki ef netsambandið er úti. Sama gildir reyndar um Amazon Alexa.\nXiaomi græjurnar eru ódýrar en ekki gallalausar. Þær virka víst illa ef þær eru ekki nálægt höbbinum, og fara að vera slitróttar ef þær eru tengdar í gegnum Zigbee route.\nEn þetta eru frábærar græjur til að koma sér af stað í þessum pælingum.",
+            "date": "2019-01-29 22:56:00",
+            "post_id": "684369",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "elri99",
+            "text": "Flottar upplýsingar. Er búin að fá mér slatta af IKEA Tradfri og er að spá í framhaldið. Haltu áfram að lofa okkur að fylgjast með.",
+            "date": "2019-01-30 15:47:00",
+            "post_id": "684395",
+            "reply_to_id": "684369"
+        }
+    ],
+    "date": "2019-01-29 22:56:00"
+}

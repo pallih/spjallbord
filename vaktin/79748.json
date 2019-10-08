@@ -1,0 +1,93 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "79748",
+    "title": "Vandræði með 4K skjá (3840x2160)",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=79748",
+    "posts": [
+        {
+            "user_name": "Dúlli",
+            "text": "Sælir, var núna að uppfæra í 4K skjái eða hvað sem þetta kallast í dag.\nEr í vandræðum núna með það að upplausninn er orðin svo há að margar vefsíður höndla það ekki og ég þarf að scala upp en þá verður allt blurred.\nOg líður eins og músinn hoppi / fari mikið hraðar en hún gerði með 1080p skjá.\nÞannig að, hvaða lausnir ? ráð eru í boði ?",
+            "date": "2019-07-23 16:48:00",
+            "post_id": "691554",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "upg8",
+            "text": "Flestar sæmilegar vefsíður höndla display scaling í dag, prófaðu að nota Edge bara til að skoða hvort þetta er browser tengt vandamál hjá þér.",
+            "date": "2019-07-23 20:04:00",
+            "post_id": "691562",
+            "reply_to_id": "691554"
+        },
+        {
+            "user_name": "Dúlli",
+            "text": "Búin að athuga það og sum forrit verða rosalega litill eins og photoshop, vlc.",
+            "date": "2019-07-23 20:21:00",
+            "post_id": "691564",
+            "reply_to_id": "691562"
+        },
+        {
+            "user_name": "Stuffz",
+            "text": "sjálfur bara með 1080p FHD, virðist virka fínt ennþá.",
+            "date": "2019-07-23 20:54:00",
+            "post_id": "691568",
+            "reply_to_id": "691564"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Fáðu þér Mac",
+            "date": "2019-07-23 21:44:00",
+            "post_id": "691569",
+            "reply_to_id": "691568"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Ef músin laggar þá gæti verið að skjárinn sé bara á 30Hz.  Hvernig ertu með hann tengdan við tölvuna?",
+            "date": "2019-07-23 22:50:00",
+            "post_id": "691575",
+            "reply_to_id": "691569"
+        },
+        {
+            "user_name": "upg8",
+            "text": "https://www.howtogeek.com/175664/HOW-TO-MAKE-THE-WINDOWS-DESKTOP-WORK-WELL-ON-HIGH-DPI-DISPLAYS-AND-FIX-BLURRY-FONTS/",
+            "date": "2019-07-23 22:54:00",
+            "post_id": "691576",
+            "reply_to_id": "691575"
+        },
+        {
+            "user_name": "Dúlli",
+            "text": "Hann er tengdur með HDMI, Sé að hann runnar á 30Hz, hvernig er hægt að hækka það ? Er skráður hjá Asus sem 60Hz\nhttps://www.asus.com/Monitors/PB287Q/\nNáði að fá scaling í lag, þurfti bara að hækka í windows úr 150% í 200%, photoshop CS6 er samt í rugli en það er allt í lagi meðan rest virkar vel.\nværi samt skemtilegt að fá skjáinn í 60Hz.",
+            "date": "2019-07-23 23:38:00",
+            "post_id": "691577",
+            "reply_to_id": "691576"
+        },
+        {
+            "user_name": "nidur",
+            "text": "Er sjálfur með 175% scaling hjá mér, finnst það virka fínt. Er með tvo 4k 60hz skjái í sambandi við GTX1060 og er að fá undarlegt lagg stundum, held að það sé ekki alveg að meika 2x en 1x er fínt.\nSvekktastur með að geta ekki notað dark theme á vaktinni með 4k \n Ekki lent í vandræðum á öðrum heimasíðum.\nAllur texti sem ég er að vinna með er svo mikið skýrari á þessu miðað við fullhd, erfitt að hugsa sér að vera ekki í 4k.\nAdobe forritin opnast hjá mér í réttri upplausn, ef ég RDC inn í fullhd þá þarf ég að opna/loka þeim til að fá þau aftur rétt inn.",
+            "date": "2019-07-23 23:40:00",
+            "post_id": "691578",
+            "reply_to_id": "691577"
+        },
+        {
+            "user_name": "nidur",
+            "text": "Þarft að vera í display port til að fá 60hz inn, kemur fram í specification.",
+            "date": "2019-07-23 23:42:00",
+            "post_id": "691579",
+            "reply_to_id": "691578"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Getur líka notað HDMI ef bæði tæki eru með HDMI 2.0.",
+            "date": "2019-07-24 08:34:00",
+            "post_id": "691589",
+            "reply_to_id": "691579"
+        },
+        {
+            "user_name": "Hauxon",
+            "text": "Photoshop CS6 er frá 2012.  Nútíma Photoshop og Lightroom virka vel með scaling.",
+            "date": "2019-07-24 08:52:00",
+            "post_id": "691590",
+            "reply_to_id": "691589"
+        }
+    ],
+    "date": "2019-07-23 16:48:00"
+}

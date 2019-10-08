@@ -1,0 +1,51 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "6969",
+    "title": "Vandamál með gamlan AMD 3000 xp",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=6969",
+    "posts": [
+        {
+            "user_name": "Festina",
+            "text": "Hann var upprunalega í 2.2 ghz og gekk þannig síðan ég fékk hann fyrir nánast ári síðan, svo allt í einu fyrir stuttu var hann kominn niður í 2.0 ghz, gerði ég engar athugasemdir en núna hefur tölvan verið mjög hægvirk og sljó og tók ég þá eftir að hann vinnur einungis á 1 ghz núna, hvernig í anskotanum getur þetta gerst?\n\n\n\nEr einhver leið til að laga þetta ? :S",
+            "date": "2005-01-06 19:01:00",
+            "post_id": "73692",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "Til þess að breyta þessu aftur þarftu að stilla það í BIOS.",
+            "date": "2005-01-06 19:18:00",
+            "post_id": "73694",
+            "reply_to_id": "73692"
+        },
+        {
+            "user_name": "Festina",
+            "text": "ahh crap \n það er líklegast algjört bitch \n seinast þegar ég þurfti að fikta eitthvað í bios þá hrundi tölvan í hönk og hún þurfti í suddalega viðgerð sem kostaði mig 8 þús kall eða meira",
+            "date": "2005-01-06 19:23:00",
+            "post_id": "73695",
+            "reply_to_id": "73694"
+        },
+        {
+            "user_name": "Guffi",
+            "text": "pift þart bara að fikra þig áfram í bios hlýtur að finna þetta \n .Annars hef ég ekki hugmynd hvað ætti að gera annað",
+            "date": "2005-01-07 01:24:00",
+            "post_id": "73747",
+            "reply_to_id": "73695"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "finndu út hvernig þú gerir \"clear CMOS\" á móðurborðinu þínu, ættir að finna það í bæklingnum eða á heimasíðunni. þá geturu fiktað nánast ótakmarkað í biosnum. ef tölvan startar sér ekki, þá geriru svo bara \"clear CMOS\".",
+            "date": "2005-01-07 07:24:00",
+            "post_id": "73767",
+            "reply_to_id": "73747"
+        },
+        {
+            "user_name": "Pepsi",
+            "text": "prófaðu að loada optimized defaults í bios!!!",
+            "date": "2005-01-08 02:30:00",
+            "post_id": "73927",
+            "reply_to_id": "73767"
+        }
+    ],
+    "date": "2005-01-06 19:01:00"
+}

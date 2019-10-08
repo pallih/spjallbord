@@ -1,0 +1,23 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "21595",
+    "title": "PhysX kort?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=21595",
+    "posts": [
+        {
+            "user_name": "Allinn",
+            "text": "Vitiði hvar er hægt að fá svona eða þarf ég að kaupa þetta á Ebay?",
+            "date": "2009-02-12 10:27:00",
+            "post_id": "197621",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "x le fr",
+            "text": "PhysX kortin eru ekki notuð lengur - þau eru basically úrelt. Viltu specifically fá svoleiðis kort? Eða viltu bara fá accelerated PhysX? Þú getur notað öll NVIDIA 8000- 9000- og G200 kort til að fá accelerated PhysX. Þeir fluttu PhysX yfir á CUDA, sem er svona general purpose processing dót fyrir skjákort.",
+            "date": "2009-02-13 12:08:00",
+            "post_id": "197766",
+            "reply_to_id": "197621"
+        }
+    ],
+    "date": "2009-02-12 10:27:00"
+}

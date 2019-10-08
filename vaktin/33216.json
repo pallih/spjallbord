@@ -1,0 +1,30 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "33216",
+    "title": "vanntar hjálp með forritunar verkefni ef eitthver hefur tíma",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=33216",
+    "posts": [
+        {
+            "user_name": "Jon1",
+            "text": "jæja núna er ég búin að koma mér í smá vandræði. Er að reyna að gera forritunar verkefni fyri tölvunarfræði 1 (java) í hí og ég veit ekkert og skil ekkert var að pæla hvort eitthver væri að hanga á vaktinni og leiðast sem gæti hjálpað mér. Ég vil ekki bara fá kóðan og skila þannig mig langar að skilja þetta og vita hvað ég er að gera. Ef eitthver hefur tíma og nennir að hjálpa mér þá er verkefnið svona :\n3\nAssignment\nWrite a program that fills an array of double of size 1000 with random numbers, then\nsorts the array and then searches 1000 times for a random number in the array. It\nshould find the number in the array that is closest to the number searched for, either a\nlower number or a higher number. Finally the program should write the average of the\npositive difference between the number searched for and the number found.\nThe random numbers should be uniformly distributed on the open interval [0, 1[.\nTo produce such a random number, the following Java code can be used:\n/ / P r o d u c e a random number i n [ 0 , 1 [ l i k e t h i s :\nx = Math . random ( ) ;",
+            "date": "2010-10-17 18:06:00",
+            "post_id": "289149",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Frikkasoft",
+            "text": "Mér sýnist það vera ágætlega útskýrt hvað þú þarft að gera, hvað er það sem þú skilur ekki?",
+            "date": "2010-10-17 18:41:00",
+            "post_id": "289157",
+            "reply_to_id": "289149"
+        },
+        {
+            "user_name": "Jon1",
+            "text": "já þetta er vel útskýrt ég bara kann ekki neitt í þessu, en mér tókst að klára þetta",
+            "date": "2010-10-17 20:24:00",
+            "post_id": "289198",
+            "reply_to_id": "289157"
+        }
+    ],
+    "date": "2010-10-17 18:06:00"
+}

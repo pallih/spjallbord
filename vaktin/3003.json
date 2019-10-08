@@ -1,0 +1,184 @@
+{
+    "forum_title": "Vaktin.is",
+    "id": "3003",
+    "title": "CPU, HDD... Takkarnir",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=46&t=3003",
+    "posts": [
+        {
+            "user_name": "Damien",
+            "text": "Bara pæling í sambandi við Myndir/Takka efst vinstra megin.\n\nÞeir sem hafa ýtt á þessa takka hafa eflaust áttað sig á því að ef maður klikkar efst á myndina þá gerist ekkert.\n\n\n\nÆ, það er erfitt að útskýra þetta, sjáið bara myndina, ég litaði rautt það svæði sem takkarnir virka á...\n\n\n\nSpurning um að laga þetta ef adminar eru með jafn mikla fullkomnunar áráttu og ég",
+            "date": "2004-02-01 02:26:00",
+            "post_id": "30389",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "kemiztry",
+            "text": "Þú hefur of mikin spare tíma",
+            "date": "2004-02-01 04:23:00",
+            "post_id": "30396",
+            "reply_to_id": "30389"
+        },
+        {
+            "user_name": "ICM",
+            "text": "bahaha ég hef ekki einusinni smellt fyrir ofan virka svæðið þó ég noti þessa takka mikið enda smella flestir nær nöfnunum á þeim.",
+            "date": "2004-02-01 04:56:00",
+            "post_id": "30397",
+            "reply_to_id": "30396"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "amms, ég hef alltaf smellt á nöfnin",
+            "date": "2004-02-01 11:15:00",
+            "post_id": "30401",
+            "reply_to_id": "30397"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "Ég hef rekið mig á þetta sem Damien er að benda á.",
+            "date": "2004-02-01 11:47:00",
+            "post_id": "30405",
+            "reply_to_id": "30401"
+        },
+        {
+            "user_name": "Zaphod",
+            "text": "me2",
+            "date": "2004-02-01 12:01:00",
+            "post_id": "30407",
+            "reply_to_id": "30405"
+        },
+        {
+            "user_name": "kiddi",
+            "text": "HNEYKSLI! Hehehe... þið eruð nú meiri vitleysingarnir \n Mig minnir nú að ég hafi haft ástæðu fyrir því að gera þetta svona... þó ég muni kannski ekki eftir henni akkurat núna.",
+            "date": "2004-02-01 14:35:00",
+            "post_id": "30410",
+            "reply_to_id": "30407"
+        },
+        {
+            "user_name": "Castrate",
+            "text": "ég var einmitt að spá í þessu sama um daginn var alltaf að ýta efst á myndirnar en það er nú ekki erfitt að færa bendilinn ögn neðar.",
+            "date": "2004-02-01 15:01:00",
+            "post_id": "30412",
+            "reply_to_id": "30410"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "Það var clickable auglýsing þarna þegar jóladagatalið var.",
+            "date": "2004-02-01 15:25:00",
+            "post_id": "30416",
+            "reply_to_id": "30412"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "ég hef lent í þessu. þið getið náttla notað masking fyrir þetta ef þið eruð í einhverjum vanda.",
+            "date": "2004-02-01 16:11:00",
+            "post_id": "30421",
+            "reply_to_id": "30416"
+        },
+        {
+            "user_name": "kiddi",
+            "text": "Þetta var viljandi gert sko, ekkert \"vandamál\".. \n Ég hafði ætlað mér að hafa þetta animated takka, þ.e. að bakgrunnurinn myndi lýsast upp eða skipta um lit þegar músin færi yfir... en ég hætti svo við það á síðustu stundu til þess að spara bandvídd okkar kæru heimsóknargesta, þess vegna er þetta svona í laginu =)",
+            "date": "2004-02-01 16:58:00",
+            "post_id": "30432",
+            "reply_to_id": "30421"
+        },
+        {
+            "user_name": "Drizzt",
+            "text": "you bastard..",
+            "date": "2004-02-01 16:59:00",
+            "post_id": "30433",
+            "reply_to_id": "30432"
+        },
+        {
+            "user_name": "Lakio",
+            "text": "Nákvæm mynd af \"smellsvæðum\" \n\n\n\n\n| \n \n \n \n \n |\n\n\n\nÞað er hægt að laga þetta með html code-a.\n\nKóði: \nVelja allt\nInní body:\n<map name=\"map1\">\n  <area shape=\"rect\" coords=\"0,0,185,46\" href=\"http://www.vaktin.is/\">\n  <area shape=\"rect\" coords=\"0,55,65,73\" href=\"http://www.vaktin.is/\">\n  <area shape=\"rect\" coords=\"65,55,130,73\" href=\"http://www.vaktin.is/list_hdd.shtml\">\n  <area shape=\"rect\" coords=\"130,55,195,73\" href=\"http://www.vaktin.is/list_ram.shtml\">\n  <area shape=\"rect\" coords=\"195,55,260,73\" href=\"http://www.vaktin.is/list_vga.shtml\">\n  <area shape=\"rect\" coords=\"260,55,322,73\" href=\"http://spjall.vaktin.is/\">\n</map>\nog bæta þessu við inní \"<img>\": usemap=\"#map1\"\n <img src=\"header_logo.jpg\" width=\"323\" height=\"73\" border=\"0\" usemap=\"#map1\">",
+            "date": "2004-02-02 10:57:00",
+            "post_id": "30517",
+            "reply_to_id": "30433"
+        },
+        {
+            "user_name": "kiddi",
+            "text": "Jahérna...",
+            "date": "2004-02-02 12:55:00",
+            "post_id": "30523",
+            "reply_to_id": "30517"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "segi það með þér",
+            "date": "2004-02-02 13:01:00",
+            "post_id": "30524",
+            "reply_to_id": "30523"
+        },
+        {
+            "user_name": "Lakio",
+            "text": "Hvað?",
+            "date": "2004-02-02 13:02:00",
+            "post_id": "30525",
+            "reply_to_id": "30524"
+        },
+        {
+            "user_name": "viddi",
+            "text": "Það er alveg merkilegt hvað sumir hugsa alltof mikið útí smáatriði",
+            "date": "2004-02-02 13:05:00",
+            "post_id": "30526",
+            "reply_to_id": "30525"
+        },
+        {
+            "user_name": "Cras Override",
+            "text": "smá atriðin eru það sem að skiptir máli.",
+            "date": "2004-02-02 18:31:00",
+            "post_id": "30569",
+            "reply_to_id": "30526"
+        },
+        {
+            "user_name": "xtr",
+            "text": "Þetta er til rosalega vandræða .. hef oft lent í þessu og hefur það farið ílla með mig sem manneskju",
+            "date": "2004-02-02 19:15:00",
+            "post_id": "30576",
+            "reply_to_id": "30569"
+        },
+        {
+            "user_name": "Drizzt",
+            "text": "lífið verður aldrei samt..",
+            "date": "2004-02-02 20:55:00",
+            "post_id": "30579",
+            "reply_to_id": "30576"
+        },
+        {
+            "user_name": "Zaphod",
+            "text": "Sálfræðingurinn minn segir að þetta sé minn vandi og ég eigi ekki að kenna vaktin.is um þetta .........",
+            "date": "2004-02-02 22:21:00",
+            "post_id": "30587",
+            "reply_to_id": "30579"
+        },
+        {
+            "user_name": "Drizzt",
+            "text": "sálfræðingurinn hefur rangt fyrir sér! eek!",
+            "date": "2004-02-02 23:53:00",
+            "post_id": "30612",
+            "reply_to_id": "30587"
+        },
+        {
+            "user_name": "Rikkinn",
+            "text": "Bara svona til að vera ekki að starta nýjum pósti, en hvernig væri það að láta nafn vörunnar linka á þá vöru á heimasíðu framleiðanda?",
+            "date": "2004-02-03 13:15:00",
+            "post_id": "30654",
+            "reply_to_id": "30612"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "2 much trouble.......\n\nnýtt kerfi er í vinnslu",
+            "date": "2004-02-03 13:54:00",
+            "post_id": "30661",
+            "reply_to_id": "30654"
+        },
+        {
+            "user_name": "so",
+            "text": "Ég ætla að fara að sofa",
+            "date": "2004-02-19 23:11:00",
+            "post_id": "32655",
+            "reply_to_id": "30661"
+        }
+    ],
+    "date": "2004-02-01 02:26:00"
+}

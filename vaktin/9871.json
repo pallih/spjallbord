@@ -1,0 +1,37 @@
+{
+    "forum_title": "Windows",
+    "id": "9871",
+    "title": "Funcky error",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=9871",
+    "posts": [
+        {
+            "user_name": "zedro",
+            "text": "Jæja svo virðiðst sem að ég sé að fá error útaf einhverjum Manual Configuration (sjá mynd) Veit einhver hvað þetta er?  \n Kemur upp í hvert sinn sem kveikt er á tölvunni.\n\nBuið að vera svona hjá mér í nokkrar vikur tölvan virkar samt fínt.",
+            "date": "2006-01-30 08:44:00",
+            "post_id": "106905",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Prófaður að gera Start->Run og skrifa \"msconfig\" og sjáðu hvort þú finnir þetta \"Manual Configuration\" þar á td. Startup flipanum.",
+            "date": "2006-01-30 10:16:00",
+            "post_id": "106915",
+            "reply_to_id": "106905"
+        },
+        {
+            "user_name": "Demon",
+            "text": "er þetta ekki mynd af eitthverju joystick þarna?\n\nEr þetta ekki bara manual config proggie sem fylgir driverunum eða eitthvað?",
+            "date": "2006-02-06 00:04:00",
+            "post_id": "107925",
+            "reply_to_id": "106915"
+        },
+        {
+            "user_name": "zedro",
+            "text": "Veistu það gæti bara vel verið að þetta sé joystickinn minn.\n\nKíki áetta um leið og mar kemur heim, thx.",
+            "date": "2006-02-06 13:18:00",
+            "post_id": "107972",
+            "reply_to_id": "107925"
+        }
+    ],
+    "date": "2006-01-30 08:44:00"
+}

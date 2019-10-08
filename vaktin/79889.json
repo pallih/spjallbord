@@ -1,0 +1,65 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "79889",
+    "title": "UNIFI: Að hafa AP sendi ekki á sama neti en samt í cloudkey",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=79889",
+    "posts": [
+        {
+            "user_name": "norex94",
+            "text": "Sælir\nÉg setti upp Unifi net heima hjá mér og er geggjað sáttur með það. \nÉg er með 3 AP, Secure gateway og cloud key rev2. \nÉg er með þrjá aðra AP senda sem ég ætla að setja upp í öðru húsi sem er með aðra net tenginu, en vil samt á sama tíma geta haft þá inn í cloud key. \n-Hvernig ber ég mig að, þarf ég að breyta Inform URL? \nÞannig ég myndi setja þetta svona upp? \nhttps://mín_ip_addressa_á_VAN:8443/\n og skelli því inn þegar ég er að ætleiða APinn\n-Og þarf ég að opna portið á gateway eða er það default opið.  \n \n-Þriðja spurning, þetta er föst ip tala á VAN hjá mér, en það væri hentugara að hafa URL. Ég á URL sem ég nota fyrir heimasíðunna mína og vísar á sem dæmi \nhttp://www.xxx.com:81\n, heimasíðan er á port 81.\nGæti ég sett hana inn svona? \nhttps://www.xxx.com:8443/\n \neða myndi það enda svona og allt færi í rugl: \nhttps://www.xxx.com:81:8443/\n \nKveðja",
+            "date": "2019-08-07 21:09:00",
+            "post_id": "692231",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Cascade",
+            "text": "Sorry að ég svari ekki spurningunni\nEn mér líst ekkert of vel á þetta, myndi sem minnst vera opna port, sérstaklega port sem tengjast netbúnaðinum þínum\nMyndi bara kaupa annan cloudkey lang besta lausnin \nEða leysa þetta með vpn",
+            "date": "2019-08-07 21:46:00",
+            "post_id": "692232",
+            "reply_to_id": "692231"
+        },
+        {
+            "user_name": "asgeirbjarnason",
+            "text": "Ég þurfti einmitt að setja upp layer3 discovery fyrir Unifi um daginn í vinnunni. Ég er sammála Cascade að það er ekkert sérstaklega góð hugmynd að associatea þessa senda yfir internetið en ég er svo sem ekki mamma þín svo ég ætla ekkert að skipa þér fyrir.\nOfficial leiðbeiningarnar um þetta frá Ubiquiti eru hérna \nhttps://help.ubnt.com/hc/en-us/articles ... ontrollers\n. Þú getur sem sagt notað nokkrar aðferðir til að láta þráðlausu punktana vita hvernig á að ná sambandi við cloudkeyinn; handvirkt yfir ssh, með discovery utility forritinu, með því að bæta við attribute í DHCP eða með því að bæta við DNS nafni. Fyrir örfá þráðlausa punkta á heimaneti er líklega bara best að gera þetta handvirkt með discovery forritinu.\nÁ hinum endanum þarftu að gera port forwarding á routernum og já port 8443 er default opið á cloudkeyinu (því annars gætirðu ekki einu sinni associateað þráðlausa punkta við cloudkeyinn á local netinu). Átt að geta notað \nhttps://www.xxx.com:8443/\n sem inform URL ef þú ert að benda \nwww.xxx.com\n á public IP töluna þína.\nMæli síðan sterklega með því njörva það niður hvaða public IP tölur mega tala við port-forwardaða 8443 hjá þér. Hleyptu bara IP tölunni í hinu húsinu í gegn.\nEins og Cascade segir væri VPN hinsvegar miklu betri hugmynd, frekar en að senda þessa traffík yfir internetið.",
+            "date": "2019-08-07 22:10:00",
+            "post_id": "692234",
+            "reply_to_id": "692232"
+        },
+        {
+            "user_name": "norex94",
+            "text": "Takk fyrir svörin, og þetta eru mjög góðir punktar með að opna port, ég hef verið dálitið kærulaus með þetta. \nÉg ætla að skoða betur hvað ég get gert, það er pínu erfitt að setja upp VPN þarna.\nÉg gæti líka látið þá bara vera standalone, þe ekki tengda við neitt cloud key ekki satt? Og haft þetta bara sem access púnkta.",
+            "date": "2019-08-08 08:15:00",
+            "post_id": "692250",
+            "reply_to_id": "692234"
+        },
+        {
+            "user_name": "Benzmann",
+            "text": "afhverju seturu ekki bara upp IPsec Tunnel á milli routerana. ?",
+            "date": "2019-08-08 08:33:00",
+            "post_id": "692251",
+            "reply_to_id": "692250"
+        },
+        {
+            "user_name": "norex94",
+            "text": "Þarf ég ekki tvo USG þá? \nÉg sagði ekki alla söguna en þetta er semsagt tvær aðrar tengingar sem eru með router frá símanum. Ég tými ekki að setja upp cloudkey eða USG á hvern stað. Kanski í framtíðinni",
+            "date": "2019-08-09 08:46:00",
+            "post_id": "692306",
+            "reply_to_id": "692251"
+        },
+        {
+            "user_name": "kornelius",
+            "text": "Kannski þetta hjálpi eitthvað?\nhttps://help.ubnt.com/hc/en-us/articles ... iple-Sites",
+            "date": "2019-08-09 14:32:00",
+            "post_id": "692331",
+            "reply_to_id": "692306"
+        },
+        {
+            "user_name": "Benzmann",
+            "text": "í rauninni ekki, þarft bara 2 routera sem styða IPsec.",
+            "date": "2019-08-09 14:37:00",
+            "post_id": "692332",
+            "reply_to_id": "692331"
+        }
+    ],
+    "date": "2019-08-07 21:09:00"
+}

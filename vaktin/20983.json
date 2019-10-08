@@ -1,0 +1,37 @@
+{
+    "forum_title": "Símar, fartölvur, myndavélar og önnur farandstæki",
+    "id": "20983",
+    "title": "Fartölvan komin í rugl",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=26&t=20983",
+    "posts": [
+        {
+            "user_name": "Daði29",
+            "text": "Daginn/kvöldið. Búinn að eiga þessa Acer 5920G fartölvu í rúmt ár án þess að hún hafi bilað nokkuð en það hins gerðist í gær. Ég installaði einhverju 'Internet download manager' sem ég náði í erlendis frá, þegar ég var búinn að setja það inná hana þá tók ég eftir því að í commentum  við þennan fæl að hann væri sýktur með einhverjum vírus, minnir það hafi verið  einhver win32worm, og ég fer í það að uninstalla þessu drasli og þegar það var komið var ég  beðinn um að restarta tölvunni til þessa að klára ferlið, ég ýti á 'ok' og hún restartast. Þegar  ég svo skrái inn lykil orðið við usernameð í byrjun þá er það eins sem kemur er algjörlega hvítur skjár \n (ekkert toolbar, sidebar eða icons á skjáborði) og  svo kemur alltaf upp einn gluggi líka en hann er alltaf 'My Documents'.\nÍ gegnum þennan my documents glugga náði ég að tengjast netinu og update driverinn og líka að vírusskanna með Avast sem fann tvo vírusa sem ég eyddi, en þetta er ennþá eins \n og ég veit ekkert hvað ég á að gera hvort ég þurfi bara að fara með hana í viðgerð en hún er ennþá í ábyrgð, eða hvort ég geti einhvernegin leyst þetta hérna? Ég er búinn að vera reyna google  þetta en hef ekki fundið nógu gott svar.\n- Einhver sem veit hvað mætti prófa?",
+            "date": "2009-01-11 13:16:00",
+            "post_id": "193436",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Daði29",
+            "text": "infected with w32.Spybot.Worm",
+            "date": "2009-01-11 13:36:00",
+            "post_id": "193442",
+            "reply_to_id": "193436"
+        },
+        {
+            "user_name": "Cikster",
+            "text": "Ábyrgð á tölvum nær ekki yfir vírusa/orma. Væri sennilega lang best fyrir þig að finna góða vírusvörn og spyware vörn, setja þær inn og uppfæra þær. Restarta tölvunni síðan í safe mode og láta þær scanna tölvuna.",
+            "date": "2009-01-11 13:41:00",
+            "post_id": "193444",
+            "reply_to_id": "193442"
+        },
+        {
+            "user_name": "Daði29",
+            "text": "Kannski maður prófi þessa: \nhttp://www.srnmicro.com/virusinfo/sdbot.htm\n ? \"Solo antivirus can detect and remove Spybot aka Sdbot worm safely.\"\n...þar sem Avast! fann þetta ekki.\nEDIT: damn it, þessi solo antivirus finnur ekki neitt heldur \n kannski bara bilað skjákort eða örgjörfi eða eitthvað.\n- einhver sem getur bent mér á góða spyware vörn?",
+            "date": "2009-01-11 13:56:00",
+            "post_id": "193449",
+            "reply_to_id": "193444"
+        }
+    ],
+    "date": "2009-01-11 13:16:00"
+}

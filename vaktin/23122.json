@@ -1,0 +1,100 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "23122",
+    "title": "er þetta ekki djók?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=23122",
+    "posts": [
+        {
+            "user_name": "hendrixx",
+            "text": "er virkilega ekki hægt að flytja stóra fæla(3 eða 4gb og yfir) einsog td HD og Bluray myndir á milli flakkara með usb2?\nég fæ alltaf upp error message sem segir mér að það sé ekki nóg pláss fyrir fælinn á hinum flakkaranum þrátt fyrir að það sé feikinóg og gott betur en það.\nfleiri lent í þessu?",
+            "date": "2009-05-12 22:48:00",
+            "post_id": "206773",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Andriante",
+            "text": "ég hef lent í þessu nýlega veit samt ekki hvað var vandamálið..\nVar þá að færa yfir 4gb iso file en var með 15gb laus",
+            "date": "2009-05-12 22:50:00",
+            "post_id": "206775",
+            "reply_to_id": "206773"
+        },
+        {
+            "user_name": "Vectro",
+            "text": "Fat32 vs NTFS\nBreytið partition í ntfs, og þessi vandamál hverfa.",
+            "date": "2009-05-12 22:53:00",
+            "post_id": "206776",
+            "reply_to_id": "206775"
+        },
+        {
+            "user_name": "hendrixx",
+            "text": "já var að rekast á þetta:\ner hægt að breyta partitioninu í ntfs án þess að þurfa taka fælana af disknum og formatta?\nþetta er nebbla stútfullur 320gb diskur og ég hef ekki nóg pláss í tölvunni til að geyma gögnin á meðan",
+            "date": "2009-05-12 22:56:00",
+            "post_id": "206777",
+            "reply_to_id": "206776"
+        },
+        {
+            "user_name": "Vectro",
+            "text": "Jamm, átt að geta gert það án þess að tapa gögnum, en ekki hina leiðina.",
+            "date": "2009-05-12 22:59:00",
+            "post_id": "206779",
+            "reply_to_id": "206777"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Já, átt að geta gert þetta í Disk Managament minnir mig, getur allavega pottþétt notað partition magic til þessa.",
+            "date": "2009-05-12 22:59:00",
+            "post_id": "206780",
+            "reply_to_id": "206779"
+        },
+        {
+            "user_name": "hendrixx",
+            "text": "dummy walkthrough?",
+            "date": "2009-05-12 23:15:00",
+            "post_id": "206783",
+            "reply_to_id": "206780"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Farðu bara í Command Prompt framkvæmdu þessa skipun:\n  C:\\> CONVERT  C:  /fs:ntfs\nC: stendur að sjálfsögðu fyrir það drif sem þú ætlar að converta, passaðu að hafa rétt drive letter.",
+            "date": "2009-05-12 23:18:00",
+            "post_id": "206785",
+            "reply_to_id": "206783"
+        },
+        {
+            "user_name": "karthor",
+            "text": "Gerðu first chkdsk C: /f /r\nOg svo convert C: /fs:ntfs /X",
+            "date": "2009-05-12 23:26:00",
+            "post_id": "206786",
+            "reply_to_id": "206785"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Skiptir e-rju máli hvort þú gerir check disk fyrir eða eftir?",
+            "date": "2009-05-12 23:29:00",
+            "post_id": "206788",
+            "reply_to_id": "206786"
+        },
+        {
+            "user_name": "karthor",
+            "text": "já allavega þegar að ég var skipta um format á harðadisknum þá gerði ég aldrei  chkdsk C: /f /r og það virkaði aldrei að skipta um format þegar ég gerði þetta þá virkaði þetta",
+            "date": "2009-05-12 23:42:00",
+            "post_id": "206793",
+            "reply_to_id": "206788"
+        },
+        {
+            "user_name": "hendrixx",
+            "text": "ok snilld, en mun þetta definitely ekki eyða fælunum á disknum?",
+            "date": "2009-05-13 07:27:00",
+            "post_id": "206811",
+            "reply_to_id": "206793"
+        },
+        {
+            "user_name": "karthor",
+            "text": "Nei það held ég ekki annars gerði það ekki hjá mér",
+            "date": "2009-05-13 12:46:00",
+            "post_id": "206833",
+            "reply_to_id": "206811"
+        }
+    ],
+    "date": "2009-05-12 22:48:00"
+}

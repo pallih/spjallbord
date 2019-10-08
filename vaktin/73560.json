@@ -1,0 +1,114 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "73560",
+    "title": "Dual GTX950",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=73560",
+    "posts": [
+        {
+            "user_name": "machinehead",
+            "text": "Sælir/Sælar,\nÉg er að keyra á B75 Pro-M móðurborði \nhttp://www.asrock.com/mb/Intel/B75%20Pro3-M/\n og einu GTX950 skjákorti.\nMig langar hinsvegar að skella í öðru eins korti (vantar að keyra á fleiri skjáum).\nEr eitthvað því til fyrirstöðu eða þarf ég annað/nýrra móðurborð?",
+            "date": "2017-07-13 15:49:00",
+            "post_id": "653093",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Njall_L",
+            "text": "Móðurborðið þyrfti að vera með nVidia SLI support. Þetta móðurborð er hinsvegar bara með AMD Crossfire support svo ég geri ekki ráð fyrir að það myndi virka.",
+            "date": "2017-07-13 16:08:00",
+            "post_id": "653097",
+            "reply_to_id": "653093"
+        },
+        {
+            "user_name": "worghal",
+            "text": "svona í fljótu bragði sýnist mér móðurborðið ekki styðja SLi",
+            "date": "2017-07-13 16:09:00",
+            "post_id": "653098",
+            "reply_to_id": "653097"
+        },
+        {
+            "user_name": "machinehead",
+            "text": "Ahh, ok... Takk fyrir það, þá er spurning að fara í SLI supported móðurborð sem styður einnig DDR4 og taka bara alvöru uppfærslu á þetta",
+            "date": "2017-07-13 16:09:00",
+            "post_id": "653099",
+            "reply_to_id": "653098"
+        },
+        {
+            "user_name": "vesi",
+            "text": "Eða fara í Amd kort",
+            "date": "2017-07-13 17:54:00",
+            "post_id": "653111",
+            "reply_to_id": "653099"
+        },
+        {
+            "user_name": "machinehead",
+            "text": "Nope, held mig við GTX.",
+            "date": "2017-07-13 17:54:00",
+            "post_id": "653112",
+            "reply_to_id": "653111"
+        },
+        {
+            "user_name": "worghal",
+            "text": "en fyrst þú ert að spá í \"alvöru\" uppfærslu, af hverju þá ekki að ditcha 950 sli og fara bara í 1070 og fá alvöru tölur í leikjum?",
+            "date": "2017-07-13 22:20:00",
+            "post_id": "653121",
+            "reply_to_id": "653112"
+        },
+        {
+            "user_name": "Cikster",
+            "text": "Held að sumir hafi ekki lesið almennilega það sem þú skrifaðir. Ef þú ætlar að setja annað kort í tölvuna til að geta tengt fleiri skjái þarftu ekki SLI móðurborð. SLI er ef þú vilt vera með 2 skjákort að keyra sama skjáinn með bæði kortin að vinna saman.",
+            "date": "2017-07-14 06:01:00",
+            "post_id": "653131",
+            "reply_to_id": "653121"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Cikster er með þetta, ef þú ert bara að leita eftir fleiri skjáum en ekki afköstum í leikjum, þá skellirðu bara öðru skjákorti í vélina.  Þarf ekki einu sinni að vera GTX 950.\nSLI myndi ekki gefa þér fleiri skjái, bara annað kortið er þá með virk output",
+            "date": "2017-07-14 10:28:00",
+            "post_id": "653146",
+            "reply_to_id": "653131"
+        },
+        {
+            "user_name": "machinehead",
+            "text": "Ahh ok, brilliant... Nei ég er bara að bæta við öðru korti til að keyra fleiri skjái, helst 6.",
+            "date": "2017-07-14 10:29:00",
+            "post_id": "653147",
+            "reply_to_id": "653146"
+        },
+        {
+            "user_name": "machinehead",
+            "text": "Even better, þannig ég get bara skellt einhverju ódýru með nógu mörgum HDMI output og yrði GTX950 þá \"aðalkortið\" (ef það meikar sense)",
+            "date": "2017-07-14 10:32:00",
+            "post_id": "653149",
+            "reply_to_id": "653147"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Ef þig vantar ekki mikil afköst, þá geturðu prófað að virkja skjástýringuna í örgjörvanum og nota hana (oft er BIOS stilltur þannig að hann slökkvi á henni ef annað skjákort er í vélinni, ferð þá í BIOS og kveikir á henni), fengir líklega 2 output þar, total 5 skjáir þá (3x á GTX 950, 2x á Intel HD frá örgjörva/móðurborði).",
+            "date": "2017-07-14 10:34:00",
+            "post_id": "653150",
+            "reply_to_id": "653149"
+        },
+        {
+            "user_name": "machinehead",
+            "text": "Ég er reyndar að ná 4 skjáum úr GTXinu mínu. En snilld, prufa það.",
+            "date": "2017-07-14 10:35:00",
+            "post_id": "653151",
+            "reply_to_id": "653150"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Ahh auðvitað, það styður 4x skjái \nÞá kemstu mögulega í 6x með innbyggðu skjástýringunni og sleppur vonandi við að kaupa kort.",
+            "date": "2017-07-14 10:37:00",
+            "post_id": "653152",
+            "reply_to_id": "653151"
+        },
+        {
+            "user_name": "machinehead",
+            "text": "Glæsilegt, ég prufa það um helgina og læt ykkur vita. Takk fyrir svörin, þið eruð gull af mönnum.",
+            "date": "2017-07-14 10:40:00",
+            "post_id": "653153",
+            "reply_to_id": "653152"
+        }
+    ],
+    "date": "2017-07-13 15:49:00"
+}

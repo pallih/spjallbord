@@ -1,0 +1,51 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "78665",
+    "title": "Tölvunar finna ekki default gateway",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=78665",
+    "posts": [
+        {
+            "user_name": "norex94",
+            "text": "Góðan daginn! \nÉg er í smá bobba með netið heima hjá mér, lýsir sér þannig að sumar tölvur (oftast með fasta ip tölu) ná ekki út á netið. Þar að seigja þær geta:\nEkki pingað Default gateway\nEkki pingað routerinn (sem er default gateway)\nEkki pingað 8.8.8.8\nGeta pingað aðrar tölvur, samt ekki allar\nÞað eru aðrar tölvur þarna með fastar ip tölur og ná samt inn á netið.\nÉg fæ þetta út frá ipconfig þegar ég tengi mig inn á net kerfið: \nNæ samt ekki að tengja mig út eða opna heimasíður.\nOg svona lookar wireshark þegar ég er tengdur í gegnum VPN inn á netkerfið, fæ mikið um \"who has\" á 192.168.1.254 sem er eða á að vera default gateway. \nGæti verið að það sé annar router inn í netinu sem er að rífast við hinn? \nEða er loopa einhver staðar? Það er mikið af switch-um þarna. \nEða er þessir routerar hjá símanum algjört rusl? \nTakk\nKv. Arnór",
+            "date": "2019-02-25 09:14:00",
+            "post_id": "685682",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "russi",
+            "text": "Who is? í Wireshark kemur gateway ekki við, það er arp fyrirspurn ef ég man rétt. En flott að keyra í gegnum Wireshark.\nÞað sem þú ættir að athuga er hvernig DHCP úthlutunin á router er stillt, er hann að senda frá sér Default Gateway?\nKemur úthlutun á gateway ef þú tengir þig beint í router?",
+            "date": "2019-02-25 09:28:00",
+            "post_id": "685683",
+            "reply_to_id": "685682"
+        },
+        {
+            "user_name": "norex94",
+            "text": "Já ég skil, er ekki með þetta alveg á hreinu.\nÉg er ekki á staðnum þannig ég get ekki tengt mig beint en get kanski skoðað það í næstu viku. \nEn gæti ég séð hvort að sé að senda frá sér default gateway með wireshark, eða ætti það bara að koma framm í ipconfig ef hann ekki með fasta tölu þegar tækið tengir sig við.\nHérna eru stillinganar á routernum.",
+            "date": "2019-02-25 10:13:00",
+            "post_id": "685685",
+            "reply_to_id": "685683"
+        },
+        {
+            "user_name": "Jón Ragnar",
+            "text": "Hvernig er config fyrir network adapterinn? \nÞetta sýnir bara VPN adapterinn.\nSýndu ipconfig /all",
+            "date": "2019-02-25 11:35:00",
+            "post_id": "685688",
+            "reply_to_id": "685685"
+        },
+        {
+            "user_name": "russi",
+            "text": "DHCP poolið þitt er rétt stillt samkvæmt þessu.\nEf þú ert að VPN-a þig inn og það net er það sama og það sem þú ert á, þá fer auðvitað allt í kleinu, semsagt að vera á 192.168.1.X neti og ætla VPNa sig á net sem er líka 192.168.1.X",
+            "date": "2019-02-25 15:36:00",
+            "post_id": "685696",
+            "reply_to_id": "685688"
+        },
+        {
+            "user_name": "norex94",
+            "text": "Ég er að nota svona vitraul hub frá softhether. Veit ekki alveg hvernig það virkar en það virkar eins og það er  \n En ég veit allavega að það er ekki að hafa áhrif á þetta.\nHérna er önnur vél á sama neti, ipconfig á all:\nC:\\Windows\\System32>ipconfig /all\nWindows IP Configuration\n   Host Name . . . . . . . . . . . . : DESKTOP-KPPFDFA\n   Primary Dns Suffix  . . . . . . . :\n   Node Type . . . . . . . . . . . . : Hybrid\n   IP Routing Enabled. . . . . . . . : No\n   WINS Proxy Enabled. . . . . . . . : No\n   DNS Suffix Search List. . . . . . : lan\nEthernet adapter Ethernet:\n   Connection-specific DNS Suffix  . : lan\n   Description . . . . . . . . . . . : Intel(R) Ethernet Connection (2) I219-V\n   Physical Address. . . . . . . . . : 1C-1B-0D-97-88-2E\n   DHCP Enabled. . . . . . . . . . . : Yes\n   Autoconfiguration Enabled . . . . : Yes\n   Link-local IPv6 Address . . . . . : fe80::f184:4e13:5520:b39c%6(Preferred)\n   IPv4 Address. . . . . . . . . . . : 192.168.1.54(Preferred)\n   Subnet Mask . . . . . . . . . . . : 255.255.255.0\n   Lease Obtained. . . . . . . . . . : 31 January 2019 18:52:05\n   Lease Expires . . . . . . . . . . : 26 February 2019 06:52:06\n   Default Gateway . . . . . . . . . : 192.168.1.254\n   DHCP Server . . . . . . . . . . . : 192.168.1.254\n   DHCPv6 IAID . . . . . . . . . . . : 85728013\n   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-22-8E-67-7F-1C-1B-0D-97-88-2E\n   DNS Servers . . . . . . . . . . . : 192.168.1.254\n                                       8.8.8.8\n                                       8.8.4.4\n   NetBIOS over Tcpip. . . . . . . . : Enabled",
+            "date": "2019-02-25 15:56:00",
+            "post_id": "685698",
+            "reply_to_id": "685696"
+        }
+    ],
+    "date": "2019-02-25 09:14:00"
+}

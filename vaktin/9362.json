@@ -1,0 +1,93 @@
+{
+    "forum_title": "Windows",
+    "id": "9362",
+    "title": "Virtual Memory",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=9362",
+    "posts": [
+        {
+            "user_name": "zream",
+            "text": "Það er málið að það er farið að koma stundum þegar ég er í cs eða á irc \n\nað það kemur eitthvað \"Low Virtual Memory\" og tölvan er byrjuð að hökta.\n\n\n\nHvað getur þetta verið, gæti verið að þetta lagast bara með nýju Windows.\n\nOrðið pirrandi þegar tölvan höktar bara þegar ég er að skrifa þetta.",
+            "date": "2005-12-18 19:41:00",
+            "post_id": "101079",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "@Arinn@",
+            "text": "Kemur líka að þú þurfir að slökkva á einhverju til að geta opnað hitt ?",
+            "date": "2005-12-18 19:46:00",
+            "post_id": "101080",
+            "reply_to_id": "101079"
+        },
+        {
+            "user_name": "zream",
+            "text": "Hef nú ekki tekið eftir því, slökkti á öllum forritum nema firefox.\n\nLaggar/Höktar stundum þegar ég skrifa.",
+            "date": "2005-12-18 19:56:00",
+            "post_id": "101081",
+            "reply_to_id": "101080"
+        },
+        {
+            "user_name": "Veit Ekki",
+            "text": "Þetta er þannig að þegar það er ekki nóg af vinnsluminni þá er þetta virtual memory notað af harða disknum til að líkja eftir vinnsluminninu, þetta ætti að lagast ef þú bætir við vinnsluminnið.",
+            "date": "2005-12-18 20:57:00",
+            "post_id": "101086",
+            "reply_to_id": "101081"
+        },
+        {
+            "user_name": "@Arinn@",
+            "text": "Þetta hefur komið fyrir áður hjá mér það endaði með því að tölvan hætti að taka memory test og ég gat ekki farið í tölvuna. Ef ég væri þú þá myndi ég fara að drýfa í því að fá annann alveg eins kubb.",
+            "date": "2005-12-18 21:45:00",
+            "post_id": "101090",
+            "reply_to_id": "101086"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Hvernig kemur Low Virtual Memory? Popup gluggi, skilaboð í CS, BIOS skilaboð?\n\n\n\nStendur ekki meira en Low Virtual Memory?",
+            "date": "2005-12-18 21:54:00",
+            "post_id": "101093",
+            "reply_to_id": "101090"
+        },
+        {
+            "user_name": "@Arinn@",
+            "text": "Þetta kemur ekkert bara þá. Eða ætti ekki ða ger það þetta kom hjá mér begar ég var með nokkuð marga netglugga uppi.",
+            "date": "2005-12-18 21:56:00",
+            "post_id": "101095",
+            "reply_to_id": "101093"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "\"\nMy Computer\n\" -> \"\nProperties\n\" -> \"\nAdvanced\n\" -> \"\nPerformance Settings\n\" -> \"\nAdvanced\n\" -> \"\nVirtual Memory Change\n\"\n\n\n\nStilla á \"\nCustom size\n\" og setja \"\nInitial size\n\" og \"\nMaximum size\n\" í svona 2x minnið sem er í tölvunni þinni, þ.e. hafa bæði í sömu MB tölunni.\n\n\n\nEf þú ert að tala um sömu skilaboðin og ég held, þá er stýrikerfið bara að láta þig vita að það hefur notað allt sýndar minnið þitt og er að stækka page fileinn.",
+            "date": "2005-12-18 22:06:00",
+            "post_id": "101101",
+            "reply_to_id": "101095"
+        },
+        {
+            "user_name": "@Arinn@",
+            "text": "Mæliru með að allir geri þetta eða bara hann ?",
+            "date": "2005-12-18 22:32:00",
+            "post_id": "101112",
+            "reply_to_id": "101101"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Allir ættu amk. að setja sömu hámarks og lámarks töluna.",
+            "date": "2005-12-19 00:14:00",
+            "post_id": "101146",
+            "reply_to_id": "101112"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Allir sem eru með of lítið sýndar minni",
+            "date": "2005-12-19 10:33:00",
+            "post_id": "101162",
+            "reply_to_id": "101146"
+        },
+        {
+            "user_name": "zream",
+            "text": "Jæja þetta lagaðist með þessu sem þú mældir með.\n\nEn svo defraggaði ég og vírusskannaði og fann nokkra vírusa þannig ég er hættur að hökta.\n\n\n\n\n\nAnnars var þetta popup í Windows og man ég ekki alveg hvað stóð.\n\nEr með 1gb OCZ PC3200 þannig þetta ætti að vera nóg í bili\n\n\n\nTakk.",
+            "date": "2005-12-19 11:34:00",
+            "post_id": "101173",
+            "reply_to_id": "101162"
+        }
+    ],
+    "date": "2005-12-18 19:41:00"
+}

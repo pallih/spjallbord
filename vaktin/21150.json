@@ -1,0 +1,51 @@
+{
+    "forum_title": "Windows",
+    "id": "21150",
+    "title": "WINDOWS mappan",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=21150",
+    "posts": [
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Hvað er nákvæmlega geymt í C:\\WINDOWS möppunni?? Vinur minn þarf að skipta um XP stýrikerfi og hann nennnir ekki að vera að gera allt aftur þannig að hann var að pæla hvort það væri ekki hægt að copya allt C: drifið, formata og copya allt aftur yfir nema WINDOWS möppuna. Is dat possible??\nFinn engar almennilegar niðurstöður með [http://www.google.com]Google[/url] :/",
+            "date": "2009-01-19 15:26:00",
+            "post_id": "194555",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Hyper_Pinjata",
+            "text": "Windows mappan geymir (m.a.) Explorer.exe (Taskbarinn sem þú sérð alltaf niðri með \"Start\" takkanum,Desktopið þitt,Flesta Drivera svo stýrikerfið virki (netrekil svo netið \"virki\")\nEinnig geymir windows mappan alla \"Fontana\" sem eru Stafagerðirnar sem þú notar daglega í tölvunni hjá þér.....veit ekki hvað þú myndir vilja fá að vita meira....",
+            "date": "2009-01-19 16:12:00",
+            "post_id": "194564",
+            "reply_to_id": "194555"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "OK, en startflipinn, allt sem er þar er geymt í Documents and settings right?",
+            "date": "2009-01-19 16:18:00",
+            "post_id": "194567",
+            "reply_to_id": "194564"
+        },
+        {
+            "user_name": "gRIMwORLD",
+            "text": "Leiðrétting: Windows mappan geymir ekki Desktop heldur er það geymt undir Doc & Settings\\%user%\nBara svo þú þurftir ekki að velta þessu meira fyrir þér en þá er ekki hægt að skipta um stýrikerfi með því að copera bara C:\\windows möppuna til hliðar því það er svo margt annað sem tengist. Það eru vísanir í registry á milli c:\\windows -> Doc & Settings -> Program Files osfrv\nÞú fengir bara NO BOOT eða BSOD ef þú myndir reyna þetta.\nÞú getur hins vegar keyrt Windows XP setup upp af geisladisk og gert \"clean install\" og SLEPPT því að formata diskinn. Svo getur þú hreinsað til af disknum.\nÞetta er samt frekar \"unclean\" aðgerð þegar á heildina er litið. \nSem ber okkur að besta kostinum: Taka afrit af því sem þú vilt geyma, format og reinstall Windows XP\nHérna eru svo staðsetningar sem gott er að muna þegar afrit er tekið fyrir enduruppsetningu:\nQuick Launch: C:\\documents and settings\\%user%\\application data\\microsoft\\internet explorer\\Quick Launch\\\nOutlook: C:\\documents and settings\\%user%\\application data\\microsoft\\outlook\\ (*.nk2 history skrá)\nOutlook: C:\\documents and settings\\%user%\\local settings\\application data\\microsoft\\outlook\\ (*.pst - Personal folder)\nOutlook Express: C:\\Documents and Settings\\%user$\\Local Settings\\Application Data\\Identities\\{####-\neitthvað númer\n-####}\\Microsoft\\Outlook Express\\\nDesktop: C:\\documents and settings\\%user%\\desktop\\\nFavorites: C:\\documents and settings\\%user%\\Favorites\nMy Documents: C:\\documents and settings\\%user%\\My Documents",
+            "date": "2009-01-19 16:26:00",
+            "post_id": "194568",
+            "reply_to_id": "194567"
+        },
+        {
+            "user_name": "Hyper_Pinjata",
+            "text": "ég var að tala um að desktopið væri geymt í windows möppunni (explorer.exe skráin)\nen já...hinsvegar er allt sem þú notar á desktopinu geymt í: C:\\Documents and Settings\\Notandinn Þinn\\Desktop",
+            "date": "2009-01-19 16:36:00",
+            "post_id": "194569",
+            "reply_to_id": "194568"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Málið er að hann kemst ekki inn í Windows til að geta installað Windows án þess að formata (man að ég gat gert \"upgrade\" inni í Windows og þá uppfærði ég bara yfir í XP Pro án formats). Windowsið hans er nebbla runnið út og hleypir honum ekki framhjá nema hann activati (og hann á engan lykil sem virkar). Gæti maður komist í safe mode ef maður er ekki búinn að activata??",
+            "date": "2009-01-19 16:42:00",
+            "post_id": "194570",
+            "reply_to_id": "194569"
+        }
+    ],
+    "date": "2009-01-19 15:26:00"
+}

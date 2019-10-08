@@ -1,0 +1,37 @@
+{
+    "forum_title": "Windows",
+    "id": "9615",
+    "title": "Tölvan restartast endalaust...",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=9615",
+    "posts": [
+        {
+            "user_name": "hundur",
+            "text": "Sælir og sælar. Upp úr þurru fór tölvan mín að taka upp á því að restarta sér í sífellu um leið og ég kveiki á henni(kemst aldrei inn í Windowsið). Ég semsagt kveiki á tölvunni og hún restartar sér eftir nokkrar sekúndur. Ég hef prófað að fara í Advanced startup options en það virkaði ekkert af því. Hef engu breytt í tölvunni svo ég botna ekkert i því hvað þetta gæti verið, vitið þið það?\n\n\n\nMeð von um góð svör...\n\n\n\nKveðja, Hundur\n\n\n\np.s. Er með Windows XP og AN50R móðurborð og AMD örgjörva(3200 mhz minnir mig, man ekki hvaða tegund)",
+            "date": "2006-01-09 02:02:00",
+            "post_id": "104219",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "@Arinn@",
+            "text": "Vírusar ?",
+            "date": "2006-01-09 07:43:00",
+            "post_id": "104235",
+            "reply_to_id": "104219"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "Þetta þarf þá að vera \"boot vírus\", sem að er mjög ólíklegt. Ég veit ekki til þess að það hafi verið \"boot vírus\" í gangi á langann tíma.\n\n\n\nMér þykir líklegra að það sé ónýt mikilvæg skrá í windows, eða að það sé einhver vélbúnaðarbilun.\n\n\n\nPrófaðu þetta hundur:\n\nhttp://spjall.vaktin.is/viewtopic.php?t=9397",
+            "date": "2006-01-09 08:50:00",
+            "post_id": "104241",
+            "reply_to_id": "104235"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "er að spá er þessi fídus bara á professional diskum eða? var með tölvu hjá mér  í gær sem að restartaðai endalaust komst ekki inni save mode kom bara windows xp home is now loading i svona 2 sec svo flashaði bsod.. komst svo að því að þetta var driver fyrir vefmyndavel.. ég ætlaði bara setja annað windows inn C:\\WINDOW2 og svo taka bckup og formatta.. byrjaði að setja hitt inn.. altíeinu restartaði tölvan sér og virkar enn :þ",
+            "date": "2006-01-09 13:09:00",
+            "post_id": "104266",
+            "reply_to_id": "104241"
+        }
+    ],
+    "date": "2006-01-09 02:02:00"
+}

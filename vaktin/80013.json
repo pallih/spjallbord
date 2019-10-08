@@ -1,0 +1,163 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "80013",
+    "title": "Enn einn \"Nýr rig\" þráður :)",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=80013",
+    "posts": [
+        {
+            "user_name": "B0b4F3tt",
+            "text": "Góðan daginn kæru Vaktarar\nÉg er svona að huga að nýju buildi fyrir vélina mína og ætla að setja saman eina nýja alveg frá grunni.\nEr ekki alveg kominn með á hreinu hvaða kassa ég vill fá en aðrir íhlutir eru eftirfarandi:\nÖrri :             AMD Ryzen 3900X 89.990kr \nhttps://www.computer.is/is/product/orgj ... -6ghz-64mb\nVinnsluminni: Corsair Vengance 34.450kr \nhttps://www.att.is/product/corsair-ven- ... 3200-minni\nSkjákort: Gigabyte 2080 Super 139.900kr \nhttps://www.computer.is/is/product/skja ... ing-oc-8gb\nSSD: Sabrent 1TB NVMe 36.720kr \nhttps://www.amazon.com/Sabrent-Internal ... 07TLYWMYW/\nMB: Asus Prime X570 38.750kr \nhttps://att.is/product/asus-prime-x570-p-modurbord\nPSU: Corsair RM750x 20.750kr \nhttps://att.is/product/corsair-rm750x-aflgjafi\nKæling: Noctua NH-D15 14.990kr \nhttps://tolvutek.is/vara/noctua-nh-d15- ... ara-abyrgd\nSamtals: 375.550kr\nÞannig að með kassa gæti þetta verið í kringum 400 kallinn.\nLangar svo að toppa þetta með nýja LG 27\" Nano IPS skjánum sem er að koma út þessa dagana.\nEn varðandi kassann þá virðist ekki Noctua kælingin passa í hvaða kassa sem er. Hafið þið hugmynd um einhvern kassa sem gæti passað og samt litið ágætlega út á sama tíma?\nSjáið þið kannski eitthvað annað athugavert við þetta build?",
+            "date": "2019-08-20 12:30:00",
+            "post_id": "692892",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Hnykill",
+            "text": "Fínt build. Corsair Obsidian 450D er með góða kælingu og stóran hliðarglugga. en þarft víst að panta hann að utan eins og er.",
+            "date": "2019-08-20 12:45:00",
+            "post_id": "692893",
+            "reply_to_id": "692892"
+        },
+        {
+            "user_name": "B0b4F3tt",
+            "text": "Þessi kassi lúkkar ágætlega en ég hef pínu áhyggjur af því að Noctua viftan yrði alveg utan í glerinu þar sem maximum cpu cooler height er 165mm samkvæmt heimasíðu Corsair og samkvæmt heimasíðu Noctua þá er viftan 165mm á hæð. \nÞarf maður kannski bara frekar að skoða AIO vatnskælingu?",
+            "date": "2019-08-20 13:01:00",
+            "post_id": "692896",
+            "reply_to_id": "692893"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Hljómar vel, en ef ég væri að fá mér kassa með glerhlið þá myndi ég ekki nota svona \"ljóta\" kælingu.\nNoctua er frábær kæling, en hún er ekkert augnayndi. Spurning um að fá sér hraðara vinnsluminni? t.d. 3600Mhz?\nSvo myndi ég fá mér 850W PSU.\np.s. áttu link á þennan LG skjá?",
+            "date": "2019-08-20 13:06:00",
+            "post_id": "692897",
+            "reply_to_id": "692896"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Það er eitthvað trend að fá sér overkill gimmick PSU... PSU calculator segir: Load Wattage: 440 W Recommended PSU Wattage: 490 W.\nMæli frekar með einhverju high end 500W dóti og eyða peningunum í eitthvað sem hefur áhrif.\nhttps://outervision.com/power-supply-calculator\nSjá: \nhttps://www.gamingscan.com/psu-hierarchy/\n + \nhttps://linustechtips.com/main/topic/10 ... tier-list/",
+            "date": "2019-08-20 14:20:00",
+            "post_id": "692907",
+            "reply_to_id": "692897"
+        },
+        {
+            "user_name": "Sydney",
+            "text": "Ég vil helst specca aflgjafann þannig að hann sé að jafnaði með 50% load til þess að nýtni sé hámörkuð, nýtnin droppar þegar þú ferð frá 50% álagi í átt að 100% álagi á aflgjafanum.",
+            "date": "2019-08-20 15:24:00",
+            "post_id": "692912",
+            "reply_to_id": "692907"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Það er samt algerlega tilgangslaust. Afhverju viltu gera það?\nÞó nýtnin fari t.d. úr 92% í 89% þá skiptir það ekki neinu máli.",
+            "date": "2019-08-20 16:03:00",
+            "post_id": "692916",
+            "reply_to_id": "692912"
+        },
+        {
+            "user_name": "Hnykill",
+            "text": "ætli viftuhraði á aflgjafa skipti ekki máli þar.. meiri notkun, hærra RPM á viftunum.",
+            "date": "2019-08-20 16:10:00",
+            "post_id": "692917",
+            "reply_to_id": "692916"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Efast um að þú hrökkvir við þegar viftan fer úr 11dB upp í 12dB  \n \nÞessi er til dæmis kjörinn í þetta djobb: \nhttps://att.is/product/corsair-rm650x-aflgjafi\nÞað að fara í tvöfalt stærri aflgjafa til að sleppa við 92% niður í 90% efficiency er einmitt þetta gimmick dæmi sem ég var að tala um.",
+            "date": "2019-08-20 16:16:00",
+            "post_id": "692918",
+            "reply_to_id": "692917"
+        },
+        {
+            "user_name": "Penguin6",
+            "text": "þessi hérna eru flott minni fyrir ryzen \nhttps://kisildalur.is/?p=2&id=3235\n þessi low latency minni \nog þessi \nhttps://kisildalur.is/?p=2&id=3781\n er að performa svipað og noctua d15 og er líka mjög silent",
+            "date": "2019-08-20 18:22:00",
+            "post_id": "692925",
+            "reply_to_id": "692918"
+        },
+        {
+            "user_name": "Graven",
+            "text": "Þetta er Vaktin.is\nAllir hérna eru áhugamenn um vélbúnað, ég td er með i7 8700k í 5ghz, og 32gb af 4000mhz ram og 1080ti og allskonar drasl sem ég \nþarf\n alls ekki. Ég hef bara eitthvað blæti fyrir því að kaupa það besta þegar ég uppfæri, sem ég geri frekar sjaldan miðað við marga hérna.  Finnst alltaf jafn kjánalegt þegar einhver segir, þessi cpu/psu/ram/gpu/kæling er algjört overkill, eða getur sparað með þessu og blablabla, nema það sé verið að spyrja hvort það sé hægt að spara einhverstaðar.  Í gegnum tíðina hef ég líka upplifað það margoft að þegar maður reynir að spara eitthvað og kaupir ódýrari vöru þá lendir maður oft í djúpum skít, og/eða upplifir ekki það sem maður vill af vörunni.\n/end rant",
+            "date": "2019-08-20 19:14:00",
+            "post_id": "692929",
+            "reply_to_id": "692925"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "En furðuleg afstaða \n Þetta spjallborð var einmitt stofnað fyrir svona umræður. Í grunninn er þessi síða \nverð\nvaktin  \nWattatala segir ekkert um gæði aflgjafa. Brauðristin mín er 1500W.",
+            "date": "2019-08-20 20:12:00",
+            "post_id": "692934",
+            "reply_to_id": "692929"
+        },
+        {
+            "user_name": "Tiger",
+            "text": "Ekki spurning hvað maður þarf, heldur hvað mann LANGAR.",
+            "date": "2019-08-20 20:34:00",
+            "post_id": "692936",
+            "reply_to_id": "692934"
+        },
+        {
+            "user_name": "jericho",
+            "text": "Vá fín tölva.\nEkki værir þú til í að gera samfélaginu hérna greiða og setja inn upphæðir á íhlutum í textann (og jafnvel summutölu neðst)? Þessi þráður lifir og það er gaman að geta skoðað hvað hlutir kostuðu eftir að linkarnir deyja.\nAnnars magnað build og eitthvað sem ég ætla að hafa til hliðsjónar þegar ég uppfæri (já undirskriftin mín er ekki djók).\nKv,\njericho",
+            "date": "2019-08-20 20:40:00",
+            "post_id": "692937",
+            "reply_to_id": "692936"
+        },
+        {
+            "user_name": "B0b4F3tt",
+            "text": "Rólegir strákar, öll dýrin í skóginum eiga að vera vinir \n  Mér finnst fínt að fá mismunandi skoðanir í tengslum við þetta. T.d. ef ég þarf ekki 750w powersupply þá er fínt að vita af því og ég get þá tekið ákvörðun út frá þeim upplýsingum sem ég hef.\nEn ætti ég að fara í AIO vatnskælingu sem lúkkar betur heldur en Noctua 15 loftkælingin? Sérstaklega ef ég tæki kassa með glerhlið? Ef ég færi í vatnskælingu, hvað á maður þá að taka? Bara dýrustu græjuna í þeim geira?",
+            "date": "2019-08-20 20:44:00",
+            "post_id": "692939",
+            "reply_to_id": "692937"
+        },
+        {
+            "user_name": "B0b4F3tt",
+            "text": "Er búinn að uppfæra upprunalega póstinn með verðum og summutölu.",
+            "date": "2019-08-20 20:49:00",
+            "post_id": "692940",
+            "reply_to_id": "692939"
+        },
+        {
+            "user_name": "B0b4F3tt",
+            "text": "Hérna er linkurinn á skjáinn frá LG. \nhttps://www.lg.com/us/monitors/lg-27GL8 ... ng-monitor\nÞað er víst eitthvað erfitt að fá hann þessa dagana. Selst greinilega fljótt upp.",
+            "date": "2019-08-21 07:52:00",
+            "post_id": "692957",
+            "reply_to_id": "692940"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "Ertu að leita þér að hreinu looki eða RGB ljósarshow-i?\nEr persónulega með Cooler Master silencio 352 utaf það er það minnsti kassinn sem ég gat látið allt passa í með rosalega hreinu looki. i7700K, 1080 og 850w aflgjafi.\nhttps://www.coolermaster.com/catalog/ca ... lencio352/\nEr svo með MASTERLIQUID ML240L RGB en kassinn er svo einangraður að ég sé ekki einusinni rgb-ið. (keypti það \"notað\" (2 mánaða gamalt)) gæti ekki passað betur í turninn.\nhttps://www.coolermaster.com/catalog/co ... l240l-rgb/\nÞú ert með ATX móðurborð svo þú gætir farið í stórabróður og nýrri uppfærslu á turninum hjá att. CM Silencio S600 kassi\nhttps://www.att.is/product/cm-silencio-s600-kassi\nog svo sett í hann CM MasterLiquid 240 kæling\nhttps://att.is/product/cm-masterliquid-240-kaeling\nEÐA \nEf þú vilt ekki vatnskælingu þá virkar noctua í þessum kassa samkvæmt tölunum. Viftan er 165cm en turninn tekur 167cm\nhttps://att.is/product/noctua-nh-d15-orgjorvavifta\nEN þetta er nátturlega bara ef þú vilt hreint look.",
+            "date": "2019-08-21 11:04:00",
+            "post_id": "692966",
+            "reply_to_id": "692957"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Ég er ekki hissa",
+            "date": "2019-08-21 11:17:00",
+            "post_id": "692968",
+            "reply_to_id": "692966"
+        },
+        {
+            "user_name": "B0b4F3tt",
+            "text": "Já ég var einmitt búinn að sjá þetta video frá Linus. Það jók áhuga minn á þessum skjá",
+            "date": "2019-08-21 12:13:00",
+            "post_id": "692971",
+            "reply_to_id": "692968"
+        },
+        {
+            "user_name": "B0b4F3tt",
+            "text": "Svona undir öllum kringumstæðum myndi ég fara í hreina lúkkið en það er einhver svona RGB púki að dúkka upp í mér núna og mig langar pínulítið að eiga smá svona bling bling kassa núna.",
+            "date": "2019-08-21 12:15:00",
+            "post_id": "692972",
+            "reply_to_id": "692971"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "bhphoto reiknar með honum um miðjan október.\nhttps://www.bhphotovideo.com/c/product/ ... o_ips.html",
+            "date": "2019-08-21 13:41:00",
+            "post_id": "692974",
+            "reply_to_id": "692972"
+        }
+    ],
+    "date": "2019-08-20 12:30:00"
+}

@@ -1,0 +1,93 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "26072",
+    "title": "USA keyboard remapping",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=26072",
+    "posts": [
+        {
+            "user_name": "Hargo",
+            "text": "Ég er með USA lyklaborð.\nMig sárlega vantar þessi tákn:  < >\nÉg nota SharpKeys forritið til að remappa tökkum. Fyrir ofan vinstri og hægri örvatakkana hjá mér eru einhverjir spes takkar til að fara back og forward í vafranum sem ég nota aldrei. Ég ætlaði sem sagt að remappa þá yfir í  \"<\" og \">\". Ég finn \"<\" og  \">\" takkana í forritinu en þar sem ég er með íslenskt layout á USA lyklaborði þá eru þeir notaðir fyrir kommu-og punkt, eða \",\" og \".\"\nÉg veit ekki alveg hvort þið fattið það sem ég er að reyna að segja, svolítið erfitt að koma orðum að því. En þegar ég er búinn að breyta þessu eru þessir nýju takkar bara \",\" og \".\" en ekki \"<\" og \">\". Ég prófaði að breyta yfir í USA layout og þá virkar þetta remap fínt.\nGetur einhver hérna sagt mér hvaða takkar á íslensku lyklaborði eru notaðir fyrir \"<\" og  \">\", væri enn betra að fá númerin á þeim (t.d. er stafurinn F = 00_21).\nSvona lítur lyklaborðið mitt út\n - fyrir utan numeric keypad þar sem þetta er fartölva. Svo er ég með eins og áður sagði tvo auka takka fyrir ofan örvatakkana sem ég er að reyna að breyta í \"<\" og \">\".",
+            "date": "2009-11-10 13:27:00",
+            "post_id": "226420",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Cascade",
+            "text": "USA lyklaborð eru með stóran shift takka, þeas á íslensku lyklaborði er <>| á milli vinstri shift og z\nVinur minn sagðist hafa sett e-ð svona dót þannig ctrl+x og ctrl+a eða hvað sem er þannig séð til að gera þessi tákn\nÁkkúrat útaf þessari ástæðu sökka USA lyklaborð\nÞú getur svo verið grand og keypt íslenskt lyklaborð hjá nýherja, held að það kosti um 15k",
+            "date": "2009-11-10 13:34:00",
+            "post_id": "226421",
+            "reply_to_id": "226420"
+        },
+        {
+            "user_name": "Hargo",
+            "text": "Ef einhver getur skipt yfir í USA layout á íslenska lyklaborðinu sínu, ýtt á þennan takka og sagt mér hvaða tákn hann fær út þá væri það vel þegið...\nEr ekki alveg að tíma að splæsa 15þús kalli í nýtt lyklaborð á vélina...allavega ekki alveg strax ef ég get reddað mér öðruvísi.",
+            "date": "2009-11-10 13:46:00",
+            "post_id": "226425",
+            "reply_to_id": "226421"
+        },
+        {
+            "user_name": "Cascade",
+            "text": "Ég valdi USA og þá var þessi takki eins, væntanlega því þetta er enn stillt með \"generic 105 key keybord\"\nÞessi takki er einfaldlega ekki í USA layoutinu sem er 104 takka, svo ég efa að það myndi koma e-ð",
+            "date": "2009-11-10 13:57:00",
+            "post_id": "226428",
+            "reply_to_id": "226425"
+        },
+        {
+            "user_name": "Hargo",
+            "text": "Ah damn, þetta ætlar að verða erfiðara en ég hélt...",
+            "date": "2009-11-10 16:25:00",
+            "post_id": "226445",
+            "reply_to_id": "226428"
+        },
+        {
+            "user_name": "DoofuZ",
+            "text": "Á mínum lappa leysti ég þetta vandamál einfaldlega með því að fara í Regional and Language Settings í Control Panel, var með bæði íslensku og ensku, smellti svo á Key Settings og valdi þar að láta t.d. CTRL+Shift takkann skipta á milli. Þannig gat ég skrifað allt á íslensku en ýtti svo á CTRL+Shift og gerði táknin með , og . tökkunum, ýtti svo aftur á CTRL+Shift og hélt áfram með íslenskuna",
+            "date": "2009-11-10 19:01:00",
+            "post_id": "226468",
+            "reply_to_id": "226445"
+        },
+        {
+            "user_name": "Hargo",
+            "text": "Takk fyrir þetta ráð, reyni að redda mér þannig þar til ég splæsi í nýtt lyklaborð á lappann",
+            "date": "2009-11-10 19:43:00",
+            "post_id": "226481",
+            "reply_to_id": "226468"
+        },
+        {
+            "user_name": "lukkuláki",
+            "text": "Geturðu ekki notað þessa aðferð ?\nHeldur inni vinstri 'alt' og gerir 0139 eða 0155\n0139 = \n‹\n0155 = \n›\nMaður er enga stund að venjast því og það er ódýrara en nýtt lyklaborð",
+            "date": "2009-11-10 20:58:00",
+            "post_id": "226493",
+            "reply_to_id": "226481"
+        },
+        {
+            "user_name": "JohnnyX",
+            "text": "er hægt að gera það á fartölvu eða ?",
+            "date": "2009-11-10 21:04:00",
+            "post_id": "226494",
+            "reply_to_id": "226493"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Fæstir lappar eru með keypad.",
+            "date": "2009-11-10 21:04:00",
+            "post_id": "226495",
+            "reply_to_id": "226494"
+        },
+        {
+            "user_name": "Nariur",
+            "text": "Fn keypadið, með 456123 á uiojkl",
+            "date": "2009-11-10 21:13:00",
+            "post_id": "226497",
+            "reply_to_id": "226495"
+        },
+        {
+            "user_name": "Hargo",
+            "text": "Virkar ef ég nota FN keypadið. Maður þarf að venjast þessu, spurning hvort er fljótlegra, aðferðin hjá Lukku Láka eða Doofuz.",
+            "date": "2009-11-10 21:40:00",
+            "post_id": "226501",
+            "reply_to_id": "226497"
+        }
+    ],
+    "date": "2009-11-10 13:27:00"
+}

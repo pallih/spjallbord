@@ -1,0 +1,79 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "62728",
+    "title": "streaming ruv->appletv",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=62728",
+    "posts": [
+        {
+            "user_name": "kristfin",
+            "text": "ég ætlaði að vera svo sniðugur þegar ruv hætti að koma í gegnum analog loftnet að skipta yfir í streymi í eldhússjónvarpinu.\nhenti gamla sjónvarpinu og keypti mér 27\" skjá og tengdi appletv við.  mér gengur hinsvegar bölvanlega að streyma rúv á appletv.  ég nota iphone eða ipad til að opna ruv og vippa því síðan yfir á apple tv.  stundum gengur það  en yfirleitt ekki - endar með eh villum.\nef ég er hinsvegar að streyma youtube eða horfa á netflix þá er allt eins og hugur mans.\ner vandamálið að streymið frá rúv er lélegt?  hefur eh lent í þessu?",
+            "date": "2014-10-06 13:14:00",
+            "post_id": "576128",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "NiveaForMen",
+            "text": "Nú þekki ég ekki hvernig þessu væri hagað í AppleTV en ég nota eingöngu rúv streymið í sjónvarpið þegar ég vil sjá rúv. Til þess nota ég streymis link sem ég vista skjali undir <nafn>.strm og opna í XBMC. Kannski er hægt að gera eitthvað svipað í AppleTV?\nEdit* Sumsé ekkert að streyminu sem slíku, virkar vel hjá mér.",
+            "date": "2014-10-06 13:32:00",
+            "post_id": "576131",
+            "reply_to_id": "576128"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Þú átt samt ennþá að geta notað loftnetsútsendingar, þarf bara að vera með DVB-T móttakara, t.d.:\nhttp://www.vodafone.is/sjonvarp/bunadur ... -haskerpa/",
+            "date": "2014-10-06 14:13:00",
+            "post_id": "576133",
+            "reply_to_id": "576131"
+        },
+        {
+            "user_name": "Squinchy",
+            "text": "Ég geri þetta án vandræða á iPhone 4S og iPad 2nd í gegnum ATV3, stýrikerfið uppfært í botn á öllu? hvernig router er þetta allt tengt við?",
+            "date": "2014-10-06 23:46:00",
+            "post_id": "576190",
+            "reply_to_id": "576133"
+        },
+        {
+            "user_name": "elight82",
+            "text": "Ef þú ert með iOS tæki get ég ekki annað en mælt með OZ appinu. Það hefur núna komið algerlega í staðinn fyrir ruv.is og Sarpinn þar. Streymið er jafn stöðugt og öruggt og ef ég væri með stafrænan móttakara.",
+            "date": "2014-10-07 00:42:00",
+            "post_id": "576199",
+            "reply_to_id": "576190"
+        },
+        {
+            "user_name": "enypha",
+            "text": "Tek undir með síðasta ræðumanni. OZ er hið prýðilegasta app. \"Áfram lið Úmísúmí!\"",
+            "date": "2014-10-07 10:26:00",
+            "post_id": "576218",
+            "reply_to_id": "576199"
+        },
+        {
+            "user_name": "kristfin",
+            "text": "ég er ekki með stöð 2 svo oz appið er út.\nég er með router frá vodafone á ljósnetinu.  er að gefa mér 25Gbit + upp og niður á þráðlausa netinu innanhúss svo það á ekki að vera vandamál.\nþegar ég síðan prófa chromecast þá fæ ég \"unable to cast due to site restrictions\".  þetta er hvort sem ég er með playmotv virkt eður ei.\nég get reyndar castað flipa í chrome á macbook yfir á sjónvarpið, en planið var að nota nexus 7 eða iphone til að casta yfirr á chromecast eða appletv.  allt vonlaust.\nsíðasti séns er væntanlega að prófa streaming á raspbmc áður en ég fer með tárin í augunum og næ í afruglara númer 2 frá vodafone",
+            "date": "2014-10-07 23:38:00",
+            "post_id": "576314",
+            "reply_to_id": "576218"
+        },
+        {
+            "user_name": "tdog",
+            "text": "25Gbit á þráðlausu er full mikið, ábyggilega ástæðan fyrir því að þetta virkar ekki hjá þér.",
+            "date": "2014-10-08 11:11:00",
+            "post_id": "576339",
+            "reply_to_id": "576314"
+        },
+        {
+            "user_name": "enypha",
+            "text": "Ég er ekki með stöð 2 en OZ virkar hjá mér. Ég skráði mig reyndar hjá þeim þegar þeir opnuðu fyrst, en ég hélt samt að OZ virkaði fyrir ruv án endurgjalds. Hefurðu prófað það?",
+            "date": "2014-10-08 14:39:00",
+            "post_id": "576352",
+            "reply_to_id": "576339"
+        },
+        {
+            "user_name": "kristfin",
+            "text": "takk fyrir það.\nég setti upp oz tv á iphone og núna get ég horft á rúv án vandræða.\nverst að oz tv á android getur ekki notað chromecast.  ég vildi frekar nota chromecast en appletv, en það skiptir ekki öllu.",
+            "date": "2014-10-08 23:08:00",
+            "post_id": "576422",
+            "reply_to_id": "576352"
+        }
+    ],
+    "date": "2014-10-06 13:14:00"
+}

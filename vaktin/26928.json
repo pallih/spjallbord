@@ -1,0 +1,23 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "26928",
+    "title": "Logitech Dinovo og Karmic",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=26928",
+    "posts": [
+        {
+            "user_name": "FriðrikH",
+            "text": "Ég er búinn að vera í smá veseni í Karmic með að fá flýtihnappa á Logitech Dinovo desktoppinu til að virka.  Allt basic dótið virkar, skrifa á lyklaborðið og músin.  En enginn af flýtihnöppunum virkar.  Ég er búinn að googla þetta fram og til baka og hef enga lausn fundið.  Var að velta fyrir mér hvort einhver hér hefði lent í sama veseni með þráðlaus lyklaborð eða mýs?",
+            "date": "2009-12-18 10:15:00",
+            "post_id": "234476",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "kizi86",
+            "text": "prufaðu Keytouch - \nsudo apt-get install keytouch keytouch-editor\nmeð þvi forriti ættirru að fa flesta ef ekki alla flýtihnappana til að virka",
+            "date": "2009-12-28 23:08:00",
+            "post_id": "236434",
+            "reply_to_id": "234476"
+        }
+    ],
+    "date": "2009-12-18 10:15:00"
+}

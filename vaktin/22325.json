@@ -1,0 +1,65 @@
+{
+    "forum_title": "Windows",
+    "id": "22325",
+    "title": "kannt þú á þetta (Local users and Groups policy)",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=22325",
+    "posts": [
+        {
+            "user_name": "olla",
+            "text": "Þarf að búa til notanda(user) sem er ekki admin(stjórnandi) en getur samt haft réttindi til að installa forritum og leikjum þá aðallega og getað spilað þá inn á sýnum reikning (account)  einnig þarf hann að geta stillt netið þá aðallega internet protocol. vil allavega að hann hafi enga stjórn á firewall, users accounts password.\nGott ef einhver veit um góðan link af kennslu um þetta og enn þá betra með myndum.",
+            "date": "2009-03-25 16:18:00",
+            "post_id": "201871",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "olla",
+            "text": "einhver hlýtur að vita eitthvað um þetta",
+            "date": "2009-03-25 19:34:00",
+            "post_id": "201891",
+            "reply_to_id": "201871"
+        },
+        {
+            "user_name": "Gullisig",
+            "text": "Skoðaðu  \nhttp://vlaurie.com/computers2/Articles/ ... editor.htm",
+            "date": "2009-03-25 20:21:00",
+            "post_id": "201892",
+            "reply_to_id": "201891"
+        },
+        {
+            "user_name": "olla",
+            "text": "okey?? er einhver sem getur skrifað hérna inn hvað ég þarf að gera til að gefa userinum leyfi á að installa leikjum og keyra og internet protocol aðgang.Og einnig banna aðgang á því að breyta passorði hjá öðrum userum.",
+            "date": "2009-03-25 21:48:00",
+            "post_id": "201913",
+            "reply_to_id": "201892"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Ef að ég er ekki að ljúga þá gætirðu byrjað á því að stofna notandann sem limited user (ekki admin user)\nSetja svo notandann í grúppuna power users (með policy editor), það ætti held ég að komast nálægt því sem að þú biður um \nEf þetta er rangt þá er þetta svar betra en ekkert",
+            "date": "2009-03-25 23:52:00",
+            "post_id": "201930",
+            "reply_to_id": "201913"
+        },
+        {
+            "user_name": "olla",
+            "text": "nei virkar ekki ég var búin að prufa einmitt þetta og þetta virkar ekki. ég semsagt bjó til limited user og og í administrative tools/computer management/local users and groups gaf ég network configuration operators leyfi á userinn (þá virkaði að userinn fékk aðgang að stjórna internet protocol) gaf einnig aðgang sem power user þar inni og samt gat userinn ekki installað leikjum(applications) og keyrt leikinn. Svo það er eitthvað annað sem á að gera  \ner ekki einhver skipun í script inn í gpedit.msc sem opnar fyrir að userinn fær leyfi til að installa applications ??",
+            "date": "2009-03-26 01:09:00",
+            "post_id": "201937",
+            "reply_to_id": "201930"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Þú hefur e-ð misskilið forgangsröðina.\nLærðu fyrst MCSA eða sambærilegt nám.\nFarðu SVO að vinna sem kerfisstjóri \nEn svo ég sé ekki bara böggandi, sæktu þér góða bók um Active Directory / Networking á torrent, verður margs vísari fyrir vikið.",
+            "date": "2009-03-26 02:24:00",
+            "post_id": "201940",
+            "reply_to_id": "201937"
+        },
+        {
+            "user_name": "olla",
+            "text": "hvað var það sem ég misskildi? veist þú það?",
+            "date": "2009-03-26 13:23:00",
+            "post_id": "201953",
+            "reply_to_id": "201940"
+        }
+    ],
+    "date": "2009-03-25 16:18:00"
+}

@@ -1,0 +1,58 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "57295",
+    "title": "Vesen með flakkara.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=57295",
+    "posts": [
+        {
+            "user_name": "Vignirorn13",
+            "text": "Sælir, Ég keypti flakkara fyrir 2 árum sirka og hann fór í eitthvað algjör rugl núna um daginn. Það kemur að hann sé unalllocated og það er ekki hægt að gera New Simple Volume og ekkert þar, nema properties og help. Veit einhver af ykkur hvað þetta gæti verið ?  \n (diskurinn í flakkaranum heitir WD Ext HDD 1021.\nMynd af þessu : \nhttp://imgur.com/Iz7jUuY",
+            "date": "2013-09-22 01:16:00",
+            "post_id": "529584",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Þarft að byrja á því að initialize-a hann, svo geturu gert volume. Ath að þú missir líklega öll gögn, eða erfiðar fyrir gagnabjörgun ef það var planið. Ég myndi amk keyra disk test, óvenjulegt að partition taflan hverfi svona.",
+            "date": "2013-09-22 12:20:00",
+            "post_id": "529625",
+            "reply_to_id": "529584"
+        },
+        {
+            "user_name": "Vignirorn13",
+            "text": "Bíddu hvernig geri ég það? En málið er að það eru enginn gögn á disknum þannig það breytir litlu.",
+            "date": "2013-09-22 12:42:00",
+            "post_id": "529630",
+            "reply_to_id": "529625"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Hægri klikkar á diskinn og velur Initialize Disk.",
+            "date": "2013-09-22 12:46:00",
+            "post_id": "529631",
+            "reply_to_id": "529630"
+        },
+        {
+            "user_name": "Vignirorn13",
+            "text": "Eftir að hafa farið í computer og manage? eða bara í my computer ? \n \nEdit: þá kemur \"the drive is protected\".",
+            "date": "2013-09-22 12:57:00",
+            "post_id": "529633",
+            "reply_to_id": "529631"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Hægriklikkar á gráa svæðið þar sem stendur \"disk 1\"",
+            "date": "2013-09-22 14:52:00",
+            "post_id": "529661",
+            "reply_to_id": "529633"
+        },
+        {
+            "user_name": "Vignirorn13",
+            "text": "Já en þá kemur \"the media is protected\"",
+            "date": "2013-09-22 15:03:00",
+            "post_id": "529666",
+            "reply_to_id": "529661"
+        }
+    ],
+    "date": "2013-09-22 01:16:00"
+}

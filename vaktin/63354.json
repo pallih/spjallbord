@@ -1,0 +1,86 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "63354",
+    "title": "Ekki sáttur, er ég að gleyma einhverju?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=63354",
+    "posts": [
+        {
+            "user_name": "rapport",
+            "text": "Beintengt í vélina mína, Win7... WTF",
+            "date": "2014-11-24 00:05:00",
+            "post_id": "581067",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "audiophile",
+            "text": "Já, ég væri ekki sáttur.\nÉg er hjá Vodafone....",
+            "date": "2014-11-24 09:49:00",
+            "post_id": "581070",
+            "reply_to_id": "581067"
+        },
+        {
+            "user_name": "dawg",
+            "text": "Er eitthvað skrítið, er sjálfur tengdur í gegnum rafmagn sem er gríðarlegur bottle-neck og er samt að fá hraðara upload. Hjá hringdu.",
+            "date": "2014-11-24 09:55:00",
+            "post_id": "581072",
+            "reply_to_id": "581070"
+        },
+        {
+            "user_name": "Cascade",
+            "text": "Asnaleg spurning kannski...\nEn ertu 100% viss um að þú hafir ekki verið að uploada neinu þegar þú gerðir þetta?\nSkoða networking í task manager eða e-ð til að staðfesta",
+            "date": "2014-11-24 10:21:00",
+            "post_id": "581076",
+            "reply_to_id": "581072"
+        },
+        {
+            "user_name": "rickyhien",
+            "text": "er að fá mjög skrýtnar tölur í uppload hjá vodafone, fyrstu nokkrar mánuðir þegar ég fékk ljósleiðara þá var uppload hraða alltaf 90+ Mbps (hraðamæling á vefsíðu voda og speedtest.net) en síðustu 2-3 mánuðir þegar ég nota speedtest að mæla þá fer uppload aldrei yfir 50 Mbps ...en er samt að fá 93.7 Mbps með hraðamælingu á vefsíðu voda...(nákvæmlega 93.7 aftur og aftur, stundum 20ish eða 40ish en ekki eins oft og 93.7 )...hvaða mælingu á maður að trúa?",
+            "date": "2014-11-24 16:20:00",
+            "post_id": "581100",
+            "reply_to_id": "581076"
+        },
+        {
+            "user_name": "einarth",
+            "text": "Sæll.\nPrófaðu \nhttp://speedtest.gagnaveita.is\nEf þú færð fullan hraða upp og niður þar (90+) þá er í lagi með allt hjá þér og ljósleiðaratenginguna. Ef þú færð svo lakari niðurstöður á öðrum speedtest'um (best að prófa nokkur til samanburðar) þá gætur það legið hjá viðkomandi þjónustuveitu eða annarstaðar á internetinu..\nKv, Einar.",
+            "date": "2014-11-24 16:28:00",
+            "post_id": "581101",
+            "reply_to_id": "581100"
+        },
+        {
+            "user_name": "rickyhien",
+            "text": "var að prófa nokkrum sinnum, download var í lagi 90+ en upload var aldrei yfir 65 (eða 60 ish) þannig að þetta er svipað og speedtest..en hvernig og afhverju fékk ég alltaf 93.7 með hraðamælingu hjá voda \n \nhttp://speed.c.is/\n ...???\nEDIT\n: fékk hjálp frá einarth, upload komið í lag",
+            "date": "2014-11-24 16:42:00",
+            "post_id": "581102",
+            "reply_to_id": "581101"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ég hef séð powersaving features valda svona mun á DL/UL. Prufaðu aðra vél til öryggis.",
+            "date": "2014-11-25 10:33:00",
+            "post_id": "581186",
+            "reply_to_id": "581102"
+        },
+        {
+            "user_name": "fedora1",
+            "text": "Ef þetta er eitthvað sem aðrir eru líklegir til að lenda í máttu gjarnan posta lausninni hér",
+            "date": "2014-11-25 10:42:00",
+            "post_id": "581188",
+            "reply_to_id": "581186"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Þetta er komið, bara fail á Windows vélinni minni og þá bara á speedtest.net... gefur fullt score á hraðatesti GR og \nhttp://www.hinet.hi.is/meter/meter.html\nVirkar perfect í Mint og Ubuntu.\np.s. Hverslags lúxus erþað að hafa hann einarth hérna á Vaktinni?\nÞað er eins og vaktarar hafi sinn eiginn spes specialist innan GR.\nTakk fyrir hjálpina.",
+            "date": "2014-11-25 10:53:00",
+            "post_id": "581189",
+            "reply_to_id": "581188"
+        },
+        {
+            "user_name": "einarth",
+            "text": "Sæl.\nÞað er til staðar galli í ákveðnum hugbúnaðar útgáfum á Genexis netaðgangstækjum - sem getur haft þessi áhrif (undir ákveðnum kringumstæðum).\nEf það eru fleiri með Genexis tæki og fá fullt dl en takmarkað ul - þá gæti þurft að skipta um firmware í netaðgangstækinu.\nÞjónustuveitur eiga að vita af þessu vandamáli og geta skipt um firmware - en það má líka senda mér pm (með t.d. kt) og ég get skoðað málið.\nFramleiðandinn er að vinna í lausn og henni verður rúllað út um leið og hún berst okkur.\nKv, Einar.",
+            "date": "2014-11-25 11:29:00",
+            "post_id": "581195",
+            "reply_to_id": "581189"
+        }
+    ],
+    "date": "2014-11-24 00:05:00"
+}

@@ -1,0 +1,79 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "66603",
+    "title": "Tölvupóststillingar @internet.is",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=66603",
+    "posts": [
+        {
+            "user_name": "slapi",
+            "text": "Ég er að græja hérna fyrir tengdamömmu mína stillingar fyrir @internet.is tölvupóstfangið hennar (Vodafone)\nÞar sem hún er ekki með neina nettengingu hjá Vodafone hleypa þeir ekki tölvupóstfanginu í gegnum Outgoing serverinn hjá sér (mail.internet.is:587) og vísa á að Símann þar sem hún er með áskriftina á GSM-símanum sínum (er ekki með neitt annað á sínu nafni) og þeirra Outgoing server er postur.simnet.is sem gengur ekki (þarf ekki login).\nÉg er búinn að tala við báða aðila og engin svör um hvernig þetta eigi að ganga upp , ég er búinn að prófa að hafa gmail sem outgoing server en þegar það er svoleiðis sendist ekki @internet.is emailið hennar með e-mailinu heldur kemur bara nafnið hennar og ekkert e-mail á bakvið það (strange?)\nEinhver með einfalda laus á þessu hjá henni?\nkv D",
+            "date": "2015-08-18 18:09:00",
+            "post_id": "604571",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Eh þetta póstfang er náttúrulega hýst hjá Vodafone.\nÞú þarft að spyrja þá hvort það sé ennþá virkt þetta netfang, mig minnir að þeir loki póstfanginu eftir einhvern tíma frá því að neti er sagt upp. Nokkuð viss um að Voda séu búnir að loka því fyrst hún er ekki með neinar þjónustur í gangi þar.\nSíminn getur ekkert aðstoðað með þetta því að þetta er ekki hýst hjá þeim og þá virkar væntanlega ekki mail serverinn þeirra.\nGetur örugglega verið með netfanið áfram en þarft þá að borga fyrir það.",
+            "date": "2015-08-18 18:47:00",
+            "post_id": "604574",
+            "reply_to_id": "604571"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Hvað forrit ertu að reyna að stilla?",
+            "date": "2015-08-18 19:14:00",
+            "post_id": "604579",
+            "reply_to_id": "604574"
+        },
+        {
+            "user_name": "slapi",
+            "text": "Það er vel virkt netfangið og ég skrái mig inná það á \nhttp://postur.internet.is\n og eins og kemur fram í leiðbeiningum frá þeim ef þú ert ekki með nettengingu frá þeim geturðu ekki notast við Outgoing serverinn þeirra.\nAndroid,, Galaxy S4",
+            "date": "2015-08-18 20:09:00",
+            "post_id": "604583",
+            "reply_to_id": "604579"
+        },
+        {
+            "user_name": "depill",
+            "text": "Er Síminn tengdur við farsímanet Símans meðan þú ert að stilla þetta ? \nÞá \"á\" mail.simnet.is að virka sem outgoing meðan Síminn er tengdur við netkerfi Símans.",
+            "date": "2015-08-18 21:01:00",
+            "post_id": "604588",
+            "reply_to_id": "604583"
+        },
+        {
+            "user_name": "Chokotoff",
+            "text": "Einfaldasta lausnin á e-mail veseni er að stofna bara nýtt og láta það gamla áframsenda.\nÁ ekki annars að vera hægt að stilla gmail þannig að það sé einsskonar frontur fyrir annað póstfang?",
+            "date": "2015-08-18 21:57:00",
+            "post_id": "604593",
+            "reply_to_id": "604588"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Okei, ertu örugglega að stilla?\nKóði: \nVelja allt\nAccount type: IMAP\nServer: postur.simnet.is\nSecurity type: Off (Ekki SSL, TLS eða neitt slíkt).\nIncoming port: 143\nOutgoing port: 25",
+            "date": "2015-08-19 00:48:00",
+            "post_id": "604611",
+            "reply_to_id": "604593"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Getur notað outgoing server: vmail.c.is\nÞá virkar pósthólfið á öllum netum, en þá verðurðu að nota user & pass authentication. Spurðu Vodafone nánar út í það.\nhjalp@vodafone.is",
+            "date": "2015-08-19 05:45:00",
+            "post_id": "604614",
+            "reply_to_id": "604611"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Ég var að gramsa í þessu í gærkvöldi og fann ekkert útúr þessu (er með S4 og á @internet.is netfang) og mér finnst þetta fáranlegt, hins vegar gekk þetta fínt núna eftir aftir að ég sá póstin hér frá Sallarólegur.\nSvona virkar þetta (hjá mér)\nIncoming stillingar\nAccount type: IMAP\nServer: mail.internet.is\nSecurity type: Off (Ekki SSL, TLS eða neitt slíkt).\nIncoming port: 143\nOutgoing stillingar\nServer: vmail.c.is\nSecurity type: Off (Ekki SSL, TLS eða neitt slíkt)\nHakað í use sign-in (passaðu að sjálfkrafa kemur notendanafn sem netfangið en án @internet.is í endann þarf að bæta því við handvirkt )\nOutgoing port: 587",
+            "date": "2015-08-19 09:44:00",
+            "post_id": "604627",
+            "reply_to_id": "604614"
+        },
+        {
+            "user_name": "slapi",
+            "text": "Þessi vmail server virkaði, djöfulsins snillingar, takk",
+            "date": "2015-08-19 21:23:00",
+            "post_id": "604670",
+            "reply_to_id": "604627"
+        }
+    ],
+    "date": "2015-08-18 18:09:00"
+}

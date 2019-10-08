@@ -1,0 +1,51 @@
+{
+    "forum_title": "Windows",
+    "id": "23427",
+    "title": "Windows server 2003 vandamál!!",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=23427",
+    "posts": [
+        {
+            "user_name": "krissi24",
+            "text": "Er búinn að setja upp windows server 2003 á einni vél en ég fæ ekki netið til að virka í sjálfri tölvunni og heldur ekki á domain svæðunum :S vildi gjarnan fá smá hjálp \n tek það fram að Windows server er alveg nýtt fyrir mér",
+            "date": "2009-06-07 06:40:00",
+            "post_id": "208662",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "lukkuláki",
+            "text": "Veit ekki hversu grænn þú ert \nErtu búinn að setja upp alla driverana ?",
+            "date": "2009-06-07 13:44:00",
+            "post_id": "208673",
+            "reply_to_id": "208662"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "ekki alveg alla en net driverinn er í tölvunni, netið virkaði alveg áður en ég virkjaði domain controller-inn?",
+            "date": "2009-06-07 13:50:00",
+            "post_id": "208674",
+            "reply_to_id": "208673"
+        },
+        {
+            "user_name": "Gullisig",
+            "text": "Er nú ekki alveg viss hvað er að hjá þér ,,, en hefurðu sett upp routing and remote access ,,, eða skoðað eitthvað dns og joinað notendum í öðrum tölvum á domainið",
+            "date": "2009-06-07 15:44:00",
+            "post_id": "208685",
+            "reply_to_id": "208674"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "hef stillt eina tölvu á lénið en fæ ekki netið til að virka á henni. Held að ég þurfi að setja inn þetta DNS eða eitthvað... þetta er bara eitthvað stillingar atriði sem ég þarf að laga en bara kann það ekki",
+            "date": "2009-06-07 16:39:00",
+            "post_id": "208691",
+            "reply_to_id": "208685"
+        },
+        {
+            "user_name": "Gullisig",
+            "text": "Þá er bara að lesa sig til ,, þetta kemur ekki á einni nóttu.",
+            "date": "2009-06-07 18:13:00",
+            "post_id": "208702",
+            "reply_to_id": "208691"
+        }
+    ],
+    "date": "2009-06-07 06:40:00"
+}

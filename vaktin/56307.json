@@ -1,0 +1,51 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "56307",
+    "title": "ZyXEL í access point ?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=56307",
+    "posts": [
+        {
+            "user_name": "eriksnaer",
+            "text": "Er hægt að nota ZyXEL sem access point með Technicolor TG589vn v2 á ljósneti símans ?\nKV. erik",
+            "date": "2013-07-28 17:36:00",
+            "post_id": "521879",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Já.",
+            "date": "2013-07-28 19:54:00",
+            "post_id": "521906",
+            "reply_to_id": "521879"
+        },
+        {
+            "user_name": "eriksnaer",
+            "text": "Hvernig í ands**** fer ég að því",
+            "date": "2013-07-29 00:11:00",
+            "post_id": "521942",
+            "reply_to_id": "521906"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Kaupir þér Zyxel access point og ferð eftir leiðbeiningunum \nhttp://www.netverslun.is/Verslun/(S(lm13jab5a5c3vmkcb2ev2ru2))/product/Zyxel-Access-Point-N-sta%C3%B0all-300Mbps,17638,835.aspx\nhttp://www.tl.is/product/zyxel-wap3205- ... 1n-300mbps\nAfhverju ertu svona hrifinn af Zyxel?\nMæli með þessum:\nhttp://tolvutek.is/vara/trendnet-tew-63 ... cess-point",
+            "date": "2013-07-29 00:43:00",
+            "post_id": "521949",
+            "reply_to_id": "521942"
+        },
+        {
+            "user_name": "eriksnaer",
+            "text": "Ohh heimska i mer að gleyma að nefna að eg er með zyxel router se eg ætlqði að gera þetta með...\nS.s. er eg að.meina er hægt að breyta zyxel router i access point sem virkar með.technicolor",
+            "date": "2013-07-29 01:19:00",
+            "post_id": "521956",
+            "reply_to_id": "521949"
+        },
+        {
+            "user_name": "TraustiSig",
+            "text": "Ætti að vera nóg fyrir þig að taka út DHCP úthlutun á honum og breyta SSID í sama og á Technicolor routernum en annað channel. Ásamt sama Pass (WPA eða WEP)",
+            "date": "2013-07-29 10:13:00",
+            "post_id": "521981",
+            "reply_to_id": "521956"
+        }
+    ],
+    "date": "2013-07-28 17:36:00"
+}

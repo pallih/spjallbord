@@ -1,0 +1,23 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "31409",
+    "title": "Ubuntu 9.10 (share vesen)",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=31409",
+    "posts": [
+        {
+            "user_name": "Sh4dE",
+            "text": "Ég er með ubuntu 9.10 og er að reyna að tengjast windows 7 til að komast í skrárnar sem eru þar er búinn að tengjast ubuntu frá win7 og get komist í allar skrár á ubuntu vélinni en virkar ekki öfugt kerfið kemur bara með \"failed to retrieve share list from server\" þegar að ég nota connect to server og svo can not access þegar að ég skrifa í browserinn smb://192.168.1.101 (sem er ip á win 7 vélinni).\nÉg er með slökkt á öllum firewall í windows og router og svo er ég með no password access að skránum í share center á win 7.\nÉg er búinn að setja upp samba sem ég þurfti upprunalega að gera þegar að ég activate-aði sharing í ubuntu.\nEr eitthvað sem ykkur dettur í hug \nKv. Gísli",
+            "date": "2010-07-22 20:37:00",
+            "post_id": "272979",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "kizi86",
+            "text": "lestu vel yfir þessa siðu : \nhttp://ubuntuforums.org/showthread.php?t=1169149",
+            "date": "2010-07-27 00:29:00",
+            "post_id": "273571",
+            "reply_to_id": "272979"
+        }
+    ],
+    "date": "2010-07-22 20:37:00"
+}

@@ -1,0 +1,79 @@
+{
+    "forum_title": "Windows",
+    "id": "8956",
+    "title": "Harður diskur sem removable hardware?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=8956",
+    "posts": [
+        {
+            "user_name": "zaiLex",
+            "text": "ég var að fá mér WD 250gb SE 16mb SATA (wd2500ks) sem ég installaði windows á, það er allt í góðu lagi með það nema að neðst í hægra horninu er svona \"safely remove hardware\" icon sem er alltaf þegar usb tæki eru tengd, nema þetta icon tengist ekkert usb tæki heldur harða disknum, þegar ég ýti á takkann þá kemur auðvitað \"The device cannot be stopped right now\" því ég er að nota windowsið á disknum. \n\n\n\nÞegar ég fer í properties á disknum í my computer -> hardware -> properties á disknum þar og þaðan í policies eru öðruvísi stillingar heldur á hinum hörðu diskunum, þar er hægt að velja annaðhvort \"Optimize for quick removal\" eða \"Optimize for performance\", hvort sem ég er með valið þá er þetta icon ennþá til staðar. Diskurinn er reyndar með bókstafinn E: en ekki C:, veit ekki hvort það tengist eitthvað, annars ef ég ætla að switcha þessum bókstöfum á diskunum verður þá ekki vesen með boot?\n\n\n\nboot.ini lítur svona út\n\n\n\n[boot loader]\n\ntimeout=30\n\ndefault=multi(0)disk(0)rdisk(2)partition(1)\\WINDOWS\n\n[operating systems]\n\nmulti(0)disk(0)rdisk(2)partition(1)\\WINDOWS=\"Microsoft Windows XP Professional\" /noexecute=optin /fastdetect\n\n\n\n\n\nmyndi ég þurfa að breyta rdisk í 0 á báðum stöðunum? eða fígúrar windows þetta út sjálft? Ég er hræddur um að klúðra einhverju og komast ekki aftur inní windows.",
+            "date": "2005-11-08 22:49:00",
+            "post_id": "95920",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Hmm, nú skil ég ekki alveg hvað vandamálið er hjá þér.\n\nEn það er alveg eðlilegt að þetta komi fram í „Safely remove hardware“ þar sem að (sumir a.m.k.) SATA diskar eru hot-swapable, þ.e. styðja það að tengjast og aftengjast tölvunni á meðan hún er í gangi.",
+            "date": "2005-11-08 23:54:00",
+            "post_id": "95927",
+            "reply_to_id": "95920"
+        },
+        {
+            "user_name": "zaiLex",
+            "text": "Núnú, vissi það ekki, þetta icon fer allavegana í taugarnar á mér, er hægt að taka það í burtu? Og geturu svarað seinni spurningunni minni?",
+            "date": "2005-11-09 02:10:00",
+            "post_id": "95929",
+            "reply_to_id": "95927"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Ég hef því miður aldrei unnið í tölvu sem er með hot-swap SATA disk, og veit því ekki hvort/hvernig hægt er að losna við þetta. En ég myndi prófa að kíkja í properties á harða disknum í Device Manager.\n\n\n\nTil að svara seinni spurningunni þinni, þá áttu ekki að þurfa að breyta boot.ini þótt að þú ætlir að breyta um drive letter á hörðum diskum. boot.ini skráin tilgreinir nákvæma staðsetningu disksneiðanna sem stýrikerfið er á, en drive letter er bara nafn á þessum disksneiðum sem boot.ini fer ekkert eftir. En einhver shortcut gætu fokkast upp.\n\n\n\nÉg er svona 99% viss á þessu um boot.ini, en endilega bíddu eftir því að einhver bakki mig upp í þessu áður en þú framkvæmir.",
+            "date": "2005-11-09 10:17:00",
+            "post_id": "95935",
+            "reply_to_id": "95929"
+        },
+        {
+            "user_name": "gumol",
+            "text": "boot.ini notar ekki drive letters, ég get bakkað það upp \n\n\n\n\nÉg giska á að þú þurfir að stilla biosið þannig það booti af nýja diskinum en ekki þeim gamla ef ég skil þetta rétt.",
+            "date": "2005-11-09 10:40:00",
+            "post_id": "95936",
+            "reply_to_id": "95935"
+        },
+        {
+            "user_name": "zaiLex",
+            "text": "rdisk0= c:\n\nrdisk1= d:\n\nrdisk2= e:\n\n\n\nekki rétt?",
+            "date": "2005-11-09 12:59:00",
+            "post_id": "95940",
+            "reply_to_id": "95936"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Við vitum það ekki, þú verður að finna það út",
+            "date": "2005-11-09 13:00:00",
+            "post_id": "95941",
+            "reply_to_id": "95940"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Alls ekkert sjálfgefið að það sé þannig. Endilega sendu okkur screenshot af Disk Management og við getum sagt þér hvað er hvað.",
+            "date": "2005-11-09 16:46:00",
+            "post_id": "95952",
+            "reply_to_id": "95941"
+        },
+        {
+            "user_name": "DoRi-",
+            "text": "e´g var með rdisk (0) en samt með E: fyrir windowsið hjá mér",
+            "date": "2005-11-09 17:27:00",
+            "post_id": "95959",
+            "reply_to_id": "95952"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Já, einsog ég segi þá eru drive letters bara nöfn sem hægt er að gafa hvaða disksneið sem er, og eru því enginn bein tengsl á milli þess hvaða disksneið hefur hvaða bókstaf. En ef að þið eruð að pæla í því hvað er hvað hjá ykkur, getið þið kíkt í disk management, og ég held að kerfið sé einsog ég sýni á meðfylgjandi mynd.",
+            "date": "2005-11-09 18:50:00",
+            "post_id": "95974",
+            "reply_to_id": "95959"
+        }
+    ],
+    "date": "2005-11-08 22:49:00"
+}

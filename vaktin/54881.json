@@ -1,0 +1,65 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "54881",
+    "title": "Íslenskir proxy serverar?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=54881",
+    "posts": [
+        {
+            "user_name": "capteinninn",
+            "text": "Ég er að spá að prófa svona proxy tengingu við útlönd til að sjá um erlenda downloadið hjá mér.\nÆtlaði að ná í Battlefield 3 og sá þá að ég er kominn langleiðina með erlenda niðurhalið hjá mér og það notar enginn á heimilinu torrent, hefur líklega verið Steam því ég hef ekki notað það lengi vel en þegar ég opnaði það um daginn sá ég það byrja að ná í einhverjar uppfærslur en ég spáði ekkert meira í því.\nHvaða fyrirtæki mæliði með? Sá að Lokun er t.d. með betu á þessu hjá sér en eru einhverjir aðrir sem ég ætti að vera að skoða, er líka að spá að fá mér Roku box og þá væri gott að geta notast við eitthvað af þessum erlendu þjónustum ef ég gæti.",
+            "date": "2013-05-06 21:57:00",
+            "post_id": "509463",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ég er með VPN hjá Netsamskiptum, ágætis hraði oft á tímum. Ég veit þó ekki hvernig þú ætlar að nota þetta fyrir Roku, það væri þá ekki nema að vera með router sem er settur upp með DD-WRT og traffíkar nær allri umferð út með OpenVPN tengingunni.",
+            "date": "2013-05-06 22:03:00",
+            "post_id": "509467",
+            "reply_to_id": "509463"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Roku dæmið væri bara skemmtilegt en er ekki nauðsynlegt. Hvernig hraða erum við að tala um hjá Netsamskiptum ?",
+            "date": "2013-05-06 22:05:00",
+            "post_id": "509468",
+            "reply_to_id": "509467"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Ég sendi Netsamskiptum email og þeir sögðu að ég gæti ekki stillt hvað ég vildi að færi á vpn-ið þeirra og hvað ekki sem er frekar mikill dealbreaker fyrir mér.\nSá að Lokun er með þetta hjá sér en er að spá hvort einhverjir fleiri hafi þennan möguleika. Lokun virðist ekki vera með fleiri beta lykla til að gefa út til að prófa þetta hjá þeim",
+            "date": "2013-05-11 15:51:00",
+            "post_id": "510153",
+            "reply_to_id": "509468"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Þú getur víst stjórnað því hvað fer í gegnum VPN-inn og hvað ekki, það er þó ekki hverjum sem er gefið að stilla það svo að þessvegna var svarið fra nwc líklegast einfalt nei.\nLestu þér til um routing og openvpn.",
+            "date": "2013-05-11 19:08:00",
+            "post_id": "510178",
+            "reply_to_id": "510153"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Sá hjá Lokun að þeir eru með leiðbeiningar um hvernig maður fer að þessu með OpenVPN og ég hugsa að ég geti mixað mig í gegnum það.\nEr með VPN betuna hjá Lokun en það dettur inn og út hjá þeim, ætla að prófa Netsamskipti á morgun og sjá hvernig það gengur hvort ég fái ekki góðan hraða þar.\nEr með mjög fínan hraða hjá mér eftir að ég boraði gat á vegginn hjá mér til að beintengja tölvuna við routerinn og held að VPN-ið muni alveg hafa fínan hraða hvorteðer.",
+            "date": "2013-05-15 02:06:00",
+            "post_id": "510721",
+            "reply_to_id": "510178"
+        },
+        {
+            "user_name": "benediktkr",
+            "text": "Hvernig ertu að detta inn og út? Geturðu sent mer loggana?\nForritið frá okkur (gefið að þú notir windows) býður þér upp á að nota bara vpn fyrir erlenda umferð. Skoðaðu svo aðal þráðin ef þú hefur áhuga á að bara tengja eitt forrit við VPNið okkar.",
+            "date": "2013-05-15 10:31:00",
+            "post_id": "510744",
+            "reply_to_id": "510721"
+        },
+        {
+            "user_name": "benediktkr",
+            "text": "Búinn að fá PM frá hannesstef og bilanagreina. Vill þakka honum fyrir og nota tækifærið til að segja ykkur að ef þið eruð í vandræðum með Lokun endilega senda mér PM svo við getum komist að því hvað er að",
+            "date": "2013-05-15 13:41:00",
+            "post_id": "510776",
+            "reply_to_id": "510744"
+        }
+    ],
+    "date": "2013-05-06 21:57:00"
+}

@@ -1,0 +1,86 @@
+{
+    "forum_title": "Yfirklukkun, hraðaprófanir og mods",
+    "id": "1582",
+    "title": "enn um yfir klukkun",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=1&t=1582",
+    "posts": [
+        {
+            "user_name": "viggib",
+            "text": "Er þetta í lagi minnið er komið frekar hátt?\n\ncpu er ekki nema ca.26-28 í idl.",
+            "date": "2003-09-19 22:06:00",
+            "post_id": "13856",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "viggib",
+            "text": "Sandra",
+            "date": "2003-09-19 22:10:00",
+            "post_id": "13857",
+            "reply_to_id": "13856"
+        },
+        {
+            "user_name": "elv",
+            "text": "Klukka meira",
+            "date": "2003-09-20 07:20:00",
+            "post_id": "13868",
+            "reply_to_id": "13857"
+        },
+        {
+            "user_name": "Damien",
+            "text": "Spurning með að setja FSB og minnið í sinc. Þá er minnið á 153mhz = 306mhz (ddr). Þá kemstu hærra án þess að fara mikið upp með cas'ið.",
+            "date": "2003-09-20 16:59:00",
+            "post_id": "13888",
+            "reply_to_id": "13868"
+        },
+        {
+            "user_name": "viggib",
+            "text": "Sæll.\n\nEg prófaði þetta minnið er komið í 204.\n\nEr með msi-neo 875 borð og það virðist taka völdin af mér.\n\nPs.3.5 hrundi í memtest 3.2 stöðugt.",
+            "date": "2003-09-20 17:23:00",
+            "post_id": "13892",
+            "reply_to_id": "13888"
+        },
+        {
+            "user_name": "Damien",
+            "text": "ertu með FSB á 204? Er örrinn á 3876MHz???\n\n\n\n\n\nHvað er 3.5 og 3.2? Örrinn?\n\nHvernig kælingu ertu með?",
+            "date": "2003-09-20 17:31:00",
+            "post_id": "13893",
+            "reply_to_id": "13892"
+        },
+        {
+            "user_name": "viggib",
+            "text": "örrinn á 3500MHz minni á 2x 205Mhz (410Mhz data rate)\n\nHrundi í memtest enn virðist  stöðugur á 3200Mhz.\n\nKæling:Thermaltake P4 Spark 7+",
+            "date": "2003-09-22 11:24:00",
+            "post_id": "14035",
+            "reply_to_id": "13893"
+        },
+        {
+            "user_name": "odinnn",
+            "text": "bíddu hvernig overclockar þú eiginlega? hækkaru ekki fsb um 1-2 í einu? hvað meinaru með að tölvan sé stöðug í 3200mhz en ekki ekki í 3500mhz, maður á ekki að stökkva svona hátt í einu ef þú gerir það.",
+            "date": "2003-09-24 17:14:00",
+            "post_id": "14166",
+            "reply_to_id": "14035"
+        },
+        {
+            "user_name": "viggib",
+            "text": "Ég notaði nú bara Core Center auto clock dæmið.\n\nFylgir með Msi-Neo borðinu.",
+            "date": "2003-09-24 17:57:00",
+            "post_id": "14173",
+            "reply_to_id": "14166"
+        },
+        {
+            "user_name": "Damien",
+            "text": "Þú \"getur\" sko skemmt eikkað ef þú tekur svona stór stökk í einu...\n\nÉg myndi reyna að oc minna í einu, t.d. 1-2MHz í FSB í einu... (c.a. 19-28 MHz á örgjörva)\n\nÞá geturu fundið hinn gullna meðalveg...",
+            "date": "2003-09-24 19:23:00",
+            "post_id": "14183",
+            "reply_to_id": "14173"
+        },
+        {
+            "user_name": "viggib",
+            "text": "Core Center klukkaði þangað til tölvan endurræsti sig.\n\nOg bootaði upp með örrann á 3.5 Ghz en endurræsti  þegar ég keyrði memtest.\n\nÉg lækkaði þá fsb Cpu=3.2Ghz og keyrði memtest OK.",
+            "date": "2003-09-24 20:31:00",
+            "post_id": "14192",
+            "reply_to_id": "14183"
+        }
+    ],
+    "date": "2003-09-19 22:06:00"
+}

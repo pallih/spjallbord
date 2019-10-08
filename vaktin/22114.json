@@ -1,0 +1,58 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "22114",
+    "title": "SSD - Solid State Drive",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=22114",
+    "posts": [
+        {
+            "user_name": "Tiger",
+            "text": "Góðan daginn... var að velta fyrir mér hvort einhver hefur prufað að setja stýrikerfið sitt upp á svona disk og hvernig öll almenn vinnsla í tölvunni sé eftir svoleiðis update. Veit þetta kostar sitt og að það eru misjafnar umsagnir um þetta á netinu, en vildi bara frá svona real world comment frá þeim sem hafa prufað þetta. \nVæri forvitnilegt að setja upp dual boot og prufa þetta á svona disk \nhttp://www.tolvutek.is/product_info.php?cPath=1_43_46&products_id=19696",
+            "date": "2009-03-13 09:57:00",
+            "post_id": "200753",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Dagur",
+            "text": "http://www.youtube.com/watch?v=96dWOEa4Djs&fmt=22",
+            "date": "2009-03-13 11:28:00",
+            "post_id": "200759",
+            "reply_to_id": "200753"
+        },
+        {
+            "user_name": "Tiger",
+            "text": "Ég veit það er til allskonar reviews á þessu útum allt internet með slæmum og góðum dómum, þessvegana spurði ég hvort einhver hérna hefði í raun prufað þetta en ekki til að fá linka á fleirri review.",
+            "date": "2009-03-13 12:34:00",
+            "post_id": "200761",
+            "reply_to_id": "200759"
+        },
+        {
+            "user_name": "lukkuláki",
+            "text": "Ég hef prófað þetta og var engan vegin að fíla það.\nHafði að vísu mjög lítinn tíma til að prófa mig áfram þannig að ég hætti við þetta bara, þetta var einhvern vegin ekki að virka,\nslow motion og leiðinlegt það hlýtur ný að vísu að vera hægt að gera þetta þannig að þetta sé skothelt og flott.\nÉg setti upp nokkrar svona vélar fyrir stóran viðskiptavin og hann var alveg að fíla þetta þannig að ég veit ekki ennþá hvað ég var að gera rangt í hinu tilfellinu. Hef svo ekki nennt að pæla meira í þessu þar sem SSD er svo ógeðslega dýrt.",
+            "date": "2009-03-13 13:09:00",
+            "post_id": "200764",
+            "reply_to_id": "200761"
+        },
+        {
+            "user_name": "mind",
+            "text": "Búinn að setja uppá Soldid state disk og keyri tölvuna þannig núna.\nBara til að gefa hugmynd um hversu mikill munur þá er full uppsett windows XP pro með driverum 11 sek að ræsa sig.\nStaðreyndir:\nRaun skrif og leshraði á 74GB raptor er 70mb á sek (stýrikerfi ræst af sama disk,benchað með ATTO)\nRaun skrif og leshraði á Vertex SSD Disk er 230mb les og 140mb skrif. (stýrikerfi ræst af sama disk,benchað með ATTO)\nReyndar passaði ég mig sérstaklega á að versla diskinn minn annarsstaðar en hlekkurinn vísar í og keypti 60GB útgáfuna.\nKostir:\nÖll svörun verður hraðari í tölvunni , leitir taka sekúntur, Winamp, VLC og firefox ræsa sér samstundis og stama mjög sjaldan.\nLeikir ræsa sig hraðar , tölvan er hljóðlátari og svo mætti lengi telja.\nÓkostir:\nEf þú ert ekki mjög og þá meina ég MJÖG tölvufróður þá geturðu gleymt því að setja þetta uppá tölvu með Windows XP eða Vista.\nBara Windows 7 Beta er fær um að setja SSD disk rétt upp svo hann sé ekki grúthægur!\nTil að SSD virki rétt þarf að keyra ALIGN á hann , Formatta hann rétt og afvirkja öll fítus í Windows sem að drepa endingu og virkni á SSD. Til að nefna nokkur dæmi þá er það prefetch, index servicing, temporary files o.s.f.\nEf þú vilt kynna þér það betur þá geturðu lesið þér flest um þetta allt hérna.\nhttp://www.ocztechnologyforum.com/forum ... 1be2&f=186\nFerlið hjá mér:\nÉg þurfti að smíða 11 útgáfur af Windows XP Pro með Nlite til að ná réttum stillingum fyrir SSD disk, í kringum 20-30 instöll af Windows.\nHeildartími í uppsetningu er svona 35-40klst yfir 2 vikur.",
+            "date": "2009-03-13 14:08:00",
+            "post_id": "200768",
+            "reply_to_id": "200764"
+        },
+        {
+            "user_name": "lukkuláki",
+            "text": "Djöfulsins snillingur ert þú !\nAfsakið orðbragðið",
+            "date": "2009-03-13 15:20:00",
+            "post_id": "200773",
+            "reply_to_id": "200768"
+        },
+        {
+            "user_name": "Tiger",
+            "text": "Ok takk fyrir frábært svar  \n . Spurning hvort maður prufi þá ekki bara að setja Win 7 x64 uppá svona disk og sjá preformið",
+            "date": "2009-03-13 15:53:00",
+            "post_id": "200779",
+            "reply_to_id": "200773"
+        }
+    ],
+    "date": "2009-03-13 09:57:00"
+}

@@ -1,0 +1,107 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "5900",
+    "title": "Vantar að bæta performance smá.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=5900",
+    "posts": [
+        {
+            "user_name": "surtur",
+            "text": "Jæja ok.. málið er að vinur minn er með 64mb GeForce2  kort og 800mhz örgjörva og 400+ í SDram \n Og þetta er ekki alveg að meika það í CS t.d. það sem mig vantar er að vita hvort þið vitið um einhverja sérstaka tweaka eða einhvað til að bæta performance án þess að steikja einhvað og gera leikinn alltof ljótann.\n\nOg já.. ekki benda mér á uppfærslur",
+            "date": "2004-10-08 20:05:00",
+            "post_id": "59709",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "goldfinger",
+            "text": "ég ætla nú samt að benda þér á að uppfæra",
+            "date": "2004-10-08 20:19:00",
+            "post_id": "59710",
+            "reply_to_id": "59709"
+        },
+        {
+            "user_name": "surtur",
+            "text": "neiii.. og btw. þetta er vinur minn.. tölvan min er i undirskriftinni",
+            "date": "2004-10-08 21:13:00",
+            "post_id": "59714",
+            "reply_to_id": "59710"
+        },
+        {
+            "user_name": "ErectuZ",
+            "text": "Ég tek því að þú sért að meian CS: Source, og ef það er málið, lestu þá þetta:",
+            "date": "2004-10-08 21:49:00",
+            "post_id": "59718",
+            "reply_to_id": "59714"
+        },
+        {
+            "user_name": "Grobbi",
+            "text": "farðu í counter-strike farðu svo í console skrifaðu fps_max 101. net_graph 3\n\nef þú færð bara 60 fps getturu downloadað ReForce forritinu til að hækka hz í skjánum mæli með að hækka bara cs upplaustnina 100hz+ A.T.H. gettur rustað skjánum eða bræt ur honum !!\n\ngettur lika farið í Properties > Settnings > skjákort nafn > OpenGL > V syns > always off.\n\nenn ef þú ert með stillt skjáinn í 100hz+ myndi ég hafa on í v syns\n\nfarðu í cs og í options video Render: OpenGL, Display mode: Normal, Colar Quality: 16 bit, Upplaustn: 640-1024\n\nsvo líka í Dekstopinu stilla 16 bit ! \n\n\nsvo stilla net stillingarnar í CS mæli með rate 25000, cl_updaterate 101, cl_cmdrate 101 þetta eru svona lan stillingarnar\n\n//\n\nHægri klikkaðu á dekstopið Properties > Settnings > Advanced > skjákort nafn\n\nPerformance & Quality settnings > settu Antialiasing - OFF > Apply\n\nGettur lika stillt Image Settnings > High Performance",
+            "date": "2004-10-08 22:24:00",
+            "post_id": "59721",
+            "reply_to_id": "59718"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Eruði virkilega að sjá mun á 60FPS of 100FPS?",
+            "date": "2004-10-08 22:49:00",
+            "post_id": "59722",
+            "reply_to_id": "59721"
+        },
+        {
+            "user_name": "goldfinger",
+            "text": "ég sé allavega ekki muninn á CS og Helvíti",
+            "date": "2004-10-08 22:52:00",
+            "post_id": "59723",
+            "reply_to_id": "59722"
+        },
+        {
+            "user_name": "dabb",
+            "text": "lol Ég var allveg að spila CS á 533mhz 128mb Sdram, Intel Graphics controller. Kannski það sé einhvað þyngra núna veit ég ekki  :P",
+            "date": "2004-10-08 23:00:00",
+            "post_id": "59725",
+            "reply_to_id": "59723"
+        },
+        {
+            "user_name": "fallen",
+            "text": "Einsog drulli sagði hérna fyrir nokkru:",
+            "date": "2004-10-08 23:47:00",
+            "post_id": "59732",
+            "reply_to_id": "59725"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Svo er víst sagt, ég hef lítið verið að horfa á FPS, en ég man að mér fannst ekkert að því að vera með 20FPS, þangað til að ég spilað soldið með 60FPS og skildi ekkert hvernig ég hafði þolað þetta slideshow áður.\nAthugaðu einnig að þú verður náttla að stila skjáinn á 100Hz(in-game) til þess að sjá mun á 60 og 100FPS\nEf að ég skildi þetta rétt(þér finnst CS ekki skemmtilegur og vilt endilega að við vitum það), þá vill ég minna á það er illa séð, og leiðir oft af sér leiðinlegar umræður þegar menn fara drulla yfir tölvuleikina sem aðrir eru að tala um. Ef ég man rétt þá var einn fyrir sotlu sem var bannaður fyrir almennan þursaskap og leiðindi hérna, m.a. af því að hann fór alltaf að segja hvað BF væri miklu betri en CS, þegar menn voru að tala um CS.\nSýnist þetta annars vera í gríni hjá þér, vildi bara fyrirbyggja svona leiðindi.\n\n\nJamm, ég var með svipuð spekks og var sáttur þegar maður var að spila 1.0. En 1.6 er orðinn miklu meira grapics intensive........",
+            "date": "2004-10-09 00:13:00",
+            "post_id": "59742",
+            "reply_to_id": "59732"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Augun í þér eru ekkert gerð fyrir 100til200 fps action",
+            "date": "2004-10-09 00:20:00",
+            "post_id": "59747",
+            "reply_to_id": "59742"
+        },
+        {
+            "user_name": "surtur",
+            "text": "trúðu mér.. miiiikill munur að vera alltaf með stable 100 fps... \n\nSko ok ég er ekkert að tala um Source-betuna.. ég er að tala um CS og ég kann allar cfg stillingar og flestar svona GeForce vsyncs og einhvað svona og einnig allt um refresh lock og reforce... Takk samt \n það sem ég var að leita af er einhvað svona.. tweak dæmi inni í geforce reklinum eða einhvað þannig..\n\n\n\nVona að ég gegri mig nógu skiljanlegann",
+            "date": "2004-10-09 00:44:00",
+            "post_id": "59751",
+            "reply_to_id": "59747"
+        },
+        {
+            "user_name": "ErectuZ",
+            "text": "Enda hætti CS: Source betan í gær þegar fulli CS: Source kom \n\n\n\n\nEn ég skil þig. Hef bara ekkert verið að spila CS nýlega svo að ég veit ekkert hvað hann þarf til að runna smooth",
+            "date": "2004-10-09 14:43:00",
+            "post_id": "59790",
+            "reply_to_id": "59751"
+        },
+        {
+            "user_name": "Grobbi",
+            "text": "1.5 var láng bestur \n maður gatt runað hann á 633 mhz Celron Geforce 2 mx. og verið með svona 50 - 90 fps !",
+            "date": "2004-10-09 16:16:00",
+            "post_id": "59802",
+            "reply_to_id": "59790"
+        }
+    ],
+    "date": "2004-10-08 20:05:00"
+}

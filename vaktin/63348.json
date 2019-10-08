@@ -1,0 +1,121 @@
+{
+    "forum_title": "Windows",
+    "id": "63348",
+    "title": "Afhverju gerist þetta og hvernig losna ég við þetta?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=63348",
+    "posts": [
+        {
+            "user_name": "HalistaX",
+            "text": "Ég var bara minding my own business og Extracta þátt þegar þetta gerist, þetta er í þriðja skiptið á 12 tímum sem þetta gerist.\nHvernig kem ég í veg fyrir þetta/losna við þetta án þess að endurræsa tölvuna?",
+            "date": "2014-11-23 13:46:00",
+            "post_id": "581004",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "SolviKarlsson",
+            "text": "Gæti verið að þú þyrftir að kaupa WinRAR leyfi?",
+            "date": "2014-11-23 14:01:00",
+            "post_id": "581006",
+            "reply_to_id": "581004"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Uninstallar WinRar og nærð í 7-Zip af því að það er betra",
+            "date": "2014-11-23 14:06:00",
+            "post_id": "581007",
+            "reply_to_id": "581006"
+        },
+        {
+            "user_name": "Frost",
+            "text": "#7zipmasterrace",
+            "date": "2014-11-23 15:41:00",
+            "post_id": "581011",
+            "reply_to_id": "581007"
+        },
+        {
+            "user_name": "Xovius",
+            "text": "En ég sem eyddi svo miklu í þetta helvítis win-rar leyfi :/",
+            "date": "2014-11-25 05:04:00",
+            "post_id": "581161",
+            "reply_to_id": "581011"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Fool me once, shame on you",
+            "date": "2014-11-25 06:31:00",
+            "post_id": "581164",
+            "reply_to_id": "581161"
+        },
+        {
+            "user_name": "playman",
+            "text": "Ég er nokkuð viss um að þetta hafi ekkert með winrar að gera.\nHef fengið þetta oft áður, og var það alltaf eitthvað sem tengdist windowsinu þá sérstaklega þegar að \nmaður var að hægri klikka á hluti eða velja eitthvað í taskbarnum.\nOft virkaði hjá mér að gera sama hlutin aftur, td. fyrir þig þá myndi ég hægri klikka aftur á rarið og gera \nextract aftur og sjá hvort að þetta fari ekki við það, annars ætti bæði log off og restart að losa þig við þetta, ef þú\nert á win7 gæti hugsanlega verið nóg að íta á alt+ctrl+del til þess að losna við þetta, eða hugsanlega að setja \nscreensaverin í gang, bara eitthvað sem lætur windowsið refresha skjá myndinni.",
+            "date": "2014-11-25 11:25:00",
+            "post_id": "581194",
+            "reply_to_id": "581164"
+        },
+        {
+            "user_name": "snaeji",
+            "text": "Já eða enda explorer.exe í processes og fara í file og run - explorer.exe til þess að kveikja á honum aftur.\nSparar restart",
+            "date": "2014-11-25 14:49:00",
+            "post_id": "581220",
+            "reply_to_id": "581194"
+        },
+        {
+            "user_name": "Sultukrukka",
+            "text": "Hef lent í svipuðu dæmi og þá hafði ég gleymt að henda út Nvidia driverum og öllum þeim stjórnpanelum sem því fylgja eftir að ég skipti yfir í AMD kort.\nNotaði eitthvað driver cleanup tól og eftir það hefur þetta virkað þrælfínt.",
+            "date": "2014-11-25 16:57:00",
+            "post_id": "581227",
+            "reply_to_id": "581220"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Í 99.9% tilfella nægir að finna aftur aðgerðina sem kallar boxið upp og setja músina yfir (nú alvöru) boxið og taka hana svo af. \nT.d. ef Toolbar menuið hjá Teamviewer festist opið er nóg að hægri klikka aftur á Teamviewer og fara með músina yfir það og svo af því.\nRestart er algjört overkill.",
+            "date": "2014-11-25 21:49:00",
+            "post_id": "581258",
+            "reply_to_id": "581227"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Spurning um að fá sér annað og betra stýrikerfi þar sem þú þarft ekki að vera með einhverjar hundakúnstir",
+            "date": "2014-11-25 23:22:00",
+            "post_id": "581268",
+            "reply_to_id": "581258"
+        },
+        {
+            "user_name": "HalistaX",
+            "text": "Takk fyrir no-hating-on-Winrar kommentið þitt. \nAnnars virkar ctrl+alt+del ekki, Log off virkar en þá missi ég allt progress og það sem ég er búinn að loada inní VLC(Pjúra leti hví ég nenni ekki að gera log off) Annars gerðist þetta allavegana 3x í dag, µtorrent og Winrar. Það virkar ekki heldur að gera sama hlutinn aftur. Nota Windows 7 btw. \nEr með eitt svona á skjánum núna, fer endalaust í taugarnar á mér. \nÉg er mjög forvitinn að vita hví þetta gerist, ég er ný búinn að skanna tölvuna mína og eyða allskonar malwares, Hún er alls ekki hæg tölvan, SSD, 8gb ram... I just do not get it.",
+            "date": "2014-11-29 19:00:00",
+            "post_id": "581751",
+            "reply_to_id": "581268"
+        },
+        {
+            "user_name": "HalistaX",
+            "text": "Þetta færi líka í taugarnar á ykkur!",
+            "date": "2014-11-29 19:42:00",
+            "post_id": "581757",
+            "reply_to_id": "581751"
+        },
+        {
+            "user_name": "Hannesinn",
+            "text": "Fyrsta guess væri að uppfæra drævera.",
+            "date": "2014-11-29 20:09:00",
+            "post_id": "581758",
+            "reply_to_id": "581757"
+        },
+        {
+            "user_name": "playman",
+            "text": "OK prófaðu þetta.\nCopy paste í run (search) í start takkanum\nKóði: \nVelja allt\n%windir%\\system32\\SystemPropertiesPerformance.exe\nog hakaðu úr Fade out menu items after clicking.",
+            "date": "2014-11-29 22:39:00",
+            "post_id": "581772",
+            "reply_to_id": "581758"
+        },
+        {
+            "user_name": "HalistaX",
+            "text": "Done, þá er það bara að bíða og sjá, takk fyrir",
+            "date": "2014-11-29 22:56:00",
+            "post_id": "581775",
+            "reply_to_id": "581772"
+        }
+    ],
+    "date": "2014-11-23 13:46:00"
+}

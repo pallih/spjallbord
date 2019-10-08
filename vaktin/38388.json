@@ -1,0 +1,58 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "38388",
+    "title": "64 bita Flash og út með npviewer.bin",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=38388",
+    "posts": [
+        {
+            "user_name": "kusi",
+            "text": "Sælir,\nEftir að hafa bölvað fartölvunni minni mikið fyrir að vera heit ákvað ég að leita lausna sem gætu hjálpað til við að kæla hana. Við konan mín erum með samskonar tölvur nema ég keyri Ubuntu 10.10 en hún Windows 7. Það er sorglegt að segja frá því að hennar tölva er mun svalari en mín. Það hlaut því að vera að hugbúnaðar uppsetningin hjá mér (lesist: það að ég væri að keyra Linux) hlyti að hafa eitthvað með hitann að gera.\nÉg sett upp hjá mér PowerTop (\nhttp://www.lesswatts.org/projects/powertop/\n) sem er forrit sem sýnir hversu mikið ýmis forrit eða \"processes\" eru að \"vekja upp\" örgjörvann, semsagt koma í veg fyrir að hann hvíli sig og nái þar með að kólna. PowerTop stakk upp á mörgum úrbótum, nóg var að smella á viðeigandi bókstaf og PowerTop leysti vandann. Það hjálpaði mikið en enn var þó eitt sem virtist stöðugt vera að trufla: npviewer.bin.\nÞennan fjanda þurfti að losna við. Þetta forrit, npviewer.bin, er sumsé Flash plugin sem virðist vera í gangi og nota örgjörvann jafnvel þó ekkert Flash sé í gangi. Áður hafði ég sérstaklega sett upp Flash block í Firefox þar sem Flash var á tímum nærri því að grilla tölvuna mína af hita. Nú kemur í ljós að það dugar ekki til, npviewer.bin er þrátt fyrir það í gangi, og það þó ég sé ekki með neitt Flash efni í gangi! Þetta verður að stöðva.\nÞegar ég fer að gúgla kemur í ljós að komin er út ný Flash viðbót frá Adobe sem er 64 bita og er að sögn að einhverju leiti skilvirkari en hin. Það er bara ein leið að komast að því hvort það er satt.\nSkrefin sem ég tók:\n1) Loka vafranum\n2) Taka út gamla Flash\nÍ Synaptic er pakki sem heitir \"flashplugin-installer\". Honum henti ég út. Þetta skildist mér að væri 32 bita útgáfa sem keyrir í gegnum eitthvað kerfi sem heitir \"nspluginwrapper\" og gerir þér kleyft að keyra 32 bita plugin í 64 bita stýrkerfi.\nHér notaði ég GUI svo ég er ekki með neina skipun til að gera þetta.\n3) Setja inn nýtt Flash\nSæḱja skrána, afþjappa henni og að lokum setja á réttan stað\nKóði: \nVelja allt\nwget http://download.macromedia.com/pub/labs/flashplayer10/flashplayer10_2_p3_64bit_linux_111710.tar.gz\ntar zxvf flashplayer10_2_p3_64bit_linux_111710.tar.gz\nsudo cp libflashplayer.so /usr/lib/mozilla/plugins/libflashplayer.so\n4) Ræsa vafrann aftur og vona að ekkert springi\nOg að lokum, hvernig hefur þetta reynst? Enn sem komið er hef ég ekki mikla reynslu af þessu en í fljótu bragði eru niðurstöðurnar á þá leið að í stað þess að vera með Flash í sér \"process\" að nota örgjörvann hefur virknin flust yfir í Firefox \"processinn\". Firefox virðist þar með einfaldlega nota örgjörvan meira. Kostirnir ættu þó að vera þeir að ef ég loka Firefox ætti þessi npviewer.bin ekki lengur að vera að trufla mig...\nEn hvað segið þið? Hafið þið einhverja reynslu af þessu?",
+            "date": "2011-05-07 13:52:00",
+            "post_id": "346966",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Einskorðast þetta bara við Firefox eða er þetta eins í Chromium / Chrome?\nGætir prófað að nota GNASH í staðinn fyrir adobe flashplayer þótt það sé kannski ekki besta lausnin.",
+            "date": "2011-05-07 14:09:00",
+            "post_id": "346971",
+            "reply_to_id": "346966"
+        },
+        {
+            "user_name": "aevar86",
+            "text": "Gætir líka disablað flash á meðan þú ert ekki á youtube.. ekki mikill missir þessar auglýsingar",
+            "date": "2011-05-31 20:09:00",
+            "post_id": "352506",
+            "reply_to_id": "346971"
+        },
+        {
+            "user_name": "tdog",
+            "text": "Youtube býður upp á \nhtml5\n. Flash ætti því að vera óþarfi!",
+            "date": "2011-05-31 20:13:00",
+            "post_id": "352508",
+            "reply_to_id": "352506"
+        },
+        {
+            "user_name": "aevar86",
+            "text": "Held að þetta dugi ekki fyrir vídjó með auglýsingum á, eða það var allavega þannig þegar ég skráði mig í html5 testið.",
+            "date": "2011-05-31 20:15:00",
+            "post_id": "352509",
+            "reply_to_id": "352508"
+        },
+        {
+            "user_name": "tdog",
+            "text": "Já reyndar...",
+            "date": "2011-05-31 20:21:00",
+            "post_id": "352512",
+            "reply_to_id": "352509"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Spilar bara youtube myndbönd með mplayer og sleppir því að setja upp flash.\nhttps://github.com/trizen/youtube-viewer\nVirkar á öll youtube myndbönd, og allar upplausnir.",
+            "date": "2011-05-31 21:16:00",
+            "post_id": "352533",
+            "reply_to_id": "352512"
+        }
+    ],
+    "date": "2011-05-07 13:52:00"
+}

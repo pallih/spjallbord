@@ -1,0 +1,100 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "39350",
+    "title": "Dreifa 3G neti úr símanum fyrir tölvur?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=39350",
+    "posts": [
+        {
+            "user_name": "htdoc",
+            "text": "Góða kvöldið vaktarar.\nNú er málið að stemt er að hafa lan uppí bústað og gott væri að vera með net þarna.\nÉg hafði 2 ófullkomnar leiðir:\n1. Nota 3G í símanum, kaupa áskrift í einn mánuð sem er 4 eða 5 GB og kostar 2þ. kall, en spurningin er hvernig ég get látið tölvurnar tengjast netinu. Ég las að hægt væri að nota netið úr símanum í fartölvu með því að nota bluetooth en það er ekki bluetooth í öllum tölvunum, get ég tengt símann við eina tölvu og linksey (hub orsom) við tölvuna og dreift netinu þannig?\n2. Fjölskyldan er með 3G netlykil og hægt væri að auka áskriftina í einn mánuð en hvernig get ég dreift netinu fyrir fleiri tölvur en eina?\n- Og loka pælingin, haldiði að 3G væri of hægt net fyrir lan? Bústaðurinn er í Grímsnesinu\nAllar ábendingar eða comment eru vel þegin  \n \nKveðja, Óli",
+            "date": "2011-06-19 21:32:00",
+            "post_id": "357354",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "izelord",
+            "text": "Getur verslað 3G --> Wifi-AP í t.d. Vodafone: \nhttp://www.vodafone.is/netverslun/nettenglar/mifi\nEf þú ert með Android 2.2+ síma þá er líka app í þeim símum sem gerir það sama.",
+            "date": "2011-06-19 21:39:00",
+            "post_id": "357358",
+            "reply_to_id": "357354"
+        },
+        {
+            "user_name": "htdoc",
+            "text": "Vissi af þessu tæki, en okkur langar að spara og ekki eyða einhverju yfir 5þ.\nen ég er einmitt með Android 2.2.2, veistu hvað þannig app heitir, veit ekki alveg hvaða orð ég að nota til að search-a  \n \nen takk fyrir ábendinguna",
+            "date": "2011-06-19 22:01:00",
+            "post_id": "357369",
+            "reply_to_id": "357358"
+        },
+        {
+            "user_name": "izelord",
+            "text": "\"Portable Wi-Fi Hotspot\"",
+            "date": "2011-06-19 22:07:00",
+            "post_id": "357370",
+            "reply_to_id": "357369"
+        },
+        {
+            "user_name": "arnif",
+            "text": "settings - wireless & networks - Portable Wi-Fi hotspot",
+            "date": "2011-06-19 22:08:00",
+            "post_id": "357372",
+            "reply_to_id": "357370"
+        },
+        {
+            "user_name": "htdoc",
+            "text": "Snillingar! Takk kærlega fyrir",
+            "date": "2011-06-19 22:14:00",
+            "post_id": "357375",
+            "reply_to_id": "357372"
+        },
+        {
+            "user_name": "htdoc",
+            "text": "En hvað segiði, hafiði eitthvað álti á þessu",
+            "date": "2011-06-19 22:19:00",
+            "post_id": "357377",
+            "reply_to_id": "357375"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Bara ágiskun, án þess að hafa prófað þetta, þá held ég að latency-ið á 3G neti sé frekar hátt og geti valdið því að þú náir frekar lélegu pingi í netleikjum.\nGetur vel verið að þetta sé vitleysa hjá mér.",
+            "date": "2011-06-19 22:40:00",
+            "post_id": "357397",
+            "reply_to_id": "357377"
+        },
+        {
+            "user_name": "Klaufi",
+            "text": "Tek undir allt nema smáa letrið.\nHef ekki prufað netleiki en hef mikið notað 3g net í Grafningnum..",
+            "date": "2011-06-19 22:42:00",
+            "post_id": "357399",
+            "reply_to_id": "357397"
+        },
+        {
+            "user_name": "Black",
+            "text": "geturu ekki bridge-að bara connection með netsnúru og spilað local ?",
+            "date": "2011-06-19 22:45:00",
+            "post_id": "357401",
+            "reply_to_id": "357399"
+        },
+        {
+            "user_name": "htdoc",
+            "text": "jú en okkur langar að spila Starcraft2 í gegnum netið.\nKlaufi: Heldurðu að það verði vesen að spila SC2 með þessu?",
+            "date": "2011-06-19 22:52:00",
+            "post_id": "357405",
+            "reply_to_id": "357401"
+        },
+        {
+            "user_name": "tdog",
+            "text": "Hvað eigum við að segja, þú ert kannski að kaupa 5Mb tengingu á svona græju, svo ertu kannski ekki með fullt samband eða bara léleg skilyrði á gemsanum. Ég gef þessu litla möguleika.",
+            "date": "2011-06-19 23:44:00",
+            "post_id": "357433",
+            "reply_to_id": "357405"
+        },
+        {
+            "user_name": "Minuz1",
+            "text": "með svona 800ms ping á erlenda servera, frekar mikið packet loss (fer eftir fjarlægð frá sendi) þetta er bara fínt fyrir vefráp.",
+            "date": "2011-06-19 23:54:00",
+            "post_id": "357437",
+            "reply_to_id": "357433"
+        }
+    ],
+    "date": "2011-06-19 21:32:00"
+}

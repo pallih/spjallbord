@@ -1,0 +1,37 @@
+{
+    "forum_title": "Windows",
+    "id": "4995",
+    "title": "Vandræði með hljóð og mynd",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=4995",
+    "posts": [
+        {
+            "user_name": "Birkir",
+            "text": "Ég er búinn að vera að reyna að converta .avi fæl yfir í mpeg2 og skipta honum svo niður í tvo parta með Ulead Videostudio og það gekk bara ágætlega þangað til ég var að horfa á seinni helminginn, þá tók ég nefnilega eftir því að hljóðið syncaði ekki við myndina...  Ég reyndi að skrifa þetta aftur en ekkert gekk, þannig að nú spyr ég ykkur hvort þið hafið einhver ráð við þessu eða vitið um eitthvað annað forrit sem er gott að nota í að converta og skipta mynd niður í tvo hluta ?\n\nMeð von um góð svör",
+            "date": "2004-08-03 14:23:00",
+            "post_id": "50675",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "djjason",
+            "text": "Ég hef lent í svipuðu reyndar ekki með skrár sem ég var að mixa í heldur skrár sem ég náði í annarsstaðar og þá var það vegna þess að ég var ekki með rétt codec upp sett. Td. var með DivX 5 en leysi öll mín mál með því að fara í DivX4.12. Eitthvað í þessum dúr.\n\n\n\nGætir notað forrit eins og GSpot til að sjá hvaða codec skráin þarf nákvæmlega (en þú átt nú kanski að vita það alveg fyrst þí ert að converta sjálfur osfrv......bara uppástunga).",
+            "date": "2004-08-03 14:39:00",
+            "post_id": "50679",
+            "reply_to_id": "50675"
+        },
+        {
+            "user_name": "zaiLex",
+            "text": "Þegar ég var í þessu convert veseni þá prófaði ég fullt af forritum og eftirfarandi hefur reynst best:\n\n\n\nMainConcept MPEG Encoder\n\n\nBesti convertinn sem ég hef prófað, Allt sem þú þarft er í honum, og þú þarft ekki neitt að stilla í einhverju advanced advanced settings \n. Þú fattar þetta allt sjálfur hvernig forritið virkar og þetta er mjög einfalt... ef ekki rtfm \n\n\n\n\navi2vcd\n\n\nEitt mjög lítið og nett tól sem þú þarft að nota með mainconcept forritinu sem fylgir þessu forriti sem heitir bara decompress.exe.\n\n\n\nOk t.d. þú ert með \"mynd.avi\" og ætlar að converta í mpeg2 þá opnaru decompress.exe og velur mynd.avi skrána og decompressar, sem tekur svona 2-3 mín. Decompress forritið býr til NÝJAN file sem þú velur hvert á að fara í tölvunni og sá fæll ætti held ég að vera amk 2x stærri en venjulegi \"mynd.avi\" fællinn. Þegar þessu er lokið opnaru mainconcept forritið og notar nýja fælin sem þú bjóst til (ATH að gamli fællinn er ennþá alveg til staðar, engar áhyggjur yfir því að hafa skemmt hann \n)og convertar úr honum.",
+            "date": "2004-08-03 16:51:00",
+            "post_id": "50694",
+            "reply_to_id": "50679"
+        },
+        {
+            "user_name": "Birkir",
+            "text": "Takk fyrir góð svör... Ég fann út úr þessu með forritunum sem zaiLex benti á",
+            "date": "2004-08-03 17:58:00",
+            "post_id": "50704",
+            "reply_to_id": "50694"
+        }
+    ],
+    "date": "2004-08-03 14:23:00"
+}

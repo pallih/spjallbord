@@ -1,0 +1,79 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "6571",
+    "title": "Sniffa netkerfi..",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=6571",
+    "posts": [
+        {
+            "user_name": "örninn",
+            "text": "sælir ! \n\n\n\nÉg var að spá, þessir gaurar sem eru í þvi að \"sniffa\"! netkerfi.. er einhver sjens að sjá ef að það er gert við mann.. ef að viðkomandi er ekki að gera neitt spes ss. downloda.. er bara þarna til að kikja á postinn sinn og fara vaktina \n.. skilur hann eftir rekjanlega slóð ?",
+            "date": "2004-12-02 18:53:00",
+            "post_id": "68790",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "tms",
+            "text": "heima hjá þér, ?\n\nfáir sem geta sniffað trafíkina þína án þess að vera á localneti hjá þér.",
+            "date": "2004-12-02 19:13:00",
+            "post_id": "68797",
+            "reply_to_id": "68790"
+        },
+        {
+            "user_name": "örninn",
+            "text": "já ég var nú bara að pæla í þessu, i samb. við það hvort að menn skilja eftir sig slóð eða ekki ef að menn eru að sniffa hja stærri fyrirtækjum.. og ef að einhver kæmist á kerfið heima hja manni !",
+            "date": "2004-12-02 19:24:00",
+            "post_id": "68799",
+            "reply_to_id": "68797"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Átti erfitt með að komu þessu frá mér þannig að ég skrifa nokkra punkta:\n\n\n\nSniffarinn\n = sá sem vill „hlera“ samtalið\n\nSamræðuaðilar\n = tölvurnar sem eru að tala saman\n\n\n\n Sniffarinn vera tengdur við netkerfið. Á þó ekki við um þráðlaus netkerfi. Einnig getur sniffarinn sett upp trojan/remote control forrit á netkerfið sjálft sem að hann síðan stjórnar annarsstaðar frá.\n\n\n\n Einungis er hægt að sniffa þá sem eru á sama collission domain og þú. Þ.e. bara hub(einn eða fleiri) á milli annars(eða beggja) samræðuaðila(ns) og sniffarans. Ef að switch/bridge er á milli sniffarans og beggja samræðuaðila getur sniffarinn ekki sniffað*\n\n\n\n Sniffarar skilja ekki eftir sig neina „slóð“ né upplýsingar í loggum* Þó veit ég ekki með manages switch'a sem eru ofar á OSI levelinu(„þróaðri“)\n\n\n\n\n\n* nema með ARP posioning sem að er annar kapítuli\n\n\n\núff, ekkert smá erfitt að koma þessu frá mér. Held að þetta sé nokkurveginn rétt, ef ekki þá endilega comment'ið",
+            "date": "2004-12-02 20:42:00",
+            "post_id": "68816",
+            "reply_to_id": "68799"
+        },
+        {
+            "user_name": "örninn",
+            "text": "amm.. þetta svaraði minni spurningu svona nokkuð vel.. en núna er maður að heyra að það se ekkert mál að cracka þessa WEP key-a með þvi að \"hlusta\" og á endanum brotnar hann og \"hlustandinn\" fær aðgang.. en þetta getur víst tekið fleiri daga hef ég heyrt ef að það er verið að cracka 128 bit dulkóðun.. nota bene þetta er það sem að ég hef heyrt.. ég er ekki að halda þvi fram að þetta se endilega rétt !!",
+            "date": "2004-12-02 21:02:00",
+            "post_id": "68823",
+            "reply_to_id": "68816"
+        },
+        {
+            "user_name": "tms",
+            "text": "ARP poisoning virkar þannig að þú \"gabbar\" switchinn þannig að hann sendir pakka sem eiga að fara á iptölu X á aðra vél sem mundi vera vélin sem er að sniffa. Vélin sem sniffar sér sjálf um að senda pakkan áfram á rétta vél. Er ekki viss um að vélin sem sniffar komi upp í traceroute en það eru til ymis forrit sem fylgjast með arp breytingum og logga ef einhver er að gera eitthvað af sér.\n\nARP poisoning virkar ekki á switcha með static arp tables.",
+            "date": "2004-12-02 21:22:00",
+            "post_id": "68827",
+            "reply_to_id": "68823"
+        },
+        {
+            "user_name": "einarsig",
+            "text": "how to hack a wireless network in 90 min \nhttp://www.oreillynet.com/lpt/a/4081\n\n\n\n\n\n\nlesið og prófið",
+            "date": "2004-12-02 21:30:00",
+            "post_id": "68830",
+            "reply_to_id": "68827"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "jamm, það er víst rétt. Lykillinn ,,resettar\" sig á 10-13MB fresti vegna galla í WEP kerfinu, „128“ eða „64“ bit skiptir víst ekki máli.",
+            "date": "2004-12-02 21:50:00",
+            "post_id": "68842",
+            "reply_to_id": "68830"
+        },
+        {
+            "user_name": "GoDzMacK",
+            "text": "Er nú bara með mac síu, virðist virka.",
+            "date": "2004-12-02 22:16:00",
+            "post_id": "68850",
+            "reply_to_id": "68842"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Góð grein, stutt og hnitmiðuð\n\n\n\nGoDzMacK: þú ættir þá að kíkja á þessa grein",
+            "date": "2004-12-02 23:37:00",
+            "post_id": "68863",
+            "reply_to_id": "68850"
+        }
+    ],
+    "date": "2004-12-02 18:53:00"
+}

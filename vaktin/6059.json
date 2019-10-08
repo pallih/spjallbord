@@ -1,0 +1,121 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "6059",
+    "title": "Switchar og lan",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=6059",
+    "posts": [
+        {
+            "user_name": "Pandemic",
+            "text": "Ég er að halda lan á morgun oft gert það reyndar en fyrsta skipti sem ég þarf að tengja 2 8 porta switcha saman hvernig virkar það ég man t.d á Hub sem ég notaði einu sinni tengdi ég annan hub í sérstakt uplink port en svo er ekki á þessum Micronet switch.\n\nPæla í að nota bara port nr.8 á hvorum switch til að tengja þá saman ef hægt er að nota hvaða port sem er til að tengja saman switchana. \n\n\n\nSmá svona aukaspurning.\n\nHvaða switchum mæliði með t.d fyrir lanparty og svona. Ég hef notað 16 porta NETGEAR hub helvíti lengi hann er rosalega vel byggður allur úr járni og góður í alla staði. Ég er að pæla í góðum switch fyrir 5þús frá 8 portum.\n\nHvernig eru þessir Micronet switchar sem start.is og aðrar verslanir selja?",
+            "date": "2004-10-22 00:10:00",
+            "post_id": "61726",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gumol",
+            "text": "Muna FAQ borðið \n \nhttp://spjall.vaktin.is/viewtopic.php?t=4557\n\n\n\n\nÞú tengir bara venjulega netsnúru td. úr porti 1 í port 1 (skiptir ekki máli hvaða port svo lengi sem það er ekki þetta sér uplink port)",
+            "date": "2004-10-22 00:23:00",
+            "post_id": "61731",
+            "reply_to_id": "61726"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "ég var búinn að kíkja á þetta fannst þetta bara frekar óskýrt\n\n*ekkert disrespect ég er bara tregur* \n\n\n\n\nAnnars hvað segiði með switcha hvað er best og mest fyrir money",
+            "date": "2004-10-22 00:41:00",
+            "post_id": "61734",
+            "reply_to_id": "61731"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Tip of the day: Gott að linka á vöruna.\n\n\n\nhttp://start.is/product_info.php?cPath= ... cts_id=440\n\n\nhttp://start.is/product_info.php?cPath= ... cts_id=441",
+            "date": "2004-10-22 00:44:00",
+            "post_id": "61735",
+            "reply_to_id": "61734"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "nei gumol. þetta er akkúrat öfugt. \n\n\n\ntil að tengja tvo switcha saman. þá á að tengja annaðhvort með crosswired úr venjulegu porti yfir í annað venjulegt, eða með straight-through úr venjulegu porti yfir í uplink.\n\n\n\neina sem upplink gerir er að það breytir pinnaröðinni þannig að það notar snúruna eins og crosswired.",
+            "date": "2004-10-22 07:30:00",
+            "post_id": "61749",
+            "reply_to_id": "61735"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "hmm, þetta datt mér ekki í hug, er einhver á sömu skoðun og hann?",
+            "date": "2004-10-22 13:35:00",
+            "post_id": "61800",
+            "reply_to_id": "61749"
+        },
+        {
+            "user_name": "Major Bummer",
+            "text": "nú.. venjuleg snura fra venjulegu porti i annad venjulegt virkar hja mer.switch i þráðlausum router yfir i annan switch.",
+            "date": "2004-10-22 14:35:00",
+            "post_id": "61817",
+            "reply_to_id": "61800"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Eitt enn ég er sko með 1 switchin tengdan í Netgear hub og annan switch fer það ekki allt í fuck? Það virkar sko að tengja hubinn með venjulegum kapall í switchin þá fæ ég netið allt virkar fínt en hvernig er það ef ég ætla að tengja switchin sem er tengdur við hubinn við hinn switchin. \n\nkannski get ég betur skýrt þetta svona.\n\nSvörtu kassarnir=tölvur",
+            "date": "2004-10-22 14:47:00",
+            "post_id": "61820",
+            "reply_to_id": "61817"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "það gerist ekkert. þú getur tengt þetta endalaust. \n\n\n\nástæðan fyrir því að það virkar hjá þér að tengja með venjulegri snúru á milli er líkegast að switchinn sé með auto sense á það hvort þetta er crosswired eða straight through snúra.\n\n\n\nég var að tengja router og switch saman um daginn, og ég þurfti að tengja í uplink á switchinum.",
+            "date": "2004-10-22 15:01:00",
+            "post_id": "61822",
+            "reply_to_id": "61820"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Þetta reddaðist allt",
+            "date": "2004-10-22 17:05:00",
+            "post_id": "61828",
+            "reply_to_id": "61822"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Eitt sem er frekar furðulegt er það þegar ég er t.d tengdur við switch 1 og annars við switch 2 þá fæ ég frekar lélegan hraða á milli en ef við erum báðir á switch 1 þá fæ ég fullan hraða :S",
+            "date": "2004-10-22 20:51:00",
+            "post_id": "61857",
+            "reply_to_id": "61828"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "áttir þig náttúrulega á því að tengið á milli switch'ana er orðinn að flöskuhálsi ef allir eru t.d. á DC í einu að sækja stuff. Þá deilist þessi 100Mbps(in theory þ.e.) á alla sem eru að reyna að nota hana.",
+            "date": "2004-10-22 23:59:00",
+            "post_id": "61875",
+            "reply_to_id": "61857"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "Vá ég er heimskur \n (eða?) en hver er munurinn á hub og switch?",
+            "date": "2004-10-23 01:36:00",
+            "post_id": "61892",
+            "reply_to_id": "61875"
+        },
+        {
+            "user_name": "Mysingur",
+            "text": "lesa faq",
+            "date": "2004-10-23 01:43:00",
+            "post_id": "61895",
+            "reply_to_id": "61892"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "jamms, ákkúrat það sem ég var að reyna að forðast með því að setja upp þetta FAQ :=/",
+            "date": "2004-10-23 01:51:00",
+            "post_id": "61896",
+            "reply_to_id": "61895"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "ahh, var búinn að lesa þetta... man það núna.. var búinn að gleyma þessu",
+            "date": "2004-10-23 12:36:00",
+            "post_id": "61921",
+            "reply_to_id": "61896"
+        }
+    ],
+    "date": "2004-10-22 00:10:00"
+}

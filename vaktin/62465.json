@@ -1,0 +1,16 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "62465",
+    "title": "pfSense og adsl ?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=62465",
+    "posts": [
+        {
+            "user_name": "tlord",
+            "text": "Hefur einhver nettengt pfSense í gegnum adsl með því að láta adsl módemið vera brú og setja pppoe virknina í pfSense?\nFæ þetta ekki til að virka, er búinn að prófa 2 adsl mismunandi módem, þau virka bæði fínt sem venjulegir adsl ráterar með nat og dhcp.\nÉg setti WAN á pfSense sem pppoe, lét adsl user:pass þar\nLét adsl módem í bridge mode.\nMódemið meldar sig sínkað og tengt, en pfSense nær ekki að tengja WAN.\ner etv betra að láta módemið vera með pppoe? hvernig eru þá stillingar á pfSense og módemi?\nEinhverjar hugmyndir????",
+            "date": "2014-09-17 18:08:00",
+            "post_id": "573628",
+            "reply_to_id": false
+        }
+    ],
+    "date": "2014-09-17 18:08:00"
+}

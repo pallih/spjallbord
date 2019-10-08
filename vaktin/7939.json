@@ -1,0 +1,58 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "7939",
+    "title": "dell dolla sér ekki servera",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=7939",
+    "posts": [
+        {
+            "user_name": "Major Bummer",
+            "text": "var að fá dell dollu sem sér enga servera í leikjum , hvað skal gera ?\n\n\n\nþetta er dell dimension 8400 , intel p4 3.4ghz  1gb ddr2 533  gf6800.\n\nip stillingar eru rétt stilltar.",
+            "date": "2005-04-08 20:42:00",
+            "post_id": "84446",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "Ná í ASE?",
+            "date": "2005-04-08 21:01:00",
+            "post_id": "84447",
+            "reply_to_id": "84446"
+        },
+        {
+            "user_name": "Major Bummer",
+            "text": "úps ég gleymdi víst að taka fram að hún sér net servera en ekki lan servera",
+            "date": "2005-04-08 21:08:00",
+            "post_id": "84448",
+            "reply_to_id": "84447"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "virkar annað á LANinu, t.d. ping?",
+            "date": "2005-04-08 21:59:00",
+            "post_id": "84454",
+            "reply_to_id": "84448"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Er hún í sama workgroup?",
+            "date": "2005-04-08 22:33:00",
+            "post_id": "84457",
+            "reply_to_id": "84454"
+        },
+        {
+            "user_name": "Major Bummer",
+            "text": "annað á laninu virkar (map network drive), hún er í sama workgroup og það er slökkt á windows firewall",
+            "date": "2005-04-08 23:00:00",
+            "post_id": "84459",
+            "reply_to_id": "84457"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Geturðu tengst serverunum með IP tölu?",
+            "date": "2005-04-08 23:30:00",
+            "post_id": "84464",
+            "reply_to_id": "84459"
+        }
+    ],
+    "date": "2005-04-08 20:42:00"
+}

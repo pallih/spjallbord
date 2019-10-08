@@ -1,0 +1,16 @@
+{
+    "forum_title": "Koníakstofan",
+    "id": "80048",
+    "title": "Google Earth í Chrome, WebGL 2.0",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=9&t=80048",
+    "posts": [
+        {
+            "user_name": "mikkimás",
+            "text": "Sælir.\nÍ tölvu hjá vandamanni er Radeon Vega 8 GPU, DirectX11.\nGoogle Earth í Chrome virkar ekki, fæ bara upphafsskjámyndina sem neitar að hlaðast (Loading in progress. 0 of skrilljón tonnum af steinum, o.s.frv.).\nÉg prófaði Google Earth (so-called) Pro, sem kom með meldingu í sambandi við OpenGL eða WebGL, sem sagði mér að vandamálið tengdist skjákortinu.\nÉg gúgglaði smá, kveikti á Hardware Acceleration í Chrome, og fiktaði eitthvað í chrome://flags til að virkja WebGL, hvað svo sem það er.\nEn m.v. gúgglið, þá þarf þetta WebGL 2.0 að vera virkt, sem er bara ekki valkostur í chrome://gpu.\nNúna virkar Google Earth (svokallaða) Pro, en 3d View er alls ekki jafn gott og í Chrome, og ég veit ekki hvort það geti orðið betra.\nEinhverjar hugmyndir hvernig ég get fengið Earth í Chrome til að virka?",
+            "date": "2019-08-24 17:21:00",
+            "post_id": "693167",
+            "reply_to_id": false
+        }
+    ],
+    "date": "2019-08-24 17:21:00"
+}

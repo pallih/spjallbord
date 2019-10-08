@@ -1,0 +1,30 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "72396",
+    "title": "Ljósleiðari á rt-n66u",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=72396",
+    "posts": [
+        {
+            "user_name": "pezyuz",
+            "text": "Einhver sett svoleiðis upp.?\nEr það eitthvað vesen.?\nþarf ég user og password.? eða get ég notað dhcp?",
+            "date": "2017-03-15 20:31:00",
+            "post_id": "645303",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "russi",
+            "text": "Þekki ekki þennan router per se, enn reglan er þessi\nLjósleiðari frá GR - DHCP í gegnum samþykkta Mac-addressu á WAN porti\nLjósleiðari frá Mílu - User og Pass í PPPoE sett á Vlan 4, gæti verið að þegar ISPinn þinn er Síminn að DHCP dugi þar, allavega fyrir aðra er það User/Pass",
+            "date": "2017-03-15 21:08:00",
+            "post_id": "645305",
+            "reply_to_id": "645303"
+        },
+        {
+            "user_name": "pezyuz",
+            "text": "ok náði inn interneti en er ekki að ná inn iptv er hjá símanum",
+            "date": "2017-03-16 20:32:00",
+            "post_id": "645350",
+            "reply_to_id": "645305"
+        }
+    ],
+    "date": "2017-03-15 20:31:00"
+}

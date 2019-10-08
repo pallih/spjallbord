@@ -1,0 +1,58 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "30765",
+    "title": "Synergy - http://synergy2.sourceforge.net/",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=30765",
+    "posts": [
+        {
+            "user_name": "rapport",
+            "text": "Eftir að hafa verið pirraður vinnandi heima í nokkurn tíma þá ákvað ég að prófa þetta forrit sem hafði verið mælst til að ég mundi prófa.\nhttp://synergy2.sourceforge.net/\nÖrstutt um hardware-ið:\n1)Heimilistölvan + tveir skjáir.\n2) Vinnufartölvan + dokka\nPirringurinn var fólginn í að geta ekki notað báðar tölvurnar í einu þar sem vinnutölvan er ekki notuð á vaktina á kvöldin þegar maður er að vasast eitthvað.\nÉg þoli ekki touchpad, snípi, og fartölvulyklaborð .. og vil a.m.k. fá mína mús þegar ég nota fartölvur til að gera eitthvað af alvöru.\nHingað til hafði ég tengt dokkuna við stærri skjáinn minn og stillt skjáinn inn á að nota VGA snúruna sem input þegar fartölvan er í notkun (DVI tengið fer svo í heimavélina)... svo þurfti ég að handplugga músina og lyklaborðið yfir... (ojj)\nMeð synergy áttiég að geta tengt þær saman gegnum netið og geta stjórnað músinni og lyklaborðinu í fartölvunni með því sem tengt er borðtölvunni líkt og um þriðja skjáinn væri að ræða.\nUppsetningin var sára einföld, setja upp client á fartölvuna og stilla heimavélina (vélin meðlyklaborðinu tengt við sig) sem server.\nÞetta eru nánast einu stillingarnar sem þarf að gera... nota heitin/alias á tölvunum og svo útskýra (bæði frá vinstri og til hægri) hvernig skjáirnir raðast.\nSvo testar maður hvort tölvurnar finni hvora aðra og voila...\nsmellir svo á strat á báðum tölvum og þá er maður game með að nota vinnutölvuna eins og Þriðja skjáinn, nema ekki er hægt að drga aglugga á milli þeirra... eingöngu m´suin og lyklaborðið virkar allstaðar...\nTær snilld og ég mæli með það þið prófð...\np.s. er með win7 á heimavélinni en XP á vinnutölvunni og allt er að rokka feitt...\nTalað er um að þetta geti rúllað milli linux og windows og því tilvalið fyrir fólk að prófa við slíkar aðstæður",
+            "date": "2010-06-15 21:40:00",
+            "post_id": "267333",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "hagur",
+            "text": "OK, ég er ekki búinn að lesa þetta í detail né kynna mér nánar hvað Synergy gerir, en hvernig er þetta frábrugðið t.d VNC ?",
+            "date": "2010-06-15 23:37:00",
+            "post_id": "267346",
+            "reply_to_id": "267333"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Hvað er VNC?\nSynergy er snilld ogég mæli með þvi, líklega hundruðir forrita sem gera það sama en þetta er freeware, auðvelt og þægilegt.",
+            "date": "2010-06-16 00:06:00",
+            "post_id": "267351",
+            "reply_to_id": "267346"
+        },
+        {
+            "user_name": "Gothiatek",
+            "text": "er búinn að nota Synergy lengi. Bæði milli Windows véla (mism útg) en yfirleitt með Linux og Windows vél. Snilldartól.",
+            "date": "2010-06-16 09:26:00",
+            "post_id": "267376",
+            "reply_to_id": "267351"
+        },
+        {
+            "user_name": "gardar",
+            "text": "vnc er remote desktop. Semsagt birtir mynd af remote vél sem þú getur stjórnað.\nMeð synergy ertu bara að nota lyklaborð og mús af vél sem þú ert með, á annari vél sem er á sama neti.\nMjög hentugt ef þú ert t.d. með 2 tölvur hlið við hlið, þá geturðu flakkað með mús og lyklaborð á milli, rétt eins og þú sért með dual monitors.\nCopy/paste á texta virkar meira að segja á milli véla með synergy",
+            "date": "2010-06-26 08:41:00",
+            "post_id": "268743",
+            "reply_to_id": "267376"
+        },
+        {
+            "user_name": "Verisan",
+            "text": "Synergy er snilld og ég mæli með þvi, líklega hundruðir forrita sem gera það sama en þetta er freeware, auðvelt og þægilegt.[/quote]\nþetta er þvíllík snilld.  \n \nTakk fyrir að gera þennan þráð.\nEf fleiri luma á svona smá forritum sem hjálpa manni.\nEndilega pósta þeim.\nEr búinn að vera með annað lyklaborðið í skúffuni eða á hnjánum, vegna ekkert pláss á skrifborðinu fyrir 2 lyklaborð.\nHefði ekki trúað því hversu auðvelt það er að vera með eitt sett af lykklaborði og mús, fyrir 2 tölvur.\nAnnað XP og hitt Win 7.  Og ekkkert mál.\nHvet alla til að prufa.",
+            "date": "2010-06-27 03:36:00",
+            "post_id": "268910",
+            "reply_to_id": "268743"
+        },
+        {
+            "user_name": "dabb",
+            "text": "Þið ættuð að kíkja á \nSynergy+\nSynergy hefur ekki verið uppfært síðan 2006",
+            "date": "2010-07-29 20:38:00",
+            "post_id": "273979",
+            "reply_to_id": "268910"
+        }
+    ],
+    "date": "2010-06-15 21:40:00"
+}

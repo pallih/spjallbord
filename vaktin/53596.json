@@ -1,0 +1,37 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "53596",
+    "title": "Get ekki tekið gögn af hörðum disk",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=53596",
+    "posts": [
+        {
+            "user_name": "krissi24",
+            "text": "Ég er með harðan disk sem er með Windows 7 ultimate og hann var í tölvu en ég skipti honum út fyrir stærri disk og núna þarf ég notendagögn af honum en ég hef ekki leyfi til að taka gögnin af honum í gegnum usb flakkara. Hef ekki möguleika á að setja hann sem aukadisk í tölvuna. Hvernig fer ég að þessu? Er til eitthvað forrit eða?",
+            "date": "2013-02-25 09:49:00",
+            "post_id": "497269",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "playman",
+            "text": "Ættir að geta fært gögnin yfir á flakkara með linux, t.d. ubuntu live cd.\nGætir líka prófað að taka ownership af gögnunum og afrita svo, hérna er sínt hverninn þú gerir það\nhttp://superuser.com/questions/239764/h ... windows-xp",
+            "date": "2013-02-25 09:59:00",
+            "post_id": "497273",
+            "reply_to_id": "497269"
+        },
+        {
+            "user_name": "mikkidan97",
+            "text": "Ég er med svona \"Take ownership\" í hægri-smells valmyndinni. Thú getur bara googlad thad.\nSent from my GT-S5360 using Tapatalk 2",
+            "date": "2013-02-27 08:07:00",
+            "post_id": "497545",
+            "reply_to_id": "497273"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Prófaðu að keyra chkdsk [drifið] /F",
+            "date": "2013-02-27 09:19:00",
+            "post_id": "497547",
+            "reply_to_id": "497545"
+        }
+    ],
+    "date": "2013-02-25 09:49:00"
+}

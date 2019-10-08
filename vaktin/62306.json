@@ -1,0 +1,86 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "62306",
+    "title": "Ábendingar með HDDuppfærslu í server.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=62306",
+    "posts": [
+        {
+            "user_name": "hfwf",
+            "text": "Nú er 700gb diskurinn minn farinn að acta illa í serverinum sem einnig inniheldur 250gb (system) og 2 500gb (data) diska sem svín virka ennþá eftir sirka 7-8 ár ef ég man rétt sama með 700gb diskinn en já hann er farinn að klikka smá á köflum.\nHef verið að pæla í að uppfæra vélina á plássi og skipta þá þessum 700gb disk út fyrir 2tb jafnvel, hef verið að skoða diskana sem í boði er og þessi intellipower hef ég lesið að höndli ekki endilega HD1080 nógu vel , nú horfi ég ekki voða mikið á þannig efni en á þó nokkrar svoleiðis myndir (lotr t.d) \nen pælingin er sú væri sá hvort maður ætti að verzla 2tb seagate diskinn eða wd green intellipower diskinn ( og þá er spurningin er hægt að slökkva á APM dæminu sem ég las um, á honum í linux ) eða hefur einhver betri ábendingar.\nTakk\nkv hfwf",
+            "date": "2014-09-05 11:11:00",
+            "post_id": "572452",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "axyne",
+            "text": "Ertu með link á: intellipower diskar höndli ekki HD1080. \nFinnst það mjög svo skrítið ef svo er.",
+            "date": "2014-09-05 13:14:00",
+            "post_id": "572458",
+            "reply_to_id": "572452"
+        },
+        {
+            "user_name": "hfwf",
+            "text": "Sorry búnað loka linkinum var á tomshardware forumi, tek því auðvita með fyrirvara því mér finnst það einnig skrítið.",
+            "date": "2014-09-05 13:24:00",
+            "post_id": "572459",
+            "reply_to_id": "572458"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ég myndi eiginlega ekki einu sinni taka því með fyrirvara. Ef við tökum hreint snapshot af Bluray mynd í max gæðum þá erum við að tala um data bitrate upp á 54Mbps, eða tæplega 7MB/s, sem er örugglega ekki nema um 5% af read hraða disksins. \nÉg myndi frekar taka WD diska en Seagate m.v. bæði statta frá m.a. Backblaze og eftir eigin reynslu, hef verið með Seagates í fileserverunum mínum í mörg ár og þeir hafa ófáir bilað innan sem utan ábyrgðartíma.",
+            "date": "2014-09-05 13:32:00",
+            "post_id": "572460",
+            "reply_to_id": "572459"
+        },
+        {
+            "user_name": "hfwf",
+            "text": "Good good, er einmitt með seagate í mínum, skelli  mér líklega á hann. \nedit: meinti WD auðvita.",
+            "date": "2014-09-05 13:34:00",
+            "post_id": "572461",
+            "reply_to_id": "572460"
+        },
+        {
+            "user_name": "Oak",
+            "text": "hef bara slæma reynslu af seagate...WD green er eina sem ég nota.",
+            "date": "2014-09-05 16:35:00",
+            "post_id": "572472",
+            "reply_to_id": "572461"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "FYI - Ef ætlunin er að fara í RAID gleymdu þá Green drifunum.",
+            "date": "2014-09-05 17:43:00",
+            "post_id": "572479",
+            "reply_to_id": "572472"
+        },
+        {
+            "user_name": "hfwf",
+            "text": "Engin pæling með raid eins og er.",
+            "date": "2014-09-05 18:15:00",
+            "post_id": "572484",
+            "reply_to_id": "572479"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Bull og vitleysa",
+            "date": "2014-09-06 20:16:00",
+            "post_id": "572564",
+            "reply_to_id": "572484"
+        },
+        {
+            "user_name": "Hargo",
+            "text": "Hef nú heyrt misjafnar sögur af Green diskum í RAID. Sumir segja að það sé algjört no no, aðrir segja að það sé í fínu lagi. Sjálfur hef ég verið með 4x green diska í RAID í næstum tvö ár án vandræða. Þeir spinna sig ekki niður (eða hef allavega ekki tekið eftir því) þannig að það er spurning hvort þetta sé spurning um misræmi á milli controllera. Ég hélt fyrst að diskarnir myndu alltaf spinna sig niður án tillits til hvað controllerinn segði þeim að gera. \nAnnars er ég með diskana í tveimur stæðum raidaða saman í RAID 1. Gæti verið öðruvísi ef þú ert kominn í RAID5 eða annað. Í mínu tilfelli er ég bara að geyma bíómyndir og annað stuff á þeim þannig að þeir eru ekki undir miklu loadi. Ég held ég myndi samt aldrei nota Green diska í RAID í commercial tilgangi hjá kúnna.",
+            "date": "2014-09-06 22:31:00",
+            "post_id": "572568",
+            "reply_to_id": "572564"
+        },
+        {
+            "user_name": "hfwf",
+            "text": "Nú væri fínt ef við gætum komið okkur frá raid, því ég er ekki að fara raida neitt.  Hvað væri betri betri kosturinn, WD eða SG, allir sem diskar ég sem hef keypt hafa ekki fialað nema eftor 5-8 ár, það verður að teljast gott., e þú 8 sirka ári,, ásrum seinna, haf hdd menskan breyst , hvað er best dag , sem myndi ná 5+ árum í stanslausri notkun?\nedit: bjórinn er að kenna um allar villur",
+            "date": "2014-09-06 22:40:00",
+            "post_id": "572569",
+            "reply_to_id": "572568"
+        }
+    ],
+    "date": "2014-09-05 11:11:00"
+}

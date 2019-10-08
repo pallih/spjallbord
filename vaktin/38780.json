@@ -1,0 +1,72 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "38780",
+    "title": "Breyta speedtouch 585 í Acesspoint",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=38780",
+    "posts": [
+        {
+            "user_name": "krissi24",
+            "text": "Spurði að þessu um daginn nema það var með ZyXEL router, núna vantar mig hjálp með að gera það sama með Speedtouch 585 router. Er með Thomson TG585n v2 router sem er tengdur í fastlínuna en ég þarf að koma upp accesspoint-i á öðrum stað í húsinu. Hvernig stilli ég þetta á Speedtouchinum?",
+            "date": "2011-05-26 17:45:00",
+            "post_id": "351251",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "krissi24",
+            "text": "Kann enginn það?",
+            "date": "2011-05-26 21:29:00",
+            "post_id": "351297",
+            "reply_to_id": "351251"
+        },
+        {
+            "user_name": "zedro",
+            "text": "14. gr.\nEitt \"bump\" á 24. klst. fresti er leyfilegt.\nEkki færa þráð ofar með bumpi oftar en einu sinni á sólarhring nema þú sért að svara fyrirspurn.\nVerði þessi regla brotin geta umræðustjórar læst eða eytt þræði án aðvörunar.",
+            "date": "2011-05-26 22:36:00",
+            "post_id": "351310",
+            "reply_to_id": "351297"
+        },
+        {
+            "user_name": "freeky",
+            "text": "Ef þú tengir hann með lan snúru er nóg að slökkva á DHCP og breyta um ip tölu\nGetur gert það í gui. ferð inn á routerinn í browser\nferð í\nhome network\ninterfaces\nLocalnetwork\nconfigure\nhakar úr dhcp og breytir ip t.d. úr 192.168.1.254 í 192.168.1.253\nannars ef tengir ekki með snúru þarf routerinn líka að styðja WDS\nferð í\nhome network\ninterfaces\nwlan\nconfigure\nconfigure WDS\nhakar í WDS Enabled (þarf að vera enabled á báðum áður en heldur áfram)\nscan for wireless accesspoints\nvelur hinn gæjann.\nGerir sama á router undir WDS\nHafðu sama SSID á báðum og sama wep lykil.",
+            "date": "2011-05-27 15:58:00",
+            "post_id": "351409",
+            "reply_to_id": "351310"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "Takk fyrir \n En hver er munurinn á að tengja með Lan snúru eða nota þetta WDS? Er þetta þá bara notað sem endurvarpi eða?",
+            "date": "2011-05-28 17:34:00",
+            "post_id": "351676",
+            "reply_to_id": "351409"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "?",
+            "date": "2011-05-31 21:33:00",
+            "post_id": "352544",
+            "reply_to_id": "351676"
+        },
+        {
+            "user_name": "freeky",
+            "text": "Notar WDS ef það er vesen að leggja lan snúru á milli þeirra",
+            "date": "2011-06-05 19:28:00",
+            "post_id": "353715",
+            "reply_to_id": "352544"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "Já, það hljómar eins og endurvarpi.",
+            "date": "2011-06-05 20:24:00",
+            "post_id": "353725",
+            "reply_to_id": "353715"
+        },
+        {
+            "user_name": "gunnidg",
+            "text": "@krissi24\nhttp://en.wikipedia.org/wiki/Wireless_Distribution_System",
+            "date": "2011-06-05 23:10:00",
+            "post_id": "353793",
+            "reply_to_id": "353725"
+        }
+    ],
+    "date": "2011-05-26 17:45:00"
+}

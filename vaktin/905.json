@@ -1,0 +1,156 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "905",
+    "title": "Álit á uppfærslu",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=905",
+    "posts": [
+        {
+            "user_name": "Silly",
+            "text": "Sælir, mér langaði að fá álit á uppfærslu sem ég er að fá mér. Hérna er þetta fyrir neðann. Þetta er allt frá Task.is\n\n\n\nGigabyte 8knxp með öllu sem maður getur óskað eftir. Serial ATA m/Raid, Ide Raid, Usb2, Firewire, Gigabyte netkort, styður 400/533/800 fsb og margt fleira.\n\n\n\nIntel 3.066 Ghz örgjöfi sem keyrir á 533, tímdi ekki að kaupa mér 3ghz örgjörva sem keyrir á 800mhz\n\n\n\n2xKingston HyperX KHX3200/256 256MB DDR 400MHz (PC3200)\n\n\n\nÞetta kostar mig 80. þús. Öll álit vel þeginn..",
+            "date": "2003-06-22 12:30:00",
+            "post_id": "7095",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gumol",
+            "text": "Hvar er þetta móðurborð, ég finn það ekki á Task.is?",
+            "date": "2003-06-22 12:43:00",
+            "post_id": "7096",
+            "reply_to_id": "7095"
+        },
+        {
+            "user_name": "Silly",
+            "text": "Það er ekki á síðunni þeirra. Kíktu frekar á \nÞar geturðu séð það",
+            "date": "2003-06-22 12:58:00",
+            "post_id": "7104",
+            "reply_to_id": "7096"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Þetta er flott móðurborð, en það notar eingöngu ECC minni.\n\nKingston HyperX KHX3200/256 256MB DDR 400MHz (PC3200) er ekki ECC.",
+            "date": "2003-06-22 13:03:00",
+            "post_id": "7106",
+            "reply_to_id": "7104"
+        },
+        {
+            "user_name": "MuGGz",
+            "text": "Hvaða minni mæliði með fyrir dual channel ddr  (ECC)",
+            "date": "2003-06-22 13:07:00",
+            "post_id": "7107",
+            "reply_to_id": "7106"
+        },
+        {
+            "user_name": "Silly",
+            "text": "Hvað er aftur ECC???? Og hvernig minni er það annars??",
+            "date": "2003-06-22 13:13:00",
+            "post_id": "7108",
+            "reply_to_id": "7107"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "þetta móðurborð tekur bara ECC vinnsluminni og  ECC vinnsluminni kostar 2-4000 kalli meira en sambærilegt non-ECC minni. Það er ekki hægt að fá ECC vinnsluminni með CL2(hef allavega ekki séð þannig á klakanum, enda er það örugglega dýrt) en hinsvegar fær maður náttla soldið performance boost útaf ECC(þó er ECC gert fyrir server sem að þurfa mikið gagna öryggi). Ég myndi frekar fá mér móðurborð með 865 chipsettinu. Síðan er til móðurborð frá Asus með 865 chipsettinu en er með PAT tækninni úr 875 sem að gefur performance boost á við 875 en kostar svipað (kannski aðeins meira) en 865 móðurborð(Asus kallar þetta HyperPath). Ég myndi kíkja á það....\n\n-----\n\nUpdate(3 svör á meðan ég skrifaði þetta):\n\nECC stendur fyrir Error Correcting Code(minnir mig) og er aðallega notað í serverum þar sem að minnið lagar sjálfvirkt villur sem að koma upp í því. Hinsvegar, einsog hægt er að lesa í \nþessum þræði\n er ECC SDRAM minni hraðvirkara heldur en Non-ECC SDRAM minni og ég veit ekki hvort að það sama sé uppá teningnum með DDR ECC minni\n\nMuggZ: ég efast um að margir hafi einhverja reynslu af ECC DDR minni.........",
+            "date": "2003-06-22 13:14:00",
+            "post_id": "7110",
+            "reply_to_id": "7108"
+        },
+        {
+            "user_name": "Silly",
+            "text": "Á heimasíðu Gigabyte er sagt um minnis stuðning á þessu borði \"Type: Dual Channel DDR 400 / 333 / 266 ECC support \"  Nánar um þetta borð á \nhttp://tw.giga-byte.com/MotherBoard/Pro ... -8KNXP.htm\n Svo ég sem pantaði mér Hyper-X minni er fucked! og þarf að kaupa mér annað minni????",
+            "date": "2003-06-22 13:18:00",
+            "post_id": "7111",
+            "reply_to_id": "7110"
+        },
+        {
+            "user_name": "OverClocker",
+            "text": "ECC þýðir \nError Correcting Code\n\n\nSvona minni er nauðsynlegt í servera, það er með villu checki..\n\n\n\nÞað er dýrara en venjulegt minni..",
+            "date": "2003-06-22 13:20:00",
+            "post_id": "7113",
+            "reply_to_id": "7111"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Silly, einsog ég segi, kauptu þér frekar annað móðurborð",
+            "date": "2003-06-22 13:22:00",
+            "post_id": "7114",
+            "reply_to_id": "7113"
+        },
+        {
+            "user_name": "OverClocker",
+            "text": "Það er pottþétt hægt að hafa venjulegt DDR minni á þessu móbói.. en það hinsvegar \nstyður\n líka ECC...",
+            "date": "2003-06-22 13:23:00",
+            "post_id": "7115",
+            "reply_to_id": "7114"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Á heimasíður \ntölvuvirkni\n: \n\"Notar \neingöngu\n ECC minni.\"",
+            "date": "2003-06-22 13:25:00",
+            "post_id": "7117",
+            "reply_to_id": "7115"
+        },
+        {
+            "user_name": "Silly",
+            "text": "Svo ég er að kaupa mér móðurborð sem ég get ekki notað, vegna þess að ég er ekki með rétt minni???!!!! Þá neyðist ég til að kála sölumanninum, sem seldi mér þetta. Ef ég hefði vitað þetta þá hefði ég keypt ECC minni. Einhverjar ráðleggirngar sem þig getið gefið mér núna??? Er búinn að panta mér þetta. Og sækji þetta allt á morgun. Mér finnst samt miðað mið hvað ég les hjá Gigabyte og í manualinum þeirra að þetta sé bara stuðningur fyrir ECC EKKi nauðsynlegt að hafa þetta minni BARA!!! Endilega leiðréttið mig. Ef ekki þá er ég með 2x256 Hyper-X 400mhz minniskubba til sölu á fínu verði til sölu. Algerlega ónotaða.",
+            "date": "2003-06-22 13:26:00",
+            "post_id": "7118",
+            "reply_to_id": "7117"
+        },
+        {
+            "user_name": "OverClocker",
+            "text": "Þetta er einfaldlega vitlaust hjá Tölvuvirkni... og ef þú hringir í Björgvin þarna þá staðfestir hann það eflaust...",
+            "date": "2003-06-22 13:27:00",
+            "post_id": "7119",
+            "reply_to_id": "7118"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "ég hefði líka haldið að það ætti að vera hægt að nota Non-ECC minni með þessu, var allavega hægt með SDRAM ECC móbóunum að nota Non-ECC minni.\n\nPrufaðu að tala við kallinn hvort að þetta er vitlaust á heimasíðunni.",
+            "date": "2003-06-22 13:28:00",
+            "post_id": "7120",
+            "reply_to_id": "7119"
+        },
+        {
+            "user_name": "Silly",
+            "text": "Hvað er annars vitlaust hjá honum????",
+            "date": "2003-06-22 13:28:00",
+            "post_id": "7121",
+            "reply_to_id": "7120"
+        },
+        {
+            "user_name": "Silly",
+            "text": "Ég skoðaði Pdf manualinn þeirra af borðinu og þar er talað um stlliangar í Bios fyrir non-ECC minni. Svo samkvæmt þessu ætti þetta alveg að virka samann. Hann detectar non-Ecc minni og stillir sig samkvæmt því.",
+            "date": "2003-06-22 13:31:00",
+            "post_id": "7122",
+            "reply_to_id": "7121"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "villan er að hann segir að móðurborðið taki BARA ECC minni",
+            "date": "2003-06-22 14:09:00",
+            "post_id": "7125",
+            "reply_to_id": "7122"
+        },
+        {
+            "user_name": "Silly",
+            "text": "Takk fyrir upplýsingarnar. Svo þetta ætti að virka semsagt.",
+            "date": "2003-06-22 14:14:00",
+            "post_id": "7127",
+            "reply_to_id": "7125"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "jebbs, ef ekki msg'aðu mig hérna og við skulum finna gott verð á þetta vinnsluminni",
+            "date": "2003-06-22 14:22:00",
+            "post_id": "7129",
+            "reply_to_id": "7127"
+        },
+        {
+            "user_name": "Silly",
+            "text": "Snilld. alltaf gamann að fá góða aðstoð",
+            "date": "2003-06-22 14:38:00",
+            "post_id": "7130",
+            "reply_to_id": "7129"
+        }
+    ],
+    "date": "2003-06-22 12:30:00"
+}

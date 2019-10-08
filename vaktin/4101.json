@@ -1,0 +1,86 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "4101",
+    "title": "móðurborð les örgjörva vitlaust !!!",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=4101",
+    "posts": [
+        {
+            "user_name": "Gestir",
+            "text": "Nú var ég að fá mér AMD Xp 2500 Barton kvikindi.. sem á að vera asskoti fínn örri á frábæru verði og allt í gúddí með það..\n\n\n\nDjéskotans Windowsið hjá mér les þennan örgjörva sem AMD 1700XP.. og ég var nota bene með Xp 1800 fyrir !!!!  hvað er málið... er hann samt á sama hraða og hann ætti að vera .. eða er hann að keyra á 1.47ghz í staðinn fyrir 1.88 ghz !!!!!\n\n\n\nég hef amk ekki Guðmund sjálfur... sé engan mun á tölvunni samt sem áður !! hún virðist ekkert vera neitt hraðari \n\n\n\n\nþetta er móðurborð ´síðan 2002 MSI ULTRA 745 og mér var sagt að það ætti alveg að lesa / taka þennan xp2500 örgjörva !!",
+            "date": "2004-05-11 14:42:00",
+            "post_id": "41676",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Arnar",
+            "text": "uppfærðu BIOS..\n\n\n\neða stilltu hann sjálfur.. \n\n\n\nHann á að vera með fsb í 166 og multiplier í 11",
+            "date": "2004-05-11 15:03:00",
+            "post_id": "41678",
+            "reply_to_id": "41676"
+        },
+        {
+            "user_name": "xpider",
+            "text": "Read tha manual, þú þarft örugglega að breyta einhverjum jumperum á móðurborðinu.",
+            "date": "2004-05-11 15:03:00",
+            "post_id": "41679",
+            "reply_to_id": "41678"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "Þetta kemur windowsinu ekkert við. Þú þarft að hækka fsb.",
+            "date": "2004-05-11 15:10:00",
+            "post_id": "41681",
+            "reply_to_id": "41679"
+        },
+        {
+            "user_name": "Hlynzi",
+            "text": "Hækka fsb. í biosinum. (eins og voffinn segir) \n\n\n\nég lendi í þessu gjarnan þegar ég ríf tölvuna í tætlur og rafurmagnið fer alveg af henni.",
+            "date": "2004-05-11 16:44:00",
+            "post_id": "41695",
+            "reply_to_id": "41681"
+        },
+        {
+            "user_name": "Bendill",
+            "text": "Til hamingju! Þetta er örugglega póstur númer þúsund og fimmtíu með sömu spurningunni og sama svarinu... \n\n\n\nÞað er hlekkur sem er hér fyrir ofan sem veitir þann merkilega eiginleika að leita í eldra efni, svona eins og google leitar á vefnum...",
+            "date": "2004-05-11 17:34:00",
+            "post_id": "41706",
+            "reply_to_id": "41695"
+        },
+        {
+            "user_name": "Gestir",
+            "text": "þetta svínvirkaði.. ég reyndar fattað það sjálfur að breyta fsb úr 100 í 166.. veit ekki afhverju það var komið í 100 en what the hell\n\n\n\nönnur spurning .. það er að flasha Bios.. er það sniðugt ? er það ekki frekar risky og hvað gæti ég hugsanlega grætt á því ??",
+            "date": "2004-05-11 18:30:00",
+            "post_id": "41711",
+            "reply_to_id": "41706"
+        },
+        {
+            "user_name": "Hlynzi",
+            "text": "Þú flassar hann bara ef tölvan er eitthvað að bögga þig. Ég hef flassað bíos margoft. Passa bara að hafa réttan bios. Allavegana hef ég flassað biosinn í ferðatölvunni 4 sinnum, og nokkrum sinnum í öðrum vélum. \n\nÞað er engin brýn nauðsin að flassa biosinn. Og frekar áhættu laust. (nema þú klúðrir því, þá er meiriháttar mál að laga það)",
+            "date": "2004-05-11 18:51:00",
+            "post_id": "41718",
+            "reply_to_id": "41711"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Það getur oft sparað manni mikinn hausverk að vera með nýustu uppfærslur frá framleiðanda inni þegar maður er að setja nýan vélbúnað (og hubúnað) í tölvuna, svo ég mæli með því að þú uppfærir BIOS'ið ef það lagar einhver þekkt compatibility vandamál (sérð það oftast í readme filenum).",
+            "date": "2004-05-12 09:32:00",
+            "post_id": "41779",
+            "reply_to_id": "41718"
+        },
+        {
+            "user_name": "Gestir",
+            "text": "Glæsilegt drengir\n\n\n\nen þá er það eitt.. Getið þið fundið hvar í Guðmundi þetta er að finna ?\n\n\n\nþetta er msi Ultra 745 móðurborð ( MSI 6365 held ég alveg örugglega )\n\n\n\nég fann ekkert bios update.. (leitaði nú samt ekki lengi)\n\n\n\n\n\nog ég meina.. ég er búinn að uppfæra tölvuna þónokkuð eftir að ég keupti hana og bios inn er 3 ára gamall.. never been upgraded :S",
+            "date": "2004-05-12 13:57:00",
+            "post_id": "41795",
+            "reply_to_id": "41779"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Held að þetta sé það sem þú þarft. Farðu bara varlega og lestu vel leiðbeiningarnar.\n\nhttp://www.msi.com.tw/program/support/b ... php?UID=13",
+            "date": "2004-05-12 14:16:00",
+            "post_id": "41797",
+            "reply_to_id": "41795"
+        }
+    ],
+    "date": "2004-05-11 14:42:00"
+}

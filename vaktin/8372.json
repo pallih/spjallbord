@@ -1,0 +1,37 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "8372",
+    "title": "hjálp með bios",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=8372",
+    "posts": [
+        {
+            "user_name": "Pork",
+            "text": "ég er í vandræðum égerbúinn að finna út hvað var að tölvuni en ég stillti vitlausa stillgu fyrir örran en hvernig restarta ég bios-inn",
+            "date": "2005-05-26 18:17:00",
+            "post_id": "89941",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "so",
+            "text": "Á móðurborðinu á að vera jumper sem clearar cmosinn. \n\nFinnur hann í handbók móðurborðsins eða á síðu framleiðanda, held að hann sé á milli batterís og IDE connektorana\n\n\n\nFæra hann á milli pinna í ca 30 sekúndur og til baka aftur.\n\nTaka vélina úr sambandi á meðan.",
+            "date": "2005-05-26 19:59:00",
+            "post_id": "89945",
+            "reply_to_id": "89941"
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "Ef það er ekki svona jumper þá tekurðu rafhlöðuna úr móðurborðinu og bíður í nokkrar mínútur.",
+            "date": "2005-05-26 20:04:00",
+            "post_id": "89946",
+            "reply_to_id": "89945"
+        },
+        {
+            "user_name": "Pork",
+            "text": "Ég fan út hvað var að tölvuni svo vantaði local area connection ég prófaði allt til að fá það upp síðan oppnaði ég tölvuna og barði netkorið þá kom local area connection aftur upp",
+            "date": "2005-05-28 15:27:00",
+            "post_id": "90038",
+            "reply_to_id": "89946"
+        }
+    ],
+    "date": "2005-05-26 18:17:00"
+}

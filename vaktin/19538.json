@@ -1,0 +1,51 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "19538",
+    "title": "Vantar hjálp og ráðleggingar á Uppsetning á Proxy server",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=19538",
+    "posts": [
+        {
+            "user_name": "roadwarrior",
+            "text": "Sælir\nÞannig er mál með vexti að ég er með PC tölvu í skottinu á bílnum hjá mér sem ég nota til að hlusta á músik og þvíumlíkt. Ég er með 7\" snertiskjá sem stjórnar henni í mælaborðinu í staðin fyrir venjulegt útvarp. Einnig er ég með 3G púng frá Símanum sem ég get notað til að tengjast netinu á henni. Það sem ég er að velta fyrir mér er hvort ég geti sett upp Proxy server heima hjá mér þar sem ég hef \"ótakmarkað\" gagnamagn erlendis frá svo ég geti tengst honum til að spara mér erlendu gagnanotkunina á 3G kerfinu.\nNúna þegar mér langar td að hlusta á erlendar útvarpstöðvar gegnum 3G kerfið þá spæni ég upp þann erlenda kvóta sem ég hef. Þannig væri möguleiki fyrir mig að setja upp Proxy server sem gæti sinnt þessu fyrir mig?\nEða er ég að miskilja hugtakið Proxy? \n kv\nsjonni",
+            "date": "2008-10-01 22:48:00",
+            "post_id": "183596",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "depill",
+            "text": "Jamm það væri geggjað sniðugt hjá þér, mæli með því og sóttu svo í svona 80 GB og bíddu eftir reikningnum.\nOn the other hand .... það er rukkað allt gagnamagn á 3G nema reyndar á kvöldin og um helgar hjá Símanum til 1. Nóvember, en annars er allt gagnamagn mælt. ( Þegar talað er um erlendis er verið að meina þegar þú tekur sjálfan 3g punginn erlendis og notar hann ) \nÞannig að getur kannski gleymt proxy\nhttp://www.siminn.is/einstaklingar/fars ... item60087/",
+            "date": "2008-10-02 22:10:00",
+            "post_id": "183676",
+            "reply_to_id": "183596"
+        },
+        {
+            "user_name": "roadwarrior",
+            "text": "Geri mér fulla grein fyrir gjaldinu sem er rukkað fyrir 3G enda hef ég notað það sparlega. En ég er að horfa til framtíðar. \nÍslenski fjarskiptasjóðurinn er að öllum líkindum að fara að semja við Síman um 3G væðingu um landið og ég býst við því að í framhaldinu breytist skilmálar á þann máta að gagnamagn sem sótt er innanlands verði ekki mælt ekki ólíkt því sem ríkir í ADSL kerfinu. Býst við að 3G notendur á landsbyggðinni fái svipuð kjör og notendur ADSL á höfuðborgarsvæðinu.  \nÉg hef aðallega verið að nota 3G á kvöldin núna þegar niðurhal innalands er ekki mælt. Ég geri mér líka fulla grein fyrir því að allt gagnamagn sem ég næ í að utan með 3G telur og telur hratt sérstaklega þegar eg er að streyma útvarp. Þess vegna er ég að velta þessum möguleika fyrir mér. \nEins og ég skil hugtakið/kerfið sem er kallað Proxy server virkar hann á þann hátt að hann sækir gögn fyrir þá tölvu sem hefur samband við hann og miðlar þeim til hennar í gegnum sig. \nDæmi: \nÉg bið tölvu sem er stillt á að hafa samband við proxy um að sækja td síðuna mbl.is, tölvan hefur samband við proxy serverinn sem sækir síðuna til sín og sendir hana svo áfram til tölvunar sem bað um hana\nsjá wiki : \nhttp://en.wikipedia.org/wiki/Proxy_server\n \nÞess vegna fór ég að velta því fyrir mér hvort ég geti farið framhjá utanlands mælingunni í 3G með því að setja upp heima hjá mér proxy server sem ég myndi svo nota til að miðla upplýsingum til 3G nettengdu vélarinar minnar þannig að allar þær síður sem ég myndi sækja erlendis frá færu fyrst í gegnum vélina heima hjá mér þannig að sá aðgangur tæki á sig erlenda niðurhalið en það eina sem myndi mælast á 3G tengingunni væri innlent niðurhal\nÞess vegna er ég að leita ráða/álits á proxy\nps: depill.is ég er ekki alveg grænn í þessum netheimi þótt ég hafi ekki verið mikið að spá í proxy hingað til",
+            "date": "2008-10-03 21:39:00",
+            "post_id": "183751",
+            "reply_to_id": "183676"
+        },
+        {
+            "user_name": "Nariur",
+            "text": "það myndi bara breyta erlenda dl-inu í innlent og þar se m það er ekki gert upp á milli þeirra breytir proxyinn engu",
+            "date": "2008-10-03 21:51:00",
+            "post_id": "183753",
+            "reply_to_id": "183751"
+        },
+        {
+            "user_name": "Minuz1",
+            "text": "Jú, þetta er hægt og virkar eins og þú heldur að það geri.\nVeit ekki hvernig þetta yrði samt í framkvæmd.\nAldrei sett upp proxy server",
+            "date": "2008-10-04 01:08:00",
+            "post_id": "183771",
+            "reply_to_id": "183753"
+        },
+        {
+            "user_name": "depill",
+            "text": "Skomm, 3G net hjá Símnanum á kvöldin og um helgar er frítt hvort sem er erlendis eða innanlands Ég hef ekki trú á því að það verði gerður greinarmunur á innlendu og erlendugagnamagni á 3G ever, það verður gerðir stærri gagnamagnspakkar KANNSKI.\nÍ útboði Ríkiskaupa var ekki gerð skilyrði um frítt innanlandsgagnamagn, né neitt gagnamagn. Ástæðan fyrir því að það er rukkað fyrir allt gagnamagn á 3G er einföld, bandvíddin á hverri radíótíðni er takmörkuð + að uplinkurinn fyrir 3G senda er yfirleitt töluvert takmörkuð. Ég tala ekki um þegar Síminn byrjar á landsbyggðarverkefni ( sem þeir áttu lægsta tilboðið í en eru ekki búnir að klára að landa því, þótt það virðist formsatriði ) að þá mun uplinkurinn vera ja minium 6 meg, og örugglega verður standardinn í kringum 10 meg við hvern sendir.\nÞannig að ég held að þessi hugmynd þín sé alveg dauð, þú ert samt að skilja hugmyndina rétt. Einfaldast er basicly að setja bara upp SSH server einhversstaðar, starta SSH client á vélinni ( ef hún sé að keyra Windows t.d. putty ) gera tunnel og við það skapast socks 5 compatible proxy server sem þú getur configað og þannig flutt allt gagnamagnið Vél í bíl -> 3G sendir -> Netkerfi -> Heim til þín -> Út á netið. ( Hér verður öll bandvídd sem þú sækir alltaf innanlands ef að vélin sem er að keyra SSH serverinn er hýst innanlands ) \nHér\nHins vegar endurtek ég það að ég tel það líklegra að það verði byrjað að rukka fyrir innlent gagnamagn á venjulegum tengingum heldur en að það verði gefið frítt innlent gagnamagn á 3G ( og ég veit að ISPunum langar að rukka lægra gjald fyrir gagnamagn en í staðinn bara rukka allt gagnamagn þar sem það væri miklu auðveldara fyrir þau ).",
+            "date": "2008-10-04 13:06:00",
+            "post_id": "183784",
+            "reply_to_id": "183771"
+        }
+    ],
+    "date": "2008-10-01 22:48:00"
+}

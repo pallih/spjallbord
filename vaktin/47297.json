@@ -1,0 +1,44 @@
+{
+    "forum_title": "Þjónusta / Viðgerðir",
+    "id": "47297",
+    "title": "[SOLVED]Mislukkuð yfirklukkun",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=13&t=47297",
+    "posts": [
+        {
+            "user_name": "mikkidan97",
+            "text": "Sælir vaktarar, ég er í svolitlum vandræðum, þar sem að vinur minn ætlaði að prufa að yfirklukka í fyrsta skipti. Það fór svo, að það eina sem gerðist, var að stýrikerfið heldur að örgjörfinn sé yfirklukkaður, en hann er það ekki, því að einhverja hluta vegna, þá slökkti hann á tölvunni á meðan á yfrklukkuninni stóð  \n \n \n \n \nVæri alveg geggjað ef einhver af ykkur gæti sagt mér hvernig er hægt að \"undo-a\" yfirklukkunina. Ef ykkur vantar einhverjar meiri upplýsingar, sendið mér póst eða svarið þessum þráð.",
+            "date": "2012-04-19 10:15:00",
+            "post_id": "436444",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Eiiki",
+            "text": "Slökkut á vélinni og opnaðu kassann. Skoðaðu móðurborðið þangað til þú sérð svona lítið batterý svipað þessu:\nTaktu batterýið úr móðurborðinu í 1-2 mínútur og settu það aftur í. Þá ættiru að reseta biosinn og þar með \"undo-a\" yfirklukkunina.",
+            "date": "2012-04-19 10:53:00",
+            "post_id": "436447",
+            "reply_to_id": "436444"
+        },
+        {
+            "user_name": "mikkidan97",
+            "text": "Ok, takk, prufa það",
+            "date": "2012-04-19 10:56:00",
+            "post_id": "436449",
+            "reply_to_id": "436447"
+        },
+        {
+            "user_name": "Marmarinn",
+            "text": "Líka voða notalegt að nota reset-bios jumperinn sem er þarna rétt hjá batteríinu. Tekur sekundubrot.\nGetur oftast shortað hann þegar tölvan er alveg off held ég, notað bara gott skrúfjárn.\nVirkaði fínt hjá mér þegar ég var að fikta.",
+            "date": "2012-04-19 12:13:00",
+            "post_id": "436466",
+            "reply_to_id": "436449"
+        },
+        {
+            "user_name": "methylman",
+            "text": "Aftengdu Power suppply ið áður en þú byrjar á þessum æfingum,   það er alveg basic atriði",
+            "date": "2012-04-19 13:17:00",
+            "post_id": "436475",
+            "reply_to_id": "436466"
+        }
+    ],
+    "date": "2012-04-19 10:15:00"
+}

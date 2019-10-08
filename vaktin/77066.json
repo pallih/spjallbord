@@ -1,0 +1,58 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "77066",
+    "title": "Netgear R7000",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=77066",
+    "posts": [
+        {
+            "user_name": "Gormur11",
+            "text": "Sælir,\nHef ekki fundið góðar leiðbeiningar til þess að stilla inn IPTV frá símanum á Netgear Nighthawk R7000  (Er með ljósleiðara 1 Gb)\nNetið kom inn án þess að ég þyrfti að gera nokkuð (skil það reyndar ekki, þurfti ekki að setja inn user eða passw, það bara kom)\nÁ öðrum routerum hef ég þurft að setja Vlan tag 4 á WAN o.s.frv en ég er ekki búinn að finna út hvernig á að gera þetta á þessum router.  \nHvernig myndi ég setja IP tv á lan4 á þessum router???\nKv,\nG",
+            "date": "2018-08-30 14:24:00",
+            "post_id": "676822",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gormur11",
+            "text": "Enginn ??",
+            "date": "2018-08-30 20:11:00",
+            "post_id": "676832",
+            "reply_to_id": "676822"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Miðað við það sem sutt Gúggl segir er það ekki í boði á þessum router, nema hugsanlega ef þú setur upp 3rd party firmware.\nhttps://community.netgear.com/t5/Nighth ... -p/1279417",
+            "date": "2018-08-30 20:29:00",
+            "post_id": "676835",
+            "reply_to_id": "676832"
+        },
+        {
+            "user_name": "kjartanbj",
+            "text": "Mæli með xvortex merlin, var með R7000 með því áður en ég skipti yfir í UniFi , fínt firmware",
+            "date": "2018-08-30 20:36:00",
+            "post_id": "676836",
+            "reply_to_id": "676835"
+        },
+        {
+            "user_name": "Gormur11",
+            "text": "Ég er nokkuð viss um að þetta sé hægt.  Ég er kominn með sjónvarpið á lanport 4 en netið datt út á sama tíma  \nSetti Vlan3 á lan4  og Vlan4 á hin portin...  Þá kom sjónvarpið en ég næ ekki sambandi við routerinn hins vegar. \nÞetta skal ganga.....",
+            "date": "2018-08-30 20:40:00",
+            "post_id": "676838",
+            "reply_to_id": "676836"
+        },
+        {
+            "user_name": "asgeirbjarnason",
+            "text": "Varstu búinn að sjá þessar leiðbeiningar, Gormur11?\nhttps://thjonusta.mila.is/docs/ljosveita/VDSL2.pdf",
+            "date": "2018-09-04 16:49:00",
+            "post_id": "677012",
+            "reply_to_id": "676838"
+        },
+        {
+            "user_name": "Gormur11",
+            "text": "Sæll asgeirbjarnason og takk fyrir þetta.  Ég var reyndar ekki búinn að sjá þetta.\nÉg hins vegar skipti um router og er nú kominn með Asus ac-87u og ætlaði mér að nota leiðbeiningarnar frá lapparanum til þess að gera þetta nákvæmlega eins.\nÞað gekk ekki þar sem ekki er boðið uppá sömu Vlan stillingarnar í firmware-inu á honum.  Tímabundin lausn sem ég fann var að skipta út myndlyklinum frá Símanum og tengjast einfaldlega Wifi og horfa þannig á sjónvarpið.\nÞetta semsagt virkar í dag hjá mér í gegnum Wifi og reyndar virkar vel, en ég ætla mér að halda áfram að reyna að finna út úr því að gera þetta í gegnum Vlan stillingarnar.  Ég er farinn að hallast að því að ég þurfi að nota custom firmware til þess að fá þetta að virka en ég er ekki kominn svo langt ennþá.",
+            "date": "2018-09-05 10:51:00",
+            "post_id": "677041",
+            "reply_to_id": "677012"
+        }
+    ],
+    "date": "2018-08-30 14:24:00"
+}

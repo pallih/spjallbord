@@ -1,0 +1,79 @@
+{
+    "forum_title": "Þjónusta / Viðgerðir",
+    "id": "51039",
+    "title": "Tölva slekkur á sér. Skjákort ekki að virka rétt",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=13&t=51039",
+    "posts": [
+        {
+            "user_name": "hivsteini",
+            "text": "Sælir Vaktara, þannig er mál með vexti að tölvan mín hefur verið að restarta sér uppúr þurru. Svo hefur skjákortið ekki verið að virka. Það sem mér datt í hug er hvort aflgjafinn sé að gefa upp öndina ? Takk takk.",
+            "date": "2012-10-18 17:28:00",
+            "post_id": "472924",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Xovius",
+            "text": "Ertu með löglegt Windows í henni?",
+            "date": "2012-10-18 19:02:00",
+            "post_id": "472943",
+            "reply_to_id": "472924"
+        },
+        {
+            "user_name": "Hnykill",
+            "text": "Lýstu nú vandamálinu aðeins.. Hvenær er hún að restarta og undir hvað kringumstæðum er skjákortið ekki að virka ?\nErtu að spila einhverja leiki eða starta einhverju þegar þetta gerist ?  Margar tölvur ofhitna í leikjum og restarta sér o.s.f .. Hvað ertu að gera í tölvunni og hvað er í gangi þegar þetta gerist ?",
+            "date": "2012-10-18 20:22:00",
+            "post_id": "472971",
+            "reply_to_id": "472943"
+        },
+        {
+            "user_name": "hivsteini",
+            "text": "Ekki að spila neina leiki. Oft þegar ég er að skoða youtube og stundum þegar ég er að horfa á kvikmynd og stundum bara restartar hún sér uppúr þurru. Ég er með 2mánaða gamalt skákort þannig ég held að það sé ekki það. Og já ég er með ólöglegt windows. Held samt að ég sé búinn að prufa að setja upp annað windows. En hún slekkur algjörlega á sér, loggar ekkert út eða neitt, svo kveikir hún bara aftur á sér.\nAsus P7p55-m\nIntel i5 960\nMSI geforce gtx 560\nJersey CM-650E85 (drasl?) PSU",
+            "date": "2012-10-18 20:51:00",
+            "post_id": "472978",
+            "reply_to_id": "472971"
+        },
+        {
+            "user_name": "Hnykill",
+            "text": "Kemur kannski ekki málinu við en varstu í HIV claninu í Quake 3 ?.. nickið þitt sko :Þ\nKeyrðu þá bara 3Dmark 11 og athugaðu hvort tölvan komist áfallalaust gegnum það.. ef ekki þá er það bara hita vandamál.. cl timing á minninu eða þaðan eftir af götunum.. bios stillingar o.s.f.. ef ekki það þá er þetta software vesen, en búnaðurinn er ekkert að gefa sig samt endilega.",
+            "date": "2012-10-18 20:55:00",
+            "post_id": "472979",
+            "reply_to_id": "472978"
+        },
+        {
+            "user_name": "hivsteini",
+            "text": "hehe mikið rétt",
+            "date": "2012-10-18 20:56:00",
+            "post_id": "472980",
+            "reply_to_id": "472979"
+        },
+        {
+            "user_name": "Hnykill",
+            "text": "hvaða skjá ertu með ?.. það þarf að stilla refresh rate og upplausn sem passar.. s.s hvaða skjá ertu með, í hvaða upplausn og í hvaða refresh rate ? svo þarftu að taka vertical sync af ef þetta er t.d flatskjár með 60 Hz og þú spilar leiki með V-sync á.. þá fer skjákortið ekki hærra en 60 fps svo allt lýti smooth út :/ .. virkar smooth svosem en á kostnað 100 fps á sumum kortum nefnilega.\nOg svo annað.. ertu með Spybot Search And Destroy eða álíka hreinsiforrit ? Maður verður að vera með einhverskonar aðhald á tölvunni. skannaðu græjuna allavega",
+            "date": "2012-10-18 21:09:00",
+            "post_id": "472985",
+            "reply_to_id": "472980"
+        },
+        {
+            "user_name": "hivsteini",
+            "text": "Ég er eiginlega viss um að þetta sé hardware vesen. Biosið kemur ekki einu sinni þegar ég starta tölvunni með DVI kaplinum. Og þegar ég er með VGA kapalinn tengdan þá koma samt þessar bylgjur í bios. Ætla að taka tölvuna í öreindir á morgun. Las líka á netinu á vinnsluminnið getur haft áhrif að tölvan sé að slökkva á sér. En ég læt ykkur allavegana vita. Takk takk",
+            "date": "2012-10-18 21:51:00",
+            "post_id": "472998",
+            "reply_to_id": "472985"
+        },
+        {
+            "user_name": "Hnykill",
+            "text": "Bios er að picka DEL takkann um leið og þú heyrir að það sé straumur á henni.. svo láttu okku vita hvernig það gengur.",
+            "date": "2012-10-18 23:19:00",
+            "post_id": "473015",
+            "reply_to_id": "472998"
+        },
+        {
+            "user_name": "hivsteini",
+            "text": "Jæja, ég prófaði allt. Tók allt í sundur og setti saman, prófaði hvort vinnsluminnin voru ónýt og ekkert virkaði. Svo ég prófaði það sem ég hélt fyrst og skipti um aflgjafa og það virkar svona rosalega fínt. Keypti: \nhttp://www.att.is/product_info.php?cPat ... 520439e12f\nTakk fyrir hjálpina drengir.",
+            "date": "2012-10-26 16:13:00",
+            "post_id": "474562",
+            "reply_to_id": "473015"
+        }
+    ],
+    "date": "2012-10-18 17:28:00"
+}

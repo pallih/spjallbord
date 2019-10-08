@@ -1,0 +1,128 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "59287",
+    "title": "Öryggi IP myndavéla?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=59287",
+    "posts": [
+        {
+            "user_name": "playman",
+            "text": "Sælir\nVar að fá mér tvær IP vélar \nhttp://tolvutek.is/vara/trendnet-tv-ip5 ... naetursjon\nEr búin að setja þetta upp að mestu, en fór þá að spá í öryggið.\nEr búin að setja upp sterkt password á vélarnar.\nEr búin að setja upp DDNS hjá no-ip.biz til þess að geta séð vélarnar í símanum.\nÞær tengjast þráðlaust við routerin.\nMun svo setja upptökurnar af þeim inná NASinn og pictures hefði ég vilja afrita \ninná netið á box.com t.d.(er með 50gb pláss þar) veit ekki alveg hverninn ég fer samt að því.\nHversu auðvelt er að komast inná þessar vélar, utan frá sem innan frá kerfi?\nHvað ber að hafa í huga þegar að maður er að setja upp svona kerfi, og hvað getur maður\ngert svo að jón jónson sé ekki að forvitnast eitthvað?",
+            "date": "2014-01-20 11:37:00",
+            "post_id": "547860",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "",
+            "date": "2014-01-20 11:51:00",
+            "post_id": "547866",
+            "reply_to_id": "547860"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "1. Hafðu superstrong password, og notaðu e-rn random pw generator til þess. \n2. Hafðu nýjasta firmware uppsett, ekki gefa þér að það sé uppsett við kaup. TrendNet átti við gríðarlegt öryggisvandamál að stríða með nokkur IP cam firmware-in sín á tímabili.\n3. Ekki henda þeim út á default porti, nota helst e-ð sem er nógu ofarlega (10.000+) sem er ekki auð portskannað.\nÉg er með camerur heima en þori hreinlega ekki að henda þeim beint út á WANið, hef þær bara accessible locally, er hvort eð er með VPN tengingu heim bæði í síma, tablet og lappanum. Svo er ég með motion capture sem fylgist með öllu yfir 1m hæð, svo cameran sé ekki endalaust að taka upp hundana mína. Ef og þegar það er hreyfing heima á milli 8:30 og 17:30 fyrir ofan 1m hæð frá gólfi þá fæ ég snapshot sent í email og upptaka hefst sem fer beint yfir á offsite storage.",
+            "date": "2014-01-20 12:12:00",
+            "post_id": "547874",
+            "reply_to_id": "547866"
+        },
+        {
+            "user_name": "playman",
+            "text": "??\nÉg hugsa að ég sé með nokkuð öflugt password í kringum 15 chars með hástöfum tölum og \norð sem fynnast ekki í orðabók, ef ég myndi nota PW gen þá gæti ég aldrey munað það.\nÁ eftir að skoða þetta með firmware, takk fyrir það.\nEr með þær á lágu porti núna, þarf þá bara að hækka það. En afhverju er port 10þ+ ekki auðskannað?\nÁstæðan fyrir því að ég set þær á WANið er að appið er svo þæginlegt sem kemur með þeim, rétt eins og þú\nþá er ég með hund og manni líður miklu betur að geta tjekkað á tíkinni og geta séð að allt sé í orden heima fyrir.\nEr ekki búin að setja upp motion eða motion með tíma, þar sem að það er aldrey sama hreyfingin heima fyrir,\nein daginn er húsið kanski mannlaust í 2 tíma svo annan daginn er húsið kanski mannlaust í 8 tíma,\nþannig að e-mailið væri alltaf fullt hjá mér",
+            "date": "2014-01-20 12:57:00",
+            "post_id": "547882",
+            "reply_to_id": "547874"
+        },
+        {
+            "user_name": "rango",
+            "text": "Tekur aðeins lengri tíma enn ég keyri aldrei Nmap nema taka öll 65.000 portin",
+            "date": "2014-01-20 13:03:00",
+            "post_id": "547883",
+            "reply_to_id": "547882"
+        },
+        {
+            "user_name": "dori",
+            "text": "Af hverju notarðu ekki VPN ef þú þarft að komast á netið heima fyrir svona dót? Það væri mun sniðugri lausn en að hafa tæki eins og þessi sem hafa jafnvel reynst ótraust aðgengileg utan frá netinu þínu.",
+            "date": "2014-01-20 13:40:00",
+            "post_id": "547892",
+            "reply_to_id": "547883"
+        },
+        {
+            "user_name": "hagur",
+            "text": "+1 Á VPN.\nMyndi aldrei exposa svona vél út á Internetið beint.\nErtu ekki með VPN support í símanum?  Ég er með Foscam vél heima sem er eingöngu aðgengileg á LAN-inu.  Svo VPN-a ég mig bara heim í símanum (Er með iPhone 5) og þá get ég tengst þessu hvaðan sem ég er í heiminum (sem og öðru local stöffi sem ég er með heima).",
+            "date": "2014-01-20 13:53:00",
+            "post_id": "547894",
+            "reply_to_id": "547892"
+        },
+        {
+            "user_name": "playman",
+            "text": "Hmm ok, gæti einhver útskírt VPN á \"laymans term\" (hverninn svosem það er sagt)\nHverninn set ég þá upp safe VPN hjá mér?",
+            "date": "2014-01-20 13:59:00",
+            "post_id": "547895",
+            "reply_to_id": "547894"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Það eru mikið minni líkur á að það sé reynt að brjótast inná vélina ef hann heldur sig utan default portanna, þar sem það eru margir sem eru að crawla og skanna bara þessi helstu IP cam range.\nPs. unicornscan > nmap.",
+            "date": "2014-01-20 15:29:00",
+            "post_id": "547913",
+            "reply_to_id": "547895"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Þarft að setja upp VPN server á einhverja vél sem keyrir 24/7.\nÉg er t.d að keyra Windows 2012 server heima á dedicated vél og þar er innbyggður VPN server.  Maður enable-ar bara RRAS services (Routing and remote access) og opnar nauðsynleg port í router og málið er nokkurnveginn bara dautt þar með.",
+            "date": "2014-01-20 21:40:00",
+            "post_id": "547960",
+            "reply_to_id": "547913"
+        },
+        {
+            "user_name": "playman",
+            "text": "ok takk fyrir það.",
+            "date": "2014-01-20 22:03:00",
+            "post_id": "547967",
+            "reply_to_id": "547960"
+        },
+        {
+            "user_name": "nidur",
+            "text": "Ég hef verið með myndavéla server seinustu ár og hef notast við forrit frá \nhttp://www.milestonesys.com/\n sem heitir XProtect Essential.\nÞetta er besta kerfið sem ég hef fundið og borgaði fyrir leyfin á þetta til að geta haldið upptökunni lengur en í 5 daga. Það er hægt að prufa ókeypis útgáfu \"Xprotext Go\" sem heldur í 5 daga.\nRosalega stöðugt og gott kerfi sem er hægt að sjá í símanum hvenær sem er og einnig flottar stillingar fyrir hreyfingu og alskonar triggers.",
+            "date": "2014-01-22 22:26:00",
+            "post_id": "548393",
+            "reply_to_id": "547967"
+        },
+        {
+            "user_name": "krat",
+            "text": "einmitt að skoða þetta kerfi til að setja upp í vinnunni. ? hvað ertu að greiða mikið ?\ner með 2 staði 7 vélar á hvorum.",
+            "date": "2014-01-22 22:46:00",
+            "post_id": "548399",
+            "reply_to_id": "548393"
+        },
+        {
+            "user_name": "nidur",
+            "text": "Minnir að grunnleyfið hafi verið 12-15 þús fyrir 2 vélar og svo 7 þús fyrir hverja vél eftir það + vsk.\nSvo getur þú fengið uppfærslurétt SUP sem kostar aukalega, ég fékk mér ekki SUP í upphafi og gat því ekki uppfært sjálfkrafa í 64bit version sem er 2013 útgáfan. Held að þetta SUP sé óþarfi fyrir þessa nýjustu útgáfu. oryggi.is sér um leyfin á íslandi.\nEr með 2013 útgáfuna núna.",
+            "date": "2014-01-22 23:26:00",
+            "post_id": "548410",
+            "reply_to_id": "548399"
+        },
+        {
+            "user_name": "krat",
+            "text": "mér finnst þetta mökk dýrt... :S",
+            "date": "2014-01-22 23:34:00",
+            "post_id": "548415",
+            "reply_to_id": "548410"
+        },
+        {
+            "user_name": "hkr",
+            "text": "Talandi um að henda ekki IP camerum á WAN'ið:\nhttp://krebsonsecurity.com/2014/01/bug- ... -monitors/",
+            "date": "2014-01-24 00:44:00",
+            "post_id": "548555",
+            "reply_to_id": "548415"
+        },
+        {
+            "user_name": "kjartanbj",
+            "text": "Dytti ekki í hug að vera með svona vélar opnar beint út á netið, myndi bara tengjast þeim gegnum VPN",
+            "date": "2014-01-24 03:01:00",
+            "post_id": "548566",
+            "reply_to_id": "548555"
+        }
+    ],
+    "date": "2014-01-20 11:37:00"
+}

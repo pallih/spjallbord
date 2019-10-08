@@ -1,0 +1,86 @@
+{
+    "forum_title": "Windows",
+    "id": "1867",
+    "title": "Remote management og einkennileg hegðun",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=1867",
+    "posts": [
+        {
+            "user_name": "gumol",
+            "text": "Sælir\n\n\n\nFerðatölvan mín er búin að vera að haga sér mjög undarlega í dag, Í náttúrufræðitíma í dag þegar ég logaði mig inn á Novell byrjaði tölvan að vinna á fullu og svo byrjaði hún allt í einu að færa skrár á milli staða í tölvunni (væntanlega einhverjar novell update skrár) og var að þí í lengir tíma og ég byrjaðai bara að vinna en eftir ca. korter ákvað tölvan allt í einu out of the blue var eins og einhver hafði farið í restart í tölvunni(eins og þegar maður setur nýa drivera) og tölvan restartaði sér, sem betur fer gat ég vistað verkefnin sem ég var að gera áður en hún slökti á sér. \n\nSvo þegar hún startaði sér aftur þá var greinilega komin nýr novell client inn og 1 icon búið að bætast á taksbarainn hjá mér sem heitir Remote management, þegar ég tvíklikka á það kemur bara upp eitthver static gluggi(sjá mynd). Veit einhver hvað þetta Remote management er?, og kanski mikilvægara, veit einhver hvað novell client leyfir stjórnendum í sk+olanum mínum að gera á tölvunni minni, geta þeir njósnað um það sem maður er að gera án þess að maður sjái það og er það yfir höfuð löglegt án þess að láta mann vita?",
+            "date": "2003-10-23 00:35:00",
+            "post_id": "17281",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Fox",
+            "text": "Ef þú skrifaðir ekki undir nein plögg sem segja til um þetta, myndi ég hiklaust kæra þetta.\n\nÞeir settu upp hugbúnað á tölvuna þína, ólöglega.  Og reyna nú að stjórna henni, ólöglega.\n\n\n\nKæra þetta!",
+            "date": "2003-10-23 08:20:00",
+            "post_id": "17300",
+            "reply_to_id": "17281"
+        },
+        {
+            "user_name": "halanegri",
+            "text": "Eða bara kvarta í skólanum yfir því að VERÐA að nota Novell í fyrsta lagi.",
+            "date": "2003-10-23 09:53:00",
+            "post_id": "17321",
+            "reply_to_id": "17300"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "@gumol : Skíttu á þetta, formataðu, og settu xp upp aftur.  En passaðu þig samt á því að eyða ekki fremsta partioninu á disknum, ég er búin að taka eftir því að það er lítið FAT partion fremst á disknum, ég komst inná það þegar ég búttaði af knoppix um daginn í sögutíma  \n\n\n\n\nSvo er ekki hægt hvað þetta novell drasl er farið að hæga á tölvunni þinni, hún er miklu lengur en mín... Segðu bara nei takk, better yet, settu in linux, þá geturu ekki sett inn novell",
+            "date": "2003-10-23 10:30:00",
+            "post_id": "17330",
+            "reply_to_id": "17321"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Það er alveg til novell client fyrir linux\n\nEn afhveru setur þú ekki linux á lappann voffi? \n\n\n\nEn er einginn sem veit hvað þeir geta gert á tölvunum manns í gegnum novell og þetta nýa forrit?",
+            "date": "2003-10-23 12:43:00",
+            "post_id": "17350",
+            "reply_to_id": "17330"
+        },
+        {
+            "user_name": "Fox",
+            "text": "Prufaðu þá beOS :P",
+            "date": "2003-10-23 12:46:00",
+            "post_id": "17354",
+            "reply_to_id": "17350"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Það er skilyrði fyrir inngöngu í skólann að vera með ferðatölvu með Windows 2000 / XP, það er kanski mál fyrir RGLUG.",
+            "date": "2003-10-23 12:52:00",
+            "post_id": "17358",
+            "reply_to_id": "17354"
+        },
+        {
+            "user_name": "Fox",
+            "text": "Pirr!\n\nHafðu þá winows á einu partition, og ananð kerfi á hinu.\n\nSkilyrðin nefna ekki að þú verðir að keyra windows.. bara að það sé á vélinni.. rétt?",
+            "date": "2003-10-23 13:05:00",
+            "post_id": "17366",
+            "reply_to_id": "17358"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Ég mann ekki alveg hvað forritið heitir þessa stundina en það tekur út typerecordera og remote controlle forrit",
+            "date": "2003-10-23 14:36:00",
+            "post_id": "17375",
+            "reply_to_id": "17366"
+        },
+        {
+            "user_name": "Fox",
+            "text": "typerecorder, aka KeyLogger, rétt??\n\nAnnars finnst mér voða hæpið að það sé til forrit sem leitar uppi remote control forrit og uninstallar þeim.",
+            "date": "2003-10-23 15:08:00",
+            "post_id": "17377",
+            "reply_to_id": "17375"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Ég fékk þetta forrit eithvern tíman þegar ég hélt að brói væri að hlera tölvuna þetta beint unstallar þeim ekki heldur slekkur bara á þeim",
+            "date": "2003-10-23 15:34:00",
+            "post_id": "17378",
+            "reply_to_id": "17377"
+        }
+    ],
+    "date": "2003-10-23 00:35:00"
+}

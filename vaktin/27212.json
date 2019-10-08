@@ -1,0 +1,149 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "27212",
+    "title": "Hægt net rétt fyrir og rétt eftir formöttun",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=27212",
+    "posts": [
+        {
+            "user_name": "silenzer",
+            "text": "Jæja ég hef sterkan grun um að það hafi verið einhvers konar vírus sem olli þessu fyrst en ég formattaði og enn hefur ekkert breyst... er til einhver registry stilling sem stjórnar þessu eða eitthvað?\nEða að tal sé bara að svindla á mér",
+            "date": "2010-01-01 20:16:00",
+            "post_id": "236923",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Formattaðirðu vegna þess að netið þitt er hægt?\nFarðu inná routerinn þinn í logs og gáðu hvort að einhver sé connectaður annar en þú.\nGeri ráð fyrir því að þú sért búinn að prófa að slökkva á routernum í 5 mín og kveikja aftur.",
+            "date": "2010-01-01 20:31:00",
+            "post_id": "236924",
+            "reply_to_id": "236923"
+        },
+        {
+            "user_name": "silenzer",
+            "text": "Nei alls ekki, ég hlóð niður vafasömum fæl sem gerði alla .exe fæla að .ee einhverju og netið datt út og task manager varð disabled. Náði að laga allt þetta en ég vissi samt að trojaninn (eða hver andskotinn þetta var) sat eftir.\nÞað ætti að vera ein önnur tölva sem er connectuð, en þetta er 50MB lína... veistu nokkuð hvernig maður fer inná routerinn hjá tal? Myip.is \"vélarnafnið\" virkar ekki..",
+            "date": "2010-01-01 20:41:00",
+            "post_id": "236927",
+            "reply_to_id": "236924"
+        },
+        {
+            "user_name": "Some0ne",
+            "text": "bara stuttu eftir að þú kveikir á tölvunni, farðu í start - run - cmd og skrifaðu netstat og ýttu á enter,\nþá sérðu allar opnar tengingar til og frá tölvunni þinni.\nt.d hjá mér núna eru 19 tengingar opnar, enda er ég með 4 síður opnar sem eru að lesa auglýsingar frá ýmsum hostum, msn í gangi og fleira.\nEf þetta er einhver lúdakris fjöldi hjá þér eftir fresh boot þá ertu klárlega með vírus..",
+            "date": "2010-01-01 20:53:00",
+            "post_id": "236932",
+            "reply_to_id": "236927"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "192.168.1.1 þætti mér líklegt, googlar nafnið á routernum.",
+            "date": "2010-01-01 20:54:00",
+            "post_id": "236935",
+            "reply_to_id": "236932"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "192.168.1.1:87",
+            "date": "2010-01-01 20:55:00",
+            "post_id": "236936",
+            "reply_to_id": "236935"
+        },
+        {
+            "user_name": "silenzer",
+            "text": "Firefox blokkar þetta, hvernig segi ég honum að hætta því?\nIE segir mér að ég þurfi eitthvað forrit",
+            "date": "2010-01-01 21:12:00",
+            "post_id": "236942",
+            "reply_to_id": "236936"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "farðu í\nabout:config\nhægri smelltu og gerðu 'new string' og láttu hann heita \nnetwork.security.ports.banned.override\n og value 87",
+            "date": "2010-01-01 21:15:00",
+            "post_id": "236944",
+            "reply_to_id": "236942"
+        },
+        {
+            "user_name": "silenzer",
+            "text": "Takk fyrir kærlega!\nÉg gerði cmd > netstat eins og gaurinn fyrir ofan sagði mér að gera, ég fékk 21 connections í byrjun (msn og steam var í gangi en lokaði því samt). Bendir það til vírusar?",
+            "date": "2010-01-01 21:30:00",
+            "post_id": "236951",
+            "reply_to_id": "236944"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Ekki ef þetta er allt t.d. akamaitechnologies.com eða slíkt, annars segir þetta lítið, lokaðu öllu draslinu bara, og checkaðu svo með netstat.\nEn hvað sögðu logs? Þú ættir þá að sjá \"nafnátölvusemaðþúkannast ekki við connected as 192.168.1.38 19:21:23 19.18.12\" eða álíka",
+            "date": "2010-01-01 21:34:00",
+            "post_id": "236952",
+            "reply_to_id": "236951"
+        },
+        {
+            "user_name": "silenzer",
+            "text": "Logs innan routersins?\nÞetta eru þær:\n#\nTime\n \nMessage\n \n1\n \nJan 1 00:00:23\n\tNBG-419N daemon.info dnsmasq[1430]: started, version 2.40 cachesize 150 \t\n2\n \nJan 1 00:00:35\n\tNBG-419N daemon.warn dnsmasq[1430]: overflow: 5 log entries lost \t\n3\n \nJan 1 00:00:35\n\tNBG-419N daemon.info dnsmasq[1430]: using nameserver 85.197.192.20#53 \t\n4\n \nJan 1 21:28:08\n\tNBG-419N user.info syslog: Web management login password fail for user 'admin' from 192.168.1.34. \t\n5\n \nJan 1 21:28:14\n\tNBG-419N user.info syslog: Web management login password success for user 'admin' from 192.168.1.34.",
+            "date": "2010-01-01 21:36:00",
+            "post_id": "236954",
+            "reply_to_id": "236952"
+        },
+        {
+            "user_name": "silenzer",
+            "text": "Speedtest.net test:\nFyrr í dag var upload hraðinn 50 mb/s en dl hraðinn sá sami. wtf? á ekki dl hraðinn alltaf að vera miklu hærri en upload hraðinn?\nEDIT\nÍ netstat með allt lokað voru 5-7 entries",
+            "date": "2010-01-01 21:48:00",
+            "post_id": "236955",
+            "reply_to_id": "236954"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Tékkaðu client listann í routernum, hvort það er einhver ip tala sem þú kannast ekki við\nNetwork>lan>client list",
+            "date": "2010-01-01 21:52:00",
+            "post_id": "236956",
+            "reply_to_id": "236955"
+        },
+        {
+            "user_name": "silenzer",
+            "text": "http://www.mediafire.com/file/emzgt3t3yt0/Capture2.PNG\nÞað er ekkert Client list í Lan",
+            "date": "2010-01-01 21:57:00",
+            "post_id": "236960",
+            "reply_to_id": "236956"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Nennirðu að uploada þessari mynd á tinypic eða einhvern venjulegann imagehost plz\nReyndu að finna DHCP table eða eitthvað slíkt í stillingunum. Ég gerði ráð fyrir að þú værir með Zyxel P660 routerinn.",
+            "date": "2010-01-01 22:02:00",
+            "post_id": "236964",
+            "reply_to_id": "236960"
+        },
+        {
+            "user_name": "silenzer",
+            "text": "Gjössovel: \nhttp://i49.tinypic.com/28lxgfq.png\nEr að leit að DCHP table\nEDIT: Þetta er DCHP table, er eðlilegt að það séu 3 tengingar ef það eru bara 2 tölvur á heimilinu?\nhttp://i50.tinypic.com/2ahrvwg.png\nedit 2 nvm gleymdi ps3 tölvunni",
+            "date": "2010-01-01 22:03:00",
+            "post_id": "236965",
+            "reply_to_id": "236964"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Gæti verið undir DHCP server. Þú ert bara að leita að lista yfir tölvurnar sem eru tengdar við routerinn.",
+            "date": "2010-01-01 22:05:00",
+            "post_id": "236966",
+            "reply_to_id": "236965"
+        },
+        {
+            "user_name": "silenzer",
+            "text": "Þetta er dchp server: \nhttp://i50.tinypic.com/2w36e69.png\nOg þetta er advanced dchp server: \nhttp://i50.tinypic.com/2isimhs.png\nEdit...\nyfir þær tölvur sem eru tengdar við routerinn, ég held það sé DCHP table sem ég linkaði áðan því þar eru 3 ip tölur.. borðtölvan, fartölvan og PS3",
+            "date": "2010-01-01 22:07:00",
+            "post_id": "236968",
+            "reply_to_id": "236966"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Er kveikt á öllum 3 tölvunum?\nÞá passar þetta. Semsagt enginn að brjótast inná wifi'ið hjá þér.\nÞá er bara að finna út hvort þetta sé tengt tölvunni eða routernum/þjónustuaðilanum.\nPrófaðu að keyra speedtest í einni tölvu í einu, og þá bara með þá tölvu tengda og gáðu hvort það er einhver munur á hraðanum.\nKannski augljóst, en ertu búinn að restarta routernum? Gott að taka hann úr sambandi í 10 mínútur þannig að minnið nái að hreinsa sig alveg.",
+            "date": "2010-01-01 22:19:00",
+            "post_id": "236971",
+            "reply_to_id": "236968"
+        },
+        {
+            "user_name": "silenzer",
+            "text": "Jamm, er búinn að rsa routernum og hvíla hann í 5 mín\nBorðtölva: \nFartölva: DL 5,7, UPL 4,6\nVá... ég var með 80 mb/s í down um daginn\nedit, er ekki möguleiki á að tal sé að cappa mig og segja mér síðan ekki frá því? ég dlaði sick miklu í desember, fór yfir dl max sem er 60 gb hjá mér, fór í 70... var alltaf að deila/dla 2 mb/s\nhvernig get eg komist að því hvort þeir seu að cappa mig eða ekki?",
+            "date": "2010-01-01 22:37:00",
+            "post_id": "236973",
+            "reply_to_id": "236971"
+        }
+    ],
+    "date": "2010-01-01 20:16:00"
+}

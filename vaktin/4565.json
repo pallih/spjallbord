@@ -1,0 +1,51 @@
+{
+    "forum_title": "Windows",
+    "id": "4565",
+    "title": "win98 ... read it",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=4565",
+    "posts": [
+        {
+            "user_name": "Andri Fannar",
+            "text": "sko ég er með litla partiition með win98 installað nota það 0% og er með dual boot screen og allt það eða hvað sem það heitir , spurningin er hvernig uninstalla ég því án þess að missa alllt af disknum er með smá dc dánlód þar og get ég ekki eytt WINDOWS foldernum r sum :Þ",
+            "date": "2004-06-28 16:08:00",
+            "post_id": "46482",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Ekkert mál að eyða því út.\n\nþú skalt byrja að copy'a allt sem þú vilt af win98 partioninu sem þú vilt eiga, síðan skaltu nota sama forrit og þú notaðir til að búa til partion til að eyða partioninu. Síðan ferðu í Start-Run og skrifar boot.ini og strokar út línuna þar þar sem að stendur \"win 98......\" ef að þú ert ekki viss hverju á að  eyða úr boot.ini skaltu paste'a henni hingað og ég kíki á hana",
+            "date": "2004-06-28 16:13:00",
+            "post_id": "46484",
+            "reply_to_id": "46482"
+        },
+        {
+            "user_name": "Andri Fannar",
+            "text": "sko ég gerði þessa partition ekkert eitthver tölvugaur sem setti allt upp fyrir mig :S",
+            "date": "2004-06-28 16:21:00",
+            "post_id": "46490",
+            "reply_to_id": "46484"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "aight, ertu með forrit sem heitir partion magic á tölvunni?\n\nhvaða windows ertu með núna?",
+            "date": "2004-06-28 17:35:00",
+            "post_id": "46503",
+            "reply_to_id": "46490"
+        },
+        {
+            "user_name": "Andri Fannar",
+            "text": "núna er ég með win xp og ég á partition en ekki installed",
+            "date": "2004-06-29 11:13:00",
+            "post_id": "46593",
+            "reply_to_id": "46503"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "okeibb, skelltu því upp og athugaðu hvort að þú fattir ekki hvernig það virkar.......",
+            "date": "2004-06-29 12:37:00",
+            "post_id": "46594",
+            "reply_to_id": "46593"
+        }
+    ],
+    "date": "2004-06-28 16:08:00"
+}

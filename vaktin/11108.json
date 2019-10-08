@@ -1,0 +1,37 @@
+{
+    "forum_title": "Windows",
+    "id": "11108",
+    "title": "eyða wmp 11 og setja inn 10",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=11108",
+    "posts": [
+        {
+            "user_name": "Ragnar",
+            "text": "Góðan dag. Ég hef verið í vandræðum með wmp 11 beta og langar að fá 10 aftur. Er Búinn að dl setupinu fyrir 10 en þá segir hún að 11 sé installað og geti ekki haldið áfram með installation. Hvernig losna ég við wmp 11 ? \n\n\n\nÞakka öll svör\n\n\n\nRagnar",
+            "date": "2006-06-09 01:41:00",
+            "post_id": "121463",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Rusty",
+            "text": "Control Panel > Add/Remove Programs. Ef það er ekki í listanum, prófaðu að velja Add/Remove Windows Components vinstra megin.",
+            "date": "2006-06-09 03:25:00",
+            "post_id": "121466",
+            "reply_to_id": "121463"
+        },
+        {
+            "user_name": "ICM",
+            "text": "haha lesa það sem kom á skjáin þegar þú setur upp WMP11... RESTORE POINT... nokkuð viss um að hann gerir það forced þegar þú setur hann upp svo það er væntanlega enn til restore point þar sem þú ert með WMP10.",
+            "date": "2006-06-09 12:10:00",
+            "post_id": "121485",
+            "reply_to_id": "121466"
+        },
+        {
+            "user_name": "Revenant",
+            "text": "This seems to be an issue with WMP 11 Beta. The instructions below will tell you how to roll back to WMP 10. Make sure you complete ALL the steps. Skipping number 9 for instance will result in you still getting the black screen.\n\n\n\nhttp://www.microsoft.com/windows/window ... fthePlayer\n\n\n\n\nRolling back to a previous version of the Player\n\nWindows Media Player is a feature of the Windows operating system and cannot be removed entirely. However, in Windows XP, you can roll back to the version of the Player that was previously on your computer.\n\n\n\nYou must be logged on as an administrator or a member of the Administrators group to perform the following procedure.\n\n\n\n1. Disconnect any portable music or video devices that might be attached to your computer.\n\nFor more information, see Issues with devices after removing Windows Media Player.\n\n2. In Category View of Control Panel, click Add or Remove Programs, and then click Remove a program.\n\n3. At the top of the list, select the Show updates check box.\n\n4. In the Windows XP - Software Updates section, click Windows Media Player 11, and then click Change/Remove.\n\n5. In each of the two confirmation dialog boxes that appear, click OK.\n\n6. When the rollback process is complete (it might take several minutes to complete), click Restart.\n\n7. In Category View of Control Panel, click Add or Remove Programs, and then click Remove a program.\n\n8. At the top of the list, select the Show updates check box.\n\n9. In the Windows XP - Software Updates section, click Windows Media Format 11 Runtime, and then click Change/Remove.\n\nIf you installed a non-US English version of Windows Media Player 11, the instructions in the dialog boxes that are mentioned in steps 9, 10, and 11 might appear in English.\n\n10. In the first confirmation dialog box that appears, click OK.\n\n11. In the second confirmation dialog box that appears, select the Do you want to continue with the rollback? check box, and then click OK.\n\n12. When the rollback process is complete (it might take several minutes to complete), click Restart.\n\n13. In Category View of Control Panel, click Add or Remove Programs, and then click Remove a program.\n\n14. Click Microsoft User-Mode Driver Frameworks Feature Pack 1.0, and then click Remove.\n\n15. Follow the instructions that appear in the Software Update Removal Wizard.\n\nIf the Wudf01000 confirmation dialog box appears, click Yes to continue. When the software removal process is complete (it might take several minutes to complete), click Finish.\n\n\n\n\n\nNote If you remove Windows Media Player 11 and the Windows Media Format 11 Runtime, and then encounter error C00D271D (\"A problem has occurred in the Digital Rights Management component. Contact Microsoft product support.\"), you might be able to resolve the problem by installing the Windows Media Format 9.5 Runtime. For information about installing the Runtime, in the Microsoft Knowledge Base, see article 891122, \"Update for Windows Media Digital Rights Management-enabled players.\"",
+            "date": "2006-06-09 12:29:00",
+            "post_id": "121490",
+            "reply_to_id": "121485"
+        }
+    ],
+    "date": "2006-06-09 01:41:00"
+}

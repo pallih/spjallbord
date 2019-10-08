@@ -1,0 +1,37 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "50552",
+    "title": "C pælingar",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=50552",
+    "posts": [
+        {
+            "user_name": "axyne",
+            "text": "Er að búa til PWM stýringu fyrir motor með að nota ATMEGA32, forritað í C.\nÉg get breytt duty cycle á milli 0-250, en málið er að ég vill ekki alla þessa upplausn heldur bara 0-100 og gerði þennan kóða til að geta kallað í function-ið með 0-100 sem parameter.\nKóði: \nVelja allt\nvoid setDutyCycle(unsigned char duty){\n  if(duty>100){\n    duty = 100;\n  }\n  if(duty>0){\n    duty = duty*25/10;\n  }\n  OCR1A = duty;\n}\nKóðinn virkar eftir sem ég veit best en það sem ég er að velda mér uppúr er að parameter-inn fyrir fallið er 8 bita sem ég margfalda síðan með 25, ætti ekki að vera overflow áður en ég deili með 10 ? eða reiknar cpu alla súpuna sem 16 bita áður en útkoman er assign-uð í duty?\nEr eitthvað vitlaust að gera þetta svona, er opinn fyrir hugmyndum.",
+            "date": "2012-09-23 19:12:00",
+            "post_id": "468358",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Garri",
+            "text": "Hvers vegna í ósköpunum ertu að nota Char sem inn parameter?\nEr þetta php.. þar sem breytur geta verið char eina stundina og int næstu?\nNotaðu integer sem breytu og þá virkar þetta þar sem integer er væntanlega 32bita breyta (signed 31 bita) eða 4 byte! \nFer reyndar eftir þýðanda en allir nýlegri þýðendur eru komnir í 32 bita með integer, eldri eru með 16 bita.\nMundi breyta þessu í fall, sirka svona:\nKóði: \nVelja allt\nint Calc_Duty_Cycle (int i_duty)\n{\n  if (i_duty > 100) \n     i_duty = 100;\n  if (i_duty > 0) \n     i_duty = round(2.55 * i_duty);  // reikna fastlega með að sviðið sé 0..255 en ekki 250 eins og þú reiknar með\n  return i_duty;\n}",
+            "date": "2012-09-23 19:23:00",
+            "post_id": "468361",
+            "reply_to_id": "468358"
+        },
+        {
+            "user_name": "axyne",
+            "text": "Er að forrita í 8 bita microcontroller í C, þar sem int er 16 bita. \nHvort sem ég hef char eða int sem paramter breytir eingu, þetta virkar.\nPælingin er/var afhverju þetta virkar \nGerði  smá tilraunir áðan og komst að því að reikniaðgerðin (duty*25/10) er 16 bita signed. þannig ég eiginlega búinn að svara sjálfur mér.\nedit: sviðið er 0-250 og vildi komast hjá því að nota floating því var búinn að heyra að atmega32 sé hægvirkur varðandi það.\ntakk samt.",
+            "date": "2012-09-23 19:32:00",
+            "post_id": "468365",
+            "reply_to_id": "468361"
+        },
+        {
+            "user_name": "starionturbo",
+            "text": "langaði að benda á að arduino er í grunninn C en samt ekki 100%, hann notar avr-gcc þýðandann. Þetta er meira byggt á Wiring.\nÉg býst við að þú hafir fundið út lausnina við vandamálinu þínu",
+            "date": "2012-11-22 20:39:00",
+            "post_id": "479524",
+            "reply_to_id": "468365"
+        }
+    ],
+    "date": "2012-09-23 19:12:00"
+}

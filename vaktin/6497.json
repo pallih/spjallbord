@@ -1,0 +1,30 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "6497",
+    "title": "HP fartölva nær ekki að tengjast router",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=6497",
+    "posts": [
+        {
+            "user_name": "brell",
+            "text": "Góðan dag,\n\ntil að fyrirbyggja misskilning við ég taka fram að ég er Mac notandi og kann mjög litið á Windows.\n\nMálið er að ég fékk mér LinkSys WAG54G router um daginn.  Borðtölvan min (iMac) er ethernet tengd við routerinn og fartölvan (PowerBook) er tengd þráðlaust.  Allt svínvirkar.\n\nHins vegar á sonur minn, sem er með HP fartölvu með Windows XP í erfiðleikum með að tengjast.  Ég er með SSID lykilorð (ekki útvarpað), 128 bita WEP lykilorð og leyfi bara ákveðnum MAC addressum að tengjast.  Ég setti þetta allt inn á tölvuna hans á miðvikudag og setti MAC addressuna hans inn á routerinn.  Fyrir ofan WEP lykilorðið hjá honum er val um \"open\" eða \"shared\", það er stillt á \"shared\".  Til að byrja með tengdist hann og allt virtist í lagi. Svo datt hann út seinna um kvöldið og svo virðist sem routerinn hafi dottið út líka.  Mér tókst að endurræsa routerinn með því að fara í System Preferences á iMakkanum og smella á \"renew DHCP license\".  Við þetta fór routerinn í gang og vélin hans datt inn.  Svo þegar hann ætlaði að fara inn í dag, þá finnur vélin hans ekkert net og okkur hefur ekki tekist að finna út úr því hvað er eiginlega í gangi. Fartölvan mín finnur netið eins og skot þannig að vandinn virðist liggja í HP vélinni.  Getur verið að netkortið hans sé bilað?\n\n\n\nÁ táknmyndinni neðst á skjánum er rauður kross og skilaboðin \"wireless connection 2 not connected. Wireless network not available\".\n\n\n\nMér þætti mjög vænt um að fá aðstoð við þetta og vil aftur taka fram að ég kann mjög lítið á Windows.",
+            "date": "2004-11-26 18:31:00",
+            "post_id": "67702",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gnarr",
+            "text": "ég held að þetta sé bögg í innbyggðu þráðlausu intel netkortunum. ég er með 5 HP tölvur sem eru allar Centrino, og engin þeirra ræður vel við að tengjast við net þar sem að SSID broadcast er ekki á. ég vona bara að það komi fljótt út eitthvða fix fyrir þetta.",
+            "date": "2004-11-27 13:01:00",
+            "post_id": "67838",
+            "reply_to_id": "67702"
+        },
+        {
+            "user_name": "brell",
+            "text": "Takk fyrir þetta. Setti broadcast á og það virkar.  Skrýtið samt að hann náði sambandi óbroadcastað fyrst en datt svo út.  Hann er reyndar ekki með innbyggt kort.",
+            "date": "2004-11-27 15:52:00",
+            "post_id": "67861",
+            "reply_to_id": "67838"
+        }
+    ],
+    "date": "2004-11-26 18:31:00"
+}

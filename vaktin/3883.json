@@ -1,0 +1,37 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "3883",
+    "title": "Kingston HyperX 3200 512 -PROBLEM-",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=3883",
+    "posts": [
+        {
+            "user_name": "PeZiK",
+            "text": "Sælir félagar, nú þarf ég bókstaflega á ykkar hjálp til þess að skera úr um hvað er í gangi með nýja minnið mitt. Ég er með :\n\n\n\nAsus K8V SE Deluxe móðurborð\n\nAMD64 3200+\n\nKingston HyperX 3200 512 x2\n\nRadeon 9800XT\n\n\n\nÉg er að fá skuggalega lágt score í Aquamark3 miðað við nákvæmlega eins rigg annars staðar. Fæ 3700 stig á meðan aðrir eru að fá 4200 - 4600 með sama system ( fyrir utan minnið ).\n\n\n\nLesið þetta : \nhttp://www.postp.is/pezik/spd.txt\n\n\n\n\nTimings table\n\nFrequency (MHz)\t\t166\t200 \n\n\n\nhvað er í gangi þarna, á ég ekki að vera með 400MHz ?\n\n\n\nmeð von um skjót viðbrögð !\n\n\n\nPeZiK",
+            "date": "2004-04-21 14:31:00",
+            "post_id": "39107",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "pyro",
+            "text": "er ekki bara CPU/DRAM ratioið í biosnum í rugli hjá þér? prófaðu að fara inn í biosinn og sjá hvort þú getur ekki einhversstaðar valið ratio milli CPUfsb og DRAM bus...",
+            "date": "2004-04-21 15:05:00",
+            "post_id": "39108",
+            "reply_to_id": "39107"
+        },
+        {
+            "user_name": "PeZiK",
+            "text": "Takk fyrir það en gætir þú útskýrt þetta nánar",
+            "date": "2004-04-21 15:14:00",
+            "post_id": "39110",
+            "reply_to_id": "39108"
+        },
+        {
+            "user_name": "pyro",
+            "text": "Í sumum Biosum geturðu valið hvaða hlutfall af BUS hraða örgjörvans minnið notar, t.d. er ég með FSB 400 örgjörva, og stilli Ratioið á 6:4 sem gefur mér 266 mhz á minnið... nú veit ég ekkert hvort Biosinn þinn býður upp á þetta, en það er þess virði að athuga það",
+            "date": "2004-04-21 15:20:00",
+            "post_id": "39111",
+            "reply_to_id": "39110"
+        }
+    ],
+    "date": "2004-04-21 14:31:00"
+}

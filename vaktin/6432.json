@@ -1,0 +1,72 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "6432",
+    "title": "Hvaða benchmark-i á maður mest að taka mark á",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=6432",
+    "posts": [
+        {
+            "user_name": "hahallur",
+            "text": "Ég var að spá hvaða benchmark væri best til þess að sjá getu tölvunnar aukast.\n\n\n\n3D mark 2001 hefur verið sagt best við mig en þegar maður er kominn með Direct X 9 getur maður ekki verið að taka mark á því.\n\nÉg sá að það var ekki rosalegur munur á R.9800 Pro og X800 Pro því X800 er direct X 9 og þetta benchmark er ekki að nota afl kortsins til fulls.\n\n\n\n3D mark 2005 og 3D mark 2003 eru sögð nær eingöngu GPU og þess vegna voða lítið að marka þau.\n\n\n\nVantar ekki benchmark sem er Direct X 9 sem er eins og 3D mark 2001 eða er ég allveg að rugla.\n\n\n\nEn annars, hvaða test á maður hellst að nota til að sjá afkastamun.\n\n???",
+            "date": "2004-11-22 17:36:00",
+            "post_id": "67052",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "CraZy",
+            "text": "er ekki hægt að nota \nPC mark\n?",
+            "date": "2004-11-22 18:35:00",
+            "post_id": "67064",
+            "reply_to_id": "67052"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "ATI Radeon 9800 pro er directx9 'hæft' eða hvernig maður á að orða það.\n\n\n\nÞað er örugglega lítill munur á 9800 og x800 í 3DMark 2001 en í 3DMark 05 er hann örugglega orðinn meiri.\n\n\n\nHvað ertu annars að velta þér upp úr skjákortum og directx þegar þú ert að benchmarka tölvuna í heild?\n\n\n\nVar sjálfur að leita að CPU benchmark forritum fyrir löngu, besta sem ég fann var PCMark.  Síðan er hægt að nota Super PI sem einhverjir hafa verið að pósta á Benchmarks og svo er hægt að nota Prime95 sem benchmark..\n\n\n\nPrófaði helling af allskonar forritum sem mér fannst ekki virka alltof vel og lagði þau þar af leiðandi ekki á minnið..",
+            "date": "2004-11-22 20:09:00",
+            "post_id": "67075",
+            "reply_to_id": "67064"
+        },
+        {
+            "user_name": "einarsig",
+            "text": "minnir að ég hafi lesið að ´gaurarnir sem bjuggu til 3dmark05 hafi ákveðið að láta cpu spilla svolítið inní þar sem að 3dmark03 var næstum bara einblínt á GPU.",
+            "date": "2004-11-22 20:21:00",
+            "post_id": "67078",
+            "reply_to_id": "67075"
+        },
+        {
+            "user_name": "hahallur",
+            "text": "Ég held að 3D mark 2001 sé besta overall test-ið.\n\nAnnars þyrfti að gefa út útgáfu af því sem nýtir betur þessi nýju öflugu kort.\n\n\n\n3D mark 2005 gerir það fyllilega en það notar cpu svo lítið.",
+            "date": "2004-11-22 20:39:00",
+            "post_id": "67079",
+            "reply_to_id": "67078"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Hmm, \n3D\n mark......\n\nEr þetta ekki hugsað sem GPU benchmark, og þessvegna væri ekki sniðugt að láta örran koma of mikið inní þetta? Frekar nota önnur test í það.",
+            "date": "2004-11-22 21:34:00",
+            "post_id": "67089",
+            "reply_to_id": "67079"
+        },
+        {
+            "user_name": "hahallur",
+            "text": "Ég held að það sé bara best að taka öll þessi test.\n\nRunna þau á gömlu tölvunni, geyma info um scrore.\n\nOg svo þegar nýja AMD 64 3500 kemur í hús keyra öll aftur og sjá muninn.\n\n\n\nTaka svo tölvuna í o.c. og sjá muninn \n\nÞað væri gaman.",
+            "date": "2004-11-22 21:37:00",
+            "post_id": "67091",
+            "reply_to_id": "67089"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Hmm.. Sko.. 3DMark 03 er nýrri og öflugri útgáfa af 3DMark 2001.. og 3DMark 05 er nýrri og öflugri útgáfa af 3DMark 03 \n\n\n\n\n3DMark er gert til að mæla grafík afköst..\n\n\n\nOg, held að planið hjá þeim sem búa 3DMark til sé að í hvert skipti sem einhver fer að nálgast 15000 stig byrja þeir að setja saman nýja útgáfu.",
+            "date": "2004-11-23 20:28:00",
+            "post_id": "67235",
+            "reply_to_id": "67091"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "3d mark er að benchmarka hvernig tölvum gengur í nýjustu tölvuleikjunum og þeim sem eiga eftir að koma á næstunni. afhvejru ætti það að prófa eitthvað annað.\n\n\n\nþað væri frekar asnalegt að vera að reyna að steypa saman forriti sem væri að benchmarka tölvuleiki og forrit.. svona álíka og að hafa excel benchmark og hl2 benchmark í sama forriti.",
+            "date": "2004-11-23 22:20:00",
+            "post_id": "67270",
+            "reply_to_id": "67235"
+        }
+    ],
+    "date": "2004-11-22 17:36:00"
+}

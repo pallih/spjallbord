@@ -1,0 +1,219 @@
+{
+    "forum_title": "Koníakstofan",
+    "id": "45320",
+    "title": "project :: led-table",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=9&t=45320",
+    "posts": [
+        {
+            "user_name": "starionturbo",
+            "text": "Hæbb, langaði að deila með ykkur nýja verkefninu hjá mér, sófaborð hólfað niður í 8 raðir og 4 dálka.\nÞað er með 32 stk ShiftBrite  led perum, Arduino Mega 1280 og MSGEQ7.\nFyrst var það planið, sem ég teiknaði upp í Google SketchUp:\n \nSíðan byrjaði ég að smíða grindina:\n \n \n \nNáði mér í allt hardware sem ég þurfti og kapla og lóðaði:\n \n \n \nOg þetta er útkoman, var að panta sýruþvegið gler í vikunni og þarf að smíða lappirnar undir það:\nHér má sjá einn af 11 effectunum í boði:\nhttp://www.youtube.com/watch?v=hCAW4Txmfog\nJavascript prototype-ið sem ég bjó til:\nhttp://forritun.org/led-table/prototype.html\nKóðinn fyrir borðið sjálft fyrir þá sem hafa áhuga.\nhttps://github.com/birkir/led-table/blo ... -table.cpp\nEinhverjar pælingar eða spurningar ?",
+            "date": "2012-02-02 11:06:00",
+            "post_id": "417752",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "pattzi",
+            "text": "Þetta er Geðveikt",
+            "date": "2012-02-02 11:13:00",
+            "post_id": "417754",
+            "reply_to_id": "417752"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Klikkað",
+            "date": "2012-02-02 11:40:00",
+            "post_id": "417759",
+            "reply_to_id": "417754"
+        },
+        {
+            "user_name": "blitz",
+            "text": "Mega töff.\nGetur hvað vitleysingur sem er leikið sér með Shiftbright, Arduino Mega 1280 og MSGEQ7?  Flókið shit?  Vantar nýtt dund!\nÁætlaður heildarkostnaður?",
+            "date": "2012-02-02 11:47:00",
+            "post_id": "417761",
+            "reply_to_id": "417759"
+        },
+        {
+            "user_name": "starionturbo",
+            "text": "Já þetta ætti hver sem er að geta gert, sem hefur grunn þekkingu á rafmagni, og nennir að lesa sig til hvernig svona micro controllerar virka.\nArduino mega 1280 - 28.89$ á (DealExtreme)\nShiftBrite - 4.46/stk = 142.72$ (SparkFun)\nKaplar - 1.35/stk = 43.2$ (SparkFun)\nMSGEQ7 - 4.95$ (SparkFun)\nBreadboard - 6.95$ (SparkFun)\nLCD skjár - 15.95$ (SparkFun)\nMDF plata - 5000 kr (BYKO)\nGler plata - 6900 kr (Samverk)\nJumper vírar, viðnám og þéttar undir 1500kr\nSamtals... hmm 40 þ kall sirka\nÉg stal svolítið af þéttum og svoleiðis úr gömlu power supply sem ég átti hehe",
+            "date": "2012-02-02 11:57:00",
+            "post_id": "417765",
+            "reply_to_id": "417761"
+        },
+        {
+            "user_name": "tdog",
+            "text": "Ég er í aðstöðu til þess að búa til prentplötur ef einhver hefur áhuga.",
+            "date": "2012-02-02 12:01:00",
+            "post_id": "417766",
+            "reply_to_id": "417765"
+        },
+        {
+            "user_name": "tlord",
+            "text": "tetris?",
+            "date": "2012-02-02 12:19:00",
+            "post_id": "417770",
+            "reply_to_id": "417766"
+        },
+        {
+            "user_name": "AciD_RaiN",
+            "text": "brilliant",
+            "date": "2012-02-02 12:28:00",
+            "post_id": "417774",
+            "reply_to_id": "417770"
+        },
+        {
+            "user_name": "Klaufi",
+            "text": "Mjög flott hjá þér!\nLangar að búa til svona með space invaders lúppu..",
+            "date": "2012-02-02 13:20:00",
+            "post_id": "417786",
+            "reply_to_id": "417774"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "i like this.",
+            "date": "2012-02-02 13:25:00",
+            "post_id": "417789",
+            "reply_to_id": "417786"
+        },
+        {
+            "user_name": "axyne",
+            "text": "Geggjað  \nHvernig powersupply ertu að keyra þetta á ?",
+            "date": "2012-02-02 13:39:00",
+            "post_id": "417791",
+            "reply_to_id": "417789"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Þvílíkt snilld!",
+            "date": "2012-02-02 14:20:00",
+            "post_id": "417796",
+            "reply_to_id": "417791"
+        },
+        {
+            "user_name": "starionturbo",
+            "text": "Greinilega margir að digga svona heimasmíðuð arduino project!\nÉg fór í íhluti og fékk mér power supply sem er stillanlegt 3/4.5/5/6/7.5/9V og er 2A, ég er að keyra á 9V og rúllar fínt. Þurfti að vísu að bæta við 2200µF þétti til þess að losna við truflanir í línunni.\nHver ShiftBrite module keyrir á 60mA á fullu blasti (þeas. rauður grænn og blár í 100%), sem er um 1920mA og dugar því spennirinn fáránlega vel \nÉg byrjaði með 2 Nokia hleðslutæki, þau hitnuðu alveg frekar vel  \n \nSpace Invaders úlpa yrði awsome \n Það er til Arduino LilyPad fyrir svoleiðis verkefni.\nVæri gaman að búa til prentplötur fyrir þetta !!",
+            "date": "2012-02-02 14:33:00",
+            "post_id": "417800",
+            "reply_to_id": "417796"
+        },
+        {
+            "user_name": "tdog",
+            "text": "Sendu mér bara teikningu, ásamt lista yfir íhlutina, pinout á IC rásunum og þessu verður reddað.",
+            "date": "2012-02-02 14:47:00",
+            "post_id": "417804",
+            "reply_to_id": "417800"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "Mjög flott!\nAndskotinn að maður hefur ekki tíma í e-ð svona dunderí!  \n \nHefur lengi dreymt um að gera svona led-table með snertiskynjurum og/eða hreyfiskynjurum.\nbtw...Sparkfun er alltof geðveik netverslun!",
+            "date": "2012-02-02 15:03:00",
+            "post_id": "417807",
+            "reply_to_id": "417804"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Sérstaklega free day \n \nAnnars eins og ég hef sagt áður, þetta er geggjað borð hjá þér Birkir",
+            "date": "2012-02-02 15:14:00",
+            "post_id": "417809",
+            "reply_to_id": "417807"
+        },
+        {
+            "user_name": "Frost",
+            "text": "Vá hvað þetta er geðveikt, langar að gera eitthvað svona en hef bara ekki kunnáttuna í það",
+            "date": "2012-02-02 15:36:00",
+            "post_id": "417819",
+            "reply_to_id": "417809"
+        },
+        {
+            "user_name": "AciD_RaiN",
+            "text": "Guð hvað maður tengir vel við það enda fékk ég bara 2.5 í rafmagnsfræði á sínum tíma",
+            "date": "2012-02-02 15:57:00",
+            "post_id": "417823",
+            "reply_to_id": "417819"
+        },
+        {
+            "user_name": "Frost",
+            "text": "Varst þó heppinn að læra það",
+            "date": "2012-02-02 16:00:00",
+            "post_id": "417824",
+            "reply_to_id": "417823"
+        },
+        {
+            "user_name": "tdog",
+            "text": "Hann hefur nú ekki \nlært\n mikið fyrst hann fékk bara 2,5.",
+            "date": "2012-02-02 16:15:00",
+            "post_id": "417833",
+            "reply_to_id": "417824"
+        },
+        {
+            "user_name": "AciD_RaiN",
+            "text": "Satt... maður þar kannski að mæta í tíma til að læra eitthvað",
+            "date": "2012-02-02 16:37:00",
+            "post_id": "417842",
+            "reply_to_id": "417833"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Fáránlega töff, vel gert! \n \nVæri gaman að hafa kunnáttu/þekkingu til að gera eitthvað svona.",
+            "date": "2012-02-02 17:02:00",
+            "post_id": "417857",
+            "reply_to_id": "417842"
+        },
+        {
+            "user_name": "Nitruz",
+            "text": "Nicesome, ég tek þetta, 5 þús kall, get sótt í kvöld. Bland.is style hehe.\nVirkilega flott hjá þér. Vildi að maður gæti haft eitthvað svona stöff heima.. Það gengur víst ekki sem fjölskyldufaðir  \n.\nErtu að meina svona",
+            "date": "2012-02-02 19:43:00",
+            "post_id": "417891",
+            "reply_to_id": "417857"
+        },
+        {
+            "user_name": "dandri",
+            "text": "Þetta er awesome",
+            "date": "2012-02-02 19:49:00",
+            "post_id": "417892",
+            "reply_to_id": "417891"
+        },
+        {
+            "user_name": "starionturbo",
+            "text": "Þakka fyrir það  \n \nNú þar sem þetta verkefni er að verða búið, þarf ég að fara huga að nýju verkefni.\nEinhverjar hugmyndir ?\nÉg var að spá í að smíða annaðhvort CAN bus reader fyrir bílinn hjá mér eða búa til vekjaraklukku með nixie tubes (\nlinkie\n)",
+            "date": "2012-02-03 13:36:00",
+            "post_id": "418099",
+            "reply_to_id": "417892"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Vá! hvað getur maður sagt annað?",
+            "date": "2012-02-03 13:46:00",
+            "post_id": "418100",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Tbot",
+            "text": "Flott hjá þér.\nBetra að nota prentplötu en breadboard, bread vill klikka með tímanum.\nSumir hafa alltof mikinn frítíma.",
+            "date": "2012-02-03 13:47:00",
+            "post_id": "418101",
+            "reply_to_id": "418100"
+        },
+        {
+            "user_name": "starionturbo",
+            "text": "Það er reyndar voðalega erfitt að prototypa með prentplötu. Breadboardið klikkar seint held ég, sé ekki alveg hvað á að klikka þar, engin spenna á þessu.\nEn ég vildi að ég hefði meiri frítíma, ég er búinn að eyða kannski 10-15 tímum í þetta.\nBúinn að vera púsha 1 tíma á dag síðustu 2 vikurnar í þetta project,",
+            "date": "2012-02-03 13:55:00",
+            "post_id": "418105",
+            "reply_to_id": "418101"
+        },
+        {
+            "user_name": "DoofuZ",
+            "text": "Þetta er ekkert smá kúl! \n Og núna er þetta drauma sófaborðið mitt! \n Það þarf eitthvað fyrirtæki að fara að framleiða svona...\nSkítt með snertiskjásborðin, þetta er málið!",
+            "date": "2012-02-08 00:49:00",
+            "post_id": "419402",
+            "reply_to_id": "418105"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "nei ég ætla að vona að fyrirtæki fari ekki að framleiða þetta! Miklu skemmtilegra að fikta í svona sjálfur. Ég skora á menn sem hafa efni á því að fjárfesta í einhvers konar Arduino startkit og fikta sig áfram því þetta er ekkert smá skemmtilegt og nánast endalausir möguleikar!",
+            "date": "2012-02-08 01:00:00",
+            "post_id": "419404",
+            "reply_to_id": "419402"
+        }
+    ],
+    "date": "2012-02-03 13:46:00"
+}

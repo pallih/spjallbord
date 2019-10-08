@@ -1,0 +1,44 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "69977",
+    "title": "Úr stereo í mono?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=69977",
+    "posts": [
+        {
+            "user_name": "90°hallandibeinn",
+            "text": "Sælir, mig langaði að vita hvort þið vissuð hvernig maður færi að þessu.\nVarð nýlega alveg heyrnarlaus á hægra eyra eftir aðgerð og er stereo því ekki að gera sig fyrir mig lengur.\nMig langar að fá bæði \"audio channels\" í eitt eyra á heyrnartólunum þ.e.a.s. að þau splittist ekki í sitthvort eyrað. Sum lög verða t.d. alveg skemmtilega funky við hlustun. \nÉg er með Xonar Essence STX hljóðkort í tölvunni en hugbúnaðurinn með kortinu bíður ekki upp á þetta, get sett í mono en það slekkur bara á öðru hvoru eyranu, 1 audio channel í hvort eyra ennþá.\nGooglið segir mér að ég þurfi annaðhvort 3rd party hugbúnað eða einhverskonar jack en ég verð að viðurkenna að ég hef lítið vit á þessu.\nDatt helst í hug að verslunin ihlutir gætu verið með svoleiðis jack?\nAllar ábendingar vel þegnar.",
+            "date": "2016-07-14 11:52:00",
+            "post_id": "627461",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "DJOli",
+            "text": "Mér skilst að Virtual Audio Cable gæti verið lausnin sem þú leitar að, þar ættirðu að geta búið til nýtt device (sem þú hlustar á) sem neyðir stereo hljóð niður í mono.\nHérna er það sem ég fann á ensku.\n\"Try \"Virtual Audio Cable\":\nCreate virtual line(One will be created after installation)\nSet it as default sound device\nRun \"Audio Repeater\" from VAC folder in start menu.\nSet your virtual line as \"Wave in\" and your real audio device as \"Wave out\".\nSelect Mono for \"Chanel config\" and click start, it's done!\nNote: the mixed mono sound may be directed to LEFT channel only, I think it depends on device. Enjoy.\"",
+            "date": "2016-07-14 13:05:00",
+            "post_id": "627468",
+            "reply_to_id": "627461"
+        },
+        {
+            "user_name": "90°hallandibeinn",
+            "text": "Takk fyrir svarið, ég prófaði þetta. Því miður er ennþá bara 1 audio channel í gangi. Klippir bara út hægri. Reyndi að fikta aðeins \nhttps://gyazo.com/9932521014fb8c228926260cc3e73cab\n en ekki gengið ennþá.",
+            "date": "2016-07-14 14:19:00",
+            "post_id": "627476",
+            "reply_to_id": "627468"
+        },
+        {
+            "user_name": "DJOli",
+            "text": "Virkar ekki að velja annaðhvort FR eða FL? og svo mono með því?",
+            "date": "2016-07-14 16:57:00",
+            "post_id": "627493",
+            "reply_to_id": "627476"
+        },
+        {
+            "user_name": "90°hallandibeinn",
+            "text": "Um leið og ég vel mono þá er það fast/valið fyrir mig í FC (Front Center) \nhttps://gyazo.com/45ddb52771f209ac1b222c1743943507",
+            "date": "2016-07-14 17:14:00",
+            "post_id": "627495",
+            "reply_to_id": "627493"
+        }
+    ],
+    "date": "2016-07-14 11:52:00"
+}

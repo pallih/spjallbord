@@ -1,0 +1,37 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "62497",
+    "title": "Linksys routerar á GPON tengingu",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=62497",
+    "posts": [
+        {
+            "user_name": "capteinninn",
+            "text": "Ég var að komast yfir Linksys routera og var að spá hvort ég gæti skipt þeim út fyrir þann sem ég er núna með.\nÞetta eru WAG354G OG WAP54G. Eftir því sem ég best veit eru þeir fyrir ADSL tengingar en ég væri til í að nota þá í staðinn fyrir routerinn sem ég fékk hjá Hringdu (einhver Edimax router).\nGet ég eitthvað breytt stillingum í þeim fyrir GPON-ið ?\nVar að spá að setja upp DD-WRT á WAP54G routernum jafnvel.",
+            "date": "2014-09-19 19:08:00",
+            "post_id": "573908",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Icarus",
+            "text": "Ættir að geta það ef þú kemur DD-WRT inn á routerinn og hann er með WAN port, myndi ég halda.\nÞvert á móti er GPON miklu leiðinlegra heldur en ljósleiðari GVR að því leyti að þú ert að stilla VLAN í routernum sjálfur. Svo það er alls ekki plug and play.",
+            "date": "2014-09-26 23:07:00",
+            "post_id": "574895",
+            "reply_to_id": "573908"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Ég er með ljósleiðarann í gegnum Gagnaveituna þannig að það ætti ekki að vera mikið vandamál held ég",
+            "date": "2014-09-27 00:27:00",
+            "post_id": "574902",
+            "reply_to_id": "574895"
+        },
+        {
+            "user_name": "Icarus",
+            "text": "Af hverju segistu þá vera með GPON?\nGPON kerfið er hjá Mílu.\nEn á ljósleiðara Gagnaveitunnar ættu allir standard ethernet routerar að virka með mjög basic uppsetningu.",
+            "date": "2014-09-27 00:46:00",
+            "post_id": "574904",
+            "reply_to_id": "574902"
+        }
+    ],
+    "date": "2014-09-19 19:08:00"
+}

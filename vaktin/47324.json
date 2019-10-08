@@ -1,0 +1,37 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "47324",
+    "title": "Upphal/upload",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=47324",
+    "posts": [
+        {
+            "user_name": "Smellurinn",
+            "text": "Sælir, er hjá fjölneti.. og var að spá hvort að upphal telst sem erlent download? ( Erlent Upphal ) og önnur spurning. Er með 50mb ljósleiðara.. á download/upphal að gefa mér netspilunar lagg???",
+            "date": "2012-04-20 14:30:00",
+            "post_id": "436687",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Daz",
+            "text": "a) Veit ekki, líklega best að hafa samband við þjónustuaðilann og spyrja að því.\nb) Það \ná\n ekki að gerast (það er ekki ætlunin), en það getur engu að síður gerst, þar sem upp og niðurhal nýtir tenginguna sem leikurinn er að reyna að nýta líka. Ætti að vera frekar auðvelt að prófa það með því að slökkva á öllu upp og niðurhali og mæla latency við serverinn og bera saman við latency þegar allt er á fullu í upp og niður.",
+            "date": "2012-04-20 14:34:00",
+            "post_id": "436690",
+            "reply_to_id": "436687"
+        },
+        {
+            "user_name": "kazzi",
+            "text": "Það bara getur ekki verið að upphal komi niður á download limit",
+            "date": "2012-04-20 17:02:00",
+            "post_id": "436728",
+            "reply_to_id": "436690"
+        },
+        {
+            "user_name": "Varasalvi",
+            "text": "Yup. Einnig þegar þú ferð yfir download limit og það er hægt á netinu þínu niður í ekkert þá hefur það ekki áhrif á upload hraðann. Svo ég efa að upload taki af download magninu þínu.\nEn ég er hinsvegar að tala um ADSL hjá símanum, kannski er þetta ekki alveg eins allsstaðar.",
+            "date": "2012-04-20 17:57:00",
+            "post_id": "436739",
+            "reply_to_id": "436728"
+        }
+    ],
+    "date": "2012-04-20 14:30:00"
+}

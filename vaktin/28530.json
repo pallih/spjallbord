@@ -1,0 +1,58 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "28530",
+    "title": "Multiplier að flakka upp og niður í CPU-Z",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=28530",
+    "posts": [
+        {
+            "user_name": "Oak",
+            "text": "Sælir\nEr það eðlilegt að Multiplier flakki frá 15x niðrí 5x ?\nÞað kemur oft not responding í sum forrit í nokkrar sek hjá mér og held að þetta sé ástæðan fyrir því.\ner með AMD X2 6000+\nEitthvað sem ég get gert ?",
+            "date": "2010-02-25 00:18:00",
+            "post_id": "246848",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Sydney",
+            "text": "Örgjörvar eiga það til að lækka sig um multiplier þegar þeir eru idle.\nPrófaðu að setja eitthvað brennsluforrit í gang, Prime95, IBT eða Orthos og sjáðu hvort eitthvað gerist þá.",
+            "date": "2010-02-25 00:19:00",
+            "post_id": "246849",
+            "reply_to_id": "246848"
+        },
+        {
+            "user_name": "Oak",
+            "text": "dettur ekki niður þegar að allt er í botni.\neitthvað annað sem getur valdið því að forrit eins og firefox verða not responding í smá tíma og halda svo áfram eðlilega ?",
+            "date": "2010-02-25 00:41:00",
+            "post_id": "246852",
+            "reply_to_id": "246849"
+        },
+        {
+            "user_name": "Sydney",
+            "text": "Lítið vinnsluminni eða fragmentaður diskur.",
+            "date": "2010-02-25 00:43:00",
+            "post_id": "246853",
+            "reply_to_id": "246852"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Þetta er 100% eðlilegt\n, gert svo kjarninn sé kaldari þegar lítil vinnsla er í gangi.\nEf þú vilt \"laga\" þetta, farðu þá í BIOS og slökkt á \"Cool 'N' Quite\". Hjá intel kallast þetta C1E og EIST.\nGræðir lítið að breyta þessu, þetta er samt alltaf gert þegar menn eru að yfirklukka, eykur stöðuleika þar sem ekki þykir rosalega hentugt að bumpa frá 800 Mhz í 4.0 Ghz fram og til baka..  \nLestu meira um EIST(SpeedStep ), C1E og CoolNQuite til að fá frekari uppls.\nAll the best.",
+            "date": "2010-02-25 01:25:00",
+            "post_id": "246859",
+            "reply_to_id": "246853"
+        },
+        {
+            "user_name": "Oak",
+            "text": "ég var að setja cool n quiet á.\ner með 4GB minni\nHugsa að ég setji hana bara upp aftur...held að það hafi eitthvað farið í rugl hjá mér þegar að ég setti hana upp síðast.\nTakk fyrir ábendingarnar.",
+            "date": "2010-02-25 07:53:00",
+            "post_id": "246867",
+            "reply_to_id": "246859"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Cool N Quite On \n= Multi Drop (15x til 5x)\nCool N Quite Off\n= Multi Lock (15x fast)\nAf því sem ég les viltu þú hafa þetta í \"off\".",
+            "date": "2010-02-25 11:36:00",
+            "post_id": "246891",
+            "reply_to_id": "246867"
+        }
+    ],
+    "date": "2010-02-25 00:18:00"
+}

@@ -1,0 +1,79 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "37306",
+    "title": "Flakkari tengdur við sjónvarp.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=37306",
+    "posts": [
+        {
+            "user_name": "heifttorres",
+            "text": "Þannig er mál með vexti að fyrir ekki svo löngu ákvað ég að formata flakkarann minn þannig að hann gæti tengst við Playstation 3 tölvuna mína en áður fékk ég ekki upp þá valmynd. \nAllavegana eftir þessa framkvæmd get ég einungis tengt flakkarann við tölvur en get þó ekki horft á bíómyndirnar mínar sem eru inná flakkaranum í gegnum sjónvarpið nema þá auðvitað í gegnum playstation. Þar sem ég hef virkilega lítið vit á tölvun þá leitaði ég hingað í von um svör á þessu vandamáli mínu.\nÞannig í vandamálið hljóðar til einfaldari skýringa svona. Ég fæ ekki upp valmynd af fileum þegar ég tengi flakkarann við sjónvarpið heldur einungis þegar tengt er flakkarann við tölvu eða playstation3 tölvuna mína, en það sem mig langar er að geta horft á flakkarann i sjónvarpinu ánþess að þurfa tengjast í gegnum Playstation sem tengd við sjónvarpið.\nTakk fyrir, Vona að þið getið orðið mér að liði.",
+            "date": "2011-03-25 18:38:00",
+            "post_id": "334301",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "hagur",
+            "text": "Sterkur leikur að segja okkur hverskonar flakkari þetta er ...",
+            "date": "2011-03-25 21:24:00",
+            "post_id": "334356",
+            "reply_to_id": "334301"
+        },
+        {
+            "user_name": "heifttorres",
+            "text": "Þetta er iNDI Media Hard Drive sjónvarpsflakkari, netið hjá mér í fucki og gat ekki fundið link keyptur í tölvuvirkni fyrir c.a. tveimur árum.\nHann upprunarlega virkaði í sjónvarpi fínt en núna fæ ég ekki upp þá valmynd til að geta horft á bíómyndir né þætti eftir að hafa verið að fikta með flakkarann.",
+            "date": "2011-03-26 19:38:00",
+            "post_id": "334622",
+            "reply_to_id": "334356"
+        },
+        {
+            "user_name": "heifttorres",
+            "text": "Enginn sem kannast við þetta vandamál hvernig maður breytir formattinu þannig að ég fái upp skjölin í sjónvarpinu ?",
+            "date": "2011-04-01 00:09:00",
+            "post_id": "336465",
+            "reply_to_id": "334622"
+        },
+        {
+            "user_name": "heifttorres",
+            "text": "upp",
+            "date": "2011-04-02 17:41:00",
+            "post_id": "337145",
+            "reply_to_id": "336465"
+        },
+        {
+            "user_name": "biturk",
+            "text": "gætir þurft að setja inn firmware á hann uppá nýtt\nfinndu bara nýjasta firmware fyrir flakkarann á síðu framleiðandans og fylgu leiðbeingunum",
+            "date": "2011-04-02 17:43:00",
+            "post_id": "337146",
+            "reply_to_id": "337145"
+        },
+        {
+            "user_name": "heifttorres",
+            "text": "Hefur þetta vandamál þá semsagt ekkert að gera með hvort hann sé Fat32 eða NTFS formattaður ?\nEn síðan með þetta firmware þá finn ég ekki síðu framleiðandans, einu upplýsingarnar sem ég hef eru INDi hardware og það stendur framan á flakkaranum.",
+            "date": "2011-04-02 23:47:00",
+            "post_id": "337283",
+            "reply_to_id": "337146"
+        },
+        {
+            "user_name": "heifttorres",
+            "text": "upp",
+            "date": "2011-04-06 10:21:00",
+            "post_id": "338092",
+            "reply_to_id": "337283"
+        },
+        {
+            "user_name": "heifttorres",
+            "text": "upp",
+            "date": "2011-04-10 17:56:00",
+            "post_id": "339182",
+            "reply_to_id": "338092"
+        },
+        {
+            "user_name": "Bioeight",
+            "text": "Sem sagt það var FAT32 filesystem á honum og þú formattaðir með NTFS?  Það gæti vel verið útskýringin á þessu, mjög einfalt. Til að prófa það þá tekurðu auðvitað bara afrit af öllu sem er á disknum og formattar með FAT32 og sérð hvort það breyti einhverju. Þegar þú tengir media player við tölvu þá virkar hann bara nákvæmlega eins og flakkari og skiptir engu máli hvernig media playerinn er, hann gerir ekkert þegar hann er notaður þannig. Hinsvegar þegar þú notar media player tengdan við sjónvarp þá ertu að nota media player hlutann til að spila af disknum, hann þarf að geta lesið gögnin. Ég hef verið með media player sem styður ekki NTFS og virkaði hann bara eins og hann væri tómur. Er ekki möguleiki á að tengja utanáliggjandi USB minnislykil eða eitthvað til að prófa það? Tekur kannski styttri tíma, gerir sama gagn. En já... til að staðfesta þarf að vita hvaða spilari þetta er og finna upplýsingar um hann, ég get það ekki út frá þessum upplýsingum.\nÍ hnotskurn, já það gæti verið að spilarinn þinn geti ekki lesið af NTFS hörðum disk og þess vegna virkar það ekki. PS3 og tölvan þín geta það hinsvegar og það skiptir þá engu máli hvort spilarinn geti það eða ekki.\nEDIT: Uh, PS3 supportar bara FAT32 ... svo þú formataðir þá yfir í það hlýtur að vera sem þýðir að spilarinn þinn getur ekki lesið FAT32 partition sem er miklu skrýtnara en ... gæti alveg verið en ég er ekki alveg jafn glaður með það. En já... frekari lýsingar og rannsóknir af þinni hálfu þurfa að koma fram líklega, þess vegna hefur ekki verið mikil hjálp í okkur hérna. Fer spilarinn yfir höfuð í gang?",
+            "date": "2011-04-10 19:14:00",
+            "post_id": "339190",
+            "reply_to_id": "339182"
+        }
+    ],
+    "date": "2011-03-25 18:38:00"
+}

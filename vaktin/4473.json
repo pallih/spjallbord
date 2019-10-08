@@ -1,0 +1,37 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "4473",
+    "title": "Spurn. með Raid og Partition???",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=4473",
+    "posts": [
+        {
+            "user_name": "Stebbi_Johannsson",
+            "text": "Gott kveld.\n\n\n\nÉg er með einn 160gb 8mb 7200rpm ATA133. Ég er að spá get ég keypt mér annan þannig Raidað þá saman og gert síðan tvö partition t.d. eitt 20gb fyrir Windows og síðan annað 300gb fyrir allt stöffið?\n\n\n\nEr það hægt?",
+            "date": "2004-06-20 23:09:00",
+            "post_id": "45581",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "jamm, en þarft náttla að hafa raid controler ef að þú ætlar að raid'a, nema að þú ætlir að software raid'a sem að er víst hægt með win2k (og xp?)\n\nEn hinsvegar veit ég ekki hvort að þú getur sett windows inn uppá nýtt á þessi 20gb, sem að er oft ástæðan fyrir því að menn partion'a.\n\nGetur það allavega pottþétt ekki með software RAID. Síðan er það spurning hvort að RAID'ið á móðurborðinu(ef þú ætlar að nota það) sé að hluta til software based. En ef þú ert með sér PCI RAID controller ættirru að geta formattað og sett inn uppá nýtt.\n\n\n\nps. annars myndi ég aldrei setja upp software RAID",
+            "date": "2004-06-20 23:40:00",
+            "post_id": "45585",
+            "reply_to_id": "45581"
+        },
+        {
+            "user_name": "arnarj",
+            "text": "ef það er raid controller á móðurborðinu eða þú ert með PCI raid spjald þá geturðu þetta já !!!\n\n\n\nEf þú notar Raid 0 (mun hraðara, en ef annar hrynur þá taparðu öllu) þá sér controllerinn til þess að diskarnir vinna sem einn. Getur partitionað þá eins og þú vilt.",
+            "date": "2004-06-21 00:30:00",
+            "post_id": "45595",
+            "reply_to_id": "45585"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "æjá, svarið mitt miðaðist við RAID 0, enda hljómaði spurning hjá Stebba einsog RAID 0",
+            "date": "2004-06-21 00:45:00",
+            "post_id": "45601",
+            "reply_to_id": "45595"
+        }
+    ],
+    "date": "2004-06-20 23:09:00"
+}

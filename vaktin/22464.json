@@ -1,0 +1,37 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "22464",
+    "title": "Myndbönd á RÚV.is",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=22464",
+    "posts": [
+        {
+            "user_name": "hundur",
+            "text": "Sælinú, ég er á Ubuntu 8.10 og ég hef alltaf átt í vandræðum með að spila myndbönd af Ruv.is, í Firefox vafranum\n. Það virkar bara stundum að spila vídjóin, en þá get ég ekki spólað áfram, pásað eða neitt þvíumlíkt. Ef vídjóin virka, þá byrjar bara fyrsta vídjóið að spila (ef þetta er t.d. kastljósþáttur þá get ég bara valið að horfa á fyrstu klippuna, og ég þarf að horfa á allan þáttinn í gegn ef ég vil horfa á seinasta myndbandið í þættinum.)\nEruði með hugmynd um hvað vandamálið gæti verið, og hvaða spilara/plugin ég ætti að notast við til að þetta virki eins og í Windows.",
+            "date": "2009-04-01 13:38:00",
+            "post_id": "202560",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "JReykdal",
+            "text": "Það er bara einfaldlega ekki hægt.",
+            "date": "2009-04-08 20:48:00",
+            "post_id": "203295",
+            "reply_to_id": "202560"
+        },
+        {
+            "user_name": "bridde",
+            "text": "fáðu þér vlc player\nfarðu í               media > open network\nprotocol seturu á \"http\" og Address á  \nhttp://http.0.muli.rs.ruv.is/video.ruv.is/4457151$1.wmv",
+            "date": "2009-04-08 20:57:00",
+            "post_id": "203297",
+            "reply_to_id": "203295"
+        },
+        {
+            "user_name": "bridde",
+            "text": "Minnir að það komi hak/option um að installa VLC Firefox plugin þegar þú installar Vlc",
+            "date": "2009-04-08 21:02:00",
+            "post_id": "203298",
+            "reply_to_id": "203297"
+        }
+    ],
+    "date": "2009-04-01 13:38:00"
+}

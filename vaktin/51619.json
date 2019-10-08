@@ -1,0 +1,51 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "51619",
+    "title": "Video grabber vs gæði á video",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=51619",
+    "posts": [
+        {
+            "user_name": "HómerZim",
+            "text": "Hæ\nég er óvanur þessum pælingum, en mig vantar að flytja gögn af filmu (DV) yfir í tölvu.\nEftir því sem mér skilst þá þarf ég að láta videocameruna (JVC GR-DVL 9800) spila filmuna og tengja með vír í tölvuna og láta þar eitthvað apparat taka það upp. (ef það er til betri aðferð væri ég til í að heyra um það)\nNú ég fór og keypti svona \nhttp://www.computer.is/vorur/6078/\n og tengdi með gulum/rauðum/hvítum RCA tengingum á milli.  \nFyrir það fyrst þá virkaði ekki hugbúnaðurinn sem fylgdi í boxinu(hann startaði eðlilega sýndi myndina sem cameran var að keyra reyndar í crappy gæðum en ég ákvað að reyna taka upp , en þegar ég ýtti á \"record\" þá fraus allt\" ég prófaði nokkrum sinnum og líka að henda öllu út og endur installa) þannig að ég prófaði að niðurhala öðru forriti til að vinna upptökuna með og náði í prufuútgáfu að \"powerdirector 11\". Það tókst betur, nema hvað gæðin á myndinni voru léleg (mjög léleg). ég prófaði að tengja með s-video (fyrir mynd) og hvítu og rauðu RCA (fyrir hljóð) og þá batnaði myndin örlítið, en er samt lélegt. \nTil samanburðar þá prófaði ég þetta beint í sjónvarp (með RCA tenginu Gulur/Rauður/Hvítur), þar er myndin mun betri. (ekkert frábær gæði, en alveg vel ásættanleg)\nÞví spyr ég hérna inni, í hverju liggur gæðamunurinn ? er þetta usb video grabber bara lélegur búnaður, þarf ég að kaupa betra innbyggt kort ?  eða þarf ég að nota eitthvað annað.\nÉg var að láta mér detta í hug hvort USB sé ekki nógu hraðvirkt, ég á að vera með usb2 sem á að geta gefið 480 Mbits (ef það er að virka eðlilega hjá mér) er það ekki sambærilegt við sambærilega gamalt firewire ?\n \nTölvan sem ég er með er svona Intel Duo 1.6 (775) Gigabyte P31-es3g móðurborð og Evga e-Geforce 8600 GT 256 skjákort 2 gb ddr2",
+            "date": "2012-11-18 22:17:00",
+            "post_id": "478723",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "DerrickM",
+            "text": "Ertu búinn að prófa Windows Movie Maker, notaði það sjálfur einu sinni?",
+            "date": "2012-11-18 22:24:00",
+            "post_id": "478725",
+            "reply_to_id": "478723"
+        },
+        {
+            "user_name": "vinsi2",
+            "text": "Ef ég skil vandamálið rétt þá ætlar þú að færa video sem tekið er upp á Mini-DV spólur inn í tölvu.  \n          \"vantar að flytja gögn af filmu (DV) yfir í tölvu.\"\nÞetta stykki sem þú keyptir er til að \"breyta analog vídeómerki í stafrænt form\"   en þú er með stafræna gögn á þínu bandi svo þetta virkar ekki. Hins vegar gætir þú tengt VHS tækið þitt við þetta og fært uppáhalds spólurnar yfir í stafrænt form.\nÉg googlaði þessa vél sem þú gafst upp og hún á að vera með firewire tengi  (IEEE 1394), þú þarft sennilega að nota það því USB er ekki nógu hraðvirkt til að hafa undan \nað flytja gögnin inn.  Ef að ekki er slíkt tengi á tölvunni þinni er hægt að fá kort með slíku       \nhttp://www.computer.is/flokkar/47/\nog snúru þarftu líka     \nhttp://www.computer.is/flokkar/146/\nSumar fartölvur eru með svona tengi.\nSennilega getur þú svo notað Windows Movie Maker eða eitt af mörgum klippiforritum til að taka á móti gögnunum og vista þau sem skrá á  harða diskinum.\nÉg er með vél frá Sony sem tekur á mini-DV spólur og skrárnar sem koma úr henni eru rúm 12 Gb klukkutíminn en það eru .avi skrár með lítilli þjöppun.\nVona að ég sé ekki bara að bulla og að þú hafir eitthvert gagn af þessu.\nGangi þér vel",
+            "date": "2012-11-18 22:58:00",
+            "post_id": "478732",
+            "reply_to_id": "478725"
+        },
+        {
+            "user_name": "Haxdal",
+            "text": "Þetta stemmir, þú tengir dv vélar bara með Firewire tengi við tölvuna og notar forrit einsog Windows Movie Maker til að recorda videoið.\nsource : Hef oft breytt dv spólum yfir í movie fæla til geymslu.  Ef það er notuð fartölva þá er best að recorda á flakkara,  fartölvudiskar eru (nema það sé ssd) yfirleitt ekki með nógu gott performance til að halda undan skrifinu á diskinn án þess að missa ramma.",
+            "date": "2012-11-19 09:39:00",
+            "post_id": "478777",
+            "reply_to_id": "478732"
+        },
+        {
+            "user_name": "HómerZim",
+            "text": "Takk fyrir góð svör.\nÉg gerði mér ekki grein fyrir að ég væri með digital \"skrá\" á filmunni. ég var einhvernveginn fastur í að hugsa að þetta sé bara filma \nÉg downloadaði windows movie maker, en það neitar að taka við nokkru frá usb video grabbernum. Ég þarf þá að verða mér útum eitthvað firewire dæmi eins og þið talið um og prófa það þannig.",
+            "date": "2012-11-19 22:02:00",
+            "post_id": "478947",
+            "reply_to_id": "478777"
+        },
+        {
+            "user_name": "DerrickM",
+            "text": "já verður að nota firewire",
+            "date": "2012-11-19 23:09:00",
+            "post_id": "478970",
+            "reply_to_id": "478947"
+        }
+    ],
+    "date": "2012-11-18 22:17:00"
+}

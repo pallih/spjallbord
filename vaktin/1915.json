@@ -1,0 +1,121 @@
+{
+    "forum_title": "Windows",
+    "id": "1915",
+    "title": "hjálp",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=1915",
+    "posts": [
+        {
+            "user_name": "Snorrmund",
+            "text": "er með Windows Xp pro og síðan fékk ég vírus af ircinu þennan britney.jpg og ég restartaði óvart þannig að þegar ég var að boota koma svartur skjár sem stóð á eitthvað í þessari átt \"Windows could not start because following file is missing or corrupt\n\n  <windows root>/system32/ntoskrnl.exe\" svo ég fekk windows disk hjá vini mínum(fann ekki minn) og hann var win xp home... :/ þegar ég boota kemur um að ég getir valið milli stýrakerfa s.s. Win Xp pro og Win Xp home það sem ég vill gera er að redda þessum file (ntoskrnl.exe) og henda home edition út því að allar gömlu stillingar, user accounts o.s.f.. eru í því en ég skoðaði windows directoryin :/ þau hétu WINDOWS og WINDOWS.0 ntoskrnl.exe er í báðum ég er ekki viss hvort þeirra sé home og pro. segjum að WINDOWS.0 er pro get ég þá copiad fileinn úr Home möppunni þangað eða er mismunandi fæll á báðum stöðum?? mér vantar guide til að redda þessum file og henda svo út Windows Xp home.",
+            "date": "2003-10-28 13:19:00",
+            "post_id": "17771",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "halanegri",
+            "text": "Úff, þetta var löng setning hjá þér. Ég skil ekki alveg\n\n hvað þú ert að segja, en ég skal gefa þér 2 mjög góð ráð varðandi öryggi í Windows:\n\n\n\n1. Ekki nota Outlook(allavega ekki á default stillingum).\n\n2. Ekki nota Internet Explorer(bara alls ekki, nema kannski fyrir Windows Update).",
+            "date": "2003-10-28 13:45:00",
+            "post_id": "17776",
+            "reply_to_id": "17771"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "Halanegri, já það er satt hjá þér að þú skildir ekki \n sko ég var að meina það að þessi vírus sem ég fékk var að dreifa sér gegnum irc í gær og í fyrradag ef maður fékk þennan vírus þá átti maður að eyða honum út en systir mín var á irc og ´hún restartaði óg ef að maður restartaði þá henti hann út ntoskrnl.exe sem gerir það að verkum að ég get ekki startað tölvunni á windows xp pro, svo ég fékk windows xp home diskinn lánaðann hjá vini mínum(ég týndi sko mínum) þá gerðist það að núna eru tvö stýrikerfi semsagt winxp pro og -||- home. mér vantar ennþá þennan fæl(ntoskrnl.exe) og ég þegar ég redda honum og þegar að windows xp pro er komið í lag vill ég henda út windows xp home, málið er að ég kann ekki að henda stýrikerfi út \n og ég er ekki viss hvort að það sé hægt að nota ntskrnl.exe úr winxp home í winxp pro? svo að spurningarnar eru: 1. Hvernig hend ég winxp home út? 2. Get ég tekið ntoskrnl.exe úr win xp home og sett hann í win xp pro möppunna þannig að windows xp pro virkI?",
+            "date": "2003-10-28 14:47:00",
+            "post_id": "17779",
+            "reply_to_id": "17776"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "Smá auka tip, bara til að skýra það sem halanegri var að segja.\n\n\n\nVið skiljum þig ekkert þegar þú skrifar í eina bunu án þess að nota punkta, kommur og greinarskil.",
+            "date": "2003-10-28 15:19:00",
+            "post_id": "17781",
+            "reply_to_id": "17779"
+        },
+        {
+            "user_name": "ICM",
+            "text": "Fyrst þið eruð núna búnnir að prófa þennan vírus gætuði sagt hvernig hann hagar sér? Þú ferð inná síðuna og hvað gerist? kemur svona verisign drasl þar sem þú getur valið yes eða kemur eitthvað upp þar sem þú getur valið ok og cacel eða hleðst þetta bara 100% sjálfkrafa inn. og ef svo hvað gerist, kemur gluggi sem segir að þið eigið að restarta eða gæti einhver lýst þessum vírus fyrir mig því annars þarf ég að fara að prófa þetta í wmware og ég nenni því ekki núna.",
+            "date": "2003-10-28 16:13:00",
+            "post_id": "17784",
+            "reply_to_id": "17781"
+        },
+        {
+            "user_name": "Theory",
+            "text": "Britney vírusinn er Java skrippa sem hefur .jpg endingu, IE les þetta og hugsar, \"nauhh massi, gaurin ruglaðist þetta er java, execute'a það bara\" þá \"patchar\" þetta windows mediaplayer, og sækir \"patch.exe\" alveg öruglega held ég að hann heiti það. Sú skrá er vírusinn sjálfur sem nagar stýrikerfið og eyðir/eyðileggur skrár. Vírusinn setur síðann línu í \"remote\" í mirc, ath aðeins í mIRC þar sem hann sendur fá sér msg með ákveðnu millibili þar sem hann auglýsir síðuna með viðskriftinni \"hey check it out\" eða eithvað í þeim dúr.\n\n\n\nBesta leiðinn til aðlosna við hann, er boota í safe mode, og hreinsa hann út, ef þú ekki kemst í safe mode þá setja inn annað windows, hreinsa hann út og replacea skrár.\n\n\n\nBesta leiðinn til að forðast hann er að hafa fengið disk frá mér með opnum hugbúnaði sem inniheldur Mozilla Firebird (vafri) \nhttp://www.mozilla.org\n , Mozilla Thunderbird (post forrit) www. mozilla.org og Open Office . org (office like forrit) \nhttp://www.openoffice.org\n\n\n\n\n3. Windows.0 er það sem seinna installið bjó til ef þú ákvaðst ekki neina aðra möppu, rétta og \"heila\" skráinn er þar, færðu hana bara yfir hina og eiddu hinni út.",
+            "date": "2003-10-28 16:35:00",
+            "post_id": "17787",
+            "reply_to_id": "17784"
+        },
+        {
+            "user_name": "ICM",
+            "text": "er ekki líka hægt að komast hjá þessu með að láta tölvuna spurja í hvert skipti sem á að keyra java eða auka security?",
+            "date": "2003-10-28 16:39:00",
+            "post_id": "17788",
+            "reply_to_id": "17787"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "TAKK KÆRLEGA \n:D en, ég er algjer nýgræðlingur varðandi windows semsagt format, innstall og remove \n gæti einhver svarað seinni spurningunni? hvernig hendi ég home edition.\n\n e.s. ef að ég repleisa nto..exe er vírusinn þá alveg farinn þarf ég ekkert að gera neitt annað ?",
+            "date": "2003-10-28 17:10:00",
+            "post_id": "17791",
+            "reply_to_id": "17788"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "hehe, annars þá var þetta allveg hárrétt hjá þér um að þetta patchaði eða eitthvad media player gamla nto... var media player merki",
+            "date": "2003-10-28 17:14:00",
+            "post_id": "17793",
+            "reply_to_id": "17791"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "hmm, ég er búinn að \"repleisa\" þetta en núna þarf ég að ná í aðra skrá svokallaða system semer á system32/config/system þetta er útskýrt sem \"file\" ekkert extension semsagt á ég lika að copya hann ?\n\n... já já geri það en eitt offtopic ég er með forrit sem heitir Hardware sensor monitor og þar er alltaf sýnt að að core voltage sé +2,26 sem sýnir rauðan bakrunn er etta eðlilegt?",
+            "date": "2003-10-28 17:52:00",
+            "post_id": "17794",
+            "reply_to_id": "17793"
+        },
+        {
+            "user_name": "halanegri",
+            "text": "Þú getur örugglega stillt IE á að keyra aldrei Javascript by defult, það er örugglega það eina sem kemur í veg fyrir þetta. Allavega þangað til MS sér ekki lengur ástæðu til executa .jpg skrár sjálfkrafa ef hægt er.\n\n\n\n\n\nBtw, Stocker, þú talar ennþá bara í belg og byðu, skil ekki allavega alveg hvað vandamálið er hjá þér núna.",
+            "date": "2003-10-28 18:06:00",
+            "post_id": "17798",
+            "reply_to_id": "17794"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Það er líka hægt að láta spurja hvort þú viljir executea java applet, það ætti að koma í veg fyrir þetta ef ég skil þetta rétt.",
+            "date": "2003-10-28 19:48:00",
+            "post_id": "17800",
+            "reply_to_id": "17798"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "hmm, k núna skal ég reyna að tala ekki í svona belg og byð, K?!.\n\n´Þetta er komið í lag með ntoskrnl.exe.\n\nnúna kemur að það vanti <windows root>/system32/config/SYSTEM á ég ekki bara að gera það sama og ég gerði áðann?.",
+            "date": "2003-10-28 20:17:00",
+            "post_id": "17803",
+            "reply_to_id": "17800"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "já, og eitt enn: Hvernig Eyði ég eiginlega windows út?",
+            "date": "2003-10-28 20:18:00",
+            "post_id": "17804",
+            "reply_to_id": "17803"
+        },
+        {
+            "user_name": "RadoN",
+            "text": "úff.. ég hef aldrei áður bara alls ekki nennt að lesa fyrsta póst þráðarins fyrr en nú, þetta var algerlega ólæslegt..",
+            "date": "2003-10-28 22:51:00",
+            "post_id": "17832",
+            "reply_to_id": "17804"
+        },
+        {
+            "user_name": "Theory",
+            "text": "Stocker, þú verður að ræsa í safe mode, annaðhvort í Home edition eða pro, hvort þeirra sem virkar, og setja inn norton Antivirus og update'a hann. Scannaðu svo harðadiskinn með Antivirus forritinu, vírusinn er þekktur undir nafninu W32/Petch.A og ætti nýjasta update af norton að finna hann. \n\nAnnars er besta úrlausnin hér að afrita öll þau gögn sem þú vilt spara, og formata harðadiskinn og setja inn windows uppá nýtt útaf því að þetta hefur corruptað margar skrár og jafnvel þótt þú reinstallir windows xp Pro þá getur það mislesið skrárnar og ekki skrifað heilbrigðar skrár yfir þær.\n\nEinnig er það ekki beint sniðugt að afrita allt sem þú getur úr Windows XP Home til að laga Pro, margar skrár eru mismunandi eftir útgáfum og getur þetta valdið conflict sem endar með því að tölvan vinnur hægar og verr.",
+            "date": "2003-10-28 23:20:00",
+            "post_id": "17838",
+            "reply_to_id": "17832"
+        }
+    ],
+    "date": "2003-10-28 13:19:00"
+}

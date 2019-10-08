@@ -1,0 +1,128 @@
+{
+    "forum_title": "Koníakstofan",
+    "id": "27430",
+    "title": "Vandræði með DDR3 og LG775 socket",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=9&t=27430",
+    "posts": [
+        {
+            "user_name": "C3PO",
+            "text": "Sælir vaktarar\nÉg er með heldur leiðinlegt vandamál. Ég er nýbúin að fjárfesta í MSI P43-C51 móðurborði ásamt Corsair 1333MHz 4GB (2x2GB) XMS3\nvinnsluminni. Svo setti ég í þetta Intel Q9650 örgjörva.\ntölvan startar sér fínt en byrjar svo að hökta og vera með alskonar stæla. Stundum frís tölvan og stundum hökktir hún bara. Ég er búin að fara með tölvuna 2 sinum í viðgerð og þeir finna ekkert , hafa reyndar prufað að skipta út minninu en það lagast ekkert. \nÉg hef reyndar heyrt að socket LG775 og DDR3 vinni ekki vel saman. Er það rétt??\nKannist þið við þetta vandamál?? Er eitthvað hægt að gera?? Er ég virkilega nauðbeygður að fara niður í DDR2 minni aftur? \n \nEndilega komið með eitthvað um þetta. Ég er búin að vera með vélina bilaða síðan 22 des.\nKv. Dabbi",
+            "date": "2010-01-09 16:12:00",
+            "post_id": "238384",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "evilscrap",
+            "text": "DDR3 Memory\tDDR3 800/1066 ? \nhttp://www.tolvulistinn.is/vara/19193\nLítur ekki út fyrir að supporta 1333 mhz=o\neða er ég einhvað að rugla?:o getur verið:D",
+            "date": "2010-01-09 16:42:00",
+            "post_id": "238391",
+            "reply_to_id": "238384"
+        },
+        {
+            "user_name": "C3PO",
+            "text": "Hélt það fyrst en á heimasíðu framleiðanda sést að þetta borð styður DDR3 1333 \nhttp://eu.msi.com/index.php?func=prodmb ... od_no=1837\n \nKv. Dabbi",
+            "date": "2010-01-09 16:55:00",
+            "post_id": "238395",
+            "reply_to_id": "238391"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Á hvaða verkstæði fórstu með tölvuna?\nDD3 á alveg að geta unnið með LGA775 og þetta móðurborð á að geta notað 1333MHz minni þótt það sé ekki gefið upp, það er þá bara undirklukkað.\nPrófaðu að skrifa memtest86 \nhttp://www.memtest86.com/\n á disk og boota af honum. Keyrðu það 2-4 sinnum í alveg í gegn. Ef það koma engar villur, þá er minnið líklegast í lagi. Getur líka reynt að keyra hana með 1 minniskubb í einu, hvort hún runnar eitthvað betur þannig.\nEr hún að frjósa aðallega þegar þú gerir eitthvað ákveðið? eins og í leikjum eða mikið álag á örranum eða slíkt?\nGæti líka bara verið eitthvað bull í stýrikerfi.",
+            "date": "2010-01-09 16:59:00",
+            "post_id": "238396",
+            "reply_to_id": "238395"
+        },
+        {
+            "user_name": "C3PO",
+            "text": "Vélin er að frjósa í startinu og líka í vinnslu, leikjum og þess háttar.\nSvoer eitthvað vesen með að hún er alltaf að koma með villu varðandi skjákorta driveranna. En segist resolva það aftur. Skjárinn blikar allur en kemur svo aftur.\nVélin er ný uppset með Win 7 64 bita. Hún var öll mjög skrýtinn strax í byrjun. Skjákorta driverinn crasaði strax. \nKannski ætti ég að formata aftur,,,annar veit ég ekki.\nÆtla að prufa að keyra þetta minnis test.\nKv. Davíð",
+            "date": "2010-01-09 17:04:00",
+            "post_id": "238397",
+            "reply_to_id": "238396"
+        },
+        {
+            "user_name": "Glazier",
+            "text": "Ertu að nota skjákortsdriverinn sem stýrikerfið setti upp eða sóttiru nýjasta driverinn af nvidia.com ?\nErtu 100% viss um að þér hafi tekist að setja upp skjákortsdriverinn ?\nÞað er nefnilega búið að vera feitt vesen með nýjustu nvidia driverana og þarf að fara \"krókaleiðir\" til að setja þá upp, þó svo að þú farir í gegnum allt setup-ið og ýtir svo á finish þá kemur meldingar þarna hjá Finish að það hafi ekki tekist að setja hann upp.. ef þú ert viss um að hann sé 100% upp settur og þú sért ekki að nota driverinn sem windows 7 setti upp þá veit ég ekki hvað er að :/",
+            "date": "2010-01-09 17:25:00",
+            "post_id": "238398",
+            "reply_to_id": "238397"
+        },
+        {
+            "user_name": "C3PO",
+            "text": "Jebbs \nBúin að setja skjákorta driverinn upp 100%. Ég kann að setja hann upp án þess að þessi villa komi sem að þú ert að tala um.\nEn takk samt\nKv. Dabbi",
+            "date": "2010-01-09 17:28:00",
+            "post_id": "238399",
+            "reply_to_id": "238398"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Ertu nokkuð með windows-ið á IDE disk",
+            "date": "2010-01-09 18:35:00",
+            "post_id": "238403",
+            "reply_to_id": "238399"
+        },
+        {
+            "user_name": "C3PO",
+            "text": "Já því miður er ég með Win uppsett á IDE diski.\nEr það eitthvað að eyðileggja þetta hjá mér.??\nKv. Davíð",
+            "date": "2010-01-09 19:02:00",
+            "post_id": "238408",
+            "reply_to_id": "238403"
+        },
+        {
+            "user_name": "C3PO",
+            "text": "Þegar tölvan svo frís að þá slökknar á ljósinu á lyklaborðinu mínu. Ég er með G11 lyklaborð.\nEr það eðlilegt. finnst eins og þetta sé móðurborð vandræði en ekki harðadisk vandræði.\nDabbi",
+            "date": "2010-01-09 19:07:00",
+            "post_id": "238411",
+            "reply_to_id": "238408"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Athugaðu hvort að IDE stýringin sé nokkuð á PIO mode í Device Manager og breyttu því í UDMA ef að það er ekki stillt þannig",
+            "date": "2010-01-09 19:18:00",
+            "post_id": "238412",
+            "reply_to_id": "238411"
+        },
+        {
+            "user_name": "Glazier",
+            "text": "Heyrðu.. þegar hún er að frjósa svona hjá þér og það slöknar á lyklaborðinu og músinni..\nSlöknar þá allveg á skjánum eða verður allur skjárinn að einum lit ? (vona að þú skiljir) t.d. allur skjárinn grænn eða grár..\nOg þegar hún frýs svona virkar að halda takkanum inni framan á tölvunni eða þarftu að slökva á aflgjafanum ?",
+            "date": "2010-01-09 19:20:00",
+            "post_id": "238414",
+            "reply_to_id": "238412"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "",
+            "date": "2010-01-09 19:23:00",
+            "post_id": "238417",
+            "reply_to_id": "238414"
+        },
+        {
+            "user_name": "C3PO",
+            "text": "Skjárinn er bara venjulegur. Dæmið bara frís. Og ég get slökkt með takkanum.",
+            "date": "2010-01-09 19:25:00",
+            "post_id": "238421",
+            "reply_to_id": "238417"
+        },
+        {
+            "user_name": "BjarkiB",
+            "text": "Var einu sinni með svipað vandamál, tölvan byrjaði að hökta og stundum fraus hún. Er með ddr minni og drasl tölvu. Fór með hana í viðgerð og lagaðist í smá tíma en kom svo aftur og er byrjuð að frjósa og hökta svo hættir það og kemur aftur og hættir....",
+            "date": "2010-01-09 19:33:00",
+            "post_id": "238422",
+            "reply_to_id": "238421"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Láta DDR3 virka með LG775 getur verið pppaain!\n..samt ekkert mál ef maður kann það, en er það síðasti hlutur sem ég myndi gera varðandi tölvukaup..",
+            "date": "2010-01-09 19:43:00",
+            "post_id": "238423",
+            "reply_to_id": "238422"
+        },
+        {
+            "user_name": "C3PO",
+            "text": "Núna er hún farin að frjósa alveg og svo er hún líka farinn að drepa á sér.\nHeld að þetta sé alveg pottþétt móðurborðið.\nSvo skoðaði ég að ég er að keyra stýrikerfið upp á 160 Gb sata diski en ekki IDE.\nkv. dabbi",
+            "date": "2010-01-10 12:27:00",
+            "post_id": "238487",
+            "reply_to_id": "238423"
+        }
+    ],
+    "date": "2010-01-09 16:12:00"
+}

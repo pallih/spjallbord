@@ -1,0 +1,58 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "21611",
+    "title": "Vandamál með partition :/",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=21611",
+    "posts": [
+        {
+            "user_name": "Tommihjj",
+            "text": "ubuntu finnur ekki harða diskinn en samt er finnur hún flakkaran minn þarna :/\nog ég er að runna windows fullkolega á þessari vél \nhjálp væri vel þegin \ntakk",
+            "date": "2009-02-13 00:46:00",
+            "post_id": "197735",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "coldcut",
+            "text": "prufaðu að restarta og fara aftur í setup og gáðu hvort það virki, það virkaði hjá mér",
+            "date": "2009-02-13 11:40:00",
+            "post_id": "197763",
+            "reply_to_id": "197735"
+        },
+        {
+            "user_name": "einarornth",
+            "text": "Ef þú ert með sata disk, prófaðu þá að stilla hann öðruvísi í BIOS, man ekki hvað þetta heitir, eitthvað legacy mode.",
+            "date": "2009-02-13 12:14:00",
+            "post_id": "197767",
+            "reply_to_id": "197763"
+        },
+        {
+            "user_name": "Tommihjj",
+            "text": "hef prófað að rs-a oft \nen ég skal próf að stilla í bios veit samt ekki alveg hvað þú ert að tala um í bios:/\ner með sata disk",
+            "date": "2009-02-13 12:27:00",
+            "post_id": "197771",
+            "reply_to_id": "197767"
+        },
+        {
+            "user_name": "einarornth",
+            "text": "AHCI heitir það víst, prófaðu það.\nHvernig tölva er þetta?",
+            "date": "2009-02-13 15:20:00",
+            "post_id": "197783",
+            "reply_to_id": "197771"
+        },
+        {
+            "user_name": "Tommihjj",
+            "text": "",
+            "date": "2009-02-13 18:31:00",
+            "post_id": "197798",
+            "reply_to_id": "197783"
+        },
+        {
+            "user_name": "Tommihjj",
+            "text": "virkaði að breyta úr sata tengi \ntakk fyrir tíman og svörin",
+            "date": "2009-02-13 21:07:00",
+            "post_id": "197816",
+            "reply_to_id": "197798"
+        }
+    ],
+    "date": "2009-02-13 00:46:00"
+}

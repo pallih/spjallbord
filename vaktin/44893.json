@@ -1,0 +1,65 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "44893",
+    "title": "er að leita af high end router",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=44893",
+    "posts": [
+        {
+            "user_name": "Halldór",
+            "text": "Ég er að leita af high end dual band gigabit router sem styður iptv (sjónvarp símans). Má líka vera ekki til á íslandi. Hverju mælið þið með?",
+            "date": "2012-01-17 19:40:00",
+            "post_id": "413478",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "tlord",
+            "text": "Cisco 3925 er góður.",
+            "date": "2012-01-18 16:44:00",
+            "post_id": "413657",
+            "reply_to_id": "413478"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Embrace yourself ef þú ætlar að nota routerinn með Sjónvarpi Símans.",
+            "date": "2012-01-18 16:49:00",
+            "post_id": "413658",
+            "reply_to_id": "413657"
+        },
+        {
+            "user_name": "natti",
+            "text": "Þó svo að það væri einfalt að fá þennan til að virka með sjónvarp símans, þá held ég að hann væri of hávær fyrir stofuna.\nÞað að routerinn kosti 1-2M er svo bara aukaatriði...",
+            "date": "2012-01-18 23:35:00",
+            "post_id": "413792",
+            "reply_to_id": "413658"
+        },
+        {
+            "user_name": "Halldór",
+            "text": "ok ég er ekki að leita af alveg svona high end heldur frekar eithverju eins og t.d. cisco WRT600N en því miður sá ég einhverstaðar að hann styður ekki sjónvarp símanns -__-",
+            "date": "2012-01-19 00:27:00",
+            "post_id": "413807",
+            "reply_to_id": "413792"
+        },
+        {
+            "user_name": "Halldór",
+            "text": "bump",
+            "date": "2012-01-20 15:45:00",
+            "post_id": "414179",
+            "reply_to_id": "413807"
+        },
+        {
+            "user_name": "einarth",
+            "text": "Sæll.\nÉg mæli með að þú notir bara routerinn frá símanum áfram fyrir sjónvarpið - en brúar internettenginguna yfir í annan \"high-end\" router sem sér um rútunina fyrir internetið.\nNatti kom með sample-config fyrir svona setup með router frá símanum á öðrum þræði hérna: \nviewtopic.php?f=18&t=42399&st=0&sk=t&sd=a&start=20\nKv, Einar.",
+            "date": "2012-01-20 16:22:00",
+            "post_id": "414191",
+            "reply_to_id": "414179"
+        },
+        {
+            "user_name": "Halldór",
+            "text": "Ég er ekki beint sá skarpasti þegar kemur að þessu en er einhver sem gæti útskýrt þetta aðeins betur fyrir mig?",
+            "date": "2012-01-30 12:34:00",
+            "post_id": "416919",
+            "reply_to_id": "414191"
+        }
+    ],
+    "date": "2012-01-17 19:40:00"
+}

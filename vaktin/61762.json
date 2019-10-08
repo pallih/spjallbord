@@ -1,0 +1,72 @@
+{
+    "forum_title": "Windows",
+    "id": "61762",
+    "title": "Hvernig losna ég við Rússneskar auglýsingar úr Chrome?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=61762",
+    "posts": [
+        {
+            "user_name": "kfc",
+            "text": "Sælir, eins og titillinn segir er ég í vændaðum með rússneskar auglýsingar sem birtast á nokkrum síðun og þær eiga ekki að vera þarna. Þetta er bara í Chrome og ekki í neinum öðrum vafra.\nHvernig losna ég semsagt við þetta?",
+            "date": "2014-07-25 19:37:00",
+            "post_id": "568222",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Vírushreinsa tölvuna?",
+            "date": "2014-07-25 19:40:00",
+            "post_id": "568225",
+            "reply_to_id": "568222"
+        },
+        {
+            "user_name": "kfc",
+            "text": "Tel mig vera búinn að því og hún finnur ekkert\nEr að nota Avast",
+            "date": "2014-07-25 19:43:00",
+            "post_id": "568228",
+            "reply_to_id": "568225"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Hljómar eins og vírus, Avast ætti samt að finna hann sé það raunin.\nErtu búinn að eyða út chrome og setja upp aftur?\nAnnars gæti þetta kannski átt við hjá þér:\nhttp://malwaretips.com/blogs/webget-virus-removal/",
+            "date": "2014-07-25 19:48:00",
+            "post_id": "568229",
+            "reply_to_id": "568228"
+        },
+        {
+            "user_name": "Frantic",
+            "text": "1. Control Panel -> Programs and Features -> Uninstall-a öllu sem heitir toolbar eitthvað.\n2. Chrome -> Menu -> Tools -> Extensions -> Disable-a allt sem þú kannast ekki við.\n3. Settu upp \nAdBlock\n -> \nSjá relevant þráð\nEf ekkert virkar þá ertu með vírus.\n1.Win8: Ctrl + Shift + Esc -> Startup flipi -> Finndu eitthvað grunsamlegt og smelltu á disable.\n1.Win7: Win + R -> msconfig -> Startup -> Taktu hakið úr öllu sem er grunsamlegt.\n2. Hentu út Avast og settu upp Microsoft Security Essentials -> Scan.\n3. CCleaner -> Scan.",
+            "date": "2014-07-25 19:50:00",
+            "post_id": "568234",
+            "reply_to_id": "568229"
+        },
+        {
+            "user_name": "kfc",
+            "text": "Setti upp AdBlock og það virðist virka\nTakk fyrir hjálpina",
+            "date": "2014-07-25 21:10:00",
+            "post_id": "568239",
+            "reply_to_id": "568234"
+        },
+        {
+            "user_name": "bigggan",
+            "text": "Ef þetta er á vegum google, þá skoðar þú bara eikvað annað, td var ég að skoða um daginn fjárstyrðar quad-þyrlur, og núna eru allar minar auglysingar komnir i þessu þema.",
+            "date": "2014-07-26 01:05:00",
+            "post_id": "568265",
+            "reply_to_id": "568239"
+        },
+        {
+            "user_name": "worghal",
+            "text": "gæti líka verið extension sem hefur rutt sér leið inn í chrome.\nhef séð nokkur svona atriði þar sem engir vírusar finnast og allt virðist vera í lagi en samt er eitthvað svona vesen í browsernum.\nkom í ljóst að þetta eru extensions sem einhvernveginn laumuðu sér inn",
+            "date": "2014-07-26 01:16:00",
+            "post_id": "568266",
+            "reply_to_id": "568265"
+        },
+        {
+            "user_name": "Hargo",
+            "text": "Mæli með að sækja AdwCleaner og skanna. Frítt tól.\nhttp://www.bleepingcomputer.com/download/adwcleaner/dl/125/\nMalwarebytes, HitmanPro og Combofix eru einnig öflug tól. Finnur þau öll á \nhttp://www.bleepingcomputer.com",
+            "date": "2014-07-26 01:23:00",
+            "post_id": "568267",
+            "reply_to_id": "568266"
+        }
+    ],
+    "date": "2014-07-25 19:37:00"
+}

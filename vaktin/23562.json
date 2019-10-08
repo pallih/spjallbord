@@ -1,0 +1,23 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "23562",
+    "title": "System File Checker spurning",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=23562",
+    "posts": [
+        {
+            "user_name": "Selurinn",
+            "text": "Sælir, hvernig get ég keyrt System File Checker á stýrikerfi þar sem ég er ekki bootaður af.\nÉg t.d. kemst núna ekki inní stýrikerfið eftir Service Pack 2 update sem ég setti inn. (Notaði standalone Installer) og eftir reboot þá kemur svartur skjár með hvítum stöfum um að keyra einhverja filea, byrjar á 0/46403, svo stoppaði hann á file níuhundruð og eitthvað, það var fileinn ehPlayer.dll, kom með einhverja villumeldingu með því; 0xc00000f eitthvað.\nSvo ég keyrði af Live CD og eyddi út skránni, þá komst hann uppað file 2585/46403 sem er þá (mcstore.dll) með meldinguna:\n!! 0xc000003a !!.\nBúinn að leita af þessum file á drifinu og búinn að eyða öllu mögulegu, samt stoppar hann þarna þrátt fyrir að þessi skrá sé ekki til staðar. Ég er allavega búinn að leita í Windows directoryinu og hann finnur ekkert eftir að ég eyddi öllu.\nJá, búinn að reyna startup repair af Windows diski og hefur engin áhrif.\nAllavega mig datt í hug að keyra sfc, eftir misheppnaðar tilraunir af chkdsk /f án árangurs, nær aldrei að laga neitt.\nÉg næ ekki að keyra system file checker af því það er eitthvað protected dæmi sem kemur í veg fyrir það, hvernig geri ég það?\nEr einhver leið annast að koma úr updateinu? Er ekki með System Restore virkt, svo ég get ekki farið aftur í tímann.\nGood Known, Safe Mode, hef reynt allt \nHvernig keyrir í sfc /scannow á HDD sem ég er ekki bootaður af?\nGetur einhver hjálpað mér með þetta vandamál yfir höfuð?\nKveðja.....",
+            "date": "2009-06-17 01:16:00",
+            "post_id": "209533",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Ehhhh, fuck it, gafst upp á þessu.\nNýtti bara tækifærið í leiðinni og setti upp 64-bitta kerfi.",
+            "date": "2009-06-17 04:55:00",
+            "post_id": "209539",
+            "reply_to_id": "209533"
+        }
+    ],
+    "date": "2009-06-17 01:16:00"
+}

@@ -1,0 +1,86 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "20999",
+    "title": "File Sharing",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=20999",
+    "posts": [
+        {
+            "user_name": "Pandemic",
+            "text": "Ég er að keyra Windows 2003 server og á í því vandamáli að hún man alltaf hvaða notandi er loggaður inn á share-ið, s.s hún promtar mig aldrei um notendanafn og lykilorð þegar ég fer inní share-ið á henni.\nEr ekki hægt að breyta um policy að hún forci alla notendur til að logga sig inn? \nÞetta er orðið virkilega pirrandi þar sem notandi sem hefur enginn réttindi er fastur inná hjá mér og ég get ekki breytt neinu.",
+            "date": "2009-01-11 22:10:00",
+            "post_id": "193524",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Xyron",
+            "text": "Getur alltaf disconnectað notanda af share-i sem þú hostar með því að fara í control panel > administrative tools > computer management > Skoða hvaða notendur eru tengdir í Sessions og open files.. getur einnig disconnetað þá sem þú vilt ekki hafa inni..     \nTil þess að stilla þetta þannig að bara ákveðnir notendur  geta loggað sig inni, þá ætti bara að vera nóg að stilla share-ið rétt..\nt.d. share-a folder og búa til notenda/ur til þess accesað share-ið. Fara síðan í security properties á þessum folder og taka \"everyone\" af acl listanum þar og setja þá usera/acl´s þar inni sem þú vilt að hafi aðgang að þessari möppu..",
+            "date": "2009-01-12 19:24:00",
+            "post_id": "193630",
+            "reply_to_id": "193524"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Ég er með þetta þannig að það eru bara ákveðnir userar sem komast í ákveðnar möppur en svo virðist sem annaðhvort clientin eða serverinn læsi inn þessum eina notanda til að opna share-ið og um leið og það gerist þá er ekki möguleiki fyrir mig að breyta um notanda sem er að skoða folderið til t.d að komast í aðra læsta möppu fyrir annann notanda.\nFyrir þá sem skilja þetta ekki.\nt.d \nEveryone - enginn réttindi og er ekki til\nAdministrator - hefur öll réttindi Read & Write \nNotandi 1 Read á t.d möppu 1 og 2\nNotandi 2 Read & Write á möppu 1\nÞegar ég slæ inn Notandi 1 og lykilorðið tengt honum þá festist hann inni og ómögulegt fyrir mig að tengjast með Notandi 2. Vill geta forcað nýtt session í hvert skipti, þar að segja login.",
+            "date": "2009-01-12 19:31:00",
+            "post_id": "193632",
+            "reply_to_id": "193630"
+        },
+        {
+            "user_name": "Xyron",
+            "text": "Held að ég skilji hvað þú ert að meina núna..\nertu ss. að login-a þig inn frá sömu tölvu? Tengist sem notandi 1 á tölvuni þinni, eftir það færðu aldrei login credentials gluggan þegar þú tengist share-inu\nef ég skil þig rétt þá getur þú breytt login-inu þínu með því að fara í run \"rundll32.exe keymgr.dll, KRShowKeyMgr\" og breytt því þar",
+            "date": "2009-01-12 20:03:00",
+            "post_id": "193638",
+            "reply_to_id": "193632"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Akkurat, prófa þetta á eftir",
+            "date": "2009-01-13 14:50:00",
+            "post_id": "193716",
+            "reply_to_id": "193638"
+        },
+        {
+            "user_name": "emmi",
+            "text": "Ef sami notandi/pass er á báðum tölvum þá biður hún þig aldrei um login info.",
+            "date": "2009-01-13 15:01:00",
+            "post_id": "193717",
+            "reply_to_id": "193716"
+        },
+        {
+            "user_name": "Xyron",
+            "text": "Ef hann væri með allar tölvurnar í domain-i og væri með það stillt þannig að þessi domain notandi gæti skoðað folder x á serverinum. Þá já, ef hann væri með workgroup þá er það ekki reyndin",
+            "date": "2009-01-13 20:34:00",
+            "post_id": "193764",
+            "reply_to_id": "193717"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Þetta virkar ekki. Eru engin credidentials geymd þarna.",
+            "date": "2009-01-14 00:55:00",
+            "post_id": "193801",
+            "reply_to_id": "193764"
+        },
+        {
+            "user_name": "Toranga",
+            "text": "Ef þig vantar bara að tengja einn annan notanda við þá ættirðu að geta blekt tölvuna með 2 acc með því að nota netbios nafn á einum og ip á hinum \nexample \n112.112.112.112 = server\n\\\\112.112.112.112\\servershare user:1\n\\\\server\\servershare user:2\nWindows vill nefninlega bara nota eitt credentials fyrir einn server. \nSvo virkar kannski net sessions /delete á servernum sjálfum til að disconnecta notendur af server share en ég efast um það.\nBy design er windows hannað þannig að ef þú ert loggaður inn á acc þá er sá acc notaður til að geyma upplýsingar um credentials fyrir windows share. Svo ef þú loggar þig út eða endurræsir vélina þá geturðu tengst aftur á share með hvaða user sem þig langar.",
+            "date": "2009-01-14 11:28:00",
+            "post_id": "193820",
+            "reply_to_id": "193801"
+        },
+        {
+            "user_name": "Xyron",
+            "text": "Bara til að vera viss, þú gerðir þetta á client tölvunni?",
+            "date": "2009-01-14 21:05:00",
+            "post_id": "193899",
+            "reply_to_id": "193820"
+        },
+        {
+            "user_name": "Toranga",
+            "text": "Ég prufaði þetta á 2 venjulegum xp vélum heima, þar er nóg að gera net use \\\\server\\share /d\nen ekki á 2003 servernum.",
+            "date": "2009-01-15 10:18:00",
+            "post_id": "193976",
+            "reply_to_id": "193899"
+        }
+    ],
+    "date": "2009-01-11 22:10:00"
+}

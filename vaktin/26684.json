@@ -1,0 +1,44 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "26684",
+    "title": "Smá vangaveltur með port á W7",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=26684",
+    "posts": [
+        {
+            "user_name": "Danni V8",
+            "text": "Ég er búinn að vera í vandræðum með COD6 - MW2 hjá mér og NAT Strict. Svo ég hef verið að fikta í öllu mögulegu sem tengist portum og er kominn alveg út í horn. Skil orðið ekki baun í þessu.\nÉg nota Port Checker tólið frá portforward.com til að ath. hvort ég hef opnað portin eða ekki, routerinn er SpeedTouch 585.\nÞað sem ég er búinn að komast að er að ég get opnað öll TCP port í routernum og án frekari stillingar segjir Port Checkerinn að portið er opið.\nEn með UDP portin get ég bara opnað öll fjögurrastafa port. Ef ég stilli inn 5 stafa UDP port þá segir Port Checkerinn \"Your port is NOT OPEN or NOT REACHABLE\". Jæja ég fór í aðra tölvu sem er með Vista (mín er með W7) og prófaði þetta sama þar. Í þeirri tölvu get ég opnað öll port í routernum án nokkura vandræða.\nJæja ég komst að því að í W7 þurfti ég að stilla inn 5 tölustafa UDP portin með því að fara í Network, Properties á routerinn, Settings og setja inn portin.\nÞannig ég ákvað að prófa eitt, setja inn port sem að er ekki opið í routernum og viti menn, það virkaði! Ég þarf ss. ekki að stilla neitt í routernum til að opna port á W7 tölvunni (hef ekki prófað Vista ennþá).\nMjög ánægður með að geta þetta en er samt ennþá mjög puzzled yfir því hvers vegna ég get ekki opnað 5 tölustafa UDP port í routernum í W7 tölvunni en get það á Vista tölvunni.\nAny ideas?",
+            "date": "2009-12-08 19:08:00",
+            "post_id": "232272",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "dnz",
+            "text": "Ertu með sömu ip tölu á tölvunni og á opnu portunum?",
+            "date": "2009-12-08 19:18:00",
+            "post_id": "232276",
+            "reply_to_id": "232272"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Að sjálfsögðu. Eins og ég sagði, þá virka öll TCP portin og fjögurra stafa UDP portin. Fimm stafa UDP portin eru í sömu reglu þau fjögurra stafa.",
+            "date": "2009-12-08 20:11:00",
+            "post_id": "232288",
+            "reply_to_id": "232276"
+        },
+        {
+            "user_name": "Kobbmeister",
+            "text": "Ég er með sama router. þetta er alltaf strict til svona 6 á kvöldin nema einhver invitar mér í lobby :/",
+            "date": "2009-12-10 00:27:00",
+            "post_id": "232542",
+            "reply_to_id": "232288"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Afsakið ef ég er að vekja gamlan þráð en ég skil ekki hvað þú átt við með því að \"fara í Network, Properties á routerinn, Settings og setja inn portin.\"",
+            "date": "2010-01-18 23:30:00",
+            "post_id": "240444",
+            "reply_to_id": "232542"
+        }
+    ],
+    "date": "2009-12-08 19:08:00"
+}

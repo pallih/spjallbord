@@ -1,0 +1,79 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "13395",
+    "title": "Asus a8n-sli",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=13395",
+    "posts": [
+        {
+            "user_name": "Tjobbi",
+            "text": "Sælir.\n\n\n\nÉg er með asus a8n-sli móðurborð og ég var að spá.\n\n\n\nÞetta móðurborð er s939 og supportar þá væntanlega amd 939 og fx 64 series.\n\n\n\nNú er límmiði utan á móðurborðskassanum sem stendur á \"supports am2\"\n\n\n\nEr þetta rétt? gæti ég sett td. 4400 í það?\n\n\n\nEitt annað, kannast einhver við AI NOS fídusinn í bios? hvað er gerir þetta nákvæmlega.\n\n\n\nFyrirfram þakkir.",
+            "date": "2007-02-25 20:42:00",
+            "post_id": "140115",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gnarr",
+            "text": "NOS þýðir \"Network Operating System\" á tölvumáli, hinsvegar gæti ég trúað að þeir séu að blanda bílamáli inní þetta, þar sem að þetta þýðir \"Nitrogen Oxyde System\".",
+            "date": "2007-02-25 21:11:00",
+            "post_id": "140119",
+            "reply_to_id": "140115"
+        },
+        {
+            "user_name": "Tjobbi",
+            "text": "Já, ég gæti best trúað því að þetta sé einhver o.c fídus.\n\n\n\nEn einhverja hugmynd um sökkulinn og am2?",
+            "date": "2007-02-25 21:16:00",
+            "post_id": "140120",
+            "reply_to_id": "140119"
+        },
+        {
+            "user_name": "Heliowin",
+            "text": "Sökkullinn á móðurborðinu er 939 og því ekki AM2. Þú ættir að geta sett 4400 í það en bara fyrir socket 939. \n\n\n\nSkil annars ekki afhverju það stendur \"supports AM2\". Það er jú með með DDR stuðning en ekki DDR2.\n\n\n\nEdit: mundu að hafa réttan BIOS fyrir 4400. Mér skilst að hann þurfi að vera allavega 0203 ef þú veist hvað það þýðir (ég er ekki kunnugur þessu).",
+            "date": "2007-02-25 21:45:00",
+            "post_id": "140124",
+            "reply_to_id": "140120"
+        },
+        {
+            "user_name": "Tjobbi",
+            "text": "Ég var að meina 4400 am2. Ert þú að meina hann líka?",
+            "date": "2007-02-25 22:20:00",
+            "post_id": "140129",
+            "reply_to_id": "140124"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Nei, hann er að meina Socket 939 4400.",
+            "date": "2007-02-25 22:34:00",
+            "post_id": "140131",
+            "reply_to_id": "140129"
+        },
+        {
+            "user_name": "Tjobbi",
+            "text": "Ahh okei skil. En hefur einhver hugmynd um ai nos?\n\n\n\nEftir því sem ég hef lesið er þetta einhverskonar booster þegar örgjörfinn er í mikilli áreynslu.\n\n\n\nGet valið um 3, 6, 8 og 10% boost\n\n\n\nEr ég að fara rétt með þetta?",
+            "date": "2007-02-25 22:36:00",
+            "post_id": "140133",
+            "reply_to_id": "140131"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "AI NOS™\n\nBoost performance when you need it the most!\n\nApplications such as 3D games and video editing demand a huge chunk of system resource.\n\nInject \"nitrous oxide\" into your CPU! The patented AI NOS™ (Non-delay Overclocking System) technology intelligently detects system load and automatically boosts performance for the most demanding tasks. Unlike other dynamic overclocking techniques, AI NOS™ reacts much faster to satisfy your unending need for speeds.\n\n\n\nallt í boði: \nGúggul\n\n\n\n\nSvo myndi ég persónulega halda að AM2 límmiðinn hafi verið settur á óvart af einhverjum  lagergutta",
+            "date": "2007-02-26 00:16:00",
+            "post_id": "140145",
+            "reply_to_id": "140133"
+        },
+        {
+            "user_name": "Tjobbi",
+            "text": "Heyrðu ég þakka kærlega fyrir þetta.\n\n\n\nÆtla stilla kvikindið á 10% og sjá hvað setur og já líklega voru þetta bara mistök með límmiðann.",
+            "date": "2007-02-26 00:28:00",
+            "post_id": "140150",
+            "reply_to_id": "140145"
+        },
+        {
+            "user_name": "ÓmarSmith",
+            "text": "Æji þetta er svona móðurborðs auto overclock fídus. Virkar ekki rassgat. ÉG var með svona í Shuttle vélinni minni og þar var mesta O.C um 25% en það virkaði eitthað takmarkað. Amk ekkert smeég fann neitt fyrir.",
+            "date": "2007-02-26 08:19:00",
+            "post_id": "140175",
+            "reply_to_id": "140150"
+        }
+    ],
+    "date": "2007-02-25 20:42:00"
+}

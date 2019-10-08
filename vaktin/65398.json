@@ -1,0 +1,37 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "65398",
+    "title": "Error 651",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=65398",
+    "posts": [
+        {
+            "user_name": "krissi24",
+            "text": "Það  hefur komið upp vandamál varðandi eina tölvu á heimilinu. Internetið hefur ekki verið á undanfarna 4- 5 daga og var að koma  aftur á í morgun og  allt virðist virka eins og venjulega nema 1 tölvu sem virðist ekki vilja nettengjast að nýju, hún er snúrutengd og kemur alltaf upp með villuna: \nerror 651 the modem or the connecting device has reported problem. Veit einhver hvernig á að laga þetta? Er nefnilega ekki heimavið en hef verið að reyna að laga þetta í sameiningu við aðila sem er heima en ekkert viðist virka :/",
+            "date": "2015-04-24 17:10:00",
+            "post_id": "597145",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "methylman",
+            "text": "Reset TCP/IP Settings.\n    If using a Laptop, make sure the wireless switch or button is turned on.\n    Replace the RAS PPPoE driver:\n        Open a Command Prompt as Administrator. \n        Select all the code below, then right click it and click Copy:\n        TAKEOWN /F \"C:\\Windows\\system32\\drivers\\raspppoe.sys\"\n        ICACLS \"C:\\Windows\\system32\\drivers\\raspppoe.sys\" /grant administrators:F\n        Right click in the Command Prompt window and click Paste.\n        Press Enter.\n        Once it has finished, close the Command Prompt.\n        Go to the following folder:\n        C:\\Windows\\system32\\drivers\n        Rename the raspppoe.sys file to raspppoe2.sys\n        Right click on the following file and click Save Target As / Save link as:\n        Vista RAS PPPoE Driver.\n        Save it in the C:\\Windows\\system32\\drivers folder.\n        Restart the computer.\n    If using a Modem, obtain the latest driver.\n    Reset your router.\n    Re-install your network card drivers.\nError 651 Modem PPPoE Broadband Internet Connection",
+            "date": "2015-04-24 17:52:00",
+            "post_id": "597149",
+            "reply_to_id": "597145"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Getur oft verið sniðugt að láta koma fram hvað er búið að reyna að gera. Svona fyrst þú segir \"ekkert virðist vera að virka\"",
+            "date": "2015-04-24 18:21:00",
+            "post_id": "597152",
+            "reply_to_id": "597149"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "Fyrirgefðu. Það er VirtualBox á vélinni sem er í rauninni ekkert í notkun og við erum búin að disable-a adapter-inn fyrir það og endurræsa tölvuna ásamt því að endurræsa netbúnaðinn sem er router og switch. Það er kannski spurning um að uninstall-a VirtualBox-inu? Það var áður á tölvunni og var ekkert að trufla þá.",
+            "date": "2015-04-24 19:33:00",
+            "post_id": "597156",
+            "reply_to_id": "597152"
+        }
+    ],
+    "date": "2015-04-24 17:10:00"
+}

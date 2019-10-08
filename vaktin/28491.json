@@ -1,0 +1,30 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "28491",
+    "title": "Gigabit PCI netkort sem er EKKI með Realtek chipsetti ?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=28491",
+    "posts": [
+        {
+            "user_name": "hagur",
+            "text": "Er með gigabit PCI netkort í servernum, eitthvað no-name ódýrt kort með Realtek chipsetti sem er að gera mig gráhærðan, með endalausu \"Network cable unplugged\" böggi og eina leiðin til að laga það er að breyta úr Auto-negotiate yfir í 100mbit full duplex eða eitthvað þaðan af verra, eða hreinlega uninstalla því og installa aftur.\nSvo nokkrum dögum seinna byrjar vandamálið aftur.\nHef lesið á netinu að þetta er soldið mikið að gerast með Realtek chipsettin.  Er því að leita að netkorti sem notar ekki Realtek.  Eina sem ég hef fundið er þetta hérna:\nhttp://www.computer.is/vorur/4721/\nAlvöru netkort með Intel chipsetti, en kannski heldur í dýrari kantinum.\nVitið þið um einhver önnur kort sem fást hérna?",
+            "date": "2010-02-23 17:22:00",
+            "post_id": "246516",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "hagur",
+            "text": "Nevermind ... er búinn að skoða vefsíður allra tölvuverslana á landinu held ég og það eru allir að bjóða uppá nánast sömu \"el-cheapo\" netkortin.\n... nema Computer.is sem fær plús fyrir vöruúrval.\nSkelli mér bara á þetta Intel PRO netkort hjá þeim.",
+            "date": "2010-02-23 22:53:00",
+            "post_id": "246621",
+            "reply_to_id": "246516"
+        },
+        {
+            "user_name": "ponzer",
+            "text": "http://www.netverslun.is/verslun/produc ... 6,393.aspx",
+            "date": "2010-02-25 11:28:00",
+            "post_id": "246888",
+            "reply_to_id": "246621"
+        }
+    ],
+    "date": "2010-02-23 17:22:00"
+}

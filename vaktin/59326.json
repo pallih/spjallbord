@@ -1,0 +1,58 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "59326",
+    "title": "mbl.is á ljósleiðara Gagnaveitu Reykjavíku",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=59326",
+    "posts": [
+        {
+            "user_name": "Gislinn",
+            "text": "Sælir, \nEr að lenda í mjög sérkennilegu vandamáli með internetið heima hjá mér.\nÉg er með 4 tölvur (linux og windows) og 3 snjalltæki (android) sem eru tengd við routerinn hjá mér, öll tækin eiga það sameiginlegt að þegar ég fer inná mbl.is í google chrome þá er mér redirectað inná síðu hjá gagnaveitunni með slóðina \nhttp://front01.gagnaveita.is/SELFCARE/index.do\n. Ef ég slæ inn \nhttp://www.mbl.is/frettir/\n þá fer ég inná mbl og ef ég slæ inn mbl.is í Firefox þá kem ég líka inná mbl.  \n \nEinhverjar hugmyndir um hvað gæti verið að valda þessu? Og afhverju ætli þetta sé eingöngu mbl sem lætur svona?\nEr búinn að prufa að endurræsa router, tengja tölvuna beint við ljósleiðaraboxið og endurræsa ljósleiðaraboxið en alltaf gerist þetta sama.",
+            "date": "2014-01-22 00:39:00",
+            "post_id": "548203",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "rango",
+            "text": "Kenni scumbag GR að redirecta þig yfir höfuð..  þeas ert kanski með þetta enþá í dns cachinu ég lenti í veseni með spjall.vaktin.is.",
+            "date": "2014-01-22 00:42:00",
+            "post_id": "548204",
+            "reply_to_id": "548203"
+        },
+        {
+            "user_name": "Plushy",
+            "text": "Prófaðu að hreinsa cache hjá þér í browsernum, skrítið samt að þetta sé að gerast með öll tæki :S",
+            "date": "2014-01-22 00:46:00",
+            "post_id": "548207",
+            "reply_to_id": "548204"
+        },
+        {
+            "user_name": "Gislinn",
+            "text": "Vó. Það virkaði að clear-a cache í google chrome (prufaði fyrst að flush-a windows dns cache sem virkaði ekki), sem er mjög skrítið þar sem þetta er eins á öllum tölvum og öllum stýrikerfum. Það hlítur að vera met í tilviljunum, eða að þetta sé tengt google-aðgangnum sem er þó ólíklegt.\nEn takk fyrir að benda mér á þetta.",
+            "date": "2014-01-22 00:51:00",
+            "post_id": "548209",
+            "reply_to_id": "548207"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Kemur GR ekkert við, vafrar vista síður svo þú þurfir ekki að hlaða þeim oft á stuttu tímabili. Hann hefur líklega farið inn á MBL þegar ljósleiðarinn náði ekki netsambandi, svo að allir vafrar hafa vistað hana í cache.",
+            "date": "2014-01-22 01:42:00",
+            "post_id": "548211",
+            "reply_to_id": "548209"
+        },
+        {
+            "user_name": "fannar82",
+            "text": "Svo er séns að þú hafir verið signed in í chrome á öllum þessum tækjum, þá syncar það cache líka á milli \n \"minnir mig\"\nedit.\nderp, learn 2read, sá ekki firefox.",
+            "date": "2014-01-22 01:49:00",
+            "post_id": "548213",
+            "reply_to_id": "548211"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Gæti líka verið með firefox syncaðann",
+            "date": "2014-01-22 10:41:00",
+            "post_id": "548240",
+            "reply_to_id": "548213"
+        }
+    ],
+    "date": "2014-01-22 00:39:00"
+}

@@ -1,0 +1,121 @@
+{
+    "forum_title": "Yfirklukkun, hraðaprófanir og mods",
+    "id": "10177",
+    "title": "Er hægt að yfirklukka á öllum móbóum?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=1&t=10177",
+    "posts": [
+        {
+            "user_name": "notendanafn",
+            "text": "Ég hef mikið verið að reyna að OC-a örgjörvan hjá mér. Ég hef reynt flestar leiðir svo sem: ClockGen og BIOS. En þegar ég fer í BIOS og \"Cell Menu\" þá sé ég hvergi að það sé hæg að breyta FSBinu, er það hægt?\n\n\n\nBtw.. ég er með MSI RS482M-IL",
+            "date": "2006-03-02 12:57:00",
+            "post_id": "110845",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "\"Er hægt að yfirklukka á öllum móðurborðum?\"\n\n\n\n\nSvarið við því væri nei, kannski hægt að yfrklukka flest, en efast um að hægt sé að fullyrða að það sé hægt að yfirklukka öll.\n\n\n\nEr ekkert svona 'Advanced' menu í BIOS hjá þér?  Ætti að standa eitthvað um það í Manualinum, ef það er.",
+            "date": "2006-03-02 13:12:00",
+            "post_id": "110848",
+            "reply_to_id": "110845"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "Þú verður að uppfæra biosinn á þessu borði. Það er hægt að overclocka þokkalega með þessu borði",
+            "date": "2006-03-02 13:36:00",
+            "post_id": "110852",
+            "reply_to_id": "110848"
+        },
+        {
+            "user_name": "hahallur",
+            "text": "Það er ekki hægt að OC-a allar Dell, HP og IBM tölvur og þannig dót.\n\n\n\nMSI RS482M-IL sounds like Medion",
+            "date": "2006-03-02 15:34:00",
+            "post_id": "110860",
+            "reply_to_id": "110852"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "nei. Þetta eru bara ódýr msi borð sem að tölvulsitinn seldi í svona uppfærslu pökkum. Það er til annað nafn yfir þessi borð líka.\n\n\n\nÞað er eitt svona borð heima, og með bios uppfærslu er þetta alveg nothæft í overclock. Þetta eru nForce2 borð með innbyggðu gefroce korti",
+            "date": "2006-03-02 15:56:00",
+            "post_id": "110864",
+            "reply_to_id": "110860"
+        },
+        {
+            "user_name": "notendanafn",
+            "text": "Ókey, ég þakka fyrir frábær svör.\n\n\n\nEn hvar fæ ég nújan BIOS fyrir þetta móðurborð?\n\nER flókið að installa honum?",
+            "date": "2006-03-02 16:04:00",
+            "post_id": "110866",
+            "reply_to_id": "110864"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "http://www.msi.com.tw\n\n\n\n\nmsi live update er einfaldasti hlutur í heimi...",
+            "date": "2006-03-02 18:25:00",
+            "post_id": "110881",
+            "reply_to_id": "110866"
+        },
+        {
+            "user_name": "hahallur",
+            "text": "Reyndar eru einhverjar rosa leiðbeiningar, þarf að búa til diskettu og svona.",
+            "date": "2006-03-02 19:44:00",
+            "post_id": "110886",
+            "reply_to_id": "110881"
+        },
+        {
+            "user_name": "notendanafn",
+            "text": "En ég dl nýjasta BIOS-inu í gegnum Live update, og ég flahaði bara í gegnum windowsið og flashið virkar og allt voða flott enginn error og svo rebootar tölvan sér og þá er BIOS-inn alveg eins. Og ef ég leita af BIOS í live update þá er eins og hann sé ekki installaður?\n\n\n\nÞarf ég að flasha mð floppy?",
+            "date": "2006-03-02 20:01:00",
+            "post_id": "110889",
+            "reply_to_id": "110886"
+        },
+        {
+            "user_name": "@Arinn@",
+            "text": "Prufaðu það ef þú kannt það sakar ekki.",
+            "date": "2006-03-02 21:18:00",
+            "post_id": "110893",
+            "reply_to_id": "110889"
+        },
+        {
+            "user_name": "hilmar_jonsson",
+            "text": "Ég er með Dell og ég fæ nú alveg að ráða hvort Hyper Threadning er virkt á örgjörvanum eða ekki. Svo fæ ég að velja hvort onboard video er virkt og með hvað miklu minni.\n\n\n\nÞað tæki mig um það bil 2 mínútur að skrifa um hitt sem ég fæ að ráða í Dell BIOSnum, en það er flest varðandi það hvort onboard hljóð, onboard usb og onboard serial eru virk.",
+            "date": "2006-03-02 23:15:00",
+            "post_id": "110902",
+            "reply_to_id": "110893"
+        },
+        {
+            "user_name": "notendanafn",
+            "text": "Er ekki enn búinn að finna út úr þessu.\n\nEinhverjar tillögur?",
+            "date": "2006-03-03 15:19:00",
+            "post_id": "110946",
+            "reply_to_id": "110902"
+        },
+        {
+            "user_name": "@Arinn@",
+            "text": "Búinn að prufa floppy disk ?",
+            "date": "2006-03-03 16:20:00",
+            "post_id": "110957",
+            "reply_to_id": "110946"
+        },
+        {
+            "user_name": "notendanafn",
+            "text": "Er að reyna að redda ér floppy drifi og disk.",
+            "date": "2006-03-04 00:32:00",
+            "post_id": "111015",
+            "reply_to_id": "110957"
+        },
+        {
+            "user_name": "mjamja",
+            "text": "þú átt líka að geta formattað usb drif sem flash drif",
+            "date": "2006-03-04 20:56:00",
+            "post_id": "111084",
+            "reply_to_id": "111015"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "afhverju notið þið ekki winflash?!?",
+            "date": "2006-03-04 21:39:00",
+            "post_id": "111089",
+            "reply_to_id": "111084"
+        }
+    ],
+    "date": "2006-03-02 12:57:00"
+}

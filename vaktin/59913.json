@@ -1,0 +1,30 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "59913",
+    "title": "[HJÁLP]24porta switch \"modes\"",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=59913",
+    "posts": [
+        {
+            "user_name": "ASUStek",
+            "text": "það er lan, og erum með nokkra switcha en einn switchin sem er 24 er með \"modes\" og það eru 4 modes ACT FULL 100 og COL, \nallied telesyn AT-8024GB, ég googlaði þetta en fann ekkert nema 350blaðsíðu guide og ég er alltof hooked í þessu lani til að nenna því þannig ef einhver getur hjálpað mér\nþá sendi ég á hann auka beta key í elder scrolls online",
+            "date": "2014-02-27 14:26:00",
+            "post_id": "553463",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "einarth",
+            "text": "Með mode takkanum ertu að stilla hvað mode ljósið á viðkomandi porti sýnir.\nCOL - Collisions\n100 - link speed 10/100\nFULL - Full/half duplex\nACT - Active (umferð)\nEf þú stillir mode á t.d. \"100\" þá sýnir mode ljósið á viðkomandi porti hvort það sé 100Mb link eða 10Mb.\nKv, Einar.",
+            "date": "2014-02-27 14:36:00",
+            "post_id": "553464",
+            "reply_to_id": "553463"
+        },
+        {
+            "user_name": "ASUStek",
+            "text": "Ah alveg rétt ég var semi ekki þora ýta á neitt ef 40mans er að spila LoL \nTakk fyrir þetta!",
+            "date": "2014-02-27 15:11:00",
+            "post_id": "553468",
+            "reply_to_id": "553464"
+        }
+    ],
+    "date": "2014-02-27 14:26:00"
+}

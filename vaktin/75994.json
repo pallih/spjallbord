@@ -1,0 +1,58 @@
+{
+    "forum_title": "Verkfæraskúrinn",
+    "id": "75994",
+    "title": "Rafmagn í eldhúsi - skrítin tengi",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=87&t=75994",
+    "posts": [
+        {
+            "user_name": "hundur",
+            "text": "Sælinú.\nVið erum að gera upp eldhúsið okkar og erum að velta fyrir okkur rafmagnsmálum. Á tveimur stöðum er tengi sem ég hef ekki rekist á áður, með þremur pinnum. Hvurslags tengi er þetta, er þetta eitthvað sem er úrelt og ætti að skipta um? \n \nHin pælingin var svo hvort að öll raftækin þurfi að vera á eigin \"línu\" (circuit) og hvað það þýðir. Gæti ég t.d. verið með ísskáp og veggofn tengt í þetta tengi hér?",
+            "date": "2018-04-08 08:33:00",
+            "post_id": "670102",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "ColdIce",
+            "text": "Lesist með tilliti til þess að það er langt síðan ég lærði rafvirkjun\nÞarft sér grein fyrir ofninn. 16A öryggi með 2.5q vírum. Þetta er líklegast hugsað sem tengi fyrir ísskáp/örbylgjuofn combo.\nHeld að þetta sé Ítalskt tengi en hvort sem það er það eða ekki þá myndi ég bara skipta því út",
+            "date": "2018-04-08 09:19:00",
+            "post_id": "670104",
+            "reply_to_id": "670102"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Þegar ég tók eldhúsið hjá mér í gegn hér um árið þá breyttum við skipulaginu það mikið að það þurfti að brjóta úr veggjum og leggja fyrir nýjum dósum, í leiðinni þá var \"by default\" allt rafmagn í eldhúsinu endurnýjað.\nMæli með því að reyna finna einhvern í þetta, það er fátt leiðinlegra en að vera búinn að fjárfesta í nýrri innréttingu og svo virkar allt annað ekki eins og það á að vera.",
+            "date": "2018-04-08 11:02:00",
+            "post_id": "670105",
+            "reply_to_id": "670104"
+        },
+        {
+            "user_name": "Dúlli",
+            "text": "Fáðu þér rafvirkja í þetta. \nOg þessi 3x pinnan tengill er gamll ofn/helluborðs tengill sem er ekki notaður í dag, öll raftæki yfir 16A í málstraum eru fasttengd samkvæmt ÍST 150:2009\nOg passaðu upp á það að hann sé mentaður, getir flétt upp hér \nhttp://rafis.is/sveinalisti\n , Ef hann er ekki á listanum þá er hann að ljúga.",
+            "date": "2018-04-08 11:14:00",
+            "post_id": "670107",
+            "reply_to_id": "670105"
+        },
+        {
+            "user_name": "jonfr1900",
+            "text": "Þetta er líklega Ítalskt plögg (gerð L) sem er þarna á ferðinni og er greinilega mjög gamalt. Eldavél þarf að vera á sér öryggi og línu (16A lágmark). Þú þarft að fá rafvirkja í þetta og taka út allar eldri lagningar sem þarna eru til staðar. Þessir vírar skemmast með tímanum ef það kemst raki í þá.\nGerð L tengi\n.",
+            "date": "2018-04-08 16:03:00",
+            "post_id": "670121",
+            "reply_to_id": "670107"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Fáðu rafvirkja sem er á þessum lista: \nhttp://rafis.is/um-rsi/sveinalisti\nÉg var að skipta úr eldavél yfir í ofn og helluborð. Rafvirki tengdi nýtt öryggi 25A og setti upp nýja litla rafmagnstöflu inni í einum eldhússkápnum.\nHelluborðið er þá beintengt í 25A öryggið og ofn og uppþvottavél á sér 16A og að mig minnir 12A öryggjum í nýju litlu töflunni.",
+            "date": "2018-04-09 08:58:00",
+            "post_id": "670145",
+            "reply_to_id": "670121"
+        },
+        {
+            "user_name": "hundur",
+            "text": "Kom auðvitað ekki að tómum kofanum hér frekar en fyrri daginn, takk fyrir svörin. Greinilega margt sem þarf að hafa í huga varðandi rafmagnið í eldhúsinu.",
+            "date": "2018-04-10 13:38:00",
+            "post_id": "670216",
+            "reply_to_id": "670145"
+        }
+    ],
+    "date": "2018-04-08 08:33:00"
+}

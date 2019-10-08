@@ -1,0 +1,72 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "49412",
+    "title": "Edimax router með stæla við Xbox 360",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=49412",
+    "posts": [
+        {
+            "user_name": "capteinninn",
+            "text": "Er með einhverja stæla frá Edimax router frá Hringdu.\nXbox 360 virðist ekki ná að tengjast við routerinn hvorki með snúru eða þráðlaust. Talaði við Hringdu á vefspjallinu og þeir könnuðust ekki við þetta. Mér var samt sagt að færa klukkuna 2 eða 3 ár aftur í tímann og uppfæra firmware-ið því ég get ekki loggað mig inn í routerinn.\nHefur einhver annar lent í þessu? Er ég að taka einhverja sénsa með því að uppfæra firmware að ég geti látið hann bilað?",
+            "date": "2012-08-01 16:37:00",
+            "post_id": "457986",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "depill",
+            "text": "Nei þú ert ekki að taka séns, svo er hann líka í ábyrgð.\nÞú ert greinilega með 7284WnA routerinn frá Edimax. Hér er firmwareið \nhttp://www.edimax.com/en/support_detail ... 4&pl1_id=1\nHér er útskýringin fyrir vandamálinu \nhttp://www.edimax.com/images/Image/Firm ... 0fails.pdf\nMyndi setja routerinn í 1.12 og vera viss um að Edimaxinn sé örugglega með UPnP enabled.",
+            "date": "2012-08-01 17:19:00",
+            "post_id": "457992",
+            "reply_to_id": "457986"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Snilld, takk fyrir þetta\nMan einhver hvað default router pass er á þessum edimax routerum?\nEr það ekki 1234 eða eitthvað ?",
+            "date": "2012-08-01 19:56:00",
+            "post_id": "458011",
+            "reply_to_id": "457992"
+        },
+        {
+            "user_name": "depill",
+            "text": "Jú það er user admin ( velur hann )  og pass 1234. Hann mun samt segja það sé rangt user og pass nema að þú spólir tímanum aftur í tölvunni þinni eins og leiðbeiningarnar segja til um.",
+            "date": "2012-08-01 20:04:00",
+            "post_id": "458012",
+            "reply_to_id": "458011"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Búinn að uppfæra\nNetið varð miklu hægara, fór úr rúmlega 8-10 mbps yfir í 1.5\nXboxið virkar ekki ennþá. Fæ bara upp að hún fær ekki IP tölu frá router",
+            "date": "2012-08-01 22:45:00",
+            "post_id": "458084",
+            "reply_to_id": "458012"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Veit einhver hvað getur oldið því að netið verði talsvert hægara þegar ég uppfæri firmware-ið á routernum ?",
+            "date": "2012-08-05 18:41:00",
+            "post_id": "458639",
+            "reply_to_id": "458084"
+        },
+        {
+            "user_name": "depill",
+            "text": "hmm yfir wifi eða kapal. Wifi stillingarnar gætu hafa breyst við firmware upgrade.\nEr Xbox vélin ekki að fá ip tölu er það sem sagt vandamálið ? Ekki NAT Restricted o.s.frv ? Er hún tengd þráðlaust eða með kapli ?",
+            "date": "2012-08-05 18:58:00",
+            "post_id": "458642",
+            "reply_to_id": "458639"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Er með net yfir rafmagn á tölvunni þannig að tæknilega séð er þetta kapall.\nEr með xboxið tengt beint með snúru þar sem routerinn er hliðiná tölvunni.\nSamkvæmt local network glugganum í routernum fær xboxið ip tölu en ég held að ég þurfi að opna port fyrir xboxið en það gengur eitthvað illa",
+            "date": "2012-08-05 19:15:00",
+            "post_id": "458643",
+            "reply_to_id": "458642"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Veit einhver góða leið til að opna port fyrir xbox með þessum router? Finn ekki leiðbeiningar á portforward fyrir þennan router",
+            "date": "2012-08-07 20:11:00",
+            "post_id": "458958",
+            "reply_to_id": "458643"
+        }
+    ],
+    "date": "2012-08-01 16:37:00"
+}

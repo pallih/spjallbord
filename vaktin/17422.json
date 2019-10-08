@@ -1,0 +1,107 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "17422",
+    "title": "GeForce 8800GT(G92) frís í leikjum ???? (rauðir punktar)",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=17422",
+    "posts": [
+        {
+            "user_name": "hsm",
+            "text": "Ég er með \neVGA NVIDIA GeForce 8800GT(G92) 512MB\n\n\nOg það kemur alltaf það sama eftir um 20-40 min þegar ég er að spila FarCry\n\nÞá koma rauðir punktar á skjáinn og tölvan frýs  \n\n\nÞetta er svona grisjað yfir skjáinn og mis þétt.\n\nÉg var að spá í hvort að þetta gæti verið skjákortið því að þetta gerist líka í Hitman Blood Money en samt ekki í NFS MW \n  (reyndar samt svolítið síðan ég spilaði hann)\n\nEða gæti þetta verið leikirnir ??????\n\nEf einhver hefur lent í svipuðu eða veit hvað gæti verið að þá má láta vita hér",
+            "date": "2008-03-13 11:10:00",
+            "post_id": "169877",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "olafurjonsson",
+            "text": "Þetta getur verið hugbúnaðar vandamál. Ég er nýbúinn að lenda í þessu með mitt skjákort 8800GT 512mb.\n\n\n\nTil að útiloka að þetta sé hugbúnaðarmál verður annaðhvort að setja tölvuna uppá nýtt eða færa kortið í aðra tölvu og setja hana uppá nýtt eins og ég þurfti að gera. \n\nEf sama vandamál er enn að koma þá er þetta að öllulíkindum skjákortið.",
+            "date": "2008-03-13 11:44:00",
+            "post_id": "169882",
+            "reply_to_id": "169877"
+        },
+        {
+            "user_name": "Runar",
+            "text": "Ég myndi fyrst og fremst skjóta á hita vandamál.. myndi prófa aðra leiki sem eru þungur í vinnslu til að sjá hvort þetta gerist í þeim. Finnst ólíklegt að þetta sé hugbúnaðar tengt. Annars er líka þæginlegt að sækja forrit til að skoða hitann á kortinu.. þarf ekki endilega að vera hitavandamál í skjákortinu samt.",
+            "date": "2008-03-13 12:11:00",
+            "post_id": "169884",
+            "reply_to_id": "169882"
+        },
+        {
+            "user_name": "TechHead",
+            "text": "bilað skjákort",
+            "date": "2008-03-13 12:37:00",
+            "post_id": "169886",
+            "reply_to_id": "169884"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "hehehe...here we go again...núna verður allt vitlaust",
+            "date": "2008-03-13 12:40:00",
+            "post_id": "169887",
+            "reply_to_id": "169886"
+        },
+        {
+            "user_name": "ÓmarSmith",
+            "text": "hahahaha\n\n\n\nGo Stebbi.\n\n\n\n\n\n\n\n\n\nGerrard: Prufaðu að keyra 3dMark 2-3 í röð og sjáðu hvort þetta gerist þar. Ef þetta gerist þar líka er þetta líklegast hitavandamál á kortinu eða e-ð sem gerir það að verkum að það drullar á sig undir álagi.",
+            "date": "2008-03-13 12:47:00",
+            "post_id": "169889",
+            "reply_to_id": "169887"
+        },
+        {
+            "user_name": "Ripper",
+            "text": "Það eru ágætis líkur á að þetta sé bilun í skjákortinu",
+            "date": "2008-03-13 13:00:00",
+            "post_id": "169892",
+            "reply_to_id": "169889"
+        },
+        {
+            "user_name": "hsm",
+            "text": "Er til eitthvað forrit sem maður getur séð hitann á skjákortinu á meðan það er í vinnslu eða býr til log skrá svo að maður geti séð hvað hitinn fer í mest??\n\n\n\nSvo er eitt annað, ég las á NVIDIA þetta hér.\n\nIssue\nMicrosoft® Windows® 2000 and Windows XP systems using AMD K7 and K8\nprocessors can hang when an AGP or PCI‐E program is used.\n• Root Cause\nThere is a known problem with Microsoft® Windows® 2000 and Windows XP\nsystems using AMD K7 and K8 CPUs that results in the Microsoft operating system\nallocating overlapping 4M cached pages with 4k write‐combined pages. This\ncondition results in undefined behavior and data corruption, and is explicitly\ndisallowed by the AMD CPU manual.\nThis problem can affect any device driver in the system that allocates writecombined\nsystem memory, but is usually most easily reproduced with graphics\ndrivers since graphics drivers generally make heavy use of write‐combined system\nmemory for performance reasons.\n\n\nEr ekki \"AMD64 X2 4400+\" K8 örgjörvi??\n\n\n\nÓmar : Annars er ég búinn að renna 3DMakr 06 loop X 3 og ekkert þar að virðist vera.",
+            "date": "2008-03-13 16:04:00",
+            "post_id": "169904",
+            "reply_to_id": "169892"
+        },
+        {
+            "user_name": "hsm",
+            "text": "Eftir að hafa lesið \nÞRÁÐINN\n þinn þá held ég að það sé best að ég tali bara við Klemmi þar sem þetta er nákvæmlega sama kort og keypt á sama stað   \n\n\nÉg bjalla í Tölvutækni á morgun.",
+            "date": "2008-03-13 20:19:00",
+            "post_id": "169928",
+            "reply_to_id": "169904"
+        },
+        {
+            "user_name": "ÓmarSmith",
+            "text": "Já, spjallaðu við þá og láttu þá prufa þetta.\n\n\n\nEn ef 3dmark loopar þá er kortið ekki að drulla á sig vegna hita. Það er klárt mál.\n\n\n\n3dmark reynir meira á vélina en flestir leikir .",
+            "date": "2008-03-13 23:12:00",
+            "post_id": "169943",
+            "reply_to_id": "169928"
+        },
+        {
+            "user_name": "Dr3dinn",
+            "text": "Þú kannt að vekja áhuga á þér er það ekki? \n\n\n\n\n\n\nALLIR DJÖF BILAÐ SKJÁKORT  gmgmgmgmg \n\n\n\n\nNeinei segi svona en þessi umræða er víst búinn að vera í hringi og nokkur\n\nheljarstökk!",
+            "date": "2008-03-14 12:43:00",
+            "post_id": "169981",
+            "reply_to_id": "169943"
+        },
+        {
+            "user_name": "Halli25",
+            "text": "Spurning hvort klemmi sé ennþá tilbúinn með kryddið fyrir hattinn hans TechHead",
+            "date": "2008-03-14 13:15:00",
+            "post_id": "169987",
+            "reply_to_id": "169981"
+        },
+        {
+            "user_name": "Dr3dinn",
+            "text": "Bara gaman að lesa þegar þeir eru að væla hvor hefuru rétt fyrir sér, og hvaða rök þeir hafa með máli sínu.\n\n\n\nHvernig lærir maður annars ef engin er til staðar til að kenna manni eða benda manni á mistök sín",
+            "date": "2008-03-14 16:03:00",
+            "post_id": "170006",
+            "reply_to_id": "169987"
+        },
+        {
+            "user_name": "hsm",
+            "text": "Kortið bilað og Tölvutækni menn leistu þetta með stakri prýði að vanda 110% þjónusta",
+            "date": "2008-03-28 04:32:00",
+            "post_id": "171005",
+            "reply_to_id": "170006"
+        }
+    ],
+    "date": "2008-03-13 11:10:00"
+}

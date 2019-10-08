@@ -1,0 +1,65 @@
+{
+    "forum_title": "Koníakstofan",
+    "id": "79398",
+    "title": "Nettengd öryggiskerfi fyrir sumarbústað",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=9&t=79398",
+    "posts": [
+        {
+            "user_name": "hagur",
+            "text": "Hvað er málið í dag ef maður vill setja upp öryggiskerfi í sumarbústað?  Þá á ég ekki við kerfi t.d frá ÖM eða Securitas, heldur bara kerfi með nettengingu og appi til að fá tilkynningar ef eitthvað er í gangi og til að geta \"kíkt\" inn í húsið til að sjá hvort allt sé í lagi.\nEiningar sem ég hefi í huga:\n - Hreyfiskynjarar\n - Hurða/gluggaskynjarar\n - Reykskynjarar\n - Myndavélar\n - Sírena\n - Eitthvað fleira?\nÉg geri mér grein fyrir því að það væri hægt að henda svona kerfi upp t.d með Smartthings, en ég er að leita að meira idiot proof og out-of-the-box lausn, helst.",
+            "date": "2019-06-03 16:41:00",
+            "post_id": "689583",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "wait",
+            "text": "Var að nýskrá mig til að spyrja nákvæmlega sömu spurningu  \n  Langar til að hætta með Securitas en nenni ekki neinu veseni.\nÞað sem ég er búinn að skoða er eftirfarandi:\nWattle - Fæst í Elko. Er með SIM varaleið. Finnst það möst, sé fyrir mér að ef það kviknar í þá er rafmagn og net fljót að detta út, hugsanlega áður en reykskynjarar fara í gang. Er frekar dýrt 100 þús start pakkinn í Elko) og svo þegar maður rýnir í skilmálana þá er maður að borga 10$ á mánuði fyrir  SIM varaleiðina. \nhttps://elko.is/wasecuritkit-wattle-oryggiskerfi\n.\nS6Evo - Fæst í húsasmiðjunni, er líka með SIM varaleið, virðist vera meira öryggiskerfi en endilega Smart Home kerfi, átta mig ekki á því hvað er hægt að tengja við hubbinn. Er ódýrara en Wattle og engin áskriftargjöld. \nhttps://www.husa.is/thjonusta/um-vorur/%C3%B6ryggiskerfi-fyrir-heimilid-og-sumarhusid\nEf einhver hefur reynslu af þessu eða einhverjum öðrum kerfum þá væri gaman að heyra það.",
+            "date": "2019-06-03 16:59:00",
+            "post_id": "689584",
+            "reply_to_id": "689583"
+        },
+        {
+            "user_name": "Skari",
+            "text": "Vinn hjá Nortek og veit að við erum tiltörulega nýbyrjuð að selja svona 'snjallkerfi' frá Ajax  ( \nhttps://ajax.systems/\n ). \nHef ekki prófað þetta sjálfur svo er ekki alveg með allt á hreinu en first impression eru víst góð þótt það vanti meiri reynslu á þetta.. td hvort batteríendingin sé eins góð og framleiðandinn segir að sé, hvernig útisírenan/úti hreyfiskynjarinn höndli betur þetta klassíska íslenska veður og fl.\nÞetta á að vera einfalt í uppsetningu og allt gert í appinu. \n2 týpur af hub, annars vegar sem þarf ethernet og hinn sem er aðeins öflugari og getur tengst með wifi, hub-inn er með innbyggða rafhlöðu og hægt að setja auka sim kort í (td hægt að byðja um auka sim kort á númeri sem þú átt sem virkar bara á 3g/4g þannig að það er enginn auka kostnaður eða fastur kostnaður), með því er hægt að láta þig vita ef það verður rafmangslaust. \n2 týpur af reykskynjara, annarsvegar reyk/hita og reyk/hita/co2, virka sem stakir reykskynjarar án hub-sins en svo með hub-num þá á að vera hægt að stilla að ef 1 fer í gang að þá fari allir í gang. \nEru með helstu einingarnar, vatnsnema, hurðaskynjara/gluggaskynjara, hreyfiskynjara og fl. \nÓkostir sem ég hef heyrt\nLyklaborðið er með einhverju glans áferð svo það verður fljótt kámugt. (líka hægt að nota fjarstýringu eða símann bara)\nInnisirenan er lágvær (er gefin upp 81dB-105dB minnir mig, en væri t.d. að setja fleiri af þeim þá, eru litlar og nettar eða bara láta útisírenuna duga)\nExtenderinn fyrir þetta á ekki að koma fyrr en í lok árs.\nEins og er þá er bara hægt að tengja hikvision/safire myndavélar við þetta\nEkki komnar neinar reglur eins og í smartthings enn, t.d. að þótt það er hitanemi í hverjum skynjara þá geturðu ekki búið til reglu \nsem segir að ef hitinn fer niður fyrir 10°C þá sendir hann þér tilkynningu, held samt að þeir séu að vinna í því.\nGetur kíkt svo bara á síðuna hjá þeim, eru með fleiri einingar líka en er að fá mér svona kerfi sjálfur eftir nokkrar vikur svo ég mun geta sagt eitthvað meira um þetta þá. \nEn eins og ég segi, bara búin að hafa þetta í nokkra mánuði og get ekki mælt með neinu nema hafa prófað þetta sjálfur en þetta er amk valmöguleiki og getur heyrt í mér ef þú hefur einhverjar fyrirspurnir, kem því þá áleiðis á réttan stað\n// Update: \nFór með ranga hluti hérna, átt að geta tengt hvaða IP myndavél sem er við þetta með RTSP",
+            "date": "2019-06-03 18:56:00",
+            "post_id": "689591",
+            "reply_to_id": "689584"
+        },
+        {
+            "user_name": "Hargo",
+            "text": "Fæ að fylgjast með þessum þræði. Er í sömu pælingum nema bara fyrir húsið mitt.",
+            "date": "2019-06-03 19:42:00",
+            "post_id": "689592",
+            "reply_to_id": "689591"
+        },
+        {
+            "user_name": "Hargo",
+            "text": "Verðið á þessu kerfi í Húsasmiðjunni er ansi gott. Væri einmitt fróðlegt að fræðast meira um það. Einnig spurning með myndavélarnar, hvort þetta sé bara live stream eða hvort þetta geymi einhverjar upptökur aftur í tímann.",
+            "date": "2019-06-03 19:56:00",
+            "post_id": "689593",
+            "reply_to_id": "689592"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Takk fyrir þessar uppástungur, er að skoða þetta",
+            "date": "2019-06-04 08:42:00",
+            "post_id": "689605",
+            "reply_to_id": "689593"
+        },
+        {
+            "user_name": "wait",
+            "text": "Sæll Skari, ég finn ekkert um verðið á þessu á síðunni hjá Nortek, veistu hvað þetta kostar?",
+            "date": "2019-06-04 09:41:00",
+            "post_id": "689610",
+            "reply_to_id": "689605"
+        },
+        {
+            "user_name": "Skari",
+            "text": "Það á greinilega þá bara eftir að uppfæra þetta en veit að eitthvað er hérna \nhttps://www.heimkaup.is/leita?q=ajax\n en samt ekki allar einingar sem eru í boði.\nath samt að í þessum starter pakka þá er þetta gen 1 af þessum hub, þarft þá ethernet í hann, ásamt því að sim backup er bara 2g og ekki eins öflugur og 'pro' útgáfan.. held að við séum að selja pro útgáfuna af hubnum á ca 50-55þús  stakan.",
+            "date": "2019-06-04 20:10:00",
+            "post_id": "689637",
+            "reply_to_id": "689610"
+        }
+    ],
+    "date": "2019-06-03 16:41:00"
+}

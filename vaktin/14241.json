@@ -1,0 +1,37 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "14241",
+    "title": "Overclock ?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=14241",
+    "posts": [
+        {
+            "user_name": "worghal",
+            "text": "jamm, ég er hérna með AMD AM2 +4600, sem er c.a. 2.4Ghz, og í biosnum fyrir overclocking er hann í 200, en ég get komið honum upp í 400.6.\n\n\n\nætti ég að overclocka hann, ef svo, hversu hátt ?\n\n\n\nog btw, hér er smá meira info.\n\n\n\nMobo, MSI K9N Platinum\n\nminni, 2x 512mb (800Mhz)\n\nkæling, Zalman CNPS9500 AM2 \nhttp://www.zalman.co.kr/eng/product/vie ... 2&code=005\n\n\nPSU, 500W Blue storm",
+            "date": "2007-05-12 21:09:00",
+            "post_id": "146212",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "odinnn",
+            "text": "Veistu eitthvað um að overclocka? Ef ekki, sem mér sýnist þú ekki gera, þá er best fyrir þig að googla umræðuefnið og lesa sér meira til.\n\n\n\nOverclock er ekki eitthvað sem við getum sagt þér að stilla svona og svona, overclock er framkvæmt með því að fikra sig áfram smátt og smátt með einstaka hluti og þannig komast að sem bestri sameiginlegri útkomu.",
+            "date": "2007-05-12 21:32:00",
+            "post_id": "146214",
+            "reply_to_id": "146212"
+        },
+        {
+            "user_name": "Taxi",
+            "text": "Ef þú hefðir sett FSB í 400,þá myndi tölvan ekki ræsa.\n\n\n\nþað verður að lækka MHz á minnum,því að minnin yfirklukkast líka með örranum,eða gera það sem er betra,aftengja minnisbrautina frá FSB.\n\n\n\nMultiplier er 12 ef ég man rétt,vertu samt viss um það áður en þú byrjar.\n\n12xm x 217fsb gerir 2,6GHz\n\n12xm x 234fsb gerir 2,8GHz\n\n12xm x 250fsb gerir 3,0GHz\n\n\n\n3,2GHz er held ég,það hæsta sem hefur náðst á þessum örgjörva.\n\nÉg mæli með að þú prufir 2,8GHz til að hafa allt stöðugt.\n\n\n\n3,0 GHz gæti verið raunhæft yfirklukk á þessum búnaði,EF þú gerir eftirfarandi breytingar í BIOS.\n\n\n\nÞú gætir þurft að lækka multplierinn í 11 og hækka FSB á móti í 273.\n\nLíklega þarftu að auka strauminn á Vcore í 1.48V.\n\nSetja minnin á 2T,slaka á tímasetningu minnana,setja minnishlutfallið í 3:4,lækkar HTT í 4 úr 5 og passa að minnin fái nægan straum.\n\n\n\nEf þú skilur ekki ALLT þetta,þá áttu EKKI að vera að yfirklukka.",
+            "date": "2007-05-13 02:30:00",
+            "post_id": "146233",
+            "reply_to_id": "146214"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "Byrjaðu líka á að finna út hvar \"Clear CMOS\" jumerinn er á móðurborðinu þínu, og líka hvað hann gerir.",
+            "date": "2007-05-13 06:38:00",
+            "post_id": "146241",
+            "reply_to_id": "146233"
+        }
+    ],
+    "date": "2007-05-12 21:09:00"
+}

@@ -1,0 +1,114 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "6205",
+    "title": "Tölvan hagar sér furðulega",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=6205",
+    "posts": [
+        {
+            "user_name": "ibs",
+            "text": "Núna nýverið hefur tölvan verið mjög hávær, ég veit ekki hvað veldur þessu en það hefur örugglega eitthvað með vélbúnaðinn að gera.\n\n\n\nÆtli þetta sé viftan sem er með þennan óvenjulega hávaða, hörðu diskarnir? Ég veit ekkert í minn haus um þetta. \n\n\n\nEn kannski er þetta vandamál tengt öðru vandamáli sem ég er með, það er þegar ég er að skrifa diska í Nero þá lækkar alltaf Used Read buffer úr 100% yfir í 0% en byrjar svo aftur í 100%, þetta endurtekur sig alltaf aftur og aftur. Ég held alveg örugglega að þetta vandamál með að skrifa diska hafi byrjað um svipað leyti og tölvan varð hávær.\n\n\n\nTölvan mín:\n\nÉg er með Windows XP SP2 + ónothæft Ubuntu Linux á tölvunni. Tölvan hefur 2,4 GhZ Intel Pentium 4 örgjörva, Gigabyte 8SQxxx eitthvað móðurborð, 512 DDR minni. HDD: 80 GB + einn 160 GB. DVD skrifari og annað DVD drif, ónýtt (eða ótengt floppy drif), GeForce FX 5200 skjákort.",
+            "date": "2004-11-02 22:27:00",
+            "post_id": "63861",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "BlitZ3r",
+            "text": "ef hávðinn er verulega hávær þá er möguleiki að 1 viftublað er brotið. það svona fyrsta sem mér deeetur í hug eða hún er bara full af ryki",
+            "date": "2004-11-02 23:43:00",
+            "post_id": "63880",
+            "reply_to_id": "63861"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Ég myndi bara reyna að komast að því hvað það er sem veldur hávaðanum.\n\n\n\nOpnaðu kassann og hlustaðu .... ef þú nærð ekki að heyra hvaðan hljóðið kemur, þá geturðu prófað að aftengja rafmagnið í hörðu diskana, einn í einu og prufa að ræsa tölvuna.\n\n\n\nÞað ætti að vera lítið mál að komast að því hvað það er sem veldur hávaðanum.",
+            "date": "2004-11-02 23:45:00",
+            "post_id": "63883",
+            "reply_to_id": "63880"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "er ekki málið bara að geisladrifið eða hörðudiskarnir séu að keyra á pio, og örgjörfinn sé í mjög mikilli vinslu og að hitna mikið þessvegna.\n\nþað er allaveganna frekar líklegt ef þú ert með hita stýrðar viftur.",
+            "date": "2004-11-03 07:26:00",
+            "post_id": "63903",
+            "reply_to_id": "63883"
+        },
+        {
+            "user_name": "ibs",
+            "text": "Ég fann hvað var að, þetta var einhver lítil vifta sem ég held að hafi átti að kæla móðurborðið. Hún slóst alltaf í eitthvað og ég var ekki alveg að fatta hvernig ég ætti að festa hana betur því að það voru engar holur fyrir skrúfurnar.\n\n\n\nÉg tók hana bara úr því að ég hélt að ég þyrfti ekki á henni að halda. Er í lagi að hafa hana ekki í?",
+            "date": "2004-11-07 14:41:00",
+            "post_id": "64559",
+            "reply_to_id": "63903"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "þetta er northbridge viftan. fyrst hún var þarna, þá þjónar hún líkegast tilgangi. ég mæli með að þú finnir þér gamalt örgjörfa heatsink og setjir í staðin.",
+            "date": "2004-11-07 14:50:00",
+            "post_id": "64560",
+            "reply_to_id": "64559"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Ég myndi nú hafa hana í þetta er viftan á kubbasettinu og það getur hitnað",
+            "date": "2004-11-07 14:51:00",
+            "post_id": "64561",
+            "reply_to_id": "64560"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Sæktu forritið Speedfan og athugað hitan á cipsettinu",
+            "date": "2004-11-07 14:59:00",
+            "post_id": "64562",
+            "reply_to_id": "64561"
+        },
+        {
+            "user_name": "ibs",
+            "text": "Svona lítur viftan út:\n\n\n\n\n\n\n\nÉg er ekki með þess viftu í núna og ég náði í forritið SpeedFan og það sýnir þessa stundina eftirfarandi:\n\n\n\nHD0: 40°C\n\nTemp1: 39°C\n\nTemp2: 33°C\n\nTemp3: 127°C  ----  Skuggalega hátt hitastig\n\n\n\nHvað stendur Temp1, 2, 3 fyrir? Allavega slekk ég á tölvunni núna, kíki hingað aftur á eftir og set kannski vandræðaviftuna aftur í.",
+            "date": "2004-11-07 15:23:00",
+            "post_id": "64566",
+            "reply_to_id": "64562"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "temp 3 er ótengdur mælir.. tókstu bara viftuan af eða heatsinkið líka?",
+            "date": "2004-11-07 15:33:00",
+            "post_id": "64568",
+            "reply_to_id": "64566"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Temp1 er líklega örri vegna þess að hann er hæstur, og Temp2 þá líklega northbridge. Sýnist þetta var ágætur hiti ef að hann hækkar ekki mikið.\n\n\n\nTemp3 er bara óvirkur mælir, skiptir engu máli.",
+            "date": "2004-11-07 15:34:00",
+            "post_id": "64569",
+            "reply_to_id": "64568"
+        },
+        {
+            "user_name": "ibs",
+            "text": "Ég tók bara viftuna, ekki heatsinkið. Eða er það ekki annars rétt hjá mér að heatsink er litli málmkassinn þar sem litla viftan var ofan á?",
+            "date": "2004-11-07 19:19:00",
+            "post_id": "64591",
+            "reply_to_id": "64569"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Jújú, það er rétt.\n\n\n\nEr hitinn annars ekkert að hækka?",
+            "date": "2004-11-07 22:48:00",
+            "post_id": "64614",
+            "reply_to_id": "64591"
+        },
+        {
+            "user_name": "ibs",
+            "text": "Svona er þetta núna:\n\n\n\nHD0: 42°C\n\nTemp1: 40°C\n\nTemp3: 33°C\n\nTemp2: 127°C\n\n\n\nTemp2 og 3 virðist hafa víxlast.",
+            "date": "2004-11-07 23:19:00",
+            "post_id": "64629",
+            "reply_to_id": "64614"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "ef að lægra hitastigið virðist ekki ætla að hækka held ég að þú þurfir ekki að setja viftuna á, en passaðu samt vel uppá hitann",
+            "date": "2004-11-07 23:32:00",
+            "post_id": "64633",
+            "reply_to_id": "64629"
+        }
+    ],
+    "date": "2004-11-02 22:27:00"
+}

@@ -1,0 +1,65 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "20877",
+    "title": "Phase LED á Gigabyte móðurborði",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=20877",
+    "posts": [
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Vinur minn var að fá sér \nsvona\n móðurborð og þegar hann reynir að kveikja á henni þá fara viftur af stað í svona 2 sec og þá rebootar tölvan og þetta gerist bara aftur og aftur.. Svo eru einhver LED ljós á móðurborðinu sem heita PHASE LED og í manualnum segir að þau tákni CPU load eða eitthvað þannig (er að downloada manualnum til að checka á þessu)\nHvað getur þetta verið?? Örrinn ekki að fá nógan straum úr aflgjafa eða hvað??",
+            "date": "2009-01-05 21:55:00",
+            "post_id": "192590",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "\"nægan\"\nEinhver annar hjálpar þér með hitt samt, ég er í stafsetningardeild.",
+            "date": "2009-01-05 22:19:00",
+            "post_id": "192601",
+            "reply_to_id": "192590"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Búinn að tengja 4 pinna plöggið fyrir örran",
+            "date": "2009-01-05 22:25:00",
+            "post_id": "192608",
+            "reply_to_id": "192601"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Það er allt tengt sem á að vera tengt\nEDIT: Þetta segir manuallinn um PHASE LED: The number of lighted LEDs indicates the CPU loading. The higher the CPU loading, the more the number of lighted LEDs.\nHérna er manuallinn: \nhttp://europe.giga-byte.com/FileList/Ma ... ep45-ds3(r\n)_e.pdf",
+            "date": "2009-01-05 22:28:00",
+            "post_id": "192609",
+            "reply_to_id": "192608"
+        },
+        {
+            "user_name": "Zorglub",
+            "text": "Eigum við þá líka að fara í málfræðipælingar og ræða hvort orðinu \"samt\" sé ekki ofaukið í setningunni hjá þér og hvort þú sért ekki í \nstafsetningardeild\ninni\n.  \nps. Svo er það nægan\nn\n \n \nEn að öllu gríni slepptu þá gæti þetta verið galli í bios í borðinu, eða voruð þið nokkuð að uppfæra?",
+            "date": "2009-01-06 00:45:00",
+            "post_id": "192634",
+            "reply_to_id": "192609"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Nennir einhver að hjálpa mér með vandann please?",
+            "date": "2009-01-06 08:27:00",
+            "post_id": "192636",
+            "reply_to_id": "192634"
+        },
+        {
+            "user_name": "Zorglub",
+            "text": "Tja þess vegna spurði ég hvort þið hafið verið að flassa eða hvort að borðið hefur ekki ræst sig yfir höfuð.\nEf það hefur ekki ræst sig, þá er bara að aftengja diska og drif, víxla/skipta út minnum, skjákorti, aflgjafa og útiloka alla möguleika.\nEf ekkert virkar, þá eins og ég sagði hér fyrir ofan myndi ég giska á galla í bios=gallað borð=skila.",
+            "date": "2009-01-06 16:24:00",
+            "post_id": "192672",
+            "reply_to_id": "192636"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Tjah, það var nú soldið skondið að við prufuðum að taka CPU úr socketinu og þá náði allt að fara í gang (viftur n'such).. Gallaður örgjörvi??\nHann er samt ekki jafnþolinmóður og ég og ákvað að fara með hana og láta TechHead og fleiri um þetta (fór semsagt með þetta í Tölvuvirkni)",
+            "date": "2009-01-09 00:33:00",
+            "post_id": "193117",
+            "reply_to_id": "192672"
+        }
+    ],
+    "date": "2009-01-05 21:55:00"
+}

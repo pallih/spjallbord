@@ -1,0 +1,177 @@
+{
+    "forum_title": "Leikjasalurinn",
+    "id": "49351",
+    "title": "Sambandi við að setja upp minecraft server.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=14&t=49351",
+    "posts": [
+        {
+            "user_name": "Vignirorn13",
+            "text": "Ég er að setja upp server og ég er komin með islbukkit.minecraft.is frá gussa en enginn vinur minn nær að joina ? Hvernig set ég þetta upp þannig þetta virki ? og svo framveigis ? það væri sniild ef einhver snillingur gæti vitað þetta því gussi gat ekki hjálpað mér . Einhver ? Hjálp ?",
+            "date": "2012-07-30 12:45:00",
+            "post_id": "457461",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "mind",
+            "text": "Þú verður að koma þessu betur frá þér og ekki sleppa nauðsynlegum upplýsingum.",
+            "date": "2012-07-30 13:27:00",
+            "post_id": "457465",
+            "reply_to_id": "457461"
+        },
+        {
+            "user_name": "Vignirorn13",
+            "text": "Hvaða upplýsingar viltu ?",
+            "date": "2012-07-30 14:28:00",
+            "post_id": "457477",
+            "reply_to_id": "457465"
+        },
+        {
+            "user_name": "Krisseh",
+            "text": "Talaðu við símafyrirtækið sem þú ert hjá um hvaða gátt þú þarft að opna, og til öryggis þá geriru það sama við Windows Firewall.\nÞú finnur þá gátt sem þú þarft að opna í forritinu \"Minecraft_server\" eða það sem býr til þjóninn.\nSvo finnur þú \"IP address\" með því að spurja þjónustufulltrúann hjá símafyrirtæki sem þú ert hjá eða skrifa t,d ip í google search.\nÞá ertu kominn með Ip og port sem er alveg opnað fyrir, þá er það spurning hvort Gussi hafi tengt \"islbukkit.minecraft.is\" við þína ip og port, ég segi slepptu því bara og sentu vinum þínum bara ip og port þína og gerist ekki auðveldara.",
+            "date": "2012-07-30 14:34:00",
+            "post_id": "457481",
+            "reply_to_id": "457477"
+        },
+        {
+            "user_name": "Vignirorn13",
+            "text": "Hvaða ip get ég notað til þess að vinir minir geta joinað ?",
+            "date": "2012-07-30 14:59:00",
+            "post_id": "457491",
+            "reply_to_id": "457481"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "http://www.myip.is",
+            "date": "2012-07-30 15:07:00",
+            "post_id": "457493",
+            "reply_to_id": "457491"
+        },
+        {
+            "user_name": "Vignirorn13",
+            "text": "Já það er búið að opna port á því ip-i og það nær samt enginn að joina ?",
+            "date": "2012-07-30 15:11:00",
+            "post_id": "457494",
+            "reply_to_id": "457493"
+        },
+        {
+            "user_name": "tdog",
+            "text": "Hvaða IP er það, er það 85.197.203.53?",
+            "date": "2012-07-30 15:42:00",
+            "post_id": "457505",
+            "reply_to_id": "457494"
+        },
+        {
+            "user_name": "Vignirorn13",
+            "text": "Já ?",
+            "date": "2012-07-30 15:54:00",
+            "post_id": "457514",
+            "reply_to_id": "457505"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Hérna ættiru að finna allt info sem þú þarft:\nhttp://www.minecraftwiki.net/wiki/Tutor ... structions",
+            "date": "2012-07-30 15:57:00",
+            "post_id": "457516",
+            "reply_to_id": "457514"
+        },
+        {
+            "user_name": "Vignirorn13",
+            "text": "fór eftir einhverju þarna en það virkaði ekki. !!",
+            "date": "2012-07-30 18:03:00",
+            "post_id": "457560",
+            "reply_to_id": "457516"
+        },
+        {
+            "user_name": "Ratorinn",
+            "text": "Disable the firewall.",
+            "date": "2012-07-30 18:09:00",
+            "post_id": "457561",
+            "reply_to_id": "457560"
+        },
+        {
+            "user_name": "Vignirorn13",
+            "text": "Búinn slökkti á því . ....",
+            "date": "2012-07-30 18:26:00",
+            "post_id": "457566",
+            "reply_to_id": "457561"
+        },
+        {
+            "user_name": "Vignirorn13",
+            "text": "Samt virkar þetta ekki.. einhver hjálp ? ?",
+            "date": "2012-07-30 20:11:00",
+            "post_id": "457597",
+            "reply_to_id": "457566"
+        },
+        {
+            "user_name": "Ratorinn",
+            "text": "Ókei, hvaða error fá vinir þínir ef þeir reyna að joina ip-ið?\nAlso, vertu viss um að portið sé opið \nhttp://www.canyouseeme.org/",
+            "date": "2012-07-31 07:32:00",
+            "post_id": "457686",
+            "reply_to_id": "457597"
+        },
+        {
+            "user_name": "Vignirorn13",
+            "text": "Nei, Það virðist vera lokað.. en ég er hjá TAL og þeir opnuðu portið fyrir mig og ég sagði það er en lokað samkvæmt þessari síðu og þá sasgði hann að það sé samt opið og eitthvað blablabla..",
+            "date": "2012-07-31 13:45:00",
+            "post_id": "457717",
+            "reply_to_id": "457686"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Ég hef með góðum árangri hýst Ventrilo, CS:S, CS:Pm, RSPS o.fl. tegundir af serverum en aldrei hefur svona þjónusta\nsagt mér að portið sé opið þó að tugir einstaklinga séu tengdir mér. Ekki setja of mikið vægi á þær.",
+            "date": "2012-07-31 13:53:00",
+            "post_id": "457718",
+            "reply_to_id": "457717"
+        },
+        {
+            "user_name": "Ratorinn",
+            "text": "Getur svosem prófað að gera þetta sjálfur líka. \nhttp://portforward.com\n  Finnur bara þinn router.",
+            "date": "2012-07-31 21:36:00",
+            "post_id": "457831",
+            "reply_to_id": "457718"
+        },
+        {
+            "user_name": "agust1337",
+            "text": "farðu i server.properties or ef ip=***.***.***, og þar sem * er eitthver tala, eyddu því í ekki neitt og notaðu svo ip töluna sem kemur upp á t.d. \nhttp://www.cmyip.com\n \nhttp://www.whatismyip.com\nÞað virkar fyrir mig",
+            "date": "2012-07-31 22:32:00",
+            "post_id": "457853",
+            "reply_to_id": "457831"
+        },
+        {
+            "user_name": "Garri",
+            "text": "Til að byrja með, þarft að setja fasta ip-tölvu á serverinn. Segjum að hún sé 192.168.1.10\nÞá ferðu í router-inn og forwardar portinu sem leikurinn notar í þessi samskipti yfir á þessa ip-tölu\nBýrð til exceptions í firewall og vírusvörnum.\nLoks, þá gætir þú þurft að tékka annað slagið á ip tölunni þinni hjá þeirri veitu sem þú ert hjá. Ef þú ert ekki með fasta ip-tölu á internetinu þá gæti hún breyst.",
+            "date": "2012-07-31 22:39:00",
+            "post_id": "457858",
+            "reply_to_id": "457853"
+        },
+        {
+            "user_name": "Don Vito",
+            "text": "Og, sú IP tala sem þú notar til að connecta og sú IP tala sem þeir nota til að connecta er ekki sú sama, sú sem þú notar færðu á \nhttp://www.myip.is\nsú sem þeir nota færðu með því að opna start menu>skrifar cmd í search>skrifar ipconfig í svarta gluggann sem opnast>notar ip töluna sem þú færð upp þar.",
+            "date": "2012-08-01 02:46:00",
+            "post_id": "457898",
+            "reply_to_id": "457858"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Nei, þeir nota ekki innranets IP töluna hans. Þeir nota IP töluna sem að hann sér á MyIP.is",
+            "date": "2012-08-01 02:51:00",
+            "post_id": "457899",
+            "reply_to_id": "457898"
+        },
+        {
+            "user_name": "Don Vito",
+            "text": "ohh, þá er það öfugt, my bad...",
+            "date": "2012-08-01 20:53:00",
+            "post_id": "458030",
+            "reply_to_id": "457899"
+        },
+        {
+            "user_name": "Ratorinn",
+            "text": "",
+            "date": "2012-08-03 19:56:00",
+            "post_id": "458391",
+            "reply_to_id": "458030"
+        }
+    ],
+    "date": "2012-07-30 12:45:00"
+}

@@ -1,0 +1,170 @@
+{
+    "forum_title": "Windows",
+    "id": "5921",
+    "title": "Ekki hægt að breyta XP passwordi :(",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=5921",
+    "posts": [
+        {
+            "user_name": "mrpacman",
+            "text": "Jæja svo er mál með vexti að vinur minn kom heim til mín og sagðist ætla að haxa mig. Og ég hélt að hann gæti það ekki og leyfði honum að fara í tölvuna. Hann fór beint í run -> cmd og gerði \n\nKóði: \nVelja allt\nnet users kristjan 1234hestur\n\n\nOg núna er passwordið mitt 1234hestur \n og ég get ekki breytt því! Ég er búinn að reyna að fara í cmd og breyta því aftur en þetta kemur \n\n\n\n\n\n\n\n\nSvo er ég líka búinn að reyna að gera það í user account dótinu í control panel en það kemur eikkað svipað.",
+            "date": "2004-10-10 22:15:00",
+            "post_id": "59983",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "zaiLex",
+            "text": "Allavegana þá sagðiru að kóðinn væri net users en þú skrifaðir net user þegar þú varst að reyna að breyta þarna, svo er þetta password sem þú prófaðir \"getekki..\" alltof langt, prófaðu að gera styttra ef þú ert ekki búinn að prófa það.",
+            "date": "2004-10-10 23:25:00",
+            "post_id": "59992",
+            "reply_to_id": "59983"
+        },
+        {
+            "user_name": "mrpacman",
+            "text": "Ég held að það skifti ekki máli hvort það er net user eða net users :/ en ég prófaði að gera stittra password en það virkaði ekki",
+            "date": "2004-10-10 23:58:00",
+            "post_id": "60002",
+            "reply_to_id": "59992"
+        },
+        {
+            "user_name": "mazo",
+            "text": "reinstalla windowsinu",
+            "date": "2004-10-11 07:32:00",
+            "post_id": "60018",
+            "reply_to_id": "60002"
+        },
+        {
+            "user_name": "Johnson 32",
+            "text": "Hefurðu prufað að fara í computer management og í Local User and Groups og hægri smellt á userinn þinn og set passw?",
+            "date": "2004-10-11 09:45:00",
+            "post_id": "60023",
+            "reply_to_id": "60018"
+        },
+        {
+            "user_name": "mrpacman",
+            "text": "Hvar kemst maður í computer management?",
+            "date": "2004-10-11 12:40:00",
+            "post_id": "60039",
+            "reply_to_id": "60023"
+        },
+        {
+            "user_name": "Emizter",
+            "text": "*Hægri klikk* á My Computer > Manage >  Local Users And Groups > Users",
+            "date": "2004-10-11 12:43:00",
+            "post_id": "60040",
+            "reply_to_id": "60039"
+        },
+        {
+            "user_name": "mrpacman",
+            "text": "Hvaða information er verið að tala um?",
+            "date": "2004-10-11 13:06:00",
+            "post_id": "60043",
+            "reply_to_id": "60040"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "my documents og þannig stuffs sem er encryptað með ntfs encryption",
+            "date": "2004-10-11 13:13:00",
+            "post_id": "60044",
+            "reply_to_id": "60043"
+        },
+        {
+            "user_name": "mrpacman",
+            "text": "Er ekki hægt að gera þetta án þess að missa my documents og það",
+            "date": "2004-10-11 13:31:00",
+            "post_id": "60050",
+            "reply_to_id": "60044"
+        },
+        {
+            "user_name": "Phanto",
+            "text": "afhverju notaru ekki bara þetta password",
+            "date": "2004-10-11 13:45:00",
+            "post_id": "60051",
+            "reply_to_id": "60050"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "ctrl-alt-delete -> 'Change password'.\n\n\n\nÞar slærðu inn gamla og nýja og ættir ekki að lenda í neinum vandræðum.. Hef oft fengið þessa tilkynningu í UserManager en aldrei tapað gögnum, brendu bara myDocuments á disk eða eitthvað.\n\n\n\nAnnars fara myDocuments ekkert, bara spurning um hvort notandinn þinn hafi aðgang til að lesa þau.  Administrator eða notendur í Administrator grouppunni ættu að hafa aðgang að öllum skjölum, geta breytt 'owner' og öllum heimildum.\n\n\n\nOg, ef þú villt koma í veg fyrir að þetta sé hægt þarftu að haka við 'User cannot change password' í UserManager, en þá þarftu að logga þig inn sem Administrator til að breyta password fyrir þann notenda í framtíðinni.\n\n\n\nOg, þessi 'villa' sem kemur upp hjá þér er bara tilkynning um að password uppfyllir ekki Password Policy, það er :\n\n- Of stutt\n\n- Hefur verið notað áður\n\n- Ekki nógu 'flókið'\n\n- .. hugsanlega eitthvað meira.\n\n\n\nMan ekki með hámarkslengd, minnir einhvern vegin að það hafi verið í NT Server en það er bara 'Minimum password length' skilgreint hjá mér í WinXP pró.\n\n\n\nBtw.. sérð reglurnar undir : \nStart->All Programs->Administrative Tools->Local Securyty Settings\n, undir \nSecuruty Settings->Account Policies->Password Policy",
+            "date": "2004-10-11 13:54:00",
+            "post_id": "60053",
+            "reply_to_id": "60051"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Jú, ef að þú getur loggað þig inn á accountinn sem að þú ert að breyta passwordinu á geturðu decryptað möppurnar áður en þú breytir passwordinu. *Hægr smell* á möppuna -> properties -> advanced -> taka hakið úr \"Encrypt contents to secure data\"\nKannski er ekki víst að það séu einhverjar möppur protectaðar, kannski er þetta bara almenn viðvörun?\n\n\nRangt, EFS(encrypting file system) tengist NTFS réttindum ekki, þó að það sé partur af NTFS5. Ef að möppur eru encryptaðar og þú kemst ekki aftur í accoutinn sem mappan var encyrptuð í eru litlar líkur að þú náir aftur í göginn. Nema að þú hafir tekið backup af lyklinum þínum, eða þú brute-force crackir 128-bit'a encryption'ið.(sem að tekur víst alla eilíf)",
+            "date": "2004-10-11 17:04:00",
+            "post_id": "60093",
+            "reply_to_id": "60053"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Erm.. Encryption er ekki 'on' by default.. Held ég alveg örugglega.. \n\n\n\nOg er Windows password notað til að encrypta?  Finnst það frekar hæpið (\nWindows kemur hinsvegar stöðugt á óvart \n), hvað með notendur sem eru á Domain sem neyðir hann til að skipta um password á n-daga fresti?\n\n\n\nReyndar stendur á glugganum sem poppar upp:\n\n\n\nÞar kemur væntanlega upp gluggi þar sem þú þarft að slá inn gamla password rétt til að fá að breyta, og ef Windows Encryptar með þessu password þá er það eiginlega eina leiðin til að uppfæra kóðunninna...",
+            "date": "2004-10-11 17:31:00",
+            "post_id": "60108",
+            "reply_to_id": "60093"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Þú verður að vita passwordið til að komast í dulkóðunarlykilinn. Ef þú breytir passwordinu án þess að stimpla inn gamla passwordið fyrst þá kemstu einvaldlega ekki í þessa lykla. Þegar fólk þarf að breyta um password á X daga fresti þarf það alltaf að slá inn gamla passwordið fyrst.\n\n\n\nHinsvegar mæli ég alls ekki með að fólk noti þessa dulkóðun. Reyndar bara heimska í mér sem varð til þess að ég tapaði öllum gögnum sem ég átti en þetta eykur samt líkurnar á að þú tapir gögnum.",
+            "date": "2004-10-11 17:39:00",
+            "post_id": "60110",
+            "reply_to_id": "60108"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "menn ættu alltaf að backa up lyklana sína ef að þeir nota encryption, fela síðan bara floppy'inn á góðum stað",
+            "date": "2004-10-11 18:02:00",
+            "post_id": "60118",
+            "reply_to_id": "60110"
+        },
+        {
+            "user_name": "mrpacman",
+            "text": "ARG ég er búinn að prófa þetta eiginlega allt :/ Kemur alltaf að ég sé ekki með nógu flókið passwd eða eikkað þannig.  Ég er bara að spá í að formatta,  nenni essu ekki",
+            "date": "2004-10-11 18:50:00",
+            "post_id": "60134",
+            "reply_to_id": "60118"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "uss, þú ert nú litli tölvunördinn.......\n\nertu búinn að prufa að kíkja í security policy einsog Stutturdreki benti á?",
+            "date": "2004-10-11 19:56:00",
+            "post_id": "60150",
+            "reply_to_id": "60134"
+        },
+        {
+            "user_name": "mrpacman",
+            "text": "Hehe.\n\nÞað er ekki administrator tools hjá mér í start menu",
+            "date": "2004-10-11 23:07:00",
+            "post_id": "60194",
+            "reply_to_id": "60150"
+        },
+        {
+            "user_name": "fallen",
+            "text": "Properties á taskbar -> start menu -> customize á það sem þú ert að nota ->  Stendur efst í Start Menu Options á Classic en á venjulega er það Advanced tabið og það er þar neðst þar sem þú getur scrollað niður.",
+            "date": "2004-10-12 00:42:00",
+            "post_id": "60230",
+            "reply_to_id": "60194"
+        },
+        {
+            "user_name": "mrpacman",
+            "text": "Hjúkk, oki takk strákar, þetta virkaði.",
+            "date": "2004-10-12 01:31:00",
+            "post_id": "60247",
+            "reply_to_id": "60230"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Eða bara fara í Control Panel > Administrative Tools",
+            "date": "2004-10-12 01:48:00",
+            "post_id": "60250",
+            "reply_to_id": "60247"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "lol já",
+            "date": "2004-10-12 17:29:00",
+            "post_id": "60358",
+            "reply_to_id": "60250"
+        }
+    ],
+    "date": "2004-10-10 22:15:00"
+}

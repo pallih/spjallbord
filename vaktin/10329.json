@@ -1,0 +1,30 @@
+{
+    "forum_title": "Windows",
+    "id": "10329",
+    "title": "Vandraedi med boot",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=10329",
+    "posts": [
+        {
+            "user_name": "DoRi-",
+            "text": "Jaeja\n\nnuna er jeg enn og aftur i vandraedum\n\nthannig er mal med vexti ad jeg get ekki bootad windows rett, eg fae BSOD i halfasekondu og sidan restart\n\n\n\nEg get bootad Safe Mode\n\nEg get bootad Ubuntu LiveCD(er i tvi nuna)\n\n\n\neg vaeri alveg til i sma hjalp tar sem eg nenni ekki ad vera endalaust a LiveCD, sem laggar eins og 800MHz tolva(no offence maro)",
+            "date": "2006-03-18 07:16:00",
+            "post_id": "112424",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Veldu disable automatic restart during system boot, þar sem þú getur valið safe mode og lestu bláskjáinn",
+            "date": "2006-03-18 12:57:00",
+            "post_id": "112444",
+            "reply_to_id": "112424"
+        },
+        {
+            "user_name": "DoRi-",
+            "text": "'eg er búinn að disable-a automatic restart, en það gerir mér ekki neitt\n\nhún restartar sér sjálf\n\n\n\nþetta byrjaði að gerast eftir að ég installaði KPF\n\nætla að uninstalla og sjá hvað gerist",
+            "date": "2006-03-19 11:34:00",
+            "post_id": "112528",
+            "reply_to_id": "112444"
+        }
+    ],
+    "date": "2006-03-18 07:16:00"
+}

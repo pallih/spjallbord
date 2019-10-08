@@ -1,0 +1,44 @@
+{
+    "forum_title": "Windows",
+    "id": "78433",
+    "title": "System management tól fyrir <80 workstations - patching-deploy-upgrade-monitoring",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=78433",
+    "posts": [
+        {
+            "user_name": "yamms",
+            "text": "Sælir!\nNú er ég að leita að hentugu management tóli í umhverfi sem er með <80 windows útstöðvar. Er að leita að tóli sem gerir allar uppfærslur, patching, hugbúnaðardreifingar, monitoring og fleira eins þæginlegt og hægt er. Veit af system center og fleiri stórum tólum sem henta illa í svona lítið umhverfi.\nEr að leita að einhverju lightweight - cloud lausn er kostur.\nHef verið að skoða Ninite Pro, PDQ deploy/inventory og fleiri í þá áttina. Vitið þið af fleiri tólum sem vert er að skoða? Nóg er amk til af svipuðum lausnum en reynslan og reviews eru oft af skornum skammti.\nFyrirfram þakkir.",
+            "date": "2019-01-31 21:48:00",
+            "post_id": "684465",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "depill",
+            "text": "Hefurðu skoðað OptiTune. Mér finnst það frekar hentugt og til í Cloud umhverfi.\nInTune í Azure er líka option.",
+            "date": "2019-01-31 22:00:00",
+            "post_id": "684467",
+            "reply_to_id": "684465"
+        },
+        {
+            "user_name": "worghal",
+            "text": "Skoðaðu LanDesk",
+            "date": "2019-01-31 22:24:00",
+            "post_id": "684468",
+            "reply_to_id": "684467"
+        },
+        {
+            "user_name": "yamms",
+            "text": "Takk, skoða OptiTune. Virðist líta vel út. \nVissi af InTune \nTakk, skoða það",
+            "date": "2019-02-01 09:32:00",
+            "post_id": "684474",
+            "reply_to_id": "684468"
+        },
+        {
+            "user_name": "asgeireg",
+            "text": "Lansweeper er algjör snild til að mappa upp kerfið og gera basic hluti, held að það sé frítt upp að 100 vélum. Managment hlutinn er ekkert frábær en hef ekki skoðað patch möguleika í því þar sem við erum að keyra SCCM. Kosturinn við þetta kerfi er allar skýrslurnar og dótið sem maður getur kallað fram, sérð mjög miklar upplýsingar um vélarnar með þessu. Það er líka möguleiki á innbyggðu basic Helpdesk og þekkingabrunni.\nVið erum að nota SCCM í að patch a\nVið erum að innleiða  lausn sem heitir ConnectWise Automate (\nhttps://www.connectwise.com/software/automate\n)\nÞetta er að lúkka mjög mjög vel, átt að geta gert allt með þessu, þetta léttir mögulega á SCCM inum hjá okkur. Ég er hinsvegar ekki alveg inni í kostnaðinum á því, en hann er held ég einhver.",
+            "date": "2019-02-01 10:08:00",
+            "post_id": "684476",
+            "reply_to_id": "684474"
+        }
+    ],
+    "date": "2019-01-31 21:48:00"
+}

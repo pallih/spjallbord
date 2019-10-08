@@ -1,0 +1,79 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "4909",
+    "title": "CMS án Msql",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=4909",
+    "posts": [
+        {
+            "user_name": "elv",
+            "text": "Er að leyta mér að CMS sem notar ekki Msql.Hef prófað bæði Plone og Pivot en er að vona að það séu fleiri sem nota ekki Msql.\n\nEinhverja uppástungur!",
+            "date": "2004-07-27 17:32:00",
+            "post_id": "49755",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "http://www.oscom.org/matrix/index.html\n\n\n\n\nGetur prufa að leita þarna...má ég forvitnast af hverju þú vilt ekki nota mysql?",
+            "date": "2004-07-27 19:56:00",
+            "post_id": "49789",
+            "reply_to_id": "49755"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "ætli host'inn hans bjóði nokkuð uppá SQL, nema e.t.v. gegn gjaldi.......?",
+            "date": "2004-07-27 20:03:00",
+            "post_id": "49791",
+            "reply_to_id": "49789"
+        },
+        {
+            "user_name": "elv",
+            "text": "Þetta er nú bara að fara á minn server.....kann bara ekkert á það og langaði að finna eitthvað sem þarfnast þess ekki.Gef mér kannski tíma í að læra á Msql seinna",
+            "date": "2004-07-27 20:41:00",
+            "post_id": "49800",
+            "reply_to_id": "49791"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Frekar einfalt install og phpmyadmin boom you are good to go nema þú viljir breyta einhverju",
+            "date": "2004-07-27 21:13:00",
+            "post_id": "49805",
+            "reply_to_id": "49800"
+        },
+        {
+            "user_name": "elv",
+            "text": "Er nú búin að skoða flest hérna \nhttp://www.hotscripts.com/PHP/Scripts_a ... index.html",
+            "date": "2004-07-27 21:43:00",
+            "post_id": "49810",
+            "reply_to_id": "49805"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "núnú, hugsa að þú sést þá sneggri að setja upp MySQL og \"implementa\" það heldur en finna gott flatfile CMS",
+            "date": "2004-07-27 22:34:00",
+            "post_id": "49814",
+            "reply_to_id": "49810"
+        },
+        {
+            "user_name": "elv",
+            "text": "Já kannski....en ætlað að prófa aðeins fleiri svona flatfile",
+            "date": "2004-07-28 07:45:00",
+            "post_id": "49858",
+            "reply_to_id": "49814"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Nei þú ferð í MySQL og hana nú. Taktu svo til í kringum tölvuna.",
+            "date": "2004-07-29 21:56:00",
+            "post_id": "50085",
+            "reply_to_id": "49858"
+        },
+        {
+            "user_name": "elv",
+            "text": "Haaa...taka til í kringum tölvuna..........",
+            "date": "2004-07-29 23:00:00",
+            "post_id": "50101",
+            "reply_to_id": "50085"
+        }
+    ],
+    "date": "2004-07-27 17:32:00"
+}

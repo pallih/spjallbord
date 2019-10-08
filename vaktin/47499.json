@@ -1,0 +1,44 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "47499",
+    "title": "Að tengja flakkara á MAC og PC",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=47499",
+    "posts": [
+        {
+            "user_name": "ragnarreif",
+            "text": "Sælir\nVar að velta því fyrir mér afhverju það er ekki hægt að tengja flakkara bæði við PC og MAC vélar ?\nApple tölvan mín bilaði nú fyrir helgi og það urðu endalok mín á notkun á Apple vörum, keypti nýjan PC lappa um helgina. En þá er vandamálið að ég ætla fá allt draslið af gömlu apple tölvunni, það er ekkert mál að tengja flakkarann við hana en þá ætla ég síðan að tengja flakkarann við PC tölvuna mína en þá neitar hún að finna hann, ég get sem sagt ekki fært dótið á milli, er einhvernvegin hægt að redda þessu ?\nkv. Ragnar",
+            "date": "2012-04-29 19:43:00",
+            "post_id": "438612",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Nördaklessa",
+            "text": "búinn að prófa disk management ?",
+            "date": "2012-04-29 19:53:00",
+            "post_id": "438613",
+            "reply_to_id": "438612"
+        },
+        {
+            "user_name": "Hargo",
+            "text": "Maccinn notar annað skráarkerfi en PC. Þess vegna þarftu að formatta diskinn í skráarkerfi sem PC getur lesið, NTFS eða FAT32 sem dæmi.\nEn þú vilt væntanlega sækja gögnin þín á Mac disknum áður en þú formattar svo þú tapir þeim ekki. Það eru til ýmis forrit til að láta PC lesa Mac skráarkerfi.\nHér er t.d. eitt:\nhttp://download.cnet.com/MacDrive-Standard/3000-2248_4-10313024.html",
+            "date": "2012-04-29 19:58:00",
+            "post_id": "438614",
+            "reply_to_id": "438613"
+        },
+        {
+            "user_name": "ragnarreif",
+            "text": "Snilld ! Þetta virkaði strax hjá mér með þessu forriti, takk fyrir hjálpina !",
+            "date": "2012-04-29 20:44:00",
+            "post_id": "438621",
+            "reply_to_id": "438614"
+        },
+        {
+            "user_name": "ragnarreif",
+            "text": "Nú er komið smá nýtt vandamál. Þeir settu fyrir mig harða diskinn úr Mac vélinni í hýsingu svo eg gæti tengt hann beint við tölvu. Eg næ að tengja hann við tölvuna og næ að skoða öll gögnin af honum en þegar ég ætla fara færa dót af disknum yfir á tölvuna þá stoppar það þegar það eru bara svona 40mb búin að færast yfir, vitiði einhverja lausn á þessu ?",
+            "date": "2012-04-30 14:18:00",
+            "post_id": "438706",
+            "reply_to_id": "438621"
+        }
+    ],
+    "date": "2012-04-29 19:43:00"
+}

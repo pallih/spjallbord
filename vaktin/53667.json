@@ -1,0 +1,51 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "53667",
+    "title": "Lyklaborð og mús virka ekki á log-in screen",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=53667",
+    "posts": [
+        {
+            "user_name": "demaNtur",
+            "text": "Jæja var að púsla saman nýju setup-i og virkaði fínt til að byrja með, enn núna tók tölvan uppá því að láta mús(MS 3.0) og lyklaborð(eitthvað vivanco drasl) USB bæði, að virka ekki á log-in screen, virkar í BIOS og ljós á öllu draslinu þangað til að Windows byrjar að loadast, þá dettur allt út.  \n \nVar að prufa að nota USB portin framan á tölvunni, og þau virka en ekki portin aftan á henni. \nHefur eitthver lent í svipuðu eða því sama og veit hvað á að gera í málinu?  \n \nGigabyte X58A-UD3\n < móðurborð",
+            "date": "2013-03-01 04:39:00",
+            "post_id": "497857",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "littli-Jake",
+            "text": "virka portinn þegar þú ert búinn að loga þig inn? Grunar að þetta sé einhver bios stilling.",
+            "date": "2013-03-01 07:43:00",
+            "post_id": "497858",
+            "reply_to_id": "497857"
+        },
+        {
+            "user_name": "demaNtur",
+            "text": "Nei þau virka ekki eftir að ég logga mig inn",
+            "date": "2013-03-01 07:57:00",
+            "post_id": "497860",
+            "reply_to_id": "497858"
+        },
+        {
+            "user_name": "demaNtur",
+            "text": "no idea's?",
+            "date": "2013-03-01 11:53:00",
+            "post_id": "497881",
+            "reply_to_id": "497860"
+        },
+        {
+            "user_name": "playman",
+            "text": "Það væri líka ágætt að taka fram hvaða windows þú ert með.\nÞetta hljómar eins og driver vandamál, áttu ekki PS2 lyklaborð og mús? sjáðu hvort að það virki ekki.",
+            "date": "2013-03-01 12:13:00",
+            "post_id": "497885",
+            "reply_to_id": "497881"
+        },
+        {
+            "user_name": "viggib",
+            "text": "Hér einn með svipað vandamál,skoðaðu þetta.\nhttp://forum.giga-byte.co.uk/index.php?topic=3250.0",
+            "date": "2013-03-01 12:23:00",
+            "post_id": "497888",
+            "reply_to_id": "497885"
+        }
+    ],
+    "date": "2013-03-01 04:39:00"
+}

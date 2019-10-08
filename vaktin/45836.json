@@ -1,0 +1,58 @@
+{
+    "forum_title": "Yfirklukkun, hraðaprófanir og mods",
+    "id": "45836",
+    "title": "Hækka hraða á Noctua NH-D14",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=1&t=45836",
+    "posts": [
+        {
+            "user_name": "Moquai",
+            "text": "Er að pæla í því hvort það er hægt að hækka hraðann á kælingunni\nEr með hana tengda í móðurborðið via 3 pinna tengi.",
+            "date": "2012-02-17 04:27:00",
+            "post_id": "422000",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "worghal",
+            "text": "gætir prufað beintengt molex tengi.",
+            "date": "2012-02-17 04:31:00",
+            "post_id": "422002",
+            "reply_to_id": "422000"
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "þú ert með gigabyte móðurborð þá á ertu kanski með Easytune 6 sem á að geta stýrt viftunni  (undir SMART)og tengja 3 pin í CPU fan á móðurborðinu,en þú gætir þurft að fara í bios og undir pc health /cpu fan mode velur manual (gætir þurft að eins meira sé það í næsta restarti) annars er líka hægt að gera disable á allt viftu dæmi sem þíðir allar viftur í botn.",
+            "date": "2012-02-17 10:15:00",
+            "post_id": "422027",
+            "reply_to_id": "422002"
+        },
+        {
+            "user_name": "Joi_BASSi!",
+            "text": "ef þú vilt að vifturnar snúist hraðar en þær eru að núna. þá geturðu tengt þær beint í molex, en þá eru þær altaf í botni. ég mæli alls ekki með því því að fátt er leiðinlegra en tölva sem að er alltaf með vifturnar óstjórnlega í botni.\nen síðan geturðu yfir voltað vifturnar ef að þú vilt að þær snúist ennþá hraðar en max. ég veit ekki inná hvað þú gætir tengt þær sem að er meira en 12v innaí tölvunni. þannig að þú þirftir þá einhvað annað powersupply, t.d batterí \n(ekki gera það)\nannars geturðu skipt um viftur\nég myndi bara kaupa viftustíringu. þá stírirðu manually hrðanum á viftunum að vild",
+            "date": "2012-02-17 12:23:00",
+            "post_id": "422036",
+            "reply_to_id": "422027"
+        },
+        {
+            "user_name": "AciD_RaiN",
+            "text": "Ég keypti mér þessa ekki alls fyrir löngu og virkar alveg djöfulli vel \nhttp://tolvutaekni.is/product_info.php?products_id=1833",
+            "date": "2012-02-17 14:30:00",
+            "post_id": "422061",
+            "reply_to_id": "422036"
+        },
+        {
+            "user_name": "Moldvarpan",
+            "text": "Ég minnkaði hraðann á mínum með kaplinum sem fylgdi með.\nHef nú ekki spáð í hvernig það er hækkaður hraðinn, nema þá að taka þennan kapal í burtu.\nÞessir kaplar á myndinni eru til að minnka hraðann á viftunni.",
+            "date": "2012-02-17 14:38:00",
+            "post_id": "422062",
+            "reply_to_id": "422061"
+        },
+        {
+            "user_name": "Moquai",
+            "text": "Jáá, ætli að ég skelli mér ekki í eitthvað svipað.",
+            "date": "2012-02-17 17:42:00",
+            "post_id": "422092",
+            "reply_to_id": "422062"
+        }
+    ],
+    "date": "2012-02-17 04:27:00"
+}

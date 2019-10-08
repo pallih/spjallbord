@@ -1,0 +1,135 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "3044",
+    "title": "My Computer sýnir ekki nýja 160 GB harðadiskinn!",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=3044",
+    "posts": [
+        {
+            "user_name": "icemob",
+            "text": "Hæ, nú er ég í vandræðum!\n\n\n\nLoksins lét ég verða af því að kaupa mér nýjan harðandisk, fyrir valinu varð Samsung 160 GB IDE-133.\n\n\n\nFyrir í tölvuni er ég með 80 GB Barracuda serial disk, sem er splittaður í 3 parta.(stýrikerfi,program files+geymsla,geymsla)\n\n\n\nVandamálið liggur í því að ég er búinn að partidiona diskinn bæði með Partitionmagic Pro og Disk Management í WindowsXP Pro(er með SP1 original),búinn að prófa að hafa diskinn sem eitt partition og sem 3 partition, og já ég er búinn að formatta hann líka.  Þrátt fyrir þetta þá kemur diskurinn ekki upp í My Computer, en t.d. þá finnur vírusvarnarforritið hann og hann kemur fram í hardware listanum í device Manager.\n\n\n\nHefur einhver hérna lent í svipuðu vandamáli?\n\n\n\nÉg er að verða gráhærður yfir þessu!",
+            "date": "2004-02-04 11:15:00",
+            "post_id": "30789",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gumol",
+            "text": "Valdiru ekki örugglega að \"assign drive lettter\" á partitonið?",
+            "date": "2004-02-04 11:45:00",
+            "post_id": "30791",
+            "reply_to_id": "30789"
+        },
+        {
+            "user_name": "icemob",
+            "text": "jú jú \n\n\n\ndrifinu var gefin stafurinn H\n\n\n\nÉg get komist inn í drifið gegnum Disk Management\n\n\n\nen My computer finnur það ekki",
+            "date": "2004-02-04 11:54:00",
+            "post_id": "30792",
+            "reply_to_id": "30791"
+        },
+        {
+            "user_name": "Hlynzit",
+            "text": "ef þetta er samsung diskurinn þá þarftu öruglega að setja in registry key ég man ekki urlið en skal leita",
+            "date": "2004-02-04 16:41:00",
+            "post_id": "30845",
+            "reply_to_id": "30792"
+        },
+        {
+            "user_name": "icemob",
+            "text": "Takk Hlynzit.\n\n\n\nÉg bíð spenntur, ég held að þessi hár sem voru farinn að grána, séu farinn að detta af",
+            "date": "2004-02-04 18:10:00",
+            "post_id": "30863",
+            "reply_to_id": "30845"
+        },
+        {
+            "user_name": "Hlynzit",
+            "text": "eins gott að þetta virki. Var í sirka 1klst að leita að þesasu en hérna er url \nhttp://www.winguides.com/registry/display.php/1115",
+            "date": "2004-02-04 19:00:00",
+            "post_id": "30876",
+            "reply_to_id": "30863"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "uhhh.. efr þú hefðir farið a´hardware síðuana eða windows síðuna á huga.. þá hefðir fundið þetta á 1 mínútu",
+            "date": "2004-02-04 19:01:00",
+            "post_id": "30877",
+            "reply_to_id": "30876"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "http://www.hugi.is/windows/bigboxes.php?box_id=31375&action=cp_grein&cp_grein_id=1693",
+            "date": "2004-02-04 19:03:00",
+            "post_id": "30878",
+            "reply_to_id": "30877"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Sé að þú ert aktívur þar gnarr \n\n\nSpurning að fara þangað og rífast við einhvern um hvort AMD eða Intel sé betra.",
+            "date": "2004-02-04 20:15:00",
+            "post_id": "30896",
+            "reply_to_id": "30878"
+        },
+        {
+            "user_name": "xtr",
+            "text": "þú getur gert hest klikk á því",
+            "date": "2004-02-04 22:28:00",
+            "post_id": "30936",
+            "reply_to_id": "30896"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "mér fynst hugi nú bara leiðinlegur. lít einstakasinnum við þar til að lesa greinar og sonna",
+            "date": "2004-02-05 00:52:00",
+            "post_id": "30980",
+            "reply_to_id": "30936"
+        },
+        {
+            "user_name": "icemob",
+            "text": "Sælir allir saman,\n\n\n\nÉg vil þakka Hlynzit og gnarr fyrir hjálpina.\n\n\n\nÞetta reyndist ekki vera vandamálið.\n\n\n\nÉg er alvarlega að hugsa um að senda Bill Gates bréfasprengju, því að vandamálið snéri jú að Win XP SP1, þessu líka súperkerfi. \n\n\n\n\nEinhverra hluta vegna þá meldaðist diskurinn ekki inn á minn account(ég er auðvitað admin á tölvuni)heldur meldaðist hann bara inn á hina tvo accountana í tölvuni, sem eru bara normal user accounts.\n\n\n\nLausnin.... ég varð að fara í Tweak UI og haka við hann hjá mér \n\n\n\n\nEf þið heyrið að B Gates hafi fengið sprengju í pósti þá er hún frá mér \n\n\n\n\nEnn og aftur takk fyrir hjálpina.\n\n\n\nP.S. gnarr auðvitað kem ég fyrst hingað í leit að uppl. ekki á huga",
+            "date": "2004-02-05 02:25:00",
+            "post_id": "30995",
+            "reply_to_id": "30980"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "enda er þetta mun betri staður til að fá svör en hugi",
+            "date": "2004-02-05 13:36:00",
+            "post_id": "31019",
+            "reply_to_id": "30995"
+        },
+        {
+            "user_name": "xtr",
+            "text": "hugi er bara háhraði og hl",
+            "date": "2004-02-05 15:25:00",
+            "post_id": "31029",
+            "reply_to_id": "31019"
+        },
+        {
+            "user_name": "icemob",
+            "text": "Ég vil nú fá að bæta því við, að á huga er líka stórgott málefni sem heitir BF 1942",
+            "date": "2004-02-05 21:40:00",
+            "post_id": "31091",
+            "reply_to_id": "31029"
+        },
+        {
+            "user_name": "Hlynzit",
+            "text": "hef ekki séð neinasérstaka umræðu hér um BF1942",
+            "date": "2004-02-05 22:34:00",
+            "post_id": "31100",
+            "reply_to_id": "31091"
+        },
+        {
+            "user_name": "icemob",
+            "text": "Hlynzit, ég var að svara xtr.\n\n\n\nHann var að halda því fram að á huga væri ekkert annað en háhraði og hl.\n\n\n\nÉg var bara að lýsa þeirri skoðun minni, að á huga væri líka áhugamál sem sem væri allt eins gott, um BF 1942.\n\n\n\nÞað var allt.",
+            "date": "2004-02-06 12:02:00",
+            "post_id": "31140",
+            "reply_to_id": "31100"
+        },
+        {
+            "user_name": "xtr",
+            "text": "Já reyndar.. gleymdi BF náttla frábær leikur í góðri tölvu \n þó fynnnst mér bara skemmtilegt að vera keyra á willis-inum",
+            "date": "2004-02-06 13:34:00",
+            "post_id": "31155",
+            "reply_to_id": "31140"
+        }
+    ],
+    "date": "2004-02-04 11:15:00"
+}

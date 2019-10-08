@@ -1,0 +1,142 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "44213",
+    "title": "Desktop window manager vesen (Aero dæmið í win7)",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=44213",
+    "posts": [
+        {
+            "user_name": "ZiRiuS",
+            "text": "Sælir.\nÉg nýlega aftengi Crossfire og lét skjákortin mín (2x Radeon 5850 1 GB) vinna í sitthvoru lagi svo ég gæti verið með þrjá skjái (eitt er sjónvarp) nema þegar ég horfi á myndband á sjónvarpinu, alveg sama þó það sé vlc eða youtube, að þá fæ ég þessa villu og Aero dæmið hættir að virka og það kemur ekki upp fyrr en ég slekk á myndbandinu og stilli Aero aftur á:\nÉg er með nýjasta driverinn, reyndar bara venjulegur driver, þarf kannski einhvern sérstakan? Er líka búinn að reyna að googla þetta og finn engin almennileg svör (bara að quicktime sé með bögg, er ekki einu sinni með það installað og einhverjar stillingar sem virka ekki í mínu tilfelli). Dettur ykkur eitthvað í hug? Er skjákortið mitt ekki að höndla þetta?\nAnnars er info um tölvuna mína í undirskrift.",
+            "date": "2011-12-23 15:43:00",
+            "post_id": "406550",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "GrimurD",
+            "text": "Getur þú ekki tengt 3 skjái án þess að láta þau vinna sem sitthvort kortið? ég er með 4 skjái tengda við 6870 kortið mitt og það er ekkert mál, þurfti bara display port millistykki. Annars get ég lítið hjálpað þér, ábyggilega fáir sem eru að keyra þetta svona og þess vegna ekki hægt að finna neitt um þetta.",
+            "date": "2011-12-23 21:43:00",
+            "post_id": "406694",
+            "reply_to_id": "406550"
+        },
+        {
+            "user_name": "ZiRiuS",
+            "text": "Þegar kortin voru crossfire þá gat ég ekki haft nema bara tvo skjái eða einn skjá og sjónvarpið tengt í HDMI en ekki allt tengt saman.\nEn já þetta er óttalegt vesen...",
+            "date": "2011-12-23 23:39:00",
+            "post_id": "406729",
+            "reply_to_id": "406694"
+        },
+        {
+            "user_name": "Haxdal",
+            "text": "Þú verður að nota DisplayPort output fyrir 3ja skjáinn ef þú ert með crossfire.\nEf það er DP á kortunum þínum þá vantar þig bara DP->DVI til að geta notað 3ja skjáinn með crossfire.",
+            "date": "2011-12-23 23:57:00",
+            "post_id": "406738",
+            "reply_to_id": "406729"
+        },
+        {
+            "user_name": "ZiRiuS",
+            "text": "Ég er ekki með þetta Crossfired, ég \nVAR\n með það crossfired. Ég er að lenda í þessu með tvö sömu kortin ótengd saman.",
+            "date": "2011-12-24 00:33:00",
+            "post_id": "406756",
+            "reply_to_id": "406738"
+        },
+        {
+            "user_name": "kizi86",
+            "text": "spurning.. er einn skjárinn með vga input? gætir prufað dvi>VGA millistykki á einn skjáinn.. sbr:\nThat's only if it's the Digital part of the DVI connection, if using a VGA adapter and the analogue path/RAMDACs, then the TMDS for the HDMI should still remain unused and accessible.\nBut for dual DVI-D, then you'd be stuck with display-port.",
+            "date": "2011-12-24 01:06:00",
+            "post_id": "406776",
+            "reply_to_id": "406756"
+        },
+        {
+            "user_name": "ZiRiuS",
+            "text": "Þetta eru tveir 24\" benq dvi skjáir og 1 40\" sjónvarp.",
+            "date": "2011-12-24 02:08:00",
+            "post_id": "406794",
+            "reply_to_id": "406776"
+        },
+        {
+            "user_name": "ZiRiuS",
+            "text": "Eftir mikla Google leit finn ég ennþá ekkert marktækt, einhverjir hérna með einhverjar hugmyndir?",
+            "date": "2011-12-26 16:22:00",
+            "post_id": "407506",
+            "reply_to_id": "406794"
+        },
+        {
+            "user_name": "ZiRiuS",
+            "text": "Getur virkilega verið að skjákortin séu ekki að höndla þetta?",
+            "date": "2011-12-27 13:19:00",
+            "post_id": "407726",
+            "reply_to_id": "407506"
+        },
+        {
+            "user_name": "Haxdal",
+            "text": "Hvernig væri að prófa að crossfirea þau aftur og nota DisplayPort -> DVI/HDMI converter fyrir þriðja skjáinn?",
+            "date": "2011-12-27 13:21:00",
+            "post_id": "407727",
+            "reply_to_id": "407726"
+        },
+        {
+            "user_name": "ZiRiuS",
+            "text": "Það er semsagt hægt að nota þrjá skjái ef þú notar DisplayPort? Ég er ekki alveg að fatta þetta. Er það semsagt bara converter frá hdmi yfir í dvi?",
+            "date": "2011-12-27 13:30:00",
+            "post_id": "407730",
+            "reply_to_id": "407727"
+        },
+        {
+            "user_name": "ZiRiuS",
+            "text": "Nvm, las mig aðeins til, ég prófa þetta. Takk.",
+            "date": "2011-12-27 13:34:00",
+            "post_id": "407731",
+            "reply_to_id": "407730"
+        },
+        {
+            "user_name": "ZiRiuS",
+            "text": "Ég er búinn að setja crossfire aftur á og kominn með hdmi í displayport millistykki á sjónvarpið sem er þriðji skjárinn og hann vill ekki koma upp núna. Er með nýjustu drivera og allt það.\nAny ideas?",
+            "date": "2011-12-27 23:12:00",
+            "post_id": "407851",
+            "reply_to_id": "407731"
+        },
+        {
+            "user_name": "Haxdal",
+            "text": "Örugglega með alla skjánna tengda við sama skjákortið ?.\nAFAIK þá Í Crossfire er bara eitt kort sem sér um outputtið, hitt er bara fyrir auka processing power.\nhttp://www.amd-news.com/assets/files/amd-cn/Eyefinity_SetupGuide_v1_AMD.pdf\nÁ bls 3 er yfirlit yfir output configurations fyrir 3 skjái,  þetta er fyrir Eyefinity en ég held að output dótið sé það sama þó maður sé ekki að nota Eyefinity.\nVona að þetta hjálpi eitthvað.",
+            "date": "2011-12-27 23:25:00",
+            "post_id": "407856",
+            "reply_to_id": "407851"
+        },
+        {
+            "user_name": "ZiRiuS",
+            "text": "Hmm já allt tengt í sama kortið, skil þetta ekki.",
+            "date": "2011-12-27 23:45:00",
+            "post_id": "407859",
+            "reply_to_id": "407856"
+        },
+        {
+            "user_name": "kizi86",
+            "text": "þarft annað hvort active displayport > dvi/hdmi converter, eða dvi> VGA converter til að fá 3 skjái til að virka í einu..\ndvi>vga virkar líka þar sem ert ekki að nota \"digital\" vidjostraum fyrir þann skjáinn or sum eins og ég póstaði hér fyrir ofan..\nedit:\nkeyptirðu hdmi> displayport eða displayport>hdmi breytistykki?\nprufaðu að setja displayport tengið á einn skjáinn í staðinn og sjá hvort það breyti einhverju?",
+            "date": "2011-12-28 00:24:00",
+            "post_id": "407864",
+            "reply_to_id": "407859"
+        },
+        {
+            "user_name": "ZiRiuS",
+            "text": "Ég keypti hdmi í displayport millistykki, semsagt er með hdmi snúru.",
+            "date": "2011-12-28 00:30:00",
+            "post_id": "407868",
+            "reply_to_id": "407864"
+        },
+        {
+            "user_name": "kizi86",
+            "text": "yfirleitt þegar verið er að tala um svona breytistykki, þá er talað út frá tölvuendanum þe ef tölvan er með display port en skjárinn með hdmi, þá værirru með displayport > hdmi breytistykki, þe breyta ur dp svo getir tengt hdmi snúru við..\náttu hdmi>dvi breytistykki kanski ? \n kanski prufa þá að setja það á og tengja skjáinn við displayport breytistykkið..",
+            "date": "2011-12-28 03:35:00",
+            "post_id": "407908",
+            "reply_to_id": "407868"
+        },
+        {
+            "user_name": "ZiRiuS",
+            "text": "Þetta á samt að virka svona, meira að segja eyefinity stillingin finnur bara svo skjái, mög skrítið. Þarf kannski einhverja auka drivera fyrir 3 skjái?",
+            "date": "2011-12-28 14:38:00",
+            "post_id": "407975",
+            "reply_to_id": "407908"
+        }
+    ],
+    "date": "2011-12-23 15:43:00"
+}

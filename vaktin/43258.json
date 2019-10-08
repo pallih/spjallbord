@@ -1,0 +1,23 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "43258",
+    "title": "ip síu milliveggur ?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=43258",
+    "posts": [
+        {
+            "user_name": "kubbur",
+            "text": "mig langar að smíða lítið script fyrir ubuntu serverinn minn til að taka torrent fæl, fá allar ip tölur á öllum seederum á torrentinu, bera saman þær ip tölur við fyrirfram ákveðinn lista af ip tölum(td öllum íslenskum ip tölum), raða upp þeim sem matcha listann þannig að torrent noti þær frekar til að ná í frá þeim seederum en öðrum - en samt þannig að serverinn geti tengst hinum ip tölunum\ner þetta hægt ?",
+            "date": "2011-11-17 18:38:00",
+            "post_id": "397066",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "ponzer",
+            "text": "Já þetta er hægt var að leika mér með þetta um daginn en komst aldrei í að klára þetta.. getur prófað að google utorrent ipfilter svo er íslenski iptölu listinn einnhverstaðar inn á rix.is",
+            "date": "2011-11-17 19:28:00",
+            "post_id": "397080",
+            "reply_to_id": "397066"
+        }
+    ],
+    "date": "2011-11-17 18:38:00"
+}

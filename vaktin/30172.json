@@ -1,0 +1,51 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "30172",
+    "title": "CoreTemp í ruglinu",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=30172",
+    "posts": [
+        {
+            "user_name": "Gunnar",
+            "text": "er með CoreTemp  0.99.6 og er með það á skjánum í G15.\nen það sem er að pirra mig er að multiplierinn er alltaf að hoppa úr 8 í 7.5. \n \nss úr 3,2Ghz í 3Ghz. er þetta að gerast í tölvunni eða er þetta bara að gerast í forritinu?\nhitinn helst stöðugur.",
+            "date": "2010-05-14 12:58:00",
+            "post_id": "261770",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "coldcut",
+            "text": "Reikna með að þetta se ekki vandamálið þar sem þú virðist nú hafa ágætis vit á þessu...en hvað með \nspeedstepping (CPU EIST\n)?\nThis. Þetta er fullkomlega eðililegt, disalbe það sem hann nefndi fyrir ofan og þetta ætti að lagast.",
+            "date": "2010-05-14 13:14:00",
+            "post_id": "261771",
+            "reply_to_id": "261770"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "löngu buinn að disable-a allt sem hindrar yfirklukkunina.",
+            "date": "2010-05-14 13:32:00",
+            "post_id": "261773",
+            "reply_to_id": "261771"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Getur prófað að fylgjast með þessu t.d. í CPU-Z til að útiloka forritið.",
+            "date": "2010-05-14 13:41:00",
+            "post_id": "261777",
+            "reply_to_id": "261773"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "ja cpu-z er stable í 3,2 svo þetta er forritið.",
+            "date": "2010-05-14 13:46:00",
+            "post_id": "261778",
+            "reply_to_id": "261777"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "Ókei annað hvort er einhver stjórnandi að breyta innleggjum eða eitthvað furðulegt er í gangi! Í fyrsta lagi gerði ég ekki \"speedstep (CPU EIST)\" með bold stöfum og í öðru lagi að þá skrifaði ég aldrei \"This. Þetta er fullkomlega eðililegt, disalbe það sem hann nefndi fyrir ofan og þetta ætti að lagast.\" Þetta er meira eins og álit einhvers sem skrifaði á eftir mér.\nvæntanlega enginn sem er að gera þetta nema stjórnandi og ég velti fyrir mér hvað honum gengur til...",
+            "date": "2010-05-14 15:15:00",
+            "post_id": "261790",
+            "reply_to_id": "261778"
+        }
+    ],
+    "date": "2010-05-14 12:58:00"
+}

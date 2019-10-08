@@ -1,0 +1,114 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "29712",
+    "title": "Heimasíðu hýsing?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=29712",
+    "posts": [
+        {
+            "user_name": "hendrixx",
+            "text": "Nú er ég ALGJÖR nýliði þegar kemur að hýsingu á síðum og spyr því, hvar er ódýrasta hýsingin? er munur á gæðum?(þeas einhverjir hýsingaraðilar sem crasha frekar eða whatnot). hef gjörsamlega ekkert vit á þessu.\nef ég skil þetta rétt, þá er ekki nóg að kaupa bara lénið (einsog td jonsson.is), heldur þarf að borga mánaðarlega fyrir hýsingu líka. og hvernig virkar það? ég borga fyrir hýsingu og bý mér svo bara til eigin heimasíðu? og hvað ef hún fer yfir hýsingartakmarkið?(td 1gb) \nafsakið n00ba spurningarnar, og nei þetta er ekki djók \nmeð von um góð svör",
+            "date": "2010-04-21 12:48:00",
+            "post_id": "257434",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Lén er bara nafn til að svara kalli. Hýsing geymir síðuna sjálfa, innihald, texta, myndir, bakgrunnskerfi etc. Þú borgar árlega fyrir lén til ISNIC (ef þú færð þér .is) og svo mánaðarlega yfirleitt fyrir hýsingu. Þú tengist síðan inn á hýsinguna í gegnum FTP og vinnur þannig á svæðinu þínu, setur upp síðu, kerfi og annað innihald. Athugaðu samt að ef þú ætlar að nota e-ð gagnagrunnskerfi að hýsingaraðilinn styðji örugglega gagnagrunninn. Ef þú ert með kerfi geturu yfirleitt bara unnið á það beint, þarft ekki að vera sífellt inn á ftp til þess.\nEinfaldast væri fyrir þig að kaupa aðgang að hýsingu með preinstalled kerfi, með templates og annað til að vinna með, fyrir mann sem er algjör byrjandi er það sniðugast hugsa ég, og vinna þig svo áfram úr því, skoða kóðana, læra, breyta.",
+            "date": "2010-04-21 13:13:00",
+            "post_id": "257442",
+            "reply_to_id": "257434"
+        },
+        {
+            "user_name": "hendrixx",
+            "text": "þakka gott svar.\ntýpan af heimasíðu sem ég er að spá í er eins/svipuð og \nhttp://www.buy.is\n    - er einhver hýsingaraðili sem þið mynduð mæla með varðandi þannig heimasíðu? (er hægt að fá þannig síðu uppsetta einsog þú talar um sem maður fiktar svo í?)",
+            "date": "2010-04-21 13:42:00",
+            "post_id": "257445",
+            "reply_to_id": "257442"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Heppilegt að buy.is er akkúrat að nota template fyrir vefverslun.",
+            "date": "2010-04-21 14:15:00",
+            "post_id": "257446",
+            "reply_to_id": "257445"
+        },
+        {
+            "user_name": "hendrixx",
+            "text": "?",
+            "date": "2010-04-21 14:20:00",
+            "post_id": "257447",
+            "reply_to_id": "257446"
+        },
+        {
+            "user_name": "MatroX",
+            "text": "mæli með justhost.com ég get reddað 20% afslætti pm me",
+            "date": "2010-04-21 14:50:00",
+            "post_id": "257450",
+            "reply_to_id": "257447"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Man ekki alveg hvað það heitir, en öll vefverslunin sem buy.is notar er bara template, greiðslur, lookið og uppsetningin \n \nGetur fundið nafnið á bls ca 15-40 \nviewtopic.php?f=9&t=26130\n þessa þráðar.\nEða PMað FBG á vaktinni, eða sent mail á \nfbg@buy.is\n, hann er mjög þjónustulundur.\nÞegar að fólk getur 'reddað' hinum og þessum afsláttum á síðum og er affiliate og hagnast á 'sölu'(affiliationinu) þá er erfitt að taka meðmæli um gæði síðunnar alvarlega.\nBara word of advice fyrir OP.",
+            "date": "2010-04-21 14:57:00",
+            "post_id": "257453",
+            "reply_to_id": "257450"
+        },
+        {
+            "user_name": "hendrixx",
+            "text": "takk fyir svörin!",
+            "date": "2010-04-21 15:07:00",
+            "post_id": "257454",
+            "reply_to_id": "257453"
+        },
+        {
+            "user_name": "bolti",
+            "text": "Ég mæli með 1984... íslensk vefhýsing sem virkar mjög vel og virkar líka fyrir svona netverslun eins og þú ert að tala um.",
+            "date": "2010-04-21 15:16:00",
+            "post_id": "257457",
+            "reply_to_id": "257454"
+        },
+        {
+            "user_name": "Opes",
+            "text": "CMS sem Buy.is notar heitir \nPrestaShop\n.",
+            "date": "2010-04-21 15:30:00",
+            "post_id": "257459",
+            "reply_to_id": "257457"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "1984.is fær meðmæli hjá mér og þeir geta jafnvel hent upp fyrir þig scriptunni í leiðinni.",
+            "date": "2010-04-21 17:02:00",
+            "post_id": "257469",
+            "reply_to_id": "257459"
+        },
+        {
+            "user_name": "PC__",
+            "text": "Ef þú ert að spá í Prestashop ala Buy.is, þá þarftu að hýsa hjá aðila sem er með php og mysql stuðning.\nPrestashop er frítt það er að segja kerfið sjálft, en ef þú villt taka við greiðslum með kreditkortum þá þarftu að gera samning við valitor/korta eða eitthva í þá áttina.\nEn svo er greiðslugáttin ekki frí þú þarft að kaupa hana, kannski fgb hjá buy.is væri til í að selja þér sína en það verður aldrei ódýrt.\nOg svo til að taka af allan vafa þá er prestashop ekki CMS (content management system) heldur vefverslun, og kannski alls ekki sú besta til þess brúks.\nEkki vista þetta erlendis! Það endar bara með tárum nema þú veljir einhvern stóran og rándýran hýsingaraðila, það er nóg af alls konar hýsingaraðilum á Íslandi",
+            "date": "2010-05-05 02:20:00",
+            "post_id": "260155",
+            "reply_to_id": "257469"
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "Hvaða vefverslun myndiru mæla með ?",
+            "date": "2010-06-06 22:34:00",
+            "post_id": "265867",
+            "reply_to_id": "260155"
+        },
+        {
+            "user_name": "gardar",
+            "text": "huh?",
+            "date": "2010-06-07 23:07:00",
+            "post_id": "265955",
+            "reply_to_id": "265867"
+        },
+        {
+            "user_name": "Páll",
+            "text": "http://24shells.net\n ódýrir, gott support og næstum 100% uptime",
+            "date": "2010-06-08 00:11:00",
+            "post_id": "265968",
+            "reply_to_id": "265955"
+        }
+    ],
+    "date": "2010-04-21 12:48:00"
+}

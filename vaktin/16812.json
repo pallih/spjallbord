@@ -1,0 +1,58 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "16812",
+    "title": "Getur einhver leiðbeint mér!",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=16812",
+    "posts": [
+        {
+            "user_name": "bingo",
+            "text": "Mig vantar að ná hámarkshraða í download og upload með utorrent ég er með 8mb tengingu hjá símanum! Ég næ að downloada á 600kb/s og uploada á 60kb/s! Myndi halda að ég ætti að geta gert betur en það! Vantar bara hjálp við að ná þessum hámarkshraða og fullnýta tenginguna! Ég tel mig vera með opið port!",
+            "date": "2008-01-23 21:00:00",
+            "post_id": "164302",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Dazy crazy",
+            "text": "Það er auðvelt að athuga hvort þú sért með opið port ef þú ert að downloada með utorrent.\n\n\n\nferð í Valmöguleikar-)leiðarvísir að auknum hraða og athugar þar hvort portið er opið.\n\n\n\nveit ekkert hvað þetta er á ensku en líklega Settings-)information eitthvað",
+            "date": "2008-01-23 21:15:00",
+            "post_id": "164306",
+            "reply_to_id": "164302"
+        },
+        {
+            "user_name": "bingo",
+            "text": "það hlýtur einhver annar að vera með þessa tengingu og nota utorrent hérna  og geta sagt mér hvað hann er að deila og downloada á miklum hraða! Og einhver að geta sagt hvernig best er að hafa þetta stillt!",
+            "date": "2008-01-24 21:57:00",
+            "post_id": "164432",
+            "reply_to_id": "164306"
+        },
+        {
+            "user_name": "Windowsman",
+            "text": "Niðri er annaðhvort grænn eða rauður hringur.\n\n\n\nEf það er grænn þá ertu með opið port öfugt ef þú er með rauðan hring.\n\n\n\nSmellir á þennan hring og hackar við hraði tengingar og velur hæsta þar. \n\n\n\nErtu með takmarkanir á DL eða UL speed?\n\n\n\nSérð það niðri í hægra horninu",
+            "date": "2008-01-24 22:00:00",
+            "post_id": "164433",
+            "reply_to_id": "164432"
+        },
+        {
+            "user_name": "Dazy crazy",
+            "text": "max download á allavega að vera 1 Megabæti á sekúndu og max upload eitthvað yfir 100 kílóbæt",
+            "date": "2008-01-24 22:04:00",
+            "post_id": "164435",
+            "reply_to_id": "164433"
+        },
+        {
+            "user_name": "bingo",
+            "text": "upload er takmarkað 168kb/s en download er ótakmarkað!",
+            "date": "2008-01-26 01:02:00",
+            "post_id": "164621",
+            "reply_to_id": "164435"
+        },
+        {
+            "user_name": "urban",
+            "text": "byrjaðu á því að takmarka upload við 80 kB/s\n\n\n\nog download við 900 kB/s\n\n\n\nþar sem að 168 kB/s er töluvert yfir það sem að tengingin ræður við og já... ótakmarkað í download er það væntanlega líka \n\n\n\n\nsíðan er annað sem að ég mundi gera (sérstaklega ef að þú ert hjá símanum og með speedtouch 585 router\n\n\n\ntakmarka hámarksfjölda tenginga við ca 450\n\nog tengingar á hvert torrent við ca 300 \n\nhámark upload slots á torrent í 4 - 5 og haka í þarna use more slots if....\n\n\n\nég mundi koma með nákvæmari lýsingar af þessu ef að ég væri í tölvunni minni en vona að þú finnir þetta (eða einhver annar geti bent þér á hvað ég á við)\n\n\n\np.s. ég er að miða þetta við utorrent, hef ekki hugmynd um hvernig stillingar eru á öðrum forritum en það ætti að vera hægt að stilla þetta á þeim flestum",
+            "date": "2008-01-26 01:17:00",
+            "post_id": "164622",
+            "reply_to_id": "164621"
+        }
+    ],
+    "date": "2008-01-23 21:00:00"
+}

@@ -1,0 +1,44 @@
+{
+    "forum_title": "Til sölu - Tölvuvörur",
+    "id": "67975",
+    "title": "Netflix á Panasonic Smart TV",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=11&t=67975",
+    "posts": [
+        {
+            "user_name": "blitz",
+            "text": "Fjölskyldumeðlimur var að versla nýtt Panasonic tæki fyrir stuttu og ég var að reyna að setja Netflix (native app) upp á sjónvarpinu án árangurs.\nSkref:\nSkráði reikning á Unblock-us\nResettaði sjónvarpið og setti DNS inn í gegnum setup\nÁ fjarstýringunni er sérstakur \"Netflix\" hnappur en þegar ýtt er á hann kemur ávallt \"Netflix is not available in your country\".\nÞegar ég setti TV upp gat ég valið um nokkur EU Lönd og svo \"others\" sem ég valdi. Ég er að fatta núna þegar ég rita þetta að ég þyrfti etv. að prófa að velja DK/NO/SWE sem eru með Netflix support og prófa.\nHefur einhver náð að setja þetta upp?",
+            "date": "2015-12-29 10:49:00",
+            "post_id": "614094",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "bjorngi",
+            "text": "Jamm, er með þetta á Panasonic sjónvarpi og virkar vel.  Dálítið síðan ég setti það upp, en man ekki eftir neinu veseni.  Prófaðu að velja eitthvað land sem er með Netflix.",
+            "date": "2015-12-29 11:06:00",
+            "post_id": "614097",
+            "reply_to_id": "614094"
+        },
+        {
+            "user_name": "valareb",
+            "text": "Er í sama vanda. Hefur þú eitthvað fundið út úr þessu? Ég valdi líka Others sem land og hef ekki fundið leið til að breyta því.",
+            "date": "2016-01-02 20:40:00",
+            "post_id": "614483",
+            "reply_to_id": "614097"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Factory resetta sjónvarpið. Velja Danmörk eða annað land með Netflix, Svíþjóð? Þá ætti Netflix appið að birtast.",
+            "date": "2016-01-02 21:46:00",
+            "post_id": "614490",
+            "reply_to_id": "614483"
+        },
+        {
+            "user_name": "valareb",
+            "text": "Já, þetta gekk með því að fara aftur í factory settings og valdi síðan Danmörk. Breytti líka dns addressuni í 208.122.023.023.",
+            "date": "2016-01-02 22:32:00",
+            "post_id": "614502",
+            "reply_to_id": "614490"
+        }
+    ],
+    "date": "2015-12-29 10:49:00"
+}

@@ -1,0 +1,268 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "25706",
+    "title": "Forritun - Here goes...",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=25706",
+    "posts": [
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Jæja, mig langar að læra forritun, punktur.\nOg spurningin er: Hvaða mál er best að byrja að læra? Og hvaða forrit og so on?\nByrjaði að reyna að fikra mig áfram í C# fyrir ári eða tvem, þangað til ég gafst upp. Nú brennur áhuginn á ný og ég hef eiginlega ekkert betra að gera. Ætla einnig að reyna að komast inn í forritun og tölvunarfræði í skólanum á næstu önn.\nHvað er best að læra fyrst?",
+            "date": "2009-10-24 19:16:00",
+            "post_id": "223560",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Daz",
+            "text": "Java!\n(bara af því að ég byrjaði að læra java og nota það svotil eingöngu).\nÆtli það sé ekki best að finna eitthvað mál sem krefst lítillar uppsetningar og kennir þér hlutbundna vinnu? Er eitthvað sérstakt verkefni sem þig langar að leysa/forrit eða virkni sem þig langar að búa til?",
+            "date": "2009-10-24 20:35:00",
+            "post_id": "223571",
+            "reply_to_id": "223560"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Ekkert sérstakt sem ég hafði í huga. Bara kunna svona grunn, þekkja eitthvað til.\nEr búinn að reyna að skríða í gegnum \nþetta\n, en get með engu móti fundið þetta command prompt með því Visual Studio sem ég downloadaði.\nEr málið að skoða java fyrst?",
+            "date": "2009-10-24 20:46:00",
+            "post_id": "223572",
+            "reply_to_id": "223571"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Lendi alltaf í bölvuðu veseni með cmd\nBæði með því að fylgja \nJava\n og \nC#\n leiðbeiningum fæ ég alltaf upp \"xxx is not recognized as an internal or external command...\"\nFann eitthvað \nsvona\n en það virkar samt ekki.\nEr einhver sem getur leiðbeint mér með grunninn á cmd og þannig?",
+            "date": "2009-10-24 22:25:00",
+            "post_id": "223587",
+            "reply_to_id": "223572"
+        },
+        {
+            "user_name": "einarornth",
+            "text": "Gætir þurft að bæta slóðinni á forritin sem þú ert að reyna að keyra inn í Path. Man ekki alveg hvar að er í windows, prófaðu að googla 'environment variables'.\nAnnars áttu nú ekkert að þurfa að vera að fikta í cmd ef þú ert að byrja að forrita. Ef ég man rétt þá er sérstakt cmd sett upp þegar þú setur upp visual studio, ættir að finna það í program menu.",
+            "date": "2009-10-24 23:33:00",
+            "post_id": "223592",
+            "reply_to_id": "223587"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "lærðu Python \n Maður er að lesa mikið um að það að menn sem hafi verið í öðrum málum hafi verið að kynna sér það og læra það og séu mjög gríðarlega ánægðir með það!\nÉg hef sjálfur verið að fikta aðeins í því og mér finnst það snilld!",
+            "date": "2009-10-24 23:48:00",
+            "post_id": "223594",
+            "reply_to_id": "223592"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Fyrir java þróun er það minnsta sem þú þarft að sækja JDK (frá sun) og t.d. \nTextpad\n. Vísar í java.exe í textpad stillingum og þá geturðu compælað og keyrt forritin inna úr textpad (fínt fyrir hello world og þessháttar). Þarft að setja upp JAVA_HOME variableið í cmd ( \nset java_home=C:\\java\n )\nEða þá sækja jdk og eclipse eða netbeans (aftur fyrir java). Líklega of stór biti til að prófa bara hello world og önnur einföld forrit.\nMér finnst persónulega algert overkill að sækja heilt IDE/Studio/development framwork til að fikta aðeins í forritunarmáli, mun betra að finna út hvernig á að kompæla og keyra kóðan á sem einfaldastann hátt og vinna forritið í textaritli.\nPython virðist vera voða heitt þessa dagana, kannski bara útaf því að CCP nota það?  Einhvern daginn nenni ég að kynna mér það betur.",
+            "date": "2009-10-25 00:25:00",
+            "post_id": "223598",
+            "reply_to_id": "223594"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Er að reyna eitthvað með DrJava núna. Er til eitthvað svona samansafn af skipunum eða eitthvað slíkt svo maður viti hvað maður getur gert?",
+            "date": "2009-10-25 00:30:00",
+            "post_id": "223599",
+            "reply_to_id": "223598"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Hvað þýðir \"Cannot access the non-static method println from a static context\" ??\nEr að fá þetta hægri vinstri í DrJava",
+            "date": "2009-10-25 11:43:00",
+            "post_id": "223612",
+            "reply_to_id": "223599"
+        },
+        {
+            "user_name": "Daz",
+            "text": "þú ert að kalla á meþóðu (println) úr main fallinu og þessi ákallað meþóða er ekki \"static\" . Þú getur líka peistað inn kóðanum hérna inn.",
+            "date": "2009-10-25 12:22:00",
+            "post_id": "223613",
+            "reply_to_id": "223612"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Hello world í java-by-step \nhttp://java.sun.com/docs/books/tutorial ... win32.html",
+            "date": "2009-10-25 12:25:00",
+            "post_id": "223615",
+            "reply_to_id": "223613"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Mér tókst að gera \"Hello World\" í Java í gær, en þegar ég ætlaði að fara í næsta dæmi þá klikkaði eitthvað\nKóði: \nVelja allt\npublic class Heiltölubreytur{\n  public static void main(String[] args) {\n    int tala;\n    tala = 5;\n    \n    System.out.println(\"Innihald breytunnar tala er: \" + tala);\n    tala = 8;\n      \n    System.out.println(\"Innihald breytunnar tala er nú: \" + tala);\n  }\n}\nEf einhver getur hjálpað og einnig útskýrt villuna svo maður geri þessa skissu ekki aftur.",
+            "date": "2009-10-25 12:41:00",
+            "post_id": "223619",
+            "reply_to_id": "223615"
+        },
+        {
+            "user_name": "Gothiatek",
+            "text": "Ég ætla að leyfa mér að vera ósammála því að benda þér á að byrja á Java. Java er ágætt til síns brúks en ef þig virkilega langar að læra forritun og hvað liggur á bakvið þá myndi ég byrja á að kíkja á C.\nJá, ég sagði C. Ekki C++ eða C#.\nFinnur góða bók, nærð í compiler og góðan editor. Er alls ekki að tala um að mastera C, heldur bara skoða grunnatriðin (Hello World, búa til function sem tekur parametra og skilar gildi). Trúðu mér, það á eftir að hjálpa þér mikið ef þig langar að halda áfram að læra forritun.\nSvo geturu farið að skoða hlutbundið mál.\nPersónulega finnst mér skemmtilegast að forrita í C...og þá er mun meiri stemning að gera það í Linux",
+            "date": "2009-10-25 14:35:00",
+            "post_id": "223624",
+            "reply_to_id": "223619"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Ef maður á bara að kafa grunnt í málið þá er C meira og minna það sama og Java (EF MAÐUR KAFAR GRUNNT).\nVarðandi forritið sem virkar ekki, ég myndi prófa að breyta nafninu á clasanum (\"Heiltölubreytur\") þannig að nafnið innihaldi ekki íslenska stafi. Muna bara að breyta nafninu á skjalinu líka.",
+            "date": "2009-10-25 15:06:00",
+            "post_id": "223626",
+            "reply_to_id": "223624"
+        },
+        {
+            "user_name": "BjarniTS",
+            "text": "ég er í tækniskólanum og þar var töl 103 - python\nSvo komu for áfangar sem èg er í 203 , erum ad læra c# Í visual studio thar.",
+            "date": "2009-10-25 16:05:00",
+            "post_id": "223636",
+            "reply_to_id": "223626"
+        },
+        {
+            "user_name": "Gothiatek",
+            "text": "Það má vera að Java syntax sé meir og minna það sama og C...ekki öfugt. Java á rætur að rekja til C++, sem á rætur að rekja til C. Þess vegna er ég að benda á að það geti verið gott að kynna sér C fyrst...ef aðeins til að öðlast betri skilning á C++ og Java síðar meir.",
+            "date": "2009-10-25 20:02:00",
+            "post_id": "223666",
+            "reply_to_id": "223636"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Ég hef nú fengið smá innsýn í C og C++ líka og já syntaxinn er meira og minna sá sami og þetta er (frá mér séð) sama forritunarmálið ef þú ert bara rétt að skoða þau. Augljóslega er grundvallarmunur, sérstaklega milli C/C++ og Java . \nÉg mældi ekkert sérstaklega með Java sem fyrsta máli, það getur vel verið að t.d. sé python auðveldara til að koma sér af stað. Ég efast samt um að C sé eitthvað betra en Java til að byrja í svona fyrir einhvern sem er bara að fikta. T.d. því að það er mjög stutt stökk í ljót windows gluggaforrit í Java, en C er ekki málið þar.",
+            "date": "2009-10-25 22:18:00",
+            "post_id": "223688",
+            "reply_to_id": "223666"
+        },
+        {
+            "user_name": "Carc",
+            "text": "Python virðist vera mjög vinsælt eins og talað er um notar CCP vissa útgáfu af því einnig sem Google notar Python.  Á víst að vera nokkuð auðvelt að ná því og skilja.",
+            "date": "2009-10-26 22:07:00",
+            "post_id": "223853",
+            "reply_to_id": "223688"
+        },
+        {
+            "user_name": "BjarkiMTB",
+            "text": "Aldrei gott að demba sér strax í alvöru stuffið. Þarft að byrja á grunninum og fara svo rólega upp. Ég myndi mæla með:\nByrja í javascript: \nhttp://www.w3schools.com/js/default.asp\nFara svo í PHP:  \nhttp://php.net\nSvo Python: \nhttp://python.org/\nOg svo C#: \nhttp://msdn.microsoft.com/en-us/vcsharp/default.aspx\nÞegar þú kannt öll þessi forritunarmál þá ættirðu að vera í góðum málum",
+            "date": "2009-10-28 18:20:00",
+            "post_id": "224151",
+            "reply_to_id": "223853"
+        },
+        {
+            "user_name": "BjarkiMTB",
+            "text": "Núna er lært C# í TÖL103. Og áður en Python var kennt í TÖL103 var JavaScript kennt.\nEn í hvaða hópi í FOR103 ertu?",
+            "date": "2009-10-28 18:22:00",
+            "post_id": "224152",
+            "reply_to_id": "224151"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Java er ógeðslegt og C# einnig",
+            "date": "2009-10-28 18:22:00",
+            "post_id": "224154",
+            "reply_to_id": "224152"
+        },
+        {
+            "user_name": "BjarkiMTB",
+            "text": "Nvm. Fattaði að þú ert í FOR203.",
+            "date": "2009-10-28 18:23:00",
+            "post_id": "224155",
+            "reply_to_id": "224154"
+        },
+        {
+            "user_name": "BjarkiMTB",
+            "text": "Ekki satt! Gaman að segja frá því að C# er að verða eitt vinsælasta forritunarmálið í dag. Svo er Java ekkert ósvipað C#.",
+            "date": "2009-10-28 18:24:00",
+            "post_id": "224158",
+            "reply_to_id": "224155"
+        },
+        {
+            "user_name": "Amything",
+            "text": "Ég las eina Java bók og svo Python bók. Byrjandi í báðum. Ég held ég muni ekki kíkja á Java aftur ótilneyddur. Python fannst mér mun auðveldara að komast inní. \nHello world java:\nKóði: \nVelja allt\npublic static void main(String args[])\n        {\n           System.out.println(\"Hello World!\");\n        }\nHello world Python:\nKóði: \nVelja allt\nprint 'Hello World!\nNuff said \nAnnars mundi ég mæla líka með að byrja í PHP. Alls ekki Javascript nema þú viljir drepa alla löngun til að forrita",
+            "date": "2009-10-28 18:48:00",
+            "post_id": "224165",
+            "reply_to_id": "224158"
+        },
+        {
+            "user_name": "BjarkiMTB",
+            "text": "Javascript er samt aðeins léttari til að byrja á en PHP.\nBæði forritunarmálin eru mjög byrjendavæn en PHP þarf server til að virka.\nEn ef þú vilt byrja á PHP og vilt ekki kaupa heimasíðu/setja upp server alveg sjálfur þá mæli ég með XAMPP (\nhttp://www.apachefriends.org/en/xampp.html\n). Mjög einfalt að setja upp server með þessu.\nOg já... Er sammála að JavaScript getur verið leiðinlegt, en það er bara þegar maður er að byrja. JavaScript er mjög skemmtilegt, og eiginlega \nmust\n, ef maður er kominn lengra og farinn að gera alvöru dynamic/interactive heimasíður. Fyrir enn lengra komna eru frameworks eins og jQuery (\nhttp://jquery.com\n) allgjörir timesaverar og gerir JavaScript enn skemmtilegra.",
+            "date": "2009-10-28 18:57:00",
+            "post_id": "224171",
+            "reply_to_id": "224165"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Ef þú ætlar að dæma forritunarmál útfrá eingöngu \"Hello world\" þá ertu á villigötum. Ég þekki python ekki mikið, annað en að hafa heyrt \"stackless python\" predikun frá CCP forritara einu sinni, en Java er ekki eitthvað sem þú vilt slá útaf borðinu á þínum verkfæralista. Sérstaklega ekki ef þig langar að vinna við forritun (Java er ekkert eina Enterprise málið, en það eru margir sem nýta Java framworks og projects).",
+            "date": "2009-10-29 09:44:00",
+            "post_id": "224269",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Amything",
+            "text": "Við erum að tala um fyrsta forritunarmál fyrir gaur sem vill kíkja á forritun. Hello world er bara mjög gott dæmi. Java er huge, eflaust mun stærra í corporate notkun en Python og þar af leiðandi betri tækifæri á vinnumarkaðnum.",
+            "date": "2009-10-29 10:43:00",
+            "post_id": "224278",
+            "reply_to_id": "224269"
+        },
+        {
+            "user_name": "Dagur",
+            "text": "Mikil hjálp í ykkur",
+            "date": "2009-10-29 15:33:00",
+            "post_id": "224319",
+            "reply_to_id": "224278"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Hello world er ekki það dæmi sem þú notar til að velja þér forritunarmál til að byrja á eða til að dæma hvað er auðveldast. Hvaða mál þú byrjar á í forritunarfikt ætti ekki að hafa mikið að segja, forritun er bara forritun sama hvað málið heitir. Það sem ég vildi koma á framfæri var að það væri mjög takmarkandi að vilja slá eitthvað eitt mál útaf borðinu, sérstaklega með því að bera saman \"Hello world\". Staðhæfing eins og \n\"Ég held ég muni ekki kíkja á Java aftur ótilneyddur.\"\nEftir því sem ég best veit er Java ekkert síðra byrjendaforritunarmál en Python, þrátt fyrir að það séu örlítið fleiri stafir í \"Hello world\" fyrir Java. \nSkrifum frekar allt í Fjölni!\nKóði: \nVelja allt\n\"hello\" < main\n{\n   main ->\n   stef(;)\n   stofn\n       skrifastreng(;\"Hall?Veröld!\"),\n   stofnlok\n}\n*\n\"GRUNNUR\"\n;",
+            "date": "2009-10-29 15:51:00",
+            "post_id": "224324",
+            "reply_to_id": "224319"
+        },
+        {
+            "user_name": "Amything",
+            "text": "Ég setti broskall fyrir ástæðu hjá 'Hello World' dæminu og þessi staðhæfing sem þú nefndir kom eftir að hafa lesið bók um hvort málið fyrir sig og prófað að forrita sama hlutinn á báðum málum. En common, þetta eru eins og verstu fanboy umræður hjá okkur  \nÉg verð samt að segja að ég efast ekki um það í eina sekúndu að það er skemmtilegra fyrir byrjanda að kíkja á Python  \n Hvort það sé gáfulegra er allt annað mál...",
+            "date": "2009-10-29 18:19:00",
+            "post_id": "224347",
+            "reply_to_id": "224324"
+        },
+        {
+            "user_name": "Amything",
+            "text": "Ég er búinn að vera bulla um Python, en ég byrjaði nákvæmlega svona og verð að mæla með því (PHP/Mysql).\nInstalla WAMP. Þetta er Apache vefserver ásamt PHP og MySQL. Allt dæmið í one click install.\nFara í gegnum þennan tutorial:\nhttp://devzone.zend.com/node/view/id/627\nSleppa PHP install leiðbeiningunum í hluta 101.\nSkrifa svo kóðann inn, ekki copy peista",
+            "date": "2009-10-29 18:28:00",
+            "post_id": "224353",
+            "reply_to_id": "224347"
+        },
+        {
+            "user_name": "BjarkiMTB",
+            "text": "Kóði: \nVelja allt\n<?php\necho \"Sammála seinasta ræðumanni\";\n?>",
+            "date": "2009-10-29 18:54:00",
+            "post_id": "224358",
+            "reply_to_id": "224353"
+        },
+        {
+            "user_name": "corflame",
+            "text": "Ég myndi byrja á C#, helsta ástæðan er að það er til alveg heeeellingur af byrjendabókum auk þess að auðvelt er að finna hjálp ef maður lendir í vandræðum. Einnig geturðu notað þetta bæði í Windows forritun og vefforritun sem er stór kostur að mínu mati.\n Svo skemmir ekki fyrir að það er svipaður syntax og í C++ og Java (enda allt skylt) sem auðveldar upptöku á þeim málum síðar (bara muna ruslasöfnun í C++ \n )",
+            "date": "2009-10-30 11:37:00",
+            "post_id": "224462",
+            "reply_to_id": "224358"
+        },
+        {
+            "user_name": "helgiks",
+            "text": "Ég fann mig bara knúinn til að svara þessu...\nÉg myndi mæla með python fyrir byrjenda hvaða dag ársins sem er. Ef þú hefur gífurlegann áhuga og vilt læra *forritun* er C alltaf must og mjög skemmtilegt mál. En skemmtilegasta, einfaldasta mál sem ég hef prufað er python. Þrátt fyrir einfaldleika býr það yfir gífurlegum krafti fyrir alla mögulega forritun, einnig getur python forrit keyrt á java vm-inu og geturu því nýtt þér ýmis java library.\nPython hefur líka sýnt sig á mörgum sviðum og er notað í *alvöru* verkefni á ýmsum stöðum, og vinsældir þess eru að aukast þannig að kunnáttu í python er líka hægt að nota á vinnumarkaði.\nÞað eru til tvær fríar (open source) byrjenda bækur um python sem eru frekar góðar, ein heitir Think Python og gerir ekki ráð fyrir neinni kunnáttu í forritun og kennir allt frá grunni með python, hin heitir Dive into python og gerir ráð fyrir kunnáttu í forritun en er einfaldlega að kenna python.\nBest er fyrir þig að líta á þau mál sem þú hefur áhuga á og skoða sjálfur og velja eftir því sem þér finnst líta best út. Ekkert þessara mála er að fara að deyja út á næstunni og hægt að nota þau flest öll einhverstaðar. Greining þín á málunum þarf ekki að vera dýpri en það að þér finnst hitt eða þetta einfaldlega fallegra, einfaldara, eða skiljanlegra til að geta réttlætt fyrir sjálfum þér að þú sért að velja \"rétt\".\nÞegar þú hefur lært eitt er hægt að taka upp annað og þá mun kunnátta í öðru máli, sama hvaða mál það er, nýtast til að læra það næsta.\nruby, python, perl, c, c++, c#, java, haskell, asm, lisp, scheme, bash, php, javacsript .. það skiptir ekki öllu máli, finndu og skoðaðu og lærðu það sem höfðar mest til þín. Það er ekkert leiðinlegra en að reyna að læra eitthvað forritunarmál sem manni finnst ljótt eða leðinlegt.",
+            "date": "2009-10-30 19:29:00",
+            "post_id": "224560",
+            "reply_to_id": "224462"
+        },
+        {
+            "user_name": "Amything",
+            "text": "Ég held líka að það sé mikilvægt að byrja á einhverju skemmtilegur eins og Python eða PHP. Að verða góður í forritun eins og öll þar sem flækjustigið getur orðið hátt tekur það mörg þúsund klukkutíma að verða fær. Nokkrir tugir eða hundruðir klukktíma sem fara í það sem þú velur þér fyrst núna skiptir ekki öllu máli svo lengi sem það gerir þig ekki afsnúin forritun.",
+            "date": "2009-10-30 20:42:00",
+            "post_id": "224574",
+            "reply_to_id": "224560"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Já, ætli þetta hafi ekki verið það sem mig langaði að segja",
+            "date": "2009-10-30 21:32:00",
+            "post_id": "224584",
+            "reply_to_id": "224574"
+        },
+        {
+            "user_name": "starionturbo",
+            "text": "Taktu Python eða PHP til að byrja!\nReyndu svo Ruby on Rails (RoR) til koma þér á rétta braut \nÉg forrita eingöngu í C# og PHP + MySQL.\nNota reyndar Kohana til að vera með allt Object orientated.",
+            "date": "2009-11-29 01:31:00",
+            "post_id": "230321",
+            "reply_to_id": "224584"
+        }
+    ],
+    "date": "2009-10-29 09:44:00"
+}

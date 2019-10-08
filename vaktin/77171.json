@@ -1,0 +1,58 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "77171",
+    "title": "Electron apps eru þau málið?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=77171",
+    "posts": [
+        {
+            "user_name": "Televisionary",
+            "text": "Í ljósu þess að mikið af hugbúnaði sem er farið að keyra eru Electron apps sbr. Slack, Skype, Atom, Virtual Studio Code o.fl. (s.s. mikið af \"client\" hugbúnaði er farið að keyra í pakkað inn í vafra.)\nÞá fór ég að skoða hversu mikið af hugbúnaði sem ég nota dags daglega get ég keyrt sem \"native\" Electron forrit. Eftirfarandi forritum tókst mér að pakka inn eða finna build frá öðrum.\n - Skype\n - Microsoft Teams\n - Outlook\n - Gmail\n - Evernote\n - WhatsApp\n - Google Hangouts\n \nHvað gerir þetta fyrir mig? Mér hefur tekist að gera vinnuna mína nokkuð óháða stýrikerfi.\nÉg hef verið að nota NodeJS verkfæri sem heitir nativefier til að búa til eitthvað af þessu. Planið er að bæta við eftir hendinni því að sem vantar. \nEr einhver í svipuðum pælingum þarna úti eða einhver áhugi því að pakka einhverju inn sem native? \nÉg er að spá í að henda saman sérstakri vél sem myndi búa til \"cross platform\" build þeas fyrir Windows 32/64 bita og Linux + Mac OS ásamt source + skriptum á Github. Ég er enn í smávandræðum að fá þetta til að keyra undir NixOS þó að öll \"build\" hafi verið framkvæmd þar án vandræða.\nLeysir þetta einhvern vanda? Í ljósi þess að ég hef enn ekki fundið póst client sem ég er ánægður með þá er þetta ágætis lausn fyrir mig og að geta gert alt+tab og hoppað beint á milli forrita í stað þess að leita að tabs innan um þessi 100 stk. sem ég er með opin að meðaltali. Eini ókosturinn sem ég sé hreint út er vinnsluminni sem gæti farið til spillis en í ljósi þess að ég er ekki að nota neinar vélar með minna en 16 GB þá sé ég ekki að það sé vesen.\nHefur einhver áhuga á svona pælingum?",
+            "date": "2018-09-11 12:40:00",
+            "post_id": "677375",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "netkaffi",
+            "text": "Get ég þá runnað Gmail sem exe fæl? Ég er til!",
+            "date": "2018-09-11 13:41:00",
+            "post_id": "677397",
+            "reply_to_id": "677375"
+        },
+        {
+            "user_name": "Televisionary",
+            "text": "Prófaðu þetta: \nhttps://github.com/sillkongen/acorn_ele ... in-x64.zip\nSetti meira að segja Gmail icon á appið sem er meira heldur en ég nennti að gera fyrir mig. Vírusskannað með uppfærðum Bitdefender. Þetta build er búið til á Mac OS nota bene. Bætti einungis iconinu við undir Windows.\nÞetta er \"portable\" app bara að sprengja út möppuna og gera shortcut í Gmail Application sem þú finnur í möppunni.",
+            "date": "2018-09-11 15:17:00",
+            "post_id": "677402",
+            "reply_to_id": "677397"
+        },
+        {
+            "user_name": "codec",
+            "text": "Helsti gallinn við Electron apps er að þau eiga það til að vera bloated slow mess þó eru örfáar undantekningar eins og VS Code sem stendur svolítið uppúr hvað gæði varðar og þá er það smá snilld t.d. með tilliti til v. cross platform virkni.\nFlest eru hinsvegar vandræðalega inefficent, léleg port á einhverju vef dóti, en á nútíma HW þá kannski gengur það svona að mestu.",
+            "date": "2018-09-11 17:08:00",
+            "post_id": "677405",
+            "reply_to_id": "677402"
+        },
+        {
+            "user_name": "hreinnbeck",
+            "text": "Er ekki \"More tools -> Create shortcut...\" í Chrome allt sem þú þarft?\nBýr til shortcut á desktop, ræsist upp án Chrome GUI, notar icon frá síðunni. Algjörlega aðgreinanlegt frá Chrome í taskswitching.",
+            "date": "2018-09-11 17:51:00",
+            "post_id": "677407",
+            "reply_to_id": "677405"
+        },
+        {
+            "user_name": "Televisionary",
+            "text": "Ef að ég notaði Chrome. Eins og staðan er í dag hjá mér þá er ég bara með eina bash skriptu sem að býr öll build til fyrir öll stýrikerfi hjá mér og engin Chrome uppsettur ein mappa á netþjóni sem geymir þetta allt og bara ein rsync skipun sem sækir allt alveg sama hvaða vél ég er með í notkun.\nChrome var með einhver netleiðindi þ.e.a.s. uppfærslu process og dúkkaði endalaust upp með netraffík þó að Chrome væri ekki einu sinni keyrandi síðast þegar ég notaði hann. Það fer í taugarnar á mér þegar ég hef ekki fulla stjórn á hlutunum.\nEn þetta er góð leið fyrir þá sem vilja gera þetta með Chrome. Það passar ekki allt fyrir alla.\nNú þarf ég að finna út afhverju NixOS neitar að keyra þetta.\np.s. átt þú ekki að vera í Amsterdam á þessum árstíma?",
+            "date": "2018-09-11 18:00:00",
+            "post_id": "677408",
+            "reply_to_id": "677407"
+        },
+        {
+            "user_name": "hreinnbeck",
+            "text": "Ég myndi allaveganna leita leiða til að þetta sé ekki alltaf nýr electron process fyrir hvert \"app\".\nAmsterdam: Er umsetinn af verkefnum þessa stundina og mun í besta falli fara út laugdardagsmorgun og koma aftur sunnudagskvöld. En er ekki bjartsýnn",
+            "date": "2018-09-11 18:08:00",
+            "post_id": "677409",
+            "reply_to_id": "677408"
+        }
+    ],
+    "date": "2018-09-11 12:40:00"
+}

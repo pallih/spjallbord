@@ -1,0 +1,37 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "36540",
+    "title": "burn .srt file to .avi/.mkv file",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=36540",
+    "posts": [
+        {
+            "user_name": "Dormaster",
+            "text": "kann einhver að \n brenna\n .srt file á .avi/.mkv file ?\nþá er ég að tala um eitthvað forrit sem myndi þá gera þetta fyrir mig, að taka 2 file-a og brenna  i einn file. ?\np.s. ég er ekki að tala um að setja þetta á einhvern DVD.\nTAKK FYRIR.",
+            "date": "2011-02-24 00:28:00",
+            "post_id": "325601",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "hauksinick",
+            "text": "http://tinyurl.com/5r5bb72",
+            "date": "2011-02-24 01:26:00",
+            "post_id": "325612",
+            "reply_to_id": "325601"
+        },
+        {
+            "user_name": "Dormaster",
+            "text": "ég er búinn að googla vandamálið nema ég vill ekki fá þetta DVD dæmi, mig vantar bara hvernig ég tek 2 file-a og merga þá í einn",
+            "date": "2011-02-24 02:01:00",
+            "post_id": "325616",
+            "reply_to_id": "325612"
+        },
+        {
+            "user_name": "bjarturv",
+            "text": "Til að \"brenna\" .srt texta á avi: \nVobsub\nnotaðu svo \nmkvtoolnix\n til að bæta við subtitles, audio eða video í mkv containerinn",
+            "date": "2011-02-24 07:25:00",
+            "post_id": "325621",
+            "reply_to_id": "325616"
+        }
+    ],
+    "date": "2011-02-24 00:28:00"
+}

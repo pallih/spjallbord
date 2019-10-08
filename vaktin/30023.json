@@ -1,0 +1,58 @@
+{
+    "forum_title": "Þjónusta / Viðgerðir",
+    "id": "30023",
+    "title": "Smá Hjálp for ur 120hz yfir 140hz",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=13&t=30023",
+    "posts": [
+        {
+            "user_name": "corolla",
+            "text": "sælir nú þarf ég smá hjálp frá ykkur eg var ad fikta i vélini hjá mer og lét skájinn í 140hz úr 120hz-um \nog svo þegar eg smelli a OK þá kemur svartur Skjár ég er buin að prufa að skipta um skjá og samt kemur alltaf svartur skjár þegar eg starta cpu hvad geri eg til ad laga tetta hja mer?",
+            "date": "2010-05-05 20:43:00",
+            "post_id": "260295",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "corolla",
+            "text": "kemur out of range kemst ekkert inní windowsið nema i safe mode og get ekki breytt um hertz þar eða bakkfært tölvuna",
+            "date": "2010-05-05 21:07:00",
+            "post_id": "260302",
+            "reply_to_id": "260295"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Uninstallaðu skjákortsdrivernum og skjádrivernum í safe mode og restartaðu.\nÆtti að lagast við það.\nfáir skjáir sem ráða við 140Hz. Hefðir auðveldlega getað grillað skjáinn.",
+            "date": "2010-05-05 21:15:00",
+            "post_id": "260306",
+            "reply_to_id": "260302"
+        },
+        {
+            "user_name": "BjarniTS",
+            "text": "Ætti hann ekki líka að geta startað í safe mode þó að skjárinn sé svona stilltur , og breytt svo þessu þar ?",
+            "date": "2010-05-05 21:18:00",
+            "post_id": "260307",
+            "reply_to_id": "260306"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "m.v. seinni póstinn frá honum þá virkaði það ekki. Held það sé líka engin tenging á milli skjástillinganna í safe mode og venjulegri ræsingu þar sem safe mode loadar bara basic skjádrivera.",
+            "date": "2010-05-05 21:26:00",
+            "post_id": "260311",
+            "reply_to_id": "260307"
+        },
+        {
+            "user_name": "Phanto",
+            "text": "run -> msconfig -> BOOT.INI -> /basevideo\nog starta venjulega",
+            "date": "2010-05-05 22:17:00",
+            "post_id": "260336",
+            "reply_to_id": "260311"
+        },
+        {
+            "user_name": "mattiisak",
+            "text": "hefðir átt að bíða í 15 sec því þetta kemur upp",
+            "date": "2010-05-05 23:36:00",
+            "post_id": "260357",
+            "reply_to_id": "260336"
+        }
+    ],
+    "date": "2010-05-05 20:43:00"
+}

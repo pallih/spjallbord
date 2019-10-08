@@ -1,0 +1,51 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "16853",
+    "title": "ocz reaper volt vandræði",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=16853",
+    "posts": [
+        {
+            "user_name": "MuGGz",
+            "text": "halló,\n\n\n\ner með OCZ reaper 1066mhz vinnsluminni sem eru sögð frá framleiðanda 2.1-2.3v\n\n\n\nVandamál mitt er það að ég get ekki keyrt þau hraðar enn 800mhz þar sem að ég get ekki hækkað voltin í BIOS..\n\n\n\nEr stillt á auto núna og þá eru þau að keyra á 800mhz sem er í lagi, enn ef ég ætla keyra þau á þeirra rétta hraða, 1066, þá þyrfi ég að hækka voltin.\n\n\n\nENN, um leið og ég hækka voltin eitthvað, jafnvel bara uppí 2v þá fæ ég bara langt píp og eftir smá tíma fer hún í gang og þá er hún búin að setja minnin í 677mhz og biður mig vinsamlegast um að breita freqency stillingum til baka ...\n\n\n\nEinhver ráð ? \n\n\n\nevga 780i\n\ne8400\n\n8800gts 512mb g92\n\n2x 1024 OCZ Reaper 1066mhz",
+            "date": "2008-01-27 01:17:00",
+            "post_id": "164675",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Yank",
+            "text": "Bíða eftir bios update. \n\n\n\nAlltaf gaman að vera fyrstur með nýtt hardware en því getur einnig fylgt pain.",
+            "date": "2008-01-27 01:35:00",
+            "post_id": "164679",
+            "reply_to_id": "164675"
+        },
+        {
+            "user_name": "MuGGz",
+            "text": "var að prufa þetta með corsair minni, no prob, 1066mhz 2,2v...\n\n\n\nany idea ?",
+            "date": "2008-01-27 01:46:00",
+            "post_id": "164680",
+            "reply_to_id": "164679"
+        },
+        {
+            "user_name": "MuGGz",
+            "text": "annað mál ..\n\n\n\nvar að sækja cpu-z \n\n\n\nMax Bandwidth : PC2-5300 (333 Mhz) \n\n\n\nog í timins töflunni er max hraðinn 333Mhz 5 5 5 15 @ 1.8v ...",
+            "date": "2008-01-27 03:24:00",
+            "post_id": "164689",
+            "reply_to_id": "164680"
+        },
+        {
+            "user_name": "MuGGz",
+            "text": "ok, þetta er nú meira böggið ..\n\n\n\nMóðurborðið sér vinnsluminnin mín aðeins sem pc-5300 vinnsluminni, 667mhz ..\n\n\n\nEf ég hef þau stillt á 667mhz í bios þá get ég hækkað voltin eins og ég vill og engin error og ekkert vesen \n\n\n\nsetti voltin í 2.1 á 667mhz og keyrði 3dmark06, no problem \n\n\n\nÞANNIG, núna þarf ég að fá vélina mína til að sjá minnin mín sem pc-8500!!\n\n\n\nþað þýðir ekkert að hækka bara mhz í bios því hún detectar þau samt bara sem 5300 og allt fer í fuck \n\n\n\ndettur einhverjum eitthvað í hug  ??",
+            "date": "2008-01-27 13:50:00",
+            "post_id": "164712",
+            "reply_to_id": "164689"
+        },
+        {
+            "user_name": "stjanij",
+            "text": "sorry, þessi minni eru til vandræða og eru einstaklega plássfrek.\n\n\n\nég myndi skipta þéim út ef þú getur, hef ekki góða reynsla af þessum tegundum.",
+            "date": "2008-01-27 14:22:00",
+            "post_id": "164716",
+            "reply_to_id": "164712"
+        }
+    ],
+    "date": "2008-01-27 01:17:00"
+}

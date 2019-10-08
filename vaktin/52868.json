@@ -1,0 +1,86 @@
+{
+    "forum_title": "Koníakstofan",
+    "id": "52868",
+    "title": "mini sd er í raw format hjálp",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=9&t=52868",
+    "posts": [
+        {
+            "user_name": "joibs",
+            "text": "ég er hérna með mini sd kort hérna sem fokkaðist eithvað upp og fór í raw format\nvantar að fá það aftur í fat32 til að geta notað það vitið þið eithvað um þetta sem gæti hjálpað mér\np.s. það virkar ekki að farmata þetta venjulega",
+            "date": "2013-01-20 18:20:00",
+            "post_id": "490627",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "farðu í command promt as administrator(hægri smellir á cmd og velur run as administrator)\n \n skrifaðu diskpart\n \n list disk\nþarna sérðu diskana sem þú ert með\n \n select disk \"númerið á disknum sem er sd kortið\"\n \n clean\n \n og formataðu venjulega.",
+            "date": "2013-01-20 18:22:00",
+            "post_id": "490628",
+            "reply_to_id": "490627"
+        },
+        {
+            "user_name": "joibs",
+            "text": "eftir að ég skrifa diskpart þá get ég ekki skrifað meira..... hvað geri ég þá?? :S\nþakka fyrir snögt svar \nedit:\ngerði þetta 2x aftur og þá koma up 2 diskar annar er 149gb sem er þá væntanlega harðidiskurinn minn\nof síðan \"disk 1\" stadus: no media size: 0gb free: 0gb það er þá væntanlega sd kortið?\n(gleimdi að taka framm að það sést ekki í my computer)",
+            "date": "2013-01-20 18:29:00",
+            "post_id": "490632",
+            "reply_to_id": "490628"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Jább, það er kortið. Athugaðu að það hverfa samt öll gögn af því.",
+            "date": "2013-01-20 18:40:00",
+            "post_id": "490635",
+            "reply_to_id": "490632"
+        },
+        {
+            "user_name": "joibs",
+            "text": "það er ekkert mál\nnúna er ég búinn að gera allt í cmd\nen þegar ég byrja að formata þá kemur þetta strax \n\"windows was unable to comblete the format.\"\neftir það reindi ég að opna sd kortið en þá kemur að ég egi eftir að formata það \n(það sést núna í my computer)",
+            "date": "2013-01-20 18:47:00",
+            "post_id": "490636",
+            "reply_to_id": "490635"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Prófaðu að ná í forrit sem heitir Active Killdisk og gera \"kill\" á sd kortið.\nHef náð að redda nokkrum USB lyklum sem hafa neitað öllum öðrum aðferðum til að hreinsa eða formata þá.",
+            "date": "2013-01-20 19:02:00",
+            "post_id": "490641",
+            "reply_to_id": "490636"
+        },
+        {
+            "user_name": "joibs",
+            "text": "downlodaði því og er búinn að gera \"kill\" 2 errors \nog þetta átti víst að vera búið\nsíðan formata ég og sama gerist bara. gæti ekki verið að það hafi komið svona \"read only\" á það?\nhvernig sé ég það og laga það?\n(er ekki með kortið locket er búinn að tékka á því)",
+            "date": "2013-01-20 20:25:00",
+            "post_id": "490662",
+            "reply_to_id": "490641"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Getur verið að kortið sé bara fucked up.\nKillDisk á að geta hreinsað kortið ef það er ekki bilað. Ef það komu errors þá veit ég ekki alveg með þetta.",
+            "date": "2013-01-20 20:46:00",
+            "post_id": "490668",
+            "reply_to_id": "490662"
+        },
+        {
+            "user_name": "joibs",
+            "text": "jaa...\nlangar samt ekki að henda enn einu kortinu, þetta er búið að gerast norumsinnum hjá mér en þau kort hafa alltaf verið eithvað sem ég hélt að væri bara ódýrt drasll kort og hef þessvegna ekkert spáð í þessu en síðan gerðist þetta við 8gb sandisk kortið sem ég var bar búinnað eiga í rúma 2 mánuði :/",
+            "date": "2013-01-20 20:57:00",
+            "post_id": "490672",
+            "reply_to_id": "490668"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Getur prófað að formata það í gegnum annað stýrikerfi, t.d. Linux.\nEn ég hef ekki mikla trú á þessu korti.",
+            "date": "2013-01-20 21:00:00",
+            "post_id": "490673",
+            "reply_to_id": "490672"
+        },
+        {
+            "user_name": "joibs",
+            "text": "spurning hvort maður prófi það ekki bara\nen takk kærlega fyrir hjálpina",
+            "date": "2013-01-20 21:20:00",
+            "post_id": "490681",
+            "reply_to_id": "490673"
+        }
+    ],
+    "date": "2013-01-20 18:20:00"
+}

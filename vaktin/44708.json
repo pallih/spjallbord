@@ -1,0 +1,44 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "44708",
+    "title": "WD disk 200gb les bara 19.6gb",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=44708",
+    "posts": [
+        {
+            "user_name": "vesi",
+            "text": "sælir vaktarar. \ner með gamlan Western Digital og hann var 200gb, svo endaði hann upp í hillu.. datt svo hug að henda honum  í flakkara, en þá sýnir my computer bara 19,6gb, búinn að formatta,, googla aðens,, er einhver leið að þá honum aftur upp í gb eða er þetta bara rusl matur \nsýnist þetta vera þessi diskur \nhttp://wdc.custhelp.com/app/answers/detail/a_id/723/~/specifications-for-the-200-gb-special-edition-eide-drive-(model-wd2000jb,\n ef það hjálpar eithvað \ntakk fyrir",
+            "date": "2012-01-10 20:25:00",
+            "post_id": "411493",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "cartman",
+            "text": "Gæti verið að þú hafir búið til 20 GB partition á hann og þú eigir eftir að initialize-a restina.\nHvernig lítur diskurinn út ef þú ferð í \nControl Panel->Administrative tools -> Computer Management -> Storage -> Disk Management?  Sérðu þar eitthvað Unallocated space?",
+            "date": "2012-01-10 20:28:00",
+            "post_id": "411496",
+            "reply_to_id": "411493"
+        },
+        {
+            "user_name": "vesi",
+            "text": "já þarna er það,, hmm hvernig bæti ég úr þessu,, fá þá bara eitt partition",
+            "date": "2012-01-10 20:43:00",
+            "post_id": "411506",
+            "reply_to_id": "411496"
+        },
+        {
+            "user_name": "vesi",
+            "text": "okey að deleta volume var ekki sniðugt,, nú fynst hann alls ekki,,",
+            "date": "2012-01-10 20:57:00",
+            "post_id": "411514",
+            "reply_to_id": "411506"
+        },
+        {
+            "user_name": "vesi",
+            "text": "fixed,, takk fyrir hjálpina cartman",
+            "date": "2012-01-10 21:05:00",
+            "post_id": "411519",
+            "reply_to_id": "411514"
+        }
+    ],
+    "date": "2012-01-10 20:25:00"
+}

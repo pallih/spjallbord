@@ -1,0 +1,44 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "69999",
+    "title": "Ráð fyrir Asus DSL-AC68U",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=69999",
+    "posts": [
+        {
+            "user_name": "htmlrulezd000d",
+            "text": "Var að kaupa Asus DSL-AC68U fyrir ljósnet. Veit að hann er overkill fyrir ljósnet en mig langar í möguleikann einn daginn að geta farið í ljósleiðara. \nÉg algjör byrjandi í netmálum en mig langar að læra og prufa sjálfur. Ég er búinn að skoða lappari.com þar er aðstoð að tengja hann fyrir Símann og Vodafone en þar sem ég mun örugglega enda hjá Hringdu er ég smá stressaður að tengja þetta sjálfur. Var þess vegna að velta því fyrir mér hvort það eru einhverjir meistarar hérna sem gæta hent nokkrum góðum ráðum sem ég get notað þegar ég tengi hann sjálfur.\nhttp://www.tl.is/product/dsl-ac68u-adsl ... -dual-band",
+            "date": "2016-07-16 19:02:00",
+            "post_id": "627631",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "asgeirbjarnason",
+            "text": "Er eitthvað sérstakt sem þig langar að vita? Hringdu eru alltaf tilbúnir að láta mann fá þær tæknilegu upplýsingar sem maður þarf, þó þær séu reyndar ekki á heimasíðunni þeirra. Mig minnir alveg örugglega að þeir séu að nota sömu auðkennisstillingar og hinar internetveiturnar á ljósnetinu, svo leiðbeiningarnar á lappari.com ættu að virka nánast alveg eins hjá þeim. Hringdu eru hinsvegar með aðrar VLAN og priority stillingar, svo þú þyrftir að fá þær upplýsingar frá Hringdu og aðlaga lappari.com leiðbeiningarnar að því.\nBara svona til að þetta innlegg hjá mér sé alveg imba-proof þá er VLAN leið til að skipta netbúnaði niður í mismunandi „lógísk“ net, til að til dæmis geta verið með internet og sjónvarpsþjónustu á sama routernum. Priority eða QoS er síðan aðferð til að setja mismunandi traffík í mismunandi forgangsraðir, svo símtöl og sjónvarpsstraumar truflist ekki þegar er mikil traffík á venjulegu internet-tengingunni.\nGetur hóað í mig ef þú lendir í einhverjum vandræðum. Varst það annars ekki þú sem ætlaðir að byrja að læra CCNA bráðlega? Ef svo er þá er svona netfikt náttúrulega kjörin leið til að skilja hugtökin aðeins betur, þótt þú sért ekki að gera þetta á Cisco búnaði.",
+            "date": "2016-07-16 21:38:00",
+            "post_id": "627640",
+            "reply_to_id": "627631"
+        },
+        {
+            "user_name": "Hrotti",
+            "text": "Ég er með svona og með netið hjá Hringdu. Eins og venjulega þá voru Hringdu til fyrirmyndar og lóðsuðu mig í  gegnum stillingarnar sem þurfti að stilla inn og allt gekk upp á örfáum mínútum.",
+            "date": "2016-07-17 09:53:00",
+            "post_id": "627657",
+            "reply_to_id": "627640"
+        },
+        {
+            "user_name": "htmlrulezd000d",
+            "text": "Takk fyrir svörin, og jú fer í það nám í janúar 2017 ! Ég mun örugglega fikta mig í gegnum þetta !\nFrábært, gott að vita að hringdu eru með svona fína þjónustu",
+            "date": "2016-07-17 13:05:00",
+            "post_id": "627667",
+            "reply_to_id": "627657"
+        },
+        {
+            "user_name": "mainman",
+            "text": "Eldgamall þráður sé ég en er einhver með stillingarnar fyrir þennan router fyrir Hringdu ?",
+            "date": "2018-03-09 21:32:00",
+            "post_id": "668502",
+            "reply_to_id": "627667"
+        }
+    ],
+    "date": "2016-07-16 19:02:00"
+}

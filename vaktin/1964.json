@@ -1,0 +1,79 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "1964",
+    "title": "CLOCKA",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=1964",
+    "posts": [
+        {
+            "user_name": "Woods",
+            "text": "er með 2,6 800 örgjörva og hækkaði FSB bara er það ekki nóg er nuna í 2.8 en ætla að fara í 3.06 þarf eg að gera eirrhvað anna ð?????????\n\n\n\n\n\ntakk\n\n\n\ner með Kingston Hyperx minni DDR400",
+            "date": "2003-11-01 08:59:00",
+            "post_id": "18380",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Woods",
+            "text": "setti FSB í 937 þa´er ég kominn í 3.03 með örrann \n\n\n\ner þetta ekki í keyi ef hun er stable",
+            "date": "2003-11-01 09:10:00",
+            "post_id": "18381",
+            "reply_to_id": "18380"
+        },
+        {
+            "user_name": "Woods",
+            "text": "velin frys í 3dmark 2001 ef ég er með hana á 3.06",
+            "date": "2003-11-01 09:43:00",
+            "post_id": "18382",
+            "reply_to_id": "18381"
+        },
+        {
+            "user_name": "elv",
+            "text": "hækka Vcore og passa hitann!!",
+            "date": "2003-11-01 11:10:00",
+            "post_id": "18383",
+            "reply_to_id": "18382"
+        },
+        {
+            "user_name": "aRnor`",
+            "text": "iss Gaurinn Brennir",
+            "date": "2003-11-01 14:24:00",
+            "post_id": "18393",
+            "reply_to_id": "18383"
+        },
+        {
+            "user_name": "legi",
+            "text": "Hmmm sko verður að fara mjöööög varlega í að stilla v-core, helst að hækka hann bara um 0,25 í einu ef það er hægt á borðinu þínu .",
+            "date": "2003-11-01 15:28:00",
+            "post_id": "18394",
+            "reply_to_id": "18393"
+        },
+        {
+            "user_name": "Fletch",
+            "text": "Passaðu að læsa AGP/PCI bus'in á 66/33 MHz\n\n\n\nOg ekki vera yfirklukka minnið mikið, settu 5:4 divider á það\n\n\n\nFletch",
+            "date": "2003-11-01 20:24:00",
+            "post_id": "18421",
+            "reply_to_id": "18394"
+        },
+        {
+            "user_name": "Dannir",
+            "text": "Hvað er málið með þessi timings? 5:4 ?? á að reikna út hlutföllin?\n\n\n\nÉg sá þetta hér að vildi ekki fikta í fbs eftir það og hækkaði bara multipleyerinn.Heyrði líka að vera með allt í sync sé best\n\n\n\nSvo annað mál ég er með msi móðurborð (nforce2) og ég setti viftu á NB heatsinckið og þá hækkaði hitinn á NB....\n\n\n\nEr bara málið að msi er mikið heitara en allt annað? er að sjá fáránlega system temp. hérna.\n\n\n\nxp2500 barton á 2050mhz\n\nmsi k7n2g-L\n\n512 ddr 333 (noname drasl)\n\ní dragon kassa\n\nog er með thermaltake silenboost\n\nog 4 kassa viftur (2 inn og 2 út)\n\n\n\nsamt er ég að fá 54° á örran (þegar hann er ekki klukkaður)\n\nog 37-40 á system temp.\n\n\n\ner þetta eðlilegur hiti?",
+            "date": "2003-11-02 01:24:00",
+            "post_id": "18481",
+            "reply_to_id": "18421"
+        },
+        {
+            "user_name": "aRnor`",
+            "text": "Sambandi við \nNB\n þá er þetta einhvað rugl, gerir það sama hjá mér\n\ná msi875p Neo móðurborðinu og ég tók hana bara úr sambandi (hávær)\n\n\n\nAftur á móti , ertu að nota \nCore Center\n til að mæla hitann?\n\nEf svo er þá var nb hitinn tekinn af í nýjustu útgáfunni.",
+            "date": "2003-11-02 01:32:00",
+            "post_id": "18484",
+            "reply_to_id": "18481"
+        },
+        {
+            "user_name": "Fletch",
+            "text": "Hann var með P4 móðurborð...  þú ert með Nforce2 móðurborð..  875 og 865 chipsettin eru ekki eins viðkvæm fyrir að keyra minnið og fsb async..\n\nNforce2 borðin virka langbest að keyra í sync á mem/fsb.\n\n\n\nMiðað við minnið sem þú ert með ættiru einmitt bara að vera fikta í multipliernum...  getur fundið hvað minnið yfirklukkast mikið ef þú vilt, hækka DDR voltage, lækka multiplierinn og hækka FSB þangað til minnið fer að klikka, nota memtest og/eða prime95 til að finna hvar það klikkar\n\n\n\nFletch",
+            "date": "2003-11-02 02:26:00",
+            "post_id": "18494",
+            "reply_to_id": "18484"
+        }
+    ],
+    "date": "2003-11-01 08:59:00"
+}

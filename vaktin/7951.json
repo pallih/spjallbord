@@ -1,0 +1,30 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "7951",
+    "title": "Upplausn í debian og músarvandamál",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=7951",
+    "posts": [
+        {
+            "user_name": "swinger",
+            "text": "1) Er með resolution 800x600 hvernig get ég sett hana hærra í debian, svo virðist sem að ég sé bara með einn valmöguleika samt ætti ég að geta verið með miklu betri upplausn.\n\n\n\nBréf2:\n sry gleymdi einu. Hvernig breytir maður aftur músini hún er alltof skrítin.",
+            "date": "2005-04-08 21:26:00",
+            "post_id": "84450",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Ég tók þetta úr öðrum þræði þar sem að þetta fór alveg off-topic.\n\nSvo vill ég minna á „Breyta“ takkan (sem er efst hægra-meginn í hverju bréfi frá manni sjálfum) í stað þess að senda inn tvö(eða fleiri) bréf í röð). Þeir sem ekki hafa gert það, endilega kíkið á reglurnar",
+            "date": "2005-04-09 19:43:00",
+            "post_id": "84573",
+            "reply_to_id": "84450"
+        },
+        {
+            "user_name": "MonkeyNinja",
+            "text": "Þú þarft að kynna þér hvernig maður notar \"/etc/X11/XF86Config-4\" skránna.\n\nAnnars getur þú líka bara keyrt \"dpkg-reconfigure xserver-xfree86\" til þess að fara í gegnum stillingarnar aftur (ath. ekki breyta XF86Config-4 srkánni manually ef þú ætlar að keyra reconfigure því að það util lætur hana vera ef það sér að einhver hafi manually breytt henni)",
+            "date": "2005-04-15 16:16:00",
+            "post_id": "85243",
+            "reply_to_id": "84573"
+        }
+    ],
+    "date": "2005-04-08 21:26:00"
+}

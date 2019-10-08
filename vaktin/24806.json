@@ -1,0 +1,100 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "24806",
+    "title": "Gleymdi lykilorði í Apple",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=24806",
+    "posts": [
+        {
+            "user_name": "PepsiMaxIsti",
+            "text": "Sælir notendur\nÉg lenti í því að ég gleymdi lykilorðinu mínu á Maccann minn, og ég á ekki heldur diskinn sem að var með vélinni, veit einhver annar um aðra leið til að ná lykilorðinu, nenni helst  ekki að fara með vélina niður í Apple og borga slatta fyrir það. Endilega komið með einhverja tillögur ef að þið vitið um þær.\nKv. PepsiMaxIsti",
+            "date": "2009-09-06 01:09:00",
+            "post_id": "217521",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "sakaxxx",
+            "text": "http://theappleblog.com/2008/06/22/rese ... n-os-x-cd/\nTo reset your OS X password without an OS X CD you need to enter terminal and create a new admin account:\n   1. Reboot\n   2. Hold apple + s down after you hear the chime.\n   3. When you get text prompt enter in these terminal commands to create a brand new admin account (hitting return after each line):\n          * mount -uw /\n          * rm /var/db/.AppleSetupDone\n          * shutdown -h now\n   4. After rebooting you should have a brand new admin account. When you login as the new admin you can simply delete the old one and you’re good to go again!\nkannski virkar þetta",
+            "date": "2009-09-06 01:28:00",
+            "post_id": "217523",
+            "reply_to_id": "217521"
+        },
+        {
+            "user_name": "PepsiMaxIsti",
+            "text": "Er ekki bara verið að eyða usernum, og öllu sem að inná honum er, eða er þetta bara til aðeyða passwordinu???",
+            "date": "2009-09-06 10:00:00",
+            "post_id": "217538",
+            "reply_to_id": "217523"
+        },
+        {
+            "user_name": "lukkuláki",
+            "text": "Hmmmm  gleyndirðu lykilorðinu ?\nEin spurning, geturðu sannað að þú eigir þessa tölvu ?\nÞú fyrirgefur en þetta hljómar eins og þú hafir verið að stela henni, manst ekki lykilorðið og vilt ekki fara til Apple\ntaka þeir virkilega eitthvað fyrir að gera þetta ?",
+            "date": "2009-09-06 10:07:00",
+            "post_id": "217539",
+            "reply_to_id": "217538"
+        },
+        {
+            "user_name": "PepsiMaxIsti",
+            "text": "Hehe, þetta er tölvan hjá systu, og hún er 2 ára gömul, það er hægt að sanna að hún eigi hana, það er ekkert mál. Það er bara letin í mér að nenna ekki að fara í apple, skil vel að þu hugsir svona, myndi gera það sama ef að þetta væri ekki ég sem að væri að spyrja að þessu.",
+            "date": "2009-09-06 10:42:00",
+            "post_id": "217541",
+            "reply_to_id": "217539"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Nákvæmlega það sem ég hugsaði. Maður var nú vanur að tjékka á því hvort að tölvan væri skráð stolin í gagnagrunnum þegar maður fékk svona á borðið hjá sér, kom alveg fyrir að maður sá \"Reported Stolen\".",
+            "date": "2009-09-06 10:48:00",
+            "post_id": "217542",
+            "reply_to_id": "217541"
+        },
+        {
+            "user_name": "Opes",
+            "text": "Ef hún væri stolin, þá væri honum örugglega sama um notandann, og væri búinn að fara leiðina sem sakaxxx sendi inn.\nEn það er lítið sem þú getur gert annað en að reyna að fá disk hjá vin, eða fara með hana í Apple búðina...",
+            "date": "2009-09-06 11:17:00",
+            "post_id": "217548",
+            "reply_to_id": "217542"
+        },
+        {
+            "user_name": "lukkuláki",
+            "text": "Ekki ef hann af einhverjum ástæðum vildi komast í gögn eigandans. Fjárkúgun.",
+            "date": "2009-09-06 11:27:00",
+            "post_id": "217550",
+            "reply_to_id": "217548"
+        },
+        {
+            "user_name": "lukkuláki",
+            "text": "Okay kann því miður ekki að gera þetta í Apple.\nEn einhver hlýtur að geta reddað þér diski af góðmennsku einni saman .... Veit ekki hvort þeir Apple gaurar eru hér er ekki til eitthvað Apple spjall ?",
+            "date": "2009-09-06 11:31:00",
+            "post_id": "217551",
+            "reply_to_id": "217550"
+        },
+        {
+            "user_name": "PepsiMaxIsti",
+            "text": "Jamm, málið er nú bara að ég þekki ekki marga sem að eiga Macca, þannig að þetta er soldið flóknara en það. Ætli ég endi ekki með því að fara niður apple og láta þá ræna mig",
+            "date": "2009-09-06 11:35:00",
+            "post_id": "217552",
+            "reply_to_id": "217551"
+        },
+        {
+            "user_name": "lukkuláki",
+            "text": "http://maclantic.is/spjall/\nhttp://www.hugi.is/mac/",
+            "date": "2009-09-06 11:41:00",
+            "post_id": "217553",
+            "reply_to_id": "217552"
+        },
+        {
+            "user_name": "dorg",
+            "text": "restart your computer, hold down Command-S and type in the following:\n/sbin/fsck -y [Enter]\n/sbin/mount -uaw [Enter]\nrm /var/db/.applesetupdone [Enter]\nreboot [Enter]\nÞað er spurning um hvað þetta heitir en þetta er Case sensitive\nættir að gera ls -al /var/db og sjá hvort er rétt",
+            "date": "2009-09-06 11:42:00",
+            "post_id": "217554",
+            "reply_to_id": "217553"
+        },
+        {
+            "user_name": "PepsiMaxIsti",
+            "text": "Held að þetta eyði bara aðganginum, eða mér allavega skildist það þegar ða ég var að lesa um þetta hérna fyrir ofan.",
+            "date": "2009-09-06 11:44:00",
+            "post_id": "217555",
+            "reply_to_id": "217554"
+        }
+    ],
+    "date": "2009-09-06 01:09:00"
+}

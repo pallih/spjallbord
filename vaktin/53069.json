@@ -1,0 +1,282 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "53069",
+    "title": "Sickbeard Search Provider fyrir Deildu.net",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=53069",
+    "posts": [
+        {
+            "user_name": "trymbill",
+            "text": "Sælir,\nlangaði til að benda áhugasömum á að ég fork-aði SickBeard og bjó til Search Provider scriptu fyrir Deildu.net. Ég er sjálfur mikill aðdáandi Usenet, en þar sem ég á heima á þessari eyju og erlent niðurhal er ekki ókeypis þá ákvað ég að eyða smá tíma í að tengja SickBeard við Deildu.net, bæði mér og ratio-inu mínu til mikillar gleði :-)\nhttps://github.com/trymbill/Sick-Beard\nHef verið að prufukeyra þetta núna í nokkra daga og þetta virðist virka mjög vel. Eina sem ég hef lent í og ekki getað lagað eru einstaka 400 villur frá trackernum hjá Deildu, en það virðist vera algjörlega random hvenær það kemur upp. Ef einhver lendir í því og getur lagað það, endilega forka repo-ið og senda pull request, væri vel þegið.\nEn annars bara, go nuts",
+            "date": "2013-01-28 14:05:00",
+            "post_id": "492300",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Jon1",
+            "text": "nice ! flott framtak",
+            "date": "2013-01-28 14:08:00",
+            "post_id": "492302",
+            "reply_to_id": "492300"
+        },
+        {
+            "user_name": "steinarorri",
+            "text": "Hef aldrei notað Sickbeard áður, hvernig setur maður þessa scriptu inn í það?\nGetur einhver frætt fávita eins og mig?",
+            "date": "2013-01-28 18:42:00",
+            "post_id": "492372",
+            "reply_to_id": "492302"
+        },
+        {
+            "user_name": "trymbill",
+            "text": "https://github.com/trymbill/Sick-Beard\n er það eina sem þú þarft, ásamt grunnþekkingu á git og python \n Getur séð installation leiðbeiningar neðst á þessari síðu líka. Þær eru þó bara til viðmiðunar, þannig að passaðu þig að gera ekki $rm -fr /*",
+            "date": "2013-01-28 20:25:00",
+            "post_id": "492391",
+            "reply_to_id": "492372"
+        },
+        {
+            "user_name": "magnusgu87",
+            "text": "Þetta er snilldar framtak. En ég hef ekki grunnþekkingu á git né python og er því ekki alveg klár hvernig ég installa providernum. Ekki væriru til í að snara inn einfaldari uppsetningu á íslensku í örfáum skrefum?",
+            "date": "2013-01-28 22:36:00",
+            "post_id": "492430",
+            "reply_to_id": "492391"
+        },
+        {
+            "user_name": "Opes",
+            "text": "Ég fæ \"unregistered torrent pass\" í error í torrent clientinum mínum (Transmission).\nHún virðist ekki fá rétt pass, (\nhttp://deildu.net:2710/**************** ... */announce\n).\nVeistu hvað gæti verið að valda því?\nAnnars, geðveikt framtak, kudos!",
+            "date": "2013-01-28 23:31:00",
+            "post_id": "492454",
+            "reply_to_id": "492430"
+        },
+        {
+            "user_name": "trymbill",
+            "text": "Ég býst við að þú sért með rétt username og password stillt undir \"Search Providers\" -> \"Configure Built-In Providers\" -> \"Configure Provider:\" -> Deildu, ekki satt? Ef það er rétt stillt, þá ætti allt að virka eðlilega.\nÉg man samt eftir því í development ferlinu á þessu að ég lenti í þessari villu á tímabili, en það var bara afþví að ég gleymdi að láta cookies fylgja með þegar SickBeard átti að sækja .torrent skránna. Það var lagað og ég hef ekki séð þessa villu eftir það hjá mér persónulega.\nÉg skal reyna að reproduce-a villuna hjá mér, og ef ég næ því, laga hana. Getur fylgst með þessum bug hérna: \nhttps://github.com/trymbill/Sick-Beard/issues/1\n \n- Maggi",
+            "date": "2013-01-29 21:25:00",
+            "post_id": "492702",
+            "reply_to_id": "492454"
+        },
+        {
+            "user_name": "trymbill",
+            "text": "Skal sjá hvort ég komist ekki í það við tækifæri \n Annars gæti einhver annar hérna einfaldlega tekið það að sér, býst við að það sé allt morandi í sérfræðingum á þessu sviði hérna.",
+            "date": "2013-01-29 21:29:00",
+            "post_id": "492704",
+            "reply_to_id": "492702"
+        },
+        {
+            "user_name": "Opes",
+            "text": "Jess, rétt lykilorð og notendanafn. Skoðaði cookie-ið, þar er rétt uid og pass summa. Frekar skrítið. Ég er orðinn mega spenntur fyrir því að koma svona upp á rpi  \n .",
+            "date": "2013-01-29 23:22:00",
+            "post_id": "492743",
+            "reply_to_id": "492704"
+        },
+        {
+            "user_name": "trymbill",
+            "text": "Hmm. Ég býst við að Deildu búi til pass summuna byggt á salti, lykilorðinu og IP addressunni, og referenci svo IP addressuna þegar hann authenticate-ar við trackerinn. Ég er að spá hvort þú sért að keyra SickBeard á vél sem hefur aldrei verið logguð inn á Deildu.net úr vafra - gæti það verið? Er ekki alveg að átta mig á því hvað annað gæti verið mismunandi við mína uppsetningu og þína :-/\nOg hvað er RPI, ef ég má spyrja?",
+            "date": "2013-01-29 23:37:00",
+            "post_id": "492747",
+            "reply_to_id": "492743"
+        },
+        {
+            "user_name": "Opes",
+            "text": "Jább. Ég er tómur. Ég kann einhverja forritun, en ekkert í Python \n. Ef það er eitthvað sem þér dettur í hug að prófa, endilega láttu mig vita.\nEr einhver annar að lenda í veseni?\nrpi = Raspberry Pi \n.",
+            "date": "2013-01-29 23:56:00",
+            "post_id": "492753",
+            "reply_to_id": "492747"
+        },
+        {
+            "user_name": "trymbill",
+            "text": "Döh, auðvitað =)",
+            "date": "2013-01-30 09:52:00",
+            "post_id": "492792",
+            "reply_to_id": "492753"
+        },
+        {
+            "user_name": "trymbill",
+            "text": "Fyrir áhugasama þá henti ég líka í Search Provider add-on fyrir CouchPotato: \nhttps://github.com/trymbill/deildu-couch\nMeð ólíkindum hvað það er mikill stigsmunur á forritunarhæfileikum þarna. SickBeard virðist vera algjört skítamix, á meðan CouchPotato er vel smurð vél. Ekkert smá auðvelt að innleiða Deildu.net þar, en djöfulsins basl með SickBeard.\nHef ekki athugað hvort sjálfvirka git uppfærslan sem CouchPotato er með í gangi eyðileggi þessa pælingu, þ.e. að git clone-a inní annað repo, en við sjáum bara til. Er líka að bíða eftir grænu ljósi frá eigandanum um að pull-a þetta inní masterinn hjá sér, þá verður Deildu.net bara default með í CouchPotato.",
+            "date": "2013-01-30 09:55:00",
+            "post_id": "492793",
+            "reply_to_id": "492792"
+        },
+        {
+            "user_name": "Opes",
+            "text": "Þetta hefur eitthvað að gera með það að ég var að nota Transmission fítusinn. Eftir að ég stillti blackhole, þá virkar þetta eðlilega. Snilld! Takk fyrir þetta meistari.",
+            "date": "2013-01-31 01:41:00",
+            "post_id": "492962",
+            "reply_to_id": "492793"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Flott framtak, á eflaust eftir að prófa þetta við tækifæri!",
+            "date": "2013-01-31 07:39:00",
+            "post_id": "492965",
+            "reply_to_id": "492962"
+        },
+        {
+            "user_name": "trymbill",
+            "text": "Ahh! Alveg rétt, ég lenti einmitt í veseni þegar ég reyndi að senda torrentið beint til Deluge, torrent clientinn sem ég nota. Ætti að bæta þessum upplýsingum við í readme. Takk fyrir upplýsingarnar",
+            "date": "2013-01-31 09:11:00",
+            "post_id": "492972",
+            "reply_to_id": "492965"
+        },
+        {
+            "user_name": "magnusgu87",
+            "text": "Mér þætti ennþá rosalega vænt um að fá einfaldar upplýsingar hvernig ég smelli þessu inní SB/CP, er búinn að reyna leita mér hjálpar með aðstoð google en það hefur gagnast mér lítið þar sem ég hef enga þekkingu í python né github",
+            "date": "2013-02-07 22:18:00",
+            "post_id": "494234",
+            "reply_to_id": "492972"
+        },
+        {
+            "user_name": "trymbill",
+            "text": "Ertu með SB og CP uppsett nú þegar og vilt bara bæta providernum við? Ef svo er;\nUPPSETNING Á DEILDU.NET COUCH POTATO SEARCH PROVIDER\n1. Náðu í \nhttps://github.com/trymbill/deildu-couc ... master.zip\n2. Opnaðu möppuna couchpotato -> core -> providers -> torrent undir CouchPotato möppunni á tölvunni / þjóninum þínum\n3. Búðu til nýja möppu, kallaðu hana deildu\n4. Extract-aðu master.zip inní deildu\n5. Opnaðu CouchPotato í vafranum þínum, veldu skrunhjólið og smelltu á \"Restart\" til að endurræða CouchPotato\nEftir þetta ættiru að sjá Deildu.net sem Search Provider í CouchPotato.\n- - -\nUppsetningin á Sick Beard er töluvert meiri hausverkur ef þú hefur ekki unnið mikið í python eða á linux yfir höfuð. En hérna eru leiðbeiningarnar engu að síður, á ensku: \nhttps://github.com/trymbill/Sick-Beard# ... sick-beard\nÉg held ég geti ekki hjálpað þér mikið meira en þetta",
+            "date": "2013-02-07 22:44:00",
+            "post_id": "494243",
+            "reply_to_id": "494234"
+        },
+        {
+            "user_name": "magnusgu87",
+            "text": ". Opnaðu möppuna couchpotato -> core -> providers -> torrent undir CouchPotato möppunni á tölvunni / þjóninum þínum\nFinn þetta ekki, finn bara cache, logs og svo einhverjar .cfg skrár. búinn að tékk bæði undir Program Files og ProgramFiles(x86) og líka undir users/appdata/roaming etc etc",
+            "date": "2013-02-07 23:45:00",
+            "post_id": "494249",
+            "reply_to_id": "494243"
+        },
+        {
+            "user_name": "Oak",
+            "text": "C:\\Program Files (x86)\\CouchPotato\\appdata\\CouchPotato-2.0.6.1.win32\\couchpotato\\core\\providers\\torrent",
+            "date": "2013-02-08 00:23:00",
+            "post_id": "494255",
+            "reply_to_id": "494249"
+        },
+        {
+            "user_name": "Oak",
+            "text": "ég er samt ekki að fá þetta til að sækja neitt hjá mér...",
+            "date": "2013-02-08 00:26:00",
+            "post_id": "494257",
+            "reply_to_id": "494255"
+        },
+        {
+            "user_name": "trymbill",
+            "text": "Kemur Deildu.net upp hjá þér?\nTjékkaðu logs hjá þér inní CP, e-rjar villur þar?",
+            "date": "2013-02-08 07:33:00",
+            "post_id": "494273",
+            "reply_to_id": "494257"
+        },
+        {
+            "user_name": "Oak",
+            "text": "þarf skráin ekki að heita eitthvað með 720p eða 1080p svo að cp finni það?",
+            "date": "2013-02-08 23:15:00",
+            "post_id": "494398",
+            "reply_to_id": "494273"
+        },
+        {
+            "user_name": "trymbill",
+            "text": "Það auðveldar töluvert leitinni, jú. En CouchPotato virðist líka athuga stærðir skráa, og metur það eftir því hversu stór skráin er, hvaða gæði hún gæti verið í. En Deildu.net hefur reynst ágætlega í að viðhalda naming conventions eins og þessum, að vera með 720p eða 1080p eða BRRIP eða DVDRIP í titlinum, sem CouchPotato þá notar.",
+            "date": "2013-02-11 14:19:00",
+            "post_id": "494765",
+            "reply_to_id": "494398"
+        },
+        {
+            "user_name": "Ópal",
+            "text": "Heyrðu ég er búinn að vera að vikta við þetta SickBear og hefur gengið vel en ekki neitt til að vera á deildu. En þetta sýnist mér vera geggjað en hvert skipti sem ég reyni að ná í einhverja skrá þá kemur bara \"finding peers\" og byrjar ekkert að niðurhalast, er einhver annar með þessi vandamál?",
+            "date": "2013-04-01 23:45:00",
+            "post_id": "503343",
+            "reply_to_id": "494765"
+        },
+        {
+            "user_name": "scucca",
+            "text": "Sæll,\nFyrst og fremst þakka ég fyrir þetta framtak. \nEg er að keyra sickbeard af Win2k8R2 vél, og skráarstrúktúrinn virðist vera heldur frábrugðinn þeim sem myndast á Linux uppsetningu. \nTil að byrja með lét ég reyna á að setja allar skrár frá þér í \\lib\\sickbeard.zip, þar sem .py skrárnar eru flestar geymdar, en það virðist ekki duga. \nHefurðu hugmynd um hvernig ég get komið þessu í gang hérna? Eða er þetta add-on yfirhöfuð í boði á Windows?",
+            "date": "2013-04-05 18:14:00",
+            "post_id": "504064",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "starionturbo",
+            "text": "Snilldar framtak, mun klárlega nýta mér þetta.\n400 villan sýnist mér vera eitthvað blöff, þetta er í raun og veru 500 server timeout, sem útskýrir þetta randomness.",
+            "date": "2013-04-16 10:30:00",
+            "post_id": "505755",
+            "reply_to_id": "504064"
+        },
+        {
+            "user_name": "berteh",
+            "text": "Er einhver að nota þetta ennþá ? Ég var að setja þetta upp og það gekk allt snuðrulaust fyrir sig en ég sé ekki deildu undir providers, er ég að miskilja eitthvað ?",
+            "date": "2013-07-17 16:05:00",
+            "post_id": "520402",
+            "reply_to_id": "505755"
+        },
+        {
+            "user_name": "fedora1",
+            "text": "Ég er amk. að nota þetta. Virkar ágætlega.\nFór settings, search settings og virkjaði torrents í torrent flipanum og svo configa Deildu í search providers",
+            "date": "2013-07-17 16:50:00",
+            "post_id": "520407",
+            "reply_to_id": "520402"
+        },
+        {
+            "user_name": "berteh",
+            "text": "Þú hittir naglann á höfuðið! takk fyrir þetta, var búinn að renna í gegn um þetta en hef gleymt að velja save",
+            "date": "2013-07-17 17:03:00",
+            "post_id": "520409",
+            "reply_to_id": "520407"
+        },
+        {
+            "user_name": "Opes",
+            "text": "Hmmm. Ég var að setja þetta upp hjá mér í Mac Server heima. Hún virðist ekki finna neina þætti. Kemur alltaf bara \"No downloads were found\nCouldn't find a download for Breaking Bad - 5x16 - Felina\" t.d. Einhver annar að lenda í þessu?",
+            "date": "2013-09-30 19:42:00",
+            "post_id": "531106",
+            "reply_to_id": "520409"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Ég kann ekkert á forritunarmál en væri til í að finna út hvernig ég get sett upp deildu aðgang á SickBeard.\nEr þetta alger höfuðverkur ?",
+            "date": "2013-12-18 22:04:00",
+            "post_id": "543007",
+            "reply_to_id": "531106"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Ég prófaði að setja þetta upp á XP vél og það gekk svona glimrandi vel með CouchPotato en ég er í mesta basli við Sickbeard.\nÉg fann þessar fínu leiðbeiningar (reyndar fyrir TPB en virkaði líka fyrir Deildu forkið hans trymbils)\nhttp://sickbeard.com/forums/viewtopic.php?f=9&t=6605\nÉg fylgdi þeim eftir og allt var komið í mjög góð mál þangað til ég reyndi að finna þætti með þessari uppsetningu. SB virðist ekki getað fundið neina þætti alveg sama hvað ég leita að. Veit einhver hvað gæti verið vandamálið?",
+            "date": "2014-01-13 23:38:00",
+            "post_id": "546908",
+            "reply_to_id": "543007"
+        },
+        {
+            "user_name": "villisnilli",
+            "text": "já ég er að lenda í því sama næ að starta þessu og sé deildu og læt user name og pass en þetta segist ekki finna neina þætti á deilu, em ég smelli yfir á piratebay þá finnur sickbeardinn strax þætti.",
+            "date": "2014-02-17 15:59:00",
+            "post_id": "552187",
+            "reply_to_id": "546908"
+        },
+        {
+            "user_name": "trymbill",
+            "text": "Ég er því miður fluttur af landi brott og hef þ.a.l. enga sláandi þörf til að halda þessu við. Það mætti einhver fork-a repo-ið mitt og laga þetta, kæmi mér ekki á óvart að html-ið hafi breyst á þessum 7 mánuðum, líklega auðvelt fix.",
+            "date": "2014-02-25 19:32:00",
+            "post_id": "553251",
+            "reply_to_id": "552187"
+        },
+        {
+            "user_name": "kthordarson",
+            "text": "ég er með eitthvað skítamix í gangi hérna:\nhttps://github.com/kthordarson/Sick-Beard-deildu",
+            "date": "2014-02-25 21:16:00",
+            "post_id": "553268",
+            "reply_to_id": "553251"
+        },
+        {
+            "user_name": "trymbill",
+            "text": "Ég var að enda við að laga CouchPotato providerinn og ætlaði að skoða SickBeard í leiðinni. Það rifjaðist hinsvegar upp fyrir mér hversu hræðilegur kóðabasinn (nýyrði) er og hversu ómögulegt það er að viðhalda 3rd party providerum í honum. Ég ætla því að halda mig fjarri, í það minnsta þangað til ég flyt heim",
+            "date": "2014-03-31 23:47:00",
+            "post_id": "557770",
+            "reply_to_id": "553268"
+        },
+        {
+            "user_name": "Zedith",
+            "text": "Sælir, einhver fengið Couchpotato-deildu til að virka í windows umhverfi?\nÉg fæ allavega ekkert upp í torrent providers.\nSé að skrárnar í \"couchpotato\\core\\media\\movie\\providers\\torrent\" eru á forminu awesomehd.py og svo awesomehd.pyc\nÍ zip skránni er bara main.py og _init_.py.\n/Zedith",
+            "date": "2014-08-11 23:20:00",
+            "post_id": "569754",
+            "reply_to_id": "557770"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Sælir.\nVar að prófa að henda aftur upp Couchpotato en það virðist ekki virka með icetracker lengur.\nReyndi að prófa mig áfram en kann ekkert í python og það gekk ekki, fæ bara villu:\nKóði: \nVelja allt\nERROR[core.media._base.searcher] There aren't any providers enabled for your downloader (torrent,torrent_magnet). Check your settings.\nÉg prófaði að copera IPTorrent providerinn og breyta öllum linkum (mad python skills) í icetracker.org eða undirsíður eftir því sem á við en þetta virðist ekki virka eins og er.\nUndarlegt samt því að þessi villa bendir til þess að þetta sé ekki eitthvað að provider heldur að downloader en ég er að nota blackhole aðferðina",
+            "date": "2015-05-09 19:50:00",
+            "post_id": "598271",
+            "reply_to_id": "569754"
+        }
+    ],
+    "date": "2013-04-05 18:14:00"
+}

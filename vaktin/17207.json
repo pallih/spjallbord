@@ -1,0 +1,114 @@
+{
+    "forum_title": "Símar, fartölvur, myndavélar og önnur farandstæki",
+    "id": "17207",
+    "title": "Vandræði með uppsetningu Windows XP á HP fartölvu.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=26&t=17207",
+    "posts": [
+        {
+            "user_name": "GuðjónR",
+            "text": "Úff...eflaust margir lent í þessu, ætlaði að henda þessu böggaða VISTA sem fylgir HP lappanum og setja XP í staðin.\n\nEn þegar setup diskurinn er búinn að loda sig þá koma eftirfarandi error message:\n\n\n\n\"Setup did not find any hard disks drives installed in your computer.\nMake sure any hard disk drives are powered on and properly connected to your computer, and that any disk-related ahrdware configuration is correct. This may involve running a manufactured-supplied diagnostic or setup programme.\nSetup cannot contiue. To quit setup, press F3\"\n\n\n\n\nÉg prófaði að googla þetta og það var talað um að það vantaði SATA driver (3rd. party).\n\n\n\nÞið sem hafið lent í þessu hvernig hafið þið leyst þetta?\n\nÉg unistalleraði yfir 20 free/shareware forritum sem \"fylgja\" með tölvunni...enda var hún 10-15 min að boota sig.\n\nÓtrúlega ílla uppsett frá framleiðanda.",
+            "date": "2008-02-23 22:29:00",
+            "post_id": "167821",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Getur prófað að slipstreama sp2 á xp disk. Þá færðu almenna sata drivera í uppsetningunni.",
+            "date": "2008-02-23 23:12:00",
+            "post_id": "167823",
+            "reply_to_id": "167821"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Þetta er xp SP2 diskur...og hvað áttu við með að slipstrema sp2 á xp ?",
+            "date": "2008-02-23 23:20:00",
+            "post_id": "167825",
+            "reply_to_id": "167823"
+        },
+        {
+            "user_name": "Dazy crazy",
+            "text": "það stendur í uppsetningunni niðri á stigi þar sem það er að loadast \"If you need to install any third party sections (eða eitthvað) press XXX.",
+            "date": "2008-02-23 23:37:00",
+            "post_id": "167828",
+            "reply_to_id": "167825"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Nr 1. finndu SATA driver fyrir tölvuna þína og settu hann á floppy eða skrifaðu hann á disk.\n\n\n\nNr 2. Ýttu á F6 fremst í XP setup-inu (þegar að það stendur neðst \"press F6 to install 3rd party SATA/RAID drivers) og fylgdu leiðbeiningunum sem að koma (leyfa setup-inu að loada SATA drivernum) þú átt held ég að geta tekið XP diskinn úr og sett diskinn með drivernum í á meðan ef að þú ert ekki með floppy drif á lappanum\n\n\n\nNr 3. Gleðjast þegar að þú sérð að setup-ið finnur harða diskinn þinn og halda áfram að setja upp XP \n\n\n\n\nEDIT: Giskaði vitlaust þegar að ég mundi ekki hvort það var F3 eða F6...",
+            "date": "2008-02-24 01:16:00",
+            "post_id": "167865",
+            "reply_to_id": "167828"
+        },
+        {
+            "user_name": "TechHead",
+            "text": "Smá leiðrétting =)\n\n\n\nÞað er F6 ekki F3 og þú verður að notast við USB floppy drif til að setja upp\n\nsata driverana.",
+            "date": "2008-02-24 09:03:00",
+            "post_id": "167876",
+            "reply_to_id": "167865"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Geggjað...ég á USB-Floppy...\n\nNúna verð ég að finna SATA driverinn..",
+            "date": "2008-02-24 10:47:00",
+            "post_id": "167879",
+            "reply_to_id": "167876"
+        },
+        {
+            "user_name": "TechHead",
+            "text": "Ef það er Intel chipset í vélinni með Core 2 duo örgjörva þá er það þessi:\n\n\n\nhttp://downloadcenter.intel.com/Detail_Desc.aspx?agr=Y&ProductID=2800&DwnldID=14849&strOSs=44&OSFullName=Windows*%20XP%20Professional&lang=eng",
+            "date": "2008-02-24 12:50:00",
+            "post_id": "167887",
+            "reply_to_id": "167879"
+        },
+        {
+            "user_name": "lukkuláki",
+            "text": "Það er best að vera með sata driverinn og keyra hann inn í setup á XP ýta á F6 í uppsetningu en í flestum BIOS sem ég hef séð þá áttu að geta disablað í AHCI (eða ACHI man það aldrei) og sett á ATA í staðinn ef þú átt ekki séns á að finna sata driverinn og ekkert gengur.",
+            "date": "2008-02-25 13:57:00",
+            "post_id": "168058",
+            "reply_to_id": "167887"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Takk fyrir þetta allt saman...\n\nÞað er Intel kubbasett...og ég sótti þennan driver...\n\n\n\nHann virkaði upp að vissu marki...þ.e. ég náði að deleta partition...og búa til tvö ný partition eins og ég vil hafa þau.\n\nEn...þegar sjálft installið byrjaði þá bað setupið aftur um að setja disk (Intel Matrix Storage Manager Driver) á A: (usb-floppy) en drifið var ennþá tengt og diskurinn í.\n\nEinhverra hluta vegna þá fann tölvan ekki A: drifið á þessum tímapunkti.\n\nBIOSInn er sá fátæklegasti sem ég hef séð. Maður getur engu breytt nema BOOT röðuninni á cd-hdd-floppy...ekki nema að það sé eitthvað advance bios til (alt-eitthvað).\n\n\n\nEndaði með að henda Vista Ultimate 32bit upp...án vandræða...\n\nHugsa að ég haldi því bara...enda virðist \nsupportið\n hjá HP vera 100x betra fyrir vista en fyrir XP.\n\n\n\n\n\nTakk samt fyrir aðstoðina.",
+            "date": "2008-02-25 17:11:00",
+            "post_id": "168104",
+            "reply_to_id": "168058"
+        },
+        {
+            "user_name": "Dári",
+            "text": "Fásér alvöru laptop næst.",
+            "date": "2008-02-25 17:45:00",
+            "post_id": "168114",
+            "reply_to_id": "168104"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Ojjjj",
+            "date": "2008-02-25 17:59:00",
+            "post_id": "168116",
+            "reply_to_id": "168114"
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Þú gætir sett driverana á XP diskinn (getur t.d. notað \nnlite\n til þess). Þá þarftu ekki að nota floppy.",
+            "date": "2008-02-25 18:04:00",
+            "post_id": "168118",
+            "reply_to_id": "168116"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "...Alltaf er maður að læra eitthvað nýtt...",
+            "date": "2008-02-25 18:48:00",
+            "post_id": "168131",
+            "reply_to_id": "168118"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Frábærar step-to-step leiðbeiningar \nhér",
+            "date": "2008-02-25 20:52:00",
+            "post_id": "168154",
+            "reply_to_id": "168131"
+        }
+    ],
+    "date": "2008-02-23 22:29:00"
+}

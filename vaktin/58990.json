@@ -1,0 +1,44 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "58990",
+    "title": "Dev server fyrir Web dev fyrirtæki",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=58990",
+    "posts": [
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Pæling, ef þið væruð að fara setja upp dev server fyrir Web dev fyrirtæki (LAMP server) hvernig mynduð þið setja upp Dev þjóninn.\nEr að pæla hvort maður eigi að setja upp Ubuntu server og stilla þjónninn á þann máta að skilgreina hvert svæði sem sub domain vs að setja svæði á www (root folder) folderinn og búa til sub folder fyrir hvern notanda/svæði og gefa ftp permission á hvern user (basicly ef dev ætlar að fara að búa til nýja síðu fyrir fyrirtæki sem er með heimasíðu nú þegar og vill hugsanlega nýta eldri kóða af síðu og prófa lausnina án þess að vera í live umhverfi).\nEða einfaldlega að setja upp Xampp eða Wamp (hef ekki kynnt mér þær lausnir næginlega vel) Og fara þá leið.\nEinfalt og þæginlegt er betri kostur og hafa það í huga að fleiri en einn notandi þurfa að geta nýtt sér þennan kost.\nHvaða leið myndir þú fara ?",
+            "date": "2014-01-03 23:31:00",
+            "post_id": "545292",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gardar",
+            "text": "Myndi setja upp vhosts fyrir vefina.",
+            "date": "2014-01-03 23:50:00",
+            "post_id": "545295",
+            "reply_to_id": "545292"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "@gardar ef þú hefur 6 min\nEr þetta video legit \nhttp://www.youtube.com/watch?v=2vA2Yzv-NoI\n    uppá að configga vhost ?",
+            "date": "2014-01-04 00:00:00",
+            "post_id": "545297",
+            "reply_to_id": "545295"
+        },
+        {
+            "user_name": "gardar",
+            "text": "í fljótu bragði sýnist mér það já.\nAnnars er spurning hvort þú ættir að einfalda þér hlutina með því að setja upp t.d. webmin, ispCp, isp-config.",
+            "date": "2014-01-04 01:24:00",
+            "post_id": "545319",
+            "reply_to_id": "545297"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Virðist virka fínt.Þetta leysir málið.\nThank you sir\nEdit: viðurkenni að ég er með meiri bakgrunn í MS server heiminum og þarf að kynna mér betur webmin, ispCp, isp-config , en gott að vita af þessum möguleikum (gæti hugsanlega sett mig inní þessa hluti  og nýtt einhverja af þessum lausnum).",
+            "date": "2014-01-04 13:24:00",
+            "post_id": "545355",
+            "reply_to_id": "545319"
+        }
+    ],
+    "date": "2014-01-03 23:31:00"
+}

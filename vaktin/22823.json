@@ -1,0 +1,72 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "22823",
+    "title": "Vesen með nýtt móðurborð + Minni",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=22823",
+    "posts": [
+        {
+            "user_name": "cure_",
+            "text": "hæ \n ég keypti mér nýtt móðurborð um daginn af tegundinni MSI K9A2 Neo-f og ég keypti einnig minni, notaði gamla Örgjörva sem er \nAMD AM2 64 X2 5200+ 2.6GHz 65nm 2x1MB  og skjákortið sem er nvidia Geforce 7600 gt, og málið er það að ég setti örgjörfann í og tengdi allt saman en svo er tölvan allveg rosalega lengí í gegnum öll windows setup, reyndi að setja inn Windows 7 64 bit, \nen þá kom alltaf eithvað error allveg í endann á settupinu ef tölvan restartaði sér ekki (í miðri uppestningu) sem hún gerir rosa oft, prufaði svo að setja upp xp... það gekk en laggaði allveg rosa mikið, ég er búinn að load optimized defaults í bios og er eignlega allt búinn að reyna, svo fór ég með bóðurborð + minni í verslunina og þeir skoðuðu þessa 2 hluti og fundu ekkert að þeim, veit einhver hvað getur verið að ??? takk fyrir \nhérna er linkar á hlutina \nhttp://www.tolvulistinn.is/vara/17265\nhttp://www.att.is/product_info.php?cPat ... ts_id=4434\nhttp://www.afterdawn.com/hardware/produ ... k9a2_neo-f\nhttp://www.nvidia.com/page/geforce_7600.html",
+            "date": "2009-04-26 01:48:00",
+            "post_id": "204849",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "cure_",
+            "text": "okey mér tókst að setja inn Xp 32 bit og það er að keyra ágætlega en ekki mjög vel.. ég finn það allveg að ég er ekki að fá út úr þessum minnum það sem ég á að fá en hérna eru 2 Screen af burning test forriti og cpu-z \nhttp://img99.imageshack.us/img99/1572/30240931.png\nhttp://img522.imageshack.us/img522/9585/annad.png\neru minnin ekki að keyra á 400 mhz ? gæti það kanski verið vandamálið ? en þetta eru 1066 Mhz minni \nog ef svo er vitiði hvaða stillingar í BIOS ég þarf að breyta ??",
+            "date": "2009-04-26 14:59:00",
+            "post_id": "204880",
+            "reply_to_id": "204849"
+        },
+        {
+            "user_name": "Rubix",
+            "text": "Búinn að installa öllum driver-um, og þeim nýlegustu þá?\nOg ertu buinn að checka hvort það sé update fyrir biosinn?",
+            "date": "2009-04-26 16:42:00",
+            "post_id": "204897",
+            "reply_to_id": "204880"
+        },
+        {
+            "user_name": "cure_",
+            "text": "jamm er búinn að flasha BIOS með nýjustu útgáfu.. og þetta er allveg nákvæmlega eins",
+            "date": "2009-04-26 17:14:00",
+            "post_id": "204899",
+            "reply_to_id": "204897"
+        },
+        {
+            "user_name": "Rubix",
+            "text": "Hmm. Mjög skrítið, hvað er aflgjafinn stór?, og er allt rétt tengt?",
+            "date": "2009-04-26 17:26:00",
+            "post_id": "204900",
+            "reply_to_id": "204899"
+        },
+        {
+            "user_name": "cure_",
+            "text": "aflgjafinn er 410W gæti verið að hann sé of lítill ? já það er allt rétt tengt",
+            "date": "2009-04-26 17:34:00",
+            "post_id": "204901",
+            "reply_to_id": "204900"
+        },
+        {
+            "user_name": "Rubix",
+            "text": "Hann ætti alveg að duga, spurning hvort hann sé að senda frá sér rétta strauma hinsvegar.\nGæti líka verið að harðidiskurinn þinn sé að deyja, og þessvegna vinnur stýrikerfið hægt?\nAthugaðu hvort aflgjafinn sé að senda rétta strauma, ef svo er, Mæli ég með að finna e-h diagnostics forrit á netinu til að reyna finna út hvað gæti verið að og scanna tölvunna.",
+            "date": "2009-04-26 18:14:00",
+            "post_id": "204904",
+            "reply_to_id": "204901"
+        },
+        {
+            "user_name": "cure_",
+            "text": "http://img228.imageshack.us/img228/4998/dadada.png\n \ntakk kærlega fyrir hjálpina...\nfór svo í BIOS og fékk þessar tölur.. Cpu Vcore: 1,368v , 3,3 VCC: 3,440v , 5V: 5,244v , 12V: 12,144v , 5V SB: 5244v :/",
+            "date": "2009-04-26 20:18:00",
+            "post_id": "204922",
+            "reply_to_id": "204904"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Minnið þitt er að keyra á 742mhz.",
+            "date": "2009-05-05 21:24:00",
+            "post_id": "205970",
+            "reply_to_id": "204922"
+        }
+    ],
+    "date": "2009-04-26 01:48:00"
+}

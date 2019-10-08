@@ -1,0 +1,93 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "53625",
+    "title": "Vesen með nýtt skjákort. [Nýjar uppl.]",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=53625",
+    "posts": [
+        {
+            "user_name": "addi32",
+            "text": "NÝtt: Uppfærði bios í 1.8 sem er það nýjasta og ekkert virkaði. Fór með kortið að lokum í tölvutek og þeir settu það í Intal Setup og allt virkaði fínt. \nSamkv. google þá notaði gamla kortið u.þ.b 100w en nýja 45w svo aflgjafinn ætti ekki að vera málið. Er einhver stilling í BIOS sem ég get skoðað út af uppfærslu úr nvidea í ati radeon skjákort? \nEr alveg að verða bilaður á þessu, milljón stig fyrir einhverjar hugmyndir.\nVar með gamalt GeForce 8800 GTS skjákort í vélinni minn sem gaf upp öndina fyrir nokkrum dögum. Fór áðan og keypti mér Gigabyte HD7750OC skjákort.\nSetti kortið í og tengdi allt. Kveikti á vélinni, allar viftur í gang (skjákortinu líka) en ekkert kom á skjáinn (ekki bios).\nSamkvæmt skjákort debug kóðanum (97) er þetta \"Console Output devices connect\". Svo vélin er ekki að finna nýja kortið mitt.\nÞað sem mig grunaði að aflgjafinn væri ekki að höndla þetta. Tók alla HHD úr sambandi en ekkert gekk. Samkvæmt google þá ætti gamla kortið mitt að nota meira afl en það nýja.\nEr með \nAsRock 870 Extreem 3\nBulldozer fx 4100 \n8gb minni\n1x ssd\n2x hhd (sem ég tók úr sambandi á meðan).\n450W aflgjafi.\nEr kortið mitt ekki bara gallað frekar en aflgjafinn? Öll hjálp vel þegin!\nAndrés",
+            "date": "2013-02-26 21:29:00",
+            "post_id": "497513",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "mercury",
+            "text": "fáðu að prufa það í annari vél.",
+            "date": "2013-02-26 21:39:00",
+            "post_id": "497514",
+            "reply_to_id": "497513"
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "Ertu búinn að uppfæra bios-inn á móðurborðinu ?",
+            "date": "2013-02-26 21:52:00",
+            "post_id": "497516",
+            "reply_to_id": "497514"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Man ekki nákvæmlega hvernig þessi kort eru, en er nokkuð 6pin power tengi á kortinu sem þú ert að gleyma að tengja?",
+            "date": "2013-02-26 22:00:00",
+            "post_id": "497517",
+            "reply_to_id": "497516"
+        },
+        {
+            "user_name": "addi32",
+            "text": "Nei, þau BIOS update á vefsíðunni þeirra eru frá 2011 og ég keypti þetta nýtt fyrir ári kannski. Eina sem ég prufaði var að fjarlægja batterí-ið og setja það aftur í.\nEr ekkert 6-pin tengi á þessu korti.",
+            "date": "2013-02-26 22:11:00",
+            "post_id": "497519",
+            "reply_to_id": "497517"
+        },
+        {
+            "user_name": "mercury",
+            "text": "skiptir ekki hvenær þú keyptir það myndi athuga hvaða bios þú ert með því líklega er nýrri bios til.",
+            "date": "2013-02-26 22:14:00",
+            "post_id": "497521",
+            "reply_to_id": "497519"
+        },
+        {
+            "user_name": "addi32",
+            "text": "Ok, takk fyrir ábendinguna. Prufa að uppfæra hann á morgun.",
+            "date": "2013-02-26 22:22:00",
+            "post_id": "497523",
+            "reply_to_id": "497521"
+        },
+        {
+            "user_name": "addi32",
+            "text": "Búinn að prufa að uppfæra BIOS, ekkert gekk. Sjá info efst.\nAllar hugmyndir vel þegnar!! er að verða bilaður.",
+            "date": "2013-03-01 20:14:00",
+            "post_id": "497981",
+            "reply_to_id": "497523"
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "Þá er bara að prufa annan aflgjafa ! hvað er þessi psu gamall ?",
+            "date": "2013-03-01 20:23:00",
+            "post_id": "497983",
+            "reply_to_id": "497981"
+        },
+        {
+            "user_name": "addi32",
+            "text": "Gæti verið kringum 4 ára. 450w könig.\nEr bara með 1ssd disk, 2 minni, skjákortið og örgjörvann á þessum aflgjafa. Búinn að taka allar viftur og auka diska úr sambandi.",
+            "date": "2013-03-01 21:22:00",
+            "post_id": "497999",
+            "reply_to_id": "497983"
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "Það lýst mér ekki á bæði búinn að missa kraft og König  \n \nReyndu að prufa annan eða fjárfesta í betri græju !",
+            "date": "2013-03-01 22:57:00",
+            "post_id": "498011",
+            "reply_to_id": "497999"
+        },
+        {
+            "user_name": "Maniax",
+            "text": "Getur prufað ef þú kemst inní bios á öðru korti að fikta í \"Pci lane speed\" Auto í Gen 1, Gen 2, Gen3, eða stilla á PCI Rom í legacy. hef séð 7970 og 7850 kort með sama vandamál",
+            "date": "2013-03-02 00:33:00",
+            "post_id": "498034",
+            "reply_to_id": "498011"
+        }
+    ],
+    "date": "2013-02-26 21:29:00"
+}

@@ -1,0 +1,30 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "11828",
+    "title": "Vandamál með að formatta disk",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=11828",
+    "posts": [
+        {
+            "user_name": "@Arinn@",
+            "text": "Ég er að reyna að formatta 250GB harðann disk það stoppar alltaf á 17% quick format virkar en smástund eftir það get ég ekki fært mikið meira en svona 300mb fæla yfir í einu hefur einhver lennt í þessu ?",
+            "date": "2006-09-19 22:44:00",
+            "post_id": "127850",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "ÓmarSmith",
+            "text": "í guðana bænum reyndu að vanda skriftina í bréfum þínum. Meira að segja Titillinn er ekki rétt uppsettur.\n\n\n\nOg ertu búinn að fara í Disk management og gera þetta þar ?\n\n\n\nspurning með að boota líka upp í DOS mode og nota gamla góða \" format c: \"",
+            "date": "2006-09-20 08:19:00",
+            "post_id": "127854",
+            "reply_to_id": "127850"
+        },
+        {
+            "user_name": "@Arinn@",
+            "text": "Leysta þetta þannig að ég náði í Western Digital - Data lifegauard tool og formattaði diskinn í gegnum það og allt virkar núna",
+            "date": "2006-09-22 23:13:00",
+            "post_id": "128039",
+            "reply_to_id": "127854"
+        }
+    ],
+    "date": "2006-09-19 22:44:00"
+}

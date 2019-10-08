@@ -1,0 +1,72 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "5952",
+    "title": "Hugleiðingar við kaup á minni",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=5952",
+    "posts": [
+        {
+            "user_name": "Milz",
+            "text": "Ég hef verið að pæla í að fjárfesta í minni þá 512 mb. Ég er með 2 minni fyrir  og 1 slot laust. Það sem ég vil fá að vita er hvernig tegund af minni ætti ég að kaupa? þarf ég eitthvað að taka tillit til vinnsluminnninsem ég er með \n\nfyrir? og hvað merkir þetta (333) fyrir aftan minnin?",
+            "date": "2004-10-12 22:50:00",
+            "post_id": "60411",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "noizer",
+            "text": "333 Mhz myndi ég nú halda og ef þú ætlar að fá þér annað minni þá best hafa það sama MHz og hin",
+            "date": "2004-10-12 23:24:00",
+            "post_id": "60419",
+            "reply_to_id": "60411"
+        },
+        {
+            "user_name": "Mysingur",
+            "text": "Reyndar er það 166MHz, DDR333 eða PC2700",
+            "date": "2004-10-12 23:31:00",
+            "post_id": "60421",
+            "reply_to_id": "60419"
+        },
+        {
+            "user_name": "noizer",
+            "text": "Hef greinilega ekki eins mikla tölvuþekkingu og þið hinir en ég er nú að nota vaktina til að læra meira á tölvur",
+            "date": "2004-10-12 23:38:00",
+            "post_id": "60423",
+            "reply_to_id": "60421"
+        },
+        {
+            "user_name": "Milz",
+            "text": "hvernig getur maður séð hvað kortið manns er mörg mhz?",
+            "date": "2004-10-13 13:40:00",
+            "post_id": "60490",
+            "reply_to_id": "60423"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Kort?  Hvaða kort?\n\n\n\nEf þú ert að tala um minni, þá virkar það einhvern vegin svona.. þú deilir með tveimur í töluna sem stendur fyrir aftan DDR.  Td. DDR333 = 166mhz, DDR433 = 217mhz.. Ef memory multiplyer/divider er 2..\n\n\n\nSegir reyndar kannski meira um hver FSB hraðinn er.. en það þarf náttúrulega að taka tillit til memory multiplier/divider..",
+            "date": "2004-10-13 14:01:00",
+            "post_id": "60492",
+            "reply_to_id": "60490"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Þá skaltu endilega skoða \nFAQ safnið\n þar sem m.a. er fjallað um vinnsluminni.\n\n\nSkil ekki alveg hvað þú ert að fara þarna. Það er alltaf margfaldað/deilt með 2 vegna þess að \nDual\n Data Rate minni flytur tvöfalt fleiri gögn á hverju Mhz'i",
+            "date": "2004-10-13 22:39:00",
+            "post_id": "60541",
+            "reply_to_id": "60492"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Æji er að rugla saman við BIOS stillingarnar á divider/multiplier \n.. þannig seturðu FSB en deilir náttúrulega alltaf með 2 í FSB til að fá út Mhz..",
+            "date": "2004-10-14 10:18:00",
+            "post_id": "60594",
+            "reply_to_id": "60541"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "heh, grunaði það \nen þarna týndirru  mér aftur, ef að þú ert með Quad-Pumped FSB einsog mörg Pentium móðurborð þá deilirðu FSB með 4 til að fá út MHz",
+            "date": "2004-10-14 16:48:00",
+            "post_id": "60667",
+            "reply_to_id": "60594"
+        }
+    ],
+    "date": "2004-10-12 22:50:00"
+}

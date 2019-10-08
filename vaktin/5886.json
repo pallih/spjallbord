@@ -1,0 +1,128 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "5886",
+    "title": "Netkerfi heima hjá mér",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=5886",
+    "posts": [
+        {
+            "user_name": "Mosi",
+            "text": "Er með 3 tölvur, ég var með 2 tölvur og þá tengdi ég bara aðra tölvuna í hina með crosswire og komst þannig á netið á báðum. En nú er 3. tölvan komin og ég spyr ykkur, hvernig er best og einfaldast að koma öllum tölvunum á netið?",
+            "date": "2004-10-06 22:42:00",
+            "post_id": "59518",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Andri Fannar",
+            "text": "Með router ?",
+            "date": "2004-10-06 22:46:00",
+            "post_id": "59519",
+            "reply_to_id": "59518"
+        },
+        {
+            "user_name": "fallen",
+            "text": "switch\n\nlángeinfaldast",
+            "date": "2004-10-06 22:46:00",
+            "post_id": "59520",
+            "reply_to_id": "59519"
+        },
+        {
+            "user_name": "Mosi",
+            "text": "er ekki switch miklu einfaldara en router, er ekki oft eikkað ip dæmi með router?\n\nog hvernig virkar þessi switch?",
+            "date": "2004-10-06 23:09:00",
+            "post_id": "59521",
+            "reply_to_id": "59520"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Ég er með router og síðan er switch tengdur í routerinn og allir tengdir í switchin annars er ip \"dæmið\"  á öllu",
+            "date": "2004-10-06 23:13:00",
+            "post_id": "59522",
+            "reply_to_id": "59521"
+        },
+        {
+            "user_name": "Mosi",
+            "text": "hvað er þá einfaldast að gera?",
+            "date": "2004-10-06 23:32:00",
+            "post_id": "59523",
+            "reply_to_id": "59522"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Nátturulega ef þú ert með router þá þarftu ekki að hafa kveikt á tölvunni til að komast á netið en routerar eru dýrari en með switch er þetta mjög einfalt bara pluga öllum tölvunum í switchin og deila nettengingunni á internet tölvunni með forriti",
+            "date": "2004-10-06 23:38:00",
+            "post_id": "59525",
+            "reply_to_id": "59523"
+        },
+        {
+            "user_name": "fallen",
+            "text": "Þarft ekkert að deila tengingunni með forriti, nóg að sjera henni í properties á nettengingunni.",
+            "date": "2004-10-07 00:06:00",
+            "post_id": "59528",
+            "reply_to_id": "59525"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Switch og router eru 2 mjög ólíkir hlutir. Router dreifir nettengingu á meðan Switch/hub tengir saman tölvur og tengist líka við routerinn. \n\nÞú þarft líklega hvort sem er að fá þér switch þótt þó fáir þér router svo ég mæli með því að þú prófir að sharea tengingunni fyrst gegnum aðra tölvu og sérð hvernig það gengur upp.",
+            "date": "2004-10-07 00:36:00",
+            "post_id": "59532",
+            "reply_to_id": "59528"
+        },
+        {
+            "user_name": "Mosi",
+            "text": "þannig að það er ekki nóg að vera bara með switch?\n\neins og þennan:\n\nhttp://www.tolvuvirkni.net/ip?inc=view&flo=product&id_top=128&id_sub=987&topl=11&page=1&viewsing=ok&head_topnav=NET_MICRO_5PORT",
+            "date": "2004-10-07 00:50:00",
+            "post_id": "59534",
+            "reply_to_id": "59532"
+        },
+        {
+            "user_name": "Mosi",
+            "text": "eða er bara nóg að vara með router?",
+            "date": "2004-10-07 00:55:00",
+            "post_id": "59535",
+            "reply_to_id": "59534"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "afhvejru ferðu ekki bara og gerir 12 mánað samning við internet fyrirtækið þitt. þá færðu þráðlausann 54G router með innbygðum 4 porta switch fyrir 2000kall hjá vodafnoe og 2500 hjá símanum.",
+            "date": "2004-10-07 09:23:00",
+            "post_id": "59551",
+            "reply_to_id": "59535"
+        },
+        {
+            "user_name": "GoDzMacK",
+            "text": "router er best switch er bara bull þá þarft alltaf að vera kveikt á tölvunni sem er með netið og ef t.d. þú átt hana og restartar þá missa hinir netið og meðan og voru kannski að spila einhvern leik og eru ekkert endilega og fegnir með það",
+            "date": "2004-10-15 01:07:00",
+            "post_id": "60718",
+            "reply_to_id": "59551"
+        },
+        {
+            "user_name": "BlitZ3r",
+            "text": "síaðan eru router miklu örrugari fyrir vírusum/trojan og shit",
+            "date": "2004-10-15 01:24:00",
+            "post_id": "60727",
+            "reply_to_id": "60718"
+        },
+        {
+            "user_name": "gumol",
+            "text": "ADSL Router þarf ekkert að vera öruggari en net sem er routað gegnum tölvu.\n\n\n\nÞessi mynd ætti að útskýra hvernig þetta virkar. \n\na) er það sem hefur verið kallað \"Router\" á þessum þræði \n\nb) er það sem hefur verið kallað \"Switch\" á þessum þræði",
+            "date": "2004-10-15 02:20:00",
+            "post_id": "60733",
+            "reply_to_id": "60727"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "úff, Trojan þýðir að eitthvað kemur inní tölvunni sem eðlileg skrá s.s. póstviðhengi eða álíka.(trójuhesturinn.....) Router verndar þig hvorki gegn trjóuvírusum né venjulegum vírusum. Þó getur hann verndað þig gegn ormum, t.d. þeim sem að nota eitthvað exploit til að tengjast inná tölvunna.\n\n\n\nEdit: ahh, glæsilegt gumol, spurning um að skella þér í að búa til einsog eitt stk. FAQ?",
+            "date": "2004-10-15 02:21:00",
+            "post_id": "60734",
+            "reply_to_id": "60733"
+        },
+        {
+            "user_name": "tms",
+            "text": "Router með NAT getur verndað trojansýktar tölvur bakvið routerinn ef trojaninn er gerður þannig að það þarf að tengjast frá internetinu til að stýra honum (þá kemst hackerinn amk ekki inn).",
+            "date": "2004-10-15 15:59:00",
+            "post_id": "60815",
+            "reply_to_id": "60734"
+        }
+    ],
+    "date": "2004-10-06 22:42:00"
+}

@@ -1,0 +1,44 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "16833",
+    "title": "Setja upp á ADSL fyrir símann með Zyxel 660",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=16833",
+    "posts": [
+        {
+            "user_name": "beatmaster",
+            "text": "Er ekki einhver hér sem að getur sagt mér eða gefið mér leiðbeiningar um hvernig ég geti notað Zyxel 660 routerinn minn til að tengjast adsl-inu hjá símanum (var að skipta yfir og hef ekki tím til að bíða eftir að það komi einhver gæi heim til setja upp nýja routerinn sem að verður ekki fyrr en eftir helgi)",
+            "date": "2008-01-25 13:12:00",
+            "post_id": "164515",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Xyron",
+            "text": "setja VPI= 8 og VCI  = 48 og PPPoE\n\n\n\nAnnars þarf physically að setja adsl merkið frá símanum á þína símlínu áður en þú getur logað þig inn á nýja usernameinum þínu og passwordi..",
+            "date": "2008-01-25 19:22:00",
+            "post_id": "164572",
+            "reply_to_id": "164515"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Ég vissi þetta með 8-48, það var bara ekki að virka\n\n\n\nVandamálið var að mér var sagt hjá símanum að það þyrfti bara að breyta VPI/VCI, notendanafnið mitt hjá Vodafone ætti að vera það sama (ég er enþá notandi hjá Voda, er keyrandi á kerfi símans til að fá skjáinn)\n\n\n\nEn það rétta er er að það þarf að bæta @internet.is fyrir aftan notendanafnið til að tengjast netinu, ég gerði það og voila",
+            "date": "2008-01-25 19:29:00",
+            "post_id": "164576",
+            "reply_to_id": "164572"
+        },
+        {
+            "user_name": "Dazy crazy",
+            "text": "til hamingju með það, en þarf maður að vera hjá símanum til að fá skjáinn?",
+            "date": "2008-01-25 20:29:00",
+            "post_id": "164586",
+            "reply_to_id": "164576"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "nei",
+            "date": "2008-01-26 01:45:00",
+            "post_id": "164626",
+            "reply_to_id": "164586"
+        }
+    ],
+    "date": "2008-01-25 13:12:00"
+}

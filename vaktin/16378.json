@@ -1,0 +1,58 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "16378",
+    "title": "Internet Jolt",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=16378",
+    "posts": [
+        {
+            "user_name": "zedro",
+            "text": "Sælar,\n\n\n\nJæja um daginn var ég að sækja skjal af netinu og ekkert merkilegt með\n\nþað nema að hraðinn hjá mér var um 1MB á sek. sem er frekar skrítið\n\nþar sem venjulegur hraði er um 270kb/sek.\n\n\n\nNú er ég að pæla ég er með speed touch router og nokkrar tölvur tengdar í\n\nhann getur það verið að hann sé að splitta niðurhals hraðanum upp?\n\n\n\nKv.Z",
+            "date": "2007-12-20 15:41:00",
+            "post_id": "160763",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "tms",
+            "text": "Nei.",
+            "date": "2007-12-21 21:35:00",
+            "post_id": "160847",
+            "reply_to_id": "160763"
+        },
+        {
+            "user_name": "zedro",
+            "text": "Any ideas why? Hver gætu verið orsök þessa gífulegra hraða?",
+            "date": "2007-12-22 01:04:00",
+            "post_id": "160864",
+            "reply_to_id": "160847"
+        },
+        {
+            "user_name": "Ic4ruz",
+            "text": "Hvað ertu með stóra tengingu? 1MB er uþb 8 Mbit og ekki ólyklegt að ADSL tengingin þín sé 10Mbit til samans þegar slökkt er á TVoADSL tækinu. (Ef þú ert með 6Mbit internet tengingu).",
+            "date": "2007-12-22 17:55:00",
+            "post_id": "160899",
+            "reply_to_id": "160864"
+        },
+        {
+            "user_name": "ÓmarSmith",
+            "text": "Rangt.\n\n\n\nÞó hann sé með t.d  ADS BESTUR hjá Símanum sem er 8Mbit tenging þá þíðir það um 840kbs MAX á sek. Það á ekki að hafa nein áhrif á nethraðann þó hann slökkvi á TV inu því það er alveg frátekin bandvídd á línunni sem fer í TV-ið.\n\n\n\nÉg reyndar lennti í þessu hjá pabba í gær á nýja Dell lappanum hans. Hann er með 8Mbit tengingu og hraðinn var mestur í rúmum 900Kbp/s en rokkaði alveg frá 240 - 940.\n\n\n\n \n  Þetta er bara skref í rétta átt..",
+            "date": "2007-12-22 21:54:00",
+            "post_id": "160908",
+            "reply_to_id": "160899"
+        },
+        {
+            "user_name": "Blackened",
+            "text": "Öhm.. 8mbit tenging á fræðilega að ná 1024.. og ég hef fengið ~980kbs á minni tengingu\n\n\n\nfrekar einfaldur útreikningur..   1024kbit/8 = 128kbs.. *8 = 1024kbs",
+            "date": "2007-12-22 22:42:00",
+            "post_id": "160915",
+            "reply_to_id": "160908"
+        },
+        {
+            "user_name": "Xyron",
+            "text": "Fer líka eftir því hversu langt þú ert frá símstöð.. edtv upplausnin frá símanum er um 4 megabites á sekúndu + nettenginginn þín ?=? bandbreidd heimtaugarinar til þín\n\n\n\nSvo þú færð bara x hraða útfrá hversu gott samband þú ert með frá símstöð, t.d. þegar þú ert 2km ca. frá símstöð eða með mikla deyfingu á símlínuni þá þarf ekki að vera að þú sért að fullnýta hraðann þinn...",
+            "date": "2007-12-23 03:17:00",
+            "post_id": "160926",
+            "reply_to_id": "160915"
+        }
+    ],
+    "date": "2007-12-20 15:41:00"
+}

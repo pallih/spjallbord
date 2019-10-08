@@ -1,0 +1,72 @@
+{
+    "forum_title": "Windows",
+    "id": "1808",
+    "title": "System shut down",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=1808",
+    "posts": [
+        {
+            "user_name": "Birk",
+            "text": "Sumir fastagestirnir eru eflaust orðnir leiðir á að reynsluminni menn séu að leita eftir svörum við vandamálum sínum hérna, svo fyrir þá sem þannig er ástatt með, lesið ekki lengra  \n\n\n\n\nEr með Xp sem er byrjað á því þurfa restarta sér kemur villu melding sem segir að kerfið þurfi að slökkva á sér vegna, orðrétt \"Windows must now restart because the Remote Procedure Call (RPC) service terminated unexpectedly\" \n\nSegir einnig að þetta sé \"initiated by NT AUTHORITY\\SYSTEM\"\n\nÉg fæ 1 mínútu til að bjarga gögnunum mínum áður en hún restartar sér.\n\n\n\nÞetta gerist bara þegar ég er tengdur við netið. \n\nÞetta er venjuleg heimilstalva og er ekki tengdur við aðrar tölvur, nema þá um höbba dci en það breytir engu þótt slökkt sé á forritinu eða ekki hún þarf að restarta sér samt.\n\n\n\nþakkir",
+            "date": "2003-10-15 20:11:00",
+            "post_id": "16566",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Spirou",
+            "text": "Uppfærðu Windowsið þitt.  Þetta er vegna þess að blaster ormurinn er að reyna að komast inn á tölvuna þína.",
+            "date": "2003-10-15 20:18:00",
+            "post_id": "16567",
+            "reply_to_id": "16566"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Þú ert með blaster orm. Ég nenni aftur á móti ekki að finna linkinn að hreinsiforritinu, en það kemur örugglega einhver með hann fljótlega",
+            "date": "2003-10-15 20:20:00",
+            "post_id": "16568",
+            "reply_to_id": "16567"
+        },
+        {
+            "user_name": "gumol",
+            "text": "VIRUS!!",
+            "date": "2003-10-15 20:21:00",
+            "post_id": "16569",
+            "reply_to_id": "16568"
+        },
+        {
+            "user_name": "kiddi",
+            "text": "Mikið rétt Daz \n\n\n\n\nW32.Blaster.Worm Removal Tool\n\n\nhttp://securityresponse.symantec.com/avcenter/venc/data/w32.blaster.worm.removal.tool.html",
+            "date": "2003-10-15 20:30:00",
+            "post_id": "16570",
+            "reply_to_id": "16569"
+        },
+        {
+            "user_name": "Birk",
+            "text": "Takk fyrir.",
+            "date": "2003-10-15 20:38:00",
+            "post_id": "16571",
+            "reply_to_id": "16570"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "já... gastu ekki farið á huga og tékkað. það eru svona 10 greinar um það hvernig á að losan við þetta þar og svona 1000póstar frá blindum hugurum sem sjá ekki greinarnar og senda inn NÁKVÆMLEGA sama póst og þú.",
+            "date": "2003-10-16 00:20:00",
+            "post_id": "16599",
+            "reply_to_id": "16571"
+        },
+        {
+            "user_name": "RadoN",
+            "text": "ég hélt að allir væri löngu búnir að losa sig við þetta  \n\n\nég fékk þetta aldrei",
+            "date": "2003-10-16 00:26:00",
+            "post_id": "16603",
+            "reply_to_id": "16599"
+        },
+        {
+            "user_name": "Drizzt",
+            "text": "run > services.msc > Remote Procedure Call (RPC) > security > restart service",
+            "date": "2003-10-16 22:55:00",
+            "post_id": "16682",
+            "reply_to_id": "16603"
+        }
+    ],
+    "date": "2003-10-15 20:11:00"
+}

@@ -1,0 +1,149 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "57073",
+    "title": "Powerline á mörg tæki.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=57073",
+    "posts": [
+        {
+            "user_name": "Gilmore",
+            "text": "Ég er búinn að vera með Powerline plug á sjónvarpinu lengi, en nú þarf ég að tengja HTPC vél með Powerline líka.\nÞað á að vera hægt að tengja mörg tæki við 1 Powerline plug sem er tengt í routerinn, sem færi þá allt í gegnum 1 ethernet port á routernum. \nEn nú er spurning þar sem sjónvarpið er á allt öðruvísi porti en netið og jafnvel ekki á routernum heldur ljósleiðaraboxinu, þarf ég þá ekki alveg sér Powerline plug fyrir sjónvarpið og annað fyrir HTPC vélina. Sem sagt 2 plug í routerinn/ljósleiðaraboxið og svo sitthvort pluggið í TV og HTPC vélina inn í stofu?",
+            "date": "2013-09-10 10:35:00",
+            "post_id": "527923",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Daz",
+            "text": "Ég er með par af \nhttp://tolvutek.is/vara/tp-splitter-rj4 ... cat5-kapal\n til að splitta kaplinum sem ég er með inn í stofu fyrir afruglara og sjónvarp (DLNA client osfrv). Ef HTPC tölvan þín þolir 100 mbps þá gæti þetta verið nóg fyrir þig.",
+            "date": "2013-09-10 10:42:00",
+            "post_id": "527924",
+            "reply_to_id": "527923"
+        },
+        {
+            "user_name": "Gilmore",
+            "text": "Takk fyrir þetta. Einföld lausn. \nþessi splittar fer þá væntanlega á pluggið sem tengist í routerinn og ljósleiðaraboxið er það ekki? Er þetta þá nokkuð að trufla hvort annað?",
+            "date": "2013-09-10 10:50:00",
+            "post_id": "527926",
+            "reply_to_id": "527924"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ef ég skil Daz rétt þá vil hann meina að þú takir 2 kapla úr boxi/router yfir í splitter, yfir í powerline A yfir í powerline B sem færi þá í annan splitter og í tækin þaðan af. Hvort að powerline tengin styðji svona split er svo annað mál.",
+            "date": "2013-09-10 11:01:00",
+            "post_id": "527928",
+            "reply_to_id": "527926"
+        },
+        {
+            "user_name": "einarth",
+            "text": "cat splitter gagnast ekki ef þú ert að nota powerline - þarft tvö pör af powerline fyrir þetta.\nKv, Einar.",
+            "date": "2013-09-10 11:04:00",
+            "post_id": "527929",
+            "reply_to_id": "527928"
+        },
+        {
+            "user_name": "Gilmore",
+            "text": "Já meinar splitter á báðum endum. \nÉg verð bara að prófa mig áfram með þetta.",
+            "date": "2013-09-10 11:06:00",
+            "post_id": "527931",
+            "reply_to_id": "527929"
+        },
+        {
+            "user_name": "Gilmore",
+            "text": "Já, ætli það fari ekki svo. Kaupa annað par.\nTakk fyrir svörin!",
+            "date": "2013-09-10 11:07:00",
+            "post_id": "527933",
+            "reply_to_id": "527931"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Þarft að hafa eitt par af powerline fyrir sjónvarpið og eitt par fyrir HTPC. Annað gengur ekki.\nMeð Trendnet powerline gaurana er ekkert mál að samstilla og aðgreina pörin. Getur gert það í gegnum utility sem fæst á heimasíðunni þeirra. Þú nefnir þá sjónvarpsparið t.d. net1 eða sjonvarp og hitt parið t.d. net2 eða htpc. Getur svo bætt við powerline kubbum í framíðinni með því að nefna þá net2 eða álíka í utilityinu.\nEn það er mikilvægt að aðgreina pörin þegar þú ert kominn með tvö merki, því þeir eru default allir nefndir sama nafni, HomePlugAV",
+            "date": "2013-09-10 11:10:00",
+            "post_id": "527935",
+            "reply_to_id": "527933"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ekki gætiru útskýrt afhverju?",
+            "date": "2013-09-10 11:13:00",
+            "post_id": "527936",
+            "reply_to_id": "527935"
+        },
+        {
+            "user_name": "Gilmore",
+            "text": "Er ekki 2 pör af þessu málið?\nhttp://tolvutek.is/vara/trendnet-200mbp ... r-einingar\nEða er þetta eitthvað sniðugt?\nhttp://tolvutek.is/vara/trendnet-gigabi ... rta-switch",
+            "date": "2013-09-10 11:19:00",
+            "post_id": "527939",
+            "reply_to_id": "527936"
+        },
+        {
+            "user_name": "einarth",
+            "text": "Afþví að hann þarf að koma tveim aðskildum nettengingum yfir rafmagnsvír. Hvert powerline par virkar í raun eins og 1 cat snúra en hann þarf tvær.\nMeð cat splitter nær hann að breyta 1 cat kapli í 2 - en það gagnast honum bara þar sem er cat kapall - ekki þar sem hann fer yfir rafmagnið.\nVona að þetta skiljist..\nKv, Einar.",
+            "date": "2013-09-10 11:23:00",
+            "post_id": "527941",
+            "reply_to_id": "527939"
+        },
+        {
+            "user_name": "Gilmore",
+            "text": "Mér finnst þetta frekar flókið, er búinn að lesa mikið um þetta og maður bara klórar sér í hausnum.\nÞarf bara að prófa þetta, bara spurning hvað maður þarf að kaupa mörg plug...þetta er ekkert ódýrt.",
+            "date": "2013-09-10 11:31:00",
+            "post_id": "527943",
+            "reply_to_id": "527941"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Morg af þessum tengjum senda bara 1, 2, 3, 6 - ef það er raunin er ekki hægt að splitta.\nAnnars sé ég ekkert sem mælir gegn því að splitta kaplinum upp fyrir 2 tæki, nema bara það að þessi powerline tengi eru algert rusl og það ætti ekki nokkur maður að nota þau.",
+            "date": "2013-09-10 12:36:00",
+            "post_id": "527957",
+            "reply_to_id": "527943"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Ef þú ert með tvö fyrir, þá þarftu tvö í viðbót.",
+            "date": "2013-09-10 12:51:00",
+            "post_id": "527959",
+            "reply_to_id": "527957"
+        },
+        {
+            "user_name": "Gilmore",
+            "text": "Talsvert betri kostur en Wifi, hjá mér allavega.",
+            "date": "2013-09-10 12:54:00",
+            "post_id": "527960",
+            "reply_to_id": "527959"
+        },
+        {
+            "user_name": "Jón Ragnar",
+            "text": "Garðar. Það er ekkert að því að nota svona.\nHef notað svona lengi fyrir afruglarann frá Símanum og þarf ekkert að hugsa um þetta.\nVirkar 100%",
+            "date": "2013-09-10 14:29:00",
+            "post_id": "527987",
+            "reply_to_id": "527960"
+        },
+        {
+            "user_name": "tdog",
+            "text": "Þetta fer eftir því á hvaða OSI lagi tækin vinna.",
+            "date": "2013-09-10 14:46:00",
+            "post_id": "527991",
+            "reply_to_id": "527987"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Neeei þetta er ógeð",
+            "date": "2013-09-10 16:47:00",
+            "post_id": "528015",
+            "reply_to_id": "527991"
+        },
+        {
+            "user_name": "tdog",
+            "text": "Þetta er óbjóður, deal with it",
+            "date": "2013-09-10 16:58:00",
+            "post_id": "528017",
+            "reply_to_id": "528015"
+        },
+        {
+            "user_name": "gardar",
+            "text": "",
+            "date": "2013-09-10 17:16:00",
+            "post_id": "528019",
+            "reply_to_id": "528017"
+        }
+    ],
+    "date": "2013-09-10 10:35:00"
+}

@@ -1,0 +1,86 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "9887",
+    "title": "Of hár CPU hiti",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=9887",
+    "posts": [
+        {
+            "user_name": "Zeke",
+            "text": "Var að spá hvort einhver væri með hugmynd um hvað væri í gangi hjá mér. Að ég best veit þá ætti venjulegur CPU hiti að vera frá 25 til 40 þegar ekkert er í gangi en svona 35 til 60 í vinnslu, fer náttulega eftir hve góð kæling er, ég vona að ég sé ekki að fara með rangt mál. En hjá mér þá er hitinn þegar tölvan er í hvíld um 50 gráður en þegar hún fer í mikla vinnslu fer hitinn oft upp í 75!, ég fylgist alltaf með örranum í task manager, og stýrikerfið ætti að vera í góðu lagi, var að setja það upp. græjan mín er sett saman úr:abit aw8-max móðurb., pentium 4 630 3GHz örgjörva, örgj. vifta:coolmaster vortex tx, svo er ég með stóra kassaviftu, held ég þurfi ekki að taka fleira fram. Þegar tölvan var sett saman þá var sett kælikrem svo það sé á hreinu. \n\nEr einhver með hugmynd? þarf ég kannski að fá öflugri örgj. viftu?",
+            "date": "2006-01-31 10:14:00",
+            "post_id": "107079",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Mr.Jinx",
+            "text": "Here we go again, Hvaða forrit varstu að nota?\n\n og ertu líka með kassaviftu framan á?",
+            "date": "2006-02-01 15:38:00",
+            "post_id": "107306",
+            "reply_to_id": "107079"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Er örgjörvaviftan örgugglega vel á örgjörvanum og hæfilegt magn af hitaleiðandi efni á milli?\n\nEr kassaviftan að blása inn eða draga út? (Ef þú ert bara með eina er líklega betra að láta hana draga út.)",
+            "date": "2006-02-01 16:05:00",
+            "post_id": "107307",
+            "reply_to_id": "107306"
+        },
+        {
+            "user_name": "Zeke",
+            "text": "Þetta var líka svona áður en ég keypti kassaviftuna, en eins og ég sagði, þegar engin forrit eru gangi þá er hitinn í kringum 50 en þegar ég keyri forrit, skiptir ekki máli hvaða forrit það eru, bara þegar mikið álag er á örgjörvanum þá fer hitinn upp í 75 gráður, það er samt ekkert svakalegt álag samt. Það er stór kassavifta og dregur út. Ég man ég setti alveg hæfilegt kælikrem, en spurning hvort viftan sé alveg þétt á örranum. En það er spurning með hvort maður þurfi ekki öflugri örgjörvaviftu, hélt samt að mín myndi duga.",
+            "date": "2006-02-01 21:07:00",
+            "post_id": "107362",
+            "reply_to_id": "107307"
+        },
+        {
+            "user_name": "mjamja",
+            "text": "búinn að update-a bios? það er gæti verið einhver hitaruglingur í móðurborðinu?",
+            "date": "2006-02-01 21:10:00",
+            "post_id": "107364",
+            "reply_to_id": "107362"
+        },
+        {
+            "user_name": "Skoop",
+            "text": "http://www.techspot.com/vb/topic13759.html\n\n\n\n\nhttp://www.gamepc.com/labs/view_content ... e%5Ftest=1\n\n\n\n\nhttp://www.digit-life.com/articles/pent ... anagement/\n\n\n\n\n\n\n\n\nannars er þetta sennilega alveg eðlilegt, intel keyrir oft mjög hátt, ég er t.d. með eina 2.8 ghz pentium í media center kassa sem fer oft uppí 70 undir load\n\n\n\nen svona til að svara þér um hvort þig vanti betri kælingu þá myndi ég segja ... því kaldara því betra, en þú \"þarft\" ekki betri kælingu að mínu mati\n\n\n\nertu annars að lenda í einhverjum vandræðum með þessa vél sem þú telur að sé hitatengt ?",
+            "date": "2006-02-02 02:25:00",
+            "post_id": "107415",
+            "reply_to_id": "107364"
+        },
+        {
+            "user_name": "Zeke",
+            "text": "Takk fyrir þessar ábendingar.\n\nNei, þetta hefur ekki ollið neinum vandræðum beint, en maður er alltaf með áhyggjur að það slokkni á tölvunni þegar ég keyri hana í botn. En það er spurning með BIOS-inn, hvort maður þyrfti að uppfæra hann, þarf að tjekka á því, vissi ekki að það hefði áhrif á hitann.",
+            "date": "2006-02-02 16:33:00",
+            "post_id": "107498",
+            "reply_to_id": "107415"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "það hefur engin áhrif á hitann. Það hefur áhrif á hitamælinguna. Meirihluti hitamæla á móðurborðum eru kolvitlausir með frysta bios.",
+            "date": "2006-02-02 17:06:00",
+            "post_id": "107507",
+            "reply_to_id": "107498"
+        },
+        {
+            "user_name": "Holy Smoke",
+            "text": "Meirihluti hitamæla er bandvitlaus, punktur.  Abit móðurborð t.d. eiga það til að reporta of háan hita, á meðan Asus of lágan.\n\n\n\nÉg myndi ná mér í Prime95 og SuperPI til að prufukeyra vélina.  Ólíkt öðrum \"cpu stability\" forritum, þá gera þau flókna útreikninga sem eiga auðvelt með að slá upp villum, jafnvel þó tölvan virðist að öðru leyti stabíl.  T.d. get ég keyrt örran minn upp í 2.4ghz án þess að tölvan krassi nokkurn tíma, en hann kemst samt ekki í gegnum þessi tvö forrit villulaust nema ég lækki niður í 2.25ghz.\n\n\n\nEf þú getur keyrt Prime95 í heila nótt án þess að það komi upp villur (eða jafnvel 2 tíma), þá þarftu ekki að hafa neinar áhyggjur.  Tölvan fer að gera villur löngu áður en hún fer að krassa út af hita.",
+            "date": "2006-02-08 13:45:00",
+            "post_id": "108309",
+            "reply_to_id": "107507"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Skemmtileg mynd, langaði samt að benda á að flest skýrustu bestu svörin sem ég fæ við að leita á google eru flestöll af spjallborðum svipuðum þessum og ef að allir sem spyrðu fengu alltaf \"gúgglaðu þetta bara\" eða \"drullastu til að leita\" (veit að það er ekki svona í þessu tilviki, hef bara séð þetta svo oft og datt þetta bara í hug núna við að sjá þessa mynd) þá gætum við aldrei leitað að neinu á \ngoogle\n nema því hver kæmi með fyndnasta og sniðugasta svarið við því að láta leita á \ngoogle",
+            "date": "2006-02-08 14:36:00",
+            "post_id": "108322",
+            "reply_to_id": "108309"
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "Það getur vel verið að þú þurfir að fá þér betri kælingu, Prescott örgjörvar geta verið svolítið heitir.",
+            "date": "2006-02-09 15:00:00",
+            "post_id": "108433",
+            "reply_to_id": "108322"
+        }
+    ],
+    "date": "2006-01-31 10:14:00"
+}

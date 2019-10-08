@@ -1,0 +1,23 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "58144",
+    "title": "Dell Dimension 5100 móðurborð - hvaða minni?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=58144",
+    "posts": [
+        {
+            "user_name": "Sallarólegur",
+            "text": "Sælir.\nÆtla að uppfæra minnið hjá skildmenni.\nÞetta er Dell Dimension 5100, sjá: \nhttp://www.ayagroup.com/product.php?productid=19379\nSupported Memory\t\n4x 533 MHz DDR2 SDRAM\n4 GB Max Total\nHef aldrei séð DDR2 með svona lágri tíðni(533), er ekki í lagi að henda 800Mhz í þessar vélar?\nÆtla svo að setja nýtt kælikrem, er þetta ekki sama procedure og á öðrum vélum? Hef aldrei unnið með Dell(skil ekki afhverju fólk kaupir þetta) \nftp://ftp.dell.com/Manuals/all-products ... _en-us.pdf",
+            "date": "2013-11-12 18:03:00",
+            "post_id": "537534",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "einarhr",
+            "text": "Ætti ekki að vera vandamál, móðurborðið ætti að klukka niður minnið í 533 MHz.\nSjá Manual síða 16 : NOTE: If you install DDR2 667-MHz memory, the speed is reduced to 533 MHz.\n  If you install mixed pairs of DDR2 400-MHz (PC2-3200) and DDR2 533-MHz (PC2-4300) memory, the modules function at the slowest speed installed. \n \nl  Be sure to install a single memory module in DIMM connector 1, the connector closest to the processor, before you install modules in the other\nEf þú ert í e-h vafa þá er best að fá lánað minni og prófa í vélinni",
+            "date": "2013-11-12 18:08:00",
+            "post_id": "537535",
+            "reply_to_id": "537534"
+        }
+    ],
+    "date": "2013-11-12 18:03:00"
+}

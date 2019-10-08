@@ -1,0 +1,100 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "74488",
+    "title": "Besta græjan til að spila efni af plex server",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=74488",
+    "posts": [
+        {
+            "user_name": "yamms",
+            "text": "Mig vantar einfalt og ódýrt tæki til að spila af plex server sem ég er með.\nHeima hjá mér er ég með server + apple tv4 en vantar eitthvað mjög user friendly dót heima hjá m&p svo þau geti horft á efni.\nÉg er búinn að vera að skoða roku streaming stick en hef enga reynslu af því. Einu skilyrðin sem ég set er að þetta sé eins notendavænt og kostur er og ekki mjög dýrt. \nHefur einhver hérna reynslu af svona streaming stick, android tv box eða öðrum græjum sem myndu henta í þetta hlutverk?",
+            "date": "2017-10-23 00:39:00",
+            "post_id": "659436",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Moldvarpan",
+            "text": "Ég gaf foreldrum mínum Roku 3 fyrir nokkrum árum.\nÞað er mjög einfalt og þau hafa alveg náð að skilja það.\nEn hafa þó ekki notað það eins mikið og ég bjóst við, enn frekar föst í kapalkerfinu + rúv \nEn vissulega, ef þeim langar að sjá eh sérstakt efni sem ég set inn handa þeim, þá er það nokkra músarsmelli frá því að vera komið í Plexið/rokuinn. Einstaklega þægilegt.\nGaf systir minni sömuleiðis Roku 3 og er með slatta af barnaefni fyrir litlu frænku mína.\nÞetta eru solid jólagjafir \nMeð 2x Roku, 2x Android og 1x Theater setups. Love it.",
+            "date": "2017-10-23 00:52:00",
+            "post_id": "659438",
+            "reply_to_id": "659436"
+        },
+        {
+            "user_name": "Cascade",
+            "text": "Ég keypti Roku, hún var alveg fín, nema hún var eiginlega að transkóða allt 1080p efnið mitt og þar sem minn plex server er takmarkaður á cpu getu þá er það alveg bannað hjá mér\nVerð eiginlega að segja að í ódýra flokknum sé rpi2 það besta sem ég hef komist nálægt\nRpi3 eflaust betri, bara var ekki til þegar ég keypti mína.\nÞú setur upp RasPlex á hana (mjög einfalt) og þá er þetta bara komið.\nHún direct playar allt efnið mitt, þú notar bara sjónvarpsfjarstýringuna til að stýra (gegnum HDMI-CEC), mjög þægilegt, einstaklega notendavæn þar sem stýrikerfið er í raun bara Plex, það er ekki hægt að klúðra því. Þú kveikir á græjunni og ferð í plex.\nRpi3 kit kostar milli $60 og $70 með öllu á aliexpress (og svosem amazon og á flestum stöðum) svo það er hægt að fá þetta á  undir 10þús komið heim.\nSvo já þetta er það langbesta í ódýru deildinni og notendavænast sem ég hef komist nálægt.\nAnnars á ég líka Mii box. Það er frábært en ekki jafn notendavænt ef þú vilt bara Plex.\nEf maður notar Plex appið úr android store þá fer flest allt í transkóðun (mjög undarlegt)\nNáði að komast hjá því með að setja upp Kodi og keyra Plex úr því, þá er allt direct playað.\nEini kosturinn af Mii boxinu yfir rpi er að viðmótið er alveg miklu flottara. Hins vegar þá þarf auka fjarstýringu og ef maður ýtir á einhvern takka á henni þá fer maður auðveldlega úr Plex appinu og það eru alveg nokkur klikk að komast í það\nSvo ef þú vilt eitthvað ódýrt, getur direct playað og er mjög notendavænt þá fær rpi mitt atkvæði",
+            "date": "2017-10-23 08:03:00",
+            "post_id": "659440",
+            "reply_to_id": "659438"
+        },
+        {
+            "user_name": "Maniax",
+            "text": "Hef notað RasPlex hér og virkað vel",
+            "date": "2017-10-23 09:07:00",
+            "post_id": "659443",
+            "reply_to_id": "659440"
+        },
+        {
+            "user_name": "Tiger",
+            "text": "Flest Smart TV í dag hafa nú bara Plex appið í boði.... viss um að sjónvarpið þeirra sé ekki með það?",
+            "date": "2017-10-23 10:46:00",
+            "post_id": "659450",
+            "reply_to_id": "659443"
+        },
+        {
+            "user_name": "einarhr",
+            "text": "Var sjálfur með Andriod Box en skipti því fyrir Chromecast og er sáttur við það.",
+            "date": "2017-10-23 12:19:00",
+            "post_id": "659454",
+            "reply_to_id": "659450"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Roku fær mitt atkvæði.\nEinstaklega einföld og góð fjarstýringin sem fylgir, kvikt og þægilegt í notkun \nGetur slökkt á transkóðun ef serverinn ræður illa við það, annars geturðu einnig stillt það í Plex servernum hversu þung transkóðunin á að vera.\nHef þó ekki lent í vandræðum með hægagang, þrátt fyrir að nota ~7 ára gamla i3 tölvu sem server og hafa ekkert breytt transkóðunar stillingum.",
+            "date": "2017-10-23 12:30:00",
+            "post_id": "659456",
+            "reply_to_id": "659454"
+        },
+        {
+            "user_name": "depill",
+            "text": "Getur meiri segja stillt þetta client based ef þú vilt enn hafa nokkra clienta sem munu samt fara í meiri transcoding. Ég hef ekkert verið að fikta í þessu mín megin og gengið fínt, en ég henti líka smá CPU afli í serverinn og mun örugglega henda meira afli þegar ég uppfæri ( eða bæti við það sem mér finnst spennandi sem er distributed transcoding ).\nA) Nördaskapurinn í mér myndi segja Sheild, allt bara geðveikt við Shield en myndi aldrei láta foreldra mína fá shield\nB) Ef foreldrar þínir eru eins og mínir og nota iPad og iPhone láttu þá hafa ATV4. Clientinn er frekar nice, önnur öpp eru frekar nice, AirPlay og Plex selectorinn virkar seamlessi á milli iPad og iPhone. Apple TV remote appið í iPad og iPhone virkar fáranlega nice.\nForeldrar mínir eru iPad sjúklingar og þetta eiginlega eina leiðin til að fá þau til að horfa líka á efnið í TV, þar sem núna byrja þau í iPad og halda svo áfram í AppleTVunum sínum. Plús þegar þau týna fjarstýringunum að þá finnst þeim fáranlega gott að geta notað fjarstýringu möguleikann á iPad / iPhone.\nEf þau eru Android fólk þá myndi ég örugglega segja Chromecast, ódýrt og virkar af devicunum.\nÉg er persónulega akkurat núna með bara LG Smart sjónvarp clientinn hjá mér sjálfum. En þegar ég flyt ætla ég eithvað að breyta til.",
+            "date": "2017-10-23 13:19:00",
+            "post_id": "659458",
+            "reply_to_id": "659456"
+        },
+        {
+            "user_name": "Hauxon",
+            "text": "Keypti Amazon Firestick um daginn (10þ í TL, annars $39) og er á því að það sé besta ódýra streymilausnin fyrir sjónvarp ef 1080p er nóg.  Android undir og mjög einfalt í notkun, getur sett inn Kodi, iView/Imbakassann ofl Adroid dót ef þú vilt.  Það fylgir líka ágæt fjarstýring með.  Amazon Fire TV styður 4k og það er ný útgáfa rétt handan við hornið (25 oct '17).  Ég er ekki með Echo dot eða annað Amazon  dót en líklega integrerar þetta allt voða vel saman ef fólk er að spá framtíðar home-automation.",
+            "date": "2017-10-23 13:40:00",
+            "post_id": "659460",
+            "reply_to_id": "659458"
+        },
+        {
+            "user_name": "yamms",
+            "text": "Snilld, takk fyrir! Ég er farinn að hallast meira að streaming stick. Tel það henta best í þessu tilfelli.",
+            "date": "2017-10-23 22:35:00",
+            "post_id": "659486",
+            "reply_to_id": "659460"
+        },
+        {
+            "user_name": "obg23",
+            "text": "Ég keypti Mi Tv Box á AliExpress og hef notað það í þó nokkurn tíma og það hefur svínvirkað hjá mér. Það er verið að selja svoleiðis græju hérna á Íslandi hér: \nhttps://mii.is/collections/annad/products/mi-tv-box",
+            "date": "2017-10-26 11:40:00",
+            "post_id": "659674",
+            "reply_to_id": "659486"
+        },
+        {
+            "user_name": "hfwf",
+            "text": "af hverju er verið að selja  þetta 17900 þegar þetta er komið heim á sirka 9500? geturu svarað því eigandi mii.is? [emoji23]\nSent from my SM-G925F using Tapatalk",
+            "date": "2017-10-26 12:16:00",
+            "post_id": "659676",
+            "reply_to_id": "659674"
+        },
+        {
+            "user_name": "russi",
+            "text": "Fá þú þér AppleTV 4K og láttu gamla settið fá þitt gamla AppleTV4, getur selt þeim það á sanngjörnu verði, alveg eins á báðum stöðum og auðvelt fyrir þig að leiðbeina þeim og það er frekar easy í notkun.\nEn af því sem ég hef testað þá er Roku vel imba-proof eftir það er komið upp. Amazon er það líka.\nSetti sjálfur upp Andriod box og skipti um launcher á því til að það yrði imba-proof. Þá e rupphafskjárinn bara með tiles og Plex, Sarpurinn og önnur öpp þar,",
+            "date": "2017-10-26 14:21:00",
+            "post_id": "659691",
+            "reply_to_id": "659676"
+        }
+    ],
+    "date": "2017-10-23 00:39:00"
+}

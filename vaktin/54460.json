@@ -1,0 +1,44 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "54460",
+    "title": "(RESOLVED) Vantar 12 volt",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=54460",
+    "posts": [
+        {
+            "user_name": "Swanmark",
+            "text": "Halló :p\nÉg er með Corsair GS700w aflgjafa, og var að spá, vantar að fá 12v spennu á LED strip sem ég ætla að kaupa ... Get ég tekið hana út úr aflgjafanum? Ef svo, hvaða tengi er 12v sem ég er ekki að nota?\nEr að nota bæði PCI-e tengin, en bara 6 pinna af þeim, svo eru hinir 2 pinnarnir lausir frá. (6+2pinna tengi)\nGet ég fengið 12v þaðan? \nEða einhverstaðar annarsstaðar?\nTakk",
+            "date": "2013-04-13 17:56:00",
+            "post_id": "505248",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Haxdal",
+            "text": "Guli vírinn í Molex snúrunum er 12v.\nhttp://en.wikipedia.org/wiki/Molex",
+            "date": "2013-04-13 18:24:00",
+            "post_id": "505252",
+            "reply_to_id": "505248"
+        },
+        {
+            "user_name": "playman",
+            "text": "Hérna hefurðu allt sem að þú þarft að vita um hvaða kaplar gefa hvað.\nhttp://pcsupport.about.com/od/insidethe ... supply.htm",
+            "date": "2013-04-13 18:27:00",
+            "post_id": "505254",
+            "reply_to_id": "505252"
+        },
+        {
+            "user_name": "Black",
+            "text": "Passaðu bara að það myndist ekki skammhlaup.",
+            "date": "2013-04-13 18:29:00",
+            "post_id": "505255",
+            "reply_to_id": "505254"
+        },
+        {
+            "user_name": "Swanmark",
+            "text": "Þakka, allir.\nÆtla að kaupa mér ljósa strip og stjórna því með Arduino, ætlaði að lesa hitann af CPU og stjórna litunum inni í kassanum skv. því",
+            "date": "2013-04-13 18:34:00",
+            "post_id": "505258",
+            "reply_to_id": "505255"
+        }
+    ],
+    "date": "2013-04-13 17:56:00"
+}

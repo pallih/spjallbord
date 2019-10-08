@@ -1,0 +1,44 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "21246",
+    "title": "Seagate ST3500320AS vandamál",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=21246",
+    "posts": [
+        {
+            "user_name": "Selurinn",
+            "text": "Sælir, nú ætla ég að segja sögu.\nEinn daginn fór ungur drengur og keypti sér Seagate disk (ST3500620AS).\nSá diskur var settur í riggi í P35-DS4 móðurborð með 550W Coolmax spennugjafa.\nDiskurinn virkaði vel til að byrja með en svo oft á tíðum kom hann of og til í BIOS og margt var reynt til þess að redda því, meðal annars skipta um SATA port, sata snúru, ýmsar stillingar sumsé (Native IDE, AHCI)\nEn svo á endanum endaði það ævintýri á því að tölvan postaði og windows logoið kom á skjáinn og varð síðan bara svartur þegar diskurinn var tengdur, annars bootaði hún bara venjulega þegar hann var aftengdur. (Þetta var Secondary HDD, annar var fyrir OS)\nÞessi diskur fór til baka þar sem hann var keyptur og eftir nokkra daga fékk drengurinn hringingu um að diskurinn væri tilbúinn og góði gæjinn í búðinni sagði að ég fengi ST3500320AS án þess að borga krónu á milli, jeiiii \nÉg reyndar fékk aldrei að vita hvort diskurinn var í raun og veru skemmdur eða ekki, en ekkert var farið nánar útí það, jú annars finnst mér að hann hefði allavega sagt að diskurinn væri í lagi, en hann talaði ekkert um það.\nOk nú prófa ég nýja Seagate diskinn set meðal annars XP Pro á hann svo ég get Dual-Bootað sumsé Windows Vista og Windows XP á sitthvorum HDD með sinn eigin boot.ini, ég bara vel þá í ræsingu með F12(Gigabyte móðurborð) af hvoru drifinu hann keyrir sig.\nÞetta byrjaði með veseni, XP diskurinn náði að extracta öllu dótinu á diskinn en svo þegar hann rebootar og fer á sjálft installið kom bara NO DISK. (Og já ég valdi rétt HDD) Svo þurfti ég alltaf að fara á Windows Diskinn og gera repair á Vista vegna þess hann neitaði að ræsa sig á Vista kerfið eftir þetta en anywho......\nSetti upp XP kerfið á aðra tölvu með sama móðurborð og að installi loknu þá setti ég það í hina tölvuna aftur, náði þá að boota í XP kerfið og setja upp restina af driverum, vhoila, problem solved.\nNú sumsé virkar alveg diskurinn. En þegar ég t.d. er að sækja 4+ torrent í einu (uTorrent) á sama disknum, kemur Write Delayed Failure og drifið dettur út. Og ég fæ ekki diskinn inn aftur þótt ég restarti/Shut Down vélina. (Ekki einu sinni BIOS)\nEina leiðin til að fá drifið inn aftur er að taka rafmagnsplögginn úr aflgjafanum og bíða í nokkrar sek og svo kveikja á henni aftur.\nDiskurinn dettur líka út þegar ég reyni að performa einhversskonar hugbúnað eins og SeaTools, (Long DST Failed, en Short DST passar og diskurinn helst inni) Windows CHKDS keyrt og tölvan biður um restart, þá þarf ég aftur að keyra repair á kerfið vegna þess að eftir CHKDS og reboot neitar hún að fara í kerfið.\nEinnig keyrði ég QA+ frá Eurosoft og sagði hugbúnaðurinn að diskurinn væri eitthvað FUBAR, man ekki alveg á hvaða sviðum hann failaði samt, en hann allavega datt út alltaf eftirá.\nTil þess að útiloka að þetta sé OS vandamál, sem mér finnst mjög ólíklegt \n þá keyrði ég SeaTools DOS Bootable CD ISO, og viti menn, Long TEST passar á disknum  \n  wtf. (Og þetta gerði ég tvisvar)\nSvo keyrði ég annan bootable CD sem keyrir CHKDS og það fór smurlega í gegnum diskinn líka.\nÉg er ennþá að gera fleiri test en ég er byrjaður að hallast á software vandamáli, en ég vil ekki trúa því þegar bæði SeaTolls og QA+ segja að diskurinn sé bilaður þegar ég er bootaður í OS en ekki þegar ég keyri af BootCD.\nKæru vaktarar, nú vil ég heyra ykkar álit á þessu og uppástungur, ég vil ekki fara með disk sem er í raun og veru ekki bilaður ef þetta heldur áfram að láta svona og vill vita hvort þetta sé eitthvað common vandamál líka á þessum diskum, og sumsé uppástungur frá ykkur.\nKveðja.....Selurinn",
+            "date": "2009-01-24 22:38:00",
+            "post_id": "195372",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Starman",
+            "text": "Þú þarft líklega að uppfæra firmware á þessum disk, Seagate hefur átt í miklum vandræðum með nokkrar týpur af diskum.\nSjá nánar á \nhttp://seagate.custkb.com/seagate/crm/selfservice/news.jsp?DocId=207931\nGóða skemmtun",
+            "date": "2009-01-24 22:53:00",
+            "post_id": "195373",
+            "reply_to_id": "195372"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Ok, mun prófa þetta........\nEru allir HDD framleiðendur með Firmware Upgrade á diskana sína?\nÆtti maður þá ekki að gera þetta á öll drifin sín?\n*Update*\nJæja, búinn að flasha firmwarið, everything went smoothly, nú bara taka kvikindið í test eftir að ég laga Vista kerfið, urghhhh!\nEru bara Seagate með firmware update á diskunum sínum, hvað með Samsung og WD? Finn allavega ekkert á netinu, getur einhver svarað þessu \n?\n*Update2*\nDiskurinn passaði allt í QA+. Samt sagði hugbúnaðurinn að hann hafi fundið eina villu en sé ekkert tekið fram í skýrslunni nánar um það \n  Oh well.....",
+            "date": "2009-01-25 00:07:00",
+            "post_id": "195377",
+            "reply_to_id": "195373"
+        },
+        {
+            "user_name": "Cikster",
+            "text": "Passið ykkur á þessu firmware update frá þeim. Seagate eru að drulla langt upp á bak þessa dagana.\nhttp://www.dailytech.com/article.aspx?newsid=14011\n*Edit fyrir updatið*\nÞví ættu aðrir framleiðendur að gefa út annað firmware fyrir diskana sína sem eru í fínu lagi?\nÞetta er bara klúður hjá Seagate sem þeir náðu meira að segja að klúðra ennþá meira með því að nýja firmwareið sem á að laga fyrsta klúðrið er að drepa suma diskana.",
+            "date": "2009-01-25 00:47:00",
+            "post_id": "195380",
+            "reply_to_id": "195377"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Diskurinn virkar allavega eftir flashið hjá mér, hooooofffff \nEn nú er ég hinsvegar að lenda í þvílíkt leiðinlegu böggi með OSin hjá mér.\nEftir að ég er búinn að vera í XP kerfinu (ST3500320AS) og reboota og reyni að fara í Vista kerfið (ST3500620AS) þá verður skjárinn bara svartur eftir Windows Logo, og ég þarf alltaf að keyra helvítis recovery diskinn til að fara í automatic repair svo Vista kerfið komi upp aftur \n \nWtf is happening, any clues gentlemen?\n*Update*\nÞessi diskur er algjört helvíti, bara vesen á honum, farinn með hann á verkstæðið aftur",
+            "date": "2009-01-25 01:04:00",
+            "post_id": "195382",
+            "reply_to_id": "195380"
+        }
+    ],
+    "date": "2009-01-24 22:38:00"
+}

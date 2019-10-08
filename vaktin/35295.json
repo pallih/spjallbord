@@ -1,0 +1,51 @@
+{
+    "forum_title": "Windows",
+    "id": "35295",
+    "title": "Windows 7 Skrítið vandamál",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=35295",
+    "posts": [
+        {
+            "user_name": "Frantic",
+            "text": "Ég hef aldrei lent í neinu veseni hingað til með windows sem ég gat ekki leyst með google leit.\nÞegar ég er búinn að starta tölvunni og opna einhvern glugga, skiptir ekki máli hvort það sé explorer gluggi eða eitthvað annað þá missir glugginn \"focus\" eftir nokkrar sekúndur. S.s. hættir að vera active og ég þarf að switch-a á gluggann aftur. Einstaklega pirrandi þegar maður þarf að skrifa eitthvað.\nÞetta gerist aftur og aftur á nokkra sekúnda fresti þangað til ég opna Task Manager þá hættir það alveg.\nÞetta gerist s.s. alltaf eftir að ég ræsi vélina.\nEins og ég sagði þá segir google mér ekki neitt.\nMig langaði bara að vita hvort einhver hérna sé með betri googlesearch-skillz eða ef að einhver hefur einhverja hugmynd af hverju þetta ætti að vera að gerast.",
+            "date": "2011-01-10 23:18:00",
+            "post_id": "311444",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Haxdal",
+            "text": "Ertu nokkuð með Microsoft Security Essentials ?.\nÞað er \"galli\" í MSE sem lýsir sér svona,  MSE stelur fókusinum þegar hann er að updatea sig og skilar honum ekki til baka þegar hann er búin.\nÞetta var ástæðan af hverju ég hætti að nota MSE og fór yfir í ESET Smart Security, óþolandi þegar þetta gerist þegar maður er í einhverjum fullscreen leik.\nÞað var samt ekki oft sem þetta gerðist með MSE,  nokkra klst fresti.  Svo ef þetta er stanslaust að gerast hjá þér þá er þetta eitthvað annað,  einhver vírus, spyware eða malware að stela fókusinum.",
+            "date": "2011-01-11 00:36:00",
+            "post_id": "311461",
+            "reply_to_id": "311444"
+        },
+        {
+            "user_name": "Hvati",
+            "text": "@Haxdal, Eset Nod32 er geðveik þæginleg vírusvörn, betri en allar sem ég hef prufað.",
+            "date": "2011-01-11 00:57:00",
+            "post_id": "311466",
+            "reply_to_id": "311461"
+        },
+        {
+            "user_name": "Frantic",
+            "text": "Er hvorki með Microsoft Security Essential né vírus/annað álíka.\nÉg tók eftir þessu fyrst eftir update á windowsinu fyrir nokkrum mánuðum síðan.",
+            "date": "2011-01-11 17:06:00",
+            "post_id": "311658",
+            "reply_to_id": "311466"
+        },
+        {
+            "user_name": "Haxdal",
+            "text": "Ef þú ert viss um að þetta sé útaf einhverju windows updatei sem þú settir inn þá myndi ég bara finna þetta update og henda því út.\nÞú getur séð hvaða update eru uppsett og hvenær þau voru sett inn í \nPrograms and Features\n undir \nView installed updates\n,  eða þú getur restoreað system restore punkti frá fyrri tíma ef þú ert með það virkt.\nGetur líka prófað þetta registry tweak sem er talað um hérna.\nhttp://pcsupport.about.com/od/windowsxp/ht/stealingfocus02.htm\nog \nhttp://superuser.com/questions/199821/windows-7-disable-applications-stealing-focus\nTek enga ábyrgð á þessu samt.",
+            "date": "2011-01-12 14:20:00",
+            "post_id": "312017",
+            "reply_to_id": "311658"
+        },
+        {
+            "user_name": "Frantic",
+            "text": "Takk fyrir þetta.\nEn nei ég er ekki viss um að þetta sé windows update sem gerði þetta en ég tók bara eftir þessu eftir restart vegna update á windows.",
+            "date": "2011-01-12 17:29:00",
+            "post_id": "312075",
+            "reply_to_id": "312017"
+        }
+    ],
+    "date": "2011-01-10 23:18:00"
+}

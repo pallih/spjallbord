@@ -1,0 +1,86 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "15822",
+    "title": "IPX protocol vandi",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=15822",
+    "posts": [
+        {
+            "user_name": "Selurinn",
+            "text": "Ég þarf nauðsynlega að geta sett upp IPX protocol á netkortið mitt.\n\n\n\nNema það að þetta móðurborð er svo nýtt að ég sé það ekki þegar ég ætla að isntallera protocols.\n\n\n\nÞetta er GA-P35-DS4 móðurborð.\n\n\n\nVeit einhver hvernig ég get sett upp IPX á þessu móbói.\n\n\n\n\n\nVerð að nota það til að spila Warcraft II í gegnum LAN",
+            "date": "2007-10-21 22:46:00",
+            "post_id": "155353",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Hvaða protocols eru til staðar?\n\n\n\nAnnars, hvaða stýrikerfi ertu að nota og er það nokkuð 64bita?",
+            "date": "2007-10-21 22:55:00",
+            "post_id": "155358",
+            "reply_to_id": "155353"
+        },
+        {
+            "user_name": "Fumbler",
+            "text": "IPX/SPX protocol fylgir XP sp2. Skiptir ekki máli hvaða netkort þú ert með.\n\nFerð bara í properties á netkortinu og installa þar.",
+            "date": "2007-10-21 23:35:00",
+            "post_id": "155368",
+            "reply_to_id": "155358"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Jaaaaá ok ég er með Vista :S\n\n\n\nHvernig geri ég?",
+            "date": "2007-10-21 23:57:00",
+            "post_id": "155369",
+            "reply_to_id": "155368"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "http://www.kali.net/\n\n\n\n\nÞetta á víst að virka.",
+            "date": "2007-10-22 00:16:00",
+            "post_id": "155371",
+            "reply_to_id": "155369"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Nope",
+            "date": "2007-10-22 00:30:00",
+            "post_id": "155373",
+            "reply_to_id": "155371"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Vóó, hvernig virkar þetta?\n\n\n\nBýr þetta til IPX eða?",
+            "date": "2007-10-22 12:35:00",
+            "post_id": "155379",
+            "reply_to_id": "155373"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Ekki alveg viss",
+            "date": "2007-10-22 13:20:00",
+            "post_id": "155380",
+            "reply_to_id": "155379"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "WHAT; afhverju ertu þá að benda mér á þetta!?\n\n\n\nErtu eitthvað skakkur?",
+            "date": "2007-10-23 00:11:00",
+            "post_id": "155426",
+            "reply_to_id": "155380"
+        },
+        {
+            "user_name": "Fumbler",
+            "text": "Ég fann þetta.\n\nhttp://www.starbase01.com/site/index.php?aid=87",
+            "date": "2007-10-23 00:23:00",
+            "post_id": "155430",
+            "reply_to_id": "155426"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "En gallinn er að þetta virkar ekkert.\n\n\n\nGetur ekki einu sinni farið í properties fyrir IPX",
+            "date": "2007-10-23 01:33:00",
+            "post_id": "155433",
+            "reply_to_id": "155430"
+        }
+    ],
+    "date": "2007-10-21 22:46:00"
+}

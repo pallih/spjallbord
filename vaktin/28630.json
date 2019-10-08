@@ -1,0 +1,58 @@
+{
+    "forum_title": "Windows",
+    "id": "28630",
+    "title": "Nvidia driver á windows 7 festist..",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=28630",
+    "posts": [
+        {
+            "user_name": "Andriante",
+            "text": "Veit einhver hvað er málið?\nÞetta gerist _alltaf_ á _öllum_ tölvum sem ég set win7 á.\nDriver installið festist bara á \"Installing driver\" components.\nÞað er voða lítið um þetta á netinu en ég bara man ekki alveg hvernig ég lagaði þetta síðast.\nÞað sem ég er búinn að gera núna er að run as administrator sem virkaði ekki. Er búinn að extracta drivernum, installa physx og svo henda því útúr möppunni ásamt 3d draslinu, það virkar heldur ekki. Það virkar heldur ekki að updeita nvidia driverinn í gegnum windows update.. floppar e-ð þar líka. Hvað er fokking málið með að ég lendi alltaf í þessu?",
+            "date": "2010-03-02 00:06:00",
+            "post_id": "247708",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Opnaðu task manager --> processes\nsmelltu 'show processess from all users' og slökktu á \"PhysX_9.09.0814_SystemSoftware.exe\"\nGerðu þetta á meðan setupið er í gangi.",
+            "date": "2010-03-02 00:19:00",
+            "post_id": "247710",
+            "reply_to_id": "247708"
+        },
+        {
+            "user_name": "Andriante",
+            "text": "Þessi process er ekki í gangi",
+            "date": "2010-03-02 00:39:00",
+            "post_id": "247711",
+            "reply_to_id": "247710"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Þetta hefur bara gerst á þeim tölvum sem eru með nVidia 8800 kort hjá mér. Þá hefur virkað að loka \"physx\".",
+            "date": "2010-03-02 00:45:00",
+            "post_id": "247712",
+            "reply_to_id": "247711"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Gæti verið að það sé eitthvað sem heitir CUDA sem er að installast með?",
+            "date": "2010-03-02 01:04:00",
+            "post_id": "247715",
+            "reply_to_id": "247712"
+        },
+        {
+            "user_name": "svanur08",
+            "text": "unzippar drivernum á gerir cancel á installið, og ferð í C:\\nvidia\\display driver.......... installar því manually þar setur physx á desktop meðan þú ferð í setup og installar svo physx sér þá virkar þetta.",
+            "date": "2010-03-02 01:23:00",
+            "post_id": "247717",
+            "reply_to_id": "247715"
+        },
+        {
+            "user_name": "Andriante",
+            "text": "Skrýtið, ég var einmitt að gera þetta nema bara ekki í foldernum sem þú sagðir.\nEn það virkaði þegar ég gerði það í þessum folder! takk vinur",
+            "date": "2010-03-02 01:40:00",
+            "post_id": "247720",
+            "reply_to_id": "247717"
+        }
+    ],
+    "date": "2010-03-02 00:06:00"
+}

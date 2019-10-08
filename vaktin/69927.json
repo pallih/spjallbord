@@ -1,0 +1,135 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "69927",
+    "title": "Samsung HDMI no signal error",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=69927",
+    "posts": [
+        {
+            "user_name": "GuðjónR",
+            "text": "Ég er með Samsung UE65HU7505 sjónvarp og fyrstu mánuðina virkaði það 100% en svo fór að byrja vesen með HDMI2 portið, (handshake vesen).\nEr með AppleTV a því porti og lendi orðið of oft í því að fá No Signal HDMI2/DVI error meldingu á skjáinn þó það sé kveikt á AppleTV.\nStundum kemur myndin strax, stundum dugar að bíða í 1-5 mínútur, stundum þarf ég að svissa á milli HDMI1-2 með fjarstýringu nokkrum sinnum og svo allt í einu dettur AppleTV in, áðan t.d. eftir 15 mínútur... Ef ég nenni ekki að bíða þá hef ég tekið kapalinn úr og sett i HDMI3 og fengið signal um leið.\nHef prófað ýmsar aðferðir, t.d. factory reset og allskonar brellur sem ég hef googlað á netinu en þetta virðist þekkt vandamál.\nAllt sem ég hef prófað hefur \"virkað\" ... tímabundið en ég lendi alltaf í þessu aftur. HDMI snúrurnar eru góðar, hef prófað að svissa þeim.\nEf ég set TV tölvuna á HDMI2 portið í stað AppleTV þá lendi ég í þessu líka og einnig með IPTV þannig að það eru ekki tækin eða snúrurnar.\nSvo er líka smá vesen á annari fjarstýringunni, \"smart remote\", en með henni þá fæ ég bendil á skjáin sem ég get notað til að klikka á það sem ég er að gera, en á svona 1-2 vikna fresti þá hættir bendillinn að virka, þá er trixið að taka batteríin úr og setja í aftur.\nEn málið er bara að ég nenni ekki að standa í einhverjum trixum og skítamixum til að hlutirnir virki.\nVeit einhver um varanlega lausn á þessu eða er þetta bara bilað?",
+            "date": "2016-07-09 17:40:00",
+            "post_id": "627075",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Er í boði að uppfæra Firmware á tækinu ?",
+            "date": "2016-07-09 18:02:00",
+            "post_id": "627077",
+            "reply_to_id": "627075"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Jú, er með nýjasta firmware ... sem er reyndar orðið frekar gamalt, sjónvarpið uppfærir sig sjálft.",
+            "date": "2016-07-09 18:07:00",
+            "post_id": "627080",
+            "reply_to_id": "627077"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Version: 1080.0 ?",
+            "date": "2016-07-09 18:14:00",
+            "post_id": "627081",
+            "reply_to_id": "627080"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Current version: 1041  (það nýjasta samkvæmt því sem Update now segir).",
+            "date": "2016-07-09 18:18:00",
+            "post_id": "627082",
+            "reply_to_id": "627081"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "65 \"UHD 4K Flat Smart TV HU7505:\nlinkur !\n í firmware update:1080.0 af norsku Samsung síðunni ,Er þetta ekki sama tækið ?",
+            "date": "2016-07-09 18:24:00",
+            "post_id": "627083",
+            "reply_to_id": "627082"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Jú þetta er sama tækið, ... skrítið að þarna sé annað firmware en á tækinu samt segir tækið að það sé það nýjasta...",
+            "date": "2016-07-09 18:27:00",
+            "post_id": "627084",
+            "reply_to_id": "627083"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Já frekar , reikna með að þetta sjónvarp keyrir á einhverju custom linux distro og hugsanlega brotinn linkur við eitthvað Samsung update repository (þá líklega nýjustu update-in ef þú nærð að downloada einhverju nýju Firmware-i frá Samsung eftir factory reset)",
+            "date": "2016-07-09 18:30:00",
+            "post_id": "627085",
+            "reply_to_id": "627084"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Gæti verið einhverjir bug fix-ar í nýjasta Firmware update-inu þeirra.",
+            "date": "2016-07-09 18:32:00",
+            "post_id": "627086",
+            "reply_to_id": "627085"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Ég gerði factory reset á tækið fyrir svona 2 mánuðum, ætla að sækja 1080 setja á usb og uppfæra þannig.\nKannski lagast þetta handshake vesen.",
+            "date": "2016-07-09 18:34:00",
+            "post_id": "627087",
+            "reply_to_id": "627086"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Good luck , vonandi að þetta leysi málið.",
+            "date": "2016-07-09 18:35:00",
+            "post_id": "627088",
+            "reply_to_id": "627087"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "THX!\n1GB firmware. \nBúinn að uppfæra í 1080, í fyrstu virtist það ekki skipta máli þannig að ég gerði reset to factory settings.\nÞarf svo að mata stillingarnar í rólegheitum upp á nýtt, kemur í ljós bráðum hvort þetta dugar til, vona það innilega.\nTrikkið í setup  < 2 8 9 > til að fá Iceland er eitthvað skrítið, öll löndin koma upp, vel Ísland en á næsta skjá eru bara fjögur lönd á listanum og Ísland er ekki þar á meðal, ekki að það skipti neinu máli.\nGott að vera með nýjasta firmware, þó ég hafi erið smá stressaður eftir að hafa lesið:\n※\nWarning\nPulling the USB Memory drive out or unplugging the power cable will cause a \nfirmware error or main board failure. Firmware errors and main board failures are \nnot covered by Samsung warranty policy.",
+            "date": "2016-07-09 21:18:00",
+            "post_id": "627096",
+            "reply_to_id": "627088"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Finnst þá þetta Smart Tv sölu trix vera frekar mikið rippoff. Maður getur keypt \"heimskt sjónvarp\" og keypt sér ódýra pc tölvu og sett upp linux með Kodi og fær mun betrra \"Smart Tv\" í kjölfarið",
+            "date": "2016-07-10 11:27:00",
+            "post_id": "627115",
+            "reply_to_id": "627096"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Já mér finnst lítið \"smart\" við þetta TV þannig, mun skemmtilegra Netflix viðmót í AppleTV, youtube sömuleiðis og á er nú lítið eftir.\nPrófaði í gær að setja *.mkv mynd í gang beint af usb lykli í TV ... það var hræðilegt.\nEn HDMI2 portið svínvirkar núna eftir firmware update og factory reset, vona að það verði þannig áfram.\nTakk fyrir að benda mér á síðuna með firmware, greinilega brotinn linkur í 1041 sem útilokar uppfærslur.",
+            "date": "2016-07-10 12:04:00",
+            "post_id": "627119",
+            "reply_to_id": "627115"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Nó problemmó , já vonum það besta",
+            "date": "2016-07-10 12:07:00",
+            "post_id": "627120",
+            "reply_to_id": "627119"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Bráðum þrjár vikur síðan firmware update og ennþá allt 100%\nAlveg magnað, ég ætla að eiga afrit af v1080 til vonar og vara ef tækið skyldi uppfæra sig í framtíðinni í lélegt firmware.\nÍ upphafi virkaði allt fínt, það var ekki fyrr en c.a. 6 mánuðum eftir kaupin að þetta vesen byrjaði, mjög líkega eftir uppfærslu í v1041.\nTakk!",
+            "date": "2016-07-28 12:59:00",
+            "post_id": "628399",
+            "reply_to_id": "627120"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Flott að heyra , það var nú mjög lítið  \n  Maður hefur heyrt af álíka málum þegar fólk hefur uppfært eldri Bios-a á PC vélum og og það hafa gerst funky hlutir t.d HDMI tengi með leiðindi og þess háttar.Þar sem SMart-TV tæki uppfæra firmware automaticly þá þarf maður greinilega að vera vakandi fyrir þessu þegar það koma upp böggar (Þitt tilfelli var greinilega jaðartilfelli þar sem þú gast ekki uppfært í nýjustu utgáfuna nema að installa Firmware handvirkt).",
+            "date": "2016-07-28 13:43:00",
+            "post_id": "628400",
+            "reply_to_id": "628399"
+        },
+        {
+            "user_name": "Farcry",
+            "text": "Minnir að það sé ekki í boði að downgrade firmware á samsung, getur slökkt á autoupdate í tækinu (held það sé undir support)",
+            "date": "2016-07-28 20:16:00",
+            "post_id": "628420",
+            "reply_to_id": "628400"
+        }
+    ],
+    "date": "2016-07-09 17:40:00"
+}

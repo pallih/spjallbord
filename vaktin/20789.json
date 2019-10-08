@@ -1,0 +1,58 @@
+{
+    "forum_title": "Vaktin.is",
+    "id": "20789",
+    "title": "Helst ekki skráður inni.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=46&t=20789",
+    "posts": [
+        {
+            "user_name": "Danni V8",
+            "text": "Ég var að setja nýju tölvuna upp, náði í Firefox 3.05 og einhverja hluta vegna helst ég ekki skráður inni á Vaktin.is. Ég skrái mig inn, það kemur \"You have been successfully logged in\" svo bíð ég í smá stund og síðan fer sjálkrafa á forsíðu og þá er ekki lengur skráður inni. Ég er ss. að senda þennan póst gegnum IE6.\nÉg er búinn að prófa að skrá mig inn á tveimur öðrum spjöllum, annað PHPBB2 og hitt vBulletin 3.7.1 og það virkar allt eins og í lygasögu.\nÞað er ss. bara vaktin sem að er með vesen. Vitið þig hvað ég get gert til að reyna að laga þetta. Ég er búinn að fara í gegnum allar Cookies stillingar og þær eru í lagi.",
+            "date": "2008-12-31 23:48:00",
+            "post_id": "191964",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Firefox er drasl?",
+            "date": "2009-01-01 02:36:00",
+            "post_id": "191965",
+            "reply_to_id": "191964"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Nei??",
+            "date": "2009-01-01 02:54:00",
+            "post_id": "191969",
+            "reply_to_id": "191965"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Æji kommon strákar mínir. Ég bjó þennan þráð ekki til til að metast um vafra heldur til þess að leysa að af hverju ég næ ekki að vafra þessa síðu á browsernum sem að ég kýs að nota.\nFirefox er alveg jafn mikið drasl og Opera, IE og allir þessir browserar sem eru til svo hættist að metast um það. Ef enginn veit lausn á þessu þá neyðist ég bara til þess að nota IE sem browserinn minn fyrir þessa síðu. Ég ætti nú að lifa það af ég meina þetta er nú bara eitt lousy forrit sem að er hvort sem er í tölvunni.\nEn so far er þetta bara PHPBB3 þar sem ég hef ekki fundið annað borð sem er með því kerfi (er ekki annars phpbb3 hér)\nPS: ég er búinn að vanda mig alveg þvílíkt við að skrifa þetta enda er ég alveg sauðdrukkinn svo ég afsaka allar stafsetningar eða málfræðivillur fyrirfram!",
+            "date": "2009-01-01 05:41:00",
+            "post_id": "191974",
+            "reply_to_id": "191969"
+        },
+        {
+            "user_name": "emmi",
+            "text": "Hvernig eru cookie stillingarnar hjá ykkur á síðunni (í admin kerfinu) stilltar? Ef ég man rétt þá ætti að vera stilling sem heitir \"Cookie Domain\" og þar væri best að setja \".vaktin.is\".",
+            "date": "2009-01-01 12:23:00",
+            "post_id": "191980",
+            "reply_to_id": "191974"
+        },
+        {
+            "user_name": "hallihg",
+            "text": "Lenti einmitt í þessu eftir að ég setti upp firefox í vinnunni. Ég hreinsaði bara cookies og endurræsti. Lagaðist þá.",
+            "date": "2009-01-01 13:08:00",
+            "post_id": "191981",
+            "reply_to_id": "191980"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Þetta virkaði! Var reyndar búinn að reyna að taka bara út cookies fyrir Vaktina og endurræsa svo en það virkaði ekki, svo ég henti bara öllum út og þá lagaðist þetta \nTakk fyrir ábendinguna.",
+            "date": "2009-01-01 19:55:00",
+            "post_id": "192028",
+            "reply_to_id": "191981"
+        }
+    ],
+    "date": "2008-12-31 23:48:00"
+}

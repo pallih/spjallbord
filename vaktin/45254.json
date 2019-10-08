@@ -1,0 +1,107 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "45254",
+    "title": "SSD drive að fá lélegt score í crystaldiskmark.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=45254",
+    "posts": [
+        {
+            "user_name": "cure",
+            "text": "hæ er með þenann SSD \nhttp://www.mushkin.com/Digital-Storage/ ... R60GB.aspx\n og þetta er útkomman úr crystaldiskmark \nhttp://i43.tinypic.com/2mpkgf9.png\n er þetta allveg eðlilegt eða er þetta í ruglinu hjá mér ??",
+            "date": "2012-01-31 10:32:00",
+            "post_id": "417208",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Þetta er ekki eðlilegt nei, ertu pottþétt með diskastýringuna stillta á AHCI?",
+            "date": "2012-01-31 10:40:00",
+            "post_id": "417209",
+            "reply_to_id": "417208"
+        },
+        {
+            "user_name": "cure",
+            "text": "hæ jámm gerði það ég fór eftir þessum leiðbeiningum \nConnect the SSD to the first black SATA port labelled SATA3_0. That's the bottom port furthest away from the RAM Slots\nIn BIOS under Integrated Peripherals set OnChip SATA Type to AHCI and OnChip SATA Port 4/5 Type to As SATA Type.",
+            "date": "2012-01-31 10:48:00",
+            "post_id": "417212",
+            "reply_to_id": "417209"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Þá veit ég ekki hvað veldur þessum slappa hraða, þú ættir að vera að sjá allavega rúmlega 400MB/s",
+            "date": "2012-01-31 10:57:00",
+            "post_id": "417213",
+            "reply_to_id": "417212"
+        },
+        {
+            "user_name": "cure",
+            "text": "Ekki ég heldur   \n \nhttp://forum.giga-byte.co.uk/index.php?topic=5704.0\n þessi gaur er allveg búinn að stútera þetta móðurborð og hann talar þarna um einhverja AMD AHCI Driver og Marvell SATA Controller with Microsoft AHCI driver.",
+            "date": "2012-01-31 11:00:00",
+            "post_id": "417215",
+            "reply_to_id": "417213"
+        },
+        {
+            "user_name": "Joi_BASSi!",
+            "text": "ég er nokkuð viss um að cristal disk mark sé ekki SSD optimized.\nprófaðu önnur benchmörk sem að virka fyrir SSD diska.",
+            "date": "2012-01-31 11:46:00",
+            "post_id": "417227",
+            "reply_to_id": "417215"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Skellti þessu í gang á mínum Crucial M4 og fékk rúmlega 450MB/s, svo ég held að þetta eigi nú að virka fyrir flesta diska",
+            "date": "2012-01-31 11:49:00",
+            "post_id": "417228",
+            "reply_to_id": "417227"
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "ég er með allt í botni að folda+torrent+firefox+msn+ thunderbird og gerði testið með allt í gangi\nAnnars eru yfirleitt flottari tölur í ATTO testinu",
+            "date": "2012-01-31 13:09:00",
+            "post_id": "417239",
+            "reply_to_id": "417228"
+        },
+        {
+            "user_name": "AndriThor",
+            "text": "Ef þú ferð í File ---> Test data og velur (0 Fill) í CrystalDiskMark færðu töluvert hærra score.",
+            "date": "2012-01-31 15:04:00",
+            "post_id": "417279",
+            "reply_to_id": "417239"
+        },
+        {
+            "user_name": "playman",
+            "text": "getur verið driver vandamál hjá þér.\ntjekkaðu á þessum póst \nviewtopic.php?f=20&t=43707\nþar eru upplísingar um hverninn þú getur skift um driverinn.\nÞví miður er AMD í einhverju rugli með SSD drævera.",
+            "date": "2012-01-31 18:24:00",
+            "post_id": "417326",
+            "reply_to_id": "417279"
+        },
+        {
+            "user_name": "Nördaklessa",
+            "text": "ég fæ tölvuvert hærra score þegar ég breyti þessu.",
+            "date": "2012-01-31 19:29:00",
+            "post_id": "417350",
+            "reply_to_id": "417326"
+        },
+        {
+            "user_name": "Nördaklessa",
+            "text": "ég var nú að lesa í gær á einhverri bench síðu að AMD yfir höfuð er að skila minni afköstum þegar kemur að SSD og RAM, man ekki á hvaða síðu það var og hvernig þetta test var sett fram, er einhver hér sem getur útskýrt þetta ?  Eru amd bara ekki að gera sig sambandi við stuðning og drivera yfir höfuð?",
+            "date": "2012-02-01 18:04:00",
+            "post_id": "417611",
+            "reply_to_id": "417350"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "AMD er bara ekki að gera sig.\nFyrir utan Fusion örgjörvana sem eru að taka yfir netbook markaðinn af Intel Atom.  Þeir eru töff.",
+            "date": "2012-02-01 18:12:00",
+            "post_id": "417612",
+            "reply_to_id": "417611"
+        },
+        {
+            "user_name": "Nördaklessa",
+            "text": "já, AMD maður fær mikið fyrir peninginn þegar maður kaupir AMD Lappa í dag, en mér finnst þeir ættu að gefa sér meiri tíma fyrir vörur sínar, t.d grillað setuð í ýmsum tilfellum :/\nhttp://www.anandtech.com/show/5288/quan ... ptop-chips",
+            "date": "2012-02-01 18:32:00",
+            "post_id": "417615",
+            "reply_to_id": "417612"
+        }
+    ],
+    "date": "2012-01-31 10:32:00"
+}

@@ -1,0 +1,86 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "10078",
+    "title": "vera active á dc",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=10078",
+    "posts": [
+        {
+            "user_name": "zaiLex",
+            "text": "Ég er að reyna að vera active á dc og það er ekki virka eins og það hefur alltaf gert, ég er með dc++ 0,685 og er með stillt í \"direct connection\" í \"connection settings\" stillingunum í dc. Portin sem ég nota eru 2412 í bæði udp og tcp og ip talan sem ég nota er ip talan sem ég finn á \nhttp://www.myip.is\n, ég er búinn að prófa að opna fyrir portin 2412 í speedtouch 585 routernum í gegnum \"Toolbox\" -> \"Game & Application Sharing\" með því að búa til nýtt application sem ég skýrði bara \"dcplusplus\" og stillti inn 2412-2412 í sem any, eða bæði udp og tcp, búinn að prófa bæði, og stillti mína tölvu á að nota \"dcplusplus\". Í gegnum windows firewall er dcplusplus leyft forrit og 2412 opnað fyrir bæði í tcp og udp, líka búinn að prófa að taka firewallinn bara algjörlega af með því að stilla á \"off\" í general og og haka úr local area connection í advanced. Á maður að stilla portin í speedtouch sem 2400-2420 eða 2400-2500 eða þarf maður nokkuð að gefa það yfir höfuð þegar firewall er hvortsemer disabled í routernum? Ég hef alltaf haft \"Internet Connection\" icon í Network Connections í windows þar sem ég gat opnað fyrir port, en núna er þetta icon ekki lengur þarna eftir format, hvernig fæ ég þetta icon ef það er svo must að stilla þetta þarna.\n\n [/i]",
+            "date": "2006-02-18 23:49:00",
+            "post_id": "109465",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "@Arinn@",
+            "text": "Þetta er vitlaus ip tala verður að fara í command prompt og skrifa ipconfig og þar sérðu ip adress það er ip talan.",
+            "date": "2006-02-19 00:08:00",
+            "post_id": "109467",
+            "reply_to_id": "109465"
+        },
+        {
+            "user_name": "mjamja",
+            "text": "nei það sem er á my ip.is er talan sem u átt að nota. Ertu viss um að þú sért búinn að opna port á eldveggnum í routernum?",
+            "date": "2006-02-19 00:57:00",
+            "post_id": "109476",
+            "reply_to_id": "109467"
+        },
+        {
+            "user_name": "@Arinn@",
+            "text": "já sorry hélt að hann væri að meina portið í routernum",
+            "date": "2006-02-19 01:03:00",
+            "post_id": "109478",
+            "reply_to_id": "109476"
+        },
+        {
+            "user_name": "zaiLex",
+            "text": "jebb ég gerði það eins og stendur að ofan, bjó til forrit sem ég segji hvaða port notar, í því tilfelli 2412 og síðan \"assigna\" því ég því á minn user. Þannig virkar það á þessu speedtouch 585 drasli frá símanum sem á að vera svo notendavænt en veldur í rauninni bara höfuðverk.",
+            "date": "2006-02-19 02:00:00",
+            "post_id": "109489",
+            "reply_to_id": "109478"
+        },
+        {
+            "user_name": "mjamja",
+            "text": "hmm spúkí... ertu með einhverja fleiri eldveggi? ertu með norton eða mcafee?",
+            "date": "2006-02-19 02:35:00",
+            "post_id": "109490",
+            "reply_to_id": "109489"
+        },
+        {
+            "user_name": "Rusty",
+            "text": "huh?\n\n\n\neinnig, með einhverja eldveggi eða vírusvarnir með \"internet protection\"?",
+            "date": "2006-02-19 11:56:00",
+            "post_id": "109501",
+            "reply_to_id": "109490"
+        },
+        {
+            "user_name": "zaiLex",
+            "text": "að búa til nýtt forrit meina ég með að ég gerði \"create new game or application\" í game & application sharing í routernum. \n\n\n\nÉg er ekki með neinn eldvegg installaðann.",
+            "date": "2006-02-19 15:08:00",
+            "post_id": "109539",
+            "reply_to_id": "109501"
+        },
+        {
+            "user_name": "DoRi-",
+            "text": "mig minnir að 585 sé með opið port fyrir mest allt \n\n\n\n\nég þekki líka til þess að þegar ég er að setja upp eitthvað forrit sem þaqrfnast þess að opna port, þá opnast það bara, án minnar vitundar.",
+            "date": "2006-02-19 15:12:00",
+            "post_id": "109540",
+            "reply_to_id": "109539"
+        },
+        {
+            "user_name": "Andri Fannar",
+            "text": "UPnP Kallast það.\n\nEn web iface-ið í st585 er gallað.\n\nMæli með telnet 192.168.1.254, það virkaði hjá mér.",
+            "date": "2006-02-20 14:50:00",
+            "post_id": "109733",
+            "reply_to_id": "109540"
+        },
+        {
+            "user_name": "zaiLex",
+            "text": "þetta var víst version galli, ég var með 0.685 en uppfærði í 0.686 þá lagaðist þetta strax.",
+            "date": "2006-02-20 16:44:00",
+            "post_id": "109760",
+            "reply_to_id": "109733"
+        }
+    ],
+    "date": "2006-02-18 23:49:00"
+}

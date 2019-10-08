@@ -1,0 +1,86 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "20356",
+    "title": "Að browse'a í gegnum aðra tölvu?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=20356",
+    "posts": [
+        {
+            "user_name": "GTi",
+            "text": "Er það mögulegt að þegar ég er í vinnunni, að tengjast tölvunni heima og browse'a síður sem eru lokaðar í vinnunni þar í gegn?\nÁn þess að setja upp einhver forrit. \nÞ.e.a.s. bara í gegnum Internet Explorer?",
+            "date": "2008-12-06 15:49:00",
+            "post_id": "189075",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "http://www.hidemyass.com\n virkar ekkert í þessu tilfelli er það?",
+            "date": "2008-12-06 15:57:00",
+            "post_id": "189076",
+            "reply_to_id": "189075"
+        },
+        {
+            "user_name": "benregn",
+            "text": "Þú getur notað LogMeIn.com",
+            "date": "2008-12-06 16:16:00",
+            "post_id": "189077",
+            "reply_to_id": "189076"
+        },
+        {
+            "user_name": "GTi",
+            "text": "Ég athuga þetta þegar ég mæti í vinnuna. Ef að þeir eru ekki þegar búnir að blocka þessa síðu.",
+            "date": "2008-12-06 16:26:00",
+            "post_id": "189078",
+            "reply_to_id": "189077"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Hvar vinnuru??",
+            "date": "2008-12-06 16:27:00",
+            "post_id": "189079",
+            "reply_to_id": "189078"
+        },
+        {
+            "user_name": "urban",
+            "text": "en að nota bara remote desktop ?",
+            "date": "2008-12-06 16:30:00",
+            "post_id": "189080",
+            "reply_to_id": "189079"
+        },
+        {
+            "user_name": "Dagur",
+            "text": "Ef þú er með ssh server á tölvunni sem þú vilt beina tenginunni i gegnum þá getur þú gert eftirfarandi á vinnutölvunni:\nssh -D1234 tolvan.þín.heima\nog sett localhost:1234 sem proxy í browsernum þínum.\nÍ bónus þá er tengingin líka dulkóðuð.",
+            "date": "2008-12-06 17:13:00",
+            "post_id": "189086",
+            "reply_to_id": "189080"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Þetta er ein besta lausnin!\nGetur með þessu móti tunnelað traffík ekki bara frá vafranum heldur líka notað t.d. ftp, irc, im forrit...",
+            "date": "2008-12-07 22:17:00",
+            "post_id": "189186",
+            "reply_to_id": "189086"
+        },
+        {
+            "user_name": "Zorba",
+            "text": "Já þetta er mjög þæginleg lausn, nota hana sjálfur\nSvo er einnig hægt að tunnela VNC í gegnum ssh ef þú endilega vilt",
+            "date": "2008-12-09 11:15:00",
+            "post_id": "189336",
+            "reply_to_id": "189186"
+        },
+        {
+            "user_name": "dezeGno",
+            "text": "Afsakið að ég skuli bumba gamlan þráð.. en hvar myndi ég setja inn ssh -D1234 ip.tala.a.vel ?\nEða er ég að ruglast? Set ég ekki ip á vélinni sem ég vil nota?",
+            "date": "2009-01-10 22:48:00",
+            "post_id": "193370",
+            "reply_to_id": "189336"
+        },
+        {
+            "user_name": "Dagur",
+            "text": "Þú þarft að gera þessa skipun á vinnutölvunni þinni. Þú skrifar ip-töluna á tölvunni sem þú vilt beina umferðinni í gegnum (t.d. heima hjá þér).",
+            "date": "2009-01-12 15:40:00",
+            "post_id": "193601",
+            "reply_to_id": "193370"
+        }
+    ],
+    "date": "2008-12-06 15:49:00"
+}

@@ -1,0 +1,93 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "8094",
+    "title": "Vandræðiri  með widescreen upplausn í suse 9.2",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=8094",
+    "posts": [
+        {
+            "user_name": "ParaNoiD",
+            "text": "Ég er með Suse 9.2 , og er að keyra það á lappa sem hefur widescreen upplausn uppá 1280x800.\n\n\n\nÉg virðist ekki geta komið henni í gang og finn ekki driver fyrir skjáokrtið.\n\nSkjákortið er intel Extreme 2 og er hluti af Mitac 8050i fartölvu.\n\nMér er bara boðið uppá 1024x768\n\nÉg virðist ekki geta breytt upplausninni í configuration eða neinu öðru sem ég hef prufað.\n\n\n\nhafiði einhverja hugmynd hvernig ég gæti lagað þetta ?",
+            "date": "2005-04-26 22:04:00",
+            "post_id": "86522",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "viggib",
+            "text": "Sæll.\n\nErtu búinn að skoða intel.com?\n\nÞar eru Linux driverar.",
+            "date": "2005-04-27 09:41:00",
+            "post_id": "86554",
+            "reply_to_id": "86522"
+        },
+        {
+            "user_name": "ParaNoiD",
+            "text": "ég hef ekki fundið nothæfann linux driver þar nei",
+            "date": "2005-04-27 09:50:00",
+            "post_id": "86557",
+            "reply_to_id": "86554"
+        },
+        {
+            "user_name": "JReykdal",
+            "text": "gætir þurft að fara í config skrána og breyta drivernum í i810 og bæta svo við upplausninni fyrir framan hinar.",
+            "date": "2005-04-27 11:12:00",
+            "post_id": "86561",
+            "reply_to_id": "86557"
+        },
+        {
+            "user_name": "ParaNoiD",
+            "text": "hmm ... þarf einhvernveginn að fatta hvernig ég á að gera það hehe \n\n\n\n\nsvo að það sé alveg á hreinu þá er ég frekar mikill nýliði í Linux og fannst bara vel af sér vikið að koma því í það form sem það er núna , þrátt fyrir að þetta sé aðal vandamálið",
+            "date": "2005-04-27 11:59:00",
+            "post_id": "86568",
+            "reply_to_id": "86561"
+        },
+        {
+            "user_name": "viggib",
+            "text": "Sæll.\n\nÞað eru leiðbeiningar fyrir suse á intel.com",
+            "date": "2005-04-27 12:18:00",
+            "post_id": "86570",
+            "reply_to_id": "86568"
+        },
+        {
+            "user_name": "Gothiatek",
+            "text": "JReykdal er að tala um X config skránna, annaðhvort /etc/X11/xorg.conf eða /etc/X11/XFree86 (jafnvel /etc/X11/XFree86-4). Notaði xorg.conf ef hún er til staðar.\n\n\n\nÞar er að finna eitthvað í áttina við: \n\nKóði: \nVelja allt\nSection \"Device\"\nþar sem er að finna Driver. Prófaðu að breyta því í i810.\nUpplausninni getur þú breytt í sömu skrá undir\nKóði: \nVelja allt\nSection \"Screen\"\n  SubSection \"Display\"\n    Depth 24\n    Modes \"1280x800\" \"1024x768\" bla bla\n\n\n\n\nÞað er að sjálfsögðu að finna miklu fleira undir þessum \"Section\" en þetta er málið fyrir þig. Modes byrjar á upplausninni sem er listuð fyrst og síðan koll af kolli.\n\n\n\nSmá tips: Ef ekkert gengur prófaðu þá að skoða X log skránna undir /var/log/",
+            "date": "2005-04-28 11:21:00",
+            "post_id": "86672",
+            "reply_to_id": "86570"
+        },
+        {
+            "user_name": "ParaNoiD",
+            "text": "takk fyrir hjálpina , ég fer í að prufa þetta í kvöld",
+            "date": "2005-04-28 12:49:00",
+            "post_id": "86674",
+            "reply_to_id": "86672"
+        },
+        {
+            "user_name": "ParaNoiD",
+            "text": "þetta apparat segir bara að ég hafi ekki permission til að breyta þessum fæl\n\npffft",
+            "date": "2005-04-28 22:02:00",
+            "post_id": "86707",
+            "reply_to_id": "86674"
+        },
+        {
+            "user_name": "CraZy",
+            "text": "þarftu ekki bara ad logga þig sem locahost e-d (man ekki allveg hvad þetta hetir  \n )",
+            "date": "2005-04-28 22:42:00",
+            "post_id": "86713",
+            "reply_to_id": "86707"
+        },
+        {
+            "user_name": "ParaNoiD",
+            "text": "skrítna við þetta allt saman er að ´þegar ég logga mig inn sem root í gegnum console þá virka bara engin command\n\nget ekki opnað nein forrit eðpa neitt",
+            "date": "2005-04-28 22:49:00",
+            "post_id": "86715",
+            "reply_to_id": "86713"
+        },
+        {
+            "user_name": "ParaNoiD",
+            "text": "jæja ég gafst upp á SUSE í bili ,..... alltaf eitthvað bögg í gangi sem vönustu Linux menn skilja ekkert í.\n\n\n\nÞess vegna er ég að installa Fedora núna , Wish me luck",
+            "date": "2005-04-29 21:04:00",
+            "post_id": "86759",
+            "reply_to_id": "86715"
+        }
+    ],
+    "date": "2005-04-26 22:04:00"
+}

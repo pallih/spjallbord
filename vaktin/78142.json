@@ -1,0 +1,100 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "78142",
+    "title": "IKEA Trådfri remote með SmartThings?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=78142",
+    "posts": [
+        {
+            "user_name": "Sallarólegur",
+            "text": "Hefur einhver komið IKEA Trådfri 5 button remote í gang með SmartThings?\nVar að reyna að græja eitthvað \"Developer\" dót sem ég fann með smá Googli, þar sem þessi fjarstýring er ekki studd.\nhttps://raw.githubusercontent.com/RichM ... ote.groovy\nHinsvegar get ég alls ekki opnað Developer mode í Smartthings appinu, ef ég held inni \"Um SmartThings\" í Stillingum í SmartThings appinu (iOS) þá gerist ekki neitt.\nAppið er fast á íslensku og það er engin leið að breyta því, það er eins og það sé harðkóðað í Apple ID-ið mitt að Smartthings appið sé á íslensku. Þó ég breyti yfir í UK store, eyði appinu, noti UK VPN, reinstall af App Store skiptir engu. Er bara læstur í íslenska appinu.\nNæ samt alveg að skrá mig inn á UK SmartThings notandann minn og bæta höbbnum við með íslenska appinu, og það virkar eins og ég sé með UK notanda. Bara get ekki opnað Developer Mode.\nEdit: Kom appinu loksins yfir á ensku með því að taka út \"Íslenska\" sem preferred language inní Region settings í iOS. Breytir engu, sama hvað ég held inni lengi, get ég ekki með neinu móti virkjað Developer Mode.\nSendi póst á Samsung, bíð eftir svari.",
+            "date": "2019-01-02 14:49:00",
+            "post_id": "682838",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "kjartanbj",
+            "text": "Þú verður að logga þig inn á smartthings ide \nhttps://graph.api.smartthings.com/\nég hef reynt þetta en aldrei fengið til að virka þessar fjarstýringar",
+            "date": "2019-01-02 19:36:00",
+            "post_id": "682854",
+            "reply_to_id": "682838"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Fékk svar frá Samsung, sögðu mér að longpressa í 20 sek, virkaði  \n Góð þjónusta við þetta.\nEr búinn að Raðgoogla þetta, það er ekki séns að fá þetta til að virka eins og er.\nSynd, vegna þess að ST Button (UK) kostar 5.000 - 10.000 kr.",
+            "date": "2019-01-02 20:40:00",
+            "post_id": "682857",
+            "reply_to_id": "682854"
+        },
+        {
+            "user_name": "kjartanbj",
+            "text": "Ég pantaði bara Xiaomi Aqara takka af Aliexpress og nota þá, smá mál að tengja þá við, en eftir það virka þeir fínt",
+            "date": "2019-01-02 21:18:00",
+            "post_id": "682862",
+            "reply_to_id": "682857"
+        },
+        {
+            "user_name": "Blues-",
+            "text": "Sama hér .. Xiami vörurnar eru ekki bara falleg hönnun, heldur líka fáranlega ódýr og það sem meira er .. \nþetta eru gæðavörur.  Og þær virka fínt með ST.\nEr með Xiaomi contact skynjara, hreyfiskynjara, hitaskynjara, takka, hristiskynjara.   Allir virka vel.",
+            "date": "2019-01-02 23:57:00",
+            "post_id": "682866",
+            "reply_to_id": "682862"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Eruð þið að nota þetta?\nhttps://github.com/bspranger/Xiaomi\n < > \nhttps://community.smartthings.com/t/113253",
+            "date": "2019-01-03 10:56:00",
+            "post_id": "682873",
+            "reply_to_id": "682866"
+        },
+        {
+            "user_name": "Blues-",
+            "text": "Já er að nota þessa device handlera frá Bspranger",
+            "date": "2019-01-03 12:54:00",
+            "post_id": "682874",
+            "reply_to_id": "682873"
+        },
+        {
+            "user_name": "marinop",
+            "text": "Í hvað notaru hristiskynjarana?",
+            "date": "2019-01-06 03:17:00",
+            "post_id": "683048",
+            "reply_to_id": "682874"
+        },
+        {
+            "user_name": "Blues-",
+            "text": "Er að nota hristi / höggskynjara í snjallvæða þvottavél og þurrkara ..\nFylgist með hristingi og reikna út hvenær vélarnar eru búnar.\nEinnig er hægt að nota þetta sem höggskynjara á gler, eða sem bankskynjara á hurðar.",
+            "date": "2019-01-07 08:48:00",
+            "post_id": "683095",
+            "reply_to_id": "683048"
+        },
+        {
+            "user_name": "worghal",
+            "text": "verð að viðurkenna að þetta er snilld til að fylgjast með þvotti.",
+            "date": "2019-01-07 09:30:00",
+            "post_id": "683097",
+            "reply_to_id": "683095"
+        },
+        {
+            "user_name": "marinop",
+            "text": "Algjörlega sammála.  Ég hef séð lausnir sem gera þetta, en þær krefjast þess alltaf að ég sé að keyra minn eigin node server eða slíkt.  Ert þú að gera það Blues- ?",
+            "date": "2019-01-07 15:25:00",
+            "post_id": "683112",
+            "reply_to_id": "683097"
+        },
+        {
+            "user_name": "Blues-",
+            "text": "@maronop\nÉg er að nota webcore til að útfæra þetta > \nhttps://www.webcore.co/\nWebCore er must til að útfæra flóknari rútínur.\nTd. fer skynjarinn á þvottavélinni uppfyrir ákveðið \"Vibration Level\" þegar hún er á lokavindunni ..\nþá er alltaf < 9 mín eftir.\nEr líka að keyra nodejs server fyrir harmony brúnna ásamt fleirum smartthings \"brúum\"en það þarf ekkert node app til að útfæra þetta.\nÞað væri alveig gaman við tækifæri að athuga hvort það væri einhver áhugi á \"meetup\" þar sem menn geta hist í reallife yfir öllara og borið saman bækur sínar og spjallað um þetta",
+            "date": "2019-01-07 16:20:00",
+            "post_id": "683117",
+            "reply_to_id": "683112"
+        },
+        {
+            "user_name": "marinop",
+            "text": "Takk, ég skoða webcore!\n+1 á meetup",
+            "date": "2019-01-07 16:36:00",
+            "post_id": "683121",
+            "reply_to_id": "683117"
+        }
+    ],
+    "date": "2019-01-02 14:49:00"
+}

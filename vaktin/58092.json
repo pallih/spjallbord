@@ -1,0 +1,72 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "58092",
+    "title": "Ná í ip töluna af myip.is í gegnum terminal?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=58092",
+    "posts": [
+        {
+            "user_name": "Vaski",
+            "text": "Er ekki einhver búin að finna út úr því hvernig er hægt að ná í ip-töluna sína af myip.is í gegnum terminal, annað hvort með curl eða wget (eða einhverju öðrum leiðum).\nÉg veit að þetta er ekkert mál með því að nota erlendar þjónustur, t.d \nKóði: \nVelja allt\ncurl ifconfig.me/ip\n, en ég get ekki fyrir mitt litla líf fundið út úr þessu með myip.is\nLiggur ekki einhver á stuttri skiptum sem gerir þetta í terminal",
+            "date": "2013-11-09 13:07:00",
+            "post_id": "537030",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Smá hakk:\nKóði: \nVelja allt\ncurl -s myip.is | grep \"javascript:doCopy(\" | cut -d \"'\" -f2 | head -n1",
+            "date": "2013-11-09 13:26:00",
+            "post_id": "537038",
+            "reply_to_id": "537030"
+        },
+        {
+            "user_name": "Vaski",
+            "text": "hakk eða ekki, þetta virkar. Takk fyrir.",
+            "date": "2013-11-09 13:50:00",
+            "post_id": "537047",
+            "reply_to_id": "537038"
+        },
+        {
+            "user_name": "hfwf",
+            "text": "ef þú ert með links t.d þá bara links myip.is",
+            "date": "2013-11-09 13:59:00",
+            "post_id": "537049",
+            "reply_to_id": "537047"
+        },
+        {
+            "user_name": "Vaski",
+            "text": "Ætla að nota þetta t.d. í conky, þannig að það er betra að ná í upplýsingarnar með því að nota wget og klippa á réttum stað.\nEn mikið er links slæmt nafn á vafra til að google hann, viss fyrst ekki að þetta væri terminal vafri og googlaði eitthvað um linux og links og fékk náttúrlega helling af slóðum þar sem er verið að útskýra hard/soft links í linux",
+            "date": "2013-11-09 14:42:00",
+            "post_id": "537058",
+            "reply_to_id": "537049"
+        },
+        {
+            "user_name": "hfwf",
+            "text": "Já smá óhentugt nafn, eins og margt í linux",
+            "date": "2013-11-09 14:54:00",
+            "post_id": "537059",
+            "reply_to_id": "537058"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Afhverju þarftu þetta frá myip.is frekar en ifconfig.me ?",
+            "date": "2013-11-09 15:27:00",
+            "post_id": "537064",
+            "reply_to_id": "537059"
+        },
+        {
+            "user_name": "Vaski",
+            "text": "Vill geta borið saman ip hér á landi og t.d. við ifconfig.me, út af vpn þjónustu.",
+            "date": "2013-11-09 16:33:00",
+            "post_id": "537076",
+            "reply_to_id": "537064"
+        },
+        {
+            "user_name": "freeky",
+            "text": "Gætir notað Powershell (þarf að vera minnst Powershell 3.0 / Windows 8 og nýrra er með powershell 3.0)\nMyip.is neitar reyndar en myip.com virkar fínt\nopnar powershell eða opnar powershell í cmd (skrifar í cmd powershell og ENTER)\n((Invoke-WebRequest -Uri \"myip.com\").content -split \"`n\") | Select-String -Pattern \"Client_IP:\" \n(Invoke-WebRequest -Uri \"myip.com\").content \n   > Sækir innihald síðunnar\n-split \"`n\"         \n                                                 > Skiptir niður í línur\n| Select-String -Pattern \"Client_IP:\"\n                    > Leitar að \"Client_IP:\"\nÞað er hugsanlega betri leið að finna þetta.",
+            "date": "2013-11-21 19:25:00",
+            "post_id": "538748",
+            "reply_to_id": "537076"
+        }
+    ],
+    "date": "2013-11-09 13:07:00"
+}

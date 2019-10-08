@@ -1,0 +1,30 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "19965",
+    "title": "64-bit OS",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=19965",
+    "posts": [
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Hvað þarf maður öflugan vélbúnað til að runna 64-bit stýrikerfi??",
+            "date": "2008-11-07 09:13:00",
+            "post_id": "186535",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Allinn",
+            "text": "Held bara örgjörva sem supportar 64-bit og gott minni.\nhttp://en.wikipedia.org/wiki/64-bit",
+            "date": "2008-11-07 10:46:00",
+            "post_id": "186539",
+            "reply_to_id": "186535"
+        },
+        {
+            "user_name": "Matti21",
+            "text": "Hefur rosalega lítið með afl að gera bara hvort að örgjörvinn styðji 64-bit eða ekki.\nIntel Core 2 línan er öll með 64-bita stuðning og AMD hafa verið með 64-bita stuðning síðan athlon 64 (einhverjir pentium 4 voru líka 64-bita).\nÞarft bara að athuga hvort að það séu til 64-bita driverar fyrir restina af vélbúnaðinum þínum og hvort þau forrit sem þú notar styðji 64-bita stýrikerfi.",
+            "date": "2008-11-07 10:54:00",
+            "post_id": "186540",
+            "reply_to_id": "186539"
+        }
+    ],
+    "date": "2008-11-07 09:13:00"
+}

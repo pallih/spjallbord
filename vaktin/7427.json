@@ -1,0 +1,93 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "7427",
+    "title": "Flush ARP Cache vandamál",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=7427",
+    "posts": [
+        {
+            "user_name": "Andri Fannar",
+            "text": "Já hæ!\n\n\n\nEr með USB þráðlaust netkort, og þegar ég geri Repair, þá fæ ég alltaf að hún geti ekki \"FLushað Arp Cache\" \n\n\n\nHvað get ég gert?\n\nÞetta er í \"server\" vél og já ég veit að usb er ekkert neitt stable en samt  \n\n\n\n\nÉg næ ekki að tengjast henni eftir að þetta gerist....og áður  \n\n\n\n\nBúinn að restarta oft!",
+            "date": "2005-02-13 18:32:00",
+            "post_id": "78778",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "arp -d (iptala)\n\n\n\n\n\ní cmd\n\n\n\n\n\nog ég ætla rétt að vona að þú hafir réttu driverana fyrir þetta kort.\n\n\n\n\n\n- það má aldrei hot swappa netkortum.\n\n\n\n\n\n\n\nEÐA...\n\n\n\nnetsh interface ip delete arpcache\n\n\n\narp -a\n\narp -g\n\n....\n\n\n\n\n\nOG ef það virkar ekki \n\n\n\nhttp://www.sixdifferentways.com/archives/007675.html\n\n\n\n\nLestu þetta þá",
+            "date": "2005-02-13 19:07:00",
+            "post_id": "78782",
+            "reply_to_id": "78778"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "ARP cache er tafla sem að tölvan heldur um IP tölur og samsvarandi MAC addressur.\n\n\n\nÉg veit ekki afhverju það virkar ekki að flush'a (hreinsa) ARP cache'ið hjá þér, en það gæti verið afþví að þú ert með USB netkort.\n\n\n\nErtu með rétta og nýjustu driver'a?\n\nÞú gætir prófað að leita í bæklingum/geisladisknum/heimasíðu framleiðandans og athuga hvort að það standi eitthvað um þetta vandamál.\n\n\n\nEf að þú vilt prófa að flush'a ARP cache „handvirkt“ geturðu farið í Command Line og prófað að skrifa \narp -a\n og þá ættirðu að fá ARP töfluna með MAC og IP addressum tölvna sem að þessi tölva hefur haft samskipti við. Síðan skaltu prófa að keyra \narp -d *\n til þess að hreinsa töfluna og síðan aftur \narp -a\n og tölvan ætti að segja af taflan sé tóm. Ef að eitthvað klikkar í þessu ferli máttu endilega segja hvað það er.\n\n\n\nÞannig að þú nærð s.s. aldrei að tengjast henni, óháð því hvort að þú ýtir á 'Repair' takkan?\nErtu búinn að prófa að restarta eða resetta netkortinu, eða er enginn svoleiðis fítus á því?",
+            "date": "2005-02-13 19:23:00",
+            "post_id": "78786",
+            "reply_to_id": "78782"
+        },
+        {
+            "user_name": "Andri Fannar",
+            "text": "Búinn að restarta netkortinu, er með réttu driverana , þetta virkaði en svo bara alltíeinu bang og bilað",
+            "date": "2005-02-13 19:26:00",
+            "post_id": "78788",
+            "reply_to_id": "78786"
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "ARP cache eru í raun shortcuts svo hún geti geymt ákveðnar ip tölur til að flýta fyrir.\n\n\n\nEEEEEEeeen\n\n\n\nMS menn settu bara limit 52 ip's í þetta ... lélegt, sérstaklega árið 2005  \n\n\n\n\n\n\n(mig minnir 52, ekki alveg viss.)",
+            "date": "2005-02-13 19:45:00",
+            "post_id": "78791",
+            "reply_to_id": "78788"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Hmm, ertu ekki að rugla ARP cache við DNS cache?\n\nDNS cache mappar domain name við IP tölur, en ARP cache mappar IP tölur við MAC addressur.\n\nÉg er oftast bara með eitt entry í ARP cachinu, routerinn minn",
+            "date": "2005-02-13 20:06:00",
+            "post_id": "78795",
+            "reply_to_id": "78791"
+        },
+        {
+            "user_name": "Andri Fannar",
+            "text": "Nei því miður virkaði þetta ekki",
+            "date": "2005-02-13 20:12:00",
+            "post_id": "78796",
+            "reply_to_id": "78795"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Hvað virkaði ekki?",
+            "date": "2005-02-13 20:22:00",
+            "post_id": "78798",
+            "reply_to_id": "78796"
+        },
+        {
+            "user_name": "Andri Fannar",
+            "text": "Þetta sem cendenz benti á, ég fæ ennþá sama error í repair",
+            "date": "2005-02-13 21:09:00",
+            "post_id": "78802",
+            "reply_to_id": "78798"
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "farðu í cmd og gerðu \n\n\n\n\n\nSCHTASKS /CREATE /SC MINUTE /MO 5 /TN ARPFLUSH /TR C:\\WINNT\\system32\\netsh\\interface\\ip\\delete\\arpcache\n\n\n\n\n\nþetta er ein lína.",
+            "date": "2005-02-13 21:29:00",
+            "post_id": "78806",
+            "reply_to_id": "78802"
+        },
+        {
+            "user_name": "natti",
+            "text": "Svamli: Það sem vekur áhuga minn hérna er ekki að þetta dót þitt nái ekki að gera hreinsa arp töfluna, heldur afhverju ertu að fara í \"repair\" á tengingunni til að byrja með? Hvað virkar ekki hjá þér nákvæmlega?\n\n\n\nCendenZ & MezzUP: Það skiptir engu máli þó þið bendið á 101 leið til þess að flusha/hreinsa arp töfluna. Vandamálið hans er ekki bundið við arp töfluna, heldur að eitthvað repair tól geti ekki gert það. Go to the root of the problem.",
+            "date": "2005-02-13 21:58:00",
+            "post_id": "78808",
+            "reply_to_id": "78806"
+        },
+        {
+            "user_name": "Andri Fannar",
+            "text": "natti; nei ég er með þetta vandamál í 800mhz laptop, ég kemst í firefox á netið, en næ ekki að connecta vélina, þaes tengjast bnc,vent server,www, en næ að pinga hana",
+            "date": "2005-02-13 22:13:00",
+            "post_id": "78810",
+            "reply_to_id": "78808"
+        }
+    ],
+    "date": "2005-02-13 18:32:00"
+}

@@ -1,0 +1,135 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "8265",
+    "title": "Tenging annarar tölvu við þessa sem er með ADSL innb. modem",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=8265",
+    "posts": [
+        {
+            "user_name": "Psychobsy",
+            "text": "er með 2 tölvur, önnur er svolítið gömul en þó með USB tengi, Hún er ekki með LAN tengi.\n\n\n\nEr hægt að fá local area connection á gömlu tölvuna úr þessari gegnum USB og USB ?\n\n\n\nEf ekki, Hvað ráðleggið þið mér?\n\n\n\nJá og auðvitað, Hvar er hægt að fá það ódýrast",
+            "date": "2005-05-14 21:18:00",
+            "post_id": "88830",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Le Drum",
+            "text": "Þú þyrftir að fá sérstakan usb kapal milli tölvanna.\n\n\n\nNú er bara spurning hvar",
+            "date": "2005-05-15 01:40:00",
+            "post_id": "88864",
+            "reply_to_id": "88830"
+        },
+        {
+            "user_name": "Le Drum",
+            "text": "Eða bara þetta:\n\n\n\nhttp://www.tolvuvirkni.net/ip?inc=view& ... T_USBETHER\n\n\n\n\nÞað er að segja ef hin tölvan er með netkorti.\n\n\n\nÞá bara nota crossover kapal á milli.",
+            "date": "2005-05-15 01:44:00",
+            "post_id": "88865",
+            "reply_to_id": "88864"
+        },
+        {
+            "user_name": "Psychobsy",
+            "text": "Tölvan er ekki með neinu modemi.\n\n\n\nHún er með einhverju hrægömlu móðurborði en samt eru 2 USB tengi.\n\n\n\nGætirðu bent mér á einhverja USB snúru sem getur flutt internet milli tölvna?",
+            "date": "2005-05-15 11:00:00",
+            "post_id": "88883",
+            "reply_to_id": "88865"
+        },
+        {
+            "user_name": "Le Drum",
+            "text": "Langbest sem væri hægt að gera er þá að setja einfaldlega netkort í báðar, ef gamla tölvan býður upp á það og nota einfaldlega crossover kapal á milli.\n\n\n\nEin leiðin er að nota USB2.0  TO 10/100 eins og ég benti á hér fyrir ofan, gamla móðurborð kannski býður ekki upp á að setja í hana netkort en sú nýrri sennilega. Þá tengirðu úr USB í gömlu í netkort í nýrri gripnum.\n\n\n\nUSB beint í USB er hægt ef í harðbakkann slær. Fann eitt hérna :\n\n\n\nhttp://www.computer.is/vorur/2881\n\n\n\n\nMæli samt mest með fyrsta sem ég taldi upp, netkort í báðar. Þó svo að móðurborðið sé gamalt ætti vera hægt að troða einu PCI netkorti í hana.",
+            "date": "2005-05-15 13:22:00",
+            "post_id": "88896",
+            "reply_to_id": "88883"
+        },
+        {
+            "user_name": "Psychobsy",
+            "text": "já takk, ég fékk nánari hjálp á irkinu og mér var einfaldlega sagt að annaðhvort láta heilaþvo mig eða fá mér modem í hina.. það r jú hægt .. held ég geri það bara...\n\n\n\nÞakkir.",
+            "date": "2005-05-15 15:44:00",
+            "post_id": "88910",
+            "reply_to_id": "88896"
+        },
+        {
+            "user_name": "Le Drum",
+            "text": "Þú getur ekki haft báðar tengdar samtímis ef þú ert með innbyggt adsl modem.\n\n\n\nEkki nema þá vera með tvær símalínur og ADSL á báðum.\n\n\n\nPS. til þess að koma í veg fyrir misskilning, þá er NETKORT ekki MODEM.",
+            "date": "2005-05-15 15:52:00",
+            "post_id": "88911",
+            "reply_to_id": "88910"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Ha? Hvað ætlarðu að gera við modem í hinni?",
+            "date": "2005-05-15 15:53:00",
+            "post_id": "88913",
+            "reply_to_id": "88911"
+        },
+        {
+            "user_name": "Psychobsy",
+            "text": "núúúú.. þannig ég þarf Router????",
+            "date": "2005-05-15 18:18:00",
+            "post_id": "88937",
+            "reply_to_id": "88913"
+        },
+        {
+            "user_name": "Le Drum",
+            "text": "Nei ekkert endilega að fá þér router, þú getur notað \"INTERNET CONNECTION SHARING\" og verið með báðar á netinu.\n\n\n\nTengt tölvu \"A\" við netið, með innbyggða ADSL modeminu sem þú ert með, síðan tengt tölvu \"B\" við \"A\".\n\n\n\nAnnað hvort með USB í USB, USB í NETKORT, eða sem er best NETKORT í NETKORT.\n\n\n\nÞarft ekkert endilega fjárfesta í router, nema þú endilega viljir.\n\n\n\nEn ef þú ætlar að vera með ADSL módem í báðum, þá gengur það ekki upp, nema vera með aðra tengda í einu.",
+            "date": "2005-05-15 18:25:00",
+            "post_id": "88939",
+            "reply_to_id": "88937"
+        },
+        {
+            "user_name": "Birkir",
+            "text": "Þetta skapar samt smá „vesen“, ef þú ferð þessa leið þá þarftu alltaf að vera með kveikt á tölvu A til að koma tölvu B á netið.",
+            "date": "2005-05-15 18:27:00",
+            "post_id": "88940",
+            "reply_to_id": "88939"
+        },
+        {
+            "user_name": "Le Drum",
+            "text": "Satt er það.",
+            "date": "2005-05-15 18:33:00",
+            "post_id": "88943",
+            "reply_to_id": "88940"
+        },
+        {
+            "user_name": "Psychobsy",
+            "text": "Þá færi ég bara original Modemið í Serverinn sem ég ætla að hafa.. og hef bara netkort í tölvuleikja vélinni minni \n\n\n\n\nÆtti það ekki að ganga?\n\n\n\nServerinn yrði þá auðvitað alltaf uppi...",
+            "date": "2005-05-15 22:36:00",
+            "post_id": "88978",
+            "reply_to_id": "88943"
+        },
+        {
+            "user_name": "Andri Fannar",
+            "text": "Jú. Það myndi ganga upp.",
+            "date": "2005-05-15 22:53:00",
+            "post_id": "88983",
+            "reply_to_id": "88978"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Jamm, þarft náttúrulega líka að hafa netkort í servernum til þess að tengjast í netkortið á tölvuleikjavélinni.",
+            "date": "2005-05-16 17:10:00",
+            "post_id": "89054",
+            "reply_to_id": "88983"
+        },
+        {
+            "user_name": "Psychobsy",
+            "text": "Já ætla að kaupa hjá Att.is, fæ allann pakkann og 2 metra snúru á 1500 \n\n\n\n\nGet lítt hvartað undan því",
+            "date": "2005-05-16 17:57:00",
+            "post_id": "89066",
+            "reply_to_id": "89054"
+        },
+        {
+            "user_name": "Psychobsy",
+            "text": "Kominn með þetta. Keypti Crossover snúru og Netkort.\n\n\n\nClick og click og ég var kominn á netið",
+            "date": "2005-05-23 19:30:00",
+            "post_id": "89642",
+            "reply_to_id": "89066"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Glæsilegt, til hamingju",
+            "date": "2005-05-23 19:44:00",
+            "post_id": "89652",
+            "reply_to_id": "89642"
+        }
+    ],
+    "date": "2005-05-14 21:18:00"
+}

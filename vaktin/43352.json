@@ -1,0 +1,65 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "43352",
+    "title": "Router replacement fyrir vodafone bewan boxið",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=43352",
+    "posts": [
+        {
+            "user_name": "Senko",
+            "text": "Þarf að losna mig við þennan vodafone bewan router sem er sí krassandi undir svo litlu sem engu álagi. Er fólk með einhverjar tilögur sem replacement, keyri 1-2 leikjatölvur harðtengdar, á 50mbit ljósi, væri nú ágætt ef routerinn væri með 100mbit capability ef maður mundi færa sig einhvert annað / vodafone upgradi hraðann.",
+            "date": "2011-11-21 22:00:00",
+            "post_id": "398013",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "TraustiSig",
+            "text": "https://www.okbeint.is/hpbeint/ui/vorur ... d=E1000-EN\nÁtt ekki eftir að sjá eftir þessu",
+            "date": "2011-11-21 22:21:00",
+            "post_id": "398026",
+            "reply_to_id": "398013"
+        },
+        {
+            "user_name": "Senko",
+            "text": "Takk fyrir það, lýst líka vel á E2000 módelið á þessum, spá í að splæsa mér í einn svoleiðis.\nEnn annars smá forvitni, er hægt að tengja tölvu beint í ljósleiðara boxið heima hjá manni, og vera net tengdur?",
+            "date": "2011-11-21 22:46:00",
+            "post_id": "398041",
+            "reply_to_id": "398026"
+        },
+        {
+            "user_name": "einarth",
+            "text": "Sæll.\nJá það er hægt, allt að 3 tæki geta verið tengt á sama tíma með 3 mismunandi ytri ip tölur - t.d. router+2 tölvur.\nAth þó að þegar þú tengir beint í ljósleiðarabox þá eru ekki bakvið neinn eldvegg heldur beintengdur við internetið. Þú þarft því að tryggja öryggi þitt í tölvunni sem þú tengir.\nEf þú ætlar að tengja tölvu svona beint þá tengir þú hana í port 1 eða 2 á netaðgangstækinu (ef tengja á 3 tæki þarf að tengja þau gegnum sviss).\nNæst þarftu að opna vafra á tölvunni og fara á \nhttp://skraning.gagnaveita.is\n og skrá þig inn. (user og pass eru skráð á afhendingarblað sem er afhent þegar ljósleiðarinn er tengdur).\nÁ þessari síðu getur þú sýslað með með hvaða mac address'ur eru skráðar, ef þú hefur aðeins verið að nota 1 eða 2 tæki þá dettar tölvan sjálfkrafa í listann. Ef þú hefur hinsvegar verið með 3 tæki einhverntíman tengd þá þarf að henda einni mac út og skrá svo þá nýju í staðinn.\nAð þessu loknu er nóg að renew'a ip tölu á tölvu eða endurræsa henni.\nKv, Einar\nStarfsmaður GR.",
+            "date": "2011-11-22 11:26:00",
+            "post_id": "398166",
+            "reply_to_id": "398041"
+        },
+        {
+            "user_name": "Vaski",
+            "text": "Er hægt að vera með tölvu og router tengd beint við ljósleiðarabox og í notkun á sama tíma? Sem sagt, tværi ip tölur í einu? Eða þarf þá að hafa tvo þjónustusaminga  \nÞetta er þannig hjá mér í dag að ef ég gæti losnað við netumferð einnar tölvu úr routernum að þá mundi hann vera nóg fyrir hin tækin, og því væri þetta frábær lausn ef það væri hægt að tengja hana beint við ljósleiðarboxið.\nkveðja,",
+            "date": "2011-11-22 11:41:00",
+            "post_id": "398170",
+            "reply_to_id": "398166"
+        },
+        {
+            "user_name": "einarth",
+            "text": "Já - 3 tölur á sama tíma, í notkun í einu, á einni áskrift.\nKv, Einar.",
+            "date": "2011-11-22 11:49:00",
+            "post_id": "398171",
+            "reply_to_id": "398170"
+        },
+        {
+            "user_name": "Senko",
+            "text": "Takk fyrir þetta, Einar",
+            "date": "2011-11-23 11:51:00",
+            "post_id": "398526",
+            "reply_to_id": "398171"
+        },
+        {
+            "user_name": "Senko",
+            "text": "Keypti mer Linksys Cisco E2000 routerinn,\nÁ ég ekki að vera kappaður í 50 hjá vodafone? Ekki að ég sé að kvarta",
+            "date": "2011-11-23 14:06:00",
+            "post_id": "398545",
+            "reply_to_id": "398526"
+        }
+    ],
+    "date": "2011-11-21 22:00:00"
+}

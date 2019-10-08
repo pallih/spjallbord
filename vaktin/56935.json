@@ -1,0 +1,296 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "56935",
+    "title": "Linux nýliði",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=56935",
+    "posts": [
+        {
+            "user_name": "benjamin3",
+            "text": "Sælir vaktarar.\nÉg ætla mér að setja linux á fartölvuna mína þar sem ég er í tölvunarfræði hjá HR og félagi minn sagði mér að það væri yndislegt í náminu.\nSpurningin er hvort ég ætti að hafa Dualboot, Virtual dót eða eyða windows algjörlega af vélinni og hafa bara Linux. \nSvo er það hvað maður ætti að nota. Ubuntu, Gnome, Mint Cinnamon voru þau sem ég er búinn að kíkja aðeins á.\nEn ég er algjör nýliði í þessu, hef alltaf verið í windows. Þigg alla hjálp og uppástungur frá ykkur sérfræðingunum.",
+            "date": "2013-09-03 01:40:00",
+            "post_id": "526823",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "kizi86",
+            "text": "ef alger byrjandi í linux, þá mæli ég með að formata alveg og hafa bara linux, og þá mæli ég sérstaklega með mint, ef ert með windows líka, og lendir í einhverjum vandræðum, þá eru miklar líkur á að hoppir bara yfir í windowsið í staðinn fyrir að laga vesenið sjálfur og læra af því, bara hoppa beint út í semidjúpu laugina",
+            "date": "2013-09-03 02:55:00",
+            "post_id": "526825",
+            "reply_to_id": "526823"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Ég var að notast við Fedora á virtual vél þegar ég var að fikta í C forritun það virkaði bara fínt (þetta var reyndar preconfigured vél sem ég sótti á Harvard Opencourse síðunni).\nhttps://manual.cs50.net/appliance/17/",
+            "date": "2013-09-03 08:33:00",
+            "post_id": "526832",
+            "reply_to_id": "526825"
+        },
+        {
+            "user_name": "Gislinn",
+            "text": "Ég byrjaði að nota linux í hásskólanum (fyrir um 7 árum síðan). Þá setti ég upp Dual-boot Windows og Ubuntu. Síðan þá hef ég unnið með Mint, Fedora, CentOS, Zorin OS (\nlinkur\n), Debian, Suse og allskonar útgáfur af þessum stýrikerfum. Í dag er ég með dual-boot windows og OpenSuse, fíla það kombó mjög vel en er ekki viss um að það sé sniðugast til að byrja á.\nÉg myndi mæla með að þú hafir dual-boot þar sem það er erfitt að notast eingöngu við Linux (þó ég viti ekki nákvæmlega hvernig það er í tölvunarfræðinni en þannig er það a.m.k. í verkfræðinni, ákveðin forrit sem eru ekki til á linux eða linux útgáfan af því forriti er drasl). Það sem er gott við að byrja á Ubuntu eða Mint er að það er mjög stórt community í kringum þau og því er auðvelt að nálgast upplýsingar um þessi stýrikerfi (þ.e. ef þú lendir í vandræðum þá er lausnin sennilega fundin með 1-2 google-um). Þá er maður nokkuð snöggur að læra basic hlutina og getur fljótlega fært þig yfir í betri stýrikerfi. Hinsvegar finnst mér Ubuntu vera skelfilega ljótt og leiðinlegt að costumiza það og það eru nokkrir mjög böggandi hlutir við Mint (t.d. network managerinn sem er óþolandi imo).",
+            "date": "2013-09-03 09:12:00",
+            "post_id": "526835",
+            "reply_to_id": "526832"
+        },
+        {
+            "user_name": "dori",
+            "text": "Allt virtual-eitthvað er vesen. Farðu dual boot leiðina, vertu bara með Windows uppsett og smelltu svo uppsetningardisk frá einhverjum af stóru dreifingunum í vélina og farðu vel eftir leiðbeiningunum. Það væri fínt að vera búinn að kynna sér hvernig það virkar að setja upp dual boot með því kerfi sem þú velur.\nÉg er ekki rosalega vel inní því hvað er best fyrir byrjendur á þessum \"markaði\" í dag. Sjálfur nota ég helst Debian eða dreifingar sem byggja á Debian. Mér finnst Ubuntu samt vera komnir útí smá rugl UX lega og fíla ekki þær ákvarðanir sem þeir taka fyrir hönd notenda (t.d. hey, þú ert að leita að einhverju skjali á tölvunni þinni, best að fletta leitarstrengnum upp á Amazon líka því að þú vilt það pottþétt - kannski er þetta farið út í dag en svona hlutir bögga mig, sérstaklega þegar þeir eru ekki opt-in).",
+            "date": "2013-09-03 09:39:00",
+            "post_id": "526841",
+            "reply_to_id": "526835"
+        },
+        {
+            "user_name": "cartman",
+            "text": "Ég myndi dual boota.\nÞegar ég var í tölvunarfræðinni í HR þá var mikið verið að nota Microsoft products í kennslunni. C# og þar af leiðandi Visual Studio og svo líka MSSQL Server og þess háttar.\nÞú gætir svo sem forritað í C# í Mono ef það er ennþá verið að kenna það og svo líka tengst remotely á einhvern mssql grunn en ég mæli frekar með því að dual boota bara.\nÉg myndi samt hafa Linux sem default operating system",
+            "date": "2013-09-03 09:45:00",
+            "post_id": "526843",
+            "reply_to_id": "526841"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Hvort langar þig að eyða fyrsta árinu þínu í skólanum í að læra á nýtt stýrikerfi, eða læra námsefnið? \nEndilega settu upp linux kerfi á einhverri tölvu (eða sem virtual vél inn á fartölvunni), en ég myndi ekki mæla með því að skipta um stýrikerfi svona uppúr þurru. Notaðu skólatímann í að læra skólalærdóm og frítímann í að læra á Linux. Ef þú ert svo hrifinn af linux notaðu það þá sem aðal stýrikerfið þitt.",
+            "date": "2013-09-03 09:45:00",
+            "post_id": "526844",
+            "reply_to_id": "526843"
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "Ég notaði ýmiss linux kerfi á virtual vél þegar ég var í HR til að fikta í. Mjög þæginlegt að nota virtualbox.\nÉg myndi allaveganna byrja á því að skella upp virtual vél.",
+            "date": "2013-09-03 09:59:00",
+            "post_id": "526847",
+            "reply_to_id": "526844"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "Ég hef prófað alla flóruna af Linux-kerfum og það sem ég byrjaði að nota fyrir 2vikum er það besta sem ég hef nokkurn tímann notað! Það er bara á öðru leveli og byggir á solid kerfi (Ubuntu 12.04).\nElementaryOS!",
+            "date": "2013-09-03 14:37:00",
+            "post_id": "526884",
+            "reply_to_id": "526847"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Var að formatta vélina og uppfæra í W8.1, ákvað að splitta disknum og smellti ElementaryOS upp í dual boot. Mind - blown. Aldrei verið jafn sáttur með linux distro out of the box, hef ekki lent í stöku driver issue-i, það virkar allt, 5Ghz support á WLAN, webcamið, batterý ending góð og auto cpu niðurklukkun virkar flott, e-ð sem hefur alls ekki virkað vel á öllum distro's hjá mér. Flott app sett sem kemur með, UI-ið er bjútífúl og vel uppsett. \nÆtli þetta sé the next big thing í Linux?",
+            "date": "2013-09-05 23:16:00",
+            "post_id": "527267",
+            "reply_to_id": "526884"
+        },
+        {
+            "user_name": "upg8",
+            "text": "Ef þetta yrði the next big thing þá kemur fljótlega \nCease and desist\n frá Apple.",
+            "date": "2013-09-05 23:29:00",
+            "post_id": "527269",
+            "reply_to_id": "527267"
+        },
+        {
+            "user_name": "dori",
+            "text": "Af því að þeir nota dock?",
+            "date": "2013-09-05 23:33:00",
+            "post_id": "527271",
+            "reply_to_id": "527269"
+        },
+        {
+            "user_name": "upg8",
+            "text": "Nei Elementary OS eru að herma eftir heildar útliti OS X á svo mörgum sviðum. Þetta er samt mjög flott distro og verður spennandi að fylgjast með þróun þess.",
+            "date": "2013-09-05 23:42:00",
+            "post_id": "527275",
+            "reply_to_id": "527271"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Er hægt að böggast út í open source hugbúnað á annaðborð, copycat eða ekki?",
+            "date": "2013-09-05 23:58:00",
+            "post_id": "527277",
+            "reply_to_id": "527275"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Mind you, megnið af því sem þú sérð í dag hjá OSX og Windows, kom fyrst í Linux, þám. dockan.",
+            "date": "2013-09-06 01:23:00",
+            "post_id": "527282",
+            "reply_to_id": "527277"
+        },
+        {
+            "user_name": "intenz",
+            "text": "EKKI hlusta á vin þinn. HR er svolítil Microsoft sjoppa.",
+            "date": "2013-09-06 23:24:00",
+            "post_id": "527410",
+            "reply_to_id": "527282"
+        },
+        {
+            "user_name": "trausti164",
+            "text": "Stökktu í djúpu laugina og prófaðu Arch eða Gentoo, kennir þér mun meira um kerfið heldur en ubuntu eða mint.\nEn ef að þú ert staðráðinn í að fara í aðeins auðveldari distro myndi ég velja Debian.",
+            "date": "2013-09-06 23:36:00",
+            "post_id": "527412",
+            "reply_to_id": "527410"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Mæli með Windows 8.1",
+            "date": "2013-09-06 23:48:00",
+            "post_id": "527417",
+            "reply_to_id": "527412"
+        },
+        {
+            "user_name": "trausti164",
+            "text": "Hann vill prófa linux, ekki halda sér í gamla winblows umhverfinu.",
+            "date": "2013-09-07 01:02:00",
+            "post_id": "527427",
+            "reply_to_id": "527417"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Versta hugmynd í heimi að prófa nýtt stýrikerfi þegar maður er nýbyrjaður í háskóla. \nSent from my GT-I9300 using Tapatalk 4",
+            "date": "2013-09-07 03:21:00",
+            "post_id": "527441",
+            "reply_to_id": "527427"
+        },
+        {
+            "user_name": "trausti164",
+            "text": "Breytir því ekki að hann spurði ekki um þetta.",
+            "date": "2013-09-07 09:51:00",
+            "post_id": "527452",
+            "reply_to_id": "527441"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Þá er um að gera að beina honum inn á beinu brautina.\n@benjamin3 Ef þú vilt læra á Linux myndi ég ráðleggja þér að setja upp Ubuntu server heima hjá þér í virtual vél og nota PuTTY til að leika þér og prófa þig áfram. Ég gerði það.\nHR er svolítið Microsoft-miðaður skóli (þó það sé verið að breyta því núna með tilkomu UNIX áfanga á fyrstu önn), þá er Microsoft samt í hávegum haft. Ég reyndi að fara hjáleiðina fyrst til að byrja með, þ.e. installaði Mono í staðinn fyrir Visual Studio og CodeBlocks fyrir C++. Ég sá fljótt eftir því, þar sem kennararnir gátu oft á tíðum ekki keyrt verkefni frá mér og svoleiðis vesen. Ég ákvað því bara að láta mig hafa það og setti Visual Studio upp hjá mér. Ég sé sko engan veginn eftir því. Visual Studio er það besta sem hefur komið frá Microsoft.",
+            "date": "2013-09-07 13:52:00",
+            "post_id": "527483",
+            "reply_to_id": "527452"
+        },
+        {
+            "user_name": "yrq",
+            "text": "Einnig eru áfangar sem eingöngu nota microsoft hluti. T.d. vefforritun, gagnasafnsfræði, fyrsti þriggja vikna áfanginn og afköst gagnasafnskerfa.\nMæli með win8.1 og að nota nákvæmlega það sem kennararnir nota.\nSent from my GT-I9100 using Tapatalk 2",
+            "date": "2013-09-07 14:08:00",
+            "post_id": "527485",
+            "reply_to_id": "527483"
+        },
+        {
+            "user_name": "hkr",
+            "text": "Er ekki alveg að átta mig á því hvernig vefforitun og gagnasafnsfræði nota eingöngu MS hluti.",
+            "date": "2013-09-07 14:46:00",
+            "post_id": "527493",
+            "reply_to_id": "527485"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Vefforritun = ASP.NET MVC\nGagnasafnsfræði = SQL Server",
+            "date": "2013-09-07 14:52:00",
+            "post_id": "527495",
+            "reply_to_id": "527493"
+        },
+        {
+            "user_name": "benjamin3",
+            "text": "Jæja ég er að setja upp virtual box ubuntu í borðtölvunni bara, sé hvernig það fer áður en ég fer eitthvað lengra með þetta.\nEr svo með eldgamla fartölvu sem ég heyrði að linux gæti gert use-able aftur svo að ég býst við því að ég prófi mig áfram í því.\nEn já það er örugglega ekkert alltof góð hugmynd að vera að ströggla við nýtt stýrikerfi þegar maður er nýbyrjaður í háskóla. Svo ég sleppi því að setja þetta upp í skólafartölvunni í bili.\nÉg mun samt prófa mig áfram í þessu í frítíma mínum á borðtölvunni. \nÞakka svörin strákar, þið eruð snillingar.",
+            "date": "2013-09-07 18:07:00",
+            "post_id": "527515",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "hfwf",
+            "text": "Fyrir mig, þá prufað ég slackware fyrst, svo redhat, svo var stungið upp á mig við Gentoo og þar er það sem ég lærði mest. í dag keyri ég bara á servervélinni, ARch eftir að hafa verið stungið upp á því við mig.  En það er frekar svipað kerfi. Frá mér þá sting ég upp á að henda þér í djúpulaugina og fara í compile kerfi eins og gentoo  ,  ég allavega lærði mest á því.",
+            "date": "2013-09-07 23:36:00",
+            "post_id": "527542",
+            "reply_to_id": "527515"
+        },
+        {
+            "user_name": "trausti164",
+            "text": "X2",
+            "date": "2013-09-08 00:01:00",
+            "post_id": "527546",
+            "reply_to_id": "527542"
+        },
+        {
+            "user_name": "Skrekkur",
+            "text": "Ég gerði þau mistök að setja upp gentoo sem eitt af mínum fyrstu stýrikerfum... 90% af tímanum er maður að compila eitthvað. En það er rétt HR notar mikið windows only stuff, þannig að dual boot eða virtual machine er það eina sem virkar. \nSvo fer það soldið eftir hvað þú ert að leitast við að læra/nota, öll distró er með öfluga skel. en sum eru auðveldari en önnur varðandi drivers og fleira.. þó ég hafi gert það þá finnst mér ekkert sérstaklega skemmtilegt að glíma við allskonar leiðindar distro-specific issues td með drivera ofl, veit ekki hvað þú getur notað þann lærdóm í... uppá usability lookar elementary os mjög vel, enda mjög nálægt os x. hef samt ekki testað það, annars er ubuntu alltaf klassíker þó þeir hafi farið óvinsælar leiðir undanfarið",
+            "date": "2013-09-08 00:13:00",
+            "post_id": "527549",
+            "reply_to_id": "527546"
+        },
+        {
+            "user_name": "Swanmark",
+            "text": "Held að ubuntu sé alltaf bara most basic. :p\n.. eða þetta mint dæmi.",
+            "date": "2013-09-08 02:27:00",
+            "post_id": "527563",
+            "reply_to_id": "527549"
+        },
+        {
+            "user_name": "svennidal",
+            "text": "Get klárlega mælt með ubuntu, mint, lubuntu, debian og fedora.\nÁ meðan það eru enþá kennarar frá Advania að kenna í HR að þá verða áfram einhverjir áfangar windows miðaðir.\nÉg er á þriðju önn og mín reynsla er búin að vera þessi: Því fyrr sem þú setur upp linux því betra.\nÁ fyrstu önn ferðu í tölvuhögun. Þar er allt unnið á skel. Þá er 10 sinnum betra að vera með ekki windows. Apple og linux eru með native ssh og scp. Og putty er mesti harmur í heimi. Putty er ógeðslegt.\nÁ fyrstu önn er líka forritun 1. Þar er mega sniðugt að byrja strax að djöflast í vim, valgrind og gdb og nota g++. Því betri sem þú ert í þessu því auðveldari verður gagnaskipan á annari önn(erfiðasti áfanginn á annari önn).\nÞað er ekki einn áfangi þarna sem er betra að vera með windows vél í.\nÖnnur önn. Búinn að nefna gagnaskipan.\nVefforitun á annari önn er því miður ekki open source né cross platform. En hún kennir MVC pælinguna sem er td notuð í java framework, ruby og eiginlega semí django líka minnir mig. Ekki fara út í mono. Mono er viðbjóður. Mono er það fyrir ASP.NOT sem putty er fyrir skel. Visual Studio er skrímsli sem  þarf stundum að restarta, en það er nokkuð þétt IDE(margir segja með besta debugger íheimi). Fyrir mörgum árum, þegar ASP.NET MVC frameworkið og VS frelsuðu devs undan php, sóru margir þess eið að líta aldrei aftur. Né fram á við greinilega líka. \nÉg held að skólinn hafi engan vegin frjálsar hendur um að droppa ASP, en það er svosem í fínu lagi. Það er mjög mikið notað HÉR á landi. Svo er það líka orðið open source og kúl.\nÞriðja önn. Engin ástæða til að halda í windows. Sjálfur kennarinn virðist kjósa að rokka MySQL í terminalnum í Apple vélinni sinni. Ég er með MySQL server á Lubuntu heima sem ég tengist með GUI client úr Apple vélinni minni. Hugbúnaðarfræði virðist ætla að vera þægilegri fyrir NIXarana.\n Það er svakalega mikill fjöldi fólks sem er með Apple eða Linux í deildinni. Hörðustu gamerarnir rokka Windows vélunum sínum og redda því sem er ekki native hjá sér. Þó svo að tveir hörðustu sem ég þekki þarna eru komnir með Ubuntu og Kubuntu.\nÞetta allt jafn frábært og ógeðslegt. Best væri bara að vera með 4-5 mismunandi tölvur með mismunandi stýrikerfi. Ef maður gæti bara unnið í einu umhverfi, þá væri það augljóslegasta veikasta hlið manns sem tölvunarfræðings.\nEn henntu bara linux á skrímslið. Ekki dual boot'a. Það er eins og að mæta í skólalóðaslagsmál með pabba sínum. Og eeeeekki virtual véla!",
+            "date": "2014-10-04 02:31:00",
+            "post_id": "575898",
+            "reply_to_id": "527563"
+        },
+        {
+            "user_name": "trausti164",
+            "text": "Þessi þráður er frá því í fyrra.",
+            "date": "2014-10-04 02:35:00",
+            "post_id": "575899",
+            "reply_to_id": "575898"
+        },
+        {
+            "user_name": "svennidal",
+            "text": "Haha, úps!",
+            "date": "2014-10-04 09:13:00",
+            "post_id": "575907",
+            "reply_to_id": "575899"
+        },
+        {
+            "user_name": "dabbi2000",
+            "text": "Skelltu þér á Linux drengur - bestu forritararnir/verkfræðingarnir eru þeir sem geta bjargað sér sjálfir og það verðurðu klárlega með Linux. Með Windows verðurðu bestur í copy & paste vinnu - að herma eftir öðrum. Gríðarlega vaxandi eftirspurn eftir Linux forriturum í dag. Klárlega framtíðin.\nkv frá einum sem var á kafi í MS/Visual Studio og skipti yfir í Linux fyrir 7 árum síðan... alsæll.",
+            "date": "2014-12-27 10:48:00",
+            "post_id": "584823",
+            "reply_to_id": "575907"
+        },
+        {
+            "user_name": "intenz",
+            "text": "",
+            "date": "2014-12-28 20:26:00",
+            "post_id": "585019",
+            "reply_to_id": "584823"
+        },
+        {
+            "user_name": "benjamin3",
+            "text": "Vó gaman að sjá svona gamlan þráð frá manni aftur hérna.\nSkemmtilegt að segja frá því að ég er nú búinn að vera að nota Linux núna í næstum því ár - byrjaði á að setja upp Ubuntu server á gömlu borðtölvuna mína (sem er nú NAS ásamt mumble server og fleiru). \nFærði mig svo í að setja Linux Mint á skólafartölvuna og notaði hana þannig meirihlutann af síðustu önn.",
+            "date": "2014-12-29 04:21:00",
+            "post_id": "585059",
+            "reply_to_id": "585019"
+        },
+        {
+            "user_name": "trausti164",
+            "text": "Nú vantar thumbs up takka.",
+            "date": "2014-12-30 03:44:00",
+            "post_id": "585180",
+            "reply_to_id": "585059"
+        },
+        {
+            "user_name": "Demon",
+            "text": "Hvernig varstu svo að fíla þetta benjamin3? Ekkert vesen að nota linux í HR?",
+            "date": "2014-12-30 12:53:00",
+            "post_id": "585253",
+            "reply_to_id": "585180"
+        },
+        {
+            "user_name": "benjamin3",
+            "text": "Afsakaðu seint svar, en nei alls ekkert vesen. Það er ekki nema á fyrsta ári þar sem maður notast eitthvað við windows-only programs, þá aðallega visual studio. Annað árið er mjög Linux-friendly.\nHef lent í nokkrum verkefnum sem krefjast notkunar á Windows, virtualBox eða TeamViewer í heimatölvuna hafa reddað mér hingað til.\nSo far þá er ég not going back, allavega ekki í skólatölvunni.",
+            "date": "2015-04-24 03:10:00",
+            "post_id": "597100",
+            "reply_to_id": "585253"
+        },
+        {
+            "user_name": "depill",
+            "text": "jibba, Steve Ballmer náði þessu rétt",
+            "date": "2015-04-24 15:54:00",
+            "post_id": "597136",
+            "reply_to_id": "597100"
+        },
+        {
+            "user_name": "Rabcor",
+            "text": "SQL er ekkert M$ hlutur... Flestir apache netþjónar keyra á linux fyrir gamla SQL, svo er líka til MariaDB sem er að verða vinsælara og vinsælara, það byrjaði á linux. Mig minnir að eitt þekktasta SQL forritið kallist XAMPP, það hét fyrir stuttu síðan LAMPP á linux og var aðeins eftirá XAMPP í þróun, en akkurat núna er XAMPP full stutt af apache einsog sjá má: \nhttps://www.apachefriends.org/download.html\nM$ var minnir mig að open sourcea .NET fyrir stuttu \nhttps://github.com/Microsoft/dotnet\nÞetta gildir líka um ASP.NET MVC, \nhttp://www.asp.net/open-source\nOg svo virkar html, css, php, java og javascript og allt þetta drasl á Linux, eina vandamálið er eiginlega að flash support er soldið shitty frá adobe, en ef maður notar google chrome eða chromium er það vandamál leist með PPAPI flash í staðinn fyrir venjulega NPAPI sem adobe gefur út.\nYour argument is therefore now invalid (tveim árum seinna...) \n en það var I guess rétt þegar þú sagðir þetta að asp.net mvc var ekki til fyrir linux, Django hinsvegar var til í staðinn, og mörgum þykir það betra.\nVisual Studio er minnir mig líka að koma á linux. Windows only forritum fer fækkandi, en djöfull fokkin hata ég adobe, og er mér líka illa við corel. Adobe hefur sýnt fram á að þþeir geta stutt linux en for no apparent reason gera það ekki, og corel... corel voru með eitt af fyrstu linux distributionunum frá 90s, og fyrir utan við einhverja eldgamla útgáfu af corel draw eru þeir ekki með neitt sem styður linux. Djöfull væri nice að vera með annaðhvort painter eða photoshop á Linux, en sem betur fer reddaði einhver málunum og bjó til Krita í staðinn sem er mjög góður millivegur milli þessara forrita.\nÞað er smá ævíntýri að skipta yfir í linux fyrst. En pretty much öll forrit sem ég nota nema eitt eða tvö virka á linux, það eina sem heldur mér í dual bootinu eru sumir leiki rsem virka bara einfaldlega ekki á linux, og aðrir leikir sem virka illa í wine.\nEf maður ætti monneyz mundi maður náttúrulega bara setja upp almennilegt GPU passthrough.",
+            "date": "2015-07-21 19:25:00",
+            "post_id": "602531",
+            "reply_to_id": "597136"
+        }
+    ],
+    "date": "2013-09-07 18:07:00"
+}

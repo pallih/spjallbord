@@ -1,0 +1,65 @@
+{
+    "forum_title": "Til sölu - Tölvuvörur",
+    "id": "79189",
+    "title": "(SELD) TS HP workstation z620",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=11&t=79189",
+    "posts": [
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Er með til sölu eftirfarandi vél - Hefur verið notuð í Vmware lab\nAllur búnaður er í góðu lagi og erfitt að gefa upp aldur þar sem vél var keypt erlendis.\nHP workstation z620 \n1TB Samsung SSD 860 Evo  (Sirka 7 mánaða)\n3 X 2TB Samsung 5400 RPM HDD (HD204UI) \n16 cores & 32 threads @ 2.60GHz \n1.Intel Xeon E5 2670 @ 2.60GHz - SROKX - 3220C243 \nSandy Bridge-EP/EX 32nm Technology \n2.Intel Xeon E5 2670 @ 2.60GHz - SROKX - 3220C243\nSandy Bridge-EP/EX 32nm Technology \nChipset\tIntel C602 Chipset\n12X8GB=96.0GB DDR3 (9-9-9-24) - Samsung 8GB 2Rx4 PC3L - 10600R-09-10-E1-02 - M393B1K70CH0-YH9\nNvidia NVS 310 - S/N 0320513066611 \nPower Supply\t800 Watt 90% efficient tool-free power supply\nNetwork\tDual integrated Intel GbE LAN; Infineon TPM 1.2 Controller; Optional Broadcom GbE NIC; Optional Intel GbE NIC; Optional HP X520 10GbE Dual Port NIC\nhttps://www8.hp.com/us/en/campaigns/workstations/z620.html\nVerðhugmynd 120 þúsund.\nEdit:Vélin er Seld",
+            "date": "2019-05-02 15:43:00",
+            "post_id": "688400",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Fumbler",
+            "text": "Þetta er nú alvöru plex vél",
+            "date": "2019-05-02 22:10:00",
+            "post_id": "688421",
+            "reply_to_id": "688400"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Tók þig á orðinu og SCP-aði gögnunum af gömlu plex vélinni minni yfir á nýja Plex VM og gerði Disk HDD Passthrough á Plex gögnin til sýndavélar.\nHenti í hana 6 CPU-um í gegnum Virt-manager og 4 GB í Ram til að byrja með \nNúna er maður með einn beefy Server fyrir allt hobby stöffið sitt, langaði að container væða Plexinn en bíð með það. Ætla að byrja að Setja upp sýndavél og nota auka netkortið á vélinni til að setja upp Router og tengja í auka portið á ljósleiðaraboxinu heima.",
+            "date": "2019-05-11 23:42:00",
+            "post_id": "688786",
+            "reply_to_id": "688421"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Vélin er komin aftur á markaðinn \nFrábær Lab vél eða Plex server",
+            "date": "2019-06-19 21:30:00",
+            "post_id": "690152",
+            "reply_to_id": "688786"
+        },
+        {
+            "user_name": "Andri Þór H.",
+            "text": "Til í að selja bara örgjafana ?",
+            "date": "2019-06-21 12:26:00",
+            "post_id": "690188",
+            "reply_to_id": "690152"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Því miður nei.Hafði hugsað mér að selja þetta allt saman.",
+            "date": "2019-06-21 13:28:00",
+            "post_id": "690190",
+            "reply_to_id": "690188"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Bömp - Öllum velkomið að koma að skoða gripinn ef þið eigið leið hjá í Úlfarsárdal \nÞað hafa tveir komið að skoða - Fyrstur kemur fyrstur fær.",
+            "date": "2019-06-22 12:53:00",
+            "post_id": "690216",
+            "reply_to_id": "690190"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Var að setja upp Proxmox á vélina - Leitar ennþá að góðu heimili.\n1Tb SSD keyrir Proxmox -  EXT4\n3X2TB HDD er sett upp í Raid-z pool",
+            "date": "2019-07-05 18:35:00",
+            "post_id": "690827",
+            "reply_to_id": "690216"
+        }
+    ],
+    "date": "2019-05-02 15:43:00"
+}

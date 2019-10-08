@@ -1,0 +1,58 @@
+{
+    "forum_title": "Windows",
+    "id": "44624",
+    "title": "XBMC radio",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=82&t=44624",
+    "posts": [
+        {
+            "user_name": "kazzi",
+            "text": "Sælir.\nEr hægt að streama útvarpinu í xbmc íslenskum stöðvum.\ner ekki að sjá neitt add-on fyrir þetta.\nmeð von um hjálp",
+            "date": "2012-01-07 17:47:00",
+            "post_id": "410664",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "arnif",
+            "text": "Henti saman nokkrum .strm skrám af öllu sem er í boði á vísir.is.\nhttp://goo.gl/fsAau",
+            "date": "2012-01-07 19:39:00",
+            "post_id": "410688",
+            "reply_to_id": "410664"
+        },
+        {
+            "user_name": "cartman",
+            "text": "Ég nota ekki xmbc en samvkæmt þesari síðu: \nhttp://wiki.xbmc.org/index.php?title=HOW-TO:Play_internet_video_and_audio_streams\nÞá þarftu að búa til skrár sem enda á .strm og innihalda link á útvarpsstrauminn.\nÞannig að þú þyrftir væntanlega að búa til nokkrar skrár.\nDæmi: bylgjan.strm    myndi innihalda þessa línu: \nmms://utvarp.visir.is/bylgjan\nÚtvarpsstöð\tSlóð\t                                                Gerð straums\nRás 1\t        \nhttp://media.gagna.net/ras1\n\t        Windows Media\nRás 2\t        \nhttp://media.gagna.net/ras2\n\t        Windows Media\nXFM\t                \nmms://apollo.vortex.is/XFM\n\t        Windows Media\nX-ið\t                \nmms://utvarp.visir.is/x-id\n\t        Windows Media\nKissFM \t        \nmms://apollo.vortex.is/KissFM/\n\tWindows Media\nRondó\t        \nhttp://media.gagna.net/rondo\n\t        Windows Media\nGull-Bylgjan\t\nmms://webradio.visir.is/gull-bylgjan\n\tWindows Media\nNý-Bylgjan\t        \nmms://webradio.visir.is/ny-bylgjan\n\tWindows Media\nBylgjan\t        \nmms://utvarp.visir.is/bylgjan\n\t        Windows Media\nFM 957\t        \nmms://utvarp.visir.is/fm957\n\t        Windows Media\nVoice\t                \nmms://straumur.voice.is\n\t                Windows Media",
+            "date": "2012-01-07 19:43:00",
+            "post_id": "410690",
+            "reply_to_id": "410688"
+        },
+        {
+            "user_name": "arnif",
+            "text": "Þessi aðferð virkar ekki á xbmc live.",
+            "date": "2012-01-07 19:50:00",
+            "post_id": "410692",
+            "reply_to_id": "410690"
+        },
+        {
+            "user_name": "GrimurD",
+            "text": "Það er til addon sem heitir Listen Radio EU ef ég man rétt og allar íslensku stöðvarnar eru þar. \nAmm fann það, \nhttp://forum.xbmc.org/showthread.php?t=48687\nEDIT: Það var alltaf hægt að finna það í xbmc repo-inu en hef ekkert tékkað nýlega hvort það sé þar. Er hugsanlega outdated.",
+            "date": "2012-01-07 21:50:00",
+            "post_id": "410720",
+            "reply_to_id": "410692"
+        },
+        {
+            "user_name": "Einstein.is",
+            "text": "Það er líka hægt að setja upp Navi-X á XBMC, og nota TuneIn Radio.",
+            "date": "2012-01-07 23:05:00",
+            "post_id": "410744",
+            "reply_to_id": "410720"
+        },
+        {
+            "user_name": "kazzi",
+            "text": "takk fyrir svörin.",
+            "date": "2012-01-08 12:31:00",
+            "post_id": "410822",
+            "reply_to_id": "410744"
+        }
+    ],
+    "date": "2012-01-07 17:47:00"
+}

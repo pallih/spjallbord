@@ -1,0 +1,149 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "77577",
+    "title": "Nánast ný uppsetning hjá fyrirtæki",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=77577",
+    "posts": [
+        {
+            "user_name": "Hallipalli",
+            "text": "Langaði að fá smá hugmyndir, umræðu, heilræði o.fl.\nFyrirtæki sem er með c.a. 20-30 notendur er með netkerfi og allt því tengt í svolitlum hrærigraut. Húsnæðið er stórt m.a. verslun, skrifstofur og lager. Málið er að það eru snúrur sem liggja um allt ómerktar og c.a. 2-3 switch skápar í húsinu á mismunandi stöðum, ásamt litlum random switchum hér og þar. Settur var upp ræfilslegur 300mps TPlink router fyrir wifi sem er löngu sprunginn. Tölvurnar eru í raun ekki á neinu kerfi (fólk bara loggar sig inn með windows auðkennum, s.s. windows sér um notendur). Server er inní geymslu sem er öll í drasli, hann er tengdur við vara aflgjafa. Kerfið er mjög random t.d. gamlir cisco switchar sem hætta að fá support 2019, gigaplex switchar og fleira. Sumt af þessu virðist vera gamalt en virðist samt vara 10/100/1000 switchar. Snúrur fram í verslun eru mjög vel frágegnar en inná lager eru þær ofan á hillum og hér og þar strengdar yfir loftið. Aðilinn sem sá um þetta er hættur (en vonandi fáum við upplýsingar frá honum) og sá hann alfarið um kerfið og setti það upp að mestu. Svo ég veit ekkert um admin viðmót á kerfinu eða neitt. Myndavéla kerfi er óvirkt þar sem að þegar það var kveikt á því hægist á öllu netinu. Nethraði var mældur fljótlega í random vél og skilaði 28mps og wifi skilaði um 30mps\nÞetta þarf að taka í gegn er með nokkrar spurningar og vona að þetta hafi verið skiljanlegt.\nHvar er best að byrja?\nHvaða kerfi mynduð þið mæla með ef það þyrfti að kaupa nýjan búnað...Unifi?\nEnginn Active directory er til staðar þar sem vélar eru bara uppsettar með windows og notaðar þannig....ætti að breyta því?\nHvaða búnað þyrfti að bæta við t.d. switchar, router, punktar, vélar, uppfærsla á server?\nENGINN snúra er merkt, hvernig er best að koma að því?\nServer skápar eru með c.a. 1-2m snúrum sem þyrftum helst að vera bara 25cm algjört spagettí...skipta út?",
+            "date": "2018-10-25 11:09:00",
+            "post_id": "679685",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Jón Ragnar",
+            "text": "Haha algjör martröð að taka við svona.\nEr gamli sysadmin ekki með neitt skjalað neinstaðar? Hann ætti að geta látið þig fá þessi gögn þar sem viðskiptavinurinn \"á\" kerfið.",
+            "date": "2018-10-25 11:13:00",
+            "post_id": "679686",
+            "reply_to_id": "679685"
+        },
+        {
+            "user_name": "Hallipalli",
+            "text": "Hann kemur á mánudaginn veit ekki hversu vel skráð þetta er. Sýndist bara vera server-admin aðgangur lítið annað. Veit ekki hvernig viðmót þau eru með eða neitt þannig og helst myndi ég vilja þurrka allt kerfið út fyrir utan server (ekki einu sinni viss hvað er geymt á honum) því þau eru líka með aðgang hjá dk.is (sá að nokkrir voru með remote desktop inná það í gangi).",
+            "date": "2018-10-25 11:15:00",
+            "post_id": "679687",
+            "reply_to_id": "679686"
+        },
+        {
+            "user_name": "worghal",
+            "text": "hafið þið skoðað að fara í þjónustu hjá einhverjum eins og Origo, Advania, Sensa, Þekking eða Opin kerfi?\nEdit: gleymdi Sensa",
+            "date": "2018-10-25 11:40:00",
+            "post_id": "679688",
+            "reply_to_id": "679687"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Úff maður fær bara kvíðahnút í magann við að lesa svona hryllingssögur  \n \nÞið byrjið væntanlega að athuga með eins og er talað um fyrir ofan, Advania, Origo, Sensa etc.",
+            "date": "2018-10-25 12:01:00",
+            "post_id": "679689",
+            "reply_to_id": "679688"
+        },
+        {
+            "user_name": "depill",
+            "text": "Sko fyrst ætlar þú að sjá um þetta sjálfur ? Eða ætlarðu að fá þér einhvern MSP til að gera þetta ? Ef nottulega MSP ( Tactica, Premis, OK, Origio, Advania, Sensa e.t.c ) þá bara hættirðu að spyrja og hendir þessu alveg út.\nEnn ef þú ætlar að gera þetta sjáflur, ég myndi byrja á netkerfinu.\nA) Miðað við hraða eru þið væntanlega á VDSL. Pantaði þér inn aukalínu ( getur bara verið heimilislína ) og settu myndavélakerfið á það.\nB) Kauptu zoomer, þá verðuð enga stund að merkja þessar snúrur\nC) Dragðu allar snúrur í sama tækjaskápinn. 20-30 notendur nema að vegalengdin sé eithvað rugl ( 60-70m ) ætti ekki að þurfa að vera í mörgum tækjaskápum. Ef ekki kauptu þér standard svissa setup (ekki freistast í unmanaged sviss út af peningum, kostar þig meira til framtíðar )\nD) Kauptu þér bara UniFi svissa og UniFi APa\nE) Myndavélakerfið á sér vlan\nHin spurning með uppsetning á vélum, auðvita langar mig að henda þér í eina átt. Enn hvað er verið að keyra á þessum vélum? ( eða hvað verður nauðsynlega að keyra á þessum vélum ) Og með serverinn hvað keyrir á honum sem verður nauðsynlega að keyra.\nÞetta hljómar rosalega eins og þið ætlið ekki að vera með kerfisstjóra enn viljið gera þetta ódýrt. Ég myndi halda það sé bara betra að fá einhverjar aðila sem gera ekki neitt eins og aðilana sem ég nefndi að ofan til að sjá um þetta fyrir ykkur,",
+            "date": "2018-10-25 12:22:00",
+            "post_id": "679690",
+            "reply_to_id": "679689"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Fer eftir því hversu mission critical þetta er.  \nMá vera netlaust þarna yfir helgi t.d.?\nAllavega byrja á því að taka saman hvað þarf að fá net.  Hvaða tölvur, serverar, myndavélar etc.\nSíðan taka saman hvaða netbúnaður er til staðar ef þú vilt hafa möguleikann á því að nota hann áfram.\nEf þetta eru samt ekki nema 20-30 notendur, þá myndi ég alvarlega íhuga að nýta sem allra minnst áfram, kaupa nýjan vandaðan búnað sem þú treystir og gera þetta bara rétt. Þarf ekki að vera mjög dýrt m.v. fjölda notenda sem þú nefnir, og engin ástæða til að halda upp á gamlan búnað til að spara einhverja þúsundkalla, líklegt að þegar upp sé staðið verði sparnaðurinn enginn.\nEngin spurning á að skipta út of löngum snúrum í server skáp, lítill sem enginn kostnaður þar, líklega bara verið notaðar lengri snúrur því styttri voru ekki til staðar.\nVarðandi active directory og gamla switch, þarftu managed switcha fyrir þetta? Þú nefnir \"gamlir cisco switchar sem hætta að fá support 2019\", er verið að nota einhverja managed fítusa, eða geturðu bara fengið þér \"heimskan\" switch?  \nEr einhver ástæða til að færa sig yfir í active directory? Hvernig fyrirtæki er þetta? Þarf að aðgangsstýra notendum inn á sér kerfi, eða bara að aðgangsstýra þeim inn á allt kerfið?\nÞví ef allir starfsmenn mega hafa aðgang að öllu, þá myndi ég bara læsa netkerfinu á t.d. MAC addressur.  Jújú, þá þarf að bæta við í hvert skipti sem einhver skiptir um síma eða fartölvu, en það er lítill fórnarkostnaður í samanburði við að hafa flóknari aðgangsstýringu ef hennar er ekki þörf.",
+            "date": "2018-10-25 12:35:00",
+            "post_id": "679692",
+            "reply_to_id": "679690"
+        },
+        {
+            "user_name": "Hallipalli",
+            "text": "Takk fyrir svörin...kannski er þetta einum of mikið fyrir einn aðila að setja upp en auðveldara að sjá um þegar þetta er komið í stand. \nÆtla hafa samband við þjónustur sem bjóða uppá aðstoð við þetta og fá tilboð í kerfi. Mæliði með einhvejrum sérstökum aðila. \nFinnst þessi umræða mjög flott. Þetta er lítið fyrirtæki reyndar tvö sem eru í sama húsnæði (sami eigandi) í raun ekki tækni fyrirtæki þótt annað þeirra gæti flokkast sem það....en \"tækni\" fyrirtækið er í raun bara með 4 starfsmenn eins og er en fer hratt vaxandi. Veit ekki hversu lengi fyrirtækin verða í sama húsnæði en ekkert verið rætt um flutninga",
+            "date": "2018-10-25 13:09:00",
+            "post_id": "679695",
+            "reply_to_id": "679692"
+        },
+        {
+            "user_name": "russi",
+            "text": "Þú þarf að management switcha í þessu(semsagt skiptu þeim öllum út), færa myndavélar á sér VLAN. Taka til í skápum og slíku eins og hefur komið fram hér. Þetta er það sem ég myndi byrja á. Við þetta færðu þægilegri yfirsýn yfir kerfið. Þá geturu farið í pælingar varðandi servera, AD og allt slíkt.\nHér búið að benda á stærri aðila til að kikja á þetta fyrir þig og er það gott, minni aðilar eru líklegri til að vera ódýrari þegar uppi er staðið og líklegri til að veita betri þjónustu. \nHef oftar en ekki rekist á í minni vinnu að stóru aðilarnir séu tregari til að þjónusta \"litlu fyrirtækin sín\" þegar eitthvað kemur uppá, á þá við t.d. ef það er skortur á tæknimönnum þar, aðrar ytri ástæður og meira sem má nefna. t.d. þegar kreppan var 2008 var gósentíð þar sem ég vinn því stóru kallarnir eins Opin Kerfi, Nýherji og allt það fóru að einbeita sér að \"stóru fyrirtækjunum\" - fengu auðvitað litlu fyrirtækin á sitt borð með undirbjóða en svo fengu þau skerta þjónustu þegar á reyndi á þeim tima. Er farinn sjá þetta gerast aftur núorðið, þeas undirboðið, þetta mun allt enda eins.",
+            "date": "2018-10-25 13:25:00",
+            "post_id": "679697",
+            "reply_to_id": "679695"
+        },
+        {
+            "user_name": "Tbot",
+            "text": "Frá mínu sjónarhorni mundi ég byrja alveg í grunninum.\nFá annað hvort grunnteikingu af húsinu eða rissa það upp.\nMerkja inn staðsetningu á búnaði núna, þ.e. switch/rack server(s) og nettenglum.\nÞetta hjálpar líka til að sjá að engin staðsetning fer yfir 100m í cat strenglögn.\nLínleitari(zoomer) er síðan góður til að finna út með strengi.\nNæsta skref er að ákveða hvort á að færa einhvað til / eða ný staðsetning er betri fyrir búnað.  Þá á ég við servera/switch og slíkt., inni í þessu er líka sú ákvörðun hvort á að reka þetta sjálfir eða kaupa þjónustu/útvistun.\nNúna er hægt að bæta við notendabúnaði, hvort sem það eru tenglar eða þráðlausir punktar.\nÞví það er peningaeyðsla að fara í lagnadrátt fyrr en allt hitt er klárt.\nVarðandi myndavélakerfið, þá er eðlilegt að það hægist á netkerfinu, því það er gríðarlegur gagnaflutningur frá myndavél til servers.",
+            "date": "2018-10-25 13:29:00",
+            "post_id": "679699",
+            "reply_to_id": "679697"
+        },
+        {
+            "user_name": "nidur",
+            "text": "Skemmtilegt verkefni þetta \nVonandi færðu eitthvað budget.",
+            "date": "2018-10-25 13:56:00",
+            "post_id": "679700",
+            "reply_to_id": "679699"
+        },
+        {
+            "user_name": "Hallipalli",
+            "text": "skal taka myndir á mánudaginn og reyna sýna ykkur. Sendi pósta á nokkur þjónustu fyrirtæki ætla kíkja í heimsókn til Tactica á mánudaginn og spjalla við þá...er semí að taka mín fyrstu skref eða fyrsta stóra skrefið í þessu og þetta er ROSALEGT verkefni en finnst það ótrúlega spennandi",
+            "date": "2018-10-25 13:57:00",
+            "post_id": "679701",
+            "reply_to_id": "679700"
+        },
+        {
+            "user_name": "Njall_L",
+            "text": "Hef góða reynslu af Tindum tæknilausnum. Góð þjónusta og eru að bjóða Unifi búnað á mjög góðum verðum.\nhttp://www.tindar.is",
+            "date": "2018-10-25 14:00:00",
+            "post_id": "679702",
+            "reply_to_id": "679701"
+        },
+        {
+            "user_name": "frr",
+            "text": "Í fyrsta lagi þarf að kortlegga lagnirnar, vegalengdir og tegundir kapla.\nÞað er ekkert víst að switcharnir séu ónýtir eða lélegir, frekar að rangir kaplar séu notaðir og e.t.v. undarlega tengt á milli.\nMiðað við hvernig þú lýsir þessu finnst mér ólíklegt að það séu gamlir gigabit switchar þarna, ekki það langt síðan þeir fóru í almenna notkun, nema þú eigir við optical tengingar.\nEf þú ert ekki að nota layer 3, vlan o.þ.h. þá duga off the shelf switchar.\nÞað að myndavélakerfi setji allt á hliðina bendir til vandamála sem ættu ekki að vera til staðar.\nÉg myndi samt splæsa í einn góðan gbit switch við serverinn og tengja router  og alla aðra switcha á það.\nEitt sem getur verið vesen á sumum switchum eru hringtengingar, núorðið eingöngu á gömlum eða mjög einföldum switchum.",
+            "date": "2018-10-25 14:27:00",
+            "post_id": "679703",
+            "reply_to_id": "679702"
+        },
+        {
+            "user_name": "Baldurmar",
+            "text": "Myndi líka skoða Meraki kerfið, held það kosti soldið en á að vera minna/auðveldara viðhald",
+            "date": "2018-10-25 15:18:00",
+            "post_id": "679710",
+            "reply_to_id": "679703"
+        },
+        {
+            "user_name": "Hallipalli",
+            "text": "Takk fyrir svörin og einkapóstin hef nóg að hugsa um um helgina og verður spennandi næsta vika.",
+            "date": "2018-10-25 17:05:00",
+            "post_id": "679713",
+            "reply_to_id": "679710"
+        },
+        {
+            "user_name": "mainman",
+            "text": "Ég verð að vera sammála þessu.\nTindar redda þessu fyrir þig hratt og öruglega og verða pottþétt með lægsta verðið.\nHef bara heyrt gott af því fyrirtæki.\nMæli með að þú tékkir á því.\nGangi þér vel með þetta.\nKv.",
+            "date": "2018-10-25 19:17:00",
+            "post_id": "679720",
+            "reply_to_id": "679713"
+        },
+        {
+            "user_name": "MrIce",
+            "text": "Ef þetta á að vera gert properly og vera frekar user friendly myndi ég hiklaust skella mér í ubiquity setup. Kostar helling í startup já (þar sem þetta er allt nýtt og það) en long term performance og user-friendlyness ? Hiklaust.",
+            "date": "2018-10-25 22:21:00",
+            "post_id": "679729",
+            "reply_to_id": "679720"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Smá viðbót við það sem hefur ekkert endilega komið fram hér á undan\n*sækja config af switch/router - um\n*Afrita serverinn (og það sem þú metur ómissandi)\n*Nmap scan eða Lansweeper scan og angryp ip scan (til að átta þig betur á umhverfinu)\n*Skoða tæki eins og prentara hvort þeir eru að tala við einhvern DNS hjá ISP (ef þú ætlar að fara annað með netkerfið)\n*Ubiquity búnaður er fínn í þetta verkefni ef þú ert með budget í það, POE er soldið sér á báti hjá þeim þannig að Cisco POE switch myndi ekkert endilega keyra upp myndavél eða AP frá þeim.\n*FYI: Hringdu skaffa þér edgerouter lite í fyrirtækjaþjónustunni sinni.\n*Gætir sett upp Spicework helpdesk ef þú villt halda utan um mál (er frítt)\n*Confluence er ljómandi gott tól til að halda utan um skjölun\n*Athuga þjónustusamninga (ef þeir eru til)\n*Kaupa þér Brohter label maker vél",
+            "date": "2018-10-26 08:57:00",
+            "post_id": "679756",
+            "reply_to_id": "679729"
+        },
+        {
+            "user_name": "Hallipalli",
+            "text": "Takk takk....skoða allt í næstu viku hef nóg að gera í rannsóknar vinnu. Eina sem ég veit er að þau eru að nota dk.is líklegast fyrir posa eða eitthvað álíka og hafa remote desktop á vélar frá þeim (veit ekki afhverju skoðaðið lítið um daginn), heyrðu að þau nota \nhttps://tresorit.com/\n fyrir skjal vinnslu (vinna saman og eitthvað fleira). Það virðist ekki vera nein regla á neinu, allt opið og líklegast eru prentarar bara tengdir með usb við hverja tölvu eða eitthvað álíka. Eins og ég sagði ég þarf að fara yfir allt. Allt frá uppsetningu og frágangi yfir í security því ég held að það hafi bara verið einhver aðili sem bara sá um þetta því hann \"kunni\" þetta á sínum tíma.",
+            "date": "2018-10-26 09:42:00",
+            "post_id": "679758",
+            "reply_to_id": "679756"
+        }
+    ],
+    "date": "2018-10-25 11:09:00"
+}

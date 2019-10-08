@@ -1,0 +1,58 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "14038",
+    "title": "Upplausn í BF2 og BF1942 hjálp!!!!",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=14038",
+    "posts": [
+        {
+            "user_name": "Tóti",
+            "text": "Ég er með 19 tommu lcd skjá og ég fæ ekki meiri upplausn en 1024 x 768.\n\nSpecs eru\n\nMb: Gigabyte GA-N680SLI-DQ6\n\nSkják: Sparkle Geforce 8800GTX 768 MB GDDR3 PCI-E\n\nVinnslum: DDR2 Minni 800MHz - MDT Twinpacks 2048MB CL5 2x1024\n\nCPU: Intel Core 2 Duo E6600 2.4GHz 1066FSB 4MB cache\n\n\n\nHefur einhver skýringu á þessu?\n\nGamla tölvan mín náði betri upplausn en þetta.\n\n1280 x 1024 eða 960 man ekki alveg.",
+            "date": "2007-04-19 23:01:00",
+            "post_id": "144666",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "zedro",
+            "text": "Skjárinn styður ekki hærri upplausn.",
+            "date": "2007-04-19 23:42:00",
+            "post_id": "144673",
+            "reply_to_id": "144666"
+        },
+        {
+            "user_name": "Tóti",
+            "text": "Jú hann styður 1280 x 1024",
+            "date": "2007-04-20 00:18:00",
+            "post_id": "144674",
+            "reply_to_id": "144673"
+        },
+        {
+            "user_name": "ÓmarSmith",
+            "text": "ertu með nýjustu patchin fyrir leikina ?\n\n\n\nErtu með nýjustu driverana fyrir skjákortið ?\n\n\n\nAnnars geturu breytt config skránni og sett inn hvaða upplausn sem er.\n\n\n\n\n\nGetur líka prufað að breyta .exe skránni þannig að hún líti svona út :\n\n\n\n\"C:\\Program Files\\EA GAMES\\Battlefield 2\\BF2.exe\" +menu 1 +fullscreen 1 +szx 1680 +szy 1050\n\n\n\nNema í þínu tilfelli breytiru  1680 í 1280 og 1050 í 1024.\n\n\n\ngangi þér vel.",
+            "date": "2007-04-21 23:04:00",
+            "post_id": "144774",
+            "reply_to_id": "144674"
+        },
+        {
+            "user_name": "Harvest",
+            "text": "Athugaðu þetta samt fyrst með skjákorta drivera!\n\n\n\nRosalega oft sem að þeir eru vandamálið.\n\n\n\nPrufaðu að sækja þá uppá nýtt og installa aftur.",
+            "date": "2007-04-24 14:25:00",
+            "post_id": "144890",
+            "reply_to_id": "144774"
+        },
+        {
+            "user_name": "ÓmarSmith",
+            "text": "Já, ég lennti í því þarna í 1 skiptið að fara úr version 1.3 í 1.41 eða álíka þá bættust við nokkrar stillingar.\n\n\n\nEn EA eru ennþá svo tregir að þeir bjóða ekki upp á 1680 x 1050 standard. Ekki einu sinni í BF2142 sem er nánast nýr leikur.",
+            "date": "2007-04-24 14:36:00",
+            "post_id": "144894",
+            "reply_to_id": "144890"
+        },
+        {
+            "user_name": "Harvest",
+            "text": "Já, mér finnst það alveg rosalega súrt.",
+            "date": "2007-04-24 15:41:00",
+            "post_id": "144901",
+            "reply_to_id": "144894"
+        }
+    ],
+    "date": "2007-04-19 23:01:00"
+}

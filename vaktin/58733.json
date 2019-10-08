@@ -1,0 +1,149 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "58733",
+    "title": "Vantar góð ráð við uppsetningu á heima-server og heimaneti",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=58733",
+    "posts": [
+        {
+            "user_name": "Eiiki",
+            "text": "Sælir félagar,\nÉg er núna að fara af stað í það í jólafríinu að setja upp heima server. Ég er ekki alveg með það á hreinu hvernig ég á að útfæra þetta á sem besta vegu né hvaða húgbúnaður er bestur í þetta (hef samt heyrt eitthvað um að Free-NAS sé málið). En uppsetningu verður þannig háttað að serverinn verður við hliðina á sjónvarpinu mínu þar sem ég er með apple-tv og routerinn. Ég myndi þá vilja henda í RAID og klóna geymsludrifið öryggisins vegna.\nHugmyndin er semsagt þannig að geyma öll gögn á servernum, niðurhala öllu beint á hann og geta síðan komist inná hann af hvaða tæki sem er (ipad, fartölvu) og horft á myndir og þess háttar hvort sem það er á viðkomandi tæki eða í sjónvarpinu.\nEndilega komið með góð ráð, linkið á góða síðu sem að fer yfir þetta eða eitthvað sniðugt.\nMeð þökkum,\nEiiki",
+            "date": "2013-12-18 19:55:00",
+            "post_id": "542977",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "Ef þú nennir að standa í að setja upp nas kerfi, þá er það Nas4free eða FreeNas. Skoðaðu hver munurinn er og hvað þú þarft.\nAnnars er hægt að fá 2bay NAS á amazon hræódýr, þetta verður þá mjög easy. Tengir svo það við router, keyrir forrit og appletv-ið getur lesið af nasinu",
+            "date": "2013-12-18 20:23:00",
+            "post_id": "542980",
+            "reply_to_id": "542977"
+        },
+        {
+            "user_name": "fedora1",
+            "text": "Persónulega er ég með linux, og með diskana í raid5.\nEr með vnc sem ég tengist til að downloada torrentum, nota svo Sick Beard til að sækja alla sjónvarpsþætti sem mig langar í.\nexporta svo share-inu í gegnum nfs, og er svo með lappa við sjónvarpið með xbmc til að spila efni.\nEf þú hefur áhuga get ég farið nánar út í setup-ið.",
+            "date": "2013-12-18 20:46:00",
+            "post_id": "542984",
+            "reply_to_id": "542980"
+        },
+        {
+            "user_name": "slapi",
+            "text": "http://www.openmediavault.org/features.html\nÞetta er OS ið sem ég myndi nýtast við.",
+            "date": "2013-12-18 21:19:00",
+            "post_id": "542992",
+            "reply_to_id": "542984"
+        },
+        {
+            "user_name": "mind",
+            "text": "Eins og sem CendenZ segir, best að fara alla leið, eða einföldu leiðina.",
+            "date": "2013-12-18 21:32:00",
+            "post_id": "542995",
+            "reply_to_id": "542992"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Ertu þá bara með möppurnar shared á network og lætur XBMC scrape-a þættina fyrir þig?\nEr með borðtölvu hjá mér með media og plex til að streyma í XBMC inni í stofu sem er less than ideal en ég hef bara aldrei fílað scrape-ið hjá XBMC, fullt af þáttum koma vitlaust inn og svona og ég væri til í að geta stýrt þessu bara sjálfur.",
+            "date": "2013-12-18 21:47:00",
+            "post_id": "543001",
+            "reply_to_id": "542995"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Þetta getur verið rosalega flókið, eða rosalega einfalt. Þetta eru fyrst og fremst lausnirnar sem mér dettur í hug;\nWindows (7/8/server) + SnapRAID; \n Styður parity, poolar saman diskum, getur bætt við diskum og stækkað poolið að vild.\nFreeNAS\n; Styður parity, poolar saman diskum, parity (raidz) og ZFS. ZFS er awesome. En fyrir minn smekk, og ég veit að það eru menn ósammála mér, er overkill for home media server. Ef þú vilt geta stækkað poolið þitt með einum disk í einu, er ZFS ekki fyrir þig. Ef þú ert tilbúinn að skipta öllum diskunum út í einu til að stækka við þig gæti það hentað.\nunRAID;\n Styður parity, poolar saman diskum, online expansion, getur bætt við einum eða fleiri disk í einu og þeir þurfa ekki að vera jafn stórir.\nAllar lausnirnar bjóða uppá mismikið configuration. Með Windows/Linux setup ertu mikið frjálsari og hægt að finna endalaust af hugbúnaði til að downloada fyrir þig, melta efnið, sækja metadata, deila því útúr húsi, etc. unRAID og FreeNAS hafa það þó sameiginlegt að þau styðja bæði Plex Media Server, Couchpotato, SABnzbd, Sick Beard, Transmission, Crashplan, btsync og fleira. Í rauninni allt sem þú þarft fyrir complett media server lausn. En, þetta er ekki eins einfalt í uppsetningu og rekstur og á fullblown desktop stýrikerfi, það er klárt mál. \nunRAID er rosalega solid sem fileserver, en pínu iffy sem media server með allar þessar þjónustur. FreeNAS gerir það umtalsvert betur og mikið stærra commhunity, en er talsvert flóknara í uppsetningu. \nAllra, allra einfaldasta leiðin væri auðvitað að setja upp Windows Home Server, v1 eða v2. Það er svo sér kapítúli út af fyrir sig.\nHvað sem þú keyrir í grunninn, skoðaðu Plex vel og vandlega. Það er lítið sem ekkert sem toppar það þegar kemur að all in one media lausn fyrir heimilið.",
+            "date": "2013-12-18 21:56:00",
+            "post_id": "543006",
+            "reply_to_id": "543001"
+        },
+        {
+            "user_name": "tdog",
+            "text": "Eins og þetta er hjá mér, og ég mæli eindregið með svona setöppi þá er ég með:\nServer í kjallaranum: Plex Media Server, Transmission, SickBeard og CouchPotato. (2x250GB diskar, ekki í RAID)\nTvær laptops: Plex Client (Nota líka mikið bara Plex vefviðmótið)\nTveir snjallsimar: Plex Client\nHTPC: MacMini vél með Plex Client\n----\nHrikaleiga einfalt í uppsetningu, ég er reyndar búinn að eiga vel við SickBeardið til að fá það til að virka eins og ég vill en það virkar líka bara vel úr kassanum. Ég er svo bara með bookmark í tölvunum hjá mér stjórnhaminn fyrir CouchPotato, Transmission, SickBeard og Plexið.\nÞað þægilegasta við þetta er að ég get tengst þessu hvar sem er, tengst inn á shere hjá félögum og það er ekkert vesen.",
+            "date": "2013-12-18 22:20:00",
+            "post_id": "543008",
+            "reply_to_id": "543006"
+        },
+        {
+            "user_name": "fedora1",
+            "text": "Sick Beard sækir þættina, ég læt hana sækja með torrent. Hún setur þættina í réttar möppur, rename-ar skránnar og sækir nfo skrá fyrir þáttinn og srt skrá með texta. Þá kemur þetta rétt í XBMC",
+            "date": "2013-12-18 22:26:00",
+            "post_id": "543010",
+            "reply_to_id": "543008"
+        },
+        {
+            "user_name": "Siggihp",
+            "text": "Ég er einmitt að fara í sömu vinnu í jólafríinu og ætla að fara í Ubuntu server og stefni á að láta þetta virka einsog tdog talar um",
+            "date": "2013-12-19 00:40:00",
+            "post_id": "543037",
+            "reply_to_id": "543010"
+        },
+        {
+            "user_name": "tdog",
+            "text": "Ekki hika við að senda mér skilaboð.",
+            "date": "2013-12-19 00:46:00",
+            "post_id": "543041",
+            "reply_to_id": "543037"
+        },
+        {
+            "user_name": "Eiiki",
+            "text": "Þakka þér fyrir góð ráð. Ég mun sennilega koma til með að kaupa 3stk 2tb diska og henda í raid 5, ég held að 4tb gyemslupláss sé alveg að fara að nægja næstu árin. En ég vill helst fara linux leiðina becuz open source \nÞetta hljómar mjög vel! En er hægt að fá einhvernvegin plex virknina yfir á apple-tv? \nEn já ég ætla klárlega að kaupa minn eigin vélbúnað og setja þetta upp sjálfur, ekki kaupa eitthvað tilbúið frá amazon eins og CendenZ benti á að væri sniðugt að gera.\nSpurning hvort ég byrji á að henda upp servernum og fái virknina í gang áður en ég fer í að kaupa diska og raid-a. \nog já ein spurning en, er málið að hafa sér stýrikerfisdisk á servernum eða bara setja það upp á geymsludiskunum?",
+            "date": "2013-12-20 12:21:00",
+            "post_id": "543264",
+            "reply_to_id": "543041"
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "má ég senda þér skilaboð",
+            "date": "2013-12-20 12:33:00",
+            "post_id": "543265",
+            "reply_to_id": "543264"
+        },
+        {
+            "user_name": "Kristján Gerhard",
+            "text": "Það var til eitthvað hack til að fá plexið á ATV, þekki það samt ekki persónulega. Alveg spurning hvort það sé einhver akkur í því að bíða með að sækja diskana. Þú ert ekki lengi að setja upp grunninn á þjóninum og eftir að það er klárt þarftu að vera með staðsetningarnar fyrir efnið þitt tilbúnar til að klára uppsetningu á hinum ýmsu þjónustum.  \nVertu með sér stýrikerfisdisk, alls ekki blanda saman gagnadiskunum þínum og kerfisdiskum saman. Þetta flækir allt recovery ef þú lendir í því að það hrynja hjá þér diskar.\nEr með Plex media server, SickBeard, Couchpotato, SABnzbd ofl. sett upp á Ubuntu 12.04 Server LTS hjá mér og mæli eindregið með þessu. Ekki bara uppá virknina þegar dótið er klárt heldur líka vegna þess hversu mikið þú lærir á að setja þetta upp og fá það til að virka.\nGet væntanlega aðstoðað ef menn hafa áhuga. Held samt að best sé að halda spurningum almenns eðlis í þræðinum þar sem það gagnast flestum.",
+            "date": "2013-12-20 12:37:00",
+            "post_id": "543266",
+            "reply_to_id": "543265"
+        },
+        {
+            "user_name": "sigurdur",
+            "text": "Ég setti upp PlexConnect til að nota AppleTV3 með Plex. Keyri það á Ubuntu VM á servernum mínum. Smá maus að setja það upp, en fínar leiðbeiningar á vefnum hjá þeim. Virkar fínt.\nhttps://github.com/iBaa/PlexConnect",
+            "date": "2013-12-20 14:41:00",
+            "post_id": "543283",
+            "reply_to_id": "543266"
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "1. Ef þú hefur tímann þá mæli ég með Nas4Free, ég var með það á shuttlevél og það svínvirkar.  Þekking: Meira en miðlungs.\n2. Nas4Free er keppinautur FreeNas eftir að FreeNas gjörbreyttist. Nýja Freenas kerfið er \ngjörólíkt \ngamla, bæði hlutverkið og grunnurinn. Þeir sem unnu að Freenas fengu nóg og héltu áfram og bjuggu til \"Nas4free\" sem gamla FreeNas, er í stöðugri vinnslu.\n3. Ef þú ætlar að smíða kassa, þá mæli ég með USB bootað eða keyrt af Fartölvudisk, það er óþolandi að vera með ryksugu í gangi \n4. Apple-Tv, Jailbreak, Plex osfr. \nAlgjört \nmust\n5. Ekki dissa tilbúin NAS kerfi, mörg þeirra eru ótrúlega sniðug. \nYou get what you pay for\n, ekki skoða hvað ódýr NAS kerfi gera. Það eru flakkarar með netkorti, tékkaðu á dýrari lausnum. Margborgar sig að spenda 10-20 þús meira í NAS vélar en ódýrari lausnirnar.\n6. 4 TB í geymslupláss er feikinóg, vertu samt með backup í gangi á mikilvægustu hlutina. Ég notaði rsync á nas4free til að synca dótið af ferðatölvunum og svo dropbox á þeim til að synca svo út á við. raid5 getur klikkað",
+            "date": "2013-12-20 20:26:00",
+            "post_id": "543328",
+            "reply_to_id": "543283"
+        },
+        {
+            "user_name": "Siggihp",
+            "text": "Ég er búinn að fylgja LinuxHomeServerGuide.com leiðbeiningum í þaula í jólafríinu, smá pása eftir áramót og er kominn á þann stað að ég er að configure-a torrent virknina. Hann segir mér að nota flexget til að \"Automatically download our TV Show Torrents from RSS Feeds, and organize them based on show and season.\" En til að stilla flexget þarf maður að vinna með eitthvað script og vesen. Þegar þið talið um CouchPotato og SickBeard, gera þau það sama og flexget á að gera? Downloada torrentum til að torrent-client getur sótt torrentið? Eru CouchPotato og SickBeard með betra viðmót heldur en text based script?",
+            "date": "2014-01-13 21:34:00",
+            "post_id": "546886",
+            "reply_to_id": "543328"
+        },
+        {
+            "user_name": "nidur",
+            "text": "Ég setti upp server hjá mér til að utorrenta í gegnum vpn, nota \nhttp://showrss.info\n sem mér finnst bara snilld.\nAnnars er ég líka með rss feed fyrir kvikmyndir Yify og fleirum sem ég vel sjálfur úr og nota \"Media Center Master\" til að laga til og undirbúa fyrir plex.\nSvo er nátturulega Plex sem er bara flott.\nÉg fór ekki í Linux heldur er ég með þetta á Win7 sem virkar þrusuvel fyrir mig. Heyri ekkert í vélinni þar sem hún er í geymslunni vel kæld.",
+            "date": "2014-01-13 23:06:00",
+            "post_id": "546898",
+            "reply_to_id": "546886"
+        },
+        {
+            "user_name": "arnif",
+            "text": "https://github.com/arnif/DeilduTordown\nPython scripta til ad downloada af deildu. \nhttps://github.com/arnif/MoveIt\nSvo þetta til að færa efnið á rétta staði.",
+            "date": "2014-01-14 08:12:00",
+            "post_id": "546933",
+            "reply_to_id": "546898"
+        },
+        {
+            "user_name": "Siggihp",
+            "text": "Bump á gamlan þráð. \nÉg er kominn með torrent á heimaserverinn ogcouchpotato í gang, en er í vandræðum með að finna leiðbeiningar með sickbeard og fá það í gang. Búinn að googla í drasl. \nÉg er s.s. með ubuntu 12.04 server sem vantar sickbeard virkni. fékk alltaf syntax error \"&\" unexpected þegar ég keyrði eina skriptuna, næ ekki að tengjast inná vefviðmótið þegar ég keyrði aðra skriptuþurfti að manually keyra python skriptuna til að komast inná vefviðmótið með þriðju skriptunni. \nEr einhver hér sem á link á leiðbeiningar eða skriftu sem virkar",
+            "date": "2014-02-10 10:04:00",
+            "post_id": "551338",
+            "reply_to_id": "546933"
+        }
+    ],
+    "date": "2013-12-18 19:55:00"
+}

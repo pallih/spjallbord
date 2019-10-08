@@ -1,0 +1,23 @@
+{
+    "forum_title": "Windows",
+    "id": "11755",
+    "title": "Temporary Setup Files",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=11755",
+    "posts": [
+        {
+            "user_name": "noizer",
+            "text": "Ég get ekki eytt partition á fartölvunni minni þar sem Windows er, ætla að setja það upp aftur. Það koma alltaf þessi skilaboð \"\nCannot delete this partition, this partition contains\ntemporary setup files required by windows XP\n\". \n\nÉg er búinn að prófa að gera Repair og Disc Cleanup til þess að reyna að losna við þessa file'a en það virkar ekki.\n\nHvernig losna ég við þá?\n\nEða þarf ég bara að nota eitthvað annað en XP diskinn til þess að eyða þessu partition?",
+            "date": "2006-09-09 18:06:00",
+            "post_id": "127160",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Ef þú ætlar að setja stýrikerfið upp aftur þá er best að boota upp af windows xp geisladisknum og eyða partitioninu í gegnum settupið og formata upp á nýtt.. ættir ekki að lenda í vandræðum með þetta ef þú ferð þá leið.",
+            "date": "2006-09-10 15:53:00",
+            "post_id": "127195",
+            "reply_to_id": "127160"
+        }
+    ],
+    "date": "2006-09-09 18:06:00"
+}

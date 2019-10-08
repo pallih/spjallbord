@@ -1,0 +1,72 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "4304",
+    "title": "Vandamál",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=4304",
+    "posts": [
+        {
+            "user_name": "Milz",
+            "text": "Ég á í smá vandræðum með nýja hljóðkortið mitt, það er nefnilega það að gameportið á því vill ekki virka, þegar ég fer í device manager þá kemur þetta.....\n\n\n\nThis device cannot find enough free resources that it can use. (Code 12)\nIf you want to use this device, you will need to disable one of the other devices on this system.\n\n\n\n\nVeit einhver hvað vandamálið gæti verið og hvernig ég get lagað það?",
+            "date": "2004-05-30 01:04:00",
+            "post_id": "43778",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Stebbi_Johannsson",
+            "text": "hentirðu ekki örugglega öllum driverum og sona drasli frá gamla hljóðkortinu út? annars ef þú gerðir það ekki þá gæti það verið það sem er að bögga þig",
+            "date": "2004-05-30 15:28:00",
+            "post_id": "43818",
+            "reply_to_id": "43778"
+        },
+        {
+            "user_name": "Milz",
+            "text": "Nei, ég held að það sé ekki það, ég held að hljóðkortið sé að keyra á sömu adressu og gamla hljóðkortið en ég er búinn að reyn að disable gamla hljóðkortið en það virðist ekki virka.",
+            "date": "2004-06-01 15:38:00",
+            "post_id": "44053",
+            "reply_to_id": "43818"
+        },
+        {
+            "user_name": "Stebbi_Johannsson",
+            "text": "disablaðu bara öllu og settu síðan drivers fyrir nýja kortið inn.",
+            "date": "2004-06-01 15:50:00",
+            "post_id": "44056",
+            "reply_to_id": "44053"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "ahh, virðist sem að þú sést búinn með IRQ's og hljóðkortið geti ekki share'að IRQ. Man ekki hvar, en einhverstaðar geturru skoðað \"resources\" og athugað hvort að þú getir ekki losað þig við einhver tæki sem að eru að taka IRQ.",
+            "date": "2004-06-01 19:13:00",
+            "post_id": "44093",
+            "reply_to_id": "44056"
+        },
+        {
+            "user_name": "axyne",
+            "text": "ég lendi í þessu nákvæmlega sama vandamáli. ég reyndar var með gamalt soundblaster 128 og setti það í því innbyggða hljóðkortið hafði ekki gameport.\n\n\n\nég disablaði innbyggða. en fékk samt þennan sama error og þú. ég skoðaði nokkur forum á netinu að leit að lausn að þessu vandamáli.\n\n\n\nþað var alltaf sama tuggann. nota nýjustu drivera. ég sá reyndar eitt það gæti skift máli í hvaða pci slot þú stingur kortinu í. ég prufaði að færa mitt frammogtilbaka en virkaði ekki þannig ég jarðaði þetta bara.\n\n\n\nþú ættir að prufa að stínga kortinu í aðra pci rauf til að prófa.",
+            "date": "2004-06-01 20:27:00",
+            "post_id": "44104",
+            "reply_to_id": "44093"
+        },
+        {
+            "user_name": "corflame",
+            "text": "Getur líka prófað Driver Cleaner \nhttp://www.driverheaven.net/cleaner/\n virkaði fínt fyrir mig þegar ég var að uppfæra skjákortsrekla o.þ.h.",
+            "date": "2004-06-02 18:21:00",
+            "post_id": "44199",
+            "reply_to_id": "44104"
+        },
+        {
+            "user_name": "Milz",
+            "text": "Ertu eitthvað með nánari lýsingu hvar ég finn þetta?",
+            "date": "2004-06-08 00:33:00",
+            "post_id": "44698",
+            "reply_to_id": "44199"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "aight, hafði ekki tíma þegar ég skrifaði þetta, lemmie see\n\n\n\nHvaða win ertu með? Í Windows 2000 er þetta allavega:\n\nHægriklikkar á My Computer -> Properties -> Hardware -> Device Manager -> Klkkar á View efst -> Resources by (annaðhvort) -> Un-foldar Interrupt Request(IRQ).\n\n\n\nEn ég veit því miður ekki nógu mikið um IRQ til þess að geta hjálpað þér meira. Veit bara að...\n\n... það eru 15 IRQ rásir í tölvunni\n\n--- ákveðnar rásir eru fráteknar fyrir ákveðna hluti 1 - 9, 12, 13 (gisk)\n\n.... sum tæki geta deilt IRQ rás með öðrum (9 hlutir á ras 11 hjá mér!)\n\n\n\nMig grunar að gameportið geti ekki share'að IRQ, þannig að þú þyrftir að disable'a device sem að er eitt á rás (t.d. MIDI bara eitt á rás 10 hjá mér). Ef ekki geturru disable'að COM port á móðurborðinu ef að þú ert ekki að nota annað, en ég er ekki viss um að gameportið geti notað það IRQ, en þú gætir prófað.\n\n\n\nSíðan gæti verið einhver mun einfaldri lausn framhjá þessu(nýrri driver?), en þú gætir prufað þetta sem ég benti á.",
+            "date": "2004-06-08 12:37:00",
+            "post_id": "44716",
+            "reply_to_id": "44698"
+        }
+    ],
+    "date": "2004-05-30 01:04:00"
+}

@@ -1,0 +1,79 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "13179",
+    "title": "Setja tölvu á DOMAIN",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=13179",
+    "posts": [
+        {
+            "user_name": "Selurinn",
+            "text": "Hvernig setur maður tölvu inní ákveðið DOMAIN?\n\n\n\nVeit nafn User og Password og alles, en hvernig assigna ég tölvunni þangað?",
+            "date": "2007-02-07 01:55:00",
+            "post_id": "138354",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Dusilmenni",
+            "text": "Ætli netstjórinn eigi ekki eftir að bæta tölvunni þinni inn á domainið eða eitthvað slíkt ?",
+            "date": "2007-02-07 13:44:00",
+            "post_id": "138376",
+            "reply_to_id": "138354"
+        },
+        {
+            "user_name": "GTi",
+            "text": "Hægrismellir á \"My Computer\" -> \"Properties\".  -> Computer Name.\n\n\n\nSmelltu á \"Change\" og veldu: \"Domain\" og skrifaði Domain name þar.\n\n\n\nEn annars er líklega hægt að smella á \"Network ID\" í stað \"Change\" og fara eftir Wizard sem kemur þar.\n\n\n\nEf þetta er ekki það... Þá hef ég ekki hugmynd. Fiktaðu þig áfram. Alltaf hægt að laga.",
+            "date": "2007-02-07 14:18:00",
+            "post_id": "138385",
+            "reply_to_id": "138376"
+        },
+        {
+            "user_name": "Stebet",
+            "text": "Það er ekki nóg að hafa bara username og password á domainið. Þú þarft að hafa ákveðin réttindi til þess að geta bætt við tölvum á domainið sem ég efast um að aðrir en kerfisstjórarnir hafi.",
+            "date": "2007-02-07 14:45:00",
+            "post_id": "138397",
+            "reply_to_id": "138385"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Er það ekki bara til að breyta Workgroup?",
+            "date": "2007-02-07 19:56:00",
+            "post_id": "138442",
+            "reply_to_id": "138397"
+        },
+        {
+            "user_name": "arnarj",
+            "text": "hahahahahaha, þetta er fyndnara heldur en tech support punktarnir frá vísi",
+            "date": "2007-02-07 20:47:00",
+            "post_id": "138448",
+            "reply_to_id": "138442"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "WHAT!?\n\n\n\nhttp://i55.photobucket.com/albums/g151/ ... DOMAIN.jpg\n\n\n\n\nÞetta er bara Workgroup!",
+            "date": "2007-02-08 13:14:00",
+            "post_id": "138511",
+            "reply_to_id": "138448"
+        },
+        {
+            "user_name": "arnarj",
+            "text": "ef þú ert með XP home þá geturðu ekki sett tölvuna á Domain",
+            "date": "2007-02-08 13:27:00",
+            "post_id": "138512",
+            "reply_to_id": "138511"
+        },
+        {
+            "user_name": "Dusilmenni",
+            "text": "Eru ekki bara allar líkur á því að þú sért að rokka á Windows XP home edition ? XP home kemst ekki á domain nema með einhverju fikti og fixum sem ég kann ekki.",
+            "date": "2007-02-08 13:31:00",
+            "post_id": "138513",
+            "reply_to_id": "138512"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Takk allir saman",
+            "date": "2007-02-08 17:10:00",
+            "post_id": "138551",
+            "reply_to_id": "138513"
+        }
+    ],
+    "date": "2007-02-07 01:55:00"
+}

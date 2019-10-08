@@ -1,0 +1,163 @@
+{
+    "forum_title": "Koníakstofan",
+    "id": "33434",
+    "title": "Chrome addon",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=9&t=33434",
+    "posts": [
+        {
+            "user_name": "intenz",
+            "text": "Komið með einhver sniðug og skemmtileg Chrome addon.\nÉg tók saman \nnokkur\n en það væri gaman að sjá hvað Vaktarar eru að nota.",
+            "date": "2010-10-29 00:58:00",
+            "post_id": "291463",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "bolti",
+            "text": "Chrome to phone er flott \n (Ef maður er með Android 2.2)  \nhttps://chrome.google.com/extensions/de ... ekfjcgkhco\nÉg er svo með \"Color pick\" \nhttps://chrome.google.com/extensions/de ... pelffpdolg\nOg Smooth gestures \nhttps://chrome.google.com/extensions/de ... necgldgeld",
+            "date": "2010-10-29 08:58:00",
+            "post_id": "291496",
+            "reply_to_id": "291463"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Ég hef nú bara notað Chrome hráann, en ákvað að prófa facebook photo-zoom sem þú ert með þarna.\nOg þvílík snilld",
+            "date": "2010-10-29 09:04:00",
+            "post_id": "291497",
+            "reply_to_id": "291496"
+        },
+        {
+            "user_name": "dori",
+            "text": "Ég er of latur til að finna lista með linkum.",
+            "date": "2010-10-29 09:58:00",
+            "post_id": "291508",
+            "reply_to_id": "291497"
+        },
+        {
+            "user_name": "lethal3",
+            "text": "Skellti inn turn off lights, image poperties og facebook zoom. mjög töff stuff",
+            "date": "2010-10-29 10:48:00",
+            "post_id": "291513",
+            "reply_to_id": "291508"
+        },
+        {
+            "user_name": "raRaRa",
+            "text": "Ég nota aðallega gmail addon, sem sýnir hvað ég á marga tölvupósta ólesna. Ég notaði líka dictionary einusinni, sem virkaði þannig ef ég tvísmellti á eitthvað orð, þá kom dictionary popup um orðið.",
+            "date": "2010-10-29 15:59:00",
+            "post_id": "291556",
+            "reply_to_id": "291513"
+        },
+        {
+            "user_name": "JohnnyX",
+            "text": "StumbleOn er algjör snilld, maður finnur fullt að skemmtilegum síðum",
+            "date": "2010-10-29 16:06:00",
+            "post_id": "291557",
+            "reply_to_id": "291556"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "",
+            "date": "2010-10-29 16:06:00",
+            "post_id": "291558",
+            "reply_to_id": "291557"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Takk coldcut, ég er að fíla AdThwart. Ég náttúrulega elskaði Adblock þegar ég var FireFox notandi.",
+            "date": "2010-10-29 17:22:00",
+            "post_id": "291575",
+            "reply_to_id": "291558"
+        },
+        {
+            "user_name": "gardar",
+            "text": "pfff fæ ég ekkert credit fyrir að benda þér á adthwart?\nhttp://gaui.is/blog/902",
+            "date": "2010-10-29 18:28:00",
+            "post_id": "291584",
+            "reply_to_id": "291575"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "skil ekki af hverju þú ættir að fá það...I was first!",
+            "date": "2010-10-29 19:17:00",
+            "post_id": "291595",
+            "reply_to_id": "291584"
+        },
+        {
+            "user_name": "gardar",
+            "text": "klukkan á gaui.is er bara röng",
+            "date": "2010-10-29 19:30:00",
+            "post_id": "291598",
+            "reply_to_id": "291595"
+        },
+        {
+            "user_name": "dori",
+            "text": "Ég mundi allt í einu eftir smá Chrome extension sem ég var að búa til fyrir einhverju síðan en frysti svo alltof lengi. Smá forsaga:\nÉg nota Google Reader sem RSS lesara og er áskrifandi af forsíðu straumnum á mbl.is. Ég skima allt þar og ef ég sé eitthvað áhugavert skoða ég það á mbl.is síðunni (því að þeir streyma bara broti með RSS). Iðulega lít ég svo yfir blogg um fréttina til að athuga hvað fólkið á götunni er að segja um málefnið.\nSvo er fólk sem virðist ekki geta tekið þátt í samfélaginu og annaðhvort gerir ekkert annað en að afrita textann og segja \"alveg sammála\", koma með leiðinlega brandara sem varla tengjast efninu eða tengja bloggið sitt við alveg ótengda vinsæla frétt. Maður var farinn að læra nöfnin á þessu fólki (Halli gamli, einhver?) en svo hætti ég að nenna því og fór í að gera eitthvað gagnlegra, extension fyrir chrome: mbl-block \nÉg er með þetta á \ngithub\n, reyndar er ég að nota Windowsið mitt núna og það vill ekki leika við github (næ ekki að pusha, reyni að gera það í fyrramálið) en það er hægt að downloada því af þeirri síðu: \nhttp://github.com/downloads/halldor/mbl ... rx/qr_code\nÞetta er auðvitað virkilega mikið alpha, hef rosalega lítið testað þetta svo að það væri rosalega skemmtilegt ef þið nenni að prófa þetta og kommenta á hvað á að gera við linka í fólk sem maður nennir ekki að skoða og bara almennt hvað ykkur finnst. Svo væri líka gaman ef einhver myndi nenna að teikna lógó og/eða myndir til að henda uppí hornið (eins og flashblock) á *.blog.is síðum.",
+            "date": "2010-10-31 02:33:00",
+            "post_id": "292014",
+            "reply_to_id": "291598"
+        },
+        {
+            "user_name": "TheVikingmen",
+            "text": "Vá þetta Turn lights offbjargaði mér svo feitt á Youtube, því tölvan laggar þegar ég hef það í fullscreen \nTakk æðislega fyrir",
+            "date": "2010-10-31 03:02:00",
+            "post_id": "292020",
+            "reply_to_id": "292014"
+        },
+        {
+            "user_name": "beggi90",
+            "text": "Einmitt það sem mig hefur vantað.",
+            "date": "2010-10-31 14:04:00",
+            "post_id": "292069",
+            "reply_to_id": "292020"
+        },
+        {
+            "user_name": "jericho",
+            "text": "Vel gert... er með chrome en aldrei pælt add-ons.  Bíð spenntur eftir að komast heim úr vinnu og prófa sum þessara sem þið hafið nefnt.\nKudos!",
+            "date": "2010-11-01 13:15:00",
+            "post_id": "292296",
+            "reply_to_id": "292069"
+        },
+        {
+            "user_name": "dori",
+            "text": "Hérna er ein snilld: \nhttp://webgraph.com/resources/facebookblocker/",
+            "date": "2010-11-01 16:39:00",
+            "post_id": "292343",
+            "reply_to_id": "292296"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "jamm svo er \nFacebook Disconnect\n svipað...stoppar t.d. DV.is og fleiri síður að sjá hver þú ert þegar þú heimsækir þær",
+            "date": "2010-11-01 18:19:00",
+            "post_id": "292367",
+            "reply_to_id": "292343"
+        },
+        {
+            "user_name": "dori",
+            "text": "Hmm... Ég hélt að DV gæti ekki séð hver maður er nema með því að vera \"facebook app\" og biðja um leyfi til að fá að sjá notandaupplýsingar. Held að þetta dót allt stoppi í raun bara facebook í að sjá hvað þú heimsækir. Kannski yfirsést mér eitthvað við þetta social plugin dót.",
+            "date": "2010-11-01 21:22:00",
+            "post_id": "292428",
+            "reply_to_id": "292367"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "jah sko aldrei gaf ég DV leyfi til þess að sjá hvenær ég væri inná vefnum og hafa mig loggaðan þar inn í þetta athugasemdakerfi þeirra! Er samt að velta fyrir mér hvort að þeir noti hlekki, sem aðrir setja á Facebook og maður kannski klikkar á, til þess að skrá mann inná athugasemdakerfið. \nEf það er þannig þá er ég frekar pirraður!",
+            "date": "2010-11-01 21:58:00",
+            "post_id": "292439",
+            "reply_to_id": "292428"
+        },
+        {
+            "user_name": "dori",
+            "text": "Held að þetta sé iframe, annars þá fíla ég ekki þetta facebook integration allsstaðar.",
+            "date": "2010-11-01 23:46:00",
+            "post_id": "292476",
+            "reply_to_id": "292439"
+        },
+        {
+            "user_name": "Black",
+            "text": "Snilld þessi Facebook zommer :O",
+            "date": "2010-11-02 04:47:00",
+            "post_id": "292539",
+            "reply_to_id": "292476"
+        }
+    ],
+    "date": "2010-10-29 00:58:00"
+}

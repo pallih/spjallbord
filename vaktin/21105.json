@@ -1,0 +1,891 @@
+{
+    "forum_title": "Vaktin.is",
+    "id": "21105",
+    "title": "internetið í rusli á klakanum 2009",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=46&t=21105",
+    "posts": [
+        {
+            "user_name": "rij",
+            "text": "Happy days,\nÉg er núna með 500(til server(telia)) ms ping til paris,þar sem minn ISP er með utanlands gátt yfir 100% load.\nÞeir ISP sem eru í ruglinu virðist vera, VoðaPóne, Tal .\nSimnet á að vera með það sama ping enþá.\nHvað með ykkur ?\nmögulega lista þinn ISP og latency á e-h server.\n---------------\nMY ISP : til Paris var 70 100 ms\nwhat about you ?",
+            "date": "2009-01-16 22:37:00",
+            "post_id": "194225",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Vodafone og Tal er það sama, bæði í meirihluta eigu Baugs á einn eða annan máta.",
+            "date": "2009-01-16 22:58:00",
+            "post_id": "194229",
+            "reply_to_id": "194225"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "ég er með hringiðuna , (ekki spyrja)  alveg í klessu tengingin",
+            "date": "2009-01-16 23:08:00",
+            "post_id": "194230",
+            "reply_to_id": "194229"
+        },
+        {
+            "user_name": "viddi",
+            "text": "Ég er hjá Tal er með 107ms ping til Paris",
+            "date": "2009-01-16 23:40:00",
+            "post_id": "194236",
+            "reply_to_id": "194230"
+        },
+        {
+            "user_name": "zedro",
+            "text": "Vodafone  \n  (Notabene held að lille bro sé í WOW)",
+            "date": "2009-01-16 23:52:00",
+            "post_id": "194241",
+            "reply_to_id": "194236"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Hvernig þá?",
+            "date": "2009-01-17 00:26:00",
+            "post_id": "194251",
+            "reply_to_id": "194241"
+        },
+        {
+            "user_name": "depill",
+            "text": "Allir ISPar á Íslandi fara yfir 100% notkun á sinni bandvídd, annars væru þeir ekkert að nota traffic shaping \n. \nEn já Vodafone er providerinn fyrir bandvídd hjá Tal, svo að ef það sé hægt hjá Tal er það hægt hjá Vodafone, þótt það þurfi ekki að vera the other-way-around",
+            "date": "2009-01-17 00:36:00",
+            "post_id": "194254",
+            "reply_to_id": "194251"
+        },
+        {
+            "user_name": "Darknight",
+            "text": "Ég talaði við einhvern yfir þarna einhvertíman þegar ég var ósáttur og þeir sögðu mér að þetta þeirra bandvídd væri í gegnum símann?",
+            "date": "2009-01-17 00:51:00",
+            "post_id": "194256",
+            "reply_to_id": "194254"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Ég er hjá Símanum. Litli bróðir í wow og ekkert annað sem notar netið í gangi (nema ADSL sjónvarpið tekur bandvídd af internetinu).\n66ms",
+            "date": "2009-01-17 01:09:00",
+            "post_id": "194259",
+            "reply_to_id": "194256"
+        },
+        {
+            "user_name": "birgiro",
+            "text": "Er hjá símanum wireless",
+            "date": "2009-01-17 01:23:00",
+            "post_id": "194260",
+            "reply_to_id": "194259"
+        },
+        {
+            "user_name": "depill",
+            "text": "Þeir eru með gömlu hive IP netin ( AS 34464 ) og svo eithvað af Vodafone IP netum líka. AS 34464 er með einn upstream provider AS 12969 ( Vodafone ), auðvelt að sjá þetta bæði með BGPlay og Robtex.com",
+            "date": "2009-01-17 01:32:00",
+            "post_id": "194261",
+            "reply_to_id": "194260"
+        },
+        {
+            "user_name": "Hyper_Pinjata",
+            "text": "er hjá símanum skráður með 8mb tengingu,er að downloada á 400+kbps innlent á torrent,cappaður í erlent niður á 1mb (~1000kbps)\nog hérna er niðurstaðan:",
+            "date": "2009-01-17 04:50:00",
+            "post_id": "194264",
+            "reply_to_id": "194261"
+        },
+        {
+            "user_name": "rij",
+            "text": "Það er ekki munur á kúk og skít.",
+            "date": "2009-01-17 13:34:00",
+            "post_id": "194286",
+            "reply_to_id": "194264"
+        },
+        {
+            "user_name": "rij",
+            "text": "ok takk fyrir þetta , þarf að ath BGPlay og Robtex, alltaf gaman að sjá e-h nýtt",
+            "date": "2009-01-17 13:41:00",
+            "post_id": "194288",
+            "reply_to_id": "194286"
+        },
+        {
+            "user_name": "rij",
+            "text": "I feel your pain dude.",
+            "date": "2009-01-17 13:42:00",
+            "post_id": "194289",
+            "reply_to_id": "194288"
+        },
+        {
+            "user_name": "Turtleblob",
+            "text": "This made me feel sad inside  \nEdit:Gleymdi að skrifa, er hjá TAL með 4 Mb tengingu",
+            "date": "2009-01-17 14:03:00",
+            "post_id": "194290",
+            "reply_to_id": "194289"
+        },
+        {
+            "user_name": "vesley",
+            "text": "8 mb adsl hjá vodafone",
+            "date": "2009-01-17 14:25:00",
+            "post_id": "194293",
+            "reply_to_id": "194290"
+        },
+        {
+            "user_name": "MariusThor",
+            "text": "Er hjá símanum",
+            "date": "2009-01-17 15:24:00",
+            "post_id": "194296",
+            "reply_to_id": "194293"
+        },
+        {
+            "user_name": "bjornvil",
+            "text": "Er hjá Vodafone",
+            "date": "2009-01-17 15:42:00",
+            "post_id": "194298",
+            "reply_to_id": "194296"
+        },
+        {
+            "user_name": "methylman",
+            "text": "Voða ljós",
+            "date": "2009-01-17 15:53:00",
+            "post_id": "194299",
+            "reply_to_id": "194298"
+        },
+        {
+            "user_name": "emmi",
+            "text": "",
+            "date": "2009-01-17 16:08:00",
+            "post_id": "194301",
+            "reply_to_id": "194299"
+        },
+        {
+            "user_name": "rij",
+            "text": "ætli maður verði ekki að skipta yfir til simnet aftur, þetta er ekki hægt lengur.",
+            "date": "2009-01-18 23:43:00",
+            "post_id": "194489",
+            "reply_to_id": "194301"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Það er verið að kappa mig, sótti mér LOTRO (7,7 gb) og meðfylgjandi patcha(2 gb) um helgina. Ótrúlega böggandi loksins þegar maður lendir í þessu.\n-breytt-\nLíklega best að láta það koma fram að ég er skráður með 12 mb tengingu",
+            "date": "2009-01-19 17:51:00",
+            "post_id": "194578",
+            "reply_to_id": "194489"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Ekki sáttur.",
+            "date": "2009-01-19 17:54:00",
+            "post_id": "194579",
+            "reply_to_id": "194578"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "",
+            "date": "2009-01-19 18:22:00",
+            "post_id": "194583",
+            "reply_to_id": "194579"
+        },
+        {
+            "user_name": "gutti",
+            "text": "",
+            "date": "2009-01-19 20:18:00",
+            "post_id": "194595",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "rij",
+            "text": "I know , I feel your pain, buddy",
+            "date": "2009-01-22 10:49:00",
+            "post_id": "194955",
+            "reply_to_id": "194595"
+        },
+        {
+            "user_name": "starionturbo",
+            "text": "Voðalega eru sumir með svakalega lítið (mikið) latency, ég er með Vodafone og bý í Vestmannaeyjum.",
+            "date": "2009-04-21 01:10:00",
+            "post_id": "204440",
+            "reply_to_id": "194955"
+        },
+        {
+            "user_name": "Nothing",
+            "text": "Simnet 8mb tening,\nParís\nTorshavn",
+            "date": "2009-04-21 01:15:00",
+            "post_id": "204441",
+            "reply_to_id": "204440"
+        },
+        {
+            "user_name": "bridde",
+            "text": "",
+            "date": "2009-04-21 04:01:00",
+            "post_id": "204444",
+            "reply_to_id": "204441"
+        },
+        {
+            "user_name": "Heliowin",
+            "text": "Ég er annars búinn að vera í veseni með tenginguna undanfarið. Hún er farin að hegða sér illa, oft mjög illa. En stundum er hún eins og hún á að vera. Er að velta því fyrir mér hvort það sé eitthvað í gangi hjá netveitu minni.",
+            "date": "2009-04-21 04:49:00",
+            "post_id": "204445",
+            "reply_to_id": "204444"
+        },
+        {
+            "user_name": "Sydney",
+            "text": "Wireless í skólanum.\nEr á starfsmannaneti HÍ heima og er búið að vera frekar slow undanfarið, en ekkert mikið.",
+            "date": "2009-04-21 08:22:00",
+            "post_id": "204446",
+            "reply_to_id": "204445"
+        },
+        {
+            "user_name": "lukkuláki",
+            "text": "",
+            "date": "2009-04-21 08:31:00",
+            "post_id": "204447",
+            "reply_to_id": "204446"
+        },
+        {
+            "user_name": "Hargo",
+            "text": "Vodafone ljós - áskriftarleið 30Mbps.\nServer: Paris\nServer: Keflavik",
+            "date": "2009-04-21 08:41:00",
+            "post_id": "204448",
+            "reply_to_id": "204447"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Hvernig er þetta uppsett hjá þér má ég spyrja?",
+            "date": "2009-04-21 09:03:00",
+            "post_id": "204449",
+            "reply_to_id": "204448"
+        },
+        {
+            "user_name": "Hargo",
+            "text": "Hvað áttu við?  \n \nEr bara með 30Mbps ljósleiðaratengingu frá Vodafone heim til mín gegnum Gagnaveitu Reykjavíkur. Er með Zyxel P-355U router, 40GB hámarks erlent download á mánuði. .",
+            "date": "2009-04-21 09:33:00",
+            "post_id": "204451",
+            "reply_to_id": "204449"
+        },
+        {
+            "user_name": "lukkuláki",
+            "text": "You lucky bastard !",
+            "date": "2009-04-21 09:38:00",
+            "post_id": "204452",
+            "reply_to_id": "204451"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Hmm, og í hvaða bæjarfélagi?",
+            "date": "2009-04-21 09:46:00",
+            "post_id": "204453",
+            "reply_to_id": "204452"
+        },
+        {
+            "user_name": "Hargo",
+            "text": "Reykjavík, bý í Laugardalnum í hverfi 105. Gatan var tengd vorið 2008, fékk áskrift í lok maí sama ár.",
+            "date": "2009-04-21 09:52:00",
+            "post_id": "204455",
+            "reply_to_id": "204453"
+        },
+        {
+            "user_name": "depill",
+            "text": "Eins og er Vodafone ADSL hámarkshraði víst ( sem er nú bara þessi gamla 12 meg tenging hjá þeim allavega fyrir mig )",
+            "date": "2009-04-21 09:53:00",
+            "post_id": "204456",
+            "reply_to_id": "204455"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Hjá mér á Seltjarnarnesi Ljós hjá vodafone:\nSpurning um að fara niður í Vodafone og spyrja hvort hægt sé að fá nýjan router til að sjá hvort það hafi áhrif.",
+            "date": "2009-04-21 10:15:00",
+            "post_id": "204463",
+            "reply_to_id": "204456"
+        },
+        {
+            "user_name": "Hargo",
+            "text": "Hvernig router ertu með og hvaða áskriftarleið? \nÉg fékk þessa 30Mbps áskriftarleið þegar Vodafone voru með eitthvað kynningartilboð, ég var þar áður bara með 12Mbps ljós. Núna bjóða þeir held ég bara upp á 50Mbps með mismiklu gagnamagni á mánuði.",
+            "date": "2009-04-21 10:29:00",
+            "post_id": "204465",
+            "reply_to_id": "204463"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Maður hefði átt að væla aðeins meira... Búinn að vera með 6 Mbit tengingu allan þennan tíma, svona er þetta þegar maður lætur foreldrana sjá um þetta  \n Verst er að breytingin kemur ekki inn fyrr en eftir mánaðarmót.\nEdit: Mun segja frá hvernig það lukkast \n Bíðið spennt til fyrstu vikunnar í maí",
+            "date": "2009-04-21 10:47:00",
+            "post_id": "204469",
+            "reply_to_id": "204465"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Bölvað rugl er þetta alltaf, ég er að fá mun verri hraða en þú til Parísar á 50Mb tengingu með betri router",
+            "date": "2009-04-21 14:13:00",
+            "post_id": "204483",
+            "reply_to_id": "204469"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Gæti verið álag á strengnum, eða þá að Vodafone líkar ekki við þig",
+            "date": "2009-04-21 14:37:00",
+            "post_id": "204486",
+            "reply_to_id": "204483"
+        },
+        {
+            "user_name": "Hargo",
+            "text": "Gúru, hvernig router ertu með?",
+            "date": "2009-04-21 15:26:00",
+            "post_id": "204492",
+            "reply_to_id": "204486"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "ZyXEL NBG420N metinn á 15 þúsund krónur sem að maður fær frí afnot af ótímabundið fyrir að hafa verið með pirr.",
+            "date": "2009-04-21 15:43:00",
+            "post_id": "204493",
+            "reply_to_id": "204492"
+        },
+        {
+            "user_name": "BiggiKókómjólk",
+            "text": "12 mb hjá Vodafone",
+            "date": "2009-04-21 15:45:00",
+            "post_id": "204494",
+            "reply_to_id": "204493"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Ertu viss um að þú sért með rétta áskriftarleið?",
+            "date": "2009-04-21 15:46:00",
+            "post_id": "204495",
+            "reply_to_id": "204494"
+        },
+        {
+            "user_name": "Hargo",
+            "text": "Já okei. Varstu áður með Zyxel P-335U? Er sá ekki með 20Mbps limit eða e-ð þannig?\nFáránlegt ef þeir eru að láta limited routera fylgja með mun stærri áskriftarleiðum eins og 50Mbps.",
+            "date": "2009-04-21 16:10:00",
+            "post_id": "204496",
+            "reply_to_id": "204495"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Jú, og var að fara með það í neytendasamtökin áður en að þeir létu mig fá þennan.\nZyxel P-335U er með 22Mb/s throughput með eldveggnum og 28Mb/s án hans.",
+            "date": "2009-04-21 16:14:00",
+            "post_id": "204497",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Hargo",
+            "text": "Já ókei, æj ég nenni ekki að gera veður yfir því fyrst ég er bara með 30Mbps tengingu, er með hana á svo góðum díl. En eru þeir ennþá að láta P-335U routerinn fylgja með þessum nýju ljós-áskriftarleiðum sem eru allar 50Mbps?",
+            "date": "2009-04-21 16:17:00",
+            "post_id": "204498",
+            "reply_to_id": "204497"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Get ekki sagt til um það, en ég get sagt þér það að þeir hafa ekki komið með neina tilkynningu um að þeir hafi fengið nýja routera til núverandi áskrifenda að 50Mb tenginganna.\nSem að mér finnst bara vera algjörlega ósiðlegt og að öllu leyti lélegir viðskiptahættir.",
+            "date": "2009-04-21 16:20:00",
+            "post_id": "204500",
+            "reply_to_id": "204498"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Ég er að fá ca 20 Mbit núna á innanlands traffík, næ um 2 MB/s stöðugu.\nEdit: Á þessi nýji Zyxel að styðja 50 Mbit?",
+            "date": "2009-04-21 18:07:00",
+            "post_id": "204504",
+            "reply_to_id": "204500"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Hann styður allavegana vel yfir það, get náð 70Mbit innanlands með honum.",
+            "date": "2009-04-21 18:19:00",
+            "post_id": "204505",
+            "reply_to_id": "204504"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Hmm, þá er um að gera að drífa sig niður í Vodafone eftir prófin og sjá hvort maður fái hann ekki endurgjaldslaust.",
+            "date": "2009-04-21 18:23:00",
+            "post_id": "204507",
+            "reply_to_id": "204505"
+        },
+        {
+            "user_name": "Rubix",
+            "text": "Ég er með 12mbit tengingu hjá símanum",
+            "date": "2009-05-29 15:27:00",
+            "post_id": "207975",
+            "reply_to_id": "204507"
+        },
+        {
+            "user_name": "Arkidas",
+            "text": "Nú? Ég er með 40Mb ljósleiðara tengingu þar og hef mjög sjalda þurft að kvarta.",
+            "date": "2009-05-29 16:44:00",
+            "post_id": "207983",
+            "reply_to_id": "207975"
+        },
+        {
+            "user_name": "ZoRzEr",
+            "text": "Vodafone, 50mbit ljós.",
+            "date": "2009-05-29 17:36:00",
+            "post_id": "207986",
+            "reply_to_id": "207983"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Ég ætla að skjóta á að þú sért með Zyxel P-335U?",
+            "date": "2009-05-29 19:07:00",
+            "post_id": "207989",
+            "reply_to_id": "207986"
+        },
+        {
+            "user_name": "ZoRzEr",
+            "text": "Zyxel NBG420N reyndar.",
+            "date": "2009-05-29 21:40:00",
+            "post_id": "208002",
+            "reply_to_id": "207989"
+        },
+        {
+            "user_name": "Gullisig",
+            "text": "Hringidan 60 Mb",
+            "date": "2009-05-29 21:48:00",
+            "post_id": "208005",
+            "reply_to_id": "208002"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Sic slappt m.v. tengingu.",
+            "date": "2009-05-29 21:52:00",
+            "post_id": "208007",
+            "reply_to_id": "208005"
+        },
+        {
+            "user_name": "Arkidas",
+            "text": "Hringiðan 40Mb",
+            "date": "2009-05-29 21:53:00",
+            "post_id": "208008",
+            "reply_to_id": "208007"
+        },
+        {
+            "user_name": "rapport",
+            "text": "CAP þýðir greinilega ekki það sama hjá öllum....\nEr hjá Símanum, þráðlasut net og innanlands er all OK...\np.s. er á Háskólasvæðinu hjá Keili í Keflavík... veit ekekrt hvernig tenging er í húsið en veit að þeir hafa verið að takmarka þetta hjá mér...\n*** bætt við örlítið seinna...\nBætt við 1.6\nÞetta breyttist annað hvort vegna þess að ég kvartaði feitt eða því að ég fékk mér mun öflugri tölvu og Windows 7...",
+            "date": "2009-05-30 01:59:00",
+            "post_id": "208025",
+            "reply_to_id": "208008"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Netið er skárra á ml kl 20-23 þegar að fyrirtæki eru hætt að nota kerfið og enginn er byrjaður á næturdownloadinu sínu.",
+            "date": "2009-05-30 02:13:00",
+            "post_id": "208026",
+            "reply_to_id": "208025"
+        },
+        {
+            "user_name": "Hargo",
+            "text": "ManiO\n, léstu verða af því að fara í Vodafone til að biðja um ZyXEL NBG420N í staðinn fyrir Zyxel P-335U?\nÞað svona kitlar mig aðeins að skipta mínum P-335U fyrir NBG420N, en ég nenni bara ekki að standa í einhverju svaka stappi við þá.",
+            "date": "2009-05-30 13:42:00",
+            "post_id": "208044",
+            "reply_to_id": "208026"
+        },
+        {
+            "user_name": "axyne",
+            "text": "Er með 12 Mbit ADSL hjá Vodafone",
+            "date": "2009-05-30 15:40:00",
+            "post_id": "208045",
+            "reply_to_id": "208044"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Já, og munurinn er fáránlegur. Ekkert vesen með ports, næ fullum hraða og meira til stundum. P-335U er hand ónýtt rusl sem er ekki mönnum bjóðandi.",
+            "date": "2009-05-30 16:29:00",
+            "post_id": "208049",
+            "reply_to_id": "208045"
+        },
+        {
+            "user_name": "ZoRzEr",
+            "text": "Netið er búið að vera ömurlegt undanfarna 12 tíma. Önnur hver erlend síða tekur milli 2-10 mínutur  að hlaðast og ekkert erlent download virkar.",
+            "date": "2009-05-31 07:30:00",
+            "post_id": "208067",
+            "reply_to_id": "208049"
+        },
+        {
+            "user_name": "mpythonsr",
+            "text": "Þetta er minn hraði 20mbit ljósleiðari hjá  tal.is  \n[url][URL=http://www.speedtest.net]\n[/url][/url]\nEkki slæmt",
+            "date": "2009-05-31 11:37:00",
+            "post_id": "208071",
+            "reply_to_id": "208067"
+        },
+        {
+            "user_name": "Orri",
+            "text": "12MB tenging hjá Símanum.\nEDIT:\nSkipti yfir í Vodafone 12MB",
+            "date": "2009-05-31 14:43:00",
+            "post_id": "208080",
+            "reply_to_id": "208071"
+        },
+        {
+            "user_name": "Hargo",
+            "text": "Baðstu bara um að fá að skipta gamla út? Var það ekkert mál? Létu þeir þig ekkert borga e-ð á milli?",
+            "date": "2009-05-31 15:42:00",
+            "post_id": "208083",
+            "reply_to_id": "208080"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "2500 kall, nennti ekki að standa í þessu bulli. Fyrst voru þeir með eitthvað þvílíkt mál að \"prófa\" hann þar sem ég sagði hann bilaðan, og viti menn þeir fundu ekkert að. Ég spurði hvort að þeir hefðu sett álag á hann og einhver stelpa sem vann í afgreiðslunni labbaði framhjá og sagði að sjálfsögðu, eins og hún viti eitthvað um þetta. Var sem sagt netlaus í hálfan dag og loks eftir smá þras um að ég vildi nýja routerinn þá kom í ljós að það er lítið mál að kaupa þennan nýja. Fáránlegt að segja manni það ekki strax.",
+            "date": "2009-05-31 17:12:00",
+            "post_id": "208087",
+            "reply_to_id": "208083"
+        },
+        {
+            "user_name": "Saber",
+            "text": "8 mbit @ Tal\n...og er að fá 10 kB/s max í erlendu torrent! \nHail to the 56k!  \nEDIT: Svíþjóð...",
+            "date": "2009-06-08 22:22:00",
+            "post_id": "208819",
+            "reply_to_id": "208087"
+        },
+        {
+            "user_name": "gutti",
+            "text": "",
+            "date": "2009-06-09 04:26:00",
+            "post_id": "208833",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Frá Íslandi\nParís\n12mb tengin frá Símanum.",
+            "date": "2009-06-09 05:01:00",
+            "post_id": "208834",
+            "reply_to_id": "208833"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Ísland:\nFrakkland:\nLjósleiðari, 50 Mb hjá Voda á Seltjarnarnesi.",
+            "date": "2009-06-10 12:51:00",
+            "post_id": "208938",
+            "reply_to_id": "208834"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Eftir að hafa farið í gegnum greiningatól hjá Símanum\nhttp://www.siminn.is/einstaklingar/adst ... hradaprof/\nOg sent allar niðurstöður þá fékk ég svar...:\nFram kemur í prófi að buffer sé á netkorti:\nYour PC/Workstation has a 63.0 KByte buffer which limits the throughput to\n6.22 Mbps\nÞað væri sniðugt að lagfæra þetta með því að sækja eftirfarandi forrit: \nhttp://www.dslreports.com/front/DRTCP021.exe\nOpna það svo, velja netkortið úr Adapter Settings felliblaðinu. Breyta svo tölunni í TCP Receive Window í 255000 og ýta á Apply\nHafa á stillingarnar nákvæmlega eins og sést á skjáskotinu á eftirfarandi síðu.\nhttp://www.simnet.is/veirur/lagg/?o=hradatest.htm\nOg þetta virkar fínt núna...",
+            "date": "2009-06-10 22:34:00",
+            "post_id": "209027",
+            "reply_to_id": "208938"
+        },
+        {
+            "user_name": "GrimRipper",
+            "text": "Er með 16MB hjá Símanum",
+            "date": "2009-09-29 21:30:00",
+            "post_id": "220489",
+            "reply_to_id": "209027"
+        },
+        {
+            "user_name": "mercury",
+            "text": "12mb síminn",
+            "date": "2009-09-29 21:37:00",
+            "post_id": "220490",
+            "reply_to_id": "220489"
+        },
+        {
+            "user_name": "fantis",
+            "text": "Siminn 12mb tvær aðrar tölvur í gengi báðar wireless",
+            "date": "2009-10-17 09:51:00",
+            "post_id": "222628",
+            "reply_to_id": "220490"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Talandi um Ping til útlanda.\nÉg spila mjög mikið með einu bresku clani í L4D og þeir eru með sinn eigin server. Hafði oft spilað með þeim með fínt ping alveg þangað til í kringum byrjun september, þegar nýr sæstrengur var tekinn í notkun. Þá hækkaði ping á þessum server úr 70-80ms í 130-150ms. Það hafa 5 aðrir íslendingar farið á þennan server á sama tíma og ég er á honum og ég tók strax eftir munstri, sumir voru með hátt ping en aðrir ekki. Svo ég spurði alla hvaða ISP þeir eru hjá og þá komst ég að því að þeir sem eru hjá Símanum hafa fengið slæmt ping á þennan server síðan í september en þeir sem eru hjá Vodafone eru ennþá á réttu róli.\nNæst sendi ég póst á Simnet og útskýrði þetta og fékk fljótlega til baka bréf sem bað mig um að gera trace á IP töluna. Ég tók trace og fékk annan vin minn hjá Vodafone til að taka trace líka og senda mér niðurstöðurnar:\nSimnet tengingar:\nTracing route to 217.163.23.212 over a maximum of 30 hops\n  1     4 ms    99 ms    99 ms  speedtouch.lan [192.168.1.254]\n  2    20 ms    22 ms    15 ms  anax9.isholf.is [157.157.255.119]\n  3    16 ms    16 ms    15 ms  157.157.53.158\n  4    15 ms    16 ms    15 ms  157.157.255.182\n  5    97 ms    98 ms    98 ms  157.157.55.50\n  6   124 ms    98 ms    98 ms  gi1-14.mpd01.ymq02.atlas.cogentco.com [38.104.155.57]\n  7   112 ms   112 ms   112 ms  te4-3.ccr01.jfk02.atlas.cogentco.com [154.54.7.57]\n  8   113 ms   112 ms   113 ms  te7-2.mpd01.jfk05.atlas.cogentco.com [154.54.5.210]\n  9    95 ms    95 ms    95 ms  Te-8-1.car2.NewYork1.Level3.net [4.68.111.45]\n 10   125 ms   128 ms   124 ms  vlan79.csw2.NewYork1.Level3.net [4.68.16.126]\n 11   122 ms   123 ms   121 ms  ae-71-71.ebr1.NewYork1.Level3.net [4.69.134.69]\n 12   126 ms   125 ms   121 ms  ae-42-42.ebr2.London1.Level3.net [4.69.137.69]\n 13   117 ms   117 ms   118 ms  ae-2-52.edge4.London1.Level3.net [4.69.139.106]\n 14   120 ms   118 ms   121 ms  217.163.23.212\nTrace complete.\nVodafone tengingar:\nTracing route to 217.163.23.212 over a maximum of 30 hops\n  1    <1 ms    <1 ms    <1 ms  192.168.1.1\n  2    11 ms    11 ms    11 ms  B04-Thorufell.metronet.is [193.4.254.4]\n  3     7 ms    11 ms    12 ms  D04-BRAS.metronet.is [193.4.253.237]\n  4    57 ms    80 ms    61 ms  217.6.51.93\n  5    62 ms    57 ms    61 ms  194.25.6.182\n  6    65 ms    68 ms    62 ms  62.156.138.242\n  7    93 ms    59 ms    62 ms  ae-1-51.edge4.London1.Level3.net [4.69.139.74]\n  8    67 ms    61 ms    61 ms  217.163.23.212 \nTrace complete.\nEins og sést þarna fara Simnet tengingar alveg þvílíka krókaleið til að komast á sama stað. Ég sendi þessar niðurstöður til baka og þá hættu þeir að svara mér. \nÞað finnst mér mjög léleg þjónusta og ég er farinn í hugleiðingar að skipta um internet fyrirtæki.",
+            "date": "2009-10-17 12:20:00",
+            "post_id": "222642",
+            "reply_to_id": "222628"
+        },
+        {
+            "user_name": "razrosk",
+            "text": "Síminn (var að streama útvarp og létt download ..(ca. 12kb/s og 2-3 upload) þegar testið var tekið)",
+            "date": "2009-10-22 08:23:00",
+            "post_id": "223237",
+            "reply_to_id": "222642"
+        },
+        {
+            "user_name": "emmi",
+            "text": "Það hefur klárlega komið í ljós að eftir þessar breytingar sem gerðar voru um daginn þá eru þeir hjá Vodafone með mun betri tengingar útúr landinu.",
+            "date": "2009-10-22 09:07:00",
+            "post_id": "223238",
+            "reply_to_id": "223237"
+        },
+        {
+            "user_name": "Lallistori",
+            "text": "12mb tenging hjá Símanum.",
+            "date": "2009-10-22 10:12:00",
+            "post_id": "223240",
+            "reply_to_id": "223238"
+        },
+        {
+            "user_name": "vesi",
+            "text": "Hvað er i gangi",
+            "date": "2009-11-14 18:12:00",
+            "post_id": "227285",
+            "reply_to_id": "223240"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Í dag 2010 get ég ekki einu sinni speedtest.net'að mig til útlanda.\nEDIT: JÚ! MAÐUR NÁÐI AÐ TENGJAST ROUBAIX! 0.08 Megabits á sekúndu og 250 ping.",
+            "date": "2010-04-19 15:52:00",
+            "post_id": "257066",
+            "reply_to_id": "227285"
+        },
+        {
+            "user_name": "Senko",
+            "text": "0.2MB / 400 ping til London, nice.",
+            "date": "2010-04-19 15:58:00",
+            "post_id": "257067",
+            "reply_to_id": "257066"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "6 skipti 2010 sem eitthvað bilar í þessum ljósleiðara.\n2 af þeim vorum við net, síma og sjónvarpslaus í 6+ klst.",
+            "date": "2010-04-19 16:00:00",
+            "post_id": "257068",
+            "reply_to_id": "257067"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Gúrú, sama hér. Allt í einu steindrapst netið, \"Problem loading page\" kemur við aðra hverja síðu, þær sem loadast eru ca. 20-30sek að koma upp.. Sæstrengurinn slitinn aftur?",
+            "date": "2010-04-19 16:01:00",
+            "post_id": "257070",
+            "reply_to_id": "257068"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Sama hér, allt í mínus",
+            "date": "2010-04-19 16:06:00",
+            "post_id": "257071",
+            "reply_to_id": "257070"
+        },
+        {
+            "user_name": "stefan251",
+            "text": "þetta er bara vodafone",
+            "date": "2010-04-19 16:12:00",
+            "post_id": "257072",
+            "reply_to_id": "257071"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Bilunin virðist liggja í kerfinu hjá Vodafone.\nEdit : Nope, sæstrengurinn again.\nhttp://www.dv.is/frettir/2010/4/19/bila ... netumferd/",
+            "date": "2010-04-19 16:14:00",
+            "post_id": "257073",
+            "reply_to_id": "257072"
+        },
+        {
+            "user_name": "Andriante",
+            "text": "Niceeee..\nVonandi verður hann ekki niðri í 2 vikur eins og síðast >-<",
+            "date": "2010-04-19 16:54:00",
+            "post_id": "257076",
+            "reply_to_id": "257073"
+        },
+        {
+            "user_name": "Zaphod",
+            "text": "Já þetta er alveg magnað! \nÉg er á norðurlandi og kemsti ekki inná eina einustu erlenda síðu.",
+            "date": "2010-04-19 16:57:00",
+            "post_id": "257077",
+            "reply_to_id": "257076"
+        },
+        {
+            "user_name": "biturk",
+            "text": "kennir ykkur að vera hjá símanum \n \naldrei lendi ég í neinu böggi með símann eða vandræðum, netið alltar hraðvirkt og fínt eins og við er að búast í eldgömlu húsi á akureyri með lélegar lagnir og aldrei sæstrengsslit að valda rugli hjá mér eða neitt",
+            "date": "2010-04-19 17:01:00",
+            "post_id": "257078",
+            "reply_to_id": "257077"
+        },
+        {
+            "user_name": "ZoRzEr",
+            "text": "Sama rugl hér. Vodafone ljós",
+            "date": "2010-04-19 17:53:00",
+            "post_id": "257091",
+            "reply_to_id": "257078"
+        },
+        {
+            "user_name": "Hvati",
+            "text": "Sama gerist hjá mér, er hjá Vodafone, kemst ekki inná sumar síður...",
+            "date": "2010-04-19 17:58:00",
+            "post_id": "257092",
+            "reply_to_id": "257091"
+        },
+        {
+            "user_name": "JohnnyX",
+            "text": "svona nett pirrandi að þurfa að fara að læra vegna þess að maður getur ekki hangið á netinu",
+            "date": "2010-04-19 18:05:00",
+            "post_id": "257096",
+            "reply_to_id": "257092"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Evrópuþjóðirnar pottþétt að hefna sín á okkur",
+            "date": "2010-04-19 18:10:00",
+            "post_id": "257100",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Heliowin",
+            "text": "Það er allt í skralli nánast, fjölsóttir íslenskir vefir liggja meira eða minna niðri hjá mér á landinu með timeout alveg um leið, hanga, eða eru mjög lengi að hlaðast niður.\nÞað eru engar fréttir um þetta á helstu frétta vefmiðlum landsins nema þá DV, en það kom fyrr í dag og vantar því update.",
+            "date": "2010-04-19 18:30:00",
+            "post_id": "257104",
+            "reply_to_id": "257100"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Gæti í alvörunni trúað því..",
+            "date": "2010-04-19 18:38:00",
+            "post_id": "257106",
+            "reply_to_id": "257104"
+        },
+        {
+            "user_name": "Saber",
+            "text": "",
+            "date": "2010-04-19 18:41:00",
+            "post_id": "257108",
+            "reply_to_id": "257106"
+        },
+        {
+            "user_name": "bAZik",
+            "text": "Klárlega, alltaf að bila!",
+            "date": "2010-04-19 19:00:00",
+            "post_id": "257110",
+            "reply_to_id": "257108"
+        },
+        {
+            "user_name": "Hargo",
+            "text": "Tilkynning á forsíðu vodafone.is\nÍslenskar síður hjá mér eru einnig mjög hægar.",
+            "date": "2010-04-19 19:12:00",
+            "post_id": "257112",
+            "reply_to_id": "257110"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Hvað er svona flókið við að flytja alla trafficina yfir á varasambönd við útlönd? Síðan er stór spurning af hverju íslenskar síður eru líka hægar.\nÞetta er óþolandi.",
+            "date": "2010-04-19 19:34:00",
+            "post_id": "257115",
+            "reply_to_id": "257112"
+        },
+        {
+            "user_name": "benson",
+            "text": "Vááá hvað ég er orðinn þreyttur á þessu.",
+            "date": "2010-04-19 22:07:00",
+            "post_id": "257141",
+            "reply_to_id": "257115"
+        },
+        {
+            "user_name": "vesley",
+            "text": "virkilega pirrandi að geta ekki notað neina erlenda síðu.  kemst ekki inná gmail eða neitt.    og þurfti virkilega að komast inná þá síðu í dag.",
+            "date": "2010-04-19 22:11:00",
+            "post_id": "257142",
+            "reply_to_id": "257141"
+        },
+        {
+            "user_name": "icup",
+            "text": "Ég fæ bara ágæta sendingu frá útlöndum. Örlítið minni en vanalega. Íslenskar síður fínar(er að sækja á max hraða) Youtube er samt voða hægt. Ekki að verða fyrir stórum vanda samt.\nPS.\nEr hjá símanum.",
+            "date": "2010-04-19 22:26:00",
+            "post_id": "257149",
+            "reply_to_id": "257142"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Komið smá í gang hjá Vodafone.",
+            "date": "2010-04-19 22:38:00",
+            "post_id": "257153",
+            "reply_to_id": "257149"
+        },
+        {
+            "user_name": "guttalingur",
+            "text": "þetta er minn hraði",
+            "date": "2010-08-11 00:32:00",
+            "post_id": "275840",
+            "reply_to_id": "257153"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Minn hraði:",
+            "date": "2010-08-15 13:48:00",
+            "post_id": "276497",
+            "reply_to_id": "275840"
+        },
+        {
+            "user_name": "audiophile",
+            "text": "Vodafone 12mbit",
+            "date": "2010-08-15 16:25:00",
+            "post_id": "276518",
+            "reply_to_id": "276497"
+        },
+        {
+            "user_name": "urban",
+            "text": "París\nRVK\n16 mbit hjá símanum",
+            "date": "2010-08-15 16:29:00",
+            "post_id": "276519",
+            "reply_to_id": "276518"
+        },
+        {
+            "user_name": "ponzer",
+            "text": "Er með 2 servera á ljósi bæði hjá Voda og Símanum. Gerði test á Paris áðan..\nVoda\nSíminn",
+            "date": "2010-08-15 18:54:00",
+            "post_id": "276547",
+            "reply_to_id": "276519"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Sorry að ég sé að hogga allt internetið ykkar",
+            "date": "2010-08-15 19:09:00",
+            "post_id": "276549",
+            "reply_to_id": "276547"
+        },
+        {
+            "user_name": "Heliowin",
+            "text": "",
+            "date": "2010-08-15 20:47:00",
+            "post_id": "276560",
+            "reply_to_id": "276549"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Gúrú og guttalingur...hvað er eiginlega málið með ykkur?\nHvað eruð þið að borga á mánuði fyrir þessar tengingar?",
+            "date": "2010-08-15 20:48:00",
+            "post_id": "276561",
+            "reply_to_id": "276560"
+        },
+        {
+            "user_name": "guttalingur",
+            "text": "5.590+2.410 fyrir ljós\nssé 8 þús fyrir 50mb tengingu",
+            "date": "2010-08-20 16:58:00",
+            "post_id": "277539",
+            "reply_to_id": "276561"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Ísland:\nFrakkland:\nÞetta er það sem er í boði fyrir Keflvíkinga sem kaupa internet hjá Vodafone! Á kvöldin verður tengingin hjá mér ALLTAF svona, hvert einasta kvöld. Ég var búinn að vera í stöðugu e-mail sambandi við einn þjónustu fulltrúa frá Vodafone frá því í byrjun maí á þessu ári vegna þessa vandamáls. Hann bað endalaust um meira og meira trace route og frekari upplýsingar en hann virtist aldrei ná að fatta hvert vandamálið var. \nSíðan þegar ég var búinn að gefast upp eftir að mér var lofað að þetta yrði lagað fyrir lok júlí mánaðar en ekkert gerðist þá hringdi annar þjónustufulltrúi í mig. Sá virtist skilja miklu betur hvað var í gangi og það sem ég var að reyna að segja við hann. Ég sendi honum í kjölfarið trace route sem sýndi fram á það að vandamálið er ekki allir aðrir serverar sem ég reyndi að tengjast heldur tengingin til þeirra servers í Reykjavík. Hann sendi það áfram á tæknimenn. \nÍ byrjun september (4 mánuðum eftir að ég hafði fyrst samband) þá sendi hann póst til baka og sagði mér að bandreidd til Keflavíkur hafi verið aukin og að sú ályktun að þetta var sambandið til Keflavíkur var rétt. Eina sem að gerðist var að þetta versnaði til muna. Ég er farinn að hafa áhyggjur af því að þessir tæknimenn hjá Vodafone þekkja ekki muninn á plús og mínus og að þeir hafi í rauninni minnkað bandvíddina hingað. \nEn þar sem ég er að flytja að heiman núna í næsta mánuði þá hef ég ákveðið að láta þetta eiga sig. Þetta pirrar foreldra mína ekki neitt og þau sjá bara lægra verð svo ég ætla ekki að vera að standa í því að færa allt draslið yfir aftur. En það er ekki séns í helvíti að ég kaupi þjónustu frá Vodafone þegar ég verð fluttur að heiman! \nÞetta er nú þegar búið að hrekja tvo aðra vini mína í burt frá þeim og þeir geta ekki verið sáttari með ákvörðunina sína. Núna geta þeir spilað tölvuleiki á netinu hvenar sem er, ekki bara frá miðri nóttu til miðs dags!",
+            "date": "2010-09-22 21:38:00",
+            "post_id": "283584",
+            "reply_to_id": "277539"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Oooog til samanburðar þá er þetta svona fyrir utan álagstímann:\nEf að þeir þarna hjá Vodafone gætu bara drattast til að laga þetta og hafa tenginguna eins allan sólarhringinn þá væri ég sáttur maður!",
+            "date": "2010-09-23 01:00:00",
+            "post_id": "283627",
+            "reply_to_id": "283584"
+        },
+        {
+            "user_name": "Hargo",
+            "text": "Spurning um að þú flytjir bara í hverfi sem eru ljósleiðaratengd. Ég þarf líklega að selja mína íbúð eftir 1-2 ár, skal láta þig vita",
+            "date": "2010-09-23 01:15:00",
+            "post_id": "283629",
+            "reply_to_id": "283627"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Ætla nú ekki að fara að kaupa íbúð til að komast í ljósleiðara. ADSL dugar mér nú alveg, svo lengi sem að það helst í lagi allan sólarhringinn.",
+            "date": "2010-09-23 01:33:00",
+            "post_id": "283631",
+            "reply_to_id": "283629"
+        },
+        {
+            "user_name": "Hargo",
+            "text": "Þetta var nú líka meira sagt í gríni en alvöru",
+            "date": "2010-09-23 08:04:00",
+            "post_id": "283641",
+            "reply_to_id": "283631"
+        },
+        {
+            "user_name": "Benzmann",
+            "text": "",
+            "date": "2010-09-23 08:46:00",
+            "post_id": "283645",
+            "reply_to_id": false
+        }
+    ],
+    "date": "2010-09-23 08:46:00"
+}

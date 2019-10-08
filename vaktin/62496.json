@@ -1,0 +1,58 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "62496",
+    "title": "Windows 7 starter",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=62496",
+    "posts": [
+        {
+            "user_name": "Magni81",
+            "text": "Sælir, ég er með eina litla tölvu með windows 7 starter stýrikerfi. Nú er búið að gleyma lykilorðinu. Er einhver þarna úti sem er til í að taka hana og setja hana uppá nýtt? eða bjarga þessu fyrir mig? $ í boði að sjálfsögðu.",
+            "date": "2014-09-19 16:31:00",
+            "post_id": "573895",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "kizi86",
+            "text": "http://pogostick.net/~pnh/ntpasswd/\n works wonders! bara skella þessu á usb \nhttp://pcsupport.about.com/od/toolsofth ... -guide.htm\nhér er guide hvernig á að nota forritið",
+            "date": "2014-09-19 18:12:00",
+            "post_id": "573901",
+            "reply_to_id": "573895"
+        },
+        {
+            "user_name": "Magni81",
+            "text": "Þetta er ekki að virka hjá mér",
+            "date": "2014-09-20 09:04:00",
+            "post_id": "573966",
+            "reply_to_id": "573901"
+        },
+        {
+            "user_name": "kizi86",
+            "text": "hvernig er þetta ekki að virka? því þetta á að virka á ALLAR windows 7 tölvur....",
+            "date": "2014-09-20 11:20:00",
+            "post_id": "573979",
+            "reply_to_id": "573966"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Þegar ég var hjá Tölvutækni vorum við að rukka 990kr.- fyrir að fjarlægja lykilorð, veit ekki hvort það sé breytt en býst við að flest verkstæði geti gert þetta á staðnum fyrir svipaðan pening \nEins og kizi nefnir, þá þarf bara að hafa tól uppsett á minnislykli, ræsa upp af því og keyra. Tekur 2-3mín.",
+            "date": "2014-09-20 11:49:00",
+            "post_id": "573980",
+            "reply_to_id": "573979"
+        },
+        {
+            "user_name": "Magni81",
+            "text": "Ég setti þetta uppá usb og reyndi að boota uppá tölvunni en það gerðist ekkert..",
+            "date": "2014-09-20 11:55:00",
+            "post_id": "573981",
+            "reply_to_id": "573980"
+        },
+        {
+            "user_name": "kizi86",
+            "text": "er usb kubburinn \"bootable\" ?\nHow to make an bootable USB drive\nCopy all the files that is inside the usbXXXXXX.zip or on the CD onto an usb drive, directly on the drive, not inside any directory/folder.\nIt is OK if there are other files on the USB drive from before, they will not be removed.\nInstall bootloader on the USB drive, from command prompt in windows (start the command line with \"run as administrator\" if possible)\n    X:syslinux.exe -ma X: \nReplace X: with the drive letter the USB drive shows up as (DO NOT USE C:)\nIf it seems like nothing happened, it is usually done.\nHowever, a file named ldlinux.sys may appear on the USB drive, that is normal.\nIt should now in theory be bootable.",
+            "date": "2014-09-20 12:32:00",
+            "post_id": "573983",
+            "reply_to_id": "573981"
+        }
+    ],
+    "date": "2014-09-19 16:31:00"
+}

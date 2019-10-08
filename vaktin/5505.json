@@ -1,0 +1,44 @@
+{
+    "forum_title": "Windows",
+    "id": "5505",
+    "title": "Forgangsröðun forrita á ADSL tenginguna",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=5505",
+    "posts": [
+        {
+            "user_name": "dabbi2000",
+            "text": "hvernig er það, er einhver leið að setja forgangsröðun á bandvíddina á ADSL tenginu hjá mér? Tilfellið hjá mér er að ég er með DC++ rúllandi 24/7 en þegar ég er að vinna á tölvunni er forritið að hægja mikið á allri netvinnslu þar sem það étur upp bandvíddina. Spurning hvort ég geti úthlutað því e-s konar lægri forgangsröðun þannig að t.d. Remote Desktop, Explorer osfrv. hefðu alltaf forgang á bandvíddina??\n\n\n\nVæri djöfull kúl.",
+            "date": "2004-09-07 22:17:00",
+            "post_id": "55537",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "andr1g",
+            "text": "http://www.netlimiter.com",
+            "date": "2004-09-07 22:48:00",
+            "post_id": "55544",
+            "reply_to_id": "55537"
+        },
+        {
+            "user_name": "dabbi2000",
+            "text": "eftir smá Google rannsókn sé ég að þetat er flóknara í mínu tilfelli þar sem tölvurnar eru 2 á sama router... Ég er með Linksys og mér sýnist á öllu málið vera að fá sér 3rd party firmware á hann en þar eru fídusar eins og QoS stýring bæði á ip tölu og port (gæti þá t.d. lækkað priority á DC++ portið)\n\n\n\nkewl",
+            "date": "2004-09-07 22:54:00",
+            "post_id": "55545",
+            "reply_to_id": "55544"
+        },
+        {
+            "user_name": "tms",
+            "text": "Ég er með linux router, jafnast ekkert á við það.",
+            "date": "2004-09-08 08:39:00",
+            "post_id": "55563",
+            "reply_to_id": "55545"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "jamm, ef að þú ert með linux, er hægt að nota þetta wondershaper: \nhttp://www.hugi.is/linux/articles.php?p ... Id=1490344",
+            "date": "2004-09-08 19:42:00",
+            "post_id": "55667",
+            "reply_to_id": "55563"
+        }
+    ],
+    "date": "2004-09-07 22:17:00"
+}

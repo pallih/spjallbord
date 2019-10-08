@@ -1,0 +1,44 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "33980",
+    "title": "Hljóð virkar ekki!",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=33980",
+    "posts": [
+        {
+            "user_name": "HelgzeN",
+            "text": "Sælir vaktarar.\nHérna setti upp windows 7 Ultimate cracked og það downloduðust allir driverarnir nema skjákorts og hljóð driver greinilega og það var allt í lagi með skjákorts driver er ég setti hann upp.\nenn ég finn hvergi hljóð driverinn eitthver með hugmynd hvað ég þarf að gera það stendur samt í Device Manager : Ati High Definition Audio Device.\nspecs :\nSkjákort: ATI 4870HD OC Edition\nÖrgjörvi: AMD 5200+ 2.6GHz\nMóðurborð: Inno3dsm2550A\nEitthver með hugmynd? ..",
+            "date": "2010-11-23 22:49:00",
+            "post_id": "297525",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "ATI High definition audio er líklega hljóðdriver/device til að flytja hljóð í gegnum HDMI-ið - þeas, ekki hljóðkortið á móðurborðinu.\nFarðu á heimasíðu framleiðanda tölvunnar/móðurborðsins og sæktu audio driverinn þaðan.",
+            "date": "2010-11-23 22:54:00",
+            "post_id": "297526",
+            "reply_to_id": "297525"
+        },
+        {
+            "user_name": "HelgzeN",
+            "text": "http://www.inno3d.com/products/motherboard/sm2550a.html\n það feilar alltaf þegar ég reyni að dw þessu i miðjuni kemur bara page error og eg dw þessu efsta og það gerði ekkert með soundið ;S",
+            "date": "2010-11-23 22:56:00",
+            "post_id": "297527",
+            "reply_to_id": "297526"
+        },
+        {
+            "user_name": "HelgzeN",
+            "text": "Eitthver sem hefur lent í þessu og er með hugmynd?",
+            "date": "2010-11-23 23:57:00",
+            "post_id": "297561",
+            "reply_to_id": "297527"
+        },
+        {
+            "user_name": "GrimurD",
+            "text": "Sækir hér: \nhttp://www.realtek.com.tw/downloads/dow ... Down=false\nEr fyrir hljóðkortið þitt, ALC880 HD.",
+            "date": "2010-11-24 11:37:00",
+            "post_id": "297604",
+            "reply_to_id": "297561"
+        }
+    ],
+    "date": "2010-11-23 22:49:00"
+}

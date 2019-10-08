@@ -1,0 +1,44 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "75467",
+    "title": "Komast inn á tölvu með gleymdu lykilorði.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=75467",
+    "posts": [
+        {
+            "user_name": "IL2",
+            "text": "Ég (við) er í smá vandræðum hérna. Þegar fyrirtækið sem ég vinn hjá keypti húsið sem við erum í fylgdi með gömul tölva sem var tengd við þjófavarnarkerfið. Tölvan sjálf er með Win 7 uppsett og með frekar gömlu foriti sem styrir öllu þjófavarnarkerfinu hvað varðar kóta fyir hvern starfsmann og annað slikt. \nVandamálið er að við komumst ekki inn á tölvuna þar sem enginn af fyrri eigendum eða þeim starfsmönnum sem við náum í man lykilorðið fyrir hana. \nHvað væri best að gera? Reyna að krakka lykilorðið eða reyna að kaupa foritið aftur. Það hlýtur að vera hægt að komast í gegnum venjulegt admin lykilorð á einhvern hátt. Ég kemst inn á diskinn með því að setja hann í aðra tölvu og sýnist að ég geti komist inn á allar skrár.",
+            "date": "2018-02-02 18:40:00",
+            "post_id": "666334",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Hizzman",
+            "text": "ertu búin að gúgla 'win7 reset password' ?",
+            "date": "2018-02-02 20:13:00",
+            "post_id": "666344",
+            "reply_to_id": "666334"
+        },
+        {
+            "user_name": "urban",
+            "text": "administrator \nadministrator\nEr búið að prufa þetta sem user og pass  ?",
+            "date": "2018-02-02 20:33:00",
+            "post_id": "666345",
+            "reply_to_id": "666344"
+        },
+        {
+            "user_name": "russi",
+            "text": "Þú getur prófað að gera Windows recovery disk og ná þessu þannig.\nAnnars er til tól(boot tool) frá M$ sem kallast DaRT sem myndi redda þessu fyrir þig, því miður liggur sá diskur ekki á netinu eftir því sem ég best veit., mögulega á torrent einhversstaðar samt.\nEr reyndar með þennan disk, þetta er fljótlegt með honum. En það eru líka til allskonar live-cd´s sem redda þér",
+            "date": "2018-02-02 21:03:00",
+            "post_id": "666346",
+            "reply_to_id": "666345"
+        },
+        {
+            "user_name": "kizi86",
+            "text": "https://pogostick.net/~pnh/ntpasswd/\n þetta hérna. þetta mun redda þessu 100%",
+            "date": "2018-02-02 21:34:00",
+            "post_id": "666347",
+            "reply_to_id": "666346"
+        }
+    ],
+    "date": "2018-02-02 18:40:00"
+}

@@ -1,0 +1,79 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "37641",
+    "title": "Setja upp nýjan harðan disk",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=37641",
+    "posts": [
+        {
+            "user_name": "BjarkiB",
+            "text": "Sælir/ar vaktarar,\nNú er ég búinn að fylla Terrabyta diskinn minn og ætla að kaupa annan. Hvernig er best að setja þetta upp? og væri hægt að hafa þessa báða tb diska sjást einns og einn 2tb? \nHvernig er þetta með raid, ég þyrfti 3 diska fyrir raid 5, og þarf ég ekki líka séstakt raid kort?\nMbk. Bjarki",
+            "date": "2011-04-06 20:32:00",
+            "post_id": "338307",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "BjarkiB",
+            "text": "Bump",
+            "date": "2011-04-07 16:51:00",
+            "post_id": "338469",
+            "reply_to_id": "338307"
+        },
+        {
+            "user_name": "bAZik",
+            "text": "Ef þú ætlar að setja diska í raid þá missiru allt sem er inná þeim þegar þú gerir það.",
+            "date": "2011-04-07 17:13:00",
+            "post_id": "338470",
+            "reply_to_id": "338469"
+        },
+        {
+            "user_name": "tdog",
+            "text": "Ef þú ákveður að setja diska í raid þurfa þeir að vera tómir eða það hverfur allt af þeim. Hví ekki bara að setja annan disk beint í vélina?",
+            "date": "2011-04-07 17:14:00",
+            "post_id": "338472",
+            "reply_to_id": "338470"
+        },
+        {
+            "user_name": "BjarkiB",
+            "text": "Veit það vel. \nEr bara að spá í hvort ég gæti sett gamla diskinn og nýja saman í eitt drif. Semsagt einn eins terrabyte diskur.",
+            "date": "2011-04-07 17:18:00",
+            "post_id": "338473",
+            "reply_to_id": "338472"
+        },
+        {
+            "user_name": "bAZik",
+            "text": "Gætir sett þá í RAID0.",
+            "date": "2011-04-07 17:19:00",
+            "post_id": "338474",
+            "reply_to_id": "338473"
+        },
+        {
+            "user_name": "BjarkiB",
+            "text": "Nei það væntalega dettur allt út.",
+            "date": "2011-04-07 17:29:00",
+            "post_id": "338478",
+            "reply_to_id": "338474"
+        },
+        {
+            "user_name": "bAZik",
+            "text": "Það gerist þegar þú setur það í hvaða raid sem er, nefndi það bara því þú sagðist vita það.",
+            "date": "2011-04-07 17:32:00",
+            "post_id": "338479",
+            "reply_to_id": "338478"
+        },
+        {
+            "user_name": "BjarkiB",
+            "text": "Já, gleymdi að setja inn, án þess að missa allt út.",
+            "date": "2011-04-07 17:43:00",
+            "post_id": "338481",
+            "reply_to_id": "338479"
+        },
+        {
+            "user_name": "dori",
+            "text": "Ég held að þú þurfir alltaf að formata aftur. Þekki samt ekki windows lausnir sérstaklega. Er ekki WHS með eitthvað sem leyfir manni að gera storage pool?",
+            "date": "2011-04-07 17:58:00",
+            "post_id": "338482",
+            "reply_to_id": "338481"
+        }
+    ],
+    "date": "2011-04-06 20:32:00"
+}

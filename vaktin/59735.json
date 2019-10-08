@@ -1,0 +1,30 @@
+{
+    "forum_title": "Windows",
+    "id": "59735",
+    "title": "Tölva frýs í vafra:(",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=59735",
+    "posts": [
+        {
+            "user_name": "karvel",
+            "text": "Ég hef verið að lenda í því óþolandi oft að tölvan hjá mér frýs þegar ég er að vafra á netinu og þarf ég þá að endurræsa hana. Þessi ósköp byrjuðu fyrir nokkrum vikum og finnst mér eins og þetta sé að ágerast þ.e. gerast oftar. Ég veit það ekki en mér finnst eins og tölvuvandamálin hjá mér hafi byrjað þegar ég sagði skilið við Win7 og fór yfir í Win8 (8.1). Er einhver leið að sjá hvað er að valda þessum leiðindum? Ég var áður búinn að leita ráðlegginga varðandi Chrome vafrann, slökkti á öllum plug-ins en það breytti engu þannig að ég gafst upp á að nota Chrome. Verð ég kannski að unistalla Google Chrome og sjá hvort það breyti einhverju? Ef einhverjir kannast við samsvarandi vandamál væri elskulegt að fá smá aðstoð",
+            "date": "2014-02-13 22:28:00",
+            "post_id": "551842",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "upg8",
+            "text": "Prófaðu að sækja Opera, hann keyrir á Chromium og sjáðu hvernig hann virkar. Prófaðu líka að uppfæra skjákorts driver hjá þér eða slökkva á hardware acceleration.\nEr ekkert annað en Chrome á tölvunni hjá þér sem lætur svona?",
+            "date": "2014-02-13 22:44:00",
+            "post_id": "551848",
+            "reply_to_id": "551842"
+        },
+        {
+            "user_name": "karvel",
+            "text": "Þakka þér kærlega fyrir, treysti á Uniblu Drivescanner sem klikkaði á að uppfæra nýjan skjákortsdriver sem var víst í boði um miðjan janúar, búinn að uppfæra af heimasíðu Nvidia og get því tekið gleði mína á ný",
+            "date": "2014-02-14 21:52:00",
+            "post_id": "551950",
+            "reply_to_id": "551848"
+        }
+    ],
+    "date": "2014-02-13 22:28:00"
+}

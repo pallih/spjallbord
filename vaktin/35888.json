@@ -1,0 +1,100 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "35888",
+    "title": "Þráðlaus router - WiFi booster",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=35888",
+    "posts": [
+        {
+            "user_name": "valdij",
+            "text": "Heihó!\nEr hérna með Zyxel P-600 Series router frá TAL, þráðlausa netið í honum er og hefur alltaf verið tiltölulega slappt og ég kemst varla með ferðatölvuna nokkra metra í burtu án þess að fá virkilelega lélegt signal, sama skapi þótt ég sitji hliðina á routernum með ferðatölvu/ps3/iphone þá fæ ég aldrei full signal strength. Hluti af þessu er til kominn vegna gífurlega mikils járn í húsinu, og þykkra veggja milli herbergja. \nEn til að reyna gera þetta eitthvað skárra ákvað ég að prófa kaupa mér WiFi booster: \nhttp://www.computer.is/vorur/7315/\nMaðurinn í búðinni sagði þetta væri fairly easy að tegja, þetta væri bara plug&play. Svo er ég mættur með WiFi boosterinn minn uppvið routerinn og klóra mér einfaldlega í hausnum hvernig í ósköpunum ég festi þetta nýja loftnet á\nSjá hér fyrir neðan myndir af router&tenginu á boosternum.\nhttp://img98.imageshack.us/i/img0230zy.jpg/\n - snúran á nýja loftnetinu\nhttp://img573.imageshack.us/i/img0231e.jpg/\n - snúran á nýja loftnetinu\nhttp://img155.imageshack.us/i/img0233fv.jpg/\n - router bakhlið\nhttp://img201.imageshack.us/i/img0234oo.jpg/\n - router gamla loftnet\nÉg prófaði að skrúfa/taka gamla loftnetið úr og vonaðist til þær væri svona stykki sem ég gæti skrúfað nýja loftnetið á en það var víst ekki svo gott. Blasti bara við mér innhvolf routersins þegar ég reif þetta út og datt reyndar í hug ég hefði rústað þráðlausa-systeminu complett þegar ég tók gamla út en ég setti það aftur í \"hólfið\" sitt og virtist allt virka tiltölulega jafn illa og það gerði áður \nSpurningin mín er, get ég tengt þetta nýja loftnet við þennan router, og ef svo er hvernig? Gæti ég þurft að opna routerinn og þar gæti ég fundið svona stykki til að skrúfa nýja dæmið á?\nEf ég get ekki sett þetta nýja loftnet á, get ég þá verslað mér nýjan router þar sem hægt er að setja þennan WiFi booster á?\nVon um hjálp",
+            "date": "2011-02-01 17:44:00",
+            "post_id": "317996",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "coldcut",
+            "text": "eini staðurinn sem ég hef skrúfað svona í er í skrúfstykki aftan á netkorti...",
+            "date": "2011-02-01 18:36:00",
+            "post_id": "318032",
+            "reply_to_id": "317996"
+        },
+        {
+            "user_name": "valdij",
+            "text": "Sama og mér datt í hug, en ég er aðalega/eingöngu að nota þetta fyrir tvennt sem er að \n1) ég geti verið á netinu í ferðatölvunni í stofunni\n2) tengja þráðlausa netið við sjónvarpið sem var verið að setja upp í stofunni\nHvorki á ferðatölvunni, né sjónvarpinu er þó svona tengi og hafði ég vonað þó það væri ólíklegt að þetta gæti leynst á sjónvarpinu eitthverstaðar enda tiltölulega fullkomið tæki.\nÁstæðan afhverju ég keypti þetta samt sem áður var útaf í auglýsingunni stendur:\n\"Þetta stefnuvirka loftnet með mögnuní láréttu plani eykur þráðlausa merkið frá módemi, \nrouter\n eða þráðlausu netkorti upp í 9 dBi.\" og eftir sannfæringu starfsmanns um að þetta væri mjög easy, þetta tengi væri á nær öllum routerum og ekkert mál að koma þessu upp var þetta keypt\nHow-to-fix ?",
+            "date": "2011-02-01 18:58:00",
+            "post_id": "318039",
+            "reply_to_id": "318032"
+        },
+        {
+            "user_name": "addifreysi",
+            "text": "Er ekki hægt að skrúfa hitt af?",
+            "date": "2011-02-01 19:11:00",
+            "post_id": "318047",
+            "reply_to_id": "318039"
+        },
+        {
+            "user_name": "valdij",
+            "text": "Eins og ég sagði þá skrúfaði ég gamla loftnetið af routernum, og bjóst við að þar myndi ég finna þetta tengi og skipta einfaldlega um loftnet. En það loftnet var tengt með eitthverjum snúru/vír djöfli sem ég reif af þegar ég tók gamla lofnetið af \nEr enn að gæla við að finna mér skrúfjárn sem passar í þetta og opna routerinn og vona á undraverðan hátt sé svona tengi til að skrufa nýja loftnetið í, en ég efast það samt. Er svona SMA tengi(sjá mynd af nýja loftneti í upphafspóst) á routerunum hjá ykkur kæru vaktarar?",
+            "date": "2011-02-01 19:27:00",
+            "post_id": "318054",
+            "reply_to_id": "318047"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "*semi-offtopic*\nErtu nokkuð með tengistöð fyrir þráðlausan síma í nágrenni við routerinn? \nHef lent í því nokkrum sinnum uppá síðkastið þegar ég hef verið hjá fólki sem er í svipuðum málum og þú.\nEf svo er prófaðu að færa tengistöðina annarstaðar í húsið.\nEdit: Minnir að þessir routerar séu með fast loftnet og það sé ekki hægt að skipta um.",
+            "date": "2011-02-01 20:15:00",
+            "post_id": "318084",
+            "reply_to_id": "318054"
+        },
+        {
+            "user_name": "valdij",
+            "text": "Tengistöðin fyrir þráðlausa símann er alveg í hinum endanum á íbuðunni sem er töluverður spotti. \nÞað sem þú segir með að þessir routerer eru með innbyggt lofnet er hinsvegar rétt sem ég þurfti að læra the hard way  \n \nÞá er eins og ég segi einu spurningarnar sem eftir stendur: \n1)Get ég notað hvaða router sem er fyrir netið mitt sem er hjá TAL, eða þarf ég að fá router frá þeim?\n2) Hvar get ég fengið góðan router, sem er með þessu andskotns pluggi (SMA) svo ég geti notað þennan Wi-Fi booster.. \nps. trúi ekki starfsmaðurinn hafi troðið því í hausinn á mér að \"nær öruggt væri að routerinn sé með svona tengi/loftnetið sem er á honum er tengt í svona tengi\"",
+            "date": "2011-02-01 20:21:00",
+            "post_id": "318086",
+            "reply_to_id": "318084"
+        },
+        {
+            "user_name": "hlynuri",
+            "text": "Prufaðu að skipta um rás á þráðlausa netinu í routernum og sjáðu hvort það lagi sambandið.",
+            "date": "2011-02-02 00:28:00",
+            "post_id": "318253",
+            "reply_to_id": "318086"
+        },
+        {
+            "user_name": "tanketom",
+            "text": "þú veist að Tal eru komnir með nýrri gerð af router, er í stóru húsi sem er með þykka veggi og ég næ fullt samband hvar sem er í húsinu nánast..\nþú getur bara farið niður frá og fengið nýan, þú ert ekki að borga 450 kr á mánuði fyrir ekki neitt",
+            "date": "2011-02-02 03:45:00",
+            "post_id": "318277",
+            "reply_to_id": "318253"
+        },
+        {
+            "user_name": "avi1",
+            "text": "Þar sem þú ert í viðskiptum við Tal þá ertu væntanlega að leigja routerinn frá þeim (og því líklega óheimilt að taka hann í sundur ef út í það er farið). \nAf hverju ferðu ekki bara með routerinn til þeirra og færð nýjan? Þessir routerar eru alls ekki það slæmir að þú komist ekki nema örfaá metra í burtu án þess að signalið detti niður, nema þeir séu bilaðir.",
+            "date": "2011-02-03 19:14:00",
+            "post_id": "318906",
+            "reply_to_id": "318277"
+        },
+        {
+            "user_name": "valdij",
+            "text": "Það var málið, þráðlausa netið í routernum var eitthvað fúbar, það eru 10 skref í stofuna frá router og ég sé ekki einu sinni routerinn þegar ég fer þar, eða þá ég rétt næ 1 striku í signal.\nEn þetta mál leystist, ég hringdi í TAL og bað um þessa nýlegri týpu af router eins og var minnst á hérna í póstinum, til að gera langa sögu, og nokkur símtöl stutta var mér sagt að ég gæti komið með gamla routerinn í viðgerð og ekki fengið nýjan á meðan.. Ekkert annað væri í stöðunni, ég gæti ekki fengið nýjan router frá þeim fyrren ég hafði komið með gamla í viðgerð og verið netlaus á meðan. Ég tók _ekki_ vel í það enda búinn að vera þarna síðan þetta var hjá HIVE og greiða mínar 450kr í tryggingargjald á mánuði og ætlaði ekki að þurfa standa í viðgerð eða neitt sérstaklega þegar þeir minnast á \"og það er ekki hægt að fá annan router á meðan viðgerð stendur\" \nEftir nokkur vel valin orð, t.d. að ég myndi þá segja upp 4 ára áskrift minni að netinu hjá þeim í þessu samtali yrði þetta ekki leyst og eftir smá bið endaði þetta í að þeir vildu senda tæknimann til mín að skoða gamla routerinn, og hann kæmi þá með nýjan ef til þess þyrfti. Ég leit á þetta bara sem heimsendingu með nýja routerinn af því ég vissi alveg hvað kæmi útur þessu, að þráðlausa netið í gamla routernum væri drasl. Þannig ég sætti mig að sjálfsögðu við það.\nFékk nýjan thompson router (var áður með zyxel p-600) og allt svínvirkar, er að ná 2-3 strikum í sjónvarpinu frammi, fæ loksins öll strik full þegar ég sit hliðiná routernum, næ auðveldlega þráðlausa netinu í ferðatölvunni fram í stofu núna og rúsínan í pylsuendanum, ég get opnað portin mín sjálfur \n Þeir sem eru hjá TAL kannast örugglega við það að hafa alltaf þurft að hringja til að láta opna fyrir sig port en með þessum router geturðu gert þetta allt sjálfur.. \nÓtrulegt samt hverju ég þurfti að standa í til að reyna fá nýjan router þegar maður hefur greitt tryggingargjald svona lengi fyrir akkúrat svona hluti.\nBer að nefna þó að ég hef alltaf verið mjög sáttur með þjónustuna hjá tal, mjög viðkunnalegt fólk í þjónustuverinu þarna og aldrei löng bið. Trúði því varla að ég væri að lenda í þessu núna en samkv. þeim sem ég var í samskiptum við eru komnar mjög strangar reglur með router-mál",
+            "date": "2011-02-03 20:01:00",
+            "post_id": "318925",
+            "reply_to_id": "318906"
+        },
+        {
+            "user_name": "tanketom",
+            "text": "hmmm... skrítið ég var með gamla draslið frá þeim og eg fór bara niður frá og skifti þessu út, ekkert mál",
+            "date": "2011-02-03 21:17:00",
+            "post_id": "318968",
+            "reply_to_id": "318925"
+        },
+        {
+            "user_name": "avi1",
+            "text": "Flott að heyra að þetta mál sé leyst. \nHins vegar þykir mér skrítið ef þetta er viðhorfið þeirra, að þú þurfir að vera netlaus og bíða á meðan þeir skoða routerinn og greina hann. Það getur varla staðist. \nAð auki eru þessar 450 krónur ekki tryggingagjald heldur leigugjald. Þú leigir af þeim router, sem er þá eðlilega í þeirra eigu. Ef routerinn þeirra er ekki að standa sig sem skyldi, þá eiga þeir að skipta honum út án þess að vera með múður.",
+            "date": "2011-02-04 12:45:00",
+            "post_id": "319120",
+            "reply_to_id": "318968"
+        }
+    ],
+    "date": "2011-02-01 17:44:00"
+}

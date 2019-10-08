@@ -1,0 +1,289 @@
+{
+    "forum_title": "Windows",
+    "id": "14561",
+    "title": "XP og Netið",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=14561",
+    "posts": [
+        {
+            "user_name": "ÓmarSmith",
+            "text": "Sælir drengir.\n\n\n\nÉg hef verið að lenda mikið í því undanfarið að netið dettur alltaf út hjá mér. Hefur dugað að restarta router en ég fékk nóg í gær og skipti honum út í 2 skipti. \n\n\n\nMálið er hinsvegar að þetta er ekkert routerinn þar sem að Sjónvarpið hangir alltaf inni og lappinn virðist komast nánast alltaf á netið. Einnig virkar það alltaf fínt í Vista.\n\n\n\nXP er bara með e-r leiðindi.\n\n\n\nÉg er með netkortið innbyggða ( Marvel Yukon ) og drivera installaða alveg fyrir það, búinn að uninstalla og allt en það virkar bara ekki.\n\n\n\nÉg næ ekki að pinga neitt. ekki router eða neinar síður.\n\n\n\nI Internet options er ég með haka í LAN SETTINGS - Auto Detect.\n\n\n\n\n\nDettur e-m í hug hvaða böggur í Windows þetta gæti verið ?\n\n\n\nP.S Netið var búið að vera svona einstaka sinnum en nú nýverið er þetta alltaf að gerast, Explorer datt alveg út en MSN hékk iðulega lengur inni sem og Torrent. Virkilega skrítið.\n\n\n\n\n\nAnnars er ég með Alcatel Speedtouch 585v6 Router sem aldrei hefur verið með leiðindi við mig.",
+            "date": "2007-05-18 09:28:00",
+            "post_id": "147134",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "Dettur allt net útúr tölvunni? þá msn líka?\n\nég er oft að lenda í þvi að ég geti ekki notað firefox og IE en samt hangi ég inni a msn og torrent... Virkar einmitt alltaf að restarta routernum",
+            "date": "2007-05-18 11:45:00",
+            "post_id": "147136",
+            "reply_to_id": "147134"
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Getur ekki verið að þú sért bara með of mörg connection í gangi að TCP/IP stackið fyllist og að routerinn coxi bara á því? Prófaðu að kíkja í event log og athuga hvaða villur koma þar fram.",
+            "date": "2007-05-18 12:10:00",
+            "post_id": "147137",
+            "reply_to_id": "147136"
+        },
+        {
+            "user_name": "Baldurmar",
+            "text": "Ég er að lenda í þessu, nema að þá restarar tölvan sér. Væri nóg fyrir mig að fá nýtt netkort til að höndla þetta eða er þetta Windows galli ?",
+            "date": "2007-05-18 14:09:00",
+            "post_id": "147144",
+            "reply_to_id": "147137"
+        },
+        {
+            "user_name": "CraZy",
+            "text": "Þetta gerist einmitt hjá mér líka\n\neinnig gerist það líka að ef ég er að uploada á lappanum þá dettur netið út eftir stutta stund.. \n Er orðin pínu pirraður",
+            "date": "2007-05-18 14:30:00",
+            "post_id": "147146",
+            "reply_to_id": "147144"
+        },
+        {
+            "user_name": "ÓmarSmith",
+            "text": "netið virkar fínt á Vista , TV-ið hangir alltaf inni og ég held að lappinn sé alveg í blússandi.\n\n\n\ngæti þurft að setja fasta ip tölu á routerinn or sumthin . í Versta falli þá bara strau og win upp á nýtt..hehe",
+            "date": "2007-05-18 23:21:00",
+            "post_id": "147157",
+            "reply_to_id": "147146"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "[offtopic] Já, talaði við einhvern i þjónustuveri símans um daginn, hann sagði að þetta væri vegna torrents og aðra forrita(p2p t.d.)  þá hlaðar routerinn inn einhverjum nafnaþjónum eða einhverju, svo overloadast hann og ekkert virkar nema msn/irc/torrent.. Annars virkar ef maður vill ekki restarta routernum að refresha síðuna þangað til hún kemur... En ef einhver veit um lausn á þessu vandamáli þá má   hann pósta því hérna[/offtopic]",
+            "date": "2007-05-19 03:52:00",
+            "post_id": "147164",
+            "reply_to_id": "147157"
+        },
+        {
+            "user_name": "viddi",
+            "text": "eina lausnin sem ég veit um og hefur gengið upp er bara að minnka leyfilegan fjölda tenginga í torrent forritinu",
+            "date": "2007-05-19 12:36:00",
+            "post_id": "147174",
+            "reply_to_id": "147164"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "hafið þið prófað önnur torrent forrit?\n\n\n\ní augnalbikinu er ég með 35 aktív torrent, og hvorki rúterinn né stýrikerfið hikstar.\n\n\n\nÉg er að nota Zyxel 660HW og Azureus 2.5",
+            "date": "2007-05-19 13:13:00",
+            "post_id": "147175",
+            "reply_to_id": "147174"
+        },
+        {
+            "user_name": "ÓmarSmith",
+            "text": "Netið virkar alltaf fínt í Vista og Tv ið líka. Þetta hlítur að vera e-r böggur í XP.\n\n\n\nÉg er alltaf með sama torrentið í gangi (íslenska) og hef notað það í 1þ5 ár.\n\n\n\nþað ætti ekkert að skíta fyrst á sig núna.",
+            "date": "2007-05-19 23:02:00",
+            "post_id": "147209",
+            "reply_to_id": "147175"
+        },
+        {
+            "user_name": "CraZy",
+            "text": "Hvað er íslenska \"torrentið\"  =p\n\nMeinaru µtorrent á íslensku?",
+            "date": "2007-05-20 01:10:00",
+            "post_id": "147212",
+            "reply_to_id": "147209"
+        },
+        {
+            "user_name": "ÓmarSmith",
+            "text": "ég er að tala um ístorrent bara.\n\n\n\n\n\nen ps  ég er nýbúinn að skipta um router þannig að þetta er ekki hann að skíta á sig.\n\n\n\n\n\nÉg straua bara windows í vikunni or sumthin.",
+            "date": "2007-05-20 12:17:00",
+            "post_id": "147222",
+            "reply_to_id": "147212"
+        },
+        {
+            "user_name": "CraZy",
+            "text": "Gnarr var að tala um clientin",
+            "date": "2007-05-20 13:10:00",
+            "post_id": "147224",
+            "reply_to_id": "147222"
+        },
+        {
+            "user_name": "ÓmarSmith",
+            "text": "Well\n\nClientinn hjá mér er amk þannig að allt net verður alveg ógéðslega hægt meðan torrent er í gangi.\n\n\n\nþað er alveg óþolandi",
+            "date": "2007-05-20 14:06:00",
+            "post_id": "147230",
+            "reply_to_id": "147224"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "prófaðu annann client",
+            "date": "2007-05-20 14:24:00",
+            "post_id": "147232",
+            "reply_to_id": "147230"
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "Með uTorrent geturðu takmarkað bæði download og upload hraðann.",
+            "date": "2007-05-20 15:00:00",
+            "post_id": "147233",
+            "reply_to_id": "147232"
+        },
+        {
+            "user_name": "CraZy",
+            "text": "Hvað ertu með marga torrenta í µtorrent ? (Inactive líka)",
+            "date": "2007-05-20 15:32:00",
+            "post_id": "147234",
+            "reply_to_id": "147233"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Hefur þetta ekki bara eitthvað með Speetouch routera að gera? Ég lendi í þessu og ég veit um 2 aðra sem lenda í þessu og við erum allir með eins SpeedTouch router, svo þekki ég 1 sem er með Zyxel router og hann lendir ekki í þessu....",
+            "date": "2007-05-22 04:39:00",
+            "post_id": "147318",
+            "reply_to_id": "147234"
+        },
+        {
+            "user_name": "ÓmarSmith",
+            "text": "Mér er samt skítsama um þetta eins og er ... ÉG vil bara að Netið virki í XP sem það gerir ekki. Allar aðrar vélar virkar fínt heima en ekki aðal vélin í XP !!!\n\n\n\n$%$#%&##%$%#&%%&%&  Hata Windows $%$#%&%$&&%&$/$%/%$/$%",
+            "date": "2007-05-22 08:35:00",
+            "post_id": "147322",
+            "reply_to_id": "147318"
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "Eh fólk er að benda þér á mögulegar lausnir svo að netið muni virka í XP?",
+            "date": "2007-05-22 11:46:00",
+            "post_id": "147330",
+            "reply_to_id": "147322"
+        },
+        {
+            "user_name": "ÓmarSmith",
+            "text": "HeHe\n\n\n\nÉg var hrauna á Torrentið.. væri alveg sama með það. En ég hef ekki fengið neina lausn á hversvegna þetta virkar ekki .\n\n\n\nEnda er þetta ferlega skrítið :S\n\n\n\nÞyrfti að fá e-n windows snilling í heimsókn til að sjá hvort ég sé að klikka á e-u.",
+            "date": "2007-05-22 12:43:00",
+            "post_id": "147331",
+            "reply_to_id": "147330"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Jæja ég tók eftir einu í dag sem ég veit ekki hvort skiptir máli en sakar ekki að minnast á það.\n\n\n\nÉg notaði Torrent í tölvunni hans bróðir míns í dag en netið klikkaði ekki. Ég fór að leita að einhverju öðruvísi við hans tölvu og mína og það eina sem ég tók eftir var að hann er með Service Pack 1 en ég er með Service Pack 2.\n\n\n\nSpurnig hvort það hafi einhver áhrif.................",
+            "date": "2007-05-22 19:57:00",
+            "post_id": "147357",
+            "reply_to_id": "147331"
+        },
+        {
+            "user_name": "Stebet",
+            "text": "Á ekki að skipta neinu, uTorrent passar sjálft uppá half-open tengingar og því ætti ekki að vera neinn munur á milli SP1 og SP2",
+            "date": "2007-05-22 20:08:00",
+            "post_id": "147358",
+            "reply_to_id": "147357"
+        },
+        {
+            "user_name": "ÓmarSmith",
+            "text": "E-a hluta vegna held ég að þetta sé ekki uTorrent sem er að blokka hjá mér netið. Sérstaklega ekki þar sem að ég er að nota uTorrent alveg með Vista líka.",
+            "date": "2007-05-23 08:11:00",
+            "post_id": "147384",
+            "reply_to_id": "147358"
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "Prófaðu þá að sleppa því að nota torrent í smá tíma og athugaðu hvort þetta lagist eða ekki.",
+            "date": "2007-05-23 12:59:00",
+            "post_id": "147399",
+            "reply_to_id": "147384"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "vandamálið er \nMJÖG\n líklega það að í SP2 limitaði Microsoft XP í að geta unnið með 10 aktívar TCP tengingar í einu. \n\n\n\nFix:\n\n\n\nhttp://www.lvllord.de/download.php?url=en/EvID4226Patch223d-en.zip",
+            "date": "2007-05-23 19:07:00",
+            "post_id": "147429",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gunnargolf",
+            "text": "Er það þannig að netið hættir að virka og þú getur ekki disable-að Local area connection?\n\n\n\nÞað hjá mér að þegar ég nota torrent og er með margar tengingar í gangi þá dettur ntið út og ég get ekki einu sinni disable-að Local Area Connection. Ef ég reyni það þá hættir Local Area Connection glugginn að responda og eina sem ég get gert er að restarta tölvunni. \n\n\n\nÉg get heldur eiginlega ekki gert það heldur, ég þarf að halda inni power takkanum í nokkrar sekúndur því að windows festist í ''Shutting down''\n\n\n\nEina leiðin fyrir mig til að ná tenginguni inn aftur er að reyna að disable-a tenginguna, sem virkar ekki (þarf samt að gera það) og að slökkva svo á tölvunni (sem virkar ekki heldur). \n\n\n\nÞetta er mjög undarlegt og gerist bara við notkun á torrent, ekki dc eða við notkun á Firefox. Hvað gæti þetta eiginlega verið?",
+            "date": "2007-05-23 19:53:00",
+            "post_id": "147436",
+            "reply_to_id": "147429"
+        },
+        {
+            "user_name": "CraZy",
+            "text": "Þetta gerist nákvæmlega svona hjá mér líka \n\n\nEn þetta gerist samt líka ef ég er að uppa stórum files á megaupload eða aðrar þannig síður.",
+            "date": "2007-05-23 21:28:00",
+            "post_id": "147446",
+            "reply_to_id": "147436"
+        },
+        {
+            "user_name": "Stebet",
+            "text": "NEI!\n\n\n\nXP limitaði 10 half-open tengingar (þ.e.a.s tengingar sem voru ekki búnar að fá svar frá þeim sem þú reyndir að tengjast) í einu. Það er ekkert takmark á opnum TCP tengingum.\n\n\n\nFlest forrit (torrent forrit innifalin) eru farin að gera ráð fyrir þessu og reyna ekki að opna fleiri en 10 tengingar í einu (opna fleiri þegar svar hefur borist við þessum 10 sem þau reyna í einu).",
+            "date": "2007-05-23 21:45:00",
+            "post_id": "147447",
+            "reply_to_id": "147446"
+        },
+        {
+            "user_name": "gunnargolf",
+            "text": "Til crazy\n\n\n\nJá,þetta er mjög undarlegt. Hlýtur að hafa eitthvað að gera með stýrikerfið. Dettur þér einhver lausn í hug?",
+            "date": "2007-05-23 23:18:00",
+            "post_id": "147456",
+            "reply_to_id": "147447"
+        },
+        {
+            "user_name": "CraZy",
+            "text": "Mér dettur ekkert í hug \n Annað sem gerist líka að ef ég spila netleiki á lappanum þá dettur netið út t.d. þegar ég spilaði eve en það gerðist samt bara ef ég var að nota wifi, þetta var alltílagi ef ég plögga henni inn",
+            "date": "2007-05-24 00:23:00",
+            "post_id": "147461",
+            "reply_to_id": "147456"
+        },
+        {
+            "user_name": "ÓmarSmith",
+            "text": "Netið er búið að vera dautt í XP í rúma viku núna !!  Torrentið hefur ENGIN áhrif á þetta .\n\n\n\nVar búinn að nota það með yfir 20 tengingar á sama tíma og hafa það þannig í rúmt ár.\n\n\n\nAuk þess er ég búinn að skipta um router 2 x á þessu 1.5 ári.\n\n\n\nDisable eða repair connection hefur engin áhrif",
+            "date": "2007-05-24 08:34:00",
+            "post_id": "147470",
+            "reply_to_id": "147461"
+        },
+        {
+            "user_name": "Bassi6",
+            "text": "Geturðu pingað 127.0.0.1 (localhost) og hvaða ip tölu ertu með á xp vélinni ?\n\nsvo er þetta möguleiki líka \nhttp://www.aplusfreeware.com/categories ... ockXP.html\n\n\nhefur reddað mér",
+            "date": "2007-05-24 08:52:00",
+            "post_id": "147472",
+            "reply_to_id": "147470"
+        },
+        {
+            "user_name": "ÓmarSmith",
+            "text": "Er búinn að siga Fletch á vélina.\n\n\n\nEf hann getur ekki lagað þetta er það bara the classic \" Format c: og fresh Win.",
+            "date": "2007-05-24 10:50:00",
+            "post_id": "147483",
+            "reply_to_id": "147472"
+        },
+        {
+            "user_name": "Demon",
+            "text": "Vildi bara að benda á að það breytir litlu fjöldi torrenta heldur fjöldi connections í gangi.\n\nÞú getur verið með x marga torrents í gangi meðan fjöldi connections er ekki sama tala.\n\n\n\nEn já ertu á wireless eða wire?\n\n\n\nEitthvernveginn sé það ekki úr þessum pósti hjá þér.",
+            "date": "2007-05-25 13:09:00",
+            "post_id": "147550",
+            "reply_to_id": "147483"
+        },
+        {
+            "user_name": "ÓmarSmith",
+            "text": "bæði. Wireless í lappanum virkar fínt.\n\n\n\nVista virkar fínt.\n\n\n\nXp virkar ekki.\n\n\n\n\n\nDesktop er tengt með Lan snúru.",
+            "date": "2007-05-25 18:46:00",
+            "post_id": "147569",
+            "reply_to_id": "147550"
+        },
+        {
+            "user_name": "ÓmarSmith",
+            "text": "Update : Uninstallaði Trend Micro Vírusvörninni og þetta hefur virkar fínt síðan .\n\n\n\nWTF.",
+            "date": "2007-06-06 15:39:00",
+            "post_id": "148289",
+            "reply_to_id": "147569"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Flestar þessara 'stóru' virusvarna (Norton, Trend, McAffe) valda meiri vandræðum en vírusarnir sem þær eiga að vernda okkur fyrir.  Hef lent í því að geta ekki notað CD drif á lappa vegna 'on-access' scan.. óþolandi drasl.",
+            "date": "2007-06-06 15:46:00",
+            "post_id": "148291",
+            "reply_to_id": "148289"
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "Mín reynsla er sú að þessar vírusvarnir geri lítið annað en að hægja á tölvunni.\n\n\n\nBest að vera bara með Windows Firewall í gangi, automatic updates og skanna svo öðru hverju með Windows Defender.",
+            "date": "2007-06-06 15:46:00",
+            "post_id": "148292",
+            "reply_to_id": "148291"
+        },
+        {
+            "user_name": "ÓmarSmith",
+            "text": "Já ég hef blessunarlega sloppið við vírussa í gegnum árin  7 9 13.\n\n\n\nÆtla ekki að installa þessu Trend dæmi aftur.",
+            "date": "2007-06-06 16:09:00",
+            "post_id": "148299",
+            "reply_to_id": "148292"
+        }
+    ],
+    "date": "2007-05-23 19:07:00"
+}

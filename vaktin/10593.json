@@ -1,0 +1,58 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "10593",
+    "title": "Hijack This",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=10593",
+    "posts": [
+        {
+            "user_name": "Saphira",
+            "text": "Sælt veri fólkið.\n\n\n\nEdit: Nvm, er búinn að redda þessu.\n\n\n\nÉg vil biðja ykkur \"njerðina\" um að segja mér hverju ég á að deleta hér.\n\nÞetta (fyrir neðan) er sem sagt logfile úr hijack this.\n\nTakk fyrir.\n\n--------------------------------------------------------------------\n\nLogfile of HijackThis v1.99.1\n\nScan saved at 5:55:11 PM, on 4/13/2006\n\nPlatform: Windows 2000 SP4 (WinNT 5.00.2195)\n\nMSIE: Internet Explorer v6.00 SP1 (6.00.2800.1106)\n\n\n\nRunning processes:\n\nC:\\WINNT\\System32\\smss.exe\n\nC:\\WINNT\\system32\\winlogon.exe\n\nC:\\WINNT\\system32\\services.exe\n\nC:\\WINNT\\system32\\lsass.exe\n\nC:\\WINNT\\system32\\svchost.exe\n\nC:\\Program Files\\Common Files\\Symantec Shared\\ccSetMgr.exe\n\nC:\\Program Files\\Common Files\\Symantec Shared\\ccEvtMgr.exe\n\nC:\\Program Files\\Common Files\\Symantec Shared\\SNDSrvc.exe\n\nC:\\Program Files\\Common Files\\Symantec Shared\\SPBBC\\SPBBCSvc.exe\n\nC:\\Program Files\\Common Files\\Symantec Shared\\CCPD-LC\\symlcsvc.exe\n\nC:\\WINNT\\system32\\spoolsv.exe\n\nC:\\Program Files\\Netropa\\Multimedia Keyboard\\nhksrv.exe\n\nC:\\Program Files\\Common Files\\EPSON\\EBAPI\\SAgent2.exe\n\nC:\\WINNT\\System32\\svchost.exe\n\nC:\\Program Files\\Ahead\\InCD\\InCDsrv.exe\n\nC:\\WINNT\\Explorer.EXE\n\nC:\\Program Files\\Netropa\\Multimedia Keyboard\\MMKeybd.exe\n\nC:\\Program Files\\Java\\jre1.5.0_03\\bin\\jusched.exe\n\nC:\\Program Files\\Netropa\\Multimedia Keyboard\\TrayMon.exe\n\nC:\\Program Files\\Netropa\\Onscreen Display\\OSD.exe\n\nC:\\Program Files\\Ahead\\InCD\\InCD.exe\n\nC:\\Program Files\\iTunes\\iTunesHelper.exe\n\nC:\\Program Files\\Common Files\\Symantec Shared\\ccApp.exe\n\nC:\\Program Files\\Common Files\\Symantec Shared\\Security Center\\UsrPrmpt.exe\n\nC:\\Program Files\\Norton AntiVirus\\navapsvc.exe\n\nC:\\WINNT\\system32\\internat.exe\n\nC:\\Program Files\\Norton AntiVirus\\IWP\\NPFMntor.exe\n\nC:\\WINNT\\system32\\nvsvc32.exe\n\nC:\\WINNT\\system32\\regsvc.exe\n\nC:\\Program Files\\MicroStar\\WLANUtility\\WlanUtility.exe\n\nC:\\WINNT\\system32\\MSTask.exe\n\nC:\\WINNT\\System32\\WBEM\\WinMgmt.exe\n\nC:\\WINNT\\System32\\mspmspsv.exe\n\nC:\\WINNT\\system32\\svchost.exe\n\nC:\\WINNT\\system32\\svchost.exe\n\nC:\\Program Files\\iPod\\bin\\iPodService.exe\n\nC:\\Program Files\\MicroStar\\WLANUtility\\WLAN_Service.exe\n\nC:\\Program Files\\Common Files\\Symantec Shared\\Security Console\\NSCSRVCE.EXE\n\nC:\\unzipped\\hijackthis\\HijackThis.exe\n\nC:\\WINNT\\system32\\wuauclt.exe\n\n\n\nR0 - HKCU\\Software\\Microsoft\\Internet Explorer\\Main,Start Page = \nhttp://securityresponse.symantec.com/av ... _homepage/\n\n\nR1 - HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings,ProxyServer = proxy.skrin.is:8080\n\nR1 - HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings,ProxyOverride = 192.168.1.245\n\n;<local>\n\nO2 - BHO: NAV Helper - {A8F38D8D-E480-4D52-B7A2-731BB6995FDD} - C:\\Program Files\\Norton AntiVirus\\NavShExt.dll\n\nO3 - Toolbar: @msdxmLC.dll,-1@1033,&Radio - {8E718888-423F-11D2-876E-00A0C9082467} - C:\\WINNT\\System32\\msdxm.ocx\n\nO3 - Toolbar: Norton AntiVirus - {C4069E3A-68F1-403E-B40E-20066696354B} - C:\\Program Files\\Norton AntiVirus\\NavShExt.dll\n\nO4 - HKLM\\..\\Run: [Synchronization Manager] mobsync.exe /logon\n\nO4 - HKLM\\..\\Run: [NvCplDaemon] RUNDLL32.EXE C:\\WINNT\\system32\\NvCpl.dll,NvStartup\n\nO4 - HKLM\\..\\Run: [nwiz] nwiz.exe /install\n\nO4 - HKLM\\..\\Run: [MULTIMEDIA KEYBOARD] C:\\Program Files\\Netropa\\Multimedia Keyboard\\MMKeybd.exe\n\nO4 - HKLM\\..\\Run: [Cmaudio] RunDll32 cmicnfg.cpl,CMICtrlWnd\n\nO4 - HKLM\\..\\Run: [SunJavaUpdateSched] C:\\Program Files\\Java\\jre1.5.0_03\\bin\\jusched.exe\n\nO4 - HKLM\\..\\Run: [NeroCheck] C:\\WINNT\\system32\\\\NeroCheck.exe\n\nO4 - HKLM\\..\\Run: [InCD] C:\\Program Files\\Ahead\\InCD\\InCD.exe\n\nO4 - HKLM\\..\\Run: [iTunesHelper] \"C:\\Program Files\\iTunes\\iTunesHelper.exe\"\n\nO4 - HKLM\\..\\Run: [QuickTime Task] \"C:\\Program Files\\QuickTime\\qttask.exe\" -atboottime\n\nO4 - HKLM\\..\\Run: [NvMediaCenter] RUNDLL32.EXE C:\\WINNT\\system32\\NvMcTray.dll,NvTaskbarInit\n\nO4 - HKLM\\..\\Run: [gimmygames] C:\\\\gimmygames11.exe\n\nO4 - HKLM\\..\\Run: [ccApp] \"C:\\Program Files\\Common Files\\Symantec Shared\\ccApp.exe\"\n\nO4 - HKLM\\..\\Run: [SSC_UserPrompt] \"C:\\Program Files\\Common Files\\Symantec Shared\\Security Center\\UsrPrmpt.exe\"\n\nO4 - HKLM\\..\\RunServices: [winlog] winlog.exe\n\nO4 - HKLM\\..\\RunServices: [csr] csrrs.exe\n\nO4 - HKCU\\..\\Run: [internat.exe] internat.exe\n\nO4 - HKCU\\..\\Run: [MsnMsgr] \"C:\\Program Files\\MSN Messenger\\MsnMsgr.Exe\" /background\n\nO4 - Global Startup: Adobe Gamma Loader.lnk = C:\\Program Files\\Common Files\\Adobe\\Calibration\\Adobe Gamma Loader.exe\n\nO4 - Global Startup: Microsoft Office.lnk = C:\\Program Files\\Microsoft Office\\Office\\OSA9.EXE\n\nO4 - Global Startup: WlanUtility.lnk = C:\\Program Files\\MicroStar\\WLANUtility\\WlanUtility.exe\n\nO16 - DPF: {B38870E4-7ECB-40DA-8C6A-595F0A5519FF} (MsnMessengerSetupDownloadControl Class) - \nhttp://messenger.msn.com/download/MsnMe ... loader.cab\n\n\nO17 - HKLM\\System\\CCS\\Services\\Tcpip\\..\\{1CF1ED11-64F1-4C97-8662-5BEC61B0F9EB}: NameServer = 194.144.208.3,194.144.208.4\n\nO17 - HKLM\\System\\CCS\\Services\\Tcpip\\..\\{9067852D-A9EA-4924-8676-0E9D45F9424E}: NameServer = 82.221.42.16,82.221.42.17\n\nO20 - Winlogon Notify: WindowsUpdate - C:\\WINNT\\\n\nO23 - Service: Adobe LM Service - Unknown owner - C:\\Program Files\\Common Files\\Adobe Systems Shared\\Service\\Adobelmsvc.exe\n\nO23 - Service: Symantec Event Manager (ccEvtMgr) - Symantec Corporation - C:\\Program Files\\Common Files\\Symantec Shared\\ccEvtMgr.exe\n\nO23 - Service: Symantec Settings Manager (ccSetMgr) - Symantec Corporation - C:\\Program Files\\Common Files\\Symantec Shared\\ccSetMgr.exe\n\nO23 - Service: Logical Disk Manager Administrative Service (dmadmin) - VERITAS Software Corp. - C:\\WINNT\\System32\\dmadmin.exe\n\nO23 - Service: EPSON Printer Status Agent2 (EPSONStatusAgent2) - SEIKO EPSON CORPORATION - C:\\Program Files\\Common Files\\EPSON\\EBAPI\\SAgent2.exe\n\nO23 - Service: InstallDriver Table Manager (IDriverT) - Macrovision Corporation - C:\\Program Files\\Common Files\\InstallShield\\Driver\\1050\\Intel 32\\IDriverT.exe\n\nO23 - Service: InCD File System Service (InCDsrv) - AHEAD Software - C:\\Program Files\\Ahead\\InCD\\InCDsrv.exe\n\nO23 - Service: iPodService - Apple Computer, Inc. - C:\\Program Files\\iPod\\bin\\iPodService.exe\n\nO23 - Service: MSCSPTISRV - Sony Corporation - C:\\Program Files\\Common Files\\Sony Shared\\AVLib\\MSCSPTISRV.exe\n\nO23 - Service: MSI_WLAN_Service - Unknown owner - C:\\Program Files\\MicroStar\\WLANUtility\\WLAN_Service.exe\n\nO23 - Service: Norton AntiVirus Auto-Protect Service (navapsvc) - Symantec Corporation - C:\\Program Files\\Norton AntiVirus\\navapsvc.exe\n\nO23 - Service: Netropa NHK Server (nhksrv) - Unknown owner - C:\\Program Files\\Netropa\\Multimedia Keyboard\\nhksrv.exe\n\nO23 - Service: Norton AntiVirus Firewall Monitor Service (NPFMntor) - Symantec Corporation - C:\\Program Files\\Norton AntiVirus\\IWP\\NPFMntor.exe\n\nO23 - Service: Norton Protection Center Service (NSCService) - Symantec Corporation - C:\\Program Files\\Common Files\\Symantec Shared\\Security Console\\NSCSRVCE.EXE\n\nO23 - Service: NVIDIA Display Driver Service (NVSvc) - NVIDIA Corporation - C:\\WINNT\\system32\\nvsvc32.exe\n\nO23 - Service: PACSPTISVR - Sony Corporation - C:\\Program Files\\Common Files\\Sony Shared\\AVLib\\PACSPTISVR.exe\n\nO23 - Service: Symantec AVScan (SAVScan) - Symantec Corporation - C:\\Program Files\\Norton AntiVirus\\SAVScan.exe\n\nO23 - Service: Symantec Network Drivers Service (SNDSrvc) - Symantec Corporation - C:\\Program Files\\Common Files\\Symantec Shared\\SNDSrvc.exe\n\nO23 - Service: SPBBCSvc - Symantec Corporation - C:\\Program Files\\Common Files\\Symantec Shared\\SPBBC\\SPBBCSvc.exe\n\nO23 - Service: Sony SPTI Service (SPTISRV) - Sony Corporation - C:\\Program Files\\Common Files\\Sony Shared\\AVLib\\SPTISRV.exe\n\nO23 - Service: Symantec Core LC - Symantec Corporation - C:\\Program Files\\Common Files\\Symantec Shared\\CCPD-LC\\symlcsvc.exe\n\n\n\nTakk fyrir.",
+            "date": "2006-04-13 18:02:00",
+            "post_id": "115603",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "Það byrjar ekki vel...",
+            "date": "2006-04-13 21:40:00",
+            "post_id": "115621",
+            "reply_to_id": "115603"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Ættir kannski að byrja á því að segja okkur hvað er að til að byrja með?\n\n\n\nEina sem ég sé athugavert þarna er að þú átt Epson prentara",
+            "date": "2006-04-13 22:11:00",
+            "post_id": "115628",
+            "reply_to_id": "115621"
+        },
+        {
+            "user_name": "corflame",
+            "text": "Held nú að helsta vandamálið er að hann er með Symantec hugbúnað á vélinni sinni....\n\n\n\nVita flestir að Norton dótið er sorp sem veldur fleiri vandamálum en það leysir...\n\n\n\nSemsagt miðað við lýsingu (eða skort á lýsingu), þá er þetta týpískt PEBCAK vandamál...",
+            "date": "2006-04-15 05:19:00",
+            "post_id": "115775",
+            "reply_to_id": "115628"
+        },
+        {
+            "user_name": "Cikster",
+            "text": "Margt hægt að sjá úr þessu þannig séð en það sem mér finnst verulega grunsamlegt er : \n\n\n\nO4 - HKLM\\..\\Run: [gimmygames] C:\\\\gimmygames11.exe\n\n\n\nAnnars mundi ég mæla með að losa mig við Norton/Symantec og fá mér eitthvað sem vinnur betur með stýrikerfinu. Adaware og spybot væri heldur ekki vitlaust, uppfæra allt og fara í safemode og scanna allt þar til að gefa því meiri möguleika að ná óværunni út.",
+            "date": "2006-04-15 09:13:00",
+            "post_id": "115777",
+            "reply_to_id": "115775"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "O4 - HKLM\\..\\Run: [nwiz] nwiz.exe /install .....hvað í andskotanum er nwiz?",
+            "date": "2006-04-22 16:56:00",
+            "post_id": "116713",
+            "reply_to_id": "115777"
+        },
+        {
+            "user_name": "CraZy",
+            "text": "learn to google plzkthx \n\nhttp://www.liutilities.com/products/win ... rary/nwiz/\n\n\n NVIDIA nView Wizard",
+            "date": "2006-04-22 19:26:00",
+            "post_id": "116742",
+            "reply_to_id": "116713"
+        }
+    ],
+    "date": "2006-04-13 18:02:00"
+}

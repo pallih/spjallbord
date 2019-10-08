@@ -1,0 +1,37 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "19989",
+    "title": "Sarotech 570HD vandræði með Lan",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=19989",
+    "posts": [
+        {
+            "user_name": "Geita_Pétur",
+            "text": "Ég fæ ekki Sarotech spilarann hvorki til að virka í gegnum Lan eða þráðlaust\nMá vel vera að ég sé að gera eitthvað vitlaust.\nÉg er búinn að prófa tegngja tækið við tölvu með Lan snúru og set up sömu ip tölu fyrir tækið og lanið, og það kemur connected á tenginguna í tölvunni, en samt kemst ég ekki í shared folderena í tölvunni frá flakkaranum.\nHvernig er það á ekki að vera hægt að tenga flakkarann beint við tölvu með Lan? Verður það að vera í gegnum router eða access point.\nEn hvað þá með þráðlausa neitið er einhver sem hefur getað látið það virka?\nÉg er búinn að reyns setja þetta samba og nfs upp eins og sagt er frá í manualinum en ekkert gerist.",
+            "date": "2008-11-09 11:18:00",
+            "post_id": "186669",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "mind",
+            "text": "ertu búinn að gefa flakkaranum aðgang inná tölvuna ? \nertu með kannski Vista á tölvunni ?\nYfirleitt myndirðu tengja flakkarann við tölvuna þína í gegnum routerinn , það er einfaldast. Hitt er samt hægt ef þú nennir því.\nÞráðlausa netið virkar en það er algjört bitch að setja það upp í fyrsta skipti yfirleitt.",
+            "date": "2008-11-09 12:17:00",
+            "post_id": "186671",
+            "reply_to_id": "186669"
+        },
+        {
+            "user_name": "Geita_Pétur",
+            "text": "Er með xp pro\nég er ekki alveg að fatta hvernig ég gef honum aðgang inn á tölvuna.\nÉg er búinn að prófa setja sömu ip tölu upp á flakkarann og lan tenginguna og það kemur connected en ég get samt ekki browsað í shared folder.\nÞað er vesen fyrir mig að lan tengja við router þar sem það þýðir kaplar þvert yfir gólf, en það er hinsvegar ekkert mál fyrir mig að tengja tölvuna beint yfir í flakkarann með lan.\nOg svo væri það ekki verra ef það væri hægt að láta þráðlaust stream úr tölvunni virka, en ég er ennþá meira strand þar.",
+            "date": "2008-11-09 17:50:00",
+            "post_id": "186699",
+            "reply_to_id": "186671"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Þegar þú segir sömu ip tölu, ertu þá að segja að \"IP Address\" er það sama hjá báðum? Ef svo er þá gengur það ekki, venjan er (nú er ég ekki einhver séní í networking og veit ekki hvort þess sé nauðsyn) að setja fyrstu þrjár sem sömu tölurnar, t.d. 192.168.1, og svo fjórða talan er mismunandi.",
+            "date": "2008-11-09 17:56:00",
+            "post_id": "186701",
+            "reply_to_id": "186699"
+        }
+    ],
+    "date": "2008-11-09 11:18:00"
+}

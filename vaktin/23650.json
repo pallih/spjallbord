@@ -1,0 +1,65 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "23650",
+    "title": "Vandamál með auka skjákort og innbyggt skjákort...",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=23650",
+    "posts": [
+        {
+            "user_name": "DoofuZ",
+            "text": "Félagi minn er með \nMSI K9AG NEO2-Digital\n móðurborð sem er með innbyggt skjákort en svo er hann með annað skjákort sem hann vill nota og hann er búinn að prófa að setja það í, slökkva á tölvunni, tengja skjáinn við auka kortið og kveikja svo aftur á tölvunni en þá kemur bara svart á skjáinn \n Ég prófaði að googla vandamálið en fann ekkert, prófaði líka að skoða FAQ á síðu framleiðandans og manualið en ekkert þar heldur \n Og það er alveg í lagi með skjákortið, amk. var ég sjálfur búinn að prófa það í annari tölvu áður, svo var hann líka með þetta skjákort í gömlu tölvunni sinni. Það eina sem mér dettur í hug er að það þurfi bara að breyta einhverri stillingu í bios en hvaða stillingu? Einhver sem hefur lent í því sama?",
+            "date": "2009-06-25 22:03:00",
+            "post_id": "210082",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Það þarf að disablea innbyggða skjákortið í BIOS og setja primary gpu (eða eitthvað svoleiðis) á PCI express.\nÖrugglega einhverstaðar undir Chipset settings\nByrjaðu samt á að uninstalla drivernum fyrir innbyggða kortið og uninstalla því device manager.",
+            "date": "2009-06-25 22:06:00",
+            "post_id": "210083",
+            "reply_to_id": "210082"
+        },
+        {
+            "user_name": "Nariur",
+            "text": "er það ekki bara að innbyggða kortið er enn virkt?\nbara tengja í innbyggða kortið, device mananger og deactivate",
+            "date": "2009-06-25 22:11:00",
+            "post_id": "210084",
+            "reply_to_id": "210083"
+        },
+        {
+            "user_name": "omare90",
+            "text": "ég lenti i þessu , þarft bara að fara i bios og disable onboard graphics controller or sum",
+            "date": "2009-06-25 22:16:00",
+            "post_id": "210085",
+            "reply_to_id": "210084"
+        },
+        {
+            "user_name": "DoofuZ",
+            "text": "Jamm, félagi minn gerði það og þetta reddaðist",
+            "date": "2009-07-01 22:13:00",
+            "post_id": "210596",
+            "reply_to_id": "210085"
+        },
+        {
+            "user_name": "biturk",
+            "text": "ég lenti í því að ég fékk bara svart á sk´jainn þegar ég kveikti á tölvunni\nég fór með móðurborðið heim í sveit og lét vaða 3 gæsahaglaskot í það, fékk mér annað og vandamálið er leyst",
+            "date": "2009-07-01 23:24:00",
+            "post_id": "210607",
+            "reply_to_id": "210596"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "Hardware conflict ....",
+            "date": "2009-07-02 01:41:00",
+            "post_id": "210625",
+            "reply_to_id": "210607"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Nei? BIOS/Device Manager stilling og hann var búinn að segja það?",
+            "date": "2009-07-02 02:22:00",
+            "post_id": "210627",
+            "reply_to_id": "210625"
+        }
+    ],
+    "date": "2009-06-25 22:03:00"
+}

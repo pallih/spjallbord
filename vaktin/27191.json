@@ -1,0 +1,128 @@
+{
+    "forum_title": "Þjónusta / Viðgerðir",
+    "id": "27191",
+    "title": "Tölvan kveikir ekki á sér eftir að rafmagnið sló út",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=13&t=27191",
+    "posts": [
+        {
+            "user_name": "dabbik",
+            "text": "Þvottavél sem ég á bilaði og sló út rafmagnið í íbúðinni. Það slökknaði náttúrulega á tölvunni og hef ekki getað kveikt á henni síðan þá. \nEinhverjar hugmyndir hvað gerðist? Gæti verið að þetta hafi smassað Power Supply-inum? Kunningi minn sagði að þetta hafi gerst fyrir sig og tölvan hans hafi farið í einhvernmegin \"spennufall\" og þá kviknaði á henni aftur eftir nokkra klukkutíma en nú er einn dagur liðinn síðan þetta atvikaðist.\nHjálp vel þegin",
+            "date": "2009-12-30 21:57:00",
+            "post_id": "236720",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Ef það gerist nákvæmlega EKKERT þegar þú reynir að kveikja henni þá er nánast klárt mál að aflgjafinn er farinn. Bara vonandi að hann hafi ekki tekið neitt annað með sér.",
+            "date": "2009-12-30 22:00:00",
+            "post_id": "236723",
+            "reply_to_id": "236720"
+        },
+        {
+            "user_name": "littli-Jake",
+            "text": "unplugaðu powersnúruna og bíddu í svona 2 daga áður en þú ferð að fraga gröf.",
+            "date": "2009-12-31 11:42:00",
+            "post_id": "236816",
+            "reply_to_id": "236723"
+        },
+        {
+            "user_name": "Godriel",
+            "text": "getur prufað að hreinsa CMOS, virkaði fyrir mig einu sinni, tekur batteryið úr og færir pinnan á JBAT yfir á pin 2-3 í 5 sec svo setur aftur á pin 2-1 og batteryið í og ath hvort að það kvikni ekki á henni aftur",
+            "date": "2009-12-31 12:14:00",
+            "post_id": "236817",
+            "reply_to_id": "236816"
+        },
+        {
+            "user_name": "roadwarrior",
+            "text": "Prufaðu að taka rafmagnssnúruna úr sambandi svona í ca 1 min og setja svo aftur í samband. Prufaðu því næst að setja hana í gang aftur",
+            "date": "2009-12-31 13:19:00",
+            "post_id": "236822",
+            "reply_to_id": "236817"
+        },
+        {
+            "user_name": "kiddi",
+            "text": "Ég hef þrisvar lent í þessu í gegnum tíðina (ansi löng tíð reyndar) og í öll skiptin var aflgjafinn farinn.",
+            "date": "2009-12-31 13:29:00",
+            "post_id": "236824",
+            "reply_to_id": "236822"
+        },
+        {
+            "user_name": "Legolas",
+            "text": "Ég hef lent í þessu og þá var móbóið fuckt",
+            "date": "2009-12-31 14:00:00",
+            "post_id": "236829",
+            "reply_to_id": "236824"
+        },
+        {
+            "user_name": "emmi",
+            "text": "Mæli með surgeprotector eða UPS.",
+            "date": "2009-12-31 14:06:00",
+            "post_id": "236831",
+            "reply_to_id": "236829"
+        },
+        {
+            "user_name": "tolli60",
+            "text": "Hljómar eins og aflgjafi sé farinn",
+            "date": "2009-12-31 15:03:00",
+            "post_id": "236837",
+            "reply_to_id": "236831"
+        },
+        {
+            "user_name": "Hnykill",
+            "text": "Hef lent í þessu oft hérna fyrir vestan.. það er langverst þegar rafmagnið flöktir áður en það fer.. spennufall og rýkur svo upp aftur :/\ner búinn að missa nokkra harða diska svona. allavega 1 móðurborð og 2 aflgjafa sem ég man eftir. örgjörvar og minniskubbar virðast geta harkað þetta af sér einhvernveginn.. ómögulegt að segja hvað er farið nema bilangreina hlut fyrir hlut í annari tölvu helst. en það er gott að tékka á aflgjafanum fyrst já.\nSuckar :/ ..og gleðilegt nýtt ár",
+            "date": "2009-12-31 16:40:00",
+            "post_id": "236849",
+            "reply_to_id": "236837"
+        },
+        {
+            "user_name": "Some0ne",
+            "text": "Þið eigið að geta farið fram á að rafveitan ykkar greiði skaðabætur vegna eyðilagðra raftækja..",
+            "date": "2009-12-31 18:18:00",
+            "post_id": "236857",
+            "reply_to_id": "236849"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Það makar ekki sense fyrir mér.\nEkki einu sinni smá sense...",
+            "date": "2009-12-31 18:31:00",
+            "post_id": "236858",
+            "reply_to_id": "236857"
+        },
+        {
+            "user_name": "Blackened",
+            "text": "tjah.. ef að rafveitan er að senda ykkur eitthvað annað en 400/230v rafmagn þá áttu vissulega rétt á því ef að raftæki eyðileggjast.. þaðer ef spennan er of há eða of lá\nlenti í því um daginn að koma á verkstæði þarsem að rafsuðuvél var búin að bila ítrekað yfir árið og við komumst að því að það voru bara 190v en ekki 230v eins og rafveitan er að SELJA manni..\nþeir fengu vélina borgaða og einhvern viðgerðarkostnað líka og rafveitan þurfti að grafa niður sverari streng til að geta afhent umsamið rafmagn \nEn svo að maður víkji sér nú að efninu.. það er klárlega ekki rafveitunni að kenna ef að þvottavél bilar og það slær út lekaliði \n og þarafleiðandi rafveitan enganvegin ábyrg\nennnn.. það er samt spurning hvort að Heimilstryggingin dekkar þetta ekki bara? ég myndi tékka á því amk..",
+            "date": "2010-01-01 21:54:00",
+            "post_id": "236958",
+            "reply_to_id": "236858"
+        },
+        {
+            "user_name": "Some0ne",
+            "text": "Já lol, hann á náttúrulega engann rétt á skaðabótum út frá þvi að þvottavélin hans skíti á sig, ekki nema að rafmagnið inní húsið sé vitlaust eins og Blackened sagði.\nÞað gæti verið hinsvegar að heimilistryggingin dekki þetta, en það er alltaf einhver sjálfsábyrgð, frá 15k og uppúr, svo það er spurning um hvort að það borgi sig ef þetta er bara aflgjafinn.",
+            "date": "2010-01-01 21:57:00",
+            "post_id": "236959",
+            "reply_to_id": "236958"
+        },
+        {
+            "user_name": "dabbik",
+            "text": "Jæja ég keypti nýjann aflgjafa og virðist það ei virka, ætli móðurborðið sé ekki dautt?",
+            "date": "2010-01-05 19:33:00",
+            "post_id": "237587",
+            "reply_to_id": "236959"
+        },
+        {
+            "user_name": "Narco",
+            "text": "Held þú ættir að skila aflgjafanum og spreða í bilanaleit t.d. í kísildal, þeir eru oft snöggir að finna út úr svona dóti og eru ekki dýrir.",
+            "date": "2010-01-05 19:36:00",
+            "post_id": "237588",
+            "reply_to_id": "237587"
+        },
+        {
+            "user_name": "dabbik",
+            "text": "Hm já það er kannski rétt hjá þér að það ætti að kíkja með hana í viðgerð en það er samt eiginlega augljóst að móðurborðið sé dautt samt.\nAldrei heyrt um að örgjörvar, vinnsluminni eða skjákort \"deyji\" í svona tilfellum. Og ég var að fá nýjan aflgjafa þannig að það getur nánast ekki verið neitt nema móðurborðið og kannski harður diskurinn líka en hann skiptir engu við að ræsa tölvu.\nTel miklar líkur á að móbóið hafi farið, ef ekki þá móbóið og aflgjafinn.",
+            "date": "2010-01-05 19:50:00",
+            "post_id": "237592",
+            "reply_to_id": "237588"
+        }
+    ],
+    "date": "2009-12-30 21:57:00"
+}

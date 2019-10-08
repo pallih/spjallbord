@@ -1,0 +1,79 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "35160",
+    "title": "Ræður vélin mín við ATI 5870?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=35160",
+    "posts": [
+        {
+            "user_name": "tanketom",
+            "text": "Góðan Dag.\nÉg er mikið að spá að kaupa mér, XFX ATI Radeon HD 5870 1GB DDR5 skjákortið en nú spyr ég ykkur hvort tölvan höndli það?\nAflgjafi: \nhttp://www.tacens.com/riii520.php\nÖrgjörfi: 965 AM3 AMD Phenom II X4 Processor (3.4GHz) Retail \nMóðurborð: \nhttp://www.gigabyte.com/products/produc ... id=3517#ov\nHarðadiskur: Western Digital Caviar Black WD1002FAEX 1TB SATA3 7200rpm 64MB Hard Drive \nVinnsluminni: \tSuper Talent DDR3-1333 6GB (3x 2GB) CL9 Triple Channel Memory Kit \nKassviftur x3: \nhttp://kisildalur.is/?p=2&id=647\nsvo nátturulega bara Geisladrif...",
+            "date": "2011-01-06 13:02:00",
+            "post_id": "309970",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Klaufi",
+            "text": "Hvaða örgjörvi?",
+            "date": "2011-01-06 13:03:00",
+            "post_id": "309971",
+            "reply_to_id": "309970"
+        },
+        {
+            "user_name": "tanketom",
+            "text": "ooops hvernig gat ég gleymt því 965 AM3 AMD Phenom II X4 Processor (3.4GHz) Retail",
+            "date": "2011-01-06 13:23:00",
+            "post_id": "309977",
+            "reply_to_id": "309971"
+        },
+        {
+            "user_name": "tanketom",
+            "text": "ætlar einhver að hjálpa mér hérna?",
+            "date": "2011-01-09 12:32:00",
+            "post_id": "310898",
+            "reply_to_id": "309977"
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "Það er talað um að 500w power sé lámark þannig að þú rétt sleppur",
+            "date": "2011-01-09 12:47:00",
+            "post_id": "310901",
+            "reply_to_id": "310898"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Það er einnig talað um að 40A samanlagt á 12V Rail-unum sé lagmark og þessi aflgjafi nær bara  36A (18+18)\nÞetta ætti samt að sleppa hjá þér (sagt án allrar ábyrgðar á því að þú keyrir þetta á þessum aflgjafa og skemmir eitthvað vegna underpowering eða álags á PSU)",
+            "date": "2011-01-09 12:51:00",
+            "post_id": "310903",
+            "reply_to_id": "310901"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Setningin úr specifications flipanum á síðu framleiðanda...\n= þú átt að geta notað 5870 kortið og allflest kort í dag án vandræða, en hugsanlega ertu vandræðum með SLi og Crossfire (ekki nota tvö skjákort)",
+            "date": "2011-01-09 13:09:00",
+            "post_id": "310911",
+            "reply_to_id": "310903"
+        },
+        {
+            "user_name": "tanketom",
+            "text": "okey en skiftir engu máli með restina af búnaðinum?\nkemur það ekkert orkunotkununa á aflgjafanum við? verður hann ekki veikar eins og ef eg sé með öflugri örgjörfa eða vatnskælingu?",
+            "date": "2011-01-09 17:05:00",
+            "post_id": "310993",
+            "reply_to_id": "310911"
+        },
+        {
+            "user_name": "rapport",
+            "text": "450 Watt or greater power supply with one 75W 6-pin PCI Express® power connectors recommended...\nÞú ert á mörkunum, ef þú ert með noname aflgjafa gætir þú verið of tæpur...",
+            "date": "2011-01-09 19:03:00",
+            "post_id": "311037",
+            "reply_to_id": "310993"
+        },
+        {
+            "user_name": "Plushy",
+            "text": "Mæli með ef þú átt smá pening að uppfæra í 650w Corsair aflgjafa\nLinkur",
+            "date": "2011-01-09 19:11:00",
+            "post_id": "311042",
+            "reply_to_id": "311037"
+        }
+    ],
+    "date": "2011-01-06 13:02:00"
+}

@@ -1,0 +1,93 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "33889",
+    "title": "Tölvan í sjónvarpið... hdmi vandamál, sárvantar hjálp :o",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=33889",
+    "posts": [
+        {
+            "user_name": "Alexs",
+            "text": "er að lenda í því að þega ég keyri tölvuna í gegnum sjónvarpið þá á myndin til að detta út í sekúndubrot og koma aftur í brengluðum litum.\ner með linka á myndir sem sýna mismunin :\nég hef prufað þetta með 2 tölvum og 3 skjákortum, 3 hdmi snúrum og öll 3 hdmi tengin á tv-inu, alltaf sama sagan\nhringdi í tech support um daginn og var ráðlagt að uppfæra sjónvarpið sem btw er Philips 32\" lcd\nég gerði það en ekkert breyttist (updateið á ekki að hafa klikkað, doublechecked :p )\ner einhver sem hefur lent í þessu?\nUpdate:\nveit ekki hvað ég get gert í þessu, það sem ég hef testað er:\n-firmware update á tv\n-3x hdmi snúrur (er currently með 1.8m manhattan kapal með 10gb bandvídd og 1.3c staðlinum sem á að vera meira en nóg fyrir svona)\n-3x hdmi tengi á tv\n-2x pc og 3x skjákort (allt ATI radeon, núna með mobility radeon hd 5800 series)\n-ekkert vesen þegar ég horfi á tv í gegnum afruglarann sem er tengdur með hdmi. þannig að þetta er líklegast ekki eintthver bilun á tv\nbúinn að flétta í gegnum tv manual og fylgja því sem þar segir.\nöll hjálp vel þegin, ef ykkur dettur e-ð í hug endilega komið með það.\nlíka spurning hvort þeta gæti verið e-ð stillingaratriði í tölvunni, refresh rate eða þvíumlíkt?",
+            "date": "2010-11-18 19:28:00",
+            "post_id": "296502",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "stebbi23",
+            "text": "Hef lennt í svipuðu með hdmi splitter á mörg tæki en þá voru snúrurnar líka orðnar slappar. Myndin datt út eða varð bleik.\nSpurning hvort að tölvan sé að senda út of veikt signal fyrir sjónvarpið ? Ég man að Philips tækin voru sérstaklega slæm í þessu.\nMig minnir að það hafi verið hægt að redda þessu á einhverjum Philips tækjum með því að slökkva á Perfect Pixel(Plus) en ekki víst að þetta sé sama vandamál.",
+            "date": "2010-11-18 19:32:00",
+            "post_id": "296503",
+            "reply_to_id": "296502"
+        },
+        {
+            "user_name": "Alexs",
+            "text": "prófa það, sjá hvað gerist",
+            "date": "2010-11-18 19:46:00",
+            "post_id": "296507",
+            "reply_to_id": "296503"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Myndi giska á HDMI handshake vandamál vegna t.d veiks merkis ....\nGætir prófað að fá þér svona: \nhttp://www.computer.is/vorur/7063/\nTengja svo HDMI snúru úr tölvunni og í þetta, svo aðra úr þessu og í sjónvarpið.  Myndi prófa stuttar snúrur fyrst, svo lengri ef þú þarft.",
+            "date": "2010-11-18 19:51:00",
+            "post_id": "296508",
+            "reply_to_id": "296507"
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "Ég er með 10m hdmi snúru sem kostaði 3900kr, sem fer í breytistk. dvi og 42\" LG og ekkert vesen þar",
+            "date": "2010-11-18 20:58:00",
+            "post_id": "296520",
+            "reply_to_id": "296508"
+        },
+        {
+            "user_name": "Alexs",
+            "text": "er ekki að nota nema 1m snúru, skrýtið að merkið ætti að veikjast e-ð \nog það breytti engu þó ég prufaði með 2 mismunandi tölvum og snúrum. þori varla að kaupa þetta sem hagur talar um ef það virkar svo ekki :p",
+            "date": "2010-11-18 21:13:00",
+            "post_id": "296523",
+            "reply_to_id": "296520"
+        },
+        {
+            "user_name": "Alexs",
+            "text": "spurning hvort það sé ekki bara sniðugast að fá sér alvöru kapal ef þetta gæti verið veikt merki frá tölvunni, 1 stk svona \nhttp://www.att.is/product_info.php?cPath=48_67_217&products_id=4236\ní staðinn fyrir 2 snúrur og repeater? \nhttp://www.computer.is/vorur/7063/",
+            "date": "2010-11-21 16:08:00",
+            "post_id": "297048",
+            "reply_to_id": "296523"
+        },
+        {
+            "user_name": "axyne",
+            "text": "Ertu með HDMI á skjákortinu þínu ? eða ertu að notast við DVI yfir í HDMI breytikubb ?\nhef oft lent í allskonar vandamálum með svona DVI/HDMI kubba, ef þú ert að nota svoleiðis þá myndi ég athuga með hann, prufa jafnvél snúru sem er DVI yfir í HDMI og sleppa kubbinum.\nég er einmitt að selja eina svoleiðis 5m\nhttp://spjall.vaktin.is/viewtopic.php?f=67&t=33294",
+            "date": "2010-11-21 18:59:00",
+            "post_id": "297083",
+            "reply_to_id": "297048"
+        },
+        {
+            "user_name": "Alexs",
+            "text": "er með hdmi á kortinu já",
+            "date": "2010-11-21 19:16:00",
+            "post_id": "297089",
+            "reply_to_id": "297083"
+        },
+        {
+            "user_name": "Alexs",
+            "text": "update á efsta póst, upp með þetta",
+            "date": "2010-12-11 11:08:00",
+            "post_id": "302393",
+            "reply_to_id": "297089"
+        },
+        {
+            "user_name": "biturk",
+            "text": "þetta er einmitt ástæðan fyrir að ég nenni ekki að vesenast með hdmi og hd myndir, eintómt bras og vesen \n \nskipta bara aftur í scart og vandamálið leist",
+            "date": "2010-12-11 11:14:00",
+            "post_id": "302394",
+            "reply_to_id": "302393"
+        },
+        {
+            "user_name": "Alexs",
+            "text": "já getur verið, er með þetta í gegnum vga til að redda mér, en það er bara eins og að lesa moggan þegar hann kom út í svarthvítu.. gamlar fréttir og svona :p hd all teh way",
+            "date": "2010-12-11 11:20:00",
+            "post_id": "302395",
+            "reply_to_id": "302394"
+        }
+    ],
+    "date": "2010-11-18 19:28:00"
+}

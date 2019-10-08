@@ -1,0 +1,65 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "47574",
+    "title": "Lengi að ræsa sig",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=47574",
+    "posts": [
+        {
+            "user_name": "svanur08",
+            "text": "Þegar ég restarta tölvunni þá kemur svona blár hringur utan um netið og tölvan respondar ekki og gadgets eru lengi að birtast svo allt í einu dettur það inn eftir dáldinn tíma og tölvan virkar fínt, einhver með lausn á þessu?",
+            "date": "2012-05-03 00:01:00",
+            "post_id": "439175",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Ekki láta það marga hluti starta sér sjálfkrafa að tölvan ráði ekki við það? \nLíklega fín byrjun. Og líklaregar vandamálið frekar en eitthvað annað.",
+            "date": "2012-05-03 00:09:00",
+            "post_id": "439176",
+            "reply_to_id": "439175"
+        },
+        {
+            "user_name": "svanur08",
+            "text": "mjög lítið þannig, þetta byrjaði bara allt í einu fyrir svona mánuði.",
+            "date": "2012-05-03 00:10:00",
+            "post_id": "439177",
+            "reply_to_id": "439176"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Installaðirðu einhverjum forritum akkúrat um það tímabil? \nRámar alveg í það að hafa verið með \nmjög \nsambærilegt vandamál vegna þess að ég installaði einhverju rusli fyrir MMORPG leik sem að spilaði ekki fallega með hinum forritunum í startupi.  \nAð vísu var það þá að mig minnir að tölvan fraus alveg án þess að neitt sérstakt hafi loadast og datt svo inn 20-30 sek seinna.",
+            "date": "2012-05-03 00:24:00",
+            "post_id": "439179",
+            "reply_to_id": "439177"
+        },
+        {
+            "user_name": "svanur08",
+            "text": "nei ekkert sett neitt forrit, leiki eða driver lengi.",
+            "date": "2012-05-03 00:26:00",
+            "post_id": "439180",
+            "reply_to_id": "439179"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Handviss? Double checkaðu í Control Panel\\All Control Panel Items\\Programs and Features og raðaðu eftir Installed On.",
+            "date": "2012-05-03 00:27:00",
+            "post_id": "439181",
+            "reply_to_id": "439180"
+        },
+        {
+            "user_name": "svanur08",
+            "text": "jamm ekki síðan í mars.",
+            "date": "2012-05-03 00:32:00",
+            "post_id": "439182",
+            "reply_to_id": "439181"
+        },
+        {
+            "user_name": "Klaufi",
+            "text": "Ertu til í að taka screen shot af Startup hjá þér?\nStart>\"msconfig\">Enter> Startup tabinn.",
+            "date": "2012-05-03 00:36:00",
+            "post_id": "439183",
+            "reply_to_id": "439182"
+        }
+    ],
+    "date": "2012-05-03 00:01:00"
+}

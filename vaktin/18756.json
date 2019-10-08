@@ -1,0 +1,58 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "18756",
+    "title": "Sami diskur annað borð",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=18756",
+    "posts": [
+        {
+            "user_name": "jóli",
+            "text": "Hvernig gengur að nota disk með registeruðu win xp en uppfæra allt annað hardware? eru líkur á að win komi upp, svo að föndra við að setja nýja drævera",
+            "date": "2008-07-24 13:39:00",
+            "post_id": "178638",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "mind",
+            "text": "Góður líkur á að allt krassi nema þetta sé mjög líkur vélbúnaður(móðurborð aðallega)\nTil nokkur trikk til að reyna gera þetta auðveldara.\nTrikk 1\nSafe mode - uninstall all drivers\nSystem - device manager - eyða út öllum tækjum sem hægt er.\nSlökkva á tölvu og reyna boota diskinum með nýrri tölvu, það eru samt ekki miklar líkur á að þetta virki og þetta gæti eyðilagt installið á harða diskum fyrir fullt og allt.(þ.e.a.s. þú nærð ekki að boota stýrikerfinu aftur upp með neinni tölvu)\nTrikk 2\nÞú getur líka fært diskinn á milli og keyrt inn windows repair strax á stýrikerfið, þá þarftu samt að installa öllum service packs og uppfærslum aftur, kannski einhverjum forritum og leikjum. Held þú þurfir líka KEY til þess.\nAð öllu jöfnu nenni ég þessu aldrei og læt inn alveg nýtt install í hvert skipti, stýrikerfið verður hvort eð er hægt og leiðinlegt eftir 6-12 mánuði.",
+            "date": "2008-07-24 14:26:00",
+            "post_id": "178646",
+            "reply_to_id": "178638"
+        },
+        {
+            "user_name": "urban",
+            "text": "hef aldrei skilið afhverju menn eru að lenda í þessu.\nwindows uppsetningin hjá mér núna er síðan í okt 2006 minnir mig (gæti verið sept - des)\nog er að fúnkera alveg jafn vel og hún gerði þá, t.d. þá er ég að skora það sama í hinum og þessum benchmark testum núna og þegar að stýrikerfið var nyuppsett.",
+            "date": "2008-07-24 14:40:00",
+            "post_id": "178651",
+            "reply_to_id": "178646"
+        },
+        {
+            "user_name": "jóli",
+            "text": "njammms.. annars ekker mál..ég er með win á 20gb part en nýtt innstall...(hugs) þá get ég ekki registerað windót xp aftur\nég hata að kaupa af Bill",
+            "date": "2008-07-24 14:51:00",
+            "post_id": "178653",
+            "reply_to_id": "178651"
+        },
+        {
+            "user_name": "Halli25",
+            "text": "Ég gerði þetta nýlega þar sem S939 móbóið hætti að virka og ég fór í AM2 móðurborð, örgjörva og ddr2 minni. notaði sama HDD með uppsettu win xp pro og það gekk. Þurfti bara að virkja XP aftur og uppfæra drivera \nVirkar smurt eftir hálft ár í notkun",
+            "date": "2008-07-24 15:19:00",
+            "post_id": "178655",
+            "reply_to_id": "178653"
+        },
+        {
+            "user_name": "mind",
+            "text": "[quote=\"urban-\"][quote=\"mind\"] stýrikerfið verður hvort eð er hægt og leiðinlegt eftir 6-12 mánuði.[/quote]\nhef aldrei skilið afhverju menn eru að lenda í þessu.\nwindows uppsetningin hjá mér núna er síðan í okt 2006 minnir mig (gæti verið sept - des)\nog er að fúnkera alveg jafn vel og hún gerði þá, t.d. þá er ég að skora það sama í hinum og þessum benchmark testum núna og þegar að stýrikerfið var nyuppsett.[/quote]\nÞetta fer svolítið eftir hvernig þú notar stýrikerfið, ég fer frekar illa með þetta installa og uninstalla mikið af hlutum og það hefur áhrif á afköst vélarinnar og ræsingarhraða, auk þess eyðilegg ég við og við stýrikerfið sjálft með því að fikta í hlutum sem það er ekki hrifið af \nÞví er ég bara með image og þegar tölvan er of leiðinleg þá bara tekur 10min og hún orðin fersk aftur með öllum drivers og allt.",
+            "date": "2008-07-24 17:39:00",
+            "post_id": "178670",
+            "reply_to_id": "178655"
+        },
+        {
+            "user_name": "jóli",
+            "text": "ætli sé ekki bara best að selja tölvu á smá til að kauða nýtt stýrikerfi..eða annars.. maður á ekki að vera að pæla svona miklið í skjákortum og mobo.. maður verður bara alltaf óánægður.. betra að spá í hvað maður þarf en ekki alltaf hvað mann langar í :þ,,, þessi tölva keyrir alveg fínnt",
+            "date": "2008-07-24 20:55:00",
+            "post_id": "178679",
+            "reply_to_id": "178670"
+        }
+    ],
+    "date": "2008-07-24 13:39:00"
+}

@@ -1,0 +1,72 @@
+{
+    "forum_title": "Símar, fartölvur, myndavélar og önnur farandstæki",
+    "id": "46676",
+    "title": "Hugbúnaður til að framkalla bilanir á fartölvum?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=26&t=46676",
+    "posts": [
+        {
+            "user_name": "audiophile",
+            "text": "Hæ.\nGetur einhver bent mér á hugbúnað, helst frían, til að bilanagreina fartölvur? Semsagt, framkalla bláskjá eða eitthvað almennt til að setja álag á tölvu?\nEr til eitthvað sem metur hvort vélbúnaður sé í lagi?",
+            "date": "2012-03-21 13:32:00",
+            "post_id": "430300",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "silentkill",
+            "text": "..",
+            "date": "2012-03-21 16:01:00",
+            "post_id": "430327",
+            "reply_to_id": "430300"
+        },
+        {
+            "user_name": "DJOli",
+            "text": "Memtest ætti að duga til að prófa vinnsluminni\nGetur leitað uppi Futuremark/3dmark forritin til að leggja álag á örgjörva/skjákort",
+            "date": "2012-03-21 18:25:00",
+            "post_id": "430370",
+            "reply_to_id": "430327"
+        },
+        {
+            "user_name": "arnif",
+            "text": "prime95 fyrir örgjörvan",
+            "date": "2012-03-21 19:36:00",
+            "post_id": "430380",
+            "reply_to_id": "430370"
+        },
+        {
+            "user_name": "einarhr",
+            "text": "Burn-in-Test er málið, reynir á minni, HDD, skjákort ofl.\nhttp://www.passmark.com/products/bit.htm",
+            "date": "2012-03-21 19:49:00",
+            "post_id": "430383",
+            "reply_to_id": "430380"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Prime95, 3Dmark, OCCT og Linpack í því, Memtest, Everest, Burn-In Test svo eitthvað sé nefnt.",
+            "date": "2012-03-21 22:36:00",
+            "post_id": "430431",
+            "reply_to_id": "430383"
+        },
+        {
+            "user_name": "Carc",
+            "text": "Prime95 +1\nHefur alltaf verið það fyrsta sem ég keyri þegar ég set upp nýja vél.",
+            "date": "2012-03-22 00:03:00",
+            "post_id": "430450",
+            "reply_to_id": "430431"
+        },
+        {
+            "user_name": "audiophile",
+            "text": "Takk fyrir þetta.\nVar einmitt búinn að heyra af Prime95 og Memtest og datt í hug að reyna að finna fleiri sem láta tölvuna finna fyrir því.\nVitið þið eitthvað hvað tölvuverkstæðin eru að nota til að finna hvort vélbúnaður sé í lagi eða ekki? Er það bara samansafn af þessum forritum?",
+            "date": "2012-03-22 08:48:00",
+            "post_id": "430475",
+            "reply_to_id": "430450"
+        },
+        {
+            "user_name": "einarhr",
+            "text": "Þegar ég var hjá Tæknival og Task á verkstæðinu þá notuðum við oftast Burn In Test þar sem það er hægt að prófa minni, hdd, skjákort samtímis.",
+            "date": "2012-03-22 15:19:00",
+            "post_id": "430527",
+            "reply_to_id": "430475"
+        }
+    ],
+    "date": "2012-03-21 13:32:00"
+}

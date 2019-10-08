@@ -1,0 +1,121 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "25133",
+    "title": "Vantar Stærðfræðiforrit/dæmaritfinn , hugmyndir um slíkt?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=25133",
+    "posts": [
+        {
+            "user_name": "BjarniTS",
+            "text": "Vantar eitthvað einfalt og gott , er í 303 og langar að setja þetta hérna upp í tölvunni , allar hugmyndir vel þegnar , er bæði með Ubuntu og Win , hugmyndir fyrir bæði kerfin vel þegnar, \nKveðja , \nBjarni",
+            "date": "2009-09-23 16:24:00",
+            "post_id": "219558",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Matlab, Maple, Mathematica og Octave.",
+            "date": "2009-09-23 16:36:00",
+            "post_id": "219561",
+            "reply_to_id": "219558"
+        },
+        {
+            "user_name": "addi32",
+            "text": "Myndi nú ekki segja að Matlab sé einfalt... mæli hinsvegar með Maple, einfalt og þægilegt... Auðvelt að setja upp dæmi og reikna með einingum.",
+            "date": "2009-09-23 17:04:00",
+            "post_id": "219564",
+            "reply_to_id": "219561"
+        },
+        {
+            "user_name": "BjarniTS",
+            "text": "Takk fyrir að koma með hugmyndir Máni , en þessi forrit eru bara nýr stærðfræðiáfangi út af fyrir sig.\nÞað sem ég er að hugsa um er svona eitthvað létt og þægilegt sem að er með flestum táknum , til að ég geti skrifað upp dæmi og þannig.\nSett upp í gröf á einfaldan hátt , en takk samt fyrir.",
+            "date": "2009-09-23 17:07:00",
+            "post_id": "219565",
+            "reply_to_id": "219564"
+        },
+        {
+            "user_name": "blitz",
+            "text": "Maxima er snilld í alla útreikninga",
+            "date": "2009-09-23 17:16:00",
+            "post_id": "219566",
+            "reply_to_id": "219565"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Stæ 303 er viðbjóðslegur stærðfræði áfangi. Ég fæ allveg hroll þegar ég hugsa til \nbaka.",
+            "date": "2009-09-23 17:23:00",
+            "post_id": "219567",
+            "reply_to_id": "219566"
+        },
+        {
+            "user_name": "BjarniTS",
+            "text": "Með leitinni fann ég einmitt gamalt dót frá þér.\náttu til glósur eða eitthvað efni ?\n-",
+            "date": "2009-09-23 17:43:00",
+            "post_id": "219569",
+            "reply_to_id": "219567"
+        },
+        {
+            "user_name": "Dagur",
+            "text": "http://www.sagemath.org/\nÓkeypis og open source. Þeir eru líka með online þjónustu ef þú vilt prófa/sleppa við uppsetninguna \nhttp://www.sagenb.org/",
+            "date": "2009-09-23 17:50:00",
+            "post_id": "219573",
+            "reply_to_id": "219569"
+        },
+        {
+            "user_name": "BjarniTS",
+            "text": "sage-4.1.1-linux-Ubuntu_9.04-i686-Linux.tar.gz.metalink\nHvað á ég að gera við þennan file þegar að ég er búinn að niðurhala honum ?\náfanginn fjallar um vigra , sem er flókið.\nEru einhverjir hérna í þessum áfanga sem að eiga eitthvað rafrænt efni um þetta , glósur , svör , dæmi.\nHvað sem er.\nDæmi sem ég botna engan veginn í .\nVigrar a =\n og b = \n eru báðir samsíða y=2x+1.  Finnið a2 og b1.\na2 og b1 á auðvitað að vera með subscript en ég væ það bara ekkert til að virka hérna.\nog subscriptið á að vera fyrir neðan.  \nekki fyrir ofan eins og þegar að tala er í öðru veldi.\nHvað þýðir það þegar að tala er svona fyrir neðan ?",
+            "date": "2009-09-23 18:29:00",
+            "post_id": "219579",
+            "reply_to_id": "219573"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Nei því miður, ég er löngu búinn að henda öllu sem tengdst STÆ303.",
+            "date": "2009-09-23 20:49:00",
+            "post_id": "219595",
+            "reply_to_id": "219579"
+        },
+        {
+            "user_name": "einarornth",
+            "text": "Fáðu þér frekar aukatíma ef þú ert alveg clueless. Þá hjálpa forritin þér voða lítið.\na = [ 1 / 2 ] þýðir bara að þetta er strik (vigur) sem nær frá (0,0) til (1,2). Þannig er a vigurinn hjá þér bara strik sem nær frá (0,0) til (1,a2) þar sem a2 er einhver tala. Það að þessi vigur sé svo samsíða y=2x+1 ætti þá að gefa þér þessa tölu a2. a2 þýðir bara að þetta er síðari talan í vigrinum a, sem hefur líka a1 = 1.",
+            "date": "2009-09-23 22:15:00",
+            "post_id": "219608",
+            "reply_to_id": "219595"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Held að maple sé það sem þú ert að leita að. \nTékkaðu á demo videounum \nhttp://www.maplesoft.com/products/Maple/demo/index.aspx\nEr með þetta uppsett á ubuntu hjá mér.",
+            "date": "2009-09-24 01:24:00",
+            "post_id": "219630",
+            "reply_to_id": "219608"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Mathematica er MARGFALT betra og auðveldara en Maple. Yndislega þægileg function search, öll tákn til á toolbar, já í raun bara allt sem er betra við Mathematica.",
+            "date": "2009-09-24 08:33:00",
+            "post_id": "219641",
+            "reply_to_id": "219630"
+        },
+        {
+            "user_name": "Dagur",
+            "text": "Ef þú ert á ubuntu á þættir þú að geta gert\nKóði: \nVelja allt\n$ sudo apt-get install sagemath",
+            "date": "2009-09-24 10:14:00",
+            "post_id": "219645",
+            "reply_to_id": "219641"
+        },
+        {
+            "user_name": "BjarniTS",
+            "text": "Fór í gegn um install\nTôk góðan tíma.\nsagemath finn ég hvergi \n \nÞó að ég sé búinn að keyra í gegn skipunina sem þú sendir.",
+            "date": "2009-09-24 11:31:00",
+            "post_id": "219651",
+            "reply_to_id": "219645"
+        },
+        {
+            "user_name": "viddi",
+            "text": "Held að þetta sé eitthvað web based dæmi, getur prófað að gera\nKóði: \nVelja allt\nsudo /etc/init.d/sagemath start\nfara svo í mozilla og gera \nhttp://localhost",
+            "date": "2009-09-24 13:24:00",
+            "post_id": "219666",
+            "reply_to_id": "219651"
+        }
+    ],
+    "date": "2009-09-23 16:24:00"
+}

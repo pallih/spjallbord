@@ -1,0 +1,107 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "31874",
+    "title": "Vantar gott media streaming forrit, svipað og TVersity",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=31874",
+    "posts": [
+        {
+            "user_name": "DoofuZ",
+            "text": "Ég hef verið að nota TVersity núna í nokkurn tíma til að spila ýmislegt, myndbönd og tónlist, á LCD sjónvarpi sem er tengt með netsnúru beint við routerinn en það hefur ekki verið að ganga nógu vel. Það kemur oft fyrir að ef ég er bara aðeins að kíkja á eitthvað, spila s.s. bara smá af einhverju og stoppa það svo, þá hættir bara allt að geta spilast. Ég get samt skoðað listann yfir allt en það bara virkar ekki að spila það og það þýðir ekkert að endurræsa forritið eða gera restart á TVersity service, oftast hef ég ekki fengið hlutina til að virka nema með því að endurræsa tölvuna mína \n Svo var ég að prófa að spila eitthvað í gær og þá bara virkaði ekkert alveg frá byrjun \n Að vísu kom forritið með update tilkynningu svo ég setti nýjustu útgáfuna inn en það virðist ekki hjálpa neitt.\nEinhver hér sem kannast við svona vesen með TVersity? Getiði bent mér á eitthvað annað svipað forrit sem virkar betur? Var að prófa forritið \nOrb\n en er ekki alveg að sjá hvernig ég á að geta tengst því í sjónvarpinu",
+            "date": "2010-08-15 16:01:00",
+            "post_id": "276514",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "PSM (Playstation Media Server). Miklu, miklu meira advanced functions, styður .mkv file-a, multicore transcoding og flr.\nStyður flest DLNA tæki.",
+            "date": "2010-08-15 18:32:00",
+            "post_id": "276542",
+            "reply_to_id": "276514"
+        },
+        {
+            "user_name": "DoofuZ",
+            "text": "Þakka góða ábendingu en PMS virðist ekki virka í Windows 7 \n Held ég sé reyndar kominn með ágætis lausn \n Addaði möppu, sem inniheldur fullt af öðrum möppum með myndböndum, við Video Library og það virðist virka \n Megið samt endilega benda mér á einhver fleiri forrit sem ég gæti prófað",
+            "date": "2010-08-15 21:17:00",
+            "post_id": "276565",
+            "reply_to_id": "276542"
+        },
+        {
+            "user_name": "dadik",
+            "text": "Virkar fínt á W7 hjá mér ...",
+            "date": "2010-08-15 21:33:00",
+            "post_id": "276568",
+            "reply_to_id": "276565"
+        },
+        {
+            "user_name": "DoofuZ",
+            "text": "Jæja, er núna búinn að prófa þetta betur svona beint frá Windows 7 og ég tek alveg eftir örlitlu laggi, það er ekki það mikið að það sé pirrandi en ég tek alveg eftir því og væri helst til í að finna einhverja aðra betri lausn með engu laggi, einhver sem er með góða hugmynd?",
+            "date": "2010-09-02 19:03:00",
+            "post_id": "279760",
+            "reply_to_id": "276568"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Vantar meiri uppl.\nHvernig skrá ertu að spila þegar þetta laggar? Hvernig network er á milli W7 vélarinnar og PS3? Allt 100mbit eða Gbit? Ertu með multicore transcoding enabled í PSM?",
+            "date": "2010-09-02 19:05:00",
+            "post_id": "279761",
+            "reply_to_id": "279760"
+        },
+        {
+            "user_name": "DoofuZ",
+            "text": "Ég er ekki með PS3, ég er með LCD sjónvarp sem ég tengi við heimanetið. Og eins og ég sagði hér aðeins ofar þá virkar PSM ekki hjá mér, virkar bara ekki baun í bala, það kemur minnir mig bara einhver villa eða eitthvað svoleiðis þegar ég reyni að keyra það í gang eins og það eigi ekki að virka í Windows 7 \nUppsetningin á netinu er annars þannig að það kemur ein löng snúra úr tölvunni fram í access point, þaðan er svo önnur snúra beint í router og síðan er snúra úr sjónvarpinu og beint í router, en ég skal skoða betur hver hraðinn á netinu er þegar ég kem heim",
+            "date": "2010-09-05 11:40:00",
+            "post_id": "280113",
+            "reply_to_id": "279761"
+        },
+        {
+            "user_name": "Blues-",
+            "text": "Ég nota mediatomb, styður transcoding via VLC eða ffmpeg. \nhttp://mediatomb.cc\nBrilliant tól .. er bara til fyrir Posix stýrikerfi .. \nþannig að ef þú ert með stýrikerfi satans þá getur þú ekki notað það ..\nGæti samt verið að það sé til 3rd party windows build af því ..\ntékkaðu á vefnum hjá þeim og athugaðu hvort þú getur notað það .. \nbtw. þetta er GPL licensed .. þannig að þetta kostar ekki neitt.",
+            "date": "2010-09-05 12:27:00",
+            "post_id": "280120",
+            "reply_to_id": "280113"
+        },
+        {
+            "user_name": "Leviathan",
+            "text": "Held að það besta sem þú getur gert er að fá PSM í lag. Laaangbesta forritið í svonalagað.",
+            "date": "2010-09-05 12:34:00",
+            "post_id": "280121",
+            "reply_to_id": "280120"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "PSM all the way.\nPSM á að virka 100% í Windows7, er með það sett upp á tveim vélum hérna heima bara uppá testing og það virkar alveg 100%. Uninstallaðu PSM með Revo Uninstaller og reinstallaðu PSM aftur og sjáðu hvort það virkar ekki, þurfti að gera það sjálfur á servernum einu sinni.\nLáttu okkur vita hvernig fer ef þetta virkar ekki, getum kannski hjálpað með villuna.",
+            "date": "2010-09-05 12:57:00",
+            "post_id": "280126",
+            "reply_to_id": "280121"
+        },
+        {
+            "user_name": "g0tlife",
+            "text": "ég var að nota þessi forrit, en svo keipti ég mér bara media hub í elko sem spilar ALLT. Án djóks allt og tengir bara flakkara við og komið \n \nFékk mér þetta reyndar því ég er með Full HD sjónvarp og er að horfa á bluray myndir en þetta er helmingi þægilegra",
+            "date": "2010-09-05 16:18:00",
+            "post_id": "280153",
+            "reply_to_id": "280126"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Xbmc media center.\nhttp://lifehacker.com/5391308/build-a-silent-standalone-xbmc-media-center-on-the-cheap",
+            "date": "2010-09-05 17:27:00",
+            "post_id": "280168",
+            "reply_to_id": "280153"
+        },
+        {
+            "user_name": "DoofuZ",
+            "text": "Ok, málið er að strax eftir install þá segir Windows bara \"This program might not have installed correctly\" en ég fæ það sama eftir uninstall og þrátt fyrir að ég prófaði núna (sem ég prófaði ekki síðast) að gera install með recommended settings þá lagar það ekkert; PSM virkar bara ekki \n Ég fæ engin villuboð eða neitt, það bara gerist ekkert þegar ég keyri það og ég hef prófað að stilla á svotil allt í compatibility mode ásamt því að keyra sem admin (sem skiptir ekki máli þar sem ég er admin) \n Skiptir þá einhverju máli hvort ég nota Revo Uninstaller eða ekki?\nOg Hjaltiatla, ágætis ábending hjá þér þarna en external media center er ekki alveg það sem ég er að leita að. Var að vísu að prófa áðan að spila beint af usb fartölvuflakkara í sjónvarpinu og það virkar mun betur en svona í gegnum heimanetið. Ég held að það sé frekar líklegt að flöskuhálsinn hjá mér sé sjálft heimanetið, sérstaklega hvernig það tengir tölvuna mína við sjónvarpið, ekki bara vegna þess að það eru tveir tengipunktar á milli (access point og router) heldur líka vegna lengdar á netsnúrum (sérstaklega úr herberginu mínu, held að hún sé 10m)",
+            "date": "2010-09-05 18:47:00",
+            "post_id": "280186",
+            "reply_to_id": "280168"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Googlaðu þér bara til um þetta PSM vandamál, hlýtur að vera til fix við þessu þar sem ég og margir sem ég þekki eru að nota PSM á W7.\nAnnars er langbest og oftast alls ekki svo flókið eða erfitt að þræða Gbit CAT6 útum allt hús \n Ég gerði það til að geta strímað HD útum allt, svínvirkar, ekki leiðinlegur hraði heldur þegar maður er að kópera á milli véla.",
+            "date": "2010-09-05 18:59:00",
+            "post_id": "280187",
+            "reply_to_id": "280186"
+        }
+    ],
+    "date": "2010-08-15 16:01:00"
+}

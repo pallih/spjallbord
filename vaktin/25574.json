@@ -1,0 +1,121 @@
+{
+    "forum_title": "Yfirklukkun, hraðaprófanir og mods",
+    "id": "25574",
+    "title": "Yfirklukkun á E6750 @ 3.2",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=1&t=25574",
+    "posts": [
+        {
+            "user_name": "Frost",
+            "text": "Var að overcloacka C2D E6750 örgjörvan minn úr standard 2.66 í 3.2 GHz\nþetta var tekið með prime95 í gangi og það var búið að vera í gangi í 2 og hálfan tíma\nSvo er það næst að setja hann í 3.6  \n---------------------------------------------------------------------------------------\nFékk BSOD eftir eftir klukkutíma run með Prime á 3,6GHz :/\n---------------------------------------------------------------------------------------\nSetti í 3,4GHz og allt virkar rosa vel. Prime búið að vera í gangi í 3 og hálfan tíma.",
+            "date": "2009-10-17 19:44:00",
+            "post_id": "222693",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Kobbmeister",
+            "text": "Og hver hjálpaði þér með það? Er það ég? Já það var ég",
+            "date": "2009-10-17 19:45:00",
+            "post_id": "222694",
+            "reply_to_id": "222693"
+        },
+        {
+            "user_name": "Frost",
+            "text": "Já veit ^^.",
+            "date": "2009-10-17 22:23:00",
+            "post_id": "222703",
+            "reply_to_id": "222694"
+        },
+        {
+            "user_name": "KrissiK",
+            "text": "Nettur",
+            "date": "2009-10-17 22:24:00",
+            "post_id": "222704",
+            "reply_to_id": "222703"
+        },
+        {
+            "user_name": "Frost",
+            "text": "",
+            "date": "2009-10-17 22:40:00",
+            "post_id": "222707",
+            "reply_to_id": "222704"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Ef þú fékkst bsod eftir 1klst, hækkaðu þá Vcore um 1 stig, ef það virkar ekki hækkaðu þá NBV um 1 stig. Langar að sjá þig sækja í 3.8GHz!",
+            "date": "2009-10-21 02:33:00",
+            "post_id": "223077",
+            "reply_to_id": "222707"
+        },
+        {
+            "user_name": "Kobbmeister",
+            "text": "Taka þessu challenge frost?",
+            "date": "2009-10-21 10:48:00",
+            "post_id": "223096",
+            "reply_to_id": "223077"
+        },
+        {
+            "user_name": "Frost",
+            "text": "Ok",
+            "date": "2009-10-21 11:58:00",
+            "post_id": "223099",
+            "reply_to_id": "223096"
+        },
+        {
+            "user_name": "Frost",
+            "text": "Hækkaði vcore um einn og setti í 3,6 GHz aftur BSOD :/ Hvað er eiginlega NVB?",
+            "date": "2009-10-21 14:37:00",
+            "post_id": "223120",
+            "reply_to_id": "223099"
+        },
+        {
+            "user_name": "Frost",
+            "text": "bump",
+            "date": "2009-10-21 23:07:00",
+            "post_id": "223207",
+            "reply_to_id": "223120"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "What the fuck?\nFyrir utan það að það eru ekki 24 klst liðnar, hvað þá 48 sem að ættu að vera liðnar þar sem að þú átt 3 innlegg í röð, af hverju ertu að bumpa þennan þráð?",
+            "date": "2009-10-21 23:10:00",
+            "post_id": "223209",
+            "reply_to_id": "223207"
+        },
+        {
+            "user_name": "Frost",
+            "text": "Nei bara langar að vita þetta. Tölvan vill einu sinni ekki yfirklukkast núna. Er bara farinn á 2,67 og neitar að fara hærra.",
+            "date": "2009-10-21 23:51:00",
+            "post_id": "223218",
+            "reply_to_id": "223209"
+        },
+        {
+            "user_name": "mercury",
+            "text": "I agree \nen vill samt fá að vita hvað \nNVB\ner ??",
+            "date": "2009-10-21 23:53:00",
+            "post_id": "223219",
+            "reply_to_id": "223218"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Átti að vera NBv, North Bridge voltage. \n Þarft að hækka það í takt við yfirklukkun. Gefðu því 2 hopp, reyndum aftur, ef það virkar ekki, gefðu þá vcore 1-2 hopp.",
+            "date": "2009-10-22 01:19:00",
+            "post_id": "223223",
+            "reply_to_id": "223219"
+        },
+        {
+            "user_name": "Frost",
+            "text": "Heyrðu tölvan hækkar sig ekki lengur ég er með save-að á 3,6 GHz þegar ég boota er hún í 2,6 :/. Hvað gæti ég gert?",
+            "date": "2009-10-22 07:37:00",
+            "post_id": "223233",
+            "reply_to_id": "223223"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Ertu ekki örugglega með disable-að C1E, speedstep og allt það?\nhver \"*\" er update\n* og það stendur 3.4 GHz á myndinni.  \n* prufaðu líka að hækka vcore um 1-2 stig ef það gengur ekki þá niðurklukkaðu minnið um 50 MHz.\n* tók eftir að þú yfirklukkaðir minnið um 50 MHz og bætir við heilum 0.3v fyrir svona litla hækkun, gæti verið of mikið, og ef minnið þitt er 2.2v frá framleiðanda ertu að keyra það á 2.5v, gæti auðveldlega eyðilaggt það, mæli með að ef þú ætlar að hækka hraðan, að þá slaka á timings, prufa 6-6-6-18 eða eitthvað í þá áttina, á stock voltunum.",
+            "date": "2009-11-10 02:12:00",
+            "post_id": "226375",
+            "reply_to_id": "223233"
+        }
+    ],
+    "date": "2009-10-17 19:44:00"
+}

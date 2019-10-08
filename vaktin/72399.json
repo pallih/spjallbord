@@ -1,0 +1,44 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "72399",
+    "title": "Hugbúnaður sem limitar logon tíma",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=72399",
+    "posts": [
+        {
+            "user_name": "Selurinn",
+            "text": "Sælir,\nVitiði um góðan hugbúnað sem hægt er að setja á tölvur til að takmarka tíma sem notandi getur verið skráður inn.\nHvort sem það er freeware eða shareware.\nÞetta á að notast við Windows.\nÉg veit að parental control býður uppá þetta í W10 en þarf í rauninni eitthvað svo auðvelt er hægt að búa til marga notendur á dag sem hafa t.d. bara aðgang í klukkutíma þar sem að allskonar fólk kemur með að nota þessar tölvur og væri þá fínt að geta úthlutað user logon fyrir hvern og einn dags daglega. \nSpurning hvort það sé hægt yfir höfuð.",
+            "date": "2017-03-16 00:36:00",
+            "post_id": "645314",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Afhverju þarftu að búa til marga notendur á dag?",
+            "date": "2017-03-16 01:53:00",
+            "post_id": "645317",
+            "reply_to_id": "645314"
+        },
+        {
+            "user_name": "asgeirbjarnason",
+            "text": "Þetta hljómar mjög líkt og internet cafe. Tékkaðu á hugbúnaði sem sérhæfir sig í því, eins og \nhttp://www.cybercafepro.com\n.",
+            "date": "2017-03-16 03:38:00",
+            "post_id": "645318",
+            "reply_to_id": "645317"
+        },
+        {
+            "user_name": "Moldvarpan",
+            "text": "Airbnb business geri ég ráð fyrir... Íslendingar eru fyrirsjáanlegir.",
+            "date": "2017-03-16 04:22:00",
+            "post_id": "645319",
+            "reply_to_id": "645318"
+        },
+        {
+            "user_name": "codec",
+            "text": "Hvaða útgáfa af windows?\nÉg held þetta sé innbyggt í Windows, ef þú ert með alla notendur á microsoft account þá getur þú notað Windows Parental Controls.\nAnnars þtti eitthvað svona að virka, \nnet user miked /time:M-F,08:00-17:00\nReyndar lokar þetta ekki á notandan ef hann er þegar loggaður inn utan leyfilegs tíma, þannig að Parental Controls er sennilega málið eða mögulega er til eitthvað third party tól sem ég reyndar þekki ekki.\nedit:\nsá ekki þetta með marga notendur á dag ofl. er þá  einhverskonar internetnet cafe hugbúnaður málið?",
+            "date": "2017-03-16 09:57:00",
+            "post_id": "645324",
+            "reply_to_id": "645319"
+        }
+    ],
+    "date": "2017-03-16 00:36:00"
+}

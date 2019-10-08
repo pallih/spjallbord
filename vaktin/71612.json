@@ -1,0 +1,135 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "71612",
+    "title": "Heima server/hýsing",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=71612",
+    "posts": [
+        {
+            "user_name": "Urri",
+            "text": "Þá er loksins komið að því að gera þetta að veruleika þo svo að þetta verða kanski ghetto server...\nEr einfalflega að nota gömlu tölvuna í þetta sem er:\nI7-950\n6x 4gb hyperx ddr3 minni(24gb total)\neithvað skjákort sem ég fann\n120gb intel ssd (fyrir OS eða freenas etc)\nzalman 700W psu\nSpurningar mínar eru þær.\nHvaða OS finnst ykkur best að nota og er mest \"notvænlegt\" fyrir þá sem eru t.d. ekki inní linux og þess háttar.\nHvernig hdd ætti ég að fá mér ? og stærð ?\nAðal notkun í þessu verður:\nÖrugg hýsing (raid 5 eða eithvað svoleiðis),\nPlex server (eða álíka)\nCloud fyrir mynda upload frá t.d. síma.\nog hægt að nota torrent ef ég nenni því\nEr að pæla í uppundir 10 tb total use space.\nVæri vel þegið ábengingar um hvaða diska væri æskilegt að nota, er alveg dottinn úr þessu sem dæmi hvað er intellipower?",
+            "date": "2016-12-21 22:24:00",
+            "post_id": "639585",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "cartman",
+            "text": "Ég er að keyra openmediavault linux distroið (Debian based) og finnst það bara mjög þægilegt. Það er hægt að gera nánast allt í vefviðmóti ef þú ert eitthvað smeykur við linux skeljarnar.\nÉg er með:\nPlex Server,\nOwnCloud,\nSabnzbd,\nSickBeard,\nCouch Potato,\nSubsonic,\nHeadphones.\nKeyrandi á honum.\nWD Red diskarnir hafa verið að koma vel út hjá mér og einnig Seagate Archive (Venjulegu barracuda diskarnir hafa verið að faila nokkuð)\nEr með 38TB á honum currently.\nÉg mæli með að þú hendir upp openmediavault í virtualbox fyrst til að prófa það.\nSvo er freenas líka mjög fínt.\nEinnig, ég myndi ekki fara í raid pælingar nema bara með þau gögn sem þú þarft nauðsynlega að eiga afrit af. Eins og t.d. kvikmyndir og þættir er eitthvað sem er yfirleitt hægt að græja aftur ef þú ert eitthvað í þeim pælingum.\nAnnað, passaðu þig að hafa \"off-site\" backup af ljósmyndum og þess háttar. Raid 5 eða raid 10 er ekki bulletproof",
+            "date": "2016-12-21 22:41:00",
+            "post_id": "639588",
+            "reply_to_id": "639585"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Get mælt með Freenas og WD Red diskum (ef þú ferð í sata diska), myndi persónulega sleppa því að nota SSD disk undir OS ef þú setur upp freenas og setja frekar OS-ið á 2-3 stk af 32 gb usb lyklum (ef einn klikkar þá geturu notað næsta og skipt út þeim sem klikkar).\nMyndi segja að Raid-z2 væri hentugt og hérna er þæginlegur Raid Calculator: \nhttps://www.servethehome.com/raid-calculator/\nMyndi alla daga mæla með 1gbit+ Netkorti (jafnvel fleiri en eitt t.d ef þú villt hafa vélar beintengdar við netkort til að fá hámarks hraða).\nÉg fýla t.d perodic snapshot fídusin á Freenas (þá ertu með read only copy af öllum gögnum t.d ef þú lendir í cryptolocker) eða getur bakkað til baka og restore-að afriti á mjög einfaldan máta). Ég er t.d með það stillt á 6 klst fresti og ef ég er t.d að vinna Live í forritskóða og sé eftir einhverjum breytingum þá get ég restore-að snapshoti 6 klst aftur í tímann.\nÞað eru Alls konar plugin sem er hægt að installa , ég hef reyndar aðallega verið að nota Nexcloud og crashplan.\nI7 cpu er reyndar overkill fyrir þetta setup  (edit: gæti hugsanlega skipt máli ef þú setur upp Plex media server)",
+            "date": "2016-12-21 23:11:00",
+            "post_id": "639597",
+            "reply_to_id": "639588"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Eflaust er Windows server samt einfaldast í uppsetningu \n , maður þarf að nenna að læra á Freenas",
+            "date": "2016-12-21 23:13:00",
+            "post_id": "639598",
+            "reply_to_id": "639597"
+        },
+        {
+            "user_name": "Urri",
+            "text": "Hehe já i7 er líklega overkill en hann er nú þegar til hjá mér þannig að ég mun nota hann. góð hugmynd um þetta með snapshot dæmið yrði frekar pissed ef að maður myndi missa allar myndirnar sem maður hefur tekið í gegnum árin.\nÆtli maður fari þá ekki í 4x 3tb WDR\nlong term er hugmyndin líka að hafa offsite hýsingu. \nEn ætlunin hjá mér er að setja þetta allt í 12U skáp sem ég er þegar kominn með og setja patch panel, switch og svoleiðis í hann (á bara eftir að draga í öll herbergin með cat6) þá er mjög einfalt að bæta við netkortum í serverinn og hafa fleiri kapla í.\nEr það eithvað verra að nota ssd ? svona fyrir utan það að það tekur upp sata tengi ?",
+            "date": "2016-12-22 09:15:00",
+            "post_id": "639623",
+            "reply_to_id": "639598"
+        },
+        {
+            "user_name": "andribolla",
+            "text": "Ég mæli með að þú skoðir UnRaid\nhttps://lime-technology.com/",
+            "date": "2016-12-22 11:23:00",
+            "post_id": "639636",
+            "reply_to_id": "639623"
+        },
+        {
+            "user_name": "asgeirbjarnason",
+            "text": "Almennt séð eru snapshot mjög fínn hlutur, en þegar kemur að kóða eru version control kerfi oftast betri hugmynd. Hefurðu eitthvað kíkt á að setja forritunarverkefni í git eða mercurial repository?\n(kannski óþarflega off-topic hjá mér)",
+            "date": "2016-12-22 13:33:00",
+            "post_id": "639646",
+            "reply_to_id": "639636"
+        },
+        {
+            "user_name": "asgeirbjarnason",
+            "text": "4 tb diskar voru síðast þegar ég tékkaði ódýrastir per terabyte. Það er spurning að hækka sig upp í þá, til að fá sem mest fyrir peninginn.",
+            "date": "2016-12-22 13:36:00",
+            "post_id": "639647",
+            "reply_to_id": "639646"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Nota t.d Gitlab í hópavinnu sem ég tek þátt í til að halda utan um forritunarverkefni , ég nota samt Snapshot fídusinn (þykir það stundum einfaldara en að þurfa að pusha kóða í Git þegar ég vinn einn í verkefni).",
+            "date": "2016-12-22 14:18:00",
+            "post_id": "639649",
+            "reply_to_id": "639647"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Nei það er ekkert að því að nota SSD (að mörgu leyti betra en samt dýrara). Myndi eflaust nota SSD diska í production umhverfi.\nÞað er t.d alveg hægt að skala lita Freenas servera upp í eitthvað mun stærra : \nhttps://www.servethehome.com/building-n ... h-freenas/",
+            "date": "2016-12-22 14:23:00",
+            "post_id": "639650",
+            "reply_to_id": "639649"
+        },
+        {
+            "user_name": "dori",
+            "text": "Snapshot eru góð backup en hafðu í huga að VCS er ekki bara til að passa uppá kóðann (þó svo að með DVCS séu nánast engar líkur á að glata öllum kóða þá er það ekki beint backup strategy). Það er líka til að þekkja söguna. T.d. ef þú ert með breytingum sem virkaði ekki alveg eins og skyldi og þú fattar það ekki fyrr en nokkrum dögum/vikum/mánuðum eftir að hún var gerð þá er gott að geta rúllað til baka í þekkt gott ástand. Og til að geta unnið í fítusum og lagað bug á sama tíma.\nÉg set alltaf upp git repo um leið og ég er kominn með grófan uppdrátt.",
+            "date": "2016-12-22 14:39:00",
+            "post_id": "639653",
+            "reply_to_id": "639650"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Manni finnst maður vera svo mikill rebel að vinna í live kóða \n En ég þekki sjálfan mig ágætlega vel og veit að ég nenni ekki alltaf að Git-a þegar ég vinn einn í kóða og fer frekar þessa leið (nota Git annars í stærri verkefnum). Fæ þá það besta úr báðum heimum (án þess að stressa mig of mikið yfir hlutunum).",
+            "date": "2016-12-22 14:44:00",
+            "post_id": "639654",
+            "reply_to_id": "639653"
+        },
+        {
+            "user_name": "Squinchy",
+            "text": "Ég er að nota Freenas, mjög notendavænt og helling af fídusum, á eftir að prófa unraid en þessi tvö kerfi virðast vinsælust og hafa stórann user base til að leita til.\ni7 er bara flott val myndi ég segja ef þú villt streima HD efni af plex\nWD Red er the way to go",
+            "date": "2016-12-22 20:10:00",
+            "post_id": "639676",
+            "reply_to_id": "639654"
+        },
+        {
+            "user_name": "nidur",
+            "text": "Er ekki Vmware með plex server á windows server. og unraid fileserver á diskana í vélinni málið fyrir þig.",
+            "date": "2016-12-22 20:15:00",
+            "post_id": "639677",
+            "reply_to_id": "639676"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Núna ætla ég að spurja eins og bjáni (þar sem ég þekki ekki Unraid næginlega vel) . Hvað bíður það uppá það sem Freenas bíður ekki uppá ?\nÉg hef allavegana tekið niður ákveðna punkta (braindump , yfir atriði sem skipta mig máli) í Freenas uppsetningu (efast um að allir skilja það sem ég lista upp en ég læt það flakka ef það getur útskýrt eitthvað af feature-s sem Freenas bíður uppá).\n* Freenas er í raun bara Webgui sem situr ofaná mörgun Open source lausnum (s.s Open-ZFS) AFP,NFS,SMB , ISCSI etc\n* Pools = volume og volume = pools\n* Active directroy box á networkinu (directory í Freenas) - Enable-ar með að gefa DNS name og admin account og velur check box enable (nær tengingu við all user-a úr AD).Active directory domain controllerinn þarf að vita af Freenas servernum, annað hvort í DNS eða vera Object í Active directory domaininu.\n*Set up one dataset as a home share and it will auto poulate home directorys for every user in active directory (þessi feature er í boði í AD integraded umhverfi).\n*Yfirleitt er aðeins búin til Eitt Storage pool (nema að það sé mjög góð ástæða fyrir því að gera það ekki)\n* Þegar maður hefur búið til stóra storage pool-ið þá býr maður til ákveðin Areas í mismunandi tilgangi, þessi Area kallast \"Datasets\" (Sets of data eða nokkurs konar smart folder), maður þarf dataset fyrir Share.\n* 2 diskar eru hraðari en einn diskur (einn diskur í ZFS er sirka 100mbps)  og til að fullnýta 10 gb NIC (1250 mbps) þá þarf maður 12 diska. \n* Meðalaldur diska er sirka 5 ár\n*rsync replication þá þarftu að fara í gegnum hverja einustu möppu og athuga hvort möppur eru eins. ZFS replication , þá er athugað hvenær seinasta afrit var tekið (t.d 1.nóv 2016) og í stað þess  að fara í gegnum allar möppur og athuga hvað hefur breyst þá athugar ZFS hvaða Block hefur verið\nModified frá seinasta afriti (sækir og backar upp) - \nhttps://youtu.be/1IHRilnLcCg?t=2693\n*Snapshot,Maður getur Rollback-að filesystem-ið t.d eftir Cryptolocker (farið aftur í tímann).\n*Maður þarf að vita hvaða storage controller virkar fyrir ZFS (t.d fyrir hvaða útgáfu af distro).\n*lz4 transperent compression (skoða) , hægt að ná meiri performance með að enbable-a compression (var áður feature sem þú notaðir til að fá meira pláss og varst tilbúin að skipta performance í staðinn). Skiptir miklu máli þar sem latency skiptir máli.",
+            "date": "2016-12-22 20:33:00",
+            "post_id": "639678",
+            "reply_to_id": "639677"
+        },
+        {
+            "user_name": "nidur",
+            "text": "Freenas er að mínu mati best..\nEn OP talar um að hafa þetta sem \"notvænlegast ekki linux..\" Þannig að Unraid er klárlega einfaldari kosturinn af þessum tveimur.\nEf þú ert bara based on webgui og lendir í vandamálum með gögnin þá þarf oft að fara í command line.",
+            "date": "2016-12-22 21:48:00",
+            "post_id": "639687",
+            "reply_to_id": "639678"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "All right , bara að reyna að átta mig á því hvað fólk er að leita eftir þegar það velur Unraid. Einfaldleiki er þá svarið reikna ég með.",
+            "date": "2016-12-22 21:53:00",
+            "post_id": "639689",
+            "reply_to_id": "639687"
+        },
+        {
+            "user_name": "Hjaltiatla",
+            "text": "Var að prófa að henda upp Proxmox í dag (setti upp Raid-z1 ZFS pooli á 3X 1tb diska ). Virkar mjög vel á reyndar eftir að fínpússa hvernig er best að tengjast console. MJÖG einfalt í uppsetningu.",
+            "date": "2016-12-25 14:57:00",
+            "post_id": "639852",
+            "reply_to_id": "639689"
+        }
+    ],
+    "date": "2016-12-21 22:24:00"
+}

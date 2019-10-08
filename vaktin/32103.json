@@ -1,0 +1,65 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "32103",
+    "title": "[leyst]Breyta stærð á partitions án þess að missa gögn",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=32103",
+    "posts": [
+        {
+            "user_name": "ManiO",
+            "text": "Hef reynt að gúgla þetta en er ekki að hitta á réttu leitarorðin. En ég þarf sem sagt að minnka linux partitionið  og stækka windows partitionið án þess að missa gögn. Veit að það á að vera til forrit sem gerir þetta en vantar nafnið.\nEdit: NVM, fann þetta í package management kerfinu...",
+            "date": "2010-08-25 11:09:00",
+            "post_id": "278295",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gullisig",
+            "text": "Getur verið partition magic",
+            "date": "2010-08-25 12:26:00",
+            "post_id": "278299",
+            "reply_to_id": "278295"
+        },
+        {
+            "user_name": "gardar",
+            "text": "gparted getur þetta, getur bæði sett það upp á ubuntu og keyrt það á livecd",
+            "date": "2010-08-25 15:13:00",
+            "post_id": "278312",
+            "reply_to_id": "278299"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Set þetta bara upp á usb lykla og boota af honum. Nenni ekki að skrifa disk",
+            "date": "2010-08-25 15:51:00",
+            "post_id": "278326",
+            "reply_to_id": "278312"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Passið ykkur samt á Partition Magic, tókst sjálfum að tapa ~500GB af ekkert of merkilegum gögnum við það eitt að ætla að búa mér til nýtt partition á disknum til að skella upp Windows 7 \nGagnabjörgunarforrit gerðu lítið gagn en nennti ekki að eltast mikið við þetta, hefði mögulega mátt redda þessu, en eins og ég segi, ekki vera að djöflast með Partition Magic á diskum með mikilvægum gögnum.",
+            "date": "2010-08-25 17:20:00",
+            "post_id": "278345",
+            "reply_to_id": "278326"
+        },
+        {
+            "user_name": "B.Ingimarsson",
+            "text": "Partation Master, Myndi samt taka backup af tölvuni áður",
+            "date": "2010-08-25 19:20:00",
+            "post_id": "278381",
+            "reply_to_id": "278345"
+        },
+        {
+            "user_name": "HemmiR",
+            "text": "Ég hef alltaf notað gparted þegar ég hef verið að vesenast með svona, Hef aldrei tapað gögnum so far",
+            "date": "2010-08-25 22:28:00",
+            "post_id": "278430",
+            "reply_to_id": "278381"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Gekk eins og í sögu með gparted á usb kubb. Frekar tímafrekt en allt í góðu lagi og windows partitionið orðið 100 gigum stærra, recovery partitionið 15 gigum minna og allt í blússandi bissness.",
+            "date": "2010-08-27 00:02:00",
+            "post_id": "278641",
+            "reply_to_id": "278430"
+        }
+    ],
+    "date": "2010-08-25 11:09:00"
+}

@@ -1,0 +1,51 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "31384",
+    "title": "Er með ágætis server, og vill nýta hann...",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=31384",
+    "posts": [
+        {
+            "user_name": "FuriousJoe",
+            "text": "Sælir, ég er með \"server\" heima hjá mér (info í undirskrift), so far hef ég bara keyrt XBMC á þessari græju ásamt því að þetta er gagnageymsla.\nNú langar mér að fullnýta þetta kvikindi því mér líður eins og ég séi að sóa krafti í ekkert, eru þið með einhverjar brjálaðar hugmyndir um hvað maður getur gert við svona græju heima hjá sér ?\nHef áhuga á öllum hugmyndum",
+            "date": "2010-07-21 10:45:00",
+            "post_id": "272725",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Páll",
+            "text": "Seedbox, hýsing...",
+            "date": "2010-07-21 12:05:00",
+            "post_id": "272735",
+            "reply_to_id": "272725"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ég var akkúrat í sömu pælingum þar sem ég er með ágætis server (undirskrift) og var bara að nota hann undir WHS. \nOg ákvað því að reyna að finna leiðir til að nota hardware-ið betur, og svarið við því er : Virtual!\nKeyra ESXi, Hyper-V, XenServer eða annað álíka og keyra 2-3 servera sem keyra allar þjónustur sem þú þarft, ásamt því ofc að bjóða upp á easy virtual uppsetningar fyrir stýrikerfi sem þú vilt bara prufa og leika þér með.\nÉg er búinn að vera að vinna aðeins með XenServer frá Citrix heima, búinn að setja upp FreeNAS til að sjá um storage og file sharing, er svo að skoða Amahi sem home server (image backup, DHCP og flr) og kem svo líklega til með að setja upp Smoothwall, standalone firewall. Síðan er ég með ýmsar distro af Linux, Solaris, BSD, Win, Novell og flr kerfi sem ég er með uppsett og bara í gangi þegar ég vill leika mér. Svo er ég með Virtual Network/Domain þar líka, gagnast mér helling í lærdóm við M$ nám og undirbúning fyrir próftökur. Aldrei verið auðveldara að prufa nýtt stýrikerfi, nýtt forrit etc. Mæli klárlega með Virtualization fyrir þá sem þora og hafa fiktgenin í sér til að koma sér áfram.\nÞetta er reyndar allt á talsvert öflugra testboxi eins oger, serverinn í undirskriftinni er enn sem komið er bara að keyra WHS þar sem ég á ekki til diskaplássið til að geyma þessi 6tb af efni á meðan ég set þetta allt aftur upp, verður farið í það í næsta mánuði.\nSvo er ég bara með XenManager og er með miðlægan status á öllum VM's sem eru í gangi, gerist varla þæginlegra.",
+            "date": "2010-07-21 13:19:00",
+            "post_id": "272740",
+            "reply_to_id": "272735"
+        },
+        {
+            "user_name": "FuriousJoe",
+            "text": "Hljómar voðalega skemmtilega eitthvað, veit ég á eftir að liggja yfir youtube og google í kvöld og skoða þetta:)\nÞakka fyrir frábæra hugmynd!",
+            "date": "2010-07-21 13:49:00",
+            "post_id": "272746",
+            "reply_to_id": "272740"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ekki málið. Mæli svona með því að ef þú ætlar að byrja að grúskast í þessu að skoða Virtualization flokkinn á hardforum.com, þar er ýmislegt sem gott er að vita.\nSvo er annað sem ég brendi mig á og finnst ekki vitlaust að benda öðrum á, það er ekki hægt að fara niður um tvö layer í VM. Þeas, það er ekki hægt að búa til Virtual Server/HyperVisor (ESXi, Hyper-V, XenServer) í Virtual umhverfi (VMWare/VirtualBox) og tengjast þeim virtual server með manager og setja upp Virtual vél á hana. HyperVisorinn sjálfur verður að vera beinkeyrður á hardware-i.\nHérna er svo þráður sem ég gerði með ýmsum vangaveltum, og bíð reyndar ennþá eftir svörum þar frá þeim sem þekkja betur til : \nviewtopic.php?f=7&t=31110",
+            "date": "2010-07-21 15:15:00",
+            "post_id": "272756",
+            "reply_to_id": "272746"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "VIL!\nCrucial atriði.",
+            "date": "2010-07-21 16:08:00",
+            "post_id": "272763",
+            "reply_to_id": "272756"
+        }
+    ],
+    "date": "2010-07-21 10:45:00"
+}

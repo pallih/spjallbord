@@ -1,0 +1,72 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "4893",
+    "title": "Hvað er bilað?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=4893",
+    "posts": [
+        {
+            "user_name": "Cicero",
+            "text": "Hello,\n\nVandamálið er þannig að þegar ég fer í leiki eins og Counter-strike og Warcraft þá á tölvan það til að deyja bara eftir 5-40 min spilun. Ég fæ semsagt bara svartan skjá og get ekkert gert nema ræsa tölvuna upp á nýtt.\n\nSvo ég fór með vélina niður í task.is og spurði þá hvort þeir vissu hvað gæti verið að, eftir að þeir voru búnir að keyra nokkur test á hana og ýmislegt sögðu þeir mér að þetta gæti mjög líklega verið skjákortið.\n\nSvo í gær overclockaði ég örrann minn úr 2.6ghz upp í 3.0ghz. \n\nHækkaði fsb um 27 ef mig minnir rétt, setti 5:4 divider á minnið og læsti agp/pci, cas: 2.5-4-4-8. Keyrði prime95 og lét það ganga í 5 klukkutima án nokkurra \"errors\". En eftir þetta er þetta deyr tölvan bara eftir u.þ.b. 1 min eftir að ég er búin að opna leiki eins og Cs og wc3. Þetta gerist semsagt miklu fyrr en vanalega.\n\nHálf erfitt að útskýra þetta eitthvað betur en hafiði einhverja hugmynd hvað getur verið að valda þessu víst að ég var ekkert að fikta í skjákorts stillingum.  \n\n\nEr þetta ekki allveg rétt gert hjá mér líka í sambandi við overclockið?",
+            "date": "2004-07-26 15:40:00",
+            "post_id": "49581",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Johnson 32",
+            "text": "Hver er hitinn á örgjörvanum?",
+            "date": "2004-07-26 16:17:00",
+            "post_id": "49582",
+            "reply_to_id": "49581"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "psu-ið segið ég!\n\n\n\nlítur út fyrir að það sé að peak-a eftir 5-40 mínútur þegar þú ert með tölvuna venjulega. og þegar þú ert búinn að overclocka hana, þá notar hún meira rafmagn, svo að þá peak-ar hún strax. það virðist sem þessi auka W sem að slá inn þegar þú kveikir á GPU-inum séu nóg til að slá út tölvuna. ég mundi athuga þetta sem fyrst, því að ef þetta er psu-inn þá er mikil hætta á að þú drepir hörðudiskana þína og minnið, og auðvitað eitthvað fleira líka.",
+            "date": "2004-07-26 16:21:00",
+            "post_id": "49583",
+            "reply_to_id": "49582"
+        },
+        {
+            "user_name": "Cicero",
+            "text": "Hitinn er allveg eðlilegur kringum 40° idle 47°load.\n\nEn það gæti vel verið að þetta sé psu-ið því það er ekki nema 250w, ætlaði einmitt að fara fjárfesta í nýju.\n\nEr þetta ekki fínt \nhttp://www.att.is/product_info.php?cPat ... cts_id=245",
+            "date": "2004-07-26 16:35:00",
+            "post_id": "49585",
+            "reply_to_id": "49583"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Alveg örugglega PSUið, skoðaðu \nhér\n til að reikna út hvað tölvan þín þarf öflugan aflgjafa.",
+            "date": "2004-07-26 18:11:00",
+            "post_id": "49610",
+            "reply_to_id": "49585"
+        },
+        {
+            "user_name": "axyne",
+            "text": "",
+            "date": "2004-07-26 18:11:00",
+            "post_id": "49611",
+            "reply_to_id": "49610"
+        },
+        {
+            "user_name": "Cicero",
+            "text": "Your Recommended Minimum Power Supply is 335 Watts!!* \n\n\n\nEn er fólk nokkuð öruggt um að þetta sé psu-ið svo maður fari ekki að kaupa eitthvað sem þarf ekki....\n\nÞó ég telji það líklegt... þar sem ég tók þetta psu bara úr gömlu vélinni minni..",
+            "date": "2004-07-26 18:15:00",
+            "post_id": "49612",
+            "reply_to_id": "49611"
+        },
+        {
+            "user_name": "Steini",
+            "text": "jú þetta psu þarna er fínt",
+            "date": "2004-07-26 18:29:00",
+            "post_id": "49616",
+            "reply_to_id": "49612"
+        },
+        {
+            "user_name": "Manager1",
+            "text": "Ég er líka bara með 250w \n Dugar alveg á meðan ég bæti ekki meiru við.",
+            "date": "2004-07-26 18:30:00",
+            "post_id": "49618",
+            "reply_to_id": "49616"
+        }
+    ],
+    "date": "2004-07-26 15:40:00"
+}

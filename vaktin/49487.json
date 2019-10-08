@@ -1,0 +1,51 @@
+{
+    "forum_title": "Koníakstofan",
+    "id": "49487",
+    "title": "Er einhver rafeindasnillingur hérna?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=9&t=49487",
+    "posts": [
+        {
+            "user_name": "gRIMwORLD",
+            "text": "Sælir,\nég er að reyna að búa til lítið led ljós í skreytingu sem þarf bara að vera einnota og vatnshelt. Kunningi minn setti saman test unit með einni grænni díóðu og tveimur SR44 1,55V rafhlöðum.\nVatnheldni parturinn af hönnuninni er alveg klár en það sem ég tók eftir þegar ég var að taka tímann á endingu rafhlaðnanna var að ljósið dofnaði strax eftir ca 3 tíma. Eftir það þá lifði það töluvert lengi en birtan er ekki nægileg fyrir þá notkun sem ljósið er ætlað í.\nGetur einhver snillingur sagt mér kannski hvernig bæta megi þetta til að fá led til að lýsa í ca 10 tíma án þess að missa mikinn styrk. Eins og fyrr þá á þetta að vera einnota en hlutirnir sem voru notaðir í testið voru til í vinnunni hjá kunningja mínum. Kannski er hægt að fá annarskonar díóður td í Íhlutum.",
+            "date": "2012-08-05 12:53:00",
+            "post_id": "458580",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "viki",
+            "text": "http://allenergies.net/lighting/ledlight.html\ngædir gert breitingar á þessu og sett 1    9 volta raflöðu iní (:",
+            "date": "2012-08-05 13:26:00",
+            "post_id": "458584",
+            "reply_to_id": "458580"
+        },
+        {
+            "user_name": "DJOli",
+            "text": "Ég myndi segja að besta uppsprettan fyrir led ljós sé á tölvuverkstæðum. Þar ættirðu að geta fengið að gramsa og taka led ljós úr ónýtum tölvukössum til dæmis, og þá eru þau oftast í tveim litum (sér litur fyrir power/loading ljós).",
+            "date": "2012-08-05 14:21:00",
+            "post_id": "458594",
+            "reply_to_id": "458584"
+        },
+        {
+            "user_name": "axyne",
+            "text": "Sleppa þessum rafhlöðum og nota 2x AAA fyrir hverja díóðu.\nFærð aldrei lengri endingu nema uppfæra rafhlöðurnar eða minnka ljósstyrkinn.\nFærð 1000–1200 mAh í staðinn fyrir 200mAh",
+            "date": "2012-08-05 15:52:00",
+            "post_id": "458605",
+            "reply_to_id": "458594"
+        },
+        {
+            "user_name": "gRIMwORLD",
+            "text": "Það er alveg séns, slíkar rafhlöður eru líka ódýrari en þær litlu. Myndiru halda að það þyrfti að setja \"resistor\" á milli. Minnir að þessar díóður séu 2V en með tvær AAA rafhlöður ertu komin með 3V?\nÉg er novice, leiðréttu mig ef ég fer með rangt mál",
+            "date": "2012-08-05 17:40:00",
+            "post_id": "458627",
+            "reply_to_id": "458605"
+        },
+        {
+            "user_name": "axyne",
+            "text": "Grænar díóður fella frá 1.9 til 4.0 V yfir sig  \nWikipedia\nEf þú ert með tengd við 2x 1.5V batterý og vilt reikna fyrir viðnámi þá er yfirleitt miðan við 20mA straum í gegnum 5mm ljósdíóður og gefum okkur það séu 2V sem falla yfir díóðuna þína og því þarf 1V að falla yfir viðnámið.\nviðnámið, R = 1V / 0.02 = 50ohm sem þú ert með tengd í seríu við ljósdíóðuna.",
+            "date": "2012-08-05 18:41:00",
+            "post_id": "458640",
+            "reply_to_id": "458627"
+        }
+    ],
+    "date": "2012-08-05 12:53:00"
+}

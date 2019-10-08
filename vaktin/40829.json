@@ -1,0 +1,93 @@
+{
+    "forum_title": "Símar, fartölvur, myndavélar og önnur farandstæki",
+    "id": "40829",
+    "title": "galaxy ace langar í gingerbread",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=26&t=40829",
+    "posts": [
+        {
+            "user_name": "biturk",
+            "text": "hvernig framkvæmi ég þá að gerð án þess að tapa öllum gögnum? mig langar ósköp mikið að uppfæra en mig langar líka að halda öllum forrit, gögnum leikjum og öðru\ner það hægt? er þetta mikið mál? þarf ég að roota? fyrni ég ábyrgð?\nkoma svo, massa þetta drengir!",
+            "date": "2011-08-19 18:41:00",
+            "post_id": "373030",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "berteh",
+            "text": "Það er komin uppfærsla gegn um KIES frá samsung nema þú sért með vodafone tæki, en jafnvel þó kies leyfi ekki uppfærslu þarft þú ekki að roota né tapa ábyrgð með að uppfæra handvirkt ef þú tekur bara stock fw fyrir Norðurlönd :-) \nSent from my GT-S5830 using Tapatalk",
+            "date": "2011-08-19 19:27:00",
+            "post_id": "373043",
+            "reply_to_id": "373030"
+        },
+        {
+            "user_name": "berteh",
+            "text": "Þú tapar engu með kies leiðinni, en eg er ekki viss með handvirku leiðinni \nSent from my GT-S5830 using Tapatalk",
+            "date": "2011-08-19 19:30:00",
+            "post_id": "373044",
+            "reply_to_id": "373043"
+        },
+        {
+            "user_name": "biturk",
+            "text": "hvernig geri ég þetta í gegnum kies?\nþarf ég að save gögn og annað?",
+            "date": "2011-08-19 19:35:00",
+            "post_id": "373046",
+            "reply_to_id": "373044"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Skv. SamFirmware á Gingerbread að koma officially út fyrir Galaxy Ace á þessu ári - ef það er ekki komið þ.e.a.s.\nÉg myndi hinkra aðeins. En ef þú getur það ómögulega, lestu þá þessa grein vandlega og fylgdu leiðbeiningum hennar:\nhttp://androidadvices.com/update-samsun ... -firmware/\nOg já þú munt þurfa að wipe'a símann (SD card helst samt ósnert). Það er ekki hægt öðruvísi (nema að bíða eftir official upgrade frá Samsung í gegnum Kies). En þetta er lítið mál ef þú ert með Google accountinn þinn syncaðan og ert með hakað í \"Backup my data\" og \"Automatic restore\" undir Privacy. Þá þegar þú setur símann upp aftur (eftir firmware upgrade), þá sækir síminn allt (tengiliði, apps, stillingar) frá Google og setur upp fyrir þig á augabragði.\nGakktu samt úr skugga um að tengiliðirnir séu örugglega vistaðir hjá Google. T.d. með því að athuga í símanum eða logga þig inn á Gmail í tölvunni þinni og fara í Contacts þar.\n*edit* Það er víst komið (skv. ofangreindum posti), þannig heppinn þú.",
+            "date": "2011-08-19 19:41:00",
+            "post_id": "373047",
+            "reply_to_id": "373046"
+        },
+        {
+            "user_name": "intenz",
+            "text": "- Downloadar Kies af netinu, setur það svo upp (á tölvunni þinni).\n- Tengir símann þinn við tölvuna.\n- Bíður eftir að Kies láti þig vita af nýju firmware upgrade.\nUppfærslur gegnum Kies (official uppfærslur frá Samsung) eru wipe-lausar, þannig þú átt ekki að þurfa að taka backup af öllu. Nema eitthvað klikki í uppfærslunni, þá gætiru misst gögnin þín. Alltaf að taka backup - til vonar og vara! Mæli t.d. með MyBackup Pro, virkilega gott forrit.",
+            "date": "2011-08-19 19:43:00",
+            "post_id": "373048",
+            "reply_to_id": "373047"
+        },
+        {
+            "user_name": "biturk",
+            "text": "ég var með tengt í svona hálftíma áðan og það lét mig ekki vita af neinu \n \nen af hverju að bíða ef þetta er komið í kies? eftir hverju er þá að bíða lengur?",
+            "date": "2011-08-19 19:47:00",
+            "post_id": "373051",
+            "reply_to_id": "373048"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Hvað færðu þegar þú tengir símann við tölvuna og opnar Kies?\nStendur eitthvað á borð við: \"You have the latest firmware\" ?",
+            "date": "2011-08-19 19:55:00",
+            "post_id": "373052",
+            "reply_to_id": "373051"
+        },
+        {
+            "user_name": "biturk",
+            "text": "this is the lates firmware kemur\ner ég þá komin með gingerbread? ss android 2.3",
+            "date": "2011-08-19 20:00:00",
+            "post_id": "373053",
+            "reply_to_id": "373052"
+        },
+        {
+            "user_name": "berteh",
+            "text": "Nei, ekki endilega, eins og ég var að reyna útskýra áðan, hvað færðu upp sem current FW í KIES?\nÞú getur alveg safely uppfært í 2.3 án þess að fara í gegn um KIES þar sem það er núþegar komið út fyrir norðurlöndin (NEE) Þú tapar ekki ábyrgð á því og þarft ekki root.\nég uppfærði gegn um kies og fékk S5830XWKPKL inn á síman og þetta firmware er til taks á netinu svo þú getur sett það sjálfur inn ef hitt er bilað.",
+            "date": "2011-08-19 20:37:00",
+            "post_id": "373058",
+            "reply_to_id": "373053"
+        },
+        {
+            "user_name": "biturk",
+            "text": "í current fw fæ ég\npda:ka9/phone:ka6/csc:ka5(xeo)\nog það sama í latest fw\nog ég er ekki nær með eitt né neitt......það er afskaplega vont að vita ekki hvernig maður á að gera hlutina",
+            "date": "2011-08-20 11:54:00",
+            "post_id": "373166",
+            "reply_to_id": "373058"
+        },
+        {
+            "user_name": "berteh",
+            "text": "Spes, þú ert með pólskt sales-code á símanum og þeir fengu 2.3 nánst fyrst \n ég veit ekki hvenær þú ættir að fá uppfærsluna frá samsung þá, en þú getur hæglega sett upp 2.3 sjálfur \nHér eru góðar leiðbeiningar\nhttp://androidadvices.com/update-samsun ... irmware/4/\nÞað eina sem ég myndi setja út á er að setja frekar inn S5830XWKPKL þar sem það er fyrir norðurlöndin (þá ættir þú að fá uppfærslur gegn um kies hér eftir) það eina sem er öðruvísi við PKL og KPN er í raun að þú færð ekki réttan tengipuntka lista yfir norðurlönd í KPN, báðir keyra 2.3.3 \nÉg myndi halda að gögnin þín detti út við þessa uppfærslu en ég er ekki klár á því.\nHér er svo slóðin á KPL firmwareið sem ég minnist á hér að ofan \nhttp://hotfile.com/dl/124819197/363a6db ... 3.rar.html\nLykilorðið er samfirmware.com\n*edit*\nÉg ber vitanlega enga ábyrgð á því ef eitthvað klikkar í uppfærslunni, það fylgir alltaf einhver hætta að skipta út kerfi á svona símum jafnvel þó maður sé að setja inn orginal kerfi \nÉg hef sjálfur hringlað soldið með odinn og það hefur aldrei neitt klikkað hjá mér",
+            "date": "2011-08-20 17:33:00",
+            "post_id": "373267",
+            "reply_to_id": "373166"
+        }
+    ],
+    "date": "2011-08-19 18:41:00"
+}

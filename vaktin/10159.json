@@ -1,0 +1,65 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "10159",
+    "title": "Fylgjast með network",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=10159",
+    "posts": [
+        {
+            "user_name": "Dagur",
+            "text": "Ég er með tvær tölvur tengdar við routerinn minn, þessa sem ég nota venjulega og svo gamla vél sem ég nota sem server (ubuntu 5.10 server). \n\nGet ég séð nokkurn veginn hversu mikil traffík er til/frá servernum og helst hvort traffíkin er í gegnum apache eða ftp (eða eitthvað annað)? Mér finnst nefnilega eins og routerinn sé að vinna á fullu þegar það er ekkert að gerast.",
+            "date": "2006-02-27 18:40:00",
+            "post_id": "110564",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Rusty",
+            "text": "getur monitorað notkunina á Windows með NetLimiter, en ubuntu.. veit ekki, gætir prófað \nhttp://phpsysinfo.sourceforge.net/",
+            "date": "2006-02-27 18:48:00",
+            "post_id": "110566",
+            "reply_to_id": "110564"
+        },
+        {
+            "user_name": "Dagur",
+            "text": "takk, en þetta er ekki alveg það sem ég hafði í huga. Ég hef verið að skoða ýmislegt en það er í raun og veru of mikið framboð, ég hef ekki hugmynd um hvað hentar best. Kannski er til einhver shell skipun sem gerir þetta fyrir mig? Ég þarf ekkert flókið",
+            "date": "2006-02-27 20:47:00",
+            "post_id": "110591",
+            "reply_to_id": "110566"
+        },
+        {
+            "user_name": "pjesi",
+            "text": "Getur prufað forrit sem heitir \nbmon\n.\n\n\n\nSíðan er alltaf fljótlegt að sjá netnotkun með netstat.\n\n\n\nKóði: \nVelja allt\nnetstat -t|grep -E \"http|ftp\"\n\n\n\n\nSíðan getur þú alltaf skoðað logs fyrir apache og ftpþjóninn.\n\n\n\nSíðan eru endalaust fleiri flóknari leiðir en þetta ætti að koma þér af stað.",
+            "date": "2006-02-27 21:14:00",
+            "post_id": "110597",
+            "reply_to_id": "110591"
+        },
+        {
+            "user_name": "JReykdal",
+            "text": "iptraf ætti að duga.",
+            "date": "2006-02-27 21:31:00",
+            "post_id": "110600",
+            "reply_to_id": "110597"
+        },
+        {
+            "user_name": "tms",
+            "text": "Held þú sérð að leita eftir einhverju eins og \njnettop\n. Svipað og 'top', bara fyrir tcp og udp tengingar, og já þú getur séð ipadressur og port á tengingunum.\n\niptraf eins og reykdal stakk upp á virkar líka vel",
+            "date": "2006-02-27 23:30:00",
+            "post_id": "110612",
+            "reply_to_id": "110600"
+        },
+        {
+            "user_name": "Dagur",
+            "text": "Takk fyrir hjálpina. Mér líst vel á þessi forrit!",
+            "date": "2006-02-28 18:46:00",
+            "post_id": "110706",
+            "reply_to_id": "110612"
+        },
+        {
+            "user_name": "Blues-",
+            "text": "Ég myndi mæla með MRTG ..\n\nSérð þannig líka söguna aftur í tímann.",
+            "date": "2006-08-18 21:50:00",
+            "post_id": "125861",
+            "reply_to_id": "110706"
+        }
+    ],
+    "date": "2006-02-27 18:40:00"
+}

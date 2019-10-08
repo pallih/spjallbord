@@ -1,0 +1,37 @@
+{
+    "forum_title": "Windows",
+    "id": "45810",
+    "title": "Villuboð eftir uppsetningu á Win 7 professional",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=45810",
+    "posts": [
+        {
+            "user_name": "krissi24",
+            "text": "Ég var að setja upp Win7 Professional 32-bit af USB lykli á Medion fartölvu, (veit ekki týpuna) Og þegar ég loggaði mig inná tölvuna í fyrsta skipti þá kom þessi villugluggi upp: ,,Windows cannot access the specified device, path, or file. You may not have the appropriate permission to access the item\" Ég get ekki farið í My computer og ekki My documents né Control Panel eða netstillingar. Hvernig laga ég þetta?",
+            "date": "2012-02-16 14:11:00",
+            "post_id": "421739",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "lukkuláki",
+            "text": "Virkja administrator userinn á vélina ?",
+            "date": "2012-02-16 14:23:00",
+            "post_id": "421743",
+            "reply_to_id": "421739"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "Þetta er hann, þetta tengist eitthvað explorer.exe. Langar bara að laga þann aðgang, nenni ekki að gera annan user, Ég á ekki þessa fartölvu, var bara að skipta út stýrikerfi.",
+            "date": "2012-02-16 14:37:00",
+            "post_id": "421748",
+            "reply_to_id": "421743"
+        },
+        {
+            "user_name": "krissi24",
+            "text": "Búinn að redda þessu \n En málið er að þetta helv.... medion drasl virðist ekki vinna rétt með Win 7 því að það kom bara Ethernet driver-inn sjálfkrafa en ég virðist þurfa að stilla hina driver-ana handvirkt! Er búinn að setja þessa útgáfu af Win 7 á 4 vélar og alltaf koma allir driver-arnir sjálfkrafa, Þetta voru Toshiba, Acer, Dell og MSI. Ég er búinn að reyna að setja þennan MSN kóða inná síðuna hjá Medion en þeir virðast vera hættir að þjónusta þessa tegund! Hef líka reynt að setja inn Serial númerið sem er annar valkostur, auk þess að hafa leitað í listanum á síðunni af tölvunni en hún er ekki þar. Búinn að gúgla og gúgla en ekkert skeður. Hef áður lent í svona vesen-i með Medion tölvu, reyndar turn og þá var ég að notast við WinXP en ég var þvílíkt lengi að koma þessum fokking driver-um inná hana!! Er þetta bara svona fokking drasl merki eða?  Eitthvað helvítis þýskt drasl?",
+            "date": "2012-02-16 22:47:00",
+            "post_id": "421916",
+            "reply_to_id": "421748"
+        }
+    ],
+    "date": "2012-02-16 14:11:00"
+}

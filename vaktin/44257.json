@@ -1,0 +1,44 @@
+{
+    "forum_title": "Símar, fartölvur, myndavélar og önnur farandstæki",
+    "id": "44257",
+    "title": "Corsair SDD + Asus g51jx = BSOD",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=26&t=44257",
+    "posts": [
+        {
+            "user_name": "Mencius",
+            "text": "Sælir og gleðilega hátíð\nÉg ákvað að fá mér corsair force 3 ssd disk í jólagjöf um daginn og setja hann í Asus g51jx fartölvuna mína. Og svo er ég búin að setja win7 64bit inná diskinn. Þá tekur tölvan uppá því að bluescreena endalaust hjá mér. Hef fengið 3 mismunandi error msg þegar að þetta gerist.\nWindows Explorer dettur bara út og svo kemur bluescreen og error 0X0000004F stundum þegar þetta gerist frýs Google chrome og svo startast windows aftur og þá t.d þarf ég að gera password aftur í stream og allar stillingar í chrome detta út.\nSvo fæ ég Data_kernel_error\nsvo kom einn annar sem ég náði ekki alveg hvað stóð en það kom this application var það sem ég náði að lesa og svo restart\nþað sem ég er búin að gera er að: formata og setja windows aftur inn. Flasha Bios í tölvuni. Upgrada Firmware á disknum. breyti virtual memory úr 6000mb í 1000-2000mb og slökkva á disk defragment eftir leiðbeiningum sem ég fann á corsair forums sem áttu að laga þetta. \nSvo nú bara veit ég ekki hvað þetta gæti verið? gæti verið að vinnsluminnin eða móðurborðið séu að gera þetta vesen eða?",
+            "date": "2011-12-25 15:10:00",
+            "post_id": "407169",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Senko",
+            "text": "Ef þetta er að gerast semsagt aðalega parturinn þar sem SSD hverfur úr BIOS þangað til að þú rebootar, þá er þetta Firmware issue, sem Sandforce er nýlega búinn að laga, ertu viss að þú hafir 'succesfully' náð að uppfæra firmwareið yfir í það nýjasta?\nGerðist líka hjá mér þegar ég var endalaust að bluescreena útaf SSD (reyndar OCZ Vertex 3, en þeir nota sama Sandforce controller as far as I know)",
+            "date": "2011-12-25 15:37:00",
+            "post_id": "407173",
+            "reply_to_id": "407169"
+        },
+        {
+            "user_name": "Mencius",
+            "text": "Þegar að ég setti windows aftur upp þá fyrst fannst diskurinn ekki tók nokkur refresh til þess að hann finndist. Kemur stundum þegar að hún er að ræsa sig aftur upp þá er eins og windows hlaðist ekki upp kemur bara svartur skjár svo stundum bluescreenar hún þegar windows er að startast. og stundum fer windows beint í check disk en ekkert finnst að honum þar. \nEr nokkuð viss að það hafi tekist að uppfæra firmware reyndar segir forritið að það sé 1.3.2 version en ekki 1.3.3 sem ég hélt ég hefði náð í á corsair síðuni, prufaði að ná aftur í skrána af síðuni og uppfæra en það var það sama. svo ég veit hvað þetta gæti verið.",
+            "date": "2011-12-26 13:26:00",
+            "post_id": "407468",
+            "reply_to_id": "407173"
+        },
+        {
+            "user_name": "Senko",
+            "text": "Ertu að keyra SSDinn á AHCI?\nhttp://forum.corsair.com/forums/showthread.php?t=100162\n(AHCI mode er breytt í BIOS en þú verður að gera smá registry fix áður svo að OS'ið, presumably W7, virki, þar að segja ef þú installaðir það og BIOS var ekki stilltur á AHCI á þeim tíma.)\nAnnars eru þetta ekki alveg sömu symptoms og ég hef lent í, virðist líka vera að Force 3 120GB noti ekki alveg sama controller eins og Vertex 3 120GB (Sandforce 2200 vs 2281)\nOCZ lagaði BSODinn hjá sér í kringum 18OCT, 1.3.3 hjá Corsair kom út á svipuðum tíma, fingers crossed kannski gæti 1.3.3 lagað þetta?\nSíðan kannski double checka að þú sért ekki með eitt af þessum defective drives, see link below,\nhttp://forum.corsair.com/v2/showthread.php?t=95825\nGood luck,",
+            "date": "2011-12-26 14:36:00",
+            "post_id": "407484",
+            "reply_to_id": "407468"
+        },
+        {
+            "user_name": "Mencius",
+            "text": "búin að prufa annan disk sem er ekki ssd í henni og hún virkaði fínt bara eins og hún ætti að gera, Svo prufaði ég að formata diskinn sem primary partion í win tók heillangan tíma. Svo setti ég hann í tölvuna aftur og þá gat ég fyrst ekki innstallað win á hann kom eitthver error svo ég prufaði aftur og þá fann uppsetninginn ekki diskinn en eftir nokkur refresh fannst hann og setti ég win7 upp og alla drivera.\nHún gekk fínt í nokkra tíma alveg eins og fyrst þegar ég setti diskinn upp en svo bluescreen alltaf sami error núna 0x0000004f sem kemur hef ekki séð hina. hún virkar betur en hún gerði en er ekki að fýla 2-3 bluescreen þegar ég kveiki fyrst á tölvuni og er ekki að nenna að vera að spila leiki á henni eða vera í photoshop eða svipuðum forritum vegna þess ef bluescreen kemur. Er með steam uppsett og eftir þessi bluescreen virðist tölvan gleyma pass og account name þótt ég sé með það stillt að steam eigi að sjálfvirkt skrá sig inn þegar ég kveiki á tölvuni.\nMálið er að ég finn ekki neinar stillingar í biosnum hjá mér, bara get ekki stillt neitt nema hvort tölvan bootar af cd eða hdd fyrst. eitthvað quiet boot og adminstrator password á bios ekki mikið meira sem ég get stillt í biosnum hjá mér. svo ég hef ekki getað látið kveikt á ahci. búin að fara eftir öllum leiðbeiningum á þessum link sem senko póstaði.\nBúin að updatea firmware í 1.3.3 á disknum og gera allt sem mér hefur verið bent á til að laga þetta nema er ekki alveg að vilja fara sjálfur í að nota bios crack því ég hef ekki kunnáttu í það.",
+            "date": "2012-01-02 20:26:00",
+            "post_id": "409325",
+            "reply_to_id": "407484"
+        }
+    ],
+    "date": "2011-12-25 15:10:00"
+}

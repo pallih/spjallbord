@@ -1,0 +1,107 @@
+{
+    "forum_title": "Til sölu - Tölvuvörur",
+    "id": "66544",
+    "title": "[TS] Asus DSL-AC68U - [dautt]",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=11&t=66544",
+    "posts": [
+        {
+            "user_name": "Some0ne",
+            "text": "Ekki til sölu",
+            "date": "2015-08-13 13:58:00",
+            "post_id": "604258",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Dben",
+            "text": "Sendi þér skilaboð.",
+            "date": "2015-08-15 14:00:00",
+            "post_id": "604361",
+            "reply_to_id": "604258"
+        },
+        {
+            "user_name": "Some0ne",
+            "text": "x",
+            "date": "2015-10-26 10:46:00",
+            "post_id": "609423",
+            "reply_to_id": "604361"
+        },
+        {
+            "user_name": "Some0ne",
+            "text": "x",
+            "date": "2015-11-02 15:06:00",
+            "post_id": "610026",
+            "reply_to_id": "609423"
+        },
+        {
+            "user_name": "IngoVals",
+            "text": "Hæ er þessi enn til sölu? Má ég spyrja afhverju þú ert að selja?\nÞessi virkar líka með ADSL, ekki bara Ljósnet/VDSL?",
+            "date": "2015-11-12 13:53:00",
+            "post_id": "610730",
+            "reply_to_id": "610026"
+        },
+        {
+            "user_name": "subgolf",
+            "text": "Þessi virkar ekki á ljósnetinu. það er vesen með þá. IPTV að pixlast og fleira.\nEingöngu hægt að nota hann sem router á ljósleiðaranum.",
+            "date": "2015-12-03 22:34:00",
+            "post_id": "612311",
+            "reply_to_id": "610730"
+        },
+        {
+            "user_name": "emmi",
+            "text": "Bull, ég er að nota svona router á Ljósnetinu og með IPTV og það virkar fínt.",
+            "date": "2015-12-04 00:13:00",
+            "post_id": "612316",
+            "reply_to_id": "612311"
+        },
+        {
+            "user_name": "Halli25",
+            "text": "Fínar leiðbeiningar hérna til að stilla hann ef þú ert í veseni með hann:\nhttp://www.lappari.com/2015/09/viltu-sk ... a-simanum/",
+            "date": "2015-12-04 12:31:00",
+            "post_id": "612336",
+            "reply_to_id": "612316"
+        },
+        {
+            "user_name": "Dben",
+            "text": "Hef ekki fengið minn til að virka á Sjónvarpi símans.  Fór eftir lappari.com leiðbeiningunum og fleiru.  Ef þið sem hafið fengið hann til að virka væruð til í að deila einhverjum upplýsingum um hvort þið gerðuð eitthvað annað en það sem er á lappari.com.. Spurning hvort það skiptir máli hvaða myndlykil maður er með?",
+            "date": "2015-12-04 16:15:00",
+            "post_id": "612358",
+            "reply_to_id": "612336"
+        },
+        {
+            "user_name": "emmi",
+            "text": "Ég fór eftir lappari.com leiðbeiningunum. Eina sem ég rak mig á að það þurfti að merkja við hjá Mílu að ég væri með 2 afruglara því hann komst ekki inn þegar það var bara merkt eins og ég væri með einn. Mjög skrítið en hann virkar hjá mér.",
+            "date": "2015-12-04 16:34:00",
+            "post_id": "612360",
+            "reply_to_id": "612358"
+        },
+        {
+            "user_name": "snaeji",
+            "text": "Sorrý verð aðeins að verðlöggast...\nHann kostar 33 þúsund nýr hjá techshop\nASUS DSL-AC68U",
+            "date": "2015-12-05 03:03:00",
+            "post_id": "612405",
+            "reply_to_id": "612360"
+        },
+        {
+            "user_name": "subgolf",
+            "text": "Ekki bull, tried, tested and rejected.\nQOS er ekki að virka almennilega þannig að það koma glitch'ar í IPTV.\nEitthvað sem mun kannski vera langað með nýju FW (einhverntíman) en eins og er að þá eru þeir ekki að virka.\nEkki að reyna að skemma fyrir neinum bara leiðinlegt fyrir báða aðila þegar að menn komast að þessu.\nEn hann er að svínvirka sem router á ljósleiðaranum en því miður ekki hægt að notast við neitt custom fw á hann vegna dsl módemsins.",
+            "date": "2015-12-05 23:29:00",
+            "post_id": "612449",
+            "reply_to_id": "612405"
+        },
+        {
+            "user_name": "Some0ne",
+            "text": "Hann er að runna fínt hjá mér með 2 myndlykla með QoS í gangi, setti bara max hraðann í 90mbps.\nÞú ert væntanlega að lenda í glitches þegar að þú ert að downloada nálægt max hraða, Technicolor routerarnir eru með einhverju QoS sem passar að myndlyklarnir fái alltaf nægilegt bandwidth, þessi er ekki með kveikt á neinu slíku out of the box, ég fiktaði bara í QoS stillingunum og þetta virkar fínt hjá mér í dag.",
+            "date": "2015-12-10 15:06:00",
+            "post_id": "612862",
+            "reply_to_id": "612449"
+        },
+        {
+            "user_name": "Some0ne",
+            "text": "Svona bara til að halda aðeins meira áfram með þetta eins off-topic og það er,\nÞú getur farið í monitor network activity, eða man ekki alveg hvað það heitir atm, og þá sérðu nákvæmlega hversu mikið kbps myndlykilinn er að taka, ætti að vera nóg að sjá svo sync hraðann sem þú ert og setja limit á hraðann sem er synchraðinn - myndlykilsbandwith*1.5",
+            "date": "2015-12-11 10:13:00",
+            "post_id": "612893",
+            "reply_to_id": "612862"
+        }
+    ],
+    "date": "2015-08-13 13:58:00"
+}

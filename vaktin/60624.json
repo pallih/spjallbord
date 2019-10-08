@@ -1,0 +1,121 @@
+{
+    "forum_title": "Símar, fartölvur, myndavélar og önnur farandstæki",
+    "id": "60624",
+    "title": "Downgrade frá 8.1 yfir í 7",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=26&t=60624",
+    "posts": [
+        {
+            "user_name": "gunnarasgeir",
+            "text": "Hlæhæ,\nÉg er með Lenovo Idepad S500 sem ég keypti í nóvember hjá nýherja.\nFlott vél og allt það en ég er ekki að meika Windows 8 og mig langar til baka í gamla góða 7.\nÉg keypti mér meira segja í dag utanáliggjandi dvd drif svo ég gæti bara downgradeað með gamla laginu og sett þetta upp af windows disknum.\nÉg fattaði það fljótt að þegar ég restarta þarf ég að halda inni shift og þá spyr hún mig í lokin hvað ég vilji gera eftir restart og þá vel ég að boota upp af usb utanáliggjandi drifinu. það virkar og það kemur Windows is loading files... þetta týpíska þegar maður er að boota upp af windows 7 dvd.\nNema það að svo frís bara vélin á Starting Windows screeninu áður en ég kemst inní að velja tungumál og þetta týpíska fyrir windows 7.\nHér frís hún:\nÁður en þessi skjár á að koma upp:\nEinhver sem getur aðstoðað mig við að fá hana til þess að vilja downgradea?\nVerð að komast í elsku 7-una",
+            "date": "2014-04-22 17:03:00",
+            "post_id": "559982",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Mitt fyrsta gisk væri DVD diskurinn sérstaklega ef að þetta er skrifaður diskur.\nErtu með annann disk?, ef ekki gætirðu reynt \nþetta\n og prufa að setja upp af USB lyklinum",
+            "date": "2014-04-22 20:01:00",
+            "post_id": "559997",
+            "reply_to_id": "559982"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Einhver sérstök ástæða fyrir því að þú setur Windows 7 ekki bara á USB lykil og bootar af honum?",
+            "date": "2014-04-22 20:44:00",
+            "post_id": "560008",
+            "reply_to_id": "559997"
+        },
+        {
+            "user_name": "FreyrGauti",
+            "text": "Hvort er diskurinn fyrir 32bit eða 64bit?\nEf vélin er með UEFI boot enabled þá myndi 32bit ekki virka.",
+            "date": "2014-04-22 21:58:00",
+            "post_id": "560023",
+            "reply_to_id": "560008"
+        },
+        {
+            "user_name": "johnbig",
+            "text": "why u no make win 8 ? \ntók mig viku að venjast win8, free update í win 8.1 fyrir þá sem hafa ekki uppgvötað win takkan á keyboard, hvað þá aðrar flýtileiðir.",
+            "date": "2014-07-21 01:13:00",
+            "post_id": "567852",
+            "reply_to_id": "560023"
+        },
+        {
+            "user_name": "rapport",
+            "text": "http://techverse.net/download-windows-7 ... l-servers/\n+\nhttp://rufus.akeo.ie/\n= Bootable USB með Windows of your choice...\nÞarft bara að eiga valid product key",
+            "date": "2014-07-21 01:17:00",
+            "post_id": "567853",
+            "reply_to_id": "567852"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Bootable USB lyklar í windows er bara eins og einhyrningur, nær vonlaust.",
+            "date": "2014-07-21 10:05:00",
+            "post_id": "567856",
+            "reply_to_id": "567853"
+        },
+        {
+            "user_name": "worghal",
+            "text": "Þetta er nú bara ekki rétt hjá þér.\nHef notað og gert maaaaaaaaaarga bootable usb lykla í windows.",
+            "date": "2014-07-21 11:53:00",
+            "post_id": "567858",
+            "reply_to_id": "567856"
+        },
+        {
+            "user_name": "Hrotti",
+            "text": "x2\nÉg nota nánast eingöngu usb við uppsetningar. Það er helst þegar að maður að redda einhverju gömlu drasli sem að usb virkar ekki.",
+            "date": "2014-07-21 12:18:00",
+            "post_id": "567861",
+            "reply_to_id": "567858"
+        },
+        {
+            "user_name": "Nördaklessa",
+            "text": "nota eingöngu USB, það hefur mikið vatn runnið til sjávar frá því ég hætti að nota DVD eða geisladiska yfir höfuð...hver notar diska í dag?",
+            "date": "2014-07-21 20:18:00",
+            "post_id": "567897",
+            "reply_to_id": "567861"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Er búinn að reyna ítrekað og án árangurs að setja win7 á bootable usb til að setja upp bootcamp á mac og það er vonlaust, það lengsta sem ég hef komist er að spurningunni hvaða tungumál / lyklaborð ég nota, þá frýs allt.\nNeyðist til að finna win7 diskinn og usb-dvd drif til að klára verkið.",
+            "date": "2014-07-21 20:58:00",
+            "post_id": "567900",
+            "reply_to_id": "567897"
+        },
+        {
+            "user_name": "lukkuláki",
+            "text": "Þráðurinn er síðan í apríl ! Hann er örugglega búinn að koma þessu í lag.",
+            "date": "2014-07-21 21:38:00",
+            "post_id": "567902",
+            "reply_to_id": "567900"
+        },
+        {
+            "user_name": "Tesli",
+            "text": "Ég veit ekki hvort það sé mikill munur á win 7 Vs win8.1 þegar það kemur að Bootcamp en ég setti allavega upp win8.1 núna fyrir tveim vikum af bootable USB án nokkurs vesens á Macbook Pro hjá mér.",
+            "date": "2014-07-22 10:03:00",
+            "post_id": "567932",
+            "reply_to_id": "567902"
+        },
+        {
+            "user_name": "tanketom",
+            "text": "Náðu bara í þetta, ég var sjálfur að verða geðveikur á Win 8.1 en þetta forrit gerir það alveg eins og Win 7! \nhttp://www.classicshell.net/",
+            "date": "2014-07-22 10:56:00",
+            "post_id": "567940",
+            "reply_to_id": "567932"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Það er svo sem ekki útilokað að iso fællinn minn sé eitthvað skemmdur, eða usb lykillinn, kiddi félagi minn reyndi þetta líka á sinni MBP og gafst upp eftir heilan dag í fikti og endaði á DVD.",
+            "date": "2014-07-22 10:57:00",
+            "post_id": "567941",
+            "reply_to_id": "567940"
+        },
+        {
+            "user_name": "brain",
+            "text": "Mitt fyrsta verk þegar ég setti upp win 8 var að fá mér þetta forrit frá \nhttp://startisback.com/\ngerir örugglega svipað/sama og  \nhttp://www.classicshell.net/\nGjöbreytir win 8",
+            "date": "2014-07-23 07:49:00",
+            "post_id": "568009",
+            "reply_to_id": "567941"
+        }
+    ],
+    "date": "2014-04-22 17:03:00"
+}

@@ -1,0 +1,51 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "7930",
+    "title": "remote control",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=7930",
+    "posts": [
+        {
+            "user_name": "biggi1",
+            "text": "heiriði, þið hljótið að kannast við remote control tool-ið VNC\n\nhvaða port á router þarf ég að opna fyrir það?\n\nsvo ég geti stjórnað tölvunni frá öðru neti",
+            "date": "2005-04-08 12:12:00",
+            "post_id": "84366",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "jericho",
+            "text": "held að portið sé 5900 default - en þú átt að geta breytt því (I think)...\n\n\n\nsérð nánar um þetta \nhjer",
+            "date": "2005-04-08 13:09:00",
+            "post_id": "84374",
+            "reply_to_id": "84366"
+        },
+        {
+            "user_name": "tms",
+            "text": "5900 á windows, 5800 fyrir http serverinn með java applettinu",
+            "date": "2005-04-08 14:03:00",
+            "post_id": "84376",
+            "reply_to_id": "84374"
+        },
+        {
+            "user_name": "biggi1",
+            "text": "ok takk kærlega, ég var með einhverja gamla útgáfu af forritinu, þessvegna gat ég ekki ráðið port number og fleirra, en ég náði bara í níustu útgáfu á linkinum",
+            "date": "2005-04-08 14:35:00",
+            "post_id": "84380",
+            "reply_to_id": "84376"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Hmm, hvernig virkar það?",
+            "date": "2005-04-08 19:03:00",
+            "post_id": "84435",
+            "reply_to_id": "84380"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Þá geturðu tengst VNC yfir HTTP með browser og JAVA appletti.\n\n\n\nFarðu í stillingarnar á VNC Servernum, í \"Show default properties\" eða \"Show user properties\" og hakaðu við \"Enable java viewer\".\n\n\n\nÞá geturðu farið bara í browser inná \nhttp://nafnservers:5800/\n og þá kemur upp java-applet sem gerir þér kleift að tengast VNC servernum beint í gegnum vafra.\n\n\n\nMjög töff ef maður hefur ekki aðgang í VNC viewerinn.",
+            "date": "2005-04-08 23:20:00",
+            "post_id": "84463",
+            "reply_to_id": "84435"
+        }
+    ],
+    "date": "2005-04-08 12:12:00"
+}

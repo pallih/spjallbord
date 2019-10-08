@@ -1,0 +1,51 @@
+{
+    "forum_title": "Windows",
+    "id": "7301",
+    "title": "\"Path to deep\" vandamál",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=7301",
+    "posts": [
+        {
+            "user_name": "Pandemic",
+            "text": "Ég er með server og eins og vænta má af server þá þarf ég að vera með mikið af skrám og undirmöppum og fleira í þeim dúr. \n\nEn stundum þegar ég fæla yfir þá fæ ég þennan leiðinlega error \"File path is too deep\" \n\nBáðar vélarnar eru Windows XP og serverinn er með SCSI disk sem er frekar gamall og það fyrsta sem mér datt í hug var að þetta væri SCSI diskurinn sem væri með leiðindi eða hann væri einfaldlega skemmdur af einhverjum ástæðum en mér finnst það frekar hæpið þar sem get remotað inn í vélina og gert allt sem ég þarf að gera án þess að þessi error komi. Þetta virðist aðeins koma ef ég er að færa skrár á milli með Windows file sharing.\n\nHefur einhver hér hugmynd af hverju þessi error stafar og hvernig skal laga þetta?",
+            "date": "2005-02-04 21:35:00",
+            "post_id": "77520",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Daz",
+            "text": "Path to deep þýðir þá líklega að C:/xxx/xxx/.../skjal.skjal pathinn sé of langur og ég efast um að þetta sé hardware vandamál, diskinum ætti að vera nokkuð sama um hvernig gögnunum er raðað á hann, eina sem hann sér er 0 og 1. \n\nÉg hef reyndar aldrei heyrt um þessa villu áður og er enginn sérfræðingur í windows málum en ef pathinn sjálfur er ekki rosalega langur dettur mér í hug að t.d. FATið sé eitthvað skemmt. Hvað ætli sé annars hámarkslengd á \"path\" í windows?",
+            "date": "2005-02-06 10:55:00",
+            "post_id": "77669",
+            "reply_to_id": "77520"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Þetta hefur bara verið að gerast núna :S",
+            "date": "2005-02-06 11:36:00",
+            "post_id": "77672",
+            "reply_to_id": "77669"
+        },
+        {
+            "user_name": "tms",
+            "text": "Stóð ekki í raun og veru \"Path too deep\" ? Þetta er líklegast windows að sýna hvað það er lélegt og getur ekki höndlað að fara svona langt inn í skrárkerfið.",
+            "date": "2005-02-06 13:58:00",
+            "post_id": "77688",
+            "reply_to_id": "77672"
+        },
+        {
+            "user_name": "casper",
+            "text": "Þetta hefur líklegast með file shareing og 255 stafa langa \"path-a\" að gera. Gæti verið að þessar upplýsingar...\n\n\n\nhttp://support.microsoft.com/default.as ... -us;180410\n\n\n\n\n...geti hjálpað þér með þetta.",
+            "date": "2005-02-10 10:20:00",
+            "post_id": "78327",
+            "reply_to_id": "77688"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "virðist vera eins og þetta sé hætt að koma annars takk fyrir svörin",
+            "date": "2005-02-10 16:09:00",
+            "post_id": "78404",
+            "reply_to_id": "78327"
+        }
+    ],
+    "date": "2005-02-04 21:35:00"
+}

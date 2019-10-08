@@ -1,0 +1,51 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "72408",
+    "title": "Myndlyklar á 3 stöðum",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=72408",
+    "posts": [
+        {
+            "user_name": "forsyth",
+            "text": "Góða kvöldið vaktarar.\nÉg er með eina pælingu. Ég er með 500 mb ljósleiðara sem fer í WAN port á router. Routerinn er með 2 port sem eru fyrir myndlykla. Ég er að nota 1 port fyrir sjónvarp á efri hæð og ég var að pæla hvort ég gæti leitt einn CAT6 streng úr hinu myndlyklaportinu niður í smáspennubox hjá mér og verið þar með splitter 1->2 og átt möguleikann á að senda úr myndlyklaportinu á tvo staði á neðri hæð með CAT6 strengjum?\nÉg veit að ég get notað switch fyrir þetta, er það ekki rétt? \nEn get ég notað splitter þar sem ég er ekki með 230V í smáspennuboxið hjá mér niðri?\nEða á ég að fá mér bara net yfir rafmagn frá portinu?\nÉg fann ekkert um splitterinn hérna á vaktinni og er frekar skeptískur á að það virki.\nMeð von um góð svör.",
+            "date": "2017-03-16 21:06:00",
+            "post_id": "645353",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "ojs",
+            "text": "Ethernet splitter myndi alveg virka, en þá þarftu aðeins að fikta í vírunum. Splitterinn virkar þannig að hann notar 2 pör (appelsínugula og græna) fyrir eitt portið og svo hin tvö (bláa og brúna) fyrir hitt portið. Svo þú þarft að hafa splitter sitthvoru megin á snúrunni sem fer niður í smáspennuportið (og verður að hafa tvö myndlyklaport laus hjá routernum, gætir gert það með switch). En með þessum tilfæringum ertu búinn að gera CAT6 kapalinn óþarfann, gætir alveg komist af með CAT5e. Svona splitterar styðja held ég ekki meira en 100 Mbps svo það er annað sem mælir á móti þessu.\nSkoðaðu þessa síðu ef þú ert ekki að átta þig á því hvað ég er að tala um: \nhttp://eastmanreference.com/the-difference-between-an-ethernet-splitter-a-switch-and-a-hub/\n.",
+            "date": "2017-03-16 21:45:00",
+            "post_id": "645354",
+            "reply_to_id": "645353"
+        },
+        {
+            "user_name": "forsyth",
+            "text": "Okei ég skil þig. En annað, ég er með PoE switch á efri hæðinni, gæti ég leitt PoE snúru ásamt CAT6 niður í smáspennuboxið og verið þar með t.d. Edgerouter X eða MikroTik sem keyrist á PoE en ekki lágspennu eða eitthvað álíka og deilt þannig út myndlyklaportinu?",
+            "date": "2017-03-16 21:55:00",
+            "post_id": "645356",
+            "reply_to_id": "645354"
+        },
+        {
+            "user_name": "ojs",
+            "text": "Sýnist að þetta virki, þekki hvorki Edgerouter X né MikroTik svo ég get ekki sagt af eða á. En eitt, fyrst þú þarft hvort sem er að koma einum kapli niður á neðri hæð, því ekki tveim? Er kapallinn að fara í gegnum þröngt rör? Er hann utan á vegg og villt ekki láta þetta líta allt of ílla út?",
+            "date": "2017-03-16 22:14:00",
+            "post_id": "645359",
+            "reply_to_id": "645356"
+        },
+        {
+            "user_name": "russi",
+            "text": "Það er rétt að ef þú splittar vírnum upp þá færðu bara 100mbit.\nÞú þarft alltaf switch ef þú ætlar breyta einu porti í það að tengjast á tvo staði.  Þú getur leika breytt portunum á router hjá þér þannig það séu 3 TV tengi.\nSkásta sem þú getur að mínu mati, er að draga 2 strengi í smáspennuboxið þitt, annan fyrir TV og hitt fyrir net til síðari tíma, getur auðvitað notað þá báða sem TV líka. Setja Switch þar, helst með 2 VLANs, annað fyrir TV og hitt fyrir internet og getur þá dreift því sem þú vilt hvert sem er um húsið að því gefnu að það er kapall í smáspennuboxið. Allavega fyrst þú ert á annað borð að fara draga, dragðu þá tvo, þú þarft ekki endilega CAT6, CAT5 dugar fínt i þetta og er grennri, ef það er pláss fyrir tvo CAT6 dragðu þá það vrekar.\nAnnað, ef þú ert að draga tvo og breytir portunum á router þá ertu kominn með beina tengingu í báða myndlykla og getur sleppt þessu Switch-pælingum, en átt það allt hitt optionið inni ef þú villt nýta þér þetta á annan hátt.",
+            "date": "2017-03-16 23:34:00",
+            "post_id": "645362",
+            "reply_to_id": "645359"
+        },
+        {
+            "user_name": "forsyth",
+            "text": "Takk fyrir þessi svör öðlingar.",
+            "date": "2017-03-19 19:41:00",
+            "post_id": "645518",
+            "reply_to_id": "645362"
+        }
+    ],
+    "date": "2017-03-16 21:06:00"
+}

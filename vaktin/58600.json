@@ -1,0 +1,37 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "58600",
+    "title": "Windows 8 - Networking",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=58600",
+    "posts": [
+        {
+            "user_name": "Garri",
+            "text": "Sælir\nÞarf að tengja Windows 8 vél við netkerfið hjá mér sem er samsett úr Windows7 Professional vélum. Búinn að setja upp HomeGroup og sama Workgroup, virkja file og printer sharing, taka af password protection, sé öll share-name en þegar ég reyni að opna eins og folder, þá fæ ég: Windows Cannot access \\\\Server\\sharename osfv.\nSama hvort ég reyni frá W7 --> W8 eða öfugt. \nEr ógeðslega pirraður þar sem þessir gúbbar virðast vera snillingar í að gera eitthvað einfalt.. flókið.\nBúinn að gúgla smá en leiðbeiningarnar eru eins og fyrir 5 ára og engin tekur á þessu.. enn sem komið er.\nEdit (1min later): Prófaði að bæta Everyone við sem notanda og við það gat ég opnað share-ið.",
+            "date": "2013-12-11 00:42:00",
+            "post_id": "541801",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "daremo",
+            "text": "Procmon er besti vinur Windows notenda.\nWindows virkar yfirleitt eins og maður á von á, en stundum gerist eitthvað sem ekkert getur útskýrt, nema procmon.",
+            "date": "2013-12-11 00:58:00",
+            "post_id": "541805",
+            "reply_to_id": "541801"
+        },
+        {
+            "user_name": "Garri",
+            "text": "Takk fyrir það.. mun skoða þetta.\nÞetta er frekar asnalegt samt. Ég hef alltaf notað Properties og advanced sharing. Þar var Everyone með full accesss.. bara dugar ekki til í Windows 7/8.\nÞað sem þarf að gera er að Share with Specific people og rita þar Everyone velja add og setja read/write réttindi.. þá bingó!",
+            "date": "2013-12-11 01:42:00",
+            "post_id": "541809",
+            "reply_to_id": "541805"
+        },
+        {
+            "user_name": "daremo",
+            "text": "Opnaðu control panel -> folder options -> view, og taktu hakið úr \"simple file sharing / use sharing wizard\".\nÞegar þú gerir þetta færðu 'security' tab þegar þú opnar properties á möppum. Miklu einfaldara að nota þetta en \"simple sharing\" að mínu mati. Microsoft er greinilega ósammála.\nÞetta hefur verið svona síðan í XP minnir mig.",
+            "date": "2013-12-11 12:29:00",
+            "post_id": "541852",
+            "reply_to_id": "541809"
+        }
+    ],
+    "date": "2013-12-11 00:42:00"
+}

@@ -1,0 +1,58 @@
+{
+    "forum_title": "Windows",
+    "id": "11327",
+    "title": "LAN driver, windows xp diskur",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=11327",
+    "posts": [
+        {
+            "user_name": "Snorri",
+            "text": "ég þurfti að slökkva á tölvunni með takkanum sjálfum og eftir að ég gerði það þá datt lan driverinn út ég er búinn að finna driverinn á netinu en það var enginn setup fæll í winrar fælnum bara .cat , .inf og .sys fælar ég er búinn að reyna að adda þessum þremur fælum í driver cache folderinn en winrar vill ekki leyfa mér að adda þessu þar inn (WinRAR can add files only to RAR or ZIP archives).\n\n\n\nég á ekki win xp home disk þannig ég get ekki formattað og installað aftur og er ég því að auglýsa eftir einum svoleiðis disk og ég mun borga fyrir einn svoleiðis disk sem virkar. ( við tölum um verð þegar þú hringir)\n\n\n\nþetta verður að vera lögleg copía af windows xp HOME og á BOOTABLE diski.\n\n\n\nsíminn minn er 5529181 eða 8982042 ég á heima nálægt miðbænum í RVK.",
+            "date": "2006-07-10 11:51:00",
+            "post_id": "123692",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Ætti að duga að fara í 'properties' fyrir netkortið, fara í 'driver' flipann og velja 'update dirver'.  Þar velurðu svo .inf skránna.\n\n\n\nGæti borgað sig að uninstalla driverinum fyrst, reboot og láta Windows opna 'new hardware wizard' dæmið, þar sem þú myndir þá vísa á .inf skránna.",
+            "date": "2006-07-10 12:01:00",
+            "post_id": "123693",
+            "reply_to_id": "123692"
+        },
+        {
+            "user_name": "Baldurmar",
+            "text": "Ef að þú ert sjálfur með löglega útgáfu af Windows XP, er ekkert sem mælir gegn því að þú notir öryggisafrit af disk frá einhverjum.. Þú átt CD-keyinn sem að er það eina sem greinir löglegt frá ólöglegu.. Afhverju helduru að það sé ekkert copy-protection á disknum til að byrja með?",
+            "date": "2006-07-10 12:02:00",
+            "post_id": "123694",
+            "reply_to_id": "123693"
+        },
+        {
+            "user_name": "Snorri",
+            "text": "Baldurmar: já mig vantar einmitt mitt svona öryggisafrit því ég á ekki svo leiðis og enginn vinur minn heldur ( allir með pro)",
+            "date": "2006-07-10 12:09:00",
+            "post_id": "123695",
+            "reply_to_id": "123694"
+        },
+        {
+            "user_name": "Andri Fannar",
+            "text": "Getur hægrismellt á *.inf fælinn og valið Install",
+            "date": "2006-07-10 15:00:00",
+            "post_id": "123703",
+            "reply_to_id": "123695"
+        },
+        {
+            "user_name": "Stutturdreki",
+            "text": "Snorri, það er algert overkill að formata og reinstalla windows til að laga netkorts driverinn!",
+            "date": "2006-07-10 15:05:00",
+            "post_id": "123704",
+            "reply_to_id": "123703"
+        },
+        {
+            "user_name": "Baldurmar",
+            "text": "Nákvæmlega.",
+            "date": "2006-07-10 15:38:00",
+            "post_id": "123706",
+            "reply_to_id": "123704"
+        }
+    ],
+    "date": "2006-07-10 11:51:00"
+}

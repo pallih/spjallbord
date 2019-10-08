@@ -1,0 +1,30 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "39638",
+    "title": "Hugbúnaður til að bera saman skrár",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=39638",
+    "posts": [
+        {
+            "user_name": "Selurinn",
+            "text": "Sælir piltar,\nÉg er með WD 500gb Blue Caviar sem virðist vera með bad sectors á ákveðnum stöðum.\nHægt er að lesa af honum og skoða innihaldið. \nÞegar reynt er að afrita ákveðnar skrár koma upp villur, diskurinn btw feilar DST.\nÉg notaði hugbúnað til þess að færa allt sem mögulegt var yfir á annan disk. Erum að tala um 359 gb í 928.026 skrám.\n136 þessarar skráa náðist ekki að afrita og þessi tiltekni hugbúnaður fer síðan ekkert nánar útí hvaða skrár þetta voru.\nSvo spurningin mín er, hvaða forrit get ég notað til þess að sjá hvaða skrár um er verið að ræða sem ekki náðist að afrit, hvort sem það er shareware eða freeware skiptir engu, vil einungis það besta \nKveðja.....",
+            "date": "2011-07-02 18:29:00",
+            "post_id": "360369",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Marmarinn",
+            "text": "kanski  \nhttp://en.wikipedia.org/wiki/WinDiff",
+            "date": "2011-09-03 01:45:00",
+            "post_id": "377126",
+            "reply_to_id": "360369"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Berð saman checksums af öllum fælum á báðum stöðum....\nGetur t.d. notað \nhttp://www.quicksfv.org/\n til þess",
+            "date": "2011-09-03 03:24:00",
+            "post_id": "377134",
+            "reply_to_id": "377126"
+        }
+    ],
+    "date": "2011-07-02 18:29:00"
+}

@@ -1,0 +1,44 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "29667",
+    "title": "Vesen með AR5006EXS (Netkort í Macbook) Win7",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=29667",
+    "posts": [
+        {
+            "user_name": "BjarniTS",
+            "text": "Atheros AR5006EXS Wireless Network Adapter\nÞetta er kortið.\nEr að nota Win7 á vélinni\nVandamálið lýsir sér þannig.\nTil að byrja með virkaði allt , en netið datt reglulega út ef að hraðinn á torrent varð mikill , hraðinn varð óvenju mikill hjá mér fyrst um sinn áður en að netið hætti að virka eðlilega. , var að sækja bootcamp á torrent.\nNúna er það þannig að netið virkar nánast ekkert , og hún finnur heimanetið ef að hún finnur þá net , en oftast er merkið glatað , en stundum ríkur það upp í örskamma stund , þó vill hún ekki tengjast netinu eða neitt.\nÞegar að ég er svo heppinn að fá hana til að reyna að tengjast því þá gefur hún mér bara \"windows was unable to connect to speedtouch\"\nÞetta gefur inssider mér.\nHún sér með því bara 1 net.\nHvað haldi þið að sé að ? \nEr þetta algengt , að netið sé leiðinlegt í Macbook þegar hún keyrir Win ?\nEr búinn að setja upp \nBootCampDrivers",
+            "date": "2010-04-18 23:13:00",
+            "post_id": "256993",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "mattiisak",
+            "text": "er með windows á macbookini hjá mér og netið virkar fínt. ertu með driverinn sem windows fann fyrir kortið eða sóttiru hann sjálfur?",
+            "date": "2010-04-19 00:16:00",
+            "post_id": "257011",
+            "reply_to_id": "256993"
+        },
+        {
+            "user_name": "BjarniTS",
+            "text": "Heyri þið mig nú er þetta eitthvað driver vesen ? \nNetið gengur með eitt strik á vélinni í ubuntu , en er þó nokkuð stöðugt.\nMeðan að það er tölva hérna til hliðar sem gengur með fullt stig húsa af strikum á þráðlausu líka.\nWindows sagði að vélin væri með :\nSamkvæmt Device manager.\nAtheros \nAR5006EXS\n Wireless Network Adapter\n- - - - \nUbuntu :\nlspci \n02:00.0 Ethernet controller: Atheros Communications Inc. \nAR5001\n Wireless Network Adapter (rev 01)\nEru þetta sömu kortin eða er WIN að klikka ?",
+            "date": "2010-04-19 00:24:00",
+            "post_id": "257013",
+            "reply_to_id": "257011"
+        },
+        {
+            "user_name": "BjarniTS",
+            "text": "Sko , fyrst um sinn var netið fínt virtist vera , svo fór win í update , og þá fór netið að haga sér asnalega.\nSvo ákvað ég að setja upp Bootcamp driverana , lyklaborðið og músin og hljoðið og fleira lagaðist þá , en ekki netið.\nGætir þú trúað að \nþetta\n sé sama netkortið og ég er með í makkanum ?",
+            "date": "2010-04-19 00:26:00",
+            "post_id": "257016",
+            "reply_to_id": "257013"
+        },
+        {
+            "user_name": "BjarniTS",
+            "text": "Leopard here i come . . . :/",
+            "date": "2010-04-19 02:22:00",
+            "post_id": "257022",
+            "reply_to_id": "257016"
+        }
+    ],
+    "date": "2010-04-18 23:13:00"
+}

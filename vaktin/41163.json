@@ -1,0 +1,100 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "41163",
+    "title": "Undarlegt hljóð í Linux",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=41163",
+    "posts": [
+        {
+            "user_name": "Le Drum",
+            "text": "Gúddag.\nÍ hvert skipti sem ég tek fartölvuna mína (ACER 5740G) úr hleðslu, þá fer ég að heyra leiðinda klikk hljóð sem kemur óreglulega. Reyndar kemur þetta hljóð einnig þegar ég slekk á henni, þannig að mig grunar að þetta sé eitthvað tengt rafmagni.\nEr einhver annar þarna úti sem hefur lent í svipuðu og kann skýringar á?",
+            "date": "2011-08-31 16:45:00",
+            "post_id": "376420",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Eiiki",
+            "text": "Kemur þetta ekki úr harða disknum?",
+            "date": "2011-08-31 16:49:00",
+            "post_id": "376421",
+            "reply_to_id": "376420"
+        },
+        {
+            "user_name": "Le Drum",
+            "text": "Neibb. Er með Solid State disk í henni.\nEr að keyra Linux Mint 11.",
+            "date": "2011-08-31 16:53:00",
+            "post_id": "376424",
+            "reply_to_id": "376421"
+        },
+        {
+            "user_name": "Aravil",
+            "text": "Nýbúinn að setja upp Linux á vélina?\nHef á tilfinningunni að þetta sé meira hardware tengt heldur en software.",
+            "date": "2011-08-31 17:31:00",
+            "post_id": "376437",
+            "reply_to_id": "376424"
+        },
+        {
+            "user_name": "angelic0-",
+            "text": "Hvers vegna helduru að þetta hafi e'h að gera með Linux, er ekki líklegra að þetta hafi e'h að gera með PSU eða e'h álíka \nKv, Viktor Agnar - sjomme'l ven !",
+            "date": "2011-08-31 17:32:00",
+            "post_id": "376438",
+            "reply_to_id": "376437"
+        },
+        {
+            "user_name": "BjarniTS",
+            "text": "Er rafhlaðan léleg í vélinni ? \nEða getur verið að þetta sé villa bara í einhverjum power-settings í vélinni og hugsanlega einhver \"false alarm\" ?",
+            "date": "2011-08-31 19:00:00",
+            "post_id": "376471",
+            "reply_to_id": "376438"
+        },
+        {
+            "user_name": "Le Drum",
+            "text": "Hef náttúrulega verið að nota Windows á henni og þá kom ekki þetta hljóð til. Hef prufað nokkrar útgáfur af Linux: ubuntu, debian, opensuse og fleira og þetta hljóð kom fram á þeim öllum.\nÞetta hljóð kemur einnig þegar ég er að restarta eða slökkva á vélinni, rétt áður en skjárinn verður svartur og power ljósið fer af. Örlítið \"klikk\" hljóð þá, en ef ég er eingöngu að nota rafhlöðuna, þá kemur þetta klikk með óreglulegu millibili. Get ekki tengt það við skilaboðaforrit sem poppa upp reglulega. \nOg það kemur þrátt fyrir að ég sé búinn að lækka alveg niður í hátölurunum. Svona til þess að lýsa þessu hljóði þá er það ekki ósvipað og maður heyrir þegar maður tengir heyrnartól við einhverja græju. Smá smellur.\nHélt kannski að einhverjir fleiri hefðu rekist á álíka í þeirra linuxboxum. Greinilega ekki hehe...",
+            "date": "2011-08-31 19:23:00",
+            "post_id": "376482",
+            "reply_to_id": "376471"
+        },
+        {
+            "user_name": "Eiiki",
+            "text": "reyndu að útiloka hvaðan hljóðið kemur, er þetta mögulega geisladrif? gæti líka verið að það sé vifta að reyna að ræsa sig eða eitthvað álíka en sé með ílla festa snúru í móbóið og fær því ekki nægan straum r some",
+            "date": "2011-08-31 20:22:00",
+            "post_id": "376501",
+            "reply_to_id": "376482"
+        },
+        {
+            "user_name": "Le Drum",
+            "text": "Eftir því sem ég kemst næst, þá tengist þetta eitthvað \"power save\", það er að segja þegar keyrt er á rafhlöðunni þá vill tölvan eitthvað spara orku með því að fikta í hljóðinu. Þarf bara að finna út hvernig ég á að slökkva á því.",
+            "date": "2011-09-01 08:43:00",
+            "post_id": "376605",
+            "reply_to_id": "376501"
+        },
+        {
+            "user_name": "angelic0-",
+            "text": "Er e'h hægt að fikta í power saving features í bios ?",
+            "date": "2011-09-01 11:43:00",
+            "post_id": "376636",
+            "reply_to_id": "376605"
+        },
+        {
+            "user_name": "Le Drum",
+            "text": "Neibb.\nÞetta eru einhverjar software stillingar í Linux varðandi hljóðið. \"Power save\" reynir að slökkva á hljóðinu til þess að spara orku, hefur eitthvað að gera af því það er HDMA tengi eða HD hljóðkort skilst mér. Finn bara ekki hvar ég á að blockera \"power save\" á því.",
+            "date": "2011-09-01 12:14:00",
+            "post_id": "376643",
+            "reply_to_id": "376636"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "Breytir þessu í power settings sem eru í System administration eða preferences menu-inu efst í System sem er efst vinstra megin í Ubuntu...",
+            "date": "2011-09-01 12:26:00",
+            "post_id": "376648",
+            "reply_to_id": "376643"
+        },
+        {
+            "user_name": "angelic0-",
+            "text": "eftir svolitla eftirgrennslan virðist þetta vera það eina sem að bendir til svipaðra vandamála:\nhttp://forum.notebookreview.com/acer/46 ... ge-10.html\nen þá talar notandinn um að það komi \"clicking / squeaking\" hljóð þegar að viftan ræsir sig, spurning hvort að þetta er svipað vandamál og þú ert að glíma við þó að ég efi það...",
+            "date": "2011-09-01 12:29:00",
+            "post_id": "376650",
+            "reply_to_id": "376648"
+        }
+    ],
+    "date": "2011-08-31 16:45:00"
+}

@@ -1,0 +1,37 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "15626",
+    "title": "Vandamál með íslenska þýðingu í phpBB",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=15626",
+    "posts": [
+        {
+            "user_name": "elgringo",
+            "text": "Þannig er það nú að öreyndarmenn voru að setja þýðinguna sína á phpbb inná \nhttp://www.phpbb.com/languages/?type=20x\n\n\n\n\nÞegar ég set inn þettan tungumála pakka þá koma allir íslenskustafirnir út í bulli.\n\n\n\nEr að keyra Fedora Core 6 - Apache - PHP 5.x - MySQL 5.x\n\nÍslenskan er í lagi í stýrikerfinu og á HTML síðu sem ég er líka að hýsa. Það er bara í phpBB eftir að ég set inn þennan pakka.\n\n\n\nTakk fyrir",
+            "date": "2007-09-27 13:27:00",
+            "post_id": "153747",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "JReykdal",
+            "text": "Eitthvað er í röngu stafasetti. Hvort sem það er síðan, serverinn eða language packinn.",
+            "date": "2007-09-27 13:32:00",
+            "post_id": "153749",
+            "reply_to_id": "153747"
+        },
+        {
+            "user_name": "elgringo",
+            "text": "Já það lítur út fyrir það. Hvernig myndir þú mælast til með að ég myndi kryfja það mál?",
+            "date": "2007-09-27 13:38:00",
+            "post_id": "153750",
+            "reply_to_id": "153749"
+        },
+        {
+            "user_name": "JReykdal",
+            "text": "nú greina í hvaða encoding hver hluti er. Finna ósamræmið.",
+            "date": "2007-09-27 13:48:00",
+            "post_id": "153752",
+            "reply_to_id": "153750"
+        }
+    ],
+    "date": "2007-09-27 13:27:00"
+}

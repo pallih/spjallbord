@@ -1,0 +1,128 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "77032",
+    "title": "Restart í leikjum",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=77032",
+    "posts": [
+        {
+            "user_name": "Quantomic",
+            "text": "Daginn, lenti í því núna fyrrir nokkru að tölvan restartaði sér í miðjum leik (wow) en ekkert um hvort þetta var software error.\nSkipti um PSU, sem var notað en alveg eins og það gamla, en aftur restart þegar wow er að klárast að hlaðast. Prufaði að starta doom, hann gat runnað í 5 min á main menu en þegar ég startaði campaign þá restart.\nBúinn að keyra malwarebytes en það finnur ekkert.\nCPU: Ryzen 1600x\nMem: 16gb 2400mhz\nGPU: 980ti\nWin 10\nAllt stock, ekkert oc\nPSU: Raider RA 650\nHitinn á cpu í idle er um 50\nEdit: Búinn að keyra Furmark til að benchmarka gpu og ekkert restart við það.\n        Prime95 til að prófa cpu og það sama þar ekkert restart við það.\n        Keyrði svo memory test frá windows og sama þar, ekkert að.\n        Gerði clean install á gpu driver.\n        En er að taka eftir einu skrítnu í HWMonitor, hitinn á cpu getur stundum hoppað úr 37 uppí 47 við eitt \n        refresh.",
+            "date": "2018-08-25 19:13:00",
+            "post_id": "676607",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gassi",
+            "text": "Búinn að athuga í event viewer? Critical alerts?",
+            "date": "2018-08-25 22:22:00",
+            "post_id": "676616",
+            "reply_to_id": "676607"
+        },
+        {
+            "user_name": "Gassi",
+            "text": "Mæli með því að þú athugir það og slekkur á auto restart \nVið bluescreen, náir í memtest 86+ og setur það upp á bootable usb og keyrir full scan á ram",
+            "date": "2018-08-25 22:38:00",
+            "post_id": "676617",
+            "reply_to_id": "676616"
+        },
+        {
+            "user_name": "IceThaw",
+            "text": "Virkaði þetta setup áður til að spila wow / doom og allt í einu virkar ekki núna? Eða er þetta fyrsta skiptið sem þú reynir að runna þessa leiki?\nCPU idle hiti segirðu vera um 50°C, en í Furmark/Prime95 test, hver er þá load (max) hiti á CPU / GPU?\nAnnars, eftir að hafa sjálfur reynt að nota rusl PSU frá InterTech 700W sem réði ekki við setupið sem ég var eitt sinn með, en HX620W Corsair gerði það, þá skoða ég alltaf PSU eftir lista eins og t.d. þessum, \nhttps://linustechtips.com/main/topic/63 ... t-updated/\n \nþ.e. fer eftir gæðum. Lenti einnig í veseni með PSU frá Tacens Radix, en sé núna að hvorugt þeirra er á listanum lengur.\nMæli allavega með þessum lista fyrir hvern sem er við PSU kaup, eflaust ætti þetta PSU að virka fyrir þetta setup, en m.v. þennan lista finnst mér það raðað ansi neðarlega fyrir gæði eða Tier 6. (G.r.f. að þetta sé \"FSP - Raider Silver\").\nEn já fróðlegast væri auðvitað að sjá hvað bluescreen segir..",
+            "date": "2018-08-25 23:25:00",
+            "post_id": "676618",
+            "reply_to_id": "676617"
+        },
+        {
+            "user_name": "Quantomic",
+            "text": "Fann þetta þar, Kernel-Power event 41. Vona að þetta sé þá bara PSU en það kemur í ljós þegar ég kemst í búð til að kaupa nýtt.\nCPU um 73°C þegar prime95 er í keyrslu\nGPU í 72°C í FurMark\nEdit: Gleymdi já, þetta setup er búið að virka síðan í nóvember í fyrra þegar cpu, móðurborð, ram og cpu kælingin var keypt. Fékk fyrsta restartið 25.8.2018 17:35:56",
+            "date": "2018-08-26 00:11:00",
+            "post_id": "676619",
+            "reply_to_id": "676618"
+        },
+        {
+            "user_name": "jonsig",
+            "text": "Lenti í þessu kernel error fyrir ekki svo löngu með random restart, það var gallaður 7700k Cpu",
+            "date": "2018-08-26 00:19:00",
+            "post_id": "676620",
+            "reply_to_id": "676619"
+        },
+        {
+            "user_name": "Gassi",
+            "text": "Það þarf ekki að þyða að það sé vegna psu, þetta event verður til vegna unexpected shut down. \nhttps://support.microsoft.com/is-is/hel ... hout-clean\nMyndi skoða þetta.\nÉg var oft að lenda í því sama, windows memory test fann ekkert að minninu mínu, en þegar ég keyrði upp vélina með memtest86+ þá funndust nokkur hundruð þúsund villur, keyrði öll prófin. Kemur af og til fyrir ennþá ég hef ekki nennt að prófa hvert minni fyrir sig og senda ábyrgðaraðila :’D",
+            "date": "2018-08-26 00:24:00",
+            "post_id": "676621",
+            "reply_to_id": "676620"
+        },
+        {
+            "user_name": "Quantomic",
+            "text": "memtest86 var að klárast og ekkert fannst að þar",
+            "date": "2018-08-26 01:48:00",
+            "post_id": "676622",
+            "reply_to_id": "676621"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Mér finnst líklegt að þú sért með bilað skjákort.",
+            "date": "2018-08-26 11:47:00",
+            "post_id": "676628",
+            "reply_to_id": "676622"
+        },
+        {
+            "user_name": "Quantomic",
+            "text": "En ætti ég þá ekki að geta framkallað restart með stress testi í FurMark? Lét það ganga í 5 mín í gær án þess að neitt gerðist.",
+            "date": "2018-08-26 13:17:00",
+            "post_id": "676632",
+            "reply_to_id": "676628"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "5 minútur?  \n \nSvona tests eru stundum látin ganga í nokkra daga  \nEf þú ert til dæmis að yfirklukka vél er hún ekki álitin stable fyrr en hún hefur staðist stress test í um 24-48 klst.",
+            "date": "2018-08-26 14:24:00",
+            "post_id": "676636",
+            "reply_to_id": "676632"
+        },
+        {
+            "user_name": "Haukursv",
+            "text": "Ég lenti í svipuðu fyrir 2 árum eða svo. Var búinn að prufa flest og fékk sama event og þú. Lagaðist þegar ég skipti um PSU og hefur ekki gerst síðan",
+            "date": "2018-08-26 14:35:00",
+            "post_id": "676639",
+            "reply_to_id": "676636"
+        },
+        {
+            "user_name": "Danni V8",
+            "text": "Hvaða móðurborð?\nEr með Ryzen7 1700 örgjörva í Asus Crosshair VI Hero sem ég keypti á svipuðu tímabili sem var pjúra helvíti að fá til að keyra stabílt. Meira að segja að keyra það með ekkert overclock var óstabílt.\nEf þú ert með þetta móðurborð þá verðurðu að passa að fara í Bios og finna þar fídus sem heitir SenseMI Skew og er minnir mig undir Tweakers Paradise. Það er on by default, verður að vera off ef þú ætlar að fá hitatölur sem er hægt að taka mark á.\nEinnig máttu ekki vera með eitthvað forrit í gangi sem fylgist með hitastiginu ef þú ert líka með Asus AI Suite 3 uppsett. Þegar ég var með það og HW Monitor í gangi til að getað sent hitatölur yfir í lyklaborðið, þá bara frusu sumir sensorar í -70°C ca og móðurðborðið slökkti á bæði CPU viftunum og dælunni í vatnskælingunni. Gerðist reglulega þegar ég var í leikjum án viðvörunnar. Ég var bara með heyrnatólin á mér og tók ekkert eftir því að það heyrðist ekkert í viftunum lengur og síðan bara restartaði tölvan sér uppúr þurru. \nBIOS-arnir sem voru fyrst voru líka alveg glataðir, og urðu bara verri með hverri uppfærslu. Þangað til það kom einn BIOS sem ég prófaði og hann bara virkaði, get overclockað slightly og sett vinnsluminnið í hraðann sem það á að vera og tölvan helst stabíl.\nAnnað skiptið á mínum ferli sem ég prófa að fara í AMD og annað skiptið sem það er endalaust vesen og vonbrigði út í gegn.\nFer aftur í Intel næst og held mér þar.",
+            "date": "2018-08-27 01:05:00",
+            "post_id": "676668",
+            "reply_to_id": "676639"
+        },
+        {
+            "user_name": "Quantomic",
+            "text": "Þakka öll svör og ábendingar, fór í að kaupa \nhttp://m.tolvutek.is/vara/seasonic-focu ... ara-abyrgd\n og vona að það lagi þetta.",
+            "date": "2018-08-27 12:09:00",
+            "post_id": "676682",
+            "reply_to_id": "676668"
+        },
+        {
+            "user_name": "Gassi",
+            "text": "Miðað við það að þetta gerist þega leikir eru að starta kæmi mér ekki á óvart að þetta væri GPU vandamál, gastu ekkert greint kóða út frá kernel power event 41?",
+            "date": "2018-08-27 12:21:00",
+            "post_id": "676683",
+            "reply_to_id": "676682"
+        },
+        {
+            "user_name": "Quantomic",
+            "text": "Enginn kóði kom fram þar. Bara 0 og 0x00 etc\nEdit: kemst í eitt 1050 eða 60, get þá skelt því í ef þetta heldur áfram.",
+            "date": "2018-08-27 15:47:00",
+            "post_id": "676689",
+            "reply_to_id": "676683"
+        },
+        {
+            "user_name": "Quantomic",
+            "text": "Jæja þetta var skjákortið. Var með 1060 í öðrum kassa og allt virkar fínt núna.\nÞá er bara að safna fyrir nýju korti",
+            "date": "2018-08-27 21:29:00",
+            "post_id": "676705",
+            "reply_to_id": "676689"
+        }
+    ],
+    "date": "2018-08-25 19:13:00"
+}

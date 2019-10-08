@@ -1,0 +1,51 @@
+{
+    "forum_title": "Símar, fartölvur, myndavélar og önnur farandstæki",
+    "id": "36842",
+    "title": "Packard Bell skjákortarugl",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=26&t=36842",
+    "posts": [
+        {
+            "user_name": "Selurinn",
+            "text": "Sælir drengir.\nSmá info\nTölvan:\nhttp://webcache.googleusercontent.com/s ... .google.is\nUppsett er á vélina W7 64-bit\nHún er með Nvidia G310M skjákorti og einnig er skjákort á örgjövanum. (i-3)\nÞegar farið er í device Manager sjást 2 kort. (Intel og Nvidia kortið)\nUndir display í gegnum \"dxdiag\" lítur út fyrir að Intel kortið sé að sjá um hardware acceleration en ekki Nvidia.\nEf ég slekk á Intel kortinu dettur myndin af skjánum.\nEftir restart segist vélin samkvæmt resolution properties og directX að hann sé að keyra no-name generic driver.\nKemst bara uppí 1024x768 ef Intel kortið er óvirkt.\nBúinn að sjálfsögðu að prufa að henda inn nýjasta rekilinn fyrir Nvidia kortið. (No success)\nHægt er að komast í stillingar fyrir bæði kortin.\nAllar brigthness stillingar sem ég breyti í gegnum Intel graphic properties brigthness/gamma virkar.\nEf ég breyti hinsvegar sömu stillingum í gegnum Nvidia Control Panelinn hefur það engin áhrif.\nEr þetta eins og ég held að þetta sé?\nÞegar verið er að vinna á sjálfum fartölvuskjánum er þá einungis Intel kortið virkt? Fer Nvidia kortið ekki í notkun almennilega nema að annar skjár sé tengdur við tölvuna?\nEr ég semsagt fastur við það að geta ekki notað grafík sem tölvan hefur uppá að bjóða nema að annar skjár sé tengdur við tölvuna? Þvílíkur bömmer.\nÉg get t.d. ekki spilað leiki sem ég á að geta keyrt.\nFinnst ekkert skrítið að þeir fari ekkert í gang ef Intel kortið er einungis að vinna.\nLigg ég milli steins og sleggju eða er hægt að mixa þetta eitthvað til að fá Nvidia kortið sem main adapter? (Eða jafnvel ekki hægt þar sem tengingarnar í tölvunni sjálfri leyfa það ekki.\nT.d. að Nvidia kortið sé einungis tengt við display portin á vélinni og Intel ruslið við fartölvuskjáinn.\nEr ég fucked?\nKveðja.....",
+            "date": "2011-03-07 04:39:00",
+            "post_id": "328923",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "*bump*",
+            "date": "2011-03-08 07:12:00",
+            "post_id": "329312",
+            "reply_to_id": "328923"
+        },
+        {
+            "user_name": "snaeji",
+            "text": "Er þetta ekki svoleiðis að Nvidia kortið á að taka yfir þegar vinnslan þyngist ?\nEins og hybrid bíll- keyrir vélina á rafmagni þangað til að hún þarf meiri kraft og skiptir þá í bensín",
+            "date": "2011-03-08 07:42:00",
+            "post_id": "329314",
+            "reply_to_id": "329312"
+        },
+        {
+            "user_name": "blitz",
+            "text": "Er með XPS 15 m/ nvidia 420m og er með Optimus, vélinn skiptir yfir í Nvidia þegar ég fer í leiki en er almennt á Intel HD til að spara batterý, algjör snilld.\nEr með 6cell battery og vélin er i5-560, 4gb ddr, 15.6\" skjár + nvidia 420m og batteríið endist c.a. 4:30 í venjulegri vinnslu, lengur ef ég fer í power saver.",
+            "date": "2011-03-08 09:34:00",
+            "post_id": "329337",
+            "reply_to_id": "329314"
+        },
+        {
+            "user_name": "Bioeight",
+            "text": "Hybrid-SLI virkar þannig, intel graphics notað þangað til þörf er á einhverju meira , þá skipt yfir í Nvidia. Notaðu frekar Speccy eða Everest og sjáðu hvort það er einhver keyrsla að fara fram á nvidia chippinu þegar þú setur leik í gang. Hvaða leiki ertu að reyna að keyra?\nP.S. Hef enga trú á því að Nvidia kortið sé ekki tengt við skjáinn á fartölvunni þinni.\nP.P.S. Hybrid-SLI þarf líklega OEM drivers til að virka, setja upp orginal packard bell drivers á vélina.",
+            "date": "2011-03-08 14:22:00",
+            "post_id": "329407",
+            "reply_to_id": "329337"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Þakka svörin, skoða þetta betur, læt vita hvernig fer.",
+            "date": "2011-03-08 19:13:00",
+            "post_id": "329552",
+            "reply_to_id": "329407"
+        }
+    ],
+    "date": "2011-03-07 04:39:00"
+}

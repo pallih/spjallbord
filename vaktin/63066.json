@@ -1,0 +1,30 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "63066",
+    "title": "VDSL brú",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=63066",
+    "posts": [
+        {
+            "user_name": "Kristján Gerhard",
+            "text": "Jæja, er að flytja og það er því miður ekki í boði ljósleiðari frá GR á nýja staðnum. Er búinn að panta ljósnet, sem the 2nd best thing. Ég keyri pfsense router á GR tengingunni hjá mér í dag og hef fullan hug á því að halda því áfram, spurningin er hvaða reynslu hafa menn af því að keyra VDSL routerana sína sem brýr, og þá hvaða routera er um að ræða. Eru einhverjir routerar sem að maður ætti að forðast, og þá afhverju? Það er spurning hvort að \"hvaða router sem er\" ráði við að sinna þessu þegar það er búið að off-loada allri vinnunni af honum.\nThoughts?",
+            "date": "2014-11-03 20:48:00",
+            "post_id": "578967",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "mercury",
+            "text": "nota síma routerinn inni í töflu + switch og er svo með 2 stk asus routera í sitthvorum endanum á húsinu. minnsta mál. þessi router frá símanum virðist vera í lagi.",
+            "date": "2014-11-04 07:27:00",
+            "post_id": "579007",
+            "reply_to_id": "578967"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Mæli með Thomson routerunum fram yfir Zyxel.",
+            "date": "2014-11-04 17:14:00",
+            "post_id": "579044",
+            "reply_to_id": "579007"
+        }
+    ],
+    "date": "2014-11-03 20:48:00"
+}

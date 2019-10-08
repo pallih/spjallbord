@@ -1,0 +1,65 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "69288",
+    "title": "Kodi display vandamál",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=69288",
+    "posts": [
+        {
+            "user_name": "jardel",
+            "text": "Mál með vexti er það að ég er nota mxq android box við flatskjá sem styður ekki hdmi.\nÉg nota því rca kapal við það.\nÞað er allt af mikið zoom á myndinni ég sé aðeins 1/4 af heildar myndinni. Ég er er búinn að vera að leita mikið af upplýsingum um þetta lítið gengur. Er einhver hér sem getur aðstoðað mig?",
+            "date": "2016-04-27 00:11:00",
+            "post_id": "622933",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "russi",
+            "text": "ertu búin að fikta í upplausn á boxinu hjá þér?",
+            "date": "2016-04-27 00:21:00",
+            "post_id": "622934",
+            "reply_to_id": "622933"
+        },
+        {
+            "user_name": "jardel",
+            "text": "Já",
+            "date": "2016-04-27 00:41:00",
+            "post_id": "622935",
+            "reply_to_id": "622934"
+        },
+        {
+            "user_name": "Moldvarpan",
+            "text": "Vantar meiri upplýsingar. \nStyður android boxið ekki hdmi eða skjárinn? \nHvaða tengi möguleika hefurðu? \nRca er vonlaust.",
+            "date": "2016-04-27 00:48:00",
+            "post_id": "622936",
+            "reply_to_id": "622935"
+        },
+        {
+            "user_name": "jardel",
+            "text": "Skjárinn styður ekki hdmi. \nÞetta er ameriskur plasma skjár. Ath! Ekki sjónvarp\nÉg hef bara rca tengimöguleikan á skjánum.\nNetflix og fleira sé ég vel.\nÞetta er bara þegar ég nota kodi iptv addons.",
+            "date": "2016-04-27 01:38:00",
+            "post_id": "622938",
+            "reply_to_id": "622936"
+        },
+        {
+            "user_name": "Moldvarpan",
+            "text": "Eru engin önnur tengi á skjánum? Ekkert DVI eða neitt?\nÉg hef aldrei séð skjá, bara með RCA. \nErtu að segja þá að allt annað í þessu android boxi virkar eðlilega á skjánum hjá þér, en ef þú opnar kodi þá fer þetta í svona zoomaða mynd?",
+            "date": "2016-04-27 08:06:00",
+            "post_id": "622941",
+            "reply_to_id": "622938"
+        },
+        {
+            "user_name": "Molfo",
+            "text": "Sæll.  \nVarstu búinn að skoða þessar stillingar undir Settings-Appearance-Skin:\nhttp://kodi.wiki/view/Settings/Appearance#Skin\nÞegar þú ert þarna þá getur þú stillt Zoom á skjánum. Þú þarft bara að passa að þú sért með Settings level í Expert.\nGætir líka kíkt undir Settings-Video-Video output. Farið þar í Video calibration: \nhttp://kodi.wiki/view/Settings/System\n \nÉg þarf alltaf að breyta þessum stillingum þegar ég uppfæri Kodi á Android boxinu mínu.\nKv.\nMolfo",
+            "date": "2016-04-27 08:29:00",
+            "post_id": "622942",
+            "reply_to_id": "622941"
+        },
+        {
+            "user_name": "jardel",
+            "text": "Ég er búinn að prufa að fikta mig til í þessu. kemur ekkert út  úr því.\nKodi forritið virkar fínt ekkert zoom er á því. allt annað virkar vel. Nema þegar ég opna t.d bbc 1 í addons \nÉg sendi mynd sem viðhengi sem lýsir þessu vandamáli ég sé aðeins 1/4 af skjánum\nAnnars vill ég þakka kærlega fyrir góð viðbrögð undir þessum þráð.\nVonandi finnst einhver lausn á þessu.",
+            "date": "2016-04-27 20:27:00",
+            "post_id": "622989",
+            "reply_to_id": "622942"
+        }
+    ],
+    "date": "2016-04-27 00:11:00"
+}

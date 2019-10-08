@@ -1,0 +1,44 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "65832",
+    "title": "opna port á reuter",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=65832",
+    "posts": [
+        {
+            "user_name": "moogy",
+            "text": "Er að reyna að koma Nintendo 3DS i gang online, hef haft samband við bæði Símann og Nintendo.\nNintendo sagði mér bara að hafa samband við Símann og Síminn segist ekki díla við þessi mál og benti mér einungis á portforward.com\nÞegar ég spurði Nintendo staff um portforward þá fékk ég þetta svar :\nNo no. This is a thing you adjust in your router. Your routers firewall is the problem and you need to open new ports in it in order for your router to communicate correct to the servers. If you are uncertain on how to do this in your routers settings I would recommend you to contact your internet service provider. They know better on how to guide you in the settings on your router.\nÞannig ég fæ engan veginn hjálp með þetta en hef ekki hugmynd hvernig ég laga þetta.\nFirewall er disabled hjá mér, universal plug and play er on, er í channel 1.\nPC og PS3 online virkar vel en ekki 3DS eða Nintendo, fæ bara endalaus errors.\nHefur einhver lennt í þessu eða veit hvernig best er að díla við þetta og opna ports ?\nHef reynt það but failed miserably..",
+            "date": "2015-06-05 13:50:00",
+            "post_id": "599871",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "wicket",
+            "text": "Ef þú velur réttan router á portforward síðunni færðu skref fyrir skref leiðbeiningar hvernig á að gera þetta.\nÞArft að vita hvaða port þú ætlar að opna fyrir og þá passar routerinn að umferðin flæði rétt.",
+            "date": "2015-06-05 13:53:00",
+            "post_id": "599872",
+            "reply_to_id": "599871"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Portforward er með leiðbeiningar með myndum hvernig þetta er gert.",
+            "date": "2015-06-05 17:57:00",
+            "post_id": "599889",
+            "reply_to_id": "599872"
+        },
+        {
+            "user_name": "BugsyB",
+            "text": "þetta er ekkert mál. En portforward er með step by step leiðbeiningar og ef þú getur það ekk þá er bara borga e-h til að gera það",
+            "date": "2015-06-05 19:47:00",
+            "post_id": "599895",
+            "reply_to_id": "599889"
+        },
+        {
+            "user_name": "Plushy",
+            "text": "Get örugglega hjálpað þér með þetta. Ertu enn að lenda í þessum vandræðum?",
+            "date": "2015-07-01 10:30:00",
+            "post_id": "601333",
+            "reply_to_id": "599895"
+        }
+    ],
+    "date": "2015-06-05 13:50:00"
+}

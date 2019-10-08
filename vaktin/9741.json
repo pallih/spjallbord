@@ -1,0 +1,44 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "9741",
+    "title": "ATI Error",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=9741",
+    "posts": [
+        {
+            "user_name": "^Soldier",
+            "text": "Ég sendi hér inn póst ekki fyrir svo löngu síðan um vandamál sem tengdist skjákortinu mínu.  Pósturinn hét \"Vandamál að spila tölvuleiki\" og þar hafði ég ekki skjáskot af vandamálinu.  En nú hafa tímarnir breyst og ég náði skjáskoti af þessu helv***.\n\n\n\nHér er það:\n\nhttp://kasmir.hugi.is/kasmir/umsjon/synamynd.php3?kt=080486-2789&myndnafn=atierror.GIF\n\n\n\n\nÁður en ég fer að hringja í fyrirtækið sem seldi mér þetta langar mig að reyna að kippa þessu í lag með ykkar hjálp \n  Eins og ég les útúr þessum error þá kemur þetta ekkert vélbúnaðnum við, en þar sem ég er enginn snillingur í ensku þá væri frábært að fá smá aðstoð við að skilja þetta frá A-Ö.\n\n\n\n\n\nÞarna stendur eitthvað með driver version, ég er búinn að prufa marga drivera og það er ekkert skárra.\n\n\n\nEinnig stendur eitthvað AGP settings, það er still á 8x.. ekkert annað sem mér dettur í hug.\n\n\n\nOg graphics frame buffer size, hmmm.. veit ekki baun hvað er verið að meina.\n\n\n\n\n\nÞetta mun vera lokaúrræði þangað til ég hendi kortinu í ruslið og kveiki í því.. neinei segi svona \n\n\nEf einhver kannast við errorinn eða getur veitt mér einhverjar gagnlegar upplýsingar um sambandi við hann, ekki hika við að senda inn svar.\n\n\n\n( Skjákortið er að sjá í upplýsingunum hér að neðan \n )\n\n\n\nTakk fyrir.",
+            "date": "2006-01-19 20:17:00",
+            "post_id": "105619",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "Prófa að taka VPU recover af? Það á að vera eitthverstaðar í skjákort properties.",
+            "date": "2006-01-19 20:23:00",
+            "post_id": "105623",
+            "reply_to_id": "105619"
+        },
+        {
+            "user_name": "^Soldier",
+            "text": "Ok takk, gerði þetta og errorinn er allavega farinn =)\n\n\n\nEn veistu eitthvað hvað þetta VPU recover gerir?",
+            "date": "2006-02-08 12:33:00",
+            "post_id": "108301",
+            "reply_to_id": "105623"
+        },
+        {
+            "user_name": "DoRi-",
+            "text": "böggar þig í tölvuleikjum PUNKTUR",
+            "date": "2006-02-08 17:07:00",
+            "post_id": "108355",
+            "reply_to_id": "108301"
+        },
+        {
+            "user_name": "emmi",
+            "text": "VPU Recover endurræsir örrann í skjákortinu ef það koma upp einhverjar villur. Ekkert hættulegt og í fínu lagi að slökkva á þessu.",
+            "date": "2006-02-13 12:04:00",
+            "post_id": "108715",
+            "reply_to_id": "108355"
+        }
+    ],
+    "date": "2006-01-19 20:17:00"
+}

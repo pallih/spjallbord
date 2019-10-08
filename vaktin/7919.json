@@ -1,0 +1,100 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "7919",
+    "title": "Mun 2D í skjákortum hverfa innan skamms?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=7919",
+    "posts": [
+        {
+            "user_name": "appel",
+            "text": "Ég hef verið að velta þessu fyrir mér, því nú til dags eru nánast öll skjákort í raun TVÖ skjákort: 2D og 3D.\n\n\n\n2D er þá fyrir stýrikerfið, gluggaumhverfið, en á meðan 3D er fyrir tölvuleikina, eða aðra þrívíddarvinnslu.\n\nEn nú eru þessi skjákort orðin það öflug að til eru forrit sem nýta sér reiknigetu þeirra samhliða eða í stað örgjörvans í tölvunni. Ekki eru þau reyndar mörg, en þetta vekur samt upp spurningar eins og \"Er ekki bara langbest að útfæra alla skjávinnslu í 3D?\".\n\n\n\nReyndar vantar meiri \"fínleika\" í 3D kortin svo þau séu sambærileg 2D kortunum. Tæknilega veit ég ekki hvort það séu einhverjar mótbárur gegn þessari \"hugdettu\".\n\n\n\nHeld ég að það sé hægt að græða mikið á því að vera með alla skjávinnslu í 3D (rendering á gluggaumhverfi og forritum), þessi skjákort eru orðin mjög öflug og einnig myndi það létta á öðru álagi á vélbúnaði, s.s. örgjörvanum þar sem 2D vinnsla fer í gegnum hann.\n\n\n\nEru ekki einhver stýrikerfi sem eru búin að ganga þetta langt? MacOsX minnir mig?",
+            "date": "2005-04-07 21:02:00",
+            "post_id": "84279",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Man að ég las einhversstaðar að Longhorn muni nýta 3D vinnslu að einhverju leiti til þess að keyra gluggaumhverfið.\n\n\n\nEn góð pæling hjá þér, var ég ekki einmitt að hrósa þér um daginn fyrir annan góðan þráð? \n\n\nHefðir kannski mátt skella þessu í „Framtíð & þróun“ en þetta má líka vera hérna.\n\n\n\nEdit: Got it. „The next generation of Microsoft Windows, code-named \"Longhorn,\" will offer a hardware-accelerated user interface that will require a 3D graphics card. However, we don't expect that graphics cards will need to be overly brawny to run it. Besides, there will also be an alternative user interface as a fall-back option that won't require a fast 3D card at all.“ - Tomshardware.com",
+            "date": "2005-04-07 21:34:00",
+            "post_id": "84288",
+            "reply_to_id": "84279"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "Jú longhorn mun einmitt nýta 3d interface.. Ég hlakka svoldið til þess \n En annars Appel (er ekkert að vanvirða hina \"nýliðana\") en skemmtilegt að sjá skemmtilegar pælingar, og vel uppsetta pósta í senn",
+            "date": "2005-04-07 22:46:00",
+            "post_id": "84301",
+            "reply_to_id": "84288"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "það er reyndar ekki rétt hjá þér að 3D vinsla noti ekki örgjörfann. þvert á móti notar 3D vinsla örgjörfann meira en 2D í flestum tilvikum.\n\n\n\nÞað sem þú hefur líklegast verið að skoða er að með því að senda lítið forrit í shader hlutann af skjákortinu og láta það vinna úr gögnum. Það er samt lítið hægt að nota þetta í annað en að vinna með video, hljóð og aðra media vinslu.\n\n\n\nHvaða forrit hefuru annars séð sem að nýta sér þetta? hefuru séð einhver sem að nota PS2? því mér skylst að kortin verði að ráða við allavegana jafn langa shadera ogPS3.",
+            "date": "2005-04-07 22:54:00",
+            "post_id": "84302",
+            "reply_to_id": "84301"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Mig minnir að ég hafi verið að lesa grein á TomsHardware þar sem sagt var að uþb. 20% þeirra tölva sem seldar hafi í rauninni eitthvað við 3D hraðal að gera. Hinar eru þá líklega skrifstofu tölvur og annað slíkt. Slíkar tölvur hafa oftast lítið við meiri örgjörvakraft að gera.\n\nAð því viðbættu að 3D hraðlar eru þó nokkuð dýrari í framleiðslu en 2D skjákort held ég að það sé enþá stór markaður fyrir 3D hraðalslausar tölvur.",
+            "date": "2005-04-08 10:39:00",
+            "post_id": "84358",
+            "reply_to_id": "84302"
+        },
+        {
+            "user_name": "appel",
+            "text": "Tökum sem dæmi;\n\nNotandi fer á vefsíðu og sér þar óhemju flott Flash. Flash sýningar reiða sig á örgjörva tölvunnar og hægja þannig á henni. Aftur á móti ef Flash sýningar væru \"renderaðar\" í skjákortinu (3D) þá myndi notandinn ekki finna fyrir að hægjast myndi á tölvunni nema þá að FPS myndi \"droppa\", en önnur vinnsla héldi áfram eins og venjulega.\n\n\n\nVissulega þarf CPU'inn að framkvæma reikniaðgerðir til að nota GPU, en það myndi hinsvegar létta á álaginu á CPU'inn ef það færi fram svona \"dreifð\" vinnsla innan tölvunnar.\n\nSjáðu nú til, fólk notar 3D hraðalinn í tölvunni sinni AÐEINS þegar það spilar tölvuleiki, sem er sjaldan í mínu tilfelli, en allt sem fer fram í Windows reiðir sig á CPUinn og 2D möguleika skjákortsins. Þarna fer fram stórkostlega vannýting á mikilli reikni- og minnisgetu sem 3D hraðallinn býður upp á.\n\n\n\nEinnig er víst að í framtíðinni verður mikið af hugbúnaði sem reiðir sig á 3D renderingu, s.s. í flottara gluggaumhverfi og einnig með skjöl eins og Flash, eða bara Video skrár sem eru í raun real-time renderingar í staðinn fyrir ramma-based sýningar eins og AVI og MPEG.\n\n\n\n\n\nEn já, það mætti (mín vegna) alveg sameina 2D og 3D, þannig að í raun sé bara eitt skjákort. Held að tölvan sé alveg komin á það stig að það sé mögulegt.",
+            "date": "2005-04-08 14:46:00",
+            "post_id": "84383",
+            "reply_to_id": "84358"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "ég veit ekki með þig.. en ég er búinn að vera með eitt skjákort síðan 96.",
+            "date": "2005-04-08 15:00:00",
+            "post_id": "84385",
+            "reply_to_id": "84383"
+        },
+        {
+            "user_name": "appel",
+            "text": "Wake up and smell the 21'st century \n Síðan 96? Nærðu 1024x768??",
+            "date": "2005-04-08 15:16:00",
+            "post_id": "84388",
+            "reply_to_id": "84385"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "1920x1440 á þessum skjá.. kortið nær uppí 2048*1536",
+            "date": "2005-04-08 15:37:00",
+            "post_id": "84390",
+            "reply_to_id": "84388"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "Ertu ekki með Rad. 9700pro? Ekki datt mér það í hug að það væri svona gamallt",
+            "date": "2005-04-08 15:44:00",
+            "post_id": "84391",
+            "reply_to_id": "84390"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "ég sagði líka, \"ég er búinn að vera með eitt skjákort síðan 96\", ekki \"ég er búinn að vera með sama skjákortið síðan 96\"",
+            "date": "2005-04-08 15:49:00",
+            "post_id": "84392",
+            "reply_to_id": "84391"
+        },
+        {
+            "user_name": "appel",
+            "text": "Hver var þá tilgangurinn með þessari yfirlýsingu?",
+            "date": "2005-04-08 15:59:00",
+            "post_id": "84398",
+            "reply_to_id": "84392"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "",
+            "date": "2005-04-08 16:04:00",
+            "post_id": "84399",
+            "reply_to_id": "84398"
+        }
+    ],
+    "date": "2005-04-07 21:02:00"
+}

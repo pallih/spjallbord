@@ -1,0 +1,156 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "17201",
+    "title": "2x500 SATA-2 diskar ...Ekki að virka rétt!",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=17201",
+    "posts": [
+        {
+            "user_name": "AÐVÖRUN",
+            "text": "Sko ég keypti  2 svona harðadiska: \nhttp://www.computer.is/vorur/5867\n\n\n\n\nOg þeir eru ekki allveg að virka \n\nÉg lét up Windows XP BLACK EDITOIN (32xBIT)\n\nog skipti einum þeirra niður í 100GB og lét inn á hann stýrikefið\n\nþanning það voru 3 diskar sem komu upp þegar ég var að láta \n\nkefið ...Svo þegar ég er búin að þessu öllu þá fer ég inn í My computer..(í start) Og þar stendur bara 1 diskur 120gb...\n\nÞanning ég vissi ekkert hva ég ætti að gera og ég bara Formataði aftur....\n\nBúin að öllu fer í My computer og þar koma upp 2 diskar C/110gb og hinn 112GB..........\n\n\n\nVeit ekki ekkert hvað ég ætti að gera ...\n\n\n\n\n\nP.S. þá reyndi ég líka að láta upp Winows Vista 64xbit og það virkar ekki heldur , installa öllu hún restartar og þetta logo kemur upp sem er að hlaða eftir það þá kemur blárskjár með stöfum og hún RESTARTAST...\n\ngetur ykkhver sagt mér hvað er að þessu (eða bara báðum)\n\n\n\n\n\nOg P.S.  þeir koma upp harðadiskarnir í BIOS og þegar maður ýttir á TAB\n\nþegar maður kveikir á Tölvuni þá stendur að þeir séu þarna hmm... \n\n\n\n\n\n\n\nMy specs:\n\n\n\nAsus Striker Extreme  (modo)\n\nEVGA 8800GTS 320mb superclocked (Skjákort)\n\nSATA 2 - Western Digital (WD5000AAKS) 500 GB (Harðadiskur)\n\nSATA 2 - Western Digital (WD5000AAKS) 500 GB (Harðadiskur)\n\nIntel Core 2 Duo (Örgjafi)\n\n\n\nveit ekki hvort að það þurfi að segja meira en þetta ... \n\n\n\n\n\nKv.AÐVÖRUN\n\n\n\nTakk-Takk",
+            "date": "2008-02-23 16:44:00",
+            "post_id": "167787",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Dazy crazy",
+            "text": "þú hefur mjög líklega gert eina partition sem er 100 GB eins og þú segir en haft restina unpartitioned. Þú þarft að formatta hina hlutana líka sem fat 32 eða ntfs, held að yfirleitt sé notað ntfs.\n\n\n\nÞetta gerirðu með því að hægriklikka á my computer fara svo í manage, og disk management og þar ættirðu að sjá allar partitionirnar og báða diskana og getað formattað restina eins og þú vilt hafa það.",
+            "date": "2008-02-23 17:01:00",
+            "post_id": "167788",
+            "reply_to_id": "167787"
+        },
+        {
+            "user_name": "AÐVÖRUN",
+            "text": "Ok... En ætla að þá fyrst að láta upp Windows XP black editon \"DRASL\"--ið\n\n\n\nOg prófa þetta svo ???",
+            "date": "2008-02-23 17:06:00",
+            "post_id": "167790",
+            "reply_to_id": "167788"
+        },
+        {
+            "user_name": "Dazy crazy",
+            "text": "Black edition er gott stuff, er með það á fartölvunni þar sem serial keyinn á henni hætti að virka.\n\n\n\nHvaða útgáfu af honum ertu með?",
+            "date": "2008-02-23 17:17:00",
+            "post_id": "167791",
+            "reply_to_id": "167790"
+        },
+        {
+            "user_name": "AÐVÖRUN",
+            "text": "Ég er með bara Black edtion ...\n\nvar einu sinni með Experions man ekki hverning það er skrifað\n\nen það bara gott \"STUFF\" ... virkaði allt getur t.d. hægri klikkað í start \n.... miðaviða black editon",
+            "date": "2008-02-23 17:20:00",
+            "post_id": "167793",
+            "reply_to_id": "167791"
+        },
+        {
+            "user_name": "AÐVÖRUN",
+            "text": "Hey kemst ekki inn í þetta !\n\n\n\nFinn ekkert manage (nema þú sért að meina Device Manger)\n\nog ég finn ekkert disk management ..\n\n\n\nP.S.\n\nOg ég get ekki hægri klikkað á My computer í start \"ARG\" vegna þess að ég er að nota Windows XP Black editon !\n\nen það skiptir engu",
+            "date": "2008-02-23 17:46:00",
+            "post_id": "167796",
+            "reply_to_id": "167793"
+        },
+        {
+            "user_name": "Dazy crazy",
+            "text": "Þegar þú hægriklikkar á my computer kemur gluggi, þar stendu open,explore,search og \nmanage\n\n\n\n\nýtir á það og þá opnast computer management, þar inní því vinstra megin neðarlega stendur disk management og að komast þangað er fyrsta skrefið.\n\n\n\nsvo bara formattarðu diskana.",
+            "date": "2008-02-23 18:17:00",
+            "post_id": "167798",
+            "reply_to_id": "167796"
+        },
+        {
+            "user_name": "AÐVÖRUN",
+            "text": "Neib sry ekkert manage !",
+            "date": "2008-02-23 18:19:00",
+            "post_id": "167799",
+            "reply_to_id": "167798"
+        },
+        {
+            "user_name": "Dazy crazy",
+            "text": "prufaðu þá start,control panel, administrator tools, computer manage, disk manage.",
+            "date": "2008-02-23 18:57:00",
+            "post_id": "167802",
+            "reply_to_id": "167799"
+        },
+        {
+            "user_name": "HR",
+            "text": "Settu Service Pack2 (SP2) upp á tölvuna \n\n\n\n\nEf hann er ekki inni þá skynjar Windows ekki stærri diska en 120gb",
+            "date": "2008-02-23 23:15:00",
+            "post_id": "167824",
+            "reply_to_id": "167802"
+        },
+        {
+            "user_name": "Dazy crazy",
+            "text": "Eða það.",
+            "date": "2008-02-23 23:34:00",
+            "post_id": "167827",
+            "reply_to_id": "167824"
+        },
+        {
+            "user_name": "AÐVÖRUN",
+            "text": "Ok... þetta kemur upp svona !",
+            "date": "2008-02-24 00:11:00",
+            "post_id": "167838",
+            "reply_to_id": "167827"
+        },
+        {
+            "user_name": "AÐVÖRUN",
+            "text": "En bara get ekki formatað !",
+            "date": "2008-02-24 00:11:00",
+            "post_id": "167839",
+            "reply_to_id": "167838"
+        },
+        {
+            "user_name": "HR",
+            "text": "Hægriklikkaðu bara á vinstri helminginn af diskinum og veldu ,,Create Partion eða Format, man það ekki alveg. Það ætti allvegavegana að virka",
+            "date": "2008-02-24 00:17:00",
+            "post_id": "167841",
+            "reply_to_id": "167839"
+        },
+        {
+            "user_name": "AÐVÖRUN",
+            "text": "Ok gerði það þá kom upp FREE SPACE ..en diskanir koma ekki upp í My computer á ég ekki bara að restarta ???",
+            "date": "2008-02-24 00:24:00",
+            "post_id": "167843",
+            "reply_to_id": "167841"
+        },
+        {
+            "user_name": "Dazy crazy",
+            "text": "þú þarft að formatta þá líka og ég held að best sé að formatta þá sem ntfs.",
+            "date": "2008-02-24 00:37:00",
+            "post_id": "167848",
+            "reply_to_id": "167843"
+        },
+        {
+            "user_name": "AÐVÖRUN",
+            "text": "Get það ekkert ..Allavega þarna !",
+            "date": "2008-02-24 00:42:00",
+            "post_id": "167852",
+            "reply_to_id": "167848"
+        },
+        {
+            "user_name": "Dazy crazy",
+            "text": "Það er nú eitt svolítið sniðugt þarna sem ég sé að þú getur smellt á og það er HELP flipinn.",
+            "date": "2008-02-24 00:48:00",
+            "post_id": "167856",
+            "reply_to_id": "167852"
+        },
+        {
+            "user_name": "AÐVÖRUN",
+            "text": "Jááá eins og hann segir mikið !",
+            "date": "2008-02-24 00:52:00",
+            "post_id": "167858",
+            "reply_to_id": "167856"
+        },
+        {
+            "user_name": "AÐVÖRUN",
+            "text": "En já þetta er ekki en komið í lag ???",
+            "date": "2008-02-24 14:11:00",
+            "post_id": "167896",
+            "reply_to_id": "167858"
+        },
+        {
+            "user_name": "lukkuláki",
+            "text": "Eyddu þessum grænu partitions sem er EXTENDED PARTITIONS þannig að þetta verði aftur 'UNALLOCATED' farðu þar sem stendur 'DISK1' og 'DISK0' hægriklikkaðu veldu 'NEW VOLUME' eða 'INITALIZE DISK' síðan ættirðu að getað formatað.\n\n\n\nEða ef þetta virkar ekki hægri klikkaðu þá á UNALLOCATED og veldu NEW PARTITION og NEXT síðan velurðu PRIMARY PARTITON og NEXT NEXT NEXT Breytir engu nema þá nafninu á diskinum og svo velurðu annaðhvort Format eða quick format NEXT og FINISH.\n\n\n\nEr þetta þá ekki komið ?",
+            "date": "2008-03-11 09:33:00",
+            "post_id": "169678",
+            "reply_to_id": "167896"
+        }
+    ],
+    "date": "2008-02-23 16:44:00"
+}

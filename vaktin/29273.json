@@ -1,0 +1,44 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "29273",
+    "title": "Leikur höktir, nýtir ekki allt skjákortið",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=29273",
+    "posts": [
+        {
+            "user_name": "Enginn",
+            "text": "Ég er að reyna að spila Guitar Hero 3 í tölvunni minni en því miður höktir hann stanslaust. Ég skoðaði MSI afterburner \"graphs\" og sá að leikurinn var langmestan tíma að keyra í 157/300 en fer stundum í 600/eitthvað. Hann fer aldrei upp í 890/1225 eins og hann ætti að gera. Einhverjar hugmyndir hvernig ég geti leyst þetta?\nHann er stöðugur í 157/300 eftir að hafa spilað 5 mínútna lag og þetta er alveg agalegt. Ég þarf hjálp!",
+            "date": "2010-03-29 15:45:00",
+            "post_id": "253318",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "hjortur",
+            "text": "ég vil meina að thu sert a of goðri tölvu:)",
+            "date": "2010-03-29 15:49:00",
+            "post_id": "253320",
+            "reply_to_id": "253318"
+        },
+        {
+            "user_name": "Hnykill",
+            "text": "Hljómar eins og kortið sé bara í idle mode allan tíman meðan þú ert að spila. þau gera það flest meðan maður er í non-3d application þar sem það þarf ekki svaka juice til að keyra Win og þvíumlíkt.\ngetur notað overclock flipann í Rivatuner til að gera \"force constant performance\" til að láta kortið keyra á fullum hraða óháð hverju þú ert í. \nhttp://downloads.guru3d.com/RivaTuner-v ... d-163.html\n    Getur skoðað þetta allavega",
+            "date": "2010-03-29 18:46:00",
+            "post_id": "253363",
+            "reply_to_id": "253320"
+        },
+        {
+            "user_name": "Enginn",
+            "text": "Þetta er í NVidida tabinu en ekki í ATI tabinu. Hvað get ég gert",
+            "date": "2010-03-29 19:49:00",
+            "post_id": "253381",
+            "reply_to_id": "253363"
+        },
+        {
+            "user_name": "Hnykill",
+            "text": "Ég er svo freðinn eitthvað núna að mér dettur ekkert í hug :/\nReyna kannski að keyra einhvern léttan 3d leik í windows mode \"ekki fullscreen\" og starta svo GH upp?",
+            "date": "2010-03-29 20:52:00",
+            "post_id": "253387",
+            "reply_to_id": "253381"
+        }
+    ],
+    "date": "2010-03-29 15:45:00"
+}

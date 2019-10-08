@@ -1,0 +1,72 @@
+{
+    "forum_title": "Windows",
+    "id": "35357",
+    "title": "Hægfara tölva :(",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=35357",
+    "posts": [
+        {
+            "user_name": "Stubburinn",
+            "text": "Sælir vaktarar.\nVeit að ef einhverjir geta aðstoðað mig þá eru það þið \nÞannig er má með vexti að ég er með Acer Aspire 6930 og hérna er smá hvað er í henni\nOperating System\n\tMS Windows Vista Home Premium 32-bit SP2\nCPU\n\tIntel Mobile Core 2 Duo P7350  @ 2.00GHz\t59 °C\n\tPenryn 45nm Technology\nRAM\n\t4.0GB Dual-Channel DDR2 @ 332MHz (5-5-5-15)\nMotherboard\n\tAcer, Inc. Makalu (U2E1)\nGraphics\n\tGeneric PnP Monitor @ 1360x768\n512MB GeForce 9600M GS (Acer Incorporated [ALI])\t52 °C\nHard Drives\n\t313GB Western Digital WDC WD3200BEVT-22ZCT0 (SATA)\nNúna síðustu mánuði hefur farið að hægja á sér og er orðin alveg skelfileg í leikjum, eins þegar maður ræsir einhver forrit þá er hún lengi að því og byrjar oft með (not responding).\nVeit að þetta eru ekki góð lýsing en þó alla vega byrjunin.\nEr búinn að taka til í start up-inu og búinn að hreinsa aðeins út af forritumen það virðsit breyta litlu   \n \nEn alla vega ef þið sjáið ykkur fært um að aðstoða mig þá myndi ég þyggja það með þökkum \nKv. Skúli",
+            "date": "2011-01-12 10:18:00",
+            "post_id": "311972",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Myndi byrja á því að skoða CPU vinnslu í idle og rólegri vinnslu, sjá hvort hún sé óeðlilega hág. Alltaf góð byrjun að keyra CCleaner, Malwarebytes og góða vírusvörn, MSE t.d. bara til að útiloka að þetta séu e-rjar veirur að hrjá þig.\nAnnars er spurning um að skoða vélbúnaðinn, keyra þá sérstaklega prófanir á harða disknum hjá þér og sjá hvort hann sé farinn að gefa frá sér e-rjar villur eða hægja hreinlega á sér.\nÞað er líka vert að skoða hitastigið á örgjörvanum, getur verið að tölvan sé full af ryki og viftan sé alltaf í 100% vegna hitavandamála?\nEf ekkert af þessu reynist hjálpsamt er það bara gamla góða \"Format C:\\\"",
+            "date": "2011-01-12 10:39:00",
+            "post_id": "311976",
+            "reply_to_id": "311972"
+        },
+        {
+            "user_name": "Bioeight",
+            "text": "ertu að nota gamebooster?",
+            "date": "2011-01-12 10:52:00",
+            "post_id": "311981",
+            "reply_to_id": "311976"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Þar sem þú ert bara með einn HDD, er hann ekki bara að fyllast og er fragmentaður?\nDefragment og eyða öllu klámi = good to go.\nMæli líka með Ccleaner af piriform.com til \"hreinsunarstarfa\" í tölvunni...",
+            "date": "2011-01-12 13:19:00",
+            "post_id": "312013",
+            "reply_to_id": "311981"
+        },
+        {
+            "user_name": "Stubburinn",
+            "text": "Góðan daginn og takk fyrir svörin.\n@ AntiTrust Var búinn að keyra CCleaner og vírusleita, það virtist ekki breyta neinu. CPU virðist ekki vera að keyra neitt óeðlilega 54-9C° aftur á móti er harði diskurinn í 55-7C°. Hvaða prófun get ég sett á harða diskinn, er þetta kannski bara allt of heitt hjá mér  \n . Ætla að reyna að sleppa við format, ekki alveg á rétta staðnum til að ná í drivera og það allt. \n@ Bioeight nei er ekki að nota neitt svoleiðis.\n@ rapport Já það er bara einn HDD en hann er tvískiptur og það fer mest af ruslinu þangað, nei passa vel upp á að það sé nóg pláss eftir. Fragmenta einu sinni í viku, klámið er allt á flökkurum \nKv. Skúli",
+            "date": "2011-01-13 04:01:00",
+            "post_id": "312251",
+            "reply_to_id": "312013"
+        },
+        {
+            "user_name": "BjarniTS",
+            "text": "Vista svo leiðinlegt.\nErtu med skraut á desktopinu?\nKlukkur , dagatöl og álíka?",
+            "date": "2011-01-13 07:15:00",
+            "post_id": "312259",
+            "reply_to_id": "312251"
+        },
+        {
+            "user_name": "Stubburinn",
+            "text": "Nibb ekkert svoleiðis........",
+            "date": "2011-01-13 07:44:00",
+            "post_id": "312260",
+            "reply_to_id": "312259"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Er ekki \"resource manager\" í Vista eins og í Win7?\nHefur þú prófað að skoða hann og gá hvaða element í tölvunni eru að keyra undir álagi?\nSvo er líka spurning um að tékka í MMC á loggum hvort það séu að koma einhverjar villur...",
+            "date": "2011-01-13 08:38:00",
+            "post_id": "312268",
+            "reply_to_id": "312260"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Ég held að stærri spurning sé nú álagið (%) en ekki hitinn. Sem og minnisnotkunar%. Þú átt að geta séð þetta auðveldlega í task manager (og einmitt, var ekki resource monitor í honum í Vista?)",
+            "date": "2011-01-13 09:07:00",
+            "post_id": "312269",
+            "reply_to_id": "312268"
+        }
+    ],
+    "date": "2011-01-12 10:18:00"
+}

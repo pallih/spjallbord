@@ -1,0 +1,135 @@
+{
+    "forum_title": "Þjónusta / Viðgerðir",
+    "id": "63824",
+    "title": "tölva vil ekki ræsa sig",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=13&t=63824",
+    "posts": [
+        {
+            "user_name": "andribolla",
+            "text": "Góðan Dag\nÉg er með eina tölvu sem ekki vil ræsa sig\nBios mynd kemur á skjáinn og hún stoppar bara þar\nlyklaboð er ekki virkt\nÞað sem ég er búin að prófa\n- Skipta um aflgjafa\n- Skipta um örgjörva\n- Víxla minnum og hafa eitt og eitt í.\n- Hreinsa Cmos\nEithverjar hugmyndir ?\ner móðurborðið ónnýtt ?\nkv. Andri",
+            "date": "2014-12-31 09:09:00",
+            "post_id": "585390",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Er \nPS/2 tengi\n á móðurborðinu? Um að gera að prófa hvort það virkar þó USB sé ekki virkt.\nKom eitthvað fyrir áður en þetta hætti að boota sig upp? T.d. skiptir um harðan disk eða tókst einn úr?",
+            "date": "2014-12-31 09:30:00",
+            "post_id": "585391",
+            "reply_to_id": "585390"
+        },
+        {
+            "user_name": "andribolla",
+            "text": "Hver á eiginlega ps2 lyklaboð í dag ? \n hehe\nþað er ps2 tengi á þessu borði, ég á að eiga eitt ps2 lyklaborð í vinnuni samt\nen ætti hún samt ekki að fara í mem test eða leita að hdd ?\nþað er reyndar enginn hdd við þetta eins og er.\nkv. Andri",
+            "date": "2014-12-31 09:35:00",
+            "post_id": "585392",
+            "reply_to_id": "585391"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Haaaa? Hvert ætti hún þá að geta farið? \nPrófaðu að hafa eitthvað sem hún getur yfir höfuð bootað upp af sama hvort það er CD drif eða HDD tengt, annars bara já prófa PS/2 leiðina og gá hvort hún hleypir þér ekki í BIOS o.fl.",
+            "date": "2014-12-31 10:31:00",
+            "post_id": "585398",
+            "reply_to_id": "585392"
+        },
+        {
+            "user_name": "andribolla",
+            "text": "Já það er enginn hdd, þar sem hún stoppar bara þarna á fyrsta skerfinu\nhún fer ekki í það að prófa minnið",
+            "date": "2014-12-31 10:49:00",
+            "post_id": "585402",
+            "reply_to_id": "585398"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Hún ætti að fara fram hjá post skjánum sama hvort það væri hdd tengdur.",
+            "date": "2014-12-31 16:38:00",
+            "post_id": "585448",
+            "reply_to_id": "585402"
+        },
+        {
+            "user_name": "Maniax",
+            "text": "Getur prófað backup BIOS'inn, Heldur Power takkanum inní 10-15 sec og þá ætti hún að byrja recovera frá backup bios næst þegar þú ræsir hana",
+            "date": "2014-12-31 17:55:00",
+            "post_id": "585452",
+            "reply_to_id": "585448"
+        },
+        {
+            "user_name": "andribolla",
+            "text": "Það virðist ekki vera að virka fyrir mig :S",
+            "date": "2014-12-31 19:01:00",
+            "post_id": "585459",
+            "reply_to_id": "585452"
+        },
+        {
+            "user_name": "Bjosep",
+            "text": "Langsótt kannski, prufað önnur minni ?",
+            "date": "2015-01-01 04:58:00",
+            "post_id": "585477",
+            "reply_to_id": "585459"
+        },
+        {
+            "user_name": "andribolla",
+            "text": "Hugdetta.\nhvernig myndi tölvan hagasér ef rafhlaðan fyrir biosin er búin ?",
+            "date": "2015-04-02 21:05:00",
+            "post_id": "595212",
+            "reply_to_id": "585477"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Þá á biosinn að fara í default stillingar ef þú slekkur á öllu rafmagni s.s. tekur úr sambandi eða slekkur á PSU, hún á að halda BIOS stillingum inni svo lengi sem hún er tengd við rafmagn.",
+            "date": "2015-04-02 21:39:00",
+            "post_id": "595217",
+            "reply_to_id": "595212"
+        },
+        {
+            "user_name": "andribolla",
+            "text": "Þannig ég get bara hent þessu móðurborði í tunnuna",
+            "date": "2015-04-02 21:44:00",
+            "post_id": "595218",
+            "reply_to_id": "595217"
+        },
+        {
+            "user_name": "Moldvarpan",
+            "text": "Já, þú ert búinn að útiloka örgjörvan, minni og aflgjafann.\nBatteríið hefur ekkert með þetta að gera, það er vel hægt að kveikja á tölvum með engu batteríi.\nMóðurborðið er ónýtt, það er búið að útiloka allt annað sem gæti haft áhrif á POST-ið á BIOS-inum.",
+            "date": "2015-04-02 21:57:00",
+            "post_id": "595219",
+            "reply_to_id": "595218"
+        },
+        {
+            "user_name": "methylman",
+            "text": "Hvernig eru Halt on error stillingarnar í BIOS None / All osv.frv",
+            "date": "2015-04-05 00:17:00",
+            "post_id": "595397",
+            "reply_to_id": "595219"
+        },
+        {
+            "user_name": "andribolla",
+            "text": "Ræsinginn fer bara ekki svo langt að opna bios.",
+            "date": "2015-04-05 10:21:00",
+            "post_id": "595407",
+            "reply_to_id": "595397"
+        },
+        {
+            "user_name": "brain",
+            "text": "Varstu búinn að prófa að resetta bios ?",
+            "date": "2015-04-05 10:25:00",
+            "post_id": "595408",
+            "reply_to_id": "595407"
+        },
+        {
+            "user_name": "andribolla",
+            "text": "Já ég var búin að googla eithvað svona og það virkaði ekki",
+            "date": "2015-04-05 11:13:00",
+            "post_id": "595412",
+            "reply_to_id": "595408"
+        },
+        {
+            "user_name": "brain",
+            "text": "ég meinti hard reset á móðurborðinu.",
+            "date": "2015-04-05 12:50:00",
+            "post_id": "595420",
+            "reply_to_id": "595412"
+        }
+    ],
+    "date": "2014-12-31 09:09:00"
+}

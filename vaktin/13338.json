@@ -1,0 +1,79 @@
+{
+    "forum_title": "Yfirklukkun, hraðaprófanir og mods",
+    "id": "13338",
+    "title": "Vandræðum með yfirklukkun",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=1&t=13338",
+    "posts": [
+        {
+            "user_name": "Tjobbi",
+            "text": "Sælir.\n\n\n\nÉg er í smávegis vandræðum með að yfirklukka.\n\n\n\nÉg er með asus a8n-sli, amd 3700 og g-skill 2x1gb ddr500 cl 3\n\n\n\nÖrgjafinn er vatnskældur og er eitthvað um 20-25° stock\n\n\n\nFyrsta tilraunin hjá mér með nýju minnin gékk eins og í sögu.\n\n\n\n227x11 @ 2.5ghz, minnin stock.\n\n\n\nSíðan prufaði ég að hækka hann í 2.6 og allt runnaði smooth enn, 28-32°\n\n\n\nNú vildi ég hækka minnin. þau eru 2.5v stock. ég setti örrann í  2.5 og hækkaði voltin í 2.65 og rebootaði.\n\n\n\nWindows startaði, en engir stafir voru. Síðan restartaði hún sér 3 þangað til að ég breytti minnunum aftur í stock.\n\n\n\nAfhverju fæ ég þau ekki stabíl? þessi minni eiga að komast uppi 2.8v \n\n\n\n\n\n\nGetur einhver komið með góð ráð handa mér.  \n\n\n\n\nps. ég veit ekki það mikið um yfirklukkun þannig að endilega bendið mér á ef ég er að gera einhverjar villur.",
+            "date": "2007-02-20 10:51:00",
+            "post_id": "139611",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Yank",
+            "text": "Ertu viss um að þetta sé minnið. \n\n\n\nKeyrðu memtest á þetta oc til þess að finna út hvort það sé minnið sem sé að klikka.",
+            "date": "2007-02-20 17:34:00",
+            "post_id": "139628",
+            "reply_to_id": "139611"
+        },
+        {
+            "user_name": "Tjobbi",
+            "text": "Hvar og hvernig keyri ég þetta memtest?",
+            "date": "2007-02-20 21:53:00",
+            "post_id": "139641",
+            "reply_to_id": "139628"
+        },
+        {
+            "user_name": "zedro",
+            "text": "1.) Sækja -> \nhttp://www.memtest86.com/memtest86-3.2.iso.zip\n\n\n2.) Unzipa\n\n3.) Brenna disk imaginn á CD-RW (nema þú viljir fórna CD-R)\n\n4.) Skella honum í geisladrifið\n\n5.) Reboot\n\n6.) Ef geisladrifið er númer 1 í boot röðinni ætti memtest að keyra upp. Ef ekki....\n\n7.) Fara í bios og stilla geisladrifið nr.1 í boot röðinni og savea. Eftir saveið rebootar tölvan sér og memtestið ætti að byrja.",
+            "date": "2007-02-21 00:40:00",
+            "post_id": "139647",
+            "reply_to_id": "139641"
+        },
+        {
+            "user_name": "Tjobbi",
+            "text": "Þakka þér",
+            "date": "2007-02-21 08:42:00",
+            "post_id": "139654",
+            "reply_to_id": "139647"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "Ég mæli með að brenna þetta á duallayer DVD-r disk",
+            "date": "2007-02-21 09:23:00",
+            "post_id": "139656",
+            "reply_to_id": "139654"
+        },
+        {
+            "user_name": "Taxi",
+            "text": "Eins og þú ert vanur að gera.",
+            "date": "2007-02-21 09:46:00",
+            "post_id": "139657",
+            "reply_to_id": "139656"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Eða skella sér á DFI móðurborð. Eru með stillingu í BIOSnum að boota beint í memtest",
+            "date": "2007-02-21 12:26:00",
+            "post_id": "139671",
+            "reply_to_id": "139657"
+        },
+        {
+            "user_name": "Tjobbi",
+            "text": "Takk en nei takk \n\n\n\n\nEr fjári ánægður með asus borðið mitt og er viss um að það sé ekki flöskuhálsinn í þessu öllu saman.",
+            "date": "2007-02-21 12:41:00",
+            "post_id": "139672",
+            "reply_to_id": "139671"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Tjah, DFI er nú talinn kóngurinn af s939 yfirklukkun og hann Ómar gæti hugsanlega enn haft það til sölu á þrusuverði",
+            "date": "2007-02-21 13:22:00",
+            "post_id": "139673",
+            "reply_to_id": "139672"
+        }
+    ],
+    "date": "2007-02-20 10:51:00"
+}

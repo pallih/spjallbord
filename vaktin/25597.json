@@ -1,0 +1,51 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "25597",
+    "title": "Vandamál með netið!",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=25597",
+    "posts": [
+        {
+            "user_name": "JohnnyX",
+            "text": "Þannig er mál með vexti að reglulega byrja erlendar netsíður að fail-a en samt ekki allar. Maður tekur mest eftir því að facebook virkar ekki og svo líka þegar að maður er t.d. að skoða linka þá virka þeir oft ekki. Þetta lýsir sér þannig að óra tíma tekur að load-a síðunni og svo þegar að það er loksins búið kemur hún öll brengluð tilbaka. Ég er búinn að hringja niður í þjónustuver 3svar sinnum útaf þessu vandamáli (hefur gerst 3svar áður) og þá var lausnin að breyta um IP tölu sem að þeir gerðu fyrir mig. Þetta vandamál er farið að vera svo reglulegt að þetta er farið að pirra mig. Þannig að ég fór að pæla hvort að þetta gæti verið rouderinn minn. Hann er kominn kannkski til ára sinna. \nRouderinn: Ericsson HN294dp\nhttp://www.scribd.com/doc/13633292/HN294dp\nhttp://www.anteny.net/modem-adsl-ericss ... ge-en.html\nÉg spyr hvort að einhverjum detti í hug hvort að þetta gæti verið vandamál sem að ætti rætur sínar að rekja til mín eða hvort það liggi hjá Vodafone. Ég er með 8mbit hjá þeim.",
+            "date": "2009-10-19 12:02:00",
+            "post_id": "222839",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ef þetta á eingöngu við um erlendar síður get ég ekki séð hvernig það ætti að tengjast routernum þínum.\nEf þetta á hinsvegar eingöngu við um tölvuna þína, er líklegast um staðbundið hugbúnaðvandamál að ræða.",
+            "date": "2009-10-19 13:09:00",
+            "post_id": "222842",
+            "reply_to_id": "222839"
+        },
+        {
+            "user_name": "JohnnyX",
+            "text": "er með 5 tölvur á heimilinu og þetta er svona í öllum. Ein sett upp fyrir viku önnur í gær og hinar fyrir stuttu síðan. Efa að þetta sé hugbúnaðarvandamál ef að þetta er í þeim öllum",
+            "date": "2009-10-19 14:10:00",
+            "post_id": "222849",
+            "reply_to_id": "222842"
+        },
+        {
+            "user_name": "JohnnyX",
+            "text": "any ideas?",
+            "date": "2009-10-20 12:38:00",
+            "post_id": "222959",
+            "reply_to_id": "222849"
+        },
+        {
+            "user_name": "mind",
+            "text": "http://www.wireshark.org/\nSettu upp hjá þér , láttu það hlusta á rétt netkort.\nHafðu eitthvað sérstakt form í 2min eða svo á því hvað þú skoðar á netinu t.d. innlent eða erlent.\nAthugaðu reglulega wireshark og leitaðu af villum.  Svona blint á giskað myndi ég halda þeir séu að droppa ACK pökkum á erlendum síðum sem myndi þýða að það sé verið að throttla tenginguna.\nÞegar þú ert færður um IP tölu ætti talningin á gagnamagninu þínu væntanlega að núllstillast.\nNú annars bara kemurðu með niðustöðunar hingað.",
+            "date": "2009-10-20 14:29:00",
+            "post_id": "222972",
+            "reply_to_id": "222959"
+        },
+        {
+            "user_name": "JohnnyX",
+            "text": "takk fyrir þetta \n Prófa þetta þegar að ég kem heim",
+            "date": "2009-10-20 14:33:00",
+            "post_id": "222974",
+            "reply_to_id": "222972"
+        }
+    ],
+    "date": "2009-10-19 12:02:00"
+}

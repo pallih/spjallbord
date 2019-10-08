@@ -1,0 +1,100 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "50019",
+    "title": "Hvaða router á ég fá mér? Tillögur vel þegnar.",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=50019",
+    "posts": [
+        {
+            "user_name": "eiduur",
+            "text": "Hef nú ákveðið að taka stökkið yfir til Hringdu en líst ekkert of vel á routerinn sem þeir eru að bjóða uppá. Hef verið að skoða þetta undanfarna daga en hef varla komist að neinni niðurstöðu. \nVissi t.d. af því að Cisco/Linksys routerarnir hefðu yfirleitt mjög gott orðspor á sér en þeir sem eru til sölu hjá OK virðast vera að fá heldur slæma dóma.\n- So. \n Hvaða router mælið þið með? Allar tillögur og reynslusögur vel þegnar. (Tek fram að ég er að leita að ADSL router og helst e-m sem fæst hér innanlands)",
+            "date": "2012-08-28 15:21:00",
+            "post_id": "463535",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Start voru með mjög góða TP-Link routera á mjög góðu verði, myndi skoða þá.",
+            "date": "2012-08-28 18:27:00",
+            "post_id": "463575",
+            "reply_to_id": "463535"
+        },
+        {
+            "user_name": "depill",
+            "text": "Ég myndi mæla með ZyXEL P-870, VDSL2 router(ADSL fallback), þá ertu öruggur uppí Ljósnetið. Thomson TG589vn er líka ágætur, en ég er hrifnari af ZyXELinu. Þetta eru bæði mjög fínir routerar. Hins vegar er ZyXELinn ja hann býður uppá meiri breytingar og það er auðveldara eiga við hann og mér \"finnst\" eins og hann sé með meira troughput.\nLow-end(ódýrustu) ADSL routerar verða allir eins, enda prófuðum við mikið af Edimax, TP-Link, Trendnet o.s.frv. Einhvern tíman fengum við frá einum framleiðandum með interfacei frá hinum og þá var nú bara hreinlega skýringin að þetta var framleitt af sama fyrirtækinu, bara mismunandi interface og jafnvel möguleikar\nCisco/Linksys ( Cisco Home ) styður ekki IPTV nema þá á einhverju hálfu módeli og ég man ekki eftir VDSL útgáfu frá þeim en það gæti verið. Mæli samt ekki með þessum ódýrari.\nSíðast þegar ég vissi er Thomsonin 589 til á 9.990 uppí Hringdu, en þarft væntnalega að sérpanta ZyXELinn hann kostar 12.990 held hann sé ekki ódýrari annars staðar, en ég mæli með honum.",
+            "date": "2012-08-28 19:28:00",
+            "post_id": "463585",
+            "reply_to_id": "463575"
+        },
+        {
+            "user_name": "Magni81",
+            "text": "Nú er ég forvitinn, ég er með ljósleiðara(hver er munurinn á ljósneti og ljósleiðara?) frá Símanum og er með Thomson TG789vn. Er þetta semsagt fín router eða get ég fengið betri?",
+            "date": "2012-08-28 19:47:00",
+            "post_id": "463594",
+            "reply_to_id": "463585"
+        },
+        {
+            "user_name": "Demon",
+            "text": "Get því miður ekki mælt með þeim.\nEr með einn frá start.is (WR1043ND) og hef verið að nota hann í sirka 5 mánuði.\nHann var nokkuð stabíll fyrst um sinn, þurfti þó að restarta honum svona viku fresti eða svo þar sem öll tenging við netið bara datt út uppúr þurru og ekki var hægt að komast inn á 192.168.1.1.\nNúna gerist þetta svona annan hvern dag og ég þekki fleiri með sama router og sama vandamál.",
+            "date": "2012-08-28 21:43:00",
+            "post_id": "463632",
+            "reply_to_id": "463594"
+        },
+        {
+            "user_name": "eiduur",
+            "text": "Ljósleiðari er leiddur alla leið inn í hús en Síminn fer auðveldari (og ódýrari) leiðina og leiðir ljósleiðarann inn í götuskáp og notar svo gamla koparinn upp að húsi. Skilar þetta sér þó skiljanlega í minni hámarkshraða.",
+            "date": "2012-08-28 22:01:00",
+            "post_id": "463643",
+            "reply_to_id": "463632"
+        },
+        {
+            "user_name": "eiduur",
+            "text": "@Depill\nVæri þá mögulegt að fá hann sendan norður?",
+            "date": "2012-08-28 22:06:00",
+            "post_id": "463646",
+            "reply_to_id": "463643"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Ég keypti 2 eða 3 frá þeim og allir svínvirka ennþá. Eins og öll önnur raftæki bilar þetta, hefuru íhugað að fara með hann niður til Start og láta þá skoða hann?",
+            "date": "2012-08-28 22:15:00",
+            "post_id": "463651",
+            "reply_to_id": "463646"
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Ég held að þetta sé vandamál við stock firmware-ið í routerinum. Ég fann fyrir svipuðu vandamáli áður en ég setti upp OpenWrt. Eftir það þá hef ég ekki endurræst routerinn.",
+            "date": "2012-08-28 22:20:00",
+            "post_id": "463656",
+            "reply_to_id": "463651"
+        },
+        {
+            "user_name": "Demon",
+            "text": "Ætlaði einmitt að fara athuga hvort það myndi ekki redda þessu. Maður þarf greinilega að fara drífa í þessu.",
+            "date": "2012-08-28 23:49:00",
+            "post_id": "463715",
+            "reply_to_id": "463656"
+        },
+        {
+            "user_name": "eiduur",
+            "text": "@Depill\nMunar miklu á Zyxel-inum og Thomson routernum?? \nFinnst nefnilega góður kostur að hafa NAS/DLNA og finnst líka Zyxel-inn eiginlega heldur ljótur til þess að hafa á áberandi stað í íbúðinni...  \n (erum við ekki annars að tala um þennan: \nhttp://bit.ly/QzyGpk\n ?)",
+            "date": "2012-08-29 21:10:00",
+            "post_id": "463878",
+            "reply_to_id": "463715"
+        },
+        {
+            "user_name": "depill",
+            "text": "Nei troughputið er svipað en aðeins betra á Zyxelinu. Auðveldara að customiza og gera breytingar á ZyXELinum. \nThomson er ódýrari, töluvert myndarlegri og bara almennt mjög góður router og auðvita ADSL/VDSL2 router og á fínu verði.\nOg jú þetta er rétt mynd, smá modified útgáfa að gamla \"geimskipinu\"",
+            "date": "2012-08-30 00:26:00",
+            "post_id": "463929",
+            "reply_to_id": "463878"
+        },
+        {
+            "user_name": "eiduur",
+            "text": "Heyrðu ókei. Takk fyrir góð svör allir.\nÆtla að reyna að koma þessu í verk í dag...",
+            "date": "2012-08-30 13:33:00",
+            "post_id": "464027",
+            "reply_to_id": "463929"
+        }
+    ],
+    "date": "2012-08-28 15:21:00"
+}

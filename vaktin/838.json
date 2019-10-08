@@ -1,0 +1,30 @@
+{
+    "forum_title": "Leikjasalurinn",
+    "id": "838",
+    "title": "ID number á spilurum",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=14&t=838",
+    "posts": [
+        {
+            "user_name": "DarkAngel",
+            "text": "Hvernig er hægt að sjá id number á spilurum og hvar er hægt að sjá öll nick sem þessir spilarar hafa verið með \n\n\nvar það annars ekki hægt",
+            "date": "2003-06-06 21:52:00",
+            "post_id": "6423",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "http://skjalfti.simnet.is/hlstats/\n\n\n\n\nMuna að gera status í console og síðan condump og þá verður til skrá sem heitir condumpXX.txt og neðst í henni finnuru statusið. síðan tekuru WONID af þeim spilara sem þú ert að tékka og leitar af WONID-inu hans í hlstats. Vaktin er ekki með hlstats, ekki svo að ég viti ?",
+            "date": "2003-06-06 22:21:00",
+            "post_id": "6424",
+            "reply_to_id": "6423"
+        },
+        {
+            "user_name": "DarkAngel",
+            "text": "ok thx",
+            "date": "2003-06-11 18:20:00",
+            "post_id": "6570",
+            "reply_to_id": "6424"
+        }
+    ],
+    "date": "2003-06-06 21:52:00"
+}

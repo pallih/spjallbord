@@ -1,0 +1,184 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "70604",
+    "title": "Spurning í sambandi við internet",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=70604",
+    "posts": [
+        {
+            "user_name": "Tonikallinn",
+            "text": "Það er rétt hjá mér að ljósnet og ljósleiðari eru ekki það sama?",
+            "date": "2016-09-11 15:13:00",
+            "post_id": "631601",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "DJOli",
+            "text": "Rétt.\nLjósleiðari er Ljósleiðari alla leið frá næstu símstöð inn í húsið hjá þér. \n(símstöðvar landsins eru tengdar saman með ljósleiðara, og svo ljósleiðara út til útlanda)\nLjósnet er  Ljósleiðari frá símstöð upp í næsta götubrunn, en úr götubrunn inn í hús hjá þér liggur kopar (sem notabene ber ekki nærrum því jafn mikið og ljósleiðari).",
+            "date": "2016-09-11 15:33:00",
+            "post_id": "631602",
+            "reply_to_id": "631601"
+        },
+        {
+            "user_name": "russi",
+            "text": "Já og nei.\nJá: Síminn hefur kallað VDSL og Ljósleiðara bæði ljósnet, hafa gert það hingað til en í langflestum tillfillum hefur það átt við VDSL því það hefur það eina sem hefur verið í boði. Tel líklegt að þeir breyti nafninu á þessu núna þegar Míla er komið langt með ljósleiðaravæða Höfuðborgarsvæðið og aðra staði líka.\nNei: VDSL sem er einhverja hluta kallað Ljósnet af Símanum og aðrir ISP hafa hoppað á þann vagn er auðvitað rangnefni að mínu mati. Þó að það sé ljósleiðari að tengi kassa og kopar restina þá er það ekki ljós alla leið, þetta er semsagt tilraun til að rugla kúnnan í rýminu, fór af stað þegar GR-teninginar voru farnar kroppa verulega í kúnnahópinn hjá Símanum. Auðvitað ætti þetta bara að heita VDSL.\nEn í grunninn þá er svarið Já við þinni spurningu, ljósnet og ljósleiðari er ekki það sama.",
+            "date": "2016-09-11 15:35:00",
+            "post_id": "631603",
+            "reply_to_id": "631602"
+        },
+        {
+            "user_name": "Tonikallinn",
+            "text": "hvort er líklegara að ég er með ljósnet eða ljósleiðara?\nhttp://www.speedtest.net/my-result/5622924493",
+            "date": "2016-09-11 15:54:00",
+            "post_id": "631604",
+            "reply_to_id": "631603"
+        },
+        {
+            "user_name": "Tonikallinn",
+            "text": "ég er með 100mb net hjá símanum en á síðu mílu er 200mb í boði? er þá verið að tala um að mílan sjálf geti sett um 200mb tengingu eða?",
+            "date": "2016-09-11 15:56:00",
+            "post_id": "631605",
+            "reply_to_id": "631604"
+        },
+        {
+            "user_name": "Tiger",
+            "text": "Síminn og Míla ætluðu reyndar að vera kominn með 500/500 ljósleiðara 1.ágúst, síðan 1.sept en ekki enn komið.... bíð spenntur",
+            "date": "2016-09-11 16:11:00",
+            "post_id": "631606",
+            "reply_to_id": "631605"
+        },
+        {
+            "user_name": "Tonikallinn",
+            "text": "myndi það nokkuð kosta einhvern bing? Sure ég er mjög sáttur við hraðann en væri ekkert á móti 500mb",
+            "date": "2016-09-11 16:13:00",
+            "post_id": "631607",
+            "reply_to_id": "631606"
+        },
+        {
+            "user_name": "Tiger",
+            "text": "Held það eigi ekki að kosta aur meira og uppfærast hjá þeim sem hafa möguleika á því sjálkrafa (með ljósleiðara inní hús frá Mílu).",
+            "date": "2016-09-11 18:01:00",
+            "post_id": "631613",
+            "reply_to_id": "631607"
+        },
+        {
+            "user_name": "Tonikallinn",
+            "text": "Ég myndi halda að þeir þyrftu að kannski tengja ehv meira eða frekar að það myndi bætast við mánaðarleg borgun?",
+            "date": "2016-09-11 18:03:00",
+            "post_id": "631615",
+            "reply_to_id": "631613"
+        },
+        {
+            "user_name": "russi",
+            "text": "VDSL býður uppá 200mb við ákveðnar aðstæður og myndi að halda að það væri ISP að ákveða það. Veit að Síminn er ekkert að fara að auglýsa það að svo stöddu að það sé í boði nema vera búnir að tryggja sig að það haldist, að auki miða flestir ISP sem ég hef séð við VDSL profile sem heitir 17a, til að ná 200Mbit þarftur að fara í Profile sem heitir 30a.\nVDSL2 staðalinn býður uppá max 300mibit niður en 100mbit upp, sá profile heitir 35b.\nps. tölurnar í hverjum prófile fyrir sig, segja til um tiðnina. Hærri tíðni = Meira bandbreidd, meira tap.",
+            "date": "2016-09-11 21:16:00",
+            "post_id": "631639",
+            "reply_to_id": "631615"
+        },
+        {
+            "user_name": "Tonikallinn",
+            "text": "Ég bara með Gpon",
+            "date": "2016-09-11 21:18:00",
+            "post_id": "631640",
+            "reply_to_id": "631639"
+        },
+        {
+            "user_name": "DJOli",
+            "text": "Ljósnet (Vdsl) myndi ég skjóta á, þar sem pingið eru 12ms",
+            "date": "2016-09-12 09:46:00",
+            "post_id": "631668",
+            "reply_to_id": "631640"
+        },
+        {
+            "user_name": "Tonikallinn",
+            "text": "Talaði við einhvern frá símanum í gær, sagði að ég væri með Gpon. Hvort er það ljósnet eða ljósleiðari?",
+            "date": "2016-09-12 12:15:00",
+            "post_id": "631679",
+            "reply_to_id": "631668"
+        },
+        {
+            "user_name": "Tbot",
+            "text": "GPON stands for Gigabit Passive Optical Networks\nSem er ljósleiðari.\nEn það sem gerir þetta leiðinlegara er að þetta gæti verið bara frá símstöð út í götukassa.\nSagði sá hjá símanum að þú værir með GPON alla leið inn til þín?",
+            "date": "2016-09-12 13:55:00",
+            "post_id": "631684",
+            "reply_to_id": "631679"
+        },
+        {
+            "user_name": "Tonikallinn",
+            "text": "Ef ég vildi skipta yfir í annað fyrirtæki, t.d. eitthvað sem er að fara að bjóða upp á 1gb/s. Þyrftu  þeir þá nokkuð  að tengja eitthvað?",
+            "date": "2016-09-12 13:59:00",
+            "post_id": "631686",
+            "reply_to_id": "631684"
+        },
+        {
+            "user_name": "russi",
+            "text": "Hvaða router ertu með, hvernig er hann tengdur? Með símalínu eða ethernet snúru í eitthvað box?\nEf við vitum þetta getum við svarað þér betur.\nHvar býrðu? Póstnúmer og gata, svo hægt sé flétta því upp hvort GR-ljósleiðari sé í boði eða annar.",
+            "date": "2016-09-12 14:47:00",
+            "post_id": "631691",
+            "reply_to_id": "631686"
+        },
+        {
+            "user_name": "Tonikallinn",
+            "text": "Held að hann sé tengdur í Modern sem er niðri sem fer svo í technicolor router. Er ekki vdsl í gegnum símalínu? Sagðist vera með Gpon",
+            "date": "2016-09-12 15:10:00",
+            "post_id": "631692",
+            "reply_to_id": "631691"
+        },
+        {
+            "user_name": "Icarus",
+            "text": "Að öllum líkindum ertu með GPON.\nGPON er kallað ljósnet af flestum en er ljósleiðari.\nHátt ping útskýrist vegna þess að ég giska á að þú sért þráðlaust.\n\"Modemið\" sem þú ert með niðri er líklegast ljósleiðarainntakið í húsið.\nGPON er alltaf alla leið inn, ekki bara í götubrunn. Annars er það ekki GPON.\nGetur verslað við flesta ISP-a á GPON.",
+            "date": "2016-09-12 15:53:00",
+            "post_id": "631693",
+            "reply_to_id": "631692"
+        },
+        {
+            "user_name": "Tonikallinn",
+            "text": "Er með ethernet......Er á norðurlandinu í Dalvíkurbyggð. Enging tenging a ookla nálægt mér",
+            "date": "2016-09-12 15:59:00",
+            "post_id": "631694",
+            "reply_to_id": "631693"
+        },
+        {
+            "user_name": "Tbot",
+            "text": "Það sem er að vefjast fyrir er að það er Tengir sem sér um ljósleiðaramálin á Dalvík   \nhttp://tengir.is/\nÁ síðu Tengir er:\n\"Ef þú ert í fjölbýlishúsi þar sem þegar er kominn ljósleiðari í sameign, þá geturðu valið vinstra megin á síðunni \"Smelltu hér\"  til að panta þér tengingu. Greitt er kr. 24.000,- með vsk fyrir vinnu við að leggja streng frá inntaki á þann stað í íbúð sem tæknimaður telur hentugastan. 60% af virðisaukaskatt fæst endurgreiddur af vinnu á verkstað.\nEf þú vilt athuga stöðuna á þinni íbúð þá geturðu skrifað heimilisfangið í reitinn hér til hliðar og valið \"Athuga\". Þá kemur staðan á eigninni og þú getur óskað eftir að fá tengingu. Ef heimilisfang finnst ekki eða þú vilt fá nánari upplýsingar endilega hafðu samband við okkur í síma 4 600 460 á skrifstofutíma.\"\nSíðan er það þessi frétt þar sem framkvæmdir eru ráðgerðar í sumar (2016)\n\"Ljósleiðari á Dalvík - kynningarfundur\n08.03.2016\nKynningarfundur um lagningu ljósleiðara á Dalvík verður haldinn í Bergi þriðjudaginn 8. mars kl. 17:00\nÍ fyrra var undirritaður samningur um lagningu ljósleiðara í dreifbýli Dalvíkurbyggðar, stefnt er að því að ljúka þeirri framkvæmd á þessu ári.\nÁ næstu misserum stendur heimilum, fyrirtækjum og stofnunum á Dalvík til boða að tengjast ljósleiðaraneti Tengir hf. en Dalvíkurbyggð og Tengir hf. hafa gert með sér samning þar að lútandi.\nRáðgert er að framkvæmdir hefjist í sumar en á Dalvík eru u.þ.b 580 heimili og í kringum 60 fyrirtæki og stofnanir.\nGunnar Björn Þórhallsson, fulltrúi Tengis hf. mun kynna verkefnið fyrir íbúum.\nÍbúar eru hvattir til að mæta til fundar og kynna sér málefnið.\nF.h. Dalvíkurbyggðar\nBjarni Th. Bjarnason\nSveitarstjóri\"",
+            "date": "2016-09-12 16:21:00",
+            "post_id": "631697",
+            "reply_to_id": "631694"
+        },
+        {
+            "user_name": "Tonikallinn",
+            "text": "Þegar ég talaði við einhvern frá Símanum sagði hann að ég var tengur hjá Mílu. Sagði við hann að ég væri 100% viss að ég hefði séð Tengir ehf bíl fyrir utan og hann sagði bara að Míla væri skráð hjá mér?",
+            "date": "2016-09-12 16:39:00",
+            "post_id": "631699",
+            "reply_to_id": "631697"
+        },
+        {
+            "user_name": "russi",
+            "text": "Voðalega er þetta eitthvað snúið hjá þér.\nÞú hlýtur að vita hverjum er borgað fyrir internet og svo hverjum er borgað fyrir tengigjald. Þjónustuverinn hafa því miður ekki alltaf rétt fyrir sér, það væri þó óskandi. Oft á tíðum svara þau bara því sem algengasta svarið í stað þess að kanna málið kannski betur\nÞeir sem þú kaupir þessa þjónustu af, sem eru alltaf 2 aðilar(Internetaðili og Tengi/Línugjald), geta svarað þér.",
+            "date": "2016-09-12 18:55:00",
+            "post_id": "631706",
+            "reply_to_id": "631699"
+        },
+        {
+            "user_name": "Tonikallinn",
+            "text": "það er það bara að sá sem ég talaði við í gær sagðist hafa tjékkað og sagði að Míla væri skráð. Spurði hann hvort hann væri alveg viss því ég sagðist have séð Tengi bíl fyrir utan og hann sagðist vera alveg viss",
+            "date": "2016-09-12 18:58:00",
+            "post_id": "631708",
+            "reply_to_id": "631706"
+        },
+        {
+            "user_name": "russi",
+            "text": "Er þetta frekar nýleg tengin,, já í guðana bænum athugaðu reikninga þína.. þar eru svörin að stóru leyti",
+            "date": "2016-09-12 19:04:00",
+            "post_id": "631710",
+            "reply_to_id": "631708"
+        },
+        {
+            "user_name": "Tonikallinn",
+            "text": "um það bil ár. Fékk þetta síðasta sumar",
+            "date": "2016-09-12 19:05:00",
+            "post_id": "631711",
+            "reply_to_id": "631710"
+        }
+    ],
+    "date": "2016-09-11 15:13:00"
+}

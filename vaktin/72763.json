@@ -1,0 +1,79 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "72763",
+    "title": "Stilla port á Trendnet TEW-818DRU",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=72763",
+    "posts": [
+        {
+            "user_name": "forsyth",
+            "text": "Góða kvöldið vaktarar.\nÉg er með AC1900 Dual Band Wireless Router - TEW-818DRU sem er ljósleiðararouter. Ég er með ljósleiðara frá Rangárljós og er með þjónustu frá Vodafone. Ljósleiðaraboxið er tengt við WAN á routernum og myndlykillinn í port 4.\nÉg er semsagt að reyna að stilla port 4 þannig að ég geti sett myndlykilinn við það. Ég er búinn að tagga port 4 á VLAN 44. Er það eitthvað fleira sem ég þarf að gera til að ná þessu inn? Þetta er ekki að detta inn svona og þegar ég restarta myndlyklinum þá festist hann á \"Myndlykill ræsir sig\" (væntanlega ekki að fá rétt merki). Sjá viðhengi með stillingum.\nMeð von um hjálp.",
+            "date": "2017-04-21 21:25:00",
+            "post_id": "647686",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Semboy",
+            "text": "hvernig ljósleiðarabox er þetta?\n-hvað stendur á honum?",
+            "date": "2017-04-21 22:29:00",
+            "post_id": "647696",
+            "reply_to_id": "647686"
+        },
+        {
+            "user_name": "forsyth",
+            "text": "Þetta er svona box, sennilega ljósbreytir?",
+            "date": "2017-04-21 22:38:00",
+            "post_id": "647698",
+            "reply_to_id": "647696"
+        },
+        {
+            "user_name": "forsyth",
+            "text": "Ég er með router frá Vodafone líka og myndlykillinn virkar fínt á honum. Þar eru stillingarnar þessar sem eru á myndinni í viðhengi.",
+            "date": "2017-04-21 22:40:00",
+            "post_id": "647700",
+            "reply_to_id": "647698"
+        },
+        {
+            "user_name": "Xovius",
+            "text": "Þetta er einmitt það sem þarf. Á að vera bridged, VLAN 44 - 802.1p 4\nFann virtual viðmót fyrir routerinn hjá þér en spotta samt ekki hvar þú gætir sett þetta inn. \nhttps://www.trendnet.com/emulators/TEW- ... t/vlan.htm",
+            "date": "2017-04-21 22:50:00",
+            "post_id": "647702",
+            "reply_to_id": "647700"
+        },
+        {
+            "user_name": "forsyth",
+            "text": "Dautt mál þá?",
+            "date": "2017-04-21 23:04:00",
+            "post_id": "647707",
+            "reply_to_id": "647702"
+        },
+        {
+            "user_name": "einarth",
+            "text": "Þú þarft að leyfa vlan 44 á Wan líka.. Ekki bara á porti 4.\nSent from my SM-G935F using Tapatalk",
+            "date": "2017-04-22 13:32:00",
+            "post_id": "647739",
+            "reply_to_id": "647707"
+        },
+        {
+            "user_name": "einarth",
+            "text": "Já og svo á það að vera tagged á Wan,  en untagged á porti 4.\nSent from my SM-G935F using Tapatalk",
+            "date": "2017-04-22 13:33:00",
+            "post_id": "647740",
+            "reply_to_id": "647739"
+        },
+        {
+            "user_name": "forsyth",
+            "text": "Takk fyrir svörin. Fæ ekkert internet access á wireless tölvur ef ég enable-a VLAN 44 á WAN portinu og hef það tagged. Einhver ráð?\nSjá viðhengi:",
+            "date": "2017-04-22 14:00:00",
+            "post_id": "647741",
+            "reply_to_id": "647740"
+        },
+        {
+            "user_name": "Sallarólegur",
+            "text": "Þú þarft að hafa dálítið mikla kunnáttu til að stilla router fyrir IPTV, svo getur vel verið að ISP bjóði ekki upp á það eða að þú þurfir að fara í miklar krókaleiðir eða MAC address spoofing til að fá TV inn.\nEinfaldast er að nota Vodafone routerinn og bæta við góðum Access Point, eins og Unifi AP AC Lite, fæst hjá Símafélaginu.",
+            "date": "2017-04-22 18:22:00",
+            "post_id": "647751",
+            "reply_to_id": "647741"
+        }
+    ],
+    "date": "2017-04-21 21:25:00"
+}

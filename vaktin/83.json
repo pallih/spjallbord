@@ -1,0 +1,44 @@
+{
+    "forum_title": "Windows",
+    "id": "83",
+    "title": "Windows 2000 network vandamál",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=83",
+    "posts": [
+        {
+            "user_name": "Castrate",
+            "text": "Halló\n\n\n\nég er búin að vera að glíma við network vandamál í tölvunni minni upp á síðkastið. Ég er með Windows 2000 og service pack 3 installaðan svo er ég með AMD 1800xp, shuttle ak35 móðurborð og 256 ddr minni. Sko ég er með tölvu hérna heima sem ég nota sem router og hún routar adsl tengingunni á allar hinar vélarnar og ég nota internet connection shareing til að routa tengingunni og málið er að tölvan mín er alltaf mjög lengi að kveikja á networkinu og svo loksins þegar það er komið þá opna ég ie og þá geirst ekki neitt, ég get ekki pingað neina aðra tölvu það kemur bara host not found strax, svo ef ég disablela networkið og enablea aftur og bíð í svona 30 sec og þá virkar networkið og netið og allt get pingað hinar tölvurnar og allt en svo þá bara er ég að spjalla á irc eða bara að surfa eða einhvað þá bara allt í einu dettur networkið út og allt fer og þá restarta ég og alveg sama sagan ekkert gerist.\n\nÞetta gerðist hjá mér rétt áðan ,þ.e. var að surfa og networkið fór, og núna er alveg sama hvort ég disablea eða enabla networkið það bara gerist ekki neitt fæ það ekki til að virka. Ég er búin að vera með þetta vandamál núna í langan tíma og er nýbúin að formatta en það lagaði ekkert þetta mál kom strax. Ég er búin að prufa 2 mismunandi netkort. búin að prufa allar gerðir af net snúrum búin að prufa að skipta um port á hubbinum. Búin að uninstalla sp3 og setja inn sp2. búin að taka firewire og hlóðkortið út og ekkert virkar búin að taka allt úr start up þ.e. norton antivirus, og pc alert og eikkur svona forrit sem kveikja á sér þegar windows kveikir á sér. Setti kork á hugi.is/windows og fékk nákvæmlega enga hjálp þar fór á #windows.is á irc og spurði fékk enga hjálp þar heldur og nú posta ég kork hérna í von um að eikkur hjálpi mér. Ef þú hefur eikkura hugmynd eða eikkað ekki hika við að segja mér hana ég er að verða brjálaður á þessu",
+            "date": "2002-10-06 22:59:00",
+            "post_id": "348",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Atlinn",
+            "text": "settu inn servise pack 2 ég hef heirt um vesem með #3 en veit ekki allveg hvaða vasen, en eitt var að anti virus forrit reportuðu vírus sem er reyndar ekki rétt því að antívírus forrit taka mynd af system files og ef eitthvað breytist (eins og gerist þegar sp er installaður) þá heldur það að það sé kominn vírus",
+            "date": "2002-10-07 13:45:00",
+            "post_id": "363",
+            "reply_to_id": "348"
+        },
+        {
+            "user_name": "Castrate",
+            "text": "ok búin að því en samt lagaðist þetta ekki",
+            "date": "2002-10-08 14:26:00",
+            "post_id": "385",
+            "reply_to_id": "363"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Hvað ertu með margar tölvur samtengdar? \n\nEr ekki betra að vera með Router/Splitter en cpu til að samnýta internetið??\n\nOg...ertu bara að lenda í þessu networking veseni á tölvunni sem þú notar til að deila netinu eða lendir þú í þessu á fleiri tölvum ?",
+            "date": "2002-10-08 21:06:00",
+            "post_id": "392",
+            "reply_to_id": "385"
+        },
+        {
+            "user_name": "Castrate",
+            "text": "nei þetta er ekki tölvan sem deilir netinu. það eru 3 tölvur tengdar netinu og það er ekkert mál með hinar 2 tölvurnar. það er bara þessi tölva sem er með vandræði. Ég þori ekki einu sinni að restarta af því að ég er skíthræddur um að networkið fari.",
+            "date": "2002-10-09 08:12:00",
+            "post_id": "394",
+            "reply_to_id": "392"
+        }
+    ],
+    "date": "2002-10-06 22:59:00"
+}

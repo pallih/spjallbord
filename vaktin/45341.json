@@ -1,0 +1,128 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "45341",
+    "title": "Panasonic 42\" GT30 USB vandamál",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=45341",
+    "posts": [
+        {
+            "user_name": "svanur08",
+            "text": "Þegar ég tengi usb lykil við sjónvarpið og spila divx koma bara truflanir og frís svo á endanum, einhver hugmynd hvað sé að valda þessu ?",
+            "date": "2012-02-02 22:30:00",
+            "post_id": "417935",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "FreyrGauti",
+            "text": "Ertu búinn að prufa uppfæra sjónvarpið? Gæti verið að það vanti codec uppfærslu.",
+            "date": "2012-02-02 22:49:00",
+            "post_id": "417942",
+            "reply_to_id": "417935"
+        },
+        {
+            "user_name": "svanur08",
+            "text": "er með nýjasta firmware.",
+            "date": "2012-02-02 23:33:00",
+            "post_id": "417974",
+            "reply_to_id": "417942"
+        },
+        {
+            "user_name": "svanur08",
+            "text": "Eitthvað annað sem þér dettur í hug ?",
+            "date": "2012-02-03 00:10:00",
+            "post_id": "417991",
+            "reply_to_id": "417974"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "buinn að prufa marga usb lykla?",
+            "date": "2012-02-03 00:17:00",
+            "post_id": "417998",
+            "reply_to_id": "417991"
+        },
+        {
+            "user_name": "svanur08",
+            "text": "yeps alltaf sama",
+            "date": "2012-02-03 00:20:00",
+            "post_id": "418000",
+            "reply_to_id": "417998"
+        },
+        {
+            "user_name": "svanur08",
+            "text": "koma svona kassar eins og er stundum í divx fælum bara extra mikið af þeim og svo bara frís það á endanum.",
+            "date": "2012-02-03 00:28:00",
+            "post_id": "418005",
+            "reply_to_id": "418000"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "veit ekki en make-ar eitthvað af þessu sens?\nhttp://driverwhiz.com/problems-en?devic ... fAod72yD3A",
+            "date": "2012-02-03 00:35:00",
+            "post_id": "418007",
+            "reply_to_id": "418005"
+        },
+        {
+            "user_name": "svanur08",
+            "text": "held það sé nú ekki verið að tala um sjónvörp þarna.",
+            "date": "2012-02-03 00:55:00",
+            "post_id": "418017",
+            "reply_to_id": "418007"
+        },
+        {
+            "user_name": "DJOli",
+            "text": "hefurðu prufað aðrar skrár á öðru skráarformatti?\nprufað aðra kódeca?\nprufað að lækka/hækka bitatíðnina á hljóðinu?",
+            "date": "2012-02-03 08:18:00",
+            "post_id": "418039",
+            "reply_to_id": "418017"
+        },
+        {
+            "user_name": "svanur08",
+            "text": "já sumar skrár eru í lagi aðrar ekki, prufaði þetta á sjónvarpinu hans pabba virkar allt fínt á því.",
+            "date": "2012-02-03 08:23:00",
+            "post_id": "418040",
+            "reply_to_id": "418039"
+        },
+        {
+            "user_name": "DJOli",
+            "text": "þá er það leyst.\nSumar skrár virka, aðrar skrár virka ekki.\nTaktu þá niður nótur á því hvaða skrár (skráarkerfi/kódekar) virka best, og reyndu að nota það í framtíðinni.",
+            "date": "2012-02-03 08:35:00",
+            "post_id": "418042",
+            "reply_to_id": "418040"
+        },
+        {
+            "user_name": "svanur08",
+            "text": "samt voru fælarnir allir .avi werd.",
+            "date": "2012-02-03 20:55:00",
+            "post_id": "418196",
+            "reply_to_id": "418042"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": ".avi er bara container, það eru codecin sem skipta meira máli.",
+            "date": "2012-02-03 20:58:00",
+            "post_id": "418197",
+            "reply_to_id": "418196"
+        },
+        {
+            "user_name": "svanur08",
+            "text": "hehe ok aldrei skilið þetta codec dæmi",
+            "date": "2012-02-03 21:00:00",
+            "post_id": "418198",
+            "reply_to_id": "418197"
+        },
+        {
+            "user_name": "svanur08",
+            "text": "Á forrit sem heitir xilisoft video converter prufaði að breyta fæl sem lætur svona bara í sama divx avi og virkar bara fínt þannig ekkert vandamál, bara illa rippaðir fælar sem ég prufaði",
+            "date": "2012-02-03 21:45:00",
+            "post_id": "418207",
+            "reply_to_id": "418198"
+        },
+        {
+            "user_name": "audiophile",
+            "text": "Ekki endilega. Stuðningur fyrir codec'a eru misjafnir eftir tækjum. Sjónvörp eru sérstaklega erfið hvað varðar stuðning fyrir þetta því það eru til milljón útgáfur af t.d. Xvid of DivX og happ og glapp hvort sjónvarpið styðji ákveðið version af þessum codec'um. Sjónvarpsflakkara eru erfiðir með þetta líka. Ég átti flakkara sem spilaði bara aðra hverja skrá, en tölvan spilaði þetta allt eins og ekkert væri, enda mesti stuðningur þar.\nAnnars er GT30 frekar gott tæki og skrýtið að það sé ekki með betri stuðning en þetta.",
+            "date": "2012-02-04 09:44:00",
+            "post_id": "418300",
+            "reply_to_id": "418207"
+        }
+    ],
+    "date": "2012-02-02 22:30:00"
+}

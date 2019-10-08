@@ -1,0 +1,23 @@
+{
+    "forum_title": "Leikjasalurinn",
+    "id": "15000",
+    "title": "Vandamál með codename Panzers:phase two",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=14&t=15000",
+    "posts": [
+        {
+            "user_name": "Ic4ruz",
+            "text": "Ég insstallaði leiknum sem gekk fint og siðan ætlaði ég að setja upp directx 9.0 þá kemur \"This version of Directx is not comptabile with the version of windows insstaled\" nú ég er með Windows XP X64 service pack 1. og siðan yti eg bara á ok. siðan reyndi ég að bara spila leikinn og þá kemur nátturulega error. siðan eru 2 möguleikar \"ok\" og \"show error report\" eg ýti á show error report sem er her að neðan:\n\n\n\nDear User!\n\n\n\nThis file contains detailed information on the problem occurred.\n\nSave the file and forward it to your product Customer Support.\n\nE-mail: \nsupport@cdv.de\n\n\n\n\n------------------------------ Information ------------------------------ \n\n\n\n[Error Information] \n\n3.4.77.0; 3002 \n\n\n\n[Protected Product Information] \n\nCompanyName    =  CDV \n\nProductName    =  Codename Panzers - Phase II \n\nBuildSignature =  3.04.077.000, 21.06.05 \n\nProductGuid    =  {BB46048CD60EA07EC955F6726691F8FF} \n\nBuildGuid      =  {d7b93228-b0b1-45b5-a7fb-3363fd414e93} \n\n\n\n[Report Information] \n\nReportDateTime =  11. júlí 2007 20:23 \n\nClientTimeZone =  Greenwich Standard Time \n\nClientTimeBias =  0 \n\n\n\n[System Information] \n\nSystem Information was not obtained because of \"msinfo32\" execution error.\n\n\n\nég keypti þennan disk i BT.\n\n\n\nhafið þið lent i þessu áður?\n\nget eg kannski niðurhalað þessa útgáfu af directx?\n\n\n\nöll hjálp er vel þeginn,\n\nog endilega ef ykkur vantar fleiri upplýsingar bara að spyrja!.",
+            "date": "2007-07-11 20:50:00",
+            "post_id": "149963",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "corflame",
+            "text": "Downloadar DirectX 9.0c frá Microsoft fyrir Windows XP 64bit. Útgáfur sem fylgja með leikjum eru oftast eldri og bara fyrir 32bita Windows XP.",
+            "date": "2007-07-12 14:18:00",
+            "post_id": "149993",
+            "reply_to_id": "149963"
+        }
+    ],
+    "date": "2007-07-11 20:50:00"
+}

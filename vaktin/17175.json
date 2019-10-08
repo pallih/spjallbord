@@ -1,0 +1,51 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "17175",
+    "title": "Nettengin yfir ethernet beini",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=17175",
+    "posts": [
+        {
+            "user_name": "Bjosep",
+            "text": "Sæl.\n\n\n\nÉg biðst forláts ef fyrirsögnin er ekki nógu skýr en þannig er mál með vexti að ég er með nettengingu á háskólanetinu en þar er eingöngu heimilt að vera með eina mac-addressu skráða og því var mér bent á að nota beini til að geta nettengt fleiri en eina vél.\n\n\n\nBeinirinn sem ég er að reyna að nota er Planet Ade 4000, kannski í eldri kantinum en ég er í vandræðum með það hvernig á að stilla hann, ef það er á annað borð að nota þennan beini í þetta. En hann er allaveganna tengdur núna með netkapli í vegginn.\n\n\n\nÞannig að ég er að velta því fyrir mér hvort að einhver hér hefði reynslu af svona löguðu.\n\n\n\nÞað sem ég er að pæla í hverju ég á að fikta í er semsagt, WAN, LAN, PPP, NAT og DNS. Eða þá hvort að ég á bara að breyta einhverri einfaldri stillingu til þess að beinirinn viðurkenni net yfir netkapal í stað símasnúru?\n\n\n\nvirðingarfyllst\n\nBjosep",
+            "date": "2008-02-20 22:38:00",
+            "post_id": "167506",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "tms",
+            "text": "Er þetta semsagt wireless net? Bara skil ekki af hverju má ekki vera með meira en eitt netkort á þessu LANi. Kallaðu bara kerfisstjórarnn fasista á meðan þú heldur hendinni á fjöltengi og hótar að aftengja það.\n\n\n\nÉg kann ekki á svona sérhæfða beini en þú þarft líklegast að setja upp NAT á honum þannig að þú verðir með þitt egið subnet á bakvið hann.",
+            "date": "2008-02-21 22:10:00",
+            "post_id": "167644",
+            "reply_to_id": "167506"
+        },
+        {
+            "user_name": "dorg",
+            "text": "Þú hlýtur að þurfa ethernet-ethernet router sem nattar það sem þú setur bak við routerinn út gegnum wan ip töluna.\n\nHeld að þessi planet sé ADSL router þ.e. að wan interfaceið á honum sé fyrir adsl tengingu.  En þú leiðréttir mig þá bara ef þetta er ekki rétt hjá mér.",
+            "date": "2008-02-21 23:07:00",
+            "post_id": "167651",
+            "reply_to_id": "167644"
+        },
+        {
+            "user_name": "Bjosep",
+            "text": "Mig grunar að beinirininn bjóði sennilega ekki upp á það gera þetta eins og ég ætlaði að hafa þetta, en langaði aðallega að prufa að nota hann þar sem að hann gerði hvort eð er fátt annað en að safna ryki.\n\n\n\nNúna er allaveganna hægt að hafa hann sem fallegt hilluskraut, sem blikkar.\n\n\n\nÞakka svörin.",
+            "date": "2008-02-21 23:34:00",
+            "post_id": "167653",
+            "reply_to_id": "167651"
+        },
+        {
+            "user_name": "Marmarinn",
+            "text": "ef þú ert með XP gætiru athugað Internet Connection Sharing.",
+            "date": "2008-02-22 00:35:00",
+            "post_id": "167660",
+            "reply_to_id": "167653"
+        },
+        {
+            "user_name": "Bjosep",
+            "text": "Já, gerði það og þetta virkaði loksins eftir svona 10 tilraunir!",
+            "date": "2008-02-22 14:26:00",
+            "post_id": "167703",
+            "reply_to_id": "167660"
+        }
+    ],
+    "date": "2008-02-20 22:38:00"
+}

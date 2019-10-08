@@ -1,0 +1,107 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "40028",
+    "title": "150 gb raptorar í raid",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=40028",
+    "posts": [
+        {
+            "user_name": "bulldog",
+            "text": "Ég var að pæla í því hvaða hraða ætti ég að ná með 2x 150 gb raptorum í raid",
+            "date": "2011-07-20 16:03:00",
+            "post_id": "364574",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "everdark",
+            "text": "-",
+            "date": "2011-07-20 16:37:00",
+            "post_id": "364584",
+            "reply_to_id": "364574"
+        },
+        {
+            "user_name": "hauksinick",
+            "text": "Þetta spjallborð er til að hjálpa fólki ekki directory listing fyrir internetið",
+            "date": "2011-07-20 17:36:00",
+            "post_id": "364605",
+            "reply_to_id": "364584"
+        },
+        {
+            "user_name": "Eiiki",
+            "text": "x2",
+            "date": "2011-07-20 17:42:00",
+            "post_id": "364607",
+            "reply_to_id": "364605"
+        },
+        {
+            "user_name": "bulldog",
+            "text": "x3",
+            "date": "2011-07-20 17:47:00",
+            "post_id": "364609",
+            "reply_to_id": "364607"
+        },
+        {
+            "user_name": "einarhr",
+            "text": "Ekki senda inn óþarfa innlegg sbr reglu nr 4.\n@ Bolabítur\nSkv þessari grein á Overcolckers.com þá er Access time á single drive 8,5 ms en 6,2 á 2 diskum í raid 0\nHann var að fá 175,5 í Read á 2 diskum en sé ekki hvað hann var að fá á single\nhttp://www.overclockers.com/forums/showthread.php?t=482610\nPs hvað er málið með þetta X2  X3 x4 hefur engan tilgang og óþarfa innlegg",
+            "date": "2011-07-20 17:48:00",
+            "post_id": "364611",
+            "reply_to_id": "364609"
+        },
+        {
+            "user_name": "bulldog",
+            "text": "Ætla að vera með þetta í fileservernum mínum  \n Ein spurning í viðbót, hvernig stilli ég diskanna svo að tölvan setji þá saman í raid 0 ?",
+            "date": "2011-07-20 17:51:00",
+            "post_id": "364613",
+            "reply_to_id": "364611"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Getur notað onboard controller, þarft að enable það í BIOS og þá promptar RAID BIOSinn í POSTinu um hvort þú viljir entera RAID settings. Flest móðurborð styðja raid 1/0, svo lengi sem það er ekki fyrir aldamót.\nGetur líka keypt þér 2ja porta controller og gert þetta almennilega, sama leið til að setja upp, RAID BIOSinn kemur upp í POSTinu.",
+            "date": "2011-07-20 17:53:00",
+            "post_id": "364615",
+            "reply_to_id": "364613"
+        },
+        {
+            "user_name": "einarhr",
+            "text": "Fer svoldið eftir móðurborði en þú stillir Sata contrilerinn á Raid ekki IDE eða ACHI í Bíos. Startar vélinni og þarft sennilega að ýta á e-h takka til að komast inn í raidcontrolerinn og ferð í Create Arrey minnir mig, þar er hægt að velja alskonar Raid. Þetta á að vera nokkuð auðvelt fyrir grúskara en annars er alltaf hægt að jútjúba móðurborðið og Raid 0. Svo er stendur þetta allt í Leiðavísinum með móðurborðinu, ef þú átt hann ekki þá ættir þú að geta fundi hann á Google í PDF formati.",
+            "date": "2011-07-20 17:58:00",
+            "post_id": "364618",
+            "reply_to_id": "364615"
+        },
+        {
+            "user_name": "bulldog",
+            "text": "móðurborðið mitt er keypt í júní 2011 þannig að það hlýtur að sleppa",
+            "date": "2011-07-20 17:59:00",
+            "post_id": "364619",
+            "reply_to_id": "364618"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Þá eru pottþétt leiðbeiningar um hvernig þetta er gert og sett upp í manualnum sem fylgdi MBinu og hægt að nálgast hann á heimasíðu framleiðanda í pdf.",
+            "date": "2011-07-20 18:03:00",
+            "post_id": "364621",
+            "reply_to_id": "364619"
+        },
+        {
+            "user_name": "everdark",
+            "text": "-",
+            "date": "2011-07-20 18:15:00",
+            "post_id": "364628",
+            "reply_to_id": "364621"
+        },
+        {
+            "user_name": "einarhr",
+            "text": "Er ekki að skjóta á þig everdark, heldur þá 2 sem póstuðu á eftir þér eins og þú sérð ef þú skoðar Quotið betur, bæði Eiki og hauksinnick eru fyrir ofan þitt nafn.",
+            "date": "2011-07-20 18:17:00",
+            "post_id": "364630",
+            "reply_to_id": "364628"
+        },
+        {
+            "user_name": "everdark",
+            "text": "-",
+            "date": "2011-07-20 18:27:00",
+            "post_id": "364634",
+            "reply_to_id": "364630"
+        }
+    ],
+    "date": "2011-07-20 16:03:00"
+}

@@ -1,0 +1,128 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "20898",
+    "title": "Smá hjálp með netið !",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=20898",
+    "posts": [
+        {
+            "user_name": "orrieinarsson",
+            "text": "Þannig er máli með vexti að rouderinn er inni hjá bróður mínum sem er svona 5 metra frá mínu herbergi og á milli er sjónvarpsherbergið og þar erum við með svona dæmi frá símanum ( til að ná útlensku stöðvunum ) veit ekki hvað það heitir sem er tengt í gegnum netið, rouderinn er inni hjá bróður mínum því að þar kemst snúran í gegnum vegg en þarf ekki að liggja á gólfinu frammi, en ef að ég vil hafa snúru tengda í rouderinn þá þarf hún að legga á gólfinu í gegnum sjónvarpsherbergið og pabbi samþykir það ekki, vitiði hvað er til ráða.. er hægt að vera með 2 roudera eða? hjálp einhver.\nFyrirfram þakkir\nOrri",
+            "date": "2009-01-06 21:01:00",
+            "post_id": "192712",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "lukkuláki",
+            "text": "Ef þessi 2 herbergi eru á sömu grein þá geturðu fengið þér  svona:\nhttp://spjall.vaktin.is/viewtopic.php?f=40&t=19431",
+            "date": "2009-01-06 21:08:00",
+            "post_id": "192713",
+            "reply_to_id": "192712"
+        },
+        {
+            "user_name": "orrieinarsson",
+            "text": "Ég skil þetta ekki alveg, hvar fæ ég svona ?",
+            "date": "2009-01-06 22:37:00",
+            "post_id": "192736",
+            "reply_to_id": "192713"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "eða ef það er hægt að draga úr simatöflunni í bæði herbergin þá geturu sett routerinn inní þá tölvu og dregið úr þeim inn í herbergin. fattaru?",
+            "date": "2009-01-06 22:43:00",
+            "post_id": "192739",
+            "reply_to_id": "192736"
+        },
+        {
+            "user_name": "Kristján Gerhard",
+            "text": "töflu geri ég ráð fyrir...   samt soldið vont að loka rúterinn inn í tengiskáp uppá þráðlausa netið.",
+            "date": "2009-01-06 22:48:00",
+            "post_id": "192741",
+            "reply_to_id": "192739"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "juju átti að standa töflu þarna en síðan er hægt að hafa routerinn bara skrúfaðann fyrir ofan skápinn.",
+            "date": "2009-01-06 22:52:00",
+            "post_id": "192744",
+            "reply_to_id": "192741"
+        },
+        {
+            "user_name": "orrieinarsson",
+            "text": "U skil ekki alveg, en hvar fær maður svona og er ekki hægt að fá mann til að setja þetta upp eða?",
+            "date": "2009-01-06 23:23:00",
+            "post_id": "192760",
+            "reply_to_id": "192744"
+        },
+        {
+            "user_name": "lukkuláki",
+            "text": "Fæst í tölvulistanum og víðar\nhttp://ok.is/einstaklingar/vorur/PLK200/default.aspx",
+            "date": "2009-01-06 23:50:00",
+            "post_id": "192776",
+            "reply_to_id": "192760"
+        },
+        {
+            "user_name": "orrieinarsson",
+            "text": "Ok takk.",
+            "date": "2009-01-07 00:15:00",
+            "post_id": "192788",
+            "reply_to_id": "192776"
+        },
+        {
+            "user_name": "zedro",
+            "text": "Afhverju notaru ekki bara þráðlausa netið? Ekki vera vesenast með eitthvað snúrubull",
+            "date": "2009-01-07 01:06:00",
+            "post_id": "192798",
+            "reply_to_id": "192788"
+        },
+        {
+            "user_name": "Gets",
+            "text": "Settu þetta  \n \nhttp://www.kisildalur.is/?p=2&id=857\n í vélina og málið er dautt",
+            "date": "2009-01-07 02:10:00",
+            "post_id": "192802",
+            "reply_to_id": "192798"
+        },
+        {
+            "user_name": "orrieinarsson",
+            "text": "Er ég ekkert að lagga í tölvuleikjaspilun semsagt á netinu með þessu Gets?",
+            "date": "2009-01-09 14:07:00",
+            "post_id": "193164",
+            "reply_to_id": "192802"
+        },
+        {
+            "user_name": "einarhr",
+            "text": "Til að þetta virki þá þarf hann líka 300 mb N Router og þeir eru ekki gefins. Mæli frekar með Powerline Búnaði, hann fæst í Tölvutek, Digital og hjá Símanum bæði 85 og 200 mb.",
+            "date": "2009-01-09 14:46:00",
+            "post_id": "193165",
+            "reply_to_id": "193164"
+        },
+        {
+            "user_name": "depill",
+            "text": "Ekki fyrir latency sensitive að nota Powerline, latencyið flökktar bara við það að breyta einhverjum straumi á greininni ( eins og kannski TV, tölvu, jafnvel ljósi ). Mæli ekki með því það, myndir jafnvel sleppa skárra með þráðlaust og bara nota innbyggt í ST routerinum ykkar, þar sem þetta er ekki mikil trafík sem verður aðallega latency sensitive, bara að kaupa sér fínt þráðlaust netkort ( jafnvel þetta N kort sem hann segir frá, þá ertu allavega tilbúinn fyrir N-ið ).\nBest væri nottulega að draga, það vill ekki svo skemmtilega til að það sé líka símatengill inní hjá þér. Tiltölulega einfalt að draga á milli tveggja símadósa ( og fyndist líklegt að þar sem þið eruð á sömuhæð að þá yrði samnýtt símarör ), en kannski reyndar ekki fyrir alla, en það yrði besti möguleikinn, held að PowerLine yrði versti möguleikinn fyrir þig allavega.",
+            "date": "2009-01-09 15:08:00",
+            "post_id": "193174",
+            "reply_to_id": "193165"
+        },
+        {
+            "user_name": "orrieinarsson",
+            "text": "Hvað er að draga?",
+            "date": "2009-01-09 15:57:00",
+            "post_id": "193186",
+            "reply_to_id": "193174"
+        },
+        {
+            "user_name": "Gets",
+            "text": "Draga netkapal í rafmagnsrör úr einni dós í aðra.\nRétt er það að 300 Mb Routerar eru ekki gefins, en þurfa heldur ekki að kosta hönd og fót  \n \nhttp://www.computer.is/vorur/6802",
+            "date": "2009-01-09 16:56:00",
+            "post_id": "193199",
+            "reply_to_id": "193186"
+        },
+        {
+            "user_name": "Gunnar",
+            "text": "rafvikjamál  \n \ngod i miss it",
+            "date": "2009-01-09 21:07:00",
+            "post_id": "193239",
+            "reply_to_id": "193199"
+        }
+    ],
+    "date": "2009-01-06 21:01:00"
+}

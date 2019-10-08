@@ -1,0 +1,135 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "18380",
+    "title": "Yellow Dog Linux Netþjónn ( server )",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=18380",
+    "posts": [
+        {
+            "user_name": "Arkidas",
+            "text": "Ég ætla að setja upp netþjón á PS3 tölvunni minni en hún keyrir á Yellow Dog Linux sem er svipað CentOS kerfinu.\nÉg mundi gjarnan vilja fá þða útskýrt í meginatriðum hvernig þetta er gert en ég veit sama og ekkert um þetta ferli.",
+            "date": "2008-06-20 14:50:00",
+            "post_id": "176530",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "dabb",
+            "text": "http://www.google.is/search?q=yellow+dog+ps3+install",
+            "date": "2008-06-20 16:17:00",
+            "post_id": "176533",
+            "reply_to_id": "176530"
+        },
+        {
+            "user_name": "Arkidas",
+            "text": "Mig vatnar hjálp við að setja upp server. Ég er búinn að koma YDL stýrikerfinu á vélina.",
+            "date": "2008-06-20 16:26:00",
+            "post_id": "176536",
+            "reply_to_id": "176533"
+        },
+        {
+            "user_name": "einarornth",
+            "text": "búinn að prófa þetta?",
+            "date": "2008-06-20 16:50:00",
+            "post_id": "176538",
+            "reply_to_id": "176536"
+        },
+        {
+            "user_name": "Arkidas",
+            "text": "Sú skipun virðist ekki vera til.",
+            "date": "2008-06-24 14:34:00",
+            "post_id": "176770",
+            "reply_to_id": "176538"
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Kóði: \nVelja allt\nyum install apache\nYum = Yellow dog Updater, Modified",
+            "date": "2008-06-24 17:59:00",
+            "post_id": "176780",
+            "reply_to_id": "176770"
+        },
+        {
+            "user_name": "JReykdal",
+            "text": "þar sem YDL er based á Red Hat/Fedora þá væri það líklega frekar yum install httpd",
+            "date": "2008-06-25 00:02:00",
+            "post_id": "176796",
+            "reply_to_id": "176780"
+        },
+        {
+            "user_name": "Arkidas",
+            "text": "Apache fór þó í gegn, ætti ég að reyna það sem þú sagðir líka?\nÉg gerði:\nyum install apache\nyum install php\nyum install mysql\nVeit einhver hvað ég á að gera næst \n?",
+            "date": "2008-06-25 00:09:00",
+            "post_id": "176797",
+            "reply_to_id": "176796"
+        },
+        {
+            "user_name": "einarornth",
+            "text": "Ætli þú þurfir ekki bara að kveikja á þjóninum, eflaust best að setja þetta í start-up script. Ég man ekki hvernig það er gert í red-hat, eflaust til nóg af hjálp fyrir það.\nTil hvers ertu að setja upp netþjón þarna?",
+            "date": "2008-06-25 09:12:00",
+            "post_id": "176805",
+            "reply_to_id": "176797"
+        },
+        {
+            "user_name": "Arkidas",
+            "text": "Mig bráðvantar leiðbeiningar svo þú mátt gjarnan benda mér á það sem gæti hjálpað mér.\nÆtla að setja upp vBulletin spjallborð, er með 40MB tengingu hjá Hringiðunni og vil nota hluta hennar í þetta.",
+            "date": "2008-06-25 12:40:00",
+            "post_id": "176812",
+            "reply_to_id": "176805"
+        },
+        {
+            "user_name": "einarornth",
+            "text": "http://www.yellowdog-board.com/viewforum.php?f=19&sid=084827c38860b9fbde4a0b8681713e51\nErtu s.s. búinn að installa apache? Þú getur prófað að slá localhost inn í browser á vélinni, eða slegið inn ip-töluna á PS3 tölvunni inn í annarri vél á heimanetinu hjá þér. Þá sérðu hvort þjónninn keyri.",
+            "date": "2008-06-25 13:25:00",
+            "post_id": "176813",
+            "reply_to_id": "176812"
+        },
+        {
+            "user_name": "Arkidas",
+            "text": "Ég held það, ég setti bara inn þessa skipun og beið nokkrar sek. Ég hef aldrei sett up netþjón áður svo ég þarf nokkuð ítarlegar leiðbeiningar.\nHef ekki fundið neinar.",
+            "date": "2008-06-25 16:22:00",
+            "post_id": "176842",
+            "reply_to_id": "176813"
+        },
+        {
+            "user_name": "JReykdal",
+            "text": "Og kom ekki fram hvort þetta hafi farið inn?",
+            "date": "2008-06-25 20:44:00",
+            "post_id": "176856",
+            "reply_to_id": "176842"
+        },
+        {
+            "user_name": "Arkidas",
+            "text": "apache og mysql ( held ég ) virkar en php virðist ekki komast í gang ( index.php skráin er phpinfo skrá og hún opnast ekki eins og sést með því að ýta á slóðina hér fyrir neðan )\nhttp://213.190.120.146/",
+            "date": "2008-07-20 19:56:00",
+            "post_id": "178374",
+            "reply_to_id": "176856"
+        },
+        {
+            "user_name": "JReykdal",
+            "text": "Virkar hjá mér.",
+            "date": "2008-07-21 15:41:00",
+            "post_id": "178420",
+            "reply_to_id": "178374"
+        },
+        {
+            "user_name": "Arkidas",
+            "text": "Var reyndar að fá náunga til að hjálpa mér með þetta. Þetta virðist allt vera að koma.",
+            "date": "2008-07-21 15:44:00",
+            "post_id": "178422",
+            "reply_to_id": "178420"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Virkar núna, gerði það ekki í dag, eitthvað er að virka hjá náunganum greinilega",
+            "date": "2008-07-21 19:05:00",
+            "post_id": "178428",
+            "reply_to_id": "178422"
+        },
+        {
+            "user_name": "Arkidas",
+            "text": "Þetta er allt komið núna en ég er í miklum vandræðum með að setja upp ionCube. Kann einhver hér það? Get gefið VNC viewer aðgang. Fór eftir leiðbeiningum en ekkert virðist virka.",
+            "date": "2008-07-23 14:15:00",
+            "post_id": "178539",
+            "reply_to_id": "178428"
+        }
+    ],
+    "date": "2008-06-20 14:50:00"
+}

@@ -1,0 +1,72 @@
+{
+    "forum_title": "Windows",
+    "id": "59924",
+    "title": "Vandamál með hægri klikk á desktop",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=59924",
+    "posts": [
+        {
+            "user_name": "psteinn",
+            "text": "Sælir vaktarar,\nÉg er í vandamálum með þegar ég hægri klikka desktopið mitt þá kemur bara þessi \"loading\" hringur í stað fyrir cursorinn.\nEinungis á desktopinu ég get hægri klikkað á skrár á desktopinu og allstaðar annarstaðar heldur en desktopinu.\nVandamálið er bara komið í ljós núna eftir að ég fékk nýtt skjákort og nýann skjá...  \n \nHjálp takk.",
+            "date": "2014-02-28 20:39:00",
+            "post_id": "553612",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Hnykill",
+            "text": "ctrl alt del og skoðaðu hvað hvað er í gangi.. og hvað á ekki að vera",
+            "date": "2014-02-28 21:56:00",
+            "post_id": "553619",
+            "reply_to_id": "553612"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "Ég lenti í sambærilegu um daginn, komst að því að Bluetooth músin var að beila.\nLagðist þegar ég skipti um mús. Spurning hvort þú getir prófað aðra mús svona til að sjá hvað gerist.",
+            "date": "2014-02-28 22:06:00",
+            "post_id": "553622",
+            "reply_to_id": "553619"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Lenti í þessu einhverntímann líka. Það voru einhverjar registry villur. Prófaðu að keyra ccleaner",
+            "date": "2014-02-28 22:11:00",
+            "post_id": "553623",
+            "reply_to_id": "553622"
+        },
+        {
+            "user_name": "psteinn",
+            "text": "Humm þetta er enþá vandamál, en ég tók tímann hversu lengi það tók að hægri klikkast (var að fatta að það frís ekki heldur bara tekur ótrúlega langann tíma) það tekur 15 sec. Búinn að runna Ccleaner og athuga hvað er í startup í task manager.Ég ekki með mús á staðnum núna sem ég get prófað en mér finnist það voðalega ólíklegt að þetta væri músin af því að hægri klikk takkinn virkar alltaf nema á desktop...",
+            "date": "2014-02-28 23:59:00",
+            "post_id": "553645",
+            "reply_to_id": "553623"
+        },
+        {
+            "user_name": "kizi86",
+            "text": "tók eftir að sagðir að hafðir skipt um skjákort, skiptirðu kanski um tegund, þe ur amd yfir i nvidia eða öfugt? kanski er eitthvað eftir af gömlu driverunum að reyna að loada nvidia control panel/catalyst manager og hann ekki lengur til staðar/driverarnir ekki í notkun",
+            "date": "2014-03-01 02:17:00",
+            "post_id": "553658",
+            "reply_to_id": "553645"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "http://computersolution.wikispaces.com/ ... s+too+long",
+            "date": "2014-03-01 09:56:00",
+            "post_id": "553686",
+            "reply_to_id": "553658"
+        },
+        {
+            "user_name": "psteinn",
+            "text": "Þú mögulega gafst mér það feitasta hjartaáfall sem maður getur fengið. \n \nJá þetta er rétt hjá þér að ég skipti úr Nvidia yfir í AMD en ég var hins vegar búinn að installa AMD videocard driver fyrir skjákortið mitt. En ég fór að uninstalla gömlu Nvidia driverunum, þá eithverjum Audio og Graphic driverum.\nÞá ákvað ég að restarta tölvuni og athuga þá hvort þetta virkar. Tölvan ræsir sig og er að starta Windows 8.1 nema þegar það virðist vera búið að loada up Windows þá er bara svartur skjár og curserinn hagar sér rosalega óeðlilega (ef ég hreyfi hann þá teleportast hann bara aftur og áfram og virðist alltaf vera að loada eithverju). Ég beið og beið og ekkert gerðist, ég reyndi að starta henni up í save mode og sama gerðist en svo þegar ég er búinn að restarta henni svona 5 sinnum þá gefur Windows mér möguleika að laga þetta og ég þurfti þá að restora allri tölvunni eins og hún var í gær. Vandamálið er ekki enn leyst.\nÉg er að fara að lana í kvöld og ég ættla ekkert að fikta meira við þetta vandamál fyrr en eftir lanið",
+            "date": "2014-03-01 18:01:00",
+            "post_id": "553718",
+            "reply_to_id": "553686"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Lausnin á þessu hjá þér sýnist mér einfaldlega vera í svarinu frá KermitTheFrog, meira að segja mögulega sami registry key og í því dæmi",
+            "date": "2014-03-01 21:26:00",
+            "post_id": "553740",
+            "reply_to_id": "553718"
+        }
+    ],
+    "date": "2014-02-28 20:39:00"
+}

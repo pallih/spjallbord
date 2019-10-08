@@ -1,0 +1,58 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "31135",
+    "title": "Get ekki bootað from CD",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=31135",
+    "posts": [
+        {
+            "user_name": "Nxxx",
+            "text": "Sælir, ég ætlaði að setja upp windows xp í tölvuna mína og þegar það kemur \"press any key to boot from CD\" er eins og lyklaborðið hafi ekki kveikt á sér,\nog þar af leiðandi virkar ekki að ýta á neinn takka.\nVeit einhver hvað gæti verið að ?",
+            "date": "2010-07-07 12:55:00",
+            "post_id": "270806",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "JohnnyX",
+            "text": "USB eða PS/2 lyklaborð?",
+            "date": "2010-07-07 13:18:00",
+            "post_id": "270810",
+            "reply_to_id": "270806"
+        },
+        {
+            "user_name": "Nxxx",
+            "text": "USB lyklaborð",
+            "date": "2010-07-07 13:21:00",
+            "post_id": "270812",
+            "reply_to_id": "270810"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "Þar liggur hundurinn grafinn!\n...reddaðu þér ps2/usb millistykki eða ps/2 lyklaborði og svo skaltu breyta í BIOS þannig að USB portin keyri sig strax upp svo þú getir notað USB-lyklaborð í BIOS :p",
+            "date": "2010-07-07 13:37:00",
+            "post_id": "270815",
+            "reply_to_id": "270812"
+        },
+        {
+            "user_name": "JohnnyX",
+            "text": "eða bara góði hirðirinn og fá sér 200kr PS/2 lyklaborð. Alltaf gott að eiga svoleiðis þegar vesen kemur upp",
+            "date": "2010-07-07 14:19:00",
+            "post_id": "270817",
+            "reply_to_id": "270815"
+        },
+        {
+            "user_name": "bixer",
+            "text": "ef Þú kemst í bios þá er möguleiki að laga þetta og leyfa usb lyklaborð í startupi. getur líka prufað önnur usb port. breytistikkin virka sjaldan...",
+            "date": "2010-07-07 16:17:00",
+            "post_id": "270836",
+            "reply_to_id": "270817"
+        },
+        {
+            "user_name": "Nxxx",
+            "text": "Takk fyrir hjálpina, það virkaði ekki að tengja i önnur usb tengi. En mun þá bara redda mér svona lyklaborði.",
+            "date": "2010-07-08 01:04:00",
+            "post_id": "270960",
+            "reply_to_id": "270836"
+        }
+    ],
+    "date": "2010-07-07 12:55:00"
+}

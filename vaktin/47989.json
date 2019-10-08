@@ -1,0 +1,121 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "47989",
+    "title": "cisco routers/switch",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=47989",
+    "posts": [
+        {
+            "user_name": "johnbig",
+            "text": "Hvar er hægt að kaupa affordable cisco switch og router hérna á landinu ?\ner það kannski ekki hægt ?\nE-bay ?\nkv \njón",
+            "date": "2012-05-24 19:03:00",
+            "post_id": "443437",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Efast um að þú finnir eitthvað hér á landi ódýrt. Best væri að finna þetta notað á ebay.\nKannski asnaleg spurning en kanntu að configga Cisco Routera og switcha?",
+            "date": "2012-05-24 20:32:00",
+            "post_id": "443470",
+            "reply_to_id": "443437"
+        },
+        {
+            "user_name": "natti",
+            "text": "a) Define ódýrt.\nb) Fyrir hversskonar hlutverk? Heimanetið? Vinnustaðinn? Lærdóm? \nÞað er til þokkalegt vöruúrval af bæði routerum og svissum, misdýrt, mismikið af fítusum, mismikið throughput etc. etc.\nEf þetta er ekki fyrir fyrirtæki, þá er ebay örugglega fínasti kostur.",
+            "date": "2012-05-24 20:54:00",
+            "post_id": "443484",
+            "reply_to_id": "443470"
+        },
+        {
+            "user_name": "johnbig",
+            "text": "Ebay, já kannski er búinn að vera skoða ýmislegt, en ef það er til eitthvað hérna heima væri ég til í að skoða það \nConfigga cisco Router/switch ..... íííssssíííí",
+            "date": "2012-05-25 17:32:00",
+            "post_id": "443670",
+            "reply_to_id": "443484"
+        },
+        {
+            "user_name": "johnbig",
+            "text": "a) kannski router+ switch 30-40 kall, bara ekki eldra ios en 12,1 / eða uppdateable\nb)Bara til að sansa heimanetið og servera hérna heima, 3 súrvers og 3 heima clients, ódýrasti routerinn hérna heima útur búð kostar 98k",
+            "date": "2012-05-25 17:37:00",
+            "post_id": "443672",
+            "reply_to_id": "443670"
+        },
+        {
+            "user_name": "Farcry",
+            "text": "Hérna er eitthvað úrval\nhttps://www.okbeint.is/hpbeint/ui/vorur/list.do?id=70",
+            "date": "2012-05-25 18:42:00",
+            "post_id": "443682",
+            "reply_to_id": "443672"
+        },
+        {
+            "user_name": "FuriousJoe",
+            "text": "Er með Cisco E1000 router til sölu á 6.000\nviewtopic.php?f=11&t=47492",
+            "date": "2012-05-25 20:18:00",
+            "post_id": "443698",
+            "reply_to_id": "443682"
+        },
+        {
+            "user_name": "ponzer",
+            "text": "Ná nú deila um það hvort þetta sé Cisco búnaður! Þetta er bara Linksys græja sem er Cisco branded - getur ekkert átt við þetta.",
+            "date": "2012-05-25 20:39:00",
+            "post_id": "443703",
+            "reply_to_id": "443698"
+        },
+        {
+            "user_name": "FuriousJoe",
+            "text": "Reyndar alveg hellingur hægt að eiga við þetta.\nHefuru prófað svona router ?\nOg hvaða Cisco routera eru þið þá að tala um ?\nVel merkt Cisco, svo þetta hlítur að vera Cisco búnaður.",
+            "date": "2012-05-26 02:34:00",
+            "post_id": "443742",
+            "reply_to_id": "443703"
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "Þetta er fínt svona fyrir krakkana að leika sér með.",
+            "date": "2012-05-26 02:38:00",
+            "post_id": "443745",
+            "reply_to_id": "443742"
+        },
+        {
+            "user_name": "ponzer",
+            "text": "Þetta er ekki að keyra Cisco IOS stýrikerfi og ekki með console eða neitt svoleiðis.",
+            "date": "2012-05-26 03:35:00",
+            "post_id": "443747",
+            "reply_to_id": "443745"
+        },
+        {
+            "user_name": "FuriousJoe",
+            "text": "Jáh vó, var ekkert að lesa innihald þráðarins greinilega",
+            "date": "2012-05-26 11:22:00",
+            "post_id": "443766",
+            "reply_to_id": "443747"
+        },
+        {
+            "user_name": "johnbig",
+            "text": "Lol, takk, \nmig vantar eitthvað sem kostar ekki augun úr..\n&\n@Furiousjoe: Takk sammt \nætlaði bara kanna hvort eitthvað væri til, \nsé það nú bara að ebay er málið =)",
+            "date": "2012-05-26 16:08:00",
+            "post_id": "443810",
+            "reply_to_id": "443766"
+        },
+        {
+            "user_name": "dorg",
+            "text": "Kemst reyndar ótrúlega nálægt the real thing með Dynamips/Dynagen sem emulerar cisco routera.",
+            "date": "2012-05-26 16:25:00",
+            "post_id": "443812",
+            "reply_to_id": "443810"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Sýnist hann vilja vera með Cisco router heima hjá sér og kunni á IOS.",
+            "date": "2012-05-26 16:54:00",
+            "post_id": "443817",
+            "reply_to_id": "443812"
+        },
+        {
+            "user_name": "johnbig",
+            "text": "@Dorg, ef mig vantar æfingu í cisco ios þá notast ég við \"cisco packet tracer\", mæli með því fyrir þá sem eru eða ætla einhvertíman að taka ccna, en takk sammt, \n@Pandemic, Correctomundo",
+            "date": "2012-05-26 23:48:00",
+            "post_id": "443943",
+            "reply_to_id": "443817"
+        }
+    ],
+    "date": "2012-05-24 19:03:00"
+}

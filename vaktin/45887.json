@@ -1,0 +1,142 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "45887",
+    "title": "SSD of lítill gagnahraði",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=45887",
+    "posts": [
+        {
+            "user_name": "intenz",
+            "text": "Ég er í smá basli með nýja SSD diskinn sem ég var að kaupa mér (Corsair Force 3 120 GB).\nÉg fæ bara þennan gagnahraða út úr honum (200 MB/s í staðinn fyrir eins og auglýst er, 400-500 MB/s)\nÉg er með GA-X58-UD3R móðurborð sem styður eingöngu SATA2 þannig ég keypti \nSATA3 stýrispjald\n og setti í tölvuna og tengdi SSD diskinn við.\nÉg boota tölvunni og fæ að diskurinn sé á SATA3 (6 Gb/s). Hins vegar stendur fyrir ofan \nPCIe x1 2.5Gbps\n þannig ég er ekki viss.\nÉg reyndi að komast inn í BIOS fyrir stýrispjaldið en þetta er það eina sem ég fæ upp:\nhttp://i.imgur.com/qI0Yf.jpg",
+            "date": "2012-02-19 17:23:00",
+            "post_id": "422524",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Nördaklessa",
+            "text": "þetta reddaði mér\nhttp://www.sevenforums.com/tutorials/61 ... vista.html",
+            "date": "2012-02-19 17:26:00",
+            "post_id": "422525",
+            "reply_to_id": "422524"
+        },
+        {
+            "user_name": "intenz",
+            "text": "BIOS er stilltur á AHCI og þetta registry gildi er stillt á 0.",
+            "date": "2012-02-19 17:29:00",
+            "post_id": "422526",
+            "reply_to_id": "422525"
+        },
+        {
+            "user_name": "arnif",
+            "text": "Prófaðu CrystalDiskMark og veldu 0 fill undir file > test data",
+            "date": "2012-02-19 17:37:00",
+            "post_id": "422527",
+            "reply_to_id": "422526"
+        },
+        {
+            "user_name": "Nördaklessa",
+            "text": "ég er með sama disk bara 60 GB hinsvegar og ég er að fá þetta score",
+            "date": "2012-02-19 18:02:00",
+            "post_id": "422536",
+            "reply_to_id": "422527"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Einmitt, þetta er það sem ég ætti að vera að fá.",
+            "date": "2012-02-19 18:04:00",
+            "post_id": "422537",
+            "reply_to_id": "422536"
+        },
+        {
+            "user_name": "Nördaklessa",
+            "text": "getur verið að þetta stýrisspjald er ekkert að gera sig?",
+            "date": "2012-02-19 18:16:00",
+            "post_id": "422540",
+            "reply_to_id": "422537"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Það gæti náttúrulega verið. SATA2 er alveg 384 MB/s þannig það er spurning hvort ég ætti bara að prófa að tengja SSD diskinn beint í móðurborðið.",
+            "date": "2012-02-19 18:22:00",
+            "post_id": "422541",
+            "reply_to_id": "422540"
+        },
+        {
+            "user_name": "bAZik",
+            "text": "PCI bussinn er að keyra á 1x, geturu ekki fært kortið í aðra rauf?\nÁgiskun.",
+            "date": "2012-02-19 18:28:00",
+            "post_id": "422542",
+            "reply_to_id": "422541"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Í 4x þá?",
+            "date": "2012-02-19 18:30:00",
+            "post_id": "422543",
+            "reply_to_id": "422542"
+        },
+        {
+            "user_name": "viggib",
+            "text": "Skoða þetta: \nhttp://www.asrock.com/mb/spec/card.asp? ... TA3%20Card",
+            "date": "2012-02-19 18:45:00",
+            "post_id": "422548",
+            "reply_to_id": "422543"
+        },
+        {
+            "user_name": "bAZik",
+            "text": "2x eða 4x, já. 2x (500MB/s) dugar.",
+            "date": "2012-02-19 18:48:00",
+            "post_id": "422550",
+            "reply_to_id": "422548"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Ok prófa það \n Læt vita hvernig fer.",
+            "date": "2012-02-19 19:01:00",
+            "post_id": "422553",
+            "reply_to_id": "422550"
+        },
+        {
+            "user_name": "Moquai",
+            "text": "Ég er akkurat að lenda í þessu sama, var fyrst að fá í kringum 100-150mb/s.\nÉg náði að haka við eitthverju í biosnum um eitthvað tengt ssdinum á \"onchip\" og hann hækkaði upp í aðeins ofar en 200.\nEr samt ekki að fá þann hraða og er auglýst.\ner með : \nhttp://tolvutek.is/vara/120gb-sata3-mus ... 25-chronos\nSvo þegar ég er að afrita eitthvað bara til að prufa fer þetta í rugl ...",
+            "date": "2012-02-19 19:29:00",
+            "post_id": "422560",
+            "reply_to_id": "422553"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Ef að þetta er sama kort og Kísildalur er að selja \n[Linkur]\n þá stendur þar að þetta virki bara með Asrock móðurborðum",
+            "date": "2012-02-19 19:51:00",
+            "post_id": "422565",
+            "reply_to_id": "422560"
+        },
+        {
+            "user_name": "Oak",
+            "text": "er þetta ekki bara gefið út fyrir x1?",
+            "date": "2012-02-19 19:53:00",
+            "post_id": "422566",
+            "reply_to_id": "422565"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Ég færði stýrispjaldið í 16x rauf (var í 1x) og fékk þetta út...",
+            "date": "2012-02-19 20:20:00",
+            "post_id": "422574",
+            "reply_to_id": "422566"
+        },
+        {
+            "user_name": "AciD_RaiN",
+            "text": "aðeins betra",
+            "date": "2012-02-19 20:22:00",
+            "post_id": "422577",
+            "reply_to_id": "422574"
+        },
+        {
+            "user_name": "intenz",
+            "text": "Hehe já, aðeins",
+            "date": "2012-02-19 20:24:00",
+            "post_id": "422579",
+            "reply_to_id": "422577"
+        }
+    ],
+    "date": "2012-02-19 17:23:00"
+}

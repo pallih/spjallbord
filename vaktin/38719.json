@@ -1,0 +1,93 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "38719",
+    "title": "Hvað gera forritarar þegar að kóðinn þeirra er að compilea?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=38719",
+    "posts": [
+        {
+            "user_name": "ManiO",
+            "text": "Þið sem vinnið sem forritarar, hvað gerið þið á meðan kóðinn er að compileast/keyrast?",
+            "date": "2011-05-23 13:47:00",
+            "post_id": "350516",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "",
+            "date": "2011-05-23 13:48:00",
+            "post_id": "350517",
+            "reply_to_id": "350516"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Bora í nefið.\nEða byrja á einu af hinum 498 verkefnunum sem eru á backlogginu.",
+            "date": "2011-05-23 13:54:00",
+            "post_id": "350518",
+            "reply_to_id": "350517"
+        },
+        {
+            "user_name": "hagur",
+            "text": "http://www.mbl.is/\n klikkar ekki ...",
+            "date": "2011-05-23 14:53:00",
+            "post_id": "350528",
+            "reply_to_id": "350518"
+        },
+        {
+            "user_name": "wicket",
+            "text": "Reyni að gera eitthvað annað sem þarf að gera, helvítis rekstrarmál endalaust auðvitað og svo að documenta. Maður documentar aldrei of mikið",
+            "date": "2011-05-23 16:01:00",
+            "post_id": "350538",
+            "reply_to_id": "350528"
+        },
+        {
+            "user_name": "codec",
+            "text": "Þarf ekki að hafa áhyggjur af þessu.  Er með alvöru vél og compile tíminn er nánast engin.  Mjög stór solution í VS 2010 (32 project) buildar á 5 sek.  (Total build time: 00:05.171)\n\"Rebuild All\" tekur 24 sek,  \nKóði: \nVelja allt\nTotal build time: 00:24.279\n========== Rebuild All: 32 succeeded or up-to-date, 0 failed, 0 skipped ==========\nÉg og yfirmaðurinn erum mjög sáttir með þetta",
+            "date": "2011-05-23 16:12:00",
+            "post_id": "350539",
+            "reply_to_id": "350538"
+        },
+        {
+            "user_name": "coldcut",
+            "text": "@AntiTrust: damn ég ætlaði að koma með þessa mynd!\nannars mun ég ábyggilega nota compile-tímann í að grandskoða Slashdot þegar maður verður farinn að vinna við þetta :p",
+            "date": "2011-05-23 16:18:00",
+            "post_id": "350540",
+            "reply_to_id": "350539"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Damn .... spekkar?\nEr með VS 2010 solution með 14 projectum, tekur u.þ.b. 30 sek að builda.  Er með ágætis quad core vél, en helst til of lítið minni.",
+            "date": "2011-05-23 16:50:00",
+            "post_id": "350546",
+            "reply_to_id": "350540"
+        },
+        {
+            "user_name": "guttalingur",
+            "text": "Ég notast við python svo minn compile time er 0.00Sec\nBúja!",
+            "date": "2011-05-23 19:24:00",
+            "post_id": "350584",
+            "reply_to_id": "350546"
+        },
+        {
+            "user_name": "codec",
+            "text": "Er heima núna og man ekki alveg alla speca en þetta er workstation með einhverjum quad core Xeon (edit, Xeon auðvitað ekki xenon) örgjörva, mig minnir að hún sé með 8 gb í minni, Quadro skjákort en það sem munar líklega mest um SSD diskinn sem er að gera góða hluti.\nVarðandi python commentið þá er pyton kóði auðvitað compilaður.  Hann er bara compilaður í hvert sinn sem hann er keyrður (það er eðli túlkaðra \"interpeted\" mála), nema þú kjósir að compila hann fyrirfram í pyc eða pyo skrár.",
+            "date": "2011-05-23 20:54:00",
+            "post_id": "350619",
+            "reply_to_id": "350584"
+        },
+        {
+            "user_name": "guttalingur",
+            "text": "Haha þetta átti að vera diss á ykkur c++ inga...\nEnn já akkúrat.",
+            "date": "2011-05-23 20:56:00",
+            "post_id": "350620",
+            "reply_to_id": "350619"
+        },
+        {
+            "user_name": "pjesi",
+            "text": "Fer yfirleitt á reddit eða twitter að leita af einhverju til að lesa",
+            "date": "2011-05-28 21:27:00",
+            "post_id": "351736",
+            "reply_to_id": "350620"
+        }
+    ],
+    "date": "2011-05-23 13:47:00"
+}

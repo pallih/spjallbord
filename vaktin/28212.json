@@ -1,0 +1,23 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "28212",
+    "title": "Kjarni 0 fer á fullt af engri ástæðu, tölva hægir á sér",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=28212",
+    "posts": [
+        {
+            "user_name": "gunnargolf",
+            "text": "Fyrir u.þ.b. viku lenti ég í því að annar kjarninn í E6400 örranum mínum fór að sveiflast á milli idle og 100% í task manager. Samt var ekkert process skráð með CPU notkun annað en system idle process. \nÞetta hægði verulega á tölvunni. Ég restartaði henni sem gekk hægt og þegar hún kveikti á sér var ennþá sama rugl í gangi. Þá fór eitthvað helvítis windows update í gang og það ætlaði aldrei að klárast og tölvan laggaði hrikalega á meðan svo ég slökkti á henni. Eftir það gat ég ekki kveikt á henni aftur, fékk eitthvað missing file error við startup, sem var hugsanlega vegna þess að ég slökkti á henni í miðju windows update.\nSvo formattaði ég stýrikerfisdiskinn og setti aftur upp XP. Þá virtist allt vera í himnalagi en í dag, kannski þremur dögum eftir format virðist þetta vandamál vera komið aftur. Músin fer að lagga og tölvan verður almennt hæg og leikir illspilanlegir.\nÉg er búinn að kanna hitann á kjörnum, er svipaður á báðum og fer ekki yfir 52°c, sem er vel undir hættumarki. Hvað dettur mönnum í hug?",
+            "date": "2010-02-09 15:04:00",
+            "post_id": "244338",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "gunnargolf",
+            "text": "Ég held að ég hafi reddað þessu.\nÉg náði í Process Explorer og sá þar að Hardware Interrupts voru að nota annan kjarnann meira og minna allan. Ég googlaði smá og fann þetta: \nhttp://frazzleddad.blogspot.com/2006/03 ... dware.html\nÉg fylgdi þessum leiðbeiningum og nú er alllt í góðu. Reyndar finnst mér líklegt að þetta vandamál komi aftur upp eftir nokkra daga, m.v. að það gerði það eftir að ég formataði. Mér finnst því líklegt að þetta sé hardware vandamál. \nEr það IDE harður diskur (er með einn svoleiðis í vélinni)? Eða er það móðurborðið?\nEDIT: eins og mig grunaði, þá fór IDE controllerinn aftur á PIO mode og tölvan farin í sama pakka. Á ég að prófa að taka IDE diskinn úr?",
+            "date": "2010-02-10 11:55:00",
+            "post_id": "244466",
+            "reply_to_id": "244338"
+        }
+    ],
+    "date": "2010-02-09 15:04:00"
+}

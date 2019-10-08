@@ -1,0 +1,37 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "46144",
+    "title": "outgoing smtp þjónn hjá hringdu.is ?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=46144",
+    "posts": [
+        {
+            "user_name": "fedora1",
+            "text": "Sælir\nVar að skipta yfir til hringdu.is.\nVeit einhver hvaða smtp þjón maður notar sem outgoint smtp þjón hjá þeim. það er frekar rýr heimasíðan þeirra.",
+            "date": "2012-02-29 20:42:00",
+            "post_id": "425009",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "lukkuláki",
+            "text": "Búinn að prófa mail.hringdu.is ?",
+            "date": "2012-02-29 20:50:00",
+            "post_id": "425012",
+            "reply_to_id": "425009"
+        },
+        {
+            "user_name": "intenz",
+            "text": "gaui@home:~$ nmap -p 25 mail.hringdu.is\nPORT   STATE SERVICE\n25/tcp open  smtp\nNmap done: 1 IP address (1 host up) scanned in 0.26 seconds",
+            "date": "2012-02-29 20:51:00",
+            "post_id": "425014",
+            "reply_to_id": "425012"
+        },
+        {
+            "user_name": "fedora1",
+            "text": "auðvitað, hefði geta sagt mér þetta sjálfur, þeir mættu samt setja þetta á síðuna síuna...",
+            "date": "2012-02-29 20:58:00",
+            "post_id": "425016",
+            "reply_to_id": "425014"
+        }
+    ],
+    "date": "2012-02-29 20:42:00"
+}

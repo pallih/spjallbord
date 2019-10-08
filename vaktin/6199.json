@@ -1,0 +1,93 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "6199",
+    "title": "Er AGP dautt?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=6199",
+    "posts": [
+        {
+            "user_name": "zedro",
+            "text": "Jæja núna er verið að íhuga kaup á leikjavél.  \n\n\nEn nokkrar sp. hafa komið upp varðandi hvaða móðurborð mar eigi að skella sér á.\n\n\n\nBeint út er AGP(8x) dautt og er PCIe(16x) að koma í staðinn.\n\n\n\nÉg hef heirt hér og þar að það eigi að hætta með AGP og taka PCIe í\n\nstaðinn en ég hef einnig heirt að það það komi bráðum út AGP(16x)\n\nveit einhver hér eitthvað um málið? \n\n\n\n\nEinnig hvort mælið þið með að kaupa móðurborð með AGP eða PCIe slott? :disastreus \n\n\n\nEf þig vitið um góð kaup endilega posta link eða upls.\n\n(miða við móðurborð: AMD64 3500+, Dual DDR support)\n\n\n\nAlla upls. vel teknar, því ég er kominn með bombandi hausverk \n\n\nutaf öllum umsagnunum sem ég hef lesi á netinu.",
+            "date": "2004-11-02 17:22:00",
+            "post_id": "63806",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "AGP er ekkert að fara að falla í gleymsku það er enþá á miklum meirihluta á móbóum og flest skjákort eru AGP.\n\nÞað hefur sýnt sig að PciE kortin eru ekkert hraðari en AGP",
+            "date": "2004-11-02 19:02:00",
+            "post_id": "63820",
+            "reply_to_id": "63806"
+        },
+        {
+            "user_name": "Birkir",
+            "text": "Það mun aldrei rísa upp úr skugga PCIe úr því sem komið er en það er hinsvegar ekki dautt.  Ég ákvað að sitja hjá",
+            "date": "2004-11-02 19:26:00",
+            "post_id": "63825",
+            "reply_to_id": "63820"
+        },
+        {
+            "user_name": "einarsig",
+            "text": "ennþá ! \n uppá framtíðina myndi ég versla mér móðurborð sem styður pci-x útaf  að geta uppfært seinna meir þegar AGP kortin ráða ekki öllu \n\n\n\n\nannars er ég að fá mér 6800 ultra agp og hef ekki hug á að uppfæra næstu 2 árin sennilega",
+            "date": "2004-11-02 19:28:00",
+            "post_id": "63827",
+            "reply_to_id": "63825"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Einsog mig minnir að hafi verið bent á, er \nPCI-X ekki það sama og PCI-Express\n (oft kallað PCI-E og PCIe)\n\n\n\nLeyfi ykkur að Googla muninum",
+            "date": "2004-11-02 19:58:00",
+            "post_id": "63835",
+            "reply_to_id": "63827"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "16x agp mun aldrei koma. það er hraðamunur á PCIe og agp. en hann er ekki mikill sem stendur.",
+            "date": "2004-11-03 00:17:00",
+            "post_id": "63888",
+            "reply_to_id": "63835"
+        },
+        {
+            "user_name": "llMasterlBll",
+            "text": "held að annar kostur við PCIe (16x) móðurborðin séu hinar PCIe raufarnar sem eru þá oftast líka...minnir mig...darn...er ég kannski bara að bulla?...googla aðeins...seinna...sofa núna!",
+            "date": "2004-11-03 00:27:00",
+            "post_id": "63894",
+            "reply_to_id": "63888"
+        },
+        {
+            "user_name": "hahallur",
+            "text": "Hvernig getur APG verið dautt ef nánast allir nota það í dag \n\n\nKannski dautt eftir 2 ár hver veit.",
+            "date": "2004-11-03 09:40:00",
+            "post_id": "63916",
+            "reply_to_id": "63894"
+        },
+        {
+            "user_name": "kristjanm",
+            "text": "Ég myndi frekar versla mér PCI-Express móðurborð/skjákort vegna þess að þá er auðveldara að uppfæra í framtíðinni, t.d. ef þú myndir kaupa þér nýtt skjákort, hljóðkort, lankort eða whatever sem væri gert fyrir PCI-Express.\n\n\n\nAnnars er lítill sem enginn hraðamunur, stundum er AGP aðeins hraðvirkara og stundum PCIe. Annars hef ég tekið eftir á review síðum að Aquamark skorar alveg 2000stigum hærra ef það er á mjög hraðvirku PCIe skjákorti. Þar segir hærri bandvíddin til sín.",
+            "date": "2004-11-03 19:04:00",
+            "post_id": "64008",
+            "reply_to_id": "63916"
+        },
+        {
+            "user_name": "wICE_man",
+            "text": "AGP X4 er ennþá að halda í við AGP X8 svo að það var ekki minnsti tilgagnur í að herða á þessu frekar en það var tilgangur með því að hækka frá ATA100 upp í ATA133, fæstir harðir diskar ná einu sinni að metta ATA66!\n\n\n\nEn AGP verður dautt eftir eitt eða tvö ár, þar sem allir eru að færa sig yfir í PCIe. Það er hentugt að hafa sama protocal fyrir öll aukakort í tölvunni, og það er akkurat það sem að PCIe tæknin gerir kleyft.",
+            "date": "2004-11-04 10:58:00",
+            "post_id": "64080",
+            "reply_to_id": "64008"
+        },
+        {
+            "user_name": "ganjha",
+            "text": "Þetta móðurborð\n segir kannski hversvegna PCI express mun verða ofaná í framtíðinni...\n\n\n\nSvo gæti það allt breyst aftur á morgun.",
+            "date": "2004-11-30 13:55:00",
+            "post_id": "68319",
+            "reply_to_id": "64080"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "PCIe mun ekki verða oná þegar næsti standard er búinn að vera í 2 ár..\n\n\n\nauðvitað er PCIe það sem að mun vera í framtíðinni.\n\n\n\nþetta er svona álíka og að segja: \"sko! 2005 kemur á eftir 2004!\"",
+            "date": "2004-11-30 14:53:00",
+            "post_id": "68334",
+            "reply_to_id": "68319"
+        }
+    ],
+    "date": "2004-11-02 17:22:00"
+}

@@ -1,0 +1,51 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "1589",
+    "title": "Dularfull Powerdown",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=1589",
+    "posts": [
+        {
+            "user_name": "Damien",
+            "text": "Það hefur tvisvar komið fyrir í kvöld mjög dularfull power down.\n\nÍ fyrra skiptið var Winamp og Norton (að scanna) í gangi og í hitt\n\nskiptið var ég á netinu (spjall.vaktin.is \n) og að scanna með Norton\n\n (því það slokknaði á tölvunni áður en hann náði að klára).\n\n\n\nÞetta gerist bara allt í einu. Bara svartur skjár og restart.\n\n\n\nÍ fyrra skiptið kom error log með engri ástæðu (bara\n\nwindows has recovered from a serious error) og í hitt skiptið kenndi hún skjákortinu \n\num ATI Radeon 9700 Pro (ég er með nýjustu drivera)\n\n\n\nVeit einhver hvað er að?",
+            "date": "2003-09-20 21:07:00",
+            "post_id": "13921",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "elv",
+            "text": "Moboið ?",
+            "date": "2003-09-20 21:14:00",
+            "post_id": "13924",
+            "reply_to_id": "13921"
+        },
+        {
+            "user_name": "Damien",
+            "text": "neee... ég er með Asus P4P800 - DeLuxe\n\nMig grunar að þetta sé Windowsið... ég er ekki búinn að setja inn nein update eða Sp1.\n\nMan það núna að þetta hefur komið fyrir áður, og þá var ég með marga IExplorer glugga opna og að scanna og að fletta gluggunum á fullu, þá slokknaði á henni.\n\n\n\nGæti nokkuð verið að þetta sé útaf því að Skjákortið vanti rafmagn?\n\nÉg er með þetta tengt PSU > Skjakort > HDD > Lítið Ljós.\n\nÞetta er nokkuð powersurge? ég hef verið að keyra margt þungt fyrir skjákort og hdd og allt í lagi...",
+            "date": "2003-09-20 21:39:00",
+            "post_id": "13931",
+            "reply_to_id": "13924"
+        },
+        {
+            "user_name": "elv",
+            "text": "Hvernig kort ertu með, Psu, hve marga diska viftur?\n\n\n\n\n\nhttp://spjall.vaktin.is/viewtopic.php?t=1583&highlight=\n Hérnu ert sjálfur að tala um moboið",
+            "date": "2003-09-20 22:06:00",
+            "post_id": "13937",
+            "reply_to_id": "13931"
+        },
+        {
+            "user_name": "ICM",
+            "text": "Ólíklegasti möguleikinn en má samt ekki útiloka, norton var að scanna í bæði skiptin afhverju þá ekki bara að hætta að nota hann eða re-installa honum, einusinni setti ég inn nortonav á eina tölvu án þess að gera neitt annað og það var ekki hægt að kveikja á henni án þess að nota boot disk, norton er oft á tíðum að fikta með mikilvægar system skrár og getur klúðrað miklu.",
+            "date": "2003-09-20 23:25:00",
+            "post_id": "13950",
+            "reply_to_id": "13937"
+        },
+        {
+            "user_name": "Damien",
+            "text": "Jamm þetta er eikkað með Norton að gera.\n\n\n\nÉg er með Antec TruePower 430W PSU og WD 120GB 8Mb en ég held\n\nnúna að það sé ekki málið...\n\n\n\nÉg held að ég scanni með BARA Norton í gangi, þá er allt í lagi...\n\n\n\nThx fyrir hjálpina",
+            "date": "2003-09-21 12:46:00",
+            "post_id": "13993",
+            "reply_to_id": "13950"
+        }
+    ],
+    "date": "2003-09-20 21:07:00"
+}

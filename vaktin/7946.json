@@ -1,0 +1,58 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "7946",
+    "title": "Net-monitor (natti ætti kannski að svara þessu)",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=7946",
+    "posts": [
+        {
+            "user_name": "GuðjónR",
+            "text": "Éin spurning!...ég er með þráðlausan router og mig vantar eitthvað forrit til þess að fylgjast með  því hverjir tengjast á netið gegnum routerinn.\n\nSvona til vonar og vara ef einhver skyldi hacka sig inn á hann (bý í fjöldbýli).",
+            "date": "2005-04-09 10:52:00",
+            "post_id": "84488",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "ÉG veit s.s. ekki mikið um svona en það gæti vel verið að þetta sé \"router\" specific.. En ég væri einnig til í svona forrit fyrir Speedtouch 580..",
+            "date": "2005-04-09 16:38:00",
+            "post_id": "84522",
+            "reply_to_id": "84488"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Hvernig router er þetta?",
+            "date": "2005-04-09 17:49:00",
+            "post_id": "84544",
+            "reply_to_id": "84522"
+        },
+        {
+            "user_name": "natti",
+            "text": "Þetta fer voðalega mikið eftir því hvernig router þú ert með og hvað hann býður upp á.\n\nMargir routerar styðja snmp, þá aðallega til að fylgjast með bandvíddarnotkun. En oft er hægt að fá að vita hverjir eru tengdir wifi etc. með því líka.\n\n\n\nAnnars, ef að routerinn styður það, syslog. (Amk einhverjir linksys gera það).\n\nÞá geturu látið routerinn logga til þín ýmsa hluti, einsog hverjir tengjast þráðlausu og hvenær. Og meira til.\n\n\n\nFer bara allt eftir því hvað tækið býður upp á. Ég fylgist með þessu heima hjá mér og allt loggað niður. En ég er líka með cisco ap.",
+            "date": "2005-04-09 17:53:00",
+            "post_id": "84548",
+            "reply_to_id": "84544"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Hvað kostar svoleiðis?",
+            "date": "2005-04-09 18:59:00",
+            "post_id": "84561",
+            "reply_to_id": "84548"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "líklega um 50-100.000kr",
+            "date": "2005-04-09 19:18:00",
+            "post_id": "84567",
+            "reply_to_id": "84561"
+        },
+        {
+            "user_name": "natti",
+            "text": "Kostar um 40-50k að mig minnir.\n\nFæri samt ekki að mæla með því að fólk kaupi þetta fyrir heimanotkun, pínu overkill.",
+            "date": "2005-04-09 19:36:00",
+            "post_id": "84571",
+            "reply_to_id": "84567"
+        }
+    ],
+    "date": "2005-04-09 10:52:00"
+}

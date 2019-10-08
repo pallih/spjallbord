@@ -1,0 +1,72 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "35156",
+    "title": "Raid 0 Spurning",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=35156",
+    "posts": [
+        {
+            "user_name": "jondri",
+            "text": "Mig langaði að vita hvort að ég þarf að formatta diskinn hjá mér ef ég ákveð að setja annan disk í og raid´a hann í 0, annars er ég nú á leiðinni að kaupa mér tvo sata3 diska til að raid´a þannig þá verður allt sett upp á nýtt! \nÉg er með allt windows og allt draslið á 1Tb disk núna og það er ekki allveg að gera sig!  Benchmarkið er 5.9 þanngi mig langaði að ná þessu aðeins hraðar þar sem ég á annan til en nenni ekki að tapa öllu!",
+            "date": "2011-01-06 05:35:00",
+            "post_id": "309909",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Já, þú þarft að formatta diska til að setja í raid stæður.\nÞú færð ekkert meira í Windows experience rating en þú ert með núna þótt þú farir í RAID, þú ferð ekki ofar en 5.9 nema vera með SSD. Win exp. rating er líka bara algjört lágmarksviðmiðunarstaðall, það sem þú vilt vera að skoða eru read/write og access time hraði.",
+            "date": "2011-01-06 09:23:00",
+            "post_id": "309919",
+            "reply_to_id": "309909"
+        },
+        {
+            "user_name": "jondri",
+            "text": "Ok, þakka svarið.\nEn hvernig er með það að raida tvo sata 3 diska í 0, ég veit að það er ekki jafn gott ssd en ég er meira að hugsa um verð á Gb ef þú veist hvað ég meina. Planið var að kaupa tvo sata3 diska raid0 fyrir stýrikerfið og svo taka fjóra sata2 Tb diska sem ég á og raida þá 5, skiptir máli að snúningurinn og cache sé sama á öllu diskunum? En ssd er farið að hljóma einsog eina vitið!",
+            "date": "2011-01-06 11:05:00",
+            "post_id": "309939",
+            "reply_to_id": "309919"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Hugsaðu bara um hvað þú þarft að eyða í krónum því að ef þú ætlar að nota Boot diksinn sem gagnageymslu þá verður hann alltaf slow...\n25þ. fyrir SSD í næstu verslun = það besta sem hægt er að komast í, held ég...",
+            "date": "2011-01-06 13:11:00",
+            "post_id": "309974",
+            "reply_to_id": "309939"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Ef þú ert með/verður með mikilvæg gögn á stýrikerfissvæðinu þá mæli ég frekar með RAID en SSD. En ef öll mikilvæg gögn verða á RAID5 array-inu þá myndi ég taka SSD undir stýrikerfið.\nErtu viss um að móðurborðið hjá þér styðji SATA3?\nRPM og Cache skiptir máli í RAID já, en er ekki skilyrði.",
+            "date": "2011-01-06 14:50:00",
+            "post_id": "309998",
+            "reply_to_id": "309974"
+        },
+        {
+            "user_name": "rapport",
+            "text": "Styð það sem AT sagði, mín meining líka, að ef þú ert bara að hugsa um hraða þá SSD undir stýrikerfið og gögnin á aðra diska.\nPersónulega nota ég Raid1 undir stýrikerfið + persónuleg gögn en aðra diska undir bíómyndir og annað stöff,",
+            "date": "2011-01-06 17:45:00",
+            "post_id": "310047",
+            "reply_to_id": "309998"
+        },
+        {
+            "user_name": "jondri",
+            "text": "Þetta er Gigabyte X58A-UD3R þannig það á að styðja sata 3, þessi tölva verður notið aðalega í klippiforrit og annað eins (Premiere, After Effects, Photoshop), og þarf að vinna með mikið af HD efni. Þannig að mig vantar eiginlega hraða fyrir flest efni sem ég sæki! . Það hljómar samt vel það sem AntiTrust sagði að skella sér á ssd fyrir windows, og raid 5 á restina! \nÞið verðið að afsaka en ég ætla koma með eina spurningu í viðbót sem er kannski ekki sú gáfulegasta, en er hægt að bæta við diskum í raid 5 án þess að formata allt, svona ef maður hefði áhuga á að bæta við í framtíðinni?",
+            "date": "2011-01-06 22:42:00",
+            "post_id": "310142",
+            "reply_to_id": "310047"
+        },
+        {
+            "user_name": "Revenant",
+            "text": "ICH10R / ICH10DO / PCH kubbasettin hafa möguleika á að extenda RAID5 array. Búðu þig bara undir það að þetta geti tekið þónokkurn tíma að rebuilda það.\nWhat features are supported on each I/O controller hub (ICH)?",
+            "date": "2011-01-06 23:20:00",
+            "post_id": "310153",
+            "reply_to_id": "310142"
+        },
+        {
+            "user_name": "jondri",
+            "text": "Ok, Ég þakka fyrir það, gott að vita að maður getur bætt það seinna! en þurfa allir diskarnir að vera með sama spec, (RPM og Cache).",
+            "date": "2011-01-06 23:43:00",
+            "post_id": "310162",
+            "reply_to_id": "310153"
+        }
+    ],
+    "date": "2011-01-06 05:35:00"
+}

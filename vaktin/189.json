@@ -1,0 +1,51 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "189",
+    "title": "Registerað minni og chep-O junk!",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=189",
+    "posts": [
+        {
+            "user_name": "noline",
+            "text": "Vildi bara deila með ykkur testi á registeruðu minni og svo óregisteruðu.  \n\nHraðaprófun á einfaldri dell dimension, 1 GHZ.\n\nMeð registeruðu minni (skipti litlu hvaða tegund s.s.)  meðaltal þriggja registeraðra kubba var 11.252 í skor í MadOnion 2001.\n\nMeð unregisteruðu minni (skiptir engu um tegund) meðaltal þriggja unregisteraðra kubba var 9.702 í skor í MadOnion 2001.\n\n\n\nÉg tek það fram að ég var með 512 MB kubba, 3 sinnum unregisteraða og 3 sinnum registeraða.  Vildi svona deila þessu með ykkur ef að þið kannist við það að hafa keypt efni í heila vél, sett upp og svo hafi hraðinn í maskínunni verið verri en í gömlu 486 vélinni.",
+            "date": "2002-12-13 02:37:00",
+            "post_id": "1096",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "er ekki ECC soldið mikið dýrara?\n\neru þetta þá SDRAM kubbar?",
+            "date": "2002-12-22 17:35:00",
+            "post_id": "1214",
+            "reply_to_id": "1096"
+        },
+        {
+            "user_name": "arnorhs",
+            "text": "hvað er registerað og óregisterað minni?",
+            "date": "2002-12-23 02:42:00",
+            "post_id": "1229",
+            "reply_to_id": "1214"
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "vantar svolítið infromation með þessum posti ! hvað er unregisterd minni ? hvernig minni ertu að tala um ?",
+            "date": "2002-12-23 13:13:00",
+            "post_id": "1231",
+            "reply_to_id": "1229"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "hmm, ég hef misst af þessum 2 seinustu póstum í þessum þræði......\n\nRegisterd eða registerað minni er ECC-Registered minni, semsagt, ECC minni.\n\nUnrigstered eða óregisterað er Non-ECC minni",
+            "date": "2003-06-22 13:24:00",
+            "post_id": "7116",
+            "reply_to_id": "1231"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "registerað minni er semsagt með assignaða sér rás beint við örgjörfann svo að cas latency er ekki neitt. Þar að auki er ecc með parity bita, sem er villu leiðrétting, svo að kerfið halti ekki ef að það kmeur memory error.",
+            "date": "2003-08-31 02:41:00",
+            "post_id": "11732",
+            "reply_to_id": "7116"
+        }
+    ],
+    "date": "2002-12-13 02:37:00"
+}

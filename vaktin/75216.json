@@ -1,0 +1,247 @@
+{
+    "forum_title": "Sjónvörp, hljóðkerfi og snjalllausnir fyrir heimilið",
+    "id": "75216",
+    "title": "íslenskar sjónvarpsstöðvar með TV-Guide",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=47&t=75216",
+    "posts": [
+        {
+            "user_name": "kornelius",
+            "text": "Hæ\nVar að fikta í kodi og sá að menn voru að nota strauma á íslenskum stöðvum í gegnum m3u8 skrár\nTók mig til og google'aði alveg helling og tókst að fá þetta til að virka með m3u8 / EPG í gegn XML\nog notaði til þess WebGrabplus\nsendi hér nokkur screenshot ef einhver hefur áhuga á að nota svona\nreyndar vantar tv-guide á einhverjar þeirra\nkannski einhver geti aðstoðað mig með það?\neinnig vantar m3u8 link á Hringbraut.",
+            "date": "2018-01-09 09:28:00",
+            "post_id": "664662",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "kornelius",
+            "text": "Hér eru síðan skrárnar til að prufa þetta í gegnum „PVR IPTV Simple Client“ addon\nhttp://50.3.74.77/iptv/kodi.m3u\nhttp://50.3.74.77/iptv/guide.xml",
+            "date": "2018-01-09 10:55:00",
+            "post_id": "664665",
+            "reply_to_id": "664662"
+        },
+        {
+            "user_name": "kornelius",
+            "text": "Leiðbeiningar hvernig skal nýta þetta:\nfara í  Add-ons > My Add-ons > PVR clients > PVR IPTV Simple Client\nEnable og Configure:\nEndurræsa Kodi",
+            "date": "2018-01-10 09:54:00",
+            "post_id": "664728",
+            "reply_to_id": "664665"
+        },
+        {
+            "user_name": "russi",
+            "text": "Það má bæta við þetta að þessar slóðir virka á Plex líka á IPTV pluginið beint.\nAnnað sem þú mættir skoða með RÚV og RÚV2, þú vísar beint í 1080p slóðina sem er hugsanlegt að sumir ráða ekkia við, tjaa og ef kemur hægagangur á netið munu hökkta. Það gæti betra fyrir þig að nota slóðina sem stillir gæði af eftir hraða.\nRUV: \nhttp://ruvruv-live.hls.adaptive.level3. ... index.m3u8\nRUV2: \nhttp://ruvruv-live.hls.adaptive.level3. ... index.m3u8",
+            "date": "2018-01-10 23:31:00",
+            "post_id": "664788",
+            "reply_to_id": "664728"
+        },
+        {
+            "user_name": "kornelius",
+            "text": "Takk fyrir ábendinguna russi - er búinn að laga  \nEr engin með m3u link á Hringbraut?",
+            "date": "2018-01-11 07:46:00",
+            "post_id": "664799",
+            "reply_to_id": "664788"
+        },
+        {
+            "user_name": "Arena77",
+            "text": "Flott þetta virkar vel, Áttu einhvern link á erlendar Stöðvar sem virkar?",
+            "date": "2018-01-11 16:55:00",
+            "post_id": "664823",
+            "reply_to_id": "664799"
+        },
+        {
+            "user_name": "kornelius",
+            "text": "Gott að þetta virkar vel Arena77\nþað er alveg til hellingur af m3u8 skrám með erlendum stöðvum\nvil bara ekki bendla því við íslensku stöðvarnar\ngætir prufað hér \nhttps://www.google.is/search?ei=s25YWou ... O7zX_G_7ZE",
+            "date": "2018-01-12 08:16:00",
+            "post_id": "664884",
+            "reply_to_id": "664823"
+        },
+        {
+            "user_name": "kornelius",
+            "text": ".\nÞess má kannski geta að ég er að nota Confluense 1080 skin (þema) til að fá stöðvarnar upp á forsíðuna (home screen) undir TV section\nhttps://github.com/OpenELEQ/repository. ... uence.1080",
+            "date": "2018-01-13 07:35:00",
+            "post_id": "664984",
+            "reply_to_id": "664884"
+        },
+        {
+            "user_name": "Milly76",
+            "text": "Var að prufa að nota þennan lista til að horfa á iptv inu án þess að nota kodi en get ekki séð rúv eða rúv 2. Getur verið að það sé 1080 púnktar enþá þar. Er bara með 4G net.\nLangar rosalega í lista sem ég get horft á íslensku rásirnar en er í Danmörku og mamma í heimsókn hjá mér.",
+            "date": "2018-01-17 18:34:00",
+            "post_id": "665316",
+            "reply_to_id": "664984"
+        },
+        {
+            "user_name": "kornelius",
+            "text": "Nei þetta á að velja sjálfvirkan hraða eftir þinni tengingu\nEn er ekki RUV bara að banna erlendar ip-tölur?\nGætir prufað að spila þennan lista hér fyrir neðan í VLC eða sambærilegum spilara\nRÚV:\n240p    \nhttp://ruvruv-live.hls.adaptive.level3. ... ream1.m3u8\n360p    \nhttp://ruvruv-live.hls.adaptive.level3. ... ream2.m3u8\n480p    \nhttp://ruvruv-live.hls.adaptive.level3. ... ream3.m3u8\n720p    \nhttp://ruvruv-live.hls.adaptive.level3. ... ream4.m3u8\n1080p   \nhttp://ruvruv-live.hls.adaptive.level3. ... ream5.m3u8\nRÚV 2:\n240p    \nhttp://ruvruv-live.hls.adaptive.level3. ... ream1.m3u8\n360p    \nhttp://ruvruv-live.hls.adaptive.level3. ... ream2.m3u8\n480p    \nhttp://ruvruv-live.hls.adaptive.level3. ... ream3.m3u8\n720p    \nhttp://ruvruv-live.hls.adaptive.level3. ... ream4.m3u8\n1080p   \nhttp://ruvruv-live.hls.adaptive.level3. ... ream5.m3u8",
+            "date": "2018-01-18 11:18:00",
+            "post_id": "665341",
+            "reply_to_id": "665316"
+        },
+        {
+            "user_name": "Gassi",
+            "text": "Skil ekki hvernig þetta virkar fæ ekkert upp og get ekki gert run, er a nvidia shield...\nEdit: skrifaði kody i linkinn",
+            "date": "2018-08-30 18:20:00",
+            "post_id": "676828",
+            "reply_to_id": "665341"
+        },
+        {
+            "user_name": "Gassi",
+            "text": "Sjónvarp símans einhver leið að fá það í kodi?",
+            "date": "2018-08-30 18:48:00",
+            "post_id": "676829",
+            "reply_to_id": "676828"
+        },
+        {
+            "user_name": "kornelius",
+            "text": "Hef ekki rekist á m3u link enn, því miður",
+            "date": "2018-08-31 10:47:00",
+            "post_id": "676850",
+            "reply_to_id": "676829"
+        },
+        {
+            "user_name": "lifeformes",
+            "text": "sælir vaktarar og takk fyrir flottann þráð.\nÉg er búinn að vera að prufa þetta en ef ég streimi þessum hérna \nstraum í plex þá eru gæðin mjög léleg hvort sem ég spila það í tölvuni eða streimi því í sjónvarpið, ég er þá aðalega að tala um ruv strauminn btw.\nEn ef ég spila hann í vlc í tölvuni þá kemur hann þar í 1080p en plex ekki nema 480p vitiði hvernig stendur á því ?",
+            "date": "2018-08-31 20:51:00",
+            "post_id": "676860",
+            "reply_to_id": "676850"
+        },
+        {
+            "user_name": "russi",
+            "text": "Hver er slóðinn á bakvið straumin hjá þér, svarið gæti legið þar",
+            "date": "2018-08-31 22:34:00",
+            "post_id": "676865",
+            "reply_to_id": "676860"
+        },
+        {
+            "user_name": "lifeformes",
+            "text": "ég notaði þennan \"http://50.3.74.77/iptv/kodi.m3u\" bæði í vlc og plex, hann kemur flott í vlc en í plex er hann mjög lélegur, hvort sem þetta er spilað í tölvuni eða streimt með vlc",
+            "date": "2018-08-31 22:53:00",
+            "post_id": "676867",
+            "reply_to_id": "676865"
+        },
+        {
+            "user_name": "kornelius",
+            "text": "Ertu að keyra plex og vlc á sömu tölvu?",
+            "date": "2018-09-01 00:22:00",
+            "post_id": "676868",
+            "reply_to_id": "676867"
+        },
+        {
+            "user_name": "bjossif",
+            "text": "Plex virðist vinna illa úr Iptv, dettur úr HD fram og til baka og með nýjustu plex uppfærslunni í samsung smart tv þá spilar hann bara í 30 sek í senn og slekkur svo á sér.\nÁ endanum gafst upp og fór að nota annað iptv app í samsung sem virkaði 20 sinnum betur með þessum m3u fæl. \nRaus búið. \nTakk fyrir að setja upp þessa slóð með íslensku stöðvunum, virkar frábærlega",
+            "date": "2019-02-12 10:21:00",
+            "post_id": "685004",
+            "reply_to_id": "676868"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Hvaða IPTV app ertu að nota í Samsung sjónvarpinu?",
+            "date": "2019-02-12 13:15:00",
+            "post_id": "685008",
+            "reply_to_id": "685004"
+        },
+        {
+            "user_name": "bjossif",
+            "text": "Heitir Smart IPTV, kostar 5 evrur sem mér fannst allveg þess virði. Færð viku til að prófa fyrst, getur séð hvernig þú fílar það.",
+            "date": "2019-02-12 19:36:00",
+            "post_id": "685032",
+            "reply_to_id": "685008"
+        },
+        {
+            "user_name": "skyttan5",
+            "text": "Sælir. Fyrir þá sem hafa áhuga þá er hægt að setja upp forrit sem heitir \"telly\" sem tekur m3u8 skrána og EPG skrána og birtir Plex það sem tvtuner og þá er hægt að nota þetta streymi sem \"LiveTv\" og \"DVR\" í Plex og það virkar mjög vel fyrir mig allavega.",
+            "date": "2019-04-10 12:42:00",
+            "post_id": "687573",
+            "reply_to_id": "685032"
+        },
+        {
+            "user_name": "lottobaes",
+            "text": "Takk fyrir þessar upplýsingar, ég hafði ekki hugmynd um þetta.\nÉg væri svo mikið til í Sjónvarp Símans streymið. Eru þeir samt ekki að notast við einhverja tækni sem bútar niður strauminn reglulega þannig að maður eigi erfiðara með að finna m3u8 linkinn sem tengir bútana?\nÉg var með rosalega stór plön, ætlaði að setja upp android emulator setja upp url sniffer og sjá hvert android appið þeirra sækir strauminn. En af einhverjum ástæðum virkar ekkert af android emulatorunum, kannski best þar sem þeir virðast allir vera frekar spy/mal-wary.",
+            "date": "2019-04-11 13:11:00",
+            "post_id": "687598",
+            "reply_to_id": "687573"
+        },
+        {
+            "user_name": "sgretar",
+            "text": "Ég var að skoða þetta. Á NovaTV er \"DRM\" í urlinu sem bendir til þess að þeir noti DRM vörn. Ef ég tek urlið frá 365.is kemur error.\nBæði streymi eru .mpd. Hef ekki fundið .m3u8 eða .ts streymi...\nVeit eitthver um fleiri streymi?",
+            "date": "2019-04-11 21:53:00",
+            "post_id": "687622",
+            "reply_to_id": "687598"
+        },
+        {
+            "user_name": "lottobaes",
+            "text": "Ég fór einmitt yfir einhverja mpd fæla í streyminu frá sjonvarp.stod2.is og setti mig í stellingar til að líta út eins og ég vissi eitthvað hvað ég væri að gera...en svo áttaði ég mig á því að ég vissi ekkert hvað ég var að gera.",
+            "date": "2019-04-11 23:57:00",
+            "post_id": "687624",
+            "reply_to_id": "687622"
+        },
+        {
+            "user_name": "Hermsbjo",
+            "text": "Þetta er algjör snilld og virkar vel í kodi og iptv pluggin í PleX. Ég var búinn að setja upp xteve á tölvunni hjá mér í þeirri von um að ég gæti tengt þetta beint við liveTV / dvr í PleX, en PleX spilar ekki m3u8 strauma. \nVitið þið hvort það er hægt að fá rúv straum í m3u þannig að það virki með PleX dvr?",
+            "date": "2019-04-27 19:11:00",
+            "post_id": "688179",
+            "reply_to_id": "687624"
+        },
+        {
+            "user_name": "jonfr1900",
+            "text": "Rúv er með app fyrir Android TV sem heitir Sjónvarpið.",
+            "date": "2019-04-27 23:43:00",
+            "post_id": "688183",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "NiveaForMen",
+            "text": "Tengt en samt ekki, er vitað um einhvern möguleika til að fá 888 textann virkan á netstrauminn?",
+            "date": "2019-04-28 10:23:00",
+            "post_id": "688192",
+            "reply_to_id": "688183"
+        },
+        {
+            "user_name": "skyttan5",
+            "text": "já eins og stendur hér rétt fyrir ofan getur þú sett upp Telly (\nhttps://github.com/tellytv/telly\n) og þá virkar þetta vel með Plex.\nÉg er að nota það með fínum árangri.",
+            "date": "2019-04-29 16:30:00",
+            "post_id": "688282",
+            "reply_to_id": "688192"
+        },
+        {
+            "user_name": "Hermsbjo",
+            "text": "Ég var búinn að prófa það en fæ það ekki til að virka, kemur alltaf \"unable to process stream\". Ég er ekki að átta mig á því hvað ég er að gera vitlaust",
+            "date": "2019-04-30 17:10:00",
+            "post_id": "688340",
+            "reply_to_id": "688282"
+        },
+        {
+            "user_name": "IngoVals",
+            "text": "Er einhver ávinningur á að nota Telly versus að nota bara simple plugin eins og \nþetta?",
+            "date": "2019-05-05 22:27:00",
+            "post_id": "688529",
+            "reply_to_id": "688340"
+        },
+        {
+            "user_name": "skyttan5",
+            "text": "Sæll,\nég get eiginlega ekki greint hvað það er sem er rangt í uppsetningunni nema sjá \"config\" file hjá þér.",
+            "date": "2019-05-06 12:25:00",
+            "post_id": "688543",
+            "reply_to_id": "688529"
+        },
+        {
+            "user_name": "skyttan5",
+            "text": "Mér finnst viðmótið í Plex mun aðgengilegra heldur en að fara í plugins. Og svo er auðvitað möguleikinn á að taka upp efni í stað þess að streyma eingöngu. En svo ef þú bætir við einhverri IPTV áskrift þá verður þetta nauðsynlegt með þann fjölda stöðva.",
+            "date": "2019-05-06 12:27:00",
+            "post_id": "688545",
+            "reply_to_id": "688543"
+        },
+        {
+            "user_name": "russi",
+            "text": "Má líka nefna að Plug-Ins flipin er á útleið í Plex, hann er þegar dottinn út í nokkrum viðmótum",
+            "date": "2019-05-06 22:59:00",
+            "post_id": "688585",
+            "reply_to_id": "688545"
+        },
+        {
+            "user_name": "IngoVals",
+            "text": "Nú endurvek ég upp gamlan þráð. skyttan5 benti hér á Telly, ég er að setja það upp hjá mér en rek augun í nokkra hluti sem documentation segir um það.\nAlla vega virðist ég þá ekki að geta notað m3u fælinn sem er nefndur hérna. Eða hvað?\nSá fæll vísar í .m3u8, sem er kannski ekki það sama og að vísa í aðra m3u fæla.",
+            "date": "2019-09-07 12:48:00",
+            "post_id": "693958",
+            "reply_to_id": "688585"
+        }
+    ],
+    "date": "2019-04-27 23:43:00"
+}

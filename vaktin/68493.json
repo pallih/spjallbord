@@ -1,0 +1,86 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "68493",
+    "title": "Fá CS:GO 4:3 Stretched (AMD) [LEYST]",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=68493",
+    "posts": [
+        {
+            "user_name": "psteinn",
+            "text": "Sælir vaktarar,\nÉg var að fá mér nýan skjá í dag, BenQ XL2411Z 24\". Ég spila aðalega cs:go og eins og er að þá er ég með blackbars á hliðunum in game. Vitið þið um eitthverja leið um hverning er hægt að breyta þessu og losna við þessa blackbars og fá leikinn í 4:3 stretched.\nEr með eitthvað gamalt AMD r9 200 series kort og AMD crimson control panel.\nBúinn að googla og horfa á video en þau eru bara ekki að virka og flest öll eru fyrir nvidia kort.\nTakk",
+            "date": "2016-02-08 20:40:00",
+            "post_id": "617536",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Haflidi85",
+            "text": "Hægri klikka á desktop -> vela amd catalyst control center - >  undir \"my digital flat-panels\" velja þar skjáinn sem um ræðir og velja \"scale image to full panel size\". Það ætti að tegja myndina.",
+            "date": "2016-02-08 20:54:00",
+            "post_id": "617537",
+            "reply_to_id": "617536"
+        },
+        {
+            "user_name": "psteinn",
+            "text": "Hmm já ég athugaði með þetta en þeir eru búnir að breyta þessu aðeins þanning að þetta scaling dæmi er ekki lengur þarna. Það er í AMD crimson interface-inu og þar valdi ég \"Scaling Mode : Full panel\" en þetta er enþá ekki stretched...",
+            "date": "2016-02-08 21:10:00",
+            "post_id": "617538",
+            "reply_to_id": "617537"
+        },
+        {
+            "user_name": "BykoDealer",
+            "text": "-full in launch options csgo? eda a skjanum ekki aspect ratio 4:3 en full screen mode",
+            "date": "2016-02-08 21:12:00",
+            "post_id": "617539",
+            "reply_to_id": "617538"
+        },
+        {
+            "user_name": "psteinn",
+            "text": "Er með -full í launch options og búinn að prófa að stilla á sjálfum skjánnum aspect ratioið frá 16:9 og yfir í 4:3, still blackbars",
+            "date": "2016-02-08 21:20:00",
+            "post_id": "617541",
+            "reply_to_id": "617539"
+        },
+        {
+            "user_name": "Ingvi7",
+            "text": "Hjá mér var það sama en fann að skjárinn sjálfur var stilltur á AUTO og gat breytt því yfir í FULL. Þá duttu blackbars út",
+            "date": "2016-02-08 21:47:00",
+            "post_id": "617544",
+            "reply_to_id": "617541"
+        },
+        {
+            "user_name": "psteinn",
+            "text": "Já, ég er með hann sjálfann skjáinn stilltann á full og samt eru blackbars",
+            "date": "2016-02-08 21:56:00",
+            "post_id": "617546",
+            "reply_to_id": "617544"
+        },
+        {
+            "user_name": "psteinn",
+            "text": "Þetta er leyst.\nEf þið eruð líka í vandamáli með þetta að þá leysti ég þetta með því að fá mér smáforrit sem heitir \nHRC\n og það eina sem það gerir er að þú getur bindað hotkeys á viss resolution fyrir skjáinn (t.d ég bindaði INS=1920x1080 og DEL=1024x768)\nTakk samt strákar",
+            "date": "2016-02-09 00:09:00",
+            "post_id": "617560",
+            "reply_to_id": "617546"
+        },
+        {
+            "user_name": "Hnykill",
+            "text": "Já er ekki enn farinn yfir í þessa Crimson drivera frá AMD.. þessir menn þarna megin eru ekki alveg að standa sig. tóku út \"scaling mode\" og aðra nauðsynlega hluti sem menn hreinlega þurfa að nota.. hvers vegna skil ég ekki.\nÍ þetta skiptið ætla ég ekki að uppfæra í nýja drivera, heldur nýtt skjákort frá Nvidia :/ GTX 980 TI til að hafa það nákvæmt.\nVeit ekki hvað AMD ætlar að gera í framtíðinni. en það verður hart ef aðeins Intel/Nvidia fær að vera ráðandi í bæði örgjörvum og skjákortum. það vita allir hvernig hvernig það fer. þeir ráða bæði verði og því... shit ég verð bara hálf truflaður að tala um það..",
+            "date": "2016-02-09 05:05:00",
+            "post_id": "617569",
+            "reply_to_id": "617560"
+        },
+        {
+            "user_name": "psteinn",
+            "text": "Já ég er alveg sammála þér. Ég ættla líka sjálfur bara að uppfæra í NVIDIA og það er eina vitið finnst mér. En ef ég vill keyra cs:go í 200+fps þá væri ég bara frekar sáttur með það. Hvaða skjákort helduru að geti pullað það off? eða ertu kannski ekkert mikið í cs:go umræðum?",
+            "date": "2016-02-09 13:06:00",
+            "post_id": "617578",
+            "reply_to_id": "617569"
+        },
+        {
+            "user_name": "Hnykill",
+            "text": "Geforce GTX 970 4 GB er alveg klassískt í CS GO ..200FPS ætti alveg að virka með því stöðugt.",
+            "date": "2016-02-09 13:23:00",
+            "post_id": "617580",
+            "reply_to_id": "617578"
+        }
+    ],
+    "date": "2016-02-08 20:40:00"
+}

@@ -1,0 +1,107 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "14651",
+    "title": "Cat5 VS Cat 6 --------  TP VS Crossover",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=14651",
+    "posts": [
+        {
+            "user_name": "Selurinn",
+            "text": "Hvort myndi henta betur að fá sér Cat5 eða Cat6?\n\n\n\n\n\nEr betra að fá sér Cat5 Crossover eða Cat6 TP kapal?\n\n\n\n\n\nEru flest öll ný móðurborð í dag með 1000 mpbs netkort?\n\n\n\n\n\n\n\nOg hver yrði hentugasta lausnin ef ég er í þriggja hæða húsi og routerinn er á neðstu hæð með Wifi og efst uppi ná ekki lappar að tengjast routernum hvað yrði þá best að fá sér svo þráðlausa netið myndi drífa lengra?\n\n\n\nAcces point eða Loftnet fyrir routera?",
+            "date": "2007-05-31 12:31:00",
+            "post_id": "147782",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Crossover og twisted pair eru notaðir í sitthvoran hlutinn. Crossover er notað til að tengja tvær tölvur beint í hvora aðra, enginn switch, hub né router. Twisted pair hins vegar er þegar að það er switch, hub eða router sem tengir tölvurnar saman.",
+            "date": "2007-05-31 12:55:00",
+            "post_id": "147784",
+            "reply_to_id": "147782"
+        },
+        {
+            "user_name": "corflame",
+            "text": "CAT5-E styður líka 1Gbit/s netumferð, myndi ætla að þú keyptir bara þá snúru sem væri ódýrari.\n\n\n\nGetur þá alltaf fengið þér aðra snúru seinna ef þörf er á, það liggur ekki svo mikill peningur í snúrunni sjálfri.",
+            "date": "2007-05-31 15:52:00",
+            "post_id": "147787",
+            "reply_to_id": "147784"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Er semsagt Cat5 betra en Cat6\n\n\n\nOg er ekki hægt að nota Crossover snúrur líka til að tengja í gegnum Switch/Router/höbb\n\n\n\n\n\nEinhver vitur gæji sagði að það væri bara hægt að nota TP í router/switch/höbb, ekki Crossover.\n\n\n\nEr það rétt?",
+            "date": "2007-05-31 15:54:00",
+            "post_id": "147788",
+            "reply_to_id": "147787"
+        },
+        {
+            "user_name": "ManiO",
+            "text": "Getur notað crossover, þarft bara millistykki.",
+            "date": "2007-05-31 16:21:00",
+            "post_id": "147789",
+            "reply_to_id": "147788"
+        },
+        {
+            "user_name": "Bassi6",
+            "text": "Flestir nýrri routerar og switchar eru auto sensing þannig að þú getur notað hvort sem er",
+            "date": "2007-05-31 16:52:00",
+            "post_id": "147790",
+            "reply_to_id": "147789"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Hafðu bara TP ef þú ert að fara að nettengja húsið þitt.\n\nAnnars hefur CAT6 fáa kosti yfir CAT5E.\n\nÉg heyrði líka einhverstaðar að CAT6 eru viðkvæmari fyrir beygjum en Cat5e.",
+            "date": "2007-05-31 18:10:00",
+            "post_id": "147794",
+            "reply_to_id": "147790"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "Twisted Pair tengist ekkert hvort snúran er straight through eða crossover.\n\n\n\nCrossover snúrur eru gerðar með Twisted Pair og Straight Trough eru gerðar með Twisted Pair.\n\n\n\nAllar Cat5 og Cat6 snúrur eru Twisted Pair.",
+            "date": "2007-05-31 18:36:00",
+            "post_id": "147795",
+            "reply_to_id": "147794"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Þannig þú getur í rauninni notað Crossover í bæði?\n\n\n\nSemsagt bæði fyrir bara að tengjast í router og bara direct milli tveggja tölvna?\n\n\n\nSemsagt \n\n\n\nCrossover > TP",
+            "date": "2007-05-31 18:40:00",
+            "post_id": "147796",
+            "reply_to_id": "147795"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "afhverju langar þig svona mikið í crossover? Það er ekkert annað en venjuleg snúra með \"ruglaða\" pinna röð til að virka tengt beint úr tölvu í aðra tölvu.\n\n\n\nHugmyndin er að þú notir straight through til að tengja tölvu við switch.",
+            "date": "2007-05-31 18:44:00",
+            "post_id": "147798",
+            "reply_to_id": "147796"
+        },
+        {
+            "user_name": "Selurinn",
+            "text": "Neinei, hehe það er ekki málið \n\n\n\n\nMálið er bara að einhver sagði að það væri alls ekki hægt að nota Crossover til að tengjast í router :S\n\n\n\nEr það ekki bara bull hjá honum?\n\n\n\nég meina jújú, TP kapall er alveg nóg fyrir mig, mig langar bara svo mikið til að vita hvort þetta sé rétt hjá gæjanum eða ekki sem sagði mér þetta, vegna þess ég hef keypt í gegnum tíðina mix af Crossover og TP og nota þetta allt í route rnúna og það er ekkert að LANinu heima hjá mér.\n\n\n\nSvo ég er bara að pæla :S",
+            "date": "2007-05-31 18:46:00",
+            "post_id": "147799",
+            "reply_to_id": "147798"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "ef annaðhvort netkortið þitt eða poretin í switchinum eru auto sensing, þá skiptir það ekki máli. Ef það er ekki auto sence, þá virkar það ekki.",
+            "date": "2007-05-31 18:49:00",
+            "post_id": "147802",
+            "reply_to_id": "147799"
+        },
+        {
+            "user_name": "Harvest",
+            "text": "Er í svipaðri aðstöðu og þú.\n\n\n\nFjárfesti í Cat6 um daginn og 10/100/1000 switch (routerinn á efstu hæð) en þarf að geta notað þráðlausa á neðstu.\n\n\n\nÉg ætla að leysa þetta þannig að fá mér nýjan router, helst með 10/100/1000 stuðningi og 2 svona stórum loftnetum. Nenni ekki að tengja þetta í gegnum rafmagnt. Held að almennilegur router bjari málinu. Hann á að drýfa 80% betur.\n\n\n\nAnnars, láttu mig vita hvað þú gerir.",
+            "date": "2007-05-31 19:23:00",
+            "post_id": "147804",
+            "reply_to_id": "147802"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Ég ruglaðist, auðvitað ST",
+            "date": "2007-06-01 00:01:00",
+            "post_id": "147834",
+            "reply_to_id": "147804"
+        }
+    ],
+    "date": "2007-05-31 12:31:00"
+}

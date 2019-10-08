@@ -1,0 +1,72 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "19393",
+    "title": "aflgjafi fyrir skjákort?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=19393",
+    "posts": [
+        {
+            "user_name": "Ifrot",
+            "text": "Halló ég var að pæla hvort aflgjafinn minn er nógu stór fyrir tölvuna mína ef ég fengi mér \nATI HD4870?\nEr með:\nQ6600 2.4GHz Quadcore\n2x2GB ddr2\nAsus P5E móðurborð\ncorsair 520W aflgjafi\nDVD-skrifari og Blu-ray skrifari\n4x 500GBsata2 1x 500GB IDE harðir diskar\n5x120mm viftur\nnota 22\" acer skjá upplausn: 1680x1050\ner með nvidia 9600gt akkurat nuna en var að hugsa um að stækka, vissi bara ekki hvort \naflgjafinn væri nægilega stór með alla þessa HDD?\nveit einhver?",
+            "date": "2008-09-20 01:18:00",
+            "post_id": "182769",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Allinn",
+            "text": "http://extreme.outervision.com/psucalculator.jsp\ngétur tékkað að því hér.",
+            "date": "2008-09-20 01:52:00",
+            "post_id": "182770",
+            "reply_to_id": "182769"
+        },
+        {
+            "user_name": "DaRKSTaR",
+            "text": "er með 520w aflgjafa.. virkar fínt hjá mér.\nþannig að þú þarft ekkert að hafa áhyggjur.. skelltu þér bara á kortið",
+            "date": "2008-09-20 04:34:00",
+            "post_id": "182772",
+            "reply_to_id": "182770"
+        },
+        {
+            "user_name": "Allinn",
+            "text": "Nei því miður nær aflgjafinn þinn ekki að runna þessu. Það þarf 693W útaf örranum. Ef hann væri tekin eða skiptur þá þyrfti 450W. Var sko að gá fyrir þig.\nKannski vegna þess að þú ert með \"Core Duo\" og hann \"Quad Core\"",
+            "date": "2008-09-20 12:44:00",
+            "post_id": "182779",
+            "reply_to_id": "182772"
+        },
+        {
+            "user_name": "Matti21",
+            "text": "Hvernig í ósköpunum færðu það út?\nÉg fékk 464W með nákvæmlega því sem hann skrifaði þarna í þessu prófi sem þú benntir á.\nÞú áttar þig á því að þó að hann sé með quad core örgjörva velurðu \"single socket\" í system type. Annars ertu að tala um móðurborð sem tekur tvo eða fjóra örgjörva eins og skulltrail eða eitthvað server borð. Samkvæmt intel tekur Q6600 um 105W í keyrslu en samkvæmt þínum útreikningum tekur hann um 240W? Held að það væru afar fáir sem mundu kaupa hann eða mæla með honum ef hann væri svo orkufrekur...Hell, ég fékk undir 600W með tvö HD4870 í crossfire :S Mundi ekki mæla með því en 693W fyrir eitt HD4870 er aðeins of mikið...",
+            "date": "2008-09-20 13:01:00",
+            "post_id": "182780",
+            "reply_to_id": "182779"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Þetta gera 472 W miðað við high-end móðurborð og að þú sért með 1 stk DVD og 1 stk Blue Ray skrifara.\n@ Allinn:\nÉg prufaði eftir að ég reiknaði út 472 w að skipta út Q6600 fyrir E6850 og það minnkaði niður í 442 W ekki meiri munur á þeim en það.",
+            "date": "2008-09-20 14:01:00",
+            "post_id": "182783",
+            "reply_to_id": "182780"
+        },
+        {
+            "user_name": "Allinn",
+            "text": "Já. Ég hlýt að hafa reiknað þetta eitthvað vittlaust út. Jæja afsakið hvalirnar.",
+            "date": "2008-09-20 14:05:00",
+            "post_id": "182784",
+            "reply_to_id": "182783"
+        },
+        {
+            "user_name": "Ifrot",
+            "text": "Þakka ykkur innilega fyrir hjálpina",
+            "date": "2008-09-20 16:06:00",
+            "post_id": "182792",
+            "reply_to_id": "182784"
+        },
+        {
+            "user_name": "benregn",
+            "text": "Ég keyri svipað setup á 550w afgjafa og oc Q6600",
+            "date": "2008-09-23 12:30:00",
+            "post_id": "183005",
+            "reply_to_id": "182792"
+        }
+    ],
+    "date": "2008-09-20 01:18:00"
+}

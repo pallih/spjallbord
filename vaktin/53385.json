@@ -1,0 +1,44 @@
+{
+    "forum_title": "Koníakstofan",
+    "id": "53385",
+    "title": "[SOLVED]Vandi með texta á kvikmynd",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=9&t=53385",
+    "posts": [
+        {
+            "user_name": "mikkidan97",
+            "text": "Ég var að þýða texta og setti hann með .mkv skránni sem myndin sjálf er, en það sem gerist er þetta:\n(afsakið háu upplausnina)\nSéríslensku stafirnir verða bara eitthvað bull :/",
+            "date": "2013-02-13 09:50:00",
+            "post_id": "495180",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "dori",
+            "text": "Þetta er character encoding villa. Annað hvort er textaskjalið formattað vitlaust eða forritið sem þú spilar myndina með les skjalið með vitlausu encoding. Settu allar stillingar í unicode.",
+            "date": "2013-02-13 10:35:00",
+            "post_id": "495184",
+            "reply_to_id": "495180"
+        },
+        {
+            "user_name": "mikkidan97",
+            "text": "Það virkaði ekki eins og ætla mátti, nú eru stafirnir bara kassar",
+            "date": "2013-02-13 12:03:00",
+            "post_id": "495195",
+            "reply_to_id": "495184"
+        },
+        {
+            "user_name": "dori",
+            "text": "Hvaða forrit er þetta sem þú ert að spila þessa kvikmynd og með hvaða charset er þetta skjal vistað (file -I skrá á Linux/Mac, veit ekki hvað þú getur gert til að sjá þetta í Windwos)?",
+            "date": "2013-02-13 12:10:00",
+            "post_id": "495197",
+            "reply_to_id": "495195"
+        },
+        {
+            "user_name": "mikkidan97",
+            "text": "Uhm... ég er að nota VLC til að spila skránna, og samkvæmt notepad, þá ætti það að vera unicode\nEdit: Er búinn að laga þetta, vistaði skránna sem unicode, og notaði mkvmerge til að bæta .srt skránni við .mkv skránna, og þá lúkkar allt í lagi",
+            "date": "2013-02-13 12:14:00",
+            "post_id": "495200",
+            "reply_to_id": "495197"
+        }
+    ],
+    "date": "2013-02-13 09:50:00"
+}

@@ -1,0 +1,37 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "17691",
+    "title": "hjálp með hljóð!!!!",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=17691",
+    "posts": [
+        {
+            "user_name": "albertgu",
+            "text": "Hæ ég er hérna með vandamál, hljóðið virkar ekki.\nÞað er eins og hljóðdriverinn hafi dottið út, þegar ég reyni að opna volume mixerinn kemur, \"no audio output device is installed.\nÉg er einnig með SteelSound 5h usb og ef ég tengi þau í fer allt hljóð á speakers :s\nHjálp plis",
+            "date": "2008-04-05 11:37:00",
+            "post_id": "171814",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Pink-Shiznit",
+            "text": "Hvernig hljóðkort ertu með?",
+            "date": "2008-04-05 12:43:00",
+            "post_id": "171820",
+            "reply_to_id": "171814"
+        },
+        {
+            "user_name": "albertgu",
+            "text": "Sound Blaster X-Fi Xtreme",
+            "date": "2008-04-05 20:18:00",
+            "post_id": "171847",
+            "reply_to_id": "171820"
+        },
+        {
+            "user_name": "Gets",
+            "text": "Ekki veit ég um tölvukunnáttu þína og set því smá punkta hérna.\nSmellir á Start/Control Panel/System/velur þar flipan Hardware og því næst Device Manager þarna sérðu hvort það vantar driver fyrir eitthvað hardware tölvunar.\nEf það er gult upphrópunarmerki við Sound þá getur þú prófað að setja driverinn inn aftur. \nHér er slóðin á driver fyrir kortið. \nÍ fyrsta ramma “1.Select your product” velurðu Sound Blaster en ekki X-Fi.\nVelur síðan  X-Fi  í næsta ramma og að lokum það sem á við þína týpu í síðasta ramma fylgir svo bara leiðbeiningunum.\nhttp://is.europe.creative.com/support/downloads/\nEf að þetta virkar ekki er komin upp sá möguleiki á að kortið sé bilað, en ef að tölvukunnátta þín er lítil þá væri gott fyrir þig að fá einhvern til að prófa kortið.\nGangi þér vel.",
+            "date": "2008-04-05 20:45:00",
+            "post_id": "171851",
+            "reply_to_id": "171847"
+        }
+    ],
+    "date": "2008-04-05 11:37:00"
+}

@@ -1,0 +1,121 @@
+{
+    "forum_title": "Geymslumiðlar og vinnsluminni",
+    "id": "37316",
+    "title": "HDD vandamál",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=27&t=37316",
+    "posts": [
+        {
+            "user_name": "Árni95",
+            "text": "er með harðan disk sem biosin sér en windowsið ekki \n \neinhver með ráðleggingar um það hvað ég geti gert?",
+            "date": "2011-03-26 00:14:00",
+            "post_id": "334442",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Predator",
+            "text": "Er hann formataður sem NTFS?",
+            "date": "2011-03-26 00:16:00",
+            "post_id": "334443",
+            "reply_to_id": "334442"
+        },
+        {
+            "user_name": "bulldog",
+            "text": "formatta hann í gegnum disk manangement í windowsinu",
+            "date": "2011-03-26 00:19:00",
+            "post_id": "334444",
+            "reply_to_id": "334443"
+        },
+        {
+            "user_name": "Árni95",
+            "text": "málið er að ég er með um 1tb af dóti á honum svo ég vil helst ekki formata hann en ef það er eina laustnin",
+            "date": "2011-03-26 00:24:00",
+            "post_id": "334446",
+            "reply_to_id": "334444"
+        },
+        {
+            "user_name": "Predator",
+            "text": "Hvaða windows ertu að keyra?",
+            "date": "2011-03-26 00:26:00",
+            "post_id": "334448",
+            "reply_to_id": "334446"
+        },
+        {
+            "user_name": "Árni95",
+            "text": "7",
+            "date": "2011-03-26 00:28:00",
+            "post_id": "334449",
+            "reply_to_id": "334448"
+        },
+        {
+            "user_name": "Predator",
+            "text": "hmmm spes, ertu búinn að prófa diskinn í annari tölvu?",
+            "date": "2011-03-26 00:32:00",
+            "post_id": "334451",
+            "reply_to_id": "334449"
+        },
+        {
+            "user_name": "BjarniTS",
+            "text": "Win 3.1 , 95 , 98 , ME , 2000 , XP , Vista , 7 ?",
+            "date": "2011-03-26 00:32:00",
+            "post_id": "334453",
+            "reply_to_id": "334451"
+        },
+        {
+            "user_name": "Árni95",
+            "text": "win 7",
+            "date": "2011-03-26 00:35:00",
+            "post_id": "334454",
+            "reply_to_id": "334453"
+        },
+        {
+            "user_name": "Árni95",
+            "text": "og nei er ekki búinn að prófann í annari tölvu og er ekki heldur með tölvu til að prófann í",
+            "date": "2011-03-26 00:36:00",
+            "post_id": "334456",
+            "reply_to_id": "334454"
+        },
+        {
+            "user_name": "Predator",
+            "text": "Myndi reyna að komast í aðra tölvu til að prófa hann áður en þú ferð út í það að formata. Getur líka prófað að ná þér í Live CD af Ubuntu og athugað hvort ubuntu geti komist inn á diskinn.",
+            "date": "2011-03-26 00:38:00",
+            "post_id": "334457",
+            "reply_to_id": "334456"
+        },
+        {
+            "user_name": "Árni95",
+            "text": "eða fara með hann í tölvutek eða eithvað og gá hvort þeir geta eithvað gert",
+            "date": "2011-03-26 00:39:00",
+            "post_id": "334458",
+            "reply_to_id": "334457"
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "Sérðu hann ekki í Disk Management?\nstart -> run -> compmgmt.msc -> Storage -> Disk mgmt",
+            "date": "2011-03-26 00:49:00",
+            "post_id": "334460",
+            "reply_to_id": "334458"
+        },
+        {
+            "user_name": "Árni95",
+            "text": "ok\nnáði þessu svona nokkurnveginn en núna kemur:You need to format the disk in drive E:before you can use it",
+            "date": "2011-03-26 00:57:00",
+            "post_id": "334462",
+            "reply_to_id": "334460"
+        },
+        {
+            "user_name": "biturk",
+            "text": "farðu í disk management, finndu diskinn þar, taktu screenshot af infoinu um hann og postaðu hér.",
+            "date": "2011-03-26 01:11:00",
+            "post_id": "334466",
+            "reply_to_id": "334462"
+        },
+        {
+            "user_name": "Árni95",
+            "text": "búinn að redda þessu",
+            "date": "2011-03-26 01:50:00",
+            "post_id": "334468",
+            "reply_to_id": "334466"
+        }
+    ],
+    "date": "2011-03-26 00:14:00"
+}

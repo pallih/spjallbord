@@ -1,0 +1,107 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "50233",
+    "title": "Babylon \"search engine\"",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=50233",
+    "posts": [
+        {
+            "user_name": "Steini B",
+            "text": "Hefur einhver hérna verið jafn óheppinn og ég að fá þennann viðbjóð í tölvuna?\nÉg er búinn að reyna allar brellur sem ég hef fundið á netinu til að reyna að losna við þetta úr firefox en ekkert virkar",
+            "date": "2012-09-06 22:42:00",
+            "post_id": "465438",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "rapport",
+            "text": "Búinn að fara í control panel og gera uninstall?\nEða nota  ccleaner af piriform.com ?",
+            "date": "2012-09-06 22:58:00",
+            "post_id": "465446",
+            "reply_to_id": "465438"
+        },
+        {
+            "user_name": "Steini B",
+            "text": "Ég var nú ekki búinn að nota þennann cleaner, notaði einhvern annann sem ég man ekki hvað heitir.\nEn ég fór alla leið í regedit og breytti þar án árangurs (breytti sér alltaf sjálfkrafa til baka...)\nÞetta er mest sticky fjandi sem ég hef nokkurntíman séð...",
+            "date": "2012-09-06 23:03:00",
+            "post_id": "465448",
+            "reply_to_id": "465446"
+        },
+        {
+            "user_name": "Benzmann",
+            "text": "disablear þetta bara undir \"add-ons\" eða hendir því út þar, og breytir svo bara um default search upp í hægra horninu aftur í google eða whatever þú villt hafa með því að clikcka á logoið þar\nekki erfitt, og hreinsar svo bara stillingarnar í new tab optioninu, um vefslóð, setur bara about:home aftur eða hefur það field bara empty \nsry ef ég næ ekki að útskýra nógu vel, næ varla að halda augunum opnum útaf þreytu hah\nen ef þú skilur þetta þá á þetta að virka, og hendir líka bara út öllu babylon draslinu í add and remove programs. þá ertu góður",
+            "date": "2012-09-06 23:27:00",
+            "post_id": "465454",
+            "reply_to_id": "465448"
+        },
+        {
+            "user_name": "Steini B",
+            "text": "Ég er búinn að reyna þetta allt og meira en það :/",
+            "date": "2012-09-06 23:54:00",
+            "post_id": "465467",
+            "reply_to_id": "465454"
+        },
+        {
+            "user_name": "Hnykill",
+            "text": "ToniArts EasyCleaner og Spybot Search & Destroy..\nEkki til vesen í tölvunni minni í mörg ár vegna þessara forrita.\nToniArts EasyCleaner er náttúrulega Registry hreinsari dauðans.. allt sem linkar í folder eða skrár sem eru ekki til verður hent.",
+            "date": "2012-09-07 00:58:00",
+            "post_id": "465475",
+            "reply_to_id": "465467"
+        },
+        {
+            "user_name": "razrosk",
+            "text": "Annað hvort ertu ekki með hefðbundið babylon addon eða ert að ljúga að þú sért búinn að prufa allt, hef uninstallað/disable-að þetta drasl margoft og alltaf virkað með control panel og í sjálfum firefox.\nAldrei þurft að nota neina cleanera né editað registry lol..",
+            "date": "2012-09-07 06:31:00",
+            "post_id": "465483",
+            "reply_to_id": "465475"
+        },
+        {
+            "user_name": "Aravil",
+            "text": "Reyndar hef ég lent í því að þetta getur verið ansi snúið að losa þetta út.\nÍ sumum tilfellum dugar að henda út addoninu en í öðrum... jah..\nOn topic: \n(Henda einnig öllu sem heitir \"Conduit\", hef oft séð það fylgja Babylon \"sýkingum\")\nHenda út babylon addoninu úr firefox.\nHenda því út úr Add/Remove programs.\nHenda því úr öllum registry fælum sem tengjast.\nHenda Babylon (og Conduit) möppum úr C:/Users/{Notendanafn}/Appdata/ \nAð lokum skal opna firefox og skrifa \"about:config\" í url, nota leitarstikuna þar til að sía út allt sem heitir babylon og gera reset á þær línur.\nÞetta er svona það sem ég man eftir atm þar sem þetta getur falið sig.",
+            "date": "2012-09-07 09:27:00",
+            "post_id": "465490",
+            "reply_to_id": "465483"
+        },
+        {
+            "user_name": "playman",
+            "text": "Einnig verðuru að vera í safemode til að hreynsa vélina.",
+            "date": "2012-09-07 09:31:00",
+            "post_id": "465491",
+            "reply_to_id": "465490"
+        },
+        {
+            "user_name": "krissiman",
+            "text": "Ég lenti í þessu helvíti ccleaner virkaði fyrir mig prófaðu það",
+            "date": "2012-09-11 16:31:00",
+            "post_id": "466237",
+            "reply_to_id": "465491"
+        },
+        {
+            "user_name": "Steini B",
+            "text": "Ég er búinn að: \nHenda þessu út í control panel\nHenda þessu út í addons í firefox\nHenda öllum möppum og folderum af HDD sem bera nafnið Babylon eða Conduit\nHenda út folder sem hét torrent 2 (greinilega partur af þessu)\nBreyta allt sem ber nafnið babylon yfir í default í about:config í firefox (breytir sér alltaf aftur)\nKeyra 3 mismunandi regestry hreinsara\nHenda firefox út og keyra aftur regestry hreinsun\nÞað eina sem eftir er held ég er Format C:",
+            "date": "2012-09-12 19:55:00",
+            "post_id": "466475",
+            "reply_to_id": "466237"
+        },
+        {
+            "user_name": "playman",
+            "text": "Gerðiru þetta í safemode?",
+            "date": "2012-09-12 20:43:00",
+            "post_id": "466488",
+            "reply_to_id": "466475"
+        },
+        {
+            "user_name": "Steini B",
+            "text": "Nei, reyndar ekki...\nPrufa það á eftir",
+            "date": "2012-09-12 21:21:00",
+            "post_id": "466504",
+            "reply_to_id": "466488"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Start-> Run -> firefox -safe-mode\nFærð þennann glugga\nhaka við restore search engines, preferences, toolbars",
+            "date": "2012-09-12 21:55:00",
+            "post_id": "466516",
+            "reply_to_id": "466504"
+        }
+    ],
+    "date": "2012-09-06 22:42:00"
+}

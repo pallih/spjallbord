@@ -1,0 +1,58 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "5708",
+    "title": "SFTP windows forrit?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=5708",
+    "posts": [
+        {
+            "user_name": "Jakob",
+            "text": "Veit einhver um SFTP (SSH FTP) forrit sem hægt er að tengja beint inní Windows Explorer?\n\n\n\nÞannig að það sé hægt að vinna beint með skrár á fjarlægum tölvum örugglega.\n\n\n\nVenjulegt FTP myndi líka duga!",
+            "date": "2004-09-23 18:18:00",
+            "post_id": "57663",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Voffinn",
+            "text": "Ertu að tala einsog ég get gert í nautilus hjá mér að mounta sftp? Hvað með forritið WinSCP, getur það gert það sem þú ert að leita eftir?",
+            "date": "2004-09-23 19:08:00",
+            "post_id": "57666",
+            "reply_to_id": "57663"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "Filezilla notar part úr Putty(þarft ekki að setja það inn) til þess að gera SSH FTP.\n\nÉg mæli allavega með Filezilla þó að ég hafi ekki prufað SFTP með því",
+            "date": "2004-09-23 19:32:00",
+            "post_id": "57672",
+            "reply_to_id": "57666"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Held hann sé að meina að hann vilji skrifa td. \nsftp://vaktin.is\n í Explorer og þá opnist það í IE en ekki í öðrum glugga eins og með WinSCP. Ef hann er ekki að meina það þá er ég allavega að leita.",
+            "date": "2004-09-23 20:00:00",
+            "post_id": "57683",
+            "reply_to_id": "57672"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "ahh, las ekki nógu vel",
+            "date": "2004-09-23 20:43:00",
+            "post_id": "57687",
+            "reply_to_id": "57683"
+        },
+        {
+            "user_name": "Jakob",
+            "text": "Jafnvel ennþá betra en það... Ég vil helst fá FTP serverana í folders gluggan í Windows Explorer!",
+            "date": "2004-09-23 21:11:00",
+            "post_id": "57693",
+            "reply_to_id": "57687"
+        },
+        {
+            "user_name": "Jakob",
+            "text": "Hvað segiði... Veit enginn um svona forrit ???",
+            "date": "2004-09-24 17:17:00",
+            "post_id": "57786",
+            "reply_to_id": "57693"
+        }
+    ],
+    "date": "2004-09-23 18:18:00"
+}

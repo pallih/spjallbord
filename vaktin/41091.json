@@ -1,0 +1,72 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "41091",
+    "title": "Skjákorts/móðurborð vandræði...",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=41091",
+    "posts": [
+        {
+            "user_name": "asigurds",
+            "text": "Kvöldið,\nÉg lenti í því að vélinn hjá mér fraus um daginn þegar ég var að spila tölvuleik og ég restartaði henni og reyndi að fara aftur í leikinn 2x sinnum og alltaf sama sagan.\nOpnaði turninn og ryksugaði allt heila klabbið og reyndi svo að ræsa vélina og byrjaði þá að koma línur útum allt í bios keyrslunni og allt fram að windows þar sem vélinn fraus og kom skjár sem var hálfsvartur og hálfhvítur og eitthvað vandamál.\nAllavegana þá reif ég skjákortið úr ( Geforce GTS 512 Alpha dog eitthvað 512mb ) tók það og ryksugaði yfir það og smellti því í og sama dæmi kom.\nReif alla HD úr sambandi nema þann með stýrikerfinu (3x hdd sem ég tók úr sambandi ) og allt nema skjá lyklaborð og mús og sami vandi kom upp.\nÉg komst svo loks inn í vélina í gegnum Safe mode og slökkti svo á vélinni og hvarf frá í 2klst og kom aftur og gat þá ræst vélina venjulega. Prófaði að stress prófa skjákortið þar sem að viftan á því fór alveg á fullt þegar hún var að ræsa windows og þá fór ég á byrjunar reit þeas vélinn fraus og ég komst svo ekkert aftur í windows nema í gegnum Safe mode.\nReddaði mér öðru skjákorti í dag og komst inn í stýrikerfið enn ef ég reyni að keyra einhvern leik í gang eða stress prófa skjákortið þá frís vélinn í einhverjar 15-20 sec og sýnir svo nokkra ramma og aftur sama dæmi.\nÉg prófaði einnig að swappa minninu fram og tilbaka og hafa einungis eitt í gangi í einu enn það breytti engu.\nGetur verið að PCI raufinn á móðurborðinu sé eitthvað skemmd eða eru meiri líkur á að bæði skjákortinn séu að drulla í heyjið?\nNota bene ég elska að ryksuga.....",
+            "date": "2011-08-29 01:31:00",
+            "post_id": "375601",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Krisseh",
+            "text": "Wild guess: Aflgjafi.\nÞú ert búninn að reyna á PCI-E og DIMM.\nFrekar ólíklegt en ef þér finnst þetta beinast að HDD, prufaðu þá aðra gagnakapla.",
+            "date": "2011-08-29 01:54:00",
+            "post_id": "375605",
+            "reply_to_id": "375601"
+        },
+        {
+            "user_name": "asigurds",
+            "text": "Sæll,\nEkki veistu hvernig ég gæti ath betur hvort þetta tengist aflgjafanum? einnig runnaði ég HDD test áðan án vandræða.",
+            "date": "2011-08-29 02:00:00",
+            "post_id": "375607",
+            "reply_to_id": "375605"
+        },
+        {
+            "user_name": "Krisseh",
+            "text": "Prufaðu annan Aflgjafa og passaðu að hann sé ekki aflminni, þú varst ekki að bæta hdd eða ljósadæmi í kassann þegar þetta gerðist?\nEnda finnst mér afar ólíklegt að þetta tengist hdd, yfirleitt í þessari röð giska ég ef á við Vinnsluminni: PCI-E, DIMM, PSU, MB",
+            "date": "2011-08-29 02:31:00",
+            "post_id": "375611",
+            "reply_to_id": "375607"
+        },
+        {
+            "user_name": "mundivalur",
+            "text": "Það er bannað að ryksuga tölvu íhluti,það getur myndað stöðurafmagn  og hlutir skemmast eða verða vitlausir  \n \nReyndu að nota blástur næst",
+            "date": "2011-08-29 08:29:00",
+            "post_id": "375618",
+            "reply_to_id": "375611"
+        },
+        {
+            "user_name": "asigurds",
+            "text": "Daginn,\ner nokkuð einhver önnur leið enn að skipta út aflgjafanum þar sem það ætlar að reynast erfitt fyrir mig að finna slíkan hlut að láni.....\nOg já skjákortið sem ég var með í vélinni var 8800GTS kort með sér rafmagnstengi enn ég er  með 7600 kort núna sem er bara tengt í móðurborð ef það skiptir einhverju máli fyrir greiningu.",
+            "date": "2011-08-29 14:07:00",
+            "post_id": "375703",
+            "reply_to_id": "375618"
+        },
+        {
+            "user_name": "asigurds",
+            "text": "Notaði forrit sem heitir BurninTest til að stress prófa allan búnaðinn og gekk allt vel nema með skjákortið þar sem það fraus í 10-15 sec eftir einhverja ramma og svo aftur og aftur. Semsagt fraus ekki algjörlega líkt og fyrra kort gerði.\nTestinn sem voru framkvæmd voru á HDD,CPU,RAM,2D,MAX cpu Temp og 3d.\n3d feilaði...",
+            "date": "2011-08-29 14:09:00",
+            "post_id": "375704",
+            "reply_to_id": "375703"
+        },
+        {
+            "user_name": "asigurds",
+            "text": ".............",
+            "date": "2011-08-30 12:44:00",
+            "post_id": "376053",
+            "reply_to_id": "375704"
+        },
+        {
+            "user_name": "asigurds",
+            "text": "jæja..\nNokkuð viss um að skjákortið mitt sé steikt þar sem ég get ekki keyrt upp stýrikerfið nema með skjákorti sem ég fékk í láni...:/\nBúinn að strauja vélina og setja up Win7 enn frostnar enn við minnstu vinnslu. Komu smá strik á skjáinn hér og þar þegar ég prófaði bejeweled á facebook ffs!.\nHvaða verkstæði mælið þið með til að hjóla í þetta hratt og örugglega?",
+            "date": "2011-08-31 23:43:00",
+            "post_id": "376562",
+            "reply_to_id": "376053"
+        }
+    ],
+    "date": "2011-08-29 01:31:00"
+}

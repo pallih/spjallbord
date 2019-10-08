@@ -1,0 +1,37 @@
+{
+    "forum_title": "Símar, fartölvur, myndavélar og önnur farandstæki",
+    "id": "17845",
+    "title": "A disk read error occurred",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=26&t=17845",
+    "posts": [
+        {
+            "user_name": "hsm",
+            "text": "Þegar þessi skilaboð koma upp er ég kveiki á fartölvunni \"A disk read error occurred\"\"Press Ctrl+Alt+Del to restart\"\nEr þá harði diskurinn bilaður  \n \nEr búinn að fara í biosinn og hún finnur diskinn og ég get gert test á honum sem virðist vera í lagi EN..\nEf einhver veit hvað ég á að byrja á að gera þá endilega.",
+            "date": "2008-04-22 14:10:00",
+            "post_id": "172924",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "http://www.hardwareanalysis.com/content ... 9004/?o=20\nGooglaði þetta bara :/",
+            "date": "2008-04-22 15:02:00",
+            "post_id": "172935",
+            "reply_to_id": "172924"
+        },
+        {
+            "user_name": "Allinn",
+            "text": "Þetta hlýtur að vera vandamál með C drif þú verður að fara í BIOS og í Boot from ,Your HDD,",
+            "date": "2008-04-22 15:16:00",
+            "post_id": "172937",
+            "reply_to_id": "172935"
+        },
+        {
+            "user_name": "hsm",
+            "text": "Ég er með HP Compaq nx8220 og er búinn að fara í BIOS og fikta þar.\nÞað er u.þ.b. 1ár síðan ég setti þennan harða disk í vélina og það hefur verið í fínu lagi með tölvuna alla daga síðan,\nnema þetta byrjaði í firradag.\nÉg er með HDD valið sem fyrsta boot í BIOS \nÆtla að prufa að taka hann úr og setja hann í flakkarann minn og a.t.h. hvort að hann virki þar.\nViðbót:\n1. Er búinn að taka diskinn úr og setja hann í flakkarann og virðist alveg virka fínt.\n2. Er búinn að setja annan disk í fartölvuna og þá kemur ekki sama error. Hann er reyndar ekki með windows uppsettu en ég byrjaði uppsetningar ferlið og það virtist virka.\n3. Svo prófaði ég að setja sama diskin í og þá kom bara aftur sama error skilaboð.\nÞannig að er ekki líklega að HDD sé með einhvern galla kanski á BOOT Sector eða eitthvað álíka ??",
+            "date": "2008-04-22 16:55:00",
+            "post_id": "172948",
+            "reply_to_id": "172937"
+        }
+    ],
+    "date": "2008-04-22 14:10:00"
+}

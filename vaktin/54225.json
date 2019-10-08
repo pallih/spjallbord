@@ -1,0 +1,51 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "54225",
+    "title": "[MÁ EYÐA] Innlent download á forrit sem býr til Bootable USB",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=54225",
+    "posts": [
+        {
+            "user_name": "capteinninn",
+            "text": "Er með gamla Mac Mini sem er alveg steindauð og ég á í erfiðleikum með að setja hana í gang.\nMig vantar eitthvað forrit eins og LiLi eða eitthvað álíka til að búa til bootable usb.\nEr búinn með download kvótann minn en langar að fara í að gera þetta núna svo ég spyr einfaldlega hvort þið vitið um link á innlent download á einhverju forriti til að búa til bootable usb?\nBJÓ TIL NÝJAN ÞRÁÐ ÞVÍ ÞESSI ER ORÐINN ÚRELTUR, ENDILEGA EYÐA ÞESSUM",
+            "date": "2013-03-30 16:35:00",
+            "post_id": "502823",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "tdog",
+            "text": "Hvaða týpa af MM er þetta?",
+            "date": "2013-03-30 17:07:00",
+            "post_id": "502831",
+            "reply_to_id": "502823"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Minnir að þetta sé fyrsta útgáfan af Intel Mac Mini.\nNáði einhvernveginn að mixa þannig að hún vildi ekki ræsa sig. Ég tók hana í sundur og tók harða diskinn úr og prófaði að formatta hann til að setja upp Ubuntu á honum eða eitthvað til að koma henni í gang en það virkaði ekki.\nGeisladiskadrifið er bilað á henni og ég er með OSX stýrikerfisdisk sem ég er búinn að henda inná tölvuna til að setja á USB kubb til að prófa að reyna að installa því þannig inn á tölvuna fyrst ekkert annað virkar.\nEf þú veist einhverja betri aðferð við að gera þetta væri það mjög vel þegið, langar mikið að fá hana til að virka sem media center frammi í stofu",
+            "date": "2013-03-30 18:16:00",
+            "post_id": "502854",
+            "reply_to_id": "502831"
+        },
+        {
+            "user_name": "tdog",
+            "text": "Ertu búinn að prófa að halda C inni þegar þú bootar, restetta pram og nvram og smc?",
+            "date": "2013-03-30 18:18:00",
+            "post_id": "502855",
+            "reply_to_id": "502854"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Mjög langt síðan ég var síðast að vinna í þessu en mig minnir að engir takkar í bootinu virkuðu eins og þeir áttu að gera, tölvan var bara með hvítan skjá að vinna og það fór aldrei ef ég hélt inni einhverjum tökkum.\nGæti ég installað Win7 beint á tölvuna þegar það er ekkert á disknum með því að gera þetta sem þú talar um ?",
+            "date": "2013-03-30 18:28:00",
+            "post_id": "502857",
+            "reply_to_id": "502855"
+        },
+        {
+            "user_name": "capteinninn",
+            "text": "Var að prófa að reyna að keyra hana í gang núna en það virkaði ekki.\nAlveg sama hvað ég ýti á fæ ég svona grátt bannmerki á hvítan skjá. Einhver með lausnir?\nEdit*\nPrófaði að ýta á Alt takkann (er bara með pc lyklaborð) og þá fékk ég möguleika að keyra af USB en svo fékk ég bara bannmerkið aftur þegar ég valdi eitthvað, ætla að prófa að setja upp USB kubbinn með Ubuntu eða einhverju öðru og sjá hvort ég nái að keyra þetta í gang þannig",
+            "date": "2013-04-01 16:27:00",
+            "post_id": "503219",
+            "reply_to_id": "502857"
+        }
+    ],
+    "date": "2013-03-30 16:35:00"
+}

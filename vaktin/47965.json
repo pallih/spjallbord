@@ -1,0 +1,44 @@
+{
+    "forum_title": "Windows",
+    "id": "47965",
+    "title": "Vesen Með Tölvuna",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=47965",
+    "posts": [
+        {
+            "user_name": "Tropical",
+            "text": "Ég er með vesen með Tölvuna mína alltaf þegar ég Opna Facebook í henni þá frís hún og Hökktar hef prófað að opna Facebook í  Internet Explorer, Google Chrome og Mozilla firefox enn þetta gerist alltaf að hún hökkti og frís enn ef ég sleppi að fara í facebook þá er hún ekki með neitt vesen \nSvona Er Performance ið þegar ég fer ekki á facebook \nenn á Facebook \neithverjar uppástungur hvernig er hægt að laga þetta ?",
+            "date": "2012-05-23 19:13:00",
+            "post_id": "443161",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Moquai",
+            "text": "Getur prufað að uppfæra java, það er alveg longshot en getur prufað það.",
+            "date": "2012-05-23 19:44:00",
+            "post_id": "443167",
+            "reply_to_id": "443161"
+        },
+        {
+            "user_name": "vesi",
+            "text": "myndi skoða hvað er að gerast í processes, þetta er ekki eðlilegt þar sem vafrari er þegar opin,, \nveit ekki með java því chrome update-ar java sjálfur.",
+            "date": "2012-05-23 19:51:00",
+            "post_id": "443168",
+            "reply_to_id": "443167"
+        },
+        {
+            "user_name": "Nitruz",
+            "text": "Fáðu að logga þig inn með annan acount og sjáðu hvort þetta tengist bara þínum account.\nGæti verið eitthvað malware, myndi scanna vel allavega.\nGetur líka fengið þér addon einns og stop script, flash block og sjá hvort það breyti einhverju.\nAnnars veit ég ekki, er sjálfur none facebook weirdo",
+            "date": "2012-05-23 20:07:00",
+            "post_id": "443172",
+            "reply_to_id": "443168"
+        },
+        {
+            "user_name": "Daz",
+            "text": "Smelltu þarna á \"Resource monitor\" veldu CPU flipann, raðaðu eftir CPU og opnaðu svo aftur facebook. \nedit: Og lagaðu svo nafnið á þræðinum. Ekki mjög skýrt.",
+            "date": "2012-05-23 20:23:00",
+            "post_id": "443174",
+            "reply_to_id": "443172"
+        }
+    ],
+    "date": "2012-05-23 19:13:00"
+}

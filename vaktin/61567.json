@@ -1,0 +1,142 @@
+{
+    "forum_title": "Íhlutir og tölvuskjáir",
+    "id": "61567",
+    "title": "Tölva detectar ekki skjá+get ekki installað drivers",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=21&t=61567",
+    "posts": [
+        {
+            "user_name": "bobbyperu",
+            "text": "Sælt veri fólkið.\nÉg lenti í því í morgunn að tölvan vildi allt í einu ekki detecta skjáinn minn og svo get ég heldur ekki installað driverum fyrir skjákortið. Er með Benq GL2240 og Ati Radeon HD 5750 skjáokort. Get runnað tölvuna í 1400x1050 og get ekki keyrt neina leiki upp. Hjálp hvað er að ? :p",
+            "date": "2014-07-08 02:12:00",
+            "post_id": "566738",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Minuz1",
+            "text": "skjákortið er pooched held ég.\nLíka kominn tíma á að skipta um",
+            "date": "2014-07-08 02:27:00",
+            "post_id": "566739",
+            "reply_to_id": "566738"
+        },
+        {
+            "user_name": "bobbyperu",
+            "text": "Það er löngu vitað hehe enda vélin 5 ára. Eina sem hefur verið skipt um er aflgjafinn og bætt við vinnsluminni :p",
+            "date": "2014-07-08 03:01:00",
+            "post_id": "566743",
+            "reply_to_id": "566739"
+        },
+        {
+            "user_name": "bobbyperu",
+            "text": "http://prntscr.com/40gxpu\n \nhttp://prntscr.com/40gxwr\nhttp://prntscr.com/40gzjc",
+            "date": "2014-07-08 03:34:00",
+            "post_id": "566745",
+            "reply_to_id": "566743"
+        },
+        {
+            "user_name": "Bioeight",
+            "text": "Nota þetta: \nhttp://www.guru3d.com/files-details/display-driver-uninstaller-download.html\n og prófa svo að installa display driver.",
+            "date": "2014-07-08 05:41:00",
+            "post_id": "566746",
+            "reply_to_id": "566745"
+        },
+        {
+            "user_name": "bobbyperu",
+            "text": "http://prntscr.com/40p4j3",
+            "date": "2014-07-08 18:51:00",
+            "post_id": "566802",
+            "reply_to_id": "566746"
+        },
+        {
+            "user_name": "bobbyperu",
+            "text": "Virkar ekki ennþá. Einhver félagi vinar minns sagði að þetta gæti verið móðurborðs vandamál",
+            "date": "2014-07-08 21:47:00",
+            "post_id": "566816",
+            "reply_to_id": "566802"
+        },
+        {
+            "user_name": "bobbyperu",
+            "text": "Virkar ekki ennþá. Einhver félagi vinar minns sagði að þetta gæti verið móðurborðs vandamál",
+            "date": "2014-07-08 21:47:00",
+            "post_id": "566817",
+            "reply_to_id": "566816"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Downloadaðu drivernum fyrir stýrikerfið þitt fyrir þetta skjákort frá AMD. Uninstallaðu öllum AMD driverum tengdum skjákortinu.\nRestartaðu.\nInstallaðu drivernum sem þú varst að downloada. \nHvað gerist?",
+            "date": "2014-07-08 22:08:00",
+            "post_id": "566819",
+            "reply_to_id": "566817"
+        },
+        {
+            "user_name": "bobbyperu",
+            "text": "http://prntscr.com/40p4j3\n og \nhttp://prntscr.com/40s0i9",
+            "date": "2014-07-08 22:49:00",
+            "post_id": "566827",
+            "reply_to_id": "566819"
+        },
+        {
+            "user_name": "Gúrú",
+            "text": "Hvaða stýrikerfi er þetta og hvar er þetta fyrra screenshot tekið?\nAldrei séð neitt umhverfi líkt þessu með lista yfir drivera og \"Fail\". Er þetta einhver 3rd party installer eða AMD installer?",
+            "date": "2014-07-09 02:39:00",
+            "post_id": "566841",
+            "reply_to_id": "566827"
+        },
+        {
+            "user_name": "bobbyperu",
+            "text": "Heyrðu þetta er komið í lag",
+            "date": "2014-07-09 04:39:00",
+            "post_id": "566844",
+            "reply_to_id": "566841"
+        },
+        {
+            "user_name": "bobbyperu",
+            "text": "Talaði of fljótt. Núna næ ég að installa dræverum fyrir skjákortið en tölvan blue skrínar á mig og biður alltaf um restore :p",
+            "date": "2014-07-09 06:02:00",
+            "post_id": "566846",
+            "reply_to_id": "566844"
+        },
+        {
+            "user_name": "razrosk",
+            "text": "Gerðist um daginn hjá mér, prufaðu að uninstalla öllu AMD related, restarta og installa eldri driver (13.x - ekki 14.x), virkaði hjá mér. Svo virðist sem að nýjasti driverinn installast annaðhvort ekki eða lætur tölvuna  í bluescreenloop...",
+            "date": "2014-07-09 18:21:00",
+            "post_id": "566867",
+            "reply_to_id": "566846"
+        },
+        {
+            "user_name": "bobbyperu",
+            "text": "Ég er búinn að prófa AMD_Catalyst_13.5_CAP1.05212013_635089873708376430 og amd_catalyst_13.5_beta2_635024941059527140 og hvorugur virkar :p",
+            "date": "2014-07-10 06:03:00",
+            "post_id": "566915",
+            "reply_to_id": "566867"
+        },
+        {
+            "user_name": "razrosk",
+            "text": "Prufaðu 13.1",
+            "date": "2014-07-10 17:37:00",
+            "post_id": "566956",
+            "reply_to_id": "566915"
+        },
+        {
+            "user_name": "bobbyperu",
+            "text": "http://www.techpowerup.com/downloads/2196/amd-catalyst-13-1-software-suite-vista-7-64-bit/\nÞetta ?",
+            "date": "2014-07-10 18:16:00",
+            "post_id": "566960",
+            "reply_to_id": "566956"
+        },
+        {
+            "user_name": "razrosk",
+            "text": "Hvernig gekk? Komið í lag eða?",
+            "date": "2014-07-11 21:56:00",
+            "post_id": "567068",
+            "reply_to_id": "566960"
+        },
+        {
+            "user_name": "bobbyperu",
+            "text": "Heyrðu já hehe. Ég installaði DirectX 11 og þá lagaðist allt",
+            "date": "2014-07-11 23:58:00",
+            "post_id": "567089",
+            "reply_to_id": "567068"
+        }
+    ],
+    "date": "2014-07-08 02:12:00"
+}

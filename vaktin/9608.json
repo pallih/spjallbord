@@ -1,0 +1,114 @@
+{
+    "forum_title": "Windows",
+    "id": "9608",
+    "title": "Vírus bögg",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=9608",
+    "posts": [
+        {
+            "user_name": "Xen0litH",
+            "text": "Kallinn nældi sér í vírus í fyrradag, nefndur Win32:Tenga samkvæmt avast!\n\nÞessi vírus náði að breiða sér í örugglega alla file-a í systeminu og var í í nokkuð miklum vandræðum að koma honum út.  Hann sýkti system32 fæla og gat ég ekki opnað system restore því það koma að það væri ekki \"Win32 application\" eða eitthvað þvíum líkt, og kom þetta við flest alla .exe file og forrit (t.d ventrilo).\n\n\n\nÉg tók það ráð að gera repair með windows disknum og fór eftir \nþessum\n góðu lýsingum Gnarr um hvernig ætti að gera þetta (gratz \n ).\n\nJæja, ég var búinn að þessu og kominn inní windowsið og gat ég þá loksins opnað system restore (notaði það reyndar ekki) en ekki samt aðra file-a sem ekki voru system file-ar (t.d ventrilo og installs sem ég átti á tölvuni og vírusinn greinilega sýkti) en ég gat þó náð mér í ný install af þeim fælum og re-installað og allt komið í lag.\n\n\n\nJæja.. allt virtist komið í orden og var ég í tölvunni eins og vanalega og allt gekk vel, síðan slökkti ég á henni áður en ég fór að sofa.\n\nSvo núna, ætlaði ég að kveikja á henni og var kominn að \"Windows is starting up\" og tekur það alveg heljarinnar tíma að starta sér, svona 30 sek ca. (tekur vanalega 5 sirkabát) svo þegar ég er kominn á desktopið þá kemur hún með þau villuskilaboð að DEAMON Tools geti ekki startað sér því það þurfi \"Windows 2000 or higher\" blabla.  Ég held bara að þetta sé vírusinn sem sýkti þetta og un-installa þessu og opna þá browserinn til að ná mér í nýtt install af þessu því það gamla auðvitað virkaði ekki, (\"Not a valid Win32 application\") heyrðu, þá klikkar netið og ég kemst ekki inn, þá poppar upp \"Found new hardware Ethernet Controller\" Ég reyni að installa því en það þarf diskinn og blabla.\n\n\n\nÉg finn diskinn og set hann í drifið og ætla bara að setja netkortið (er með þráðlaust) upp á nýtt inn, hendi því út og fer í setupið, neinei.. ekki get ég startað því og fæ villuboð með einhverjum tölum og veseni að ég geti ekki startað þessu... Ekkert net! Núna sit ég hérna, með fartölvuna mína, skrifandi þetta og horfandi á disk check á vélinni og er það komið í 17%, vona að þetta lagi eitthvað..\n\n\n\nS.s, í stuttu máli, ég fékk vírus sem heitir Win32:Tenga (samkv. avast) og held ég sé búin að ná honum úr systeminu, en hann hefur eyðilagt fullt af fælum og get ég vart verið í tölvunni, einhver ráð ?  \n\n\n\n\nMeð von um einhver ráð, svör eða bara einhverja sem hlægja af þessum pósti og segja \"GOTTÁÐIG\"\n\n\n\nKv. Xen0",
+            "date": "2006-01-08 20:05:00",
+            "post_id": "104165",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Dust",
+            "text": "Hefðir eflaust sparað þér tíma á að formatta bara",
+            "date": "2006-01-08 20:53:00",
+            "post_id": "104173",
+            "reply_to_id": "104165"
+        },
+        {
+            "user_name": "Xen0litH",
+            "text": "Ég er svona gaur sem lætur vírusa ekki sigra sig, got it ?!?! \n\n\n\nHehe, annars var búið að stinga upp á því áður og veit ég vel af þeim valkosti, annars ætla ég að halda áfram að reyna\n\n\n\nP.s kominn með netið, vúhú\n\n\n\nKv. Xen0",
+            "date": "2006-01-08 20:56:00",
+            "post_id": "104174",
+            "reply_to_id": "104173"
+        },
+        {
+            "user_name": "Blackened",
+            "text": "lætur vírusa ekki sigra sig nei.. það tekur kannski einn og hálfan tíma að formatta og installa og allt það dæmi..\n\n\n\nmaður getur verið í marga klukkutíma í bölvuðu veseni við að berjast við þessa vírusa..\n\n\n\nef maður er með bara windows á sér partition eins og ég.. þá er lang þægilegast bara að formatta",
+            "date": "2006-01-08 21:09:00",
+            "post_id": "104177",
+            "reply_to_id": "104174"
+        },
+        {
+            "user_name": "Xen0litH",
+            "text": "Já kannskjé, ég bara er ekki sá allra besti á tölvur ef satt skal segja \n\n\n\n\nÉg er með 160GB HDD, fullann af stöffi, á engan backup disk, svo ég kann ekki við það að formata :l",
+            "date": "2006-01-08 21:22:00",
+            "post_id": "104181",
+            "reply_to_id": "104177"
+        },
+        {
+            "user_name": "Xen0litH",
+            "text": "Var að ná mér í nýtt install af daemon tools, opnaði það og  fékk villuboð strax eftir að ég acceptaði licance aggreement sem hljóðar svona\n\n\n\n''This program will install SCSI Pass Through Driect (SPTD) layer on your computer.\nWARNING - SPTD is not compatible with kernel mode debuggers (SoftICE, WinDBG etc.)!\nPlease cancel setup if you plan to use kernel debugger on this machine.\"\n\n\n\n\nEf ég ýti á ok þá fæ ég \n \"Failed to oped config key\"\n\n\nSvo kemst ég ekkert áfram ?",
+            "date": "2006-01-08 21:31:00",
+            "post_id": "104185",
+            "reply_to_id": "104181"
+        },
+        {
+            "user_name": "Xen0litH",
+            "text": "Fæ mjög oft \"*** is not a valid Win32 application.\" þegar ég reyni að opna eitthvað, þessir file-ar eru þá mjög líklega ónýtir eftir vírusinn fyrst þetta eru greinilega ekki system files sem eru ekki að virka? (gerði repair af disknum)",
+            "date": "2006-01-09 00:09:00",
+            "post_id": "104214",
+            "reply_to_id": "104185"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "Hvað ef hann er með 100forrit upp sett á tölvunni sinni? Með windows customize-að nákvæmlega eins og hann vill?\n\n\n\nÉg get lofað þér því að ég er margfalt fljótari að henda út nokkrum vírusum heldur en nokkurntíman að setja tölvuna mína upp uppá nýtt. Það tekur svona 1-2 vikur fyrir mig að klára að customize-a windows uppsettninguna hjá mér og að setja upp öll forrit sem ég vill hafa áður en ég er sáttur.\n\n\n\nFormat er \nekki\n lausn!\n Það er til að gera diskana tilbúna fyrir notkun (og fyrir þá sem að geta ekki sætt sig við að þeir kunna ekki nóg til að takast á við vandamálin).",
+            "date": "2006-01-09 08:45:00",
+            "post_id": "104240",
+            "reply_to_id": "104214"
+        },
+        {
+            "user_name": "Blackened",
+            "text": "já.. þetta tekur kannski aðeins lengri tíma en mig minnti.. en mér finnst fínt að formata og Ghosta síðan bara partitionið",
+            "date": "2006-01-09 12:12:00",
+            "post_id": "104260",
+            "reply_to_id": "104240"
+        },
+        {
+            "user_name": "Vilezhout",
+            "text": "Ég er einfaldlega með windows með þeim leikjum og forritum uppsett á gömlum 40GB disk sem er geymdur uppí skáp og ég einfaldlega boota af honum og skrifa yfir á þann disk sem ég er með sem master venjulega",
+            "date": "2006-01-09 12:43:00",
+            "post_id": "104262",
+            "reply_to_id": "104260"
+        },
+        {
+            "user_name": "urban",
+            "text": "en... hversu oft tekuru backup á þennan disk ?\n\n\n\nég t.d. væri fúll ef að ég missti það sem ég gerði í gær...",
+            "date": "2006-01-09 14:27:00",
+            "post_id": "104274",
+            "reply_to_id": "104262"
+        },
+        {
+            "user_name": "Xen0litH",
+            "text": "Nú er þetta orðið meira vandamál með ónýta file-a og örugglega einhverjar stillingar fu**d, m.a, ég get ekki runnað geisla diska með installi (t.d iTunes) fæ ávallt boðin \n\n\"1608: Unable to create InstallDriver instance,\nReturn code: -2147024894\"\n\n\n\n\nOg með *.exe file-a að þetta séu ekki \"valid Win32 application\"\n\n\n\nÞetta er þá greinilega vandræði með windows installer?\n\nGooglaði þetta í gær og fékk upp að þetta gæti verið DCOM Settings og komu svo leiðbeiningar um hvernig þær ættu að vera en allt virðist í lagi þar.\n\nSvo er eitt en, ég get ekki startað iTunes, klikka á iconið, tölvan vinnur í 3 sek svo ekkert meir, engin skilaboð né neitt? \n\n\n\n\nMeð von um einhver svör \n,\n\nKv. Xen0",
+            "date": "2006-01-10 01:49:00",
+            "post_id": "104351",
+            "reply_to_id": "104274"
+        },
+        {
+            "user_name": "Xen0litH",
+            "text": "Ætla bara að henda þessu inní þennan þráð í stað þess að gera nýjan.\n\n\n\nByrjaði fyrir stuttu að hætta að sjá removable storages í my computer og get ekkert notað þau (iPod, USB lykill)\n\nÉg fer í disk management og sé þá þar og get hægri klikkað þá og valið explore til að sjá hvað er inni á þeim en ekki opnað þá? \n\n\n\n\nWindows s.s detectar þá alveg þegar ég plögga þeim inn en ég get eiginlega ekkert notað þetta (vantar að hlaða lögum inná iPodinn)\n\n\n\nMeð von um að einhver viti ráð við þessu,\n\nKv. Xen0",
+            "date": "2006-01-12 14:05:00",
+            "post_id": "104660",
+            "reply_to_id": "104351"
+        },
+        {
+            "user_name": "gnarr",
+            "text": "athugaðu eitt..\n\n\n\neru nokkuð nýjir harðirdiskar eða geisladiskar að nota sama bókstaf og þessi drif notuðu?\n\n\n\nPrófaðu að fara í disk management, og athugaðu hvort þú getur skilgreint nýjann bókstaf fyrir þau.",
+            "date": "2006-01-12 14:51:00",
+            "post_id": "104665",
+            "reply_to_id": "104660"
+        },
+        {
+            "user_name": "Xen0litH",
+            "text": "Virðist ekki vera vandamálið \n\n\n\n\nÞegar ég fer í explore þá eru þeir nafnlausir og ég get ekki skýrt þá, svo eru þeir alltaf með \"Location: 0\" staðin fyrir 1 \n\n\n\n\nEDIT: Svo er Local disc með \"Location: 1(1)\" eins og þessi 1 í sviga tákni að það sé bara eitt \"slot\" laust þarna?",
+            "date": "2006-01-12 15:27:00",
+            "post_id": "104671",
+            "reply_to_id": "104665"
+        }
+    ],
+    "date": "2006-01-08 20:05:00"
+}

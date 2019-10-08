@@ -1,0 +1,121 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "48587",
+    "title": "Í Hverju get ég notað 5.1 (Surround)",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=48587",
+    "posts": [
+        {
+            "user_name": "kjarribesti",
+            "text": "Ég var að velta fyrir mér, ég keypti mér Logitech z506 5.1 og hélt að þá gæti ég verið með alla þætti og bíómyndir í 4 speakerum en samt kemur bara ekki neitt í aftari tvo hátalarana ?\nVeit að Mp3 er bara 2,1 en var líka að velta fyrir mér hvort ég gæti ekki spilað í öllum hátölurunum í itunes t.d\nVil fá í alla 4 speakerana sama hvort það sé bara speglun af þeim fremri eða ekki.",
+            "date": "2012-06-25 21:29:00",
+            "post_id": "449535",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "axyne",
+            "text": "control panel - sound - configure\nminnir þú ættir að geta breytt stillingum þarna sem gerir þér kleyft að keyra hljóðið frá L-R í sourround hátalarana.",
+            "date": "2012-06-25 21:44:00",
+            "post_id": "449539",
+            "reply_to_id": "449535"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "nei það er ekki hægt, \nþakka samt sem áður svarið",
+            "date": "2012-06-25 21:51:00",
+            "post_id": "449540",
+            "reply_to_id": "449539"
+        },
+        {
+            "user_name": "upg8",
+            "text": "Ertu viss um að þessar myndir og þættir sem þú ert að horfa á séu með 5.1 hljóði? Annars eru sumir codec pakkar bjóða uppá dolby prologic upmixara, það er ef þú ert með myndband sem er bara í stereo. Svo er þetta líka í stillingunum á ýmsum forritum eins og VLC. Ef það gerir ekki neitt og allt er rétt tengt þá ættiru að prófa að setja upp nýjan driver fyrir hljóðkortið.",
+            "date": "2012-06-25 21:57:00",
+            "post_id": "449541",
+            "reply_to_id": "449540"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Þetta er líklegast bara stillingaraatriði.\nÍ Realtek HD Audio manager heitir þetta \"speaker fill\"",
+            "date": "2012-06-25 22:11:00",
+            "post_id": "449548",
+            "reply_to_id": "449541"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "Þessir þættir eru örugglega bara með 2,1 hljóði en ég vil samt spegla aftari tvo sem fremri tvo.\nJá það gerir bara svona mjög lágt echo copy af fremri í aftari tveimur, heyrist varla. En það hefði verið lausn ef þetta hefði speglað hljóðið",
+            "date": "2012-06-25 22:39:00",
+            "post_id": "449556",
+            "reply_to_id": "449548"
+        },
+        {
+            "user_name": "KermitTheFrog",
+            "text": "Getur fiktað í room correction flipanum til að jafna hljóðið út.",
+            "date": "2012-06-25 23:17:00",
+            "post_id": "449568",
+            "reply_to_id": "449556"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Afhverju ættiru að vilja fá hljóð úr öllum hátölurum í atriðum þar sem það er líklega ekkert að gerast í bakgrunninum? Skil þetta með tónlistina alveg samt, rámar í e-ð mode sem gerði þetta á Z5500 kerfinu hjá mér.\nAnnars bara að sækja proper rip með AC3/DTS/Dolby.",
+            "date": "2012-06-25 23:22:00",
+            "post_id": "449571",
+            "reply_to_id": "449568"
+        },
+        {
+            "user_name": "upg8",
+            "text": "Pro Logic og allir þessir upmixerar gera greinarmun á rásum, setja ekki allt í bakhátalara. Oft heppnast það mjög vel og svo sannarlega betra en bara stereo.",
+            "date": "2012-06-25 23:26:00",
+            "post_id": "449574",
+            "reply_to_id": "449571"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "núna er þetta nokkuð nice, er að horfa á Game of Thrones og þau eru í skógi og einhvernveginn nær kerfið að flokka hvað er bakgrunnshljóð og lætur bara umhverfishljóðin (ár, skógarþyt, vind) í aftari hátalarana en svo talið og allt í frremri hátalarana.\nHækkaði svo bara í þeim aftari með room correction, þannig núna er þetta pretty much ca.5.1 úr 2.1 file",
+            "date": "2012-06-25 23:41:00",
+            "post_id": "449581",
+            "reply_to_id": "449574"
+        },
+        {
+            "user_name": "AciD_RaiN",
+            "text": "Hmmmm... Má ég koma með smá off topic?\nHef ekkert spáð í þessu fyrr en ég skoðaði þennan þráð en einmitt þegar ég horfi á .mkv myndir með 5.1 hljóði í mínu 5.1 surround systemi þá heyri ég ekkert talað nema þegar ég stilli á 2front 2 back eða eitthvað í þá áttina",
+            "date": "2012-06-25 23:50:00",
+            "post_id": "449584",
+            "reply_to_id": "449581"
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "Ef þú notar VLC þá þarftu að stilla á 5.1 í audio -> audio channel eða audio device.",
+            "date": "2012-06-26 00:01:00",
+            "post_id": "449586",
+            "reply_to_id": "449584"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Hvaða hljóðkerfi/magnara ertu með og hvernig útgangur?",
+            "date": "2012-06-26 00:02:00",
+            "post_id": "449587",
+            "reply_to_id": "449586"
+        },
+        {
+            "user_name": "kjarribesti",
+            "text": "Ég er að spila tónlist núna með þetta Speaker Fill á, ÞETTA ER SNILLD .\nÞetta tekur t.d bara röddunina á gítarnum  þannig það raddast um allt herbergið ! og svo crash-ana í trommunum",
+            "date": "2012-06-26 00:03:00",
+            "post_id": "449588",
+            "reply_to_id": "449587"
+        },
+        {
+            "user_name": "AciD_RaiN",
+            "text": "ég er með svona system \nhttp://www.p4c.philips.com/cgi-bin/dcbi ... HTS3568/12\nSvo er ég bara með rauðan og hvítan jack aftan í spilaranum AUX í einn grænan jack í hljóðkortinu sem ég geri ráð fyrir að sé vandamálið. Vill ekki skemma þráðinn samt",
+            "date": "2012-06-26 00:11:00",
+            "post_id": "449591",
+            "reply_to_id": "449588"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Jebb, það er vandamálið, RCA styður bara 2.0 hljóð. Notaðu Optical frekar, kerfið þitt er með SPDIF/Toslink input.",
+            "date": "2012-06-26 00:16:00",
+            "post_id": "449594",
+            "reply_to_id": "449591"
+        }
+    ],
+    "date": "2012-06-25 21:29:00"
+}

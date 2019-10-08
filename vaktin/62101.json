@@ -1,0 +1,72 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "62101",
+    "title": "VPN þjónusta netsamskipti /Símfélagið-hýsingar lagt niður",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=62101",
+    "posts": [
+        {
+            "user_name": "hfwf",
+            "text": "Fékk þetta miður email rétt í þessu \n\"Kæri viðskiptavinur,\n \nOkkur þykir leitt að tilkynna þér að frá og með næstu mánaðarmótum (ágúst/september 2014) verður VPN þjónusta sem þú varst með upphaflega í gegnum Netsamskipti ehf.  en nú í gegnum Símafélagið/Hýsingar.is lögð niður. Helstu ástæður fyrir þessu er breytt rekstrar- og markaðsumhverfi.\n \nReikningur fyrir ágúst mánuð birtist í heimabankanum skömmu eftir næstu mánaðarmót eða gjaldfærður á kreditkort hafir þú valið að greiða með þeim máta.\n \nVið þökkum fyrir viðskiptin á liðnum mánuðum og árum.\"\nÞrystingur frá hóst hóst símanum og fleirum eða hvað ætli sé í gangi, hvert ætti maður að snúa sér núna í VPN tengingu?",
+            "date": "2014-08-19 19:40:00",
+            "post_id": "570543",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "fallen",
+            "text": "Ég fór til \nlokun.is\n eftir Síminn ákvað að routa VPN tengingunni minni frá Netsamskiptum í gegnum útlönd og láta þetta þar með teljast sem erlent gagnamagn... Lokun eru allavega flottir, og með betri hraða.",
+            "date": "2014-08-19 19:45:00",
+            "post_id": "570544",
+            "reply_to_id": "570543"
+        },
+        {
+            "user_name": "hfwf",
+            "text": "Gæti einmitt prufað lokun datt þeir í hug.",
+            "date": "2014-08-19 19:53:00",
+            "post_id": "570545",
+            "reply_to_id": "570544"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Mæli með VPN þjònustunni hjá Hide My Ass.",
+            "date": "2014-08-19 20:09:00",
+            "post_id": "570547",
+            "reply_to_id": "570545"
+        },
+        {
+            "user_name": "hfwf",
+            "text": "Ef þú ert þar, hvað myndiru sirka segja að meðalhraðinn sé, ég er sáttur við allt yfir 2mB/s",
+            "date": "2014-08-19 20:26:00",
+            "post_id": "570549",
+            "reply_to_id": "570547"
+        },
+        {
+            "user_name": "Argat",
+            "text": "Ég leigi vps í þór datacenter og nú er farið að routa i gegnum bretland og svo aftur til baka.Var alltaf undir 10 ping en er nú orðið 50.Get ekki ýmindað mér að það sé löglegt að reynja selja sama gagnamagnið tvisar. Svo hægir þetta svo á opvpn servernum að það er frekar pirrandi.Ég vill fá að vita hver er að routa þessu út úr landi first svo ég viti hvern ég get hringt í útaf þessu.\nÞetta er algjört rugl og ér er orðinn frekar pirraður á þessu skítamixi hjá þessum gangsterum.Því að þetta er ekkert nema þjófnaður frá okkur.\nAf hverju eigum við að vera borga tífalt hærra verð en útlensk fyrirtæki fyrir gagnamagn.Þetta getur ekki verið löglegt og ef það er verður að laga þetta.\nEn auðvitað er það ekki gert aumingja fyrirtækin verða auðvitað að fá velferðapeninga frá okkur hinum eins og venjulega.",
+            "date": "2014-08-20 14:10:00",
+            "post_id": "570595",
+            "reply_to_id": "570549"
+        },
+        {
+            "user_name": "depill",
+            "text": "Þeir eru ekki að selja þér sama gagnmagnið tvisvar. Hvort að Advania/ThorDC peeri við Íslenska aðila er bara alveg up 2 them\nAdvania annað hvort að ósk fyrirtækisins sem á ip netið þitt ( það eru nokkur fyrirtæki sem leigja aðstöðu þarna uppfrá ), sjálfir eða ósk annara ákveða að auglýsa ekki þessar rútur í gegnum RIX eða Íslenska aðila svo að umferðin fer erlendis.\n Ekki þjófnaður en leiðindi\nSnýst ekkert um fyrirtæki. Snýst um innlenda aðila vs erlenda aðila ( ég er ekki sammála þessari skiptingu ). Þar sem FARICE eru of broke til að selja innlendum aðilum gagnamagn á viðráðanlegu verði þá virðast þeir að hafa tekið til þessa ráðs. Sem ég hef alltaf veirð að hljóti að vera tæpt samkv. EES ( og yrði pottþétt ólöglegt ef við værum EU, þar sem innri markaðurinn er talin sem ein heild ). En það þarf einhver að reyna á það.\nOg þú augljóslega kvartar til aðilans sem þú kaupir þjónustuna hjá, sem svo kvartar áfram.",
+            "date": "2014-08-20 17:23:00",
+            "post_id": "570620",
+            "reply_to_id": "570595"
+        },
+        {
+            "user_name": "benediktkr",
+            "text": "Sælir.\nEins þið kannski vitið þá er ég eigandi Lokunar. \nLokun byrjaði með lokaðri betu fyrir Vaktina og það sem virtist vera mikilvægast var hraðinn. Þess vegna reyni ég að hafa nógu marga servera til þess að það séu max 4 notendur um einn server á mesta álagstímanum. En oftast eru 1-3 notendur um hvern server. Hver server er með 1 Gbps ég er frekar stoltur að segja frá því að enginn hefur kvartað yfir hraðanum við mig. Það útskýrir líka hvers vegna verðið er hærra en hjá t.d. HideMyAss, þó ég skilji það mjög vel að sumir vilji frekar vera hjá t.d. HMA. \nÉg hef lent í því með einn server núna að umferðin í hann fór að routast fyrst til útlanda og síðan aftur til Íslands. Ég er löngu búinn að taka þann server úr umferð. Varðandi hvers vegna það er svona, þá eru svör við því að finna hjá FARICE. \nEf það er eitthvað sem þið mynduð vilja sjá vera öðruvísi hjá Lokun þá endilega koma því á framfæri við mig. Það er smá erfitt að giska á að hvað það ser sem fólk vill, en maður reynir sitt besta. \nPS. Þið komist á Netflix með Lokun.",
+            "date": "2014-08-21 10:19:00",
+            "post_id": "570722",
+            "reply_to_id": "570620"
+        },
+        {
+            "user_name": "hfwf",
+            "text": "Kíki yfir um mánaðarmótin",
+            "date": "2014-08-21 10:46:00",
+            "post_id": "570727",
+            "reply_to_id": "570722"
+        }
+    ],
+    "date": "2014-08-19 19:40:00"
+}

@@ -1,0 +1,310 @@
+{
+    "forum_title": "Windows",
+    "id": "4440",
+    "title": "HUUUUUUUUGE Problem :=) hjálp væri VEL þegin",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=4440",
+    "posts": [
+        {
+            "user_name": "Suave",
+            "text": "Ég er með alveg rosalegt vandamál sem er alveg að drepa mig.\n\n\n\nÞannig er mál með vexti að ég er með:\n\n\n\nIntel pentium 2.8ghz prescott örgjörva.\n\nGeforce 4 64mb MX440 skákort.\n\n2x 256 266DDR minni.\n\nhttp://www.computer.is/vorur/4199\n þetta móðurborð.\n\n3 harða diska \n\n\nCD rom og innbyggt ADSL módem og\n\nWindows XP professional Corporated Edition.\n\n\n\nTölvan virkar alveg fínt á alla vegu nema þegar ég keyri eitthvað sem reynir pínu á hana eins og t.d leikinn\n\nWarcraft 3 þá restartar hún sér eftir bara einhvern smá tíma (mestalagi klukkutíma) og þegar ég spila Counter-Strike leikinn sem er\n\naðeins léttari en Warcraft 3.. (vélin á nú að geta höndlað þetta easy! 2.8ghz og 512 minni) þá restartar hun sér eftir svona 3 tíma í mestalagi.\n\nHún hefur aldrei restartað sér þegar ég er að horfa á mynd eða skoða heimasíður eða eithvað alíka sem reynir ekkert á hana en strax\n\nog ég byrja að gera eithvað restartar hún sér eftir smá stund og þetta er bara normal restart.\n\n\n\nEf einhver hefur hugmynd um hvað gæti verið að þá endilega segja mér það! :=)",
+            "date": "2004-06-15 22:07:00",
+            "post_id": "45194",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Arnar",
+            "text": "Hvernig PSU ertu með ?\n\n\n\nOg hver er hitinn á örranum í load?",
+            "date": "2004-06-15 22:10:00",
+            "post_id": "45195",
+            "reply_to_id": "45194"
+        },
+        {
+            "user_name": "Suave",
+            "text": "ég var að downloada PC Alert 4 og það sýnir CPU 59 gráður og system 32.. er ekki að gera neitt nema downloada og hlusta á lag.\n\nog með powersupply'ið þá er það nýtt AC 230V",
+            "date": "2004-06-15 22:20:00",
+            "post_id": "45198",
+            "reply_to_id": "45195"
+        },
+        {
+            "user_name": "Arnar",
+            "text": "Ég hefði nú sjálfur getað giskað á að það væri AC 230v..\n\n\n\n\n\nHvaða psu ertu með, týpu og allt það",
+            "date": "2004-06-15 22:23:00",
+            "post_id": "45199",
+            "reply_to_id": "45198"
+        },
+        {
+            "user_name": "Suave",
+            "text": "var ég ekki að segja það? er PSU ekki powersupply? en það er bara einn miði þarna sem segir \"AC 230V\" =/",
+            "date": "2004-06-15 22:27:00",
+            "post_id": "45201",
+            "reply_to_id": "45199"
+        },
+        {
+            "user_name": "Suave",
+            "text": "heyrðu fyrirgefðu ! það var bara einn miði á því og þar stóð AC 230V \n en ég kíkti á nótuna og þar stendur \"spennugjafi F/PC ATX 300W P4\"",
+            "date": "2004-06-15 22:37:00",
+            "post_id": "45205",
+            "reply_to_id": "45201"
+        },
+        {
+            "user_name": "Arnar",
+            "text": "prufaðu að taka alla harðadiskana og helst allt úr fyrir utan það allra helsta ( bara kippa rafmagnstengjunum úr ) og fara spila þetta aftur..\n\n\n\nGetur verið að þetta psu sé of lítið.",
+            "date": "2004-06-15 22:46:00",
+            "post_id": "45206",
+            "reply_to_id": "45205"
+        },
+        {
+            "user_name": "axyne",
+            "text": "láttu vélina keyra prime95 (torture test) og gáðu hvort hún er að restarta sér við það. notaðu google til að finna prime95\n\n\n\nef ekkert skeður eftir.. segjum 4-5 tíma þá geturðu útilokað hitavandamál.\n\n\n\nþú ert hugsanlega með of lítið power supply. þarf þó ekki að vera. ekki láta plata þig í að kaupa eitthvað sem þú þarft ekkert svo.",
+            "date": "2004-06-15 22:47:00",
+            "post_id": "45207",
+            "reply_to_id": "45206"
+        },
+        {
+            "user_name": "Suave",
+            "text": "þakka ykkur kærlega! var að ná í þetta prime95 og er að keyra það.. vonandi rétt! lætur þetta hitann á CPU hækka eða? þvi það er komid i 63",
+            "date": "2004-06-15 23:00:00",
+            "post_id": "45210",
+            "reply_to_id": "45207"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "Þetta reynir MJÖÖÖG! mikið á örgjörvan þannig að ef að tölvan restartar sér þegar hún er að keyra þetta þá er þetta hitavandamál",
+            "date": "2004-06-15 23:11:00",
+            "post_id": "45213",
+            "reply_to_id": "45210"
+        },
+        {
+            "user_name": "Manager1",
+            "text": "Ef hitinn fer uppfyrir 80° skaltu hætta að keyra forritið, því þá fer örgjörvinn þinn að skemmast \n\n\n\n\nÆtti samt ekki að hitna svo mikið...",
+            "date": "2004-06-15 23:11:00",
+            "post_id": "45214",
+            "reply_to_id": "45213"
+        },
+        {
+            "user_name": "Suave",
+            "text": "heyrdu flott er.. hun restartadi sér bara nuna þegar ég var að keyra þetta en ætla að keyra þetta aftur bara til að vera pottó viss",
+            "date": "2004-06-15 23:14:00",
+            "post_id": "45216",
+            "reply_to_id": "45214"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Hver var hitinn á CPU þegar eða rétt áður en þú restartaðir?",
+            "date": "2004-06-15 23:15:00",
+            "post_id": "45217",
+            "reply_to_id": "45216"
+        },
+        {
+            "user_name": "Suave",
+            "text": "checkadi ekki \n en hún er í fucking 65 CPU nuna.. mad.. og enntha að keyra.. buid svona 10 min",
+            "date": "2004-06-15 23:20:00",
+            "post_id": "45218",
+            "reply_to_id": "45217"
+        },
+        {
+            "user_name": "axyne",
+            "text": "ef tölvan restarar sér í annað skiptið í prime testi. prufað þá einu sinni í viðbót með aðeins nauðsynlegasta vélbúnað tengdan. sleppa t.d 2 auka hörðum diskum.",
+            "date": "2004-06-15 23:22:00",
+            "post_id": "45219",
+            "reply_to_id": "45218"
+        },
+        {
+            "user_name": "gumol",
+            "text": "Ertu ekki örugglega með smá kælikrem milli örrans og hetsinksins?",
+            "date": "2004-06-15 23:25:00",
+            "post_id": "45220",
+            "reply_to_id": "45219"
+        },
+        {
+            "user_name": "Suave",
+            "text": "heyrdu það er komið á test 4 í þessu prime dæmi(hvert er held ég 5min) og hún er alveg að halda því.. bara stable í 65 gráðum.\n\n\n\nog jú það er kælikrem, bara það sem var á viftunni þegar eg keypti þetta",
+            "date": "2004-06-15 23:27:00",
+            "post_id": "45222",
+            "reply_to_id": "45220"
+        },
+        {
+            "user_name": "Suave",
+            "text": "en get ég ekki stillt þannig að hún slökkvi á sér t.d þegar hun er komin í 70 gráður eða eitthvað aðeins hærra en það er núna? if so.. HOW? :=)",
+            "date": "2004-06-15 23:37:00",
+            "post_id": "45223",
+            "reply_to_id": "45222"
+        },
+        {
+            "user_name": "elv",
+            "text": "Ekki gera það...viftan er ekki nógu vel sett á eða loftið í kassanum þínum er of heit...verður að kæla þetta betur",
+            "date": "2004-06-15 23:40:00",
+            "post_id": "45225",
+            "reply_to_id": "45223"
+        },
+        {
+            "user_name": "axyne",
+            "text": "getur stillt það í Bios.\n\n\n\nýtir á \"del\" rétt eftir þú kveikir á tölvunni.",
+            "date": "2004-06-15 23:41:00",
+            "post_id": "45226",
+            "reply_to_id": "45225"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "getur prufað að fara í BIOS og hækka °C limitið sem að móðurborðið lætur tölvuna restart'a sér við, átt að geta haft það í a.m.k. 75°C",
+            "date": "2004-06-15 23:41:00",
+            "post_id": "45227",
+            "reply_to_id": "45226"
+        },
+        {
+            "user_name": "Suave",
+            "text": "komið á test 10 og 66 gráður",
+            "date": "2004-06-15 23:48:00",
+            "post_id": "45231",
+            "reply_to_id": "45227"
+        },
+        {
+            "user_name": "skipio",
+            "text": "Fáðu þér frekar almennilega kælingu eða athugaðu að lágmarki hvort það sé eitthvað hitakrem milli örgjörvans og kælisökkulsins. Er ekki erfitt og kælikrem er ekki dýrt.",
+            "date": "2004-06-15 23:49:00",
+            "post_id": "45232",
+            "reply_to_id": "45231"
+        },
+        {
+            "user_name": "Suave",
+            "text": "ég var að kaupa þetta fyrir viku og lét þetta á sjálfur og sá að það var kælikrem og vá þetta er sko mál að láta viftu á örran ég þurfti að ýta svo fast til að láta þetta smella í að eg var dauðhræddur um að brjóta þetta! og ég er sterkur samt rétt nadi ég þessu og var svona 10 min að þvi !!!",
+            "date": "2004-06-15 23:58:00",
+            "post_id": "45233",
+            "reply_to_id": "45232"
+        },
+        {
+            "user_name": "axyne",
+            "text": "er þetta retail kæliviftan sem þú ert að nota ? (kæliviftan sem fylgdi með örgjörfanum.)\n\n\n\nkannski bara spurning um að skella sér á eina kassaviftu. þ.e.a.s ef þið ert ekki þegar með eina. innihald kassans ætti að vera frekar heitt miðan við þú ert með prescott eldavélahellu og 3 harðadiska.",
+            "date": "2004-06-16 00:07:00",
+            "post_id": "45235",
+            "reply_to_id": "45233"
+        },
+        {
+            "user_name": "Suave",
+            "text": "já þetta er retail viftan \n og ja eg verð að fa mer kassaviftu ! er ekki med neina",
+            "date": "2004-06-16 00:44:00",
+            "post_id": "45240",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Suave",
+            "text": "en ég ætlaði að taka þetta auto restart af, en fann það hvergi í bios.. hvar er þetta svona nákvæmlega? gætuði sagt mer það?",
+            "date": "2004-06-16 00:45:00",
+            "post_id": "45241",
+            "reply_to_id": "45240"
+        },
+        {
+            "user_name": "MezzUp",
+            "text": "hjá mér er það í pc health eitthvað",
+            "date": "2004-06-16 00:47:00",
+            "post_id": "45243",
+            "reply_to_id": "45241"
+        },
+        {
+            "user_name": "Suave",
+            "text": "ja ég leitaði vel þar og í voltage and freqency control eða eithvað þannig en sá þetta hvergi",
+            "date": "2004-06-16 00:48:00",
+            "post_id": "45244",
+            "reply_to_id": "45243"
+        },
+        {
+            "user_name": "Suave",
+            "text": "Jæja núna er ég búinn að prófa að taka 2 af 3 hörðum diskum úr sambandi og cd roomið, og spila leikinn og eftir hálftíma restartadi hún sér og strax eftir það fór ég í bios og kíkti á CPU hitann og hann var 60.. og það liðu svona 5 sek þarna á milli(frá því hun restartadi sér og ég sá CPU hitann). Svo það segir mér að þetta sé ekki hitavandamál og heldur ekki power supply'ið.. right?\n\nútaf áðan var ég að keyra prime95 forritið í klukkutíma og cpu for í 66 gráður en samt restartadi hún sér ekki.",
+            "date": "2004-06-16 01:44:00",
+            "post_id": "45248",
+            "reply_to_id": "45244"
+        },
+        {
+            "user_name": "KinD^",
+            "text": "er viftan á skjákortinu þínu örugglega að snúast ?",
+            "date": "2004-06-16 03:28:00",
+            "post_id": "45252",
+            "reply_to_id": "45248"
+        },
+        {
+            "user_name": "axyne",
+            "text": "þegar allt þrítur hjá mér. þá strauja ég bara vélina.",
+            "date": "2004-06-16 10:16:00",
+            "post_id": "45266",
+            "reply_to_id": "45252"
+        },
+        {
+            "user_name": "BlitZ3r",
+            "text": "kom stundum fyrir mig. leystist með 5 viftum (þarftekki nema kanski 2) og kassin er alltaf 1-2°c heitari en herbergishitin. Það er aðal málið að koma kassahitanum niður þá lækkar örgjörva hitin. þíðir ekkert að kaupa dýra örgjörva kælingu svo er hún ekket að gara sig í hitanum í kassanum þannig að kassaviftur fyrst svo örravifta",
+            "date": "2004-06-16 12:24:00",
+            "post_id": "45268",
+            "reply_to_id": "45266"
+        },
+        {
+            "user_name": "Suave",
+            "text": "Já báðar vifturnar eru að snúast alveg á fullu, en get ég ekki séð einhverstadar hvenar á hvaða hita tölvan slekkur á ser?? OG HVAR í bios.. eg er ekkert að finna þetta og er buinn að vera þar i svona korter að lesa allt þar",
+            "date": "2004-06-16 14:14:00",
+            "post_id": "45280",
+            "reply_to_id": "45268"
+        },
+        {
+            "user_name": "CraZy",
+            "text": "BlitZ3r\n\n\"Það er aðal málið að koma kassahitanum niður þá lækkar örgjörva hitin.\"\n\neg er med einhvern stokk uturkassanum sem leidir loft beint ut herberginu a heatsinkid a örranum.. og örrin er alltaf a lærra hita stigi en restin af tölvunni",
+            "date": "2004-06-16 18:41:00",
+            "post_id": "45300",
+            "reply_to_id": "45280"
+        },
+        {
+            "user_name": "Suave",
+            "text": "En þetta er ekki hitavandamál né powersupply'ið \n\n\nDettur ykkur ekkert annað í hug um hvað gæti verið að? :Z",
+            "date": "2004-06-16 21:37:00",
+            "post_id": "45308",
+            "reply_to_id": "45300"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "Gæti s.s. verið kælingin á skjákortinu hvernig skjákort ertu með ?",
+            "date": "2004-06-16 22:16:00",
+            "post_id": "45310",
+            "reply_to_id": "45308"
+        },
+        {
+            "user_name": "Snorrmund",
+            "text": "Ahh, sá það.. gf 440mx.. \n myndi samt giska á skjákortskælingin að klikka",
+            "date": "2004-06-16 22:17:00",
+            "post_id": "45311",
+            "reply_to_id": "45310"
+        },
+        {
+            "user_name": "master",
+            "text": "Hey  eg átti við sama vanda mál að stríða sem þú ert með núna \n\nFarðu með tölvuna í viðgerð því hún ofhitnar bráðum........\n\nHún bræðir úr öllu  það sekði fyrir mína  \n \n þanni vertu skinsamur",
+            "date": "2004-06-16 23:36:00",
+            "post_id": "45314",
+            "reply_to_id": "45311"
+        },
+        {
+            "user_name": "DaRKSTaR",
+            "text": "var í sama basli með amd vélina sem ég er í núna.. þetta var útaf því að skjákortið hitnaði of mikið, kælingin var ekki að duga, sá þetta sérstaklega þegar ég var að afrugla eitthvað og búinn að horfa í smá tíma, þá vildi vélin restarta sér..\n\n\n\ntók líka eftir að vélin byrjaði að bibba á fullu þegar þetta skeði.\n\n\n\nkortið í vélinni er fx 5200, ég reif bara viftuna af því og mixaði kælibúnt+viftuna sem kom með xp 2500 örranum á kortið, hef ekki verið í neinu veseni síðan.\n\n\n\nþað sem er að hjá þér er að þú ert með engar kassaviftur, sem þýðir að hitinn í kassanum fer upp úr öllu valdi þegar örrinn er kominn í góða vinnslu og skjákortið á fullu í einhverntíma, endar með að hitinn í kassanum er kominn upp úr öllu valdi og vélin restartar.\n\n\n\nef þú værir með nokkrar viftur í kassanum myndi þetta ekki ske, ég er vissum að ef þú tekur lokið af kassanum hjá þér þá gengur vélin fínt.\n\n\n\nintel örgjörvar rebotta ekki þegar þeir ofhitna, þeir einfaldlega frjósa.\n\n\n\nég er sjálfur með 3ghz prescott örgjörva og 9800xt kort í vélinni hjá mér, ég er með retail viftu og kælibúnt sem kom með celeron 2400 örgjörva, spilað farcry klukkutímum saman og ekkert vesen, er með lanfire kassa með 3 kassaviftum, virðist duga.\n\n\n\nmeð svona system er ekkert vit í að vera með viftulausann kassa, það bara segir sig sjálft, ert með 3 harðdiska sem hitna allir svakalega, svo kemur örrinn og svo loks skjákortið.",
+            "date": "2004-06-16 23:44:00",
+            "post_id": "45315",
+            "reply_to_id": "45314"
+        },
+        {
+            "user_name": "Suave",
+            "text": "hehe VONANDI er það skjákortið því ég þarf hvort eð er að fá mér nýtt.. þetta er rusl kort þótt um geforce 4 sé að ræða! kostar einhvern 3000 kall útí búð\n\nen ég er btw með kassann opinn.. hann er alltaf opinn en eg hef tekið eftir því að þegar ég opna svaladyrnar á herberginu tekur hana lengri ´tíma að restarta sér  \n\n\nen þetta er samt skritid þvi að eg er buinn að vera með þetta kort í 2 örðum eldri vélum og þar er það búið að virka fínt!\n\nen takk fyrir hjalpina!",
+            "date": "2004-06-17 00:20:00",
+            "post_id": "45320",
+            "reply_to_id": "45315"
+        },
+        {
+            "user_name": "Manager1",
+            "text": "Tja, ég tók nú bara viftuna á MX440 kortinu mínu út sambandi því hún var með svo mikil læti. Er búinn að keyra kortið þannig í ca. mánuð, og finn nákvæmlega engan mun.\n\n\n\nEr með P4 2.4Ghz, 2hdd og MX440 skjákort, er ekki með neina kassaviftu, geymi kassann undir borði en hef hann alltaf opinn. Örgjörvinn keyrir í svona 40° í 100% load, og system temp er ca. 30°. Er með retail kælinguna á þessu öllu...\n\n\n\nSkv. Þessu ætti skjákortið þitt ekki að vera vandamálið, en auðvitað getur þetta verið einhvernvegin öðruvísi hjá þér.",
+            "date": "2004-06-17 00:41:00",
+            "post_id": "45323",
+            "reply_to_id": "45320"
+        },
+        {
+            "user_name": "ganjha",
+            "text": "Ef tölvan er bara að endurræsa sig á meðan þú ert að spila leiki með 3D grafík, þá gæti vel verið að það sé galli í vinnsluminninu (verksmiðjugalli).\n\nFarðu með tölvuna þangað sem þú keyptir hana og láttu tjékka á því.",
+            "date": "2004-06-20 19:18:00",
+            "post_id": "45554",
+            "reply_to_id": "45323"
+        }
+    ],
+    "date": "2004-06-16 00:44:00"
+}

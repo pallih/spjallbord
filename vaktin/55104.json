@@ -1,0 +1,100 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "55104",
+    "title": "Fiber eða GigE trunk?",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=55104",
+    "posts": [
+        {
+            "user_name": "AntiTrust",
+            "text": "Jæja, planið er að nota sumarfríið í að 'serverhelda' pallaskúrinn hjá mér og færa búnaðinn þangað.\nÉg hef sáralítið unnið með fiber switcha og er því að velta fyrir mér cons vs. pros að taka fíber úr aðal sviss innanhúss yfir í annan sviss út í serverskúr vs að taka 2xCat6 og trunka saman í 2GB?\nSkoðanir?",
+            "date": "2013-05-20 15:59:00",
+            "post_id": "511540",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Daz",
+            "text": "Þú ert klikk.\nÞú baðst um skoðanir!!",
+            "date": "2013-05-20 16:09:00",
+            "post_id": "511542",
+            "reply_to_id": "511540"
+        },
+        {
+            "user_name": "axyne",
+            "text": "Ég hef ekki unnið með fiber svo ég veit ekki, en myndi eflaust gera það ef ég væri með stórt kerfi og væri hvort er að fara að uppfæra búnaðinn, en er ekki svakalegur verðmunur ?",
+            "date": "2013-05-20 19:19:00",
+            "post_id": "511578",
+            "reply_to_id": "511542"
+        },
+        {
+            "user_name": "andribolla",
+            "text": "Þú getur fengið tilbúin tengi skott með réttu endunum á allavegana 25 metra langa veit ekki hvort þeir séu til lengri, \nsetur bara 25 mm rör á milli svo þú getir dregið kapalinn í með tengjunum á í gegn",
+            "date": "2013-05-20 19:48:00",
+            "post_id": "511584",
+            "reply_to_id": "511578"
+        },
+        {
+            "user_name": "gardar",
+            "text": "Hvað með 10GbE á cat6?\nhttp://www.extremenetworks.com/products ... -x650.aspx",
+            "date": "2013-05-20 19:51:00",
+            "post_id": "511585",
+            "reply_to_id": "511584"
+        },
+        {
+            "user_name": "ponzer",
+            "text": "Hef verið að vinna með fiber og þekki þetta því þónokkuð, stutt svar er Nei ekki fara í fiber.. Þú græðir ekkert á því nema þú sért að fara í 10G og uppúr eða er að fara einhvern smá spotta með þetta.  Kostnaðurinn er auðvita meiri fyrir fiber og hvað þá ef þú ert að spá í single mode ef þú ætlar að fara einhverja vegalengd með þetta sem ég efast nú um og það eru mikið dýrari ljósbreytur á því heldur en multimode og svo eru líka ljósbreyturnar með ákveðnum líftíma og lýsa því ekki \"endalaust\" svo er þetta auðvita viðkvæmt ofan á allt saman. Settu bara eins marga cat stengi eins og þú getur og hendur þessu svo saman í einhvern etherchannel.\nÉg var í sömu stöðu og þú um daginn þegar mig vantaði að koma sambandi niður úr íbúðinni minni inn í geymslu sem eru um 75m, ég var mikið að spá í mm fiber en sá það strax að það borgar sig ekki neitt fyrir minna en 10G samband. Ég endaði í því að leggja 2x cat5 strengi niður og etherchannela þá svo saman - kom mjög vel út.",
+            "date": "2013-05-20 21:03:00",
+            "post_id": "511591",
+            "reply_to_id": "511585"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Kannski aaaaaðeins fyrir ofan budgetið.\nNoted. Ég þarf ekki 10G hraða, ég var aðallega að hugsa þetta uppá redundancy. Hefði þá í rauninni viljað hafa 2x2Cat6 trunka, veit bara ekki hvort og hvaða swissar myndu styðja það interlinking setup. En það er þetta aukna flækjustig við fíberinn sem ég vill forðast, svo ég enda örugglega á því að draga bara það sem þarf af cat6 alla leið.\nPS. Vitiði til þess að það sé hægt að fá utanhús-grade cat6 hérna heima?",
+            "date": "2013-05-20 23:00:00",
+            "post_id": "511621",
+            "reply_to_id": "511591"
+        },
+        {
+            "user_name": "Arnarr",
+            "text": "Rönning hefur verið að selja svona !",
+            "date": "2013-05-20 23:09:00",
+            "post_id": "511623",
+            "reply_to_id": "511621"
+        },
+        {
+            "user_name": "ponzer",
+            "text": "Basic layer2 spanning-tree gerir það fyrir þig, ef þú ætlar að kassa einhverju í þetta reyndu þá að finna þér einhverja cisco 2960 eða 3560 svissa. Eflaust til einhverjir HP svissar líka en ég þekki þá ekkert.\nEr ekki málið að athuga hjá Rönning hvort þeir eigi ekki til einhverja góða strengi fyrir þig.",
+            "date": "2013-05-20 23:10:00",
+            "post_id": "511624",
+            "reply_to_id": "511623"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Já ég var búinn að skoða þá báða, nema hvað þeir eru bara 100mbit. 2970 er Gbit en hann er kominn í tæpan 40k stykkið kominn heim, 80k total. Ætlaði að reyna að halda sviss-partinum neðar en það, hægt að fá 16-24porta GbE svissa á öllu minna en það. \nHef ég e-ð að gera við TX port fyrir interlinking á milli svissa þegar öll portin eru orðin GbE?",
+            "date": "2013-05-20 23:53:00",
+            "post_id": "511632",
+            "reply_to_id": "511624"
+        },
+        {
+            "user_name": "ponzer",
+            "text": "2970 er mjög gamlir svissar og örugglega komnir í EOL,  þú þarft 2960G eða S fyrir Gig og þá 3560G eða E fyrir gig, 3xxx eru heldur dýrari og ert þá kominn með layer3 svissa sem þú þarft líklega ekki? Hvað áttu við með tx portum?",
+            "date": "2013-05-21 00:30:00",
+            "post_id": "511643",
+            "reply_to_id": "511632"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Uplink portin, sé oft 2x GbE port á 100Mbit svissunum, sem ég geri ráð fyrir að séu einna helst notuð til að chaina svissa saman?",
+            "date": "2013-05-21 00:43:00",
+            "post_id": "511645",
+            "reply_to_id": "511643"
+        },
+        {
+            "user_name": "ponzer",
+            "text": "Þau eru bara hefbundin port eins og öll hin en maður trunkar nú yfirleitt á þau útaf því að þau eru gig interface.",
+            "date": "2013-05-21 20:00:00",
+            "post_id": "511770",
+            "reply_to_id": "511645"
+        }
+    ],
+    "date": "2013-05-20 15:59:00"
+}

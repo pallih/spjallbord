@@ -1,0 +1,44 @@
+{
+    "forum_title": "Almennt um vélbúnað",
+    "id": "78583",
+    "title": "Vandamál með Hdmi tengi",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=20&t=78583",
+    "posts": [
+        {
+            "user_name": "stefhauk",
+            "text": "Sælir/ar \nEr með Acer aspire fartölvu sem kom með windows 8.1 Eftir uppfærslu í windows 10 vill hdmi tengið ekki virka á tölvunni og í raun gerist ekki neitt þegar ég set hdmi snúru í tölvuna og reyni að fá myndina á sjónvarpið. Er með tvær aðrar fartölvur með windows 10 sem virka 100% á sjónvarpið svo þetta er ekki sjónvarpið sjálft einnig búinn að prófa tengja tölvuna við tvö mismunandi sjónvörp og ekkert gerist.\nAllar uppfærslur komnar ef ég reyni að ná í driver fyrir skjákortið beint frá intel þá fæ ég að nýrri driver sé nú þegar í tölvunni.\nBúinn að fara í device manager og gera update þar á skjákortið disable og enable skjákortið en ekkert virðist virka til að fá Hdmi tengið til að virka. Tölvan er með Intel Hd graphic family skjákorti intel i7 örgjörva.\nEinhverjar hugmyndir?",
+            "date": "2019-02-16 11:51:00",
+            "post_id": "685223",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "stefhauk",
+            "text": "bump!",
+            "date": "2019-02-19 23:31:00",
+            "post_id": "685403",
+            "reply_to_id": "685223"
+        },
+        {
+            "user_name": "asgeireg",
+            "text": "Ef þetta er innbyggð skjá stýring myndi ég byrja á að fara inn á supportið hjá Acer og ath hvort það sé ekki til BIOS og Chipsett driverar. Þarft að mjög líklega að uppfæra það eftir 8.1 -> 10 uppfærslu. \nhttps://www.acer.com/ac/en/GB/content/support\nGetur sett in serial númerið á vélinni og þá ættir þú að finna rétta drivera.",
+            "date": "2019-02-20 09:20:00",
+            "post_id": "685411",
+            "reply_to_id": "685403"
+        },
+        {
+            "user_name": "Klemmi",
+            "text": "Búinn að prófa að restarta tölvunni með sjónvarpið tengt?",
+            "date": "2019-02-20 09:23:00",
+            "post_id": "685412",
+            "reply_to_id": "685411"
+        },
+        {
+            "user_name": "stefhauk",
+            "text": "Ég tékka á þessu takk fyrir.\nJá var búinn að því og gerðist ekkert bjóst við að það myndi detta inn update frá windows við það en computer is up to date :/",
+            "date": "2019-02-21 06:32:00",
+            "post_id": "685475",
+            "reply_to_id": "685412"
+        }
+    ],
+    "date": "2019-02-16 11:51:00"
+}

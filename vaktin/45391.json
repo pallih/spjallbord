@@ -1,0 +1,86 @@
+{
+    "forum_title": "Símar, fartölvur, myndavélar og önnur farandstæki",
+    "id": "45391",
+    "title": "[forbes]Do iOS Apps Crash More Than Android Apps? A Data Div",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=26&t=45391",
+    "posts": [
+        {
+            "user_name": "chaplin",
+            "text": "Source",
+            "date": "2012-02-05 16:40:00",
+            "post_id": "418566",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "tdog",
+            "text": "iOS er ógeðslega buggý OS. Forrit crasha reglulega og ég downgreidaði bara niður í 4 aftur. Það sama má segja um OS X Lion, það er fáránlega leiðinlegt. Forrit hanga oftar en ella, ég er á leið niður í Snow Leopard núna rétt í þessu.",
+            "date": "2012-02-05 18:08:00",
+            "post_id": "418590",
+            "reply_to_id": "418566"
+        },
+        {
+            "user_name": "braudrist",
+            "text": "Kóðinn fyrir iOS og Android er samt fáránlega líkur.",
+            "date": "2012-02-05 18:15:00",
+            "post_id": "418593",
+            "reply_to_id": "418590"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Já... þú hefur semsagt lesið iOS kóðann.",
+            "date": "2012-02-05 18:20:00",
+            "post_id": "418594",
+            "reply_to_id": "418593"
+        },
+        {
+            "user_name": "Pandemic",
+            "text": "Þú hefur örugglega aldrei forritað staf. Skilgreindu fyrst hvað þú meinar með því að það sé líkur kóði á iOs og android",
+            "date": "2012-02-05 18:36:00",
+            "post_id": "418599",
+            "reply_to_id": "418594"
+        },
+        {
+            "user_name": "thehulk",
+            "text": "IOS og OS X eru að nota sama tungumál og byggt á sama grunninum. Ef menn hafa lesið eitthvað um apple, þá er Snow Leopard síðasta kerfið í OS X línunni og þeir munu líklega nota IOS kerfið áfrahaldandi af því. \nNúna snýst þetta allt um ARM hjá Microsoft og Apple",
+            "date": "2012-02-05 18:41:00",
+            "post_id": "418600",
+            "reply_to_id": "418599"
+        },
+        {
+            "user_name": "braudrist",
+            "text": "Bæði byggt á Linux. Hér er t.d. dæmi um kóða til að hlusta á events\nKóði: \nVelja allt\niOS - Objective C:\nvoid CGContextDrawArrowhead(CGContextRef c, NSArray *nodes) {\n    if ([nodes count] < 2) return; \n    CGContextSetLineCap(c kCGLineCapRound);\n    CGContextSetLineJoin(c, kCGLineJoinMiter);\n    MRRoutingNode *lastNode = nodes.lastobject;\n    MRRoutingNode *penultimateNode = [nodes objectAtIndex:nodes.count-2];\n    CGPoint startPoint = penultimateNode.point;\n    CGPoint endPoint = lastNode.point;\n    float length = 9.0f;\n    float width = 5.0f;\n    double r = atan2(endPoint.y - startPoint.y,\n                     endPoint.x - startPoint.x);\nKóði: \nVelja allt\nAndroid - Java\nstatic void drawArrowhead(Canvas canvas, List<RoutingNode> nodes) {\n           if (nodes.size() < 2) return;\n   \n           paint.setStrokeCap(Cap.BUTT);\n      paint.SetStrokeJoin(Join.MITER);\n      RoutingNode lastNode = Coll.last(nodes);\n           RoutingNode penultimateNode = [nodes objectAtIndex:nodes.count-2];\n           CGPoint startPoint = penultimateNode.point;\n           CGPoint endPoint = lastNode.point;\n           float length = 9.0f;\n           float width = 5.0f;\n           double r = atan2(endPoint.y - startPoint.y,\n                            endPoint.x - startPoint.x);\nÉg mundi alla veganna segja að þetta væri svipað",
+            "date": "2012-02-05 18:43:00",
+            "post_id": "418601",
+            "reply_to_id": "418600"
+        },
+        {
+            "user_name": "tdog",
+            "text": "Auðvitað er þetta svipað, því að lógíkin er svipuð. Það segir ekkert um það hvort að kerfin séu lík.\nOS X er byggt á Unix, nánar FreeBSD, sem er alls ekki það sama og Linux. \nÞú hefur þá ekki lesið mikið, því að OS X Lion (10.7) er nýjasta útgáfan af OS X. Snow Leopard var 10.6.",
+            "date": "2012-02-05 18:46:00",
+            "post_id": "418602",
+            "reply_to_id": "418601"
+        },
+        {
+            "user_name": "GuðjónR",
+            "text": "well....hef ekki reynslu af iOS4 en iOS5 hefur reynst mér vel á iPod/iPhone ...\nÉg downgreidaði Lion niður í Snow á sínum tíma þar sem mér fannst það böggað, en snérist svo og installeraði í október og er bara ánægður með það.",
+            "date": "2012-02-05 19:01:00",
+            "post_id": "418603",
+            "reply_to_id": "418602"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Ok, en þú veist samt ekkert um það hvernig kóðinn sem að liggur bakvið þessa event handlera lýtur út í iOS. Hann þarf ekkert að vera eins þótt að viðmótið sé svipað.\niOS er langt því frá að vera Linux btw.",
+            "date": "2012-02-05 20:13:00",
+            "post_id": "418619",
+            "reply_to_id": "418603"
+        },
+        {
+            "user_name": "hagur",
+            "text": "Ég hef nú ekki orðið var við að iOS sé \"ógeðslega buggy\".  Þvert á móti hefur mér fundist það alveg feikilega smooth, polished og í raun bara frekar stable.  Hef auðvitað lent í því að forrit crashi, en hef nú hingað til kennt viðkomandi forriti um, frekar en stýrikerfinu sjálfu.  Það forrit sem crashar einna oftast hjá mér á iOS er Facebook appið.\nEr sjálfur með iPhone 4 jailbroken á iOS 4.x og svo er ég með iPad 2 með iOS 5.0.1.",
+            "date": "2012-02-05 20:32:00",
+            "post_id": "418627",
+            "reply_to_id": "418619"
+        }
+    ],
+    "date": "2012-02-05 16:40:00"
+}

@@ -1,0 +1,107 @@
+{
+    "forum_title": "Yfirklukkun, hraðaprófanir og mods",
+    "id": "28996",
+    "title": "Vandræði með Overclock - Myndir",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=1&t=28996",
+    "posts": [
+        {
+            "user_name": "nemet05",
+            "text": "Er i vandræðum með overclock á E8400 með Ga-ep35-ds3l. Setti hann upp i 3.5 Ghz eftir leiðbeiningum frá félaga mínum. Tölvan er ekki í nógu góðu jafnvægi þegar ég nota OCCT 3.1. Tilkynnir galla eftir 10 mín. Hér eru myndir af Biosinu hjá mér. Endilega hjálpiði mér með þetta og segið mér hvað ég þarf að laga.\nhttp://img17.imageshack.us/i/dsc05634w.jpg/\n \nhttp://img692.imageshack.us/i/dsc05632k.jpg/",
+            "date": "2010-03-16 14:06:00",
+            "post_id": "250936",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Hvati",
+            "text": "prófaðu að hækka það sem stendur ,,Normal CPU Vcore\" um fá stig í einu þangað til þú getur keyrt þetta stabílt",
+            "date": "2010-03-16 14:11:00",
+            "post_id": "250937",
+            "reply_to_id": "250936"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Gerðu:\n- Settu memory timings þar sem stendur \"4\" og settu það í \"5\" - þar sem stendur \"12\" setturu í \"18\". Þú átt að byrja á því að focusa örgjörvan, svo ferðu í að fínstilla vinnsluminnið.\n- Hækkaðu CPU Voltage Control um 2 stig og MCH OverVoltage Control um 1 stig.\n- Settu \"C1E\" í disable ef þú ert ekki búinn af því.\n- Report!  \n* Downloadaðu líka \nCPU-Z\n og \nHWMonitor\n. Notar CPUZ til að fylgjast með Vcore, klukkuhraða, vinnsluminni ect. HW Monitor fyrir hita.",
+            "date": "2010-03-16 14:18:00",
+            "post_id": "250938",
+            "reply_to_id": "250937"
+        },
+        {
+            "user_name": "nemet05",
+            "text": "Takk fyrir svörin \nOk ég breytti memory timings en þegar ég hækkaði Cpu Volt C og Mch upp þá vildi tölvan ekki fara í windows. Hvað er C1E? \nÞað getur líka verið að ég sé með gamalt bios",
+            "date": "2010-03-16 15:05:00",
+            "post_id": "250946",
+            "reply_to_id": "250938"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Settu \"CPU Volt\" aftur í \"Normal\" farðu í Windows og oppnaðu CPUZ - þá sérðu hvað voltin er á í raun og veru. Settu einig MCH í Normal. \nPrufaðu á ýta á CTRL+F1 í BIOS - ættir að fá auka valmöguleika.",
+            "date": "2010-03-16 15:12:00",
+            "post_id": "250950",
+            "reply_to_id": "250946"
+        },
+        {
+            "user_name": "nemet05",
+            "text": "Ok búinn að gera þetta, hvað næst?",
+            "date": "2010-03-16 15:47:00",
+            "post_id": "250962",
+            "reply_to_id": "250950"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Hvað stendur að voltinu séu on load á örgjörvanum? Annars getur verið erfitt að hjálpa með svona í gegnum netið nema þú þekkir stillingarnar í BIOS-inum ágætlega og viti hvað þú sért að gera.",
+            "date": "2010-03-16 15:58:00",
+            "post_id": "250966",
+            "reply_to_id": "250962"
+        },
+        {
+            "user_name": "nemet05",
+            "text": "Hér er mynd af þessu\nhttp://img88.imageshack.us/i/voltu.jpg/",
+            "date": "2010-03-16 16:04:00",
+            "post_id": "250967",
+            "reply_to_id": "250966"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "En þetta er ekki undir keyrslu og því sé ég ekki voltin á kjarnanum. Held þú ættir annað hvort að láta félaga þinn skoða þetta eða byrja á því að lesa þig til um yfirklukkun áður en þú fiktar of mikið.",
+            "date": "2010-03-16 16:21:00",
+            "post_id": "250976",
+            "reply_to_id": "250967"
+        },
+        {
+            "user_name": "SteiniP",
+            "text": "Alveg frábær grein hérna \nhttp://tech.is/spjall/viewtopic.php?f=15&t=397\n. Ég mæli með að þú lesir þetta áður en þú skemmir eitthvað",
+            "date": "2010-03-16 17:30:00",
+            "post_id": "250996",
+            "reply_to_id": "250976"
+        },
+        {
+            "user_name": "nemet05",
+            "text": "Ég resettaði allt í bíosinu og setti örgjörfan á 3.4 ghz ásamt fáum breytingum. Tölvan virðist vera í jafnvægi núna",
+            "date": "2010-03-16 18:01:00",
+            "post_id": "251003",
+            "reply_to_id": "250996"
+        },
+        {
+            "user_name": "MuGGz",
+            "text": "prime it!",
+            "date": "2010-03-16 20:33:00",
+            "post_id": "251044",
+            "reply_to_id": "251003"
+        },
+        {
+            "user_name": "nemet05",
+            "text": "Er að nota OCCT 3.1 og eftir fjóra tíma hafa engar villur komið fram. Hvað þurfa svona forrit að vera lengi í gangi þannig að það sé ljóst að allt sé í lagi?",
+            "date": "2010-03-16 21:50:00",
+            "post_id": "251068",
+            "reply_to_id": "251044"
+        },
+        {
+            "user_name": "chaplin",
+            "text": "Áður fyrr var 8klst lámarkið, núna eru mann farnir að hallast að því að 2klst sé meira en nóg. Finnst þó þæginlegra að keyra aðeins lengur og einnig nota LinX 20 runs í max mem.",
+            "date": "2010-03-16 22:07:00",
+            "post_id": "251074",
+            "reply_to_id": "251068"
+        }
+    ],
+    "date": "2010-03-16 14:06:00"
+}

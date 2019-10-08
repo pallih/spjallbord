@@ -1,0 +1,58 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "47514",
+    "title": "Installa Windows í gegnum ethernet af linux server",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=47514",
+    "posts": [
+        {
+            "user_name": "playman",
+            "text": "Ég er með Linux server hérna og er með clonezilla uppsettan á honum.\nÉg var að spá hverninn ég gæti installað Windows í gegnum ethernet af image á linux vélinni, á sem þæginlegasta\nog auðveldasta máta.\nHverninn er best að gera þetta?\nEinnig væri best ef að uppsettningin væri alveg automatic, fyrir utan serialkey.",
+            "date": "2012-04-30 14:49:00",
+            "post_id": "438710",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Bassi6",
+            "text": "Hér er eitthvað  \nhttp://www.debian-administration.org/articles/478",
+            "date": "2012-04-30 16:51:00",
+            "post_id": "438733",
+            "reply_to_id": "438710"
+        },
+        {
+            "user_name": "playman",
+            "text": "þakka þér.\nmyndi þetta ekki conflicta við clonezilla samt?",
+            "date": "2012-05-02 13:43:00",
+            "post_id": "439034",
+            "reply_to_id": "438733"
+        },
+        {
+            "user_name": "Bassi6",
+            "text": "Nú þekki ég ekki clonezilla neitt en það gæti vel verið að það myndi conflicta",
+            "date": "2012-05-02 13:54:00",
+            "post_id": "439036",
+            "reply_to_id": "439034"
+        },
+        {
+            "user_name": "kizi86",
+            "text": "http://oakdome.com/k5/tutorials/compute ... loning.php\nguide hvernig eigi að nota clonezilla til að clone-a tölvur gegnum network",
+            "date": "2012-05-02 14:51:00",
+            "post_id": "439047",
+            "reply_to_id": "439036"
+        },
+        {
+            "user_name": "playman",
+            "text": "Þakka þér, en ég er þegar með tilbúin Clonezilla server sem er upp and running.\nMér vantar að geta sett upp windows í gegnum ethernet, semsagt ég er með vél\nog það er ekkert image til af henni, og mér langar að hætta að nota CD's til þess að setja upp windows\nog gera það alfarið í gegnum ethernet.",
+            "date": "2012-05-02 21:26:00",
+            "post_id": "439134",
+            "reply_to_id": "439047"
+        },
+        {
+            "user_name": "kizi86",
+            "text": "verður að vera með image, eða foruppsetta vél til að búa til image af windows installinu, þetta guide fer alveg í gegn um að setja upp serverinn og lika hvernig eigi að nota hann til að færa image-ið yfir.. hinsvegar ef ert bara með .iso skrá af windows install disknum þá þarftu held ég annan hugbúnað til þess...\nhttp://diddy.boot-land.net/pxe/index.htm\n held þetta henti betur í það sem þú vilt gera \nEDIT: tók ekki eftir að ert að nota linux server..\nhérna er guide til að installa frá linux: \nhttp://www.ehow.com/how_5883610_use-ser ... ws-xp.html\nEDIT2: \nhttp://www.aeronetworks.ca/howtos/ris-howto.html\n annað guide..",
+            "date": "2012-05-03 01:21:00",
+            "post_id": "439189",
+            "reply_to_id": "439134"
+        }
+    ],
+    "date": "2012-04-30 14:49:00"
+}

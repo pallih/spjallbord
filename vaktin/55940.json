@@ -1,0 +1,51 @@
+{
+    "forum_title": "Netkerfi - internetið",
+    "id": "55940",
+    "title": "Að deila neti",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=18&t=55940",
+    "posts": [
+        {
+            "user_name": "tlord",
+            "text": "Sælir hér\nEr að leita að einfaldri og ódýrri lausn til að láta nokkra (6 - 10) aðila deila nettengingu (adsl eða ljósnet). Hver aðili þarf að hafa eigið subnet með dhcp.\nþeir mega ekki sjá tæki hjá öðrum aðilum og þurfa að upplifa þetta eins og þeir væru einir á tenginunni..\nþetta eru ekki fancy noterndur sem þurfa einhver port eða rútanir\nÞetta á að vera wired, hver aðili verður með sviss sem mætti nátturulega tengja í wifi + tölvur + prentara",
+            "date": "2013-07-08 15:15:00",
+            "post_id": "518932",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "dori",
+            "text": "Gömul tölva með 6 netkortum og pfSense?\nÞetta er standard dót með pfSense: \nhttp://doc.pfsense.org/index.php/Multi-LAN_Setup",
+            "date": "2013-07-08 15:26:00",
+            "post_id": "518936",
+            "reply_to_id": "518932"
+        },
+        {
+            "user_name": "AntiTrust",
+            "text": "Er ekki svolítið farfetched að finna 6 PCI-raufa borð í dag? Væri ekki þgæilegra að hafa pfSense + ódýran 10/100 enterprise router og deila þessu svo bara útum VLANs yfir á minni svissa?",
+            "date": "2013-07-08 15:40:00",
+            "post_id": "518937",
+            "reply_to_id": "518936"
+        },
+        {
+            "user_name": "tlord",
+            "text": "ok takk.\neittvað annað hw td microtiK eða svipað sem er á góðu verði og lúkkar eðlilega sem menn hafa góða reynslu af?",
+            "date": "2013-07-08 15:42:00",
+            "post_id": "518939",
+            "reply_to_id": "518937"
+        },
+        {
+            "user_name": "BugsyB",
+            "text": "setja bara fastar iptölur á tölvunar með sínu subneti",
+            "date": "2013-07-08 15:56:00",
+            "post_id": "518941",
+            "reply_to_id": "518939"
+        },
+        {
+            "user_name": "dori",
+            "text": "Bara hugmynd. Ég kann ekki á svona svissa dót þannig að augljóslega ætlaði ég ekki að fara að leiðbeina neinum um slíkt",
+            "date": "2013-07-08 17:43:00",
+            "post_id": "518955",
+            "reply_to_id": "518941"
+        }
+    ],
+    "date": "2013-07-08 15:15:00"
+}

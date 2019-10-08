@@ -1,0 +1,30 @@
+{
+    "forum_title": "Linux/GNU/*NIX",
+    "id": "7359",
+    "title": "Að skipta á milli IS og EN í linux",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=17&t=7359",
+    "posts": [
+        {
+            "user_name": "W.Dafoe",
+            "text": "Þekkiði eitthvað forrit sem gerir mann kleyft að skipta milli IS og EN tungumála í console ?",
+            "date": "2005-02-08 19:47:00",
+            "post_id": "78111",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "halanegri",
+            "text": "Íslenskt lyklaborð:\n\nKóði: \nVelja allt\nsetxkbmap is\nUSA lyklaborð:\nKóði: \nVelja allt\nsetxkbmap us",
+            "date": "2005-05-30 09:20:00",
+            "post_id": "90167",
+            "reply_to_id": "78111"
+        },
+        {
+            "user_name": "W.Dafoe",
+            "text": "hehe, vá hvað þetta er gamalt \n\n\n\n\ner kóðinn líka:\n\n\n\nsetxkbmap -layout is\n\nsetxkbmap -layout us\n\n\n\nkv. arib",
+            "date": "2005-05-30 10:07:00",
+            "post_id": "90169",
+            "reply_to_id": "90167"
+        }
+    ],
+    "date": "2005-02-08 19:47:00"
+}

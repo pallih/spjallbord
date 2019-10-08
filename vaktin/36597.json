@@ -1,0 +1,156 @@
+{
+    "forum_title": "Windows",
+    "id": "36597",
+    "title": "Windows er alltaf að leita að Serial key",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=15&t=36597",
+    "posts": [
+        {
+            "user_name": "Victordp",
+            "text": "Sælir er með tölvu og hun er með löglegu Vista, en stundum koma upp svona lyklar i horninu, og það lítur út eins og vista trúi ekki að ég sé með legal vista. Hvað get ég gert. Þetta gerðist líka fyrir stuttu og þá setti ég Vista aftur upp skráði serialkeyinn og allt í fínu en nuna er þetta komið aftur!!!",
+            "date": "2011-02-26 12:38:00",
+            "post_id": "326203",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "hauksinick",
+            "text": "Gæti verið að það sé búið að stela serial-inu þínu?",
+            "date": "2011-02-26 12:48:00",
+            "post_id": "326204",
+            "reply_to_id": "326203"
+        },
+        {
+            "user_name": "Victordp",
+            "text": "Hvernig ætti eg nu að vita það. En ég hef notað þetta síðan að ég fékk tölvuna þannig að mér finnst það ólíklegt og þetta byrjaði að gerast þegar ég formataði hana frá grunni.",
+            "date": "2011-02-27 16:01:00",
+            "post_id": "326494",
+            "reply_to_id": "326204"
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Náðu í \nWindows Genuine Advantage Diagnostic Tool\n og póstaðu resultinu.",
+            "date": "2011-02-27 16:12:00",
+            "post_id": "326497",
+            "reply_to_id": "326494"
+        },
+        {
+            "user_name": "Victordp",
+            "text": "Diagnostic Report (1.9.0027.0):\n-----------------------------------------\nWindows Validation Data-->\nValidation Status: Genuine\nValidation Code: 0\nCached Online Validation Code: N/A, hr = 0xc004f012\nWindows Product Key: *****-*****-DTR26-YD4JD-6DPC4\nWindows Product Key Hash: +OcFAtZnGYcXM0WhTERe322ilXI=\nWindows Product ID: 89578-OEM-7359783-57602\nWindows Product ID Type: 3\nWindows License Type: OEM System Builder\nWindows OS version: 6.0.6000.2.00010300.0.0.003\nID: {746EEC0F-2C43-494D-BDB7-F593B60F1760}(3)\nIs Admin: Yes\nTestCab: 0x0\nLegitcheckControl ActiveX: N/A, hr = 0x80070002\nSigned By: N/A, hr = 0x80070002\nProduct Name: Windows Vista (TM) Home Premium\nArchitecture: 0x00000000\nBuild lab: 6000.vista_gdr.100218-0019\nTTS Error: \nValidation Diagnostic: \nResolution Status: N/A\nVista WgaER Data-->\nThreatID(s): N/A, hr = 0x80070002\nVersion: N/A, hr = 0x80070002\nWindows XP Notifications Data-->\nCached Result: N/A, hr = 0x80070002\nFile Exists: No\nVersion: N/A, hr = 0x80070002\nWgaTray.exe Signed By: N/A, hr = 0x80070002\nWgaLogon.dll Signed By: N/A, hr = 0x80070002\nOGA Notifications Data-->\nCached Result: N/A, hr = 0x80070002\nVersion: N/A, hr = 0x80070002\nOGAExec.exe Signed By: N/A, hr = 0x80070002\nOGAAddin.dll Signed By: N/A, hr = 0x80070002\nOGA Data-->\nOffice Status: 109 N/A\nOGA Version: N/A, 0x80070002\nSigned By: N/A, hr = 0x80070002\nOffice Diagnostics: 025D1FF3-364-80041010_025D1FF3-229-80041010_025D1FF3-230-1_025D1FF3-517-80040154_025D1FF3-237-80040154_025D1FF3-238-2_025D1FF3-244-80070002_025D1FF3-258-3\nBrowser Data-->\nProxy settings: N/A\nUser Agent: Mozilla/4.0 (compatible; MSIE 7.0; Win32)\nDefault Browser: C:\\Users\\Victor\\AppData\\Local\\Google\\Chrome\\Application\\chrome.exe\nDownload signed ActiveX controls: Prompt\nDownload unsigned ActiveX controls: Disabled\nRun ActiveX controls and plug-ins: Allowed\nInitialize and script ActiveX controls not marked as safe: Disabled\nAllow scripting of Internet Explorer Webbrowser control: Disabled\nActive scripting: Allowed\nScript ActiveX controls marked as safe for scripting: Allowed\nFile Scan Data-->\nOther data-->\nOffice Details: <GenuineResults><MachineData><UGUID>{746EEC0F-2C43-494D-BDB7-F593B60F1760}</UGUID><Version>1.9.0027.0</Version><OS>6.0.6000.2.00010300.0.0.003</OS><Architecture>x32</Architecture><PKey>*****-*****-*****-*****-6DPC4</PKey><PID>89578-OEM-7359783-57602</PID><PIDType>3</PIDType><SID>S-1-5-21-2519898335-2693696607-1181903149</SID><SYSTEM><Manufacturer>Gigabyte Technology Co., Ltd.</Manufacturer><Model>P35-DS3L</Model></SYSTEM><BIOS><Manufacturer>Award Software International, Inc.</Manufacturer><Version>F8a</Version><SMBIOSVersion major=\"2\" minor=\"4\"/><Date>20071206000000.000000+000</Date></BIOS><HWID>9B313507018400F8</HWID><UserLCID>040F</UserLCID><SystemLCID>0409</SystemLCID><TimeZone>Greenwich Standard Time(GMT+00:00)</TimeZone><iJoin>0</iJoin><SBID><stat>3</stat><msppid></msppid><name></name><model></model></SBID><OEM/><GANotification/></MachineData><Software><Office><Result>109</Result><Products/><Applications/></Office></Software></GenuineResults>  \nSpsys.log Content: 0x80070002\nLicensing Data-->\nSoftware licensing service version: 6.0.6000.16509\nName: Windows(TM) Vista, HomePremium edition\nDescription: Windows Operating System - Vista, OEM_COA_NSLP channel\nActivation ID: f3acdd3c-119a-4932-a3d7-0b6f33a1dca9\nApplication ID: 55c92734-d682-4d71-983e-d6ec3f16059f\nExtended PID: 89578-00146-597-857602-02-1039-6000.0000-0502011\nInstallation ID: 018426652555663011532685473664746296004570880426670492\nProcessor Certificate URL: \nhttp://go.microsoft.com/fwlink/?LinkId=57201\nMachine Certificate URL: \nhttp://go.microsoft.com/fwlink/?LinkId=57203\nUse License URL: \nhttp://go.microsoft.com/fwlink/?LinkId=57205\nProduct Key Certificate URL: \nhttp://go.microsoft.com/fwlink/?LinkId=57204\nPartial Product Key: 6DPC4\nLicense Status: Initial grace period\nTime remaining: 35156 minute(s) (24 day(s))\nWindows Activation Technologies-->\nN/A\nHWID Data-->\nHWID Hash Current: OgAAAAEABgABAAEAAQACAAAAAgABAAEAJJSGIcwomLIYn1rZdOaI/eJf3l3+y/L0TDbhSzpGrFZGyg==\nOEM Activation 1.0 Data-->\nN/A\nOEM Activation 2.0 Data-->\nBIOS valid for OA 2.0: yes, but no SLIC table\nWindows marker version: N/A\nOEMID and OEMTableID Consistent: N/A\nBIOS Information: \n  ACPI Table Name\tOEMID Value\tOEMTableID Value\n  APIC\t\t\tGBT   \t\tGBTUACPI\n  FACP\t\t\tGBT   \t\tGBTUACPI\n  HPET\t\t\tGBT   \t\tGBTUACPI\n  MCFG\t\t\tGBT   \t\tGBTUACPI\n  SSDT\t\t\tPmRef\t\tCpu0Ist\n  SSDT\t\t\tPmRef\t\tCpu0Ist",
+            "date": "2011-02-28 02:41:00",
+            "post_id": "326653",
+            "reply_to_id": "326497"
+        },
+        {
+            "user_name": "Frantic",
+            "text": "Það er þá eins og einhver hafi sett upp vista einhverstaðar og notað serial key-ið þitt.\nGæti ekki líka verið að þú megir bara setja upp vista einu sinni?",
+            "date": "2011-02-28 10:30:00",
+            "post_id": "326671",
+            "reply_to_id": "326653"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Geturðu tekið screenshot af þessum lyklum í horninu og því sem Vista er að segja?",
+            "date": "2011-02-28 10:36:00",
+            "post_id": "326672",
+            "reply_to_id": "326671"
+        },
+        {
+            "user_name": "CendenZ",
+            "text": "http://www.microsoft.com/genuine/diag/\n testaðu þetta",
+            "date": "2011-02-28 10:38:00",
+            "post_id": "326673",
+            "reply_to_id": "326672"
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Eftir því sem ég best veit þá er búið að setja inn löglegan lykil EN það á eftir að virkja.\nOpnaðu commant promt og skrifaðu\nslmgr.vbs -ato\nÞá ættiru að virkja leyfið.\nSkrifaðu svo \nslmgr.vbs -dlv\nog staðfestu að \nLicense Status: Initial grace period\nhafi breyst yfir í\nLicense Status: Licensed",
+            "date": "2011-02-28 11:01:00",
+            "post_id": "326679",
+            "reply_to_id": "326673"
+        },
+        {
+            "user_name": "Victordp",
+            "text": "Ja gerði þetta þá poppaði upp gluggi og þar stóð License Status : Initial grace period",
+            "date": "2011-02-28 11:54:00",
+            "post_id": "326685",
+            "reply_to_id": "326679"
+        },
+        {
+            "user_name": "beatmaster",
+            "text": "Hægri smelltu á CMD og gerðu Run as Administrator, gerðu þetta svo aftur",
+            "date": "2011-02-28 11:56:00",
+            "post_id": "326686",
+            "reply_to_id": "326685"
+        },
+        {
+            "user_name": "Victordp",
+            "text": "Opnaði þetta og startaði fór bara á bing.com....\nVirkaði ekki heldur :S",
+            "date": "2011-02-28 11:58:00",
+            "post_id": "326687",
+            "reply_to_id": "326686"
+        },
+        {
+            "user_name": "Revenant",
+            "text": "Ahh my bad slmgr -ato er bara fyrir KMS virkjun. \nOpnaðu þá Control Panel og farðu í System gluggann  og veldu þar neðst \"XX days left to activate. Click here to activate Windows now\"\nÞá ættiru að virkja windows leyfið.",
+            "date": "2011-02-28 12:17:00",
+            "post_id": "326690",
+            "reply_to_id": "326687"
+        },
+        {
+            "user_name": "Victordp",
+            "text": "Er ekki svona mikill nýliði \n Það er immit það sem að tölvan er að reyna með að setja upp \"lyklana\" að serial keyinn er ekki til staðar þegar að hann er.",
+            "date": "2011-02-28 12:28:00",
+            "post_id": "326691",
+            "reply_to_id": "326690"
+        },
+        {
+            "user_name": "dori",
+            "text": "Búinn að prufa að \nhringja í Microsoft á Íslandi\n?",
+            "date": "2011-02-28 12:34:00",
+            "post_id": "326694",
+            "reply_to_id": "326691"
+        },
+        {
+            "user_name": "Victordp",
+            "text": "Hérna....",
+            "date": "2011-02-28 17:16:00",
+            "post_id": "326778",
+            "reply_to_id": "326694"
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "Það væri líklegast auðveldara fyrir þig að pirate-a Win7 og activate-a það heldur en að koma þessum vista kúk í lag.",
+            "date": "2011-02-28 17:21:00",
+            "post_id": "326779",
+            "reply_to_id": "326778"
+        },
+        {
+            "user_name": "Hvati",
+            "text": "",
+            "date": "2011-02-28 17:27:00",
+            "post_id": "326780",
+            "reply_to_id": "326779"
+        },
+        {
+            "user_name": "Victordp",
+            "text": "Ja, er buinn að pireta W7 en það rennur alltaf út...",
+            "date": "2011-02-28 17:54:00",
+            "post_id": "326786",
+            "reply_to_id": "326780"
+        },
+        {
+            "user_name": "SolidFeather",
+            "text": "Þá ertu að gera það vitlaust.",
+            "date": "2011-02-28 17:56:00",
+            "post_id": "326787",
+            "reply_to_id": "326786"
+        },
+        {
+            "user_name": "Victordp",
+            "text": "Já, næ bara í það nýjasta á deildu.net nenni ekki að standa í þessu déskotans VESENI!\nTakk fyrir að reyna að laga þetta",
+            "date": "2011-02-28 17:57:00",
+            "post_id": "326788",
+            "reply_to_id": "326787"
+        }
+    ],
+    "date": "2011-02-26 12:38:00"
+}

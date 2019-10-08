@@ -1,0 +1,30 @@
+{
+    "forum_title": "Hugbúnaðar- & Forritunarstofan",
+    "id": "9278",
+    "title": "íslenkst spellcheck í open office",
+    "url": "https://spjall.vaktin.is/viewtopic.php?f=7&t=9278",
+    "posts": [
+        {
+            "user_name": "Phixious",
+            "text": "Var að spá hvort það væri einhverstaðar hægt að finna íslenskt stafsetningar plugin fyrir OpenOffice fyrir windows?",
+            "date": "2005-12-12 16:44:00",
+            "post_id": "100131",
+            "reply_to_id": false
+        },
+        {
+            "user_name": "Phixious",
+            "text": "hjálpar ekki ef það virkar ekki fyrir windows, takk samt",
+            "date": "2005-12-12 21:48:00",
+            "post_id": "100188",
+            "reply_to_id": "100131"
+        },
+        {
+            "user_name": "Phixious",
+            "text": "ok prufa það\n\n\n\nedit: nei virkaði ekki, setti \n\nDICT is IS is_IS\n\nHYPH is IS hyph_is_IS\n\ní dictionary.lst og setti skrárnar í OpenOffice.org1.1.4\\share\\dict\\ooo möppuna\n\ner ég kannski að gera eitthva'ð vitlaust?",
+            "date": "2005-12-13 13:02:00",
+            "post_id": "100267",
+            "reply_to_id": "100188"
+        }
+    ],
+    "date": "2005-12-12 16:44:00"
+}
