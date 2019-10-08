@@ -1,6 +1,6 @@
-# Fjögur spjallborð
+# Fimm spjallborð
 
-Þessi mappa inniheldur 50.000 þræði af fimm íslenskum spjallborðum. Fjöldi frá hverju spjallorði er 10.000. Aldur textanna er á árabilinu 2000-2019 en þar sem um slembiúrtak úr stærra safn er að ræða er óvíst að textar frá öllum árum séu til staðar.
+Þessi mappa inniheldur 50.000 þræði af fimm íslenskum spjallborðum. Fjöldi frá hverju spjallorði er 10.000. Textarnir eru á árabilinu 2000-2019 en þar sem um slembiúrtak úr stærra safni er að ræða er óvíst að textar frá öllum árum séu til staðar.
 
 
 ## Skipulag
